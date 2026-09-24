@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"signed-in-harness.module.code.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts"}
-{"propertySlug":"import","fileName":"signed-in-harness.module.code.ts","path":"command/pages/browser/sign-in/browser-sign-in.command.code.ts"}
-{"propertySlug":"import","fileName":"signed-in-harness.module.code.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.code.ts"}
+{"propertySlug":"import","fileName":"signed-in-harness.module.code.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"signed-in-harness.module.code.ts","path":"command/pages/browser/sign-in/browser-sign-in.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"signed-in-harness.module.code.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/browser/test-harness/browser-test-harness.domain.ts","id":"01a05ca9-d801-7799-a4a3-de2a41d35502"}

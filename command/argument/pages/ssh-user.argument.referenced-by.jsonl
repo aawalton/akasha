@@ -1,2 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/talos/remote-install/talos-remote-install.command.ts","id":"01a06810-1f0b-741e-a044-c84fec558b56"}
-{"propertySlug":"import","fileName":"ssh-user.argument.ts","path":"command/pages/talos/remote-install/talos-remote-install.command.code.ts"}
+{"propertySlug":"import","fileName":"ssh-user.argument.ts","path":"command/pages/talos/remote-install/talos-remote-install.command.code.ts","typed":false,"deferred":false}

@@ -1,3 +1,3 @@
 {"propertySlug":"game-mechanics","path":"story/game/pages/the-tower/the-tower.story-game.ts","id":"01a0673f-a3d7-7000-afc1-88181be588cb"}
-{"propertySlug":"import","fileName":"skill-bonus.game-mechanic.code.ts","path":"story/game/game-mechanic/pages/skill-bonus/skill-bonus.game-mechanic.test.ts"}
+{"propertySlug":"import","fileName":"skill-bonus.game-mechanic.code.ts","path":"story/game/game-mechanic/pages/skill-bonus/skill-bonus.game-mechanic.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/game/game-mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}

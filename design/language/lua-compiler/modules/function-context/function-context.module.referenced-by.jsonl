@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/assignment-validation/assignment-validation.module.code.ts"}
-{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/builtin-function/builtin-function.module.code.ts"}
-{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/this-void-adapter/this-void-adapter.module.code.ts"}
-{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/visit-call/visit-call.module.code.ts"}
-{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/visit-decorators/visit-decorators.module.code.ts"}
-{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/visit-function/visit-function.module.code.ts"}
-{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/visit-template/visit-template.module.code.ts"}
+{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/assignment-validation/assignment-validation.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/builtin-function/builtin-function.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/this-void-adapter/this-void-adapter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/visit-call/visit-call.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/visit-decorators/visit-decorators.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/visit-function/visit-function.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"function-context.module.code.ts","path":"design/language/lua-compiler/modules/visit-template/visit-template.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lua-compiler.domain.ts","id":"01a06759-2aa6-7004-8e68-88c34898e172"}

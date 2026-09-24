@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"command.module.code.tsx","path":"design/interface/system/modules/components-compound-panels/components-compound-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"command.module.code.tsx","path":"page/ui/block-editor/modules/slash-menu/slash-menu.module.code.tsx"}
-{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/modules/companion-skill-select-dialog/companion-skill-select-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/modules/skill-selection-dialog/skill-selection-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"command.module.code.tsx","path":"design/interface/system/modules/components-compound-panels/components-compound-panels.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command.module.code.tsx","path":"page/ui/block-editor/modules/slash-menu/slash-menu.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/modules/companion-skill-select-dialog/companion-skill-select-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/modules/skill-selection-dialog/skill-selection-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"session-leveling.module.code.ts","path":"command/pages/track/modules/session-leveling/session-leveling.module.test.ts"}
-{"propertySlug":"import","fileName":"session-leveling.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"session-leveling.module.code.ts","path":"command/pages/track/session/file/track-session-file.command.code.ts"}
-{"propertySlug":"import","fileName":"session-leveling.module.code.ts","path":"command/pages/track/session/modules/session-acting/session-acting.module.code.ts"}
+{"propertySlug":"import","fileName":"session-leveling.module.code.ts","path":"command/pages/track/modules/session-leveling/session-leveling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"session-leveling.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"session-leveling.module.code.ts","path":"command/pages/track/session/file/track-session-file.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"session-leveling.module.code.ts","path":"command/pages/track/session/modules/session-acting/session-acting.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/track/track.namespace.ts","id":"01a07979-7d2b-70bb-babc-f9bd625aca32"}

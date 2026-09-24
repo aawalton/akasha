@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"repo.page-type.types.ts","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts"}
-{"propertySlug":"import","fileName":"repo.page-type.types.ts","path":"infrastructure/storage/git-repo/repo/pages/code-editor-repo.repo.ts"}
+{"propertySlug":"import","fileName":"repo.page-type.types.ts","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"repo.page-type.types.ts","path":"infrastructure/storage/git-repo/repo/pages/code-editor-repo.repo.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/storage/git-repo/git-repo.domain.ts","id":"01a0658b-0f02-7b81-b4eb-10d0287c3fed"}

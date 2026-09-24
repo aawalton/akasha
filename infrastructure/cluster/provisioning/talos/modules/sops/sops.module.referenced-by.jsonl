@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"sops.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts"}
-{"propertySlug":"import","fileName":"sops.module.code.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.code.ts"}
-{"propertySlug":"import","fileName":"sops.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/sops/sops.module.test.ts"}
+{"propertySlug":"import","fileName":"sops.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sops.module.code.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sops.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/sops/sops.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts","id":"01a06813-7b0e-79e0-ae0d-60b8f8c4a138"}

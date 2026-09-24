@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"turn-state-color.relation-property.types.ts","path":"agent/seat/turn-state/seat-turn-state.page-type.types.ts"}
+{"propertySlug":"import","fileName":"turn-state-color.relation-property.types.ts","path":"agent/seat/turn-state/seat-turn-state.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/seat/turn-state/seat-turn-state.page-type.ts","id":"01a06924-e882-736f-8cac-465ef2b5d799"}
 {"propertySlug":"parts","path":"agent/seat/turn-state/seat-turn-state.page-type.ts","id":"01a06924-e882-736f-8cac-465ef2b5d799"}

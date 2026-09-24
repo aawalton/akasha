@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/catalog-page-content/catalog-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/characters-page-content/characters-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/companions-page-content/companions-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/settings-page-content/settings-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/use-completion-filters/use-completion-filters.module.code.ts"}
-{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-page-content/inventory-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/catalog-page-content/catalog-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/characters-page-content/characters-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/companions-page-content/companions-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/settings-page-content/settings-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/modules/use-completion-filters/use-completion-filters.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-filter-persistence.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-page-content/inventory-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/pattern/design-interface-pattern.domain.ts","id":"01a05c51-8287-7dba-82e4-64786876e805"}

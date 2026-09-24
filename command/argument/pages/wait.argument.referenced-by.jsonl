@@ -1,2 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.ts","id":"01a0685d-ceae-7005-b619-65388a8bde61"}
-{"propertySlug":"import","fileName":"wait.argument.ts","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.code.ts"}
+{"propertySlug":"import","fileName":"wait.argument.ts","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.code.ts","typed":false,"deferred":false}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"model-provider-reading.module.code.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"}
-{"propertySlug":"import","fileName":"model-provider-reading.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"model-provider-reading.module.code.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-provider-reading.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/provider/model-provider.page-type.ts","id":"01a0a20a-0678-73be-983a-777f3d76d8bb"}

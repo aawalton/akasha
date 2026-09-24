@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
+{"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"noun.part-of-speech.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"part-of-speech","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/app/claude-code-app.domain.ts","id":"01a0ca92-e69a-7119-b0d8-cbe2aad57593"}
 {"propertySlug":"part-of-speech","path":"agent/claude-code/remote-control/registration-account/claude-code-remote-control-registration-account.domain.ts","id":"01a0ca81-1571-7e92-8c72-1283dae8a068"}

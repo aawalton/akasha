@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"credited-artist.relation-property.types.ts","path":"alan/music/catalog/track/properties/track-artist.record-property.types.ts"}
+{"propertySlug":"import","fileName":"credited-artist.relation-property.types.ts","path":"alan/music/catalog/track/properties/track-artist.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/music/catalog/track/properties/track-artist.record-property.ts","id":"01a0a5f1-d12c-7bb8-96c2-10781ad40828"}
 {"propertySlug":"parts","path":"alan/music/catalog/track/track.page-type.ts","id":"01a0a57b-23fe-7c3a-92e1-06b28a781b17"}

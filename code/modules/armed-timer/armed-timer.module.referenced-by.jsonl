@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"armed-timer.module.code.ts","path":"agent/model/gateway/modules/idle-timeout/idle-timeout.module.code.ts"}
-{"propertySlug":"import","fileName":"armed-timer.module.code.ts","path":"agent/model/gateway/modules/keepalive/keepalive.module.code.ts"}
-{"propertySlug":"import","fileName":"armed-timer.module.code.ts","path":"code/modules/armed-timer/armed-timer.module.test.ts"}
+{"propertySlug":"import","fileName":"armed-timer.module.code.ts","path":"agent/model/gateway/modules/idle-timeout/idle-timeout.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"armed-timer.module.code.ts","path":"agent/model/gateway/modules/keepalive/keepalive.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"armed-timer.module.code.ts","path":"code/modules/armed-timer/armed-timer.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}

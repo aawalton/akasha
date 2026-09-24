@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"code/type/narrowing/modules/is-json/is-json.module.code.ts"}
-{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}
-{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"}
-{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"page/access/modules/answer-write/answer-write.module.code.ts"}
-{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"page/access/modules/over-server/over-server.module.code.ts"}
+{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"code/type/narrowing/modules/is-json/is-json.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"infrastructure/inference/run/modules/store/inference-run-store.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"page/access/modules/answer-write/answer-write.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json-schema.module.code.ts","path":"page/access/modules/over-server/over-server.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

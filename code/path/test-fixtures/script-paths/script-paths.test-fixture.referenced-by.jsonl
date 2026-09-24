@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"script-paths.test-fixture.code.ts","path":"code/ios-app/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.scripting.test.ts"}
-{"propertySlug":"import","fileName":"script-paths.test-fixture.code.ts","path":"code/ios-app/pages/smilingjenny/scripts/decode-harness-run/smilingjenny-decode-harness-run.shell-script.scripting.test.ts"}
-{"propertySlug":"import","fileName":"script-paths.test-fixture.code.ts","path":"code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.scripting.test.ts"}
-{"propertySlug":"import","fileName":"script-paths.test-fixture.code.ts","path":"code/path/test-fixtures/script-paths/script-paths.test-fixture.test.ts"}
+{"propertySlug":"import","fileName":"script-paths.test-fixture.code.ts","path":"code/ios-app/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.scripting.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"script-paths.test-fixture.code.ts","path":"code/ios-app/pages/smilingjenny/scripts/decode-harness-run/smilingjenny-decode-harness-run.shell-script.scripting.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"script-paths.test-fixture.code.ts","path":"code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.scripting.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"script-paths.test-fixture.code.ts","path":"code/path/test-fixtures/script-paths/script-paths.test-fixture.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/path/code-path.domain.ts","id":"01a09b2a-d60f-7700-b4b4-7b97bc6ba190"}

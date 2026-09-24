@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"combat-actions-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-crux-record/combat-action-crux-record.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-actions-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-events/combat-action-events.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-actions-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-actions-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-crux-record/combat-action-crux-record.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-actions-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-events/combat-action-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-actions-constants.module.code.ts","path":"temper/addon/pages/combat/modules/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

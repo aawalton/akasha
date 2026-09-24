@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"request-deny.command.code.ts","path":"command/pages/request/deny/request-deny.command.test.ts"}
-{"propertySlug":"import","fileName":"request-deny.command.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
-{"propertySlug":"import","fileName":"request-deny.command.ts","path":"command/pages/request/deny/request-deny.command.test.ts"}
+{"propertySlug":"import","fileName":"request-deny.command.code.ts","path":"command/pages/request/deny/request-deny.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"request-deny.command.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"request-deny.command.ts","path":"command/pages/request/deny/request-deny.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/request/request.namespace.ts","id":"01a0c501-03d8-7e2f-9cfe-0943bb8d8511"}

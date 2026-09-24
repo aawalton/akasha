@@ -1,8 +1,8 @@
 {"propertySlug":"championed-domain","path":"persona/pages/ember/ember.persona.ts","id":"019f23e9-665d-7dd0-987b-59e3d476fdd7"}
-{"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.test.ts"}
-{"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts"}
-{"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-with-its-parts/a-page-with-its-parts.folder-shape.test.ts"}
-{"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.test.ts"}
-{"propertySlug":"import","fileName":"temper.domain.ts","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx"}
+{"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-domain-with-its-parts/a-domain-with-its-parts.folder-shape.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/a-page-with-its-parts/a-page-with-its-parts.folder-shape.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper.domain.ts","path":"check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper.domain.ts","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/ember-ui-testing.initiative.ts","id":"01a0c96b-692d-77fd-811a-4e25a6ff75ba"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}

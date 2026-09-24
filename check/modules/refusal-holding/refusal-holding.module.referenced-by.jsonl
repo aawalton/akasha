@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
-{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.code.ts"}
-{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"check/modules/refusal-holding/refusal-holding.module.test.ts"}
-{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.code.ts"}
+{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"check/modules/refusal-holding/refusal-holding.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusal-holding.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

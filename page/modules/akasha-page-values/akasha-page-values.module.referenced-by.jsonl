@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"akasha-page-values.module.code.ts","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"}
-{"propertySlug":"import","fileName":"akasha-page-values.module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"}
-{"propertySlug":"import","fileName":"akasha-page-values.module.code.ts","path":"alan/track/daily/modules/day-reading/day-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"akasha-page-values.module.code.ts","path":"page/modules/akasha-page-values/akasha-page-values.module.test.ts"}
+{"propertySlug":"import","fileName":"akasha-page-values.module.code.ts","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"akasha-page-values.module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"akasha-page-values.module.code.ts","path":"alan/track/daily/modules/day-reading/day-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"akasha-page-values.module.code.ts","path":"page/modules/akasha-page-values/akasha-page-values.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

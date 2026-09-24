@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"domain-drawing.module.code.ts","path":"command/pages/domain/dag/domain-dag.command.code.ts"}
-{"propertySlug":"import","fileName":"domain-drawing.module.code.ts","path":"command/pages/domain/declaration-list/domain-declaration-list.command.code.ts"}
-{"propertySlug":"import","fileName":"domain-drawing.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.test.ts"}
+{"propertySlug":"import","fileName":"domain-drawing.module.code.ts","path":"command/pages/domain/dag/domain-dag.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"domain-drawing.module.code.ts","path":"command/pages/domain/declaration-list/domain-declaration-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"domain-drawing.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/domain/domain.namespace.ts","id":"01a07c03-e381-7406-89c5-7c74061fd947"}

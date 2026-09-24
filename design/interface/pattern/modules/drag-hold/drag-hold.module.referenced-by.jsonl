@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"design/interface/pattern/modules/drag-hold/drag-hold.module.test.ts"}
-{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"design/interface/pattern/modules/sort-group/sort-group.module.code.tsx"}
-{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"page/ui/component/modules/page-board/page-board.module.code.tsx"}
-{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"page/ui/component/modules/property-visibility-picker/property-visibility-picker.module.code.tsx"}
-{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"}
-{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"page/ui/component/modules/use-page-calendar-state/use-page-calendar-state.module.code.ts"}
+{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"design/interface/pattern/modules/drag-hold/drag-hold.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"design/interface/pattern/modules/sort-group/sort-group.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"page/ui/component/modules/page-board/page-board.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"page/ui/component/modules/property-visibility-picker/property-visibility-picker.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drag-hold.module.code.ts","path":"page/ui/component/modules/use-page-calendar-state/use-page-calendar-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/pattern/design-interface-pattern.domain.ts","id":"01a05c51-8287-7dba-82e4-64786876e805"}

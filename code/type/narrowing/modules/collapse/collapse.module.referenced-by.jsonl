@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"collapse.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.code.ts"}
-{"propertySlug":"import","fileName":"collapse.module.code.ts","path":"code/process/modules/pid-signal/pid-signal.module.code.ts"}
-{"propertySlug":"import","fileName":"collapse.module.code.ts","path":"code/process/modules/process-ending/process-ending.module.code.ts"}
+{"propertySlug":"import","fileName":"collapse.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"collapse.module.code.ts","path":"code/process/modules/pid-signal/pid-signal.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"collapse.module.code.ts","path":"code/process/modules/process-ending/process-ending.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

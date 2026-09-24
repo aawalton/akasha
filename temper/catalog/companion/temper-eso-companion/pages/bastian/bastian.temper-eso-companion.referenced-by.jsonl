@@ -14,7 +14,7 @@
 {"propertySlug":"companion-id","path":"temper/catalog/companion/skill/pages/bastian-bastian-tough/bastian-bastian-tough.temper-companion-skill.ts","id":"019e6484-3854-7de8-b88a-9a80cc6ffa59"}
 {"propertySlug":"companion-id","path":"temper/catalog/companion/skill/pages/bastian-bastian-unleashed-rage/bastian-bastian-unleashed-rage.temper-companion-skill.ts","id":"019e6484-3856-76d3-85fc-9590ec4b8b3d"}
 {"propertySlug":"companion-id","path":"temper/player/character/temper-companion-progress/pages/bastian.temper-companion-progress.ts","id":"019dda20-e0ef-782c-beb0-ff89523344e3"}
-{"propertySlug":"import","fileName":"bastian.temper-eso-companion.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.test.ts"}
-{"propertySlug":"import","fileName":"bastian.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.test.ts"}
-{"propertySlug":"import","fileName":"bastian.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts"}
-{"propertySlug":"import","fileName":"bastian.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.test.ts"}
+{"propertySlug":"import","fileName":"bastian.temper-eso-companion.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"bastian.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"bastian.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"bastian.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.test.ts","typed":false,"deferred":false}

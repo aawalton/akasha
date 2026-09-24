@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"remove-page-type.change-agent.code.ts","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"remove-page-type.change-agent.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"}
-{"propertySlug":"import","fileName":"remove-page-type.change-agent.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
+{"propertySlug":"import","fileName":"remove-page-type.change-agent.code.ts","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"remove-page-type.change-agent.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"remove-page-type.change-agent.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/agent/file/change-agent-file.domain.ts","id":"01a07cc2-47e0-7c08-b48a-bacf9c0f9386"}

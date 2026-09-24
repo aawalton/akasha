@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"temper-package-typecheck.command.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.test.ts"}
-{"propertySlug":"import","fileName":"temper-package-typecheck.command.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts"}
+{"propertySlug":"import","fileName":"temper-package-typecheck.command.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-package-typecheck.command.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/temper/temper.namespace.ts","id":"01a07c18-53a9-70f9-8d78-f1c36c87af0b"}

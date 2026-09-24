@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"}
-{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"}
-{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"}
-{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx"}
-{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slots.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/equipment/kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}

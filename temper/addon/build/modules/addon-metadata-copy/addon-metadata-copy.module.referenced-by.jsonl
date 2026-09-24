@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"addon-metadata-copy.module.code.ts","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.code.ts"}
-{"propertySlug":"import","fileName":"addon-metadata-copy.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-metadata-copy.module.code.ts","path":"temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.test.ts"}
+{"propertySlug":"import","fileName":"addon-metadata-copy.module.code.ts","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-metadata-copy.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-metadata-copy.module.code.ts","path":"temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}

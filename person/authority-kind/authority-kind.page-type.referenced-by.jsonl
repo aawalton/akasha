@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/domain.authority-kind.ts"}
-{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/feature-approval.authority-kind.ts"}
-{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/feature-request.authority-kind.ts"}
-{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/page-data.authority-kind.ts"}
-{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/page-schema.authority-kind.ts"}
+{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/domain.authority-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/feature-approval.authority-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/feature-request.authority-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/page-data.authority-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"authority-kind.page-type.types.ts","path":"person/authority-kind/pages/page-schema.authority-kind.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"target-page-type","path":"person/authority/properties/person-authority-kind.relation-property.ts","id":"01a0542e-017d-709a-bab6-fa1c73782240"}

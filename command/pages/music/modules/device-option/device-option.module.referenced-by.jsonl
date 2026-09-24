@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/back/music-back.command.code.ts"}
-{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/modules/device-option/device-option.module.test.ts"}
-{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/pause/music-pause.command.code.ts"}
-{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/repeat/music-repeat.command.code.ts"}
-{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/seek/music-seek.command.code.ts"}
-{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/shuffle/music-shuffle.command.code.ts"}
-{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/skip/music-skip.command.code.ts"}
-{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/volume/music-volume.command.code.ts"}
+{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/back/music-back.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/modules/device-option/device-option.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/pause/music-pause.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/repeat/music-repeat.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/seek/music-seek.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/shuffle/music-shuffle.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/skip/music-skip.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"device-option.module.code.ts","path":"command/pages/music/volume/music-volume.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/music/music.namespace.ts","id":"01a07bbf-258e-7f64-8bc2-f340c44e592e"}

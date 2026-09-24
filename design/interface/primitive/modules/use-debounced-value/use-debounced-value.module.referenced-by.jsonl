@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"use-debounced-value.module.code.ts","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-debounced-value.module.code.ts","path":"page/ui/component/modules/relation-popover/relation-popover.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-debounced-value.module.code.ts","path":"temper/web/modules/completion-page-content/completion-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-debounced-value.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-debounced-value.module.code.ts","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-debounced-value.module.code.ts","path":"page/ui/component/modules/relation-popover/relation-popover.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-debounced-value.module.code.ts","path":"temper/web/modules/completion-page-content/completion-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-debounced-value.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

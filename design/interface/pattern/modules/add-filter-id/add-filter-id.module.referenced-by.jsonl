@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/characters-tab-filters/characters-tab-filters.module.code.tsx"}
-{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx"}
-{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/companions-leaderboard-tab/companions-leaderboard-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/completion-account-tab/completion-account-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/completion-summary-tab/completion-summary-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/player-economics-ui/modules/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/characters-tab-filters/characters-tab-filters.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/companions-leaderboard-tab/companions-leaderboard-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/completion-account-tab/completion-account-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/modules/completion-summary-tab/completion-summary-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"add-filter-id.module.code.ts","path":"temper/web/player-economics-ui/modules/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/pattern/design-interface-pattern.domain.ts","id":"01a05c51-8287-7dba-82e4-64786876e805"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"page-type-access.module.code.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts"}
-{"propertySlug":"import","fileName":"page-type-access.module.code.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.test.ts"}
-{"propertySlug":"import","fileName":"page-type-access.module.code.ts","path":"person/modules/page-type-access/page-type-access.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type-access.module.code.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-access.module.code.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-access.module.code.ts","path":"person/modules/page-type-access/page-type-access.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"cooling.module.code.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts"}
-{"propertySlug":"import","fileName":"cooling.module.code.ts","path":"command/pages/fitness/modules/cooling/cooling.module.test.ts"}
-{"propertySlug":"import","fileName":"cooling.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts"}
+{"propertySlug":"import","fileName":"cooling.module.code.ts","path":"command/pages/fitness/cooldown/fitness-cooldown.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cooling.module.code.ts","path":"command/pages/fitness/modules/cooling/cooling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cooling.module.code.ts","path":"command/pages/fitness/next/fitness-next.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/fitness/fitness.namespace.ts","id":"01a0b6de-94d3-70e8-885d-2799c7d023a9"}

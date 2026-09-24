@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"track-session-file.command.code.ts","path":"command/pages/track/session/file/track-session-file.command.test.ts"}
-{"propertySlug":"import","fileName":"track-session-file.command.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts"}
-{"propertySlug":"import","fileName":"track-session-file.command.ts","path":"command/pages/track/session/file/track-session-file.command.code.ts"}
-{"propertySlug":"import","fileName":"track-session-file.command.ts","path":"command/pages/track/session/file/track-session-file.command.test.ts"}
+{"propertySlug":"import","fileName":"track-session-file.command.code.ts","path":"command/pages/track/session/file/track-session-file.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"track-session-file.command.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"track-session-file.command.ts","path":"command/pages/track/session/file/track-session-file.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"track-session-file.command.ts","path":"command/pages/track/session/file/track-session-file.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/track/session/track-session.namespace.ts","id":"01a07979-7d78-7cc9-b390-00151a274e16"}

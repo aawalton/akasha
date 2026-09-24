@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.reading.code.ts"}
-{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"}
-{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/track/daily/day/modules/cost-multiplier/cost-multiplier.computed-property-module.test.ts"}
-{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/track/daily/day/properties/spend-hours.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/harness/cost/readouts/multiplier/cost-multiplier.readout.reading.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/track/daily/day/modules/cost-multiplier/cost-multiplier.computed-property-module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cost-multiplier.computed-property-module.code.ts","path":"alan/track/daily/day/properties/spend-hours.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/track/daily/day/day.page-type.ts","id":"01a05fd8-c30f-72ee-80d9-eb1c179b8359"}

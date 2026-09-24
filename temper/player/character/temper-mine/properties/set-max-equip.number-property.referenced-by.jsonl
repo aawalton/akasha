@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"set-max-equip.number-property.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"set-max-equip.number-property.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/temper-mine/properties/items.page-property-entry.ts","id":"01a05fcd-f550-7cd2-9e3a-e8c18d91b7a8"}
 {"propertySlug":"parts","path":"temper/player/character/temper-mine/temper-mine.page-type.ts","id":"01a05fcd-f557-7231-b2a4-ecded061b740"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"email-message-fetching.module.code.ts","path":"alan/harness/monarch/modules/gmail-cache/monarch-gmail-cache.module.code.ts"}
-{"propertySlug":"import","fileName":"email-message-fetching.module.code.ts","path":"command/pages/email/message/list/email-message-list.command.code.ts"}
-{"propertySlug":"import","fileName":"email-message-fetching.module.code.ts","path":"command/pages/email/message/show/email-message-show.command.code.ts"}
+{"propertySlug":"import","fileName":"email-message-fetching.module.code.ts","path":"alan/harness/monarch/modules/gmail-cache/monarch-gmail-cache.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-message-fetching.module.code.ts","path":"command/pages/email/message/list/email-message-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-message-fetching.module.code.ts","path":"command/pages/email/message/show/email-message-show.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}

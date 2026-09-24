@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"due-date.calendar-date-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"due-date.calendar-date-property.types.ts","path":"temper/player/progress/thing/temper-progress-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"due-date.calendar-date-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"due-date.calendar-date-property.types.ts","path":"temper/player/progress/thing/temper-progress-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.ts","id":"01a05fd8-c30f-72c4-9102-9b3dbc179f51"}
 {"propertySlug":"page-property","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}
 {"propertySlug":"parts","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}

@@ -1,2 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/inference/wan/generate/inference-wan-generate.command.ts","id":"01a093fa-cf48-7c82-9dc2-020adb45aa53"}
-{"propertySlug":"import","fileName":"start-image.argument.ts","path":"command/pages/inference/wan/generate/inference-wan-generate.command.code.ts"}
+{"propertySlug":"import","fileName":"start-image.argument.ts","path":"command/pages/inference/wan/generate/inference-wan-generate.command.code.ts","typed":false,"deferred":false}

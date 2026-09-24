@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"deploy-device-installing.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
-{"propertySlug":"import","fileName":"deploy-device-installing.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.test.ts"}
+{"propertySlug":"import","fileName":"deploy-device-installing.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy-device-installing.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy-device-installing.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/deploy/deploy.command.ts","id":"01a05af7-5996-7002-bc83-446645b7de16"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"type-literal.module.code.ts","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.code.ts"}
-{"propertySlug":"import","fileName":"type-literal.module.code.ts","path":"change/mechanical/file-content/remove/remove-type-member/remove-type-member.change-mechanical-file-content.code.ts"}
-{"propertySlug":"import","fileName":"type-literal.module.code.ts","path":"change/modules/type-literal/type-literal.module.test.ts"}
+{"propertySlug":"import","fileName":"type-literal.module.code.ts","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"type-literal.module.code.ts","path":"change/mechanical/file-content/remove/remove-type-member/remove-type-member.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"type-literal.module.code.ts","path":"change/modules/type-literal/type-literal.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

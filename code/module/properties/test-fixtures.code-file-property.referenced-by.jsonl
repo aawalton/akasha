@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"test-fixtures.code-file-property.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts"}
-{"propertySlug":"import","fileName":"test-fixtures.code-file-property.types.ts","path":"code/module-property-group/module-property-group.page-type.types.ts"}
-{"propertySlug":"import","fileName":"test-fixtures.code-file-property.types.ts","path":"code/module/module.page-type.types.ts"}
-{"propertySlug":"import","fileName":"test-fixtures.code-file-property.types.ts","path":"page/computed-property/computed-property.page-type.types.ts"}
+{"propertySlug":"import","fileName":"test-fixtures.code-file-property.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"test-fixtures.code-file-property.types.ts","path":"code/module-property-group/module-property-group.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"test-fixtures.code-file-property.types.ts","path":"code/module/module.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"test-fixtures.code-file-property.types.ts","path":"page/computed-property/computed-property.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"code/module-property-group/module-property-group.page-type.ts","id":"01a087b6-ed4d-74ed-b30f-7c9dd49d73c0"}
 {"propertySlug":"page-property","path":"code/module/module.page-type.ts","id":"01a04a20-6e04-7b99-81a0-0efe0ad0a02a"}
 {"propertySlug":"page-property","path":"page/computed-property/computed-property.page-type.ts","id":"01a06e70-0f25-77ad-9080-95388ef3ba51"}

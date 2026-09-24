@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"combat-action-matching.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-matching.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-matching.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-store/combat-action-store.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-matching.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-target/combat-action-target.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-action-matching.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-matching.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-matching.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-store/combat-action-store.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-matching.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-target/combat-action-target.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

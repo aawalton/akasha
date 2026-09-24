@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"git-hook.page-type.types.ts","path":"infrastructure/git-transport/git-hook/post-receive-mirror/post-receive-mirror.git-hook.ts"}
-{"propertySlug":"import","fileName":"git-hook.page-type.types.ts","path":"infrastructure/git-transport/git-hook/pre-receive-change-branches/pre-receive-change-branches.git-hook.ts"}
-{"propertySlug":"import","fileName":"git-hook.page-type.types.ts","path":"infrastructure/git-transport/git-hook/pre-receive-main-append-only/pre-receive-main-append-only.git-hook.ts"}
+{"propertySlug":"import","fileName":"git-hook.page-type.types.ts","path":"infrastructure/git-transport/git-hook/post-receive-mirror/post-receive-mirror.git-hook.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"git-hook.page-type.types.ts","path":"infrastructure/git-transport/git-hook/pre-receive-change-branches/pre-receive-change-branches.git-hook.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"git-hook.page-type.types.ts","path":"infrastructure/git-transport/git-hook/pre-receive-main-append-only/pre-receive-main-append-only.git-hook.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/git-transport/git-transport.domain.ts","id":"01a06816-2f11-7be3-9bd7-706fac3996ff"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"addons-bundle-dir.module.code.ts","path":"temper/web/routes/addon-bundle-version/addon-bundle-version.route.code.ts"}
-{"propertySlug":"import","fileName":"addons-bundle-dir.module.code.ts","path":"temper/web/routes/addon-bundle-version/addon-bundle-version.route.test.ts"}
-{"propertySlug":"import","fileName":"addons-bundle-dir.module.code.ts","path":"temper/web/routes/addon-bundle/addon-bundle.route.code.ts"}
-{"propertySlug":"import","fileName":"addons-bundle-dir.module.code.ts","path":"temper/web/routes/addon-bundle/addon-bundle.route.test.ts"}
+{"propertySlug":"import","fileName":"addons-bundle-dir.module.code.ts","path":"temper/web/routes/addon-bundle-version/addon-bundle-version.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addons-bundle-dir.module.code.ts","path":"temper/web/routes/addon-bundle-version/addon-bundle-version.route.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"addons-bundle-dir.module.code.ts","path":"temper/web/routes/addon-bundle/addon-bundle.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addons-bundle-dir.module.code.ts","path":"temper/web/routes/addon-bundle/addon-bundle.route.test.ts","typed":false,"deferred":true}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

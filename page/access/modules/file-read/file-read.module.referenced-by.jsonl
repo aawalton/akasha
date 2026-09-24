@@ -1,4 +1,5 @@
-{"propertySlug":"import","fileName":"file-read.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts"}
-{"propertySlug":"import","fileName":"file-read.module.code.ts","path":"page/access/modules/file-shape/file-shape.module.code.ts"}
-{"propertySlug":"import","fileName":"file-read.module.code.ts","path":"page/access/modules/get/get.module.code.ts"}
+{"propertySlug":"import","fileName":"file-read.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-read.module.code.ts","path":"page/access/modules/file-shape/file-shape.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"file-read.module.code.ts","path":"page/access/modules/get/get.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-read.module.code.ts","path":"page/access/modules/get/get.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

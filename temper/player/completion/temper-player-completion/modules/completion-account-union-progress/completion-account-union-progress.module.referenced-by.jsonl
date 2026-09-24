@@ -1,8 +1,10 @@
-{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-account/completion-summary-account.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.test.ts"}
-{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/account-progress/account-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/account-quests-panel-card/account-quests-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/companion-progress/companion-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/companion-quests-union-panel-card/companion-quests-union-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-account/completion-summary-account.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/account-progress/account-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/account-progress/account-progress.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/account-quests-panel-card/account-quests-panel-card.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/companion-progress/companion-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/companion-progress/companion-progress.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-account-union-progress.module.code.ts","path":"temper/web/modules/companion-quests-union-panel-card/companion-quests-union-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}

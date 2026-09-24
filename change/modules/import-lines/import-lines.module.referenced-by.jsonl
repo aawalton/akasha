@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.code.ts"}
-{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.code.ts"}
-{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts"}
-{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/modules/import-lines/import-lines.module.test.ts"}
-{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/modules/name-binding/name-binding.module.code.ts"}
+{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/modules/import-lines/import-lines.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"import-lines.module.code.ts","path":"change/modules/name-binding/name-binding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

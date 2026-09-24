@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"browser-screenshot.command.code.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts"}
-{"propertySlug":"import","fileName":"browser-screenshot.command.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts"}
-{"propertySlug":"import","fileName":"browser-screenshot.command.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts"}
+{"propertySlug":"import","fileName":"browser-screenshot.command.code.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"browser-screenshot.command.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"browser-screenshot.command.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/browser/browser.namespace.ts","id":"01a07bcb-0b96-7d87-888f-325a70adf3df"}

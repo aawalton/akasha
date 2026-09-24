@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"index-identities.module.code.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"index-identities.module.code.ts","path":"page/index/modules/identities/index-identities.module.test.ts"}
-{"propertySlug":"import","fileName":"index-identities.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}
-{"propertySlug":"import","fileName":"index-identities.module.code.ts","path":"page/index/modules/settling/index-settling.module.code.ts"}
+{"propertySlug":"import","fileName":"index-identities.module.code.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-identities.module.code.ts","path":"page/index/modules/identities/index-identities.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-identities.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-identities.module.code.ts","path":"page/index/modules/settling/index-settling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

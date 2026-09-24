@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"lua-class.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/class-extends/class-extends.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"lua-class.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/class-table/class-table.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"lua-class.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/instance-of/instance-of.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"lua-class.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/new-instance/new-instance.lualib-helper.code.ts"}
+{"propertySlug":"import","fileName":"lua-class.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/class-extends/class-extends.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-class.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/class-table/class-table.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-class.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/instance-of/instance-of.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-class.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/new-instance/new-instance.lualib-helper.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lualib/lualib.lua-runtime-library.ts","id":"01a06759-2aa6-7003-b87a-4463c5e70141"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"today.module.code.ts","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.code.ts"}
-{"propertySlug":"import","fileName":"today.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
-{"propertySlug":"import","fileName":"today.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
+{"propertySlug":"import","fileName":"today.module.code.ts","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"today.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"today.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"text/writing/text-writing.domain.ts","id":"01a08ccc-bd21-7a44-8927-686696e7f011"}

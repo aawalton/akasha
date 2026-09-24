@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-data-01/metric-tree-data-01.module.code.ts"}
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-data-02/metric-tree-data-02.module.code.ts"}
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-data/metric-tree-data.module.code.ts"}
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-queries/metric-tree-queries.module.code.ts"}
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx"}
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/web/modules/stat-category-panel-card/stat-category-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/web/modules/stat-subcategory-panel-card/stat-subcategory-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/web/modules/stats-panel/stats-panel.module.code.tsx"}
+{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-data-01/metric-tree-data-01.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-data-02/metric-tree-data-02.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-data/metric-tree-data.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/player/character/stat/modules/metric-tree-queries/metric-tree-queries.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/web/modules/stat-category-panel-card/stat-category-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/web/modules/stat-subcategory-panel-card/stat-subcategory-panel-card.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric-tree-types.module.code.ts","path":"temper/web/modules/stats-panel/stats-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}

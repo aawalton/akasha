@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"sparse-array.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-new/sparse-array-new.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"sparse-array.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-push/sparse-array-push.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"sparse-array.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-spread/sparse-array-spread.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"sparse-array.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-spread/sparse-array-spread.lualib-helper.lua50-code.ts"}
+{"propertySlug":"import","fileName":"sparse-array.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-new/sparse-array-new.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sparse-array.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-push/sparse-array-push.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sparse-array.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-spread/sparse-array-spread.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sparse-array.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-spread/sparse-array-spread.lualib-helper.lua50-code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lua-compiler.domain.ts","id":"01a06759-2aa6-7004-8e68-88c34898e172"}

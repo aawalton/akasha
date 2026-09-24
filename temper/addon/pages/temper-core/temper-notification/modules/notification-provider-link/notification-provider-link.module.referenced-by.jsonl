@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"notification-provider-link.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-lua-errors/quiet-lua-errors.module.code.ts"}
-{"propertySlug":"import","fileName":"notification-provider-link.module.code.ts","path":"temper/addon/pages/temper-core/temper-notification/modules/notification-entry/notification-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"notification-provider-link.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-lua-errors/quiet-lua-errors.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"notification-provider-link.module.code.ts","path":"temper/addon/pages/temper-core/temper-notification/modules/notification-entry/notification-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/temper-core/temper-notification/temper-notification.domain.ts","id":"01a0c72a-85c8-7f52-9a11-b347634ce417"}

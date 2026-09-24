@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts"}
-{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"}
-{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"code/body/modules/body-loading/body-loading.module.test.ts"}
-{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.code.ts"}
-{"propertySlug":"import","fileName":"body-loading.module.test-fixtures.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.test.ts"}
-{"propertySlug":"import","fileName":"body-loading.module.test-fixtures.ts","path":"code/body/modules/body-loading/body-loading.module.test.ts"}
+{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"code/body/modules/body-loading/body-loading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-loading.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-loading.module.test-fixtures.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"body-loading.module.test-fixtures.ts","path":"code/body/modules/body-loading/body-loading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/body/code-body.domain.ts","id":"01a09b2c-cc50-7f0f-838d-abfa522d31e4"}

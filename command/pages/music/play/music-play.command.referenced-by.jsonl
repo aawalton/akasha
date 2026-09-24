@@ -1,5 +1,7 @@
-{"propertySlug":"import","fileName":"music-play.command.code.ts","path":"command/pages/music/play/music-play.command.test.ts"}
-{"propertySlug":"import","fileName":"music-play.command.code.ts","path":"command/pages/music/queue/music-queue.command.code.ts"}
-{"propertySlug":"import","fileName":"music-play.command.code.ts","path":"command/pages/music/queue/music-queue.command.test.ts"}
-{"propertySlug":"import","fileName":"music-play.command.ts","path":"command/pages/music/play/music-play.command.code.ts"}
+{"propertySlug":"import","fileName":"music-play.command.code.ts","path":"command/pages/music/play/music-play.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"music-play.command.code.ts","path":"command/pages/music/play/music-play.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"music-play.command.code.ts","path":"command/pages/music/queue/music-queue.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"music-play.command.code.ts","path":"command/pages/music/queue/music-queue.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"music-play.command.code.ts","path":"command/pages/music/queue/music-queue.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"music-play.command.ts","path":"command/pages/music/play/music-play.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/music/music.namespace.ts","id":"01a07bbf-258e-7f64-8bc2-f340c44e592e"}

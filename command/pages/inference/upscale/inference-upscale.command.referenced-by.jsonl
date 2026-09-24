@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"inference-upscale.command.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.test.ts"}
-{"propertySlug":"import","fileName":"inference-upscale.command.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts"}
+{"propertySlug":"import","fileName":"inference-upscale.command.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-upscale.command.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/inference/inference.namespace.ts","id":"01a07bc2-afbe-727e-90b4-d853582c03a2"}

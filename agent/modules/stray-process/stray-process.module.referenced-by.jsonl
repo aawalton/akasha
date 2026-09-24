@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"stray-process.module.code.ts","path":"agent/modules/stray-process/stray-process.module.test.ts"}
-{"propertySlug":"import","fileName":"stray-process.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.code.ts"}
-{"propertySlug":"import","fileName":"stray-process.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.test.ts"}
-{"propertySlug":"import","fileName":"stray-process.module.code.ts","path":"command/pages/agent/strays/agent-strays.command.code.ts"}
+{"propertySlug":"import","fileName":"stray-process.module.code.ts","path":"agent/modules/stray-process/stray-process.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stray-process.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stray-process.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"stray-process.module.code.ts","path":"command/pages/agent/strays/agent-strays.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

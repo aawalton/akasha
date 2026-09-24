@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"match-comparison.select-property.ts","path":"alan/harness/monarch/category-rule/properties/match-comparison.select-property.types.ts"}
-{"propertySlug":"import","fileName":"match-comparison.select-property.types.ts","path":"alan/harness/monarch/category-rule/properties/matches.record-property.types.ts"}
+{"propertySlug":"import","fileName":"match-comparison.select-property.ts","path":"alan/harness/monarch/category-rule/properties/match-comparison.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"match-comparison.select-property.types.ts","path":"alan/harness/monarch/category-rule/properties/matches.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/harness/monarch/category-rule/properties/matches.record-property.ts","id":"01a0680c-3c00-7003-b571-6f4c9a2d3104"}
 {"propertySlug":"parts","path":"alan/harness/monarch/category-rule/category-rule.page-type.ts","id":"01a0680c-3c00-7007-a659-3e8d1c4f3108"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"difficulty.select-property.ts","path":"alan/track/to-do/properties/difficulty.select-property.types.ts"}
-{"propertySlug":"import","fileName":"difficulty.select-property.types.ts","path":"alan/track/to-do/to-do.page-type.types.ts"}
+{"propertySlug":"import","fileName":"difficulty.select-property.ts","path":"alan/track/to-do/properties/difficulty.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"difficulty.select-property.types.ts","path":"alan/track/to-do/to-do.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/track/to-do/to-do.page-type.ts","id":"01a065a1-49b4-7e7c-8b95-ed10df98898c"}
 {"propertySlug":"parts","path":"alan/track/to-do/to-do.page-type.ts","id":"01a065a1-49b4-7e7c-8b95-ed10df98898c"}

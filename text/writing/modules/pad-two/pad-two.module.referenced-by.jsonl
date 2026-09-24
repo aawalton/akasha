@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/day-boundary/modules/day-string/day-string.module.code.ts"}
-{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/recurrence/modules/scheduling/scheduling.module.code.ts"}
-{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"design/interface/badge/modules/date-badge/date-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.code.ts"}
-{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"page/core/view/modules/calendar-grid/calendar-grid.module.code.ts"}
+{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/day-boundary/modules/day-string/day-string.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"alan/harness/recurrence/modules/scheduling/scheduling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"design/interface/badge/modules/date-badge/date-badge.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pad-two.module.code.ts","path":"page/core/view/modules/calendar-grid/calendar-grid.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"text/writing/text-writing.domain.ts","id":"01a08ccc-bd21-7a44-8927-686696e7f011"}

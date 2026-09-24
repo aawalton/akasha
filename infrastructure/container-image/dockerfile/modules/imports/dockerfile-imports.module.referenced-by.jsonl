@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"dockerfile-imports.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/bun-service/dockerfile-bun-service.module.code.ts"}
-{"propertySlug":"import","fileName":"dockerfile-imports.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.test.ts"}
-{"propertySlug":"import","fileName":"dockerfile-imports.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/nextjs/dockerfile-nextjs.module.code.ts"}
-{"propertySlug":"import","fileName":"dockerfile-imports.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"dockerfile-imports.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/bun-service/dockerfile-bun-service.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dockerfile-imports.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dockerfile-imports.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/nextjs/dockerfile-nextjs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dockerfile-imports.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/container-image/dockerfile/dockerfile.domain.ts","id":"01a06865-abff-7000-a441-7a4caa49c9d9"}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/ambrosia-bakery.restaurant.ts"}
-{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/aubergene.restaurant.ts"}
-{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/cafe-zupas.restaurant.ts"}
-{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/la-vaca-steakhouse.restaurant.ts"}
-{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/the-cheesecake-factory.restaurant.ts"}
-{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/toss-d.restaurant.ts"}
-{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/vessel.restaurant.ts"}
+{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/ambrosia-bakery.restaurant.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/aubergene.restaurant.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/cafe-zupas.restaurant.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/la-vaca-steakhouse.restaurant.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/the-cheesecake-factory.restaurant.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/toss-d.restaurant.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"restaurant.page-type.types.ts","path":"alan/collection/place/restaurant/pages/vessel.restaurant.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/collection/place/place.domain.ts","id":"01a06590-0000-7000-8000-000000000201"}

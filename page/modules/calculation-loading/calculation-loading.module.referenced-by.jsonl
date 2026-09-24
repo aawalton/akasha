@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"calculation-loading.module.code.ts","path":"page/modules/calculation-loading/calculation-loading.module.test.ts"}
-{"propertySlug":"import","fileName":"calculation-loading.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
-{"propertySlug":"import","fileName":"calculation-loading.module.test-fixtures.ts","path":"page/modules/calculation-loading/calculation-loading.module.test.ts"}
+{"propertySlug":"import","fileName":"calculation-loading.module.code.ts","path":"page/modules/calculation-loading/calculation-loading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"calculation-loading.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"calculation-loading.module.test-fixtures.ts","path":"page/modules/calculation-loading/calculation-loading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

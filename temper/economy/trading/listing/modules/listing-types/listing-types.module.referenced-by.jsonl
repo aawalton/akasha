@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"listing-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-types/trading-types.module.code.ts"}
-{"propertySlug":"import","fileName":"listing-types.module.code.ts","path":"temper/economy/trading/listing/modules/listing-types/listing-types.module.test.ts"}
+{"propertySlug":"import","fileName":"listing-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-types/trading-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"listing-types.module.code.ts","path":"temper/economy/trading/listing/modules/listing-types/listing-types.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/economy/trading/listing/temper-trading-listing.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}

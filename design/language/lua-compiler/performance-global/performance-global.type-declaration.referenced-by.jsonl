@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"alan/atlas-web/server.ts"}
-{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"}
-{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"page/modules/entry-queue/page-entry-queue.module.test.ts"}
-{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"}
-{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"page/ui/modules/page-card-perf/page-card-perf.module.code.ts"}
-{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
+{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"alan/atlas-web/server.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"page/modules/entry-queue/page-entry-queue.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"page/ui/modules/page-card-perf/page-card-perf.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"performance-global.type-declaration.d.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lua-compiler.domain.ts","id":"01a06759-2aa6-7004-8e68-88c34898e172"}

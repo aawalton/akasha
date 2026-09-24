@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"table-functions.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts"}
-{"propertySlug":"import","fileName":"table-functions.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"table-functions.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts"}
-{"propertySlug":"import","fileName":"table-functions.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.code.ts"}
+{"propertySlug":"import","fileName":"table-functions.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-char-list/skill-point-finder-char-list.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"table-functions.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-data-lines/skill-point-finder-data-lines.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"table-functions.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"table-functions.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

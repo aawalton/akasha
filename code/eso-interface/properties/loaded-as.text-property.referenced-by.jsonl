@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"loaded-as.text-property.types.ts","path":"code/eso-interface/eso-interface.page-type.types.ts"}
-{"propertySlug":"import","fileName":"loaded-as.text-property.types.ts","path":"code/lua-module/lua-module.page-type.types.ts"}
+{"propertySlug":"import","fileName":"loaded-as.text-property.types.ts","path":"code/eso-interface/eso-interface.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"loaded-as.text-property.types.ts","path":"code/lua-module/lua-module.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"code/eso-interface/eso-interface.page-type.ts","id":"01a06036-9b76-7bf2-b21b-2f45a8b14ac4"}
 {"propertySlug":"page-property","path":"code/lua-module/lua-module.page-type.ts","id":"01a06036-9b74-79ba-9f54-27289400cf14"}
 {"propertySlug":"parts","path":"code/eso-interface/eso-interface.page-type.ts","id":"01a06036-9b76-7bf2-b21b-2f45a8b14ac4"}

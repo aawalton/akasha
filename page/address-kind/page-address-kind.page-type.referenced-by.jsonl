@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"page-address-kind.page-type.types.ts","path":"page/address-kind/in-page-property/in-page-property.page-address-kind.ts"}
-{"propertySlug":"import","fileName":"page-address-kind.page-type.types.ts","path":"page/address-kind/in-page-type/in-page-type.page-address-kind.ts"}
-{"propertySlug":"import","fileName":"page-address-kind.page-type.types.ts","path":"page/address-kind/in-page/in-page.page-address-kind.ts"}
+{"propertySlug":"import","fileName":"page-address-kind.page-type.types.ts","path":"page/address-kind/in-page-property/in-page-property.page-address-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-address-kind.page-type.types.ts","path":"page/address-kind/in-page-type/in-page-type.page-address-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-address-kind.page-type.types.ts","path":"page/address-kind/in-page/in-page.page-address-kind.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

@@ -1,9 +1,9 @@
 {"propertySlug":"argument","path":"command/pages/email/draft/list/email-draft-list.command.ts","id":"01a06810-cf11-711a-abf5-acd61e55baac"}
 {"propertySlug":"argument","path":"command/pages/email/message/list/email-message-list.command.ts","id":"01a06810-cf11-7ea4-b544-6691871388cf"}
 {"propertySlug":"argument","path":"command/pages/google/calendar/event/list/google-calendar-event-list.command.ts","id":"01a08cf5-2233-7c51-b38b-a79082d4dc82"}
-{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/email/draft/list/email-draft-list.command.code.ts"}
-{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/email/draft/list/email-draft-list.command.test.ts"}
-{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/email/message/list/email-message-list.command.code.ts"}
-{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/email/message/list/email-message-list.command.test.ts"}
-{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/google/calendar/event/list/google-calendar-event-list.command.code.ts"}
-{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/google/calendar/event/list/google-calendar-event-list.command.test.ts"}
+{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/email/draft/list/email-draft-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/email/draft/list/email-draft-list.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/email/message/list/email-message-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/email/message/list/email-message-list.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/google/calendar/event/list/google-calendar-event-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"max.argument.ts","path":"command/pages/google/calendar/event/list/google-calendar-event-list.command.test.ts","typed":false,"deferred":false}

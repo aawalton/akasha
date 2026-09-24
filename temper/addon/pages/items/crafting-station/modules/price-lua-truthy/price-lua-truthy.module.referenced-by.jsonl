@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-api/price-api.module.code.ts"}
-{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-dispatch/price-dispatch.module.code.ts"}
-{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-public-api/price-public-api.module.code.ts"}
-{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-att/price-sources-att.module.code.ts"}
-{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-furc/price-sources-furc.module.code.ts"}
-{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-mm/price-sources-mm.module.code.ts"}
-{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-npc/price-sources-npc.module.code.ts"}
+{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-api/price-api.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-dispatch/price-dispatch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-public-api/price-public-api.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-att/price-sources-att.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-furc/price-sources-furc.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-mm/price-sources-mm.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"price-lua-truthy.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-npc/price-sources-npc.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

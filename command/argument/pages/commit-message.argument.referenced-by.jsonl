@@ -1,9 +1,9 @@
 {"propertySlug":"argument","path":"command/pages/alan/tracking/alan-tracking.command.ts","id":"01a06057-f714-707b-acab-a560208ffcd3"}
 {"propertySlug":"argument","path":"command/pages/page/secret/clear/page-secret-clear.command.ts","id":"01a06812-3ce8-7a0e-b33a-5f0e6991b07d"}
 {"propertySlug":"argument","path":"command/pages/page/secret/set/page-secret-set.command.ts","id":"01a06812-3ce8-74c7-be81-2023948a44d9"}
-{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/alan/tracking/alan-tracking.command.code.ts"}
-{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.code.ts"}
-{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.test.ts"}
-{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/set/page-secret-set.command.code.ts"}
-{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/set/page-secret-set.command.test.ts"}
-{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/show/page-secret-show.command.test.ts"}
+{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/alan/tracking/alan-tracking.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/set/page-secret-set.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/set/page-secret-set.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-message.argument.ts","path":"command/pages/page/secret/show/page-secret-show.command.test.ts","typed":false,"deferred":false}

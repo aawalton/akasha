@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.ts","id":"01a0603c-c1cf-7944-91f2-3c13783517fa"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.ts","id":"01a09b33-22e4-76f4-8c16-420d5f6923df"}
-{"propertySlug":"import","fileName":"visit.argument.ts","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.code.ts"}
-{"propertySlug":"import","fileName":"visit.argument.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts"}
+{"propertySlug":"import","fileName":"visit.argument.ts","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"visit.argument.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts","typed":false,"deferred":false}

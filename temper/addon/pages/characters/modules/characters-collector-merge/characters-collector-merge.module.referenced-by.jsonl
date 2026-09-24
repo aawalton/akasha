@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-collectibles/characters-collectibles.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-points-of-interest/characters-points-of-interest.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-quests/characters-quests.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-recipes/characters-recipes.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-zone-completion/characters-zone-completion.module.code.ts"}
+{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-antiquity-lore/characters-antiquity-lore.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-collectibles/characters-collectibles.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-points-of-interest/characters-points-of-interest.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-quests/characters-quests.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-recipes/characters-recipes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-tribute-card-upgrades/characters-tribute-card-upgrades.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-collector-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-zone-completion/characters-zone-completion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

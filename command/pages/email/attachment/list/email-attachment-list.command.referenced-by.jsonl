@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"email-attachment-list.command.code.ts","path":"command/pages/email/attachment/list/email-attachment-list.command.test.ts"}
-{"propertySlug":"import","fileName":"email-attachment-list.command.ts","path":"command/pages/email/attachment/list/email-attachment-list.command.code.ts"}
-{"propertySlug":"import","fileName":"email-attachment-list.command.ts","path":"command/pages/email/attachment/list/email-attachment-list.command.test.ts"}
+{"propertySlug":"import","fileName":"email-attachment-list.command.code.ts","path":"command/pages/email/attachment/list/email-attachment-list.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-attachment-list.command.ts","path":"command/pages/email/attachment/list/email-attachment-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-attachment-list.command.ts","path":"command/pages/email/attachment/list/email-attachment-list.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/email/attachment/email-attachment.namespace.ts","id":"01a07bbf-258e-75b2-82ad-d3ff78cae0ca"}

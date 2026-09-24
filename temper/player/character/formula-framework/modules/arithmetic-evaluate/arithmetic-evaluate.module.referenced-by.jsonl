@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"arithmetic-evaluate.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.code.ts"}
-{"propertySlug":"import","fileName":"arithmetic-evaluate.module.code.ts","path":"temper/player/character/stat/modules/metric-formulas/metric-formulas.module.code.ts"}
+{"propertySlug":"import","fileName":"arithmetic-evaluate.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"arithmetic-evaluate.module.code.ts","path":"temper/player/character/stat/modules/metric-formulas/metric-formulas.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}

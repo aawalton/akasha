@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"write-daily-points.module.code.ts","path":"alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts"}
-{"propertySlug":"import","fileName":"write-daily-points.module.code.ts","path":"alan/track/daily/modules/nutrition-points/nutrition-points.module.code.ts"}
-{"propertySlug":"import","fileName":"write-daily-points.module.code.ts","path":"alan/track/daily/modules/topic-words/topic-words.module.code.ts"}
-{"propertySlug":"import","fileName":"write-daily-points.module.code.ts","path":"command/pages/track/weight/track-weight.command.code.ts"}
+{"propertySlug":"import","fileName":"write-daily-points.module.code.ts","path":"alan/track/daily/modules/day-active-calories/day-active-calories.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"write-daily-points.module.code.ts","path":"alan/track/daily/modules/nutrition-points/nutrition-points.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"write-daily-points.module.code.ts","path":"alan/track/daily/modules/topic-words/topic-words.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"write-daily-points.module.code.ts","path":"command/pages/track/weight/track-weight.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/track/daily/track-daily.domain.ts","id":"01a062dc-1b7f-7c99-a886-e67035171fdf"}

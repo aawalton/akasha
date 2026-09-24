@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"monarch-domain-files.module.code.ts","path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.test.ts"}
-{"propertySlug":"import","fileName":"monarch-domain-files.module.code.ts","path":"alan/harness/monarch/modules/sync/monarch-sync.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-domain-files.module.test-fixtures.ts","path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.test.ts"}
+{"propertySlug":"import","fileName":"monarch-domain-files.module.code.ts","path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-domain-files.module.code.ts","path":"alan/harness/monarch/modules/sync/monarch-sync.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-domain-files.module.test-fixtures.ts","path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}

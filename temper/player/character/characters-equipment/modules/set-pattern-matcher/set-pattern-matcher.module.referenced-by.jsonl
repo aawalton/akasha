@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts"}
-{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-jewelry/bulk-update-jewelry.module.code.ts"}
-{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"}
-{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-jewelry/bulk-update-jewelry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-pattern-matcher.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}

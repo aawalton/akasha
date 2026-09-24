@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"voice-infer-image.container-recipe.composing.code.ts","path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.test.ts"}
-{"propertySlug":"import","fileName":"voice-infer-image.container-recipe.ts","path":"infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.code.ts"}
+{"propertySlug":"import","fileName":"voice-infer-image.container-recipe.composing.code.ts","path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"voice-infer-image.container-recipe.ts","path":"infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/voice-inference/voice-inference.domain.ts","id":"01a06815-9efd-701e-a4d4-a26f49e97554"}

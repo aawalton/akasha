@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"achievement-name.text-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievements.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"achievement-name.text-property.types.ts","path":"temper/catalog/skill/temper-scribing-source/properties/tier-achievements.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"achievement-name.text-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievements.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"achievement-name.text-property.types.ts","path":"temper/catalog/skill/temper-scribing-source/properties/tier-achievements.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievements.page-property-entry.ts","id":"01a06168-7245-7004-8aa0-eba39e83a4e6"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-scribing-source/properties/tier-achievements.page-property-entry.ts","id":"01a05fca-cb88-781e-b113-6703da6a0689"}
 {"propertySlug":"parts","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}

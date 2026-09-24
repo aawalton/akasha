@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inventory-rules-cross-char.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-cross-char.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-cross-char.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-cross-char.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-rules-cross-char.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-cross-char.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-withdrawals/inventory-rules-dispatch-bank-withdrawals.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-cross-char.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-cross-char.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

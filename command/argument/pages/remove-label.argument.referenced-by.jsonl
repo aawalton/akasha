@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/email/message/modify-label/email-message-modify-label.command.ts","id":"01a06810-cf11-753d-aad0-e13c11000ad2"}
-{"propertySlug":"import","fileName":"remove-label.argument.ts","path":"command/pages/email/message/modify-label/email-message-modify-label.command.code.ts"}
-{"propertySlug":"import","fileName":"remove-label.argument.ts","path":"command/pages/email/message/modify-label/email-message-modify-label.command.test.ts"}
+{"propertySlug":"import","fileName":"remove-label.argument.ts","path":"command/pages/email/message/modify-label/email-message-modify-label.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"remove-label.argument.ts","path":"command/pages/email/message/modify-label/email-message-modify-label.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"one-of","path":"command/pages/email/message/modify-label/email-message-modify-label.command.ts","id":"01a06810-cf11-753d-aad0-e13c11000ad2"}

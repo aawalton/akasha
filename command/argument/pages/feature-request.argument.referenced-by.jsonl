@@ -1,9 +1,9 @@
 {"propertySlug":"argument","path":"command/pages/request/complete/request-complete.command.ts","id":"01a0c501-03d8-743f-94e6-9e585b39559a"}
 {"propertySlug":"argument","path":"command/pages/request/deny/request-deny.command.ts","id":"01a0c4f6-195d-7865-b1b0-9b857ebc4b64"}
 {"propertySlug":"argument","path":"command/pages/request/publish/request-publish.command.ts","id":"01a0c501-03d8-75ca-9ff4-136d081ccca4"}
-{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/complete/request-complete.command.code.ts"}
-{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/complete/request-complete.command.test.ts"}
-{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
-{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/deny/request-deny.command.test.ts"}
-{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/publish/request-publish.command.code.ts"}
-{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/publish/request-publish.command.test.ts"}
+{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/complete/request-complete.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/complete/request-complete.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/deny/request-deny.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/publish/request-publish.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.argument.ts","path":"command/pages/request/publish/request-publish.command.test.ts","typed":false,"deferred":false}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-buff-panel-update/combat-ui-buff-panel-update.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot/combat-ui-plot.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-buff-panel-update/combat-ui-buff-panel-update.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot/combat-ui-plot.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-buff-panel.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

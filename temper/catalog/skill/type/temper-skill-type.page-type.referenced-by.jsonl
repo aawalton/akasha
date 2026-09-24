@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"temper-skill-type.page-type.types.ts","path":"temper/catalog/skill/type/pages/active.temper-skill-type.ts"}
-{"propertySlug":"import","fileName":"temper-skill-type.page-type.types.ts","path":"temper/catalog/skill/type/pages/passive.temper-skill-type.ts"}
-{"propertySlug":"import","fileName":"temper-skill-type.page-type.types.ts","path":"temper/catalog/skill/type/pages/ultimate.temper-skill-type.ts"}
+{"propertySlug":"import","fileName":"temper-skill-type.page-type.types.ts","path":"temper/catalog/skill/type/pages/active.temper-skill-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-type.page-type.types.ts","path":"temper/catalog/skill/type/pages/passive.temper-skill-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-type.page-type.types.ts","path":"temper/catalog/skill/type/pages/ultimate.temper-skill-type.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"target-page-type","path":"temper/catalog/thing/properties/skill-type.relation-property.ts","id":"01a05fba-ce3b-7869-b428-d3dd2f8703d7"}

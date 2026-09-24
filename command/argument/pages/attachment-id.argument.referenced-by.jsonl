@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/email/attachment/show/email-attachment-show.command.ts","id":"01a06810-cf11-75ef-84b0-74beeb5d5383"}
-{"propertySlug":"import","fileName":"attachment-id.argument.ts","path":"command/pages/email/attachment/show/email-attachment-show.command.code.ts"}
-{"propertySlug":"import","fileName":"attachment-id.argument.ts","path":"command/pages/email/attachment/show/email-attachment-show.command.test.ts"}
+{"propertySlug":"import","fileName":"attachment-id.argument.ts","path":"command/pages/email/attachment/show/email-attachment-show.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"attachment-id.argument.ts","path":"command/pages/email/attachment/show/email-attachment-show.command.test.ts","typed":false,"deferred":false}

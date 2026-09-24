@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"transaction-day.calendar-date-property.types.ts","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"transaction-day.calendar-date-property.types.ts","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.ts","id":"01a0680b-2b00-7011-9f83-5c2a6e4b2112"}
 {"propertySlug":"parts","path":"alan/harness/monarch/month/monarch-month.page-type.ts","id":"01a0680b-2b00-7012-a659-4d8f2c7e2113"}

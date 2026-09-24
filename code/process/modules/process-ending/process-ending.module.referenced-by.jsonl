@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.code.ts"}
-{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/seat/reviving/modules/seat-recovery/seat-recovery.module.code.ts"}
-{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/seat/stopping/modules/takeover-seat/takeover-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
-{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"code/process/modules/process-ending/process-ending.module.test.ts"}
+{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/seat/reviving/modules/seat-recovery/seat-recovery.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/seat/stopping/modules/takeover-seat/takeover-seat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"process-ending.module.code.ts","path":"code/process/modules/process-ending/process-ending.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/process/code-process.domain.ts","id":"01a05c4f-6f2b-7cf2-8361-788954595f9a"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"quests-decide.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-auto-quest/quests-auto-quest.module.code.ts"}
-{"propertySlug":"import","fileName":"quests-decide.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-classify/quests-classify.module.code.ts"}
-{"propertySlug":"import","fileName":"quests-decide.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-decide/quests-decide.module.test.ts"}
-{"propertySlug":"import","fileName":"quests-decide.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-trace/quests-trace.module.code.ts"}
+{"propertySlug":"import","fileName":"quests-decide.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-auto-quest/quests-auto-quest.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"quests-decide.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-classify/quests-classify.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"quests-decide.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-decide/quests-decide.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"quests-decide.module.code.ts","path":"temper/addon/pages/world/quests/modules/quests-trace/quests-trace.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/world/quests/temper-addon-world-quests.domain.ts","id":"01a0c6e3-c32e-7c78-96a8-837c1e4f5fcc"}

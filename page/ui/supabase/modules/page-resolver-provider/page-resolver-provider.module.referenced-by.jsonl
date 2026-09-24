@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-resolver-provider.module.code.tsx","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/supabase/page-ui-supabase.domain.ts","id":"01a071d1-ee27-7b2f-8b21-963e117f2e00"}

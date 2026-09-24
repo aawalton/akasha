@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}
-{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.test.ts"}
-{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts"}
-{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts"}
-{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/spotify/modules/releases/spotify-releases.module.test.ts"}
+{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/catalog/modules/track-syncing/track-syncing.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-releases.module.code.ts","path":"alan/music/spotify/modules/releases/spotify-releases.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}

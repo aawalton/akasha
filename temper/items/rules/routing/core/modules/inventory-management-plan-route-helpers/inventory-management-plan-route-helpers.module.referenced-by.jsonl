@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"inventory-management-plan-route-helpers.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route/inventory-management-plan-route.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-management-plan-route-helpers.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-management-plan-route-helpers.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-management-plan-route-helpers.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route/inventory-management-plan-route.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-management-plan-route-helpers.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-management-plan-route-helpers.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/routing/core/temper-items-rules-routing-core.domain.ts","id":"01a06151-370b-7fa6-ad43-f200b0ae0fb9"}

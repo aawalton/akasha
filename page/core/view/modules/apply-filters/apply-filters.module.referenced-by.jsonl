@@ -1,6 +1,7 @@
-{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts"}
-{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/apply-search/apply-search.module.code.ts"}
-{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/apply-sorts/apply-sorts.module.code.ts"}
-{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/apply-view/apply-view.module.code.ts"}
-{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/sort-accessors/sort-accessors.module.code.ts"}
+{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/apply-grouping-shared/apply-grouping-shared.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/apply-search/apply-search.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/apply-sorts/apply-sorts.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/apply-view/apply-view.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/apply-view/apply-view.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"apply-filters.module.code.ts","path":"page/core/view/modules/sort-accessors/sort-accessors.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/core/view/page-core-view.domain.ts","id":"01a071cb-580b-710d-a9ae-c371fe8df6c3"}

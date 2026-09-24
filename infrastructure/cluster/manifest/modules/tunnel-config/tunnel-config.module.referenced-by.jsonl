@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"tunnel-config.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts"}
+{"propertySlug":"import","fileName":"tunnel-config.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/manifest/cluster-manifest.domain.ts","id":"01a06810-1263-7296-86ac-72d2a283e164"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
-{"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts"}
-{"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"page/index/modules/commit-surface/commit-surface.module.test.ts"}
+{"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"page/index/modules/commit-surface/commit-surface.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

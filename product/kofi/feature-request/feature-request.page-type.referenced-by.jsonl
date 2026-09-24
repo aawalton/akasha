@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"feature-request.page-type.ts","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"feature-request.page-type.ts","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"feature-request.page-type.types.ts","path":"product/kofi/feature-request/pages/new-test.feature-request.ts"}
-{"propertySlug":"import","fileName":"feature-request.page-type.types.ts","path":"product/kofi/feature-request/pages/test-3.feature-request.ts"}
-{"propertySlug":"import","fileName":"feature-request.page-type.types.ts","path":"product/kofi/feature-request/pages/test-4.feature-request.ts"}
-{"propertySlug":"import","fileName":"feature-request.page-type.types.ts","path":"product/kofi/feature-request/pages/test.feature-request.ts"}
+{"propertySlug":"import","fileName":"feature-request.page-type.ts","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.page-type.ts","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.page-type.types.ts","path":"product/kofi/feature-request/pages/new-test.feature-request.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.page-type.types.ts","path":"product/kofi/feature-request/pages/test-3.feature-request.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.page-type.types.ts","path":"product/kofi/feature-request/pages/test-4.feature-request.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request.page-type.types.ts","path":"product/kofi/feature-request/pages/test.feature-request.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"product/kofi/kofi.domain.ts","id":"01a0b789-a595-7afe-8aee-1d895f33815c"}
 {"propertySlug":"view-page-type","path":"page/view/pages/requests-completed.view.ts","id":"01a0c4ba-04f2-7f02-a8db-9708e55cde58"}
 {"propertySlug":"view-page-type","path":"page/view/pages/requests-denied.view.ts","id":"01a0c4ba-04f2-7b1b-a566-9c6981156c7b"}

@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"icloud-fetch.command.code.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.test.ts"}
-{"propertySlug":"import","fileName":"icloud-fetch.command.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.code.ts"}
+{"propertySlug":"import","fileName":"icloud-fetch.command.code.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"icloud-fetch.command.code.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"icloud-fetch.command.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/icloud/icloud.namespace.ts","id":"01a08cf9-6971-763f-851d-820678f5a89e"}

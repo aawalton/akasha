@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-compass/skyshards-pc-compass.module.code.ts"}
-{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-events/skyshards-pc-events.module.code.ts"}
-{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pin-data/skyshards-pc-pin-data.module.code.ts"}
-{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pins/skyshards-pc-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-settings/skyshards-pc-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-state/skyshards-pc-state.module.code.ts"}
-{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts"}
-{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-start/skyshards-start.module.code.ts"}
+{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-compass/skyshards-pc-compass.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-events/skyshards-pc-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pin-data/skyshards-pc-pin-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pins/skyshards-pc-pins.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-settings/skyshards-pc-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-state/skyshards-pc-state.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skyshards-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-start/skyshards-start.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}

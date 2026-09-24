@@ -1,8 +1,10 @@
-{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.test.ts"}
-{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"check/modules/audit-job/audit-job.module.code.ts"}
-{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"check/modules/audit-round/audit-round.module.code.ts"}
-{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"check/modules/audit-round/audit-round.module.test.ts"}
-{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.code.ts"}
-{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.test.ts"}
-{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/pages/audit/audit.command.code.ts"}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"check/modules/audit-job/audit-job.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"check/modules/audit-job/audit-job.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"check/modules/audit-round/audit-round.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"check/modules/audit-round/audit-round.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/pages/audit/audit.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"audit-asking.module.code.ts","path":"command/pages/audit/audit.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.types.ts"}
-{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.types.ts"}
-{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.types.ts"}
-{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/thing/properties/effects.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/thing/properties/effects.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.ts","id":"01a06196-037a-7895-82cf-ee84fd21570f"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.ts","id":"01a06196-037a-7e14-80f7-0ae4cc1593d4"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}

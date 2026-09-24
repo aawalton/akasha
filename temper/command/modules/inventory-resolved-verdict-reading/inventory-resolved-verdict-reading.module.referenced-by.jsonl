@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"inventory-resolved-verdict-reading.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-resolved-verdict-reading.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.test.ts"}
-{"propertySlug":"import","fileName":"inventory-resolved-verdict-reading.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"inventory-resolved-verdict-reading.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-resolved-verdict-reading.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-resolved-verdict-reading.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

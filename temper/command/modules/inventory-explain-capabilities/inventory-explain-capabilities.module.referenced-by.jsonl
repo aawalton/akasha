@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/outcome-parity/temper-inventory-outcome-parity.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.test.ts"}
+{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/outcome-parity/temper-inventory-outcome-parity.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/parity/temper-inventory-parity.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-explain-capabilities.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

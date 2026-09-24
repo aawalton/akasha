@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"runs-file-length.boolean-property.types.ts","path":"page/file-property/file-property.page-type.types.ts"}
-{"propertySlug":"import","fileName":"runs-file-length.boolean-property.types.ts","path":"page/named-extension-property/named-extension-property.page-type.types.ts"}
-{"propertySlug":"import","fileName":"runs-file-length.boolean-property.types.ts","path":"page/named-folder-property/named-folder-property.page-type.types.ts"}
+{"propertySlug":"import","fileName":"runs-file-length.boolean-property.types.ts","path":"page/file-property/file-property.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"runs-file-length.boolean-property.types.ts","path":"page/named-extension-property/named-extension-property.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"runs-file-length.boolean-property.types.ts","path":"page/named-folder-property/named-folder-property.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"page/file-property/file-property.page-type.ts","id":"01a04dff-9d7d-7487-9a08-2485e897542f"}
 {"propertySlug":"page-property","path":"page/named-extension-property/named-extension-property.page-type.ts","id":"01a09135-c42e-7d48-a589-1fe7b7baca81"}
 {"propertySlug":"page-property","path":"page/named-folder-property/named-folder-property.page-type.ts","id":"01a081cc-8980-7180-b875-7b4681fea93d"}

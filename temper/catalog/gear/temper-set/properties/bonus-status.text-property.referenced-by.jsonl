@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"bonus-status.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"bonus-status.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.ts","id":"01a05fd1-d437-730d-b6e2-e46b2bc06210"}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}

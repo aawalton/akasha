@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-bop-tradeable-filter/search-bop-tradeable-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-bound-filter/search-bound-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-crafted-filter/search-crafted-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-locked-filter/search-locked-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-reconstructed-filter/search-reconstructed-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-stolen-filter/search-stolen-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-transmuted-filter/search-transmuted-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts"}
+{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-bop-tradeable-filter/search-bop-tradeable-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-bound-filter/search-bound-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-crafted-filter/search-crafted-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-locked-filter/search-locked-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-reconstructed-filter/search-reconstructed-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-stolen-filter/search-stolen-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/filters/core/modules/search-transmuted-filter/search-transmuted-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-flags.module.code.ts","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/eval/temper-items-rules-eval.domain.ts","id":"01a06137-f96e-7a28-9f74-f5d1bea03036"}

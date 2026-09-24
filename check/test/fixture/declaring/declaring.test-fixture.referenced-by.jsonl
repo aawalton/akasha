@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"check/test/fixture/declaring/declaring.test-fixture.test.ts"}
-{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"page/index/modules/reading/index-reading.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"check/test/fixture/declaring/declaring.test-fixture.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"page/index/modules/reading/index-reading.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"declaring.test-fixture.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"check/test/fixture/test-fixture.page-type.ts","id":"01a09c17-9d01-7f25-b06d-5521c1acc95d"}

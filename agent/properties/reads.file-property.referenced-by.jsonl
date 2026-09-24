@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"reads.file-property.ts","path":"agent/modules/read-record/read-record.module.code.ts"}
-{"propertySlug":"import","fileName":"reads.file-property.ts","path":"agent/modules/read-record/read-record.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"reads.file-property.types.ts","path":"agent/agent.page-type.types.ts"}
+{"propertySlug":"import","fileName":"reads.file-property.ts","path":"agent/modules/read-record/read-record.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reads.file-property.ts","path":"agent/modules/read-record/read-record.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reads.file-property.types.ts","path":"agent/agent.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

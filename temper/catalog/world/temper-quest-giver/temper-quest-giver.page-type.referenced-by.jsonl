@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"temper-quest-giver.page-type.types.ts","path":"temper/catalog/world/temper-quest-giver/pages/glirion-the-redbeard.temper-quest-giver.ts"}
-{"propertySlug":"import","fileName":"temper-quest-giver.page-type.types.ts","path":"temper/catalog/world/temper-quest-giver/pages/maj-al-ragath.temper-quest-giver.ts"}
-{"propertySlug":"import","fileName":"temper-quest-giver.page-type.types.ts","path":"temper/catalog/world/temper-quest-giver/pages/urgarlag-chief-bane.temper-quest-giver.ts"}
+{"propertySlug":"import","fileName":"temper-quest-giver.page-type.types.ts","path":"temper/catalog/world/temper-quest-giver/pages/glirion-the-redbeard.temper-quest-giver.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-quest-giver.page-type.types.ts","path":"temper/catalog/world/temper-quest-giver/pages/maj-al-ragath.temper-quest-giver.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-quest-giver.page-type.types.ts","path":"temper/catalog/world/temper-quest-giver/pages/urgarlag-chief-bane.temper-quest-giver.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/temper-world.domain.ts","id":"01a05fba-ce3d-792d-9f9f-937d79f8f4d9"}
 {"propertySlug":"target-page-type","path":"temper/catalog/world/temper-dungeon/properties/quest-giver.relation-property.ts","id":"01a05fc4-7a93-7960-9695-186bd5fc0248"}

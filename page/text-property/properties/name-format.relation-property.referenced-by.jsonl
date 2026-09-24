@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"name-format.relation-property.types.ts","path":"page/name-place/name-place.page-type.types.ts"}
-{"propertySlug":"import","fileName":"name-format.relation-property.types.ts","path":"page/text-property/text-property.page-type.types.ts"}
+{"propertySlug":"import","fileName":"name-format.relation-property.types.ts","path":"page/name-place/name-place.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"name-format.relation-property.types.ts","path":"page/text-property/text-property.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"page/name-place/name-place.page-type.ts","id":"01a04fc9-2ad4-7896-ae44-4569ddae3f7e"}
 {"propertySlug":"page-property","path":"page/text-property/text-property.page-type.ts","id":"01a04dff-9d7d-7b50-a58a-419207af8ec0"}
 {"propertySlug":"parts","path":"page/text-property/text-property.page-type.ts","id":"01a04dff-9d7d-7b50-a58a-419207af8ec0"}

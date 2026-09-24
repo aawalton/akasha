@@ -1,6 +1,7 @@
-{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"command/pages/temper/watcher/log/temper-watcher-log.command.code.ts"}
-{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"temper/watcher/modules/watcher-log-line/watcher-log-line.module.test.ts"}
-{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.code.ts"}
-{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.test.ts"}
-{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"temper/watcher/modules/watcher-logging/watcher-logging.module.test.ts"}
+{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"command/pages/temper/watcher/log/temper-watcher-log.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"command/pages/temper/watcher/log/temper-watcher-log.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"temper/watcher/modules/watcher-log-line/watcher-log-line.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"temper/watcher/modules/watcher-log-merging/watcher-log-merging.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-log-line.module.code.ts","path":"temper/watcher/modules/watcher-logging/watcher-logging.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}

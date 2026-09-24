@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"dungeon-registry.module.code.ts","path":"temper/catalog/world/group-dungeon/modules/dungeon-data/dungeon-data.module.code.ts"}
-{"propertySlug":"import","fileName":"dungeon-registry.module.code.ts","path":"temper/catalog/world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.code.ts"}
+{"propertySlug":"import","fileName":"dungeon-registry.module.code.ts","path":"temper/catalog/world/group-dungeon/modules/dungeon-data/dungeon-data.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"dungeon-registry.module.code.ts","path":"temper/catalog/world/group-dungeon/modules/pledge-rotation/pledge-rotation.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}

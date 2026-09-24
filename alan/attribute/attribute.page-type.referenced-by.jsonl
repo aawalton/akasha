@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/charisma/charisma.attribute.ts"}
-{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/constitution/constitution.attribute.ts"}
-{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/endurance/endurance.attribute.ts"}
-{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/intelligence/intelligence.attribute.ts"}
-{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/luck/luck.attribute.ts"}
-{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/strength/strength.attribute.ts"}
-{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/wisdom/wisdom.attribute.ts"}
+{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/charisma/charisma.attribute.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/constitution/constitution.attribute.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/endurance/endurance.attribute.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/intelligence/intelligence.attribute.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/luck/luck.attribute.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/strength/strength.attribute.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"attribute.page-type.types.ts","path":"alan/attribute/pages/wisdom/wisdom.attribute.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/alan.domain.ts","id":"01a05dfc-d883-7000-81e2-065c3cad4cec"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/attribute.relation-property.ts","id":"01a081ef-0b0a-7889-962d-2e766b9aedee"}

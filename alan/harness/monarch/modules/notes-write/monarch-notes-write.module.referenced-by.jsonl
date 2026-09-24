@@ -1,8 +1,10 @@
-{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/amazon-notes/monarch-amazon-notes.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/amazon-refunds/monarch-amazon-refunds.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/amazon-write/monarch-amazon-write.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/apply/monarch-apply.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/categorize/monarch-categorize.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/notes-revert/monarch-notes-revert.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/transaction-create/monarch-transaction-create.module.code.ts"}
+{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/amazon-notes/monarch-amazon-notes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/amazon-refunds/monarch-amazon-refunds.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/amazon-write/monarch-amazon-write.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/amazon-write/monarch-amazon-write.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/apply/monarch-apply.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/categorize/monarch-categorize.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/notes-revert/monarch-notes-revert.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/notes-revert/monarch-notes-revert.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-notes-write.module.code.ts","path":"alan/harness/monarch/modules/transaction-create/monarch-transaction-create.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}

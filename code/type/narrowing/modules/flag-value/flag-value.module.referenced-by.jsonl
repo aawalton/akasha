@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"flag-value.module.code.ts","path":"code/type/narrowing/modules/flag-value/flag-value.module.test.ts"}
-{"propertySlug":"import","fileName":"flag-value.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-running/synth-running.module.code.ts"}
-{"propertySlug":"import","fileName":"flag-value.module.code.ts","path":"infrastructure/service/akasha-service/secret/modules/saying/secret-saying.module.code.ts"}
+{"propertySlug":"import","fileName":"flag-value.module.code.ts","path":"code/type/narrowing/modules/flag-value/flag-value.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"flag-value.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-running/synth-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"flag-value.module.code.ts","path":"infrastructure/service/akasha-service/secret/modules/saying/secret-saying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

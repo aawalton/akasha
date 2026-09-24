@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"}
-{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"}
-{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts"}
-{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
-{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"}
-{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/web/modules/use-player/use-player.module.code.ts"}
-{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"}
+{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/web/modules/use-player/use-player.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/player/character/temper-account-character/temper-account-character.page-type.types.ts"}
-{"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/crafting-levels.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/currencies.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/player/character/temper-account-character/temper-account-character.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/crafting-levels.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/currencies.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-character-id.text-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/properties/crafting-levels.page-property-entry.ts","id":"01a0675a-f185-75b8-8e9b-97a031246492"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/properties/currencies.page-property-entry.ts","id":"01a0675a-f185-764c-991b-b24e3698ed52"}

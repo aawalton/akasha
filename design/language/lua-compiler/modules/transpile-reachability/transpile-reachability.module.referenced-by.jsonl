@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"check/code/pages/no-unused-modules/modules/bundle-reaching/bundle-reaching.module.code.ts"}
-{"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"design/language/lua-compiler/modules/transpile-prune-unused-reexports/transpile-prune-unused-reexports.module.code.ts"}
-{"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"design/language/lua-compiler/modules/transpile-transformers/transpile-transformers.module.code.ts"}
-{"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"design/language/lua-compiler/modules/transpile-transpile/transpile-transpile.module.code.ts"}
+{"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"check/code/pages/no-unused-modules/modules/bundle-reaching/bundle-reaching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"design/language/lua-compiler/modules/transpile-prune-unused-reexports/transpile-prune-unused-reexports.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"design/language/lua-compiler/modules/transpile-transformers/transpile-transformers.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"transpile-reachability.module.code.ts","path":"design/language/lua-compiler/modules/transpile-transpile/transpile-transpile.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lua-compiler.domain.ts","id":"01a06759-2aa6-7004-8e68-88c34898e172"}

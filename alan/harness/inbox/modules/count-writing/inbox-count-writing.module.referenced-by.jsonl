@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"inbox-count-writing.module.code.ts","path":"alan/harness/inbox/modules/count-tick/inbox-count-tick.module.code.ts"}
-{"propertySlug":"import","fileName":"inbox-count-writing.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts"}
-{"propertySlug":"import","fileName":"inbox-count-writing.module.code.ts","path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.test.ts"}
+{"propertySlug":"import","fileName":"inbox-count-writing.module.code.ts","path":"alan/harness/inbox/modules/count-tick/inbox-count-tick.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inbox-count-writing.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inbox-count-writing.module.code.ts","path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/inbox/inbox.domain.ts","id":"01a06230-b156-7347-be47-6f5960ced389"}

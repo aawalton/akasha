@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"landing-admission.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
-{"propertySlug":"import","fileName":"landing-admission.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts"}
-{"propertySlug":"import","fileName":"landing-admission.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
+{"propertySlug":"import","fileName":"landing-admission.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"landing-admission.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"landing-admission.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/kernel/infrastructure-kernel.domain.ts","id":"01a05c67-00ac-7c6f-a5c8-9391ef1427fe"}

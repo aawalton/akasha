@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-collection.drive.ts"}
-{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-connection.drive.ts"}
-{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-creativity.drive.ts"}
-{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-loss.drive.ts"}
-{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-meaning.drive.ts"}
-{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-novelty.drive.ts"}
-{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-progress.drive.ts"}
-{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-scarcity.drive.ts"}
+{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-collection.drive.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-connection.drive.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-creativity.drive.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-loss.drive.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-meaning.drive.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-novelty.drive.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-progress.drive.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"drive.page-type.types.ts","path":"design/game/drive/pages/game-design-drive-scarcity.drive.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"design/game/design-game.domain.ts","id":"01a08d92-71d5-7756-9ed3-92f9ffa0ddea"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"one-line.module.code.ts","path":"command/modules/fault-saying/fault-saying.module.code.ts"}
-{"propertySlug":"import","fileName":"one-line.module.code.ts","path":"git/modules/commit-reading/commit-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"one-line.module.code.ts","path":"text/modules/one-line/one-line.module.test.ts"}
+{"propertySlug":"import","fileName":"one-line.module.code.ts","path":"command/modules/fault-saying/fault-saying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"one-line.module.code.ts","path":"git/modules/commit-reading/commit-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"one-line.module.code.ts","path":"text/modules/one-line/one-line.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"text/text.domain.ts","id":"01a049e9-651c-7003-82de-a9ff0562dea5"}

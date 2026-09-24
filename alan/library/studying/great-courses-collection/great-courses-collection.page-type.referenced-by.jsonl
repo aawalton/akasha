@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"great-courses-collection.page-type.types.ts","path":"alan/library/studying/great-courses-collection/pages/all-great-courses.great-courses-collection.ts"}
-{"propertySlug":"import","fileName":"great-courses-collection.page-type.types.ts","path":"alan/library/studying/great-courses-collection/pages/great-courses-by-subject.great-courses-collection.ts"}
-{"propertySlug":"import","fileName":"great-courses-collection.page-type.types.ts","path":"alan/library/studying/great-courses-collection/pages/the-great-courses.great-courses-collection.ts"}
+{"propertySlug":"import","fileName":"great-courses-collection.page-type.types.ts","path":"alan/library/studying/great-courses-collection/pages/all-great-courses.great-courses-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"great-courses-collection.page-type.types.ts","path":"alan/library/studying/great-courses-collection/pages/great-courses-by-subject.great-courses-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"great-courses-collection.page-type.types.ts","path":"alan/library/studying/great-courses-collection/pages/the-great-courses.great-courses-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/library/studying/studying.domain.ts","id":"01a06574-0291-7001-9087-db957190cd32"}

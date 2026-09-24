@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"model-account-upkeep.module.code.ts","path":"agent/model/account/modules/account-upkeep-running/account-upkeep-running.module.code.ts"}
-{"propertySlug":"import","fileName":"model-account-upkeep.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.test.ts"}
+{"propertySlug":"import","fileName":"model-account-upkeep.module.code.ts","path":"agent/model/account/modules/account-upkeep-running/account-upkeep-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-account-upkeep.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}

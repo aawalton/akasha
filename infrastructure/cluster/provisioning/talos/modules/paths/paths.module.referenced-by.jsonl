@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts"}
-{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.code.ts"}
-{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/health/talos-health.command.code.ts"}
-{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.code.ts"}
-{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.code.ts"}
+{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/health/talos-health.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"paths.module.code.ts","path":"command/pages/talos/secret-gen/talos-secret-gen.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts","id":"01a06813-7b0e-79e0-ae0d-60b8f8c4a138"}

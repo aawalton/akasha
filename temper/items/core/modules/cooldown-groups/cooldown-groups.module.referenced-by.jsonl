@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"cooldown-groups.module.code.ts","path":"temper/addon/pages/items/modules/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"}
-{"propertySlug":"import","fileName":"cooldown-groups.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"}
-{"propertySlug":"import","fileName":"cooldown-groups.module.code.ts","path":"temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts"}
+{"propertySlug":"import","fileName":"cooldown-groups.module.code.ts","path":"temper/addon/pages/items/modules/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cooldown-groups.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cooldown-groups.module.code.ts","path":"temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}

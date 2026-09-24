@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
-{"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/model/modules/answer/model-answer.module.test.ts"}
-{"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts"}
-{"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"check/modules/model-running/model-running.module.code.ts"}
+{"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/model/modules/answer/model-answer.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-answer.module.code.ts","path":"check/modules/model-running/model-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"initiative-seat-name.module.code.ts","path":"agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.test.ts"}
-{"propertySlug":"import","fileName":"initiative-seat-name.module.code.ts","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts"}
-{"propertySlug":"import","fileName":"initiative-seat-name.module.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}
-{"propertySlug":"import","fileName":"initiative-seat-name.module.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.test.ts"}
+{"propertySlug":"import","fileName":"initiative-seat-name.module.code.ts","path":"agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"initiative-seat-name.module.code.ts","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"initiative-seat-name.module.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"initiative-seat-name.module.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/name/seat-name.domain.ts","id":"01a09c43-0bf5-7991-a2dc-650268201505"}

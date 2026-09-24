@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"currency-scope.text-property.types.ts","path":"temper/player/character/temper-account/properties/currencies.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"currency-scope.text-property.types.ts","path":"temper/player/character/temper-account/properties/currencies.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/properties/currencies.page-property-entry.ts","id":"01a0675a-f185-764c-991b-b24e3698ed52"}
 {"propertySlug":"parts","path":"temper/player/character/temper-account/temper-account.page-type.ts","id":"01a05fcd-f547-7f1d-8f1e-1feeb37eebb3"}

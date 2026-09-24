@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.ts","id":"01a0603c-c1d8-70b7-a1e7-d602bcd411b0"}
-{"propertySlug":"import","fileName":"to-position.argument.ts","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.code.ts"}
-{"propertySlug":"import","fileName":"to-position.argument.ts","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.test.ts"}
+{"propertySlug":"import","fileName":"to-position.argument.ts","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"to-position.argument.ts","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.test.ts","typed":false,"deferred":false}

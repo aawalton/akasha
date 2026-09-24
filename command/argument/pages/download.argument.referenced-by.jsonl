@@ -1,2 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/talos/image-build/talos-image-build.command.ts","id":"01a06810-1f0b-710a-93fa-714723dbf5f9"}
-{"propertySlug":"import","fileName":"download.argument.ts","path":"command/pages/talos/image-build/talos-image-build.command.code.ts"}
+{"propertySlug":"import","fileName":"download.argument.ts","path":"command/pages/talos/image-build/talos-image-build.command.code.ts","typed":false,"deferred":false}

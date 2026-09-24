@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"world-carried-memory.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/carried-memories/pyrite-flooded-waters-tribe.world-carried-memory.ts"}
-{"propertySlug":"import","fileName":"world-carried-memory.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/carried-memories/reiss.world-carried-memory.ts"}
-{"propertySlug":"import","fileName":"world-carried-memory.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/carried-memories/shorthilt-redfang-tribe.world-carried-memory.ts"}
+{"propertySlug":"import","fileName":"world-carried-memory.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/carried-memories/pyrite-flooded-waters-tribe.world-carried-memory.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-carried-memory.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/carried-memories/reiss.world-carried-memory.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-carried-memory.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/carried-memories/shorthilt-redfang-tribe.world-carried-memory.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"view-page-type","path":"page/view/pages/carried-memories-alphabetical.view.ts","id":"01a0c954-0f42-7b72-b06e-551cebb16c28"}
 {"propertySlug":"view-page-type","path":"page/view/pages/carried-memories-most-seen.view.ts","id":"01a0c954-0f27-7430-956d-6934b1df15db"}

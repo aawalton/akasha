@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"craft-storage-prune.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-storage-prune.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-mig-storage-prune/craft-mig-storage-prune.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-storage-prune.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-storage-counts/craft-storage-counts.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-storage-prune.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-storage-prune.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-mig-storage-prune/craft-mig-storage-prune.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-storage-prune.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-storage-counts/craft-storage-counts.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

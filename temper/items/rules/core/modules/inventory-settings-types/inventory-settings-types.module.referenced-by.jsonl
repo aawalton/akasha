@@ -1,7 +1,11 @@
-{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/conditional-actions/conditional-actions.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/crafting-material-actions/crafting-material-actions.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/equipment-config/equipment-config.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/item-category-actions/item-category-actions.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/conditional-actions/conditional-actions.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/crafting-material-actions/crafting-material-actions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/crafting-material-actions/crafting-material-actions.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/equipment-config/equipment-config.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/equipment-config/equipment-config.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/item-category-actions/item-category-actions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/items/rules/core/modules/item-category-actions/item-category-actions.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-types.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

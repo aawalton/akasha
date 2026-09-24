@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"display-resolution.select-property.ts","path":"infrastructure/machine/computer/properties/display-resolution.select-property.types.ts"}
-{"propertySlug":"import","fileName":"display-resolution.select-property.types.ts","path":"infrastructure/machine/computer/computer.page-type.types.ts"}
+{"propertySlug":"import","fileName":"display-resolution.select-property.ts","path":"infrastructure/machine/computer/properties/display-resolution.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-resolution.select-property.types.ts","path":"infrastructure/machine/computer/computer.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"infrastructure/machine/computer/computer.page-type.ts","id":"01a0658c-329a-7d00-b3f3-8abf47bf46cf"}
 {"propertySlug":"parts","path":"infrastructure/machine/computer/computer.page-type.ts","id":"01a0658c-329a-7d00-b3f3-8abf47bf46cf"}

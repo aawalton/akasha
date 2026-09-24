@@ -271,6 +271,6 @@
 {"propertySlug":"chapter-story","path":"story/world/pages/delve/stories/read/delve/chapters/delve-0271-271-refreshment.story-chapter-read.ts","id":"01a06731-afe6-7000-b634-41d0c54ef98b"}
 {"propertySlug":"chapter-story","path":"story/world/pages/delve/stories/read/delve/chapters/delve-0272-272-shocks.story-chapter-read.ts","id":"01a06731-afe6-7001-b2b2-12b6b5485107"}
 {"propertySlug":"chapter-story","path":"story/world/pages/delve/stories/read/delve/chapters/delve-0273-273-backup.story-chapter-read.ts","id":"01a06731-afea-7000-a8d3-4fe85d050cb0"}
-{"propertySlug":"import","fileName":"delve.story-read.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"delve.story-read.ts","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"delve.story-read.ts","path":"change/modules/value-carrying/value-carrying.module.test.ts"}
+{"propertySlug":"import","fileName":"delve.story-read.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"delve.story-read.ts","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"delve.story-read.ts","path":"change/modules/value-carrying/value-carrying.module.test.ts","typed":false,"deferred":false}

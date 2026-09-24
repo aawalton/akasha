@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"ios-signing.module.code.ts","path":"alan/harness/mobile-cli/modules/altool/altool.module.code.ts"}
-{"propertySlug":"import","fileName":"ios-signing.module.code.ts","path":"alan/harness/mobile-cli/modules/ios-signing/ios-signing.module.test.ts"}
-{"propertySlug":"import","fileName":"ios-signing.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.code.ts"}
+{"propertySlug":"import","fileName":"ios-signing.module.code.ts","path":"alan/harness/mobile-cli/modules/altool/altool.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ios-signing.module.code.ts","path":"alan/harness/mobile-cli/modules/ios-signing/ios-signing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ios-signing.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}

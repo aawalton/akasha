@@ -1,9 +1,9 @@
 {"propertySlug":"argument","path":"command/pages/temper/inventory/buy-rule/show/temper-inventory-buy-rule-show.command.ts","id":"01a0603c-c1d1-7af1-a8ec-2f502e0eb1db"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.ts","id":"01a0603c-c1d4-7e72-bcc5-fb55fe3c992c"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.ts","id":"01a0603c-c1d8-7a9c-b7d3-8fab0e6c8abf"}
-{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/buy-rule/show/temper-inventory-buy-rule-show.command.code.ts"}
-{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/buy-rule/show/temper-inventory-buy-rule-show.command.test.ts"}
-{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.code.ts"}
-{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.test.ts"}
-{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.code.ts"}
-{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.test.ts"}
+{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/buy-rule/show/temper-inventory-buy-rule-show.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/buy-rule/show/temper-inventory-buy-rule-show.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tsv.argument.ts","path":"command/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.test.ts","typed":false,"deferred":false}

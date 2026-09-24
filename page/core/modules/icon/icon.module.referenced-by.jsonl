@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"icon.module.code.ts","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.code.ts"}
-{"propertySlug":"import","fileName":"icon.module.code.ts","path":"design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"}
-{"propertySlug":"import","fileName":"icon.module.code.ts","path":"design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx"}
-{"propertySlug":"import","fileName":"icon.module.code.ts","path":"page/ui/supabase/modules/use-nav-mutations/use-nav-mutations.module.code.ts"}
+{"propertySlug":"import","fileName":"icon.module.code.ts","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"icon.module.code.ts","path":"design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"icon.module.code.ts","path":"design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"icon.module.code.ts","path":"page/ui/supabase/modules/use-nav-mutations/use-nav-mutations.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/page-core.domain.ts","id":"01a05b92-a9c7-7180-bdd4-8e13e47841e5"}

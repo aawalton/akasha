@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"}
-{"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"}
-{"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"reader-chrome.module.code.tsx","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

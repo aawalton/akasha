@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"subagent-stop-refusal.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-stop-refusal.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-stop-refusal.module.code.ts","path":"agent/model/gateway/modules/subagent-stop-refusal/subagent-stop-refusal.module.test.ts"}
-{"propertySlug":"import","fileName":"subagent-stop-refusal.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"}
+{"propertySlug":"import","fileName":"subagent-stop-refusal.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stop-refusal.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stop-refusal.module.code.ts","path":"agent/model/gateway/modules/subagent-stop-refusal/subagent-stop-refusal.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stop-refusal.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}

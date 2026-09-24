@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.code.ts"}
-{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.code.ts"}
-{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.code.tsx"}
-{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.test.ts"}
-{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.code.ts"}
-{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/google-auth-server/google-auth-server.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sign-in-naming.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/better-auth-rr/better-auth-rr.domain.ts","id":"01a0baf7-ffe6-7560-9510-2c81f43ead48"}

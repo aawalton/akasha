@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"cluster-watching.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-watching/cluster-watching.module.test.ts"}
-{"propertySlug":"import","fileName":"cluster-watching.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/service-workstations/cluster-watching/cluster-watching.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"cluster-watching.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/service-workstations/cluster-watching/cluster-watching.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"cluster-watching.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-watching/cluster-watching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cluster-watching.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/service-workstations/cluster-watching/cluster-watching.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cluster-watching.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/service-workstations/cluster-watching/cluster-watching.service-workstation.running.test.ts","typed":false,"deferred":true}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}

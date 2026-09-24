@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"cast-condition-type.text-property.types.ts","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"cast-condition-type.text-property.types.ts","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"parts","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.ts","id":"01a05fcf-90fc-73a8-ad6a-e3869228a309"}

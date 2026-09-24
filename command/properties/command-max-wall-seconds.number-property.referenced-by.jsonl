@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"command-max-wall-seconds.number-property.types.ts","path":"command/command.page-type.types.ts"}
+{"propertySlug":"import","fileName":"command-max-wall-seconds.number-property.types.ts","path":"command/command.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"agent-tree-lookup.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-drawing/tree-drawing.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-tree-lookup.module.code.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-tree-lookup.module.code.ts","path":"code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-tree-lookup.module.code.ts","path":"code/editor/extension/modules/work-tree-panel/work-tree-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"agent-tree-lookup.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-drawing/tree-drawing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-tree-lookup.module.code.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-tree-lookup.module.code.ts","path":"code/editor/extension/modules/seat-showing/seat-showing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-tree-lookup.module.code.ts","path":"code/editor/extension/modules/work-tree-panel/work-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

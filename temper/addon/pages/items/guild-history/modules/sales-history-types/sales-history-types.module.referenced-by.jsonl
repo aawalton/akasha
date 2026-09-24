@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-api/sales-history-api.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-guild/sales-history-cache-guild.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-casts/sales-history-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-dialogs/sales-history-dialogs.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-quick-navigation/sales-history-quick-navigation.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-settings/sales-history-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-startup/sales-history-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-api/sales-history-api.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-guild/sales-history-cache-guild.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-casts/sales-history-casts.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-dialogs/sales-history-dialogs.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-quick-navigation/sales-history-quick-navigation.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-settings/sales-history-settings.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-types.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-startup/sales-history-startup.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/guild-history/guild-history.domain.ts","id":"01a0c707-6e29-746b-b07d-01dff2a8933a"}

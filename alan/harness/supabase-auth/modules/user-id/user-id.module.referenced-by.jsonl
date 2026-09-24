@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
-{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.code.ts"}
-{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts"}
-{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts"}
-{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"person/modules/push-apps/push-apps.module.code.ts"}
-{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"}
+{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"person/modules/push-apps/push-apps.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"user-id.module.code.ts","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/supabase-auth/supabase-auth.domain.ts","id":"01a05c6d-3507-7082-9e71-8c024f532b00"}

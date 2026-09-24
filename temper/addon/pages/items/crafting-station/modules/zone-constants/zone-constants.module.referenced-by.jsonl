@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-autocompletion/zone-autocompletion.module.code.ts"}
-{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-events/zone-events.module.code.ts"}
-{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-lib-state/zone-lib-state.module.code.ts"}
-{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-queries/zone-queries.module.code.ts"}
-{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-types/zone-types.module.code.ts"}
+{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-autocompletion/zone-autocompletion.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-events/zone-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-lib-state/zone-lib-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-queries/zone-queries.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"zone-constants.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-types/zone-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

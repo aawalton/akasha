@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"inventory-rules-conditions-render.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-match-context/inventory-explain-match-context.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-conditions-render.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-conditions-render.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-rules-conditions-render.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-match-context/inventory-explain-match-context.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-conditions-render.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-conditions-render.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

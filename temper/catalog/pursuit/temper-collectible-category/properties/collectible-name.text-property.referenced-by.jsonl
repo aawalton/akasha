@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"collectible-name.text-property.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectibles.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"collectible-name.text-property.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectibles.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectibles.page-property-entry.ts","id":"01a06165-ae0e-7002-9050-a3edc1766aec"}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.ts","id":"01a06165-ae0e-7003-b36d-6529ae625fb0"}

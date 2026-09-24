@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"universal-config.file-property.ts","path":"code/lua-runtime-library/modules/config-claiming/config-claiming.module.code.ts"}
-{"propertySlug":"import","fileName":"universal-config.file-property.types.ts","path":"code/lua-runtime-library/lua-runtime-library.page-type.types.ts"}
+{"propertySlug":"import","fileName":"universal-config.file-property.ts","path":"code/lua-runtime-library/modules/config-claiming/config-claiming.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"universal-config.file-property.types.ts","path":"code/lua-runtime-library/lua-runtime-library.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"code/lua-runtime-library/lua-runtime-library.page-type.ts","id":"01a06759-2aa6-7000-9523-2fbcc69fd891"}
 {"propertySlug":"parts","path":"code/lua-runtime-library/lua-runtime-library.page-type.ts","id":"01a06759-2aa6-7000-9523-2fbcc69fd891"}

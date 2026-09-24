@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"reading-mechanic.relation-property.types.ts","path":"story/world/properties/mechanic-readings.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"reading-mechanic.relation-property.types.ts","path":"story/world/properties/mechanic-readings.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/world/properties/mechanic-readings.page-property-entry.ts","id":"01a063ce-6216-7002-a04b-18f373a5a1d3"}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}

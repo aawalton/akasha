@@ -1,8 +1,8 @@
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts","id":"01a05fca-cb89-788f-9f0a-64f49f04b8a8"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.ts","id":"01a05fca-cb89-7c54-89c6-5392b871f29f"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.ts","id":"01a05fca-cb8a-7514-8c96-15d014bc0d9a"}
-{"propertySlug":"import","fileName":"temper-script.page-type.types.ts","path":"temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.types.ts"}
-{"propertySlug":"import","fileName":"temper-script.page-type.types.ts","path":"temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.types.ts"}
-{"propertySlug":"import","fileName":"temper-script.page-type.types.ts","path":"temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.types.ts"}
+{"propertySlug":"import","fileName":"temper-script.page-type.types.ts","path":"temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-script.page-type.types.ts","path":"temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-script.page-type.types.ts","path":"temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"target-page-type","path":"temper/catalog/skill/temper-grimoire/properties/script-id.relation-property.ts","id":"01a05fca-cb86-726d-9036-faa9f19d229d"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"message-lines.module.code.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"message-lines.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.test.ts"}
-{"propertySlug":"import","fileName":"message-lines.module.code.ts","path":"command/pages/imessage/unread-list/imessage-unread-list.command.code.ts"}
-{"propertySlug":"import","fileName":"message-lines.module.test-fixtures.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"message-lines.module.test-fixtures.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.test.ts"}
+{"propertySlug":"import","fileName":"message-lines.module.code.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"message-lines.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"message-lines.module.code.ts","path":"command/pages/imessage/unread-list/imessage-unread-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"message-lines.module.test-fixtures.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"message-lines.module.test-fixtures.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/imessage/imessage.domain.ts","id":"01a05bc9-4308-7007-a8cc-e8f6c025c81e"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"commit-author.module.code.ts","path":"command/modules/cli/cli.module.code.ts"}
-{"propertySlug":"import","fileName":"commit-author.module.code.ts","path":"command/modules/cli/cli.module.test.ts"}
-{"propertySlug":"import","fileName":"commit-author.module.code.ts","path":"command/modules/commit-author/commit-author.module.test.ts"}
-{"propertySlug":"import","fileName":"commit-author.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"}
+{"propertySlug":"import","fileName":"commit-author.module.code.ts","path":"command/modules/cli/cli.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-author.module.code.ts","path":"command/modules/cli/cli.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-author.module.code.ts","path":"command/modules/commit-author/commit-author.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-author.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

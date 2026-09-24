@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"is-table.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-log/writ-log.module.code.ts"}
-{"propertySlug":"import","fileName":"is-table.module.code.ts","path":"temper/addon/shared/log/modules/addon-log/addon-log.module.code.ts"}
-{"propertySlug":"import","fileName":"is-table.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"is-table.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins/lorebooks-pins.module.code.ts"}
+{"propertySlug":"import","fileName":"is-table.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-log/writ-log.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-table.module.code.ts","path":"temper/addon/shared/log/modules/addon-log/addon-log.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-table.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-table.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins/lorebooks-pins.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/shared/narrow/temper-narrow.domain.ts","id":"01a060b6-99a1-7f39-a4b3-1a7f8d33b445"}

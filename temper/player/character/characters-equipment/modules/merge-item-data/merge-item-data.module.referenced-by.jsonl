@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"merge-item-data.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"}
-{"propertySlug":"import","fileName":"merge-item-data.module.code.ts","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"merge-item-data.module.code.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"merge-item-data.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"merge-item-data.module.code.ts","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"merge-item-data.module.code.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}

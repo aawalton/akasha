@@ -1,5 +1,5 @@
 {"propertySlug":"argument","path":"command/pages/model/gateway/swap/model-gateway-swap.command.ts","id":"01a07c0e-7ae3-7f8a-935d-ab6589ed46e5"}
-{"propertySlug":"import","fileName":"fleet.argument.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
-{"propertySlug":"import","fileName":"fleet.argument.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.test.ts"}
+{"propertySlug":"import","fileName":"fleet.argument.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fleet.argument.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"not-with","path":"command/pages/model/gateway/swap/model-gateway-swap.command.ts","id":"01a07c0e-7ae3-7f8a-935d-ab6589ed46e5"}
 {"propertySlug":"one-of","path":"command/pages/model/gateway/swap/model-gateway-swap.command.ts","id":"01a07c0e-7ae3-7f8a-935d-ab6589ed46e5"}

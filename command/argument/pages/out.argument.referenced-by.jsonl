@@ -1,7 +1,7 @@
 {"propertySlug":"argument","path":"command/pages/browser/screenshot/browser-screenshot.command.ts","id":"01a0c4c8-b6e7-7a74-b62b-1a048dd6963a"}
 {"propertySlug":"argument","path":"command/pages/browser/sign-in/browser-sign-in.command.ts","id":"01a0d4aa-9729-746e-bb1a-3dc8b0f23b58"}
 {"propertySlug":"argument","path":"command/pages/temper/picture/temper-picture.command.ts","id":"01a0ca66-a24e-707c-9316-688e7ba7452b"}
-{"propertySlug":"import","fileName":"out.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts"}
-{"propertySlug":"import","fileName":"out.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts"}
-{"propertySlug":"import","fileName":"out.argument.ts","path":"command/pages/browser/sign-in/browser-sign-in.command.code.ts"}
-{"propertySlug":"import","fileName":"out.argument.ts","path":"command/pages/temper/picture/temper-picture.command.code.ts"}
+{"propertySlug":"import","fileName":"out.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"out.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"out.argument.ts","path":"command/pages/browser/sign-in/browser-sign-in.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"out.argument.ts","path":"command/pages/temper/picture/temper-picture.command.code.ts","typed":false,"deferred":false}

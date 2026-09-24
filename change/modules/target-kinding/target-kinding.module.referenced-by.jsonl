@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/agent/file/move-file/move-file.change-agent.code.ts"}
-{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.code.ts"}
-{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/modules/target-kinding/target-kinding.module.test.ts"}
-{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/runner/modules/change-loading/change-loading.module.code.ts"}
+{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/agent/file/move-file/move-file.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/mechanical/file/move/move-file-of-any-kind/move-file-of-any-kind.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/mechanical/file/remove/remove-file-of-any-kind/remove-file-of-any-kind.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/modules/target-kinding/target-kinding.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"target-kinding.module.code.ts","path":"change/runner/modules/change-loading/change-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

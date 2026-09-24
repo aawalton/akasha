@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"sales-payload.module.code.ts","path":"temper/addon/pages/items/modules/sales-capture/sales-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-payload.module.code.ts","path":"temper/capture/sale/modules/sales-descriptor/sales-descriptor.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-payload.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-payload.module.code.ts","path":"temper/addon/pages/items/modules/sales-capture/sales-capture.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-payload.module.code.ts","path":"temper/capture/sale/modules/sales-descriptor/sales-descriptor.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-payload.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/capture/sale/temper-capture-sale.domain.ts","id":"01a0608a-15b3-7222-9758-3efaaecd469e"}

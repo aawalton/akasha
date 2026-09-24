@@ -1,2 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/music/shuffle/music-shuffle.command.ts","id":"01a0a028-06be-7e85-a38c-8e1253d467de"}
-{"propertySlug":"import","fileName":"shuffle-state.argument.ts","path":"command/pages/music/shuffle/music-shuffle.command.code.ts"}
+{"propertySlug":"import","fileName":"shuffle-state.argument.ts","path":"command/pages/music/shuffle/music-shuffle.command.code.ts","typed":false,"deferred":false}

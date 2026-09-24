@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"infrastructure-service-restart.command.code.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.test.ts"}
-{"propertySlug":"import","fileName":"infrastructure-service-restart.command.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.code.ts"}
+{"propertySlug":"import","fileName":"infrastructure-service-restart.command.code.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"infrastructure-service-restart.command.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/infrastructure/service/infrastructure-service.namespace.ts","id":"01a0940a-15ff-7e3e-8ad9-8be0509a9a8a"}

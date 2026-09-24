@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.test.ts"}
-{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/harness/modules/router-app-serving/router-app-serving.module.code.ts"}
-{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/web/routes/pages-ready/pages-ready.route.code.ts"}
-{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.code.ts"}
-{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts"}
+{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/harness/modules/router-app-serving/router-app-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"alan/web/routes/pages-ready/pages-ready.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"reading-in-flight.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}

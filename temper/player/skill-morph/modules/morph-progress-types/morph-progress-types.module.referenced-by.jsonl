@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-skill-line-progress/completion-skill-line-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary/completion-summary.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-transforms/completion-transforms.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/skill-morph/modules/skill-line-morph-totals/skill-line-morph-totals.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/web/modules/character-progress/character-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-skill-line-progress/completion-skill-line-progress.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary/completion-summary.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-transforms/completion-transforms.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/skill-morph/modules/skill-line-morph-totals/skill-line-morph-totals.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/web/modules/character-progress/character-progress.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-progress-types.module.code.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}

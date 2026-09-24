@@ -3,9 +3,9 @@
 {"propertySlug":"extends-type","path":"alan/harness/monarch/holding/monarch-holding.page-type.ts","id":"01a0680a-1a00-7016-b283-5a9c7e1f1116"}
 {"propertySlug":"extends-type","path":"alan/harness/monarch/month/monarch-month.page-type.ts","id":"01a0680b-2b00-7012-a659-4d8f2c7e2113"}
 {"propertySlug":"extends-type","path":"alan/harness/monarch/tag/monarch-tag.page-type.ts","id":"01a0680a-1a00-700f-a758-9b2c6e3f110f"}
-{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/account/monarch-account.page-type.types.ts"}
-{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/category/monarch-category.page-type.types.ts"}
-{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/holding/monarch-holding.page-type.types.ts"}
-{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/month/monarch-month.page-type.types.ts"}
-{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/tag/monarch-tag.page-type.types.ts"}
+{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/account/monarch-account.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/category/monarch-category.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/holding/monarch-holding.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/month/monarch-month.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-record.page-type.types.ts","path":"alan/harness/monarch/tag/monarch-tag.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}

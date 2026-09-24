@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"lua-serializer.module.code.ts","path":"temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.code.ts"}
-{"propertySlug":"import","fileName":"lua-serializer.module.code.ts","path":"temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"}
-{"propertySlug":"import","fileName":"lua-serializer.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"lua-serializer.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts"}
+{"propertySlug":"import","fileName":"lua-serializer.module.code.ts","path":"temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-serializer.module.code.ts","path":"temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-serializer.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-serializer.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}

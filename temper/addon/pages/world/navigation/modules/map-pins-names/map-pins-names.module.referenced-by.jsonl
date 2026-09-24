@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-chapters/map-pins-chapters.module.code.ts"}
-{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-config/map-pins-config.module.code.ts"}
-{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-events/map-pins-events.module.code.ts"}
-{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-pin-add/map-pins-pin-add.module.code.ts"}
-{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-saved-variables/map-pins-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-chapters/map-pins-chapters.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-compass-pins/map-pins-compass-pins.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-config/map-pins-config.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-events/map-pins-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-pin-add/map-pins-pin-add.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"map-pins-names.module.code.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-saved-variables/map-pins-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/world/navigation/temper-addon-world-navigation.domain.ts","id":"01a0c6e7-9054-7191-bd84-4e8d7e6bb16e"}

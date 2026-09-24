@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"use-nav-command-bindings.module.code.ts","path":"alan/atlas-web/modules/atlas-nav-command/atlas-nav-command.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-nav-command-bindings.module.code.ts","path":"alan/requests-web/modules/requests-nav-command/requests-nav-command.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-nav-command-bindings.module.code.ts","path":"alan/web/modules/nav-command/nav-command.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-nav-command-bindings.module.code.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-command.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-nav-command-bindings.module.code.ts","path":"alan/atlas-web/modules/atlas-nav-command/atlas-nav-command.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-nav-command-bindings.module.code.ts","path":"alan/requests-web/modules/requests-nav-command/requests-nav-command.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-nav-command-bindings.module.code.ts","path":"alan/web/modules/nav-command/nav-command.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-nav-command-bindings.module.code.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-command.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

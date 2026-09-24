@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"}
-{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-panel-card/inventory-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/management-plan-panel-card/management-plan-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-panel-card/inventory-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/management-plan-panel-card/management-plan-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/unmapped-items-panel-card/unmapped-items-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-gold.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

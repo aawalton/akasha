@@ -1,4 +1,4 @@
 {"propertySlug":"file-written-by","path":"infrastructure/machine/provisioning/provisioned-file/properties/content.file-property.ts","id":"01a06861-49aa-7da0-ac90-203f33e32ff4"}
-{"propertySlug":"import","fileName":"filling.module-property-group.ts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.types.ts"}
+{"propertySlug":"import","fileName":"filling.module-property-group.ts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"parts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"supervisor-iteration-outcome-db.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-iteration-outcome-db.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-iteration-outcome-db.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-iteration-outcome-db.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-run/seat-agent-run.domain.ts","id":"01a09c67-78aa-706e-8909-443bee147ea1"}

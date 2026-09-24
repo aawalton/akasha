@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/nav-count-badge/nav-count-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts"}
-{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"}
-{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts"}
-{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
-{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts"}
+{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/nav-count-badge/nav-count-badge.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"resolve-select-options.module.code.ts","path":"page/ui/supabase/modules/use-option-list-lookup/use-option-list-lookup.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

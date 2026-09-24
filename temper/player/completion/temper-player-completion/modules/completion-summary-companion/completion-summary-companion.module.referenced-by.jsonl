@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"completion-summary-companion.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.test.ts"}
-{"propertySlug":"import","fileName":"completion-summary-companion.module.code.ts","path":"temper/web/modules/companion-progress/companion-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-summary-companion.module.code.ts","path":"temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx"}
+{"propertySlug":"import","fileName":"completion-summary-companion.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-companion/completion-summary-companion.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-summary-companion.module.code.ts","path":"temper/web/modules/companion-progress/companion-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-summary-companion.module.code.ts","path":"temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}

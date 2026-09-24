@@ -1,7 +1,8 @@
-{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/amazon-write/monarch-amazon-write.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/categorize/monarch-categorize.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/poll/monarch-poll.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/reconcile/monarch-reconcile.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/sync/monarch-sync.module.code.ts"}
+{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/amazon-write/monarch-amazon-write.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/categorize/monarch-categorize.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/domain-files/monarch-domain-files.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/poll/monarch-poll.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/reconcile/monarch-reconcile.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-land-files.module.code.ts","path":"alan/harness/monarch/modules/sync/monarch-sync.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}

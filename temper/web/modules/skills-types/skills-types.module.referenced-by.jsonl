@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"skills-types.module.code.ts","path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"skills-types.module.code.ts","path":"temper/web/modules/skills-panel/skills-panel.module.code.tsx"}
-{"propertySlug":"import","fileName":"skills-types.module.code.ts","path":"temper/web/modules/use-scribed-skills/use-scribed-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"skills-types.module.code.ts","path":"temper/web/modules/use-skill-bars/use-skill-bars.module.code.ts"}
+{"propertySlug":"import","fileName":"skills-types.module.code.ts","path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skills-types.module.code.ts","path":"temper/web/modules/skills-panel/skills-panel.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skills-types.module.code.ts","path":"temper/web/modules/use-scribed-skills/use-scribed-skills.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skills-types.module.code.ts","path":"temper/web/modules/use-skill-bars/use-skill-bars.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

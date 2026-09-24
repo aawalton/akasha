@@ -3,8 +3,8 @@
 {"propertySlug":"argument","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.ts","id":"01a0685d-ceae-7009-892c-425eee9c835b"}
 {"propertySlug":"argument","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.ts","id":"01a0685d-ceae-700a-91a5-034c3b41a91c"}
 {"propertySlug":"argument","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.ts","id":"01a0685d-ceae-7005-b619-65388a8bde61"}
-{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/cut/record/mobile-cut-record.command.code.ts"}
-{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts"}
-{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.code.ts"}
-{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
-{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.code.ts"}
+{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/cut/record/mobile-cut-record.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app.argument.ts","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.code.ts","typed":false,"deferred":false}

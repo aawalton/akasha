@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"debug-logger-casts.module.code.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-api/debug-logger-api.module.code.ts"}
-{"propertySlug":"import","fileName":"debug-logger-casts.module.code.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-global/debug-logger-global.module.code.ts"}
-{"propertySlug":"import","fileName":"debug-logger-casts.module.code.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-log-handler/debug-logger-log-handler.module.code.ts"}
-{"propertySlug":"import","fileName":"debug-logger-casts.module.code.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts"}
+{"propertySlug":"import","fileName":"debug-logger-casts.module.code.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-api/debug-logger-api.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"debug-logger-casts.module.code.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-global/debug-logger-global.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"debug-logger-casts.module.code.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-log-handler/debug-logger-log-handler.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"debug-logger-casts.module.code.ts","path":"temper/addon/pages/temper-core/temper-debug-logger/modules/debug-logger-startup/debug-logger-startup.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/temper-core/temper-debug-logger/temper-debug-logger.domain.ts","id":"01a0c75b-4193-72c9-9d92-412f19aa2148"}

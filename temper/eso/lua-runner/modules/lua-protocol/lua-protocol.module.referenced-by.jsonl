@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"lua-protocol.module.code.ts","path":"temper/eso/lua-runner/modules/lua-protocol/lua-protocol.module.test.ts"}
-{"propertySlug":"import","fileName":"lua-protocol.module.code.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
+{"propertySlug":"import","fileName":"lua-protocol.module.code.ts","path":"temper/eso/lua-runner/modules/lua-protocol/lua-protocol.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-protocol.module.code.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}

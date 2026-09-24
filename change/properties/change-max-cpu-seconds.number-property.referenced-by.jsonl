@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"change-max-cpu-seconds.number-property.types.ts","path":"change/agent/change-agent.page-type.types.ts"}
-{"propertySlug":"import","fileName":"change-max-cpu-seconds.number-property.types.ts","path":"change/change.page-type.types.ts"}
+{"propertySlug":"import","fileName":"change-max-cpu-seconds.number-property.types.ts","path":"change/agent/change-agent.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-max-cpu-seconds.number-property.types.ts","path":"change/change.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"change/agent/change-agent.page-type.ts","id":"01a07e9a-630c-75a2-b4ec-5106861a8009"}
 {"propertySlug":"page-property","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

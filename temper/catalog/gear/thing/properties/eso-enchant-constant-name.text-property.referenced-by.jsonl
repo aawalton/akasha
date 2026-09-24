@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"eso-enchant-constant-name.text-property.types.ts","path":"temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.types.ts"}
-{"propertySlug":"import","fileName":"eso-enchant-constant-name.text-property.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.types.ts"}
-{"propertySlug":"import","fileName":"eso-enchant-constant-name.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.types.ts"}
-{"propertySlug":"import","fileName":"eso-enchant-constant-name.text-property.types.ts","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"eso-enchant-constant-name.text-property.types.ts","path":"temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enchant-constant-name.text-property.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enchant-constant-name.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enchant-constant-name.text-property.types.ts","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.ts","id":"01a05fd1-d42e-7a0a-9e97-561c71aeccd4"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts","id":"01a05fd1-d432-7bca-b936-c66974cf77aa"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts","id":"01a05fd1-d441-7e40-89d2-1fcb87133420"}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.ts"}
-{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/generation/upscale/cluster-image/upscale-cluster-image.container-recipe.ts"}
-{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/generation/upscale/image/upscale-image.container-recipe.ts"}
-{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/generation/wan/image/wan-image.container-recipe.ts"}
-{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/generation/zimage/image/zimage-image.container-recipe.ts"}
-{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts"}
-{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"temper/watcher/image/temper-watcher-image.container-recipe.ts"}
+{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/generation/upscale/cluster-image/upscale-cluster-image.container-recipe.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/generation/upscale/image/upscale-image.container-recipe.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/generation/wan/image/wan-image.container-recipe.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/generation/zimage/image/zimage-image.container-recipe.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"container-recipe.page-type.types.ts","path":"temper/watcher/image/temper-watcher-image.container-recipe.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}

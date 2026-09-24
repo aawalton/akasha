@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-biome/block-biome.agent-hook.test.ts"}
-{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-bun-test/block-bun-test.agent-hook.test.ts"}
-{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.test.ts"}
-{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.test.ts"}
-{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.test.ts"}
-{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.test.ts"}
+{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-biome/block-biome.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-bun-test/block-bun-test.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hook-payload.test-fixture.code.ts","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}

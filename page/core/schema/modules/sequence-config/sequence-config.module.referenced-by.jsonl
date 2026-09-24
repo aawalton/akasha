@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"sequence-config.module.code.ts","path":"page/access/modules/file-page-type-config/file-page-type-config.module.code.ts"}
-{"propertySlug":"import","fileName":"sequence-config.module.code.ts","path":"page/access/modules/ordered/ordered.module.code.ts"}
-{"propertySlug":"import","fileName":"sequence-config.module.code.ts","path":"page/access/modules/page-type-config/page-type-config.module.code.ts"}
-{"propertySlug":"import","fileName":"sequence-config.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts"}
+{"propertySlug":"import","fileName":"sequence-config.module.code.ts","path":"page/access/modules/file-page-type-config/file-page-type-config.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sequence-config.module.code.ts","path":"page/access/modules/ordered/ordered.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sequence-config.module.code.ts","path":"page/access/modules/page-type-config/page-type-config.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sequence-config.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

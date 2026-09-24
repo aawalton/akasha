@@ -1,5 +1,6 @@
-{"propertySlug":"import","fileName":"eso-token-scope.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
-{"propertySlug":"import","fileName":"eso-token-scope.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.test.ts"}
-{"propertySlug":"import","fileName":"eso-token-scope.module.code.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-token-scope.module.code.ts","path":"temper/eso/declaration/modules/eso-token-scope/eso-token-scope.module.test.ts"}
+{"propertySlug":"import","fileName":"eso-token-scope.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-token-scope.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-token-scope.module.code.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-token-scope.module.code.ts","path":"temper/eso/declaration/modules/eso-token-scope/eso-token-scope.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-token-scope.module.code.ts","path":"temper/eso/declaration/modules/eso-token-scope/eso-token-scope.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/declaration/temper-eso-declaration.domain.ts","id":"01a0673e-3ddf-7000-a6f4-66fa0861fb9d"}

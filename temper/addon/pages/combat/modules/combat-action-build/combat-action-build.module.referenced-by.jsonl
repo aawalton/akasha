@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-cast/combat-action-cast.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-event-handlers/combat-action-event-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-refine/combat-action-refine.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-slots/combat-action-slots.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-cast/combat-action-cast.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-effect-lookup/combat-action-effect-lookup.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-event-handlers/combat-action-event-handlers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-refine/combat-action-refine.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-build.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-slots/combat-action-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

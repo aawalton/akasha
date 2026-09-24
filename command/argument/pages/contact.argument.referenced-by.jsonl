@@ -1,8 +1,8 @@
 {"propertySlug":"argument","path":"command/pages/imessage/recent-list/imessage-recent-list.command.ts","id":"01a0685f-c8ed-7002-acaf-64c6ea2ab792"}
 {"propertySlug":"argument","path":"command/pages/imessage/search/imessage-search.command.ts","id":"01a0685f-c8ed-7003-b10c-862bb54dd76a"}
 {"propertySlug":"argument","path":"command/pages/imessage/unread-list/imessage-unread-list.command.ts","id":"01a0685f-c8ed-7005-84fd-d9365b175452"}
-{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/recent-list/imessage-recent-list.command.code.ts"}
-{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/recent-list/imessage-recent-list.command.test.ts"}
-{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/search/imessage-search.command.code.ts"}
-{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/unread-list/imessage-unread-list.command.code.ts"}
-{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/unread-list/imessage-unread-list.command.test.ts"}
+{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/recent-list/imessage-recent-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/recent-list/imessage-recent-list.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/search/imessage-search.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/unread-list/imessage-unread-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contact.argument.ts","path":"command/pages/imessage/unread-list/imessage-unread-list.command.test.ts","typed":false,"deferred":false}

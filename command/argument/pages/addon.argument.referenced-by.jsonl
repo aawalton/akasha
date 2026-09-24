@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.ts","id":"01a0603c-c1c9-7aeb-a484-f4b4517ed141"}
 {"propertySlug":"argument","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.ts","id":"01a0603c-c1c9-7ee8-bee7-dc59bf99a048"}
-{"propertySlug":"import","fileName":"addon.argument.ts","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.code.ts"}
-{"propertySlug":"import","fileName":"addon.argument.ts","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.code.ts"}
+{"propertySlug":"import","fileName":"addon.argument.ts","path":"command/pages/temper/addon/copy-metadata/temper-addon-copy-metadata.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon.argument.ts","path":"command/pages/temper/addon/generate-load-order/temper-addon-generate-load-order.command.code.ts","typed":false,"deferred":false}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.code.ts","path":"command/pages/measure/persona/measure-persona.command.code.ts"}
-{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.code.ts","path":"persona/properties/persona-relationship-level.computed-property.test.ts"}
-{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.test-fixtures.ts","path":"command/pages/measure/persona/measure-persona.command.test.ts"}
-{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.test-fixtures.ts","path":"persona/properties/persona-relationship-level.computed-property.test.ts"}
-{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.types.ts","path":"persona/persona.page-type.types.ts"}
-{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.types.ts","path":"persona/properties/persona-relationship-level.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.code.ts","path":"command/pages/measure/persona/measure-persona.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.code.ts","path":"persona/properties/persona-relationship-level.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.test-fixtures.ts","path":"command/pages/measure/persona/measure-persona.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.test-fixtures.ts","path":"persona/properties/persona-relationship-level.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.types.ts","path":"persona/persona.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"persona-relationship-level.computed-property.types.ts","path":"persona/properties/persona-relationship-level.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}

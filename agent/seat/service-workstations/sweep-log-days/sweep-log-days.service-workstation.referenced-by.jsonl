@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"sweep-log-days.service-workstation.running.code.ts","path":"agent/seat/service-workstations/sweep-log-days/sweep-log-days.service-workstation.running.test.ts"}
-{"propertySlug":"import","fileName":"sweep-log-days.service-workstation.running.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.test.ts"}
+{"propertySlug":"import","fileName":"sweep-log-days.service-workstation.running.code.ts","path":"agent/seat/service-workstations/sweep-log-days/sweep-log-days.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"sweep-log-days.service-workstation.running.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

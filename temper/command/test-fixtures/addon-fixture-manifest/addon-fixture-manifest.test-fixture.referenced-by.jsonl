@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"addon-fixture-manifest.test-fixture.code.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.test.ts"}
-{"propertySlug":"import","fileName":"addon-fixture-manifest.test-fixture.code.ts","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.test.ts"}
-{"propertySlug":"import","fileName":"addon-fixture-manifest.test-fixture.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.test.ts"}
-{"propertySlug":"import","fileName":"addon-fixture-manifest.test-fixture.code.ts","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.test.ts"}
+{"propertySlug":"import","fileName":"addon-fixture-manifest.test-fixture.code.ts","path":"command/pages/temper/addon/list/temper-addon-list.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-fixture-manifest.test-fixture.code.ts","path":"command/pages/temper/addon/resolve/temper-addon-resolve.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-fixture-manifest.test-fixture.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-fixture-manifest.test-fixture.code.ts","path":"temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

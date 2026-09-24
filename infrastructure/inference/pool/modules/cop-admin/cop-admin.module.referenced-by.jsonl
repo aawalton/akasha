@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"cop-admin.module.code.ts","path":"command/pages/inference/activate/inference-activate.command.code.ts"}
-{"propertySlug":"import","fileName":"cop-admin.module.code.ts","path":"command/pages/inference/activate/inference-activate.command.test.ts"}
-{"propertySlug":"import","fileName":"cop-admin.module.code.ts","path":"command/pages/inference/active-list/inference-active-list.command.code.ts"}
+{"propertySlug":"import","fileName":"cop-admin.module.code.ts","path":"command/pages/inference/activate/inference-activate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cop-admin.module.code.ts","path":"command/pages/inference/activate/inference-activate.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cop-admin.module.code.ts","path":"command/pages/inference/active-list/inference-active-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/pool/inference-pool.domain.ts","id":"01a06815-9efd-7015-b82a-e620372e1e32"}

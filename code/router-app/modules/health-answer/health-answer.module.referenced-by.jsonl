@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"alan/atlas-web/routes/atlas-api-health/atlas-api-health.route.code.ts"}
-{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"alan/requests-web/routes/requests-api-health/requests-api-health.route.code.ts"}
-{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"alan/web/routes/alan-web-api-health/alan-web-api-health.route.code.ts"}
-{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-health/archive-of-worlds-api-health.route.code.ts"}
-{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-health/audhdalan-api-health.route.code.ts"}
-{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-health/jenny-api-health.route.code.ts"}
-{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-health/innworld-api-health.route.code.ts"}
+{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"alan/atlas-web/routes/atlas-api-health/atlas-api-health.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"alan/requests-web/routes/requests-api-health/requests-api-health.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"alan/web/routes/alan-web-api-health/alan-web-api-health.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-health/archive-of-worlds-api-health.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-health/audhdalan-api-health.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-health/jenny-api-health.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-answer.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-health/innworld-api-health.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"effect-conditions.record-property.types.ts","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"effect-conditions.record-property.types.ts","path":"temper/catalog/companion/skill/properties/nested-effect.record-property.types.ts"}
-{"propertySlug":"import","fileName":"effect-conditions.record-property.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"effect-conditions.record-property.types.ts","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-conditions.record-property.types.ts","path":"temper/catalog/companion/skill/properties/nested-effect.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-conditions.record-property.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/nested-effect.record-property.ts","id":"01a06196-037c-704b-a0d5-349064c3a709"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}

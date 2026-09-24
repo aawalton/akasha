@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"stylesheet-color.relation-property.types.ts","path":"code/stylesheet/properties/stylesheet-colors.record-property.types.ts"}
+{"propertySlug":"import","fileName":"stylesheet-color.relation-property.types.ts","path":"code/stylesheet/properties/stylesheet-colors.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"code/stylesheet/properties/stylesheet-colors.record-property.ts","id":"01a0d58f-e044-7855-8409-2f54825f72de"}
 {"propertySlug":"parts","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}

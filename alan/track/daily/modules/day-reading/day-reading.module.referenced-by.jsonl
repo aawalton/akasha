@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.code.ts"}
-{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts"}
-{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/surplus/modules/reading/surplus-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/track/daily/modules/track-resolve/track-resolve.module.code.ts"}
-{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts"}
+{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/surplus/modules/fall-readout/surplus-fall-readout.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/harness/surplus/modules/reading/surplus-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/track/daily/modules/track-resolve/track-resolve.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-reading.module.code.ts","path":"alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/track/daily/track-daily.domain.ts","id":"01a062dc-1b7f-7c99-a886-e67035171fdf"}

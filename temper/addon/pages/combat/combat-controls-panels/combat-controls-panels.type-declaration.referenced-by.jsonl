@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot/combat-ui-plot.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-report/combat-ui-chat-report.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-controls-panels.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot/combat-ui-plot.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

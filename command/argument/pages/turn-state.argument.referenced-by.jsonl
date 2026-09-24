@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.ts","id":"01a0693c-9b24-7a22-8c27-03b9194b117e"}
-{"propertySlug":"import","fileName":"turn-state.argument.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.code.ts"}
-{"propertySlug":"import","fileName":"turn-state.argument.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.test.ts"}
+{"propertySlug":"import","fileName":"turn-state.argument.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-state.argument.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"not-with","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.ts","id":"01a0693c-9b24-7a22-8c27-03b9194b117e"}

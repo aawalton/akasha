@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/game/settle/game-settle.command.ts","id":"01a0c600-9161-7fdb-8ac2-edc582abc988"}
 {"propertySlug":"argument","path":"command/pages/game/unpack/game-unpack.command.ts","id":"01a0c940-c57c-775a-a7b8-2853a0d22579"}
-{"propertySlug":"import","fileName":"game.argument.ts","path":"command/pages/game/settle/game-settle.command.code.ts"}
-{"propertySlug":"import","fileName":"game.argument.ts","path":"command/pages/game/unpack/game-unpack.command.code.ts"}
+{"propertySlug":"import","fileName":"game.argument.ts","path":"command/pages/game/settle/game-settle.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"game.argument.ts","path":"command/pages/game/unpack/game-unpack.command.code.ts","typed":false,"deferred":false}

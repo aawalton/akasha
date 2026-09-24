@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"yaml-lines.module.code.ts","path":"command/modules/yaml-lines/yaml-lines.module.test.ts"}
-{"propertySlug":"import","fileName":"yaml-lines.module.code.ts","path":"command/pages/alan/elaine/alan-elaine.command.code.ts"}
-{"propertySlug":"import","fileName":"yaml-lines.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts"}
+{"propertySlug":"import","fileName":"yaml-lines.module.code.ts","path":"command/modules/yaml-lines/yaml-lines.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"yaml-lines.module.code.ts","path":"command/pages/alan/elaine/alan-elaine.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"yaml-lines.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

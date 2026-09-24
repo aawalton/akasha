@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"terminal-reload.module.code.ts","path":"code/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-reload.module.code.ts","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-reload.module.code.ts","path":"code/shell/terminal/modules/terminal-reload/terminal-reload.module.test.ts"}
-{"propertySlug":"import","fileName":"terminal-reload.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"}
+{"propertySlug":"import","fileName":"terminal-reload.module.code.ts","path":"code/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-reload.module.code.ts","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-reload.module.code.ts","path":"code/shell/terminal/modules/terminal-reload/terminal-reload.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-reload.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/shell/terminal/shell-terminal.domain.ts","id":"01a0884d-5f98-745e-bc9f-ced0318936eb"}

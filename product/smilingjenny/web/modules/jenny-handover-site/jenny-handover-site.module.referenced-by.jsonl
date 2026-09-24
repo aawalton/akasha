@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"}
-{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/_app-layout.tsx"}
-{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-page-follow/jenny-api-page-follow.route.code.ts"}
-{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/jenny-handover/jenny-handover.route.code.ts"}
-{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/jenny-sign-in/jenny-sign-in.route.code.ts"}
-{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/jenny-sign-out/jenny-sign-out.route.code.ts"}
-{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/server.ts"}
+{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/_app-layout.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-page-follow/jenny-api-page-follow.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/jenny-handover/jenny-handover.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/jenny-sign-in/jenny-sign-in.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/routes/jenny-sign-out/jenny-sign-out.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jenny-handover-site.module.code.ts","path":"product/smilingjenny/web/server.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"product/smilingjenny/web/smilingjenny-web.router-app.ts","id":"01a06558-c2cc-700f-95e8-f8ba5ccafe1e"}

@@ -1,4 +1,5 @@
-{"propertySlug":"import","fileName":"watcher-run-reporting.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"}
-{"propertySlug":"import","fileName":"watcher-run-reporting.module.code.ts","path":"temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.test.ts"}
-{"propertySlug":"import","fileName":"watcher-run-reporting.module.code.ts","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts"}
+{"propertySlug":"import","fileName":"watcher-run-reporting.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-run-reporting.module.code.ts","path":"temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-run-reporting.module.code.ts","path":"temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-run-reporting.module.code.ts","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}

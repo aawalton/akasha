@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/domain/dag/domain-dag.command.ts","id":"01a07c03-8a7b-7661-a70a-f3c561dbfe12"}
-{"propertySlug":"import","fileName":"up.argument.ts","path":"command/pages/domain/dag/domain-dag.command.code.ts"}
-{"propertySlug":"import","fileName":"up.argument.ts","path":"command/pages/domain/dag/domain-dag.command.test.ts"}
+{"propertySlug":"import","fileName":"up.argument.ts","path":"command/pages/domain/dag/domain-dag.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"up.argument.ts","path":"command/pages/domain/dag/domain-dag.command.test.ts","typed":false,"deferred":false}

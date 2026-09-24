@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"}
-{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/generation/wan/modules/backbone/wan-backbone.module.code.ts"}
-{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/generation/wan/modules/extend-graph/wan-extend-graph.module.code.ts"}
-{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/generation/wan/modules/i2v-graph/wan-i2v-graph.module.code.ts"}
-{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts"}
+{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/generation/wan/modules/backbone/wan-backbone.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/generation/wan/modules/extend-graph/wan-extend-graph.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/generation/wan/modules/i2v-graph/wan-i2v-graph.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"comfy-graph.module.code.ts","path":"infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/comfy/comfy.domain.ts","id":"01a06810-0b68-7eaa-8bd1-c312063e493d"}

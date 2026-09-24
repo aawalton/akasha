@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"page-following.module.code.ts","path":"page/service/modules/page-following/page-following.module.test.ts"}
-{"propertySlug":"import","fileName":"page-following.module.code.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts"}
-{"propertySlug":"import","fileName":"page-following.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"page-following.module.code.ts","path":"page/service/modules/page-following/page-following.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-following.module.code.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-following.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/service/page-service.service-workstation.ts","id":"01a05a43-5afa-7d0d-8d60-dbd3c3498f99"}

@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.composing.test.ts"}
-{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/generation/upscale/cluster-image/upscale-cluster-image.container-recipe.composing.test.ts"}
-{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/generation/upscale/image/upscale-image.container-recipe.composing.test.ts"}
-{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/generation/wan/image/wan-image.container-recipe.composing.test.ts"}
-{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/generation/zimage/image/zimage-image.container-recipe.composing.test.ts"}
-{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.test.ts"}
+{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.composing.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/generation/upscale/cluster-image/upscale-cluster-image.container-recipe.composing.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/generation/upscale/image/upscale-image.container-recipe.composing.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/generation/wan/image/wan-image.container-recipe.composing.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/generation/zimage/image/zimage-image.container-recipe.composing.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"recipe-proving.test-fixture.code.ts","path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/container-image/container-image.domain.ts","id":"01a0675b-16dc-759d-9b19-cf1118f36276"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"set-patterns.module.code.ts","path":"temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"}
-{"propertySlug":"import","fileName":"set-patterns.module.code.ts","path":"temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"}
-{"propertySlug":"import","fileName":"set-patterns.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"}
+{"propertySlug":"import","fileName":"set-patterns.module.code.ts","path":"temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"set-patterns.module.code.ts","path":"temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"set-patterns.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}

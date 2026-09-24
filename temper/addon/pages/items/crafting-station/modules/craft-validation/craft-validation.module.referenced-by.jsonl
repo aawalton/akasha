@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-item-mark/craft-item-mark.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research/craft-research.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-public-api/crafting-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-item-mark/craft-item-mark.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research/craft-research.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-validation.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-public-api/crafting-public-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"frame-config.module.code.ts","path":"page/ui/frame/modules/display-frame/display-frame.module.code.tsx"}
-{"propertySlug":"import","fileName":"frame-config.module.code.ts","path":"page/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.code.ts"}
+{"propertySlug":"import","fileName":"frame-config.module.code.ts","path":"page/ui/frame/modules/display-frame/display-frame.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"frame-config.module.code.ts","path":"page/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/frame/page-ui-frame.domain.ts","id":"01a071cf-928b-7c4c-91ab-a706461ea825"}

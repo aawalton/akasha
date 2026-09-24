@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"upscale-cluster.module.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts"}
+{"propertySlug":"import","fileName":"upscale-cluster.module.code.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/upscale/upscale.domain.ts","id":"01a06815-9efd-7040-a13c-1048a109ba86"}

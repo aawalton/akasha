@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"talos-apply.command.code.ts","path":"command/pages/talos/apply/talos-apply.command.test.ts"}
-{"propertySlug":"import","fileName":"talos-apply.command.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts"}
+{"propertySlug":"import","fileName":"talos-apply.command.code.ts","path":"command/pages/talos/apply/talos-apply.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"talos-apply.command.code.ts","path":"command/pages/talos/apply/talos-apply.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"talos-apply.command.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/talos/talos.namespace.ts","id":"01a07bc6-efe9-76cc-91ba-f1df9bbe9e0a"}

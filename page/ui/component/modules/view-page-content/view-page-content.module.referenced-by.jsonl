@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"alan/harness/web-page-answer/modules/page-detail-loader/page-detail-loader.module.code.tsx"}
-{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"alan/requests-web/routes/requests-home/requests-home.route.code.tsx"}
-{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"alan/web/routes/alan-web-home/alan-web-home.route.code.tsx"}
-{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"alan/web/routes/alan-web-page-detail/alan-web-page-detail.route.code.tsx"}
-{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.code.tsx"}
-{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"temper/web/routes/page-detail/page-detail.route.code.tsx"}
+{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"alan/harness/web-page-answer/modules/page-detail-loader/page-detail-loader.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"alan/requests-web/routes/requests-home/requests-home.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"alan/web/routes/alan-web-home/alan-web-home.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"alan/web/routes/alan-web-page-detail/alan-web-page-detail.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"product/archive-of-worlds/web/routes/archive-of-worlds-page-detail/archive-of-worlds-page-detail.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-page-content.module.code.tsx","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

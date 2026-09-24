@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"mined-data-parse.module.code.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.test.ts"}
-{"propertySlug":"import","fileName":"mined-data-parse.module.code.ts","path":"temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.code.ts"}
-{"propertySlug":"import","fileName":"mined-data-parse.module.test-fixtures.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.test.ts"}
+{"propertySlug":"import","fileName":"mined-data-parse.module.code.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mined-data-parse.module.code.ts","path":"temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mined-data-parse.module.test-fixtures.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/capture/datamining/reader/temper-capture-datamining-reader.domain.ts","id":"01a0609d-90dd-75fe-af4b-e55cf72da4b3"}

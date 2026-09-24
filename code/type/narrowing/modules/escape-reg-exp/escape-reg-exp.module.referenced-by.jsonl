@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"code/type/narrowing/modules/escape-reg-exp/escape-reg-exp.module.test.ts"}
-{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.code.ts"}
-{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-inline-handler-dispatch/addon-inline-handler-dispatch.module.code.ts"}
-{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"}
-{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-removed-refs/addon-removed-refs.module.code.ts"}
-{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"}
-{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.code.ts"}
+{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"code/type/narrowing/modules/escape-reg-exp/escape-reg-exp.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-inline-handler-dispatch/addon-inline-handler-dispatch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-removed-refs/addon-removed-refs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"escape-reg-exp.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

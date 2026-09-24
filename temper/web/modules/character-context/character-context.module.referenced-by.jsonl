@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"character-context.module.code.tsx","path":"temper/web/modules/character-editor/character-editor.module.code.tsx"}
-{"propertySlug":"import","fileName":"character-context.module.code.tsx","path":"temper/web/modules/editor-tab-panels/editor-tab-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"character-context.module.code.tsx","path":"temper/web/modules/use-character/use-character.module.code.ts"}
+{"propertySlug":"import","fileName":"character-context.module.code.tsx","path":"temper/web/modules/character-editor/character-editor.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-context.module.code.tsx","path":"temper/web/modules/editor-tab-panels/editor-tab-panels.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-context.module.code.tsx","path":"temper/web/modules/use-character/use-character.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

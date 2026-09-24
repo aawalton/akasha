@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"use-reorder-view-wiring.module.code.ts","path":"page/ui/component/modules/page-list-section/page-list-section.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-reorder-view-wiring.module.code.ts","path":"page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts"}
-{"propertySlug":"import","fileName":"use-reorder-view-wiring.module.code.ts","path":"page/ui/component/modules/sortable-card-collection/sortable-card-collection.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-reorder-view-wiring.module.code.ts","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-reorder-view-wiring.module.code.ts","path":"page/ui/component/modules/page-list-section/page-list-section.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"use-reorder-view-wiring.module.code.ts","path":"page/ui/component/modules/page-system-tab-content-props/page-system-tab-content-props.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"use-reorder-view-wiring.module.code.ts","path":"page/ui/component/modules/sortable-card-collection/sortable-card-collection.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"use-reorder-view-wiring.module.code.ts","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

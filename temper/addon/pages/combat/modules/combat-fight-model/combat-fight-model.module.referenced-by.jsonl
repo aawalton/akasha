@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-analysis/combat-analysis.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-finalize-buffs/combat-finalize-buffs.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-finalize/combat-finalize.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-process-log-damage/combat-process-log-damage.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-process-log-effects/combat-process-log-effects.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-selection/combat-selection.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-unit-stats/combat-unit-stats.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-analysis/combat-analysis.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-finalize-buffs/combat-finalize-buffs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-finalize/combat-finalize.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-process-log-damage/combat-process-log-damage.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-process-log-effects/combat-process-log-effects.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-selection/combat-selection.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-model.module.code.ts","path":"temper/addon/pages/combat/modules/combat-unit-stats/combat-unit-stats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

@@ -2,7 +2,7 @@
 {"propertySlug":"argument","path":"command/pages/inference/generate/inference-generate.command.ts","id":"01a0685e-fd50-7a4c-ba59-ae4e2497a4c5"}
 {"propertySlug":"argument","path":"command/pages/inference/wan/extend/inference-wan-extend.command.ts","id":"01a093fb-0896-7f06-b8ca-489590932fe3"}
 {"propertySlug":"argument","path":"command/pages/inference/wan/generate/inference-wan-generate.command.ts","id":"01a093fa-cf48-7c82-9dc2-020adb45aa53"}
-{"propertySlug":"import","fileName":"size.argument.ts","path":"command/pages/inference/edit/inference-edit.command.code.ts"}
-{"propertySlug":"import","fileName":"size.argument.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts"}
-{"propertySlug":"import","fileName":"size.argument.ts","path":"command/pages/inference/wan/extend/inference-wan-extend.command.code.ts"}
-{"propertySlug":"import","fileName":"size.argument.ts","path":"command/pages/inference/wan/generate/inference-wan-generate.command.code.ts"}
+{"propertySlug":"import","fileName":"size.argument.ts","path":"command/pages/inference/edit/inference-edit.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"size.argument.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"size.argument.ts","path":"command/pages/inference/wan/extend/inference-wan-extend.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"size.argument.ts","path":"command/pages/inference/wan/generate/inference-wan-generate.command.code.ts","typed":false,"deferred":false}

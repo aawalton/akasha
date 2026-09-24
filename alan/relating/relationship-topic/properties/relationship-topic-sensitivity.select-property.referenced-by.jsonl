@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"relationship-topic-sensitivity.select-property.ts","path":"alan/relating/relationship-topic/properties/relationship-topic-sensitivity.select-property.types.ts"}
-{"propertySlug":"import","fileName":"relationship-topic-sensitivity.select-property.types.ts","path":"alan/relating/relationship-topic/relationship-topic.page-type.types.ts"}
+{"propertySlug":"import","fileName":"relationship-topic-sensitivity.select-property.ts","path":"alan/relating/relationship-topic/properties/relationship-topic-sensitivity.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relationship-topic-sensitivity.select-property.types.ts","path":"alan/relating/relationship-topic/relationship-topic.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/relating/relationship-topic/relationship-topic.page-type.ts","id":"01a0658a-170f-73cd-a458-8f98d995452e"}
 {"propertySlug":"parts","path":"alan/relating/relationship-topic/relationship-topic.page-type.ts","id":"01a0658a-170f-73cd-a458-8f98d995452e"}

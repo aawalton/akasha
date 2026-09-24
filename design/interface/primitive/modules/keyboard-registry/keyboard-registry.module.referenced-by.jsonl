@@ -1,8 +1,9 @@
-{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"alan/web/modules/nav-command/nav-command.module.code.tsx"}
-{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"}
-{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.test.ts"}
-{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/shortcut-surfaces/shortcut-surfaces.module.code.ts"}
-{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"page/ui/component/modules/nav-command-bindings/nav-command-bindings.module.code.ts"}
-{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"page/ui/component/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"}
+{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"alan/web/modules/nav-command/nav-command.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/command-palette/command-palette.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/shortcut-surfaces/shortcut-surfaces.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"page/ui/component/modules/nav-command-bindings/nav-command-bindings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"page/ui/component/modules/nav-command-bindings/nav-command-bindings.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"keyboard-registry.module.code.ts","path":"page/ui/component/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

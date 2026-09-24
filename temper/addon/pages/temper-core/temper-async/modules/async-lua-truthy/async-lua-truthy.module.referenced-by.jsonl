@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"async-lua-truthy.module.code.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-task-loops/async-task-loops.module.code.ts"}
-{"propertySlug":"import","fileName":"async-lua-truthy.module.code.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-task-sort/async-task-sort.module.code.ts"}
-{"propertySlug":"import","fileName":"async-lua-truthy.module.code.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-task-timer/async-task-timer.module.code.ts"}
+{"propertySlug":"import","fileName":"async-lua-truthy.module.code.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-task-loops/async-task-loops.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"async-lua-truthy.module.code.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-task-sort/async-task-sort.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"async-lua-truthy.module.code.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-task-timer/async-task-timer.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/temper-core/temper-async/temper-async.domain.ts","id":"01a0c73e-7a05-7fa6-8a83-d404a41bacc5"}

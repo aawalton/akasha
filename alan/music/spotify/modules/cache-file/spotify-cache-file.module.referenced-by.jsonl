@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"spotify-cache-file.module.code.ts","path":"alan/music/spotify/modules/cache-file/spotify-cache-file.module.test.ts"}
-{"propertySlug":"import","fileName":"spotify-cache-file.module.code.ts","path":"alan/music/spotify/modules/pkce-store/spotify-pkce-store.module.code.ts"}
-{"propertySlug":"import","fileName":"spotify-cache-file.module.code.ts","path":"alan/music/spotify/modules/token-store/spotify-token-store.module.code.ts"}
+{"propertySlug":"import","fileName":"spotify-cache-file.module.code.ts","path":"alan/music/spotify/modules/cache-file/spotify-cache-file.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-cache-file.module.code.ts","path":"alan/music/spotify/modules/pkce-store/spotify-pkce-store.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-cache-file.module.code.ts","path":"alan/music/spotify/modules/token-store/spotify-token-store.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}

@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/faith/faith.value.ts"}
-{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/fun/fun.value.ts"}
-{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/health/health.value.ts"}
-{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/learn/learn.value.ts"}
-{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/love/love.value.ts"}
-{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/wealth/wealth.value.ts"}
+{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/faith/faith.value.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/fun/fun.value.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/health/health.value.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/learn/learn.value.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/love/love.value.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"value.page-type.types.ts","path":"alan/value/wealth/wealth.value.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/alan.domain.ts","id":"01a05dfc-d883-7000-81e2-065c3cad4cec"}
 {"propertySlug":"target-page-type","path":"alan/relating/relationship-deposit/properties/relationship-deposit-value.relation-property.ts","id":"01a0658d-16bc-7b66-83ce-cae8c84b28f2"}
 {"propertySlug":"target-page-type","path":"alan/self/identity-statement/properties/identity-statement-value.relation-property.ts","id":"01a0658a-739f-7952-921f-4eb125f1399c"}

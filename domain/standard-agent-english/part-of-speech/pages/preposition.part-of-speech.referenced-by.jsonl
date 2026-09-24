@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"preposition.part-of-speech.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
+{"propertySlug":"import","fileName":"preposition.part-of-speech.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/about.common-language-term.ts","id":"01a0d48f-dc48-730d-926a-23d924873fd1"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/after.common-language-term.ts","id":"01a0d3e0-7b13-7b8c-9d28-5cd88ff07d67"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/against.common-language-term.ts","id":"01a0c58f-f989-7753-901d-c21d17803498"}

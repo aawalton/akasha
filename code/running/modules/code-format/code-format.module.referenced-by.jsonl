@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts"}
-{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"code/running/modules/code-format/code-format.module.test.ts"}
-{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts"}
-{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/modules/edits-landing/edits-landing.module.code.ts"}
-{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/modules/restating/restating.module.code.ts"}
-{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts"}
-{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
-{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts"}
+{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"code/running/modules/code-format/code-format.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/modules/edits-landing/edits-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/modules/restating/restating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/running/code-running.domain.ts","id":"01a09b28-b8af-7f7c-804c-05aff06380bf"}

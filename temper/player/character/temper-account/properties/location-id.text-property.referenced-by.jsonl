@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"location-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/bag-sizes.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"location-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/placed-furnishings.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"location-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/reading-locations.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"location-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"location-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/bag-sizes.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"location-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/placed-furnishings.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"location-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/reading-locations.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"location-id.text-property.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/properties/bag-sizes.page-property-entry.ts","id":"01a0675a-f185-72e7-ad66-35247edba53b"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/properties/placed-furnishings.page-property-entry.ts","id":"01a0675a-f185-72b3-a56a-b5708ff6924e"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/properties/reading-locations.page-property-entry.ts","id":"01a0675a-f185-70ca-b3c9-47a893495e70"}

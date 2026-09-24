@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"subagent-edits.file-property.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-edits.file-property.types.ts","path":"agent/seat/seat.page-type.types.ts"}
+{"propertySlug":"import","fileName":"subagent-edits.file-property.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-edits.file-property.types.ts","path":"agent/seat/seat.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

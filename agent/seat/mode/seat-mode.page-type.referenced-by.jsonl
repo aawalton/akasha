@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"seat-mode.page-type.types.ts","path":"agent/seat/mode/pages/headless.seat-mode.ts"}
-{"propertySlug":"import","fileName":"seat-mode.page-type.types.ts","path":"agent/seat/mode/pages/interactive.seat-mode.ts"}
+{"propertySlug":"import","fileName":"seat-mode.page-type.types.ts","path":"agent/seat/mode/pages/headless.seat-mode.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-mode.page-type.types.ts","path":"agent/seat/mode/pages/interactive.seat-mode.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"target-page-type","path":"agent/seat/properties/mode.relation-property.ts","id":"01a07661-4b8c-7ac8-ba3a-9cbd32e9ae55"}
 {"propertySlug":"target-page-type","path":"agent/seat/properties/start-mode.relation-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}

@@ -1,7 +1,8 @@
-{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.test.ts"}
-{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"alan/harness/imessage/modules/remote/imessage-remote.module.code.ts"}
-{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts"}
-{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts"}
+{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"alan/harness/imessage/modules/message-lines/message-lines.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"alan/harness/imessage/modules/remote/imessage-remote.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contacts-db.module.code.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/imessage/imessage.domain.ts","id":"01a05bc9-4308-7007-a8cc-e8f6c025c81e"}

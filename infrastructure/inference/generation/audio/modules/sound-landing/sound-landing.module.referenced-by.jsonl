@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"sound-landing.module.code.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.test.ts"}
-{"propertySlug":"import","fileName":"sound-landing.module.code.ts","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.code.ts"}
+{"propertySlug":"import","fileName":"sound-landing.module.code.ts","path":"infrastructure/inference/generation/audio/modules/sound-landing/sound-landing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sound-landing.module.code.ts","path":"infrastructure/inference/run/modules/persist-audio/persist-audio.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/audio/audio.page-type.ts","id":"019f189b-018c-74b8-920b-845fe171aee7"}

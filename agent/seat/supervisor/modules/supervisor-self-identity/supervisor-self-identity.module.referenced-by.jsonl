@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}

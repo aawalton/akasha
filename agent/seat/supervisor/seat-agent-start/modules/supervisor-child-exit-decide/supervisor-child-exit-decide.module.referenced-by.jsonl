@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-start/seat-agent-start.domain.ts","id":"01a09c69-a97e-7071-b7a2-2f3b506ded07"}

@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/reviving/modules/seat-resume-guard/seat-resume-guard.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"subagent-page.module.test-fixtures.ts","path":"agent/subagent/modules/page-history/subagent-page-history.module.test.ts"}
-{"propertySlug":"import","fileName":"subagent-page.module.test-fixtures.ts","path":"agent/subagent/modules/page/subagent-page.module.test.ts"}
+{"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/reviving/modules/seat-resume-guard/seat-resume-guard.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-page.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-page.module.test-fixtures.ts","path":"agent/subagent/modules/page-history/subagent-page-history.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-page.module.test-fixtures.ts","path":"agent/subagent/modules/page/subagent-page.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}

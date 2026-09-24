@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"transaction-category.relation-property.types.ts","path":"alan/harness/monarch/category-rule/category-rule.page-type.types.ts"}
-{"propertySlug":"import","fileName":"transaction-category.relation-property.types.ts","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"transaction-category.relation-property.types.ts","path":"alan/harness/monarch/category-rule/category-rule.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"transaction-category.relation-property.types.ts","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/harness/monarch/category-rule/category-rule.page-type.ts","id":"01a0680c-3c00-7007-a659-3e8d1c4f3108"}
 {"propertySlug":"page-property","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.ts","id":"01a0680b-2b00-7011-9f83-5c2a6e4b2112"}
 {"propertySlug":"parts","path":"alan/harness/monarch/category-rule/category-rule.page-type.ts","id":"01a0680c-3c00-7007-a659-3e8d1c4f3108"}

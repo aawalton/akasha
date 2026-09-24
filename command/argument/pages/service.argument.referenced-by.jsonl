@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/inference/generate/inference-generate.command.ts","id":"01a0685e-fd50-7a4c-ba59-ae4e2497a4c5"}
 {"propertySlug":"argument","path":"command/pages/inference/voice/design/inference-voice-design.command.ts","id":"01a0685e-fd50-7904-a9a9-f7caf17947c0"}
-{"propertySlug":"import","fileName":"service.argument.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts"}
-{"propertySlug":"import","fileName":"service.argument.ts","path":"command/pages/inference/voice/design/inference-voice-design.command.code.ts"}
+{"propertySlug":"import","fileName":"service.argument.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service.argument.ts","path":"command/pages/inference/voice/design/inference-voice-design.command.code.ts","typed":false,"deferred":false}

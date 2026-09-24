@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"email-rule-match-comparison.select-property.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-match-comparison.select-property.types.ts"}
-{"propertySlug":"import","fileName":"email-rule-match-comparison.select-property.types.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-matches.record-property.types.ts"}
+{"propertySlug":"import","fileName":"email-rule-match-comparison.select-property.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-match-comparison.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-rule-match-comparison.select-property.types.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-matches.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/harness/inbox/email-rule/properties/email-rule-matches.record-property.ts","id":"01a06860-549f-7699-a464-5922a5455508"}
 {"propertySlug":"parts","path":"alan/harness/inbox/email-rule/email-rule.page-type.ts","id":"01a06828-59d3-7486-8463-b59a1768c717"}

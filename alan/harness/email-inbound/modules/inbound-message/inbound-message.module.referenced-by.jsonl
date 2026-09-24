@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"inbound-message.module.code.ts","path":"alan/google/email/modules/gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts"}
-{"propertySlug":"import","fileName":"inbound-message.module.code.ts","path":"alan/harness/email-inbound/modules/inbound-decision/inbound-decision.module.code.ts"}
+{"propertySlug":"import","fileName":"inbound-message.module.code.ts","path":"alan/google/email/modules/gmail-inbound-adapter/gmail-inbound-adapter.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inbound-message.module.code.ts","path":"alan/harness/email-inbound/modules/inbound-decision/inbound-decision.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/email-inbound/email-inbound.domain.ts","id":"01a05bcd-25e2-7b0c-aff6-314192c66a72"}

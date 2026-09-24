@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"macbook-target.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"}
-{"propertySlug":"import","fileName":"macbook-target.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"}
-{"propertySlug":"import","fileName":"macbook-target.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"}
-{"propertySlug":"import","fileName":"macbook-target.module.code.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
+{"propertySlug":"import","fileName":"macbook-target.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"macbook-target.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"macbook-target.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"macbook-target.module.code.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}

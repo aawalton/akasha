@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"terminal-ended.module.code.ts","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-ended.module.code.ts","path":"code/shell/terminal/modules/terminal-ended/terminal-ended.module.test.ts"}
-{"propertySlug":"import","fileName":"terminal-ended.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"}
+{"propertySlug":"import","fileName":"terminal-ended.module.code.ts","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-ended.module.code.ts","path":"code/shell/terminal/modules/terminal-ended/terminal-ended.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-ended.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/shell/terminal/shell-terminal.domain.ts","id":"01a0884d-5f98-745e-bc9f-ced0318936eb"}

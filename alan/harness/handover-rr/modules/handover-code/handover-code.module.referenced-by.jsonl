@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.code.ts"}
-{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.code.ts"}
-{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.test.ts"}
-{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"}
-{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/web/routes/alan-web-handover-app/alan-web-handover-app.route.code.ts"}
-{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.code.ts"}
-{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts"}
+{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/harness/handover-rr/modules/handover-code/handover-code.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/web/routes/alan-web-handover-app/alan-web-handover-app.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-code.module.code.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/handover-rr/handover-rr.domain.ts","id":"01a0bb5b-cb42-713b-bb83-e6d3265a0786"}

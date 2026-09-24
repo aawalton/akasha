@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inventory-assistant-chain.module.code.ts","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-assistant-chain.module.code.ts","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-assistant-chain.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-assistant-chain.module.code.ts","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-assistant-chain.module.code.ts","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-assistant-chain.module.code.ts","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-assistant-chain.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-venue-events/inventory-rules-venue-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-assistant-chain.module.code.ts","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

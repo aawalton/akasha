@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"build-env-name.text-property.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/secret-build-env.record-property.types.ts"}
-{"propertySlug":"import","fileName":"build-env-name.text-property.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/stated-build-env.record-property.types.ts"}
+{"propertySlug":"import","fileName":"build-env-name.text-property.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/secret-build-env.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"build-env-name.text-property.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/stated-build-env.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"infrastructure/cluster/k8s-type/manifest/properties/secret-build-env.record-property.ts","id":"01a0c68d-cc69-78aa-9654-3b0eee768f10"}
 {"propertySlug":"page-property","path":"infrastructure/cluster/k8s-type/manifest/properties/stated-build-env.record-property.ts","id":"01a0c68d-b3c4-7c67-859b-6fe33468563b"}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"sync-controller.module.code.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"}
-{"propertySlug":"import","fileName":"sync-controller.module.code.ts","path":"page/ui-store/collection/modules/identity-change/identity-change.module.code.ts"}
-{"propertySlug":"import","fileName":"sync-controller.module.code.ts","path":"page/ui-store/collection/modules/pages-collection/pages-collection.module.code.ts"}
+{"propertySlug":"import","fileName":"sync-controller.module.code.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sync-controller.module.code.ts","path":"page/ui-store/collection/modules/identity-change/identity-change.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sync-controller.module.code.ts","path":"page/ui-store/collection/modules/pages-collection/pages-collection.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui-store/collection/page-ui-store-collection.domain.ts","id":"01a071cd-798c-75bd-88c7-7e266f938b90"}

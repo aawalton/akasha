@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"temper-inventory-rule-lock.command.code.ts","path":"command/pages/temper/inventory/rule/lock/temper-inventory-rule-lock.command.test.ts"}
-{"propertySlug":"import","fileName":"temper-inventory-rule-lock.command.ts","path":"command/pages/temper/inventory/rule/lock/temper-inventory-rule-lock.command.code.ts"}
-{"propertySlug":"import","fileName":"temper-inventory-rule-lock.command.ts","path":"command/pages/temper/inventory/rule/lock/temper-inventory-rule-lock.command.test.ts"}
+{"propertySlug":"import","fileName":"temper-inventory-rule-lock.command.code.ts","path":"command/pages/temper/inventory/rule/lock/temper-inventory-rule-lock.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-inventory-rule-lock.command.ts","path":"command/pages/temper/inventory/rule/lock/temper-inventory-rule-lock.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-inventory-rule-lock.command.ts","path":"command/pages/temper/inventory/rule/lock/temper-inventory-rule-lock.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/temper/inventory/rule/temper-inventory-rule.namespace.ts","id":"01a07c17-78b9-7671-8f3d-fd5136036a25"}

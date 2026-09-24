@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"email-unsubscribe.command.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.test.ts"}
-{"propertySlug":"import","fileName":"email-unsubscribe.command.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.code.ts"}
-{"propertySlug":"import","fileName":"email-unsubscribe.command.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.test.ts"}
+{"propertySlug":"import","fileName":"email-unsubscribe.command.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-unsubscribe.command.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-unsubscribe.command.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/email/email.namespace.ts","id":"01a07bbf-258e-70c9-bb9b-25cb2db9ff7d"}

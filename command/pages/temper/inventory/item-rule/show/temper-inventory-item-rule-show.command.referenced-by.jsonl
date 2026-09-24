@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"temper-inventory-item-rule-show.command.code.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.test.ts"}
-{"propertySlug":"import","fileName":"temper-inventory-item-rule-show.command.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.code.ts"}
-{"propertySlug":"import","fileName":"temper-inventory-item-rule-show.command.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.test.ts"}
+{"propertySlug":"import","fileName":"temper-inventory-item-rule-show.command.code.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-inventory-item-rule-show.command.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-inventory-item-rule-show.command.ts","path":"command/pages/temper/inventory/item-rule/show/temper-inventory-item-rule-show.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/temper/inventory/item-rule/temper-inventory-item-rule.namespace.ts","id":"01a07c17-5eb8-7d4b-ba4c-23360de21f42"}

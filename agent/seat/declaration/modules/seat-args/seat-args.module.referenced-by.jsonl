@@ -1,4 +1,5 @@
-{"propertySlug":"import","fileName":"seat-args.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-args.module.code.ts","path":"agent/seat/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-args.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-args.module.code.ts","path":"agent/seat/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-args.module.code.ts","path":"agent/seat/declaration/modules/state-spawned-seat/state-spawned-seat.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}

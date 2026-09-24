@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/page/secret/set/page-secret-set.command.ts","id":"01a06812-3ce8-74c7-be81-2023948a44d9"}
-{"propertySlug":"import","fileName":"keep-last-newline.argument.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.test.ts"}
-{"propertySlug":"import","fileName":"keep-last-newline.argument.ts","path":"command/pages/page/secret/set/page-secret-set.command.code.ts"}
-{"propertySlug":"import","fileName":"keep-last-newline.argument.ts","path":"command/pages/page/secret/set/page-secret-set.command.test.ts"}
+{"propertySlug":"import","fileName":"keep-last-newline.argument.ts","path":"command/pages/page/secret/clear/page-secret-clear.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keep-last-newline.argument.ts","path":"command/pages/page/secret/set/page-secret-set.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keep-last-newline.argument.ts","path":"command/pages/page/secret/set/page-secret-set.command.test.ts","typed":false,"deferred":false}

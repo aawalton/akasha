@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"proposition.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/pages/reflexivity-of-implication/reflexivity-of-implication.proposition.ts"}
-{"propertySlug":"import","fileName":"proposition.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/pages/syntax-of-l/syntax-of-l.proposition.ts"}
-{"propertySlug":"import","fileName":"proposition.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/pages/the-proof-system-of-l/the-proof-system-of-l.proposition.ts"}
+{"propertySlug":"import","fileName":"proposition.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/pages/reflexivity-of-implication/reflexivity-of-implication.proposition.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"proposition.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/pages/syntax-of-l/syntax-of-l.proposition.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"proposition.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/pages/the-proof-system-of-l/the-proof-system-of-l.proposition.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/value/learn/mathematics/mathematics.domain.ts","id":"01a06576-0000-7000-8000-000000000102"}
 {"propertySlug":"target-page-type","path":"alan/value/learn/mathematics/proof/properties/proves.relation-property.ts","id":"01a0657f-5da8-74a3-b66c-654cacd91f41"}

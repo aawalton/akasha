@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"supervisor-compact-decide.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-compact-decide.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-compact-decide.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-compact-decide.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-auto-compact/seat-auto-compact.domain.ts","id":"01a0c57d-e680-71fb-8cf9-90460d5d30a7"}

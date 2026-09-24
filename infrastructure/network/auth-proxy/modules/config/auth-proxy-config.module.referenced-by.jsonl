@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"auth-proxy-config.module.code.ts","path":"infrastructure/network/auth-proxy/modules/proxy-reading/proxy-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"auth-proxy-config.module.code.ts","path":"infrastructure/network/auth-proxy/modules/proxy/proxy.module.code.ts"}
-{"propertySlug":"import","fileName":"auth-proxy-config.module.code.ts","path":"infrastructure/network/auth-proxy/modules/server/auth-proxy-server.module.code.ts"}
+{"propertySlug":"import","fileName":"auth-proxy-config.module.code.ts","path":"infrastructure/network/auth-proxy/modules/proxy-reading/proxy-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"auth-proxy-config.module.code.ts","path":"infrastructure/network/auth-proxy/modules/proxy/proxy.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"auth-proxy-config.module.code.ts","path":"infrastructure/network/auth-proxy/modules/server/auth-proxy-server.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/network/auth-proxy/auth-proxy.domain.ts","id":"01a06864-a443-7933-9156-35c26aacdfcf"}

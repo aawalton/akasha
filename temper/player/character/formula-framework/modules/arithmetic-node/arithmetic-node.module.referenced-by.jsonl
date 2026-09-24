@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"arithmetic-node.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metric-template/companion-metric-template.module.code.ts"}
-{"propertySlug":"import","fileName":"arithmetic-node.module.code.ts","path":"temper/player/character/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts"}
-{"propertySlug":"import","fileName":"arithmetic-node.module.code.ts","path":"temper/player/character/stat/modules/formula-types/formula-types.module.code.ts"}
+{"propertySlug":"import","fileName":"arithmetic-node.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metric-template/companion-metric-template.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"arithmetic-node.module.code.ts","path":"temper/player/character/formula-framework/modules/arithmetic-evaluate/arithmetic-evaluate.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"arithmetic-node.module.code.ts","path":"temper/player/character/stat/modules/formula-types/formula-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}

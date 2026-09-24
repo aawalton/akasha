@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-00/scribed-skills-00.module.code.ts"}
-{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-01/scribed-skills-01.module.code.ts"}
-{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-02/scribed-skills-02.module.code.ts"}
-{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-03/scribed-skills-03.module.code.ts"}
-{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-04/scribed-skills-04.module.code.ts"}
-{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"}
+{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-00/scribed-skills-00.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-01/scribed-skills-01.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-02/scribed-skills-02.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-03/scribed-skills-03.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills-04/scribed-skills-04.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"scribed-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/skill/temper-character-skill.domain.ts","id":"01a0617a-2c72-7654-ad18-45a07d7e27ca"}

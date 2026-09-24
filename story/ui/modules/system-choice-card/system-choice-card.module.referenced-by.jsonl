@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/game/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"}
-{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"}
-{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/narrative-log/narrative-log.module.code.tsx"}
-{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/world/stories/played/chapters/story-chapter-played.page-type.page-component.code.tsx"}
-{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"}
-{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"}
+{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/game/game-panel/modules/panel-drawing/panel-drawing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/narrative-log/narrative-log.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/world/stories/played/chapters/story-chapter-played.page-type.page-component.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"system-choice-card.module.code.tsx","path":"story/world/stories/played/modules/played-channel/played-channel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/ui/ui.domain.ts","id":"01a0628e-a5db-710f-96c6-55f3f7b2427a"}

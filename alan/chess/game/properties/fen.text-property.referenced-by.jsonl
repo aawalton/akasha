@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"fen.text-property.types.ts","path":"alan/chess/game/chess-game.page-type.types.ts"}
-{"propertySlug":"import","fileName":"fen.text-property.types.ts","path":"alan/chess/puzzle-set/properties/puzzles.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"fen.text-property.types.ts","path":"alan/chess/game/chess-game.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"fen.text-property.types.ts","path":"alan/chess/puzzle-set/properties/puzzles.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/chess/game/chess-game.page-type.ts","id":"01a06582-bd62-7ffe-a236-e510097e9b91"}
 {"propertySlug":"page-property","path":"alan/chess/puzzle-set/properties/puzzles.page-property-entry.ts","id":"01a06582-bd62-7cb1-8ecf-f95e81141aa9"}
 {"propertySlug":"parts","path":"alan/chess/game/chess-game.page-type.ts","id":"01a06582-bd62-7ffe-a236-e510097e9b91"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"skill-organization.module.code.ts","path":"temper/web/modules/skill-selection-dialog/skill-selection-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"skill-organization.module.code.ts","path":"temper/web/modules/use-skill-bars/use-skill-bars.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-organization.module.code.ts","path":"temper/web/modules/skill-selection-dialog/skill-selection-dialog.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-organization.module.code.ts","path":"temper/web/modules/use-skill-bars/use-skill-bars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}

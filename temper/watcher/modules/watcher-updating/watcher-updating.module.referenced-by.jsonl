@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"watcher-updating.module.code.ts","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"watcher-updating.module.code.ts","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.test.ts"}
-{"propertySlug":"import","fileName":"watcher-updating.module.code.ts","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts"}
-{"propertySlug":"import","fileName":"watcher-updating.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.test.ts"}
+{"propertySlug":"import","fileName":"watcher-updating.module.code.ts","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-updating.module.code.ts","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-updating.module.code.ts","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-updating.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"readout-enabled.boolean-property.types.ts","path":"alan/harness/readout/readout.page-type.types.ts"}
-{"propertySlug":"import","fileName":"readout-enabled.boolean-property.types.ts","path":"alan/value/value.page-type.types.ts"}
+{"propertySlug":"import","fileName":"readout-enabled.boolean-property.types.ts","path":"alan/harness/readout/readout.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"readout-enabled.boolean-property.types.ts","path":"alan/value/value.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"page-property","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}

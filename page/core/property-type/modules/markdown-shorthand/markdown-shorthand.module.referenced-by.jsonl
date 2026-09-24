@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"markdown-shorthand.module.code.ts","path":"page/ui/block-editor/modules/block-row/block-row.module.code.tsx"}
-{"propertySlug":"import","fileName":"markdown-shorthand.module.code.ts","path":"page/ui/block-editor/modules/use-block-ops/use-block-ops.module.code.ts"}
-{"propertySlug":"import","fileName":"markdown-shorthand.module.code.ts","path":"page/ui/block-editor/modules/use-textarea-input/use-textarea-input.module.code.ts"}
+{"propertySlug":"import","fileName":"markdown-shorthand.module.code.ts","path":"page/ui/block-editor/modules/block-row/block-row.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"markdown-shorthand.module.code.ts","path":"page/ui/block-editor/modules/use-block-ops/use-block-ops.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"markdown-shorthand.module.code.ts","path":"page/ui/block-editor/modules/use-textarea-input/use-textarea-input.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/property-type/page-core-property-type.domain.ts","id":"01a071cb-236e-781b-9c7d-29bf3bd222c7"}

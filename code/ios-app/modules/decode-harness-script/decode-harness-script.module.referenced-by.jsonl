@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"decode-harness-script.module.code.ts","path":"code/ios-app/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"decode-harness-script.module.code.ts","path":"code/ios-app/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.scripting.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"decode-harness-script.module.code.ts","path":"code/ios-app/pages/smilingjenny/scripts/decode-harness-run/smilingjenny-decode-harness-run.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"decode-harness-script.module.code.ts","path":"code/ios-app/pages/smilingjenny/scripts/decode-harness-run/smilingjenny-decode-harness-run.shell-script.scripting.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"decode-harness-script.module.code.ts","path":"code/ios-app/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.scripting.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"decode-harness-script.module.code.ts","path":"code/ios-app/pages/alanwalton/scripts/decode-harness-run/alanwalton-decode-harness-run.shell-script.scripting.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"decode-harness-script.module.code.ts","path":"code/ios-app/pages/smilingjenny/scripts/decode-harness-run/smilingjenny-decode-harness-run.shell-script.scripting.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"decode-harness-script.module.code.ts","path":"code/ios-app/pages/smilingjenny/scripts/decode-harness-run/smilingjenny-decode-harness-run.shell-script.scripting.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/ios-app/ios-app.page-type.ts","id":"01a05821-5723-7e65-88e2-045d3e49cb23"}

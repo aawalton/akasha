@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"deploy-web-putting-up.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
-{"propertySlug":"import","fileName":"deploy-web-putting-up.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.test.ts"}
+{"propertySlug":"import","fileName":"deploy-web-putting-up.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy-web-putting-up.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/deploy/deploy.command.ts","id":"01a05af7-5996-7002-bc83-446645b7de16"}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/build/modules/race-source/race-source.module.code.ts"}
-{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/stat/modules/passive-eligibility/passive-eligibility.module.code.ts"}
-{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary/completion-summary.module.code.ts"}
-{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/web/modules/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/build/modules/race-source/race-source.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/character/stat/modules/passive-eligibility/passive-eligibility.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary/completion-summary.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"passive-queries.module.code.ts","path":"temper/web/modules/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/skill/temper-character-skill.domain.ts","id":"01a0617a-2c72-7654-ad18-45a07d7e27ca"}

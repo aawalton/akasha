@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"hostnames-ci-enrollment.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/nodes-main/nodes-main.module.code.ts"}
+{"propertySlug":"import","fileName":"hostnames-ci-enrollment.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/nodes-main/nodes-main.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts","id":"01a06735-dd9c-700c-89ca-ed7f38cab9b1"}

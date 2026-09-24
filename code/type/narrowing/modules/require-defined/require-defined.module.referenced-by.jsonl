@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"require-defined.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"require-defined.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"require-defined.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-defined.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

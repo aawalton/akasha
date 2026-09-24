@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"page-row-cells.module.code.tsx","path":"page/page.page-type.page-row-component.code.tsx"}
-{"propertySlug":"import","fileName":"page-row-cells.module.code.tsx","path":"page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-row-cells.module.code.tsx","path":"page/ui/component/modules/page-row-drawings/page-row-drawings.module.code.ts"}
-{"propertySlug":"import","fileName":"page-row-cells.module.code.tsx","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-row-cells.module.code.tsx","path":"page/page.page-type.page-row-component.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-row-cells.module.code.tsx","path":"page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-row-cells.module.code.tsx","path":"page/ui/component/modules/page-row-drawings/page-row-drawings.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-row-cells.module.code.tsx","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

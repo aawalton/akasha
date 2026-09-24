@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"prose-restating.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"prose-restating.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"prose-restating.module.code.ts","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.test.ts"}
+{"propertySlug":"import","fileName":"prose-restating.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"prose-restating.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"prose-restating.module.code.ts","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"domain/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}

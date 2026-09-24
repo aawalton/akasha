@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.code.ts"}
-{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-following/answer-following.module.code.ts"}
-{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-page-types/answer-page-types.module.code.ts"}
-{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.code.ts"}
-{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.code.ts"}
-{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.test.ts"}
-{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/routes/alan-web-api-page-file/alan-web-api-page-file.route.code.ts"}
+{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-following/answer-following.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-page-types/answer-page-types.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/harness/web-page-answer/modules/reader-access/reader-access.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reader-access.module.code.ts","path":"alan/web/routes/alan-web-api-page-file/alan-web-api-page-file.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}

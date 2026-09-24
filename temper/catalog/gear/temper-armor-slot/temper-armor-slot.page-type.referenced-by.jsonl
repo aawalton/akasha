@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/chest.temper-armor-slot.ts"}
-{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/feet.temper-armor-slot.ts"}
-{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/hands.temper-armor-slot.ts"}
-{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/head.temper-armor-slot.ts"}
-{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/legs.temper-armor-slot.ts"}
-{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/shoulders.temper-armor-slot.ts"}
-{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/waist.temper-armor-slot.ts"}
+{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/chest.temper-armor-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/feet.temper-armor-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/hands.temper-armor-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/head.temper-armor-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/legs.temper-armor-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/shoulders.temper-armor-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-slot.page-type.types.ts","path":"temper/catalog/gear/temper-armor-slot/pages/waist.temper-armor-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
 {"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-armor-slot/properties/armor-slot.relation-property.ts","id":"01a0c9dc-6361-7091-b517-27858cb806bb"}

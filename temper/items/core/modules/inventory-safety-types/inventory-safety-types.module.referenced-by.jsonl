@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inventory-safety-types.module.code.ts","path":"temper/watcher/modules/watcher-settings-normalize/watcher-settings-normalize.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-safety-types.module.code.ts","path":"temper/watcher/modules/watcher-settings-normalize/watcher-settings-normalize.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-safety-types.module.code.ts","path":"temper/web/modules/notifications-tab/notifications-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"inventory-safety-types.module.code.ts","path":"temper/web/modules/player-settings/player-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-safety-types.module.code.ts","path":"temper/watcher/modules/watcher-settings-normalize/watcher-settings-normalize.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-safety-types.module.code.ts","path":"temper/watcher/modules/watcher-settings-normalize/watcher-settings-normalize.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-safety-types.module.code.ts","path":"temper/web/modules/notifications-tab/notifications-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-safety-types.module.code.ts","path":"temper/web/modules/player-settings/player-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}

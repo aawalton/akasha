@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"rescued-expires-at-ms.number-property.types.ts","path":"agent/model/account/properties/rescued-credential.record-property.types.ts"}
+{"propertySlug":"import","fileName":"rescued-expires-at-ms.number-property.types.ts","path":"agent/model/account/properties/rescued-credential.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/model/account/properties/rescued-credential.record-property.ts","id":"01a0637b-78bb-77e3-8457-23dd0863e27e"}
 {"propertySlug":"parts","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}

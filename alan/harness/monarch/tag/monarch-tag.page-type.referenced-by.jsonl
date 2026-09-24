@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"monarch-tag.page-type.types.ts","path":"alan/harness/monarch/tag/pages/ai.monarch-tag.ts"}
-{"propertySlug":"import","fileName":"monarch-tag.page-type.types.ts","path":"alan/harness/monarch/tag/pages/receipt-import.monarch-tag.ts"}
+{"propertySlug":"import","fileName":"monarch-tag.page-type.types.ts","path":"alan/harness/monarch/tag/pages/ai.monarch-tag.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-tag.page-type.types.ts","path":"alan/harness/monarch/tag/pages/receipt-import.monarch-tag.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}
 {"propertySlug":"target-page-type","path":"alan/harness/monarch/month/properties/transaction-tags.relation-property.ts","id":"01a0680b-2b00-700c-8d95-4f6a1b3c210d"}

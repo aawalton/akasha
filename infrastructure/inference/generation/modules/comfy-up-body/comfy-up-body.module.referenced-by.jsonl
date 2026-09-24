@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"comfy-up-body.module.code.ts","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.test.ts"}
-{"propertySlug":"import","fileName":"comfy-up-body.module.code.ts","path":"infrastructure/inference/generation/upscale/up/upscale-up.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"comfy-up-body.module.code.ts","path":"infrastructure/inference/generation/wan/up/wan-up.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"comfy-up-body.module.code.ts","path":"infrastructure/inference/generation/zimage/up/zimage-up.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"comfy-up-body.module.test-fixtures.ts","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.test.ts"}
+{"propertySlug":"import","fileName":"comfy-up-body.module.code.ts","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"comfy-up-body.module.code.ts","path":"infrastructure/inference/generation/upscale/up/upscale-up.shell-script.scripting.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"comfy-up-body.module.code.ts","path":"infrastructure/inference/generation/wan/up/wan-up.shell-script.scripting.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"comfy-up-body.module.code.ts","path":"infrastructure/inference/generation/zimage/up/zimage-up.shell-script.scripting.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"comfy-up-body.module.test-fixtures.ts","path":"infrastructure/inference/generation/modules/comfy-up-body/comfy-up-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}

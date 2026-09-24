@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"email-draft-create.command.code.ts","path":"command/pages/email/draft/create/email-draft-create.command.test.ts"}
-{"propertySlug":"import","fileName":"email-draft-create.command.ts","path":"command/pages/email/draft/create/email-draft-create.command.code.ts"}
-{"propertySlug":"import","fileName":"email-draft-create.command.ts","path":"command/pages/email/draft/create/email-draft-create.command.test.ts"}
+{"propertySlug":"import","fileName":"email-draft-create.command.code.ts","path":"command/pages/email/draft/create/email-draft-create.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-draft-create.command.ts","path":"command/pages/email/draft/create/email-draft-create.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-draft-create.command.ts","path":"command/pages/email/draft/create/email-draft-create.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/email/draft/email-draft.namespace.ts","id":"01a07bbf-258e-7659-aa34-83d6be87a5d9"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"tally-catalog.file-property.types.ts","path":"story/engine/doctrine/doctrine.page-type.types.ts"}
+{"propertySlug":"import","fileName":"tally-catalog.file-property.types.ts","path":"story/engine/doctrine/doctrine.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/engine/doctrine/doctrine.page-type.ts","id":"01a0826f-8d12-7268-918c-0b3a3574d5f6"}
 {"propertySlug":"parts","path":"story/engine/doctrine/doctrine.page-type.ts","id":"01a0826f-8d12-7268-918c-0b3a3574d5f6"}

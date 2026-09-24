@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"appearance-count.number-property.types.ts","path":"story/world/characters/world-character.page-type.types.ts"}
-{"propertySlug":"import","fileName":"appearance-count.number-property.types.ts","path":"story/world/mechanics/world-mechanic.page-type.types.ts"}
+{"propertySlug":"import","fileName":"appearance-count.number-property.types.ts","path":"story/world/characters/world-character.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"appearance-count.number-property.types.ts","path":"story/world/mechanics/world-mechanic.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"page-property","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}

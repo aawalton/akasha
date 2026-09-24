@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-1.closeness-level.ts"}
-{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-2.closeness-level.ts"}
-{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-3.closeness-level.ts"}
-{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-4.closeness-level.ts"}
-{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-5.closeness-level.ts"}
-{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-6.closeness-level.ts"}
+{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-1.closeness-level.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-2.closeness-level.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-3.closeness-level.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-4.closeness-level.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-5.closeness-level.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"closeness-level.page-type.types.ts","path":"persona/closeness-level/pages/level-6.closeness-level.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"target-page-type","path":"persona/closeness-level/properties/relationship-level.relation-property.ts","id":"01a0655b-4a9b-7002-96a4-5f01bb918e88"}

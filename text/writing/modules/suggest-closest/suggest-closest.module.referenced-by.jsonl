@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"change/modules/answer/change-answer.module.code.ts"}
-{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"command/modules/calling/calling.module.code.ts"}
-{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts"}
-{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"command/modules/flags/command-flags.module.code.ts"}
-{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"command/modules/parse-args/parse-args.module.code.ts"}
-{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"temper/addon/build/deploy-check/modules/cli-args/cli-args.module.code.ts"}
+{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"change/modules/answer/change-answer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"command/modules/calling/calling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"command/modules/flags/command-flags.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"command/modules/parse-args/parse-args.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"suggest-closest.module.code.ts","path":"temper/addon/build/deploy-check/modules/cli-args/cli-args.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"text/writing/text-writing.domain.ts","id":"01a08ccc-bd21-7a44-8927-686696e7f011"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"assignment-game.relation-property.types.ts","path":"agent/properties/assignment-slug.one-of-property.types.ts"}
+{"propertySlug":"import","fileName":"assignment-game.relation-property.types.ts","path":"agent/properties/assignment-slug.one-of-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"members","path":"agent/properties/assignment-slug.one-of-property.ts","id":"01a053a2-d0e7-7948-a966-74efed3c62f0"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

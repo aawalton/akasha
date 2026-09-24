@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/all-about-alan-overview/all-about-alan-overview.book-record.ts"}
-{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/learn-everything-capture-log/learn-everything-capture-log.book-record.ts"}
-{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/learn-everything-rotation/learn-everything-rotation.book-record.ts"}
-{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/my-faith-overview/my-faith-overview.book-record.ts"}
-{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/my-strategy-overview/my-strategy-overview.book-record.ts"}
+{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/all-about-alan-overview/all-about-alan-overview.book-record.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/learn-everything-capture-log/learn-everything-capture-log.book-record.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/learn-everything-rotation/learn-everything-rotation.book-record.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/my-faith-overview/my-faith-overview.book-record.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"book-record.page-type.types.ts","path":"alan/authoring/book-record/pages/my-strategy-overview/my-strategy-overview.book-record.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/authoring/authoring.domain.ts","id":"01a0657d-b91d-7000-a1e5-8f2537828ffb"}

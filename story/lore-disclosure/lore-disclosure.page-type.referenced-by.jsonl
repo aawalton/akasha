@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"lore-disclosure.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/game-master.lore-disclosure.ts"}
-{"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/player.lore-disclosure.ts"}
-{"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/wiki.lore-disclosure.ts"}
-{"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/world-builder.lore-disclosure.ts"}
+{"propertySlug":"import","fileName":"lore-disclosure.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/game-master.lore-disclosure.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/player.lore-disclosure.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/wiki.lore-disclosure.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/world-builder.lore-disclosure.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"target-page-type","path":"story/lore/properties/lore-disclosure.relation-property.ts","id":"01a0d41b-b3bc-7566-be2d-9b08e437424e"}

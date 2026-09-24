@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-jewelry/bulk-update-jewelry.module.code.ts"}
-{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"}
-{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.code.ts"}
-{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-source/jewelry-source.module.code.ts"}
-{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-jewelry/bulk-update-jewelry.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-source/jewelry-source.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"jewelry-enchants.module.code.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}

@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.ts","id":"01a0685d-ceae-7009-892c-425eee9c835b"}
 {"propertySlug":"argument","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.ts","id":"01a0685d-ceae-700a-91a5-034c3b41a91c"}
-{"propertySlug":"import","fileName":"route.argument.ts","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.code.ts"}
-{"propertySlug":"import","fileName":"route.argument.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
+{"propertySlug":"import","fileName":"route.argument.ts","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"route.argument.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts","typed":false,"deferred":false}

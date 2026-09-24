@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"scoring-mode.select-property.ts","path":"alan/value/health/fitness/strength/exercise/properties/scoring-mode.select-property.types.ts"}
-{"propertySlug":"import","fileName":"scoring-mode.select-property.types.ts","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts"}
+{"propertySlug":"import","fileName":"scoring-mode.select-property.ts","path":"alan/value/health/fitness/strength/exercise/properties/scoring-mode.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"scoring-mode.select-property.types.ts","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts","id":"01a0657e-2bbf-7c1f-a05c-77af77f54cbf"}
 {"propertySlug":"parts","path":"alan/value/health/fitness/strength/exercise/strength-exercise.page-type.ts","id":"01a0657e-2bbf-7c1f-a05c-77af77f54cbf"}

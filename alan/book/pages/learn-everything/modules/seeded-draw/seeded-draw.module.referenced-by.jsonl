@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seeded-draw.module.code.ts","path":"alan/book/pages/learn-everything/modules/seeded-draw/seeded-draw.module.test.ts"}
-{"propertySlug":"import","fileName":"seeded-draw.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.code.ts"}
-{"propertySlug":"import","fileName":"seeded-draw.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.test.ts"}
+{"propertySlug":"import","fileName":"seeded-draw.module.code.ts","path":"alan/book/pages/learn-everything/modules/seeded-draw/seeded-draw.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seeded-draw.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seeded-draw.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/book/pages/learn-everything/learn-everything.alan-book.ts","id":"01a0659d-311d-7001-b736-ae7c499c3bf3"}

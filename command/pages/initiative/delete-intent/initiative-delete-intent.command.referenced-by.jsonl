@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"initiative-delete-intent.command.code.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.test.ts"}
-{"propertySlug":"import","fileName":"initiative-delete-intent.command.ts","path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.code.ts"}
-{"propertySlug":"import","fileName":"initiative-delete-intent.command.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts"}
-{"propertySlug":"import","fileName":"initiative-delete-intent.command.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.test.ts"}
+{"propertySlug":"import","fileName":"initiative-delete-intent.command.code.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"initiative-delete-intent.command.ts","path":"code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"initiative-delete-intent.command.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"initiative-delete-intent.command.ts","path":"command/pages/initiative/delete-intent/initiative-delete-intent.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/initiative/initiative.namespace.ts","id":"01a082e8-a8ea-7b0b-a8b3-f6c4e7ac5d19"}

@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-ttc/price-sources-ttc.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-tooltips/craft-tooltips.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/price-sources-ttc/price-sources-ttc.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-entry/trading-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ttc.type-declaration.d.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

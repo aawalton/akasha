@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"base-roles.select-property.ts","path":"temper/player/character/companion-build/properties/base-roles.select-property.types.ts"}
-{"propertySlug":"import","fileName":"base-roles.select-property.types.ts","path":"temper/player/character/companion-build/companion-build.page-type.types.ts"}
-{"propertySlug":"import","fileName":"base-roles.select-property.types.ts","path":"temper/player/character/temper-build-version/temper-build-version.page-type.types.ts"}
+{"propertySlug":"import","fileName":"base-roles.select-property.ts","path":"temper/player/character/companion-build/properties/base-roles.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"base-roles.select-property.types.ts","path":"temper/player/character/companion-build/companion-build.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"base-roles.select-property.types.ts","path":"temper/player/character/temper-build-version/temper-build-version.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/companion-build/companion-build.page-type.ts","id":"01a06835-fae8-7a27-90c7-c499c3e046cc"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-build-version/temper-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"parts","path":"temper/player/character/companion-build/companion-build.page-type.ts","id":"01a06835-fae8-7a27-90c7-c499c3e046cc"}

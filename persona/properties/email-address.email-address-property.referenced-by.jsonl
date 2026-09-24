@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"email-address.email-address-property.types.ts","path":"person/email/gmail-mailbox/gmail-mailbox.page-type.types.ts"}
-{"propertySlug":"import","fileName":"email-address.email-address-property.types.ts","path":"person/person.page-type.types.ts"}
-{"propertySlug":"import","fileName":"email-address.email-address-property.types.ts","path":"persona/persona.page-type.types.ts"}
+{"propertySlug":"import","fileName":"email-address.email-address-property.types.ts","path":"person/email/gmail-mailbox/gmail-mailbox.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-address.email-address-property.types.ts","path":"person/person.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-address.email-address-property.types.ts","path":"persona/persona.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"person/email/gmail-mailbox/gmail-mailbox.page-type.ts","id":"01a06828-59d3-7295-868d-d695a5d5efd8"}
 {"propertySlug":"page-property","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"page-property","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}

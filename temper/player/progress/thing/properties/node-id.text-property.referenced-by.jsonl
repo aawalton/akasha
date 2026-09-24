@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"node-id.text-property.types.ts","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.types.ts"}
-{"propertySlug":"import","fileName":"node-id.text-property.types.ts","path":"temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.types.ts"}
-{"propertySlug":"import","fileName":"node-id.text-property.types.ts","path":"temper/player/progress/thing/temper-progress-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"node-id.text-property.types.ts","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"node-id.text-property.types.ts","path":"temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"node-id.text-property.types.ts","path":"temper/player/progress/thing/temper-progress-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts","id":"01a05fcb-d656-7ea2-a494-28d13d70536e"}
 {"propertySlug":"page-property","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}

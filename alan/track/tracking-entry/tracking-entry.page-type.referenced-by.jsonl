@@ -1,7 +1,7 @@
 {"propertySlug":"extends-type","path":"alan/track/tracking-entry-date/tracking-entry-date.page-type.ts","id":"01a06827-ec0c-7939-809f-82468d73e2e6"}
 {"propertySlug":"extends-type","path":"alan/track/tracking-entry-instant/tracking-entry-instant.page-type.ts","id":"01a06827-ec0c-7d93-8f41-c7d2446c6d54"}
 {"propertySlug":"extends-type","path":"alan/track/tracking-entry-session/tracking-entry-session.page-type.ts","id":"01a06827-ec0c-7524-b2fe-dacf7e89d157"}
-{"propertySlug":"import","fileName":"tracking-entry.page-type.types.ts","path":"alan/track/tracking-entry-date/tracking-entry-date.page-type.types.ts"}
-{"propertySlug":"import","fileName":"tracking-entry.page-type.types.ts","path":"alan/track/tracking-entry-instant/tracking-entry-instant.page-type.types.ts"}
-{"propertySlug":"import","fileName":"tracking-entry.page-type.types.ts","path":"alan/track/tracking-entry-session/tracking-entry-session.page-type.types.ts"}
+{"propertySlug":"import","fileName":"tracking-entry.page-type.types.ts","path":"alan/track/tracking-entry-date/tracking-entry-date.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"tracking-entry.page-type.types.ts","path":"alan/track/tracking-entry-instant/tracking-entry-instant.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"tracking-entry.page-type.types.ts","path":"alan/track/tracking-entry-session/tracking-entry-session.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/track/track.domain.ts","id":"01a062dc-1b7f-7bbe-a348-b71f1bbf4c9c"}

@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.ts","id":"01a08c64-750b-7bb5-b491-551e9cca63dd"}
-{"propertySlug":"import","fileName":"from-initiative.argument.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts"}
-{"propertySlug":"import","fileName":"from-initiative.argument.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.test.ts"}
+{"propertySlug":"import","fileName":"from-initiative.argument.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"from-initiative.argument.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.test.ts","typed":false,"deferred":false}

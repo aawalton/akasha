@@ -1,6 +1,6 @@
 {"propertySlug":"argument","path":"command/pages/music/rate-parts/music-rate-parts.command.ts","id":"01a0c59f-227b-7315-8c34-306abf9c8760"}
 {"propertySlug":"argument","path":"command/pages/music/rate/music-rate.command.ts","id":"01a062fb-d2fb-72a1-8169-279a6baf3d97"}
-{"propertySlug":"import","fileName":"slug.argument.ts","path":"command/pages/music/rate-parts/music-rate-parts.command.code.ts"}
-{"propertySlug":"import","fileName":"slug.argument.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
+{"propertySlug":"import","fileName":"slug.argument.ts","path":"command/pages/music/rate-parts/music-rate-parts.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"slug.argument.ts","path":"command/pages/music/rate/music-rate.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"not-with","path":"command/pages/music/rate/music-rate.command.ts","id":"01a062fb-d2fb-72a1-8169-279a6baf3d97"}
 {"propertySlug":"one-of","path":"command/pages/music/rate/music-rate.command.ts","id":"01a062fb-d2fb-72a1-8169-279a6baf3d97"}

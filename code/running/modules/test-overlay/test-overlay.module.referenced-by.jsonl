@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"agent/hook/modules/links/hook-links.module.code.ts"}
-{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"agent/hook/modules/links/hook-links.module.test.ts"}
-{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts"}
-{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"code/running/modules/code-format/code-format.module.code.ts"}
-{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
-{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.test.ts"}
-{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"}
+{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"agent/hook/modules/links/hook-links.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"agent/hook/modules/links/hook-links.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"code/running/modules/code-format/code-format.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"code/running/modules/test-overlay/test-overlay.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"test-overlay.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/running/code-running.domain.ts","id":"01a09b28-b8af-7f7c-804c-05aff06380bf"}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/modules/beside/seat-beside.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/modules/record/seat-record.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/modules/beside/seat-beside.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/modules/record/seat-record.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

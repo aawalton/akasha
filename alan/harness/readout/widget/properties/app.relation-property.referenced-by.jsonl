@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"app.relation-property.types.ts","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.types.ts"}
-{"propertySlug":"import","fileName":"app.relation-property.types.ts","path":"alan/harness/readout/widget/readout-widget.page-type.types.ts"}
+{"propertySlug":"import","fileName":"app.relation-property.types.ts","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"app.relation-property.types.ts","path":"alan/harness/readout/widget/readout-widget.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.ts","id":"019f5141-c410-7cd1-b491-d017f10e568d"}
 {"propertySlug":"page-property","path":"alan/harness/readout/widget/readout-widget.page-type.ts","id":"01a05480-1c86-7e95-b799-63b1c0152f62"}
 {"propertySlug":"parts","path":"alan/harness/readout/widget/readout-widget.page-type.ts","id":"01a05480-1c86-7e95-b799-63b1c0152f62"}

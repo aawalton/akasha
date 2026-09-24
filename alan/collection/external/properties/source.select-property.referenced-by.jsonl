@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"source.select-property.ts","path":"alan/collection/external/properties/source.select-property.types.ts"}
-{"propertySlug":"import","fileName":"source.select-property.types.ts","path":"alan/collection/external/properties/external-identity.record-property.types.ts"}
+{"propertySlug":"import","fileName":"source.select-property.ts","path":"alan/collection/external/properties/source.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"source.select-property.types.ts","path":"alan/collection/external/properties/external-identity.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/collection/external/properties/external-identity.record-property.ts","id":"01a09ba1-cc57-7d8f-8460-fd32ebb90bef"}
 {"propertySlug":"parts","path":"alan/collection/external/collection-external.page-type.ts","id":"01a063de-2c60-701b-ab74-7e3436f4abe3"}

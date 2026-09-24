@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"nodes.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts"}
-{"propertySlug":"import","fileName":"nodes.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts"}
-{"propertySlug":"import","fileName":"nodes.module.code.ts","path":"command/pages/talos/image-build/talos-image-build.command.code.ts"}
-{"propertySlug":"import","fileName":"nodes.module.code.ts","path":"command/pages/talos/remote-install/talos-remote-install.command.code.ts"}
+{"propertySlug":"import","fileName":"nodes.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"nodes.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"nodes.module.code.ts","path":"command/pages/talos/image-build/talos-image-build.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"nodes.module.code.ts","path":"command/pages/talos/remote-install/talos-remote-install.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts","id":"01a06813-7b0e-79e0-ae0d-60b8f8c4a138"}

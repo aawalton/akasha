@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"measure-model-account-usage.command.code.ts","path":"command/pages/measure/model-account/usage/measure-model-account-usage.command.test.ts"}
-{"propertySlug":"import","fileName":"measure-model-account-usage.command.ts","path":"code/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts"}
-{"propertySlug":"import","fileName":"measure-model-account-usage.command.ts","path":"code/shell/terminal/modules/terminal-calls/terminal-calls.module.test.ts"}
-{"propertySlug":"import","fileName":"measure-model-account-usage.command.ts","path":"command/pages/measure/model-account/usage/measure-model-account-usage.command.code.ts"}
+{"propertySlug":"import","fileName":"measure-model-account-usage.command.code.ts","path":"command/pages/measure/model-account/usage/measure-model-account-usage.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"measure-model-account-usage.command.ts","path":"code/shell/terminal/modules/terminal-calls/terminal-calls.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"measure-model-account-usage.command.ts","path":"code/shell/terminal/modules/terminal-calls/terminal-calls.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"measure-model-account-usage.command.ts","path":"command/pages/measure/model-account/usage/measure-model-account-usage.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/measure/model-account/measure-model-account.namespace.ts","id":"01a0796e-608f-717c-b6a8-4843088b5a0e"}

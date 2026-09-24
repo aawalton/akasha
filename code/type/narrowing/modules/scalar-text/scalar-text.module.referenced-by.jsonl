@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"scalar-text.module.code.ts","path":"code/type/narrowing/modules/scalar-text/scalar-text.module.test.ts"}
-{"propertySlug":"import","fileName":"scalar-text.module.code.ts","path":"page/access/modules/file-write-narrow/file-write-narrow.module.code.ts"}
-{"propertySlug":"import","fileName":"scalar-text.module.code.ts","path":"page/type/page-property/page-property.page-type.property-badge-component.code.tsx"}
-{"propertySlug":"import","fileName":"scalar-text.module.code.ts","path":"page/url-property/url-property.page-type.property-badge-component.code.tsx"}
+{"propertySlug":"import","fileName":"scalar-text.module.code.ts","path":"code/type/narrowing/modules/scalar-text/scalar-text.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scalar-text.module.code.ts","path":"page/access/modules/file-write-narrow/file-write-narrow.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scalar-text.module.code.ts","path":"page/type/page-property/page-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scalar-text.module.code.ts","path":"page/url-property/url-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

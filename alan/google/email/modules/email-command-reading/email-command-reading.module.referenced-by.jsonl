@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"email-command-reading.module.code.ts","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"email-command-reading.module.code.ts","path":"command/pages/email/draft/create/email-draft-create.command.code.ts"}
-{"propertySlug":"import","fileName":"email-command-reading.module.code.ts","path":"command/pages/email/message/send/email-message-send.command.code.ts"}
+{"propertySlug":"import","fileName":"email-command-reading.module.code.ts","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-command-reading.module.code.ts","path":"command/pages/email/draft/create/email-draft-create.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"email-command-reading.module.code.ts","path":"command/pages/email/message/send/email-message-send.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}

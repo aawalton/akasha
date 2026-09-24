@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"inventory-rule-matcher-cache.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rule-matcher-cache.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-rule-matcher-cache.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-matcher-cache.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/matcher/temper-items-rules-matcher.domain.ts","id":"01a06151-370e-7f21-be1d-3df9be256684"}

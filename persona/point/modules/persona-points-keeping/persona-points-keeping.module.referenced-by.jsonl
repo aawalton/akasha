@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"persona-points-keeping.module.code.ts","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.code.ts"}
-{"propertySlug":"import","fileName":"persona-points-keeping.module.code.ts","path":"command/pages/measure/persona/measure-persona.command.code.ts"}
-{"propertySlug":"import","fileName":"persona-points-keeping.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts"}
-{"propertySlug":"import","fileName":"persona-points-keeping.module.code.ts","path":"persona/point/modules/persona-points-keeping/persona-points-keeping.module.test.ts"}
+{"propertySlug":"import","fileName":"persona-points-keeping.module.code.ts","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona-points-keeping.module.code.ts","path":"command/pages/measure/persona/measure-persona.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona-points-keeping.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona-points-keeping.module.code.ts","path":"persona/point/modules/persona-points-keeping/persona-points-keeping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"persona/point/persona-point.domain.ts","id":"01a0675b-16f8-7862-b5f6-3061651ce2a8"}

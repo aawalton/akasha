@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"swift.code-file-property.types.ts","path":"code/ios-component/ios-component.page-type.types.ts"}
-{"propertySlug":"import","fileName":"swift.code-file-property.types.ts","path":"code/ios-harness/ios-harness.page-type.types.ts"}
+{"propertySlug":"import","fileName":"swift.code-file-property.types.ts","path":"code/ios-component/ios-component.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"swift.code-file-property.types.ts","path":"code/ios-harness/ios-harness.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"code/ios-component/ios-component.page-type.ts","id":"01a05472-ab84-78cc-8758-9f95622d1b04"}
 {"propertySlug":"page-property","path":"code/ios-harness/ios-harness.page-type.ts","id":"01a0584d-22a8-7eb5-83f8-e9912fd9297c"}
 {"propertySlug":"parts","path":"code/ios-component/ios-component.page-type.ts","id":"01a05472-ab84-78cc-8758-9f95622d1b04"}

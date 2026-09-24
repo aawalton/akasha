@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"}
-{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts"}
-{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts"}
-{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"}
+{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-eval-env.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/matcher/temper-items-rules-matcher.domain.ts","id":"01a06151-370e-7f21-be1d-3df9be256684"}

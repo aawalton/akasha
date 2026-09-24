@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"day-stretches.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"day-stretches.module.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"day-stretches.module.code.ts","path":"alan/harness/cost/modules/reading/cost-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"day-stretches.module.code.ts","path":"alan/harness/safety/modules/reading/safety-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"day-stretches.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-stretches.module.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-stretches.module.code.ts","path":"alan/harness/cost/modules/reading/cost-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-stretches.module.code.ts","path":"alan/harness/safety/modules/reading/safety-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/track/daily/track-daily.domain.ts","id":"01a062dc-1b7f-7c99-a886-e67035171fdf"}

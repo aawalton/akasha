@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"catalog-payload.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"catalog-payload.module.code.ts","path":"temper/catalog/core/modules/catalog-descriptor/catalog-descriptor.module.code.ts"}
-{"propertySlug":"import","fileName":"catalog-payload.module.code.ts","path":"temper/catalog/core/modules/domain-keys/domain-keys.module.code.ts"}
-{"propertySlug":"import","fileName":"catalog-payload.module.code.ts","path":"temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"}
+{"propertySlug":"import","fileName":"catalog-payload.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-payload.module.code.ts","path":"temper/catalog/core/modules/catalog-descriptor/catalog-descriptor.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-payload.module.code.ts","path":"temper/catalog/core/modules/domain-keys/domain-keys.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-payload.module.code.ts","path":"temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}

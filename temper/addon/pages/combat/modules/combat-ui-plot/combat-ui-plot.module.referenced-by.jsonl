@@ -1,5 +1,7 @@
-{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-menus/combat-ui-plot-menus.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-plot.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

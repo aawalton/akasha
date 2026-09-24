@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.code.ts"}
-{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.audit.test.ts"}
-{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.check.test.ts"}
-{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.test.ts"}
-{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
+{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.audit.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.check.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/file-length.check-code.decision.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"length-ceiling.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"check/code/pages/file-length/file-length.check-code.ts","id":"01a04bcb-c6e7-7e01-9b01-3cad38df56be"}

@@ -1,5 +1,5 @@
 {"propertySlug":"argument","path":"command/pages/seat/resume/seat-resume.command.ts","id":"01a0797a-9a89-7c74-a460-ae5a33be7b89"}
 {"propertySlug":"argument","path":"command/pages/seat/start/seat-start.command.ts","id":"01a0797a-9abe-7b18-818a-cf3e59985937"}
-{"propertySlug":"import","fileName":"start-mode.argument.ts","path":"command/pages/seat/resume/seat-resume.command.code.ts"}
-{"propertySlug":"import","fileName":"start-mode.argument.ts","path":"command/pages/seat/start/seat-start.command.code.ts"}
-{"propertySlug":"import","fileName":"start-mode.argument.ts","path":"command/pages/seat/start/seat-start.command.test.ts"}
+{"propertySlug":"import","fileName":"start-mode.argument.ts","path":"command/pages/seat/resume/seat-resume.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"start-mode.argument.ts","path":"command/pages/seat/start/seat-start.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"start-mode.argument.ts","path":"command/pages/seat/start/seat-start.command.test.ts","typed":false,"deferred":false}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"design/interface/system/modules/property-row-panels/property-row-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"page/type/page-property/page-property.page-type.property-row-component.code.tsx"}
-{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.code.tsx"}
-{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"page/ui/component/modules/property-row-drawings/property-row-drawings.module.code.ts"}
+{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"design/interface/system/modules/property-row-panels/property-row-panels.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"page/type/page-property/page-property.page-type.property-row-component.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-row.module.code.tsx","path":"page/ui/component/modules/property-row-drawings/property-row-drawings.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

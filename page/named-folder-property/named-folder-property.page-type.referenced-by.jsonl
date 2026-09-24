@@ -1,8 +1,8 @@
 {"propertySlug":"extends-type","path":"page/build-folder-property/build-folder-property.page-type.ts","id":"01a081cd-5b5f-731e-95ed-0ea5ee3b352b"}
-{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"page/build-folder-property/build-folder-property.page-type.types.ts"}
-{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-art-folder.named-folder-property.ts"}
-{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-bin-folder.named-folder-property.ts"}
-{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-dds-folder.named-folder-property.ts"}
-{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-icons-folder.named-folder-property.ts"}
-{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-image-folder.named-folder-property.ts"}
+{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"page/build-folder-property/build-folder-property.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-art-folder.named-folder-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-bin-folder.named-folder-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-dds-folder.named-folder-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-icons-folder.named-folder-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"named-folder-property.page-type.types.ts","path":"temper/addon/properties/addon-image-folder.named-folder-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

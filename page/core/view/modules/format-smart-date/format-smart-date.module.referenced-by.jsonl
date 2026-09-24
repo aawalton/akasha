@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/calendar-date-property/calendar-date-property.page-type.property-badge-component.code.tsx"}
-{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.code.ts"}
-{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"}
-{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/core/view/modules/group-granularity/group-granularity.module.code.ts"}
-{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/ui/component/modules/page-detail-properties-shared/page-detail-properties-shared.module.code.tsx"}
-{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/ui/component/modules/page-table-widths/page-table-widths.module.code.ts"}
-{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/ui/markdown/modules/mention-chip/mention-chip.module.code.tsx"}
+{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/calendar-date-property/calendar-date-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/core/view/modules/group-granularity/group-granularity.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/ui/component/modules/page-detail-properties-shared/page-detail-properties-shared.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/ui/component/modules/page-table-widths/page-table-widths.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"format-smart-date.module.code.ts","path":"page/ui/markdown/modules/mention-chip/mention-chip.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/view/page-core-view.domain.ts","id":"01a071cb-580b-710d-a9ae-c371fe8df6c3"}

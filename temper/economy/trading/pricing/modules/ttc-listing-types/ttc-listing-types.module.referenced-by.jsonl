@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts"}
-{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"}
-{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/economy/trading/pricing/modules/ttc-listing-schema/ttc-listing-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/web/modules/ttc-listing-client/ttc-listing-client.module.code.ts"}
-{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-plan-schema/shopping-plan-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/web/routes/api-shopping-optimize/api-shopping-optimize.route.code.ts"}
+{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/economy/trading/pricing/modules/ttc-listing-schema/ttc-listing-schema.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/web/modules/ttc-listing-client/ttc-listing-client.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-plan-schema/shopping-plan-schema.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ttc-listing-types.module.code.ts","path":"temper/web/routes/api-shopping-optimize/api-shopping-optimize.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/economy/trading/pricing/temper-trading-pricing.domain.ts","id":"01a0609b-e59c-7c6b-906c-4ab055fc9039"}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/launching/seat-launching.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/launching/seat-launching.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/launching/seat-launching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/launching/seat-launching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/launching/seat-launching.module.ts","id":"01a05d8f-50d9-7000-8a2a-2bc819c63d01"}

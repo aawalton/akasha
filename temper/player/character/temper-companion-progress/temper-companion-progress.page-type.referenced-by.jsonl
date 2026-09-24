@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/azandar.temper-companion-progress.ts"}
-{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/bastian.temper-companion-progress.ts"}
-{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/ember.temper-companion-progress.ts"}
-{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/isobel.temper-companion-progress.ts"}
-{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/mirri.temper-companion-progress.ts"}
-{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/sharp-as-night.temper-companion-progress.ts"}
-{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/tanlorin.temper-companion-progress.ts"}
-{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/zerith-var.temper-companion-progress.ts"}
+{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/azandar.temper-companion-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/bastian.temper-companion-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/ember.temper-companion-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/isobel.temper-companion-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/mirri.temper-companion-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/sharp-as-night.temper-companion-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/tanlorin.temper-companion-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-progress.page-type.types.ts","path":"temper/player/character/temper-companion-progress/pages/zerith-var.temper-companion-progress.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}

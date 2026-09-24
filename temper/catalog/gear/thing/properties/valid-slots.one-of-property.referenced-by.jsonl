@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"valid-slots.one-of-property.types.ts","path":"temper/catalog/gear/temper-armor-type/temper-armor-type.page-type.types.ts"}
-{"propertySlug":"import","fileName":"valid-slots.one-of-property.types.ts","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.types.ts"}
-{"propertySlug":"import","fileName":"valid-slots.one-of-property.types.ts","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts"}
-{"propertySlug":"import","fileName":"valid-slots.one-of-property.types.ts","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"valid-slots.one-of-property.types.ts","path":"temper/catalog/gear/temper-armor-type/temper-armor-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"valid-slots.one-of-property.types.ts","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"valid-slots.one-of-property.types.ts","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"valid-slots.one-of-property.types.ts","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-type/temper-armor-type.page-type.ts","id":"01a05fd1-d430-77ed-ace6-98856e2a09d7"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts","id":"01a05fd1-d433-7778-b5e5-05081a435bde"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}

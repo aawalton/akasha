@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"contribution-point-spending.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
-{"propertySlug":"import","fileName":"contribution-point-spending.module.code.ts","path":"product/kofi/contribution-point/modules/spending/contribution-point-spending.module.test.ts"}
-{"propertySlug":"import","fileName":"contribution-point-spending.module.code.ts","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"contribution-point-spending.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"contribution-point-spending.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contribution-point-spending.module.code.ts","path":"product/kofi/contribution-point/modules/spending/contribution-point-spending.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contribution-point-spending.module.code.ts","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contribution-point-spending.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"product/kofi/contribution-point/contribution-point.domain.ts","id":"01a0b78c-6b30-788a-85a1-935f3a46a786"}

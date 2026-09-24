@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/combat-saved-fights-declarations/combat-saved-fights-declarations.type-declaration.d.ts"}
-{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-log-conversion/combat-log-conversion.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-log-line-codec/combat-log-line-codec.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-saved-fights/combat-saved-fights.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-fight-list/combat-ui-fight-list.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-nav/combat-ui-nav.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/combat-saved-fights-declarations/combat-saved-fights-declarations.type-declaration.d.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-log-conversion/combat-log-conversion.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-log-line-codec/combat-log-line-codec.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-saved-fights/combat-saved-fights.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-fight-list/combat-ui-fight-list.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-fight-data-types.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-nav/combat-ui-nav.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

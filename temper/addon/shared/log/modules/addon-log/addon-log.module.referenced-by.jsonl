@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/map-data/modules/map-data-logger/map-data-logger.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/map-data/modules/map-data-types/map-data-types.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-debug/map-pins-debug.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-types/map-pins-types.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-logger/destinations-logger.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-logger/lorebooks-logger.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/map-data/modules/map-data-logger/map-data-logger.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/map-data/modules/map-data-types/map-data-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-debug/map-pins-debug.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/map-pins/modules/map-pins-types/map-pins-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-logger/destinations-logger.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-log.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-logger/lorebooks-logger.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/shared/log/temper-addon-log.domain.ts","id":"01a08e26-d48c-7a39-8610-6270e3e33c8f"}

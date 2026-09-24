@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/claude-code/session/modules/transcript-materialize/transcript-materialize.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-session-project-dir.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}

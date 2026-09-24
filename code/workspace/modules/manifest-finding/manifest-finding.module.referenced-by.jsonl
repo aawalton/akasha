@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"manifest-finding.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"manifest-finding.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.check.code.ts"}
-{"propertySlug":"import","fileName":"manifest-finding.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"manifest-finding.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"manifest-finding.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.audit.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"manifest-finding.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.check.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"manifest-finding.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.decision.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"manifest-finding.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/workspace/workspace.page-type.ts","id":"01a06cbb-60a1-7163-bbdd-7ba51e6b3ed6"}

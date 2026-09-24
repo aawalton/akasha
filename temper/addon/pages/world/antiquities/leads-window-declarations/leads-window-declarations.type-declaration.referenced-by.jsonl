@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-alerts/leads-alerts.module.code.ts"}
-{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts"}
-{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-reporting/leads-reporting.module.code.ts"}
-{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts"}
-{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts"}
-{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
-{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts"}
-{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-state/leads-unit-state.module.code.ts"}
+{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-alerts/leads-alerts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-init/leads-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-reporting/leads-reporting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-toggle/leads-toggle.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-tooltips/leads-tooltips.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-shapes/leads-unit-shapes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"leads-window-declarations.type-declaration.d.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-state/leads-unit-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/world/antiquities/temper-addon-world-antiquities.domain.ts","id":"01a0c6f4-6af6-74a8-8e13-9f3e2328ee42"}

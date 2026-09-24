@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"entry-rows.module.code.ts","path":"alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.code.ts"}
-{"propertySlug":"import","fileName":"entry-rows.module.code.ts","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.code.ts"}
-{"propertySlug":"import","fileName":"entry-rows.module.code.ts","path":"page/property-entry/modules/entry-rows/entry-rows.module.test.ts"}
+{"propertySlug":"import","fileName":"entry-rows.module.code.ts","path":"alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"entry-rows.module.code.ts","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"entry-rows.module.code.ts","path":"page/property-entry/modules/entry-rows/entry-rows.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/property-entry/page-property-entry.page-type.ts","id":"01a05f80-3969-7000-8ccd-6284909fc036"}

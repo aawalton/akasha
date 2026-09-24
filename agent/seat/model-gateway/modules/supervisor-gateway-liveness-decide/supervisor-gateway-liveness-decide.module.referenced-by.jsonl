@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"supervisor-gateway-liveness-decide.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-gateway-liveness-decide.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness/supervisor-gateway-liveness.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-gateway-liveness-decide.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-gateway-liveness-decide.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness/supervisor-gateway-liveness.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/model-gateway/seat-model-gateway.domain.ts","id":"01a08866-3c3f-734b-a28f-34e79b39e012"}

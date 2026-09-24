@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"completion-motif-knowledge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-motif-knowledge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-motif-knowledge.module.code.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-motif-knowledge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-command/characters-command.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-motif-knowledge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-entry/characters-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-motif-knowledge.module.code.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"add-type-member.change-mechanical-file-content.code.ts","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.test.ts"}
-{"propertySlug":"import","fileName":"add-type-member.change-mechanical-file-content.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"}
-{"propertySlug":"import","fileName":"add-type-member.change-mechanical-file-content.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
-{"propertySlug":"import","fileName":"add-type-member.change-mechanical-file-content.test-fixtures.ts","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.test.ts"}
+{"propertySlug":"import","fileName":"add-type-member.change-mechanical-file-content.code.ts","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"add-type-member.change-mechanical-file-content.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"add-type-member.change-mechanical-file-content.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"add-type-member.change-mechanical-file-content.test-fixtures.ts","path":"change/mechanical/file-content/add/add-type-member/add-type-member.change-mechanical-file-content.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/mechanical/file-content/add/change-mechanical-file-content-add.domain.ts","id":"01a07cbf-ddf1-7510-8754-5aa087d7d8a0"}

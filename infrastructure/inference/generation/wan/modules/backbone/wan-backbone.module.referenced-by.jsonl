@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"wan-backbone.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
-{"propertySlug":"import","fileName":"wan-backbone.module.code.ts","path":"infrastructure/inference/generation/wan/modules/extend-graph/wan-extend-graph.module.code.ts"}
-{"propertySlug":"import","fileName":"wan-backbone.module.code.ts","path":"infrastructure/inference/generation/wan/modules/i2v-graph/wan-i2v-graph.module.code.ts"}
+{"propertySlug":"import","fileName":"wan-backbone.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"wan-backbone.module.code.ts","path":"infrastructure/inference/generation/wan/modules/extend-graph/wan-extend-graph.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"wan-backbone.module.code.ts","path":"infrastructure/inference/generation/wan/modules/i2v-graph/wan-i2v-graph.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/wan/wan.domain.ts","id":"01a06815-9efd-7028-bfc6-b3c3933ac08c"}

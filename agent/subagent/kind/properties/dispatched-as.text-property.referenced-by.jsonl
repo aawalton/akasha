@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"dispatched-as.text-property.types.ts","path":"agent/subagent/kind/subagent-kind.page-type.types.ts"}
-{"propertySlug":"import","fileName":"dispatched-as.text-property.types.ts","path":"agent/subagent/subagent.page-type.types.ts"}
+{"propertySlug":"import","fileName":"dispatched-as.text-property.types.ts","path":"agent/subagent/kind/subagent-kind.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"dispatched-as.text-property.types.ts","path":"agent/subagent/subagent.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
 {"propertySlug":"page-property","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}

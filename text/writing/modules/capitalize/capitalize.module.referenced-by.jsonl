@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"}
-{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
-{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/web/modules/attributes-panel-card/attributes-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/web/modules/star-selection-dialog/star-selection-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/web/modules/attributes-panel-card/attributes-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"capitalize.module.code.ts","path":"temper/web/modules/star-selection-dialog/star-selection-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"text/writing/text-writing.domain.ts","id":"01a08ccc-bd21-7a44-8927-686696e7f011"}

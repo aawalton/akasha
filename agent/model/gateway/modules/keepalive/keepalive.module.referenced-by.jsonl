@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/committed-keepalive/committed-keepalive.module.code.ts"}
-{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/committed-keepalive/committed-keepalive.module.test.ts"}
-{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/keepalive/keepalive.module.test.ts"}
-{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.code.ts"}
-{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.test.ts"}
-{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/retry/retry.module.code.ts"}
-{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/retry/retry.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/committed-keepalive/committed-keepalive.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/committed-keepalive/committed-keepalive.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/keepalive/keepalive.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/parse-boot-env/parse-boot-env.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/retry/retry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keepalive.module.code.ts","path":"agent/model/gateway/modules/retry/retry.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}

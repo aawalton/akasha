@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/seat-tab-context/seat-tab-context.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/seat-tab-context/seat-tab-context.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-mode.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

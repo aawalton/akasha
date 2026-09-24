@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/context-menu/context-menu.module.code.tsx"}
-{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"}
-{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/hover-card/hover-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/menubar/menubar.module.code.tsx"}
-{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/popover/popover.module.code.tsx"}
-{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/select-control/select-control.module.code.tsx"}
+{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/context-menu/context-menu.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/hover-card/hover-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/menubar/menubar.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/popover/popover.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"popover-tokens.module.code.ts","path":"design/interface/primitive/modules/select-control/select-control.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

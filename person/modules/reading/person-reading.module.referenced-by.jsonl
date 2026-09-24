@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"person-reading.module.code.ts","path":"agent/message/recipient-resolving/modules/person-handlers/person-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"person-reading.module.code.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"}
-{"propertySlug":"import","fileName":"person-reading.module.code.ts","path":"alan/harness/email-watch/modules/inbox-run/inbox-run.module.code.ts"}
-{"propertySlug":"import","fileName":"person-reading.module.code.ts","path":"code/shell/terminal/modules/document-present/document-present.module.code.ts"}
+{"propertySlug":"import","fileName":"person-reading.module.code.ts","path":"agent/message/recipient-resolving/modules/person-handlers/person-handlers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"person-reading.module.code.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"person-reading.module.code.ts","path":"alan/harness/email-watch/modules/inbox-run/inbox-run.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"person-reading.module.code.ts","path":"code/shell/terminal/modules/document-present/document-present.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}

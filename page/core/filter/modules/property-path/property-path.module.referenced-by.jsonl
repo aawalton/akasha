@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/access/modules/file-narrow/file-narrow.module.code.ts"}
-{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/access/modules/file-read/file-read.module.code.ts"}
-{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/core/filter/modules/property-path/property-path.module.test.ts"}
-{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui-store/query/modules/condition-eval/condition-eval.module.code.ts"}
-{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui-store/query/modules/condition-expr/condition-expr.module.code.ts"}
-{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui-store/query/modules/view-match/view-match.module.code.ts"}
-{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"}
+{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/access/modules/file-narrow/file-narrow.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/access/modules/file-read/file-read.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/core/filter/modules/property-path/property-path.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui-store/query/modules/condition-eval/condition-eval.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui-store/query/modules/condition-expr/condition-expr.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui-store/query/modules/view-match/view-match.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-path.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/filter/page-core-filter.domain.ts","id":"01a071c6-08d9-7da0-83a9-8cc992a2b7ea"}

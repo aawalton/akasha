@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"craft-style-tracking.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-style-tracking.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-style-tracking.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-style-tracking.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-public-api/crafting-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-style-tracking.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-style-tracking.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-style-tracking.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-style-tracking.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-public-api/crafting-public-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"seat-resume.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-revive/recipient-resolver-revive.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-resume.module.code.ts","path":"command/pages/seat/resume/seat-resume.command.code.ts"}
+{"propertySlug":"import","fileName":"seat-resume.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-revive/recipient-resolver-revive.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-resume.module.code.ts","path":"command/pages/seat/resume/seat-resume.command.code.ts","typed":false,"deferred":true}
 {"propertySlug":"parts","path":"agent/seat/reviving/seat-reviving.domain.ts","id":"01a09c38-82db-7a28-8f18-09c4621a8dce"}

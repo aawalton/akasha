@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"writ-smith-schema.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-init/writ-init.module.code.ts"}
-{"propertySlug":"import","fileName":"writ-smith-schema.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-smith-parser-ops/writ-smith-parser-ops.module.code.ts"}
-{"propertySlug":"import","fileName":"writ-smith-schema.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-smithing/writ-smithing.module.code.ts"}
+{"propertySlug":"import","fileName":"writ-smith-schema.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-init/writ-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"writ-smith-schema.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-smith-parser-ops/writ-smith-parser-ops.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"writ-smith-schema.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-smithing/writ-smithing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
-{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
-{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
-{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"}
+{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

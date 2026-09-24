@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"gbww-edition-marker.select-property.ts","path":"alan/library/reading/gbww-reading/properties/gbww-edition-marker.select-property.types.ts"}
-{"propertySlug":"import","fileName":"gbww-edition-marker.select-property.types.ts","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.types.ts"}
+{"propertySlug":"import","fileName":"gbww-edition-marker.select-property.ts","path":"alan/library/reading/gbww-reading/properties/gbww-edition-marker.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gbww-edition-marker.select-property.types.ts","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}
 {"propertySlug":"parts","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}

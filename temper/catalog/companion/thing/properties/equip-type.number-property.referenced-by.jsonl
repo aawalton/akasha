@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.types.ts"}
-{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.types.ts"}
-{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts"}
-{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts","id":"01a05fcd-aece-70c8-8784-e3afaec07950"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.ts","id":"01a05fcd-aecf-75d4-9252-0fa9f6ad750b"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}

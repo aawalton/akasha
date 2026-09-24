@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/matcher/test-fixtures/compile-rules/compile-rules.test-fixture.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/matcher/test-fixtures/compile-rules/compile-rules.test-fixture.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

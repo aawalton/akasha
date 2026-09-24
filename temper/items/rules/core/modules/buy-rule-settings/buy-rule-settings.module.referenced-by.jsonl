@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"buy-rule-settings.module.code.ts","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.code.ts"}
-{"propertySlug":"import","fileName":"buy-rule-settings.module.code.ts","path":"command/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.code.ts"}
-{"propertySlug":"import","fileName":"buy-rule-settings.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"}
-{"propertySlug":"import","fileName":"buy-rule-settings.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"}
+{"propertySlug":"import","fileName":"buy-rule-settings.module.code.ts","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"buy-rule-settings.module.code.ts","path":"command/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"buy-rule-settings.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"buy-rule-settings.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

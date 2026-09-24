@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"pledge-rotation.module.code.ts","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"}
-{"propertySlug":"import","fileName":"pledge-rotation.module.code.ts","path":"temper/catalog/world/group-dungeon/modules/dungeon-data/dungeon-data.module.code.ts"}
+{"propertySlug":"import","fileName":"pledge-rotation.module.code.ts","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"pledge-rotation.module.code.ts","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"pledge-rotation.module.code.ts","path":"temper/catalog/world/group-dungeon/modules/dungeon-data/dungeon-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}

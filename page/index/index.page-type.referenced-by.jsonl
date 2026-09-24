@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/ast-hash/index-ast-hash.index.ts"}
-{"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/page-property/index-page-property.index.ts"}
-{"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/page-type/index-page-type.index.ts"}
-{"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/page/index-page.index.ts"}
+{"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/ast-hash/index-ast-hash.index.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/page-property/index-page-property.index.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/page-type/index-page-type.index.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index.page-type.types.ts","path":"page/index/page/index-page.index.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

@@ -1,2 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
-{"propertySlug":"import","fileName":"to-number.argument.ts","path":"command/pages/sms/send/sms-send.command.code.ts"}
+{"propertySlug":"import","fileName":"to-number.argument.ts","path":"command/pages/sms/send/sms-send.command.code.ts","typed":false,"deferred":false}

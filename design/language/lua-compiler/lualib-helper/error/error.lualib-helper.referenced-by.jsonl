@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/range-error/range-error.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/reference-error/reference-error.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/syntax-error/syntax-error.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/type-error/type-error.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/uri-error/uri-error.lualib-helper.code.ts"}
+{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/range-error/range-error.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/reference-error/reference-error.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/syntax-error/syntax-error.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/type-error/type-error.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/uri-error/uri-error.lualib-helper.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}

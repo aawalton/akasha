@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.test.ts"}
-{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.code.ts"}
-{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.test.ts"}
-{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts"}
+{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.computed-property-module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"alan/web/.server/picture-answering/picture-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-message-attached-images.computed-property-module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}

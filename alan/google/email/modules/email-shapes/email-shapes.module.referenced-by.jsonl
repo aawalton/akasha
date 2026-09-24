@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"}
-{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/email-message-fetching/email-message-fetching.module.code.ts"}
-{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/gmail-drafts/gmail-drafts.module.code.ts"}
-{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"}
-{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/gmail-schema/gmail-schema.module.code.ts"}
+{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/compose-input-from-arguments/compose-input-from-arguments.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/email-message-fetching/email-message-fetching.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/gmail-drafts/gmail-drafts.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-shapes.module.code.ts","path":"alan/google/email/modules/gmail-schema/gmail-schema.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}

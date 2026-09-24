@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"whole-number-in.module.code.ts","path":"code/type/narrowing/modules/whole-number-in/whole-number-in.module.test.ts"}
-{"propertySlug":"import","fileName":"whole-number-in.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
-{"propertySlug":"import","fileName":"whole-number-in.module.code.ts","path":"command/pages/temper/inventory/knowledge/temper-inventory-knowledge.command.code.ts"}
-{"propertySlug":"import","fileName":"whole-number-in.module.code.ts","path":"command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts"}
+{"propertySlug":"import","fileName":"whole-number-in.module.code.ts","path":"code/type/narrowing/modules/whole-number-in/whole-number-in.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"whole-number-in.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"whole-number-in.module.code.ts","path":"command/pages/temper/inventory/knowledge/temper-inventory-knowledge.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"whole-number-in.module.code.ts","path":"command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

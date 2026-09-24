@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts"}
-{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/player/character/formula-framework/modules/display-formula-convert/display-formula-convert.module.code.ts"}
-{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/player/character/formula-framework/modules/display-formula-latex/display-formula-latex.module.code.ts"}
-{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts"}
-{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/web/modules/formula-display/formula-display.module.code.tsx"}
+{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/player/character/formula-framework/modules/display-formula-convert/display-formula-convert.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/player/character/formula-framework/modules/display-formula-latex/display-formula-latex.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-formula-node.module.code.ts","path":"temper/web/modules/formula-display/formula-display.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}

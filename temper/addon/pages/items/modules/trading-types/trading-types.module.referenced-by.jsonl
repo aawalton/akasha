@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"trading-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-saved-variables/trading-saved-variables.module.code.ts"}
-{"propertySlug":"import","fileName":"trading-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-price-store/trading-sell-price-store.module.code.ts"}
+{"propertySlug":"import","fileName":"trading-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-saved-variables/trading-saved-variables.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"trading-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-price-store/trading-sell-price-store.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

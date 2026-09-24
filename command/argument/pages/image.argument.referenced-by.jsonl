@@ -3,10 +3,10 @@
 {"propertySlug":"argument","path":"command/pages/inference/segment/inference-segment.command.ts","id":"01a0685e-fd50-7faf-a163-46fe4ccb9461"}
 {"propertySlug":"argument","path":"command/pages/inference/upscale/inference-upscale.command.ts","id":"01a0685e-fd50-7de7-851b-a0d871ef8910"}
 {"propertySlug":"argument","path":"command/pages/track/food/track-food.command.ts","id":"01a06809-250b-7ec1-99ac-2150ec2c5f74"}
-{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts"}
-{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/imessage/send/imessage-send.command.test.ts"}
-{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/inference/edit/inference-edit.command.code.ts"}
-{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/inference/segment/inference-segment.command.code.ts"}
-{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts"}
-{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/track/food/track-food.command.code.ts"}
+{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/imessage/send/imessage-send.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/inference/edit/inference-edit.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/inference/segment/inference-segment.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"image.argument.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"one-of","path":"command/pages/imessage/send/imessage-send.command.ts","id":"01a0685f-c8ed-7004-8926-65ffc06d2862"}

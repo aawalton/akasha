@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"wan-hosting.module.code.ts","path":"command/pages/inference/wan/frame/inference-wan-frame.command.code.ts"}
-{"propertySlug":"import","fileName":"wan-hosting.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
-{"propertySlug":"import","fileName":"wan-hosting.module.code.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.code.ts"}
+{"propertySlug":"import","fileName":"wan-hosting.module.code.ts","path":"command/pages/inference/wan/frame/inference-wan-frame.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"wan-hosting.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"wan-hosting.module.code.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/inference/wan/inference-wan.namespace.ts","id":"01a093fb-ba5e-7535-a5b3-40b902e37bc8"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"record-from-keys.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts"}
-{"propertySlug":"import","fileName":"record-from-keys.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-skills/build-codec-v52-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"record-from-keys.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts"}
+{"propertySlug":"import","fileName":"record-from-keys.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-equipment/build-codec-v52-equipment.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"record-from-keys.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52-skills/build-codec-v52-skills.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"record-from-keys.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/build/build-hash/temper-build-hash.domain.ts","id":"01a062c4-7811-7457-9a0e-87d4906e32a4"}

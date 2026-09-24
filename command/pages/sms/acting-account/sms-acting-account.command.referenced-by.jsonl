@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"sms-acting-account.command.code.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.test.ts"}
-{"propertySlug":"import","fileName":"sms-acting-account.command.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.code.ts"}
-{"propertySlug":"import","fileName":"sms-acting-account.command.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.test.ts"}
+{"propertySlug":"import","fileName":"sms-acting-account.command.code.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sms-acting-account.command.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sms-acting-account.command.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/sms/sms.namespace.ts","id":"01a07bcb-0b96-7bdf-bd21-0e3e7f8998c0"}

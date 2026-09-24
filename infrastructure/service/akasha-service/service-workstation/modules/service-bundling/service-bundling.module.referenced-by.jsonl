@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.code.ts"}
-{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.test.ts"}
-{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts"}
-{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.test.ts"}
-{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service-bundling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

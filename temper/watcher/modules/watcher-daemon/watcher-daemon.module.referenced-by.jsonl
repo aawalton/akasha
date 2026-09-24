@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"watcher-daemon.module.code.ts","path":"command/pages/temper/watcher/status/temper-watcher-status.command.code.ts"}
-{"propertySlug":"import","fileName":"watcher-daemon.module.code.ts","path":"temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"}
-{"propertySlug":"import","fileName":"watcher-daemon.module.code.ts","path":"temper/watcher/modules/watcher-running/watcher-running.module.code.ts"}
+{"propertySlug":"import","fileName":"watcher-daemon.module.code.ts","path":"command/pages/temper/watcher/status/temper-watcher-status.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-daemon.module.code.ts","path":"temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-daemon.module.code.ts","path":"temper/watcher/modules/watcher-running/watcher-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}

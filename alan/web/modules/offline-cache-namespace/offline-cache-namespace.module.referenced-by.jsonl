@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"offline-cache-namespace.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"}
-{"propertySlug":"import","fileName":"offline-cache-namespace.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.test.tsx"}
-{"propertySlug":"import","fileName":"offline-cache-namespace.module.code.ts","path":"alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"}
-{"propertySlug":"import","fileName":"offline-cache-namespace.module.code.ts","path":"alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"}
+{"propertySlug":"import","fileName":"offline-cache-namespace.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"offline-cache-namespace.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.test.tsx","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"offline-cache-namespace.module.code.ts","path":"alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"offline-cache-namespace.module.code.ts","path":"alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/web/alan-web.router-app.ts","id":"01a05bb1-0c04-751f-8f51-baadbd134cf6"}

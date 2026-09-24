@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"access-kind.page-type.ts","path":"person/modules/page-type-access/page-type-access.module.test.ts"}
-{"propertySlug":"import","fileName":"access-kind.page-type.ts","path":"person/modules/route-access/route-access.module.test.ts"}
-{"propertySlug":"import","fileName":"access-kind.page-type.types.ts","path":"person/access-kind/pages/database-row.access-kind.ts"}
-{"propertySlug":"import","fileName":"access-kind.page-type.types.ts","path":"person/access-kind/pages/domain.access-kind.ts"}
-{"propertySlug":"import","fileName":"access-kind.page-type.types.ts","path":"person/access-kind/pages/page-type.access-kind.ts"}
-{"propertySlug":"import","fileName":"access-kind.page-type.types.ts","path":"person/access-kind/pages/route.access-kind.ts"}
+{"propertySlug":"import","fileName":"access-kind.page-type.ts","path":"person/modules/page-type-access/page-type-access.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"access-kind.page-type.ts","path":"person/modules/route-access/route-access.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"access-kind.page-type.types.ts","path":"person/access-kind/pages/database-row.access-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"access-kind.page-type.types.ts","path":"person/access-kind/pages/domain.access-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"access-kind.page-type.types.ts","path":"person/access-kind/pages/page-type.access-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"access-kind.page-type.types.ts","path":"person/access-kind/pages/route.access-kind.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"target-page-type","path":"person/access/properties/person-access-kind.relation-property.ts","id":"01a0542e-017c-7d0a-bbee-cf9bbe611884"}

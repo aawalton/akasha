@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts"}
-{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-settings/lost-treasure-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/web/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-appearance/minimap-settings-appearance.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-settings-panel/minimap-settings-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-settings/dungeon-champion-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-settings/lost-treasure-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"header.module.code.ts","path":"temper/web/item-browser/modules/item-browser-settings/item-browser-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/shared/settings-panel/temper-settings-panel.domain.ts","id":"01a06053-3636-7e00-b329-e1ac77ae851e"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"poi-type.number-property.types.ts","path":"temper/catalog/world/zone/properties/pois.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"poi-type.number-property.types.ts","path":"temper/catalog/world/zone/properties/pois.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/world/zone/properties/pois.page-property-entry.ts","id":"01a06167-3f9b-700b-ab48-cb7aa724cc9c"}
 {"propertySlug":"parts","path":"temper/catalog/world/zone/temper-world-zone.page-type.ts","id":"01a06167-3f9b-700d-bf56-54687a9f3c3a"}

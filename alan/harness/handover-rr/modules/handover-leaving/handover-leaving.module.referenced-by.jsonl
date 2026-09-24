@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"alan/atlas-web/routes/atlas-sign-out/atlas-sign-out.route.code.ts"}
-{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"alan/requests-web/routes/requests-sign-out/requests-sign-out.route.code.ts"}
-{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-out/archive-of-worlds-sign-out.route.code.ts"}
-{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"product/smilingjenny/web/routes/jenny-sign-out/jenny-sign-out.route.code.ts"}
-{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"temper/web/routes/sign-out/sign-out.route.code.ts"}
+{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"alan/atlas-web/routes/atlas-sign-out/atlas-sign-out.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"alan/requests-web/routes/requests-sign-out/requests-sign-out.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-sign-out/archive-of-worlds-sign-out.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"product/smilingjenny/web/routes/jenny-sign-out/jenny-sign-out.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handover-leaving.module.code.ts","path":"temper/web/routes/sign-out/sign-out.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/handover-rr/handover-rr.domain.ts","id":"01a0bb5b-cb42-713b-bb83-e6d3265a0786"}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test.ts"}
-{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts"}
-{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.test.ts"}
+{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-seat-marks.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/shell/terminal/shell-terminal.domain.ts","id":"01a0884d-5f98-745e-bc9f-ced0318936eb"}

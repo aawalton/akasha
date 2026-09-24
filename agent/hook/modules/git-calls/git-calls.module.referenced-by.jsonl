@@ -1,7 +1,10 @@
-{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.test.ts"}
-{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/modules/git-calls/git-calls.module.test.ts"}
-{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.code.ts"}
+{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/agent-hook/block-history-search/block-history-search.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/modules/git-calls/git-calls.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-calls.module.code.ts","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/async-awaiter/async-awaiter.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/promise-all-settled/promise-all-settled.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/promise-all/promise-all.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/promise-any/promise-any.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/promise-race/promise-race.lualib-helper.code.ts"}
+{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/async-awaiter/async-awaiter.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/promise-all-settled/promise-all-settled.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/promise-all/promise-all.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/promise-any/promise-any.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"promise.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/promise-race/promise-race.lualib-helper.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}

@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"properties.one-of-property.types.ts","path":"page/computed-property/computed-property.page-type.types.ts"}
-{"propertySlug":"import","fileName":"properties.one-of-property.types.ts","path":"page/property-entry/page-property-entry.page-type.types.ts"}
-{"propertySlug":"import","fileName":"properties.one-of-property.types.ts","path":"page/record-property/record-property.page-type.types.ts"}
-{"propertySlug":"import","fileName":"properties.one-of-property.types.ts","path":"page/type/page-type.page-type.types.ts"}
+{"propertySlug":"import","fileName":"properties.one-of-property.types.ts","path":"page/computed-property/computed-property.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"properties.one-of-property.types.ts","path":"page/property-entry/page-property-entry.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"properties.one-of-property.types.ts","path":"page/record-property/record-property.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"properties.one-of-property.types.ts","path":"page/type/page-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"page/computed-property/computed-property.page-type.ts","id":"01a06e70-0f25-77ad-9080-95388ef3ba51"}
 {"propertySlug":"page-property","path":"page/property-entry/page-property-entry.page-type.ts","id":"01a05f80-3969-7000-8ccd-6284909fc036"}
 {"propertySlug":"page-property","path":"page/record-property/record-property.page-type.ts","id":"01a04dff-9d7d-7801-928a-feeaaaa1c8f0"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.test.ts"}
-{"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/alan-readout/modules/workstation-load-sampling/workstation-load-sampling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"workstation-load-sampling.module.code.ts","path":"alan/harness/alan-readout/workstation-load-sampler/workstation-load-sampler.service-workstation.running.test.ts","typed":false,"deferred":true}
 {"propertySlug":"parts","path":"alan/harness/alan-readout/alan-readout.domain.ts","id":"01a0655b-9cdd-774f-9482-0a29f14e0665"}

@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-damage/combat-lib-damage.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-death/combat-lib-death.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-groups-combat/combat-lib-groups-combat.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-init/combat-lib-init.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-slash-command/combat-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-damage/combat-lib-damage.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-death/combat-lib-death.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-groups-combat/combat-lib-groups-combat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-init/combat-lib-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-fight.module.code.ts","path":"temper/addon/pages/combat/modules/combat-slash-command/combat-slash-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

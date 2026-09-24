@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/dps.temper-character-role.ts"}
-{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/healer.temper-character-role.ts"}
-{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/no-role.temper-character-role.ts"}
-{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/pvp.temper-character-role.ts"}
-{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/solo.temper-character-role.ts"}
-{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/tank.temper-character-role.ts"}
+{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/dps.temper-character-role.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/healer.temper-character-role.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/no-role.temper-character-role.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/pvp.temper-character-role.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/solo.temper-character-role.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/tank.temper-character-role.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
 {"propertySlug":"target-page-type","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.ts","id":"01a076c2-ee95-7043-8326-ee288ac93a97"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-analysis/combat-analysis.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-types/combat-core-types.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-fight-model/combat-fight-model.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-finalize/combat-finalize.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-selection/combat-selection.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-analysis/combat-analysis.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-types/combat-core-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-fight-model/combat-fight-model.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-finalize/combat-finalize.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-categories.module.code.ts","path":"temper/addon/pages/combat/modules/combat-selection/combat-selection.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

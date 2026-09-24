@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts"}
-{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/ui/component/modules/resolve-listing-config/resolve-listing-config.module.code.ts"}
-{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.code.ts"}
-{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/ui/component/modules/use-effective-listing/use-effective-listing.module.code.ts"}
-{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"}
+{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/ui/component/modules/resolve-listing-config/resolve-listing-config.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/ui/component/modules/use-effective-listing/use-effective-listing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"listing-config.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

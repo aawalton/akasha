@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"build-factory.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.test.ts"}
-{"propertySlug":"import","fileName":"build-factory.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
-{"propertySlug":"import","fileName":"build-factory.module.code.ts","path":"temper/web/modules/character-reducer/character-reducer.module.test.ts"}
-{"propertySlug":"import","fileName":"build-factory.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx"}
+{"propertySlug":"import","fileName":"build-factory.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-factory.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-factory.module.code.ts","path":"temper/web/modules/character-reducer/character-reducer.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-factory.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/build/temper-character-build.domain.ts","id":"01a061a7-9bb4-7492-9ef4-a2d81d834deb"}

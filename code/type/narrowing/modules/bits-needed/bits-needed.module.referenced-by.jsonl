@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"bits-needed.module.code.ts","path":"code/type/narrowing/modules/bits-needed/bits-needed.module.test.ts"}
-{"propertySlug":"import","fileName":"bits-needed.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"bits-needed.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"}
+{"propertySlug":"import","fileName":"bits-needed.module.code.ts","path":"code/type/narrowing/modules/bits-needed/bits-needed.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"bits-needed.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"bits-needed.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

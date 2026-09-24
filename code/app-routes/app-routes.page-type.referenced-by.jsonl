@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"alan/atlas-web/routes/alan-atlas-web-routes.app-routes.ts"}
-{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"alan/requests-web/routes/alan-requests-web-routes.app-routes.ts"}
-{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"alan/web/routes/alan-web-routes.app-routes.ts"}
-{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-web-routes.app-routes.ts"}
-{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"product/audhdalan/web/routes/audhdalan-web-routes.app-routes.ts"}
-{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"product/smilingjenny/web/routes/smilingjenny-web-routes.app-routes.ts"}
-{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/wandering-inn-wiki-web-routes.app-routes.ts"}
-{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"temper/web/routes/temper-web-routes.app-routes.ts"}
+{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"alan/atlas-web/routes/alan-atlas-web-routes.app-routes.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"alan/requests-web/routes/alan-requests-web-routes.app-routes.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"alan/web/routes/alan-web-routes.app-routes.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-web-routes.app-routes.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"product/audhdalan/web/routes/audhdalan-web-routes.app-routes.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"product/smilingjenny/web/routes/smilingjenny-web-routes.app-routes.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/wandering-inn-wiki-web-routes.app-routes.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"app-routes.page-type.types.ts","path":"temper/web/routes/temper-web-routes.app-routes.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}

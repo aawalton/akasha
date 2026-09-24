@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/adjustable-bench/adjustable-bench.fitness-equipment.ts"}
-{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/dumbbells/dumbbells.fitness-equipment.ts"}
-{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/hand-gripper/hand-gripper.fitness-equipment.ts"}
-{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/kettlebells/kettlebells.fitness-equipment.ts"}
-{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/weighted-vest/weighted-vest.fitness-equipment.ts"}
+{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/adjustable-bench/adjustable-bench.fitness-equipment.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/dumbbells/dumbbells.fitness-equipment.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/hand-gripper/hand-gripper.fitness-equipment.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/kettlebells/kettlebells.fitness-equipment.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"fitness-equipment.page-type.types.ts","path":"alan/value/health/fitness/equipment/pages/weighted-vest/weighted-vest.fitness-equipment.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/value/health/fitness/fitness.domain.ts","id":"01a06558-7000-7000-8000-000000000001"}

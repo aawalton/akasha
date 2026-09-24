@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/eso-rig/probe/eso-rig-probe.python-module.ts"}
-{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/generation/upscale/srpo-graph/upscale-srpo-graph.python-module.ts"}
-{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/generation/wan/frame-scoring/wan-frame-scoring.python-module.ts"}
-{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/pool/segment-rembg-server/segment-rembg-server.python-module.ts"}
-{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/voice-inference/voice-infer-server/voice-infer-server.python-module.ts"}
-{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/voice-inference/voice-models/voice-models.python-module.ts"}
-{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/machine/provisioning/btw5/btw5.python-module.ts"}
+{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/eso-rig/probe/eso-rig-probe.python-module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/generation/upscale/srpo-graph/upscale-srpo-graph.python-module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/generation/wan/frame-scoring/wan-frame-scoring.python-module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/pool/segment-rembg-server/segment-rembg-server.python-module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/voice-inference/voice-infer-server/voice-infer-server.python-module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/inference/voice-inference/voice-models/voice-models.python-module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"python-module.page-type.types.ts","path":"infrastructure/machine/provisioning/btw5/btw5.python-module.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}

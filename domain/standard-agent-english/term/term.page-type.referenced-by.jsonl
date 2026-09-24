@@ -1,8 +1,8 @@
 {"propertySlug":"extends-type","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/term/allowed-term/allowed-term.page-type.ts","id":"01a081ea-6fce-7964-b581-84f1a80077c6"}
 {"propertySlug":"extends-type","path":"domain/standard-agent-english/term/banned-term/banned-term.page-type.ts","id":"01a081ea-d66b-7bae-bde1-753ebd310536"}
-{"propertySlug":"import","fileName":"term.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
-{"propertySlug":"import","fileName":"term.page-type.types.ts","path":"domain/domain.page-type.types.ts"}
-{"propertySlug":"import","fileName":"term.page-type.types.ts","path":"domain/standard-agent-english/term/allowed-term/allowed-term.page-type.types.ts"}
-{"propertySlug":"import","fileName":"term.page-type.types.ts","path":"domain/standard-agent-english/term/banned-term/banned-term.page-type.types.ts"}
+{"propertySlug":"import","fileName":"term.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"term.page-type.types.ts","path":"domain/domain.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"term.page-type.types.ts","path":"domain/standard-agent-english/term/allowed-term/allowed-term.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"term.page-type.types.ts","path":"domain/standard-agent-english/term/banned-term/banned-term.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"domain/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}

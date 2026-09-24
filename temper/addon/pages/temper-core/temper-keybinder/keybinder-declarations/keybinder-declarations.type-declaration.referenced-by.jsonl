@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts"}
-{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-casts/keybinder-casts.module.code.ts"}
-{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-init/keybinder-init.module.code.ts"}
-{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts"}
-{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-share/keybinder-share.module.code.ts"}
-{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-state/keybinder-state.module.code.ts"}
+{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-binding-utils/keybinder-binding-utils.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-casts/keybinder-casts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-init/keybinder-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-keybind-events/keybinder-keybind-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-share/keybinder-share.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keybinder-declarations.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-state/keybinder-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/temper-core/temper-keybinder/temper-keybinder.domain.ts","id":"01a0c714-5feb-711a-9cd3-b64a8d77564d"}

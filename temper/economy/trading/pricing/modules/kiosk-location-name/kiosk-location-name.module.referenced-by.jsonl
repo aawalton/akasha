@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"kiosk-location-name.module.code.ts","path":"temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts"}
-{"propertySlug":"import","fileName":"kiosk-location-name.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"kiosk-location-name.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-optimizer-rules/shopping-optimizer-rules.module.code.ts"}
-{"propertySlug":"import","fileName":"kiosk-location-name.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"kiosk-location-name.module.code.ts","path":"temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"kiosk-location-name.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"kiosk-location-name.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-optimizer-rules/shopping-optimizer-rules.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"kiosk-location-name.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/economy/trading/pricing/temper-trading-pricing.domain.ts","id":"01a0609b-e59c-7c6b-906c-4ab055fc9039"}

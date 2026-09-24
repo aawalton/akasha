@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"temper-companion-jewelry-slot.page-type.types.ts","path":"temper/catalog/companion/jewelry-slot/pages/necklace.temper-companion-jewelry-slot.ts"}
-{"propertySlug":"import","fileName":"temper-companion-jewelry-slot.page-type.types.ts","path":"temper/catalog/companion/jewelry-slot/pages/ring-1.temper-companion-jewelry-slot.ts"}
-{"propertySlug":"import","fileName":"temper-companion-jewelry-slot.page-type.types.ts","path":"temper/catalog/companion/jewelry-slot/pages/ring-2.temper-companion-jewelry-slot.ts"}
+{"propertySlug":"import","fileName":"temper-companion-jewelry-slot.page-type.types.ts","path":"temper/catalog/companion/jewelry-slot/pages/necklace.temper-companion-jewelry-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-jewelry-slot.page-type.types.ts","path":"temper/catalog/companion/jewelry-slot/pages/ring-1.temper-companion-jewelry-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-jewelry-slot.page-type.types.ts","path":"temper/catalog/companion/jewelry-slot/pages/ring-2.temper-companion-jewelry-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}

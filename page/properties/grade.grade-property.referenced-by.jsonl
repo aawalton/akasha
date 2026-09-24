@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"alan/library/reading/modules/shapes/reading-shapes.module.code.ts"}
-{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"}
-{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"command/pages/music/artist-list/music-artist-list.command.code.ts"}
-{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"command/pages/music/next/music-next.command.code.ts"}
-{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"page/page.page-type.types.ts"}
+{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"alan/library/reading/modules/shapes/reading-shapes.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"command/pages/music/artist-list/music-artist-list.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"command/pages/music/next/music-next.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"grade.grade-property.types.ts","path":"page/page.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"push-register-body.module.code.ts","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"}
-{"propertySlug":"import","fileName":"push-register-body.module.code.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.code.ts"}
-{"propertySlug":"import","fileName":"push-register-body.module.code.ts","path":"person/modules/push-register-body/push-register-body.module.test.ts"}
+{"propertySlug":"import","fileName":"push-register-body.module.code.ts","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"push-register-body.module.code.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"push-register-body.module.code.ts","path":"person/modules/push-register-body/push-register-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}

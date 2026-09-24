@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts"}
-{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/recent-list/imessage-recent-list.command.code.ts"}
-{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/search/imessage-search.command.code.ts"}
-{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts"}
-{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/unread-list/imessage-unread-list.command.code.ts"}
+{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/recent-list/imessage-recent-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/search/imessage-search.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"imessage-remote.module.code.ts","path":"command/pages/imessage/unread-list/imessage-unread-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/imessage/imessage.domain.ts","id":"01a05bc9-4308-7007-a8cc-e8f6c025c81e"}

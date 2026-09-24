@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/component/modules/use-property-change-perf-handler/use-property-change-perf-handler.module.code.ts"}
-{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/supabase/mutation/modules/apply-prediction/apply-prediction.module.code.ts"}
-{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"}
+{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/component/modules/use-property-change-perf-handler/use-property-change-perf-handler.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/supabase/modules/use-set-property-optimistic/use-set-property-optimistic.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/supabase/mutation/modules/apply-prediction/apply-prediction.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-card-perf.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/page-ui.domain.ts","id":"01a05c0f-884e-7019-b4e6-08b3faac2e0b"}

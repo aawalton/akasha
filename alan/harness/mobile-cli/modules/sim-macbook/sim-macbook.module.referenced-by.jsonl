@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.test.ts"}
-{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts"}
-{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/boot/mobile-sim-boot.command.test.ts"}
-{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.code.ts"}
-{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.test.ts"}
-{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
-{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/status/mobile-sim-status.command.code.ts"}
-{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts"}
+{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/boot/mobile-sim-boot.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/boot/mobile-sim-boot.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/open-url/mobile-sim-open-url.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/status/mobile-sim-status.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-macbook.module.code.ts","path":"command/pages/mobile/sim/teardown/mobile-sim-teardown.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}

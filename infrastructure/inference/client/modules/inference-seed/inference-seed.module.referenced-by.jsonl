@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inference-seed.module.code.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts"}
-{"propertySlug":"import","fileName":"inference-seed.module.code.ts","path":"command/pages/inference/music/inference-music.command.code.ts"}
-{"propertySlug":"import","fileName":"inference-seed.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
-{"propertySlug":"import","fileName":"inference-seed.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts"}
+{"propertySlug":"import","fileName":"inference-seed.module.code.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-seed.module.code.ts","path":"command/pages/inference/music/inference-music.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-seed.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-seed.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/client/inference-client.domain.ts","id":"01a0682d-8f07-7000-ab6b-b7ebbf0863a0"}

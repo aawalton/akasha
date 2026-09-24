@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seat-messaged.command.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.test.ts"}
-{"propertySlug":"import","fileName":"seat-messaged.command.ts","path":"code/editor/extension/modules/seat-terminal-enter/seat-terminal-enter.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-messaged.command.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts"}
+{"propertySlug":"import","fileName":"seat-messaged.command.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-messaged.command.ts","path":"code/editor/extension/modules/seat-terminal-enter/seat-terminal-enter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-messaged.command.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/seat/seat.namespace.ts","id":"01a0797a-9a06-74a3-9d34-57124a4d5b45"}

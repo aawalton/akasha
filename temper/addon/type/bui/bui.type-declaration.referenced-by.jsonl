@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"bui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts"}
-{"propertySlug":"import","fileName":"bui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-events/map-pins-events.module.code.ts"}
+{"propertySlug":"import","fileName":"bui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-callbacks-loot/map-pins-callbacks-loot.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"bui.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-events/map-pins-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/type/temper-addon-type.domain.ts","id":"01a06090-f5ac-7f47-be1b-dc303670f2ad"}

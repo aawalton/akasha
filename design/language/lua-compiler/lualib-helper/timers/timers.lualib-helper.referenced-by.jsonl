@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"timers.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/clear-interval/clear-interval.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"timers.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/clear-timeout/clear-timeout.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"timers.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/set-interval/set-interval.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"timers.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/set-timeout/set-timeout.lualib-helper.code.ts"}
+{"propertySlug":"import","fileName":"timers.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/clear-interval/clear-interval.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"timers.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/clear-timeout/clear-timeout.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"timers.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/set-interval/set-interval.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"timers.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/set-timeout/set-timeout.lualib-helper.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}

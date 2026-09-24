@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inventory-trace-saying.module.code.ts","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-trace-saying.module.code.ts","path":"command/pages/temper/inventory/master/consumable-trace/temper-inventory-master-consumable-trace.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-trace-saying.module.code.ts","path":"command/pages/temper/inventory/master/craft-trace/temper-inventory-master-craft-trace.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-trace-saying.module.code.ts","path":"command/pages/temper/inventory/master/writ-probe/temper-inventory-master-writ-probe.command.code.ts"}
+{"propertySlug":"import","fileName":"inventory-trace-saying.module.code.ts","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-trace-saying.module.code.ts","path":"command/pages/temper/inventory/master/consumable-trace/temper-inventory-master-consumable-trace.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-trace-saying.module.code.ts","path":"command/pages/temper/inventory/master/craft-trace/temper-inventory-master-craft-trace.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-trace-saying.module.code.ts","path":"command/pages/temper/inventory/master/writ-probe/temper-inventory-master-writ-probe.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

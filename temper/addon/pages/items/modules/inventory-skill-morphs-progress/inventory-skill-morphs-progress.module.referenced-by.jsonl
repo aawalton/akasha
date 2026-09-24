@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"inventory-skill-morphs-progress.module.code.ts","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-skill-morphs-progress.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-skill-gate-eval/inventory-explain-skill-gate-eval.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-skill-morphs-progress.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-skill-morphs-progress.module.code.ts","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-skill-morphs-progress.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-skill-gate-eval/inventory-explain-skill-gate-eval.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-skill-morphs-progress.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

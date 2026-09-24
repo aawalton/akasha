@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts","id":"01a0603c-c1d9-7bdc-8aab-dcc717f3de9b"}
-{"propertySlug":"import","fileName":"section.argument.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.code.ts"}
-{"propertySlug":"import","fileName":"section.argument.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.test.ts"}
+{"propertySlug":"import","fileName":"section.argument.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"section.argument.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.test.ts","typed":false,"deferred":false}

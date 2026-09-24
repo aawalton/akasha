@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/google/login/google-login.command.ts","id":"01a08cd6-dec8-70d0-806a-01701518ada0"}
-{"propertySlug":"import","fileName":"callback-url.argument.ts","path":"command/pages/google/login/google-login.command.code.ts"}
-{"propertySlug":"import","fileName":"callback-url.argument.ts","path":"command/pages/google/login/google-login.command.test.ts"}
+{"propertySlug":"import","fileName":"callback-url.argument.ts","path":"command/pages/google/login/google-login.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"callback-url.argument.ts","path":"command/pages/google/login/google-login.command.test.ts","typed":false,"deferred":false}

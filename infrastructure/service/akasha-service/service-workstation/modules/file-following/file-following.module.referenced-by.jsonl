@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"}
-{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts"}
-{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts"}
-{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts"}
-{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"alan/harness/readout/modules/watching/readout-watching.module.code.ts"}
-{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.test.ts"}
-{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}
+{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/data-watching/data-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"alan/harness/readout/modules/watching/readout-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-following.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

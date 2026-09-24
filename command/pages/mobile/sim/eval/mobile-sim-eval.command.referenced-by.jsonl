@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"mobile-sim-eval.command.code.ts","path":"command/pages/mobile/sim/eval/mobile-sim-eval.command.test.ts"}
-{"propertySlug":"import","fileName":"mobile-sim-eval.command.ts","path":"command/pages/mobile/sim/eval/mobile-sim-eval.command.code.ts"}
+{"propertySlug":"import","fileName":"mobile-sim-eval.command.code.ts","path":"command/pages/mobile/sim/eval/mobile-sim-eval.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mobile-sim-eval.command.code.ts","path":"command/pages/mobile/sim/eval/mobile-sim-eval.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mobile-sim-eval.command.ts","path":"command/pages/mobile/sim/eval/mobile-sim-eval.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/mobile/sim/mobile-sim.namespace.ts","id":"01a07bc2-afbe-7db2-96a8-ce71678480ac"}

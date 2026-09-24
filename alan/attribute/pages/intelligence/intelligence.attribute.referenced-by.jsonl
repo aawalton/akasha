@@ -1,5 +1,5 @@
 {"propertySlug":"attribute","path":"alan/attribute/readout/attribute-intelligence/attribute-intelligence.readout.ts","id":"01a06838-94d9-7c36-b921-4351c8db6033"}
-{"propertySlug":"import","fileName":"intelligence.attribute.code.ts","path":"alan/attribute/pages/intelligence/intelligence.attribute.test.ts"}
-{"propertySlug":"import","fileName":"intelligence.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"intelligence.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"}
+{"propertySlug":"import","fileName":"intelligence.attribute.code.ts","path":"alan/attribute/pages/intelligence/intelligence.attribute.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"intelligence.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"intelligence.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"app-building.module.code.ts","path":"code/ios-app/modules/app-building/app-building.module.test.ts"}
-{"propertySlug":"import","fileName":"app-building.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"}
-{"propertySlug":"import","fileName":"app-building.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.test.ts"}
+{"propertySlug":"import","fileName":"app-building.module.code.ts","path":"code/ios-app/modules/app-building/app-building.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app-building.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app-building.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/ios-app/ios-app.page-type.ts","id":"01a05821-5723-7e65-88e2-045d3e49cb23"}

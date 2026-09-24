@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-idleness/seat-agent-idleness.domain.ts","id":"01a09c74-522d-7dde-b3a8-be37b2fa1151"}

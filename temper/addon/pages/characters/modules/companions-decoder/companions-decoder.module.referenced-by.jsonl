@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-apply-build/companions-apply-build.module.code.ts"}
-{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts"}
-{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.code.ts"}
-{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-scan-upgrades/companions-scan-upgrades.module.code.ts"}
-{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts"}
+{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-apply-build/companions-apply-build.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-equipment-refresh/companions-equipment-refresh.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-scan-upgrades/companions-scan-upgrades.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companions-decoder.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

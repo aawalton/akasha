@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"visit-assignments.module.code.ts","path":"design/language/lua-compiler/modules/visit-compound/visit-compound.module.code.ts"}
-{"propertySlug":"import","fileName":"visit-assignments.module.code.ts","path":"design/language/lua-compiler/modules/visit-destructuring-assignments/visit-destructuring-assignments.module.code.ts"}
-{"propertySlug":"import","fileName":"visit-assignments.module.code.ts","path":"design/language/lua-compiler/modules/visit-utils/visit-utils.module.code.ts"}
-{"propertySlug":"import","fileName":"visit-assignments.module.code.ts","path":"design/language/lua-compiler/modules/visitors-binary-expression/visitors-binary-expression.module.code.ts"}
+{"propertySlug":"import","fileName":"visit-assignments.module.code.ts","path":"design/language/lua-compiler/modules/visit-compound/visit-compound.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"visit-assignments.module.code.ts","path":"design/language/lua-compiler/modules/visit-destructuring-assignments/visit-destructuring-assignments.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"visit-assignments.module.code.ts","path":"design/language/lua-compiler/modules/visit-utils/visit-utils.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"visit-assignments.module.code.ts","path":"design/language/lua-compiler/modules/visitors-binary-expression/visitors-binary-expression.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lua-compiler.domain.ts","id":"01a06759-2aa6-7004-8e68-88c34898e172"}

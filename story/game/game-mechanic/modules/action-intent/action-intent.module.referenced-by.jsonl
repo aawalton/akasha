@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.code.ts"}
-{"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/game/game-mechanic/pages/creature-intent/creature-intent.game-mechanic.code.ts"}
-{"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/game/game-mechanic/pages/essence-absorption/essence-absorption.game-mechanic.code.ts"}
+{"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/game/game-mechanic/pages/creature-intent/creature-intent.game-mechanic.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"action-intent.module.code.ts","path":"story/game/game-mechanic/pages/essence-absorption/essence-absorption.game-mechanic.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/game/game-mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"inventory-skill-gate-eval-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-skill-gate-eval/inventory-explain-skill-gate-eval.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-skill-gate-eval-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-slash-command/inventory-explain-slash-command.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-skill-gate-eval-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-skill-gate-eval-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-skill-gate-eval/inventory-explain-skill-gate-eval.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-skill-gate-eval-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-slash-command/inventory-explain-slash-command.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-skill-gate-eval-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

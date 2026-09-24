@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"transport-naming.module.code.ts","path":"infrastructure/git-transport/janitor/git-transport-janitor.manifest.code.ts"}
-{"propertySlug":"import","fileName":"transport-naming.module.code.ts","path":"infrastructure/git-transport/manifests/git-transport-manifests.manifest.code.ts"}
-{"propertySlug":"import","fileName":"transport-naming.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts"}
+{"propertySlug":"import","fileName":"transport-naming.module.code.ts","path":"infrastructure/git-transport/janitor/git-transport-janitor.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"transport-naming.module.code.ts","path":"infrastructure/git-transport/manifests/git-transport-manifests.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"transport-naming.module.code.ts","path":"infrastructure/git-transport/modules/transport-deployment/transport-deployment.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/git-transport/git-transport.domain.ts","id":"01a06816-2f11-7be3-9bd7-706fac3996ff"}

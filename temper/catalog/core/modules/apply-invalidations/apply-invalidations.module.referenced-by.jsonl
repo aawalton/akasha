@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"apply-invalidations.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-invalidations/catalog-invalidations.module.code.ts"}
-{"propertySlug":"import","fileName":"apply-invalidations.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.code.ts"}
-{"propertySlug":"import","fileName":"apply-invalidations.module.code.ts","path":"temper/catalog/core/modules/apply-invalidations/apply-invalidations.module.test.ts"}
+{"propertySlug":"import","fileName":"apply-invalidations.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-invalidations/catalog-invalidations.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"apply-invalidations.module.code.ts","path":"temper/addon/pages/catalog/modules/catalog-side-file-config/catalog-side-file-config.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"apply-invalidations.module.code.ts","path":"temper/catalog/core/modules/apply-invalidations/apply-invalidations.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}

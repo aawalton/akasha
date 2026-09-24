@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/chess/game/chess-game.page-type.types.ts"}
-{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/collection/external/properties/external-identity.record-property.types.ts"}
-{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.types.ts"}
-{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.types.ts"}
-{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/music/catalog/track/properties/carried-by.record-property.types.ts"}
-{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"story/game/story-game.page-type.types.ts"}
+{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/chess/game/chess-game.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/collection/external/properties/external-identity.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"alan/music/catalog/track/properties/carried-by.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"external-id.text-property.types.ts","path":"story/game/story-game.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/chess/game/chess-game.page-type.ts","id":"01a06582-bd62-7ffe-a236-e510097e9b91"}
 {"propertySlug":"page-property","path":"alan/collection/external/properties/external-identity.record-property.ts","id":"01a09ba1-cc57-7d8f-8460-fd32ebb90bef"}
 {"propertySlug":"page-property","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.ts","id":"01a06807-be66-7003-aba8-347b1f0d9f84"}

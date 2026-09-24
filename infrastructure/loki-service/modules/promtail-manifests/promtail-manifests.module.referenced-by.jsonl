@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"promtail-manifests.module.code.ts","path":"infrastructure/loki-service/promtail/promtail.manifest.code.ts"}
+{"propertySlug":"import","fileName":"promtail-manifests.module.code.ts","path":"infrastructure/loki-service/promtail/promtail.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/loki-service/loki-service.domain.ts","id":"01a06816-68b1-7121-a3e4-61d3cc74c4c8"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.check.code.ts"}
-{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"code/running/modules/code-format/code-format.module.code.ts"}
-{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"code/running/modules/code-lint/code-lint.module.test.ts"}
+{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.audit.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.check.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.decision.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"code/running/modules/code-format/code-format.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-lint.module.code.ts","path":"code/running/modules/code-lint/code-lint.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/running/code-running.domain.ts","id":"01a09b28-b8af-7f7c-804c-05aff06380bf"}

@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"alan/chess/progress/chess-progress.page-type.types.ts"}
-{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.types.ts"}
-{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts"}
-{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/catalog/pursuit/temper-tribute-patron/temper-tribute-patron.page-type.types.ts"}
-{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.types.ts"}
+{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"alan/chess/progress/chess-progress.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/catalog/pursuit/temper-tribute-patron/temper-tribute-patron.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"category.text-property.types.ts","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/chess/progress/chess-progress.page-type.ts","id":"01a06582-bd62-702f-92a4-3fd313251ee2"}
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.ts","id":"01a05fd8-c30f-72c4-9102-9b3dbc179f51"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts","id":"01a05fce-1854-7d72-872a-0e22ce5c84c5"}

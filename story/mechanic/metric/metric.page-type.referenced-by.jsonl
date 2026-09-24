@@ -1,5 +1,5 @@
 {"propertySlug":"extends-type","path":"story/mechanic/metric/character/metric-character.page-type.ts","id":"01a0ca49-6168-7496-8941-ce63271b7a53"}
 {"propertySlug":"extends-type","path":"story/mechanic/metric/item/metric-item.page-type.ts","id":"01a0ca49-8343-721e-9241-c9fedc882840"}
-{"propertySlug":"import","fileName":"metric.page-type.types.ts","path":"story/mechanic/metric/character/metric-character.page-type.types.ts"}
-{"propertySlug":"import","fileName":"metric.page-type.types.ts","path":"story/mechanic/metric/item/metric-item.page-type.types.ts"}
+{"propertySlug":"import","fileName":"metric.page-type.types.ts","path":"story/mechanic/metric/character/metric-character.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric.page-type.types.ts","path":"story/mechanic/metric/item/metric-item.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/mechanic/mechanic.page-type.ts","id":"01a0c9ea-d7b7-7f79-bc32-4aec8e645b69"}

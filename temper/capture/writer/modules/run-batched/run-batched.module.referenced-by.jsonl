@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/companion-skill-catalog-capture/companion-skill-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/skill-catalog-capture/skill-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/player-answer/modules/player-answer-capture/player-answer-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/companion-skill-catalog-capture/companion-skill-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/skill-catalog-capture/skill-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"run-batched.module.code.ts","path":"temper/capture/player-answer/modules/player-answer-capture/player-answer-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}

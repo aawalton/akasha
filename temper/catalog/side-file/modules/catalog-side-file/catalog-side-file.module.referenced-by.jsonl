@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.code.ts"}
-{"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts"}
+{"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-side-file.module.code.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}

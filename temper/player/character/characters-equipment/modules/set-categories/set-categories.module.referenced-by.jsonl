@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"set-categories.module.code.ts","path":"temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"set-categories.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-select-helpers/set-select-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"set-categories.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"set-categories.module.code.ts","path":"temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-categories.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-select-helpers/set-select-helpers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-categories.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}

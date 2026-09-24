@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"agent-page-reading.module.code.ts","path":"agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-page-reading.module.code.ts","path":"agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"agent-page-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-drawing/tree-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"agent-page-reading.module.code.ts","path":"agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-page-reading.module.code.ts","path":"agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent-page-reading.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-drawing/tree-drawing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

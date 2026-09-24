@@ -14,5 +14,5 @@
 {"propertySlug":"companion-id","path":"temper/catalog/companion/skill/pages/mirri-mirri-twilight-mantle/mirri-mirri-twilight-mantle.temper-companion-skill.ts","id":"019e6484-388e-7c29-977a-8a29e729a0e4"}
 {"propertySlug":"companion-id","path":"temper/catalog/companion/skill/pages/mirri-mirri-warp-strike/mirri-mirri-warp-strike.temper-companion-skill.ts","id":"019e6484-3890-7e7f-a758-fe111e6bfedb"}
 {"propertySlug":"companion-id","path":"temper/player/character/temper-companion-progress/pages/mirri.temper-companion-progress.ts","id":"019dda20-e3d4-7ab6-b3df-6c2fa1e10f54"}
-{"propertySlug":"import","fileName":"mirri.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.test.ts"}
-{"propertySlug":"import","fileName":"mirri.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.test.ts"}
+{"propertySlug":"import","fileName":"mirri.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mirri.temper-eso-companion.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.test.ts","typed":false,"deferred":false}

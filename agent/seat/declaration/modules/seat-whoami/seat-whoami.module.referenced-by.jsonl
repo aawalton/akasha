@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"seat-whoami.module.code.ts","path":"agent/seat/fleet/modules/seat-facts/seat-facts.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-whoami.module.code.ts","path":"agent/seat/launching/modules/seat-call/seat-call.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-whoami.module.code.ts","path":"agent/seat/fleet/modules/seat-facts/seat-facts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-whoami.module.code.ts","path":"agent/seat/launching/modules/seat-call/seat-call.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}

@@ -1,7 +1,9 @@
-{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"alan/music/choosing/modules/track-candidate/track-candidate.module.code.ts"}
-{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"alan/music/choosing/modules/track-candidate/track-candidate.module.test.ts"}
-{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"}
-{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"alan/music/spotify/modules/search/spotify-search.module.test.ts"}
-{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"command/pages/music/search/music-search.command.code.ts"}
-{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"command/pages/music/search/music-search.command.test.ts"}
+{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"alan/music/choosing/modules/track-candidate/track-candidate.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"alan/music/choosing/modules/track-candidate/track-candidate.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"alan/music/spotify/modules/search/spotify-search.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"command/pages/music/search/music-search.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"command/pages/music/search/music-search.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"command/pages/music/search/music-search.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-search.module.code.ts","path":"command/pages/music/search/music-search.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}

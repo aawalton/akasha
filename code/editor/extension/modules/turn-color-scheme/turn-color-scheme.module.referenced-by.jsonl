@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"turn-color-scheme.module.code.ts","path":"code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.code.ts"}
-{"propertySlug":"import","fileName":"turn-color-scheme.module.code.ts","path":"code/editor/extension/modules/service-tree-view/service-tree-view.module.code.ts"}
-{"propertySlug":"import","fileName":"turn-color-scheme.module.code.ts","path":"code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.test.ts"}
-{"propertySlug":"import","fileName":"turn-color-scheme.module.code.ts","path":"code/editor/extension/modules/work-tree-view/work-tree-view.module.code.ts"}
+{"propertySlug":"import","fileName":"turn-color-scheme.module.code.ts","path":"code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-color-scheme.module.code.ts","path":"code/editor/extension/modules/service-tree-view/service-tree-view.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-color-scheme.module.code.ts","path":"code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"turn-color-scheme.module.code.ts","path":"code/editor/extension/modules/work-tree-view/work-tree-view.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"inventory-settings-access.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-access.module.code.ts","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-settings-access.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-access.module.code.ts","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

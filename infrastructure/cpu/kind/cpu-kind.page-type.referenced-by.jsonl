@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/burned.cpu-kind.ts"}
-{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/elapsed.cpu-kind.ts"}
-{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/load.cpu-kind.ts"}
-{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/stall.cpu-kind.ts"}
-{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/throttled.cpu-kind.ts"}
-{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/utilization.cpu-kind.ts"}
+{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/burned.cpu-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/elapsed.cpu-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/load.cpu-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/stall.cpu-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/throttled.cpu-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cpu-kind.page-type.types.ts","path":"infrastructure/cpu/kind/pages/utilization.cpu-kind.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cpu/cpu.domain.ts","id":"01a09188-434b-7baf-af6f-d0957f02cb86"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.test.ts"}
-{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"alan/track/daily/modules/day-messages/day-messages.module.code.ts"}
-{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"alan/track/daily/modules/day-place/day-place.module.code.ts"}
-{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"alan/track/daily/modules/day-place/day-place.module.test.ts"}
-{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
+{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"alan/track/daily/modules/day-messages/day-messages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"alan/track/daily/modules/day-place/day-place.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"alan/track/daily/modules/day-place/day-place.module.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"akasha-day.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/track/daily/track-daily.domain.ts","id":"01a062dc-1b7f-7c99-a886-e67035171fdf"}

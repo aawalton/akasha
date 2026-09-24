@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"group-writing.change-generator.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"group-writing.change-generator.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.test.ts"}
+{"propertySlug":"import","fileName":"group-writing.change-generator.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"group-writing.change-generator.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"loaded-by","path":"code/container-recipe/container-recipe.page-type.ts","id":"01a06815-9efd-7003-8c8e-4c03b44672b2"}
 {"propertySlug":"parts","path":"code/module-property-group/module-property-group.page-type.ts","id":"01a087b6-ed4d-74ed-b30f-7c9dd49d73c0"}
 {"propertySlug":"runs-after","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.ts","id":"01a0a682-3acc-7b55-b488-e7b96ed58cac"}

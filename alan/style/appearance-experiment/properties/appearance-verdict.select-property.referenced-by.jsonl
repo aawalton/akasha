@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"appearance-verdict.select-property.ts","path":"alan/style/appearance-experiment/properties/appearance-verdict.select-property.types.ts"}
-{"propertySlug":"import","fileName":"appearance-verdict.select-property.types.ts","path":"alan/style/appearance-experiment/appearance-experiment.page-type.types.ts"}
+{"propertySlug":"import","fileName":"appearance-verdict.select-property.ts","path":"alan/style/appearance-experiment/properties/appearance-verdict.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"appearance-verdict.select-property.types.ts","path":"alan/style/appearance-experiment/appearance-experiment.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/style/appearance-experiment/appearance-experiment.page-type.ts","id":"01a06826-794a-7da2-8027-9f143d989e3d"}
 {"propertySlug":"parts","path":"alan/style/appearance-experiment/appearance-experiment.page-type.ts","id":"01a06826-794a-7da2-8027-9f143d989e3d"}

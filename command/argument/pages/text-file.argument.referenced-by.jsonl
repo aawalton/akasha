@@ -2,11 +2,11 @@
 {"propertySlug":"argument","path":"command/pages/inference/voice/clone/inference-voice-clone.command.ts","id":"01a0685e-fd50-7b15-b3e5-0d3469cc2a28"}
 {"propertySlug":"argument","path":"command/pages/inference/voice/design/inference-voice-design.command.ts","id":"01a0685e-fd50-7904-a9a9-f7caf17947c0"}
 {"propertySlug":"argument","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
-{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts"}
-{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/imessage/send/imessage-send.command.test.ts"}
-{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/inference/voice/clone/inference-voice-clone.command.code.ts"}
-{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/inference/voice/design/inference-voice-design.command.code.ts"}
-{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/sms/send/sms-send.command.code.ts"}
+{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/imessage/send/imessage-send.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/inference/voice/clone/inference-voice-clone.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/inference/voice/design/inference-voice-design.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-file.argument.ts","path":"command/pages/sms/send/sms-send.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"not-with","path":"command/pages/inference/voice/clone/inference-voice-clone.command.ts","id":"01a0685e-fd50-7b15-b3e5-0d3469cc2a28"}
 {"propertySlug":"not-with","path":"command/pages/inference/voice/design/inference-voice-design.command.ts","id":"01a0685e-fd50-7904-a9a9-f7caf17947c0"}
 {"propertySlug":"one-of","path":"command/pages/imessage/send/imessage-send.command.ts","id":"01a0685f-c8ed-7004-8926-65ffc06d2862"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"lifting.computed-property-module.code.ts","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.code.ts"}
-{"propertySlug":"import","fileName":"lifting.computed-property-module.code.ts","path":"alan/value/health/fitness/strength/modules/lifting/lifting.computed-property-module.test.ts"}
-{"propertySlug":"import","fileName":"lifting.computed-property-module.code.ts","path":"command/pages/fitness/next/modules/targeting/targeting.module.code.ts"}
+{"propertySlug":"import","fileName":"lifting.computed-property-module.code.ts","path":"alan/value/health/fitness/strength/log/properties/set-volume.computed-property.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lifting.computed-property-module.code.ts","path":"alan/value/health/fitness/strength/modules/lifting/lifting.computed-property-module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lifting.computed-property-module.code.ts","path":"command/pages/fitness/next/modules/targeting/targeting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/value/health/fitness/strength/strength.domain.ts","id":"01a0911d-062d-7eb2-a167-500195a36ae0"}

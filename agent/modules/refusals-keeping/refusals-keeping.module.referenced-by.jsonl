@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"agent/modules/refusals-keeping/refusals-keeping.module.test.ts"}
-{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
-{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}
-{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.test.ts"}
-{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}
-{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.code.ts"}
-{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"command/pages/audit/audit.command.code.ts"}
+{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"agent/modules/refusals-keeping/refusals-keeping.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"command/modules/audit-answering/audit-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusals-keeping.module.code.ts","path":"command/pages/audit/audit.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

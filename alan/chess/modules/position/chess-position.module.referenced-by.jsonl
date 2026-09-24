@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"chess-position.module.code.ts","path":"alan/chess/modules/game-loop/chess-game-loop.module.code.ts"}
-{"propertySlug":"import","fileName":"chess-position.module.code.ts","path":"alan/chess/modules/game/chess-game.module.code.ts"}
-{"propertySlug":"import","fileName":"chess-position.module.code.ts","path":"alan/web/routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.code.ts"}
-{"propertySlug":"import","fileName":"chess-position.module.code.ts","path":"command/pages/chess/play/chess-play.command.code.ts"}
+{"propertySlug":"import","fileName":"chess-position.module.code.ts","path":"alan/chess/modules/game-loop/chess-game-loop.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"chess-position.module.code.ts","path":"alan/chess/modules/game/chess-game.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"chess-position.module.code.ts","path":"alan/web/routes/alan-web-api-chess-analyze/alan-web-api-chess-analyze.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"chess-position.module.code.ts","path":"command/pages/chess/play/chess-play.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/chess/chess.domain.ts","id":"01a05be1-cb07-74d3-b8ca-8a6e71097f9b"}

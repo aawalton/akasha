@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/modules/companion-jewelry-panel-card/companion-jewelry-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/modules/global-companion-bulk-edit-tags/global-companion-bulk-edit-tags.module.code.tsx"}
-{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-list-grouping/shopping-list-grouping.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/modules/companion-jewelry-panel-card/companion-jewelry-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/modules/global-companion-bulk-edit-tags/global-companion-bulk-edit-tags.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-quality-rules.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-list-grouping/shopping-list-grouping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/companions-ui/temper-companions-ui.domain.ts","id":"01a06360-7480-7002-8dd6-aef232754744"}

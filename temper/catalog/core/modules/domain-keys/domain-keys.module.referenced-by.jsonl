@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.code.ts"}
-{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"command/pages/temper/catalog/list/temper-catalog-list.command.code.ts"}
-{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts"}
-{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"temper/catalog/core/modules/clear-target/clear-target.module.test.ts"}
-{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts"}
+{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"command/pages/temper/catalog/list/temper-catalog-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"temper/catalog/core/modules/clear-target/clear-target.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain-keys.module.code.ts","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/core/temper-catalog-core.domain.ts","id":"01a06071-0c7a-7792-ab3e-69213b5eaf92"}

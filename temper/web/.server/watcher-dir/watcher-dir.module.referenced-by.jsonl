@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/.server/served-watcher-version/served-watcher-version.module.code.ts"}
-{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/routes/api-watcher-download/api-watcher-download.route.code.ts"}
-{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/routes/api-watcher-version/api-watcher-version.route.code.ts"}
-{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/routes/api-watcher-worker-download/api-watcher-worker-download.route.code.ts"}
-{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/routes/api-watcher-worker-version/api-watcher-worker-version.route.code.ts"}
+{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/.server/served-watcher-version/served-watcher-version.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/routes/api-watcher-download/api-watcher-download.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/routes/api-watcher-version/api-watcher-version.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/routes/api-watcher-worker-download/api-watcher-worker-download.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-dir.module.code.ts","path":"temper/web/routes/api-watcher-worker-version/api-watcher-worker-version.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

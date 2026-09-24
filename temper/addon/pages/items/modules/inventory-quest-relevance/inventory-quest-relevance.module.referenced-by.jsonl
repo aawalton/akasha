@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inventory-quest-relevance.module.code.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-quest-relevance.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-match-context/inventory-explain-match-context.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-quest-relevance.module.code.ts","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-quest-relevance.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-quest-relevance.module.code.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-quest-relevance.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-match-context/inventory-explain-match-context.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-quest-relevance.module.code.ts","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-quest-relevance.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

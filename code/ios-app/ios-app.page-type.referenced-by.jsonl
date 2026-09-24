@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"ios-app.page-type.types.ts","path":"code/ios-app/pages/alanwalton/alanwalton.ios-app.ts"}
-{"propertySlug":"import","fileName":"ios-app.page-type.types.ts","path":"code/ios-app/pages/atlas/atlas.ios-app.ts"}
-{"propertySlug":"import","fileName":"ios-app.page-type.types.ts","path":"code/ios-app/pages/smilingjenny/smilingjenny.ios-app.ts"}
+{"propertySlug":"import","fileName":"ios-app.page-type.types.ts","path":"code/ios-app/pages/alanwalton/alanwalton.ios-app.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ios-app.page-type.types.ts","path":"code/ios-app/pages/atlas/atlas.ios-app.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ios-app.page-type.types.ts","path":"code/ios-app/pages/smilingjenny/smilingjenny.ios-app.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/widget/properties/app.relation-property.ts","id":"01a06420-b258-77aa-a836-0e4b20b62584"}
 {"propertySlug":"target-page-type","path":"person/device-token/properties/device-token-ios-app.relation-property.ts","id":"01a05dc7-77db-7e0b-a9c2-97d83c1cd9fd"}

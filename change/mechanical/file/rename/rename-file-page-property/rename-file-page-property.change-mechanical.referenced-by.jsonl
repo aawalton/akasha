@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"rename-file-page-property.change-mechanical.code.ts","path":"change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.test.ts"}
-{"propertySlug":"import","fileName":"rename-file-page-property.change-mechanical.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"}
-{"propertySlug":"import","fileName":"rename-file-page-property.change-mechanical.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
+{"propertySlug":"import","fileName":"rename-file-page-property.change-mechanical.code.ts","path":"change/mechanical/file/rename/rename-file-page-property/rename-file-page-property.change-mechanical.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rename-file-page-property.change-mechanical.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"rename-file-page-property.change-mechanical.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/mechanical/file/rename/change-mechanical-file-rename.domain.ts","id":"01a08238-cb67-7904-b9fc-479ade8d8cd0"}

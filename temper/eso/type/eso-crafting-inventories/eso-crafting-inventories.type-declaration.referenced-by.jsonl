@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-preview/sets-tip-preview.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-character-panel/craft-character-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-player-state/craft-player-state.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research/craft-research.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-tracking/craft-style-tracking.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-preview/sets-tip-preview.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-character-panel/craft-character-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-player-state/craft-player-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-research/craft-research.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-tracking/craft-style-tracking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-crafting-inventories.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

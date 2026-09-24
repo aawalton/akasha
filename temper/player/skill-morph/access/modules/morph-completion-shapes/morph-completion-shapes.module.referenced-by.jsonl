@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-can-level-morphs/rule-matcher-context-can-level-morphs.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/skill-morph/access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts"}
-{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/skill-morph/access/modules/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"}
+{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-can-level-morphs/rule-matcher-context-can-level-morphs.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/skill-morph/access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/skill-morph/access/modules/skill-morphs-resolver/skill-morphs-resolver.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/skill-morph/access/temper-skill-morph-access.domain.ts","id":"01a061e2-5e38-795d-b1f0-b50d142c48d5"}

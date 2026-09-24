@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"release-syncing.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.test.ts"}
-{"propertySlug":"import","fileName":"release-syncing.module.code.ts","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"release-syncing.module.code.ts","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"release-syncing.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"release-syncing.module.code.ts","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"release-syncing.module.code.ts","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.running.test.ts","typed":false,"deferred":true}
 {"propertySlug":"parts","path":"alan/music/catalog/music-catalog.domain.ts","id":"01a06238-8d2c-7f24-81f1-c8b7232268d3"}

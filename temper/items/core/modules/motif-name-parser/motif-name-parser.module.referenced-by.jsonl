@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts"}
-{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"}
-{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"}
-{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts"}
+{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"motif-name-parser.module.code.ts","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}

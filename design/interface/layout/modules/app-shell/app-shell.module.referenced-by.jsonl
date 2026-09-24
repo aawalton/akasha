@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"alan/atlas-web/modules/atlas-app-shell/atlas-app-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"alan/requests-web/modules/requests-app-shell/requests-app-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"product/archive-of-worlds/web/modules/archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"product/smilingjenny/web/modules/jenny-app-shell/jenny-app-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"product/wandering-inn-wiki/web/modules/innworld-app-shell/innworld-app-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.code.tsx"}
+{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"alan/atlas-web/modules/atlas-app-shell/atlas-app-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"alan/requests-web/modules/requests-app-shell/requests-app-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"alan/web/modules/alan-app-shell/alan-app-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"product/archive-of-worlds/web/modules/archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"product/smilingjenny/web/modules/jenny-app-shell/jenny-app-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"product/wandering-inn-wiki/web/modules/innworld-app-shell/innworld-app-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"app-shell.module.code.tsx","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/layout/design-interface-layout.domain.ts","id":"01a05b82-8b9b-7e30-9148-8941b6ccd5ff"}

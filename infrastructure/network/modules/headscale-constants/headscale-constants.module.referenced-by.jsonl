@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"headscale-constants.module.code.ts","path":"infrastructure/network/headscale/headscale.manifest.code.ts"}
-{"propertySlug":"import","fileName":"headscale-constants.module.code.ts","path":"infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.code.ts"}
-{"propertySlug":"import","fileName":"headscale-constants.module.code.ts","path":"infrastructure/network/headscale/modules/network-policies/headscale-network-policies.module.code.ts"}
-{"propertySlug":"import","fileName":"headscale-constants.module.code.ts","path":"infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.code.ts"}
+{"propertySlug":"import","fileName":"headscale-constants.module.code.ts","path":"infrastructure/network/headscale/headscale.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"headscale-constants.module.code.ts","path":"infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"headscale-constants.module.code.ts","path":"infrastructure/network/headscale/modules/network-policies/headscale-network-policies.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"headscale-constants.module.code.ts","path":"infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/network/network.domain.ts","id":"01a0658b-0f02-7e55-94d1-d612c0ed6115"}

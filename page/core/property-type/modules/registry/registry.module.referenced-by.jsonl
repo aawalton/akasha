@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/core/view/modules/apply-filters/apply-filters.module.code.ts"}
-{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"}
-{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/core/view/modules/sort-accessors/sort-accessors.module.code.ts"}
-{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/ui/component/modules/page-card-properties/page-card-properties.module.code.tsx"}
-{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.code.tsx"}
-{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/ui/component/modules/page-title-properties/page-title-properties.module.code.tsx"}
-{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/ui/component/modules/property-badge/property-badge.module.code.tsx"}
+{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/core/view/modules/apply-filters/apply-filters.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/core/view/modules/sort-accessors/sort-accessors.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/ui/component/modules/page-card-properties/page-card-properties.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/ui/component/modules/page-title-properties/page-title-properties.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"registry.module.code.ts","path":"page/ui/component/modules/property-badge/property-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/property-type/page-core-property-type.domain.ts","id":"01a071cb-236e-781b-9c7d-29bf3bd222c7"}

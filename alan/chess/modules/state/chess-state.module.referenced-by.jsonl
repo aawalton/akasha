@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"chess-state.module.code.ts","path":"alan/chess/modules/board/chess-board.module.code.tsx"}
-{"propertySlug":"import","fileName":"chess-state.module.code.ts","path":"alan/chess/modules/move-list/chess-move-list.module.code.tsx"}
+{"propertySlug":"import","fileName":"chess-state.module.code.ts","path":"alan/chess/modules/board/chess-board.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"chess-state.module.code.ts","path":"alan/chess/modules/board/chess-board.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"chess-state.module.code.ts","path":"alan/chess/modules/move-list/chess-move-list.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/chess/chess.domain.ts","id":"01a05be1-cb07-74d3-b8ca-8a6e71097f9b"}

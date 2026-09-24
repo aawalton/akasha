@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"}
-{"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"command/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"}
-{"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"}
+{"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"command/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"memory-guard.module.code.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/kernel/infrastructure-kernel.domain.ts","id":"01a05c67-00ac-7c6f-a5c8-9391ef1427fe"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"combat-action-crux-stacks.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-crux/combat-action-crux.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-crux-stacks.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-duration-args/combat-action-duration-args.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-crux-stacks.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-effect-changes/combat-action-effect-changes.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-action-crux-stacks.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-crux/combat-action-crux.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-crux-stacks.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-duration-args/combat-action-duration-args.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-crux-stacks.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-effect-changes/combat-action-effect-changes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

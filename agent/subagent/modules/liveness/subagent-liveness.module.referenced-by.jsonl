@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/modules/stray-process/stray-process.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/modules/stray-process/stray-process.module.test.ts"}
-{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/liveness/subagent-liveness.module.test.ts"}
-{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts"}
+{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/modules/stray-process/stray-process.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/modules/stray-process/stray-process.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/liveness/subagent-liveness.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-liveness.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}

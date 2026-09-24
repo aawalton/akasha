@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"command-measuring.module.code.ts","path":"command/pages/measure/command/measure-command.command.code.ts"}
-{"propertySlug":"import","fileName":"command-measuring.module.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test.ts"}
-{"propertySlug":"import","fileName":"command-measuring.module.test-fixtures.ts","path":"command/pages/measure/command/measure-command.command.test.ts"}
-{"propertySlug":"import","fileName":"command-measuring.module.test-fixtures.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test.ts"}
+{"propertySlug":"import","fileName":"command-measuring.module.code.ts","path":"command/pages/measure/command/measure-command.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-measuring.module.code.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-measuring.module.test-fixtures.ts","path":"command/pages/measure/command/measure-command.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-measuring.module.test-fixtures.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/measure/command/measure-command.command.ts","id":"01a080df-5446-793b-a0e0-ea1f3b757ca8"}

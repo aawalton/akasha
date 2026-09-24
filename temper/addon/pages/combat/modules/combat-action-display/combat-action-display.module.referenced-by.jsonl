@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"combat-action-display.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-display.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-stack-labels/combat-action-stack-labels.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-display.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-widget/combat-action-widget.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-action-display.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-display.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-stack-labels/combat-action-stack-labels.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-display.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-widget/combat-action-widget.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

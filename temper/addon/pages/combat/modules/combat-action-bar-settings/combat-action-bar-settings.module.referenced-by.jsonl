@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"combat-action-bar-settings.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar-patch/combat-action-bar-patch.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-bar-settings.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-action-bar-settings.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-vampire-view/combat-action-vampire-view.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-action-bar-settings.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar-patch/combat-action-bar-patch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-bar-settings.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-action-bar-settings.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-vampire-view/combat-action-vampire-view.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

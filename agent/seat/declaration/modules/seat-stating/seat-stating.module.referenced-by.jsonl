@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-stating.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}

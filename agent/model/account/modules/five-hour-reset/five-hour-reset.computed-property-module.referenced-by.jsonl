@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"five-hour-reset.computed-property-module.code.ts","path":"agent/model/account/modules/five-hour-reset/five-hour-reset.computed-property-module.test.ts"}
-{"propertySlug":"import","fileName":"five-hour-reset.computed-property-module.code.ts","path":"agent/model/account/modules/measuring/model-account-measuring.module.code.ts"}
-{"propertySlug":"import","fileName":"five-hour-reset.computed-property-module.code.ts","path":"agent/model/account/properties/effective-five-hour-resets-at.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"five-hour-reset.computed-property-module.code.ts","path":"agent/model/account/modules/five-hour-reset/five-hour-reset.computed-property-module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"five-hour-reset.computed-property-module.code.ts","path":"agent/model/account/modules/measuring/model-account-measuring.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"five-hour-reset.computed-property-module.code.ts","path":"agent/model/account/properties/effective-five-hour-resets-at.computed-property.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}

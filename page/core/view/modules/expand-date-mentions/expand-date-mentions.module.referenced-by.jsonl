@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/page.page-type.page-card-component.code.tsx"}
-{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/page.page-type.page-row-component.code.tsx"}
-{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"}
-{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"}
+{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/page.page-type.page-card-component.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/page.page-type.page-row-component.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"expand-date-mentions.module.code.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/view/page-core-view.domain.ts","id":"01a071cb-580b-710d-a9ae-c371fe8df6c3"}

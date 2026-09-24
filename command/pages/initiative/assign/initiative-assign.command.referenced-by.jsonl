@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"initiative-assign.command.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.test.ts"}
-{"propertySlug":"import","fileName":"initiative-assign.command.ts","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts"}
-{"propertySlug":"import","fileName":"initiative-assign.command.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}
+{"propertySlug":"import","fileName":"initiative-assign.command.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"initiative-assign.command.ts","path":"code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"initiative-assign.command.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/initiative/initiative.namespace.ts","id":"01a082e8-a8ea-7b0b-a8b3-f6c4e7ac5d19"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.code.ts"}
-{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}
-{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/index/modules/keeping/index-keeping.module.code.ts"}
-{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/index/modules/keeping/index-keeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

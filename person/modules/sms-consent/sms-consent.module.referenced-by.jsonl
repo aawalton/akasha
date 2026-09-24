@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"sms-consent.module.code.ts","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts"}
-{"propertySlug":"import","fileName":"sms-consent.module.code.ts","path":"person/modules/sms-consent/sms-consent.module.test.ts"}
-{"propertySlug":"import","fileName":"sms-consent.module.code.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx"}
-{"propertySlug":"import","fileName":"sms-consent.module.code.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.test.tsx"}
+{"propertySlug":"import","fileName":"sms-consent.module.code.ts","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sms-consent.module.code.ts","path":"person/modules/sms-consent/sms-consent.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sms-consent.module.code.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sms-consent.module.code.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}

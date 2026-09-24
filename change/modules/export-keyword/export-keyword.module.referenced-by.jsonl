@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"export-keyword.module.code.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.code.ts"}
-{"propertySlug":"import","fileName":"export-keyword.module.code.ts","path":"change/mechanical/file-content/remove/remove-export-keyword/remove-export-keyword.change-mechanical-file-content.code.ts"}
-{"propertySlug":"import","fileName":"export-keyword.module.code.ts","path":"change/modules/export-keyword/export-keyword.module.test.ts"}
+{"propertySlug":"import","fileName":"export-keyword.module.code.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"export-keyword.module.code.ts","path":"change/mechanical/file-content/remove/remove-export-keyword/remove-export-keyword.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"export-keyword.module.code.ts","path":"change/modules/export-keyword/export-keyword.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

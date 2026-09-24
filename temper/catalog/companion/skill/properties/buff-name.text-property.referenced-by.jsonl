@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"buff-name.text-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.types.ts"}
+{"propertySlug":"import","fileName":"buff-name.text-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.ts","id":"01a06196-037a-7895-82cf-ee84fd21570f"}
 {"propertySlug":"parts","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.ts","id":"01a05fcf-90fc-73a8-ad6a-e3869228a309"}

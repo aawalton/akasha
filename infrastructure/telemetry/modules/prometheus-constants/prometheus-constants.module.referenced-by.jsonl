@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts"}
-{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.code.ts"}
-{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts"}
-{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/prometheus/modules/manifests/prometheus-manifests.module.code.ts"}
-{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/prometheus/prometheus.manifest.code.ts"}
+{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/prometheus/modules/manifests/prometheus-manifests.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"prometheus-constants.module.code.ts","path":"infrastructure/telemetry/prometheus/prometheus.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/telemetry/telemetry.domain.ts","id":"01a0658b-0f02-79eb-aed4-e7e8b92bc117"}

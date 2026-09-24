@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"authority-certificate.file-property.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}
-{"propertySlug":"import","fileName":"authority-certificate.file-property.types.ts","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.types.ts"}
+{"propertySlug":"import","fileName":"authority-certificate.file-property.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"authority-certificate.file-property.types.ts","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts","id":"01a0685d-ab5d-7bd4-946d-fa56b367a1a2"}
 {"propertySlug":"parts","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts","id":"01a0685d-ab5d-7bd4-946d-fa56b367a1a2"}

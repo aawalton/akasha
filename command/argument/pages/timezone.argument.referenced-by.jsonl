@@ -1,6 +1,6 @@
 {"propertySlug":"argument","path":"command/pages/google/calendar/event/create/google-calendar-event-create.command.ts","id":"01a08cf5-d6aa-73ba-98ee-cf689f633831"}
 {"propertySlug":"argument","path":"command/pages/google/calendar/event/update/google-calendar-event-update.command.ts","id":"01a08cf6-2498-7264-92b4-a12c680c958c"}
-{"propertySlug":"import","fileName":"timezone.argument.ts","path":"command/pages/google/calendar/event/create/google-calendar-event-create.command.code.ts"}
-{"propertySlug":"import","fileName":"timezone.argument.ts","path":"command/pages/google/calendar/event/create/google-calendar-event-create.command.test.ts"}
-{"propertySlug":"import","fileName":"timezone.argument.ts","path":"command/pages/google/calendar/event/update/google-calendar-event-update.command.code.ts"}
-{"propertySlug":"import","fileName":"timezone.argument.ts","path":"command/pages/google/calendar/event/update/google-calendar-event-update.command.test.ts"}
+{"propertySlug":"import","fileName":"timezone.argument.ts","path":"command/pages/google/calendar/event/create/google-calendar-event-create.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"timezone.argument.ts","path":"command/pages/google/calendar/event/create/google-calendar-event-create.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"timezone.argument.ts","path":"command/pages/google/calendar/event/update/google-calendar-event-update.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"timezone.argument.ts","path":"command/pages/google/calendar/event/update/google-calendar-event-update.command.test.ts","typed":false,"deferred":false}

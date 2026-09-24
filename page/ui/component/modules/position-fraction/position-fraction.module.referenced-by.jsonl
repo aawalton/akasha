@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/reader-char-table/reader-char-table.module.code.ts"}
-{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"}
-{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/use-read-end-on-scroll/use-read-end-on-scroll.module.code.ts"}
-{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/use-reader-progress-writer/use-reader-progress-writer.module.code.ts"}
-{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"}
+{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/reader-char-table/reader-char-table.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/use-read-end-on-scroll/use-read-end-on-scroll.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/use-reader-progress-writer/use-reader-progress-writer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"position-fraction.module.code.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

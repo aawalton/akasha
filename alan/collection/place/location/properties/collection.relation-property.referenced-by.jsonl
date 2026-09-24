@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"collection.relation-property.types.ts","path":"alan/collection/place/location-deal/location-deal.page-type.types.ts"}
-{"propertySlug":"import","fileName":"collection.relation-property.types.ts","path":"alan/collection/place/location/location.page-type.types.ts"}
+{"propertySlug":"import","fileName":"collection.relation-property.types.ts","path":"alan/collection/place/location-deal/location-deal.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"collection.relation-property.types.ts","path":"alan/collection/place/location/location.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/collection/place/location-deal/location-deal.page-type.ts","id":"01a06585-5fc5-715e-850c-9b88e5597728"}
 {"propertySlug":"page-property","path":"alan/collection/place/location/location.page-type.ts","id":"01a06583-acfb-78cd-80a3-4b5b464dc8ff"}
 {"propertySlug":"parts","path":"alan/collection/place/location/location.page-type.ts","id":"01a06583-acfb-78cd-80a3-4b5b464dc8ff"}

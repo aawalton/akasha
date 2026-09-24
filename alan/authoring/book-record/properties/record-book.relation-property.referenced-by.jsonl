@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"record-book.relation-property.types.ts","path":"alan/authoring/book-record/book-record.page-type.types.ts"}
+{"propertySlug":"import","fileName":"record-book.relation-property.types.ts","path":"alan/authoring/book-record/book-record.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/authoring/book-record/book-record.page-type.ts","id":"01a0657d-b91d-7500-8bc9-4bbfb71443f8"}
 {"propertySlug":"parts","path":"alan/authoring/book-record/book-record.page-type.ts","id":"01a0657d-b91d-7500-8bc9-4bbfb71443f8"}

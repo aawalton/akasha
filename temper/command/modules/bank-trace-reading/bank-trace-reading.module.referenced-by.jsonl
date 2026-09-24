@@ -1,4 +1,6 @@
-{"propertySlug":"import","fileName":"bank-trace-reading.module.code.ts","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.code.ts"}
-{"propertySlug":"import","fileName":"bank-trace-reading.module.code.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts"}
-{"propertySlug":"import","fileName":"bank-trace-reading.module.code.ts","path":"temper/command/modules/venue-trace-saying/venue-trace-saying.module.code.ts"}
+{"propertySlug":"import","fileName":"bank-trace-reading.module.code.ts","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"bank-trace-reading.module.code.ts","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"bank-trace-reading.module.code.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"bank-trace-reading.module.code.ts","path":"command/pages/temper/inventory/venue-trace/temper-inventory-venue-trace.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"bank-trace-reading.module.code.ts","path":"temper/command/modules/venue-trace-saying/venue-trace-saying.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

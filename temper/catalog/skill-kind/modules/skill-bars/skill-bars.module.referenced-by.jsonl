@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"skill-bars.module.code.ts","path":"temper/player/character/skill/modules/query-shapes/query-shapes.module.code.ts"}
-{"propertySlug":"import","fileName":"skill-bars.module.code.ts","path":"temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-bars.module.code.ts","path":"temper/player/character/skill/modules/query-shapes/query-shapes.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-bars.module.code.ts","path":"temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill-kind/temper-skill-kind.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}

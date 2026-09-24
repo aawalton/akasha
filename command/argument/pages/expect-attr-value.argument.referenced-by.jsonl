@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.ts","id":"01a06862-06c8-7001-8a4c-2018f029da13"}
-{"propertySlug":"import","fileName":"expect-attr-value.argument.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.code.ts"}
-{"propertySlug":"import","fileName":"expect-attr-value.argument.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.test.ts"}
+{"propertySlug":"import","fileName":"expect-attr-value.argument.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"expect-attr-value.argument.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.test.ts","typed":false,"deferred":false}

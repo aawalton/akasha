@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-init/combat-core-init.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-numbers/combat-ui-chat-numbers.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-log-update/combat-ui-log-update.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-window/combat-ui-window.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-init/combat-core-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu/combat-menu.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-chat-numbers/combat-ui-chat-numbers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-log-update/combat-ui-log-update.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-core-events.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-window/combat-ui-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

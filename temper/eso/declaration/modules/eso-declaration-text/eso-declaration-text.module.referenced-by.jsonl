@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"eso-declaration-text.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
-{"propertySlug":"import","fileName":"eso-declaration-text.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-text/eso-declaration-text.module.test.ts"}
+{"propertySlug":"import","fileName":"eso-declaration-text.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-declaration-text.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-text/eso-declaration-text.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/declaration/temper-eso-declaration.domain.ts","id":"01a0673e-3ddf-7000-a6f4-66fa0861fb9d"}

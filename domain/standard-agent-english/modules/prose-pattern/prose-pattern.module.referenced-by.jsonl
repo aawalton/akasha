@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"prose-pattern.module.code.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.test.ts"}
-{"propertySlug":"import","fileName":"prose-pattern.module.code.ts","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.code.ts"}
-{"propertySlug":"import","fileName":"prose-pattern.module.code.ts","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.code.ts"}
-{"propertySlug":"import","fileName":"prose-pattern.module.code.ts","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.test.ts"}
-{"propertySlug":"import","fileName":"prose-pattern.module.test-fixtures.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.test.ts"}
+{"propertySlug":"import","fileName":"prose-pattern.module.code.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"prose-pattern.module.code.ts","path":"domain/standard-agent-english/modules/prose-restating/prose-restating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"prose-pattern.module.code.ts","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"prose-pattern.module.code.ts","path":"domain/standard-agent-english/modules/prose-rewrite/prose-rewrite.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"prose-pattern.module.test-fixtures.ts","path":"domain/standard-agent-english/modules/prose-pattern/prose-pattern.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"domain/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}

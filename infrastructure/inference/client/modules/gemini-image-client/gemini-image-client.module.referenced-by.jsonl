@@ -1,2 +1,3 @@
-{"propertySlug":"import","fileName":"gemini-image-client.module.code.ts","path":"command/pages/inference/edit/inference-edit.command.code.ts"}
+{"propertySlug":"import","fileName":"gemini-image-client.module.code.ts","path":"command/pages/inference/edit/inference-edit.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"gemini-image-client.module.code.ts","path":"command/pages/inference/edit/inference-edit.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/client/inference-client.domain.ts","id":"01a0682d-8f07-7000-ab6b-b7ebbf0863a0"}

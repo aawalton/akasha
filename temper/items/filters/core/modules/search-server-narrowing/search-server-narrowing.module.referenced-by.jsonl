@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-armor-weight-filter/search-armor-weight-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-equip-slot-filter/search-equip-slot-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-item-type-filter/search-item-type-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-level-filter/search-level-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-quality-filter/search-quality-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-weapon-type-filter/search-weapon-type-filter.module.code.ts"}
+{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-armor-weight-filter/search-armor-weight-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-equip-slot-filter/search-equip-slot-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-item-type-filter/search-item-type-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-level-filter/search-level-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-quality-filter/search-quality-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"search-server-narrowing.module.code.ts","path":"temper/items/filters/core/modules/search-weapon-type-filter/search-weapon-type-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/filters/core/temper-items-filters-core.domain.ts","id":"01a0613a-e0b3-78d9-aaac-decd150b1b76"}

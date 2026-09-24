@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.code.ts"}
-{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.test.ts"}
-{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"alan/harness/modules/router-app-serving/router-app-serving.module.test.ts"}
-{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-following/answer-following.module.code.ts"}
-{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts"}
-{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"page/access/modules/file-read/file-read.module.code.ts"}
-{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"page/access/modules/read-gate/read-gate.module.test.ts"}
+{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"alan/harness/modules/reading-in-flight/reading-in-flight.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"alan/harness/modules/router-app-serving/router-app-serving.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-following/answer-following.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"page/access/modules/file-read/file-read.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"read-gate.module.code.ts","path":"page/access/modules/read-gate/read-gate.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

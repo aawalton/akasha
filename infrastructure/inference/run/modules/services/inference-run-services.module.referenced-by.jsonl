@@ -1,5 +1,6 @@
-{"propertySlug":"import","fileName":"inference-run-services.module.code.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts"}
-{"propertySlug":"import","fileName":"inference-run-services.module.code.ts","path":"command/pages/inference/voice/design/inference-voice-design.command.code.ts"}
-{"propertySlug":"import","fileName":"inference-run-services.module.code.ts","path":"infrastructure/inference/run/modules/record/inference-run-record.module.code.ts"}
-{"propertySlug":"import","fileName":"inference-run-services.module.code.ts","path":"infrastructure/inference/run/modules/store/inference-run-store.module.code.ts"}
+{"propertySlug":"import","fileName":"inference-run-services.module.code.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-run-services.module.code.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inference-run-services.module.code.ts","path":"command/pages/inference/voice/design/inference-voice-design.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inference-run-services.module.code.ts","path":"infrastructure/inference/run/modules/record/inference-run-record.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-run-services.module.code.ts","path":"infrastructure/inference/run/modules/store/inference-run-store.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/run/inference-run.page-type.ts","id":"019ea7d8-5e16-7237-b2e0-4ce47633aa58"}

@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"alan/atlas-web/routes/atlas-api-pages/atlas-api-pages.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"alan/requests-web/routes/requests-api-pages/requests-api-pages.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts"}
-{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-pages/archive-of-worlds-api-pages.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-pages/innworld-api-pages.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"temper/web/routes/temper-api-pages/temper-api-pages.route.code.ts"}
+{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"alan/atlas-web/routes/atlas-api-pages/atlas-api-pages.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"alan/requests-web/routes/requests-api-pages/requests-api-pages.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-pages/archive-of-worlds-api-pages.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-pages/innworld-api-pages.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-pages.module.code.ts","path":"temper/web/routes/temper-api-pages/temper-api-pages.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}

@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/card-property-columns/card-property-columns.module.code.ts"}
-{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-list-section/page-list-section.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-table-colgroup/page-table-colgroup.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-table-header/page-table-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-table-widths/page-table-widths.module.code.ts"}
-{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-table/page-table.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/card-property-columns/card-property-columns.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-list-section/page-list-section.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-table-colgroup/page-table-colgroup.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-table-header/page-table-header.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-table-widths/page-table-widths.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-table-shared.module.code.ts","path":"page/ui/component/modules/page-table/page-table.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

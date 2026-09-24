@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"measure-command.command.code.ts","path":"command/pages/measure/command/measure-command.command.test.ts"}
-{"propertySlug":"import","fileName":"measure-command.command.ts","path":"command/pages/measure/command/measure-command.command.code.ts"}
-{"propertySlug":"import","fileName":"measure-command.command.ts","path":"command/pages/measure/command/measure-command.command.test.ts"}
+{"propertySlug":"import","fileName":"measure-command.command.code.ts","path":"command/pages/measure/command/measure-command.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"measure-command.command.ts","path":"command/pages/measure/command/measure-command.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"measure-command.command.ts","path":"command/pages/measure/command/measure-command.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/measure/measure.namespace.ts","id":"01a0796e-6072-74f0-b75e-599b54481bb7"}

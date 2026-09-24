@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"change-prose-pattern.change-agent.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"change-prose-pattern.change-agent.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"}
-{"propertySlug":"import","fileName":"change-prose-pattern.change-agent.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
+{"propertySlug":"import","fileName":"change-prose-pattern.change-agent.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-prose-pattern.change-agent.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-prose-pattern.change-agent.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/agent/prose/change-agent-prose.domain.ts","id":"01a0824b-410e-7fc8-a0c7-b605da7d2787"}

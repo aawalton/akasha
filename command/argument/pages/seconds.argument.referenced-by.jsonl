@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/model/gateway/start/model-gateway-start.command.ts","id":"01a069b9-74bd-7486-be0b-a850ee00342c"}
 {"propertySlug":"argument","path":"command/pages/music/seek/music-seek.command.ts","id":"01a0a021-9251-7e44-81d1-54a35f38c12c"}
-{"propertySlug":"import","fileName":"seconds.argument.ts","path":"command/pages/model/gateway/start/model-gateway-start.command.code.ts"}
-{"propertySlug":"import","fileName":"seconds.argument.ts","path":"command/pages/music/seek/music-seek.command.code.ts"}
+{"propertySlug":"import","fileName":"seconds.argument.ts","path":"command/pages/model/gateway/start/model-gateway-start.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seconds.argument.ts","path":"command/pages/music/seek/music-seek.command.code.ts","typed":false,"deferred":false}

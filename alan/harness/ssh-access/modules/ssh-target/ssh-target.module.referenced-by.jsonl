@@ -1,6 +1,7 @@
-{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"alan/harness/health-sample-import/modules/laptop-host/laptop-host.module.code.ts"}
-{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"alan/harness/imessage/modules/host/imessage-host.module.code.ts"}
-{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts"}
-{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts"}
-{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"}
+{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"alan/harness/health-sample-import/modules/laptop-host/laptop-host.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"alan/harness/imessage/modules/host/imessage-host.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ssh-target.module.code.ts","path":"infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/ssh-access/ssh-access.domain.ts","id":"01a05c2f-0f02-7fb7-aaea-fff4b50ef0c6"}

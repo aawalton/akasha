@@ -1,6 +1,7 @@
-{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/candidate/monarch-candidate.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/rule-amounts/monarch-rule-amounts.module.test.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/rule-clauses/monarch-rule-clauses.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/rule-describe/monarch-rule-describe.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"}
+{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/candidate/monarch-candidate.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/rule-amounts/monarch-rule-amounts.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/rule-clauses/monarch-rule-clauses.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/rule-describe/monarch-rule-describe.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/rules/monarch-rules.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-amounts.module.code.ts","path":"alan/harness/monarch/modules/rules/monarch-rules.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}

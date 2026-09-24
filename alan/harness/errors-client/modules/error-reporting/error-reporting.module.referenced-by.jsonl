@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/atlas-web/root.tsx"}
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"}
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/requests-web/root.tsx"}
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/web/root.tsx"}
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"}
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"product/archive-of-worlds/web/root.tsx"}
-{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"temper/web/root.tsx"}
+{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/atlas-web/root.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/requests-web/root.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"alan/web/root.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"product/archive-of-worlds/web/root.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"error-reporting.module.code.ts","path":"temper/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/errors-client/errors-client.domain.ts","id":"01a05c89-6033-7676-ba14-f9bfd36ca899"}

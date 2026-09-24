@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/capture/player-answer/modules/player-askings/player-askings.data-table.ts"}
-{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.data-table.ts"}
-{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/color/modules/engine-colors/engine-colors.data-table.ts"}
-{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/constant/modules/engine-constants/engine-constants.data-table.ts"}
-{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/return/modules/engine-answers/engine-answers.data-table.ts"}
-{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/return/modules/engine-returns/engine-returns.data-table.ts"}
-{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/string/modules/engine-strings/engine-strings.data-table.ts"}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/capture/player-answer/modules/player-askings/player-askings.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-places/dungeon-champion-places.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/color/modules/engine-colors/engine-colors.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/constant/modules/engine-constants/engine-constants.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/return/modules/engine-answers/engine-answers.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/return/modules/engine-returns/engine-returns.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/eso/string/modules/engine-strings/engine-strings.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"mime-message.module.code.ts","path":"alan/google/email/modules/email-shapes/email-shapes.module.code.ts"}
-{"propertySlug":"import","fileName":"mime-message.module.code.ts","path":"alan/google/email/modules/gmail-attachments/gmail-attachments.module.code.ts"}
-{"propertySlug":"import","fileName":"mime-message.module.code.ts","path":"alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"}
-{"propertySlug":"import","fileName":"mime-message.module.code.ts","path":"alan/google/email/modules/gmail-schema/gmail-schema.module.code.ts"}
+{"propertySlug":"import","fileName":"mime-message.module.code.ts","path":"alan/google/email/modules/email-shapes/email-shapes.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mime-message.module.code.ts","path":"alan/google/email/modules/gmail-attachments/gmail-attachments.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mime-message.module.code.ts","path":"alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mime-message.module.code.ts","path":"alan/google/email/modules/gmail-schema/gmail-schema.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}

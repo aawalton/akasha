@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"mcp-disable-reconcile.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.test.ts"}
-{"propertySlug":"import","fileName":"mcp-disable-reconcile.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/supervisor-mcp/supervisor-mcp.module.code.ts"}
+{"propertySlug":"import","fileName":"mcp-disable-reconcile.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mcp-disable-reconcile.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/supervisor-mcp/supervisor-mcp.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-mcp/seat-agent-mcp.domain.ts","id":"01a09c6d-1a8a-71ca-a5ab-1b64efadb14f"}

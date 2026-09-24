@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-currency/inventory-currency.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-furnishing-scanner/inventory-furnishing-scanner.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-ops/inventory-ops.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-currency/inventory-currency.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-furnishing-scanner/inventory-furnishing-scanner.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-ops/inventory-ops.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-location-keys.module.code.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

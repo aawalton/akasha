@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/engine/core/modules/beat-schema/beat-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/engine/core/modules/prose-windows/prose-windows.module.code.ts"}
-{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts"}
-{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/ui/modules/client-story-session/client-story-session.module.code.ts"}
-{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/engine/core/modules/beat-schema/beat-schema.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/engine/core/modules/prose-windows/prose-windows.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/ui/modules/client-story-session/client-story-session.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/ui/modules/system-choice-card/system-choice-card.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"system-window-schema.module.code.ts","path":"story/ui/modules/system-window-card/system-window-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}

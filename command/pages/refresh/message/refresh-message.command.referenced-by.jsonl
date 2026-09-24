@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"refresh-message.command.code.ts","path":"command/pages/refresh/message/refresh-message.command.test.ts"}
-{"propertySlug":"import","fileName":"refresh-message.command.ts","path":"command/pages/refresh/message/refresh-message.command.code.ts"}
+{"propertySlug":"import","fileName":"refresh-message.command.code.ts","path":"command/pages/refresh/message/refresh-message.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refresh-message.command.ts","path":"command/pages/refresh/message/refresh-message.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/refresh/refresh.namespace.ts","id":"01a08209-80a1-7e1a-9c9e-2adeb0bbc194"}

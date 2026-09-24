@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"rule-card.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-category-rules-panel/inventory-category-rules-panel.module.code.tsx"}
-{"propertySlug":"import","fileName":"rule-card.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-character-rules-panel/inventory-character-rules-panel.module.code.tsx"}
-{"propertySlug":"import","fileName":"rule-card.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-companion-rules-panel/inventory-companion-rules-panel.module.code.tsx"}
+{"propertySlug":"import","fileName":"rule-card.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-category-rules-panel/inventory-category-rules-panel.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-card.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-character-rules-panel/inventory-character-rules-panel.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-card.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-companion-rules-panel/inventory-companion-rules-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/player-inventory-management-ui/temper-player-inventory-management-ui.domain.ts","id":"01a0636c-5da1-77be-aadf-aea8caa7006f"}

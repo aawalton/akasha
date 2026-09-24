@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"is-price-entry.module.code.ts","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"}
-{"propertySlug":"import","fileName":"is-price-entry.module.code.ts","path":"temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"}
-{"propertySlug":"import","fileName":"is-price-entry.module.code.ts","path":"temper/economy/trading/pricing/modules/currency-price-lookup/currency-price-lookup.module.code.ts"}
+{"propertySlug":"import","fileName":"is-price-entry.module.code.ts","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-price-entry.module.code.ts","path":"temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-price-entry.module.code.ts","path":"temper/economy/trading/pricing/modules/currency-price-lookup/currency-price-lookup.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/economy/trading/pricing/temper-trading-pricing.domain.ts","id":"01a0609b-e59c-7c6b-906c-4ab055fc9039"}

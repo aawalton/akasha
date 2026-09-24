@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"contribution-point-balance.module.code.ts","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.code.ts"}
-{"propertySlug":"import","fileName":"contribution-point-balance.module.code.ts","path":"product/kofi/contribution-point/modules/balance/contribution-point-balance.module.test.ts"}
-{"propertySlug":"import","fileName":"contribution-point-balance.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"contribution-point-balance.module.code.ts","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contribution-point-balance.module.code.ts","path":"product/kofi/contribution-point/modules/balance/contribution-point-balance.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contribution-point-balance.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"product/kofi/contribution-point/contribution-point.domain.ts","id":"01a0b78c-6b30-788a-85a1-935f3a46a786"}

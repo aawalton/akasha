@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"temper-craft-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/pages/blacksmithing.temper-craft-type.ts"}
-{"propertySlug":"import","fileName":"temper-craft-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/pages/clothing.temper-craft-type.ts"}
-{"propertySlug":"import","fileName":"temper-craft-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/pages/jewelry-crafting.temper-craft-type.ts"}
-{"propertySlug":"import","fileName":"temper-craft-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/pages/woodworking.temper-craft-type.ts"}
+{"propertySlug":"import","fileName":"temper-craft-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/pages/blacksmithing.temper-craft-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-craft-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/pages/clothing.temper-craft-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-craft-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/pages/jewelry-crafting.temper-craft-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-craft-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/pages/woodworking.temper-craft-type.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
 {"propertySlug":"target-page-type","path":"temper/catalog/pursuit/temper-research-line/properties/research-line-craft.relation-property.ts","id":"01a0cae1-5ebb-7a80-8698-3ddc1defc59a"}

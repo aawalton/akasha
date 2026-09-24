@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inventory-plan.module.code.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-plan.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-plan.module.code.ts","path":"temper/addon/pages/items/modules/inventory-public-api/inventory-public-api.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-plan.module.code.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-plan.module.code.ts","path":"temper/addon/pages/items/modules/inventory-action-panel/inventory-action-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-plan.module.code.ts","path":"temper/addon/pages/items/modules/inventory-entry/inventory-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-plan.module.code.ts","path":"temper/addon/pages/items/modules/inventory-public-api/inventory-public-api.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-plan.module.code.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

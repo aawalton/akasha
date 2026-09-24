@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"lore-library-catalog.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/lore-library-catalog-capture/lore-library-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"lore-library-catalog.module.code.ts","path":"temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.test.ts"}
-{"propertySlug":"import","fileName":"lore-library-catalog.module.code.ts","path":"temper/catalog/core/modules/catalog-payload/catalog-payload.module.code.ts"}
+{"propertySlug":"import","fileName":"lore-library-catalog.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/lore-library-catalog-capture/lore-library-catalog-capture.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore-library-catalog.module.code.ts","path":"temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore-library-catalog.module.code.ts","path":"temper/catalog/core/modules/catalog-payload/catalog-payload.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/capture/shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}

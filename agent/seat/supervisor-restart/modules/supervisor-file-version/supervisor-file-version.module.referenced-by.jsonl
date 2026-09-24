@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"supervisor-file-version.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-file-version.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-file-version.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"supervisor-file-version.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor-restart/supervisor-restart.domain.ts","id":"01a08865-01fe-7c5a-ad92-7c42a01e7c23"}

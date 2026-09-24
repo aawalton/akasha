@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"agent/seat/seat.page-type.page-component.code.tsx"}
-{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"design/interface/layout/modules/page-layout/page-layout.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"design/interface/system/modules/layout-tab/layout-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/editable-title/editable-title.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"agent/seat/seat.page-type.page-component.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"design/interface/layout/modules/page-layout/page-layout.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"design/interface/system/modules/layout-tab/layout-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/editable-title/editable-title.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"temper/web/modules/character-editor-header/character-editor-header.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-layout-data.module.code.ts","path":"temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/layout/design-interface-layout.domain.ts","id":"01a05b82-8b9b-7e30-9148-8941b6ccd5ff"}

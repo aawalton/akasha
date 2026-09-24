@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"feature-request-standing.select-property.ts","path":"product/kofi/feature-request/properties/feature-request-standing.select-property.types.ts"}
-{"propertySlug":"import","fileName":"feature-request-standing.select-property.types.ts","path":"product/kofi/feature-request/feature-request.page-type.types.ts"}
+{"propertySlug":"import","fileName":"feature-request-standing.select-property.ts","path":"product/kofi/feature-request/properties/feature-request-standing.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"feature-request-standing.select-property.types.ts","path":"product/kofi/feature-request/feature-request.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"product/kofi/feature-request/feature-request.page-type.ts","id":"01a0b79b-96bb-779c-bc1e-65ffdce6bfe0"}
 {"propertySlug":"parts","path":"product/kofi/feature-request/feature-request.page-type.ts","id":"01a0b79b-96bb-779c-bc1e-65ffdce6bfe0"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"installed-addons.module.code.ts","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.code.ts"}
-{"propertySlug":"import","fileName":"installed-addons.module.code.ts","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"}
-{"propertySlug":"import","fileName":"installed-addons.module.code.ts","path":"temper/addon/community/modules/install-named-addon/install-named-addon.module.code.ts"}
-{"propertySlug":"import","fileName":"installed-addons.module.code.ts","path":"temper/addon/community/modules/installed-addons/installed-addons.module.test.ts"}
+{"propertySlug":"import","fileName":"installed-addons.module.code.ts","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"installed-addons.module.code.ts","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"installed-addons.module.code.ts","path":"temper/addon/community/modules/install-named-addon/install-named-addon.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"installed-addons.module.code.ts","path":"temper/addon/community/modules/installed-addons/installed-addons.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/community/temper-addon-community.domain.ts","id":"01a06069-b78d-7c82-89e1-869e95dd5dc4"}

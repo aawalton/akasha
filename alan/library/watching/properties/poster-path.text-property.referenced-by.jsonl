@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"poster-path.text-property.types.ts","path":"alan/library/watching/movie/movie.page-type.types.ts"}
-{"propertySlug":"import","fileName":"poster-path.text-property.types.ts","path":"alan/library/watching/season/season.page-type.types.ts"}
-{"propertySlug":"import","fileName":"poster-path.text-property.types.ts","path":"alan/library/watching/show/show.page-type.types.ts"}
+{"propertySlug":"import","fileName":"poster-path.text-property.types.ts","path":"alan/library/watching/movie/movie.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"poster-path.text-property.types.ts","path":"alan/library/watching/season/season.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"poster-path.text-property.types.ts","path":"alan/library/watching/show/show.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/library/watching/movie/movie.page-type.ts","id":"01a06599-ee09-7005-82e2-c1f83dc51c09"}
 {"propertySlug":"page-property","path":"alan/library/watching/season/season.page-type.ts","id":"01a06599-ee09-7003-a52a-e6a01a72f7da"}
 {"propertySlug":"page-property","path":"alan/library/watching/show/show.page-type.ts","id":"01a06599-ee09-7002-9418-3960f44ce6b4"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"proposition-status.select-property.ts","path":"alan/value/learn/mathematics/proposition/properties/proposition-status.select-property.types.ts"}
-{"propertySlug":"import","fileName":"proposition-status.select-property.types.ts","path":"alan/value/learn/mathematics/proposition/proposition.page-type.types.ts"}
+{"propertySlug":"import","fileName":"proposition-status.select-property.ts","path":"alan/value/learn/mathematics/proposition/properties/proposition-status.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"proposition-status.select-property.types.ts","path":"alan/value/learn/mathematics/proposition/proposition.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/value/learn/mathematics/proposition/proposition.page-type.ts","id":"01a06575-c2ab-7655-98f1-b3163771f0dc"}
 {"propertySlug":"parts","path":"alan/value/learn/mathematics/proposition/proposition.page-type.ts","id":"01a06575-c2ab-7655-98f1-b3163771f0dc"}

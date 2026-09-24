@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"up-from.module.code.ts","path":"code/ios-app/modules/decode-harness-script/decode-harness-script.module.code.ts"}
-{"propertySlug":"import","fileName":"up-from.module.code.ts","path":"code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"up-from.module.code.ts","path":"infrastructure/cluster/operation/mirror-base-images/mirror-base-images.shell-script.scripting.code.ts"}
-{"propertySlug":"import","fileName":"up-from.module.code.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.scripting.code.ts"}
+{"propertySlug":"import","fileName":"up-from.module.code.ts","path":"code/ios-app/modules/decode-harness-script/decode-harness-script.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"up-from.module.code.ts","path":"code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.scripting.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"up-from.module.code.ts","path":"infrastructure/cluster/operation/mirror-base-images/mirror-base-images.shell-script.scripting.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"up-from.module.code.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

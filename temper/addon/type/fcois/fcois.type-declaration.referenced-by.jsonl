@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"fcois.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts"}
-{"propertySlug":"import","fileName":"fcois.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-reagents/potion-reagents.module.code.ts"}
-{"propertySlug":"import","fileName":"fcois.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-settings-menu/potion-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"fcois.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fcois.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-reagents/potion-reagents.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fcois.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-settings-menu/potion-settings-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/type/temper-addon-type.domain.ts","id":"01a06090-f5ac-7f47-be1b-dc303670f2ad"}

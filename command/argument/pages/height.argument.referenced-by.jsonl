@@ -1,5 +1,5 @@
 {"propertySlug":"argument","path":"command/pages/browser/screenshot/browser-screenshot.command.ts","id":"01a0c4c8-b6e7-7a74-b62b-1a048dd6963a"}
 {"propertySlug":"argument","path":"command/pages/inference/zimage/inference-zimage.command.ts","id":"01a0680a-9cc0-7f99-8e78-ba4b0f5be1dd"}
-{"propertySlug":"import","fileName":"height.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts"}
-{"propertySlug":"import","fileName":"height.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts"}
-{"propertySlug":"import","fileName":"height.argument.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts"}
+{"propertySlug":"import","fileName":"height.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"height.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"height.argument.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":false,"deferred":false}

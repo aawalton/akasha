@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"change/modules/edits-keeping/edits-keeping.module.code.ts"}
-{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"check/modules/body-not-utf8/body-not-utf8.module.code.ts"}
-{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts"}
-{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"command/modules/payload/payload.module.code.ts"}
-{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"command/pages/read/read.command.code.ts"}
-{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"domain/context/warrant/file-itself/file-itself.context-warrant.code.ts"}
+{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"change/modules/edits-keeping/edits-keeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"check/modules/body-not-utf8/body-not-utf8.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"command/modules/payload/payload.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"command/pages/read/read.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"utf8-body.module.code.ts","path":"domain/context/warrant/file-itself/file-itself.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/body/code-body.domain.ts","id":"01a09b2c-cc50-7f0f-838d-abfa522d31e4"}

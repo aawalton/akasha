@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"handle-inbound.module.code.ts","path":"alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"handle-inbound.module.code.ts","path":"alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.test.ts"}
-{"propertySlug":"import","fileName":"handle-inbound.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"}
-{"propertySlug":"import","fileName":"handle-inbound.module.test-fixtures.ts","path":"alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.test.ts"}
+{"propertySlug":"import","fileName":"handle-inbound.module.code.ts","path":"alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"handle-inbound.module.code.ts","path":"alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handle-inbound.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"handle-inbound.module.test-fixtures.ts","path":"alan/harness/sms-core/modules/handle-inbound/handle-inbound.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/sms-core/sms-core.domain.ts","id":"01a05b6f-999c-7a6b-9de1-eb062ff820b3"}

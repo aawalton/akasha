@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"instant-in.module.code.ts","path":"code/type/narrowing/modules/instant-in/instant-in.module.test.ts"}
-{"propertySlug":"import","fileName":"instant-in.module.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts"}
-{"propertySlug":"import","fileName":"instant-in.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts"}
-{"propertySlug":"import","fileName":"instant-in.module.code.ts","path":"story/ui/modules/revealed-frontier/revealed-frontier.module.code.ts"}
+{"propertySlug":"import","fileName":"instant-in.module.code.ts","path":"code/type/narrowing/modules/instant-in/instant-in.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"instant-in.module.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"instant-in.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"instant-in.module.code.ts","path":"story/ui/modules/revealed-frontier/revealed-frontier.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

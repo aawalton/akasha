@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-breach/major-breach.temper-debuff-major.ts"}
-{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-brittle/major-brittle.temper-debuff-major.ts"}
-{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-cowardice/major-cowardice.temper-debuff-major.ts"}
-{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-defile/major-defile.temper-debuff-major.ts"}
-{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-enervation/major-enervation.temper-debuff-major.ts"}
-{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-maim/major-maim.temper-debuff-major.ts"}
-{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-vulnerability/major-vulnerability.temper-debuff-major.ts"}
+{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-breach/major-breach.temper-debuff-major.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-brittle/major-brittle.temper-debuff-major.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-cowardice/major-cowardice.temper-debuff-major.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-defile/major-defile.temper-debuff-major.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-enervation/major-enervation.temper-debuff-major.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-maim/major-maim.temper-debuff-major.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-vulnerability/major-vulnerability.temper-debuff-major.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}

@@ -1,6 +1,6 @@
 {"propertySlug":"attribute","path":"alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts","id":"01a06838-94ae-75cc-850c-98f366cb8269"}
-{"propertySlug":"import","fileName":"wisdom.attribute.code.ts","path":"alan/attribute/pages/wisdom/wisdom.attribute.test.ts"}
-{"propertySlug":"import","fileName":"wisdom.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"wisdom.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"}
-{"propertySlug":"import","fileName":"wisdom.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.test.ts"}
+{"propertySlug":"import","fileName":"wisdom.attribute.code.ts","path":"alan/attribute/pages/wisdom/wisdom.attribute.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"wisdom.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"wisdom.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"wisdom.attribute.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}

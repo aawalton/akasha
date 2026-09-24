@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx"}
-{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-hrefs/use-pages-filtered-hrefs.module.code.ts"}
-{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"}
-{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts"}
-{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"}
+{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/page-card-renderer/page-card-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-hrefs/use-pages-filtered-hrefs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/modules/view-tab-content/view-tab-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-tab-content-href.module.code.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

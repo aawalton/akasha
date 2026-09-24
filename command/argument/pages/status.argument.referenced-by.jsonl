@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.ts","id":"01a08cf6-67b1-7524-ab4b-2d55fdf0d2cb"}
-{"propertySlug":"import","fileName":"status.argument.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.code.ts"}
-{"propertySlug":"import","fileName":"status.argument.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts"}
+{"propertySlug":"import","fileName":"status.argument.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"status.argument.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts","typed":false,"deferred":false}

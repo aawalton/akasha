@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"lost-treasure-mining.module.code.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-item-cache/lost-treasure-item-cache.module.code.ts"}
-{"propertySlug":"import","fileName":"lost-treasure-mining.module.code.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts"}
-{"propertySlug":"import","fileName":"lost-treasure-mining.module.code.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-start/lost-treasure-start.module.code.ts"}
+{"propertySlug":"import","fileName":"lost-treasure-mining.module.code.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-item-cache/lost-treasure-item-cache.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lost-treasure-mining.module.code.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-opened-map/lost-treasure-opened-map.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lost-treasure-mining.module.code.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-start/lost-treasure-start.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/lost-treasure/temper-lost-treasure.domain.ts","id":"01a06141-8003-755d-8ec8-3764b298f7ef"}

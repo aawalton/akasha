@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"eso-collectible-id.number-property.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectibles.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"eso-collectible-id.number-property.types.ts","path":"temper/catalog/pursuit/temper-tribute-patron/temper-tribute-patron.page-type.types.ts"}
-{"propertySlug":"import","fileName":"eso-collectible-id.number-property.types.ts","path":"temper/catalog/pursuit/thing/temper-pursuit-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"eso-collectible-id.number-property.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectibles.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-collectible-id.number-property.types.ts","path":"temper/catalog/pursuit/temper-tribute-patron/temper-tribute-patron.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-collectible-id.number-property.types.ts","path":"temper/catalog/pursuit/thing/temper-pursuit-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectibles.page-property-entry.ts","id":"01a06165-ae0e-7002-9050-a3edc1766aec"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-tribute-patron/temper-tribute-patron.page-type.ts","id":"01a06153-0ea9-7008-ab66-7b7e073ebf51"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/thing/temper-pursuit-thing.page-type.ts","id":"01a06153-0ea9-7002-8317-f34518274d6f"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"quest-schema.module.code.ts","path":"story/engine/core/modules/state-schema/state-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"quest-schema.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.code.ts"}
-{"propertySlug":"import","fileName":"quest-schema.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts"}
-{"propertySlug":"import","fileName":"quest-schema.module.code.ts","path":"story/ui/modules/quest-card/quest-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"quest-schema.module.code.ts","path":"story/engine/core/modules/state-schema/state-schema.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"quest-schema.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"quest-schema.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"quest-schema.module.code.ts","path":"story/ui/modules/quest-card/quest-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/engine/core/story-engine-core.domain.ts","id":"01a05b71-e544-7ab9-87b3-b98dbd2ed891"}

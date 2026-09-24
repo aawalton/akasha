@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"waiting.test-fixture.code.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts"}
-{"propertySlug":"import","fileName":"waiting.test-fixture.code.ts","path":"git/modules/commit-reading/commit-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"waiting.test-fixture.code.ts","path":"git/modules/holding/holding.module.test.ts"}
-{"propertySlug":"import","fileName":"waiting.test-fixture.code.ts","path":"page/modules/uncommitted/page-uncommitted.module.test.ts"}
+{"propertySlug":"import","fileName":"waiting.test-fixture.code.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"waiting.test-fixture.code.ts","path":"git/modules/commit-reading/commit-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"waiting.test-fixture.code.ts","path":"git/modules/holding/holding.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"waiting.test-fixture.code.ts","path":"page/modules/uncommitted/page-uncommitted.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"check/test/fixture/test-fixture.page-type.ts","id":"01a09c17-9d01-7f25-b06d-5521c1acc95d"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"request-reaching.module.code.ts","path":"command/pages/request/complete/request-complete.command.code.ts"}
-{"propertySlug":"import","fileName":"request-reaching.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
-{"propertySlug":"import","fileName":"request-reaching.module.code.ts","path":"command/pages/request/modules/reaching/request-reaching.module.test.ts"}
-{"propertySlug":"import","fileName":"request-reaching.module.code.ts","path":"command/pages/request/publish/request-publish.command.code.ts"}
+{"propertySlug":"import","fileName":"request-reaching.module.code.ts","path":"command/pages/request/complete/request-complete.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"request-reaching.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"request-reaching.module.code.ts","path":"command/pages/request/modules/reaching/request-reaching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"request-reaching.module.code.ts","path":"command/pages/request/publish/request-publish.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/request/request.namespace.ts","id":"01a0c501-03d8-7e2f-9cfe-0943bb8d8511"}

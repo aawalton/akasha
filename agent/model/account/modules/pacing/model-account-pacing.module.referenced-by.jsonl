@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"model-account-pacing.module.code.ts","path":"agent/model/account/modules/marking/model-account-marking.module.code.ts"}
-{"propertySlug":"import","fileName":"model-account-pacing.module.code.ts","path":"agent/model/account/modules/pacing/model-account-pacing.module.test.ts"}
-{"propertySlug":"import","fileName":"model-account-pacing.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"}
-{"propertySlug":"import","fileName":"model-account-pacing.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"}
+{"propertySlug":"import","fileName":"model-account-pacing.module.code.ts","path":"agent/model/account/modules/marking/model-account-marking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-account-pacing.module.code.ts","path":"agent/model/account/modules/pacing/model-account-pacing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-account-pacing.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-account-pacing.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/negative-false.model-test-outcome.ts"}
-{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/negative-true.model-test-outcome.ts"}
-{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/positive-false.model-test-outcome.ts"}
-{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/positive-true.model-test-outcome.ts"}
-{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/positive-truthy.model-test-outcome.ts"}
+{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/negative-false.model-test-outcome.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/negative-true.model-test-outcome.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/positive-false.model-test-outcome.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/positive-true.model-test-outcome.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-test-outcome.page-type.types.ts","path":"agent/model/test/outcome/pages/positive-truthy.model-test-outcome.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}

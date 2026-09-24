@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"reload-ui.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-slash-command/tweak-slash-command.module.code.ts"}
-{"propertySlug":"import","fileName":"reload-ui.module.code.ts","path":"temper/addon/pages/temper-core/temper-selector/modules/selector-packs/selector-packs.module.code.ts"}
-{"propertySlug":"import","fileName":"reload-ui.module.code.ts","path":"temper/addon/pages/temper-core/temper-selector/modules/selector-public-api/selector-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"reload-ui.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-slash-command/tweak-slash-command.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reload-ui.module.code.ts","path":"temper/addon/pages/temper-core/temper-selector/modules/selector-packs/selector-packs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"reload-ui.module.code.ts","path":"temper/addon/pages/temper-core/temper-selector/modules/selector-public-api/selector-public-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/shared/temper-addon-shared.domain.ts","id":"01a0c602-d7a2-7ba5-a4a1-a50edd20bb46"}

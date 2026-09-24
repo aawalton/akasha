@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"temper-inventory-configuration.command.code.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.test.ts"}
-{"propertySlug":"import","fileName":"temper-inventory-configuration.command.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.code.ts"}
-{"propertySlug":"import","fileName":"temper-inventory-configuration.command.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.test.ts"}
+{"propertySlug":"import","fileName":"temper-inventory-configuration.command.code.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-inventory-configuration.command.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-inventory-configuration.command.ts","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/temper/inventory/temper-inventory.namespace.ts","id":"01a07c18-25b3-7c50-9fbe-24e618f94df7"}

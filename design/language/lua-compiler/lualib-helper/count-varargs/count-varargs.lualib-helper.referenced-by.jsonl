@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/array-reduce-right/array-reduce-right.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/array-reduce/array-reduce.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/array-splice/array-splice.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/generator/generator.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-new/sparse-array-new.lualib-helper.code.ts"}
-{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-push/sparse-array-push.lualib-helper.code.ts"}
+{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/array-reduce-right/array-reduce-right.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/array-reduce/array-reduce.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/array-splice/array-splice.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/generator/generator.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-new/sparse-array-new.lualib-helper.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"count-varargs.lualib-helper.code.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-push/sparse-array-push.lualib-helper.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}

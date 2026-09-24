@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"destination-chain-types.module.code.ts","path":"temper/items/rules/core/modules/stock-destination-planner/stock-destination-planner.module.code.ts"}
-{"propertySlug":"import","fileName":"destination-chain-types.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.code.ts"}
+{"propertySlug":"import","fileName":"destination-chain-types.module.code.ts","path":"temper/items/rules/core/modules/stock-destination-planner/stock-destination-planner.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"destination-chain-types.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

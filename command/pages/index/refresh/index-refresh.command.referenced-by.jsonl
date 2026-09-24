@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"index-refresh.command.code.ts","path":"command/modules/calling/calling.module.code.ts"}
-{"propertySlug":"import","fileName":"index-refresh.command.code.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
-{"propertySlug":"import","fileName":"index-refresh.command.ts","path":"command/pages/index/refresh/index-refresh.command.code.ts"}
+{"propertySlug":"import","fileName":"index-refresh.command.code.ts","path":"command/modules/calling/calling.module.code.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"index-refresh.command.code.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-refresh.command.ts","path":"command/pages/index/refresh/index-refresh.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/index/index.namespace.ts","id":"01a08cc2-e9c6-72ff-91b4-a753fc83eee2"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"skyshards-data-accessors.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-immersive/skyshards-pc-immersive.module.code.ts"}
-{"propertySlug":"import","fileName":"skyshards-data-accessors.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pin-data/skyshards-pc-pin-data.module.code.ts"}
-{"propertySlug":"import","fileName":"skyshards-data-accessors.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-skill-panel/skyshards-pc-skill-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"skyshards-data-accessors.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-immersive/skyshards-pc-immersive.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skyshards-data-accessors.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-pin-data/skyshards-pc-pin-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"skyshards-data-accessors.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-skill-panel/skyshards-pc-skill-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}

@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/column-sampling/column-sampling.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/editor-layout-panel/editor-layout-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts"}
-{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/terminal-sync/terminal-sync.module.code.ts"}
+{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/column-sampling/column-sampling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/editor-layout-panel/editor-layout-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/seat-showing/seat-showing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"terminal-pids.module.code.ts","path":"code/editor/extension/modules/terminal-sync/terminal-sync.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

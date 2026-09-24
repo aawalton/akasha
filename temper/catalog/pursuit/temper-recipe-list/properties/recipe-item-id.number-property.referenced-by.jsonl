@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"recipe-item-id.number-property.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/properties/recipes.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"recipe-item-id.number-property.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/properties/recipes.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-recipe-list/properties/recipes.page-property-entry.ts","id":"01a0626e-c112-752c-87ea-5aac4c49e0ee"}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-recipe-list/temper-recipe-list.page-type.ts","id":"01a0626e-c112-7de5-8901-fc3087a26629"}

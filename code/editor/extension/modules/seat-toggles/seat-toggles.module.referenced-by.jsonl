@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-acts/seat-acts.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-toggles.module.test-fixtures.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-acts/seat-acts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-toggles.module.code.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-toggles.module.test-fixtures.ts","path":"code/editor/extension/modules/seat-toggles/seat-toggles.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

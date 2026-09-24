@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"activity-category-mapping.module.code.ts","path":"temper/web/modules/account-achievements-panel-card/account-achievements-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"activity-category-mapping.module.code.ts","path":"temper/web/modules/account-collectibles-panel-card/account-collectibles-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"activity-category-mapping.module.code.ts","path":"temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"activity-category-mapping.module.code.ts","path":"temper/web/modules/item-sets-progress-panel-card/item-sets-progress-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"activity-category-mapping.module.code.ts","path":"temper/web/modules/account-achievements-panel-card/account-achievements-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"activity-category-mapping.module.code.ts","path":"temper/web/modules/account-collectibles-panel-card/account-collectibles-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"activity-category-mapping.module.code.ts","path":"temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"activity-category-mapping.module.code.ts","path":"temper/web/modules/item-sets-progress-panel-card/item-sets-progress-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}

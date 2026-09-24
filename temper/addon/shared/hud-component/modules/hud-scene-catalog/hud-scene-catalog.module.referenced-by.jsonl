@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"hud-scene-catalog.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts"}
-{"propertySlug":"import","fileName":"hud-scene-catalog.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"hud-scene-catalog.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"hud-scene-catalog.module.code.ts","path":"temper/addon/shared/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.test.ts"}
+{"propertySlug":"import","fileName":"hud-scene-catalog.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-init/hud-addon-hide-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hud-scene-catalog.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hud-scene-catalog.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-settings-panel/hud-addon-settings-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"hud-scene-catalog.module.code.ts","path":"temper/addon/shared/hud-component/modules/hud-scene-catalog/hud-scene-catalog.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/shared/hud-component/temper-hud-component.domain.ts","id":"01a060a4-fa38-742d-9517-977730401b38"}

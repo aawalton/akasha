@@ -1,7 +1,8 @@
-{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.test.ts"}
-{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.test.ts"}
-{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}
-{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts"}
-{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"change-preparing.module.test-fixtures.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts"}
+{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-preparing.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-preparing.module.test-fixtures.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

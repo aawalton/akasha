@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"rule-condition-eval.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.code.ts"}
-{"propertySlug":"import","fileName":"rule-condition-eval.module.code.ts","path":"temper/items/rules/eval/modules/check-result/check-result.module.code.ts"}
-{"propertySlug":"import","fileName":"rule-condition-eval.module.code.ts","path":"temper/items/rules/eval/modules/compute-stock-groups/compute-stock-groups.module.code.ts"}
-{"propertySlug":"import","fileName":"rule-condition-eval.module.code.ts","path":"temper/items/rules/eval/modules/evaluator/evaluator.module.code.ts"}
+{"propertySlug":"import","fileName":"rule-condition-eval.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-condition-eval.module.code.ts","path":"temper/items/rules/eval/modules/check-result/check-result.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"rule-condition-eval.module.code.ts","path":"temper/items/rules/eval/modules/compute-stock-groups/compute-stock-groups.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-condition-eval.module.code.ts","path":"temper/items/rules/eval/modules/evaluator/evaluator.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/eval/temper-items-rules-eval.domain.ts","id":"01a06137-f96e-7a28-9f74-f5d1bea03036"}

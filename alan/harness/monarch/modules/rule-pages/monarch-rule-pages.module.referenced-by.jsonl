@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/amazon-pairs/monarch-amazon-pairs.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/apply/monarch-apply.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/candidate/monarch-candidate.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/categorize-recent/monarch-categorize-recent.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/history/monarch-history.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/propose/monarch-propose.module.code.ts"}
-{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts"}
+{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/amazon-pairs/monarch-amazon-pairs.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/apply/monarch-apply.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/candidate/monarch-candidate.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/categorize-recent/monarch-categorize-recent.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/history/monarch-history.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/propose/monarch-propose.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-rule-pages.module.code.ts","path":"alan/harness/monarch/modules/rule-documents/monarch-rule-documents.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}

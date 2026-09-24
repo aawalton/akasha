@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/core/modules/companion-trait-labels/companion-trait-labels.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/filters/core/modules/search-trait-filter/search-trait-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/core/modules/companion-trait-labels/companion-trait-labels.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/filters/core/modules/search-trait-filter/search-trait-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-eso-trait-map.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}

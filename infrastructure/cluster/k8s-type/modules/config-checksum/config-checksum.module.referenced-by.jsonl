@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.test.ts"}
-{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/container-image/buildkit/buildkit.manifest.code.ts"}
-{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.code.ts"}
-{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/loki-service/modules/promtail-manifests/promtail-manifests.module.code.ts"}
-{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts"}
-{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts"}
+{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/container-image/buildkit/buildkit.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/loki-service/modules/loki-manifests/loki-manifests.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/loki-service/modules/promtail-manifests/promtail-manifests.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"config-checksum.module.code.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts","id":"01a06735-dd9c-700c-89ca-ed7f38cab9b1"}

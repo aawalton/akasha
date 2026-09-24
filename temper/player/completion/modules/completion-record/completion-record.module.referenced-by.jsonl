@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-item-sets/characters-item-sets.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-achievements/characters-task-progress-resolver-achievements.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.test.ts"}
-{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-item-sets/characters-item-sets.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-achievements/characters-task-progress-resolver-achievements.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-record.module.code.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}

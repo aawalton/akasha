@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"captured-at.instant-property.types.ts","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.types.ts"}
-{"propertySlug":"import","fileName":"captured-at.instant-property.types.ts","path":"temper/player/character/temper-account/temper-account.page-type.types.ts"}
-{"propertySlug":"import","fileName":"captured-at.instant-property.types.ts","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"captured-at.instant-property.types.ts","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"captured-at.instant-property.types.ts","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"captured-at.instant-property.types.ts","path":"temper/player/character/temper-account/temper-account.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"captured-at.instant-property.types.ts","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"captured-at.instant-property.types.ts","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.ts","id":"01a05fc4-7a8e-7cdd-859d-6e17f19d2d93"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/temper-account.page-type.ts","id":"01a05fcd-f547-7f1d-8f1e-1feeb37eebb3"}
 {"propertySlug":"page-property","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.ts","id":"01a06006-154e-7fe6-a4a2-35245e20fcfb"}

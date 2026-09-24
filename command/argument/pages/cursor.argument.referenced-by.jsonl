@@ -1,2 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/infrastructure/loki/infrastructure-loki.command.ts","id":"01a06809-250b-7ab3-b9ac-5e00cfbba4ec"}
-{"propertySlug":"import","fileName":"cursor.argument.ts","path":"command/pages/infrastructure/loki/infrastructure-loki.command.code.ts"}
+{"propertySlug":"import","fileName":"cursor.argument.ts","path":"command/pages/infrastructure/loki/infrastructure-loki.command.code.ts","typed":false,"deferred":false}

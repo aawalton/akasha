@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"refusal.page-type.types.ts","path":"check/refusal/pages/body-not-utf8.refusal.ts"}
-{"propertySlug":"import","fileName":"refusal.page-type.types.ts","path":"check/refusal/pages/check-over-its-ceiling.refusal.ts"}
-{"propertySlug":"import","fileName":"refusal.page-type.types.ts","path":"check/refusal/pages/page-key-computed.refusal.ts"}
+{"propertySlug":"import","fileName":"refusal.page-type.types.ts","path":"check/refusal/pages/body-not-utf8.refusal.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"refusal.page-type.types.ts","path":"check/refusal/pages/check-over-its-ceiling.refusal.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"refusal.page-type.types.ts","path":"check/refusal/pages/page-key-computed.refusal.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"item-set-categories.module.code.ts","path":"temper/addon/pages/characters/modules/characters-item-sets/characters-item-sets.module.code.ts"}
-{"propertySlug":"import","fileName":"item-set-categories.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"item-set-categories.module.code.ts","path":"temper/addon/pages/characters/modules/characters-item-sets/characters-item-sets.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-set-categories.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/item-set/temper-item-set.domain.ts","id":"01a090e4-78c9-7073-9166-03b462dd7c7e"}

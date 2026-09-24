@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-effects/combat-lib-effects.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight/combat-lib-fight.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-groups-tracking/combat-lib-groups-tracking.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-init/combat-lib-init.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-resources/combat-lib-resources.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-effects-buffer/combat-lib-effects-buffer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-effects/combat-lib-effects.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-fight/combat-lib-fight.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-groups-tracking/combat-lib-groups-tracking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-init/combat-lib-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-resources/combat-lib-resources.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-lib-stats.module.code.ts","path":"temper/addon/pages/combat/modules/combat-lib-skill-bars/combat-lib-skill-bars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

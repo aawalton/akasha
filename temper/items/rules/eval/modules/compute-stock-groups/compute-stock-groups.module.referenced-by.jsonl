@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"compute-stock-groups.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
-{"propertySlug":"import","fileName":"compute-stock-groups.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"}
-{"propertySlug":"import","fileName":"compute-stock-groups.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts"}
-{"propertySlug":"import","fileName":"compute-stock-groups.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"}
+{"propertySlug":"import","fileName":"compute-stock-groups.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compute-stock-groups.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compute-stock-groups.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compute-stock-groups.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/eval/temper-items-rules-eval.domain.ts","id":"01a06137-f96e-7a28-9f74-f5d1bea03036"}

@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.code.ts"}
-{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.test.ts"}
-{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"}
-{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts"}
+{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-metadata-copy/addon-metadata-copy.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-compiler-config.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/build/temper-addon-build.domain.ts","id":"01a06038-2cc1-7116-80a1-184fa5a8f3f6"}

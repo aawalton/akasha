@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"typescript-config.file-property.types.ts","path":"code/workspace/workspace.page-type.types.ts"}
-{"propertySlug":"import","fileName":"typescript-config.file-property.types.ts","path":"domain/domain.page-type.types.ts"}
+{"propertySlug":"import","fileName":"typescript-config.file-property.types.ts","path":"code/workspace/workspace.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"typescript-config.file-property.types.ts","path":"domain/domain.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"code/workspace/workspace.page-type.ts","id":"01a06cbb-60a1-7163-bbdd-7ba51e6b3ed6"}
 {"propertySlug":"page-property","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}
 {"propertySlug":"parts","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}

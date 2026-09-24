@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"committing.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}
-{"propertySlug":"import","fileName":"committing.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
-{"propertySlug":"import","fileName":"committing.module.code.ts","path":"command/pages/index/refresh/index-refresh.command.code.ts"}
-{"propertySlug":"import","fileName":"committing.module.code.ts","path":"git/modules/committing/committing.module.test.ts"}
+{"propertySlug":"import","fileName":"committing.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"committing.module.code.ts","path":"command/modules/landing/landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"committing.module.code.ts","path":"command/pages/index/refresh/index-refresh.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"committing.module.code.ts","path":"git/modules/committing/committing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"git/git.domain.ts","id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}

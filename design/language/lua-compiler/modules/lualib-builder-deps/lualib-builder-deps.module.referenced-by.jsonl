@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"lualib-builder-deps.module.code.ts","path":"design/language/lua-compiler/modules/lua-printer/lua-printer.module.code.ts"}
-{"propertySlug":"import","fileName":"lualib-builder-deps.module.code.ts","path":"design/language/lua-compiler/modules/lualib-builder/lualib-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"lualib-builder-deps.module.code.ts","path":"design/language/lua-compiler/modules/transpile-transpiler/transpile-transpiler.module.code.ts"}
+{"propertySlug":"import","fileName":"lualib-builder-deps.module.code.ts","path":"design/language/lua-compiler/modules/lua-printer/lua-printer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lualib-builder-deps.module.code.ts","path":"design/language/lua-compiler/modules/lualib-builder/lualib-builder.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lualib-builder-deps.module.code.ts","path":"design/language/lua-compiler/modules/transpile-transpiler/transpile-transpiler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/language/lua-compiler/lua-compiler.domain.ts","id":"01a06759-2aa6-7004-8e68-88c34898e172"}

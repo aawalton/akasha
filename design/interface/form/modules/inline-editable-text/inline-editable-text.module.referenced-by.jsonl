@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"design/interface/system/modules/components-input-composite-panels/components-input-composite-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/item-rule-card-header/item-rule-card-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-card-header-row/rule-card-header-row.module.code.tsx"}
+{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"design/interface/system/modules/components-input-composite-panels/components-input-composite-panels.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/modules/character-editor-header/character-editor-header.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/item-rule-card-header/item-rule-card-header.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inline-editable-text.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-card-header-row/rule-card-header-row.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/form/design-interface-form.domain.ts","id":"01a05b7e-679a-7735-bc0a-1abf739c0463"}

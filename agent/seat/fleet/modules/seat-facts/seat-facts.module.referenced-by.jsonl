@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"seat-facts.module.code.ts","path":"agent/seat/reviving/modules/seat-resume-guard/seat-resume-guard.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-facts.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-facts.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-facts.module.code.ts","path":"agent/seat/stopping/modules/takeover-seat/takeover-seat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-facts.module.code.ts","path":"agent/seat/reviving/modules/seat-resume-guard/seat-resume-guard.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-facts.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-facts.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-facts.module.code.ts","path":"agent/seat/stopping/modules/takeover-seat/takeover-seat.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/fleet/seat-fleet.domain.ts","id":"01a09c4c-951f-79d4-a631-988b1c54b8eb"}

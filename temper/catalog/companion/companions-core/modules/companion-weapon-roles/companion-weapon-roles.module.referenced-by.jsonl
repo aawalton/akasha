@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-valid-skills/companion-valid-skills.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/web/modules/companion-entity-panel-card/companion-entity-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/web/modules/companion-list-panel-card/companion-list-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/web/modules/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-valid-skills/companion-valid-skills.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-weapon-role-match/companion-weapon-role-match.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/web/modules/companion-entity-panel-card/companion-entity-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/web/modules/companion-list-panel-card/companion-list-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-weapon-roles.module.code.ts","path":"temper/web/modules/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}

@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"}
-{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"}
-{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/modules/character-morph-progress/character-morph-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/modules/select-morph-suggestions/select-morph-suggestions.module.code.ts"}
-{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/modules/skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts"}
-{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/modules/character-morph-progress/character-morph-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/modules/select-morph-suggestions/select-morph-suggestions.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/modules/skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-morph-progress-eso.module.code.ts","path":"temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/skill-morph/temper-skill-morph.domain.ts","id":"01a061c7-0738-7e24-b2fa-36e9b8781b9c"}

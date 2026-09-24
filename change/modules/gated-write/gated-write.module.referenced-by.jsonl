@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.code.ts"}
-{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
-{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/modules/page-writing/seat-page-writing.module.code.ts"}
-{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
-{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts"}
-{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts"}
+{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/modules/page-writing/seat-page-writing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

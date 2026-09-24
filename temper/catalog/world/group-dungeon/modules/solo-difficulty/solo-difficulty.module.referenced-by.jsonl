@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"solo-difficulty.module.code.ts","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts"}
-{"propertySlug":"import","fileName":"solo-difficulty.module.code.ts","path":"temper/catalog/world/group-dungeon/modules/dungeon-registry/dungeon-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"solo-difficulty.module.code.ts","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.code.tsx"}
+{"propertySlug":"import","fileName":"solo-difficulty.module.code.ts","path":"temper/addon/pages/characters/modules/characters-undaunted-pledges/characters-undaunted-pledges.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"solo-difficulty.module.code.ts","path":"temper/catalog/world/group-dungeon/modules/dungeon-registry/dungeon-registry.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"solo-difficulty.module.code.ts","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/group-dungeon/temper-group-dungeon.domain.ts","id":"01a06031-70e4-7e81-a058-c2574ec503a7"}

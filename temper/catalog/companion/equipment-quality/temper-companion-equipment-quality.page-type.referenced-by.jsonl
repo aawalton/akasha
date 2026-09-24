@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/epic.temper-companion-equipment-quality.ts"}
-{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/fine.temper-companion-equipment-quality.ts"}
-{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/legendary.temper-companion-equipment-quality.ts"}
-{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/no-quality.temper-companion-equipment-quality.ts"}
-{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/normal.temper-companion-equipment-quality.ts"}
-{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/superior.temper-companion-equipment-quality.ts"}
+{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/epic.temper-companion-equipment-quality.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/fine.temper-companion-equipment-quality.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/legendary.temper-companion-equipment-quality.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/no-quality.temper-companion-equipment-quality.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/normal.temper-companion-equipment-quality.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-equipment-quality.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/pages/superior.temper-companion-equipment-quality.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}

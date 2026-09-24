@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inventory-rule-goals.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-filter-items/inventory-rules-filter-items.module.code.tsx"}
-{"propertySlug":"import","fileName":"inventory-rule-goals.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-filter-predicates/inventory-rules-filter-predicates.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rule-goals.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/item-rule-card-header/item-rule-card-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"inventory-rule-goals.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-priority-row/rule-card-priority-row.module.code.tsx"}
+{"propertySlug":"import","fileName":"inventory-rule-goals.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-filter-items/inventory-rules-filter-items.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-goals.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-filter-predicates/inventory-rules-filter-predicates.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-goals.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/item-rule-card-header/item-rule-card-header.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rule-goals.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-priority-row/rule-card-priority-row.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

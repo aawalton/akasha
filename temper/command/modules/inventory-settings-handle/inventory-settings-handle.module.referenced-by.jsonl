@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.test.ts"}
+{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-settings-handle.module.code.ts","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

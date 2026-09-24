@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"alan/atlas-web/routes/atlas-api-nav-icon/atlas-api-nav-icon.route.code.ts"}
-{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"alan/requests-web/routes/requests-api-nav-icon/requests-api-nav-icon.route.code.ts"}
-{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"alan/web/routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts"}
-{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-nav-icon/archive-of-worlds-api-nav-icon.route.code.ts"}
-{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"temper/web/routes/temper-api-nav-icon/temper-api-nav-icon.route.code.ts"}
+{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"alan/atlas-web/routes/atlas-api-nav-icon/atlas-api-nav-icon.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"alan/requests-web/routes/requests-api-nav-icon/requests-api-nav-icon.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"alan/web/routes/alan-web-api-nav-icon/alan-web-api-nav-icon.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-nav-icon/archive-of-worlds-api-nav-icon.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"nav-icon-svg.module.code.ts","path":"temper/web/routes/temper-api-nav-icon/temper-api-nav-icon.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/web-page-answer/web-page-answer.domain.ts","id":"01a0655a-b2a8-78a3-9dec-43e67b15bf10"}

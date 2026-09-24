@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"}
-{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.code.ts"}
-{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"}
-{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/activity-category-mapping/activity-category-mapping.module.code.ts"}
-{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/activity-category-mapping/activity-category-mapping.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}

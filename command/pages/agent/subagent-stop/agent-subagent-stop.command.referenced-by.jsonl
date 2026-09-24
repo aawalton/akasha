@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"agent-subagent-stop.command.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
-{"propertySlug":"import","fileName":"agent-subagent-stop.command.ts","path":"code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-subagent-stop.command.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
+{"propertySlug":"import","fileName":"agent-subagent-stop.command.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-subagent-stop.command.ts","path":"code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"agent-subagent-stop.command.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/agent/agent.namespace.ts","id":"01a082e0-d19a-7472-8445-857aa2d33d92"}

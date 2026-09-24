@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts"}
-{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts"}
-{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-state/compass-pins-state.module.code.ts"}
-{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts"}
-{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-pin-register/dungeon-champion-pin-register.module.code.ts"}
-{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-init/lorebooks-pins-init.module.code.ts"}
-{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-compass/skyshards-pc-compass.module.code.ts"}
+{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-lib/compass-pins-lib.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-manager/compass-pins-manager.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/addon/pages/world/navigation/modules/compass-pins-state/compass-pins-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/addon/pages/world/navigation/modules/destinations-pins-pin-layouts/destinations-pins-pin-layouts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-pin-register/dungeon-champion-pin-register.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-init/lorebooks-pins-init.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compass-pins-constants.module.code.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-compass/skyshards-pc-compass.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/world/navigation/temper-addon-world-navigation.domain.ts","id":"01a0c6e7-9054-7191-bd84-4e8d7e6bb16e"}

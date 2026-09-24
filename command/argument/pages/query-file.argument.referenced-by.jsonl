@@ -1,7 +1,7 @@
 {"propertySlug":"argument","path":"command/pages/email/message/list/email-message-list.command.ts","id":"01a06810-cf11-7ea4-b544-6691871388cf"}
 {"propertySlug":"argument","path":"command/pages/imessage/search/imessage-search.command.ts","id":"01a0685f-c8ed-7003-b10c-862bb54dd76a"}
-{"propertySlug":"import","fileName":"query-file.argument.ts","path":"command/pages/email/message/list/email-message-list.command.code.ts"}
-{"propertySlug":"import","fileName":"query-file.argument.ts","path":"command/pages/email/message/list/email-message-list.command.test.ts"}
-{"propertySlug":"import","fileName":"query-file.argument.ts","path":"command/pages/imessage/search/imessage-search.command.code.ts"}
-{"propertySlug":"import","fileName":"query-file.argument.ts","path":"command/pages/imessage/search/imessage-search.command.test.ts"}
+{"propertySlug":"import","fileName":"query-file.argument.ts","path":"command/pages/email/message/list/email-message-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"query-file.argument.ts","path":"command/pages/email/message/list/email-message-list.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"query-file.argument.ts","path":"command/pages/imessage/search/imessage-search.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"query-file.argument.ts","path":"command/pages/imessage/search/imessage-search.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"one-of","path":"command/pages/imessage/search/imessage-search.command.ts","id":"01a0685f-c8ed-7003-b10c-862bb54dd76a"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"lost-treasure-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-constants/lost-treasure-constants.module.code.ts"}
-{"propertySlug":"import","fileName":"lost-treasure-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-pins/lost-treasure-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"lost-treasure-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-settings/lost-treasure-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"lost-treasure-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-ui-strings/lost-treasure-ui-strings.module.code.ts"}
+{"propertySlug":"import","fileName":"lost-treasure-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-constants/lost-treasure-constants.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lost-treasure-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-pins/lost-treasure-pins.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lost-treasure-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-settings/lost-treasure-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lost-treasure-string-ids.type-declaration.d.ts","path":"temper/catalog/world/lost-treasure/modules/lost-treasure-ui-strings/lost-treasure-ui-strings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/lost-treasure/temper-lost-treasure.domain.ts","id":"01a06141-8003-755d-8ec8-3764b298f7ef"}

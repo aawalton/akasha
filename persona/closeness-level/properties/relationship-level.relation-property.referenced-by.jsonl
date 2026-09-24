@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"relationship-level.relation-property.types.ts","path":"infrastructure/inference/generation/image/image.page-type.types.ts"}
-{"propertySlug":"import","fileName":"relationship-level.relation-property.types.ts","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.types.ts"}
+{"propertySlug":"import","fileName":"relationship-level.relation-property.types.ts","path":"infrastructure/inference/generation/image/image.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relationship-level.relation-property.types.ts","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
 {"propertySlug":"page-property","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}
 {"propertySlug":"parts","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}

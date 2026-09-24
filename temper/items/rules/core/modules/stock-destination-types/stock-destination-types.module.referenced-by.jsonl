@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"stock-destination-types.module.code.ts","path":"temper/items/rules/core/modules/stock-destination-context-builder/stock-destination-context-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"stock-destination-types.module.code.ts","path":"temper/items/rules/core/modules/stock-destination-planner/stock-destination-planner.module.code.ts"}
-{"propertySlug":"import","fileName":"stock-destination-types.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts"}
-{"propertySlug":"import","fileName":"stock-destination-types.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.code.ts"}
+{"propertySlug":"import","fileName":"stock-destination-types.module.code.ts","path":"temper/items/rules/core/modules/stock-destination-context-builder/stock-destination-context-builder.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"stock-destination-types.module.code.ts","path":"temper/items/rules/core/modules/stock-destination-planner/stock-destination-planner.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"stock-destination-types.module.code.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"stock-destination-types.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-use-destinations/inventory-management-plan-use-destinations.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"eso-clone-stamp.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"}
-{"propertySlug":"import","fileName":"eso-clone-stamp.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
-{"propertySlug":"import","fileName":"eso-clone-stamp.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
-{"propertySlug":"import","fileName":"eso-clone-stamp.module.code.ts","path":"temper/eso/path/modules/eso-clone-stamp/eso-clone-stamp.module.test.ts"}
+{"propertySlug":"import","fileName":"eso-clone-stamp.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-clone-stamp.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-clone-stamp.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-clone-stamp.module.code.ts","path":"temper/eso/path/modules/eso-clone-stamp/eso-clone-stamp.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/path/temper-eso-path.domain.ts","id":"01a06050-639d-78c1-a9ff-c6579f3deebd"}

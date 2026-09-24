@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.test.ts"}
-{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.code.ts"}
-{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/modules/path-showing/path-showing.module.code.ts"}
-{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/modules/settling/settling.module.test.ts"}
-{"propertySlug":"import","fileName":"settling.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/modules/path-showing/path-showing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"agent/hook/modules/settling/settling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"settling.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}

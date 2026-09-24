@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-1.temper-companion-skill-slot.ts"}
-{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-2.temper-companion-skill-slot.ts"}
-{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-3.temper-companion-skill-slot.ts"}
-{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-4.temper-companion-skill-slot.ts"}
-{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-5.temper-companion-skill-slot.ts"}
-{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/ultimate.temper-companion-skill-slot.ts"}
+{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-1.temper-companion-skill-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-2.temper-companion-skill-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-3.temper-companion-skill-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-4.temper-companion-skill-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/active-5.temper-companion-skill-slot.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-skill-slot.page-type.types.ts","path":"temper/catalog/companion/skill-slot/pages/ultimate.temper-companion-skill-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}

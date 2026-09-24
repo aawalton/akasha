@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/bank-profile-reading/bank-profile-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/bank-trace-reading/bank-trace-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/explain-replay-reading/explain-replay-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/master-craft-trace-reading/master-craft-trace-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/master-writ-probe-reading/master-writ-probe-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/bank-profile-reading/bank-profile-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/bank-trace-reading/bank-trace-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/explain-replay-reading/explain-replay-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/master-craft-trace-reading/master-craft-trace-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-diagnostics-reading.module.code.ts","path":"temper/command/modules/master-writ-probe-reading/master-writ-probe-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

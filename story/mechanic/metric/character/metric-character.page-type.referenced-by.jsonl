@@ -1,5 +1,5 @@
 {"propertySlug":"extends-type","path":"story/mechanic/metric/character/attribute/metric-character-attribute.page-type.ts","id":"01a0c9f6-f0c6-7de0-acb3-6f5f9252d4e2"}
 {"propertySlug":"extends-type","path":"story/mechanic/metric/character/resource/metric-character-resource.page-type.ts","id":"01a0c9d2-5f3d-7dd9-b045-d1b69e79a27a"}
-{"propertySlug":"import","fileName":"metric-character.page-type.types.ts","path":"story/mechanic/metric/character/attribute/metric-character-attribute.page-type.types.ts"}
-{"propertySlug":"import","fileName":"metric-character.page-type.types.ts","path":"story/mechanic/metric/character/resource/metric-character-resource.page-type.types.ts"}
+{"propertySlug":"import","fileName":"metric-character.page-type.types.ts","path":"story/mechanic/metric/character/attribute/metric-character-attribute.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric-character.page-type.types.ts","path":"story/mechanic/metric/character/resource/metric-character-resource.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/mechanic/metric/metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}

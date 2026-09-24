@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/imessage/contact-list/imessage-contact-list.command.ts","id":"01a0685f-c8ed-7001-8968-6b6c199596e3"}
-{"propertySlug":"import","fileName":"contact-query.argument.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts"}
-{"propertySlug":"import","fileName":"contact-query.argument.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.test.ts"}
+{"propertySlug":"import","fileName":"contact-query.argument.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"contact-query.argument.ts","path":"command/pages/imessage/contact-list/imessage-contact-list.command.test.ts","typed":false,"deferred":false}

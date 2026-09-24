@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"track-picking.module.code.ts","path":"alan/music/choosing/modules/track-picking/track-picking.module.test.ts"}
-{"propertySlug":"import","fileName":"track-picking.module.code.ts","path":"alan/music/choosing/modules/ungraded-picking/ungraded-picking.module.code.ts"}
-{"propertySlug":"import","fileName":"track-picking.module.code.ts","path":"alan/music/choosing/modules/unheard-picking/unheard-picking.module.code.ts"}
-{"propertySlug":"import","fileName":"track-picking.module.code.ts","path":"command/pages/music/modules/playlist-keeping/playlist-keeping.module.code.ts"}
+{"propertySlug":"import","fileName":"track-picking.module.code.ts","path":"alan/music/choosing/modules/track-picking/track-picking.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"track-picking.module.code.ts","path":"alan/music/choosing/modules/ungraded-picking/ungraded-picking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"track-picking.module.code.ts","path":"alan/music/choosing/modules/unheard-picking/unheard-picking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"track-picking.module.code.ts","path":"command/pages/music/modules/playlist-keeping/playlist-keeping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/music/choosing/music-choosing.domain.ts","id":"01a06281-4d9d-7000-8324-01f8e3c762a1"}

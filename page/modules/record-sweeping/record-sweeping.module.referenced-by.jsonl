@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"record-sweeping.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.test.ts"}
-{"propertySlug":"import","fileName":"record-sweeping.module.code.ts","path":"page/service-workstations/sweep-cost-records/sweep-cost-records.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"record-sweeping.module.code.ts","path":"page/service-workstations/sweep-cost-records/sweep-cost-records.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"record-sweeping.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"record-sweeping.module.code.ts","path":"page/service-workstations/sweep-cost-records/sweep-cost-records.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"record-sweeping.module.code.ts","path":"page/service-workstations/sweep-cost-records/sweep-cost-records.service-workstation.running.test.ts","typed":false,"deferred":true}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

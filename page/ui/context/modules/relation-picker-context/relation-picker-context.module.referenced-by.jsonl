@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"relation-picker-context.module.code.tsx","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx"}
-{"propertySlug":"import","fileName":"relation-picker-context.module.code.tsx","path":"page/ui/component/modules/relation-popover/relation-popover.module.code.tsx"}
-{"propertySlug":"import","fileName":"relation-picker-context.module.code.tsx","path":"page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"}
+{"propertySlug":"import","fileName":"relation-picker-context.module.code.tsx","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"relation-picker-context.module.code.tsx","path":"page/ui/component/modules/relation-popover/relation-popover.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"relation-picker-context.module.code.tsx","path":"page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/context/page-ui-context.domain.ts","id":"01a071cf-5cb5-7515-985b-9a9999073b99"}

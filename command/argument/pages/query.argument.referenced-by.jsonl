@@ -1,7 +1,7 @@
 {"propertySlug":"argument","path":"command/pages/music/play/music-play.command.ts","id":"01a062f9-5ca9-7fc5-acba-8d513404a6f9"}
 {"propertySlug":"argument","path":"command/pages/music/queue/music-queue.command.ts","id":"01a062f9-5ca9-7196-a782-961170a78313"}
 {"propertySlug":"argument","path":"command/pages/music/search/music-search.command.ts","id":"01a062f8-ead9-70cb-ae30-58a51b7fc488"}
-{"propertySlug":"import","fileName":"query.argument.ts","path":"command/pages/music/play/music-play.command.code.ts"}
-{"propertySlug":"import","fileName":"query.argument.ts","path":"command/pages/music/queue/music-queue.command.code.ts"}
-{"propertySlug":"import","fileName":"query.argument.ts","path":"command/pages/music/search/music-search.command.code.ts"}
+{"propertySlug":"import","fileName":"query.argument.ts","path":"command/pages/music/play/music-play.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"query.argument.ts","path":"command/pages/music/queue/music-queue.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"query.argument.ts","path":"command/pages/music/search/music-search.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"one-of","path":"command/pages/music/play/music-play.command.ts","id":"01a062f9-5ca9-7fc5-acba-8d513404a6f9"}

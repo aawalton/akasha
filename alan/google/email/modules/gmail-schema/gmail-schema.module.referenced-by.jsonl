@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"gmail-schema.module.code.ts","path":"alan/google/email/modules/gmail-attachments/gmail-attachments.module.code.ts"}
-{"propertySlug":"import","fileName":"gmail-schema.module.code.ts","path":"alan/google/email/modules/gmail-drafts/gmail-drafts.module.code.ts"}
-{"propertySlug":"import","fileName":"gmail-schema.module.code.ts","path":"alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"}
-{"propertySlug":"import","fileName":"gmail-schema.module.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.code.ts"}
+{"propertySlug":"import","fileName":"gmail-schema.module.code.ts","path":"alan/google/email/modules/gmail-attachments/gmail-attachments.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"gmail-schema.module.code.ts","path":"alan/google/email/modules/gmail-drafts/gmail-drafts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"gmail-schema.module.code.ts","path":"alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"gmail-schema.module.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}

@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"item-name-pattern.module.code.ts","path":"temper/items/filters/core/modules/search-item-name-filter/search-item-name-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"item-name-pattern.module.code.ts","path":"temper/items/rules/eval/modules/check-classification/check-classification.module.code.ts"}
+{"propertySlug":"import","fileName":"item-name-pattern.module.code.ts","path":"temper/items/filters/core/modules/search-item-name-filter/search-item-name-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-name-pattern.module.code.ts","path":"temper/items/rules/eval/modules/check-classification/check-classification.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}

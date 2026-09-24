@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"live-shell.boolean-property.types.ts","path":"agent/seat/properties/turn-pending.record-property.types.ts"}
+{"propertySlug":"import","fileName":"live-shell.boolean-property.types.ts","path":"agent/seat/properties/turn-pending.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/seat/properties/turn-pending.record-property.ts","id":"01a0541c-db5f-70d8-a32a-c321eef90312"}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

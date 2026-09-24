@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"google-calendar-event-rsvp.command.code.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts"}
-{"propertySlug":"import","fileName":"google-calendar-event-rsvp.command.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.code.ts"}
-{"propertySlug":"import","fileName":"google-calendar-event-rsvp.command.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts"}
+{"propertySlug":"import","fileName":"google-calendar-event-rsvp.command.code.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"google-calendar-event-rsvp.command.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"google-calendar-event-rsvp.command.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/google/calendar/event/google-calendar-event.namespace.ts","id":"01a08cf6-9dc4-7aa5-9293-19e026970755"}

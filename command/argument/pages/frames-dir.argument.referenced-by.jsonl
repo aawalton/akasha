@@ -1,6 +1,6 @@
 {"propertySlug":"argument","path":"command/pages/inference/video-qa/inference-video-qa.command.ts","id":"01a0685e-fd50-7d17-9486-a30db6114780"}
 {"propertySlug":"argument","path":"command/pages/inference/wan/score/inference-wan-score.command.ts","id":"01a093fb-9d2a-7ffc-a042-a59588f4a83d"}
-{"propertySlug":"import","fileName":"frames-dir.argument.ts","path":"command/pages/inference/video-qa/inference-video-qa.command.code.ts"}
-{"propertySlug":"import","fileName":"frames-dir.argument.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.code.ts"}
+{"propertySlug":"import","fileName":"frames-dir.argument.ts","path":"command/pages/inference/video-qa/inference-video-qa.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"frames-dir.argument.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"not-with","path":"command/pages/inference/video-qa/inference-video-qa.command.ts","id":"01a0685e-fd50-7d17-9486-a30db6114780"}
 {"propertySlug":"one-of","path":"command/pages/inference/video-qa/inference-video-qa.command.ts","id":"01a0685e-fd50-7d17-9486-a30db6114780"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.test.ts"}
-{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"agent/service-workstations/sweep-stray-processes/sweep-stray-processes.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"agent/service-workstations/sweep-stray-processes/sweep-stray-processes.service-workstation.running.test.ts"}
-{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"command/pages/agent/strays/agent-strays.command.code.ts"}
-{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"command/pages/agent/strays/agent-strays.command.test.ts"}
+{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"agent/service-workstations/sweep-stray-processes/sweep-stray-processes.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"agent/service-workstations/sweep-stray-processes/sweep-stray-processes.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"command/pages/agent/strays/agent-strays.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stray-sweeping.module.code.ts","path":"command/pages/agent/strays/agent-strays.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

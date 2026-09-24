@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"part-of-speech.relation-property.types.ts","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.types.ts"}
-{"propertySlug":"import","fileName":"part-of-speech.relation-property.types.ts","path":"domain/standard-agent-english/term/properties/spellings.record-property.types.ts"}
+{"propertySlug":"import","fileName":"part-of-speech.relation-property.types.ts","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"part-of-speech.relation-property.types.ts","path":"domain/standard-agent-english/term/properties/spellings.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"members","path":"domain/standard-agent-english/construction/properties/written-from.one-of-property.ts","id":"01a0c57a-e7ac-7d09-ad25-98343aab07cf"}
 {"propertySlug":"page-property","path":"domain/standard-agent-english/term/properties/spellings.record-property.ts","id":"01a0c565-e622-7337-8981-8bc641435b7e"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}

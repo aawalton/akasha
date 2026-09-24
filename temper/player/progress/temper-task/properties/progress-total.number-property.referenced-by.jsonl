@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"progress-total.number-property.types.ts","path":"temper/player/progress/temper-task/temper-task.page-type.types.ts"}
+{"propertySlug":"import","fileName":"progress-total.number-property.types.ts","path":"temper/player/progress/temper-task/temper-task.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-task/properties/progress.temper-task-progress.ts","id":"01a05fd3-435e-7d0d-8c81-036d195632f1"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-task/temper-task.page-type.ts","id":"01a05fd3-435f-7ddd-a951-70e6e3d31e07"}
 {"propertySlug":"parts","path":"temper/player/progress/temper-task/temper-task.page-type.ts","id":"01a05fd3-435f-7ddd-a951-70e6e3d31e07"}

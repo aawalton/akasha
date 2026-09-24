@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"check-cache.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"check-cache.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"check-cache.module.code.ts","path":"check/modules/cache/check-cache.module.test.ts"}
+{"propertySlug":"import","fileName":"check-cache.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-cache.module.code.ts","path":"check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-cache.module.code.ts","path":"check/modules/cache/check-cache.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

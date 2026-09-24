@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/imessage/send/imessage-send.command.ts","id":"01a0685f-c8ed-7004-8926-65ffc06d2862"}
-{"propertySlug":"import","fileName":"to-handle.argument.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts"}
-{"propertySlug":"import","fileName":"to-handle.argument.ts","path":"command/pages/imessage/send/imessage-send.command.test.ts"}
+{"propertySlug":"import","fileName":"to-handle.argument.ts","path":"command/pages/imessage/send/imessage-send.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"to-handle.argument.ts","path":"command/pages/imessage/send/imessage-send.command.test.ts","typed":false,"deferred":false}

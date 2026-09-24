@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"persona-points-rebuilding.module.code.ts","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.test.ts"}
-{"propertySlug":"import","fileName":"persona-points-rebuilding.module.code.ts","path":"alan/harness/service-workstations/persona-points-rebuilding/persona-points-rebuilding.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"persona-points-rebuilding.module.code.ts","path":"alan/harness/service-workstations/persona-points-rebuilding/persona-points-rebuilding.service-workstation.running.test.ts"}
-{"propertySlug":"import","fileName":"persona-points-rebuilding.module.code.ts","path":"command/pages/refresh/persona/refresh-persona.command.code.ts"}
+{"propertySlug":"import","fileName":"persona-points-rebuilding.module.code.ts","path":"alan/harness/modules/persona-points-rebuilding/persona-points-rebuilding.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona-points-rebuilding.module.code.ts","path":"alan/harness/service-workstations/persona-points-rebuilding/persona-points-rebuilding.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"persona-points-rebuilding.module.code.ts","path":"alan/harness/service-workstations/persona-points-rebuilding/persona-points-rebuilding.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"persona-points-rebuilding.module.code.ts","path":"command/pages/refresh/persona/refresh-persona.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}

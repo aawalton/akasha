@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts"}
-{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/answer/answer.module.test.ts"}
-{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/file-read/file-read.module.code.ts"}
-{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/get/get.module.code.ts"}
-{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/page-type/page-type.module.code.ts"}
-{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/ui-store/collection/modules/file-backing/file-backing.module.code.ts"}
-{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/ui-store/collection/modules/store/store.module.code.ts"}
+{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/answer/answer.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/file-read/file-read.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/get/get.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/access/modules/page-type/page-type.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/ui-store/collection/modules/file-backing/file-backing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"file-backed-roster.module.code.ts","path":"page/ui-store/collection/modules/store/store.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

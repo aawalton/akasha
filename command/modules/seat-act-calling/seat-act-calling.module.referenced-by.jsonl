@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"seat-act-calling.module.code.ts","path":"command/modules/seat-act-calling/seat-act-calling.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-act-calling.module.code.ts","path":"command/pages/seat/reset/seat-reset.command.code.ts"}
-{"propertySlug":"import","fileName":"seat-act-calling.module.code.ts","path":"command/pages/seat/resume/seat-resume.command.code.ts"}
-{"propertySlug":"import","fileName":"seat-act-calling.module.code.ts","path":"command/pages/seat/start/seat-start.command.code.ts"}
+{"propertySlug":"import","fileName":"seat-act-calling.module.code.ts","path":"command/modules/seat-act-calling/seat-act-calling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-act-calling.module.code.ts","path":"command/pages/seat/reset/seat-reset.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-act-calling.module.code.ts","path":"command/pages/seat/resume/seat-resume.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-act-calling.module.code.ts","path":"command/pages/seat/start/seat-start.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

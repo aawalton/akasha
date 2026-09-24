@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar-settings/combat-action-bar-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-crux-record/combat-action-crux-record.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-fonts/combat-action-fonts.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-shift-bar/combat-action-shift-bar.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-widget/combat-action-widget.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-actions-init/combat-actions-init.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar-settings/combat-action-bar-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-bar/combat-action-bar.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-cooldown/combat-action-cooldown.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-crux-record/combat-action-crux-record.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-fonts/combat-action-fonts.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-shift-bar/combat-action-shift-bar.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-action-widget/combat-action-widget.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-actions-saved-variables.module.code.ts","path":"temper/addon/pages/combat/modules/combat-actions-init/combat-actions-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

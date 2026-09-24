@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"character-capture-skill-line-groups.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"}
-{"propertySlug":"import","fileName":"character-capture-skill-line-groups.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts"}
-{"propertySlug":"import","fileName":"character-capture-skill-line-groups.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.code.ts"}
+{"propertySlug":"import","fileName":"character-capture-skill-line-groups.module.code.ts","path":"temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-capture-skill-line-groups.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-capture-skill-line-groups.module.code.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}

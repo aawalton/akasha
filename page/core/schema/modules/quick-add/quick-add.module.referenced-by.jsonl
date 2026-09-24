@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"quick-add.module.code.ts","path":"page/ui/component/modules/create-page-dialog/create-page-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"quick-add.module.code.ts","path":"page/ui/component/modules/quick-add-form/quick-add-form.module.code.tsx"}
-{"propertySlug":"import","fileName":"quick-add.module.code.ts","path":"page/ui/component/quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts"}
-{"propertySlug":"import","fileName":"quick-add.module.code.ts","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts"}
+{"propertySlug":"import","fileName":"quick-add.module.code.ts","path":"page/ui/component/modules/create-page-dialog/create-page-dialog.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"quick-add.module.code.ts","path":"page/ui/component/modules/quick-add-form/quick-add-form.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"quick-add.module.code.ts","path":"page/ui/component/quick-add/modules/compute-quick-add-payload/compute-quick-add-payload.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"quick-add.module.code.ts","path":"page/ui/component/quick-add/modules/use-active-quick-add-page-type/use-active-quick-add-page-type.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

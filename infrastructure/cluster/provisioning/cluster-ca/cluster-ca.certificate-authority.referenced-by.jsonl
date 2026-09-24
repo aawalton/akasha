@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"cluster-ca.certificate-authority.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}
+{"propertySlug":"import","fileName":"cluster-ca.certificate-authority.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts","id":"01a0675b-16d9-7eab-a110-f106ca00dad1"}

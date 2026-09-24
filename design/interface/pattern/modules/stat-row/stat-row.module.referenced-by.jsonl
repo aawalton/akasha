@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/companion-stat-group-panel-card/companion-stat-group-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/companion-surplus-panel-card/companion-surplus-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/effects-panel-card/effects-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx"}
-{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/optimization-panel-card/optimization-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/stat-subcategory-panel-card/stat-subcategory-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/companion-stat-group-panel-card/companion-stat-group-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/companion-surplus-panel-card/companion-surplus-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/effects-panel-card/effects-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/optimization-panel-card/optimization-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/modules/stat-subcategory-panel-card/stat-subcategory-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stat-row.module.code.tsx","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/pattern/design-interface-pattern.domain.ts","id":"01a05c51-8287-7dba-82e4-64786876e805"}

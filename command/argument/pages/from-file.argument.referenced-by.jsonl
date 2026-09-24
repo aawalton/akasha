@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/track/session/file/track-session-file.command.ts","id":"01a07979-8082-7e45-995c-fb8ebbddcda4"}
-{"propertySlug":"import","fileName":"from-file.argument.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts"}
-{"propertySlug":"import","fileName":"from-file.argument.ts","path":"command/pages/track/session/file/track-session-file.command.code.ts"}
-{"propertySlug":"import","fileName":"from-file.argument.ts","path":"command/pages/track/session/file/track-session-file.command.test.ts"}
+{"propertySlug":"import","fileName":"from-file.argument.ts","path":"command/pages/track/modules/session-rows/session-rows.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"from-file.argument.ts","path":"command/pages/track/session/file/track-session-file.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"from-file.argument.ts","path":"command/pages/track/session/file/track-session-file.command.test.ts","typed":false,"deferred":false}

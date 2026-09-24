@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/modules/mined-item-rows/mined-item-rows.module.test.ts"}
-{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/routes/api-items-search/api-items-search.route.code.ts"}
-{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/routes/api-items/api-items.route.code.ts"}
-{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.code.ts"}
-{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.code.ts"}
+{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/modules/mined-item-rows/mined-item-rows.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/routes/api-items-search/api-items-search.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/routes/api-items/api-items.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mined-item-rows.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

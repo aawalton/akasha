@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.code.ts"}
-{"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"code/path/modules/path-runs/path-runs.module.test.ts"}
-{"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"infrastructure/cluster/operation/promote/promote.shell-script.scripting.test.ts"}
+{"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"code/path/modules/path-runs/path-runs.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"path-runs.module.code.ts","path":"infrastructure/cluster/operation/promote/promote.shell-script.scripting.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/path/code-path.domain.ts","id":"01a09b2a-d60f-7700-b4b4-7b97bc6ba190"}

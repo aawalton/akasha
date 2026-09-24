@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.test.ts"}
-{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"completion-override.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}

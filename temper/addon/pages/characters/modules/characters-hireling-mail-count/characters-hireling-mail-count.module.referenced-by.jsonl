@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"characters-hireling-mail-count.module.code.ts","path":"temper/addon/pages/characters/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-hireling-mail-count.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-hireling-mail-count.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts"}
+{"propertySlug":"import","fileName":"characters-hireling-mail-count.module.code.ts","path":"temper/addon/pages/characters/modules/characters-hireling-mail-subscriber/characters-hireling-mail-subscriber.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-hireling-mail-count.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-auto-complete/characters-task-auto-complete.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-hireling-mail-count.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver/characters-task-progress-resolver.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

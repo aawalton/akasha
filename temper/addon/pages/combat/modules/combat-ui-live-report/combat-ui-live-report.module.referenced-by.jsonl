@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"combat-ui-live-report.module.code.ts","path":"temper/addon/pages/combat/combat-ui-live-report-declarations/combat-ui-live-report-declarations.type-declaration.d.ts"}
-{"propertySlug":"import","fileName":"combat-ui-live-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-live-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-live-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-window/combat-ui-window.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-live-report.module.code.ts","path":"temper/addon/pages/combat/combat-ui-live-report-declarations/combat-ui-live-report-declarations.type-declaration.d.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-live-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-core-events/combat-core-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-live-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-menu-tail/combat-menu-tail.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-live-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-window/combat-ui-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

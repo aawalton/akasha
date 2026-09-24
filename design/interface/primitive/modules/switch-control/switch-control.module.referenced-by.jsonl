@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"}
-{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/modules/automation-tab/automation-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/modules/inventory-tab/inventory-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/modules/notifications-tab/notifications-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/modules/other-panel-card/other-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-tier-eligibility/rule-card-destination-tier-eligibility.module.code.tsx"}
+{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/modules/automation-tab/automation-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/modules/inventory-tab/inventory-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/modules/notifications-tab/notifications-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/modules/other-panel-card/other-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"switch-control.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-tier-eligibility/rule-card-destination-tier-eligibility.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

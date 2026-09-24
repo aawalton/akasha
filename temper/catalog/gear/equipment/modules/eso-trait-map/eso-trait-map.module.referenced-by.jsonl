@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-match-context/inventory-explain-match-context.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/items/filters/core/modules/search-trait-filter/search-trait-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-match-context/inventory-explain-match-context.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/items/filters/core/modules/search-trait-filter/search-trait-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-trait-map.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}

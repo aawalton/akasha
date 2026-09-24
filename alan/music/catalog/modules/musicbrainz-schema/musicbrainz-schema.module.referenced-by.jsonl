@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"alan/music/catalog/modules/musicbrainz-client/musicbrainz-client.module.code.ts"}
-{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts"}
-{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.test.ts"}
-{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
-{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"alan/music/catalog/modules/musicbrainz-client/musicbrainz-client.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"alan/music/catalog/modules/musicbrainz-map/musicbrainz-map.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"musicbrainz-schema.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/music/catalog/music-catalog.domain.ts","id":"01a06238-8d2c-7f24-81f1-c8b7232268d3"}

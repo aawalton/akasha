@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"rule-quality-filter.module.code.ts","path":"temper/items/rules/core/modules/rule-filter-registry/rule-filter-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"rule-quality-filter.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-conditions-derive/rule-card-conditions-derive.module.code.ts"}
-{"propertySlug":"import","fileName":"rule-quality-filter.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-controlled-conditions/rule-card-controlled-conditions.module.code.tsx"}
-{"propertySlug":"import","fileName":"rule-quality-filter.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-threshold-chips/rule-card-filter-chips-item-threshold-chips.module.code.tsx"}
+{"propertySlug":"import","fileName":"rule-quality-filter.module.code.ts","path":"temper/items/rules/core/modules/rule-filter-registry/rule-filter-registry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-quality-filter.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-conditions-derive/rule-card-conditions-derive.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-quality-filter.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-controlled-conditions/rule-card-controlled-conditions.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-quality-filter.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-threshold-chips/rule-card-filter-chips-item-threshold-chips.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

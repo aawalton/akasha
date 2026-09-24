@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"characters-keyed-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-collector-merge/characters-collector-merge.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-keyed-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-scribing-merge/characters-scribing-merge.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-keyed-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-skill-lines-merge/characters-skill-lines-merge.module.code.ts"}
-{"propertySlug":"import","fileName":"characters-keyed-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-trait-research-merge/characters-trait-research-merge.module.code.ts"}
+{"propertySlug":"import","fileName":"characters-keyed-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-collector-merge/characters-collector-merge.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-keyed-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-scribing-merge/characters-scribing-merge.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-keyed-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-skill-lines-merge/characters-skill-lines-merge.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"characters-keyed-merge.module.code.ts","path":"temper/addon/pages/characters/modules/characters-trait-research-merge/characters-trait-research-merge.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

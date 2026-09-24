@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"lua-number-string.module.code.ts","path":"temper/catalog/upstream-data/modules/leaf-dump/leaf-dump.module.code.ts"}
-{"propertySlug":"import","fileName":"lua-number-string.module.code.ts","path":"temper/eso/lua-runner/modules/lua-number-string/lua-number-string.module.test.ts"}
+{"propertySlug":"import","fileName":"lua-number-string.module.code.ts","path":"temper/catalog/upstream-data/modules/leaf-dump/leaf-dump.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-number-string.module.code.ts","path":"temper/eso/lua-runner/modules/lua-number-string/lua-number-string.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}

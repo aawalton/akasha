@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"macbook.host.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"macbook.host.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/csm.service-inference.ts","id":"01a090a2-71a8-79b2-a532-b27c27e05122"}
 {"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/higgs-audio.service-inference.ts","id":"01a090a2-4671-73bf-9c7f-1581d427b5b9"}
 {"propertySlug":"inference-host","path":"infrastructure/inference/pool/service-inferences/image-gen.service-inference.ts","id":"01a090a2-e6cb-721a-882d-350f1bbdcced"}

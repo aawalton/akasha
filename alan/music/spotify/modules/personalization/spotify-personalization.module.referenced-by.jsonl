@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"spotify-personalization.module.code.ts","path":"alan/music/spotify/modules/personalization/spotify-personalization.module.test.ts"}
-{"propertySlug":"import","fileName":"spotify-personalization.module.code.ts","path":"command/pages/music/listening/music-listening.command.code.ts"}
+{"propertySlug":"import","fileName":"spotify-personalization.module.code.ts","path":"alan/music/spotify/modules/personalization/spotify-personalization.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-personalization.module.code.ts","path":"command/pages/music/listening/music-listening.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-personalization.module.code.ts","path":"command/pages/music/listening/music-listening.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}

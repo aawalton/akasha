@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"main.code-file-property.types.ts","path":"code/ios-harness/ios-harness.page-type.types.ts"}
-{"propertySlug":"import","fileName":"main.code-file-property.types.ts","path":"code/ios-program/ios-program.page-type.types.ts"}
+{"propertySlug":"import","fileName":"main.code-file-property.types.ts","path":"code/ios-harness/ios-harness.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"main.code-file-property.types.ts","path":"code/ios-program/ios-program.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"code/ios-harness/ios-harness.page-type.ts","id":"01a0584d-22a8-7eb5-83f8-e9912fd9297c"}
 {"propertySlug":"page-property","path":"code/ios-program/ios-program.page-type.ts","id":"01a05901-26b3-7d1b-aec6-3b467f5f5b8d"}
 {"propertySlug":"parts","path":"code/ios-program/ios-program.page-type.ts","id":"01a05901-26b3-7d1b-aec6-3b467f5f5b8d"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"toggle.module.code.tsx","path":"design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx"}
-{"propertySlug":"import","fileName":"toggle.module.code.tsx","path":"design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"toggle.module.code.tsx","path":"temper/web/modules/stats-toolbar/stats-toolbar.module.code.tsx"}
+{"propertySlug":"import","fileName":"toggle.module.code.tsx","path":"design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"toggle.module.code.tsx","path":"design/interface/system/modules/components-form-controls-panels/components-form-controls-panels.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"toggle.module.code.tsx","path":"temper/web/modules/stats-toolbar/stats-toolbar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

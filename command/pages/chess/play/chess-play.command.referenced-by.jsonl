@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"chess-play.command.code.ts","path":"command/pages/chess/play/chess-play.command.test.ts"}
-{"propertySlug":"import","fileName":"chess-play.command.ts","path":"command/pages/chess/play/chess-play.command.code.ts"}
+{"propertySlug":"import","fileName":"chess-play.command.code.ts","path":"command/pages/chess/play/chess-play.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"chess-play.command.code.ts","path":"command/pages/chess/play/chess-play.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"chess-play.command.ts","path":"command/pages/chess/play/chess-play.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/chess/chess.namespace.ts","id":"01a0a040-5c4d-721b-9a58-8152382ae8f2"}

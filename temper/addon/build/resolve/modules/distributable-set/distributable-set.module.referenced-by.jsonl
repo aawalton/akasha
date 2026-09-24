@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"distributable-set.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts"}
-{"propertySlug":"import","fileName":"distributable-set.module.code.ts","path":"temper/addon/build/resolve/modules/distributable-set/distributable-set.module.test.ts"}
+{"propertySlug":"import","fileName":"distributable-set.module.code.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"distributable-set.module.code.ts","path":"temper/addon/build/resolve/modules/distributable-set/distributable-set.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/build/resolve/temper-addon-resolve.domain.ts","id":"01a06060-ec3c-725c-b37c-206e3c7f7e97"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"music-release-parts.command.code.ts","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"music-release-parts.command.code.ts","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.running.test.ts"}
-{"propertySlug":"import","fileName":"music-release-parts.command.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.test.ts"}
-{"propertySlug":"import","fileName":"music-release-parts.command.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
+{"propertySlug":"import","fileName":"music-release-parts.command.code.ts","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"music-release-parts.command.code.ts","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"music-release-parts.command.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"music-release-parts.command.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/music/music.namespace.ts","id":"01a07bbf-258e-7f64-8bc2-f340c44e592e"}

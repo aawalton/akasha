@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"alan/atlas-web/routes/atlas-api-errors/atlas-api-errors.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"alan/requests-web/routes/requests-api-errors/requests-api-errors.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"alan/web/routes/alan-web-api-errors/alan-web-api-errors.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-errors/archive-of-worlds-api-errors.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-errors/audhdalan-api-errors.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-errors/jenny-api-errors.route.code.ts"}
-{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"temper/web/routes/api-errors/api-errors.route.code.ts"}
+{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"alan/atlas-web/routes/atlas-api-errors/atlas-api-errors.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"alan/requests-web/routes/requests-api-errors/requests-api-errors.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"alan/web/routes/alan-web-api-errors/alan-web-api-errors.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-api-errors/archive-of-worlds-api-errors.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-errors/audhdalan-api-errors.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-errors/jenny-api-errors.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"answer-error-report.module.code.ts","path":"temper/web/routes/api-errors/api-errors.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}

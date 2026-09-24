@@ -3,10 +3,10 @@
 {"propertySlug":"argument","path":"command/pages/talos/health/talos-health.command.ts","id":"01a06810-1f0b-7aac-ab38-a6658f91ee11"}
 {"propertySlug":"argument","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.ts","id":"01a06810-1f0b-744f-aff5-3618b540bf6c"}
 {"propertySlug":"argument","path":"command/pages/talos/remote-install/talos-remote-install.command.ts","id":"01a06810-1f0b-741e-a044-c84fec558b56"}
-{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts"}
-{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.code.ts"}
-{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.test.ts"}
-{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/health/talos-health.command.code.ts"}
-{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/health/talos-health.command.test.ts"}
-{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.code.ts"}
-{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/remote-install/talos-remote-install.command.code.ts"}
+{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/health/talos-health.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/health/talos-health.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/kubeconfig/talos-kubeconfig.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ip.argument.ts","path":"command/pages/talos/remote-install/talos-remote-install.command.code.ts","typed":false,"deferred":false}

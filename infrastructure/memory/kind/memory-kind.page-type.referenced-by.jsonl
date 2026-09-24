@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/available.memory-kind.ts"}
-{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/cached.memory-kind.ts"}
-{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/proportional.memory-kind.ts"}
-{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/resident.memory-kind.ts"}
-{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/shared.memory-kind.ts"}
-{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/swap.memory-kind.ts"}
-{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/virtual.memory-kind.ts"}
+{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/available.memory-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/cached.memory-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/proportional.memory-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/resident.memory-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/shared.memory-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/swap.memory-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"memory-kind.page-type.types.ts","path":"infrastructure/memory/kind/pages/virtual.memory-kind.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/memory/memory.domain.ts","id":"01a09115-c783-7db5-b3bb-5b8349b6b51d"}

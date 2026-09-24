@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"member-name.text-property.types.ts","path":"domain/list/properties/list-members.record-property.types.ts"}
+{"propertySlug":"import","fileName":"member-name.text-property.types.ts","path":"domain/list/properties/list-members.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"domain/list/properties/list-members.record-property.ts","id":"01a06838-7a9e-7730-9e7f-e9d9393fe6ad"}
 {"propertySlug":"parts","path":"domain/list/list.page-type.ts","id":"01a06838-7a9d-7597-b7a6-0f752f753e26"}

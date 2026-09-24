@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/inference/generate/inference-generate.command.ts","id":"01a0685e-fd50-7a4c-ba59-ae4e2497a4c5"}
 {"propertySlug":"argument","path":"command/pages/inference/zimage/inference-zimage.command.ts","id":"01a0680a-9cc0-7f99-8e78-ba4b0f5be1dd"}
-{"propertySlug":"import","fileName":"guidance.argument.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts"}
-{"propertySlug":"import","fileName":"guidance.argument.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts"}
+{"propertySlug":"import","fileName":"guidance.argument.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"guidance.argument.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":false,"deferred":false}

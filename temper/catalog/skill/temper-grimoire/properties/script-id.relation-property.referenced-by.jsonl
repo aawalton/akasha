@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"script-id.relation-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"script-id.relation-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"script-id.relation-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"script-id.relation-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.ts","id":"01a05fca-cb80-7359-bca5-e38d0406dff4"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.ts","id":"01a05fca-cb86-72c5-aca4-0aea9d43b601"}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.ts","id":"01a05fca-cb89-7d99-aa9d-e89e410a0f89"}

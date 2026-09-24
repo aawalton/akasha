@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"mlx-image-client.module.code.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts"}
+{"propertySlug":"import","fileName":"mlx-image-client.module.code.ts","path":"command/pages/inference/generate/inference-generate.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/client/inference-client.domain.ts","id":"01a0682d-8f07-7000-ab6b-b7ebbf0863a0"}

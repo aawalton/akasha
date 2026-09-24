@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-armor-weights.module.code.ts","path":"temper/web/modules/companion-armor-panel-card/companion-armor-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}

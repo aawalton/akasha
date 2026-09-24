@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts"}
-{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/player/character/stat/modules/format-effects/format-effects.module.code.ts"}
-{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts"}
-{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/effect-badge/effect-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/effect-card/effect-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx"}
-{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/stat-explanation-dialog/stat-explanation-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/player/character/stat/modules/format-effects/format-effects.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/effect-badge/effect-badge.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/effect-card/effect-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"number-format.module.code.ts","path":"temper/web/modules/stat-explanation-dialog/stat-explanation-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"temper-items-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-items-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-items-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.code.ts"}
-{"propertySlug":"import","fileName":"temper-items-global.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-public-api/inventory-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"temper-items-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment-registry/characters-task-hud-enrichment-registry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-items-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-items-global.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-items-global.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-public-api/inventory-public-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/type/temper-addon-type.domain.ts","id":"01a06090-f5ac-7f47-be1b-dc303670f2ad"}

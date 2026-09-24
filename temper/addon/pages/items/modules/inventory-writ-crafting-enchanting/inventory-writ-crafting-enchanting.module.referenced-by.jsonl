@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"inventory-writ-crafting-enchanting.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-writ-crafting-enchanting.module.code.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-writ-crafting-enchanting.module.code.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-writ-crafting-enchanting.module.code.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master/inventory-writ-crafting-master.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-writ-crafting-enchanting.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-writ-crafting-enchanting.module.code.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-writ-crafting-enchanting.module.code.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-dispatch/inventory-writ-crafting-dispatch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-writ-crafting-enchanting.module.code.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-master/inventory-writ-crafting-master.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

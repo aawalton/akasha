@@ -1,10 +1,10 @@
-{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/basic-quest.world-quest.ts"}
-{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/heroic-quest.world-quest.ts"}
-{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/legendary-quest.world-quest.ts"}
-{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/mythical-quest.world-quest.ts"}
-{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/rare-quest.world-quest.ts"}
-{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/rare-quests.world-quest.ts"}
-{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/royal-quest.world-quest.ts"}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/basic-quest.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/heroic-quest.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/legendary-quest.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/mythical-quest.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/rare-quest.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/rare-quests.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/royal-quest.world-quest.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"view-page-type","path":"page/view/pages/quests-alphabetical.view.ts","id":"01a0c954-117b-7a82-85b6-77f4b006be45"}
 {"propertySlug":"view-page-type","path":"page/view/pages/quests-most-seen.view.ts","id":"01a0c954-1167-777c-9e08-69b49c007788"}

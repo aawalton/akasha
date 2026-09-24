@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.test.ts"}
-{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-management-plan.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/routing/temper-items-rules-routing.domain.ts","id":"01a0615a-a1de-7f51-9fb6-fb90ff022184"}

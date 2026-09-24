@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx"}
-{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/optimization-panel-card/optimization-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/stat-category-panel-card/stat-category-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/stat-subcategory-panel-card/stat-subcategory-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/stats-panel/stats-panel.module.code.tsx"}
+{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/metric-tree-renderer/metric-tree-renderer.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/optimization-panel-card/optimization-panel-card.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/stat-category-panel-card/stat-category-panel-card.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/stat-subcategory-panel-card/stat-subcategory-panel-card.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"stats-types.module.code.ts","path":"temper/web/modules/stats-panel/stats-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

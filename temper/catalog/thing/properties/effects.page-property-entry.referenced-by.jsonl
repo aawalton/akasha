@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.types.ts"}
-{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.types.ts"}
-{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.types.ts"}
-{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effects.page-property-entry.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts","id":"01a05fc5-94ce-7166-8475-467d3eb17bf9"}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts","id":"01a05fc5-94ce-7bed-8828-2d7236ba09a9"}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts","id":"01a05fc5-94cf-7021-9a7d-21e4794bdc95"}

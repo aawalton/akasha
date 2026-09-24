@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"panel-place.page-type.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/game/game-panel/panel-place/pages/above.panel-place.ts"}
-{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/game/game-panel/panel-place/pages/aside.panel-place.ts"}
-{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/game/game-panel/panel-place/pages/run.panel-place.ts"}
+{"propertySlug":"import","fileName":"panel-place.page-type.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/game/game-panel/panel-place/pages/above.panel-place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/game/game-panel/panel-place/pages/aside.panel-place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"panel-place.page-type.types.ts","path":"story/game/game-panel/panel-place/pages/run.panel-place.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/game/game-panel/game-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}
 {"propertySlug":"target-page-type","path":"story/game/game-panel/properties/drawn-in.relation-property.ts","id":"01a0c4c8-fe4c-7fa4-ae78-af86f4bbc920"}

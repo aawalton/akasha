@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-health/cluster-health.module.code.ts"}
-{"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-watching/cluster-watching.module.code.ts"}
-{"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-watching/service-watching.module.code.ts"}
-{"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-wellness/service-wellness.module.test.ts"}
+{"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-health/cluster-health.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-watching/cluster-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-watching/service-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service-wellness.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-wellness/service-wellness.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

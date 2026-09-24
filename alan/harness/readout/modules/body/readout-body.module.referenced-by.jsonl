@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"}
-{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"}
-{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/readout/modules/scale-reading/readout-scale-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/readout/modules/serving/readout-serving.module.code.ts"}
+{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/readout/modules/scale-reading/readout-scale-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"readout-body.module.code.ts","path":"alan/harness/readout/modules/serving/readout-serving.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}

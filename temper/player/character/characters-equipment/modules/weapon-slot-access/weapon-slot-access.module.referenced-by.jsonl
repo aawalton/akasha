@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts"}
-{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"}
-{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"}
-{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx"}
-{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-slot-access.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}

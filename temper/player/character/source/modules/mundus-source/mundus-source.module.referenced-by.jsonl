@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"}
-{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts"}
-{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/player/character/stat/modules/extract-mundus/extract-mundus.module.code.ts"}
-{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/web/modules/character-panel/character-panel.module.code.tsx"}
-{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/web/modules/consumables-panel-card/consumables-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/web/modules/mundus-select-dialog/mundus-select-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/player/character/stat/modules/extract-mundus/extract-mundus.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/web/modules/character-panel/character-panel.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/web/modules/consumables-panel-card/consumables-panel-card.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mundus-source.module.code.ts","path":"temper/web/modules/mundus-select-dialog/mundus-select-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/source/temper-character-source.domain.ts","id":"01a060ea-ac66-7120-a995-b58614b651f2"}

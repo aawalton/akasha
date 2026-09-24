@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/agents/agents.agent-settings.ts"}
-{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/claude-config/claude-config.agent-settings.ts"}
-{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/launch-flags/launch-flags.agent-settings.ts"}
-{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/mcp-servers/mcp-servers.agent-settings.ts"}
-{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/remote-control/remote-control.agent-settings.ts"}
-{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/tool-access/tool-access.agent-settings.ts"}
+{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/agents/agents.agent-settings.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/claude-config/claude-config.agent-settings.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/launch-flags/launch-flags.agent-settings.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/mcp-servers/mcp-servers.agent-settings.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/remote-control/remote-control.agent-settings.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent-settings.page-type.types.ts","path":"agent/settings/pages/tool-access/tool-access.agent-settings.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}

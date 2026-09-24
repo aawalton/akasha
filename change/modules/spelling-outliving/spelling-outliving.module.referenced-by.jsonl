@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.code.ts"}
-{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/modules/spelling-outliving/spelling-outliving.module.test.ts"}
+{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/file/rename/rename-file-pages/rename-file-pages.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/folder/move-folder/move-folder.change-mechanical-folder.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"spelling-outliving.module.code.ts","path":"change/modules/spelling-outliving/spelling-outliving.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

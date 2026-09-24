@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"seat-usage.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-usage.module.code.ts","path":"agent/seat/usage/modules/keep/seat-usage-keep.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-usage.module.code.ts","path":"agent/seat/usage/modules/show/seat-usage-show.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-usage.module.code.ts","path":"agent/seat/usage/seat-usage.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-usage.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-usage.module.code.ts","path":"agent/seat/usage/modules/keep/seat-usage-keep.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-usage.module.code.ts","path":"agent/seat/usage/modules/show/seat-usage-show.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-usage.module.code.ts","path":"agent/seat/usage/seat-usage.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

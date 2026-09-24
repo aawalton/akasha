@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"design/interface/layout/modules/page-layout/page-layout.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"design/interface/layout/modules/virtual-card-grid/virtual-card-grid.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"design/interface/system/modules/layout-tab/layout-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"page/ui/component/modules/page-card-grid/page-card-grid.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"temper/web/modules/character-editor-content/character-editor-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"temper/web/modules/companion-editor-content/companion-editor-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"design/interface/layout/modules/page-layout/page-layout.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"design/interface/layout/modules/virtual-card-grid/virtual-card-grid.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"design/interface/system/modules/layout-tab/layout-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"page/ui/component/modules/page-card-grid/page-card-grid.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"temper/web/modules/character-editor-content/character-editor-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-column-count.module.code.tsx","path":"temper/web/modules/companion-editor-content/companion-editor-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/layout/design-interface-layout.domain.ts","id":"01a05b82-8b9b-7e30-9148-8941b6ccd5ff"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"alan/google/calendar/modules/calendar-event-schema/calendar-event-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"alan/google/calendar/modules/calendar-events/calendar-events.module.code.ts"}
-{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"alan/google/calendar/modules/send-updates-narrowing/send-updates-narrowing.module.code.ts"}
-{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"command/modules/calendar-eventing/calendar-eventing.module.code.ts"}
-{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts"}
+{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"alan/google/calendar/modules/calendar-event-schema/calendar-event-schema.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"alan/google/calendar/modules/calendar-events/calendar-events.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"alan/google/calendar/modules/send-updates-narrowing/send-updates-narrowing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"command/modules/calendar-eventing/calendar-eventing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-event-shapes.module.code.ts","path":"command/pages/google/calendar/event/rsvp/google-calendar-event-rsvp.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/google/calendar/google-calendar.domain.ts","id":"01a05c02-c732-7b6e-b180-61f29e1b42e7"}

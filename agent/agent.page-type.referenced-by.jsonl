@@ -1,6 +1,6 @@
 {"propertySlug":"championed-domain","path":"persona/pages/athena/athena.persona.ts","id":"019f2330-25c9-770c-894f-fd4ac497997c"}
 {"propertySlug":"extends-type","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"extends-type","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
-{"propertySlug":"import","fileName":"agent.page-type.types.ts","path":"agent/seat/seat.page-type.types.ts"}
-{"propertySlug":"import","fileName":"agent.page-type.types.ts","path":"agent/subagent/subagent.page-type.types.ts"}
+{"propertySlug":"import","fileName":"agent.page-type.types.ts","path":"agent/seat/seat.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"agent.page-type.types.ts","path":"agent/subagent/subagent.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}

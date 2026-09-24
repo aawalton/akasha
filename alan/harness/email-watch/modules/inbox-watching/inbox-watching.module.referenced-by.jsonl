@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"inbox-watching.module.code.ts","path":"alan/harness/email-watch/service-workstations/alan-email-worker/alan-email-worker.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"inbox-watching.module.code.ts","path":"alan/harness/email-watch/service-workstations/alan-email-worker/alan-email-worker.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"inbox-watching.module.code.ts","path":"alan/harness/email-watch/service-workstations/alan-email-worker/alan-email-worker.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inbox-watching.module.code.ts","path":"alan/harness/email-watch/service-workstations/alan-email-worker/alan-email-worker.service-workstation.running.test.ts","typed":false,"deferred":true}
 {"propertySlug":"parts","path":"alan/harness/email-watch/email-watch.domain.ts","id":"01a06596-a92e-7000-b678-5d6232425a71"}

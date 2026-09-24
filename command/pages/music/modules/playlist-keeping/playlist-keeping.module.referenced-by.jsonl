@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"playlist-keeping.module.code.ts","path":"command/pages/music/modules/playlist-keeping/playlist-keeping.module.test.ts"}
-{"propertySlug":"import","fileName":"playlist-keeping.module.code.ts","path":"command/pages/music/ungraded-playlist/music-ungraded-playlist.command.code.ts"}
-{"propertySlug":"import","fileName":"playlist-keeping.module.code.ts","path":"command/pages/music/unheard-playlist/music-unheard-playlist.command.code.ts"}
+{"propertySlug":"import","fileName":"playlist-keeping.module.code.ts","path":"command/pages/music/modules/playlist-keeping/playlist-keeping.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"playlist-keeping.module.code.ts","path":"command/pages/music/ungraded-playlist/music-ungraded-playlist.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"playlist-keeping.module.code.ts","path":"command/pages/music/unheard-playlist/music-unheard-playlist.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/music/music.namespace.ts","id":"01a07bbf-258e-7f64-8bc2-f340c44e592e"}

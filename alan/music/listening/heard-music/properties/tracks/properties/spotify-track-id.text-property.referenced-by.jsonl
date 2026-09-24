@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"spotify-track-id.text-property.types.ts","path":"alan/music/listening/heard-music/properties/tracks/tracks.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"spotify-track-id.text-property.types.ts","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"spotify-track-id.text-property.types.ts","path":"alan/music/listening/heard-music/properties/tracks/tracks.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"spotify-track-id.text-property.types.ts","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/music/listening/heard-music/properties/tracks/tracks.page-property-entry.ts","id":"01a06240-340f-700b-b409-ccc0e5bff5e6"}
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts","id":"01a06240-340f-7001-ad7b-818302ce884a"}
 {"propertySlug":"parts","path":"alan/music/listening/heard-music/properties/tracks/tracks.page-property-entry.ts","id":"01a06240-340f-700b-b409-ccc0e5bff5e6"}

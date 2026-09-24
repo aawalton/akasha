@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"rule-card-conditions-patch.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-card-action-handler/use-rule-card-action-handler.module.code.ts"}
-{"propertySlug":"import","fileName":"rule-card-conditions-patch.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-card-condition-handlers/use-rule-card-condition-handlers.module.code.ts"}
-{"propertySlug":"import","fileName":"rule-card-conditions-patch.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"}
+{"propertySlug":"import","fileName":"rule-card-conditions-patch.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-card-action-handler/use-rule-card-action-handler.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-card-conditions-patch.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-card-condition-handlers/use-rule-card-condition-handlers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rule-card-conditions-patch.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/player-inventory-management-ui/temper-player-inventory-management-ui.domain.ts","id":"01a0636c-5da1-77be-aadf-aea8caa7006f"}

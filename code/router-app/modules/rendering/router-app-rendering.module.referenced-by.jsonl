@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"alan/atlas-web/entry.server.tsx"}
-{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"alan/requests-web/entry.server.tsx"}
-{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"alan/web/entry.server.tsx"}
-{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"product/archive-of-worlds/web/entry.server.tsx"}
-{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"product/audhdalan/web/entry.server.tsx"}
-{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"product/smilingjenny/web/entry.server.tsx"}
-{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"product/wandering-inn-wiki/web/entry.server.tsx"}
+{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"alan/atlas-web/entry.server.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"alan/requests-web/entry.server.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"alan/web/entry.server.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"product/archive-of-worlds/web/entry.server.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"product/audhdalan/web/entry.server.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"product/smilingjenny/web/entry.server.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"router-app-rendering.module.code.tsx","path":"product/wandering-inn-wiki/web/entry.server.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seat-page-writing.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-page-writing.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-page-writing.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-writing.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-page-writing.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-page-writing.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

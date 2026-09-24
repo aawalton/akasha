@@ -3,5 +3,5 @@
 {"propertySlug":"feature-request-product","path":"product/kofi/feature-request/pages/test-3.feature-request.ts","id":"01a0c5f1-0b62-7532-9d99-0e75cfc7022b"}
 {"propertySlug":"feature-request-product","path":"product/kofi/feature-request/pages/test-4.feature-request.ts","id":"01a0c5f2-d500-75c0-8220-215241c890d4"}
 {"propertySlug":"feature-request-product","path":"product/kofi/feature-request/pages/test.feature-request.ts","id":"01a0c51b-8050-7823-8b70-67176168e85d"}
-{"propertySlug":"import","fileName":"alan.domain.ts","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.code.ts"}
+{"propertySlug":"import","fileName":"alan.domain.ts","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}

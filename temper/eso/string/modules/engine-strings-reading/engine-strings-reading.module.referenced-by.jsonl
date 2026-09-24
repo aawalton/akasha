@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"engine-strings-reading.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts"}
-{"propertySlug":"import","fileName":"engine-strings-reading.module.code.ts","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"engine-strings-reading.module.code.ts","path":"temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.code.ts"}
+{"propertySlug":"import","fileName":"engine-strings-reading.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"engine-strings-reading.module.code.ts","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"engine-strings-reading.module.code.ts","path":"temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/string/temper-eso-string.domain.ts","id":"01a0d417-0c97-720e-8c62-96038b6b3ee6"}

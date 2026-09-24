@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"combat-ui-chat-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-slash-command/combat-slash-command.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-chat-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-ui-chat-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-ui-chat-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-slash-command/combat-slash-command.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-chat-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-context-menus/combat-ui-context-menus.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-ui-chat-report.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

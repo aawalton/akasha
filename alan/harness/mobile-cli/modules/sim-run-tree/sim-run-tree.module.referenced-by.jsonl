@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"sim-run-tree.module.code.ts","path":"alan/harness/mobile-cli/modules/build-input-sources/build-input-sources.module.code.ts"}
-{"propertySlug":"import","fileName":"sim-run-tree.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.test.ts"}
-{"propertySlug":"import","fileName":"sim-run-tree.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"}
-{"propertySlug":"import","fileName":"sim-run-tree.module.code.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts"}
+{"propertySlug":"import","fileName":"sim-run-tree.module.code.ts","path":"alan/harness/mobile-cli/modules/build-input-sources/build-input-sources.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-run-tree.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-run-tree/sim-run-tree.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-run-tree.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sim-run-tree.module.code.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}

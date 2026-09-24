@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.code.ts"}
-{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts"}
-{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"}
-{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.code.ts"}
-{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.code.ts"}
-{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/capture/datamining/reader/modules/saved-variables-schema/saved-variables-schema.module.code.ts"}
+{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"datamining-payload.module.code.ts","path":"temper/capture/datamining/reader/modules/saved-variables-schema/saved-variables-schema.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/capture/datamining/temper-capture-datamining.domain.ts","id":"01a0608a-15b0-78f6-8e8e-282460347005"}

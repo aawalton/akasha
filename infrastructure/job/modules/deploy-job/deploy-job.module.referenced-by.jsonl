@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"}
-{"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts"}
-{"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.test.ts"}
+{"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy-job.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/job/job.domain.ts","id":"01a0675b-16eb-7759-adf7-dac753ca5b98"}

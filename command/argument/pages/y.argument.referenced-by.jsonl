@@ -1,5 +1,5 @@
 {"propertySlug":"argument","path":"command/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.ts","id":"01a0685d-ceae-7008-b721-3b37d87dca97"}
 {"propertySlug":"argument","path":"command/pages/mobile/sim/tap/mobile-sim-tap.command.ts","id":"01a0685d-ceae-700d-a860-a518622e0d4a"}
-{"propertySlug":"import","fileName":"y.argument.ts","path":"command/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts"}
-{"propertySlug":"import","fileName":"y.argument.ts","path":"command/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts"}
+{"propertySlug":"import","fileName":"y.argument.ts","path":"command/pages/mobile/sim/long-press-drag/mobile-sim-long-press-drag.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"y.argument.ts","path":"command/pages/mobile/sim/tap/mobile-sim-tap.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"not-with","path":"command/pages/mobile/sim/tap/mobile-sim-tap.command.ts","id":"01a0685d-ceae-700d-a860-a518622e0d4a"}

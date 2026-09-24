@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"build-visibility.select-property.ts","path":"temper/player/character/character-build/properties/build-visibility.select-property.types.ts"}
-{"propertySlug":"import","fileName":"build-visibility.select-property.types.ts","path":"temper/player/character/character-build/character-build.page-type.types.ts"}
-{"propertySlug":"import","fileName":"build-visibility.select-property.types.ts","path":"temper/player/character/companion-build/companion-build.page-type.types.ts"}
+{"propertySlug":"import","fileName":"build-visibility.select-property.ts","path":"temper/player/character/character-build/properties/build-visibility.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"build-visibility.select-property.types.ts","path":"temper/player/character/character-build/character-build.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"build-visibility.select-property.types.ts","path":"temper/player/character/companion-build/companion-build.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/character-build/character-build.page-type.ts","id":"01a06835-fae8-7243-8c39-219aa5e07daf"}
 {"propertySlug":"page-property","path":"temper/player/character/companion-build/companion-build.page-type.ts","id":"01a06835-fae8-7a27-90c7-c499c3e046cc"}
 {"propertySlug":"parts","path":"temper/player/character/character-build/character-build.page-type.ts","id":"01a06835-fae8-7243-8c39-219aa5e07daf"}

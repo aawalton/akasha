@@ -1,5 +1,5 @@
 {"propertySlug":"extends-type","path":"alan/harness/inbox/email-rule/agent/email-rule-agent.page-type.ts","id":"01a06828-59d3-7dd3-b9b9-fa6dda8d02d4"}
 {"propertySlug":"extends-type","path":"alan/harness/inbox/email-rule/code/email-rule-code.page-type.ts","id":"01a06828-59d3-7d52-bae3-818debc51db7"}
-{"propertySlug":"import","fileName":"email-rule.page-type.types.ts","path":"alan/harness/inbox/email-rule/agent/email-rule-agent.page-type.types.ts"}
-{"propertySlug":"import","fileName":"email-rule.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/email-rule-code.page-type.types.ts"}
+{"propertySlug":"import","fileName":"email-rule.page-type.types.ts","path":"alan/harness/inbox/email-rule/agent/email-rule-agent.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-rule.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/email-rule-code.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/inbox/inbox.domain.ts","id":"01a06230-b156-7347-be47-6f5960ced389"}

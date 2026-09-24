@@ -1,5 +1,5 @@
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.ts","id":"01a05fca-cb89-7d99-aa9d-e89e410a0f89"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-script/temper-script.page-type.ts","id":"01a05fca-cb8d-7226-b1b1-e268930470a2"}
-{"propertySlug":"import","fileName":"temper-scribing-thing.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.types.ts"}
-{"propertySlug":"import","fileName":"temper-scribing-thing.page-type.types.ts","path":"temper/catalog/skill/temper-script/temper-script.page-type.types.ts"}
+{"propertySlug":"import","fileName":"temper-scribing-thing.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/temper-grimoire.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-scribing-thing.page-type.types.ts","path":"temper/catalog/skill/temper-script/temper-script.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}

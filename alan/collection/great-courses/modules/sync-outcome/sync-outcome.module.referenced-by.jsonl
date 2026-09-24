@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/catalogue/catalogue.module.code.ts"}
-{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/create-course/create-course.module.code.ts"}
-{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.code.ts"}
-{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.code.ts"}
-{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/sync/sync.module.code.ts"}
+{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/catalogue/catalogue.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/create-course/create-course.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/root-parent-query/root-parent-query.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/sync-run/sync-run.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sync-outcome.module.code.ts","path":"alan/collection/great-courses/modules/sync/sync.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/collection/great-courses/great-courses.domain.ts","id":"01a06579-f3d9-7008-be12-f37f13da607b"}

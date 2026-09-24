@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"design/interface/layout/modules/panel-card/panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"design/interface/pattern/modules/collapsible-group-section/collapsible-group-section.module.code.tsx"}
-{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"page/ui/component/modules/page-detail-sections/page-detail-sections.module.code.tsx"}
-{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"temper/web/modules/skill-selection-dialog/skill-selection-dialog.module.code.tsx"}
+{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"design/interface/layout/modules/panel-card/panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"design/interface/pattern/modules/collapsible-group-section/collapsible-group-section.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"page/ui/component/modules/page-detail-sections/page-detail-sections.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"collapsible.module.code.tsx","path":"temper/web/modules/skill-selection-dialog/skill-selection-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

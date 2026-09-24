@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"google-login.command.code.ts","path":"command/pages/google/login/google-login.command.test.ts"}
-{"propertySlug":"import","fileName":"google-login.command.ts","path":"command/pages/google/login/google-login.command.code.ts"}
-{"propertySlug":"import","fileName":"google-login.command.ts","path":"command/pages/google/login/google-login.command.test.ts"}
+{"propertySlug":"import","fileName":"google-login.command.code.ts","path":"command/pages/google/login/google-login.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"google-login.command.ts","path":"command/pages/google/login/google-login.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"google-login.command.ts","path":"command/pages/google/login/google-login.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/google/google.namespace.ts","id":"01a08cd7-2c63-718b-88bf-b2c367f52826"}

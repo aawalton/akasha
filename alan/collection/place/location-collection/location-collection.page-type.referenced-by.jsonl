@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"location-collection.page-type.types.ts","path":"alan/collection/place/location-collection/pages/europe-trip-2026/europe-trip-2026.location-collection.ts"}
-{"propertySlug":"import","fileName":"location-collection.page-type.types.ts","path":"alan/collection/place/location-collection/pages/my-places/my-places.location-collection.ts"}
-{"propertySlug":"import","fileName":"location-collection.page-type.types.ts","path":"alan/collection/place/location-collection/pages/starving-student-card/starving-student-card.location-collection.ts"}
+{"propertySlug":"import","fileName":"location-collection.page-type.types.ts","path":"alan/collection/place/location-collection/pages/europe-trip-2026/europe-trip-2026.location-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"location-collection.page-type.types.ts","path":"alan/collection/place/location-collection/pages/my-places/my-places.location-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"location-collection.page-type.types.ts","path":"alan/collection/place/location-collection/pages/starving-student-card/starving-student-card.location-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/collection/place/place.domain.ts","id":"01a06590-0000-7000-8000-000000000201"}
 {"propertySlug":"target-page-type","path":"alan/collection/place/location/properties/collection.relation-property.ts","id":"01a06583-acfb-7d2e-8d12-b5df7cabbd81"}

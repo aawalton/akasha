@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/filters/core/modules/search-level-filter/search-level-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/filters/core/modules/search-market-value-filter/search-market-value-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/filters/core/modules/search-merchant-value-filter/search-merchant-value-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/filters/core/modules/search-value-filter/search-value-filter.module.code.ts"}
-{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/rules/eval/modules/check-numeric/check-numeric.module.test.ts"}
-{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts"}
+{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/filters/core/modules/search-level-filter/search-level-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/filters/core/modules/search-market-value-filter/search-market-value-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/filters/core/modules/search-merchant-value-filter/search-merchant-value-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/filters/core/modules/search-value-filter/search-value-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/rules/eval/modules/check-numeric/check-numeric.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"check-numeric.module.code.ts","path":"temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/eval/temper-items-rules-eval.domain.ts","id":"01a06137-f96e-7a28-9f74-f5d1bea03036"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"measure-complexity-cyclomatic.command.code.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.test.ts"}
-{"propertySlug":"import","fileName":"measure-complexity-cyclomatic.command.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.code.ts"}
-{"propertySlug":"import","fileName":"measure-complexity-cyclomatic.command.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.test.ts"}
+{"propertySlug":"import","fileName":"measure-complexity-cyclomatic.command.code.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"measure-complexity-cyclomatic.command.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"measure-complexity-cyclomatic.command.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/measure/complexity/measure-complexity.namespace.ts","id":"01a08cce-0b4d-7802-b83a-87270e77b815"}

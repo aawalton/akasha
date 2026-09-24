@@ -1,6 +1,9 @@
-{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/core/filter/modules/filter-to-condition/filter-to-condition.module.code.ts"}
-{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/core/property-type/modules/date/date.module.code.ts"}
-{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/core/property-type/modules/instant/instant.module.code.ts"}
-{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/ui/component/modules/date-time-filter-inputs-parse/date-time-filter-inputs-parse.module.code.ts"}
-{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/ui/component/modules/date-time-filter-inputs/date-time-filter-inputs.module.code.tsx"}
+{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/core/filter/modules/filter-to-condition/filter-to-condition.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/core/filter/modules/filter-to-condition/filter-to-condition.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/core/property-type/modules/date/date.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/core/property-type/modules/date/date.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/core/property-type/modules/instant/instant.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/core/property-type/modules/instant/instant.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/ui/component/modules/date-time-filter-inputs-parse/date-time-filter-inputs-parse.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"date-sentinels.module.code.ts","path":"page/ui/component/modules/date-time-filter-inputs/date-time-filter-inputs.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/property-type/page-core-property-type.domain.ts","id":"01a071cb-236e-781b-9c7d-29bf3bd222c7"}

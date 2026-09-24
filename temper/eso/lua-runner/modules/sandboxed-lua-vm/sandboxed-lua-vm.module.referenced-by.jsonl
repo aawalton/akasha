@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"sandboxed-lua-vm.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-sandbox-load/check-addon-sandbox-load.module.code.ts"}
-{"propertySlug":"import","fileName":"sandboxed-lua-vm.module.code.ts","path":"temper/catalog/upstream-data/modules/libsets-data-port/libsets-data-port.module.code.ts"}
-{"propertySlug":"import","fileName":"sandboxed-lua-vm.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"}
+{"propertySlug":"import","fileName":"sandboxed-lua-vm.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-sandbox-load/check-addon-sandbox-load.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sandboxed-lua-vm.module.code.ts","path":"temper/catalog/upstream-data/modules/libsets-data-port/libsets-data-port.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sandboxed-lua-vm.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}

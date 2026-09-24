@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"}
-{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"}
-{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"}
-{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}

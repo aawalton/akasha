@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"alan/atlas-web/vite.config.ts"}
-{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"alan/requests-web/vite.config.ts"}
-{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"alan/web/vite.config.ts"}
-{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"product/archive-of-worlds/web/vite.config.ts"}
-{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"product/smilingjenny/web/vite.config.ts"}
-{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"product/wandering-inn-wiki/web/vite.config.ts"}
-{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"temper/web/vite.config.ts"}
+{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"alan/atlas-web/vite.config.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"alan/requests-web/vite.config.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"alan/web/vite.config.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"product/archive-of-worlds/web/vite.config.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"product/smilingjenny/web/vite.config.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"product/wandering-inn-wiki/web/vite.config.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"build-sha-define.module.code.ts","path":"temper/web/vite.config.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/web-build-version/web-build-version.domain.ts","id":"01a05c48-deeb-700d-9df1-fad9c81a0a32"}

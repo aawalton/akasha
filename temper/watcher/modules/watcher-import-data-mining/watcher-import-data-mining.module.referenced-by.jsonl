@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"watcher-import-data-mining.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts"}
-{"propertySlug":"import","fileName":"watcher-import-data-mining.module.code.ts","path":"temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.test.ts"}
-{"propertySlug":"import","fileName":"watcher-import-data-mining.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.test.ts"}
+{"propertySlug":"import","fileName":"watcher-import-data-mining.module.code.ts","path":"temper/watcher/modules/watcher-dispatch/watcher-dispatch.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-import-data-mining.module.code.ts","path":"temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-import-data-mining.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}

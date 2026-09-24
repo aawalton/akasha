@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seat-supervisor-claim.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-supervisor-claim.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-supervisor-claim.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-supervisor-claim.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-supervisor-claim.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-supervisor-claim.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-start/supervisor-start.domain.ts","id":"01a09c65-6205-7f39-a5fd-cf9bc52449c4"}

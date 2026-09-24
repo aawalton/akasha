@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"potion-seconds.number-property.types.ts","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.types.ts"}
-{"propertySlug":"import","fileName":"potion-seconds.number-property.types.ts","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.types.ts"}
-{"propertySlug":"import","fileName":"potion-seconds.number-property.types.ts","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.types.ts"}
-{"propertySlug":"import","fileName":"potion-seconds.number-property.types.ts","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"potion-seconds.number-property.types.ts","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"potion-seconds.number-property.types.ts","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"potion-seconds.number-property.types.ts","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"potion-seconds.number-property.types.ts","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts","id":"01a05fd1-d434-76cd-b1db-563c237e6de6"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts","id":"01a05fd1-d434-7ce2-a20b-6926bf033e6f"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts","id":"01a05fd1-d435-7e26-b0e7-584020995ebe"}

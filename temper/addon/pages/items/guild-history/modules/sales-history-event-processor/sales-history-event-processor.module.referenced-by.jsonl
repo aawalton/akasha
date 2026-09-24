@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"sales-history-event-processor.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-event-processor-iteration/sales-history-event-processor-iteration.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-event-processor.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-legacy-event-listener/sales-history-legacy-event-listener.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-event-processor.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-public-api/sales-history-public-api.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-event-processor.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-event-processor-iteration/sales-history-event-processor-iteration.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-event-processor.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-legacy-event-listener/sales-history-legacy-event-listener.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-event-processor.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-public-api/sales-history-public-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/guild-history/guild-history.domain.ts","id":"01a0c707-6e29-746b-b07d-01dff2a8933a"}

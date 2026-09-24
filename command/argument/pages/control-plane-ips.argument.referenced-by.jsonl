@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/talos/health/talos-health.command.ts","id":"01a06810-1f0b-7aac-ab38-a6658f91ee11"}
-{"propertySlug":"import","fileName":"control-plane-ips.argument.ts","path":"command/pages/talos/health/talos-health.command.code.ts"}
-{"propertySlug":"import","fileName":"control-plane-ips.argument.ts","path":"command/pages/talos/health/talos-health.command.test.ts"}
+{"propertySlug":"import","fileName":"control-plane-ips.argument.ts","path":"command/pages/talos/health/talos-health.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"control-plane-ips.argument.ts","path":"command/pages/talos/health/talos-health.command.test.ts","typed":false,"deferred":false}

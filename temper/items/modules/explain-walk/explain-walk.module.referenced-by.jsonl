@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"explain-walk.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts"}
-{"propertySlug":"import","fileName":"explain-walk.module.code.ts","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.code.ts"}
-{"propertySlug":"import","fileName":"explain-walk.module.code.ts","path":"temper/items/modules/explain-walk/explain-walk.module.test.ts"}
+{"propertySlug":"import","fileName":"explain-walk.module.code.ts","path":"command/pages/temper/inventory/explain/temper-inventory-explain.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"explain-walk.module.code.ts","path":"command/pages/temper/inventory/replay-explain/temper-inventory-replay-explain.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"explain-walk.module.code.ts","path":"temper/items/modules/explain-walk/explain-walk.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/temper-items.domain.ts","id":"01a0c488-cb67-7b5d-a939-5a29e22abc76"}

@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"cgroup-psi-collector.module.code.ts","path":"infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts"}
+{"propertySlug":"import","fileName":"cgroup-psi-collector.module.code.ts","path":"infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.ts","id":"01a07390-ce05-777e-ac13-7b3f78051162"}

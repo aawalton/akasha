@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"compile-config.file-property.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"compile-config.file-property.types.ts","path":"code/router-app/router-app.page-type.types.ts"}
+{"propertySlug":"import","fileName":"compile-config.file-property.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"compile-config.file-property.types.ts","path":"code/router-app/router-app.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}
 {"propertySlug":"parts","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}

@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/access/modules/page-type/page-type.module.code.ts"}
-{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
-{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-badge/page-badge.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-card/page-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.code.ts"}
-{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/access/modules/page-type/page-type.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-badge/page-badge.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-card/page-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-inheritance.module.code.ts","path":"page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/schema/page-core-schema.domain.ts","id":"01a071cb-3d85-7fcd-8315-90eca5831d35"}

@@ -1,6 +1,9 @@
-{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.test.ts"}
-{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts"}
-{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.test.ts"}
-{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"command/pages/mobile/cut/record/mobile-cut-record.command.code.ts"}
-{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts"}
+{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-cut/testflight-cut.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"command/pages/mobile/cut/record/mobile-cut-record.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"command/pages/mobile/cut/record/mobile-cut-record.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cut-fingerprint.module.code.ts","path":"command/pages/mobile/cut/status/mobile-cut-status.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}

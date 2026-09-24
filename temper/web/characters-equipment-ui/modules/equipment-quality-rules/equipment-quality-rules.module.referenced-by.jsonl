@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx"}
-{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-quality-rules.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/characters-equipment-ui/temper-characters-equipment-ui.domain.ts","id":"01a06333-1bb2-7503-96cd-0be9991f4b14"}

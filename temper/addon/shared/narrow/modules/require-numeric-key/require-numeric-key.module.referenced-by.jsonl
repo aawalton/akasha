@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/addon/pages/characters/modules/companions-saved-variables/companions-saved-variables.module.code.ts"}
-{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/addon/pages/items/modules/inventory-currency/inventory-currency.module.code.ts"}
-{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts"}
-{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/web/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.code.ts"}
+{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/addon/pages/characters/modules/companions-saved-variables/companions-saved-variables.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/addon/pages/items/modules/inventory-currency/inventory-currency.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/addon/pages/world/antiquities/modules/leads-unit-list/leads-unit-list.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/achievement-catalog-capture/achievement-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/collectibles-catalog-capture/collectibles-catalog-capture.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"require-numeric-key.module.code.ts","path":"temper/web/item-browser/modules/item-browser-multi-account/item-browser-multi-account.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/shared/narrow/temper-narrow.domain.ts","id":"01a060b6-99a1-7f39-a4b3-1a7f8d33b445"}

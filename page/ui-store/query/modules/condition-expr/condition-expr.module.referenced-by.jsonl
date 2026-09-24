@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"condition-expr.module.code.ts","path":"page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"}
-{"propertySlug":"import","fileName":"condition-expr.module.code.ts","path":"page/ui-store/query/modules/related-pipeline/related-pipeline.module.code.ts"}
-{"propertySlug":"import","fileName":"condition-expr.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts"}
+{"propertySlug":"import","fileName":"condition-expr.module.code.ts","path":"page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"condition-expr.module.code.ts","path":"page/ui-store/query/modules/related-pipeline/related-pipeline.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"condition-expr.module.code.ts","path":"page/ui-store/query/modules/view-pipeline/view-pipeline.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui-store/query/page-ui-store-query.domain.ts","id":"01a071cc-086c-740f-affb-d4471f64884e"}

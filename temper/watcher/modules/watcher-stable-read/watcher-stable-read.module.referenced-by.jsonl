@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts"}
-{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.test.ts"}
-{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.test.ts"}
-{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts"}
-{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-stable-read/watcher-stable-read.module.test.ts"}
+{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-stable-read.module.code.ts","path":"temper/watcher/modules/watcher-stable-read/watcher-stable-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}

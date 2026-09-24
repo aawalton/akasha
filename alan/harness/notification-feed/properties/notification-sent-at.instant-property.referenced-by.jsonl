@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"notification-sent-at.instant-property.types.ts","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"notification-sent-at.instant-property.types.ts","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.ts","id":"019f4a1f-0ecc-7d45-8f43-7b424b5f0477"}
 {"propertySlug":"parts","path":"alan/harness/notification-feed/notification-feed.page-type.ts","id":"01a06861-e7cd-7f8b-a674-034ea5efe956"}

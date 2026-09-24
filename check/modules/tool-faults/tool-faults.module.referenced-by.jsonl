@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.audit.code.ts"}
-{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/modules/tool-faults/tool-faults.module.test.ts"}
+{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.audit.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.audit.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tool-faults.module.code.ts","path":"check/modules/tool-faults/tool-faults.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

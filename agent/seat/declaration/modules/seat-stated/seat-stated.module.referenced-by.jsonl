@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/modules/page-writing/seat-page-writing.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/modules/page-writing/seat-page-writing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-stated.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}

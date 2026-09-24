@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"chess-progress-status.select-property.ts","path":"alan/chess/progress/properties/chess-progress-status.select-property.types.ts"}
-{"propertySlug":"import","fileName":"chess-progress-status.select-property.types.ts","path":"alan/chess/progress/chess-progress.page-type.types.ts"}
+{"propertySlug":"import","fileName":"chess-progress-status.select-property.ts","path":"alan/chess/progress/properties/chess-progress-status.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"chess-progress-status.select-property.types.ts","path":"alan/chess/progress/chess-progress.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/chess/progress/chess-progress.page-type.ts","id":"01a06582-bd62-702f-92a4-3fd313251ee2"}
 {"propertySlug":"parts","path":"alan/chess/progress/chess-progress.page-type.ts","id":"01a06582-bd62-702f-92a4-3fd313251ee2"}

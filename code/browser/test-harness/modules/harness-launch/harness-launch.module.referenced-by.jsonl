@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"harness-launch.module.code.ts","path":"code/browser/test-harness/modules/read-only-harness/read-only-harness.module.code.ts"}
-{"propertySlug":"import","fileName":"harness-launch.module.code.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts"}
-{"propertySlug":"import","fileName":"harness-launch.module.code.ts","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.code.ts"}
+{"propertySlug":"import","fileName":"harness-launch.module.code.ts","path":"code/browser/test-harness/modules/read-only-harness/read-only-harness.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"harness-launch.module.code.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"harness-launch.module.code.ts","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/browser/test-harness/browser-test-harness.domain.ts","id":"01a05ca9-d801-7799-a4a3-de2a41d35502"}

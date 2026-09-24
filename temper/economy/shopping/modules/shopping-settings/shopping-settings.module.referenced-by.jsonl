@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"shopping-settings.module.code.ts","path":"temper/web/modules/player-settings/player-settings.module.code.ts"}
-{"propertySlug":"import","fileName":"shopping-settings.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-list-tab-content/shopping-list-tab-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"shopping-settings.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"}
+{"propertySlug":"import","fileName":"shopping-settings.module.code.ts","path":"temper/web/modules/player-settings/player-settings.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"shopping-settings.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-list-tab-content/shopping-list-tab-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shopping-settings.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/economy/shopping/temper-shopping.domain.ts","id":"01a060cf-b0ae-749c-8084-93aa1e9a4247"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"external-link.url-property.types.ts","path":"alan/collection/external/properties/external-identity.record-property.types.ts"}
-{"propertySlug":"import","fileName":"external-link.url-property.types.ts","path":"alan/music/catalog/track/properties/carried-by.record-property.types.ts"}
+{"propertySlug":"import","fileName":"external-link.url-property.types.ts","path":"alan/collection/external/properties/external-identity.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"external-link.url-property.types.ts","path":"alan/music/catalog/track/properties/carried-by.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/collection/external/properties/external-identity.record-property.ts","id":"01a09ba1-cc57-7d8f-8460-fd32ebb90bef"}
 {"propertySlug":"page-property","path":"alan/music/catalog/track/properties/carried-by.record-property.ts","id":"01a0c52d-5525-787c-804a-bd4a8378c2f1"}
 {"propertySlug":"parts","path":"alan/collection/external/collection-external.page-type.ts","id":"01a063de-2c60-701b-ab74-7e3436f4abe3"}

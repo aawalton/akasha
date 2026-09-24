@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"errors-crash-signatures.module.code.ts","path":"temper/capture/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts"}
-{"propertySlug":"import","fileName":"errors-crash-signatures.module.code.ts","path":"temper/watcher/modules/watcher-error-emissions/watcher-error-emissions.module.code.ts"}
+{"propertySlug":"import","fileName":"errors-crash-signatures.module.code.ts","path":"temper/capture/errors-triage/modules/errors-triage-gather/errors-triage-gather.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"errors-crash-signatures.module.code.ts","path":"temper/watcher/modules/watcher-error-emissions/watcher-error-emissions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/capture/errors-triage/temper-errors-triage.domain.ts","id":"01a060cd-564e-7685-8e5f-1bf87cbf4467"}

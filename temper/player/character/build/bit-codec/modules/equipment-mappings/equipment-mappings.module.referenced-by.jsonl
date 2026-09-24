@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"equipment-mappings.module.code.ts","path":"temper/addon/pages/characters/modules/companions-codec/companions-codec.module.code.ts"}
-{"propertySlug":"import","fileName":"equipment-mappings.module.code.ts","path":"temper/addon/pages/characters/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts"}
-{"propertySlug":"import","fileName":"equipment-mappings.module.code.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts"}
+{"propertySlug":"import","fileName":"equipment-mappings.module.code.ts","path":"temper/addon/pages/characters/modules/companions-codec/companions-codec.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-mappings.module.code.ts","path":"temper/addon/pages/characters/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-mappings.module.code.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/build/bit-codec/temper-bit-codec.domain.ts","id":"01a060af-255f-7995-9b3e-b6dcbaae7cd7"}

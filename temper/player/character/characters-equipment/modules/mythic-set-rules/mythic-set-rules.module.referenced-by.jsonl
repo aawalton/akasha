@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/equipment-panel/equipment-panel.module.code.tsx"}
-{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx"}
-{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/equipment-panel/equipment-panel.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mythic-set-rules.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}

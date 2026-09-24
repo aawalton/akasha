@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/food-drink-select-dialog/food-drink-select-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/potion-select-dialog/potion-select-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/item-tooltip/item-tooltip.module.code.tsx"}
+{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/armor-card/armor-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/food-drink-select-dialog/food-drink-select-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/potion-select-dialog/potion-select-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get-equipment-icon.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/item-tooltip/item-tooltip.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}

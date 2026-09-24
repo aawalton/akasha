@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"calendar-date-to-value.module.code.ts","path":"page/core/view/modules/apply-grouping/apply-grouping.module.code.ts"}
-{"propertySlug":"import","fileName":"calendar-date-to-value.module.code.ts","path":"page/ui/component/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts"}
-{"propertySlug":"import","fileName":"calendar-date-to-value.module.code.ts","path":"page/ui/component/modules/use-page-calendar-state/use-page-calendar-state.module.code.ts"}
-{"propertySlug":"import","fileName":"calendar-date-to-value.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"}
+{"propertySlug":"import","fileName":"calendar-date-to-value.module.code.ts","path":"page/core/view/modules/apply-grouping/apply-grouping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-date-to-value.module.code.ts","path":"page/ui/component/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-date-to-value.module.code.ts","path":"page/ui/component/modules/use-page-calendar-state/use-page-calendar-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"calendar-date-to-value.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/view/page-core-view.domain.ts","id":"01a071cb-580b-710d-a9ae-c371fe8df6c3"}

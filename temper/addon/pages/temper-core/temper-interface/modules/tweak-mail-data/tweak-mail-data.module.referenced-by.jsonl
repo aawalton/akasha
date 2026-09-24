@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-buttons/tweak-mail-buttons.module.code.ts"}
-{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-context-menu/tweak-mail-context-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-context-submenus/tweak-mail-context-submenus.module.code.ts"}
-{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-events/tweak-mail-events.module.code.ts"}
-{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-mass-delete/tweak-mail-mass-delete.module.code.ts"}
-{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-settings-menu/tweak-mail-settings-menu.module.code.ts"}
-{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-store/tweak-mail-store.module.code.ts"}
+{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-buttons/tweak-mail-buttons.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-context-menu/tweak-mail-context-menu.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-context-submenus/tweak-mail-context-submenus.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-events/tweak-mail-events.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-mass-delete/tweak-mail-mass-delete.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-settings-menu/tweak-mail-settings-menu.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tweak-mail-data.module.code.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-mail-store/tweak-mail-store.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/temper-core/temper-interface/temper-interface.domain.ts","id":"01a0c718-f838-76e6-8091-7844ddec0b8c"}

@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.test.ts"}
-{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/telemetry/service-workstations/dcgm-exporter/dcgm-exporter.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/telemetry/service-workstations/dcgm-exporter/dcgm-exporter.service-workstation.running.test.ts"}
-{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/telemetry/service-workstations/node-exporter/node-exporter.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/telemetry/service-workstations/node-exporter/node-exporter.service-workstation.running.test.ts"}
-{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"temper/economy/trading/pricing/service-workstations/ttc-client/ttc-client.service-workstation.running.code.ts"}
-{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"temper/economy/trading/pricing/service-workstations/ttc-client/ttc-client.service-workstation.running.test.ts"}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/telemetry/service-workstations/dcgm-exporter/dcgm-exporter.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/telemetry/service-workstations/dcgm-exporter/dcgm-exporter.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/telemetry/service-workstations/node-exporter/node-exporter.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"infrastructure/telemetry/service-workstations/node-exporter/node-exporter.service-workstation.running.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"temper/economy/trading/pricing/service-workstations/ttc-client/ttc-client.service-workstation.running.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"binary-running.module.code.ts","path":"temper/economy/trading/pricing/service-workstations/ttc-client/ttc-client.service-workstation.running.test.ts","typed":false,"deferred":true}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

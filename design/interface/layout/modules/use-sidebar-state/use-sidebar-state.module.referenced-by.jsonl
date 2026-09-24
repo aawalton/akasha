@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"code/router-app/modules/auth-footer/auth-footer.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"design/interface/layout/modules/app-shell/app-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"code/router-app/modules/auth-footer/auth-footer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"design/interface/layout/modules/app-shell-sidebar/app-shell-sidebar.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"design/interface/layout/modules/app-shell/app-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-sidebar-state.module.code.ts","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/layout/design-interface-layout.domain.ts","id":"01a05b82-8b9b-7e30-9148-8941b6ccd5ff"}

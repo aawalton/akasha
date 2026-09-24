@@ -1,2 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/inference/upscale/inference-upscale.command.ts","id":"01a0685e-fd50-7de7-851b-a0d871ef8910"}
-{"propertySlug":"import","fileName":"host.argument.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts"}
+{"propertySlug":"import","fileName":"host.argument.ts","path":"command/pages/inference/upscale/inference-upscale.command.code.ts","typed":false,"deferred":false}

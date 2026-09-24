@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"model-version.page-type.types.ts","path":"agent/model/version/pages/claude-opus-5-5-1m.model-version.ts"}
-{"propertySlug":"import","fileName":"model-version.page-type.types.ts","path":"agent/model/version/pages/claude-opus-5-5.model-version.ts"}
+{"propertySlug":"import","fileName":"model-version.page-type.types.ts","path":"agent/model/version/pages/claude-opus-5-5-1m.model-version.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-version.page-type.types.ts","path":"agent/model/version/pages/claude-opus-5-5.model-version.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
 {"propertySlug":"target-page-type","path":"agent/seat/properties/seat-model.relation-property.ts","id":"01a0d4ba-6551-7a59-bacb-8120838c058b"}

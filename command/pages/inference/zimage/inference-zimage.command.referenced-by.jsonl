@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"inference-zimage.command.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.test.ts"}
-{"propertySlug":"import","fileName":"inference-zimage.command.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts"}
+{"propertySlug":"import","fileName":"inference-zimage.command.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-zimage.command.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inference-zimage.command.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/inference/inference.namespace.ts","id":"01a07bc2-afbe-727e-90b4-d853582c03a2"}

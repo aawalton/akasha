@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"sales-history-category-class-shape.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-guild/sales-history-cache-guild.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-category-class-shape.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache/sales-history-cache.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-category-class-shape.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-class/sales-history-category-class.module.code.ts"}
-{"propertySlug":"import","fileName":"sales-history-category-class-shape.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-types/sales-history-category-types.module.code.ts"}
+{"propertySlug":"import","fileName":"sales-history-category-class-shape.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache-guild/sales-history-cache-guild.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-category-class-shape.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-cache/sales-history-cache.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-category-class-shape.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-class/sales-history-category-class.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"sales-history-category-class-shape.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-category-types/sales-history-category-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/guild-history/guild-history.domain.ts","id":"01a0c707-6e29-746b-b07d-01dff2a8933a"}

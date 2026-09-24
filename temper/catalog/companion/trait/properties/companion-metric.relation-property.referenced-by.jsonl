@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"companion-metric.relation-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-formula.record-property.types.ts"}
-{"propertySlug":"import","fileName":"companion-metric.relation-property.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"companion-metric.relation-property.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"companion-metric.relation-property.types.ts","path":"temper/catalog/companion/trait/temper-companion-trait.page-type.types.ts"}
+{"propertySlug":"import","fileName":"companion-metric.relation-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-formula.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metric.relation-property.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metric.relation-property.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metric.relation-property.types.ts","path":"temper/catalog/companion/trait/temper-companion-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-formula.record-property.ts","id":"01a06196-0379-794b-ab04-2e9ba72de0d9"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.ts","id":"01a05fcf-2469-73b4-a32a-44ca09660ace"}

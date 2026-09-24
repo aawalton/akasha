@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"model-gateway-swap.command.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.test.ts"}
-{"propertySlug":"import","fileName":"model-gateway-swap.command.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
+{"propertySlug":"import","fileName":"model-gateway-swap.command.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-gateway-swap.command.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-gateway-swap.command.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/model/gateway/model-gateway.namespace.ts","id":"01a07c0e-f3e6-7abc-9238-d49d16577a96"}

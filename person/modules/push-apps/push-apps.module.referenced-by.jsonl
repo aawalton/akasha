@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"push-apps.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.code.ts"}
-{"propertySlug":"import","fileName":"push-apps.module.code.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.code.ts"}
-{"propertySlug":"import","fileName":"push-apps.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-push-register/jenny-api-push-register.route.code.ts"}
+{"propertySlug":"import","fileName":"push-apps.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"push-apps.module.code.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"push-apps.module.code.ts","path":"product/smilingjenny/web/routes/jenny-api-push-register/jenny-api-push-register.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}

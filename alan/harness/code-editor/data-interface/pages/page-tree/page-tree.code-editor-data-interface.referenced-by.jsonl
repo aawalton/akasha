@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"page-tree.code-editor-data-interface.d.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts"}
-{"propertySlug":"import","fileName":"page-tree.code-editor-data-interface.d.ts","path":"code/editor/extension/modules/page-tree-panel/page-tree-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"page-tree.code-editor-data-interface.d.ts","path":"code/editor/extension/modules/page-tree-reading/page-tree-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"page-tree.code-editor-data-interface.d.ts","path":"code/editor/extension/modules/page-tree-view/page-tree-view.module.code.ts"}
+{"propertySlug":"import","fileName":"page-tree.code-editor-data-interface.d.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-tree.code-editor-data-interface.d.ts","path":"code/editor/extension/modules/page-tree-panel/page-tree-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-tree.code-editor-data-interface.d.ts","path":"code/editor/extension/modules/page-tree-reading/page-tree-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-tree.code-editor-data-interface.d.ts","path":"code/editor/extension/modules/page-tree-view/page-tree-view.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/code-editor/data-interface/code-editor-data-interface.page-type.ts","id":"01a07235-8d02-729e-880d-47af61f83714"}

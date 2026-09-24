@@ -1,4 +1,5 @@
-{"propertySlug":"import","fileName":"character-actions.module.code.ts","path":"temper/web/modules/character-context/character-context.module.code.tsx"}
-{"propertySlug":"import","fileName":"character-actions.module.code.ts","path":"temper/web/modules/character-reducer/character-reducer.module.code.ts"}
-{"propertySlug":"import","fileName":"character-actions.module.code.ts","path":"temper/web/modules/use-character/use-character.module.code.ts"}
+{"propertySlug":"import","fileName":"character-actions.module.code.ts","path":"temper/web/modules/character-context/character-context.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-actions.module.code.ts","path":"temper/web/modules/character-context/character-context.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-actions.module.code.ts","path":"temper/web/modules/character-reducer/character-reducer.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-actions.module.code.ts","path":"temper/web/modules/use-character/use-character.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

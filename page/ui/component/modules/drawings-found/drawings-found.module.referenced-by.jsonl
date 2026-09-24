@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/drawings-found/drawings-found.module.test.ts"}
-{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/page-badge-drawings/page-badge-drawings.module.code.ts"}
-{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/page-card-drawings/page-card-drawings.module.code.ts"}
-{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/page-drawings/page-drawings.module.code.ts"}
-{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/page-row-drawings/page-row-drawings.module.code.ts"}
-{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/property-badge-drawings/property-badge-drawings.module.code.ts"}
-{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/property-row-drawings/property-row-drawings.module.code.ts"}
+{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/drawings-found/drawings-found.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/page-badge-drawings/page-badge-drawings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/page-card-drawings/page-card-drawings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/page-drawings/page-drawings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/page-row-drawings/page-row-drawings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/property-badge-drawings/property-badge-drawings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drawings-found.module.code.ts","path":"page/ui/component/modules/property-row-drawings/property-row-drawings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

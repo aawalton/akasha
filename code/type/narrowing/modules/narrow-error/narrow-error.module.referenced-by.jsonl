@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/assert-never/assert-never.module.code.ts"}
-{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-at/require-at.module.code.ts"}
-{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-defined/require-defined.module.code.ts"}
-{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-env/require-env.module.code.ts"}
-{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-first/require-first.module.code.ts"}
-{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-get/require-get.module.code.ts"}
-{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-match-positional/require-match-positional.module.code.ts"}
+{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/assert-never/assert-never.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-at/require-at.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-defined/require-defined.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-env/require-env.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-first/require-first.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-get/require-get.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"narrow-error.module.code.ts","path":"code/type/narrowing/modules/require-match-positional/require-match-positional.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"page-entry-landing.module.code.ts","path":"page/modules/entry-landing/page-entry-landing.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"page-entry-landing.module.code.ts","path":"page/modules/entry-landing/page-entry-landing.module.test.ts"}
-{"propertySlug":"import","fileName":"page-entry-landing.module.code.ts","path":"page/modules/entry-queue/page-entry-queue.module.code.ts"}
-{"propertySlug":"import","fileName":"page-entry-landing.module.test-fixtures.ts","path":"page/modules/entry-landing/page-entry-landing.module.test.ts"}
-{"propertySlug":"import","fileName":"page-entry-landing.module.test-fixtures.ts","path":"page/modules/entry-queue/page-entry-queue.module.test.ts"}
+{"propertySlug":"import","fileName":"page-entry-landing.module.code.ts","path":"page/modules/entry-landing/page-entry-landing.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-entry-landing.module.code.ts","path":"page/modules/entry-landing/page-entry-landing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-entry-landing.module.code.ts","path":"page/modules/entry-queue/page-entry-queue.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-entry-landing.module.test-fixtures.ts","path":"page/modules/entry-landing/page-entry-landing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-entry-landing.module.test-fixtures.ts","path":"page/modules/entry-queue/page-entry-queue.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

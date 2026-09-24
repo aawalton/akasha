@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-rules-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

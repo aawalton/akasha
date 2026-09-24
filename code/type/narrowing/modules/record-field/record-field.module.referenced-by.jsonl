@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"record-field.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-curse-state/rule-matcher-context-curse-state.module.code.ts"}
-{"propertySlug":"import","fileName":"record-field.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts"}
-{"propertySlug":"import","fileName":"record-field.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-skill-lines/rule-matcher-context-skill-lines.module.code.ts"}
+{"propertySlug":"import","fileName":"record-field.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-curse-state/rule-matcher-context-curse-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"record-field.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"record-field.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-skill-lines/rule-matcher-context-skill-lines.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

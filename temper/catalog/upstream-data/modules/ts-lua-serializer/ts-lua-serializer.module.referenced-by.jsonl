@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"ts-lua-serializer.module.code.ts","path":"temper/catalog/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts"}
-{"propertySlug":"import","fileName":"ts-lua-serializer.module.code.ts","path":"temper/catalog/upstream-data/modules/zone-upstream-port/zone-upstream-port.module.code.ts"}
+{"propertySlug":"import","fileName":"ts-lua-serializer.module.code.ts","path":"temper/catalog/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"ts-lua-serializer.module.code.ts","path":"temper/catalog/upstream-data/modules/zone-upstream-port/zone-upstream-port.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/upstream-data/temper-upstream-data.domain.ts","id":"01a06038-2cbe-79d6-9497-4ef8b26650e5"}

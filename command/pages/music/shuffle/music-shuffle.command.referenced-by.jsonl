@@ -1,3 +1,4 @@
-{"propertySlug":"import","fileName":"music-shuffle.command.code.ts","path":"command/pages/music/shuffle/music-shuffle.command.test.ts"}
-{"propertySlug":"import","fileName":"music-shuffle.command.ts","path":"command/pages/music/shuffle/music-shuffle.command.code.ts"}
+{"propertySlug":"import","fileName":"music-shuffle.command.code.ts","path":"command/pages/music/shuffle/music-shuffle.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"music-shuffle.command.code.ts","path":"command/pages/music/shuffle/music-shuffle.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"music-shuffle.command.ts","path":"command/pages/music/shuffle/music-shuffle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/music/music.namespace.ts","id":"01a07bbf-258e-7f64-8bc2-f340c44e592e"}

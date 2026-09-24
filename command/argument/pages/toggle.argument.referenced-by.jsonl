@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts","id":"01a0603c-c1ce-7042-a37c-880bfd4380f9"}
-{"propertySlug":"import","fileName":"toggle.argument.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts"}
-{"propertySlug":"import","fileName":"toggle.argument.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.test.ts"}
+{"propertySlug":"import","fileName":"toggle.argument.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"toggle.argument.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.test.ts","typed":false,"deferred":false}

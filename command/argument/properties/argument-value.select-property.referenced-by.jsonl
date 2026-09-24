@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"argument-value.select-property.ts","path":"command/argument/properties/argument-value.select-property.types.ts"}
-{"propertySlug":"import","fileName":"argument-value.select-property.types.ts","path":"command/argument/argument.page-type.types.ts"}
+{"propertySlug":"import","fileName":"argument-value.select-property.ts","path":"command/argument/properties/argument-value.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"argument-value.select-property.types.ts","path":"command/argument/argument.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"command/argument/argument.page-type.ts","id":"01a093fd-9102-76e8-958e-03d34cd41e25"}
 {"propertySlug":"parts","path":"command/argument/argument.page-type.ts","id":"01a093fd-9102-76e8-958e-03d34cd41e25"}

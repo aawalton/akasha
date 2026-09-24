@@ -1,3 +1,3 @@
 {"propertySlug":"argument","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.ts","id":"01a09403-77db-71fe-ae2b-f3271d914449"}
-{"propertySlug":"import","fileName":"every-server.argument.ts","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.code.ts"}
-{"propertySlug":"import","fileName":"every-server.argument.ts","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.test.ts"}
+{"propertySlug":"import","fileName":"every-server.argument.ts","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"every-server.argument.ts","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.test.ts","typed":false,"deferred":false}

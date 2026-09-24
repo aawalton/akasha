@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"report-stall.module.code.ts","path":"alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.code.tsx"}
-{"propertySlug":"import","fileName":"report-stall.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"}
-{"propertySlug":"import","fileName":"report-stall.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.test.tsx"}
-{"propertySlug":"import","fileName":"report-stall.module.code.ts","path":"page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"}
+{"propertySlug":"import","fileName":"report-stall.module.code.ts","path":"alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"report-stall.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"report-stall.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.test.tsx","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"report-stall.module.code.ts","path":"page/ui/component/modules/auth-provider/auth-provider.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui-store/page-ui-store.domain.ts","id":"01a05b69-455c-7bbd-8f3b-b2c3946559fc"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"property-signature-renaming.module.code.ts","path":"change/mechanical/file-content/rename/rename-property-signature/rename-property-signature.change-mechanical-file-content.code.ts"}
-{"propertySlug":"import","fileName":"property-signature-renaming.module.code.ts","path":"change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"property-signature-renaming.module.code.ts","path":"change/modules/property-signature-renaming/property-signature-renaming.module.test.ts"}
+{"propertySlug":"import","fileName":"property-signature-renaming.module.code.ts","path":"change/mechanical/file-content/rename/rename-property-signature/rename-property-signature.change-mechanical-file-content.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-signature-renaming.module.code.ts","path":"change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"property-signature-renaming.module.code.ts","path":"change/modules/property-signature-renaming/property-signature-renaming.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

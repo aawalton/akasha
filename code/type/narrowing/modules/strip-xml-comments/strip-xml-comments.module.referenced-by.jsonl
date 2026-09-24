@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"strip-xml-comments.module.code.ts","path":"code/type/narrowing/modules/strip-xml-comments/strip-xml-comments.module.test.ts"}
-{"propertySlug":"import","fileName":"strip-xml-comments.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts"}
-{"propertySlug":"import","fileName":"strip-xml-comments.module.code.ts","path":"temper/addon/build/modules/global-name-dependents/global-name-dependents.module.code.ts"}
+{"propertySlug":"import","fileName":"strip-xml-comments.module.code.ts","path":"code/type/narrowing/modules/strip-xml-comments/strip-xml-comments.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"strip-xml-comments.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-orphan-xml-handler/addon-orphan-xml-handler.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"strip-xml-comments.module.code.ts","path":"temper/addon/build/modules/global-name-dependents/global-name-dependents.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

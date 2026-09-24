@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"deployed-render-check.module.code.ts","path":"code/browser/command/modules/verify-render-plan/verify-render-plan.module.code.ts"}
-{"propertySlug":"import","fileName":"deployed-render-check.module.code.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.code.ts"}
+{"propertySlug":"import","fileName":"deployed-render-check.module.code.ts","path":"code/browser/command/modules/verify-render-plan/verify-render-plan.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"deployed-render-check.module.code.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/browser/test-harness/browser-test-harness.domain.ts","id":"01a05ca9-d801-7799-a4a3-de2a41d35502"}

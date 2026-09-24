@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/alliance-war-skill-lines/alliance-war-skill-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/class-skill-lines/class-skill-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/companion-skill-lines/companion-skill-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/racial-and-craft-skill-lines/racial-and-craft-skill-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/vengeance-skill-lines/vengeance-skill-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/weapon-and-armor-skill-lines/weapon-and-armor-skill-lines.module.code.ts"}
-{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/world-and-guild-skill-lines/world-and-guild-skill-lines.module.code.ts"}
+{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/alliance-war-skill-lines/alliance-war-skill-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/class-skill-lines/class-skill-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/companion-skill-lines/companion-skill-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/racial-and-craft-skill-lines/racial-and-craft-skill-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/vengeance-skill-lines/vengeance-skill-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/weapon-and-armor-skill-lines/weapon-and-armor-skill-lines.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-line-template.module.code.ts","path":"temper/player/character/skill/line/modules/world-and-guild-skill-lines/world-and-guild-skill-lines.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/skill/line/temper-character-skill-line.domain.ts","id":"01a0608a-c135-79d5-91c5-4cf48adc59f3"}

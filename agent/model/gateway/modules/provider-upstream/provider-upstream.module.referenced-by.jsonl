@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/account-walk/account-walk.module.code.ts"}
-{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/account-walk/account-walk.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts"}
-{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.code.ts"}
-{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.test.ts"}
+{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/account-walk/account-walk.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/account-walk/account-walk.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/gateway-serving/gateway-serving.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"provider-upstream.module.code.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}

@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.code.ts"}
-{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.test.ts"}
-{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/day-place/day-place.module.code.ts"}
-{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/day-reading/day-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"}
-{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/track-pages/track-pages.module.code.ts"}
-{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/track-resolve/track-resolve.module.code.ts"}
-{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts"}
+{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/akasha-day/akasha-day.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/day-place/day-place.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/day-reading/day-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/day-stretches/day-stretches.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/track-pages/track-pages.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/track-resolve/track-resolve.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"day-narrow-types.module.code.ts","path":"alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/track/daily/track-daily.domain.ts","id":"01a062dc-1b7f-7c99-a886-e67035171fdf"}

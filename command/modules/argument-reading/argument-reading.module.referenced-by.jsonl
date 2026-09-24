@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"change/agent/file-content/change-file/change-file.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts"}
-{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}
-{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/modules/argument-reading/argument-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts"}
-{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/pages/change/repeat/change-repeat.command.code.ts"}
-{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/pages/change/show/change-show.command.code.ts"}
+{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"change/agent/file-content/change-file/change-file.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/modules/applying/applying.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/modules/argument-reading/argument-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/modules/change-running/change-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/pages/change/repeat/change-repeat.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-reading.module.code.ts","path":"command/pages/change/show/change-show.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

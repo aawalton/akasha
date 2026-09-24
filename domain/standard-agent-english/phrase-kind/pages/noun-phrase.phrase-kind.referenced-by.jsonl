@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"noun-phrase.phrase-kind.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts"}
-{"propertySlug":"import","fileName":"noun-phrase.phrase-kind.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts"}
+{"propertySlug":"import","fileName":"noun-phrase.phrase-kind.ts","path":"check/code/pages/definition-is-written-in-the-grammar/definition-is-written-in-the-grammar.check-code.decision.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"noun-phrase.phrase-kind.ts","path":"domain/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"domain/standard-agent-english/phrase-kind/phrase-kind.page-type.ts","id":"01a0c576-2e1a-7996-8a94-9a7d80b20c55"}
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/free-relative-pronoun-with-a-clause.construction.ts","id":"01a0c68f-6d81-7ca8-948f-a44ea461c351"}
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-group-alone.construction.ts","id":"01a0c57f-2d90-7475-a1a4-587ac08f0ec0"}

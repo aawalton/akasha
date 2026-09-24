@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"view-filter-to-condition.module.code.ts","path":"page/ui/component/modules/base-conditions/base-conditions.module.code.ts"}
-{"propertySlug":"import","fileName":"view-filter-to-condition.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts"}
-{"propertySlug":"import","fileName":"view-filter-to-condition.module.code.ts","path":"page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts"}
+{"propertySlug":"import","fileName":"view-filter-to-condition.module.code.ts","path":"page/ui/component/modules/base-conditions/base-conditions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-filter-to-condition.module.code.ts","path":"page/ui/supabase/modules/group-by-hooks/group-by-hooks.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"view-filter-to-condition.module.code.ts","path":"page/ui/supabase/modules/hooks-view-query/hooks-view-query.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/supabase/page-ui-supabase.domain.ts","id":"01a071d1-ee27-7b2f-8b21-963e117f2e00"}

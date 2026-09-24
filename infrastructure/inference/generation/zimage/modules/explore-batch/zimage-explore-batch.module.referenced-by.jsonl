@@ -1,3 +1,3 @@
-{"propertySlug":"import","fileName":"zimage-explore-batch.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts"}
-{"propertySlug":"import","fileName":"zimage-explore-batch.module.code.ts","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.code.ts"}
+{"propertySlug":"import","fileName":"zimage-explore-batch.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"zimage-explore-batch.module.code.ts","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/zimage/zimage.domain.ts","id":"01a06815-9efd-7032-89aa-a2f0ea5e1881"}

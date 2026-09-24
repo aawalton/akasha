@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"temper-target-scope.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/pages/area.temper-target-scope.ts"}
-{"propertySlug":"import","fileName":"temper-target-scope.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/pages/cone.temper-target-scope.ts"}
-{"propertySlug":"import","fileName":"temper-target-scope.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/pages/line.temper-target-scope.ts"}
-{"propertySlug":"import","fileName":"temper-target-scope.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/pages/single.temper-target-scope.ts"}
+{"propertySlug":"import","fileName":"temper-target-scope.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/pages/area.temper-target-scope.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-target-scope.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/pages/cone.temper-target-scope.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-target-scope.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/pages/line.temper-target-scope.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-target-scope.page-type.types.ts","path":"temper/catalog/effect/temper-target-scope/pages/single.temper-target-scope.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}

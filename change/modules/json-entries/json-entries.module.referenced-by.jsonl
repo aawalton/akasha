@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts"}
-{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-type/remove/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/modules/json-entries/json-entries.module.test.ts"}
+{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-property/remove-page-property/remove-page-property.change-mechanical.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/mechanical/page-type/remove/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"json-entries.module.code.ts","path":"change/modules/json-entries/json-entries.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

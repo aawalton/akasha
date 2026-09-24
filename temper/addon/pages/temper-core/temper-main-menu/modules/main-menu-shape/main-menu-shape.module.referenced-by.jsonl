@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"main-menu-shape.module.code.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-library/main-menu-library.module.code.ts"}
-{"propertySlug":"import","fileName":"main-menu-shape.module.code.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-scenes/main-menu-scenes.module.code.ts"}
-{"propertySlug":"import","fileName":"main-menu-shape.module.code.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts"}
+{"propertySlug":"import","fileName":"main-menu-shape.module.code.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-library/main-menu-library.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"main-menu-shape.module.code.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-scenes/main-menu-scenes.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"main-menu-shape.module.code.ts","path":"temper/addon/pages/temper-core/temper-main-menu/modules/main-menu-setup/main-menu-setup.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/temper-core/temper-main-menu/temper-main-menu.domain.ts","id":"01a0c744-5d84-7921-beec-e7d56b1b150e"}

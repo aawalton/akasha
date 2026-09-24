@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts"}
-{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-board/page-board.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-system-view-body/page-system-view-body.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-system-view-header/page-system-view-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-system-view-helpers/page-system-view-helpers.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-system-view/page-system-view.module.code.tsx"}
-{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"}
-{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts"}
+{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/build-server-grouped-sections/build-server-grouped-sections.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-board/page-board.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-system-view-body/page-system-view-body.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-system-view-header/page-system-view-header.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-system-view-helpers/page-system-view-helpers.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/page-system-view/page-system-view.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-system-tab-content-props.module.code.ts","path":"page/ui/component/modules/use-view-tab-content-data/use-view-tab-content-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

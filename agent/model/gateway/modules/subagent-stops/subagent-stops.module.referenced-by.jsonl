@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"subagent-stops.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-stops.module.code.ts","path":"agent/model/gateway/modules/gateway-process/gateway-process.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-stops.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.test.ts"}
+{"propertySlug":"import","fileName":"subagent-stops.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stops.module.code.ts","path":"agent/model/gateway/modules/gateway-process/gateway-process.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stops.module.code.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}

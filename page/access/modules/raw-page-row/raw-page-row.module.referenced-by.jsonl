@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"raw-page-row.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts"}
-{"propertySlug":"import","fileName":"raw-page-row.module.code.ts","path":"page/access/modules/file-rows/file-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"raw-page-row.module.code.ts","path":"page/ui-store/collection/modules/page-row/page-row.module.code.ts"}
-{"propertySlug":"import","fileName":"raw-page-row.module.code.ts","path":"page/ui-store/realtime/modules/payload-translator/payload-translator.module.code.ts"}
+{"propertySlug":"import","fileName":"raw-page-row.module.code.ts","path":"page/access/modules/answer/answer.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"raw-page-row.module.code.ts","path":"page/access/modules/file-rows/file-rows.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"raw-page-row.module.code.ts","path":"page/ui-store/collection/modules/page-row/page-row.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"raw-page-row.module.code.ts","path":"page/ui-store/realtime/modules/payload-translator/payload-translator.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

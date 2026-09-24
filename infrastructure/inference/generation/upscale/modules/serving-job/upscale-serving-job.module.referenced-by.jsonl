@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"upscale-serving-job.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.code.ts"}
+{"propertySlug":"import","fileName":"upscale-serving-job.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/upscale/upscale.domain.ts","id":"01a06815-9efd-7040-a13c-1048a109ba86"}

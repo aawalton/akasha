@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/name/modules/stands/seat-name-stands.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/name/modules/stands/seat-name-stands.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-rename.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/name/seat-name.domain.ts","id":"01a09c43-0bf5-7991-a2dc-650268201505"}

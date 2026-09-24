@@ -1,4 +1,4 @@
 {"propertySlug":"argument","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.ts","id":"01a0603c-c1cc-7794-96f8-1e11cbb069b9"}
 {"propertySlug":"argument","path":"command/pages/temper/catalog/status/temper-catalog-status.command.ts","id":"01a0603c-c1cc-7a60-8387-08c112165535"}
-{"propertySlug":"import","fileName":"side-file.argument.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.code.ts"}
-{"propertySlug":"import","fileName":"side-file.argument.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts"}
+{"propertySlug":"import","fileName":"side-file.argument.ts","path":"command/pages/temper/catalog/invalidate/temper-catalog-invalidate.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"side-file.argument.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts","typed":false,"deferred":false}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"slot-type.select-property.ts","path":"temper/catalog/skill/temper-script/properties/slot-type.select-property.types.ts"}
-{"propertySlug":"import","fileName":"slot-type.select-property.types.ts","path":"temper/catalog/skill/temper-script/temper-script.page-type.types.ts"}
+{"propertySlug":"import","fileName":"slot-type.select-property.ts","path":"temper/catalog/skill/temper-script/properties/slot-type.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slot-type.select-property.types.ts","path":"temper/catalog/skill/temper-script/temper-script.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-script/temper-script.page-type.ts","id":"01a05fca-cb8d-7226-b1b1-e268930470a2"}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-script/temper-script.page-type.ts","id":"01a05fca-cb8d-7226-b1b1-e268930470a2"}

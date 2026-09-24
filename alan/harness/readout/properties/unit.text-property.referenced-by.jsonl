@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"unit.text-property.types.ts","path":"alan/harness/readout/readout.page-type.types.ts"}
-{"propertySlug":"import","fileName":"unit.text-property.types.ts","path":"alan/track/daily/day/properties/health-samples/health-samples.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"unit.text-property.types.ts","path":"alan/value/value.page-type.types.ts"}
+{"propertySlug":"import","fileName":"unit.text-property.types.ts","path":"alan/harness/readout/readout.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"unit.text-property.types.ts","path":"alan/track/daily/day/properties/health-samples/health-samples.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"unit.text-property.types.ts","path":"alan/value/value.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/health-samples/health-samples.page-property-entry.ts","id":"01a060fb-0410-765e-a968-4c9a3477760a"}
 {"propertySlug":"page-property","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}

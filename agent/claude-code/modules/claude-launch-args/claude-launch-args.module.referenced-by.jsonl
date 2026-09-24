@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"}
-{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/mcp-registry/mcp-registry.module.code.ts"}
-{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/supervisor-mcp/supervisor-mcp.module.code.ts"}
-{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
-{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
+{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/mcp-registry/mcp-registry.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/supervisor-mcp/supervisor-mcp.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"claude-launch-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/claude-code/claude-code.domain.ts","id":"01a065b0-2100-7a41-9c02-3e5197d4b91f"}

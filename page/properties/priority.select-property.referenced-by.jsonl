@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"priority.select-property.ts","path":"page/properties/priority.select-property.types.ts"}
-{"propertySlug":"import","fileName":"priority.select-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"priority.select-property.types.ts","path":"alan/track/to-do/to-do.page-type.types.ts"}
-{"propertySlug":"import","fileName":"priority.select-property.types.ts","path":"temper/player/progress/temper-task/temper-task.page-type.types.ts"}
-{"propertySlug":"import","fileName":"priority.select-property.types.ts","path":"temper/player/progress/thing/temper-progress-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"priority.select-property.ts","path":"page/properties/priority.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"priority.select-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"priority.select-property.types.ts","path":"alan/track/to-do/to-do.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"priority.select-property.types.ts","path":"temper/player/progress/temper-task/temper-task.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"priority.select-property.types.ts","path":"temper/player/progress/thing/temper-progress-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.ts","id":"01a05fd8-c30f-72c4-9102-9b3dbc179f51"}
 {"propertySlug":"page-property","path":"alan/track/to-do/to-do.page-type.ts","id":"01a065a1-49b4-7e7c-8b95-ed10df98898c"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-task/temper-task.page-type.ts","id":"01a05fd3-435f-7ddd-a951-70e6e3d31e07"}

@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"voice-clone-client.module.code.ts","path":"command/pages/inference/voice/clone/inference-voice-clone.command.code.ts"}
+{"propertySlug":"import","fileName":"voice-clone-client.module.code.ts","path":"command/pages/inference/voice/clone/inference-voice-clone.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/client/inference-client.domain.ts","id":"01a0682d-8f07-7000-ab6b-b7ebbf0863a0"}

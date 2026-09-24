@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/page.page-type.page-row-component.code.tsx"}
-{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-card-properties/page-card-properties.module.code.tsx"}
-{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.code.tsx"}
-{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx"}
-{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-list-section/page-list-section.module.code.tsx"}
-{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-system-view/page-system-view.module.code.tsx"}
-{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-title-properties/page-title-properties.module.code.tsx"}
+{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/page.page-type.page-row-component.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-card-properties/page-card-properties.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-detail-content-helpers/page-detail-content-helpers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-list-section/page-list-section.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-system-view/page-system-view.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"card-property-columns.module.code.ts","path":"page/ui/component/modules/page-title-properties/page-title-properties.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

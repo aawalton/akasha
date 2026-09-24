@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"monarch-holding.page-type.types.ts","path":"alan/harness/monarch/holding/pages/vfifx.monarch-holding.ts"}
-{"propertySlug":"import","fileName":"monarch-holding.page-type.types.ts","path":"alan/harness/monarch/holding/pages/vmfxx.monarch-holding.ts"}
-{"propertySlug":"import","fileName":"monarch-holding.page-type.types.ts","path":"alan/harness/monarch/holding/pages/vtiax.monarch-holding.ts"}
+{"propertySlug":"import","fileName":"monarch-holding.page-type.types.ts","path":"alan/harness/monarch/holding/pages/vfifx.monarch-holding.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-holding.page-type.types.ts","path":"alan/harness/monarch/holding/pages/vmfxx.monarch-holding.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"monarch-holding.page-type.types.ts","path":"alan/harness/monarch/holding/pages/vtiax.monarch-holding.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"unique-kind.page-type.types.ts","path":"page/unique-kind/pages/page-property.unique-kind.ts"}
-{"propertySlug":"import","fileName":"unique-kind.page-type.types.ts","path":"page/unique-kind/pages/page-type.unique-kind.ts"}
-{"propertySlug":"import","fileName":"unique-kind.page-type.types.ts","path":"page/unique-kind/pages/page.unique-kind.ts"}
+{"propertySlug":"import","fileName":"unique-kind.page-type.types.ts","path":"page/unique-kind/pages/page-property.unique-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"unique-kind.page-type.types.ts","path":"page/unique-kind/pages/page-type.unique-kind.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"unique-kind.page-type.types.ts","path":"page/unique-kind/pages/page.unique-kind.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"target-page-type","path":"page/type/page-property/properties/unique.relation-property.ts","id":"01a04edd-897d-7695-8047-3d1c855b750f"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"release-collection.page-type.ts","path":"alan/music/catalog/modules/song-matching/song-matching.module.test.ts"}
-{"propertySlug":"import","fileName":"release-collection.page-type.types.ts","path":"alan/music/catalog/release-collection/pages/especially-for-you-efy.release-collection.ts"}
-{"propertySlug":"import","fileName":"release-collection.page-type.types.ts","path":"alan/music/catalog/release-collection/pages/musical-theater.release-collection.ts"}
-{"propertySlug":"import","fileName":"release-collection.page-type.types.ts","path":"alan/music/catalog/release-collection/pages/the-lord-of-the-rings-music.release-collection.ts"}
+{"propertySlug":"import","fileName":"release-collection.page-type.ts","path":"alan/music/catalog/modules/song-matching/song-matching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"release-collection.page-type.types.ts","path":"alan/music/catalog/release-collection/pages/especially-for-you-efy.release-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"release-collection.page-type.types.ts","path":"alan/music/catalog/release-collection/pages/musical-theater.release-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"release-collection.page-type.types.ts","path":"alan/music/catalog/release-collection/pages/the-lord-of-the-rings-music.release-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/music/catalog/music-catalog.domain.ts","id":"01a06238-8d2c-7f24-81f1-c8b7232268d3"}

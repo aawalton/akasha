@@ -1,6 +1,6 @@
 {"propertySlug":"argument","path":"command/pages/email/draft/create/email-draft-create.command.ts","id":"01a06810-cf11-70dc-9875-5c649a88fe59"}
 {"propertySlug":"argument","path":"command/pages/email/message/send/email-message-send.command.ts","id":"01a06810-cf11-717b-8bb7-cfc22b009ed1"}
-{"propertySlug":"import","fileName":"to-address.argument.ts","path":"command/pages/email/draft/create/email-draft-create.command.code.ts"}
-{"propertySlug":"import","fileName":"to-address.argument.ts","path":"command/pages/email/draft/create/email-draft-create.command.test.ts"}
-{"propertySlug":"import","fileName":"to-address.argument.ts","path":"command/pages/email/message/send/email-message-send.command.code.ts"}
-{"propertySlug":"import","fileName":"to-address.argument.ts","path":"command/pages/email/message/send/email-message-send.command.test.ts"}
+{"propertySlug":"import","fileName":"to-address.argument.ts","path":"command/pages/email/draft/create/email-draft-create.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"to-address.argument.ts","path":"command/pages/email/draft/create/email-draft-create.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"to-address.argument.ts","path":"command/pages/email/message/send/email-message-send.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"to-address.argument.ts","path":"command/pages/email/message/send/email-message-send.command.test.ts","typed":false,"deferred":false}

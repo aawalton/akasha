@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"completion-cumulative-cards.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cumulative-cards/completion-cumulative-cards.module.test.ts"}
-{"propertySlug":"import","fileName":"completion-cumulative-cards.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.code.ts"}
-{"propertySlug":"import","fileName":"completion-cumulative-cards.module.code.ts","path":"temper/web/modules/account-summary-panel-card/account-summary-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"completion-cumulative-cards.module.code.ts","path":"temper/web/modules/characters-summary-panel-card/characters-summary-panel-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"completion-cumulative-cards.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-cumulative-cards/completion-cumulative-cards.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-cumulative-cards.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-cumulative-cards.module.code.ts","path":"temper/web/modules/account-summary-panel-card/account-summary-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-cumulative-cards.module.code.ts","path":"temper/web/modules/characters-summary-panel-card/characters-summary-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}

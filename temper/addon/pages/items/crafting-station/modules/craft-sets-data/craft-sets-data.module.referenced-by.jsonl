@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-options/craft-options.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-sets-data-tiers-2-5/craft-sets-data-tiers-2-5.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-sets-data-tiers-6-9/craft-sets-data-tiers-6-9.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-utilities/craft-utilities.module.code.ts"}
-{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"}
+{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-options/craft-options.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-sets-data-tiers-2-5/craft-sets-data-tiers-2-5.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-sets-data-tiers-6-9/craft-sets-data-tiers-6-9.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-utilities/craft-utilities.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"craft-sets-data.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-station/crafting-station.domain.ts","id":"01a0c71f-d807-7626-aa6a-45f071502f35"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"remove-folder.change-agent.code.ts","path":"change/agent/folder/remove-folder/remove-folder.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"remove-folder.change-agent.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"}
-{"propertySlug":"import","fileName":"remove-folder.change-agent.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts"}
+{"propertySlug":"import","fileName":"remove-folder.change-agent.code.ts","path":"change/agent/folder/remove-folder/remove-folder.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"remove-folder.change-agent.code.ts","path":"change/runner/pages/agent-change-running/agent-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"remove-folder.change-agent.code.ts","path":"change/runner/pages/test-change-running/test-change-running.change-runner.addressed.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"change/agent/folder/change-agent-folder.domain.ts","id":"01a07cc2-5592-76c0-9945-aa8a44a111d0"}

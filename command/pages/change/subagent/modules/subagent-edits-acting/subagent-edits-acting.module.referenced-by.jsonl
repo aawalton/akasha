@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/drop/change-subagent-drop.command.code.ts"}
-{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/list/change-subagent-list.command.code.ts"}
-{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.test.ts"}
-{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/show/change-subagent-show.command.code.ts"}
-{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/take/change-subagent-take.command.code.ts"}
+{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/drop/change-subagent-drop.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/list/change-subagent-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/show/change-subagent-show.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-edits-acting.module.code.ts","path":"command/pages/change/subagent/take/change-subagent-take.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/change/subagent/change-subagent.namespace.ts","id":"01a09c36-a09c-75e0-ab57-9febb4e5a990"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/no-vampirism.temper-vampire-stage.ts"}
-{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/stage-1.temper-vampire-stage.ts"}
-{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/stage-2.temper-vampire-stage.ts"}
-{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/stage-3.temper-vampire-stage.ts"}
-{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/stage-4.temper-vampire-stage.ts"}
+{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/no-vampirism.temper-vampire-stage.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/stage-1.temper-vampire-stage.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/stage-2.temper-vampire-stage.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/stage-3.temper-vampire-stage.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-vampire-stage.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/pages/stage-4.temper-vampire-stage.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-effect.domain.ts","id":"01a05fba-ce3c-73cc-87ea-23462f201563"}

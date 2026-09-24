@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-account-tab/completion-account-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-characters-tab/completion-characters-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx"}
-{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-page-content/completion-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-summary-tab/completion-summary-tab.module.code.tsx"}
+{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-account-tab/completion-account-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-characters-tab/completion-characters-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-page-content/completion-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-toolbar-context.module.code.tsx","path":"temper/web/modules/completion-summary-tab/completion-summary-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

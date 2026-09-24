@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"view-tab-context-menu.module.code.tsx","path":"page/ui/component/modules/page-system-shell/page-system-shell.module.code.tsx"}
-{"propertySlug":"import","fileName":"view-tab-context-menu.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"view-tab-context-menu.module.code.tsx","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx"}
+{"propertySlug":"import","fileName":"view-tab-context-menu.module.code.tsx","path":"page/ui/component/modules/page-system-shell/page-system-shell.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view-tab-context-menu.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view-tab-context-menu.module.code.tsx","path":"page/ui/component/modules/view-tabs/view-tabs.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}

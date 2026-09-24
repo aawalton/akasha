@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
-{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts"}
-{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.types.ts","path":"agent/subagent/subagent.page-type.types.ts"}
+{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.ts","path":"agent/model/gateway/modules/subagent-stops/subagent-stops.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-stopped.boolean-property.types.ts","path":"agent/subagent/subagent.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"parts","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}

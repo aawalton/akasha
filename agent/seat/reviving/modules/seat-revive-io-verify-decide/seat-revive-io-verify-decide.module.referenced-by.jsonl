@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seat-revive-io-verify-decide.module.code.ts","path":"agent/seat/reviving/modules/resume-verify/resume-verify.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-revive-io-verify-decide.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-revive-io-verify-decide.module.code.ts","path":"agent/seat/reviving/modules/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-revive-io-verify-decide.module.code.ts","path":"agent/seat/reviving/modules/resume-verify/resume-verify.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-revive-io-verify-decide.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"seat-revive-io-verify-decide.module.code.ts","path":"agent/seat/reviving/modules/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/reviving/seat-reviving.domain.ts","id":"01a09c38-82db-7a28-8f18-09c4621a8dce"}

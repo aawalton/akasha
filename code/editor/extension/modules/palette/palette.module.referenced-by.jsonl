@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"palette.module.code.ts","path":"code/editor/extension/modules/palette/palette.module.test.ts"}
-{"propertySlug":"import","fileName":"palette.module.code.ts","path":"code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts"}
-{"propertySlug":"import","fileName":"palette.module.code.ts","path":"code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts"}
-{"propertySlug":"import","fileName":"palette.module.code.ts","path":"code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.test.ts"}
+{"propertySlug":"import","fileName":"palette.module.code.ts","path":"code/editor/extension/modules/palette/palette.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"palette.module.code.ts","path":"code/editor/extension/modules/terminal-renaming/terminal-renaming.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"palette.module.code.ts","path":"code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"palette.module.code.ts","path":"code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

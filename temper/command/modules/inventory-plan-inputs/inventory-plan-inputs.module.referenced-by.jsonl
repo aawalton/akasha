@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"inventory-plan-inputs.module.code.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"}
-{"propertySlug":"import","fileName":"inventory-plan-inputs.module.code.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-plan-inputs.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts"}
+{"propertySlug":"import","fileName":"inventory-plan-inputs.module.code.ts","path":"command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-plan-inputs.module.code.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inventory-plan-inputs.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/command/temper-command.domain.ts","id":"01a06034-110a-750a-9400-ded12725f5e1"}

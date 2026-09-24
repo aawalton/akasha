@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"role.relation-property.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.test.ts"}
-{"propertySlug":"import","fileName":"role.relation-property.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"}
-{"propertySlug":"import","fileName":"role.relation-property.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"role.relation-property.types.ts","path":"agent/seat/seat.page-type.types.ts"}
-{"propertySlug":"import","fileName":"role.relation-property.types.ts","path":"persona/persona.page-type.types.ts"}
+{"propertySlug":"import","fileName":"role.relation-property.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"role.relation-property.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"role.relation-property.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"role.relation-property.types.ts","path":"agent/seat/seat.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"role.relation-property.types.ts","path":"persona/persona.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"page-property","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

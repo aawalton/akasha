@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-bottom/combat-ui-info-bottom.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"}
-{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-entry/combat-entry.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-bottom/combat-ui-info-bottom.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"combat-string-ids-report.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/combat/temper-addon-combat.temper-addon.ts","id":"01a0617f-585e-74cb-a3ee-67dd275cac48"}

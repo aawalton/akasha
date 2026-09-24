@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"agent/message/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts"}
-{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.code.ts"}
-{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.code.ts"}
-{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/notification-feed/modules/notifying/notifying.module.code.ts"}
-{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.code.ts"}
+{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"agent/message/recipient-resolving/modules/keeper-unrevivable-push/keeper-unrevivable-push.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/notification-feed/modules/notifying/notifying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"notification-feed-rows.module.code.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/notification-feed/notification-feed.page-type.ts","id":"01a06861-e7cd-7f8b-a674-034ea5efe956"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"own-length.number-property.types.ts","path":"alan/collection/collection.page-type.types.ts"}
-{"propertySlug":"import","fileName":"own-length.number-property.types.ts","path":"story/chapter/chapter.page-type.types.ts"}
+{"propertySlug":"import","fileName":"own-length.number-property.types.ts","path":"alan/collection/collection.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"own-length.number-property.types.ts","path":"story/chapter/chapter.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}
 {"propertySlug":"page-property","path":"story/chapter/chapter.page-type.ts","id":"01a0c990-31c3-78c4-8145-70d13440d89c"}
 {"propertySlug":"parts","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}

@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"model-family.page-type.types.ts","path":"agent/model/family/pages/fable.model-family.ts"}
-{"propertySlug":"import","fileName":"model-family.page-type.types.ts","path":"agent/model/family/pages/haiku.model-family.ts"}
-{"propertySlug":"import","fileName":"model-family.page-type.types.ts","path":"agent/model/family/pages/opus.model-family.ts"}
-{"propertySlug":"import","fileName":"model-family.page-type.types.ts","path":"agent/model/family/pages/sonnet.model-family.ts"}
+{"propertySlug":"import","fileName":"model-family.page-type.types.ts","path":"agent/model/family/pages/fable.model-family.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-family.page-type.types.ts","path":"agent/model/family/pages/haiku.model-family.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-family.page-type.types.ts","path":"agent/model/family/pages/opus.model-family.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-family.page-type.types.ts","path":"agent/model/family/pages/sonnet.model-family.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
 {"propertySlug":"target-page-type","path":"agent/model/test/properties/model-family.relation-property.ts","id":"01a053eb-6b27-7641-97ae-c865663ac0d5"}

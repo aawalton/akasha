@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"as-instant.module.code.ts","path":"agent/model/account/modules/measuring/model-account-measuring.module.code.ts"}
-{"propertySlug":"import","fileName":"as-instant.module.code.ts","path":"agent/model/account/modules/pacing/model-account-pacing.module.code.ts"}
-{"propertySlug":"import","fileName":"as-instant.module.code.ts","path":"agent/model/account/modules/selection/model-account-selection.module.code.ts"}
+{"propertySlug":"import","fileName":"as-instant.module.code.ts","path":"agent/model/account/modules/measuring/model-account-measuring.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"as-instant.module.code.ts","path":"agent/model/account/modules/pacing/model-account-pacing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"as-instant.module.code.ts","path":"agent/model/account/modules/selection/model-account-selection.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

@@ -1,2 +1,2 @@
 {"propertySlug":"argument","path":"command/pages/icloud/fetch/icloud-fetch.command.ts","id":"01a08cf8-d3c1-744e-a8e9-70301b272c28"}
-{"propertySlug":"import","fileName":"album.argument.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.code.ts"}
+{"propertySlug":"import","fileName":"album.argument.ts","path":"command/pages/icloud/fetch/icloud-fetch.command.code.ts","typed":false,"deferred":false}

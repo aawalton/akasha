@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/companion-rotation-skill-column-header/companion-rotation-skill-column-header.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/scribing-panel-card/scribing-panel-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.code.tsx"}
+{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/companion-rotation-skill-column-header/companion-rotation-skill-column-header.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/scribing-panel-card/scribing-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-icon-url.module.code.ts","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}

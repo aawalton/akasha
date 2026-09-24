@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"inference-wan-extend.command.code.ts","path":"command/pages/inference/wan/extend/inference-wan-extend.command.test.ts"}
-{"propertySlug":"import","fileName":"inference-wan-extend.command.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
-{"propertySlug":"import","fileName":"inference-wan-extend.command.ts","path":"command/pages/inference/wan/extend/inference-wan-extend.command.code.ts"}
+{"propertySlug":"import","fileName":"inference-wan-extend.command.code.ts","path":"command/pages/inference/wan/extend/inference-wan-extend.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-wan-extend.command.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"inference-wan-extend.command.ts","path":"command/pages/inference/wan/extend/inference-wan-extend.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/inference/wan/inference-wan.namespace.ts","id":"01a093fb-ba5e-7535-a5b3-40b902e37bc8"}

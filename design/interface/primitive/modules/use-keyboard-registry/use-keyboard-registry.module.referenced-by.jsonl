@@ -1,7 +1,7 @@
-{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"alan/web/modules/nav-command/nav-command.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"}
-{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"page/ui/component/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts"}
-{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"temper/web/modules/completion-page-content/completion-page-content.module.code.tsx"}
+{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"alan/web/modules/nav-command/nav-command.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/command-palette/command-palette.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"page/ui/component/modules/use-nav-command-bindings/use-nav-command-bindings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-keyboard-registry.module.code.ts","path":"temper/web/modules/completion-page-content/completion-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}

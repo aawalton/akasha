@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"service-unit-asking.module.code.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.code.ts"}
-{"propertySlug":"import","fileName":"service-unit-asking.module.code.ts","path":"command/pages/infrastructure/service/start/infrastructure-service-start.command.code.ts"}
-{"propertySlug":"import","fileName":"service-unit-asking.module.code.ts","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.code.ts"}
+{"propertySlug":"import","fileName":"service-unit-asking.module.code.ts","path":"command/pages/infrastructure/service/restart/infrastructure-service-restart.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service-unit-asking.module.code.ts","path":"command/pages/infrastructure/service/start/infrastructure-service-start.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"service-unit-asking.module.code.ts","path":"command/pages/infrastructure/service/stop/infrastructure-service-stop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/infrastructure/service/infrastructure-service.namespace.ts","id":"01a0940a-15ff-7e3e-8ad9-8be0509a9a8a"}

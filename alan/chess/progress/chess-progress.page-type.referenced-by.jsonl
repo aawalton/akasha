@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/endgame-technique.chess-progress.ts"}
-{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/fork-tactical-motif.chess-progress.ts"}
-{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/opening-understanding.chess-progress.ts"}
-{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/overall-where-his-game-is.chess-progress.ts"}
-{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/thread-gentlest-diagnosis-next-session.chess-progress.ts"}
+{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/endgame-technique.chess-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/fork-tactical-motif.chess-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/opening-understanding.chess-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/overall-where-his-game-is.chess-progress.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"chess-progress.page-type.types.ts","path":"alan/chess/progress/pages/thread-gentlest-diagnosis-next-session.chess-progress.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"alan/chess/chess.domain.ts","id":"01a05be1-cb07-74d3-b8ca-8a6e71097f9b"}

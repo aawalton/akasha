@@ -1,9 +1,9 @@
-{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts"}
-{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.code.ts"}
-{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/day-messages/day-messages.module.code.ts"}
-{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/day-place/day-place.module.test.ts"}
-{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/day-reading/day-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/day-stretches/day-stretches.module.code.ts"}
-{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/track-resolve/track-resolve.module.code.ts"}
-{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts"}
+{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/day-messages/day-messages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/day-place/day-place.module.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/day-reading/day-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/day-stretches/day-stretches.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/track-resolve/track-resolve.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"day-place.module.code.ts","path":"alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/track/daily/track-daily.domain.ts","id":"01a062dc-1b7f-7c99-a886-e67035171fdf"}

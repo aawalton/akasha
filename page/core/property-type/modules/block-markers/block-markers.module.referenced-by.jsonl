@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts"}
-{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/core/property-type/modules/rich-document/rich-document.module.code.ts"}
-{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/rich-document-property/rich-document-property.page-type.property-badge-component.code.tsx"}
-{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/ui/block-editor/modules/block-row/block-row.module.code.tsx"}
-{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/ui/block-editor/modules/block-type-helpers/block-type-helpers.module.code.ts"}
-{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/ui/block-editor/modules/use-block-ops/use-block-ops.module.code.ts"}
-{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/ui/block-editor/modules/use-textarea-input/use-textarea-input.module.code.ts"}
+{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/core/property-type/modules/rich-document-ops/rich-document-ops.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/core/property-type/modules/rich-document/rich-document.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/rich-document-property/rich-document-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/ui/block-editor/modules/block-row/block-row.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/ui/block-editor/modules/block-type-helpers/block-type-helpers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/ui/block-editor/modules/use-block-ops/use-block-ops.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"block-markers.module.code.ts","path":"page/ui/block-editor/modules/use-textarea-input/use-textarea-input.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/core/property-type/page-core-property-type.domain.ts","id":"01a071cb-236e-781b-9c7d-29bf3bd222c7"}

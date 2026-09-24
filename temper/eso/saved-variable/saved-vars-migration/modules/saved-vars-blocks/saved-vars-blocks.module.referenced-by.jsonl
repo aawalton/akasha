@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"saved-vars-blocks.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.code.ts"}
-{"propertySlug":"import","fileName":"saved-vars-blocks.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.test.ts"}
-{"propertySlug":"import","fileName":"saved-vars-blocks.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-vars-blocks.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"saved-vars-blocks.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"saved-vars-blocks.module.code.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/saved-variable/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}

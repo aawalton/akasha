@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"minimap-tweaks-shared.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks-pin-managers/minimap-tweaks-pin-managers.module.code.ts"}
-{"propertySlug":"import","fileName":"minimap-tweaks-shared.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts"}
-{"propertySlug":"import","fileName":"minimap-tweaks-shared.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks/minimap-tweaks.module.code.ts"}
+{"propertySlug":"import","fileName":"minimap-tweaks-shared.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks-pin-managers/minimap-tweaks-pin-managers.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"minimap-tweaks-shared.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks-refresh-pins/minimap-tweaks-refresh-pins.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"minimap-tweaks-shared.module.code.ts","path":"temper/addon/pages/world/navigation/modules/minimap-tweaks/minimap-tweaks.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/world/navigation/temper-addon-world-navigation.domain.ts","id":"01a0c6e7-9054-7191-bd84-4e8d7e6bb16e"}
