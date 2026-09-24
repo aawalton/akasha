@@ -1,6 +1,6 @@
 import { dlopen, FFIType, ptr } from "bun:ffi"
-import type { ChildExitStatus } from "akasha/agent/seat/supervisor/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
+import type { ChildExitStatus } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { resolveMappedLibc } from "akasha/code/process/modules/libc-mapping/libc-mapping.module.code.ts"
 import {
   errnoCodeOf,

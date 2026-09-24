@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"supervisor-boot-stage.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-boot-stage.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-start/supervisor-start.domain.ts","id":"01a09c65-6205-7f39-a5fd-cf9bc52449c4"}

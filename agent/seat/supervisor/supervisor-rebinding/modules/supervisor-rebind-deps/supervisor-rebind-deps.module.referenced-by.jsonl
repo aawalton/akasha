@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/run-supervisor/run-supervisor.module.code.ts"}

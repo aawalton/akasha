@@ -4,7 +4,7 @@ import {
   AGENT_SETTINGS_PATH,
   readAgentSettingsBase,
   refreshedSettings,
-} from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
 import {

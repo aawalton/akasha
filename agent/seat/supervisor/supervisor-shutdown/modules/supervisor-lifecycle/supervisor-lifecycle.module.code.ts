@@ -1,4 +1,4 @@
-import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
+import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getObservedChildExit,

@@ -1,3 +1,3 @@
 {"propertySlug":"import","fileName":"seat-on-call.module.code.ts","path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-on-call.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-on-call.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}

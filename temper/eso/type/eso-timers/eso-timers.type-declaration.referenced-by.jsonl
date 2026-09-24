@@ -36,9 +36,9 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"}

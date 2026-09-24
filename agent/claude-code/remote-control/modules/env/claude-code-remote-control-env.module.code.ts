@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { RemoteControlEnv } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-env/supervisor-env.module.code.ts"
+import type { RemoteControlEnv } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-env/supervisor-env.module.code.ts"
 import { harnessSettingsAt } from "akasha/agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"

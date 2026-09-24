@@ -14,7 +14,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/modules/reading/seat-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/liveness/subagent-liveness.module.code.ts"}

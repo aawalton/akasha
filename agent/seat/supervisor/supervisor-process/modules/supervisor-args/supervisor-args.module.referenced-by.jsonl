@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"supervisor-args.module.code.ts","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-args.module.code.ts","path":"agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-args.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-args.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-args.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/state/supervisor-loop-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-args.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-args.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}

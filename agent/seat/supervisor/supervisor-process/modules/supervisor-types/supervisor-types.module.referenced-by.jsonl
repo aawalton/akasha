@@ -1,8 +1,8 @@
-{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/spawn/supervisor-child-spawn.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.test.ts"}
+{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.test.ts"}

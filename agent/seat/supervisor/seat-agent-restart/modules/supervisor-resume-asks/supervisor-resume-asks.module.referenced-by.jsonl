@@ -3,7 +3,7 @@
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor-restart/modules/jitter-rule/supervisor-restart-jitter-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts"}

@@ -1,2 +1,2 @@
-{"propertySlug":"import","fileName":"supervisor-account-config.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-account-config.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-claude-code-setup/seat-claude-code-setup.domain.ts","id":"01a09c6e-0972-7d7e-a85f-aaec209ffd5b"}

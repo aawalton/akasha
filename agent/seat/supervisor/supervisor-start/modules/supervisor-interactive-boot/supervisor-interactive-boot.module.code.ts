@@ -2,21 +2,21 @@ import { buildCredentialSubsystem } from "akasha/agent/claude-code/remote-contro
 import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { toolRestrictions } from "akasha/agent/modules/tool-access/tool-access.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
-import { selectAccountAndWriteCredential } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"
 import {
   reconcileAgentBootFiles,
   resolveClaudeHandoff,
-} from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
-import { createAgent } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
+import { createAgent } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import {
   AGENT_LAUNCH_OPENED,
   AGENT_LAUNCH_SPAWNED,
-} from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-env/supervisor-env.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-env/supervisor-env.module.code.ts"
 import {
   AGENT_MODE_HEADLESS,
   AGENT_MODE_INTERACTIVE,
   stateSeatDefaults,
-} from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
+import { selectAccountAndWriteCredential } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"
 import {
   configDirForAccount,
   LOG,

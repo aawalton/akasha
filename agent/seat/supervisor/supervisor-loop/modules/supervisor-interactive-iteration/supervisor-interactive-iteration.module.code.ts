@@ -5,14 +5,14 @@ import {
 import { reconcileClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-reconcile/agent-message-supervisor-claimed-reconcile.module.code.ts"
 import { redeliveryHoldoff } from "akasha/agent/message/modules/supervisor-redelivery-holdoff/agent-message-supervisor-redelivery-holdoff.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
-import { LIVE_CHILD_EXIT_RULE } from "akasha/agent/seat/supervisor/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
-import { spawnOrAdoptChild } from "akasha/agent/seat/supervisor/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"
-import { createAgent } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+import { createAgent } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
+import { LIVE_CHILD_EXIT_RULE } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { spawnOrAdoptChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
 import {
   applyCarriedName,
   buildIterationSpawnOpts,
   type SeatSpawnDecider,
-} from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import type { SessionWatchStart } from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
 import type { SeatResume } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"

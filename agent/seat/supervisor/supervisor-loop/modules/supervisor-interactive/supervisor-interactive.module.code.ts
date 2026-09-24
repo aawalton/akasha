@@ -1,7 +1,7 @@
 import { askProxyAdoption } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-adoption-rule/supervisor-gateway-adoption-rule.module.code.ts"
 import { askProxyLiveness } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-rule/supervisor-gateway-liveness-rule.module.code.ts"
 import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
-import { finalizeInteractiveExit } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+import { finalizeInteractiveExit } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import { buildLoopState } from "akasha/agent/seat/supervisor/supervisor-loop/modules/state/supervisor-loop-state.module.code.ts"
 import {

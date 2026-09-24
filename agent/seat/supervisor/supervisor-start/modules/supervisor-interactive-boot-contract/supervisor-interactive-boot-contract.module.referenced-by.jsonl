@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}

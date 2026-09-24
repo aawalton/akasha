@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"}
+{"propertySlug":"import","fileName":"as-record.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"}
-{"propertySlug":"import","fileName":"as-record.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"code/type/narrowing/modules/as-record/as-record.module.test.ts"}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"as-record.module.code.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.code.ts"}

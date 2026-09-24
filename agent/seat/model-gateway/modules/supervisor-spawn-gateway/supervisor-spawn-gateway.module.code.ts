@@ -14,7 +14,7 @@ import {
   PORT_READ_BUDGET_MS,
   readFirstLineAsPort,
 } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-port-line/supervisor-gateway-port-line.module.code.ts"
-import { readAdoptedClaudeProxyPort } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
+import { readAdoptedClaudeProxyPort } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopted-claude-port/supervisor-adopted-claude-port.module.code.ts"
 import { supervisorSocketPath } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import {

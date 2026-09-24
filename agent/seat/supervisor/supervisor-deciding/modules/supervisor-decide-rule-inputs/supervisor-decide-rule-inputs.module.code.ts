@@ -12,8 +12,8 @@ import type {
   ChildExitClassification,
   ChildExitObservation,
   ChildExitStatus,
-} from "akasha/agent/seat/supervisor/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
-import { STOP_REASON } from "akasha/agent/seat/supervisor/supervisor-child/modules/exit-decide/supervisor-child-exit-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import { STOP_REASON } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
   bool,
