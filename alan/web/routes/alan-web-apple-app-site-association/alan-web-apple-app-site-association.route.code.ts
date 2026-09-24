@@ -1,4 +1,6 @@
-const APP_ID = "M6AN6NM6FL.com.alanwalton.app"
+import { alanwalton } from "akasha/code/ios-app/pages/alanwalton/alanwalton.ios-app.ts"
+
+const APP_ID = `${alanwalton.developmentTeam}.${alanwalton.bundleId}`
 
 const SIGN_IN_RETURN = "/handover/app"
 

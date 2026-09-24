@@ -28,6 +28,11 @@ export const alanWebAppleAppSiteAssociation = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The team and the bundle are imported from that page, so the web bundle carries them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "One path opens the app, so every other address on this site stays in the browser that opened it.",
     },
     {
