@@ -8,10 +8,6 @@ export const theTowerCounterweightColossus01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Mechanism Warden",
-  equipment: [
-    { name: "armor", slot: "armor", defense: 4 },
-    { name: "weapon", slot: "weapon", attack: 6 },
-  ],
   dice: "game-mechanic/two-d-ten",
   baseDamage: 22,
   typicalIntent: 3,

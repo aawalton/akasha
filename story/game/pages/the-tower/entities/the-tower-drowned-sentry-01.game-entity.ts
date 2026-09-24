@@ -8,10 +8,6 @@ export const theTowerDrownedSentry01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Waterlogged Husk",
-  equipment: [
-    { name: "armor", slot: "armor", defense: 3 },
-    { name: "weapon", slot: "weapon", attack: 5 },
-  ],
   dice: "game-mechanic/two-d-ten",
   baseDamage: 14,
   typicalIntent: 2,

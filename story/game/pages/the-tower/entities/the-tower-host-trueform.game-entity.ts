@@ -8,10 +8,6 @@ export const theTowerHostTrueform = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Haven-predator (unmasked)",
-  equipment: [
-    { name: "armor", slot: "armor", defense: 1 },
-    { name: "weapon", slot: "weapon", attack: 5 },
-  ],
   dice: "game-mechanic/one-d-twenty",
   baseDamage: 20,
   typicalIntent: 4,

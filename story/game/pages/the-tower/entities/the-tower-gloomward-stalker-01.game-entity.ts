@@ -8,10 +8,6 @@ export const theTowerGloomwardStalker01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Dark-hunter",
-  equipment: [
-    { name: "armor", slot: "armor", defense: 0 },
-    { name: "weapon", slot: "weapon", attack: 4 },
-  ],
   dice: "game-mechanic/two-d-ten",
   baseDamage: 12,
   typicalIntent: 2,

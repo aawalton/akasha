@@ -8,10 +8,6 @@ export const theTowerPlinthGolem01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Stone Warden",
-  equipment: [
-    { name: "armor", slot: "armor", defense: 5 },
-    { name: "weapon", slot: "weapon", attack: 6 },
-  ],
   dice: "game-mechanic/two-d-ten",
   baseDamage: 20,
   typicalIntent: 3,

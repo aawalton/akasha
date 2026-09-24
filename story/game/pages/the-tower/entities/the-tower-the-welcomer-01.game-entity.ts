@@ -8,10 +8,6 @@ export const theTowerTheWelcomer01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Glamour-predator",
-  equipment: [
-    { name: "armor", slot: "armor", defense: 0 },
-    { name: "weapon", slot: "weapon", attack: 3 },
-  ],
   dice: "game-mechanic/two-d-ten",
   baseDamage: 14,
   typicalIntent: 2,
