@@ -13,9 +13,12 @@ struct UpkeepStoplight: Decodable, Hashable {
     var takenAt: String? = nil
     var fallsPerHour: Double? = nil
     var rungs: [Rung]? = nil
+    var readingHeld: String? = nil
 }
 
 extension UpkeepStoplight {
+    var noSignal: Bool { readingHeld == NO_READING_HELD }
+
     func figure(asOf now: Date) -> String? {
         FallingReading.figure(
             reading: reading, takenAt: takenAt, fallsPerHour: fallsPerHour, now: now
@@ -115,7 +118,8 @@ struct UpkeepHomeView: View {
                     nextTier: shown.nextTier,
                     progress: shown.progress,
                     label: $0.label ?? $0.habit,
-                    figureOffScale: $0.figureOffScale ?? false
+                    figureOffScale: $0.figureOffScale ?? false,
+                    noSignal: $0.noSignal
                 )
             }
         }
