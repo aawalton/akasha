@@ -4,7 +4,7 @@ export const seatAgentMcp = {
   id: "01a09c6d-1a8a-71ca-a5ab-1b64efadb14f",
   type: "page-type/domain",
   slug: "seat-agent-mcp",
-  definition: "a seated agent's tool servers",
+  definition: "the mcp servers started for a seat's agent",
   parts: [
     "module/browser-reaping",
     "module/mcp-disable-reconcile",
