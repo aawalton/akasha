@@ -67,6 +67,11 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A getter of a control the model lacks answers a control made once under the one asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Any other method the model lacks answers with the control it was called on.",
     },
 

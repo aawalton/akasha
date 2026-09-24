@@ -40,7 +40,12 @@ local function denied() return false end
 
 local ASKING = { "^Is%u", "^Has%u", "^Can%u", "^Was%u", "^Should%u", "^Does%u" }
 
+local partOf
+
 local function unmodelledAs(key)
+  if string.match(key, "^Get%u.*Control$") ~= nil then
+    return function(control) return partOf(control, key) end
+  end
   if string.match(key, "^Get%u") ~= nil then return measured end
   for _, shape in ipairs(ASKING) do
     if string.match(key, shape) ~= nil then return denied end
@@ -152,6 +157,20 @@ birth = function(named, parent, controlType, virtual)
   insert(everyControl, control)
   if virtual ~= nil then dress(control, virtuals[virtual]) end
   return control
+end
+
+partOf = function(control, key)
+  local held = rawget(control, "uiParts")
+  if held == nil then
+    held = {}
+    rawset(control, "uiParts", held)
+  end
+  local made = held[key]
+  if made == nil then
+    made = birth(nil, control, CONTROL_TYPES.CT_CONTROL, nil)
+    held[key] = made
+  end
+  return made
 end
 
 function Control:GetName() return self.uiName or "" end
