@@ -14,6 +14,9 @@ struct HabitStoplight: Decodable, Hashable {
     var fallsPerHour: Double? = nil
     var rungs: [Rung]? = nil
     var coloredWith: ColoredWith? = nil
+    var readingHeld: String? = nil
+
+    var noSignal: Bool { readingHeld == NO_READING_HELD }
 }
 
 // THE READING A STOPLIGHT'S COLOR WAS READ WITH, WHERE THAT IS SOME OTHER READING.
