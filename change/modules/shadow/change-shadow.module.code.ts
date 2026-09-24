@@ -59,8 +59,6 @@ const PROPERTY = "-property"
 
 const TYPE_STATED = /^\s*type: "([^"]*)"/m
 
-const TYPE_SLUG_STATED = /^\s*pageTypeSlug: "([^"]*)"/m
-
 const BY_MACHINE = "` is a file a machine writes rather than an agent"
 
 const WHAT_WRITES = ", so change what writes it rather than the file"
@@ -107,8 +105,7 @@ function facingIn(world: World): Facing {
 const FACING = new WeakMap<World, Facing>()
 
 export function typeIn(text: string): string | null {
-  const said = TYPE_STATED.exec(text) ?? TYPE_SLUG_STATED.exec(text)
-  return said?.[1] ?? null
+  return TYPE_STATED.exec(text)?.[1] ?? null
 }
 
 export function turnsGenerated(one: FileChange, was: string | null, now: string | null): boolean {

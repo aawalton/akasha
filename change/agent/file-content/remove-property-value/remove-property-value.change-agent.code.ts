@@ -25,7 +25,7 @@ const REMOVE_PROPERTY_VALUE =
 
 const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
-const PAGE_TYPE_SLUG = "pageTypeSlug"
+const TYPE = "type"
 
 const AT = "at"
 
@@ -62,7 +62,7 @@ export function filesNamedIn(
   key: string,
   value: string
 ): readonly string[] {
-  const only: Value = { [PAGE_TYPE_SLUG]: typeIn(page), [key]: value }
+  const only: Value = { [TYPE]: typeIn(page), [key]: value }
   const claimed = filesClaimedIn(
     only,
     at,

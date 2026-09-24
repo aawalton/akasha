@@ -323,12 +323,8 @@ export const changeShadow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The page type a body states is read from `type`, and from `pageTypeSlug` after.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement:
-        "That page type is read from the body before and after rather than from the passage carried.",
+        "A body's page type is read from the body before and after rather than from the passage carried.",
     },
     {
       decisionKind: "decision-kind/departure",

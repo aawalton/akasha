@@ -25,7 +25,6 @@ import {
   AT,
   AUTHORED_AT,
   answeredOf,
-  BOTH_KEYS,
   FRESH_BODY,
   FRESH_PAGE,
   GENERATED_AT,
@@ -37,8 +36,6 @@ import {
   REMOVE_FILE,
   REORDERED,
   SECOND_TYPE,
-  SLUG_ONLY,
-  SLUG_UNDER_TYPE,
   TYPE_ONLY,
   WRITING,
   withheldExactly,
@@ -390,21 +387,15 @@ test("a reach inside a change states an edit the reach around that change states
 })
 
 test("a replace leaving a page stating the page type it stated turns no generated body", () => {
-  const one = { kind: "replace", path: FRESH_PAGE, contentFrom: SLUG_ONLY, contentTo: "" }
+  const one = { kind: "replace", path: FRESH_PAGE, contentFrom: TYPE_ONLY, contentTo: "" }
 
-  expect(turnsGenerated(one as never, typeIn(BOTH_KEYS), typeIn(TYPE_ONLY))).toBe(false)
+  expect(turnsGenerated(one as never, typeIn(TYPE_ONLY), typeIn(TYPE_ONLY))).toBe(false)
 })
 
 test("a replace leaving a page stating a second page type could turn those bodies", () => {
   const one = { kind: "replace", path: FRESH_PAGE, contentFrom: TYPE_ONLY, contentTo: SECOND_TYPE }
 
   expect(turnsGenerated(one as never, typeIn(TYPE_ONLY), typeIn(SECOND_TYPE))).toBe(true)
-})
-
-test("the page type a body states is read from `type`, and from `pageTypeSlug` after", () => {
-  expect(typeIn(SLUG_ONLY)).toBe("module")
-  expect(typeIn(SLUG_UNDER_TYPE)).toBe("module")
-  expect(typeIn("const fresh = {}\n")).toBeNull()
 })
 
 const CARRIED = "file-property/code"
