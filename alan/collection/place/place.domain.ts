@@ -4,7 +4,7 @@ export const place = {
   id: "01a06590-0000-7000-8000-000000000201",
   type: "page-type/domain",
   slug: "place",
-  definition: "the places somebody kept on the map and what is redeemable at them",
+  definition: "where a person can go",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "place" },
     { partOfSpeech: "part-of-speech/noun", spelling: "places" },
