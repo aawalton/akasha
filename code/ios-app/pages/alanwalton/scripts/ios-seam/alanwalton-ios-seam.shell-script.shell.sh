@@ -82,6 +82,7 @@ WIDGET_TEAM="${NATIVE_SHELL_DEVELOPMENT_TEAM:?is unset. The ios-app page states 
 WIDGET_DEPLOYMENT_TARGET="17.0"
 WIDGET_PROFILE_NAME="${NATIVE_SHELL_WIDGET_PROFILE_NAME:?is unset. The ios-app page states widget-profile-name, and whatever runs this build exports it. This script states no value of its own to fall back to.}"
 APP_PROFILE_NAME="${NATIVE_SHELL_APP_PROFILE_NAME:?is unset. The ios-app page states app-profile-name, and whatever runs this build exports it. This script states no value of its own to fall back to.}"
+APP_MARKETING_VERSION="${NATIVE_SHELL_MARKETING_VERSION:?is unset. The ios-app page states marketing-version, and whatever runs this build exports it.}"
 KEYCHAIN_ACCESS_GROUP="${NATIVE_SHELL_KEYCHAIN_ACCESS_GROUP:?is unset. The ios-app page states development-team and bundle-id, and whatever runs this build joins them into the access group and exports it. This script states no value of its own to fall back to.}"
 DEVICE_SECRET_SERVICE="${NATIVE_SHELL_DEVICE_SECRET_SERVICE:?is unset. The ios-app page states bundle-id, and whatever runs this build derives the device secret service from it and exports it. This script states no value of its own to fall back to.}"
 PROJECT_PBXPROJ="ios/App/App.xcodeproj"

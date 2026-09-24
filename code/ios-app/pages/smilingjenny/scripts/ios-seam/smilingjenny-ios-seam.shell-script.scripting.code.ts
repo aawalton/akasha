@@ -147,6 +147,7 @@ function stating(given: string | Reading): readonly string[] {
     'WIDGET_DEPLOYMENT_TARGET="17.0"',
     'WIDGET_PROFILE_NAME="${NATIVE_SHELL_WIDGET_PROFILE_NAME:?is unset. The ios-app page states widget-profile-name, and whatever runs this build exports it. This script states no value of its own to fall back to.}"',
     'APP_PROFILE_NAME="${NATIVE_SHELL_APP_PROFILE_NAME:?is unset. The ios-app page states app-profile-name, and whatever runs this build exports it. This script states no value of its own to fall back to.}"',
+    'APP_MARKETING_VERSION="${NATIVE_SHELL_MARKETING_VERSION:?is unset. The ios-app page states marketing-version, and whatever runs this build exports it.}"',
     'PROJECT_PBXPROJ="ios/App/App.xcodeproj"',
     "",
     'WIDGET_ENABLED="${NATIVE_SHELL_WIDGET:-1}"',

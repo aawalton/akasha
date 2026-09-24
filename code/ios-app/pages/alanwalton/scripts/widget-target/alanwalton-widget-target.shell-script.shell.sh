@@ -50,6 +50,7 @@ team         = ENV.fetch("WIDGET_TEAM")
 deploy_tgt   = ENV.fetch("WIDGET_DEPLOYMENT_TARGET")
 profile_name = ENV.fetch("WIDGET_PROFILE_NAME")
 app_profile  = ENV.fetch("APP_PROFILE_NAME")
+app_mv       = ENV.fetch("APP_MARKETING_VERSION")
 dest_rel     = "#{widget_name}" # group path relative to ios/App (the project dir)
 
 project = Xcodeproj::Project.open(project_path)
@@ -76,8 +77,10 @@ widget ||= project.new_target(:app_extension, widget_name, :ios, deploy_tgt)
 
 # Build settings on both configurations. CURRENT_PROJECT_VERSION is left to the
 # project-wide value the archive passes (CURRENT_PROJECT_VERSION=$BUILD_NUMBER), so
-# the widget's CFBundleVersion always matches the app's build number.
-app_mv = app.build_configurations.first.build_settings["MARKETING_VERSION"] || "1.0"
+# the widget's CFBundleVersion always matches the app's build number. MARKETING_VERSION
+# is the one the app's page states, set on the App as well as the widget, because an
+# embedded extension's version is its parent's.
+app.build_configurations.each { |config| config.build_settings["MARKETING_VERSION"] = app_mv }
 widget.build_configurations.each do |config|
   bs = config.build_settings
   bs["PRODUCT_BUNDLE_IDENTIFIER"] = bundle_id
@@ -145,6 +148,7 @@ RUBY
 PROJECT_PBXPROJ="$PROJECT_PBXPROJ" WIDGET_NAME="$WIDGET_NAME" WIDGET_BUNDLE_ID="$WIDGET_BUNDLE_ID" \
   WIDGET_TEAM="$WIDGET_TEAM" WIDGET_DEPLOYMENT_TARGET="$WIDGET_DEPLOYMENT_TARGET" \
   WIDGET_PROFILE_NAME="$WIDGET_PROFILE_NAME" APP_PROFILE_NAME="$APP_PROFILE_NAME" \
+  APP_MARKETING_VERSION="$APP_MARKETING_VERSION" \
   ruby "$WIDGET_SEAM_RB"
 rm -f "$WIDGET_SEAM_RB"
 
