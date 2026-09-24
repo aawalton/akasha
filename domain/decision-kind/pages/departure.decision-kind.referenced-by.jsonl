@@ -5016,6 +5016,10 @@
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts","id":"01a06072-5abc-78bd-a40d-4a0c330f4651"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/temper-saved-vars-migration.domain.ts","id":"01a06072-5abb-776e-b9a1-6393d03e042b"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts","id":"01a06053-3633-77f0-8acd-df36807c5f6c"}
+{"propertySlug":"decision-kind","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.ts","id":"01a0d417-685a-7536-aae7-8ce26e0dfc6b"}
+{"propertySlug":"decision-kind","path":"temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.ts","id":"01a0d417-b676-7d76-87ba-29c4cd637ae9"}
+{"propertySlug":"decision-kind","path":"temper/eso/string/modules/engine-strings/engine-strings.data-table.ts","id":"01a0d417-2b3b-7497-869e-3567ed677896"}
+{"propertySlug":"decision-kind","path":"temper/eso/string/temper-eso-string.domain.ts","id":"01a0d417-0c97-720e-8c62-96038b6b3ee6"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-main-menu-bar/eso-main-menu-bar.type-declaration.ts","id":"01a061fe-1496-7011-81fe-5f31d724998b"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}

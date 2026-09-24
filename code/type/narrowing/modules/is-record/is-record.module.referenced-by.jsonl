@@ -48,6 +48,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"}
