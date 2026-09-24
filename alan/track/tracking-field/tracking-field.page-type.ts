@@ -15,10 +15,7 @@ export const trackingField = {
       decisionKind: "decision-kind/departure",
       statement: "Each value a field has is one observation.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "How a field's values come to exist is a capture the field names.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "No property here declares the capture a field names.",
