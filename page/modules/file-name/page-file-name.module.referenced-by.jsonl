@@ -69,6 +69,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.code.ts"}

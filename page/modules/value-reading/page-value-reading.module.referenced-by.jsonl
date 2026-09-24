@@ -102,6 +102,8 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.test.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-mechanical-page-type.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.test.ts"}

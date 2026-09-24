@@ -72,6 +72,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts"}
@@ -171,6 +172,8 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-mechanical-page-type.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.code.ts"}

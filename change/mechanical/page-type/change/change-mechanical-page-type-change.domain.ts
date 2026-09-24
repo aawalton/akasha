@@ -8,6 +8,7 @@ export const changeMechanicalPageTypeChange = {
   parts: [
     "change-mechanical-page-type/change-calculation-held-type",
     "change-mechanical-page-type/change-property-on-page-type",
+    "change-mechanical-page-type/qualify-relation-by-key-on-every-page",
     "change-mechanical-page-type/qualify-relation-on-every-page",
   ],
   decisions: [

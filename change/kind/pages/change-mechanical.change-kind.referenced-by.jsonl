@@ -62,6 +62,7 @@
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.ts","id":"01a09c70-3bc6-7f5a-9686-fdaee766d54a"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.ts","id":"01a09c8d-ef19-7434-8f64-db9ac5dcf0e2"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.ts","id":"01a09c73-7ce8-7ac1-b2ad-4b7ef6580484"}
+{"propertySlug":"change-kind","path":"change/mechanical/page-type/change/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-mechanical-page-type.ts","id":"01a0d3f7-c9d4-7a8e-96bb-538a5b92e2f0"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.ts","id":"01a0a06b-4165-7143-9eb8-553a0c1114ec"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.ts","id":"01a09c74-8e12-7590-82f3-e8a4719b2770"}
 {"propertySlug":"change-kind","path":"change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.ts","id":"01a095ce-4e42-7067-8c69-add95e48ed0b"}
