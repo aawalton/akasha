@@ -5,5 +5,8 @@ export const work = {
   type: "page-type/common-language-term",
   slug: "work",
   definition: "what somebody is doing or has to do",
-  spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "work" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "work" },
+    { partOfSpeech: "part-of-speech/present-participle", spelling: "working" },
+  ],
 } as const satisfies CommonLanguageTerm

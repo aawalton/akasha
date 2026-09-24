@@ -36,6 +36,7 @@ export const construction = {
     "construction/verb-with-a-noun-phrase",
     "construction/modal-with-a-verb",
     "construction/verb-with-a-preposition-phrase",
+    "construction/subordinating-conjunction-with-a-clause",
   ],
   extends: ["page-type/domain"],
   properties: [
