@@ -60,11 +60,15 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/apply-running/apply-running.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/applying/applying.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/calling/calling.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/change-running/change-running.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/cli/cli.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/install-linking/install-linking.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/value-minting/value-minting.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/read/read.command.test-fixtures.ts"}

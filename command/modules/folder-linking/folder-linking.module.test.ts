@@ -27,7 +27,7 @@ const HOME = "/nowhere"
 const ID = "01a08000-0000-7000-8000-000000000001"
 
 function pageSaying(said: string): string {
-  return `export const one = { id: "${ID}", pageTypeSlug: "domain", slug: "one", linkedAt: "${said}" }\n`
+  return `export const one = { id: "${ID}", type: "page-type/domain", slug: "one", linkedAt: "${said}" }\n`
 }
 
 function repoOf(body: string): string {
@@ -99,7 +99,7 @@ test("something there that is no link is left as it is and said as wrong", () =>
 })
 
 test("a page saying nothing about a link has no link placed", () => {
-  const root = repoOf(`export const one = { id: "${ID}", pageTypeSlug: "domain", slug: "one" }\n`)
+  const root = repoOf(`export const one = { id: "${ID}", type: "page-type/domain", slug: "one" }\n`)
 
   expect(linkedOver(root, [{ from: WAS, to: PAGE }], HOME)).toEqual({ said: [], wrong: [] })
 })

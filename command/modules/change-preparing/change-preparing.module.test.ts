@@ -125,7 +125,7 @@ const UNEXPORTABLE_AT = "akasha/2026-08-20.domain.ts"
 const UNEXPORTABLE =
   "export const held = {\n" +
   '  id: "01a04e11-0000-7000-8000-000000000031",\n' +
-  '  pageTypeSlug: "domain",\n' +
+  '  type: "page-type/domain",\n' +
   '  slug: "2026-08-20",\n' +
   "}\n"
 

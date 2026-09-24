@@ -107,7 +107,7 @@ const MOVED_BESIDE = `${INTO}/deep/gamma.module.referenced-by.jsonl`
 const moduleAt = (slug: string, said: string, rest: Record<string, unknown>): string =>
   pageOf({
     id: `01a04a4a-0004-7000-8000-00000000000${said}`,
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug,
     definition: "a page a folder move carries",
     ...rest,
@@ -228,7 +228,7 @@ const holding = (slugs: readonly string[]): readonly Record<string, unknown>[] =
 const parentOf = (slugs: readonly string[]): string =>
   bodyOf({
     id: idOf("2"),
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "parent",
     extends: [DOMAIN_AT],
     properties: holding(slugs),
@@ -237,7 +237,7 @@ const parentOf = (slugs: readonly string[]): string =>
 const carrierOf = (slugs: readonly string[], filing: boolean): string =>
   bodyOf({
     id: idOf("1"),
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "carrier",
     extends: ["page-type/parent"],
     properties: holding(slugs),
@@ -248,7 +248,7 @@ const FILING: Readonly<Record<string, string>> = {
   ".gitignore": "*.uncommitted.*\n",
   "akasha/page-type.page-type.ts": bodyOf({
     id: idOf("3"),
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "page-type",
     extends: [DOMAIN_AT],
     properties: [],

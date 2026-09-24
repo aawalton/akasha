@@ -90,7 +90,14 @@ function pagesOf(
   rest: Held,
   body: boolean
 ): Readonly<Record<string, string>> {
-  const value = { id, pageTypeSlug: kind, slug, definition: "a thing", [property]: "sh", ...rest }
+  const value = {
+    id,
+    type: `${pageType.slug}/${kind}`,
+    slug,
+    definition: "a thing",
+    [property]: "sh",
+    ...rest,
+  }
   const held: Record<string, string> = { [`${TREE}/${slug}/${slug}.${kind}.ts`]: pageOf(value) }
   if (body) held[`${TREE}/${besideOf(kind, property, slug)}`] = "echo held\n"
   return held

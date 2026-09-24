@@ -20,6 +20,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -37,17 +38,17 @@ const TYPE_ID = "01a0503f-14ea-74e4-9759-fe1f54a03d0e"
 
 const BODY =
   'import type { Thing } from "./thing.page-type.ts"\n\n' +
-  'export const one = { pageTypeSlug: "thing", slug: "one" } as const satisfies Thing\n'
+  'export const one = { type: "page-type/thing", slug: "one" } as const satisfies Thing\n'
 
 const TYPE_BODY =
-  `export const widget = { id: "${TYPE_ID}",` + ' pageTypeSlug: "page-type", slug: "widget" }\n'
+  `export const widget = { id: "${TYPE_ID}",` + ' type: "page-type/page-type", slug: "widget" }\n'
 
-const WIDGET_BODY = 'export const one = { pageTypeSlug: "widget", slug: "one" }\n'
+const WIDGET_BODY = 'export const one = { type: "page-type/widget", slug: "one" }\n'
 
 const PAGE_TYPE_AT = "akasha/page-type.page-type.ts"
 
 const PAGE_TYPE_BODY =
-  `export const held = { id: "${TYPE_ID}", pageTypeSlug: "page-type", slug: "page-type",` +
+  `export const held = { id: "${TYPE_ID}", type: "page-type/page-type", slug: "page-type",` +
   ' extends: [], properties: [{ pagePropertySlug: "id", required: true, many: false },' +
   ' { pagePropertySlug: "slug", required: true, many: false }] }\n'
 
@@ -73,7 +74,7 @@ function property(
   put(
     root,
     at,
-    `export const held = { id: "${id}", pageTypeSlug: "text-property",` +
+    `export const held = { id: "${id}", type: "page-type/text-property",` +
       ` slug: "${slug}", propertySlug: "${slug}"${said} }\n`
   )
   shapeAdded(root, "text-property", slug, [
@@ -91,12 +92,12 @@ function kind(root: string, slug: string, afterChecks: boolean): undefined {
   put(
     root,
     at,
-    `export const kind = { id: "${id}", pageTypeSlug: "generator-kind",` +
+    `export const kind = { id: "${id}", type: "page-type/generator-kind",` +
       ` slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
   listedFiled(root, "generator-kind", slug, [{ path: at, id }])
   valueAlsoFiled(root, "generator-kind", [
-    { path: at, value: { id, pageTypeSlug: "generator-kind", slug, afterChecks } },
+    { path: at, value: { id, type: `${pageType.slug}/generator-kind`, slug, afterChecks } },
   ])
 }
 
@@ -148,7 +149,7 @@ test("a page being created is given the value it does not carry", () => {
   expect(said.filled).toEqual([
     { path: AT, keys: ["id"], why: "a page being created states none of its own" },
   ])
-  expect(textOf(said.edits)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "thing"/)
+  expect(textOf(said.edits)).toMatch(/\{ id: "[0-9a-f-]{36}", type: "page-type\/thing"/)
 })
 
 test("a page of a page type landing in the same change is given the value it does not carry", () => {
@@ -160,7 +161,7 @@ test("a page of a page type landing in the same change is given the value it doe
   expect(said.filled).toEqual([
     { path: WIDGET_AT, keys: ["id"], why: "a page being created states none of its own" },
   ])
-  expect(textOf(said.edits, WIDGET_AT)).toMatch(/\{ id: "[0-9a-f-]{36}", pageTypeSlug: "widget"/)
+  expect(textOf(said.edits, WIDGET_AT)).toMatch(/\{ id: "[0-9a-f-]{36}", type: "page-type\/widget"/)
 })
 
 test("a page carrying the value already keeps the one it carries", () => {

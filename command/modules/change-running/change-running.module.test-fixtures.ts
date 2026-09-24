@@ -50,7 +50,7 @@ export const SPARE_CODE = "akasha/three/spare.module.code.ts"
 const SPARE: Readonly<Record<string, string>> = {
   [SPARE_PAGE]: pageOf({
     id: idOf("d"),
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "spare",
     definition: "a page importing the page held",
     code: "ts",
@@ -67,7 +67,7 @@ const COMMAND_TYPE_AT = "akasha/command.page-type.ts"
 const APPLY_COMMAND: Readonly<Record<string, string>> = {
   [COMMAND_TYPE_AT]: pageOf({
     id: "01a04a4a-0003-7000-8000-000000000001",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "command",
     definition: "a call an indexed repository carries",
     extends: [DOMAIN_AT],
@@ -75,7 +75,7 @@ const APPLY_COMMAND: Readonly<Record<string, string>> = {
   }),
   [APPLY_AT]: pageOf({
     id: "01a04a4a-0003-7000-8000-000000000002",
-    pageTypeSlug: "command",
+    type: `${pageType.slug}/command`,
     slug: APPLY_SLUG,
     definition: "the command a run records what that run cost beside",
   }),
@@ -111,7 +111,7 @@ const REMOVE_PAGE_AT = "akasha/changes/remove-page.change-agent.ts"
 const OWING_NO_READING: Readonly<Record<string, string>> = {
   [REMOVE_PAGE_AT]: pageOf({
     id: "01a04a4a-0001-7000-8000-000000000006",
-    pageTypeSlug: changeAgent.slug,
+    type: `${pageType.slug}/${changeAgent.slug}`,
     slug: REMOVE_PAGE_SLUG,
     definition: "a mechanical change an indexed repository carries",
     code: "ts",
@@ -126,7 +126,7 @@ const CHANGE_KIND_AT = "akasha/changes/change-mechanical.change-kind.ts"
 const KINDS: Readonly<Record<string, string>> = {
   [CHANGE_KIND_TYPE_AT]: pageOf({
     id: "01a04a4a-0001-7000-8000-000000000008",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: changeKind.slug,
     definition: "which sort one change is",
     extends: [DOMAIN_AT],
@@ -134,7 +134,7 @@ const KINDS: Readonly<Record<string, string>> = {
   }),
   [CHANGE_KIND_AT]: pageOf({
     id: "01a04a4a-0001-7000-8000-000000000009",
-    pageTypeSlug: changeKind.slug,
+    type: `${pageType.slug}/${changeKind.slug}`,
     slug: changeMechanical.slug,
     definition: "a change composed by a program",
     runsChecks: false,
@@ -154,7 +154,7 @@ const ANY_KIND_CODE = join(
 const REACHING_ANY_KIND: Readonly<Record<string, string>> = {
   [`${ANY_KIND}.ts`]: pageOf({
     id: "01a04a4a-0001-7000-8000-000000000007",
-    pageTypeSlug: "change-mechanical",
+    type: `${pageType.slug}/change-mechanical`,
     slug: "remove-file-of-any-kind",
     definition: "a mechanical change an indexed repository carries",
     code: "ts",

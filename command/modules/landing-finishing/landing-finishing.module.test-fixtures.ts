@@ -20,7 +20,7 @@ const LINKED_TO = `${LINKED_FOLDER}/b.domain.ts`
 
 export async function linkMoved(): Promise<readonly string[]> {
   const at = join(scratch.rootFor("akasha-linked-"), "ops")
-  const page = `export const b = { id: "${LINKED}", pageTypeSlug: "domain", slug: "b", linkedAt: "${at}" }\n`
+  const page = `export const b = { id: "${LINKED}", type: "page-type/domain", slug: "b", linkedAt: "${at}" }\n`
   const root = await pageLanded(await carriedRepo())
   await landing(root, rowsIn(root, [{ path: LINKED_FROM, body: bytesOf(page) }]), "held", ADMITS)
   const said = await landing(

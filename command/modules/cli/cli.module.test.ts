@@ -18,6 +18,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const COMMAND = "command"
 
@@ -92,7 +93,10 @@ test("a name no command carries is a caller's mistake too", async () => {
   const root = scratch.rootFor("akasha-cli-")
   listedFiled(root, COMMAND, "read", [{ path: "akasha/r.command.ts", id: ID }])
   valueAlsoFiled(root, COMMAND, [
-    { path: "akasha/r.command.ts", value: { id: ID, pageTypeSlug: COMMAND, slug: "read" } },
+    {
+      path: "akasha/r.command.ts",
+      value: { id: ID, type: `${pageType.slug}/${COMMAND}`, slug: "read" },
+    },
   ])
   idFiled(root, COMMAND_TYPE, [{ path: COMMAND_TYPE_AT, id: COMMAND_TYPE }])
   const said = await unclassifying(["held"], { AKASHA_ROOT: root }, AT, "/nowhere")

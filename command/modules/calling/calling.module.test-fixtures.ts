@@ -16,6 +16,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const MECHANICAL: Kind = {
   slug: "change-mechanical",
@@ -128,7 +129,7 @@ export function rootWith(
         path: line.path,
         value: {
           id: line.id,
-          pageTypeSlug: typeSlug,
+          type: `${pageType.slug}/${typeSlug}`,
           slug: one.slug,
           name: one.name,
           definition: one.definition,
@@ -180,7 +181,7 @@ export function namespacesIn(root: string, named: readonly Under[]): undefined {
         path: at,
         value: {
           id,
-          pageTypeSlug: NAMESPACE,
+          type: `${pageType.slug}/${NAMESPACE}`,
           slug: one.slug,
           name: one.name,
           definition: one.definition,
@@ -341,7 +342,7 @@ export function argumentsFiled(root: string, taken: readonly Taken[]): undefined
         path: at,
         value: {
           id,
-          pageTypeSlug: ARGUMENT,
+          type: `${pageType.slug}/${ARGUMENT}`,
           slug: one.slug,
           said: one.said,
           takes: one.takes,

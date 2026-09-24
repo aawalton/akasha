@@ -33,6 +33,7 @@ import {
   AKASHA,
   rootEnvName,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const PAGE = "akasha/agent/seat/pages/tester.seat.ts"
 
@@ -149,7 +150,10 @@ async function repo(): Promise<string> {
   nothingFiled(root)
   listedFiled(root, RUNNER, MAPPED_SLUG, [{ path: MAPPED_PAGE, id: MAPPED_ID }])
   valueAlsoFiled(root, RUNNER, [
-    { path: MAPPED_PAGE, value: { id: MAPPED_ID, pageTypeSlug: RUNNER, slug: MAPPED_SLUG } },
+    {
+      path: MAPPED_PAGE,
+      value: { id: MAPPED_ID, type: `${pageType.slug}/${RUNNER}`, slug: MAPPED_SLUG },
+    },
   ])
   return root
 }

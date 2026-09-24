@@ -137,7 +137,7 @@ export function gitOver(root: string): readonly string[] {
 
 export const ID = "01a04e11-0000-7000-8000-000000000001"
 
-export const A = `export const a = { id: "${ID}", pageTypeSlug: "domain", slug: "a" }\n`
+export const A = `export const a = { id: "${ID}", type: "page-type/domain", slug: "a" }\n`
 
 const IMPORTED = "akasha/held.ts"
 
@@ -287,7 +287,7 @@ function typed(
   }))
   const value = {
     id: `01a04e11-0000-7000-8000-0000000000${said}`,
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug,
     extends: above,
     properties,
