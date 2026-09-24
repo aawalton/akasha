@@ -17,13 +17,31 @@ function bytes(said: string): Uint8Array {
 
 test("an interior is found for a plain string and for a template's text", () => {
   const body = 'const a = "hi"\nconst b = `q ${a} r`\n'
-  const found = interiorsIn(body)
+  const found = interiorsIn(AT, body)
   expect(found.map((one) => body.slice(one.start, one.end))).toEqual(["hi", "q ", " r"])
+})
+
+test("a template inside a template's expression holds stated text of its own", () => {
+  const body = "const b = `q ${`in ${a} it`} r`\n"
+  const found = interiorsIn(AT, body)
+  expect(found.map((one) => body.slice(one.start, one.end))).toEqual(["q ", "in ", " it", " r"])
+})
+
+test("an interior is found with the escapes it holds as written", () => {
+  const body = 'const a = "say \\"hi\\""\nconst b = `a\\`b`\n'
+  const found = interiorsIn(AT, body)
+  expect(found.map((one) => body.slice(one.start, one.end))).toEqual(['say \\"hi\\"', "a\\`b"])
+})
+
+test("a quote in a comment or a pattern is no run of stated text", () => {
+  const body = '// it\'s "here"\nconst r = /"/\nconst a = "one" /* "two" */\n'
+  const found = interiorsIn(AT, body)
+  expect(found.map((one) => body.slice(one.start, one.end))).toEqual(["one"])
 })
 
 test("a splice puts each run of text back in order", () => {
   const body = 'const a = "one"\nconst b = "two"\n'
-  const found = interiorsIn(body)
+  const found = interiorsIn(AT, body)
   expect(spliced(body, found, ["alpha", "beta"])).toBe('const a = "alpha"\nconst b = "beta"\n')
 })
 

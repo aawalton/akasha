@@ -1,6 +1,7 @@
-import { tokensOf } from "akasha/code/reading/modules/code-tokens/code-tokens.module.code.ts"
+import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import { textOf } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
+import ts from "typescript"
 
 export type Interior = {
   readonly start: number
@@ -21,14 +22,27 @@ export function judgedHere(path: string): boolean {
 
 const textIn = textOf
 
-export function interiorsIn(body: string): readonly Interior[] {
-  const held = tokensOf(body)
-  const found: Interior[] = []
-  for (const one of held.strings.values()) found.push({ start: one.start + 1, end: one.end - 1 })
-  for (const one of held.templates.values()) {
-    for (const quasi of one.quasis) found.push({ start: quasi.start, end: quasi.end })
+function interiorOf(source: ts.SourceFile, node: ts.Node): Interior | null {
+  const opened = ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node)
+  if (opened || ts.isTemplateTail(node)) {
+    return { start: node.getStart(source) + 1, end: node.end - 1 }
   }
-  return found.sort((one, other) => one.start - other.start)
+  if (ts.isTemplateHead(node) || ts.isTemplateMiddle(node)) {
+    return { start: node.getStart(source) + 1, end: node.end - 2 }
+  }
+  return null
+}
+
+export function interiorsIn(path: string, body: string): readonly Interior[] {
+  const source = parsedAs(path, body)
+  const found: Interior[] = []
+  const visit = (node: ts.Node): undefined => {
+    const one = interiorOf(source, node)
+    if (one !== null) found.push(one)
+    ts.forEachChild(node, visit)
+  }
+  visit(source)
+  return found
 }
 
 export function spliced(was: string, into: readonly Interior[], said: readonly string[]): string {
@@ -53,8 +67,8 @@ export function movedMoreThanWords(
   was: string,
   now: string
 ): string | null {
-  const mine = interiorsIn(was)
-  const theirs = interiorsIn(now)
+  const mine = interiorsIn(path, was)
+  const theirs = interiorsIn(path, now)
   if (mine.length !== theirs.length) {
     return (
       `${path} — the body held ${mine.length} runs of stated text before and ${theirs.length} after,` +

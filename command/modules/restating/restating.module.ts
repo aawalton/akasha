@@ -18,6 +18,14 @@ export const restating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A template inside a template's expression holds text inside quotes of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quote inside a comment or a pattern opens no text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Each body is formatted before the two are compared.",
     },
     {
