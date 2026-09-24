@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import type { RecipeCatalogList } from "akasha/temper/capture/shape/modules/recipe-catalog/recipe-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
@@ -13,4 +14,8 @@ const recipeCatalogListSchema = z
 
 const recipeCatalogSchema = z.record(z.coerce.number(), recipeCatalogListSchema)
 
-assertSchemaMatchesPayload<typeof recipeCatalogSchema, Record<number, RecipeCatalogList>>()
+test("the recipe catalog schema infers exactly the recipe catalog shape", () => {
+  expect(
+    assertSchemaMatchesPayload<typeof recipeCatalogSchema, Record<number, RecipeCatalogList>>()
+  ).toBeUndefined()
+})
