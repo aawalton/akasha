@@ -5,6 +5,7 @@ import {
   said as gitIn,
   told as gitTold,
 } from "akasha/git/modules/running/git-running.module.code.ts"
+import { z } from "zod"
 
 export function unloadableIn(message: string, broken: string): string {
   return `${message}\nChecks-unloadable: ${broken}`
@@ -280,12 +281,12 @@ function indexOnto(
 
 const NAMED = /^\s*(.*?)\s*<([^>]*)>\s*$/
 
+const NAMED_FOUND = z.tuple([z.string(), z.string().min(1), z.string().min(1)])
+
 function identifying(writer: string): readonly string[] {
-  const found = NAMED.exec(writer)
-  if (found === null) return []
-  const name = found[1]
-  const email = found[2]
-  if (name === undefined || name === "" || email === undefined || email === "") return []
+  const found = NAMED_FOUND.safeParse(NAMED.exec(writer))
+  if (!found.success) return []
+  const [, name, email] = found.data
   return ["-c", `user.name=${name}`, "-c", `user.email=${email}`]
 }
 
