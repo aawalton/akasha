@@ -120,12 +120,14 @@ function StatsTab({ sheet, game }: { sheet: ClientSheet; game: string | undefine
           )}
         </Section>
       ) : null}
-      <Section title="Class">
-        <div className="flex justify-between font-mono text-[12.5px]">
-          <span className="text-tertiary">Class</span>
-          <b className="font-bold text-accent">{sheet.class ?? "None"}</b>
-        </div>
-      </Section>
+      {sheet.class != null ? (
+        <Section title="Class">
+          <div className="flex justify-between font-mono text-[12.5px]">
+            <span className="text-tertiary">Class</span>
+            <b className="font-bold text-accent">{sheet.class}</b>
+          </div>
+        </Section>
+      ) : null}
       {hasDerived ? (
         <Section title="Derived">
           <ScalarRows record={derived} />
