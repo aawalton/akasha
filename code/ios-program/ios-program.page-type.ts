@@ -51,6 +51,11 @@ export const iosProgram = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A program's files state no value the app's page has, and the seam fills each in from that page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A program names every component that program compiles.",
     },
     {

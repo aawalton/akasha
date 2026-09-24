@@ -1,8 +1,9 @@
 #!/usr/bin/env bash
 # Sourced by alanwalton-ios-seam, in the shell that runs it. Reads ENTITLEMENTS_SRC,
-# APS_ENABLED, HEALTHKIT_ENABLED, PROJECT_PBXPROJ and PB from the seam. The
-# entitlements are composed from the copy standing beside the app program page,
-# never authored here.
+# APS_ENABLED, HEALTHKIT_ENABLED, KEYCHAIN_ACCESS_GROUP, PROJECT_PBXPROJ and PB from
+# the seam. The entitlements are composed from the copy beside the app program page,
+# with the keychain group the app's page has filled into the empty array that copy
+# names, and never authored here.
 ENTITLEMENTS_DEST="ios/App/App/App.entitlements"
 APS_SEAM_RB=$(mktemp)
 cat > "$APS_SEAM_RB" <<'RUBY'
@@ -41,6 +42,7 @@ if ! gem list -i xcodeproj >/dev/null 2>&1; then
 fi
 
 cp "$ENTITLEMENTS_SRC" "$ENTITLEMENTS_DEST"
+"$PB" -c "Add :keychain-access-groups:0 string $KEYCHAIN_ACCESS_GROUP" "$ENTITLEMENTS_DEST"
 if [[ "$APS_ENABLED" != "1" ]]; then
   "$PB" -c "Delete :aps-environment" "$ENTITLEMENTS_DEST" 2>/dev/null || true
   echo "OK: aps-environment entitlement SKIPPED — NATIVE_SHELL_APS=0 (key removed)."
