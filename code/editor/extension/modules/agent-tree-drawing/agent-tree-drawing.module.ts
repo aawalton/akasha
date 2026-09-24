@@ -68,7 +68,12 @@ export const agentTreeDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A click on a seat brings the terminal that seat is working in forward.",
+      statement: "A click on a seat opens that seat's page in the browser.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Bringing a seat's terminal forward, or its transcript where it has none, is on the seat's menu.",
     },
     {
       decisionKind: "decision-kind/departure",

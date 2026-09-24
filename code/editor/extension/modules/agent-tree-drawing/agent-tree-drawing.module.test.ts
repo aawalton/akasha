@@ -47,9 +47,10 @@ mock.module("vscode", () => ({
   },
 }))
 
-const { AGENT_SCHEME, createAgentDecorationProvider, createAgentTree } = await import(
-  "akasha/code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.code.ts"
-)
+const { AGENT_SCHEME, createAgentDecorationProvider, createAgentTree, OPEN_SEAT_PAGE_COMMAND } =
+  await import(
+    "akasha/code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.code.ts"
+  )
 
 const NEVER_CANCELLED: vscode.CancellationToken = {
   isCancellationRequested: false,
@@ -115,4 +116,14 @@ test("a subagent's row is drawn in its color and says it is a subagent", async (
     said: "Subagent",
     color: "ops.color.blue",
   })
+})
+
+test("a click on a seat opens that seat's page, handed the seat's id and name", async () => {
+  const node = seat({})
+  const tree = createAgentTree()
+  tree.replace([node])
+  const item = await tree.provider.getTreeItem(node)
+  tree.dispose()
+  expect(item.command?.command).toBe(OPEN_SEAT_PAGE_COMMAND)
+  expect(item.command?.arguments).toEqual([{ id: "s1", name: "nimue" }])
 })

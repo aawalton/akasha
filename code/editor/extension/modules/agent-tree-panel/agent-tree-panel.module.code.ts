@@ -9,6 +9,7 @@ import type { AgentNode } from "akasha/code/editor/extension/modules/agent-row/a
 import {
   createAgentDecorationProvider,
   createAgentTree,
+  OPEN_SEAT_PAGE_COMMAND,
   REVEAL_TERMINAL_COMMAND,
 } from "akasha/code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.code.ts"
 import {
@@ -40,6 +41,7 @@ import { invokedSeat } from "akasha/code/editor/extension/modules/invoked-seat/i
 import { newestWins } from "akasha/code/editor/extension/modules/newest-wins/newest-wins.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import type { SeatAct } from "akasha/code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.code.ts"
+import { openSeatPage } from "akasha/code/editor/extension/modules/seat-page-opening/seat-page-opening.module.code.ts"
 import { runPlan as runPlanWith } from "akasha/code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts"
 import { showSeat } from "akasha/code/editor/extension/modules/seat-showing/seat-showing.module.code.ts"
 import {
@@ -106,6 +108,9 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     }),
     vscode.commands.registerCommand(REVEAL_TERMINAL_COMMAND, (clicked: unknown) =>
       showSeat(clicked)
+    ),
+    vscode.commands.registerCommand(OPEN_SEAT_PAGE_COMMAND, (clicked: unknown) =>
+      openSeatPage(clicked)
     )
   )
 

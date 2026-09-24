@@ -4,7 +4,7 @@ export const seatShowing = {
   id: "01a0686b-bfe9-7ca6-919b-b3b0a47d62d8",
   type: "page-type/module",
   slug: "seat-showing",
-  definition: "what a click on a seat brings up, and the column chosen for it",
+  definition: "what showing a seat from its menu brings up, and the column chosen for it",
   code: "ts",
   decisions: [
     {
