@@ -12,5 +12,5 @@ export type ResourceLoaderArgs = {
 
 export function loaderArgs(pathname: string): ResourceLoaderArgs {
   const url = new URL(`${SITE_AT}${pathname}`)
-  return { request: new Request(url), url, params: {}, pattern: pathname, context: {} }
+  return { request: new Request(url.href), url, params: {}, pattern: pathname, context: {} }
 }
