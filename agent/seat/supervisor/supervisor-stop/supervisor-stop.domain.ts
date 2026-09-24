@@ -4,7 +4,7 @@ export const supervisorStop = {
   id: "01a09c5e-33e0-7824-a49b-55dffd8e1a86",
   type: "page-type/domain",
   slug: "supervisor-stop",
-  definition: "a supervisor on its way down, and what it puts back as it goes",
+  definition: "a supervisor stopped",
   parts: [
     "module/supervisor-lifecycle",
     "module/supervisor-lifecycle-death-write",
