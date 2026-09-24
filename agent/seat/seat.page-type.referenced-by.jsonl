@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"command/modules/commit-author/commit-author.module.code.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/aine/aine.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/akasha/akasha.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/alan/alan.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/amy/amy.seat.ts"}
