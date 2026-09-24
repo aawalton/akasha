@@ -71,6 +71,14 @@ export const uiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Lua in a harness reads the clock and the date, as the game gives an addon.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing else of the operating system is reached from a harness.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller reads how often each method the model lacks was called.",
     },
     {

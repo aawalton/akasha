@@ -52,7 +52,10 @@ const NAMED = /^[A-Za-z_][A-Za-z0-9_]*$/
 const GAME_NAMES_UNSTUBBED =
   '__eso_leave_unstubbed("^ZO_") __eso_leave_unstubbed("^[A-Z][A-Z0-9_]*$")'
 
-const KEPT_FOR_THE_GAME: readonly string[] = ["debug"]
+const KEPT_FOR_THE_GAME: readonly string[] = ["debug", "os"]
+
+const GAME_CLOCK =
+  "os = { clock = os.clock, date = os.date, difftime = os.difftime, time = os.time }"
 
 const HARNESS_BANNED_GLOBALS: readonly string[] = ESO_BANNED_GLOBALS.filter(
   (one) => !KEPT_FOR_THE_GAME.includes(one)
@@ -224,6 +227,7 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
     bannedGlobals: options.bannedGlobals ?? HARNESS_BANNED_GLOBALS,
     loadedFirst: [
       GAME_NAMES_UNSTUBBED,
+      GAME_CLOCK,
       ...constantTexts(),
       ...modelTexts(),
       colorText(),

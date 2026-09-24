@@ -13,6 +13,10 @@ export const uiEventModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Waiting on an event the game does not have takes nothing and answers false.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The game's getter for the event manager answers this model's, so the game's own Lua assigns it.",
     },

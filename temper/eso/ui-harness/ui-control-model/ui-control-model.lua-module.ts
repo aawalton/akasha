@@ -35,6 +35,14 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control given a new parent leaves the old parent's children.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The window owning a control is its ancestor sitting on the screen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A handler a control is given is kept rather than run.",
     },
     {

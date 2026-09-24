@@ -195,8 +195,25 @@ function Control:GetName() return self.uiName or "" end
 function Control:GetType() return self.uiType end
 function Control:GetParent() return self.uiParent end
 function Control:SetParent(parent)
+  local was = self.uiParent
+  if was == parent then return end
+  if was ~= nil then
+    for at, child in ipairs(was.uiChildren) do
+      if child == self then
+        table.remove(was.uiChildren, at)
+        break
+      end
+    end
+  end
   self.uiParent = parent
   if parent ~= nil then insert(parent.uiChildren, self) end
+end
+function Control:GetOwningWindow()
+  local at = self
+  while at.uiParent ~= nil and at.uiParent ~= _G.GuiRoot do
+    at = at.uiParent
+  end
+  return at
 end
 function Control:GetNumChildren() return #self.uiChildren end
 function Control:GetChild(which)

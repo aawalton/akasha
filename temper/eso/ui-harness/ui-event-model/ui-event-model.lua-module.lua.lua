@@ -12,6 +12,7 @@ local later = {}
 local EventManager = {}
 
 function EventManager:RegisterForEvent(namespace, event, callback)
+  if event == nil then return false end
   local held = byEvent[event]
   if held == nil then
     held = {}
