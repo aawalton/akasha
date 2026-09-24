@@ -83,6 +83,16 @@ function __ui_play_as()
 end
 `
 
+const SETTLING_ROUNDS = 64
+
+async function settled(harness: UiHarness): Promise<void> {
+  try {
+    await harness.settle(SETTLING_ROUNDS)
+  } catch {
+    return
+  }
+}
+
 export function filesUnder(dir: string, tail: string, found: string[] = []): string[] {
   for (const name of readdirSync(dir)) {
     const at = join(dir, name)
@@ -190,13 +200,16 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
         await harness.load(`return ${chunk}`)
       }
     }
+    await settled(harness)
     for (const name of asked.shows) {
       await harness.load(`return __ui_show(${JSON.stringify(name)})`)
     }
+    await settled(harness)
     await harness.load(ACCOUNT_WIDE)
     await harness.loadBundle(readFileSync(bundleAt, "utf8"))
     for (const source of seeded) await harness.load(source)
     await harness.load("return __ui_play_as()")
+    await settled(harness)
     return { harness, builtAt: builtAtCommit(asked.root), templates, refused }
   } catch (thrown) {
     await harness.close()

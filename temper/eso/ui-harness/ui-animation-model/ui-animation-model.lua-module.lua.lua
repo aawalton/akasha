@@ -35,7 +35,9 @@ end
 local function finished(self, progress)
   self.uiProgress = progress
   local stopped = self.uiHandlers.OnStop
-  if stopped ~= nil then stopped(self, true) end
+  if stopped ~= nil then
+    _G.zo_callLater(function() stopped(self, true) end, 0)
+  end
   return self
 end
 

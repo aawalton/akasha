@@ -56,6 +56,15 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "What was called for later runs once the game has loaded, once shown, and once the addon is up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call for later that raises stops that settling and leaves the rest waiting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A player's saved variables are seeded whole where the window asks for them.",
     },
     {

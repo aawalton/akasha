@@ -17,6 +17,15 @@ export const uiAnimationModel = {
         "A timeline finishing tells the handler it was given for stopping, as a finished one does.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's own Lua plays a timeline before it has finished building what stops it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The handler for stopping waits with the other calls made for later.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A timeline played forward ends at its end, and one played backward at its start.",
     },
