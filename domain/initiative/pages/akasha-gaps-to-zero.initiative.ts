@@ -30,5 +30,6 @@ export const akashaGapsToZero = {
     "The count resolved and the count left are said when a run ends.",
     "A gap is verified against the tree as it is now before it is put to Alan, and what was measured is said with it.",
     "A proposal to turn or delete a gap is taken as approved, and only a proposal to do work is put to Alan.",
+    "A deletion is never put to Alan, even where the gap's meaning cannot be found in the tree.",
   ],
 } as const satisfies Initiative
