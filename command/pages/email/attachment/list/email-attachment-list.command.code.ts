@@ -1,4 +1,6 @@
-import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
+import { listAttachments } from "akasha/alan/google/email/modules/gmail-attachments/gmail-attachments.module.code.ts"
+import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
+import { getRawMessage } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { message } from "akasha/command/argument/pages/message.argument.ts"
 import {
@@ -14,10 +16,7 @@ export function emailAttachmentList(argv: readonly string[], given: Given): Prom
   const read = takenFor(argv, given.calledAs, page, [message])
   if ("refused" in read) return Promise.resolve(refusedBy(read.refused, INPUT))
   return answering(async () => {
-    const google = await emailGoogle()
-    const client = await google.makeGmailClient()
-    return asIndentedJson(
-      google.listAttachments(await google.getRawMessage(client, read.taken.message))
-    )
+    const client = await makeGmailClient()
+    return asIndentedJson(listAttachments(await getRawMessage(client, read.taken.message)))
   })
 }

@@ -5,4 +5,5 @@
 {"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/google/email/modules/gmail-messages/gmail-messages.module.test.ts"}
 {"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/google/email/modules/list-unsubscribe/list-unsubscribe.module.code.ts"}
 {"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"alan/harness/inbox/modules/count-polling/inbox-count-polling.module.code.ts"}
+{"propertySlug":"import","fileName":"gmail-messages.module.code.ts","path":"command/pages/email/attachment/list/email-attachment-list.command.code.ts"}
 {"propertySlug":"parts","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}
