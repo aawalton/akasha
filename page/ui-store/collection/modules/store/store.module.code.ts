@@ -16,6 +16,12 @@ import {
   whenSlugReady as whenSlugReadyIn,
 } from "akasha/page/ui-store/collection/modules/acquire/acquire.module.code.ts"
 import {
+  createStoreFollowing,
+  type FollowingAt,
+  followedOf,
+  type PageWatch,
+} from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import {
   attachFetch,
   type FetchImpl,
   FILE_BACKING_POLL_MS,
@@ -42,6 +48,7 @@ import {
 import {
   isDefinitionTierSlug,
   type NamedPages,
+  namedShapeKey,
   type ShapeDescriptor,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
@@ -86,6 +93,8 @@ export interface PagesStore {
   readonly whenFilteredReady: (shapeKey: string) => Promise<void>
   readonly setAuth: (args: StoreAuthArgs) => undefined
   readonly readSlugAgain: (slug: string) => Promise<void>
+  readonly followPages: (at: FollowingAt) => undefined
+  readonly watchPage: (pageTypeSlug: string, id: string, told: () => undefined) => PageWatch
   readonly whenHydrated: Promise<void>
 }
 
@@ -128,6 +137,7 @@ export function createPagesStore(
     fileBacking.fetchImpl ??
     (typeof globalThis.fetch === "function" ? (input, init) => globalThis.fetch(input, init) : null)
   const pollMs = fileBacking.pollMs ?? FILE_BACKING_POLL_MS
+  const following = createStoreFollowing(readingAgain, fetchImpl)
   const readRoster: RosterReader | null =
     fileBacking.roster ?? (fetchImpl === null ? null : rosterOverFetch(fetchImpl))
 
@@ -242,7 +252,9 @@ export function createPagesStore(
     named: NamedPages | undefined
   ): (() => undefined) | null => {
     if (fetchImpl === null) return null
-    return attachFetch(
+    const key = named === undefined ? pageTypeSlug : namedShapeKey(pageTypeSlug, named)
+    following.follow(key, followedOf(pageTypeSlug, named))
+    const detach = attachFetch(
       {
         controller: handle.controller,
         getRow: (id) => handle.collection.get(id),
@@ -251,11 +263,16 @@ export function createPagesStore(
         fetchImpl,
         pollMs,
         readingAgain,
+        followed: following.live,
       },
       pageTypeSlug,
       fileBacking.carry?.[pageTypeSlug] ?? [],
       named
     )
+    return () => {
+      following.unfollow(key)
+      return detach()
+    }
   }
 
   const attach = (descriptor: ShapeDescriptor): (() => undefined) | null => {
@@ -333,6 +350,8 @@ export function createPagesStore(
     isFilteredReady: (shapeKey) => isShapeReadyIn(registry, shapeKey),
     whenFilteredReady: (shapeKey) => whenShapeReadyIn(registry, shapeKey),
     readSlugAgain: (slug) => readingAgain.get(slug)?.() ?? Promise.resolve(),
+    followPages: following.followPages,
+    watchPage: following.watchPage,
     setAuth: (args) => {
       const told = args.owner !== undefined
       const incoming = told

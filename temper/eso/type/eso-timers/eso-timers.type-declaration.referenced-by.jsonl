@@ -120,6 +120,7 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/service/modules/page-following/page-following.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/ui-store/collection/modules/change-following/change-following.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/ui-store/collection/modules/store/store.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/ui-store/modules/singleton/singleton.module.code.ts"}

@@ -31,7 +31,15 @@ export const pageUiStore = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page type kept in files is read over HTTP rather than subscribed to.",
+      statement: "A page type kept in files is read over HTTP.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a browser holds is read again when a change to it is pushed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a browser holds is read again on a timer only while no stream follows it.",
     },
     {
       decisionKind: "decision-kind/stopgap",

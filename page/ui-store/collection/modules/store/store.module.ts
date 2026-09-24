@@ -36,5 +36,21 @@ export const store = {
       decisionKind: "decision-kind/departure",
       statement: "A shape naming pages is a shape apart from the whole page type's.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every shape a store holds is followed on the one stream the store opens.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A store opens that stream only where a site names where it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape pushed as changed is read again, and once more if it changes while read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A view may follow one page by id and be told each time that page is pushed.",
+    },
   ],
 } as const satisfies Module

@@ -14,6 +14,10 @@ export const alanAuthProvider = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A signed-in reader's pages store follows its pages on the site's stream.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The account id a person page states is what every component below reads.",
     },
     {

@@ -7,6 +7,7 @@ export const pageUiStoreCollection = {
   definition: "the rows a store keeps for a page type",
   parts: [
     "module/acquire",
+    "module/change-following",
     "module/content-persistence",
     "module/fetch-attach",
     "module/file-backing",

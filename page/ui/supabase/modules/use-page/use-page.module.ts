@@ -6,4 +6,14 @@ export const usePage = {
   slug: "use-page",
   definition: "a page read live with its content tier attached",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A content tier is read again each time its page is pushed as changed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A content tier is read again on a timer only while no stream follows its page.",
+    },
+  ],
 } as const satisfies Module

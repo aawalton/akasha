@@ -25,6 +25,7 @@ export interface FetchAttachDeps {
   readonly fetchImpl: FetchImpl
   readonly pollMs: number
   readonly readingAgain: Map<string, () => Promise<void>>
+  readonly followed?: (shapeKey: string) => boolean
 }
 
 export interface FetchPlan {
@@ -196,8 +197,12 @@ export function attachFetch(
     apply(rows)
   }
 
+  let first = true
+
   const tick = (): undefined => {
-    void poll().finally(() => {
+    const followed = !first && deps.followed?.(shapeKey) === true
+    first = false
+    void (followed ? Promise.resolve() : poll()).finally(() => {
       if (stopped) return
       timer = setTimeout(tick, deps.pollMs)
     })

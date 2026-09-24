@@ -9,8 +9,12 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
+import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
 import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
-import { getContentPersistence } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
+import {
+  getContentPersistence,
+  getPagesStore,
+} from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useEffect, useMemo, useRef, useState } from "react"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
@@ -37,7 +41,7 @@ export function usePage({
     id,
     enabled: includeContentOnDemand,
     includeContent: includeContentOnDemand,
-    convergenceSignal: useConvergenceSignal(includeContentOnDemand),
+    convergenceSignal: useConvergenceSignal(includeContentOnDemand, pageTypeSlug, id),
     largeKeys,
   })
   const mirrorPage = mirrorRow !== null ? toPageWithProperties(mirrorRow) : null
@@ -53,13 +57,32 @@ export function usePage({
   return { page: mirrorPage, isLoading }
 }
 
-function useConvergenceSignal(enabled: boolean): string | undefined {
+function useConvergenceSignal(
+  enabled: boolean,
+  pageTypeSlug: PageTypeSlug,
+  id: string | undefined
+): string | undefined {
   const [poll, setPoll] = useState(0)
   useEffect(() => {
-    if (!enabled) return
-    const timer = setInterval(() => setPoll((n) => n + 1), FILE_BACKING_POLL_MS)
-    return () => clearInterval(timer)
-  }, [enabled])
+    if (!enabled || id == null) return
+    let watch: PageWatch | null = null
+    let dropped = false
+    const again = (): undefined => {
+      setPoll((n) => n + 1)
+      return undefined
+    }
+    void getPagesStore().then((store) => {
+      if (!dropped) watch = store.watchPage(pageTypeSlug, id, again)
+    })
+    const timer = setInterval(() => {
+      if (watch?.live() !== true) again()
+    }, FILE_BACKING_POLL_MS)
+    return () => {
+      dropped = true
+      clearInterval(timer)
+      watch?.release()
+    }
+  }, [enabled, pageTypeSlug, id])
   return `poll:${poll}`
 }
 

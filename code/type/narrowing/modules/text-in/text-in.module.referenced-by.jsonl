@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"domain/modules/work-initiatives/work-initiatives.module.code.ts"}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"page/ui-store/collection/modules/change-following/change-following.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"person/modules/enrolment/person-enrolment.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/kofi/stripe/modules/movement/movement.module.code.ts"}

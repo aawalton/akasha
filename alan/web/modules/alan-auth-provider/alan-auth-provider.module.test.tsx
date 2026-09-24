@@ -35,6 +35,7 @@ mock.module("akasha/page/ui-store/modules/singleton/singleton.module.code.ts", (
   },
   getPagesStore: () =>
     Promise.resolve({
+      followPages: () => undefined,
       acquireSlug: () => undefined,
       whenSlugReady: () => Promise.resolve(),
     }),

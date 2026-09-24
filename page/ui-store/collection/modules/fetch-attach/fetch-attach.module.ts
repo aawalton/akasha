@@ -7,4 +7,10 @@ export const fetchAttach = {
   test: "ts",
   definition: "the rows of a file-backed page type read into the store over HTTP",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape is read on attaching, and on a timer only while no stream follows it.",
+    },
+  ],
 } as const satisfies Module
