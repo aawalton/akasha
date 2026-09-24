@@ -309,7 +309,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec-mark/supervisor-reexec-mark.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/session-restart-notice-decide/session-restart-notice-decide.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/agent-restart-notice-decide/agent-restart-notice-decide.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.ts"}

@@ -3,7 +3,7 @@ import {
   planRestartNotice,
   type RestartNowEvent,
   type ResumeNotices,
-} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/session-restart-notice-decide/session-restart-notice-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/agent-restart-notice-decide/agent-restart-notice-decide.module.code.ts"
 
 const NOTICES: ResumeNotices = {
   "restart-immediate": "restart now",

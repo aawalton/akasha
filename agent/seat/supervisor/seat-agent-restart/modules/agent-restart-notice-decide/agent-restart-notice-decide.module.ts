@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const sessionRestartNoticeDecide = {
+export const agentRestartNoticeDecide = {
   id: "01a0686d-9d5e-7007-a87f-ae0387e800f7",
   type: "page-type/module",
-  slug: "session-restart-notice-decide",
+  slug: "agent-restart-notice-decide",
   definition:
     "what a restarting seat is told, and whether it is told on the spawn line or the rail",
   code: "ts",

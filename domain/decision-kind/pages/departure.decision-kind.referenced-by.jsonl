@@ -339,7 +339,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/modules/install/supervisor-restart-install.module.ts","id":"01a06876-abda-7010-b833-f472fa23d6e8"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.ts","id":"01a0683e-3dbe-7021-a398-c5d697666940"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.ts","id":"01a0683e-3dbe-7023-a794-3a24720e3484"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/session-restart-notice-decide/session-restart-notice-decide.module.ts","id":"01a0686d-9d5e-7007-a87f-ae0387e800f7"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/agent-restart-notice-decide/agent-restart-notice-decide.module.ts","id":"01a0686d-9d5e-7007-a87f-ae0387e800f7"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.ts","id":"01a0683e-3dbe-701b-b09a-df583a1df918"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.ts","id":"01a0683e-3dbe-701c-bda1-241e26dc0af9"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.ts","id":"01a0683e-3dbe-701d-8d02-1a1db2476e25"}

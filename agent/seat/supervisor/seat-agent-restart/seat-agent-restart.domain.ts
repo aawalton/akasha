@@ -14,7 +14,7 @@ export const seatAgentRestart = {
     "module/supervisor-precliff-restart",
     "module/supervisor-precliff-restart-decide",
     "module/supervisor-precliff-restart-rule",
-    "module/session-restart-notice-decide",
+    "module/agent-restart-notice-decide",
     "module/supervisor-resume-asks",
   ],
 } as const satisfies Domain
