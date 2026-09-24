@@ -184,10 +184,10 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/modules/shadow/shadow.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/name-format/modules/format-reaching/format-reaching.module.test.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/type/page-type.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"story/game/panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts"}

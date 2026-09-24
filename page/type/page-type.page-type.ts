@@ -19,6 +19,7 @@ export const pageType = {
     "boolean-property/secret",
     "boolean-property/show-reading-progress",
     "boolean-property/uncommitted",
+    "change-generator/page-type-typing",
     "component-property-group/page-badge-component",
     "component-property-group/page-card-component",
     "component-property-group/page-component",
@@ -121,7 +122,7 @@ export const pageType = {
     },
     { pageProperty: "relation-property/title-colored-by", required: false, many: false },
   ],
-  typeGenerator: "ts",
+
   decisions: [
     {
       decisionKind: "decision-kind/upkeep",

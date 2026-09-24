@@ -11,8 +11,11 @@ import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
+import {
+  keysFor,
+  resolvingIn,
+} from "akasha/page/type/change-generators/typing/page-type-typing.change-generator.code.ts"
 import { turnedBy } from "akasha/page/type/modules/type-turning/type-turning.module.code.ts"
-import { keysFor, resolvingIn } from "akasha/page/type/page-type.page-type.type-generator.ts"
 
 const PAGE_PROPERTY = "page-property"
 

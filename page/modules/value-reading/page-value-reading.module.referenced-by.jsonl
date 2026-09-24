@@ -347,11 +347,11 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/page-writing/page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/service/modules/where-testing/where-testing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/modules/gathering/page-type-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/modules/type-schema/type-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/type/page-type.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"}

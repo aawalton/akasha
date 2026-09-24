@@ -9,6 +9,10 @@ import {
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { slugsIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  type Typed,
+  typedWith,
+} from "akasha/page/type/modules/type-generating/type-generating.module.code.ts"
 import { bodyOf, schemaAt } from "akasha/page/type/modules/type-schema/type-schema.module.code.ts"
 import { turnedBy } from "akasha/page/type/modules/type-turning/type-turning.module.code.ts"
 import {
@@ -236,7 +240,11 @@ function shapesInto(
   written.push({ kind: "add", path: at, content: shapesBodyOf(found) })
 }
 
-export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] {
+export function generateChange(change: Change): Typed {
+  return typedWith(change, "page-type-typing", generateTypes)
+}
+
+function generateTypes(_root: string, shadow: Shadow): readonly Adding[] {
   const written: Adding[] = []
   const resolving = resolvingIn(shadow)
   for (const listed of shadow.index.everyOfType(PAGE_TYPE)) {

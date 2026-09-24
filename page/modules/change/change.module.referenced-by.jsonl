@@ -137,11 +137,11 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/modules/shadow/shadow.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/modules/shadow/shadow.module.test.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/type/modules/type-turning/type-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/type/modules/type-turning/type-turning.module.test.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
-{"propertySlug":"import","fileName":"change.module.code.ts","path":"page/type/page-type.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"story/game/panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

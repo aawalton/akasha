@@ -3192,6 +3192,7 @@
 {"propertySlug":"decision-kind","path":"page/storage/page-storage.domain.ts","id":"01a06558-53dd-7ac7-8fdc-e45804c712aa"}
 {"propertySlug":"decision-kind","path":"page/text-property/properties/name-format.relation-property.ts","id":"01a049b9-856c-73f0-bea2-c3036209aa09"}
 {"propertySlug":"decision-kind","path":"page/true-property/true-property.page-type.ts","id":"01a09096-7619-7b62-b6a6-292e9807cf7b"}
+{"propertySlug":"decision-kind","path":"page/type/change-generators/typing/page-type-typing.change-generator.ts","id":"01a0d4f0-636d-77e1-baf8-cf329dc2418b"}
 {"propertySlug":"decision-kind","path":"page/type/modules/declared-properties/declared-properties.module.ts","id":"01a053f6-7bab-764e-b69d-af9ebf0f1558"}
 {"propertySlug":"decision-kind","path":"page/type/modules/descent/page-type-descent.module.ts","id":"01a04eca-11d6-7481-9151-c390edc031c2"}
 {"propertySlug":"decision-kind","path":"page/type/modules/gathering/page-type-gathering.module.ts","id":"01a07883-67ee-7be0-9fd1-0df7b1974d3e"}

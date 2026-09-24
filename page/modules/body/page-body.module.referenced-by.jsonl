@@ -12,7 +12,7 @@
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/modules/body/page-body.module.test.ts"}
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
-{"propertySlug":"import","fileName":"page-body.module.code.ts","path":"page/type/page-type.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"page-body.module.test-fixtures.ts","path":"page/modules/body/page-body.module.test.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

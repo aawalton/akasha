@@ -263,12 +263,12 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/reads-keeping/reads-keeping.module.test.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/type/modules/type-schema/type-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/type/modules/type-turning/type-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/type/page-type.page-type.type-generator.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"persona/modules/reading/persona-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"story/game/mechanic/modules/mechanic-running/mechanic-running.module.code.ts"}
