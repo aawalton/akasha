@@ -18,7 +18,7 @@ export const companionMetricDisplayFormula = {
         "Category contributions follow the order of COMPANION_CATEGORIES rather than source order.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A metric with no formula and no effectType renders as the literal label Simulation Result.",
     },

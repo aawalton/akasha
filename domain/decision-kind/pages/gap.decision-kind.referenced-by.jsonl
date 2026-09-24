@@ -280,7 +280,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.ts","id":"01a06108-0766-785a-9dd2-ef09e0ab69e2"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.ts","id":"01a06152-c2c8-7842-b7a4-49754c4f6418"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.ts","id":"01a06152-c2c8-7340-b909-f5fd7c81e388"}
-{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-metric-display-formula/companion-metric-display-formula.module.ts","id":"01a06152-c2cb-7230-b589-bd7b8d4013b9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.ts","id":"01a06152-c2cf-78e0-86fc-3c00f49037b8"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-rotation-results/companion-rotation-results.module.ts","id":"01a06152-c2cf-7e15-a652-e564d4083d72"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.ts","id":"01a06152-c2d0-7ecb-a493-0d67e8ff42e0"}
