@@ -8,7 +8,7 @@ export const dragonsAndDungeons = {
   unit: "unit/words",
   externalId: "dragons-and-dungeons",
   gameEngine: "awen",
-  coordinatorAgent: "awen-gm--dragons-and-dungeons",
+  coordinatorAgent: "aria-game-master-dragons-and-dungeons",
   controlledEntityKind: "single",
   mechanicsWeight: "zero",
   resolution: "none",
