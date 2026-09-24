@@ -112,6 +112,15 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the player's own game answered is set before the game's Lua loads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A machine holding no such answers stages with the answers the rest of akasha holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The game's own saved variables library is loaded rather than modelled again here.",
     },

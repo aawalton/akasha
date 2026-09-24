@@ -12,6 +12,7 @@ export const temperEsoReturn = {
     "data-table/engine-answers",
     "module/engine-answers-reading",
     "module/engine-answers-seeding",
+    "module/player-answers-seeding",
   ],
   decisions: [
     {

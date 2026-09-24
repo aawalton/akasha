@@ -5197,6 +5197,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/engine-answers-seeding/engine-answers-seeding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/engine-returns-reading/engine-returns-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/player-answers-seeding/player-answers-seeding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/account-wide/account-wide.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/lua-array/lua-array.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.ts"}
