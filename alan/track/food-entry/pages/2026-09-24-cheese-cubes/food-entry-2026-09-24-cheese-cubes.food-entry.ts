@@ -4,6 +4,7 @@ export const foodEntry20260924CheeseCubes = {
   id: "01a0d527-1994-7000-91c2-3cd15bb919e9",
   type: "page-type/food-entry",
   slug: "food-entry-2026-09-24-cheese-cubes",
+  cover: "image/image-177134761836816b",
   title: "Cheese cubes",
   happenedAt: "2026-09-24T20:33:00.000Z",
   estimatedCalories: 420,
