@@ -21,8 +21,8 @@ export interface Refused {
 
 export interface SleepBlockInput {
   readonly title: unknown
-  readonly startTime: unknown
-  readonly endTime: unknown
+  readonly startedAt: unknown
+  readonly endedAt: unknown
 }
 
 interface Span {
@@ -42,9 +42,9 @@ const SLEEP = "sleep"
 
 const TITLE = "title"
 
-const START_TIME = "startTime"
+const STARTED_AT = "startedAt"
 
-const END_TIME = "endTime"
+const ENDED_AT = "endedAt"
 
 const EVENING_HOUR = 18
 
@@ -73,9 +73,9 @@ function eveningOf(dayStr: string): Date {
 
 function spanOf(block: SleepBlockInput): Span | null {
   if (!isSleepTitle(block.title)) return null
-  if (typeof block.startTime !== "string" || typeof block.endTime !== "string") return null
-  const startMs = Date.parse(block.startTime)
-  const endMs = Date.parse(block.endTime)
+  if (typeof block.startedAt !== "string" || typeof block.endedAt !== "string") return null
+  const startMs = Date.parse(block.startedAt)
+  const endMs = Date.parse(block.endedAt)
   if (Number.isNaN(startMs) || Number.isNaN(endMs)) return null
   if (endMs <= startMs) return null
   return { startMs, endMs }
@@ -119,8 +119,8 @@ export function sleepBlocksOn(root: string, dayStr: string): readonly SleepBlock
   if ("refused" in read) return read
   return read.entries.map((one) => ({
     title: one[TITLE],
-    startTime: one[START_TIME],
-    endTime: one[END_TIME],
+    startedAt: one[STARTED_AT],
+    endedAt: one[ENDED_AT],
   }))
 }
 

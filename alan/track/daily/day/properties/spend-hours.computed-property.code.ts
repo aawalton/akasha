@@ -16,7 +16,7 @@ export const work: Work<WorkedDay, SpendHours> = (page) => {
   const until = openUntil(page.date)
   let hours = 0
   for (const row of rows) {
-    const ran = stretchHours(row.startTime, row.endTime, until)
+    const ran = stretchHours(row.startedAt, row.endedAt, until)
     if (ran === null) continue
     hours += ran * multiplierFor(gapIn(row))
   }

@@ -24,11 +24,11 @@ export function openUntil(date: unknown, now: Date = new Date()): string {
   return new Date(at).toISOString()
 }
 
-export function stretchHours(startTime: unknown, endTime: unknown, until: string): number | null {
-  const ran = hoursBetween(startTime, endTime)
+export function stretchHours(startedAt: unknown, endedAt: unknown, until: string): number | null {
+  const ran = hoursBetween(startedAt, endedAt)
   if (ran !== null) return ran
-  if (typeof startTime !== "string") return null
-  const from = Date.parse(startTime)
+  if (typeof startedAt !== "string") return null
+  const from = Date.parse(startedAt)
   const to = Date.parse(until)
   if (Number.isNaN(from) || Number.isNaN(to)) return null
   return Math.max(0, to - from) / AN_HOUR

@@ -58,7 +58,7 @@ export async function trackSessionOpen(argv: readonly string[], given: Given): P
     ...taggingOf(taggedFor(tagging.stated, called, [], tagging.known)),
   }
   standing.rows.push(one)
-  standing.rows.sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
+  standing.rows.sort((a, b) => new Date(a.startedAt).getTime() - new Date(b.startedAt).getTime())
   const faults = faultsIn(standing.rows, standing.held)
   if (faults.length > 0) return mistaking(faults)
   return await landed(standing.held, standing.rows, `Open ${called} on ${standing.day}`, given)

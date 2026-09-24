@@ -136,6 +136,6 @@ export function movedInto(root: string, from: Ending, day: string): Landing | st
   const rows = target.rows.map((one) => ({ ...one }))
   from.rows.splice(from.rows.indexOf(from.stretch), 1)
   rows.push({ ...from.stretch, dailyTracking: target.page })
-  rows.sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
+  rows.sort((a, b) => new Date(a.startedAt).getTime() - new Date(b.startedAt).getTime())
   return { held: target, rows }
 }

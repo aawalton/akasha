@@ -99,12 +99,12 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
     const before = made[at - 1]
     const one = made[at]
     if (before === undefined || one === undefined) continue
-    if (new Date(one.startTime).getTime() <= new Date(before.startTime).getTime()) {
+    if (new Date(one.startedAt).getTime() <= new Date(before.startedAt).getTime()) {
       refusals.push(`line ${String(at + 1)} begins at or before the line above it`)
       continue
     }
-    before.endTime = one.startTime
-    before.endedAt = one.startTime
+    before.endTime = one.startedAt
+    before.endedAt = one.startedAt
   }
   const faults = [...refusals, ...faultsIn(made, standing.held)]
   if (faults.length > 0) return mistaking(faults)

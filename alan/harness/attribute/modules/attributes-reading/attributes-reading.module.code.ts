@@ -54,8 +54,8 @@ const ID = "id"
 const AS_THE_STORE_ANSWERS: Readonly<Record<string, string>> = {
   "safety-level": "safetyLevel",
   "difficulty-level": "difficultyLevel",
-  "start-time": "startTime",
-  "end-time": "endTime",
+  "started-at": "startedAt",
+  "ended-at": "endedAt",
   relationships: "relationships",
 }
 

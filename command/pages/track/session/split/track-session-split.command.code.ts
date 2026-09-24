@@ -49,9 +49,9 @@ export async function trackSessionSplit(argv: readonly string[], given: Given): 
   const reading = readMountainWallTime(anchoredIn(taken, said), now)
   if (reading.read === "refused") return mistaking([reading.saying])
   const parted = reading.at.getTime()
-  const from = new Date(found.startTime).getTime()
+  const from = new Date(found.startedAt).getTime()
   const to =
-    found.endTime === undefined ? Number.POSITIVE_INFINITY : new Date(found.endTime).getTime()
+    found.endedAt === undefined ? Number.POSITIVE_INFINITY : new Date(found.endedAt).getTime()
   if (parted <= from || parted >= to) {
     return mistaking([`${said} falls outside the stretch this parts`])
   }
@@ -67,9 +67,9 @@ export async function trackSessionSplit(argv: readonly string[], given: Given): 
     ...levels.levels,
     ...taggingOf(taggedFor(tagging.stated, called, carriedIn(found), tagging.known)),
   }
-  if (found.endTime !== undefined) {
-    next.endTime = found.endTime
-    next.endedAt = found.endTime
+  if (found.endedAt !== undefined) {
+    next.endTime = found.endedAt
+    next.endedAt = found.endedAt
   }
   found.endTime = reading.iso
   found.endedAt = reading.iso

@@ -137,8 +137,8 @@ async function sessionRows(asked: Promise<Answered>, doing: string): Promise<rea
 export async function openSession(): Promise<Page | null> {
   const rows = await sessionRows(
     askSessions({
-      where: { "end-time": { empty: true } },
-      "sort-by": "start-time",
+      where: { "ended-at": { empty: true } },
+      "sort-by": "started-at",
       descending: true,
       limit: 1,
     }),
@@ -152,7 +152,7 @@ export function sessionsOfDay(dailyId: string, keys?: readonly string[]): Promis
     askSessions(
       {
         where: { [DAILY_TRACKING]: { is: dailyId } },
-        "sort-by": "start-time",
+        "sort-by": "started-at",
         limit: MAX_DAY_SESSIONS,
         ...(keys === undefined ? {} : { keys }),
       },

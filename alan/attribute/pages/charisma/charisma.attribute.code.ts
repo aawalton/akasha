@@ -5,9 +5,9 @@ const SAFETY_LEVEL = "safety-level"
 
 const DIFFICULTY_LEVEL = "difficulty-level"
 
-const START_TIME = "start-time"
+const STARTED_AT = "started-at"
 
-const END_TIME = "end-time"
+const ENDED_AT = "ended-at"
 
 const RELATIONSHIPS = "relationships"
 
@@ -28,8 +28,8 @@ export function namesAnyone(values: Readonly<Record<string, unknown>>): boolean 
 }
 
 export function hoursIn(values: Readonly<Record<string, unknown>>): number | null {
-  const from = Date.parse(String(values[START_TIME] ?? ""))
-  const to = Date.parse(String(values[END_TIME] ?? ""))
+  const from = Date.parse(String(values[STARTED_AT] ?? ""))
+  const to = Date.parse(String(values[ENDED_AT] ?? ""))
   if (!Number.isFinite(from) || !Number.isFinite(to)) return null
   return (to - from) / MILLISECONDS_TO_THE_HOUR
 }

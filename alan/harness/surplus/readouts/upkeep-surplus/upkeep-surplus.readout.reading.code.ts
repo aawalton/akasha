@@ -12,7 +12,7 @@ const SPEND_HOURS = "spend-hours"
 
 const SESSIONS = "sessions"
 
-const END_TIME = "endTime"
+const ENDED_AT = "endedAt"
 
 const NOT_FALLING = 0
 
@@ -26,7 +26,7 @@ export function surplusIn(values: Readonly<Record<string, unknown>>): number | n
 }
 
 function stillRunning(row: Readonly<Record<string, unknown>>): boolean {
-  const ended = row[END_TIME]
+  const ended = row[ENDED_AT]
   return typeof ended !== "string" || ended.trim() === ""
 }
 

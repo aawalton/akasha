@@ -33,12 +33,12 @@ export async function trackSessionDrop(argv: readonly string[], given: Given): P
   const before = place > 0 ? standing.rows[place - 1] : undefined
   standing.rows.splice(place, 1)
   if (standing.mend && before !== undefined) {
-    if (found.endTime === undefined) {
+    if (found.endedAt === undefined) {
       delete before.endTime
       delete before.endedAt
     } else {
-      before.endTime = found.endTime
-      before.endedAt = found.endTime
+      before.endTime = found.endedAt
+      before.endedAt = found.endedAt
     }
   }
   const faults = faultsIn(standing.rows, standing.held)

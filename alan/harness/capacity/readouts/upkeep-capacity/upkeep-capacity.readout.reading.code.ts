@@ -3,11 +3,11 @@ import { statedAt } from "akasha/alan/harness/readout/modules/tier/readout-tier.
 
 const HEALTH_CAPACITY_HOURS = "health-capacity-hours"
 
-const START_TIME = "start-time"
+const STARTED_AT = "started-at"
 
 const TITLE = "title"
 
-const END_TIME = "end-time"
+const ENDED_AT = "ended-at"
 
 const SAFETY_LEVEL = "safety-level"
 
@@ -73,13 +73,13 @@ export function capacityHoursOf(
   values: Readonly<Record<string, unknown>>,
   now: Date = new Date()
 ): number | null {
-  const startTime = values[START_TIME]
-  if (typeof startTime !== "string") return null
-  const from = Date.parse(startTime)
+  const startedAt = values[STARTED_AT]
+  if (typeof startedAt !== "string") return null
+  const from = Date.parse(startedAt)
   if (!Number.isFinite(from)) return null
-  const endTime = values[END_TIME]
-  const stillRunning = typeof endTime !== "string" || endTime === ""
-  const to = stillRunning ? now.getTime() : Date.parse(endTime)
+  const endedAt = values[ENDED_AT]
+  const stillRunning = typeof endedAt !== "string" || endedAt === ""
+  const to = stillRunning ? now.getTime() : Date.parse(endedAt)
   if (!Number.isFinite(to)) return null
   const hours = Math.max(0, to - from) / AN_HOUR
   const worth = recoveryFor(values[TITLE]) - costFor(values[SAFETY_LEVEL], values[DIFFICULTY_LEVEL])

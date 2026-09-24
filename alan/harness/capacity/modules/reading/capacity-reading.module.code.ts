@@ -20,16 +20,16 @@ const ID = "id"
 
 const STRETCH_KEYS = [
   "title",
-  "start-time",
-  "end-time",
+  "started-at",
+  "ended-at",
   "safety-level",
   "difficulty-level",
 ] as const
 
 const AS_THE_STORE_ANSWERS: Readonly<Record<string, string>> = {
   title: "title",
-  "start-time": "startTime",
-  "end-time": "endTime",
+  "started-at": "startedAt",
+  "ended-at": "endedAt",
   "safety-level": "safetyLevel",
   "difficulty-level": "difficultyLevel",
 }

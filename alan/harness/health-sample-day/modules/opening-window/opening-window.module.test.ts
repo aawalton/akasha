@@ -33,14 +33,14 @@ const SLEPT_ROWS = [
   {
     id: "a",
     title: "sleep",
-    startTime: "2026-07-04T04:00:00.000Z",
-    endTime: "2026-07-04T13:00:00.000Z",
+    startedAt: "2026-07-04T04:00:00.000Z",
+    endedAt: "2026-07-04T13:00:00.000Z",
   },
   {
     id: "b",
     title: "work",
-    startTime: "2026-07-04T14:00:00.000Z",
-    endTime: "2026-07-04T15:00:00.000Z",
+    startedAt: "2026-07-04T14:00:00.000Z",
+    endedAt: "2026-07-04T15:00:00.000Z",
   },
 ]
 
@@ -48,8 +48,8 @@ const NEXT_ROWS = [
   {
     id: "c",
     title: "sleep",
-    startTime: "2026-07-05T04:00:00.000Z",
-    endTime: "2026-07-05T12:00:00.000Z",
+    startedAt: "2026-07-05T04:00:00.000Z",
+    endedAt: "2026-07-05T12:00:00.000Z",
   },
 ]
 
@@ -73,24 +73,24 @@ const EARLY_ROWS = [
   {
     id: "d",
     title: "sleep",
-    startTime: "2026-07-04T03:00:00.000Z",
-    endTime: "2026-07-04T09:00:00.000Z",
+    startedAt: "2026-07-04T03:00:00.000Z",
+    endedAt: "2026-07-04T09:00:00.000Z",
   },
 ]
 
 const NAP_ROW = {
   id: "e",
   title: "sleep",
-  startTime: "2026-07-04T21:00:00.000Z",
-  endTime: "2026-07-04T21:15:00.000Z",
+  startedAt: "2026-07-04T21:00:00.000Z",
+  endedAt: "2026-07-04T21:15:00.000Z",
 }
 
 const EVENING_ROWS = [
   {
     id: "f",
     title: "sleep",
-    startTime: "2026-07-03T23:00:00.000Z",
-    endTime: "2026-07-04T01:30:00.000Z",
+    startedAt: "2026-07-03T23:00:00.000Z",
+    endedAt: "2026-07-04T01:30:00.000Z",
   },
 ]
 
@@ -98,8 +98,8 @@ const LATE_ROWS = [
   {
     id: "g",
     title: "sleep",
-    startTime: "2026-07-05T01:00:00.000Z",
-    endTime: "2026-07-05T07:00:00.000Z",
+    startedAt: "2026-07-05T01:00:00.000Z",
+    endedAt: "2026-07-05T07:00:00.000Z",
   },
 ]
 
@@ -107,8 +107,8 @@ const REST_ROWS = [
   {
     id: "h",
     title: "rest",
-    startTime: "2026-07-04T03:00:00.000Z",
-    endTime: "2026-07-04T09:00:00.000Z",
+    startedAt: "2026-07-04T03:00:00.000Z",
+    endedAt: "2026-07-04T09:00:00.000Z",
   },
 ]
 

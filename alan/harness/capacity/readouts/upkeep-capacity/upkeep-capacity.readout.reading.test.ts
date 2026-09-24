@@ -10,8 +10,8 @@ const held = (capacity: unknown) => ({ values: { "health-capacity-hours": capaci
 
 const stretch = (over: Readonly<Record<string, unknown>>) => ({
   title: "Projects",
-  "start-time": "2026-09-07T13:00:00.000Z",
-  "end-time": "2026-09-07T14:00:00.000Z",
+  "started-at": "2026-09-07T13:00:00.000Z",
+  "ended-at": "2026-09-07T14:00:00.000Z",
   "safety-level": "3",
   "difficulty-level": "3",
   ...over,
@@ -23,14 +23,14 @@ const running = (over: Readonly<Record<string, unknown>>) =>
   stretch({ title: "Pod", "difficulty-level": "2", ...over })
 
 test("a stretch still running is worth the hours run so far", () => {
-  expect(capacityHoursOf(running({ "end-time": undefined }), NOW)).toBe(7.5)
-  expect(capacityHoursOf(running({ "end-time": "" }), NOW)).toBe(7.5)
+  expect(capacityHoursOf(running({ "ended-at": undefined }), NOW)).toBe(7.5)
+  expect(capacityHoursOf(running({ "ended-at": "" }), NOW)).toBe(7.5)
 })
 
 test("a stretch beginning after the moment the reading is taken ran no hours", () => {
   expect(
     capacityHoursOf(
-      running({ "end-time": undefined, "start-time": "2026-09-07T16:00:00.000Z" }),
+      running({ "ended-at": undefined, "started-at": "2026-09-07T16:00:00.000Z" }),
       NOW
     )
   ).toBe(0)
@@ -41,7 +41,7 @@ test("a stretch is worth the hours it ran times what an hour of it was worth", (
   expect(
     capacityHoursOf(
       stretch({
-        "end-time": "2026-09-07T15:00:00.000Z",
+        "ended-at": "2026-09-07T15:00:00.000Z",
         title: "Bath",
         "difficulty-level": "2",
       })
@@ -50,7 +50,7 @@ test("a stretch is worth the hours it ran times what an hour of it was worth", (
 })
 
 test("a stretch whose times will not be read carries no capacity", () => {
-  expect(capacityHoursOf(stretch({ "start-time": "soon" }))).toBeNull()
+  expect(capacityHoursOf(stretch({ "started-at": "soon" }))).toBeNull()
 })
 
 test("a title gives capacity back only where it names a rest as a word of its own", () => {

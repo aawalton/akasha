@@ -17,7 +17,7 @@ const PAGE = `export const held = { id: "${PAGE_ID}" }\n`
 
 export const SLEPT = "01a06818-339b-7fc2-8cd9-caea195150b3"
 
-const ROW = `{"id":"${SLEPT}","title":"Slept","startTime":"2026-09-01T06:00:00.000Z","dailyTracking":"${PAGE_ID}","endTime":"2026-09-01T14:00:00.000Z"}\n`
+const ROW = `{"id":"${SLEPT}","title":"Slept","startTime":"2026-09-01T06:00:00.000Z","startedAt":"2026-09-01T06:00:00.000Z","dailyTracking":"${PAGE_ID}","endTime":"2026-09-01T14:00:00.000Z","endedAt":"2026-09-01T14:00:00.000Z"}\n`
 
 const PUT_UNDER = "change/mechanical/file/add"
 

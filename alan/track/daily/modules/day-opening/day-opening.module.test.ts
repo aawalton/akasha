@@ -26,29 +26,29 @@ const LATE = "2026-07-06"
 const SLEEP_ON_SLEPT = {
   id: "a",
   title: "sleep",
-  startTime: "2026-07-04T04:00:00.000Z",
-  endTime: "2026-07-04T13:00:00.000Z",
+  startedAt: "2026-07-04T04:00:00.000Z",
+  endedAt: "2026-07-04T13:00:00.000Z",
 }
 
 const SLEEP_ON_NEXT = {
   id: "b",
   title: "sleep",
-  startTime: "2026-07-05T09:00:00.000Z",
-  endTime: "2026-07-05T14:00:00.000Z",
+  startedAt: "2026-07-05T09:00:00.000Z",
+  endedAt: "2026-07-05T14:00:00.000Z",
 }
 
 const SLEEP_ON_LATE = {
   id: "c",
   title: "sleep",
-  startTime: "2026-07-06T12:00:00.000Z",
-  endTime: "2026-07-06T16:00:00.000Z",
+  startedAt: "2026-07-06T12:00:00.000Z",
+  endedAt: "2026-07-06T16:00:00.000Z",
 }
 
 const WORK = {
   id: "d",
   title: "work",
-  startTime: "2026-07-04T14:00:00.000Z",
-  endTime: "2026-07-04T15:00:00.000Z",
+  startedAt: "2026-07-04T14:00:00.000Z",
+  endedAt: "2026-07-04T15:00:00.000Z",
 }
 
 function dayFiled(root: string, day: string, rows: readonly unknown[]): undefined {

@@ -15,7 +15,7 @@ export const work: Work<WorkedDay, ProjectHours> = (page) => {
   let hours = 0
   for (const row of rows) {
     if (typeof row.title !== "string" || !SAYS_PROJECTS.test(row.title)) continue
-    hours += stretchHours(row.startTime, row.endTime, until) ?? 0
+    hours += stretchHours(row.startedAt, row.endedAt, until) ?? 0
   }
   return hours
 }

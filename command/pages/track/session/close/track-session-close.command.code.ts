@@ -29,7 +29,7 @@ export async function trackSessionClose(argv: readonly string[], given: Given): 
   if (typeof found === "string") return mistaking([found])
   const ended = instantIn(taken, taken.at, now)
   if (ended === null) return mistaking([sayingFor(taken, taken.at, at.said, now)])
-  if (new Date(ended).getTime() <= new Date(found.stretch.startTime).getTime()) {
+  if (new Date(ended).getTime() <= new Date(found.stretch.startedAt).getTime()) {
     return mistaking(["a stretch cannot end at or before it began"])
   }
   found.stretch.endTime = ended

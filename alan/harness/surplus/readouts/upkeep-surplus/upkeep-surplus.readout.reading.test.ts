@@ -5,11 +5,11 @@ import {
   surplusIn,
 } from "akasha/alan/harness/surplus/readouts/upkeep-surplus/upkeep-surplus.readout.reading.code.ts"
 
-const stretch = (safety: string, difficulty: string, endTime?: string) => ({
-  startTime: "2026-08-31T12:00:00.000Z",
+const stretch = (safety: string, difficulty: string, endedAt?: string) => ({
+  startedAt: "2026-08-31T12:00:00.000Z",
   safetyLevel: safety,
   difficultyLevel: difficulty,
-  ...(endTime === undefined ? {} : { endTime }),
+  ...(endedAt === undefined ? {} : { endedAt }),
 })
 
 const held = (surplus: unknown, sleep: unknown = "8", spend: unknown = "8") => ({
@@ -90,7 +90,7 @@ test("a stretch whose end is empty text is the stretch running now", () => {
 })
 
 test("a stretch naming no safety or no difficulty costs nothing while it runs", () => {
-  expect(fallsPerHourIn({ sessions: [{ startTime: "2026-08-31T12:00:00.000Z" }] })).toBe(0)
+  expect(fallsPerHourIn({ sessions: [{ startedAt: "2026-08-31T12:00:00.000Z" }] })).toBe(0)
 })
 
 test("a day whose stretches cannot be read falls at nothing an hour", () => {

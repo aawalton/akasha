@@ -15,8 +15,8 @@ const ran = (safety: unknown, difficulty: unknown, hours: number, from = 0) => (
   values: {
     "safety-level": safety,
     "difficulty-level": difficulty,
-    "start-time": new Date(from * AN_HOUR).toISOString(),
-    "end-time": new Date((from + hours) * AN_HOUR).toISOString(),
+    "started-at": new Date(from * AN_HOUR).toISOString(),
+    "ended-at": new Date((from + hours) * AN_HOUR).toISOString(),
     relationships: [JEN],
   },
 })
@@ -70,9 +70,9 @@ test("the hours a stretch ran are the span between its two times", () => {
 })
 
 test("a stretch missing either time is no hours at all", () => {
-  expect(hoursIn({ "start-time": "2026-09-01T00:00:00.000Z" })).toBeNull()
-  expect(hoursIn({ "end-time": "2026-09-01T00:00:00.000Z" })).toBeNull()
-  expect(hoursIn({ "start-time": "never", "end-time": "never" })).toBeNull()
+  expect(hoursIn({ "started-at": "2026-09-01T00:00:00.000Z" })).toBeNull()
+  expect(hoursIn({ "ended-at": "2026-09-01T00:00:00.000Z" })).toBeNull()
+  expect(hoursIn({ "started-at": "never", "ended-at": "never" })).toBeNull()
 })
 
 test("the points are the hours of the stretches at ease", () => {

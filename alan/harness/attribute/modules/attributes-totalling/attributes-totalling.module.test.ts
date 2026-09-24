@@ -11,8 +11,8 @@ import {
 const AT_EASE_WITH_SOMEONE = {
   safetyLevel: "3",
   difficultyLevel: "1",
-  startTime: "2026-09-05T14:00:00.000Z",
-  endTime: "2026-09-05T16:00:00.000Z",
+  startedAt: "2026-09-05T14:00:00.000Z",
+  endedAt: "2026-09-05T16:00:00.000Z",
   relationships: ["01a06841-a1cb-7072-8aa0-eb11c0a4258b"],
 }
 

@@ -32,7 +32,7 @@ export const work: Work<WorkedDay, SleepHours> = (page) => {
   for (const row of rows) {
     const title = typeof row.title === "string" ? row.title : ""
     if (!SLEEPING.some((word) => hasWord(title, word))) continue
-    hours += stretchHours(row.startTime, row.endTime, until) ?? 0
+    hours += stretchHours(row.startedAt, row.endedAt, until) ?? 0
   }
   return hours
 }

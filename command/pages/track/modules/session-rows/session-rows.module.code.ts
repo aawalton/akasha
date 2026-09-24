@@ -156,7 +156,7 @@ export function heldFor(root: string, day: string): Held | string {
 }
 
 export function openIn(rows: readonly Row[]): Row | null {
-  const held = rows.filter((one) => one.endTime === undefined)
+  const held = rows.filter((one) => one.endedAt === undefined)
   return held.length === 1 ? (held[0] ?? null) : null
 }
 
@@ -221,7 +221,7 @@ export function faultsIn(rows: readonly Row[], held: Held): readonly string[] {
   let unclosed = 0
   for (const [place, row] of rows.entries()) {
     const named = `row ${String(place + 1)}`
-    const began = new Date(row.startTime)
+    const began = new Date(row.startedAt)
     const on = Number.isNaN(began.getTime()) ? null : getEsoDayStr(began)
     const opened = on === dayBefore(held.day)
     if (on !== null && on !== held.day && !opened) {
@@ -247,7 +247,7 @@ export function faultsIn(rows: readonly Row[], held: Held): readonly string[] {
         said.push(`${named} carries a ${key} outside ${String(low)} to ${String(high)}`)
       }
     }
-    if (row.endTime === undefined) unclosed += 1
+    if (row.endedAt === undefined) unclosed += 1
   }
   if (unclosed > 1) said.push(`this day carries ${String(unclosed)} open stretches`)
   return said
@@ -256,8 +256,8 @@ export function faultsIn(rows: readonly Row[], held: Held): readonly string[] {
 export function shownOf(rows: readonly Row[]): string {
   return rows
     .map((one) => {
-      const from = mountainWallAt(new Date(one.startTime))
-      const to = one.endTime === undefined ? null : mountainWallAt(new Date(one.endTime))
+      const from = mountainWallAt(new Date(one.startedAt))
+      const to = one.endedAt === undefined ? null : mountainWallAt(new Date(one.endedAt))
       const clock = (held: { hour: number; minute: number } | null): string =>
         held === null ? "     " : `${padTwo(held.hour)}:${padTwo(held.minute)}`
       const safety = typeof one.safetyLevel === "string" ? one.safetyLevel : "?"
@@ -278,7 +278,7 @@ export function addressed(taken: Addressing, rows: readonly Row[], now: Date): R
     return found ?? "this day carries no open stretch"
   }
   if (taken.last === true) {
-    const ended = rows.filter((one) => one.endTime !== undefined)
+    const ended = rows.filter((one) => one.endedAt !== undefined)
     const found = ended[ended.length - 1]
     return found ?? "this day carries no stretch that has ended"
   }
@@ -288,9 +288,9 @@ export function addressed(taken: Addressing, rows: readonly Row[], now: Date): R
     if (reading.read === "refused") return reading.saying
     const held = reading.at.getTime()
     const found = rows.find((one) => {
-      const from = new Date(one.startTime).getTime()
+      const from = new Date(one.startedAt).getTime()
       const to =
-        one.endTime === undefined ? Number.POSITIVE_INFINITY : new Date(one.endTime).getTime()
+        one.endedAt === undefined ? Number.POSITIVE_INFINITY : new Date(one.endedAt).getTime()
       return held >= from && held < to
     })
     return found ?? `no stretch of this day covers ${said}`
