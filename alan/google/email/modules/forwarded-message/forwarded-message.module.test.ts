@@ -3,6 +3,7 @@ import {
   type Attribution,
   forwardOf,
 } from "akasha/alan/google/email/modules/forwarded-message/forwarded-message.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 const ATTRIBUTION: Attribution = {
   from: "Amy <amy@example.com>",
@@ -48,8 +49,10 @@ test("the original's content headers are carried onto the part holding its body"
 
 test("the attribution names the original's date, sender, subject and recipient", () => {
   const out = forwarded()
-  const part = /Content-Transfer-Encoding: base64\r\n\r\n([A-Za-z0-9+/=\r\n]+)\r\n--/.exec(out)
-  const decoded = Buffer.from(part?.[1] ?? "", "base64").toString("utf8")
+  const part = firstCapture(
+    /Content-Transfer-Encoding: base64\r\n\r\n([A-Za-z0-9+/=\r\n]+)\r\n--/.exec(out)
+  )
+  const decoded = Buffer.from(part ?? "", "base64").toString("utf8")
   expect(decoded).toContain("---------- Forwarded message ----------")
   expect(decoded).toContain("From: Amy <amy@example.com>")
   expect(decoded).toContain("Date: Tue, 2 Sep 2026 09:00:00 -0600")
@@ -67,7 +70,7 @@ test("a header folded over two lines is read as the one header it is", () => {
 
 test("a boundary the original already holds is minted again", () => {
   const out = forwarded()
-  const boundary = /boundary="([^"]+)"/.exec(out)?.[1] ?? ""
+  const boundary = firstCapture(/boundary="([^"]+)"/.exec(out)) ?? ""
   expect(boundary).not.toBe("")
   expect(ORIGINAL.toString("latin1")).not.toContain(boundary)
   expect(out.endsWith(`--${boundary}--\r\n`)).toBe(true)

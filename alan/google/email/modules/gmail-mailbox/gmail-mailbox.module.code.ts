@@ -1,4 +1,5 @@
 import { readGmailCredentials } from "akasha/alan/google/email/modules/gmail-credentials/gmail-credentials.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 const TOKEN_URL = "https://oauth2.googleapis.com/token"
 const API = "https://gmail.googleapis.com/gmail/v1/users/me"
@@ -44,8 +45,7 @@ export interface Mailbox {
 }
 
 function addressOf(header: string): string {
-  const angled = /<([^<>]+)>/.exec(header)
-  const bare = angled?.[1] ?? header
+  const bare = firstCapture(/<([^<>]+)>/.exec(header)) ?? header
   return bare.trim().toLowerCase()
 }
 

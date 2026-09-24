@@ -1,9 +1,9 @@
 import { randomUUID } from "node:crypto"
 
 const CRLF = "\r\n"
-const BLANK_LINE = /\r?\n\r?\n/
+const BLANK_LINE = /(\r?\n\r?\n)/
 const CARRIED = ["Content-Type", "Content-Transfer-Encoding"] as const
-const BASE64_LINE = /.{1,76}/g
+const BASE64_WIDTH = 76
 
 export interface Attribution {
   readonly from: string
@@ -30,21 +30,27 @@ function headerValue(lines: readonly string[], name: string): string {
   return ""
 }
 
+function base64Lines(encoded: string): readonly string[] {
+  const lines: string[] = []
+  for (let at = 0; at < encoded.length; at += BASE64_WIDTH)
+    lines.push(encoded.slice(at, at + BASE64_WIDTH))
+  return lines.length === 0 ? [""] : lines
+}
+
 function base64Part(text: string): readonly string[] {
   return [
     "Content-Type: text/plain; charset=utf-8",
     "Content-Transfer-Encoding: base64",
     "",
-    ...(Buffer.from(text, "utf8").toString("base64").match(BASE64_LINE) ?? [""]),
+    ...base64Lines(Buffer.from(text, "utf8").toString("base64")),
   ]
 }
 
 export function forwardOf(original: Buffer, to: string, attribution: Attribution): Buffer {
   const raw = original.toString("latin1")
-  const split = BLANK_LINE.exec(raw)
-  const lines = unfolded(split === null ? raw : raw.slice(0, split.index))
-  const body =
-    split === null ? "" : raw.slice(split.index + split[0].length).replace(/(\r?\n)+$/, "")
+  const [head = raw, separator, ...rest] = raw.split(BLANK_LINE)
+  const lines = unfolded(head)
+  const body = separator === undefined ? "" : rest.join("").replace(/(\r?\n)+$/, "")
 
   let boundary = `=_forwarded_${randomUUID()}`
   while (raw.includes(boundary)) boundary = `=_forwarded_${randomUUID()}`

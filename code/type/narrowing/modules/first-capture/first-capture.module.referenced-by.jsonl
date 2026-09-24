@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/google/email/modules/forwarded-message/forwarded-message.module.test.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/harness/monarch/modules/amazon-order/monarch-amazon-order.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/harness/monarch/modules/amazon-refund/monarch-amazon-refund.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"}
