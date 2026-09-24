@@ -28,5 +28,9 @@ export const homeDniParam = {
       decisionKind: "decision-kind/departure",
       statement: "Null is answered only where the service answered and no nav item names the app.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The nav item is answered as the param its href carries rather than as its id.",
+    },
   ],
 } as const satisfies Module
