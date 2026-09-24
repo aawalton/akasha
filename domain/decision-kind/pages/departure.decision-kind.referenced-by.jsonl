@@ -1867,6 +1867,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/tier/tier.ios-component.ts","id":"01a05482-22df-7a91-9e4d-ba72f93c5851"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/timeline-checks/timeline-checks.ios-component.ts","id":"01a08c75-6675-73c2-b0e1-37744996eaaf"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/widget-tap-link/widget-tap-link.ios-component.ts","id":"01a0d505-14ca-7e0b-878b-a75d1d4532a5"}
+{"propertySlug":"decision-kind","path":"code/ios-component/properties/swift.code-file-property.ts","id":"01a05474-5474-79c9-8775-7972372e85d6"}
 {"propertySlug":"decision-kind","path":"code/ios-harness/ios-harness.page-type.ts","id":"01a0584d-22a8-7eb5-83f8-e9912fd9297c"}
 {"propertySlug":"decision-kind","path":"code/ios-harness/pages/render-harness-cases-cost/render-harness-cases-cost.ios-harness.ts","id":"01a08c83-ffd7-7522-a7f2-606479a6ddb9"}
 {"propertySlug":"decision-kind","path":"code/ios-harness/pages/render-harness/render-harness.ios-harness.ts","id":"01a059a0-c8c2-7f6f-b822-ad3dedaaeb86"}

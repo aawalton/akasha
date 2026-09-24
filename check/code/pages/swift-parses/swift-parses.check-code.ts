@@ -5,8 +5,8 @@ export const swiftParses = {
   type: "page-type/check-code",
   slug: "swift-parses",
   definition: "the check refusing a change whose Swift does not parse",
-  runsOnChange: false,
-  runsOnDeploy: false,
+  runsOnChange: true,
+  runsOnDeploy: true,
   runsOnAudit: true,
   decisions: [
     {

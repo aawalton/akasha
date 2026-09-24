@@ -9,8 +9,8 @@ export const swift = {
   extensions: ["swift"],
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A check judges the Swift a landing carries.",
+      decisionKind: "decision-kind/departure",
+      statement: "A check judges whether the Swift a landing carries parses.",
     },
   ],
   types: "ts",
