@@ -12,6 +12,7 @@ import { opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Held } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { z } from "zod"
 
 const LOGS = "audit.logs"
 
@@ -37,6 +38,22 @@ const DONE: Held = {
 }
 
 type Row = { readonly page: string; readonly under: string; readonly line: string }
+
+const ROW_SAID = z.looseObject({
+  ran: z.string(),
+  phase: z.string(),
+  commit: z.string().optional(),
+  ranAt: z.string().optional(),
+  refusals: z.number().optional(),
+  refused: z.array(z.string()).optional(),
+  unrun: z.boolean().optional(),
+  childCpuSeconds: z.number().optional(),
+  peakBytes: z.number().optional(),
+})
+
+function rowIn(rows: readonly Row[]): z.infer<typeof ROW_SAID> {
+  return ROW_SAID.parse(JSON.parse(rows[0]?.line ?? ""))
+}
 
 function catching(): { readonly record: Recording; readonly rows: Row[] } {
   const rows: Row[] = []
@@ -65,7 +82,7 @@ test("what a whole round cost is sent saying a round ran it rather than a comman
   expect(at).not.toBeNull()
   expect(held.rows.length).toBe(1)
   expect(held.rows[0]?.under).toBe("entries")
-  const said = JSON.parse(held.rows[0]?.line ?? "")
+  const said = rowIn(held.rows)
   expect(said.phase).toBe("round")
   expect(said.ran).toBe("audit")
   expect(said.refusals).toBe(2)
@@ -90,7 +107,7 @@ test("a verdict is sent beside the check's page under the part it is kept in", a
 test("a verdict sent states the check that ran, the commit it answers for and the phase", async () => {
   const held = catching()
   await verdictSent(PAGE, "typecheck", { ...CLEAN, refusals: ["one.ts — no"] }, LOGS, held.record)
-  const said = JSON.parse(held.rows[0]?.line ?? "")
+  const said = rowIn(held.rows)
   expect(said.ran).toBe("typecheck")
   expect(said.commit).toBe("abc")
   expect(said.phase).toBe("audit")
@@ -115,7 +132,7 @@ test("what a check run apart cost is sent beside that check's page", async () =>
   const began = Date.now()
   await costKept(ONE, DONE, began, [{ path: "one.ts", reason: "no" }], LOGS, held.record)
   expect(held.rows[0]?.page).toBe(PAGE)
-  const said = JSON.parse(held.rows[0]?.line ?? "")
+  const said = rowIn(held.rows)
   expect(said.ran).toBe("typecheck")
   expect(said.phase).toBe("audit")
   expect(said.childCpuSeconds).toBe(2.5)
@@ -129,11 +146,11 @@ test("a run that threw is recorded as one nothing measured", async () => {
   const held = catching()
   const threw = [{ path: "one.ts", reason: "died apart", threw: true }]
   await costKept(ONE, DONE, Date.now(), threw, LOGS, held.record)
-  expect(JSON.parse(held.rows[0]?.line ?? "").unrun).toBe(true)
+  expect(rowIn(held.rows).unrun).toBe(true)
 })
 
 test("the commit a cost row answers for is the one handed in", async () => {
   const held = catching()
   await costKept({ ...ONE, commit: "def" }, DONE, Date.now(), [], LOGS, held.record)
-  expect(JSON.parse(held.rows[0]?.line ?? "").commit).toBe("def")
+  expect(rowIn(held.rows).commit).toBe("def")
 })

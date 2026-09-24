@@ -11,6 +11,7 @@ import { runGit } from "akasha/git/modules/answering/git-answering.module.code.t
 import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
 import { FIRST_PART } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import { z } from "zod"
 
 const REFUSAL_CEILING = 4000
 
@@ -27,24 +28,25 @@ export type Verdict = {
   readonly unrun: boolean
 }
 
+const VERDICT_ROW = z.looseObject({
+  commit: z.string().min(1),
+  ranAt: z.string(),
+  refused: z.array(z.unknown()),
+  unrun: z.unknown().optional(),
+})
+
 export function verdictRowIn(line: string): Verdict | null {
-  let held: unknown
+  let said: z.infer<typeof VERDICT_ROW> | undefined
   try {
-    held = JSON.parse(line)
+    said = VERDICT_ROW.safeParse(JSON.parse(line)).data
   } catch {
     return null
   }
-  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
-  const said = held as Record<string, unknown>
-  const commit = said.commit
-  const ranAt = said.ranAt
-  const refused = said.refused
-  if (typeof commit !== "string" || commit === "") return null
-  if (typeof ranAt !== "string" || !Array.isArray(refused)) return null
+  if (said === undefined) return null
   return {
-    commit,
-    ranAt,
-    refusals: refused.filter((one): one is string => typeof one === "string"),
+    commit: said.commit,
+    ranAt: said.ranAt,
+    refusals: said.refused.filter((one): one is string => typeof one === "string"),
     unrun: said.unrun === true,
   }
 }

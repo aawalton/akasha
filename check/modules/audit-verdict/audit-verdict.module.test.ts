@@ -22,6 +22,7 @@ import {
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
+import { z } from "zod"
 
 const scratch = scratchWorld()
 
@@ -58,8 +59,10 @@ function pageIn(): string {
   return root
 }
 
-function rowOf(verdict: Verdict): Record<string, unknown> {
-  return JSON.parse(loggedLine(COST, verdict)) as Record<string, unknown>
+const LOGGED_ROW = z.looseObject({ refused: z.array(z.string()) })
+
+function rowOf(verdict: Verdict): z.infer<typeof LOGGED_ROW> {
+  return LOGGED_ROW.parse(JSON.parse(loggedLine(COST, verdict)))
 }
 
 async function repoOf(commits: number): Promise<{ root: string; made: readonly string[] }> {

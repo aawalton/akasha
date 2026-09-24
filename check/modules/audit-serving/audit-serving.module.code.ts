@@ -48,6 +48,7 @@ import { checkoutAt } from "akasha/infrastructure/service/akasha-service/service
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
+import { z } from "zod"
 
 const TURNS = ".local/state/workstation-services/audit-turns"
 
@@ -143,22 +144,21 @@ function unrun(one: Gathered, why: string): readonly Judged[] {
   return [{ path: one.page, reason: `the check \`${one.slug}\` ${why}`, threw: true }]
 }
 
-function judgedRow(one: unknown): one is Judged {
-  if (one === null || typeof one !== "object") return false
-  const said = one as Judged
-  return typeof said.path === "string" && typeof said.reason === "string"
-}
+const JUDGED_ROWS = z.array(
+  z.looseObject({
+    path: z.string(),
+    reason: z.string(),
+    threw: z.boolean().optional(),
+    slow: z.boolean().optional(),
+  })
+)
 
 export function judgedIn(text: string): readonly Judged[] | null {
-  let held: unknown
   try {
-    held = JSON.parse(text)
+    return JUDGED_ROWS.safeParse(JSON.parse(text)).data ?? null
   } catch {
     return null
   }
-  if (!Array.isArray(held)) return null
-  const said: readonly unknown[] = held
-  return said.every(judgedRow) ? (said as readonly Judged[]) : null
 }
 
 export const spawning: Running = async (one) => {
