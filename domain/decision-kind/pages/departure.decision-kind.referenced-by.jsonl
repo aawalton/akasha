@@ -2571,6 +2571,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/adjective.part-of-speech.ts","id":"01a0c5f9-2164-7ac3-93fa-caec20932926"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/be-verb.part-of-speech.ts","id":"01a0c9a2-9f69-7a7f-8640-d64519676c3f"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/conjunction.part-of-speech.ts","id":"01a0c60f-289f-7bbf-be7b-ae0e872a03e0"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/degree-adverb.part-of-speech.ts","id":"01a0d5ce-a903-71e5-a015-28ac1c18d8ad"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/free-relative-pronoun.part-of-speech.ts","id":"01a0c68c-8245-7617-b010-6cf185341ce2"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/infinitive-marker.part-of-speech.ts","id":"01a0d57c-f7ff-765a-bd96-6a5fc51221c6"}

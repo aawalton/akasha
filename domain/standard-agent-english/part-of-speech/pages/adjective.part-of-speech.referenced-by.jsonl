@@ -8,4 +8,5 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/stored.common-language-term.ts","id":"01a0c9b1-6dc0-7847-affd-01e139b4cc0d"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/whole.common-language-term.ts","id":"01a0d5c0-af86-76f2-93fa-eb7371b0fa95"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/degree-adverb-with-an-adjective-and-a-clause.construction.ts","id":"01a0d5ce-a902-7e5a-aa57-7d7f7e4b5594"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-with-an-adjective.construction.ts","id":"01a0c5f9-391e-719d-9f02-bb4b63c6b37a"}

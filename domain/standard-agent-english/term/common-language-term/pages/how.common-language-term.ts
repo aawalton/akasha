@@ -5,5 +5,8 @@ export const how = {
   type: "page-type/common-language-term",
   slug: "how",
   definition: "the pronoun naming the way a clause leaves out",
-  spellings: [{ partOfSpeech: "part-of-speech/free-relative-pronoun", spelling: "how" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/free-relative-pronoun", spelling: "how" },
+    { partOfSpeech: "part-of-speech/degree-adverb", spelling: "how" },
+  ],
 } as const satisfies CommonLanguageTerm

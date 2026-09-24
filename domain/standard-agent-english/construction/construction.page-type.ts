@@ -46,6 +46,7 @@ export const construction = {
     "construction/possessive-proper-noun-owning-a-proper-noun",
     "construction/noun-run-with-a-for-to-clause",
     "construction/be-verb-with-a-past-participle-and-a-preposition-phrase",
+    "construction/degree-adverb-with-an-adjective-and-a-clause",
   ],
   extends: ["page-type/domain"],
   properties: [
