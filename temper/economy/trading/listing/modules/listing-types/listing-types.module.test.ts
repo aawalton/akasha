@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import type { ListingEntry } from "akasha/temper/economy/trading/listing/modules/listing-types/listing-types.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
@@ -16,4 +17,6 @@ const listingEntrySchema = z
   })
   .strict()
 
-assertSchemaMatchesPayload<typeof listingEntrySchema, ListingEntry>()
+test("the listing entry schema infers exactly the listing entry shape", () => {
+  expect(assertSchemaMatchesPayload<typeof listingEntrySchema, ListingEntry>()).toBeUndefined()
+})

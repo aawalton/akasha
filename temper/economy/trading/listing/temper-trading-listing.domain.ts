@@ -8,7 +8,6 @@ export const temperTradingListing = {
   parts: [
     "module/browse-listings",
     "module/browse-state",
-    "module/listing-entry-schema",
     "module/listing-types",
     "module/sell-pricing",
   ],

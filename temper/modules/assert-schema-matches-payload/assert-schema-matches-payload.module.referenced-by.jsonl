@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/shape/modules/trait-research-catalog/trait-research-catalog.module.test.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/shape/modules/tribute-catalog/tribute-catalog.module.test.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/shape/modules/zone-completion-catalog/zone-completion-catalog.module.test.ts"}
-{"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/economy/trading/listing/modules/listing-entry-schema/listing-entry-schema.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/economy/trading/listing/modules/listing-types/listing-types.module.test.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/items/core/modules/inventory-database-schema/inventory-database-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/player/completion/modules/completion-writer-schema/completion-writer-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"}

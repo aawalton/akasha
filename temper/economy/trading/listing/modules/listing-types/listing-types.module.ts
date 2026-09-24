@@ -6,7 +6,13 @@ export const listingTypes = {
   slug: "listing-types",
   definition: "the shape a guild store listing takes where the add-on saves it",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A listing's shape and a zod shape in this module's test are held equal at typecheck.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A listing has the price for the stack and the price for one item.",

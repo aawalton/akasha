@@ -5173,7 +5173,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/listing/modules/browse-listings/browse-listings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/listing/modules/browse-state/browse-state.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/listing/modules/listing-entry-schema/listing-entry-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/listing/modules/listing-types/listing-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/listing/modules/sell-pricing/sell-pricing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.ts"}
