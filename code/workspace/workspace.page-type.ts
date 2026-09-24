@@ -8,6 +8,7 @@ export const workspace = {
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "workspace" }],
   parts: [
     "build-folder-property/package-directory",
+    "change-generator/lockfile-making",
     "file-property/biome-config",
     "file-property/bun-config",
     "file-property/docker-ignore",

@@ -1976,6 +1976,7 @@
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/text-in/text-in.module.ts","id":"01a08e33-143b-7941-8a84-9fab0085e396"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/whole-number-in/whole-number-in.module.ts","id":"01a08dfa-83ab-7057-b41a-60b238c8d728"}
 {"propertySlug":"decision-kind","path":"code/type/type.domain.ts","id":"01a049e9-651c-7006-896c-2bffa71e2d0a"}
+{"propertySlug":"decision-kind","path":"code/workspace/change-generators/lockfile-making/lockfile-making.change-generator.ts","id":"01a0d4e5-72fa-7d3b-aac3-31edade0aa68"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/manifest-finding/manifest-finding.module.ts","id":"01a0a04a-15a8-7799-bdf2-4db67b297cd0"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/manifest-locking/manifest-locking.module.ts","id":"01a0628d-2f09-7f63-8d3a-27494e9ec287"}
 {"propertySlug":"decision-kind","path":"code/workspace/modules/package-manifest/package-manifest.module.ts","id":"01a05ae4-fc70-7000-89a5-77bf2b9786ae"}

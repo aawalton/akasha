@@ -245,6 +245,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"code/workspace/change-generators/lockfile-making/lockfile-making.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts"}

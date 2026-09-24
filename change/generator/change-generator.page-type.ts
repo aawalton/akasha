@@ -9,6 +9,7 @@ export const changeGenerator = {
     { partOfSpeech: "part-of-speech/noun", spelling: "change generator" },
     { partOfSpeech: "part-of-speech/noun", spelling: "change generators" },
   ],
+  pluralSlug: "change-generators",
   extends: ["page-type/module"],
   parts: ["module/change-generating", "multi-relation-property/runs-after"],
   properties: [

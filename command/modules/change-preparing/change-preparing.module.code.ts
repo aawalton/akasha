@@ -11,7 +11,6 @@ import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code
 
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 
-import { lockingFor } from "akasha/code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
@@ -146,16 +145,12 @@ export function preparing(
   const rows = [...moved, ...stated.rows]
   const unexportable = unexportableIn(rows)
   if (unexportable.length > 0) return { refusals: unexportable, code: DATA }
-  const locking = lockingFor(root, base, rows)
+
   const change = changeOf(root, base, rows)
 
   const typed = typesFor(change)
 
-  const early = [
-    ...locking.edits,
-
-    ...typed.edits,
-  ]
+  const early = [...typed.edits]
   const generated = generatedOver(change, (more) =>
     changeOf(root, base, [...rows, ...early, ...more])
   )
@@ -173,8 +168,6 @@ export function preparing(
     facing: facingIn(root, "refused" in cast ? root : cast.reading),
     settled: "refused" in cast || cast.settled === null ? null : { base, settling: cast.settled },
     said: [
-      ...locking.said,
-
       ...typed.said,
 
       ...generated.said,
