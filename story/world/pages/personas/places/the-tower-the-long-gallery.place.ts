@@ -15,8 +15,5 @@ export const theTowerTheLongGallery = {
     { to: "place/the-tower-hall-of-welcome", way: "back to the Hall of Welcome" },
     { to: "place/the-tower-the-deep-den", way: "forward (following the cold) to the Deep Den" },
   ],
-  facts: [
-    "The Long Gallery's false gold light carries a false heat.",
-    "The Long Gallery offers no honest water.",
-  ],
+  facts: ["The Long Gallery holds no water."],
 } as const satisfies Place

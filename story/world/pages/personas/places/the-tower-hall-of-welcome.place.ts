@@ -15,8 +15,5 @@ export const theTowerHallOfWelcome = {
     { to: "place/the-tower-haven-threshold", way: "back to the threshold (and down to floor 4)" },
     { to: "place/the-tower-the-long-gallery", way: "forward to the Long Gallery" },
   ],
-  facts: [
-    "The Hall of Welcome's gold light is false.",
-    "The Hall of Welcome offers no honest water.",
-  ],
+  facts: ["The Hall of Welcome holds no water."],
 } as const satisfies Place
