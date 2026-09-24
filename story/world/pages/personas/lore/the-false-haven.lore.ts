@@ -6,7 +6,7 @@ export const theFalseHaven = {
   slug: "the-false-haven",
   title: "The False Haven",
   world: "world/personas",
-  about: "game-location/the-tower-floor-05",
+  about: "place/the-tower-floor-05",
   loreDisclosure: "lore-disclosure/game-master",
   facts: [
     "The False Haven re-weaves to pristine whenever Alan leaves it.",
