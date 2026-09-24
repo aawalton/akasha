@@ -41,7 +41,6 @@ export const syncRunRecording = {
       decisionKind: "decision-kind/departure",
       statement: "The change adding a file lands the record rather than an edit composed here.",
     },
-
     {
       decisionKind: "decision-kind/departure",
       statement: "A run states the id that run keeps.",
