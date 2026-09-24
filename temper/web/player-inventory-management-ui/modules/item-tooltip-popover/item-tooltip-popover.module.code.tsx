@@ -9,8 +9,6 @@ import type { ItemTooltipInstance } from "akasha/temper/items/core/modules/item-
 import { ItemTooltip } from "akasha/temper/web/player-inventory-management-ui/modules/item-tooltip/item-tooltip.module.code.tsx"
 import { useItemTooltipData } from "akasha/temper/web/player-inventory-management-ui/modules/use-item-tooltip-data/use-item-tooltip-data.module.code.ts"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 interface ItemTooltipPopoverProps {
   itemLink: string

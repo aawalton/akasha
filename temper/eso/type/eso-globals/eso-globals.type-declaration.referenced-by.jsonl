@@ -625,5 +625,4 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-special-names/item-browser-special-names.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tooltip-extension/item-browser-tooltip-extension.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-ui-strings/item-browser-ui-strings.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/web/player-inventory-management-ui/modules/item-tooltip-popover/item-tooltip-popover.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}
