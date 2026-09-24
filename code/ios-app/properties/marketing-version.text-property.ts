@@ -18,7 +18,7 @@ export const marketingVersion = {
       statement: "A version is unchanged by an upload.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A build gives an app the version its page states.",
     },
   ],
