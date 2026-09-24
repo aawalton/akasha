@@ -9,14 +9,6 @@ export const contentPagesCacheCore = {
   test: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A chapter is written through the offline writer and read back here in one test.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That test takes its keys from the writer rather than from a page built to fit.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
       statement:
         "A writer keeping a page here holds only the keys that writer asked the store for.",
