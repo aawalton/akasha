@@ -30,7 +30,7 @@ function heldIn(root: string): readonly DomainRead[] {
       }
       if (value === null) continue
       const slug = textAt(value, "slug")
-      const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
+      const pageTypeSlug = slugAt(value, "type")
       if (slug === null || pageTypeSlug === null) continue
       found.push({ relPath: page.path, slug, address: `${pageTypeSlug}/${slug}` })
     }
