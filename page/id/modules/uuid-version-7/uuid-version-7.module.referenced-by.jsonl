@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/modules/value-minting/value-minting.module.code.ts"}
-{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/modules/value-minting/value-minting.module.test.ts"}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"command/pages/music/capture/music-capture.command.test.ts"}

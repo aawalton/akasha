@@ -7,7 +7,7 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { mintingOnto } from "akasha/command/modules/value-minting/value-minting.module.code.ts"
+import { mintingOnto } from "akasha/command/modules/value-minting/value-minting.change-generator.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"

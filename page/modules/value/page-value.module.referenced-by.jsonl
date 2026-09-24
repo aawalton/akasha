@@ -49,7 +49,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"code/ios-app/modules/shared-build-files/shared-build-files.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/modules/folder-linking/folder-linking.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/modules/value-minting/value-minting.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/change/repeat/change-repeat.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/model-account/disable/model-account-disable.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.code.ts"}

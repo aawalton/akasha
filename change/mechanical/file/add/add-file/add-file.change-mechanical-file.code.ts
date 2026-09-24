@@ -8,7 +8,7 @@ import { ALREADY_HELD } from "akasha/command/modules/change-freshness/change-fre
 import {
   entriedIn,
   identifiedOver,
-} from "akasha/command/modules/value-minting/value-minting.module.code.ts"
+} from "akasha/command/modules/value-minting/value-minting.change-generator.code.ts"
 
 export type Asked = {
   readonly at: string

@@ -1,8 +1,10 @@
+import type { Generated as Answered } from "akasha/change/generator/modules/change-generating/change-generating.module.code.ts"
 import type {
   Adding,
   FileChange,
   Replacing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
 import {
   baseOf,
@@ -175,7 +177,28 @@ function couldTurn(change: Change, changes: readonly FileChange[]): boolean {
 }
 
 export function mintingOnto(root: string, changes: readonly FileChange[]): Minted {
-  const change = changeOf(root, baseOf(root), changes)
+  return mintedOver(changeOf(root, baseOf(root), changes), changes)
+}
+
+function rowsIn(change: Change): readonly FileChange[] {
+  const rows: FileChange[] = []
+  for (const path of change.changed) {
+    const body = textOf(change.after(path))
+    rows.push(body === null ? { kind: "remove", path } : { kind: "add", path, content: body })
+  }
+  return rows
+}
+
+function saidOf(one: Filled): string {
+  return `\`${one.path}\` was given ${one.keys.map((key) => `\`${key}\``).join(", ")} — ${one.why}`
+}
+
+export function generateChange(change: Change): Answered {
+  const minted = mintedOver(change, rowsIn(change))
+  return { edits: minted.edits, said: minted.filled.map(saidOf) }
+}
+
+function mintedOver(change: Change, changes: readonly FileChange[]): Minted {
   if (!couldTurn(change, changes)) return NOTHING_MINTED
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING_MINTED

@@ -4,11 +4,16 @@ import { join } from "node:path"
 import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import {
+  baseOf,
+  changeOf,
+} from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import {
+  generateChange,
   identified,
   identifiedOver,
   mintedFor,
   mintingOnto,
-} from "akasha/command/modules/value-minting/value-minting.module.code.ts"
+} from "akasha/command/modules/value-minting/value-minting.change-generator.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
 import { statesVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
@@ -162,6 +167,15 @@ test("a page of a page type landing in the same change is given the value it doe
     { path: WIDGET_AT, keys: ["id"], why: "a page being created states none of its own" },
   ])
   expect(textOf(said.edits, WIDGET_AT)).toMatch(/\{ id: "[0-9a-f-]{36}", type: "page-type\/widget"/)
+})
+
+test("the change generator gives a page being created its value and says so", () => {
+  const root = rooted("uuid-v7")
+  const said = generateChange(changeOf(root, baseOf(root), [carrying(BODY)]))
+  expect(said.said).toEqual([
+    `\`${AT}\` was given \`id\` — a page being created states none of its own`,
+  ])
+  expect(said.edits.map((one) => ("path" in one ? one.path : null))).toEqual([AT])
 })
 
 test("a page carrying the value already keeps the one it carries", () => {

@@ -35,7 +35,7 @@
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}
-{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/modules/value-minting/value-minting.module.test.ts"}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/deploy/deploy.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"}

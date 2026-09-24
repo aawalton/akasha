@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ChangeGenerator } from "akasha/change/generator/change-generator.page-type.types.ts"
 
 export const valueMinting = {
   id: "01a0503f-14ea-79f4-94bd-4c365bc24d5b",
-  type: "page-type/module",
+  type: "page-type/change-generator",
   slug: "value-minting",
   definition: "the values a write does not carry, worked out and put into a page or into an entry",
   code: "ts",
@@ -100,4 +100,4 @@ export const valueMinting = {
       statement: "This module answers no other change.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ChangeGenerator
