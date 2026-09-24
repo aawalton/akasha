@@ -40,7 +40,7 @@ export const apnsPushNotifier = {
       statement: "Nothing refreshes an app-icon badge.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The service runs.",
     },
   ],

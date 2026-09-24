@@ -61,10 +61,5 @@ export const pushNotifying = {
       decisionKind: "decision-kind/departure",
       statement: "A stop ends that loop at the next boundary.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The feed is read and written in pages data rather than in the pages system service.",
-    },
   ],
 } as const satisfies Module
