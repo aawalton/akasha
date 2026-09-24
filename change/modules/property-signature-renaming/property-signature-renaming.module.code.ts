@@ -22,10 +22,13 @@ import {
 } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
 import ts from "typescript"
+import { z } from "zod"
 
 const ANY = "*"
 
 const ADDRESSED = /^([A-Za-z_$][A-Za-z0-9_$]*|\*)\.([A-Za-z_$][A-Za-z0-9_$]*)$/
+
+const ADDRESSED_SAID = z.tuple([z.string(), z.string(), z.string()])
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
@@ -41,10 +44,9 @@ type Addressed = {
 }
 
 function addressOf(of: string): Addressed | null {
-  const found = ADDRESSED.exec(of)
-  const type = found?.[1]
-  const property = found?.[2]
-  if (type === undefined || property === undefined) return null
+  const found = ADDRESSED_SAID.safeParse(ADDRESSED.exec(of))
+  if (!found.success) return null
+  const [, type, property] = found.data
   return { type, property }
 }
 

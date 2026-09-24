@@ -10,8 +10,11 @@ import {
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { headOf, type Keying } from "akasha/page/view/modules/key-naming/key-naming.module.code.ts"
 import ts from "typescript"
+import { z } from "zod"
 
 const TRAILING_LINES = /\n+$/
+
+const QUOTED_TEXT = z.string()
 
 const ALREADY = "already"
 
@@ -103,13 +106,13 @@ function quotedOn(text: string, from: number): Quoted | null {
       at = at + 1
       continue
     }
-    let said: unknown
+    let said: string | undefined
     try {
-      said = JSON.parse(text.slice(from, at + 1))
+      said = QUOTED_TEXT.safeParse(JSON.parse(text.slice(from, at + 1))).data
     } catch {
       return null
     }
-    return typeof said === "string" ? { said, to: at + 1 } : null
+    return said === undefined ? null : { said, to: at + 1 }
   }
   return null
 }

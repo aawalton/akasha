@@ -7,8 +7,11 @@ import {
   valuesWrittenAnewInEntries,
 } from "akasha/change/modules/json-entries/json-entries.module.code.ts"
 import ts from "typescript"
+import { z } from "zod"
 
 const AT = "held/package.json"
+
+const HELD_BODY = z.strictObject({ name: z.string() })
 
 const BODY = [
   "{",
@@ -34,7 +37,7 @@ test("a key of the top-level object is dropped the way an entry under a key is",
     said = said.slice(0, one.from) + one.put + said.slice(one.to)
   }
 
-  expect(JSON.parse(said)).toEqual({ name: "@akasha/held" })
+  expect(HELD_BODY.parse(JSON.parse(said))).toEqual({ name: "@akasha/held" })
 })
 
 test("a key the top-level object does not hold is dropped from nowhere", () => {

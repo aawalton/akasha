@@ -28,6 +28,7 @@ import {
 import type { Changes as AgentChanges } from "akasha/change/runner/pages/agent-change-running/agent-change-running.change-runner.addressed.ts"
 import type { Changes as MechanicalChanges } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.addressed.ts"
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import {
   type Carried,
@@ -105,7 +106,7 @@ function facingIn(world: World): Facing {
 const FACING = new WeakMap<World, Facing>()
 
 export function typeIn(text: string): string | null {
-  return TYPE_STATED.exec(text)?.[1] ?? null
+  return firstCapture(TYPE_STATED.exec(text))
 }
 
 export function turnsGenerated(one: FileChange, was: string | null, now: string | null): boolean {

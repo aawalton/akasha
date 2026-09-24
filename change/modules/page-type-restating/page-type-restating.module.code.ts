@@ -5,13 +5,17 @@ import {
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { importedFrom } from "akasha/page/modules/body/page-body.module.code.ts"
 import { typedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const TYPE_KEY = "type"
+
+const IMPORT_LINE = z.tuple([z.string()])
 
 const PAGE_TYPE = "page-type"
 
@@ -60,17 +64,16 @@ export function pageTypeRestated(world: World, given: Asked): Said {
   if (text === null) {
     return refusing(`\`${given.at}\` holds no body, so no page type is restated`)
   }
-  const stated = STATED.exec(text)
-  if (stated === null) {
+  const was = firstCapture(STATED.exec(text))
+  if (was === null) {
     return refusing(`\`${given.at}\` states no \`${TYPE_KEY}\`, so no page type is restated`)
   }
-  const was = stated[1] ?? ""
   if (slugOf(was) === type.slug) {
     return refusing(`\`${was}\` is the page type the body states already`)
   }
   const name = typedAs(slugOf(was))
-  const line = importingFor(name).exec(text)
-  if (line === null) {
+  const line = IMPORT_LINE.safeParse(importingFor(name).exec(text)).data
+  if (line === undefined) {
     return refusing(
       `\`${given.at}\` imports no type named \`${name}\`, so no page type is restated`
     )
