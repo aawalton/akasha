@@ -1,3 +1,6 @@
+{"propertySlug":"import","fileName":"target-page-type.relation-property.types.ts","path":"page/computed-property/computed-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"target-page-type.relation-property.types.ts","path":"page/relation-property/relation-property.page-type.types.ts"}
+{"propertySlug":"page-property","path":"page/computed-property/computed-property.page-type.ts","id":"01a06e70-0f25-77ad-9080-95388ef3ba51"}
 {"propertySlug":"page-property","path":"page/relation-property/relation-property.page-type.ts","id":"01a04dff-9d7d-7809-9a88-4fd343f11772"}
+{"propertySlug":"parts","path":"page/computed-property/computed-property.page-type.ts","id":"01a06e70-0f25-77ad-9080-95388ef3ba51"}
 {"propertySlug":"parts","path":"page/relation-property/relation-property.page-type.ts","id":"01a04dff-9d7d-7809-9a88-4fd343f11772"}

@@ -13,13 +13,14 @@ export const computedProperty = {
   slug: "computed-property",
   definition: "a page property a function works out from the page",
   extends: ["page-type/page-property"],
-  parts: ["select-property/holds"],
+  parts: ["select-property/holds", "relation-property/target-page-type"],
   properties: [
     { pageProperty: "select-property/holds", required: true, many: false },
     { pageProperty: "code-file-property/code", required: true, many: false },
     { pageProperty: "code-file-property/test", required: false, many: false },
     { pageProperty: "code-file-property/test-fixtures", required: false, many: false },
     { pageProperty: "text-property/select-values", required: false, many: true, maxCount: null },
+    { pageProperty: "relation-property/target-page-type", required: false, many: false },
   ],
   decisions: [
     {
