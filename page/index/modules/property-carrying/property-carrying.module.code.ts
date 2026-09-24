@@ -36,8 +36,6 @@ const NAMED_FOLDER_PROPERTY = "named-folder-property"
 
 const GENERATED = "generated"
 
-const TOOL_RESOLVES_PATHS = "toolResolvesPaths"
-
 const FILE_PROPERTY = "file-property"
 
 const PROPERTY_SLUG = "propertySlug"
@@ -209,10 +207,6 @@ export function generates(value: Value): boolean {
   return value[GENERATED] === true
 }
 
-export function toolResolvesPaths(value: Value): boolean {
-  return value[TOOL_RESOLVES_PATHS] === true
-}
-
 function kindedIn(given: string | Reading): Kinded {
   const held = new Map<string, Value>()
   const filling = (kind: string): undefined => {
@@ -326,15 +320,6 @@ export function generatedIn(given: Facing, path: string): boolean {
     if (writerIn(given, path) !== null) return true
     if (heldBeside(path, namingFor(given), generates, given.carryingOf)) return true
     return heldUnder(path, foldersFor(given), generates, given.carryingOf)
-  } catch {
-    return false
-  }
-}
-
-export function toolResolvesPathsIn(given: Facing, path: string): boolean {
-  try {
-    if (sectionSays(given, path, toolResolvesPaths)) return true
-    return heldBeside(path, namingFor(given), toolResolvesPaths, given.carryingOf)
   } catch {
     return false
   }

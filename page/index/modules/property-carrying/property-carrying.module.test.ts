@@ -11,8 +11,6 @@ import {
   heldBeside,
   heldUnder,
   type Naming,
-  toolResolvesPaths,
-  toolResolvesPathsIn,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import {
   carryingAt,
@@ -20,7 +18,6 @@ import {
   DEEPER,
   ENTRIES,
   facingFoldering,
-  facingSaying,
   folderedAt,
   HELD,
   ICONS,
@@ -215,23 +212,6 @@ test("a property saying an author writes its file says nothing of its value", ()
   expect(generates({ generated: false })).toBe(false)
 })
 
-test("a property saying a tool resolves the paths in its file says so of its value", () => {
-  expect(toolResolvesPaths({ toolResolvesPaths: true })).toBe(true)
-})
-
-test("a property saying nothing of a tool says nothing of its value", () => {
-  expect(toolResolvesPaths({ fileName: "package.json" })).toBe(false)
-})
-
-test("a file beside a property saying a tool resolves its paths is answered so", () => {
-  const said = { fileName: "bun.lock", toolResolvesPaths: true }
-  expect(toolResolvesPathsIn(facingSaying(said), "bun.lock")).toBe(true)
-})
-
-test("a file beside a property saying nothing of a tool is answered no", () => {
-  expect(toolResolvesPathsIn(facingSaying({ fileName: "bun.lock" }), "bun.lock")).toBe(false)
-})
-
 function entriesFiled(root: string, said: Value): undefined {
   const path = pageAt("entries", "file-property")
   shapeAdded(root, "file-property", "entries", [
@@ -290,26 +270,6 @@ test("that section under a page type not carrying the property names no generate
   expect(generatedAt(root, "akasha/two.other.entries.jsonl")).toBe(false)
 })
 
-test("a property naming no file says a tool resolves the paths in each file its section names", () => {
-  const root = rooted()
-  entriesFiled(root, { ...SAYS, toolResolvesPaths: true })
-  expect(toolResolvesPathsIn(facingOn(root), SECTIONED)).toBe(true)
-})
-
-test("a property saying nothing of a tool says nothing of the files its section names", () => {
-  const root = rooted()
-  entriesFiled(root, SAYS)
-  expect(toolResolvesPathsIn(facingOn(root), SECTIONED)).toBe(false)
-})
-
-test("that section under a page type not carrying the property names no file a tool resolves", () => {
-  const root = rooted()
-  entriesFiled(root, { ...SAYS, toolResolvesPaths: true })
-  filed(root, "other", "page-type", OTHER)
-  listedAndValued(root, "other", "two", "akasha/two.other.ts", TWO)
-  expect(toolResolvesPathsIn(facingOn(root), "akasha/two.other.entries.jsonl")).toBe(false)
-})
-
 test("a file is beside a property naming it where a page carrying it sits in the file's folder", () => {
   expect(heldBeside("bun.lock", [NAMING], saidTrue, carryingAt(OWNER))).toBe(true)
 })
@@ -347,15 +307,6 @@ test("what a face says about every file property is worked out once for that fac
   expect(generatedIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
   expect(seen.reads).toBe(2)
   expect(generatedIn(facing, "akasha/two.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(2)
-})
-
-test("a second question asked of one face reads what the first question worked out", () => {
-  const seen = { reads: 0 }
-  const facing = counting(seen)
-  expect(generatedIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
-  expect(seen.reads).toBe(2)
-  expect(toolResolvesPathsIn(facing, "akasha/one.thing.entries.jsonl")).toBe(false)
   expect(seen.reads).toBe(2)
 })
 

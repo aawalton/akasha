@@ -195,15 +195,6 @@ export const propertyCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Whether a tool resolves the paths in the file at a path is answered here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A property naming no file says a tool resolves the paths in each file its section names.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A file a module property group writes is generated.",
     },
     {
