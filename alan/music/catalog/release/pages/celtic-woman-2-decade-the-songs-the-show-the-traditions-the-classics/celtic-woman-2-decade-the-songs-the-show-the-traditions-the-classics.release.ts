@@ -7,7 +7,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassics = {
   title: "Decade. The Songs, The Show, The Traditions, The Classics.",
   partOfCollections: ["artist/celtic-woman"],
   position: 0,
-  ownLength: 230.894967,
+  ownLength: 230.89496666666668,
   ownProgress: 230.894967,
   unit: "unit/minutes",
   status: "completed",

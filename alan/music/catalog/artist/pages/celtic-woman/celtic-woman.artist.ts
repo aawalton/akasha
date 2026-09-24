@@ -23,7 +23,7 @@ export const celticWoman = {
       source: "spotify",
       externalId: "6NWtt9pNOL2Gx7kBykdE5x",
       externalLink: "https://open.spotify.com/artist/6NWtt9pNOL2Gx7kBykdE5x",
-      lastSyncedAt: "2026-09-16",
+      lastSyncedAt: "2026-09-24",
     },
   ],
   title: "Celtic Woman",

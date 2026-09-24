@@ -12,7 +12,7 @@ export const celticWoman2CelticWomanSheMovedThruTheFair = {
   ],
   status: "completed",
   unit: "unit/minutes",
-  title: "She Moved Thru' The Fair",
+  title: "She Moved Thru' the Fair",
   trackType: "studio",
   explicit: false,
   trackArtist: [{ artist: "artist/celtic-woman" }],
