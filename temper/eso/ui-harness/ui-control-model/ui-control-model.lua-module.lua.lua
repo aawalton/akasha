@@ -44,9 +44,18 @@ local function unmodelledAs(key)
   return passedOver
 end
 
+local documented = nil
+
+function _G.__ui_control_methods(given)
+  documented = {}
+  for _, name in ipairs(given) do documented[name] = true end
+  return #given
+end
+
 setmetatable(Control, {
   __index = function(_, key)
     if type(key) ~= "string" or string.match(key, "^%u") == nil then return nil end
+    if documented ~= nil and not documented[key] then return nil end
     unmodelled[key] = (unmodelled[key] or 0) + 1
     return unmodelledAs(key)
   end,

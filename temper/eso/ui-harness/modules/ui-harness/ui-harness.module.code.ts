@@ -21,6 +21,7 @@ import {
   engineAnswersTable,
 } from "akasha/temper/eso/return/modules/engine-answers-seeding/engine-answers-seeding.module.code.ts"
 import {
+  controlMethodsLua,
   engineReturnsTable,
   returnsLua,
 } from "akasha/temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.code.ts"
@@ -94,6 +95,13 @@ function returnTexts(): readonly string[] {
     cachedReturns = returnsLua(engineReturnsTable(akashaRoot()))
   }
   return cachedReturns
+}
+
+let cachedMethods: string | null = null
+
+function methodText(): string {
+  if (cachedMethods === null) cachedMethods = controlMethodsLua(engineReturnsTable(akashaRoot()))
+  return cachedMethods
 }
 
 let cachedAnswers: string | null = null
@@ -234,6 +242,7 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
       colorText(),
       stringText(),
       ...returnTexts(),
+      methodText(),
       answerText(),
     ],
   })

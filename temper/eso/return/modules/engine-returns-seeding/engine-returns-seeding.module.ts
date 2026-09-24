@@ -32,5 +32,9 @@ export const engineReturnsSeeding = {
       decisionKind: "decision-kind/departure",
       statement: "The chunks are ordered by name, so two runs hand the sandbox the same Lua.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The names of the methods a control answers to are handed over in one call.",
+    },
   ],
 } as const satisfies Module

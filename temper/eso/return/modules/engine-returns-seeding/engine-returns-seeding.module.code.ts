@@ -29,6 +29,10 @@ export function answerLua(kinds: readonly ReturnKind[]): string {
   return `function() return ${kinds.map((kind) => EMPTY[kind]).join(",")} end`
 }
 
+export function controlMethodsLua(held: EngineReturns): string {
+  return `return __ui_control_methods({${held.controlMethods.map(luaStringLiteral).join(",")}})`
+}
+
 export function returnsLua(held: EngineReturns, perChunk: number = PER_CHUNK): readonly string[] {
   const named = Object.keys(held.returns).sort()
   const chunks: string[] = []

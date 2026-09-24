@@ -52,7 +52,17 @@ export const uiControlModel = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name read off a control starting with a capital is read as a method.",
+      statement:
+        "A capitalised name read off a control is a method where the documentation names that method.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's own Lua keeps fields on a control under names starting with a capital.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other name read off a control answers nothing until something sets it.",
     },
     {
       decisionKind: "decision-kind/constraint",

@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import type { EngineReturns } from "akasha/temper/eso/return/modules/engine-returns-reading/engine-returns-reading.module.code.ts"
 import {
   answerLua,
+  controlMethodsLua,
   engineReturnsTable,
   returnsLua,
 } from "akasha/temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.code.ts"
@@ -61,6 +62,14 @@ describe("returnsLua", () => {
 
   test("hands over nothing for a table carrying no functions", () => {
     expect(returnsLua({ apiVersion: 0, returns: {}, controlMethods: [] })).toEqual([])
+  })
+})
+
+describe("controlMethodsLua", () => {
+  test("hands every method a control answers to over in one call", () => {
+    expect(controlMethodsLua({ ...HELD, controlMethods: ["GetName", "SetText"] })).toBe(
+      'return __ui_control_methods({"GetName","SetText"})'
+    )
   })
 })
 
