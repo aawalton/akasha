@@ -27,17 +27,9 @@ export const surplusFallTicking = {
       statement: "The rung is not marked a second time on the day's own page.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Two writes for one fact would let the second fail after the first succeeded.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement:
         "A notification's day is found by running its sent-at through the eso-day reckoning.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A window of timestamps would drift from where Alan's day begins.",
     },
     {
       decisionKind: "decision-kind/departure",

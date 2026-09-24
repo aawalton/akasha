@@ -41,7 +41,7 @@ export const notificationFeed = {
       statement: "A feed's slug is the slug of the person whose feed that feed is.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The feeds are pages under this type rather than markdown.",
     },
   ],

@@ -52,7 +52,7 @@ export const surplusFallNotifier = {
         "The exit status that must prevent a restart exists nowhere the unit is written from.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The service runs.",
     },
   ],

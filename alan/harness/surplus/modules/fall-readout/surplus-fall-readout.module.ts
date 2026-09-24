@@ -17,11 +17,6 @@ export const surplusFallReadout = {
       statement: "The readout pages read here are the pages the rest of akasha reads.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A markdown readouts tree once had a second population of readout pages free to disagree.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "A readout a page stills is not watched.",
     },
@@ -62,7 +57,7 @@ export const surplusFallReadout = {
       statement: "The whole day is asked for rather than keys the day page has nothing for.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A reducer finding nothing answers null rather than zero.",
     },
     {
