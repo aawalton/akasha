@@ -1,25 +1,21 @@
 import { asPage, type Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { z } from "zod"
 
-const ContentPageIndexSchema = z
-  .object({
-    version: z.literal(1),
-    ids: z.array(z.string()),
-    pinnedIds: z.array(z.string()).default([]),
-    recency: z.array(z.string()).default([]),
-  })
-  .strict()
+const ContentPageIndexSchema = z.object({
+  version: z.literal(1),
+  ids: z.array(z.string()),
+  recency: z.array(z.string()).default([]),
+})
 
 export type ContentPageIndex = z.infer<typeof ContentPageIndexSchema>
 
 export const EMPTY_CONTENT_PAGE_INDEX: ContentPageIndex = {
   version: 1,
   ids: [],
-  pinnedIds: [],
   recency: [],
 }
 
-export const MAX_UNPINNED_CACHED_BODIES = 200
+export const MAX_CACHED_BODIES = 200
 
 const PersistedContentPageSchema = z
   .object({
@@ -72,24 +68,7 @@ export function addContentPageIds(
   const seen = new Set(index.ids)
   const appended = ids.filter((id) => !seen.has(id))
   if (appended.length === 0) return index
-  return {
-    version: 1,
-    ids: [...index.ids, ...appended],
-    pinnedIds: index.pinnedIds,
-    recency: index.recency,
-  }
-}
-
-export function addPinnedIds(index: ContentPageIndex, ids: readonly string[]): ContentPageIndex {
-  const seen = new Set(index.pinnedIds)
-  const appended = ids.filter((id) => !seen.has(id))
-  if (appended.length === 0) return index
-  return {
-    version: 1,
-    ids: index.ids,
-    pinnedIds: [...index.pinnedIds, ...appended],
-    recency: index.recency,
-  }
+  return { version: 1, ids: [...index.ids, ...appended], recency: index.recency }
 }
 
 export function touchRecency(index: ContentPageIndex, ids: readonly string[]): ContentPageIndex {
@@ -112,17 +91,15 @@ export function touchRecency(index: ContentPageIndex, ids: readonly string[]): C
   ) {
     return index
   }
-  return { version: 1, ids: index.ids, pinnedIds: index.pinnedIds, recency: nextRecency }
+  return { version: 1, ids: index.ids, recency: nextRecency }
 }
 
 export function computeEvictableIds(index: ContentPageIndex, max: number): readonly string[] {
-  const pinned = new Set(index.pinnedIds)
-  const unpinned = index.ids.filter((id) => !pinned.has(id))
-  const overBy = unpinned.length - max
+  const overBy = index.ids.length - max
   if (overBy <= 0) return []
   const recencyRank = new Map<string, number>()
   index.recency.forEach((id, i) => recencyRank.set(id, i))
-  const oldestFirst = [...unpinned].sort((a, b) => {
+  const oldestFirst = [...index.ids].sort((a, b) => {
     const ra = recencyRank.get(a)
     const rb = recencyRank.get(b)
     if (ra === undefined && rb === undefined) return 0
@@ -142,5 +119,5 @@ export function removeContentPageIds(
   const nextIds = index.ids.filter((id) => !remove.has(id))
   if (nextIds.length === index.ids.length) return index
   const nextRecency = index.recency.filter((id) => !remove.has(id))
-  return { version: 1, ids: nextIds, pinnedIds: index.pinnedIds, recency: nextRecency }
+  return { version: 1, ids: nextIds, recency: nextRecency }
 }

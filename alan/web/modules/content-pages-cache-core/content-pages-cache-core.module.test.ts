@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import {
+  computeEvictableIds,
+  parseContentPageIndex,
   parsePersistedContentPage,
   serializeContentPage,
 } from "akasha/alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.code.ts"
@@ -21,4 +23,12 @@ test("a held page naming only its id reads back", () => {
 
 test("a held page with no id reads back as nothing", () => {
   expect(parsePersistedContentPage(JSON.stringify({ title: "Chapter 1.00" }))).toBeNull()
+})
+
+test("an index held with pins reads back with its ids, and every id can be evicted", () => {
+  const index = parseContentPageIndex(
+    JSON.stringify({ version: 1, ids: [PAGE_ID], pinnedIds: [PAGE_ID], recency: [] })
+  )
+  expect(index.ids).toEqual([PAGE_ID])
+  expect(computeEvictableIds(index, 0)).toEqual([PAGE_ID])
 })

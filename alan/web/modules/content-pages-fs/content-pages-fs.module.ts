@@ -12,16 +12,20 @@ export const contentPagesFs = {
       statement: "Which ids are held is answered from the index rather than from the body files.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "Reading every body to answer that would read the whole held library each time.",
+      decisionKind: "decision-kind/departure",
+      statement: "A page opened while online is held here and read back when the fetch fails.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the pages opened most recently are held, and no page is held for good.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing fetches a page onto the device ahead of it being opened.",
     },
     {
       decisionKind: "decision-kind/gap",
       statement: "An id the index names has a body that reads back.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A body that does not read back is fetched again rather than reported as held.",
     },
   ],
 } as const satisfies Module

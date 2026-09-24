@@ -19,6 +19,14 @@ export const contentPagesCacheCore = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "No held page is kept from eviction.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "An index a phone wrote with pins reads back with those pins dropped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Every other page key is optional here and judged only where a held page has that key.",
     },

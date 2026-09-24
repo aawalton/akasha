@@ -1,11 +1,10 @@
 import { getFilesystem } from "akasha/alan/web/modules/capacitor-bridge/capacitor-bridge.module.code.ts"
 import {
   addContentPageIds,
-  addPinnedIds,
   type ContentPageIndex,
   computeEvictableIds,
   EMPTY_CONTENT_PAGE_INDEX,
-  MAX_UNPINNED_CACHED_BODIES,
+  MAX_CACHED_BODIES,
   mergeContentPage,
   parseContentPageIndex,
   parsePersistedContentPage,
@@ -84,7 +83,7 @@ export function createNativeFsContentPersistence(): ContentPagePersistencePort {
     const savedIds = pages.map((p) => p.id)
     const withIds = addContentPageIds(index, savedIds)
     const withRecency = touchRecency(withIds, savedIds)
-    const victims = computeEvictableIds(withRecency, MAX_UNPINNED_CACHED_BODIES)
+    const victims = computeEvictableIds(withRecency, MAX_CACHED_BODIES)
     for (const victimId of victims) {
       const path = pageFilePath(victimId)
       if (path !== null) await deleteDocumentsFile(path)
@@ -112,18 +111,6 @@ export function createNativeFsContentPersistence(): ContentPagePersistencePort {
     return out
   }
 
-  const doPin = async (ids: readonly string[]): Promise<void> => {
-    if (getFilesystem() == null || indexPath() === null || ids.length === 0) return
-    const index = await readIndex()
-    const nextIndex = addPinnedIds(index, ids)
-    if (nextIndex !== index) await writeIndex(nextIndex)
-  }
-
-  const doCachedIds = async (): Promise<readonly string[]> => {
-    if (getFilesystem() == null || indexPath() === null) return []
-    return (await readIndex()).ids
-  }
-
   const doClear = async (): Promise<void> => {
     if (getFilesystem() == null) return
     const files = await listDocumentsFiles()
@@ -139,12 +126,6 @@ export function createNativeFsContentPersistence(): ContentPagePersistencePort {
         console.warn("[content-pages] save failed", err)
       })
     },
-    pinPages: (ids) => {
-      void enqueue(() => doPin(ids)).catch((err: unknown) => {
-        console.warn("[content-pages] pin failed", err)
-      })
-    },
-    cachedIds: () => enqueue(() => doCachedIds()),
     clear: () => {
       void enqueue(() => doClear()).catch((err: unknown) => {
         console.warn("[content-pages] clear failed", err)
