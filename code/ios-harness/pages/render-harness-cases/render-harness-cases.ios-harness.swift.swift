@@ -260,6 +260,20 @@ func cases(now: Date) -> [RenderCase] {
             familySource: "systemLarge", body: stoplightsActivity,
             sizeOverride: CGSize(width: 340, height: 64)))
 
+    let stoplightsActivityNoSignal = """
+        {"upkeep":[\
+        {"key":"safety","label":"Safety","tier":"yellow","reading":"2.5","nextTier":"green",\
+        "progress":0.5,"readingHeld":null},\
+        {"key":"sleep","label":"Sleep","tier":"black","reading":null,"nextTier":null,\
+        "progress":null,"readingHeld":"none"}],\
+        "inboxes":[],"attributes":[],"takenAt":"2026-09-19T17:00:00Z"}
+        """
+    all.append(
+        RenderCase(
+            name: "stoplights-activity-lock-screen-no-signal", widget: "StoplightsActivity",
+            familySource: "systemLarge", body: stoplightsActivityNoSignal,
+            sizeOverride: CGSize(width: 360, height: 160)))
+
     all.append(
         contentsOf: wideAndPlaceholderCases(
             CaseFixtures(
