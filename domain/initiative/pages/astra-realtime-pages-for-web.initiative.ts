@@ -12,5 +12,9 @@ export const astraRealtimePagesForWeb = {
       statement:
         "A reader holding a page type's shape drops it when a change to that page type is pushed.",
     },
+    {
+      statement:
+        "A seat's page shows each new message and change of working color live, with no refresh.",
+    },
   ],
 } as const satisfies Initiative
