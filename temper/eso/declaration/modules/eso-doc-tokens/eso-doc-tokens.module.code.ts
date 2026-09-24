@@ -204,11 +204,41 @@ export function parseEnums(content: string): ParsedEnum[] {
 
 const FUNCTION_LINE = /^\*\s+(\w+)(?:\s+\*([a-z-]+)\*)?\s*\((.*)\)$/
 
+const OBJECT_API = "h2. Object API"
+
+const EVENTS = "h2. Events"
+
+const OBJECT_HEADING = /^h3\.\s+(\w+)/
+
+const LOOSE_AFTER = 2
+
+type ObjectApiLines = { readonly owned: readonly string[]; readonly loose: readonly string[] }
+
+function objectApiLines(content: string): ObjectApiLines {
+  const start = content.indexOf(OBJECT_API)
+  if (start === -1) return { owned: [], loose: [] }
+  const end = content.indexOf(EVENTS)
+  const lines = content.substring(start, end !== -1 ? end : content.length).split("\n")
+  const owned: string[] = []
+  const loose: string[] = []
+  let blanks = 0
+  let free = false
+  for (const line of lines) {
+    const blank = line.trim() === ""
+    if (OBJECT_HEADING.test(line)) free = false
+    else if (!blank && blanks >= LOOSE_AFTER) free = true
+    blanks = blank ? blanks + 1 : 0
+    if (free) loose.push(line)
+    else owned.push(line)
+  }
+  return { owned, loose }
+}
+
 export function parseFunctions(content: string): ParsedFunction[] {
   const functions: ParsedFunction[] = []
 
   const gameApiStart = content.indexOf("h2. Game API")
-  const objectApiStart = content.indexOf("h2. Object API")
+  const objectApiStart = content.indexOf(OBJECT_API)
 
   if (gameApiStart === -1) return functions
 
@@ -217,7 +247,7 @@ export function parseFunctions(content: string): ParsedFunction[] {
     objectApiStart !== -1 ? objectApiStart : content.length
   )
 
-  const sectionLines = gameApiSection.split("\n")
+  const sectionLines = [...gameApiSection.split("\n"), "", ...objectApiLines(content).loose]
 
   let currentFunc: ParsedFunction | null = null
   let hasVariableReturns = false
@@ -330,17 +360,7 @@ export function parseEvents(content: string): ParsedEvent[] {
 export function parseObjects(content: string): ParsedObject[] {
   const objects: ParsedObject[] = []
 
-  const objectApiStart = content.indexOf("h2. Object API")
-  const eventsStart = content.indexOf("h2. Events")
-
-  if (objectApiStart === -1) return objects
-
-  const objectSection = content.substring(
-    objectApiStart,
-    eventsStart !== -1 ? eventsStart : content.length
-  )
-
-  const lines = objectSection.split("\n")
+  const lines = objectApiLines(content).owned
 
   let currentObject: ParsedObject | null = null
   let currentMethod: ParsedObjectMethod | null = null
@@ -348,7 +368,7 @@ export function parseObjects(content: string): ParsedObject[] {
   let expectingChildList = false
 
   for (const line of lines) {
-    const objectMatch = parseMatch1(line, /^h3\.\s+(\w+)/)
+    const objectMatch = parseMatch1(line, OBJECT_HEADING)
     if (objectMatch) {
       if (currentObject) {
         if (currentMethod) {

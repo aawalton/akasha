@@ -64,6 +64,14 @@ export const esoDocTokens = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Two blank lines in the object section end the object above them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A function after them and before the next object is a global function.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An enum with no values is no enum.",
     },
     {

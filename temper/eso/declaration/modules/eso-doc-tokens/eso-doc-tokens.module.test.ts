@@ -145,6 +145,31 @@ test("a child object states the parent it inherits from", () => {
   expect(objects.find((one) => one.name === "Control")?.inheritsFrom).toEqual([])
 })
 
+test("a function after two blank lines in the object section is global, not a method", () => {
+  const dump = [
+    "h2. Game API",
+    "* GetOpen()",
+    "",
+    "h2. Object API",
+    "h3. WindowManager",
+    "* GetTopLevel()",
+    "",
+    "",
+    "* GetUIGlobalScale()",
+    "** _Returns:_ *number* _scale_",
+    "",
+    "h3. Button",
+    "* GetState()",
+    "h2. Events",
+  ].join("\n")
+  expect(parseFunctions(dump).map((one) => one.name)).toEqual(["GetOpen", "GetUIGlobalScale"])
+  const methods = parseObjects(dump).map((one) => [one.name, one.methods.map((m) => m.name)])
+  expect(methods).toEqual([
+    ["WindowManager", ["GetTopLevel"]],
+    ["Button", ["GetState"]],
+  ])
+})
+
 test("a section the dump does not carry is read as nothing", () => {
   expect(parseFunctions("no headings here")).toEqual([])
   expect(parseEvents("no headings here")).toEqual([])
