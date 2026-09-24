@@ -10,6 +10,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.ts","id":"01a05fcf-90fc-73a8-ad6a-e3869228a309"}
 {"propertySlug":"extends-type","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.page-type.ts","id":"01a05fcf-2469-71b2-b9b1-9c8803c95d71"}
 {"propertySlug":"extends-type","path":"temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts","id":"01a05fcf-2466-7bcb-9ec1-3f0fd467d879"}
+{"propertySlug":"extends-type","path":"temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts","id":"01a0d3e2-b138-7ae3-a092-02aca2555e4f"}
 {"propertySlug":"extends-type","path":"temper/catalog/companion/trait/temper-companion-trait.page-type.ts","id":"01a05fce-1854-7c89-a767-43b54ae4cefa"}
 {"propertySlug":"extends-type","path":"temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts","id":"01a05fcd-aed1-7e12-be73-72bd7b05ba15"}
 {"propertySlug":"extends-type","path":"temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts","id":"01a05fcd-41a9-7114-8636-28bd59dc4a76"}
@@ -26,6 +27,7 @@
 {"propertySlug":"import","fileName":"temper-companion-thing.page-type.types.ts","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-companion-thing.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-companion-thing.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.types.ts"}
+{"propertySlug":"import","fileName":"temper-companion-thing.page-type.types.ts","path":"temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-companion-thing.page-type.types.ts","path":"temper/catalog/companion/trait/temper-companion-trait.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-companion-thing.page-type.types.ts","path":"temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-companion-thing.page-type.types.ts","path":"temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.types.ts"}

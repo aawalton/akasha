@@ -4645,6 +4645,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/properties/alliance.relation-property.ts","id":"01a0cb4e-2ed1-7e8e-a8c9-ff9076977804"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts","id":"01a0d3e2-b138-7ae3-a092-02aca2555e4f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/trait/properties/companion-metric.relation-property.ts","id":"01a0d3d2-e04b-7a25-bebc-6c7c9d72dad7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/apply-invalidations/apply-invalidations.module.ts","id":"01a06071-0c76-73c9-ae39-c266d45d6492"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/batch-config/batch-config.module.ts","id":"01a06071-0c77-7e96-8044-2bad3e05b280"}
@@ -4666,6 +4667,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.ts","id":"01a0610f-45bb-7d20-aedf-7d954ebf2ec5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.ts","id":"01a060f0-3eae-7300-a19e-36158f3ca349"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.ts","id":"01a0d3e3-15fd-7894-84c4-490fc66d1590"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/item-set/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.one-of-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.multi-relation-property.ts","id":"01a05fd1-d439-7027-bdca-1804e14d6caf"}

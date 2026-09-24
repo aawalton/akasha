@@ -7,6 +7,7 @@ export const temperCompanionTrait = {
   definition: "a property worked into a piece of companion equipment",
   extends: ["page-type/temper-companion-thing"],
   parts: [
+    "page-type/temper-companion-trait-grade",
     "boolean-property/is-reduction",
     "relation-property/companion-metric",
     "text-property/metric-id",

@@ -93,3 +93,4 @@
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-zone/temper-zone.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/zone/temper-world-zone.page-type.types.ts"}
 {"propertySlug":"parts","path":"temper/catalog/temper-catalog.domain.ts","id":"01a05fac-7580-7d88-a660-0f4eff1ab95e"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/grade/properties/graded-thing.relation-property.ts","id":"01a0d3e2-8850-732b-b0e9-db7bace7cd58"}

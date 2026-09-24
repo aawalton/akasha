@@ -39,6 +39,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"collection-type","unique":null,"uniquePropertySlug":null,"slug":"collection-type","propertySlug":"collection-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"unit","unique":null,"uniquePropertySlug":null,"slug":"collection-unit","propertySlug":"unit","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"readout","unique":null,"uniquePropertySlug":null,"slug":"color-from","propertySlug":"color-from","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-passive-metric","unique":null,"uniquePropertySlug":null,"slug":"companion-grade-metric","propertySlug":"metric","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-eso-companion","unique":null,"uniquePropertySlug":null,"slug":"companion-id","propertySlug":"companion-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-passive-metric","unique":null,"uniquePropertySlug":null,"slug":"companion-metric","propertySlug":"metric-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-skill-line","unique":null,"uniquePropertySlug":null,"slug":"companion-skill-line","propertySlug":"skill-line-id","fileName":null,"folderName":null}
@@ -77,6 +78,9 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"book","unique":null,"uniquePropertySlug":null,"slug":"gbww-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"generator-kind","unique":null,"uniquePropertySlug":null,"slug":"generator","propertySlug":"generator","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-rule-goal","unique":null,"uniquePropertySlug":null,"slug":"goal","propertySlug":"goal","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-metric-tree","unique":null,"uniquePropertySlug":null,"slug":"grade-metric","propertySlug":"metric","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-trait","unique":null,"uniquePropertySlug":null,"slug":"graded-companion-trait","propertySlug":"thing","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-catalog-thing","unique":null,"uniquePropertySlug":null,"slug":"graded-thing","propertySlug":"thing","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-grimoire","unique":null,"uniquePropertySlug":null,"slug":"grimoire-id","propertySlug":"grimoire-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"heard-source","unique":null,"uniquePropertySlug":null,"slug":"heard-source","propertySlug":"heard-source","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game","unique":null,"uniquePropertySlug":null,"slug":"holding-game","propertySlug":"game","fileName":null,"folderName":null}

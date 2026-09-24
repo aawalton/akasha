@@ -1,3 +1,4 @@
+{"propertySlug":"extends-type","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.ts","id":"01a0d3e3-15fd-7894-84c4-490fc66d1590"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.ts","id":"01a05fd1-d42e-7a0a-9e97-561c71aeccd4"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-armor-type/temper-armor-type.page-type.ts","id":"01a05fd1-d430-77ed-ace6-98856e2a09d7"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts","id":"01a05fd1-d432-7bca-b936-c66974cf77aa"}
@@ -8,6 +9,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts","id":"01a05fd1-d435-7e26-b0e7-584020995ebe"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts","id":"01a05fd1-d441-7e40-89d2-1fcb87133420"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
+{"propertySlug":"import","fileName":"temper-gear-thing.page-type.types.ts","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-gear-thing.page-type.types.ts","path":"temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-gear-thing.page-type.types.ts","path":"temper/catalog/gear/temper-armor-type/temper-armor-type.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-gear-thing.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.types.ts"}

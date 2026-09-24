@@ -13,6 +13,7 @@ export const temperGear = {
     "page-type/temper-armor-weight",
     "page-type/temper-eso-player-equipment-constant",
     "page-type/temper-eso-trait-map",
+    "page-type/temper-gear-grade",
     "page-type/temper-gear-thing",
     "page-type/temper-jewelry-enchant",
     "page-type/temper-jewelry-slot",
