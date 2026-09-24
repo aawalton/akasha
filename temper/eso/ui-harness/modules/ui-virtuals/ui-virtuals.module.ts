@@ -58,6 +58,10 @@ export const uiVirtuals = {
       statement: "A caller names the windows to write out, because a document declares many.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Windows are written out as a list, in the order the caller names them.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No animation an interface document declares is read here.",
     },

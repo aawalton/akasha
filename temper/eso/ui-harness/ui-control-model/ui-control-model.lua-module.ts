@@ -166,6 +166,15 @@ export const uiControlModel = {
       statement: "A window the game declares is built under the screen where a caller names it.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's own Lua counts on a document's windows being built in the order written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Declared windows are built in the order they are handed over.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A name another control holds already is left alone rather than built twice.",
     },

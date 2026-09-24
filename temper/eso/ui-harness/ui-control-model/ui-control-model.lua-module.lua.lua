@@ -399,7 +399,8 @@ function _G.__ui_control(name) return named[name] end
 
 function _G.__ui_declare(given)
   local count = 0
-  for name, spec in pairs(given) do
+  for _, one in ipairs(given) do
+    local name, spec = one[1], one[2]
     if named[name] == nil then
       local ok, thrown = xpcall(function()
         dress(birth(name, _G.GuiRoot, spec.controlType, nil), spec)

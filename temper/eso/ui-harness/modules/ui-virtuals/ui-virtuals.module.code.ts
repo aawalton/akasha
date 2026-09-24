@@ -279,7 +279,7 @@ export function declaredLua(
   for (let at = 0; at < names.length; at += perChunk) {
     const written = names.slice(at, at + perChunk).flatMap((name) => {
       const node = table[name]
-      return node === undefined ? [] : [`[${luaText(name)}] = ${luaNode(node)},`]
+      return node === undefined ? [] : [`{ ${luaText(name)}, ${luaNode(node)} },`]
     })
     chunks.push(`__ui_declare({ ${written.join(" ")} })`)
   }
