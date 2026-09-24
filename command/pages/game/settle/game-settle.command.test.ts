@@ -11,7 +11,10 @@ import {
 } from "akasha/command/pages/game/settle/game-settle.command.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { gameMechanic } from "akasha/story/game/game-mechanic/game-mechanic.page-type.ts"
-import type { MechanicRun } from "akasha/story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
+import {
+  type MechanicRun,
+  runIn,
+} from "akasha/story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 import { attributeCheck } from "akasha/story/game/game-mechanic/pages/attribute-check/attribute-check.game-mechanic.ts"
 import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
 import { storyGame } from "akasha/story/game/story-game.page-type.ts"
@@ -144,7 +147,8 @@ test("a settled turn becomes a page of its own, and its numbers are answered", a
     (one.given as { readonly at: string }).at.endsWith(".workings.json")
   )
   if (beside === undefined) throw new Error("the run itself is written beside its page")
-  const row = JSON.parse((beside.given as { readonly body: string }).body) as MechanicRun
+  const row = runIn((beside.given as { readonly body: string }).body)
+  if (row === null) throw new Error("the run written beside its page reads as no run")
   expect(row.turn).toBe(87)
   expect(row.mechanic).toBe(CHECK)
   expect(row.dice?.faces).toHaveLength(1)

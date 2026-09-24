@@ -36,6 +36,7 @@ import {
   settledBy,
 } from "akasha/story/game/game-mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"
 import { pagedRun } from "akasha/story/game/game-mechanic-run/modules/run-paging/run-paging.module.code.ts"
+import { z } from "zod"
 
 const NAMED = [
   gameArgument,
@@ -65,41 +66,37 @@ type Held<Of> = { readonly answered: Of } | { readonly refused: string }
 
 export type Read = Taken | { readonly refused: string }
 
-function jsonIn(said: string, what: string): Held<unknown> {
+const READING_SAID = z.record(z.string(), z.unknown())
+
+const BONUSES_SAID = z.array(z.object({ [FROM]: z.string(), [BY]: z.number() }))
+
+function jsonIn<Of>(said: string, what: string, shape: z.ZodType<Of>, wrong: string): Held<Of> {
+  let held: z.ZodSafeParseResult<Of>
   try {
-    return { answered: JSON.parse(said) as unknown }
+    held = shape.safeParse(JSON.parse(said))
   } catch {
     return { refused: `\`${what}\` takes JSON, and what was said is none` }
   }
+  return held.success ? { answered: held.data } : { refused: wrong }
 }
 
 export function readingIn(said: string): Held<Record<string, unknown>> {
-  const held = jsonIn(said, readingArgument.said)
-  if ("refused" in held) return held
-  if (!isRecord(held.answered)) {
-    return { refused: `\`${readingArgument.said}\` takes what the mechanic reads, keyed by name` }
-  }
-  return { answered: held.answered }
+  return jsonIn(
+    said,
+    readingArgument.said,
+    READING_SAID,
+    `\`${readingArgument.said}\` takes what the mechanic reads, keyed by name`
+  )
 }
 
 export function bonusesIn(said: string | null): Held<readonly Bonus[]> {
   if (said === null) return { answered: [] }
-  const held = jsonIn(said, bonusesArgument.said)
-  if ("refused" in held) return held
-  const given = held.answered
-  const wrong = {
-    refused: `\`${bonusesArgument.said}\` takes a list, each a \`from\` and a \`by\``,
-  }
-  if (!Array.isArray(given)) return wrong
-  const found: Bonus[] = []
-  for (const one of given) {
-    if (!isRecord(one)) return wrong
-    const from = one[FROM]
-    const by = one[BY]
-    if (typeof from !== "string" || typeof by !== "number") return wrong
-    found.push({ from, by })
-  }
-  return { answered: found }
+  return jsonIn(
+    said,
+    bonusesArgument.said,
+    BONUSES_SAID,
+    `\`${bonusesArgument.said}\` takes a list, each a \`from\` and a \`by\``
+  )
 }
 
 export function taken(argv: readonly string[], calledAs: string): Read {
