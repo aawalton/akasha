@@ -8,6 +8,7 @@ export const kindsGathering = {
     "the rows of a page type and of every page type under it, each worked against its own type",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -129,6 +130,11 @@ export const kindsGathering = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A relation a calculation holds reaches its stated page type and every page type under it.",
     },
   ],
 } as const satisfies Module

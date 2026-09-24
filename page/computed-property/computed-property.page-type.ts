@@ -115,6 +115,20 @@ export const computedProperty = {
       decisionKind: "decision-kind/departure",
       statement: "A calculation holding a relation has the type a relation property has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A computed property holding a relation states the page type that relation reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A computed property stating a page type to reach holds a relation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A calculation holding a relation answers the address of a page of the type reached.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

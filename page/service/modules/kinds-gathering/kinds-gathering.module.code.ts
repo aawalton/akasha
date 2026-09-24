@@ -32,6 +32,7 @@ import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.co
 import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { wholeValue } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
+  slugAt,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -56,6 +57,8 @@ export const COMPUTED = "computed-property"
 const CODE = ".code.ts"
 
 const SLASH = "/"
+
+const TARGET_PAGE_TYPE = "targetPageType"
 
 const BESIDE_THE_PAGE: ReadonlySet<string> = new Set([COMPUTED, FILE_PROPERTY])
 
@@ -145,10 +148,12 @@ function computedFor(root: string, carried: readonly Carried[]): readonly Comput
             throw new Error(loaded.failed)
           }
         : loaded.work
+    const reached = page === undefined ? null : slugAt(page.value, TARGET_PAGE_TYPE)
     found.push({
       slug: one.propertySlug,
       key: one.key,
       holds: page === undefined ? "" : (textAt(page.value, "holds") ?? ""),
+      ...(reached === null ? {} : { reaches: { slug: reached, kinds: kindsUnder(reached, root) } }),
       work: held,
     })
   }

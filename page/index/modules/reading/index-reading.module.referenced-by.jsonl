@@ -418,6 +418,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/index/modules/reading/index-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/modules/shadow/shadow.module.test.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/type/modules/declared-properties/declared-properties.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts"}

@@ -4,15 +4,7 @@ import { dirname, join } from "node:path"
 import { weight } from "akasha/alan/value/health/fitness/strength/log/properties/weight.number-property.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import {
-  pageFiled,
-  relationFiled,
-} from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
-import {
-  listedFiled,
-  shapeAlsoFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { relationFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { numberProperty } from "akasha/page/number-property/number-property.page-type.ts"
 import {
   type Counting,
@@ -22,98 +14,20 @@ import {
   kindsFor,
   type Testing,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
-import { shapedIn } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
+import {
+  calculated,
+  filed,
+  kinded,
+  propertied,
+  typed,
+  worlded,
+} from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
 const WEIGHT_AT = `${numberProperty.slug}/${weight.slug}`
-
-type Declaring = { readonly pagePropertySlug: string; readonly required: boolean }
-
-function filed(
-  root: string,
-  pageTypeSlug: string,
-  slug: string,
-  value: Readonly<Record<string, unknown>>
-): string {
-  const path = `held/${slug}.${pageTypeSlug}.ts`
-  const id = `id-${pageTypeSlug}-${slug}`
-  const held = { id, pageTypeSlug, slug, ...value }
-  listedFiled(root, pageTypeSlug, slug, [{ path, id }])
-  pageFiled(root, id, path)
-  valueAlsoFiled(root, pageTypeSlug, [{ path, value: held }])
-  const shape = shapedIn(held)
-  if (shape !== null) shapeAlsoFiled(root, shape.pageTypeSlug, [shape])
-  return path
-}
-
-function typed(
-  root: string,
-  slug: string,
-  above: readonly string[],
-  properties: readonly Declaring[]
-): undefined {
-  const path = filed(root, "page-type", slug, {
-    extends: above.map((one) => `page-type/${one}`),
-    properties,
-  })
-  const id = `id-page-type-${slug}`
-  for (const one of above) {
-    relationFiled(root, `id-page-type-${one}`, "extends-type", id, [{ path }])
-  }
-}
-
-const KINDED = new Set<string>()
-
-function kinded(root: string, sort: string): undefined {
-  const named = `${root} ${sort}`
-  if (KINDED.has(named)) return
-  KINDED.add(named)
-  filed(root, "page-type", sort, { extends: ["page-property"] })
-}
-
-function propertied(
-  root: string,
-  sort: string,
-  slug: string,
-  value: Readonly<Record<string, unknown>>
-): string {
-  kinded(root, sort)
-  return filed(root, sort, slug, { propertySlug: slug, ...value })
-}
-
-function calculated(root: string, slug: string, holds: string, body: string): undefined {
-  const at = propertied(root, "computed-property", slug, { holds, code: "ts" })
-  const beside = join(root, at.replace(/\.ts$/, ".code.ts"))
-  mkdirSync(dirname(beside), { recursive: true })
-  writeFileSync(beside, `${body}\n`)
-}
-
-function worlded(root: string): undefined {
-  propertied(root, "number-property", "count", { max: null })
-  calculated(root, "twice", "number", "export function work(page) { return (page.count ?? 0) * 2 }")
-  calculated(
-    root,
-    "thrice",
-    "number",
-    "export function work(page) { return (page.count ?? 0) * 3 }"
-  )
-  typed(root, "held", [], [{ pagePropertySlug: "number-property/count", required: false }])
-  typed(
-    root,
-    "nearer",
-    ["held"],
-    [{ pagePropertySlug: "computed-property/twice", required: false }]
-  )
-  typed(
-    root,
-    "further",
-    ["nearer"],
-    [{ pagePropertySlug: "computed-property/thrice", required: false }]
-  )
-}
 
 const SESSIONS = "sessions"
 
@@ -412,4 +326,31 @@ test("a page no page names sums to nothing rather than refusing", () => {
   filed(root, "whole", "top", {})
   const said = new Map(rowsOf(root, "held").map((one) => [one["slug"], one]))
   expect(said.get("top")?.["summed"]).toBe(0)
+})
+
+test("a calculation holding a relation answers a page of the page type it states it reaches", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  worlded(root)
+  typed(root, "lifter", [], [])
+  calculated(
+    root,
+    "spotter",
+    "relation",
+    'export function work(page) { return page.count === 1 ? "lifter/alan" : "lifter/nobody" }',
+    { targetPageType: "page-type/lifter" }
+  )
+  typed(
+    root,
+    "spotted",
+    ["held"],
+    [{ pagePropertySlug: "computed-property/spotter", required: false }]
+  )
+  filed(root, "lifter", "alan", {})
+  filed(root, "spotted", "one", { count: 1 })
+  filed(root, "spotted", "two", { count: 2 })
+  const counted = computedInto(root, gatheredFor(root, "held", carriedFor(root, "held")))
+  const said = new Map(counted.rows.map((one) => [one.value["slug"], one.value]))
+  expect(said.get("one")?.["spotter"]).toBe("lifter/alan")
+  expect(said.get("two")?.["spotter"]).toBeUndefined()
+  expect(counted.dark.get("spotter")).toContain("which names no page")
 })
