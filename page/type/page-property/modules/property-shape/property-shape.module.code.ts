@@ -60,12 +60,14 @@ export function shapedIn(value: Value): Shape | null {
 }
 
 export function shapeIn(line: string): Shape | null {
-  let said: unknown
   try {
-    said = JSON.parse(line)
+    return parseShapeLine(JSON.parse(line))
   } catch {
     return null
   }
+}
+
+function parseShapeLine(said: unknown): Shape | null {
   if (said === null || typeof said !== "object" || Array.isArray(said)) return null
   const held = said as Value
   const pageTypeSlug = textAt(held, "pageTypeSlug")

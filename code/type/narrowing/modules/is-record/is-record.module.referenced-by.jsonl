@@ -24,7 +24,6 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/core/schema/modules/pages/pages.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/core/schema/modules/view-data/view-data.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/core/view-state/modules/reducers/reducers.module.code.ts"}
-{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui-store/collection/modules/change-following/change-following.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui-store/collection/modules/file-backing/file-backing.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"page/ui-store/optimistic/modules/convergence/convergence.module.code.ts"}

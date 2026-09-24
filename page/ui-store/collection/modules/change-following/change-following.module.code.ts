@@ -1,4 +1,3 @@
-import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import type { FetchImpl } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import {
@@ -6,6 +5,7 @@ import {
   namedShapeKey,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+import { z } from "zod"
 
 const SETTLE_MS = 50
 
@@ -84,25 +84,33 @@ export function streamAt(at: string): StreamLike {
   }
 }
 
-function parsed(data: unknown): Readonly<Record<string, unknown>> | null {
+const STREAM_SAID = z.looseObject({ stream: z.string().min(1) })
+
+const PUSHED_SAID = z.looseObject({
+  pageTypeSlug: z.string().min(1),
+  keys: z.array(z.unknown()),
+  slug: z.unknown().optional(),
+  id: z.unknown().optional(),
+})
+
+function saidIn<T>(schema: z.ZodType<T>, data: unknown): T | null {
   if (typeof data !== "string") return null
   try {
-    const said: unknown = JSON.parse(data)
-    return isRecord(said) ? said : null
+    const found = schema.safeParse(JSON.parse(data))
+    return found.success ? found.data : null
   } catch {
     return null
   }
 }
 
 function streamNamedIn(data: unknown): string | null {
-  return textIn(parsed(data)?.stream)
+  return saidIn(STREAM_SAID, data)?.stream ?? null
 }
 
 export function pushedIn(data: unknown): Pushed | null {
-  const said = parsed(data)
+  const said = saidIn(PUSHED_SAID, data)
   if (said === null) return null
-  const pageTypeSlug = textIn(said.pageTypeSlug)
-  if (pageTypeSlug === null || !Array.isArray(said.keys)) return null
+  const pageTypeSlug = said.pageTypeSlug
   const keys = said.keys.filter((one): one is string => typeof one === "string")
   const slug = textIn(said.slug)
   const id = textIn(said.id)

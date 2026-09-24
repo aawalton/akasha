@@ -74,12 +74,14 @@ export function carriedOf(one: Carrying): Carried {
 }
 
 export function carryingIn(line: string): Carrying | null {
-  let said: unknown
   try {
-    said = JSON.parse(line)
+    return parseCarrying(JSON.parse(line))
   } catch {
     return null
   }
+}
+
+function parseCarrying(said: unknown): Carrying | null {
   if (said === null || typeof said !== "object" || Array.isArray(said)) return null
   const held = said as Value
   const key = textAt(held, "key")
