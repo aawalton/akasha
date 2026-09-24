@@ -154,9 +154,16 @@ function shownIn(root: UiControl): readonly UiControl[] {
   return shown
 }
 
+function sizedByText(one: UiControl): boolean {
+  return one.controlType === CT_LABEL && one.width === 0 && one.height === 0
+}
+
 function boxHtml(one: UiControl, options: UiPictureOptions): string {
   const from = options.origin ?? { left: 0, top: 0 }
-  const place = `left:${one.left - from.left}px;top:${one.top - from.top}px;width:${one.width}px;height:${one.height}px;`
+  const size = sizedByText(one)
+    ? "overflow:visible;"
+    : `width:${one.width}px;height:${one.height}px;`
+  const place = `left:${one.left - from.left}px;top:${one.top - from.top}px;${size}`
   const fade = one.alpha >= 1 ? "" : `opacity:${one.alpha};`
   const told = one.name === undefined ? "" : ` title="${escaped(one.name)}"`
   if (one.controlType === CT_BACKDROP) {
