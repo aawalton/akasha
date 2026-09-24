@@ -36,11 +36,6 @@ export const emailUnsubscribe = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here follows a link found in a message body.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement:
-        "Nothing here says the effect an unsubscribe would have without doing that unsubscribe.",
-    },
   ],
   name: "unsubscribe",
   arguments: [{ argument: "argument/message", required: true, saidAs: "flag-or-word" }],
