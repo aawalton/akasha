@@ -7,7 +7,6 @@ export const temperGameCatalogCaptureHost = {
   definition: "the zod schemas reading every game catalog a capture addon saved",
   parts: [
     "module/antiquity-lore-catalog-schema",
-    "module/collectibles-catalog-schema",
     "module/lore-library-catalog-schema",
     "module/poi-catalog-schema",
     "module/recipe-catalog-schema",

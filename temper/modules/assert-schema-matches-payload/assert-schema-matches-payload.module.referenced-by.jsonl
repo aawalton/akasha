@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/datamining/reader/modules/saved-variables-schema/saved-variables-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/game-catalog-capture-host/modules/antiquity-lore-catalog-schema/antiquity-lore-catalog-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/game-catalog-capture-host/modules/collectibles-catalog-schema/collectibles-catalog-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/game-catalog-capture-host/modules/lore-library-catalog-schema/lore-library-catalog-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/game-catalog-capture-host/modules/poi-catalog-schema/poi-catalog-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/game-catalog-capture-host/modules/recipe-catalog-schema/recipe-catalog-schema.module.code.ts"}
@@ -10,6 +9,7 @@
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/game-catalog-capture-host/modules/zone-completion-catalog-schema/zone-completion-catalog-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/shape/modules/achievement-catalog/achievement-catalog.module.test.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/shape/modules/cadwell-catalog/cadwell-catalog.module.test.ts"}
+{"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/capture/shape/modules/collectibles-catalog/collectibles-catalog.module.test.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/economy/trading/listing/modules/listing-entry-schema/listing-entry-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/items/core/modules/inventory-database-schema/inventory-database-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-schema-matches-payload.module.code.ts","path":"temper/player/completion/modules/completion-writer-schema/completion-writer-schema.module.code.ts"}
