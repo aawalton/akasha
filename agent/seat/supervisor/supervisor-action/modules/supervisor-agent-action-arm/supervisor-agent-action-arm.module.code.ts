@@ -1,9 +1,9 @@
-import type { armDeferredRestart } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
+import type { armDeferredRestart } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
 import type {
   DeferredRestartRuleSource,
   DeferredRestartWindows,
-} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
-import { readProcessStartMs } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { readProcessStartMs } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
 import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 

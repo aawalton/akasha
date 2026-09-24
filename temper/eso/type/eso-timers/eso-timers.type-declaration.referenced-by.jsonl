@@ -33,9 +33,9 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/reviving/modules/resume-verify/resume-verify.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/service-workstations/sweep-absent-seats/sweep-absent-seats.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-boot/modules/stage/supervisor-boot-stage.module.code.ts"}

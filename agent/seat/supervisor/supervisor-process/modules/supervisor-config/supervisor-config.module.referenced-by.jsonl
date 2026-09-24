@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/config/supervisor-account-config.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"}

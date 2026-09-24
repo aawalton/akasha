@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"}

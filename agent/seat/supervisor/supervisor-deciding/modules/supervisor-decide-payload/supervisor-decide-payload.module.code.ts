@@ -4,7 +4,7 @@ import type {
   ClaimedCandidate,
   ClaimedTranscriptFinding,
 } from "akasha/agent/message/modules/supervisor-claimed-redelivery-decide/agent-message-supervisor-claimed-redelivery-decide.module.code.ts"
-import type { RestartNowEvent } from "akasha/agent/seat/supervisor/seat-session-restart/modules/session-restart-notice-decide/session-restart-notice-decide.module.code.ts"
+import type { RestartNowEvent } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/session-restart-notice-decide/session-restart-notice-decide.module.code.ts"
 import type { LimitResumeInput } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.code.ts"
 import type { UncertainBlockSeat } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.code.ts"
 import type { WaitResumeInput } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts"

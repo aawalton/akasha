@@ -7,7 +7,7 @@ import {
   type DeferredRestartObservation,
   type DeferredRestartState,
   INITIAL_DEFERRED_RESTART_STATE,
-} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 import type {
   ChildExitClassification,
   ChildExitObservation,

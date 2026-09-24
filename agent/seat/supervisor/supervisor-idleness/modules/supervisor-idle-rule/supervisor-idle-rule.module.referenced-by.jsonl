@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}

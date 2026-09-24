@@ -1,7 +1,7 @@
 import {
   askRestartNotice,
   type RestartNoticePlan,
-} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import { clearRequestedAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import type { AgentActionEvent } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import type { LoopState } from "akasha/agent/seat/supervisor/supervisor-loop/modules/state/supervisor-loop-state.module.code.ts"

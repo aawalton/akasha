@@ -1,4 +1,4 @@
-import type { AskDecide } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
+import type { AskDecide } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import {
   type ChildExitClassification,
   type ChildExitObservation,

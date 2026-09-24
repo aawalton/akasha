@@ -20,7 +20,7 @@ export const seatSupervisor = {
     "domain/supervisor-process",
     "domain/supervisor-rebinding",
 
-    "domain/seat-session-restart",
+    "domain/seat-agent-restart",
     "domain/supervisor-resuming",
     "domain/supervisor-shutdown",
     "domain/supervisor-ticking",

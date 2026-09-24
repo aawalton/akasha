@@ -1,0 +1,4 @@
+{"propertySlug":"import","fileName":"session-restart-notice-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/session-restart-notice-decide/session-restart-notice-decide.module.test.ts"}
+{"propertySlug":"import","fileName":"session-restart-notice-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"}
+{"propertySlug":"import","fileName":"session-restart-notice-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide/supervisor-decide.module.code.ts"}
+{"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-restart/seat-agent-restart.domain.ts","id":"01a09c71-bd3a-7e1d-80f8-17fd6319d823"}

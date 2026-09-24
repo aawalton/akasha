@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"seat-control.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-control.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-control.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-control.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-control.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"}

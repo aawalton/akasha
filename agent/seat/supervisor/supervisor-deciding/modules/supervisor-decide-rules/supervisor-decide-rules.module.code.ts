@@ -11,11 +11,11 @@ import {
   resolveMaxDeferMs,
   resolvePreCliffOverrideMs,
   resolveStaleWedgeMs,
-} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 import {
   decidePreCliffRestart,
   type PreCliffObservation,
-} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
 import {
   classifyChildExit,
   collapseChildExitStatus,

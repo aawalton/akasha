@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
 {"propertySlug":"import","fileName":"io-probe.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"}
