@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionTheMomentIKnewTaylorsVersion = {
   title: "The Moment I Knew (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "themomentiknewtaylorsversion|06HL4z0CvFAxyc27GXpf02|285280",
   song: "song/taylor-swift-the-moment-i-knew",
   carriedBy: [

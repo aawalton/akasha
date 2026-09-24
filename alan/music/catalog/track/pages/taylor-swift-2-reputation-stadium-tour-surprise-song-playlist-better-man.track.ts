@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistBetterMan = {
   title: "Better Man",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3CygdxquGHurS7f9LjNLkv", artistName: "Little Big Town" }],
+  trackArtist: [{ artistName: "Little Big Town" }],
   trackKey: "betterman|3CygdxquGHurS7f9LjNLkv|263613",
   song: "song/taylor-swift-better-man",
   carriedBy: [

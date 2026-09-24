@@ -12,7 +12,7 @@ export const sabrinaCarpenterEmailsICanTSendFwdThingsIWishYouSaid = {
   title: "things i wish you said",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "thingsiwishyousaid|74KM79TiuVKeVCqs8QtB0B|162748",
   song: "song/sabrina-carpenter-things-i-wish-you-said",
   carriedBy: [

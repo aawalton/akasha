@@ -14,7 +14,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "mirrorball - the long pond studio sessions",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "mirrorballthelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|237373",
   song: "song/taylor-swift-mirrorball-the-long-pond-studio-sessions",
   carriedBy: [

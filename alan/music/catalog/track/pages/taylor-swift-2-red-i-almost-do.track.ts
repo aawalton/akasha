@@ -12,7 +12,7 @@ export const taylorSwift2RedIAlmostDo = {
   title: "I Almost Do",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ialmostdo|06HL4z0CvFAxyc27GXpf02|242573",
   song: "song/taylor-swift-i-almost-do",
   carriedBy: [

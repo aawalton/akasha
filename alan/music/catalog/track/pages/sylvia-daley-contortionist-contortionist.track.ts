@@ -12,7 +12,7 @@ export const sylviaDaleyContortionistContortionist = {
   title: "Contortionist",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
+  trackArtist: [{ artist: "artist/sylvia-daley" }],
   trackKey: "contortionist|03dXd2zBbBJvX60Oap8Lgo|122769",
   song: "song/sylvia-daley-contortionist",
   carriedBy: [

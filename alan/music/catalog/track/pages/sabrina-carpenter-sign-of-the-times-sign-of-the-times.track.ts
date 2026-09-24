@@ -12,10 +12,7 @@ export const sabrinaCarpenterSignOfTheTimesSignOfTheTimes = {
   title: "Sign of the Times",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2TL8gYTNgD6nXkyuUdDrMg", artistName: "Jasmine Thompson" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artistName: "Jasmine Thompson" }, { artist: "artist/sabrina-carpenter" }],
   trackKey: "signofthetimes|2TL8gYTNgD6nXkyuUdDrMg,74KM79TiuVKeVCqs8QtB0B|253269",
   song: "song/sabrina-carpenter-sign-of-the-times",
   carriedBy: [

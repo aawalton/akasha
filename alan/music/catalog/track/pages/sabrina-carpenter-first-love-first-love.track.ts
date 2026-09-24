@@ -12,10 +12,7 @@ export const sabrinaCarpenterFirstLoveFirstLove = {
   title: "First Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3hyEbRtp617pNCuuQjyOmc", artistName: "Lost Kings" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artistName: "Lost Kings" }, { artist: "artist/sabrina-carpenter" }],
   trackKey: "firstlove|3hyEbRtp617pNCuuQjyOmc,74KM79TiuVKeVCqs8QtB0B|207427",
   song: "song/sabrina-carpenter-first-love",
   carriedBy: [

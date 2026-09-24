@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeIsItOverNowTaylorsVersionFromTh
   title: "Is It Over Now? (Taylor's Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "isitovernowtaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|229477",
   song: "song/taylor-swift-is-it-over-now-from-the-vault",
   carriedBy: [

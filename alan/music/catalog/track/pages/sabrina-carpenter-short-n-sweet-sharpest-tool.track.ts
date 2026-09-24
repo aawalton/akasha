@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetSharpestTool = {
   title: "Sharpest Tool",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "sharpesttool|74KM79TiuVKeVCqs8QtB0B|218284",
   song: "song/sabrina-carpenter-sharpest-tool",
   carriedBy: [

@@ -12,7 +12,7 @@ export const sabrinaCarpenterSingularActIParis = {
   title: "Paris",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "paris|74KM79TiuVKeVCqs8QtB0B|218080",
   song: "song/sabrina-carpenter-paris",
   carriedBy: [

@@ -15,7 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionGoldRush = {
   title: "gold rush",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "goldrush|06HL4z0CvFAxyc27GXpf02|185320",
   song: "song/taylor-swift-gold-rush",
   carriedBy: [

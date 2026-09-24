@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeSlutTaylorsVersionFromTheVault 
   title: '"Slut!" (Taylor\'s Version) (From The Vault)',
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "sluttaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|180381",
   song: "song/taylor-swift-slut-from-the-vault",
   carriedBy: [

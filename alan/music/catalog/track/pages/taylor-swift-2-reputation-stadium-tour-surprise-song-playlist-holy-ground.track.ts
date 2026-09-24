@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistHolyGround = {
   title: "Holy Ground",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "holyground|06HL4z0CvFAxyc27GXpf02|202960",
   song: "song/taylor-swift-holy-ground",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2LiveFromClearChannelStripped2008UntouchableLiveFromClea
   title: "Untouchable - Live From Clear Channel Stripped 2008",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "untouchablelivefromclearchannelstripped2008|06HL4z0CvFAxyc27GXpf02|222959",
   song: "song/taylor-swift-untouchable",
   carriedBy: [

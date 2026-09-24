@@ -15,7 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionIvy = {
   title: "ivy",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ivy|06HL4z0CvFAxyc27GXpf02|260440",
   song: "song/taylor-swift-ivy",
   carriedBy: [

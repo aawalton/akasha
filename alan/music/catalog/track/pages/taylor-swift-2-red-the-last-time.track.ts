@@ -12,10 +12,7 @@ export const taylorSwift2RedTheLastTime = {
   title: "The Last Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "3fCQnw6VSudXBTN5d2QP2z", artistName: "Gary Lightbody" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Gary Lightbody" }],
   trackKey: "thelasttime|06HL4z0CvFAxyc27GXpf02,3fCQnw6VSudXBTN5d2QP2z|298293",
   song: "song/taylor-swift-the-last-time",
   carriedBy: [

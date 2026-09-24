@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionAllTooWellTaylorsVersion = {
   title: "All Too Well (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "alltoowelltaylorsversion|06HL4z0CvFAxyc27GXpf02|329160",
   song: "song/taylor-swift-all-too-well",
   carriedBy: [

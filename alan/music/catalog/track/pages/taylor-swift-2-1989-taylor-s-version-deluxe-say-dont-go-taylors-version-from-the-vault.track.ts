@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeSayDontGoTaylorsVersionFromTheV
   title: "Say Don't Go (Taylor's Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "saydontgotaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|279833",
   song: "song/taylor-swift-say-dont-go-from-the-vault",
   carriedBy: [

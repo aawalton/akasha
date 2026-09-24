@@ -12,7 +12,7 @@ export const taylorSwift2CardiganCabinInCandlelightVersionCardiganCabinInCandlel
   title: "cardigan - cabin in candlelight version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "cardigancabinincandlelightversion|06HL4z0CvFAxyc27GXpf02|228000",
   song: "song/taylor-swift-cardigan",
   carriedBy: [

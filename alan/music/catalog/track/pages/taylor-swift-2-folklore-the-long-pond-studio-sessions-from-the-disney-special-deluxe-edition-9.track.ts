@@ -14,7 +14,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "invisible string - the long pond studio sessions",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "invisiblestringthelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|257359",
   song: "song/taylor-swift-invisible-string-the-long-pond-studio-sessions",
   carriedBy: [

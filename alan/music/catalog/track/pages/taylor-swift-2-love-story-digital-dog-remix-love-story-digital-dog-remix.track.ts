@@ -12,10 +12,7 @@ export const taylorSwift2LoveStoryDigitalDogRemixLoveStoryDigitalDogRemix = {
   title: "Love Story - Digital Dog Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "1lbp4Rrpi6ug3cGZF9LWXq", artistName: "Digital Dog" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Digital Dog" }],
   trackKey: "lovestorydigitaldogremix|06HL4z0CvFAxyc27GXpf02,1lbp4Rrpi6ug3cGZF9LWXq|358573",
   song: "song/taylor-swift-love-story",
   carriedBy: [

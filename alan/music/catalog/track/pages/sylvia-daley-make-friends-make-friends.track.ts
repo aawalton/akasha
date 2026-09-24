@@ -12,7 +12,7 @@ export const sylviaDaleyMakeFriendsMakeFriends = {
   title: "Make Friends",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
+  trackArtist: [{ artist: "artist/sylvia-daley" }],
   trackKey: "makefriends|03dXd2zBbBJvX60Oap8Lgo|162125",
   song: "song/sylvia-daley-make-friends",
   carriedBy: [

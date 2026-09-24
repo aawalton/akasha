@@ -12,7 +12,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionHitsDifferent = {
   title: "Hits Different",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "hitsdifferent|06HL4z0CvFAxyc27GXpf02|234466",
   song: "song/taylor-swift-hits-different",
   carriedBy: [

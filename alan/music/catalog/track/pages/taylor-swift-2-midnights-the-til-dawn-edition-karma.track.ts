@@ -16,7 +16,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionKarma = {
   title: "Karma",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "karma|06HL4z0CvFAxyc27GXpf02|204852",
   song: "song/taylor-swift-karma",
   carriedBy: [

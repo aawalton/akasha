@@ -16,7 +16,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistIKnowPlaces = 
   title: "I Know Places",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "iknowplaces|06HL4z0CvFAxyc27GXpf02|195706",
   song: "song/taylor-swift-i-know-places",
   carriedBy: [

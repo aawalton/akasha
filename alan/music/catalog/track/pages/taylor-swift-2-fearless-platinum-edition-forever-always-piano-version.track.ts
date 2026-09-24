@@ -12,7 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionForeverAlwaysPianoVersion = {
   title: "Forever & Always - Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "foreveralwayspianoversion|06HL4z0CvFAxyc27GXpf02|267506",
   song: "song/taylor-swift-forever-always",
   carriedBy: [

@@ -12,7 +12,7 @@ export const sabrinaCarpenterEvolutionMirage = {
   title: "Mirage",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "mirage|74KM79TiuVKeVCqs8QtB0B|205480",
   song: "song/sabrina-carpenter-mirage",
   carriedBy: [

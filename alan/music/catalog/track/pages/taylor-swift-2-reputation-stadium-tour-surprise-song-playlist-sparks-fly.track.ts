@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistSparksFly = {
   title: "Sparks Fly",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "sparksfly|06HL4z0CvFAxyc27GXpf02|262920",
   song: "song/taylor-swift-sparks-fly",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift21989DeluxeEditionBlankSpaceVoiceMemo = {
   title: "Blank Space - Voice Memo",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "blankspacevoicememo|06HL4z0CvFAxyc27GXpf02|131186",
   song: "song/taylor-swift-blank-space-voice-memo",
   carriedBy: [

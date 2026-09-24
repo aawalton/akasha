@@ -15,7 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionTolerateIt = {
   title: "tolerate it",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "tolerateit|06HL4z0CvFAxyc27GXpf02|245440",
   song: "song/taylor-swift-tolerate-it",
   carriedBy: [

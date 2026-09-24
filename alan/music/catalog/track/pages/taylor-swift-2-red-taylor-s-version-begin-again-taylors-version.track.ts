@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionBeginAgainTaylorsVersion = {
   title: "Begin Again (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "beginagaintaylorsversion|06HL4z0CvFAxyc27GXpf02|238866",
   song: "song/taylor-swift-begin-again",
   carriedBy: [

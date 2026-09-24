@@ -15,10 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionNoBodyNoCrimeFeatHaim = {
   title: "no body, no crime (feat. HAIM)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "4Ui2kfOqGujY81UcPrb5KE", artistName: "HAIM" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "HAIM" }],
   trackKey: "nobodynocrimefeathaim|06HL4z0CvFAxyc27GXpf02,4Ui2kfOqGujY81UcPrb5KE|215626",
   song: "song/taylor-swift-no-body-no-crime",
   carriedBy: [

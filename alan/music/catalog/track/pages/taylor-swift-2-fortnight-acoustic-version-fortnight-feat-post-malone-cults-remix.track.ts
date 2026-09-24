@@ -13,9 +13,9 @@ export const taylorSwift2FortnightAcousticVersionFortnightFeatPostMaloneCultsRem
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "3Oim8XBPbznAa8Jj8QzNc8", artistName: "Cults" },
-    { externalId: "246dkjvS1zLTtiykXe5h60", artistName: "Post Malone" },
+    { artist: "artist/taylor-swift" },
+    { artistName: "Cults" },
+    { artistName: "Post Malone" },
   ],
   trackKey:
     "fortnightfeatpostmalonecultsremix|06HL4z0CvFAxyc27GXpf02,246dkjvS1zLTtiykXe5h60,3Oim8XBPbznAa8Jj8QzNc8|194305",

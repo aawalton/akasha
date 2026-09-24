@@ -14,7 +14,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "mad woman - the long pond studio sessions",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "madwomanthelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|238333",
   song: "song/taylor-swift-mad-woman-the-long-pond-studio-sessions",
   carriedBy: [

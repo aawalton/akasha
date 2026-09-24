@@ -13,9 +13,9 @@ export const taylorSwift2LoverMeFeatBrendonUrieOfPanicAtTheDisco = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6eYFryfcEu3QSq59D62wZQ", artistName: "Brendon Urie" },
-    { externalId: "20JZFwl6HVl6yg8a4H3ZqK", artistName: "Panic! At The Disco" },
+    { artist: "artist/taylor-swift" },
+    { artistName: "Brendon Urie" },
+    { artistName: "Panic! At The Disco" },
   ],
   trackKey:
     "mefeatbrendonurieofpanicatthedisco|06HL4z0CvFAxyc27GXpf02,20JZFwl6HVl6yg8a4H3ZqK,6eYFryfcEu3QSq59D62wZQ|193000",

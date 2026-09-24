@@ -14,7 +14,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "illicit affairs - the long pond studio sessions",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "illicitaffairsthelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|183720",
   song: "song/taylor-swift-illicit-affairs-the-long-pond-studio-sessions",
   carriedBy: [

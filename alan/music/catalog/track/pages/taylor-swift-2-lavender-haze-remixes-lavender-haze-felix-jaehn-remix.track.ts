@@ -15,10 +15,7 @@ export const taylorSwift2LavenderHazeRemixesLavenderHazeFelixJaehnRemix = {
   title: "Lavender Haze - Felix Jaehn Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "4bL2B6hmLlMWnUEZnorEtG", artistName: "felix jaehn" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "felix jaehn" }],
   trackKey: "lavenderhazefelixjaehnremix|06HL4z0CvFAxyc27GXpf02,4bL2B6hmLlMWnUEZnorEtG|171562",
   song: "song/taylor-swift-lavender-haze",
   carriedBy: [

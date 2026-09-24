@@ -14,7 +14,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "hoax - the long pond studio sessions",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "hoaxthelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|221800",
   song: "song/taylor-swift-hoax-the-long-pond-studio-sessions",
   carriedBy: [

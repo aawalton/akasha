@@ -12,7 +12,7 @@ export const taylorSwift2ReputationDancingWithOurHandsTied = {
   title: "Dancing With Our Hands Tied",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dancingwithourhandstied|06HL4z0CvFAxyc27GXpf02|211506",
   song: "song/taylor-swift-dancing-with-our-hands-tied",
   carriedBy: [

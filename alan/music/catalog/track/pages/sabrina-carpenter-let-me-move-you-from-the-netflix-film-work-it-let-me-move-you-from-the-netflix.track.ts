@@ -12,7 +12,7 @@ export const sabrinaCarpenterLetMeMoveYouFromTheNetflixFilmWorkItLetMeMoveYouFro
   title: 'Let Me Move You - From the Netflix film "Work It"',
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "letmemoveyoufromthenetflixfilmworkit|74KM79TiuVKeVCqs8QtB0B|147070",
   song: "song/sabrina-carpenter-let-me-move-you-from-the-netflix-film-work-it",
   carriedBy: [

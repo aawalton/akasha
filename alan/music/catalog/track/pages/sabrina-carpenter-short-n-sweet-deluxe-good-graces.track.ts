@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetDeluxeGoodGraces = {
   title: "Good Graces",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "goodgraces|74KM79TiuVKeVCqs8QtB0B|185266",
   song: "song/sabrina-carpenter-good-graces",
   carriedBy: [

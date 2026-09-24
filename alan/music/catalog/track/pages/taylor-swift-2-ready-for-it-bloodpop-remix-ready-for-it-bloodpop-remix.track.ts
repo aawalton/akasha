@@ -12,10 +12,7 @@ export const taylorSwift2ReadyForItBloodpopRemixReadyForItBloodpopRemix = {
   title: "...Ready For It? - BloodPop® Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "1okJ4NC308qbtY9LyHn6DO", artistName: "BloodPop®" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "BloodPop®" }],
   trackKey: "readyforitbloodpopremix|06HL4z0CvFAxyc27GXpf02,1okJ4NC308qbtY9LyHn6DO|189508",
   song: "song/taylor-swift-ready-for-it",
   carriedBy: [

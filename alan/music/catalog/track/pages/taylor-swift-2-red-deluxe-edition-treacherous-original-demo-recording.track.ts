@@ -12,7 +12,7 @@ export const taylorSwift2RedDeluxeEditionTreacherousOriginalDemoRecording = {
   title: "Treacherous - Original Demo Recording",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "treacherousoriginaldemorecording|06HL4z0CvFAxyc27GXpf02|239720",
   song: "song/taylor-swift-treacherous",
   carriedBy: [

@@ -18,7 +18,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionAntiHero = {
   title: "Anti-Hero",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "antihero|06HL4z0CvFAxyc27GXpf02|200690",
   song: "song/taylor-swift-anti-hero",
   carriedBy: [

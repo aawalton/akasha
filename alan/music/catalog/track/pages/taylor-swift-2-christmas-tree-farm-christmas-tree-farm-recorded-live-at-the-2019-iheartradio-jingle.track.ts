@@ -16,7 +16,7 @@ export const taylorSwift2ChristmasTreeFarmChristmasTreeFarmRecordedLiveAtThe2019
     title: "Christmas Tree Farm - Recorded Live at the 2019 iHeartRadio Jingle Ball",
     trackType: "live",
     explicit: false,
-    trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+    trackArtist: [{ artist: "artist/taylor-swift" }],
     trackKey:
       "christmastreefarmrecordedliveatthe2019iheartradiojingleball|06HL4z0CvFAxyc27GXpf02|253866",
     song: "song/taylor-swift-christmas-tree-farm",

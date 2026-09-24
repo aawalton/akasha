@@ -12,7 +12,7 @@ export const taylorSwift2LoverItsNiceToHaveAFriend = {
   title: "It’s Nice To Have A Friend",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "itsnicetohaveafriend|06HL4z0CvFAxyc27GXpf02|150440",
   song: "song/taylor-swift-it-s-nice-to-have-a-friend",
   carriedBy: [

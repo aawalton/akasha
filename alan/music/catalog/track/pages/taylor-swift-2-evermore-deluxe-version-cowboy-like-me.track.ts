@@ -15,7 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionCowboyLikeMe = {
   title: "cowboy like me",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "cowboylikeme|06HL4z0CvFAxyc27GXpf02|275040",
   song: "song/taylor-swift-cowboy-like-me",
   carriedBy: [

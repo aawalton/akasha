@@ -12,7 +12,7 @@ export const taylorSwift2CorneliaStreetLiveFromParisCorneliaStreetLiveFromParis 
   title: "Cornelia Street - Live From Paris",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "corneliastreetlivefromparis|06HL4z0CvFAxyc27GXpf02|296013",
   song: "song/taylor-swift-cornelia-street",
   carriedBy: [

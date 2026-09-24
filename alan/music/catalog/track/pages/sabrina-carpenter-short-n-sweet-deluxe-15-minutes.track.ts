@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetDeluxe15Minutes = {
   title: "15 Minutes",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "15minutes|74KM79TiuVKeVCqs8QtB0B|191519",
   song: "song/sabrina-carpenter-15-minutes",
   carriedBy: [

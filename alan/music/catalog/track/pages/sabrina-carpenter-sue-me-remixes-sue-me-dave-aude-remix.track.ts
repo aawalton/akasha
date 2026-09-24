@@ -12,10 +12,7 @@ export const sabrinaCarpenterSueMeRemixesSueMeDaveAudeRemix = {
   title: "Sue Me - Dave Audé Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "1vWImodgVqIgTUkekGEfR9", artistName: "Dave Audé" },
-  ],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }, { artistName: "Dave Audé" }],
   trackKey: "suemedaveauderemix|1vWImodgVqIgTUkekGEfR9,74KM79TiuVKeVCqs8QtB0B|229687",
   song: "song/sabrina-carpenter-sue-me",
   carriedBy: [

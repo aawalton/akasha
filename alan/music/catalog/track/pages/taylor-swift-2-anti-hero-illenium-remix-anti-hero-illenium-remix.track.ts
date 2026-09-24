@@ -12,10 +12,7 @@ export const taylorSwift2AntiHeroIlleniumRemixAntiHeroIlleniumRemix = {
   title: "Anti-Hero - ILLENIUM Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "45eNHdiiabvmbp4erw26rg", artistName: "ILLENIUM" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "ILLENIUM" }],
   trackKey: "antiheroilleniumremix|06HL4z0CvFAxyc27GXpf02,45eNHdiiabvmbp4erw26rg|267960",
   song: "song/taylor-swift-anti-hero",
   carriedBy: [

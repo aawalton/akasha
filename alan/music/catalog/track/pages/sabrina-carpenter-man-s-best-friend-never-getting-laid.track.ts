@@ -15,7 +15,7 @@ export const sabrinaCarpenterManSBestFriendNeverGettingLaid = {
   title: "Never Getting Laid",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "nevergettinglaid|74KM79TiuVKeVCqs8QtB0B|208211",
   song: "song/sabrina-carpenter-never-getting-laid",
   carriedBy: [

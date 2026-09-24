@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionIKnewYouWereTroubleTaylorsVersion = {
   title: "I Knew You Were Trouble (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "iknewyouweretroubletaylorsversion|06HL4z0CvFAxyc27GXpf02|219760",
   song: "song/taylor-swift-i-knew-you-were-trouble",
   carriedBy: [

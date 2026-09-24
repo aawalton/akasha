@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeBlankSpaceTaylorsVersion = {
   title: "Blank Space (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "blankspacetaylorsversion|06HL4z0CvFAxyc27GXpf02|231833",
   song: "song/taylor-swift-blank-space",
   carriedBy: [

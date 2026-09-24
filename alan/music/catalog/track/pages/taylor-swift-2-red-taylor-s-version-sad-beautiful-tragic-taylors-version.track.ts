@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionSadBeautifulTragicTaylorsVersion = {
   title: "Sad Beautiful Tragic (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "sadbeautifultragictaylorsversion|06HL4z0CvFAxyc27GXpf02|284773",
   song: "song/taylor-swift-sad-beautiful-tragic",
   carriedBy: [

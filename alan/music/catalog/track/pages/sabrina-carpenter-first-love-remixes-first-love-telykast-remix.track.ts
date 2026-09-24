@@ -13,9 +13,9 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveTelykastRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "3hyEbRtp617pNCuuQjyOmc", artistName: "Lost Kings" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "7vWC03wqXwUqjPON8hc1tz", artistName: "TELYKAST" },
+    { artistName: "Lost Kings" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "TELYKAST" },
   ],
   trackKey:
     "firstlovetelykastremix|3hyEbRtp617pNCuuQjyOmc,74KM79TiuVKeVCqs8QtB0B,7vWC03wqXwUqjPON8hc1tz|212210",

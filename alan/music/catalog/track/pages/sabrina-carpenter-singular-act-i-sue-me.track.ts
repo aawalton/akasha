@@ -12,7 +12,7 @@ export const sabrinaCarpenterSingularActISueMe = {
   title: "Sue Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "sueme|74KM79TiuVKeVCqs8QtB0B|179226",
   song: "song/sabrina-carpenter-sue-me",
   carriedBy: [

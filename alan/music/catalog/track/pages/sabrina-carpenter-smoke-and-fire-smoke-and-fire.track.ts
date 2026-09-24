@@ -12,7 +12,7 @@ export const sabrinaCarpenterSmokeAndFireSmokeAndFire = {
   title: "Smoke and Fire",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "smokeandfire|74KM79TiuVKeVCqs8QtB0B|225010",
   song: "song/sabrina-carpenter-smoke-and-fire",
   carriedBy: [

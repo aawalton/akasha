@@ -12,7 +12,7 @@ export const taylorSwift2AntiHeroAcousticVersionAntiHeroAcousticVersion = {
   title: "Anti-Hero - Acoustic Version",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "antiheroacousticversion|06HL4z0CvFAxyc27GXpf02|196473",
   song: "song/taylor-swift-anti-hero",
   carriedBy: [

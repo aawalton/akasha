@@ -12,10 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistBabe = {
   title: "Babe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0hYxQe3AK5jBPCr5MumLHD", artistName: "Sugarland" },
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-  ],
+  trackArtist: [{ artistName: "Sugarland" }, { artist: "artist/taylor-swift" }],
   trackKey: "babe|06HL4z0CvFAxyc27GXpf02,0hYxQe3AK5jBPCr5MumLHD|215106",
   song: "song/taylor-swift-babe",
   carriedBy: [

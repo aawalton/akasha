@@ -12,7 +12,7 @@ export const taylorSwift2ReputationIDidSomethingBad = {
   title: "I Did Something Bad",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ididsomethingbad|06HL4z0CvFAxyc27GXpf02|238253",
   song: "song/taylor-swift-i-did-something-bad",
   carriedBy: [

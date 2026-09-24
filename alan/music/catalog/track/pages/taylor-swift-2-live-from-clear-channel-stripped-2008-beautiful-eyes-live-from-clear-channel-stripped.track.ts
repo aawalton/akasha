@@ -13,7 +13,7 @@ export const taylorSwift2LiveFromClearChannelStripped2008BeautifulEyesLiveFromCl
     title: "Beautiful Eyes - Live From Clear Channel Stripped 2008",
     trackType: "live",
     explicit: false,
-    trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+    trackArtist: [{ artist: "artist/taylor-swift" }],
     trackKey: "beautifuleyeslivefromclearchannelstripped2008|06HL4z0CvFAxyc27GXpf02|176316",
     song: "song/taylor-swift-beautiful-eyes",
     carriedBy: [

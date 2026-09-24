@@ -12,10 +12,7 @@ export const sabrinaCarpenterSingularActIHoldTight = {
   title: "Hold Tight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "5PsYkefUonoeM9VCnpf5zd", artistName: "UHMEER" },
-  ],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }, { artistName: "UHMEER" }],
   trackKey: "holdtight|5PsYkefUonoeM9VCnpf5zd,74KM79TiuVKeVCqs8QtB0B|175160",
   song: "song/sabrina-carpenter-hold-tight",
   carriedBy: [

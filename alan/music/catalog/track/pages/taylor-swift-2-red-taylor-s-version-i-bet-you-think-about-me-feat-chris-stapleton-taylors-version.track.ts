@@ -12,10 +12,7 @@ export const taylorSwift2RedTaylorSVersionIBetYouThinkAboutMeFeatChrisStapletonT
   title: "I Bet You Think About Me (feat. Chris Stapleton) (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "4YLtscXsxbVgi031ovDDdh", artistName: "Chris Stapleton" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Chris Stapleton" }],
   trackKey:
     "ibetyouthinkaboutmefeatchrisstapletontaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02,4YLtscXsxbVgi031ovDDdh|285106",
   song: "song/taylor-swift-i-bet-you-think-about-me-from-the-vault",

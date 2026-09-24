@@ -12,7 +12,7 @@ export const taylorSwift2FolkloreMirrorball = {
   title: "mirrorball",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "mirrorball|06HL4z0CvFAxyc27GXpf02|208977",
   song: "song/taylor-swift-mirrorball",
   carriedBy: [

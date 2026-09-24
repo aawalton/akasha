@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionTheBestDayTaylorsVersion = {
   title: "The Best Day (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thebestdaytaylorsversion|06HL4z0CvFAxyc27GXpf02|245290",
   song: "song/taylor-swift-the-best-day",
   carriedBy: [

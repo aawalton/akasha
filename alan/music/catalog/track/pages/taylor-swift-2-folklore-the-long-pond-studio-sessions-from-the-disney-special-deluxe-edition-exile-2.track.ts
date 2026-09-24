@@ -15,10 +15,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
     title: "exile (feat. Bon Iver) - the long pond studio sessions",
     trackType: "live",
     explicit: false,
-    trackArtist: [
-      { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-      { externalId: "4LEiUm1SRbFMgfqnQTwUbQ", artistName: "Bon Iver" },
-    ],
+    trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Bon Iver" }],
     trackKey:
       "exilefeatboniverthelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02,4LEiUm1SRbFMgfqnQTwUbQ|279893",
     song: "song/taylor-swift-exile-the-long-pond-studio-sessions",

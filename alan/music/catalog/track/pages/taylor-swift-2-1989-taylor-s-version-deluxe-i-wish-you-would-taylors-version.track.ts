@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeIWishYouWouldTaylorsVersion = {
   title: "I Wish You Would (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "iwishyouwouldtaylorsversion|06HL4z0CvFAxyc27GXpf02|207650",
   song: "song/taylor-swift-i-wish-you-would",
   carriedBy: [

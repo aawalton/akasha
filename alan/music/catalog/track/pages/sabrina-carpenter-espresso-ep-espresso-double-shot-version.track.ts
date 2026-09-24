@@ -12,7 +12,7 @@ export const sabrinaCarpenterEspressoEpEspressoDoubleShotVersion = {
   title: "Espresso - Double Shot Version",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "espressodoubleshotversion|74KM79TiuVKeVCqs8QtB0B|149063",
   song: "song/sabrina-carpenter-espresso",
   carriedBy: [

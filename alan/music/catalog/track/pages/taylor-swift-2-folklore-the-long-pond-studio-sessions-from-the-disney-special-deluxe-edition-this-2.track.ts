@@ -14,7 +14,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "this is me trying - the long pond studio sessions",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thisismetryingthelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|209293",
   song: "song/taylor-swift-this-is-me-trying-the-long-pond-studio-sessions",
   carriedBy: [

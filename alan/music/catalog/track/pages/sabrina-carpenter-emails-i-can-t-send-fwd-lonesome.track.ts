@@ -12,7 +12,7 @@ export const sabrinaCarpenterEmailsICanTSendFwdLonesome = {
   title: "Lonesome",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "lonesome|74KM79TiuVKeVCqs8QtB0B|187591",
   song: "song/sabrina-carpenter-lonesome",
   carriedBy: [

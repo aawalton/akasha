@@ -12,7 +12,7 @@ export const sabrinaCarpenterFruitcakeIsItNewYearsYet = {
   title: "is it new years yet?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "isitnewyearsyet|74KM79TiuVKeVCqs8QtB0B|158580",
   song: "song/sabrina-carpenter-is-it-new-years-yet",
   carriedBy: [

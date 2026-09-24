@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeBadBloodTaylorsVersion = {
   title: "Bad Blood (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "badbloodtaylorsversion|06HL4z0CvFAxyc27GXpf02|211103",
   song: "song/taylor-swift-bad-blood",
   carriedBy: [

@@ -12,10 +12,7 @@ export const sabrinaCarpenterShortNSweetDeluxePleasePleasePleaseFeatDollyParton 
   title: "Please Please Please (feat. Dolly Parton)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "32vWCbZh0xZ4o9gkz4PsEU", artistName: "Dolly Parton" },
-  ],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }, { artistName: "Dolly Parton" }],
   trackKey:
     "pleasepleasepleasefeatdollyparton|32vWCbZh0xZ4o9gkz4PsEU,74KM79TiuVKeVCqs8QtB0B|184136",
   song: "song/sabrina-carpenter-please-please-please",

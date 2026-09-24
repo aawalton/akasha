@@ -12,7 +12,7 @@ export const sabrinaCarpenterEyesWideOpenTwoYoungHearts = {
   title: "Two Young Hearts",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "twoyounghearts|74KM79TiuVKeVCqs8QtB0B|233600",
   song: "song/sabrina-carpenter-two-young-hearts",
   carriedBy: [

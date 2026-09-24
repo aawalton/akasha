@@ -12,7 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionTheOtherSideOfTheDoor = {
   title: "The Other Side Of The Door",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "theothersideofthedoor|06HL4z0CvFAxyc27GXpf02|237600",
   song: "song/taylor-swift-the-other-side-of-the-door",
   carriedBy: [

@@ -12,7 +12,7 @@ export const sabrinaCarpenterSingularActIMonaLisa = {
   title: "Mona Lisa",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "monalisa|74KM79TiuVKeVCqs8QtB0B|138453",
   song: "song/sabrina-carpenter-mona-lisa",
   carriedBy: [

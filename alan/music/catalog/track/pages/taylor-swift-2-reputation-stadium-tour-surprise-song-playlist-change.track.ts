@@ -15,7 +15,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistChange = {
   title: "Change",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "change|06HL4z0CvFAxyc27GXpf02|281053",
   song: "song/taylor-swift-change",
   carriedBy: [

@@ -16,7 +16,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistHowYouGetTheGi
   title: "How You Get The Girl",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "howyougetthegirl|06HL4z0CvFAxyc27GXpf02|247533",
   song: "song/taylor-swift-how-you-get-the-girl",
   carriedBy: [

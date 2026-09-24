@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistMean = {
   title: "Mean",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "mean|06HL4z0CvFAxyc27GXpf02|238693",
   song: "song/taylor-swift-mean",
   carriedBy: [

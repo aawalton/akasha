@@ -12,7 +12,7 @@ export const taylorSwift2ReputationLookWhatYouMadeMeDo = {
   title: "Look What You Made Me Do",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "lookwhatyoumademedo|06HL4z0CvFAxyc27GXpf02|211853",
   song: "song/taylor-swift-look-what-you-made-me-do",
   carriedBy: [

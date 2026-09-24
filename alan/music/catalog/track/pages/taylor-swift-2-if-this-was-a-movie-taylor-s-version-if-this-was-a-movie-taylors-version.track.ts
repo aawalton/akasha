@@ -15,7 +15,7 @@ export const taylorSwift2IfThisWasAMovieTaylorSVersionIfThisWasAMovieTaylorsVers
   title: "If This Was A Movie (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ifthiswasamovietaylorsversion|06HL4z0CvFAxyc27GXpf02|237022",
   song: "song/taylor-swift-if-this-was-a-movie",
   carriedBy: [

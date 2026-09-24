@@ -14,10 +14,7 @@ export const sabrinaCarpenterTakeOnTheWorldThemeSongFromGirlMeetsWorldTakeOnTheW
   title: 'Take On the World - Theme Song From "Girl Meets World"',
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "45af7IeC0N5gQ9cyoIFyS6", artistName: "Rowan Blanchard" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artistName: "Rowan Blanchard" }, { artist: "artist/sabrina-carpenter" }],
   trackKey:
     "takeontheworldthemesongfromgirlmeetsworld|45af7IeC0N5gQ9cyoIFyS6,74KM79TiuVKeVCqs8QtB0B|192640",
   song: "song/sabrina-carpenter-take-on-the-world-theme-song-from-girl-meets-world",

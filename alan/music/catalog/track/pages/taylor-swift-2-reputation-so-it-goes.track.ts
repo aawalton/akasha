@@ -15,7 +15,7 @@ export const taylorSwift2ReputationSoItGoes = {
   title: "So It Goes...",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "soitgoes|06HL4z0CvFAxyc27GXpf02|227906",
   song: "song/taylor-swift-so-it-goes",
   carriedBy: [

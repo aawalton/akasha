@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionRedTaylorsVersion = {
   title: "Red (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "redtaylorsversion|06HL4z0CvFAxyc27GXpf02|223093",
   song: "song/taylor-swift-red",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2LoverDeathByAThousandCuts = {
   title: "Death By A Thousand Cuts",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "deathbyathousandcuts|06HL4z0CvFAxyc27GXpf02|198533",
   song: "song/taylor-swift-death-by-a-thousand-cuts",
   carriedBy: [

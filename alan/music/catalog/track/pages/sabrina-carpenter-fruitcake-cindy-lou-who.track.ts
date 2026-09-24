@@ -12,7 +12,7 @@ export const sabrinaCarpenterFruitcakeCindyLouWho = {
   title: "cindy lou who",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "cindylouwho|74KM79TiuVKeVCqs8QtB0B|121360",
   song: "song/sabrina-carpenter-cindy-lou-who",
   carriedBy: [

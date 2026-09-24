@@ -12,7 +12,7 @@ export const taylorSwift2AllOfTheGirlsYouLovedBeforeAllOfTheGirlsYouLovedBefore 
   title: "All Of The Girls You Loved Before",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "allofthegirlsyoulovedbefore|06HL4z0CvFAxyc27GXpf02|221407",
   song: "song/taylor-swift-all-of-the-girls-you-loved-before",
   carriedBy: [

@@ -12,7 +12,7 @@ export const sabrinaCarpenterEyesWideOpenTheMiddleOfStartingOver = {
   title: "The Middle of Starting Over",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "themiddleofstartingover|74KM79TiuVKeVCqs8QtB0B|212760",
   song: "song/sabrina-carpenter-the-middle-of-starting-over",
   carriedBy: [

@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeShakeItOffTaylorsVersion = {
   title: "Shake It Off (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "shakeitofftaylorsversion|06HL4z0CvFAxyc27GXpf02|219209",
   song: "song/taylor-swift-shake-it-off",
   carriedBy: [

@@ -13,10 +13,10 @@ export const sabrinaCarpenterOnMyWayDaTweekazRemixOnMyWayDaTweekazRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "7vk5e3vY1uw9plTHJAMwjN", artistName: "Alan Walker" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "329e4yvIujISKGKz1BZZbO", artistName: "Farruko" },
-    { externalId: "6UOk7DmvqlzWmo6gjhZvn6", artistName: "Da Tweekaz" },
+    { artistName: "Alan Walker" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "Farruko" },
+    { artistName: "Da Tweekaz" },
   ],
   trackKey:
     "onmywaydatweekazremix|329e4yvIujISKGKz1BZZbO,6UOk7DmvqlzWmo6gjhZvn6,74KM79TiuVKeVCqs8QtB0B,7vk5e3vY1uw9plTHJAMwjN|204198",

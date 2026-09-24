@@ -12,7 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionComeInWithTheRain = {
   title: "Come In With The Rain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "comeinwiththerain|06HL4z0CvFAxyc27GXpf02|238106",
   song: "song/taylor-swift-come-in-with-the-rain",
   carriedBy: [

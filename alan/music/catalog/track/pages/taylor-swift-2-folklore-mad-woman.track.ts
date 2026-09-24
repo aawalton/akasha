@@ -12,7 +12,7 @@ export const taylorSwift2FolkloreMadWoman = {
   title: "mad woman",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "madwoman|06HL4z0CvFAxyc27GXpf02|237258",
   song: "song/taylor-swift-mad-woman",
   carriedBy: [

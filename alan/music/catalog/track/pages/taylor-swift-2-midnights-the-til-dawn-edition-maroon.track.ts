@@ -16,7 +16,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionMaroon = {
   title: "Maroon",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "maroon|06HL4z0CvFAxyc27GXpf02|218270",
   song: "song/taylor-swift-maroon",
   carriedBy: [

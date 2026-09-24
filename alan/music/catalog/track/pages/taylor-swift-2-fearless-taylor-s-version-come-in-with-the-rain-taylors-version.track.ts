@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionComeInWithTheRainTaylorsVersion =
   title: "Come In With The Rain (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "comeinwiththeraintaylorsversion|06HL4z0CvFAxyc27GXpf02|237338",
   song: "song/taylor-swift-come-in-with-the-rain",
   carriedBy: [

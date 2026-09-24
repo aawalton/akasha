@@ -14,7 +14,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "the 1 - the long pond studio sessions",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "the1thelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|219893",
   song: "song/taylor-swift-the-1-the-long-pond-studio-sessions",
   carriedBy: [

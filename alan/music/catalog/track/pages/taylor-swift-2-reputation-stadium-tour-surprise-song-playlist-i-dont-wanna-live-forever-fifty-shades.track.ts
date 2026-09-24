@@ -13,10 +13,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistIDontWannaLive
     title: "I Don’t Wanna Live Forever (Fifty Shades Darker)",
     trackType: "studio",
     explicit: false,
-    trackArtist: [
-      { externalId: "5ZsFI1h6hIdQRw2ti0hz81", artistName: "ZAYN" },
-      { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    ],
+    trackArtist: [{ artistName: "ZAYN" }, { artist: "artist/taylor-swift" }],
     trackKey:
       "idontwannaliveforeverfiftyshadesdarker|06HL4z0CvFAxyc27GXpf02,5ZsFI1h6hIdQRw2ti0hz81|247160",
     song: "song/taylor-swift-i-dont-wanna-live-forever-fifty-shades-darker",

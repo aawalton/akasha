@@ -15,7 +15,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionWouldveCouldveShouldve = {
   title: "Would've, Could've, Should've",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "wouldvecouldveshouldve|06HL4z0CvFAxyc27GXpf02|260361",
   song: "song/taylor-swift-would-ve-could-ve-should-ve",
   carriedBy: [

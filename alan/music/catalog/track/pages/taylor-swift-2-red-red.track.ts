@@ -12,7 +12,7 @@ export const taylorSwift2RedRed = {
   title: "Red",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "red|06HL4z0CvFAxyc27GXpf02|220826",
   song: "song/taylor-swift-red",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionTellMeWhyTaylorsVersion = {
   title: "Tell Me Why (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "tellmewhytaylorsversion|06HL4z0CvFAxyc27GXpf02|200575",
   song: "song/taylor-swift-tell-me-why",
   carriedBy: [

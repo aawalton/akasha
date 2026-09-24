@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistBeginAgain = {
   title: "Begin Again",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "beginagain|06HL4z0CvFAxyc27GXpf02|239426",
   song: "song/taylor-swift-begin-again",
   carriedBy: [

@@ -12,7 +12,7 @@ export const sylviaDaleySecureSecure = {
   title: "Secure",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
+  trackArtist: [{ artist: "artist/sylvia-daley" }],
   trackKey: "secure|03dXd2zBbBJvX60Oap8Lgo|186477",
   song: "song/sylvia-daley-secure",
   carriedBy: [

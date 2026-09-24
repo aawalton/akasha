@@ -16,7 +16,7 @@ export const taylorSwift2EvermoreDeluxeVersionWillow = {
   title: "willow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "willow|06HL4z0CvFAxyc27GXpf02|214706",
   song: "song/taylor-swift-willow",
   carriedBy: [

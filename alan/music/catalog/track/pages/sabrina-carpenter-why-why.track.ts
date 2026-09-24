@@ -12,7 +12,7 @@ export const sabrinaCarpenterWhyWhy = {
   title: "Why",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "why|74KM79TiuVKeVCqs8QtB0B|171096",
   song: "song/sabrina-carpenter-why",
   carriedBy: [

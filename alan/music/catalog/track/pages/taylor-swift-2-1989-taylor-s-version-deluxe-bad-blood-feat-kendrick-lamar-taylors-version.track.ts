@@ -12,10 +12,7 @@ export const taylorSwift21989TaylorSVersionDeluxeBadBloodFeatKendrickLamarTaylor
   title: "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "2YZyLoL8N0Wb9xBt1NhZWg", artistName: "Kendrick Lamar" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Kendrick Lamar" }],
   trackKey:
     "badbloodfeatkendricklamartaylorsversion|06HL4z0CvFAxyc27GXpf02,2YZyLoL8N0Wb9xBt1NhZWg|199773",
   song: "song/taylor-swift-bad-blood",

@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionTheVeryFirstNightTaylorsVersionFromThe
   title: "The Very First Night (Taylor's Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "theveryfirstnighttaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|200280",
   song: "song/taylor-swift-the-very-first-night-from-the-vault",
   carriedBy: [

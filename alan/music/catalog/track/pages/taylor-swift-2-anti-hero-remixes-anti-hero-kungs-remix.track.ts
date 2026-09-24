@@ -12,10 +12,7 @@ export const taylorSwift2AntiHeroRemixesAntiHeroKungsRemix = {
   title: "Anti-Hero - Kungs Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "7keGfmQR4X5w0two1xKZ7d", artistName: "Kungs" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Kungs" }],
   trackKey: "antiherokungsremix|06HL4z0CvFAxyc27GXpf02,7keGfmQR4X5w0two1xKZ7d|194612",
   song: "song/taylor-swift-anti-hero",
   carriedBy: [

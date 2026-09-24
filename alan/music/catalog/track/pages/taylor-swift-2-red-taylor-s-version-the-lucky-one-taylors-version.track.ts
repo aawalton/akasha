@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionTheLuckyOneTaylorsVersion = {
   title: "The Lucky One (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "theluckyonetaylorsversion|06HL4z0CvFAxyc27GXpf02|240466",
   song: "song/taylor-swift-the-lucky-one",
   carriedBy: [

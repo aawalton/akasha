@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeCleanTaylorsVersion = {
   title: "Clean (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "cleantaylorsversion|06HL4z0CvFAxyc27GXpf02|271000",
   song: "song/taylor-swift-clean",
   carriedBy: [

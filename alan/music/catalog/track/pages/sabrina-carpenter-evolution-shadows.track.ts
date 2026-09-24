@@ -12,7 +12,7 @@ export const sabrinaCarpenterEvolutionShadows = {
   title: "Shadows",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "shadows|74KM79TiuVKeVCqs8QtB0B|172426",
   song: "song/sabrina-carpenter-shadows",
   carriedBy: [

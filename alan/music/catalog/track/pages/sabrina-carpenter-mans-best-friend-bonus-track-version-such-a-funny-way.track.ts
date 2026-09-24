@@ -12,7 +12,7 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionSuchAFunnyWay = {
   title: "Such A Funny Way",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "suchafunnyway|74KM79TiuVKeVCqs8QtB0B|232378",
   song: "song/sabrina-carpenter-such-a-funny-way",
   carriedBy: [

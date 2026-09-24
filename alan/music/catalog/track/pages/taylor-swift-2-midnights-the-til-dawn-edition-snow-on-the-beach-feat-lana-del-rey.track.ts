@@ -16,10 +16,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionSnowOnTheBeachFeatLanaDelRey 
   title: "Snow On The Beach (feat. Lana Del Rey)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "00FQb4jTyendYWaN8pK0wa", artistName: "Lana Del Rey" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Lana Del Rey" }],
   trackKey: "snowonthebeachfeatlanadelrey|00FQb4jTyendYWaN8pK0wa,06HL4z0CvFAxyc27GXpf02|256124",
   song: "song/taylor-swift-snow-on-the-beach",
   carriedBy: [

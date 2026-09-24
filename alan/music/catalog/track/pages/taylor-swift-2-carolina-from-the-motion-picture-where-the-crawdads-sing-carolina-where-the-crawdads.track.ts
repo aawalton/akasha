@@ -15,7 +15,7 @@ export const taylorSwift2CarolinaFromTheMotionPictureWhereTheCrawdadsSingCarolin
     title: 'Carolina - "Where The Crawdads Sing" - Video Edition',
     trackType: "studio",
     explicit: false,
-    trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+    trackArtist: [{ artist: "artist/taylor-swift" }],
     trackKey: "carolinawherethecrawdadssingvideoedition|06HL4z0CvFAxyc27GXpf02|163944",
     song: "song/taylor-swift-carolina-where-the-crawdads-sing-video-edition",
     carriedBy: [

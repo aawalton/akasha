@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetSlimPickins = {
   title: "Slim Pickins",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "slimpickins|74KM79TiuVKeVCqs8QtB0B|152195",
   song: "song/sabrina-carpenter-slim-pickins",
   carriedBy: [

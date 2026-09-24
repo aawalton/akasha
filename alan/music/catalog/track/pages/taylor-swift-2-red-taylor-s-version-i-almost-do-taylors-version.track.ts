@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionIAlmostDoTaylorsVersion = {
   title: "I Almost Do (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ialmostdotaylorsversion|06HL4z0CvFAxyc27GXpf02|244586",
   song: "song/taylor-swift-i-almost-do",
   carriedBy: [

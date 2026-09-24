@@ -14,9 +14,9 @@ export const taylorSwift2FortnightFeatPostMaloneBlondIshRemixFortnightFeatPostMa
     trackType: "remix",
     explicit: false,
     trackArtist: [
-      { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-      { externalId: "246dkjvS1zLTtiykXe5h60", artistName: "Post Malone" },
-      { externalId: "6zsJjoCtL1WByG0VsuFWzR", artistName: "BLOND:ISH" },
+      { artist: "artist/taylor-swift" },
+      { artistName: "Post Malone" },
+      { artistName: "BLOND:ISH" },
     ],
     trackKey:
       "fortnightfeatpostmaloneblondishremix|06HL4z0CvFAxyc27GXpf02,246dkjvS1zLTtiykXe5h60,6zsJjoCtL1WByG0VsuFWzR|216979",

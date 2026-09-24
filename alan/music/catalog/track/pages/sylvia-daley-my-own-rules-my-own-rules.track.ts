@@ -12,7 +12,7 @@ export const sylviaDaleyMyOwnRulesMyOwnRules = {
   title: "My Own Rules",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
+  trackArtist: [{ artist: "artist/sylvia-daley" }],
   trackKey: "myownrules|03dXd2zBbBJvX60Oap8Lgo|154187",
   song: "song/sylvia-daley-my-own-rules",
   carriedBy: [

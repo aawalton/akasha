@@ -12,7 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionFifteen = {
   title: "Fifteen",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "fifteen|06HL4z0CvFAxyc27GXpf02|294346",
   song: "song/taylor-swift-fifteen",
   carriedBy: [

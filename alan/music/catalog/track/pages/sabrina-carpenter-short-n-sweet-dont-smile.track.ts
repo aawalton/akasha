@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetDontSmile = {
   title: "Don’t Smile",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "dontsmile|74KM79TiuVKeVCqs8QtB0B|206295",
   song: "song/sabrina-carpenter-dont-smile",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionForeverAlways = {
   title: "Forever & Always",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "foreveralways|06HL4z0CvFAxyc27GXpf02|225333",
   song: "song/taylor-swift-forever-always",
   carriedBy: [

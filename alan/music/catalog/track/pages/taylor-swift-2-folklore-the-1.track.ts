@@ -12,7 +12,7 @@ export const taylorSwift2FolkloreThe1 = {
   title: "the 1",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "the1|06HL4z0CvFAxyc27GXpf02|210251",
   song: "song/taylor-swift-the-1",
   carriedBy: [

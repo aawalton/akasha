@@ -12,7 +12,7 @@ export const taylorSwift2RedDeluxeEditionStateOfGraceAcoustic = {
   title: "State Of Grace - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "stateofgraceacoustic|06HL4z0CvFAxyc27GXpf02|323080",
   song: "song/taylor-swift-state-of-grace",
   carriedBy: [

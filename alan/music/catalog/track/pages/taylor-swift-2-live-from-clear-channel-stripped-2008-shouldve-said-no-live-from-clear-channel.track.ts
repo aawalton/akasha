@@ -12,7 +12,7 @@ export const taylorSwift2LiveFromClearChannelStripped2008ShouldveSaidNoLiveFromC
   title: "Should've Said No - Live From Clear Channel Stripped 2008",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "shouldvesaidnolivefromclearchannelstripped2008|06HL4z0CvFAxyc27GXpf02|228473",
   song: "song/taylor-swift-should-ve-said-no",
   carriedBy: [

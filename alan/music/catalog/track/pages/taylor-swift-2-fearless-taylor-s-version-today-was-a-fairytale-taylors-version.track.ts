@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionTodayWasAFairytaleTaylorsVersion 
   title: "Today Was A Fairytale (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "todaywasafairytaletaylorsversion|06HL4z0CvFAxyc27GXpf02|241822",
   song: "song/taylor-swift-today-was-a-fairytale",
   carriedBy: [

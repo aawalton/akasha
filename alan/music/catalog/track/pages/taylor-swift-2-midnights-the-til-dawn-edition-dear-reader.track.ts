@@ -15,7 +15,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionDearReader = {
   title: "Dear Reader",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dearreader|06HL4z0CvFAxyc27GXpf02|225194",
   song: "song/taylor-swift-dear-reader",
   carriedBy: [

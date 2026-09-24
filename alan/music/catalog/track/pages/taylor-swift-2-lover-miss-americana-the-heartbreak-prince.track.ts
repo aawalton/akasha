@@ -12,7 +12,7 @@ export const taylorSwift2LoverMissAmericanaTheHeartbreakPrince = {
   title: "Miss Americana & The Heartbreak Prince",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "missamericanatheheartbreakprince|06HL4z0CvFAxyc27GXpf02|234146",
   song: "song/taylor-swift-miss-americana-the-heartbreak-prince",
   carriedBy: [

@@ -15,7 +15,7 @@ export const sabrinaCarpenterManSBestFriendHouseTour = {
   title: "House Tour",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "housetour|74KM79TiuVKeVCqs8QtB0B|169214",
   song: "song/sabrina-carpenter-house-tour",
   carriedBy: [

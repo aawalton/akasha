@@ -13,9 +13,9 @@ export const sabrinaCarpenterOnMyWayOnMyWay = {
   trackType: "studio",
   explicit: true,
   trackArtist: [
-    { externalId: "7vk5e3vY1uw9plTHJAMwjN", artistName: "Alan Walker" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "329e4yvIujISKGKz1BZZbO", artistName: "Farruko" },
+    { artistName: "Alan Walker" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "Farruko" },
   ],
   trackKey: "onmyway|329e4yvIujISKGKz1BZZbO,74KM79TiuVKeVCqs8QtB0B,7vk5e3vY1uw9plTHJAMwjN|193797",
   song: "song/sabrina-carpenter-on-my-way",

@@ -16,7 +16,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionBejeweled = {
   title: "Bejeweled",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "bejeweled|06HL4z0CvFAxyc27GXpf02|194165",
   song: "song/taylor-swift-bejeweled",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionMessageInABottleTaylorsVersionFromTheV
   title: "Message In A Bottle (Taylor's Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "messageinabottletaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|225960",
   song: "song/taylor-swift-message-in-a-bottle-from-the-vault",
   carriedBy: [

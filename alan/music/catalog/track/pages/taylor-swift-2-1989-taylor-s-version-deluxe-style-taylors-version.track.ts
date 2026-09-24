@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeStyleTaylorsVersion = {
   title: "Style (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "styletaylorsversion|06HL4z0CvFAxyc27GXpf02|231000",
   song: "song/taylor-swift-style",
   carriedBy: [

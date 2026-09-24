@@ -12,7 +12,7 @@ export const taylorSwift2ReputationDontBlameMe = {
   title: "Don’t Blame Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dontblameme|06HL4z0CvFAxyc27GXpf02|236413",
   song: "song/taylor-swift-don-t-blame-me",
   carriedBy: [

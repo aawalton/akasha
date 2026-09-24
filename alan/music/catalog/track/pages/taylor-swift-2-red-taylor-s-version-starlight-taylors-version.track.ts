@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionStarlightTaylorsVersion = {
   title: "Starlight (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "starlighttaylorsversion|06HL4z0CvFAxyc27GXpf02|220413",
   song: "song/taylor-swift-starlight",
   carriedBy: [

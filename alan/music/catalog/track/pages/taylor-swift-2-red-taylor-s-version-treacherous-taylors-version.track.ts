@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionTreacherousTaylorsVersion = {
   title: "Treacherous (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "treacheroustaylorsversion|06HL4z0CvFAxyc27GXpf02|242720",
   song: "song/taylor-swift-treacherous",
   carriedBy: [

@@ -13,9 +13,9 @@ export const sabrinaCarpenterILlBeHomeForChristmasIllBeHomeForChristmas = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "6KxBixTtWRYyojmIvlFvjD", artistName: "Ali Brustofski" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "5uLFfLEAeIwKrgRtpfKAzq", artistName: "Danielle Lowe" },
+    { artistName: "Ali Brustofski" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "Danielle Lowe" },
   ],
   trackKey:
     "illbehomeforchristmas|5uLFfLEAeIwKrgRtpfKAzq,6KxBixTtWRYyojmIvlFvjD,74KM79TiuVKeVCqs8QtB0B|215132",

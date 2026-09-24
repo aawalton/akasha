@@ -12,7 +12,7 @@ export const sylviaDaleyRubikSCubeRubiksCube = {
   title: "Rubik's Cube",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
+  trackArtist: [{ artist: "artist/sylvia-daley" }],
   trackKey: "rubikscube|03dXd2zBbBJvX60Oap8Lgo|152039",
   song: "song/sylvia-daley-rubiks-cube",
   carriedBy: [

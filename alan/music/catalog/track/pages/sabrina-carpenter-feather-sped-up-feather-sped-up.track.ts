@@ -12,7 +12,7 @@ export const sabrinaCarpenterFeatherSpedUpFeatherSpedUp = {
   title: "Feather - Sped Up",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "featherspedup|74KM79TiuVKeVCqs8QtB0B|153087",
   song: "song/sabrina-carpenter-feather",
   carriedBy: [

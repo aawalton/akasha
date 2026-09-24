@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionAllTooWell10MinuteVersionTaylorsVersio
   title: "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "alltoowell10minuteversiontaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|613026",
   song: "song/taylor-swift-all-too-well-from-the-vault",
   carriedBy: [

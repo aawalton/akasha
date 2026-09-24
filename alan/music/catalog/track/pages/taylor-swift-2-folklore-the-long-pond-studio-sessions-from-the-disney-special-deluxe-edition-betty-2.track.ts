@@ -15,7 +15,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
     title: "betty - the long pond studio sessions",
     trackType: "live",
     explicit: true,
-    trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+    trackArtist: [{ artist: "artist/taylor-swift" }],
     trackKey: "bettythelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|290040",
     song: "song/taylor-swift-betty-the-long-pond-studio-sessions",
     carriedBy: [

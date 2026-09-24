@@ -13,9 +13,9 @@ export const taylorSwift2DelicateSawyrAndRyanTedderMixDelicateSawyrAndRyanTedder
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "0IvBGOcv9xzgOrgGQGMMgp", artistName: "Sawyr" },
-    { externalId: "4we5S2VLjgY9KzIzApL1KI", artistName: "Ryan Tedder" },
+    { artist: "artist/taylor-swift" },
+    { artistName: "Sawyr" },
+    { artistName: "Ryan Tedder" },
   ],
   trackKey:
     "delicatesawyrandryanteddermix|06HL4z0CvFAxyc27GXpf02,0IvBGOcv9xzgOrgGQGMMgp,4we5S2VLjgY9KzIzApL1KI|184281",

@@ -12,7 +12,7 @@ export const taylorSwift2RedIKnewYouWereTrouble = {
   title: "I Knew You Were Trouble.",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "iknewyouweretrouble|06HL4z0CvFAxyc27GXpf02|217973",
   song: "song/taylor-swift-i-knew-you-were-trouble",
   carriedBy: [

@@ -13,9 +13,9 @@ export const sabrinaCarpenterEspressoWorkingLateRemixesEspressoMarkRonsonXFnzWor
   trackType: "remix",
   explicit: true,
   trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "3hv9jJF3adDNsBSIQDqcjp", artistName: "Mark Ronson" },
-    { externalId: "4lA6HCQmWfI4cRWyo2xmlK", artistName: "FNZ" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "Mark Ronson" },
+    { artistName: "FNZ" },
   ],
   trackKey:
     "espressomarkronsonxfnzworkinglaterremix|3hv9jJF3adDNsBSIQDqcjp,4lA6HCQmWfI4cRWyo2xmlK,74KM79TiuVKeVCqs8QtB0B|338179",

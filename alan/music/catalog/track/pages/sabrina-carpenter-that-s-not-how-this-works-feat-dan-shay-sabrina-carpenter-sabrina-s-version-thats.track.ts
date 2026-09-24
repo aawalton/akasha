@@ -15,9 +15,9 @@ export const sabrinaCarpenterThatSNotHowThisWorksFeatDanShaySabrinaCarpenterSabr
   trackType: "version",
   explicit: false,
   trackArtist: [
-    { externalId: "6VuMaDnrHyPL1p4EHjYLi7", artistName: "Charlie Puth" },
-    { externalId: "7z5WFjZAIYejWy0NI5lv4T", artistName: "Dan + Shay" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
+    { artistName: "Charlie Puth" },
+    { artistName: "Dan + Shay" },
+    { artist: "artist/sabrina-carpenter" },
   ],
   trackKey:
     "thatsnothowthisworksfeatdanshaysabrinacarpentersabrinasversion|6VuMaDnrHyPL1p4EHjYLi7,74KM79TiuVKeVCqs8QtB0B,7z5WFjZAIYejWy0NI5lv4T|166640",

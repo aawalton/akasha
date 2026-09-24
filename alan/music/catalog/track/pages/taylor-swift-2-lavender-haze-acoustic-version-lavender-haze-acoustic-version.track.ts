@@ -12,7 +12,7 @@ export const taylorSwift2LavenderHazeAcousticVersionLavenderHazeAcousticVersion 
   title: "Lavender Haze - Acoustic Version",
   trackType: "acoustic",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "lavenderhazeacousticversion|06HL4z0CvFAxyc27GXpf02|174375",
   song: "song/taylor-swift-lavender-haze",
   carriedBy: [

@@ -14,7 +14,7 @@ export const taylorSwift2AllTooWellSadGirlAutumnVersionRecordedAtLongPondStudios
   title: "All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "alltoowellsadgirlautumnversionrecordedatlongpondstudios|06HL4z0CvFAxyc27GXpf02|598150",
   song: "song/taylor-swift-all-too-well-recorded-at-long-pond-studios",
   carriedBy: [

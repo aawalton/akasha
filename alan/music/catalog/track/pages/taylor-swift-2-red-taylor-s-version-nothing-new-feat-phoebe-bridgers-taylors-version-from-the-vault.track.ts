@@ -12,10 +12,7 @@ export const taylorSwift2RedTaylorSVersionNothingNewFeatPhoebeBridgersTaylorsVer
   title: "Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "1r1uxoy19fzMxunt3ONAkG", artistName: "Phoebe Bridgers" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artist: "artist/phoebe-bridgers" }],
   trackKey:
     "nothingnewfeatphoebebridgerstaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02,1r1uxoy19fzMxunt3ONAkG|258812",
   song: "song/taylor-swift-nothing-new-from-the-vault",

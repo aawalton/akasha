@@ -14,7 +14,7 @@ export const taylorSwift2BettyLiveFromThe2020AcademyOfCountryMusicAwardsBettyLiv
   title: "betty - Live from the 2020 Academy of Country Music Awards",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "bettylivefromthe2020academyofcountrymusicawards|06HL4z0CvFAxyc27GXpf02|312138",
   song: "song/taylor-swift-betty",
   carriedBy: [

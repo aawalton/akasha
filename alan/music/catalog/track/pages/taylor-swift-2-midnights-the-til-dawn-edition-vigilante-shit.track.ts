@@ -16,7 +16,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionVigilanteShit = {
   title: "Vigilante Shit",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "vigilanteshit|06HL4z0CvFAxyc27GXpf02|164801",
   song: "song/taylor-swift-vigilante-shit",
   carriedBy: [

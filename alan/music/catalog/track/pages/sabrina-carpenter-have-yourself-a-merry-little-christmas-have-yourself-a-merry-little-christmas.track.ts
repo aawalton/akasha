@@ -12,7 +12,7 @@ export const sabrinaCarpenterHaveYourselfAMerryLittleChristmasHaveYourselfAMerry
   title: "Have Yourself a Merry Little Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "haveyourselfamerrylittlechristmas|74KM79TiuVKeVCqs8QtB0B|226713",
   song: "song/coldplay-have-yourself-a-merry-little-christmas",
   carriedBy: [

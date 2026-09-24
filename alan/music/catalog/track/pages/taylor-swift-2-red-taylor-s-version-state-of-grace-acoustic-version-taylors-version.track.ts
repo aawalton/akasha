@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionStateOfGraceAcousticVersionTaylorsVers
   title: "State Of Grace (Acoustic Version) (Taylor's Version)",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "stateofgraceacousticversiontaylorsversion|06HL4z0CvFAxyc27GXpf02|321640",
   song: "song/taylor-swift-state-of-grace",
   carriedBy: [

@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetDeluxeBedChem = {
   title: "Bed Chem",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "bedchem|74KM79TiuVKeVCqs8QtB0B|171880",
   song: "song/sabrina-carpenter-bed-chem",
   carriedBy: [

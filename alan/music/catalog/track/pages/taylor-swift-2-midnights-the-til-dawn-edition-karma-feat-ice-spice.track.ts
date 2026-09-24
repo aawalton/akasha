@@ -12,10 +12,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionKarmaFeatIceSpice = {
   title: "Karma (feat. Ice Spice)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "3LZZPxNDGDFVSIPqf4JuEf", artistName: "Ice Spice" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Ice Spice" }],
   trackKey: "karmafeaticespice|06HL4z0CvFAxyc27GXpf02,3LZZPxNDGDFVSIPqf4JuEf|201493",
   song: "song/taylor-swift-karma",
   carriedBy: [

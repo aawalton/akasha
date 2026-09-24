@@ -12,7 +12,7 @@ export const taylorSwift2LiveFromClearChannelStripped2008PictureToBurnLiveFromCl
   title: "Picture To Burn - Live From Clear Channel Stripped 2008",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "picturetoburnlivefromclearchannelstripped2008|06HL4z0CvFAxyc27GXpf02|173899",
   song: "song/taylor-swift-picture-to-burn",
   carriedBy: [

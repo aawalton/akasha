@@ -12,7 +12,7 @@ export const taylorSwift2LiveFromClearChannelStripped2008LoveStoryLiveFromClearC
   title: "Love Story - Live From Clear Channel Stripped 2008",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "lovestorylivefromclearchannelstripped2008|06HL4z0CvFAxyc27GXpf02|221028",
   song: "song/taylor-swift-love-story",
   carriedBy: [

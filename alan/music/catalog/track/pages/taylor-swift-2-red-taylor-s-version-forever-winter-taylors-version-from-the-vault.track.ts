@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionForeverWinterTaylorsVersionFromTheVaul
   title: "Forever Winter (Taylor's Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "foreverwintertaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|263533",
   song: "song/taylor-swift-forever-winter-from-the-vault",
   carriedBy: [

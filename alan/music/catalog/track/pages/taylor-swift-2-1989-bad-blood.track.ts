@@ -12,7 +12,7 @@ export const taylorSwift21989BadBlood = {
   title: "Bad Blood",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "badblood|06HL4z0CvFAxyc27GXpf02|211933",
   song: "song/taylor-swift-bad-blood",
   carriedBy: [

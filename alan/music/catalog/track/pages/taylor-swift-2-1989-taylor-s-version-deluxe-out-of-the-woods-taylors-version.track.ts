@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeOutOfTheWoodsTaylorsVersion = {
   title: "Out Of The Woods (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "outofthewoodstaylorsversion|06HL4z0CvFAxyc27GXpf02|235800",
   song: "song/taylor-swift-out-of-the-woods",
   carriedBy: [

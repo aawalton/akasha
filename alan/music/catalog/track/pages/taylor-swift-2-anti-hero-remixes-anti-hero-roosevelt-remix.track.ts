@@ -12,10 +12,7 @@ export const taylorSwift2AntiHeroRemixesAntiHeroRooseveltRemix = {
   title: "Anti-Hero - Roosevelt Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "4AQrqVz6BYwy29iMxcGtx7", artistName: "Roosevelt" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Roosevelt" }],
   trackKey: "antiherorooseveltremix|06HL4z0CvFAxyc27GXpf02,4AQrqVz6BYwy29iMxcGtx7|299203",
   song: "song/taylor-swift-anti-hero",
   carriedBy: [

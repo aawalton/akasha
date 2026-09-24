@@ -15,7 +15,7 @@ export const taylorSwift2EyesOpenTaylorSVersionEyesOpenTaylorsVersion = {
   title: "Eyes Open (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "eyesopentaylorsversion|06HL4z0CvFAxyc27GXpf02|243264",
   song: "song/taylor-swift-eyes-open",
   carriedBy: [

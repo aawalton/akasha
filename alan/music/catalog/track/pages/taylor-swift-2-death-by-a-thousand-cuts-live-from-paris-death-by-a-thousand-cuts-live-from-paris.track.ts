@@ -12,7 +12,7 @@ export const taylorSwift2DeathByAThousandCutsLiveFromParisDeathByAThousandCutsLi
   title: "Death By A Thousand Cuts - Live From Paris",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "deathbyathousandcutslivefromparis|06HL4z0CvFAxyc27GXpf02|199066",
   song: "song/taylor-swift-death-by-a-thousand-cuts",
   carriedBy: [

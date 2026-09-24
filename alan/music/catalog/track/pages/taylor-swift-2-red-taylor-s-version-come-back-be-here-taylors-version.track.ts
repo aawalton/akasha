@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionComeBackBeHereTaylorsVersion = {
   title: "Come Back...Be Here (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "comebackbeheretaylorsversion|06HL4z0CvFAxyc27GXpf02|223333",
   song: "song/taylor-swift-come-back-be-here",
   carriedBy: [

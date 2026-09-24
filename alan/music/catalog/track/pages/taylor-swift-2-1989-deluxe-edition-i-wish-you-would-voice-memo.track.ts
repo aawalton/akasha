@@ -12,7 +12,7 @@ export const taylorSwift21989DeluxeEditionIWishYouWouldVoiceMemo = {
   title: "I Wish You Would - Voice Memo",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "iwishyouwouldvoicememo|06HL4z0CvFAxyc27GXpf02|107133",
   song: "song/taylor-swift-i-wish-you-would-voice-memo",
   carriedBy: [

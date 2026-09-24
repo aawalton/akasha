@@ -12,7 +12,7 @@ export const taylorSwift21989AllYouHadToDoWasStay = {
   title: "All You Had To Do Was Stay",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "allyouhadtodowasstay|06HL4z0CvFAxyc27GXpf02|193293",
   song: "song/taylor-swift-all-you-had-to-do-was-stay",
   carriedBy: [

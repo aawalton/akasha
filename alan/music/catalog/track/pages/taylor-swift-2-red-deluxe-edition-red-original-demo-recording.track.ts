@@ -12,7 +12,7 @@ export const taylorSwift2RedDeluxeEditionRedOriginalDemoRecording = {
   title: "Red - Original Demo Recording",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "redoriginaldemorecording|06HL4z0CvFAxyc27GXpf02|226280",
   song: "song/taylor-swift-red",
   carriedBy: [

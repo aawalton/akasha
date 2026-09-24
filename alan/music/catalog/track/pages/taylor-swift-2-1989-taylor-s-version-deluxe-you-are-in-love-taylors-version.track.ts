@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeYouAreInLoveTaylorsVersion = {
   title: "You Are In Love (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "youareinlovetaylorsversion|06HL4z0CvFAxyc27GXpf02|267389",
   song: "song/taylor-swift-you-are-in-love",
   carriedBy: [

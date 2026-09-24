@@ -15,7 +15,7 @@ export const taylorSwift2FearlessTaylorSVersionMrPerfectlyFineTaylorsVersionFrom
   title: "Mr. Perfectly Fine (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "mrperfectlyfinetaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|277591",
   song: "song/taylor-swift-mr-perfectly-fine-from-the-vault",
   carriedBy: [

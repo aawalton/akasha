@@ -12,7 +12,7 @@ export const sabrinaCarpenterFruitcakeSantaDoesntKnowYouLikeIDo = {
   title: "santa doesn’t know you like i do",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "santadoesntknowyoulikeido|74KM79TiuVKeVCqs8QtB0B|189753",
   song: "song/sabrina-carpenter-santa-doesnt-know-you-like-i-do",
   carriedBy: [

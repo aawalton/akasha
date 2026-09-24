@@ -14,10 +14,7 @@ export const taylorSwift2MessageInABottleFatMaxGRemixTaylorSVersionMessageInABot
   title: "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "4FJvChnzwDxBkD1jzSjNPq", artistName: "Fat Max Gsus" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Fat Max Gsus" }],
   trackKey:
     "messageinabottlefatmaxgremixtaylorsversion|06HL4z0CvFAxyc27GXpf02,4FJvChnzwDxBkD1jzSjNPq|224649",
   song: "song/taylor-swift-message-in-a-bottle",

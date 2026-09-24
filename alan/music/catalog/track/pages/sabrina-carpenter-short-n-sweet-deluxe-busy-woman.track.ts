@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetDeluxeBusyWoman = {
   title: "Busy Woman",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "busywoman|74KM79TiuVKeVCqs8QtB0B|186612",
   song: "song/sabrina-carpenter-busy-woman",
   carriedBy: [

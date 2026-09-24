@@ -12,10 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionThatsWhenFeatKeithUrbanTaylorsVer
   title: "That’s When (feat. Keith Urban) (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "0u2FHSq3ln94y5Q57xazwf", artistName: "Keith Urban" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Keith Urban" }],
   trackKey:
     "thatswhenfeatkeithurbantaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02,0u2FHSq3ln94y5Q57xazwf|189495",
   song: "song/taylor-swift-thats-when-from-the-vault",

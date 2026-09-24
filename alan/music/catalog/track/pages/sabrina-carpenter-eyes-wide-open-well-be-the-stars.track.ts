@@ -12,7 +12,7 @@ export const sabrinaCarpenterEyesWideOpenWellBeTheStars = {
   title: "We'll Be The Stars",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "wellbethestars|74KM79TiuVKeVCqs8QtB0B|186880",
   song: "song/sabrina-carpenter-well-be-the-stars",
   carriedBy: [

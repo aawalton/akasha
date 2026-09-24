@@ -12,10 +12,7 @@ export const taylorSwift2LoverSoonYoullGetBetterFeatTheChicks = {
   title: "Soon You’ll Get Better (feat. The Chicks)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "25IG9fa7cbdmCIy3OnuH57", artistName: "The Chicks" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "The Chicks" }],
   trackKey: "soonyoullgetbetterfeatthechicks|06HL4z0CvFAxyc27GXpf02,25IG9fa7cbdmCIy3OnuH57|201586",
   song: "song/taylor-swift-soon-you-ll-get-better",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2RedAllTooWell = {
   title: "All Too Well",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "alltoowell|06HL4z0CvFAxyc27GXpf02|327893",
   song: "song/taylor-swift-all-too-well",
   carriedBy: [

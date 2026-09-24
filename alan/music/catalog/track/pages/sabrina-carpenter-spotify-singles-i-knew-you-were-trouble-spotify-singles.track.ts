@@ -12,7 +12,7 @@ export const sabrinaCarpenterSpotifySinglesIKnewYouWereTroubleSpotifySingles = {
   title: "I Knew You Were Trouble - Spotify Singles",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "iknewyouweretroublespotifysingles|74KM79TiuVKeVCqs8QtB0B|233617",
   song: "song/sabrina-carpenter-i-knew-you-were-trouble-spotify-singles",
   carriedBy: [

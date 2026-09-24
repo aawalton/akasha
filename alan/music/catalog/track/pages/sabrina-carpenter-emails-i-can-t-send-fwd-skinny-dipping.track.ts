@@ -17,7 +17,7 @@ export const sabrinaCarpenterEmailsICanTSendFwdSkinnyDipping = {
   title: "skinny dipping",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "skinnydipping|74KM79TiuVKeVCqs8QtB0B|177750",
   song: "song/sabrina-carpenter-skinny-dipping",
   carriedBy: [

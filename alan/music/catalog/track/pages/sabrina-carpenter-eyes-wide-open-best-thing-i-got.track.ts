@@ -12,7 +12,7 @@ export const sabrinaCarpenterEyesWideOpenBestThingIGot = {
   title: "Best Thing I Got",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "bestthingigot|74KM79TiuVKeVCqs8QtB0B|199280",
   song: "song/sabrina-carpenter-best-thing-i-got",
   carriedBy: [

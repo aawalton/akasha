@@ -12,10 +12,7 @@ export const sabrinaCarpenterSueMeRemixesSueMe6amRemix = {
   title: "Sue Me - 6am Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "0bUZrFj7rstq07E4iAJHgZ", artistName: "KC Lights" },
-  ],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }, { artistName: "KC Lights" }],
   trackKey: "sueme6amremix|0bUZrFj7rstq07E4iAJHgZ,74KM79TiuVKeVCqs8QtB0B|173500",
   song: "song/sabrina-carpenter-sue-me",
   carriedBy: [

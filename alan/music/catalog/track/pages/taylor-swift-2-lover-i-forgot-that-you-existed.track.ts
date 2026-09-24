@@ -12,7 +12,7 @@ export const taylorSwift2LoverIForgotThatYouExisted = {
   title: "I Forgot That You Existed",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "iforgotthatyouexisted|06HL4z0CvFAxyc27GXpf02|170640",
   song: "song/taylor-swift-i-forgot-that-you-existed",
   carriedBy: [

@@ -14,7 +14,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "my tears ricochet - the long pond studio sessions",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "mytearsricochetthelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|295173",
   song: "song/taylor-swift-my-tears-ricochet-the-long-pond-studio-sessions",
   carriedBy: [

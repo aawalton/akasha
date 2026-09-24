@@ -16,7 +16,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionYoureOnYourOwnKid = {
   title: "You're On Your Own, Kid",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "youreonyourownkid|06HL4z0CvFAxyc27GXpf02|194206",
   song: "song/taylor-swift-you-re-on-your-own-kid",
   carriedBy: [

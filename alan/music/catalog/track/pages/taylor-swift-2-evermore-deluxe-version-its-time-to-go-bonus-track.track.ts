@@ -12,7 +12,7 @@ export const taylorSwift2EvermoreDeluxeVersionItsTimeToGoBonusTrack = {
   title: "it’s time to go - bonus track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "itstimetogobonustrack|06HL4z0CvFAxyc27GXpf02|254640",
   song: "song/taylor-swift-its-time-to-go-bonus-track",
   carriedBy: [

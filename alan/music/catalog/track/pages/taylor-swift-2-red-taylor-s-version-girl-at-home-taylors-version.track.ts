@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionGirlAtHomeTaylorsVersion = {
   title: "Girl At Home (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "girlathometaylorsversion|06HL4z0CvFAxyc27GXpf02|220520",
   song: "song/taylor-swift-girl-at-home",
   carriedBy: [

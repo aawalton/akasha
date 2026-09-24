@@ -12,7 +12,7 @@ export const taylorSwift2LoverTheMan = {
   title: "The Man",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "theman|06HL4z0CvFAxyc27GXpf02|190360",
   song: "song/taylor-swift-the-man",
   carriedBy: [

@@ -15,10 +15,7 @@ export const taylorSwift2FearlessTaylorSVersionYouAllOverMeFeatMarenMorrisTaylor
   title: "You All Over Me (feat. Maren Morris) (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6WY7D3jk8zTrHtmkqqo5GI", artistName: "Maren Morris" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Maren Morris" }],
   trackKey:
     "youallovermefeatmarenmorristaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02,6WY7D3jk8zTrHtmkqqo5GI|220839",
   song: "song/taylor-swift-you-all-over-me-from-the-vault",

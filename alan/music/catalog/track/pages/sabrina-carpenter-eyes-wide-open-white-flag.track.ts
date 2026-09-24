@@ -12,7 +12,7 @@ export const sabrinaCarpenterEyesWideOpenWhiteFlag = {
   title: "White Flag",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "whiteflag|74KM79TiuVKeVCqs8QtB0B|198386",
   song: "song/sabrina-carpenter-white-flag",
   carriedBy: [

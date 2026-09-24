@@ -16,7 +16,7 @@ export const taylorSwift2FearlessTaylorSVersionLoveStoryTaylorsVersion = {
   title: "Love Story (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "lovestorytaylorsversion|06HL4z0CvFAxyc27GXpf02|235766",
   song: "song/taylor-swift-love-story",
   carriedBy: [

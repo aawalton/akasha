@@ -12,10 +12,7 @@ export const taylorSwift2LoverRemixFeatShawnMendesLoverRemixFeatShawnMendes = {
   title: "Lover (Remix) [feat. Shawn Mendes]",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "7n2wHs1TKAczGzO7Dd2rGr", artistName: "Shawn Mendes" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Shawn Mendes" }],
   trackKey: "loverremixfeatshawnmendes|06HL4z0CvFAxyc27GXpf02,7n2wHs1TKAczGzO7Dd2rGr|221306",
   song: "song/taylor-swift-lover",
   carriedBy: [

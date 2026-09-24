@@ -12,7 +12,7 @@ export const taylorSwift2OnlyTheYoungFeaturedInMissAmericanaOnlyTheYoungFeatured
   title: "Only The Young - Featured in Miss Americana",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "onlytheyoungfeaturedinmissamericana|06HL4z0CvFAxyc27GXpf02|157507",
   song: "song/taylor-swift-only-the-young-featured-in-miss-americana",
   carriedBy: [

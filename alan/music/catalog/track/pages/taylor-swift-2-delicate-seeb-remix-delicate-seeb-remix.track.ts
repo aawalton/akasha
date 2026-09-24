@@ -12,10 +12,7 @@ export const taylorSwift2DelicateSeebRemixDelicateSeebRemix = {
   title: "Delicate - Seeb Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "5iNrZmtVMtYev5M9yoWpEq", artistName: "Seeb" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Seeb" }],
   trackKey: "delicateseebremix|06HL4z0CvFAxyc27GXpf02,5iNrZmtVMtYev5M9yoWpEq|173265",
   song: "song/taylor-swift-delicate",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2MeLiveFromParisMeLiveFromParis = {
   title: "ME! - Live From Paris",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "melivefromparis|06HL4z0CvFAxyc27GXpf02|213026",
   song: "song/taylor-swift-me",
   carriedBy: [

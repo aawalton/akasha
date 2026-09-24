@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistHeyStephen = {
   title: "Hey Stephen",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "heystephen|06HL4z0CvFAxyc27GXpf02|256040",
   song: "song/taylor-swift-hey-stephen",
   carriedBy: [

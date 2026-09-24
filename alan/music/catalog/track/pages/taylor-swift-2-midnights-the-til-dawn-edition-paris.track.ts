@@ -15,7 +15,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionParis = {
   title: "Paris",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "paris|06HL4z0CvFAxyc27GXpf02|196258",
   song: "song/taylor-swift-paris",
   carriedBy: [

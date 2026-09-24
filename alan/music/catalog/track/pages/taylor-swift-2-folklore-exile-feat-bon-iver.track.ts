@@ -12,10 +12,7 @@ export const taylorSwift2FolkloreExileFeatBonIver = {
   title: "exile (feat. Bon Iver)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "4LEiUm1SRbFMgfqnQTwUbQ", artistName: "Bon Iver" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Bon Iver" }],
   trackKey: "exilefeatboniver|06HL4z0CvFAxyc27GXpf02,4LEiUm1SRbFMgfqnQTwUbQ|285634",
   song: "song/taylor-swift-exile",
   carriedBy: [

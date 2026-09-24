@@ -12,7 +12,7 @@ export const taylorSwift2RedTheLuckyOne = {
   title: "The Lucky One",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "theluckyone|06HL4z0CvFAxyc27GXpf02|240133",
   song: "song/taylor-swift-the-lucky-one",
   carriedBy: [

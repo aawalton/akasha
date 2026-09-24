@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionBabeTaylorsVersionFromTheVault = {
   title: "Babe (Taylor's Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "babetaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|224240",
   song: "song/taylor-swift-babe-from-the-vault",
   carriedBy: [

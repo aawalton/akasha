@@ -15,7 +15,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionGlitch = {
   title: "Glitch",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "glitch|06HL4z0CvFAxyc27GXpf02|148781",
   song: "song/taylor-swift-glitch",
   carriedBy: [

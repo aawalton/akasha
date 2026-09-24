@@ -14,10 +14,7 @@ export const sabrinaCarpenterTakeOnTheWorldFromGirlMeetsWorldSummerRemixTakeOnTh
   title: 'Take On the World - From "Girl Meets World"/Summer Remix/Music from the TV Series',
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "45af7IeC0N5gQ9cyoIFyS6", artistName: "Rowan Blanchard" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artistName: "Rowan Blanchard" }, { artist: "artist/sabrina-carpenter" }],
   trackKey:
     "takeontheworldfromgirlmeetsworldsummerremixmusicfromthetvseries|45af7IeC0N5gQ9cyoIFyS6,74KM79TiuVKeVCqs8QtB0B|179453",
   song: "song/sabrina-carpenter-take-on-the-world",

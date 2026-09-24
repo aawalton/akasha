@@ -12,7 +12,7 @@ export const taylorSwift2FearlessYouBelongWithMe = {
   title: "You Belong With Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "youbelongwithme|06HL4z0CvFAxyc27GXpf02|231133",
   song: "song/taylor-swift-you-belong-with-me",
   carriedBy: [

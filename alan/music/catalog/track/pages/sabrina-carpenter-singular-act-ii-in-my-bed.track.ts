@@ -12,7 +12,7 @@ export const sabrinaCarpenterSingularActIiInMyBed = {
   title: "In My Bed",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "inmybed|74KM79TiuVKeVCqs8QtB0B|189980",
   song: "song/sabrina-carpenter-in-my-bed",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistNeverGrowUp = 
   title: "Never Grow Up",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "nevergrowup|06HL4z0CvFAxyc27GXpf02|292920",
   song: "song/taylor-swift-never-grow-up",
   carriedBy: [

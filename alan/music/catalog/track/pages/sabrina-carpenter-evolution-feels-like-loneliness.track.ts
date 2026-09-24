@@ -12,7 +12,7 @@ export const sabrinaCarpenterEvolutionFeelsLikeLoneliness = {
   title: "Feels Like Loneliness",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "feelslikeloneliness|74KM79TiuVKeVCqs8QtB0B|200573",
   song: "song/sabrina-carpenter-feels-like-loneliness",
   carriedBy: [

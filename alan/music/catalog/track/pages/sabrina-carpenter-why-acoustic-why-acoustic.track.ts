@@ -12,7 +12,7 @@ export const sabrinaCarpenterWhyAcousticWhyAcoustic = {
   title: "Why - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "whyacoustic|74KM79TiuVKeVCqs8QtB0B|184500",
   song: "song/sabrina-carpenter-why",
   carriedBy: [

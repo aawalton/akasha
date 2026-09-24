@@ -12,10 +12,7 @@ export const taylorSwift2RedTaylorSVersionEverythingHasChangedFeatEdSheeranTaylo
   title: "Everything Has Changed (feat. Ed Sheeran) (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6eUKZXaKkcviH0Ku9w2n3V", artistName: "Ed Sheeran" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Ed Sheeran" }],
   trackKey:
     "everythinghaschangedfeatedsheerantaylorsversion|06HL4z0CvFAxyc27GXpf02,6eUKZXaKkcviH0Ku9w2n3V|245426",
   song: "song/taylor-swift-everything-has-changed",

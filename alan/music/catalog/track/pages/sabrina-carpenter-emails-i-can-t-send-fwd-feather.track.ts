@@ -15,7 +15,7 @@ export const sabrinaCarpenterEmailsICanTSendFwdFeather = {
   title: "Feather",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "feather|74KM79TiuVKeVCqs8QtB0B|185552",
   song: "song/sabrina-carpenter-feather",
   carriedBy: [

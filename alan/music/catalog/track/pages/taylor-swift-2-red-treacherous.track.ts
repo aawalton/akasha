@@ -12,7 +12,7 @@ export const taylorSwift2RedTreacherous = {
   title: "Treacherous",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "treacherous|06HL4z0CvFAxyc27GXpf02|240773",
   song: "song/taylor-swift-treacherous",
   carriedBy: [

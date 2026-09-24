@@ -12,7 +12,7 @@ export const taylorSwift2ReputationNewYearsDay = {
   title: "New Year’s Day",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "newyearsday|06HL4z0CvFAxyc27GXpf02|235466",
   song: "song/taylor-swift-new-year-s-day",
   carriedBy: [

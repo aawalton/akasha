@@ -15,7 +15,7 @@ export const taylorSwift2FearlessTaylorSVersionWhiteHorseTaylorsVersion = {
   title: "White Horse (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "whitehorsetaylorsversion|06HL4z0CvFAxyc27GXpf02|234515",
   song: "song/taylor-swift-white-horse",
   carriedBy: [

@@ -12,10 +12,7 @@ export const taylorSwift2LoveStoryPopMixLoveStoryPopMix = {
   title: "Love Story - Pop Mix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "0WeELJ2QQlRCpebXcG85Fz", artistName: "Nathan Chapman" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Nathan Chapman" }],
   trackKey: "lovestorypopmix|06HL4z0CvFAxyc27GXpf02,0WeELJ2QQlRCpebXcG85Fz|233653",
   song: "song/taylor-swift-love-story",
   carriedBy: [

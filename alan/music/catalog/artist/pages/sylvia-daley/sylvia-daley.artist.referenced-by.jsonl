@@ -8,6 +8,13 @@
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sylvia-daley-rubiks-cube/sylvia-daley-rubiks-cube.song.ts","id":"01a0b725-adc7-7055-8db6-860f5608b9cb"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sylvia-daley-secure/sylvia-daley-secure.song.ts","id":"01a0b725-af2d-7035-b079-37bb3a3e9fa4"}
 {"propertySlug":"artist","path":"alan/music/catalog/song/pages/sylvia-daley-twinkle-twinkle/sylvia-daley-twinkle-twinkle.song.ts","id":"01a0b725-ae60-7af9-bca2-439912096079"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/sylvia-daley-contortionist-contortionist.track.ts","id":"01a0a6c3-6bc4-7687-a3e7-a2c6fb88093c"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/sylvia-daley-make-friends-make-friends.track.ts","id":"01a0a6c3-6b2d-7bfd-8952-54f22c0fb762"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/sylvia-daley-my-own-rules-my-own-rules.track.ts","id":"01a0a6c3-6c15-77a4-bd8c-95fa57b7ef1e"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/sylvia-daley-noise-cancelling-headphones-noise-cancelling-headphones.track.ts","id":"01a0a6c3-70f7-708a-a05c-98d83795f61a"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/sylvia-daley-rubik-s-cube-rubiks-cube.track.ts","id":"01a0a6c3-6f5f-7c1a-9f2a-d4cc290ddcbb"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/sylvia-daley-secure-secure.track.ts","id":"01a0a6c3-6da4-7ad1-a36d-b7aaed506317"}
+{"propertySlug":"credited-artist","path":"alan/music/catalog/track/pages/sylvia-daley-twinkle-twinkle-twinkle-twinkle.track.ts","id":"01a0a6c3-6b79-7027-be94-ac37d28baac4"}
 {"propertySlug":"import","fileName":"sylvia-daley.artist.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.test.ts"}
 {"propertySlug":"import","fileName":"sylvia-daley.artist.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"sylvia-daley.artist.ts","path":"alan/music/catalog/modules/song-matching/song-matching.module.test.ts"}

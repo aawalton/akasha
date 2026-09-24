@@ -12,7 +12,7 @@ export const taylorSwift21989Clean = {
   title: "Clean",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "clean|06HL4z0CvFAxyc27GXpf02|271000",
   song: "song/taylor-swift-clean",
   carriedBy: [

@@ -15,7 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionClosure = {
   title: "closure",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "closure|06HL4z0CvFAxyc27GXpf02|180653",
   song: "song/taylor-swift-closure",
   carriedBy: [

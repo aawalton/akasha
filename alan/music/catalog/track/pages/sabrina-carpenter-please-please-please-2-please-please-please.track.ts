@@ -12,7 +12,7 @@ export const sabrinaCarpenterPleasePleasePlease2PleasePleasePlease = {
   title: "Please Please Please",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "pleasepleaseplease|74KM79TiuVKeVCqs8QtB0B|186170",
   song: "song/sabrina-carpenter-please-please-please",
   carriedBy: [

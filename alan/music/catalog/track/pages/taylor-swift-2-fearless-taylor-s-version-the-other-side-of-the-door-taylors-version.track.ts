@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionTheOtherSideOfTheDoorTaylorsVersi
   title: "The Other Side Of The Door (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "theothersideofthedoortaylorsversion|06HL4z0CvFAxyc27GXpf02|238443",
   song: "song/taylor-swift-the-other-side-of-the-door",
   carriedBy: [

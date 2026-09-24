@@ -12,7 +12,7 @@ export const taylorSwift2ReputationCallItWhatYouWant = {
   title: "Call It What You Want",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "callitwhatyouwant|06HL4z0CvFAxyc27GXpf02|203506",
   song: "song/taylor-swift-call-it-what-you-want",
   carriedBy: [

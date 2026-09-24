@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetDeluxeCoincidence = {
   title: "Coincidence",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "coincidence|74KM79TiuVKeVCqs8QtB0B|164200",
   song: "song/sabrina-carpenter-coincidence",
   carriedBy: [

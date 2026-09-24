@@ -12,7 +12,7 @@ export const sylviaDaleyTwinkleTwinkleTwinkleTwinkle = {
   title: "Twinkle Twinkle",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "03dXd2zBbBJvX60Oap8Lgo", artistName: "Sylvia Daley" }],
+  trackArtist: [{ artist: "artist/sylvia-daley" }],
   trackKey: "twinkletwinkle|03dXd2zBbBJvX60Oap8Lgo|145714",
   song: "song/sylvia-daley-twinkle-twinkle",
   carriedBy: [

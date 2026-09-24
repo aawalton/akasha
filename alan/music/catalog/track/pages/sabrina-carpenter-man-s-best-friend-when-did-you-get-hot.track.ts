@@ -15,7 +15,7 @@ export const sabrinaCarpenterManSBestFriendWhenDidYouGetHot = {
   title: "When Did You Get Hot?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "whendidyougethot|74KM79TiuVKeVCqs8QtB0B|145398",
   song: "song/sabrina-carpenter-when-did-you-get-hot",
   carriedBy: [

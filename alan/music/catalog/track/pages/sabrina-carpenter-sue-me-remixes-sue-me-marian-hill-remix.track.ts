@@ -12,10 +12,7 @@ export const sabrinaCarpenterSueMeRemixesSueMeMarianHillRemix = {
   title: "Sue Me - Marian Hill Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "1xHQO9GJIW9OXHxGBISYc5", artistName: "Marian Hill" },
-  ],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }, { artistName: "Marian Hill" }],
   trackKey: "suememarianhillremix|1xHQO9GJIW9OXHxGBISYc5,74KM79TiuVKeVCqs8QtB0B|216842",
   song: "song/sabrina-carpenter-sue-me",
   carriedBy: [

@@ -12,10 +12,7 @@ export const taylorSwift2LoveStoryTaylorSVersionElviraRemixLoveStoryTaylorsVersi
   title: "Love Story (Taylor's Version) - Elvira Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "4nhsQ3u12To27WM6rqNEa1", artistName: "ELVIRA" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "ELVIRA" }],
   trackKey:
     "lovestorytaylorsversionelviraremix|06HL4z0CvFAxyc27GXpf02,4nhsQ3u12To27WM6rqNEa1|211857",
   song: "song/taylor-swift-love-story",

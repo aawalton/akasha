@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionStateOfGraceTaylorsVersion = {
   title: "State Of Grace (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "stateofgracetaylorsversion|06HL4z0CvFAxyc27GXpf02|295413",
   song: "song/taylor-swift-state-of-grace",
   carriedBy: [

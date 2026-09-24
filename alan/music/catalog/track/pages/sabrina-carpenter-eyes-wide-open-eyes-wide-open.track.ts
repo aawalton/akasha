@@ -12,7 +12,7 @@ export const sabrinaCarpenterEyesWideOpenEyesWideOpen = {
   title: "Eyes Wide Open",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "eyeswideopen|74KM79TiuVKeVCqs8QtB0B|192720",
   song: "song/sabrina-carpenter-eyes-wide-open",
   carriedBy: [

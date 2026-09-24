@@ -15,7 +15,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionBiggerThanTheWholeSky = {
   title: "Bigger Than The Whole Sky",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "biggerthanthewholesky|06HL4z0CvFAxyc27GXpf02|218502",
   song: "song/taylor-swift-bigger-than-the-whole-sky",
   carriedBy: [

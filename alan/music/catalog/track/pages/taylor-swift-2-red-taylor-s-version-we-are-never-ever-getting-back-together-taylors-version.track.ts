@@ -15,7 +15,7 @@ export const taylorSwift2RedTaylorSVersionWeAreNeverEverGettingBackTogetherTaylo
   title: "We Are Never Ever Getting Back Together (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "weareneverevergettingbacktogethertaylorsversion|06HL4z0CvFAxyc27GXpf02|193146",
   song: "song/taylor-swift-we-are-never-ever-getting-back-together",
   carriedBy: [

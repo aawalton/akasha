@@ -16,7 +16,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionQuestion = {
   title: "Question...?",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "question|06HL4z0CvFAxyc27GXpf02|210556",
   song: "song/taylor-swift-question",
   carriedBy: [

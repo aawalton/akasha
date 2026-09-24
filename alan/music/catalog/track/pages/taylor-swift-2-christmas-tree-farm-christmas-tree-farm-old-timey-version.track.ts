@@ -15,7 +15,7 @@ export const taylorSwift2ChristmasTreeFarmChristmasTreeFarmOldTimeyVersion = {
   title: "Christmas Tree Farm - Old Timey Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "christmastreefarmoldtimeyversion|06HL4z0CvFAxyc27GXpf02|232656",
   song: "song/taylor-swift-christmas-tree-farm",
   carriedBy: [

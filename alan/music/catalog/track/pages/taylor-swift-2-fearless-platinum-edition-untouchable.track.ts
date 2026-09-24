@@ -12,7 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionUntouchable = {
   title: "Untouchable",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "untouchable|06HL4z0CvFAxyc27GXpf02|311040",
   song: "song/taylor-swift-untouchable",
   carriedBy: [

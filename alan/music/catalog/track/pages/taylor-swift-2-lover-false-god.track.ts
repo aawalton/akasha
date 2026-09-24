@@ -12,7 +12,7 @@ export const taylorSwift2LoverFalseGod = {
   title: "False God",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "falsegod|06HL4z0CvFAxyc27GXpf02|200306",
   song: "song/taylor-swift-false-god",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionTheWayILovedYouTaylorsVersion = {
   title: "The Way I Loved You (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thewayilovedyoutaylorsversion|06HL4z0CvFAxyc27GXpf02|243136",
   song: "song/taylor-swift-the-way-i-loved-you",
   carriedBy: [

@@ -12,10 +12,7 @@ export const sabrinaCarpenterSingularActIiICantStopMe = {
   title: "I Can't Stop Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "6cK3NBO6uP7hh0oyuVELFl", artistName: "Saweetie" },
-  ],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }, { artistName: "Saweetie" }],
   trackKey: "icantstopme|6cK3NBO6uP7hh0oyuVELFl,74KM79TiuVKeVCqs8QtB0B|222101",
   song: "song/sabrina-carpenter-i-cant-stop-me",
   carriedBy: [

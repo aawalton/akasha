@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionSuperstarTaylorsVersion = {
   title: "Superstar (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "superstartaylorsversion|06HL4z0CvFAxyc27GXpf02|263865",
   song: "song/taylor-swift-superstar",
   carriedBy: [

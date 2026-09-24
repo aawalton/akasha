@@ -13,9 +13,9 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveAshworthRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "3hyEbRtp617pNCuuQjyOmc", artistName: "Lost Kings" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "3pcGjcfEW3YD2Hfk6tDR5S", artistName: "Ashworth" },
+    { artistName: "Lost Kings" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "Ashworth" },
   ],
   trackKey:
     "firstloveashworthremix|3hyEbRtp617pNCuuQjyOmc,3pcGjcfEW3YD2Hfk6tDR5S,74KM79TiuVKeVCqs8QtB0B|190252",

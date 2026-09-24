@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeWonderlandTaylorsVersion = {
   title: "Wonderland (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "wonderlandtaylorsversion|06HL4z0CvFAxyc27GXpf02|245566",
   song: "song/taylor-swift-wonderland",
   carriedBy: [

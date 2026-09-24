@@ -12,7 +12,7 @@ export const sabrinaCarpenterEvolutionAllWeHaveIsLove = {
   title: "All We Have Is Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "allwehaveislove|74KM79TiuVKeVCqs8QtB0B|182293",
   song: "song/sabrina-carpenter-all-we-have-is-love",
   carriedBy: [

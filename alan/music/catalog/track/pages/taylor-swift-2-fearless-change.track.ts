@@ -12,7 +12,7 @@ export const taylorSwift2FearlessChange = {
   title: "Change",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "change|06HL4z0CvFAxyc27GXpf02|280240",
   song: "song/taylor-swift-change",
   carriedBy: [

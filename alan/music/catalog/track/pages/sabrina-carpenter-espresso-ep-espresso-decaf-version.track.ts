@@ -12,7 +12,7 @@ export const sabrinaCarpenterEspressoEpEspressoDecafVersion = {
   title: "Espresso - Decaf Version",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "espressodecafversion|74KM79TiuVKeVCqs8QtB0B|194716",
   song: "song/sabrina-carpenter-espresso",
   carriedBy: [

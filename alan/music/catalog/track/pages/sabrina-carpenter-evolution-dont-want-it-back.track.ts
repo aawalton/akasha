@@ -12,7 +12,7 @@ export const sabrinaCarpenterEvolutionDontWantItBack = {
   title: "Don't Want It Back",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "dontwantitback|74KM79TiuVKeVCqs8QtB0B|181853",
   song: "song/sabrina-carpenter-dont-want-it-back",
   carriedBy: [

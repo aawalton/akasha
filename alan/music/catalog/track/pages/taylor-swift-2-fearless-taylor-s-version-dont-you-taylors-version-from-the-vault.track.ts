@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionDontYouTaylorsVersionFromTheVault
   title: "Don’t You (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dontyoutaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|208608",
   song: "song/taylor-swift-dont-you-from-the-vault",
   carriedBy: [

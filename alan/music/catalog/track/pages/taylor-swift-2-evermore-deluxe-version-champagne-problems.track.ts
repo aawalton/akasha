@@ -15,7 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionChampagneProblems = {
   title: "champagne problems",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "champagneproblems|06HL4z0CvFAxyc27GXpf02|244000",
   song: "song/taylor-swift-champagne-problems",
   carriedBy: [

@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetDeluxeBadReviews = {
   title: "Bad Reviews",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "badreviews|74KM79TiuVKeVCqs8QtB0B|141393",
   song: "song/sabrina-carpenter-bad-reviews",
   carriedBy: [

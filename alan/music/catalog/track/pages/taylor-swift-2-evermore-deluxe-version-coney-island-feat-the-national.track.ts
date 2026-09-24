@@ -15,10 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionConeyIslandFeatTheNational = {
   title: "coney island (feat. The National)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "2cCUtGK9sDU2EoElnk0GNB", artistName: "The National" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "The National" }],
   trackKey: "coneyislandfeatthenational|06HL4z0CvFAxyc27GXpf02,2cCUtGK9sDU2EoElnk0GNB|275320",
   song: "song/taylor-swift-coney-island",
   carriedBy: [

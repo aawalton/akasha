@@ -13,7 +13,7 @@ export const taylorSwift2LiveFromClearChannelStripped2008FearlessLiveFromClearCh
     title: "Fearless - Live From Clear Channel Stripped 2008",
     trackType: "live",
     explicit: false,
-    trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+    trackArtist: [{ artist: "artist/taylor-swift" }],
     trackKey: "fearlesslivefromclearchannelstripped2008|06HL4z0CvFAxyc27GXpf02|198247",
     song: "song/taylor-swift-fearless",
     carriedBy: [

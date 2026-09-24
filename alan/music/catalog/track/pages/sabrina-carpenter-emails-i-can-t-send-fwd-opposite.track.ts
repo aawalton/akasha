@@ -12,7 +12,7 @@ export const sabrinaCarpenterEmailsICanTSendFwdOpposite = {
   title: "opposite",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "opposite|74KM79TiuVKeVCqs8QtB0B|168170",
   song: "song/sabrina-carpenter-opposite",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionWeWereHappyTaylorsVersionFromTheV
   title: "We Were Happy (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "wewerehappytaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|244236",
   song: "song/taylor-swift-we-were-happy-from-the-vault",
   carriedBy: [

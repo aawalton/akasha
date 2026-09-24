@@ -12,7 +12,7 @@ export const taylorSwift21989BlankSpace = {
   title: "Blank Space",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "blankspace|06HL4z0CvFAxyc27GXpf02|231826",
   song: "song/taylor-swift-blank-space",
   carriedBy: [

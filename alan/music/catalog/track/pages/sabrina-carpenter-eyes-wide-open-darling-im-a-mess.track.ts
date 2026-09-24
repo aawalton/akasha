@@ -12,7 +12,7 @@ export const sabrinaCarpenterEyesWideOpenDarlingImAMess = {
   title: "Darling I'm a Mess",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "darlingimamess|74KM79TiuVKeVCqs8QtB0B|179053",
   song: "song/sabrina-carpenter-darling-im-a-mess",
   carriedBy: [

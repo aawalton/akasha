@@ -12,10 +12,7 @@ export const taylorSwift2EverythingHasChangedRemixEverythingHasChangedRemix = {
   title: "Everything Has Changed - Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6eUKZXaKkcviH0Ku9w2n3V", artistName: "Ed Sheeran" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Ed Sheeran" }],
   trackKey: "everythinghaschangedremix|06HL4z0CvFAxyc27GXpf02,6eUKZXaKkcviH0Ku9w2n3V|249760",
   song: "song/taylor-swift-everything-has-changed",
   carriedBy: [

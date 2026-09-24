@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionBetterManTaylorsVersionFromTheVault = 
   title: "Better Man (Taylor's Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "bettermantaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|297013",
   song: "song/taylor-swift-better-man-from-the-vault",
   carriedBy: [

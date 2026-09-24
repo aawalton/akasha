@@ -15,7 +15,7 @@ export const sabrinaCarpenterEmailsICanTSendFwdReadYourMind = {
   title: "Read your Mind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "readyourmind|74KM79TiuVKeVCqs8QtB0B|207849",
   song: "song/sabrina-carpenter-read-your-mind",
   carriedBy: [

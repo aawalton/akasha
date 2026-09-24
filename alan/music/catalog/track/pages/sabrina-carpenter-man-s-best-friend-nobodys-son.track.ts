@@ -15,7 +15,7 @@ export const sabrinaCarpenterManSBestFriendNobodysSon = {
   title: "Nobody’s Son",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "nobodysson|74KM79TiuVKeVCqs8QtB0B|182576",
   song: "song/sabrina-carpenter-nobodys-son",
   carriedBy: [

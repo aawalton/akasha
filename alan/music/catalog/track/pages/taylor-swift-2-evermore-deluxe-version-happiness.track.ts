@@ -15,7 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionHappiness = {
   title: "happiness",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "happiness|06HL4z0CvFAxyc27GXpf02|315146",
   song: "song/taylor-swift-happiness",
   carriedBy: [

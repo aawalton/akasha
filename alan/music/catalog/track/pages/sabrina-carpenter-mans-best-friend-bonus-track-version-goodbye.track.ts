@@ -12,7 +12,7 @@ export const sabrinaCarpenterMansBestFriendBonusTrackVersionGoodbye = {
   title: "Goodbye",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "goodbye|74KM79TiuVKeVCqs8QtB0B|225085",
   song: "song/sabrina-carpenter-goodbye",
   carriedBy: [

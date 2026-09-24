@@ -12,7 +12,7 @@ export const taylorSwift21989DeluxeEditionIKnowPlacesVoiceMemo = {
   title: "I Know Places - Voice Memo",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "iknowplacesvoicememo|06HL4z0CvFAxyc27GXpf02|216333",
   song: "song/taylor-swift-i-know-places-voice-memo",
   carriedBy: [

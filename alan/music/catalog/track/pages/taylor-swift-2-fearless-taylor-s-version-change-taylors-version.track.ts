@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionChangeTaylorsVersion = {
   title: "Change (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "changetaylorsversion|06HL4z0CvFAxyc27GXpf02|279359",
   song: "song/taylor-swift-change",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionByeByeBabyTaylorsVersionFromTheVa
   title: "Bye Bye Baby (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "byebyebabytaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|242157",
   song: "song/taylor-swift-bye-bye-baby-from-the-vault",
   carriedBy: [

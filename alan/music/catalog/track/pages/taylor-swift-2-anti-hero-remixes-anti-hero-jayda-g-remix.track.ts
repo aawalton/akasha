@@ -12,10 +12,7 @@ export const taylorSwift2AntiHeroRemixesAntiHeroJaydaGRemix = {
   title: "Anti-Hero - Jayda G Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "3NKVm2Jedcf6ibJr6pMUVx", artistName: "Jayda G" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Jayda G" }],
   trackKey: "antiherojaydagremix|06HL4z0CvFAxyc27GXpf02,3NKVm2Jedcf6ibJr6pMUVx|215696",
   song: "song/taylor-swift-anti-hero",
   carriedBy: [

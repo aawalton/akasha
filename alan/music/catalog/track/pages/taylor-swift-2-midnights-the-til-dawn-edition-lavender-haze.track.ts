@@ -17,7 +17,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionLavenderHaze = {
   title: "Lavender Haze",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "lavenderhaze|06HL4z0CvFAxyc27GXpf02|202395",
   song: "song/taylor-swift-lavender-haze",
   carriedBy: [

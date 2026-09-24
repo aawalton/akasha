@@ -12,7 +12,7 @@ export const sabrinaCarpenterEvolutionNoWords = {
   title: "No Words",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "nowords|74KM79TiuVKeVCqs8QtB0B|212586",
   song: "song/sabrina-carpenter-no-words",
   carriedBy: [

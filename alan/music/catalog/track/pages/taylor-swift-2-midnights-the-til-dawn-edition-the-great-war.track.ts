@@ -15,7 +15,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionTheGreatWar = {
   title: "The Great War",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thegreatwar|06HL4z0CvFAxyc27GXpf02|240355",
   song: "song/taylor-swift-the-great-war",
   carriedBy: [

@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeIKnowPlacesTaylorsVersion = {
   title: "I Know Places (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "iknowplacestaylorsversion|06HL4z0CvFAxyc27GXpf02|195700",
   song: "song/taylor-swift-i-know-places",
   carriedBy: [

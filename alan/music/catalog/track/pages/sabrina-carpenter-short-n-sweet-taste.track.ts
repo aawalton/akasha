@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetTaste = {
   title: "Taste",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "taste|74KM79TiuVKeVCqs8QtB0B|157279",
   song: "song/sabrina-carpenter-taste",
   carriedBy: [

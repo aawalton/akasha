@@ -12,7 +12,7 @@ export const sabrinaCarpenterEvolutionRunAndHide = {
   title: "Run and Hide",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "runandhide|74KM79TiuVKeVCqs8QtB0B|209640",
   song: "song/sabrina-carpenter-run-and-hide",
   carriedBy: [

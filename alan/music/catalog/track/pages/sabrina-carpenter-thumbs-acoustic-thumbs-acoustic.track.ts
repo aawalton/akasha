@@ -12,7 +12,7 @@ export const sabrinaCarpenterThumbsAcousticThumbsAcoustic = {
   title: "Thumbs - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "thumbsacoustic|74KM79TiuVKeVCqs8QtB0B|204274",
   song: "song/sabrina-carpenter-thumbs",
   carriedBy: [

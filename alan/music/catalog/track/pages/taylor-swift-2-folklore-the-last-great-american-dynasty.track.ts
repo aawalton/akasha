@@ -12,7 +12,7 @@ export const taylorSwift2FolkloreTheLastGreatAmericanDynasty = {
   title: "the last great american dynasty",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thelastgreatamericandynasty|06HL4z0CvFAxyc27GXpf02|230999",
   song: "song/taylor-swift-the-last-great-american-dynasty",
   carriedBy: [

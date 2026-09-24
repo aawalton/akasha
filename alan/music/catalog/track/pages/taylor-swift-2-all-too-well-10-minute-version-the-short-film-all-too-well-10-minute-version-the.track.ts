@@ -12,7 +12,7 @@ export const taylorSwift2AllTooWell10MinuteVersionTheShortFilmAllTooWell10Minute
   title: "All Too Well (10 Minute Version) (The Short Film)",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "alltoowell10minuteversiontheshortfilm|06HL4z0CvFAxyc27GXpf02|686022",
   song: "song/taylor-swift-all-too-well-the-short-film",
   carriedBy: [

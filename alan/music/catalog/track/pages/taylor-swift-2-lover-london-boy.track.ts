@@ -12,7 +12,7 @@ export const taylorSwift2LoverLondonBoy = {
   title: "London Boy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "londonboy|06HL4z0CvFAxyc27GXpf02|190240",
   song: "song/taylor-swift-london-boy",
   carriedBy: [

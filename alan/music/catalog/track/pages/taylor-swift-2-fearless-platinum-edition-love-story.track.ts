@@ -12,7 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionLoveStory = {
   title: "Love Story",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "lovestory|06HL4z0CvFAxyc27GXpf02|235280",
   song: "song/taylor-swift-love-story",
   carriedBy: [

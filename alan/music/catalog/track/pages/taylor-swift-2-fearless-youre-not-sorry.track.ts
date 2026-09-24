@@ -12,7 +12,7 @@ export const taylorSwift2FearlessYoureNotSorry = {
   title: "You're Not Sorry",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "yourenotsorry|06HL4z0CvFAxyc27GXpf02|261786",
   song: "song/taylor-swift-you-re-not-sorry",
   carriedBy: [

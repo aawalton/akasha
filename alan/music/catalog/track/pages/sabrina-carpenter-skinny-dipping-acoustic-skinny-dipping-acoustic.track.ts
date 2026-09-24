@@ -12,7 +12,7 @@ export const sabrinaCarpenterSkinnyDippingAcousticSkinnyDippingAcoustic = {
   title: "skinny dipping - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "skinnydippingacoustic|74KM79TiuVKeVCqs8QtB0B|192887",
   song: "song/sabrina-carpenter-skinny-dipping",
   carriedBy: [

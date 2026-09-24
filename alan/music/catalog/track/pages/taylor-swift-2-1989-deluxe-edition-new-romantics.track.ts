@@ -12,7 +12,7 @@ export const taylorSwift21989DeluxeEditionNewRomantics = {
   title: "New Romantics",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "newromantics|06HL4z0CvFAxyc27GXpf02|230466",
   song: "song/taylor-swift-new-romantics",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistOurSong = {
   title: "Our Song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "oursong|06HL4z0CvFAxyc27GXpf02|203440",
   song: "song/taylor-swift-our-song",
   carriedBy: [

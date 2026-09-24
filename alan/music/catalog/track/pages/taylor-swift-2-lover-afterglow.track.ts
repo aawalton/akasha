@@ -12,7 +12,7 @@ export const taylorSwift2LoverAfterglow = {
   title: "Afterglow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "afterglow|06HL4z0CvFAxyc27GXpf02|223293",
   song: "song/taylor-swift-afterglow",
   carriedBy: [

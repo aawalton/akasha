@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeHowYouGetTheGirlTaylorsVersion 
   title: "How You Get The Girl (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "howyougetthegirltaylorsversion|06HL4z0CvFAxyc27GXpf02|247533",
   song: "song/taylor-swift-how-you-get-the-girl",
   carriedBy: [

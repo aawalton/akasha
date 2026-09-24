@@ -18,7 +18,7 @@ export const sabrinaCarpenterEspressoEpEspresso = {
   title: "Espresso",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "espresso|74KM79TiuVKeVCqs8QtB0B|175459",
   song: "song/sabrina-carpenter-espresso",
   carriedBy: [

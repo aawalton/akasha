@@ -12,7 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionFearless = {
   title: "Fearless",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "fearless|06HL4z0CvFAxyc27GXpf02|242000",
   song: "song/taylor-swift-fearless",
   carriedBy: [

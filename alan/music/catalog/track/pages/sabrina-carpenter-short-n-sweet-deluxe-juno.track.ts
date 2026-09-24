@@ -12,7 +12,7 @@ export const sabrinaCarpenterShortNSweetDeluxeJuno = {
   title: "Juno",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "juno|74KM79TiuVKeVCqs8QtB0B|223186",
   song: "song/sabrina-carpenter-juno",
   carriedBy: [

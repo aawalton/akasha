@@ -12,10 +12,7 @@ export const taylorSwift2RenegadePopVersionRenegadePopVersion = {
   title: "Renegade - Pop Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "7gXy60xRcwYujBFoYHnR2O", artistName: "Big Red Machine" },
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-  ],
+  trackArtist: [{ artistName: "Big Red Machine" }, { artist: "artist/taylor-swift" }],
   trackKey: "renegadepopversion|06HL4z0CvFAxyc27GXpf02,7gXy60xRcwYujBFoYHnR2O|231526",
   song: "song/taylor-swift-renegade",
   carriedBy: [

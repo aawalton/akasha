@@ -16,7 +16,7 @@ export const taylorSwift2MidnightsTheTilDawnEditionLabyrinth = {
   title: "Labyrinth",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "labyrinth|06HL4z0CvFAxyc27GXpf02|247962",
   song: "song/taylor-swift-labyrinth",
   carriedBy: [

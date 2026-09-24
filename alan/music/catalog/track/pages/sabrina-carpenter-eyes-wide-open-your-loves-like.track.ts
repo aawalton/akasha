@@ -12,7 +12,7 @@ export const sabrinaCarpenterEyesWideOpenYourLovesLike = {
   title: "Your Love's Like",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "yourloveslike|74KM79TiuVKeVCqs8QtB0B|209080",
   song: "song/sabrina-carpenter-your-loves-like",
   carriedBy: [

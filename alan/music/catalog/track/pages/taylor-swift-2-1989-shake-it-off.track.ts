@@ -12,7 +12,7 @@ export const taylorSwift21989ShakeItOff = {
   title: "Shake It Off",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "shakeitoff|06HL4z0CvFAxyc27GXpf02|219200",
   song: "song/taylor-swift-shake-it-off",
   carriedBy: [

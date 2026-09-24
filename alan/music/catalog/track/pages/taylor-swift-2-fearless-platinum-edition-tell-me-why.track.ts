@@ -12,7 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionTellMeWhy = {
   title: "Tell Me Why",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "tellmewhy|06HL4z0CvFAxyc27GXpf02|200560",
   song: "song/taylor-swift-tell-me-why",
   carriedBy: [

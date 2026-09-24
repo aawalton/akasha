@@ -13,9 +13,9 @@ export const sabrinaCarpenterFirstLoveRemixesFirstLoveSaviRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "3hyEbRtp617pNCuuQjyOmc", artistName: "Lost Kings" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "1H72fTOUAUl0WQ4kH5DPVW", artistName: "SAVI" },
+    { artistName: "Lost Kings" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "SAVI" },
   ],
   trackKey:
     "firstlovesaviremix|1H72fTOUAUl0WQ4kH5DPVW,3hyEbRtp617pNCuuQjyOmc,74KM79TiuVKeVCqs8QtB0B|205000",

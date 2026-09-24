@@ -14,7 +14,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "the last great american dynasty - the long pond studio sessions",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thelastgreatamericandynastythelongpondstudiosessions|06HL4z0CvFAxyc27GXpf02|232346",
   song: "song/taylor-swift-the-last-great-american-dynasty-the-long-pond-studio-sessions",
   carriedBy: [

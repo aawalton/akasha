@@ -12,7 +12,7 @@ export const taylorSwift2RedWeAreNeverEverGettingBackTogether = {
   title: "We Are Never Ever Getting Back Together",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "weareneverevergettingbacktogether|06HL4z0CvFAxyc27GXpf02|191880",
   song: "song/taylor-swift-we-are-never-ever-getting-back-together",
   carriedBy: [

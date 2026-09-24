@@ -12,10 +12,7 @@ export const sabrinaCarpenterSkinQuarterheadRemixSkinQuarterheadRemix = {
   title: "Skin - Quarterhead Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "2h6hAChW74hB9HvrNoK1RY", artistName: "Quarterhead" },
-  ],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }, { artistName: "Quarterhead" }],
   trackKey: "skinquarterheadremix|2h6hAChW74hB9HvrNoK1RY,74KM79TiuVKeVCqs8QtB0B|187000",
   song: "song/sabrina-carpenter-skin",
   carriedBy: [

@@ -12,10 +12,7 @@ export const taylorSwift2LavenderHazeRemixesLavenderHazeJungleRemix = {
   title: "Lavender Haze - Jungle Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "59oA5WbbQvomJz2BuRG071", artistName: "Jungle" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Jungle" }],
   trackKey: "lavenderhazejungleremix|06HL4z0CvFAxyc27GXpf02,59oA5WbbQvomJz2BuRG071|235932",
   song: "song/taylor-swift-lavender-haze",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionFifteenTaylorsVersion = {
   title: "Fifteen (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "fifteentaylorsversion|06HL4z0CvFAxyc27GXpf02|294419",
   song: "song/taylor-swift-fifteen",
   carriedBy: [

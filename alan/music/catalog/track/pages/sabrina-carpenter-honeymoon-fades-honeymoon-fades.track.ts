@@ -12,7 +12,7 @@ export const sabrinaCarpenterHoneymoonFadesHoneymoonFades = {
   title: "Honeymoon Fades",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "honeymoonfades|74KM79TiuVKeVCqs8QtB0B|195161",
   song: "song/sabrina-carpenter-honeymoon-fades",
   carriedBy: [

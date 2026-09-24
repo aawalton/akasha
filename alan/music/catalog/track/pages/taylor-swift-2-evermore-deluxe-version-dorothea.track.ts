@@ -15,7 +15,7 @@ export const taylorSwift2EvermoreDeluxeVersionDorothea = {
   title: "dorothea",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dorothea|06HL4z0CvFAxyc27GXpf02|225880",
   song: "song/taylor-swift-dorothea",
   carriedBy: [

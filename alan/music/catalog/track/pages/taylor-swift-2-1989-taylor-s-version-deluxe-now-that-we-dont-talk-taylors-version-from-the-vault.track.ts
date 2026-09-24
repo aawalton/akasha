@@ -15,7 +15,7 @@ export const taylorSwift21989TaylorSVersionDeluxeNowThatWeDontTalkTaylorsVersion
   title: "Now That We Don't Talk (Taylor's Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "nowthatwedonttalktaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|146436",
   song: "song/taylor-swift-now-that-we-dont-talk-from-the-vault",
   carriedBy: [

@@ -12,10 +12,7 @@ export const taylorSwift2FearlessPlatinumEditionBreathe = {
   title: "Breathe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6aZyMrc4doVtZyKNilOmwu", artistName: "Colbie Caillat" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Colbie Caillat" }],
   trackKey: "breathe|06HL4z0CvFAxyc27GXpf02,6aZyMrc4doVtZyKNilOmwu|263986",
   song: "song/taylor-swift-breathe",
   carriedBy: [

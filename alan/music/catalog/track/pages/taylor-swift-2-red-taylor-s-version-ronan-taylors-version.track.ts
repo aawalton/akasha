@@ -12,7 +12,7 @@ export const taylorSwift2RedTaylorSVersionRonanTaylorsVersion = {
   title: "Ronan (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ronantaylorsversion|06HL4z0CvFAxyc27GXpf02|264253",
   song: "song/taylor-swift-ronan",
   carriedBy: [

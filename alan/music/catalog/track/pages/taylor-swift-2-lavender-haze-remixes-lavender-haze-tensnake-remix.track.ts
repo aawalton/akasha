@@ -12,10 +12,7 @@ export const taylorSwift2LavenderHazeRemixesLavenderHazeTensnakeRemix = {
   title: "Lavender Haze - Tensnake Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "75nC6MXUalYZSOd7OfNkwq", artistName: "Tensnake" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Tensnake" }],
   trackKey: "lavenderhazetensnakeremix|06HL4z0CvFAxyc27GXpf02,75nC6MXUalYZSOd7OfNkwq|214966",
   song: "song/taylor-swift-lavender-haze",
   carriedBy: [

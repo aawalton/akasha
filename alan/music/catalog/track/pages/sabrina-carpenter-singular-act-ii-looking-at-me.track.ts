@@ -12,7 +12,7 @@ export const sabrinaCarpenterSingularActIiLookingAtMe = {
   title: "Looking at Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "lookingatme|74KM79TiuVKeVCqs8QtB0B|181120",
   song: "song/sabrina-carpenter-looking-at-me",
   carriedBy: [

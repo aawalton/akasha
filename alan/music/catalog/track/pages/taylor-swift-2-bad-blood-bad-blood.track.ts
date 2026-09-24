@@ -12,10 +12,7 @@ export const taylorSwift2BadBloodBadBlood = {
   title: "Bad Blood",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "2YZyLoL8N0Wb9xBt1NhZWg", artistName: "Kendrick Lamar" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Kendrick Lamar" }],
   trackKey: "badblood|06HL4z0CvFAxyc27GXpf02,2YZyLoL8N0Wb9xBt1NhZWg|200106",
   song: "song/taylor-swift-bad-blood",
   carriedBy: [

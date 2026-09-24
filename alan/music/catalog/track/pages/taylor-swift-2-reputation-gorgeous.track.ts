@@ -12,7 +12,7 @@ export const taylorSwift2ReputationGorgeous = {
   title: "Gorgeous",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "gorgeous|06HL4z0CvFAxyc27GXpf02|209680",
   song: "song/taylor-swift-gorgeous",
   carriedBy: [

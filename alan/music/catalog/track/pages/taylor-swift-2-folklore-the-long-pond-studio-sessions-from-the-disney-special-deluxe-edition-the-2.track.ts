@@ -15,7 +15,7 @@ export const taylorSwift2FolkloreTheLongPondStudioSessionsFromTheDisneySpecialDe
   title: "the lakes - bonus track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thelakesbonustrack|06HL4z0CvFAxyc27GXpf02|211813",
   song: "song/taylor-swift-the-lakes-bonus-track",
   carriedBy: [

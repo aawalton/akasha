@@ -14,7 +14,7 @@ export const taylorSwift2CarolinaFromTheMotionPictureWhereTheCrawdadsSingCarolin
   title: "Carolina - From The Motion Picture “Where The Crawdads Sing”",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "carolinafromthemotionpicturewherethecrawdadssing|06HL4z0CvFAxyc27GXpf02|264438",
   song: "song/taylor-swift-carolina-from-the-motion-picture-where-the-crawdads-sing",
   carriedBy: [

@@ -12,10 +12,7 @@ export const taylorSwift2RedTaylorSVersionTheLastTimeFeatGaryLightbodyOfSnowPatr
   title: "The Last Time (feat. Gary Lightbody of Snow Patrol) (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "3fCQnw6VSudXBTN5d2QP2z", artistName: "Gary Lightbody" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Gary Lightbody" }],
   trackKey:
     "thelasttimefeatgarylightbodyofsnowpatroltaylorsversion|06HL4z0CvFAxyc27GXpf02,3fCQnw6VSudXBTN5d2QP2z|299080",
   song: "song/taylor-swift-the-last-time",

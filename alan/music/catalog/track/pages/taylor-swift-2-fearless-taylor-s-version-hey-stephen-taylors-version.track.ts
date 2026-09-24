@@ -12,7 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionHeyStephenTaylorsVersion = {
   title: "Hey Stephen (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "heystephentaylorsversion|06HL4z0CvFAxyc27GXpf02|254254",
   song: "song/taylor-swift-hey-stephen",
   carriedBy: [

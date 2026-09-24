@@ -15,7 +15,7 @@ export const taylorSwift2ICanDoItWithABrokenHeartDombreskyRemixICanDoItWithABrok
   title: "I Can Do It With a Broken Heart - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "icandoitwithabrokenheartinstrumental|06HL4z0CvFAxyc27GXpf02|218004",
   song: "song/taylor-swift-i-can-do-it-with-a-broken-heart",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2EvermoreDeluxeVersionRightWhereYouLeftMeBonusTrack = {
   title: "right where you left me - bonus track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "rightwhereyouleftmebonustrack|06HL4z0CvFAxyc27GXpf02|245026",
   song: "song/taylor-swift-right-where-you-left-me-bonus-track",
   carriedBy: [

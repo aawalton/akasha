@@ -12,7 +12,7 @@ export const sabrinaCarpenterEyesWideOpenSeamless = {
   title: "Seamless",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "seamless|74KM79TiuVKeVCqs8QtB0B|186440",
   song: "song/sabrina-carpenter-seamless",
   carriedBy: [

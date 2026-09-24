@@ -12,10 +12,7 @@ export const taylorSwift2FearlessTaylorSVersionBreatheFeatColbieCaillatTaylorsVe
   title: "Breathe (feat. Colbie Caillat) (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6aZyMrc4doVtZyKNilOmwu", artistName: "Colbie Caillat" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Colbie Caillat" }],
   trackKey:
     "breathefeatcolbiecaillattaylorsversion|06HL4z0CvFAxyc27GXpf02,6aZyMrc4doVtZyKNilOmwu|263377",
   song: "song/taylor-swift-breathe",

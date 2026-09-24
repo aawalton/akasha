@@ -15,10 +15,7 @@ export const taylorSwift2AntiHeroRemixesAntiHeroFeatBleachers = {
   title: "Anti-Hero (feat. Bleachers)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "2eam0iDomRHGBypaDQLwWI", artistName: "Bleachers" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Bleachers" }],
   trackKey: "antiherofeatbleachers|06HL4z0CvFAxyc27GXpf02,2eam0iDomRHGBypaDQLwWI|228397",
   song: "song/taylor-swift-anti-hero",
   carriedBy: [

@@ -12,10 +12,7 @@ export const taylorSwift2LavenderHazeRemixesLavenderHazeSnakehipsRemix = {
   title: "Lavender Haze - Snakehips Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "2FwJwEswyIUAljqgjNSHgP", artistName: "Snakehips" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Snakehips" }],
   trackKey: "lavenderhazesnakehipsremix|06HL4z0CvFAxyc27GXpf02,2FwJwEswyIUAljqgjNSHgP|187510",
   song: "song/taylor-swift-lavender-haze",
   carriedBy: [
