@@ -9,10 +9,6 @@ export const athenaInteractiveSeatPages = {
   intentStack: [
     {
       statement:
-        "A page type names a property whose color draws its pages' titles in rows, cards and headers.",
-    },
-    {
-      statement:
         "The Seats view on alanwalton.com names every seat in the working color the editor shows it in.",
     },
     { statement: "The page service answers a seat's conversation as a value of that seat." },
