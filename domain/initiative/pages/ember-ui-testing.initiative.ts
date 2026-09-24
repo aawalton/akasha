@@ -30,5 +30,8 @@ export const emberUiTesting = {
     {
       statement: "A number reads the same way wherever Temper shows it in the game.",
     },
+    {
+      statement: "Every Temper window showing data shows it loading, empty, failed or loaded.",
+    },
   ],
 } as const satisfies Initiative
