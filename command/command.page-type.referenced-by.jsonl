@@ -223,6 +223,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/error-list/temper-error-list.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/askings/temper-eso-generate-askings.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.ts"}

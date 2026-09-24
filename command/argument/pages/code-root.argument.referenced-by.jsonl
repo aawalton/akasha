@@ -9,6 +9,7 @@
 {"propertySlug":"argument","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.ts","id":"01a0603c-c1cd-7bf8-b51c-c43b2e4bb128"}
 {"propertySlug":"argument","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.ts","id":"01a0603c-c1cd-7290-b641-179d70de4bc2"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.ts","id":"01a0d42e-c218-7a8e-b751-a43195410e2c"}
+{"propertySlug":"argument","path":"command/pages/temper/eso/generate/askings/temper-eso-generate-askings.command.ts","id":"01a0d574-4e8a-7fd5-9540-743b71ebc982"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts","id":"01a0685d-f8fa-7913-8b39-8d1f9f835d34"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts","id":"01a0685d-f8fa-7c84-afa7-42c2af785557"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.ts","id":"01a0d3f9-447a-70e5-a076-3b6713b2e385"}
@@ -30,6 +31,7 @@
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts"}
+{"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/eso/generate/askings/temper-eso-generate-askings.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.code.ts"}

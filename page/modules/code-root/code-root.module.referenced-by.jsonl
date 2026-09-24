@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.test.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts"}
+{"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/askings/temper-eso-generate-askings.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.code.ts"}

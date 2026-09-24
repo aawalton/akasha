@@ -5,7 +5,11 @@ export const temperCapturePlayerAnswer = {
   type: "page-type/domain",
   slug: "temper-capture-player-answer",
   definition: "what the game answers the functions it is asked about the character playing now",
-  parts: ["module/player-asking-shapes", "module/player-askings-reading"],
+  parts: [
+    "module/player-asking-shapes",
+    "module/player-askings-reading",
+    "data-table/player-askings",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

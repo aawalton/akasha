@@ -7,6 +7,7 @@ export const temperEsoGenerate = {
   definition: "what is written out from the game's own files",
   parts: [
     "command/temper-eso-generate-answers",
+    "command/temper-eso-generate-askings",
     "command/temper-eso-generate-base-game-global",
     "command/temper-eso-generate-chatter-name",
     "command/temper-eso-generate-colors",
