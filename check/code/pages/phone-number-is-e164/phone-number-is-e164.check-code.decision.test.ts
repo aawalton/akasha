@@ -102,7 +102,7 @@ test("a page of a type declaring no phone number is passed over", () => {
   const root = rooted()
   const at = pathFor("domain", "held")
   const body = bytesOf(
-    `export const held = { id: ${JSON.stringify(HELD)}, pageTypeSlug: "domain", slug: "held" }\n`
+    `export const held = { id: ${JSON.stringify(HELD)}, type: "page-type/domain", slug: "held" }\n`
   )
   expect(judged(root, { [at]: body })).toEqual([])
 })
@@ -126,7 +126,7 @@ test("a page the change takes away is passed over", () => {
 test("a page type the change itself puts under `phone-number-property` is judged", () => {
   const root = rooted()
   const above = bytesOf(
-    `export const held = { id: ${JSON.stringify(MOBILE)}, pageTypeSlug: "page-type", ` +
+    `export const held = { id: ${JSON.stringify(MOBILE)}, type: "page-type/page-type", ` +
       `slug: "mobile-number-property", extends: ["${pageType.slug}/${phoneNumberProperty.slug}"] }\n`
   )
   const said = judged(root, { [MOBILE_AT]: above, [AT]: person('mobile: "6085122510"') })

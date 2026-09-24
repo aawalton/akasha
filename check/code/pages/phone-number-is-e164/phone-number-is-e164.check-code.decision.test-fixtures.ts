@@ -46,7 +46,7 @@ export function rooted(): string {
 
 export function personText(stated: string): string {
   return (
-    `export const held = { id: ${JSON.stringify(HELD)}, pageTypeSlug: "person", ` +
+    `export const held = { id: ${JSON.stringify(HELD)}, type: "page-type/person", ` +
     `slug: "held", ${stated} }\n`
   )
 }

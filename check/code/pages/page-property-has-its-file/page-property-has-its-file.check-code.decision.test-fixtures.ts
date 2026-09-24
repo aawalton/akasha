@@ -56,7 +56,7 @@ export function bodyText(
   id: string = ID
 ): string {
   const read = pageTypeSlug.endsWith("-property") ? `, propertySlug: "${slug}"` : ""
-  return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${read}${stated} }\n`
+  return `export const it = { id: "${id}", slug: "${slug}", type: "page-type/${pageTypeSlug}"${read}${stated} }\n`
 }
 
 export function body(

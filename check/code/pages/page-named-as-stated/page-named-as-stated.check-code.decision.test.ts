@@ -22,6 +22,7 @@ import {
   judgingBy,
   landing,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -43,7 +44,7 @@ test("a page naming itself otherwise than its file is refused, and both names ar
 test("a page stating a page type its file does not carry is refused", () => {
   const said = reasons("akasha/ledger.module.ts", page("ledger", "domain"))
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("page type as `domain`")
+  expect(said[0]).toContain(`page type as \`${pageType.slug}/domain\``)
 })
 
 test("a page wrong in both its slug and its page type is told both", () => {
@@ -66,7 +67,7 @@ test("a property's file holds no page value, so it is not judged here", () => {
 
 test("a page is found through the satisfies and as const it is written with", () => {
   const said = pageIn("akasha/ledger.module.ts", page("ledger", "module"))
-  expect(said).toEqual({ slug: "ledger", pageTypeSlug: "module", named: "ledger" })
+  expect(said).toEqual({ slug: "ledger", pageTypeSlug: `${pageType.slug}/module`, named: "ledger" })
 })
 
 test("a file whose name is not a page's shape is passed over", () => {
@@ -130,11 +131,11 @@ test("a property whose file is named for a shape it does not state is refused", 
   const body = page("part-slugs", "text-property")
   const said = reasons("akasha/part-slugs.relation-property.ts", body)
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("page type as `text-property`")
+  expect(said[0]).toContain(`page type as \`${pageType.slug}/text-property\``)
 })
 
 test("a fixture written plainly at the top of a test file is passed over", () => {
-  const body = 'const NOTE = {\n  pageTypeSlug: "relation-property",\n  slug: "note",\n}\n'
+  const body = 'const NOTE = {\n  type: "page-type/relation-property",\n  slug: "note",\n}\n'
   expect(reasons("akasha/index-schema.module.test.ts", body)).toEqual([])
 })
 
@@ -195,7 +196,7 @@ test("every page a file states is answered, and the first alone is answered by `
   expect(pagesIn("akasha/ledger.module.ts", body)).toHaveLength(2)
   expect(pageIn("akasha/ledger.module.ts", body)).toEqual({
     slug: "ledger",
-    pageTypeSlug: "module",
+    pageTypeSlug: `${pageType.slug}/module`,
     named: "ledger",
   })
 })
@@ -206,7 +207,7 @@ test("a file stating no page is answered as no pages rather than as one", () => 
 })
 
 test("a page written plainly, with no satisfies at all, is still judged", () => {
-  const body = 'export const ledges = {\n  pageTypeSlug: "module",\n  slug: "ledges",\n}\n'
+  const body = 'export const ledges = {\n  type: "page-type/module",\n  slug: "ledges",\n}\n'
   const said = reasons("akasha/ledger.module.ts", body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("names itself `ledges`")
@@ -234,7 +235,7 @@ test("a slug whose export name is a reserved word is refused whatever the page i
 })
 
 test("a page bound by a pattern rather than a name is refused", () => {
-  const body = 'export const { slug } = {\n  pageTypeSlug: "module",\n  slug: "ledger",\n}\n'
+  const body = 'export const { slug } = {\n  type: "page-type/module",\n  slug: "ledger",\n}\n'
   const said = reasons("akasha/ledger.module.ts", body)
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("bound to no name")
@@ -268,7 +269,7 @@ test("a page is read the same where imports, a type and a function sit above it"
   ].join("\n")
   const body = `${above}${page("ledger", "module")}`
   expect(pagesIn("akasha/ledger.module.ts", body)).toEqual([
-    { slug: "ledger", pageTypeSlug: "module", named: "ledger" },
+    { slug: "ledger", pageTypeSlug: `${pageType.slug}/module`, named: "ledger" },
   ])
   expect(reasons("akasha/ledger.module.ts", body)).toEqual([])
 })
@@ -283,7 +284,7 @@ test("a body written any other way is parsed rather than taken as clean", () => 
   const nested = [
     "export const ledger = {",
     '  id: "one",',
-    '  pageTypeSlug: "module",',
+    '  type: "page-type/module",',
     '  slug: "ledger",',
     "  held: {",
     '  slug: "other",',

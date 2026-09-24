@@ -24,7 +24,7 @@ export function page(slug: string, pageTypeSlug: string, named: string = exporte
   return [
     `export const ${named} = {`,
     '  id: "01a04b5e-39e5-7fa4-be61-f3fa8d7d1736",',
-    `  pageTypeSlug: "${pageTypeSlug}",`,
+    `  type: "page-type/${pageTypeSlug}",`,
     `  slug: "${slug}",`,
     '  definition: "what is held",',
     "} as const satisfies Page",
@@ -46,7 +46,7 @@ export function property(slug: string): Uint8Array {
   return bytesOf(
     [
       `export const ${slug} = {`,
-      '  pageTypeSlug: "file-property",',
+      '  type: "page-type/file-property",',
       `  slug: "${slug}",`,
       `  propertySlug: "${slug}",`,
       "} as const satisfies Page",
