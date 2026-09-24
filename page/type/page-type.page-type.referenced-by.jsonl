@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/model/account/modules/making/model-account-making.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/model/account/modules/reading/model-account-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts"}

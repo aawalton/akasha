@@ -18,6 +18,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
+import { pagePageType } from "akasha/page/properties/page-page-type.relation-property.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
@@ -46,6 +47,7 @@ export const RESETS_AT = "2026-09-05T00:00:00.000Z"
 
 type Declared = {
   readonly slug: string
+  readonly propertySlug?: string
   readonly secret?: boolean
   readonly uncommitted?: boolean
 }
@@ -53,6 +55,7 @@ type Declared = {
 const ABOVE_DECLARED: readonly Declared[] = [
   { slug: "id" },
   { slug: "page-type-slug" },
+  { slug: pagePageType.slug, propertySlug: pagePageType.propertySlug },
   { slug: "slug" },
 ]
 
@@ -96,7 +99,7 @@ function typeWritten(
     at,
     bodied("typed", {
       id,
-      pageTypeSlug: "page-type",
+      type: `${pageType.slug}/${pageType.slug}`,
       slug,
       definition: `a ${slug}`,
       pluralSlug: `${slug}s`,
@@ -117,7 +120,7 @@ function typeWritten(
       {
         pageTypeSlug: PROPERTY_TYPE,
         slug: one.slug,
-        propertySlug: one.slug,
+        propertySlug: one.propertySlug ?? one.slug,
         targetPageTypeSlug: null,
         unique: null,
         fileName: null,
@@ -152,7 +155,7 @@ export function accountWritten(
 ): undefined {
   const value = {
     id: idFor(slug),
-    pageTypeSlug: "model-account",
+    type: `${pageType.slug}/model-account`,
     slug,
     provider: ANTHROPIC,
     email: `${slug}@a.test`,

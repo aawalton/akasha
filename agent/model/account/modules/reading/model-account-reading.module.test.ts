@@ -31,6 +31,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -85,7 +86,7 @@ function accountWritten(root: string, slug: string, stated: Held, beside: Held |
   const at = pageAt(slug)
   const value = {
     id: idFor(slug),
-    pageTypeSlug: "model-account",
+    type: `${pageType.slug}/model-account`,
     slug,
     provider: ANTHROPIC,
     ...stated,
