@@ -1,6 +1,7 @@
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { registryGc } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/registry-gc/registry-gc.service-cluster.ts"
 import {
   APP_NAME,
   INSTANCE_NAME,
@@ -9,8 +10,6 @@ import {
   PART_OF,
 } from "akasha/infrastructure/storage/container-registry/modules/registry-constants/registry-constants.module.code.ts"
 import { registryGc as page } from "akasha/infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.ts"
-
-const GC_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/ci:latest"
 
 const GC_FULL_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -276,14 +275,14 @@ function cronjobGcYaml(): string {
       id: "registry-gc-cronjob",
       manifest: {
         apiVersion: "batch/v1",
-        kind: "CronJob",
+        kind: registryGc.resourceKind,
         metadata: {
-          name: "registry-gc",
-          namespace: NAMESPACE,
+          name: registryGc.resourceName,
+          namespace: registryGc.namespace,
           labels: GC_FULL_LABELS,
         },
         spec: {
-          schedule: "0 4 * * *",
+          schedule: registryGc.schedule,
           concurrencyPolicy: "Forbid",
           successfulJobsHistoryLimit: 3,
           failedJobsHistoryLimit: 3,
@@ -300,7 +299,7 @@ function cronjobGcYaml(): string {
                   containers: [
                     {
                       name: "gc",
-                      image: GC_IMAGE,
+                      image: registryGc.image,
                       command: ["/bin/sh", "-c", GC_SCRIPT],
                       resources: resourcesOf(page),
                       securityContext: {

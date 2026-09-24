@@ -5,6 +5,7 @@ import {
   workloadClassMemberSelector,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
+import { registry } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/registry/registry.service-cluster.ts"
 import {
   APP_NAME,
   INSTANCE_NAME,
@@ -13,8 +14,6 @@ import {
   PART_OF,
 } from "akasha/infrastructure/storage/container-registry/modules/registry-constants/registry-constants.module.code.ts"
 import { registry as page } from "akasha/infrastructure/storage/container-registry/registry/registry.manifest.ts"
-
-const REGISTRY_IMAGE = "registry:3.0.0"
 
 const RESOURCE_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -87,13 +86,13 @@ function pvcYaml(): string {
 function deploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
     apiVersion: "apps/v1",
-    kind: "Deployment",
+    kind: registry.resourceKind,
     metadata: {
-      name: "registry",
+      name: registry.resourceName,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: registry.replicas,
       strategy: { type: "Recreate" },
       selector: { matchLabels: SELECTOR_LABELS },
       template: {
@@ -109,9 +108,9 @@ function deploymentYaml(): string {
           containers: [
             {
               name: "registry",
-              image: REGISTRY_IMAGE,
+              image: registry.image,
               env: [{ name: "REGISTRY_STORAGE_DELETE_ENABLED", value: "true" }],
-              ports: [{ containerPort: 5000, protocol: "TCP" }],
+              ports: [{ containerPort: registry.containerPort, protocol: "TCP" }],
               volumeMounts: [{ name: "data", mountPath: "/var/lib/registry" }],
               lifecycle: {
                 preStop: {
@@ -123,7 +122,7 @@ function deploymentYaml(): string {
               livenessProbe: {
                 httpGet: {
                   path: "/v2/",
-                  port: 5000,
+                  port: registry.containerPort,
                   scheme: "HTTP",
                 },
                 initialDelaySeconds: 10,
@@ -133,7 +132,7 @@ function deploymentYaml(): string {
               readinessProbe: {
                 httpGet: {
                   path: "/v2/",
-                  port: 5000,
+                  port: registry.containerPort,
                   scheme: "HTTP",
                 },
                 initialDelaySeconds: 5,
@@ -178,7 +177,7 @@ function serviceYaml(): string {
       ports: [
         {
           port: 5000,
-          targetPort: 5000,
+          targetPort: registry.containerPort,
           nodePort: 30500,
           protocol: "TCP",
         },
