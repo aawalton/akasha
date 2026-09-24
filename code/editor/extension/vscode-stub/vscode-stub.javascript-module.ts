@@ -52,7 +52,7 @@ export const vscodeStub = {
       statement: "Nothing here judges the values drawn.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An extension reaches parts of the editor's interface no page here names.",
     },
   ],
