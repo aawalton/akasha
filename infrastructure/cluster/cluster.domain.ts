@@ -61,11 +61,7 @@ export const cluster = {
       decisionKind: "decision-kind/departure",
       statement: "A workload names the class of node the workload runs on.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A workload reaches a node by the needs that workload states rather than by a class node carries.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement: "The machines people use day to day run Linux and are nodes in the cluster.",
