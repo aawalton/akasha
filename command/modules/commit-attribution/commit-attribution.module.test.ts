@@ -12,7 +12,7 @@ const SESSION = "session_015hThfHxKwTU3dXSpN4iZBP"
 
 const HELD: Attribution = { model: "claude-opus-5[1m]", session: SESSION }
 
-const CO_AUTHORED = "Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>"
+const CO_AUTHORED = "Co-Authored-By: Claude Opus 5.5 (1M context) <noreply@anthropic.com>"
 
 const SAID = `Claude-Session: https://claude.ai/code/${SESSION}`
 
@@ -68,17 +68,17 @@ test("a model this system knows nothing of is co-authored as Claude", () => {
 })
 
 test("a model is named as a reader reads it rather than as the id a seat records", () => {
-  expect(modelNamed("claude-opus-5[1m]")).toBe("Claude Opus 5 (1M context)")
+  expect(modelNamed("claude-opus-5[1m]")).toBe("Claude Opus 5.5 (1M context)")
   expect(modelNamed("claude-sonnet-5")).toBe("Claude Sonnet 5")
   expect(modelNamed("haiku")).toBe("Claude Haiku 4.5")
 })
 
 test("no session line is written where no session is known", () => {
   expect(attributionLines({ model: "opus", session: null })).toEqual([
-    "Co-Authored-By: Claude Opus 5 <noreply@anthropic.com>",
+    "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
   ])
   expect(attributed("the subject line", { model: "opus", session: null })).toBe(
-    "the subject line\n\nCo-Authored-By: Claude Opus 5 <noreply@anthropic.com>"
+    "the subject line\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
   )
 })
 
