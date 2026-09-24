@@ -190,6 +190,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/car-research/car-research.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/chess/chess.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/great-courses/great-courses.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/great-courses/the-great-courses/the-great-courses.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/place/place.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/royal-road/royal-road.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/collection/unit/unit.page-type.types.ts"}
