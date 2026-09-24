@@ -67,8 +67,6 @@ export const alanWeb = {
     "module/device-secret-context",
     "module/device-secret-sync",
     "module/edge-swipe-nav",
-
-    "module/home-dni",
     "module/home-dni-param",
 
     "module/nav-command",

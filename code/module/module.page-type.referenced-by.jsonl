@@ -838,7 +838,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/edge-swipe-nav/edge-swipe-nav.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/home-dni/home-dni.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/nav-command/nav-command.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/next-unread/next-unread.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/offline-cache-fs/offline-cache-fs.module.ts"}
