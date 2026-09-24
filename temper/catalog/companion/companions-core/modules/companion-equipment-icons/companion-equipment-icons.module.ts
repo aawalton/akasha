@@ -16,7 +16,7 @@ export const companionEquipmentIcons = {
       statement: "Icon paths follow the companions_u30_equipment naming scheme.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A no-type weapon yields null rather than a placeholder icon.",
     },
   ],
