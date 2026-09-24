@@ -18,7 +18,7 @@ struct CategorizeHomeView: View {
             CategorizeTile(reading: categorizeReading(entry.state))
                 .padding(LARGE_RING_TILE_PADDING)
                 .containerBackground(for: .widget) { Color(.systemBackground) }
-                .widgetURL(URL(string: "capacitor://monarch-relay#widget=alanwalton-categorize"))
+                .widgetTapLink("capacitor://monarch-relay#widget=alanwalton-categorize")
         }
     }
 }
