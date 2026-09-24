@@ -6,4 +6,10 @@ export const companionEngineMethodology = {
   slug: "companion-engine-methodology",
   definition: "the panels saying how the companion engine works out what it recommends",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each panel is a section of the methodology's site document.",
+    },
+  ],
 } as const satisfies Module

@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   drawnFrom,
+  metaFor,
   metaOf,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 
@@ -37,6 +38,7 @@ test("a site document's title is followed by its site's name where the route nam
     { name: "description", content: "The terms." },
   ])
   expect(metaOf(undefined, null)).toEqual([])
+  expect(metaFor("Temper")({ data: { document: drawn } })[0]).toEqual({ title: "Terms — Temper" })
 })
 
 test("a section naming no anchor is not drawn", () => {

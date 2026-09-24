@@ -21,16 +21,18 @@ import {
   TabsList,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import type { DrawnSection } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { COMPANION_ENGINE_METHODOLOGY_PANELS } from "akasha/temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx"
+import { methodologyPanels } from "akasha/temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx"
 import { KNOWN_ISSUES_METHODOLOGY_PANELS } from "akasha/temper/web/modules/known-issues-methodology/known-issues-methodology.module.code.tsx"
 import { ChevronLeft, FlaskConical, TriangleAlert } from "lucide-react"
 
 interface MethodologyPageContentProps {
   initialTab?: string
+  sections: readonly DrawnSection[]
 }
 
-export function MethodologyPageContent({ initialTab }: MethodologyPageContentProps) {
+export function MethodologyPageContent({ initialTab, sections }: MethodologyPageContentProps) {
   return (
     <PageLayout
       skeleton={tabbedPageSkeleton({
@@ -71,7 +73,7 @@ export function MethodologyPageContent({ initialTab }: MethodologyPageContentPro
           <TabsContent value="companion-engine">
             <div className="flex flex-col gap-6">
               <PageTabHeader title="Companion Engine" />
-              <ResponsiveColumns>{COMPANION_ENGINE_METHODOLOGY_PANELS}</ResponsiveColumns>
+              <ResponsiveColumns>{methodologyPanels(sections)}</ResponsiveColumns>
             </div>
           </TabsContent>
           <TabsContent value="known-issues">

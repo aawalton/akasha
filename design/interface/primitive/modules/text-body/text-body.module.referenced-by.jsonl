@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/automation-panel-card/automation-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/character-list-panel-card/character-list-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/companion-automation-panel-card/companion-automation-panel-card.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/companion-list-panel-card/companion-list-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-body.module.code.tsx","path":"temper/web/modules/companion-stats-panel/companion-stats-panel.module.code.tsx","typed":false,"deferred":false}

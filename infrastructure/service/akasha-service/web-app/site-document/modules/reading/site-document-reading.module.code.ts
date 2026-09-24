@@ -46,6 +46,16 @@ export function metaOf(document: DrawnDocument | undefined, site: string | null)
   return [{ title }, ...(described === null ? [] : [{ name: "description", content: described }])]
 }
 
+export type DocumentData = { readonly document: DrawnDocument }
+
+export function metaFor(site: string | null): (args: { data: DocumentData | undefined }) => Meta {
+  return ({ data }) => metaOf(data?.document, site)
+}
+
+export function loaderAt(webApp: string, urlPath: string): () => Promise<DocumentData> {
+  return async () => ({ document: await siteDocumentAt(webApp, urlPath) })
+}
+
 export async function siteDocumentAt(webApp: string, urlPath: string): Promise<DrawnDocument> {
   const [found] = await collectPages({
     pageTypeSlug: SITE_DOCUMENT,

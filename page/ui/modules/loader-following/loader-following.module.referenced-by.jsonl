@@ -10,5 +10,7 @@
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-safety-levels/audhdalan-safety-levels.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"product/smilingjenny/web/routes/jenny-requests/jenny-requests.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"product/wandering-inn-wiki/web/routes/_app-layout.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"temper/web/routes/landing/landing.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"temper/web/routes/methodology/methodology.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/page-ui.domain.ts","id":"01a05c0f-884e-7019-b4e6-08b3faac2e0b"}

@@ -7,57 +7,67 @@ import {
   CardTitle,
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { temperWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/temper-web.web-app.ts"
+import {
+  type DocumentData,
+  loaderAt,
+  metaFor,
+  SITE_DOCUMENT,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
+import type { Components } from "react-markdown"
 import { Link } from "react-router"
 
-export default function LandingRoute() {
+const WEB_APP = namedAs("web-app", temperWeb.slug, null)
+
+const READ = [SITE_DOCUMENT]
+
+const CARDED: Components = {
+  p: ({ children }) => <p className="text-secondary text-sm">{children}</p>,
+  ul: ({ children }) => <ul className="space-y-2 text-secondary text-sm">{children}</ul>,
+  li: ({ children }) => <li>{children}</li>,
+}
+
+export const loader = loaderAt(WEB_APP, "")
+
+export const meta = metaFor(null)
+
+export default function LandingRoute({ loaderData }: { loaderData: DocumentData }) {
+  useLoaderFollowing(READ)
+  const { document } = loaderData
   return (
     <main className="mx-auto w-full max-w-3xl px-6 py-12">
       <div className="space-y-6">
         <header className="space-y-2">
-          <PageTitle>Temper</PageTitle>
-          <Heading variant="subsection-accent" as="h2">
-            An Elder Scrolls Online build optimizer.
-          </Heading>
-          <p className="text-secondary text-sm">
-            Temper is a planning tool for ESO players. Build and compare character and companion
-            setups — gear, skills, and stats — in your browser, and share them by link.
-          </p>
+          <PageTitle>{document.title}</PageTitle>
+          {document.lead === null ? null : (
+            <Heading variant="subsection-accent" as="h2">
+              {document.lead}
+            </Heading>
+          )}
+          {document.description === null ? null : (
+            <p className="text-secondary text-sm">{document.description}</p>
+          )}
         </header>
 
-        <Card id="before-you-sign-up">
-          <CardHeader>
-            <CardTitle>Before you sign up</CardTitle>
-          </CardHeader>
-          <CardContent className="space-y-3">
-            <p className="text-secondary text-sm">
-              Temper can also track your completion and inventory from your actual characters. That
-              needs data out of the game, which takes some setup in ESO first.
-            </p>
-            <ul className="space-y-2 text-secondary text-sm">
-              <li>
-                <strong>The Temper ESO add-ons</strong> — TemperCharacters and TemperItems — write
-                the files Temper reads. You download them from Temper, extract them into your ESO
-                add-ons folder, and enable them in game.
-              </li>
-              <li>
-                <strong>Tamriel Trade Centre</strong>, a separate community add-on that is not ours,
-                is where Temper gets item prices. Its terms do not allow us to include it, so you
-                install that one yourself. Without it Temper can only value your items at vendor
-                prices, well below what they are worth.
-              </li>
-              <li>
-                <strong>The Temper Watcher</strong>, which picks those files up automatically, is a
-                Windows 10 or 11 (64-bit) application. There is no macOS or Linux build — on macOS
-                and Linux you upload the files by hand instead.
-              </li>
-            </ul>
-            <p className="text-secondary text-sm">
-              Until that setup is done, Temper cannot see your characters, and every surface that
-              reflects your own account will be empty. The build planner does not depend on any of
-              it.
-            </p>
-          </CardContent>
-        </Card>
+        {document.sections.map((section) => (
+          <Card key={section.anchor} id={section.anchor}>
+            <CardHeader>
+              <CardTitle>{section.title}</CardTitle>
+            </CardHeader>
+            <CardContent className="space-y-3">
+              {section.text === null ? null : (
+                <MarkdownRenderer
+                  content={section.text}
+                  components={CARDED}
+                  className="space-y-3"
+                />
+              )}
+            </CardContent>
+          </Card>
+        ))}
 
         <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
           <Button asChild variant="accent">

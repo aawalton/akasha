@@ -1,4 +1,8 @@
 {"propertySlug":"import","fileName":"temper-web.web-app.ts","path":"temper/web/modules/temper-app-id/temper-app-id.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web.web-app.ts","path":"temper/web/routes/landing/landing.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web.web-app.ts","path":"temper/web/routes/methodology/methodology.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"nav-app","path":"page/nav/pages/temper-characters.nav.ts","id":"01a06577-2613-7019-83c5-8561578d8de9"}
 {"propertySlug":"nav-app","path":"page/nav/pages/temper-dungeons.nav.ts","id":"01a06577-2613-701a-80e7-801c65170eab"}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
+{"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/temper-web-landing.site-document.ts","id":"01a0d5c9-d0b0-7734-a2f3-a3a3218f329b"}
+{"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/temper-web-methodology.site-document.ts","id":"01a0d5c9-d0b0-7343-85f7-240021f712e7"}
