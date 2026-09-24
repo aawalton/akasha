@@ -7,5 +7,6 @@
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-device-secret-revoke/alan-web-api-device-secret-revoke.route.code.ts"}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-image/alan-web-api-image.route.code.ts"}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-page-file/alan-web-api-page-file.route.code.ts"}
+{"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-page-follow/alan-web-api-page-follow.route.code.ts"}
 {"propertySlug":"import","fileName":"alan-session-reader.module.code.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.code.ts"}
 {"propertySlug":"parts","path":"alan/web/alan-web.router-app.ts","id":"01a05bb1-0c04-751f-8f51-baadbd134cf6"}

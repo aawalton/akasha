@@ -996,6 +996,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/modules/build-sha/build-sha.module.ts","id":"01a05c48-deeb-700e-a808-4f4784f43278"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/modules/live-version/live-version.module.ts","id":"01a05c48-deeb-700f-82ef-afcd8de33755"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-build-version/web-build-version.domain.ts","id":"01a05c48-deeb-700d-9df1-fad9c81a0a32"}
+{"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/answer-following/answer-following.module.ts","id":"01a0d578-c0fa-751e-afec-ba89fb6d0097"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/answer-page-types/answer-page-types.module.ts","id":"01a0640f-8510-78d4-a12e-20e2f4f3927a"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.ts","id":"01a0640f-8510-7ab5-87bf-f593cb1eb7a7"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/modules/nav-icon-svg/nav-icon-svg.module.ts","id":"01a0640f-8510-721d-88b0-b37b2bda4681"}
@@ -1236,7 +1237,6 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-handover-exchange/alan-web-api-handover-exchange.route.ts","id":"01a0bc7e-8f2d-7d79-ae15-766dd0ad377c"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-page-events/alan-web-api-page-events.route.ts","id":"01a0d4bf-c2a3-75bb-8c8f-0741343e0fa4"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-page-file/alan-web-api-page-file.route.ts","id":"01a0d4ab-e2a3-7918-92c5-98ade7912a09"}
-{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-page-follow/alan-web-api-page-follow.route.ts","id":"01a0d4bf-e376-77a8-a8cb-1f6754f8cda0"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-page-write/alan-web-api-page-write.route.ts","id":"01a0882c-bfbe-7b18-9cbf-ce33bfbb3bce"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-picture/alan-web-api-picture.route.ts","id":"01a09c62-851a-71cc-950c-0d3fe7144579"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.ts","id":"01a08834-9fa8-7538-bb21-73af9a36b58d"}

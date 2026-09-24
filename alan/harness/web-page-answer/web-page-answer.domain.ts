@@ -6,6 +6,7 @@ export const webPageAnswer = {
   slug: "web-page-answer",
   definition: "the answer to a browser asking a site about pages and nav icons",
   parts: [
+    "module/answer-following",
     "module/answer-page-types",
     "module/answer-page-write",
     "module/answer-pages",

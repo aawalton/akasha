@@ -732,6 +732,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-build-version/modules/build-sha/build-sha.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-build-version/modules/live-version/live-version.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-following/answer-following.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-page-types/answer-page-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.ts"}
