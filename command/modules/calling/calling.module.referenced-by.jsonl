@@ -381,6 +381,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/reset/seat-reset.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/resume/seat-resume.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/resume/seat-resume.command.test.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/start/seat-start.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/start/seat-start.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}

@@ -190,6 +190,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/reset/seat-reset.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/resume/seat-resume.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/send/seat-send.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/start/seat-start.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.ts"}

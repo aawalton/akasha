@@ -21,6 +21,8 @@
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"command/pages/read/read.command.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"command/pages/seat/send/seat-send.command.test.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"command/pages/seat/transcript-follow/seat-transcript-follow.command.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-beside.module.code.ts","path":"command/pages/seat/transcript-list/seat-transcript-list.command.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

@@ -197,6 +197,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/reset/seat-reset.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/resume/seat-resume.command.code.ts"}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/start/seat-start.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}

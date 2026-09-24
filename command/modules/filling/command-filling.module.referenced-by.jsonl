@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts"}
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
+{"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts"}
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.code.ts"}
 {"propertySlug":"import","fileName":"command-filling.module.code.ts","path":"command/pages/sms/send/sms-send.command.code.ts"}
 {"propertySlug":"import","fileName":"command-filling.module.test-fixtures.ts","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.test.ts"}
