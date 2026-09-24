@@ -8,7 +8,6 @@ export const theVioletHour = {
   unit: "unit/words",
   externalId: "the-violet-hour",
   gameEngine: "awen",
-  coordinatorAgent: "awen-gm--the-violet-hour",
   controlledEntityKind: "single",
   mechanicsWeight: "zero",
   resolution: "none",
