@@ -16,7 +16,6 @@ export const pageCore = {
     "domain/page-core-view-state",
     "module/as-json",
     "module/icon",
-    "module/media-formats",
     "module/null-ordering",
     "module/page-data",
     "module/page-name",
