@@ -9,11 +9,17 @@ export const scriptureCollection = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/external-id", required: false, many: false },
+    { pageProperty: "select-property/scripture-translation", required: false, many: false },
   ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A book of scripture is named by the key its passages are reached under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A book names a rendering only where every passage in the book names that rendering.",
     },
   ],
   types: "ts",

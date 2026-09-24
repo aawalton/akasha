@@ -5,7 +5,7 @@ export const scriptureTranslation = {
   type: "page-type/select-property",
   slug: "scripture-translation",
   propertySlug: "translation",
-  definition: "a passage's rendering of scripture",
+  definition: "a rendering of scripture",
   values: ["book-of-mormon", "web"],
   decisions: [
     {

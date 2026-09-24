@@ -5,6 +5,7 @@ export const scriptureCollection1Nephi = {
   type: "page-type/scripture-collection",
   slug: "scripture-collection-1-nephi",
   title: "1 Nephi",
+  translation: "book-of-mormon",
   partOfCollections: ["scripture-collection/book-of-mormon"],
   position: 1,
   ownLength: 0,
