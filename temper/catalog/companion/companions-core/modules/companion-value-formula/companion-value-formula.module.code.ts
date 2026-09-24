@@ -1,5 +1,7 @@
 export type CompanionScalingMetricId = "companion-weapon-damage" | "companion-health-maximum"
 
+export type CompanionScalingStats = Readonly<Record<CompanionScalingMetricId, number>>
+
 type CoefficientType = "total" | "per-tick"
 
 export type CompanionValueFormula =

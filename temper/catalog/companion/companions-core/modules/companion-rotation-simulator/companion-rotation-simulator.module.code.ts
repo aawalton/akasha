@@ -17,6 +17,7 @@ import {
   activateSkill,
   selectNextSkill,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-executor/companion-skill-executor.module.code.ts"
+import type { CompanionScalingStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import type {
   HealthSamples,
   RotationConfig,
@@ -49,8 +50,11 @@ export function simulateCompanionRotation(
     metricsMap.set(metric.id, metric.value)
   }
 
-  const weaponPower = metricsMap.get("companion-weapon-damage") ?? 2000
-  const scalingStat = weaponPower
+  const stats: CompanionScalingStats = {
+    "companion-weapon-damage": requireGet(metricsMap, "companion-weapon-damage", "metrics"),
+    "companion-health-maximum": requireGet(metricsMap, "companion-health-maximum", "metrics"),
+  }
+  const weaponPower = stats["companion-weapon-damage"]
 
   const critRating = metricsMap.get("companion-critical-chance") ?? 0
   const critMetric = companionMetrics.data["companion-critical-chance"]
@@ -70,7 +74,7 @@ export function simulateCompanionRotation(
   const armorMitigation = Math.min(remainingArmor / 50000, 0.5)
   const armorDamageMultiplier = 1 - armorMitigation
 
-  const state = initializeState(validSkillIds)
+  const state = initializeState(validSkillIds, stats)
 
   const orderedSkillStates = validSkillIds.map((id) =>
     requireGet(state.skillStates, id, "state.skillStates")
@@ -120,5 +124,5 @@ export function simulateCompanionRotation(
     state.currentTime += SIMULATION_TICK_INTERVAL
   }
 
-  return calculateResults(state, metricsMap, critChance, scalingStat, armorDamageMultiplier, config)
+  return calculateResults(state, metricsMap, critChance, stats, armorDamageMultiplier, config)
 }

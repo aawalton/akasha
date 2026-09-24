@@ -2,6 +2,7 @@ import { companionSkills } from "akasha/temper/catalog/companion/companions-core
 import { extractFormulaComponents } from "akasha/temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.code.ts"
 import { calculateLightAttackDamage } from "akasha/temper/catalog/companion/companions-core/modules/companion-light-attack/companion-light-attack.module.code.ts"
 import { classifyHealingTarget } from "akasha/temper/catalog/companion/companions-core/modules/companion-rotation-state/companion-rotation-state.module.code.ts"
+import type { CompanionScalingStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import { calculateEffectiveMultiplier } from "akasha/temper/catalog/companion/companions-core/modules/condition-evaluator/condition-evaluator.module.code.ts"
 import type {
   DamageBreakdown,
@@ -43,7 +44,7 @@ export function calculateResults(
   state: RotationState,
   metrics: Map<string, number>,
   critChance: number,
-  scalingStat: number,
+  stats: CompanionScalingStats,
   armorDamageMultiplier: number,
   config: RotationConfig
 ): RotationResult {
@@ -69,7 +70,7 @@ export function calculateResults(
   for (const [skillId, skillState] of state.skillStates) {
     const skill = companionSkills().data[skillId]
     const components = skill
-      ? extractFormulaComponents(skill, {
+      ? extractFormulaComponents(skill, stats, {
           damageTakenFrequency: config.damageTakenFrequency,
           playerDamageFrequency: config.playerDamageFrequency,
           synergyActivationRate: config.synergyActivationRate,
@@ -82,11 +83,7 @@ export function calculateResults(
     let skillHealing = 0
 
     for (const component of components) {
-      const componentBaseValue =
-        component.coefficient !== undefined
-          ? component.coefficient * scalingStat
-          : component.baseValue
-      const totalValue = componentBaseValue * skillState.usageCount
+      const totalValue = component.baseValue * skillState.usageCount
 
       const critDamage = metrics.get("companion-critical-damage") ?? 0
       const critHealing = metrics.get("companion-critical-healing") ?? 0
@@ -185,7 +182,7 @@ export function calculateResults(
         totalSelfHealing += heal * selfPortion
         totalAllyHealing += heal * allyPortion
       } else if (component.category === "shield") {
-        const shieldValue = componentBaseValue * skillState.usageCount
+        const shieldValue = totalValue
 
         const [selfPortion, allyPortion] = classifyHealingTarget(component.targetType)
         totalSelfShielding += shieldValue * selfPortion
@@ -219,10 +216,13 @@ export function calculateResults(
   if (state.lightAttackCount > 0) {
     const critDamage = metrics.get("companion-critical-damage") ?? 0
     const avgCritMult = 1 + critChance * (0.5 + critDamage)
-    const weaponPower = metrics.get("companion-weapon-damage") ?? 2000
     const baseLightAttackDamage =
-      calculateLightAttackDamage(weaponPower, tooltipDamageMult, false, armorDamageMultiplier) *
-      avgCritMult
+      calculateLightAttackDamage(
+        stats["companion-weapon-damage"],
+        tooltipDamageMult,
+        false,
+        armorDamageMultiplier
+      ) * avgCritMult
 
     const totalLightAttackDamage = baseLightAttackDamage * state.lightAttackDamageMultSum
 

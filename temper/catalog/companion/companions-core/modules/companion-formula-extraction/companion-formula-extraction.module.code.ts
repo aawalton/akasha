@@ -5,11 +5,10 @@ import type {
   CompanionSkillEffectComponent,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import {
-  type CompanionScalingMetricId,
+  type CompanionScalingStats,
   type CompanionValueFormula,
   getFormulaCoefficientType,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
-import { companionBase } from "akasha/temper/catalog/companion/companions-core/modules/companions-base-source/companions-base-source.module.code.ts"
 import type {
   DamageType,
   EffectCondition,
@@ -27,7 +26,6 @@ interface ExtractedFormulaComponent {
   id: string
   category: "direct-damage" | "dot-damage" | "direct-heal" | "hot-heal" | "shield"
   baseValue: number
-  coefficient?: number
   damageType: DamageType | null
   duration?: number
   tickInterval?: number
@@ -40,37 +38,23 @@ interface ExtractedFormulaComponent {
   conditionalMultiplier?: number
 }
 
-function getDefaultCompanionStatValue(metricId: CompanionScalingMetricId): number {
-  const baseStats = companionBase.data["companion-base-stats"]
-  for (const effect of baseStats.effects) {
-    if (effect.metricId === metricId && effect.effectType === "integer") {
-      return effect.effectValue
-    }
-  }
-  return metricId === "companion-weapon-damage" ? 2000 : 30000
-}
-
 function calculateBaseValueFromFormula(
   formula: CompanionValueFormula | undefined,
-  tickCount?: number,
-  config: Required<EffectExtractionConfig> = DEFAULT_EXTRACTION_CONFIG
+  state: ExtractionState,
+  tickCount?: number
 ): number {
   if (!formula) return 0
 
   let rawValue: number
   switch (formula.type) {
-    case "metric-scaling": {
-      const metricValue = getDefaultCompanionStatValue(formula.metricId)
-      rawValue = formula.coefficient * metricValue
+    case "metric-scaling":
+      rawValue = formula.coefficient * state.stats[formula.metricId]
       break
-    }
-    case "metric-percent": {
-      const metricValue = getDefaultCompanionStatValue(formula.metricId)
-      rawValue = (formula.percent / 100) * metricValue
+    case "metric-percent":
+      rawValue = (formula.percent / 100) * state.stats[formula.metricId]
       break
-    }
     case "player-health-percent":
-      rawValue = (formula.percent / 100) * config.playerMaxHealth
+      rawValue = (formula.percent / 100) * state.config.playerMaxHealth
       break
     case "fixed":
       rawValue = formula.value
@@ -84,21 +68,6 @@ function calculateBaseValueFromFormula(
   }
 
   return rawValue
-}
-
-function getFormulaCoefficient(
-  formula: CompanionValueFormula | undefined,
-  tickCount?: number
-): number | undefined {
-  if (formula?.type !== "metric-scaling") return undefined
-
-  const coefficient = formula.coefficient
-
-  if (tickCount != null && getFormulaCoefficientType(formula) === "per-tick") {
-    return coefficient * tickCount
-  }
-
-  return coefficient
 }
 
 interface EffectExtractionConfig {
@@ -117,6 +86,7 @@ const DEFAULT_EXTRACTION_CONFIG: Required<EffectExtractionConfig> = {
 
 interface ExtractionState {
   componentIndex: number
+  stats: CompanionScalingStats
   config: Required<EffectExtractionConfig>
 }
 
@@ -128,14 +98,12 @@ function extractSingleEffect(
   const { config } = state
 
   if (effect.type === "damage") {
-    const coefficient = getFormulaCoefficient(effect.formula)
-    const baseValue = calculateBaseValueFromFormula(effect.formula, undefined, config)
+    const baseValue = calculateBaseValueFromFormula(effect.formula, state)
 
     components.push({
       id: `damage-${state.componentIndex++}`,
       category: "direct-damage",
       baseValue,
-      coefficient,
       damageType: effect.damageType,
       isAoe: effect.target.scope !== "single",
       maxTargets: effect.target.maxTargets,
@@ -145,14 +113,12 @@ function extractSingleEffect(
   } else if (effect.type === "dot") {
     const tickInterval = effect.tickInterval ?? 2
     const tickCount = Math.floor(effect.duration / tickInterval) + (effect.initialTick ? 1 : 0)
-    const coefficient = getFormulaCoefficient(effect.formula, tickCount)
-    const baseValue = calculateBaseValueFromFormula(effect.formula, tickCount, config)
+    const baseValue = calculateBaseValueFromFormula(effect.formula, state, tickCount)
 
     components.push({
       id: `dot-${state.componentIndex++}`,
       category: "dot-damage",
       baseValue,
-      coefficient,
       damageType: effect.damageType,
       duration: effect.duration,
       tickInterval,
@@ -160,14 +126,12 @@ function extractSingleEffect(
       maxTargets: effect.target.maxTargets,
     })
   } else if (effect.type === "heal") {
-    const coefficient = getFormulaCoefficient(effect.formula)
-    const baseValue = calculateBaseValueFromFormula(effect.formula, undefined, config)
+    const baseValue = calculateBaseValueFromFormula(effect.formula, state)
 
     components.push({
       id: `heal-${state.componentIndex++}`,
       category: "direct-heal",
       baseValue,
-      coefficient,
       damageType: null,
       isAoe: effect.target.scope !== "single",
       maxTargets: effect.target.maxTargets,
@@ -178,14 +142,12 @@ function extractSingleEffect(
   } else if (effect.type === "hot") {
     const tickInterval = effect.tickInterval ?? 2
     const tickCount = Math.floor(effect.duration / tickInterval) + (effect.initialTick ? 1 : 0)
-    const coefficient = getFormulaCoefficient(effect.formula, tickCount)
-    const baseValue = calculateBaseValueFromFormula(effect.formula, tickCount, config)
+    const baseValue = calculateBaseValueFromFormula(effect.formula, state, tickCount)
 
     components.push({
       id: `hot-${state.componentIndex++}`,
       category: "hot-heal",
       baseValue,
-      coefficient,
       damageType: null,
       duration: effect.duration,
       tickInterval,
@@ -194,14 +156,12 @@ function extractSingleEffect(
       targetType: effect.target.type,
     })
   } else if (effect.type === "shield") {
-    const coefficient = getFormulaCoefficient(effect.formula)
-    const baseValue = calculateBaseValueFromFormula(effect.formula, undefined, config)
+    const baseValue = calculateBaseValueFromFormula(effect.formula, state)
 
     components.push({
       id: `shield-${state.componentIndex++}`,
       category: "shield",
       baseValue,
-      coefficient,
       damageType: null,
       duration: effect.duration,
       isAoe: effect.target.scope !== "single",
@@ -209,30 +169,26 @@ function extractSingleEffect(
       targetType: effect.target.type,
     })
   } else if (effect.type === "multi-hit") {
-    const coefficient = getFormulaCoefficient(effect.formula)
-    const baseValue = calculateBaseValueFromFormula(effect.formula, undefined, config)
+    const baseValue = calculateBaseValueFromFormula(effect.formula, state)
 
     for (let i = 0; i < effect.hitCount; i++) {
       components.push({
         id: `hit-${state.componentIndex++}`,
         category: "direct-damage",
         baseValue,
-        coefficient,
         damageType: effect.damageType,
         isAoe: effect.target.scope !== "single",
         maxTargets: effect.target.maxTargets,
       })
     }
   } else if (effect.type === "multi-heal") {
-    const coefficient = getFormulaCoefficient(effect.formula)
-    const baseValue = calculateBaseValueFromFormula(effect.formula, undefined, config)
+    const baseValue = calculateBaseValueFromFormula(effect.formula, state)
 
     for (let i = 0; i < effect.healCount; i++) {
       components.push({
         id: `heal-${state.componentIndex++}`,
         category: "direct-heal",
         baseValue,
-        coefficient,
         damageType: null,
         isAoe: effect.target.scope !== "single",
         maxTargets: effect.target.maxTargets,
@@ -242,8 +198,7 @@ function extractSingleEffect(
       })
     }
   } else if (effect.type === "retaliation") {
-    const coefficient = getFormulaCoefficient(effect.formula)
-    const baseValue = calculateBaseValueFromFormula(effect.formula, undefined, config)
+    const baseValue = calculateBaseValueFromFormula(effect.formula, state)
 
     const duration = effect.duration ?? 0
     const maxOccurrences = effect.maxOccurrences ?? 1
@@ -254,7 +209,6 @@ function extractSingleEffect(
         id: `retaliation-${state.componentIndex++}`,
         category: "direct-damage",
         baseValue: baseValue * expectedTriggers,
-        coefficient: coefficient != null ? coefficient * expectedTriggers : undefined,
         damageType: effect.damageType,
         isAoe: effect.target?.scope !== "single",
         maxTargets: effect.target?.maxTargets,
@@ -272,8 +226,7 @@ function extractSingleEffect(
       components.push(component)
     }
   } else if (effect.type === "player-trigger") {
-    const coefficient = getFormulaCoefficient(effect.formula)
-    const baseValue = calculateBaseValueFromFormula(effect.formula, undefined, config)
+    const baseValue = calculateBaseValueFromFormula(effect.formula, state)
 
     const expectedTriggers = 1
 
@@ -281,7 +234,6 @@ function extractSingleEffect(
       id: `player-trigger-${state.componentIndex++}`,
       category: "direct-damage",
       baseValue: baseValue * expectedTriggers,
-      coefficient: coefficient != null ? coefficient * expectedTriggers : undefined,
       damageType: effect.damageType,
       isAoe: effect.target.scope !== "single",
       maxTargets: effect.target.maxTargets,
@@ -296,9 +248,6 @@ function extractSingleEffect(
       for (const component of nestedComponents) {
         component.triggerType = "periodic-trigger"
         component.baseValue *= triggerCount
-        if (component.coefficient != null) {
-          component.coefficient *= triggerCount
-        }
         component.expectedTriggerCount = triggerCount
         components.push(component)
       }
@@ -308,9 +257,6 @@ function extractSingleEffect(
     for (const component of nestedComponents) {
       component.triggerType = "synergy"
       component.baseValue *= config.synergyActivationRate
-      if (component.coefficient != null) {
-        component.coefficient *= config.synergyActivationRate
-      }
       component.expectedTriggerCount = config.synergyActivationRate
       components.push(component)
     }
@@ -332,11 +278,13 @@ function isSkillEffectComponent(effect: CompanionEffect): effect is CompanionSki
 
 export function extractFormulaComponents(
   template: CompanionSkillTemplate,
+  stats: CompanionScalingStats,
   config?: EffectExtractionConfig
 ): readonly ExtractedFormulaComponent[] {
   const components: ExtractedFormulaComponent[] = []
   const state: ExtractionState = {
     componentIndex: 0,
+    stats,
     config: { ...DEFAULT_EXTRACTION_CONFIG, ...config },
   }
 

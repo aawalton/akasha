@@ -8,6 +8,7 @@ import {
   getSkillCooldown,
   getSkillUltimateCost,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import type { CompanionScalingStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
 import type {
   RotationCategory,
   RotationState,
@@ -60,7 +61,7 @@ function getSkillEffectDuration(skillId: CompanionSkillId, buffDurationMod = 0):
 type SkillHealType = "heals-ally" | "heals-self-only" | "no-heal"
 const skillHealTypeCache = new Map<CompanionSkillId, SkillHealType>()
 
-function getSkillHealType(skillId: CompanionSkillId): SkillHealType {
+function getSkillHealType(skillId: CompanionSkillId, stats: CompanionScalingStats): SkillHealType {
   let healType = skillHealTypeCache.get(skillId)
   if (healType !== undefined) return healType
 
@@ -70,7 +71,7 @@ function getSkillHealType(skillId: CompanionSkillId): SkillHealType {
     return "no-heal"
   }
 
-  const components = extractFormulaComponents(skill)
+  const components = extractFormulaComponents(skill, stats)
   healType = "no-heal"
   for (const component of components) {
     if (component.category === "direct-heal" || component.category === "hot-heal") {
@@ -103,7 +104,10 @@ export function classifyHealingTarget(
   }
 }
 
-export function initializeState(skillIds: readonly CompanionSkillId[]): RotationState {
+export function initializeState(
+  skillIds: readonly CompanionSkillId[],
+  stats: CompanionScalingStats
+): RotationState {
   const skillStates = new Map<CompanionSkillId, SkillState>()
 
   for (const skillId of skillIds) {
@@ -127,7 +131,7 @@ export function initializeState(skillIds: readonly CompanionSkillId[]): Rotation
       ultimateCost,
       castConditions,
       baseEffectDuration: getSkillEffectDuration(skillId),
-      healType: getSkillHealType(skillId),
+      healType: getSkillHealType(skillId, stats),
     })
   }
 
