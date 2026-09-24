@@ -145,5 +145,17 @@ export const gameMaster = {
       warrant: "A fact the turn settled and no lore page holds is contradicted by a later turn.",
       aids: ["Land a fact at game-master or player disclosure, never world-builder."],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Ask The World Builder",
+      act: "Never read lore at world-builder disclosure; ask your game's world builder 'may I know X yet?'.",
+      warrant:
+        "A secret the game master holds leaks into every turn before the moment it waits on.",
+      aids: [
+        "Send the world builder each published turn's path, so it knows what happened in play.",
+        "Ask to know, never for approval of what you write.",
+        "A refused read is the barrier working.",
+      ],
+    },
   ],
 } as const satisfies Role
