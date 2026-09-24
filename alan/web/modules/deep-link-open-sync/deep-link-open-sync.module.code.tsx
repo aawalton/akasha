@@ -1,6 +1,7 @@
 "use client"
 
 import {
+  deliveryCounts,
   widgetTapId,
   widgetTapped,
 } from "akasha/alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.code.ts"
@@ -53,12 +54,12 @@ export function DeepLinkOpenSync() {
 
     const route = (url: string | null | undefined, source: string) => {
       if (url == null) return
+      const counts = deliveryCounts(url, launchRepeat, countedTaps)
       const tap = widgetTapId(url)
-      const repeats = tap === null ? url === launchRepeat : countedTaps.has(tap)
       launchRepeat = null
       carried = url
       if (tap !== null) countedTaps.add(tap)
-      if (!repeats) countTap(url)
+      if (counts) countTap(url)
       const path = decideOpenUrlRoute(url)
       if (path == null) {
         console.warn(`[deep-link] ${source} with no routable path`, url)

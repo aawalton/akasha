@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  deliveryCounts,
   widgetTapId,
   widgetTapped,
 } from "akasha/alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.code.ts"
@@ -57,4 +58,26 @@ test("a link naming no tap names none", () => {
 test("text that is no link names no tap", () => {
   expect(widgetTapId("not a url")).toBe(null)
   expect(widgetTapId(null)).toBe(null)
+})
+
+const SURPLUS = "alanwalton://localhost/nav/tracking-690c624f#widget=alanwalton-surplus"
+
+test("two taps on one widget straight after launch count two", () => {
+  const launch = `${SURPLUS}&tap=a`
+  expect(deliveryCounts(launch, null, new Set())).toBe(true)
+  expect(deliveryCounts(`${SURPLUS}&tap=b`, launch, new Set(["a"]))).toBe(true)
+})
+
+test("one tap arriving twice counts once", () => {
+  const launch = `${SURPLUS}&tap=a`
+  expect(deliveryCounts(launch, launch, new Set(["a"]))).toBe(false)
+})
+
+test("a link naming no tap that repeats the launch link counts nothing", () => {
+  expect(deliveryCounts(SURPLUS, SURPLUS, new Set())).toBe(false)
+})
+
+test("a link naming no tap counts where it is not the launch link repeated", () => {
+  expect(deliveryCounts(SURPLUS, null, new Set())).toBe(true)
+  expect(deliveryCounts(SURPLUS, `${SURPLUS}&tap=a`, new Set(["a"]))).toBe(true)
 })

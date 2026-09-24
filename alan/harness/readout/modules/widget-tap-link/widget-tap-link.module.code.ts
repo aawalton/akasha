@@ -20,3 +20,12 @@ export function widgetTapped(rawUrl: unknown): string | null {
 export function widgetTapId(rawUrl: unknown): string | null {
   return fragmentNamed(rawUrl, TAP)
 }
+
+export function deliveryCounts(
+  url: string,
+  launchLink: string | null,
+  countedTaps: ReadonlySet<string>
+): boolean {
+  const tap = widgetTapId(url)
+  return tap === null ? url !== launchLink : !countedTaps.has(tap)
+}

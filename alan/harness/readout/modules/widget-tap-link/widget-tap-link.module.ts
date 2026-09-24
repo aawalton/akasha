@@ -41,6 +41,14 @@ export const widgetTapLink = {
       statement: "A link naming no tap, or a tap with an empty name, answers with no tap.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A delivery naming a tap counts unless that tap was counted already.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A delivery naming no tap counts unless that delivery repeats the launch link.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here counts a tap.",
     },
