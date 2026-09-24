@@ -9,6 +9,7 @@ import type { CurrencyCatalogEntry } from "akasha/temper/capture/shape/modules/c
 import type { EngineGlobalsCatalogData } from "akasha/temper/capture/shape/modules/engine-globals-catalog/engine-globals-catalog.module.code.ts"
 import type { FurnitureCatalogData } from "akasha/temper/capture/shape/modules/furniture-catalog/furniture-catalog.module.code.ts"
 import type { InterfaceColorCatalogData } from "akasha/temper/capture/shape/modules/interface-color-catalog/interface-color-catalog.module.code.ts"
+import type { InterfaceStringCatalogData } from "akasha/temper/capture/shape/modules/interface-string-catalog/interface-string-catalog.module.code.ts"
 import type { InventoryConstantsCatalogData } from "akasha/temper/capture/shape/modules/inventory-constants-catalog/inventory-constants-catalog.module.code.ts"
 import type { ItemSetCatalogEntry } from "akasha/temper/capture/shape/modules/item-set-catalog/item-set-catalog.module.code.ts"
 import type { LoreLibraryCatalogCategory } from "akasha/temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.code.ts"
@@ -43,6 +44,7 @@ export interface CatalogPayload {
   skillCatalog?: Record<number, SkillCatalogLine>
   engineGlobalsCatalog?: EngineGlobalsCatalogData
   interfaceColorCatalog?: InterfaceColorCatalogData
+  interfaceStringCatalog?: InterfaceStringCatalogData
   completed: boolean
   collectionSkips?: Record<string, string>
   apiVersion?: string

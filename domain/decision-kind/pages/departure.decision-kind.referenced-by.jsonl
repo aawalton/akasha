@@ -4540,6 +4540,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/equip-type-constants/equip-type-constants.module.ts","id":"01a06127-6630-7b21-8870-15d879b8a41a"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/furniture-catalog-capture/furniture-catalog-capture.module.ts","id":"01a060e2-3184-7486-8bde-685c51a8fc83"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/interface-color-catalog-capture/interface-color-catalog-capture.module.ts","id":"01a0d3f5-a80a-76c3-b935-bc7d8901eb90"}
+{"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/interface-string-catalog-capture/interface-string-catalog-capture.module.ts","id":"01a0d415-d3c7-7670-938f-b017b96a773c"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/inventory-constants-catalog-capture/inventory-constants-catalog-capture.module.ts","id":"01a06127-6637-741d-b7cf-e75c80c39e3d"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/item-filter-type-constants/item-filter-type-constants.module.ts","id":"01a06127-6642-7422-baf1-357f6f2e6d5f"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.ts","id":"01a06127-6644-7d5a-b5dd-845d71c2890e"}
@@ -4570,6 +4571,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/sale/temper-capture-sale.domain.ts","id":"01a0608a-15b3-7222-9758-3efaaecd469e"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/engine-globals-catalog/engine-globals-catalog.module.ts","id":"01a0ca9b-a3a0-7ec2-86bc-abbb99ef6d88"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/interface-color-catalog/interface-color-catalog.module.ts","id":"01a0d3f5-9078-73ed-8bca-db2004eeec48"}
+{"propertySlug":"decision-kind","path":"temper/capture/shape/modules/interface-string-catalog/interface-string-catalog.module.ts","id":"01a0d415-b913-7f5a-8c9e-4d9aef5b8f80"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/modules/account-wide-vars/account-wide-vars.module.ts","id":"01a060b5-5ba8-7a8b-9378-5bd025a7cb9d"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/modules/capture-writer/capture-writer.module.ts","id":"01a060b5-5ba9-7490-bcc8-208680a38a27"}

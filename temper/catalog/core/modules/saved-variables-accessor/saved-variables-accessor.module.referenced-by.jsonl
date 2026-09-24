@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/engine-globals-catalog-capture/engine-globals-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/furniture-catalog-capture/furniture-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-color-catalog-capture/interface-color-catalog-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-string-catalog-capture/interface-string-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/inventory-constants-catalog-capture/inventory-constants-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"saved-variables-accessor.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/lore-library-catalog-capture/lore-library-catalog-capture.module.code.ts"}

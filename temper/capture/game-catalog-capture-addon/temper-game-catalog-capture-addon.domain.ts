@@ -22,6 +22,7 @@ export const temperGameCatalogCaptureAddon = {
     "module/equip-type-constants",
     "module/furniture-catalog-capture",
     "module/interface-color-catalog-capture",
+    "module/interface-string-catalog-capture",
     "module/inventory-constants-catalog-capture",
     "module/item-filter-type-constants",
     "module/item-set-catalog-capture",

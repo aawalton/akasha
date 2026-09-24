@@ -560,6 +560,7 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/enum-value-labels/enum-value-labels.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/furniture-catalog-capture/furniture-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-color-catalog-capture/interface-color-catalog-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-string-catalog-capture/interface-string-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/lore-library-catalog-capture/lore-library-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/poi-catalog-capture/poi-catalog-capture.module.code.ts"}

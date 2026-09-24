@@ -790,6 +790,7 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-tracking/skill-morph-tracking.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/engine-globals-catalog-capture/engine-globals-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-color-catalog-capture/interface-color-catalog-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-string-catalog-capture/interface-string-catalog-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/capture/writer/modules/run-batched/run-batched.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-map-zone/dungeon-champion-map-zone.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/catalog/world/dungeon-champion/modules/dungeon-champion-slash/dungeon-champion-slash.module.code.ts"}
