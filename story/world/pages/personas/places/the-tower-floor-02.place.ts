@@ -9,11 +9,11 @@ export const theTowerFloor02 = {
   loreDisclosure: "lore-disclosure/player",
   depth: 2,
   description:
-    "The stair climbs into a vast flooded hall — water held impossibly high in the Tower, by no logic but the System's. Black water laps at a ring of broken walkway. The air is wet, mineral, cold enough to fog breath. Drips echo from a dark too big to see across. Somewhere ahead, the slow drag of something heavy through water. The way on is a corroded spiral stair on the far side, behind the water.",
+    "The stair climbs into a vast flooded hall — water held impossibly high in the Tower, by no logic but the System's. Black water laps at a ring of broken walkway. The air is wet, mineral, cold enough to fog breath. Drips echo from a dark too big to see across. Nothing moves in the water now. The way on is a corroded spiral stair on the far side, behind the water.",
   exits: [
     {
       to: "place/the-tower-floor-03",
-      way: "ascending spiral stair, far side (sealed until the floor is cleared)",
+      way: "ascending spiral stair, far side, open",
     },
   ],
 } as const satisfies Place
