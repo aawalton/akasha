@@ -17,6 +17,11 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A control coming into or out of view runs its handlers for that, as does each below it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "This is loaded after the control model, whose controls it gives methods to.",
     },
     {

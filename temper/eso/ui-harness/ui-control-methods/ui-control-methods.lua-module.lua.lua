@@ -25,11 +25,21 @@ local function told(control, event)
   for _, key in ipairs(named) do control.uiHandlers[key](control) end
 end
 
+local function toldBelow(control, event)
+  told(control, event)
+  for _, child in ipairs(control.uiChildren) do
+    if not child.uiHidden then toldBelow(child, event) end
+  end
+end
+
 function Control:SetHidden(hidden)
   local was = self.uiHidden
   self.uiHidden = hidden and true or false
   if was == self.uiHidden then return end
   told(self, self.uiHidden and "OnHide" or "OnShow")
+  local above = self.uiParent
+  if above ~= nil and above:IsHidden() then return end
+  toldBelow(self, self.uiHidden and "OnEffectivelyHidden" or "OnEffectivelyShown")
 end
 function Control:IsControlHidden() return self.uiHidden end
 function Control:IsHidden()
