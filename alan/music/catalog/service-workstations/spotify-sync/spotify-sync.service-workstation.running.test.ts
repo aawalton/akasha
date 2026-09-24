@@ -1,4 +1,5 @@
 import { afterEach, expect, mock, test } from "bun:test"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
 const HANDED: unknown[][] = []
 
@@ -56,13 +57,13 @@ test("a run hands the sweep the words its process was started with, so a flag re
 
 test("this run paces itself at a second a call rather than at the client's default", async () => {
   await running.runService()
-  expect(process.env["SPOTIFY_RATE_LIMIT_MS"]).toBe("1000")
+  expect(optionalEnv("SPOTIFY_RATE_LIMIT_MS")).toBe("1000")
 })
 
 test("a pace already set around this run is the pace the run keeps", async () => {
   process.env["SPOTIFY_RATE_LIMIT_MS"] = "2000"
   await running.runService()
-  expect(process.env["SPOTIFY_RATE_LIMIT_MS"]).toBe("2000")
+  expect(optionalEnv("SPOTIFY_RATE_LIMIT_MS")).toBe("2000")
 })
 
 test("a sweep that could not run is carried out rather than swallowed", async () => {

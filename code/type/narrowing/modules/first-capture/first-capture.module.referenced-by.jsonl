@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/harness/monarch/modules/transaction/monarch-transaction.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.reading.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/music/catalog/modules/track-typing/track-typing.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"alan/track/daily/modules/day-place/day-place.module.test.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.code.ts"}

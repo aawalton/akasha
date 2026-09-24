@@ -1,4 +1,5 @@
 import type { TrackType } from "akasha/alan/music/catalog/track/properties/track-type.select-property.types.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 const ASIDE = /[([]([^)\]]*)[)\]]/gu
 
@@ -23,9 +24,8 @@ export function asidesIn(title: string): readonly string[] {
     const said = one[1]
     if (said !== undefined) held.push(said)
   }
-  const tail = TAIL.exec(title.replace(ASIDE, " "))
-  const rest = tail?.[1]
-  if (rest !== undefined) held.push(rest)
+  const rest = firstCapture(TAIL.exec(title.replace(ASIDE, " ")))
+  if (rest !== null) held.push(rest)
   return held
 }
 
