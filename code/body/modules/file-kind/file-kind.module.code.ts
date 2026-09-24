@@ -1,126 +1,92 @@
 import { posix } from "node:path"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  textAt,
+  textsAt,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export type FileKind =
-  | "ts"
-  | "tsx"
-  | "js"
-  | "jsx"
-  | "css"
-  | "md"
-  | "yaml"
-  | "yml"
-  | "lua"
-  | "sql"
-  | "json"
-  | "sh"
-  | "rust"
-  | "toml"
-  | "swift"
-  | "dockerfile"
-  | "systemd-unit"
-  | "txt"
-  | "lock"
-  | "image"
-  | "xml"
-  | "html"
-  | "python"
-  | "csv"
-  | "certificate"
-  | "env"
-  | "conf"
-  | "ignore"
-  | "sops-config"
-  | "sops-secret"
-  | "jsonl"
+const KIND = "file-kind-domain"
 
-const CONTAINER_RECIPE_PREFIXES: readonly string[] = ["Dockerfile", "Containerfile"]
+const SLUG = "slug"
 
-const isContainerRecipeBasename = (name: string): boolean =>
-  CONTAINER_RECIPE_PREFIXES.some((prefix) => {
-    if (!name.startsWith(prefix)) return false
-    if (name.length === prefix.length) return true
-    return name.charAt(prefix.length) === "."
-  })
+const PATTERNS = "namePatterns"
 
-const PLAIN_TEXT_BASENAMES: ReadonlySet<string> = new Set([
-  "LICENSE",
-  "LICENCE",
-  "COPYING",
-  "NOTICE",
-])
-
-const ENV_BASENAME = ".env"
-
-const isEnvBasename = (name: string): boolean =>
-  name === ENV_BASENAME || name.startsWith(`${ENV_BASENAME}.`)
-
-const IGNORE_SUFFIX = "ignore"
-
-const isIgnoreBasename = (name: string): boolean =>
-  name.startsWith(".") && name.endsWith(IGNORE_SUFFIX) && name.length > IGNORE_SUFFIX.length + 1
-
-const SOPS_YAML_ENDING = ".sops.yaml"
+const STAR = "*"
 
 const TEMPLATE_SUFFIX = ".template"
 
-export function typeScripted(path: string): boolean {
-  return path.endsWith(".ts") || path.endsWith(".tsx")
+const TYPESCRIPT: ReadonlySet<string> = new Set(["ts", "tsx"])
+
+type Starred = {
+  readonly slug: string
+  readonly head: string
+  readonly tail: string
 }
 
-export const classifyExtension = (relPath: string): FileKind | null => {
+type Told = {
+  readonly whole: ReadonlyMap<string, string>
+  readonly starred: readonly Starred[]
+}
+
+function rankOf(one: Starred): number {
+  return one.tail === "" ? 0 : 1
+}
+
+function byRank(one: Starred, two: Starred): number {
+  const ranked = rankOf(one) - rankOf(two)
+  if (ranked !== 0) return ranked
+  const held = two.head.length + two.tail.length - (one.head.length + one.tail.length)
+  if (held !== 0) return held
+  return one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0
+}
+
+function toldBy(root: string, pageTypeSlug: string): Told {
+  const whole = new Map<string, string>()
+  const starred: Starred[] = []
+  for (const one of valuesOfType(root, pageTypeSlug)) {
+    const slug = textAt(one.value, SLUG)
+    if (slug === null) continue
+    for (const pattern of textsAt(one.value, PATTERNS) ?? []) {
+      const cut = pattern.indexOf(STAR)
+      if (cut < 0) whole.set(pattern, slug)
+      else starred.push({ slug, head: pattern.slice(0, cut), tail: pattern.slice(cut + 1) })
+    }
+  }
+  return { whole, starred: starred.sort(byRank) }
+}
+
+function matches(one: Starred, name: string): boolean {
+  if (name.length <= one.head.length + one.tail.length) return false
+  return name.startsWith(one.head) && name.endsWith(one.tail)
+}
+
+function namedIn(told: Told, name: string): string | null {
+  const whole = told.whole.get(name)
+  if (whole !== undefined) return whole
+  return told.starred.find((one) => matches(one, name))?.slug ?? null
+}
+
+const HERE = import.meta.dir
+
+let kinds: Told | null = null
+
+function kindsHeld(): Told {
+  kinds ??= toldBy(rootOf(HERE), KIND)
+  return kinds
+}
+
+export function typeScripted(path: string): boolean {
+  const kind = namedIn(kindsHeld(), posix.basename(path))
+  return kind !== null && TYPESCRIPT.has(kind)
+}
+
+export function classifyExtension(relPath: string): string | null {
   const base = posix.basename(relPath)
-  if (isContainerRecipeBasename(base)) return "dockerfile"
-  if (PLAIN_TEXT_BASENAMES.has(base)) return "txt"
-  if (isEnvBasename(base)) return "env"
-  if (isIgnoreBasename(base)) return "ignore"
-  if (base === SOPS_YAML_ENDING) return "sops-config"
+  const kind = namedIn(kindsHeld(), base)
+  if (kind !== null) return kind
   if (base.endsWith(TEMPLATE_SUFFIX) && base.length > TEMPLATE_SUFFIX.length) {
     return classifyExtension(relPath.slice(0, relPath.length - TEMPLATE_SUFFIX.length))
   }
-  if (relPath.endsWith(".tsx")) return "tsx"
-  if (relPath.endsWith(".ts")) return "ts"
-  if (relPath.endsWith(".jsx")) return "jsx"
-  if (relPath.endsWith(".js") || relPath.endsWith(".cjs") || relPath.endsWith(".mjs")) return "js"
-  if (relPath.endsWith(".css")) return "css"
-  if (relPath.endsWith(".md")) return "md"
-  if (relPath.endsWith(SOPS_YAML_ENDING)) return "sops-secret"
-  if (relPath.endsWith(".yaml")) return "yaml"
-  if (relPath.endsWith(".yml")) return "yml"
-  if (relPath.endsWith(".lua")) return "lua"
-  if (relPath.endsWith(".sql")) return "sql"
-  if (relPath.endsWith(".jsonl")) return "jsonl"
-  if (relPath.endsWith(".json") || relPath.endsWith(".code-workspace")) return "json"
-  if (relPath.endsWith(".sh") || relPath.endsWith(".bash")) return "sh"
-  if (relPath.endsWith(".rs")) return "rust"
-  if (relPath.endsWith(".toml")) return "toml"
-  if (relPath.endsWith(".swift")) return "swift"
-  if (relPath.endsWith(".service") || relPath.endsWith(".timer")) return "systemd-unit"
-  if (relPath.endsWith(".txt")) return "txt"
-  if (relPath.endsWith(".lock")) return "lock"
-  if (
-    relPath.endsWith(".png") ||
-    relPath.endsWith(".jpg") ||
-    relPath.endsWith(".jpeg") ||
-    relPath.endsWith(".ico") ||
-    relPath.endsWith(".dds")
-  ) {
-    return "image"
-  }
-  if (
-    relPath.endsWith(".xml") ||
-    relPath.endsWith(".svg") ||
-    relPath.endsWith(".kml") ||
-    relPath.endsWith(".plist") ||
-    relPath.endsWith(".entitlements")
-  ) {
-    return "xml"
-  }
-  if (relPath.endsWith(".html") || relPath.endsWith(".htm")) return "html"
-  if (relPath.endsWith(".py")) return "python"
-  if (relPath.endsWith(".csv")) return "csv"
-  if (relPath.endsWith(".crt") || relPath.endsWith(".pem") || relPath.endsWith(".cer")) {
-    return "certificate"
-  }
-  if (relPath.endsWith(".conf")) return "conf"
   return null
 }

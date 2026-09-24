@@ -13,31 +13,37 @@ export const fileKind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A whole basename is read before any extension of that basename is.",
+      statement: "The kinds are the file kind pages the index names.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path ending `.ts` or `.tsx` is TypeScript.",
+      statement:
+        "A path is answered with the slug of the kind whose name pattern its name matches.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Whether a path is TypeScript is answered from the ending alone.",
+      statement: "The kinds are read from the checkout this code sits in, once in a process.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name ending `.template` is read as the same name without that ending.",
+      statement: "A path of the kind `ts` or `tsx` is TypeScript.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name no rule reaches says no kind rather than a kind meaning unknown.",
+      statement: "Whether a path is TypeScript is answered from its own name alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name no pattern matches and ending `.template` is read as the same name without that ending.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name no pattern matches says no kind rather than a kind meaning unknown.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here opens the file the path names.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here says whether a kind is text or bytes.",
     },
   ],
 } as const satisfies Module

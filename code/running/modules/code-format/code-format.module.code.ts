@@ -1,9 +1,6 @@
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import {
-  classifyExtension,
-  type FileKind,
-} from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
+import { classifyExtension } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { linterEnv } from "akasha/code/running/modules/code-lint/code-lint.module.code.ts"
 import { insideOf } from "akasha/code/running/modules/test-overlay/test-overlay.module.code.ts"
 import { bytes } from "akasha/code/spawning/modules/running/running.module.code.ts"
@@ -18,7 +15,7 @@ const CONFIG = "biome.json"
 
 const CARRIED: readonly string[] = [CONFIG, ".gitignore"]
 
-const FORMATS: ReadonlySet<FileKind> = new Set<FileKind>(["ts", "tsx", "js", "jsx", "css"])
+const FORMATS: ReadonlySet<string> = new Set(["ts", "tsx", "js", "jsx", "css"])
 
 const CHECKS = "check"
 

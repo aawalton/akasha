@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"check/modules/audit-listening/audit-listening.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"check/modules/checking/checking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"code/body/modules/file-kind/file-kind.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"code/editor/extension/modules/harness-call/harness-call.module.code.ts"}

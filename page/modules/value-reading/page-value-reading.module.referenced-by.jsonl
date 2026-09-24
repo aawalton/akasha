@@ -190,6 +190,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/body/modules/file-kind/file-kind.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/editor/extension/modules/palette/palette.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/editor/extension/modules/palette/palette.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"code/ios-app/modules/app-building/app-building.module.code.ts"}
