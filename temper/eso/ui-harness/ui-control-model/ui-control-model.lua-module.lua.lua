@@ -362,6 +362,7 @@ function WindowManager:GetControlByName(name, prefix)
 end
 
 function WindowManager:GetMouseOverControl() return nil end
+function _G.MouseIsOver() return false end
 function WindowManager:SetMouseCursor() end
 
 _G.WINDOW_MANAGER = WindowManager

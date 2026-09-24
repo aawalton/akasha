@@ -38,6 +38,10 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "No mouse is over any control, because the harness has no mouse.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A handler a control is given is kept rather than run.",
     },
     {
