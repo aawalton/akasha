@@ -10,9 +10,9 @@ export const theTowerGalleryDais = {
   within: "place/the-tower-floor-03",
   depth: 3,
   description:
-    "The raised platform at the gallery's end. The Plinth Golem sits before the sealed archway, a seated stone colossus, utterly still until something tries to pass it. Its torso is built around a single keystone plinth at the sternum — the load-bearing block its whole mass rests on.",
+    "The raised platform at the gallery's end, before the archway up. The seat the Plinth Golem kept here is empty; the Golem lies dead down the hall.",
   exits: [
-    { to: "place/the-tower-shaft-base-flights", way: "the sealed arch ahead" },
+    { to: "place/the-tower-shaft-base-flights", way: "the open arch ahead" },
     { to: "place/the-tower-gallery-nave", way: "the nave behind" },
   ],
 } as const satisfies Place
