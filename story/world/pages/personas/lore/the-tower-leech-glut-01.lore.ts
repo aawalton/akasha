@@ -16,6 +16,6 @@ export const theTowerLeechGlut01 = {
     "Out of the water the Glut takes a blow whole.",
     "The Glut recoils from fire, and salt or ash herds it.",
     "The Glut drags what it grips down into the deep to drown it.",
-    "The Glut comes at anything entering the deep water, and at warmth or blood in the flood.",
+    "The Glut is dead, burned apart at the waterline, and the Cistern's water is empty of it.",
   ],
 } as const satisfies Lore
