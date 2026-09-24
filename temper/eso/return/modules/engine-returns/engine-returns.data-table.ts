@@ -36,8 +36,13 @@ export const engineReturns = {
       statement: "The API version the documentation carries is kept beside the functions.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No function of an object is kept here, because no such function is a global.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A function of an object is kept apart from the functions, because none is a global.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Of an object's functions, only the names of those a control answers to are kept.",
     },
   ],
 } as const satisfies DataTable

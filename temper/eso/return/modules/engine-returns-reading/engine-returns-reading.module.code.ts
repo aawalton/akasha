@@ -1,4 +1,9 @@
-import { parseFunctions } from "akasha/temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.code.ts"
+import {
+  parseFunctions,
+  parseObjects,
+} from "akasha/temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.code.ts"
+
+const CONTROL = "Control"
 
 const HEADING = /^h1\. ESO UI Documentation for API Version (\d+)/m
 
@@ -22,6 +27,16 @@ const KINDS: Readonly<Record<string, ReturnKind>> = {
 export interface EngineReturns {
   readonly apiVersion: number
   readonly returns: Readonly<Record<string, readonly ReturnKind[]>>
+  readonly controlMethods: readonly string[]
+}
+
+export function controlMethodsIn(doc: string): readonly string[] {
+  const found = new Set<string>()
+  for (const one of parseObjects(doc)) {
+    if (one.name !== CONTROL && !one.inheritsFrom.includes(CONTROL)) continue
+    for (const method of one.methods) found.add(method.name)
+  }
+  return [...found].sort()
 }
 
 export function returnKindOf(type: string): ReturnKind {
@@ -47,7 +62,7 @@ export function engineReturnsIn(doc: string): EngineReturns {
     const kinds = found.get(name)
     if (kinds !== undefined) returns[name] = kinds
   }
-  return { apiVersion: apiVersionIn(doc), returns }
+  return { apiVersion: apiVersionIn(doc), returns, controlMethods: controlMethodsIn(doc) }
 }
 
 export function returnsBody(held: EngineReturns): string {

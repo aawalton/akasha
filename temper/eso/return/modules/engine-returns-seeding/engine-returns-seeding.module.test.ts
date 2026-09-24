@@ -15,6 +15,7 @@ const HELD: EngineReturns = {
     GetItemOwner: ["nothing", "word"],
     GetItemType: ["number", "number"],
   },
+  controlMethods: [],
 }
 
 describe("answerLua", () => {
@@ -59,7 +60,7 @@ describe("returnsLua", () => {
   })
 
   test("hands over nothing for a table carrying no functions", () => {
-    expect(returnsLua({ apiVersion: 0, returns: {} })).toEqual([])
+    expect(returnsLua({ apiVersion: 0, returns: {}, controlMethods: [] })).toEqual([])
   })
 })
 

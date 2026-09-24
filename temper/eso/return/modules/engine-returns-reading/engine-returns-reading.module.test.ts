@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
   apiVersionIn,
+  controlMethodsIn,
   engineReturnsIn,
   returnKindOf,
   returnsBody,
@@ -28,8 +29,18 @@ h3. Items
 h2. Object API
 
 h3. Control
+Objects that inherit behavior from *Control*
+[LabelControl|#LabelControl]
+
 * GetName()
 ** _Returns:_ *string* _name_
+
+h3. LabelControl
+* SetText(*string* _text_)
+
+h3. WindowManager
+* GetMouseOverControl()
+** _Returns:_ *object* _control_
 `
 
 describe("returnKindOf", () => {
@@ -85,6 +96,16 @@ describe("engineReturnsIn", () => {
       "GetItemType",
       "IsItemStolen",
     ])
+  })
+})
+
+describe("controlMethodsIn", () => {
+  test("names every method of a control and of each kind of control, sorted", () => {
+    expect(controlMethodsIn(DOC)).toEqual(["GetName", "SetText"])
+  })
+
+  test("leaves out a method of an object that is no control", () => {
+    expect(controlMethodsIn(DOC)).not.toContain("GetMouseOverControl")
   })
 })
 

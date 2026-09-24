@@ -31,6 +31,11 @@ export const engineReturnsReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The methods of a control and of every object the documentation says inherits from it are read too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every name is sorted here, so what is written turns only where the game did.",
     },
   ],
