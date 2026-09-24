@@ -14,6 +14,6 @@ export const theTowerAshling01 = {
     "Blows that scatter the Ashling's ash do it little harm.",
     "A strike on the Ashling's core kills it.",
     "Water smothers the Ashling's core and finishes it.",
-    "The Ashling wakes at the first movement past the iron door.",
+    "The Ashling is dead, its core cracked; only its grey ash heap remains.",
   ],
 } as const satisfies Lore
