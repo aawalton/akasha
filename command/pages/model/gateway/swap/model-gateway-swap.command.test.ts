@@ -15,8 +15,11 @@ import {
   askedSaid,
   modelGatewaySwap,
 } from "akasha/command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"
+import { z } from "zod"
 
 const SEATS = ["awen", "athena"]
+
+const SWAP_SAID = z.looseObject({ ok: z.boolean() })
 
 function asking(upTo: number): Asking {
   let reached = 0
@@ -124,7 +127,7 @@ test("a fleet swap said as json keeps that json the whole of what it reports", a
 
   expect(held.code).toBe(OPERATIONAL)
   expect(held.report).toHaveLength(1)
-  expect(JSON.parse(held.report[0] as string)).toMatchObject({ ok: false })
+  expect(SWAP_SAID.parse(JSON.parse(held.report[0] as string))).toMatchObject({ ok: false })
   const last = held.refusals[held.refusals.length - 1] as string
   expect(last).toContain(askedSaid("awen"))
 })
