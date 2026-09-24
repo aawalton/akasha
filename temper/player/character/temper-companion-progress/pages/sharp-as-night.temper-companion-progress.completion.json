@@ -1,6 +1,8 @@
 {
   "build": {
-    "jewelry": {
+    "companionId": 8,
+    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
+    "weapons": {
       "1": {
         "isEmpty": false,
         "qualityColor": {
@@ -8,28 +10,19 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Focused"
+        "displayText": "Ice Staff, Shattering"
       },
       "2": {
-        "isEmpty": false,
+        "isEmpty": true,
         "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
         },
-        "displayText": "Shattering"
-      },
-      "3": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering"
+        "displayText": "Empty"
       }
     },
-    "companionId": 8,
+    "mainHandWeaponType": 13,
     "skillAbilityIds": {
       "1": 152625,
       "2": 186603,
@@ -103,9 +96,7 @@
         "displayText": "Heavy, Focused"
       }
     },
-    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
-    "mainHandWeaponType": 13,
-    "weapons": {
+    "jewelry": {
       "1": {
         "isEmpty": false,
         "qualityColor": {
@@ -113,16 +104,25 @@
           "2": 0.28,
           "3": 0.86
         },
-        "displayText": "Ice Staff, Shattering"
+        "displayText": "Focused"
       },
       "2": {
-        "isEmpty": true,
+        "isEmpty": false,
         "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
         },
-        "displayText": "Empty"
+        "displayText": "Shattering"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering"
       }
     }
   },
