@@ -61,19 +61,19 @@ export const noUnusedExports = {
       statement: "The files importing one file are read from the index rather than looked for.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A type a file exports is judged by nothing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A value exported as the default is judged by nothing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A specifier naming a package rather than a path reads as reaching no file.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A value reached only from files nothing runs is taken as reached.",
     },
     {
@@ -85,7 +85,7 @@ export const noUnusedExports = {
       statement: "A value its own file names is reached even where only a test imports it.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A value only an unreached value in its own file names is taken as reached.",
     },
     {
@@ -117,11 +117,11 @@ export const noUnusedExports = {
       statement: "A refusal for a value only a test names says so rather than saying nothing does.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A file a page names as the code that page runs is judged as any other file.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A change taking away the last import of a value is judged at audit rather than at change.",
     },
@@ -157,7 +157,7 @@ export const noUnusedExports = {
       statement: "A name React Router reaches a route module by is spared rather than refused.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A value only a request from outside this repository reaches reads as unreached.",
     },
     {
