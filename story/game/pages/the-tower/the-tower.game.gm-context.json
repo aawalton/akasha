@@ -272,7 +272,7 @@
       "id": "lore",
       "bands": [
         "**What is true of a place is on its own `place` page and on every `lore` page whose `about` names it.** A `place` extends `lore` and carries facts of its own. Before running a place, read its `place` page and every `lore` page whose `about` names it and whose `loreDisclosure` is `lore-disclosure/game-master`, `lore-disclosure/player` or `lore-disclosure/wiki`. This world's places sit at `story/world/pages/personas/places/` and its lore at `story/world/pages/personas/lore/`.",
-        "**What is true of a creature is on every `lore` page whose `about` names it.** Before running a creature, read every `lore` page whose `about` names its `character` page, with the same disclosures."
+        "**What is true of a creature is on every `lore` page whose `about` names it.** Before running a creature, read every `lore` page whose `about` names its `character` page, with the same disclosures.",
         "**Lore at `lore-disclosure/world-builder` is not yours to read** unless this context names the moment you read it."
       ],
       "title": "Lore"
