@@ -11,10 +11,6 @@ export const championPointSource = {
       decisionKind: "decision-kind/constraint",
       statement: "A champion star's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A champion star moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["CHAMPION_POINTS"],
 } as const satisfies Module
