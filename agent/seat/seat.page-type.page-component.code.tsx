@@ -16,6 +16,9 @@ import { titleColorClass } from "akasha/page/ui/component/modules/title-color/ti
 import { usePageDefaultContent } from "akasha/page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts"
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
+import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
+import { getPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 
 type Entry = {
@@ -48,8 +51,6 @@ const CONVERSATION = "conversation"
 const KINDS: ReadonlySet<string> = new Set(["person", "agent", "tool", "turn-end", "message"])
 
 const FRAME = { autoScroll: { loadScroll: "end" as const } }
-
-const PENDING_ASKED_EVERY_MS = 3_000
 
 const SUBDUED = "font-mono text-secondary text-xs"
 
@@ -89,28 +90,49 @@ function keptOver(held: Heard, said: Heard): Heard {
   return said.state === "refused" && held.state === "heard" ? held : said
 }
 
-function useConversation(id: string, asking: boolean): readonly [Heard, () => void] {
+function useConversation(id: string): readonly [Heard, () => void] {
   const [heard, setHeard] = useState<Heard>({ state: "asking" })
-  const [round, setRound] = useState(0)
-  const again = useCallback(() => setRound((one) => one + 1), [])
+  const asked = useRef<() => undefined>(() => undefined)
+  const again = useCallback(() => {
+    asked.current()
+  }, [])
   useEffect(() => {
-    if (id !== "") setHeard({ state: "asking" })
-  }, [id])
-  useEffect(() => {
+    setHeard({ state: "asking" })
     let dropped = false
-    void round
-    void conversationOf(id).then((said) => {
-      if (!dropped) setHeard((held) => keptOver(held, said))
+    let asking = false
+    let owed = false
+    const ask = (): undefined => {
+      if (asking) {
+        owed = true
+        return undefined
+      }
+      asking = true
+      void conversationOf(id).then((said) => {
+        asking = false
+        if (dropped) return
+        setHeard((held) => keptOver(held, said))
+        if (owed) {
+          owed = false
+          ask()
+        }
+      })
+      return undefined
+    }
+    asked.current = ask
+    ask()
+    let watch: PageWatch | null = null
+    void getPagesStore().then((store) => {
+      if (!dropped) watch = store.watchPage(SEAT, id, ask)
     })
+    const timer = setInterval(() => {
+      if (watch?.live() !== true) ask()
+    }, FILE_BACKING_POLL_MS)
     return () => {
       dropped = true
+      clearInterval(timer)
+      watch?.release()
     }
-  }, [id, round])
-  useEffect(() => {
-    if (!asking) return
-    const timer = setInterval(again, PENDING_ASKED_EVERY_MS)
-    return () => clearInterval(timer)
-  }, [asking, again])
+  }, [id])
   return [heard, again]
 }
 
@@ -122,10 +144,7 @@ function timesSaid(heard: Heard, text: string): number {
 function useSending(id: string) {
   const [pending, setPending] = useState<readonly Pending[]>([])
   const keyed = useRef(0)
-  const [heard, again] = useConversation(
-    id,
-    pending.some((one) => one.state === "sent")
-  )
+  const [heard, again] = useConversation(id)
   const settle = (key: number, why: string | null) => {
     setPending((held) =>
       held.map((one) =>
