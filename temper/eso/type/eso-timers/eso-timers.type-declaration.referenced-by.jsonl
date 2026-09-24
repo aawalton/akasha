@@ -101,7 +101,6 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/primitive/modules/use-debounced-callback/use-debounced-callback.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/primitive/modules/use-debounced-value/use-debounced-value.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"design/interface/system/modules/components-compound-nav-panels/components-compound-nav-panels.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"git/modules/answering/git-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"infrastructure/cluster/api/modules/cluster-fetch/cluster-fetch.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"infrastructure/cluster/api/modules/cluster-jobs/cluster-jobs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"infrastructure/cluster/provisioning/talos/modules/wait-for-port/wait-for-port.module.code.ts"}

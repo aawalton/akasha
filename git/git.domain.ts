@@ -10,7 +10,6 @@ export const git = {
     "domain/oid",
     "module/commit-reading",
     "module/committing",
-    "module/git-answering",
     "module/git-capping",
     "module/git-dir",
     "module/git-pathspec",

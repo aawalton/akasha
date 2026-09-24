@@ -168,7 +168,6 @@
 {"propertySlug":"decision-kind","path":"domain/plain-language/parser-model/parser-model.page-type.ts","id":"01a06d3b-743e-7d49-b8e6-3703a4b4fbfb"}
 {"propertySlug":"decision-kind","path":"domain/plain-language/plain-language.domain.ts","id":"01a05d93-dbec-79d5-a299-9264b3de7464"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/term/term.page-type.ts","id":"01a081e9-9784-7d46-ac3d-c0dd6d88cb38"}
-{"propertySlug":"decision-kind","path":"git/modules/answering/git-answering.module.ts","id":"01a06816-2f10-79aa-bee4-b5831ee0eaca"}
 {"propertySlug":"decision-kind","path":"graph/attribute/pages/loading.graph-attribute.ts","id":"01a0aa6a-cbd1-7703-a107-312755085be9"}
 {"propertySlug":"decision-kind","path":"graph/attribute/pages/names.graph-attribute.ts","id":"01a0a657-ee99-79ce-80ca-38525c881a53"}
 {"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
