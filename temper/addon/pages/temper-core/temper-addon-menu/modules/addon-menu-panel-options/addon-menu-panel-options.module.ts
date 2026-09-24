@@ -10,6 +10,10 @@ export const addonMenuPanelOptions = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A panel's widgets are looked up by the id the declaring addon gave.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Widgets are created twenty at a time with ten milliseconds between batches.",
     },
     {

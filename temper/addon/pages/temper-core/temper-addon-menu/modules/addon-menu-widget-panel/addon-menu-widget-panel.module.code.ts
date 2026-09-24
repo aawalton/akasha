@@ -42,6 +42,12 @@ const LINK_MOUSE_OVER_COLOR = ZO_ColorDef.New("B8B8D3")
 const LINK_COLOR_DONATE = ZO_ColorDef.New("FFD700")
 const LINK_MOUSE_OVER_COLOR_DONATE = ZO_ColorDef.New("FFF6CC")
 
+export function panelAddonId(this: void, panel: LamControl): string {
+  const name = panel.GetName()
+  if (string.sub(name, 1, PANEL_NAME_PREFIX.length) !== PANEL_NAME_PREFIX) return name
+  return string.sub(name, PANEL_NAME_PREFIX.length + 1)
+}
+
 function refreshPanel(this: void, control: LamControl): undefined {
   const panel = getTopPanel(control)
   if (lam.currentAddonPanel !== panel || lam.currentPanelOpened !== true) {

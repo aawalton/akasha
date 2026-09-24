@@ -29,6 +29,7 @@ import type {
   LamWidgetData,
 } from "akasha/temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-types/addon-menu-types.module.code.ts"
 import { getStringFromValue } from "akasha/temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-util/addon-menu-util.module.code.ts"
+import { panelAddonId } from "akasha/temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-panel/addon-menu-widget-panel.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
@@ -119,7 +120,7 @@ function twinOptionsContainer(
 }
 
 function createOptionsControls(this: void, panel: LamControl): boolean {
-  const addonID = panel.GetName()
+  const addonID = panelAddonId(panel)
   if (OPTIONS_STATE[addonID] === OPTIONS_CREATED) {
     return false
   } else if (OPTIONS_STATE[addonID] === OPTIONS_CREATION_RUNNING) {
