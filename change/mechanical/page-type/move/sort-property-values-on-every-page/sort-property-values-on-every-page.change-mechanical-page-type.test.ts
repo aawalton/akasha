@@ -85,7 +85,8 @@ test("a key holding no list is passed over rather than refused here", () => {
   const said = sortPropertyValuesOnEveryPage(world, { pageType: TYPE, key: KEY })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(NOTHING_ORDERED)
+  expect(said.refused).toBeNull()
+  expect(said.told).toEqual([NOTHING_ORDERED])
 })
 
 test("a page type the index does not name is refused here", () => {

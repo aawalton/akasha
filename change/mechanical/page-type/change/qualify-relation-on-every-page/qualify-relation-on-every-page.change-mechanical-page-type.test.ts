@@ -89,7 +89,7 @@ test("a name that is an id is passed over", () => {
   const said = qualifyRelationOnEveryPage(world, { pageType: TYPE, key: ONE_KEY })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no `book-section` names a page by a bare name under `sectionOf`")
+  expect(said.told).toEqual(["no `book-section` names a page by a bare name under `sectionOf`"])
 })
 
 test("a name reaching no page refuses the whole change, and the refusal names that page", () => {
@@ -147,7 +147,7 @@ test("a count handed in holds how many pages one run writes", () => {
   expect([...new Set(pathsIn(said))]).toEqual([ONE_AT])
 })
 
-test("a page type no page of which names a page by a bare name is refused", () => {
+test("a page type no page of which names a page by a bare name is answered as no edit", () => {
   const held = { [ONE_AT]: sectionAt("one", "collection/songs", ["collection/songs"]) }
   const values = valued({ [ONE_AT]: pageOf("collection/songs", ["collection/songs"]) })
 
@@ -157,7 +157,8 @@ test("a page type no page of which names a page by a bare name is refused", () =
   })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(NOTHING_BARE)
+  expect(said.refused).toBeNull()
+  expect(said.told).toEqual([NOTHING_BARE])
 })
 
 test("a field named inside a record property is written anew the same way", () => {
@@ -188,7 +189,7 @@ test("what a field declares is read off the record property that field sits in",
   expect(said.refused).toBe("a `holds` entry has no field under `heldBy`")
 })
 
-test("a record property no entry of which names a page by a bare name is refused", () => {
+test("a record property no entry of which names a page by a bare name answers no edit", () => {
   const held = { [HOLDING_AT]: holdingAt("holding", ["collection/songs"]) }
   const values = valued({ [HOLDING_AT]: holdingOf(["collection/songs"]) })
 
@@ -199,7 +200,7 @@ test("a record property no entry of which names a page by a bare name is refused
   })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no `book-section` names a page by a bare name under `collection`")
+  expect(said.told).toEqual(["no `book-section` names a page by a bare name under `collection`"])
 })
 
 test("a page the world holds no body for is refused by its path", () => {
@@ -351,13 +352,13 @@ test("an entry file holding no JSON refuses the whole change", () => {
   expect(said.refused ?? "").toContain(`'${ROWS_AT}' holds no JSON on line 1`)
 })
 
-test("a page type no row of which names a page by a bare name is refused", () => {
+test("a page type no row of which names a page by a bare name is answered as no edit", () => {
   const world = besideWorld({ [ROWS_AT]: rowsOf([{ [ROW_FIELD]: "collection/songs" }]) })
 
   const said = qualifyRelationOnEveryPage(world, BESIDE_ASKED)
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no `book-section` names a page by a bare name under `collection`")
+  expect(said.told).toEqual(["no `book-section` names a page by a bare name under `collection`"])
 })
 
 test("a row naming a page that is nowhere refuses the whole change, naming the entry file", () => {

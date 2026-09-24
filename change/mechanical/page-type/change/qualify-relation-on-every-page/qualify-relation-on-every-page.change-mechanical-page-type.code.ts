@@ -5,6 +5,7 @@ import {
   type Splice,
   splicedIn,
   stating,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { valuesWrittenAnewInEntries } from "akasha/change/modules/json-entries/json-entries.module.code.ts"
 import {
@@ -275,9 +276,9 @@ export function qualifyRelationOnEveryPage(world: World, given: Asked): Said {
   const held = spelledOver(world, naming, given)
   if (typeof held === "string") return refusing(held)
   if (held.length === 0) {
-    return refusing(
-      `no \`${given.pageType}\` names a page by a bare name under \`${underIn(given)}\``
-    )
+    return telling(stating([]), [
+      `no \`${given.pageType}\` names a page by a bare name under \`${underIn(given)}\``,
+    ])
   }
   const edits: FileChange[] = []
   for (const one of held) {

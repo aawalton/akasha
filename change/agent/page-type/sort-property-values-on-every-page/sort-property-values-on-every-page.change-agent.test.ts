@@ -70,7 +70,8 @@ test("a key holding no list is passed over rather than refused", async () => {
   const said = await sortPropertyValuesOnEveryPage(world, { pageType: "book-section", key: KEY })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no `book-section` holds `partOfSlugs` out of the order it sorts in")
+  expect(said.refused).toBeNull()
+  expect(said.told).toEqual(["no `book-section` holds `partOfSlugs` out of the order it sorts in"])
 })
 
 test("a page type the index does not name is refused", async () => {

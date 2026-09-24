@@ -5,6 +5,7 @@ import {
   type Splice,
   spliced,
   stating,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { listIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
@@ -132,7 +133,9 @@ export function sortPropertyValuesOnEveryPage(world: World, given: Asked): Said 
   const held = outOfOrderIn(world, given)
   if (typeof held === "string") return refusing(held)
   if (held.length === 0) {
-    return refusing(`no \`${given.pageType}\` holds \`${given.key}\` out of the order it sorts in`)
+    return telling(stating([]), [
+      `no \`${given.pageType}\` holds \`${given.key}\` out of the order it sorts in`,
+    ])
   }
   const edits: FileChange[] = []
   for (const one of held) {

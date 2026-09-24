@@ -44,6 +44,10 @@ export const sortPropertyValuesOnEveryPage = {
       statement: "A page stating no list under the key is refused by its path.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type no page of which holds the key out of order is answered as no edit.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No rung beneath is reached.",
     },

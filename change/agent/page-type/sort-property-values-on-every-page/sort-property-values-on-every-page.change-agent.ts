@@ -24,7 +24,7 @@ export const sortPropertyValuesOnEveryPage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page type no page of which holds the key out of order is refused.",
+      statement: "A page type no page of which holds the key out of order is answered as no edit.",
     },
     {
       decisionKind: "decision-kind/departure",

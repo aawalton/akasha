@@ -69,7 +69,7 @@ test("writing the names anew is left to the change reached at its address", asyn
   expect(reached).toEqual([QUALIFYING])
 })
 
-test("a page type no page of which names a page by a bare name is refused", async () => {
+test("a page type no page of which names a page by a bare name is answered as no edit", async () => {
   const held = { [ONE_AT]: sectionAt("one", "collection/songs", ["collection/songs"]) }
   const values = valued({ [ONE_AT]: pageOf("collection/songs", ["collection/songs"]) })
 
@@ -79,7 +79,8 @@ test("a page type no page of which names a page by a bare name is refused", asyn
   })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(NOTHING_BARE)
+  expect(said.refused).toBeNull()
+  expect(said.told).toEqual([NOTHING_BARE])
 })
 
 test("a page type the index does not name is refused", async () => {
