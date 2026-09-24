@@ -1,6 +1,7 @@
 @import "tailwindcss";
 @import "akasha/design/interface/system/design-look/design-look.stylesheet.styles.css";
 
+@source "../../../../agent/seat/**/*.{ts,tsx}";
 @source "../../../../alan/chess/**/*.{ts,tsx}";
 @source "../../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../../design/interface/**/*.{ts,tsx}";

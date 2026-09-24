@@ -15,6 +15,7 @@
   --font-read: "Literata Variable", "Literata Fallback", "Iowan Old Style", Georgia, Cambria, serif;
 }
 
+@source "../../../agent/seat/**/*.{ts,tsx}";
 @source "../../chess/**/*.{ts,tsx}";
 @source "../../harness/**/*.{ts,tsx}";
 @source "../../../code/router-app/**/*.{ts,tsx}";

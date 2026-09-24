@@ -3,6 +3,7 @@
 @import "akasha/design/interface/system/design-look/design-look.stylesheet.styles.css";
 @import "tw-animate-css";
 
+@source "../../../agent/seat/**/*.{ts,tsx}";
 @source "../../../alan/chess/**/*.{ts,tsx}";
 @source "../../../alan/harness/**/*.{ts,tsx}";
 @source "../../../code/router-app/**/*.{ts,tsx}";
