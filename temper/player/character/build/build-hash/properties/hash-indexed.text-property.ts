@@ -1,7 +1,8 @@
 import type { TextProperty } from "akasha/page/text-property/text-property.page-type.types.ts"
 
 export const hashIndexed = {
-  id: "01a0d5be-2064-7ee6-b753-68438fdbc94c", type: "page-type/text-property",
+  id: "01a0d5be-2064-7ee6-b753-68438fdbc94c",
+  type: "page-type/text-property",
   slug: "hash-indexed",
   propertySlug: "hash-indexed",
   definition: "a table in this page's code whose places a build hash holds",
