@@ -16,6 +16,9 @@ import {
   unreadCompletionWhy,
   unworkedWhy,
 } from "akasha/temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts"
+import { z } from "zod"
+
+const ROW_TOTALS = z.object({ progressTotal: z.number(), progressCurrent: z.number() })
 
 const PAGE_PATH =
   "temper/progress/temper-task/pages/an-invented-task/an-invented-task.temper-task.ts"
@@ -209,7 +212,7 @@ test("the totals written are the totals of the lines written", () => {
   const held = rows
     .split("\n")
     .filter((one) => one.trim() !== "")
-    .map((one) => JSON.parse(one) as { progressTotal: number; progressCurrent: number })
+    .map((one) => ROW_TOTALS.parse(JSON.parse(one)))
   expect(held.reduce((sum, one) => sum + one.progressTotal, 0)).toBe(14)
   expect(held.reduce((sum, one) => sum + one.progressCurrent, 0)).toBe(7)
 })

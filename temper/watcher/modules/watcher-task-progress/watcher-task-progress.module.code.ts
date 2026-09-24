@@ -4,14 +4,17 @@ import {
   type CrossCharacterReading,
   materializeCrossCharacterProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.code.ts"
+import { z } from "zod"
 
-export type ProgressRow = {
-  readonly id: string
-  readonly characterName: string
-  readonly progressTotal: number
-  readonly progressCurrent: number
-  readonly displayOrder: number
-}
+const PROGRESS_ROW = z.object({
+  id: z.string(),
+  characterName: z.string(),
+  progressTotal: z.number(),
+  progressCurrent: z.number(),
+  displayOrder: z.number(),
+})
+
+export type ProgressRow = Readonly<z.infer<typeof PROGRESS_ROW>>
 
 export type TaskFacts = {
   readonly slug: string
@@ -46,25 +49,13 @@ export function rowsIn(text: string): readonly ProgressRow[] {
   const kept: ProgressRow[] = []
   for (const line of text.split("\n")) {
     if (line.trim() === "") continue
-    let held: unknown
+    let held: ReturnType<typeof PROGRESS_ROW.safeParse>
     try {
-      held = JSON.parse(line)
+      held = PROGRESS_ROW.safeParse(JSON.parse(line))
     } catch {
       continue
     }
-    if (held === null || typeof held !== "object") continue
-    const said = held as Record<string, unknown>
-    if (typeof said.id !== "string" || typeof said.characterName !== "string") continue
-    if (typeof said.progressTotal !== "number") continue
-    if (typeof said.progressCurrent !== "number") continue
-    if (typeof said.displayOrder !== "number") continue
-    kept.push({
-      id: said.id,
-      characterName: said.characterName,
-      progressTotal: said.progressTotal,
-      progressCurrent: said.progressCurrent,
-      displayOrder: said.displayOrder,
-    })
+    if (held.success) kept.push(held.data)
   }
   return kept
 }
