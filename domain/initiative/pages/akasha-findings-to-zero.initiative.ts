@@ -8,11 +8,6 @@ export const akashaFindingsToZero = {
   persona: "persona/akasha",
   intentStack: [
     {
-      statement: "No finding is left.",
-      workingMemory:
-        "1 is left: the error-page nonce, landed; temper-web deploys again, and the finding is deleted once a signed-in error page shows its scripts running. A drop needs no answer; only a proposal to do work is put to Alan. Verify by running, not reading.\n",
-    },
-    {
       statement: "No module nothing reaches is left.",
       workingMemory:
         "21 are left, and every one is reviewed with Alan rather than removed on the check's word. `no-unused-modules` names them, run against the full checkout: its audit phase is blind on a depth-1 clone where the 24-hour grace spares everything. Groups: monarch 7, core 6, design components 4, harness 3, `synth-running` 1. Three false positives cleared at 333cc32f640. A module may be run by hand with `bun <path>`, which no route sees.",
