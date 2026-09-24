@@ -7846,7 +7846,7 @@
       "number"
     ],
     "GetOrCreateSynchronizingObject": [
-      "nothing"
+      "thing"
     ],
     "GetOutfitChangeFlatCost": [
       "number"
