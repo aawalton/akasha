@@ -86,6 +86,17 @@ const TEXT_SAMPLES: readonly BadgeSample[] = [
     value: "https://akasha.example.com/docs/property-system",
   },
   {
+    type: "text",
+    label: "file",
+    property: {
+      id: "ds-property-file",
+      title: "Portrait",
+      type: "text",
+      drawnBy: ["file-property", "page-property", "domain", "page"],
+    },
+    value: "md",
+  },
+  {
     type: "json",
     property: {
       id: "ds-property-json",
@@ -371,10 +382,12 @@ export function TextPropertyBadgesPanel() {
   return (
     <PanelCard id="ds-text-property-badges" collapsible title="Text Property Badges">
       <p className="text-secondary text-sm">
-        <code>markdown</code>, <code>url</code>, <code>json</code> and <code>rich-document</code>{" "}
-        carry a drawing of their own, and plain text falls back to the <code>page-property</code>{" "}
-        badge, which draws one badge for each item where the value is a list. A rich document is
-        edited in place on the page carrying it, so away from one it reads as its opening line.
+        <code>markdown</code>, <code>url</code>, <code>file</code>, <code>json</code> and{" "}
+        <code>rich-document</code> carry a drawing of their own, and plain text falls back to the{" "}
+        <code>page-property</code> badge, which draws one badge for each item where the value is a
+        list. A file reads as its property's name, and on a page it opens the file beside that page.
+        A rich document is edited in place on the page carrying it, so away from one it reads as its
+        opening line.
       </p>
       <SampleRows samples={TEXT_SAMPLES} />
     </PanelCard>
