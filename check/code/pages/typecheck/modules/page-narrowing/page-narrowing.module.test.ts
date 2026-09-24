@@ -16,11 +16,15 @@ import {
 
 afterAll(scratch.sweep)
 
+function importsIn(text: string): readonly string[] {
+  return text.split("\n").filter((line) => line.startsWith("import"))
+}
+
 test("a satisfies clause is narrowed on its own line, the body keeping every line and import", () => {
   const said = omittingIn(THING_AT, WITHOUT, ["held", "other"]) ?? ""
   expect(said).toContain('satisfies Omit<Thing, "held" | "other">')
   expect(said.split("\n").length).toBe(WITHOUT.split("\n").length)
-  expect(said.match(/^import/gm)).toEqual(WITHOUT.match(/^import/gm))
+  expect(importsIn(said)).toEqual(importsIn(WITHOUT))
 })
 
 test("keys naming nothing, and a body with no satisfies clause, narrow nothing at all", () => {

@@ -49,24 +49,25 @@ import {
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { NOWHERE } from "akasha/code/reading/modules/code-typing/code-typing.module.test-fixtures.ts"
 import { shadowAsked, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { z } from "zod"
 
 afterAll(scratch.sweep)
 
-type Settings = {
-  compilerOptions: { types: string[]; skipLibCheck: boolean }
-  files: string[]
-}
+const SETTINGS = z.looseObject({
+  compilerOptions: z.looseObject({ types: z.array(z.string()), skipLibCheck: z.boolean() }),
+  files: z.array(z.string()),
+})
 
 test("the settings carry the files judged and every ambient type the packages folder holds", () => {
   expect(typesIn(HERE)).toContain("bun")
-  const said: Settings = JSON.parse(configOf(HERE, ["one.ts", "two.ts"]))
+  const said = SETTINGS.parse(JSON.parse(configOf(HERE, ["one.ts", "two.ts"])))
   expect(said.files).toEqual(["one.ts", "two.ts"])
   expect(said.compilerOptions.types).toContain("bun")
 })
 
 test("a change leaves what a declaration file holds unjudged, and an audit judges it", () => {
-  const landing: Settings = JSON.parse(configOf(HERE, ["one.ts"]))
-  const whole: Settings = JSON.parse(configOf(HERE, ["one.ts"], true))
+  const landing = SETTINGS.parse(JSON.parse(configOf(HERE, ["one.ts"])))
+  const whole = SETTINGS.parse(JSON.parse(configOf(HERE, ["one.ts"], true)))
   expect(landing.compilerOptions.skipLibCheck).toBe(true)
   expect(whole.compilerOptions.skipLibCheck).toBe(false)
 })
