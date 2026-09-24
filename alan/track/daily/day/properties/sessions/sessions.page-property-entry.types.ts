@@ -19,7 +19,7 @@ export type Sessions = "jsonl"
 export type SessionsRow = {
   id: Id
   title: Title
-  startTime: StartTime
+  startTime?: StartTime
   endTime?: EndTime
   startedAt?: StartedAt
   endedAt?: EndedAt

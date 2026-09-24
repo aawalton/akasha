@@ -80,10 +80,8 @@ const DIFFICULTY_HIGH = 5
 export type Row = Record<string, unknown> & {
   id: string
   title: string
-  startTime: string
   startedAt: string
   dailyTracking: string
-  endTime?: string
   endedAt?: string
 }
 

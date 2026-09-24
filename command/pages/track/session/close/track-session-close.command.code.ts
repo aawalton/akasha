@@ -32,7 +32,6 @@ export async function trackSessionClose(argv: readonly string[], given: Given): 
   if (new Date(ended).getTime() <= new Date(found.stretch.startedAt).getTime()) {
     return mistaking(["a stretch cannot end at or before it began"])
   }
-  found.stretch.endTime = ended
   found.stretch.endedAt = ended
   const faults = faultsIn(found.rows, found.held)
   if (faults.length > 0) return mistaking(faults)

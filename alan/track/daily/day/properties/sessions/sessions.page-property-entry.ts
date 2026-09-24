@@ -19,7 +19,7 @@ export const sessions = {
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "text-property/start-time", required: true, many: false },
+    { pageProperty: "text-property/start-time", required: false, many: false },
     { pageProperty: "text-property/end-time", required: false, many: false },
     { pageProperty: "instant-property/started-at", required: false, many: false },
     { pageProperty: "instant-property/ended-at", required: false, many: false },

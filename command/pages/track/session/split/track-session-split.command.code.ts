@@ -61,17 +61,13 @@ export async function trackSessionSplit(argv: readonly string[], given: Given): 
   const next: Row = {
     id: mintedAt(now),
     title: called,
-    startTime: reading.iso,
     startedAt: reading.iso,
     dailyTracking: standing.held.page,
     ...levels.levels,
     ...taggingOf(taggedFor(tagging.stated, called, carriedIn(found), tagging.known)),
   }
-  if (found.endedAt !== undefined) {
-    next.endTime = found.endedAt
-    next.endedAt = found.endedAt
-  }
-  found.endTime = reading.iso
+  if (found.endedAt !== undefined) next.endedAt = found.endedAt
+  delete found.endTime
   found.endedAt = reading.iso
   standing.rows.splice(standing.rows.indexOf(found) + 1, 0, next)
   const faults = faultsIn(standing.rows, standing.held)

@@ -69,7 +69,6 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
     const one: Row = {
       id: mintedAt(now),
       title,
-      startTime: reading.iso,
       startedAt: reading.iso,
       dailyTracking: standing.held.page,
       ...taggingOf(taggedFor(tagging.stated, title, [], tagging.known)),
@@ -103,7 +102,6 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
       refusals.push(`line ${String(at + 1)} begins at or before the line above it`)
       continue
     }
-    before.endTime = one.startedAt
     before.endedAt = one.startedAt
   }
   const faults = [...refusals, ...faultsIn(made, standing.held)]

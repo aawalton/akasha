@@ -51,7 +51,6 @@ export async function trackSessionOpen(argv: readonly string[], given: Given): P
   const one: Row = {
     id: mintedAt(now),
     title: called,
-    startTime: began,
     startedAt: began,
     dailyTracking: standing.held.page,
     ...levels.levels,

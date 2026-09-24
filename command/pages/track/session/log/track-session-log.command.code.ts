@@ -52,7 +52,6 @@ export async function trackSessionLog(argv: readonly string[], given: Given): Pr
   const one: Row = {
     id: mintedAt(now),
     title: called,
-    startTime: began,
     startedAt: began,
     dailyTracking: standing.held.page,
     ...levels.levels,
@@ -63,7 +62,6 @@ export async function trackSessionLog(argv: readonly string[], given: Given): Pr
   if (reading.at.getTime() <= new Date(began).getTime()) {
     return mistaking(["a stretch cannot end at or before it began"])
   }
-  one.endTime = reading.iso
   one.endedAt = reading.iso
   standing.rows.push(one)
   standing.rows.sort((a, b) => new Date(a.startedAt).getTime() - new Date(b.startedAt).getTime())
