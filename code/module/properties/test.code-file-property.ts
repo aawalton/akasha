@@ -32,7 +32,7 @@ export const test = {
       statement: "This ceiling is above what a test file loading a parser needs to load it.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing refuses a test file for the memory that file peaks at.",
     },
   ],

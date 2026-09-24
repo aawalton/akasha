@@ -115,7 +115,6 @@
 {"propertySlug":"decision-kind","path":"code/file-purpose/pages/test-ts.file-purpose.ts","id":"01a06860-a0ef-77a2-b7d4-1fd2a8169652"}
 {"propertySlug":"decision-kind","path":"code/ios-component/properties/swift.code-file-property.ts","id":"01a05474-5474-79c9-8775-7972372e85d6"}
 {"propertySlug":"decision-kind","path":"code/ios-program/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts","id":"01a0590a-0b37-799f-8e3f-cb30189db988"}
-{"propertySlug":"decision-kind","path":"code/module/properties/test.code-file-property.ts","id":"01a04a2e-7e3e-7000-acbe-3a33ab105ce0"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-typing/code-typing.module.ts","id":"01a058ec-4a71-7000-9c3e-6b1f0a2d4e55"}
 {"propertySlug":"decision-kind","path":"code/rust-module/rust-module.page-type.ts","id":"01a0602d-6acf-7594-86e8-07b54a35a700"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/bash-env/bash-env.shell-script.ts","id":"01a06860-f3aa-7219-a6c2-9803ce5b7b07"}
