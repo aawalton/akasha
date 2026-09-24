@@ -16,7 +16,7 @@ export const referenceBuildData = {
       statement: "The reference build code is a fixed literal string.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Decoding throws when no decoder has been registered.",
     },
   ],
