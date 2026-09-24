@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { luaStringLiteral } from "akasha/temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
 import type { EngineStrings } from "akasha/temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.code.ts"
+import { z } from "zod"
 
 export const STRINGS_AT =
   "temper/eso/string/modules/engine-strings/engine-strings.data-table.data.json"
@@ -31,8 +32,13 @@ function GetString(given, context)
 end
 `
 
+const ENGINE_STRINGS_SCHEMA = z.object({
+  apiVersion: z.number(),
+  strings: z.record(z.string(), z.string()),
+})
+
 export function engineStringsTable(root: string = akashaRoot()): EngineStrings {
-  return JSON.parse(readFileSync(join(root, STRINGS_AT), "utf8")) as EngineStrings
+  return ENGINE_STRINGS_SCHEMA.parse(JSON.parse(readFileSync(join(root, STRINGS_AT), "utf8")))
 }
 
 export function stringsLua(table: EngineStrings): string {

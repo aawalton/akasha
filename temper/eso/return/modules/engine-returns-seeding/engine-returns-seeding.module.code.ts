@@ -6,9 +6,16 @@ import type {
   EngineReturns,
   ReturnKind,
 } from "akasha/temper/eso/return/modules/engine-returns-reading/engine-returns-reading.module.code.ts"
+import { z } from "zod"
 
 export const RETURNS_AT =
   "temper/eso/return/modules/engine-returns/engine-returns.data-table.data.json"
+
+const ENGINE_RETURNS_SCHEMA = z.object({
+  apiVersion: z.number(),
+  returns: z.record(z.string(), z.array(z.enum(["number", "word", "truth", "thing", "nothing"]))),
+  controlMethods: z.array(z.string()),
+})
 
 const PER_CHUNK = 1000
 
@@ -21,7 +28,7 @@ const EMPTY: Readonly<Record<ReturnKind, string>> = {
 }
 
 export function engineReturnsTable(root: string = akashaRoot()): EngineReturns {
-  return JSON.parse(readFileSync(join(root, RETURNS_AT), "utf8")) as EngineReturns
+  return ENGINE_RETURNS_SCHEMA.parse(JSON.parse(readFileSync(join(root, RETURNS_AT), "utf8")))
 }
 
 export function answerLua(kinds: readonly ReturnKind[]): string {

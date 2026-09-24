@@ -4,12 +4,21 @@ import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.mo
 import type { EngineAnswer } from "akasha/temper/capture/shape/modules/engine-answer-catalog/engine-answer-catalog.module.code.ts"
 import { luaStringLiteral } from "akasha/temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
 import type { EngineAnswers } from "akasha/temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.code.ts"
+import { z } from "zod"
 
 export const ANSWERS_AT =
   "temper/eso/return/modules/engine-answers/engine-answers.data-table.data.json"
 
+const ANSWER_LIST_SCHEMA = z.array(z.union([z.number(), z.string(), z.boolean()]))
+
+const ENGINE_ANSWERS_SCHEMA = z.object({
+  apiVersion: z.number(),
+  answers: z.record(z.string(), ANSWER_LIST_SCHEMA),
+  answersGiven: z.record(z.string(), z.record(z.string(), ANSWER_LIST_SCHEMA)),
+})
+
 export function engineAnswersTable(root: string = akashaRoot()): EngineAnswers {
-  return JSON.parse(readFileSync(join(root, ANSWERS_AT), "utf8")) as EngineAnswers
+  return ENGINE_ANSWERS_SCHEMA.parse(JSON.parse(readFileSync(join(root, ANSWERS_AT), "utf8")))
 }
 
 function answerLua(one: EngineAnswer): string {

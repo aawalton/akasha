@@ -2,8 +2,17 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import type { EngineColors } from "akasha/temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.code.ts"
+import { z } from "zod"
 
 export const COLORS_AT = "temper/eso/color/modules/engine-colors/engine-colors.data-table.data.json"
+
+const ENGINE_COLORS_SCHEMA = z.object({
+  apiVersion: z.number(),
+  colors: z.record(
+    z.string(),
+    z.record(z.string(), z.tuple([z.number(), z.number(), z.number(), z.number()]))
+  ),
+})
 
 const GETTER = `
 local held = __eso_colors_held
@@ -17,7 +26,7 @@ end
 `
 
 export function engineColorsTable(root: string = akashaRoot()): EngineColors {
-  return JSON.parse(readFileSync(join(root, COLORS_AT), "utf8")) as EngineColors
+  return ENGINE_COLORS_SCHEMA.parse(JSON.parse(readFileSync(join(root, COLORS_AT), "utf8")))
 }
 
 export function colorsLua(table: EngineColors): string {

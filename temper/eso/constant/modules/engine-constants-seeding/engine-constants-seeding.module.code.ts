@@ -5,9 +5,16 @@ import {
   luaStringLiteral,
   marshalLuaValue,
 } from "akasha/temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
+import { z } from "zod"
 
 const CONSTANTS_AT =
   "temper/eso/constant/modules/engine-constants/engine-constants.data-table.data.json"
+
+const ENGINE_CONSTANTS_SCHEMA = z.object({
+  apiVersion: z.number(),
+  numbers: z.record(z.string(), z.number()),
+  words: z.record(z.string(), z.string()),
+})
 
 const PER_CHUNK = 2000
 
@@ -20,7 +27,7 @@ export interface EngineConstantsTable {
 }
 
 export function engineConstantsTable(root: string = akashaRoot()): EngineConstantsTable {
-  return JSON.parse(readFileSync(join(root, CONSTANTS_AT), "utf8")) as EngineConstantsTable
+  return ENGINE_CONSTANTS_SCHEMA.parse(JSON.parse(readFileSync(join(root, CONSTANTS_AT), "utf8")))
 }
 
 function heldIn(table: EngineConstantsTable): readonly (readonly [string, Held])[] {
