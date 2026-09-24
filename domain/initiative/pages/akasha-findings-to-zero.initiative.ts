@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "2 are left, each with work in flight: the error-page nonce (landed, waiting to deploy) and the stale web pod build. Each is deleted once its work lands and deploys. A drop needs no answer; only a proposal to do work is put to Alan. Verify by running, not reading.\n",
+        "1 is left: the error-page nonce, landed; temper-web deploys again, and the finding is deleted once a signed-in error page shows its scripts running. A drop needs no answer; only a proposal to do work is put to Alan. Verify by running, not reading.\n",
     },
     {
       statement: "No module nothing reaches is left.",
