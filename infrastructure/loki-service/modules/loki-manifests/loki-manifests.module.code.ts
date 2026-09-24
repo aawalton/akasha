@@ -16,6 +16,7 @@ import {
   NAMESPACE,
   NAMESPACE_LABELS,
 } from "akasha/infrastructure/loki-service/modules/loki-constants/loki-constants.module.code.ts"
+import { loki } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/loki/loki.service-cluster.ts"
 
 const CONFIG_DATA = {
   "loki.yaml": LOKI_CONFIG,
@@ -92,14 +93,14 @@ export function dataPvcYaml(): string {
 export function deploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
     apiVersion: "apps/v1",
-    kind: "Deployment",
+    kind: loki.resourceKind,
     metadata: {
-      name: "loki",
-      namespace: NAMESPACE,
+      name: loki.resourceName,
+      namespace: loki.namespace,
       labels: LOKI_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: loki.replicas,
       strategy: { type: "Recreate" },
       selector: { matchLabels: LOKI_SELECTOR_LABELS },
       template: {
@@ -130,9 +131,9 @@ export function deploymentYaml(): string {
           containers: [
             {
               name: "loki",
-              image: "grafana/loki:3.1.0",
+              image: loki.image,
               args: ["-config.file=/etc/loki/loki.yaml", "-config.expand-env=true", "-target=all"],
-              ports: [{ name: "http", containerPort: 3100 }],
+              ports: [{ name: "http", containerPort: loki.containerPort }],
               resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
@@ -142,12 +143,12 @@ export function deploymentYaml(): string {
                 readOnlyRootFilesystem: true,
               },
               readinessProbe: {
-                httpGet: { path: "/ready", port: 3100 },
+                httpGet: { path: "/ready", port: loki.containerPort },
                 initialDelaySeconds: 15,
                 periodSeconds: 10,
               },
               livenessProbe: {
-                httpGet: { path: "/ready", port: 3100 },
+                httpGet: { path: "/ready", port: loki.containerPort },
                 initialDelaySeconds: 60,
                 periodSeconds: 15,
                 failureThreshold: 5,
@@ -181,7 +182,7 @@ export function serviceYaml(): string {
     },
     spec: {
       type: "ClusterIP",
-      ports: [{ name: "http", port: 3100, targetPort: 3100 }],
+      ports: [{ name: "http", port: 3100, targetPort: loki.containerPort }],
       selector: LOKI_SELECTOR_LABELS,
     },
   })

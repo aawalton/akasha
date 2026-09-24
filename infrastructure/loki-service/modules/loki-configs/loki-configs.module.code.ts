@@ -1,7 +1,10 @@
+import { loki } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/loki/loki.service-cluster.ts"
+import { promtail } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/promtail/promtail.service-cluster.ts"
+
 export const LOKI_CONFIG = `auth_enabled: false
 
 server:
-  http_listen_port: 3100
+  http_listen_port: ${loki.containerPort}
   log_level: warn
 
 common:
@@ -47,7 +50,7 @@ compactor:
 `
 
 export const PROMTAIL_CONFIG = `server:
-  http_listen_port: 3101
+  http_listen_port: ${promtail.containerPort}
   log_level: warn
 
 positions:

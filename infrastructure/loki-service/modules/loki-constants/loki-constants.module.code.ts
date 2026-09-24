@@ -1,4 +1,6 @@
-export const NAMESPACE = "loki"
+import { loki } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/loki/loki.service-cluster.ts"
+
+export const NAMESPACE = loki.namespace
 
 export const DATA_NODE = "node-02"
 export const DATA_HOST_PATH = "/var/lib/loki-data"

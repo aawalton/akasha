@@ -11,6 +11,7 @@ import {
   PROMTAIL_SELECTOR_LABELS,
 } from "akasha/infrastructure/loki-service/modules/loki-constants/loki-constants.module.code.ts"
 import { promtail as page } from "akasha/infrastructure/loki-service/promtail/promtail.manifest.ts"
+import { promtail } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/promtail/promtail.service-cluster.ts"
 
 const CONFIG_DATA = {
   "promtail.yaml": PROMTAIL_CONFIG,
@@ -90,10 +91,10 @@ export function promtailRbacYaml(): string {
 export function promtailDaemonsetYaml(): string {
   return synthOne(NAMESPACE, "promtail-daemonset", {
     apiVersion: "apps/v1",
-    kind: "DaemonSet",
+    kind: promtail.resourceKind,
     metadata: {
-      name: "promtail",
-      namespace: NAMESPACE,
+      name: promtail.resourceName,
+      namespace: promtail.namespace,
       labels: PROMTAIL_LABELS,
     },
     spec: {
@@ -109,7 +110,7 @@ export function promtailDaemonsetYaml(): string {
           containers: [
             {
               name: "promtail",
-              image: "grafana/promtail:3.1.0",
+              image: promtail.image,
               args: ["-config.file=/etc/promtail/promtail.yaml"],
               env: [
                 {
@@ -117,7 +118,7 @@ export function promtailDaemonsetYaml(): string {
                   valueFrom: { fieldRef: { fieldPath: "spec.nodeName" } },
                 },
               ],
-              ports: [{ name: "http", containerPort: 3101 }],
+              ports: [{ name: "http", containerPort: promtail.containerPort }],
               resources: resourcesOf(page),
               securityContext: {
                 runAsUser: 0,
@@ -129,7 +130,7 @@ export function promtailDaemonsetYaml(): string {
                 },
               },
               readinessProbe: {
-                httpGet: { path: "/ready", port: 3101 },
+                httpGet: { path: "/ready", port: promtail.containerPort },
                 initialDelaySeconds: 10,
                 periodSeconds: 10,
               },
