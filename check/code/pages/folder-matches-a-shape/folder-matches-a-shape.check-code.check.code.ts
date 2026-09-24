@@ -2,6 +2,7 @@ import { judgingOver } from "akasha/check/code/pages/folder-matches-a-shape/fold
 import {
   ancestorsOf,
   groupedOver,
+  listingOf,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import { FILES, input } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
@@ -31,7 +32,7 @@ export function foldersJudgedBy(change: Change): ReadonlySet<string> {
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const facing = facingIn(change.root, readingIn(change.root))
-  const grouped = groupedOver(shadow, (path) => generatedIn(facing, path))
+  const grouped = groupedOver(listingOf(shadow.listed()), (path) => generatedIn(facing, path))
   const judging = judgingOver({ change, seeing: shadow, grouped })
   return judging.refusalsAt(foldersJudgedBy(change))
 }

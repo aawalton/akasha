@@ -126,6 +126,11 @@ export const folderMatchesAShape = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The files in every folder are taken from one listing of the whole tree rather than one a folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A path landed after the commit the change is judged against sits in its folder here.",
     },
     {
