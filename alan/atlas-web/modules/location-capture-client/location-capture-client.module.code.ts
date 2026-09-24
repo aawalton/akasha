@@ -131,7 +131,14 @@ async function uploadBatch(batch: readonly LocationPoint[]): Promise<boolean> {
       body: JSON.stringify({ points: batch }),
     })
     if (!res.ok) return false
-    return ingestResponseSchema.safeParse(await res.json()).success
+    const answer = ingestResponseSchema.safeParse(await res.json())
+    if (!answer.success) return false
+    for (const one of answer.data.refused ?? []) {
+      console.warn(
+        `[atlas/web/location-capture] ingest refused point ${String(one.index)}: ${one.why} — ${JSON.stringify(batch[one.index])}`
+      )
+    }
+    return true
   } catch {
     return false
   }

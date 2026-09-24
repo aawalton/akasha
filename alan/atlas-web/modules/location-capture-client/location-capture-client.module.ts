@@ -20,5 +20,13 @@ export const locationCaptureClient = {
       decisionKind: "decision-kind/departure",
       statement: "That copy is logged with how many points were refused and why.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A batch answered 200 is taken out of the buffer whole, refused points and all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each point the ingest route refused is logged whole with why it was refused.",
+    },
   ],
 } as const satisfies Module
