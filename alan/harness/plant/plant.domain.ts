@@ -4,7 +4,7 @@ export const plant = {
   id: "01a06221-d65f-739e-9acb-74d67bbe92da",
   type: "page-type/domain",
   slug: "plant",
-  definition: "the whole plants Alan has eaten since he rose",
+  definition: "the whole plants Alan eats",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "plant" },
     { partOfSpeech: "part-of-speech/noun", spelling: "plants" },

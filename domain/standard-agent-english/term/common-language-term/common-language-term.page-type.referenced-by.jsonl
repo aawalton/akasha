@@ -100,6 +100,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/where.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/whether.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/who.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/whole.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/word.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/work.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/write.common-language-term.ts","typed":true,"deferred":false}
