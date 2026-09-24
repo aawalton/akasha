@@ -11,7 +11,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-record-field-holding-a-boolean-is-restated-by-no-change.finding.ts","id":"01a08e5d-97cf-7095-b986-175cdb4dd75b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-renamed-page-keeps-the-old-name-inside-its-uncommitted-sidecar.finding.ts","id":"01a0c53d-ec32-707c-a66c-50f494795fbe"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-repeat-run-ends-the-same-way-whether-the-change-had-nothing-left-or-a-batch-was-refused.finding.ts","id":"01a0961e-eeca-73e8-a979-d0db0198aa76"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-retirement-orphans-prose-and-the-repair-is-a-rewrite-not-a-repoint.finding.ts","id":"01a06441-182f-779a-b3e8-4290fd9f837a"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-sweep-s-damage-outlives-the-mend-of-the-sweep.finding.ts","id":"01a09b32-2458-73fb-93ef-aa9c2ff3b4af"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/an-apply-over-a-git-ignored-path-commits-nothing-and-deletes-the-file-anyway.finding.ts","id":"01a09cc4-3fcd-7d79-8603-a19fab22a021"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/an-isolated-checkout-still-pushes-to-the-shared-remote.finding.ts","id":"01a060be-c946-7003-b783-d6cf1127590b"}
