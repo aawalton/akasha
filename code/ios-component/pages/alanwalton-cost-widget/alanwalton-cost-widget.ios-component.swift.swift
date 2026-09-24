@@ -37,7 +37,7 @@ struct CostHomeView: View {
                     .containerBackground(for: .widget) { Color(.systemBackground) }
             }
         }
-        .widgetURL(URL(string: "capacitor://localhost/nav/tracking-690c624f#widget=alanwalton-cost"))
+        .widgetTapLink("capacitor://localhost/nav/tracking-690c624f#widget=alanwalton-cost")
     }
 
     private var cost: HabitStoplight? { costReading(entry.state) }
