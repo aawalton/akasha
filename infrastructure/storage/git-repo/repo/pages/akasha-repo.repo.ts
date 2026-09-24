@@ -27,15 +27,7 @@ export const akashaRepo = {
       statement: "This repository contains no unused code.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Domain logic lives in a package of its own domain.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No command that calls domain logic is named inside domain logic.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every third-party package this repo uses is declared.",
     },
   ],
