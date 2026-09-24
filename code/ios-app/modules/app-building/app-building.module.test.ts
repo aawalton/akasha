@@ -97,6 +97,12 @@ test("the team, the shipped program's name and both profiles are read off the ap
   )
 })
 
+test("the version and the name a person reads are read off the app's page", () => {
+  const said = planned("smilingjenny").exports.join("\n")
+  expect(said).toContain(`export NATIVE_SHELL_MARKETING_VERSION='${smilingjenny.marketingVersion}'`)
+  expect(said).toContain(`export NATIVE_SHELL_DISPLAY_NAME='${smilingjenny.displayName}'`)
+})
+
 test("the access group and the secret service are worked out rather than stated", () => {
   const said = planned("alanwalton").exports.join("\n")
   expect(said).toContain(

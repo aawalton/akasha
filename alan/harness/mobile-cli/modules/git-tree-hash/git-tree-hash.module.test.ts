@@ -16,6 +16,7 @@ const APP: MobileApp = {
   slug: "example",
   pagePath: "akasha:pages/ios-app/example-ios.ios-app.md",
   displayName: "Example",
+  marketingVersion: "1.0",
   bundleId: "com.example.app",
   widgetBundleId: null,
   developmentTeam: "TEAM123456",

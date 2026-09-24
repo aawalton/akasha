@@ -18,6 +18,7 @@ const QUIET = {
   slug: "quiet",
   pagePath: "akasha/quiet.ios-app.ts",
   displayName: "Quiet",
+  marketingVersion: "1.0",
   bundleId: "me.quiet.app",
   widgetBundleId: null,
   developmentTeam: "TEAM123456",

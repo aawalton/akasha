@@ -53,6 +53,7 @@ export function readKeychainPassword(): string {
 const APP_VALUE_ENV: readonly (readonly [string, (app: MobileApp) => string | null])[] = [
   ["NATIVE_SHELL_BUNDLE_ID", (app) => app.bundleId],
   ["NATIVE_SHELL_DISPLAY_NAME", (app) => app.displayName],
+  ["NATIVE_SHELL_MARKETING_VERSION", (app) => app.marketingVersion],
   ["NATIVE_SHELL_DEVELOPMENT_TEAM", (app) => app.developmentTeam],
   ["NATIVE_SHELL_WIDGET_BUNDLE_ID", (app) => app.widgetBundleId],
   ["NATIVE_SHELL_APP_PROFILE_NAME", (app) => app.appProfileName],

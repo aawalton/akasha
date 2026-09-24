@@ -64,6 +64,7 @@ function exportsOf(app: Value, shipped: Value): readonly string[] {
   const said: [string, string][] = [
     ["NATIVE_SHELL_BUNDLE_ID", bundleId],
     ["NATIVE_SHELL_DISPLAY_NAME", textAt(app, "displayName") ?? ""],
+    ["NATIVE_SHELL_MARKETING_VERSION", textAt(app, "marketingVersion") ?? ""],
     ["NATIVE_SHELL_DEVELOPMENT_TEAM", team],
     ["NATIVE_SHELL_WIDGET_BUNDLE_ID", textAt(app, "widgetBundleId") ?? ""],
     ["NATIVE_SHELL_APP_PROFILE_NAME", textAt(app, "appProfileName") ?? ""],

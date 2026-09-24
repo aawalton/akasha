@@ -22,6 +22,7 @@ export interface MobileApp {
   readonly slug: string
   readonly pagePath: string
   readonly displayName: string
+  readonly marketingVersion: string
   readonly bundleId: string
   readonly widgetBundleId: string | null
   readonly developmentTeam: string
@@ -101,6 +102,7 @@ function mobileAppOf(value: Value, path: string): MobileApp {
     slug: required(value, "slug", path),
     pagePath: path,
     displayName: required(value, "displayName", path),
+    marketingVersion: required(value, "marketingVersion", path),
     bundleId: required(value, "bundleId", path),
     widgetBundleId: stated(value, "widgetBundleId"),
     developmentTeam: required(value, "developmentTeam", path),
