@@ -11,6 +11,7 @@ const TRAINED = 3
 const SAME_ELEMENT = 6
 const CLEAN_FROM = 8
 const ADEQUATE_FROM = 0
+const HELD_AGAINST = 50
 
 type Band = {
   readonly band: string
@@ -38,7 +39,6 @@ export type Reading = {
   readonly element: string
   readonly held: Sheet
   readonly intent: number
-  readonly resistance: number
   readonly roll: Rolled
   readonly tier: string | null
   readonly trained: boolean
@@ -68,7 +68,7 @@ export function runMechanic(reading: Reading): Ran {
   const power = mentAtk({ held: reading.held })
   if ("refused" in power) return power
   const score = power.answered + training + heldIntent(reading.intent) + reading.roll.total
-  const margin = score - reading.resistance
+  const margin = score - HELD_AGAINST
   const band = bandFor(margin)
   return {
     answered: {

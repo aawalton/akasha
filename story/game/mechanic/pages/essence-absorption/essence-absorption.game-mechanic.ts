@@ -10,7 +10,7 @@ export const essenceAbsorption = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An absorption is intellect and will held against the essence's resistance.",
+      statement: "An absorption is intellect and will held against fifty.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -63,10 +63,7 @@ export const essenceAbsorption = {
       decisionKind: "decision-kind/departure",
       statement: "A seed is consumed by any absorption, and what was drawn out leaves it inert.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Essence deeper in the tower resists harder.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here rolls the dice.",

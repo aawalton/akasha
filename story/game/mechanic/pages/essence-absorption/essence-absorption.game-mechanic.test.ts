@@ -9,7 +9,6 @@ const AT = {
   element: "ember",
   held: { intellect: 18, will: 16 },
   intent: 3,
-  resistance: 50,
   roll: { total: 4, crit: false, fumble: false },
   tier: null,
   trained: false,
@@ -41,8 +40,7 @@ test("holding the element already makes the next absorption cleaner", () => {
       tier: "affinity",
       trained: true,
       intent: 5,
-      resistance: 52,
-      roll: { total: 11, crit: false, fumble: false },
+      roll: { total: 9, crit: false, fumble: false },
     })
   )
   expect(ran.margin).toBeCloseTo(7.6)
@@ -58,7 +56,7 @@ test("each tier above the first trains the absorber one more", () => {
 })
 
 test("a clean absorption costs less focus and carries no backlash", () => {
-  const ran = answeredOf(runMechanic({ ...AT, tier: "soul", intent: 10, resistance: 40 }))
+  const ran = answeredOf(runMechanic({ ...AT, tier: "soul", intent: 10 }))
   expect(ran).toMatchObject({ band: "clean", focus: 9, backlash: 0, lingers: null })
 })
 
