@@ -3168,6 +3168,7 @@
 {"propertySlug":"decision-kind","path":"page/select-property/select-property.page-type.ts","id":"01a063de-2c60-7003-a9bc-92d52325a70d"}
 {"propertySlug":"decision-kind","path":"page/service-workstations/sweep-cost-records/sweep-cost-records.service-workstation.ts","id":"01a09b34-9cf2-7d06-8d66-b835be4f7ebd"}
 {"propertySlug":"decision-kind","path":"page/service/modules/call-reading/call-reading.module.ts","id":"01a0a219-c8cd-7000-b0ba-e52ad338d390"}
+{"propertySlug":"decision-kind","path":"page/service/modules/events-reading/events-reading.module.ts","id":"01a0d4f5-6b01-7fe3-9c54-388642cf329e"}
 {"propertySlug":"decision-kind","path":"page/service/modules/file-answering/file-answering.module.ts","id":"01a0784a-085f-7c1d-aec3-7e04a398f007"}
 {"propertySlug":"decision-kind","path":"page/service/modules/kinds-gathering/kinds-gathering.module.ts","id":"01a0723b-ed99-778a-8adb-131a72c2cd98"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-appending/page-appending.module.ts","id":"01a0a220-998d-7000-b216-e0937326b6fb"}

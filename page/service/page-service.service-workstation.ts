@@ -122,6 +122,7 @@ export const pageService = {
   parts: [
     "manifest/page-forwarder",
     "module/call-reading",
+    "module/events-reading",
     "module/file-answering",
     "module/kinds-gathering",
     "module/page-appending",

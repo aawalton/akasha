@@ -3,14 +3,52 @@ import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-va
 import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
-import { shapeFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { streamOver } from "akasha/page/service/modules/events-reading/events-reading.module.code.ts"
+import {
+  eventsOpened,
+  followSent,
+  shapeFor,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import type {
   Declared,
   Shape,
 } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
+import { createChangeFollowing } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
 import { z } from "zod"
 
+const PAGE_TYPE = "page-type"
+
+const KEYED = "shape:"
+
 const asked = new Map<string, Promise<Shape | null>>()
+
+const followed = new Set<string>()
+
+const following = createChangeFollowing({
+  open: () => streamOver((signal) => eventsOpened(signal)),
+  send: async (body) => (await followSent(body)).ok,
+  pushed: (one) => {
+    for (const key of one.keys) if (key.startsWith(KEYED)) asked.delete(key.slice(KEYED.length))
+    return undefined
+  },
+  caughtUp: () => {
+    asked.clear()
+    return undefined
+  },
+})
+
+function keyOf(pageTypeSlug: string): string {
+  if (!followed.has(pageTypeSlug)) {
+    followed.add(pageTypeSlug)
+    following.start()
+    following.follow(`${KEYED}${pageTypeSlug}`, {
+      pageTypeSlug: PAGE_TYPE,
+      by: "slug",
+      values: [pageTypeSlug],
+    })
+  }
+  return `${KEYED}${pageTypeSlug}`
+}
 
 async function read(pageTypeSlug: string): Promise<Shape | null> {
   const got = await shapeFor(pageTypeSlug)
@@ -23,8 +61,9 @@ async function read(pageTypeSlug: string): Promise<Shape | null> {
 }
 
 export async function shapeAsked(pageTypeSlug: string): Promise<Shape | null> {
+  const key = keyOf(pageTypeSlug)
   const asking = asked.get(pageTypeSlug)
-  if (asking !== undefined) return asking
+  if (asking !== undefined && following.live(key)) return asking
   const started = read(pageTypeSlug)
   asked.set(pageTypeSlug, started)
   started.catch(() => {

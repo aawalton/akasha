@@ -23,7 +23,19 @@ export const filePropertyDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A shape answered once is held for every later question.",
+      statement: "A shape answered once is held while its page type is followed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape is dropped when a change to its page type is pushed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every shape held is dropped when a lost stream is taken up again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape is asked for again on every question while no stream follows it.",
     },
     {
       decisionKind: "decision-kind/departure",
