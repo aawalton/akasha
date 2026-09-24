@@ -4700,6 +4700,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/tribute-catalog-capture/tribute-catalog-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/weapon-type-constants/weapon-type-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-asking-shapes/player-asking-shapes.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-askings-reading/player-askings-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/sale/modules/sales-descriptor/sales-descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/sale/modules/sales-payload/sales-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/achievement-catalog/achievement-catalog.module.ts"}

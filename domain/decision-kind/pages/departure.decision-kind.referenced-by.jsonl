@@ -4628,6 +4628,9 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/weapon-type-constants/weapon-type-constants.module.ts","id":"01a06127-664b-74e0-9590-d80f5209e436"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.ts","id":"01a060e2-3186-7265-a0dc-af76d21939e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts","id":"01a060e2-3185-7405-a79e-40fe38c8220f"}
+{"propertySlug":"decision-kind","path":"temper/capture/player-answer/modules/player-asking-shapes/player-asking-shapes.module.ts","id":"01a0d572-a98c-7768-add6-0e774db4bded"}
+{"propertySlug":"decision-kind","path":"temper/capture/player-answer/modules/player-askings-reading/player-askings-reading.module.ts","id":"01a0d572-a98c-7d1c-bd02-8d8be3b22511"}
+{"propertySlug":"decision-kind","path":"temper/capture/player-answer/temper-capture-player-answer.domain.ts","id":"01a0d572-a98c-731f-a331-cd7f1939586f"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/modules/sales-descriptor/sales-descriptor.module.ts","id":"01a0608a-15b3-7c39-bcf3-50e4681cd98f"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/modules/sales-payload/sales-payload.module.ts","id":"01a0608a-15b3-7095-b65b-bb44a69a01c0"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/temper-capture-sale.domain.ts","id":"01a0608a-15b3-7222-9758-3efaaecd469e"}

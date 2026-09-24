@@ -11,6 +11,7 @@ export const temperCapture = {
     "domain/temper-capture-error",
     "domain/temper-capture-sale",
     "domain/temper-capture-datamining",
+    "domain/temper-capture-player-answer",
     "domain/temper-game-catalog-capture-addon",
     "domain/temper-characters-capture-addon",
     "domain/temper-characters-skills-morphs-addon",
