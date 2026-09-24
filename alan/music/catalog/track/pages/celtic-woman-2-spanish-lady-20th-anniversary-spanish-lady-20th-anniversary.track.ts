@@ -12,7 +12,7 @@ export const celticWoman2SpanishLady20thAnniversarySpanishLady20thAnniversary = 
   title: "Spanish Lady - 20th Anniversary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "spanishlady20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|121093",
   song: "song/celtic-woman-spanish-lady-20th-anniversary",
   carriedBy: [

@@ -15,7 +15,7 @@ export const coldplayARushOfBloodToTheHeadGodPutASmileUponYourFace = {
   title: "God Put a Smile upon Your Face",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "godputasmileuponyourface|4gzpq5DPGxSnKTe4SA8HAU|297306",
   song: "song/coldplay-god-put-a-smile-upon-your-face",
   carriedBy: [

@@ -15,7 +15,7 @@ export const celticWoman2AmidTheFallingSnowAmidTheFallingSnow = {
   title: "Amid The Falling Snow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "amidthefallingsnow|6NWtt9pNOL2Gx7kBykdE5x|223026",
   song: "song/celtic-woman-amid-the-falling-snow",
   carriedBy: [

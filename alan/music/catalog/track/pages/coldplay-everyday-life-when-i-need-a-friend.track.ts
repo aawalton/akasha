@@ -12,7 +12,7 @@ export const coldplayEverydayLifeWhenINeedAFriend = {
   title: "When I Need A Friend",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "whenineedafriend|4gzpq5DPGxSnKTe4SA8HAU|155000",
   song: "song/coldplay-when-i-need-a-friend",
   carriedBy: [

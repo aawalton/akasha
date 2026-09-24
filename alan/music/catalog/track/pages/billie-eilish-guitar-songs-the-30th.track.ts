@@ -12,7 +12,7 @@ export const billieEilishGuitarSongsThe30th = {
   title: "The 30th",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "the30th|6qqNVTkY8uBg9cP3Jd7DAH|216448",
   song: "song/billie-eilish-the-30th",
   carriedBy: [

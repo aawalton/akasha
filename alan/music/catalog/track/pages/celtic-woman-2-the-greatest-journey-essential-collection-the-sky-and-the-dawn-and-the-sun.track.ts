@@ -12,7 +12,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheSkyAndTheDawnAn
   title: "The Sky And The Dawn And The Sun",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "theskyandthedawnandthesun|6NWtt9pNOL2Gx7kBykdE5x|319146",
   song: "song/celtic-woman-the-sky-and-the-dawn-and-the-sun",
   carriedBy: [

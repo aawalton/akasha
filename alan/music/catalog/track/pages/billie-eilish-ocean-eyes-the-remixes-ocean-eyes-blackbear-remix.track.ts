@@ -12,10 +12,7 @@ export const billieEilishOceanEyesTheRemixesOceanEyesBlackbearRemix = {
   title: "Ocean Eyes - Blackbear Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "2cFrymmkijnjDg9SS92EPM", artistName: "blackbear" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "blackbear" }],
   trackKey: "oceaneyesblackbearremix|2cFrymmkijnjDg9SS92EPM,6qqNVTkY8uBg9cP3Jd7DAH|195306",
   song: "song/billie-eilish-ocean-eyes",
   carriedBy: [

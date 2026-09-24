@@ -12,7 +12,7 @@ export const celticWoman2ANewJourneyTheBlessing = {
   title: "The Blessing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "theblessing|6NWtt9pNOL2Gx7kBykdE5x|229440",
   song: "song/celtic-woman-the-blessing",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2DestinyHowCanIKeepFromSinging = {
   title: "How Can I Keep From Singing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "howcanikeepfromsinging|6NWtt9pNOL2Gx7kBykdE5x|257735",
   song: "song/celtic-woman-how-can-i-keep-from-singing",
   carriedBy: [

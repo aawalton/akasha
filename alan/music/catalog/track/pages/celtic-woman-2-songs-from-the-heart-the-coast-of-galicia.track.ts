@@ -12,7 +12,7 @@ export const celticWoman2SongsFromTheHeartTheCoastOfGalicia = {
   title: "The Coast Of Galiçia",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thecoastofgalicia|6NWtt9pNOL2Gx7kBykdE5x|218106",
   song: "song/celtic-woman-the-coast-of-galicia",
   carriedBy: [

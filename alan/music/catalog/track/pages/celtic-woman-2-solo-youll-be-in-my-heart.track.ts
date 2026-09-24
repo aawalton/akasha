@@ -12,7 +12,7 @@ export const celticWoman2SoloYoullBeInMyHeart = {
   title: "You'll Be in My Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0BPyH0yYOcGiI6MzXi8lRZ", artistName: "Alex" }],
+  trackArtist: [{ artistName: "Alex" }],
   trackKey: "youllbeinmyheart|0BPyH0yYOcGiI6MzXi8lRZ|239505",
   song: "song/celtic-woman-youll-be-in-my-heart",
   carriedBy: [

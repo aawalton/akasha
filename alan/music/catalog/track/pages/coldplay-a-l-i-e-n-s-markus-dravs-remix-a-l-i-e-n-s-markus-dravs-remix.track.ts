@@ -12,10 +12,7 @@ export const coldplayALIENSMarkusDravsRemixALIENSMarkusDravsRemix = {
   title: "A L I E N S - Markus Dravs Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "4hiaR1Y9EIWosXGKZlTNr5", artistName: "Markus Dravs" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Markus Dravs" }],
   trackKey: "aliensmarkusdravsremix|4gzpq5DPGxSnKTe4SA8HAU,4hiaR1Y9EIWosXGKZlTNr5|425216",
   song: "song/coldplay-a-l-i-e-n-s",
   carriedBy: [

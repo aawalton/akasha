@@ -12,7 +12,7 @@ export const celticWoman2DestinyWhenYouGo = {
   title: "When You Go",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "whenyougo|6NWtt9pNOL2Gx7kBykdE5x|209168",
   song: "song/celtic-woman-when-you-go",
   carriedBy: [

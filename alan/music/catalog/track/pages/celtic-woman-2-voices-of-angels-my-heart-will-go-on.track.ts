@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsMyHeartWillGoOn = {
   title: "My Heart Will Go On",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "myheartwillgoon|6NWtt9pNOL2Gx7kBykdE5x|261040",
   song: "song/celtic-woman-my-heart-will-go-on",
   carriedBy: [

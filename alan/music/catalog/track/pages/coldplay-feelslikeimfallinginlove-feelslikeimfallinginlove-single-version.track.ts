@@ -12,7 +12,7 @@ export const coldplayFeelslikeimfallinginloveFeelslikeimfallinginloveSingleVersi
   title: "feelslikeimfallinginlove - Single Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "feelslikeimfallinginlovesingleversion|4gzpq5DPGxSnKTe4SA8HAU|237803",
   song: "song/coldplay-feelslikeimfallinginlove",
   carriedBy: [

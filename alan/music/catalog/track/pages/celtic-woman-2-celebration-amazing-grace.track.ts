@@ -12,7 +12,7 @@ export const celticWoman2CelebrationAmazingGrace = {
   title: "Amazing Grace",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "amazinggrace|6NWtt9pNOL2Gx7kBykdE5x|300906",
   song: "song/celtic-woman-amazing-grace",
   carriedBy: [

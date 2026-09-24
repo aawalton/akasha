@@ -12,7 +12,7 @@ export const celticWoman2ChristmasCardsFromIrelandTheToysWaltz = {
   title: "The Toys’ Waltz",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thetoyswaltz|6NWtt9pNOL2Gx7kBykdE5x|182426",
   song: "song/celtic-woman-the-toys-waltz",
   carriedBy: [

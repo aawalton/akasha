@@ -12,7 +12,7 @@ export const chaislynRhymeOrReasonRhymeOrReason = {
   title: "rhyme or reason",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
+  trackArtist: [{ artist: "artist/chaislyn" }],
   trackKey: "rhymeorreason|3zmbniiciaBAJlSX1Bzq9R|251413",
   song: "song/chaislyn-rhyme-or-reason",
   carriedBy: [

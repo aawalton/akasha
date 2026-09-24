@@ -12,7 +12,7 @@ export const celticWoman2NollaigAChristmasJourneyLittleDrummerBoy = {
   title: "Little Drummer Boy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "littledrummerboy|6NWtt9pNOL2Gx7kBykdE5x|186047",
   song: "song/celtic-woman-little-drummer-boy",
   carriedBy: [

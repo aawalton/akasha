@@ -12,10 +12,7 @@ export const celticWoman2LullabyBabyMine = {
   title: "Baby Mine",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "34sL9HIOU50t8u0IQMZeze", artistName: "Chloe Agnew" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "Chloe Agnew" }],
   trackKey: "babymine|34sL9HIOU50t8u0IQMZeze,6NWtt9pNOL2Gx7kBykdE5x|190226",
   song: "song/celtic-woman-baby-mine",
   carriedBy: [

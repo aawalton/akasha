@@ -12,7 +12,7 @@ export const celticWoman2TheMagicOfChristmasOComeOComeEmmanuel = {
   title: "O Come, O Come Emmanuel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "ocomeocomeemmanuel|6NWtt9pNOL2Gx7kBykdE5x|249053",
   song: "song/celtic-woman-o-come-o-come-emmanuel",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2TheMagicOfChristmasCarolOfTheBells = {
   title: "Carol Of The Bells",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "carolofthebells|6NWtt9pNOL2Gx7kBykdE5x|204040",
   song: "song/celtic-woman-carol-of-the-bells",
   carriedBy: [

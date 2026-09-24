@@ -12,7 +12,7 @@ export const celticWoman2SongsFromTheHeartWhenYouBelieve = {
   title: "When You Believe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "whenyoubelieve|6NWtt9pNOL2Gx7kBykdE5x|270946",
   song: "song/celtic-woman-when-you-believe",
   carriedBy: [

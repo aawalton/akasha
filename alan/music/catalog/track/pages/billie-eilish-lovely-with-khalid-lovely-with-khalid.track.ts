@@ -12,10 +12,7 @@ export const billieEilishLovelyWithKhalidLovelyWithKhalid = {
   title: "lovely (with Khalid)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "6LuN9FCkKOj5PcnpouEgny", artistName: "Khalid" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "Khalid" }],
   trackKey: "lovelywithkhalid|6LuN9FCkKOj5PcnpouEgny,6qqNVTkY8uBg9cP3Jd7DAH|200185",
   song: "song/billie-eilish-lovely",
   carriedBy: [

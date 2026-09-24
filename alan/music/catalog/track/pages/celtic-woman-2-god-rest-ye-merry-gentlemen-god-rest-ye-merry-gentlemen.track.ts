@@ -15,7 +15,7 @@ export const celticWoman2GodRestYeMerryGentlemenGodRestYeMerryGentlemen = {
   title: "God Rest Ye Merry Gentlemen",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "godrestyemerrygentlemen|6NWtt9pNOL2Gx7kBykdE5x|149432",
   song: "song/celtic-woman-god-rest-ye-merry-gentlemen",
   carriedBy: [

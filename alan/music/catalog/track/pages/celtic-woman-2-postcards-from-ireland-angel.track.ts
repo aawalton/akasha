@@ -12,7 +12,7 @@ export const celticWoman2PostcardsFromIrelandAngel = {
   title: "Angel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "angel|6NWtt9pNOL2Gx7kBykdE5x|275653",
   song: "song/celtic-woman-angel",
   carriedBy: [

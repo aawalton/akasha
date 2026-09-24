@@ -12,7 +12,7 @@ export const celticWoman2PostcardsFromIrelandWildMountainThyme = {
   title: "Wild Mountain Thyme",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "wildmountainthyme|6NWtt9pNOL2Gx7kBykdE5x|236546",
   song: "song/celtic-woman-wild-mountain-thyme",
   carriedBy: [

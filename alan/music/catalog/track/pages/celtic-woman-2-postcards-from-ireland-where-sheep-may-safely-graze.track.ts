@@ -12,7 +12,7 @@ export const celticWoman2PostcardsFromIrelandWhereSheepMaySafelyGraze = {
   title: "Where Sheep May Safely Graze",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "wheresheepmaysafelygraze|6NWtt9pNOL2Gx7kBykdE5x|238946",
   song: "song/celtic-woman-where-sheep-may-safely-graze",
   carriedBy: [

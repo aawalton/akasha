@@ -12,7 +12,7 @@ export const coldplayFixYou2PourMeLiveAtTheHollywoodBowl = {
   title: "Pour Me - Live at the Hollywood Bowl",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "pourmeliveatthehollywoodbowl|4gzpq5DPGxSnKTe4SA8HAU|301373",
   song: "song/coldplay-pour-me",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayChristmasLightsChristmasLights = {
   title: "Christmas Lights",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "christmaslights|4gzpq5DPGxSnKTe4SA8HAU|242495",
   song: "song/coldplay-christmas-lights",
   carriedBy: [

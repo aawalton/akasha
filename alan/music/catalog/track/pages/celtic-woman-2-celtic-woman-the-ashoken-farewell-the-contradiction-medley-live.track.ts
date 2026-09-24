@@ -12,7 +12,7 @@ export const celticWoman2CelticWomanTheAshokenFarewellTheContradictionMedleyLive
   title: "The Ashoken Farewell/The Contradiction - Medley / Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "theashokenfarewellthecontradictionmedleylive|6NWtt9pNOL2Gx7kBykdE5x|250186",
   song: "song/celtic-woman-the-ashoken-farewell-the-contradiction",
   carriedBy: [

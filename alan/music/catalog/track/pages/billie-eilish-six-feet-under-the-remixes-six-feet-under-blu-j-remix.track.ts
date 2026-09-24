@@ -12,10 +12,7 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderBluJRemix = {
   title: "Six Feet Under - BLU J Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "0bI3VA9gVcpoOzrklKgG7V", artistName: "BLU J" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "BLU J" }],
   trackKey: "sixfeetunderblujremix|0bI3VA9gVcpoOzrklKgG7V,6qqNVTkY8uBg9cP3Jd7DAH|215624",
   song: "song/billie-eilish-six-feet-under",
   carriedBy: [

@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverGoldwing = {
   title: "GOLDWING",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "goldwing|6qqNVTkY8uBg9cP3Jd7DAH|151536",
   song: "song/billie-eilish-goldwing",
   carriedBy: [

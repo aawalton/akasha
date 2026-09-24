@@ -12,7 +12,7 @@ export const celticWoman2EmeraldMusicalGemsBridgeOverTroubledWater = {
   title: "Bridge Over Troubled Water",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "bridgeovertroubledwater|6NWtt9pNOL2Gx7kBykdE5x|179173",
   song: "song/celtic-woman-bridge-over-troubled-water",
   carriedBy: [

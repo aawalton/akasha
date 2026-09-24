@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMyLaganLov
   title: "My Lagan Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "mylaganlove|6NWtt9pNOL2Gx7kBykdE5x|170360",
   song: "song/celtic-woman-my-lagan-love",
   carriedBy: [

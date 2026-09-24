@@ -12,7 +12,7 @@ export const coldplayEverydayLifeBroken = {
   title: "BrokEn",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "broken|4gzpq5DPGxSnKTe4SA8HAU|150200",
   song: "song/coldplay-broken",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2HomeForChristmasWhatChildIsThis = {
   title: "What Child Is This",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "whatchildisthis|6NWtt9pNOL2Gx7kBykdE5x|271733",
   song: "song/celtic-woman-what-child-is-this",
   carriedBy: [

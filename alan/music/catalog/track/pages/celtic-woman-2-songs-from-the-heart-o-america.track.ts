@@ -12,7 +12,7 @@ export const celticWoman2SongsFromTheHeartOAmerica = {
   title: "O, America!",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "oamerica|6NWtt9pNOL2Gx7kBykdE5x|231293",
   song: "song/celtic-woman-o-america",
   carriedBy: [

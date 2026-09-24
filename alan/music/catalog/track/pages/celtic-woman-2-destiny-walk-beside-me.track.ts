@@ -12,7 +12,7 @@ export const celticWoman2DestinyWalkBesideMe = {
   title: "Walk Beside Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "walkbesideme|6NWtt9pNOL2Gx7kBykdE5x|255134",
   song: "song/celtic-woman-walk-beside-me",
   carriedBy: [

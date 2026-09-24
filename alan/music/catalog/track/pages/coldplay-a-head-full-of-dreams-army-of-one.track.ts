@@ -12,7 +12,7 @@ export const coldplayAHeadFullOfDreamsArmyOfOne = {
   title: "Army of One",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "armyofone|4gzpq5DPGxSnKTe4SA8HAU|376826",
   song: "song/coldplay-army-of-one",
   carriedBy: [

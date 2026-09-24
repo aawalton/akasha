@@ -12,10 +12,7 @@ export const coldplayFeelslikeimfallinginloveZerbXColdplayFeelslikeimfallinginlo
   title: "feelslikeimfallinginlove - Zerb x Coldplay",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "6mDl7lQiLxT0iQ8LYhAlWy", artistName: "Zerb" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Zerb" }],
   trackKey:
     "feelslikeimfallinginlovezerbxcoldplay|4gzpq5DPGxSnKTe4SA8HAU,6mDl7lQiLxT0iQ8LYhAlWy|236612",
   song: "song/coldplay-feelslikeimfallinginlove-zerb-x-coldplay",

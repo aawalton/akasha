@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverEverybodyDies = {
   title: "Everybody Dies",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "everybodydies|6qqNVTkY8uBg9cP3Jd7DAH|206622",
   song: "song/billie-eilish-everybody-dies",
   carriedBy: [

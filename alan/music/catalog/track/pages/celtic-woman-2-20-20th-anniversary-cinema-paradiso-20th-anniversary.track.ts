@@ -12,7 +12,7 @@ export const celticWoman22020thAnniversaryCinemaParadiso20thAnniversary = {
   title: "Cinema Paradiso - 20th Anniversary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "cinemaparadiso20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|202013",
   song: "song/celtic-woman-cinema-paradiso-20th-anniversary",
   carriedBy: [

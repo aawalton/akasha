@@ -12,7 +12,7 @@ export const celticWoman2CelticWomanSomeday = {
   title: "Someday",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "someday|6NWtt9pNOL2Gx7kBykdE5x|260279",
   song: "song/celtic-woman-someday",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayFixYou2TheWorldTurnedUpsideDown = {
   title: "The World Turned Upside Down",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "theworldturnedupsidedown|4gzpq5DPGxSnKTe4SA8HAU|272626",
   song: "song/coldplay-the-world-turned-upside-down",
   carriedBy: [

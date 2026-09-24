@@ -13,10 +13,10 @@ export const celticWoman2BelieveFollowOn = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "7lauB9o5ZYmU5lTBOw7w8L", artistName: "Paul Brady" },
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "4Jl3FibWLX8mi6TtTryovX", artistName: "David Downes" },
-    { externalId: "2fJCHSiF0CwzZ2vuYWtt2p", artistName: "Nick Ingman" },
+    { artistName: "Paul Brady" },
+    { artist: "artist/celtic-woman" },
+    { artistName: "David Downes" },
+    { artistName: "Nick Ingman" },
   ],
   trackKey:
     "followon|2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x,7lauB9o5ZYmU5lTBOw7w8L|289733",

@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsFieldsOfGo
   title: "Fields of Gold",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "fieldsofgold|6NWtt9pNOL2Gx7kBykdE5x|229653",
   song: "song/celtic-woman-fields-of-gold",
   carriedBy: [

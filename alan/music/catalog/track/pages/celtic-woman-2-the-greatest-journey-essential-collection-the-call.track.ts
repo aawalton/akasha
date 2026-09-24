@@ -12,7 +12,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionTheCall = {
   title: "The Call",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thecall|6NWtt9pNOL2Gx7kBykdE5x|257600",
   song: "song/celtic-woman-the-call",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2HomecomingLiveFromIrelandMyHeartWillGoOnLive2017 = {
   title: "My Heart Will Go On - Live 2017",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "myheartwillgoonlive2017|6NWtt9pNOL2Gx7kBykdE5x|266013",
   song: "song/celtic-woman-my-heart-will-go-on",
   carriedBy: [

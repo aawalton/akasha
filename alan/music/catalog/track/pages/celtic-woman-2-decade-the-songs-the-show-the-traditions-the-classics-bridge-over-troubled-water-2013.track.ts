@@ -15,7 +15,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsBridgeOver
     title: "Bridge over Troubled Water - 2013 Version",
     trackType: "version",
     explicit: false,
-    trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+    trackArtist: [{ artist: "artist/celtic-woman" }],
     trackKey: "bridgeovertroubledwater2013version|6NWtt9pNOL2Gx7kBykdE5x|179080",
     song: "song/celtic-woman-bridge-over-troubled-water",
     carriedBy: [

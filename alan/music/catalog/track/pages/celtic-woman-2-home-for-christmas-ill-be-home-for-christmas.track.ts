@@ -12,7 +12,7 @@ export const celticWoman2HomeForChristmasIllBeHomeForChristmas = {
   title: "I'll Be Home For Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "illbehomeforchristmas|6NWtt9pNOL2Gx7kBykdE5x|252653",
   song: "song/celtic-woman-ill-be-home-for-christmas",
   carriedBy: [

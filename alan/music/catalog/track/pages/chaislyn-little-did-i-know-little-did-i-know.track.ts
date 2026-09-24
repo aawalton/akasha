@@ -12,7 +12,7 @@ export const chaislynLittleDidIKnowLittleDidIKnow = {
   title: "Little Did I Know",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
+  trackArtist: [{ artist: "artist/chaislyn" }],
   trackKey: "littledidiknow|3zmbniiciaBAJlSX1Bzq9R|225645",
   song: "song/chaislyn-little-did-i-know",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsWalkBesideMe2016Version = {
   title: "Walk Beside Me - 2016 Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "walkbesideme2016version|6NWtt9pNOL2Gx7kBykdE5x|280000",
   song: "song/celtic-woman-walk-beside-me",
   carriedBy: [

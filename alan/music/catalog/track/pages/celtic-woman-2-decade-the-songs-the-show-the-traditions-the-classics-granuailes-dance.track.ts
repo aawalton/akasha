@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsGranuailes
   title: "Granuaile's Dance",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "granuailesdance|6NWtt9pNOL2Gx7kBykdE5x|221906",
   song: "song/celtic-woman-granuailes-dance",
   carriedBy: [

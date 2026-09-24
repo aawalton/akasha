@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsCaledonia2
   title: "Caledonia - 2013 Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "caledonia2013version|6NWtt9pNOL2Gx7kBykdE5x|300320",
   song: "song/celtic-woman-caledonia",
   carriedBy: [

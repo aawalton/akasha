@@ -12,7 +12,7 @@ export const celticWoman2TheMagicOfChristmasDoYouHearWhatIHear = {
   title: "Do You Hear What I Hear",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "doyouhearwhatihear|6NWtt9pNOL2Gx7kBykdE5x|233693",
   song: "song/celtic-woman-do-you-hear-what-i-hear",
   carriedBy: [

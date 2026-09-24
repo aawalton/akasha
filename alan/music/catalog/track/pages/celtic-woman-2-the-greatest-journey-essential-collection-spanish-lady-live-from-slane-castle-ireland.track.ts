@@ -13,7 +13,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionSpanishLadyLiveFro
     title: "Spanish Lady - Live From Slane Castle, Ireland/2006",
     trackType: "live",
     explicit: false,
-    trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+    trackArtist: [{ artist: "artist/celtic-woman" }],
     trackKey: "spanishladylivefromslanecastleireland2006|6NWtt9pNOL2Gx7kBykdE5x|142946",
     song: "song/celtic-woman-spanish-lady",
     carriedBy: [

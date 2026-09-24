@@ -12,7 +12,7 @@ export const celticWoman2TheMagicOfChristmasDiaDoBheatha = {
   title: "Dia Do Bheatha",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "diadobheatha|6NWtt9pNOL2Gx7kBykdE5x|219666",
   song: "song/celtic-woman-dia-do-bheatha",
   carriedBy: [

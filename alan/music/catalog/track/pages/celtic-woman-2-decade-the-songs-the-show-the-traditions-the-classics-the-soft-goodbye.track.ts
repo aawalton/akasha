@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheSoftGoo
   title: "The Soft Goodbye",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thesoftgoodbye|6NWtt9pNOL2Gx7kBykdE5x|239133",
   song: "song/celtic-woman-the-soft-goodbye",
   carriedBy: [

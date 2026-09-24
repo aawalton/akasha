@@ -12,7 +12,7 @@ export const celticWoman2SongsFromTheHeartGoodnightMyAngel = {
   title: "Goodnight My Angel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "goodnightmyangel|6NWtt9pNOL2Gx7kBykdE5x|194866",
   song: "song/celtic-woman-goodnight-my-angel",
   carriedBy: [

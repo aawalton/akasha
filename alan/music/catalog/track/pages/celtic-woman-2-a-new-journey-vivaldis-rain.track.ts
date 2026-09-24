@@ -12,7 +12,7 @@ export const celticWoman2ANewJourneyVivaldisRain = {
   title: "Vivaldi's Rain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "vivaldisrain|6NWtt9pNOL2Gx7kBykdE5x|131240",
   song: "song/celtic-woman-vivaldis-rain",
   carriedBy: [

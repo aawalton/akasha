@@ -12,10 +12,7 @@ export const celticWoman2LullabyWalkingInTheAir = {
   title: "Walking In The Air",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "34sL9HIOU50t8u0IQMZeze", artistName: "Chloe Agnew" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "Chloe Agnew" }],
   trackKey: "walkingintheair|34sL9HIOU50t8u0IQMZeze,6NWtt9pNOL2Gx7kBykdE5x|210426",
   song: "song/aurora-walking-in-the-air",
   carriedBy: [

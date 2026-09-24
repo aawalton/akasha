@@ -13,11 +13,11 @@ export const celticWoman2BelieveThePartingGlass = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0bcumn1QlNcVagBgOAvPLU", artistName: "Shaun Davey" },
-    { externalId: "4XeAMQYA8376n4ua0sEMxp", artistName: "Kirk Jones" },
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "4Jl3FibWLX8mi6TtTryovX", artistName: "David Downes" },
-    { externalId: "2fJCHSiF0CwzZ2vuYWtt2p", artistName: "Nick Ingman" },
+    { artistName: "Shaun Davey" },
+    { artistName: "Kirk Jones" },
+    { artist: "artist/celtic-woman" },
+    { artistName: "David Downes" },
+    { artistName: "Nick Ingman" },
   ],
   trackKey:
     "thepartingglass|0bcumn1QlNcVagBgOAvPLU,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,4XeAMQYA8376n4ua0sEMxp,6NWtt9pNOL2Gx7kBykdE5x|252080",

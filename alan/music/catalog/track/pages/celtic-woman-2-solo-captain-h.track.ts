@@ -12,7 +12,7 @@ export const celticWoman2SoloCaptainH = {
   title: "Captain H",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0gPFpb7bIqk1nyr0m75g7s", artistName: "Mairead" }],
+  trackArtist: [{ artistName: "Mairead" }],
   trackKey: "captainh|0gPFpb7bIqk1nyr0m75g7s|182532",
   song: "song/celtic-woman-captain-h",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayEverydayLifeCryCryCry = {
   title: "Cry Cry Cry",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "crycrycry|4gzpq5DPGxSnKTe4SA8HAU|167280",
   song: "song/coldplay-cry-cry-cry",
   carriedBy: [

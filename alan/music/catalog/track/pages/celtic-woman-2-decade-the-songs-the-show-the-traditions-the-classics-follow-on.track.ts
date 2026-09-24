@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsFollowOn =
   title: "Follow On",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "followon|6NWtt9pNOL2Gx7kBykdE5x|291213",
   song: "song/celtic-woman-follow-on",
   carriedBy: [

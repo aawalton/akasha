@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverBillieBossaNova = {
   title: "Billie Bossa Nova",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "billiebossanova|6qqNVTkY8uBg9cP3Jd7DAH|196730",
   song: "song/billie-eilish-billie-bossa-nova",
   carriedBy: [

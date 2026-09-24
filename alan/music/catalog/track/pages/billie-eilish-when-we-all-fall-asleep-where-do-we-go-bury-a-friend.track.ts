@@ -12,7 +12,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoBuryAFriend = {
   title: "bury a friend",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "buryafriend|6qqNVTkY8uBg9cP3Jd7DAH|193143",
   song: "song/billie-eilish-bury-a-friend",
   carriedBy: [

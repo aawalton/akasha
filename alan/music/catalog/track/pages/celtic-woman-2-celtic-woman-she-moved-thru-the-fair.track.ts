@@ -15,7 +15,7 @@ export const celticWoman2CelticWomanSheMovedThruTheFair = {
   title: "She Moved Thru' The Fair",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "shemovedthruthefair|6NWtt9pNOL2Gx7kBykdE5x|210920",
   song: "song/celtic-woman-she-moved-thru-the-fair",
   carriedBy: [

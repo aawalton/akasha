@@ -12,7 +12,7 @@ export const coldplayASkyFullOfStars2OReprise = {
   title: "O - Reprise",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "oreprise|4gzpq5DPGxSnKTe4SA8HAU|97360",
   song: "song/coldplay-o",
   carriedBy: [

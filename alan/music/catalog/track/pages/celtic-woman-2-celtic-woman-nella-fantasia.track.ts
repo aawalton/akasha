@@ -12,7 +12,7 @@ export const celticWoman2CelticWomanNellaFantasia = {
   title: "Nella Fantasia",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "nellafantasia|6NWtt9pNOL2Gx7kBykdE5x|220373",
   song: "song/celtic-woman-nella-fantasia",
   carriedBy: [

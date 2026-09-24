@@ -12,7 +12,7 @@ export const coldplayEverydayLifeOrphans = {
   title: "Orphans",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "orphans|4gzpq5DPGxSnKTe4SA8HAU|197533",
   song: "song/coldplay-orphans",
   carriedBy: [

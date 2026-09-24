@@ -12,7 +12,7 @@ export const celticWoman2TheMagicOfChristmasGreensleeves = {
   title: "Greensleeves",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "greensleeves|6NWtt9pNOL2Gx7kBykdE5x|216906",
   song: "song/celtic-woman-greensleeves",
   carriedBy: [

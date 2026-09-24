@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsIsleOfHopeIsleOfTears = {
   title: "Isle Of Hope, Isle Of Tears",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "isleofhopeisleoftears|6NWtt9pNOL2Gx7kBykdE5x|301386",
   song: "song/celtic-woman-isle-of-hope-isle-of-tears",
   carriedBy: [

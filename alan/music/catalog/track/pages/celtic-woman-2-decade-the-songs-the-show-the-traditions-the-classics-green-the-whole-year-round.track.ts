@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsGreenTheWh
   title: "Green the Whole Year 'Round",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "greenthewholeyearround|6NWtt9pNOL2Gx7kBykdE5x|288173",
   song: "song/celtic-woman-green-the-whole-year-round",
   carriedBy: [

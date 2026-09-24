@@ -12,10 +12,7 @@ export const celticWoman2LullabySuantrai = {
   title: "Suantraí",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "0qxZhSelTxAwGRfUvYNudz", artistName: "Lynn Hilary" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "Lynn Hilary" }],
   trackKey: "suantrai|0qxZhSelTxAwGRfUvYNudz,6NWtt9pNOL2Gx7kBykdE5x|199280",
   song: "song/celtic-woman-suantrai",
   carriedBy: [

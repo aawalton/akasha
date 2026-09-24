@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverHalleysComet = {
   title: "Halley's Comet",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "halleyscomet|6qqNVTkY8uBg9cP3Jd7DAH|234761",
   song: "song/billie-eilish-halley-s-comet",
   carriedBy: [

@@ -12,10 +12,7 @@ export const billieEilishGuessFeaturingBillieEilishGuessFeaturingBillieEilish = 
   title: "Guess featuring billie eilish",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "25uiPmTg16RbhZWAqwLBy5", artistName: "Charli xcx" },
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-  ],
+  trackArtist: [{ artistName: "Charli xcx" }, { artist: "artist/billie-eilish" }],
   trackKey: "guessfeaturingbillieeilish|25uiPmTg16RbhZWAqwLBy5,6qqNVTkY8uBg9cP3Jd7DAH|143330",
   song: "song/billie-eilish-guess-featuring-billie-eilish",
   carriedBy: [

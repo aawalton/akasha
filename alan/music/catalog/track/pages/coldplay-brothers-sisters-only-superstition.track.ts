@@ -12,7 +12,7 @@ export const coldplayBrothersSistersOnlySuperstition = {
   title: "Only Superstition",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "onlysuperstition|4gzpq5DPGxSnKTe4SA8HAU|228666",
   song: "song/coldplay-only-superstition",
   carriedBy: [

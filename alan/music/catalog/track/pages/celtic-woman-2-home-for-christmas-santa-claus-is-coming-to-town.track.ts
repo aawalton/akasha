@@ -12,7 +12,7 @@ export const celticWoman2HomeForChristmasSantaClausIsComingToTown = {
   title: "Santa Claus Is Coming To Town",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "santaclausiscomingtotown|6NWtt9pNOL2Gx7kBykdE5x|253640",
   song: "song/celtic-woman-santa-claus-is-coming-to-town",
   carriedBy: [

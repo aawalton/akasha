@@ -12,7 +12,7 @@ export const celticWoman2EmeraldMusicalGemsTheNewGround = {
   title: "The New Ground",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thenewground|6NWtt9pNOL2Gx7kBykdE5x|123546",
   song: "song/celtic-woman-the-new-ground",
   carriedBy: [

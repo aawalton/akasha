@@ -12,7 +12,7 @@ export const celticWoman2ChristmasCardsFromIrelandOHolyNight2022Version = {
   title: "O Holy Night - 2022 Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "oholynight2022version|6NWtt9pNOL2Gx7kBykdE5x|240973",
   song: "song/celtic-woman-o-holy-night",
   carriedBy: [

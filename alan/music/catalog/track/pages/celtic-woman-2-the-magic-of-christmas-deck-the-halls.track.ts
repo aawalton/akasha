@@ -12,7 +12,7 @@ export const celticWoman2TheMagicOfChristmasDeckTheHalls = {
   title: "Deck The Halls",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "deckthehalls|6NWtt9pNOL2Gx7kBykdE5x|146813",
   song: "song/celtic-woman-deck-the-halls",
   carriedBy: [

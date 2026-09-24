@@ -12,10 +12,7 @@ export const billieEilishOceanEyesTheRemixesOceanEyesGoldhouseRemix = {
   title: "Ocean Eyes - GOLDHOUSE Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "670UISOh9XV1zlq5z5IfoY", artistName: "GOLDHOUSE" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "GOLDHOUSE" }],
   trackKey: "oceaneyesgoldhouseremix|670UISOh9XV1zlq5z5IfoY,6qqNVTkY8uBg9cP3Jd7DAH|213600",
   song: "song/billie-eilish-ocean-eyes",
   carriedBy: [

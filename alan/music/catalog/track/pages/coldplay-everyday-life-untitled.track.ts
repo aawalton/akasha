@@ -12,7 +12,7 @@ export const coldplayEverydayLifeUntitled = {
   title: "بنی آدم",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "|4gzpq5DPGxSnKTe4SA8HAU|194666",
   song: "song/coldplay-untitled-5",
   carriedBy: [

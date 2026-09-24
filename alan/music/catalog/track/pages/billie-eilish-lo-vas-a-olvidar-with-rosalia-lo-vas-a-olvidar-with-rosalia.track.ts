@@ -12,10 +12,7 @@ export const billieEilishLoVasAOlvidarWithRosaliaLoVasAOlvidarWithRosalia = {
   title: "Lo Vas A Olvidar (with ROSALÍA)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "7ltDVBr6mKbRvohxheJ9h1", artistName: "ROSALÍA" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "ROSALÍA" }],
   trackKey: "lovasaolvidarwithrosalia|6qqNVTkY8uBg9cP3Jd7DAH,7ltDVBr6mKbRvohxheJ9h1|203464",
   song: "song/billie-eilish-lo-vas-a-olvidar",
   carriedBy: [

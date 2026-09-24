@@ -12,7 +12,7 @@ export const coldplayClocksCrestsOfWaves = {
   title: "Crests of Waves",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "crestsofwaves|4gzpq5DPGxSnKTe4SA8HAU|219826",
   song: "song/coldplay-crests-of-waves",
   carriedBy: [

@@ -12,7 +12,7 @@ export const billieEilishHotlineEditHotlineEdit = {
   title: "hotline (edit)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "hotlineedit|6qqNVTkY8uBg9cP3Jd7DAH|60719",
   song: "song/billie-eilish-hotline",
   carriedBy: [

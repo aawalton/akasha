@@ -12,7 +12,7 @@ export const celticWoman2DestinyTheWholeOfTheMoon = {
   title: "The Whole Of The Moon",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thewholeofthemoon|6NWtt9pNOL2Gx7kBykdE5x|245338",
   song: "song/celtic-woman-the-whole-of-the-moon",
   carriedBy: [

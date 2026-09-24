@@ -12,7 +12,7 @@ export const coldplayEverydayLifeChampionOfTheWorld = {
   title: "Champion Of The World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "championoftheworld|4gzpq5DPGxSnKTe4SA8HAU|257546",
   song: "song/coldplay-champion-of-the-world",
   carriedBy: [

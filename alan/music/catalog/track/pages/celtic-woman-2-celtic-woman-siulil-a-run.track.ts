@@ -12,7 +12,7 @@ export const celticWoman2CelticWomanSiulilARun = {
   title: "Siulil A Run",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "siulilarun|6NWtt9pNOL2Gx7kBykdE5x|196933",
   song: "song/celtic-woman-siulil-a-run",
   carriedBy: [

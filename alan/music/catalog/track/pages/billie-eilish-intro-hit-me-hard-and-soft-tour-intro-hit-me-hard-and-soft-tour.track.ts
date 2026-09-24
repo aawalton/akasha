@@ -13,7 +13,7 @@ export const billieEilishIntroHitMeHardAndSoftTourIntroHitMeHardAndSoftTour = {
   title: "INTRO (HIT ME HARD AND SOFT TOUR)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "introhitmehardandsofttour|6qqNVTkY8uBg9cP3Jd7DAH|116878",
   song: "song/billie-eilish-intro",
   carriedBy: [

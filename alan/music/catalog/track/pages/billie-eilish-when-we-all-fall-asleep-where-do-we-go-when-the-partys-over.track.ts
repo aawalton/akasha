@@ -12,7 +12,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoWhenThePartysOver = {
   title: "when the party's over",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "whenthepartysover|6qqNVTkY8uBg9cP3Jd7DAH|196077",
   song: "song/billie-eilish-when-the-party-s-over",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman22020thAnniversaryAnCailinDearg20thAnniversary = {
   title: "An Cailín Dearg - 20th Anniversary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "ancailindearg20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|241000",
   song: "song/celtic-woman-an-cailin-dearg-20th-anniversary",
   carriedBy: [

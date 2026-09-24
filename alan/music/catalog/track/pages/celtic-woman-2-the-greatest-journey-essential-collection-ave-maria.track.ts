@@ -12,7 +12,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionAveMaria = {
   title: "Ave Maria",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "avemaria|6NWtt9pNOL2Gx7kBykdE5x|172199",
   song: "song/celtic-woman-ave-maria",
   carriedBy: [

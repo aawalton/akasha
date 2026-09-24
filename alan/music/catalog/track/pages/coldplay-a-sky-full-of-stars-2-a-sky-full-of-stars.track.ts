@@ -12,7 +12,7 @@ export const coldplayASkyFullOfStars2ASkyFullOfStars = {
   title: "A Sky Full of Stars",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "askyfullofstars|4gzpq5DPGxSnKTe4SA8HAU|236379",
   song: "song/coldplay-a-sky-full-of-stars",
   carriedBy: [

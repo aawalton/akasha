@@ -12,7 +12,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoAllTheGoodGirlsGoToHell =
   title: "all the good girls go to hell",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "allthegoodgirlsgotohell|6qqNVTkY8uBg9cP3Jd7DAH|168839",
   song: "song/billie-eilish-all-the-good-girls-go-to-hell",
   carriedBy: [

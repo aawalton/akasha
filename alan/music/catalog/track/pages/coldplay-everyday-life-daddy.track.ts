@@ -12,7 +12,7 @@ export const coldplayEverydayLifeDaddy = {
   title: "Daddy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "daddy|4gzpq5DPGxSnKTe4SA8HAU|298320",
   song: "song/coldplay-daddy",
   carriedBy: [

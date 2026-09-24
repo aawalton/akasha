@@ -12,7 +12,7 @@ export const celticWoman2DestinyLikeAnAngelPassingThroughMyRoom = {
   title: "Like An Angel Passing Through My Room",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "likeanangelpassingthroughmyroom|6NWtt9pNOL2Gx7kBykdE5x|316051",
   song: "song/celtic-woman-like-an-angel-passing-through-my-room",
   carriedBy: [

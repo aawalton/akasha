@@ -12,7 +12,7 @@ export const celticWoman2SoloToWhereYouAre = {
   title: "To Where You Are",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "71POUphzXd95FKPipXjtE0", artistName: "Chloe" }],
+  trackArtist: [{ artistName: "Chloe" }],
   trackKey: "towhereyouare|71POUphzXd95FKPipXjtE0|233848",
   song: "song/celtic-woman-to-where-you-are",
   carriedBy: [

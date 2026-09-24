@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverMyFuture = {
   title: "my future",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "myfuture|6qqNVTkY8uBg9cP3Jd7DAH|210005",
   song: "song/billie-eilish-my-future",
   carriedBy: [

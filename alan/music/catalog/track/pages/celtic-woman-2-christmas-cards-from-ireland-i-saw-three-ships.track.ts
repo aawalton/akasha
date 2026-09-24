@@ -12,7 +12,7 @@ export const celticWoman2ChristmasCardsFromIrelandISawThreeShips = {
   title: "I Saw Three Ships",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "isawthreeships|6NWtt9pNOL2Gx7kBykdE5x|178373",
   song: "song/celtic-woman-i-saw-three-ships",
   carriedBy: [

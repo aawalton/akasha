@@ -12,7 +12,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoUntitled = {
   title: "!!!!!!!",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "|6qqNVTkY8uBg9cP3Jd7DAH|13578",
   song: "song/billie-eilish-untitled",
   carriedBy: [

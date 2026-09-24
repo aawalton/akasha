@@ -12,7 +12,7 @@ export const celticWoman2AChristmasCelebrationDingDongMerrilyOnHigh = {
   title: "Ding Dong Merrily On High",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "dingdongmerrilyonhigh|6NWtt9pNOL2Gx7kBykdE5x|166986",
   song: "song/celtic-woman-ding-dong-merrily-on-high",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2HomeForChristmasWeThreeKings = {
   title: "We Three Kings",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "wethreekings|6NWtt9pNOL2Gx7kBykdE5x|217160",
   song: "song/celtic-woman-we-three-kings",
   carriedBy: [

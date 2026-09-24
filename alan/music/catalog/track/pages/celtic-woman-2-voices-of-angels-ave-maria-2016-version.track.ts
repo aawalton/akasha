@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsAveMaria2016Version = {
   title: "Ave Maria - 2016 Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "avemaria2016version|6NWtt9pNOL2Gx7kBykdE5x|176040",
   song: "song/celtic-woman-ave-maria",
   carriedBy: [

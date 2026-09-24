@@ -12,7 +12,7 @@ export const celticWoman2EmeraldMusicalGemsSheMovedThroughTheFair = {
   title: "She Moved Through The Fair",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "shemovedthroughthefair|6NWtt9pNOL2Gx7kBykdE5x|197813",
   song: "song/celtic-woman-she-moved-through-the-fair",
   carriedBy: [

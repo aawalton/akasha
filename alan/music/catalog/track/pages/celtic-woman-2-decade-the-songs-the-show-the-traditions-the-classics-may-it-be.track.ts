@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsMayItBe = 
   title: "May It Be",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "mayitbe|6NWtt9pNOL2Gx7kBykdE5x|228240",
   song: "song/celtic-woman-may-it-be",
   carriedBy: [

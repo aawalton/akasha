@@ -12,7 +12,7 @@ export const coldplayBiutyfulBiutyful = {
   title: "Biutyful",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "biutyful|4gzpq5DPGxSnKTe4SA8HAU|192394",
   song: "song/coldplay-biutyful",
   carriedBy: [

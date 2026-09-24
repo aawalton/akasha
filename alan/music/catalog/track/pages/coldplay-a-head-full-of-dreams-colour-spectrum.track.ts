@@ -12,7 +12,7 @@ export const coldplayAHeadFullOfDreamsColourSpectrum = {
   title: "Colour Spectrum",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "colourspectrum|4gzpq5DPGxSnKTe4SA8HAU|60106",
   song: "song/coldplay-colour-spectrum",
   carriedBy: [

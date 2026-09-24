@@ -13,10 +13,10 @@ export const celticWoman2BelieveYoullNeverWalkAlone = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4IbAZwt75dpehMOgcC3GnP", artistName: "Richard Rodgers" },
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "4Jl3FibWLX8mi6TtTryovX", artistName: "David Downes" },
-    { externalId: "2fJCHSiF0CwzZ2vuYWtt2p", artistName: "Nick Ingman" },
+    { artistName: "Richard Rodgers" },
+    { artist: "artist/celtic-woman" },
+    { artistName: "David Downes" },
+    { artistName: "Nick Ingman" },
   ],
   trackKey:
     "youllneverwalkalone|2fJCHSiF0CwzZ2vuYWtt2p,4IbAZwt75dpehMOgcC3GnP,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|238226",

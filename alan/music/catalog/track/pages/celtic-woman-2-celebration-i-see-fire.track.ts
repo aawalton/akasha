@@ -12,7 +12,7 @@ export const celticWoman2CelebrationISeeFire = {
   title: "I See Fire",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "iseefire|6NWtt9pNOL2Gx7kBykdE5x|309093",
   song: "song/celtic-woman-i-see-fire",
   carriedBy: [

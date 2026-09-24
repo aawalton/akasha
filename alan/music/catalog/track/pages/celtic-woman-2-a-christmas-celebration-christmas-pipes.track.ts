@@ -12,7 +12,7 @@ export const celticWoman2AChristmasCelebrationChristmasPipes = {
   title: "Christmas Pipes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "christmaspipes|6NWtt9pNOL2Gx7kBykdE5x|231520",
   song: "song/celtic-woman-christmas-pipes",
   carriedBy: [

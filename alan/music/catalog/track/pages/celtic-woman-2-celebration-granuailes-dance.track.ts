@@ -12,7 +12,7 @@ export const celticWoman2CelebrationGranuailesDance = {
   title: "Granuaile's Dance",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "granuailesdance|6NWtt9pNOL2Gx7kBykdE5x|223813",
   song: "song/celtic-woman-granuailes-dance",
   carriedBy: [

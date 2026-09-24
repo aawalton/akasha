@@ -12,7 +12,7 @@ export const celticWoman2AChristmasCelebrationHaveYourselfAMerryLittleChristmas 
   title: "Have Yourself A Merry Little Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "haveyourselfamerrylittlechristmas|6NWtt9pNOL2Gx7kBykdE5x|147453",
   song: "song/coldplay-have-yourself-a-merry-little-christmas",
   carriedBy: [

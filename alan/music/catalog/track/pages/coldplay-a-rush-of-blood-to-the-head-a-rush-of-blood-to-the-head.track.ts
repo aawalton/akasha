@@ -12,7 +12,7 @@ export const coldplayARushOfBloodToTheHeadARushOfBloodToTheHead = {
   title: "A Rush of Blood to the Head",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "arushofbloodtothehead|4gzpq5DPGxSnKTe4SA8HAU|351400",
   song: "song/coldplay-a-rush-of-blood-to-the-head",
   carriedBy: [

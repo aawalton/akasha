@@ -12,7 +12,7 @@ export const coldplayFixYou2FixYou = {
   title: "Fix You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "fixyou|4gzpq5DPGxSnKTe4SA8HAU|277400",
   song: "song/coldplay-fix-you",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayDonTPanicYouOnlyLiveTwiceLiveFromNorway = {
   title: "You Only Live Twice - Live from Norway",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "youonlylivetwicelivefromnorway|4gzpq5DPGxSnKTe4SA8HAU|246666",
   song: "song/coldplay-you-only-live-twice",
   carriedBy: [

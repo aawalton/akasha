@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsTimeToSayGoodbye = {
   title: "Time To Say Goodbye",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "timetosaygoodbye|6NWtt9pNOL2Gx7kBykdE5x|241506",
   song: "song/celtic-woman-time-to-say-goodbye",
   carriedBy: [

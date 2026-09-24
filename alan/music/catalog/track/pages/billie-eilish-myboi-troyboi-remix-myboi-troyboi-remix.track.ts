@@ -12,10 +12,7 @@ export const billieEilishMyboiTroyboiRemixMyboiTroyboiRemix = {
   title: "MyBoi - TroyBoi Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "0tvpihdAsKiNnP6sWS3jUI", artistName: "TroyBoi" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "TroyBoi" }],
   trackKey: "myboitroyboiremix|0tvpihdAsKiNnP6sWS3jUI,6qqNVTkY8uBg9cP3Jd7DAH|211304",
   song: "song/billie-eilish-myboi",
   carriedBy: [

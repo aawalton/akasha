@@ -12,7 +12,7 @@ export const celticWoman2PostcardsFromIrelandTheCalmOfTheDayTheBanshee = {
   title: "The Calm Of The Day / The Banshee",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thecalmofthedaythebanshee|6NWtt9pNOL2Gx7kBykdE5x|177226",
   song: "song/celtic-woman-the-calm-of-the-day-the-banshee",
   carriedBy: [

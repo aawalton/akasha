@@ -12,7 +12,7 @@ export const celticWoman2CelticWomanSiDoMhaimeoILive = {
   title: "Si Do Mhaimeo I - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "sidomhaimeoilive|6NWtt9pNOL2Gx7kBykdE5x|133253",
   song: "song/celtic-woman-si-do-mhaimeo-i",
   carriedBy: [

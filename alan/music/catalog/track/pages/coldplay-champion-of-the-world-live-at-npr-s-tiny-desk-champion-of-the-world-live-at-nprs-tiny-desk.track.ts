@@ -12,7 +12,7 @@ export const coldplayChampionOfTheWorldLiveAtNprSTinyDeskChampionOfTheWorldLiveA
   title: "Champion Of The World - Live at NPR's Tiny Desk",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "championoftheworldliveatnprstinydesk|4gzpq5DPGxSnKTe4SA8HAU|216333",
   song: "song/coldplay-champion-of-the-world",
   carriedBy: [

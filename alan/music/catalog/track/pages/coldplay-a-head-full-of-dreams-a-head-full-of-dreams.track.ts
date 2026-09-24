@@ -12,7 +12,7 @@ export const coldplayAHeadFullOfDreamsAHeadFullOfDreams = {
   title: "A Head Full of Dreams",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "aheadfullofdreams|4gzpq5DPGxSnKTe4SA8HAU|223773",
   song: "song/coldplay-a-head-full-of-dreams",
   carriedBy: [

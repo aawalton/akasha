@@ -12,7 +12,7 @@ export const celticWoman2DestinyOroSeDoBheathaBhaile = {
   title: "Óró sé do bheatha 'bhaile",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "orosedobheathabhaile|6NWtt9pNOL2Gx7kBykdE5x|192580",
   song: "song/celtic-woman-oro-se-do-bheatha-bhaile",
   carriedBy: [

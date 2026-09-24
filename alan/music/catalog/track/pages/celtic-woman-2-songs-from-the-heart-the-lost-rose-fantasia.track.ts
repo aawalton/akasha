@@ -12,7 +12,7 @@ export const celticWoman2SongsFromTheHeartTheLostRoseFantasia = {
   title: "The Lost Rose Fantasia",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thelostrosefantasia|6NWtt9pNOL2Gx7kBykdE5x|139853",
   song: "song/celtic-woman-the-lost-rose-fantasia",
   carriedBy: [

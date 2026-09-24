@@ -12,7 +12,7 @@ export const billieEilishHitMeHardAndSoftLunch = {
   title: "LUNCH",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "lunch|6qqNVTkY8uBg9cP3Jd7DAH|179586",
   song: "song/billie-eilish-lunch",
   carriedBy: [

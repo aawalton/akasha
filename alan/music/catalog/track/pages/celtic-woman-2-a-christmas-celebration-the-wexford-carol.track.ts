@@ -12,7 +12,7 @@ export const celticWoman2AChristmasCelebrationTheWexfordCarol = {
   title: "The Wexford Carol",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thewexfordcarol|6NWtt9pNOL2Gx7kBykdE5x|184133",
   song: "song/celtic-woman-the-wexford-carol",
   carriedBy: [

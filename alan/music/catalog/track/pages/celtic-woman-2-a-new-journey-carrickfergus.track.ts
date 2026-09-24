@@ -15,7 +15,7 @@ export const celticWoman2ANewJourneyCarrickfergus = {
   title: "Carrickfergus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "carrickfergus|6NWtt9pNOL2Gx7kBykdE5x|223226",
   song: "song/celtic-woman-carrickfergus",
   carriedBy: [

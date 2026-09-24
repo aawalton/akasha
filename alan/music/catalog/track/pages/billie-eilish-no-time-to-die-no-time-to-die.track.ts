@@ -12,7 +12,7 @@ export const billieEilishNoTimeToDieNoTimeToDie = {
   title: "No Time To Die",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "notimetodie|6qqNVTkY8uBg9cP3Jd7DAH|242265",
   song: "song/billie-eilish-no-time-to-die",
   carriedBy: [

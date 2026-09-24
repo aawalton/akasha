@@ -12,7 +12,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionPieJesu = {
   title: "Pie Jesu",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "piejesu|6NWtt9pNOL2Gx7kBykdE5x|208706",
   song: "song/celtic-woman-pie-jesu",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2SongsFromTheHeartTheNewGroundIsleOfHopeIsleOfTears = {
   title: "The New Ground / Isle Of Hope, Isle Of Tears",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thenewgroundisleofhopeisleoftears|6NWtt9pNOL2Gx7kBykdE5x|401293",
   song: "song/celtic-woman-the-new-ground-isle-of-hope-isle-of-tears",
   carriedBy: [

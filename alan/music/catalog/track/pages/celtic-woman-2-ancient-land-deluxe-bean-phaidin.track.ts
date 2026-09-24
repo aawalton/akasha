@@ -12,7 +12,7 @@ export const celticWoman2AncientLandDeluxeBeanPhaidin = {
   title: "Bean Pháidín",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "beanphaidin|6NWtt9pNOL2Gx7kBykdE5x|196933",
   song: "song/celtic-woman-bean-phaidin",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2DestinyMyLand = {
   title: "My Land",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "myland|6NWtt9pNOL2Gx7kBykdE5x|244940",
   song: "song/celtic-woman-my-land",
   carriedBy: [

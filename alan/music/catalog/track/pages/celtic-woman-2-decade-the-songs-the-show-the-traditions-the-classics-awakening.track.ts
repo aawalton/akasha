@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsAwakening 
   title: "Awakening",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "awakening|6NWtt9pNOL2Gx7kBykdE5x|315706",
   song: "song/celtic-woman-awakening",
   carriedBy: [

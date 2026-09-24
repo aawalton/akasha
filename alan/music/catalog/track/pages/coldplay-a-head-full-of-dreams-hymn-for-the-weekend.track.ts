@@ -12,7 +12,7 @@ export const coldplayAHeadFullOfDreamsHymnForTheWeekend = {
   title: "Hymn for the Weekend",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "hymnfortheweekend|4gzpq5DPGxSnKTe4SA8HAU|258266",
   song: "song/coldplay-hymn-for-the-weekend",
   carriedBy: [

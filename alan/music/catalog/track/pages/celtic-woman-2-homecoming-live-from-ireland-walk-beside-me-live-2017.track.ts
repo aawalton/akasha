@@ -12,7 +12,7 @@ export const celticWoman2HomecomingLiveFromIrelandWalkBesideMeLive2017 = {
   title: "Walk Beside Me - Live 2017",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "walkbesidemelive2017|6NWtt9pNOL2Gx7kBykdE5x|266240",
   song: "song/celtic-woman-walk-beside-me",
   carriedBy: [

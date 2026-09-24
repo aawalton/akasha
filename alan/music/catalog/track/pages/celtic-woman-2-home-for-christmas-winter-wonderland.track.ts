@@ -12,7 +12,7 @@ export const celticWoman2HomeForChristmasWinterWonderland = {
   title: "Winter Wonderland",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "winterwonderland|6NWtt9pNOL2Gx7kBykdE5x|171040",
   song: "song/celtic-woman-winter-wonderland",
   carriedBy: [

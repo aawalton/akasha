@@ -12,7 +12,7 @@ export const celticWoman2LullabyWhenYouWishUponAStar = {
   title: "When You Wish Upon A Star",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "whenyouwishuponastar|6NWtt9pNOL2Gx7kBykdE5x|197106",
   song: "song/celtic-woman-when-you-wish-upon-a-star",
   carriedBy: [

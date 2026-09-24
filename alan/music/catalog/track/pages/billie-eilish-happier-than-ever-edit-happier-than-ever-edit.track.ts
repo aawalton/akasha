@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverEditHappierThanEverEdit = {
   title: "Happier Than Ever - Edit",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "happierthaneveredit|6qqNVTkY8uBg9cP3Jd7DAH|151444",
   song: "song/billie-eilish-happier-than-ever",
   carriedBy: [

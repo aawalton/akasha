@@ -12,7 +12,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionSomewhere = {
   title: "Somewhere",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "somewhere|6NWtt9pNOL2Gx7kBykdE5x|132226",
   song: "song/celtic-woman-somewhere",
   carriedBy: [

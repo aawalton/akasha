@@ -13,7 +13,7 @@ export const chaislynUnreliableNarratorCarbonCopy = {
   title: "Carbon Copy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
+  trackArtist: [{ artist: "artist/chaislyn" }],
   trackKey: "carboncopy|3zmbniiciaBAJlSX1Bzq9R|171818",
   song: "song/chaislyn-carbon-copy",
   carriedBy: [

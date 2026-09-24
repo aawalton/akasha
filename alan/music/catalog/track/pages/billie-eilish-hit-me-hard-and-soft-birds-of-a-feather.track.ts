@@ -12,7 +12,7 @@ export const billieEilishHitMeHardAndSoftBirdsOfAFeather = {
   title: "BIRDS OF A FEATHER",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "birdsofafeather|6qqNVTkY8uBg9cP3Jd7DAH|210373",
   song: "song/billie-eilish-birds-of-a-feather",
   carriedBy: [

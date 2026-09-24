@@ -12,7 +12,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoListenBeforeIGo = {
   title: "listen before i go",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "listenbeforeigo|6qqNVTkY8uBg9cP3Jd7DAH|242652",
   song: "song/billie-eilish-listen-before-i-go",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2HomeForChristmasAdesteFideles = {
   title: "Adeste Fideles",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "adestefideles|6NWtt9pNOL2Gx7kBykdE5x|260120",
   song: "song/celtic-woman-adeste-fideles",
   carriedBy: [

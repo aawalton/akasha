@@ -12,7 +12,7 @@ export const celticWoman2DestinyTheHillsOfIreland = {
   title: "The Hills Of Ireland",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thehillsofireland|6NWtt9pNOL2Gx7kBykdE5x|192042",
   song: "song/celtic-woman-the-hills-of-ireland",
   carriedBy: [

@@ -13,10 +13,10 @@ export const celticWoman2BelieveSailing = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "3hrMT5rIVrS20YswyQ6nlj", artistName: "Gavin Sutherland" },
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "4Jl3FibWLX8mi6TtTryovX", artistName: "David Downes" },
-    { externalId: "2fJCHSiF0CwzZ2vuYWtt2p", artistName: "Nick Ingman" },
+    { artistName: "Gavin Sutherland" },
+    { artist: "artist/celtic-woman" },
+    { artistName: "David Downes" },
+    { artistName: "Nick Ingman" },
   ],
   trackKey:
     "sailing|2fJCHSiF0CwzZ2vuYWtt2p,3hrMT5rIVrS20YswyQ6nlj,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|247346",

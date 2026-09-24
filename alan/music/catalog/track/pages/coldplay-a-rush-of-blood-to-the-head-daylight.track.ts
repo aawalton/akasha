@@ -12,7 +12,7 @@ export const coldplayARushOfBloodToTheHeadDaylight = {
   title: "Daylight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "daylight|4gzpq5DPGxSnKTe4SA8HAU|327800",
   song: "song/coldplay-daylight",
   carriedBy: [

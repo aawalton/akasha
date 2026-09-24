@@ -12,7 +12,7 @@ export const chaislynMandelaEffectMandelaEffect = {
   title: "Mandela Effect",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
+  trackArtist: [{ artist: "artist/chaislyn" }],
   trackKey: "mandelaeffect|3zmbniiciaBAJlSX1Bzq9R|169416",
   song: "song/chaislyn-mandela-effect",
   carriedBy: [

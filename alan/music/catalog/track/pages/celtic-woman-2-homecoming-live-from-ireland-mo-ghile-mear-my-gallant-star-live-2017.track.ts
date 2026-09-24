@@ -12,7 +12,7 @@ export const celticWoman2HomecomingLiveFromIrelandMoGhileMearMyGallantStarLive20
   title: "Mo Ghile Mear (My Gallant Star) - Live 2017",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "moghilemearmygallantstarlive2017|6NWtt9pNOL2Gx7kBykdE5x|249786",
   song: "song/celtic-woman-mo-ghile-mear-my-gallant-star",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayEverydayLifeSunrise = {
   title: "Sunrise",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "sunrise|4gzpq5DPGxSnKTe4SA8HAU|151093",
   song: "song/coldplay-sunrise",
   carriedBy: [

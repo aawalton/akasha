@@ -12,7 +12,7 @@ export const coldplayEverydayLifeOldFriends = {
   title: "Old Friends",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "oldfriends|4gzpq5DPGxSnKTe4SA8HAU|146946",
   song: "song/coldplay-old-friends",
   carriedBy: [

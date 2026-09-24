@@ -12,7 +12,7 @@ export const billieEilishHitMeHardAndSoftChihiro = {
   title: "CHIHIRO",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "chihiro|6qqNVTkY8uBg9cP3Jd7DAH|303440",
   song: "song/billie-eilish-chihiro",
   carriedBy: [

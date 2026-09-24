@@ -15,10 +15,7 @@ export const celticWoman2NollaigAChristmasJourneyNollaigNaMban = {
   title: "Nollaig na mBan",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "0KT1pvlMlEkRJVQ1TKHhdj", artistName: "Sibéal" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "Sibéal" }],
   trackKey: "nollaignamban|0KT1pvlMlEkRJVQ1TKHhdj,6NWtt9pNOL2Gx7kBykdE5x|286763",
   song: "song/celtic-woman-nollaig-na-mban",
   carriedBy: [

@@ -13,11 +13,11 @@ export const celticWoman2LullabyStayAwake = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "34sL9HIOU50t8u0IQMZeze", artistName: "Chloe Agnew" },
-    { externalId: "4VdV1ro3dBSsu1cRGwbFD3", artistName: "Lisa Kelly" },
-    { externalId: "4MBEdlcsagKMlt3JvRFbRe", artistName: "Mairead Nesbitt" },
-    { externalId: "0qxZhSelTxAwGRfUvYNudz", artistName: "Lynn Hilary" },
+    { artist: "artist/celtic-woman" },
+    { artistName: "Chloe Agnew" },
+    { artistName: "Lisa Kelly" },
+    { artistName: "Mairead Nesbitt" },
+    { artistName: "Lynn Hilary" },
   ],
   trackKey:
     "stayawake|0qxZhSelTxAwGRfUvYNudz,34sL9HIOU50t8u0IQMZeze,4MBEdlcsagKMlt3JvRFbRe,4VdV1ro3dBSsu1cRGwbFD3,6NWtt9pNOL2Gx7kBykdE5x|202813",

@@ -12,7 +12,7 @@ export const billieEilishHitMeHardAndSoftBlue = {
   title: "BLUE",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "blue|6qqNVTkY8uBg9cP3Jd7DAH|343120",
   song: "song/billie-eilish-blue",
   carriedBy: [

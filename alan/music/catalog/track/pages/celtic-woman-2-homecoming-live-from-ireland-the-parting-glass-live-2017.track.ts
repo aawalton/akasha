@@ -12,7 +12,7 @@ export const celticWoman2HomecomingLiveFromIrelandThePartingGlassLive2017 = {
   title: "The Parting Glass - Live 2017",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thepartingglasslive2017|6NWtt9pNOL2Gx7kBykdE5x|305213",
   song: "song/celtic-woman-the-parting-glass",
   carriedBy: [

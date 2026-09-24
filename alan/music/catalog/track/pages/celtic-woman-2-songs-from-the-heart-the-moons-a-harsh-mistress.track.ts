@@ -12,7 +12,7 @@ export const celticWoman2SongsFromTheHeartTheMoonsAHarshMistress = {
   title: "The Moon's A Harsh Mistress",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "themoonsaharshmistress|6NWtt9pNOL2Gx7kBykdE5x|196813",
   song: "song/celtic-woman-the-moons-a-harsh-mistress",
   carriedBy: [

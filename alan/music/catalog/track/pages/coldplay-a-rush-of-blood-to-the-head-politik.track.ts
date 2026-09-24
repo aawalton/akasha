@@ -12,7 +12,7 @@ export const coldplayARushOfBloodToTheHeadPolitik = {
   title: "Politik",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "politik|4gzpq5DPGxSnKTe4SA8HAU|318626",
   song: "song/coldplay-politik",
   carriedBy: [

@@ -15,7 +15,7 @@ export const celticWoman2AncientLandDeluxeFaithsSong = {
   title: "Faith’s Song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "faithssong|6NWtt9pNOL2Gx7kBykdE5x|243333",
   song: "song/celtic-woman-faiths-song",
   carriedBy: [

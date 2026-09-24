@@ -12,10 +12,7 @@ export const coldplayAdventureOfALifetimeMatomaRemixAdventureOfALifetimeMatomaRe
   title: "Adventure of a Lifetime - Matoma Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "4YXycRbyyAE0wozTk7QMEq", artistName: "Matoma" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Matoma" }],
   trackKey: "adventureofalifetimematomaremix|4YXycRbyyAE0wozTk7QMEq,4gzpq5DPGxSnKTe4SA8HAU|250714",
   song: "song/coldplay-adventure-of-a-lifetime",
   carriedBy: [

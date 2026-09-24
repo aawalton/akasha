@@ -15,7 +15,7 @@ export const celticWoman2AncientLandDeluxeHomeland = {
   title: "Homeland",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "homeland|6NWtt9pNOL2Gx7kBykdE5x|259093",
   song: "song/celtic-woman-homeland",
   carriedBy: [

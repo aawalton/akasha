@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsLasciaChio
   title: "Lascia Ch'io Pianga",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "lasciachiopianga|6NWtt9pNOL2Gx7kBykdE5x|211893",
   song: "song/celtic-woman-lascia-chio-pianga",
   carriedBy: [

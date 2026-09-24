@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsYouRaiseMe
   title: "You Raise Me Up",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "youraisemeup|6NWtt9pNOL2Gx7kBykdE5x|273440",
   song: "song/celtic-woman-you-raise-me-up",
   carriedBy: [

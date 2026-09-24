@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsIsleOfInis
   title: "Isle of Inisfree",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "isleofinisfree|6NWtt9pNOL2Gx7kBykdE5x|208560",
   song: "song/celtic-woman-isle-of-inisfree",
   carriedBy: [

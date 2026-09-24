@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverThereforeIAm = {
   title: "Therefore I Am",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "thereforeiam|6qqNVTkY8uBg9cP3Jd7DAH|173539",
   song: "song/billie-eilish-therefore-i-am",
   carriedBy: [

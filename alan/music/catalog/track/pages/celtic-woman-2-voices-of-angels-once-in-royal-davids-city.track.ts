@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsOnceInRoyalDavidsCity = {
   title: "Once In Royal David's City",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "onceinroyaldavidscity|6NWtt9pNOL2Gx7kBykdE5x|248520",
   song: "song/celtic-woman-once-in-royal-davids-city",
   carriedBy: [

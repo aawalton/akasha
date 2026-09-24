@@ -12,10 +12,7 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderJerryFolkRemix = {
   title: "Six Feet Under - Jerry Folk Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "356FCJoyYWyzONni54Dgrv", artistName: "Jerry Folk" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "Jerry Folk" }],
   trackKey: "sixfeetunderjerryfolkremix|356FCJoyYWyzONni54Dgrv,6qqNVTkY8uBg9cP3Jd7DAH|200898",
   song: "song/billie-eilish-six-feet-under",
   carriedBy: [

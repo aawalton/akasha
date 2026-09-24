@@ -12,7 +12,7 @@ export const coldplayEverydayLifeArabesque = {
   title: "Arabesque",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "arabesque|4gzpq5DPGxSnKTe4SA8HAU|340280",
   song: "song/coldplay-arabesque",
   carriedBy: [

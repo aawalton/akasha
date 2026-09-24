@@ -12,7 +12,7 @@ export const celticWoman2AChristmasCelebrationLetItSnow = {
   title: "Let It Snow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "letitsnow|6NWtt9pNOL2Gx7kBykdE5x|150573",
   song: "song/celtic-woman-let-it-snow",
   carriedBy: [

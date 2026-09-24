@@ -12,7 +12,7 @@ export const coldplayAHeadFullOfDreamsFunFeatToveLo = {
   title: "Fun (feat. Tove Lo)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "funfeattovelo|4gzpq5DPGxSnKTe4SA8HAU|267533",
   song: "song/coldplay-fun",
   carriedBy: [

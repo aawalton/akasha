@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsOneWorld =
   title: "One World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "oneworld|6NWtt9pNOL2Gx7kBykdE5x|229146",
   song: "song/celtic-woman-one-world",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayARushOfBloodToTheHeadAmsterdam = {
   title: "Amsterdam",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "amsterdam|4gzpq5DPGxSnKTe4SA8HAU|319360",
   song: "song/coldplay-amsterdam",
   carriedBy: [

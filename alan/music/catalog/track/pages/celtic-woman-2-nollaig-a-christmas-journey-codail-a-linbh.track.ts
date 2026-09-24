@@ -12,10 +12,7 @@ export const celticWoman2NollaigAChristmasJourneyCodailALinbh = {
   title: "Codail a Linbh",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "0KT1pvlMlEkRJVQ1TKHhdj", artistName: "Sibéal" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "Sibéal" }],
   trackKey: "codailalinbh|0KT1pvlMlEkRJVQ1TKHhdj,6NWtt9pNOL2Gx7kBykdE5x|203725",
   song: "song/celtic-woman-codail-a-linbh",
   carriedBy: [

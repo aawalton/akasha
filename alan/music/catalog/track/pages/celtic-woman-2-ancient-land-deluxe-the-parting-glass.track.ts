@@ -12,7 +12,7 @@ export const celticWoman2AncientLandDeluxeThePartingGlass = {
   title: "The Parting Glass",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thepartingglass|6NWtt9pNOL2Gx7kBykdE5x|271453",
   song: "song/celtic-woman-the-parting-glass",
   carriedBy: [

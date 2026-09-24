@@ -12,7 +12,7 @@ export const coldplayAHeadFullOfDreamsBirds = {
   title: "Birds",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "birds|4gzpq5DPGxSnKTe4SA8HAU|229093",
   song: "song/coldplay-birds",
   carriedBy: [

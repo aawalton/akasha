@@ -12,7 +12,7 @@ export const celticWoman2ANewJourneyDulaman = {
   title: "Dúlaman",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "dulaman|6NWtt9pNOL2Gx7kBykdE5x|185506",
   song: "song/celtic-woman-dulaman",
   carriedBy: [

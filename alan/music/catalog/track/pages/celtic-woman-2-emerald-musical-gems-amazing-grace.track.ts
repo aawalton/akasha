@@ -12,7 +12,7 @@ export const celticWoman2EmeraldMusicalGemsAmazingGrace = {
   title: "Amazing Grace",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "amazinggrace|6NWtt9pNOL2Gx7kBykdE5x|350413",
   song: "song/celtic-woman-amazing-grace",
   carriedBy: [

@@ -12,7 +12,7 @@ export const chaislynSidetrackedSidetracked = {
   title: "Sidetracked",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
+  trackArtist: [{ artist: "artist/chaislyn" }],
   trackKey: "sidetracked|3zmbniiciaBAJlSX1Bzq9R|179538",
   song: "song/chaislyn-sidetracked",
   carriedBy: [

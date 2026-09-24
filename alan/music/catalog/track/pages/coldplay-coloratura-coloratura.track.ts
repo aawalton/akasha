@@ -12,7 +12,7 @@ export const coldplayColoraturaColoratura = {
   title: "Coloratura",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "coloratura|4gzpq5DPGxSnKTe4SA8HAU|618960",
   song: "song/coldplay-coloratura",
   carriedBy: [

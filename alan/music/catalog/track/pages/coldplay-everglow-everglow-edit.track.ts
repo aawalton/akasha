@@ -12,7 +12,7 @@ export const coldplayEverglowEverglowEdit = {
   title: "Everglow - Edit",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "everglowedit|4gzpq5DPGxSnKTe4SA8HAU|227506",
   song: "song/coldplay-everglow",
   carriedBy: [

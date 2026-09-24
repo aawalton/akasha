@@ -12,7 +12,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoWishYouWereGay = {
   title: "wish you were gay",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "wishyouweregay|6qqNVTkY8uBg9cP3Jd7DAH|221543",
   song: "song/billie-eilish-wish-you-were-gay",
   carriedBy: [

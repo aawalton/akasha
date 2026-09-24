@@ -12,7 +12,7 @@ export const celticWoman2HomeForChristmasWeWishYouAMerryChristmas = {
   title: "We Wish You A Merry Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "wewishyouamerrychristmas|6NWtt9pNOL2Gx7kBykdE5x|217453",
   song: "song/celtic-woman-we-wish-you-a-merry-christmas",
   carriedBy: [

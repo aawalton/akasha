@@ -12,7 +12,7 @@ export const celticWoman2ANewJourneyCaledonia = {
   title: "Caledonia",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "caledonia|6NWtt9pNOL2Gx7kBykdE5x|299426",
   song: "song/celtic-woman-caledonia",
   carriedBy: [

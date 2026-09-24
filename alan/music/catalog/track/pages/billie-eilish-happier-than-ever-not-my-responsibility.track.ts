@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverNotMyResponsibility = {
   title: "Not My Responsibility",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "notmyresponsibility|6qqNVTkY8uBg9cP3Jd7DAH|227679",
   song: "song/billie-eilish-not-my-responsibility",
   carriedBy: [

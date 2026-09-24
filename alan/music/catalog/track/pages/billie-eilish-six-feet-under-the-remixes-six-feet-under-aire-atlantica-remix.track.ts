@@ -12,10 +12,7 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderAireAtlanticaRemix = 
   title: "Six Feet Under - Aire Atlantica Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "6Ta9RS3a6sLulTlM4FWY5K", artistName: "Aire Atlantica" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "Aire Atlantica" }],
   trackKey: "sixfeetunderaireatlanticaremix|6Ta9RS3a6sLulTlM4FWY5K,6qqNVTkY8uBg9cP3Jd7DAH|221718",
   song: "song/billie-eilish-six-feet-under",
   carriedBy: [

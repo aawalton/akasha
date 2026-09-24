@@ -12,10 +12,7 @@ export const celticWoman2NollaigAChristmasJourneyDonOicheUdIMbeithil = {
   title: "Don Oíche Úd i mBeithil",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "0KT1pvlMlEkRJVQ1TKHhdj", artistName: "Sibéal" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "Sibéal" }],
   trackKey: "donoicheudimbeithil|0KT1pvlMlEkRJVQ1TKHhdj,6NWtt9pNOL2Gx7kBykdE5x|146217",
   song: "song/celtic-woman-don-oiche-ud-i-mbeithil",
   carriedBy: [

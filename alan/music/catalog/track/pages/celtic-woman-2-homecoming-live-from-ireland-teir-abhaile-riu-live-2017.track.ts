@@ -12,7 +12,7 @@ export const celticWoman2HomecomingLiveFromIrelandTeirAbhaileRiuLive2017 = {
   title: "Téir Abhaile Riú - Live 2017",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "teirabhaileriulive2017|6NWtt9pNOL2Gx7kBykdE5x|253186",
   song: "song/celtic-woman-teir-abhaile-riu",
   carriedBy: [

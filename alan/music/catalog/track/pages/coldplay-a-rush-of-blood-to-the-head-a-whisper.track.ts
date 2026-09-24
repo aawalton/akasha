@@ -12,7 +12,7 @@ export const coldplayARushOfBloodToTheHeadAWhisper = {
   title: "A Whisper",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "awhisper|4gzpq5DPGxSnKTe4SA8HAU|238333",
   song: "song/coldplay-a-whisper",
   carriedBy: [

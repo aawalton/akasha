@@ -15,7 +15,7 @@ export const celticWoman2AncientLandAeFondKiss = {
   title: "Ae Fond Kiss",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "aefondkiss|6NWtt9pNOL2Gx7kBykdE5x|239506",
   song: "song/celtic-woman-ae-fond-kiss",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2AChristmasCelebrationPanisAngelicus = {
   title: "Panis Angelicus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "panisangelicus|6NWtt9pNOL2Gx7kBykdE5x|236426",
   song: "song/celtic-woman-panis-angelicus",
   carriedBy: [

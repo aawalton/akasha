@@ -14,10 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSiuilARun 
   title: "Siúil a Rún",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "5oLAxXGiZCQwR8FuXcTDJM", artistName: "Órla Fallon" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "Órla Fallon" }],
   trackKey: "siuilarun|5oLAxXGiZCQwR8FuXcTDJM,6NWtt9pNOL2Gx7kBykdE5x|227200",
   song: "song/celtic-woman-siuil-a-run",
   carriedBy: [

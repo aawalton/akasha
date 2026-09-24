@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWhenYouWis
   title: "When You Wish Upon a Star",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "whenyouwishuponastar|6NWtt9pNOL2Gx7kBykdE5x|197453",
   song: "song/celtic-woman-when-you-wish-upon-a-star",
   carriedBy: [

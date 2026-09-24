@@ -12,7 +12,7 @@ export const celticWoman2CelticWomanLastRoseOfSummerWalkingInTheAirMedley = {
   title: "Last Rose Of Summer/Walking In The Air - Medley",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "lastroseofsummerwalkingintheairmedley|6NWtt9pNOL2Gx7kBykdE5x|260026",
   song: "song/celtic-woman-last-rose-of-summer-walking-in-the-air-medley",
   carriedBy: [

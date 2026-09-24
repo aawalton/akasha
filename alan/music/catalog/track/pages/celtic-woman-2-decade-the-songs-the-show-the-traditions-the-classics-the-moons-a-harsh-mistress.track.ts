@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheMoonsAH
   title: "The Moon's a Harsh Mistress",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "themoonsaharshmistress|6NWtt9pNOL2Gx7kBykdE5x|196466",
   song: "song/celtic-woman-the-moons-a-harsh-mistress",
   carriedBy: [

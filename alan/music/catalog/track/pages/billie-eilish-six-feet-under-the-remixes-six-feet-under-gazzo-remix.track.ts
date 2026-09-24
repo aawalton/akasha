@@ -12,10 +12,7 @@ export const billieEilishSixFeetUnderTheRemixesSixFeetUnderGazzoRemix = {
   title: "Six Feet Under - Gazzo Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "5st4KKihmnSMLRsxWOs2x3", artistName: "Gazzo" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "Gazzo" }],
   trackKey: "sixfeetundergazzoremix|5st4KKihmnSMLRsxWOs2x3,6qqNVTkY8uBg9cP3Jd7DAH|208000",
   song: "song/billie-eilish-six-feet-under",
   carriedBy: [

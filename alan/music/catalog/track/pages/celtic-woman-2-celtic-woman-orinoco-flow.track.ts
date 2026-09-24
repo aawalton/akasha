@@ -12,7 +12,7 @@ export const celticWoman2CelticWomanOrinocoFlow = {
   title: "Orinoco Flow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "orinocoflow|6NWtt9pNOL2Gx7kBykdE5x|212369",
   song: "song/celtic-woman-orinoco-flow",
   carriedBy: [

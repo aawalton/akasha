@@ -12,10 +12,7 @@ export const coldplayCharlieBrownDaveAudeRemixCharlieBrownDaveAudeRemix = {
   title: "Charlie Brown - Dave Audé Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "1vWImodgVqIgTUkekGEfR9", artistName: "Dave Audé" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Dave Audé" }],
   trackKey: "charliebrowndaveauderemix|1vWImodgVqIgTUkekGEfR9,4gzpq5DPGxSnKTe4SA8HAU|403842",
   song: "song/coldplay-charlie-brown",
   carriedBy: [

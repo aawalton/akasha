@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheFoxhunt
   title: "The Foxhunter",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thefoxhunter|6NWtt9pNOL2Gx7kBykdE5x|208613",
   song: "song/celtic-woman-the-foxhunter",
   carriedBy: [

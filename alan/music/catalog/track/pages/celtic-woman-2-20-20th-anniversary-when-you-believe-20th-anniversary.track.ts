@@ -12,7 +12,7 @@ export const celticWoman22020thAnniversaryWhenYouBelieve20thAnniversary = {
   title: "When You Believe - 20th Anniversary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "whenyoubelieve20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|239866",
   song: "song/celtic-woman-when-you-believe-20th-anniversary",
   carriedBy: [

@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheNewGrou
   title: "The New Ground/Isle of Hope",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thenewgroundisleofhope|6NWtt9pNOL2Gx7kBykdE5x|401026",
   song: "song/celtic-woman-the-new-ground-isle-of-hope",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayEveryTeardropIsAWaterfall2MovingToMars = {
   title: "Moving to Mars",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "movingtomars|4gzpq5DPGxSnKTe4SA8HAU|258873",
   song: "song/coldplay-moving-to-mars",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayAHeadFullOfDreamsAmazingDay = {
   title: "Amazing Day",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "amazingday|4gzpq5DPGxSnKTe4SA8HAU|271106",
   song: "song/coldplay-amazing-day",
   carriedBy: [

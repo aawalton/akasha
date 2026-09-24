@@ -15,7 +15,7 @@ export const celticWoman2CelticWomanTheButterfly = {
   title: "The Butterfly",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thebutterfly|6NWtt9pNOL2Gx7kBykdE5x|180226",
   song: "song/celtic-woman-the-butterfly",
   carriedBy: [

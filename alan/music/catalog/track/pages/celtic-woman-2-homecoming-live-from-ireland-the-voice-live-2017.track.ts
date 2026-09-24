@@ -12,7 +12,7 @@ export const celticWoman2HomecomingLiveFromIrelandTheVoiceLive2017 = {
   title: "The Voice - Live 2017",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thevoicelive2017|6NWtt9pNOL2Gx7kBykdE5x|210906",
   song: "song/celtic-woman-the-voice",
   carriedBy: [

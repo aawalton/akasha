@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNonCePiu =
   title: "Non C'è Più",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "noncepiu|6NWtt9pNOL2Gx7kBykdE5x|288453",
   song: "song/celtic-woman-non-ce-piu",
   carriedBy: [

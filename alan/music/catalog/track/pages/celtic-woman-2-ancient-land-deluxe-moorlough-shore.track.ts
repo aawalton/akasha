@@ -15,7 +15,7 @@ export const celticWoman2AncientLandDeluxeMoorloughShore = {
   title: "Moorlough Shore",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "moorloughshore|6NWtt9pNOL2Gx7kBykdE5x|245400",
   song: "song/celtic-woman-moorlough-shore",
   carriedBy: [

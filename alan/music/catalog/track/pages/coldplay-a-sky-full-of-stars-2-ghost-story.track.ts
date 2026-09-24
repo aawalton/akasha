@@ -12,7 +12,7 @@ export const coldplayASkyFullOfStars2GhostStory = {
   title: "Ghost Story",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "ghoststory|4gzpq5DPGxSnKTe4SA8HAU|257373",
   song: "song/coldplay-ghost-story",
   carriedBy: [

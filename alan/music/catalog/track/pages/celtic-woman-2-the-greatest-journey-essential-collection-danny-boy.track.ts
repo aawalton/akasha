@@ -12,7 +12,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionDannyBoy = {
   title: "Danny Boy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "dannyboy|6NWtt9pNOL2Gx7kBykdE5x|205160",
   song: "song/celtic-woman-danny-boy",
   carriedBy: [

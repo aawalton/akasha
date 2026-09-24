@@ -12,7 +12,7 @@ export const coldplayARushOfBloodToTheHeadClocks = {
   title: "Clocks",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "clocks|4gzpq5DPGxSnKTe4SA8HAU|307879",
   song: "song/coldplay-clocks",
   carriedBy: [

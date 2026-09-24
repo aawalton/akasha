@@ -12,7 +12,7 @@ export const celticWoman2TheMagicOfChristmasAngelsWeHaveHeardOnHigh = {
   title: "Angels We Have Heard On High",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "angelswehaveheardonhigh|6NWtt9pNOL2Gx7kBykdE5x|274946",
   song: "song/celtic-woman-angels-we-have-heard-on-high",
   carriedBy: [

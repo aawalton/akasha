@@ -12,7 +12,7 @@ export const celticWoman22020thAnniversaryTeirAbhaileRiu20thAnniversary = {
   title: "Téir Abhaile Riú - 20th Anniversary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "teirabhaileriu20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|174506",
   song: "song/celtic-woman-teir-abhaile-riu-20th-anniversary",
   carriedBy: [

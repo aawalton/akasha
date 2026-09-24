@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheCoastOf
   title: "The Coast of Galiçia",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thecoastofgalicia|6NWtt9pNOL2Gx7kBykdE5x|215893",
   song: "song/celtic-woman-the-coast-of-galicia",
   carriedBy: [

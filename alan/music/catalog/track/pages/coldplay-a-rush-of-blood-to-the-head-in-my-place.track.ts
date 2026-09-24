@@ -12,7 +12,7 @@ export const coldplayARushOfBloodToTheHeadInMyPlace = {
   title: "In My Place",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "inmyplace|4gzpq5DPGxSnKTe4SA8HAU|226680",
   song: "song/coldplay-in-my-place",
   carriedBy: [

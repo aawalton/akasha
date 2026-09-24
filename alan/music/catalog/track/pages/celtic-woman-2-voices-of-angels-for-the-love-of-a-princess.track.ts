@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsForTheLoveOfAPrincess = {
   title: "For The Love Of A Princess",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "fortheloveofaprincess|6NWtt9pNOL2Gx7kBykdE5x|229226",
   song: "song/celtic-woman-for-the-love-of-a-princess",
   carriedBy: [

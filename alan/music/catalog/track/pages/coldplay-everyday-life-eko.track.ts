@@ -12,7 +12,7 @@ export const coldplayEverydayLifeEko = {
   title: "Èkó",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "eko|4gzpq5DPGxSnKTe4SA8HAU|157866",
   song: "song/coldplay-eko",
   carriedBy: [

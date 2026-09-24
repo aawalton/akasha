@@ -12,7 +12,7 @@ export const celticWoman2RedIsTheRoseRedIsTheRose = {
   title: "Red is the Rose",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "redistherose|6NWtt9pNOL2Gx7kBykdE5x|214750",
   song: "song/celtic-woman-red-is-the-rose",
   carriedBy: [

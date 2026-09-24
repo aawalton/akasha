@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverMaleFantasy = {
   title: "Male Fantasy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "malefantasy|6qqNVTkY8uBg9cP3Jd7DAH|194886",
   song: "song/billie-eilish-male-fantasy",
   carriedBy: [

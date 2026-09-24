@@ -12,7 +12,7 @@ export const celticWoman2HomecomingLiveFromIrelandFieldsOfGoldLive2017 = {
   title: "Fields Of Gold - Live 2017",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "fieldsofgoldlive2017|6NWtt9pNOL2Gx7kBykdE5x|223369",
   song: "song/celtic-woman-fields-of-gold",
   carriedBy: [

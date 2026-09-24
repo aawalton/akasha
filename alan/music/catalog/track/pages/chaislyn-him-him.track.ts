@@ -12,7 +12,7 @@ export const chaislynHimHim = {
   title: "Him",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
+  trackArtist: [{ artist: "artist/chaislyn" }],
   trackKey: "him|3zmbniiciaBAJlSX1Bzq9R|200109",
   song: "song/chaislyn-him",
   carriedBy: [

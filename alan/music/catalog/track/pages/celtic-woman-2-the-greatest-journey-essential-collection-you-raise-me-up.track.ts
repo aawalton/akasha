@@ -12,7 +12,7 @@ export const celticWoman2TheGreatestJourneyEssentialCollectionYouRaiseMeUp = {
   title: "You Raise Me Up",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "youraisemeup|6NWtt9pNOL2Gx7kBykdE5x|279053",
   song: "song/celtic-woman-you-raise-me-up",
   carriedBy: [

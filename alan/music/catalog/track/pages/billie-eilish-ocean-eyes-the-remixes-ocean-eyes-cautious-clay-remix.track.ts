@@ -12,10 +12,7 @@ export const billieEilishOceanEyesTheRemixesOceanEyesCautiousClayRemix = {
   title: "Ocean Eyes - Cautious Clay Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "6iWuBN32BqCJAeXW6o3nil", artistName: "Cautious Clay" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "Cautious Clay" }],
   trackKey: "oceaneyescautiousclayremix|6iWuBN32BqCJAeXW6o3nil,6qqNVTkY8uBg9cP3Jd7DAH|191293",
   song: "song/billie-eilish-ocean-eyes",
   carriedBy: [

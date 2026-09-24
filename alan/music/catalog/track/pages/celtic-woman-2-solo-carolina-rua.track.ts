@@ -12,7 +12,7 @@ export const celticWoman2SoloCarolinaRua = {
   title: "Carolina Rua",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "77xijq3ky5eW45DosksSNb", artistName: "Lynn Hillary" }],
+  trackArtist: [{ artistName: "Lynn Hillary" }],
   trackKey: "carolinarua|77xijq3ky5eW45DosksSNb|170086",
   song: "song/celtic-woman-carolina-rua",
   carriedBy: [

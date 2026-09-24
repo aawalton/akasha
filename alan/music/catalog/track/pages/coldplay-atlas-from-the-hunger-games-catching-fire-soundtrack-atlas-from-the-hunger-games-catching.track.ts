@@ -13,7 +13,7 @@ export const coldplayAtlasFromTheHungerGamesCatchingFireSoundtrackAtlasFromTheHu
     title: "Atlas - From “The Hunger Games: Catching Fire” Soundtrack",
     trackType: "studio",
     explicit: false,
-    trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+    trackArtist: [{ artist: "artist/coldplay" }],
     trackKey: "atlasfromthehungergamescatchingfiresoundtrack|4gzpq5DPGxSnKTe4SA8HAU|236093",
     song: "song/coldplay-atlas-from-the-hunger-games-catching-fire-soundtrack",
     carriedBy: [

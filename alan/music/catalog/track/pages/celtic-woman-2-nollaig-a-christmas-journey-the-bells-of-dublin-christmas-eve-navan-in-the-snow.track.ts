@@ -12,10 +12,7 @@ export const celticWoman2NollaigAChristmasJourneyTheBellsOfDublinChristmasEveNav
   title: "The Bells of Dublin/Christmas Eve/Navan in the Snow - Medley",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "7fUaaesLcfVUXc7Ar89ZMf", artistName: "Tara Howley" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "Tara Howley" }],
   trackKey:
     "thebellsofdublinchristmasevenavaninthesnowmedley|6NWtt9pNOL2Gx7kBykdE5x,7fUaaesLcfVUXc7Ar89ZMf|217947",
   song: "song/celtic-woman-the-bells-of-dublin-christmas-eve-navan-in-the-snow-medley",

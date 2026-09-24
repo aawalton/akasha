@@ -12,7 +12,7 @@ export const celticWoman2AChristmasCelebrationAwayInAManger = {
   title: "Away In A Manger",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "awayinamanger|6NWtt9pNOL2Gx7kBykdE5x|151213",
   song: "song/celtic-woman-away-in-a-manger",
   carriedBy: [

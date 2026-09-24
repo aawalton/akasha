@@ -15,7 +15,7 @@ export const celticWoman2AncientLandDeluxeFollowMe = {
   title: "Follow Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "followme|6NWtt9pNOL2Gx7kBykdE5x|218626",
   song: "song/celtic-woman-follow-me",
   carriedBy: [

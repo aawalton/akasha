@@ -12,10 +12,7 @@ export const coldplayASkyFullOfStarsHardwellRemixASkyFullOfStarsHardwellRemix = 
   title: "A Sky Full of Stars - Hardwell Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "6BrvowZBreEkXzJQMpL174", artistName: "Hardwell" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Hardwell" }],
   trackKey: "askyfullofstarshardwellremix|4gzpq5DPGxSnKTe4SA8HAU,6BrvowZBreEkXzJQMpL174|313124",
   song: "song/coldplay-a-sky-full-of-stars",
   carriedBy: [

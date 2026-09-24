@@ -12,7 +12,7 @@ export const celticWoman2TheMagicOfChristmasSleighRide = {
   title: "Sleigh Ride",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "sleighride|6NWtt9pNOL2Gx7kBykdE5x|214800",
   song: "song/celtic-woman-sleigh-ride",
   carriedBy: [

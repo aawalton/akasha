@@ -12,7 +12,7 @@ export const coldplayEverydayLifeGuns = {
   title: "Guns",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "guns|4gzpq5DPGxSnKTe4SA8HAU|115080",
   song: "song/coldplay-guns",
   carriedBy: [

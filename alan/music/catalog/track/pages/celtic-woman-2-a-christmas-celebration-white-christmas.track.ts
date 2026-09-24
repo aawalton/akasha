@@ -12,7 +12,7 @@ export const celticWoman2AChristmasCelebrationWhiteChristmas = {
   title: "White Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "whitechristmas|6NWtt9pNOL2Gx7kBykdE5x|201706",
   song: "song/celtic-woman-white-christmas",
   carriedBy: [

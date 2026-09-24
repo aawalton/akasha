@@ -12,7 +12,7 @@ export const celticWoman2HomeForChristmasHarkTheHeraldAngelsSing = {
   title: "Hark The Herald Angels Sing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "harktheheraldangelssing|6NWtt9pNOL2Gx7kBykdE5x|301853",
   song: "song/celtic-woman-hark-the-herald-angels-sing",
   carriedBy: [

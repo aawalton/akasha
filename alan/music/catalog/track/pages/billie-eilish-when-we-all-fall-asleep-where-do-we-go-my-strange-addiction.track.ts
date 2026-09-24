@@ -12,7 +12,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoMyStrangeAddiction = {
   title: "my strange addiction",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "mystrangeaddiction|6qqNVTkY8uBg9cP3Jd7DAH|179889",
   song: "song/billie-eilish-my-strange-addiction",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayBrothersSistersBrothersSisters = {
   title: "Brothers & Sisters",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "brotherssisters|4gzpq5DPGxSnKTe4SA8HAU|245533",
   song: "song/coldplay-brothers-sisters",
   carriedBy: [

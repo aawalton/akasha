@@ -12,7 +12,7 @@ export const chaislynMakeBelieveMakeBelieve = {
   title: "Make Believe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
+  trackArtist: [{ artist: "artist/chaislyn" }],
   trackKey: "makebelieve|3zmbniiciaBAJlSX1Bzq9R|188200",
   song: "song/chaislyn-make-believe",
   carriedBy: [

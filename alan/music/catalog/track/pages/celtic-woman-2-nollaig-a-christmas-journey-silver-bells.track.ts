@@ -12,7 +12,7 @@ export const celticWoman2NollaigAChristmasJourneySilverBells = {
   title: "Silver Bells",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "silverbells|6NWtt9pNOL2Gx7kBykdE5x|227799",
   song: "song/celtic-woman-silver-bells",
   carriedBy: [

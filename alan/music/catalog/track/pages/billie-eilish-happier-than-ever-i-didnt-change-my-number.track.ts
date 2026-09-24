@@ -12,7 +12,7 @@ export const billieEilishHappierThanEverIDidntChangeMyNumber = {
   title: "I Didn't Change My Number",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "ididntchangemynumber|6qqNVTkY8uBg9cP3Jd7DAH|158463",
   song: "song/billie-eilish-i-didn-t-change-my-number",
   carriedBy: [

@@ -13,10 +13,10 @@ export const celticWoman2BelieveBridgeOverTroubledWater = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "2CvCyf1gEVhI0mX6aFXmVI", artistName: "Paul Simon" },
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "4Jl3FibWLX8mi6TtTryovX", artistName: "David Downes" },
-    { externalId: "2fJCHSiF0CwzZ2vuYWtt2p", artistName: "Nick Ingman" },
+    { artistName: "Paul Simon" },
+    { artist: "artist/celtic-woman" },
+    { artistName: "David Downes" },
+    { artistName: "Nick Ingman" },
   ],
   trackKey:
     "bridgeovertroubledwater|2CvCyf1gEVhI0mX6aFXmVI,2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,6NWtt9pNOL2Gx7kBykdE5x|243280",

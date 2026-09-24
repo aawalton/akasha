@@ -12,7 +12,7 @@ export const celticWoman2SongsFromTheHeartNilSenLa = {
   title: "Níl Sé'n Lá",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "nilsenla|6NWtt9pNOL2Gx7kBykdE5x|217786",
   song: "song/celtic-woman-nil-sen-la",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2ChristmasCardsFromIrelandSilentNight2022Version = {
   title: "Silent Night - 2022 Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "silentnight2022version|6NWtt9pNOL2Gx7kBykdE5x|212093",
   song: "song/celtic-woman-silent-night",
   carriedBy: [

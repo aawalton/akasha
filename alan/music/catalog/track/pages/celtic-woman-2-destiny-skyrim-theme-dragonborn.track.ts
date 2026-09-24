@@ -12,7 +12,7 @@ export const celticWoman2DestinySkyrimThemeDragonborn = {
   title: "Skyrim Theme (Dragonborn)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "skyrimthemedragonborn|6NWtt9pNOL2Gx7kBykdE5x|191739",
   song: "song/celtic-woman-skyrim-theme-dragonborn",
   carriedBy: [

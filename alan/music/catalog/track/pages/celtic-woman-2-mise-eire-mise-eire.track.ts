@@ -15,7 +15,7 @@ export const celticWoman2MiseEireMiseEire = {
   title: "Mise Éire",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "miseeire|6NWtt9pNOL2Gx7kBykdE5x|232760",
   song: "song/celtic-woman-mise-eire",
   carriedBy: [

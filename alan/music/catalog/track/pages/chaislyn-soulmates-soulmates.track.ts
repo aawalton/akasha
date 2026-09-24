@@ -12,7 +12,7 @@ export const chaislynSoulmatesSoulmates = {
   title: "Soulmates",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3zmbniiciaBAJlSX1Bzq9R", artistName: "Chaislyn" }],
+  trackArtist: [{ artist: "artist/chaislyn" }],
   trackKey: "soulmates|3zmbniiciaBAJlSX1Bzq9R|271136",
   song: "song/chaislyn-soulmates",
   carriedBy: [

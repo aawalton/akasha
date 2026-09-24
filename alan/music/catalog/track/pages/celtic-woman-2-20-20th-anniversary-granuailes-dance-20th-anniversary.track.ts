@@ -12,7 +12,7 @@ export const celticWoman22020thAnniversaryGranuailesDance20thAnniversary = {
   title: "Granuaile's Dance - 20th Anniversary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "granuailesdance20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|101840",
   song: "song/celtic-woman-granuailes-dance-20th-anniversary",
   carriedBy: [

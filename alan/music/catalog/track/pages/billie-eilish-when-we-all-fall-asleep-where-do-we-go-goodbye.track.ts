@@ -12,7 +12,7 @@ export const billieEilishWhenWeAllFallAsleepWhereDoWeGoGoodbye = {
   title: "goodbye",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "goodbye|6qqNVTkY8uBg9cP3Jd7DAH|119409",
   song: "song/billie-eilish-goodbye",
   carriedBy: [

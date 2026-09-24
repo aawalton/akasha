@@ -12,7 +12,7 @@ export const celticWoman2NollaigAChristmasJourneyRiver = {
   title: "River",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "river|6NWtt9pNOL2Gx7kBykdE5x|302331",
   song: "song/celtic-woman-river",
   carriedBy: [

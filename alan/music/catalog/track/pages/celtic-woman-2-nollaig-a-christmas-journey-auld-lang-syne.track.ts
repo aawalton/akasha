@@ -12,7 +12,7 @@ export const celticWoman2NollaigAChristmasJourneyAuldLangSyne = {
   title: "Auld Lang Syne",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "auldlangsyne|6NWtt9pNOL2Gx7kBykdE5x|290390",
   song: "song/celtic-woman-auld-lang-syne",
   carriedBy: [

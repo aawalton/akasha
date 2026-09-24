@@ -15,7 +15,7 @@ export const celticWoman2AncientLandDeluxeLongJourneyHome = {
   title: "Long Journey Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "longjourneyhome|6NWtt9pNOL2Gx7kBykdE5x|193360",
   song: "song/celtic-woman-long-journey-home",
   carriedBy: [

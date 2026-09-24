@@ -12,7 +12,7 @@ export const celticWoman2HomeForChristmasJoyToTheWorld = {
   title: "Joy To The World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "joytotheworld|6NWtt9pNOL2Gx7kBykdE5x|175720",
   song: "song/celtic-woman-joy-to-the-world",
   carriedBy: [

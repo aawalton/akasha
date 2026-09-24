@@ -12,7 +12,7 @@ export const celticWoman2PostcardsFromIrelandTheLakesOfPontchartrain = {
   title: "The Lakes Of Pontchartrain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thelakesofpontchartrain|6NWtt9pNOL2Gx7kBykdE5x|236106",
   song: "song/celtic-woman-the-lakes-of-pontchartrain",
   carriedBy: [

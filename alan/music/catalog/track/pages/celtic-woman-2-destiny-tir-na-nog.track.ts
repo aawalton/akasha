@@ -12,10 +12,7 @@ export const celticWoman2DestinyTirNaNog = {
   title: "Tír na nÓg",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "46CaFQ5mdimxfNmTILDBlk", artistName: "Oonagh" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "Oonagh" }],
   trackKey: "tirnanog|46CaFQ5mdimxfNmTILDBlk,6NWtt9pNOL2Gx7kBykdE5x|188724",
   song: "song/celtic-woman-tir-na-nog",
   carriedBy: [

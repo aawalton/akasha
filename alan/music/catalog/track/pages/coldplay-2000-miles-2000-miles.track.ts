@@ -12,7 +12,7 @@ export const coldplay2000Miles2000Miles = {
   title: "2000 Miles",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "2000miles|4gzpq5DPGxSnKTe4SA8HAU|195717",
   song: "song/coldplay-2000-miles",
   carriedBy: [

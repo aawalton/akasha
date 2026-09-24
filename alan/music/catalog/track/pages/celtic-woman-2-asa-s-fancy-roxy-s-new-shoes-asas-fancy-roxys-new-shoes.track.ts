@@ -12,7 +12,7 @@ export const celticWoman2AsaSFancyRoxySNewShoesAsasFancyRoxysNewShoes = {
   title: "Asa’s Fancy/Roxy’s New Shoes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "asasfancyroxysnewshoes|6NWtt9pNOL2Gx7kBykdE5x|216750",
   song: "song/celtic-woman-asas-fancy-roxys-new-shoes",
   carriedBy: [

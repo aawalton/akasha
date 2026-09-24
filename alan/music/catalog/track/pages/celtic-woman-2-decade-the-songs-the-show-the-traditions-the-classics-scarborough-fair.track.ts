@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsScarboroug
   title: "Scarborough Fair",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "scarboroughfair|6NWtt9pNOL2Gx7kBykdE5x|197386",
   song: "song/celtic-woman-scarborough-fair",
   carriedBy: [

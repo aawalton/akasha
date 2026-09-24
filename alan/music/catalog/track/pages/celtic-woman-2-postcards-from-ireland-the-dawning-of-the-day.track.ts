@@ -15,7 +15,7 @@ export const celticWoman2PostcardsFromIrelandTheDawningOfTheDay = {
   title: "The Dawning Of The Day",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "thedawningoftheday|6NWtt9pNOL2Gx7kBykdE5x|234240",
   song: "song/celtic-woman-the-dawning-of-the-day",
   carriedBy: [

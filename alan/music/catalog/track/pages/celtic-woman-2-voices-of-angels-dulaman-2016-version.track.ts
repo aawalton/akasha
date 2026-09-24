@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsDulaman2016Version = {
   title: "Dúlaman - 2016 Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "dulaman2016version|6NWtt9pNOL2Gx7kBykdE5x|258026",
   song: "song/celtic-woman-dulaman",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayEverydayLifeWotwPotp = {
   title: "WOTW / POTP",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "wotwpotp|4gzpq5DPGxSnKTe4SA8HAU|76933",
   song: "song/coldplay-wotw-potp",
   carriedBy: [

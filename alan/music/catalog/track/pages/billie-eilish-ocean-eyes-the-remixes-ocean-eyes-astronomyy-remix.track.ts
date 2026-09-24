@@ -12,10 +12,7 @@ export const billieEilishOceanEyesTheRemixesOceanEyesAstronomyyRemix = {
   title: "Ocean Eyes - Astronomyy Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "3EpmmPtV7DduqNmeqaADIm", artistName: "Astronomyy" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "Astronomyy" }],
   trackKey: "oceaneyesastronomyyremix|3EpmmPtV7DduqNmeqaADIm,6qqNVTkY8uBg9cP3Jd7DAH|296266",
   song: "song/billie-eilish-ocean-eyes",
   carriedBy: [

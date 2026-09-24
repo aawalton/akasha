@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsYoullBeInM
   title: "You'll Be in My Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "youllbeinmyheart|6NWtt9pNOL2Gx7kBykdE5x|242200",
   song: "song/celtic-woman-youll-be-in-my-heart",
   carriedBy: [

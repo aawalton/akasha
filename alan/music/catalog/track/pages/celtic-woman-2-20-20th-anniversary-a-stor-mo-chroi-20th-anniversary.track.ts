@@ -12,7 +12,7 @@ export const celticWoman22020thAnniversaryAStorMoChroi20thAnniversary = {
   title: "A Stór Mo Chroí - 20th Anniversary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "astormochroi20thanniversary|6NWtt9pNOL2Gx7kBykdE5x|305653",
   song: "song/celtic-woman-a-stor-mo-chroi-20th-anniversary",
   carriedBy: [

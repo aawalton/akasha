@@ -13,11 +13,11 @@ export const celticWoman2BelieveSongsFromTheHeartWalkingTheNightTheWorldFallsAwa
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4Jl3FibWLX8mi6TtTryovX", artistName: "David Downes" },
-    { externalId: "4gpWwMQpb2Brtj1zqsJRBf", artistName: "Bary McCrea" },
-    { externalId: "7mJ7vUZmcgRob2PKidv21k", artistName: "Caitríona Ní Dhuill" },
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "2fJCHSiF0CwzZ2vuYWtt2p", artistName: "Nick Ingman" },
+    { artistName: "David Downes" },
+    { artistName: "Bary McCrea" },
+    { artistName: "Caitríona Ní Dhuill" },
+    { artist: "artist/celtic-woman" },
+    { artistName: "Nick Ingman" },
   ],
   trackKey:
     "songsfromtheheartwalkingthenighttheworldfallsaway|2fJCHSiF0CwzZ2vuYWtt2p,4Jl3FibWLX8mi6TtTryovX,4gpWwMQpb2Brtj1zqsJRBf,6NWtt9pNOL2Gx7kBykdE5x,7mJ7vUZmcgRob2PKidv21k|402173",

@@ -12,7 +12,7 @@ export const celticWoman2ANewJourneyScarboroughFair = {
   title: "Scarborough Fair",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "scarboroughfair|6NWtt9pNOL2Gx7kBykdE5x|192973",
   song: "song/celtic-woman-scarborough-fair",
   carriedBy: [

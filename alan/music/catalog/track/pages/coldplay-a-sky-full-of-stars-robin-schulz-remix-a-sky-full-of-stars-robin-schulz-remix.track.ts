@@ -12,10 +12,7 @@ export const coldplayASkyFullOfStarsRobinSchulzRemixASkyFullOfStarsRobinSchulzRe
   title: "A Sky Full of Stars - Robin Schulz Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3t5xRXzsuZmMDkQzgOX35S", artistName: "Robin Schulz" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Robin Schulz" }],
   trackKey: "askyfullofstarsrobinschulzremix|3t5xRXzsuZmMDkQzgOX35S,4gzpq5DPGxSnKTe4SA8HAU|363020",
   song: "song/coldplay-a-sky-full-of-stars",
   carriedBy: [

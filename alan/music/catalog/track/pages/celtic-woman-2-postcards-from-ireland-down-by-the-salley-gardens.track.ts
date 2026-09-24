@@ -12,7 +12,7 @@ export const celticWoman2PostcardsFromIrelandDownByTheSalleyGardens = {
   title: "Down By The Salley Gardens",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "downbythesalleygardens|6NWtt9pNOL2Gx7kBykdE5x|250506",
   song: "song/celtic-woman-down-by-the-salley-gardens",
   carriedBy: [

@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsATimeForUs = {
   title: "A Time For Us",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "atimeforus|6NWtt9pNOL2Gx7kBykdE5x|241560",
   song: "song/celtic-woman-a-time-for-us",
   carriedBy: [

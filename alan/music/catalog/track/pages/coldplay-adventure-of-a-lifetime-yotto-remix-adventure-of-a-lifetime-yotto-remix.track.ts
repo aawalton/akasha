@@ -12,10 +12,7 @@ export const coldplayAdventureOfALifetimeYottoRemixAdventureOfALifetimeYottoRemi
   title: "Adventure of a Lifetime - Yotto Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "5Dyfxq0ZrFjjeFBdSNxDbo", artistName: "YOTTO" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "YOTTO" }],
   trackKey: "adventureofalifetimeyottoremix|4gzpq5DPGxSnKTe4SA8HAU,5Dyfxq0ZrFjjeFBdSNxDbo|229867",
   song: "song/coldplay-adventure-of-a-lifetime",
   carriedBy: [

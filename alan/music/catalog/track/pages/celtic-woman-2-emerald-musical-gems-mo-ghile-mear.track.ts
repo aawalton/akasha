@@ -12,7 +12,7 @@ export const celticWoman2EmeraldMusicalGemsMoGhileMear = {
   title: "Mo Ghile Mear",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "moghilemear|6NWtt9pNOL2Gx7kBykdE5x|256826",
   song: "song/celtic-woman-mo-ghile-mear",
   carriedBy: [

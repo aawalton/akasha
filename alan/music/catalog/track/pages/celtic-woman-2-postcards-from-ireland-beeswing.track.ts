@@ -12,10 +12,7 @@ export const celticWoman2PostcardsFromIrelandBeeswing = {
   title: "Beeswing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" },
-    { externalId: "4g8SeRgbtDhDVyNOsq4L4B", artistName: "The Longest Johns" },
-  ],
+  trackArtist: [{ artist: "artist/celtic-woman" }, { artistName: "The Longest Johns" }],
   trackKey: "beeswing|4g8SeRgbtDhDVyNOsq4L4B,6NWtt9pNOL2Gx7kBykdE5x|288520",
   song: "song/celtic-woman-beeswing",
   carriedBy: [

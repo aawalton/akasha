@@ -12,7 +12,7 @@ export const celticWoman2SongsFromTheHeartNonCePiu = {
   title: "Non C'è Più",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "noncepiu|6NWtt9pNOL2Gx7kBykdE5x|289986",
   song: "song/celtic-woman-non-ce-piu",
   carriedBy: [

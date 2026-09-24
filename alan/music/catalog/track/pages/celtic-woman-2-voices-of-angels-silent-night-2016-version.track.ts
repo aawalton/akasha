@@ -12,7 +12,7 @@ export const celticWoman2VoicesOfAngelsSilentNight2016Version = {
   title: "Silent Night - 2016 Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "silentnight2016version|6NWtt9pNOL2Gx7kBykdE5x|250760",
   song: "song/celtic-woman-silent-night",
   carriedBy: [

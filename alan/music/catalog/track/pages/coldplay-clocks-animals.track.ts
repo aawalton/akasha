@@ -12,7 +12,7 @@ export const coldplayClocksAnimals = {
   title: "Animals",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "animals|4gzpq5DPGxSnKTe4SA8HAU|333266",
   song: "song/coldplay-animals",
   carriedBy: [

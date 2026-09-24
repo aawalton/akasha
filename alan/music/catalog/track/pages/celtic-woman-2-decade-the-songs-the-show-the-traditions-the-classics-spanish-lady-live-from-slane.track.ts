@@ -14,7 +14,7 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsSpanishLad
   title: "Spanish Lady - Live from Slane Castle",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "6NWtt9pNOL2Gx7kBykdE5x", artistName: "Celtic Woman" }],
+  trackArtist: [{ artist: "artist/celtic-woman" }],
   trackKey: "spanishladylivefromslanecastle|6NWtt9pNOL2Gx7kBykdE5x|142946",
   song: "song/celtic-woman-spanish-lady",
   carriedBy: [

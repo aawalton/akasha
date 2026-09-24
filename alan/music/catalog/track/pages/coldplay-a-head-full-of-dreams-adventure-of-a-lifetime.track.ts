@@ -12,7 +12,7 @@ export const coldplayAHeadFullOfDreamsAdventureOfALifetime = {
   title: "Adventure of a Lifetime",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "adventureofalifetime|4gzpq5DPGxSnKTe4SA8HAU|263786",
   song: "song/coldplay-adventure-of-a-lifetime",
   carriedBy: [
