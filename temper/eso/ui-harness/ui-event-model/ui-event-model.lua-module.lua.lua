@@ -48,6 +48,8 @@ end
 
 _G.EVENT_MANAGER = EventManager
 
+function _G.GetEventManager() return EventManager end
+
 function _G.zo_callLater(callback, ms)
   insert(later, { callback = callback, ms = ms })
   return #later

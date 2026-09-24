@@ -307,6 +307,8 @@ function WindowManager:GetMouseOverControl() return nil end
 function WindowManager:SetMouseCursor() end
 
 _G.WINDOW_MANAGER = WindowManager
+
+function _G.GetWindowManager() return WindowManager end
 _G.GuiRoot = birth("GuiRoot", nil, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)
 _G.GuiRoot:SetDimensions(1920, 1080)
 

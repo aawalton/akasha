@@ -13,6 +13,11 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The game's getter for the window manager answers this model's, so the game's own Lua assigns it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A second control taking a name another control holds raises an error.",
     },
     {
