@@ -4,7 +4,7 @@ export const recurrence = {
   id: "01a05c6f-c7c2-7806-b684-baa6549863dc",
   type: "page-type/domain",
   slug: "recurrence",
-  definition: "when a repeating thing next falls due",
+  definition: "the days when a thing happens",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "recurrence" }],
   parts: ["module/recurrence-shape", "module/scheduling"],
   decisions: [
