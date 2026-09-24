@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/athena/athena.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/awen/awen.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ember/ember.seat.ts"}
+{"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/olwen/olwen.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ryn/ryn.seat.ts"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/athena-interactive-seat-pages.initiative.ts","id":"01a0d3df-f4af-7a95-9f4c-1225394968c2"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
