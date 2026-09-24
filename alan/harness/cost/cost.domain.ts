@@ -4,7 +4,7 @@ export const cost = {
   id: "01a08b96-f6dd-7d5f-b99c-f87675def793",
   type: "page-type/domain",
   slug: "cost",
-  definition: "what the stretch Alan is in costs him for each hour it runs",
+  definition: "the stress Alan endures in an hour",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "cost" },
     { partOfSpeech: "part-of-speech/noun", spelling: "costs" },
