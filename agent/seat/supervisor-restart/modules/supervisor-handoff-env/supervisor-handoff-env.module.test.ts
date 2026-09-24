@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { asPid } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"
+import { asPid } from "akasha/agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.code.ts"
 import {
   buildHandoffEnv,
   CLAUDE_ACCOUNT_ENV,

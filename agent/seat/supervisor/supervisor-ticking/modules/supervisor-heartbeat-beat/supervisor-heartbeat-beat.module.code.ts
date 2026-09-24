@@ -13,7 +13,7 @@ import {
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { keepTranscript } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { keepSession } from "akasha/agent/seat/session/seat-session.module.code.ts"
-import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getCurrentAgentIdForRestart,
   getCurrentSessionIdForRestart,

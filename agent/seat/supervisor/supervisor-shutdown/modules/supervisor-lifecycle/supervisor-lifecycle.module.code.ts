@@ -1,11 +1,11 @@
-import { decideShutdownExitWrite } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getObservedChildExit,
   isShuttingDown,
   processes,
   setShuttingDown,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
+import { decideShutdownExitWrite } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import {
   killProcessesForShutdown,
   recordShutdownEvent,

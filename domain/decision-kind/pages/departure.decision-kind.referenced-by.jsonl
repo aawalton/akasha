@@ -339,6 +339,10 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/modules/install/supervisor-restart-install.module.ts","id":"01a06876-abda-7010-b833-f472fa23d6e8"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.ts","id":"01a0683e-3dbe-7021-a398-c5d697666940"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.ts","id":"01a0683e-3dbe-7023-a794-3a24720e3484"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/modules/run-supervisor/run-supervisor.module.ts","id":"01a069c8-f654-7d87-acd6-65d71f1132ff"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/modules/supervisor-args/supervisor-args.module.ts","id":"01a0683e-3dbe-700a-81ce-5968abd14734"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.ts","id":"01a0683e-3dbe-7014-bf13-b392ad858c1e"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.ts","id":"01a0683e-3dbe-7020-aab5-a279b45af99d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.ts","id":"01a06838-5a84-7000-a52b-bc6acad18e78"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.ts","id":"01a06871-3115-7002-a786-a3fb7a53c159"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/agent-restart-notice-decide/agent-restart-notice-decide.module.ts","id":"01a0686d-9d5e-7007-a87f-ae0387e800f7"}
@@ -387,10 +391,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.ts","id":"01a06838-5a84-7007-ad97-0d2824c6293d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.ts","id":"01a0683e-3dbe-7015-b25d-4d947ec851f0"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.ts","id":"01a0686a-7a57-7a62-bfba-385af928123a"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-process/modules/run-supervisor/run-supervisor.module.ts","id":"01a069c8-f654-7d87-acd6-65d71f1132ff"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.ts","id":"01a0683e-3dbe-700a-81ce-5968abd14734"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.ts","id":"01a0683e-3dbe-7014-bf13-b392ad858c1e"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.ts","id":"01a0683e-3dbe-7020-aab5-a279b45af99d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.ts","id":"01a0686d-9d5e-7003-85f7-c26e7d26b125"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts","id":"01a06838-5a84-7006-be45-2e23ffbbeeca"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.ts","id":"01a0686d-9d5e-7004-9169-e4d983fea9db"}

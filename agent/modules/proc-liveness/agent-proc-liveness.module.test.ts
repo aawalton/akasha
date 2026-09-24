@@ -14,7 +14,7 @@ const ACTING = `${ONE}--a38f63805f9b94edf`
 
 const CHILD = "claude --dangerously-skip-permissions --model opus"
 const SUPERVISOR =
-  "bun run /repo/agent/seat/supervisor/supervisor-process/modules/run-supervisor/run-supervisor.module.code.ts -a aawalton"
+  "bun run /repo/agent/seat/supervisor/modules/run-supervisor/run-supervisor.module.code.ts -a aawalton"
 const TASK = "rg --json needle ."
 
 test("a Claude child is read off its skip-permissions flag", () => {

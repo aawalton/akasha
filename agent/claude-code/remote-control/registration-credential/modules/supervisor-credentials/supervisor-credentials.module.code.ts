@@ -21,11 +21,11 @@ import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
 } from "akasha/agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.code.ts"
-import { writePacingSnapshot } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 import {
   configDirForAccount,
   LOG,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
+import { writePacingSnapshot } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"
 import { guardTick } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {

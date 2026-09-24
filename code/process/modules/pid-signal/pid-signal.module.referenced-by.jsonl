@@ -2,7 +2,7 @@
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"}
-{"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"}
+{"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"alan/harness/mobile-cli/modules/local-cut-lock/local-cut-lock.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"alan/music/spotify/modules/cache-file/spotify-cache-file.module.code.ts"}
 {"propertySlug":"import","fileName":"pid-signal.module.code.ts","path":"code/process/modules/process-ending/process-ending.module.code.ts"}

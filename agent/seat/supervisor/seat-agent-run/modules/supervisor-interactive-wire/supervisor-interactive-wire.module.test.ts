@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
+import type { InheritedProc } from "akasha/agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.code.ts"
 import {
   type IterationWiring,
   settleIterationExit,
 } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
-import type { InheritedProc } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
 
 function exitedCleanly(): InheritedProc {
   return {

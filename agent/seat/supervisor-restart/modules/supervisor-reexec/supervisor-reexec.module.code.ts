@@ -1,15 +1,15 @@
 import {
   configDirForAccount,
   LOG,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   execvpe,
   isProcessAlive,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.code.ts"
 import {
   getInheritedClaude,
   processes,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
 import { getGatewayOwnerAgentIdForRestart } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import { buildHandoffEnv } from "akasha/agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 

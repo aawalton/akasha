@@ -3,4 +3,4 @@
 {"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-self-identity.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-process/supervisor-process.domain.ts","id":"01a09c62-651a-7488-a701-7a1b46e37c2d"}
+{"propertySlug":"parts","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}

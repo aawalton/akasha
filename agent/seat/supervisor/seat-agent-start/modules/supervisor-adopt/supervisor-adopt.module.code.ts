@@ -5,6 +5,16 @@ import {
 } from "akasha/agent/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
 import { resolveRemoteControlEnv } from "akasha/agent/claude-code/remote-control/modules/env/claude-code-remote-control-env.module.code.ts"
 import {
+  HOME_DIR,
+  LOG,
+} from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
+import {
+  isProcessAlive,
+  signalPid,
+  waitForPidExit,
+} from "akasha/agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.code.ts"
+import type { InheritedProc } from "akasha/agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.code.ts"
+import {
   type ChildExitStatus,
   collapseChildExitStatus,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
@@ -14,16 +24,6 @@ import {
   readClaudeConfigDeclaration,
   reconcileClaudeConfig,
 } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
-import {
-  HOME_DIR,
-  LOG,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import {
-  isProcessAlive,
-  signalPid,
-  waitForPidExit,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"
-import type { InheritedProc } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
 import type { SupervisorHandoff } from "akasha/agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 

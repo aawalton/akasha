@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.test.ts"}
@@ -7,6 +8,5 @@
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-process/supervisor-process.domain.ts","id":"01a09c62-651a-7488-a701-7a1b46e37c2d"}
+{"propertySlug":"parts","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}

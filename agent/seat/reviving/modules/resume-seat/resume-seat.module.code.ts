@@ -19,8 +19,8 @@ import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-pr
 import { terminatePriorAgentTree } from "akasha/agent/seat/reviving/modules/seat-recovery/seat-recovery.module.code.ts"
 import { resolveRelaunchTarget } from "akasha/agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"
 import { decideReviveLaunch } from "akasha/agent/seat/reviving/modules/seat-revive-launch-decide/seat-revive-launch-decide.module.code.ts"
+import { SEAT_START_DIR } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import { clearRequestedAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
-import { SEAT_START_DIR } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   dataError,
   operationalError,

@@ -1,18 +1,18 @@
-import { runInteractive } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive/supervisor-interactive.module.code.ts"
-import type { RunInteractiveSeams } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
-import { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
-import { parseArgs } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
+import { parseArgs } from "akasha/agent/seat/supervisor/modules/supervisor-args/supervisor-args.module.code.ts"
 import {
   assertBootFiles,
   LOG,
   REQUIRED_BOOT_FILES,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getRestoreConsoleHandle,
   processes,
   setRestoreConsoleHandle,
   setShutdownSinkGetter,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
+import { runInteractive } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive/supervisor-interactive.module.code.ts"
+import type { RunInteractiveSeams } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
+import { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import { shutdown } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import { installSupervisorTerminalGuard } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 

@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"supervisor-handoff-env.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-handoff-env.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-handoff-env.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-handoff-env.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-handoff-env.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-handoff-env.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor-restart/supervisor-restart.domain.ts","id":"01a08865-01fe-7c5a-ad92-7c42a01e7c23"}

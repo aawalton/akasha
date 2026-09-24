@@ -1,9 +1,9 @@
-import { resolveMaxDeferMs } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
-import { buildReExecArgv } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
+import { buildReExecArgv } from "akasha/agent/seat/supervisor/modules/supervisor-args/supervisor-args.module.code.ts"
 import {
   LOG,
   REPO_ROOT,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
+import { resolveMaxDeferMs } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,

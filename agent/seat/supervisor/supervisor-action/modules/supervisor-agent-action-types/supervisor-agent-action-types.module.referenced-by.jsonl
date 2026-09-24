@@ -1,7 +1,7 @@
+{"propertySlug":"import","fileName":"supervisor-agent-action-types.module.code.ts","path":"agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-agent-action-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-agent-action-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-agent-action-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-agent-action-types.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-agent-action-types.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-agent-action-types.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}

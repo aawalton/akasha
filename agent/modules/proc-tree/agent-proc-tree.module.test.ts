@@ -9,7 +9,7 @@ const ONE = "0199a1b2-c3d4-7e5f-8091-a2b3c4d5e6f7"
 
 const CHILD = "claude --dangerously-skip-permissions"
 const SUPERVISOR =
-  "bun run agent/seat/supervisor/supervisor-process/modules/run-supervisor/run-supervisor.module.code.ts"
+  "bun run agent/seat/supervisor/modules/run-supervisor/run-supervisor.module.code.ts"
 const TASK = "bun tools/some-task.ts"
 
 function proc(over: Partial<ProcLivenessEntry> & { pid: number }): ProcLivenessEntry {

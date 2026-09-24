@@ -4,15 +4,14 @@ import {
 } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
 import { takeOpenShells } from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
+import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
+import type { InheritedProc } from "akasha/agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.code.ts"
 import {
   adoptInheritedProc,
   InheritedPidDeadError,
   type resolveClaudeHandoff,
   spawnClaudeChild,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
-
-import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import type { InheritedProc } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
 import { sweepSubagentPagesOf } from "akasha/agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.code.ts"
 import { enforceMemoryGuard } from "akasha/infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"
 

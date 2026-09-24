@@ -13,7 +13,7 @@ import type {
 import {
   configDirForAccount,
   LOG,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

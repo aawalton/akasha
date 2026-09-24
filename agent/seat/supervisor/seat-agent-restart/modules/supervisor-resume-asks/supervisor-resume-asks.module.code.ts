@@ -2,13 +2,13 @@ import { noticeNamed } from "akasha/agent/message/notice/modules/compose-notices
 import { restartDeferred } from "akasha/agent/message/notice/pages/restart-deferred/restart-deferred.agent-message-notice.ts"
 import { restartImmediate } from "akasha/agent/message/notice/pages/restart-immediate/restart-immediate.agent-message-notice.ts"
 import { restartRecoveryClause } from "akasha/agent/message/notice/pages/restart-recovery-clause/restart-recovery-clause.agent-message-notice.ts"
+import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   planRestartNotice,
   type RestartNoticeContext,
   type RestartNoticeRoute,
   type RestartNowEvent,
 } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/agent-restart-notice-decide/agent-restart-notice-decide.module.code.ts"
-import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 
 const SUPERVISOR_NOTICE_PREFIX = "[supervisor]"
 

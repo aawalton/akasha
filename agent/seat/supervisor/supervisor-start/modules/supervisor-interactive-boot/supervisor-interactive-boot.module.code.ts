@@ -3,6 +3,16 @@ import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modul
 import { toolRestrictions } from "akasha/agent/modules/tool-access/tool-access.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
 import {
+  configDirForAccount,
+  LOG,
+} from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
+import { createAgentIdHandle } from "akasha/agent/seat/supervisor/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
+import {
+  setInheritedClaude,
+  setOAuthProxyHandle,
+  setRestoreConsoleHandle,
+} from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
+import {
   reconcileAgentBootFiles,
   resolveClaudeHandoff,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
@@ -17,16 +27,6 @@ import {
   stateSeatDefaults,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"
 import { selectAccountAndWriteCredential } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"
-import {
-  configDirForAccount,
-  LOG,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { createAgentIdHandle } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-self-identity/supervisor-self-identity.module.code.ts"
-import {
-  setInheritedClaude,
-  setOAuthProxyHandle,
-  setRestoreConsoleHandle,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import { claimSeatSupervision } from "akasha/agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type {
   InteractiveBootArgs,

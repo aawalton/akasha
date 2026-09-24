@@ -3,7 +3,7 @@ import {
   buildReExecArgv,
   decideBootResume,
   parseArgs,
-} from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
+} from "akasha/agent/seat/supervisor/modules/supervisor-args/supervisor-args.module.code.ts"
 
 test("parsing stops at the first argument that is not a flag", () => {
   const held = parseArgs(["--headless", "-a", "aawalton", "do", "--the", "work"])
