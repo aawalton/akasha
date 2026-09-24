@@ -1,4 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { splitInlineEmphasis } from "akasha/page/ui/component/modules/reader-prose/reader-prose.module.code.ts"
 import { READER_PROSE_TYPOGRAPHY } from "akasha/page/ui/component/modules/reader-typography/reader-typography.module.code.ts"
 import type { ClientProseSegment } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import {
@@ -7,7 +8,7 @@ import {
 } from "akasha/story/ui/modules/system-card/system-card.module.code.tsx"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import { SystemWindowCard } from "akasha/story/ui/modules/system-window-card/system-window-card.module.code.tsx"
-import type { ReactNode } from "react"
+import { Fragment, type ReactNode } from "react"
 
 const HEADING_RE = /^#{1,6}\s+/
 
@@ -30,7 +31,13 @@ function ProseBlocks({ text, muted }: { text: string; muted: boolean }) {
           </h3>
         ) : (
           <p key={i} className={`whitespace-pre-line ${muted ? "text-tertiary" : "text-primary"}`}>
-            {block}
+            {splitInlineEmphasis(block).map((run, at) =>
+              run.kind === "em" ? (
+                <em key={at}>{run.text}</em>
+              ) : (
+                <Fragment key={at}>{run.text}</Fragment>
+              )
+            )}
           </p>
         )
       )}

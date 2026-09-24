@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"reader-prose.module.code.ts","path":"page/ui/component/modules/reader-prose-block/reader-prose-block.module.code.tsx"}
 {"propertySlug":"import","fileName":"reader-prose.module.code.ts","path":"page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"}
 {"propertySlug":"import","fileName":"reader-prose.module.code.ts","path":"page/ui/component/modules/reader-sentence-layout/reader-sentence-layout.module.code.ts"}
+{"propertySlug":"import","fileName":"reader-prose.module.code.ts","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}
