@@ -5,6 +5,7 @@ import {
   globallyReached,
   identifiersIn,
   referencing,
+  typeParameterOf,
 } from "akasha/code/reading/modules/code-binding/code-binding.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
@@ -82,6 +83,41 @@ test("a name written where a property is named reads as no reference", () => {
 test("a name inside an import specifier reads as no reference", () => {
   const source = sourceOf('import { eight } from "akasha/one/six.module.code.ts"\n')
   expect(referencing(lastNamed(source, "eight"))).toBe(false)
+})
+
+test("a JSX attribute's name and a tag the browser draws itself read as no reference", () => {
+  const source = parsedAs("one/two.module.code.tsx", 'const one = <path d="M1" />\n')
+  expect(referencing(lastNamed(source, "d"))).toBe(false)
+  expect(referencing(lastNamed(source, "path"))).toBe(false)
+})
+
+test("a JSX tag naming a component reads as a reference", () => {
+  const source = parsedAs("one/two.module.code.tsx", "const one = <Held />\n")
+  expect(referencing(lastNamed(source, "Held"))).toBe(true)
+})
+
+test("a label, an enum member and an accessor's name read as no reference", () => {
+  const source = sourceOf(
+    "outer: for (;;) break outer\nenum Held { member }\nclass Two { get reached() { return 1 } }\n"
+  )
+  expect(referencing(lastNamed(source, "outer"))).toBe(false)
+  expect(referencing(lastNamed(source, "member"))).toBe(false)
+  expect(referencing(lastNamed(source, "reached"))).toBe(false)
+})
+
+test("a name a type parameter declares is answered by that type parameter", () => {
+  const source = sourceOf("type One<Held> = Held[]\n")
+  expect(typeParameterOf(lastNamed(source, "Held"))?.name.text).toBe("Held")
+})
+
+test("a name an infer declares is answered in the branch that infer reaches", () => {
+  const source = sourceOf("type One<T> = T extends Array<infer Held> ? Held : never\n")
+  expect(typeParameterOf(lastNamed(source, "Held"))).not.toBeNull()
+})
+
+test("a name no type parameter declares is answered by none", () => {
+  const source = sourceOf("type One<T> = Held\n")
+  expect(typeParameterOf(lastNamed(source, "Held"))).toBeNull()
 })
 
 test("a name written after globalThis is answered as reached on the global object", () => {

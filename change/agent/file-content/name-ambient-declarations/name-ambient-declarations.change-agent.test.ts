@@ -3,6 +3,7 @@ import {
   nameAmbientDeclarations,
   runChange,
 } from "akasha/change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.code.ts"
+import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
   bodyAnswered,
@@ -73,6 +74,68 @@ test("a name the file binds itself is left alone", () => {
   ])
 
   expect(nameAmbientDeclarations(world, AT, 10).edits).toEqual([])
+})
+
+const DRAWN = "temper/held/one/drawn.module.code.tsx"
+
+function namedFor(declares: string, path: string, text: string): Answer {
+  return nameAmbientDeclarations(
+    worldHolding({ [FAR]: declares, [path]: text }, [FAR_PAGE]),
+    AT,
+    10
+  )
+}
+
+test("a JSX attribute spelling a declared name names no declaration", () => {
+  const said = namedFor("declare const d: number\n", DRAWN, 'export const one = <svg d="M1" />\n')
+
+  expect(said.edits).toEqual([])
+})
+
+test("a JSX tag a browser draws itself names no declaration", () => {
+  const said = namedFor("declare const path: number\n", DRAWN, "export const one = <path />\n")
+
+  expect(said.edits).toEqual([])
+})
+
+test("a property key spelling a declared name names no declaration", () => {
+  const said = namedFor(DECLARES, ONE, "export const one = { HELD_ONE: 1 }\nheld.HELD_ONE\n")
+
+  expect(said.edits).toEqual([])
+})
+
+test("a string or a comment spelling a declared name names no declaration", () => {
+  const said = namedFor(DECLARES, ONE, 'export const one = "HELD_ONE" // HELD_ONE\n')
+
+  expect(said.edits).toEqual([])
+})
+
+test("the type keyword string names no declaration declaring a value named string", () => {
+  const said = namedFor("declare const string: number\n", ONE, 'export const one: string = ""\n')
+
+  expect(said.edits).toEqual([])
+})
+
+test("a name a parameter declares names no declaration", () => {
+  const said = namedFor(
+    DECLARES,
+    ONE,
+    "export function one(HELD_ONE: number) {\n  return HELD_ONE\n}\n"
+  )
+
+  expect(said.edits).toEqual([])
+})
+
+test("a name a type parameter declares names no declaration", () => {
+  const said = namedFor("interface Held {}\n", ONE, "export type One<Held> = Held[]\n")
+
+  expect(said.edits).toEqual([])
+})
+
+test("a JSX tag naming a declared component names that declaration", () => {
+  const said = namedFor("declare const Held: () => null\n", DRAWN, "export const one = <Held />\n")
+
+  expect(said.edits).toHaveLength(1)
 })
 
 test("a file already naming that declaration has nothing added", () => {

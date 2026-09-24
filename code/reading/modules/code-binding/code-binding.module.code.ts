@@ -57,9 +57,25 @@ export function declaredIn(scope: ts.Node): ReadonlyMap<string, ts.Node> {
   return found
 }
 
+function tagged(up: ts.Node): up is ts.JsxOpeningLikeElement | ts.JsxClosingElement {
+  return ts.isJsxOpeningElement(up) || ts.isJsxSelfClosingElement(up) || ts.isJsxClosingElement(up)
+}
+
+function intrinsic(node: ts.Identifier): boolean {
+  const up = node.parent
+  if (up === undefined || !tagged(up)) return false
+  return up.tagName === node && /^[a-z]/.test(node.text)
+}
+
 export function referencing(node: ts.Identifier): boolean {
   const up = node.parent
   if (up === undefined) return false
+  if (intrinsic(node)) return false
+  if (ts.isJsxAttribute(up)) return up.name !== node
+  if (ts.isLabeledStatement(up) || ts.isBreakOrContinueStatement(up)) return up.label !== node
+  if (ts.isEnumMember(up) || ts.isGetAccessor(up) || ts.isSetAccessor(up)) return up.name !== node
+  if (ts.isTypeParameterDeclaration(up)) return up.name !== node
+  if (ts.isMetaProperty(up)) return false
   if (ts.isPropertyAccessExpression(up)) return up.name !== node
   if (ts.isQualifiedName(up)) return up.right !== node
   if (ts.isPropertyAssignment(up)) return up.name !== node
@@ -84,6 +100,44 @@ export function identifiersIn(node: ts.Node): readonly ts.Identifier[] {
   }
   walk(node)
   return found
+}
+
+function parametersOf(node: ts.Node): readonly ts.TypeParameterDeclaration[] {
+  if (ts.isMappedTypeNode(node)) return [node.typeParameter]
+  if (
+    ts.isFunctionLike(node) ||
+    ts.isClassLike(node) ||
+    ts.isInterfaceDeclaration(node) ||
+    ts.isTypeAliasDeclaration(node)
+  ) {
+    return node.typeParameters ?? []
+  }
+  return []
+}
+
+function inferredIn(node: ts.Node): readonly ts.TypeParameterDeclaration[] {
+  const found: ts.TypeParameterDeclaration[] = []
+  const walk = (one: ts.Node): undefined => {
+    if (ts.isInferTypeNode(one)) found.push(one.typeParameter)
+    ts.forEachChild(one, walk)
+  }
+  walk(node)
+  return found
+}
+
+export function typeParameterOf(named: ts.Identifier): ts.TypeParameterDeclaration | null {
+  let below: ts.Node = named
+  let held: ts.Node | undefined = named.parent
+  while (held !== undefined) {
+    const inferred =
+      ts.isConditionalTypeNode(held) && held.trueType === below ? inferredIn(held.extendsType) : []
+    for (const one of [...parametersOf(held), ...inferred]) {
+      if (one.name !== named && one.name.text === named.text) return one
+    }
+    below = held
+    held = held.parent
+  }
+  return null
 }
 
 export function bindingOf(named: ts.Identifier): Bound | null {

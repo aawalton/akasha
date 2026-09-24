@@ -57,8 +57,17 @@ export const codeBinding = {
         "A name a declare global block declares is declared by the file holding that block.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "A type parameter declares no name here.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A type parameter is answered apart from the scopes, by the declaration it is a parameter of.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A JSX attribute's name and a tag the browser draws itself read as no reference.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A label, an enum member and an accessor's name read as no reference.",
     },
     {
       decisionKind: "decision-kind/absence",

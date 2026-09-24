@@ -17,6 +17,7 @@ import {
   globallyReached,
   identifiersIn,
   referencing,
+  typeParameterOf,
 } from "akasha/code/reading/modules/code-binding/code-binding.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { specifiersIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
@@ -90,7 +91,7 @@ function namesIn(
     if (!declaring.has(one.text)) continue
     if (!globallyReached(one)) {
       if (!referencing(one)) continue
-      if (bindingOf(one) !== null) continue
+      if (bindingOf(one) !== null || typeParameterOf(one) !== null) continue
     }
     found.add(one.text)
   }

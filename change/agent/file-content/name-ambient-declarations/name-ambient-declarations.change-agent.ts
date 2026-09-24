@@ -21,6 +21,18 @@ export const nameAmbientDeclarations = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only a name the parse reads as a reference is looked for in a declaration.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A JSX attribute, a key, a string, a comment or a keyword names no declaration.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name a type parameter declares is bound by that parameter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name a file reaches on `globalThis` is looked for in a declaration too.",
     },
     {
