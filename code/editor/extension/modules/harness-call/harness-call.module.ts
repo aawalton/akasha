@@ -114,9 +114,5 @@ export const harnessCall = {
       statement:
         "A move of that folder respells it here, where a move respells no folder above it.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The index answers where the command server's code sits.",
-    },
   ],
 } as const satisfies Module
