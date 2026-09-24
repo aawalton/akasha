@@ -20,4 +20,5 @@ export const companionEquipmentQualities = {
       statement: "A quality moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["COMPANION_EQUIPMENT_QUALITY_DATA"],
 } as const satisfies Module

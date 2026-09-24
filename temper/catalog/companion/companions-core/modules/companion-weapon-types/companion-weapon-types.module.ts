@@ -20,4 +20,5 @@ export const companionWeaponTypes = {
       statement: "A weapon type moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["COMPANION_WEAPON_TYPE_DATA"],
 } as const satisfies Module

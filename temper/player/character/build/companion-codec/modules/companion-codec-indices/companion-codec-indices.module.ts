@@ -6,4 +6,5 @@ export const companionCodecIndices = {
   slug: "companion-codec-indices",
   definition: "the small number each of a companion's game constants is packed as",
   code: "ts",
+  hashIndexed: ["COMPANION_ARMOR_WEIGHT_IDS"],
 } as const satisfies Module

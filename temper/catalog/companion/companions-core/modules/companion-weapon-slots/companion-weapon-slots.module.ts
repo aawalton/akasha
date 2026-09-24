@@ -12,4 +12,5 @@ export const companionWeaponSlots = {
       statement: "This table is written out from the companion pages rather than by hand.",
     },
   ],
+  hashIndexed: ["COMPANION_WEAPON_SLOT_DATA"],
 } as const satisfies Module
