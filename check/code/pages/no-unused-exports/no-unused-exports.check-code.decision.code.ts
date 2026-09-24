@@ -73,10 +73,6 @@ const KEEPING = "keeping"
 
 const PAGE_TYPE = "page-type"
 
-const GENERATOR = "type-generator"
-
-const GENERATED: ReadonlySet<string> = new Set(["couldTurn", "generateTypes"])
-
 const RULE = "syntax-rule"
 
 const MARK = "mark"
@@ -257,7 +253,7 @@ function reachedBeside(said: Parted): ReadonlySet<string> | null {
   if (besideCode(said, SERVICE)) return new Set([RUN_SERVICE])
   if (besideCode(said, PERFORMANCE)) return new Set([MEASURED])
   if (besideCode(said, MODEL_TEST)) return new Set([ASKING, KEEPING, exportedAs(said.slug)])
-  if (besideProperty(said, PAGE_TYPE, GENERATOR)) return GENERATED
+
   if (besideCode(said, RULE)) return new Set([MARK])
   if (besideCode(said, SHAPE)) return new Set([HOLDS])
   if (besideCode(said, CHECK)) return new Set([exportedAs(said.slug)])

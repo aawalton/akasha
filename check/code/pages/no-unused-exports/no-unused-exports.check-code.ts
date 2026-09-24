@@ -257,11 +257,7 @@ export const noUnusedExports = {
       statement:
         "The name made from a model test's slug is reached by the model check compiling it.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The `generateTypes` and `couldTurn` a type generator exports are reached by landing.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A file a commit inside the last day holds is passed over rather than refused.",

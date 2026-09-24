@@ -106,13 +106,6 @@ export const DRAWING_AT = "akasha/held.page-type.page-component.code.tsx"
 
 export const DRAWING_TEXT = "export const Drawing = (): number => 1\n\nexport const spare = 2\n"
 
-export const GENERATOR_AT = "akasha/held.page-type.type-generator.ts"
-
-export const GENERATOR_TEXT =
-  "export const generateTypes = (): number => 1\n" +
-  "export const couldTurn = (): number => 2\n\n" +
-  "export const spare = 3\n"
-
 export const MODEL_TEST_AT = "akasha/held-thing.model-test.code.ts"
 
 export const MODEL_TEST_TEXT =
