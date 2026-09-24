@@ -52,6 +52,11 @@ export const uiPlaceModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A control held to a size sits at its first anchor, and its second anchor gives way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control with no anchor sits at the top left of its parent.",
     },
     {

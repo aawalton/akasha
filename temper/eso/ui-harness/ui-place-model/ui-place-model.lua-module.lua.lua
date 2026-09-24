@@ -83,6 +83,17 @@ local function stated(control)
   return width, height
 end
 
+local function bounded(control, width, height)
+  local held = control.uiConstraints
+  if held == nil then return width, height end
+  local minWidth, minHeight, maxWidth, maxHeight = held[1], held[2], held[3], held[4]
+  if minWidth > 0 and width < minWidth then width = minWidth end
+  if maxWidth > 0 and width > maxWidth then width = maxWidth end
+  if minHeight > 0 and height < minHeight then height = minHeight end
+  if maxHeight > 0 and height > maxHeight then height = maxHeight end
+  return width, height
+end
+
 local function fractionOf(point)
   return ANCHOR_FRACTIONS[point] or ANCHOR_FRACTIONS[TOPLEFT]
 end
@@ -108,14 +119,14 @@ local function spotOf(control, anchor)
 end
 
 place = function(control)
-  if placing[control] then return 0, 0, control.uiWidth, control.uiHeight end
+  if placing[control] then return 0, 0, bounded(control, control.uiWidth, control.uiHeight) end
   placing[control] = true
   local left, top, width, height
   local first = control.uiAnchors[1]
   if first == nil then
     left, top = 0, 0
     if known(control.uiParent) then left, top = place(control.uiParent) end
-    width, height = stated(control)
+    width, height = bounded(control, stated(control))
   else
     local one = spotOf(control, first)
     local second = control.uiAnchors[2]
@@ -127,6 +138,7 @@ place = function(control)
     if two ~= nil and two.mineY ~= one.mineY then
       height = (two.atY - one.atY) / (two.mineY - one.mineY)
     end
+    width, height = bounded(control, width, height)
     left = one.atX - one.mineX * width
     top = one.atY - one.mineY * height
   end

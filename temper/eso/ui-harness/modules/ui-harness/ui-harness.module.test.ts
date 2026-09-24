@@ -27,6 +27,33 @@ window:SetHandler("OnShow", function(self)
 end)
 `
 
+const HELD = `
+local frame = WINDOW_MANAGER:CreateTopLevelWindow("TemperHeldFrame")
+frame:SetDimensions(400, 300)
+
+local capped = WINDOW_MANAGER:CreateControl("TemperHeldCapped", frame, CT_CONTROL)
+capped:SetDimensions(500, 20)
+capped:SetDimensionConstraints(0, 0, 200, 0)
+
+local floored = WINDOW_MANAGER:CreateControl("TemperHeldFloored", frame, CT_CONTROL)
+floored:SetDimensions(10, 10)
+floored:SetDimensionConstraints(50, 40, 0, 0)
+
+local spanned = WINDOW_MANAGER:CreateControl("TemperHeldSpanned", frame, CT_CONTROL)
+spanned:SetAnchor(TOPLEFT, frame, TOPLEFT, 10, 10)
+spanned:SetAnchor(BOTTOMRIGHT, frame, BOTTOMRIGHT, -10, -10)
+spanned:SetDimensionConstraints(0, 0, 100, 50)
+
+local centered = WINDOW_MANAGER:CreateControl("TemperHeldCentered", frame, CT_CONTROL)
+centered:SetAnchor(CENTER, frame, CENTER, 0, 0)
+centered:SetDimensions(300, 300)
+centered:SetDimensionConstraints(0, 0, 100, 100)
+
+local worded = WINDOW_MANAGER:CreateControl("TemperHeldWorded", frame, CT_LABEL)
+worded:SetText("a line of text far wider than its greatest")
+worded:SetDimensionConstraints(0, 500, 60, 0)
+`
+
 function childNamed(control: UiControl, name: string): UiControl | undefined {
   return control.children.find((child) => child.name === name)
 }
@@ -37,6 +64,7 @@ describe("ui-harness", () => {
   beforeAll(async () => {
     harness = await openUiHarness()
     await harness.load(ADDON)
+    await harness.load(HELD)
   })
 
   afterAll(async () => {
@@ -91,6 +119,39 @@ describe("ui-harness", () => {
 
   test("an event the control has no handler for answers false", async () => {
     expect(await harness.fire("TemperProbeWindow", "OnMouseUp")).toBe(false)
+  })
+
+  test("a size past a control's greatest is held to it, and a zero holds nothing", async () => {
+    const capped = await harness.snapshot("TemperHeldCapped")
+    expect(capped?.width).toBe(200)
+    expect(capped?.height).toBe(20)
+  })
+
+  test("a size under a control's least is raised to it", async () => {
+    const floored = await harness.snapshot("TemperHeldFloored")
+    expect(floored?.width).toBe(50)
+    expect(floored?.height).toBe(40)
+  })
+
+  test("a size two anchors leave is held, and the control keeps its first anchor", async () => {
+    const spanned = await harness.snapshot("TemperHeldSpanned")
+    expect(spanned?.width).toBe(100)
+    expect(spanned?.height).toBe(50)
+    expect(spanned?.left).toBe(10)
+    expect(spanned?.top).toBe(10)
+  })
+
+  test("a control held to a size is placed by that size", async () => {
+    const centered = await harness.snapshot("TemperHeldCentered")
+    expect(centered?.width).toBe(100)
+    expect(centered?.left).toBe(150)
+    expect(centered?.top).toBe(100)
+  })
+
+  test("a size a label takes from its text is held too", async () => {
+    const worded = await harness.snapshot("TemperHeldWorded")
+    expect(worded?.width).toBe(60)
+    expect(worded?.height).toBe(500)
   })
 
   test("a control named nothing is answered with nothing", async () => {

@@ -71,8 +71,9 @@ export const uiControlMethods = {
       statement: "A control keeps the least and greatest size it was held to, each zero until set.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The least and greatest size a control is held to bound where the control sits.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A control's width and height are held between its least and greatest size, a zero holding nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
