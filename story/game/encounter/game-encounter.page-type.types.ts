@@ -15,7 +15,7 @@ export type GameEncounter = Page & {
   game: HoldingGame
   note?: ListedNote
   location: EncounterLocation
-  entities?: EncounterEntities
+  characters?: EncounterEntities
   readableTrait?: ReadableTrait
   trigger?: EncounterTrigger
   experience?: ExperienceReward

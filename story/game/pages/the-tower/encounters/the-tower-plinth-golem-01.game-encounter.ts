@@ -7,7 +7,7 @@ export const theTowerPlinthGolem01 = {
   title: "Plinth Golem (the Warden)",
   game: "game/the-tower",
   location: "game-location/the-tower-floor-03",
-  entities: ["character-other/the-tower-plinth-golem-01"],
+  characters: ["character-other/the-tower-plinth-golem-01"],
   readableTrait:
     "A seated stone colossus, 142 HP and slow (Initiative 12 — Alan's 24 means he ALWAYS acts first). GATE: the body is solid stone — coordinator applies x0.25 to any blow that is NOT aimed at the keystone. Pounding the torso/limbs is nearly futile (142 HP at quarter-damage = an unwinnable slog before its 20-base hammer-blows grind Alan down). THE keystone plinth at its sternum is the single load-bearing block: a precise, placed strike there (INT to read it, FIN to place it — explicitly NOT a MIGHT contest; Alan's weak MIGHT is irrelevant, his peak INT + good FIN is the whole answer) takes x3 and a clean keystone hit can stagger or one-shot-stage the collapse. A reader who identifies the plinth (the wall-note names it; an INT read finds it) and places shots there wins with Alan's actual build. Brute force CANNOT win this fight in time — that is the point. Its hammer-blows hit ~30+ and would kill VIT-6 Alan in 2–3 connects, so he must drop it FAST via the keystone, ideally before/separately from the Cantor (fighting both at once with Focus already drained is the lethal trap).",
   trigger: "approaching the archway / the dais, or striking the seated Golem",

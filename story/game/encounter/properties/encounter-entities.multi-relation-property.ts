@@ -4,7 +4,7 @@ export const encounterEntities = {
   id: "01a0c647-77ab-7f56-928d-9a09312c406d",
   type: "page-type/multi-relation-property",
   slug: "encounter-entities",
-  propertySlug: "entities",
+  propertySlug: "characters",
   definition: "who or what an encounter puts in front of the player",
   targetPageType: "page-type/character",
   decisions: [

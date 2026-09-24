@@ -7,7 +7,7 @@ export const theTowerLeechGlut01 = {
   title: "The Glut",
   game: "game/the-tower",
   location: "game-location/the-tower-floor-02",
-  entities: ["character-other/the-tower-leech-glut-01"],
+  characters: ["character-other/the-tower-leech-glut-01"],
   readableTrait:
     "Not one creature — a swarm of leech-things acting as one pooled mass, fast and near-impossible to hit cleanly in the water (high FINESSE, high Initiative 26; coordinator applies x0.3 to any blow struck while it is IN the flood — you can't cut water). GATE: the swarm is BOUND to the water. Drive it, or yourself, onto dry stone — the walkway, the platform — and the mass loses cohesion: out of water it is sluggish, halves its own attack, and takes full damage. Lure-and-strand is the kill. A reader who uses the dry footing, fire (it recoils from the brazier OR from an Ember-Channel-heated bar), or salt/ash to herd it out of the flood earns intent 8+. Brute-swinging at it in the water is a near-no-op. It will try to pull a target INTO the deep (drowning play vs VIT 6 — a genuine lethal threat if Alan is grappled under).",
   trigger: "entering the deep water, submerging, or warmth/blood entering the flood",
