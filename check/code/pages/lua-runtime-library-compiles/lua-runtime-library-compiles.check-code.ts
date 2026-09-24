@@ -5,9 +5,9 @@ export const luaRuntimeLibraryCompiles = {
   type: "page-type/check-code",
   slug: "lua-runtime-library-compiles",
   definition: "the check refusing a lua runtime library whose configs do not compile",
-  runsOnChange: false,
-  runsOnDeploy: false,
-  runsOnAudit: false,
+  runsOnChange: true,
+  runsOnDeploy: true,
+  runsOnAudit: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
