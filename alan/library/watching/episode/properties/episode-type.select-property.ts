@@ -7,12 +7,6 @@ export const episodeType = {
   propertySlug: "episode-type",
   definition: "what an episode is to its own run",
   values: ["standard", "mid-season", "finale"],
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The values are the ones the record has rather than every value the provider answers with.",
-    },
-  ],
+
   types: "ts",
 } as const satisfies SelectProperty
