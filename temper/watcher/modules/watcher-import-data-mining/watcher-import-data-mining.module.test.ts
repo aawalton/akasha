@@ -9,6 +9,7 @@ import {
   GOOD_ITEMS,
   ITEM_IDS,
 } from "akasha/temper/watcher/modules/watcher-import-data-mining/watcher-import-data-mining.module.test-fixtures.ts"
+import { z } from "zod"
 
 const QUESTS_URL = "https://example.test/api/watcher/upsert-mined-quests"
 
@@ -109,8 +110,13 @@ interface Sent {
   readonly items: readonly Record<string, unknown>[]
 }
 
-function bodyOf(init: RequestInit): { wtToken: string; items: Sent["items"] } {
-  return JSON.parse(String(init.body))
+const POSTED_BODY = z.object({
+  wtToken: z.string(),
+  items: z.array(z.record(z.string(), z.unknown())),
+})
+
+function bodyOf(init: RequestInit): z.infer<typeof POSTED_BODY> {
+  return POSTED_BODY.parse(JSON.parse(String(init.body)))
 }
 
 function recording(sent: Sent[], answer: () => Response): Fetching {

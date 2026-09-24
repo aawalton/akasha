@@ -22,6 +22,7 @@ import type {
   ReadPages,
   WriteFiles,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
+import { z } from "zod"
 
 const ACCOUNT_SLUG = "account-9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
@@ -182,11 +183,13 @@ const HOMES: InventoryValues = {
   },
 }
 
+const JSONL_ROW = z.record(z.string(), z.unknown())
+
 function rowsIn(body: string): readonly unknown[] {
   return body
     .split("\n")
     .filter((one) => one !== "")
-    .map((one) => JSON.parse(one) as unknown)
+    .map((one) => JSONL_ROW.parse(JSON.parse(one)))
 }
 
 function counting(prefix: string): () => string {
