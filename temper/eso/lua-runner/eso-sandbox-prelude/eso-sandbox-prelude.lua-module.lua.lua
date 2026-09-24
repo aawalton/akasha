@@ -63,6 +63,8 @@ local multi_apis = { ZO_ChatSystem_GetEventCategoryMappings = pair_stub_fn }
 
 function internalassert(condition) return condition end
 
+function istable(value) return type(value) == "table" end
+
 local STEPPING = "^GetNext%w+Iter$"
 local function ended_fn() return nil end
 
