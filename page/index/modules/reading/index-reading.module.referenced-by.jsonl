@@ -192,8 +192,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/page/secret/list/page-secret-list.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/page/secret/set/page-secret-set.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/page/secret/show/page-secret-show.command.test.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/page/tree/page-tree.command.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/page/tree/page-tree.command.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/request/deny/request-deny.command.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/request/modules/reaching/request-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}

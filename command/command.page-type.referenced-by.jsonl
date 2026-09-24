@@ -181,7 +181,6 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/page/secret/list/page-secret-list.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/page/secret/set/page-secret-set.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/page/secret/show/page-secret-show.command.ts"}
-{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/page/tree/page-tree.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/read/read.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/refresh/message/refresh-message.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/refresh/persona/refresh-persona.command.ts"}

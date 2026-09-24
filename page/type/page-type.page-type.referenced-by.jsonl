@@ -44,7 +44,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.test.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/page/tree/page-tree.command.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/read/read.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}

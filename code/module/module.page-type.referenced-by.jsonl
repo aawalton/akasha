@@ -27,7 +27,6 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"code/editor/extension/modules/command-server/command-server.module.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}
-{"propertySlug":"import","fileName":"module.page-type.ts","path":"command/pages/page/tree/page-tree.command.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/modules/deploy-looping/deploy-looping.module.code.ts"}
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.test-fixtures.ts"}
