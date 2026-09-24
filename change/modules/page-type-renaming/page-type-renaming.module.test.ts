@@ -92,27 +92,14 @@ test("a path naming no page type carries nothing", () => {
   })
 })
 
-test("a page stating its type under both keys has both keys restated", () => {
-  const text = 'type: "widget"\npageTypeSlug: "widget"\n'
-
-  expect(keyedAnew(text, PAGE_AT, WAS, TO)).toEqual([
-    {
-      kind: "replace",
-      path: PAGE_AT,
-      contentFrom: 'type: "widget"',
-      contentTo: 'type: "gadget"',
-    },
-    {
-      kind: "replace",
-      path: PAGE_AT,
-      contentFrom: 'pageTypeSlug: "widget"',
-      contentTo: 'pageTypeSlug: "gadget"',
-    },
+test("a page stating its type as a bare slug has that slug restated", () => {
+  expect(keyedAnew('type: "widget"\n', PAGE_AT, WAS, TO)).toEqual([
+    { kind: "replace", path: PAGE_AT, contentFrom: 'type: "widget"', contentTo: 'type: "gadget"' },
   ])
 })
 
-test("a key the page does not state is left alone", () => {
-  expect(keyedAnew('type: "widget"\n', PAGE_AT, WAS, TO).length).toBe(1)
+test("a page stating its type as an address is left to the address restating", () => {
+  expect(keyedAnew(HELD[PAGE_AT] ?? "", PAGE_AT, WAS, TO)).toEqual([])
 })
 
 test("a slug the source would not hold bare is written escaped", () => {

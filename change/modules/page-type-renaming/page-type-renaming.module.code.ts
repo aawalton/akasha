@@ -5,7 +5,7 @@ import type { World } from "akasha/change/modules/shadow/change-shadow.module.co
 import { saidAs } from "akasha/page/modules/body/page-body.module.code.ts"
 import { typeSlugIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
-const KEYS = ["type", "pageTypeSlug"]
+const KEY = "type"
 
 export type Paged = { readonly at: string; readonly lands: string }
 
@@ -72,16 +72,7 @@ export function keyedAnew(
   was: string,
   to: string
 ): readonly FileChange[] {
-  const said: FileChange[] = []
-  for (const key of KEYS) {
-    const held = `${key}: ${saidAs(was)}`
-    if (!text.includes(held)) continue
-    said.push({
-      kind: "replace",
-      path: lands,
-      contentFrom: held,
-      contentTo: `${key}: ${saidAs(to)}`,
-    })
-  }
-  return said
+  const held = `${KEY}: ${saidAs(was)}`
+  if (!text.includes(held)) return []
+  return [{ kind: "replace", path: lands, contentFrom: held, contentTo: `${KEY}: ${saidAs(to)}` }]
 }
