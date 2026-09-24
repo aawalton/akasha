@@ -21,7 +21,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-shell-body-flaps-across-unrelated-landings.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-web-app-reads-a-page-type-shape-from-the-workstation-page-service.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-web-route-file-is-no-page-so-no-landing-check-compiles-it.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/an-entry-shapes-row-type-is-written-by-hand-while-its-own-type-is-generated.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/an-error-page-renders-with-no-nonce-so-its-own-scripts-are-blocked.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/deploying-a-service-cluster-rolls-a-web-pod-onto-the-build-it-already-had.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/most-mentions-of-page-type-slug-are-not-the-page-key.finding.ts"}

@@ -279,7 +279,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/world.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"temper/thing/temper-thing.page-type.types.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/an-entry-shapes-row-type-is-written-by-hand-while-its-own-type-is-generated.finding.ts","id":"01a090cd-8841-7519-9fdc-0e95d1d9dcfe"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/most-mentions-of-page-type-slug-are-not-the-page-key.finding.ts","id":"01a08830-e34b-723b-8e6a-25f0afc6de8d"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"target-page-type","path":"story/lore/properties/lore-about.relation-property.ts","id":"01a0d426-439c-7d51-9d3c-9df614dce06f"}
