@@ -93,7 +93,6 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","id":"01a095ed-9005-70e5-8d03-654f10141de7"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"decision-kind","path":"alan/authoring/authoring.domain.ts","id":"01a0657d-b91d-7000-a1e5-8f2537828ffb"}
-{"propertySlug":"decision-kind","path":"alan/chess/puzzle-set/chess-puzzle-set.page-type.ts","id":"01a06582-bd62-7a9f-a011-94835eaaf909"}
 {"propertySlug":"decision-kind","path":"alan/chess/review-session/chess-review-session.page-type.ts","id":"019f1e54-024f-7c0b-9c78-d44a2a2e9f2e"}
 {"propertySlug":"decision-kind","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.ts","id":"01a0686c-fd2c-7002-a269-4f47fac2fd46"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road-account/royal-road-account.page-type.ts","id":"01a06838-e8da-73c2-8412-6234b402ec6a"}
