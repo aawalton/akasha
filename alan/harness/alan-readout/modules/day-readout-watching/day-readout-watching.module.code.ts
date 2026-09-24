@@ -17,10 +17,7 @@ import {
   takeReading as takeCost,
 } from "akasha/alan/harness/cost/modules/reading/cost-reading.module.code.ts"
 import { getEsoDayWindow } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
-import {
-  takeReadings as takeInboxes,
-  tasksPage,
-} from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"
+import { takeReadings as takeInboxes } from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"
 import {
   READOUT_SLUG as PLANTS_SLUG,
   takeReading as takePlants,
@@ -74,6 +71,8 @@ export const ROLL_GRACE_MS = 5_000
 export const ROLL_NO_SOONER_MS = 60_000
 
 export const BEAT_MS = 5 * 60_000
+
+const TASKS_SLUG = "inboxes-tasks"
 
 const WATCH_SERVICE = "service-workstation"
 
@@ -174,7 +173,7 @@ export function dayReadouts(root: string, day: string): readonly WatchedReadout[
   const everyDay = anyOf(dayRow, days.holds)
   const everyDayAndStretches = anyOf(dayRowAndStretches, days.holds)
   const everyFood = anyOf(dayRow, foods.holds)
-  const tasks = tasksPage(root)
+  const tasks = readoutPage(root, TASKS_SLUG)
   const pageAt = (slug: string): string => readoutPage(root, slug)
   return [
     {

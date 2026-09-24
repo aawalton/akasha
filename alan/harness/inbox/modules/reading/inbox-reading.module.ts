@@ -68,7 +68,11 @@ export const inboxReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The temper task count is read with the same reader the temper module uses.",
+      statement: "The readouts read are the readouts stating a day their count is read from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No readout or readout group is named here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -114,7 +118,8 @@ export const inboxReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A readout the index names no page for stops the run rather than one reading.",
+      statement:
+        "A readout stating its day and not the property or words it is read by stops the run.",
     },
     {
       decisionKind: "decision-kind/absence",

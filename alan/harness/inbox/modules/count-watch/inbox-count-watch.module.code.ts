@@ -5,11 +5,7 @@ import {
   type TaskCounts,
 } from "akasha/alan/harness/inbox/modules/count-polling/inbox-count-polling.module.code.ts"
 import { persistInboxCounts } from "akasha/alan/harness/inbox/modules/count-writing/inbox-count-writing.module.code.ts"
-import {
-  findingsPage,
-  tasksPage,
-  temperTasksPage,
-} from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"
+import { countedReadouts } from "akasha/alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"
 import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import {
   NO_SECRET_TO_CARRY_ON,
@@ -88,11 +84,12 @@ export async function carryCounts(
     day,
     now
   )
-  const took: readonly (readonly [string, number])[] = [
-    [tasksPage(root), counts.tasks],
-    [temperTasksPage(root), counts.temperTasks],
-    [findingsPage(root), counts.findings],
-  ]
+  const byWireKey: Readonly<Record<string, number>> = counts
+  const took: (readonly [string, number])[] = []
+  for (const one of countedReadouts(root)) {
+    const value = byWireKey[one.wireKey]
+    if (value !== undefined) took.push([one.page, value])
+  }
   for (const [page, value] of took) keepReading(root, page, value, now)
   if (secret === null) return undefined
   const at = now.toISOString()
