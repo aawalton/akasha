@@ -13,5 +13,5 @@ export const day20260924 = {
   inboxTasksClearedToday: false,
   inboxTemperTasks: 13,
   inboxTemperTasksClearedToday: false,
-  lowestEmailInboxCount: 1,
+  lowestEmailInboxCount: 0,
 } as const satisfies Day
