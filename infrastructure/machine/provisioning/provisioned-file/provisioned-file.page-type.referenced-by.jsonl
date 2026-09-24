@@ -7,6 +7,9 @@
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/git-config/git-config.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/git-global-ignore/git-global-ignore.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/home-search-ignore/home-search-ignore.provisioned-file.ts"}
+{"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/kde-power-profile/kde-power-profile.provisioned-file.ts"}
+{"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/kde-screen-locker/kde-screen-locker.provisioned-file.ts"}
+{"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/logind-idle-action/logind-idle-action.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/macbook-brewfile/macbook-brewfile.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/podman-slice-share/podman-slice-share.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/profile/profile.provisioned-file.ts"}

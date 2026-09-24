@@ -2758,6 +2758,9 @@
 {"propertySlug":"decision-kind","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.ts","id":"01a0c97f-c3e5-7a4f-a97f-73954818b58a"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/host/pages/macbook.host.ts","id":"01a06590-e94f-7756-9d6b-824b7b6c9549"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/background-slice-share/background-slice-share.provisioned-file.ts","id":"01a0930e-6612-7563-a508-b6695086c8cb"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/kde-power-profile/kde-power-profile.provisioned-file.ts","id":"01a0d389-f516-7750-9d77-3f9f8a2ca27c"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/kde-screen-locker/kde-screen-locker.provisioned-file.ts","id":"01a0d38a-37c1-725c-bbb5-74f7aa7e8cfc"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/logind-idle-action/logind-idle-action.provisioned-file.ts","id":"01a0d38a-686f-79ff-b78a-6378171c4ed4"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/podman-slice-share/podman-slice-share.provisioned-file.ts","id":"01a09311-efdf-7871-b60c-af498677bdde"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/seats-slice/seats-slice.provisioned-file.ts","id":"01a0927c-ec26-7feb-bbd5-a2754a45f6c0"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/smallest-audio-chunk/smallest-audio-chunk.provisioned-file.ts","id":"01a0c526-fa62-791b-9dc7-6046fc96ba7d"}

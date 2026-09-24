@@ -332,6 +332,8 @@
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/inode-guard/inode-guard.module.ts","id":"01a05c67-00ad-7fd7-8303-5ff4a8e492b2"}
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.ts","id":"01a0a0af-184c-7bcb-bcd1-77847f24260e"}
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/memory-guard/memory-guard.module.ts","id":"01a05c67-00ad-77fa-b6c0-e677644ff621"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/kde-power-profile/kde-power-profile.provisioned-file.ts","id":"01a0d389-f516-7750-9d77-3f9f8a2ca27c"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/kde-screen-locker/kde-screen-locker.provisioned-file.ts","id":"01a0d38a-37c1-725c-bbb5-74f7aa7e8cfc"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/smallest-audio-chunk/smallest-audio-chunk.provisioned-file.ts","id":"01a0c526-fa62-791b-9dc7-6046fc96ba7d"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/kind/pages/swap.memory-kind.ts","id":"01a09131-faa7-77ff-af26-eb9b9e2b59a6"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/limit/memory-limit.domain.ts","id":"01a09115-8c65-76a6-bdc1-cfddcc4acd88"}

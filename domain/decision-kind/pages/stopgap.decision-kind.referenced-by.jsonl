@@ -45,6 +45,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}
 {"propertySlug":"decision-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
 {"propertySlug":"decision-kind","path":"git/git.domain.ts","id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/logind-idle-action/logind-idle-action.provisioned-file.ts","id":"01a0d38a-686f-79ff-b78a-6378171c4ed4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.ts","id":"01a05af7-5996-7000-9cf8-b27923a0672b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.ts","id":"01a08ce6-65f4-7bdd-adf3-0187b1b35936"}

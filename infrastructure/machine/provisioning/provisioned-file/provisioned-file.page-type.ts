@@ -34,6 +34,9 @@ export const provisionedFile = {
     "select-property/placed-by",
     "text-property/install-path",
     "text-property/reload-with",
+    "provisioned-file/kde-power-profile",
+    "provisioned-file/kde-screen-locker",
+    "provisioned-file/logind-idle-action",
   ],
   extends: ["page-type/domain"],
   properties: [

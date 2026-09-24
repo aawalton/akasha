@@ -1482,6 +1482,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/job/modules/run-in-cluster/run-in-cluster.module.ts","id":"01a0ac69-5f36-7c55-b13c-8803a92a27a7"}
 {"propertySlug":"decision-kind","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.ts","id":"01a0a0af-184c-7bcb-bcd1-77847f24260e"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.ts","id":"01a0c97f-c3e5-7a4f-a97f-73954818b58a"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/logind-idle-action/logind-idle-action.provisioned-file.ts","id":"01a0d38a-686f-79ff-b78a-6378171c4ed4"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioning.domain.ts","id":"01a06861-49aa-7cbb-bded-bbd1af45e1b4"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts","id":"01a07352-c56d-7d59-981a-3d7fa93e062d"}
