@@ -5,6 +5,7 @@ export const mirri = {
   type: "page-type/temper-companion-progress",
   slug: "mirri",
   title: "Mirri Elendis",
+  completion: "json",
   companionId: "temper-eso-companion/mirri",
   accountPage: "temper-account/alanarre",
 } as const satisfies TemperCompanionProgress
