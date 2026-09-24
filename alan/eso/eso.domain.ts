@@ -7,10 +7,4 @@ export const eso = {
   definition: "how Alan plays The Elder Scrolls Online",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "eso" }],
   parts: ["domain/eso-wallpaper", "domain/the-elder-scrolls-online"],
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A persona answers for this domain.",
-    },
-  ],
 } as const satisfies Domain

@@ -93,7 +93,6 @@
 {"propertySlug":"decision-kind","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.ts","id":"01a0686c-fd2c-7002-a269-4f47fac2fd46"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road-account/royal-road-account.page-type.ts","id":"01a06838-e8da-73c2-8412-6234b402ec6a"}
 {"propertySlug":"decision-kind","path":"alan/collection/type/collection-type.page-type.ts","id":"01a0680f-6f00-7001-b374-6d2a9f5c6102"}
-{"propertySlug":"decision-kind","path":"alan/eso/eso.domain.ts","id":"01a0675b-16ea-77df-9153-bac46e026794"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/email-operations/email-operations.module.ts","id":"01a0658e-2bf5-7001-a81d-b52dcc937d44"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.ts","id":"01a0657c-604c-7003-9159-bb1811c11e74"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
