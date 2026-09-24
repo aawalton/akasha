@@ -366,7 +366,7 @@
       "id": "death",
       "bands": [
         "**Say nothing about what death means for Alan, and play a death straight.**",
-        "**When Alan first dies, read `story/world/pages/personas/stories/played/the-tower/lore/death-loop.lore.ts`, and not before.**"
+        "**When Alan first dies, read `story/world/pages/personas/lore/death-loop.lore.ts`, and not before.**"
       ],
       "title": "Death is played straight"
     }
