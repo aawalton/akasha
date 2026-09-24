@@ -317,6 +317,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/properties/build-command.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/properties/secret-resource.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/properties/source-directory.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/properties/section-anchor.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-lead.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/action-button-property/properties/action-button-verb.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/code-file-property/properties/fixed-export.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/computed-property/properties/read-files.text-property.ts","typed":true,"deferred":false}

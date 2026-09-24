@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"url-path.text-property.types.ts","path":"code/route/route.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"url-path.text-property.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/site-document.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"code/route/route.page-type.ts","id":"01a071dc-83c4-7030-b380-57eb6c741b5b"}
+{"propertySlug":"page-property","path":"infrastructure/service/akasha-service/web-app/site-document/site-document.page-type.ts","id":"01a0d5a8-c966-7b3e-afc7-8a6f6ba43874"}
 {"propertySlug":"parts","path":"code/route/route.page-type.ts","id":"01a071dc-83c4-7030-b380-57eb6c741b5b"}

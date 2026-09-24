@@ -13,4 +13,5 @@
 {"propertySlug":"import","fileName":"web-app.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/pages/smilingjenny-web.web-app.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-app.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/pages/temper-web.web-app.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/akasha-service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
+{"propertySlug":"target-page-type","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-web-app.relation-property.ts","id":"01a0d5a8-c966-7ff3-adf3-45f5c8bec4b3"}
 {"propertySlug":"target-page-type","path":"page/nav/properties/nav-app.relation-property.ts","id":"01a0cb3f-4536-7c82-aea7-fab1df6b6026"}

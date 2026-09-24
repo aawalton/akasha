@@ -130,6 +130,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/lifecycle.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/provision.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/akasha-service/web-app/properties/service-clusters.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-web-app.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/address-kind/in-page-property/in-page-property.page-address-kind.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/address-kind/in-page-type/in-page-type.page-address-kind.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/file-property/properties/file-written-by.relation-property.types.ts","typed":true,"deferred":false}

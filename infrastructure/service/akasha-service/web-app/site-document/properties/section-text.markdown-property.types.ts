@@ -1,0 +1,1 @@
+export type SectionText = string

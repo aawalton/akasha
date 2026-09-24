@@ -24,6 +24,7 @@
 {"propertySlug":"name-format","path":"infrastructure/service/akasha-service/service-cluster/properties/namespace.text-property.ts","id":"01a05a41-58c4-75fd-a1fe-fc3595ae4a50"}
 {"propertySlug":"name-format","path":"infrastructure/service/akasha-service/service-cluster/properties/resource-name.text-property.ts","id":"01a05a41-58c5-7070-8223-2b245078d3b9"}
 {"propertySlug":"name-format","path":"infrastructure/service/akasha-service/web-app/properties/secret-resource.text-property.ts","id":"01a08cfa-dafb-7b31-884e-718e64f5308b"}
+{"propertySlug":"name-format","path":"infrastructure/service/akasha-service/web-app/site-document/properties/section-anchor.text-property.ts","id":"01a0d5a8-c966-7afe-8c13-a6939da21b7e"}
 {"propertySlug":"name-format","path":"page/action-button-property/properties/action-button-verb.text-property.ts","id":"01a0c5fb-5db6-7c79-af84-a877d7d23ada"}
 {"propertySlug":"name-format","path":"page/file-property/properties/extensions.text-property.ts","id":"01a08e1f-408a-7ae7-a4d9-21cdd5a19500"}
 {"propertySlug":"name-format","path":"page/index/properties/index-name.text-property.ts","id":"01a04ef3-160f-7845-bc55-4507fdef6109"}

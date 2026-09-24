@@ -12,6 +12,7 @@ export const webApp = {
     "module/dev-server-stating",
     "module/dev-server-tree",
     "number-property/base-port",
+    "page-type/site-document",
     "multi-relation-property/service-clusters",
     "text-property/build-command",
     "text-property/secret-resource",

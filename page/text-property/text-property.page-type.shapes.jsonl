@@ -463,6 +463,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"secret-resource","propertySlug":"secret-resource","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"secret-value","propertySlug":"value","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"section","propertySlug":"section","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"section-anchor","propertySlug":"anchor","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"security-name","propertySlug":"security-name","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"segment","propertySlug":"segment","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"select-option-value","propertySlug":"value","fileName":null,"folderName":null}
@@ -480,6 +481,7 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"side-view-camera-notes","propertySlug":"side-view-camera-notes","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sign-in-provider","propertySlug":"provider","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":"page-type","uniquePropertySlug":null,"slug":"sign-in-subject-hash","propertySlug":"subject-hash","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"site-document-lead","propertySlug":"lead","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"skill-effect-type","propertySlug":"type","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"skill-status","propertySlug":"status","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"slot-category","propertySlug":"slot-category","fileName":null,"folderName":null}
