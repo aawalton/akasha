@@ -23,6 +23,7 @@ export const routerApp = {
     "file-property/site-icon",
     "file-property/test-preload",
     "module/auth-footer",
+    "module/document-nonce",
     "module/font-preload",
     "module/health-answer",
     "module/root-nonce-loader",

@@ -1906,6 +1906,7 @@
 {"propertySlug":"decision-kind","path":"code/route/properties/url-path.text-property.ts","id":"01a071dc-83c6-7c58-b6e1-8aaf847e66ef"}
 {"propertySlug":"decision-kind","path":"code/route/route.page-type.ts","id":"01a071dc-83c4-7030-b380-57eb6c741b5b"}
 {"propertySlug":"decision-kind","path":"code/router-app/modules/auth-footer/auth-footer.module.ts","id":"01a08e43-fb7d-780f-b702-af0566841b73"}
+{"propertySlug":"decision-kind","path":"code/router-app/modules/document-nonce/document-nonce.module.ts","id":"01a0d44a-7109-778a-9d43-4a730ae6ab03"}
 {"propertySlug":"decision-kind","path":"code/router-app/modules/font-preload/font-preload.module.ts","id":"01a090ec-d6a6-7002-aecb-89687607f4b5"}
 {"propertySlug":"decision-kind","path":"code/router-app/modules/health-answer/health-answer.module.ts","id":"01a08e21-9f54-79c6-8ffa-ace8826c7494"}
 {"propertySlug":"decision-kind","path":"code/router-app/modules/rendering/router-app-rendering.module.ts","id":"01a08e0c-9954-75c1-9e79-f74a78e53f01"}

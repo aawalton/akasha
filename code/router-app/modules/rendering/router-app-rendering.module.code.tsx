@@ -1,3 +1,4 @@
+import { DocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { renderToReadableStream } from "react-dom/server"
 import type { EntryContext } from "react-router"
 import { ServerRouter } from "react-router"
@@ -19,7 +20,9 @@ export async function renderRouterApp(
   const nonce = typeof carriedNonce === "string" ? carriedNonce : undefined
 
   const body = await renderToReadableStream(
-    <ServerRouter context={routerContext} url={request.url} nonce={nonce} />,
+    <DocumentNonce nonce={nonce}>
+      <ServerRouter context={routerContext} url={request.url} nonce={nonce} />
+    </DocumentNonce>,
     {
       nonce,
       signal: AbortSignal.timeout(streamTimeout + 1000),
