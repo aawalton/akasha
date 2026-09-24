@@ -6,6 +6,7 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { bodyOf } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const AT = "checks/one/one.module.code.ts"
 
@@ -70,7 +71,7 @@ const MODULE_VALUES: readonly Filed[] = [
     path: "page/modules/checkout-roots/checkout-roots.module.ts",
     value: {
       id: "01a08299-65c2-7004-8000-000000000004",
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "checkout-roots",
       answersACheckoutRoot: true,
     },
@@ -79,7 +80,7 @@ const MODULE_VALUES: readonly Filed[] = [
     path: "page/modules/code-root/code-root.module.ts",
     value: {
       id: "01a08299-65c2-7005-8000-000000000005",
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "code-root",
       answersACheckoutRoot: true,
     },
@@ -88,7 +89,7 @@ const MODULE_VALUES: readonly Filed[] = [
     path: "temper/build-deploy-checks/modules/repo-root/repo-root.module.ts",
     value: {
       id: "01a08299-65c2-7006-8000-000000000006",
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "repo-root",
       answersACheckoutRoot: true,
     },
@@ -97,7 +98,7 @@ const MODULE_VALUES: readonly Filed[] = [
     path: "check/modules/change-walking/change-walking.module.ts",
     value: {
       id: "01a08299-65c2-7007-8000-000000000007",
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "change-walking",
     },
   },
@@ -105,7 +106,7 @@ const MODULE_VALUES: readonly Filed[] = [
     path: "page/modules/shadow/shadow.module.ts",
     value: {
       id: "01a08299-65c2-7008-8000-000000000008",
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "shadow",
       answersACheckoutRoot: false,
     },

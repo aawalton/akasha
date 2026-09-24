@@ -10,6 +10,7 @@ import {
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const ONE = "01a04ef8-1a07-7001-8000-000000000001"
 
@@ -36,14 +37,14 @@ export function body(
       ? ""
       : `, properties: ${JSON.stringify(declares.map((one) => ({ pageProperty: one })))}`
   return new TextEncoder().encode(
-    `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
+    `export const held = { id: ${JSON.stringify(id)}, type: ${JSON.stringify(`page-type/${kind}`)}, ` +
       `slug: ${JSON.stringify(slug)}${said} }\n`
   )
 }
 
 export function oneOf(slug: string, id: string, members: readonly string[]): Uint8Array {
   return new TextEncoder().encode(
-    `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "one-of-property", ` +
+    `export const held = { id: ${JSON.stringify(id)}, type: "page-type/one-of-property", ` +
       `slug: ${JSON.stringify(slug)}, members: ${JSON.stringify(members)} }\n`
   )
 }
@@ -78,7 +79,7 @@ export function rooted(): string {
       path: pathFor("record-property", "properties"),
       value: {
         id: RECORD,
-        pageTypeSlug: "record-property",
+        type: `${pageType.slug}/record-property`,
         slug: "properties",
         properties: [{ pageProperty: "page-property" }],
       },

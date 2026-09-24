@@ -12,6 +12,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const HERE = "shell-clean-"
 
@@ -75,7 +76,7 @@ export function scripted(root: string): undefined {
       path: SHELL_AT,
       value: {
         id: SHELL_ID,
-        pageTypeSlug: FILE_PROPERTY,
+        type: `${pageType.slug}/${FILE_PROPERTY}`,
         slug: SHELL,
         propertySlug: SHELL,
         extensions: [HELD],
@@ -89,7 +90,7 @@ export function scripted(root: string): undefined {
       path: SCRIPT_AT,
       value: {
         id: SCRIPT_ID,
-        pageTypeSlug: PAGE_TYPE,
+        type: `${pageType.slug}/${PAGE_TYPE}`,
         slug: SCRIPT,
         properties: [{ pagePropertySlug: SHELL }],
       },
@@ -98,7 +99,10 @@ export function scripted(root: string): undefined {
   relationFiled(root, SHELL_ID, DECLARES, SCRIPT_ID, [{ path: SCRIPT_AT }])
   listedFiled(root, SCRIPT, "part", [{ path: PART_PAGE_AT, id: PART_ID }])
   valueAlsoFiled(root, SCRIPT, [
-    { path: PART_PAGE_AT, value: { id: PART_ID, pageTypeSlug: SCRIPT, slug: "part", shell: HELD } },
+    {
+      path: PART_PAGE_AT,
+      value: { id: PART_ID, type: `${pageType.slug}/${SCRIPT}`, slug: "part", shell: HELD },
+    },
   ])
 }
 

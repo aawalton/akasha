@@ -21,6 +21,7 @@ import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export async function judged(one: Change): Promise<readonly Judged[]> {
   const cast = shadowFor(one)
@@ -66,7 +67,7 @@ const EARLY_AT = "akasha/uuid-v7.generator-kind.ts"
 
 const THING_TYPE =
   "export type Thing = { held: string; slug: string }\n" +
-  `export const thing = { id: "${GENERATED_ID}", pageTypeSlug: "page-type", slug: "thing" }\n`
+  `export const thing = { id: "${GENERATED_ID}", type: "page-type/page-type", slug: "thing" }\n`
 
 export const THING_AT = "akasha/one.thing.ts"
 
@@ -146,14 +147,14 @@ const LOADER_BREAKS = "export const one: string = 1\n"
 
 function kindPage(id: string, slug: string, afterChecks: boolean): string {
   return (
-    `export const kind = { id: "${id}", pageTypeSlug: "generator-kind",` +
+    `export const kind = { id: "${id}", type: "page-type/generator-kind",` +
     ` slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
 }
 
 function heldPage(generator: string): string {
   return (
-    `export const held = { id: "${HELD_ID}", pageTypeSlug: "text-property",` +
+    `export const held = { id: "${HELD_ID}", type: "page-type/text-property",` +
     ` slug: "held", propertySlug: "held", generator: "${generator}" }\n`
   )
 }
@@ -167,7 +168,7 @@ function kindFiled(
 ): undefined {
   named(root, at, GENERATOR_KIND, slug, id)
   valueAlsoFiled(root, GENERATOR_KIND, [
-    { path: at, value: { id, pageTypeSlug: GENERATOR_KIND, slug, afterChecks } },
+    { path: at, value: { id, type: `${pageType.slug}/${GENERATOR_KIND}`, slug, afterChecks } },
   ])
 }
 
@@ -211,18 +212,18 @@ export function declaring(): string {
   const root = staged({
     [HELD_TYPE_AT]: bodied({
       id: TYPE_ID,
-      pageTypeSlug: PAGE_TYPE,
+      type: `${pageType.slug}/${PAGE_TYPE}`,
       slug: HELD_TYPE,
       loadedBy: `${MODULE}/${HELD_LOADER}`,
     }),
     [HELD_LOADER_AT]: bodied({
       id: LOADER_ID,
-      pageTypeSlug: MODULE,
+      type: `${pageType.slug}/${MODULE}`,
       slug: HELD_LOADER,
       code: "ts",
     }),
     [LOADER_CODE_AT]: LOADER_BREAKS,
-    [LOADED_AT]: bodied({ id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: "loaded" }),
+    [LOADED_AT]: bodied({ id: LOADED_ID, type: "page-type/held-type", slug: "loaded" }),
   })
   named(root, HELD_TYPE_AT, PAGE_TYPE, HELD_TYPE, TYPE_ID)
   named(root, HELD_LOADER_AT, MODULE, HELD_LOADER, LOADER_ID)
