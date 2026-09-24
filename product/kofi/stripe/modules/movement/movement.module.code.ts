@@ -29,7 +29,7 @@ function addressIn(charge: Held): string | null {
   return said === null ? null : said.toLowerCase()
 }
 
-export function movementIn(event: unknown): Read {
+export function parseMovement(event: unknown): Read {
   const held = objectIn(event)
   if (held === null) return { passedOver: "the body is no object" }
 

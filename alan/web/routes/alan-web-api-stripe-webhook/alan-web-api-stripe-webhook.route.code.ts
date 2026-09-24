@@ -10,7 +10,7 @@ import {
 } from "akasha/product/kofi/contribution-point/modules/balance/contribution-point-balance.module.code.ts"
 import {
   hashOf,
-  movementIn,
+  parseMovement,
 } from "akasha/product/kofi/stripe/modules/movement/movement.module.code.ts"
 import { verifyStripeSignature } from "akasha/product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.code.ts"
 
@@ -52,14 +52,13 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return Response.json({ error: verified.reason }, { status: 403 })
   }
 
-  let parsed: unknown
+  let read: ReturnType<typeof parseMovement>
   try {
-    parsed = JSON.parse(rawBody)
+    read = parseMovement(JSON.parse(rawBody))
   } catch {
     return Response.json({ ok: true, passedOver: "the body is no JSON" })
   }
 
-  const read = movementIn(parsed)
   if ("passedOver" in read) {
     return Response.json({ ok: true, passedOver: read.passedOver })
   }

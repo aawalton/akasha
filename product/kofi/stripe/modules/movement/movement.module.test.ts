@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
   hashOf,
-  movementIn,
+  parseMovement,
 } from "akasha/product/kofi/stripe/modules/movement/movement.module.code.ts"
 
 function succeeded(charge: Readonly<Record<string, unknown>>): unknown {
@@ -14,7 +14,7 @@ function refunded(charge: Readonly<Record<string, unknown>>): unknown {
 
 describe("movementIn", () => {
   test("earns a point for every cent a charge took", () => {
-    const read = movementIn(
+    const read = parseMovement(
       succeeded({ id: "ch_1", amount: 500, billing_details: { email: "Alan@Example.com" } })
     )
     expect(read).toEqual({
@@ -23,14 +23,14 @@ describe("movementIn", () => {
   })
 
   test("falls back to the address a receipt went to", () => {
-    const read = movementIn(
+    const read = parseMovement(
       succeeded({ id: "ch_2", amount: 100, billing_details: {}, receipt_email: "B@C.com" })
     )
     expect(read).toEqual({ movement: { chargeId: "ch_2", email: "b@c.com", points: 100 } })
   })
 
   test("takes back what a refund returned rather than what the charge took", () => {
-    const read = movementIn(
+    const read = parseMovement(
       refunded({
         id: "ch_3",
         amount: 500,
@@ -42,48 +42,52 @@ describe("movementIn", () => {
   })
 
   test("passes over an event of another kind", () => {
-    const read = movementIn({ id: "evt_3", type: "charge.dispute.created", data: { object: {} } })
+    const read = parseMovement({
+      id: "evt_3",
+      type: "charge.dispute.created",
+      data: { object: {} },
+    })
     expect(read).toEqual({ passedOver: "`charge.dispute.created` moves no points" })
   })
 
   test("passes over a charge naming no address", () => {
-    const read = movementIn(succeeded({ id: "ch_4", amount: 500, billing_details: {} }))
+    const read = parseMovement(succeeded({ id: "ch_4", amount: 500, billing_details: {} }))
     expect(read).toEqual({ passedOver: "`ch_4` names no address" })
   })
 
   test("passes over a charge that took nothing", () => {
-    const read = movementIn(
+    const read = parseMovement(
       succeeded({ id: "ch_5", amount: 0, billing_details: { email: "a@b.com" } })
     )
     expect(read).toEqual({ passedOver: "`ch_5` is for nothing" })
   })
 
   test("passes over a refund that returned nothing", () => {
-    const read = movementIn(
+    const read = parseMovement(
       refunded({ id: "ch_6", amount_refunded: 0, billing_details: { email: "a@b.com" } })
     )
     expect(read).toEqual({ passedOver: "`ch_6` refunded nothing" })
   })
 
   test("passes over an amount that is no whole number of cents", () => {
-    const read = movementIn(
+    const read = parseMovement(
       succeeded({ id: "ch_7", amount: 1.5, billing_details: { email: "a@b.com" } })
     )
     expect(read).toEqual({ passedOver: "`ch_7` states no amount" })
   })
 
   test("passes over a body that is no object", () => {
-    expect(movementIn("charge.succeeded")).toEqual({ passedOver: "the body is no object" })
+    expect(parseMovement("charge.succeeded")).toEqual({ passedOver: "the body is no object" })
   })
 
   test("passes over a body naming no event type", () => {
-    expect(movementIn({ data: { object: {} } })).toEqual({
+    expect(parseMovement({ data: { object: {} } })).toEqual({
       passedOver: "the body names no event type",
     })
   })
 
   test("passes over an event carrying no charge", () => {
-    expect(movementIn({ type: "charge.succeeded" })).toEqual({
+    expect(parseMovement({ type: "charge.succeeded" })).toEqual({
       passedOver: "`charge.succeeded` carries no charge",
     })
   })
