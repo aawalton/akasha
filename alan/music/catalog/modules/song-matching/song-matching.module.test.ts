@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
+import { cynthiaErivo } from "akasha/alan/music/catalog/artist/pages/cynthia-erivo/cynthia-erivo.artist.ts"
 import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import {
   artistOf,
@@ -35,6 +36,8 @@ const BY_RELEASE: ReadonlyMap<string, string> = new Map([["sylvia-daley-pixie", 
 
 const ON_PIXIE = { partOfCollections: ["release/sylvia-daley-pixie"] }
 
+const CYNTHIA_AT = `${artist.slug}/${cynthiaErivo.slug}` as const
+
 test("a release names the artist the release is filed under", () => {
   expect(artistUnder({ partOfCollections: [`${artist.slug}/${sylviaDaley.slug}`] })).toBe(
     sylviaDaley.slug
@@ -47,16 +50,24 @@ test("a release filed under a collection that is no artist names no artist", () 
   expect(artistUnder({})).toBeNull()
 })
 
-test("a track whose release names no artist takes the artist Spotify credits on it", () => {
+test("a track whose release names no artist takes the artist page its first credit names", () => {
   const onWicked = {
     partOfCollections: [`${release.slug}/${musicalTheaterWickedTheSoundtrack.slug}`],
-    trackArtist: [{ artistName: "Cynthia Erivo" }, { artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: CYNTHIA_AT }, { artistName: "A Guest" }],
   }
-  expect(artistOf(BY_RELEASE, onWicked)).toBe("cynthia-erivo")
+  expect(artistOf(BY_RELEASE, onWicked)).toBe(cynthiaErivo.slug)
 })
 
-test("a release naming an artist outranks the artist Spotify credits on a track", () => {
-  const onPixie = { ...ON_PIXIE, trackArtist: [{ artistName: "Somebody Else" }] }
+test("a track whose first credit names no artist page takes no artist from its credits", () => {
+  const onWicked = {
+    partOfCollections: [`${release.slug}/${musicalTheaterWickedTheSoundtrack.slug}`],
+    trackArtist: [{ artistName: "A Guest" }, { artist: CYNTHIA_AT }],
+  }
+  expect(artistOf(BY_RELEASE, onWicked)).toBeNull()
+})
+
+test("a release naming an artist outranks the artist a track credits", () => {
+  const onPixie = { ...ON_PIXIE, trackArtist: [{ artist: CYNTHIA_AT }] }
   expect(artistOf(BY_RELEASE, onPixie)).toBe(sylviaDaley.slug)
 })
 

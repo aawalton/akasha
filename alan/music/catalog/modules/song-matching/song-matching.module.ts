@@ -70,7 +70,12 @@ export const songMatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A track whose release names no artist takes the artist Spotify credits on it.",
+      statement:
+        "A track whose release names no artist takes the artist page its first credit names.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No track is matched to an artist by the name a credit states.",
     },
     {
       decisionKind: "decision-kind/departure",

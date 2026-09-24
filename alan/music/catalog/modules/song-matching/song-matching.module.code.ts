@@ -1,4 +1,3 @@
-import { artistSlugOf } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   recordsIn,
@@ -104,8 +103,8 @@ export function artistByRelease(root: string): ReadonlyMap<string, string> {
 
 function artistCredited(value: Value): string | null {
   const first = recordsIn(value[TRACK_ARTIST])[0]
-  const name = first === undefined ? null : textIn(first, "artistName")
-  return name === null || name.trim() === "" ? null : artistSlugOf(name)
+  const said = first === undefined ? null : textIn(first, ARTIST)
+  return said?.startsWith(UNDER_ARTIST) ? said.slice(UNDER_ARTIST.length) : null
 }
 
 export function artistOf(byRelease: ReadonlyMap<string, string>, value: Value): string | null {
