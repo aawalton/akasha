@@ -4,6 +4,7 @@ import {
   Badge,
   type BadgeVariant,
 } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { useBadgeLayoutContext } from "akasha/design/interface/badge/modules/badge-layout-context/badge-layout-context.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { CheckIcon } from "lucide-react"
 import type { KeyboardEvent } from "react"
@@ -24,6 +25,7 @@ function CheckboxBadge({
   className,
 }: CheckboxBadgeProps) {
   const interactive = !!onChange
+  const bare = useBadgeLayoutContext().bare === true
   const handleKeyDown = interactive
     ? (event: KeyboardEvent<HTMLSpanElement>) => {
         if (event.key === " " || event.key === "Enter") {
@@ -35,7 +37,11 @@ function CheckboxBadge({
   return (
     <Badge
       variant={variant}
-      className={cn("px-1.5", interactive && "cursor-pointer hover:bg-primary/8", className)}
+      className={cn(
+        !bare && "px-1.5",
+        interactive && "cursor-pointer hover:bg-primary/8",
+        className
+      )}
       role="checkbox"
       aria-checked={checked}
       aria-readonly={interactive ? undefined : true}

@@ -6,4 +6,10 @@ export const checkboxBadge = {
   slug: "checkbox-badge",
   definition: "a badge with a box that is ticked or not",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A box drawn bare starts on the edge every other bare value starts on.",
+    },
+  ],
 } as const satisfies Module
