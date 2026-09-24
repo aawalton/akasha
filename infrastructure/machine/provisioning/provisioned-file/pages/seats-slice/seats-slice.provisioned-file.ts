@@ -10,6 +10,10 @@ export const seatsSlice = {
   onlyOn: "linux",
   installPath: "~/.config/systemd/user/seats.slice",
   reloadWith: "systemctl --user daemon-reload",
+  filling: {},
+  cpuShare: 30,
+  maxMemoryMb: 81920,
+  killMemoryMb: 98304,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

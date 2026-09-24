@@ -10,6 +10,8 @@ export const backgroundSliceShare = {
   onlyOn: "linux",
   installPath: "~/.config/systemd/user/background.slice.d/10-share.conf",
   reloadWith: "systemctl --user daemon-reload",
+  filling: {},
+  cpuShare: 30,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

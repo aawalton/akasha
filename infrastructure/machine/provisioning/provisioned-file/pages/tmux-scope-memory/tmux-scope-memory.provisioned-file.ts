@@ -10,6 +10,9 @@ export const tmuxScopeMemory = {
   onlyOn: "linux",
   installPath: "~/.config/systemd/user/tmux-.scope.d/30-memory.conf",
   reloadWith: "systemctl --user daemon-reload",
+  filling: {},
+  maxMemoryMb: 20480,
+  killMemoryMb: 24576,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

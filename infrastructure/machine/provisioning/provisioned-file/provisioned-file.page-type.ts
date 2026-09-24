@@ -8,6 +8,7 @@ export const provisionedFile = {
   parts: [
     "file-property/content",
     "module-property-group/filling",
+    "module/unit-limits",
     "provisioned-file/background-slice-share",
     "provisioned-file/bashrc",
     "provisioned-file/btw5-udev-rule",

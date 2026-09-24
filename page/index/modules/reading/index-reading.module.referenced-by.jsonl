@@ -253,6 +253,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/generation/zimage/up/zimage-up.shell-script.scripting.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/inference/pool/modules/inference-hosts/inference-hosts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/modules/unit-limits/unit-limits.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/bashrc/bashrc.provisioned-file.filling.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/bashrc/bashrc.provisioned-file.filling.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts","typed":false,"deferred":false}

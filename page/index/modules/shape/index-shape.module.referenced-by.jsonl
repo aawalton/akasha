@@ -70,7 +70,12 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.composing.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/job/modules/deploy-job/deploy-job.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/modules/unit-limits/unit-limits.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/background-slice-share/background-slice-share.provisioned-file.filling.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/bashrc/bashrc.provisioned-file.filling.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/podman-slice-share/podman-slice-share.provisioned-file.filling.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/seats-slice/seats-slice.provisioned-file.filling.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-memory/tmux-scope-memory.provisioned-file.filling.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/index/ast-hash/index-ast-hash.index.code.ts","typed":true,"deferred":false}
