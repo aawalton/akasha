@@ -55,10 +55,7 @@ export const memoryLimit = {
       decisionKind: "decision-kind/departure",
       statement: "The memory a host keeps for itself is taken out before anything else is limited.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every limit is set from a measured peak rather than chosen.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A limit states a share the thing limited always has as well as a ceiling.",
