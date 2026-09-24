@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-audit/orphan-resource-audit.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"infrastructure/git-transport/modules/push-event/push-event.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"infrastructure/service/cluster/modules/cluster-health/cluster-health.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"infrastructure/service/cluster/modules/loki-log-fetching/loki-log-fetching.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}

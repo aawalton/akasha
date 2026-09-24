@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
+{"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/cluster/modules/cluster-health/cluster-health.module.code.ts"}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.test.ts"}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"}

@@ -1855,6 +1855,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/cluster-api-reaching/cluster-api-reaching.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/cluster-health/cluster-health.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/cron-due/cron-due.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/log-bound-saying/log-bound-saying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/cluster/modules/loki-log-fetching/loki-log-fetching.module.ts"}
