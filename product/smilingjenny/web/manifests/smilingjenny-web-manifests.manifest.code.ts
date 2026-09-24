@@ -1,4 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { webServiceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.code.ts"
 import { synthWebDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
@@ -19,6 +20,7 @@ import {
   SMILINGJENNY_WEB_CACHE,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { smilingjennyWeb } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/smilingjenny-web/smilingjenny-web.service-cluster.ts"
+import { smilingjennyWebManifests as page } from "akasha/product/smilingjenny/web/manifests/smilingjenny-web-manifests.manifest.ts"
 
 const NAMESPACE = smilingjennyWeb.namespace
 const APP_NAME = smilingjennyWeb.resourceName
@@ -84,10 +86,7 @@ function webDeploymentYaml(): string {
                 { name: "PORT", value: `${smilingjennyWeb.containerPort}` },
               ],
               volumeMounts: orchestratorCacheVolumeMounts(),
-              resources: {
-                requests: { cpu: "100m", memory: "512Mi" },
-                limits: { cpu: "500m", memory: "512Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 1000,

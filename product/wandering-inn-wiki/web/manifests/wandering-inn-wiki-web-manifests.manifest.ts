@@ -6,6 +6,10 @@ export const wanderingInnWikiWebManifests = {
   slug: "wandering-inn-wiki-web-manifests",
   definition: "the namespace, deployment and service drawing innworld.wiki",
   code: "ts",
+  minCpuMillicores: 100,
+  maxCpuMillicores: 500,
+  minMemoryMb: 512,
+  killMemoryMb: 512,
   generatedDirectory: true,
   decisions: [
     {

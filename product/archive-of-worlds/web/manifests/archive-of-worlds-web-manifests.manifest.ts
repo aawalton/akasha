@@ -6,5 +6,9 @@ export const archiveOfWorldsWebManifests = {
   slug: "archive-of-worlds-web-manifests",
   definition: "the deployment and service serving the site of published original stories",
   code: "ts",
+  minCpuMillicores: 100,
+  maxCpuMillicores: 500,
+  minMemoryMb: 512,
+  killMemoryMb: 512,
   generatedDirectory: true,
 } as const satisfies Manifest

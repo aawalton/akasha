@@ -1,2 +1,3 @@
+{"propertySlug":"import","fileName":"temper-web-manifests.manifest.ts","path":"temper/web/manifests/temper-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/temper-web/temper-web.service-cluster.ts","id":"01a05b26-f8b6-7b51-a3bf-3c4d1128e7e8"}

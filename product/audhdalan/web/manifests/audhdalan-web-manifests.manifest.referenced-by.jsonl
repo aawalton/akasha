@@ -1,2 +1,3 @@
+{"propertySlug":"import","fileName":"audhdalan-web-manifests.manifest.ts","path":"product/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"product/audhdalan/web/audhdalan-web.router-app.ts","id":"01a06558-c2cc-7008-82aa-ce6fcd6a0c2a"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/audhdalan-web/audhdalan-web.service-cluster.ts","id":"01a05b26-f8b6-702c-863b-08d754492dee"}

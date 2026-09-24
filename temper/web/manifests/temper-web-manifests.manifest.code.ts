@@ -1,4 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { webServiceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.code.ts"
 import { synthWebDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
@@ -20,6 +21,7 @@ import {
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { temperWeb } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/temper-web/temper-web.service-cluster.ts"
 import { ADDON_BUNDLE_IMAGE } from "akasha/temper/web/deploy/addon-bundle-image.ts"
+import { temperWebManifests as page } from "akasha/temper/web/manifests/temper-web-manifests.manifest.ts"
 
 const NAMESPACE = temperWeb.namespace
 const APP_NAME = temperWeb.resourceName
@@ -172,10 +174,7 @@ function webDeploymentYaml(): string {
                 { name: "ADDONS_BUNDLE_DIR", value: ADDONS_DEST_DIR },
               ],
               volumeMounts: [...orchestratorCacheVolumeMounts(), VALIDATION_DATA_MOUNT],
-              resources: {
-                requests: { cpu: "100m", memory: "512Mi" },
-                limits: { cpu: "500m", memory: "512Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 1000,
