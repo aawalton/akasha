@@ -5,7 +5,7 @@ export const thea = {
   type: "page-type/seat",
   slug: "thea",
   persona: "persona/thea",
-  assignmentSlug: "initiative/thea-generator-pages",
+  assignmentSlug: "domain/check",
   role: "role/definer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
