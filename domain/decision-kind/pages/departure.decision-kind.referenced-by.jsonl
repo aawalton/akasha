@@ -1906,7 +1906,6 @@
 {"propertySlug":"decision-kind","path":"code/router-app/modules/font-preload/font-preload.module.ts","id":"01a090ec-d6a6-7002-aecb-89687607f4b5"}
 {"propertySlug":"decision-kind","path":"code/router-app/modules/health-answer/health-answer.module.ts","id":"01a08e21-9f54-79c6-8ffa-ace8826c7494"}
 {"propertySlug":"decision-kind","path":"code/router-app/modules/rendering/router-app-rendering.module.ts","id":"01a08e0c-9954-75c1-9e79-f74a78e53f01"}
-{"propertySlug":"decision-kind","path":"code/router-app/modules/root-nonce-loader/root-nonce-loader.module.ts","id":"01a0911f-df93-7daf-8b5c-e52e803f1f79"}
 {"propertySlug":"decision-kind","path":"code/router-app/modules/router-context-adapters/router-context-adapters.module.ts","id":"01a08e35-2512-7620-ba36-cc10442965af"}
 {"propertySlug":"decision-kind","path":"code/router-app/properties/root-route.code-file-property.ts","id":"01a063f3-c2ad-7357-b6ab-267960198089"}
 {"propertySlug":"decision-kind","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}

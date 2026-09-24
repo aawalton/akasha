@@ -1,7 +1,6 @@
 import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules/error-capture-installer/error-capture-installer.module.code.tsx"
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
 import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
-import { rootNonceLoader } from "akasha/code/router-app/modules/root-nonce-loader/root-nonce-loader.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { PushRegistrationSync } from "akasha/product/smilingjenny/web/modules/jenny-push-registration-sync/jenny-push-registration-sync.module.code.tsx"
 import type React from "react"
@@ -15,8 +14,6 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "What the system holds." },
   { name: "viewport", content: "width=device-width, initial-scale=1, viewport-fit=cover" },
 ]
-
-export const loader = rootNonceLoader
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useDocumentNonce()

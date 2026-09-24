@@ -3,7 +3,6 @@ import { ErrorCaptureInstaller } from "akasha/alan/harness/errors-client/modules
 import { useReportRenderError } from "akasha/alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.code.ts"
 import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
-import { rootNonceLoader } from "akasha/code/router-app/modules/root-nonce-loader/root-nonce-loader.module.code.ts"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type React from "react"
 import { isRouteErrorResponse, Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router"
@@ -17,8 +16,6 @@ export const meta: Route.MetaFunction = () => [
   { title: "audhdalan" },
   { name: "description", content: "audhdalan.com" },
 ]
-
-export const loader = rootNonceLoader
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useDocumentNonce()
