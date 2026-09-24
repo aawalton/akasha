@@ -51,6 +51,7 @@ export const readout = {
     "relation-property/readout-color",
     "select-property/counted-on",
     "relation-property/counted-from",
+    "text-property/count-name",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -104,6 +105,7 @@ export const readout = {
     { pageProperty: "relation-property/readout-color", required: false, many: false },
     { pageProperty: "select-property/counted-on", required: false, many: false },
     { pageProperty: "relation-property/counted-from", required: false, many: false },
+    { pageProperty: "text-property/count-name", required: false, many: false },
   ],
   decisions: [
     {
