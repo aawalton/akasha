@@ -5,7 +5,7 @@ export const connectionActivityEnergy = {
   type: "page-type/number-property",
   slug: "connection-activity-energy",
   propertySlug: "connection-activity-energy",
-  definition: "how much life they bring to it",
+  definition: "how much energy they bring to it",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
