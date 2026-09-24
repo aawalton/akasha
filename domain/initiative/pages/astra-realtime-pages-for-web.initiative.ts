@@ -7,6 +7,10 @@ export const astraRealtimePagesForWeb = {
   domain: "page-type/page",
   persona: "persona/astra",
   intentStack: [
+    {
+      statement:
+        "Every piece of data a web app shows is updated as soon as it changes, with no refresh.",
+    },
     { statement: "A browser is pushed each change to a page or list it shows, and to no other." },
     {
       statement:
