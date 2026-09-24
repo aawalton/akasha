@@ -32,6 +32,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/transaction-tags.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/readout/properties/attribute.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/readout/properties/color-from.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/readout/properties/counted-from.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/readout/properties/read-live-from.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/readout/properties/readout-color.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"alan/harness/readout/properties/scale.relation-property.ts"}

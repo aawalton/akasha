@@ -231,6 +231,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/text-property/text-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/url-property/url-property.page-type.types.ts"}
 {"propertySlug":"parts","path":"page/type/page-type.page-type.ts","id":"01a049ae-fe2c-7343-8ab6-f94d8927164a"}
+{"propertySlug":"target-page-type","path":"alan/harness/readout/properties/counted-from.relation-property.ts","id":"01a0d4a9-9918-7438-96d4-7f5c46c114fb"}
 {"propertySlug":"target-page-type","path":"page/one-of-property/properties/members.multi-relation-property.ts","id":"01a062b2-e0c9-78a5-b56b-6dc7519eded7"}
 {"propertySlug":"target-page-type","path":"page/type/page-property/properties/unique-property.relation-property.ts","id":"01a07c96-3272-7d36-9394-051287145f2a"}
 {"propertySlug":"target-page-type","path":"page/type/properties/owner.relation-property.ts","id":"01a06c50-b15f-7d22-9f4b-7590e602dd05"}
