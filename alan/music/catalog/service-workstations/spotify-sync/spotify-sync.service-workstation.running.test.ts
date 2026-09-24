@@ -40,7 +40,18 @@ test("the run is the only way into this file, so the service has one entry", () 
 
 test("a run turns the syncing module's own sweep rather than a sweep written again here", async () => {
   await running.runService()
-  expect(HANDED).toEqual([[]])
+  expect(HANDED).toHaveLength(1)
+})
+
+test("a run hands the sweep the words its process was started with, so a flag reaches it", async () => {
+  const was = process.argv
+  process.argv = ["bun", "spotify-sync.js", "--only", "imagine-dragons"]
+  try {
+    await running.runService()
+  } finally {
+    process.argv = was
+  }
+  expect(HANDED).toEqual([["--only", "imagine-dragons"]])
 })
 
 test("this run paces itself at a second a call rather than at the client's default", async () => {

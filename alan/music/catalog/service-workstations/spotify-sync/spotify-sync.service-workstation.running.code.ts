@@ -4,6 +4,6 @@ const PACE_MS = "1000"
 
 export async function runService(): Promise<void> {
   process.env["SPOTIFY_RATE_LIMIT_MS"] ??= PACE_MS
-  const code = await main([])
+  const code = await main(process.argv.slice(2))
   if (code !== 0) process.exit(code)
 }

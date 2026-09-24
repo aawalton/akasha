@@ -42,5 +42,14 @@ export const spotifySync = {
       decisionKind: "decision-kind/departure",
       statement: "A run that filed nothing new is a run that succeeded.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run is handed the flags its bundle was started with, so one run can name an artist.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The timer starts the bundle with no flag, so a timed run sweeps the artists due.",
+    },
   ],
 } as const satisfies ServiceWorkstation
