@@ -9,3 +9,7 @@ Then the fire gutters down and the dark slides back in — quieter, now, than it
 The core in your other hand has gone dark and cold. You spent its last in the wave — an empty stone now, no glow left to give. You have your low-charged mace, your own fire, and the dark above you still to climb.
 
 And the Tower marks the kill.
+
+:::level-up
+level: 5
+:::
