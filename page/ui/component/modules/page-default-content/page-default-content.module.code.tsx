@@ -119,17 +119,15 @@ export function PageDefaultContent({
                 )}
               </div>
 
-              <ToggleSection label="Properties" defaultOpen>
-                <PageDetailProperties
-                  definitions={propertyListDefs}
-                  data={data}
-                  pageId={id}
-                  pageTypeSlug={targetSlug ?? undefined}
-                  editable={editing}
-                  onPropertyChange={editing ? handlePropertyChange : undefined}
-                  onPageNavigate={handlePageNavigate}
-                />
-              </ToggleSection>
+              <PageDetailProperties
+                definitions={propertyListDefs}
+                data={data}
+                pageId={id}
+                pageTypeSlug={targetSlug ?? undefined}
+                editable={editing}
+                onPropertyChange={editing ? handlePropertyChange : undefined}
+                onPageNavigate={handlePageNavigate}
+              />
 
               {editing &&
                 targetSlug != null &&
