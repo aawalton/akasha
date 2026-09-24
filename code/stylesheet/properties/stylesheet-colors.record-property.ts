@@ -15,6 +15,10 @@ export const stylesheetColors = {
       decisionKind: "decision-kind/departure",
       statement: "The hex a custom property named here holds is the hex its color page states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The `color-writing` change generator writes that hex into the rules.",
+    },
   ],
   types: "ts",
 } as const satisfies RecordProperty

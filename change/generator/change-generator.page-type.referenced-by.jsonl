@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"change/runner/change-generators/addressing/change-runner-addressing.change-generator.ts"}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.change-generator.ts"}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.ts"}
+{"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"code/stylesheet/modules/color-writing/color-writing.change-generator.ts"}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.ts"}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"code/workspace/change-generators/lockfile-making/lockfile-making.change-generator.ts"}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"command/modules/value-minting/value-minting.change-generator.ts"}

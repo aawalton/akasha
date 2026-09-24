@@ -1957,6 +1957,7 @@
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-seat-stating/terminal-seat-stating.module.ts","id":"01a0680a-fa30-7f40-a5ba-c3374e395ecb"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/shell-terminal.domain.ts","id":"01a0884d-5f98-745e-bc9f-ced0318936eb"}
 {"propertySlug":"decision-kind","path":"code/spawning/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
+{"propertySlug":"decision-kind","path":"code/stylesheet/modules/color-writing/color-writing.change-generator.ts","id":"01a0d591-e237-71ef-a466-2b16cf15dffc"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.ts","id":"01a08293-ce34-754b-8be5-2829fd5fb36e"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/properties/reached.file-property.ts","id":"01a0be69-6956-778e-b4d2-535b2dc1b146"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/properties/styles.file-property.ts","id":"01a05b01-48b2-7b95-9b72-f48b799f4e5c"}

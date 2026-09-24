@@ -10,6 +10,7 @@ export const stylesheet = {
     "file-property/reached",
     "file-property/styles",
     "change-generator/source-globbing",
+    "change-generator/color-writing",
     "record-property/stylesheet-colors",
     "relation-property/stylesheet-color",
     "text-property/stylesheet-color-name",
