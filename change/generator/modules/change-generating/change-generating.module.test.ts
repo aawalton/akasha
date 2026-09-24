@@ -11,7 +11,7 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 const AUTHORED: Change = { root: "/", changed: [], before: () => null, after: () => null }
 
 function listed(slug: string, runsAfter: readonly string[] = []): Listed {
-  return { slug, beside: `${slug}.code.ts`, at: `${slug}.code.ts`, runsAfter }
+  return { slug, page: `${slug}.ts`, beside: `${slug}.code.ts`, at: `${slug}.code.ts`, runsAfter }
 }
 
 function adding(path: string): FileChange {
@@ -84,6 +84,29 @@ test("a change generator that answers it could not turn adds nothing", () => {
   expect(generatedAlong([listed("a")], AUTHORED, () => AUTHORED, loading).edits).toEqual([])
 })
 
+test("each change generator that ran is costed by what that one run answered", () => {
+  const costed: string[] = []
+  const loading = (_change: Change, at: string): Loaded => {
+    if (at === "a.code.ts") return { missing: "it answers to no `generateChange`" }
+    return { generating: () => ({ edits: [adding(at)], said: [] }) }
+  }
+
+  const ran = generatedAlong(
+    [listed("a"), listed("b"), listed("c")],
+    AUTHORED,
+    () => AUTHORED,
+    loading,
+    (one, running) => {
+      const got = running()
+      costed.push(`${one.page} ${got.edits.length}`)
+      return got
+    }
+  )
+
+  expect(costed).toEqual(["b.ts 1", "c.ts 1"])
+  expect(ran.edits.length).toBe(2)
+})
+
 test("a change generator that broke, gave none or has no code refuses", () => {
   const loading = (_change: Change, at: string): Loaded => {
     if (at === "a.code.ts") return { missing: "it answers to no `generateChange`" }
@@ -93,7 +116,7 @@ test("a change generator that broke, gave none or has no code refuses", () => {
       },
     }
   }
-  const gone: Listed = { slug: "c", beside: "c.code.ts", at: null, runsAfter: [] }
+  const gone: Listed = { slug: "c", page: "c.ts", beside: "c.code.ts", at: null, runsAfter: [] }
 
   const ran = generatedAlong([listed("a"), listed("b"), gone], AUTHORED, () => AUTHORED, loading)
 

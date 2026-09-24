@@ -1,4 +1,7 @@
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { costRecorded, opening } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import {
   bodyFor,
   heldOver,
@@ -26,6 +29,8 @@ const CODE = "code"
 
 const HELD = "ts"
 
+const GENERATE = "generate"
+
 export type Generated = {
   readonly edits: readonly FileChange[]
   readonly said: readonly string[]
@@ -37,6 +42,7 @@ export type Turning = (change: Change) => boolean
 
 export type Listed = {
   readonly slug: string
+  readonly page: string
   readonly beside: string
   readonly at: string | null
   readonly runsAfter: readonly string[]
@@ -52,7 +58,11 @@ export type Ran = Generated & { readonly refused: readonly string[] }
 
 export type Again = (made: readonly FileChange[]) => Change
 
+type Costing = (one: Listed, running: () => Ran) => Ran
+
 const NOTHING: Ran = { edits: [], said: [], refused: [] }
+
+const uncosted: Costing = (_one, running) => running()
 
 export function orderedIn(
   listed: readonly Listed[]
@@ -81,7 +91,8 @@ export function generatedAlong(
   listed: readonly Listed[],
   change: Change,
   again: Again,
-  loading: Loading
+  loading: Loading,
+  costing: Costing = uncosted
 ): Ran {
   const ordered = orderedIn(listed)
   if ("refused" in ordered) return { ...NOTHING, refused: [ordered.refused] }
@@ -109,16 +120,36 @@ export function generatedAlong(
       continue
     }
     const over = handed(one)
-    try {
-      if (loaded.turning !== undefined && !loaded.turning(over)) continue
-      const got = loaded.generating(over)
-      edits.push(...got.edits)
-      said.push(...got.said)
-    } catch (thrown) {
-      refused.push(`\`${one.slug}\` broke — ${saidBy(thrown)}`)
-    }
+    const got = costing(one, () => ranOne(one, loaded, over))
+    edits.push(...got.edits)
+    said.push(...got.said)
+    refused.push(...got.refused)
   }
   return { edits, said, refused }
+}
+
+function ranOne(
+  one: Listed,
+  loaded: { readonly generating: Generating; readonly turning?: Turning },
+  over: Change
+): Ran {
+  try {
+    if (loaded.turning !== undefined && !loaded.turning(over)) return NOTHING
+    return { ...loaded.generating(over), refused: [] }
+  } catch (thrown) {
+    return { ...NOTHING, refused: [`\`${one.slug}\` broke — ${saidBy(thrown)}`] }
+  }
+}
+
+function costedIn(root: string): Costing {
+  return (one, running) => {
+    const before = opening()
+    const ran = running()
+    if (existsSync(join(root, one.page))) {
+      costRecorded(root, one.page, before, GENERATE, one.slug, ran.edits.length, ran.refused.length)
+    }
+    return ran
+  }
 }
 
 function codeIn(shadow: Shadow, change: Change, beside: string): string | null {
@@ -138,7 +169,7 @@ function listedIn(shadow: Shadow, change: Change): readonly Listed[] {
     const runsAfter = (textsAt(value, RUNS_AFTER) ?? []).map((named) =>
       named.startsWith(NAMED) ? named.slice(NAMED.length) : named
     )
-    found.push({ slug, beside, at: codeIn(shadow, change, beside), runsAfter })
+    found.push({ slug, page: one.path, beside, at: codeIn(shadow, change, beside), runsAfter })
   }
   return found
 }
@@ -164,10 +195,16 @@ export function generatedWhole(
 ): Ran & { readonly weighed: number } {
   const listed = listedIn(shadow, change)
   if (listed.length === 0) return { ...NOTHING, weighed: 0 }
-  const ran = generatedAlong(listed, change, again, (asked, at, beside) => {
-    const loaded = loadedIn(asked, at, beside)
-    return "missing" in loaded ? loaded : { generating: loaded.generating }
-  })
+  const ran = generatedAlong(
+    listed,
+    change,
+    again,
+    (asked, at, beside) => {
+      const loaded = loadedIn(asked, at, beside)
+      return "missing" in loaded ? loaded : { generating: loaded.generating }
+    },
+    costedIn(change.root)
+  )
   return { ...ran, weighed: listed.length }
 }
 
@@ -176,5 +213,5 @@ export function generatedOver(change: Change, again: Again): Ran {
   if ("refused" in cast) return NOTHING
   const listed = listedIn(cast.shadow, change)
   if (listed.length === 0) return NOTHING
-  return generatedAlong(listed, change, again, loadedIn)
+  return generatedAlong(listed, change, again, loadedIn, costedIn(change.root))
 }

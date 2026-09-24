@@ -49,8 +49,20 @@ export const changeGenerating = {
       statement: "A run over the whole tree is handed the shadow its caller read the tree through.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each run of a change generator appends what that run cost beside its page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change generator whose page is not on disk yet is run uncosted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change generator given no code is not run, so nothing is costed for it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes to disk.",
+      statement: "Nothing here writes to disk but those costs.",
     },
   ],
 } as const satisfies Module
