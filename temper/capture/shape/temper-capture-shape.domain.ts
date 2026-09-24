@@ -41,7 +41,7 @@ export const temperCaptureShape = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Nothing here has code that runs.",
+      statement: "No module here has code that runs.",
     },
   ],
 } as const satisfies Domain

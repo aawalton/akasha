@@ -12,7 +12,6 @@ export const temperCapture = {
     "domain/temper-capture-sale",
     "domain/temper-capture-datamining",
     "domain/temper-game-catalog-capture-addon",
-    "domain/temper-game-catalog-capture-host",
     "domain/temper-characters-capture-addon",
     "domain/temper-characters-skills-morphs-addon",
     "domain/temper-completion-import",

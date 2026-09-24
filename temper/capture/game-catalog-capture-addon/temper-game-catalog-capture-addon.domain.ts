@@ -53,10 +53,6 @@ export const temperGameCatalogCaptureAddon = {
       statement: "The add-on bundling a collector decides whether that collector runs.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Each catalog answers a reader in `temper-game-catalog-capture-host`.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the player's progress.",
     },

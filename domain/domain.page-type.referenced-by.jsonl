@@ -608,7 +608,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/error/temper-capture-error.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/errors-triage/temper-errors-triage.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/game-catalog-capture-host/temper-game-catalog-capture-host.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/sale/temper-capture-sale.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/shape/temper-capture-shape.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/capture/temper-capture.domain.ts"}
