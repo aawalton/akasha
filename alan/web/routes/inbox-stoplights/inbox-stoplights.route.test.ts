@@ -64,6 +64,15 @@ const READOUT_ROWS = [
     wireKey: "findings",
     groups: [GROUP],
   },
+  {
+    slug: "inboxes-gaps",
+    label: "Gaps",
+    unit: "gaps",
+    place: 5,
+    scale: "gap-count",
+    wireKey: "gaps",
+    groups: [GROUP],
+  },
 ]
 
 const SCALE_ROWS: Record<string, Record<string, unknown>> = {
@@ -82,6 +91,14 @@ const SCALE_ROWS: Record<string, Record<string, unknown>> = {
     greenAt: 1,
     blueAt: 0,
   },
+  "gap-count": {
+    slug: "gap-count",
+    blackAt: 2000,
+    redAt: 500,
+    yellowAt: 100,
+    greenAt: 1,
+    blueAt: 0,
+  },
 }
 
 const CARRIED: readonly (readonly [string, number])[] = [
@@ -89,6 +106,7 @@ const CARRIED: readonly (readonly [string, number])[] = [
   ["inboxes-tasks", 4],
   ["inboxes-temper-tasks", 23],
   ["inboxes-findings", 1],
+  ["inboxes-gaps", 993],
 ]
 
 const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: READOUT_ROWS }
@@ -135,10 +153,11 @@ async function carryAll(at: Date = new Date()): Promise<void> {
   for (const [readout, value] of CARRIED) await carryNow(readout, value, at)
 }
 
-test("the pages naming the inboxes group are the four the fixture holds", () => {
+test("the pages naming the inboxes group are the five the fixture holds", () => {
   expect([...readoutsNaming(GROUP)].sort()).toEqual([
     "inboxes-email",
     "inboxes-findings",
+    "inboxes-gaps",
     "inboxes-tasks",
     "inboxes-temper-tasks",
   ])
@@ -148,9 +167,9 @@ test("the fixture holds every page naming the group and no page it does not", ()
   expect(READOUT_ROWS.map((one) => one.slug).sort()).toEqual([...readoutsNaming(GROUP)])
 })
 
-test("nothing carried in shows four empty rings rather than an empty list", async () => {
+test("nothing carried in shows five empty rings rather than an empty list", async () => {
   const some = await tile.drawn()
-  expect(some.length).toBe(4)
+  expect(some.length).toBe(5)
   for (const one of some) {
     expect(one.readingHeld).toBe("none")
     expect(one.reading).toBe("")
@@ -158,9 +177,9 @@ test("nothing carried in shows four empty rings rather than an empty list", asyn
   }
 })
 
-test("all four inboxes come back when all four have been carried in", async () => {
+test("all five inboxes come back when all five have been carried in", async () => {
   await carryAll()
-  expect((await tile.drawn()).length).toBe(4)
+  expect((await tile.drawn()).length).toBe(5)
 })
 
 test("every stoplight carries its key under `inbox` rather than under `habit`", async () => {
@@ -171,13 +190,14 @@ test("every stoplight carries its key under `inbox` rather than under `habit`", 
   }
 })
 
-test("the four keys are the four the widget looks its labels up by", async () => {
+test("the five keys are the five the widget looks its labels up by", async () => {
   await carryAll()
   expect((await tile.drawn()).map((one) => one.inbox)).toEqual([
     "email",
     "tasks",
     "temperTasks",
     "findings",
+    "gaps",
   ])
 })
 
@@ -188,10 +208,22 @@ test("the rings come back in the place order the readout pages state", async () 
     "Tasks",
     "Temper",
     "Findings",
+    "Gaps",
   ])
 })
 
-test("the findings are the last ring, coloured by the daily inbox scale", async () => {
+test("the gaps are the last ring, coloured by the gap count scale", async () => {
+  await carryAll()
+  const gaps = (await tile.drawn())[4]
+  expect(gaps?.inbox).toBe("gaps")
+  expect(gaps?.reading).toBe("993")
+  expect(gaps?.tier).toBe("red")
+  expect(gaps?.nextTier).toBe("yellow")
+  await carryNow("inboxes-gaps", 99)
+  expect((await tile.ringFor("gaps"))?.tier).toBe("green")
+})
+
+test("the findings are the fourth ring, coloured by the daily inbox scale", async () => {
   await carryAll()
   const findings = (await tile.drawn())[3]
   expect(findings?.inbox).toBe("findings")
@@ -204,8 +236,14 @@ test("the findings are the last ring, coloured by the daily inbox scale", async 
 test("an inbox with no fresh reading keeps its ring rather than leaving the tile short", async () => {
   await carryNow("inboxes-email", 0)
   const some = await tile.drawn()
-  expect(some.length).toBe(4)
-  expect(some.map((one) => one.inbox)).toEqual(["email", "tasks", "temperTasks", "findings"])
+  expect(some.length).toBe(5)
+  expect(some.map((one) => one.inbox)).toEqual([
+    "email",
+    "tasks",
+    "temperTasks",
+    "findings",
+    "gaps",
+  ])
   expect((await tile.ringFor("email"))?.reading).toBe("0")
   expect((await tile.ringFor("email"))?.readingHeld).toBeUndefined()
   expect((await tile.ringFor("tasks"))?.reading).toBe("")
@@ -283,7 +321,7 @@ test("a count is written as the number the relay carried rather than rounded off
 test("a reading taken long ago keeps the count it holds on the ring", async () => {
   await carryAll(new Date(Date.now() - 46 * 60_000))
   const some = await tile.drawn()
-  expect(some.length).toBe(4)
+  expect(some.length).toBe(5)
   for (const one of some) {
     expect(one.readingHeld).toBeUndefined()
     expect(one.reading).not.toBe("")

@@ -767,6 +767,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/tracking-polling/inbox-tracking-polling.module.ts","id":"01a0686a-7a57-72a3-bd0e-04ddd401bb78"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts","id":"01a06230-b155-7d69-9e39-eb26b5607d9e"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.ts","id":"01a0d478-0472-7189-9cdb-5ede424fdaaa"}
+{"propertySlug":"decision-kind","path":"alan/harness/inbox/readouts/inboxes-gaps/inboxes-gaps.readout.ts","id":"01a0d4e7-cbcc-7719-93ec-dc6e638d9353"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts","id":"01a06230-b156-7d81-a78b-ca66f6f5da77"}
 {"propertySlug":"decision-kind","path":"alan/harness/location-trace-access/location-trace-access.domain.ts","id":"01a05bc7-9129-700a-81c5-e2dfa20709ec"}
 {"propertySlug":"decision-kind","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.ts","id":"01a05bc7-9129-700d-9b3a-ba23544a6e88"}

@@ -21,6 +21,7 @@ export const inbox = {
     "readout/inboxes-email",
     "readout/inboxes-tasks",
     "readout/inboxes-findings",
+    "readout/inboxes-gaps",
     "service-workstation/inbox-count-watch-service",
     "service-workstation/inbox-relay-service",
     "service-workstation/inbox-tracking-poll",

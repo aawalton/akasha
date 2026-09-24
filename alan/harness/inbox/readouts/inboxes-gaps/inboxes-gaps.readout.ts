@@ -1,19 +1,19 @@
 import type { Readout } from "akasha/alan/harness/readout/readout.page-type.types.ts"
 
-export const inboxesFindings = {
-  id: "01a0d478-0472-7189-9cdb-5ede424fdaaa",
+export const inboxesGaps = {
+  id: "01a0d4e7-cbcc-7719-93ec-dc6e638d9353",
   type: "page-type/readout",
-  slug: "inboxes-findings",
-  definition: "how many findings are waiting",
-  label: "Findings",
-  unit: "findings",
-  place: 4,
-  scale: "readout-scale/daily-inbox",
+  slug: "inboxes-gaps",
+  definition: "how many gaps are left",
+  label: "Gaps",
+  unit: "gaps",
+  place: 5,
+  scale: "readout-scale/gap-count",
   groups: ["readout-group/inboxes"],
-  wireKey: "findings",
+  wireKey: "gaps",
   countedOn: "eso-day",
-  countedFrom: "number-property/inbox-findings",
-  countName: "finding count",
+  countedFrom: "number-property/inbox-gaps",
+  countName: "gap count",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -21,16 +21,16 @@ export const inboxesFindings = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The count is how many finding pages there are, whatever domain each is of.",
+      statement: "The count is how many gaps the pages state, as the gaps panel counts them.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The findings come just before the gaps in the group.",
+      statement: "The gaps are the last inbox in the group.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The findings take the daily inbox scale, so one finding is yellow and ten are red.",
+        "The gaps take the gap count scale rather than the daily inbox scale, so a thousand gaps are red.",
     },
     {
       decisionKind: "decision-kind/departure",

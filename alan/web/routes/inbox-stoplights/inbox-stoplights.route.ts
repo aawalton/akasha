@@ -23,7 +23,7 @@ export const inboxStoplights = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Both inbox scales fall rather than climb.",
+      statement: "Every inbox scale falls rather than climbs.",
     },
   ],
 } as const satisfies Route
