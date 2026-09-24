@@ -10,7 +10,7 @@ export const theTowerCisternWalkway = {
   within: "place/the-tower-floor-02",
   depth: 2,
   description:
-    "A ring of cracked stone walkway just above the waterline, the only dry footing near the entrance. The flood fills the undercroft below it. A toppled brazier-stand lies half in the water; a coil of rotted rope hangs from a wall ring.",
+    "A ring of cracked stone walkway just above the waterline, the only dry footing near the entrance. The flood fills the undercroft below it. An empty iron ring is set in the wall above the water.",
   exits: [
     {
       to: "place/the-tower-ember-chamber",
