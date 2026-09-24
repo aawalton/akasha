@@ -18,6 +18,7 @@ import { gitRestore as page } from "akasha/command/pages/git/restore/git-restore
 import { anythingThere } from "akasha/file/disk/modules/anything-there/anything-there.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import { z } from "zod"
 
 const HEAD = "HEAD"
 
@@ -37,6 +38,10 @@ const MODES = new Map<string, number>([
 const TREE_ENTRY = /^(\d{6}) ([a-z]+) ([0-9a-f]+)\t(.*)$/
 
 const INDEX_ENTRY = /^(\d{6}) ([0-9a-f]+) ([0-3])\t(.*)$/
+
+const TREE_FOUND = z.tuple([z.string(), z.string(), z.string(), z.string(), z.string()])
+
+const INDEX_FOUND = z.tuple([z.string(), z.string(), z.string(), z.string(), z.string()])
 
 export type Entry = {
   readonly mode: string
@@ -66,9 +71,10 @@ export type Refused = {
 function headEntries(root: string, paths: readonly string[]): ReadonlyMap<string, Entry> {
   const found = new Map<string, Entry>()
   for (const one of gitIn(root, ["ls-tree", "-z", HEAD, "--", ...paths]).split("\0")) {
-    const read = TREE_ENTRY.exec(one)
-    if (read === null) continue
-    found.set(read[4] ?? "", { mode: read[1] ?? "", kind: read[2] ?? "", oid: read[3] ?? "" })
+    const read = TREE_FOUND.safeParse(TREE_ENTRY.exec(one))
+    if (!read.success) continue
+    const [, mode, kind, oid, path] = read.data
+    found.set(path, { mode, kind, oid })
   }
   return found
 }
@@ -76,9 +82,11 @@ function headEntries(root: string, paths: readonly string[]): ReadonlyMap<string
 function indexEntries(root: string, paths: readonly string[]): ReadonlyMap<string, Entry> {
   const found = new Map<string, Entry>()
   for (const one of gitIn(root, ["ls-files", "-s", "-z", "--", ...paths]).split("\0")) {
-    const read = INDEX_ENTRY.exec(one)
-    if (read === null || read[3] !== STAGED) continue
-    found.set(read[4] ?? "", { mode: read[1] ?? "", kind: BLOB, oid: read[2] ?? "" })
+    const read = INDEX_FOUND.safeParse(INDEX_ENTRY.exec(one))
+    if (!read.success) continue
+    const [, mode, oid, stage, path] = read.data
+    if (stage !== STAGED) continue
+    found.set(path, { mode, kind: BLOB, oid })
   }
   return found
 }
