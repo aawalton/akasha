@@ -62,6 +62,7 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
     return told([
       written,
       `${Math.round(box.width)} by ${Math.round(box.height)}, built at ${staged.builtAt}`,
+      `the game's interface is up with ${String(staged.refused.length)} of its files refused`,
       `\`${window.control}\` sits at ${Math.round(snapshot.left)}, ${Math.round(snapshot.top)}` +
         ` and is ${Math.round(snapshot.width)} by ${Math.round(snapshot.height)}`,
     ])

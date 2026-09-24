@@ -44,6 +44,10 @@ export const temperPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The answer says how many of the game's own files the sandbox refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The folder the file sits in is made where that folder is not there already.",
     },
     {

@@ -8,6 +8,7 @@ import {
   esoLiveDirCandidates,
   esouiSourceDir,
 } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
+import { gameFiles } from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
 import type { UiHarness } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import { openUiHarness } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import {
@@ -30,17 +31,6 @@ const SAVED_UNDER = "SavedVariables"
 const PER_CHUNK = 40
 
 const UNPINNED = "no commit"
-
-const LOADED_FIRST: readonly string[] = [
-  "libraries/globals/globalapi.lua",
-  "libraries/utility/zo_tableutils.lua",
-  "libraries/utility/baseobject.lua",
-  "libraries/utility/zo_objectpool.lua",
-  "libraries/utility/zo_callbackobject.lua",
-  "libraries/utility/zo_savedvars.lua",
-  "libraries/zo_templates/objectpooltemplates.lua",
-  "libraries/zo_templates/scrolltemplates.lua",
-]
 
 const ACCOUNT_WIDE = `
 function __ui_accounts()
@@ -123,6 +113,7 @@ export type Staged = {
   readonly harness: UiHarness
   readonly builtAt: string
   readonly templates: number
+  readonly refused: readonly string[]
 }
 
 export type StagingAsked = {
@@ -167,23 +158,34 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
   const documents = documentsFor(asked.root)
   const virtuals = virtualsFrom(documents)
   const chunks = virtualsLua(virtuals, PER_CHUNK)
-  const declaring = declaredLua(declaredFrom(documents, virtuals), asked.shows, PER_CHUNK)
   const esoui = esouiSourceDir()
   const harness = await openUiHarness()
   try {
     const templates = await harness.templates(chunks)
-    for (const chunk of declaring) await harness.load(`return ${chunk}`)
+    const refused: string[] = []
+    for (const file of gameFiles(esoui)) {
+      const text = readFileSync(file.at, "utf8")
+      if (file.kind === "lua") {
+        try {
+          await harness.load(text)
+        } catch {
+          refused.push(file.at)
+        }
+        continue
+      }
+      const declared = declaredFrom([text], virtuals)
+      for (const chunk of declaredLua(declared, Object.keys(declared), PER_CHUNK)) {
+        await harness.load(`return ${chunk}`)
+      }
+    }
     for (const name of asked.shows) {
       await harness.load(`return __ui_show(${JSON.stringify(name)})`)
-    }
-    for (const rel of LOADED_FIRST) {
-      await harness.load(readFileSync(join(esoui, rel), "utf8"))
     }
     await harness.load(ACCOUNT_WIDE)
     await harness.loadBundle(readFileSync(bundleAt, "utf8"))
     for (const source of seeded) await harness.load(source)
     await harness.load("return __ui_play_as()")
-    return { harness, builtAt: builtAtCommit(asked.root), templates }
+    return { harness, builtAt: builtAtCommit(asked.root), templates, refused }
   } catch (thrown) {
     await harness.close()
     throw thrown

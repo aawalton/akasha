@@ -29,16 +29,20 @@ export const uiStaging = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A library the game loads before an addon is loaded here in the order the game loads it.",
+        "The game's whole ingame interface, Lua and documents, is loaded in the game's own order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A document's windows are built where that document falls in the order.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A window of the game's own that a caller names is built and shown before the addon.",
+        "A game file the sandbox refuses is named and passed over, so the addon still comes up.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window of the game's own is built so an addon docking to it finds it there.",
+      statement: "A window of the game's own that a caller names is shown before the addon.",
     },
     {
       decisionKind: "decision-kind/departure",
