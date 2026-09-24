@@ -5,6 +5,7 @@ export const ember = {
   type: "page-type/temper-companion-progress",
   slug: "ember",
   title: "Ember",
+  completion: "json",
   companionId: "temper-eso-companion/ember",
   accountPage: "temper-account/alanarre",
 } as const satisfies TemperCompanionProgress
