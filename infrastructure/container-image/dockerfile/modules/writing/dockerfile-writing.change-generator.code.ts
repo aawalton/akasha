@@ -1,7 +1,10 @@
+import { existsSync, readdirSync } from "node:fs"
+import { join } from "node:path"
 import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
 import { generateBunServiceDockerfile } from "akasha/infrastructure/container-image/dockerfile/modules/bun-service/dockerfile-bun-service.module.code.ts"
 import {
   type DockerfileExtensions,
@@ -14,6 +17,7 @@ import {
 } from "akasha/infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"
 import { generateNextjsDockerfile } from "akasha/infrastructure/container-image/dockerfile/modules/nextjs/dockerfile-nextjs.module.code.ts"
 import { generateToolImageDockerfile } from "akasha/infrastructure/container-image/dockerfile/modules/tool-image/dockerfile-tool-image.module.code.ts"
+import { copiedIn } from "akasha/infrastructure/container-image/modules/image-inputs/image-inputs.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -33,7 +37,9 @@ const WRITERS = "infrastructure/container-image/dockerfile/"
 
 const PATCHES = "patches/"
 
-const SOURCE = /\.(ts|tsx|mts|js|jsx|mjs|json)$/
+const BUILT_IMAGES = "infrastructure/container-image/dockerfile/built-image"
+
+const DOCKERFILE_NAME = "Dockerfile"
 
 type Written = {
   readonly edits: readonly (Adding | Replacing)[]
@@ -110,10 +116,28 @@ function writtenOver(change: Change): Written {
   return { edits, said }
 }
 
+function copiedNow(root: string): readonly string[] {
+  const at = join(root, BUILT_IMAGES)
+  if (!existsSync(at)) return []
+  const found: string[] = []
+  for (const one of readdirSync(at, { withFileTypes: true })) {
+    if (!one.isDirectory()) continue
+    const text = textOnDisk(join(at, one.name, DOCKERFILE_NAME))
+    if (text !== null) found.push(...copiedIn(text))
+  }
+  return found
+}
+
+function reaches(path: string, copied: readonly string[]): boolean {
+  return copied.some((one) => path === one || path.startsWith(`${one}/`))
+}
+
 export function couldTurn(change: Change): boolean {
-  return change.changed.some(
-    (path) => path.startsWith(WRITERS) || path.startsWith(PATCHES) || SOURCE.test(path)
-  )
+  if (change.changed.some((path) => path.startsWith(WRITERS) || path.startsWith(PATCHES))) {
+    return true
+  }
+  const copied = copiedNow(change.root)
+  return change.changed.some((path) => reaches(path, copied))
 }
 
 export function generateChange(change: Change): Written {

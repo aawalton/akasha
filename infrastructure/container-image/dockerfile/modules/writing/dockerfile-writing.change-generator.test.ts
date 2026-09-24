@@ -8,13 +8,13 @@ function changing(...changed: string[]): Change {
   return { root: ROOT, changed, before: () => null, after: () => null }
 }
 
-test("a change touching code, a manifest, a patch or an image could turn a Dockerfile", () => {
-  expect(couldTurn(changing("a/b.code.ts"))).toBe(true)
+test("a change touching what a Dockerfile copies, a patch or an image could turn one", () => {
+  expect(couldTurn(changing("infrastructure/network/auth-proxy/one.module.code.ts"))).toBe(true)
   expect(couldTurn(changing("package.json"))).toBe(true)
   expect(couldTurn(changing("patches/one.patch"))).toBe(true)
   expect(couldTurn(changing("infrastructure/container-image/dockerfile/x/Dockerfile"))).toBe(true)
 })
 
 test("a change touching none of those writes nothing", () => {
-  expect(couldTurn(changing("a/b.md", "c/d.entries.uncommitted.jsonl"))).toBe(false)
+  expect(couldTurn(changing("nowhere/b.code.ts", "c/d.entries.uncommitted.jsonl"))).toBe(false)
 })

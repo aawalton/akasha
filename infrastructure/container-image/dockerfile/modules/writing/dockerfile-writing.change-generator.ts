@@ -28,7 +28,8 @@ export const dockerfileWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A change touching no code, no manifest, no patch and no image writes nothing.",
+      statement:
+        "A change touching nothing a Dockerfile copies, no patch and no image writes nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
