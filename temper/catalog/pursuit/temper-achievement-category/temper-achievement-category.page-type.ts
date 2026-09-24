@@ -8,7 +8,6 @@ export const temperAchievementCategory = {
   extends: ["page-type/temper-pursuit-thing"],
   parts: [
     "number-property/achievement-points",
-    "number-property/eso-achievement-id",
     "number-property/total-steps",
     "page-property-entry/achievements",
     "relation-property/achievement-category-parent",

@@ -64,3 +64,4 @@
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/western-skyrim/western-skyrim.temper-world-zone.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/wrothgar/wrothgar.temper-world-zone.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/temper-world.domain.ts","id":"01a05fba-ce3d-792d-9f9f-937d79f8f4d9"}
+{"propertySlug":"target-page-type","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/world-zone.relation-property.ts","id":"01a0d5d4-6c7f-712a-86b7-e6a314ba29a0"}

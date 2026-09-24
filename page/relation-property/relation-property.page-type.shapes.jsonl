@@ -231,3 +231,4 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-weapon-trait","unique":null,"uniquePropertySlug":null,"slug":"weapon-trait","propertySlug":"weapon-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-location","unique":null,"uniquePropertySlug":null,"slug":"within-location","propertySlug":"within","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world","unique":null,"uniquePropertySlug":null,"slug":"world","propertySlug":"world","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-world-zone","unique":null,"uniquePropertySlug":null,"slug":"world-zone","propertySlug":"world-zone","fileName":null,"folderName":null}

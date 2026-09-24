@@ -360,7 +360,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-type/properties/weapon-type-power.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/thing/properties/potion-seconds.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievement-points.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/eso-achievement-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/total-steps.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/eso-antiquity-category-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/eso-antiquity-id.number-property.ts","typed":true,"deferred":false}
@@ -394,6 +393,11 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/thing/properties/quality-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/thing/properties/value-per-ability.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/thing/properties/value-per-piece.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/eso-achievement-id.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-x.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-y.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/place-kinds.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/shard-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/temper-alliance/properties/eso-alliance-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/generator-ran-for-manifest-api-version.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/manifest-api-version.number-property.ts","typed":true,"deferred":false}

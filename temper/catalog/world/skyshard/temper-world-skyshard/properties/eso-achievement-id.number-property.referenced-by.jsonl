@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"eso-achievement-id.number-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievements.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-achievement-id.number-property.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievements.page-property-entry.ts","id":"01a06168-7245-7004-8aa0-eba39e83a4e6"}
+{"propertySlug":"page-property","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}
+{"propertySlug":"parts","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}

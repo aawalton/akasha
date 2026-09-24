@@ -71,5 +71,6 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/nested-effect.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-positions.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

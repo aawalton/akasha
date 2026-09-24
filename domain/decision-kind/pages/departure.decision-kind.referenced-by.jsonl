@@ -5033,6 +5033,9 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/modules/skyshards-pc-slash/skyshards-pc-slash.module.ts","id":"01a061a8-9c6b-7884-af1c-4c6c3e02243e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/skyshards-string-ids/skyshards-string-ids.type-declaration.ts","id":"01a061a8-9c6c-77af-ab8d-fc301a1713ff"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-positions.record-property.ts","id":"01a0d5d4-6c7f-7827-8e5a-9a56d314ea76"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/place-kinds.number-property.ts","id":"01a0d5d4-6c7f-7d11-b6a8-b978871353e0"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/pois.page-property-entry.ts","id":"01a06167-3f9b-700b-ab48-cb7aa724cc9c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/zone-completion-activities.page-property-entry.ts","id":"01a06167-3f9b-700c-82b9-015808eb9637"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/zone/properties/zone-quests.page-property-entry.ts","id":"01a06167-3f9b-700a-9b12-ff06441e9392"}

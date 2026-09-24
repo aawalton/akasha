@@ -558,6 +558,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/material.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/poi-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/thing/properties/value-type.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-folder.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-tile.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/api-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/properties/generator-ran-for-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/world/temper-dungeon/properties/solo-difficulty.text-property.ts","typed":true,"deferred":false}

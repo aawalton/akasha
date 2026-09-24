@@ -43,6 +43,7 @@ export const temperSkyshard = {
     "module/skyshards-start",
     "module/skyshards-types",
     "module/skyshards-ui-strings",
+    "page-type/temper-world-skyshard",
     "type-declaration/skyshards-controls",
     "type-declaration/skyshards-string-ids",
   ],
