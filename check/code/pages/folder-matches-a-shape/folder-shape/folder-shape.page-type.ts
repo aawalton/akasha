@@ -191,14 +191,6 @@ export const folderShape = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A folder with a page type beside a second page answers for the page type.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That second page is a domain of the page type's slug.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A folder holding more than one page otherwise answers with nothing.",
     },
     {

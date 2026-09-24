@@ -181,6 +181,21 @@ test("a workspace beside a domain answers for the domain and for what that domai
   expect([...holds("").declared]).toEqual(["domain/agents"])
 })
 
+const PAIRED_TYPE = "seat/seat.page-type.ts"
+
+const PAIRED_DOMAIN = "seat/seat.domain.ts"
+
+test("a page beside a domain of its own slug answers for neither", () => {
+  const holds = holdingOver(
+    { pageByPath: () => ({ pageTypeSlug: "page-type", slug: "seat" }) },
+    { at: () => [PAIRED_TYPE, PAIRED_DOMAIN], foldersIn: () => [] },
+    new Set<string>(["domain", "page-type"]),
+    new Set<string>()
+  )
+  expect(holds("seat").names).toEqual([])
+  expect(holds("seat").holds).toEqual([])
+})
+
 const CHAPTER_AT = "story/world/pages/ember/stories/read/dawn/chapters/one.story-chapter-read.ts"
 
 const DEPARTURE_AT = `${decisionKind.slug}/${departure.slug}` as const
