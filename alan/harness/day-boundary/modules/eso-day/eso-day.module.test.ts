@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import {
+  diffEsoDays,
   getEsoDayStr,
   getEsoDayWindow,
   getEsoResetTime,
@@ -85,10 +86,27 @@ describe("the window a named eso day covers", () => {
     expect(last.end.toISOString()).toBe("2027-01-01T11:00:00.000Z")
   })
 
-  test("a day that is no date is answered with the epoch twice, and no refusal", () => {
-    const nowhere = getEsoDayWindow("not-a-day")
-    expect(nowhere.start.getTime()).toBe(0)
-    expect(nowhere.end.getTime()).toBe(0)
+  test("a day that will not parse is refused, naming the day", () => {
+    expect(() => getEsoDayWindow("not-a-day")).toThrow("'not-a-day'")
+  })
+
+  test("a day of numbers that is no real YYYY-MM-DD date is refused", () => {
+    for (const day of ["2026-02-30", "2026-13-01", "2026-1-5", "2026-01-15T00:00", ""]) {
+      expect(() => getEsoDayWindow(day)).toThrow(`'${day}'`)
+    }
+  })
+})
+
+describe("the calendar days between two eso days", () => {
+  test("two days are counted apart as calendar days, across a clock change", () => {
+    expect(diffEsoDays("2026-03-09", "2026-03-07")).toBe(2)
+    expect(diffEsoDays("2026-01-01", "2026-12-31")).toBe(-364)
+    expect(diffEsoDays("2026-07-04", "2026-07-04")).toBe(0)
+  })
+
+  test("a day that will not parse on either side is refused, naming that day", () => {
+    expect(() => diffEsoDays("not-a-day", "2026-07-04")).toThrow("'not-a-day'")
+    expect(() => diffEsoDays("2026-07-04", "2026-02-30")).toThrow("'2026-02-30'")
   })
 })
 

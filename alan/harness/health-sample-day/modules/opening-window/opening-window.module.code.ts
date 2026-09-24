@@ -128,9 +128,16 @@ export function dayAfter(dayStr: string): string {
   return getEsoDayStr(getEsoDayWindow(dayStr).end)
 }
 
+function esoWindowOf(dayStr: string): { readonly start: Date; readonly end: Date } | null {
+  try {
+    return getEsoDayWindow(dayStr)
+  } catch {
+    return null
+  }
+}
+
 export function openingInstantOn(root: string, dayStr: string): Date | Refused {
-  const esoWindow = getEsoDayWindow(dayStr)
-  if (esoWindow.start.getTime() === 0 || esoWindow.end.getTime() === 0) {
+  if (esoWindowOf(dayStr) === null) {
     return {
       refused: `'${dayStr}' is no day, so there is no evening to read a sleep block against`,
     }
@@ -149,8 +156,8 @@ export function openingInstantOn(root: string, dayStr: string): Date | Refused {
 }
 
 export function spannedWindowIn(root: string, dayStr: string): DayWindow | Refused {
-  const eso = getEsoDayWindow(dayStr)
-  if (eso.start.getTime() === 0 || eso.end.getTime() === 0) {
+  const eso = esoWindowOf(dayStr)
+  if (eso === null) {
     return { refused: `'${dayStr}' is no day, so no span can be counted over it` }
   }
   const opening = openingInstantOn(root, dayStr)

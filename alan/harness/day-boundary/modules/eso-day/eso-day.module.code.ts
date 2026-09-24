@@ -37,18 +37,21 @@ export function getEsoDayStrOffset(now: Date, daysOffset: number): string {
   return dayStrOf(new Date(anchor.getTime() + daysOffset * MS_PER_DAY))
 }
 
-function esoResetInstantForDay(dayStr: string): number | undefined {
+const DAY_FORM = /^\d{4}-\d{2}-\d{2}$/
+
+function calendarDayOf(dayStr: string): readonly [number, number, number] {
   const [y, m, d] = dayStr.split("-").map(Number)
-  if (
-    y === undefined ||
-    m === undefined ||
-    d === undefined ||
-    Number.isNaN(y) ||
-    Number.isNaN(m) ||
-    Number.isNaN(d)
-  ) {
-    return undefined
+  if (DAY_FORM.test(dayStr) && y !== undefined && m !== undefined && d !== undefined) {
+    const at = new Date(Date.UTC(y, m - 1, d))
+    if (at.getUTCFullYear() === y && at.getUTCMonth() === m - 1 && at.getUTCDate() === d) {
+      return [y, m, d]
+    }
   }
+  throw new Error(`'${dayStr}' is no real date written YYYY-MM-DD, so it names no ESO day`)
+}
+
+function esoResetInstantForDay(dayStr: string): number {
+  const [y, m, d] = calendarDayOf(dayStr)
   const candidateNyMs = Date.UTC(y, m - 1, d, 6, 0, 0, 0)
   const approx = candidateNyMs - nyOffsetMs(candidateNyMs)
   return candidateNyMs - nyOffsetMs(approx)
@@ -56,35 +59,13 @@ function esoResetInstantForDay(dayStr: string): number | undefined {
 
 export function getEsoDayWindow(dayStr: string): { start: Date; end: Date } {
   const startMs = esoResetInstantForDay(dayStr)
-  if (startMs === undefined) {
-    return { start: new Date(0), end: new Date(0) }
-  }
   const endMs = esoResetInstantForDay(dayAfter(dayStr))
-  if (endMs === undefined) {
-    return { start: new Date(0), end: new Date(0) }
-  }
   return { start: new Date(startMs), end: new Date(endMs) }
 }
 
 export function diffEsoDays(later: string, earlier: string): number {
-  const [ly, lm, ld] = later.split("-").map(Number)
-  const [ey, em, ed] = earlier.split("-").map(Number)
-  if (
-    ly === undefined ||
-    lm === undefined ||
-    ld === undefined ||
-    ey === undefined ||
-    em === undefined ||
-    ed === undefined ||
-    Number.isNaN(ly) ||
-    Number.isNaN(lm) ||
-    Number.isNaN(ld) ||
-    Number.isNaN(ey) ||
-    Number.isNaN(em) ||
-    Number.isNaN(ed)
-  ) {
-    return 0
-  }
+  const [ly, lm, ld] = calendarDayOf(later)
+  const [ey, em, ed] = calendarDayOf(earlier)
   const laterMs = Date.UTC(ly, lm - 1, ld)
   const earlierMs = Date.UTC(ey, em - 1, ed)
   return Math.round((laterMs - earlierMs) / MS_PER_DAY)

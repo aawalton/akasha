@@ -116,9 +116,8 @@ test("an instant past six the evening stays on its day while no sleep opens the 
   expect(openedDayOf(roots, new Date("2026-07-07T03:00:00.000Z"))).toBe(LATE)
 })
 
-test("what is no day at all answers a window at the epoch", () => {
-  expect(openedDayWindow(sleptWorld("akasha-opened-noday-"), "not-a-day")).toEqual({
-    from: "1970-01-01T00:00:00.000Z",
-    to: "1970-01-01T00:00:00.000Z",
-  })
+test("what is no day at all is refused, naming the day", () => {
+  expect(() => openedDayWindow(sleptWorld("akasha-opened-noday-"), "not-a-day")).toThrow(
+    "'not-a-day'"
+  )
 })
