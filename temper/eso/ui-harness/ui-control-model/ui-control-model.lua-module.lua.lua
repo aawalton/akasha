@@ -99,6 +99,7 @@ dress = function(control, spec)
   if spec.hidden ~= nil then control:SetHidden(spec.hidden) end
   if spec.alpha ~= nil then control:SetAlpha(spec.alpha) end
   if spec.mouseEnabled ~= nil then control:SetMouseEnabled(spec.mouseEnabled) end
+  if spec.resizeToFit ~= nil then control:SetResizeToFitDescendents(spec.resizeToFit) end
   if spec.width ~= nil then control.uiWidth = spec.width end
   if spec.height ~= nil then control.uiHeight = spec.height end
   if spec.font ~= nil then control.uiFont = spec.font end

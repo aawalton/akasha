@@ -179,6 +179,7 @@ function nodeOf(element: Element): VirtualNode {
     hidden: maybeBoolean(element.getAttribute("hidden")),
     alpha: maybeNumber(element.getAttribute("alpha")),
     mouseEnabled: maybeBoolean(element.getAttribute("mouseEnabled")),
+    resizeToFit: maybeBoolean(element.getAttribute("resizeToFitDescendents")),
     width: dimensions === null ? undefined : maybeNumber(dimensions.getAttribute("x")),
     height: dimensions === null ? undefined : maybeNumber(dimensions.getAttribute("y")),
     font: font === null ? undefined : font,
@@ -229,6 +230,7 @@ function luaNode(node: VirtualNode): string {
   if (node.hidden !== undefined) parts.push(`hidden = ${node.hidden}`)
   if (node.alpha !== undefined) parts.push(`alpha = ${node.alpha}`)
   if (node.mouseEnabled !== undefined) parts.push(`mouseEnabled = ${node.mouseEnabled}`)
+  if (node.resizeToFit !== undefined) parts.push(`resizeToFit = ${node.resizeToFit}`)
   if (node.width !== undefined) parts.push(`width = ${node.width}`)
   if (node.height !== undefined) parts.push(`height = ${node.height}`)
   if (node.font !== undefined) parts.push(`font = ${luaText(node.font)}`)

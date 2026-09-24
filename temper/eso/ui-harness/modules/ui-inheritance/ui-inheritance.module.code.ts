@@ -12,6 +12,7 @@ export type VirtualNode = {
   readonly hidden?: boolean
   readonly alpha?: number
   readonly mouseEnabled?: boolean
+  readonly resizeToFit?: boolean
   readonly width?: number
   readonly height?: number
   readonly font?: string
@@ -82,6 +83,7 @@ export function merged(base: VirtualNode, over: VirtualNode): VirtualNode {
     hidden: over.hidden ?? base.hidden,
     alpha: over.alpha ?? base.alpha,
     mouseEnabled: over.mouseEnabled ?? base.mouseEnabled,
+    resizeToFit: over.resizeToFit ?? base.resizeToFit,
     width: over.width ?? base.width,
     height: over.height ?? base.height,
     font: over.font ?? base.font,

@@ -70,5 +70,9 @@ export const uiVirtuals = {
       decisionKind: "decision-kind/absence",
       statement: "No animation an interface document declares is read here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a control grows to fit what it holds is read as the document says it.",
+    },
   ],
 } as const satisfies Module
