@@ -10,5 +10,4 @@ export const decisive = {
   material: "Citrine",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_WEAPON_DECISIVE",
   displayOrder: 2,
-  qualityValues: "jsonl",
 } as const satisfies TemperWeaponTrait

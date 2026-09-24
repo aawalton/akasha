@@ -10,5 +10,4 @@ export const bolstered = {
   metricId: "temper-companion-passive-metric/companion-damage-taken",
   effectType: "fractional-change",
   isReduction: true,
-  qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

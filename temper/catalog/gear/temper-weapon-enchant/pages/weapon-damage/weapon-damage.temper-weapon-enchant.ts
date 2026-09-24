@@ -12,5 +12,4 @@ export const weaponDamage = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_BERSERKER",
   displayOrder: 1,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperWeaponEnchant

@@ -11,5 +11,4 @@ export const wellFitted = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_WELL_FITTED",
   displayOrder: 9,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperArmorTrait

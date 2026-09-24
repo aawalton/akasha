@@ -10,5 +10,4 @@ export const prolific = {
   metricId: "temper-companion-passive-metric/companion-ultimate-generation",
   effectType: "fractional-change",
   isReduction: false,
-  qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

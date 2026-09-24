@@ -12,5 +12,4 @@ export const healthRecovery = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_HEALTH_REGEN",
   displayOrder: 5,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryEnchant

@@ -12,5 +12,4 @@ export const flameResist = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_FIRE_RESISTANT",
   displayOrder: 10,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryEnchant

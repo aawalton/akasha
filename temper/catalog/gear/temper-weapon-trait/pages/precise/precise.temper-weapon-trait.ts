@@ -11,5 +11,4 @@ export const precise = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_WEAPON_PRECISE",
   displayOrder: 7,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperWeaponTrait

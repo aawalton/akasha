@@ -2,5 +2,4 @@
 {"propertySlug":"import","fileName":"quality.relation-property.types.ts","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.types.ts"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts","id":"01a0d3e2-b138-7ae3-a092-02aca2555e4f"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.ts","id":"01a0d3e3-15fd-7894-84c4-490fc66d1590"}
-{"propertySlug":"page-property","path":"temper/catalog/thing/properties/quality-values.page-property-entry.ts","id":"01a05fb0-3cee-76c4-aa3f-972874e23447"}
 {"propertySlug":"parts","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}

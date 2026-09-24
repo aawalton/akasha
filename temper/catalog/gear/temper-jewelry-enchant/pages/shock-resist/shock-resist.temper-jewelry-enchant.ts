@@ -12,5 +12,4 @@ export const shockResist = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_SHOCK_RESISTANT",
   displayOrder: 12,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryEnchant

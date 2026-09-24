@@ -11,5 +11,4 @@ export const arcane = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_ARCANE",
   displayOrder: 1,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryTrait

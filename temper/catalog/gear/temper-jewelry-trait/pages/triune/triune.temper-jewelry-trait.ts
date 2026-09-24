@@ -11,5 +11,4 @@ export const triune = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_TRIUNE",
   displayOrder: 9,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryTrait

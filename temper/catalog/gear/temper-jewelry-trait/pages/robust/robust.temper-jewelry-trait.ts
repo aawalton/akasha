@@ -11,5 +11,4 @@ export const robust = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_ROBUST",
   displayOrder: 7,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryTrait

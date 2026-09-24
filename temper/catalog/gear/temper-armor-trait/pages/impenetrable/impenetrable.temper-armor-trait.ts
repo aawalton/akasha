@@ -11,5 +11,4 @@ export const impenetrable = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_IMPENETRABLE",
   displayOrder: 2,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperArmorTrait

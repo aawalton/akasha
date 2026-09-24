@@ -12,5 +12,4 @@ export const decreaseSpellHarm = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_DECREASE_SPELL_DAMAGE",
   displayOrder: 16,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryEnchant

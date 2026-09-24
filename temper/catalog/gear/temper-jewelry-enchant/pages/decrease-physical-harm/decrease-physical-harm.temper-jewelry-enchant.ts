@@ -12,5 +12,4 @@ export const decreasePhysicalHarm = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_DECREASE_PHYSICAL_DAMAGE",
   displayOrder: 15,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryEnchant

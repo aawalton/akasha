@@ -12,5 +12,4 @@ export const bracing = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_REDUCE_BLOCK_AND_BASH",
   displayOrder: 18,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryEnchant

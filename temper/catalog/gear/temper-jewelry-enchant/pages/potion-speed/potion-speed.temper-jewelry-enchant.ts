@@ -12,5 +12,4 @@ export const potionSpeed = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POTION_COOLDOWN",
   displayOrder: 20,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryEnchant

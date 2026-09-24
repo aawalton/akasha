@@ -10,5 +10,4 @@ export const harmony = {
   material: "Dibellium",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_HARMONY",
   displayOrder: 3,
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryTrait

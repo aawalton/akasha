@@ -11,5 +11,4 @@ export const training = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_WEAPON_TRAINING",
   displayOrder: 9,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperWeaponTrait

@@ -11,5 +11,4 @@ export const sturdy = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_STURDY",
   displayOrder: 7,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperArmorTrait

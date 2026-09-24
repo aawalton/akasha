@@ -10,5 +10,4 @@ export const quickened = {
   metricId: "temper-companion-passive-metric/companion-ability-cooldown",
   effectType: "fractional-change",
   isReduction: true,
-  qualityValues: "jsonl",
 } as const satisfies TemperCompanionTrait

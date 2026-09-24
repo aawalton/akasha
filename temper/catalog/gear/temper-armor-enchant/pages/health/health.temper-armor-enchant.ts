@@ -12,5 +12,4 @@ export const health = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_HEALTH",
   displayOrder: 1,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperArmorEnchant

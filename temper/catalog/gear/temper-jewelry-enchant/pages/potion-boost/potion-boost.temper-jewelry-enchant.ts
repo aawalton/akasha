@@ -12,5 +12,4 @@ export const potionBoost = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_INCREASE_POTION_EFFECTIVENESS",
   displayOrder: 19,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryEnchant

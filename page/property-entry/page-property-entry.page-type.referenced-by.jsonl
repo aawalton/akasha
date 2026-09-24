@@ -37,7 +37,6 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-source/properties/tier-achievements.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/thing/properties/effects.page-property-entry.ts"}
-{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/thing/properties/quality-values.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/world/zone/properties/pois.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/world/zone/properties/zone-completion-activities.page-property-entry.ts"}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/world/zone/properties/zone-quests.page-property-entry.ts"}

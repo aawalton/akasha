@@ -11,5 +11,4 @@ export const sharpened = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_WEAPON_SHARPENED",
   displayOrder: 8,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperWeaponTrait

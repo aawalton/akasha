@@ -12,5 +12,4 @@ export const bashing = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_INCREASE_BASH_DAMAGE",
   displayOrder: 17,
   effects: "jsonl",
-  qualityValues: "jsonl",
 } as const satisfies TemperJewelryEnchant
