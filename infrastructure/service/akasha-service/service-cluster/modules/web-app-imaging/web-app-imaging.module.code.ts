@@ -7,10 +7,7 @@ import {
   commitHere,
   SERVED_BUILD_AT,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
-import {
-  BUN_RUNTIME_IMAGE,
-  ORCHESTRATOR_CACHE_REPO_PATH,
-} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { ORCHESTRATOR_CACHE_REPO_PATH } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import {
   buildctlAt,
   contextArgv,
@@ -39,6 +36,8 @@ import {
 const WEB_APP_IMAGES = "web-app"
 
 const TAG_LENGTH = 12
+
+const BASE_IMAGE = "oven/bun:1.3.14-alpine"
 
 const SCRATCH_AT = "/var/tmp"
 
@@ -104,7 +103,7 @@ export function webDockerfile(packagePath: string, sha: string, names: readonly 
     `printf %s ${sha} > ${SERVED_BUILD_AT}/${BUILD_STAMP}`,
   ].join(" && ")
   return [
-    `FROM ${BUN_RUNTIME_IMAGE}`,
+    `FROM ${BASE_IMAGE}`,
     `WORKDIR ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     `COPY ${MANIFESTS}/ ./`,
     "RUN bun install --frozen-lockfile",

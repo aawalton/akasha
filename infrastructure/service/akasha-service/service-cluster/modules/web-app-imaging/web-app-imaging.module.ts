@@ -31,6 +31,15 @@ export const webAppImaging = {
       statement: "An image is built by the cluster's builder from the tree the commit tracks.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An image starts from the public bun image, which the builder can pull.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The builder reaches the cluster's registry over HTTPS, and that registry answers HTTP.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No file the commit does not track reaches an image.",
     },
