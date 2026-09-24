@@ -17,6 +17,10 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A handler set under a name sits beside the unnamed one for its event.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control hidden by a forebear reads as hidden.",
     },
     {

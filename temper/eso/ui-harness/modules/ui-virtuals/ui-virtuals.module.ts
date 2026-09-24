@@ -35,6 +35,11 @@ export const uiVirtuals = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A handler carrying a name is kept under its event and that name, beside the unnamed one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A handler is written out as Lua, so the sandbox compiles it rather than a caller.",
     },
     {

@@ -156,7 +156,8 @@ function handlersIn(element: Element): Readonly<Record<string, string>> {
     if (!child.tagName.startsWith("On")) continue
     const body = child.textContent ?? ""
     if (body.trim() === "") continue
-    found[child.tagName] = body
+    const named = child.getAttribute("name")
+    found[named === null || named === "" ? child.tagName : `${child.tagName}:${named}`] = body
   }
   return found
 }

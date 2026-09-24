@@ -111,8 +111,13 @@ function Control:GetAnchor(index)
     anchor.constrains or ANCHOR_CONSTRAINTS.ANCHOR_CONSTRAINS_XY
 end
 
-function Control:SetHandler(event, handler) self.uiHandlers[event] = handler end
-function Control:GetHandler(event) return self.uiHandlers[event] end
+local function handlerKey(event, name)
+  if name == nil or name == "" then return event end
+  return tostring(event) .. ":" .. tostring(name)
+end
+
+function Control:SetHandler(event, handler, name) self.uiHandlers[handlerKey(event, name)] = handler end
+function Control:GetHandler(event, name) return self.uiHandlers[handlerKey(event, name)] end
 
 function Control:SetDrawLayer(layer) self.uiLayer = layer end
 function Control:SetDrawTier(tier) self.uiTier = tier end

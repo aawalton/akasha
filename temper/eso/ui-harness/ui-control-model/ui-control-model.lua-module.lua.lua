@@ -118,8 +118,14 @@ dress = function(control, spec)
     for event, made in pairs(spec.handlers) do
       control.uiHandlers[event] = made
     end
-    local first = spec.handlers.OnInitialized
-    if first ~= nil then
+    local firsts = { spec.handlers.OnInitialized }
+    local namedOnes = {}
+    for event in pairs(spec.handlers) do
+      if string.match(event, "^OnInitialized:") ~= nil then insert(namedOnes, event) end
+    end
+    table.sort(namedOnes)
+    for _, event in ipairs(namedOnes) do insert(firsts, spec.handlers[event]) end
+    for _, first in ipairs(firsts) do
       local ok, thrown = xpcall(function() return first(control) end, traced)
       if not ok then unmade[control.uiName or ""] = tostring(thrown) end
     end

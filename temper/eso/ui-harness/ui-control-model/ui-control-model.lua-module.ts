@@ -117,6 +117,11 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Every handler for being made is run, the unnamed one first and then the named ones by name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A handler for being made that raises leaves the control as that handler left it.",
     },
     {
