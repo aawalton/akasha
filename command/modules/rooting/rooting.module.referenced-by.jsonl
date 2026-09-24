@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/dispatch-boot/dispatch-boot.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/declaration/modules/seat-answering/seat-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.test.ts"}

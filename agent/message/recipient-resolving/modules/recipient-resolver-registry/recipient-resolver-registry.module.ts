@@ -7,7 +7,20 @@ export const recipientResolverRegistry = {
   definition:
     "the armed specs a tick walks, taken from the declared, the seated, the personas and the people",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game naming its game master seat declares a spec for that seat.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game master seat is started by its game's action bar and its world builder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A world builder seat is started by its game's game master.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A spec is named once.",

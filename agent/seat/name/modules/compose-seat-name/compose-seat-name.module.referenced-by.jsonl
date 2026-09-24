@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"}
+{"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.test.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/declaration/modules/seat-answering/seat-answering.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/declaration/modules/seat-args/seat-args.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/declaration/modules/seat-principal/seat-principal.module.code.ts"}

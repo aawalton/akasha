@@ -3,64 +3,101 @@ import type {
   OnDemandAgentSpec,
 } from "akasha/agent/message/recipient-resolving/modules/seat-wake-rules/seat-wake-rules.module.code.ts"
 import {
+  composeSeatName,
   handlerSeatName,
   identityHeardFrom,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import {
+  AGENT_SENDER_PREFIX,
   type PersonHandlerIdentity,
   personHandlerSpec,
   standingPersonaSpec,
 } from "akasha/agent/seat/observation/seat-turn/modules/wake-armed-specs/wake-armed-specs.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
   rootFor,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { ACTION_BAR_SENDER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
-const ACTION_BOX_AGENT_ID = "019ef9ea-83e2-707e-b1f3-3b70875a8e88"
+const GAME = "game"
 
-const IRIS_SPEC: OnDemandAgentSpec = {
-  name: "iris",
-  wakeSources: [
-    {
-      id: "iris-player-action",
-      senderMatch: ACTION_BOX_AGENT_ID,
-      contentRegex: undefined,
-      target: "iris",
-      status: "LIVE",
-    },
-  ],
-  stateAuthority: [
-    {
-      kind: "game-state-rows",
-      detail: "Awen game-state / game-turn rows for game externalId 'the-tower'",
-    },
-  ],
-  resumePolicy: { kind: "fresh" },
-  owner: "aine",
+const GAME_MASTER = "game-master"
+
+const WORLD_BUILDER = "world-builder"
+
+const PLAYER = "alan"
+
+const GAME_SEAT_TOKEN_THRESHOLD = 150_000
+
+export interface GameSeats {
+  readonly game: string
+  readonly master: string
+  readonly builder: string | null
 }
 
-const ARIA_STAGED_SPEC: OnDemandAgentSpec = {
-  name: "aria",
-  wakeSources: [
-    {
-      id: "aria-player-action",
-      senderMatch: ACTION_BOX_AGENT_ID,
-      contentRegex: undefined,
-      target: "aria",
-      status: "LIVE",
-    },
-  ],
-  stateAuthority: [
-    {
-      kind: "game-state-rows",
-      detail: "Awen game-state / game-turn rows for game externalId 'dragons-and-dungeons'",
-    },
-  ],
-  resumePolicy: { kind: "fresh" },
-  owner: "aine",
+function seatOf(persona: string, role: string, game: string, root: string): string | null {
+  return composeSeatName(
+    { attributes: { persona, domain: game, role }, flex: null, principal: PLAYER },
+    root
+  )
+}
+
+function builderBeside(master: string, game: string, root: string): string | null {
+  const suffix = `-${GAME_MASTER}-${game}`
+  if (!master.endsWith(suffix)) return null
+  const persona = master.slice(0, -suffix.length)
+  if (seatOf(persona, GAME_MASTER, game, root) !== master) return null
+  return seatOf(persona, WORLD_BUILDER, game, root)
+}
+
+export function gameSeatsIn(root: string): readonly GameSeats[] {
+  const found: GameSeats[] = []
+  for (const { value } of valuesOfType(root, GAME)) {
+    const game = value["slug"]
+    const master = value["coordinatorAgent"]
+    if (typeof game !== "string" || typeof master !== "string" || master === "") continue
+    found.push({ game, master, builder: builderBeside(master, game, root) })
+  }
+  return found
+}
+
+function heardFrom(seat: string, sender: string, id: string): CommsRule {
+  return {
+    id: `${seat}-${id}`,
+    senderMatch: `${AGENT_SENDER_PREFIX}${sender}`,
+    contentRegex: undefined,
+    target: seat,
+    status: "LIVE",
+  }
+}
+
+function gameSeatSpec(
+  seat: string,
+  game: string,
+  sources: readonly CommsRule[]
+): OnDemandAgentSpec {
+  return {
+    name: seat,
+    wakeSources: sources,
+    stateAuthority: [{ kind: "pages-rows", detail: `the ${game} game's pages and turns` }],
+    resumePolicy: { kind: "resume-under-budget", tokenThreshold: GAME_SEAT_TOKEN_THRESHOLD },
+    owner: "awen",
+  }
+}
+
+export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAgentSpec[] {
+  return seats.flatMap(({ game, master, builder }) => {
+    const bar = heardFrom(master, ACTION_BAR_SENDER, "action-bar")
+    if (builder === null) return [gameSeatSpec(master, game, [bar])]
+    return [
+      gameSeatSpec(master, game, [bar, heardFrom(master, builder, WORLD_BUILDER)]),
+      gameSeatSpec(builder, game, [heardFrom(builder, master, GAME_MASTER)]),
+    ]
+  })
 }
 
 const KI_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("amy", "ki", ROOT, {
@@ -77,11 +114,9 @@ const JENNY_HANDLER_SPEC: OnDemandAgentSpec = personHandlerSpec("claude", "jenny
 
 const SMS_ENTRY_POINT_SPECS: readonly OnDemandAgentSpec[] = [KI_HANDLER_SPEC, JENNY_HANDLER_SPEC]
 
-const DECLARED_SPECS: readonly OnDemandAgentSpec[] = [
-  IRIS_SPEC,
-  ARIA_STAGED_SPEC,
-  ...SMS_ENTRY_POINT_SPECS,
-]
+function declaredSpecs(): readonly OnDemandAgentSpec[] {
+  return [...gameSeatSpecs(gameSeatsIn(ROOT)), ...SMS_ENTRY_POINT_SPECS]
+}
 
 const SEATED_HANDLER_PERSONS: readonly string[] = ["alan"]
 
@@ -102,7 +137,7 @@ function assembleArmedSpecs(
   personHandlers: readonly PersonHandlerIdentity[] = []
 ): readonly OnDemandAgentSpec[] {
   const byName = new Map<string, OnDemandAgentSpec>()
-  for (const spec of DECLARED_SPECS) byName.set(spec.name, spec)
+  for (const spec of declaredSpecs()) byName.set(spec.name, spec)
   for (const person of SEATED_HANDLER_PERSONS) {
     const spec = seatedHandlerSpec(person, personaWakeSources)
     if (!byName.has(spec.name)) byName.set(spec.name, spec)

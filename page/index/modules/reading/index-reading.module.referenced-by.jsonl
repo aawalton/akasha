@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/hook/modules/links/hook-links.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/message/modules/file/agent-message-file.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/account/modules/making/model-account-making.module.code.ts"}
