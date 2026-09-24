@@ -3396,8 +3396,8 @@
     },
     "111": {
       "currentXP": 179,
-      "currentRank": 8,
-      "nextRankXP": 180
+      "currentRank": 9,
+      "nextRankXP": 200
     },
     "117": {
       "currentXP": 20,
@@ -5284,7 +5284,7 @@
     "groupDungeonTotal": 19,
     "tutorial": 1,
     "skyshardPoints": 173,
-    "unassigned": 81,
+    "unassigned": 71,
     "zoneQuestTotal": 57,
     "publicDungeons": {
       "EP4": 1,
