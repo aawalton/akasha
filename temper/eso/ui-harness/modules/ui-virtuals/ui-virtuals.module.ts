@@ -56,6 +56,10 @@ export const uiVirtuals = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every control a document holds at its root and not as a template is a window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A window declared outright takes what the templates that window inherits hold.",
     },
     {

@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
 import {
+  declaredFrom,
   virtualsFrom,
   virtualsLua,
 } from "akasha/temper/eso/ui-harness/modules/ui-virtuals/ui-virtuals.module.code.ts"
@@ -168,6 +169,26 @@ describe("virtualsFrom", () => {
   test("reads the handler an element writes inline", () => {
     const table = virtualsFrom([READY])
     expect(table.TemperReady?.handlers.OnInitialized).toContain("ZO_Ready(self)")
+  })
+})
+
+describe("declaredFrom", () => {
+  const roots = `<GuiXml><Controls>
+    <TopLevelControl name="TemperWindow" />
+    <Control name="TemperCompass">
+      <Controls><Label name="$(parent)Inner" /></Controls>
+    </Control>
+    <Control name="TemperTemplate" virtual="true" />
+  </Controls></GuiXml>`
+
+  test("declares every control the document holds at its root, of any kind", () => {
+    const table = declaredFrom([roots], {})
+    expect(Object.keys(table)).toEqual(["TemperWindow", "TemperCompass"])
+    expect(table.TemperCompass?.controlType).toBe(HELD.CT_CONTROL)
+  })
+
+  test("leaves a control inside another to be made with the one holding it", () => {
+    expect(declaredFrom([roots], {}).TemperCompass?.children[0]?.name).toBe("$(parent)Inner")
   })
 })
 

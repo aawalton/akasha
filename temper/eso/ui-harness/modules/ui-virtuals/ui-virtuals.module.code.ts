@@ -294,7 +294,7 @@ export function declaredFrom(documents: readonly string[], virtuals: VirtualTabl
   const table: Record<string, VirtualNode> = {}
   for (const text of documents) {
     const doc = parser.parseFromString(text, "application/xml")
-    for (const element of doc.querySelectorAll("TopLevelControl")) {
+    for (const element of doc.querySelectorAll("GuiXml > Controls > *")) {
       if (element.getAttribute("virtual") === "true") continue
       const name = element.getAttribute("name")
       if (name === null || name === "") continue
