@@ -51,16 +51,19 @@ export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
   useReportRenderError(error, "smilingjenny")
 
   const notFound = isRouteErrorResponse(error) && error.status === 404
+  const refused = isRouteErrorResponse(error) && error.status === 403
 
-  const heading = notFound ? "Nothing here" : "Something went wrong"
+  const heading = notFound ? "Nothing here" : refused ? "Not yours" : "Something went wrong"
   const body = notFound
     ? "This address does not lead anywhere. If you followed a link from a message, try opening it again."
-    : "This page could not be loaded. Nothing you did caused it, and nothing has been changed. Alan has been told."
+    : refused
+      ? String(error.data)
+      : null
 
   return (
     <main className="mx-auto flex max-w-lg flex-col gap-3 px-5 py-16">
       <h1 className="font-semibold text-2xl text-primary">{heading}</h1>
-      <p className="text-base text-secondary">{body}</p>
+      {body === null ? null : <p className="text-base text-secondary">{body}</p>}
     </main>
   )
 }
