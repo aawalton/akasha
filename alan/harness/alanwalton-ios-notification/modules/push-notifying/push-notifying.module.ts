@@ -59,7 +59,11 @@ export const pushNotifying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A stop ends that loop at the next boundary.",
+      statement: "A stop ends that loop at once, leaving a tick still working unfinished.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The process exits as the loop ends, so nothing left in flight holds it up.",
     },
   ],
 } as const satisfies Module

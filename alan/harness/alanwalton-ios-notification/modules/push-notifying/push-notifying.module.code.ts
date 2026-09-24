@@ -44,8 +44,11 @@ export async function runPushNotifying(): Promise<void> {
 }
 
 if (import.meta.main) {
-  runPushNotifying().catch((err) => {
-    console.error(`${LOG} fatal:`, err)
-    process.exit(1)
-  })
+  runPushNotifying().then(
+    () => process.exit(0),
+    (err) => {
+      console.error(`${LOG} fatal:`, err)
+      process.exit(1)
+    }
+  )
 }

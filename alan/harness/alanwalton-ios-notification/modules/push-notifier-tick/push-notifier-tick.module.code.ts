@@ -192,9 +192,18 @@ export async function runBoundedPushNotifierTick(
       TICK_CEILING_MS
     )
   })
+  let onStop: (() => undefined) | undefined
+  const stopped = new Promise<void>((resolve) => {
+    onStop = (): undefined => {
+      resolve()
+      return undefined
+    }
+    signal.addEventListener("abort", onStop, { once: true })
+  })
   try {
-    await Promise.race([runPushNotifierTick(state, deps, signal, done), ceiling])
+    await Promise.race([runPushNotifierTick(state, deps, signal, done), ceiling, stopped])
   } finally {
     if (timer !== undefined) clearTimeout(timer)
+    if (onStop !== undefined) signal.removeEventListener("abort", onStop)
   }
 }
