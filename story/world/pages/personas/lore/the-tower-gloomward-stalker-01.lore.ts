@@ -18,7 +18,6 @@ export const theTowerGloomwardStalker01 = {
     "Lit, pinned or cornered, the Gloomward Stalker's lunges read plainly and blows land clean.",
     "Once seen, the Gloomward Stalker is fragile, with no armour and little will.",
     "The Gloomward Stalker baits prey off stable footing into the open dark.",
-    "The Gloomward Stalker comes for anyone climbing past the first broken flight unlit.",
-    "Sound or warmth carried up the shaft in the dark draws the Gloomward Stalker.",
+    "The Gloomward Stalker is dead, burned at the shaft's mouth and stripped of hide and eyes.",
   ],
 } as const satisfies Lore
