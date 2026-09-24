@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-putting/page-putting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"}

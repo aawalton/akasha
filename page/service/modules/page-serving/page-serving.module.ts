@@ -239,5 +239,13 @@ export const pageServing = {
       decisionKind: "decision-kind/departure",
       statement: "An answer to a placing names the path the bytes landed at.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An increment is handed in at a path of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An answer to an increment names the count that increment left.",
+    },
   ],
 } as const satisfies Module

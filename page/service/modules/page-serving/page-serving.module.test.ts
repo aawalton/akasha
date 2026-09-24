@@ -7,6 +7,7 @@ import {
   ASK_AT,
   answering,
   foldedInto,
+  INCREMENT_AT,
   READ_AT,
   WRITE_AT,
 } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
@@ -267,6 +268,27 @@ test("a page a write composes keeps its values beside what that write already ke
 })
 
 const A_DEFINITION = "a distance the domain has not closed"
+
+const AN_INCREMENT = {
+  writer: "Amy <amy@alanwalton.com>",
+  message: "a tap",
+  pageTypeSlug: "decision-kind",
+  key: "decisionGroup",
+  by: 1,
+}
+
+test("an increment is handed in at a path of its own", async () => {
+  const asked = { ...AN_INCREMENT, slug: "no-such-kind" }
+  const answered = await answering(GIVEN, asking(asked, INCREMENT_AT))
+  expect(answered.status).toBe(200)
+  expect(await bodyOf(answered)).toEqual({ value: null })
+})
+
+test("an increment stating no page is refused", async () => {
+  const answered = await answering(GIVEN, asking(AN_INCREMENT, INCREMENT_AT))
+  expect(answered.status).toBe(400)
+  expect(await refusalOf(answered)).toContain("`slug`")
+})
 
 test("a page a write has merging is composed over what the page already has", async () => {
   await answering(

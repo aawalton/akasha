@@ -22,6 +22,10 @@ import {
   type Following,
   said,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
+import {
+  incrementIn,
+  incrementing,
+} from "akasha/page/service/modules/page-incrementing/page-incrementing.module.code.ts"
 import { placing } from "akasha/page/service/modules/page-placing/page-placing.module.code.ts"
 import { reading } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
 import { shaping } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
@@ -46,6 +50,8 @@ export const FILE_AT = "/file"
 export const APPEND_AT = "/append"
 
 const PLACE_AT = "/place"
+
+export const INCREMENT_AT = "/increment"
 
 const OCTETS = "application/octet-stream"
 
@@ -132,7 +138,8 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     at !== SHAPE_AT &&
     at !== FILE_AT &&
     at !== APPEND_AT &&
-    at !== PLACE_AT
+    at !== PLACE_AT &&
+    at !== INCREMENT_AT
   ) {
     return said({ refused: `nothing is asked at ${at}` }, 404)
   }
@@ -166,6 +173,13 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     const sought = placeIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
     const done = placing(given.root, sought.placing)
+    if ("refused" in done) return said({ refused: done.refused }, 400)
+    return said(done, 200)
+  }
+  if (at === INCREMENT_AT) {
+    const sought = incrementIn(body)
+    if ("refused" in sought) return said({ refused: sought.refused }, 400)
+    const done = await incrementing(given.root, given.writer, sought.incrementing)
     if ("refused" in done) return said({ refused: done.refused }, 400)
     return said(done, 200)
   }

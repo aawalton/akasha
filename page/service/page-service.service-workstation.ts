@@ -139,5 +139,6 @@ export const pageService = {
     "module/pages-foldered",
     "module/reads-keeping",
     "module/where-testing",
+    "module/page-incrementing",
   ],
 } as const satisfies ServiceWorkstation
