@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"gmail-attachments.module.code.ts","path":"alan/google/email/modules/compose-input-from-arguments/compose-input-from-arguments.module.code.ts"}
 {"propertySlug":"import","fileName":"gmail-attachments.module.code.ts","path":"alan/google/email/modules/email-operations/email-operations.module.code.ts"}
+{"propertySlug":"import","fileName":"gmail-attachments.module.code.ts","path":"command/pages/email/attachment/show/email-attachment-show.command.code.ts"}
 {"propertySlug":"parts","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}
