@@ -1,5 +1,26 @@
 import SwiftUI
 
+// A READING NOTHING COULD BE TAKEN FOR IS DRAWN AS NO SIGNAL RATHER THAN AS A ZERO.
+//
+// One mark says it for a whole tile and for a single light inside a group, so the two read as
+// one thing. The caller sizes the glyph and the words to the room it has.
+struct NoSignalMark: View {
+    let glyphSize: CGFloat
+    let wordsSize: CGFloat
+
+    var body: some View {
+        VStack(spacing: glyphSize * 0.2) {
+            Image(systemName: "wifi.slash")
+                .font(.system(size: glyphSize, weight: .semibold))
+            Text("No signal")
+                .font(.system(size: wordsSize, weight: .medium))
+                .minimumScaleFactor(0.6)
+                .lineLimit(1)
+        }
+        .foregroundStyle(.secondary)
+    }
+}
+
 struct StoplightRing: View {
     let tier: Tier
     let reading: String?
@@ -7,11 +28,14 @@ struct StoplightRing: View {
     let progress: Double?
     let label: String?
     var figureOffScale: Bool = false
+    var noSignal: Bool = false
 
     private static let zero = "0"
 
     private static let ringFraction = 0.12
     private static let readingFraction = 0.26
+    private static let glyphFraction = 0.22
+    private static let wordsFraction = 0.16
 
     private static let lineHeightFactor = 1.2
 
@@ -43,7 +67,13 @@ struct StoplightRing: View {
                 radius: tier == .blue ? 6 : 0
             )
         ) { metrics in
-            if figureOffScale || !isAtEnd {
+            if noSignal {
+                NoSignalMark(
+                    glyphSize: metrics.diameter * Self.glyphFraction,
+                    wordsSize: metrics.diameter * Self.wordsFraction
+                )
+                .frame(width: metrics.innerRadius * 2 - SPACING_0_5 * 2)
+            } else if figureOffScale || !isAtEnd {
                 let size = metrics.diameter * Self.readingFraction
                 let line = size * Self.lineHeightFactor
                 let halfWidth = max(
