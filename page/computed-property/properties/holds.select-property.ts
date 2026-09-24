@@ -6,7 +6,7 @@ export const holds = {
   slug: "holds",
   propertySlug: "holds",
   definition: "the kind of value a calculation works out",
-  values: ["text", "number", "boolean", "instant", "date"],
+  values: ["text", "number", "boolean", "instant", "date", "relation"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
