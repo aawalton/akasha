@@ -731,8 +731,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/surplus/modules/reading/surplus-reading.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/voice-core/modules/infer-endpoint/infer-endpoint.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/voice-core/modules/mark-schema/mark-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/voice-core/modules/speech/speech.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-build-version/modules/build-sha/build-sha.module.ts"}
