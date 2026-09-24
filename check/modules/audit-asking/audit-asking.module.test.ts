@@ -11,7 +11,7 @@ import {
 import type { Answered } from "akasha/check/modules/audit-calling/audit-calling.module.code.ts"
 import type { Verdict } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
+import { ranAwaited } from "akasha/git/modules/running/git-running.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -33,15 +33,15 @@ function answering(verdict: Verdict): Answered {
 
 async function repoOf(commits: number): Promise<{ root: string; made: readonly string[] }> {
   const root = scratch.rootFor("akasha-audit-asking-")
-  await runGit(["init", "-q", "-b", "main"], root)
-  await runGit(["config", "user.email", "asking@example.com"], root)
-  await runGit(["config", "user.name", "asking"], root)
+  await ranAwaited(root, ["init", "-q", "-b", "main"])
+  await ranAwaited(root, ["config", "user.email", "asking@example.com"])
+  await ranAwaited(root, ["config", "user.name", "asking"])
   const made: string[] = []
   for (let at = 0; at < commits; at += 1) {
     writeFileSync(join(root, "one.txt"), `${at}\n`, "utf8")
-    await runGit(["add", "one.txt"], root)
-    await runGit(["commit", "-q", "-m", `${at}`], root)
-    made.push((await runGit(["rev-parse", "HEAD"], root)).stdout)
+    await ranAwaited(root, ["add", "one.txt"])
+    await ranAwaited(root, ["commit", "-q", "-m", `${at}`])
+    made.push((await ranAwaited(root, ["rev-parse", "HEAD"])).out.trim())
   }
   return { root, made }
 }
