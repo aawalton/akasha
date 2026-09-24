@@ -6,11 +6,4 @@ export const haremHotel018 = {
   slug: "harem-hotel-018",
   game: "game/harem-hotel",
   number: 18,
-  windows: [
-    {
-      kind: "quest-complete",
-      name: "The Shut Door",
-      note: "open the door at the dark end of the hall",
-    },
-  ],
 } as const satisfies GameTurn
