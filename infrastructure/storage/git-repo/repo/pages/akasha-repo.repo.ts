@@ -20,10 +20,6 @@ export const akashaRepo = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A type declaration is the one thing imported from another repository.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement: "No file here imports a file in another repository.",
     },
     {
