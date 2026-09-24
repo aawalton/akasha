@@ -42,6 +42,7 @@ export const construction = {
     "construction/proper-noun-with-a-noun-run",
     "construction/possessive-proper-noun",
     "construction/noun-run-with-a-proper-noun-clause",
+    "construction/noun-run-with-a-where-clause",
   ],
   extends: ["page-type/domain"],
   properties: [
