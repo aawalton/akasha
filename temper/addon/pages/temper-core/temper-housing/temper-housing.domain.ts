@@ -78,8 +78,8 @@ export const temperHousing = {
       statement: "Nothing here asks a server outside the game.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The upstream arm asking a player to donate to the author was left behind.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here asks a player to donate to the author.",
     },
   ],
 } as const satisfies Domain
