@@ -4,9 +4,26 @@ export const uiTextModel = {
   id: "01a0c9f5-7be6-7247-880c-a8fde9d42eb2",
   type: "page-type/lua-module",
   slug: "ui-text-model",
-  definition: "the sentence the game builds out of a format and what fills it",
+  definition: "what the game's engine does to text",
   lua: "lua",
   decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's own Lua sets the string library's case changes to the engine's, which answer empty here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The engine's case changes answer as the string library's own do.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A letter outside plain English keeps its case.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The engine's plain search and split answer as the game documents them.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A slot in a format is filled with the value at the number that slot ends in.",
