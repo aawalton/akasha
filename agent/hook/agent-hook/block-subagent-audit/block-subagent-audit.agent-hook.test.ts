@@ -7,7 +7,10 @@ import {
   SCOPE,
   underASubagent,
 } from "akasha/agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.code.ts"
-import { UNREADABLE } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
+import {
+  parseHookPayload,
+  UNREADABLE,
+} from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 
 const SEAT = "01a064fd-036b-7000-b22b-8e4196630c07"
 
@@ -41,7 +44,9 @@ const BY_PATH = "akasha audit --file-path checks"
 const BY_CHECK = "akasha audit --check typecheck"
 
 function parsed(command: string, own: string | null): Record<string, unknown> {
-  return JSON.parse(payload(command, own)) as Record<string, unknown>
+  const read = parseHookPayload(payload(command, own))
+  if (read === null) throw new Error("the payload this test writes reads as no object")
+  return read
 }
 
 test("the judgement this hook exports judges the payload the dispatch hands it", () => {

@@ -6,6 +6,7 @@ import {
   refusalIn,
   SCOPE,
 } from "akasha/agent/hook/agent-hook/block-destructive-git/block-destructive-git.agent-hook.code.ts"
+import { parseRefusal } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { payloadOf } from "akasha/agent/hook/test-fixtures/payload/hook-payload.test-fixture.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
@@ -326,9 +327,9 @@ test("the scope names the prefixes it steps over and says that list samples a cl
 test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("git checkout main")) })
   expect(done.code).toBe(2)
-  const said: unknown = JSON.parse(done.out)
-  expect(said).toMatchObject({ decision: "block" })
-  expect((said as { reason: string }).reason).toContain("git checkout")
+  const said = parseRefusal(done.out)
+  expect(said.decision).toBe("block")
+  expect(said.reason).toContain("git checkout")
 })
 
 test("the hook stands aside on stdin for a call it does not name", () => {

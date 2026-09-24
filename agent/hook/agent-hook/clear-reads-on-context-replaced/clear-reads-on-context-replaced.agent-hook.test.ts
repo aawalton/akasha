@@ -32,6 +32,14 @@ import {
   UNDER_TOO,
 } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { z } from "zod"
+
+const CLEARING = z.looseObject({
+  agentId: z.string(),
+  source: z.string(),
+  took: z.boolean(),
+  stale: z.number(),
+})
 
 const SCRIPT = join(import.meta.dir, "clear-reads-on-context-replaced.agent-hook.code.ts")
 
@@ -212,7 +220,7 @@ test("an agent no page names is no clearing either", () => {
 test("a clearing is written down where the records are", () => {
   const root = rooted()
   noted(root, ONE, "startup", cleared(root, ONE, "startup"))
-  const said = JSON.parse(readFileSync(clearingsAt(root), "utf8").trim()) as Record<string, unknown>
+  const said = CLEARING.parse(JSON.parse(readFileSync(clearingsAt(root), "utf8").trim()))
   expect(said.agentId).toBe(ONE)
   expect(said.source).toBe("startup")
   expect(said.took).toBe(true)

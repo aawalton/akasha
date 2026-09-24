@@ -6,7 +6,10 @@ import {
   refusalFor,
   SCOPE,
 } from "akasha/agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.code.ts"
-import { UNREADABLE } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
+import {
+  parseRefusal,
+  UNREADABLE,
+} from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
@@ -234,9 +237,9 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   })
   const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payload) })
   expect(done.code).toBe(2)
-  const said: unknown = JSON.parse(done.out)
-  expect(said).toMatchObject({ decision: "block" })
-  expect((said as { reason: string }).reason).toContain("at: akasha/")
+  const said = parseRefusal(done.out)
+  expect(said.decision).toBe("block")
+  expect(said.reason).toContain("at: akasha/")
 })
 
 test("the hook stands aside on stdin for a path outside the guarded roots", () => {
