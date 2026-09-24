@@ -7,7 +7,6 @@ import {
   lookupTtcPricing,
   resolvePriceSource,
 } from "akasha/temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts"
-import { captureOrNull } from "akasha/temper/addon/pages/items/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { isItemLinkQuestRelevant } from "akasha/temper/addon/pages/items/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import {
   classifyItem,
@@ -21,6 +20,7 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { inferDeconCraftingType } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import {
   PLAYER_ARMOR_ESO_TO_TRAIT,
   PLAYER_JEWELRY_ESO_TO_TRAIT,
@@ -142,8 +142,8 @@ function describeIndeterminateResult(r: RuleEvalResult): string {
 
 export function onTemperRulesCommand(this: void, args: string): undefined {
   const [captured] = string.match(args, "(|H.-|h.-|h)")
-  const matched = captureOrNull(captured)
-  if (matched === null) {
+  const matched = parseLuaCapture(captured)
+  if (matched === undefined) {
     d(`${PREFIX} Usage: /temperrules [item link] — shift-click an item to insert its link`)
     return
   }

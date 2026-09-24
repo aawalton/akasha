@@ -112,7 +112,6 @@ export const temperAddonItems = {
     "module/inventory-mail-handler",
     "module/inventory-mail-keybind-patch",
     "module/inventory-mail-source-category",
-    "module/inventory-match-capture",
     "module/inventory-move-item",
     "module/inventory-open-cooldown-protection",
     "module/inventory-ops",

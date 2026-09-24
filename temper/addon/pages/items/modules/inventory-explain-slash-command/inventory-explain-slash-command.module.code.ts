@@ -2,11 +2,11 @@ import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-rec
 import { onTemperItemsExplainBuyCommand } from "akasha/temper/addon/pages/items/modules/inventory-buy-explain-slash-command/inventory-buy-explain-slash-command.module.code.ts"
 import { buildSkillGateEval } from "akasha/temper/addon/pages/items/modules/inventory-explain-skill-gate-eval/inventory-explain-skill-gate-eval.module.code.ts"
 import { buildExplainTrace } from "akasha/temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"
-import { captureOrNull } from "akasha/temper/addon/pages/items/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { ExplainTrace } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import type { SkillGateEval } from "akasha/temper/addon/pages/items/modules/inventory-skill-gate-eval-types/inventory-skill-gate-eval-types.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
@@ -147,8 +147,8 @@ function printGateEvalSummary(
 
 function onTemperItemsExplainCommand(this: void, args: string): undefined {
   const [captured] = string.match(args, "(|H.-|h.-|h)")
-  const matched = captureOrNull(captured)
-  if (matched === null) {
+  const matched = parseLuaCapture(captured)
+  if (matched === undefined) {
     d(
       `${PREFIX} Usage: /temper inventory explain [item link] — shift-click an item to insert its link`
     )
@@ -184,14 +184,14 @@ function onTemperItemsExplainCommand(this: void, args: string): undefined {
 export function onTemperItemsSubcommand(this: void, args: string): undefined {
   const rest = args !== undefined ? args : ""
   const [capturedExplainBuy] = string.match(rest, "^%s*explain%-buy%s*(.*)$")
-  const restAfterExplainBuy = captureOrNull(capturedExplainBuy)
-  if (restAfterExplainBuy !== null) {
+  const restAfterExplainBuy = parseLuaCapture(capturedExplainBuy)
+  if (restAfterExplainBuy !== undefined) {
     onTemperItemsExplainBuyCommand(restAfterExplainBuy)
     return
   }
   const [capturedExplain] = string.match(rest, "^%s*explain%s+(.*)$")
-  const restAfterExplain = captureOrNull(capturedExplain)
-  if (restAfterExplain === null) {
+  const restAfterExplain = parseLuaCapture(capturedExplain)
+  if (restAfterExplain === undefined) {
     d(`${PREFIX} ${TEMPER_USAGE}`)
     return
   }

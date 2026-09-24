@@ -1,8 +1,8 @@
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { buildBuyExplainTrace } from "akasha/temper/addon/pages/items/modules/inventory-buy-explain-trace-builder/inventory-buy-explain-trace-builder.module.code.ts"
-import { captureOrNull } from "akasha/temper/addon/pages/items/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { BuyExplainRule } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -39,8 +39,8 @@ function printRule(r: BuyExplainRule): undefined {
 export function onTemperItemsExplainBuyCommand(this: void, args: string): undefined {
   const argsStr = args !== undefined ? args : ""
   const [captured] = string.match(argsStr, "(|H.-|h.-|h)")
-  const matched = captureOrNull(captured)
-  const itemId = matched === null ? undefined : GetItemLinkItemId(matched)
+  const matched = parseLuaCapture(captured)
+  const itemId = matched === undefined ? undefined : GetItemLinkItemId(matched)
 
   const trace = buildBuyExplainTrace(itemId)
   if (trace === undefined) {

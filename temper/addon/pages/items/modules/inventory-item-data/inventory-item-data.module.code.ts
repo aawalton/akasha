@@ -1,7 +1,7 @@
-import { captureOrNull } from "akasha/temper/addon/pages/items/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import { isItemLinkQuestRelevant } from "akasha/temper/addon/pages/items/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import type { ItemData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { isTemperLocked } from "akasha/temper/addon/pages/items/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import type { PriceSource } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -77,8 +77,7 @@ export function findItemInInventory(
 export function isItemLinkCraftedSafe(itemLink: string, itemType: number): boolean {
   if (itemType === ITEMTYPE_POTION || itemType === ITEMTYPE_POISON) {
     const [captured] = string.match(itemLink, ":(%d+)|h")
-    const matched = captureOrNull(captured)
-    const potionData = tonumber(matched)
+    const potionData = tonumber(parseLuaCapture(captured))
     return potionData !== undefined && potionData !== 0
   }
   return IsItemLinkCrafted(itemLink)

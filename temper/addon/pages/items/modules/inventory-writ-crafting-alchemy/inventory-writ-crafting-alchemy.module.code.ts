@@ -1,5 +1,4 @@
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
-import { captureOrNull } from "akasha/temper/addon/pages/items/modules/inventory-match-capture/inventory-match-capture.module.code.ts"
 import {
   REAGENT_TRAITS,
   solveReagentPairs,
@@ -16,6 +15,7 @@ import {
   newConsumableTrace,
   recordMasterConsumableTrace,
 } from "akasha/temper/addon/pages/items/modules/inventory-writ-master-consumable-trace/inventory-writ-master-consumable-trace.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -103,9 +103,9 @@ function parseAlchemyResultLink(
     link,
     "^|H[^:]+:item:([^:]+):[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:[^:]+:([^|]+)|h"
   )
-  const itemIdStr = captureOrNull(rawItemId)
-  const traitsStr = captureOrNull(rawTraits)
-  if (itemIdStr === null || traitsStr === null) return undefined
+  const itemIdStr = parseLuaCapture(rawItemId)
+  const traitsStr = parseLuaCapture(rawTraits)
+  if (itemIdStr === undefined || traitsStr === undefined) return undefined
   const itemId = tonumber(itemIdStr)
   const encodedTraits = tonumber(traitsStr)
   if (itemId === undefined || encodedTraits === undefined) return undefined
