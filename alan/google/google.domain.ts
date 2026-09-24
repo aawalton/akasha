@@ -4,7 +4,7 @@ export const google = {
   id: "01a06349-515e-7000-8d93-797af6330d1d",
   type: "page-type/domain",
   slug: "google",
-  definition: "what Alan keeps with Google, reached under a consent",
+  definition: "what Alan stores with Google",
   parts: [
     "domain/google-calendar",
     "domain/google-company",
