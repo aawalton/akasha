@@ -1,4 +1,4 @@
-import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { z } from "zod"
 
 const OVERLOAD_STATUS = 529
 
@@ -12,18 +12,19 @@ export interface DeathReading {
   readonly statuses: readonly number[]
 }
 
+const ASSISTANT_RECORD = z.looseObject({ type: z.literal("assistant") })
+
 function assistantRecords(text: string): Record<string, unknown>[] {
   const held: Record<string, unknown>[] = []
   for (const raw of text.split("\n")) {
     if (raw.trim() === "") continue
-    let line: unknown = null
+    let line: Record<string, unknown> | undefined
     try {
-      line = JSON.parse(raw)
+      line = ASSISTANT_RECORD.safeParse(JSON.parse(raw)).data
     } catch {
       continue
     }
-    if (!isRecord(line)) continue
-    if (line.type === "assistant") held.push(line)
+    if (line !== undefined) held.push(line)
   }
   return held
 }

@@ -6,8 +6,11 @@ import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicat
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { z } from "zod"
 
 const UNREADABLE = "\u0000unreadable"
+
+const FILE_BYTES = z.instanceof(Uint8Array)
 
 export function reachedFrom(entry: string, root: string = ownRepoRoot()): readonly string[] {
   const bodyAt = (path: string): string | null => textThere(join(root, path))
@@ -42,7 +45,7 @@ export async function hashFileSet(files: readonly string[]): Promise<string> {
   for (const path of files) {
     hasher.update(path)
     try {
-      hasher.update(await Bun.file(path).bytes())
+      hasher.update(FILE_BYTES.parse(await Bun.file(path).bytes()))
     } catch {
       hasher.update(UNREADABLE)
     }
