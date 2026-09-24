@@ -7,22 +7,14 @@ import {
 } from "akasha/alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"
 import { REQUESTS_SITE } from "akasha/alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"
 import { NavCommands } from "akasha/alan/requests-web/modules/requests-nav-command/requests-nav-command.module.code.tsx"
+import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
-import {
-  data,
-  isRouteErrorResponse,
-  Links,
-  Meta,
-  Outlet,
-  Scripts,
-  ScrollRestoration,
-  useRouteLoaderData,
-} from "react-router"
+import { isRouteErrorResponse, Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/alan/requests-web/look/alan-requests-web-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
@@ -48,14 +40,12 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "Requests" },
 ]
 
-export async function loader({ request, context }: Route.LoaderArgs) {
-  const bounce = await handoverGuard(REQUESTS_SITE, request, GUARD)
-  if (bounce !== null) return bounce
-  return data({ nonce: context.nonce })
+export function loader({ request }: Route.LoaderArgs) {
+  return handoverGuard(REQUESTS_SITE, request, GUARD)
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
-  const nonce = useRouteLoaderData<typeof loader>("root")?.nonce
+  const nonce = useDocumentNonce()
   useEffect(() => {
     setStoreDiagnosticsSink((d) =>
       reportError({
@@ -78,7 +68,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Meta />
         <Links />
         {}
-        <script src="/sidebar-boot.js" nonce={nonce} />
+        <script src="/sidebar-boot.js" nonce={nonce} suppressHydrationWarning />
       </head>
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>
