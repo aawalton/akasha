@@ -16,7 +16,7 @@ export const smilingjennyCategorizeWidget = {
       statement: "Stating that start keeps this component out of the decode harness.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Jenny's categorize tile is compiled by a build to a device and by nothing else.",
     },
   ],
