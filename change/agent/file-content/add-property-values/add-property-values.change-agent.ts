@@ -10,6 +10,7 @@ export const addPropertyValues = {
   definition: "many values put into the properties their lines name, in one call",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,6 +19,20 @@ export const addPropertyValues = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The value is the rest of the line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A single value is put in by a call of one line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "`after`, `where`, `is` and `field` are stated once for a call and hold for every line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Lines needing different values of `after`, `where`, `is` or `field` are put in by separate calls.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -89,6 +104,10 @@ export const addPropertyValues = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "`after` stated for a call is handed on for every line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A key the page writes nowhere yet is put in where the pages of its type write it.",
     },
@@ -98,11 +117,16 @@ export const addPropertyValues = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A key is judged before any page is reached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A key the page's type declares no property for is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That refusal names the record a field of a record is reached through.",
+      statement:
+        "That refusal names `where`, `is` and `field` as the way to a list field inside a record.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -120,6 +144,32 @@ export const addPropertyValues = {
       decisionKind: "decision-kind/departure",
       statement:
         "A refusal over a slug the page's type declares a key for names the key to write instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "`where` and `is` reach the one record under a line's key whose `where` field states the text `is`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`field` names the list field inside that record the value is put into.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`where`, `is` or `field` stated without the other two is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field the record property's page does not declare as a list is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value put into a record's field is resolved and spelled by that field's own property.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`after` stated with a record is refused rather than dropped.",
     },
   ],
   changeKind: "change-kind/change-checked",
