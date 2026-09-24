@@ -31,8 +31,7 @@
     "chapterProse": {
       "titles": "hidden",
       "history": "full",
-      "pastTurns": "muted",
-      "systemWindows": true
+      "pastTurns": "muted"
     }
   }
 }

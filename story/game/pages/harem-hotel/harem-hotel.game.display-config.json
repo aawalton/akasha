@@ -25,16 +25,12 @@
     },
     "sheet": {},
     "quests": {},
-    "beatLog": {
-      "systemWindows": true
-    },
     "actionBox": {},
     "storySoFar": {
       "source": "turns"
     },
     "chapterProse": {
-      "history": "full",
-      "systemWindows": true
+      "history": "full"
     }
   }
 }

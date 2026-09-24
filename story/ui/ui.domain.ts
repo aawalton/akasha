@@ -20,7 +20,6 @@ export const ui = {
     "module/newest-divider",
     "module/pending-actions",
     "module/pool-bars",
-    "module/prose-interleave",
     "module/quest-card",
     "module/quest-projection",
     "module/quests-panel",

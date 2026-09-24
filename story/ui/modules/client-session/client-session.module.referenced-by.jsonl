@@ -3,8 +3,6 @@
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/hud-panel/hud-panel.module.code.tsx"}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/narrative-log/narrative-log.module.code.tsx"}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/pool-bars/pool-bars.module.code.ts"}
-{"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/prose-interleave/prose-interleave.module.code.ts"}
-{"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/prose-interleave/prose-interleave.module.test.ts"}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/quest-card/quest-card.module.code.tsx"}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/quest-projection/quest-projection.module.code.ts"}
 {"propertySlug":"import","fileName":"client-session.module.code.ts","path":"story/ui/modules/quest-projection/quest-projection.module.test.ts"}

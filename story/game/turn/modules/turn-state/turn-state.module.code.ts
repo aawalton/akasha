@@ -3,7 +3,6 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
-import { windowOf } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
 import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import type {
@@ -13,7 +12,6 @@ import type {
 
 const NAME = "name"
 const MAX = "Max"
-const SYSTEM = "system"
 const LAST = -1
 const COMPLETE = "complete"
 const ACTIVE = "active"
@@ -133,37 +131,6 @@ export function revealedOf(player: Page, turn: Page): RevealedSheet {
   }
 }
 
-export function beatsIn(turns: readonly Page[]): Named[] {
-  const found: Named[] = []
-  for (const turn of turns) {
-    const at = countIn(turn.number)
-    for (const raised of listIn(turn.windows)) {
-      const kind = saidIn(raised["kind"])
-      if (kind === undefined) continue
-      const name = saidIn(raised[NAME])
-      const note = saidIn(raised["note"])
-      const held = windowOf({
-        kind,
-        name,
-        rung: saidIn(raised["rung"]),
-        level: countIn(raised["level"]),
-        note,
-      })
-      found.push(
-        held === undefined
-          ? {
-              type: SYSTEM,
-              turn: at,
-              title: name ?? kind,
-              ...(note === undefined ? {} : { lines: [note] }),
-            }
-          : { type: SYSTEM, turn: at, window: held }
-      )
-    }
-  }
-  return found
-}
-
 export function hudOf(player: Page | null, turn: Page): Hud {
   const level = player === null ? undefined : countIn(player.level)
   const points = player === null ? undefined : countIn(player.unspentAttributePoints)
@@ -210,7 +177,6 @@ export function stateOf(
     turn,
     hud: hudOf(player, last),
     ...(player === null ? {} : { revealed: revealedOf(player, last) }),
-    log: beatsIn(turns),
     quests: questsIn(quests),
   }
 }

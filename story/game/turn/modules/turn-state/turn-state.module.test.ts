@@ -6,7 +6,6 @@ import { gameAttribute } from "akasha/story/game/attribute/game-attribute.page-t
 import { luck } from "akasha/story/game/attribute/pages/luck.game-attribute.ts"
 import {
   attributesIn,
-  beatsIn,
   hudOf,
   revealedOf,
   stateOf,
@@ -50,11 +49,6 @@ const TURN = asPage({
   ],
   derived: [{ name: "Vitae (HP)", number: 124 }],
   rungs: [{ name: "Smithing", rung: "Apprentice" }],
-  windows: [
-    { kind: "item-award", name: "Clouded lens", note: "Recovered from: the Host's seat" },
-    { kind: "skill", name: "Smithing", rung: "Apprentice" },
-    { kind: "level-up", level: 7 },
-  ],
 })
 
 const QUEST = asPage({
@@ -97,22 +91,6 @@ test("the sheet is the player's page, with the rungs and numbers the turn worked
   expect(sheet.inventory).toEqual([{ name: "Lantern", note: "lit" }])
   expect(sheet.titles).toEqual(["Climber"])
   expect(sheet.derived).toEqual({ "Vitae (HP)": 124 })
-})
-
-test("every window every turn raised is a beat of the log", () => {
-  const beats = beatsIn([TURN])
-  expect(beats).toHaveLength(3)
-  expect(beats[0]).toEqual({
-    type: "system",
-    turn: 88,
-    window: {
-      type: "item-award",
-      award: {
-        item: "Clouded lens",
-        descriptors: [{ label: "Recovered from", value: "the Host's seat" }],
-      },
-    },
-  })
 })
 
 test("the state is the last turn with the player's sheet, and what the reader accepts", () => {

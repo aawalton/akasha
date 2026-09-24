@@ -22,11 +22,6 @@ export const turnState = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Every window every turn raised is a beat of the log, in the order the turns were played.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A game with no turn page has no state.",
     },
     {

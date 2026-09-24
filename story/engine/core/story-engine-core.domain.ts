@@ -11,7 +11,6 @@ export const storyEngineCore = {
     "module/chapter-words",
     "module/choice-action",
     "module/game-schema",
-    "module/prose-segments",
     "module/prose-windows",
     "module/quest-schema",
     "module/revealed",

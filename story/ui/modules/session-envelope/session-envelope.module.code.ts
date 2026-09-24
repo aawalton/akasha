@@ -11,7 +11,6 @@ import type {
   SessionEnvelope,
 } from "akasha/story/ui/modules/client-envelope/client-envelope.module.code.ts"
 import {
-  type ClientBeat,
   projectClientBeats,
   projectClientHud,
   projectClientQuests,
@@ -24,12 +23,6 @@ import type {
   ClientStoryTurn,
 } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { selectPendingActions } from "akasha/story/ui/modules/pending-actions/pending-actions.module.code.ts"
-import {
-  interleaveTurnSegments,
-  type TurnInterleaveMismatch,
-} from "akasha/story/ui/modules/prose-interleave/prose-interleave.module.code.ts"
-
-type SystemClientBeat = Extract<ClientBeat, { type: "system" }>
 
 export interface StoryLedger {
   readonly chapters: readonly ClientStoryChapter[]
@@ -72,11 +65,6 @@ export function assertEnvelopeMatchesModules(
   }
 }
 
-function systemBeatsFor(state: GameState | null): readonly SystemClientBeat[] {
-  if (state === null) return []
-  return projectClientBeats(state).filter((b): b is SystemClientBeat => b.type === "system")
-}
-
 function windowSegment(written: WrittenWindow): ClientProseSegment {
   const window = windowOf(written)
   if (window !== undefined) return { kind: "system", window }
@@ -87,54 +75,27 @@ function windowSegment(written: WrittenWindow): ClientProseSegment {
   }
 }
 
-function withWindows(
-  turn: ClientStoryTurn,
-  segments?: readonly ClientProseSegment[]
-): ClientStoryTurn {
-  const opened = (segments ?? [{ kind: "prose", text: turn.text }]).flatMap(
-    (segment): ClientProseSegment[] =>
-      segment.kind === "prose"
-        ? proseWindowSegmentsIn(segment.text).map((one) =>
-            one.kind === "prose" ? one : windowSegment(one.window)
-          )
-        : [segment]
+function withWindows(turn: ClientStoryTurn): ClientStoryTurn {
+  const cut = proseWindowSegmentsIn(turn.text)
+  if (cut.every((one) => one.kind === "prose")) return turn
+  const segments = cut.map(
+    (one): ClientProseSegment => (one.kind === "prose" ? one : windowSegment(one.window))
   )
-  if (segments === undefined && opened.every((one) => one.kind === "prose")) return turn
-  return { ...turn, segments: opened }
+  return { ...turn, segments }
 }
 
 export function composeSessionEnvelope(
   title: string,
   modules: GameDisplayModules,
-  inputs: EnvelopeInputs,
-  onMismatch?: (mismatch: TurnInterleaveMismatch) => void
+  inputs: EnvelopeInputs
 ): SessionEnvelope {
   const envelope: SessionEnvelope = { title }
   const stateForSections = inputs.story?.publishedState ?? inputs.state
-  const inlineSystem = modules.chapterProse?.systemWindows === true
   if (modules.chapterProse !== undefined) {
-    const turns = inputs.story?.current ?? []
-    const systemBeats = inlineSystem ? systemBeatsFor(stateForSections) : []
-    envelope.chapterProse = turns.map((turn) => {
-      if (!inlineSystem) return withWindows(turn)
-      const forTurn = systemBeats.filter(
-        (b) => turn.turnNumber !== undefined && b.turn === turn.turnNumber
-      )
-      const { segments, mismatch } = interleaveTurnSegments(turn, forTurn)
-      if (mismatch !== undefined) onMismatch?.(mismatch)
-      return withWindows(turn, segments)
-    })
+    envelope.chapterProse = (inputs.story?.current ?? []).map(withWindows)
   }
   if (modules.beatLog !== undefined) {
-    if (stateForSections === null) {
-      envelope.beatLog = null
-    } else {
-      const beats = projectClientBeats(stateForSections)
-      envelope.beatLog =
-        modules.beatLog.systemWindows === true && !inlineSystem
-          ? [...beats]
-          : beats.filter((b) => b.type !== "system")
-    }
+    envelope.beatLog = stateForSections === null ? null : [...projectClientBeats(stateForSections)]
   }
   if (modules.hud !== undefined) {
     envelope.hud = stateForSections === null ? null : projectClientHud(stateForSections)

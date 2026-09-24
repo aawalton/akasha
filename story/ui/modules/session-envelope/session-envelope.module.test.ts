@@ -49,7 +49,7 @@ describe("composeSessionEnvelope", () => {
     })
   })
 
-  test("gives the turns straight through where system windows are not inline", () => {
+  test("gives a turn with no window written in it straight through", () => {
     const modules: GameDisplayModules = { chapterProse: {} }
     const out = composeSessionEnvelope("A Game", modules, { state: STATE, story: STORY })
     expect(out.chapterProse).toEqual([...STORY.current])
@@ -80,14 +80,8 @@ describe("composeSessionEnvelope", () => {
     expect(out.sheet).toBeNull()
   })
 
-  test("drops the system beats from the beat log by default", () => {
+  test("carries every beat of the state's log", () => {
     const out = composeSessionEnvelope("A Game", { beatLog: {} }, { state: STATE, story: null })
-    expect(out.beatLog?.map((b) => b.type)).toEqual(["narrative"])
-  })
-
-  test("keeps the system beats where the beat log asks for windows", () => {
-    const modules: GameDisplayModules = { beatLog: { systemWindows: true } }
-    const out = composeSessionEnvelope("A Game", modules, { state: STATE, story: null })
     expect(out.beatLog?.map((b) => b.type)).toEqual(["narrative", "system"])
   })
 
@@ -131,33 +125,5 @@ describe("composeSessionEnvelope", () => {
       { text: "swing", submittedAt: 20, kind: "action" },
       { text: "[a note]", submittedAt: 30, kind: "feedback" },
     ])
-  })
-
-  test("sets the system beats into the prose where the prose asks for windows", () => {
-    const modules: GameDisplayModules = { chapterProse: { systemWindows: true } }
-    const story: StoryLedger = {
-      chapters: [],
-      current: [{ id: "t9", title: "T", text: "a\n\n{{system}}\n\nb", turnNumber: 4 }],
-    }
-    const out = composeSessionEnvelope("A Game", modules, { state: STATE, story })
-    expect(out.chapterProse?.[0]?.segments).toEqual([
-      { kind: "prose", text: "a" },
-      { kind: "system", title: "Threshold", lines: ["Level 4."] },
-      { kind: "prose", text: "b" },
-    ])
-  })
-
-  test("hands a mismatch to the watcher and leaves the marker unavailable", () => {
-    const modules: GameDisplayModules = { chapterProse: { systemWindows: true } }
-    const story: StoryLedger = {
-      chapters: [],
-      current: [{ id: "t9", title: "T", text: "a\n\n{{system}}\n\nb", turnNumber: 7 }],
-    }
-    const seen: string[] = []
-    const out = composeSessionEnvelope("A Game", modules, { state: STATE, story }, (m) => {
-      seen.push(m.reason)
-    })
-    expect(seen).toEqual(["count"])
-    expect(out.chapterProse?.[0]?.segments?.[1]).toEqual({ kind: "unavailable" })
   })
 })

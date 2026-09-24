@@ -75,14 +75,13 @@ export const GameDisplayModulesSchema = z
   .object({
     chapterProse: z
       .object({
-        systemWindows: z.boolean().optional(),
         history: ChapterProseHistorySchema.optional(),
         titles: ChapterProseTitlesSchema.optional(),
         pastTurns: ChapterProsePastTurnsSchema.optional(),
       })
       .strict()
       .optional(),
-    beatLog: z.object({ systemWindows: z.boolean().optional() }).strict().optional(),
+    beatLog: z.object({}).strict().optional(),
     hud: z
       .object({ pools: z.array(PoolPresentationSchema).optional() })
       .strict()

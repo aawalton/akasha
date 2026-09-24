@@ -109,7 +109,7 @@ describe("panelsDrawnHere", () => {
       hud: { pools: [] },
       sheet: {},
       quests: {},
-      beatLog: { systemWindows: true },
+      beatLog: {},
       storySoFar: { source: "turns" as const },
       chapterProse: { history: "full" as const },
     }

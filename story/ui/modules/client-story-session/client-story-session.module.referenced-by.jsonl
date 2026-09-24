@@ -2,8 +2,6 @@
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts"}
-{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/prose-interleave/prose-interleave.module.code.ts"}
-{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/prose-interleave/prose-interleave.module.test.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/session-envelope/session-envelope.module.code.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/story-prose-dividers/story-prose-dividers.module.code.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/story-prose-dividers/story-prose-dividers.module.test.ts"}
