@@ -1,11 +1,14 @@
 import type { AppNavItem } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
 import {
   BarChart3,
+  BookOpen,
   Compass,
   ExternalLink,
   FileText,
+  Globe,
   Hammer,
   Package,
+  Smile,
   SwatchBook,
 } from "lucide-react"
 import { z } from "zod"
@@ -69,6 +72,30 @@ export function getNavItemProducts(): AppNavItem {
     shortLabel: "Products",
     icon: Package,
     children: [
+      {
+        id: "archive-of-worlds",
+        label: "Archive of Worlds",
+        shortLabel: "Archive",
+        href: "https://archiveofworlds.app",
+        external: true,
+        icon: Globe,
+      },
+      {
+        id: "innworld-wiki",
+        label: "Innworld Wiki",
+        shortLabel: "Innworld",
+        href: "https://innworld.wiki",
+        external: true,
+        icon: BookOpen,
+      },
+      {
+        id: "smiling-jenny",
+        label: "Smiling Jenny",
+        shortLabel: "Jenny",
+        href: "https://smilingjenny.me",
+        external: true,
+        icon: Smile,
+      },
       {
         id: "temper",
         label: "Temper",
