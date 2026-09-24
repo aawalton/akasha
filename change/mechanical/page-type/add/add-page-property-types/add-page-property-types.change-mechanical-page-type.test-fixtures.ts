@@ -4,6 +4,7 @@ import {
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const KIND = "boolean-property"
 
@@ -55,7 +56,11 @@ export function worldFor(given: Given, reaching: Reaching): World {
   const index = {
     kindsUnder: () => new Set(given.kinds ?? [KIND]),
     everyOfType: () => given.paths.map((path) => ({ path })),
-    pageByPath: () => ({ pageTypeSlug: KIND, slug: "mortal", ...(given.stated ?? {}) }),
+    pageByPath: () => ({
+      type: `${pageType.slug}/${KIND}`,
+      slug: "mortal",
+      ...(given.stated ?? {}),
+    }),
     importersOf: () => given.importers ?? [],
     fileKeysAt: () => new Map(),
     manifestsBeside: () => [],

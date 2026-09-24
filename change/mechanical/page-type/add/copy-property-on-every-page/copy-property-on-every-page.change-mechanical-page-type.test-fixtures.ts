@@ -17,7 +17,7 @@ function callAt(slug: string, held: string): string {
   return `import type { MootCall } from "../moot-call.page-type.ts"
 
 export const ${slug} = {
-  pageTypeSlug: "${TYPE}",
+  type: "page-type/${TYPE}",
   slug: "${slug}",
   ${FROM}: ["${held}"],
   weight: 1,
@@ -55,8 +55,8 @@ export const HOLDS_ONE: Carried = {
 export const DECLARED: readonly Carried[] = [HOLDS_MANY, HOLDS_ONE]
 
 export const VALUES = new Map<string, Value>([
-  [ONE_AT, { pageTypeSlug: TYPE, slug: "one", [FROM]: ["aine"] }],
-  [TWO_AT, { pageTypeSlug: TYPE, slug: "two", [FROM]: ["alan"] }],
+  [ONE_AT, { type: "page-type/moot-call", slug: "one", [FROM]: ["aine"] }],
+  [TWO_AT, { type: "page-type/moot-call", slug: "two", [FROM]: ["alan"] }],
 ])
 
 export function worldFor(

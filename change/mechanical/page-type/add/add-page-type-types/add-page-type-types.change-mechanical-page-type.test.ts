@@ -10,6 +10,7 @@ import {
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { listing } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const AT = "thrumming/moots/moot.page-type.ts"
 
@@ -62,7 +63,7 @@ const TYPES_BODY = "export const held = 1\n"
 
 type Held = Record<string, unknown>
 
-const MOOT: Held = { pageTypeSlug: "page-type", slug: "moot" }
+const MOOT: Held = { type: `${pageType.slug}/${pageType.slug}`, slug: "moot" }
 
 const REACHED: string[] = []
 
@@ -137,7 +138,7 @@ test("a path naming no page is refused before any body is worked out", () => {
 
 test("a page that is no page type is refused before any body is worked out", () => {
   const held: Readonly<Record<string, Held>> = {
-    [AT]: { pageTypeSlug: "record-property", slug: "moot" },
+    [AT]: { type: `${pageType.slug}/record-property`, slug: "moot" },
   }
 
   const said = addPageTypeTypes(worldFor({ pages: held }), { at: AT })
@@ -147,9 +148,12 @@ test("a page that is no page type is refused before any body is worked out", () 
 })
 
 test("a page type stating no slug is refused", () => {
-  const said = addPageTypeTypes(worldFor({ pages: { [AT]: { pageTypeSlug: "page-type" } } }), {
-    at: AT,
-  })
+  const said = addPageTypeTypes(
+    worldFor({ pages: { [AT]: { type: `${pageType.slug}/${pageType.slug}` } } }),
+    {
+      at: AT,
+    }
+  )
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain("states no slug")
@@ -189,7 +193,7 @@ test("a page type is refused for that shape spelled in a type it extends", () =>
       bodies: { [AT]: PAGE, [TO]: TYPES_BODY, [ABOVE_AT]: ABOVE_PAGE },
       pages: {
         [AT]: { ...MOOT, extends: ["page-type/twig"] },
-        [ABOVE_AT]: { pageTypeSlug: "page-type", slug: "twig" },
+        [ABOVE_AT]: { type: `${pageType.slug}/${pageType.slug}`, slug: "twig" },
       },
     }),
     { at: AT }

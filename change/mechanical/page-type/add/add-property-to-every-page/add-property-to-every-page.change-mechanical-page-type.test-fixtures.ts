@@ -21,7 +21,7 @@ const AINE = `"aine"`
 
 export function mootAt(slug: string): string {
   return `export const ${slug} = {
-  pageTypeSlug: "${TYPE}",
+  type: "page-type/${TYPE}",
   slug: "${slug}",
   weight: 1,
 } as const satisfies MootCall
@@ -50,10 +50,10 @@ export const DECLARED: Carried = {
 export const MANY: Carried = { ...DECLARED, key: "weights", many: true }
 
 function valueAt(slug: string): Value {
-  return { pageTypeSlug: TYPE, slug, weight: 1 }
+  return { type: "page-type/moot-call", slug, weight: 1 }
 }
 
-const PLACED: Value = { pageTypeSlug: TYPE, slug: "three", [KEY]: "alan", weight: 1 }
+const PLACED: Value = { type: "page-type/moot-call", slug: "three", [KEY]: "alan", weight: 1 }
 
 export const VALUES = new Map<string, Value>([
   [ONE_AT, valueAt("one")],

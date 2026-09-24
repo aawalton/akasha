@@ -4,6 +4,7 @@ import {
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const KIND = "file-property"
 
@@ -43,7 +44,7 @@ export function worldFor(
   const index = {
     kindsUnder: () => new Set(kinds),
     everyOfType: () => Object.keys(bodies).map((path) => ({ path })),
-    pageByPath: () => ({ pageTypeSlug: KIND, slug: "mask", ...stated }),
+    pageByPath: () => ({ type: `${pageType.slug}/${KIND}`, slug: "mask", ...stated }),
   } as never
   const ledger = ledgerAt("/nowhere", filesOf(bodies), reaching)
   return Object.defineProperty(ledger, "index", { value: index })
