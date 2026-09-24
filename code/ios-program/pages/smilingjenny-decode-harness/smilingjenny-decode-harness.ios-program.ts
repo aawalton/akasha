@@ -29,7 +29,7 @@ export const smilingjennyDecodeHarness = {
   ],
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every tile this program compiles has a decode assertion.",
     },
   ],

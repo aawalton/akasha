@@ -1865,6 +1865,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-harness/pages/render-harness/render-harness.ios-harness.ts","id":"01a059a0-c8c2-7f6f-b822-ad3dedaaeb86"}
 {"propertySlug":"decision-kind","path":"code/ios-harness/scripts/render-harness-run/render-harness-run.shell-script.ts","id":"01a059a0-c8c3-7532-ba93-10d6107fa669"}
 {"propertySlug":"decision-kind","path":"code/ios-program/ios-program.page-type.ts","id":"01a05901-26b3-7d1b-aec6-3b467f5f5b8d"}
+{"propertySlug":"decision-kind","path":"code/ios-program/pages/smilingjenny-decode-harness/smilingjenny-decode-harness.ios-program.ts","id":"01a0590a-0b38-7a31-a332-3212460d77ba"}
 {"propertySlug":"decision-kind","path":"code/ios-program/properties/target-name.text-property.ts","id":"01a059c0-5610-793f-b79a-cb8f78cf963e"}
 {"propertySlug":"decision-kind","path":"code/javascript-module/javascript-module.page-type.ts","id":"01a06954-f7db-7006-ba1c-605a60e17fab"}
 {"propertySlug":"decision-kind","path":"code/javascript-module/properties/javascript.code-file-property.ts","id":"01a06954-f7dc-7da3-abd6-1b92e38df030"}
