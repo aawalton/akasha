@@ -40,14 +40,18 @@ export function placedSecretChecksum(secret: string, keys: readonly string[] = [
   return createHash("md5").update(JSON.stringify(summed)).digest("hex")
 }
 
+export function mintedSecretJsonpath(keys: readonly string[] = []): string {
+  if (keys.length === 0) return WHOLE
+  return keys.map((key) => `{.data.${key.replaceAll(".", "\\.")}}`).join("")
+}
+
 export function mintedSecretChecksum(
   namespace: string,
   secret: string,
   keys: readonly string[] = []
 ): string {
   const over = keys.length === 0 ? "its whole contents" : keys.join(", ")
-  const jsonpath =
-    keys.length === 0 ? WHOLE : keys.map((key) => `{.data.${key.replaceAll(".", "\\.")}}`).join("")
+  const jsonpath = mintedSecretJsonpath(keys)
   const done = ran([
     "kubectl",
     "get",
