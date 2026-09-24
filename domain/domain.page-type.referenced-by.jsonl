@@ -199,6 +199,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/eso/the-elder-scrolls-online/the-elder-scrolls-online.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/eso/wallpaper/eso-wallpaper.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/calendar/google-calendar.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/company/google-company.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/drive/google-drive.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/email/google-email.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/google.domain.ts"}
