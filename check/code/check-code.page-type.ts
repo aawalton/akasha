@@ -26,6 +26,7 @@ export const checkCode = {
     "check-code/folder-matches-a-shape",
     "check-code/global-declared-once",
     "check-code/global-is-set-before-it-is-read",
+    "check-code/hash-indexed-entry-keeps-its-place",
     "check-code/hand-written-global-is-no-method",
     "check-code/id-is-a-uuid-version-7",
     "check-code/identifier-matches-its-place",

@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/hash-indexed-entry-keeps-its-place/hash-indexed-entry-keeps-its-place.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/identifier-names-one-page/identifier-names-one-page.check-code.ts","typed":true,"deferred":false}

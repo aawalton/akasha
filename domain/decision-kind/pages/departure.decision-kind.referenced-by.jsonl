@@ -1518,6 +1518,8 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/global-declared-once/global-declared-once.check-code.ts","id":"01a061ca-2484-773a-8dc7-e6a08fe588f9"}
 {"propertySlug":"decision-kind","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.ts","id":"01a0c5ef-78de-7000-82a2-cb946db0e84d"}
 {"propertySlug":"decision-kind","path":"check/code/pages/hand-written-global-is-no-method/hand-written-global-is-no-method.check-code.ts","id":"01a0823c-3bff-7d55-9301-1297ad069ef4"}
+{"propertySlug":"decision-kind","path":"check/code/pages/hash-indexed-entry-keeps-its-place/hash-indexed-entry-keeps-its-place.check-code.ts","id":"01a0d5c5-e951-72c9-8279-6d809d75ffc3"}
+{"propertySlug":"decision-kind","path":"check/code/pages/hash-indexed-entry-keeps-its-place/modules/hash-table-entries/hash-table-entries.module.ts","id":"01a0d5c5-e951-7754-bbbd-d7f02de15218"}
 {"propertySlug":"decision-kind","path":"check/code/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.check-code.ts","id":"01a04bcb-c6f6-726e-ad7e-718958087eb4"}
 {"propertySlug":"decision-kind","path":"check/code/pages/identifier-matches-its-place/identifier-matches-its-place.check-code.ts","id":"01a0500d-f968-74e7-b9a7-8394faa7a890"}
 {"propertySlug":"decision-kind","path":"check/code/pages/identifier-matches-its-place/modules/place-reading/place-reading.module.ts","id":"01a0b8af-d1b4-7dd0-956c-5529d1ad14cd"}
