@@ -1,3 +1,8 @@
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-weapon-trait/pages/defending/grades/weapon-trait-defending-epic-resistance-physical.temper-gear-grade.ts","id":"01a0d3e8-a8b5-7472-a5f2-2867754b23e9"}
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-weapon-trait/pages/defending/grades/weapon-trait-defending-fine-resistance-physical.temper-gear-grade.ts","id":"01a0d3e8-b81f-7318-b991-efbf085921fa"}
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-weapon-trait/pages/defending/grades/weapon-trait-defending-legendary-resistance-physical.temper-gear-grade.ts","id":"01a0d3e8-f796-7888-9de3-6d29599db4ae"}
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-weapon-trait/pages/defending/grades/weapon-trait-defending-normal-resistance-physical.temper-gear-grade.ts","id":"01a0d3e8-caf7-7edb-b4f5-27d77dc8e6ab"}
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-weapon-trait/pages/defending/grades/weapon-trait-defending-superior-resistance-physical.temper-gear-grade.ts","id":"01a0d3e8-e610-7770-aabb-bd02471522c7"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-resistance-bleed.temper-metric-tree.ts","id":"019e2fcd-5a24-71d5-b658-29d4b2ed8031"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-resistance-disease.temper-metric-tree.ts","id":"019e2fcd-5a25-7456-9671-6e8eb5339a1a"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-resistance-poison.temper-metric-tree.ts","id":"019e2fcd-5a26-78bc-b4fd-845eb09f7e43"}
