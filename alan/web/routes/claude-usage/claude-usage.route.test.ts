@@ -152,6 +152,18 @@ test("the tier is read off how long the seven-day window has left", async () => 
   expect(await tierAt(100)).toBe("blue")
 })
 
+test("the words each readout of the group states ride beside the readings", async () => {
+  const words = { "weekly-usage": { label: "Weekly Usage", unit: "%" } }
+  const response = buildClaudeUsageResponse(answers({ meanWeeklyUsed: spent(4) }), NOW, words)
+  const payload = (await response.json()) as UsageWidgetPayload
+  expect(payload.readouts).toEqual(words)
+})
+
+test("a group whose words went unread leaves the words out rather than sending none", async () => {
+  const payload = await payloadOf(answers({ meanWeeklyUsed: spent(4) }))
+  expect("readouts" in payload).toBe(false)
+})
+
 test("the mean is asked of every Anthropic account and narrows nothing further", () => {
   const asking = askingsAt(NOW).meanWeeklyUsed
   expect(asking.pageTypeSlug).toBe(ACCOUNT)

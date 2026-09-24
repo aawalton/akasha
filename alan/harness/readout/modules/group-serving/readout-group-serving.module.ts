@@ -35,6 +35,11 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A feed drawing a group as something other than stoplights asks for the group's words by wire key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The key with the wire key is the key the caller names.",
     },
     {

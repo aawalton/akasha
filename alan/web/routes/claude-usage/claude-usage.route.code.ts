@@ -1,6 +1,10 @@
 import { modelProvider } from "akasha/agent/model/provider/model-provider.page-type.ts"
 import { anthropic } from "akasha/agent/model/provider/pages/anthropic/anthropic.model-provider.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
+import {
+  type WordsByWireKey,
+  wordsInGroup,
+} from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import { guardReadout } from "akasha/alan/web/.server/readout-guarding/readout-guarding.module.code.ts"
 import type {
   Asked,
@@ -18,7 +22,10 @@ export type UsageWidgetPayload = {
   sevenDayBackAt: number | null
   sevenDayEndsAt: number | null
   tier: UsageTier
+  readouts?: WordsByWireKey
 }
+
+const GROUP = "claude-usage"
 
 const MEAN_WEEKLY_USED = "the fleet's seven-day spend"
 const NEXT_FIVE_HOUR_BACK = "the next five-hour window to come back"
@@ -157,7 +164,11 @@ function tierFor(sevenDayEndsAt: number | null, nowMs: number): UsageTier {
 const UNANSWERED =
   "the usage this route reports went unread, so there is none to report; a payload of nulls and zeroes would read to the widget as a fleet that has spent nothing with nothing pending"
 
-export function buildClaudeUsageResponse(answers: ClaudeUsageAnswers, nowMs: number): Response {
+export function buildClaudeUsageResponse(
+  answers: ClaudeUsageAnswers,
+  nowMs: number,
+  readouts: WordsByWireKey = {}
+): Response {
   const avgUsedPct = meanUsedPct(answers.meanWeeklyUsed)
   const fiveHourBackAt = instantIn(
     answers.nextFiveHourBack,
@@ -187,6 +198,7 @@ export function buildClaudeUsageResponse(answers: ClaudeUsageAnswers, nowMs: num
     sevenDayBackAt: sevenDayBackAt.value,
     sevenDayEndsAt: sevenDayEndsAt.value,
     tier: tierFor(sevenDayEndsAt.value, nowMs),
+    ...(Object.keys(readouts).length === 0 ? {} : { readouts }),
   }
   return Response.json(payload, { headers: { "Cache-Control": READOUT_CACHE_CONTROL } })
 }
@@ -196,14 +208,17 @@ export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
   if (refusal !== null) return refusal
   const nowMs = Date.now()
   const askings = askingsAt(nowMs)
-  const [meanWeeklyUsed, nextFiveHourBack, nextSevenDayBack, nextSevenDayEnd] = await Promise.all([
-    askingFor(askings.meanWeeklyUsed),
-    askingFor(askings.nextFiveHourBack),
-    askingFor(askings.nextSevenDayBack),
-    askingFor(askings.nextSevenDayEnd),
-  ])
+  const [meanWeeklyUsed, nextFiveHourBack, nextSevenDayBack, nextSevenDayEnd, readouts] =
+    await Promise.all([
+      askingFor(askings.meanWeeklyUsed),
+      askingFor(askings.nextFiveHourBack),
+      askingFor(askings.nextSevenDayBack),
+      askingFor(askings.nextSevenDayEnd),
+      wordsInGroup(GROUP),
+    ])
   return buildClaudeUsageResponse(
     { meanWeeklyUsed, nextFiveHourBack, nextSevenDayBack, nextSevenDayEnd },
-    nowMs
+    nowMs,
+    readouts
   )
 }

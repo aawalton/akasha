@@ -3,6 +3,7 @@ import {
   answerStoplightsAdmittedBy,
   inPlaceOrder,
   stoplightsInGroup,
+  wordsInGroup,
 } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   ANSWERED,
@@ -156,6 +157,18 @@ test("the unit answered is the one the readout's own page carries, where it carr
   const [stated, unstated] = await stoplights()
   expect(stated?.unit).toBe("levels")
   expect(unstated !== undefined && "unit" in unstated).toBe(false)
+})
+
+test("the words of each readout the group admits are answered under its wire key", async () => {
+  ANSWERED.readouts = [
+    READOUT_ROW,
+    OTHER_ROW,
+    { ...READOUT_ROW, slug: "stilled", wireKey: "stilled", enabled: false },
+  ]
+  expect(await wordsInGroup(GROUP)).toEqual({
+    safety: { label: "Safety", unit: "levels" },
+    surplus: { label: "Surplus" },
+  })
 })
 
 test("the wire key is answered under the key the caller names", async () => {

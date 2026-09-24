@@ -1,3 +1,4 @@
+import type { ReadoutWords } from "akasha/alan/harness/readout/modules/body/readout-body.module.code.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import { stated } from "akasha/alan/harness/readout/modules/none-left/readout-none-left.module.code.ts"
 import {
@@ -194,6 +195,27 @@ export async function stoplightsInGroup(
     if (one !== null) stoplights.push(figureOffScale ? { ...one, figureOffScale } : one)
   }
   return stoplights
+}
+
+export type WordsByWireKey = Readonly<Record<string, ReadoutWords>>
+
+export async function wordsInGroup(groupSlug: string, fetcher?: Fetcher): Promise<WordsByWireKey> {
+  const asked = await askingFor(
+    {
+      pageTypeSlug: READOUT,
+      where: { groups: { has: namedAs(READOUT_GROUP, groupSlug, null) } },
+    },
+    fetcher
+  )
+  if ("refused" in asked) return {}
+
+  const words: Record<string, ReadoutWords> = {}
+  for (const row of asked.rows) {
+    if (stilled(row)) continue
+    const wireKey = stated(row.wireKey)
+    if (wireKey !== undefined) words[wireKey] = wordsOn(row)
+  }
+  return words
 }
 
 export async function answerStoplightsAdmittedBy(
