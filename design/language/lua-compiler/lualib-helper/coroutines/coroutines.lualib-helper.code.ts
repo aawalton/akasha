@@ -1,10 +1,10 @@
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
-const coroutine = _G.coroutine ?? {}
+const offered = (_G.coroutine ?? {}) as typeof coroutine
 
 export const __TS__Coroutines = {
-  create: coroutine.create,
-  resume: coroutine.resume,
-  status: coroutine.status,
-  yield: coroutine.yield,
+  create: offered.create,
+  resume: offered.resume,
+  status: offered.status,
+  yield: offered.yield,
 }
