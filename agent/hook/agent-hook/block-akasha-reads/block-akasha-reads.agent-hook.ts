@@ -20,6 +20,10 @@ export const blockAkashaReads = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A path opening with `~` lands under the home folder, as Read takes it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal says the output must reach the agent.",
     },
     {

@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  homeExpanded,
   imageBytesAt,
   refusalIn,
   SCOPE,
@@ -143,6 +144,30 @@ test("a file beside an image under another property is refused", () => {
   const root = worldAt()
   const at = pictureAt(root, `${PICTURE}.image.other.uncommitted.jpg`)
   expect(refusalIn(at, root, root)).not.toBeNull()
+})
+
+test("a page spelled from the home folder is refused as its whole path is", () => {
+  const root = worldAt()
+  const home = join(root, "..")
+  const under = root.slice(home.length + 1)
+  const said = refusalIn(`~/${under}/one/held.ts`, "/", root, home)
+  expect(said).toContain("akasha read --file-path one/held.ts")
+})
+
+test("an image's bytes spelled from the home folder are let through", () => {
+  const root = worldAt()
+  const home = join(root, "..")
+  const under = root.slice(home.length + 1)
+  const name = `${PICTURE}.image.${imageBytes.propertySlug}.uncommitted.jpg`
+  pictureAt(root, name)
+  expect(refusalIn(`~/${under}/pictures/${name}`, "/", root, home)).toBeNull()
+})
+
+test("the home folder alone is the home folder, and a `~` inside a name is left as it is", () => {
+  expect(homeExpanded("~", "/home/one")).toBe("/home/one")
+  expect(homeExpanded("~/a/b.ts", "/home/one")).toBe("/home/one/a/b.ts")
+  expect(homeExpanded("a/~/b.ts", "/home/one")).toBe("a/~/b.ts")
+  expect(homeExpanded("~other/b.ts", "/home/one")).toBe("~other/b.ts")
 })
 
 test("the image page type declares the bytes it lets through", () => {

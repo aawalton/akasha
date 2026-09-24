@@ -1,3 +1,4 @@
+import { homedir } from "node:os"
 import { join, resolve } from "node:path"
 import { ranAsHook } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agent/hook/modules/path-showing/path-showing.module.code.ts"
@@ -14,6 +15,10 @@ import {
 const HOOK = "block-akasha-reads"
 
 const FILE_PATH = "file_path"
+
+const HOME = "~"
+
+const UNDER_HOME = "~/"
 
 const BYTES_PROPERTY = `file-property/${imageBytes.slug}`
 
@@ -35,9 +40,10 @@ export const SCOPE: readonly string[] = [
   "",
   "CLOSED over the tool it judges. Read carries its target as a path in the structured tool input,",
   "so no shell reads it: there is no quoting, no substitution and nothing to parse, and therefore",
-  "no second spelling of a path to miss. The path is resolved against the directory the call was",
-  "made in, `.` and `..` are folded away, and every link on it is followed. What comes out is",
-  "compared against the checkout root resolved the same way.",
+  "no second spelling of a path to miss. A leading `~` is the home folder, as Read takes it. The",
+  "path is resolved against the directory the call was made in, `.` and `..` are folded away,",
+  "and every link on it is followed. What comes out is compared against the checkout root",
+  "resolved the same way.",
   "",
   "NOT REACHED. Each of these is outside the class, and is not a hole inside it:",
   "  - Grep and Glob. A search is not a read: it shows what matched, never a body this hook could",
@@ -96,10 +102,20 @@ export function imageBytesAt(path: string): boolean {
   )
 }
 
-export function refusalIn(filePath: string, from: string, root: string): string | null {
+export function homeExpanded(filePath: string, home: string): string {
+  if (filePath === HOME) return home
+  return filePath.startsWith(UNDER_HOME) ? join(home, filePath.slice(UNDER_HOME.length)) : filePath
+}
+
+export function refusalIn(
+  filePath: string,
+  from: string,
+  root: string,
+  home: string = homedir()
+): string | null {
   if (filePath.trim() === "") return null
   const here = settled(root)
-  const at = settled(resolve(from, filePath))
+  const at = settled(resolve(from, homeExpanded(filePath, home)))
   if (!insideOf(here, at)) return null
   if (insideOf(settled(join(here, INDEX_AT)), at)) return null
   return imageBytesAt(at) ? null : refusalFor(shownIn(here, at))
