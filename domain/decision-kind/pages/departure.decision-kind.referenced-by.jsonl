@@ -4814,8 +4814,9 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievements.page-property-entry.ts","id":"01a06168-7245-7004-8aa0-eba39e83a4e6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.ts","id":"01a06168-7245-7000-bc3b-b40339a88d31"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-category/properties/antiquities.page-property-entry.ts","id":"01a06166-503b-7004-a13a-ad8c499bf773"}
-{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-category/properties/eso-antiquity-set-id.number-property.ts","id":"01a06176-a912-7000-8819-19b71a0dafd6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-category/temper-antiquity-category.page-type.ts","id":"01a06166-503c-7000-a696-166a5a6ce1df"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-set/properties/eso-antiquity-set-id.number-property.ts","id":"01a06176-a912-7000-8819-19b71a0dafd6"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-antiquity-set/temper-antiquity-set.page-type.ts","id":"01a0d5cb-32b5-74ee-a95d-60f339a82129"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-cadwell-level/properties/cadwell-stops.page-property-entry.ts","id":"01a0616b-2cde-7000-91a1-a666b77645cd"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-cadwell-level/temper-cadwell-level.page-type.ts","id":"01a0616b-2cde-7001-a076-c5cb204d81f9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectible-category-parent.relation-property.ts","id":"01a0cadf-2a12-7d7d-97d2-9131af6aeefa"}

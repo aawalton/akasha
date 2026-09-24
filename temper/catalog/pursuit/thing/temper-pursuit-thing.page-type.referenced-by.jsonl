@@ -1,5 +1,6 @@
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.ts","id":"01a06168-7245-7000-bc3b-b40339a88d31"}
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-antiquity-category/temper-antiquity-category.page-type.ts","id":"01a06166-503c-7000-a696-166a5a6ce1df"}
+{"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-antiquity-set/temper-antiquity-set.page-type.ts","id":"01a0d5cb-32b5-74ee-a95d-60f339a82129"}
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-cadwell-level/temper-cadwell-level.page-type.ts","id":"01a0616b-2cde-7001-a076-c5cb204d81f9"}
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.ts","id":"01a06165-ae0e-7003-b36d-6529ae625fb0"}
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.ts","id":"01a0616b-2cdf-7001-a24c-0dd3c96e1a6e"}
@@ -9,6 +10,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-tribute-patron/temper-tribute-patron.page-type.ts","id":"01a06153-0ea9-7008-ab66-7b7e073ebf51"}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/temper-antiquity-category.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-set/temper-antiquity-set.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-cadwell-level/temper-cadwell-level.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.types.ts","typed":true,"deferred":false}

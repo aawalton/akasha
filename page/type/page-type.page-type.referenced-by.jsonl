@@ -660,6 +660,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/thing/temper-gear-thing.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/temper-antiquity-category.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-set/temper-antiquity-set.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-cadwell-level/temper-cadwell-level.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.ts","typed":true,"deferred":false}

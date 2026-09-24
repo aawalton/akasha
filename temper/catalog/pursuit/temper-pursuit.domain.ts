@@ -8,6 +8,7 @@ export const temperPursuit = {
   parts: [
     "page-type/temper-achievement-category",
     "page-type/temper-antiquity-category",
+    "page-type/temper-antiquity-set",
     "page-type/temper-cadwell-level",
     "page-type/temper-collectible-category",
     "page-type/temper-craft-type",

@@ -364,8 +364,8 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/total-steps.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/eso-antiquity-category-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/eso-antiquity-id.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/eso-antiquity-set-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/total-lore-entries.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-set/properties/eso-antiquity-set-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-cadwell-level/properties/stop-index.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-cadwell-level/properties/zone-index.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/eso-category-index.number-property.ts","typed":true,"deferred":false}
