@@ -2,6 +2,10 @@ import {
   callHarness,
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
+import type {
+  Calling,
+  Editor,
+} from "akasha/code/editor/extension/modules/panel-acting/panel-acting.module.code.ts"
 import { findingDelete } from "akasha/command/pages/finding/delete/finding-delete.command.ts"
 import { gapDelete } from "akasha/command/pages/gap/delete/gap-delete.command.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -21,19 +25,6 @@ const FINDING_KEYED = "finding/"
 const GAP_KEYED = "gap/"
 
 const PLACE_MARK = "#"
-
-export type Calling = (
-  slug: string,
-  exported: string,
-  args: readonly string[],
-  options: { readonly timeout: number }
-) => Promise<string>
-
-export type Editor = {
-  readonly window: {
-    readonly showErrorMessage: (said: string) => unknown
-  }
-}
 
 export type GapGone = {
   readonly page: string

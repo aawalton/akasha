@@ -1,9 +1,12 @@
 import { expect, test } from "bun:test"
+import type {
+  Calling,
+  Editor,
+} from "akasha/code/editor/extension/modules/panel-acting/panel-acting.module.code.ts"
+import { editorShowing } from "akasha/code/editor/extension/modules/panel-acting/panel-acting.module.test-fixtures.ts"
 import {
-  type Calling,
   deletingFinding,
   deletingGap,
-  type Editor,
   findingFailureSaid,
   findingGoneOf,
   gapFailureSaid,
@@ -22,7 +25,7 @@ function gapRow(key: string, label = "A thing is so."): GapTreeRow {
 
 function watching(): { readonly said: string[]; readonly editor: Editor } {
   const said: string[] = []
-  return { said, editor: { window: { showErrorMessage: (one: string) => said.push(one) } } }
+  return { said, editor: editorShowing({ showErrorMessage: (one: string) => said.push(one) }) }
 }
 
 function calling(answer: string): { readonly asked: unknown[]; readonly call: Calling } {

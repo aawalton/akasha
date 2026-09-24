@@ -111,6 +111,7 @@ export const extension = {
     "type-declaration/vscode-api",
     "module/ending-anchor",
     "module/seat-page-opening",
+    "module/panel-acting",
   ],
   decisions: [
     {

@@ -1013,6 +1013,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/page-tree-reading/page-tree-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/page-tree-view/page-tree-view.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/palette/palette.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/panel-acting/panel-acting.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-acts/seat-acts.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/seat-calls/seat-calls.module.ts"}

@@ -923,6 +923,7 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/page-tree-reading/page-tree-reading.module.ts","id":"01a06867-dbcb-7300-9560-2f216f804af7"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/page-tree-view/page-tree-view.module.ts","id":"01a06867-dbcb-7925-ac63-840ba36e4dce"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/palette/palette.module.ts","id":"01a064d3-f9f9-7259-a38b-0eb2aede39cb"}
+{"propertySlug":"decision-kind","path":"code/editor/extension/modules/panel-acting/panel-acting.module.ts","id":"01a0d580-0e69-7818-baed-910e0b3678b7"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-act-confirm/seat-act-confirm.module.ts","id":"01a0686b-bfe9-7d14-9f46-c9701b005af8"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-acts/seat-acts.module.ts","id":"01a0686b-bfe9-770c-b16a-b99c4d15eec7"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-calls/seat-calls.module.ts","id":"01a095c4-7d31-7000-a5b2-4e1f90c3ab77"}
