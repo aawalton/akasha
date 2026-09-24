@@ -41,25 +41,6 @@ export function actionOnlyLoader(
   }
 }
 
-export type CorsResponder = {
-  readonly carry: (headers: Headers) => void
-  readonly respond: (body: BodyInit | null, status: number, extra?: HeadersInit) => Response
-}
-
-export function corsResponder(cors: Record<string, string>): CorsResponder {
-  let carried = new Headers()
-  return {
-    carry: (headers) => {
-      carried = headers
-    },
-    respond: (body, status, extra) => {
-      const merged = withCors(new Headers(carried), cors)
-      if (extra) for (const [key, value] of new Headers(extra).entries()) merged.set(key, value)
-      return new Response(body, { status, headers: merged })
-    },
-  }
-}
-
 export function corsAnswered(answered: Response, cors: Record<string, string>): Response {
   if (Object.keys(cors).length === 0) return answered
   return new Response(answered.body, {
