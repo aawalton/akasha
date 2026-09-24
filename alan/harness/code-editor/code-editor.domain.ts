@@ -175,7 +175,7 @@ export const codeEditor = {
       statement: "No code repository sits beside the editor's build.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The editor is one clone.",
     },
     {
