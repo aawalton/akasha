@@ -7,8 +7,18 @@ import type { Importing } from "akasha/command/pages/chess/puzzles/import/chess-
 import { importing } from "akasha/command/pages/chess/puzzles/import/chess-puzzles-import.command.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { z } from "zod"
 
 const CALLED = "akasha chess puzzles import"
+
+const ENVELOPE_SAID = z.strictObject({
+  slug: z.string(),
+  read: z.number(),
+  skipped: z.number(),
+  matched: z.number(),
+  written: z.number(),
+  wrote: z.array(z.string()),
+})
 
 const WROTE = "alan/chess/puzzle-set/pages/one/one.chess-puzzle-set.ts"
 
@@ -141,7 +151,7 @@ test("the json answer carries the counts and what was written", async () => {
   const fake = fakeFor()
   const said = await importing(["--json"], fake.ports, CALLED)
   expect(said.code).toBe(0)
-  expect(JSON.parse(said.report.join("\n"))).toEqual({
+  expect(ENVELOPE_SAID.parse(JSON.parse(said.report.join("\n")))).toEqual({
     slug: "lichess",
     read: 3,
     skipped: 1,
