@@ -69,6 +69,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/context/warrant/properties/runs-on-write.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/context/warrant/properties/transitive.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"domain/properties/expands.boolean-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/owns-namespace.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/warm.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/catch-up.boolean-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/enabled.boolean-property.ts","typed":true,"deferred":false}

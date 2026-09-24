@@ -62,6 +62,10 @@ export const serviceCluster = {
     "service-cluster/alanwalton-requests",
     "service-cluster/innworld-web",
     "module/web-app-imaging",
+    "text-property/probe-path",
+    "select-property/workload-class",
+    "boolean-property/owns-namespace",
+    "text-property/instance-label",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },
@@ -90,6 +94,10 @@ export const serviceCluster = {
       many: false,
       uncommitted: true,
     },
+    { pageProperty: "text-property/probe-path", required: false, many: false },
+    { pageProperty: "select-property/workload-class", required: false, many: false },
+    { pageProperty: "boolean-property/owns-namespace", required: false, many: false },
+    { pageProperty: "text-property/instance-label", required: false, many: false },
   ],
   decisions: [
     {

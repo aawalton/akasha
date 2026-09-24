@@ -1,0 +1,1 @@
+export type InstanceLabel = string
