@@ -74,12 +74,28 @@ export const infrastructureProvisionedFileInstall = {
       statement: "A name the hosts file answers at another address stops the call unplaced.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A unit a page states masked is masked on the machines that page is for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A unit is masked already only where systemd says the unit is masked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A unit already masked is said and masked no second time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Root is asked for to mask a unit unless the call already runs as root.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here places a body the landing already places.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here spells a path, a machine or a reload of its own.",
+      statement: "Nothing here spells a path, a machine, a reload or a unit of its own.",
     },
   ],
   arguments: [{ argument: "argument/plan" }],

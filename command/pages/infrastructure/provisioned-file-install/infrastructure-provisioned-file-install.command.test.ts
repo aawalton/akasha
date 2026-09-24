@@ -6,6 +6,7 @@ import {
   callsFor,
   enteredFor,
   infrastructureProvisionedFileInstall,
+  maskedFor,
   type Placing,
   placedEach,
   type Ran,
@@ -69,8 +70,9 @@ const VOCABULARY: readonly Named[] = [
     idOf("1"),
     PLACED,
     [DOMAIN_AT],
-    [CONTENT, "install-path", "only-on", "placed-by", "reload-with"]
+    [CONTENT, "install-path", "only-on", "placed-by", "reload-with", "masked-units"]
   ),
+  aProperty(idOf("9"), "masked-units", "text-property"),
   aProperty(idOf("2"), CONTENT, "file-property"),
   aProperty(idOf("3"), "install-path", "text-property"),
   aProperty(idOf("4"), "only-on", "text-property"),
@@ -118,7 +120,7 @@ function placingAt(at: string, by: string, reload: string | null): Placing {
 }
 
 function standingsOf(held: Outside, ...placings: readonly Placing[]): ReturnType<typeof stoodFor> {
-  return stoodFor(held.root, { placings, wrong: [] })
+  return stoodFor(held.root, { placings, wrong: [], maskings: [] })
 }
 
 const NOTHING: Ran = { code: 0, out: "" }
@@ -162,7 +164,58 @@ test("a page saying no path is weighed nowhere", () => {
 })
 
 test("a repository with no index has nothing weighed", () => {
-  expect(weighedIn(heldIn().root, HERE)).toEqual({ placings: [], wrong: [] })
+  expect(weighedIn(heldIn().root, HERE)).toEqual({ placings: [], wrong: [], maskings: [] })
+})
+
+test("the units a page states masked are weighed on the machine the page is for", () => {
+  const units = ["sleep.target", "suspend.target"]
+  const root = worldOf(pageAt("one", { placedBy: "copy", onlyOn: HERE, maskedUnits: units }))
+
+  expect(weighedIn(root, HERE).maskings.map((one) => one.unit)).toEqual(units)
+  expect(weighedIn(root, THERE).maskings).toEqual([])
+})
+
+test("a unit already masked is left, and a unit not masked is to be masked", () => {
+  const said: string[][] = []
+  const run: Running = (argv) => {
+    said.push([...argv])
+    return { code: 1, out: argv.at(-1) === "sleep.target" ? "masked" : "enabled" }
+  }
+  const page = "held/one.provisioned-file.ts"
+
+  const masked = maskedFor(
+    [
+      { page, unit: "sleep.target" },
+      { page, unit: "suspend.target" },
+    ],
+    run
+  )
+
+  expect(said).toEqual([
+    ["systemctl", "is-enabled", "sleep.target"],
+    ["systemctl", "is-enabled", "suspend.target"],
+  ])
+  expect(masked.map((one) => [one.already, one.saying])).toEqual([
+    [true, "sleep.target is already masked"],
+    [false, "mask suspend.target"],
+  ])
+})
+
+test("a unit not masked is masked, and one already masked is run nothing for", () => {
+  const said: string[][] = []
+  const did: string[] = []
+  const page = "held/one.provisioned-file.ts"
+  const maskeds = [
+    { masking: { page, unit: "sleep.target" }, already: true, saying: "" },
+    { masking: { page, unit: "suspend.target" }, already: false, saying: "mask suspend.target" },
+  ]
+
+  const done = placedEach(heldIn().root, [], watching(said), quiet, did, [], maskeds)
+
+  expect(done.refused).toEqual([])
+  expect(did).toEqual(["masked suspend.target"])
+  expect(said).toHaveLength(1)
+  expect(said[0]?.slice(-3)).toEqual(["systemctl", "mask", "suspend.target"])
 })
 
 test("a link is made where the page says, and what the page states is run after", () => {

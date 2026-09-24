@@ -36,7 +36,10 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  textAt,
+  textsAt,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const PLACED = "provisioned-file"
 
@@ -49,6 +52,16 @@ const PLACED_BY = "placedBy"
 const ONLY_ON = "onlyOn"
 
 const RELOAD_WITH = "reloadWith"
+
+const MASKED_UNITS = "maskedUnits"
+
+const UNITS_BY = "systemctl"
+
+const STATE_OF = "is-enabled"
+
+const MASK = "mask"
+
+const MASKED = "masked"
 
 const BY_LINK = "link"
 
@@ -80,9 +93,21 @@ export type Placing = {
   readonly reload: string | null
 }
 
+export type Masking = {
+  readonly page: string
+  readonly unit: string
+}
+
 export type Weighing = {
   readonly placings: readonly Placing[]
   readonly wrong: readonly string[]
+  readonly maskings: readonly Masking[]
+}
+
+export type Masked = {
+  readonly masking: Masking
+  readonly already: boolean
+  readonly saying: string
 }
 
 export type Standing = {
@@ -136,12 +161,21 @@ function placingOf(reading: Reading, one: Valued, on: string): Placing | null {
   }
 }
 
+function maskingsOf(one: Valued, on: string): readonly Masking[] {
+  if (!forMachine(textAt(one.value, ONLY_ON), on)) return []
+  return (textsAt(one.value, MASKED_UNITS) ?? []).map((unit) => ({ page: one.path, unit }))
+}
+
 export function weighedIn(root: string, on: string = machineNow()): Weighing {
   const placings: Placing[] = []
   const wrong: string[] = []
+  const maskings: Masking[] = []
   const reading = readingIn(root)
-  if (!indexThere(reading)) return { placings, wrong }
+  if (!indexThere(reading)) return { placings, wrong, maskings }
   for (const one of valuesOfType(reading, PLACED)) {
+    for (const held of maskingsOf(one, on)) {
+      if (!maskings.some((was) => was.unit === held.unit)) maskings.push(held)
+    }
     try {
       const held = placingOf(reading, one, on)
       if (held !== null) placings.push(held)
@@ -151,7 +185,7 @@ export function weighedIn(root: string, on: string = machineNow()): Weighing {
       )
     }
   }
-  return { placings, wrong }
+  return { placings, wrong, maskings }
 }
 
 function bodyOf(root: string, one: Placing): string {
@@ -229,8 +263,20 @@ function enteredIn(root: string, body: string = bodyAt()): Entered {
   return enteredFor(entriesIn(root), body)
 }
 
+export function maskedFor(maskings: readonly Masking[], run: Running): readonly Masked[] {
+  return maskings.map((masking) => {
+    const already = run([UNITS_BY, STATE_OF, masking.unit]).out === MASKED
+    const saying = already ? `${masking.unit} is already masked` : `mask ${masking.unit}`
+    return { masking, already, saying }
+  })
+}
+
+function rooted(): boolean {
+  return (process.getuid?.() ?? 0) === 0
+}
+
 function rootNeededAt(at: string): boolean {
-  if ((process.getuid?.() ?? 0) === 0) return false
+  if (rooted()) return false
   let here = dirname(at)
   for (;;) {
     if (existsSync(here)) {
@@ -283,7 +329,8 @@ export function placedEach(
   run: Running,
   saying: Saying,
   did: string[],
-  enterings: readonly Entering[] = []
+  enterings: readonly Entering[] = [],
+  maskeds: readonly Masked[] = []
 ): Done {
   const refused: string[] = []
   const took = (what: string, argv: readonly string[]): boolean => {
@@ -313,6 +360,14 @@ export function placedEach(
     saying(`run ${said}`)
     if (took(`ran ${said}`, [A_SHELL, READ_BY, said])) did.push(`ran ${said}`)
   }
+  for (const one of maskeds) {
+    if (one.already) continue
+    const needs = !rooted()
+    saying(needs ? `${one.saying}, as root` : one.saying)
+    if (took(one.saying, underRoot(needs, [UNITS_BY, MASK, one.masking.unit]))) {
+      did.push(`masked ${one.masking.unit}`)
+    }
+  }
   return { did, refused }
 }
 
@@ -323,9 +378,10 @@ function placedWith(
   run: Running,
   saying: Saying,
   done: string[],
-  enterings: readonly Entering[] = []
+  enterings: readonly Entering[] = [],
+  maskeds: readonly Masked[] = []
 ): Answer {
-  const held = placedEach(root, standings, run, saying, done, enterings)
+  const held = placedEach(root, standings, run, saying, done, enterings, maskeds)
   const said = [...report, ...held.did.map((what) => `did\t${what}`)]
   if (held.refused.length > 0) return answeredWith(said, held.refused, OPERATIONAL)
   return told(said)
@@ -337,10 +393,11 @@ function placedBy(
   standings: readonly Standing[],
   run: Running,
   saying: Saying,
-  enterings: readonly Entering[] = []
+  enterings: readonly Entering[] = [],
+  maskeds: readonly Masked[] = []
 ): Promise<Answer> {
   return answering((done) =>
-    naming(done, placedWith(root, report, standings, run, saying, done, enterings))
+    naming(done, placedWith(root, report, standings, run, saying, done, enterings, maskeds))
   )
 }
 
@@ -353,18 +410,23 @@ export async function infrastructureProvisionedFileInstall(
   const read = takenFor(argv, given.calledAs, page, [planArgument])
   if ("refused" in read) return mistaking(read.refused)
 
-  const stood = stoodFor(given.root, weighedIn(given.root))
+  const weighed = weighedIn(given.root)
+  const stood = stoodFor(given.root, weighed)
   const entered = enteredIn(given.root)
   const wrong = [...stood.wrong, ...entered.wrong]
   if (wrong.length > 0) return answeredWith([], [...wrong, NOTHING_PLACED], DATA)
 
-  const held = [...stood.standings, ...entered.enterings]
+  const masked = maskedFor(weighed.maskings, run)
+  const held = [...stood.standings, ...entered.enterings, ...masked]
   const left = held.filter((one) => one.already).map((one) => `left\t${one.saying}`)
   const place = stood.standings.filter((one) => !one.already)
   const enter = entered.enterings.filter((one) => !one.already)
-  if (place.length === 0 && enter.length === 0) return told([...left, ALL_PLACED])
+  const mask = masked.filter((one) => !one.already)
+  if (place.length === 0 && enter.length === 0 && mask.length === 0) {
+    return told([...left, ALL_PLACED])
+  }
 
-  const report = [...left, ...[...place, ...enter].map((one) => `place\t${one.saying}`)]
+  const report = [...left, ...[...place, ...enter, ...mask].map((one) => `place\t${one.saying}`)]
   if (read.taken.plan) return told([...report, NOT_PLACED])
-  return await placedBy(given.root, report, place, run, saying, enter)
+  return await placedBy(given.root, report, place, run, saying, enter, mask)
 }
