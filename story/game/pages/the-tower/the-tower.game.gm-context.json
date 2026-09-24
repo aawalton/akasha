@@ -296,7 +296,7 @@
       "id": "action-resolution",
       "bands": [
         "**`game-mechanic/attack-resolution` settles a strike, and nothing else does.** It answers `hit`, `band`, `gate`, `intent`, `margin`, `effectiveScore` and `damage`. The call that runs it is in resolutionMechanism.convention, and that is the only place it is written.",
-        "What it is handed: `attackPower`, `defense` and `baseDamage` off the sheets — each derived stat is a mechanic of its own (see *Derived stats*); `gate`, the multiplier the encounter's page names for the read the player made (see *Damage-gate model*), default 1; `intent`, 0–10 from the intent rubric; and the skill bonus, which `game-mechanic/skill-bonus` answers. The dice it rolls on are not handed in.",
+        "What it is handed: `attackPower`, `defense` and `baseDamage` off the sheets — each derived stat is a mechanic of its own (see *Derived stats*); `gate`, the multiplier the GM chose for the read the player made (see *Damage-gate model*), default 1; `intent`, 0–10 from the intent rubric; and the skill bonus, which `game-mechanic/skill-bonus` answers. The dice it rolls on are not handed in.",
         "The bands it answers are the vocabulary the prose is written from: fumble -> miss, crit -> clean success, hit -> success, graze -> success-at-a-cost, miss -> fail. The arithmetic behind them is in the code beside the mechanic's page, and that is the only place it is written.",
         "Every roll is real and reproducible — rolled from the hash of the row before it and RECORDED in mechanicRuns with the seed and every face, but NOT shown; its outcome is woven into the prose (see Presentation & Fog)."
       ],
