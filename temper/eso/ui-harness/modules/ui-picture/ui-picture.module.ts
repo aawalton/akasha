@@ -59,8 +59,12 @@ export const uiPicture = {
       statement: "A texture with no file behind it is a box carrying that texture's name.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No control here is given a size by the text inside that control.",
+      decisionKind: "decision-kind/constraint",
+      statement: "The game grows a label given no size to fit the text inside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A label laid out with no size is drawn as wide and tall as its text.",
     },
     {
       decisionKind: "decision-kind/constraint",
