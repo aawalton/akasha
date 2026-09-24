@@ -7,7 +7,6 @@ export const athenaInteractiveSeatPages = {
   domain: "page-type/seat",
   persona: "persona/athena",
   intentStack: [
-    { statement: "A seat's page folds each tool call to the one line the TUI gives it." },
     {
       statement:
         "A message Alan sends from a seat's page queues for that seat as one typed in the TUI does.",
