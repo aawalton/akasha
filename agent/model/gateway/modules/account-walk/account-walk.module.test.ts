@@ -12,6 +12,7 @@ import {
   permissionDenied,
   unauthorized,
 } from "akasha/agent/model/gateway/modules/account-walk/account-walk.module.test-fixtures.ts"
+import { toWireId } from "akasha/agent/model/modules/vocab/model-vocab.module.code.ts"
 
 const SAID: { output: string[]; error: string[]; warn: string[] } = {
   output: [],
@@ -130,7 +131,7 @@ test("a 404 on an extended-context body replays the base sibling at the same acc
   const outcome = await runAccountWalk(harness.argsWith())
   expect(outcome.kind).toBe("served")
   expect(harness.sent.map((one) => one.account)).toEqual(["alpha", "alpha"])
-  expect(harness.sent[1]?.body).toContain('"model":"claude-opus-5"')
+  expect(harness.sent[1]?.body).toContain(`"model":"${toWireId("opus")}"`)
 })
 
 test("the base sibling is replayed once and no more", async () => {
@@ -286,7 +287,7 @@ test("a fallback attempt asks for the model the fallback provider states", async
   await runAccountWalk(harness.argsWith())
   expect(harness.sent[2]?.body).toContain('"model":"deepseek-flash"')
   expect(harness.sent[2]?.body).toContain('"max_tokens":8')
-  expect(harness.sent[0]?.body).toContain('"model":"claude-opus-5[1m]"')
+  expect(harness.sent[0]?.body).toContain(`"model":"${toWireId("opus")}[1m]"`)
 })
 
 test("a fallback that refuses is served rather than answered empty", async () => {

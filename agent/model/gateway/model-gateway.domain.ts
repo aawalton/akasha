@@ -34,6 +34,7 @@ export const modelGateway = {
     "module/keepalive",
     "module/message-handler",
     "module/model-body",
+    "module/model-retarget",
     "module/model-unavailable",
     "module/model-unavailable-rebind",
     "module/oauth-effects",

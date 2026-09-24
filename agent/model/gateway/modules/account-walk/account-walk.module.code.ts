@@ -13,6 +13,7 @@ import {
 } from "akasha/agent/model/gateway/modules/fast-mode-strip/fast-mode-strip.module.code.ts"
 import { attemptForcedToolChoiceRewrite } from "akasha/agent/model/gateway/modules/forced-tool-choice/forced-tool-choice.module.code.ts"
 import type { Forward } from "akasha/agent/model/gateway/modules/forward/forward.module.code.ts"
+import { rewrittenToCurrentModel } from "akasha/agent/model/gateway/modules/model-retarget/model-retarget.module.code.ts"
 import { attemptModelUnavailableRebind } from "akasha/agent/model/gateway/modules/model-unavailable-rebind/model-unavailable-rebind.module.code.ts"
 import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import type { ObserverSlot } from "akasha/agent/model/gateway/modules/observer-slot/observer-slot.module.code.ts"
@@ -67,7 +68,7 @@ export async function runAccountWalk(args: AccountWalkArgs): Promise<QueueOutcom
   const accountNamed = async (exclude: ReadonlySet<string>): Promise<string | null> =>
     (await pickAccount(exclude))?.account ?? null
 
-  let bodyBuffer = originalBody
+  let bodyBuffer = rewrittenToCurrentModel(originalBody) ?? originalBody
   let currentReq = req
   let fableMode = isFableRequest(bodyBuffer)
 

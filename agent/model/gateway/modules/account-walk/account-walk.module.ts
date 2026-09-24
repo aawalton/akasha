@@ -12,6 +12,15 @@ export const accountWalk = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A body is retargeted onto the wire id its logical name now has before any attempt.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body is retargeted once for a whole request rather than at each account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A pool with no account left is sent to the fallback provider before anything else.",
     },
     {
