@@ -13,7 +13,6 @@
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-index-path-spelled/no-index-path-spelled.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-page-address-spelled/no-page-address-spelled.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-relative-specifier/no-relative-specifier.check-code.decision.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-specifier.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts","typed":false,"deferred":false}

@@ -4,17 +4,13 @@ export const specifierPlacing = {
   id: "01a09163-1a4e-7000-9e11-f25866bf23e0",
   type: "page-type/module",
   slug: "specifier-placing",
-  definition: "which literals of a body name a module rather than a path",
+  definition: "which literals of a body load a module rather than import it",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An import, an export and an `import()` each name a module by a specifier.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An import type names a module by the literal in its type argument.",
+      statement: "An `import()` names a module by its argument.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -24,14 +20,6 @@ export const specifierPlacing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A literal handed to `require` or to `require.resolve` names a module.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The first literal a test hands `mock.module` names a module.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "A name handed to `mock.module` rather than a literal is not followed.",
     },
     {
       decisionKind: "decision-kind/departure",

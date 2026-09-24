@@ -61,7 +61,7 @@ function reading(path: string, text: string, takes: Taking): readonly Specified[
   return [...found].sort((one, two) => one.start - two.start)
 }
 
-export function mocking(node: ts.CallExpression): boolean {
+function mocking(node: ts.CallExpression): boolean {
   const said = node.expression
   if (!ts.isPropertyAccessExpression(said) || said.name.text !== "module") return false
   return ts.isIdentifier(said.expression) && said.expression.text === "mock"

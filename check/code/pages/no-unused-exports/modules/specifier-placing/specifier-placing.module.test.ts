@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
-import { specifyingIn } from "akasha/check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.code.ts"
+import { loadingIn } from "akasha/check/code/pages/no-unused-exports/modules/specifier-placing/specifier-placing.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
-import ts from "typescript"
 
 const AT = "one/one.module.code.ts"
 
@@ -12,31 +11,11 @@ const SPEC = "akasha/nowhere/nowhere.thing.ts"
 const OTHER = "akasha/elsewhere/elsewhere.thing.ts"
 
 function named(text: string): readonly string[] {
-  const source = parsedAs(AT, text)
-  const specified = specifyingIn(source)
-  const found: string[] = []
-  const visit = (node: ts.Node): undefined => {
-    if (ts.isStringLiteral(node) && specified(node)) found.push(node.text)
-    ts.forEachChild(node, visit)
-  }
-  ts.forEachChild(source, visit)
-  return found
+  return [...loadingIn(parsedAs(AT, text))]
 }
-
-test("an import names a module by its specifier", () => {
-  expect(named(`import { a } from "${SPEC}"\n`)).toEqual([SPEC])
-})
-
-test("an export names a module by its specifier", () => {
-  expect(named(`export { a } from "${SPEC}"\n`)).toEqual([SPEC])
-})
 
 test("an `import()` names a module by its argument", () => {
   expect(named(`const a = import("${SPEC}")\n`)).toEqual([SPEC])
-})
-
-test("an import type names a module by the literal in its type argument", () => {
-  expect(named(`type A = import("${SPEC}").A\n`)).toEqual([SPEC])
 })
 
 test("a name handed to `import()` carries a specifier", () => {
@@ -49,22 +28,6 @@ test("a literal handed to `require.resolve` names a module", () => {
 
 test("a literal handed to `require` itself names a module", () => {
   expect(named(`require("${SPEC}")\n`)).toEqual([SPEC])
-})
-
-test("the first literal a test hands `mock.module` names a module", () => {
-  expect(named(`mock.module("${SPEC}", () => ({ a: 1 }))\n`)).toEqual([SPEC])
-})
-
-test("a name handed to `mock.module` rather than a literal is not followed", () => {
-  expect(named(`const AT = "${SPEC}"\nmock.module(AT, () => ({ a: 1 }))\n`)).toEqual([])
-})
-
-test("a `module` call on anything but `mock` names no module", () => {
-  expect(named(`other.module("${SPEC}", () => ({ a: 1 }))\n`)).toEqual([])
-})
-
-test("another call on `mock` names no module", () => {
-  expect(named(`mock.other("${SPEC}", () => ({ a: 1 }))\n`)).toEqual([])
 })
 
 test("a literal handed to `resolve` on a name taken from `createRequire` names a module", () => {

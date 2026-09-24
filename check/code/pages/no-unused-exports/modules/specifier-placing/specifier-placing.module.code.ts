@@ -1,4 +1,3 @@
-import { mocking } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import ts from "typescript"
 
 const REQUIRING = "createRequire"
@@ -8,8 +7,6 @@ const REQUIRE = "require"
 const RESOLVE = "resolve"
 
 type Taking = { readonly named: string; readonly places: readonly string[] }
-
-export type Specified = (node: ts.Node) => boolean
 
 function literal(node: ts.Node): node is ts.StringLiteralLike {
   return ts.isStringLiteral(node) || ts.isNoSubstitutionTemplateLiteral(node)
@@ -113,19 +110,4 @@ export function loadingIn(source: ts.SourceFile): ReadonlySet<string> {
     if (literal(one)) found.add(one.text)
   }
   return found
-}
-
-function placed(node: ts.Node): boolean {
-  const up = node.parent
-  if (up === undefined) return false
-  if (ts.isImportDeclaration(up) || ts.isExportDeclaration(up)) return up.moduleSpecifier === node
-  if (ts.isLiteralTypeNode(up)) return up.parent !== undefined && ts.isImportTypeNode(up.parent)
-  if (!ts.isCallExpression(up)) return false
-  if (up.expression.kind === ts.SyntaxKind.ImportKeyword) return true
-  return mocking(up) && up.arguments[0] === node
-}
-
-export function specifyingIn(source: ts.SourceFile): Specified {
-  const held = heldFrom(source)
-  return (node) => held.has(node) || placed(node)
 }
