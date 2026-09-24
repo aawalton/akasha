@@ -6,4 +6,11 @@ export const antiquityLoreCatalog = {
   slug: "antiquity-lore-catalog",
   definition: "what the game states about an antiquity lore book and its antiquity set",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A catalog key arrives as text and is coerced to a number.",
+    },
+  ],
 } as const satisfies Module

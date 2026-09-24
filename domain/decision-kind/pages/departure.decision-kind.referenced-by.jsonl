@@ -4577,13 +4577,13 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/weapon-type-constants/weapon-type-constants.module.ts","id":"01a06127-664b-74e0-9590-d80f5209e436"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.ts","id":"01a060e2-3186-7265-a0dc-af76d21939e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts","id":"01a060e2-3185-7405-a79e-40fe38c8220f"}
-{"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-host/modules/antiquity-lore-catalog-schema/antiquity-lore-catalog-schema.module.ts","id":"01a06076-5ea5-7559-8362-c4ea6704e72a"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-host/modules/lore-library-catalog-schema/lore-library-catalog-schema.module.ts","id":"01a06076-5ea6-7a4a-ba5c-9b141b2fa0e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-host/temper-game-catalog-capture-host.domain.ts","id":"01a06084-d418-72e5-b162-3bb5b84f91b3"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/modules/sales-descriptor/sales-descriptor.module.ts","id":"01a0608a-15b3-7c39-bcf3-50e4681cd98f"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/modules/sales-payload/sales-payload.module.ts","id":"01a0608a-15b3-7095-b65b-bb44a69a01c0"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/temper-capture-sale.domain.ts","id":"01a0608a-15b3-7222-9758-3efaaecd469e"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/achievement-catalog/achievement-catalog.module.ts","id":"01a0604d-239a-7f6e-9caa-f6928757f48a"}
+{"propertySlug":"decision-kind","path":"temper/capture/shape/modules/antiquity-lore-catalog/antiquity-lore-catalog.module.ts","id":"01a0604d-239b-783a-8c52-bac74f8d09b0"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/cadwell-catalog/cadwell-catalog.module.ts","id":"01a0604d-239b-7e40-96b8-b77f26524225"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/collectibles-catalog/collectibles-catalog.module.ts","id":"01a0604d-239c-77a7-809f-62a84ec5fc79"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/engine-answer-catalog/engine-answer-catalog.module.ts","id":"01a0d42b-9212-7821-8fb2-c85940aa54fd"}
