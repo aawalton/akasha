@@ -141,7 +141,6 @@
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.ts","id":"01a0680a-fa30-73ea-803a-5ff0bd947f73"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-calls/terminal-calls.module.ts","id":"01a0950e-c46b-7001-9da6-533a75125803"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.ts","id":"01a0785c-fa03-739c-823f-27b2ea6fc501"}
-{"propertySlug":"decision-kind","path":"code/spawning/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/properties/styles.file-property.ts","id":"01a05b01-48b2-7b95-9b72-f48b799f4e5c"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/whole-number-in/whole-number-in.module.ts","id":"01a08dfa-83ab-7057-b41a-60b238c8d728"}

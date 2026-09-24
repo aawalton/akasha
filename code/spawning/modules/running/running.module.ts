@@ -309,7 +309,7 @@ export const running = {
       statement: "A run on such a machine is not refused.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A run on such a machine is caught by the seconds answered rather than bounded.",
     },
     {
