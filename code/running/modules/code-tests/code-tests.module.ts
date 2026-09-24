@@ -145,7 +145,7 @@ export const codeTests = {
       statement: "A caller asking what each file spent is answered from files run one at a time.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A file that grew slow between one change to it and the next is caught by nothing.",
     },
@@ -369,7 +369,7 @@ export const codeTests = {
       statement: "The mount that overlay made is swept whatever the run said.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Which files a run names is read off the checkout rather than through an overlay.",
     },
     {
