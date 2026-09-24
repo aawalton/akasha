@@ -2554,6 +2554,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/conjunction.part-of-speech.ts","id":"01a0c60f-289f-7bbf-be7b-ae0e872a03e0"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/free-relative-pronoun.part-of-speech.ts","id":"01a0c68c-8245-7617-b010-6cf185341ce2"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/infinitive-marker.part-of-speech.ts","id":"01a0d57c-f7ff-765a-bd96-6a5fc51221c6"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/modal.part-of-speech.ts","id":"01a0ca71-0b5c-7c0d-8205-66ae4b6ed2ee"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/past-participle.part-of-speech.ts","id":"01a0c950-0d9f-709d-9ac9-47260104de8d"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/possessive-clitic.part-of-speech.ts","id":"01a0c92e-53e6-73a0-8ff4-bed61e10ef2a"}

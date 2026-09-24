@@ -22,6 +22,7 @@ export const partOfSpeech = {
     "part-of-speech/subordinating-conjunction",
     "part-of-speech/relative-pronoun",
     "part-of-speech/proper-noun",
+    "part-of-speech/infinitive-marker",
   ],
   extends: ["page-type/domain"],
   decisions: [

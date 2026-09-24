@@ -17,4 +17,5 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/to.common-language-term.ts","id":"01a0ca69-a4cf-7b33-8de3-21914872d1dd"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/under.common-language-term.ts","id":"01a0c58f-e75e-7dba-847b-410559c2f623"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-for-to-clause.construction.ts","id":"01a0d57c-f7ff-726a-9c6f-2649d55c91cf"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/preposition-with-a-noun-phrase.construction.ts","id":"01a0c591-87d4-736c-87a6-3f506e56b6be"}

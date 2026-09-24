@@ -5,5 +5,8 @@ export const to = {
   type: "page-type/common-language-term",
   slug: "to",
   definition: "the preposition naming what a thing is sent or given to",
-  spellings: [{ partOfSpeech: "part-of-speech/preposition", spelling: "to" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/preposition", spelling: "to" },
+    { partOfSpeech: "part-of-speech/infinitive-marker", spelling: "to" },
+  ],
 } as const satisfies CommonLanguageTerm
