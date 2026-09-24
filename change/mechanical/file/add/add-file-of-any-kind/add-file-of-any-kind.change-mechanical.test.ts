@@ -26,8 +26,6 @@ const CODE = "akasha/one/one.module.code.ts"
 
 const PLAIN = "akasha/one/notes.md"
 
-const MINTED = /id: "[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}"/
-
 const PAGE_BODY = 'export const one = { type: "page-type/held", slug: "one" } as const\n'
 
 const STATED = 'export const one = { id: "held", type: "page-type/held", slug: "one" } as const\n'
@@ -95,7 +93,7 @@ test("a path under a page property name is written by the change judging the key
   expect(addressFor(world, "akasha/properties/kept.text-property.ts")).toBe(ADD_FILE_PAGE_PROPERTY)
 })
 
-test("a page type reaches its own change with the id already in the body", async () => {
+test("a page type reaches its own change with the body as it was handed in", async () => {
   const carried = { at: "", body: "" }
   const world = reachedBy(worldOf(new Set(["page-type"])), carried)
 
@@ -103,11 +101,11 @@ test("a page type reaches its own change with the id already in the body", async
 
   expect(said.refused).toBe(null)
   expect(carried.at).toBe(ADD_FILE_PAGE_TYPE)
-  expect(carried.body).toMatch(MINTED)
+  expect(carried.body).toBe(PAGE_BODY)
 })
 
-test("a body stating no id is given one worked out here", () => {
-  expect(String(idFilled(AT, PAGE_BODY, "auto"))).toMatch(MINTED)
+test("a body stating no id is left for the landing to give one", () => {
+  expect(idFilled(AT, PAGE_BODY, "auto")).toBe(PAGE_BODY)
 })
 
 test("a body already stating an id keeps the id that body states", () => {
@@ -125,7 +123,7 @@ test("an id a caller states goes in rather than one worked out", () => {
 })
 
 test("a body declaring no literal is refused rather than written without an id", () => {
-  expect(idFilled(AT, "export const one = 1\n", "auto")).toEqual({
+  expect(idFilled(AT, "export const one = 1\n", "held")).toEqual({
     refused: "the body declares no literal, so no `id` goes into the body",
   })
 })
@@ -137,13 +135,13 @@ test("an id stating nothing is refused rather than written into the page", () =>
   expect(idFilled(AT, PAGE_BODY, "   ")).toEqual(why)
 })
 
-test("a page reaches the change writing pages with the id already in the body", async () => {
+test("a page reaches the change writing pages with the body as it was handed in", async () => {
   const carried = { at: "", body: "" }
   const said = await runChange(reachedBy(PAGED, carried), { at: AT, body: PAGE_BODY })
 
   expect(said.refused).toBe(null)
   expect(carried.at).toBe(ADD_FILE_PAGE)
-  expect(carried.body).toMatch(MINTED)
+  expect(carried.body).toBe(PAGE_BODY)
 })
 
 test("a path naming no page takes no id", async () => {

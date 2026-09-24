@@ -25,7 +25,7 @@ export const addFileOfAnyKind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page arrives with its `id` worked out here rather than at the landing.",
+      statement: "A page stating no `id` arrives without one, and the landing works it out.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -33,7 +33,7 @@ export const addFileOfAnyKind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An `id` a caller states goes in rather than an `id` worked out here.",
+      statement: "An `id` a caller states goes in here.",
     },
     {
       decisionKind: "decision-kind/departure",

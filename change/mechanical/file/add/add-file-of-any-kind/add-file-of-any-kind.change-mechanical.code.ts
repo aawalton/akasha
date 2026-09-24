@@ -9,7 +9,7 @@ import { type Answer, refusing } from "akasha/change/modules/answer/change-answe
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { kindOf, pagedAt } from "akasha/change/modules/target-kinding/target-kinding.module.code.ts"
 import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
-import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
+
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 
 const AUTO = "auto"
@@ -36,12 +36,10 @@ export function addressFor(world: World, at: string) {
 
 export function idFilled(at: string, body: string, said: string): string | { refused: string } {
   if (said.trim() === "") return { refused: BLANK }
+  if (said === AUTO) return body
   const held = loadedFrom(body).value
-  if (held !== null && held[ID] !== undefined) {
-    return said === AUTO ? body : { refused: HELD }
-  }
-  const minted = said === AUTO ? uuidVersion7() : said
-  const next = insertedInto(at, body, ID, JSON.stringify(minted))
+  if (held !== null && held[ID] !== undefined) return { refused: HELD }
+  const next = insertedInto(at, body, ID, JSON.stringify(said))
   return next === null ? { refused: NO_LITERAL } : next
 }
 
