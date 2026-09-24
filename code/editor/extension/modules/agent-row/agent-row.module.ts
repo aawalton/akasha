@@ -39,10 +39,7 @@ export const agentRow = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here draws a row.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The shape sits apart from its composer so either can land first.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement: "A row is spelled here as every other tree the editor draws spells a row.",
