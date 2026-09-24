@@ -6,6 +6,5 @@ export const theTowerLeechGlut01 = {
   slug: "the-tower-leech-glut-01",
   title: "The Glut",
   game: "game/the-tower",
-  class: "Leech-swarm",
   note: "computed by engine: VIT8(64)+MIGHT2(10) = 74 HP. Low effective threat IF stranded; lethal IF fought on its terms in the water.",
 } as const satisfies GameEntity

@@ -6,6 +6,5 @@ export const theTowerTheWelcomer01 = {
   slug: "the-tower-the-welcomer-01",
   title: "The Welcomer",
   game: "game/the-tower",
-  class: "Glamour-predator",
   note: "engine: VIT8(64)+MIGHT2(18) = 82 HP. physDef (8+14)/2 = 11. physAtk 9*1.5+14+3 = 30.5. Init 13+14 = 27 (beats Alan's 26 on the trust-opener — front-load that turn). Threat = the trust-ambush, not HP.",
 } as const satisfies GameEntity

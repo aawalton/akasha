@@ -6,7 +6,5 @@ export const theTowerCompanionAura = {
   slug: "the-tower-companion-aura",
   title: "Aura",
   game: "game/the-tower",
-  class:
-    "Wildcard (tentative) — a versatile skirmisher/improviser; no fixed lane, leans into whatever the moment rewards",
-  note: "Tentative. Aura's draw is adaptability and momentum, not specialization — she covers gaps and turns a fight's energy. Calibrate the class against the real persona.",
+  note: "Aura's draw is adaptability and momentum, not specialization — she covers gaps and turns a fight's energy. Calibrate against the real persona.",
 } as const satisfies GameEntity

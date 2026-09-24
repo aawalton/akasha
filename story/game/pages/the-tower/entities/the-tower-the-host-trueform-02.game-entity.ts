@@ -6,6 +6,5 @@ export const theTowerTheHostTrueform02 = {
   slug: "the-tower-the-host-trueform-02",
   title: "The Host — Phase 2, True Form",
   game: "game/the-tower",
-  class: "Haven-predator (unmasked)",
   note: "engine: VIT8(104)+MIGHT2(26) = 130 HP. physDef (13+17)/2+1 = 16. physAtk 13*1.5+17+5 = 41.5. Init 16+17 = 33 (acts before Alan's 26 — the core of the threat).",
 } as const satisfies GameEntity
