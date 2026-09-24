@@ -89,10 +89,6 @@ export function configureContentPersistence(port: ContentPagePersistencePort | n
   contentPersistencePort = port
 }
 
-export function getContentPersistence(): ContentPagePersistencePort | null {
-  return contentPersistencePort
-}
-
 export interface ConfigurePagesStoreAuthArgs {
   readonly supabaseUrl?: string
   readonly supabaseAnonKey?: string
