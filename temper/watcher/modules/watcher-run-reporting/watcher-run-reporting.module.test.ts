@@ -15,6 +15,7 @@ import {
   storedOperations,
 } from "akasha/temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.code.ts"
 import { WATCHER_VERSION } from "akasha/temper/watcher/modules/watcher-version/watcher-version.module.code.ts"
+import { z } from "zod"
 
 const RAN_AT = "2026-09-02T10:00:00.000Z"
 
@@ -58,10 +59,16 @@ function harness(row: unknown, accountId: string | null = "acct-1"): Harness {
   return { asked, written, notes, seams }
 }
 
-function reportOf(written: readonly unknown[]): Record<string, unknown> {
+const REPORTED_OUTCOME = z.looseObject({
+  watcherVersion: z.string(),
+  reportedAt: z.string(),
+  operations: z.array(z.unknown()),
+})
+
+function reportOf(written: readonly unknown[]): z.infer<typeof REPORTED_OUTCOME> {
   expect(written).toHaveLength(1)
   const args = written[0] as { set: Record<string, string> }
-  return JSON.parse(String(args.set[OUTCOME_KEY])) as Record<string, unknown>
+  return REPORTED_OUTCOME.parse(JSON.parse(String(args.set[OUTCOME_KEY])))
 }
 
 test("an outcome held as a record gives back every entry holding a name", () => {

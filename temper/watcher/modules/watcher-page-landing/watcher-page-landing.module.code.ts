@@ -5,6 +5,7 @@ import {
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+import { z } from "zod"
 
 const PAGE_TYPE = "page-type"
 
@@ -180,22 +181,18 @@ export function jsonlBodyOf(lines: readonly string[]): string {
   return lines.length === 0 ? "" : `${lines.join("\n")}\n`
 }
 
-function jsonIn(line: string): unknown {
-  try {
-    return JSON.parse(line) as unknown
-  } catch {
-    return null
-  }
-}
-
-function textOf(held: unknown, key: string): string {
-  if (held === null || held === undefined) return ""
-  const value = (held as Record<string, unknown>)[key]
-  return typeof value === "string" ? value : ""
-}
+const JSONL_ROW = z.record(z.string(), z.unknown())
 
 export function textIn(line: string, key: string): string {
-  return textOf(jsonIn(line), key)
+  let read: ReturnType<typeof JSONL_ROW.safeParse>
+  try {
+    read = JSONL_ROW.safeParse(JSON.parse(line))
+  } catch {
+    return ""
+  }
+  if (!read.success) return ""
+  const value = read.data[key]
+  return typeof value === "string" ? value : ""
 }
 
 export function insertedByInstant(

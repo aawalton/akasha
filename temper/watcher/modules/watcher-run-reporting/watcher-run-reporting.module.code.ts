@@ -1,4 +1,3 @@
-import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPageById } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
@@ -10,6 +9,7 @@ import {
   type SyncOperation,
 } from "akasha/temper/watcher/modules/watcher-run-outcome/watcher-run-outcome.module.code.ts"
 import { WATCHER_VERSION } from "akasha/temper/watcher/modules/watcher-version/watcher-version.module.code.ts"
+import { z } from "zod"
 
 export const ENROLMENT_PAGE_TYPE_SLUG = "temper-watcher-enrolment"
 
@@ -46,28 +46,30 @@ export type RunReportingSeams = {
 
 const realClock: ClockRead = () => new Date()
 
-function decoded(value: unknown): unknown {
-  if (typeof value !== "string") return value
-  try {
-    return JSON.parse(value)
-  } catch {
-    return null
-  }
-}
+const HELD_OUTCOME = z.object({ operations: z.array(z.unknown()) })
+
+const KEPT_OPERATION = z.looseObject({ name: z.string() })
 
 export type KeptOperation = StoredOperation & Record<string, unknown>
 
+function parseHeldOperations(outcome: unknown): readonly unknown[] {
+  const read = HELD_OUTCOME.safeParse(outcome)
+  return read.success ? read.data.operations : []
+}
+
+function heldOperationsOf(value: unknown): readonly unknown[] {
+  if (typeof value !== "string") return parseHeldOperations(value)
+  try {
+    return parseHeldOperations(JSON.parse(value))
+  } catch {
+    return []
+  }
+}
+
 export function storedOperations(value: unknown): readonly KeptOperation[] {
-  const outcome = decoded(value)
-  if (!isRecord(outcome)) return []
-  const held = outcome.operations
-  if (!Array.isArray(held)) return []
-  const entries: readonly unknown[] = held
-  return entries.flatMap((entry) => {
-    if (!isRecord(entry)) return []
-    const name = entry.name
-    if (typeof name !== "string") return []
-    return [{ ...entry, name }]
+  return heldOperationsOf(value).flatMap((entry) => {
+    const kept = KEPT_OPERATION.safeParse(entry)
+    return kept.success ? [kept.data] : []
   })
 }
 
