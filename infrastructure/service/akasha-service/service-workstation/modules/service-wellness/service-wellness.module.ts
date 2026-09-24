@@ -89,10 +89,5 @@ export const serviceWellness = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here asks systemd anything.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Whether a reading is current is read off its taker's verdict and the moment of the look.",
-    },
   ],
 } as const satisfies Module

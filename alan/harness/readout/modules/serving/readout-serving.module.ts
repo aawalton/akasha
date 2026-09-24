@@ -112,11 +112,7 @@ export const readoutServing = {
       decisionKind: "decision-kind/departure",
       statement: "A reading is answered however old that reading is.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Whether a reading is current is whether its taker is well rather than how old it is.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
