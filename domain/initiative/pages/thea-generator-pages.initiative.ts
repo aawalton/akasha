@@ -6,4 +6,16 @@ export const theaGeneratorPages = {
   slug: "thea-generator-pages",
   domain: "domain/check",
   persona: "persona/thea",
+  intentStack: [
+    {
+      statement:
+        "Each generator adding to a change before it lands is a change generator page, its code beside it.",
+    },
+    {
+      statement: "A change generator names the change generators it runs after.",
+    },
+    {
+      statement: "The change code runs the change generators the index names and imports none.",
+    },
+  ],
 } as const satisfies Initiative
