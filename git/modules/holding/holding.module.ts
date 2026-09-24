@@ -77,7 +77,7 @@ export const holding = {
         "An act that failed inside the hold is thrown on rather than answered as a refusal.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Two landings over one checkout never overlap.",
     },
   ],
