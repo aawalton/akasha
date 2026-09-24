@@ -167,18 +167,6 @@ export const codeEditor = {
 
     {
       decisionKind: "decision-kind/gap",
-      statement: "Any agent can arrange the editor's tabs.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Any agent can arrange the editor's groups.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Any agent can arrange the editor's panels.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement:
         "The editor's build resolves the dependencies the build needs inside the editor's own checkout.",
     },
