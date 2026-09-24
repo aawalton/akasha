@@ -7,7 +7,7 @@ import type {
 import { fromBase64Url } from "akasha/alan/google/email/modules/mime-message/mime-message.module.code.ts"
 import * as z from "zod"
 
-export const gmailMessageRefSchema = z
+const gmailMessageRefSchema = z
   .object({
     id: z.string(),
     threadId: z.string().optional(),
@@ -51,7 +51,7 @@ export interface GmailMessagePart {
   readonly parts?: readonly GmailMessagePart[] | undefined
 }
 
-export const gmailMessagePartSchema: z.ZodType<GmailMessagePart> = z.lazy(() =>
+const gmailMessagePartSchema: z.ZodType<GmailMessagePart> = z.lazy(() =>
   z
     .object({
       mimeType: z.string().optional(),
@@ -74,7 +74,7 @@ export const gmailMessageSchema = z
   })
   .passthrough()
 
-export const gmailDraftSchema = z
+const gmailDraftSchema = z
   .object({
     id: z.string(),
     message: gmailMessageRefSchema.optional(),
@@ -97,7 +97,7 @@ export const gmailSendResponseSchema = z
   })
   .passthrough()
 
-export const gmailLabelMutationResponseSchema = z
+const gmailLabelMutationResponseSchema = z
   .object({
     id: z.string(),
     threadId: z.string().optional(),
@@ -109,37 +109,12 @@ type ParsedGmailMessage = z.infer<typeof gmailMessageSchema>
 
 export type ParsedFullMessage = z.infer<typeof gmailMessageSchema>
 
-export const gmailProfileSchema = z
-  .object({
-    emailAddress: z.string().optional(),
-    historyId: z.string().optional(),
-  })
-  .passthrough()
-
-export const gmailHistoryListSchema = z
-  .object({
-    history: z
-      .array(
-        z
-          .object({
-            messagesAdded: z
-              .array(z.object({ message: gmailMessageRefSchema.optional() }).passthrough())
-              .optional(),
-          })
-          .passthrough()
-      )
-      .optional(),
-    historyId: z.string().optional(),
-    nextPageToken: z.string().optional(),
-  })
-  .passthrough()
-
 export function getHeader(message: ParsedGmailMessage, name: string): string | undefined {
   const lower = name.toLowerCase()
   return message.payload?.headers?.find((h) => h.name.toLowerCase() === lower)?.value
 }
 
-export function extractPlainTextBody(part: GmailMessagePart | undefined): string | undefined {
+function extractPlainTextBody(part: GmailMessagePart | undefined): string | undefined {
   if (part === undefined) return undefined
   if (part.mimeType === "text/plain" && part.body?.data !== undefined)
     return fromBase64Url(part.body.data)
