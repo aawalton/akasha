@@ -4,16 +4,16 @@ export const pageCover = {
   id: "01a0617e-0d2d-7009-84e0-cb261f506633",
   type: "page-type/module",
   slug: "page-cover",
-  definition: "a page's cover image and the popover setting its url",
+  definition: "a page's cover image",
   code: "tsx",
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A cover nobody may change is the image alone.",
+      decisionKind: "decision-kind/absence",
+      statement: "A cover is shown here and never set here.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No cover and no way to set one is nothing at all.",
+      statement: "No cover is nothing at all.",
     },
   ],
 } as const satisfies Module

@@ -55,7 +55,6 @@ export function PageDefaultContent({
     targetSlug,
     data,
     coverUrl,
-    handleCoverChange,
     displayIconName,
     handleIconChange,
     handleTitleChange,
@@ -86,7 +85,7 @@ export function PageDefaultContent({
         >
           <PageLayout.Content className="max-w-[710px]!">
             <div className="flex flex-col gap-4">
-              <PageCover coverUrl={coverUrl} onChange={editing ? handleCoverChange : undefined} />
+              <PageCover coverUrl={coverUrl} />
               <div className="flex items-center gap-2">
                 {editing ? (
                   <IconPicker value={displayIconName} onChange={handleIconChange} />

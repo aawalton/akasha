@@ -139,11 +139,6 @@ export function usePageDefaultContent({
     setProperty({ pageTypeSlug: targetSlug, pageId: id, propertyId: "icon", value: icon })
   }
 
-  const handleCoverChange = (url: string | null) => {
-    if (targetSlug == null) return
-    setProperty({ pageTypeSlug: targetSlug, pageId: id, propertyId: "cover", value: url })
-  }
-
   const coverUrl = typeof data.cover === "string" && data.cover.length > 0 ? data.cover : null
 
   const ownIconName = typeof data.icon === "string" ? data.icon : null
@@ -187,7 +182,6 @@ export function usePageDefaultContent({
     targetSlug,
     data,
     coverUrl,
-    handleCoverChange,
     displayIconName,
     handleIconChange,
     handleTitleChange,

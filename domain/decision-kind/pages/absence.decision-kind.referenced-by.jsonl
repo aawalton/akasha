@@ -1694,6 +1694,7 @@
 {"propertySlug":"decision-kind","path":"page/type/properties/uncommitted.boolean-property.ts","id":"01a04fc4-b988-7afd-89a2-9c87b0274410"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/auth-provider/auth-provider.module.ts","id":"01a06582-2737-7f5c-8019-8dd5e784db92"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/badge-keying/badge-keying.module.ts","id":"01a0ca57-6b79-7ed9-8595-bf983f190063"}
+{"propertySlug":"decision-kind","path":"page/ui/component/modules/page-cover/page-cover.module.ts","id":"01a0617e-0d2d-7009-84e0-cb261f506633"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/page-detail-properties/page-detail-properties.module.ts","id":"01a06257-46ed-7cf6-b31e-9adb50ca83bc"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.ts","id":"01a0c9b0-274e-730c-9885-7bdd5df18204"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/title-color/title-color.module.ts","id":"01a0d410-92db-7795-a01b-b0b06cb68cae"}
