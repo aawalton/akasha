@@ -2,6 +2,10 @@ import {
   callHarness,
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
+import type {
+  Calling,
+  Editor,
+} from "akasha/code/editor/extension/modules/panel-acting/panel-acting.module.code.ts"
 import {
   keyedAs,
   shownSaid,
@@ -22,24 +26,6 @@ const INITIATIVE_EXPORT = exportedAs(INITIATIVE_SLUG)
 const CONFIRM = "Delete"
 
 const MOVED_UNDERFOOT = "that moved while you were deleting it — nothing was deleted"
-
-export type Calling = (
-  slug: string,
-  exported: string,
-  args: readonly string[],
-  options: { readonly timeout: number }
-) => Promise<string>
-
-export type Editor = {
-  readonly window: {
-    readonly showErrorMessage: (said: string) => unknown
-    readonly showWarningMessage: (
-      said: string,
-      options: { readonly modal: true; readonly detail: string },
-      confirm: string
-    ) => PromiseLike<string | undefined>
-  }
-}
 
 export type IntentGone = {
   readonly slug: string

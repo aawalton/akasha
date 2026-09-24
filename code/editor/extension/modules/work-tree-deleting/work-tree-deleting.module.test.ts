@@ -1,9 +1,10 @@
 import { expect, test } from "bun:test"
 import { LANDING_TIMEOUT_MS } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
+import type { Editor } from "akasha/code/editor/extension/modules/panel-acting/panel-acting.module.code.ts"
+import { editorShowing } from "akasha/code/editor/extension/modules/panel-acting/panel-acting.module.test-fixtures.ts"
 import {
   deletingInitiative,
   deletingIntent,
-  type Editor,
   initiativeAskedSaid,
   initiativeDetailSaid,
   initiativeFailureSaid,
@@ -24,22 +25,20 @@ const INTENT = rowOf("intent", "held#2", "A thing is so.")
 type Asked = { said: string; detail: string; confirm: string }
 
 function editorSaying(shown: string[], asked: Asked[] = [], chosen?: string): Editor {
-  return {
-    window: {
-      showErrorMessage: (said: string) => {
-        shown.push(said)
-        return undefined
-      },
-      showWarningMessage: (
-        said: string,
-        options: { readonly modal: true; readonly detail: string },
-        confirm: string
-      ) => {
-        asked.push({ said, detail: options.detail, confirm })
-        return Promise.resolve(chosen)
-      },
+  return editorShowing({
+    showErrorMessage: (said: string) => {
+      shown.push(said)
+      return undefined
     },
-  }
+    showWarningMessage: (
+      said: string,
+      options: { readonly modal: true; readonly detail: string },
+      confirm: string
+    ) => {
+      asked.push({ said, detail: options.detail, confirm })
+      return Promise.resolve(chosen)
+    },
+  })
 }
 
 type Told = { told: string; slug: string; statement: string | null }
@@ -275,15 +274,12 @@ test("an initiative that did not go is said to Alan once and written to the chan
 
 test("Alan answers the modal before the panel is told the initiative is going", async () => {
   const order: string[] = []
-  const editor: Editor = {
-    window: {
-      showErrorMessage: () => undefined,
-      showWarningMessage: () => {
-        order.push("asked")
-        return Promise.resolve("Delete")
-      },
+  const editor = editorShowing({
+    showWarningMessage: () => {
+      order.push("asked")
+      return Promise.resolve("Delete")
     },
-  }
+  })
   await deletingInitiative(
     editor,
     () => undefined,

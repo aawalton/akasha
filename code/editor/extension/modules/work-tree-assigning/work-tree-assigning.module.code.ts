@@ -3,10 +3,11 @@ import {
   callHarness,
   LANDING_TIMEOUT_MS,
 } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
-import {
-  type Calling,
-  initiativeGoneOf,
-} from "akasha/code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.code.ts"
+import type {
+  Calling,
+  Editor,
+} from "akasha/code/editor/extension/modules/panel-acting/panel-acting.module.code.ts"
+import { initiativeGoneOf } from "akasha/code/editor/extension/modules/work-tree-deleting/work-tree-deleting.module.code.ts"
 import { shownSaid } from "akasha/code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.code.ts"
 import { initiativeAssign } from "akasha/command/pages/initiative/assign/initiative-assign.command.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -17,13 +18,6 @@ const ASSIGN_SLUG = initiativeAssign.slug
 const ASSIGN_EXPORT = exportedAs(ASSIGN_SLUG)
 
 const MOVED_UNDERFOOT = "that moved while you were assigning it — nothing was assigned"
-
-export type Editor = {
-  readonly window: {
-    readonly showInformationMessage: (said: string) => unknown
-    readonly showErrorMessage: (said: string) => unknown
-  }
-}
 
 export type Assigning = {
   readonly slug: string

@@ -1,11 +1,12 @@
 import { expect, test } from "bun:test"
 import { LANDING_TIMEOUT_MS } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
+import type { Editor } from "akasha/code/editor/extension/modules/panel-acting/panel-acting.module.code.ts"
+import { editorShowing } from "akasha/code/editor/extension/modules/panel-acting/panel-acting.module.test-fixtures.ts"
 import {
   type Assigning,
   assignDoneSaid,
   assignFailureSaid,
   assigningInitiative,
-  type Editor,
   type WorkAssignWatch,
 } from "akasha/code/editor/extension/modules/work-tree-assigning/work-tree-assigning.module.code.ts"
 import {
@@ -25,18 +26,16 @@ const INITIATIVE = rowOf("initiative", "held", "held")
 const INTENT = rowOf("intent", "held#2", "A thing is so.")
 
 function editorSaying(shown: string[], noted: string[] = []): Editor {
-  return {
-    window: {
-      showErrorMessage: (said: string) => {
-        shown.push(said)
-        return undefined
-      },
-      showInformationMessage: (said: string) => {
-        noted.push(said)
-        return undefined
-      },
+  return editorShowing({
+    showErrorMessage: (said: string) => {
+      shown.push(said)
+      return undefined
     },
-  }
+    showInformationMessage: (said: string) => {
+      noted.push(said)
+      return undefined
+    },
+  })
 }
 
 function watching(told: string[]): WorkAssignWatch {
