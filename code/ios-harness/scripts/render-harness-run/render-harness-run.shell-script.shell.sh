@@ -81,6 +81,7 @@ else
         "$AKASHA_ROOT/code/ios-component/pages/spacing/spacing.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/surplus-ring/surplus-ring.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/tier/tier.ios-component.swift.swift"
+        "$AKASHA_ROOT/code/ios-component/pages/widget-tap-link/widget-tap-link.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/alanwalton-stoplights-activity/alanwalton-stoplights-activity.ios-component.swift.swift"
         "$AKASHA_ROOT/code/ios-component/pages/alanwalton-stoplights-content/alanwalton-stoplights-content.ios-component.swift.swift"
       )
