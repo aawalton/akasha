@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.test.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/library/reading/modules/offline-reading/offline-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/web/modules/content-pages-cache-core/content-pages-cache-core.module.code.ts"}

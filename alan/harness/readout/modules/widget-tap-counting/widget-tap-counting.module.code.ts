@@ -1,6 +1,4 @@
-import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
-import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
-import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { incrementProperty } from "akasha/page/access/modules/increment-property/increment-property.module.code.ts"
 
 const PAGE_TYPE = "readout-widget"
 
@@ -13,28 +11,17 @@ export type Tapped = {
   readonly at: string
 }
 
-export function tapsOn(values: Readonly<Record<string, unknown>>): number {
-  const taps = values[TAPS]
-  if (taps === undefined || taps === null) return 0
-  if (typeof taps !== "number") {
-    throw new Error(
-      `the widget '${String(values["slug"])}' carries a tap count that is no number, so how ` +
-        "often that widget was tapped is unknown rather than never"
-    )
-  }
-  return taps
-}
-
-export async function countTap(slug: string, at: Date): Promise<Tapped | null> {
-  const where: PageWhere = [{ key: "slug", eq: slug }]
-  const held = await getPage({ pageTypeSlug: PAGE_TYPE, where })
-  if (held === null) return null
-  const taps = tapsOn(held) + 1
+export async function countTap(
+  slug: string,
+  at: Date,
+  increment: typeof incrementProperty = incrementProperty
+): Promise<Tapped | null> {
   const moment = at.toISOString()
-  await patchPage({
+  const taps = await increment({
     pageTypeSlug: PAGE_TYPE,
-    where,
-    set: { [TAPS]: taps, [LAST_TAPPED_AT]: moment },
+    where: [{ key: "slug", eq: slug }],
+    key: TAPS,
+    set: { [LAST_TAPPED_AT]: moment },
   })
-  return { taps, at: moment }
+  return taps === null ? null : { taps, at: moment }
 }

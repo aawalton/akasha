@@ -1,23 +1,36 @@
 import { expect, test } from "bun:test"
-import { tapsOn } from "akasha/alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.code.ts"
+import { countTap } from "akasha/alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.code.ts"
+import type { IncrementPropertyArgs } from "akasha/page/access/modules/increment-property/increment-property.module.code.ts"
 
-test("a widget carrying no count has taken no tap", () => {
-  expect(tapsOn({ slug: "alanwalton-surplus" })).toBe(0)
-  expect(tapsOn({ slug: "alanwalton-surplus", taps: null })).toBe(0)
+const AT = new Date("2026-09-24T12:00:00.000Z")
+
+function answering(count: number | null, told: IncrementPropertyArgs[] = []) {
+  return <T extends Record<string, unknown>>(args: IncrementPropertyArgs<T>) => {
+    told.push(args as IncrementPropertyArgs)
+    return Promise.resolve(count)
+  }
+}
+
+test("a tap adds one to the widget's taps and writes when it came in the same step", async () => {
+  const told: IncrementPropertyArgs[] = []
+  await countTap("alanwalton-surplus", AT, answering(4, told))
+  expect(told).toEqual([
+    {
+      pageTypeSlug: "readout-widget",
+      where: [{ key: "slug", eq: "alanwalton-surplus" }],
+      key: "taps",
+      set: { lastTappedAt: "2026-09-24T12:00:00.000Z" },
+    },
+  ])
 })
 
-test("the count a widget carries is the count read back", () => {
-  expect(tapsOn({ slug: "alanwalton-surplus", taps: 19 })).toBe(19)
+test("a tap answers the count the tap left and the moment it came", async () => {
+  expect(await countTap("alanwalton-surplus", AT, answering(4))).toEqual({
+    taps: 4,
+    at: "2026-09-24T12:00:00.000Z",
+  })
 })
 
-test("a count of no taps is a count rather than an absent one", () => {
-  expect(tapsOn({ slug: "alanwalton-surplus", taps: 0 })).toBe(0)
-})
-
-test("a count that is no number is refused rather than read as no tap", () => {
-  expect(() => tapsOn({ slug: "alanwalton-surplus", taps: "many" })).toThrow()
-})
-
-test("a refusal names the widget carrying the count", () => {
-  expect(() => tapsOn({ slug: "alanwalton-surplus", taps: "many" })).toThrow(/alanwalton-surplus/)
+test("a slug no widget page has answers with nothing", async () => {
+  expect(await countTap("no-such-widget", AT, answering(null))).toBe(null)
 })

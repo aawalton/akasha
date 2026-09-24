@@ -10,7 +10,7 @@ export const widgetTapCounting = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A widget's taps are read and written through the page store.",
+      statement: "A widget's taps are read and written through the page store in one step.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,11 +22,12 @@ export const widgetTapCounting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Two taps arriving together cost one tap.",
+      statement: "Taps arriving together are each counted.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The moment of the last tap is written beside the count.",
+      statement:
+        "The moment of the last tap is written beside the count, in the step adding the tap.",
     },
     {
       decisionKind: "decision-kind/departure",
