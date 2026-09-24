@@ -86,6 +86,11 @@ export const esoSandboxPrelude = {
       statement: "A game function known to answer a count answers with zero.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The engine's internal assert gives back the condition it was handed, as the game's does.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A few constants and functions are valued here, for a sandbox loading no capture of the game's.",
