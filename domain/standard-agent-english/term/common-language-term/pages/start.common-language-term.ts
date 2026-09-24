@@ -5,5 +5,9 @@ export const start = {
   type: "page-type/common-language-term",
   slug: "start",
   definition: "setting a thing going",
-  spellings: [{ partOfSpeech: "part-of-speech/past-participle", spelling: "started" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "started" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "start" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "starts" },
+  ],
 } as const satisfies CommonLanguageTerm
