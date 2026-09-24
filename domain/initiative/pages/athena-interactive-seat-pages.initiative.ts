@@ -6,4 +6,10 @@ export const athenaInteractiveSeatPages = {
   slug: "athena-interactive-seat-pages",
   domain: "page-type/seat",
   persona: "persona/athena",
+  intentStack: [
+    {
+      statement:
+        "The Seats view on alanwalton.com names every seat in the working color the editor shows it in.",
+    },
+  ],
 } as const satisfies Initiative
