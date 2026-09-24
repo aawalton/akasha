@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import type { ReadableStreamDefaultReader } from "node:stream/web"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"

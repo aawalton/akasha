@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import type { ReadableStreamDefaultReader } from "node:stream/web"
 import {
   askedIn,
   changedAt,
