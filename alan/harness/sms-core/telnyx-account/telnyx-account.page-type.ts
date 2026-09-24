@@ -33,7 +33,7 @@ export const telnyxAccount = {
       statement: "The number a text is sent from is on the account rather than in the environment.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The accounts are pages under this type rather than markdown.",
     },
   ],

@@ -82,14 +82,6 @@ export const surplusFallNotifying = {
       statement: "SIGTERM or SIGINT ends that loop at its next boundary.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The readout and its scale are asked of the pages system service.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The day's reading is asked of the page query service.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "Code running on the workstation reaches pages data directly.",
     },
