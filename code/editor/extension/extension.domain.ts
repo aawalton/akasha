@@ -191,7 +191,7 @@ export const extension = {
       statement: "The transcript opens by Ctrl+Alt+T, as a panel opens by its own letter.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A panel's shortcut reaches the editor rather than the shell while a terminal holds focus.",
     },
