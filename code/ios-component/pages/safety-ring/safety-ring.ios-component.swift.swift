@@ -170,3 +170,8 @@ func safetyCaption(_ state: FeedState<SafetyLevelResponse>) -> String? {
     guard case .loaded(let payload) = state else { return nil }
     return payload.safety?.label
 }
+
+func safetyNoSignal(_ state: FeedState<SafetyLevelResponse>) -> Bool {
+    guard case .loaded(let payload) = state else { return false }
+    return payload.safety?.noSignal ?? false
+}

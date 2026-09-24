@@ -47,7 +47,8 @@ struct SafetyLevelHomeView: View {
             caption: safetyCaption(entry.state),
             nextTier: safety?.nextTier,
             progress: safety?.progress,
-            figureOffScale: safety?.figureOffScale ?? false
+            figureOffScale: safety?.figureOffScale ?? false,
+            noSignal: safetyNoSignal(entry.state)
         )
     }
 }
