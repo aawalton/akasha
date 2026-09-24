@@ -313,5 +313,69 @@ check(
     fallingUpkeep(FallingChecks.SENT) != nil,
     "a key the upkeep tile reads nothing from")
 
+// A LIGHT NOTHING COULD BE READ FOR IS SENT BLACK, WITH AN EMPTY FIGURE AND `readingHeld`.
+func unheldBody(_ key: String, held: String = NO_READING_HELD) -> String {
+    #"{"stoplights":[{"\#(key)":"sleep","label":"Sleep","tier":"black","reading":"","readingHeld":"\#(held)"}]}"#
+}
+
+func noSignalCount<Payload: Decodable>(
+    _ type: Payload.Type, _ json: String, _ lights: (Payload) -> [Bool]
+) -> Int? {
+    decodedCount(type, json) { lights($0).filter { $0 }.count }
+}
+
+func safetyState(_ json: String) -> FeedState<SafetyLevelResponse> {
+    guard let payload = try? JSONDecoder().decode(SafetyLevelResponse.self, from: Data(json.utf8))
+    else { return .neverLoaded }
+    return .loaded(payload)
+}
+
+check(
+    "an upkeep circle with no reading held decodes as no signal",
+    noSignalCount(UpkeepStoplightsResponse.self, unheldBody("habit")) {
+        $0.stoplights.map(\.noSignal)
+    } == 1,
+    "readingHeld none")
+check(
+    "an inbox circle with no reading held decodes as no signal",
+    noSignalCount(InboxStoplightsResponse.self, unheldBody("inbox")) {
+        $0.stoplights.map(\.noSignal)
+    } == 1,
+    "readingHeld none")
+check(
+    "an attribute circle with no reading held decodes as no signal",
+    noSignalCount(AttributeStoplightsResponse.self, unheldBody("attribute")) {
+        $0.stoplights.map(\.noSignal)
+    } == 1,
+    "readingHeld none")
+check(
+    "a circle sent without readingHeld decodes with its signal",
+    noSignalCount(UpkeepStoplightsResponse.self, stoplightsBody("habit", ["sleep"])) {
+        $0.stoplights.map(\.noSignal)
+    } == 0,
+    "readingHeld not sent")
+check(
+    "a readingHeld word the tile does not know decodes rather than being refused",
+    noSignalCount(UpkeepStoplightsResponse.self, unheldBody("habit", held: "stale")) {
+        $0.stoplights.map(\.noSignal)
+    } == 0,
+    "readingHeld stale")
+check(
+    "a cost with no reading held is drawn as no signal",
+    costNoSignal(costState(unheldBody("habit"))),
+    "readingHeld none")
+check(
+    "a surplus with no reading held is drawn as no signal",
+    surplusNoSignal(surplusState(unheldBody("habit"))),
+    "readingHeld none")
+check(
+    "a safety level with no reading held is drawn as no signal",
+    safetyNoSignal(safetyState(unheldBody("habit"))),
+    "readingHeld none")
+check(
+    "a tile that never loaded draws no light of its own as no signal",
+    !costNoSignal(FeedState<CostResponse>.neverLoaded),
+    "neverLoaded")
+
 print(failures == 0 ? "\nOK — \(assertions) assertions passed" : "\n\(failures) of \(assertions) assertions failed")
 exit(failures == 0 ? 0 : 1)
