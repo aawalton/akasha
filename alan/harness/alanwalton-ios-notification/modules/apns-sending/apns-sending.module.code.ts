@@ -1,4 +1,5 @@
 import http2 from "node:http2"
+import { resolveApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { base64Url } from "akasha/code/type/narrowing/modules/base64-url/base64-url.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { z } from "zod"
@@ -6,8 +7,6 @@ import { z } from "zod"
 const APNS_AUTH_KEY_ENV = "APNS_AUTH_KEY_P8"
 
 const APNS_KEY_ID = "3KCWQ4M92H"
-
-const APNS_TEAM_ID = "M6AN6NM6FL"
 
 const APNS_HOST = "api.push.apple.com"
 
@@ -108,7 +107,7 @@ function apnsSender(pem: string): ApnsSender {
     const jwt = await buildApnsJwt({
       pem,
       keyId: APNS_KEY_ID,
-      teamId: APNS_TEAM_ID,
+      teamId: resolveApp().developmentTeam,
       nowSeconds,
     })
     signed = { jwt, atSeconds: nowSeconds }

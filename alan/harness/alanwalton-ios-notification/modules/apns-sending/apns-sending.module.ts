@@ -13,6 +13,10 @@ export const apnsSending = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A provider token names the team the alanwalton app page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "One connection to Apple is opened and kept for every later send.",
     },
     {
