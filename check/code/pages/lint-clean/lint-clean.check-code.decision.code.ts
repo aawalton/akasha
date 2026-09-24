@@ -1,6 +1,11 @@
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Found, Linted } from "akasha/code/running/modules/code-lint/code-lint.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { z } from "zod"
+
+const CONFIG_SAID = z.looseObject({
+  files: z.looseObject({ includes: z.array(z.string()).optional() }).optional(),
+})
 
 export const CONFIG = "biome.json"
 
@@ -26,8 +31,8 @@ function includesIn(said: Configured): readonly string[] {
   if (said === null) return []
   const body = typeof said === "string" ? said : new TextDecoder().decode(said)
   try {
-    const held = JSON.parse(body) as { files?: { includes?: readonly string[] } }
-    return held.files?.includes ?? []
+    const held = CONFIG_SAID.safeParse(JSON.parse(body))
+    return held.data?.files?.includes ?? []
   } catch {
     return []
   }

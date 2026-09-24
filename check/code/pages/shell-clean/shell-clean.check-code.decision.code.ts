@@ -9,6 +9,7 @@ import {
   textAt,
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const SH = ".sh"
 
@@ -108,41 +109,33 @@ export function besideIn(change: Change, shadow: Shadow): readonly string[] {
   return besideOver(shadow.index, shadow.root, () => shadow.listed(), carriedIn(change))
 }
 
-function foundOf(held: unknown): Found | null {
-  if (typeof held !== "object" || held === null) return null
-  const said = held as Record<string, unknown>
-  const path = said.file
-  const level = said.level
-  const message = said.message
-  const line = said.line
-  const column = said.column
-  const code = said.code
-  if (typeof path !== "string" || typeof level !== "string" || typeof message !== "string") {
-    return null
-  }
-  if (typeof line !== "number" || typeof column !== "number" || typeof code !== "number") {
-    return null
-  }
-  return { path, line, column, code, level, said: message }
-}
+const COMMENT_SAID = z.looseObject({
+  file: z.string(),
+  level: z.string(),
+  message: z.string(),
+  line: z.number(),
+  column: z.number(),
+  code: z.number(),
+})
+
+const ANSWER_SAID = z.looseObject({ [COMMENTS]: z.array(COMMENT_SAID) })
 
 export function foundIn(output: string): readonly Found[] | null {
-  let held: unknown
+  let held: z.infer<typeof ANSWER_SAID> | undefined
   try {
-    held = JSON.parse(output)
+    held = ANSWER_SAID.safeParse(JSON.parse(output)).data
   } catch {
     return null
   }
-  if (typeof held !== "object" || held === null) return null
-  const said = (held as Record<string, unknown>)[COMMENTS]
-  if (!Array.isArray(said)) return null
-  const every: Found[] = []
-  for (const one of said) {
-    const each = foundOf(one)
-    if (each === null) return null
-    every.push(each)
-  }
-  return every
+  if (held === undefined) return null
+  return held[COMMENTS].map((one) => ({
+    path: one.file,
+    line: one.line,
+    column: one.column,
+    code: one.code,
+    level: one.level,
+    said: one.message,
+  }))
 }
 
 export function lookedOver(root: string, named: readonly string[], at: string | null): Looked {

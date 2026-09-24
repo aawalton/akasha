@@ -12,6 +12,7 @@ import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.mo
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { namesDrawn } from "akasha/text/writing/modules/name-drawing/name-drawing.module.code.ts"
 import ts from "typescript"
+import { z } from "zod"
 
 const LINKED = "linked-at"
 
@@ -69,6 +70,8 @@ export function manifestIn(index: Indexing): string {
 
 const MAIN = "main"
 
+const ENTRY_NAMED = z.looseObject({ [MAIN]: z.string() })
+
 const BUN = "bun:"
 
 const GLOBAL = "Bun"
@@ -121,15 +124,13 @@ export type Walking = {
 function entryIn(walking: Walking, manifest: string): string | null {
   const text = walking.read(manifest)
   if (text === null) return null
-  let read: unknown
+  let main: string | undefined
   try {
-    read = JSON.parse(text)
+    main = ENTRY_NAMED.safeParse(JSON.parse(text)).data?.[MAIN]
   } catch {
     return null
   }
-  if (read === null || typeof read !== "object") return null
-  const main = (read as Record<string, unknown>)[MAIN]
-  if (typeof main !== "string") return null
+  if (main === undefined) return null
   return normalize(join(dirname(manifest), main))
 }
 
