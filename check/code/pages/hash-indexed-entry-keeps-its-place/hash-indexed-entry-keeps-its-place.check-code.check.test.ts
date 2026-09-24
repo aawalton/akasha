@@ -114,6 +114,13 @@ test("a page added among a marked type's pages at the end lands", () => {
   expect(refusalsOver(over, [ROWS], () => [SKILL_A, SKILL_B, SKILL_C])).toEqual([])
 })
 
+test("a page given another place in the field its type is ordered by is refused", () => {
+  const placed = (at: number): string => `export const held = { hashPlace: ${at} }\n`
+  const over = changing({ [SKILL_A]: placed(0), [SKILL_B]: placed(1) }, { [SKILL_A]: placed(2) })
+  const said = refusalsOver(over, [{ ...ROWS, name: "hashPlace" }], () => [SKILL_A, SKILL_B])
+  expect(said[0]?.reason).toContain('"a" moved from index 0 to index 1')
+})
+
 test("the pages a type had are those there now less the added and with the taken", () => {
   const over = changing({ [SKILL_B]: "x", [SKILL_C]: "x" }, { [SKILL_A]: "x", [SKILL_C]: null })
   expect([...rowsWere(over, [SKILL_A, SKILL_B], "temper-skill")].sort()).toEqual([SKILL_B, SKILL_C])

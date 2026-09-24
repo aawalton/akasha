@@ -22,8 +22,20 @@ const ROWS: Marked = { page: TYPE_PAGE, name: "slug", code: null }
 
 const HELD = 'const KITS = ["a"]\n'
 
-function world(files: Readonly<Record<string, string>>, rows: readonly string[] = []): World {
-  return { read: (path) => files[path] ?? null, rowsOf: () => rows }
+const SKILL_A = "skill/pages/a/a.temper-skill.ts"
+
+const SKILL_B = "skill/pages/b/b.temper-skill.ts"
+
+function world(
+  files: Readonly<Record<string, string>>,
+  rows: readonly string[] = [],
+  values: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {}
+): World {
+  return {
+    read: (path) => files[path] ?? null,
+    rowsOf: () => rows,
+    valueOf: (path) => values[path] ?? null,
+  }
 }
 
 test("a module names each table it marks, and where its code is", () => {
@@ -99,15 +111,20 @@ test("a table read before and no longer readable is refused", () => {
   expect(judged(TABLE, was, now)).toContain("could not be read")
 })
 
-test("a page type's pages are read in order of their slugs", () => {
-  const rows = ["skill/pages/b/b.temper-skill.ts", "skill/pages/a/a.temper-skill.ts"]
-  const found = tableOf(ROWS, world({}, rows))
+test("a page type's pages marked by `slug` are read in order of their slugs", () => {
+  const found = tableOf(ROWS, world({}, [SKILL_B, SKILL_A]))
   expect("entries" in found && found.entries).toEqual(["a", "b"])
 })
 
-test("a page type ordering its pages by another field is unread", () => {
-  const found = tableOf({ ...ROWS, name: "title" }, world({}))
-  expect("unread" in found && found.unread).toContain("`title`")
+test("a page type's pages marked by a field are read in order of that field", () => {
+  const values = { [SKILL_A]: { hashPlace: 1 }, [SKILL_B]: { hashPlace: 0 } }
+  const found = tableOf({ ...ROWS, name: "hashPlace" }, world({}, [SKILL_A, SKILL_B], values))
+  expect("entries" in found && found.entries).toEqual(["b", "a"])
+})
+
+test("a page stating no value for the field its type is ordered by is unread", () => {
+  const found = tableOf({ ...ROWS, name: "hashPlace" }, world({}, [SKILL_A], { [SKILL_A]: {} }))
+  expect("unread" in found && found.unread).toContain("states no `hashPlace`")
 })
 
 test("a refusal over code lands on the code, and over pages on the page type", () => {

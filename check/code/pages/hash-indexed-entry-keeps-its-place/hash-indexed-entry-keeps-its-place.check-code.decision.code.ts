@@ -17,7 +17,7 @@ const HASH_INDEXED = "hashIndexed"
 
 const CODE = "code"
 
-const ORDERED_BY = "slug"
+const SLUG = "slug"
 
 const SHOWN = 10
 
@@ -32,6 +32,7 @@ export type Marked = {
 export type World = {
   readonly read: Reader
   readonly rowsOf: (pageTypeSlug: string) => readonly string[]
+  readonly valueOf: (path: string) => Value | null
 }
 
 export type Moved = {
@@ -64,24 +65,38 @@ export function rowTypeOf(one: Marked): string | null {
   return partedIn(one.page)?.slug ?? null
 }
 
-function slugsOf(rows: readonly string[]): readonly string[] {
-  const found: string[] = []
-  for (const one of rows) {
-    const slug = partedIn(one)?.slug
-    if (slug !== undefined) found.push(slug)
-  }
-  return found.sort((one, two) => (one < two ? -1 : one > two ? 1 : 0))
+type Row = {
+  readonly slug: string
+  readonly by: string | number
+}
+
+function compared(one: string | number, two: string | number): number {
+  if (typeof one === "number" && typeof two === "number") return one - two
+  const left = String(one)
+  const right = String(two)
+  return left < right ? -1 : left > right ? 1 : 0
+}
+
+function rowOf(path: string, name: string, world: World): Row | string {
+  const slug = partedIn(path)?.slug
+  if (slug === undefined) return `${path} is named as no page is`
+  if (name === SLUG) return { slug, by: slug }
+  const by = world.valueOf(path)?.[name]
+  if (typeof by === "number" || typeof by === "string") return { slug, by }
+  return `${path} states no \`${name}\` to be put in order by`
 }
 
 function rowsIn(one: Marked, kind: string, world: World): TableRead {
-  if (one.name !== ORDERED_BY) {
-    return {
-      unread: `${one.page} names \`${one.name}\`, and a page type's pages are read in order of \`${ORDERED_BY}\` alone`,
-      paths: [one.page],
-    }
-  }
   const rows = world.rowsOf(kind)
-  return { entries: slugsOf(rows), paths: [one.page, ...rows] }
+  const paths = [one.page, ...rows]
+  const found: Row[] = []
+  for (const path of rows) {
+    const row = rowOf(path, one.name, world)
+    if (typeof row === "string") return { unread: row, paths }
+    found.push(row)
+  }
+  found.sort((left, right) => compared(left.by, right.by) || compared(left.slug, right.slug))
+  return { entries: found.map((row) => row.slug), paths }
 }
 
 export function tableOf(one: Marked, world: World): TableRead {
@@ -96,7 +111,9 @@ export function placeOf(one: Marked): string {
 }
 
 function describedAs(one: Marked): string {
-  if (one.code === null) return `the \`${rowTypeOf(one) ?? one.page}\` pages, in order of slug,`
+  if (one.code === null) {
+    return `the \`${rowTypeOf(one) ?? one.page}\` pages, in order of \`${one.name}\`,`
+  }
   return `\`${one.name}\` in ${one.code}`
 }
 

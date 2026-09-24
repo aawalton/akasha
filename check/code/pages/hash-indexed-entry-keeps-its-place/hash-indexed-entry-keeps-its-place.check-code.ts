@@ -46,7 +46,11 @@ export const hashIndexedEntryKeepsItsPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An entry among a page type's pages is a page's slug, read in the order of slugs.",
+      statement: "An entry among a page type's pages is a page's slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type's pages are read in order of the field the mark names, then of slug.",
     },
     {
       decisionKind: "decision-kind/departure",

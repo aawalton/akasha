@@ -21,6 +21,11 @@ import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+
+function valued(text: string | null): Value | null {
+  return text === null ? null : valueIn(text)
+}
 
 function pageTypeOf(path: string): string | null {
   const said = partedIn(path)
@@ -33,8 +38,7 @@ export function markedBefore(change: Change): readonly Marked[] {
   for (const path of change.changed) {
     const kind = pageTypeOf(path)
     if (kind === null || !MARKING.has(kind)) continue
-    const text = textWas(change, path)
-    const value = text === null ? null : valueIn(text)
+    const value = valued(textWas(change, path))
     if (value !== null) found.push(...marksOf(path, value))
   }
   return found
@@ -60,10 +64,15 @@ export function refusalsOver(
   marks: readonly Marked[],
   rowsOf: (pageTypeSlug: string) => readonly string[]
 ): readonly Judged[] {
-  const now: World = { read: (path) => textIn(change, path), rowsOf }
+  const now: World = {
+    read: (path) => textIn(change, path),
+    rowsOf,
+    valueOf: (path) => valued(textIn(change, path)),
+  }
   const was: World = {
     read: (path) => textWas(change, path),
     rowsOf: (kind) => rowsWere(change, rowsOf(kind), kind),
+    valueOf: (path) => valued(textWas(change, path)),
   }
   const changed = new Set(change.changed)
   const seen = new Set<string>()

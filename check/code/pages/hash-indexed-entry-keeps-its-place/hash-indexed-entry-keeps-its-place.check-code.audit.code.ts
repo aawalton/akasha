@@ -13,6 +13,7 @@ export function hashIndexedEntryKeepsItsPlace(root: string): readonly Judged[] {
   const world: World = {
     read: commit.read,
     rowsOf: (kind) => commit.index.everyOfType(kind).map((one) => one.path),
+    valueOf: commit.pageOf,
   }
   const said: Judged[] = []
   for (const one of markedIn(commit.index)) {
