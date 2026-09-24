@@ -27,5 +27,8 @@ export const emberUiTesting = {
     {
       statement: "A row, a header and a stat row look the same in every Temper window.",
     },
+    {
+      statement: "A number reads the same way wherever Temper shows it in the game.",
+    },
   ],
 } as const satisfies Initiative
