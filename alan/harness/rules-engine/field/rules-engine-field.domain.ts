@@ -35,7 +35,7 @@ export const rulesEngineField = {
       statement: "One comparison spelled alike over two types is two comparisons.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "Nothing refuses a condition pairing a field with a comparison that field refuses.",
     },
