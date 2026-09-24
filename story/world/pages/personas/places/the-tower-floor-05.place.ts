@@ -9,10 +9,10 @@ export const theTowerFloor05 = {
   loreDisclosure: "lore-disclosure/player",
   depth: 5,
   description:
-    "You climb the last of the dark shaft and the Tower changes its mind about you. The cold updraft warms. The grey seam at the top opens not onto more stone but onto a long, low room lit gold — lamplight, a banked hearth, the smell of bread and woodsmoke after days of dust and grease. A table is laid down its length, plates and a steaming ewer, chairs pushed back as if a meal just paused. Couches and a made bed wait along the warm wall. By the hearth a figure rises — hooded soft, both hands open and empty, a voice like someone glad you finally made it: 'You're hurt. Come in, climber. Sit. You've earned the rest.' After floor four's killing dark, every nerve you own wants to walk in and put the weapon down. And this is only the threshold — the haven runs back and back, room after warm room, deeper than one glance can hold.",
+    "The grey seam at the top of the dark shaft opens onto a long run of low, cold, wet stone rooms. The golden haven once woven over them died all at once with its Host: the hearths are dead grey ash, the tables bare boards set for no one, and the bones of climbers who sat down to rest lie where the chairs seemed to be. In the last room a sheer drop is torn across the floor, and past it a plain stair climbs on into the dark.",
   exits: [
     {
-      way: "the REAL ascending stair behind the haven's illusory 'onward door', which appears only when the haven collapses — when the Host's true form falls",
+      way: "the plain ascending stair past the drop in the Host's Seat, cold air pouring down it",
     },
   ],
 } as const satisfies Place
