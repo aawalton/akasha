@@ -34,10 +34,32 @@ import { useReaderProgressWriter } from "akasha/page/ui/component/modules/use-re
 import { useRestoreReadPosition } from "akasha/page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { type ReactNode, useCallback } from "react"
+import { type ReactNode, useCallback, useEffect, useState } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const READER_VIRTUALIZE_THRESHOLD = 24_000
+
+const FILE_AT = "/api/page-file"
+
+const FILE_PROPERTY = "file-property"
+
+function useFileBody(href: string | null): string | null {
+  const [held, setHeld] = useState<{ href: string; text: string } | null>(null)
+  useEffect(() => {
+    if (href === null) return
+    let live = true
+    fetch(href)
+      .then((answer) => (answer.ok ? answer.text() : ""))
+      .catch(() => "")
+      .then((text) => {
+        if (live) setHeld({ href, text })
+      })
+    return () => {
+      live = false
+    }
+  }, [href])
+  return held !== null && held.href === href ? held.text : null
+}
 
 function toFiniteNumber(value: unknown): number | undefined {
   if (value == null) return undefined
@@ -74,8 +96,22 @@ export function PageReaderContent({
   const data = toPageDataJSON(page?.properties)
   const title = data.title != null ? String(data.title) : ""
   const bodyPropertyId = detailConfig?.bodyPropertyId
+  const bodyIsFile = pageTypeData.propertyDefinitions.some(
+    (def) => def.id === bodyPropertyId && def.drawnBy?.includes(FILE_PROPERTY) === true
+  )
+  const fileHref =
+    bodyIsFile && bodyPropertyId != null && typeof data.slug === "string" && data.slug !== ""
+      ? `${FILE_AT}/${[pageTypeSlug, data.slug, bodyPropertyId].map(encodeURIComponent).join("/")}`
+      : null
+  const fileBody = useFileBody(fileHref)
+  const bodyWaiting = fileHref !== null && fileBody === null
   const bodyValue = bodyPropertyId != null ? data[bodyPropertyId] : undefined
-  const body = bodyValue != null && typeof bodyValue !== "object" ? String(bodyValue) : ""
+  const body =
+    fileHref !== null
+      ? (fileBody ?? "")
+      : bodyValue != null && typeof bodyValue !== "object"
+        ? String(bodyValue)
+        : ""
 
   const progressPropertyId = detailConfig?.progressPropertyId
   const lengthPropertyId = detailConfig?.lengthPropertyId
@@ -184,7 +220,7 @@ export function PageReaderContent({
                 {(readerPrev != null || readerNext != null) && (
                   <ReaderPager prev={readerPrev ?? null} next={readerNext ?? null} position="top" />
                 )}
-                {body.trim() === "" ? (
+                {bodyWaiting ? null : body.trim() === "" ? (
                   <p className="text-secondary italic">This page has no text yet.</p>
                 ) : drawProse !== undefined ? (
                   drawProse(body)
