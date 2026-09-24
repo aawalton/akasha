@@ -52,7 +52,7 @@ const RELATIONSHIP_KEYS: readonly string[] = [
 const SEAT_KEYS: readonly string[] = ["slug"]
 
 const DISCARD_OPENS_WITH =
-  "A text reached the toll-free number from a number nobody enrolled, and nothing was delivered."
+  "A text reached Alan's number from a number nobody enrolled, and nothing was delivered."
 
 type Row = Readonly<Record<string, unknown>>
 
