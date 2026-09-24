@@ -13,6 +13,7 @@ import {
   telnyxWebhookSchema,
 } from "akasha/alan/harness/sms-core/modules/telnyx-inbound/telnyx-inbound.module.code.ts"
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/modules/verify-signature/verify-signature.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
@@ -90,7 +91,7 @@ function identitiesIn(rows: readonly Row[]): readonly SmsExternalIdentity[] {
 }
 
 async function messageTo(to: string, body: string): Promise<string | null> {
-  const id = crypto.randomUUID()
+  const id = uuidVersion7()
   const named = messageNamed(id)
   const wrote = await writingFor({
     writer: INBOUND_WRITER,

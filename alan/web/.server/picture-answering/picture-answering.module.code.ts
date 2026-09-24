@@ -24,6 +24,7 @@ import {
   landImage,
 } from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import { captureError } from "akasha/page/access/modules/capture-error/capture-error.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import {
   askingFor,
   type Fetcher,
@@ -110,7 +111,7 @@ export async function deliverToSeat(
   const seats = await askingFor({ pageTypeSlug: SEAT_PAGE_TYPE_SLUG, keys: [SLUG] }, fetcher, naps)
   if ("refused" in seats) return seats.refused
   if (!seats.rows.some((row) => row[SLUG] === to)) return `no seat holds the name \`${to}\``
-  const id = crypto.randomUUID()
+  const id = uuidVersion7()
   const named = messageNamed(id)
   const wrote = await writingFor(
     {

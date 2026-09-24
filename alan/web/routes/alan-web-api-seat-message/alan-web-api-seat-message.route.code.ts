@@ -7,6 +7,7 @@ import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { imageBytes } from "akasha/infrastructure/inference/generation/image/properties/image-bytes.file-property.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -133,7 +134,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return refused(`A message holds at most ${BODY_HOLDS} characters.`, 413)
   }
 
-  const id = crypto.randomUUID()
+  const id = uuidVersion7()
   const named = messageNamed(id)
   const wrote = await writingFor({
     writer: WRITER,

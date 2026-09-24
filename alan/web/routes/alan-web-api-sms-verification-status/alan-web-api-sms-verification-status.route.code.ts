@@ -1,5 +1,6 @@
 import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/modules/verify-signature/verify-signature.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { writingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const MESSAGE_PAGE_TYPE_SLUG = "message"
@@ -42,7 +43,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return Response.json({ error: verified.reason }, { status: 403 })
   }
 
-  const id = crypto.randomUUID()
+  const id = uuidVersion7()
   const named = messageNamed(id)
   const wrote = await writingFor({
     writer: STATUS_WRITER,
