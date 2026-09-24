@@ -62,6 +62,7 @@
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.ts"}
+{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/typecheck/typecheck.check-code.ts"}

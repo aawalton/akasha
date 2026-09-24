@@ -1595,6 +1595,8 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.ts","id":"01a08299-65c2-7c83-9d05-8a3e841dfe48"}
 {"propertySlug":"decision-kind","path":"check/code/pages/require-import-extension/require-import-extension.check-code.ts","id":"01a04bcb-c714-7fdf-aa64-e2ff68d4f69b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.ts","id":"01a058ff-fbf9-76dc-8437-ad9a61e75657"}
+{"propertySlug":"decision-kind","path":"check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.ts","id":"01a0d460-0e6c-7895-abaa-f432fc55957f"}
+{"propertySlug":"decision-kind","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.ts","id":"01a0d460-edb7-74c0-ab5c-ba4029cf7b17"}
 {"propertySlug":"decision-kind","path":"check/code/pages/shell-clean/shell-clean.check-code.ts","id":"01a05991-d997-76f5-a619-6ddb7444c34f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts","id":"01a0b7c9-d8d8-78e8-bb82-9ac8ee8f4e4b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/tests-pass.check-code.ts","id":"01a04eb6-9214-7000-be71-821a1a582fbe"}

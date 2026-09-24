@@ -173,6 +173,9 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts"}

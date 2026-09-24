@@ -94,6 +94,7 @@
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"audit-commit.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.audit.code.ts"}

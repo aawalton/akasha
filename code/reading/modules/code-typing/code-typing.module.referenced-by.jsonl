@@ -13,6 +13,9 @@
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/no-global-in-a-module/no-global-in-a-module.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/no-unused-modules/modules/bundle-reaching/bundle-reaching.module.code.ts"}
+{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts"}
+{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"code/reading/modules/code-naming/code-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"code/reading/modules/code-naming/code-naming.module.test-fixtures.ts"}

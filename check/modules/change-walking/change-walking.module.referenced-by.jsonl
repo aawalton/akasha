@@ -93,6 +93,7 @@
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.check.code.ts"}
+{"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"change-walking.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.check.code.ts"}
