@@ -34,7 +34,7 @@ export const foodEntry = {
       statement: "A food entry that contributes no plants has no plant grams rather than a zero.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every food entry Alan logs lands in a file.",
     },
   ],
