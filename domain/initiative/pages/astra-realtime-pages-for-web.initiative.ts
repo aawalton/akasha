@@ -8,5 +8,9 @@ export const astraRealtimePagesForWeb = {
   persona: "persona/astra",
   intentStack: [
     { statement: "A browser is pushed each change to a page or list it shows, and to no other." },
+    {
+      statement:
+        "A reader holding a page type's shape drops it when a change to that page type is pushed.",
+    },
   ],
 } as const satisfies Initiative
