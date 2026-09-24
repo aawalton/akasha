@@ -1,4 +1,6 @@
+{"propertySlug":"import","fileName":"conversation-shaping.module.code.ts","path":"agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.code.ts"}
 {"propertySlug":"import","fileName":"conversation-shaping.module.code.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"conversation-shaping.module.code.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.module.test.ts"}
+{"propertySlug":"import","fileName":"conversation-shaping.module.test-fixtures.ts","path":"agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"conversation-shaping.module.test-fixtures.ts","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.module.test.ts"}
 {"propertySlug":"parts","path":"agent/seat/observation/seat-observation.domain.ts","id":"01a0658d-c92f-76f2-abb0-efb387b6515b"}

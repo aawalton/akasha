@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
+{"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.code.ts"}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.test.ts"}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts"}

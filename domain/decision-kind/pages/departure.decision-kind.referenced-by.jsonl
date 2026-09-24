@@ -292,6 +292,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/spawn-guard/spawn-guard.module.ts","id":"01a0695a-d2ea-7bcd-b07f-19486629a01c"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/seat-name.domain.ts","id":"01a09c43-0bf5-7991-a2dc-650268201505"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/idle-live-seat/idle-live-seat.list.ts","id":"01a06862-a02e-7ce3-acaa-c4e902ab9c81"}
+{"propertySlug":"decision-kind","path":"agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.ts","id":"01a0d432-be0b-7446-ad3d-cccc0bb9ae68"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.module.ts","id":"01a0d430-41e2-7f5f-8d4b-4cbbcd9ae52c"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.ts","id":"01a06949-b281-7a43-b380-0b524b851f09"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.ts","id":"01a068a4-60f0-7000-bffe-694978e0a342"}
@@ -333,6 +334,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/modules/seat-revive-verify-signal/seat-revive-verify-signal.module.ts","id":"01a0686d-9d5e-700e-98bf-06b7ad829d40"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/seat-reviving.domain.ts","id":"01a09c38-82db-7a28-8f18-09c4621a8dce"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
+{"propertySlug":"decision-kind","path":"agent/seat/service-workstations/keep-seat-conversations/keep-seat-conversations.service-workstation.ts","id":"01a0d433-9895-7cc6-b301-bb9eceb6b3e6"}
 {"propertySlug":"decision-kind","path":"agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.ts","id":"01a06949-b281-7c83-952b-22f6213b7460"}
 {"propertySlug":"decision-kind","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.ts","id":"01a071f5-4e4d-79a8-aff6-911818ba3e7e"}
 {"propertySlug":"decision-kind","path":"agent/seat/session/seat-session.module.ts","id":"01a06949-b281-709f-96f4-45790933cf1e"}

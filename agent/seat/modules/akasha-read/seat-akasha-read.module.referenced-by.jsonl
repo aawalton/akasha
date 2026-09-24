@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/modules/page-values/seat-page-values.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/modules/record/seat-record.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-akasha-read.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}

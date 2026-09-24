@@ -68,6 +68,7 @@ export const seat = {
     "relation-property/requested-action",
     "relation-property/role",
     "relation-property/seat-persona",
+    "service-workstation/keep-seat-conversations",
     "service-workstation/maintain-seat-pending",
     "service-workstation/recipient-resolver",
     "service-workstation/sweep-absent-seats",

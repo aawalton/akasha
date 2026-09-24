@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.code.ts"}
