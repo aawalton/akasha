@@ -12,8 +12,8 @@ export const esoSandbox = {
       statement: "The compiler's own runtime library is compiled against the names declared here.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The names the game adds to Lua are apart from the names Lua itself has.",
+      decisionKind: "decision-kind/departure",
+      statement: "The names the game adds to Lua are declared on `eso-sandbox-additions`.",
     },
   ],
 } as const satisfies TypeDeclaration
