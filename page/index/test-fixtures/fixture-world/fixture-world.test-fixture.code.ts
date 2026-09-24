@@ -10,6 +10,8 @@ import { keptAt } from "akasha/file/disk/test-fixtures/kept-scratch/kept-scratch
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { graphAttribute } from "akasha/graph/attribute/graph-attribute.page-type.ts"
 import { known } from "akasha/graph/attribute/pages/known.graph-attribute.ts"
+import { loading } from "akasha/graph/attribute/pages/loading.graph-attribute.ts"
+import { names } from "akasha/graph/attribute/pages/names.graph-attribute.ts"
 import { refreshedWhole } from "akasha/page/index/modules/indexing/indexing.module.code.ts"
 import { shapesAmong } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -294,11 +296,23 @@ const GRAPHED: Readonly<Record<string, string>> = Object.fromEntries(
       definition: "how an edge between two files was found",
     }),
     thePage({
+      id: graphId("6"),
+      type: `${pageType.slug}/${graphAttribute.slug}`,
+      slug: names.slug,
+      definition: names.definition,
+    }),
+    thePage({
+      id: graphId("7"),
+      type: `${pageType.slug}/${graphAttribute.slug}`,
+      slug: loading.slug,
+      definition: loading.definition,
+    }),
+    thePage({
       id: graphId("5"),
       type: `${pageType.slug}/graph-edge`,
       slug: "import-edge",
       definition: "one file naming another in its own body",
-      attributes: [`${graphAttribute.slug}/${known.slug}`],
+      attributes: [known, names, loading].map((one) => `${graphAttribute.slug}/${one.slug}`),
     }),
   ].map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)])
 )
