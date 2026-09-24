@@ -10,7 +10,7 @@ export const awenEngineImprovements = {
     {
       statement: "The story page types are one designed set under `story/`.",
       workingMemory:
-        "50 page types under `story/` sit in two disjoint trees. `page-type/game` is not among `world`'s parts, nor `world` among `game`'s, and the only join is a slug match in `game-beside.module.code.ts`. Duplicates: `story-wiki-entry` against `game-lore-entry`; `story-design` and `story-design-note` against `game-design-entry`, both carried by The Tower.",
+        "The page types under `story/` sit in two disjoint trees. `page-type/game` is not among `world`'s parts, nor `world` among `game`'s, and the only join is a slug match in `game-beside.module.code.ts`. Duplicates: `story-wiki-entry` against `game-lore-entry`; `story-design` and `story-design-note` against `game-design-entry`, both carried by The Tower.",
     },
     { statement: "Every page under `story/` is of a page type in that set." },
     { statement: "All game state for The Tower uses the new page types." },
