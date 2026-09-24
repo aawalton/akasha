@@ -275,6 +275,12 @@ export async function answeringNothing(root: string, at: string): Promise<Answer
   return await changing(root, PAGE, null, REMOVE_PAGE_SLUG, said, answersNothing, applying, CHOSEN)
 }
 
+export async function applyingNothing(root: string, keptBefore: boolean): Promise<Answer> {
+  if (keptBefore) await drafting(root, NAMER_PAGE)
+  const said = piping(taking(NAMER_PAGE))
+  return await changing(root, PAGE, null, REMOVE_PAGE_SLUG, said, answersNothing, applying, CHOSEN)
+}
+
 export async function doneDrafting(root: string, at: string): Promise<readonly string[]> {
   const done: string[] = []
   const said = piping(`${taking(at)}draft: true\n`)

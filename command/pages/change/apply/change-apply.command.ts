@@ -119,6 +119,10 @@ export const changeApply = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change answering no edit over no edit kept lands nothing and is no refusal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The checks judge the whole set of edits kept.",
     },
     {

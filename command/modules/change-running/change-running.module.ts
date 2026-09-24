@@ -175,6 +175,10 @@ export const changeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change answering no edit over no edit kept lands nothing and is no refusal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The edits a change answers are appended beside the calling agent's page.",
     },
     {

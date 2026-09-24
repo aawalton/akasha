@@ -18,6 +18,7 @@ import {
   acting,
   answeringNothing,
   applying,
+  applyingNothing,
   BOTH,
   CHOSEN,
   doneDrafting,
@@ -61,6 +62,20 @@ test("a run whose change answered no edit says that change answered none", async
 
   expect(answered.code).toBe(0)
   expect(answered.report[0] ?? "").toContain("`remove-page` answered no edit")
+})
+
+test("a change answering no edit over no edit kept lands nothing and is no refusal", async () => {
+  APPLIED.length = 0
+
+  expect((await applyingNothing(repo(), false)).code).toBe(0)
+  expect(APPLIED).toEqual([])
+})
+
+test("a change answering no edit over edits kept before still lands those edits", async () => {
+  APPLIED.length = 0
+
+  expect((await applyingNothing(repo(), true)).code).toBe(0)
+  expect(APPLIED.length).toBe(1)
 })
 
 test("a change answers its edits and appends the edits beside the calling agent's page", async () => {

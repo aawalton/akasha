@@ -8,6 +8,7 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodyIn,
+  editsWaiting,
   foldedIn,
   keptAt,
   keptEdits,
@@ -424,7 +425,7 @@ export async function changing(
       return made
     })
   )
-  if (answered.report.length > 0) done.push(keptSaid(page, LANDS))
+  if (answered.code === 0 && paths > 0) done.push(keptSaid(page, LANDS))
   costRecorded(
     root,
     commandPageAt(root, chosen.slug),
@@ -437,6 +438,7 @@ export async function changing(
   if (answered.code !== 0) return answered
   const nothing = nothingSaid(slug, paths)
   if (drafts) return told([...answered.report, ...nothing, keptSaid(page, LANDS)])
+  if (paths === 0 && !editsWaiting(root, page)) return told([...answered.report, ...nothing])
   const landed = await applying(asked.message, asked.measure)
   return answeredWith(
     [
