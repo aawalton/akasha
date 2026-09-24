@@ -166,7 +166,7 @@ export const codeEditor = {
     },
 
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "The editor's build resolves the dependencies the build needs inside the editor's own checkout.",
     },
