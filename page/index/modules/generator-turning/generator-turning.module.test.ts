@@ -1,8 +1,8 @@
 import { expect, test } from "bun:test"
 import { readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { changeGenerator } from "akasha/change/generator/change-generator.page-type.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
-import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { turnedWhole } from "akasha/page/index/modules/generator-turning/generator-turning.module.code.ts"
 import {
@@ -16,13 +16,25 @@ const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
 
 const MODULE_AT = `${pageType.slug}/${module.slug}` as const
 
-const GENERATOR_AT = "page/type/page-type.page-type.type-generator.ts"
+const MADE_AT = "akasha/made.txt"
 
-const TYPES_AT = "akasha/carrier.page-type.types.ts"
+const MAKING = `const AT = "${MADE_AT}"
+const BODY = "made\\n"
+export function generateChange(change) {
+  const held = change.after(AT)
+  const was = held === null ? null : new TextDecoder().decode(held)
+  if (was === BODY) return { edits: [], said: [] }
+  const edit = was === null
+    ? { kind: "add", path: AT, content: BODY }
+    : { kind: "replace", path: AT, contentFrom: was, contentTo: BODY }
+  return { edits: [edit], said: [] }
+}
+export function couldTurn() {
+  return false
+}
+`
 
-const SCHEMA_AT = "akasha/carrier.page-type.schema.jsonl"
-
-function world(generator: string): string {
+function world(code: string): string {
   return indexedRepo({
     "akasha/page-type.page-type.ts": bodyOf({
       id: idOf("2"),
@@ -30,72 +42,58 @@ function world(generator: string): string {
       slug: "page-type",
       extends: [DOMAIN_AT],
       properties: [],
-      typeGenerator: "ts",
     }),
-    "akasha/page-type.page-type.type-generator.ts": generator,
-    "akasha/carrier.page-type.ts": bodyOf({
-      id: "01a04a4a-0009-7000-8000-000000000001",
+    "akasha/change-generator.page-type.ts": bodyOf({
+      id: idOf("3"),
       type: `${pageType.slug}/${pageType.slug}`,
-      slug: "carrier",
+      slug: changeGenerator.slug,
       extends: [MODULE_AT],
-      properties: [{ pagePropertySlug: "note", required: false, many: false }],
-      types: "ts",
-      schema: "jsonl",
+      properties: [],
     }),
+    "akasha/making.change-generator.ts": bodyOf({
+      id: idOf("4"),
+      type: `${pageType.slug}/${changeGenerator.slug}`,
+      slug: "making",
+      code: "ts",
+    }),
+    "akasha/making.change-generator.code.ts": code,
   })
 }
 
-const REAL = `export { generateTypes } from "${join(rootOf(import.meta.dir), GENERATOR_AT)}"\n`
-
-test("a file a generator writes that the tree has not is written and named", () => {
-  const root = world(REAL)
+test("a file a change generator writes is written and named, whatever it could turn", () => {
+  const root = world(MAKING)
   const said = turnedWhole(root, true)
   expect(said.refused).toEqual([])
-  expect(said.added).toContain(TYPES_AT)
-  expect(said.added).toContain(SCHEMA_AT)
+  expect(said.added).toEqual([MADE_AT])
+  expect(readFileSync(join(root, MADE_AT), "utf8")).toBe("made\n")
 
   const again = turnedWhole(root, false)
   expect(again.added).toEqual([])
   expect(again.changed).toEqual([])
-  expect(again.weighed).toBe(said.weighed)
 })
 
-test("a generated type file the pages no longer say is named and written again", () => {
-  const root = world(REAL)
+test("a written file the pages no longer say is named and written again", () => {
+  const root = world(MAKING)
   turnedWhole(root, true)
-  const at = join(root, TYPES_AT)
-  const was = readFileSync(at, "utf8")
-  writeFileSync(at, `${was}export type Nonsense = never\n`)
+  const at = join(root, MADE_AT)
+  writeFileSync(at, "nonsense\n")
 
-  expect(turnedWhole(root, false).changed).toEqual([TYPES_AT])
-  expect(turnedWhole(root, true).changed).toEqual([TYPES_AT])
-  expect(readFileSync(at, "utf8")).toBe(was)
+  expect(turnedWhole(root, false).changed).toEqual([MADE_AT])
+  expect(turnedWhole(root, true).changed).toEqual([MADE_AT])
+  expect(readFileSync(at, "utf8")).toBe("made\n")
 })
 
-test("a generated shape file the pages no longer say is named and written again", () => {
-  const root = world(REAL)
-  turnedWhole(root, true)
-  const at = join(root, SCHEMA_AT)
-  const was = readFileSync(at, "utf8")
-  writeFileSync(at, was.replace('"propertySlug":"', '"propertySlug":"nonsense-'))
-
-  expect(turnedWhole(root, false).changed).toEqual([SCHEMA_AT])
-  expect(turnedWhole(root, true).changed).toEqual([SCHEMA_AT])
-  expect(readFileSync(at, "utf8")).toBe(was)
-})
-
-test("a generator that breaks is refused rather than answered as nothing differing", () => {
-  const root = world('export function generateTypes() { throw new Error("no") }\n')
+test("a change generator that breaks is refused rather than answered as nothing differing", () => {
+  const root = world('export function generateChange() { throw new Error("no") }\n')
   const said = turnedWhole(root, false)
 
   expect(said.added).toEqual([])
-  expect(said.weighed).toBe(0)
   expect(said.refused.length).toBe(1)
   expect(said.refused[0]).toContain("broke — no")
 })
 
-test("a generator answering to no `generateTypes` is refused", () => {
+test("a change generator answering to no `generateChange` is refused", () => {
   const root = world("export const nothing = 1\n")
 
-  expect(turnedWhole(root, false).refused[0]).toContain("answers to no `generateTypes`")
+  expect(turnedWhole(root, false).refused[0]).toContain("answers to no `generateChange`")
 })

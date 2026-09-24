@@ -1,5 +1,7 @@
-import { mkdirSync, readFileSync, statSync } from "node:fs"
+import { mkdirSync, readFileSync, rmSync, statSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { generatedWhole } from "akasha/change/generator/modules/change-generating/change-generating.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { heldOver } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { writeFileAtomicSync } from "akasha/file/disk/modules/atomic-write/atomic-write.module.code.ts"
@@ -14,6 +16,8 @@ import {
 const GENERATES = "generateTypes"
 
 const ANSWERS_NONE = `answers to no \`${GENERATES}\``
+
+const BYTES = new TextEncoder()
 
 export type Turned = {
   readonly weighed: number
@@ -36,6 +40,22 @@ function bytesAt(root: string, path: string): Uint8Array | null {
 function movingNothing(root: string): Change {
   const disk = (path: string): Uint8Array | null => bytesAt(root, path)
   return { root, changed: [], before: disk, after: disk }
+}
+
+function movedBy(root: string, made: readonly FileChange[]): Change {
+  const held = new Map<string, Uint8Array | null>()
+  for (const one of made) {
+    if (one.kind === "add") held.set(one.path, BYTES.encode(one.content))
+    else if (one.kind === "replace") held.set(one.path, BYTES.encode(one.contentTo))
+    else if (one.kind === "remove") held.set(one.path, null)
+  }
+  const disk = (path: string): Uint8Array | null => bytesAt(root, path)
+  return {
+    root,
+    changed: [...held.keys()].sort(),
+    before: disk,
+    after: (path) => (held.has(path) ? (held.get(path) ?? null) : disk(path)),
+  }
 }
 
 function reachingInto(noting: Noting): Reaching {
@@ -77,18 +97,26 @@ export function turnedWhole(root: string, put: boolean): Turned {
   const cast = shadowOnto(null, change)
   if ("refused" in cast) return { weighed: 0, added: [], changed: [], refused: [cast.refused] }
   const noting: Noting = { weighed: new Set(), troubled: [] }
-  const said = typedOver(change, cast.shadow, reachingInto(noting))
+  const typed = typedOver(change, cast.shadow, reachingInto(noting))
+  const ran = generatedWhole(change, cast.shadow, (made) => movedBy(root, made))
   const added: string[] = []
   const changed: string[] = []
-  for (const one of said.edits) {
-    if (one.kind === "add") added.push(one.path)
-    else changed.push(one.path)
-    if (put) written(root, one.path, one.kind === "add" ? one.content : one.contentTo)
+  for (const one of [...typed.edits, ...ran.edits]) {
+    if (one.kind === "add") {
+      added.push(one.path)
+      if (put) written(root, one.path, one.content)
+    } else if (one.kind === "replace") {
+      changed.push(one.path)
+      if (put) written(root, one.path, one.contentTo)
+    } else if (one.kind === "remove") {
+      changed.push(one.path)
+      if (put) rmSync(join(root, one.path), { force: true })
+    }
   }
   return {
-    weighed: noting.weighed.size,
+    weighed: noting.weighed.size + ran.weighed,
     added: added.sort(),
     changed: changed.sort(),
-    refused: noting.troubled,
+    refused: [...noting.troubled, ...ran.refused],
   }
 }

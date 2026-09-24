@@ -157,6 +157,20 @@ function loadedIn(change: Change, at: string, beside: string): Loaded {
   return { generating: generating as Generating, turning: turning as Turning }
 }
 
+export function generatedWhole(
+  change: Change,
+  shadow: Shadow,
+  again: Again
+): Ran & { readonly weighed: number } {
+  const listed = listedIn(shadow, change)
+  if (listed.length === 0) return { ...NOTHING, weighed: 0 }
+  const ran = generatedAlong(listed, change, again, (asked, at, beside) => {
+    const loaded = loadedIn(asked, at, beside)
+    return "missing" in loaded ? loaded : { generating: loaded.generating }
+  })
+  return { ...ran, weighed: listed.length }
+}
+
 export function generatedOver(change: Change, again: Again): Ran {
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING

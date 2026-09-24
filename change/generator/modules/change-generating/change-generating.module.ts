@@ -41,6 +41,14 @@ export const changeGenerating = {
       statement: "Change generators naming each other in a ring refuse the change.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Every change generator is run over the whole tree, whatever it could turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run over the whole tree is handed the shadow its caller read the tree through.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes to disk.",
     },
