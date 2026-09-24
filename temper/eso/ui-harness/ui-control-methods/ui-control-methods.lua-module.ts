@@ -24,6 +24,15 @@ export const uiControlMethods = {
       statement: "A control hidden by a forebear reads as hidden.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's own Lua compares a control's own hidden flag with what it was last set to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control asked whether that control alone is hidden answers its own flag.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A color given as anything but numbers leaves the control without a color.",
     },

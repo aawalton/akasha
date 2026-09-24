@@ -15,8 +15,8 @@ local ANCHOR_CONSTRAINTS = {
 }
 
 function Control:SetHidden(hidden) self.uiHidden = hidden and true or false end
-function Control:IsHidden() return self.uiHidden end
-function Control:IsControlHidden()
+function Control:IsControlHidden() return self.uiHidden end
+function Control:IsHidden()
   local at = self
   while at ~= nil do
     if at.uiHidden then return true end
