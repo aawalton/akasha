@@ -124,6 +124,15 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What is kept carries the trace, because the raise is deep in the game's own Lua.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A template applied to a control made already dresses that control as being made would.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control the game makes that an addon extends is made here under the screen.",
     },
     {

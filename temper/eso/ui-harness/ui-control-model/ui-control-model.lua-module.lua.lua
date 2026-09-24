@@ -25,6 +25,13 @@ local unmodelled = {}
 local virtuals = {}
 local unmade = {}
 
+local traceback = _G.debug and _G.debug.traceback
+
+local function traced(thrown)
+  if traceback == nil then return tostring(thrown) end
+  return traceback(tostring(thrown), 2)
+end
+
 local Control = {}
 
 Control.__index = function(self, key)
@@ -98,7 +105,7 @@ dress = function(control, spec)
     end
     local first = spec.handlers.OnInitialized
     if first ~= nil then
-      local ok, thrown = pcall(first, control)
+      local ok, thrown = xpcall(function() return first(control) end, traced)
       if not ok then unmade[control.uiName or ""] = tostring(thrown) end
     end
   end
@@ -308,6 +315,12 @@ function WindowManager:CreateControlFromVirtual(name, parent, virtual, suffix)
   local full = name
   if suffix ~= nil then full = tostring(name) .. tostring(suffix) end
   return birth(full, parent, CONTROL_TYPES.CT_CONTROL, virtual)
+end
+
+function WindowManager:ApplyTemplateToControl(control, virtual)
+  if control == nil then return nil end
+  control.uiVirtual = control.uiVirtual or virtual
+  return dress(control, virtuals[virtual])
 end
 
 function WindowManager:GetControlByName(name, prefix)
