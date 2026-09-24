@@ -203,6 +203,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/drive/google-drive.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/drive/service/google-drive-service.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/email/google-email.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/email/service/google-email-service.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/google.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/google/oauth/google-oauth.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/agent/alan-harness-agent.domain.ts"}

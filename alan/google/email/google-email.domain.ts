@@ -4,8 +4,9 @@ export const googleEmail = {
   id: "01a05c0e-372c-7620-9bcc-082febbe3f5b",
   type: "page-type/domain",
   slug: "google-email",
-  definition: "Alan's Gmail mailbox read, written to and kept in order",
+  definition: "Alan's Gmail",
   parts: [
+    "domain/google-email-service",
     "module/compose-input-from-arguments",
     "module/email-command-reading",
     "module/email-message-fetching",
