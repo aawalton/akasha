@@ -32,6 +32,7 @@ import {
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { z } from "zod"
 
 const HOOK = "hook-dispatch"
 
@@ -114,19 +115,16 @@ export function hooksIn(given: string | Reading): readonly Valued[] {
   return found
 }
 
+const REWROTE = z.looseObject({
+  hookSpecificOutput: z.looseObject({ updatedInput: z.looseObject({}) }),
+})
+
 export function inputAnew(out: string): Record<string, unknown> | null {
-  let parsed: unknown
   try {
-    parsed = JSON.parse(out)
+    return REWROTE.safeParse(JSON.parse(out)).data?.hookSpecificOutput.updatedInput ?? null
   } catch {
     return null
   }
-  if (parsed === null || typeof parsed !== "object" || Array.isArray(parsed)) return null
-  const spoke = (parsed as Record<string, unknown>)["hookSpecificOutput"]
-  if (spoke === null || typeof spoke !== "object" || Array.isArray(spoke)) return null
-  const anew = (spoke as Record<string, unknown>)["updatedInput"]
-  if (anew === null || typeof anew !== "object" || Array.isArray(anew)) return null
-  return anew as Record<string, unknown>
 }
 
 export function reasonIn(given: Ran): string {

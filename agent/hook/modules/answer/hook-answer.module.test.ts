@@ -13,8 +13,18 @@ import {
   UNREADABLE,
   unreadable,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
+import { z } from "zod"
 
 const HOOK = "a-hook"
+
+const REFUSAL = z.strictObject({ decision: z.string(), reason: z.string() })
+
+const REWRITE = z.strictObject({
+  hookSpecificOutput: z.strictObject({
+    hookEventName: z.string(),
+    updatedInput: z.record(z.string(), z.unknown()),
+  }),
+})
 
 const judged = judgingCommandHook(HOOK, import.meta.path, (command) =>
   command === "" ? null : command
@@ -64,7 +74,7 @@ test("a field holding no text is read as the text of what it holds", () => {
 test("a refusal is one JSON object on standard output, and its code is 2", () => {
   const said = refusing("no")
   expect(said.code).toBe(REFUSED)
-  expect(JSON.parse(said.out)).toEqual({ decision: "block", reason: "no" })
+  expect(REFUSAL.parse(JSON.parse(said.out))).toEqual({ decision: "block", reason: "no" })
 })
 
 test("a refusal carries its reason to standard error as well", () => {
@@ -77,7 +87,7 @@ test("standing aside says nothing and its code is 0", () => {
 
 test("a reason carrying newlines and quotes survives being made JSON", () => {
   const reason = 'one\ntwo "three"\n  four'
-  expect(JSON.parse(refusing(reason).out)).toEqual({ decision: "block", reason })
+  expect(REFUSAL.parse(JSON.parse(refusing(reason).out))).toEqual({ decision: "block", reason })
 })
 
 test("a payload is read whole where a hook needs more of it than the tool input", () => {
@@ -108,13 +118,12 @@ test("a call handed back with its input changed is one JSON object, and its code
   const said = rewriting("PreToolUse", held)
   expect(said.code).toBe(ASIDE)
   expect(said.err).toBe("")
-  expect(JSON.parse(said.out)).toEqual({
+  expect(REWRITE.parse(JSON.parse(said.out))).toEqual({
     hookSpecificOutput: { hookEventName: "PreToolUse", updatedInput: held },
   })
 })
 
 test("the event a changed call is answered at is the one handed in", () => {
-  expect(JSON.parse(rewriting("PostToolUse", {}).out).hookSpecificOutput.hookEventName).toBe(
-    "PostToolUse"
-  )
+  const said = REWRITE.parse(JSON.parse(rewriting("PostToolUse", {}).out))
+  expect(said.hookSpecificOutput.hookEventName).toBe("PostToolUse")
 })
