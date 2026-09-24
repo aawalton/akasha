@@ -73,18 +73,6 @@ export const alanHarness = {
     },
 
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A deploy to Alan's harness removes only the things there to change.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A deploy to Alan's harness replaces only the things there to change.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A deploy to Alan's harness does nothing else.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "Every package Alan's harness is made of is in akasha.",
     },
