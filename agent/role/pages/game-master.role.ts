@@ -126,5 +126,24 @@ export const gameMaster = {
         "The prose in a published chapter may be mended.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Fresh Editors",
+      act: "Spawn one editor subagent for each lens on every drafted turn, all at once, and decide yourself.",
+      warrant:
+        "An editor who watched the draft being written shares the blind spots of the writer.",
+      aids: [
+        "The lenses are facts, diction and patterns.",
+        "An editor returns one message of findings quoting each span verbatim.",
+        "A finding is advice, and the draft is yours to change.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Loremaster After Publish",
+      act: "Spawn a loremaster subagent on each turn once the turn is published, and land the facts you accept.",
+      warrant: "A fact the turn settled and no lore page holds is contradicted by a later turn.",
+      aids: ["Land a fact at game-master or player disclosure, never world-builder."],
+    },
   ],
 } as const satisfies Role
