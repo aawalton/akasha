@@ -1,23 +1,5 @@
 import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
 
-export type SessionRow = {
-  readonly id?: string
-  readonly title?: string
-  readonly startTime?: string
-  readonly endTime?: string
-  readonly dailyTracking?: string
-  readonly safetyLevel?: string | number
-  readonly difficultyLevel?: string | number
-  readonly version?: string
-  readonly capacityRate?: number
-  readonly relationships?: readonly string[]
-  readonly assertedAt?: string
-  readonly owner?: string
-  readonly breathingSets?: number
-}
-
-export type WorkedSessions = readonly SessionRow[]
-
 export const sessions = {
   id: "01a05fd8-c30f-799b-aa06-004072744b31",
   type: "page-type/page-property-entry",

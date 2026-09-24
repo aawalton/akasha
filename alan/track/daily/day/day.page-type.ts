@@ -1,9 +1,10 @@
 import type { Day } from "akasha/alan/track/daily/day/day.page-type.types.ts"
-import type { WorkedSessions } from "akasha/alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts"
+import type { SessionsRow } from "akasha/alan/track/daily/day/properties/sessions/sessions.page-property-entry.types.ts"
+import type { List } from "akasha/page/type/page-property/page-property.page-type.ts"
 import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
 export type WorkedDay = Omit<Day, "sessions"> & {
-  sessions?: WorkedSessions
+  sessions?: List<SessionsRow>
 }
 
 export const day = {

@@ -56,6 +56,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/replaced-by-statements.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/replaces-statements.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/self/identity-statement/properties/sub-statements.multi-relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/track/daily/day/day.page-type.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/track/daily/day/properties/meal-pictures.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/track/daily/day/properties/persona-messages.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/track/daily/day/properties/sessions/properties/relationships.multi-relation-property.types.ts"}
