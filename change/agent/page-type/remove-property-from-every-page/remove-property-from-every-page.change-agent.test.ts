@@ -32,7 +32,7 @@ function sectionAt(slug: string): string {
   return `import type { BookSection } from "./book-section.page-type.ts"
 
 export const ${slug} = {
-  pageTypeSlug: "book-section",
+  type: "page-type/book-section",
   slug: "${slug}",
   sectionOfSlug: "solar-power",
   partOfSlugs: ["alpha", "beta"],

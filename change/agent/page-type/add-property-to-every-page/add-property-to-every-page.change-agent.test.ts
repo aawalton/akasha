@@ -13,6 +13,7 @@ import {
 } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ONE_AT = "alan/book/one.book-section.ts"
 
@@ -20,7 +21,7 @@ const TWO_AT = "alan/book/two.book-section.ts"
 
 function bodied(slug: string, parent: string): string {
   return `export const ${slug} = {
-  pageTypeSlug: "book-section",
+  type: "page-type/book-section",
   slug: "${slug}",
   partOfSlugs: ["${parent}"],
 }
@@ -57,12 +58,12 @@ function pagesIn(
 const THREE_AT = "alan/book/three.book-section.ts"
 
 const VALUED = new Map<string, Value>([
-  [ONE_AT, { pageTypeSlug: "book-section", slug: "one", partOfSlugs: ["solar-power"] }],
-  [TWO_AT, { pageTypeSlug: "book-section", slug: "two", partOfSlugs: ["my-faith"] }],
+  [ONE_AT, { type: `${pageType.slug}/book-section`, slug: "one", partOfSlugs: ["solar-power"] }],
+  [TWO_AT, { type: `${pageType.slug}/book-section`, slug: "two", partOfSlugs: ["my-faith"] }],
   [
     THREE_AT,
     {
-      pageTypeSlug: "book-section",
+      type: `${pageType.slug}/book-section`,
       slug: "three",
       sectionOfSlug: "solar-power",
       partOfSlugs: ["my-faith"],

@@ -36,7 +36,7 @@ function bodied(slug: string, parent: string): string {
   return `import type { StoryChapterRead } from "../story-chapter-read.page-type.ts"
 
 export const ${slug} = {
-  pageTypeSlug: "story-chapter-read",
+  type: "page-type/story-chapter-read",
   slug: "${slug}",
   partOfCollectionSlugs: ["${parent}"],
   position: 1,
