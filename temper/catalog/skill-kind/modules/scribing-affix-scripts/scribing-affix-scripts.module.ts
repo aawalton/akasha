@@ -15,10 +15,6 @@ export const scribingAffixScripts = {
       decisionKind: "decision-kind/constraint",
       statement: "A affix script's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A affix script moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["AFFIX_SCRIPT_DATA"],
 } as const satisfies Module

@@ -15,10 +15,6 @@ export const skillSlots = {
       decisionKind: "decision-kind/constraint",
       statement: "A skill slot's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A skill slot moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["SKILL_SLOT_DATA"],
 } as const satisfies Module

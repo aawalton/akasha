@@ -15,10 +15,6 @@ export const scribingSignatureScripts = {
       decisionKind: "decision-kind/constraint",
       statement: "A signature script's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A signature script moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["SIGNATURE_SCRIPT_DATA"],
 } as const satisfies Module

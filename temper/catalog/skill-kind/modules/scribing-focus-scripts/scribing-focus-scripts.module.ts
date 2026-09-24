@@ -15,10 +15,6 @@ export const scribingFocusScripts = {
       decisionKind: "decision-kind/constraint",
       statement: "A focus script's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A focus script moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["FOCUS_SCRIPT_DATA"],
 } as const satisfies Module

@@ -274,10 +274,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/trait/temper-companion-trait.page-type.ts","id":"01a05fce-1854-7c89-a767-43b54ae4cefa"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","id":"01a060db-b2ba-73c7-8faa-80842e2c1379"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.ts","id":"01a060db-b2bb-7166-ba4a-b183afce5394"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.ts","id":"01a060db-b2bb-78c2-a678-b0ddc7114f93"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/temper-lorebook.domain.ts","id":"01a06176-9c44-7c00-8a3b-7cf902e62430"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
