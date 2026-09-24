@@ -4,10 +4,10 @@ import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TIMEOUT_MS = 30_000
 
-interface K8sAdminConfig {
-  saToken: string
-  apiBase: string
-  caCert: string | undefined
+export interface ClusterCredentials {
+  readonly saToken: string
+  readonly apiBase: string
+  readonly caCert: string | undefined
 }
 
 const CREDENTIAL_SCHEMA = z.string().min(1)
@@ -20,37 +20,43 @@ function requireEnv(name: string): string {
   }
 }
 
-function loadConfig(): K8sAdminConfig {
+function optionalEnv(name: string): string | undefined {
+  const held = CREDENTIAL_SCHEMA.safeParse(process.env[name])
+  return held.success ? held.data : undefined
+}
+
+function loadCredentials(): ClusterCredentials {
   const saToken = requireEnv("PIPELINE_SA_TOKEN")
-  const apiBase = requireEnv("K8S_API_BASE")
-  const caCertB64 = z.string().optional().parse(process.env.K8S_CA_CERT_B64)
-  const caCert = caCertB64 != null ? Buffer.from(caCertB64, "base64").toString("utf-8") : undefined
+  const apiBase = requireEnv("K8S_API_BASE").replace(/\/+$/, "")
+  const caCertB64 = optionalEnv("K8S_CA_CERT_B64")
+  const caCert =
+    caCertB64 === undefined ? undefined : Buffer.from(caCertB64, "base64").toString("utf-8")
 
   return { saToken, apiBase, caCert }
 }
 
-async function k8sFetch(path: string, config: K8sAdminConfig): Promise<Response> {
+async function k8sFetch(path: string, credentials: ClusterCredentials): Promise<Response> {
   const controller = new AbortController()
   const timeoutId = setTimeout(() => controller.abort(), TIMEOUT_MS)
   try {
-    return await fetch(`${config.apiBase}${path}`, {
+    return await fetch(`${credentials.apiBase}${path}`, {
       headers: {
-        Authorization: `Bearer ${config.saToken}`,
+        Authorization: `Bearer ${credentials.saToken}`,
         "Content-Type": "application/json",
       },
       signal: controller.signal,
-      ...(config.caCert != null ? { tls: { ca: config.caCert } } : {}),
+      ...(credentials.caCert === undefined ? {} : { tls: { ca: credentials.caCert } }),
     } satisfies BunFetchRequestInit)
   } finally {
     clearTimeout(timeoutId)
   }
 }
 
-let cachedConfig: K8sAdminConfig | null = null
+let held: ClusterCredentials | null = null
 
-function getConfig(): K8sAdminConfig {
-  if (!cachedConfig) cachedConfig = loadConfig()
-  return cachedConfig
+export function clusterCredentials(): ClusterCredentials {
+  if (held === null) held = loadCredentials()
+  return held
 }
 
 export async function proxyFetch(
@@ -61,6 +67,6 @@ export async function proxyFetch(
 ): Promise<Response> {
   return k8sFetch(
     `/api/v1/namespaces/${namespace}/services/${service}:${port}/proxy${path}`,
-    getConfig()
+    clusterCredentials()
   )
 }

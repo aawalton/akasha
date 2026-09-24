@@ -17,6 +17,23 @@ export const clusterApiReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A value set empty is read as a value not set.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A missing token or API base is refused as an input error naming that variable.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A missing certificate authority leaves the reach trusting what the runtime trusts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The API base is held without a trailing slash.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The environment is read once.",
     },
     {
