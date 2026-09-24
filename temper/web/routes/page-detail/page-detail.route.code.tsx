@@ -141,7 +141,7 @@ async function readerAccountPage(request: Request): Promise<string | null> {
   const reader = await signedInAs(TEMPER_SITE, request)
   if (reader === null) return null
   const reached = await accountOfContributor(reader)
-  return reached.ok ? findAccountAddress(reached.account) : null
+  return reached.ok && reached.account !== null ? findAccountAddress(reached.account) : null
 }
 
 async function loadCharacterDetail(page: Record<string, unknown>, request: Request) {
