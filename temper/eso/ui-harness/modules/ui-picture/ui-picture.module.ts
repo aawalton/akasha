@@ -35,6 +35,10 @@ export const uiPicture = {
       statement: "The game's own typefaces ship inside the client, so a near one is used instead.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The near typeface for the game's body text is a condensed one, as the game's is.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game edges a backdrop with a texture, and tints that texture with a color.",
     },

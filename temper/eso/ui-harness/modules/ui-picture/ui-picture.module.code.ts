@@ -45,7 +45,7 @@ const TEXTURE_TINT = 0.3
 const FRAME_TINT = 0.35
 
 const DEFAULT_FAMILY =
-  "'Liberation Sans Narrow', 'Arial Narrow', 'Liberation Sans', Arial, sans-serif"
+  "'Liberation Sans Narrow', 'Arial Narrow', 'Nimbus Sans Narrow', 'Liberation Sans', Arial, sans-serif"
 
 const SERIF_FAMILY = "'Liberation Serif', Georgia, serif"
 
