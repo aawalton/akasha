@@ -337,7 +337,7 @@ export const auditServing = {
       statement: "Nothing here asks for an audit on another agent's behalf.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A round telling by refusal has been watched on the service that runs it.",
     },
 

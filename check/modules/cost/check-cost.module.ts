@@ -257,7 +257,7 @@ export const checkCost = {
       statement: "A line whose turn has not come in five seconds is dropped.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A line whose next file cannot be named is appended to the full file rather than refused.",
     },
