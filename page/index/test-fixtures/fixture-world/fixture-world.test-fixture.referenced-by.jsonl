@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.test.ts"}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.test.ts"}

@@ -19,12 +19,6 @@ export interface PageTree {
   readonly unreached: readonly string[]
 }
 
-export interface PageAnswers {
-  readonly types: readonly QueryRow[]
-  readonly properties: readonly QueryRow[]
-  readonly propertyTypes: readonly QueryRow[]
-}
-
 const NO_PARENT = "none"
 
 const TYPE_ID = "type"
@@ -75,9 +69,9 @@ function repeatedIn(ids: readonly string[]): readonly string[] {
   return [...twice]
 }
 
-export function assemblePageTree(answers: PageAnswers, repo: string): PageTree {
+export function assemblePageTree(rows: readonly QueryRow[], repo: string): PageTree {
   const types = new Map<string, TypeRow>()
-  for (const row of answers.types) {
+  for (const row of rows) {
     const slug = textOf(row, "slug")
     if (slug === null) {
       continue

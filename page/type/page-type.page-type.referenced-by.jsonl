@@ -5,7 +5,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.test.ts"}

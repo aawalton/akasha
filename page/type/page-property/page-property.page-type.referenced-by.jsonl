@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/place/location-deal/properties/locations.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/collection-tags.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/collection/properties/part-of-collections.multi-relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/inbox/email-rule/code/properties/email-rule-code-actions.select-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-match-values.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"alan/harness/inbox/email-rule/properties/email-rule-matches.record-property.types.ts"}

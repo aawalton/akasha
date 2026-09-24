@@ -643,6 +643,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.ts","id":"01a0b7a0-c25d-7889-8128-bb4ddc41c72c"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/group-stoplights/group-stoplights.module.ts","id":"01a064e4-627c-717e-bcf8-2ad1f41c1222"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.ts","id":"01a064f6-a793-7d40-b075-7d7a7f1f133a"}
+{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.ts","id":"01a0d441-f596-777b-8f53-9333dfa98adf"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-cooldown/state-cooldown.module.ts","id":"01a0725a-758c-7335-9600-2a7c8c1391a4"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.ts","id":"01a0a682-3acc-7b55-b488-e7b96ed58cac"}

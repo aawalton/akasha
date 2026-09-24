@@ -28,6 +28,7 @@ export const codeEditorDataInterface = {
     "module/gap-tree-assemble",
     "module/group-stoplights",
     "module/page-tree-assemble",
+    "module/page-type-rows",
     "module/service-tree-assemble",
     "module/state-cooldown",
     "module/state-drawing",

@@ -9,6 +9,7 @@ import {
   type Gapped,
 } from "akasha/alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"
 import { assemblePageTree } from "akasha/alan/harness/code-editor/data-interface/modules/page-tree-assemble/page-tree-assemble.module.code.ts"
+import { pageTypeRows } from "akasha/alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.code.ts"
 import {
   COMMAND_TREE,
   DOMAIN_TREE,
@@ -25,7 +26,6 @@ import {
   type DomainRow,
 } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import { diskAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
-import { pageAnswers } from "akasha/command/pages/page/tree/page-tree.command.code.ts"
 import { domainsFrom, rowsFrom } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -147,7 +147,7 @@ function pageRow(root: string, node: PageNode): PageTreeRow {
 }
 
 function pageTreeLine(root: string, given: Reading): string {
-  const built = assemblePageTree(pageAnswers(given), root)
+  const built = assemblePageTree(pageTypeRows(given), root)
   return JSON.stringify({
     roots: built.roots.map((node) => pageRow(root, node as PageNode)),
     unreached: built.unreached,

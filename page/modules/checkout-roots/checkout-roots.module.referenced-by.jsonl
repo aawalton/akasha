@@ -80,6 +80,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/email-inbound/modules/persona-channels/persona-channels.module.test.ts"}
