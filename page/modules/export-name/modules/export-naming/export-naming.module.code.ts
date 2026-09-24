@@ -1,4 +1,5 @@
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 
 const SLUG_AT = /^ {2}slug: "([^"]*)",$/m
@@ -12,9 +13,8 @@ const REMEDY =
   " `great-course-7-days-of-drawing` already do, and name the file for the slug you land"
 
 function slugComposedIn(path: string, text: string): string | null {
-  const found = SLUG_AT.exec(text)
-  if (found === null || !PAGE_TYPE_AT.test(text)) return null
-  const slug = found[1] as string
+  const slug = firstCapture(SLUG_AT.exec(text))
+  if (slug === null || !PAGE_TYPE_AT.test(text)) return null
   const named = path.slice(path.lastIndexOf("/") + 1)
   return named.startsWith(`${slug}.`) ? slug : null
 }

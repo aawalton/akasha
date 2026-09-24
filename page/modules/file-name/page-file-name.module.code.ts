@@ -1,4 +1,5 @@
 import { basename } from "node:path"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 const SEGMENT = /^[a-z0-9-]+$/
 
@@ -89,8 +90,8 @@ export function namedUnder(path: string, under: ReadonlySet<string>): Slugged | 
 
 export function partIn(section: string | undefined): number | null {
   if (section === undefined) return null
-  const found = PART.exec(section)
-  return found === null ? null : Number(found[1])
+  const found = firstCapture(PART.exec(section))
+  return found === null ? null : Number(found)
 }
 
 export function sectionsIn(

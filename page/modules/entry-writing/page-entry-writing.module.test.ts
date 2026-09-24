@@ -8,10 +8,13 @@ import {
   textsOverLines,
 } from "akasha/page/modules/entry-writing/page-entry-writing.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const PAGE = "akasha/one/held.model-test.ts"
 
 const WIDE = 8 * 1024 * 1024
+
+const FORMED_SAID = z.strictObject({ at: z.number(), held: z.number(), text: z.string() })
 
 function texted(values: readonly Value[], ceiling: number): readonly string[] {
   const made = textsOverLines(values.map(lineFor), ceiling)
@@ -104,7 +107,7 @@ test("a line handed over already formed is divided as handed rather than made ag
   const made = textsOverLines([said], WIDE)
 
   expect("texts" in made && made.texts).toEqual([said])
-  expect(lineFor(JSON.parse(said) as Value)).toBe('{"at":1,"held":100000,"text":"é"}\n')
+  expect(lineFor(FORMED_SAID.parse(JSON.parse(said)))).toBe('{"at":1,"held":100000,"text":"é"}\n')
 })
 
 test("lines over the ceiling are divided and every byte handed over is kept", () => {

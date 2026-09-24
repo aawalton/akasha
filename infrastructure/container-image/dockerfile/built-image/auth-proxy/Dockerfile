@@ -24,6 +24,7 @@ COPY --link code/process/modules/pid-signal ./code/process/modules/pid-signal
 COPY --link code/spawning/modules/running ./code/spawning/modules/running
 COPY --link code/type/narrowing/modules/base64-url ./code/type/narrowing/modules/base64-url
 COPY --link code/type/narrowing/modules/collapse ./code/type/narrowing/modules/collapse
+COPY --link code/type/narrowing/modules/first-capture ./code/type/narrowing/modules/first-capture
 COPY --link code/type/narrowing/modules/narrow-error ./code/type/narrowing/modules/narrow-error
 COPY --link code/type/narrowing/modules/parse-said-text ./code/type/narrowing/modules/parse-said-text
 COPY --link code/type/narrowing/modules/require-env ./code/type/narrowing/modules/require-env
@@ -74,6 +75,7 @@ COPY --link --from=build /workspace/code/process/modules/pid-signal ./code/proce
 COPY --link --from=build /workspace/code/spawning/modules/running ./code/spawning/modules/running
 COPY --link --from=build /workspace/code/type/narrowing/modules/base64-url ./code/type/narrowing/modules/base64-url
 COPY --link --from=build /workspace/code/type/narrowing/modules/collapse ./code/type/narrowing/modules/collapse
+COPY --link --from=build /workspace/code/type/narrowing/modules/first-capture ./code/type/narrowing/modules/first-capture
 COPY --link --from=build /workspace/code/type/narrowing/modules/narrow-error ./code/type/narrowing/modules/narrow-error
 COPY --link --from=build /workspace/code/type/narrowing/modules/parse-said-text ./code/type/narrowing/modules/parse-said-text
 COPY --link --from=build /workspace/code/type/narrowing/modules/require-env ./code/type/narrowing/modules/require-env
