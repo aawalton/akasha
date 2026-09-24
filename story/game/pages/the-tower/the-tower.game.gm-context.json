@@ -336,7 +336,7 @@
       "id": "world-pages",
       "bands": [
         "**Every place, everything a place sets in the way, and everyone the world holds is a page.** A place is a `place` page under `story/world/pages/personas/places/`, what it sets in the way is a `game-encounter`, and who or what is met is a `game-entity`. Each encounter and entity sits under this game's own folder and names this game.",
-        "**Read the page, never a row.** A sheet, a storey, a room, an encounter and its gates are read off those pages. The rows beside the game page are what the pages were made from, and are no longer the authority.",
+        "**Read the page, never a row.** A sheet, a storey, a room and a creature are read off those pages. The rows beside the game page are what the pages were made from, and are no longer the authority.",
         "**A place inside a place is a place.** A storey and its rooms are both `place` pages; a room names the place it is `within` and takes that place's `depth`.",
         "**Nothing a mechanic works out is written on a page.** A skill carries how far it has come, not the rung that reaches; an affinity its tier, not the most that tier allows. Ask the mechanic for the rest.",
         "**A change lands on the page carrying the thing that changed** — a skill advanced, an item taken, a thing searched out of a room — and lands once.",
