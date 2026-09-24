@@ -34,6 +34,7 @@ const GENERATE = "generate"
 export type Generated = {
   readonly edits: readonly FileChange[]
   readonly said: readonly string[]
+  readonly refused?: readonly string[]
 }
 
 export type Generating = (change: Change) => Generated
@@ -135,7 +136,8 @@ function ranOne(
 ): Ran {
   try {
     if (loaded.turning !== undefined && !loaded.turning(over)) return NOTHING
-    return { ...loaded.generating(over), refused: [] }
+    const got = loaded.generating(over)
+    return { edits: got.edits, said: got.said, refused: got.refused ?? [] }
   } catch (thrown) {
     return { ...NOTHING, refused: [`\`${one.slug}\` broke — ${saidBy(thrown)}`] }
   }

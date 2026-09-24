@@ -38,6 +38,10 @@ export const changeGenerating = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change generator answering a refusal refuses the change, saying why.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Change generators naming each other in a ring refuse the change.",
     },
     {

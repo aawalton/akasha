@@ -107,6 +107,19 @@ test("each change generator that ran is costed by what that one run answered", (
   expect(ran.edits.length).toBe(2)
 })
 
+test("a change generator answering a refusal refuses the change, saying why", () => {
+  const loading = (_change: Change, at: string): Loaded => ({
+    generating: () =>
+      at === "a.code.ts"
+        ? { edits: [], said: [], refused: ["a could not"] }
+        : { edits: [adding(at)], said: [] },
+  })
+
+  const ran = generatedAlong([listed("a"), listed("b")], AUTHORED, () => AUTHORED, loading)
+
+  expect(ran.refused).toEqual(["a could not"])
+})
+
 test("a change generator that broke, gave none or has no code refuses", () => {
   const loading = (_change: Change, at: string): Loaded => {
     if (at === "a.code.ts") return { missing: "it answers to no `generateChange`" }
