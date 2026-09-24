@@ -245,7 +245,7 @@ export const readout = {
       statement: "Every readout a group draws keeps its last reading beside its own page.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every readout that takes a reading names a group that draws the reading.",
     },
     {
