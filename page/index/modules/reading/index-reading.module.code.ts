@@ -14,6 +14,7 @@ import {
   shapesFiledAt,
   shapesIn,
 } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
+import { z } from "zod"
 
 export type Listed = {
   readonly path: string
@@ -79,13 +80,13 @@ export function heldEach<T>(
   }
 }
 
+export const LISTED_LINE = z.object({ path: z.string(), id: z.string() })
+
 function listedIn(reading: Reading, at: string): readonly Listed[] {
   const found: Listed[] = []
   for (const line of reading.lines(at)) {
-    const said = JSON.parse(line) as { readonly path?: unknown; readonly id?: unknown }
-    if (typeof said.path === "string" && typeof said.id === "string") {
-      found.push({ path: said.path, id: said.id })
-    }
+    const said = LISTED_LINE.safeParse(JSON.parse(line))
+    if (said.success) found.push(said.data)
   }
   return found
 }

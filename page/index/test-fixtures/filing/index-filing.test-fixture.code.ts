@@ -4,6 +4,7 @@ import { filedAt, indexIn } from "akasha/page/index/modules/surface/index-surfac
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shapesFiledAt } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
+import { z } from "zod"
 
 const ENDING = ".jsonl"
 
@@ -20,6 +21,8 @@ const SLUG = "slug"
 const AT_PATH = "path"
 
 const HELD = "held"
+
+const PATHED_LINE = z.object({ [AT_PATH]: z.string() })
 
 type Carried = {
   readonly path?: unknown
@@ -139,9 +142,8 @@ function pathCarrying(root: string, pageTypeSlug: string, slug: string): string 
   for (const line of readFileSync(path, "utf8").split("\n")) {
     if (line.trim() === "") continue
     try {
-      const said = JSON.parse(line) as Record<string, unknown>
-      const at = said[AT_PATH]
-      if (typeof at === "string") return at
+      const said = PATHED_LINE.safeParse(JSON.parse(line))
+      if (said.success) return said.data[AT_PATH]
     } catch {}
   }
   return null

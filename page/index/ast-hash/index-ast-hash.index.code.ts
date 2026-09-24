@@ -6,6 +6,7 @@ import { indexAstHash } from "akasha/page/index/ast-hash/index-ast-hash.index.ts
 import type { Entry } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { under } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { z } from "zod"
 
 const AST_HASH = indexAstHash.name
 
@@ -36,13 +37,13 @@ export function astHashesIn(path: string, text: string, repo: string): readonly 
   return found
 }
 
+const SPELT_LINE = z.object({ path: z.string(), name: z.string() })
+
 export function speltUnder(reading: Reading, hash: string): readonly Spelling[] {
   const found: Spelling[] = []
   for (const line of reading.lines(astHashAt(hash))) {
-    const said = JSON.parse(line) as { readonly path?: unknown; readonly name?: unknown }
-    if (typeof said.path === "string" && typeof said.name === "string") {
-      found.push({ path: said.path, name: said.name })
-    }
+    const said = SPELT_LINE.safeParse(JSON.parse(line))
+    if (said.success) found.push(said.data)
   }
   return found
 }

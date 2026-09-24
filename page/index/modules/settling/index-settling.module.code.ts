@@ -27,7 +27,10 @@ import {
   shapesWritten,
 } from "akasha/page/index/modules/property-shaping/property-shaping.module.code.ts"
 import { knownIn, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import { indexThere } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  indexThere,
+  LISTED_LINE,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Filing, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   overlaidOn,
@@ -298,9 +301,9 @@ export function settlingOver(
   const carriedOn = leftBehind.flatMap((one) => {
     const to = movedTo.get(one.at)
     if (to === undefined) return []
-    const said = JSON.parse(one.line) as { readonly path?: unknown; readonly id?: unknown }
-    if (typeof said.path !== "string" || typeof said.id !== "string") return []
-    if (carriedAt.has(said.path)) return []
+    const said = LISTED_LINE.safeParse(JSON.parse(one.line))
+    if (!said.success) return []
+    if (carriedAt.has(said.data.path)) return []
     return [{ at: to, line: one.line }]
   })
   const references = filingOf(
