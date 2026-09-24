@@ -1,13 +1,14 @@
 import { readFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { statedIn } from "akasha/check/code/pages/global-declared-once/global-declared-once.check-code.decision.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   type Group,
   nameIn,
 } from "akasha/temper/eso/declaration/modules/eso-declaration-chunking/eso-declaration-chunking.module.code.ts"
 import ts from "typescript"
 
-const ALIAS = /^type ([A-Za-z0-9_$]+) = (.+)$/
+const ALIAS = /^type [A-Za-z0-9_$]+ = (.+)$/
 
 const LIBS = ["lib.es5.d.ts", "lib.dom.d.ts"]
 
@@ -42,10 +43,9 @@ function keptLine(line: string, held: Narrowing, named: Map<string, string>): bo
   if (one === null) return true
   if (held.byHand.has(one)) return false
   if (!held.byCompiler.has(one)) return true
-  const alias = ALIAS.exec(line)
-  if (alias === null) return true
-  const is = alias[2]
-  if (is !== undefined) named.set(one, is)
+  const is = firstCapture(ALIAS.exec(line))
+  if (is === null) return true
+  named.set(one, is)
   return false
 }
 
@@ -53,7 +53,7 @@ function keptIn(group: Group, held: Narrowing, named: Map<string, string>): Grou
   const head = group[0]
   if (head === undefined) return []
   const one = nameIn(head)
-  if (one !== null && ALIAS.exec(head) === null && held.byHand.has(one)) return []
+  if (one !== null && !ALIAS.test(head) && held.byHand.has(one)) return []
   return group.filter((line) => keptLine(line, held, named))
 }
 

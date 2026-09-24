@@ -9,6 +9,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { z } from "zod"
 
 export const DECLARATION = "type-declaration"
 
@@ -31,6 +32,8 @@ const SOURCE_VERSION = "sourceVersion"
 const TYPES = "akasha/code/type-declaration/type-declaration.page-type.types.ts"
 
 const STAMP = /^([ \t]*)generated: (\{[^}]*\})(,?)$/m
+
+const STAMP_SAID = z.tuple([z.string(), z.string(), z.string(), z.string()])
 
 export type Paged = {
   readonly slug: string
@@ -55,10 +58,10 @@ export function stampRestated(
   writer: string,
   sourceVersion: number
 ): Restating | null {
-  const found = STAMP.exec(page)
-  if (found === null) return null
-  const was = found[0]
-  const now = stampLine(found[1] ?? "", writer, sourceVersion, found[3] ?? "")
+  const found = STAMP_SAID.safeParse(STAMP.exec(page))
+  if (!found.success) return null
+  const [was, space, , comma] = found.data
+  const now = stampLine(space, writer, sourceVersion, comma)
   return was === now ? null : { old: was, new: now }
 }
 

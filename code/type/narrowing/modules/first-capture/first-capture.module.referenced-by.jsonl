@@ -37,6 +37,8 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"page/modules/export-name/modules/export-naming/export-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"page/modules/file-name/page-file-name.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-chunking/eso-declaration-chunking.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-narrowing/eso-declaration-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/return/modules/engine-returns-reading/engine-returns-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts"}

@@ -1,3 +1,5 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+
 export type Group = readonly string[]
 
 const STATED: readonly RegExp[] = [
@@ -13,8 +15,8 @@ const FIRST = 1
 
 export function nameIn(line: string): string | null {
   for (const held of STATED) {
-    const found = held.exec(line)
-    if (found !== null) return found[1] ?? null
+    const found = firstCapture(held.exec(line))
+    if (found !== null) return found
   }
   return null
 }
