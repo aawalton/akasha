@@ -17,7 +17,6 @@ import {
   DOORS as EFFECT_DOORS,
   markedOn,
 } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
-import type { ProxyAdoptionRuleSource } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-adoption-rule/supervisor-gateway-adoption-rule.module.code.ts"
 import {
   type SupervisorOAuthProxyHandle,
   spawnOrAdoptOAuthProxy,
@@ -82,7 +81,6 @@ export async function buildCredentialSubsystem(args: {
   proxyOwnerAgentId: string
   oauthProxyVersion: string
   adoptedClaudePid: number | null
-  proxyAdoptionRule: ProxyAdoptionRuleSource
 }): Promise<{
   stopCredentialWatch: () => void
   credentialRefreshTimer: ReturnType<typeof setInterval>
@@ -125,16 +123,13 @@ export async function buildCredentialSubsystem(args: {
     5 * 60 * 1000
   )
 
-  const proxy = await spawnOrAdoptOAuthProxy(
-    {
-      agentId: proxyOwnerAgentId,
-      registrationAccount: account,
-      logDir: getLogDir(),
-      oauthProxyVersion,
-      adoptedClaudePid,
-    },
-    args.proxyAdoptionRule
-  )
+  const proxy = await spawnOrAdoptOAuthProxy({
+    agentId: proxyOwnerAgentId,
+    registrationAccount: account,
+    logDir: getLogDir(),
+    oauthProxyVersion,
+    adoptedClaudePid,
+  })
 
   return { stopCredentialWatch, credentialRefreshTimer, proxy }
 }

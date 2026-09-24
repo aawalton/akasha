@@ -8,10 +8,8 @@ export const seatModelGateway = {
   parts: [
     "module/seat-gateway-state",
     "module/supervisor-gateway-adoption-decide",
-    "module/supervisor-gateway-adoption-rule",
     "module/supervisor-gateway-liveness",
     "module/supervisor-gateway-liveness-decide",
-    "module/supervisor-gateway-liveness-rule",
     "module/supervisor-gateway-ownership",
     "module/supervisor-gateway-port-line",
     "module/supervisor-gateway-version",

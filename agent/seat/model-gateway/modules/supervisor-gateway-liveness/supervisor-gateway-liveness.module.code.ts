@@ -3,10 +3,11 @@ import {
   type OAuthProxyState,
   readProxyState,
 } from "akasha/agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts"
-import type {
-  ProxyLivenessRuleSource,
-  ProxyLivenessState,
-} from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-rule/supervisor-gateway-liveness-rule.module.code.ts"
+import {
+  decideProxyLiveness,
+  INITIAL_PROXY_LIVENESS_STATE,
+  type ProxyLivenessState,
+} from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.code.ts"
 import {
   fetchHealthzOk,
   respawnOAuthProxy,
@@ -26,9 +27,8 @@ export function startProxyLivenessMonitor(opts: {
   getAgentId: () => string | null
   registrationAccount: string
   getLogDir: () => string
-  proxyLivenessRule: ProxyLivenessRuleSource
 }): { stop: () => void } {
-  let state: ProxyLivenessState | null = null
+  let state: ProxyLivenessState = INITIAL_PROXY_LIVENESS_STATE
   let tickInFlight = false
 
   const respawn = async (handle: SupervisorOAuthProxyHandle): Promise<undefined> => {
@@ -72,7 +72,7 @@ export function startProxyLivenessMonitor(opts: {
       const handle = opts.getProxyHandle()
       if (handle == null) return
       const healthy = pidAliveOrRefuse(handle.pid) && (await fetchHealthzOk(handle.port))
-      const { value: result } = await opts.proxyLivenessRule(state, healthy)
+      const result = decideProxyLiveness(state, healthy)
       state = result.state
       switch (result.action) {
         case "none":

@@ -1,6 +1,6 @@
 import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { startProxyLivenessMonitor } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness/supervisor-gateway-liveness.module.code.ts"
-import type { ProxyLivenessRuleSource } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-rule/supervisor-gateway-liveness-rule.module.code.ts"
+
 import { handleProxyVersionUpdate } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
 import { autoCompactPoll } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"
 import { pollAgentAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
@@ -33,7 +33,6 @@ export function startPerAgentMonitors(args: {
   getAgentId: () => string | null
   registrationAccount: string
   getLogDir: () => string
-  proxyLivenessRule: ProxyLivenessRuleSource
 }): PerAgentMonitors {
   const log = (line: string): undefined => {
     console.log(`${LOG} ${line}`)
@@ -79,7 +78,6 @@ export function startPerAgentMonitors(args: {
     getAgentId: args.getAgentId,
     registrationAccount: args.registrationAccount,
     getLogDir: args.getLogDir,
-    proxyLivenessRule: args.proxyLivenessRule,
   })
 
   const limitResumeMonitor = startLimitResumeMonitor({ getAgentId: args.getAgentId, log })

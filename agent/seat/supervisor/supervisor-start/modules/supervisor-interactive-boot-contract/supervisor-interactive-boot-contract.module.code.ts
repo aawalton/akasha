@@ -1,7 +1,6 @@
 import type { buildCredentialSubsystem } from "akasha/agent/claude-code/remote-control/registration-credential/modules/supervisor-credentials/supervisor-credentials.module.code.ts"
 import type { ToolRestrictions } from "akasha/agent/modules/tool-access/tool-access.module.code.ts"
-import type { ProxyAdoptionRuleSource } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-adoption-rule/supervisor-gateway-adoption-rule.module.code.ts"
-import type { ProxyLivenessRuleSource } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-rule/supervisor-gateway-liveness-rule.module.code.ts"
+
 import type { resolveClaudeHandoff } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import type { RowAgentLaunch } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
@@ -26,8 +25,6 @@ export interface InteractiveBootArgs {
   opts: InteractiveOpts
   agentLog: ReturnType<typeof buildAgentLogRedirect>
   getClaudePid: () => number | null
-  proxyAdoptionRule: ProxyAdoptionRuleSource
-  proxyLivenessRule: ProxyLivenessRuleSource
 }
 
 export type CredentialSubsystem = Awaited<ReturnType<typeof buildCredentialSubsystem>>

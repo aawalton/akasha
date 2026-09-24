@@ -103,7 +103,6 @@ export async function bootInteractiveSession(
     proxyOwnerAgentId,
     oauthProxyVersion,
     adoptedClaudePid: inheritedClaude?.pid ?? null,
-    proxyAdoptionRule: args.proxyAdoptionRule,
   })
   setOAuthProxyHandle(proxy)
   const anthropicBaseUrl = opts.anthropicBaseUrl ?? `http://localhost:${proxy.port}/`
@@ -118,7 +117,6 @@ export async function bootInteractiveSession(
     getAgentId: () => agentIdHandle.id,
     registrationAccount: selectedAccount,
     getLogDir: agentLog.getCurrentLogDir,
-    proxyLivenessRule: args.proxyLivenessRule,
   })
 
   const restrictions = toolRestrictions()

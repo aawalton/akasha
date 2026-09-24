@@ -5,7 +5,7 @@ import {
   type OAuthProxyState,
   readProxyState,
 } from "akasha/agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts"
-import type { ProxyAdoptionRuleSource } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-adoption-rule/supervisor-gateway-adoption-rule.module.code.ts"
+import { decideProxyAdoption } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-adoption-decide/supervisor-gateway-adoption-decide.module.code.ts"
 import {
   stopByPid,
   stopProxyIfOwned,
@@ -61,8 +61,7 @@ export type SpawnOAuthProxyArgs = {
 }
 
 export async function spawnOrAdoptOAuthProxy(
-  args: SpawnOAuthProxyArgs,
-  proxyAdoptionRule: ProxyAdoptionRuleSource
+  args: SpawnOAuthProxyArgs
 ): Promise<SupervisorOAuthProxyHandle> {
   const { agentId, oauthProxyVersion } = args
 
@@ -70,7 +69,7 @@ export async function spawnOrAdoptOAuthProxy(
   if (state != null && pidAliveOrRefuse(state.pid)) {
     const versionMatches = state.oauthProxyVersion === oauthProxyVersion
     const healthy = versionMatches ? true : await fetchHealthzOk(state.port)
-    const { value: decision } = await proxyAdoptionRule({
+    const decision = decideProxyAdoption({
       hasLiveProxy: true,
       versionMatches,
       healthy,
