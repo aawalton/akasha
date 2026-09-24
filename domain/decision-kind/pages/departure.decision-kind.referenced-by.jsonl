@@ -2446,6 +2446,7 @@
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.ts","id":"01a0816a-91f6-79d0-8293-0fb65177f129"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/lualib-helper/properties/lua-export.text-property.ts","id":"01a08168-a789-7c4b-8c96-68f15749213a"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/lualib-helper/properties/lua-feature.text-property.ts","id":"01a081d9-0177-760b-bdf9-9a8231cf9177"}
+{"propertySlug":"decision-kind","path":"design/language/lua-compiler/lualib/lua-class/lua-class.type-declaration.ts","id":"01a0d45f-664d-7ac8-8f99-a4e0406fcf5f"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/modules/lualib-builder/lualib-builder.module.ts","id":"01a06758-8e5e-7000-a6a2-355e374cf411"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/modules/lualib-pages/lualib-pages.module.ts","id":"01a0818b-cd49-79f1-95e9-0b5ce73c5bb7"}
 {"propertySlug":"decision-kind","path":"design/language/lua-compiler/modules/transpile-transpile/transpile-transpile.module.ts","id":"01a06758-8eda-7000-8b98-39a989b4ecda"}

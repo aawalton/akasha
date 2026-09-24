@@ -1,4 +1,5 @@
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/design/language/lua-compiler/lualib/lua-class/lua-class.type-declaration.d.ts"
 
 export function __TS__ClassExtends(this: void, target: LuaClass, base: LuaClass): undefined {
   target.____super = base

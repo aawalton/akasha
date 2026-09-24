@@ -1,3 +1,5 @@
+import "akasha/design/language/lua-compiler/lualib/lua-class/lua-class.type-declaration.d.ts"
+
 export function __TS__InstanceOf(this: void, obj: LuaClassInstance, classTbl: LuaClass): boolean {
   if (typeof classTbl !== "object") {
     throw "Right-hand side of 'instanceof' is not an object"
@@ -5,7 +7,7 @@ export function __TS__InstanceOf(this: void, obj: LuaClassInstance, classTbl: Lu
 
   const hasInstance = classTbl[Symbol.hasInstance]
   if (hasInstance !== undefined) {
-    return Boolean(hasInstance(obj))
+    return Boolean(hasInstance.call(classTbl, obj))
   }
 
   if (typeof obj === "object") {

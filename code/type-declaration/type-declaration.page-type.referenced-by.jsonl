@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"code/router-app/vite-client/vite-client.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/language-extensions/language-extensions.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/lualib/lua-class/lua-class.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/performance-global/performance-global.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/sparse-array/sparse-array.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.ts"}

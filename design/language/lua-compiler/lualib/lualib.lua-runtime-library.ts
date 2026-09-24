@@ -5,6 +5,7 @@ export const lualib = {
   type: "page-type/lua-runtime-library",
   slug: "lualib",
   definition: "the JavaScript runtime an addon's Lua carries with it",
+  parts: ["type-declaration/lua-class"],
   universalConfig: "json",
   lua50Config: "json",
 } as const satisfies LuaRuntimeLibrary
