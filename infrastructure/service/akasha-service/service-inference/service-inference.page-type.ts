@@ -49,7 +49,7 @@ export const serviceInference = {
       statement: "A service the pool fronts is asked for at its port and listens on its own.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An inference service reaches its host through `akasha deploy` alone.",
     },
     {

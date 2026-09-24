@@ -45,6 +45,7 @@ COPY --link infrastructure/container-image/dockerfile/modules/services ./infrast
 COPY --link infrastructure/container-image/modules/image-build ./infrastructure/container-image/modules/image-build
 COPY --link infrastructure/container-image/modules/image-inputs ./infrastructure/container-image/modules/image-inputs
 COPY --link infrastructure/container-image/modules/image-ref ./infrastructure/container-image/modules/image-ref
+COPY --link infrastructure/memory/limit/properties ./infrastructure/memory/limit/properties
 COPY --link infrastructure/service/akasha-service ./infrastructure/service/akasha-service
 COPY --link page ./page
 COPY --link text/writing/modules/name-drawing ./text/writing/modules/name-drawing
@@ -96,6 +97,7 @@ COPY --link --from=build /workspace/infrastructure/container-image/dockerfile/mo
 COPY --link --from=build /workspace/infrastructure/container-image/modules/image-build ./infrastructure/container-image/modules/image-build
 COPY --link --from=build /workspace/infrastructure/container-image/modules/image-inputs ./infrastructure/container-image/modules/image-inputs
 COPY --link --from=build /workspace/infrastructure/container-image/modules/image-ref ./infrastructure/container-image/modules/image-ref
+COPY --link --from=build /workspace/infrastructure/memory/limit/properties ./infrastructure/memory/limit/properties
 COPY --link --from=build /workspace/infrastructure/service/akasha-service ./infrastructure/service/akasha-service
 COPY --link --from=build /workspace/page ./page
 COPY --link --from=build /workspace/text/writing/modules/name-drawing ./text/writing/modules/name-drawing
