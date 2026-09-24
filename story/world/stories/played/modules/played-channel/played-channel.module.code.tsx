@@ -59,7 +59,7 @@ export function PlayedChannel({
               submitPlayerAction={refusePlayerAction}
               signedOutNotice={null}
             />
-            {href === undefined ? null : (
+            {href === undefined || !row.showTitle ? null : (
               <PagesUILink href={href} className={TURN_LINK}>
                 {row.turn.title}
               </PagesUILink>

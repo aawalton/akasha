@@ -9,6 +9,7 @@ import {
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
+import type { ChapterProseTitles } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import { gameEntity } from "akasha/story/game/entity/game-entity.page-type.ts"
 import { game } from "akasha/story/game/game.page-type.ts"
 import type { PanelRun } from "akasha/story/game/panel/modules/panel-drawing/panel-drawing.module.code.ts"
@@ -72,6 +73,8 @@ const NUMBER_KEY = "number"
 const SLUG_KEY = "slug"
 
 const ONE = 1
+
+const TURN_TITLES: ChapterProseTitles = "hidden"
 
 function textIn(value: unknown): string {
   return typeof value === "string" ? value : ""
@@ -172,11 +175,11 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
       beats: modules.beatLog === undefined ? undefined : (envelope.beatLog ?? null),
       hrefById,
       earlier: tail.earlier,
-      titles: modules.chapterProse?.titles,
+      titles: runIsTurns ? TURN_TITLES : modules.chapterProse?.titles,
       pastTurns: modules.chapterProse?.pastTurns,
       gameExternalId: externalId,
     }),
-    [envelope, modules, hrefById, tail, externalId]
+    [envelope, modules, hrefById, tail, externalId, runIsTurns]
   )
 
   if (chapters.isLoading || turns.isLoading || gameTurns.isLoading) return null

@@ -21,7 +21,11 @@ export const playedChannel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn is followed by a link to the turn's own page.",
+      statement: "A row whose title is shown is followed by a link to the row's own page.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No turn number is drawn, because a played turn's only title is its number.",
     },
     {
       decisionKind: "decision-kind/departure",
