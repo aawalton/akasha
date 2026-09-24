@@ -8,11 +8,6 @@ export const dallaResourceManagement = {
   persona: "persona/dalla",
   intentStack: [
     {
-      statement: "Every audit collects the files that audit judges rather than listing the tree.",
-      workingMemory:
-        "In a pod the tree is the commit, so every file there has a body. The two `git ls-files`\npasses are one now, 0.049s against 0.839s, but 49 audits still list the whole commit and\nthen filter. Narrowing to what a check judges is what is left: `rg --files` globbed to the\npage types a check carries answered 726 paths in 0.135s against 0.482s over everything, and\n`pathsTyped` already collects that way for `pagesTypedIn`.\n",
-    },
-    {
       statement: "Every check an agent runs has a memory ceiling of its own.",
       workingMemory:
         "Fifty-eight of the fifty-nine code checks state maxCpuSeconds of their own, usually ten seconds and up to thirty, and ranOver judges cpuSeconds plus childCpuSeconds once the run ended. Nothing states a memory ceiling. A check runs inside the checking process, and the peak recorded is that process's high water mark, forgotten before each check and so counted from what the process already held rather than from nothing.",
