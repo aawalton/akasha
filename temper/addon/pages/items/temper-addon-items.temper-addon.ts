@@ -83,6 +83,7 @@ export const temperAddonItems = {
     "module/inventory-character-priority",
     "module/inventory-config",
     "module/inventory-constants",
+    "module/inventory-craft-shortfall-plan",
     "module/inventory-currency",
     "module/inventory-curse-state",
     "module/inventory-entry",

@@ -12,6 +12,8 @@
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"command/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"command/pages/temper/inventory/rule/list/temper-inventory-rule-list.command.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"command/pages/temper/inventory/rule/reorder/temper-inventory-rule-reorder.command.test.ts"}
+{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.test.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-explain-trace-builder/inventory-explain-trace-builder.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-item-rule-verdict-core/inventory-item-rule-verdict-core.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-item-rule-verdict-store/inventory-item-rule-verdict-store.module.code.ts"}

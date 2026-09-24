@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"buy-rule-eval.module.code.ts","path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts"}
 {"propertySlug":"import","fileName":"buy-rule-eval.module.code.ts","path":"temper/addon/pages/items/modules/inventory-buy-explain-trace-builder/inventory-buy-explain-trace-builder.module.code.ts"}
+{"propertySlug":"import","fileName":"buy-rule-eval.module.code.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.code.ts"}
 {"propertySlug":"import","fileName":"buy-rule-eval.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"}
 {"propertySlug":"import","fileName":"buy-rule-eval.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-buy/inventory-management-plan-buy.module.code.ts"}
 {"propertySlug":"import","fileName":"buy-rule-eval.module.code.ts","path":"temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.test.ts"}
