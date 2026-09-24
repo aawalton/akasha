@@ -7,6 +7,7 @@ import {
   editsIn,
   foldedIn,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { DATA, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   type Folded,
@@ -333,7 +334,7 @@ const GONE = "/made-up/nothing-is-here.ts"
 const LANDED: Answer = { report: ["landed"], refusals: [], code: OK }
 
 function withEnv<T>(name: string, at: string, run: () => T): T {
-  const before = process.env[name]
+  const before = optionalEnv(name)
   process.env[name] = at
   try {
     return run()

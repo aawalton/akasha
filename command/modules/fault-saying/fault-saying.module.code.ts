@@ -1,3 +1,4 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { oneLine } from "akasha/text/modules/one-line/one-line.module.code.ts"
 
@@ -13,9 +14,8 @@ export function framesOf(thrown: unknown, atMost: number): readonly string[] {
   const found: string[] = []
   for (const line of stack.split("\n")) {
     if (found.length >= atMost) break
-    const at = FRAME_AT.exec(line)
-    const held = at === null ? undefined : at[1]
-    if (held !== undefined) found.push(held)
+    const held = firstCapture(FRAME_AT.exec(line))
+    if (held !== null) found.push(held)
   }
   return found
 }
