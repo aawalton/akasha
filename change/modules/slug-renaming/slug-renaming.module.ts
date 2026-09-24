@@ -33,6 +33,10 @@ export const slugRenaming = {
       statement:
         "A page naming this page under a key its property's slug does not spell is restated.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key inside a record is read as the property that record declares under it.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

@@ -275,3 +275,70 @@ test("a name under a key its property page's slug does not spell is restated", (
   expect(bodyAfter(said, world, KEYED_NAMER)).toContain(`"${KEYED_KEY}": "${KEPT}"`)
   expect(bodyAfter(said, world, KEYED_NAMER)).not.toContain(`"${HELD_SLUG}"`)
 })
+
+const RECORD = "held-notes"
+
+const FIELD = "other-note"
+
+const RECORDED_NAMER = "akasha/two/recorded.module.ts"
+
+const recordedId = (one: string): string => `01a04a4a-0005-7000-8000-00000000000${one}`
+
+const RECORDED_MODULE = aType(idOf("6"), "module", KEYED_ABOVE, [
+  "code",
+  "test",
+  "note",
+  "part-slugs",
+  RECORD,
+])
+
+const RECORD_KIND = aType(recordedId("1"), "record-property", [`${pageType.slug}/page-property`])
+
+const FIELD_PAGE = {
+  id: recordedId("2"),
+  pageTypeSlug: "relation-property",
+  slug: FIELD,
+  propertySlug: "note",
+  definition: "a name a record writes under a key another property carries too",
+  targetPageType: "module",
+}
+
+const RECORD_PAGE = {
+  id: recordedId("3"),
+  pageTypeSlug: "record-property",
+  slug: RECORD,
+  propertySlug: RECORD,
+  definition: "records each naming a page under that key",
+  properties: [{ pageProperty: `relation-property/${FIELD}` }],
+}
+
+const RECORDED_NAMER_PAGE = {
+  id: recordedId("4"),
+  pageTypeSlug: "module",
+  slug: "recorded",
+  definition: "a page naming another inside a record",
+  heldNotes: [{ note: HELD_SLUG }],
+}
+
+function recordedRepo(): string {
+  return indexedRepo({
+    "akasha/module.page-type.ts": bodyOf(RECORDED_MODULE[1]),
+    "akasha/record-property.page-type.ts": bodyOf(RECORD_KIND[1]),
+    [`akasha/${FIELD}.relation-property.ts`]: bodyOf(FIELD_PAGE),
+    [`akasha/${RECORD}.record-property.ts`]: bodyOf(RECORD_PAGE),
+    [RECORDED_NAMER]: pageOf(RECORDED_NAMER_PAGE),
+  })
+}
+
+test("a name inside a record under a key two properties carry is restated", () => {
+  const root = recordedRepo()
+  const world = worldIn(root, textIn(root))
+  expect(world.index.namersOf(idOf("8"))).toContainEqual({
+    path: RECORDED_NAMER,
+    propertySlug: FIELD,
+  })
+  const said = slugRenamed(world, { at: HELD_PAGE, to: KEPT })
+  expect(said.refused).toBe(null)
+  expect(bodyAfter(said, world, RECORDED_NAMER)).toContain(`"note": "${KEPT}"`)
+  expect(bodyAfter(said, world, RECORDED_NAMER)).not.toContain(`"${HELD_SLUG}"`)
+})

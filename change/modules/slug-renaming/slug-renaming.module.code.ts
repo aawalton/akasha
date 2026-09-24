@@ -74,21 +74,22 @@ function addressedIn(
   text: string,
   slugs: ReadonlySet<string>,
   one: Renaming,
-  declaring: (key: string) => string | null
+  declaring: (key: string, within: string | null) => string | null
 ): readonly Splice[] {
   const source = parsedAs(path, text)
   const found: Splice[] = []
-  const walk = (node: ts.Node): undefined => {
-    if (ts.isPropertyAssignment(node)) {
-      const key = keyOf(node)
-      const said = key === null ? null : declaring(key)
-      if (said !== null && slugs.has(said)) {
-        found.push(...valuedIn(source, node.initializer, one))
-      }
+  const walk = (node: ts.Node, within: string | null): undefined => {
+    if (!ts.isPropertyAssignment(node)) {
+      ts.forEachChild(node, (held) => walk(held, within))
+      return
     }
-    ts.forEachChild(node, walk)
+    const key = keyOf(node)
+    const said = key === null ? null : declaring(key, within)
+    if (said === null) return
+    if (slugs.has(said)) found.push(...valuedIn(source, node.initializer, one))
+    walk(node.initializer, said)
   }
-  ts.forEachChild(source, walk)
+  walk(source, null)
   return found
 }
 
@@ -163,7 +164,10 @@ export function slugRenamed(world: World, given: Asked): Said {
     }
     const naming = readFor(world, path)
     if ("refused" in naming) return refusing(naming.refused)
-    const declaring = (key: string): string | null => naming.known.slugOfKeyIn(naming.value, key)
+    const declaring = (key: string, within: string | null): string | null =>
+      within === null
+        ? naming.known.slugOfKeyIn(naming.value, key)
+        : naming.known.fieldOfKey(within, key)
     put(path, addressedIn(path, body, slugs, one, declaring))
   }
   const restating: FileChange[] = []
