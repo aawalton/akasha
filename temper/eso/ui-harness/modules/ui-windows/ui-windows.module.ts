@@ -53,6 +53,10 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A key pressed in a scene of the game's is pressed once that scene has shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A window seeds its own addon's saved variables unless it says otherwise.",
     },
     {

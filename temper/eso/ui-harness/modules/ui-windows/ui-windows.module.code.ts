@@ -122,11 +122,13 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     "TemperWorld",
     "TemperWorldLoreBooksReport",
     `
-      SCENE_MANAGER:Show("loreLibrary")
       local keys = __bundle_require("${LOREBOOKS}.lorebooks-report-state.lorebooks-report-state.module.code")
         .REPORT_STATE.loreLibraryReportKeybind
-      keys[1].callback()
-      keys[2].callback()
+      SCENE_MANAGER:CallWhen("loreLibrary", SCENE_SHOWN, function()
+        keys[1].callback()
+        keys[2].callback()
+      end)
+      SCENE_MANAGER:Show("loreLibrary")
     `
   ),
 ]
