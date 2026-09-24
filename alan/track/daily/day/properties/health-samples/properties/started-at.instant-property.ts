@@ -5,6 +5,6 @@ export const startedAt = {
   type: "page-type/instant-property",
   slug: "started-at",
   propertySlug: "started-at",
-  definition: "when the stretch a reading covers began",
+  definition: "when a stretch of time began",
   types: "ts",
 } as const satisfies InstantProperty

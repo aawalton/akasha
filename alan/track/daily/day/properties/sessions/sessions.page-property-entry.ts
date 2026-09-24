@@ -21,6 +21,8 @@ export const sessions = {
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/start-time", required: true, many: false },
     { pageProperty: "text-property/end-time", required: false, many: false },
+    { pageProperty: "instant-property/started-at", required: false, many: false },
+    { pageProperty: "instant-property/ended-at", required: false, many: false },
     { pageProperty: "relation-property/daily-tracking", required: true, many: false },
     { pageProperty: "text-property/safety-level", required: false, many: false },
     { pageProperty: "text-property/difficulty-level", required: false, many: false },

@@ -1,3 +1,5 @@
+import type { EndedAt } from "akasha/alan/track/daily/day/properties/health-samples/properties/ended-at.instant-property.types.ts"
+import type { StartedAt } from "akasha/alan/track/daily/day/properties/health-samples/properties/started-at.instant-property.types.ts"
 import type { SafetyLevel } from "akasha/alan/track/daily/day/properties/safety-level.text-property.types.ts"
 import type { AssertedAt } from "akasha/alan/track/daily/day/properties/sessions/properties/asserted-at.instant-property.types.ts"
 import type { BreathingSets } from "akasha/alan/track/daily/day/properties/sessions/properties/breathing-sets.number-property.types.ts"
@@ -19,6 +21,8 @@ export type SessionsRow = {
   title: Title
   startTime: StartTime
   endTime?: EndTime
+  startedAt?: StartedAt
+  endedAt?: EndedAt
   dailyTracking: DailyTracking
   safetyLevel?: SafetyLevel
   difficultyLevel?: DifficultyLevel
