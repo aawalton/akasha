@@ -135,6 +135,10 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The game is told the player is activated from the moment the player is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A listener raising at the player's activation is named among the refused.",
     },
     {

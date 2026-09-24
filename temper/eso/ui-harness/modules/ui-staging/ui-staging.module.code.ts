@@ -48,6 +48,8 @@ const PLAYER_ACTIVATED = "EVENT_PLAYER_ACTIVATED"
 
 const FIRST_ACTIVATION = true
 
+const ACTIVATED = "IsPlayerActivated = function() return true end"
+
 const TEMPER_NAMES_UNSTUBBED = '__eso_leave_unstubbed("^Temper")'
 
 const PER_CHUNK = 40
@@ -290,6 +292,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     for (const source of seeded) await harness.load(source)
     await harness.load("return __ui_play_as()")
     await settled(harness)
+    await harness.load(ACTIVATED)
     try {
       await harness.raise(PLAYER_ACTIVATED, FIRST_ACTIVATION)
     } catch (thrown) {
