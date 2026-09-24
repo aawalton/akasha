@@ -11,10 +11,6 @@ export const jewelrySlots = {
       decisionKind: "decision-kind/constraint",
       statement: "A jewelry slot's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A jewelry slot moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["JEWELRY_SLOT_DATA"],
 } as const satisfies Module

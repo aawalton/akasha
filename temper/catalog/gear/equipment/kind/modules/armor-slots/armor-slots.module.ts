@@ -11,10 +11,6 @@ export const armorSlots = {
       decisionKind: "decision-kind/constraint",
       statement: "An armor slot's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An armor slot moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["ARMOR_SLOT_DATA"],
 } as const satisfies Module
