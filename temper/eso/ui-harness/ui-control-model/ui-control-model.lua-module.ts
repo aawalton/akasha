@@ -148,7 +148,12 @@ export const uiControlModel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every handler for being made is run, the unnamed one first and then the named ones by name.",
+        "Every handler for being made is run, the named ones by name and then the unnamed one.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A control's own handler for being made calls methods a template's named one adds.",
     },
     {
       decisionKind: "decision-kind/departure",
