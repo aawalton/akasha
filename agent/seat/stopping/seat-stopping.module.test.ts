@@ -37,8 +37,16 @@ import type { Refused } from "akasha/command/modules/landing/landing.module.code
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
+import { z } from "zod"
 
 const SELF = 4242
+
+const KEPT_ROW = z.looseObject({
+  [LEFT_BY]: z.string(),
+  [CARRIED_AT]: z.string(),
+  kind: z.string(),
+  path: z.string(),
+})
 
 function working(...kinds: readonly string[]): readonly Working[] {
   return kinds.map((dispatchedAs, at) => ({ path: `p${String(at)}`, dispatchedAs }))
@@ -280,7 +288,7 @@ test("the seat keeps what moved beside its own page", () => {
   moving(givenIn(root), SEAT_AT, UNDER)
   const at = seatEditsAt(SEAT_AT)
   expect(at).toBe("agent/seat/pages/tester/tester.seat.subagent-edits.uncommitted.jsonl")
-  const kept = JSON.parse(readFileSync(join(root, at ?? ""), "utf8")) as Record<string, unknown>
+  const kept = KEPT_ROW.parse(JSON.parse(readFileSync(join(root, at ?? ""), "utf8")))
   expect(kept[LEFT_BY]).toBe("tester-abc")
   expect(typeof kept[CARRIED_AT]).toBe("string")
   expect(kept.kind).toBe(ROW.kind)

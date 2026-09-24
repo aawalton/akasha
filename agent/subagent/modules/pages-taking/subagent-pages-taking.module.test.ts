@@ -29,6 +29,14 @@ import { writing } from "akasha/file/disk/modules/scratching/scratching.module.t
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { refusalIn } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import { z } from "zod"
+
+const KEPT_ROW = z.looseObject({
+  [LEFT_BY]: z.string(),
+  [CARRIED_AT]: z.string(),
+  kind: z.string(),
+  path: z.string(),
+})
 
 function pagesTaking(root: string, asked: Writing[]): Sending {
   return (one) => {
@@ -60,7 +68,7 @@ test("a sweep takes a page with edits waiting, moving them onto the seat", async
     expect(asked[0]?.removes).toEqual([at])
     expect(asked[0]?.message).toContain("akasha is gone")
     expect(existsSync(join(root, at))).toBe(false)
-    const row = JSON.parse(keptBySeat(root).edits) as Record<string, unknown>
+    const row = KEPT_ROW.parse(JSON.parse(keptBySeat(root).edits))
     expect(row[LEFT_BY]).toBe(slugOf("akasha", OWN))
     expect(typeof row[CARRIED_AT]).toBe("string")
     expect(JSON.stringify({ kind: row.kind, path: row.path })).toBe(ROW.trim())
