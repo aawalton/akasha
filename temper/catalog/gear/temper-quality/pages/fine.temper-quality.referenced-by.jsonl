@@ -106,5 +106,8 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/powered/powered.temper-weapon-trait.ts","id":"019e5b8b-e549-7d10-841e-e3e8cfe05a8d"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/precise/grades/weapon-trait-precise-fine.temper-gear-grade.ts","id":"01a0d3e9-a1da-7507-8191-5844d37100bf"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/precise/precise.temper-weapon-trait.ts","id":"019e5b8b-e54b-75fa-afc2-cfdd5f966f52"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/sharpened/grades/weapon-trait-sharpened-fine-penetration-physical.temper-gear-grade.ts","id":"01a0d3e9-fab1-7bd4-91ff-f21062b704e1"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/sharpened/grades/weapon-trait-sharpened-fine-penetration-spell.temper-gear-grade.ts","id":"01a0d3ea-036b-7f3b-83d9-1b1ef15ad82b"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/sharpened/sharpened.temper-weapon-trait.ts","id":"019e5b8b-e54c-7a9d-9b2b-de0c4da3ca56"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/training/grades/weapon-trait-training-fine.temper-gear-grade.ts","id":"01a0d3ea-52f5-7100-aa4c-29bf5a44aff0"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/training/training.temper-weapon-trait.ts","id":"019e5b8b-e54d-7f3a-ba3f-f3821e48039e"}
