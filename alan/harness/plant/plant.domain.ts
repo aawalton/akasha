@@ -9,7 +9,7 @@ export const plant = {
     { partOfSpeech: "part-of-speech/noun", spelling: "plant" },
     { partOfSpeech: "part-of-speech/noun", spelling: "plants" },
   ],
-  parts: ["module/plants-reading", "readout/upkeep-plants"],
+  parts: ["readout/upkeep-plants"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"readout-reading.module.code.ts","path":"alan/harness/readout/modules/relay/readout-relay.module.code.ts"}

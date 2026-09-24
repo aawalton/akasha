@@ -13,8 +13,10 @@ import { attributeLuck } from "akasha/alan/attribute/readout/attribute-luck/attr
 import { attributeStrength } from "akasha/alan/attribute/readout/attribute-strength/attribute-strength.readout.ts"
 import { attributeWisdom } from "akasha/alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
-import { askingIn } from "akasha/alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"
-import type { Row } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
+import type {
+  Asking,
+  Row,
+} from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
 import { keepReading } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
 import {
   openedDayOf,
@@ -29,6 +31,7 @@ import {
   resolveRoots,
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 const READOUTS = "alan/attribute/readout"
 
@@ -100,6 +103,14 @@ function windowOpened(now: Date, unknown: string): Window {
   const checkout = here[AKASHA]
   if (checkout === undefined || checkout === "") throw new Error(unknown)
   return { checkout, from: window.from, to: window.to }
+}
+
+export function askingIn(root: string): Asking {
+  return async (query) => {
+    const asked = asking(root, query as never)
+    if ("refused" in asked) return { ok: false, why: asked.refused }
+    return { ok: true, rows: asked.rows.map((values) => ({ values })) }
+  }
 }
 
 async function constitutionOf(now: Date): Promise<number> {

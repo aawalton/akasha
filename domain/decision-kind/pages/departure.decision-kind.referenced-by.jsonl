@@ -896,7 +896,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.ts","id":"01a069b6-bb6b-7ec9-bdcf-8f130bb46a4d"}
 {"propertySlug":"decision-kind","path":"alan/harness/notification-feed/notification-feed.page-type.ts","id":"01a06861-e7cd-7f8b-a674-034ea5efe956"}
 {"propertySlug":"decision-kind","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.ts","id":"019f4a1f-0ecc-7d45-8f43-7b424b5f0477"}
-{"propertySlug":"decision-kind","path":"alan/harness/plant/modules/plants-reading/plants-reading.module.ts","id":"01a069bc-1aa2-7813-a0df-1f5eed5e0196"}
 {"propertySlug":"decision-kind","path":"alan/harness/plant/plant.domain.ts","id":"01a06221-d65f-739e-9acb-74d67bbe92da"}
 {"propertySlug":"decision-kind","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.ts","id":"01a06221-d65f-79f1-86c6-ac9568df5717"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/categorization/categorization.readout-group.ts","id":"01a05455-7631-7e29-b225-b04ee2ae4890"}

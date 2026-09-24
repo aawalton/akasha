@@ -6,6 +6,7 @@ import { fetchLuckPoints } from "akasha/alan/attribute/pages/luck/luck.attribute
 import { strengthIn } from "akasha/alan/attribute/pages/strength/strength.attribute.code.ts"
 import { wisdomIn } from "akasha/alan/attribute/pages/wisdom/wisdom.attribute.code.ts"
 import {
+  askingIn,
   CHARISMA_PAGE,
   CONSTITUTION_PAGE,
   ENDURANCE_PAGE,
@@ -16,7 +17,6 @@ import {
   type Taken,
   WISDOM_PAGE,
 } from "akasha/alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"
-import { askingIn } from "akasha/alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"
 import type { Asking } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
 import { openedDayWindow } from "akasha/alan/track/daily/modules/day-opening/day-opening.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"

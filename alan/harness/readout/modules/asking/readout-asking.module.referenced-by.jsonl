@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/attribute/modules/attributes-totalling/attributes-totalling.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/capacity/readouts/upkeep-capacity/upkeep-capacity.readout.reading.code.ts"}
-{"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.reading.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"readout-asking.module.code.ts","path":"alan/harness/readout/modules/asking/readout-asking.module.test-fixtures.ts"}

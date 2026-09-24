@@ -690,7 +690,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/monarch/modules/transaction/monarch-transaction.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/notification-feed/modules/notifying/notifying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/plant/modules/plants-reading/plants-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/asking/readout-asking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/body/readout-body.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/readout/modules/credential/readout-credential.module.ts"}

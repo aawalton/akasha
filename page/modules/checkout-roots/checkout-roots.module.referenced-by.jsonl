@@ -99,7 +99,6 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/monarch/modules/files/monarch-files.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/monarch/modules/land-files/monarch-land-files.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/notification-feed/modules/rows/notification-feed-rows.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/plant/modules/plants-reading/plants-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/reminder-system/modules/due-reminder-sending/due-reminder-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"alan/harness/sleep/modules/reading/sleep-reading.module.code.ts"}
