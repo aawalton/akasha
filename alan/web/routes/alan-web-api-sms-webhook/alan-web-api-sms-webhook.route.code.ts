@@ -20,7 +20,7 @@ import {
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
-const MESSAGE_PAGE_TYPE_SLUG = "message"
+const MESSAGE_PAGE_TYPE_SLUG = "agent-message"
 
 const SEAT_PAGE_TYPE_SLUG = "seat"
 

@@ -28,6 +28,10 @@ export const alanWebApiSmsWebhook = {
         "An inbound text becomes a message to the handler seat the sender's relationship names.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The page type a message is written under is called `agent-message`.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A sender nobody enrolled is written to the alan seat rather than let go in silence.",
