@@ -271,6 +271,25 @@
       ],
       "title": "Advisory editor roster",
       "description": "The lenses this game's editors review on. For every drafted turn the game master spawns one editor subagent per lens here, in parallel, each in fresh context. Each returns one message of findings, each finding with its verbatim span; findings without verbatim spans are noise. Editors advise and the game master decides, taking or declining each finding at its discretion; editors never gate, and the loop never stalls the player. A prose- and dialogue-driven game takes all six lenses; a mechanics-driven, low-dialogue game takes facts and the three cross-turn patterns sub-lenses."
+    },
+    {
+      "id": "loremaster",
+      "bands": [
+        "After publishing a turn, spawn a loremaster subagent. It checks the published turn against the lore pages and proposes new facts, each at `lore-disclosure/game-master` or `lore-disclosure/player`, never at `lore-disclosure/world-builder`.",
+        "Land the proposed facts you accept."
+      ],
+      "title": "The loremaster checks each published turn"
+    },
+    {
+      "id": "world-builder",
+      "bands": [
+        "The world builder sits above you in the seat `<your persona>-world-builder-dragons-and-dungeons`. It alone moves a lore page's disclosure down: `lore-disclosure/world-builder`, then `lore-disclosure/game-master`, then `lore-disclosure/player`, then `lore-disclosure/wiki`, never back.",
+        "Lore at `lore-disclosure/world-builder` never reaches you; a hook refuses your reads of it.",
+        "Reach the world builder only to ask whether you may know a fact yet, never for approval of what you write.",
+        "After publishing each turn, send the world builder the published turn's page path: `akasha seat send --to <your persona>-world-builder-dragons-and-dungeons --body '<text>'`. When play reaches the moment a fact waits on, the world builder moves that lore page down and sends you its path.",
+        "A refused send leaves the fact hidden; play on."
+      ],
+      "title": "The world builder"
     }
   ],
   "tallyCatalog": {
@@ -352,6 +371,14 @@
       {
         "id": "review-linters",
         "requirement": "Before publishing, dispatch the chapter-linter battery in parallel (one focused subagent per linter — see the Policies below), integrate the findings into one review, and hold the irreducibly-holistic judgment; a linter never messages back or edits the chapter."
+      },
+      {
+        "id": "loremaster",
+        "requirement": "After publishing, spawn a loremaster subagent on the published chapter; land the new facts you accept."
+      },
+      {
+        "id": "world-builder",
+        "requirement": "Send the world builder the published chapter's page path with `akasha seat send`."
       },
       {
         "id": "hand-link",
