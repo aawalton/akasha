@@ -2773,6 +2773,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-delegation/tmux-scope-delegation.provisioned-file.ts","id":"01a0931d-840e-7dbe-a5f7-5bc1b4c375ea"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-memory/tmux-scope-memory.provisioned-file.ts","id":"01a0b731-ec1a-7ecb-9116-b0acbb609736"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-slice/tmux-scope-slice.provisioned-file.ts","id":"01a0927d-1cbd-780f-aff8-2bacc9b0c011"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/walton-realtime-priority/walton-realtime-priority.provisioned-file.ts","id":"01a0d463-e5c1-748a-89fe-3987418eb528"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioning.domain.ts","id":"01a06861-49aa-7cbb-bded-bbd1af45e1b4"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts","id":"01a07352-c56d-7d59-981a-3d7fa93e062d"}

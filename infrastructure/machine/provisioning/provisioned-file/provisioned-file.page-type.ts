@@ -37,6 +37,7 @@ export const provisionedFile = {
     "provisioned-file/kde-power-profile",
     "provisioned-file/kde-screen-locker",
     "provisioned-file/logind-idle-action",
+    "provisioned-file/walton-realtime-priority",
   ],
   extends: ["page-type/domain"],
   properties: [

@@ -22,5 +22,6 @@
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-memory/tmux-scope-memory.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-slice/tmux-scope-slice.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/wallpaper-black-launcher/wallpaper-black-launcher.provisioned-file.ts"}
+{"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/walton-realtime-priority/walton-realtime-priority.provisioned-file.ts"}
 {"propertySlug":"import","fileName":"provisioned-file.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/pages/workstation-brewfile/workstation-brewfile.provisioned-file.ts"}
 {"propertySlug":"parts","path":"infrastructure/machine/provisioning/provisioning.domain.ts","id":"01a06861-49aa-7cbb-bded-bbd1af45e1b4"}
