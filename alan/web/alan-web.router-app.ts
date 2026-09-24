@@ -75,8 +75,6 @@ export const alanWeb = {
     "module/next-unread",
     "module/offline-cache-fs",
     "module/offline-cache-namespace",
-    "module/offline-text",
-    "module/offline-text-cache",
     "module/page-detail-error-boundary",
     "module/page-detail-loading",
     "module/page-detail-with-read-mark",

@@ -1223,8 +1223,6 @@
 {"propertySlug":"decision-kind","path":"alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.ts","id":"01a0655d-dab8-7c58-8569-1c6e3295591b"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.ts","id":"01a0655d-dab9-7b76-a767-7101666ee41b"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/home-dni/home-dni.module.ts","id":"01a0655d-daa7-7945-ac04-32daf772c01c"}
-{"propertySlug":"decision-kind","path":"alan/web/modules/offline-text-cache/offline-text-cache.module.ts","id":"01a0655d-daab-74e1-ab68-7d53cf730d46"}
-{"propertySlug":"decision-kind","path":"alan/web/modules/offline-text/offline-text.module.ts","id":"01a0655d-daab-77d7-a316-1495d9684b74"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.ts","id":"01a0655d-dab9-7b64-a9ef-667c2948bf1d"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/signed-in-redirect/signed-in-redirect.module.ts","id":"01a08e1d-f4fb-72e1-9f35-8bab309aa758"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.ts","id":"01a0ba6e-8c03-7601-9695-3532675a5936"}
