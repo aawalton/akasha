@@ -257,3 +257,38 @@ test("a property of a kind extending the relation property has its type written"
   const written = generateTypes(root, shadowAt(root)).find((one) => one.path === EXTENDS_TYPE_AT)
   expect(written?.content).toBe(EXTENDS_TYPE)
 })
+
+const HOLDING_AT = "page/scratch/properties/reached.computed-property.ts"
+
+const SLUG_PAGE_AT = "page/properties/slug.text-property.ts"
+
+function shadowHolding(value: Record<string, unknown>): Shadow {
+  const pages = new Map<string, Record<string, unknown>>([
+    [HOLDING_AT, value],
+    [SLUG_PAGE_AT, { slug: "slug", types: "ts" }],
+  ])
+  const index = {
+    kindsUnder: (kind: string) => new Set(kind === "page-property" ? ["computed-property"] : []),
+    everyOfType: (kind: string) =>
+      kind === "computed-property" ? [{ path: HOLDING_AT, id: HOLDING_AT }] : [],
+    listedAt: (kind: string, slug: string) =>
+      kind === "text-property" && slug === "slug" ? [{ path: SLUG_PAGE_AT, id: SLUG_PAGE_AT }] : [],
+  } as never
+  return { ...shadowOf(pages), index, before: () => index }
+}
+
+test("a calculation holding a relation has the type a relation property has", () => {
+  const shadow = shadowHolding({ slug: "reached", holds: "relation", types: "ts" })
+  expect(generateTypes(ROOT, shadow)).toEqual([
+    {
+      kind: "add",
+      path: "page/scratch/properties/reached.computed-property.types.ts",
+      content: [
+        'import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"',
+        "",
+        "export type Reached = Slug",
+        "",
+      ].join("\n"),
+    },
+  ])
+})

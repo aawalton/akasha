@@ -55,6 +55,8 @@ const HOLDS_AT = "holds"
 
 const VALUES = "values"
 
+const HOLDS_RELATION = "relation"
+
 const WORKED = new Map<string, string>([
   ["boolean", "boolean"],
   ["date", "string"],
@@ -200,6 +202,7 @@ function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   if (asked.kind === ONE_OF) return oneOfIn(shadow, asked.value)
   if (asked.kind !== COMPUTED) return null
   if (Array.isArray(asked.value[VALUES])) return chosenIn(asked.path, asked.slug)
+  if (asked.value[HOLDS_AT] === HOLDS_RELATION) return memberIn(shadow, SLUG_AT)
   const worked = WORKED.get(String(asked.value[HOLDS_AT]))
   return worked === undefined ? null : { held: worked, imports: [] }
 }

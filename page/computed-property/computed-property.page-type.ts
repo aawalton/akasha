@@ -13,7 +13,7 @@ export const computedProperty = {
   slug: "computed-property",
   definition: "a page property a function works out from the page",
   extends: ["page-type/page-property"],
-  parts: ["select-property/holds", "relation-property/target-page-type"],
+  parts: ["select-property/holds"],
   properties: [
     { pageProperty: "select-property/holds", required: true, many: false },
     { pageProperty: "code-file-property/code", required: true, many: false },
@@ -110,6 +110,10 @@ export const computedProperty = {
       decisionKind: "decision-kind/departure",
       statement:
         "The compiler reads a computed property's stated kind against what its calculation answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A calculation holding a relation has the type a relation property has.",
     },
   ],
   types: "ts",
