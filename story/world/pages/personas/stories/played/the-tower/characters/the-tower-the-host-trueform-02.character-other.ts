@@ -6,5 +6,5 @@ export const theTowerTheHostTrueform02 = {
   slug: "the-tower-the-host-trueform-02",
   title: "The Host — Phase 2, True Form",
   story: "story-played/the-tower",
-  place: "place/the-tower-floor-05",
+  place: "place/the-tower-the-hosts-seat",
 } as const satisfies CharacterOther
