@@ -24,5 +24,9 @@ export const hooksInventory = {
       statement:
         "A body that comes back as the file's ending is a fault rather than an empty inventory.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body the inventory shape refuses is a fault rather than an inventory.",
+    },
   ],
 } as const satisfies Module

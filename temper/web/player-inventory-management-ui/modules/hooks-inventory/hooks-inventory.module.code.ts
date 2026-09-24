@@ -3,7 +3,10 @@
 import { listenerSet } from "akasha/design/interface/primitive/modules/listener-set/listener-set.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import {
+  type InventoryDatabase,
+  inventoryDatabaseSchema,
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { useEffect, useSyncExternalStore } from "react"
 
 const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"
@@ -45,7 +48,7 @@ async function readingOf(userId: string): Promise<Held> {
   if (body === ENDING) throw new Error(DATA_UNREAD)
   const capturedAt = values[CAPTURED_AT]
   return {
-    inventory: JSON.parse(body) as InventoryDatabase,
+    inventory: inventoryDatabaseSchema.parse(JSON.parse(body)),
     capturedAt: typeof capturedAt === "string" ? capturedAt : null,
     isRead: true,
     error: null,
