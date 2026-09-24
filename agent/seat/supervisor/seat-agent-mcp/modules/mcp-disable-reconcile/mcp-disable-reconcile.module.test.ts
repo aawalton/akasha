@@ -3,6 +3,11 @@ import {
   computeServersToClear,
   planDisableReconcile,
 } from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
+import { z } from "zod"
+
+const CONFIG = z.looseObject({
+  projects: z.record(z.string(), z.looseObject({ disabledMcpServers: z.array(z.string()) })),
+})
 
 const CWD = "/var/home/walton/repos/akasha"
 const same = (p: string): string => p
@@ -30,7 +35,7 @@ describe("planDisableReconcile", () => {
       same
     )
     expect(plan?.clearedServers).toEqual(["messages"])
-    expect(JSON.parse(plan?.nextConfigText ?? "")).toMatchObject({
+    expect(CONFIG.parse(JSON.parse(plan?.nextConfigText ?? ""))).toMatchObject({
       projects: { [CWD]: { disabledMcpServers: ["wobble"] } },
     })
   })

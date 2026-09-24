@@ -25,7 +25,9 @@ import {
   reconcileClaudeConfig,
 } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"
 import type { SupervisorHandoff } from "akasha/agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
+import { z } from "zod"
+
+const CLAUDE_CONFIG_HELD = z.record(z.string(), z.unknown())
 
 export function adoptInheritedProc(pid: number): InheritedProc {
   if (!isProcessAlive(pid)) {
@@ -171,7 +173,7 @@ export function reconcileAgentBootFiles(
   if (existsSync(path)) {
     let parsed: Record<string, unknown> | undefined
     try {
-      parsed = asRecord(JSON.parse(readFileSync(path, "utf8")))
+      parsed = CLAUDE_CONFIG_HELD.safeParse(JSON.parse(readFileSync(path, "utf8"))).data
     } catch (err) {
       console.error(`${LOG} adopt: ${path} did not parse, so nothing was reconciled into it:`, err)
       return

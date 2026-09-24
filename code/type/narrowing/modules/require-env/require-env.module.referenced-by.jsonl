@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"agent/modules/stray-sweeping/stray-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/google/calendar/modules/calendar-credentials/calendar-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/google/oauth/modules/oauth-app-credentials/oauth-app-credentials.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/google/oauth/modules/oauth-refresh-token/oauth-refresh-token.module.code.ts"}

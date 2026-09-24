@@ -5,6 +5,7 @@ import {
   supervisorSocketPath,
   supervisorsRootDir,
 } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
 const AGENT = "01a07eb0-c517-7000-9ee4-cfc39576ac24"
 
@@ -43,7 +44,7 @@ test("the whole path is short enough for the kernel to bind", () => {
 })
 
 test("the runtime directory is worked out from the user rather than read from the environment", () => {
-  const was = process.env.XDG_RUNTIME_DIR
+  const was = optionalEnv("XDG_RUNTIME_DIR")
   process.env.XDG_RUNTIME_DIR = ELSEWHERE
   try {
     expect(supervisorSocketPath(AGENT).startsWith(ELSEWHERE)).toBe(false)
