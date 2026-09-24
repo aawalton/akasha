@@ -68,6 +68,17 @@ function probedFor(name: string): readonly string[] {
   return name === HEALTH_PROBED ? [name] : []
 }
 
+export function strayOn(
+  listed: readonly ActualResource[],
+  every: readonly Inference[]
+): readonly string[] {
+  const named = new Set([TRAFFIC_COP_SERVICE_NAME, ...every.map((each) => each.name)])
+  return listed
+    .map((each) => each.name)
+    .filter((name) => !named.has(name))
+    .sort()
+}
+
 async function hashFor(
   codeAt: string,
   service: Inference,
@@ -114,6 +125,15 @@ export async function putUpInferenceService(
   const target = { user: host.user, host: host.address, keyPath: host.keyPath }
   const report = [`${service.name} on ${host.name} (${host.address})`]
 
+  const actual = parseActualState(
+    await reaching.runSshCapture(target, buildQueryScript(host, probedFor(service.name)))
+  )
+  for (const name of strayOn(actual, every.services)) {
+    await reaching.runSsh(target, buildPruneScript({ host, name }))
+    up.push(`${name}, named by no page, torn off ${host.name}`)
+    report.push(`tore ${name} down, as no page names it`)
+  }
+
   if (!service.enabled) {
     report.push("is not to be running, so it is torn off the host")
     await reaching.runSsh(target, buildPruneScript({ host, name: service.name }))
@@ -129,9 +149,6 @@ export async function putUpInferenceService(
   const inputsHash = await hashFor(codeAt, service, poolJson)
   report.push(`is asked for at hash ${inputsHash}`)
 
-  const actual = parseActualState(
-    await reaching.runSshCapture(target, buildQueryScript(host, probedFor(service.name)))
-  )
   const held = actual.find((each) => each.name === service.name)
   if (currentAlready(held, inputsHash)) {
     report.push("holds that hash already, so nothing is applied")

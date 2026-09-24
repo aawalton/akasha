@@ -10,7 +10,7 @@ export const deployInferenceInstalling = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One call reaches the one service it names.",
+      statement: "One call puts up the one service it names.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -30,8 +30,17 @@ export const deployInferenceInstalling = {
         "Nothing is applied where the host has no GUI session for launchd to load an agent into.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here tears down a service the pages no longer name.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every service on the host that no page names is torn off before the named one is put up.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name any page names, on any host, is never torn down for being unnamed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The traffic cop is never torn down for being unnamed.",
     },
     {
       decisionKind: "decision-kind/departure",
