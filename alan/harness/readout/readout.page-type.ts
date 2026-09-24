@@ -207,23 +207,23 @@ export const readout = {
       statement: "Every color is worked out outside the store.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A readout is read rather than interrogated.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The reading a readout's reader wants from that readout costs one glance.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A reader sorts nothing to read a readout.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A reader does no arithmetic to read a readout.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A reader recalls nothing to read a readout.",
     },
     {
