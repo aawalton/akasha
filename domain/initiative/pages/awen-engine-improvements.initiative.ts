@@ -10,7 +10,7 @@ export const awenEngineImprovements = {
     {
       statement: "The story page types are one designed set under `story/`.",
       workingMemory:
-        "The page types under `story/` sit in two disjoint trees. `page-type/game` is not among `world`'s parts, nor `world` among `game`'s, and the only join is a slug match in `game-beside.module.code.ts`. Duplicates: `story-wiki-entry` against `game-lore-entry`; `story-design` and `story-design-note` against `game-design-entry`, both carried by The Tower.",
+        "Duplicates: `story-wiki-entry` with `game-lore-entry`; `story-design` and `story-design-note` with `game-design-entry`. Lore: a fact sits on one lore page, in one of four phases: world builder, game master, player, wiki. A page has one structured shape in every phase. A concept may have a page per phase, and reading one takes in the later phases' facts. Lore states the world, never instructs the game master. The Tower's Death Loop is the world builder's until Alan first dies.\n",
     },
     { statement: "Every page under `story/` is of a page type in that set." },
     { statement: "All game state for The Tower uses the new page types." },
