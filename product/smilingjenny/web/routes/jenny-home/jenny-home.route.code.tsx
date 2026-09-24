@@ -16,12 +16,6 @@ export default function Home() {
       <PageLayout.Header>
         <PageTitle>Signed in</PageTitle>
       </PageLayout.Header>
-      <PageLayout.Content>
-        <p className="text-base text-secondary">
-          This site carries the sign-in the tiles are placed behind, and the readings those tiles
-          draw. There is nothing else on it to look at.
-        </p>
-      </PageLayout.Content>
     </PageLayout>
   )
 }
