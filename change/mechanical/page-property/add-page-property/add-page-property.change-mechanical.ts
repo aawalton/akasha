@@ -124,7 +124,7 @@ export const addPageProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The property's own page is handed to the change writing a file of any kind, which mints its `id`.",
+        "The property's own page is handed to the change writing a file of any kind, and lands with no `id`.",
     },
   ],
   changeKind: "change-kind/change-mechanical",

@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"}

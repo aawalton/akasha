@@ -29,8 +29,6 @@ const WOLD = "text-property/wold"
 
 const ADD_FILE_OF_ANY_KIND = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const MINTED = /id: "[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}"/
-
 const STATED_ID = /id: "[^"]*", /
 
 const PAGE_TYPES: ReadonlySet<string> = new Set([
@@ -172,13 +170,13 @@ test("the property's own page is handed to the change writing a file of any kind
   expect(seen[0]).toBe(ADD_FILE_OF_ANY_KIND)
 })
 
-test("a body stating no id arrives with an id minted by that change", async () => {
+test("a body stating no id arrives without one, for the landing to mint", async () => {
   const world = worldIn({ through: true })
 
   const said = await addPageProperty(world, TEXT)
 
   expect(WOLD_BODY).not.toMatch(/id:/)
-  expect(bodyAnswered(said, world, WOLD_AT)).toMatch(MINTED)
+  expect(bodyAnswered(said, world, WOLD_AT)).not.toMatch(/id:/)
 })
 
 test("the declaration goes into the properties of every page type handed in", async () => {

@@ -30,6 +30,7 @@ import {
   foldedOver,
   type Landing,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { insertedInto } from "akasha/code/reading/modules/value-inserting/value-inserting.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
@@ -45,6 +46,7 @@ import {
   refusedWhereHeld,
 } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import {
   aType,
@@ -52,6 +54,7 @@ import {
   pageOf,
   bodyOf as valueBody,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -163,12 +166,18 @@ function seated(): string {
   return root
 }
 
+function identifiedAt(path: string, body: string): string {
+  const value = loadedFrom(body).value
+  if (value === null || value["type"] === undefined || value["id"] !== undefined) return body
+  return insertedInto(path, body, "id", JSON.stringify(uuidVersion7())) ?? body
+}
+
 export const minting: Landing = async (root, changes, message) => {
   const said = await foldedOver(ledgerAt(root, bodyIn(root), runAt), changes)
   if (said.refused !== null) return { refusals: [said.refused], code: DATA }
   for (const [path, body] of bodiesIn(said, bodyIn(root))) {
     if (body === null) rmSync(join(root, path), { force: true })
-    else writing(root, path, body)
+    else writing(root, path, identifiedAt(path, body))
   }
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", message])
