@@ -156,5 +156,17 @@ export const monarch = {
         "Apply a rule only where all its conditions hold.",
       ],
     },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Household Transfers",
+      act: "Pair a payment or transfer row with its other leg before calling that row spending or income.",
+      warrant: "Money moving between the household's own accounts reads as spending on one side.",
+      aids: [
+        "The other leg has the same amount, the opposite sign and a different account, close in time.",
+        "Read what the statement text says became of the money.",
+        "Weigh how the household settled the same shape before.",
+        "Leave a row whose legs do not pair to a person, and say which way the pairing failed.",
+      ],
+    },
   ],
 } as const satisfies Domain

@@ -14,6 +14,7 @@
 {"propertySlug":"directive-kind","path":"alan/harness/agent/alan-harness-agent.domain.ts","id":"01a0658a-e55d-7426-897d-78820e337523"}
 {"propertySlug":"directive-kind","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}
 {"propertySlug":"directive-kind","path":"alan/harness/inbox/inbox.domain.ts","id":"01a06230-b156-7347-be47-6f5960ced389"}
+{"propertySlug":"directive-kind","path":"alan/harness/monarch/monarch.domain.ts","id":"01a0538f-7c09-7c69-a9d0-d209d9a480db"}
 {"propertySlug":"directive-kind","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"directive-kind","path":"alan/harness/rules-engine/rules-engine.domain.ts","id":"01a0657b-9adc-7003-a1af-d02c5457d479"}
 {"propertySlug":"directive-kind","path":"alan/music/spotify/spotify.domain.ts","id":"01a06261-dc1d-7000-8f39-acf6360f39b5"}
