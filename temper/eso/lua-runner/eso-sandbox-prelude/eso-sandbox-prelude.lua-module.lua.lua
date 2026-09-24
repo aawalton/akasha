@@ -127,6 +127,28 @@ end
 __eso_env = make_env()
 __eso_make_stub = make_stub
 
+local _select = select
+local _unpack = unpack
+
+local function packed(...) return { n = _select("#", ...), ... } end
+
+function SecurePostHook(target, name, hook)
+  if type(target) == "string" then target, name, hook = __eso_env, target, name end
+  local original = target[name]
+  target[name] = function(...)
+    local answered = packed()
+    if original ~= nil then answered = packed(original(...)) end
+    hook(...)
+    return _unpack(answered, 1, answered.n)
+  end
+end
+
+function CallSecureProtected(name, ...)
+  local called = __eso_env[name]
+  if type(called) ~= "function" then return false end
+  return true, called(...)
+end
+
 local _next = next
 
 function InsecureNext(tbl, lastKey)

@@ -95,6 +95,22 @@ export const esoSandboxPrelude = {
       statement: "The game's table test answers whether a value is a table, as the game's does.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A post hook runs after the function it hooks, handed the same arguments.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hooked function answers what it answered before it was hooked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A post hook named by text alone hooks a global function.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A protected call answers whether the function was there, then what it answered.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
         "A few constants and functions are valued here, for a sandbox loading no capture of the game's.",
