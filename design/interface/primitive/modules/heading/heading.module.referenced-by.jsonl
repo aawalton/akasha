@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"alan/web/routes/alan-web-principles/alan-web-principles.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"alan/web/routes/alan-web-services/alan-web-services.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"alan/web/routes/alan-web-sms/alan-web-sms.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"heading.module.code.tsx","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/pattern/modules/filter-group/filter-group.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/primitive/modules/sub-view/sub-view.module.code.tsx","typed":false,"deferred":false}
@@ -29,6 +28,7 @@
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/system/modules/text-colors/text-colors.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/system/modules/ui-application-rules/ui-application-rules.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"design/interface/system/modules/visual-identity/visual-identity.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"heading.module.code.tsx","path":"infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"page/ui/component/modules/group-by-picker/group-by-picker.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"page/ui/component/modules/page-board/page-board.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"page/ui/component/modules/page-calendar/page-calendar.module.code.tsx","typed":false,"deferred":false}

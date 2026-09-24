@@ -20,6 +20,7 @@
 @source "../../harness/**/*.{ts,tsx}";
 @source "../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../design/interface/**/*.{ts,tsx}";
+@source "../../../infrastructure/service/**/*.{ts,tsx}";
 @source "../../../page/**/*.{ts,tsx}";
 @source "../../../person/modules/**/*.{ts,tsx}";
 @source "../../../story/game/**/*.{ts,tsx}";

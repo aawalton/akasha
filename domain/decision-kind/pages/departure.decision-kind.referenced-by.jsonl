@@ -2975,6 +2975,8 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/properties/secret-resource.text-property.ts","id":"01a08cfa-dafb-7b31-884e-718e64f5308b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/properties/service-clusters.multi-relation-property.ts","id":"01a05b26-f8b6-7334-a5d4-d44ab19e071e"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/properties/source-directory.text-property.ts","id":"01a05b26-f8b6-7d79-b5c7-6e8267081489"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.ts","id":"01a0d5ab-cd7e-711b-912d-8956fa6862f2"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.ts","id":"01a0d5ab-cd7e-739f-94a3-f57107bc9e15"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-sections.record-property.ts","id":"01a0d5a8-c966-784b-aec0-f6940cb22450"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/site-document.page-type.ts","id":"01a0d5a8-c966-7b3e-afc7-8a6f6ba43874"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}

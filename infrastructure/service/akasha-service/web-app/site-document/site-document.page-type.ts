@@ -12,6 +12,8 @@ export const siteDocument = {
     "record-property/site-document-sections",
     "text-property/section-anchor",
     "markdown-property/section-text",
+    "module/site-document-reading",
+    "module/site-document-drawing",
   ],
   properties: [
     { pageProperty: "relation-property/site-document-web-app", required: true, many: false },

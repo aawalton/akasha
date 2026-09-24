@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-privacy/alan-web-privacy.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-services/alan-web-services.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-sms/alan-web-sms.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/pattern/modules/input-panel-card/input-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/system/modules/borders/borders.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/system/modules/brand-heart/brand-heart.module.code.tsx","typed":false,"deferred":false}
@@ -41,6 +40,7 @@
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/system/modules/typography/typography.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/system/modules/ui-application-rules/ui-application-rules.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/system/modules/visual-identity/visual-identity.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"temper/web/modules/automation-tab/automation-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"temper/web/modules/character-entity-panel-card/character-entity-panel-card.module.code.tsx","typed":false,"deferred":false}

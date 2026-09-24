@@ -1,94 +1,32 @@
-import { PageTitle } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
-import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
+import { SiteDocumentDrawing } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx"
+import {
+  SITE_DOCUMENT,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 
-export function meta() {
+const WEB_APP = namedAs("web-app", alanwaltonWeb.slug, null)
+
+const READ = [SITE_DOCUMENT]
+
+export async function loader() {
+  return { document: await siteDocumentAt(WEB_APP, "terms") }
+}
+
+type TermsLoaderData = Awaited<ReturnType<typeof loader>>
+
+export function meta({ data }: { data: TermsLoaderData | undefined }) {
+  if (data === undefined) return []
+  const { title, description } = data.document
   return [
-    { title: "Terms — Alan Walton" },
-    {
-      name: "description",
-      content: "Terms for the Amy personal-assistant messaging service, operated by Alan Walton.",
-    },
+    { title: `${title} — Alan Walton` },
+    ...(description === null ? [] : [{ name: "description", content: description }]),
   ]
 }
 
-export default function TermsRoute() {
-  return (
-    <main className="mx-auto w-full max-w-3xl px-6 py-12">
-      <div className="space-y-6">
-        <header className="space-y-2">
-          <PageTitle>Terms</PageTitle>
-          <p className="text-secondary text-sm">
-            Terms for the Amy personal-assistant messaging service, operated by Alan Walton.
-          </p>
-        </header>
-
-        <PanelCard id="who" title="Who we are">
-          <p className="text-secondary text-sm">
-            Amy is the personal-assistant messaging service of Alan Walton, a sole proprietor.
-            Messages are sent on Alan Walton&rsquo;s behalf to coordinate with the people he works
-            and communicates with.
-          </p>
-        </PanelCard>
-
-        <PanelCard id="what" title="What the messages are">
-          <div className="space-y-3">
-            <Heading variant="subsection-accent">
-              Two-way texts for scheduling, reminders, and coordination.
-            </Heading>
-            <p className="text-secondary text-sm">
-              Messages are conversational and transactional &mdash; scheduling, reminders, and
-              day-to-day coordination. This is not a marketing service and not a bulk-messaging
-              service.
-            </p>
-          </div>
-        </PanelCard>
-
-        <PanelCard id="consent" title="Consent &amp; opt-in">
-          <p className="text-secondary text-sm">
-            Recipients gave explicit prior written consent to receive these messages. Consent is
-            given through the public opt-in form at{" "}
-            <a href="/sms" className="text-accent underline">
-              alanwalton.com/sms
-            </a>
-            , and no one is added without first giving that prior consent.
-          </p>
-        </PanelCard>
-
-        <PanelCard id="opt-out" title="Opt-out &amp; help">
-          <div className="space-y-3">
-            <Heading variant="subsection-accent">
-              Reply STOP to stop; reply HELP for help/contact.
-            </Heading>
-            <p className="text-secondary text-sm">
-              You can opt out of messages at any time by replying <strong>STOP</strong>. Reply{" "}
-              <strong>HELP</strong> for help or contact information.
-            </p>
-          </div>
-        </PanelCard>
-
-        <PanelCard id="frequency" title="Message frequency">
-          <p className="text-secondary text-sm">
-            Message frequency is low and varies &mdash; approximately 100 messages per month.
-          </p>
-        </PanelCard>
-
-        <PanelCard id="rates" title="Rates">
-          <p className="text-secondary text-sm">Message and data rates may apply.</p>
-        </PanelCard>
-
-        <PanelCard id="privacy" title="Privacy">
-          <p className="text-secondary text-sm">
-            Phone numbers and message content are used only to provide the service and are not sold
-            or shared with third parties. No mobile information will be sold or shared with third
-            parties for promotional or marketing purposes. See the full{" "}
-            <a href="/privacy" className="text-accent underline">
-              Privacy Policy
-            </a>
-            .
-          </p>
-        </PanelCard>
-      </div>
-    </main>
-  )
+export default function TermsRoute({ loaderData }: { loaderData: TermsLoaderData }) {
+  useLoaderFollowing(READ)
+  return <SiteDocumentDrawing document={loaderData.document} />
 }
