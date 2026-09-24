@@ -107,6 +107,15 @@ export const esoSandboxPrelude = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller hands over a function that nothing defines yet, and it is defined.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name something defines already keeps that definition rather than the one given.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Listing this environment gives the names seeded or stubbed here and then the real ones.",
     },

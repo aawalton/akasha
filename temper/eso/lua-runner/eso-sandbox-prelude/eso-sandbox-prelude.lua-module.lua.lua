@@ -120,6 +120,17 @@ function __eso_constants(given)
   return count
 end
 
+function __eso_defaults(given)
+  local count = 0
+  for name, made in _pairs(given) do
+    if not banned[name] and _rawget(_G, name) == nil then
+      _rawset(_G, name, made)
+      count = count + 1
+    end
+  end
+  return count
+end
+
 __eso_seconds = 20
 
 function __eso_deadline(seconds)
