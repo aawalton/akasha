@@ -15,8 +15,5 @@ export const theTowerTheDeepDen = {
     { to: "place/the-tower-the-long-gallery", way: "back to the Long Gallery" },
     { to: "place/the-tower-the-hosts-seat", way: "forward / down-slope to the Host's Seat" },
   ],
-  facts: [
-    "The Deep Den's gold light is failing over real cold dark.",
-    "The Deep Den is a cold stone predation-chamber the False Haven is painted over.",
-  ],
+  facts: ["The Deep Den is the Host's cold stone predation-chamber, bare of any glamour."],
 } as const satisfies Place
