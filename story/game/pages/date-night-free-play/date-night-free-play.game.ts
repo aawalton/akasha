@@ -8,7 +8,6 @@ export const dateNightFreePlay = {
   unit: "unit/words",
   externalId: "playtest-date-night-9",
   gameEngine: "awen",
-  coordinatorAgent: "awen-gm--playtest-date-night-9",
   controlledEntityKind: "single",
   mechanicsWeight: "zero",
   resolution: "none",
