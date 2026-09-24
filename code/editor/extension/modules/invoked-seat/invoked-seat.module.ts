@@ -32,6 +32,10 @@ export const invokedSeat = {
       statement: "A subagent row is no target for an act.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A click on a seat has the seat's id and the seat's name and nothing more.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here acts on a seat.",
     },

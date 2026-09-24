@@ -1,6 +1,8 @@
 import { seat as seatPageType } from "akasha/agent/seat/seat.page-type.ts"
-import type { SeatClick } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
-import { parseSeatClick } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
+import {
+  parseSeatClick,
+  type SeatClick,
+} from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import * as vscode from "vscode"

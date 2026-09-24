@@ -1,4 +1,4 @@
-import type { SeatClick } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
+import type { SeatClick } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
 import { seatContextValue } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import { subagentContextValue } from "akasha/code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"
 import {

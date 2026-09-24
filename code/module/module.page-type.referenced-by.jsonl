@@ -973,7 +973,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/activation/activation.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/agent-forest/agent-forest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/agent-page-opening/agent-page-opening.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/agent-row/agent-row.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/agent-tree-ids/agent-tree-ids.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.ts"}

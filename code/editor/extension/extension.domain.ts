@@ -16,7 +16,6 @@ export const extension = {
     "module/activation",
     "module/agent-forest",
     "module/agent-page-opening",
-    "module/agent-row",
     "module/agent-tree-drawing",
     "module/agent-tree-ids",
     "module/agent-tree-lookup",

@@ -1,4 +1,3 @@
-import type { SeatClick } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
 import { seatTabs } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
 import {
   SEAT_MODE_SCHEMA,
@@ -7,6 +6,11 @@ import {
 import * as vscode from "vscode"
 import { z } from "zod"
 import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
+
+export interface SeatClick {
+  readonly id: string
+  readonly name: string
+}
 
 const SEAT_CLICK_SCHEMA = z.looseObject({ id: z.string().min(1), name: z.string().min(1) })
 
