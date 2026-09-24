@@ -20,8 +20,6 @@ const DECLARED = "properties"
 
 const KIND = "type"
 
-const WAS_KIND = "pageTypeSlug"
-
 const SLUG = "slug"
 
 const ID = "id"
@@ -89,7 +87,7 @@ function taking(found: Map<string, Held>, one: Held): undefined {
 
 function kindOf(value: Value): string | null {
   const said = textAt(value, KIND)
-  return said === null ? textAt(value, WAS_KIND) : slugOf(said)
+  return said === null ? null : slugOf(said)
 }
 
 export function judgedIn(carried: readonly Carried[], shadow: Shadow): readonly Held[] {
