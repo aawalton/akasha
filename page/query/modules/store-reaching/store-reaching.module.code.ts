@@ -1,3 +1,4 @@
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
@@ -44,10 +45,10 @@ export function worthRetrying(status: number | undefined): boolean {
 }
 
 function statedOrigin(): string | undefined {
-  if (typeof process === "undefined") return undefined
+  if (typeof process === "undefined" || process.env === undefined) return undefined
   for (const name of ORIGIN_NAMES) {
-    const held: unknown = process.env?.[name]
-    if (typeof held === "string" && held.trim() !== "") return held.trim()
+    const held = optionalEnv(name)?.trim()
+    if (held !== undefined && held !== "") return held
   }
   return undefined
 }

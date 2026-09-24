@@ -5,8 +5,11 @@ import {
 } from "akasha/page/query/modules/store-questioning/store-questioning.module.code.ts"
 import type { Fetcher } from "akasha/page/query/modules/store-reaching/store-reaching.module.code.ts"
 import { noNap } from "akasha/page/query/modules/store-reaching/store-reaching.module.test-fixtures.ts"
+import { z } from "zod"
 
-type Sent = { url: string; body: Record<string, unknown> }
+const SENT_BODY = z.record(z.string(), z.unknown())
+
+type Sent = { url: string; body: z.infer<typeof SENT_BODY> }
 
 function recording(rows: readonly Record<string, unknown>[]): {
   fetcher: Fetcher
@@ -14,7 +17,7 @@ function recording(rows: readonly Record<string, unknown>[]): {
 } {
   let held: Sent | null = null
   const fetcher: Fetcher = async (url, init) => {
-    held = { url, body: JSON.parse(String(init.body)) }
+    held = { url, body: SENT_BODY.parse(JSON.parse(String(init.body))) }
     return new Response(JSON.stringify({ rows }), {
       headers: { "content-type": "application/json" },
     })
