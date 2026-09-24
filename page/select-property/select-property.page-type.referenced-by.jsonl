@@ -101,7 +101,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/ram.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/only-on.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/placed-by.select-property.ts"}
-{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/restart.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/restart.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/computed-property/properties/holds.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/grade-property/grade-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"page/multi-select-property/multi-select-property.page-type.types.ts"}

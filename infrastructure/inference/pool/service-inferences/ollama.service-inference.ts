@@ -1,4 +1,4 @@
-import type { ServiceInference } from "akasha/infrastructure/service/inference/service-inference.page-type.types.ts"
+import type { ServiceInference } from "akasha/infrastructure/service/akasha-service/service-inference/service-inference.page-type.types.ts"
 
 export const ollama = {
   id: "01a090a2-cd03-701a-8161-c9b80aff3edc",

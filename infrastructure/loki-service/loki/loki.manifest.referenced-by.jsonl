@@ -1,2 +1,2 @@
 {"propertySlug":"parts","path":"infrastructure/loki-service/loki-service.domain.ts","id":"01a06816-68b1-7121-a3e4-61d3cc74c4c8"}
-{"propertySlug":"service-manifest","path":"infrastructure/service/cluster/pages/loki/loki.service-cluster.ts","id":"01a06816-68b2-782a-9997-af90e9fdae8a"}
+{"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/loki/loki.service-cluster.ts","id":"01a06816-68b2-782a-9997-af90e9fdae8a"}

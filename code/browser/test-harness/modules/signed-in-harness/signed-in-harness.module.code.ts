@@ -40,7 +40,7 @@ type Cookie = Parameters<BrowserContext["addCookies"]>[0][number]
 type SameSite = "Strict" | "Lax" | "None"
 
 const SIGNING_KEY_PAGE =
-  "infrastructure/service/secret/pages/alanwalton-secrets-handover-signing-key.secret.ts"
+  "infrastructure/service/akasha-service/secret/pages/alanwalton-secrets-handover-signing-key.secret.ts"
 
 const SIGNING_KEY_ENV = "HANDOVER_SIGNING_KEY"
 

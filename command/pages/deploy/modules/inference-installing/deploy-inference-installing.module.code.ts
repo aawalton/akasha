@@ -37,7 +37,7 @@ import {
   everyInference,
   type Inference,
   readFor,
-} from "akasha/infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.code.ts"
 
 const HEALTH_PROBED = "image-gen"
 

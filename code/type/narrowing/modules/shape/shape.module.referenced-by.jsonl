@@ -26,5 +26,5 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/monarch/modules/gmail-cache/monarch-gmail-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/monarch/modules/notes-revert/monarch-notes-revert.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-listing/orphan-resource-listing.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

@@ -6,7 +6,7 @@ import {
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 import { authProxy as authProxyImage } from "akasha/infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
-import { authProxy } from "akasha/infrastructure/service/cluster/pages/auth-proxy/auth-proxy.service-cluster.ts"
+import { authProxy } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/auth-proxy/auth-proxy.service-cluster.ts"
 
 const NAMESPACE = authProxy.namespace
 const APP_NAME = authProxy.resourceName

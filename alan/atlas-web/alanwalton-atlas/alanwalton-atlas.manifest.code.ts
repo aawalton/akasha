@@ -16,7 +16,7 @@ import {
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { alanwaltonAtlas } from "akasha/infrastructure/service/cluster/pages/alanwalton-atlas/alanwalton-atlas.service-cluster.ts"
+import { alanwaltonAtlas } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/alanwalton-atlas/alanwalton-atlas.service-cluster.ts"
 
 const NAMESPACE = alanwaltonAtlas.namespace
 const SECRET_NAME = "alanwalton-secrets"

@@ -5,7 +5,7 @@ import {
   bindsFor,
   LOOPBACK,
   portFor,
-} from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-binding/service-binding.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   boundAgain,

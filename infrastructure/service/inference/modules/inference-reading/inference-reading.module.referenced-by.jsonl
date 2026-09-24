@@ -1,6 +1,0 @@
-{"propertySlug":"import","fileName":"inference-reading.module.code.ts","path":"command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts"}
-{"propertySlug":"import","fileName":"inference-reading.module.code.ts","path":"command/pages/inference/capability-list/inference-capability-list.command.code.ts"}
-{"propertySlug":"import","fileName":"inference-reading.module.code.ts","path":"infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts"}
-{"propertySlug":"import","fileName":"inference-reading.module.code.ts","path":"infrastructure/inference/pool/modules/cop-admin/cop-admin.module.code.ts"}
-{"propertySlug":"import","fileName":"inference-reading.module.code.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.test.ts"}
-{"propertySlug":"parts","path":"infrastructure/service/inference/service-inference.page-type.ts","id":"01a09099-06af-7cdb-a825-c9aaf68f155e"}

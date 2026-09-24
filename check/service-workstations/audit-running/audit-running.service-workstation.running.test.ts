@@ -2,8 +2,8 @@ import { expect, mock, test } from "bun:test"
 import {
   FOLLOWING_ON,
   outcomeOf,
-} from "akasha/infrastructure/service/workstation/modules/run-outcome/run-outcome.module.code.ts"
-import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/run-outcome/run-outcome.module.code.ts"
+import { checkoutAt } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-checkout/service-checkout.module.code.ts"
 
 const RAN: string[] = []
 
@@ -24,11 +24,11 @@ const listening = await import(
 )
 
 const tick = await import(
-  "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
+  "akasha/infrastructure/service/akasha-service/service-workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
 )
 
 mock.module(
-  "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts",
+  "akasha/infrastructure/service/akasha-service/service-workstation/modules/tick-sleeping/tick-sleeping.module.code.ts",
   () => ({
     ...tick,
     sleptUntilStopped: () => new Promise<boolean>(() => {}),

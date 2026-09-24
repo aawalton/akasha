@@ -9,7 +9,7 @@ import {
   keepReading,
   readoutPage,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
-import { keepBeat } from "akasha/infrastructure/service/workstation/modules/service-beating/service-beating.module.code.ts"
+import { keepBeat } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-beating/service-beating.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,

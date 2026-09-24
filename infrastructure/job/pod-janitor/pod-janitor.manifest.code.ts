@@ -1,6 +1,6 @@
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { synthNamespaceCronjob } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
-import { podJanitor } from "akasha/infrastructure/service/cluster/pages/pod-janitor/pod-janitor.service-cluster.ts"
+import { podJanitor } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/pod-janitor/pod-janitor.service-cluster.ts"
 
 const NAMESPACE = podJanitor.namespace
 const APP_NAME = podJanitor.resourceName

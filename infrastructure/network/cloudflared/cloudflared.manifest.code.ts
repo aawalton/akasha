@@ -7,7 +7,7 @@ import {
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { placedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { tunnelConfigData } from "akasha/infrastructure/cluster/manifest/modules/tunnel-config/tunnel-config.module.code.ts"
-import { cloudflared } from "akasha/infrastructure/service/cluster/pages/cloudflared/cloudflared.service-cluster.ts"
+import { cloudflared } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/cloudflared/cloudflared.service-cluster.ts"
 
 const NAMESPACE = cloudflared.namespace
 const APP_NAME = cloudflared.resourceName

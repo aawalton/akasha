@@ -10,7 +10,7 @@ import {
   type SeatPending,
 } from "akasha/agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts"
 import { akashaSubagentsDirIn } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
-import { leftWhereCodeMoved } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
+import { leftWhereCodeMoved } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 

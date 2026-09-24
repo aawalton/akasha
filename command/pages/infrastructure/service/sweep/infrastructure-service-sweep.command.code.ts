@@ -15,7 +15,7 @@ import { infrastructureServiceSweep as page } from "akasha/command/pages/infrast
 import type {
   Done,
   Plan,
-} from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"
 import {
   homeAt,
   installing,
@@ -24,8 +24,8 @@ import {
   planFor,
   strandedAmong,
   systemctl,
-} from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
-import { everyService } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"
+import { everyService } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 
 const NOT_SWEPT = "plan\tnothing was taken away; run it again without `--plan` to carry it out"
 

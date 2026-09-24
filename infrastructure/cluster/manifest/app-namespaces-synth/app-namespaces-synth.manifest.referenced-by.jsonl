@@ -1,3 +1,3 @@
 {"propertySlug":"import","fileName":"app-namespaces-synth.manifest.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-audit/orphan-resource-audit.module.code.ts"}
 {"propertySlug":"parts","path":"infrastructure/cluster/manifest/cluster-manifest.domain.ts","id":"01a06810-1263-7296-86ac-72d2a283e164"}
-{"propertySlug":"service-manifest","path":"infrastructure/service/cluster-foundation/pages/cluster-foundations.cluster-foundation.ts","id":"01a0a5f0-7889-7744-b2cf-cb0590ba51f9"}
+{"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/cluster-foundation/pages/cluster-foundations.cluster-foundation.ts","id":"01a0a5f0-7889-7744-b2cf-cb0590ba51f9"}

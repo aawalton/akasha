@@ -18,7 +18,7 @@ import {
   INNWORLD_WEB_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { innworldWeb } from "akasha/infrastructure/service/cluster/pages/innworld-web/innworld-web.service-cluster.ts"
+import { innworldWeb } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/innworld-web/innworld-web.service-cluster.ts"
 
 const NAMESPACE = innworldWeb.namespace
 const APP_NAME = innworldWeb.resourceName

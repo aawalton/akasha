@@ -2,7 +2,7 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-s
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { voiceInferImage } from "akasha/infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts"
-import { voiceInfer } from "akasha/infrastructure/service/cluster/pages/voice-infer/voice-infer.service-cluster.ts"
+import { voiceInfer } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/voice-infer/voice-infer.service-cluster.ts"
 
 const NAMESPACE = voiceInfer.namespace
 const APP_NAME = voiceInfer.resourceName

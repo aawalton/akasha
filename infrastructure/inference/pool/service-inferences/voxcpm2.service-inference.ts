@@ -1,4 +1,4 @@
-import type { ServiceInference } from "akasha/infrastructure/service/inference/service-inference.page-type.types.ts"
+import type { ServiceInference } from "akasha/infrastructure/service/akasha-service/service-inference/service-inference.page-type.types.ts"
 
 export const voxcpm2 = {
   id: "01a090a2-b487-7840-b3dd-d4aec75b2e38",

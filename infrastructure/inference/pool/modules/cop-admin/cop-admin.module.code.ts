@@ -5,7 +5,7 @@ import {
   runSshCapture,
   type SshTarget,
 } from "akasha/infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"
-import { everyInference } from "akasha/infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"
+import { everyInference } from "akasha/infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { z } from "zod"
 

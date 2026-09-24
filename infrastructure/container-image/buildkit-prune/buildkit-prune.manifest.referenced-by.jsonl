@@ -1,2 +1,2 @@
 {"propertySlug":"parts","path":"infrastructure/container-image/container-image.domain.ts","id":"01a0675b-16dc-759d-9b19-cf1118f36276"}
-{"propertySlug":"service-manifest","path":"infrastructure/service/cluster/pages/buildkit-prune/buildkit-prune.service-cluster.ts","id":"01a06812-237f-75a4-8884-ae6155609bc3"}
+{"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/buildkit-prune/buildkit-prune.service-cluster.ts","id":"01a06812-237f-75a4-8884-ae6155609bc3"}

@@ -30,13 +30,13 @@ import {
   seatByShellPid,
   seatMarksAt,
 } from "akasha/code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.code.ts"
-import { leftWhereCodeMoved } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
+import { leftWhereCodeMoved } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.code.ts"
 import {
   dirsOf,
   type Following,
   followFolders,
   followWithin,
-} from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.code.ts"
 import {
   everyOfType,
   slugFoldersOf,

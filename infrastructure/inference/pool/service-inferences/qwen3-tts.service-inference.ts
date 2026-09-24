@@ -1,4 +1,4 @@
-import type { ServiceInference } from "akasha/infrastructure/service/inference/service-inference.page-type.types.ts"
+import type { ServiceInference } from "akasha/infrastructure/service/akasha-service/service-inference/service-inference.page-type.types.ts"
 
 export const qwen3Tts = {
   id: "01a090a2-9e6d-7775-b13e-e20d48ca33a2",

@@ -3,7 +3,7 @@ import type {
   Pushing,
   Running,
 } from "akasha/infrastructure/job/modules/cluster-running/cluster-running.module.code.ts"
-import type { Ran } from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
+import type { Ran } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 
 export const COMMIT = "0123456789abcdef0123456789abcdef01234567"
 

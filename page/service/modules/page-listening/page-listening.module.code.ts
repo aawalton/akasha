@@ -5,7 +5,7 @@ import {
   pagePathFor,
   portFor,
   SERVICE_PAGE_TYPE,
-} from "akasha/infrastructure/service/workstation/modules/service-binding/service-binding.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-binding/service-binding.module.code.ts"
 import {
   dropUncommitted,
   mergeUncommitted,

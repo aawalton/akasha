@@ -1,4 +1,4 @@
-import type { ServiceInference } from "akasha/infrastructure/service/inference/service-inference.page-type.types.ts"
+import type { ServiceInference } from "akasha/infrastructure/service/akasha-service/service-inference/service-inference.page-type.types.ts"
 
 export const mlxVlm = {
   id: "01a090a3-1740-747a-a45e-2af1a1123204",

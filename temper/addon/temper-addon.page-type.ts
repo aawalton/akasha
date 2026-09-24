@@ -30,7 +30,7 @@ export const temperAddon = {
     "boolean-property/addon-library",
     "domain/temper-addon-shared",
   ],
-  extends: ["page-type/service"],
+  extends: ["page-type/akasha-service"],
   properties: [
     { pageProperty: "file-property/addon-manifest", required: true, many: false },
     { pageProperty: "relation-property/bundle-entry", required: false, many: false },

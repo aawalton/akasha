@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
 {"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"}
 {"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.test.ts"}
-{"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"infrastructure/service/modules/deploy-wanting/deploy-wanting.module.code.ts"}
-{"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"infrastructure/service/modules/deploy-wanting/deploy-wanting.module.test.ts"}
+{"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.code.ts"}
+{"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.test.ts"}
 {"propertySlug":"parts","path":"command/pages/deploy/deploy.command.ts","id":"01a05af7-5996-7002-bc83-446645b7de16"}

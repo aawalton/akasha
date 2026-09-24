@@ -18,7 +18,7 @@ import {
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { archiveOfWorldsWeb } from "akasha/infrastructure/service/cluster/pages/archive-of-worlds-web/archive-of-worlds-web.service-cluster.ts"
+import { archiveOfWorldsWeb } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/archive-of-worlds-web/archive-of-worlds-web.service-cluster.ts"
 
 const NAMESPACE = archiveOfWorldsWeb.namespace
 const APP_NAME = archiveOfWorldsWeb.resourceName

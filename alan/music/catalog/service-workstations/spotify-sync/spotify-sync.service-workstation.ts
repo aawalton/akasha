@@ -1,4 +1,4 @@
-import type { ServiceWorkstation } from "akasha/infrastructure/service/workstation/service-workstation.page-type.types.ts"
+import type { ServiceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.types.ts"
 
 export const spotifySync = {
   id: "01a09c84-8cd1-758c-8c48-b28856aa0770",

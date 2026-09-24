@@ -7,7 +7,7 @@ import {
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
 import { synthNamespaceNetworkPolicyDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
-import { pageForwarder } from "akasha/infrastructure/service/cluster/pages/page-forwarder/page-forwarder.service-cluster.ts"
+import { pageForwarder } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/page-forwarder/page-forwarder.service-cluster.ts"
 
 const NAMESPACE = pageForwarder.namespace
 const APP_NAME = pageForwarder.resourceName

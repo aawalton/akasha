@@ -18,7 +18,7 @@ import {
   BUN_RUNTIME_IMAGE,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { audhdalanWeb } from "akasha/infrastructure/service/cluster/pages/audhdalan-web/audhdalan-web.service-cluster.ts"
+import { audhdalanWeb } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/audhdalan-web/audhdalan-web.service-cluster.ts"
 
 const NAMESPACE = audhdalanWeb.namespace
 const APP_NAME = audhdalanWeb.resourceName

@@ -18,8 +18,8 @@ import {
   logFilePath,
   lookupApp,
   namingApps,
-} from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
-import { commitNamed } from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
+import { commitNamed } from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 
 async function tailing(read: {
   root: string

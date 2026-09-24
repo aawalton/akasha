@@ -8,11 +8,11 @@ import {
 import {
   TICKS_BEFORE_ENDING,
   tickRatchet,
-} from "akasha/infrastructure/service/workstation/modules/tick-ratchet/tick-ratchet.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/tick-ratchet/tick-ratchet.module.code.ts"
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
 
 export async function runSurplusFallNotifying(): Promise<void> {
   const ac = stopsOnSignal()

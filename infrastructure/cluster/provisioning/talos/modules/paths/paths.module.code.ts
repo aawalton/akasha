@@ -2,7 +2,7 @@ import { homedir } from "node:os"
 import { resolve } from "node:path"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-const SECRET_PAGES_AT = "infrastructure/service/secret/pages/"
+const SECRET_PAGES_AT = "infrastructure/service/akasha-service/secret/pages/"
 
 export function clusterSecretsSopsPath(): string {
   return resolve(ownRepoRoot(), `${SECRET_PAGES_AT}talos-main-secrets.secret.sops.yaml`)

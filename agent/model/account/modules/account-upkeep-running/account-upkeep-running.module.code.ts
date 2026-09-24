@@ -11,7 +11,7 @@ import {
 import {
   sleptUntilStopped,
   stopsOnSignal,
-} from "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

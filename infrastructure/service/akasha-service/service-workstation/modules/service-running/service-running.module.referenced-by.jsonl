@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"service-running.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
+{"propertySlug":"import","fileName":"service-running.module.code.ts","path":"command/pages/infrastructure/service/run/infrastructure-service-run.command.code.ts"}
+{"propertySlug":"import","fileName":"service-running.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.test.ts"}
+{"propertySlug":"import","fileName":"service-running.module.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"service-running.module.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"}
+{"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

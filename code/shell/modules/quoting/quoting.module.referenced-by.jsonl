@@ -4,5 +4,5 @@
 {"propertySlug":"import","fileName":"quoting.module.code.ts","path":"code/shell/modules/quoting/quoting.module.test.ts"}
 {"propertySlug":"import","fileName":"quoting.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"}
 {"propertySlug":"import","fileName":"quoting.module.code.ts","path":"infrastructure/inference/pool/modules/provision-script/provision-script.module.code.ts"}
-{"propertySlug":"import","fileName":"quoting.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"}
+{"propertySlug":"import","fileName":"quoting.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"parts","path":"code/shell/shell.domain.ts","id":"01a05d9b-277a-7000-be3d-95c4cf94638d"}

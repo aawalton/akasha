@@ -28,7 +28,7 @@ export const infrastructure = {
     "domain/storage",
     "domain/telemetry",
     "module/infrastructure-calls",
-    "page-type/service",
+    "domain/service",
   ],
   decisions: [
     {

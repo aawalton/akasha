@@ -2,7 +2,7 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-s
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { synthNamespaceConfigmapDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
-import { buildkit } from "akasha/infrastructure/service/cluster/pages/buildkit/buildkit.service-cluster.ts"
+import { buildkit } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/buildkit/buildkit.service-cluster.ts"
 
 const NAMESPACE = buildkit.namespace
 const APP_NAME = buildkit.resourceName

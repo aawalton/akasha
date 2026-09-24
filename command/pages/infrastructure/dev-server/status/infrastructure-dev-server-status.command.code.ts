@@ -17,15 +17,15 @@ import {
   devServerTsvLine,
   recordFromState,
   stoppedRecord,
-} from "akasha/infrastructure/service/web-app/modules/dev-server-recording/dev-server-recording.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-recording/dev-server-recording.module.code.ts"
 import {
   type DevServerState,
   isPidAlive,
   listStateFiles,
   lookupApp,
   readStateFile,
-} from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
-import { commitNamed } from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
+import { commitNamed } from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 
 type Named = {
   readonly commit: string | null

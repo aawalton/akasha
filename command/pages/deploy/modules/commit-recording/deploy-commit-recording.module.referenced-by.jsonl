@@ -2,6 +2,6 @@
 {"propertySlug":"import","fileName":"deploy-commit-recording.module.code.ts","path":"command/pages/deploy/deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"deploy-commit-recording.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.test.ts"}
 {"propertySlug":"import","fileName":"deploy-commit-recording.module.code.ts","path":"infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"}
-{"propertySlug":"import","fileName":"deploy-commit-recording.module.code.ts","path":"infrastructure/service/modules/deploy-looping/deploy-looping.module.code.ts"}
-{"propertySlug":"import","fileName":"deploy-commit-recording.module.code.ts","path":"infrastructure/service/modules/deploy-wanting/deploy-wanting.module.code.ts"}
+{"propertySlug":"import","fileName":"deploy-commit-recording.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts"}
+{"propertySlug":"import","fileName":"deploy-commit-recording.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.code.ts"}
 {"propertySlug":"parts","path":"command/pages/deploy/deploy.command.ts","id":"01a05af7-5996-7002-bc83-446645b7de16"}

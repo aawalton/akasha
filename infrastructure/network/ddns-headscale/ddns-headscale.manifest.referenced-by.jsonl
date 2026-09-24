@@ -1,2 +1,2 @@
 {"propertySlug":"parts","path":"infrastructure/network/network.domain.ts","id":"01a0658b-0f02-7e55-94d1-d612c0ed6115"}
-{"propertySlug":"service-manifest","path":"infrastructure/service/cluster/pages/ddns-headscale/ddns-headscale.service-cluster.ts","id":"01a06812-2380-7daf-80c0-b50676a5feef"}
+{"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/ddns-headscale/ddns-headscale.service-cluster.ts","id":"01a06812-2380-7daf-80c0-b50676a5feef"}

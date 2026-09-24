@@ -8,7 +8,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { given } from "akasha/command/pages/deploy/deploy.command.test-fixtures.ts"
 import { putUpWebApp } from "akasha/command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts"
-import { seededWorld } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { seededWorld } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
 
 const WORLD = seededWorld()
 const HOLD = "/var/tmp"

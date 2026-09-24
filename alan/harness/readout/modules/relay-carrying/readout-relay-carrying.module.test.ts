@@ -38,15 +38,15 @@ let refusing: string | null = null
 const relay = await import("akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts")
 
 const composing = await import(
-  "akasha/infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"
+  "akasha/infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts"
 )
 
 const checkout = await import(
-  "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
+  "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-checkout/service-checkout.module.code.ts"
 )
 
 mock.module(
-  "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts",
+  "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-checkout/service-checkout.module.code.ts",
   () => ({
     ...checkout,
     checkoutAt: () => {
@@ -57,7 +57,7 @@ mock.module(
 )
 
 mock.module(
-  "akasha/infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts",
+  "akasha/infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts",
   () => ({
     ...composing,
     pathOf: (_root: string, point: string) =>

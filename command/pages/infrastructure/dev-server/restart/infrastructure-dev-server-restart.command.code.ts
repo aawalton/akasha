@@ -15,8 +15,8 @@ import {
   stopping,
 } from "akasha/command/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"
 import { infrastructureDevServerRestart as page } from "akasha/command/pages/infrastructure/dev-server/restart/infrastructure-dev-server-restart.command.ts"
-import { namingApps } from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
-import { commitNamed } from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
+import { namingApps } from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
+import { commitNamed } from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 
 export async function infrastructureDevServerRestart(
   argv: readonly string[],

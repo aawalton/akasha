@@ -5,7 +5,7 @@ import {
   parseSeatProcKey,
   statedProcessPresence,
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import { pagesOriginHere } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
+import { pagesOriginHere } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import { fileStemOf } from "akasha/page/identity/modules/file-page/file-page.module.code.ts"
 import { fileKeysAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"

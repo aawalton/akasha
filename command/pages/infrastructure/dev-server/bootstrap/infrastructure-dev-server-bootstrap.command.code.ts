@@ -17,12 +17,12 @@ import {
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
   wroteEnvSaid,
-} from "akasha/infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
-import { namingApps } from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
+import { namingApps } from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
 import {
   commitNamed,
   treeLaidDown,
-} from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 
 export type Read = {
   readonly root: string

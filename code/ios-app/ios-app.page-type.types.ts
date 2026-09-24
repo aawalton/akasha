@@ -22,10 +22,10 @@ import type { WidgetProfileName } from "akasha/code/ios-app/properties/widget-pr
 import type { GitIgnore } from "akasha/code/properties/git-ignore.file-property.types.ts"
 import type { ToolReached } from "akasha/code/workspace/properties/tool-reached.text-property.types.ts"
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
-import type { Service } from "akasha/infrastructure/service/service.page-type.types.ts"
+import type { AkashaService } from "akasha/infrastructure/service/akasha-service/akasha-service.page-type.types.ts"
 
 export type IosApp = Domain &
-  Service & {
+  AkashaService & {
     appProfileName: AppProfileName
     ascCapabilities?: AscCapabilities
     buildScript?: BuildScript

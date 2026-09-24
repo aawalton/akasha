@@ -15,12 +15,12 @@ import {
   statedIn,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import { leftWhereCodeMoved } from "akasha/infrastructure/service/workstation/modules/code-moving/code-moving.module.code.ts"
+import { leftWhereCodeMoved } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.code.ts"
 import {
   dirsOf,
   type Following,
   followFolders,
-} from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,

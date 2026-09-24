@@ -74,8 +74,8 @@
 {"propertySlug":"extends-type","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"extends-type","path":"infrastructure/memory/kind/memory-kind.page-type.ts","id":"01a0912d-e1a4-76ac-8b44-8632c97fc053"}
 {"propertySlug":"extends-type","path":"infrastructure/network/certificate/authority/certificate-authority.page-type.ts","id":"01a0685d-ab5d-7bd4-946d-fa56b367a1a2"}
-{"propertySlug":"extends-type","path":"infrastructure/service/inference/lifecycle/service-lifecycle.page-type.ts","id":"01a0ca94-c323-755d-aaa4-e6bbe1b3ce6e"}
-{"propertySlug":"extends-type","path":"infrastructure/service/service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
+{"propertySlug":"extends-type","path":"infrastructure/service/akasha-service/akasha-service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
+{"propertySlug":"extends-type","path":"infrastructure/service/akasha-service/service-inference/lifecycle/service-lifecycle.page-type.ts","id":"01a0ca94-c323-755d-aaa4-e6bbe1b3ce6e"}
 {"propertySlug":"extends-type","path":"infrastructure/storage/git-repo/repo/repo.page-type.ts","id":"01a06835-e289-7ce5-b198-71205e81f789"}
 {"propertySlug":"extends-type","path":"infrastructure/telemetry/dashboard/dashboard.page-type.ts","id":"01a07c67-a724-7337-8adc-5a5e3a393057"}
 {"propertySlug":"extends-type","path":"page/generator-kind/generator-kind.page-type.ts","id":"01a04f17-5b78-7c66-9145-7a386e55406e"}
@@ -119,7 +119,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.test.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.ts","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.test.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-alerting/service-alerting.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
@@ -393,7 +393,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/lualib-helper.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/play/design-play.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/definition/technology-definition.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/external-service/external-service.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/mcp.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/server/mcp-server.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/technology.domain.ts"}
@@ -474,8 +473,10 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/node/node.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/resource-utilization/alan-attention/alan-attention.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/resource-utilization/resource-utilization.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/service/inference/lifecycle/service-lifecycle.page-type.types.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/service/service.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/service/akasha-service/akasha-service.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/lifecycle/service-lifecycle.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/service/external-service/external-service.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/service/service.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/container-registry/container-registry.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/disk-store/disk-store.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/storage/git-repo/dirty/dirty.domain.ts"}

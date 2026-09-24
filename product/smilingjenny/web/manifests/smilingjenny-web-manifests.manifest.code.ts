@@ -18,7 +18,7 @@ import {
   ORCHESTRATOR_CACHE_REPO_PATH,
   SMILINGJENNY_WEB_CACHE,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { smilingjennyWeb } from "akasha/infrastructure/service/cluster/pages/smilingjenny-web/smilingjenny-web.service-cluster.ts"
+import { smilingjennyWeb } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/smilingjenny-web/smilingjenny-web.service-cluster.ts"
 
 const NAMESPACE = smilingjennyWeb.namespace
 const APP_NAME = smilingjennyWeb.resourceName

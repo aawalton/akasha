@@ -47,8 +47,8 @@ import { DAY_PAGE_TYPE } from "akasha/alan/track/daily/modules/day-place/day-pla
 import {
   dirsOf,
   followFolders,
-} from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
-import { keepBeat } from "akasha/infrastructure/service/workstation/modules/service-beating/service-beating.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.code.ts"
+import { keepBeat } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-beating/service-beating.module.code.ts"
 import {
   everyOfType,
   listedAt,

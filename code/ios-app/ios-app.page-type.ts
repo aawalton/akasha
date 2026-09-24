@@ -40,7 +40,7 @@ export const iosApp = {
     "text-property/widget-bundle-id",
     "text-property/widget-profile-name",
   ],
-  extends: ["page-type/domain", "page-type/service"],
+  extends: ["page-type/domain", "page-type/akasha-service"],
   properties: [
     { pageProperty: "text-property/app-profile-name", required: true, many: false },
     {

@@ -17,7 +17,7 @@ import {
   resolveEnvLocalPath,
   writeEnvLocalFromPages,
   wroteEnvSaid,
-} from "akasha/infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
 import {
   type DevServerState,
   ensureDevServerDirs,
@@ -30,11 +30,11 @@ import {
   stateFilePath,
   statesFor,
   writeStateFile,
-} from "akasha/infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"
 import {
   treeLaidDown,
   treeTakenAway,
-} from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TERM_POLL_MS = 100

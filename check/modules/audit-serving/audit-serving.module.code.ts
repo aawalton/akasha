@@ -43,8 +43,8 @@ import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admi
 import {
   championing,
   passedOn,
-} from "akasha/infrastructure/service/workstation/modules/service-alerting/service-alerting.module.code.ts"
-import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-alerting/service-alerting.module.code.ts"
+import { checkoutAt } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-checkout/service-checkout.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"

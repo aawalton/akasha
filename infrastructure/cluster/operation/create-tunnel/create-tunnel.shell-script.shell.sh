@@ -30,9 +30,9 @@ if [[ "${2:-}" == "--force" ]]; then
 fi
 
 CLOUDFLARED_DIR="${CLOUDFLARED_DIR:-${HOME}/.cloudflared}"
-CREDS_PAGE="infrastructure/service/secret/pages/cloudflared-creds-credentials-json.secret.ts"
-CREDS_HELD="${AKASHA_ROOT}/infrastructure/service/secret/pages/cloudflared-creds-credentials-json.secret.sops.yaml"
-TUNNEL_CONFIG="${AKASHA_ROOT}/infrastructure/service/cluster/pages/cloudflared/cloudflared.service-cluster.config.yaml"
+CREDS_PAGE="infrastructure/service/akasha-service/secret/pages/cloudflared-creds-credentials-json.secret.ts"
+CREDS_HELD="${AKASHA_ROOT}/infrastructure/service/akasha-service/secret/pages/cloudflared-creds-credentials-json.secret.sops.yaml"
+TUNNEL_CONFIG="${AKASHA_ROOT}/infrastructure/service/akasha-service/service-cluster/pages/cloudflared/cloudflared.service-cluster.config.yaml"
 
 if ! command -v cloudflared &>/dev/null; then
   die "cloudflared not found — install from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/"

@@ -1,4 +1,4 @@
-import type { ServiceInference } from "akasha/infrastructure/service/inference/service-inference.page-type.types.ts"
+import type { ServiceInference } from "akasha/infrastructure/service/akasha-service/service-inference/service-inference.page-type.types.ts"
 
 export const kokoro = {
   id: "01a090a2-5c24-724d-b01c-a733d03553e2",

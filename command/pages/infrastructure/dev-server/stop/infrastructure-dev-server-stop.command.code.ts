@@ -11,7 +11,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { stopping } from "akasha/command/pages/infrastructure/dev-server/modules/dev-server-running/dev-server-running.module.code.ts"
 import { infrastructureDevServerStop as page } from "akasha/command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.ts"
-import { commitNamed } from "akasha/infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
+import { commitNamed } from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 
 export async function infrastructureDevServerStop(
   argv: readonly string[],

@@ -5,7 +5,7 @@ import { throwingAfter } from "akasha/command/modules/answering/command-answerin
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { infrastructureDevServerBootstrap } from "akasha/command/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.code.ts"
-import { wroteEnvSaid } from "akasha/infrastructure/service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
+import { wroteEnvSaid } from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.code.ts"
 
 const REPO = rootOf(import.meta.dir)
 

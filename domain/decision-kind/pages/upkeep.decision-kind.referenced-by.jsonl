@@ -20,8 +20,8 @@
 {"propertySlug":"decision-kind","path":"domain/initiative/initiative.page-type.ts","id":"01a04e58-5735-72b4-b945-56366461c776"}
 {"propertySlug":"decision-kind","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"decision-kind","path":"page/index/modules/settling/index-settling.module.ts","id":"01a08c06-6aac-7a7a-be73-529b101223b1"}
 {"propertySlug":"decision-kind","path":"page/type/page-property/page-property.page-type.ts","id":"01a04dff-9d7d-7459-a8c0-e038dc7714c3"}
 {"propertySlug":"decision-kind","path":"page/type/page-type.page-type.ts","id":"01a049ae-fe2c-7343-8ab6-f94d8927164a"}

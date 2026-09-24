@@ -1,2 +1,2 @@
 {"propertySlug":"parts","path":"infrastructure/job/job.domain.ts","id":"01a0675b-16eb-7759-adf7-dac753ca5b98"}
-{"propertySlug":"service-manifest","path":"infrastructure/service/cluster/pages/pod-janitor/pod-janitor.service-cluster.ts","id":"01a06812-2380-7b30-8877-d7c4a1d5411c"}
+{"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/pod-janitor/pod-janitor.service-cluster.ts","id":"01a06812-2380-7b30-8877-d7c4a1d5411c"}

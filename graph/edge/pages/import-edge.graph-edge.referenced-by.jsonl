@@ -4,5 +4,5 @@
 {"propertySlug":"edges","path":"graph/predicate/pages/imports/imports.graph-predicate.ts","id":"01a0a5ea-a68e-7327-abc8-739b3ff5cb50"}
 {"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.test.ts"}
-{"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"import-edge.graph-edge.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"}
 {"propertySlug":"parts","path":"graph/edge/graph-edge.page-type.ts","id":"01a04fe8-cebd-71d5-a040-d50b202e6eb1"}

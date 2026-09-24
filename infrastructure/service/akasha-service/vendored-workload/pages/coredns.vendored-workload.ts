@@ -1,0 +1,12 @@
+import type { VendoredWorkload } from "akasha/infrastructure/service/akasha-service/vendored-workload/vendored-workload.page-type.types.ts"
+
+export const coredns = {
+  id: "01a068e5-527c-7655-8461-4f81d6b6c236",
+  type: "page-type/vendored-workload",
+  slug: "coredns",
+  title: "CoreDNS",
+  definition: "what answers DNS for names inside the cluster",
+  resourceKind: "Deployment",
+  namespace: "kube-system",
+  resourceName: "coredns",
+} as const satisfies VendoredWorkload

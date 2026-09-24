@@ -24,5 +24,5 @@
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.code.ts"}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/mobile/sim/push-tap/mobile-sim-push-tap.command.test.ts"}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/mobile/testflight-status/mobile-testflight-status.command.code.ts"}
-{"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"infrastructure/service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"}
+{"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-subject-listing/deploy-subject-listing.module.code.ts"}
 {"propertySlug":"parts","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}

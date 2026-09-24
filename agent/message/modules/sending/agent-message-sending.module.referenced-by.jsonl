@@ -11,5 +11,5 @@
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"command/pages/seat/send/seat-send.command.test.ts"}
 {"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-sweeping/orphan-sweeping.module.code.ts"}
-{"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.code.ts"}
+{"propertySlug":"import","fileName":"agent-message-sending.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-watching/service-watching.module.code.ts"}
 {"propertySlug":"parts","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}

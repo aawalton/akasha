@@ -6,7 +6,7 @@ import {
   ran,
   type Said,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { followWithin } from "akasha/infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"
+import { followWithin } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.code.ts"
 import {
   everyOfType,
   listedAt,

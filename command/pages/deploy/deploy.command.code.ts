@@ -77,16 +77,16 @@ import type { Ended } from "akasha/infrastructure/job/modules/cluster-running/cl
 import { ranInCluster } from "akasha/infrastructure/job/modules/deploy-job-running/deploy-job-running.module.code.ts"
 import { inCluster } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"
+import { appliedFoundation } from "akasha/infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"
 import {
   appliedWorkload,
   servableNamed,
-} from "akasha/infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"
-import { appliedFoundation } from "akasha/infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts"
 import {
   notPutUpAt,
   putUpEvery,
-} from "akasha/infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"
-import { provingFor } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts"
+import { provingFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const PUT_UP = "deploy"

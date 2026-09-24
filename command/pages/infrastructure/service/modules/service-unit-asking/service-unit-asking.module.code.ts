@@ -7,9 +7,9 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import { systemctl } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
-import { readFor } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
-import { installedUnitName } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
+import { systemctl } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"
+import { readFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
+import { installedUnitName } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
 
 export type Named = {
   readonly workstationService: string

@@ -10,7 +10,7 @@ export const containerRecipe = {
     "module-property-group/composing",
     "text-property/recipe-repository",
   ],
-  extends: ["page-type/service"],
+  extends: ["page-type/akasha-service"],
   properties: [
     { pageProperty: "file-property/recipe", required: true, many: false },
     { pageProperty: "module-property-group/composing", required: false, many: false },

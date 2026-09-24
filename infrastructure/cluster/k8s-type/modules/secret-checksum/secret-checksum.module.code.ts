@@ -4,7 +4,7 @@ import {
   type SecretPage,
   secretPages,
   secretValueOf,
-} from "akasha/infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/secret/modules/placing/secret-placing.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const WHOLE = "{.data}"

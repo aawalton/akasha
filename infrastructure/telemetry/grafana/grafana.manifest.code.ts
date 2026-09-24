@@ -5,7 +5,7 @@ import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/c
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { placedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
-import { grafana } from "akasha/infrastructure/service/cluster/pages/grafana/grafana.service-cluster.ts"
+import { grafana } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/grafana/grafana.service-cluster.ts"
 
 const NAMESPACE = grafana.namespace
 const SECRETS_NAME = "grafana-secrets"

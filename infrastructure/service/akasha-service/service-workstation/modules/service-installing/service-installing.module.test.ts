@@ -1,0 +1,294 @@
+import { afterAll, expect, test } from "bun:test"
+import { existsSync, lstatSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
+import {
+  installing,
+  linkUnit,
+  ourInstalled,
+  ourStaged,
+  planFor,
+  type Ran,
+  stagingDir,
+  strandedAmong,
+  systemdDir,
+  textFor,
+  unlinkUnit,
+  writeStaged,
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"
+import type { Started } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
+
+const HOME = mkdtempSync("/var/tmp/service-installing-")
+
+afterAll(() => rmSync(HOME, { recursive: true, force: true }))
+
+const BASE = {
+  id: "01a05a51-0000-7000-8000-00000000000b",
+  type: "service-workstation",
+  slug: "held-service",
+  definition: "the service a test writes a unit for",
+  runs: ["bun a.ts"],
+  enabled: true,
+} as const satisfies Started
+
+function pageOf(more: Partial<Started>) {
+  return { service: { ...BASE, ...more }, pagePath: "akasha/a.service-workstation.ts" }
+}
+
+test("an unscheduled service is written one unit and a scheduled one is written two", () => {
+  expect([...textFor(pageOf({})).keys()]).toEqual(["held-service.service"])
+  expect([...textFor(pageOf({ systemd: { schedule: "daily" } })).keys()]).toEqual([
+    "held-service.service",
+    "held-service.timer",
+  ])
+})
+
+test("a service that is to be running is enabled and one that is not is stopped", () => {
+  const on = planFor([pageOf({})], [])
+  expect(on.enable).toEqual(["held-service.service"])
+  expect(on.stop).toEqual([])
+  const off = planFor([pageOf({ enabled: false })], [])
+  expect(off.enable).toEqual([])
+  expect(off.stop).toEqual(["held-service.service"])
+})
+
+test("a service that is not to be running is still written its unit", () => {
+  expect([...planFor([pageOf({ enabled: false })], []).write.keys()]).toEqual([
+    "held-service.service",
+  ])
+})
+
+test("only the timer of a scheduled service is enabled", () => {
+  const plan = planFor([pageOf({ systemd: { schedule: "daily" } })], [])
+  expect(plan.enable).toEqual(["held-service.timer"])
+  expect([...plan.write.keys()].length).toBe(2)
+})
+
+test("the pages service is restarted before any unit that takes its code from it", () => {
+  const plan = planFor(
+    [
+      pageOf({ slug: "apns-push-notifier" }),
+      pageOf({ slug: "page-service" }),
+      pageOf({ slug: "sweep-stray-processes" }),
+    ],
+    [],
+    new Set(["apns-push-notifier", "page-service", "sweep-stray-processes"])
+  )
+  expect(plan.restart).toEqual([
+    "page-service.service",
+    "apns-push-notifier.service",
+    "sweep-stray-processes.service",
+  ])
+})
+
+const SHARED = new Map([["teller@.service", "body"]])
+
+test("a shared unit is written and linked, and is enabled and stopped by nothing", () => {
+  const plan = planFor([pageOf({})], [], new Set(), SHARED)
+  expect([...plan.write.keys()]).toEqual(["teller@.service", "held-service.service"])
+  expect(plan.enable).toEqual(["held-service.service"])
+  expect(plan.stop).toEqual([])
+})
+
+test("a shared unit accounts for itself, so nothing removes it or calls it stranded", () => {
+  const plan = planFor([pageOf({})], ["teller@.service", "gone-away.service"], new Set(), SHARED)
+  expect(plan.remove).toEqual(["gone-away.service"])
+  expect(strandedAmong(["teller@.service", "adrift.service"], [], plan)).toEqual(["adrift.service"])
+})
+
+test("a plan naming no shared unit writes only what its services state", () => {
+  expect([...planFor([pageOf({})], []).write.keys()]).toEqual(["held-service.service"])
+})
+
+test("a unit there that no service accounts for is removed", () => {
+  const plan = planFor([pageOf({})], ["held-service.service", "gone-away.service"])
+  expect(plan.remove).toEqual(["gone-away.service"])
+})
+
+test("a unit a service does account for is not removed", () => {
+  expect(planFor([pageOf({})], ["held-service.service"]).remove).toEqual([])
+})
+
+const LEFT = new Set(["left-service"])
+
+test("a service left alone is written no unit, enabled by nothing and restarted by nothing", () => {
+  const plan = planFor(
+    [pageOf({ slug: "left-service" }), pageOf({})],
+    [],
+    new Set(["left-service", "held-service"]),
+    new Map(),
+    LEFT
+  )
+  expect([...plan.write.keys()]).toEqual(["held-service.service"])
+  expect(plan.enable).toEqual(["held-service.service"])
+  expect(plan.restart).toEqual(["held-service.service"])
+})
+
+test("the unit of a service left alone stays where it is rather than being taken away", () => {
+  const plan = planFor(
+    [pageOf({ slug: "left-service" })],
+    ["left-service.service", "gone-away.service"],
+    new Set(),
+    new Map(),
+    LEFT
+  )
+  expect(plan.remove).toEqual(["gone-away.service"])
+})
+
+test("a unit is written to the staging folder and reached by a link systemd reads", () => {
+  writeStaged(HOME, "y.service", "body")
+  linkUnit(HOME, "y.service")
+  const at = join(systemdDir(HOME), "y.service")
+  expect(lstatSync(at).isSymbolicLink()).toBe(true)
+  expect(realpathSync(at)).toBe(join(realpathSync(stagingDir(HOME)), "y.service"))
+})
+
+test("linking a unit already linked leaves it alone", () => {
+  writeStaged(HOME, "z.service", "body")
+  linkUnit(HOME, "z.service")
+  linkUnit(HOME, "z.service")
+  expect(existsSync(join(systemdDir(HOME), "z.service"))).toBe(true)
+})
+
+test("a link sitting where a unit belongs is replaced rather than refused", () => {
+  writeStaged(HOME, "w.service", "body")
+  writeFileSync(join(systemdDir(HOME), "w.service"), "someone else wrote this")
+  linkUnit(HOME, "w.service")
+  expect(lstatSync(join(systemdDir(HOME), "w.service")).isSymbolicLink()).toBe(true)
+})
+
+test("the units we own are the links pointing into our staging folder", () => {
+  writeFileSync(join(systemdDir(HOME), "theirs.service"), "not ours")
+  const owned = ourInstalled(HOME)
+  expect(owned).toContain("y.service")
+  expect(owned).toContain("z.service")
+  expect(owned).not.toContain("theirs.service")
+})
+
+test("unlinking a unit takes away both the link and the file it named", () => {
+  writeStaged(HOME, "bye.service", "body")
+  linkUnit(HOME, "bye.service")
+  unlinkUnit(HOME, "bye.service")
+  expect(existsSync(join(systemdDir(HOME), "bye.service"))).toBe(false)
+  expect(existsSync(join(stagingDir(HOME), "bye.service"))).toBe(false)
+})
+
+test("nothing is owned where there is no unit folder", () => {
+  expect(ourInstalled(join(HOME, "nowhere"))).toEqual([])
+})
+
+function recorded() {
+  const said: string[] = []
+  const run = (args: readonly string[]): Ran => {
+    said.push(args.join(" "))
+    return { code: 0, out: "" }
+  }
+  return { said, run }
+}
+
+const NOTHING = { write: new Map<string, string>(), enable: [], stop: [], remove: [] }
+
+test("a unit is stopped before that unit is disabled", () => {
+  const { said, run } = recorded()
+  writeStaged(HOME, "off.service", "body")
+  installing(HOME, { ...NOTHING, stop: ["off.service"] }, run)
+  expect(said).toContain("stop off.service")
+  expect(said).toContain("disable off.service")
+  expect(said.indexOf("stop off.service")).toBeLessThan(said.indexOf("disable off.service"))
+  expect(said).not.toContain("disable --now off.service")
+})
+
+test("a service that is not to be running keeps the link akasha reaches it by", () => {
+  const { run } = recorded()
+  writeStaged(HOME, "kept.service", "body")
+  installing(HOME, { ...NOTHING, stop: ["kept.service"] }, run)
+  expect(lstatSync(join(systemdDir(HOME), "kept.service")).isSymbolicLink()).toBe(true)
+})
+
+test("systemd is reloaded again once a link taken away is made again", () => {
+  const { said, run } = recorded()
+  writeStaged(HOME, "again.service", "body")
+  installing(HOME, { ...NOTHING, stop: ["again.service"] }, run)
+  expect(said.filter((one) => one === "daemon-reload").length).toBe(2)
+})
+
+test("nothing stopped means nothing reloaded twice", () => {
+  const { said, run } = recorded()
+  installing(HOME, NOTHING, run)
+  expect(said.filter((one) => one === "daemon-reload").length).toBe(1)
+})
+
+test("a unit no service accounts for is stopped, disabled and then taken away", () => {
+  const { said, run } = recorded()
+  writeStaged(HOME, "gone.service", "body")
+  linkUnit(HOME, "gone.service")
+  installing(HOME, { ...NOTHING, remove: ["gone.service"] }, run)
+  expect(said.indexOf("stop gone.service")).toBeLessThan(said.indexOf("disable gone.service"))
+  expect(existsSync(join(systemdDir(HOME), "gone.service"))).toBe(false)
+  expect(existsSync(join(stagingDir(HOME), "gone.service"))).toBe(false)
+})
+
+test("what is staged that is no unit is weighed as no unit", () => {
+  writeStaged(HOME, "counted.service", "body")
+  writeFileSync(join(stagingDir(HOME), "verdicts.json"), "{}")
+  const staged = ourStaged(HOME)
+  expect(staged).toContain("counted.service")
+  expect(staged).not.toContain("verdicts.json")
+})
+
+test("nothing is staged where there is no staging folder", () => {
+  expect(ourStaged(join(HOME, "nowhere"))).toEqual([])
+})
+
+test("a staged file no link reaches and no service accounts for is stranded", () => {
+  const plan = planFor([pageOf({})], [])
+  const staged = ["held-service.service", "adrift.service", "installed.service"]
+  expect(strandedAmong(staged, ["installed.service"], plan)).toEqual(["adrift.service"])
+})
+
+test("a stranded file is taken away with systemd told to stop and disable nothing", () => {
+  const { said, run } = recorded()
+  writeStaged(HOME, "adrift.service", "body")
+  installing(HOME, { ...NOTHING, strand: ["adrift.service"] }, run)
+  expect(existsSync(join(stagingDir(HOME), "adrift.service"))).toBe(false)
+  expect(said).not.toContain("stop adrift.service")
+  expect(said).not.toContain("disable adrift.service")
+})
+
+test("a plan naming nothing stranded takes no staged file away", () => {
+  const { run } = recorded()
+  writeStaged(HOME, "stays.service", "body")
+  installing(HOME, NOTHING, run)
+  expect(existsSync(join(stagingDir(HOME), "stays.service"))).toBe(true)
+})
+
+test("unlinking names the link and the staged file apart, each after that one has gone", () => {
+  writeStaged(HOME, "apart.service", "body")
+  linkUnit(HOME, "apart.service")
+  const did: string[] = []
+  unlinkUnit(HOME, "apart.service", did)
+  expect(did).toEqual(["unlinked apart.service", "removed apart.service"])
+})
+
+test("a link already pointing where it belongs is answered as a link nothing wrote", () => {
+  writeStaged(HOME, "twice.service", "body")
+  expect(linkUnit(HOME, "twice.service")).toBe(true)
+  expect(linkUnit(HOME, "twice.service")).toBe(false)
+})
+
+test("a unit written is named before the link to it is named rather than after", () => {
+  const { run } = recorded()
+  const did: string[] = []
+  installing(HOME, { ...NOTHING, write: new Map([["fresh.service", "body"]]) }, run, did)
+  expect(did.indexOf("wrote fresh.service")).toBeLessThan(did.indexOf("linked fresh.service"))
+})
+
+test("a unit is named removed after its staged file has gone rather than after a disable", () => {
+  const { run } = recorded()
+  writeStaged(HOME, "away.service", "body")
+  linkUnit(HOME, "away.service")
+  const did: string[] = []
+  installing(HOME, { ...NOTHING, remove: ["away.service"] }, run, did)
+  expect(did).toContain("disabled away.service")
+  expect(did.indexOf("disabled away.service")).toBeLessThan(did.indexOf("removed away.service"))
+  expect(existsSync(join(stagingDir(HOME), "away.service"))).toBe(false)
+})

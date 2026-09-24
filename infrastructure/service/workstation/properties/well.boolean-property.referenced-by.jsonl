@@ -1,5 +1,0 @@
-{"propertySlug":"import","fileName":"well.boolean-property.types.ts","path":"infrastructure/service/cluster/service-cluster.page-type.types.ts"}
-{"propertySlug":"import","fileName":"well.boolean-property.types.ts","path":"infrastructure/service/workstation/service-workstation.page-type.types.ts"}
-{"propertySlug":"page-property","path":"infrastructure/service/cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
-{"propertySlug":"page-property","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
-{"propertySlug":"parts","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

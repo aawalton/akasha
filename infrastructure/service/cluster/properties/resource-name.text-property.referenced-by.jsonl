@@ -1,9 +1,0 @@
-{"propertySlug":"import","fileName":"resource-name.text-property.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-secret.record-property.types.ts"}
-{"propertySlug":"import","fileName":"resource-name.text-property.types.ts","path":"infrastructure/service/cluster/service-cluster.page-type.types.ts"}
-{"propertySlug":"import","fileName":"resource-name.text-property.types.ts","path":"infrastructure/service/secret/properties/placements.record-property.types.ts"}
-{"propertySlug":"import","fileName":"resource-name.text-property.types.ts","path":"infrastructure/service/vendored-workload/vendored-workload.page-type.types.ts"}
-{"propertySlug":"page-property","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-secret.record-property.ts","id":"01a0c68d-9e02-77f4-8789-5bde389bd861"}
-{"propertySlug":"page-property","path":"infrastructure/service/cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
-{"propertySlug":"page-property","path":"infrastructure/service/secret/properties/placements.record-property.ts","id":"01a0765c-3223-7d78-a54c-e8653b46a958"}
-{"propertySlug":"page-property","path":"infrastructure/service/vendored-workload/vendored-workload.page-type.ts","id":"01a068e5-527b-7fd9-b67c-c38bcf39040a"}
-{"propertySlug":"parts","path":"infrastructure/service/cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}

@@ -2,7 +2,7 @@ import { expect, mock, test } from "bun:test"
 import {
   FOLLOWING_ON,
   outcomeOf,
-} from "akasha/infrastructure/service/workstation/modules/run-outcome/run-outcome.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/run-outcome/run-outcome.module.code.ts"
 
 const SITE = "https://alanwalton.com"
 const UNFOLLOWED = "the index folder could not be followed"

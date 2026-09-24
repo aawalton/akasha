@@ -565,9 +565,9 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/track/topic-words/track-topic-words.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/track/weight/track-weight.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/track/weight/track-weight.command.test.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"}
-{"propertySlug":"import","fileName":"calling.module.code.ts","path":"infrastructure/service/workstation/modules/service-putting-up/service-putting-up.module.code.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.code.ts"}

@@ -22,17 +22,17 @@ import {
   IN_CLUSTER_SET,
   NODE_NAME,
 } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
+import { placeSecrets } from "akasha/infrastructure/service/akasha-service/secret/modules/placing/secret-placing.module.code.ts"
 import {
   type Carried,
   carriedByOrigin,
-} from "akasha/infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts"
 import {
   type Plan,
   type Ran,
   runKubectlAwaited,
   runKubectlOnAwaited,
-} from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
-import { placeSecrets } from "akasha/infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 
 export const JOB_NAMESPACE = "workers"
 

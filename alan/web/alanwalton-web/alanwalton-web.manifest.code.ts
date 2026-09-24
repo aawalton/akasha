@@ -19,7 +19,7 @@ import {
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { placedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
-import { alanwaltonWeb } from "akasha/infrastructure/service/cluster/pages/alanwalton-web/alanwalton-web.service-cluster.ts"
+import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/alanwalton-web/alanwalton-web.service-cluster.ts"
 
 const NAMESPACE = alanwaltonWeb.namespace
 const APP_NAME = alanwaltonWeb.resourceName

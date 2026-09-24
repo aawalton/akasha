@@ -68,9 +68,9 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/assignment-itself/assignment-itself.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"domain/context/warrant/initiative-ancestors/initiative-ancestors.context-warrant.code.ts"}
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/inference/modules/inference-reading/inference-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/workstation/modules/run-composing/run-composing.module.code.ts"}
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/access/modules/capture-error/capture-error.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"}

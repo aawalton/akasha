@@ -1,5 +1,5 @@
 import { homedir } from "node:os"
-import { runBinary } from "akasha/infrastructure/service/workstation/modules/binary-running/binary-running.module.code.ts"
+import { runBinary } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/binary-running/binary-running.module.code.ts"
 
 const CLIENT =
   ".steam/steam/steamapps/compatdata/306130/pfx/drive_c/users/steamuser/Documents/Elder Scrolls Online/live/AddOns/TamrielTradeCentre/Client/Client.exe"

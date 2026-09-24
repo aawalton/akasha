@@ -16,9 +16,9 @@ import {
   runningNow,
   stateFor,
   type UnitState,
-} from "akasha/infrastructure/service/workstation/modules/service-health/service-health.module.code.ts"
-import { reachedFor } from "akasha/infrastructure/service/workstation/modules/service-running/service-running.module.code.ts"
-import { SERVICE_SUFFIX } from "akasha/infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-health/service-health.module.code.ts"
+import { reachedFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.code.ts"
+import { SERVICE_SUFFIX } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
 
 export type Running = (done: string[]) => void | Promise<void>
 

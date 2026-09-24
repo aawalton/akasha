@@ -131,11 +131,11 @@
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/pool/modules/cop-admin/cop-admin.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/pool/modules/inference-ssh/inference-ssh.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/cluster/modules/cluster-api-reaching/cluster-api-reaching.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/cluster/modules/loki-log-fetching/loki-log-fetching.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/secret/modules/workstation-secrets/workstation-secrets.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}
-{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/akasha-service/secret/modules/workstation-secrets/workstation-secrets.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-api-reaching/cluster-api-reaching.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/loki-log-fetching/loki-log-fetching.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts"}
+{"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/addon/community/modules/addon-download/addon-download.module.code.ts"}
 {"propertySlug":"import","fileName":"exit-code.module.code.ts","path":"temper/addon/community/modules/addon-download/addon-download.module.test.ts"}

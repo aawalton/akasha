@@ -8,7 +8,7 @@ import {
   kubernetesLabels,
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
-import { tailnetEgress } from "akasha/infrastructure/service/cluster/pages/tailnet-egress/tailnet-egress.service-cluster.ts"
+import { tailnetEgress } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/tailnet-egress/tailnet-egress.service-cluster.ts"
 
 const NAMESPACE = tailnetEgress.namespace
 const APP_NAME = tailnetEgress.resourceName

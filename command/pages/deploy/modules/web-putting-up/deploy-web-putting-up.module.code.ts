@@ -7,6 +7,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { pushBranch } from "akasha/git/modules/pushing/git-pushing.module.code.ts"
+import { DeployRefused } from "akasha/infrastructure/service/akasha-service/secret/modules/placing/secret-placing.module.code.ts"
 import {
   alreadyBuilt,
   buildInPod,
@@ -18,9 +19,9 @@ import {
   livePod,
   type Resolved,
   resolveBuildEnv,
-} from "akasha/infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"
-import { deployableNamed } from "akasha/infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"
-import { placingBetween } from "akasha/infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts"
+import { deployableNamed } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
+import { placingBetween } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts"
 import {
   appliedOf,
   planFor,
@@ -28,8 +29,7 @@ import {
   unfilledOf,
   upAlready,
   writeManifests,
-} from "akasha/infrastructure/service/cluster/modules/workload-deploying/workload-deploying.module.code.ts"
-import { DeployRefused } from "akasha/infrastructure/service/secret/modules/placing/secret-placing.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 
 const SAID = 4
 

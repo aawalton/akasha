@@ -1,0 +1,148 @@
+import { expect, test } from "bun:test"
+import type { Candidate } from "akasha/infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.code.ts"
+import {
+  chosenPastLoaded,
+  deployArgv,
+  EVERY_KIND,
+  endingKept,
+  kindIn,
+  RUNTIME_MAX_SECONDS,
+  SCOPE_END,
+  SCOPE_LEAD,
+  saidOfNoKind,
+  saidOfNothing,
+  saidOfRefusedTree,
+  scopeFor,
+  scopeLoaded,
+} from "akasha/infrastructure/service/akasha-service/modules/deploy-looping/deploy-looping.module.code.ts"
+import type { Running } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-asking/service-asking.module.code.ts"
+
+const NOW = 1_000_000
+
+function candidate(slug: string): Candidate {
+  return {
+    slug,
+    deploying: false,
+    deployedAt: null,
+    deployEndedAt: null,
+    refusedAt: null,
+    cooldownSeconds: 60,
+    dependsOn: [],
+  }
+}
+
+test("a scope is named for the service it puts up", () => {
+  expect(scopeFor("temper-web")).toBe(`${SCOPE_LEAD}temper-web${SCOPE_END}`)
+})
+
+test("a deploy is run from the checkout, under a scope of its own", () => {
+  const root = process.cwd()
+  const argv = deployArgv(root, "temper-web")
+  expect(argv).not.toHaveProperty("refused")
+  const words = argv as readonly string[]
+  expect(words).toContain("--scope")
+  expect(words).toContain(`--unit=${scopeFor("temper-web")}`)
+  expect(words).toContain("deploy")
+  expect(words).toContain("--measured")
+  expect(words).toContain(`--property=RuntimeMaxSec=${RUNTIME_MAX_SECONDS}`)
+  expect(words).toContain("temper-web")
+  expect(words.some((one) => one.startsWith(`${root}/`))).toBe(true)
+  expect(words.some((one) => one.includes("/trees/"))).toBe(false)
+})
+
+test("a tick putting nothing up says how many were weighed, up to date, waiting and running", () => {
+  const said = saidOfNothing(
+    "web-app",
+    [
+      candidate("one"),
+      { ...candidate("two"), deployEndedAt: NOW },
+      { ...candidate("three"), deploying: true },
+    ],
+    NOW,
+    new Map([["one", false]])
+  )
+  expect(said).toContain("web-app")
+  expect(said).toContain("3 services weighed")
+  expect(said).toContain("1 of those up to date")
+  expect(said).toContain("1 waiting out a cooldown")
+  expect(said).toContain("1 with a deploy running")
+})
+
+test("a tick with nothing up to date does not read like a tick with everything up to date", () => {
+  const every = [candidate("one"), candidate("two")]
+  const current = saidOfNothing(
+    "temper-addon",
+    every,
+    NOW,
+    new Map([
+      ["one", false],
+      ["two", false],
+    ])
+  )
+  const stuck = saidOfNothing("temper-addon", every, NOW, new Map())
+  expect(current).toContain("2 of those up to date")
+  expect(stuck).toContain("0 of those up to date")
+  expect(current).not.toBe(stuck)
+})
+
+function showing(state: string): Running {
+  return () => ({ code: 0, out: state })
+}
+
+test("a scope name systemd has loaded is read as taken", () => {
+  expect(scopeLoaded(showing("LoadState=loaded"), "temper-web")).toBe(true)
+  expect(scopeLoaded(showing("LoadState=not-found"), "temper-web")).toBe(false)
+})
+
+test("a service whose scope is loaded with no deploy holding it is named and left", () => {
+  const taken: Running = (args) => ({
+    code: 0,
+    out: args.includes(scopeFor("one")) ? "LoadState=loaded" : "LoadState=not-found",
+  })
+  const past = chosenPastLoaded([candidate("one"), candidate("two")], 0, () => true, taken)
+  expect(past.chosen?.slug).toBe("two")
+  expect(past.said).toHaveLength(1)
+  expect(past.said[0]).toContain(scopeFor("one"))
+  expect(past.said[0]).toContain("no deploy of `one` holding it")
+})
+
+test("a tick whose every scope is loaded puts nothing up and names each", () => {
+  const past = chosenPastLoaded(
+    [candidate("one"), candidate("two")],
+    0,
+    () => true,
+    showing("LoadState=loaded")
+  )
+  expect(past.chosen).toBe(null)
+  expect(past.said).toHaveLength(2)
+})
+
+test("a tree a check refused names the service and carries what the deploy said", () => {
+  const said = saidOfRefusedTree("service-workstation", "commit\t8b14d23b\n72 of 1009 tests failed")
+  expect(said).toContain("service-workstation")
+  expect(said).toContain("72 of 1009 tests failed")
+  expect(said).toContain("this loop is working")
+})
+
+test("a slug the kind lists no subject for keeps no ending", async () => {
+  const kept = await endingKept(process.cwd(), "service-workstation", "no-such-service", "abc123", [
+    "the deploy did not start",
+  ])
+  expect(kept).toEqual([])
+})
+
+test("a kind a deploy puts up is read off the call", () => {
+  expect(kindIn("service-workstation")).toBe("service-workstation")
+  expect(kindIn("web-app")).toBe("web-app")
+})
+
+test("a word that is no kind is read as none", () => {
+  expect(kindIn("page-service")).toBe(null)
+  expect(kindIn(undefined)).toBe(null)
+})
+
+test("a call naming no kind is refused by naming every kind", () => {
+  const said = saidOfNoKind("page-service")
+  expect(said).toContain("page-service")
+  for (const one of EVERY_KIND) expect(said).toContain(one)
+})

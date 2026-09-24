@@ -2,7 +2,7 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-s
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { esoRigImage } from "akasha/infrastructure/eso-rig/image/eso-rig-image.container-recipe.ts"
-import { esoRig } from "akasha/infrastructure/service/cluster/pages/eso-rig/eso-rig.service-cluster.ts"
+import { esoRig } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/eso-rig/eso-rig.service-cluster.ts"
 
 const NAMESPACE = esoRig.namespace
 const APP_NAME = esoRig.resourceName

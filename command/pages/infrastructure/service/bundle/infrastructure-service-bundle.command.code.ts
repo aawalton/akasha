@@ -16,8 +16,8 @@ import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.t
 import {
   bundledFor,
   movedFrom,
-} from "akasha/infrastructure/service/workstation/modules/service-bundling/service-bundling.module.code.ts"
-import { homeAt } from "akasha/infrastructure/service/workstation/modules/service-installing/service-installing.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts"
+import { homeAt } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"
 
 const NO_HOME = "no home directory is stated, so the bundle has nowhere to be written"
 

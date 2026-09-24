@@ -3,8 +3,8 @@ import { roundJoined } from "akasha/check/modules/audit-round/audit-round.module
 import { commitOf } from "akasha/check/modules/audit-serving/audit-serving.module.code.ts"
 import { cleanly, measured } from "akasha/check/modules/audit-verdict/audit-verdict.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
-import { checkoutAt } from "akasha/infrastructure/service/workstation/modules/service-checkout/service-checkout.module.code.ts"
-import { sleptUntilStopped } from "akasha/infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
+import { checkoutAt } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-checkout/service-checkout.module.code.ts"
+import { sleptUntilStopped } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 const AN_HOUR_MS = 3_600_000

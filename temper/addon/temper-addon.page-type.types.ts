@@ -1,5 +1,5 @@
 import type { GitIgnore } from "akasha/code/properties/git-ignore.file-property.types.ts"
-import type { Service } from "akasha/infrastructure/service/service.page-type.types.ts"
+import type { AkashaService } from "akasha/infrastructure/service/akasha-service/akasha-service.page-type.types.ts"
 import type { AddonArtFolder } from "akasha/temper/addon/properties/addon-art-folder.named-folder-property.types.ts"
 import type { AddonBinFolder } from "akasha/temper/addon/properties/addon-bin-folder.named-folder-property.types.ts"
 import type { AddonDdsFile } from "akasha/temper/addon/properties/addon-dds-file.named-extension-property.types.ts"
@@ -14,7 +14,7 @@ import type { EsoInterfaces } from "akasha/temper/addon/properties/eso-interface
 import type { LuaModules } from "akasha/temper/addon/properties/lua-modules.multi-relation-property.types.ts"
 import type { SiblingManifest } from "akasha/temper/addon/properties/sibling-manifest.file-property.types.ts"
 
-export type TemperAddon = Service & {
+export type TemperAddon = AkashaService & {
   addonManifest: AddonManifest
   bundleEntry?: BundleEntry
   bindings?: Bindings

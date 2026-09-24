@@ -14,7 +14,7 @@ import {
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
-import { pagesOriginHere } from "akasha/infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"
+import { pagesOriginHere } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import { akashaHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

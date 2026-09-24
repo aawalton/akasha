@@ -1,5 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
-import { nvidiaDevicePlugin } from "akasha/infrastructure/service/cluster/pages/nvidia-device-plugin/nvidia-device-plugin.service-cluster.ts"
+import { nvidiaDevicePlugin } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/nvidia-device-plugin/nvidia-device-plugin.service-cluster.ts"
 
 const NVIDIA_NAMESPACE = nvidiaDevicePlugin.namespace
 const NVIDIA_DAEMONSET_NAME = nvidiaDevicePlugin.resourceName

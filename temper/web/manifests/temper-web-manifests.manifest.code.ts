@@ -18,7 +18,7 @@ import {
   ORCHESTRATOR_CACHE_REPO_PATH,
   TEMPER_WEB_CACHE,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { temperWeb } from "akasha/infrastructure/service/cluster/pages/temper-web/temper-web.service-cluster.ts"
+import { temperWeb } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/temper-web/temper-web.service-cluster.ts"
 import { ADDON_BUNDLE_IMAGE } from "akasha/temper/web/deploy/addon-bundle-image.ts"
 
 const NAMESPACE = temperWeb.namespace

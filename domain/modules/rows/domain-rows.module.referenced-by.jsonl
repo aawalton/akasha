@@ -4,8 +4,8 @@
 {"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"}
 {"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
-{"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.code.ts"}
-{"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"infrastructure/service/workstation/modules/service-alerting/service-alerting.module.test.ts"}
-{"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"infrastructure/service/workstation/modules/service-telling/service-telling.module.code.ts"}
-{"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.code.ts"}
+{"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-alerting/service-alerting.module.code.ts"}
+{"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-alerting/service-alerting.module.test.ts"}
+{"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-telling/service-telling.module.code.ts"}
+{"propertySlug":"import","fileName":"domain-rows.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-watching/service-watching.module.code.ts"}
 {"propertySlug":"parts","path":"domain/domain.page-type.ts","id":"01a049c8-3ead-7c52-9ab6-88767954ed5f"}

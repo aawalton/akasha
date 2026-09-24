@@ -59,7 +59,7 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"domain/context/modules/warranting/warranting.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"infrastructure/container-image/modules/recipe-page/recipe-page.module.code.ts"}
-{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/index/modules/entries/index-entries.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/index/modules/property-file/property-file.module.code.ts"}
