@@ -77,7 +77,6 @@ export const alanWeb = {
     "module/offline-cache-namespace",
     "module/offline-text",
     "module/offline-text-cache",
-    "module/offline-text-sync",
     "module/page-detail-error-boundary",
     "module/page-detail-loading",
     "module/page-detail-with-read-mark",

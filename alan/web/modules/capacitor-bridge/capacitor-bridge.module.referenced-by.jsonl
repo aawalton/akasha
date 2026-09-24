@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/device-secret-sync/device-secret-sync.module.test.tsx"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/offline-cache-fs/offline-cache-fs.module.code.ts"}
-{"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/push-registration-sync/push-registration-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"capacitor-bridge.module.code.ts","path":"alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"}

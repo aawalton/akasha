@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.code.tsx"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.code.tsx"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/modules/alan-auth-provider/alan-auth-provider.module.test.tsx"}
-{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/modules/offline-text-sync/offline-text-sync.module.code.tsx"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"alan/web/root.tsx"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/cache/modules/use-core-definitions-ready/use-core-definitions-ready.module.code.ts"}
