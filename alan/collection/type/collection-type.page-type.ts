@@ -21,11 +21,6 @@ export const collectionType = {
       decisionKind: "decision-kind/departure",
       statement: "A collection's `type` names the kind.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Six thousand collections of these kinds sit outside akasha and have no page of their own.",
-    },
   ],
   types: "ts",
   schema: "jsonl",

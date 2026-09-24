@@ -91,7 +91,6 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","id":"01a095ed-9005-70e5-8d03-654f10141de7"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road-account/royal-road-account.page-type.ts","id":"01a06838-e8da-73c2-8412-6234b402ec6a"}
-{"propertySlug":"decision-kind","path":"alan/collection/type/collection-type.page-type.ts","id":"01a0680f-6f00-7001-b374-6d2a9f5c6102"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/gmail-mailbox/gmail-mailbox.module.ts","id":"01a0657c-604c-7003-9159-bb1811c11e74"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}
