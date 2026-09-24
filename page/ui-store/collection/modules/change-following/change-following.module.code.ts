@@ -7,11 +7,11 @@ import {
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
-export const SETTLE_MS = 50
+const SETTLE_MS = 50
 
-export const RETRY_MS = 2_000
+const RETRY_MS = 2_000
 
-export const RETRY_CEILING_MS = 60_000
+const RETRY_CEILING_MS = 60_000
 
 export interface Followed {
   readonly pageTypeSlug: string
@@ -67,7 +67,7 @@ export interface StoreFollowing {
   readonly watchPage: (pageTypeSlug: string, id: string, told: () => undefined) => PageWatch
 }
 
-export function streamAt(at: string): StreamLike {
+function streamAt(at: string): StreamLike {
   const source = new EventSource(at)
   return {
     on: (name, heard) => {
@@ -94,7 +94,7 @@ function parsed(data: unknown): Readonly<Record<string, unknown>> | null {
   }
 }
 
-export function streamNamedIn(data: unknown): string | null {
+function streamNamedIn(data: unknown): string | null {
   return textIn(parsed(data)?.stream)
 }
 
