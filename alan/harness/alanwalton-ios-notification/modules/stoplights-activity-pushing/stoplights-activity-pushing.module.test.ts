@@ -3,7 +3,15 @@ import { activityPayload } from "akasha/alan/harness/alanwalton-ios-notification
 
 const CONTENT = {
   upkeep: [
-    { key: "sleep", label: "Sleep", tier: "red", reading: "6.4", nextTier: null, progress: null },
+    {
+      key: "sleep",
+      label: "Sleep",
+      tier: "red",
+      reading: "6.4",
+      nextTier: null,
+      progress: null,
+      readingHeld: null,
+    },
   ],
   inboxes: [],
   attributes: [],

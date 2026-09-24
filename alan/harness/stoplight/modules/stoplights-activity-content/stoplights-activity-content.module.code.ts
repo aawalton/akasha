@@ -15,6 +15,7 @@ export interface ActivityStoplight {
   readonly reading: string | null
   readonly nextTier: string | null
   readonly progress: number | null
+  readonly readingHeld: string | null
 }
 
 export interface StoplightsContent {
@@ -41,6 +42,7 @@ export function stoplightsIn(rows: ActivityRows, wireKey: string): readonly Acti
       reading: textIn(row.reading),
       nextTier: textIn(row.nextTier),
       progress: numberIn(row.progress),
+      readingHeld: textIn(row.readingHeld),
     })
   }
   return held

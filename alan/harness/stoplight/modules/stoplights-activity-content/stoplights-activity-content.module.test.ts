@@ -7,7 +7,15 @@ import {
 
 test("a row is read under the wire key its own group names", () => {
   expect(stoplightsIn([{ inbox: "email", label: "Email", tier: "blue" }], "inbox")).toEqual([
-    { key: "email", label: "Email", tier: "blue", reading: null, nextTier: null, progress: null },
+    {
+      key: "email",
+      label: "Email",
+      tier: "blue",
+      reading: null,
+      nextTier: null,
+      progress: null,
+      readingHeld: null,
+    },
   ])
 })
 
@@ -46,8 +54,16 @@ test("the reading, the next color and the progress are carried where the group s
       reading: "6.4",
       nextTier: "yellow",
       progress: 0.4,
+      readingHeld: null,
     },
   ])
+})
+
+test("a stoplight the group sent with no reading held says so", () => {
+  expect(
+    stoplightsIn([{ habit: "sleep", tier: "black", reading: "", readingHeld: "none" }], "habit")[0]
+      ?.readingHeld
+  ).toBe("none")
 })
 
 test("a reading the group sent empty is carried as nothing", () => {
