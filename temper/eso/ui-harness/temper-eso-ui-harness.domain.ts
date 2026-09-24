@@ -30,5 +30,9 @@ export const temperEsoUiHarness = {
       decisionKind: "decision-kind/departure",
       statement: "A picture here is worked out from the controls rather than rendered by the game.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's matrix and scene-graph Lua declares typed structures, so never loads.",
+    },
   ],
 } as const satisfies Domain
