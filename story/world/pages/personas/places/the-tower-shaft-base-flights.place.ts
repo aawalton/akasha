@@ -20,6 +20,6 @@ export const theTowerShaftBaseFlights = {
   ],
   facts: [
     "The Broken Flights lie in near-total darkness.",
-    "The Broken Flights' only light is the far grey seam and the slabs' dim edge-glow.",
+    "Past any lamp lit there, the Broken Flights' only light is the far grey seam.",
   ],
 } as const satisfies Place

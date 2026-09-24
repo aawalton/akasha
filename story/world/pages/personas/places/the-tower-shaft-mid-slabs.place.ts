@@ -10,13 +10,13 @@ export const theTowerShaftMidSlabs = {
   within: "place/the-tower-floor-04",
   depth: 4,
   description:
-    "The middle of the shaft, where the wall-stair gives out entirely and the only footing is the slabs, hanging still in the dark at the heights where they stopped; crossing means a sequence of leaps between them. Open dark and a long fall on every side, and nothing hunting in it now that the Stalker is dead. The slabs hang close to the central chain here: a single great counterweight-chain running through the shaft's heart, slack now.",
+    "The middle of the shaft, where the wall-stair gives out entirely and the only footing is the slabs, hanging still in the dark at the heights where they stopped, and one narrow ledge where a long-dead climber sits; crossing means a sequence of leaps between them. Open dark and a long fall on every side, and nothing hunting in it now that the Stalker is dead. The slabs hang close to the central chain here: a single great counterweight-chain running through the shaft's heart, slack now.",
   exits: [
     { to: "place/the-tower-shaft-base-flights", way: "down to the broken flights" },
     { to: "place/the-tower-shaft-headworks", way: "up to the headworks at the shaft's top" },
   ],
   facts: [
-    "The Moving Dark is the darkest part of the shaft, reached by no seam light or edge-glow.",
+    "The Moving Dark is the darkest part of the shaft, out of reach of the grey seam's light.",
     "The Moving Dark holds no water.",
   ],
 } as const satisfies Place
