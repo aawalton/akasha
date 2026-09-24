@@ -106,8 +106,12 @@ export const uiHarness = {
       statement: "A name the game's own Lua or a control would hold is never answered with a stub.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "No function the game documents is named in lower case.",
+    },
+    {
       decisionKind: "decision-kind/departure",
-      statement: "A name nothing defines answers nothing, as it does in the game.",
+      statement: "A name starting in lower case answers nothing until something defines it.",
     },
     {
       decisionKind: "decision-kind/departure",
