@@ -5,9 +5,8 @@ export const PLAYER_ANSWERS_ADDON = "TemperCatalog"
 const TOP_LEVEL = /^[A-Za-z_][A-Za-z0-9_]*\s*=/gm
 
 export function playerAnswersSource(file: string): string | null {
-  TOP_LEVEL.lastIndex = 0
   let from: number | null = null
-  for (let found = TOP_LEVEL.exec(file); found !== null; found = TOP_LEVEL.exec(file)) {
+  for (const found of file.matchAll(TOP_LEVEL)) {
     const named = found[0].replace(/\s*=$/, "")
     if (from !== null) return file.slice(from, found.index)
     if (named === PLAYER_ANSWERS_HELD) from = found.index
