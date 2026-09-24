@@ -2,8 +2,6 @@ import { ADDON_NAME } from "akasha/temper/catalog/world/skyshard/modules/skyshar
 import { onLoad as pcOnLoad } from "akasha/temper/catalog/world/skyshard/modules/skyshards-pc-events/skyshards-pc-events.module.code.ts"
 import { registerSlashCommands as registerPcSlashCommands } from "akasha/temper/catalog/world/skyshard/modules/skyshards-pc-slash/skyshards-pc-slash.module.code.ts"
 import { registerStrings } from "akasha/temper/catalog/world/skyshard/modules/skyshards-ui-strings/skyshards-ui-strings.module.code.ts"
-import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function initSkyShards(this: void): undefined {
   registerStrings()

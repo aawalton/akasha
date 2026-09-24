@@ -1,4 +1,2 @@
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/agent-tree-panel/agent-tree-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/seat-page-opening/seat-page-opening.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"vscode-api.type-declaration.d.ts","path":"code/editor/extension/modules/seat-plan-running/seat-plan-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}

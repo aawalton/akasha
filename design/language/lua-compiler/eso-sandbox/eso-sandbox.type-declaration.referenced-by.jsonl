@@ -84,7 +84,6 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/ui/component/modules/view-settings-options/view-settings-options.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/ui/markdown/modules/remark-mentions/remark-mentions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"page/url-property/url-property.page-type.property-badge-component.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"person/modules/sms-opt-in/sms-opt-in.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-api-test/catalog-api-test.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-collect-adapters/catalog-collect-adapters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"temper/addon/pages/catalog/modules/catalog-entry/catalog-entry.module.code.ts","typed":false,"deferred":false}

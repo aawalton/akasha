@@ -5,7 +5,6 @@ import * as luaExpressions from "akasha/design/language/lua-compiler/modules/lua
 import { getSymbolInfo } from "akasha/design/language/lua-compiler/modules/symbols/symbols.module.code.ts"
 import { findFirstNodeAbove } from "akasha/design/language/lua-compiler/modules/typescript/typescript.module.code.ts"
 import * as ts from "typescript"
-import "akasha/design/language/lua-compiler/typescript-internals/typescript-internals.type-declaration.d.ts"
 
 export function hasDefaultExportModifier(node: ts.Node): boolean {
   return (

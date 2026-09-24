@@ -607,7 +607,6 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-skill-panel/skyshards-pc-skill-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-slash/skyshards-pc-slash.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-start/skyshards-start.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-ui-strings/skyshards-ui-strings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/items/filters/addon/modules/panel-filter-binding/panel-filter-binding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/modules/perf-trace/perf-trace.module.code.ts","typed":false,"deferred":false}
