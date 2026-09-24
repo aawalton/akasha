@@ -6,7 +6,10 @@ export const imagineDragonsItSTimeRemixesItsTimeJailbreaksRemix = {
   slug: "imagine-dragons-it-s-time-remixes-its-time-jailbreaks-remix",
   ownLength: 4.432,
   ownProgress: 4.432,
-  partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
+  partOfCollections: [
+    "release/imagine-dragons-it-s-time-remixes",
+    "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "It's Time - JailBreaks Remix",
@@ -22,6 +25,13 @@ export const imagineDragonsItSTimeRemixesItsTimeJailbreaksRemix = {
       position: 3,
       externalId: "6InHoevC1UiGD9gNyJvX8i",
       externalLink: "https://open.spotify.com/track/6InHoevC1UiGD9gNyJvX8i",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 13,
+      externalId: "0jY4nk2qpEtkyriHB8UiGV",
+      externalLink: "https://open.spotify.com/track/0jY4nk2qpEtkyriHB8UiGV",
     },
   ],
 } as const satisfies Track

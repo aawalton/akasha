@@ -6,7 +6,10 @@ export const imagineDragonsItSTimeRemixesItsTimeStungunJailbreaksRemix = {
   slug: "imagine-dragons-it-s-time-remixes-its-time-stungun-jailbreaks-remix",
   ownLength: 5.102666666666667,
   ownProgress: 5.102666666666667,
-  partOfCollections: ["release/imagine-dragons-it-s-time-remixes"],
+  partOfCollections: [
+    "release/imagine-dragons-it-s-time-remixes",
+    "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+  ],
   status: "completed",
   unit: "unit/minutes",
   title: "It's Time - StunGun & JailBreaks Remix",
@@ -22,6 +25,13 @@ export const imagineDragonsItSTimeRemixesItsTimeStungunJailbreaksRemix = {
       position: 4,
       externalId: "6zIdBuEa61EckkoJqSeYfc",
       externalLink: "https://open.spotify.com/track/6zIdBuEa61EckkoJqSeYfc",
+    },
+    {
+      release: "release/imagine-dragons-night-visions-expanded-edition-super-deluxe",
+      discNumber: 4,
+      position: 14,
+      externalId: "6fUr0D8XD4MNckBiqoWRyS",
+      externalLink: "https://open.spotify.com/track/6fUr0D8XD4MNckBiqoWRyS",
     },
   ],
 } as const satisfies Track
