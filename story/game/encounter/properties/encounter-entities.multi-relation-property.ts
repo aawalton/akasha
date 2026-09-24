@@ -10,7 +10,7 @@ export const encounterEntities = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An entity met in two encounters is one page named twice.",
+      statement: "A character met in two encounters is one page named twice.",
     },
   ],
   types: "ts",

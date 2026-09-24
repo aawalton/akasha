@@ -37,7 +37,7 @@ export const gameEncounter = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An encounter names the entities in it rather than holding their sheets.",
+      statement: "An encounter names the characters in it rather than holding their sheets.",
     },
     {
       decisionKind: "decision-kind/departure",
