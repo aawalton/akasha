@@ -424,6 +424,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/metric/metric.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/trait/character-trait/character-trait.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/trait/trait.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/place/place.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/story.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/turn/turn.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/builds/story-build.page-type.ts"}

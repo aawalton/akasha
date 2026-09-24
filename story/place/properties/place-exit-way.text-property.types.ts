@@ -1,0 +1,1 @@
+export type PlaceExitWay = string
