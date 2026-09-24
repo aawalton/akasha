@@ -130,11 +130,7 @@ export const inventoryRuleCalling = {
       decisionKind: "decision-kind/departure",
       statement: "The rule store this module reads through is in akasha.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The web fields win in a write and lose in a change, by the order they are spread.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here prints.",
