@@ -2,6 +2,10 @@ import {
   idFrom,
   linkFrom,
 } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import {
+  type RunCounts,
+  recordingRun,
+} from "akasha/alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts"
 import type { RawChapter } from "akasha/alan/collection/royal-road/modules/pages/royal-road-pages.module.code.ts"
 import {
   fetchHtml,
@@ -48,6 +52,7 @@ const IDENTITY = "externalIdentity"
 const REQUEST_DELAY_MS = 1500
 const POSITION_DIGITS = 4
 const BATCH_CEILING = 50
+const COMMIT = "--commit"
 
 type Put = Extract<Asking, { at: typeof PUT | typeof RESTATE }>
 
@@ -365,20 +370,13 @@ export async function landInBatches(filing: readonly Filed[], counts: Counts): P
   }
 }
 
-export async function main(argv: readonly string[]): Promise<number> {
+async function syncRoyalRoad(argv: readonly string[]): Promise<RunCounts> {
   const only = argv.includes("--story") ? argv[argv.indexOf("--story") + 1] : undefined
   const limitRaw = argv.includes("--limit") ? argv[argv.indexOf("--limit") + 1] : undefined
   const budget = { left: limitRaw === undefined ? Number.MAX_SAFE_INTEGER : Number(limitRaw) }
 
-  let stories: readonly Story[]
-  let held: Held
-  try {
-    stories = readStories(only)
-    held = heldChapters()
-  } catch (error) {
-    console.log(`royal road sync: ${String(error)}`)
-    return 1
-  }
+  const stories = readStories(only)
+  const held = heldChapters()
   console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
   const counts: Counts = {
     composed: 0,
@@ -402,7 +400,7 @@ export async function main(argv: readonly string[]): Promise<number> {
 
   if (filing.length === 0) {
     console.log("nothing to land")
-  } else if (argv.includes("--commit")) {
+  } else if (argv.includes(COMMIT)) {
     await landInBatches(filing, counts)
   } else {
     console.log(`${filing.length} page(s) composed and not landed; --commit lands them`)
@@ -415,7 +413,23 @@ export async function main(argv: readonly string[]): Promise<number> {
       `skipped ${counts.skipped} over budget, ${counts.failed} failed, ${counts.refused} refused, ` +
       `${counts.unworlded} unrestated for no world`
   )
-  return counts.refused > 0 || counts.failed > 0 || counts.unworlded > 0 ? 1 : 0
+  return {
+    created: counts.composed,
+    updated: counts.restated,
+    skipped: counts.skipped,
+    failed: counts.failed + counts.refused + counts.unworlded,
+  }
+}
+
+export async function main(argv: readonly string[]): Promise<number> {
+  const syncing = (): Promise<RunCounts> => syncRoyalRoad(argv)
+  try {
+    const counts = argv.includes(COMMIT) ? await recordingRun(SOURCE, syncing) : await syncing()
+    return counts.failed > 0 ? 1 : 0
+  } catch (error) {
+    console.log(`royal road sync: ${String(error)}`)
+    return 1
+  }
 }
 
 if (import.meta.main) process.exit(await main(process.argv.slice(2)))

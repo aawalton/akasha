@@ -139,5 +139,14 @@ export const royalRoadSyncing = {
       decisionKind: "decision-kind/departure",
       statement: "A run that failed a chapter is a failed run however much else that run composed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run asked to commit is recorded against the royal road sync.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A story left unrestated for want of a world fails the run as a failed chapter does.",
+    },
   ],
 } as const satisfies Module
