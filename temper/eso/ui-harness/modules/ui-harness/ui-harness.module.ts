@@ -61,6 +61,10 @@ export const uiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller reads which controls' initializers raised, and what each raised.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A bundle is loaded so that one module of that bundle is reached afterwards.",
     },
     {

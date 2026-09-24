@@ -166,6 +166,7 @@ export type UiHarness = {
   readonly snapshot: (name?: string) => Promise<UiControl | null>
   readonly names: () => Promise<readonly string[]>
   readonly unmodelled: () => Promise<Readonly<Record<string, number>>>
+  readonly unmade: () => Promise<Readonly<Record<string, string>>>
   readonly fire: (name: string, event: string, ...args: readonly unknown[]) => Promise<boolean>
   readonly raise: (event: string, ...args: readonly unknown[]) => Promise<number>
   readonly settle: (rounds?: number) => Promise<number>
@@ -212,6 +213,11 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
       const answered = await vm.doString("return __ui_unmodelled()")
       if (Array.isArray(answered)) return {}
       return z.record(z.string(), z.number()).parse(answered)
+    },
+    async unmade(): Promise<Readonly<Record<string, string>>> {
+      const answered = await vm.doString("return __ui_unmade()")
+      if (Array.isArray(answered)) return {}
+      return z.record(z.string(), z.string()).parse(answered)
     },
     async fire(name, event, ...args): Promise<boolean> {
       const passed = args.map((arg) => marshalLuaValue(arg)).join(", ")

@@ -119,6 +119,11 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "What such a handler raised is kept under the control's name, so one load finds them all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control the game makes that an addon extends is made here under the screen.",
     },
     {

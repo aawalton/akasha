@@ -23,6 +23,7 @@ local named = {}
 local everyControl = {}
 local unmodelled = {}
 local virtuals = {}
+local unmade = {}
 
 local Control = {}
 
@@ -96,7 +97,10 @@ dress = function(control, spec)
       control.uiHandlers[event] = made
     end
     local first = spec.handlers.OnInitialized
-    if first ~= nil then pcall(first, control) end
+    if first ~= nil then
+      local ok, thrown = pcall(first, control)
+      if not ok then unmade[control.uiName or ""] = tostring(thrown) end
+    end
   end
   return control
 end
@@ -424,6 +428,12 @@ end
 function _G.__ui_unmodelled()
   local found = {}
   for name, count in pairs(unmodelled) do found[name] = count end
+  return found
+end
+
+function _G.__ui_unmade()
+  local found = {}
+  for name, thrown in pairs(unmade) do found[name] = thrown end
   return found
 end
 
