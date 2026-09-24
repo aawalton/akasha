@@ -120,6 +120,18 @@ function escaped(text: string): string {
     .replace(/"/g, "&quot;")
 }
 
+const MARKUP: readonly (readonly [RegExp, string])[] = [
+  [/\|u[^:|]*:[^:|]*:[^:|]*:([^|]*)\|u/g, "$1"],
+  [/\|H[^|]*\|h([^|]*)\|h/g, "$1"],
+  [/\|t[^|]*\|t/g, ""],
+  [/\|c[0-9a-fA-F]{6}/g, ""],
+  [/\|r/g, ""],
+]
+
+function shownText(text: string): string {
+  return MARKUP.reduce((held, [shape, kept]) => held.replace(shape, kept), text)
+}
+
 function asCss(color: UiColor): string {
   const [red = 1, green = 1, blue = 1, opacity = 1] = color
   return `rgba(${Math.round(red * FULL)}, ${Math.round(green * FULL)}, ${Math.round(blue * FULL)}, ${opacity})`
@@ -187,7 +199,7 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
     const down = ALIGN_DOWN[one.alignV ?? downBy ?? 0] ?? START
     const laid = `display:flex;justify-content:${across};align-items:${down};`
     const type = `font-family:${face.family};font-weight:${face.weight};font-size:${face.size}px;line-height:${face.size + LINE_OVER_SIZE}px;`
-    return `<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${laid}${framed}">${escaped(one.text ?? "")}</div>`
+    return `<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${laid}${framed}">${escaped(shownText(one.text ?? ""))}</div>`
   }
   if (one.controlType === CT_TEXTURE) {
     const named = one.texture

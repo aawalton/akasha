@@ -67,6 +67,15 @@ export const uiPicture = {
       statement: "A label laid out with no size is drawn as wide and tall as its text.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The game's markup inside text is drawn as the words it wraps, and its codes are dropped.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "An icon or a color the markup asks for is left out rather than drawn.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A test lane has a home of its own, and no browser is installed under that home.",
     },
