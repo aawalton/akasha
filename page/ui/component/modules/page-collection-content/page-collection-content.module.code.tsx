@@ -45,11 +45,16 @@ export function PageTitleRow({
   isFavorite: boolean
 }) {
   return (
-    <div className="flex items-start justify-between gap-2">
+    <div className="flex items-center justify-between gap-2">
       <h1 className="font-semibold text-2xl text-primary leading-tight">
         {expandDateMentions(title)}
       </h1>
-      <PageDetailHeaderMenu pageTypeSlug={pageTypeSlug} pageId={id} isFavorite={isFavorite} />
+      <PageDetailHeaderMenu
+        pageTypeSlug={pageTypeSlug}
+        pageId={id}
+        isFavorite={isFavorite}
+        size="icon"
+      />
     </div>
   )
 }

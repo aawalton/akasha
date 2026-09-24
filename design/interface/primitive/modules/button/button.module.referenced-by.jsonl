@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"page/ui/block-editor/modules/block-accessory-bar/block-accessory-bar.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"page/ui/component/modules/create-page-dialog/create-page-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"page/ui/component/modules/create-view-popover/create-view-popover.module.code.tsx"}
+{"propertySlug":"import","fileName":"button.module.code.tsx","path":"page/ui/component/modules/page-actions-menu/page-actions-menu.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"page/ui/component/modules/page-calendar/page-calendar.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"page/ui/component/modules/page-cover/page-cover.module.code.tsx"}

@@ -11,12 +11,14 @@ interface PageDetailHeaderMenuProps {
   pageTypeSlug: PageTypeSlug
   pageId: string
   isFavorite: boolean
+  size?: "row" | "icon"
 }
 
 export function PageDetailHeaderMenu({
   pageTypeSlug,
   pageId,
   isFavorite,
+  size,
 }: PageDetailHeaderMenuProps) {
   const setProperty = useSetPropertyOptimistic()
   const runDelete = useOptimisticDeletePage((args) => deletePage(args))
@@ -24,6 +26,7 @@ export function PageDetailHeaderMenu({
 
   return (
     <PageActionsMenu
+      size={size}
       isFavorite={isFavorite}
       onToggleFavorite={() =>
         setProperty({
