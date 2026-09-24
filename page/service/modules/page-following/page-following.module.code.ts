@@ -5,8 +5,10 @@ import {
   type Listed,
   listedAt,
   listedById,
+  readingIn,
   slugFoldersOf,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   partedIn,
   uncommittedAt,
@@ -14,7 +16,7 @@ import {
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   COMPUTED,
-  carriedFor,
+  carriedBeside,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import {
   type Kept,
@@ -219,23 +221,16 @@ export function heardOf(
   ]
 }
 
-function readsFor(
-  root: string,
-  kind: string,
-  slugs: ReadonlySet<string> | null,
-  keeping: Map<string, Set<string>>
-): readonly Heard[] {
-  const found: Heard[] = []
-  for (const one of carriedFor(root, kind)) {
+type Keep = { readonly at: string; readonly kept: Kept }
+
+function keepsOf(root: string, reading: Reading, kind: string): readonly Keep[] {
+  const found: Keep[] = []
+  for (const one of carriedBeside(reading, kind) ?? []) {
     if (one.pageTypeSlug !== COMPUTED) continue
-    const page = listedAt(root, COMPUTED, one.pagePropertySlug)[0]
-    const kept = page === undefined ? null : uncommittedAt(page.path)
-    if (page === undefined || kept === null) continue
-    const folder = dirname(join(root, kept))
-    const names = keeping.get(folder) ?? new Set<string>()
-    names.add(basename(kept))
-    keeping.set(folder, names)
-    found.push(...heardOf(root, kind, slugs, keptIn(uncommittedIn(root, page.path))))
+    const page = listedAt(reading, COMPUTED, one.pagePropertySlug)[0]
+    const at = page === undefined ? null : uncommittedAt(page.path)
+    if (page === undefined || at === null) continue
+    found.push({ at, kept: keptIn(uncommittedIn(root, page.path)) })
   }
   return found
 }
@@ -245,11 +240,21 @@ export function plannedFor(root: string, helds: readonly Held[]): Planned {
   const listed = new Map<string, string>()
   const read: Heard[] = []
   const keeping = new Map<string, Set<string>>()
+  const reading = readingIn(root)
+  const keeps = new Map<string, readonly Keep[]>()
   for (const held of helds) {
     for (const kind of held.kinds) {
       for (const one of pagesOf(root, kind, held.slugs)) pages.add(dirname(join(root, one.path)))
       try {
-        read.push(...readsFor(root, kind, held.slugs, keeping))
+        const kept = keeps.get(kind) ?? keepsOf(root, reading, kind)
+        keeps.set(kind, kept)
+        for (const one of kept) {
+          const folder = dirname(join(root, one.at))
+          const names = keeping.get(folder) ?? new Set<string>()
+          names.add(basename(one.at))
+          keeping.set(folder, names)
+          read.push(...heardOf(root, kind, held.slugs, one.kept))
+        }
       } catch {}
       if (held.slugs !== null) continue
       for (const at of slugFoldersOf(root, kind)) listed.set(join(root, at), kind)

@@ -100,11 +100,16 @@ function schemaFiled(reading: Reading, pageTypeSlug: string): string | null {
   return at === null ? null : reading.read(at)
 }
 
+export function carriedBeside(
+  given: string | Reading,
+  pageTypeSlug: string
+): readonly Carried[] | null {
+  const body = schemaFiled(readingIn(given), pageTypeSlug)
+  return body === null ? null : carryingEach(body.split("\n")).map(carriedOf)
+}
+
 export function carriedFor(given: string | Reading, pageTypeSlug: string): readonly Carried[] {
-  const reading = readingIn(given)
-  const body = schemaFiled(reading, pageTypeSlug)
-  if (body === null) return propertiesFrom(pageTypeSlug, sourceFor(given))
-  return carryingEach(body.split("\n")).map(carriedOf)
+  return carriedBeside(given, pageTypeSlug) ?? propertiesFrom(pageTypeSlug, sourceFor(given))
 }
 
 export function pagesOfType(
