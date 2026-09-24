@@ -5244,7 +5244,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-craft-bag-types/inventory-craft-bag-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-currencies/inventory-currencies.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-database-schema/inventory-database-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-display-value/inventory-display-value.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.ts"}

@@ -6,7 +6,13 @@ export const inventoryTypes = {
   slug: "inventory-types",
   definition: "what an inventory has and the item numbers the game gives",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An inventory's shape and a zod shape in this module's test are held equal at typecheck.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "An item carries the game's junk state as `junk` and `junkable`.",

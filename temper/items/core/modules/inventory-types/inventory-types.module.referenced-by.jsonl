@@ -22,12 +22,12 @@
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/compute-item-stock/compute-item-stock.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-currencies/inventory-currencies.module.code.ts"}
-{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-database-schema/inventory-database-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-net-worth/inventory-net-worth.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-parser-inference/inventory-parser-inference.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-types/inventory-types.module.test.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/inventory-value/inventory-value.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"}

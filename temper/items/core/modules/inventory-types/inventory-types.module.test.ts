@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
@@ -115,4 +116,8 @@ const inventoryDatabaseSchema = z
   })
   .strict()
 
-assertSchemaMatchesPayload<typeof inventoryDatabaseSchema, InventoryDatabase>()
+test("the inventory database schema infers exactly the inventory database shape", () => {
+  expect(
+    assertSchemaMatchesPayload<typeof inventoryDatabaseSchema, InventoryDatabase>()
+  ).toBeUndefined()
+})

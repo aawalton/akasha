@@ -22,7 +22,6 @@ export const temperItemsCore = {
     "module/inventory-craft-bag-types",
     "module/inventory-currencies",
     "module/inventory-currency-data",
-    "module/inventory-database-schema",
     "module/inventory-display-value",
     "module/inventory-grouping",
     "module/inventory-grouping-types",
