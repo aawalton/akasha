@@ -3,14 +3,8 @@
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/atlas-web/routes/atlas-map/atlas-map.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/atlas-web/routes/atlas-search/atlas-search.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/about/about.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/alan-web-home/alan-web-home.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/alan-web-landing/alan-web-landing.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/alan-web-principles/alan-web-principles.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/alan-web-privacy/alan-web-privacy.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/alan-web-services/alan-web-services.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"alan/web/routes/alan-web-sms/alan-web-sms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"design/interface/system/modules/design-system-page-content/design-system-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-layout.module.code.tsx","path":"infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx","typed":false,"deferred":false}

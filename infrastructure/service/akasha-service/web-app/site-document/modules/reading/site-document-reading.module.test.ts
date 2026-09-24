@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { drawnFrom } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import {
+  drawnFrom,
+  metaOf,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 
 test("a site document is drawn from its title, lead and sections in order", () => {
   const drawn = drawnFrom({
@@ -21,6 +24,19 @@ test("a site document is drawn from its title, lead and sections in order", () =
       { anchor: "what", title: "What", lead: "Texts.", text: "Messages." },
     ],
   })
+})
+
+test("a site document's title is followed by its site's name where the route names one", () => {
+  const drawn = drawnFrom({ slug: "terms", title: "Terms", description: "The terms." })
+  expect(metaOf(drawn, "Alan Walton")).toEqual([
+    { title: "Terms — Alan Walton" },
+    { name: "description", content: "The terms." },
+  ])
+  expect(metaOf(drawn, null)).toEqual([
+    { title: "Terms" },
+    { name: "description", content: "The terms." },
+  ])
+  expect(metaOf(undefined, null)).toEqual([])
 })
 
 test("a section naming no anchor is not drawn", () => {

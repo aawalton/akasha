@@ -1,11 +1,5 @@
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/about/about.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-landing/alan-web-landing.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-principles/alan-web-principles.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-privacy/alan-web-privacy.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-services/alan-web-services.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"alan/web/routes/alan-web-sms/alan-web-sms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/pattern/modules/input-panel-card/input-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/system/modules/borders/borders.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-card.module.code.tsx","path":"design/interface/system/modules/brand-heart/brand-heart.module.code.tsx","typed":false,"deferred":false}

@@ -1,54 +1,28 @@
-import { PageTitle } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
+import { SiteDocumentDrawing } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx"
+import {
+  metaOf,
+  SITE_DOCUMENT,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 
-const EMAIL_LINK_HTML =
-  '<!--email_off--><a class="text-accent underline" href="mailto:alan@alanwalton.com">alan@alanwalton.com</a><!--/email_off-->'
+const WEB_APP = namedAs("web-app", alanwaltonWeb.slug, null)
 
-export function meta() {
-  return [
-    { title: "Contact — Alan Walton" },
-    {
-      name: "description",
-      content: "Contact Alan Walton — email and business address.",
-    },
-  ]
+const READ = [SITE_DOCUMENT]
+
+export async function loader() {
+  return { document: await siteDocumentAt(WEB_APP, "contact") }
 }
 
-export default function ContactRoute() {
-  return (
-    <main className="mx-auto w-full max-w-3xl px-6 py-12">
-      <div className="space-y-6">
-        <header className="space-y-2">
-          <PageTitle>Contact</PageTitle>
-          <p className="text-secondary text-sm">
-            Reach Alan Walton by email, or write to the business address below.
-          </p>
-        </header>
+type ContactLoaderData = Awaited<ReturnType<typeof loader>>
 
-        <PanelCard id="contact" title="Contact information">
-          <ul className="space-y-2 text-secondary text-sm">
-            <li>
-              Email: <span dangerouslySetInnerHTML={{ __html: EMAIL_LINK_HTML }} />
-            </li>
-            <li>
-              Business address:{" "}
-              <address className="inline not-italic">1350 Apple Ave, Provo, UT 84604</address>
-            </li>
-          </ul>
-        </PanelCard>
+export function meta({ data }: { data: ContactLoaderData | undefined }) {
+  return metaOf(data?.document, "Alan Walton")
+}
 
-        <PanelCard id="messaging" title="Messaging opt-out">
-          <p className="text-secondary text-sm">
-            If you receive texts from the Amy assistant line, reply <strong>STOP</strong> at any
-            time to opt out, or <strong>HELP</strong> for help. Full messaging terms and privacy
-            details are at{" "}
-            <a href="/sms" className="text-accent underline">
-              alanwalton.com/sms
-            </a>
-            .
-          </p>
-        </PanelCard>
-      </div>
-    </main>
-  )
+export default function ContactRoute({ loaderData }: { loaderData: ContactLoaderData }) {
+  useLoaderFollowing(READ)
+  return <SiteDocumentDrawing document={loaderData.document} />
 }

@@ -15,5 +15,13 @@ export const siteDocumentDrawing = {
       decisionKind: "decision-kind/departure",
       statement: "A section's card carries the section's anchor, so a link can reach that card.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An email address is drawn as the HTML Cloudflare serves leaves it readable.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A route may draw a piece of its own beneath a section's text, as a form is.",
+    },
   ],
 } as const satisfies Module

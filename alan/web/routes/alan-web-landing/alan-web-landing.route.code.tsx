@@ -1,71 +1,30 @@
 import { redirectSignedInHome } from "akasha/alan/web/modules/signed-in-redirect/signed-in-redirect.module.code.ts"
-import { PageTitle } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
-import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
-import { Link } from "react-router"
+import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
+import { SiteDocumentDrawing } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx"
+import {
+  metaOf,
+  SITE_DOCUMENT,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 
-export function meta() {
-  return [
-    { title: "Alan Walton" },
-    {
-      name: "description",
-      content:
-        "Alan Walton — sole proprietor operating a personal-assistant service, including the Amy SMS text line for scheduling, reminders, and coordination.",
-    },
-  ]
-}
+const WEB_APP = namedAs("web-app", alanwaltonWeb.slug, null)
+
+const READ = [SITE_DOCUMENT]
 
 export async function loader({ request }: { request: Request }) {
-  return redirectSignedInHome(request)
+  await redirectSignedInHome(request)
+  return { document: await siteDocumentAt(WEB_APP, "") }
 }
 
-const PAGES = [
-  { to: "/about", label: "About" },
-  { to: "/services", label: "Services" },
-  { to: "/sms", label: "Messaging & SMS opt-in" },
-  { to: "/contact", label: "Contact" },
-  { to: "/privacy", label: "Privacy" },
-  { to: "/terms", label: "Terms" },
-] as const
+type LandingLoaderData = Awaited<ReturnType<typeof loader>>
 
-export default function LandingRoute() {
-  return (
-    <main className="mx-auto w-full max-w-3xl px-6 py-12">
-      <div className="space-y-6">
-        <header className="space-y-2">
-          <PageTitle>Alan Walton</PageTitle>
-          <p className="text-secondary text-sm">
-            Alan Walton is a sole proprietor operating a personal-assistant service. The service
-            includes <strong>Amy</strong>, an SMS text line used for scheduling, reminders, and
-            day-to-day coordination with the people he works with.
-          </p>
-        </header>
+export function meta({ data }: { data: LandingLoaderData | undefined }) {
+  return metaOf(data?.document, null)
+}
 
-        <PanelCard id="what-we-do" title="What we do">
-          <div className="space-y-3">
-            <Heading variant="subsection-accent">
-              A personal-assistant service for scheduling, reminders, and coordination.
-            </Heading>
-            <p className="text-secondary text-sm">
-              Amy sends two-way, conversational text messages on Alan Walton&rsquo;s behalf to
-              coordinate with people who have opted in. It is not a marketing service and not a
-              bulk-messaging service.
-            </p>
-          </div>
-        </PanelCard>
-
-        <PanelCard id="more" title="More information">
-          <ul className="space-y-1 text-sm">
-            {PAGES.map((page) => (
-              <li key={page.to}>
-                <Link to={page.to} className="text-accent underline">
-                  {page.label}
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </PanelCard>
-      </div>
-    </main>
-  )
+export default function LandingRoute({ loaderData }: { loaderData: LandingLoaderData }) {
+  useLoaderFollowing(READ)
+  return <SiteDocumentDrawing document={loaderData.document} />
 }

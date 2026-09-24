@@ -1,4 +1,10 @@
 {"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/modules/alan-app-id/alan-app-id.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/routes/about/about.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/routes/alan-web-landing/alan-web-landing.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/routes/alan-web-privacy/alan-web-privacy.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/routes/alan-web-services/alan-web-services.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/routes/alan-web-sms/alan-web-sms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanwalton-web.web-app.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"nav-app","path":"page/nav/pages/games.nav.ts","id":"01a0d443-f38f-791a-a03f-dbcba8b25f2b"}
@@ -6,4 +12,10 @@
 {"propertySlug":"nav-app","path":"page/nav/pages/tasks.nav.ts","id":"01a06577-2613-7018-84f7-f596a7242626"}
 {"propertySlug":"nav-app","path":"page/nav/pages/temper-tasks.nav.ts","id":"01a06577-2613-701c-9a56-98ee3786d7a2"}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
+{"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-about.site-document.ts","id":"01a0d5b4-244d-7472-b127-0bab532e4503"}
+{"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-contact.site-document.ts","id":"01a0d5b4-244e-7a0f-a866-cd877430b68b"}
+{"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-landing.site-document.ts","id":"01a0d5b4-244e-7cae-b50b-9d233d6a6511"}
+{"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-privacy.site-document.ts","id":"01a0d5b4-244e-74b4-ae00-843ddef52402"}
+{"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-services.site-document.ts","id":"01a0d5b4-244e-792c-bdfb-b9266035d384"}
+{"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-sms.site-document.ts","id":"01a0d5b4-244e-7435-bbe2-618c77f42256"}
 {"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-terms.site-document.ts","id":"01a0d5ab-cd7e-704a-8836-df584c5a49e2"}

@@ -1,67 +1,28 @@
-import { PageTitle } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
-import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
+import { SiteDocumentDrawing } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx"
+import {
+  metaOf,
+  SITE_DOCUMENT,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 
-export function meta() {
-  return [
-    { title: "Services — Alan Walton" },
-    {
-      name: "description",
-      content:
-        "The Amy personal-assistant messaging service — two-way SMS for scheduling, reminders, and coordination.",
-    },
-  ]
+const WEB_APP = namedAs("web-app", alanwaltonWeb.slug, null)
+
+const READ = [SITE_DOCUMENT]
+
+export async function loader() {
+  return { document: await siteDocumentAt(WEB_APP, "services") }
 }
 
-export default function ServicesRoute() {
-  return (
-    <main className="mx-auto w-full max-w-3xl px-6 py-12">
-      <div className="space-y-6">
-        <header className="space-y-2">
-          <PageTitle>Services</PageTitle>
-          <p className="text-secondary text-sm">
-            The service Alan Walton offers is a personal-assistant text line, branded{" "}
-            <strong>Amy</strong>.
-          </p>
-        </header>
+type ServicesLoaderData = Awaited<ReturnType<typeof loader>>
 
-        <PanelCard id="assistant-messaging" title="Personal-assistant messaging (Amy)">
-          <div className="space-y-3">
-            <Heading variant="subsection-accent">
-              Two-way texts for scheduling, reminders, and coordination.
-            </Heading>
-            <p className="text-secondary text-sm">
-              Amy sends conversational, transactional text messages on Alan Walton&rsquo;s behalf to
-              coordinate with the people he works with &mdash; scheduling, reminders, and day-to-day
-              coordination. It is not a marketing service and not a bulk-messaging service.
-            </p>
-          </div>
-        </PanelCard>
+export function meta({ data }: { data: ServicesLoaderData | undefined }) {
+  return metaOf(data?.document, "Alan Walton")
+}
 
-        <PanelCard id="consent" title="Consent-based, written opt-in">
-          <p className="text-secondary text-sm">
-            Recipients gave explicit prior written consent to receive these messages. Consent is
-            given through the public opt-in form at{" "}
-            <a href="/sms" className="text-accent underline">
-              alanwalton.com/sms
-            </a>
-            , and no one is added without first giving that prior consent.
-          </p>
-        </PanelCard>
-
-        <PanelCard id="details" title="Message frequency and rates">
-          <p className="text-secondary text-sm">
-            Message frequency is low and varies &mdash; approximately 100 messages per month.
-            Message and data rates may apply. Reply <strong>STOP</strong> at any time to opt out, or{" "}
-            <strong>HELP</strong> for help. Full messaging terms, consent, and privacy details are
-            published at{" "}
-            <a href="/sms" className="text-accent underline">
-              alanwalton.com/sms
-            </a>
-            .
-          </p>
-        </PanelCard>
-      </div>
-    </main>
-  )
+export default function ServicesRoute({ loaderData }: { loaderData: ServicesLoaderData }) {
+  useLoaderFollowing(READ)
+  return <SiteDocumentDrawing document={loaderData.document} />
 }

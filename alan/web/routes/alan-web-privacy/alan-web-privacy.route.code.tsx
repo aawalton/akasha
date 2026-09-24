@@ -1,71 +1,28 @@
-import { PageTitle } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
-import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
+import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
+import { SiteDocumentDrawing } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx"
+import {
+  metaOf,
+  SITE_DOCUMENT,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 
-const EMAIL_LINK_HTML =
-  '<!--email_off--><a class="text-accent underline" href="mailto:alan@alanwalton.com">alan@alanwalton.com</a><!--/email_off-->'
+const WEB_APP = namedAs("web-app", alanwaltonWeb.slug, null)
 
-export function meta() {
-  return [
-    { title: "Privacy Policy — Alan Walton" },
-    {
-      name: "description",
-      content: "Privacy policy for Alan Walton and the Amy personal-assistant messaging service.",
-    },
-  ]
+const READ = [SITE_DOCUMENT]
+
+export async function loader() {
+  return { document: await siteDocumentAt(WEB_APP, "privacy") }
 }
 
-export default function PrivacyRoute() {
-  return (
-    <main className="mx-auto w-full max-w-3xl px-6 py-12">
-      <div className="space-y-6">
-        <header className="space-y-2">
-          <PageTitle>Privacy Policy</PageTitle>
-          <p className="text-secondary text-sm">
-            How the Amy personal-assistant messaging service, operated by Alan Walton, handles
-            message data.
-          </p>
-        </header>
+type PrivacyLoaderData = Awaited<ReturnType<typeof loader>>
 
-        <PanelCard id="data" title="What we collect and how we use it">
-          <div className="space-y-3">
-            <p className="text-secondary text-sm">
-              The data collected is the phone numbers and message content exchanged with the
-              service. This data is used only to provide the personal-assistant messaging service.
-              It is not sold and not shared with third parties. No mobile information will be sold
-              or shared with third parties for promotional or marketing purposes.
-            </p>
-            <p className="text-secondary text-sm">
-              When you submit the digital opt-in form at{" "}
-              <a href="/sms" className="text-accent underline">
-                alanwalton.com/sms
-              </a>
-              , we record your name, mobile number, the fact of your consent, the version of the
-              consent wording shown to you, a timestamp, and your IP address and browser user-agent.
-              This information is kept as proof that you consented to receive messages. It is used
-              only to operate the service and is not sold or shared with third parties.
-            </p>
-          </div>
-        </PanelCard>
+export function meta({ data }: { data: PrivacyLoaderData | undefined }) {
+  return metaOf(data?.document, "Alan Walton")
+}
 
-        <PanelCard id="retention" title="Retention">
-          <p className="text-secondary text-sm">
-            Phone numbers and message content are retained only as long as needed to provide the
-            service and are handled with reasonable care to keep them private.
-          </p>
-        </PanelCard>
-
-        <PanelCard id="contact" title="Questions">
-          <p className="text-secondary text-sm">
-            Questions about this policy or the service? Contact{" "}
-            <span dangerouslySetInnerHTML={{ __html: EMAIL_LINK_HTML }} />. Full messaging terms and
-            consent details are at{" "}
-            <a href="/sms" className="text-accent underline">
-              alanwalton.com/sms
-            </a>
-            .
-          </p>
-        </PanelCard>
-      </div>
-    </main>
-  )
+export default function PrivacyRoute({ loaderData }: { loaderData: PrivacyLoaderData }) {
+  useLoaderFollowing(READ)
+  return <SiteDocumentDrawing document={loaderData.document} />
 }

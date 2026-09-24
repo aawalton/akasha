@@ -37,6 +37,15 @@ export function drawnFrom(page: Readonly<Record<string, unknown>>): DrawnDocumen
   }
 }
 
+export type Meta = readonly Readonly<Record<string, string>>[]
+
+export function metaOf(document: DrawnDocument | undefined, site: string | null): Meta {
+  if (document === undefined) return []
+  const title = site === null ? document.title : `${document.title} — ${site}`
+  const described = document.description
+  return [{ title }, ...(described === null ? [] : [{ name: "description", content: described }])]
+}
+
 export async function siteDocumentAt(webApp: string, urlPath: string): Promise<DrawnDocument> {
   const [found] = await collectPages({
     pageTypeSlug: SITE_DOCUMENT,
