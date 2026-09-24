@@ -1,6 +1,65 @@
 {
   "build": {
+    "skillAbilityIds": {
+      "1": 193130,
+      "2": 153685,
+      "3": 192574,
+      "4": 192937,
+      "5": 155408,
+      "6": 195103
+    },
+    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA",
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
+      },
+      "2": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
+      }
+    },
+    "companionId": 9,
     "mainHandWeaponType": 9,
+    "weapons": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Restoration Staff, Quickened"
+      },
+      "2": {
+        "isEmpty": true,
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "displayText": "Empty"
+      }
+    },
     "armor": {
       "1": {
         "isEmpty": false,
@@ -65,66 +124,7 @@
         },
         "displayText": "Light, Quickened"
       }
-    },
-    "weapons": {
-      "1": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Restoration Staff, Quickened"
-      },
-      "2": {
-        "isEmpty": true,
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "displayText": "Empty"
-      }
-    },
-    "companionId": 9,
-    "skillAbilityIds": {
-      "1": 193130,
-      "2": 153685,
-      "3": 192574,
-      "4": 192937,
-      "5": 155408,
-      "6": 195103
-    },
-    "jewelry": {
-      "1": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened"
-      },
-      "2": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened"
-      },
-      "3": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Quickened"
-      }
-    },
-    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA"
+    }
   },
   "targetBuildHash": "AjEAYALQtC0LQtCAAQ0NDRjSE2CQgA",
   "level": 20,
