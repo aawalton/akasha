@@ -51,6 +51,7 @@ export async function trackSessionSwitch(argv: readonly string[], given: Given):
     return mistaking(["a stretch cannot end at or before it began"])
   }
   found.stretch.endTime = ended
+  found.stretch.endedAt = ended
   const opened = sleeping(found.stretch.title) ? opensInto(found.stretch.startTime) : found.held.day
   const home = opened === found.held.day ? found : movedInto(given.root, found, opened)
   if (typeof home === "string") return mistaking([home])
@@ -61,6 +62,7 @@ export async function trackSessionSwitch(argv: readonly string[], given: Given):
     id: mintedAt(now),
     title: called,
     startTime: ended,
+    startedAt: ended,
     dailyTracking: home.held.page,
     ...levels.levels,
     ...taggingOf(taggedFor(tagging.stated, called, [], tagging.known)),

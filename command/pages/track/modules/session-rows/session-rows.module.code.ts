@@ -59,6 +59,8 @@ const KEYS = [
   "title",
   "startTime",
   "endTime",
+  "startedAt",
+  "endedAt",
   "dailyTracking",
   "safetyLevel",
   "difficultyLevel",
@@ -79,8 +81,10 @@ export type Row = Record<string, unknown> & {
   id: string
   title: string
   startTime: string
+  startedAt: string
   dailyTracking: string
   endTime?: string
+  endedAt?: string
 }
 
 export type Held = {

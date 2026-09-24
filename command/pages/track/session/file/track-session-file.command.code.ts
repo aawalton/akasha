@@ -70,6 +70,7 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
       id: mintedAt(now),
       title,
       startTime: reading.iso,
+      startedAt: reading.iso,
       dailyTracking: standing.held.page,
       ...taggingOf(taggedFor(tagging.stated, title, [], tagging.known)),
     }
@@ -103,6 +104,7 @@ export async function trackSessionFile(argv: readonly string[], given: Given): P
       continue
     }
     before.endTime = one.startTime
+    before.endedAt = one.startTime
   }
   const faults = [...refusals, ...faultsIn(made, standing.held)]
   if (faults.length > 0) return mistaking(faults)

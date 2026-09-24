@@ -53,6 +53,7 @@ export async function trackSessionLog(argv: readonly string[], given: Given): Pr
     id: mintedAt(now),
     title: called,
     startTime: began,
+    startedAt: began,
     dailyTracking: standing.held.page,
     ...levels.levels,
     ...taggingOf(taggedFor(tagging.stated, called, [], tagging.known)),
@@ -63,6 +64,7 @@ export async function trackSessionLog(argv: readonly string[], given: Given): Pr
     return mistaking(["a stretch cannot end at or before it began"])
   }
   one.endTime = reading.iso
+  one.endedAt = reading.iso
   standing.rows.push(one)
   standing.rows.sort((a, b) => new Date(a.startTime).getTime() - new Date(b.startTime).getTime())
   const faults = faultsIn(standing.rows, standing.held)
