@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"test-change-running.change-runner.code.ts","path":"change/agent/file/move-file/move-file.change-agent.test.ts"}

@@ -33,6 +33,24 @@ export const removePropertyValue = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Taking a file property's value out takes away the file that value names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That file goes in the same change, through the mechanical change removing a file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value whose file holds no body is taken out alone, and the answer names that file.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A value taken out of a record's list field takes no file away.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page left named by no parent is refused by the checks rather than here.",
     },
     {

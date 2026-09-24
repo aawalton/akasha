@@ -37,6 +37,10 @@ export const fileProperty = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The file a file property's value names goes when that value goes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A file property's value is loaded only where that value is asked for by name.",
     },
     {
