@@ -16,6 +16,7 @@ const EMPTY: Readonly<Record<ReturnKind, string>> = {
   number: "0",
   word: '""',
   truth: "false",
+  thing: "__eso_make_stub()",
   nothing: "nil",
 }
 

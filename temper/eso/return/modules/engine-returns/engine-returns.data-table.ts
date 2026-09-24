@@ -17,7 +17,11 @@ export const engineReturns = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The kinds are a number, a word, a truth, a table, and nothing.",
+      statement: "The kinds are a number, a word, a truth, a thing, and nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A thing is an object the documentation gives no shape, so a stub answers for it.",
     },
     {
       decisionKind: "decision-kind/departure",

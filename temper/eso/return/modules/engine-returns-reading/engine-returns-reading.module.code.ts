@@ -6,7 +6,7 @@ const NO_VERSION = "0"
 
 const OR_NOTHING = " | undefined"
 
-export type ReturnKind = "number" | "word" | "truth" | "nothing"
+export type ReturnKind = "number" | "word" | "truth" | "thing" | "nothing"
 
 const NUMBER: ReturnKind = "number"
 
@@ -15,7 +15,7 @@ const NOTHING: ReturnKind = "nothing"
 const KINDS: Readonly<Record<string, ReturnKind>> = {
   boolean: "truth",
   string: "word",
-  unknown: "nothing",
+  unknown: "thing",
   "unknown[]": "nothing",
 }
 

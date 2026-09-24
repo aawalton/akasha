@@ -33,10 +33,11 @@ h3. Control
 `
 
 describe("returnKindOf", () => {
-  test("names a truth, a word and nothing", () => {
+  test("names a truth, a word, a thing and nothing", () => {
     expect(returnKindOf("boolean")).toBe("truth")
     expect(returnKindOf("string")).toBe("word")
-    expect(returnKindOf("unknown")).toBe("nothing")
+    expect(returnKindOf("unknown")).toBe("thing")
+    expect(returnKindOf("unknown[]")).toBe("nothing")
   })
 
   test("names a number for a type it does not carry, because an enumeration is a number", () => {
@@ -68,7 +69,7 @@ describe("engineReturnsIn", () => {
   })
 
   test("keeps every return in the order the documentation names them", () => {
-    expect(engineReturnsIn(DOC).returns.GetItemOwner).toEqual(["nothing", "nothing"])
+    expect(engineReturnsIn(DOC).returns.GetItemOwner).toEqual(["thing", "nothing"])
     expect(engineReturnsIn(DOC).returns.GetItemType).toEqual(["number", "number"])
   })
 

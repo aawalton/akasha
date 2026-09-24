@@ -29,6 +29,10 @@ describe("answerLua", () => {
   test("carries a hole, which a list of values could not", () => {
     expect(answerLua(["nothing", "word"])).toBe('function() return nil,"" end')
   })
+
+  test("answers a thing with a stub, which answers to anything", () => {
+    expect(answerLua(["thing"])).toBe("function() return __eso_make_stub() end")
+  })
 })
 
 describe("returnsLua", () => {
