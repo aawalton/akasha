@@ -27,6 +27,15 @@ export const indexCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A landing writing a row that names a page files that page's referenced-by entry.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing taking away a row that names a page withdraws that page's referenced-by entry.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Such a file is carried whatever indexes git holds, being no index file.",
     },
     {
