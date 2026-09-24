@@ -78,7 +78,6 @@ const TYPES: readonly Value[] = [
     slug: "held",
     extends: [PAGE_AT],
     properties: [
-      { pagePropertySlug: "page-type-slug", required: false, many: false },
       { pagePropertySlug: pagePageType.slug, required: true, many: false },
       { pagePropertySlug: "test", required: true, many: false },
     ],
@@ -93,7 +92,6 @@ const SHAPES: readonly Value[] = [
     extends: [PAGE_AT],
     properties: [
       { pagePropertySlug: "extends-type", required: false, many: true, maxCount: null },
-      { pagePropertySlug: "page-type-slug", required: false, many: false },
       { pagePropertySlug: pagePageType.slug, required: false, many: false },
       { pagePropertySlug: "properties", required: false, many: true, maxCount: null },
     ],
@@ -271,12 +269,6 @@ const PROPERTIES: Record<string, Value> = {
       { pagePropertySlug: "max-count", required: false, many: false },
       { pagePropertySlug: "max-length", required: false, many: false },
     ],
-  },
-  "page-type-slug": {
-    id: "01a0540d-0000-7000-8000-000000000011",
-    type: `${pageType.slug}/relation-property`,
-    slug: "page-type-slug",
-    propertySlug: "page-type-slug",
   },
   [pagePageType.slug]: {
     id: "01a0540d-0000-7000-8000-000000000027",

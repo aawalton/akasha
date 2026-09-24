@@ -112,14 +112,12 @@ export function generating(root: string, generator: string): string {
       "thing",
       "[]",
       '{ pagePropertySlug: "held", required: true, many: false },' +
-        ' { pagePropertySlug: "page-type-slug", required: false, many: false },' +
         ` ${TYPE_REQUIRED},` +
         ' { pagePropertySlug: "slug", required: true, many: false }'
     )
   )
   shapeAdded(root, "text-property", "slug", [UNIQUE_SLUG])
   schemaFiledFor(root, "text-property", "held")
-  schemaFiledFor(root, "relation-property", "page-type-slug")
   typeFiled(root)
   listedFiled(root, "text-property", "held", [{ path: HELD_AT, id: GENERATED_ID }])
   listedFiled(root, "page-type", "thing", [{ path: "akasha/thing.page-type.ts", id: THING_ID }])
@@ -131,15 +129,18 @@ export function generating(root: string, generator: string): string {
 
 export const ALPHA_AT = "akasha/alpha.page-type.ts"
 
-const BOTH = `{ pagePropertySlug: "page-type-slug" }, ${TYPE_DECLARED}`
-
-export const WAS_ALPHA = typing(THING_ID, "alpha", "[]", BOTH)
+export const WAS_ALPHA = typing(THING_ID, "alpha", "[]", TYPE_DECLARED)
 
 export const BETA_AT = "akasha/beta.page-type.ts"
 
-export const NOW_BETA = typing(GENERATED_ID, "beta", "[]", `${BOTH}, { pagePropertySlug: "note" }`)
+export const NOW_BETA = typing(
+  GENERATED_ID,
+  "beta",
+  "[]",
+  `${TYPE_DECLARED}, { pagePropertySlug: "note" }`
+)
 
-export const NOW_ALPHA = typing(THING_ID, "alpha", '["page-type/beta"]', BOTH)
+export const NOW_ALPHA = typing(THING_ID, "alpha", '["page-type/beta"]', TYPE_DECLARED)
 
 const PAGE_TYPE_ID = "01a0540d-0000-7000-8000-000000000020"
 
@@ -153,7 +154,7 @@ function grounding(root: string): undefined {
   listedFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
   const typeAt = "akasha/page-type.page-type.ts"
   const declares =
-    '{ pagePropertySlug: "extends", many: true, maxCount: null }, { pagePropertySlug: "page-type-slug" }' +
+    '{ pagePropertySlug: "extends", many: true, maxCount: null }' +
     `, ${TYPE_DECLARED}` +
     ', { pagePropertySlug: "properties", many: true, maxCount: null }'
   put(
@@ -163,7 +164,6 @@ function grounding(root: string): undefined {
   )
   listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
   schemaFiledFor(root, "relation-property", "extends")
-  schemaFiledFor(root, "relation-property", "page-type-slug")
   typeFiled(root)
   schemaFiledFor(root, "record-property", "properties")
 }
@@ -172,7 +172,6 @@ export function extending(root: string): string {
   grounding(root)
   put(root, ALPHA_AT, WAS_ALPHA)
   shapeAdded(root, "text-property", "slug", [UNIQUE_SLUG])
-  schemaFiledFor(root, "relation-property", "page-type-slug")
   typeFiled(root)
   schemaFiledFor(root, "text-property", "note")
   listedFiled(root, "page-type", "alpha", [{ path: ALPHA_AT, id: THING_ID }])
@@ -185,10 +184,7 @@ export const ONE_HELD =
   'export const one = { id: "01a0540d-0000-7000-8000-0000000000ff",' +
   ' type: "page-type/held", slug: "one", test: "ts" }\n'
 
-const DEMANDS =
-  '{ pagePropertySlug: "page-type-slug", required: false, many: false }, ' +
-  `${TYPE_REQUIRED}, ` +
-  '{ pagePropertySlug: "test", required: true, many: false }'
+const DEMANDS = `${TYPE_REQUIRED}, ` + '{ pagePropertySlug: "test", required: true, many: false }'
 
 export const NARROWED = `${DEMANDS}, { pagePropertySlug: "name", required: true, many: false }`
 
