@@ -6,7 +6,7 @@ export const theTower00069 = {
   slug: "the-tower-00-069",
   partOfCollections: ["story-played/the-tower"],
   position: 69,
-  ownLength: 796,
+  ownLength: 231,
   unit: "unit/words",
   publishedAt: "2026-07-17T06:00:34.838Z",
   prose: "txt",
