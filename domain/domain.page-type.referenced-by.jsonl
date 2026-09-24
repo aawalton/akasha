@@ -339,6 +339,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/editor/extension/extension.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/editor/extension/ops-extension/ops-extension.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/editor/extension/status-bar/status-bar.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/error/code-error.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/eso-interface/eso-interface.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/file-kind-domain/file-kind-domain.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/file-purpose/file-purpose.page-type.types.ts","typed":true,"deferred":false}

@@ -88,6 +88,7 @@
 {"propertySlug":"part-of-speech","path":"code/component/component.page-type.ts","id":"01a071cb-913c-7e3f-9698-f5f4a5019a9c"}
 {"propertySlug":"part-of-speech","path":"code/editor/editor.domain.ts","id":"01a08d6b-4306-7a19-8ee9-a2556ebf0cfa"}
 {"propertySlug":"part-of-speech","path":"code/editor/extension/extension.domain.ts","id":"01a063f4-6690-7556-b094-e83b2ecfe46d"}
+{"propertySlug":"part-of-speech","path":"code/error/code-error.domain.ts","id":"01a0d59a-47de-7a54-b79d-c62342afaf62"}
 {"propertySlug":"part-of-speech","path":"code/flag/flag.page-type.ts","id":"01a06835-e289-76ca-8e3e-0ef012ffdf1a"}
 {"propertySlug":"part-of-speech","path":"code/module/module.page-type.ts","id":"01a04a20-6e04-7b99-81a0-0efe0ad0a02a"}
 {"propertySlug":"part-of-speech","path":"code/performance/performance.page-type.ts","id":"01a08786-9212-746c-80e0-13134209de62"}

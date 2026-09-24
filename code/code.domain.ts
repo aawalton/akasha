@@ -21,6 +21,7 @@ export const code = {
     "domain/code-spawning",
     "domain/code-terminal",
     "domain/editor",
+    "domain/code-error",
     "domain/shell",
     "domain/type",
     "module/armed-timer",
