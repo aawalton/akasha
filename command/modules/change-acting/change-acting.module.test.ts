@@ -7,6 +7,7 @@ import {
 import {
   dropping,
   listingKept,
+  NO_PAGE,
   noPageSaid,
   staleIn,
   stalling,
@@ -25,6 +26,7 @@ import {
   presenceIn,
   repo,
   rowsKept,
+  SEAT_ID,
   STALE_AT,
   staleKept,
   thrownBy,
@@ -139,4 +141,11 @@ test("a call naming no agent at all is refused without the retry", () => {
   presenceIn(root)
 
   expect(noPageSaid(root, null)).not.toContain("Run this same call again")
+})
+
+test("a seat is refused without the advice written for a subagent", () => {
+  const root = repo()
+  presenceIn(root)
+
+  expect(noPageSaid(root, SEAT_ID)).toBe(NO_PAGE)
 })

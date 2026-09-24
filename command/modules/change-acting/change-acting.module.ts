@@ -160,6 +160,10 @@ export const changeActing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat is refused without the retry.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal composed where no index answers is said without the retry.",
     },
     {

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"subagent-naming.module.code.ts","path":"agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-naming.module.code.ts","path":"agent/seat/modules/page-values/seat-page-values.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-naming.module.code.ts","path":"agent/seat/name/modules/seat-flex/seat-flex.module.code.ts"}
+{"propertySlug":"import","fileName":"subagent-naming.module.code.ts","path":"command/modules/change-acting/change-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"subagent-naming.module.code.ts","path":"command/modules/commit-attribution/commit-attribution.module.code.ts"}
 {"propertySlug":"parts","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}

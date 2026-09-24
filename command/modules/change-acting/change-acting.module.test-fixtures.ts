@@ -28,7 +28,7 @@ const PRESENCE_AT = "akasha/subagent-presence.module.ts"
 
 const PRESENCE_ID = "01a08f0a-0000-7000-8000-000000000001"
 
-const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
+export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
 const OWN = "a38f63805f9b94edf"
 

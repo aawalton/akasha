@@ -1,3 +1,4 @@
+import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.module.code.ts"
 import {
   type FileChange,
   leftAt,
@@ -64,7 +65,7 @@ function presenceAt(root: string): string | null {
 }
 
 export function noPageSaid(root: string, agentId: string | null): string {
-  if (agentId === null || presenceAt(root) === null) return NO_PAGE
+  if (agentId === null || seatAbove(agentId) === null || presenceAt(root) === null) return NO_PAGE
   return `${NO_PAGE}. ${PAGE_LANDING}`
 }
 
