@@ -161,7 +161,7 @@ export const codeEditor = {
       statement: "Copying a seat name puts that name on the clipboard.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Alan works in the editor rather than in desktop VS Code.",
     },
     {
