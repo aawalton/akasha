@@ -1,15 +1,7 @@
+import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type React from "react"
-import {
-  data,
-  isRouteErrorResponse,
-  Links,
-  Meta,
-  Outlet,
-  Scripts,
-  ScrollRestoration,
-  useRouteLoaderData,
-} from "react-router"
+import { isRouteErrorResponse, Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/product/wandering-inn-wiki/web/look/wandering-inn-wiki-web-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
@@ -19,12 +11,8 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "A wiki of The Wandering Inn" },
 ]
 
-export function loader({ context }: Route.LoaderArgs) {
-  return data({ nonce: context.nonce })
-}
-
 export function Layout({ children }: { children: React.ReactNode }) {
-  const nonce = useRouteLoaderData<typeof loader>("root")?.nonce
+  const nonce = useDocumentNonce()
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
@@ -33,7 +21,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Meta />
         <Links />
         {}
-        <script src="/sidebar-boot.js" nonce={nonce} />
+        <script src="/sidebar-boot.js" nonce={nonce} suppressHydrationWarning />
       </head>
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>
