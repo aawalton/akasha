@@ -114,10 +114,5 @@ export const deviceTokenRegistration = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches Apple.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The markdown device token pages the notifier read before are kept and read by nothing.",
-    },
   ],
 } as const satisfies Module
