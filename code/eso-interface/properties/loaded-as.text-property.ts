@@ -26,7 +26,7 @@ export const loadedAs = {
       statement: "A manifest reaches one file by one name.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A manifest name matching no page refuses the build rather than being skipped.",
     },
   ],
