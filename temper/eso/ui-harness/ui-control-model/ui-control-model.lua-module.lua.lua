@@ -34,13 +34,15 @@ end
 
 local Control = {}
 
-Control.__index = function(self, key)
-  local found = rawget(Control, key)
-  if found ~= nil then return found end
-  if type(key) ~= "string" or string.match(key, "^%u") == nil then return nil end
-  unmodelled[key] = (unmodelled[key] or 0) + 1
-  return function() return self end
-end
+local function passedOver(control) return control end
+
+setmetatable(Control, {
+  __index = function(_, key)
+    if type(key) ~= "string" or string.match(key, "^%u") == nil then return nil end
+    unmodelled[key] = (unmodelled[key] or 0) + 1
+    return passedOver
+  end,
+})
 
 local function claim(name, control)
   if name == nil or name == "" then return nil end
@@ -132,7 +134,7 @@ birth = function(named, parent, controlType, virtual)
     uiLayer = 0,
     uiTier = 0,
     uiLevel = 0,
-  }, Control)
+  }, { __index = Control })
   control.uiName = claim(name, control)
   if parent ~= nil then insert(parent.uiChildren, control) end
   insert(everyControl, control)

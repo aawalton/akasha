@@ -50,6 +50,14 @@ export const uiControlModel = {
       statement: "A name read off a control starting with a capital is read as a method.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's own Lua wraps a control's metatable, and reads its index as a table.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each control has a metatable of its own, whose index is the table of methods.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement:
         "A method the model lacks is counted and answers with the control, so one load finds them all.",
