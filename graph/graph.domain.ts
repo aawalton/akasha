@@ -31,24 +31,7 @@ export const graph = {
       statement:
         "The pages an answer rests on are worked out from the code rather than recorded as the code runs.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The answers the graph derives are a cache and never an index.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Throwing away the answers the graph derives costs only speed.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A kept answer learns that answer is stale by being asked rather than by being told.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "An answer is keyed by the pages that answer rests on and marked by the code that made the answer.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The graph reaches no further than the akasha folder.",
