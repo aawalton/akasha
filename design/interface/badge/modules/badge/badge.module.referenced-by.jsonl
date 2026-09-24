@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"design/interface/system/modules/patterns-visual-panels/patterns-visual-panels.module.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/calendar-date-property/calendar-date-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/calendar-time-property/calendar-time-property.page-type.property-badge-component.code.tsx"}
+{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/file-property/file-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/instant-property/instant-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/number-property/number-property.page-type.property-badge-component.code.tsx"}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"page/page.page-type.page-badge-component.code.tsx"}

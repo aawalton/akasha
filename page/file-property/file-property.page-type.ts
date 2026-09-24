@@ -63,6 +63,14 @@ export const fileProperty = {
         "A file written or taken away outside a change reaches the listing at the next settle over its page.",
     },
     { decisionKind: "decision-kind/gap", statement: "A file property declares one extension." },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file property's badge reads as the property's name rather than its extension.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file property's badge opens the file beside its page.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
