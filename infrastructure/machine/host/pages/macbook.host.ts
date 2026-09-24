@@ -6,6 +6,8 @@ export const macbook = {
   slug: "macbook",
   definition: "Alan's Apple laptop",
   title: "MacBook",
+  address: "100.64.0.2",
+  loginUser: "walton",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
