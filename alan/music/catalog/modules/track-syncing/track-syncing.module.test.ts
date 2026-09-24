@@ -1,6 +1,8 @@
 import { expect, test } from "bun:test"
 import { minutes } from "akasha/alan/collection/unit/pages/minutes.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
+import { artist } from "akasha/alan/music/catalog/artist/artist.page-type.ts"
+import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley/sylvia-daley.artist.ts"
 import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import {
   type Filing,
@@ -11,6 +13,7 @@ import {
   filingOf,
 } from "akasha/alan/music/catalog/modules/song-filing/song-filing.module.test-fixtures.ts"
 import {
+  creditFor,
   type Editing,
   type Tracked,
   trackEdits,
@@ -39,6 +42,10 @@ const ELF = "sylvia-daley-pixie-elf"
 
 const ONE_SONG = [ELF_SONG]
 
+const PAGED: ReadonlyMap<string, string> = new Map([["sp-artist", sylviaDaley.slug]])
+
+const SYLVIA_AT = `${artist.slug}/${sylviaDaley.slug}` as const
+
 function track(id: string, name: string, at: number, nth: number, disc = 1): AlbumTrack {
   return {
     id,
@@ -64,6 +71,7 @@ function valuesFor(
     slug: ELF,
     track: one,
     was,
+    artists: PAGED,
   })
 }
 
@@ -86,6 +94,7 @@ function nothingFiled(): Tracked {
     held: new Map<string, Value>(),
     byRelease: new Map<string, number>(),
     byKey: new Map<string, string>(),
+    artists: PAGED,
   }
 }
 
@@ -136,10 +145,16 @@ test("a track states every artist the provider credits, in the order given", () 
   const one = track("t7", "Elf", 90_000, 3)
   const guest = { id: "sp-guest", name: "A Guest" }
   const values = valuesFor({ ...one, artists: [...one.artists, guest] })
-  expect(values["trackArtist"]).toEqual([
-    { externalId: "sp-artist", artistName: "Sylvia Daley" },
-    { externalId: "sp-guest", artistName: "A Guest" },
-  ])
+  expect(values["trackArtist"]).toEqual([{ artist: SYLVIA_AT }, { artistName: "A Guest" }])
+})
+
+test("a credit names the artist page naming the provider's id for that artist", () => {
+  expect(creditFor(PAGED, "sp-artist", "Sylvia Daley")).toEqual({ artist: SYLVIA_AT })
+})
+
+test("a credit whose artist has no page states the name the provider credits", () => {
+  expect(creditFor(PAGED, "sp-guest", "A Guest")).toEqual({ artistName: "A Guest" })
+  expect(creditFor(PAGED, null, "A Guest")).toEqual({ artistName: "A Guest" })
 })
 
 test("a track states the key matching it to the same track on another release", () => {

@@ -34,6 +34,18 @@ export const trackSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A credit names the artist page stating the Spotify id the credit is given under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A credit whose artist has no page states the name Spotify credits instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The artist pages are read once for a sweep rather than once for a track.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A track states the key matching it to the same track on another release.",
     },
     {

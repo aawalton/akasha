@@ -1,3 +1,4 @@
+import { idFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import { minutes } from "akasha/alan/collection/unit/pages/minutes.unit.ts"
 import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import {
@@ -44,6 +45,14 @@ const PART_OF = "partOfCollections"
 const TRACK_KEY = "trackKey"
 
 const EXTERNAL_ID = "externalId"
+
+const ARTIST = "artist"
+
+const UNDER_ARTIST = `${ARTIST}/` as const
+
+const IDENTITY = "externalIdentity"
+
+const SPOTIFY = "spotify"
 
 const APART = "|"
 
@@ -92,9 +101,30 @@ export type Tracked = {
   readonly held: Map<string, Value>
   readonly byRelease: Map<string, number>
   readonly byKey: Map<string, string>
+  readonly artists: ReadonlyMap<string, string>
 }
 
 export type Editing = (pageTypeSlug: string, slug: string, values: Value) => Asking
+
+export function artistsFiledIn(root: string): ReadonlyMap<string, string> {
+  const bySpotify = new Map<string, string>()
+  for (const one of valuesOfType(root, ARTIST)) {
+    const slug = textIn(one.value, "slug")
+    const said = idFrom(one.value[IDENTITY], SPOTIFY)
+    if (slug === null || said === null) continue
+    bySpotify.set(said, slugSortingFirst(bySpotify.get(said) ?? null, slug))
+  }
+  return bySpotify
+}
+
+export function creditFor(
+  artists: ReadonlyMap<string, string>,
+  spotifyId: string | null,
+  name: string
+): Value {
+  const slug = spotifyId === null ? undefined : artists.get(spotifyId)
+  return slug === undefined ? { artistName: name } : { artist: `${UNDER_ARTIST}${slug}` }
+}
 
 export function tracksFiledIn(root: string): Tracked {
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []
@@ -116,7 +146,7 @@ export function tracksFiledIn(root: string): Tracked {
     if (key === null) continue
     byKey.set(key, slugSortingFirst(byKey.get(key) ?? null, slug))
   }
-  return { names: catalogueNamesFrom(rows), held, byRelease, byKey }
+  return { names: catalogueNamesFrom(rows), held, byRelease, byKey, artists: artistsFiledIn(root) }
 }
 
 function trackSlugFor(tracks: Tracked, releaseSlug: string, track: AlbumTrack): string {
@@ -138,6 +168,7 @@ export function trackValues(args: {
   readonly slug: string
   readonly track: AlbumTrack
   readonly was: Value
+  readonly artists: ReadonlyMap<string, string>
 }): Value {
   return {
     ...args.was,
@@ -149,10 +180,7 @@ export function trackValues(args: {
     trackKey: trackKeyFor(args.track),
     partOfCollections: collectionsWith(args.was[PART_OF], `${UNDER_RELEASE}${args.releaseSlug}`),
     explicit: args.track.explicit,
-    trackArtist: args.track.artists.map((one) => ({
-      externalId: one.id,
-      artistName: one.name,
-    })),
+    trackArtist: args.track.artists.map((one) => creditFor(args.artists, one.id, one.name)),
     ownLength: trackMinutes(args.track),
     unit: MINUTES,
     carriedBy: carriersWith(args.was[CARRIED_BY], carrierFor(args.releaseSlug, args.track)),
@@ -193,6 +221,7 @@ export function trackEdits(args: {
       slug,
       track,
       was: args.tracks.held.get(slug) ?? {},
+      artists: args.tracks.artists,
     })
     args.tracks.held.set(slug, values)
     edits.push(args.edit(TRACK, slug, values))

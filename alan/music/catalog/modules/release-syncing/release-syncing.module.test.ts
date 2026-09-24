@@ -128,6 +128,7 @@ function tracksUnder(slug: string, count: number): Tracked {
     held: new Map<string, Value>(),
     byRelease: new Map([[slug, count]]),
     byKey: new Map<string, string>(),
+    artists: new Map<string, string>(),
   }
 }
 
