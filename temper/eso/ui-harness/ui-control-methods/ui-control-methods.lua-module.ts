@@ -54,6 +54,11 @@ export const uiControlMethods = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An edge is as wide as the call says, or as its file is tall where the call says none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The width a control answers with is the width where that control sits.",
     },
     {

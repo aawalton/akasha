@@ -152,6 +152,36 @@ describe("virtualsFrom", () => {
     expect(back?.edgeColor).toEqual([1, 0.5, 0, 1])
   })
 
+  test("reads the art a backdrop edges and fills itself with", () => {
+    const framed = `<GuiXml><Controls>
+      <Backdrop name="TemperFramed" virtual="true">
+        <Edge file="EsoUI/Art/Tooltips/UI-Border.dds" edgeFileWidth="128" edgeFileHeight="16" />
+        <Center file="EsoUI/Art/Tooltips/UI-TooltipCenter.dds" />
+        <Insets left="16" top="16" right="-16" bottom="-16" />
+      </Backdrop>
+    </Controls></GuiXml>`
+    const back = virtualsFrom([framed]).TemperFramed
+    expect(back?.edgeTexture).toBe("EsoUI/Art/Tooltips/UI-Border.dds")
+    expect(back?.edgeSize).toBe(16)
+    expect(back?.centerTexture).toBe("EsoUI/Art/Tooltips/UI-TooltipCenter.dds")
+    expect(back?.insets).toEqual([16, 16, -16, -16])
+  })
+
+  test("reads the part of its file a texture shows, and a button's art", () => {
+    const parts = `<GuiXml><Controls>
+      <Texture name="TemperPart" virtual="true" textureFile="EsoUI/Art/a.dds">
+        <TextureCoords left="0.25" right="0.5" />
+      </Texture>
+      <Button name="TemperPress" virtual="true">
+        <Textures normal="EsoUI/Art/up.dds" pressed="EsoUI/Art/down.dds" />
+      </Button>
+    </Controls></GuiXml>`
+    const table = virtualsFrom([parts])
+    expect(table.TemperPart?.textureCoords).toEqual([0.25, 0.5, 0, 1])
+    expect(table.TemperPress?.normalTexture).toBe("EsoUI/Art/up.dds")
+    expect(virtualsLua(table, 10)[0]).toContain("textureCoords = { 0.25, 0.5, 0, 1 }")
+  })
+
   test("reads a color written as six hex digits", () => {
     const tinted = virtualsFrom([COLORED]).TemperTinted
     expect(tinted?.color?.[0]).toBe(1)

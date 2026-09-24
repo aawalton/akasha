@@ -13,8 +13,7 @@ export const uiControlSnapshot = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A snapshot carries the colors, the insets and the edge texture a control was given.",
+      statement: "A snapshot carries the colors, the insets and every texture a control was given.",
     },
     {
       decisionKind: "decision-kind/departure",
