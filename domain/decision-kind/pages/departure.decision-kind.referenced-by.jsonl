@@ -3553,6 +3553,7 @@
 {"propertySlug":"decision-kind","path":"story/item/modules/character-items-beside/character-items-beside.module.ts","id":"01a0caa8-a2c1-7827-bdaa-42e97874aad7"}
 {"propertySlug":"decision-kind","path":"story/item/properties/item-slot.relation-property.ts","id":"01a0ca45-cc74-7097-84c6-4205dbdaeff1"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
+{"propertySlug":"decision-kind","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"decision-kind","path":"story/mechanic/element/element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"decision-kind","path":"story/mechanic/metric/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}

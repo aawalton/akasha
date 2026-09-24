@@ -411,6 +411,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/item/item.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/item/slot/item-slot.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/lore-disclosure/lore-disclosure.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/lore/lore.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/attunement/attunement.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/attunement/rank/attunement-rank.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/mechanic/derived/metric-character-derived.page-type.ts"}

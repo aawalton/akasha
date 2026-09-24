@@ -3,3 +3,4 @@
 {"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/wiki.lore-disclosure.ts"}
 {"propertySlug":"import","fileName":"lore-disclosure.page-type.types.ts","path":"story/lore-disclosure/pages/world-builder.lore-disclosure.ts"}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
+{"propertySlug":"target-page-type","path":"story/lore/properties/lore-disclosure.relation-property.ts","id":"01a0d41b-b3bc-7566-be2d-9b08e437424e"}

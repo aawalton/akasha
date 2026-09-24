@@ -103,6 +103,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/item/item.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/item/slot/item-slot.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/lore-disclosure/lore-disclosure.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/lore/lore.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/mechanic/attunement/rank/attunement-rank.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/mechanic/element/element.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/mechanic/trait/trait.page-type.types.ts"}
@@ -228,6 +229,7 @@
 {"propertySlug":"page-property","path":"story/item/item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
 {"propertySlug":"page-property","path":"story/item/slot/item-slot.page-type.ts","id":"01a0ca45-bac0-7c6d-83bf-8415bedd0526"}
 {"propertySlug":"page-property","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
+{"propertySlug":"page-property","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"page-property","path":"story/mechanic/attunement/rank/attunement-rank.page-type.ts","id":"01a0ca71-1736-7505-9546-ec713abf469a"}
 {"propertySlug":"page-property","path":"story/mechanic/element/element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"page-property","path":"story/mechanic/trait/trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}

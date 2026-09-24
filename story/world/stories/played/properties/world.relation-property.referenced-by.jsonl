@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/lore/lore.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/story.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/builds/story-build.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/characters/world-character.page-type.types.ts"}
@@ -7,6 +8,7 @@
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/mechanics/world-mechanic.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/named-events/named-event.page-type.types.ts"}
 {"propertySlug":"import","fileName":"world.relation-property.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.types.ts"}
+{"propertySlug":"page-property","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"page-property","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"page-property","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
 {"propertySlug":"page-property","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}

@@ -23,6 +23,7 @@ export const story = {
     "page-type/world",
     "page-type/item",
     "page-type/lore-disclosure",
+    "page-type/lore",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

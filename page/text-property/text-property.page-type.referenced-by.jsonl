@@ -428,6 +428,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/quest/properties/quest-reward.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/quest/properties/quest-status.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/game/turn/properties/window-kind.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/lore/properties/lore-facts.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/builds/properties/class-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/builds/properties/game-system.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"story/world/characters/properties/claim-field.text-property.ts"}
