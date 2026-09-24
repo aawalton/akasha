@@ -343,8 +343,8 @@ export const seat = {
       statement: "A seat is stopped by ending its processes.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No command sends a message from one seat to another seat.",
+      decisionKind: "decision-kind/departure",
+      statement: "A command sends a message from one seat to another seat.",
     },
     {
       decisionKind: "decision-kind/gap",
