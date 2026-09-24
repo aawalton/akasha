@@ -121,16 +121,12 @@ export const folderMatchesAShape = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which files and folders sit in a folder is read from the shadow's listing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "Which files sit in a folder is read as what git carries joined to the paths the change has.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "What git carries is read at the commit the change is judged against.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A path another landing first carried after that commit sits in no folder here.",
+        "A path landed after the commit the change is judged against sits in its folder here.",
     },
     {
       decisionKind: "decision-kind/absence",

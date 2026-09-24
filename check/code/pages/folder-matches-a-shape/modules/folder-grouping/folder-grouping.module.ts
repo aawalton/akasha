@@ -14,16 +14,15 @@ export const folderGrouping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A folder is read off the disk one folder at a time.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No answer here walks below the folder that answer is about.",
+      statement: "The files in a folder are what the listing handed in lists there.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The files in a folder are what git carries there joined to the paths a change adds.",
+      statement: "A check hands in the shadow, and an audit hands in the files the commit carries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folders under a folder are worked out once from every file that listing has.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -40,7 +39,7 @@ export const folderGrouping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Such a file is still among the files of a folder git already carries.",
+      statement: "Such a file is still among the files of the folder it sits in.",
     },
     {
       decisionKind: "decision-kind/departure",

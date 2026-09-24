@@ -31,7 +31,7 @@ export function foldersJudgedBy(change: Change): ReadonlySet<string> {
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const facing = facingIn(change.root, readingIn(change.root))
-  const grouped = groupedOver(change, (path) => generatedIn(facing, path))
+  const grouped = groupedOver(shadow, (path) => generatedIn(facing, path))
   const judging = judgingOver({ change, seeing: shadow, grouped })
   return judging.refusalsAt(foldersJudgedBy(change))
 }

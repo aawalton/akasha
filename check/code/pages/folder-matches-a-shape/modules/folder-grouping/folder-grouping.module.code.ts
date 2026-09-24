@@ -1,10 +1,6 @@
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
-import {
-  filesIn,
-  foldersIn,
-} from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { uncommittedHeld } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 export function ancestorsOf(path: string): readonly string[] {
   const found: string[] = []
@@ -21,51 +17,45 @@ export type Grouped = {
   readonly foldersIn: (folder: string) => readonly string[]
 }
 
+export type Listing = Pick<Shadow, "listed">
+
 const nothingGenerated = (): boolean => false
 
-function groupingOn(
-  root: string,
-  base: string | null,
-  paths: readonly string[],
-  there: (path: string) => boolean,
-  generated: (path: string) => boolean
-): Grouped {
-  const added = new Map<string, Set<string>>()
-  const gone = new Map<string, Set<string>>()
+function openedIn(every: readonly string[]): ReadonlyMap<string, ReadonlySet<string>> {
   const opened = new Map<string, Set<string>>()
-  const into = (held: Map<string, Set<string>>, at: string, one: string): undefined => {
-    const kept = held.get(at)
-    if (kept === undefined) held.set(at, new Set<string>([one]))
-    else kept.add(one)
-  }
-  for (const one of paths) {
-    if (!there(one)) {
-      into(gone, folderOf(one), one)
-      continue
-    }
-    into(added, folderOf(one), one)
+  for (const one of every) {
     if (uncommittedHeld(one)) continue
-    for (const at of ancestorsOf(one)) into(opened, folderOf(at), at)
+    for (const at of ancestorsOf(one)) {
+      const above = folderOf(at)
+      const kept = opened.get(above)
+      if (kept === undefined) opened.set(above, new Set<string>([at]))
+      else kept.add(at)
+    }
   }
+  return opened
+}
+
+export function groupedOver(
+  listing: Listing,
+  generated: (path: string) => boolean = nothingGenerated
+): Grouped {
+  let opened: ReadonlyMap<string, ReadonlySet<string>> | null = null
   const files = new Map<string, readonly string[]>()
   const folders = new Map<string, readonly string[]>()
   const grouped: Grouped = {
     at: (folder) => {
       const found = files.get(folder)
       if (found !== undefined) return found
-      const held = new Set<string>(filesIn(root, folder, base))
-      for (const one of added.get(folder) ?? []) held.add(one)
-      for (const one of gone.get(folder) ?? []) held.delete(one)
-      const made = [...held].sort().filter((one) => !generated(one))
+      const made = listing.listed(folder).filter((one) => !generated(one))
       files.set(folder, made)
       return made
     },
     foldersIn: (folder) => {
       const found = folders.get(folder)
       if (found !== undefined) return found
-      const held = new Set<string>(foldersIn(root, folder, base))
-      for (const one of opened.get(folder) ?? []) held.add(one)
-      const made = [...held].sort().filter((one) => !holdsNothing(grouped, one))
+      if (opened === null) opened = openedIn(listing.listed())
+      const held = [...(opened.get(folder) ?? [])].sort()
+      const made = held.filter((one) => !holdsNothing(grouped, one))
       folders.set(folder, made)
       return made
     },
@@ -73,26 +63,22 @@ function groupingOn(
   return grouped
 }
 
-export function groupedOver(
-  change: Change,
-  generated: (path: string) => boolean = nothingGenerated
-): Grouped {
-  return groupingOn(
-    change.root,
-    change.base ?? null,
-    change.changed,
-    (path) => change.after(path) !== null,
-    generated
-  )
-}
-
-export function groupedIn(
-  root: string,
-  paths: readonly string[],
-  there: (path: string) => boolean,
-  generated: (path: string) => boolean = nothingGenerated
-): Grouped {
-  return groupingOn(root, null, paths, there, generated)
+export function listingOf(paths: readonly string[]): Listing {
+  let under: Map<string, string[]> | null = null
+  const sitting = (): Map<string, string[]> => {
+    if (under !== null) return under
+    const made = new Map<string, string[]>()
+    for (const one of paths) {
+      const at = folderOf(one)
+      const kept = made.get(at)
+      if (kept === undefined) made.set(at, [one])
+      else kept.push(one)
+    }
+    for (const kept of made.values()) kept.sort()
+    under = made
+    return made
+  }
+  return { listed: (folder) => (folder === undefined ? paths : (sitting().get(folder) ?? [])) }
 }
 
 export function holdsNothing(grouped: Grouped, folder: string): boolean {

@@ -1,7 +1,8 @@
 import { judgingOver } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.code.ts"
 import {
   type Grouped,
-  groupedIn,
+  groupedOver,
+  listingOf,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"
 import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
@@ -30,10 +31,8 @@ export function everyFolderIn(grouped: Grouped): readonly string[] {
 export function folderMatchesAShape(root: string): readonly Judged[] {
   const commit = commitIn(root)
   const facing = facingOn(root)
-  const grouped = groupedIn(
-    root,
-    commit.paths,
-    (path) => commit.read(path) !== null,
+  const grouped = groupedOver(
+    listingOf(commit.paths.filter((path) => commit.read(path) !== null)),
     (path) => generatedIn(facing, path)
   )
   const seeing = {
