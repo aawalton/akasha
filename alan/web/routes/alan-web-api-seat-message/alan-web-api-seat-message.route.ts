@@ -31,6 +31,18 @@ export const alanWebApiSeatMessage = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message attaches images kept already, named by their image pages' slugs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message attaching an image no page keeps is refused and writes nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message attaching an image may say nothing else.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A write the pages service refused is answered 503 rather than as a message sent.",
     },
   ],
