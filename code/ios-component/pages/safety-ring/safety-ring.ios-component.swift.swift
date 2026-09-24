@@ -104,6 +104,7 @@ struct SafetyRing: View {
     let nextTier: Tier?
     let progress: Double?
     var figureOffScale: Bool = false
+    var noSignal: Bool = false
 
     private var arc: (tier: Tier, progress: Double)? {
         guard let nextTier, let progress, progress > 0 else { return nil }
@@ -143,7 +144,10 @@ struct SafetyRing: View {
             // Which of those a tile wants is the group's answer rather than this view's. One readout
             // is drawn on a tile of its own and again among six readings to a tile, and six leave no
             // room for a number past the ends, so the two drawings answer this differently.
-            if figureOffScale || !isAtEnd {
+            if noSignal {
+                NoSignalMark(glyphSize: 30, wordsSize: 12)
+                    .padding(.horizontal, metrics.strokeWidth + SPACING_1)
+            } else if figureOffScale || !isAtEnd {
                 Text(reading ?? "—")
                     .font(.system(size: 44, weight: .bold, design: .rounded))
                     .foregroundStyle(Color(.label))
