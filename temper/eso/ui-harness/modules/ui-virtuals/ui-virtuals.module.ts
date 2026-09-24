@@ -22,23 +22,6 @@ export const uiVirtuals = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A template inheriting another takes that other's children before its own.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A child named as one inherited replaces it rather than being a second child.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A control nested in another takes the templates it inherits, as one at the top does.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "Two children of one control cannot share a name, so concatenating them collides.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A template naming more than one to inherit takes them in the order written.",
     },
     {

@@ -1,4 +1,11 @@
 import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
+import {
+  merged,
+  type VirtualAnchor,
+  type VirtualNode,
+  type VirtualTable,
+  withBases,
+} from "akasha/temper/eso/ui-harness/modules/ui-inheritance/ui-inheritance.module.code.ts"
 import { JSDOM } from "jsdom"
 
 function numbered(
@@ -63,39 +70,6 @@ const HEX_RADIX = 16
 const BYTE = 255
 
 const HEX_COLOR = /^#?([0-9a-fA-F]{6})([0-9a-fA-F]{2})?$/
-
-export type VirtualAnchor = {
-  readonly point: number
-  readonly relativeTo?: string
-  readonly relativePoint: number
-  readonly offsetX: number
-  readonly offsetY: number
-}
-
-export type VirtualNode = {
-  readonly controlType: number
-  readonly name?: string
-  readonly hidden?: boolean
-  readonly alpha?: number
-  readonly mouseEnabled?: boolean
-  readonly width?: number
-  readonly height?: number
-  readonly font?: string
-  readonly text?: string
-  readonly alignH?: number
-  readonly alignV?: number
-  readonly texture?: string
-  readonly color?: readonly number[]
-  readonly centerColor?: readonly number[]
-  readonly edgeColor?: readonly number[]
-  readonly anchorFill: boolean
-  readonly anchors: readonly VirtualAnchor[]
-  readonly handlers: Readonly<Record<string, string>>
-  readonly children: readonly VirtualNode[]
-  readonly inherits?: readonly string[]
-}
-
-export type VirtualTable = Readonly<Record<string, VirtualNode>>
 
 let cachedParser: DOMParser | null = null
 
@@ -222,75 +196,10 @@ function nodeOf(element: Element): VirtualNode {
   }
 }
 
-type BaseOf = (name: string) => VirtualNode | undefined
-
-function withBases(node: VirtualNode, baseOf: BaseOf): VirtualNode {
-  if (node.children.length === 0) return node
-  return {
-    ...node,
-    children: node.children.map((child) => {
-      let made = withBases(child, baseOf)
-      for (const from of child.inherits ?? []) {
-        const base = baseOf(from)
-        if (base !== undefined) made = merged(base, made)
-      }
-      return made
-    }),
-  }
-}
-
 function inheritedBy(element: Element): readonly string[] {
   const named = element.getAttribute("inherits")
   if (named === null) return []
   return named.split(/\s+/).filter((one) => one !== "")
-}
-
-function mergedChildren(
-  base: readonly VirtualNode[],
-  over: readonly VirtualNode[]
-): readonly VirtualNode[] {
-  const out: VirtualNode[] = []
-  const taken = new Set<string>()
-  for (const one of base) {
-    const name = one.name
-    const sameName = name === undefined ? undefined : over.find((other) => other.name === name)
-    if (sameName === undefined) {
-      out.push(one)
-      continue
-    }
-    if (name !== undefined) taken.add(name)
-    out.push(merged(one, sameName))
-  }
-  for (const one of over) {
-    const name = one.name
-    if (name !== undefined && taken.has(name)) continue
-    out.push(one)
-  }
-  return out
-}
-
-function merged(base: VirtualNode, over: VirtualNode): VirtualNode {
-  return {
-    controlType: over.controlType,
-    name: over.name ?? base.name,
-    hidden: over.hidden ?? base.hidden,
-    alpha: over.alpha ?? base.alpha,
-    mouseEnabled: over.mouseEnabled ?? base.mouseEnabled,
-    width: over.width ?? base.width,
-    height: over.height ?? base.height,
-    font: over.font ?? base.font,
-    text: over.text ?? base.text,
-    alignH: over.alignH ?? base.alignH,
-    alignV: over.alignV ?? base.alignV,
-    texture: over.texture ?? base.texture,
-    color: over.color ?? base.color,
-    centerColor: over.centerColor ?? base.centerColor,
-    edgeColor: over.edgeColor ?? base.edgeColor,
-    anchorFill: over.anchorFill || base.anchorFill,
-    anchors: over.anchors.length === 0 ? base.anchors : over.anchors,
-    handlers: { ...base.handlers, ...over.handlers },
-    children: mergedChildren(base.children, over.children),
-  }
 }
 
 const LOW_CEILING = 32

@@ -13,6 +13,7 @@ export const temperEsoUiHarness = {
     "lua-module/ui-scene-model",
     "lua-module/ui-text-model",
     "module/ui-harness",
+    "module/ui-inheritance",
     "module/ui-picture",
     "module/ui-staging",
     "module/ui-virtuals",

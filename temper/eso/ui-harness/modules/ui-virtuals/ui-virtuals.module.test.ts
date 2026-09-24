@@ -118,6 +118,26 @@ describe("virtualsFrom", () => {
     expect(sort?.children.map((one) => one.text)).toEqual(["header"])
   })
 
+  test("lets a child override a control deeper in what it inherits, by the name both resolve to", () => {
+    const deep = `<GuiXml><Controls>
+      <Control name="TemperScroll" virtual="true">
+        <Controls><Scroll name="$(parent)Scroll">
+          <Controls><Control name="$(parent)Child" /></Controls>
+        </Scroll></Controls>
+      </Control>
+      <Control name="TemperDialog" virtual="true" inherits="TemperScroll">
+        <Controls><Control name="$(parent)ScrollChild" override="true">
+          <Dimensions x="100" />
+        </Control></Controls>
+      </Control>
+    </Controls></GuiXml>`
+    const dialog = virtualsFrom([deep]).TemperDialog
+    expect(dialog?.children).toHaveLength(1)
+    const child = dialog?.children[0]?.children[0]
+    expect(child?.name).toBe("$(parent)Child")
+    expect(child?.width).toBe(100)
+  })
+
   test("keeps what a template overrides and what the template leaves alone", () => {
     const over = virtualsFrom([INHERITING]).TemperOver
     expect(over?.width).toBe(30)
