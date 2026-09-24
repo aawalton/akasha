@@ -52,9 +52,5 @@ export const widgetTapCounting = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a link.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The round trip to the store is proved by a test.",
-    },
   ],
 } as const satisfies Module
