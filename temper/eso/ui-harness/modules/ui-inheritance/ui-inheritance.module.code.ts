@@ -55,7 +55,7 @@ function overriddenBelow(
   for (const [at, one] of children.entries()) {
     const full = relativeName(one.name, parent)
     if (full === target) {
-      const replaced = { ...merged(one, over), name: one.name }
+      const replaced = { ...merged(one, over), name: one.name, controlType: one.controlType }
       return [...children.slice(0, at), replaced, ...children.slice(at + 1)]
     }
     if (full === undefined || one.children.length === 0) continue

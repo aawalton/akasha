@@ -29,6 +29,10 @@ export const uiInheritance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control overridden keeps its own kind, whatever element overrides it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A control nested in another takes the templates it inherits, as one at the top does.",
     },
