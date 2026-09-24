@@ -5,7 +5,6 @@ import {
 } from "akasha/alan/harness/monarch/modules/rule-clauses/monarch-rule-clauses.module.code.ts"
 import { categoryTitles } from "akasha/alan/harness/monarch/modules/rule-pages/monarch-rule-pages.module.code.ts"
 import type {
-  Match,
   Outcome,
   Rule,
 } from "akasha/alan/harness/monarch/modules/rules/monarch-rules.module.code.ts"
@@ -29,11 +28,6 @@ const KINDS: readonly Kind[] = [
     folder: `${RULES}/category-rule-codes/pages`,
     type: "category-rule-code",
   },
-  {
-    kind: "agent",
-    folder: `${RULES}/category-rule-agent/pages`,
-    type: "category-rule-agent",
-  },
 ]
 
 export function ruleFolder(): string {
@@ -42,16 +36,8 @@ export function ruleFolder(): string {
     .join(" and ")
 }
 
-export interface AgentRule {
-  readonly slug: string
-  readonly title: string
-  readonly matches: readonly Match[]
-  readonly judgement: string
-}
-
 export interface RuleSet {
   readonly rules: readonly Rule[]
-  readonly agentRules: readonly AgentRule[]
 }
 
 interface RulePage {
@@ -130,32 +116,9 @@ export async function loadCategoryRules(): Promise<RuleSet> {
   const categories = await categoryTitles()
 
   const rules: Rule[] = []
-  const agentRules: AgentRule[] = []
 
   for (const page of rulePages()) {
     const matches = statedMatches(page.path, page.value["matches"])
-    if (page.kind === "agent") {
-      const judgement = textOf(page, "judgement")
-      if (judgement === null || judgement.trim() === "") {
-        throw new Error(
-          `${page.path}: an agent rule carries the judgement a reader acts on, and this one ` +
-            "carries none"
-        )
-      }
-      if (matches.length === 0) {
-        throw new Error(
-          `${page.path}: this rule states no clause, so it would put every transaction there is ` +
-            "in front of a reader"
-        )
-      }
-      agentRules.push({
-        slug: page.slug,
-        title: textOf(page, "title") ?? page.slug,
-        matches,
-        judgement,
-      })
-      continue
-    }
     rules.push(
       ruleFromMatches(
         page.path,
@@ -170,5 +133,5 @@ export async function loadCategoryRules(): Promise<RuleSet> {
       )
     )
   }
-  return { rules, agentRules }
+  return { rules }
 }

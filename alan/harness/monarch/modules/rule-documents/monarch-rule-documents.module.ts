@@ -40,16 +40,7 @@ export const monarchRuleDocuments = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A code rule decides a category and an agent rule puts the transaction in front of a reader.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
         "A code rule naming no category catches the transaction and leaves that transaction to a person.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An agent rule with no judgement is refused.",
     },
     {
       decisionKind: "decision-kind/departure",
