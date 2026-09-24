@@ -8,13 +8,5 @@ export const theTowerPlinthGolem01 = {
   world: "world/personas",
   about: "character-other/the-tower-plinth-golem-01",
   loreDisclosure: "lore-disclosure/game-master",
-  facts: [
-    "The Plinth Golem is slow.",
-    "The Plinth Golem's body is solid, and blows to its torso or limbs barely mark it.",
-    "The Plinth Golem's whole mass rests on one keystone plinth at its sternum.",
-    "A clean strike on the Plinth Golem's keystone can stagger it or bring it down.",
-    "Finding the Plinth Golem's keystone takes a reading eye, and striking it a placed blow, not might.",
-    "The Plinth Golem is banked full of heat, and drawing that heat out of it kills it.",
-    "The Plinth Golem is dead, drained of its heat and broken to slag, its core taken.",
-  ],
+  facts: ["The Plinth Golem is dead, drained of its heat and broken to slag, its core taken."],
 } as const satisfies Lore
