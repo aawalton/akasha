@@ -8,6 +8,7 @@ import {
   worldOf,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const WOLD_AT = "akasha/wold/wold.text-property.ts"
 
@@ -70,7 +71,7 @@ const TYPE_BODY = `export const quoin = {
 
 const ONE_BODY = `export const one = {
   id: "one",
-  pageTypeSlug: "quoin",
+  type: "page-type/quoin",
   slug: "one",
   note: "kept",
   wold: "held",
@@ -79,7 +80,7 @@ const ONE_BODY = `export const one = {
 
 const TWO_BODY = `export const two = {
   id: "two",
-  pageTypeSlug: "quoin",
+  type: "page-type/quoin",
   slug: "two",
   note: "kept",
 } as const
@@ -87,7 +88,7 @@ const TWO_BODY = `export const two = {
 
 const ONE_FILED_BODY = `export const one = {
   id: "one",
-  pageTypeSlug: "quoin",
+  type: "page-type/quoin",
   slug: "one",
   wold: "ts",
 } as const
@@ -100,11 +101,18 @@ const BODIES: Readonly<Record<string, string>> = {
   [TWO_AT]: TWO_BODY,
 }
 
+const WOLD_VALUE: Value = {
+  id: "wold-id",
+  type: `${pageType.slug}/text-property`,
+  slug: "wold",
+  propertySlug: "wold",
+}
+
 const VALUES: Readonly<Record<string, Value>> = {
-  [WOLD_AT]: { id: "wold-id", pageTypeSlug: "text-property", slug: "wold", propertySlug: "wold" },
-  [TYPE_AT]: { id: "quoin-id", pageTypeSlug: "page-type", slug: "quoin" },
-  [ONE_AT]: { id: "one", pageTypeSlug: "quoin", slug: "one", note: "kept", wold: "held" },
-  [TWO_AT]: { id: "two", pageTypeSlug: "quoin", slug: "two", note: "kept" },
+  [WOLD_AT]: WOLD_VALUE,
+  [TYPE_AT]: { id: "quoin-id", type: `${pageType.slug}/${pageType.slug}`, slug: "quoin" },
+  [ONE_AT]: { id: "one", type: "page-type/quoin", slug: "one", note: "kept", wold: "held" },
+  [TWO_AT]: { id: "two", type: "page-type/quoin", slug: "two", note: "kept" },
 }
 
 type Declaring = {
@@ -164,7 +172,8 @@ function worldIn(made: Making): World {
       pageByPath: (at: string) => made.values[at] ?? null,
       listedAt: (pageTypeSlug: string, slug: string) => {
         const found = Object.entries(made.values).find(
-          ([, value]) => value["pageTypeSlug"] === pageTypeSlug && value["slug"] === slug
+          ([, value]) =>
+            value["type"] === `${pageType.slug}/${pageTypeSlug}` && value["slug"] === slug
         )
         return found === undefined ? [] : [{ path: found[0], id: found[1]["id"] }]
       },
@@ -292,23 +301,23 @@ const RECORD_BODY = `export const tallies = {
 
 const THREE_BODY = `export const three = {
   id: "three",
-  pageTypeSlug: "quoin",
+  type: "page-type/quoin",
   slug: "three",
   tallies: [{ wold: "held", note: "kept" }],
 } as const
 `
 
 const RECORD_VALUES: Readonly<Record<string, Value>> = {
-  [WOLD_AT]: { id: "wold-id", pageTypeSlug: "text-property", slug: "wold", propertySlug: "wold" },
+  [WOLD_AT]: WOLD_VALUE,
   [TALLIES_AT]: {
     id: "tallies-id",
-    pageTypeSlug: "record-property",
+    type: `${pageType.slug}/record-property`,
     slug: "tallies",
     propertySlug: "tallies",
   },
   [THREE_AT]: {
     id: "three",
-    pageTypeSlug: "quoin",
+    type: "page-type/quoin",
     slug: "three",
     tallies: [{ wold: "held", note: "kept" }],
   },
@@ -372,14 +381,14 @@ const SHAPE_BODY = `export const tallies = {
 const ROWS = ['{"id":"a","wold":"ts","note":"kept"}', '{"id":"b","note":"kept"}', ""].join("\n")
 
 const ENTRY_VALUES: Readonly<Record<string, Value>> = {
-  [WOLD_AT]: { id: "wold-id", pageTypeSlug: "text-property", slug: "wold", propertySlug: "wold" },
+  [WOLD_AT]: WOLD_VALUE,
   [SHAPE_AT]: {
     id: "shape-id",
-    pageTypeSlug: "page-property-entry",
+    type: `${pageType.slug}/page-property-entry`,
     slug: "tallies",
     propertySlug: "tallies",
   },
-  [MONTH_AT]: { id: "month-one", pageTypeSlug: "month", slug: "one", tallies: "jsonl" },
+  [MONTH_AT]: { id: "month-one", type: "page-type/month", slug: "one", tallies: "jsonl" },
 }
 
 function entryWorld(reads: Map<string, number> = new Map()): World {
@@ -436,13 +445,13 @@ test("no rung beneath is reached", () => {
 const FILE_VALUES: Readonly<Record<string, Value>> = {
   [FILE_WOLD_AT]: {
     id: "wold-id",
-    pageTypeSlug: "file-property",
+    type: `${pageType.slug}/file-property`,
     slug: "wold",
     propertySlug: "wold",
     types: "ts",
   },
-  [TYPE_AT]: { id: "quoin-id", pageTypeSlug: "page-type", slug: "quoin" },
-  [ONE_AT]: { id: "one", pageTypeSlug: "quoin", slug: "one", wold: "ts" },
+  [TYPE_AT]: { id: "quoin-id", type: `${pageType.slug}/${pageType.slug}`, slug: "quoin" },
+  [ONE_AT]: { id: "one", type: "page-type/quoin", slug: "one", wold: "ts" },
 }
 
 const FILE_BODIES: Readonly<Record<string, string>> = {

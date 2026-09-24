@@ -11,6 +11,7 @@ import {
   worldOf,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const WOLD_AT = "akasha/wold/wold.text-property.ts"
 
@@ -72,7 +73,7 @@ const TYPE_BODY = `export const quoin = {
 
 const ONE_BODY = `export const one = {
   id: "one",
-  pageTypeSlug: "quoin",
+  type: "page-type/quoin",
   slug: "one",
   note: "kept",
 } as const
@@ -80,7 +81,7 @@ const ONE_BODY = `export const one = {
 
 const TWO_BODY = `export const two = {
   id: "two",
-  pageTypeSlug: "quoin",
+  type: "page-type/quoin",
   slug: "two",
   note: "kept",
 } as const
@@ -94,9 +95,9 @@ const BODIES: Readonly<Record<string, string>> = {
 }
 
 const VALUES: Readonly<Record<string, Value>> = {
-  [TYPE_AT]: { id: "quoin-id", pageTypeSlug: "page-type", slug: "quoin" },
-  [ONE_AT]: { id: "one", pageTypeSlug: "quoin", slug: "one", note: "kept" },
-  [TWO_AT]: { id: "two", pageTypeSlug: "quoin", slug: "two", note: "kept" },
+  [TYPE_AT]: { id: "quoin-id", type: `${pageType.slug}/${pageType.slug}`, slug: "quoin" },
+  [ONE_AT]: { id: "one", type: "page-type/quoin", slug: "one", note: "kept" },
+  [TWO_AT]: { id: "two", type: "page-type/quoin", slug: "two", note: "kept" },
 }
 
 const UNDER: Readonly<Record<string, readonly string[]>> = {

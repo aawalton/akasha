@@ -1,4 +1,5 @@
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const WOLD_BODY = `export const wold = {
   id: "wold-id",
@@ -18,7 +19,7 @@ export const NOTE_BODY = `export const note = {
 
 export const ONE_BODY = `export const one = {
   id: "one",
-  pageTypeSlug: "quoin",
+  type: "page-type/quoin",
   slug: "one",
   wold: "ts",
   note: "quoin/two",
@@ -27,7 +28,7 @@ export const ONE_BODY = `export const one = {
 
 export const TWO_BODY = `export const two = {
   id: "two",
-  pageTypeSlug: "quoin",
+  type: "page-type/quoin",
   slug: "two",
   wold: "ts",
 } as const
@@ -49,7 +50,7 @@ export const ENTRY_BODY = `export const tallies = {
 
 export const MONTH_BODY = `export const one = {
   id: "month-one",
-  pageTypeSlug: "month",
+  type: "page-type/month",
   slug: "one",
   tallies: "jsonl",
 } as const
@@ -61,7 +62,7 @@ export const OTHER_AT = "akasha/other/other.view.ts"
 
 const VIEW_BODY = `export const looking = {
   id: "looking",
-  pageTypeSlug: "view",
+  type: "page-type/view",
   slug: "looking",
   pageType: "page-type/quoin",
   groupBy: "wold",
@@ -72,7 +73,7 @@ const VIEW_BODY = `export const looking = {
 
 const OTHER_BODY = `export const other = {
   id: "other",
-  pageTypeSlug: "view",
+  type: "page-type/view",
   slug: "other",
   pageType: "page-type/month",
   visibleProperties: ["wold"],
@@ -91,16 +92,40 @@ export const VIEW_VALUES: Readonly<Record<string, Value>> = {
   "quoin-record/ordering": { slug: "ordering" },
   "view/looking": {
     id: "looking",
-    pageTypeSlug: "view",
+    type: `${pageType.slug}/view`,
     slug: "looking",
     pageType: "page-type/quoin",
   },
   "view/other": {
     id: "other",
-    pageTypeSlug: "view",
+    type: `${pageType.slug}/view`,
     slug: "other",
     pageType: "page-type/month",
   },
+}
+
+export const VALUES: Readonly<Record<string, Value>> = {
+  ...VIEW_VALUES,
+  "file-property/wold": {
+    id: "wold-id",
+    type: `${pageType.slug}/file-property`,
+    slug: "wold",
+    propertySlug: "wold",
+  },
+  "relation-property/note": {
+    id: "note-id",
+    type: `${pageType.slug}/relation-property`,
+    slug: "note",
+    propertySlug: "note",
+  },
+  "page-type/quoin": {
+    id: "quoin-id",
+    type: `${pageType.slug}/${pageType.slug}`,
+    slug: "quoin",
+    types: "ts",
+  },
+  "quoin/one": { id: "one", type: "page-type/quoin", slug: "one", wold: "ts", note: "quoin/two" },
+  "quoin/two": { id: "two", type: "page-type/quoin", slug: "two", wold: "ts" },
 }
 
 export const VIEW_DECLARED: readonly Value[] = [

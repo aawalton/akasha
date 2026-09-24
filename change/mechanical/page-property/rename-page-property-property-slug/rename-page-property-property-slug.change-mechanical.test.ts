@@ -10,11 +10,11 @@ import {
   ROWS_TO,
   TWO_BODY,
   TYPES_BODY,
+  VALUES,
   VIEW_AT,
   VIEW_BODIES,
   VIEW_DECLARED,
   VIEW_FIELDS,
-  VIEW_VALUES,
   WOLD_BODY,
 } from "akasha/change/mechanical/page-property/rename-page-property-property-slug/rename-page-property-property-slug.change-mechanical.test-fixtures.ts"
 import {
@@ -29,6 +29,7 @@ import {
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { worldOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const WOLD_AT = "akasha/wold/wold.file-property.ts"
 
@@ -62,25 +63,6 @@ const BODIES: Readonly<Record<string, string>> = {
   [ONE_AT]: ONE_BODY,
   [TWO_AT]: TWO_BODY,
   [ONE_FILE]: "export const one = 1\n",
-}
-
-const VALUES: Readonly<Record<string, Value>> = {
-  ...VIEW_VALUES,
-  "file-property/wold": {
-    id: "wold-id",
-    pageTypeSlug: "file-property",
-    slug: "wold",
-    propertySlug: "wold",
-  },
-  "relation-property/note": {
-    id: "note-id",
-    pageTypeSlug: "relation-property",
-    slug: "note",
-    propertySlug: "note",
-  },
-  "page-type/quoin": { id: "quoin-id", pageTypeSlug: "page-type", slug: "quoin", types: "ts" },
-  "quoin/one": { id: "one", pageTypeSlug: "quoin", slug: "one", wold: "ts", note: "quoin/two" },
-  "quoin/two": { id: "two", pageTypeSlug: "quoin", slug: "two", wold: "ts" },
 }
 
 type Declaring = {
@@ -259,7 +241,7 @@ const STATED: Readonly<Record<string, Value>> = {
   ...VALUES,
   "file-property/wold": {
     id: "wold-id",
-    pageTypeSlug: "file-property",
+    type: `${pageType.slug}/file-property`,
     slug: "wold",
     propertySlug: "wold-file",
   },
@@ -351,11 +333,11 @@ const RECORD_VALUES: Readonly<Record<string, Value>> = {
   ...VALUES,
   "record-property/i": {
     id: "tallies-id",
-    pageTypeSlug: "record-property",
+    type: `${pageType.slug}/record-property`,
     slug: "i",
     propertySlug: "tallies",
   },
-  "quoin/one": { id: "one", pageTypeSlug: "quoin", slug: "one", tallies: [{ wold: "ts" }] },
+  "quoin/one": { id: "one", type: "page-type/quoin", slug: "one", tallies: [{ wold: "ts" }] },
 }
 
 const RECORD_BODIES: Readonly<Record<string, string>> = {
@@ -363,7 +345,7 @@ const RECORD_BODIES: Readonly<Record<string, string>> = {
   [RECORD_AT]: "export type Tallies = { wold: string }\n",
   [ONE_AT]: `export const one = {
   id: "one",
-  pageTypeSlug: "quoin",
+  type: "page-type/quoin",
   slug: "one",
   tallies: [{ wold: "ts" }],
 } as const
@@ -399,11 +381,11 @@ const ENTRY_VALUES: Readonly<Record<string, Value>> = {
   ...VALUES,
   "page-property-entry/tallies": {
     id: "tallies-id",
-    pageTypeSlug: "page-property-entry",
+    type: `${pageType.slug}/page-property-entry`,
     slug: "tallies",
     propertySlug: "tallies",
   },
-  "month/one": { id: "month-one", pageTypeSlug: "month", slug: "one", tallies: "jsonl" },
+  "month/one": { id: "month-one", type: "page-type/month", slug: "one", tallies: "jsonl" },
 }
 
 const BY_A_SHAPE: readonly Declaring[] = [
@@ -443,7 +425,12 @@ test("a run handed a count spells no key anew in a file of entries", () => {
 
 const SHAPE_VALUES: Readonly<Record<string, Value>> = {
   ...ENTRY_VALUES,
-  "page-type/month": { id: "month-id", pageTypeSlug: "page-type", slug: "month", types: "ts" },
+  "page-type/month": {
+    id: "month-id",
+    type: `${pageType.slug}/${pageType.slug}`,
+    slug: "month",
+    types: "ts",
+  },
 }
 
 function shapeWorld(): World {
