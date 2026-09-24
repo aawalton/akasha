@@ -48,15 +48,16 @@ export async function answeredOf(answer: Response, doing: string): Promise<unkno
   if (answer.status === UNAUTHORIZED || answer.status === FORBIDDEN) {
     throw new Error(`the token cannot ${doing} — Cloudflare answered ${String(answer.status)}`)
   }
-  let held: unknown
+  let held: ReturnType<typeof envelopeSchema.safeParse>
   try {
-    held = JSON.parse(said)
+    held = envelopeSchema.safeParse(JSON.parse(said))
   } catch {
     throw new Error(
       `Cloudflare answered ${String(answer.status)} with what is not JSON when asked to ${doing}`
     )
   }
-  const body = envelopeSchema.parse(held)
+  if (!held.success) throw held.error
+  const body = held.data
   if (answer.ok && body.success) return body.result
   const why = body.errors.map((one) => one.message).join("; ")
   throw new Error(
