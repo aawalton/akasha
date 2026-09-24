@@ -32,7 +32,6 @@
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/infrastructure/loki/infrastructure-loki.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/infrastructure/shell-init-bash/infrastructure-shell-init-bash.command.code.ts"}
-{"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/initiative/work-tree/initiative-work-tree.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/model-account/disable/model-account-disable.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.code.ts"}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/model/gateway/status/model-gateway-status.command.code.ts"}

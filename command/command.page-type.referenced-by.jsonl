@@ -104,7 +104,6 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/initiative/delete/initiative-delete.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/initiative/move-intent/initiative-move-intent.command.ts"}
-{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/initiative/work-tree/initiative-work-tree.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/attribute/measure-attribute.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/audit/measure-audit.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/measure/call/measure-call.command.ts"}

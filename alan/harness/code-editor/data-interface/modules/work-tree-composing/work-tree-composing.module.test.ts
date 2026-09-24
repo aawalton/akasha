@@ -1,30 +1,12 @@
 import { expect, test } from "bun:test"
-import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
-  colorsSaid,
-  countOf,
-  initiativeWorkTree,
-  render,
-  shownIn,
+  type Node,
   treeOf,
-  walk,
-} from "akasha/command/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
+} from "akasha/alan/harness/code-editor/data-interface/modules/work-tree-composing/work-tree-composing.module.code.ts"
 import type {
   InitiativeIntent,
   InitiativeRow,
 } from "akasha/domain/modules/work-initiatives/work-initiatives.module.code.ts"
-
-const ROOT = "/nowhere"
-
-function givenIn(): Given {
-  return {
-    root: ROOT,
-    calledAs: "akasha initiative work-tree",
-    from: ROOT,
-    writer: null,
-    agentId: null,
-  }
-}
 
 function rowIn(
   slug: string,
@@ -38,51 +20,9 @@ function intentIn(statement: string): InitiativeIntent {
   return { statement, workingMemory: null }
 }
 
-const NONE = { json: false, counts: false, colors: false }
-
-test("a call naming nothing prints the tree", () => {
-  expect(shownIn(NONE)).toBe("tree")
-})
-
-test("each word names what to print", () => {
-  expect(shownIn({ ...NONE, json: true })).toBe("json")
-  expect(shownIn({ ...NONE, counts: true })).toBe("counts")
-  expect(shownIn({ ...NONE, colors: true })).toBe("colors")
-})
-
-test("one call prints one thing", () => {
-  const said = initiativeWorkTree(["--json", "--counts"], givenIn())
-
-  expect(said.refusals[0]).toBe(
-    "`--json` and `--counts` are never said together, and this call says both"
-  )
-})
-
-test("the older spelling of the colors is no word this takes", () => {
-  const said = initiativeWorkTree(["--colours"], givenIn())
-
-  expect(said.refusals[0]).toContain("`--colours`")
-})
-
-test("the colors carry the root beside them and nothing else", () => {
-  const said = colorsSaid("/repo", { byInitiative: new Map([["one", "green"]]) })
-
-  expect(JSON.parse(said)).toEqual({ repo: "/repo", byInitiative: { one: "green" } })
-})
-
-test("a tree nothing is drawn on answers an empty record rather than none", () => {
-  expect(JSON.parse(colorsSaid("/repo", { byInitiative: new Map() }))).toEqual({
-    repo: "/repo",
-    byInitiative: {},
-  })
-})
-
-test("a word this does not take refuses as a fault in the call", () => {
-  const said = initiativeWorkTree(["--sideways"], givenIn())
-
-  expect(said.code).toBe(1)
-  expect(said.report).toEqual([])
-})
+function keysIn(nodes: readonly Node[]): readonly string[] {
+  return nodes.flatMap((one) => [one.key, ...keysIn(one.children)])
+}
 
 test("an initiative is keyed by the slug it declares", () => {
   const tree = treeOf([rowIn("one", null)])
@@ -94,7 +34,7 @@ test("an initiative is keyed by the slug it declares", () => {
 test("an initiative is drawn under the initiative it names", () => {
   const tree = treeOf([rowIn("over", null), rowIn("under", "over")])
 
-  expect(walk(tree).map((one) => one.key)).toEqual(["over", "under"])
+  expect(keysIn(tree)).toEqual(["over", "under"])
 })
 
 test("an initiative naming a parent that is not there is drawn as a root", () => {
@@ -119,12 +59,6 @@ test("a color is carried onto the initiative it is drawn for", () => {
 
 test("an initiative nothing is drawn on carries no color", () => {
   expect(treeOf([rowIn("one", null)])[0]?.color).toBeNull()
-})
-
-test("a child is drawn one step in from the initiative above it", () => {
-  const tree = treeOf([rowIn("over", null), rowIn("under", "over")])
-
-  expect(render(tree)).toEqual(["over", "  under"])
 })
 
 test("an initiative's intents are drawn beneath that initiative", () => {
@@ -166,10 +100,10 @@ test("an intent opens the page of the initiative holding it", () => {
 
 test("an intent carries its working memory as the note", () => {
   const tree = treeOf([
-    rowIn("one", null, [{ statement: "make it so", workingMemory: "cut at 74bda7f0" }]),
+    rowIn("one", null, [{ statement: "make it so", workingMemory: "held at 74bda7f0" }]),
   ])
 
-  expect(tree[0]?.children[0]?.note).toBe("cut at 74bda7f0")
+  expect(tree[0]?.children[0]?.note).toBe("held at 74bda7f0")
 })
 
 test("an intent stating no working memory carries no note", () => {
@@ -194,20 +128,4 @@ test("an intent leads nowhere", () => {
 
 test("an initiative holding no intent draws none", () => {
   expect(treeOf([rowIn("one", null)])[0]?.children).toEqual([])
-})
-
-test("a count of the initiatives counts no intent", () => {
-  const tree = treeOf([
-    rowIn("over", null, [intentIn("one"), intentIn("two")]),
-    rowIn("under", "over", [intentIn("three")]),
-  ])
-
-  expect(countOf(tree, "initiative")).toBe(2)
-  expect(countOf(tree, "intent")).toBe(3)
-})
-
-test("an intent is drawn one step in from the initiative holding it", () => {
-  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
-
-  expect(render(tree)).toEqual(["one", "  make it so"])
 })

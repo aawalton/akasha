@@ -1,13 +1,12 @@
-import type { Command } from "akasha/command/command.page-type.types.ts"
+import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const initiativeWorkTree = {
-  id: "01a06866-8b85-79cd-a698-d3fa3f18a57b",
-  type: "page-type/command",
-  slug: "initiative-work-tree",
-  definition: "the command drawing each initiative under the one above it, and the intents it has",
+export const workTreeComposing = {
+  id: "01a0d442-62f1-7bef-820b-44a1b1ae0846",
+  type: "page-type/module",
+  slug: "work-tree-composing",
+  definition: "each initiative drawn under the one above it, and the intents it has",
   code: "ts",
   test: "ts",
-
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -57,31 +56,7 @@ export const initiativeWorkTree = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The rows are counted by the kind each row is rather than all together.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Each word names the thing to print.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A call naming no word prints the tree.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A call naming two words is refused.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A word said twice names one thing rather than two things.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The colors are read from the seat pages alone.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Reading the colors opens no initiative page.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -96,26 +71,8 @@ export const initiativeWorkTree = {
       statement: "An intent leads nowhere.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A tree with no initiative is refused rather than printed as nothing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every answer here is built by a function rather than written out as a value.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A tree with no initiative is a fault of the data.",
-    },
-    {
       decisionKind: "decision-kind/absence",
-      statement: "A run writes nothing.",
+      statement: "Nothing here writes.",
     },
   ],
-  name: "work-tree",
-  arguments: [
-    { argument: "argument/json", notWith: ["argument/counts", "argument/colors"] },
-    { argument: "argument/counts", notWith: ["argument/json", "argument/colors"] },
-    { argument: "argument/colors", notWith: ["argument/json", "argument/counts"] },
-  ],
-} as const satisfies Command
+} as const satisfies Module

@@ -40,6 +40,7 @@ export const codeEditorDataInterface = {
     "number-property/cooldown-milliseconds",
     "service-workstation/code-editor-data-watcher",
     "type-declaration/tree-row",
+    "module/work-tree-composing",
   ],
   properties: [
     { pageProperty: "number-property/cooldown-milliseconds", required: true, many: false },

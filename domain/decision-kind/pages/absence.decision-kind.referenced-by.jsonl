@@ -300,6 +300,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/status-bar-composing/status-bar-composing.module.ts","id":"01a0789c-53c4-7eae-9e56-7aa7e07e6e06"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/tree-drawing/tree-drawing.module.ts","id":"01a07290-1f4c-7a63-9e21-58c0bd47e3f2"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.ts","id":"01a0ba7d-9193-7498-8bf2-4ba35684f91e"}
+{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/work-tree-composing/work-tree-composing.module.ts","id":"01a0d442-62f1-7bef-820b-44a1b1ae0846"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/properties/state.file-property.ts","id":"01a07235-8d04-7c15-8c68-fc8181d908e4"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/window/code-editor-window.page-type.ts","id":"01a06826-92e5-77ad-ad85-f1aa8cb5d359"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.ts","id":"01a0a166-9b55-7421-ab40-928cc3618bd6"}
@@ -1238,7 +1239,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/initiative/delete/initiative-delete.command.ts","id":"01a08c55-e316-7936-bc74-abba6173f7b7"}
 {"propertySlug":"decision-kind","path":"command/pages/initiative/hand-intent/initiative-hand-intent.command.ts","id":"01a08c64-750b-7bb5-b491-551e9cca63dd"}
 {"propertySlug":"decision-kind","path":"command/pages/initiative/move-intent/initiative-move-intent.command.ts","id":"01a081e5-4603-78f0-8295-3ee2947edb01"}
-{"propertySlug":"decision-kind","path":"command/pages/initiative/work-tree/initiative-work-tree.command.ts","id":"01a06866-8b85-79cd-a698-d3fa3f18a57b"}
 {"propertySlug":"decision-kind","path":"command/pages/measure/attribute/measure-attribute.command.ts","id":"01a07803-0b6a-7fdb-9b43-0d4b23b072ee"}
 {"propertySlug":"decision-kind","path":"command/pages/measure/audit/measure-audit.command.ts","id":"01a08c17-afc0-7dd8-8fbe-b625407e7a33"}
 {"propertySlug":"decision-kind","path":"command/pages/measure/call/measure-call.command.ts","id":"01a09c03-14dc-7bde-8003-e7a2d36ad350"}

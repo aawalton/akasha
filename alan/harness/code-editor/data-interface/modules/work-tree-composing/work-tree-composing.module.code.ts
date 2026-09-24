@@ -1,22 +1,7 @@
-import { resolve } from "node:path"
 import {
   type Drawn,
   drawnNow,
 } from "akasha/agent/seat/fleet/modules/work-tree-drawn/work-tree-drawn.module.code.ts"
-import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
-import { colors } from "akasha/command/argument/pages/colors.argument.ts"
-import { counts } from "akasha/command/argument/pages/counts.argument.ts"
-import { json } from "akasha/command/argument/pages/json.argument.ts"
-import {
-  DATA,
-  OPERATIONAL,
-  refusedBy,
-  told,
-} from "akasha/command/modules/answering/command-answering.module.code.ts"
-import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
-import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
-import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
-import { initiativeWorkTree as page } from "akasha/command/pages/initiative/work-tree/initiative-work-tree.command.ts"
 import {
   type InitiativeRow,
   initiativesDrawn,
@@ -26,10 +11,8 @@ const NOTHING_DRAWN: Drawn = { byInitiative: new Map() }
 
 const INTENT_MARK = "#"
 
-export type NodeKind = "initiative" | "intent"
-
 export interface Node {
-  readonly kind: NodeKind
+  readonly kind: "initiative" | "intent"
   readonly key: string
   readonly label: string
   readonly relPath: string | null
@@ -37,25 +20,6 @@ export interface Node {
   readonly note: string | null
   readonly color: string | null
   readonly children: readonly Node[]
-}
-
-export type Shown = "tree" | "json" | "counts" | "colors"
-
-export type Asked = {
-  readonly json: boolean
-  readonly counts: boolean
-  readonly colors: boolean
-}
-
-export function shownIn(asked: Asked): Shown {
-  if (asked.json) return "json"
-  if (asked.counts) return "counts"
-  if (asked.colors) return "colors"
-  return "tree"
-}
-
-export function colorsSaid(repo: string, drawn: Drawn): string {
-  return JSON.stringify({ repo, byInitiative: Object.fromEntries(drawn.byInitiative) })
 }
 
 function byKey(a: Node, b: Node): number {
@@ -165,48 +129,6 @@ export function treeOf(
   )
 }
 
-export function walk(nodes: readonly Node[]): readonly Node[] {
-  return nodes.flatMap((one) => [one, ...walk(one.children)])
-}
-
-export function countOf(nodes: readonly Node[], kind: NodeKind): number {
-  return walk(nodes).filter((one) => one.kind === kind).length
-}
-
-export function render(nodes: readonly Node[], depth = 0): readonly string[] {
-  return nodes.flatMap((one) => {
-    const detail = one.detail === null ? "" : `  — ${one.detail}`
-    const note = one.note === null ? "" : `  [${one.note}]`
-    return [`${"  ".repeat(depth)}${one.label}${detail}${note}`, ...render(one.children, depth + 1)]
-  })
-}
-
 export function treeIn(root: string): readonly Node[] {
   return treeOf(initiativesDrawn(root), drawnNow())
-}
-
-function said(root: string, shown: Shown): Answer {
-  if (shown === "colors") return told([colorsSaid(root, drawnNow())])
-  const tree = treeIn(root)
-  if (shown === "json") return told([JSON.stringify({ repo: root, roots: tree })])
-  if (shown === "counts") {
-    return told([
-      `initiatives:  ${String(countOf(tree, "initiative"))}`,
-      `intents:      ${String(countOf(tree, "intent"))}`,
-    ])
-  }
-  if (tree.length === 0) {
-    return refusedBy([`no initiative was read from the index at ${root}`], DATA)
-  }
-  return told([...render(tree)])
-}
-
-export function initiativeWorkTree(argv: readonly string[], given: Given): Answer {
-  const read = takenFor(argv, given.calledAs, page, [json, counts, colors])
-  if ("refused" in read) return mistaking(read.refused)
-  try {
-    return said(resolve(given.root), shownIn(read.taken))
-  } catch (thrown) {
-    return refusedBy([whyOf(thrown)], OPERATIONAL)
-  }
 }

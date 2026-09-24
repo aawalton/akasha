@@ -18,7 +18,6 @@
 {"propertySlug":"argument","path":"command/pages/infrastructure/dev-server/start/infrastructure-dev-server-start.command.ts","id":"01a09403-25b7-766e-92a9-4834be618b75"}
 {"propertySlug":"argument","path":"command/pages/infrastructure/dev-server/status/infrastructure-dev-server-status.command.ts","id":"01a09404-18a4-709b-8039-58c3e580da98"}
 {"propertySlug":"argument","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.ts","id":"01a09403-77db-71fe-ae2b-f3271d914449"}
-{"propertySlug":"argument","path":"command/pages/initiative/work-tree/initiative-work-tree.command.ts","id":"01a06866-8b85-79cd-a698-d3fa3f18a57b"}
 {"propertySlug":"argument","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.ts","id":"01a08ccd-4d69-70c6-a642-6a6ac9529d4a"}
 {"propertySlug":"argument","path":"command/pages/measure/complexity/halstead/measure-complexity-halstead.command.ts","id":"01a08ccd-7cd6-78a7-b5f2-66cdcd08bc68"}
 {"propertySlug":"argument","path":"command/pages/measure/complexity/maintainability/measure-complexity-maintainability.command.ts","id":"01a08ccd-ace4-705b-8318-42e706de96ae"}
@@ -125,7 +124,6 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/infrastructure/dev-server/status/infrastructure-dev-server-status.command.test.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/infrastructure/dev-server/stop/infrastructure-dev-server-stop.command.test.ts"}
-{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/initiative/work-tree/initiative-work-tree.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/measure/complexity/cyclomatic/measure-complexity-cyclomatic.command.test.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/measure/complexity/halstead/measure-complexity-halstead.command.code.ts"}
@@ -213,4 +211,3 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/track/session/list/track-session-list.command.code.ts"}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/track/session/list/track-session-list.command.test.ts"}
-{"propertySlug":"not-with","path":"command/pages/initiative/work-tree/initiative-work-tree.command.ts","id":"01a06866-8b85-79cd-a698-d3fa3f18a57b"}

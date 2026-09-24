@@ -12,6 +12,10 @@ import {
 } from "akasha/alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.code.ts"
 import { wholePath } from "akasha/alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"
 import {
+  type Node,
+  treeIn,
+} from "akasha/alan/harness/code-editor/data-interface/modules/work-tree-composing/work-tree-composing.module.code.ts"
+import {
   ALAN,
   assembleForest,
   countRunning,
@@ -19,23 +23,11 @@ import {
 } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { readSeatPlaces } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
-import { treeIn } from "akasha/command/pages/initiative/work-tree/initiative-work-tree.command.code.ts"
 import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 import "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.d.ts"
 import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
-type WorkNode = {
-  readonly kind: WorkTreeRow["kind"]
-  readonly key: string
-  readonly label: string
-  readonly relPath: string | null
-  readonly detail: string | null
-  readonly note: string | null
-  readonly color: string | null
-  readonly children: readonly WorkNode[]
-}
-
-function workRow(root: string, node: WorkNode): WorkTreeRow {
+function workRow(root: string, node: Node): WorkTreeRow {
   return {
     kind: node.kind,
     key: node.key,
@@ -49,7 +41,7 @@ function workRow(root: string, node: WorkNode): WorkTreeRow {
 }
 
 export function workTreeLine(root: string): string {
-  const under = treeIn(root).map((node) => workRow(root, node as WorkNode))
+  const under = treeIn(root).map((node) => workRow(root, node))
   const roots: readonly WorkTreeRow[] = [
     {
       kind: "root",
