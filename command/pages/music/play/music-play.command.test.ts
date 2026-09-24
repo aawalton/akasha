@@ -12,8 +12,20 @@ import type {
   StartResumeOptions,
 } from "akasha/command/pages/music/play/music-play.command.code.ts"
 import { playing } from "akasha/command/pages/music/play/music-play.command.code.ts"
+import { z } from "zod"
 
 const CALLED = "akasha music play"
+
+const PLAY_SAID = z.strictObject({
+  query: z.string().nullable(),
+  track: z.strictObject({
+    name: z.string().nullable(),
+    uri: z.string(),
+    id: z.string().nullable(),
+    artists: z.array(z.string()).readonly(),
+  }),
+  deviceId: z.string().nullable(),
+})
 
 const MOTION: ResolvedTrack = {
   name: "Motion Sickness",
@@ -233,7 +245,7 @@ test("the json answer carries the query, the track and the device", async () => 
   const fake = fakeFor()
   const said = await playing(["Motion Sickness", "--json"], fake.ports, CALLED)
   expect(said.code).toBe(0)
-  expect(JSON.parse(said.report.join("\n"))).toEqual({
+  expect(PLAY_SAID.parse(JSON.parse(said.report.join("\n")))).toEqual({
     query: "Motion Sickness",
     track: MOTION,
     deviceId: null,

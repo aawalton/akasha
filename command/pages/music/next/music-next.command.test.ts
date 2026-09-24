@@ -15,8 +15,11 @@ import {
 import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { indexThere } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import { z } from "zod"
 
 const ROOT = codeRoot()
+
+const NEXT_SAID = z.looseObject({ kind: z.string() })
 
 const GIVEN: Given = {
   root: ROOT,
@@ -189,6 +192,6 @@ test("the json answer parses and carries the kind chosen", () => {
   if (!indexThere(ROOT)) return
   const said = musicNext(["--json"], GIVEN)
   expect(said.code).toBe(0)
-  const parsed = JSON.parse(said.report.join("\n")) as { readonly kind: string }
+  const parsed = NEXT_SAID.parse(JSON.parse(said.report.join("\n")))
   expect(["track-in-liked-artist", "new-artist", "exhausted"]).toContain(parsed.kind)
 })

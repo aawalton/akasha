@@ -8,8 +8,15 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Seeking } from "akasha/command/pages/music/seek/music-seek.command.code.ts"
 import { seeking } from "akasha/command/pages/music/seek/music-seek.command.code.ts"
+import { z } from "zod"
 
 const CALLED = "akasha music seek"
+
+const SEEK_SAID = z.strictObject({
+  seconds: z.number(),
+  positionMs: z.number(),
+  deviceId: z.string().nullable(),
+})
 
 type Moved = {
   readonly positionMs: number
@@ -59,7 +66,7 @@ test("--json answers the seconds, the milliseconds and the device", async () => 
   const fake = fakeFor()
   const said = await seeking(["30", "--json"], fake.ports, CALLED)
   expect(said.code).toBe(OK)
-  expect(JSON.parse(said.report.join("\n"))).toEqual({
+  expect(SEEK_SAID.parse(JSON.parse(said.report.join("\n")))).toEqual({
     seconds: 30,
     positionMs: 30000,
     deviceId: null,
