@@ -57,12 +57,12 @@ async function pastAnyChallenge(page: Page): Promise<void> {
   const held = await within(
     "challenge probe",
     CHALLENGE_CEILING_MS,
-    page.evaluate(() => document.title.includes("Just a moment"))
+    page.title().then((title) => title.includes("Just a moment"))
   )
   if (!held) return
   console.log("  a challenge page is in the way; waiting for it to clear")
   await page
-    .waitForFunction(() => !document.title.includes("Just a moment"), {
+    .waitForFunction('!document.title.includes("Just a moment")', undefined, {
       timeout: CHALLENGE_CEILING_MS,
     })
     .catch(() => console.log("  the challenge did not clear; reading what is there"))
@@ -110,7 +110,7 @@ export async function openSite(): Promise<Site> {
     throw thrown
   }
 
-  async function reading<T>(url: string, extract: () => T): Promise<T> {
+  async function reading<T>(url: string, extract: (page: Page) => Promise<T>): Promise<T> {
     const page = await within(`open a page for ${url}`, CONTEXT_CEILING_MS, context.newPage())
     try {
       return await within(
@@ -119,7 +119,7 @@ export async function openSite(): Promise<Site> {
         (async () => {
           await page.goto(url, { waitUntil: "networkidle", timeout: GOTO_CEILING_MS })
           await pastAnyChallenge(page)
-          return page.evaluate(extract)
+          return extract(page)
         })()
       )
     } finally {
@@ -129,13 +129,14 @@ export async function openSite(): Promise<Site> {
 
   return {
     readContents: async () => {
-      const listed = await reading(TABLE_OF_CONTENTS_URL, () => {
-        const out = []
-        for (const entry of document.querySelectorAll(".chapter-entry")) {
-          const link = entry.querySelector("a")
+      const listed = await reading(TABLE_OF_CONTENTS_URL, async (page) => {
+        const out: { title: string; url: string }[] = []
+        for (const entry of await page.$$(".chapter-entry")) {
+          const link = await entry.$("a")
           if (link === null) continue
-          const title = (link.textContent ?? "").trim()
-          const url = link.href
+          const title = ((await link.textContent()) ?? "").trim()
+          const href: unknown = await (await link.getProperty("href")).jsonValue()
+          const url = typeof href === "string" ? href : ""
           if (title === "" || url === "") continue
           out.push({ title, url })
         }
@@ -144,23 +145,26 @@ export async function openSite(): Promise<Site> {
       return listed.map((one, at) => ({ position: at + 1, title: one.title, url: one.url }))
     },
     readChapter: (url) =>
-      reading(url, () => {
-        const article = document.querySelector("#reader-content article")
+      reading(url, async (page) => {
         const gated =
-          document.querySelector(".patreon-protected-post") !== null ||
-          document.documentElement.outerHTML.includes(
+          (await page.locator(".patreon-protected-post").count()) > 0 ||
+          (await page.content()).includes(
             'action="https://wanderinginn.com/wp-login.php?action=postpass'
           )
-        const meta = (property: string): string => {
-          const found = document.querySelector(`meta[property="${property}"]`)
-          return (found === null ? "" : (found.getAttribute("content") ?? "")).trim()
+        const meta = async (property: string): Promise<string> => {
+          const found = await page.$(`meta[property="${property}"]`)
+          return (found === null ? "" : ((await found.getAttribute("content")) ?? "")).trim()
+        }
+        const firstText = async (selector: string): Promise<string> => {
+          const found = await page.$(selector)
+          return ((found === null ? null : await found.textContent()) ?? "").trim()
         }
         return {
           patronOnly: gated,
-          ogTitle: meta("og:title"),
-          docTitle: (document.querySelector("title")?.textContent ?? "").trim(),
-          ogUrl: meta("og:url"),
-          text: (article?.textContent ?? "").trim(),
+          ogTitle: await meta("og:title"),
+          docTitle: await firstText("title"),
+          ogUrl: await meta("og:url"),
+          text: await firstText("#reader-content article"),
         }
       }),
     close: async () => {
