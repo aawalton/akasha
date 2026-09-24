@@ -108,6 +108,34 @@ test("a curse state that is neither vampire nor werewolf reads as no curse at al
   expect(held[0]?.curseState).toBeUndefined()
 })
 
+test("a character's class, race and skill morphs read through together", () => {
+  const held = parseTemperCharacters(
+    savedVariables(
+      `    ["@one"] = { ["$AccountWide"] = { ["characters"] = { ["555"] = { ["classId"] = 1, ["raceId"] = 2, ["skillLineProgress"] = { [30] = { ["currentRank"] = 50, ["skills"] = { [28279] = { ["base"] = { ["name"] = "Uppercut", ["rank"] = 4 }, ["morph1"] = { ["name"] = "Dizzying Swing", ["rank"] = 2 }, ["morph2"] = { ["name"] = "Wrecking Blow" } }, [1] = { ["base"] = "broken" } } } } } } } },`
+    )
+  )
+  expect(held[0]?.morphCompletion).toEqual({
+    classId: 1,
+    raceId: 2,
+    skillLineProgress: {
+      30: {
+        skills: {
+          28279: {
+            base: { name: "Uppercut", rank: 4 },
+            morph1: { name: "Dizzying Swing", rank: 2 },
+            morph2: { name: "Wrecking Blow", rank: undefined },
+          },
+        },
+      },
+    },
+  })
+})
+
+test("a character's skill morphs are absent where the class or race is not captured", () => {
+  const held = parseTemperCharacters(ONE_CHARACTER)
+  expect(held[0]?.morphCompletion).toBeUndefined()
+})
+
 test("a character with no name reads as having none rather than refusing", () => {
   const held = parseTemperCharacters(
     savedVariables(`    ["@one"] = { ["$AccountWide"] = { ["characters"] = { ["222"] = { } } } },`)

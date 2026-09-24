@@ -7,6 +7,8 @@ import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-
 import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import type { MorphCharacterCompletion } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
+import type { MorphSkillLineProgressMap } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import { z } from "zod"
 
 export type CharacterCurseState = "vampire" | "werewolf"
@@ -21,6 +23,7 @@ export interface CharacterKnowledge {
   readonly skillLineRanksByEsoLineId: ReadonlyMap<number, number>
   readonly researchedTraitsByCraftingType: ReadonlyMap<number, ReadonlyMap<string, boolean>>
   readonly curseState: CharacterCurseState | undefined
+  readonly morphCompletion: MorphCharacterCompletion | undefined
 }
 
 const FILE_NAME = "TemperCharacters.lua"
@@ -53,7 +56,19 @@ const SCRIBING_SCHEMA = z
 const MOTIF_KNOWLEDGE_SCHEMA = z.record(z.string(), NUMBER_LIST_OR_RECORD_SCHEMA).optional()
 
 const SKILL_LINE_PROGRESS_ENTRY_SCHEMA = z
-  .object({ currentRank: z.number().optional() })
+  .object({ currentRank: z.number().optional(), skills: z.unknown().optional() })
+  .passthrough()
+
+const MORPH_VARIANT_SCHEMA = z
+  .object({ name: z.string(), rank: z.number().optional() })
+  .passthrough()
+
+const MORPH_SKILL_SCHEMA = z
+  .object({
+    base: MORPH_VARIANT_SCHEMA,
+    morph1: MORPH_VARIANT_SCHEMA,
+    morph2: MORPH_VARIANT_SCHEMA,
+  })
   .passthrough()
 
 const SKILL_LINE_PROGRESS_SCHEMA = z.record(z.string(), SKILL_LINE_PROGRESS_ENTRY_SCHEMA).optional()
@@ -75,6 +90,8 @@ const TRAIT_RESEARCH_SCHEMA = z.record(z.string(), TRAIT_CRAFTING_TYPE_SCHEMA).o
 const CHARACTER_RECORD_SCHEMA = z
   .object({
     name: z.string().optional(),
+    classId: z.number().optional().catch(undefined),
+    raceId: z.number().optional().catch(undefined),
     recipes: RECIPES_SCHEMA,
     loreLibrary: LORE_LIBRARY_SCHEMA,
     motifKnowledge: MOTIF_KNOWLEDGE_SCHEMA,
@@ -214,6 +231,37 @@ function collectSkillLineRanks(
   return out
 }
 
+function collectMorphCompletion(
+  classId: number | undefined,
+  raceId: number | undefined,
+  progress: z.infer<typeof SKILL_LINE_PROGRESS_SCHEMA>
+): MorphCharacterCompletion | undefined {
+  if (classId === undefined || raceId === undefined || !progress) return undefined
+  const skillLineProgress: MorphSkillLineProgressMap = {}
+  for (const [lineKey, entry] of Object.entries(progress)) {
+    const esoSkillLineId = Number(lineKey)
+    if (!Number.isInteger(esoSkillLineId)) continue
+    const heldSkills = entry.skills
+    if (heldSkills === null || typeof heldSkills !== "object") {
+      skillLineProgress[esoSkillLineId] = {}
+      continue
+    }
+    const skills: NonNullable<MorphSkillLineProgressMap[number]["skills"]> = {}
+    for (const [skillKey, raw] of Object.entries(heldSkills)) {
+      const parsed = MORPH_SKILL_SCHEMA.safeParse(raw)
+      if (!parsed.success) continue
+      const { base, morph1, morph2 } = parsed.data
+      skills[Number(skillKey)] = {
+        base: { name: base.name, rank: base.rank },
+        morph1: { name: morph1.name, rank: morph1.rank },
+        morph2: { name: morph2.name, rank: morph2.rank },
+      }
+    }
+    skillLineProgress[esoSkillLineId] = { skills }
+  }
+  return { classId, raceId, skillLineProgress }
+}
+
 function collectResearchedTraits(
   traitResearch: z.infer<typeof TRAIT_RESEARCH_SCHEMA>
 ): ReadonlyMap<number, ReadonlyMap<string, boolean>> {
@@ -316,6 +364,11 @@ export function parseTemperCharacters(content: string): ReadonlyArray<CharacterK
       skillLineRanksByEsoLineId: collectSkillLineRanks(record.skillLineProgress),
       researchedTraitsByCraftingType: collectResearchedTraits(record.traitResearch),
       curseState: readCurseState(record.curseState),
+      morphCompletion: collectMorphCompletion(
+        record.classId,
+        record.raceId,
+        record.skillLineProgress
+      ),
     })
   }
   return result

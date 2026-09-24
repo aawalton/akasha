@@ -56,8 +56,12 @@ export const inventoryEvalEnv = {
         "A skill line the capture never names is taken as absent rather than as rank zero.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Whether a character can level a morph is answered off the game.",
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a character can level a morph comes from the characters capture.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character the capture holds no skill morphs for is answered unknown.",
     },
     {
       decisionKind: "decision-kind/absence",

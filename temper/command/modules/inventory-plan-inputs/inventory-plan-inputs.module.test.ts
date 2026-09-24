@@ -28,6 +28,7 @@ function knowing(rank: number): ReadonlyMap<string, CharacterKnowledge> {
         skillLineRanksByEsoLineId: new Map([[LEGERDEMAIN_ESO_LINE_ID, rank]]),
         researchedTraitsByCraftingType: new Map<number, ReadonlyMap<string, boolean>>(),
         curseState: "vampire",
+        morphCompletion: undefined,
       },
     ],
   ])

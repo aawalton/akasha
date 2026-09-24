@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-can-level-morphs/rule-matcher-context-can-level-morphs.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"morph-completion-shapes.module.code.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.code.ts","typed":true,"deferred":false}

@@ -4,6 +4,9 @@ import { buildCliEvalEnv } from "akasha/temper/command/modules/inventory-eval-en
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items/rules/core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
+import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import type { MorphCharacterCompletion } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
+import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
 const STYLED = 1
 
@@ -20,6 +23,7 @@ function knowing(over: Partial<CharacterKnowledge>): CharacterKnowledge {
     skillLineRanksByEsoLineId: new Map<number, number>(),
     researchedTraitsByCraftingType: new Map<number, ReadonlyMap<string, boolean>>(),
     curseState: undefined,
+    morphCompletion: undefined,
     ...over,
   }
 }
@@ -192,8 +196,36 @@ test("a curse state comes from the characters capture", () => {
   expect(envOf(knowing({})).getCharacterCurseState("111")).toBeUndefined()
 })
 
-test("whether a character can level a morph is answered unknown off the game", () => {
+const TWO_HANDED_ESO_LINE_ID = skillLines.data["weapon-two-handed"].esoSkillLineId
+
+const TWO_HANDED_SKILLS = morphableSkillsByLine.get("weapon-two-handed") ?? []
+
+function twoHandedAt(rank: number): MorphCharacterCompletion {
+  const skills = Object.fromEntries(
+    TWO_HANDED_SKILLS.map((one, at) => [
+      at + 1,
+      {
+        base: { name: one.baseName, rank },
+        morph1: { name: one.morph1Name, rank },
+        morph2: { name: one.morph2Name, rank },
+      },
+    ])
+  )
+  return { classId: 1, raceId: 1, skillLineProgress: { [TWO_HANDED_ESO_LINE_ID]: { skills } } }
+}
+
+test("whether a character can level a morph comes from the characters capture", () => {
+  expect(TWO_HANDED_SKILLS.length).toBeGreaterThan(0)
+  const leveling = envOf(knowing({ morphCompletion: twoHandedAt(2) }))
+  expect(leveling.getCharacterCanLevelMorphs("111")).toBe(true)
+  const maxed = envOf(knowing({ morphCompletion: twoHandedAt(4) }))
+  expect(maxed.getCharacterCanLevelMorphs("111")).toBe(false)
+})
+
+test("whether a character can level a morph is unknown where the capture holds no morphs", () => {
   expect(envOf(knowing({})).getCharacterCanLevelMorphs("111")).toBe("unknown")
+  const held = envOf(knowing({ morphCompletion: twoHandedAt(2) }))
+  expect(held.getCharacterCanLevelMorphs("999")).toBe("unknown")
 })
 
 test("the characters and their order are answered from what was read", () => {

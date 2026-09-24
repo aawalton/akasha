@@ -45,6 +45,15 @@ export const inventoryCharactersReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A character's skill morphs are read only where the class, race and skill lines are all captured.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill morph the saved variables hold malformed is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A trait is named by the crafting type it is researched under and by its own name.",
     },
     {
