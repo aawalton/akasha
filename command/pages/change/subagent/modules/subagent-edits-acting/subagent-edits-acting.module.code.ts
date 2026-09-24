@@ -14,8 +14,8 @@ import {
 import {
   appendEdits,
   bodyIn,
-  editStated,
   editsIn,
+  parseEdit,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   OPERATIONAL,
@@ -43,6 +43,7 @@ import { textThere } from "akasha/file/disk/modules/text-there/text-there.module
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
 import { textIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
+import { z } from "zod"
 
 const NO_SUBAGENT = "no subagent said"
 
@@ -83,21 +84,24 @@ export type KeptRecord = {
   readonly line: string
 }
 
-function recordOf(line: string, at: number): KeptRecord {
-  const bare = { at, leftBy: null, carriedAt: null, edit: null, line }
-  let read: unknown
+const RECORD_SAID = z.record(z.string(), z.unknown())
+
+function recordSaid(line: string): Record<string, unknown> | null {
   try {
-    read = JSON.parse(line)
+    return RECORD_SAID.safeParse(JSON.parse(line)).data ?? null
   } catch {
-    return bare
+    return null
   }
-  if (typeof read !== "object" || read === null || Array.isArray(read)) return bare
-  const held = read as Record<string, unknown>
+}
+
+function recordOf(line: string, at: number): KeptRecord {
+  const held = recordSaid(line)
+  if (held === null) return { at, leftBy: null, carriedAt: null, edit: null, line }
   return {
     at,
     leftBy: textIn(held, LEFT_BY),
     carriedAt: textIn(held, CARRIED_AT),
-    edit: editStated(read),
+    edit: parseEdit(held),
     line,
   }
 }

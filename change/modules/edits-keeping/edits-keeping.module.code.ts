@@ -53,7 +53,7 @@ function owing(said: Record<string, unknown>): Reading | null {
   }
 }
 
-export function editStated(said: unknown): FileChange | null {
+export function parseEdit(said: unknown): FileChange | null {
   if (typeof said !== "object" || said === null) return null
   const one = said as Record<string, unknown>
   const owed = owing(one)
@@ -78,11 +78,11 @@ export function editStated(said: unknown): FileChange | null {
   return null
 }
 
-function parsed(line: string): unknown {
+function editIn(line: string): FileChange | null {
   try {
-    return JSON.parse(line)
+    return parseEdit(JSON.parse(line))
   } catch {
-    return undefined
+    return null
   }
 }
 
@@ -106,8 +106,7 @@ function rowsIn(text: string): Kept {
   for (let at = 0; at < lines.length; at += 1) {
     const line = lines[at]
     if (line === undefined || line === "") continue
-    const read = parsed(line)
-    const one = editStated(read)
+    const one = editIn(line)
     if (one === null) return { why: `line ${String(at + 1)} ${NO_ROW}` }
     said.push(one)
   }
