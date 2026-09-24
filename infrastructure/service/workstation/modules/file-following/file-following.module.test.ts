@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   digestOf,
@@ -83,6 +83,46 @@ test("what a folder holds is what the test admits of it", () => {
   const found = filesWithin([ROOT], (at) => at.endsWith(".seat.ts"))
   expect(found.has(kept)).toBe(true)
   expect([...found].some((at) => at.endsWith(".other"))).toBe(false)
+})
+
+test("a folder read with a reach holds what the test admits that many folders down", () => {
+  const dir = mkdtempSync("/var/tmp/file-reach-")
+  mkdirSync(join(dir, "one", "two"), { recursive: true })
+  const near = join(dir, "near.seat.ts")
+  const below = join(dir, "one", "below.seat.ts")
+  const deeper = join(dir, "one", "two", "deeper.seat.ts")
+  for (const at of [near, below, deeper]) writeFileSync(at, "here")
+  const admits = (at: string): boolean => at.endsWith(".seat.ts")
+  const flat = filesWithin([dir], admits)
+  const reached = filesWithin([dir], admits, 1)
+  rmSync(dir, { recursive: true, force: true })
+  expect([...flat]).toEqual([near])
+  expect([...reached].sort()).toEqual([near, below])
+})
+
+test("a file in a folder made below a folder followed with a reach is answered", async () => {
+  const dir = mkdtempSync("/var/tmp/file-reach-follow-")
+  const moved: string[][] = []
+  const following = followWithin(
+    new Set([dir]),
+    (at) => at.endsWith(".seat.ts"),
+    (what) => {
+      moved.push([...what])
+    },
+    20,
+    undefined,
+    1
+  )
+  await Bun.sleep(60)
+  mkdirSync(join(dir, "fresh"))
+  const fresh = join(dir, "fresh", "fresh.seat.ts")
+  writeFileSync(fresh, "new")
+  await Bun.sleep(200)
+  writeFileSync(fresh, "changed")
+  await Bun.sleep(200)
+  following.stop()
+  rmSync(dir, { recursive: true, force: true })
+  expect(moved.flat()).toEqual([fresh, fresh])
 })
 
 test("a folder that is not there holds nothing rather than throwing", () => {

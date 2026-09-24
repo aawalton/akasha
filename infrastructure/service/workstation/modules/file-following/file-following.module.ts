@@ -53,6 +53,18 @@ export const fileFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A folder followed with a reach has its files weighed that many folders down.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder followed with a reach is watched at every depth.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder made below a folder followed with a reach is followed as it appears.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A folder followed for its events alone is answered without being read.",
     },
     {

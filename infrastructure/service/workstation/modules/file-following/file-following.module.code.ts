@@ -1,4 +1,4 @@
-import { type FSWatcher, readdirSync, readFileSync, watch } from "node:fs"
+import { type Dirent, type FSWatcher, readdirSync, readFileSync, watch } from "node:fs"
 import { dirname, join } from "node:path"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
@@ -40,18 +40,23 @@ export function dirsOf(files: Iterable<string>): ReadonlySet<string> {
 
 export function filesWithin(
   folders: Iterable<string>,
-  holds: (at: string) => boolean
+  holds: (at: string) => boolean,
+  reach: number = 0
 ): ReadonlySet<string> {
   const found = new Set<string>()
   for (const dir of folders) {
-    let names: readonly string[]
+    let names: readonly Dirent[]
     try {
-      names = readdirSync(dir)
+      names = readdirSync(dir, { withFileTypes: true })
     } catch {
       continue
     }
-    for (const name of names) {
-      const at = join(dir, name)
+    for (const one of names) {
+      const at = join(dir, one.name)
+      if (reach > 0 && one.isDirectory()) {
+        for (const below of filesWithin([at], holds, reach - 1)) found.add(below)
+        continue
+      }
       if (holds(at)) found.add(at)
     }
   }
@@ -63,7 +68,8 @@ function follow(
   weigh: () => Digest,
   moved: (what: readonly string[]) => undefined,
   settleMs: number,
-  from: Digest | undefined
+  from: Digest | undefined,
+  recursive: boolean = false
 ): Following {
   let digested = from ?? weigh()
   let settling: ReturnType<typeof setTimeout> | null = null
@@ -81,7 +87,7 @@ function follow(
   }
   for (const dir of dirs) {
     try {
-      following.push(watch(dir, settle))
+      following.push(watch(dir, { recursive }, settle))
     } catch {
       unfollowed.push(dir)
     }
@@ -101,9 +107,11 @@ export function followWithin(
   holds: (at: string) => boolean,
   moved: (what: readonly string[]) => undefined,
   settleMs: number = SETTLE_MS,
-  from?: Digest
+  from?: Digest,
+  reach: number = 0
 ): Following {
-  return follow(folders, () => digestOf(filesWithin(folders, holds)), moved, settleMs, from)
+  const weigh = (): Digest => digestOf(filesWithin(folders, holds, reach))
+  return follow(folders, weigh, moved, settleMs, from, reach > 0)
 }
 
 const TICK = "tick"
