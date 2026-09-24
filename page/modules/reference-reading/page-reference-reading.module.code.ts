@@ -66,14 +66,29 @@ export function namersOf(given: string | Reading, id: string): readonly Named[] 
   return listed === null ? [] : namersAt(given, listed.path)
 }
 
-export function importersOf(given: string | Reading, path: string): readonly string[] {
+export type Importer = {
+  readonly path: string
+  readonly typed: boolean
+  readonly deferred: boolean
+}
+
+function byPath(one: Importer, two: Importer): number {
+  return one.path < two.path ? -1 : one.path > two.path ? 1 : 0
+}
+
+export function importsReaching(given: string | Reading, path: string): readonly Importer[] {
   const reading = readingIn(given)
   const owner = claimantIn(reading, path)
   if (owner === null) return []
   const name = fileNameOf(path)
-  const found: string[] = []
+  const found: Importer[] = []
   for (const one of referencesFor(reading, owner)) {
-    if (one.propertySlug === IMPORT && one.fileName === name) found.push(one.path)
+    if (one.propertySlug !== IMPORT || one.fileName !== name) continue
+    found.push({ path: one.path, typed: one.typed === true, deferred: one.deferred === true })
   }
-  return found.sort()
+  return found.sort(byPath)
+}
+
+export function importersOf(given: string | Reading, path: string): readonly string[] {
+  return [...new Set(importsReaching(given, path).map((one) => one.path))]
 }

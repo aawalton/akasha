@@ -1,4 +1,4 @@
-import { importsIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
+import { importingIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
 import {
   NAMING_NONE,
   type Naming as Specifying,
@@ -150,8 +150,8 @@ export function importedFrom(
   const reading = readingIn(given)
   const found: Entry[] = []
   const already = new Set<string>()
-  for (const landed of importsIn(body, from, naming)) {
-    const owner = claimantIn(reading, landed)
+  for (const one of importingIn(body, from, naming)) {
+    const owner = claimantIn(reading, one.at)
     if (owner === null || !pageThere(reading, owner)) continue
     const at = referencesAt(owner)
     if (at === null) continue
@@ -159,9 +159,11 @@ export function importedFrom(
       at,
       line: lineOf({
         propertySlug: IMPORT,
-        fileName: fileNameOf(landed),
+        fileName: fileNameOf(one.at),
         path: from,
         id: null,
+        typed: one.typed,
+        deferred: one.deferred,
       }),
     }
     if (already.has(keyOf(entry))) continue

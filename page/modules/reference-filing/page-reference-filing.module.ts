@@ -23,6 +23,19 @@ export const pageReferenceFiling = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "An import's line says whether that import names a type and whether it is followed later.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Both are read off the body as an edge going out reads them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file imported two ways files one line for each way.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The page an imported file belongs to is asked of the index, as the reader beside it asks.",
     },
     {

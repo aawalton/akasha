@@ -45,8 +45,10 @@ import type {
   Reading,
 } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
+  type Importer,
   idsNaming,
   importersOf,
+  importsReaching,
   type Named,
   namersAt,
   namersOf,
@@ -81,6 +83,7 @@ export type Answering = {
   readonly folderPropertiesAt: () => FoldersBy
   readonly idsNaming: (id: string, propertySlug: string) => readonly string[]
   readonly importersOf: (path: string) => readonly string[]
+  readonly importsReaching: (path: string) => readonly Importer[]
   readonly kindsUnder: (slug: string) => ReadonlySet<string>
   readonly knownIn: () => Shaped
   readonly listedAt: (pageTypeSlug: string, slug: string) => readonly Listed[]
@@ -144,6 +147,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     folderPropertiesAt: heldOnce(() => folderPropertiesAt(reading)),
     idsNaming: (id, propertySlug) => idsNaming(reading, id, propertySlug),
     importersOf: (path) => importersOf(reading, path),
+    importsReaching: (path) => importsReaching(reading, path),
     kindsUnder: (slug) => kindsUnder(slug, reading),
     knownIn: heldOnce(() => knownIn(reading, pageOf)),
     listedAt: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),

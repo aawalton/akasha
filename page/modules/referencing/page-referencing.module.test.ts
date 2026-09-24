@@ -65,6 +65,15 @@ test("a line read back is the reference it was composed from", () => {
   ])
 })
 
+test("an import's line carries whether it names a type and whether it is followed later", () => {
+  const typed: Reference = { ...IMPORTED, typed: true, deferred: false }
+
+  expect(bodyOf([typed])).toBe(
+    '{"propertySlug":"import","fileName":"x.module.code.ts","path":"a/a.module.code.ts","typed":true,"deferred":false}\n'
+  )
+  expect(referencesEach(bodyOf([typed]).split("\n").slice(0, 1))).toEqual([typed])
+})
+
 test("a line that will not parse is left out rather than thrown over", () => {
   expect(referenceIn("{")).toBe(null)
   expect(referenceIn("[]")).toBe(null)

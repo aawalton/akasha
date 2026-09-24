@@ -15,6 +15,8 @@ export type Reference = {
   readonly fileName: string | null
   readonly path: string
   readonly id: string | null
+  readonly typed?: boolean
+  readonly deferred?: boolean
 }
 
 export function referencesAt(pagePath: string): string | null {
@@ -34,6 +36,8 @@ const REFERENCE_LINE = z.object({
   fileName: z.string().optional().catch(undefined),
   path: z.string(),
   id: z.string().optional().catch(undefined),
+  typed: z.boolean().optional().catch(undefined),
+  deferred: z.boolean().optional().catch(undefined),
 })
 
 export function referenceIn(line: string): Reference | null {
@@ -50,6 +54,8 @@ export function referenceIn(line: string): Reference | null {
     fileName: held.fileName ?? null,
     path: held.path,
     id: held.id ?? null,
+    ...(held.typed === undefined ? {} : { typed: held.typed }),
+    ...(held.deferred === undefined ? {} : { deferred: held.deferred }),
   }
 }
 
@@ -63,9 +69,11 @@ export function referencesEach(lines: Iterable<string>): readonly Reference[] {
 }
 
 export function lineOf(one: Reference): string {
-  const said: Record<string, string> = { propertySlug: one.propertySlug }
+  const said: Record<string, string | boolean> = { propertySlug: one.propertySlug }
   if (one.fileName !== null) said.fileName = one.fileName
   said.path = one.path
   if (one.id !== null) said.id = one.id
+  if (one.typed !== undefined) said.typed = one.typed
+  if (one.deferred !== undefined) said.deferred = one.deferred
   return JSON.stringify(said)
 }

@@ -123,9 +123,26 @@ test("an import files a line into the file beside the page the file imported bel
   expect(importedFrom(INDEXED, body, CODE_AT, "")).toEqual([
     {
       at: "akasha/b.module.referenced-by.jsonl",
-      line: `{"propertySlug":"import","fileName":"b.module.code.ts","path":"${CODE_AT}"}`,
+      line: `{"propertySlug":"import","fileName":"b.module.code.ts","path":"${CODE_AT}","typed":false,"deferred":false}`,
     },
   ])
+})
+
+test("an import files whether that import names a type and whether it is followed later", () => {
+  const body =
+    'import type { One } from "./b.module.code.ts"\nconst two = await import("./b.module.code.ts")\n'
+
+  expect(importedFrom(INDEXED, body, CODE_AT, "").map((one) => one.line)).toEqual([
+    `{"propertySlug":"import","fileName":"b.module.code.ts","path":"${CODE_AT}","typed":true,"deferred":false}`,
+    `{"propertySlug":"import","fileName":"b.module.code.ts","path":"${CODE_AT}","typed":false,"deferred":true}`,
+  ])
+})
+
+test("a file imported the same way twice files one line", () => {
+  const body =
+    'import { one } from "./b.module.code.ts"\nimport { two } from "./b.module.code.ts"\n'
+
+  expect(importedFrom(INDEXED, body, CODE_AT, "")).toHaveLength(1)
 })
 
 test("an import of a page's own file names that file rather than naming none", () => {
@@ -134,7 +151,7 @@ test("an import of a page's own file names that file rather than naming none", (
   expect(importedFrom(INDEXED, body, CODE_AT, "")).toEqual([
     {
       at: "akasha/b.module.referenced-by.jsonl",
-      line: `{"propertySlug":"import","fileName":"b.module.ts","path":"${CODE_AT}"}`,
+      line: `{"propertySlug":"import","fileName":"b.module.ts","path":"${CODE_AT}","typed":true,"deferred":false}`,
     },
   ])
 })

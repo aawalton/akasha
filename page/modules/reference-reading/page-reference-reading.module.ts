@@ -24,6 +24,15 @@ export const pageReferenceReading = {
       decisionKind: "decision-kind/departure",
       statement: "A page's references are read once for one reading and held.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each way a file is imported is answered as the line filed says, and never read again off the body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file imported more than one way names its importer once among the importers.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

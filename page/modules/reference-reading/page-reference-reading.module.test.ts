@@ -5,6 +5,7 @@ import type { Child, Reading } from "akasha/page/index/modules/shape/index-shape
 import {
   idsNaming,
   importersOf,
+  importsReaching,
   namersAt,
   namersOf,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
@@ -57,7 +58,8 @@ const HELD: Record<string, string> = {
   [APP_TYPE_AT]: TYPED,
   "akasha/router-app.page-type.shapes.jsonl": SHAPED,
   "akasha/b.domain.referenced-by.jsonl": [
-    '{"propertySlug":"import","fileName":"b.domain.code.ts","path":"akasha/a.module.code.ts"}',
+    '{"propertySlug":"import","fileName":"b.domain.code.ts","path":"akasha/a.module.code.ts","typed":false,"deferred":true}',
+    '{"propertySlug":"import","fileName":"b.domain.code.ts","path":"akasha/a.module.code.ts","typed":true,"deferred":false}',
     `{"propertySlug":"parts","path":"${NAMER_AT}","id":"${NAMER_ID}"}`,
     "",
   ].join("\n"),
@@ -105,6 +107,17 @@ test("who names a page is answered beside that page, though no id in the index r
 
 test("who imports a file beside a page is read from that page's file", () => {
   expect(importersOf(worldOf(HELD), "akasha/b.domain.code.ts")).toEqual(["akasha/a.module.code.ts"])
+})
+
+test("a file imported two ways names its importer once", () => {
+  expect(importersOf(worldOf(HELD), "akasha/b.domain.code.ts")).toHaveLength(1)
+})
+
+test("each way a file is imported is answered as the file beside the page files it", () => {
+  expect(importsReaching(worldOf(HELD), "akasha/b.domain.code.ts")).toEqual([
+    { path: "akasha/a.module.code.ts", typed: false, deferred: true },
+    { path: "akasha/a.module.code.ts", typed: true, deferred: false },
+  ])
 })
 
 test("a file nothing imports answers nothing, though its page is referenced", () => {

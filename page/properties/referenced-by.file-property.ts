@@ -24,6 +24,14 @@ export const referencedBy = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line for an import says whether that import names only a type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line for an import says whether that import is followed only later.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reference to a file beside the page says that file's name.",
     },
     {
