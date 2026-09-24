@@ -19,6 +19,7 @@ import { carrying, type World } from "akasha/change/modules/shadow/change-shadow
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
+import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { Named } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
@@ -133,14 +134,15 @@ export function slugRenamed(world: World, given: Asked): Said {
   }
   if (given.to === slug.text) return refusing(`\`${given.to}\` is the slug it already carries`)
   const namers = world.index.namersOf(id.text)
-  if (world.index.slugsOfType(pageType.text).includes(given.to)) {
-    return refusing(`a \`${pageType.text}\` carries the slug \`${given.to}\` already`)
+  const typeSlug = slugIn(pageType.text) ?? pageType.text
+  if (world.index.slugsOfType(typeSlug).includes(given.to)) {
+    return refusing(`a \`${typeSlug}\` carries the slug \`${given.to}\` already`)
   }
   const name = said.get(NAME)
   if (given.name !== undefined && name === undefined) {
     return refusing(`\`${given.at}\` states no text under \`${NAME}\``)
   }
-  const one = { was: slug.text, now: given.to, pageTypeSlug: pageType.text }
+  const one = { was: slug.text, now: given.to, pageTypeSlug: typeSlug }
   const texts = new Map<string, string>([[given.at, text]])
   const spots = new Map<string, Splice[]>()
   const put = (path: string, held: readonly Splice[]): undefined => {

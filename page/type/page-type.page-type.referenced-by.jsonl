@@ -54,6 +54,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/generator-turning/generator-turning.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/page-property/index-page-property.index.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/modules/address/page-address.module.test.ts"}
@@ -62,6 +63,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/modules/shadow/shadow.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/modules/value/page-value.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/service/modules/page-shaping/page-shaping.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.test.ts"}

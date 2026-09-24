@@ -1,6 +1,7 @@
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { graphAttribute } from "akasha/graph/attribute/graph-attribute.page-type.ts"
 import { property } from "akasha/graph/attribute/pages/property.graph-attribute.ts"
+import { graphEdge } from "akasha/graph/edge/graph-edge.page-type.ts"
 import {
   bodyOf,
   graphedRepo,
@@ -13,6 +14,7 @@ import {
   type Declared,
   shaping,
 } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const TREE = "akasha"
 
@@ -27,7 +29,7 @@ function typed(
 ): Named {
   return thePage({
     id: heldId(one),
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug,
     extends: above.map((held) => `page-type/${held}`),
     ...(owner === undefined ? {} : { owner }),
@@ -38,13 +40,13 @@ function typed(
 const HELD: readonly Named[] = [
   thePage({
     id: heldId("1"),
-    pageTypeSlug: "graph-attribute",
+    type: `${pageType.slug}/${graphAttribute.slug}`,
     slug: "property",
     definition: "the property one page named another page under",
   }),
   thePage({
     id: heldId("2"),
-    pageTypeSlug: "graph-edge",
+    type: `${pageType.slug}/${graphEdge.slug}`,
     slug: "relation",
     definition: "one page naming another page under a property",
     attributes: [`${graphAttribute.slug}/${property.slug}`],

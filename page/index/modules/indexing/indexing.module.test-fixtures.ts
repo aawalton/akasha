@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
 import { everyFileUnder } from "akasha/check/test/fixture/walking/walking.test-fixture.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   type Indexing,
   indexingAt,
@@ -26,6 +27,7 @@ import {
 import { referencesAt } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const A = idOf("a")
 export const B = idOf("b")
@@ -303,10 +305,12 @@ function uniqueKindRespelled(unique: string): readonly string[] {
 export const untouchedAfter = (unique: string): boolean =>
   uniqueKindRespelled(unique).some((one) => one.includes(join("page", "id", B.slice(-2), B)))
 
-export const aTarget = (slug: string): Named => thePage({ id: D, pageTypeSlug: "domain", slug })
+export const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+export const aTarget = (slug: string): Named => thePage({ id: D, type: DOMAIN_AT, slug })
 
 export const aSource = (slug: string, names: string): Named =>
-  thePage({ id: A, pageTypeSlug: "domain", slug, partSlugs: [`domain/${names}`] })
+  thePage({ id: A, type: DOMAIN_AT, slug, partSlugs: [`domain/${names}`] })
 
 const writingTo = (at: string): string =>
   `import { writeFileSync } from "node:fs"\nwriteFileSync("${at}", "x")\nexport const it = { id: "${D}", pageTypeSlug: "domain", slug: "d" }\n`
@@ -338,4 +342,4 @@ export const TYPE_SLUG: Named = aProperty(idOf("e"), "type-slug", "relation-prop
 })
 
 export const namingAType = (slug: string): Named =>
-  thePage({ id: A, pageTypeSlug: "domain", slug: "namer", typeSlug: `page-type/${slug}` })
+  thePage({ id: A, type: DOMAIN_AT, slug: "namer", typeSlug: `page-type/${slug}` })

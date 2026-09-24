@@ -47,7 +47,7 @@ export function pageOf(value: Held): string {
 export function carriedPage(slug: string, id: string): string {
   return pageOf({
     id,
-    pageTypeSlug: "module",
+    type: MODULE_AT,
     slug,
     definition: "a page a carried folder holds",
     code: "ts",
@@ -133,16 +133,17 @@ export function aType(
   }))
   return [
     `${slug}.page-type.ts`,
-    { id, pageTypeSlug: "page-type", slug, extends: above, properties },
+    { id, type: `${pageType.slug}/${PAGE_TYPE}`, slug, extends: above, properties },
   ]
 }
 
 export function aProperty(id: string, slug: string, shape: string, rest: Held = {}): Named {
-  return [`${slug}.${shape}.ts`, { id, pageTypeSlug: shape, slug, propertySlug: slug, ...rest }]
+  const type = `${pageType.slug}/${shape}`
+  return [`${slug}.${shape}.ts`, { id, type, slug, propertySlug: slug, ...rest }]
 }
 
 export function thePage(value: Held): Named {
-  const said = String(value.pageTypeSlug ?? value.type)
+  const said = String(value.type)
   return [`${String(value.slug)}.${slugIn(said) ?? said}.ts`, value]
 }
 
@@ -234,7 +235,7 @@ const REPO_VOCABULARY: readonly Named[] = [
 
 const changePage = (reached: Reached, one: number): Held => ({
   id: changeId(String(one + 1)),
-  pageTypeSlug: reached.type,
+  type: `${pageType.slug}/${reached.type}`,
   slug: reached.slug,
   definition: "a mechanical change an indexed repository carries",
   code: "ts",
@@ -258,7 +259,7 @@ function changesHeld(): Readonly<Record<string, string>> {
 
 const modulePage = (slug: string, id: string): Held => ({
   id,
-  pageTypeSlug: "module",
+  type: MODULE_AT,
   slug,
   definition: "a page an indexed repository carries",
   code: "ts",
@@ -288,13 +289,13 @@ const GRAPHED: Readonly<Record<string, string>> = Object.fromEntries(
     }),
     thePage({
       id: graphId("4"),
-      pageTypeSlug: graphAttribute.slug,
+      type: `${pageType.slug}/${graphAttribute.slug}`,
       slug: known.slug,
       definition: "how an edge between two files was found",
     }),
     thePage({
       id: graphId("5"),
-      pageTypeSlug: "graph-edge",
+      type: `${pageType.slug}/graph-edge`,
       slug: "import-edge",
       definition: "one file naming another in its own body",
       attributes: [`${graphAttribute.slug}/${known.slug}`],

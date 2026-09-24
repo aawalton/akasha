@@ -22,6 +22,7 @@ import {
   bare,
   C,
   D,
+  DOMAIN_AT,
   grounded,
   idFile,
   linesIn,
@@ -190,7 +191,7 @@ test("a value the change withdraws that would not resolve before it is reported"
 
 test("a page type renamed in the same change withdraws the edge a bare value left", () => {
   const { tree, root } = grounded()
-  const d = thePage({ id: D, pageTypeSlug: "domain", slug: "d", domainSlug: "c" })
+  const d = thePage({ id: D, type: DOMAIN_AT, slug: "d", domainSlug: "c" })
   expect(wrotePages(root, tree, [d])).toEqual([])
   expect(namesIn(root, tree, C, "domain-slug", D)).toEqual(["d.domain.ts"])
 

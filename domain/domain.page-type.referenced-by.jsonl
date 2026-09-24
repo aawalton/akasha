@@ -124,6 +124,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/generator-turning/generator-turning.module.test.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/modules/address/page-address.module.test.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts"}
