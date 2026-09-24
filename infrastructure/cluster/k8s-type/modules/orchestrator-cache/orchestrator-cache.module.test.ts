@@ -10,6 +10,7 @@ import {
 } from "node:fs"
 import { join } from "node:path"
 import { ran, said } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   webBuildInitContainer,
   webCheckoutAndBuild,
@@ -81,7 +82,7 @@ function servedBuild(cache: Cache, stamp: string | null): undefined {
 
 function runIn(cache: Cache, script: string): string {
   const done = ran(["sh", "-c", script.replaceAll("/app/", `${cache.root}/`)], {
-    env: { ...process.env, PATH: `${cache.root}/bin:${process.env.PATH ?? ""}` },
+    env: { ...process.env, PATH: `${cache.root}/bin:${requireEnv("PATH")}` },
   })
   expect({ code: done.code, err: done.err }).toMatchObject({ code: 0 })
   return done.out
