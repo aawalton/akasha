@@ -73,7 +73,7 @@ export const trackSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A release whose tracks are filed is marked so within the run that filed them.",
+      statement: "A release's count of tracks filed is kept up within the run that filed them.",
     },
     {
       decisionKind: "decision-kind/absence",

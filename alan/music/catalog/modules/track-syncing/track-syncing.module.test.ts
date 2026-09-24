@@ -84,7 +84,7 @@ function nothingFiled(): Tracked {
   return {
     names: catalogueNamesFrom([]),
     held: new Map<string, Value>(),
-    byRelease: new Set(),
+    byRelease: new Map<string, number>(),
     byKey: new Map<string, string>(),
   }
 }
@@ -257,18 +257,18 @@ test("two takes of one composition are filed as one song", () => {
   expect(edits.tracked).toBe(2)
 })
 
-test("a release whose tracks are filed is marked so within the run that filed them", () => {
+test("a release's count of tracks filed is kept up within the run that filed them", () => {
   const tracks = nothingFiled()
   expect(tracks.byRelease.has(RELEASE)).toBe(false)
   trackEdits({
     releaseSlug: RELEASE,
     artistSlug: ARTIST,
     filing: filingOf([]),
-    album: album(track("t0", "One", 60_000, 1)),
+    album: album(track("t0", "One", 60_000, 1), track("t1", "Two", 60_000, 2)),
     tracks,
     edit: (_pageTypeSlug, slug) => ({ at: ADDS, given: { at: slug, body: "" } }),
   })
-  expect(tracks.byRelease.has(RELEASE)).toBe(true)
+  expect(tracks.byRelease.get(RELEASE)).toBe(2)
 })
 
 test("a track states the release carrying it and where on that release it sits", () => {

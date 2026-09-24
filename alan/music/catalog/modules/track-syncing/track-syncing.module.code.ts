@@ -90,7 +90,7 @@ function collectionsWith(held: unknown, named: string): readonly string[] {
 export type Tracked = {
   readonly names: CatalogueNames
   readonly held: Map<string, Value>
-  readonly byRelease: Set<string>
+  readonly byRelease: Map<string, number>
   readonly byKey: Map<string, string>
 }
 
@@ -99,7 +99,7 @@ export type Editing = (pageTypeSlug: string, slug: string, values: Value) => Ask
 export function tracksFiledIn(root: string): Tracked {
   const rows: { readonly slug: string; readonly externalId: string | null }[] = []
   const held = new Map<string, Value>()
-  const byRelease = new Set<string>()
+  const byRelease = new Map<string, number>()
   const byKey = new Map<string, string>()
   for (const one of valuesOfType(root, TRACK)) {
     const slug = textIn(one.value, "slug")
@@ -109,7 +109,9 @@ export function tracksFiledIn(root: string): Tracked {
       rows.push({ slug, externalId: textIn(carrier, EXTERNAL_ID) })
     }
     held.set(slug, one.value)
-    for (const said of slugsUnder(one.value[PART_OF], UNDER_RELEASE)) byRelease.add(said)
+    for (const said of slugsUnder(one.value[PART_OF], UNDER_RELEASE)) {
+      byRelease.set(said, (byRelease.get(said) ?? 0) + 1)
+    }
     const key = textIn(one.value, TRACK_KEY)
     if (key === null) continue
     byKey.set(key, slugSortingFirst(byKey.get(key) ?? null, slug))
@@ -174,10 +176,12 @@ export function trackEdits(args: {
   readonly edit: Editing
 }): Edited {
   const edits: Asking[] = []
+  const carried = new Set<string>()
   let tracked = 0
   let filed = 0
   for (const track of args.album.tracks.items) {
     const slug = trackSlugFor(args.tracks, args.releaseSlug, track)
+    carried.add(slug)
     const song = songForTrack(args.filing, args.artistSlug, track.name)
     if (song !== null && song.values !== null) {
       edits.push(args.edit(SONG, song.slug, song.values))
@@ -194,6 +198,6 @@ export function trackEdits(args: {
     edits.push(args.edit(TRACK, slug, values))
     tracked += 1
   }
-  args.tracks.byRelease.add(args.releaseSlug)
+  args.tracks.byRelease.set(args.releaseSlug, carried.size)
   return { edits, tracked, filed }
 }
