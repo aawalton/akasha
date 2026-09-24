@@ -29,7 +29,7 @@ export const infrastructureCalls = {
       statement: "No call here is run from here.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A level put between two named here is left whole in the call until this names it.",
     },
