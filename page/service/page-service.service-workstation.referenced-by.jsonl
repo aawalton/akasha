@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"page-service.service-workstation.running.code.ts","path":"page/service/page-service.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"page-service.service-workstation.ts","path":"infrastructure/service/workstation/modules/service-reading/service-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-service.service-workstation.ts","path":"page/service/modules/page-listening/page-listening.module.code.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-shape-memo-with-no-invalidation-breaks-only-the-readers-that-straddle-a-rename.finding.ts","id":"01a0cb57-5370-7a46-b8a2-99435179d29d"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
