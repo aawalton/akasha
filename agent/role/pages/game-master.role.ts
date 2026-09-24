@@ -5,7 +5,7 @@ export const gameMaster = {
   type: "page-type/role",
   slug: "game-master",
   definition: "an agent running a game for the people playing it",
-  onCall: false,
+  onCall: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
