@@ -65,11 +65,11 @@ export const noUnparsedBoundaryRead = {
       statement: "Every site the rule names is repaired.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A parse outside the block the read sits in is not seen.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A read followed through a second variable is not seen.",
     },
     {
