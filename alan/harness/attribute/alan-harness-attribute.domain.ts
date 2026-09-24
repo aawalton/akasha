@@ -4,7 +4,7 @@ export const alanHarnessAttribute = {
   id: "01a0687a-f498-76b9-9a54-205509f15f64",
   type: "page-type/domain",
   slug: "alan-harness-attribute",
-  definition: "the points Alan's daily upkeep habits earned him on a day",
+  definition: "how Alan's attributes are counted",
   parts: [
     "module/attributes-reading",
     "module/attributes-totalling",
