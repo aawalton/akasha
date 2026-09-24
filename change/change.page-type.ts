@@ -23,6 +23,7 @@ export const change = {
     "module/code-export-repointing",
     "module/edits-dropping",
     "module/edits-keeping",
+    "module/entry-rewriting",
     "module/export-keyword",
     "module/export-renaming",
     "module/file-carrying",

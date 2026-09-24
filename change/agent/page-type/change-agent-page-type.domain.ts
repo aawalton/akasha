@@ -13,6 +13,7 @@ export const changeAgentPageType = {
     "change-agent/add-property-to-page-type",
     "change-agent/change-calculation-held-type",
     "change-agent/change-property-on-page-type",
+    "change-agent/copy-entry-key-on-every-page",
     "change-agent/copy-property-on-every-page",
     "change-agent/move-property-on-every-page",
     "change-agent/qualify-relation-by-key-on-every-page",

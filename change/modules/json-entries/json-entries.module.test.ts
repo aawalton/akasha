@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  keyCopiedInEntries,
   keysGoingIn,
   keysGoingInEntries,
   objectOf,
@@ -132,4 +133,35 @@ test("a value stated as neither text nor a list is left as it is", () => {
 
 test("a value the caller states no new spelling for is left as it is", () => {
   expect(entriesAnew('{"id":"e","wold":"md"}\n', "wold", SPELLING)).toBe('{"id":"e","wold":"md"}\n')
+})
+
+function entriesCopied(text: string): string {
+  const spans = keyCopiedInEntries(ROWS_AT, text, "wold", "weald")
+  if (typeof spans === "string") throw new Error(spans)
+  let said = text
+  for (const one of [...spans].sort((here, there) => there.from - here.from)) {
+    said = said.slice(0, one.from) + one.put + said.slice(one.to)
+  }
+  return said
+}
+
+test("a key named is copied under a second key straight after it, in every entry stating it", () => {
+  expect(entriesCopied(ROWS)).toBe(
+    [
+      '{"id":"a","wold":"ts","weald":"ts","note":"kept"}',
+      '{"id":"b","note":"kept"}',
+      '{"id":"c","wold":"tsx","weald":"tsx"}',
+      "",
+    ].join("\n")
+  )
+})
+
+test("an entry stating both keys with one value is passed over", () => {
+  expect(keyCopiedInEntries(ROWS_AT, '{"wold":"ts","weald":"ts"}\n', "wold", "weald")).toEqual([])
+})
+
+test("an entry stating both keys with two values is refused, naming its file", () => {
+  const said = keyCopiedInEntries(ROWS_AT, '{"wold":"ts","weald":"md"}\n', "wold", "weald")
+
+  expect(typeof said === "string" ? said : "").toContain(ROWS_AT)
 })

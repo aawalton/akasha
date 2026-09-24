@@ -99,5 +99,21 @@ export const jsonEntries = {
       decisionKind: "decision-kind/departure",
       statement: "A value the caller states no new spelling for is left as it is.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key named is copied under a second key in every entry stating the first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The second key is put straight after the first, spelled as the first is spelled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry stating both keys with one value is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry stating both keys with two values is refused, naming its file.",
+    },
   ],
 } as const satisfies Module

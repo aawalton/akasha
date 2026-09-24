@@ -68,6 +68,9 @@ export type Changes = {
   "change-agent/change-prose-pattern": Parameters<
     typeof import("akasha/change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/copy-entry-key-on-every-page": Parameters<
+    typeof import("akasha/change/agent/page-type/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/copy-property-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
@@ -295,6 +298,9 @@ export type Changes = {
   >[1]
   "change-mechanical-page-type/change-property-on-page-type": Parameters<
     typeof import("akasha/change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-page-type/copy-entry-key-on-every-page": Parameters<
+    typeof import("akasha/change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
   "change-mechanical-page-type/copy-property-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.code.ts")["runChange"]

@@ -93,6 +93,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/change-calculation-held-type/change-calculation-held-type.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/copy-property-on-every-page/copy-property-on-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/move-property-on-every-page/move-property-on-every-page.change-agent.code.ts"}
@@ -211,6 +213,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.test.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.test.ts"}
@@ -245,6 +249,7 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/entry-rewriting/entry-rewriting.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/export-renaming/export-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.test.ts"}

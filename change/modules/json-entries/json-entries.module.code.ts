@@ -143,3 +143,49 @@ export function valuesWrittenAnewInEntries(
   }
   return found
 }
+
+function stated(held: ts.ObjectLiteralExpression, key: string): ts.PropertyAssignment | null {
+  for (const one of held.properties) {
+    if (ts.isPropertyAssignment(one) && ts.isStringLiteral(one.name) && one.name.text === key) {
+      return one
+    }
+  }
+  return null
+}
+
+function spelledIn(source: ts.JsonSourceFile, text: string, one: ts.PropertyAssignment): string {
+  return text.slice(one.initializer.getStart(source), one.initializer.getEnd())
+}
+
+function keyCopied(at: string, line: string, from: string, to: string): Splice | string | null {
+  const source = ts.parseJsonText(at, line)
+  const held = objectOf(source)
+  if (held === null) return null
+  const read = stated(held, from)
+  if (read === null) return null
+  const value = spelledIn(source, line, read)
+  const written = stated(held, to)
+  if (written === null) {
+    return { from: read.getEnd(), to: read.getEnd(), put: `,${JSON.stringify(to)}:${value}` }
+  }
+  const already = spelledIn(source, line, written)
+  if (already === value) return null
+  return `\`${at}\` has an entry stating \`${to}\` as ${already} and \`${from}\` as ${value}`
+}
+
+export function keyCopiedInEntries(
+  at: string,
+  text: string,
+  from: string,
+  to: string
+): readonly Splice[] | string {
+  const found: Splice[] = []
+  let offset = 0
+  for (const line of text.split(LINE)) {
+    const one = line.trim() === "" ? null : keyCopied(at, line, from, to)
+    if (typeof one === "string") return one
+    if (one !== null) found.push({ from: offset + one.from, to: offset + one.to, put: one.put })
+    offset = offset + line.length + LINE.length
+  }
+  return found
+}

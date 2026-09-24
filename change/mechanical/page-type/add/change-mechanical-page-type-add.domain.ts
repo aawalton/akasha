@@ -11,6 +11,7 @@ export const changeMechanicalPageTypeAdd = {
     "change-mechanical-page-type/add-page-type-types",
     "change-mechanical-page-type/add-property-to-every-page",
     "change-mechanical-page-type/add-property-to-page-type",
+    "change-mechanical-page-type/copy-entry-key-on-every-page",
     "change-mechanical-page-type/copy-property-on-every-page",
   ],
   decisions: [
