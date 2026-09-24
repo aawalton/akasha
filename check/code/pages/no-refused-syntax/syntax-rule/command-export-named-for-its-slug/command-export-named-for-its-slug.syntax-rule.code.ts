@@ -3,6 +3,7 @@ import type {
   Marking,
   Refusal,
 } from "akasha/check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { calledIn } from "akasha/page/modules/export-name/modules/export-spelling/export-spelling.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 
@@ -22,7 +23,7 @@ export function slugOf(path: string): string | null {
   if (!path.startsWith(COMMANDS_AT)) return null
   const parts = path.slice(COMMANDS_AT.length).split("/")
   const named = parts[parts.length - LAST] ?? ""
-  return CODE_NAMED.exec(named)?.[LAST] ?? null
+  return firstCapture(CODE_NAMED.exec(named))
 }
 
 export function commandExportNamedForItsSlug(standing: Given): readonly Refusal[] {

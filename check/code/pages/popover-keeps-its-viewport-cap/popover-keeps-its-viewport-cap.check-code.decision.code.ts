@@ -6,6 +6,7 @@ import {
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import ts from "typescript"
@@ -67,7 +68,7 @@ function cappedFamilyOf(fn: ts.FunctionDeclaration): string | null {
     if (ts.isJsxAttribute(node) && ts.isIdentifier(node.name)) {
       if (node.name.text === COLLISION_PADDING) padded = true
     }
-    if (family === null && stringish(node)) family = CAP_RE.exec(node.text)?.[1] ?? null
+    if (family === null && stringish(node)) family = firstCapture(CAP_RE.exec(node.text))
     ts.forEachChild(node, visit)
     return
   }

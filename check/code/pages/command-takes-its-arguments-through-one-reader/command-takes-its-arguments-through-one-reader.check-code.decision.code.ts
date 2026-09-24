@@ -4,6 +4,7 @@ import {
   parsedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { landingOf } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import ts from "typescript"
@@ -99,13 +100,13 @@ function tailOf(path: string): string | null {
 export function slugOf(path: string): string | null {
   const held = tailOf(path)
   if (held === null) return null
-  return CODE_NAMED.exec(held)?.[STEM] ?? null
+  return firstCapture(CODE_NAMED.exec(held))
 }
 
 export function moduleOf(path: string): string | null {
   const held = tailOf(path)
   if (held === null) return null
-  return MODULE_NAMED.exec(held)?.[STEM] ?? null
+  return firstCapture(MODULE_NAMED.exec(held))
 }
 
 function judgedIn(path: string): boolean {

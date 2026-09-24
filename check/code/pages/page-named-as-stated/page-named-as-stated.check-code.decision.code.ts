@@ -8,6 +8,7 @@ import {
   literalOf,
   skimmedAs,
 } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type { Parted } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -112,7 +113,7 @@ function countOf(text: string, one: string): number {
 
 function pageTypeSaidIn(text: string): string | null {
   if (countOf(text, PAGE_TYPE_KEY) !== 1) return null
-  return PAGE_TYPE_SAID.exec(text)?.[1] ?? null
+  return firstCapture(PAGE_TYPE_SAID.exec(text))
 }
 
 export function namedPlainly(stem: string, suffix: string, text: string): boolean {
@@ -121,11 +122,11 @@ export function namedPlainly(stem: string, suffix: string, text: string): boolea
   const opened = outer[outer.length - 2]
   if (shut === undefined || opened === undefined) return false
   if (shut.index + shut[0].length !== text.length - 1 || !SHUT_AS.test(shut[0])) return false
-  if (OPENED_AS.exec(opened[0])?.[1] !== exportedAs(stem)) return false
+  if (firstCapture(OPENED_AS.exec(opened[0])) !== exportedAs(stem)) return false
   for (const one of outer.slice(0, -2)) {
     if (!IMPORTED.test(one[0])) return false
   }
-  if (countOf(text, SLUG_KEY) !== 1 || SLUG_SAID.exec(text)?.[1] !== stem) return false
+  if (countOf(text, SLUG_KEY) !== 1 || firstCapture(SLUG_SAID.exec(text)) !== stem) return false
   const said = pageTypeSaidIn(text)
   return said !== null && slugOf(said) === suffix
 }

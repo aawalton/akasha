@@ -16,6 +16,7 @@ import {
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { z } from "zod"
 
 const COMPILER = "typescript/lib/tsc.js"
 
@@ -32,6 +33,12 @@ const PACKAGE = "akasha"
 const PLACED = /^(.+)\((\d+),(\d+)\): error TS(\d+): (.*)$/
 
 const UNPLACED = /^error TS(\d+): (.*)$/
+
+const COUNTED = z.coerce.number().int()
+
+const PLACED_SAID = z.tuple([z.string(), z.string(), COUNTED, COUNTED, COUNTED, z.string()])
+
+const UNPLACED_SAID = z.tuple([z.string(), COUNTED, z.string()])
 
 const FOLLOWS = " "
 
@@ -67,15 +74,15 @@ export function builtFrom(path: string): boolean {
 }
 
 function lineOf(line: string): Found | null {
-  const placed = PLACED.exec(line)
-  if (placed !== null) {
-    const [, path = "", at = "0", column = "0", code = "0", said = ""] = placed
-    return { path, line: Number(at), column: Number(column), code: Number(code), said }
+  const placed = PLACED_SAID.safeParse(PLACED.exec(line))
+  if (placed.success) {
+    const [, path, at, column, code, said] = placed.data
+    return { path, line: at, column, code, said }
   }
-  const unplaced = UNPLACED.exec(line)
-  if (unplaced === null) return null
-  const [, code = "0", said = ""] = unplaced
-  return { path: null, line: 0, column: 0, code: Number(code), said }
+  const unplaced = UNPLACED_SAID.safeParse(UNPLACED.exec(line))
+  if (!unplaced.success) return null
+  const [, code, said] = unplaced.data
+  return { path: null, line: 0, column: 0, code, said }
 }
 
 export function foundIn(output: string): readonly Found[] {
