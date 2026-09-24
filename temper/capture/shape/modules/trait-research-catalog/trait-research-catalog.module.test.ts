@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import type { TraitResearchCatalogCraftType } from "akasha/temper/capture/shape/modules/trait-research-catalog/trait-research-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
@@ -20,7 +21,11 @@ const traitResearchCatalogCraftTypeSchema = z
 
 const traitResearchCatalogSchema = z.record(z.coerce.number(), traitResearchCatalogCraftTypeSchema)
 
-assertSchemaMatchesPayload<
-  typeof traitResearchCatalogSchema,
-  Record<number, TraitResearchCatalogCraftType>
->()
+test("the trait research catalog schema infers exactly the trait research catalog shape", () => {
+  expect(
+    assertSchemaMatchesPayload<
+      typeof traitResearchCatalogSchema,
+      Record<number, TraitResearchCatalogCraftType>
+    >()
+  ).toBeUndefined()
+})

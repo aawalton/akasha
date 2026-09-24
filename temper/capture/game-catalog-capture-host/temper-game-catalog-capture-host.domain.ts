@@ -8,7 +8,6 @@ export const temperGameCatalogCaptureHost = {
   parts: [
     "module/antiquity-lore-catalog-schema",
     "module/lore-library-catalog-schema",
-    "module/trait-research-catalog-schema",
     "module/tribute-catalog-schema",
     "module/zone-completion-catalog-schema",
   ],
