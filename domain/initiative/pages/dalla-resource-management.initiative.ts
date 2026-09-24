@@ -10,7 +10,7 @@ export const dallaResourceManagement = {
     {
       statement: "Every check an agent runs has a memory ceiling of its own.",
       workingMemory:
-        "Fifty-eight of the fifty-nine code checks state maxCpuSeconds of their own, usually ten seconds and up to thirty, and ranOver judges cpuSeconds plus childCpuSeconds once the run ended. Nothing states a memory ceiling. A check runs inside the checking process, and the peak recorded is that process's high water mark, forgotten before each check and so counted from what the process already held rather than from nothing.",
+        "peakAddedBytes is measured for every check: the process's high-water mark is cleared before each check runs and what the check added above the resident mark is recorded, 2,997 of 2,997 rows measured. check.maxMemoryMb is declared, shown by `measure check` as a limit, and judged by nothing — ranOver judges processor seconds alone. Measured p95: no-unused-modules 842 MiB, typecheck 228, page-matches-its-type 30, relation-resolves 24, folder-matches-a-shape 21, the other 50 checks under 16.",
     },
     {
       statement: "Every audit an agent runs has a memory ceiling of its own.",
