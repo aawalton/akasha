@@ -16,6 +16,7 @@ import {
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const ADD = `${changeMechanicalFileContent.slug}/${addPropertyValue.slug}` as const
 
@@ -38,7 +39,7 @@ export const GONE = "akasha/one/gone.module.ts"
 const BESIDE: Readonly<Record<string, string>> = {
   [CARRIER]: pageOf({
     id: "01a08000-0000-7000-8000-000000000001",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "carrier",
     definition: "a page an indexed repository carries a list of parts on",
     code: "ts",
@@ -47,7 +48,7 @@ const BESIDE: Readonly<Record<string, string>> = {
   "akasha/one/carrier.module.code.ts": "export const carrier = 1\n",
   [ONE]: pageOf({
     id: "01a08000-0000-7000-8000-000000000002",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "one",
     definition: "a page an indexed repository carries to be named",
     code: "ts",
@@ -55,7 +56,7 @@ const BESIDE: Readonly<Record<string, string>> = {
   "akasha/one/one.module.code.ts": "export const one = 1\n",
   [TWO]: pageOf({
     id: "01a08000-0000-7000-8000-000000000003",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "two",
     definition: "a second page an indexed repository carries to be named",
     code: "ts",
@@ -79,7 +80,7 @@ type Carries = {
 
 const STATED: Value = {
   id: "01a08000-0000-7000-8000-000000000004",
-  pageTypeSlug: "module",
+  type: `${pageType.slug}/module`,
   slug: "stated",
 }
 
@@ -105,7 +106,7 @@ export const HELD_AT = "held/held.domain.ts"
 
 const HELD_ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
 
-const HELD = { id: HELD_ID, pageTypeSlug: "domain", slug: "held" } as Value
+const HELD = { id: HELD_ID, type: `${pageType.slug}/domain`, slug: "held" } as Value
 
 export const FOUND = [{ path: "two.command.ts", id: HELD_ID }]
 

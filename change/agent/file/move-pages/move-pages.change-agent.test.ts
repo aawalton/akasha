@@ -19,6 +19,7 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -39,7 +40,7 @@ const EVERY = [BORNE_CODE, BORNE_PAGE, BORNE_TEXT, HELD_CODE, HELD_PAGE]
 const BESIDE: Readonly<Record<string, string>> = {
   [BORNE_PAGE]: pageOf({
     id: "01a04a4a-0000-7000-8000-00000000000f",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "borne",
     definition: "a page an indexed repository carries beside prose",
     code: "ts",

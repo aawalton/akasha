@@ -13,6 +13,7 @@ import { running } from "akasha/change/runner/pages/test-change-running/test-cha
 import { domain } from "akasha/domain/domain.page-type.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const AT = "agent/seat/pages/held.seat.ts"
 
@@ -28,14 +29,14 @@ const BODY = `import type { Seat } from "../seat.page-type.ts"
 
 export const held = {
   id: "${ID}",
-  pageTypeSlug: "seat",
+  type: "page-type/seat",
   slug: "held",
   startMode: "interactive",
   assignmentSlug: "workspace-package/agent",
 } as const satisfies Seat
 `
 
-const PAGE = { id: ID, pageTypeSlug: "seat", slug: "held" } as Value
+const PAGE = { id: ID, type: `${pageType.slug}/seat`, slug: "held" } as Value
 
 function carrying(key: string, pageTypeSlug: string): Carried {
   return {

@@ -12,6 +12,7 @@ import {
   worldFor,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ADDRESS = `${changeMechanicalFileContent.slug}/${addPropertyRecordMechanical.slug}` as const
 
@@ -23,7 +24,7 @@ const BODY = `import type { Module } from "@akasha/code/module"
 
 export const held = {
   id: "${ID}",
-  pageTypeSlug: "module",
+  type: "page-type/module",
   slug: "held",
   code: "ts",
   decisions: [
@@ -32,7 +33,7 @@ export const held = {
 } as const satisfies Module
 `
 
-const PAGE = { id: ID, pageTypeSlug: "module", slug: "held" } as Value
+const PAGE = { id: ID, type: `${pageType.slug}/module`, slug: "held" } as Value
 
 function worldTold(): World {
   return worldFor(PAGE, BODY, running)
@@ -104,7 +105,7 @@ const SIBLINGS = new Map<string, Value>([
     "change/modules/other/other.module.ts",
     {
       id: "01a072c8-f35d-7ffc-afc3-75b72460b060",
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "other",
       directives: [],
       code: "ts",

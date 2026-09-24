@@ -17,6 +17,7 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -49,7 +50,7 @@ const ASTRAY_PAGE = "akasha/one/astray.module.ts"
 const BESIDE: Readonly<Record<string, string>> = {
   [BORNE_PAGE]: pageOf({
     id: "01a04a4a-0000-7000-8000-00000000000f",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "borne",
     definition: "a page an indexed repository carries beside prose",
     code: "ts",
@@ -63,7 +64,7 @@ const BESIDE: Readonly<Record<string, string>> = {
 const ASTRAY: Readonly<Record<string, string>> = {
   [ASTRAY_PAGE]: pageOf({
     id: "01a04a4a-0000-7000-8000-00000000001a",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "astray",
     definition: "a page naming a page no page answers",
     partSlugs: ["module/nobody"],
@@ -73,7 +74,7 @@ const ASTRAY: Readonly<Record<string, string>> = {
 const TWOFOLD: Readonly<Record<string, string>> = {
   "akasha/one/twofold.module.ts": pageOf({
     id: "01a04a4a-0000-7000-8000-00000000001b",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "twofold",
     definition: "a page naming two pages where one page is carried under one",
     partSlugs: [HELD_AT, "module/namer"],

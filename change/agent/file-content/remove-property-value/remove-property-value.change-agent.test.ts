@@ -24,6 +24,7 @@ import {
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -31,7 +32,7 @@ const AT = "held/held.domain.ts"
 
 const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
 
-const PAGE = { id: ID, pageTypeSlug: "domain", slug: "held" } as Value
+const PAGE = { id: ID, type: `${pageType.slug}/domain`, slug: "held" } as Value
 
 const RUNS = `${changeMechanicalFileContent.slug}/${removePropertyValueMechanical.slug}` as const
 
@@ -168,7 +169,7 @@ function pairWorld(tested: boolean): World {
   const named: Record<string, string> = {
     [PAIR_PAGE]: pageOf({
       id: idOf("d"),
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "pair",
       definition: "a page whose test sits beside it",
       code: "ts",

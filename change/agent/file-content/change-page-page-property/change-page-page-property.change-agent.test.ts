@@ -13,6 +13,7 @@ import {
   knownOf,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const AT = "agent/seat/pages/held.seat.ts"
 
@@ -22,13 +23,13 @@ const BODY = `import type { Seat } from "../seat.page-type.ts"
 
 export const held = {
   id: "${ID}",
-  pageTypeSlug: "seat",
+  type: "page-type/seat",
   slug: "held",
   assignmentSlug: "workspace-package/agent",
 } as const satisfies Seat
 `
 
-const PAGE = { id: ID, pageTypeSlug: "seat", slug: "held" } as Value
+const PAGE = { id: ID, type: `${pageType.slug}/seat`, slug: "held" } as Value
 
 function worldTold(slug: string | null, target: string | null): World {
   const known = knownOf({
