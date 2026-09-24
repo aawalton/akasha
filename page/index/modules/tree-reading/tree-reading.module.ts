@@ -71,15 +71,11 @@ export const treeReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The files and folders sitting in one folder are the ones git carries there.",
+      statement: "The files sitting in one folder are the ones git carries there.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A file git ignores and a file git was never told of are both left out.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A folder git carries nothing in is left out however much sits in it on disk.",
     },
     {
       decisionKind: "decision-kind/departure",

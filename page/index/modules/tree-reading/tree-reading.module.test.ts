@@ -6,7 +6,6 @@ import { said } from "akasha/git/modules/running/git-running.module.code.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import {
   filesIn,
-  foldersIn,
   pagesUnder,
   walkedUnder,
 } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
@@ -138,10 +137,6 @@ test("a file git ignores is no file of the folder it sits in", () => {
   expect(filesIn(carriedTree(), "one")).toEqual(["one/a.module.ts"])
 })
 
-test("a folder git carries nothing in is no folder of the folder above it", () => {
-  expect(foldersIn(carriedTree(), "one")).toEqual(["one/two"])
-})
-
 test("a tree no repository holds is read as that tree sits on disk", () => {
   const root = treeOf(["one/a.module.ts", "one/left.tsbuildinfo"])
 
@@ -167,7 +162,6 @@ test("a path a later commit first carried is carried by nothing at the commit na
   const { root, base } = landedOnTree()
 
   expect(filesIn(root, "one/later", base)).toEqual([])
-  expect(foldersIn(root, "one/later", base)).toEqual([])
 })
 
 test("that path is carried where no commit is named", () => {

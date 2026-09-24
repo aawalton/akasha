@@ -88,22 +88,6 @@ export function filesIn(
     .sort()
 }
 
-function leftOut(folder: string, name: string): boolean {
-  if (UNWALKED.has(name) || name.endsWith(LOCK)) return true
-  return folder === "" && name === QUARANTINE_ROOT
-}
-
-export function foldersIn(
-  root: string,
-  folder: string,
-  base: string | null = null
-): readonly string[] {
-  return sittingIn(root, folder, base)
-    .filter((one) => one.isDirectory() && !leftOut(folder, one.name))
-    .map((one) => join(folder, one.name))
-    .sort()
-}
-
 export function pagesUnder(tree: string): readonly string[] {
   const found = walkedUnder(tree, (name) => partedIn(name)?.sections.length === 0)
   const pageTypes = new Set<string>([PAGE_TYPE])
