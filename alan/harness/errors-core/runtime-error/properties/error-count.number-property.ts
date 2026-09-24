@@ -17,11 +17,11 @@ export const errorCount = {
       statement: "A count is kept outside the commit.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An error naming no count has been met an unknown number of times.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A count is never guessed where no count was read.",
     },
     {

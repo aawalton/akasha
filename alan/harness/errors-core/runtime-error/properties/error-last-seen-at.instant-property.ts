@@ -16,7 +16,7 @@ export const errorLastSeenAt = {
       statement: "The moment an error was last met is kept outside the commit.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An error naming no such moment was last met at an unknown moment.",
     },
   ],
