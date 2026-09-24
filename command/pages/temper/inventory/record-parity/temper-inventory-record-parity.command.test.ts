@@ -14,6 +14,40 @@ import {
 } from "akasha/command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.code.ts"
 import type { Verdict } from "akasha/temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"
 import { instantOf } from "akasha/temper/items/core/modules/capture-instant/capture-instant.module.code.ts"
+import { z } from "zod"
+
+const VERDICT_SAID = z.strictObject({
+  action: z.string(),
+  destination: z.string().nullable(),
+  by: z.string().nullable(),
+  ruleIndex: z.number().nullable(),
+})
+
+const PARITY_SAID = z.strictObject({
+  items: z.number(),
+  stacks: z.number(),
+  recordedStacks: z.number(),
+  itemsCompared: z.number(),
+  itemsUncovered: z.number(),
+  itemsUndated: z.number(),
+  inventoryPath: z.string(),
+  rules: z.number(),
+  agreed: z.number(),
+  disagreed: z.number(),
+  rows: z
+    .array(
+      z.strictObject({
+        itemId: z.number(),
+        itemName: z.string(),
+        stacks: z.number(),
+        recorded: VERDICT_SAID,
+        fresh: VERDICT_SAID,
+        differing: z.array(z.string()).readonly(),
+        resolvedAt: z.number(),
+      })
+    )
+    .readonly(),
+})
 
 const LOCKPICK = 30357
 
@@ -143,7 +177,7 @@ test("a disagreement found answers one code and one reason, whichever shape is a
 test("the one line answered carries the whole reading, coverage counted and all", () => {
   const oneLine = answerFor(DISAGREEING, true)
   expect(oneLine.report).toHaveLength(1)
-  expect(JSON.parse(oneLine.report[0] ?? "")).toEqual(DISAGREEING)
+  expect(PARITY_SAID.parse(JSON.parse(oneLine.report[0] ?? ""))).toEqual(DISAGREEING)
 })
 
 test("a run finding no disagreement answers the code of work done in either shape", () => {

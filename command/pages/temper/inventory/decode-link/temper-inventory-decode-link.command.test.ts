@@ -1,6 +1,15 @@
 import { expect, test } from "bun:test"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { temperInventoryDecodeLink } from "akasha/command/pages/temper/inventory/decode-link/temper-inventory-decode-link.command.code.ts"
+import { z } from "zod"
+
+const DECODED_SAID = z.looseObject({
+  itemId: z.number(),
+  potionData: z.number(),
+  crafted: z.boolean(),
+  stolen: z.boolean(),
+  bound: z.boolean(),
+})
 
 const CALLED_AS = "akasha temper inventory decode-link"
 
@@ -107,16 +116,16 @@ test("a flag alone is not taken for the link", () => {
 test("the json answer parses and carries the named fields", () => {
   const said = decoding([linkOf(TWENTY_ONE), "--json"])
   expect(said.code).toBe(0)
-  const parsed = JSON.parse(said.report.join("\n")) as Record<string, unknown>
-  expect(parsed["itemId"]).toBe(45237)
-  expect(parsed["potionData"]).toBe(9001)
-  expect(parsed["crafted"]).toBe(true)
-  expect(parsed["stolen"]).toBe(false)
+  const parsed = DECODED_SAID.parse(JSON.parse(said.report.join("\n")))
+  expect(parsed.itemId).toBe(45237)
+  expect(parsed.potionData).toBe(9001)
+  expect(parsed.crafted).toBe(true)
+  expect(parsed.stolen).toBe(false)
 })
 
 test("the flags a link carries are read as true and false rather than as digits", () => {
   const said = decoding([linkOf(TWENTY_ONE), "--json"])
-  const parsed = JSON.parse(said.report.join("\n")) as Record<string, unknown>
-  expect(parsed["bound"]).toBe(true)
-  expect(parsed["stolen"]).toBe(false)
+  const parsed = DECODED_SAID.parse(JSON.parse(said.report.join("\n")))
+  expect(parsed.bound).toBe(true)
+  expect(parsed.stolen).toBe(false)
 })

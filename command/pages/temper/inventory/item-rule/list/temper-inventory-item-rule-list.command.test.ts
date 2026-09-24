@@ -13,6 +13,9 @@ import {
   WROTE,
 } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { z } from "zod"
+
+const RULES_SAID = z.array(z.looseObject({ id: z.string() }))
 
 const CALLED_AS = "akasha temper inventory item-rule list"
 
@@ -49,7 +52,6 @@ test("settings holding no item rule are answered with no rule rather than nothin
 
 test("the JSON says the whole rule rather than the columns a row carries", async () => {
   const said = await listing(true, HELD_RULES)
-  const read: unknown = JSON.parse(said.report.join("\n"))
-  expect(Array.isArray(read)).toBe(true)
-  expect((read as ReadonlyArray<{ readonly id: string }>)[0]?.id).toBe(ITEM_HELD)
+  const read = RULES_SAID.parse(JSON.parse(said.report.join("\n")))
+  expect(read[0]?.id).toBe(ITEM_HELD)
 })

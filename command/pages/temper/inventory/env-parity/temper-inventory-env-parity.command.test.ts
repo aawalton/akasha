@@ -12,6 +12,36 @@ import {
   sidesAgree,
 } from "akasha/command/pages/temper/inventory/env-parity/temper-inventory-env-parity.command.code.ts"
 import type { WalkOutcome } from "akasha/temper/items/rules/eval/modules/eval-result/eval-result.module.code.ts"
+import { z } from "zod"
+
+const SIDE_SAID = z.strictObject({
+  kind: z.string(),
+  action: z.string().nullable(),
+  destination: z.string().nullable(),
+  detail: z.string(),
+})
+
+const PARITY_SAID = z.strictObject({
+  inventoryPath: z.string(),
+  rules: z.number(),
+  items: z.number(),
+  stacks: z.number(),
+  agreed: z.number(),
+  disagreed: z.number(),
+  destinationAlone: z.number(),
+  rows: z
+    .array(
+      z.strictObject({
+        itemId: z.number(),
+        itemName: z.string(),
+        stacks: z.number(),
+        explain: SIDE_SAID,
+        plan: SIDE_SAID,
+        destinationAlone: z.boolean(),
+      })
+    )
+    .readonly(),
+})
 
 const EDICT = 71779
 
@@ -130,7 +160,7 @@ test("the two shapes of one answer carry one code and one reason between them", 
 test("the shape asked for changes the report and leaves the rows whole", () => {
   const oneLine = answerFor(SPLIT, true)
   expect(oneLine.report).toHaveLength(1)
-  expect(JSON.parse(oneLine.report[0] ?? "")).toEqual(SPLIT)
+  expect(PARITY_SAID.parse(JSON.parse(oneLine.report[0] ?? ""))).toEqual(SPLIT)
   expect(answerFor(SPLIT, false).report.join("\n")).toContain("house-storage:4677")
 })
 
