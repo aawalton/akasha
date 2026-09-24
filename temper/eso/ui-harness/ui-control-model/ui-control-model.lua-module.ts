@@ -21,6 +21,10 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A name holding the grandparent placeholder is named with the parent's parent's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control keeps the anchors that control was given.",
     },
     {

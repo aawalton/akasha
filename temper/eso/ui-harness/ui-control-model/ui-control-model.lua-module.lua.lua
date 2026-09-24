@@ -44,11 +44,16 @@ local function claim(name, control)
   return name
 end
 
+local function nameOf(control)
+  local held = control ~= nil and control.uiName or nil
+  if type(held) ~= "string" then return "" end
+  return held
+end
+
 local function resolved(name, parent)
   if type(name) ~= "string" or parent == nil then return name end
-  local held = parent.uiName
-  if type(held) ~= "string" then held = "" end
-  return (string.gsub(name, "%$%(parent%)", held))
+  local said = string.gsub(name, "%$%(grandparent%)", nameOf(parent.uiParent))
+  return (string.gsub(said, "%$%(parent%)", nameOf(parent)))
 end
 
 local place = _G.__ui_place
