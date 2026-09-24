@@ -87,6 +87,17 @@ describe("virtualsFrom", () => {
     })
   })
 
+  test("takes a point written as its number as that number", () => {
+    const numbered = `<GuiXml><Controls>
+      <Control name="TemperBelow" virtual="true">
+        <Anchor point="1" relativePoint="4" relativeTo="$(parent)Top" offsetY="1" />
+      </Control>
+    </Controls></GuiXml>`
+    const anchor = virtualsFrom([numbered]).TemperBelow?.anchors[0]
+    expect(anchor?.point).toBe(1)
+    expect(anchor?.relativePoint).toBe(4)
+  })
+
   test("reads the alignment a label states", () => {
     const qty = virtualsFrom([ROW]).TemperRow?.children[2]
     expect(qty?.alignH).toBe(HELD.TEXT_ALIGN_RIGHT)

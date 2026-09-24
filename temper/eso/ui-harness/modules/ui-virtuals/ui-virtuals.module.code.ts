@@ -98,9 +98,13 @@ function maybeBoolean(text: string | null): boolean | undefined {
   return text === "true"
 }
 
+const POINT_NUMBER = /^\d+$/
+
 function pointOf(text: string | null, fallback: number): number {
   if (text === null) return fallback
-  return ANCHOR_POINTS[text.trim()] ?? fallback
+  const said = text.trim()
+  if (POINT_NUMBER.test(said)) return Number(said)
+  return ANCHOR_POINTS[said] ?? fallback
 }
 
 function hexColor(flat: string | null): readonly number[] | undefined {

@@ -30,6 +30,10 @@ export const uiVirtuals = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A point an anchor writes as a number is taken as that number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An element's child whose tag opens with On is a handler that element writes.",
     },
     {
