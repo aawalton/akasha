@@ -26,7 +26,6 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/monarch/relay-service/monarch-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/monarch/service-workstations/poll/monarch-poll.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/monarch/service-workstations/sync/monarch-sync.service-workstation.ts"}
-{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/plant/plants-relay-service/plants-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/reminder-system/service-workstations/send-due-reminders/send-due-reminders.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/safety/relay-service/safety-relay-service.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"alan/harness/service-workstations/overdue-rolling/overdue-rolling.service-workstation.ts"}

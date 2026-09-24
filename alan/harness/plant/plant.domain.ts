@@ -9,11 +9,7 @@ export const plant = {
     { partOfSpeech: "part-of-speech/noun", spelling: "plant" },
     { partOfSpeech: "part-of-speech/noun", spelling: "plants" },
   ],
-  parts: [
-    "module/plants-reading",
-    "readout/upkeep-plants",
-    "service-workstation/plants-relay-service",
-  ],
+  parts: ["module/plants-reading", "readout/upkeep-plants"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -24,14 +20,6 @@ export const plant = {
       decisionKind: "decision-kind/departure",
       statement:
         "The window counted over runs from the hour Alan rose to the hour Alan rises next.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every site showing the grams is carried the grams rather than taking the grams.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A carry that fails to one site does not stop the carry to another site.",
     },
     {
       decisionKind: "decision-kind/departure",
