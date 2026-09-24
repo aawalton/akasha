@@ -1,4 +1,10 @@
-import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
+import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
+import { getRawMessage } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
+import { getHeader } from "akasha/alan/google/email/modules/gmail-schema/gmail-schema.module.code.ts"
+import {
+  executeUnsubscribe,
+  parseListUnsubscribe,
+} from "akasha/alan/google/email/modules/list-unsubscribe/list-unsubscribe.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { message } from "akasha/command/argument/pages/message.argument.ts"
 import {
@@ -18,13 +24,9 @@ export function emailUnsubscribe(argv: readonly string[], given: Given): Promise
   const read = takenFor(argv, given.calledAs, page, [message])
   if ("refused" in read) return Promise.resolve(refusedBy(read.refused, INPUT))
   return answering(async (done) => {
-    const google = await emailGoogle()
-    const client = await google.makeGmailClient()
-    const raw = await google.getRawMessage(client, read.taken.message)
-    const intent = google.parseListUnsubscribe(
-      google.getHeader(raw, HEADER),
-      google.getHeader(raw, POST_HEADER)
-    )
-    return asIndentedJson(await google.executeUnsubscribe(client, intent, done))
+    const client = await makeGmailClient()
+    const raw = await getRawMessage(client, read.taken.message)
+    const intent = parseListUnsubscribe(getHeader(raw, HEADER), getHeader(raw, POST_HEADER))
+    return asIndentedJson(await executeUnsubscribe(client, intent, done))
   })
 }
