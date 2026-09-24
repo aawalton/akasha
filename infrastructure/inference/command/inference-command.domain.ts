@@ -24,7 +24,7 @@ export const inferenceCommand = {
       statement: "A run row is filed whether the work finished or failed.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The run rows a command here files are akasha pages.",
     },
     {
