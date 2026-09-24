@@ -18,6 +18,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import { seatRefreshSettings as page } from "akasha/command/pages/seat/refresh-settings/seat-refresh-settings.command.ts"
+import { z } from "zod"
 
 const SETTINGS_FLAG = "--settings"
 
@@ -67,15 +68,14 @@ function liveSettingsPaths(root: string = PROC): readonly string[] {
   return [...found].sort()
 }
 
+const SETTINGS_SAID = z.record(z.string(), z.unknown())
+
 export function objectIn(said: string): Record<string, unknown> | null {
-  let parsed: unknown
   try {
-    parsed = JSON.parse(said)
+    return SETTINGS_SAID.safeParse(JSON.parse(said)).data ?? null
   } catch {
     return null
   }
-  if (parsed === null || typeof parsed !== "object" || Array.isArray(parsed)) return null
-  return parsed as Record<string, unknown>
 }
 
 function refreshedAt(path: string, base: Record<string, unknown>): Row {

@@ -4,6 +4,7 @@ import {
 } from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
 import { akashaSeatSlugOf } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { body } from "akasha/command/argument/pages/body.argument.ts"
 import { bodyFile } from "akasha/command/argument/pages/body-file.argument.ts"
@@ -54,7 +55,7 @@ export async function sent(stated: Stated, sending?: Sending): Promise<Answer> {
 export async function seatSend(argv: readonly string[], given: Given): Promise<Answer> {
   const read = takenFor(argv, given.calledAs, page, [toSeat, bodyFile, body])
   if ("refused" in read) return mistaking(read.refused)
-  const from = senderIn(process.env.AGENT_ID)
+  const from = senderIn(optionalEnv("AGENT_ID"))
   if (from === null) return mistaking([NO_SENDER])
   const said = filledIn(given.root, read.taken.body, read.taken.bodyFile, BODY_FILING)
   if ("refused" in said) return mistaking(said.refused)
