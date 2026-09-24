@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import type { CadwellCatalogLevel } from "akasha/temper/capture/shape/modules/cadwell-catalog/cadwell-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
@@ -25,4 +26,8 @@ const cadwellCatalogLevelSchema = z
 
 const cadwellCatalogSchema = z.record(z.number(), cadwellCatalogLevelSchema)
 
-assertSchemaMatchesPayload<typeof cadwellCatalogSchema, Record<number, CadwellCatalogLevel>>()
+test("the Cadwell catalog schema infers exactly the Cadwell catalog shape", () => {
+  expect(
+    assertSchemaMatchesPayload<typeof cadwellCatalogSchema, Record<number, CadwellCatalogLevel>>()
+  ).toBeUndefined()
+})
