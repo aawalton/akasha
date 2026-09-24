@@ -49,6 +49,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/sms/send/sms-send.command.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"domain/plain-language/modules/parse-cache/parse-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-listing/orphan-resource-listing.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}

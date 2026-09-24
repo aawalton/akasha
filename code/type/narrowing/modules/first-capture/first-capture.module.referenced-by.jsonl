@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"code/module/modules/name-series/name-series.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"code/process/modules/port-holding/port-holding.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"infrastructure/inference/generation/zimage/modules/explore-worker/zimage-explore-worker.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts"}

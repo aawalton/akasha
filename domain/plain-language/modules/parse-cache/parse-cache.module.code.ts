@@ -1,9 +1,11 @@
 import { createHash } from "node:crypto"
 import { appendFileSync, mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import type { ParsedSentence } from "akasha/domain/plain-language/modules/dependency-graph/dependency-graph.module.code.ts"
 import { CACHE } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import { gitDirIn } from "akasha/git/modules/dir/git-dir.module.code.ts"
+import { z } from "zod"
 
 const OFF = "AKASHA_PARSE_CACHE_OFF"
 const SHARD_WIDTH = 2
@@ -17,11 +19,31 @@ export type ParseCache = {
   write: (text: string, parsed: readonly ParsedSentence[]) => void
 }
 
-type Held = {
-  k: string
-  t: string
-  p: ParsedSentence[]
-}
+const CONFIDENCE_SAID = z.object({ upos: z.number(), head: z.number(), deprel: z.number() })
+
+const TOKEN_SAID = z.object({
+  id: z.number(),
+  form: z.string(),
+  upos: z.string(),
+  head: z.number(),
+  deprel: z.string(),
+  start: z.number(),
+  end: z.number(),
+  lemma: z.string().optional(),
+  features: z.record(z.string(), z.string()).optional(),
+  confidence: CONFIDENCE_SAID.optional(),
+})
+
+const SENTENCE_SAID = z.object({
+  text: z.string(),
+  start: z.number(),
+  end: z.number(),
+  tokens: z.array(TOKEN_SAID),
+})
+
+const HELD_SAID = z.object({ k: z.string(), t: z.string(), p: z.array(SENTENCE_SAID) })
+
+type Held = z.infer<typeof HELD_SAID>
 
 const NOTHING_CACHED: ParseCache = {
   at: null,
@@ -30,8 +52,7 @@ const NOTHING_CACHED: ParseCache = {
 }
 
 function turnedOff(): boolean {
-  const said = process.env[OFF]
-  return said !== undefined && said !== ""
+  return optionalEnv(OFF) !== undefined
 }
 
 export function keyFor(model: string, text: string): string {
@@ -65,10 +86,8 @@ export function makeParseCacheAt(model: string, at: string): ParseCache {
     for (const line of body.split("\n")) {
       if (line === "") continue
       try {
-        const one = JSON.parse(line) as Held
-        if (typeof one.k === "string" && typeof one.t === "string" && Array.isArray(one.p)) {
-          held.set(one.k, one)
-        }
+        const one = HELD_SAID.safeParse(JSON.parse(line)).data
+        if (one !== undefined) held.set(one.k, one)
       } catch {}
     }
     shards.set(name, held)

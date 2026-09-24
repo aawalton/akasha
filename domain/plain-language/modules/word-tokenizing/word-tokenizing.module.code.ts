@@ -1,3 +1,5 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+
 export type WordToken = {
   form: string
   start: number
@@ -100,7 +102,7 @@ export function tokenizeWords(sentence: SentenceSpan): SentenceTokens {
       words.push({ form: form.slice(CANNOT_STEM), start: at + CANNOT_STEM, end: at + form.length })
       continue
     }
-    const stem = form.replaceAll("’", "'").match(CONTRACTIONS)?.[1] ?? ""
+    const stem = firstCapture(CONTRACTIONS.exec(form.replaceAll("’", "'"))) ?? ""
     if (stem !== "") {
       words.push({ form: form.slice(0, stem.length), start: at, end: at + stem.length })
       words.push({ form: form.slice(stem.length), start: at + stem.length, end: at + form.length })

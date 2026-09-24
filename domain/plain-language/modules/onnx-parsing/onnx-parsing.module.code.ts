@@ -17,6 +17,7 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import * as ort from "onnxruntime-node"
+import { z } from "zod"
 
 export type ParserDescriptor = {
   id: string
@@ -43,18 +44,20 @@ export type ModelFiles = {
   modelManifest: string
 }
 
-type Manifest = {
-  format?: string
-  "source_checkpoint_sha256"?: string
-  upos: string[]
-  relations: string[]
-}
+const MANIFEST_SAID = z.object({
+  format: z.string().optional(),
+  "source_checkpoint_sha256": z.string().optional(),
+  upos: z.array(z.string()),
+  relations: z.array(z.string()),
+})
 
-type Vocabulary = {
-  model: {
-    vocab: Record<string, number>
-  }
-}
+type Manifest = z.infer<typeof MANIFEST_SAID>
+
+const VOCABULARY_SAID = z.object({
+  model: z.object({
+    vocab: z.record(z.string(), z.number()),
+  }),
+})
 
 type Loaded = {
   parser: ort.InferenceSession
@@ -330,8 +333,8 @@ async function loadOnnxParser(options: OnnxParserOptions = {}): Promise<Dependen
     readFile(files.modelManifest, "utf8"),
     readFile(files.wordPieces, "utf8"),
   ])
-  const manifest = JSON.parse(manifestText) as Manifest
-  const vocab = (JSON.parse(vocabularyText) as Vocabulary).model.vocab
+  const manifest = MANIFEST_SAID.parse(JSON.parse(manifestText))
+  const vocab = VOCABULARY_SAID.parse(JSON.parse(vocabularyText)).model.vocab
   const sessionOptions: ort.InferenceSession.SessionOptions = {
     executionProviders: ["cpu"],
     graphOptimizationLevel: "all",
