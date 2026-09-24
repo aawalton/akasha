@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQH7pUAAIBgxRNCyJtIpTrULmC1C5gtQuYLULmC1C5gtEGjtRBAq0QQKtJhEx2xEEx1sAAAHN0RABE8ABaQANZABE8AAgDUEgBAGAACQAIAAQABCEAADJwAjAGZABkABCAwIABDJIFAjEQAwgAAACAMAHIEhBcAABDA4y6Neo3IsScMrHkyy5k2dn0adWvbPoUaVOp4q1ljaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBiCQNY",
+  "buildHash": "ATQH7pUAAIBgxRMi5V1QpVbVLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJNFJyyYRScsAAAHN0RABE8ABaQANZABE8AAgDUEgBAGAACQAIAAQABCEAADJwAjAGZABkABCAwIABDJIFAjEQAwgAAACAMAHIEhBcAABDA4y6Neo3IsScMrHkyy5k2dn0adWvbPoUaVOp4q1ljaOyNnj65egYskLRE2RunaRKmTv1CmCqhK46wwcNkjYEqWBGAYQKGMmg4gSbOChYwaOHkCJI6TABAZBiCQNY",
   "gender": 1,
   "level": 50,
   "classId": 4,
@@ -3390,7 +3390,7 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentXP": 104,
+      "currentXP": 105,
       "currentRank": 8,
       "nextRankXP": 180
     },
@@ -4497,7 +4497,7 @@
         "8": 10,
         "9": 13,
         "10": 14,
-        "11": 12
+        "11": 14
       },
       "23": {
         "1": 7,
@@ -13029,8 +13029,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-24"
+    "date": "2026-09-24",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
