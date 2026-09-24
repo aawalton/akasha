@@ -145,14 +145,10 @@ export const readoutWidget = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tap is counted by reading the count and writing the count back.",
+      statement: "A tap is counted by reading the count and writing the count back in one step.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A tap arriving while another tap is being recorded is lost.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every tap a widget takes is counted.",
     },
   ],
