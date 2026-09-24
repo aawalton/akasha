@@ -152,5 +152,25 @@ export const graphPredicateClosure = {
       statement:
         "Each loop comes back sorted and the loops come back sorted, so two asks alike answer alike.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The loops through some nodes are the loops holding one of those nodes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A way from one node to another is read off the closure's edges.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A way takes the fewest edges from its first node to its last.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A way from a node to itself is that node alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where no edge leads from one node to the other, no way is answered.",
+    },
   ],
 } as const satisfies Module

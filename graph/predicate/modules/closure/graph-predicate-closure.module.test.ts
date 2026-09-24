@@ -26,16 +26,21 @@ import {
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
 import {
   closureOf,
+  loopsThrough,
   takenIn,
+  wayFrom,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import {
   CODE_IMPORTERS,
+  chainOut,
   changeAdding,
   closedIn,
   DECLARED,
   EITHER_IMPORTERS,
   EITHER_IMPORTS,
   loopsOver,
+  RINGS,
+  ringOut,
   SIDEWAYS,
   through,
   walkedIn,
@@ -255,10 +260,7 @@ test("a closure answers over the shadow a change leaves as well as over the tree
 })
 
 test("an ask answers the edges a closure took in as well as the nodes", () => {
-  const taken = walkedOut(
-    { [FIRST_AT]: namingBody("./second.page.ts"), [SECOND_AT]: namingBody("./third.page.ts") },
-    [FIRST_AT]
-  )
+  const taken = chainOut()
 
   expect(taken.nodes).toEqual([FIRST_AT, SECOND_AT, THIRD_AT])
   expect(taken.edges).toEqual([
@@ -290,10 +292,7 @@ test("an edge coming in is answered from the file naming the seed to the seed", 
 })
 
 test("the edge closing a cycle is answered though the node it reaches was taken in already", () => {
-  const taken = walkedOut(
-    { [FIRST_AT]: namingBody("./second.page.ts"), [SECOND_AT]: namingBody("./first.page.ts") },
-    [FIRST_AT]
-  )
+  const taken = ringOut()
 
   expect(taken.nodes).toEqual([FIRST_AT, SECOND_AT])
   expect(taken.edges).toEqual([
@@ -399,16 +398,25 @@ test("a node naming itself is a loop of that node alone", () => {
   expect(loopsOver({ [FIRST_AT]: [FIRST_AT] })).toEqual([[FIRST_AT]])
 })
 
-test("two rings apart are answered as two loops rather than as one", () => {
-  expect(
-    loopsOver({
-      [FIRST_AT]: [SECOND_AT],
-      [SECOND_AT]: [FIRST_AT],
-      [THIRD_AT]: [NEAR_AT],
-      [NEAR_AT]: [THIRD_AT],
-    })
-  ).toEqual([
+test("a way runs along the fewest edges, and none is answered where no edge leads on", () => {
+  const taken = chainOut()
+
+  expect(wayFrom(taken, FIRST_AT, THIRD_AT)).toEqual([FIRST_AT, SECOND_AT, THIRD_AT])
+  expect(wayFrom(taken, FIRST_AT, FIRST_AT)).toEqual([FIRST_AT])
+  expect(wayFrom(taken, THIRD_AT, FIRST_AT)).toBeNull()
+  expect(wayFrom(chainOut("./third.page.ts"), FIRST_AT, THIRD_AT)).toEqual([FIRST_AT, THIRD_AT])
+})
+
+test("a way back from a node's import to that node is the loop that import closes", () => {
+  expect(wayFrom(ringOut(), SECOND_AT, FIRST_AT)).toEqual([SECOND_AT, FIRST_AT])
+})
+
+test("two rings apart are answered as two loops, and the loops through a node hold it", () => {
+  const taken = walkedIn(RINGS, Object.keys(RINGS))
+
+  expect(loopsOver(RINGS)).toEqual([
+    [APART_AT, THIRD_AT],
     [FIRST_AT, SECOND_AT],
-    [NEAR_AT, THIRD_AT],
   ])
+  expect(loopsThrough(taken, [THIRD_AT])).toEqual([[APART_AT, THIRD_AT]])
 })

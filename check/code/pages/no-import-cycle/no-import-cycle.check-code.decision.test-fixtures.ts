@@ -1,6 +1,6 @@
 import {
-  reachingIn,
   refusalsOver,
+  takenOver,
 } from "akasha/check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"
 import { textIn } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
@@ -12,6 +12,11 @@ import {
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
+import {
+  loopsIn,
+  reachingOf,
+  type Taken,
+} from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -57,8 +62,16 @@ export function patched(
   return staged(root, after, before)
 }
 
+function takenOf(held: Change): Taken {
+  return takenOver(held.changed, shadowOf(held), (path) => textIn(held, path))
+}
+
 export function reaching(held: Change): ReadonlyMap<string, readonly string[]> {
-  return reachingIn(held.changed, shadowOf(held), (path) => textIn(held, path))
+  return reachingOf(takenOf(held))
+}
+
+export function loopsOf(held: Change): readonly (readonly string[])[] {
+  return loopsIn(takenOf(held))
 }
 
 export function refusedOver(held: Change): readonly Judged[] {

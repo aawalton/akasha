@@ -137,14 +137,47 @@ export function closureOf(
   return takenIn(predicate, seeds, asked).nodes
 }
 
+const REACHING = new WeakMap<Taken, ReadonlyMap<string, readonly string[]>>()
+
 export function reachingOf(taken: Taken): ReadonlyMap<string, readonly string[]> {
+  const kept = REACHING.get(taken)
+  if (kept !== undefined) return kept
   const found = new Map<string, string[]>()
   for (const one of taken.nodes) found.set(one, [])
   for (const one of taken.edges) {
     const held = found.get(one.from)
     if (held !== undefined) held.push(one.to)
   }
+  REACHING.set(taken, found)
   return found
+}
+
+function cameFromIn(taken: Taken, from: string, until: string | null): ReadonlyMap<string, string> {
+  const reaching = reachingOf(taken)
+  const came = new Map<string, string>()
+  const seen = new Set<string>([from])
+  const waiting: string[] = [from]
+  for (let at = 0; at < waiting.length; at += 1) {
+    const one = waiting[at]
+    if (one === undefined) continue
+    for (const next of reaching.get(one) ?? []) {
+      if (seen.has(next)) continue
+      seen.add(next)
+      came.set(next, one)
+      if (next === until) return came
+      waiting.push(next)
+    }
+  }
+  return came
+}
+
+export function wayFrom(taken: Taken, from: string, to: string): readonly string[] | null {
+  if (from === to) return [from]
+  const came = cameFromIn(taken, from, to)
+  if (!came.has(to)) return null
+  const way = [to]
+  for (let at = came.get(to); at !== undefined; at = came.get(at)) way.push(at)
+  return way.reverse()
 }
 
 function firstOf(held: readonly string[]): string {
@@ -192,4 +225,12 @@ export function loopsIn(taken: Taken): readonly (readonly string[])[] {
   }
   for (const at of [...reaching.keys()].sort()) if (!index.has(at)) walk(at)
   return found.sort(byFirst)
+}
+
+export function loopsThrough(
+  taken: Taken,
+  among: readonly string[]
+): readonly (readonly string[])[] {
+  const held = new Set(among)
+  return loopsIn(taken).filter((loop) => loop.some((one) => held.has(one)))
 }

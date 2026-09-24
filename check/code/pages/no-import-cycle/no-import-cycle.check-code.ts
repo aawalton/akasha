@@ -31,7 +31,8 @@ export const noImportCycle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An added import is searched forward for the file that import is written in.",
+      statement:
+        "An added import closes a cycle where the graph answers a way back from its target to its writer.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -78,6 +79,10 @@ export const noImportCycle = {
       decisionKind: "decision-kind/departure",
       statement:
         "The files a file reaches as it loads are answered by a predicate rather than walked here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The cycles a file sits in are answered by the graph rather than found here.",
     },
     {
       decisionKind: "decision-kind/departure",

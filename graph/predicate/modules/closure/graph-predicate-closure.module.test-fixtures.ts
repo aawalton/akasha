@@ -2,8 +2,10 @@ import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.t
 import { graphAttribute } from "akasha/graph/attribute/graph-attribute.page-type.ts"
 import { names } from "akasha/graph/attribute/pages/names.graph-attribute.ts"
 import {
+  APART_AT,
   AT_LOAD,
   BY_DECLARATION,
+  FIRST_AT,
   importWorld,
   indexOf,
   KNOWN,
@@ -11,7 +13,10 @@ import {
   NAMES,
   NAMES_CODE,
   NAMES_TYPE,
+  namingBody,
   reachingWorld,
+  SECOND_AT,
+  THIRD_AT,
 } from "akasha/graph/modules/asking/graph-asking.module.test-fixtures.ts"
 import {
   closureOf,
@@ -58,6 +63,26 @@ export function closedIn(reaching: Reaching, seeds: readonly string[]): readonly
 
 export function loopsOver(reaching: Reaching): readonly (readonly string[])[] {
   return loopsIn(walkedIn(reaching, Object.keys(reaching)))
+}
+
+export const RINGS = {
+  [FIRST_AT]: [SECOND_AT],
+  [SECOND_AT]: [FIRST_AT],
+  [THIRD_AT]: [APART_AT],
+  [APART_AT]: [THIRD_AT],
+}
+
+export function chainOut(...fromFirst: readonly string[]): Taken {
+  const first = ["./second.page.ts", ...fromFirst].map(namingBody).join("")
+  return walkedOut({ [FIRST_AT]: first, [SECOND_AT]: namingBody("./third.page.ts") }, [FIRST_AT])
+}
+
+export function ringOut(): Taken {
+  const bodies = {
+    [FIRST_AT]: namingBody("./second.page.ts"),
+    [SECOND_AT]: namingBody("./first.page.ts"),
+  }
+  return walkedOut(bodies, [FIRST_AT])
 }
 
 export const SIDEWAYS = { ...imports, direction: "sideways" }

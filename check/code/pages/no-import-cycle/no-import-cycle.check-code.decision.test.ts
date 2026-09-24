@@ -1,13 +1,13 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   addedIn,
-  cyclesIn,
   refusalsAdded,
 } from "akasha/check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"
 import {
   ALONE,
   AT,
   change,
+  loopsOf,
   patched,
   pathsRefused,
   READS_ONE,
@@ -152,7 +152,7 @@ test("a cycle no file the change has sits in is refused nothing though it is rea
     "akasha/three.ts": 'import { two } from "./two.ts"\n\nexport const three = two\n',
   })
   const carried = { ...held, changed: ["akasha/one.ts"] }
-  expect(cyclesIn(reaching(carried))).toHaveLength(1)
+  expect(loopsOf(carried)).toHaveLength(1)
   expect(refusedOver(carried)).toEqual([])
 })
 
@@ -222,30 +222,4 @@ test("a body that is not text refuses rather than reaching nothing", () => {
   const held = { root: ROOT, changed: ["akasha/raw.ts"], after: at, before: at }
   expect(() => reaching(held)).toThrow("akasha/raw.ts")
   expect(() => reaching(held)).toThrow("not valid UTF-8")
-})
-
-test("two separate cycles are both found", () => {
-  const held = cyclesIn(
-    new Map([
-      ["a", ["b"]],
-      ["b", ["a"]],
-      ["c", ["d"]],
-      ["d", ["c"]],
-      ["e", []],
-    ])
-  )
-  expect(held).toHaveLength(2)
-  expect(held.map((one) => one.length)).toEqual([2, 2])
-})
-
-test("a graph with no cycle answers none", () => {
-  expect(
-    cyclesIn(
-      new Map([
-        ["a", ["b", "c"]],
-        ["b", ["c"]],
-        ["c", []],
-      ])
-    )
-  ).toEqual([])
 })
