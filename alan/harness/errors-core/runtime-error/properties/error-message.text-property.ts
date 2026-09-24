@@ -14,11 +14,11 @@ export const errorMessage = {
       statement: "A message is kept as the reporting client sent the message.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A message could have whatever a person typed.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here takes a secret out of a message before the message is committed.",
     },
   ],

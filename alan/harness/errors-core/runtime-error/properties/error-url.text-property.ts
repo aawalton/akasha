@@ -14,7 +14,7 @@ export const errorUrl = {
       statement: "A url is the url the reporting client was reading.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A url could have a token a query string has.",
     },
   ],

@@ -71,7 +71,7 @@ export const runtimeError = {
       statement: "Filing an error again commits nothing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A fresh checkout has no count for any error.",
     },
     {
@@ -83,7 +83,7 @@ export const runtimeError = {
       statement: "Nobody who met an error is named here.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A message or a url could have a secret.",
     },
     {
