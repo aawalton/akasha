@@ -47,6 +47,11 @@ export const bodyLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A path handed a body where the checkout has no file is loaded by that specifier as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path the change carries no code for is loaded off the checkout.",
     },
     {

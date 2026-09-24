@@ -1,10 +1,15 @@
-import { createRequire } from "node:module"
-import { basename, join } from "node:path"
+import { basename } from "node:path"
 import type {
   Judging,
   Standing,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
+import {
+  bodyFor,
+  type Held,
+  heldOver,
+} from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
@@ -17,8 +22,6 @@ const CODE = "code"
 const TS = "ts"
 
 const HOLDS = "HOLDS"
-
-const loadFrom = createRequire(import.meta.url)
 
 export type Shape = {
   readonly slug: string
@@ -51,11 +54,12 @@ export function judgedBy(shape: Shape, standing: Standing): readonly string[] {
   return [`it is named \`${named}\` rather than ${saidAs(shape.holds)}`]
 }
 
-export type Loading = Paged & {
-  readonly codeAt: (path: string) => string | null
+export type Loading = {
+  readonly index: Pick<Paged["index"], "everyOfType">
+  readonly pageOf: Paged["pageOf"]
 }
 
-export function shapesIn(root: string, loading: Loading): readonly Shape[] {
+export function shapesIn(change: Change, loading: Loading): readonly Shape[] {
   const found: Shape[] = []
   for (const one of loading.index.everyOfType(SHAPE)) {
     const value = loading.pageOf(one.path)
@@ -80,18 +84,12 @@ export function shapesIn(root: string, loading: Loading): readonly Shape[] {
         `${one.path} is a folder shape, and no code file can sit beside a name like it`
       )
     }
-    const codePath = loading.codeAt(beside)
-    if (codePath === null) {
-      throw new Error(
-        `${one.path} is a folder shape, and this change leaves ${beside} holding a body no path on disk holds, so it cannot be loaded to judge by`
-      )
-    }
-    let mod: Record<string, unknown>
+    let mod: Held
     try {
-      mod = loadFrom(join(root, codePath)) as Record<string, unknown>
+      mod = heldOver(change, beside, bodyFor(change, beside))
     } catch (thrown) {
       throw new Error(
-        `${one.path} is a folder shape, and ${codePath} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
+        `${one.path} is a folder shape, and ${beside} could not be loaded — ${thrown instanceof Error ? thrown.message : String(thrown)}`
       )
     }
     const named = mod[exportedAs(slug)]

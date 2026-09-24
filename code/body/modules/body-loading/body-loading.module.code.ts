@@ -59,6 +59,7 @@ function bodiesIn(change: Change): ReadonlyMap<string, string> {
 
 function forgotten(full: string): undefined {
   delete loadFrom.cache[full]
+  delete loadFrom.cache[`${CARRIED}:${full}`]
 }
 
 function forgottenUnder(root: string): undefined {
@@ -141,8 +142,9 @@ export function heldOver(change: Change, at: string, body: string | null): Held 
     claiming(change.root, full)
   }
   forgotten(full)
+  const opened = bodyHeld.has(full) && !existsSync(full) ? `${PACKAGE}${at}` : full
   try {
-    return loadFrom(full) as Held
+    return loadFrom(opened) as Held
   } finally {
     forgotten(full)
     if (body !== null) {

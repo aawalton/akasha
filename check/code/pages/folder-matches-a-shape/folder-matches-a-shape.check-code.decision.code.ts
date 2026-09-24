@@ -46,6 +46,7 @@ import {
 import type { Carried } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Known } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import { addressIn, namedAs, slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import {
   type Held,
   heldIn,
@@ -346,11 +347,12 @@ function claimingOver(
 }
 
 export type Seeing = Loading & {
+  readonly index: Answering
   readonly listed: (folder: string) => readonly string[]
 }
 
 export type Reading = {
-  readonly root: string
+  readonly change: Change
   readonly seeing: Seeing
   readonly grouped: Grouped
 }
@@ -364,7 +366,7 @@ export type Judging = {
 export function judgingOver(given: Reading): Judging {
   const index = given.seeing.index
   const grouped = given.grouped
-  const shapes = shapesIn(given.root, given.seeing)
+  const shapes = shapesIn(given.change, given.seeing)
   const pageTypes = index.pageTypesIn()
   const stated = index.fileKeysAt()
   const fileProperties = new Set<string>(stated.keys())
@@ -392,7 +394,7 @@ export function judgingOver(given: Reading): Judging {
     grouped,
     partsOver(
       index,
-      given.root,
+      given.change.root,
       index.filePropertiesAt(),
       index.sidecarsAt(),
       index.uncommittedFiledAt(),

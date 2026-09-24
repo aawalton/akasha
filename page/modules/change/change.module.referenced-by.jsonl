@@ -23,8 +23,10 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.test.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/shape-loading/shape-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.check.test.ts"}
@@ -108,6 +110,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/body/modules/body-loading/body-loading.module.code.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"code/body/modules/body-loading/body-loading.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/body/modules/body-loading/body-loading.module.test.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.code.ts"}

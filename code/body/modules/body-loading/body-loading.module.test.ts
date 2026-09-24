@@ -3,7 +3,10 @@ import {
   bodyFor,
   heldOver,
 } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
-import { BESIDE } from "akasha/code/body/modules/body-loading/body-loading.module.test-fixtures.ts"
+import {
+  BESIDE,
+  changing,
+} from "akasha/code/body/modules/body-loading/body-loading.module.test-fixtures.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
@@ -35,20 +38,6 @@ const MOVED = "code/body/modules/body-loading/moved/moved.module.code.ts"
 const MOVING =
   `import { heldIn as said } from "akasha/${MOVED}"\n` +
   "export function heldIn(): string {\n  return said()\n}\n"
-
-const BYTES = new TextEncoder()
-
-function changing(held: Readonly<Record<string, string>>): Change {
-  return {
-    root: ROOT,
-    changed: Object.keys(held),
-    before: () => null,
-    after: (path) => {
-      const body = held[path]
-      return body === undefined ? null : BYTES.encode(body)
-    },
-  }
-}
 
 function changeTurning(at: string, body: string): Change {
   return changing({ [at]: body })
@@ -86,6 +75,14 @@ describe("the code loaded at a module path", () => {
   test("a module the change carries where the checkout has no such path is loaded all the same", () => {
     const change = changing({ [AT]: MOVING, [MOVED]: IMPORTED })
     expect(saidBy(heldOver(change, AT, MOVING), "heldIn")).toBe(OTHER)
+  })
+
+  test("a body handed in at a path the checkout has no file at is loaded all the same", () => {
+    expect(saidBy(heldOver(changing({ [MOVED]: IMPORTED }), MOVED, IMPORTED), "heldIn")).toBe(OTHER)
+  })
+
+  test("a body handed in again at a path the checkout has no file at is loaded again", () => {
+    expect(saidBy(heldOver(changing({ [MOVED]: OVER }), MOVED, OVER), "heldIn")).toBe(MARKER)
   })
 
   test("the checkout's code is loaded at that path once the body is gone", () => {

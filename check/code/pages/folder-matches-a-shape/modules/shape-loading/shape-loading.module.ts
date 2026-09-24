@@ -55,13 +55,15 @@ export const shapeLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A shape's code is loaded from the body on disk rather than from where the change leaves the code.",
+      statement: "A shape's code is loaded from the body the change leaves beside its page.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A change writing a shape's code anew is refused rather than judged by the body before the change.",
+      statement: "A shape whose code the change carries nothing of is loaded off the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape a change adds or renames judges folders in that same change.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -39,10 +39,10 @@ export function folderMatchesAShape(root: string): readonly Judged[] {
   const seeing = {
     index: commit.index,
     pageOf: commit.pageOf,
-    codeAt: (path: string): string => path,
     listed: (folder: string): readonly string[] =>
       commit.paths.filter((one) => folderOf(one) === folder),
   }
-  const judging = judgingOver({ root, seeing, grouped })
+  const change = { root, changed: [], before: () => null, after: () => null }
+  const judging = judgingOver({ change, seeing, grouped })
   return judging.refusalsAt(everyFolderIn(grouped))
 }
