@@ -127,7 +127,6 @@
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/start-time.text-property.ts","id":"01a05fd8-c30f-7ca9-8fb4-9d1d3b574b45"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts","id":"01a05fd8-c30f-799b-aa06-004072744b31"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-messages-mining/day-messages-mining.module.ts","id":"01a082fc-e5c5-79e4-9bcb-7eacb82bf302"}
-{"propertySlug":"decision-kind","path":"alan/track/daily/modules/day-opening/day-opening.module.ts","id":"01a069c3-a82a-798b-b746-3c9dfa4f21fc"}
 {"propertySlug":"decision-kind","path":"alan/track/food-entry/food-entry.page-type.ts","id":"01a065a3-6e8b-7516-be17-9b2737f11128"}
 {"propertySlug":"decision-kind","path":"alan/track/tracking-field/tracking-field.page-type.ts","id":"01a06827-ec0c-79f7-864d-da0cf491975e"}
 {"propertySlug":"decision-kind","path":"alan/value/value.page-type.ts","id":"01a06553-f65f-71f6-898f-df18f6561396"}

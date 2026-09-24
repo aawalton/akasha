@@ -41,9 +41,8 @@ export const dayOpening = {
       statement: "A caller counting a figure a day page stores takes the window that refuses.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A day that will not parse answers a window at the epoch to the caller taking the other call.",
+      decisionKind: "decision-kind/departure",
+      statement: "The call that falls back throws on a day that will not parse, naming that day.",
     },
   ],
   test: "ts",
