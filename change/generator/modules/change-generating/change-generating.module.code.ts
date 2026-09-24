@@ -127,7 +127,7 @@ function codeIn(shadow: Shadow, change: Change, beside: string): string | null {
   return bodyFor(change, beside) === null ? null : beside
 }
 
-export function listedIn(shadow: Shadow, change: Change): readonly Listed[] {
+function listedIn(shadow: Shadow, change: Change): readonly Listed[] {
   const found: Listed[] = []
   for (const one of shadow.index.everyOfType(CHANGE_GENERATOR)) {
     const value = shadow.pageOf(one.path)
@@ -143,7 +143,7 @@ export function listedIn(shadow: Shadow, change: Change): readonly Listed[] {
   return found
 }
 
-export function loadedIn(change: Change, at: string, beside: string): Loaded {
+function loadedIn(change: Change, at: string, beside: string): Loaded {
   let held: Record<string, unknown>
   try {
     held = heldOver(change, at, bodyFor(change, beside))
