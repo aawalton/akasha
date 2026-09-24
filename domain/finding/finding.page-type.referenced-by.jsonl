@@ -10,7 +10,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-reaches-the-running-machine-before-the-code-that-reads-it-does.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-type-slug-borrowed-as-a-test-fixture-outlives-the-page-type.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-renamed-page-keeps-the-old-name-inside-its-uncommitted-sidecar.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-scope-cpu-weight-drop-in-loses-to-the-foreground-booster.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-shape-memo-with-no-invalidation-breaks-only-the-readers-that-straddle-a-rename.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-web-app-reads-a-page-type-shape-from-the-workstation-page-service.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-web-route-file-is-no-page-so-no-landing-check-compiles-it.finding.ts"}
