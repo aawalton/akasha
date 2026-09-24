@@ -6,8 +6,8 @@ import {
   seatBody,
 } from "akasha/agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"
 import { resolveSeatTarget } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
-import { underOldKeys } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
+import { underOldKeys } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
+import { seatPathForName } from "akasha/agent/seat/modules/reading/seat-reading.module.code.ts"
 import {
   dataError,
   inputError,

@@ -7,13 +7,13 @@
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/fleet/modules/seat-forest/seat-forest.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
+{"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/modules/page-history/seat-page-history.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/name/modules/restate/seat-name-restate.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/name/modules/seat-flex/seat-flex.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/name/modules/seat-nameable/seat-nameable.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/name/modules/stands/seat-name-stands.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/observation/seat-turn/modules/wake-armed-specs/wake-armed-specs.module.code.ts"}
-{"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/page/modules/history/seat-page-history.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"}
 {"propertySlug":"import","fileName":"compose-seat-name.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts"}

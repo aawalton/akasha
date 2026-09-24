@@ -1,7 +1,7 @@
 import {
   keepSeatRecord,
   seatRecordOf,
-} from "akasha/agent/seat/page/modules/seat-record/seat-record.module.code.ts"
+} from "akasha/agent/seat/modules/record/seat-record.module.code.ts"
 
 const KEY = "reexec-asked"
 

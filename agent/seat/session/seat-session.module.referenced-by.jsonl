@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/session/modules/resolve/seat-session-resolve.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-session.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"}

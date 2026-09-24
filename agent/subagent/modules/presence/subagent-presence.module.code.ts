@@ -1,6 +1,6 @@
 import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { akashaHolderPidOf } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaHolderPidOf } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   LOG_AT,

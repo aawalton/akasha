@@ -1,12 +1,12 @@
 import {
+  akashaHolderProcessOf,
+  akashaSeatsThatExist,
+} from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import {
   parseSeatProcKey,
   type SeatPresence,
   seatProcKeyPresence,
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import {
-  akashaHolderProcessOf,
-  akashaSeatsThatExist,
-} from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   type SeatStopSaying,
   stopSeat,

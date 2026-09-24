@@ -1,5 +1,5 @@
 import { writerIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { pageTextOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
+import { pageTextOf } from "akasha/agent/seat/modules/page-values/seat-page-values.module.code.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"

@@ -5,7 +5,7 @@ import { dropReadings } from "akasha/agent/modules/read-record/read-record.modul
 import {
   akashaHolderPidOf,
   akashaSeatsThatExist,
-} from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import {
   censusOf,

@@ -2,7 +2,7 @@ import { liveAgentPidsFromProc } from "akasha/agent/modules/proc-liveness/agent-
 import { scanProcEntries } from "akasha/agent/modules/proc-scan/proc-scan.module.code.ts"
 import { seatRecord } from "akasha/agent/seat/fleet/modules/seat-facts/seat-facts.module.code.ts"
 import { killSeatSession } from "akasha/agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
-import { removeSeatPage } from "akasha/agent/seat/page/modules/writing/seat-page-writing.module.code.ts"
+import { removeSeatPage } from "akasha/agent/seat/modules/page-writing/seat-page-writing.module.code.ts"
 import { decideKillTarget } from "akasha/agent/seat/stopping/modules/kill-target-plan/kill-target-plan.module.code.ts"
 import { decideSubagentGuard } from "akasha/agent/subagent/modules/guard/subagent-guard.module.code.ts"
 import {

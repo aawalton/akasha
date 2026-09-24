@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/message/modules/file/agent-message-file.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.code.ts"}
-{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"}
-{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/seat/modules/reading/seat-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.code.ts"}

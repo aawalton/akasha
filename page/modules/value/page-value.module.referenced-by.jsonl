@@ -9,9 +9,9 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"}
-{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/modules/reading/seat-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}

@@ -1,5 +1,5 @@
-import { akashaSeatsThatExist } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
-import { akashaSeatRecordOf } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
+import { akashaSeatsThatExist } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatRecordOf } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import {
   DATA,

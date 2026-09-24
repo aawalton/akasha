@@ -1,5 +1,5 @@
-import { fieldFromHistory } from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
-import { pageTextOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
+import { fieldFromHistory } from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
+import { pageTextOf } from "akasha/agent/seat/modules/page-values/seat-page-values.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 

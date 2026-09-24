@@ -10,7 +10,7 @@ import type { SeatStated } from "akasha/agent/seat/declaration/modules/seat-stat
 import {
   seatPathForName,
   seatsAt,
-} from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
+} from "akasha/agent/seat/modules/reading/seat-reading.module.code.ts"
 import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"

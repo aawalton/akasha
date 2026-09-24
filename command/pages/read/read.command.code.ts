@@ -8,7 +8,7 @@ import {
   readsFileAt,
   recordRead,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { akashaSeatPathForCaller } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatPathForCaller } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { leadingBytes } from "akasha/code/body/modules/utf8-body/utf8-body.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { filePath } from "akasha/command/argument/pages/file-path.argument.ts"

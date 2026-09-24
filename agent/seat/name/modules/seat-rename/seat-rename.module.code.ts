@@ -1,3 +1,4 @@
+import { pageValuesOf } from "akasha/agent/seat/modules/page-values/seat-page-values.module.code.ts"
 import {
   composeSeatName,
   FLEET,
@@ -9,7 +10,6 @@ import {
   sessionNote,
 } from "akasha/agent/seat/name/modules/seat-session-rename/seat-session-rename.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
-import { pageValuesOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 

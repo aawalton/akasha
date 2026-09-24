@@ -8,13 +8,13 @@ import {
   principalSeatIdOf,
 } from "akasha/agent/seat/declaration/modules/seat-principal/seat-principal.module.code.ts"
 import {
+  frontmatterFromHistory,
+  nameFromHistory,
+} from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
+import {
   seatIdForName,
   seatNameForAgent,
 } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
-import {
-  frontmatterFromHistory,
-  nameFromHistory,
-} from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 

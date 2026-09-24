@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"}
-{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
-{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/page/modules/writing/seat-page-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.code.ts"}
+{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/modules/page-writing/seat-page-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts"}
 {"propertySlug":"import","fileName":"gated-write.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.code.ts"}

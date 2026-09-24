@@ -154,14 +154,14 @@
 {"propertySlug":"decision-kind","path":"agent/seat/log-source/log-source.page-type.ts","id":"01a0657c-cb14-7c6f-83df-0d533f4f7821"}
 {"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-gateway-adoption-decide/supervisor-gateway-adoption-decide.module.ts","id":"01a06838-5a84-7004-bfa3-4f11134ef503"}
 {"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.ts","id":"01a06838-5a84-7005-8c03-97e98844c99e"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/akasha-beside/seat-akasha-beside.module.ts","id":"01a06949-b281-7399-94cc-8935c2846c1f"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/reading/seat-reading.module.ts","id":"01a05850-0f6a-7ed4-b9e5-6868da68bd0c"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/tmux-session/tmux-session.module.ts","id":"01a0c9ed-0747-74e1-adb1-380621bd6c5d"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.ts","id":"01a0a5b3-3d06-776e-aea8-407ef8b05e0a"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.ts","id":"01a06964-d998-7c3e-8f55-91ff918f96ac"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.ts","id":"01a0687b-3c85-7000-b60f-9d7b8c037697"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.ts","id":"01a0691b-4f65-762a-b97c-48d97a317e76"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.ts","id":"01a0686a-7a57-7e87-825d-ae7e67bf9301"}
-{"propertySlug":"decision-kind","path":"agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.ts","id":"01a06949-b281-7399-94cc-8935c2846c1f"}
-{"propertySlug":"decision-kind","path":"agent/seat/page/modules/seat-reading/seat-reading.module.ts","id":"01a05850-0f6a-7ed4-b9e5-6868da68bd0c"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/subagent-edits.file-property.ts","id":"01a08d62-417b-781b-9088-442ac476d7ae"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/subagent-reads.file-property.ts","id":"01a09cff-814a-7077-9e1f-fcf98a8e0100"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/subagent-refusals.file-property.ts","id":"01a08d62-5be7-74d0-8fa3-63a8fc24f035"}

@@ -4,7 +4,7 @@
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/modules/io-probe/io-probe.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/subagent/modules/liveness/subagent-liveness.module.code.ts"}

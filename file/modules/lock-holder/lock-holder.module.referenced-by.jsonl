@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"lock-holder.module.code.ts","path":"agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"lock-holder.module.code.ts","path":"agent/seat/modules/reading/seat-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"lock-holder.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"lock-holder.module.code.ts","path":"command/pages/deploy/modules/holding/deploy-holding.module.code.ts"}
 {"propertySlug":"import","fileName":"lock-holder.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}

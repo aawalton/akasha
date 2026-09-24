@@ -1,4 +1,4 @@
-import { akashaSeatPathForAgent } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatPathForAgent } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"

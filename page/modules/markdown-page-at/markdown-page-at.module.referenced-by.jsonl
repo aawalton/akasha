@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"markdown-page-at.module.code.ts","path":"agent/message/recipient-resolving/modules/seat-identity/seat-identity.module.code.ts"}
 {"propertySlug":"import","fileName":"markdown-page-at.module.code.ts","path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
-{"propertySlug":"import","fileName":"markdown-page-at.module.code.ts","path":"agent/seat/page/modules/akasha/seat-page-akasha.module.code.ts"}
-{"propertySlug":"import","fileName":"markdown-page-at.module.code.ts","path":"agent/seat/page/modules/history/seat-page-history.module.code.ts"}
+{"propertySlug":"import","fileName":"markdown-page-at.module.code.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.code.ts"}
+{"propertySlug":"import","fileName":"markdown-page-at.module.code.ts","path":"agent/seat/modules/page-history/seat-page-history.module.code.ts"}
 {"propertySlug":"import","fileName":"markdown-page-at.module.code.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.code.ts"}
 {"propertySlug":"import","fileName":"markdown-page-at.module.code.ts","path":"alan/track/daily/modules/day-opening/day-opening.module.code.ts"}
 {"propertySlug":"import","fileName":"markdown-page-at.module.code.ts","path":"alan/track/daily/modules/day-opening/day-opening.module.test.ts"}

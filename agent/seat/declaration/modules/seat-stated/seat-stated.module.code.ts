@@ -12,17 +12,17 @@ import {
   type RegistrationRecord,
   registrationAccountOf,
 } from "akasha/agent/seat/declaration/modules/seat-registration-account/seat-registration-account.module.code.ts"
+import {
+  type StatedFromHistory,
+  statedFromHistory,
+} from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
+import { pageTextOf } from "akasha/agent/seat/modules/page-values/seat-page-values.module.code.ts"
+import { backfillSeatRecord } from "akasha/agent/seat/modules/record/seat-record.module.code.ts"
 import type { Principal } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import {
   type FlexRecord,
   flexOf,
 } from "akasha/agent/seat/name/modules/seat-flex/seat-flex.module.code.ts"
-import {
-  type StatedFromHistory,
-  statedFromHistory,
-} from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
-import { backfillSeatRecord } from "akasha/agent/seat/page/modules/seat-record/seat-record.module.code.ts"
-import { pageTextOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
 import {
   TRANSCRIPT_KEY,
   type TranscriptRecord,

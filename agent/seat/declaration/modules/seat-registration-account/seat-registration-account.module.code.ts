@@ -1,4 +1,4 @@
-import { pageTextOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
+import { pageTextOf } from "akasha/agent/seat/modules/page-values/seat-page-values.module.code.ts"
 
 const KEY = "registration-account"
 

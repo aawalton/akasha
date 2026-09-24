@@ -5,7 +5,7 @@ import {
   type SeatStated,
   seatBody,
 } from "akasha/agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"
-import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
+import { seatPathForName } from "akasha/agent/seat/modules/reading/seat-reading.module.code.ts"
 import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"

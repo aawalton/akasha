@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"}
 {"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/seat/declaration/modules/seat-args/seat-args.module.code.ts"}
 {"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/seat/launching/modules/seat-call/seat-call.module.code.ts"}
-{"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/seat/page/modules/beat/seat-page-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"}
 {"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide/supervisor-decide.module.code.ts"}
 {"propertySlug":"import","fileName":"command-failing.module.code.ts","path":"command/modules/argument-narrowing/argument-narrowing.module.code.ts"}

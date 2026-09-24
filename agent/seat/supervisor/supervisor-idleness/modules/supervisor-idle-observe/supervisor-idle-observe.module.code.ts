@@ -1,8 +1,8 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { principalSeatIdOf } from "akasha/agent/seat/declaration/modules/seat-principal/seat-principal.module.code.ts"
+import { akashaSeatsThatExist } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { agentPresence } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import { akashaSeatsThatExist } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import type {
   BusyChildDetail,

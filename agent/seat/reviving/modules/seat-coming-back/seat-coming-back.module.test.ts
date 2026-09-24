@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { SeatStated } from "akasha/agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"
-import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
+import { seatPathForName } from "akasha/agent/seat/modules/reading/seat-reading.module.code.ts"
 import {
   alreadyThere,
   heldBefore,

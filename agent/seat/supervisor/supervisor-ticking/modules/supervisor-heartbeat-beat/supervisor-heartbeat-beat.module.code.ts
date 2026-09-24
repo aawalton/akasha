@@ -1,16 +1,16 @@
 import { join } from "node:path"
 import { runningModeIn } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
+import { keepBeside } from "akasha/agent/seat/modules/beside/seat-beside.module.code.ts"
+import {
+  type BeatReport,
+  beat,
+} from "akasha/agent/seat/modules/page-beat/seat-page-beat.module.code.ts"
+import { nameFromHistory } from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
 import { composedNameOf } from "akasha/agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"
 import {
   formatSeatProcKey,
   readSeatProcKey,
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import {
-  type BeatReport,
-  beat,
-} from "akasha/agent/seat/page/modules/beat/seat-page-beat.module.code.ts"
-import { nameFromHistory } from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
-import { keepBeside } from "akasha/agent/seat/page/modules/seat-beside/seat-beside.module.code.ts"
 import {
   getCurrentAgentIdForSelfHeal,
   getCurrentSessionIdForSelfHeal,

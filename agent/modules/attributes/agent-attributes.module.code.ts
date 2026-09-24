@@ -1,8 +1,8 @@
-import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import {
   pageTextOf,
   pageValuesOf,
-} from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
+} from "akasha/agent/seat/modules/page-values/seat-page-values.module.code.ts"
+import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 
 export const ATTRIBUTES = ["persona", "domain", "role"] as const

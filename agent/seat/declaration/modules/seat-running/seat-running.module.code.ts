@@ -30,6 +30,9 @@ import {
   scan,
 } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import { statedNow } from "akasha/agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"
+import { statedFromHistory } from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
+import { writeSeatPage } from "akasha/agent/seat/modules/page-writing/seat-page-writing.module.code.ts"
+import { seatPathForName } from "akasha/agent/seat/modules/reading/seat-reading.module.code.ts"
 import {
   composeSeatName,
   personPrincipals,
@@ -48,9 +51,6 @@ import {
   followName,
 } from "akasha/agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"
 import { nameStanding } from "akasha/agent/seat/name/modules/stands/seat-name-stands.module.code.ts"
-import { statedFromHistory } from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
-import { seatPathForName } from "akasha/agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"
-import { writeSeatPage } from "akasha/agent/seat/page/modules/writing/seat-page-writing.module.code.ts"
 import {
   AKASHA,
   akashaRoot,

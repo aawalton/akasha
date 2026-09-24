@@ -1,15 +1,15 @@
-import { FLEET } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { statedProcessPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import { pageFromHistory } from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
 import {
   akashaHolderProcessOf,
   akashaRunningModeOf,
   akashaSeatIdForName,
-} from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+} from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   akashaSeatsStated,
   akashaSeatValuesOf,
-} from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
+} from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
+import { pageFromHistory } from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
+import { FLEET } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import { statedProcessPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 

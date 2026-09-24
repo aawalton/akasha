@@ -1,8 +1,8 @@
 import { bareSlug } from "akasha/agent/modules/attributes/agent-attributes.module.code.ts"
+import { akashaSeatsInHistory } from "akasha/agent/seat/modules/akasha-history/seat-akasha-history.module.code.ts"
+import { akashaSeatsStated } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
 import { agentPresence } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import { akashaSeatsInHistory } from "akasha/agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.code.ts"
-import { akashaSeatsStated } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
 import { sessionOf } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import {

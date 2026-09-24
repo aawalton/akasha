@@ -154,7 +154,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/observation/seat-observation.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/observation/seat-turn/seat-pending/seat-pending.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/page/seat-page.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/pty/pty.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/reviving/seat-reviving.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/self-healing/self-healing.domain.ts"}

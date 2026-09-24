@@ -73,11 +73,11 @@
 {"propertySlug":"decision-kind","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/seat-launching.module.ts","id":"01a05d8f-50d9-7000-8a2a-2bc819c63d01"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/page-beat/seat-page-beat.module.ts","id":"01a0692a-1110-7af0-a99e-53fc742d08aa"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-observation.domain.ts","id":"01a0658d-c92f-76f2-abb0-efb387b6515b"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.ts","id":"01a0687b-3c85-7000-b60f-9d7b8c037697"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.ts","id":"01a0686a-7a57-7e87-825d-ae7e67bf9301"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts","id":"01a0658d-c92f-7071-838b-e88aa8479137"}
-{"propertySlug":"decision-kind","path":"agent/seat/page/modules/beat/seat-page-beat.module.ts","id":"01a0692a-1110-7af0-a99e-53fc742d08aa"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/registration-account.text-property.ts","id":"01a05397-7f9b-783b-b5ec-f0b163957fdf"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/start-mode.text-property.ts","id":"01a05395-58a5-760f-a464-178f4d4ebb97"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

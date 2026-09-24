@@ -1,10 +1,10 @@
-import { agentPresence } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
-import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import {
   frontmatterFromHistory,
   nameFromHistory,
-} from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
-import { pageValuesOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
+} from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
+import { pageValuesOf } from "akasha/agent/seat/modules/page-values/seat-page-values.module.code.ts"
+import { agentPresence } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
+import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import { sessionOf } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"

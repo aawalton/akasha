@@ -30,9 +30,9 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/log-day/modules/log-day-sweeping/log-day-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/modules/reading/seat-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/page/modules/seat-reading/seat-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/agent-hook-registration/agent-hook-registration.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}

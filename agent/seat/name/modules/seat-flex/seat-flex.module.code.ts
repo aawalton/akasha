@@ -1,6 +1,6 @@
+import { pageValuesOf } from "akasha/agent/seat/modules/page-values/seat-page-values.module.code.ts"
 import { FLEX } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
-import { pageValuesOf } from "akasha/agent/seat/page/modules/values/seat-page-values.module.code.ts"
 import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 

@@ -1,0 +1,14 @@
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-landing/seat-landing.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/modules/beside/seat-beside.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.test.ts"}
+{"propertySlug":"import","fileName":"seat-reading.module.code.ts","path":"command/pages/seat/supervisor/stop/seat-supervisor-stop.command.code.ts"}
+{"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

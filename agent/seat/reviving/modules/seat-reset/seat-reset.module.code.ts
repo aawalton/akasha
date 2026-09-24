@@ -15,12 +15,12 @@ import {
   SEAT_MODE_HEADLESS,
 } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import { DEFAULT_ACCOUNT } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
-import { composeSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
-import { flexInName } from "akasha/agent/seat/name/modules/seat-flex/seat-flex.module.code.ts"
 import {
   type SeatFromHistory,
   seatFromHistory,
-} from "akasha/agent/seat/page/modules/history/seat-page-history.module.code.ts"
+} from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
+import { composeSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import { flexInName } from "akasha/agent/seat/name/modules/seat-flex/seat-flex.module.code.ts"
 import { mintNamedAgent } from "akasha/agent/seat/start-guard/modules/seat-name-bind/seat-name-bind.module.code.ts"
 import {
   A_RESET,

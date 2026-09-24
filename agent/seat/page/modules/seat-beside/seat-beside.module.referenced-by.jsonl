@@ -1,8 +1,0 @@
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/page/modules/seat-beside/seat-beside.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/page/modules/seat-record/seat-record.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-beside.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/page/seat-page.domain.ts","id":"01a09c49-420c-7e83-819d-68f7d075e037"}

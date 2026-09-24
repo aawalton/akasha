@@ -1,11 +1,11 @@
 import {
+  akashaHolderProcessOf,
+  akashaSeatIdForName,
+} from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
+import {
   type SeatPresence,
   statedProcessPresence,
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import {
-  akashaHolderProcessOf,
-  akashaSeatIdForName,
-} from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
 
 export interface SeatByName {
   readonly id: string

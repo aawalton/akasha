@@ -1,11 +1,11 @@
+import { akashaObservedOf } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
+import { keepBeside } from "akasha/agent/seat/modules/beside/seat-beside.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import {
   formatSeatProcKey,
   parseSeatProcKey,
   readProcStartTicks,
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import { akashaObservedOf } from "akasha/agent/seat/page/modules/seat-akasha-read/seat-akasha-read.module.code.ts"
-import { keepBeside } from "akasha/agent/seat/page/modules/seat-beside/seat-beside.module.code.ts"
 
 export interface OAuthProxyStateToWrite {
   readonly pid: number

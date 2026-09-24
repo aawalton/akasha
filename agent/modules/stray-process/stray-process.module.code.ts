@@ -4,7 +4,7 @@ import {
   ACTING_NAMED,
   SUBAGENT_MARK,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import { akashaSeatPathForAgent } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatPathForAgent } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import {
   type Acting,
   actingIn,

@@ -4,7 +4,7 @@ import {
   type Sending,
   writeMessage,
 } from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
-import { akashaSeatsThatExist } from "akasha/agent/seat/page/modules/seat-akasha-beside/seat-akasha-beside.module.code.ts"
+import { akashaSeatsThatExist } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import type { Writing } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const TO = [...akashaSeatsThatExist().values()].sort()[0] ?? ""

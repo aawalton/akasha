@@ -1,0 +1,12 @@
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/message/recipient-resolving/modules/seat-identity/seat-identity.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/declaration/modules/seat-running/seat-running.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/declaration/modules/seat-whoami/seat-whoami.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/fleet/modules/seat-forest/seat-forest.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/session/seat-session.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-page-history.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

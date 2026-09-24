@@ -3,7 +3,7 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts"}
-{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/seat/page/modules/seat-akasha-history/seat-akasha-history.module.test.ts"}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/no-rule-in-two-files/no-rule-in-two-files.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test-fixtures.ts"}
