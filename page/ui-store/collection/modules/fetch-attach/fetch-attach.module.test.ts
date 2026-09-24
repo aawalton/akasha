@@ -3,6 +3,8 @@ import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-
 import { webApp } from "akasha/infrastructure/service/akasha-service/web-app/web-app.page-type.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
+  askingAgain,
+  deliveredWithin,
   filePagesPath,
   readAnswerRows,
 } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
@@ -42,6 +44,30 @@ test("carried keys and named pages are asked for together", () => {
   expect(filePagesPath("seat", ["conversation"], { by: "id", values: ["one"] })).toBe(
     "/api/pages/seat?carry=conversation&id=one"
   )
+})
+
+test("a whole page type pushed a change to one page asks for that page alone", () => {
+  expect(askingAgain("seat", ["conversation"], undefined, ["one"])).toEqual({
+    at: "/api/pages/seat?carry=conversation&id=one",
+    only: new Set(["one"]),
+  })
+  expect(askingAgain("seat", [], undefined, undefined)).toEqual({
+    at: "/api/pages/seat",
+    only: null,
+  })
+})
+
+test("a shape naming its own pages is read whole whatever the push names", () => {
+  expect(askingAgain("seat", [], { by: "slug", values: ["a"] }, ["one"])).toEqual({
+    at: "/api/pages/seat?slug=a",
+    only: null,
+  })
+})
+
+test("only the pages asked for can leave the shape", () => {
+  const delivered = new Set(["one", "two"])
+  expect(deliveredWithin(delivered, null)).toBe(delivered)
+  expect(deliveredWithin(delivered, new Set(["two", "three"]))).toEqual(new Set(["two"]))
 })
 
 test("an answer holding one row this reader cannot read carries none of them", () => {

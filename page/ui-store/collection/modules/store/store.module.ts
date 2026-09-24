@@ -50,6 +50,18 @@ export const store = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A whole page type's shape pushed a change naming a page reads that page alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page read that way and not answered leaves the shape.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change naming no page reads the whole shape again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A view may follow one page by id and be told each time that page is pushed.",
     },
   ],

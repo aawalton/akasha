@@ -137,11 +137,13 @@ test("a push that names no page type is no push", () => {
 
 test("a store reads a shape again when it is pushed, and tells whoever watches its page", async () => {
   let read = 0
+  const asked: (readonly string[] | undefined)[] = []
   const readingAgain = new Map([
     [
       "seat",
-      async () => {
+      async (ids?: readonly string[]) => {
         read += 1
+        asked.push(ids)
       },
     ],
   ])
@@ -167,5 +169,8 @@ test("a store reads a shape again when it is pushed, and tells whoever watches i
   await settled()
   expect(read).toBe(1)
   expect(told).toBe(1)
+  streams[0]?.say("page", { pageTypeSlug: "seat", slug: "a", id: "x", keys: ["seat"] })
+  await settled()
+  expect(asked).toEqual([undefined, ["x"]])
   watch.release()
 })

@@ -17,6 +17,8 @@ export const FILE_BACKING_POLL_MS = 30_000
 
 export type FetchImpl = (input: string, init?: RequestInit) => Promise<Response>
 
+export type ReadAgain = (ids?: readonly string[]) => Promise<void>
+
 export interface FetchAttachDeps {
   readonly controller: PagesSyncController
   readonly getRow: (id: string) => PageRow | undefined
@@ -24,7 +26,7 @@ export interface FetchAttachDeps {
   readonly onShapeLive: (shapeKey: string) => undefined
   readonly fetchImpl: FetchImpl
   readonly pollMs: number
-  readonly readingAgain: Map<string, () => Promise<void>>
+  readonly readingAgain: Map<string, ReadAgain>
   readonly followed?: (shapeKey: string) => boolean
 }
 
@@ -44,6 +46,32 @@ export function filePagesPath(
   if (carry.length > 0) asked.push(`carry=${encodeURIComponent(carry.join(","))}`)
   if (named !== undefined) asked.push(`${named.by}=${encodeURIComponent(named.values.join(","))}`)
   return asked.length === 0 ? at : `${at}?${asked.join("&")}`
+}
+
+export type Asking = {
+  readonly at: string
+  readonly only: ReadonlySet<string> | null
+}
+
+export function askingAgain(
+  pageTypeSlug: string,
+  carry: readonly string[],
+  named: NamedPages | undefined,
+  ids: readonly string[] | undefined
+): Asking {
+  if (named !== undefined || ids === undefined || ids.length === 0) {
+    return { at: filePagesPath(pageTypeSlug, carry, named), only: null }
+  }
+  const only = new Set(ids)
+  return { at: filePagesPath(pageTypeSlug, carry, { by: "id", values: [...only] }), only }
+}
+
+export function deliveredWithin(
+  delivered: ReadonlySet<string>,
+  only: ReadonlySet<string> | null
+): ReadonlySet<string> {
+  if (only === null) return delivered
+  return new Set([...only].filter((id) => delivered.has(id)))
 }
 
 function canonicalJson(value: unknown): string {
@@ -116,7 +144,6 @@ export function attachFetch(
   named: NamedPages | undefined = undefined
 ): () => undefined {
   const shapeKey = named === undefined ? pageTypeSlug : namedShapeKey(pageTypeSlug, named)
-  const at = filePagesPath(pageTypeSlug, carry, named)
   let stopped = false
   let timer: ReturnType<typeof setTimeout> | null = null
 
@@ -128,9 +155,9 @@ export function attachFetch(
     return created
   }
 
-  const apply = (rows: readonly PageRow[]): undefined => {
+  const apply = (rows: readonly PageRow[], only: ReadonlySet<string> | null): undefined => {
     const set = shapeSet()
-    const plan = planFetchedRows(rows, set, deps.getRow)
+    const plan = planFetchedRows(rows, deliveredWithin(set, only), deps.getRow)
     try {
       if (plan.inserts.length > 0) deps.controller.seed(plan.inserts)
       if (plan.updates.length > 0) deps.controller.applyUpserts(plan.updates)
@@ -147,7 +174,8 @@ export function attachFetch(
   const held = (): string =>
     `holding the ${deps.deliveredByShape.get(shapeKey)?.size ?? 0} row(s) already shown`
 
-  const poll = async (): Promise<void> => {
+  const poll = async (ids?: readonly string[]): Promise<void> => {
+    const { at, only } = askingAgain(pageTypeSlug, carry, named, ids)
     let response: Response
     try {
       response = await deps.fetchImpl(at, {
@@ -194,7 +222,7 @@ export function attachFetch(
         detail: `shape=${shapeKey} carried=${cut.carried} held=${cut.held}`,
       })
     }
-    apply(rows)
+    apply(rows, only)
   }
 
   let first = true
@@ -202,7 +230,7 @@ export function attachFetch(
   const tick = (): undefined => {
     const followed = !first && deps.followed?.(shapeKey) === true
     first = false
-    void (followed ? Promise.resolve() : poll()).finally(() => {
+    void (followed ? Promise.resolve() : poll(undefined)).finally(() => {
       if (stopped) return
       timer = setTimeout(tick, deps.pollMs)
     })

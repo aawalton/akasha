@@ -1,5 +1,8 @@
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
-import type { FetchImpl } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
+import type {
+  FetchImpl,
+  ReadAgain,
+} from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import {
   type NamedPages,
   namedShapeKey,
@@ -256,35 +259,41 @@ export function createChangeFollowing(deps: ChangeFollowingDeps): ChangeFollowin
   }
 }
 
+type Owed = { whole: boolean; readonly ids: Set<string> }
+
+function owe(owed: Owed, ids: readonly string[] | undefined): undefined {
+  if (ids === undefined) owed.whole = true
+  else for (const id of ids) owed.ids.add(id)
+  return undefined
+}
+
 export function createStoreFollowing(
-  readingAgain: ReadonlyMap<string, () => Promise<void>>,
+  readingAgain: ReadonlyMap<string, ReadAgain>,
   fetchImpl: FetchImpl | null,
   open: (at: string) => StreamLike = streamAt,
   canStream: boolean = typeof EventSource === "function"
 ): StoreFollowing {
   const heardBy = new Map<string, Set<() => undefined>>()
-  const readingNow = new Map<string, { owed: boolean }>()
+  const readingNow = new Map<string, Owed>()
   let followingAt: FollowingAt | null = null
 
-  const readAgainNow = (key: string): undefined => {
+  const readAgainNow = (key: string, ids: readonly string[] | undefined): undefined => {
     const reading = readingAgain.get(key)
     if (reading === undefined) return undefined
     const running = readingNow.get(key)
-    if (running !== undefined) {
-      running.owed = true
-      return undefined
-    }
-    const state = { owed: false }
-    readingNow.set(key, state)
-    void reading().finally(() => {
+    if (running !== undefined) return owe(running, ids)
+    const owed: Owed = { whole: false, ids: new Set() }
+    readingNow.set(key, owed)
+    void reading(ids).finally(() => {
       readingNow.delete(key)
-      if (state.owed) readAgainNow(key)
+      if (owed.whole) readAgainNow(key, undefined)
+      else if (owed.ids.size > 0) readAgainNow(key, [...owed.ids])
     })
     return undefined
   }
 
-  const heard = (key: string): undefined => {
-    readAgainNow(key)
+  const heard = (key: string, ids: readonly string[] | undefined): undefined => {
+    readAgainNow(key, ids)
     for (const one of heardBy.get(key) ?? []) one()
     return undefined
   }
@@ -301,11 +310,12 @@ export function createStoreFollowing(
       return answered.ok
     },
     pushed: (one) => {
-      for (const key of one.keys) heard(key)
+      const ids = one.id === undefined ? undefined : [one.id]
+      for (const key of one.keys) heard(key, ids)
       return undefined
     },
     caughtUp: () => {
-      for (const key of new Set([...readingAgain.keys(), ...heardBy.keys()])) heard(key)
+      for (const key of new Set([...readingAgain.keys(), ...heardBy.keys()])) heard(key, undefined)
       return undefined
     },
   })

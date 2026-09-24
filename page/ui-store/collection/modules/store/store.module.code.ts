@@ -25,6 +25,7 @@ import {
   attachFetch,
   type FetchImpl,
   FILE_BACKING_POLL_MS,
+  type ReadAgain,
 } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import {
   type PageTypeBacking,
@@ -123,7 +124,7 @@ export function createPagesStore(
   }
   onMutation = scheduleSave
   const deliveredByShape = new Map<string, Set<string>>()
-  const readingAgain = new Map<string, () => Promise<void>>()
+  const readingAgain = new Map<string, ReadAgain>()
 
   let token: string | null = null
   let signedIn = false
