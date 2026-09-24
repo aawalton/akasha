@@ -25,7 +25,17 @@ export const dataWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file below a folder a picture reads is no file that picture is made from.",
+      statement:
+        "The folders holding seat, subagent and initiative pages are read one folder down.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file further down than that is no file a picture is made from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file below any other folder a picture reads is no file that picture is made from.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -38,15 +48,37 @@ export const dataWatching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pages a picture is made from are the pages the index names of a page type.",
+      statement: "A picture states which of those folders are read one folder down.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A folder holding such a page is read because the index names that page.",
+      statement:
+        "A seat, subagent or initiative page a picture is made from is any page of that type in its folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat's sidecar of uncommitted values is a file a picture is made from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The folder holding a page type's pages is found beside where the index files that page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those folders are read to find which of their pages exist.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The turn-state pages a picture is made from are the pages the index names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder holding a turn-state page is read because the index names that page.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No folder here is walked to find which pages exist.",
+      statement: "No other folder here is walked to find which pages exist.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -73,12 +105,16 @@ export const dataWatching = {
       statement: "No folder the repository leaves untracked is followed for such an event.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A seat that appears while the service runs is read from then on.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The folders a picture reads are worked out as the service starts.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pages in a folder read one folder down are found again at each change.",
     },
     {
       decisionKind: "decision-kind/departure",
