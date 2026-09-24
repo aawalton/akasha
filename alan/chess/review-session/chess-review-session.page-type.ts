@@ -37,10 +37,6 @@ export const chessReviewSession = {
       statement:
         "A session is marked at the moment of the stepping through rather than at the day.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A session names the persona who coached that session.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
