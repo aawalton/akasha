@@ -22,7 +22,6 @@ import {
 import { getSubzone } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-subzone/map-pins-subzone.module.code.ts"
 import { TIME_BREACH } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-time-breach/map-pins-time-breach.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"

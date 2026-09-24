@@ -6,7 +6,6 @@ import {
   rowNumber,
 } from "akasha/temper/addon/pages/world/navigation/modules/destinations-pins-stores/destinations-pins-stores.module.code.ts"
 import { getCharacterSavedVariables } from "akasha/temper/addon/pages/world/navigation/modules/destinations-saved-variables/destinations-saved-variables.module.code.ts"
-import "akasha/temper/addon/type/custom-compass-pins/custom-compass-pins.type-declaration.d.ts"
 
 export function pairEnabled(undoneName: string, doneName: string): boolean {
   const filters = getCharacterSavedVariables().filters

@@ -9,7 +9,6 @@ import type {
   VcChatAllowed,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 import type { LamDropdownData } from "akasha/temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.code.ts"
-import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 
 export interface ConfigSize {
   width: number

@@ -6,7 +6,6 @@ import { asControl } from "akasha/temper/addon/pages/temper-core/temper-keybinde
 import { KEYBIND_DATA_TYPE } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-constants/keybinder-constants.module.code.ts"
 import { KEYBINDER_STATE } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-state/keybinder-state.module.code.ts"
 import { getUiString } from "akasha/temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-ui-strings/keybinder-ui-strings.module.code.ts"
-import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
