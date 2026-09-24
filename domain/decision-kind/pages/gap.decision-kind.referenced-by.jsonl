@@ -101,7 +101,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/eso-day/eso-day.module.ts","id":"01a05c77-31e6-7a9f-9805-d1c81725dd03"}
-{"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-count.number-property.ts","id":"01a05f3f-e3e0-79b8-92d7-8141ecd449e9"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-message.text-property.ts","id":"01a05f3f-e3e0-7450-8ae9-c82bf3ef1359"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-url.text-property.ts","id":"01a05f3f-e3e0-7ea0-a46e-cdf0d9e4d008"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}

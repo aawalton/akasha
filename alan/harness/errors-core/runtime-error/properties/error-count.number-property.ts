@@ -25,7 +25,7 @@ export const errorCount = {
       statement: "A count is never guessed where no count was read.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A report arriving while another report raises the count is lost.",
     },
   ],
