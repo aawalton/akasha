@@ -2537,6 +2537,7 @@
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/possessive-clitic.part-of-speech.ts","id":"01a0c92e-53e6-73a0-8ff4-bed61e10ef2a"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/present-participle.part-of-speech.ts","id":"01a0ca12-8196-7ab3-8bb5-13118634eaed"}
+{"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/relative-pronoun.part-of-speech.ts","id":"01a0d428-a4ce-76be-a860-ad6dfb3fb3b5"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/subordinating-conjunction.part-of-speech.ts","id":"01a0d3d1-8abe-70e6-930c-7ba6f7040d74"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/pages/verb.part-of-speech.ts","id":"01a0c677-ca51-7407-b1ca-e2a16319c088"}
 {"propertySlug":"decision-kind","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}

@@ -12,7 +12,7 @@ export const freeRelativePronoun = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A relative pronoun written after a noun does another job, named on no page yet.",
+      statement: "A relative pronoun written after a noun does another job, on a page of its own.",
     },
     {
       decisionKind: "decision-kind/departure",

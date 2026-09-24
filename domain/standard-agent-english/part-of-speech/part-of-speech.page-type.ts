@@ -20,6 +20,7 @@ export const partOfSpeech = {
     "part-of-speech/present-participle",
     "part-of-speech/modal",
     "part-of-speech/subordinating-conjunction",
+    "part-of-speech/relative-pronoun",
   ],
   extends: ["page-type/domain"],
   decisions: [

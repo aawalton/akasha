@@ -115,6 +115,7 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/determiner.part-of-speech.ts","id":"01a0c582-f267-748c-986a-58d52a3bbf3b"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/noun.part-of-speech.ts","id":"01a0c564-f7af-72fe-a45d-895e26d8b701"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/preposition.part-of-speech.ts","id":"01a0c58e-f68d-7a49-b538-7624b5cec8d5"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/relative-pronoun.part-of-speech.ts","id":"01a0d428-a4ce-76be-a860-ad6dfb3fb3b5"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/subordinating-conjunction.part-of-speech.ts","id":"01a0d3d1-8abe-70e6-930c-7ba6f7040d74"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/part-of-speech/pages/verb.part-of-speech.ts","id":"01a0c677-ca51-7407-b1ca-e2a16319c088"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/all.common-language-term.ts","id":"01a0c62b-3d10-79ec-aaad-fc56d0786325"}

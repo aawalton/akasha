@@ -7,5 +7,6 @@ export const that = {
   spellings: [
     { partOfSpeech: "part-of-speech/determiner", spelling: "that" },
     { partOfSpeech: "part-of-speech/determiner", spelling: "those" },
+    { partOfSpeech: "part-of-speech/relative-pronoun", spelling: "that" },
   ],
 } as const satisfies CommonLanguageTerm
