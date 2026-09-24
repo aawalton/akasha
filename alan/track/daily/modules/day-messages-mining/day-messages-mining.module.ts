@@ -61,11 +61,11 @@ export const dayMessagesMining = {
       statement: "The personas on a day sit in the order of their names.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A message Alan wrote on another machine is counted nowhere.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A transcript no longer on this machine takes its messages out of the counts.",
     },
     {
