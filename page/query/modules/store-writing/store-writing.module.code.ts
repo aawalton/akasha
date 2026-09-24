@@ -102,6 +102,25 @@ export async function writeFiles(
   return landing(what, body, writer, fetcher, rest)
 }
 
+export type Naming = {
+  readonly pageTypeSlug: string
+  readonly slug: string
+  readonly values: Readonly<Record<string, unknown>>
+  readonly merge?: boolean
+}
+
+export async function writePages(
+  pages: readonly Naming[],
+  writer: string,
+  message: string,
+  fetcher: Fetcher = pagesFetcher(),
+  rest: Sleeper = sleep
+): Promise<Written> {
+  if (pages.length === 0) return { ok: false, why: "a write carries at least one page" }
+  const what = `a write of ${pages.map((one) => `${one.pageTypeSlug}/${one.slug}`).join(", ")}`
+  return landing(what, { writer, message, pages: [...pages] }, writer, fetcher, rest)
+}
+
 function bodiesIn(body: unknown): Read | null {
   if (typeof body !== "object" || body === null) return null
   const held = body as { at?: unknown; bodies?: unknown; unplaced?: unknown }

@@ -246,6 +246,7 @@
 {"propertySlug":"decision-kind","path":"alan/collection/external/modules/external-identity-reading/external-identity-reading.module.ts","id":"01a09bf4-84e9-7269-b76b-4b3efbc8d34a"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/great-courses.domain.ts","id":"01a06579-f3d9-7008-be12-f37f13da607b"}
 {"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/catalogue-syncing/catalogue-syncing.module.ts","id":"01a0686a-7a57-7999-b904-b23c1ed07377"}
+{"propertySlug":"decision-kind","path":"alan/collection/great-courses/modules/create-course/create-course.module.ts","id":"01a06579-f3d9-7005-80a2-939e9bfae257"}
 {"propertySlug":"decision-kind","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.ts","id":"01a0686a-7a57-7b85-b362-7a71277ca88c"}
 {"propertySlug":"decision-kind","path":"alan/collection/sync/sync.page-type.ts","id":"01a06835-e289-7ad6-8588-3a59938a1140"}
 {"propertySlug":"decision-kind","path":"alan/google/drive/google-drive.domain.ts","id":"01a05bec-fc09-7a61-8e09-909bc24a66c2"}

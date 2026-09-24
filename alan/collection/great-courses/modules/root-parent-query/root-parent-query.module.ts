@@ -13,12 +13,20 @@ export const rootParentQuery = {
       statement: "A read that failed is refused rather than answered as the sync being due.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "Nothing renders a `great-courses-collection` body out of its keys.",
+      decisionKind: "decision-kind/departure",
+      statement: "The day written back is the day the sync ran rather than the day it was due.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The date the gate reads never moves.",
+      decisionKind: "decision-kind/departure",
+      statement: "The root's other values are merged, so writing the day loses none of them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the record naming this provider is replaced, and every other one remains.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write the store refused is answered as the day not recorded.",
     },
   ],
 } as const satisfies Module

@@ -8,16 +8,32 @@ export const createCourse = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "Nothing renders a `great-course` page's body out of the keys carried here.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "No course becomes a `great-course` page.",
+      decisionKind: "decision-kind/departure",
+      statement: "A course is handed to the store as its values, and the store renders the body.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The refusal comes before the course's detail page is fetched.",
+      statement: "A course is filed under the name the catalogue's own identifier gives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A catalogue naming no identifier has one read off the course's own address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name past what a slug holds is shortened here rather than refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A course states the title, the shelves it sits on, and the provider's record.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here states the minutes a course runs to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write the store refused is counted as one course failed rather than thrown.",
     },
   ],
 } as const satisfies Module

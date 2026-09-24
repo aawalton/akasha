@@ -14,6 +14,15 @@ export const storeWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A write of pages names each page's type and slug and the values that page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The store renders a page written that way, so no caller composes the body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A write that committed answers with the commit the write landed as.",
     },
     {

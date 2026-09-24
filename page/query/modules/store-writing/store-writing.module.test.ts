@@ -5,6 +5,7 @@ import {
   readFiles,
   readPages,
   writeFiles,
+  writePages,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 
 const WRITER = "Amy <amy@alanwalton.com>"
@@ -90,6 +91,29 @@ test("a refusal the store states is carried back", async () => {
   expect(written.ok).toBe(false)
   if (written.ok) return
   expect(written.why).toContain("stands outside")
+})
+
+test("a write of pages names each page's type and slug and the values it states", async () => {
+  const { fetcher, sent } = recording({ commit: "abc123", wrote: ["akasha/one.ts"], took: [] })
+  const written = await writePages(
+    [{ pageTypeSlug: "great-course", slug: "one", values: { title: "One" } }],
+    WRITER,
+    "why",
+    fetcher,
+    noNap
+  )
+  expect(written).toEqual({ ok: true, at: "abc123" })
+  const held = sent()
+  expect(held.url).toEndWith("/write")
+  expect(held.body.puts).toBeUndefined()
+  expect(held.body.pages).toEqual([
+    { pageTypeSlug: "great-course", slug: "one", values: { title: "One" } },
+  ])
+})
+
+test("a write of pages carrying no page is refused", async () => {
+  const { fetcher } = recording({ commit: "x", wrote: [], took: [] })
+  expect((await writePages([], WRITER, "why", fetcher, noNap)).ok).toBe(false)
 })
 
 test("a read answers with a whole body and the commit it was read at", async () => {

@@ -1,4 +1,9 @@
-import { syncedFrom } from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
+import {
+  identitiesWith,
+  idFrom,
+  linkFrom,
+  syncedFrom,
+} from "akasha/alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"
 import {
   pageTitled,
   textAt,
@@ -8,6 +13,7 @@ import {
   logError,
   toError,
 } from "akasha/alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
+import { writePages } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import {
   daysAgoYYYYMMDD,
   todayYYYYMMDD,
@@ -46,18 +52,43 @@ export async function shouldRunGreatCoursesSync(): Promise<boolean> {
   }
 }
 
-const NO_RENDER =
-  "the store writes a path and a whole body, and nothing renders a `great-courses-collection` page's body out of its keys, so `lastSyncedAt` cannot be set here. land the page's whole body with `patchFiles`, or set it through the akasha command line"
+const WRITER = "Great Courses sync <amy@alanwalton.com>"
 
 export async function updateRootParentLastSyncedAt(): Promise<boolean> {
-  const root = await pageTitled(GREAT_COURSES_COLLECTION_SLUG, ROOT_TIMER_TITLE, [])
+  const root = await pageTitled(GREAT_COURSES_COLLECTION_SLUG, ROOT_TIMER_TITLE, [
+    "externalIdentity",
+  ])
   const slug = root === null ? null : textAt(root, "slug")
-  if (slug == null) {
+  if (root === null || slug == null) {
     console.warn(`${ROOT_TIMER_TITLE} root not found, so nothing recorded when it last synced`)
     return false
   }
+  const held = root.values["externalIdentity"]
+  const externalId = idFrom(held, SOURCE)
+  const externalLink = linkFrom(held, SOURCE)
+  const fresh = {
+    source: SOURCE,
+    ...(externalId === null ? {} : { externalId }),
+    ...(externalLink === null ? {} : { externalLink }),
+    lastSyncedAt: todayYYYYMMDD(),
+  }
+  const written = await writePages(
+    [
+      {
+        pageTypeSlug: GREAT_COURSES_COLLECTION_SLUG,
+        slug,
+        values: { externalIdentity: identitiesWith(held, fresh) },
+        merge: true,
+      },
+    ],
+    WRITER,
+    `record the day the Great Courses catalogue was last read`
+  )
+  if (written.ok) return true
   const err = toError(
-    new Error(`\`${GREAT_COURSES_COLLECTION_SLUG}/${slug}\` kept ${todayYYYYMMDD()}: ${NO_RENDER}`)
+    new Error(
+      `\`${GREAT_COURSES_COLLECTION_SLUG}/${slug}\` kept no sync day of ${todayYYYYMMDD()}: ${written.why}`
+    )
   )
   logError("Root parent update", "updateRootParentLastSyncedAt", err, classifyError(err))
   return false

@@ -16,5 +16,9 @@ export const courseMapping = {
       decisionKind: "decision-kind/departure",
       statement: "A subject shelf the store does not have is warned about rather than refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shelf is named as a relation slug, so the page type it is comes with the name.",
+    },
   ],
 } as const satisfies Module

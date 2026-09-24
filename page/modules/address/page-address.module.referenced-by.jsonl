@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/subagent/modules/body/subagent-body.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/collection/great-courses/modules/course-mapping/course-mapping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts"}
