@@ -1873,6 +1873,7 @@
 {"propertySlug":"decision-kind","path":"code/path/modules/path-runs/path-runs.module.ts","id":"01a08dc8-f79a-7000-992b-06d5107912ec"}
 {"propertySlug":"decision-kind","path":"code/path/test-fixtures/script-paths/script-paths.test-fixture.ts","id":"01a08ee1-df5c-739b-aaae-9c94d47a27ee"}
 {"propertySlug":"decision-kind","path":"code/performance/performance.page-type.ts","id":"01a08786-9212-746c-80e0-13134209de62"}
+{"propertySlug":"decision-kind","path":"code/process/code-process.domain.ts","id":"01a05c4f-6f2b-7cf2-8361-788954595f9a"}
 {"propertySlug":"decision-kind","path":"code/process/modules/libc-mapping/libc-mapping.module.ts","id":"01a0829f-d499-7794-b738-28a44c010e2e"}
 {"propertySlug":"decision-kind","path":"code/process/modules/pid-signal/pid-signal.module.ts","id":"01a05c4f-6f2e-7d2e-bf84-237cf8284bd3"}
 {"propertySlug":"decision-kind","path":"code/process/modules/port-holding/port-holding.module.ts","id":"01a0659d-b1ba-7000-ac0a-6643010ea000"}

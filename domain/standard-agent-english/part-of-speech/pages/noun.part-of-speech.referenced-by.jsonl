@@ -87,6 +87,7 @@
 {"propertySlug":"part-of-speech","path":"code/flag/flag.page-type.ts","id":"01a06835-e289-76ca-8e3e-0ef012ffdf1a"}
 {"propertySlug":"part-of-speech","path":"code/module/module.page-type.ts","id":"01a04a20-6e04-7b99-81a0-0efe0ad0a02a"}
 {"propertySlug":"part-of-speech","path":"code/performance/performance.page-type.ts","id":"01a08786-9212-746c-80e0-13134209de62"}
+{"propertySlug":"part-of-speech","path":"code/process/code-process.domain.ts","id":"01a05c4f-6f2b-7cf2-8361-788954595f9a"}
 {"propertySlug":"part-of-speech","path":"code/route/route.page-type.ts","id":"01a071dc-83c4-7030-b380-57eb6c741b5b"}
 {"propertySlug":"part-of-speech","path":"code/shell/shell.domain.ts","id":"01a05d9b-277a-7000-be3d-95c4cf94638d"}
 {"propertySlug":"part-of-speech","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
