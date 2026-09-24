@@ -54,5 +54,10 @@ export const hook = {
       statement:
         "A hook over the ways a shell writes a file samples an open world that is too many ways to name.",
     },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "A shell call is read by a shell parser rather than by text parsing of akasha's own.",
+    },
   ],
 } as const satisfies Domain

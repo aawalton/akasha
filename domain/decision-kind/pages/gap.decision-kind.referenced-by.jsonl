@@ -13,6 +13,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.ts","id":"01a090e9-b891-780c-ae1c-408119c382ec"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.ts","id":"01a06cc2-9c03-7cc6-8572-ca2c4935d05a"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.ts","id":"01a0598f-18de-7467-a5af-de60b85fefd7"}
+{"propertySlug":"decision-kind","path":"agent/hook/hook.domain.ts","id":"01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/git-calls/git-calls.module.ts","id":"01a04e16-d380-7000-aca5-c084a6730236"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/shell-calls/shell-calls.module.ts","id":"01a04eab-4522-7000-9e89-8627b48fbcc5"}
 {"propertySlug":"decision-kind","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
