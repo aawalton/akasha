@@ -208,6 +208,17 @@ end
 
 local WindowManager = {}
 
+local function answeredNothing() return nil end
+
+setmetatable(WindowManager, {
+  __index = function(_, key)
+    if type(key) ~= "string" or string.match(key, "^%u") == nil then return nil end
+    unmodelled["WindowManager:" .. key] = (unmodelled["WindowManager:" .. key] or 0) + 1
+    if string.match(key, "^Get%u.*Control$") ~= nil then return answeredNothing end
+    return unmodelledAs(key)
+  end,
+})
+
 function WindowManager:CreateTopLevelWindow(name)
   return birth(name, _G.GuiRoot, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)
 end

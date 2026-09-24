@@ -79,6 +79,14 @@ export const uiControlModel = {
       decisionKind: "decision-kind/departure",
       statement: "Any other method the model lacks answers with the control it was called on.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A method the window manager lacks is counted and answers as a control's would.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A getter of a control the window manager lacks answers nothing.",
+    },
 
     {
       decisionKind: "decision-kind/departure",
