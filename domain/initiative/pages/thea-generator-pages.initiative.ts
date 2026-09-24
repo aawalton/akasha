@@ -19,6 +19,9 @@ export const theaGeneratorPages = {
         "Every type generator is a change generator, and no page type states a type generator.",
     },
     {
+      statement: "A page's id is minted by a change generator rather than when the draft is made.",
+    },
+    {
       statement: "The change code runs the change generators the index names and imports none.",
     },
   ],
