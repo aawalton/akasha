@@ -3,6 +3,7 @@ import {
   refusing,
   type Said,
   stating,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { claimedIn } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
 import { namersIn, pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
@@ -55,7 +56,7 @@ export function removeEveryPageOfAType(world: World, given: Asked): Said {
     return refusing(`\`${given.pageType}\` names no page type`)
   }
   const named = world.index.everyOfType(given.pageType)
-  if (named.length === 0) return refusing(`no page is a \`${given.pageType}\``)
+  if (named.length === 0) return telling(stating([]), [`no page is a \`${given.pageType}\``])
   const atMost = given.atMost ?? null
   const listed = (atMost === null ? named : named.slice(0, atMost)).map((one) => one.path)
   let taking: Taking | string

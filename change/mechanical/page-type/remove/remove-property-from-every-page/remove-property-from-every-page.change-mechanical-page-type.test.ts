@@ -117,11 +117,12 @@ test("a page type the index does not name is refused", () => {
   expect(said.refused).toBe(`\`${TYPE}\` names no page type`)
 })
 
-test("a page type no page of which holds the key is refused rather than answered as no edit", () => {
+test("a page type no page of which holds the key is answered as no edit, saying so", () => {
   const said = removePropertyFromEveryPage(worldFor(BODIES, [DECLARED], []), TAKING)
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`no \`${TYPE}\` carries \`${KEY}\``)
+  expect(said.refused).toBeNull()
+  expect(said.told).toEqual([`no \`${TYPE}\` carries \`${KEY}\``])
 })
 
 test("a count handed in bounds how many pages the key goes from", () => {

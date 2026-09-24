@@ -135,14 +135,15 @@ test("a page type the index does not name is refused", async () => {
   expect(said.refused).toBe("`book-section` names no page type")
 })
 
-test("a page type no page of which holds the key is refused rather than answered as no edit", async () => {
+test("a page type no page of which holds the key is answered as no edit, saying so", async () => {
   const said = await removePropertyFromEveryPage(worldFor(BODIES, [DECLARED], []), {
     pageType: "book-section",
     key: "sectionOfSlug",
   })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no `book-section` carries `sectionOfSlug`")
+  expect(said.refused).toBeNull()
+  expect(said.told).toEqual(["no `book-section` carries `sectionOfSlug`"])
 })
 
 test("a count handed in holds how many pages the key goes from", async () => {

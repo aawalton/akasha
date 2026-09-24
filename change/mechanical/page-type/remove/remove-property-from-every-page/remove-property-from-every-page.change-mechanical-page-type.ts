@@ -41,8 +41,7 @@ export const removePropertyFromEveryPage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A page type no page of which holds the key is refused rather than answered as no edit.",
+      statement: "A page type no page of which holds the key is answered as no edit, saying so.",
     },
     {
       decisionKind: "decision-kind/departure",

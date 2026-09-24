@@ -23,8 +23,7 @@ export const removePropertyFromEveryPage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A page type no page of which holds the key is refused rather than left as no edit.",
+      statement: "A page type no page of which holds the key is answered as no edit, saying so.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -52,7 +51,7 @@ export const removePropertyFromEveryPage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A key mistyped is caught here by no page of that page type holding the key.",
+      statement: "A key mistyped is told here as no page of that page type holding the key.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -38,7 +38,7 @@ export const removeEveryPageOfAType = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page type no page is of is refused rather than answered as no edit.",
+      statement: "A page type no page is of is answered as no edit, saying so.",
     },
     {
       decisionKind: "decision-kind/departure",

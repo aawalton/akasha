@@ -144,11 +144,12 @@ test("a page type the index does not name is refused", () => {
   expect(said.refused).toBe("`bough` names no page type")
 })
 
-test("a page type no page is of is refused rather than answered as no edit", () => {
+test("a page type no page is of is answered as no edit, saying so", () => {
   const said = removeEveryPageOfAType(sprigWorld(), { pageType: "twig" })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("no page is a `twig`")
+  expect(said.refused).toBeNull()
+  expect(said.told).toEqual(["no page is a `twig`"])
 })
 
 test("a count below the pages there are takes that many and no more", () => {

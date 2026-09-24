@@ -2,6 +2,7 @@ import {
   refusing,
   type Said,
   stating,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   editsOver,
@@ -30,7 +31,9 @@ export function requiringIn(world: World, given: Asked): string | null {
 export function removePropertyFromEveryPage(world: World, given: Asked): Said {
   const held = holdingIn(world, given)
   if (typeof held === "string") return refusing(held)
-  if (held.length === 0) return refusing(`no \`${given.pageType}\` carries \`${given.key}\``)
+  if (held.length === 0) {
+    return telling(stating([]), [`no \`${given.pageType}\` carries \`${given.key}\``])
+  }
   const required = requiringIn(world, given)
   if (required !== null) return refusing(required)
   const written: readonly Written[] = [{ written: "dropped", key: given.key }]
