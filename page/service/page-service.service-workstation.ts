@@ -33,7 +33,7 @@ export const pageService = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read is answered while another read is being answered.",
+      statement: "A read is answered whole before the next read starts.",
     },
     {
       decisionKind: "decision-kind/departure",
