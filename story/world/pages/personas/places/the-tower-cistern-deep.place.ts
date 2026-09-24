@@ -10,7 +10,7 @@ export const theTowerCisternDeep = {
   within: "place/the-tower-floor-02",
   depth: 2,
   description:
-    "Where the walkway gives out, the flood opens into the heart of the undercroft. The Drowned Sentry's burned-out shell of smoke-blackened plate lies slumped half into the shallows off its submerged platform, and the path to the spiral stair is clear. The Glut is dead, and the water lies still.",
+    "Where the walkway gives out, the flood opens into the heart of the undercroft. The Drowned Sentry's burned-out shell of smoke-blackened plate, stripped of its steel pauldron, lies slumped half into the shallows off its submerged platform, and the path to the spiral stair is clear. The Glut is dead, and the water lies still.",
   exits: [
     { to: "place/the-tower-cistern-walkway", way: "back along the walkway" },
     { to: "place/the-tower-gallery-nave", way: "the spiral stair forward, open" },
