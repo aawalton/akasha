@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"answer.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-page-types/answer-page-types.module.code.ts"}
 {"propertySlug":"import","fileName":"answer.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-page-write/answer-page-write.module.code.ts"}
 {"propertySlug":"import","fileName":"answer.module.code.ts","path":"alan/harness/web-page-answer/.server/answer-pages/answer-pages.module.code.ts"}
+{"propertySlug":"import","fileName":"answer.module.code.ts","path":"page/access/modules/answer/answer.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"answer.module.code.ts","path":"page/access/modules/answer/answer.module.test.ts"}
 {"propertySlug":"import","fileName":"answer.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.code.ts"}
+{"propertySlug":"import","fileName":"answer.module.test-fixtures.ts","path":"page/access/modules/answer/answer.module.test.ts"}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

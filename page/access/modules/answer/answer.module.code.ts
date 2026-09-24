@@ -156,6 +156,37 @@ export function carriedKeys(request: Request): ReadonlySet<string> {
   return held
 }
 
+const NAMED_BY = ["id", "slug"] as const
+
+const NAMED_BY_NARROW =
+  "the pages this reader may read are narrowed by the key this question names pages by; this route refuses rather than letting the question widen the narrow"
+
+export function namedPages(request: Request): Readonly<Record<string, Test>> | undefined {
+  const params = new URL(request.url).searchParams
+  const where: Record<string, Test> = {}
+  for (const key of NAMED_BY) {
+    const said = params.get(key)
+    if (said === null) continue
+    const values = new Set<string>()
+    for (const one of said.split(",")) {
+      const named = one.trim()
+      if (named !== "") values.add(named)
+    }
+    where[key] = { in: [...values].sort() }
+  }
+  return Object.keys(where).length === 0 ? undefined : where
+}
+
+export function namedWithin(
+  narrowed: Readonly<Record<string, Test>> | undefined,
+  named: Readonly<Record<string, Test>> | undefined
+): Readonly<Record<string, Test>> | undefined | null {
+  if (named === undefined) return narrowed
+  if (narrowed === undefined) return named
+  for (const key of Object.keys(named)) if (key in narrowed) return null
+  return { ...narrowed, ...named }
+}
+
 export function listedKeys(
   definitions: readonly PropertyDefinition[],
   carried: ReadonlySet<string> = NOTHING_CARRIED
@@ -218,6 +249,10 @@ export async function answerPages(
   if (narrowed === null) {
     return Response.json({ error: NARROWS_DISAGREE }, { status: 403, headers })
   }
+  const where = namedWithin(narrowed, namedPages(request))
+  if (where === null) {
+    return Response.json({ error: NAMED_BY_NARROW }, { status: 403, headers })
+  }
 
   let reading: PageTypeReading | null
   try {
@@ -243,7 +278,7 @@ export async function answerPages(
     pageTypeSlug,
     LISTING_CEILING,
     listedKeys(reading.definitions, carriedKeys(request)),
-    narrowed
+    where
   )
   if ("refused" in asked) {
     return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })

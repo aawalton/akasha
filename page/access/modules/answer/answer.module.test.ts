@@ -4,83 +4,27 @@ import {
   answerPageTypes,
   carriedKeys,
   listedKeys,
-  type PagesDeps,
+  namedPages,
+  namedWithin,
   type PageTypeReading,
-  type PageTypesDeps,
   withDefinitions,
 } from "akasha/page/access/modules/answer/answer.module.code.ts"
+import {
+  AT,
+  CARRIED,
+  DEFINED,
+  depsAnonymous,
+  depsAsking,
+  depsReading,
+  depsRostering,
+  READS_EVERYTHING,
+  READS_NOTHING,
+  ROSTER_AT,
+  rowFor,
+  whenSignedIn,
+} from "akasha/page/access/modules/answer/answer.module.test-fixtures.ts"
 import { RosterUnreachable } from "akasha/page/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
-
-const AT = "https://alanwalton.com/api/pages/readout"
-
-const READS_EVERYTHING = { permitted: true, narrows: null } as const
-
-const READS_NOTHING = { permitted: false } as const
-
-const whenSignedIn = async (user: object | null) =>
-  user === null ? READS_NOTHING : READS_EVERYTHING
-
-const ROSTER_AT = "https://alanwalton.com/api/page-types"
-
-function depsRostering(roster: PageTypesDeps["roster"]): PageTypesDeps {
-  return {
-    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: whenSignedIn,
-    roster,
-  }
-}
-
-function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps {
-  return {
-    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: whenSignedIn,
-    ask: async () => ({ rows: [], n: 0 }),
-    readPageType,
-    definitionsFor: async () => [],
-  }
-}
-
-function depsAsking(ask: PagesDeps["ask"]): PagesDeps {
-  return {
-    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
-    mayRead: whenSignedIn,
-    ask,
-    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
-    definitionsFor: async () => [],
-  }
-}
-
-function depsAnonymous(mayRead: PagesDeps["mayRead"]): PagesDeps {
-  return {
-    readUser: async () => ({ user: null, headers: new Headers() }),
-    mayRead,
-    ask: async () => ({ rows: [], n: 0 }),
-    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
-    definitionsFor: async () => [],
-  }
-}
-
-function rowFor(slug: string | null): Parameters<typeof withDefinitions>[0][number] {
-  return {
-    id: slug ?? "none",
-    page_type_id: "one",
-    title: null,
-    icon: null,
-    attributes: { displayName: "To Do" },
-    page_type_slug: "page-type",
-    unique_key: null,
-    status: null,
-    completed_at: null,
-    slug,
-    favorited_at: null,
-    last_viewed_at: null,
-  }
-}
-
-const DEFINED: readonly PropertyDefinition[] = [
-  { id: "toDoDueDate", title: "the day it is due", type: "calendar-date", pageId: "two" },
-]
 
 test("a page type's row carries the property definitions that page type declares", async () => {
   const rows = await withDefinitions([rowFor("to-do")], async () => DEFINED)
@@ -154,23 +98,6 @@ test("a listing asks the pages for no more rows than the listing carries", async
   await answerPages(new Request(AT), "readout", deps)
   expect(under).toEqual([5_000])
 })
-
-const CARRIED: readonly PropertyDefinition[] = [
-  {
-    id: "slug",
-    title: "Slug",
-    type: "text",
-    pageId: "one",
-    drawnBy: ["text-property", "page-property", "domain", "page"],
-  },
-  {
-    id: "stacks",
-    title: "Stacks",
-    type: "json",
-    pageId: "two",
-    drawnBy: ["page-property-entry", "page-property", "domain", "page"],
-  },
-]
 
 test("a listing asks for every key but the ones whose rows are filed beside the page", async () => {
   const under: (readonly string[] | undefined)[] = []
@@ -334,6 +261,47 @@ test("a narrow an access carries is asked of the pages rather than weighed after
   })
   expect(answered.status).toBe(200)
   expect(asked).toEqual([{ app: { is: "web-app/one" } }])
+})
+
+test("a listing naming pages by slug asks the pages for those slugs alone", async () => {
+  const asked: (Readonly<Record<string, unknown>> | undefined)[] = []
+  const answered = await answerPages(
+    new Request(`${AT}?slug=two,%20one,two,`),
+    "readout",
+    depsAsking(async (_pageTypeSlug, _limit, _keys, where) => {
+      asked.push(where)
+      return { rows: [], n: 0 }
+    })
+  )
+  expect(answered.status).toBe(200)
+  expect(asked).toEqual([{ slug: { in: ["one", "two"] } }])
+})
+
+test("a listing naming pages by id asks the pages for those ids alone", () => {
+  expect(namedPages(new Request(`${AT}?id=b,a`))).toEqual({ id: { in: ["a", "b"] } })
+})
+
+test("a listing naming no page asks for every page", () => {
+  expect(namedPages(new Request(AT))).toBeUndefined()
+})
+
+test("pages named within a narrow are asked within that narrow", async () => {
+  const asked: (Readonly<Record<string, unknown>> | undefined)[] = []
+  await answerPages(new Request(`${AT}?slug=one`), "readout", {
+    readUser: async () => ({ user: null, headers: new Headers() }),
+    mayRead: async () => ({ permitted: true, narrows: [{ key: "app", is: "web-app/one" }] }),
+    ask: async (_pageTypeSlug, _limit, _keys, where) => {
+      asked.push(where)
+      return { rows: [], n: 0 }
+    },
+    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
+    definitionsFor: async () => [],
+  })
+  expect(asked).toEqual([{ app: { is: "web-app/one" }, slug: { in: ["one"] } }])
+})
+
+test("pages named by the key a narrow holds are refused rather than widening it", () => {
+  expect(namedWithin({ slug: { is: "one" } }, { slug: { in: ["two"] } })).toBeNull()
 })
 
 test("an access stating no narrow asks the pages without one", async () => {

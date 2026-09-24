@@ -7,6 +7,7 @@ export const answer = {
   definition: "what answers a page or page-type query",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -28,6 +29,14 @@ export const answer = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A listing has five thousand rows at the most.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question naming pages by id or by slug is answered with those pages alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Pages named by the key a reader's narrow holds are refused rather than asked.",
     },
     {
       decisionKind: "decision-kind/departure",
