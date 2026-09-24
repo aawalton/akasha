@@ -9,13 +9,7 @@ export const theTowerDrownedSentry01 = {
   about: "character-other/the-tower-drowned-sentry-01",
   loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "The Drowned Sentry is a corpse centuries waterlogged in plate rusted fused at every joint.",
-    "The Drowned Sentry's fused plate leaves it too slow to turn in time.",
-    "The Drowned Sentry's plate turns most of a blow struck at its front.",
-    "The Drowned Sentry takes a blow clean at its back or behind its knee or neck.",
-    "The Drowned Sentry is dry rot under the rust, and fire is its bane.",
-    "Set alight, the Drowned Sentry's seized joints crack and it flails.",
-    "Cold water does nothing to the Drowned Sentry.",
     "The Drowned Sentry is dead, burned out through its neck-seam.",
+    "The Drowned Sentry's shell is waterlogged plate rusted fused at every joint over dry rot.",
   ],
 } as const satisfies Lore
