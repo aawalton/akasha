@@ -45,10 +45,7 @@ export const test = {
       statement:
         "A test reaching the pages reads the pages whole rather than pinning the values the test found.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A test that would pass over an empty world does not land.",
-    },
+
     {
       decisionKind: "decision-kind/upkeep",
       statement: "A test proves a mend only where the mend removed makes that test fail.",
