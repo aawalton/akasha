@@ -85,7 +85,7 @@ end
 
 const SETTLING_ROUNDS = 64
 
-async function settled(harness: UiHarness): Promise<void> {
+export async function settled(harness: UiHarness): Promise<void> {
   try {
     await harness.settle(SETTLING_ROUNDS)
   } catch {
