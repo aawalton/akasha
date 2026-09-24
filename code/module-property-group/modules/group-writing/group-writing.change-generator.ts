@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ChangeGenerator } from "akasha/change/generator/change-generator.page-type.types.ts"
 
 export const groupWriting = {
   id: "01a08dd3-479a-794b-bdd2-2b24e59840c6",
-  type: "page-type/module",
+  type: "page-type/change-generator",
   slug: "group-writing",
   definition: "the file a page's module property group writes beside that page",
   code: "ts",
@@ -106,4 +106,4 @@ export const groupWriting = {
       statement: "A group runs off the body the change leaves rather than off the checkout.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ChangeGenerator

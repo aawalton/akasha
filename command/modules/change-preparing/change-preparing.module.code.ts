@@ -9,7 +9,6 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 
-import { bodiesFor } from "akasha/code/module-property-group/modules/group-writing/group-writing.module.code.ts"
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 
 import { lockingFor } from "akasha/code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"
@@ -151,12 +150,11 @@ export function preparing(
   const change = changeOf(root, base, rows)
 
   const typed = typesFor(change)
-  const written = bodiesFor(change)
+
   const early = [
     ...locking.edits,
 
     ...typed.edits,
-    ...written.edits,
   ]
   const generated = generatedOver(change, (more) =>
     changeOf(root, base, [...rows, ...early, ...more])
@@ -178,7 +176,7 @@ export function preparing(
       ...locking.said,
 
       ...typed.said,
-      ...written.said,
+
       ...generated.said,
       ...carried.said,
       ...drawn.said,

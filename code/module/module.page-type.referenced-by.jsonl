@@ -1077,7 +1077,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/ios-app/modules/decode-harness-script/decode-harness-script.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/ios-app/modules/shared-build-files/shared-build-files.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/lua-runtime-library/modules/config-claiming/config-claiming.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/module/modules/name-series/name-series.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/modules/armed-timer/armed-timer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/modules/thread-pause/thread-pause.module.ts"}

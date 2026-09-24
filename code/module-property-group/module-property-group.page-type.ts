@@ -13,7 +13,7 @@ export const modulePropertyGroup = {
   definition: "a file property group held in a module's code, test and test fixtures",
   parts: [
     "file-property/logs",
-    "module/group-writing",
+    "change-generator/group-writing",
     "number-property/group-max-cpu-seconds",
     "number-property/group-max-memory-mb",
     "number-property/group-max-wall-seconds",

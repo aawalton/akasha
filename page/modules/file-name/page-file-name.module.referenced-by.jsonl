@@ -170,7 +170,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/ios-app/modules/app-building/app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/lua-runtime-library/modules/config-claiming/config-claiming.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/module/modules/name-series/name-series.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"}

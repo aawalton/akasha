@@ -7,7 +7,7 @@ import {
   type Reaching,
   writingIn,
   writtenOver,
-} from "akasha/code/module-property-group/modules/group-writing/group-writing.module.code.ts"
+} from "akasha/code/module-property-group/modules/group-writing/group-writing.change-generator.code.ts"
 import { bodyIn as bodyOf } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"

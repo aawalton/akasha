@@ -197,7 +197,7 @@ function couldWrite(change: Change): boolean {
   return false
 }
 
-export function bodiesFor(change: Change): Written {
+export function generateChange(change: Change): Written {
   try {
     if (!couldWrite(change)) return NOTHING_WRITTEN
     const cast = shadowFor(change)

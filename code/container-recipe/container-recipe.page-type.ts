@@ -16,7 +16,7 @@ export const containerRecipe = {
     { pageProperty: "module-property-group/composing", required: false, many: false },
     { pageProperty: "text-property/recipe-repository", required: false, many: false },
   ],
-  loadedBy: "module/group-writing",
+  loadedBy: "change-generator/group-writing",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
