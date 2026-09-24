@@ -98,8 +98,8 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "Alan Walton — unified workspace" },
 ]
 
-export async function loader({ request, context }: Route.LoaderArgs) {
-  return guardedRoot(request, AUTH_CONFIG, context.nonce)
+export function loader({ request }: Route.LoaderArgs) {
+  return guardedRoot(request, AUTH_CONFIG)
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
