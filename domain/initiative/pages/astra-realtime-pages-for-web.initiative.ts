@@ -11,6 +11,11 @@ export const astraRealtimePagesForWeb = {
       statement:
         "Every piece of data a web app shows is updated as soon as it changes, with no refresh.",
     },
+    { statement: "Every piece of data a web app shows is a page or a page's property." },
+    {
+      statement:
+        "A change to a page's file property or computed property is pushed as a change to that page.",
+    },
     { statement: "A browser is pushed each change to a page or list it shows, and to no other." },
     {
       statement:
