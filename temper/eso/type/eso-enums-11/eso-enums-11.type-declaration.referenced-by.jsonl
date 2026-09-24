@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-daily-writs-detection/characters-daily-writs-detection.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-daily-writs/characters-daily-writs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-events-world/characters-events-world.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-codec/companions-codec.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-display-names/companions-display-names.module.code.ts","typed":false,"deferred":false}

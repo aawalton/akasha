@@ -14,6 +14,7 @@ import {
 import type { SavedCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
@@ -34,7 +35,8 @@ export function scanDailyWritJournal(): DailyWritJournalScan {
   const present: number[] = []
   const crafted: number[] = []
 
-  for (let i = 1; i <= GetNumJournalQuests(); i++) {
+  for (let i = 1; i <= MAX_JOURNAL_QUESTS; i++) {
+    if (!IsValidQuestIndex(i)) continue
     if (!isDailyCraftingWritQuest(i)) continue
 
     let craftType = 0
@@ -60,9 +62,9 @@ export function scanDailyWritJournal(): DailyWritJournalScan {
 
 export function probeDailyWrits(this: void): undefined {
   d(`[${ADDON_NAME}] === daily-writ journal probe ===`)
-  const numQuests = GetNumJournalQuests()
   let matched = 0
-  for (let i = 1; i <= numQuests; i++) {
+  for (let i = 1; i <= MAX_JOURNAL_QUESTS; i++) {
+    if (!IsValidQuestIndex(i)) continue
     if (!isDailyCraftingQuest(i)) continue
     matched += 1
 
