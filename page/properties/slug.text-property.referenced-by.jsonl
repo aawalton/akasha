@@ -277,6 +277,8 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/thing/properties/skill-line.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/thing/properties/skill-type.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/world/temper-dungeon/properties/quest-giver.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-armor/bulk-update-armor.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-functions/bulk-update-functions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-jewelry/bulk-update-jewelry.module.code.ts","typed":true,"deferred":false}

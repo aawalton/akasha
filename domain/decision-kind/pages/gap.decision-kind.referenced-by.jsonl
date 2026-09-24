@@ -290,7 +290,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/lorebook/temper-lorebook.domain.ts","id":"01a06176-9c44-7c00-8a3b-7cf902e62430"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.ts","id":"01a068e2-226d-7781-8c70-c328fa164cff"}
-{"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.ts","id":"01a060bf-747d-7dee-bf58-1559bc114b90"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-methods/ui-control-methods.lua-module.ts","id":"01a0d40c-1f7a-7728-a4c9-f977dcaff8a8"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.ts","id":"01a060d9-498b-744f-8dc9-b2222b4f4b29"}

@@ -5079,7 +5079,6 @@
 {"propertySlug":"decision-kind","path":"temper/economy/trading/listing/modules/listing-types/listing-types.module.ts","id":"01a060a7-02f2-7740-a4a8-e0a86342e424"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/listing/modules/sell-pricing/sell-pricing.module.ts","id":"01a060c0-0b9f-7135-8c4b-e497247c8a35"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/listing/temper-trading-listing.domain.ts","id":"01a060a7-02f1-7930-8d6d-b218c9feb9ff"}
-{"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.ts","id":"01a060bf-747d-7dee-bf58-1559bc114b90"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.ts","id":"01a060bf-747d-70fa-9173-c60bb80e0400"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/currency-price-lookup/currency-price-lookup.module.ts","id":"01a0609b-e59f-7b46-be31-61f15235677d"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/is-price-entry/is-price-entry.module.ts","id":"01a0609b-e59d-7da9-bc7e-7689f71e4f0f"}

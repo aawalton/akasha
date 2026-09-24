@@ -1,8 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
-import type {
-  CompanionEquipmentQualityId,
-  CompanionTraitId,
-} from "akasha/temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.code.ts"
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import { isPriceEntry } from "akasha/temper/economy/trading/pricing/modules/is-price-entry/is-price-entry.module.code.ts"
 import type {
   PricingData,
@@ -61,7 +58,7 @@ export const WEIGHT_TO_CATEGORY2: Record<string, string> = {
   heavy: "4",
 }
 
-export const COMPANION_TRAIT_TO_TTC_TRAIT: Partial<Record<CompanionTraitId, string>> = {
+export const COMPANION_TRAIT_TO_TTC_TRAIT: Partial<Record<Slug, string>> = {
   aggressive: "26",
   augmented: "27",
   bolstered: "28",
@@ -73,7 +70,7 @@ export const COMPANION_TRAIT_TO_TTC_TRAIT: Partial<Record<CompanionTraitId, stri
   vigorous: "34",
 }
 
-const QUALITY_TO_TTC_QUALITY: Partial<Record<CompanionEquipmentQualityId, string>> = {
+const QUALITY_TO_TTC_QUALITY: Partial<Record<Slug, string>> = {
   normal: "0",
   fine: "1",
   superior: "2",
@@ -141,8 +138,8 @@ export function resolveTtcItemId(slot: CompanionGearSlotDescriptor): string | nu
 export function lookupCompanionGearPriceForSlot(
   pricing: PricingData,
   slot: CompanionGearSlotDescriptor,
-  trait: CompanionTraitId,
-  quality: CompanionEquipmentQualityId
+  trait: Slug,
+  quality: Slug
 ): CompanionGearPriceResult | null {
   const ttcTraitId = COMPANION_TRAIT_TO_TTC_TRAIT[trait]
   const ttcQualityId = QUALITY_TO_TTC_QUALITY[quality]
@@ -188,8 +185,8 @@ export function lookupCompanionGearPriceForSlot(
 
 export function lookupCompanionGearPrice(
   pricing: PricingData,
-  trait: CompanionTraitId,
-  quality: CompanionEquipmentQualityId
+  trait: Slug,
+  quality: Slug
 ): CompanionGearPriceResult | null {
   const ttcTraitId = COMPANION_TRAIT_TO_TTC_TRAIT[trait]
   const ttcQualityId = QUALITY_TO_TTC_QUALITY[quality]

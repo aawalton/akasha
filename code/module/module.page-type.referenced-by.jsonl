@@ -5170,7 +5170,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/listing/modules/browse-state/browse-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/listing/modules/listing-types/listing-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/listing/modules/sell-pricing/sell-pricing.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/currency-price-lookup/currency-price-lookup.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/is-price-entry/is-price-entry.module.ts","typed":true,"deferred":false}

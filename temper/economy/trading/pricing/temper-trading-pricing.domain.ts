@@ -6,7 +6,6 @@ export const temperTradingPricing = {
   slug: "temper-trading-pricing",
   definition: "the price Tamriel Trade Centre last saw for an item",
   parts: [
-    "module/companion-gear-ids",
     "module/companion-gear-price-lookup",
     "module/currency-price-lookup",
     "module/is-price-entry",

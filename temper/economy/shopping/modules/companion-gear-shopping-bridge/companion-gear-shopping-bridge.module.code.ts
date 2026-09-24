@@ -1,8 +1,5 @@
+import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { ShoppingItem } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
-import type {
-  CompanionEquipmentQualityId,
-  CompanionTraitId,
-} from "akasha/temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.code.ts"
 import {
   COMPANION_TRAIT_TO_TTC_TRAIT,
   type CompanionGearSlotDescriptor,
@@ -16,13 +13,13 @@ export interface CompanionGearNeed {
   companionId: string
   category: "armor" | "jewelry" | "weapon"
   slotId: string
-  trait: CompanionTraitId
-  quality: CompanionEquipmentQualityId
+  trait: Slug
+  quality: Slug
   weight?: string
   weaponTypeId?: string
 }
 
-const QUALITY_TO_LIVE_API: Partial<Record<CompanionEquipmentQualityId, number>> = {
+const QUALITY_TO_LIVE_API: Partial<Record<Slug, number>> = {
   normal: 0,
   fine: 1,
   superior: 2,
