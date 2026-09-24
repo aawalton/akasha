@@ -9,7 +9,10 @@ import { companions } from "akasha/temper/catalog/companion/companions-core/modu
 
 const companionIds = companions.ids
 
-const companionTraitIds = companionTraits.ids
+function companionTraitIds(): readonly string[] {
+  return companionTraits().ids
+}
+
 const companionQualityIds = companionEquipmentQualities.ids
 const companionWeaponTypeIds = companionWeaponTypes.ids
 
@@ -27,9 +30,12 @@ const COMPANION_ARMOR_WEIGHT_IDS = [
 export const COMPANION_BITS = bitsNeeded(companionIds.length)
 
 export const COMPANION_ARMOR_WEIGHT_BITS = bitsNeeded(COMPANION_ARMOR_WEIGHT_IDS.length)
-export const COMPANION_TRAIT_BITS = bitsNeeded(companionTraitIds.length)
 export const COMPANION_QUALITY_BITS = bitsNeeded(companionQualityIds.length)
 export const COMPANION_WEAPON_TYPE_BITS = bitsNeeded(companionWeaponTypeIds.length)
+
+export function companionTraitBits(): number {
+  return bitsNeeded(companionTraitIds().length)
+}
 
 export function companionSkillBits(): number {
   return bitsNeeded(companionSkillIds().length)
@@ -46,7 +52,7 @@ function createIndexMap(ids: readonly string[]): Map<string, number> {
 const companionIndexMap = createIndexMap(companionIds)
 
 const companionArmorWeightIndexMap = createIndexMap(COMPANION_ARMOR_WEIGHT_IDS)
-const companionTraitIndexMap = createIndexMap(companionTraitIds)
+
 const companionQualityIndexMap = createIndexMap(companionQualityIds)
 const companionWeaponTypeIndexMap = createIndexMap(companionWeaponTypeIds)
 
@@ -60,7 +66,7 @@ export function getCompanionArmorWeightIndex(id: string): number {
 }
 
 export function getCompanionTraitIndex(id: string): number {
-  return companionTraitIndexMap.get(id) ?? 0
+  return createIndexMap(companionTraitIds()).get(id) ?? 0
 }
 
 export function getCompanionQualityIndex(id: string): number {
@@ -85,8 +91,9 @@ export function getCompanionArmorWeightId(
   return COMPANION_ARMOR_WEIGHT_IDS[index] ?? requireFirst(COMPANION_ARMOR_WEIGHT_IDS)
 }
 
-export function getCompanionTraitId(index: number): (typeof companionTraitIds)[number] {
-  return companionTraitIds[index] ?? requireFirst(companionTraitIds)
+export function getCompanionTraitId(index: number): string {
+  const ids = companionTraitIds()
+  return ids[index] ?? requireFirst(ids)
 }
 
 export function getCompanionQualityId(index: number): (typeof companionQualityIds)[number] {

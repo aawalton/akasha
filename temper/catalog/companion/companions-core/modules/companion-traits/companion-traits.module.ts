@@ -9,17 +9,9 @@ export const companionTraits = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "This table is written out from the companion pages rather than by hand.",
-    },
-
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A trait's place in this table is the index a build hash has.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A trait moved to another place breaks every build hash saved.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A trait is answered from the held companion catalogue rather than from a table in code.",
     },
   ],
 } as const satisfies Module

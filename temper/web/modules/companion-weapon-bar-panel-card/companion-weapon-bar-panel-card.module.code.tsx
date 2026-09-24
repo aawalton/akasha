@@ -63,7 +63,7 @@ export function CompanionWeaponBarPanelCard({
         slot: slotId,
         type: newType,
         trait:
-          field === "trait" && companionTraits.has(value)
+          field === "trait" && companionTraits().has(value)
             ? value
             : (currentData?.trait ?? "no-trait"),
         quality:
@@ -243,7 +243,7 @@ export function CompanionWeaponBarPanelCard({
             <BulkEditTag
               key={`trait-${trait}`}
               currentValue={trait}
-              options={companionTraits.list}
+              options={companionTraits().list}
               onSelect={handleBulkWeaponTraitUpdate}
               count={count}
               disabled={readOnly}
@@ -347,8 +347,8 @@ export function CompanionWeaponBarPanelCard({
                           nullSentinel={{ value: "no-trait", label: "No Trait" }}
                           sorted
                         >
-                          {companionTraits.list
-                            .filter((trait) => trait.id !== "no-trait")
+                          {companionTraits()
+                            .list.filter((trait) => trait.id !== "no-trait")
                             .map((trait) => (
                               <SelectItem key={trait.id} value={trait.id}>
                                 {trait.name}

@@ -35,7 +35,7 @@ type SlotPriceMap = Parameters<typeof resolveNeedPrice>[2]
 type BlendedPriceMap = Parameters<typeof resolveNeedPrice>[3]
 
 const traitName = (need: CompanionGearNeed): string =>
-  companionTraits.has(need.trait) ? companionTraits.data[need.trait].name : need.trait
+  companionTraits().data[need.trait]?.name ?? need.trait
 
 export function buildCategoryGroups(
   listedNeeds: readonly IndexedNeed[],

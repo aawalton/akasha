@@ -78,14 +78,18 @@ export async function loader({ request }: LoaderFunctionArgs<AppLoadContext>) {
   const bounce = await handoverGuard(TEMPER_SITE, request, GUARD)
   if (bounce !== null) return bounce
   const catalog = await loadCompanionCatalog()
-  return data({ skills: catalog.skills, skillLines: catalog.skillLines })
+  return data({ skills: catalog.skills, skillLines: catalog.skillLines, traits: catalog.traits })
 }
 
 export function Layout({ children }: { children: ReactNode }) {
   const rooted = useRouteLoaderData<typeof loader>("root")
   const nonce = useDocumentNonce()
-  if (rooted?.skills !== undefined && rooted.skillLines !== undefined) {
-    holdCompanionCatalog(catalogOf(rooted.skills, rooted.skillLines))
+  if (
+    rooted?.skills !== undefined &&
+    rooted.skillLines !== undefined &&
+    rooted.traits !== undefined
+  ) {
+    holdCompanionCatalog(catalogOf(rooted.skills, rooted.skillLines, rooted.traits))
   }
   useEffect(() => {
     setStoreDiagnosticsSink((d) =>

@@ -68,7 +68,7 @@ export function CompanionArmorPanelCard({
             ? value
             : (currentData?.weight ?? "no-weight"),
         trait:
-          field === "trait" && companionTraits.has(value)
+          field === "trait" && companionTraits().has(value)
             ? value
             : (currentData?.trait ?? "no-trait"),
         quality:
@@ -215,7 +215,7 @@ export function CompanionArmorPanelCard({
             <BulkEditTag
               key={`trait-${trait}`}
               currentValue={trait}
-              options={companionTraits.list}
+              options={companionTraits().list}
               onSelect={handleBulkArmorTraitUpdate}
               count={count}
               disabled={readOnly}
@@ -302,8 +302,8 @@ export function CompanionArmorPanelCard({
                           nullSentinel={{ value: "no-trait", label: "No Trait" }}
                           sorted
                         >
-                          {companionTraits.list
-                            .filter((trait) => trait.id !== "no-trait")
+                          {companionTraits()
+                            .list.filter((trait) => trait.id !== "no-trait")
                             .map((trait) => (
                               <SelectItem key={trait.id} value={trait.id}>
                                 {trait.name}

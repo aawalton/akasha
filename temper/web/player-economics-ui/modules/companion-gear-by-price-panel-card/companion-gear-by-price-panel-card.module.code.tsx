@@ -204,9 +204,7 @@ function PriceBucketRow({
             .map(({ need, index, price, key }) => {
               const qualityClass = getQualityClassName(need.quality)
               const itemName = getCompanionGearItemName(need)
-              const traitName = companionTraits.has(need.trait)
-                ? companionTraits.data[need.trait].name
-                : need.trait
+              const traitName = companionTraits().data[need.trait]?.name ?? need.trait
               const inList = shoppingList?.has(key) ?? false
 
               return (

@@ -103,7 +103,7 @@ export function GlobalCompanionBulkEditTags({
         <BulkEditTag
           key={`trait-${trait}`}
           currentValue={trait}
-          options={companionTraits.list}
+          options={companionTraits().list}
           onSelect={handleBulkTraitUpdate}
           count={count}
         />

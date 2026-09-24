@@ -14,7 +14,7 @@ import {
   type CompanionSkillSlotId,
   companionSkillSlots,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
-import { companionTraits } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
+import { companionTraitAt } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { getValidSkillIds } from "akasha/temper/catalog/companion/companions-core/modules/companion-valid-skills/companion-valid-skills.module.code.ts"
 import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
@@ -77,7 +77,7 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "trait",
-          label: `${slotName}: ${companionTraits.data[currentTrait].name} \u2192 ${companionTraits.data[traitId].name}`,
+          label: `${slotName}: ${companionTraitAt(currentTrait).name} \u2192 ${companionTraitAt(traitId).name}`,
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { armor: newArmor } },
         })
@@ -102,7 +102,7 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "trait",
-          label: `${slotName}: ${companionTraits.data[currentTrait].name} \u2192 ${companionTraits.data[traitId].name}`,
+          label: `${slotName}: ${companionTraitAt(currentTrait).name} \u2192 ${companionTraitAt(traitId).name}`,
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { jewelry: newJewelry } },
         })
@@ -127,7 +127,7 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "trait",
-          label: `${slotName}: ${companionTraits.data[currentTrait].name} \u2192 ${companionTraits.data[traitId].name}`,
+          label: `${slotName}: ${companionTraitAt(currentTrait).name} \u2192 ${companionTraitAt(traitId).name}`,
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { weapons: newWeapons } },
         })

@@ -1,14 +1,4 @@
-export type CompanionTraitId =
-  | "no-trait"
-  | "aggressive"
-  | "augmented"
-  | "bolstered"
-  | "focused"
-  | "prolific"
-  | "quickened"
-  | "shattering"
-  | "soothing"
-  | "vigorous"
+export type CompanionTraitId = string
 
 export type CompanionEquipmentQualityId =
   | "no-quality"

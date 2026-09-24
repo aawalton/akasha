@@ -21,7 +21,7 @@ import type { FilterId } from "akasha/temper/items/rules/core/modules/rule-filte
 import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"
 import {
   getTraitFamily,
-  TRAIT_OPTIONS_BY_FAMILY,
+  traitOptionsByFamily,
 } from "akasha/temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts"
 import {
   ACTION_OPTIONS,
@@ -84,7 +84,7 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
   )
 
   const traitOptions = useMemo(
-    () => (traitFamily != null ? (TRAIT_OPTIONS_BY_FAMILY[traitFamily] ?? []) : []),
+    () => (traitFamily != null ? (traitOptionsByFamily()[traitFamily] ?? []) : []),
     [traitFamily]
   )
 

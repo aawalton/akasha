@@ -11,7 +11,7 @@ import { SearchButton } from "akasha/design/interface/pattern/modules/search-but
 import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/interface/pattern/modules/sort-button/sort-button.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
-import { TRAIT_OPTIONS_BY_FAMILY } from "akasha/temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts"
+import { traitOptionsByFamily } from "akasha/temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts"
 import {
   type InventoryViewFilterDef,
   QUALITY_FILTER_ITEMS,
@@ -63,13 +63,13 @@ const TRAIT_FAMILY_CONFIG: {
 
 function traitFamilyFilter(config: (typeof TRAIT_FAMILY_CONFIG)[number]): InventoryViewFilterDef {
   const { id, label, familyKey, getProp, getOnChange } = config
-  const familyOptions = TRAIT_OPTIONS_BY_FAMILY[familyKey] ?? []
 
   return {
     id,
     label,
     hasValue: (props) => getProp(props).length > 0,
     renderGroup: (props: ViewFilterPopoverProps) => {
+      const familyOptions = traitOptionsByFamily()[familyKey] ?? []
       const traits = getProp(props)
       const onTraitsChange = getOnChange(props)
       const selectedItems = familyOptions.filter((opt) => traits.includes(opt.value))

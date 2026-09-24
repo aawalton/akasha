@@ -22,9 +22,9 @@ import {
   COMPANION_ARMOR_WEIGHT_BITS,
   COMPANION_BITS,
   COMPANION_QUALITY_BITS,
-  COMPANION_TRAIT_BITS,
   COMPANION_WEAPON_TYPE_BITS,
   companionSkillBits,
+  companionTraitBits,
   getCompanionArmorWeightId,
   getCompanionArmorWeightIndex,
   getCompanionId,
@@ -116,7 +116,7 @@ function encodeArmorSlot(writer: BitWriterState, slot: CompanionArmorSlotItem): 
   writeBits(writer, 0, 1)
   const armor = slot.data
   writeBits(writer, getCompanionArmorWeightIndex(armor.weight), COMPANION_ARMOR_WEIGHT_BITS)
-  writeBits(writer, getCompanionTraitIndex(armor.trait), COMPANION_TRAIT_BITS)
+  writeBits(writer, getCompanionTraitIndex(armor.trait), companionTraitBits())
   writeBits(writer, getCompanionQualityIndex(armor.quality), COMPANION_QUALITY_BITS)
 }
 
@@ -128,7 +128,7 @@ function encodeJewelrySlot(writer: BitWriterState, slot: CompanionJewelrySlotIte
 
   writeBits(writer, 0, 1)
   const jewelry = slot.data
-  writeBits(writer, getCompanionTraitIndex(jewelry.trait), COMPANION_TRAIT_BITS)
+  writeBits(writer, getCompanionTraitIndex(jewelry.trait), companionTraitBits())
   writeBits(writer, getCompanionQualityIndex(jewelry.quality), COMPANION_QUALITY_BITS)
 }
 
@@ -141,7 +141,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: CompanionWeaponSlotItem)
   writeBits(writer, 0, 1)
   const weapon = slot.data
   writeBits(writer, getCompanionWeaponTypeIndex(weapon.type), COMPANION_WEAPON_TYPE_BITS)
-  writeBits(writer, getCompanionTraitIndex(weapon.trait), COMPANION_TRAIT_BITS)
+  writeBits(writer, getCompanionTraitIndex(weapon.trait), companionTraitBits())
   writeBits(writer, getCompanionQualityIndex(weapon.quality), COMPANION_QUALITY_BITS)
 }
 
@@ -244,7 +244,7 @@ function decodeArmorSlot(
   }
 
   const weight = getCompanionArmorWeightId(readBits(reader, COMPANION_ARMOR_WEIGHT_BITS))
-  const trait = getCompanionTraitId(readBits(reader, COMPANION_TRAIT_BITS))
+  const trait = getCompanionTraitId(readBits(reader, companionTraitBits()))
   const quality = getCompanionQualityId(readBits(reader, COMPANION_QUALITY_BITS))
 
   return {
@@ -267,7 +267,7 @@ function decodeJewelrySlot(
     return { itemType: "empty", data: null }
   }
 
-  const trait = getCompanionTraitId(readBits(reader, COMPANION_TRAIT_BITS))
+  const trait = getCompanionTraitId(readBits(reader, companionTraitBits()))
   const quality = getCompanionQualityId(readBits(reader, COMPANION_QUALITY_BITS))
 
   return {
@@ -290,7 +290,7 @@ function decodeWeaponSlot(
   }
 
   const type = getCompanionWeaponTypeId(readBits(reader, COMPANION_WEAPON_TYPE_BITS))
-  const trait = getCompanionTraitId(readBits(reader, COMPANION_TRAIT_BITS))
+  const trait = getCompanionTraitId(readBits(reader, companionTraitBits()))
   const quality = getCompanionQualityId(readBits(reader, COMPANION_QUALITY_BITS))
 
   return {

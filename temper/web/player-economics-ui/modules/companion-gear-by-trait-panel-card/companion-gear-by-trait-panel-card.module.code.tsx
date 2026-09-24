@@ -148,9 +148,7 @@ function TraitGroupRow({
 }) {
   const [expanded, setExpanded] = useState(false)
 
-  const traitName = companionTraits.has(group.trait)
-    ? companionTraits.data[group.trait].name
-    : group.trait
+  const traitName = companionTraits().data[group.trait]?.name ?? group.trait
   const qualityName = companionEquipmentQualities.has(group.quality)
     ? companionEquipmentQualities.data[group.quality].name
     : group.quality

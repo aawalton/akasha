@@ -57,7 +57,7 @@ export function CompanionJewelryPanelCard({
       data: {
         type: slotId,
         trait:
-          field === "trait" && companionTraits.has(value)
+          field === "trait" && companionTraits().has(value)
             ? value
             : (currentData?.trait ?? "no-trait"),
         quality:
@@ -162,7 +162,7 @@ export function CompanionJewelryPanelCard({
             <BulkEditTag
               key={`trait-${trait}`}
               currentValue={trait}
-              options={companionTraits.list}
+              options={companionTraits().list}
               onSelect={handleBulkJewelryTraitUpdate}
               count={count}
               disabled={readOnly}
@@ -234,8 +234,8 @@ export function CompanionJewelryPanelCard({
                           nullSentinel={{ value: "no-trait", label: "No Trait" }}
                           sorted
                         >
-                          {companionTraits.list
-                            .filter((trait) => trait.id !== "no-trait")
+                          {companionTraits()
+                            .list.filter((trait) => trait.id !== "no-trait")
                             .map((trait) => (
                               <SelectItem key={trait.id} value={trait.id}>
                                 {trait.name}

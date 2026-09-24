@@ -15,8 +15,15 @@ import {
   textIn,
   textsIn,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts"
+import {
+  companionTraitsFrom,
+  GRADE_KEYS,
+  TRAIT_KEYS,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
+import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
+import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
 
@@ -76,7 +83,12 @@ function companionCatalogFromCheckout(): CompanionCatalog {
       }) as CompanionSkillLineTemplate
   )
 
-  return catalogOf(skills, skillLines)
+  const traits = companionTraitsFrom(
+    rowsOf(temperCompanionTrait.slug, TRAIT_KEYS),
+    rowsOf(temperCompanionTraitGrade.slug, GRADE_KEYS)
+  )
+
+  return catalogOf(skills, skillLines, traits)
 }
 
 export function holdCompanionCatalogFromCheckout(): CompanionCatalog {

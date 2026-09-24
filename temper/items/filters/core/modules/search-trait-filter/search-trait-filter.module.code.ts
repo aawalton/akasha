@@ -23,12 +23,10 @@ function buildTraitOptions(): readonly FilterEditorOption[] {
     ...weaponTraits.list,
     ...armorTraits.list,
     ...jewelryTraits.list,
-    ...companionTraits.list,
+    ...companionTraits().list,
   ].map((trait) => ({ value: trait.id, label: trait.name }))
   return all.filter((opt, i, arr) => arr.findIndex((other) => other.value === opt.value) === i)
 }
-
-const TRAIT_OPTIONS = buildTraitOptions()
 
 function buildTraitIdToEsoNumbers(): ReadonlyMap<string, readonly number[]> {
   const acc = new Map<string, number[]>()
@@ -76,7 +74,12 @@ export const TRAIT_FILTER = defineFilter<readonly string[]>({
   id: "trait",
   label: "Trait",
   group: "trait",
-  editor: { kind: "multiselect", options: TRAIT_OPTIONS },
+  editor: {
+    kind: "multiselect",
+    get options() {
+      return buildTraitOptions()
+    },
+  },
   matches(facts, selected) {
     if (selected.length === 0) return true
     return runChecker(checkClassification, facts, { traits: [...selected] })

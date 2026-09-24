@@ -59,17 +59,20 @@ function sentinelFirstSort(a: FilterOption, b: FilterOption): number {
   return a.label.localeCompare(b.label)
 }
 
-export const TRAIT_OPTIONS_BY_FAMILY: Record<string, FilterOption[]> = {
-  all: [...weaponTraits.list, ...armorTraits.list, ...jewelryTraits.list, ...companionTraits.list]
-    .map((t) => ({ value: t.id, label: t.name }))
-    .filter((t, i, arr) => arr.findIndex((a) => a.value === t.value) === i)
-    .sort(sentinelFirstSort),
-  weapon: weaponTraits.list.map((t) => ({ value: t.id, label: t.name })).sort(sentinelFirstSort),
-  armor: armorTraits.list.map((t) => ({ value: t.id, label: t.name })).sort(sentinelFirstSort),
-  jewelry: jewelryTraits.list.map((t) => ({ value: t.id, label: t.name })).sort(sentinelFirstSort),
-  companion: companionTraits.list
-    .map((t) => ({ value: t.id, label: t.name }))
-    .sort(sentinelFirstSort),
+export function traitOptionsByFamily(): Record<string, FilterOption[]> {
+  const companion = companionTraits().list
+  return {
+    all: [...weaponTraits.list, ...armorTraits.list, ...jewelryTraits.list, ...companion]
+      .map((t) => ({ value: t.id, label: t.name }))
+      .filter((t, i, arr) => arr.findIndex((a) => a.value === t.value) === i)
+      .sort(sentinelFirstSort),
+    weapon: weaponTraits.list.map((t) => ({ value: t.id, label: t.name })).sort(sentinelFirstSort),
+    armor: armorTraits.list.map((t) => ({ value: t.id, label: t.name })).sort(sentinelFirstSort),
+    jewelry: jewelryTraits.list
+      .map((t) => ({ value: t.id, label: t.name }))
+      .sort(sentinelFirstSort),
+    companion: companion.map((t) => ({ value: t.id, label: t.name })).sort(sentinelFirstSort),
+  }
 }
 
 const read = (c: CategoryRule["conditions"]) =>

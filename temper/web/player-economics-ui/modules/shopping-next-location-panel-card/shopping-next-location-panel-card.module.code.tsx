@@ -133,9 +133,7 @@ export function ShoppingNextLocationPanelCard({
                     const itemName = purchase.listing.TradeAsset.Item.Name
                     const trait = purchase.key.split(":")[2]
                     const traitName =
-                      trait != null && companionTraits.has(trait)
-                        ? companionTraits.data[trait].name
-                        : trait
+                      trait != null ? (companionTraits().data[trait]?.name ?? trait) : trait
 
                     return (
                       <ItemRow

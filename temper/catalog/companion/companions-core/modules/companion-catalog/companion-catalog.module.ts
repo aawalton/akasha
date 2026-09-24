@@ -5,7 +5,7 @@ export const companionCatalog = {
   type: "page-type/module",
   slug: "companion-catalog",
   definition:
-    "the companion skills and skill lines the pages hold, kept for a reader that cannot wait",
+    "the companion skills, skill lines and traits the pages hold, kept for a reader that cannot wait",
   code: "ts",
   testFixtures: "ts",
   decisions: [

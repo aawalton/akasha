@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-baseline/companion-support-baseline.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx","typed":true,"deferred":false}

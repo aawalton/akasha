@@ -82,6 +82,7 @@ export const temperCompanionsCore = {
     "module/rotation-types",
     "module/companion-skill-line-reading",
     "module/companion-skill-reading",
+    "module/companion-trait-reading",
     "module/companion-catalog",
     "module/companion-skill-queries",
     "module/companion-catalog-loading",
@@ -89,7 +90,8 @@ export const temperCompanionsCore = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A companion skill and the line it belongs to are read from their own pages.",
+      statement:
+        "A companion skill, the line it belongs to and a companion trait are read from their own pages.",
     },
     {
       decisionKind: "decision-kind/stopgap",

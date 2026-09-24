@@ -398,11 +398,12 @@ export function aggregateUnfulfilledByTraitQuality(
     })
   }
 
+  const traits = companionTraits().data
   groups.sort((a, b) => {
     const qualDiff = qualityRank(b.quality) - qualityRank(a.quality)
     if (qualDiff !== 0) return qualDiff
-    const traitNameA = companionTraits.has(a.trait) ? companionTraits.data[a.trait].name : a.trait
-    const traitNameB = companionTraits.has(b.trait) ? companionTraits.data[b.trait].name : b.trait
+    const traitNameA = traits[a.trait]?.name ?? a.trait
+    const traitNameB = traits[b.trait]?.name ?? b.trait
     return traitNameA.localeCompare(traitNameB)
   })
 

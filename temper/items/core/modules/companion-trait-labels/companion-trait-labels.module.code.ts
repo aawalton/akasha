@@ -10,5 +10,5 @@ export function getCompanionTraitName(traitType: number): string | undefined {
     ESO_WEAPON_TRAIT_TO_COMPANION_TRAIT[traitType] ??
     ESO_ARMOR_TRAIT_TO_COMPANION_TRAIT[traitType] ??
     ESO_JEWELRY_TRAIT_TO_COMPANION_TRAIT[traitType]
-  return traitId != null ? companionTraits.data[traitId].name : undefined
+  return traitId != null ? companionTraits().data[traitId]?.name : undefined
 }

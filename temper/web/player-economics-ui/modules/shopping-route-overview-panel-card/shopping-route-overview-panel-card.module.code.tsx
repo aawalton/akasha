@@ -204,9 +204,7 @@ export function ShoppingRouteOverviewPanelCard({
                               TTC_QUALITY_TEXT_CLASSES[purchase.listing.TradeAsset.Item.QualityID]
                             const trait = purchase.key.split(":")[2]
                             const traitName =
-                              trait != null && companionTraits.has(trait)
-                                ? companionTraits.data[trait].name
-                                : trait
+                              trait != null ? (companionTraits().data[trait]?.name ?? trait) : trait
                             return (
                               <ItemRow
                                 key={purchase.key}

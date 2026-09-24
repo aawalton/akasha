@@ -20,6 +20,16 @@ export const temperCompanionTrait = {
     { pageProperty: "boolean-property/is-reduction", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A trait's build-hash place is the index a build hash has.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A trait moved to another place breaks every build hash saved.",
+    },
+  ],
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],

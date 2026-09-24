@@ -1,4 +1,5 @@
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
+import type { CompanionTraitTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 
 export type CompanionSkillId = string
 
@@ -19,6 +20,9 @@ export interface CompanionCatalog {
   readonly skillsById: Readonly<Record<string, CompanionSkillTemplate>>
   readonly skillLines: readonly CompanionSkillLineTemplate[]
   readonly skillLinesById: Readonly<Record<string, CompanionSkillLineTemplate>>
+  readonly traits: readonly CompanionTraitTemplate[]
+  readonly traitIds: readonly string[]
+  readonly traitsById: Readonly<Record<string, CompanionTraitTemplate>>
 }
 
 const UNREAD =
@@ -35,18 +39,24 @@ let held: CompanionCatalog | null = null
 
 export function catalogOf(
   skills: readonly CompanionSkillTemplate[],
-  skillLines: readonly CompanionSkillLineTemplate[]
+  skillLines: readonly CompanionSkillLineTemplate[],
+  traits: readonly CompanionTraitTemplate[]
 ): CompanionCatalog {
   const skillsById: Record<string, CompanionSkillTemplate> = {}
   for (const skill of skills) skillsById[skill.id] = skill
   const skillLinesById: Record<string, CompanionSkillLineTemplate> = {}
   for (const line of skillLines) skillLinesById[line.id] = line
+  const traitsById: Record<string, CompanionTraitTemplate> = {}
+  for (const trait of traits) traitsById[trait.id] = trait
   return {
     skills,
     skillIds: skills.map((skill) => skill.id),
     skillsById,
     skillLines,
     skillLinesById,
+    traits,
+    traitIds: traits.map((trait) => trait.id),
+    traitsById,
   }
 }
 

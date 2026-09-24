@@ -173,9 +173,7 @@ function CompanionGroupRow({
             .map(({ need, index, key }) => {
               const qualityClass = getQualityClassName(need.quality)
               const itemName = getCompanionGearItemName(need)
-              const traitName = companionTraits.has(need.trait)
-                ? companionTraits.data[need.trait].name
-                : need.trait
+              const traitName = companionTraits().data[need.trait]?.name ?? need.trait
               const price =
                 !need.owned && slotPriceMap && blendedPriceMap
                   ? resolveNeedPrice(need, index, slotPriceMap, blendedPriceMap)
