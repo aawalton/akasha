@@ -85,7 +85,7 @@ export const gameMaster = {
     {
       directiveKind: "directive-kind/rule",
       name: "Channel Separation",
-      act: "Render the mechanical change in a system beat and the lived moment in a narrative beat.",
+      act: "Render the mechanical change in a system window and the lived moment in a narrative beat.",
       warrant:
         "Each side does badly what the other does well: prose blurs a number, a readout kills a moment.",
       aids: [
