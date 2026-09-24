@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-lint-rule-for-code-judges-a-page-that-is-only-data.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-malformed-read-and-a-refused-one-are-told-apart-only-by-their-words.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-manifest-that-only-lost-a-field-was-applied-by-no-deploy.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-markdown-pages-id-is-derived-and-a-typescript-pages-id-is-minted.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-module-that-is-only-a-compile-time-assertion-reads-as-dead.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-move-respells-a-past-tense-path-in-a-findings-evidence.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-query-holds-the-loop-while-it-reads.finding.ts"}
