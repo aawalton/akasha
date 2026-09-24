@@ -221,6 +221,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/require-import-extension/require-import-extension.check-code.ts","id":"01a04bcb-c714-7fdf-aa64-e2ff68d4f69b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.ts","id":"01a0d460-0e6c-7895-abaa-f432fc55957f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/shell-clean/shell-clean.check-code.ts","id":"01a05991-d997-76f5-a619-6ddb7444c34f"}
+{"propertySlug":"decision-kind","path":"check/code/pages/swift-parses/swift-parses.check-code.ts","id":"01a0d58c-dd89-71ff-aa5d-ad876fa7323c"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/tests-pass.check-code.ts","id":"01a04eb6-9214-7000-be71-821a1a582fbe"}
 {"propertySlug":"decision-kind","path":"check/code/pages/typecheck/typecheck.check-code.ts","id":"01a04bcb-dff4-761a-856e-407fb6934b44"}
 {"propertySlug":"decision-kind","path":"check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.ts","id":"01a0c570-c14d-7bbc-9008-feed418845bb"}
@@ -229,6 +230,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/audit-serving/audit-serving.module.ts","id":"01a091e9-689c-7001-a9f4-f25090091be1"}
 {"propertySlug":"decision-kind","path":"check/modules/audit-verdict/audit-verdict.module.ts","id":"01a091e9-689c-7000-a6ba-611889107d33"}
 {"propertySlug":"decision-kind","path":"check/modules/cost/check-cost.module.ts","id":"01a06dc1-5cd3-7e3e-b1c7-133ae3f5ec38"}
+{"propertySlug":"decision-kind","path":"check/modules/tool-faults/tool-faults.module.ts","id":"01a0d58c-dd8a-7565-8c20-4353c938ed7e"}
 {"propertySlug":"decision-kind","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts","id":"01a091e9-689c-7002-afcc-8b73def2b8f9"}
 {"propertySlug":"decision-kind","path":"check/test/test.domain.ts","id":"01a04f3e-eea5-79ee-8d0b-c822c492a981"}
 {"propertySlug":"decision-kind","path":"code/body/modules/body-text/body-text.module.ts","id":"01a04fa7-aae4-77e8-8e0c-b9e61046b33b"}

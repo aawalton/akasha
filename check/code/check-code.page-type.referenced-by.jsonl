@@ -64,6 +64,7 @@
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.ts"}
+{"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/typecheck/typecheck.check-code.ts"}
 {"propertySlug":"import","fileName":"check-code.page-type.types.ts","path":"check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.ts"}

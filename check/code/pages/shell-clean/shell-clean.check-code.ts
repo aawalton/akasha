@@ -48,21 +48,9 @@ export const shellClean = {
     },
 
     {
-      decisionKind: "decision-kind/departure",
-      statement: "Every finding is answered against the file the finding is in.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The findings are answered in the order the findings are in the files.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
       statement:
         "The order the linter printed its findings in follows nothing a reader could name.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A file the change takes away is judged by nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -88,10 +76,7 @@ export const shellClean = {
       decisionKind: "decision-kind/constraint",
       statement: "The mirror is swept whatever the linter said.",
     },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "The mirror's root is taken out of the reason reported.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The linter is on the host rather than among the declared dependencies.",

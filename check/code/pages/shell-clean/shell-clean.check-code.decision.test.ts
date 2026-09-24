@@ -4,7 +4,6 @@ import { dirname, join } from "node:path"
 import type { Found } from "akasha/check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts"
 import {
   besideIn,
-  carriedIn,
   foundIn,
   judgedOf,
   lookedOver,
@@ -24,7 +23,6 @@ import {
 import { bytesOf } from "akasha/check/test/fixture/bodying/bodying.test-fixture.code.ts"
 import {
   change,
-  gone,
   landing,
   proposing,
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
@@ -50,25 +48,6 @@ afterAll(scratch.sweep)
 function marked(path: string, line: number, column: number): Found {
   return { path, line, column, code: 2086, level: "info", said: "Held." }
 }
-
-test("the files judged are the shell scripts the change carries, said in order", () => {
-  const held = landing(AWAY, {
-    [TWO]: bytesOf(CLEAN),
-    [ONE]: bytesOf(CLEAN),
-    "akasha/held.md": bytesOf("held"),
-  })
-  expect(carriedIn(held)).toEqual([ONE, TWO])
-})
-
-test("a shell script the change names twice is judged once", () => {
-  const bodies: Record<string, Uint8Array> = { [ONE]: bytesOf(CLEAN) }
-  const at = (path: string): Uint8Array | null => bodies[path] ?? null
-  expect(carriedIn({ root: AWAY, changed: [ONE, ONE], before: at, after: at })).toEqual([ONE])
-})
-
-test("a file the change takes away is judged by nothing", () => {
-  expect(carriedIn(change(AWAY, [ONE], gone))).toEqual([])
-})
 
 test("a change carrying no shell script is judged by no run", () => {
   const root = rooted()

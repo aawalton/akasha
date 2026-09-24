@@ -83,6 +83,7 @@ export const checkCode = {
     "module-property-group/decision",
     "check-code/view-names-a-declared-key",
     "check-code/definition-is-written-in-the-grammar",
+    "check-code/swift-parses",
   ],
   extends: ["page-type/domain"],
   loadedBy: "module/checking",

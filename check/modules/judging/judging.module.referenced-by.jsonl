@@ -179,6 +179,9 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.audit.code.ts"}
@@ -203,6 +206,7 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.test.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/run-ceiling/run-ceiling.module.code.ts"}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/modules/tool-faults/tool-faults.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts"}

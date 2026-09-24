@@ -134,6 +134,9 @@
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.test.ts"}
+{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.audit.test.ts"}
+{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.audit.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.check.test.ts"}
@@ -146,4 +149,5 @@
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/modules/change-walking/change-walking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/modules/change-walking/change-walking.module.test.ts"}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/modules/checking/checking.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/modules/tool-faults/tool-faults.module.test.ts"}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

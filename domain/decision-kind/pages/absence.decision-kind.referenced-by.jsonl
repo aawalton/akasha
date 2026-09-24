@@ -831,6 +831,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.ts","id":"01a058ff-fbf9-76dc-8437-ad9a61e75657"}
 {"propertySlug":"decision-kind","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.ts","id":"01a0d460-edb7-74c0-ab5c-ba4029cf7b17"}
 {"propertySlug":"decision-kind","path":"check/code/pages/shell-clean/shell-clean.check-code.ts","id":"01a05991-d997-76f5-a619-6ddb7444c34f"}
+{"propertySlug":"decision-kind","path":"check/code/pages/swift-parses/swift-parses.check-code.ts","id":"01a0d58c-dd89-71ff-aa5d-ad876fa7323c"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts","id":"01a0b7c9-d8d8-78e8-bb82-9ac8ee8f4e4b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/tests-pass.check-code.ts","id":"01a04eb6-9214-7000-be71-821a1a582fbe"}
 {"propertySlug":"decision-kind","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.ts","id":"01a0b840-0db7-7493-9be4-67c2dc2b3a46"}
@@ -858,6 +859,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/refusal-holding/refusal-holding.module.ts","id":"01a09262-8dcd-7000-9ba4-db03acc57a04"}
 {"propertySlug":"decision-kind","path":"check/modules/router-app-code/router-app-code.module.ts","id":"01a08e07-d3c0-7687-a361-081c6e367ee5"}
 {"propertySlug":"decision-kind","path":"check/modules/run-ceiling/run-ceiling.module.ts","id":"01a0b7dd-0d08-70b9-a763-fcce5982f703"}
+{"propertySlug":"decision-kind","path":"check/modules/tool-faults/tool-faults.module.ts","id":"01a0d58c-dd8a-7565-8c20-4353c938ed7e"}
 {"propertySlug":"decision-kind","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts","id":"01a091e9-689c-7002-afcc-8b73def2b8f9"}
 {"propertySlug":"decision-kind","path":"check/test-fixtures/scratch/check-scratch.test-fixture.ts","id":"01a04fd0-8a9a-7915-a355-32d5432a7f11"}
 {"propertySlug":"decision-kind","path":"check/test-fixtures/staging/check-staging.test-fixture.ts","id":"01a08e16-827d-7f4d-bb26-5724ed027608"}

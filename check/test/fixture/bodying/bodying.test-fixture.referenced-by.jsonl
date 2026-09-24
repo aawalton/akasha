@@ -30,9 +30,12 @@
 {"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.check.test.ts"}
 {"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.test.ts"}
+{"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.check.test.ts"}
+{"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/modules/change-mirror/change-mirror.module.test.ts"}
+{"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/modules/tool-faults/tool-faults.module.test.ts"}
 {"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"bodying.test-fixture.code.ts","path":"command/modules/change-preparing/change-preparing.module.test.ts"}

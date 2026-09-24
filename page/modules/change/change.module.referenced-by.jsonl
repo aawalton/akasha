@@ -89,6 +89,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.test.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.check.test.ts"}
@@ -109,6 +110,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/model-running/model-running.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/mortal-sparing/mortal-sparing.module.test.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"check/modules/tool-faults/tool-faults.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/body/modules/body-loading/body-loading.module.code.ts"}

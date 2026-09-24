@@ -373,6 +373,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/tests-pass/tests-pass.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test-fixtures.ts"}

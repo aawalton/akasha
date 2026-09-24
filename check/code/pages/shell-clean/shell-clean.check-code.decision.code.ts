@@ -1,5 +1,11 @@
 import { mirroredOf } from "akasha/check/modules/change-mirror/change-mirror.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
+import {
+  carriedIn,
+  judgedAcross,
+  type Looked,
+  type Saying,
+} from "akasha/check/modules/tool-faults/tool-faults.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { pathsOf } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
@@ -29,8 +35,6 @@ const JUDGED: ReadonlySet<number> = new Set([0, 1])
 
 const COMMENTS = "comments"
 
-const MIRROR = "the mirror this change was written into"
-
 const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
 
 const SAID_AT_MOST = 240
@@ -44,24 +48,8 @@ export type Found = {
   readonly said: string
 }
 
-export type Looked = {
-  readonly found: readonly Found[]
-  readonly failed: string | null
-}
-
 export function shellNamed(path: string): boolean {
   return path.endsWith(SH)
-}
-
-export function carriedOver(
-  paths: readonly string[],
-  holds: (path: string) => boolean
-): readonly string[] {
-  return [...new Set(paths.filter((one) => shellNamed(one) && holds(one)))].sort()
-}
-
-export function carriedIn(change: Change): readonly string[] {
-  return carriedOver(change.changed, (one) => change.after(one) !== null)
 }
 
 function holdingShellIn(index: Answering): readonly string[] {
@@ -106,7 +94,7 @@ export function besideOver(
 }
 
 export function besideIn(change: Change, shadow: Shadow): readonly string[] {
-  return besideOver(shadow.index, shadow.root, () => shadow.listed(), carriedIn(change))
+  return besideOver(shadow.index, shadow.root, () => shadow.listed(), carriedIn(change, shellNamed))
 }
 
 const COMMENT_SAID = z.looseObject({
@@ -138,7 +126,11 @@ export function foundIn(output: string): readonly Found[] | null {
   }))
 }
 
-export function lookedOver(root: string, named: readonly string[], at: string | null): Looked {
+export function lookedOver(
+  root: string,
+  named: readonly string[],
+  at: string | null
+): Looked<Found> {
   if (at === null) {
     return { found: [], failed: `no \`${TOOL}\` is on PATH, so nothing was looked at` }
   }
@@ -161,19 +153,10 @@ export function reasonOf(one: Found): string {
   return `SC${one.code} (${one.level}) at line ${one.line}, column ${one.column} — ${one.said}`
 }
 
-function earlier(one: Found, two: Found): number {
-  if (one.path !== two.path) return one.path < two.path ? -1 : 1
-  if (one.line !== two.line) return one.line - two.line
-  return one.column - two.column
-}
+const SAYING: Saying<Found> = { reasonOf, unlooked: UNLOOKED }
 
-export function judgedOf(looked: Looked, first: string, root: string): readonly Judged[] {
-  if (looked.failed === null) {
-    const held = [...looked.found].sort(earlier)
-    return held.map((one) => ({ path: one.path, reason: reasonOf(one) }))
-  }
-  const why = looked.failed.replaceAll(`${root}/`, "").replaceAll(root, MIRROR)
-  return [{ path: first, reason: `${why}. ${UNLOOKED}`, threw: true }]
+export function judgedOf(looked: Looked<Found>, first: string, root: string): readonly Judged[] {
+  return judgedAcross(looked, first, root, SAYING)
 }
 
 export function refusalsAcross(
@@ -192,7 +175,7 @@ export function refusalsAcross(
 }
 
 export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
-  const carried = carriedIn(change)
+  const carried = carriedIn(change, shellNamed)
   if (carried.length === 0) return []
   return refusalsAcross(carried, besideIn(change, shadow), change.after)
 }
