@@ -16,6 +16,7 @@ export const temperCaptureShape = {
     "module/currency-catalog",
     "module/engine-globals-catalog",
     "module/furniture-catalog",
+    "module/interface-color-catalog",
     "module/inventory-constants-catalog",
     "module/item-set-catalog",
     "module/lore-library-catalog",

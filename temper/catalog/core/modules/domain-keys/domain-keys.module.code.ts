@@ -21,6 +21,7 @@ export const CATALOG_DOMAIN_KEYS = [
   "companionSkillCatalog",
   "skillCatalog",
   "engineGlobalsCatalog",
+  "interfaceColorCatalog",
 ] as const
 
 export type DomainKey = (typeof CATALOG_DOMAIN_KEYS)[number]

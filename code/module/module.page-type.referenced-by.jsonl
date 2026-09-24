@@ -4690,6 +4690,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/enum-value-labels/enum-value-labels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/equip-type-constants/equip-type-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/furniture-catalog-capture/furniture-catalog-capture.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/interface-color-catalog-capture/interface-color-catalog-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/inventory-constants-catalog-capture/inventory-constants-catalog-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-filter-type-constants/item-filter-type-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.ts"}
@@ -4726,6 +4727,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/currency-catalog/currency-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/engine-globals-catalog/engine-globals-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/furniture-catalog/furniture-catalog.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/interface-color-catalog/interface-color-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/inventory-constants-catalog/inventory-constants-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/item-set-catalog/item-set-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.ts"}
