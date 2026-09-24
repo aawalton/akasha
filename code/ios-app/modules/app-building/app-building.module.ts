@@ -15,12 +15,16 @@ export const appBuilding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The program stating a name of its own is the program shipped inside the app.",
+      statement: "The names and profiles a build signs with are read from the app's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The program stating a target of its own is the program shipped inside the app.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Two programs stating a name of their own is refused rather than one program being picked.",
+        "Two programs stating a target of their own is refused rather than one program being picked.",
     },
     {
       decisionKind: "decision-kind/departure",

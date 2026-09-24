@@ -1,6 +1,8 @@
 import { afterAll, expect, test } from "bun:test"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { planFor } from "akasha/code/ios-app/modules/app-building/app-building.module.code.ts"
+import { alanwalton } from "akasha/code/ios-app/pages/alanwalton/alanwalton.ios-app.ts"
+import { smilingjenny } from "akasha/code/ios-app/pages/smilingjenny/smilingjenny.ios-app.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
@@ -85,19 +87,23 @@ test("no page's own file is delivered, because the mac reads no TypeScript", () 
   for (const one of planned("alanwalton").deliverFiles) expect(one.endsWith(".ts")).toBe(false)
 })
 
-test("the team and the shipped program's name are read off the pages", () => {
+test("the team, the shipped program's name and both profiles are read off the app's page", () => {
   const said = planned("alanwalton").exports.join("\n")
-  expect(said).toContain("export NATIVE_SHELL_DEVELOPMENT_TEAM='M6AN6NM6FL'")
-  expect(said).toContain("export NATIVE_SHELL_WIDGET_BUNDLE_ID='com.alanwalton.app.widgets'")
+  expect(said).toContain(`export NATIVE_SHELL_DEVELOPMENT_TEAM='${alanwalton.developmentTeam}'`)
+  expect(said).toContain(`export NATIVE_SHELL_WIDGET_BUNDLE_ID='${alanwalton.widgetBundleId}'`)
+  expect(said).toContain(`export NATIVE_SHELL_APP_PROFILE_NAME='${alanwalton.appProfileName}'`)
+  expect(said).toContain(
+    `export NATIVE_SHELL_WIDGET_PROFILE_NAME='${alanwalton.widgetProfileName}'`
+  )
 })
 
 test("the access group and the secret service are worked out rather than stated", () => {
   const said = planned("alanwalton").exports.join("\n")
   expect(said).toContain(
-    "export NATIVE_SHELL_KEYCHAIN_ACCESS_GROUP='M6AN6NM6FL.com.alanwalton.app'"
+    `export NATIVE_SHELL_KEYCHAIN_ACCESS_GROUP='${alanwalton.developmentTeam}.${alanwalton.bundleId}'`
   )
   expect(said).toContain(
-    "export NATIVE_SHELL_DEVICE_SECRET_SERVICE='com.alanwalton.app.device-secret'"
+    `export NATIVE_SHELL_DEVICE_SECRET_SERVICE='${alanwalton.bundleId}.device-secret'`
   )
 })
 
@@ -109,7 +115,7 @@ test("what Xcode builds the shipped program under is read off its page", () => {
 test("an app whose site is a page of its own is planned like any other", () => {
   const held = planned("smilingjenny").exports.join("\n")
   expect(held).toContain("export NATIVE_SHELL_WIDGET_NAME='SmilingJennyWidgetExtension'")
-  expect(held).toContain("export NATIVE_SHELL_BUNDLE_ID='me.smilingjenny.app'")
+  expect(held).toContain(`export NATIVE_SHELL_BUNDLE_ID='${smilingjenny.bundleId}'`)
 })
 
 test("every component the shipped program names is handed to the seam", () => {

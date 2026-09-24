@@ -58,16 +58,16 @@ function componentsOf(program: Value): string {
     .join(" ")
 }
 
-function exportsOf(app: Value, shipped: Value, hosting: Value): readonly string[] {
+function exportsOf(app: Value, shipped: Value): readonly string[] {
   const bundleId = textAt(app, "bundleId") ?? ""
   const team = textAt(app, "developmentTeam") ?? ""
   const said: [string, string][] = [
     ["NATIVE_SHELL_BUNDLE_ID", bundleId],
     ["NATIVE_SHELL_DISPLAY_NAME", textAt(app, "displayName") ?? ""],
     ["NATIVE_SHELL_DEVELOPMENT_TEAM", team],
-    ["NATIVE_SHELL_WIDGET_BUNDLE_ID", textAt(shipped, "bundleId") ?? ""],
-    ["NATIVE_SHELL_APP_PROFILE_NAME", textAt(hosting, "profileName") ?? ""],
-    ["NATIVE_SHELL_WIDGET_PROFILE_NAME", textAt(shipped, "profileName") ?? ""],
+    ["NATIVE_SHELL_WIDGET_BUNDLE_ID", textAt(app, "widgetBundleId") ?? ""],
+    ["NATIVE_SHELL_APP_PROFILE_NAME", textAt(app, "appProfileName") ?? ""],
+    ["NATIVE_SHELL_WIDGET_PROFILE_NAME", textAt(app, "widgetProfileName") ?? ""],
     ["NATIVE_SHELL_KEYCHAIN_ACCESS_GROUP", `${team}.${bundleId}`],
     ["NATIVE_SHELL_DEVICE_SECRET_SERVICE", `${bundleId}.device-secret`],
     ["NATIVE_SHELL_WIDGET_NAME", textAt(shipped, "targetName") ?? ""],
@@ -76,34 +76,27 @@ function exportsOf(app: Value, shipped: Value, hosting: Value): readonly string[
   return said.map(([name, value]) => `export ${name}=${quoted(value)}`)
 }
 
-type Programs = { readonly shipped: Value; readonly hosting: Value } | { readonly why: string }
+type Shipped = { readonly shipped: Value } | { readonly why: string }
 
-function programsOf(root: string, app: Value, appSlug: string): Programs {
-  const named = listAt(app, "programs")
-  const held: Value[] = []
-  for (const one of named) {
+function shippedOf(root: string, app: Value, appSlug: string): Shipped {
+  const shipped: Value[] = []
+  for (const one of listAt(app, "programs")) {
     const page = pageOf(root, "ios-program", slugOf(one))
-    if (page !== null) held.push(page)
+    if (page !== null && textAt(page, "targetName") !== null) shipped.push(page)
   }
-  const shipped = held.filter((one) => textAt(one, "bundleId") !== null)
-  if (shipped.length === 0) {
+  const [first, second] = shipped
+  if (first === undefined) {
     return {
-      why: `no program ${appSlug} builds states a name of its own, so nothing says what is shipped inside it`,
+      why: `no program ${appSlug} builds states a target of its own, so nothing says what is shipped inside it`,
     }
   }
-  if (shipped.length > 1) {
+  if (second !== undefined) {
     const among = shipped.map((one) => textAt(one, "slug") ?? "?").join(", ")
-    return { why: `${among} each state a name of their own, so which is shipped inside is unclear` }
+    return {
+      why: `${among} each state a target of their own, so which is shipped inside is unclear`,
+    }
   }
-  const hosting = held.find(
-    (one) => textAt(one, "bundleId") === null && textAt(one, "profileName") !== null
-  )
-  if (hosting === undefined) {
-    return { why: `no program ${appSlug} builds carries the app itself and states a profile` }
-  }
-  const first = shipped[0]
-  if (first === undefined) return { why: "unreachable" }
-  return { shipped: first, hosting }
+  return { shipped: first }
 }
 
 type Found = { readonly at: string } | { readonly why: string }
@@ -166,7 +159,7 @@ export function planFor(root: string, appSlug: string): Planned {
   if ("why" in synced) return { refused: [synced.why] }
   const ranged = dependenciesOf(root, app, appSlug)
   if ("why" in ranged) return { refused: [ranged.why] }
-  const programs = programsOf(root, app, appSlug)
+  const programs = shippedOf(root, app, appSlug)
   if ("why" in programs) return { refused: [programs.why] }
   const shared = sharedBuildFiles(root)
   if ("why" in shared) return { refused: [shared.why] }
@@ -179,6 +172,6 @@ export function planFor(root: string, appSlug: string): Planned {
     dependencies: ranged.ranges,
     deliverPaths: [shellPath],
     deliverFiles: shared.files,
-    exports: exportsOf(app, programs.shipped, programs.hosting),
+    exports: exportsOf(app, programs.shipped),
   }
 }
