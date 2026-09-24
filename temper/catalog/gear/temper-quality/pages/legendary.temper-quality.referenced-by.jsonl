@@ -1,8 +1,14 @@
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/aggressive/aggressive.temper-companion-trait.ts","id":"01a05fce-c4ae-76d4-b0f2-55ebd7f2e20e"}
+{"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/aggressive/grades/companion-trait-aggressive-legendary.temper-companion-trait-grade.ts","id":"01a0d3e7-5b3a-79b8-8945-b5f3bb052b1b"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/augmented/augmented.temper-companion-trait.ts","id":"01a05fce-c4ae-71a9-94bd-92eaf44306b0"}
+{"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/augmented/grades/companion-trait-augmented-legendary.temper-companion-trait-grade.ts","id":"01a0d3e7-901f-716e-ab3b-7069a057ed94"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/bolstered/bolstered.temper-companion-trait.ts","id":"01a05fce-c4af-7566-b544-fc48ca193628"}
+{"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/bolstered/grades/companion-trait-bolstered-legendary.temper-companion-trait-grade.ts","id":"01a0d3e7-c58a-74ca-824c-49774846447b"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/focused/focused.temper-companion-trait.ts","id":"01a05fce-c4af-7d13-ad7c-a7e9b1934c38"}
+{"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/focused/grades/companion-trait-focused-legendary.temper-companion-trait-grade.ts","id":"01a0d3e7-f53d-77ed-8343-cf3abc2ca25f"}
+{"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/prolific/grades/companion-trait-prolific-legendary.temper-companion-trait-grade.ts","id":"01a0d3e8-20a0-702b-aeb4-0727d08712bf"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/prolific/prolific.temper-companion-trait.ts","id":"01a05fce-c4b0-7db1-b613-848e703bbfc8"}
+{"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/quickened/grades/companion-trait-quickened-legendary.temper-companion-trait-grade.ts","id":"01a0d3e8-54c3-7da0-a930-4cb65a71ef3d"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/quickened/quickened.temper-companion-trait.ts","id":"01a05fce-c4b0-72a1-9c7b-e63389b0f298"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/shattering/shattering.temper-companion-trait.ts","id":"01a05fce-c4b0-75e4-8085-89376ec1cdf3"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/soothing/soothing.temper-companion-trait.ts","id":"01a05fce-c4b1-7c18-9828-60ac8b4aafa2"}
