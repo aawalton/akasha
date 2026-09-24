@@ -1,6 +1,7 @@
 {
   "build": {
     "companionId": 12,
+    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
     "skillAbilityIds": {
       "1": 214948,
       "2": 214703,
@@ -9,6 +10,56 @@
       "5": 215001,
       "6": 215215
     },
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering",
+        "isEmpty": false
+      }
+    },
+    "weapons": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Bow, Quickened",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "displayText": "Empty",
+        "isEmpty": true
+      }
+    },
+    "mainHandWeaponType": 8,
     "armor": {
       "1": {
         "qualityColor": {
@@ -71,57 +122,6 @@
           "3": 0.86
         },
         "displayText": "Medium, Shattering",
-        "isEmpty": false
-      }
-    },
-    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
-    "mainHandWeaponType": 8,
-    "weapons": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Bow, Quickened",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "displayText": "Empty",
-        "isEmpty": true
-      }
-    },
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
-        "isEmpty": false
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shattering",
         "isEmpty": false
       }
     }
