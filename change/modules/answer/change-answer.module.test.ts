@@ -87,7 +87,9 @@ test("a replace naming a passage the body holds twice is refused", () => {
   const one = { kind: "replace", path: AT, contentFrom: "two", contentTo: "three" } as const
 
   expect(expanded(one, filesOf({ [AT]: "two two" }))).toEqual({
-    refused: `\`${AT}\` holds that passage twice or more, and one change works one`,
+    refused:
+      `\`${AT}\` holds that passage twice or more, and one change works one — widen the passage` +
+      " until the body holds it once, or end it with a blank line to take the newline after it",
   })
 })
 

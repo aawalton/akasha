@@ -19,6 +19,7 @@ const CODE = "code"
 const TS = "ts"
 const RUN_CHANGE = "runChange"
 const TAKES = "takes"
+const PASSAGES = "passages"
 const SUBTYPE = "changeTargetSubtype"
 const FILE = "file"
 const AT = "at"
@@ -57,6 +58,7 @@ function namingNoPage(address: string): string {
 export type Loaded = {
   readonly run: (world: World, given: unknown) => Said | Promise<Said>
   readonly takes?: readonly string[]
+  readonly passages?: readonly string[]
 }
 
 const LOADED = new WeakMap<World, Map<string, Loaded>>()
@@ -73,9 +75,12 @@ export async function loadedAt(world: World, at: string): Promise<Loaded | strin
   }
   const stated = await exportedFrom(world, path, TAKES)
   const takes = stated === null ? null : stringsIn(stated)
+  const named = await exportedFrom(world, path, PASSAGES)
+  const passages = named === null ? null : stringsIn(named)
   const loaded: Loaded = {
     run: run as (over: World, asked: unknown) => Said | Promise<Said>,
     ...(takes === null ? {} : { takes }),
+    ...(passages === null ? {} : { passages }),
   }
   if (held === undefined) LOADED.set(world, new Map([[at, loaded]]))
   else held.set(at, loaded)

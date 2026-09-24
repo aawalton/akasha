@@ -4,7 +4,9 @@ const OPENS = /^([a-z][a-z0-9-]*) (\S+)( no-newline)?$/
 
 export type Given = Readonly<Record<string, string>>
 
-export type Read = { readonly given: Given } | { readonly refused: string }
+export type Fenced = Readonly<Record<string, boolean>>
+
+export type Read = { readonly given: Given; readonly fenced: Fenced } | { readonly refused: string }
 
 function twice(key: string): string {
   return `\`${key}\` is written twice, and one reading holds one value for a key`
@@ -18,8 +20,33 @@ function neither(at: number, line: string): string {
   return `line ${String(at)} is neither \`key: value\` nor \`key <fence>\` — ${line}`
 }
 
+function unlinedPassage(key: string): string {
+  return (
+    `\`${key}\` is a passage, and a passage always drops the newline its fence leaves, so` +
+    ` \`no-newline\` is refused on it — open \`${key}\` without it, and end the passage with a` +
+    " blank line where it takes the newline after it"
+  )
+}
+
+export function passagesIn(
+  given: Given,
+  fenced: Fenced,
+  passages: readonly string[]
+): Given | string {
+  const held: Record<string, string> = { ...given }
+  for (const key of passages) {
+    const lined = fenced[key]
+    if (lined === undefined) continue
+    if (!lined) return unlinedPassage(key)
+    const said = held[key]
+    if (said?.endsWith("\n") === true) held[key] = said.slice(0, -1)
+  }
+  return held
+}
+
 export function readingIn(text: string): Read {
   const given: Record<string, string> = {}
+  const fenced: Record<string, boolean> = {}
   const lines = text.split("\n")
   let at = 0
   while (at < lines.length) {
@@ -54,6 +81,7 @@ export function readingIn(text: string): Read {
     if (!closed) return { refused: unclosed(key, fence) }
     const body = held.join("")
     given[key] = lined ? body : body.slice(0, -1)
+    fenced[key] = lined
   }
-  return { given }
+  return { given, fenced }
 }

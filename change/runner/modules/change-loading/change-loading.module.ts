@@ -31,6 +31,11 @@ export const changeLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An agent change states which of those arguments are passages beside its run, under one name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A key no change reached by name takes is refused before that change runs.",
     },
     {

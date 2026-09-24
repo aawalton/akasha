@@ -33,6 +33,19 @@ export const changeApply = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A passage such as `old` or `new` always drops the newline its fence leaves on its last line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A passage taking the newline after it ends with a blank line before its fence.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A passage opened with `no-newline` is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The key `at` names a path, read against the repository root.",
     },
     {

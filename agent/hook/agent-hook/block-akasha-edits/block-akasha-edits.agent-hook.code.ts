@@ -121,7 +121,8 @@ function refusingPages(toolName: string, shown: string): string {
       "",
       lands,
       "",
-      "A passage drops the newline the heredoc adds, so a whole line goes by naming a line beside it.",
+      "A passage drops the newline its fence leaves, so one ending mid-line needs nothing more.",
+      "A passage taking the newline after it ends with a blank line before its fence.",
     ].join("\n")
   }
   return [

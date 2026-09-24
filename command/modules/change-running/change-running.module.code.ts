@@ -37,6 +37,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
   type Given as Arguments,
+  passagesIn,
   readingIn,
 } from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
@@ -409,6 +410,8 @@ export async function changing(
   const loaded = await loading(world, `${type}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded])
   const held: Loaded = loaded
+  const passed = passagesIn(asked.given, read.fenced, held.passages ?? [])
+  if (typeof passed === "string") return mistaking([passed])
   const stated = world.index.pageAt(type, slug)
   const kind = kindOf(world, stated)
   const owed = owedBy(kind)
@@ -416,7 +419,7 @@ export async function changing(
   let paths = 0
   const answered = await appending(root, page, agentId, owing, async (one) =>
     underIts(slug, stated, async () => {
-      const made = stamped(await ranBy(one, held, asked.given), owed, owing)
+      const made = stamped(await ranBy(one, held, passed), owed, owing)
       paths = new Set(made.edits.flatMap(pathsOf)).size
       return made
     })

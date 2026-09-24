@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { readingIn } from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
+import {
+  passagesIn,
+  readingIn,
+} from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
 
 function given(text: string): Readonly<Record<string, string>> {
   const said = readingIn(text)
@@ -94,4 +97,42 @@ test("a fence spelled no-newline is a fence rather than the marker", () => {
 
 test("a word after the fence that is not no-newline refuses the whole reading", () => {
   expect(refusal("body ~~~ held\na\n~~~")).toContain("line 1 is neither")
+})
+
+const PASSAGES = ["old", "new"]
+
+function passages(text: string): Readonly<Record<string, string>> | string {
+  const said = readingIn(text)
+  if ("refused" in said) throw new Error(said.refused)
+  return passagesIn(said.given, said.fenced, PASSAGES)
+}
+
+test("a passage drops the newline its fence leaves on its last line", () => {
+  expect(passages("old ~~~\na: 1\n~~~\nnew ~~~\na: 9\n~~~")).toEqual({ old: "a: 1", new: "a: 9" })
+})
+
+test("a passage ending with a blank line keeps the newline after its last line", () => {
+  expect(passages("old ~~~\ntwo\n\n~~~")).toEqual({ old: "two\n" })
+})
+
+test("a passage of whole lines keeps every newline but the last", () => {
+  expect(passages("old ~~~\ntwo\nthree\n~~~")).toEqual({ old: "two\nthree" })
+})
+
+test("a passage opened with no-newline is refused by its key", () => {
+  const said = passages("at: a\nold ~~~ no-newline\ntwo\n~~~")
+
+  expect(typeof said === "string" ? said : "").toContain("`old` is a passage")
+  expect(typeof said === "string" ? said : "").toContain("`no-newline` is refused")
+})
+
+test("a passage written as key and value is left as it was written", () => {
+  expect(passages("old: two\nnew: four")).toEqual({ old: "two", new: "four" })
+})
+
+test("a body that is no passage keeps its newline and may still close with no-newline", () => {
+  expect(passages("body ~~~\na\n~~~\nmessage ~~~ no-newline\nb\n~~~")).toEqual({
+    body: "a\n",
+    message: "b",
+  })
 })

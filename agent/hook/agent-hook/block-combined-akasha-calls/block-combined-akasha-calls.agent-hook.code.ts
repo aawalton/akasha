@@ -95,6 +95,10 @@ const REFUSED = [
   "The delimiter is quoted so the shell rewrites nothing. Opened unquoted, a `$HOME` in the body",
   "is replaced and a `$(...)` is run before akasha reads the body, and nothing says so.",
   "A body ending mid-line is opened `body HEREDOC-BODY no-newline` rather than piped in.",
+  "",
+  "`old` and `new` are passages rather than bodies. A passage always drops the newline its fence",
+  "leaves, so one ending mid-line needs nothing more, and `no-newline` on it is refused. A",
+  "passage taking the newline after it ends with a blank line before its fence.",
 ]
 
 const SCOPE: readonly string[] = [

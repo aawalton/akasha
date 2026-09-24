@@ -153,7 +153,7 @@ function staged(
       const into = join(stage, file.at)
       calls.push(
         ...(existsSync(was)
-          ? changingFile(file.at, was, into, file.body)
+          ? changingFile(file.at, was, into)
           : addingFile(file.at, into, file.body))
       )
     }

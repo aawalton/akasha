@@ -93,6 +93,15 @@ export const changeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A fenced passage reaches the change without the newline its fence leaves on its last line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A passage opened with `no-newline` is refused before the change runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The value at `message` says what the commit is for.",
     },
     {

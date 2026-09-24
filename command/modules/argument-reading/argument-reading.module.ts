@@ -39,7 +39,23 @@ export const argumentReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A passage ending mid-line is said that way and no other way.",
+      statement: "A passage drops the newline its fence leaves on its last line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A passage taking the newline after it ends with a blank line before its fence.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A passage whose opening line closes with `no-newline` is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A passage written as `key: value` is left as it was written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which arguments are passages is answered by the change taking them.",
     },
     {
       decisionKind: "decision-kind/departure",

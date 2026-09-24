@@ -17,15 +17,15 @@ export const changeFile = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The passage and the replacement are both passages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A passage drops the newline its fence leaves on the last line.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A body keeps the newline its fence leaves.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A passage whose fence closed with `no-newline` is left as the caller wrote it.",
+      statement: "A passage whose fence closes with `no-newline` is refused.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -22,10 +22,6 @@ const CHANGE_FILE =
 
 export type Asked = Readonly<Record<string, string>>
 
-function passageIn(said: string): string {
-  return said.endsWith("\n") ? said.slice(0, -1) : said
-}
-
 export async function changeFileCommand(world: World, given: Asked): Promise<Answer> {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
@@ -35,11 +31,12 @@ export async function changeFileCommand(world: World, given: Asked): Promise<Ans
   if (becomes === undefined) return refusing(missing(NEW))
   const written = machineWrites(world, at)
   if (written !== null) return refusing(written)
-  const passage = { at, old: passageIn(old), new: passageIn(becomes) }
-  return (await reach(world, CHANGE_FILE, passage)).said
+  return (await reach(world, CHANGE_FILE, { at, old, new: becomes })).said
 }
 
 export const takes: readonly string[] = [AT, OLD, NEW]
+
+export const passages: readonly string[] = [OLD, NEW]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   return await changeFileCommand(world, given)

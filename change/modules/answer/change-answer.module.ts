@@ -205,6 +205,11 @@ export const changeAnswer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "That refusal says to widen the passage, or to end it with a blank line to take the newline.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A replace naming a passage of no characters is refused.",
     },
     {

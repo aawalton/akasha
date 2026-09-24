@@ -293,17 +293,16 @@ export function addingFile(rel: string, at: string, body: string): readonly stri
   ]
 }
 
-export function changingFile(
-  rel: string,
-  was: string,
-  at: string,
-  body: string
-): readonly string[] {
+function passageFenced(key: string, at: string): readonly string[] {
+  return [`  printf '${key} ${FENCE}\\n'`, `  cat ${quoted(at)}`, `  printf '\\n${FENCE}\\n'`]
+}
+
+export function changingFile(rel: string, was: string, at: string): readonly string[] {
   return [
     "{",
     `  printf 'at: %s\\n' ${quoted(rel)}`,
-    ...fenced("old", was, readFileSync(was, "utf8")),
-    ...fenced("new", at, body),
+    ...passageFenced("old", was),
+    ...passageFenced("new", at),
     "} | akasha change apply --draft change-file",
   ]
 }
@@ -353,7 +352,7 @@ export function stageSeries(
       done.push(stagedSaid(rel, at))
       files.push({ rel, at, alreadyThere: there })
       changed.push(rel)
-      calls.push(...(there ? changingFile(rel, was, at, body) : addingFile(rel, at, body)))
+      calls.push(...(there ? changingFile(rel, was, at) : addingFile(rel, at, body)))
     }
   }
 

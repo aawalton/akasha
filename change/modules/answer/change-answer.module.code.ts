@@ -4,6 +4,10 @@ const NOT_TEXT_SAID = "is not text, so no passage in it is changed"
 
 const NOT_TEXT_ENDED = "is not text, so nothing is put at the end of it"
 
+const TWICE =
+  "holds that passage twice or more, and one change works one — widen the passage until the" +
+  " body holds it once, or end it with a blank line to take the newline after it"
+
 export type NotText = { readonly notText: true }
 
 export const NOT_TEXT: NotText = { notText: true }
@@ -230,7 +234,7 @@ function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
     return { refused: `\`${one.path}\` holds no such passage, so nothing is changed` }
   }
   if (text.indexOf(one.contentFrom, first + 1) >= 0) {
-    return { refused: `\`${one.path}\` holds that passage twice or more, and one change works one` }
+    return { refused: `\`${one.path}\` ${TWICE}` }
   }
   const shut = first + one.contentFrom.length
   const body = `${text.slice(0, first)}${one.contentTo}${text.slice(shut)}`

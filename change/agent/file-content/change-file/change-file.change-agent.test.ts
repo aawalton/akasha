@@ -1,13 +1,20 @@
 import { expect, test } from "bun:test"
 import { harnessSettings } from "akasha/agent/settings/properties/harness-settings.file-property.ts"
 import { telling } from "akasha/agent/settings/properties/telling.module-property-group.ts"
-import { changeFileCommand } from "akasha/change/agent/file-content/change-file/change-file.change-agent.code.ts"
+import {
+  changeFileCommand,
+  passages,
+} from "akasha/change/agent/file-content/change-file/change-file.change-agent.code.ts"
 import { changeFileContentOfAnyKind } from "akasha/change/mechanical/file-content/change/change-file-content-of-any-kind/change-file-content-of-any-kind.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import { type Answer, replayed } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import { modulePropertyGroup } from "akasha/code/module-property-group/module-property-group.page-type.ts"
+import {
+  passagesIn,
+  readingIn,
+} from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
 import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -81,9 +88,21 @@ test("the passage this change hands on is reached through the runner the world c
   expect(said.refused).toBeNull()
 })
 
-test("a passage ending mid-line drops the newline its fence left and lands", async () => {
+function fenced(text: string): Readonly<Record<string, string>> | string {
+  const read = readingIn(text)
+  if ("refused" in read) throw new Error(read.refused)
+  return passagesIn(read.given, read.fenced, passages)
+}
+
+async function changedBy(held: Readonly<Record<string, string>>, text: string): Promise<Answer> {
+  const given = fenced(text)
+  if (typeof given === "string") throw new Error(given)
+  return await changeFileCommand(worldOf(held), given)
+}
+
+test("a fenced passage ending mid-line matches with no modifier and lands", async () => {
   const held = { [AT]: "export const one = { a: 1, b: 2 }\n" }
-  const said = await changeFileCommand(worldOf(held), { at: AT, old: "a: 1\n", new: "a: 9\n" })
+  const said = await changedBy(held, `at: ${AT}\nold ~~~\na: 1\n~~~\nnew ~~~\na: 9\n~~~`)
 
   expect(said.refused).toBeNull()
   expect(said.edits).toEqual([
@@ -92,24 +111,45 @@ test("a passage ending mid-line drops the newline its fence left and lands", asy
   expect(landedIn(held, said)).toBe("export const one = { a: 9, b: 2 }\n")
 })
 
-test("a passage of whole lines lands with the lines around it as they were", async () => {
+test("fenced passages of whole lines swap those lines with the lines around them kept", async () => {
   const held = { [AT]: "one\ntwo\nthree\nfour\n" }
-  const said = await changeFileCommand(worldOf(held), {
-    at: AT,
-    old: "two\nthree\n",
-    new: "2\n3\n",
-  })
+  const said = await changedBy(held, `at: ${AT}\nold ~~~\ntwo\nthree\n~~~\nnew ~~~\n2\n3\n~~~`)
 
   expect(said.refused).toBeNull()
   expect(landedIn(held, said)).toBe("one\n2\n3\nfour\n")
 })
 
-test("a passage whose fence closed with no-newline loses no second character", async () => {
-  const held = { [AT]: "export const one = { a: 1, b: 2 }\n" }
-  const said = await changeFileCommand(worldOf(held), { at: AT, old: "a: 1", new: "a: 9" })
+test("a fenced passage ending with a blank line matches the newline after it", async () => {
+  const held = { [AT]: "two\ntwofold\n" }
+  const said = await changedBy(held, `at: ${AT}\nold ~~~\ntwo\n\n~~~\nnew ~~~\n2\n\n~~~`)
 
   expect(said.refused).toBeNull()
-  expect(landedIn(held, said)).toBe("export const one = { a: 9, b: 2 }\n")
+  expect(said.edits).toEqual([
+    { kind: "replace", path: AT, contentFrom: "two\n", contentTo: "2\n" },
+  ])
+  expect(landedIn(held, said)).toBe("2\ntwofold\n")
+})
+
+test("a passage held twice is refused with the way to widen it or take the newline", async () => {
+  const held: Readonly<Record<string, string>> = { [AT]: "two\ntwofold\n" }
+  const said = await changedBy(held, `at: ${AT}\nold ~~~\ntwo\n~~~\nnew ~~~\n2\n~~~`)
+  const after = replayed(said, (path) => held[path] ?? null)
+  const why = said.refused ?? ("refused" in after ? after.refused : "")
+
+  expect(why).toContain("twice or more")
+  expect(why).toContain("blank line")
+})
+
+test("a passage whose fence closes with no-newline is refused by its key", () => {
+  const said = fenced(`at: ${AT}\nold ~~~ no-newline\na: 1\n~~~\nnew ~~~\na: 9\n~~~`)
+
+  expect(typeof said === "string" ? said : "").toContain("`old` is a passage")
+})
+
+test("a replacement whose fence closes with no-newline is refused by its key", () => {
+  const said = fenced(`at: ${AT}\nold ~~~\na: 1\n~~~\nnew ~~~ no-newline\na: 9\n~~~`)
+
+  expect(typeof said === "string" ? said : "").toContain("`new` is a passage")
 })
 
 const PAGE = "akasha/one.held-settings.ts"
