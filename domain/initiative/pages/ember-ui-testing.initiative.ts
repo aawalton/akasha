@@ -36,5 +36,8 @@ export const emberUiTesting = {
     {
       statement: "Every texture Temper names in the game is there to draw.",
     },
+    {
+      statement: "A button, a field and a tab look and respond the same in every Temper window.",
+    },
   ],
 } as const satisfies Initiative
