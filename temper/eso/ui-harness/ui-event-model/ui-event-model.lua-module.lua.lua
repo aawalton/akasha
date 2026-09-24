@@ -49,6 +49,20 @@ end
 
 _G.EVENT_MANAGER = EventManager
 
+local Control = _G.__ui_control_class
+
+function Control:RegisterForEvent(event, callback)
+  return EventManager:RegisterForEvent(self, event, callback)
+end
+
+function Control:UnregisterForEvent(event)
+  return EventManager:UnregisterForEvent(self, event)
+end
+
+function Control:AddFilterForEvent()
+  return true
+end
+
 function _G.GetEventManager() return EventManager end
 
 function _G.zo_callLater(callback, ms)

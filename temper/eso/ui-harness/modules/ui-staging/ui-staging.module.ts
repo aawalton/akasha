@@ -42,6 +42,15 @@ export const uiStaging = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The game's interface is announced loaded once its files have loaded, as the game does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listener raising at that announcement is named among the refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The game's fonts are made before its Lua loads, as the game's font program loads first.",
     },
     {

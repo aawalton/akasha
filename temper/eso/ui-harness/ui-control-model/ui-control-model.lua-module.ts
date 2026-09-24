@@ -188,6 +188,10 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Such a control the game's document declares is dressed as that document says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A window the game declares is built under the screen where a caller names it.",
     },
     {

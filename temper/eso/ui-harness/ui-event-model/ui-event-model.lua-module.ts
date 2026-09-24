@@ -17,6 +17,10 @@ export const uiEventModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control waits on an event as the event manager does, under the control itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The game's getter for the event manager answers this model's, so the game's own Lua assigns it.",
     },

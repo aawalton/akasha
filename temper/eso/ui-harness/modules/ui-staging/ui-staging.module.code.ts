@@ -40,6 +40,8 @@ export const MARKUP_TAIL = ".eso-interface.markup.xml"
 
 const SAVED_UNDER = "SavedVariables"
 
+const GAME_ADDON = "ZO_Ingame"
+
 const PER_CHUNK = 40
 
 const UNPINNED = "no commit"
@@ -234,6 +236,12 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
         continue
       }
       await declareDocument(harness, text, virtuals)
+    }
+    try {
+      await harness.raise("EVENT_ADD_ON_LOADED", GAME_ADDON)
+    } catch (thrown) {
+      const why = (thrown instanceof Error ? thrown.message : String(thrown)).split("\n")[0]
+      refused.push(`${GAME_ADDON} loaded: ${why}`)
     }
     await settled(harness)
     for (const name of asked.shows) {

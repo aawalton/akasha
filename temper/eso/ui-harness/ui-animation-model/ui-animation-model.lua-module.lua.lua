@@ -53,6 +53,9 @@ end
 Timeline.InsertAnimationFromVirtual = Timeline.InsertAnimation
 function Timeline:GetNumAnimations() return #self.uiAnimations end
 function Timeline:GetAnimationTimeline(which) return self.uiTimelines[which] end
+function Timeline:GetNumAnimationTimelines() return #self.uiTimelines end
+function Timeline:GetFirstAnimationTimeline() return self.uiTimelines[1] end
+function Timeline:GetLastAnimationTimeline() return self.uiTimelines[#self.uiTimelines] end
 function Timeline:GetAnimation(which) return self.uiAnimations[which] end
 function Timeline:GetFirstAnimation() return self.uiAnimations[1] end
 function Timeline:GetLastAnimation() return self.uiAnimations[#self.uiAnimations] end

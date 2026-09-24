@@ -280,7 +280,7 @@ _G.GuiRoot.uiHeight = 1080
 local GAME_CONTROLS = { "ZO_Menus" }
 
 for _, name in ipairs(GAME_CONTROLS) do
-  birth(name, _G.GuiRoot, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil)
+  birth(name, _G.GuiRoot, CONTROL_TYPES.CT_TOPLEVELCONTROL, nil).uiPremade = true
 end
 
 function _G.GetControl(first, second)
@@ -307,9 +307,11 @@ function _G.__ui_declare(given)
   local count = 0
   for _, one in ipairs(given) do
     local name, spec = one[1], one[2]
-    if named[name] == nil then
+    local held = named[name]
+    if held == nil or held.uiPremade then
+      if held ~= nil then held.uiPremade = nil end
       local ok, thrown = xpcall(function()
-        dress(birth(name, _G.GuiRoot, spec.controlType, nil), spec)
+        dress(held or birth(name, _G.GuiRoot, spec.controlType, nil), spec)
       end, traced)
       if ok then count = count + 1 else unmade[name] = tostring(thrown) end
     end
