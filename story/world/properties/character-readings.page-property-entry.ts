@@ -10,7 +10,7 @@ export const characterReadings = {
     { pageProperty: "text-property/reading-slug", required: true, many: false },
     { pageProperty: "text-property/reading-name", required: true, many: false },
     { pageProperty: "select-property/reading-kind", required: true, many: false },
-    { pageProperty: "text-property/character-slug", required: false, many: false },
+    { pageProperty: "relation-property/reading-character", required: false, many: false },
   ],
   decisions: [
     {

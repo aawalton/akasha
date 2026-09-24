@@ -1869,5 +1869,6 @@
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/alias-of.relation-property.ts","id":"01a0b718-64c3-7c6a-abd0-02f96fe6b3b9"}
 {"propertySlug":"target-page-type","path":"story/world/characters/properties/merged-into.relation-property.ts","id":"01a0b751-74f6-7516-a911-7d58d348079b"}
+{"propertySlug":"target-page-type","path":"story/world/properties/reading-character.relation-property.ts","id":"01a0d3cb-ae43-75ef-bbd5-cfe20827da69"}
 {"propertySlug":"view-page-type","path":"page/view/pages/characters-alphabetical.view.ts","id":"01a0c940-f015-75f6-8db4-7ac9450de7f7"}
 {"propertySlug":"view-page-type","path":"page/view/pages/characters-most-seen.view.ts","id":"01a0c940-deed-7a99-9b05-12fa214b9b30"}

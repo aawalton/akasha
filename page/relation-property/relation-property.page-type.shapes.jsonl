@@ -144,6 +144,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"question-topic","propertySlug":"topic","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attunement-rank","unique":null,"uniquePropertySlug":null,"slug":"rank-of-attunement","propertySlug":"rank","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"read-live-from","propertySlug":"read-live-from","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"reading-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-mechanic","unique":null,"uniquePropertySlug":null,"slug":"reading-mechanic","propertySlug":"mechanic","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"readout-color","propertySlug":"color","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"alan-book","unique":null,"uniquePropertySlug":null,"slug":"record-book","propertySlug":"book","fileName":null,"folderName":null}

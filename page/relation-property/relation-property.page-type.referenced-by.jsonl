@@ -163,6 +163,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/turn/properties/turn-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/alias-of.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/characters/properties/merged-into.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/properties/reading-character.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/properties/reading-mechanic.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/elements/properties/played-story.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/world/stories/played/properties/world.relation-property.ts"}
