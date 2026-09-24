@@ -30,7 +30,7 @@ export const agentTreeState = {
       statement: "The work panel reads the forest kept here rather than reading the fleet itself.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "The state is held here rather than passed between the pieces that share that state.",
     },
