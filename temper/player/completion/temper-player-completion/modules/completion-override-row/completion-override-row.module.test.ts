@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   COMPLETION_CARD_PAGE_TYPE,
   completionCardAddress,
-} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.test-fixtures.ts"
 import { parseCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
 
 const CHARACTER_ID = "01970000-0000-7000-8000-aaaaaaaaaaaa"

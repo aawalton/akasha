@@ -7,6 +7,7 @@ export const completionCardPage = {
   definition: "the completion-category page a card is, and the card a page of that kind is",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -22,7 +23,7 @@ export const completionCardPage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The address a page is named by is built here rather than spelled by a caller.",
+      statement: "A card's address is built only by the tests, so it lives in the test fixtures.",
     },
   ],
 } as const satisfies Module

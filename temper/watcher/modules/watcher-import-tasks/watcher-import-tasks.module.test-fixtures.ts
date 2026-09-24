@@ -1,4 +1,4 @@
-import { completionCardAddress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
+import { completionCardAddress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.test-fixtures.ts"
 import {
   applyCompletion,
   type CompletionOutcome,

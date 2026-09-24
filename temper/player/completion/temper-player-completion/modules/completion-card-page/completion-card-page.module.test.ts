@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
+import { completionCardOfPageSlug } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
 import {
   COMPLETION_CARD_PAGE_TYPE,
   completionCardAddress,
-  completionCardOfPageSlug,
   pageSlugOfCompletionCard,
-} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.test-fixtures.ts"
 import { charactersCadwellsAlmanac } from "akasha/temper/player/progress/temper-completion-category/pages/characters-cadwells-almanac.temper-completion-category.ts"
 
 test("a card's page is slugged as the tab holding that card joined to the card's name", () => {
@@ -26,7 +26,7 @@ test("a node hung beneath a card is no card, so neither answer reaches one", () 
   expect(completionCardOfPageSlug("characters-skill-points-skyshards")).toBeNull()
 })
 
-test("the address a page is named by is built here rather than spelled by a caller", () => {
+test("a card's address is the page type joined to the slug of the card's page", () => {
   expect(completionCardAddress("cadwells-almanac")).toBe(
     `${COMPLETION_CARD_PAGE_TYPE}/${charactersCadwellsAlmanac.slug}`
   )
