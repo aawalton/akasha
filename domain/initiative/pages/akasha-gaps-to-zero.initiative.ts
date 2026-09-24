@@ -26,6 +26,7 @@ export const akashaGapsToZero = {
     "The second run is taken with Alan, over the kept gaps, one at a time.",
     "Alan is given the page, the gap, one plain sentence saying what the gap is about, and one proposal.",
     "The proposal is stated in one line rather than asked as a question, so the last line is a proposal.",
+    "The gap is put on a line of its own opening with Gap in bold, and the proposal on the last line opening with Proposal in bold.",
     "The count resolved and the count left are said when a run ends.",
     "A gap is verified against the tree as it is now before it is put to Alan, and what was measured is said with it.",
     "A proposal to turn or delete a gap is taken as approved, and only a proposal to do work is put to Alan.",
