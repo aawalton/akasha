@@ -7,16 +7,12 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { readFor } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { typeIn } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const CHANGE_PAGE_PROPERTY =
   `${changeMechanicalFileContent.slug}/${changePagePageProperty.slug}` as const
 
 const TEXT_PROPERTY = "text-property"
-
-const PAGE_TYPE = "type"
-
-const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const AT = "at"
 
@@ -38,7 +34,7 @@ export async function changePagePropertyText(
 ): Promise<Answer> {
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no wording is stated anew`)
-  const pageTypeSlug = slugAt(read.value, PAGE_TYPE) ?? slugAt(read.value, PAGE_TYPE_SLUG)
+  const pageTypeSlug = typeIn(read.value)
   if (pageTypeSlug === null) {
     return refusing(`\`${given.at}\` states no page type, so \`${given.key}\` names no property`)
   }
