@@ -7,6 +7,7 @@ import {
   type HandoverGuardConfig,
   handoverGuard,
 } from "akasha/alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"
+import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
@@ -21,7 +22,6 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
-  useRouteLoaderData,
 } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/alan/atlas-web/look/alan-atlas-web-look.stylesheet.styles.css"
@@ -45,7 +45,7 @@ export async function loader({ request, context }: Route.LoaderArgs) {
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
-  const nonce = useRouteLoaderData<typeof loader>("root")?.nonce
+  const nonce = useDocumentNonce()
   useEffect(() => {
     setStoreDiagnosticsSink((d) =>
       reportError({
@@ -68,7 +68,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Meta />
         <Links />
         {}
-        <script src="/sidebar-boot.js" nonce={nonce} />
+        <script src="/sidebar-boot.js" nonce={nonce} suppressHydrationWarning />
       </head>
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>
