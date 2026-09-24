@@ -12,7 +12,7 @@ export const arianaGrandeDangerousWomanGreedy = {
   title: "Greedy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "greedy|66CXWjxzNUsdJxJ2JdwvnR|214880",
   song: "song/ariana-grande-greedy",
   carriedBy: [

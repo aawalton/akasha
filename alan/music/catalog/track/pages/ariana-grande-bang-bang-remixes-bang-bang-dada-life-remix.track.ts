@@ -13,10 +13,10 @@ export const arianaGrandeBangBangRemixesBangBangDadaLifeRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "2gsggkzM5R49q6jpPvazou", artistName: "Jessie J" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
-    { externalId: "00sAT5YX8W3xNd1EuqyHw9", artistName: "Dada Life" },
+    { artistName: "Jessie J" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Nicki Minaj" },
+    { artistName: "Dada Life" },
   ],
   trackKey:
     "bangbangdadaliferemix|00sAT5YX8W3xNd1EuqyHw9,0hCNtLu0JehylgoiP8L4Gh,2gsggkzM5R49q6jpPvazou,66CXWjxzNUsdJxJ2JdwvnR|214386",

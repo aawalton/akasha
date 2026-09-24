@@ -12,10 +12,7 @@ export const arianaGrandeBrandNewYouFrom13ALittleMoreHomeworkFeatGrahamPhillipsS
   title: "A Little More Homework (feat. Graham Phillips) - Single Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "7cx3SW07K49VaNuC71o4vj", artistName: "Graham Phillips" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Graham Phillips" }],
   trackKey:
     "alittlemorehomeworkfeatgrahamphillipssingleversion|66CXWjxzNUsdJxJ2JdwvnR,7cx3SW07K49VaNuC71o4vj|302733",
   song: "song/ariana-grande-a-little-more-homework",

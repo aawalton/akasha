@@ -12,7 +12,7 @@ export const arianaGrandeChristmasChillWitItThisChristmas = {
   title: "Wit It This Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "wititthischristmas|66CXWjxzNUsdJxJ2JdwvnR|161269",
   song: "song/ariana-grande-wit-it-this-christmas",
   carriedBy: [

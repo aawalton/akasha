@@ -12,7 +12,7 @@ export const arianaGrandeChristmasKissesLastChristmas = {
   title: "Last Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "lastchristmas|66CXWjxzNUsdJxJ2JdwvnR|203653",
   song: "song/taylor-swift-last-christmas",
   carriedBy: [

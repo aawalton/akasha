@@ -13,10 +13,10 @@ export const arianaGrandeBangBangRemixesBangBangSuperStylersRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "2gsggkzM5R49q6jpPvazou", artistName: "Jessie J" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
-    { externalId: "5XDGvLfZrbqMrKnPbWKoxI", artistName: "Superstylers" },
+    { artistName: "Jessie J" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Nicki Minaj" },
+    { artistName: "Superstylers" },
   ],
   trackKey:
     "bangbangsuperstylersremix|0hCNtLu0JehylgoiP8L4Gh,2gsggkzM5R49q6jpPvazou,5XDGvLfZrbqMrKnPbWKoxI,66CXWjxzNUsdJxJ2JdwvnR|213880",

@@ -12,10 +12,7 @@ export const arianaGrandeChristmasKissesSantaBaby = {
   title: "Santa Baby",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "7pLntWGInZPQxc4kXxzzjB", artistName: "Liz Gillies" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Liz Gillies" }],
   trackKey: "santababy|66CXWjxzNUsdJxJ2JdwvnR,7pLntWGInZPQxc4kXxzzjB|170933",
   song: "song/taylor-swift-santa-baby",
   carriedBy: [

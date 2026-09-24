@@ -15,7 +15,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
     title: "dandelion - a cappella",
     trackType: "a-cappella",
     explicit: false,
-    trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: "artist/ariana-grande" }],
     trackKey: "dandelionacappella|66CXWjxzNUsdJxJ2JdwvnR|163782",
     song: "song/ariana-grande-dandelion",
     carriedBy: [

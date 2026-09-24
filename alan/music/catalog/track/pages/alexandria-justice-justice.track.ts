@@ -12,7 +12,7 @@ export const alexandriaJusticeJustice = {
   title: "Justice",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
+  trackArtist: [{ artist: "artist/alexandria" }],
   trackKey: "justice|0SQG4wPVUlfbmbGQfqB47y|193373",
   song: "song/alexandria-justice",
   carriedBy: [

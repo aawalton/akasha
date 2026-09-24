@@ -15,7 +15,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionH
     title: "Hampstead - a cappella",
     trackType: "a-cappella",
     explicit: true,
-    trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: "artist/ariana-grande" }],
     trackKey: "hampsteadacappella|66CXWjxzNUsdJxJ2JdwvnR|206932",
     song: "song/ariana-grande-hampstead",
     carriedBy: [

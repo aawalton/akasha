@@ -12,10 +12,7 @@ export const alexandriaLustLust = {
   title: "Lust",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3HedFe4b2Nqeg1CEzmt6ZI", artistName: "Marino" },
-    { externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" },
-  ],
+  trackArtist: [{ artistName: "Marino" }, { artist: "artist/alexandria" }],
   trackKey: "lust|0SQG4wPVUlfbmbGQfqB47y,3HedFe4b2Nqeg1CEzmt6ZI|115294",
   song: "song/alexandria-lust",
   carriedBy: [

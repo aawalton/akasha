@@ -12,7 +12,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionThinkingBoutYou = 
   title: "Thinking Bout You",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "thinkingboutyou|66CXWjxzNUsdJxJ2JdwvnR|200383",
   song: "song/ariana-grande-thinking-bout-you",
   carriedBy: [

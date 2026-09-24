@@ -12,10 +12,7 @@ export const arianaGrandeDangerousWomanLetMeLoveYou = {
   title: "Let Me Love You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "55Aa2cqylxrFIXC767Z865", artistName: "Lil Wayne" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Lil Wayne" }],
   trackKey: "letmeloveyou|55Aa2cqylxrFIXC767Z865,66CXWjxzNUsdJxJ2JdwvnR|223880",
   song: "song/ariana-grande-let-me-love-you",
   carriedBy: [

@@ -12,10 +12,7 @@ export const arianaGrandeBreakFreeBreakFreeInstrumental = {
   title: "Break Free - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "2qxJFvFYMEDqd7ui6kSAcq", artistName: "Zedd" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Zedd" }],
   trackKey: "breakfreeinstrumental|2qxJFvFYMEDqd7ui6kSAcq,66CXWjxzNUsdJxJ2JdwvnR|214320",
   song: "song/ariana-grande-break-free",
   carriedBy: [

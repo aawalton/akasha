@@ -16,7 +16,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
     title: "true story - a cappella",
     trackType: "a-cappella",
     explicit: false,
-    trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: "artist/ariana-grande" }],
     trackKey: "truestoryacappella|66CXWjxzNUsdJxJ2JdwvnR|162087",
     song: "song/ariana-grande-true-story",
     carriedBy: [

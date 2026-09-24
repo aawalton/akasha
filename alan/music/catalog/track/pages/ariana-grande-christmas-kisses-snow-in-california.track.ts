@@ -12,7 +12,7 @@ export const arianaGrandeChristmasKissesSnowInCalifornia = {
   title: "Snow In California",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "snowincalifornia|66CXWjxzNUsdJxJ2JdwvnR|206373",
   song: "song/ariana-grande-snow-in-california",
   carriedBy: [

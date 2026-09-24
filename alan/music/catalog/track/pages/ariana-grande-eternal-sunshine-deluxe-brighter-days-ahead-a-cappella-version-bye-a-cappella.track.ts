@@ -14,7 +14,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionB
   title: "bye - a cappella",
   trackType: "a-cappella",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "byeacappella|66CXWjxzNUsdJxJ2JdwvnR|164391",
   song: "song/ariana-grande-bye",
   carriedBy: [

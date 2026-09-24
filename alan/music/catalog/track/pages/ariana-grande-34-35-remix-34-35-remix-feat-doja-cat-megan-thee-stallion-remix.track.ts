@@ -16,9 +16,9 @@ export const arianaGrande3435Remix3435RemixFeatDojaCatMeganTheeStallionRemix = {
   trackType: "remix",
   explicit: true,
   trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "5cj0lLjcoR7YOSnhnX0Po5", artistName: "Doja Cat" },
-    { externalId: "181bsRPaVXVlUKXrxwZfHK", artistName: "Megan Thee Stallion" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Doja Cat" },
+    { artistName: "Megan Thee Stallion" },
   ],
   trackKey:
     "3435remixfeatdojacatmegantheestallionremix|181bsRPaVXVlUKXrxwZfHK,5cj0lLjcoR7YOSnhnX0Po5,66CXWjxzNUsdJxJ2JdwvnR|182437",

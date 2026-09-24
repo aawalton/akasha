@@ -12,7 +12,7 @@ export const arianaGrandeDangerousWomanStepOnUp = {
   title: "Step On Up",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "steponup|66CXWjxzNUsdJxJ2JdwvnR|180853",
   song: "song/ariana-grande-step-on-up",
   carriedBy: [

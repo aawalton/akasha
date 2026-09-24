@@ -12,7 +12,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionTouchIt = {
   title: "Touch It",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "touchit|66CXWjxzNUsdJxJ2JdwvnR|260006",
   song: "song/ariana-grande-touch-it",
   carriedBy: [

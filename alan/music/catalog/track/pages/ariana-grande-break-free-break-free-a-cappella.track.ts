@@ -12,7 +12,7 @@ export const arianaGrandeBreakFreeBreakFreeACappella = {
   title: "Break Free - A Cappella",
   trackType: "a-cappella",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "breakfreeacappella|66CXWjxzNUsdJxJ2JdwvnR|203028",
   song: "song/ariana-grande-break-free",
   carriedBy: [

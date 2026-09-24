@@ -15,7 +15,7 @@ export const arianaGrandeDangerousWomanSometimes = {
   title: "Sometimes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "sometimes|66CXWjxzNUsdJxJ2JdwvnR|226666",
   song: "song/ariana-grande-sometimes",
   carriedBy: [

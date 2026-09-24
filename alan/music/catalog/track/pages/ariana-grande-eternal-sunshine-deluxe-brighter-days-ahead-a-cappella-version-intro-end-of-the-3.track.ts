@@ -14,7 +14,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionI
   title: "intro (end of the world) - a cappella",
   trackType: "a-cappella",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "introendoftheworldacappella|66CXWjxzNUsdJxJ2JdwvnR|73497",
   song: "song/ariana-grande-intro-end-of-the-world",
   carriedBy: [

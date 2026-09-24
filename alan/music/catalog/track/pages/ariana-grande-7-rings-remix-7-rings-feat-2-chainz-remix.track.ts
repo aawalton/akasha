@@ -12,10 +12,7 @@ export const arianaGrande7RingsRemix7RingsFeat2ChainzRemix = {
   title: "7 rings (feat. 2 Chainz) - Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "17lzZA2AlOHwCwFALHttmp", artistName: "2 Chainz" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "2 Chainz" }],
   trackKey: "7ringsfeat2chainzremix|17lzZA2AlOHwCwFALHttmp,66CXWjxzNUsdJxJ2JdwvnR|178640",
   song: "song/ariana-grande-7-rings",
   carriedBy: [

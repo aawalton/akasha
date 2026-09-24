@@ -15,7 +15,7 @@ export const arianaGrandeDangerousWomanKnewBetterForeverBoy = {
   title: "Knew Better / Forever Boy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "knewbetterforeverboy|66CXWjxzNUsdJxJ2JdwvnR|299213",
   song: "song/ariana-grande-knew-better-forever-boy",
   carriedBy: [

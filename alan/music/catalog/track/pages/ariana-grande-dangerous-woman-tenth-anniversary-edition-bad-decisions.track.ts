@@ -13,7 +13,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionBadDecisions = {
   title: "Bad Decisions",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "baddecisions|66CXWjxzNUsdJxJ2JdwvnR|226420",
   song: "song/ariana-grande-bad-decisions",
   carriedBy: [

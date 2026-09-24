@@ -12,10 +12,7 @@ export const arianaGrandeAHandForMrsClausAHandForMrsClaus = {
   title: "A Hand For Mrs. Claus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "73Np75Wv2tju61Eo9Zw4IR", artistName: "Idina Menzel" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artistName: "Idina Menzel" }, { artist: "artist/ariana-grande" }],
   trackKey: "ahandformrsclaus|66CXWjxzNUsdJxJ2JdwvnR,73Np75Wv2tju61Eo9Zw4IR|149040",
   song: "song/ariana-grande-a-hand-for-mrs-claus",
   carriedBy: [

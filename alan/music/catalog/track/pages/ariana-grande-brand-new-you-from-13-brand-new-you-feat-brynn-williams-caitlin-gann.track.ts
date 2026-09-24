@@ -13,9 +13,9 @@ export const arianaGrandeBrandNewYouFrom13BrandNewYouFeatBrynnWilliamsCaitlinGan
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "1hnnj2WandO6I4kQCqS3ct", artistName: "Brynn Williams" },
-    { externalId: "5Wy5gqWzDpWspwIYLokJY5", artistName: "Caitlin Gann" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Brynn Williams" },
+    { artistName: "Caitlin Gann" },
   ],
   trackKey:
     "brandnewyoufeatbrynnwilliamscaitlingann|1hnnj2WandO6I4kQCqS3ct,5Wy5gqWzDpWspwIYLokJY5,66CXWjxzNUsdJxJ2JdwvnR|188093",

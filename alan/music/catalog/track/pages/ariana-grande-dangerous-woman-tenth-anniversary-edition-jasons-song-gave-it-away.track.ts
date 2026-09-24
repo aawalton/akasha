@@ -12,7 +12,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionJasonsSongGaveItAw
   title: "Jason's Song (Gave It Away)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "jasonssonggaveitaway|66CXWjxzNUsdJxJ2JdwvnR|264626",
   song: "song/ariana-grande-jasons-song-gave-it-away",
   carriedBy: [

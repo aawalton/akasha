@@ -15,7 +15,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionT
   title: "twilight zone - a cappella",
   trackType: "a-cappella",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "twilightzoneacappella|66CXWjxzNUsdJxJ2JdwvnR|181653",
   song: "song/ariana-grande-twilight-zone",
   carriedBy: [

@@ -12,10 +12,7 @@ export const arianaGrandeDieForYouRemixDieForYouRemix = {
   title: "Die For You - Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xyo4u8uXC1ZmMpatF05PJ", artistName: "The Weeknd" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artistName: "The Weeknd" }, { artist: "artist/ariana-grande" }],
   trackKey: "dieforyouremix|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|232857",
   song: "song/ariana-grande-die-for-you",
   carriedBy: [

@@ -12,7 +12,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionIDontCare = {
   title: "I Don't Care",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "idontcare|66CXWjxzNUsdJxJ2JdwvnR|178032",
   song: "song/ariana-grande-i-don-t-care",
   carriedBy: [

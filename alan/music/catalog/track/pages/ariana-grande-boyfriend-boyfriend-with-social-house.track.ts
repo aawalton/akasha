@@ -12,10 +12,7 @@ export const arianaGrandeBoyfriendBoyfriendWithSocialHouse = {
   title: "boyfriend (with Social House)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "5UjifI1TYefXWn9GdqDOHl", artistName: "Social House" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Social House" }],
   trackKey: "boyfriendwithsocialhouse|5UjifI1TYefXWn9GdqDOHl,66CXWjxzNUsdJxJ2JdwvnR|186106",
   song: "song/ariana-grande-boyfriend",
   carriedBy: [

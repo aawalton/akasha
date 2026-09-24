@@ -12,7 +12,7 @@ export const alexandriaPixiePixie = {
   title: "Pixie",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
+  trackArtist: [{ artist: "artist/alexandria" }],
   trackKey: "pixie|0SQG4wPVUlfbmbGQfqB47y|208888",
   song: "song/alexandria-pixie",
   carriedBy: [

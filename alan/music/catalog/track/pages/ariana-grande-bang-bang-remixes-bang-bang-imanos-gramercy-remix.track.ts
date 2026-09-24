@@ -13,11 +13,11 @@ export const arianaGrandeBangBangRemixesBangBangImanosGramercyRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "2gsggkzM5R49q6jpPvazou", artistName: "Jessie J" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
-    { externalId: "26fsavNxrXVdRK7wL3jZKb", artistName: "Imanos" },
-    { externalId: "6sTJFsZUkAAeoyLOlXkSof", artistName: "Gramercy" },
+    { artistName: "Jessie J" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Nicki Minaj" },
+    { artistName: "Imanos" },
+    { artistName: "Gramercy" },
   ],
   trackKey:
     "bangbangimanosgramercyremix|0hCNtLu0JehylgoiP8L4Gh,26fsavNxrXVdRK7wL3jZKb,2gsggkzM5R49q6jpPvazou,66CXWjxzNUsdJxJ2JdwvnR,6sTJFsZUkAAeoyLOlXkSof|224680",

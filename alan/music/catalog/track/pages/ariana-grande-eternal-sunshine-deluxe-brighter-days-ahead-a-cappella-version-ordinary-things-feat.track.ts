@@ -20,10 +20,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionO
     title: "ordinary things (feat. Nonna)",
     trackType: "studio",
     explicit: false,
-    trackArtist: [
-      { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-      { externalId: "6maPmKkdwM4eyhz5O4lbkP", artistName: "Nonna" },
-    ],
+    trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Nonna" }],
     trackKey: "ordinarythingsfeatnonna|66CXWjxzNUsdJxJ2JdwvnR,6maPmKkdwM4eyhz5O4lbkP|168500",
     song: "song/ariana-grande-ordinary-things",
     carriedBy: [

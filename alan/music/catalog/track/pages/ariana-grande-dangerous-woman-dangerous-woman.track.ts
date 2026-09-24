@@ -12,7 +12,7 @@ export const arianaGrandeDangerousWomanDangerousWoman = {
   title: "Dangerous Woman",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "dangerouswoman|66CXWjxzNUsdJxJ2JdwvnR|235946",
   song: "song/ariana-grande-dangerous-woman",
   carriedBy: [

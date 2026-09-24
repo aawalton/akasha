@@ -12,7 +12,7 @@ export const arianaGrandeDangerousWomanMoonlight = {
   title: "Moonlight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "moonlight|66CXWjxzNUsdJxJ2JdwvnR|202360",
   song: "song/ariana-grande-moonlight",
   carriedBy: [

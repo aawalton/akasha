@@ -12,7 +12,7 @@ export const arianaGrandeChristmasKissesLoveIsEverything = {
   title: "Love Is Everything",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "loveiseverything|66CXWjxzNUsdJxJ2JdwvnR|212786",
   song: "song/ariana-grande-love-is-everything",
   carriedBy: [

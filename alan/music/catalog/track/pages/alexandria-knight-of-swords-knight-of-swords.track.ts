@@ -12,7 +12,7 @@ export const alexandriaKnightOfSwordsKnightOfSwords = {
   title: "Knight of Swords",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
+  trackArtist: [{ artist: "artist/alexandria" }],
   trackKey: "knightofswords|0SQG4wPVUlfbmbGQfqB47y|159157",
   song: "song/alexandria-knight-of-swords",
   carriedBy: [

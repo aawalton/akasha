@@ -12,7 +12,7 @@ export const arianaGrandeChristmasChillNotJustOnChristmas = {
   title: "Not Just On Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "notjustonchristmas|66CXWjxzNUsdJxJ2JdwvnR|122746",
   song: "song/ariana-grande-not-just-on-christmas",
   carriedBy: [

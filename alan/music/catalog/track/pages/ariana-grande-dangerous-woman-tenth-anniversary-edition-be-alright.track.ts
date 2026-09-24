@@ -13,7 +13,7 @@ export const arianaGrandeDangerousWomanTenthAnniversaryEditionBeAlright = {
   title: "Be Alright",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "bealright|66CXWjxzNUsdJxJ2JdwvnR|179283",
   song: "song/ariana-grande-be-alright",
   carriedBy: [

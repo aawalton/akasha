@@ -14,7 +14,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionD
   title: "don't wanna break up again - a cappella",
   trackType: "a-cappella",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "dontwannabreakupagainacappella|66CXWjxzNUsdJxJ2JdwvnR|164598",
   song: "song/ariana-grande-don-t-wanna-break-up-again",
   carriedBy: [

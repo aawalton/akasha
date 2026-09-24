@@ -12,7 +12,7 @@ export const arianaGrandeChristmasChillIntro = {
   title: "Intro",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "intro|66CXWjxzNUsdJxJ2JdwvnR|65685",
   song: "song/ariana-grande-intro",
   carriedBy: [

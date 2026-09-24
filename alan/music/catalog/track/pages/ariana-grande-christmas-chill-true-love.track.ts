@@ -12,7 +12,7 @@ export const arianaGrandeChristmasChillTrueLove = {
   title: "True Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "truelove|66CXWjxzNUsdJxJ2JdwvnR|166237",
   song: "song/ariana-grande-true-love",
   carriedBy: [

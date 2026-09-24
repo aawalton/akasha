@@ -12,7 +12,7 @@ export const arianaGrandeChristmasChillWinterThings = {
   title: "Winter Things",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "winterthings|66CXWjxzNUsdJxJ2JdwvnR|158662",
   song: "song/ariana-grande-winter-things",
   carriedBy: [

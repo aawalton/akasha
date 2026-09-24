@@ -12,10 +12,7 @@ export const arianaGrandeDangerousWomanLeaveMeLonely = {
   title: "Leave Me Lonely",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4ylR3zwA0zaapAu94fktwa", artistName: "Macy Gray" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Macy Gray" }],
   trackKey: "leavemelonely|4ylR3zwA0zaapAu94fktwa,66CXWjxzNUsdJxJ2JdwvnR|229680",
   song: "song/ariana-grande-leave-me-lonely",
   carriedBy: [

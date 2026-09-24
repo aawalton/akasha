@@ -13,10 +13,10 @@ export const arianaGrandeBangBangRemixesBangBangKatKrazyRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "2gsggkzM5R49q6jpPvazou", artistName: "Jessie J" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
-    { externalId: "60PKQFvtGXaQWYfVixrrDk", artistName: "Kat Krazy" },
+    { artistName: "Jessie J" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Nicki Minaj" },
+    { artistName: "Kat Krazy" },
   ],
   trackKey:
     "bangbangkatkrazyremix|0hCNtLu0JehylgoiP8L4Gh,2gsggkzM5R49q6jpPvazou,60PKQFvtGXaQWYfVixrrDk,66CXWjxzNUsdJxJ2JdwvnR|237453",

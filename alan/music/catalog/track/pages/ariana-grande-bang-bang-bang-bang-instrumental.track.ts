@@ -13,9 +13,9 @@ export const arianaGrandeBangBangBangBangInstrumental = {
   trackType: "instrumental",
   explicit: false,
   trackArtist: [
-    { externalId: "2gsggkzM5R49q6jpPvazou", artistName: "Jessie J" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
+    { artistName: "Jessie J" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Nicki Minaj" },
   ],
   trackKey:
     "bangbanginstrumental|0hCNtLu0JehylgoiP8L4Gh,2gsggkzM5R49q6jpPvazou,66CXWjxzNUsdJxJ2JdwvnR|198363",

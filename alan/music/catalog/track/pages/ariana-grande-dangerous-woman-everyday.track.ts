@@ -12,10 +12,7 @@ export const arianaGrandeDangerousWomanEveryday = {
   title: "Everyday",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "1RyvyyTE3xzB2ZywiAwp0i", artistName: "Future" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Future" }],
   trackKey: "everyday|1RyvyyTE3xzB2ZywiAwp0i,66CXWjxzNUsdJxJ2JdwvnR|194840",
   song: "song/ariana-grande-everyday",
   carriedBy: [

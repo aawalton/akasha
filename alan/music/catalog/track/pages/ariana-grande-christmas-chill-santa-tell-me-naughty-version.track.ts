@@ -12,7 +12,7 @@ export const arianaGrandeChristmasChillSantaTellMeNaughtyVersion = {
   title: "Santa Tell Me - Naughty Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "santatellmenaughtyversion|66CXWjxzNUsdJxJ2JdwvnR|203493",
   song: "song/ariana-grande-santa-tell-me",
   carriedBy: [
