@@ -7,7 +7,10 @@ import {
   listedById,
   slugFoldersOf,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  partedIn,
+  uncommittedAt,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
   COMPUTED,
@@ -187,10 +190,8 @@ export type Planned = {
   readonly pages: ReadonlySet<string>
   readonly listed: ReadonlyMap<string, string>
   readonly read: readonly Heard[]
-  readonly keeping: ReadonlySet<string>
+  readonly keeping: ReadonlyMap<string, ReadonlySet<string>>
 }
-
-const UNCOMMITTED = ".uncommitted."
 
 function pagesOf(root: string, kind: string, slugs: ReadonlySet<string> | null): readonly Listed[] {
   if (slugs === null) return everyOfType(root, kind)
@@ -222,14 +223,18 @@ function readsFor(
   root: string,
   kind: string,
   slugs: ReadonlySet<string> | null,
-  keeping: Set<string>
+  keeping: Map<string, Set<string>>
 ): readonly Heard[] {
   const found: Heard[] = []
   for (const one of carriedFor(root, kind)) {
     if (one.pageTypeSlug !== COMPUTED) continue
     const page = listedAt(root, COMPUTED, one.pagePropertySlug)[0]
-    if (page === undefined) continue
-    keeping.add(dirname(join(root, page.path)))
+    const kept = page === undefined ? null : uncommittedAt(page.path)
+    if (page === undefined || kept === null) continue
+    const folder = dirname(join(root, kept))
+    const names = keeping.get(folder) ?? new Set<string>()
+    names.add(basename(kept))
+    keeping.set(folder, names)
     found.push(...heardOf(root, kind, slugs, keptIn(uncommittedIn(root, page.path))))
   }
   return found
@@ -239,7 +244,7 @@ export function plannedFor(root: string, helds: readonly Held[]): Planned {
   const pages = new Set<string>()
   const listed = new Map<string, string>()
   const read: Heard[] = []
-  const keeping = new Set<string>()
+  const keeping = new Map<string, Set<string>>()
   for (const held of helds) {
     for (const kind of held.kinds) {
       for (const one of pagesOf(root, kind, held.slugs)) pages.add(dirname(join(root, one.path)))
@@ -333,8 +338,8 @@ export function followingFor(root: string): Following {
         return undefined
       })
     }
-    for (const folder of planned.keeping) {
-      hear(folder, (name) => (name.includes(UNCOMMITTED) ? planSoon() : undefined))
+    for (const [folder, names] of planned.keeping) {
+      hear(folder, (name) => (names.has(name) ? planSoon() : undefined))
     }
     hearing = wanted
     for (const [folder, watcher] of watchers) {

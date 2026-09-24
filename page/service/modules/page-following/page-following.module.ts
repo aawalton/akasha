@@ -69,6 +69,10 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only the file a computed property keeps its reads in is heard for that.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "One page is pushed at most once in each half second, and its last change is never dropped.",
     },
