@@ -95,6 +95,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-item-category-tree","unique":null,"uniquePropertySlug":null,"slug":"item-category-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"item-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"element","unique":null,"uniquePropertySlug":null,"slug":"item-essence","propertySlug":"essence","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"place","unique":null,"uniquePropertySlug":null,"slug":"item-place","propertySlug":"place","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"item-slot","unique":null,"uniquePropertySlug":null,"slug":"item-slot","propertySlug":"slot","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story","unique":null,"uniquePropertySlug":null,"slug":"item-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-jewelry-slot","unique":null,"uniquePropertySlug":null,"slug":"jewelry-slot","propertySlug":"jewelry-slot","fileName":null,"folderName":null}
