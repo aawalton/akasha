@@ -180,19 +180,6 @@ export const designPlay = {
 
     {
       decisionKind: "decision-kind/gap",
-      statement: "Nothing here settles whether rules serve choices that matter or sit beside them.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Nothing here settles whether containing consequences and renewing choices are one line.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here says what an objective and a player's willingness ask of a design.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement: "No catalogue rates a mechanic by what that mechanic gives the whole game.",
     },
     {
