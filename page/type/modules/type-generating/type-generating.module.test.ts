@@ -22,7 +22,7 @@ import {
   OTHER,
   OWN,
 } from "akasha/page/type/modules/type-generating/type-generating.module.test-fixtures.ts"
-import { generateTypes } from "akasha/page/type/page-property/page-property.page-type.type-generator.ts"
+import { generateTypes } from "akasha/page/type/page-property/change-generators/typing/page-property-typing.change-generator.code.ts"
 
 const scratch = scratchWorld()
 

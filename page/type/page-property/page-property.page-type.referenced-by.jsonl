@@ -210,7 +210,6 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/holdings/temper-item-category-tree/properties/trait-type-range.number-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/holdings/temper-item-category-tree/properties/weapon-types.number-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/progress/thing/properties/completion-item-path.text-property.types.ts"}
-{"propertySlug":"import","fileName":"page-property.page-type.type-generator.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"alan/track/tracking-field/tracking-field.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/action-button-property/action-button-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.types.ts","path":"page/boolean-property/boolean-property.page-type.types.ts"}

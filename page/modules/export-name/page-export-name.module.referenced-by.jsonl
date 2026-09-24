@@ -77,7 +77,7 @@
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/service/modules/reads-keeping/reads-keeping.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
-{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
+{"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/type/page-property/change-generators/typing/page-property-typing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"page/view/modules/key-naming/key-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"}
 {"propertySlug":"import","fileName":"page-export-name.module.code.ts","path":"temper/watcher/image/temper-watcher-image.container-recipe.composing.code.ts"}

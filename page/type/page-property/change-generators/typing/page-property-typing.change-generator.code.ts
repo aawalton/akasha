@@ -15,6 +15,10 @@ import {
   keysFor,
   resolvingIn,
 } from "akasha/page/type/change-generators/typing/page-type-typing.change-generator.code.ts"
+import {
+  type Typed,
+  typedWith,
+} from "akasha/page/type/modules/type-generating/type-generating.module.code.ts"
 import { turnedBy } from "akasha/page/type/modules/type-turning/type-turning.module.code.ts"
 
 const PAGE_PROPERTY = "page-property"
@@ -266,6 +270,10 @@ function bodyFor(slug: string, written: Written, many: boolean, nothing: boolean
 
 export function couldTurn(change: Change): boolean {
   return turnedBy(change)
+}
+
+export function generateChange(change: Change): Typed {
+  return typedWith(change, "page-property-typing", generateTypes)
 }
 
 export function generateTypes(_root: string, shadow: Shadow): readonly Adding[] {

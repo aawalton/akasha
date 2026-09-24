@@ -13,6 +13,7 @@ export const pageProperty = {
     "boolean-property/nullable",
     "boolean-property/quoted",
     "boolean-property/runs-file-length",
+    "change-generator/page-property-typing",
     "module/property-shape",
     "number-property/max-count",
     "number-property/max-length",
@@ -116,7 +117,7 @@ export const pageProperty = {
       statement: "No list is offered for typing where one badge an item is shown.",
     },
   ],
-  typeGenerator: "ts",
+
   types: "ts",
   schema: "jsonl",
   spellings: [

@@ -5,7 +5,7 @@
 {"propertySlug":"import","fileName":"id.text-property.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"id.text-property.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"id.text-property.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}
-{"propertySlug":"import","fileName":"id.text-property.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}
+{"propertySlug":"import","fileName":"id.text-property.ts","path":"page/type/page-property/change-generators/typing/page-property-typing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"agent/model/test/properties/cases.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"alan/car-research/car-make/properties/trims.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"id.text-property.types.ts","path":"alan/chess/puzzle-set/properties/puzzles.page-property-entry.types.ts"}
