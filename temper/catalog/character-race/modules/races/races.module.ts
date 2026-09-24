@@ -15,10 +15,6 @@ export const races = {
       decisionKind: "decision-kind/constraint",
       statement: "A race's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A race moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["RACE_DATA"],
 } as const satisfies Module
