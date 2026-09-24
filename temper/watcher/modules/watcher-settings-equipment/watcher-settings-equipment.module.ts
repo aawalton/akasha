@@ -22,6 +22,14 @@ export const watcherSettingsEquipment = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A companion row is read by the companion id its companion page address names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion row naming no companion the catalogue knows is left out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A build page absent leaves the character with no target build hash.",
     },
     {

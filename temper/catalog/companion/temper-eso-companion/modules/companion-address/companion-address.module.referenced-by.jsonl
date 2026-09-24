@@ -1,4 +1,8 @@
 {"propertySlug":"import","fileName":"companion-address.module.code.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.test.ts"}
+{"propertySlug":"import","fileName":"companion-address.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-address.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.test.ts"}
 {"propertySlug":"import","fileName":"companion-address.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"companion-address.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-address.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"}
+{"propertySlug":"import","fileName":"companion-address.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.test.ts"}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts","id":"01a05fcf-2466-7bcb-9ec1-3f0fd467d879"}

@@ -15,6 +15,15 @@ export const watcherExportCompanionBuilds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A progress page's companion is read off the address of the companion's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A companion left out as unknown is named by the address its progress page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A companion no in-game id is known for is left out rather than refusing the whole export.",
     },

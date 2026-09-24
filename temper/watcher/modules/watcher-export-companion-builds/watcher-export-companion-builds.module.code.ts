@@ -1,10 +1,8 @@
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import {
-  companions,
-  getDefIdByCompanionId,
-} from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { getDefIdByCompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { companionIdIn } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import type { CompanionsConfigFileInputs } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 import {
@@ -140,9 +138,9 @@ async function companionTargetOf(
   row: Page,
   surroundings: CompanionBuildsSurroundings
 ): Promise<CompanionTarget | null> {
-  const companionId = row.companionId
+  const address = row.companionId
   const targetBuildId = row.targetBuildId
-  if (typeof companionId !== "string") return null
+  if (typeof address !== "string") return null
   if (typeof targetBuildId !== "string") return null
 
   const build = await surroundings.buildPage(targetBuildId)
@@ -150,9 +148,10 @@ async function companionTargetOf(
   const buildHash = build.buildHash
   if (typeof buildHash !== "string") return null
 
-  if (!companions.has(companionId)) {
+  const companionId = companionIdIn(address)
+  if (companionId === undefined) {
     surroundings.noteError(
-      `no companion is known by the id ${companionId}, so its target build is left out`
+      `no companion is known by the address ${address}, so its target build is left out`
     )
     return null
   }

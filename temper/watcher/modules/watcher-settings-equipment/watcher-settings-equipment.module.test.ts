@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
+import { companionAddressOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
+import { bastian } from "akasha/temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts"
+import { mirri } from "akasha/temper/catalog/companion/temper-eso-companion/pages/mirri/mirri.temper-eso-companion.ts"
 import type {
   PageAsk,
   PageReader,
@@ -40,8 +43,24 @@ const ROWS: Record<string, PageValues[]> = {
     { id: "b2", buildHash: "not-a-real-hash" },
   ],
   [COMPANION_PAGE_TYPE_SLUG]: [
-    { companionId: "bastian", accountPage: "u1", displayOrder: 2, targetBuildId: "cb1" },
-    { companionId: "mirri", accountPage: "u1", displayOrder: 1, targetBuildId: "cb-missing" },
+    {
+      companionId: companionAddressOf(bastian.slug),
+      accountPage: "u1",
+      displayOrder: 2,
+      targetBuildId: "cb1",
+    },
+    {
+      companionId: companionAddressOf(mirri.slug),
+      accountPage: "u1",
+      displayOrder: 1,
+      targetBuildId: "cb-missing",
+    },
+    {
+      companionId: companionAddressOf("nobody"),
+      accountPage: "u1",
+      displayOrder: 0,
+      targetBuildId: "cb1",
+    },
   ],
   [COMPANION_BUILD_PAGE_TYPE_SLUG]: [{ id: "cb1", buildHash: COMPANION_BUILD_HASH }],
 }
@@ -168,6 +187,12 @@ test("a companion's target build yields the gear that build wants", async () => 
     { companionName: "Bastian Hallix", equipType: 2, traitType: 58, quality: 5 },
     { companionName: "Bastian Hallix", equipType: 5, traitType: 36, quality: 5, weaponType: 3 },
   ])
+})
+
+test("a companion row whose address names no companion the catalogue knows is left out", async () => {
+  const { reader } = reading()
+  const signatures = await compileWantedCompanionEquipment("u1", COMPANIONS_ON, reader)
+  expect(signatures.every((s) => s.companionName === bastian.title)).toBe(true)
 })
 
 test("one build page is read once however many characters name that build", async () => {

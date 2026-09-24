@@ -2,6 +2,7 @@ import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/par
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
+import { companionIdIn } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import type {
   WantedCompanionEquipmentSignature,
   WantedEquipmentSignature,
@@ -115,7 +116,8 @@ async function readCompanionRows(accountPage: string, reader: PageReader): Promi
 
   const named: CompanionRow[] = []
   for (const row of rows) {
-    const companionId = textOf(row.companionId)
+    const address = textOf(row.companionId)
+    const companionId = address === undefined ? undefined : companionIdIn(address)
     if (companionId === undefined) continue
     named.push({
       companionId,
