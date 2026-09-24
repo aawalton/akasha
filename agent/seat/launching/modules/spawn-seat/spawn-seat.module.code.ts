@@ -10,18 +10,18 @@ import {
   launchSeatUnderTmux,
 } from "akasha/agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
+import { refuseParentless } from "akasha/agent/seat/launching/modules/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
+import {
+  decideSkillTokenGuard,
+  DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
+} from "akasha/agent/seat/launching/modules/skill-token-guard/skill-token-guard.module.code.ts"
+import { mintNamedAgent } from "akasha/agent/seat/name/modules/bind/seat-name-bind.module.code.ts"
 import {
   FLEET,
   personaDefaultsOf,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
+import { refuseHeldName } from "akasha/agent/seat/name/modules/held-refusal/seat-name-held-refusal.module.code.ts"
 import { composedNameOf } from "akasha/agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"
-import { mintNamedAgent } from "akasha/agent/seat/start-guard/modules/seat-name-bind/seat-name-bind.module.code.ts"
-import { refuseHeldName } from "akasha/agent/seat/start-guard/modules/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"
-import { refuseParentless } from "akasha/agent/seat/start-guard/modules/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
-import {
-  decideSkillTokenGuard,
-  DECLARING_MODULE as SKILL_TOKEN_GUARD_DECLARING,
-} from "akasha/agent/seat/start-guard/modules/skill-token-guard/skill-token-guard.module.code.ts"
 import {
   dataError,
   inputError,

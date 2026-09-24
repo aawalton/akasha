@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"proc-reading.module.code.ts","path":"agent/seat/start-guard/modules/seat-name-claim/seat-name-claim.module.code.ts"}
+{"propertySlug":"import","fileName":"proc-reading.module.code.ts","path":"agent/seat/name/modules/claim/seat-name-claim.module.code.ts"}
 {"propertySlug":"import","fileName":"proc-reading.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.code.ts"}
 {"propertySlug":"import","fileName":"proc-reading.module.code.ts","path":"code/process/modules/proc-environ/proc-environ.module.code.ts"}
 {"propertySlug":"import","fileName":"proc-reading.module.code.ts","path":"code/process/modules/proc-reading/proc-reading.module.test.ts"}

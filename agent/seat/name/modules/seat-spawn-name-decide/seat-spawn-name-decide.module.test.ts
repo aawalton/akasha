@@ -3,7 +3,7 @@ import {
   compositionOf,
   decideSpawnName,
   type SeatNameComposition,
-} from "akasha/agent/seat/start-guard/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
+} from "akasha/agent/seat/name/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.code.ts"
 
 test("a name that was spelled is a composition", () => {
   expect(compositionOf({ spelled: "akasha-worker", role: "worker", roleIsDefault: false })).toEqual(

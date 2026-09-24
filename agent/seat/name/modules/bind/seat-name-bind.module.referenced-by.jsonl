@@ -3,4 +3,4 @@
 {"propertySlug":"import","fileName":"seat-name-bind.module.code.ts","path":"agent/seat/name/modules/restate/seat-name-restate.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-name-bind.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-name-bind.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/run-supervisor/run-supervisor.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/start-guard/seat-start-guard.domain.ts","id":"01a09c46-7450-76f1-bb55-13db5f6c98fd"}
+{"propertySlug":"parts","path":"agent/seat/name/seat-name.domain.ts","id":"01a09c43-0bf5-7991-a2dc-650268201505"}

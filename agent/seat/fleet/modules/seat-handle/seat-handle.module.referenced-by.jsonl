@@ -1,10 +1,10 @@
 {"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"agent/seat/launching/modules/spawn-seat/spawn-seat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"agent/seat/name/modules/bind/seat-name-bind.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"agent/seat/name/modules/restate/seat-name-restate.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"agent/seat/start-guard/modules/seat-name-bind/seat-name-bind.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.code.ts"}
 {"propertySlug":"import","fileName":"seat-handle.module.code.ts","path":"command/pages/model/gateway/swap/model-gateway-swap.command.test.ts"}
 {"propertySlug":"parts","path":"agent/seat/fleet/seat-fleet.domain.ts","id":"01a09c4c-951f-79d4-a631-988b1c54b8eb"}

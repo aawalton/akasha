@@ -6,7 +6,7 @@ import {
   type Claiming,
   claimed,
   nameShaped,
-} from "akasha/agent/seat/start-guard/modules/seat-name-claim/seat-name-claim.module.code.ts"
+} from "akasha/agent/seat/name/modules/claim/seat-name-claim.module.code.ts"
 
 function asking(over: Partial<Claiming> = {}): Claiming {
   return {

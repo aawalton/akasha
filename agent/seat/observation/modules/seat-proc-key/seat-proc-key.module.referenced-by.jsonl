@@ -4,14 +4,14 @@
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/name/modules/agent-name-bind/agent-name-bind.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/name/modules/held-refusal/seat-name-held-refusal.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/name/modules/spawn-guard/spawn-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.test.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/start-guard/modules/agent-name-bind/agent-name-bind.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/start-guard/modules/seat-name-held-refusal/seat-name-held-refusal.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/start-guard/modules/spawn-guard/spawn-guard.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"}

@@ -149,6 +149,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.ts","id":"01a08b87-db08-7b4d-8019-f88e7fd39f19"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/modules/seat-grouping/seat-grouping.module.ts","id":"01a09320-5e3c-7f72-9939-3532cd8aac0f"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/modules/seat-modes/seat-modes.module.ts","id":"01a06867-7fc9-7001-ab42-25809f0fc7df"}
+{"propertySlug":"decision-kind","path":"agent/seat/launching/modules/seat-stated-parent-refusal/seat-stated-parent-refusal.module.ts","id":"01a0686d-9d5e-7013-b269-67c3e7b3038a"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/seat-launching.module.ts","id":"01a05d8f-50d9-7000-8a2a-2bc819c63d01"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.ts","id":"01a06a06-5c03-75e8-ac45-a622024f1f89"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
@@ -158,7 +159,10 @@
 {"propertySlug":"decision-kind","path":"agent/seat/modules/akasha-beside/seat-akasha-beside.module.ts","id":"01a06949-b281-7399-94cc-8935c2846c1f"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/reading/seat-reading.module.ts","id":"01a05850-0f6a-7ed4-b9e5-6868da68bd0c"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/tmux-session/tmux-session.module.ts","id":"01a0c9ed-0747-74e1-adb1-380621bd6c5d"}
+{"propertySlug":"decision-kind","path":"agent/seat/name/modules/claim/seat-name-claim.module.ts","id":"01a05ded-fa5d-7000-b57d-b4a2a894e5e6"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.ts","id":"01a0a5b3-3d06-776e-aea8-407ef8b05e0a"}
+{"propertySlug":"decision-kind","path":"agent/seat/name/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.ts","id":"01a0686d-9d5e-7011-9662-a35bf698b8f6"}
+{"propertySlug":"decision-kind","path":"agent/seat/name/modules/seat-stated-name-refusal/seat-stated-name-refusal.module.ts","id":"01a0686d-9d5e-7012-94c3-843ea0bdf815"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.ts","id":"01a06964-d998-7c3e-8f55-91ff918f96ac"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.ts","id":"01a0687b-3c85-7000-b60f-9d7b8c037697"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.ts","id":"01a0691b-4f65-762a-b97c-48d97a317e76"}
@@ -173,10 +177,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/seat-reviving.domain.ts","id":"01a09c38-82db-7a28-8f18-09c4621a8dce"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"decision-kind","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.ts","id":"01a071f5-4e4d-79a8-aff6-911818ba3e7e"}
-{"propertySlug":"decision-kind","path":"agent/seat/start-guard/modules/seat-name-claim/seat-name-claim.module.ts","id":"01a05ded-fa5d-7000-b57d-b4a2a894e5e6"}
-{"propertySlug":"decision-kind","path":"agent/seat/start-guard/modules/seat-spawn-name-decide/seat-spawn-name-decide.module.ts","id":"01a0686d-9d5e-7011-9662-a35bf698b8f6"}
-{"propertySlug":"decision-kind","path":"agent/seat/start-guard/modules/seat-stated-name-refusal/seat-stated-name-refusal.module.ts","id":"01a0686d-9d5e-7012-94c3-843ea0bdf815"}
-{"propertySlug":"decision-kind","path":"agent/seat/start-guard/modules/seat-stated-parent-refusal/seat-stated-parent-refusal.module.ts","id":"01a0686d-9d5e-7013-b269-67c3e7b3038a"}
 {"propertySlug":"decision-kind","path":"agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.ts","id":"01a0b716-cdc8-7ec3-9c4a-8eb732595db3"}
 {"propertySlug":"decision-kind","path":"agent/seat/stopping/seat-stopping.module.ts","id":"01a05d02-889b-7880-9ab9-c72cdc79dc5c"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts","id":"01a06838-5a84-7003-a0ce-e7e92276f897"}

@@ -6,14 +6,21 @@ export const seatName = {
   slug: "seat-name",
   definition: "a seat's name",
   parts: [
+    "module/agent-name-bind",
     "module/compose-seat-name",
     "module/initiative-seat-name",
     "module/seat-flex",
+    "module/seat-name-bind",
+    "module/seat-name-claim",
+    "module/seat-name-held-refusal",
     "module/seat-name-restate",
     "module/seat-name-stands",
     "module/seat-nameable",
     "module/seat-rename",
     "module/seat-session-rename",
+    "module/seat-spawn-name-decide",
+    "module/seat-stated-name-refusal",
+    "module/spawn-guard",
   ],
   decisions: [
     {

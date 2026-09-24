@@ -61,5 +61,13 @@ export const seatReviving = {
       decisionKind: "decision-kind/departure",
       statement: "A seat that comes back that way keeps the id and the session it had.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name already on the seat's row is the name that seat comes back under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A revive is refused where the seat's row names that seat nothing.",
+    },
   ],
 } as const satisfies Domain

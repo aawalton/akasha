@@ -1,14 +1,14 @@
-import { agentHolderProcess } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
-import {
-  parseSeatProcKey,
-  seatProcKeyPresence,
-} from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import {
   addressableByName,
   ancestorOfSelf,
   type Claiming,
   type Presence,
-} from "akasha/agent/seat/start-guard/modules/seat-name-claim/seat-name-claim.module.code.ts"
+} from "akasha/agent/seat/name/modules/claim/seat-name-claim.module.code.ts"
+import { agentHolderProcess } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
+import {
+  parseSeatProcKey,
+  seatProcKeyPresence,
+} from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 
 function isPriorHolderCallerSeat(priorHolderId: string): boolean {
   const stated = agentHolderProcess(priorHolderId)

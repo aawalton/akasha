@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { refuseParentless } from "akasha/agent/seat/start-guard/modules/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
+import { refuseParentless } from "akasha/agent/seat/launching/modules/seat-parentless-refusal/seat-parentless-refusal.module.code.ts"
 
 test("a fleet seat naming nobody above it is refused", () => {
   const said = refuseParentless(null, true)
