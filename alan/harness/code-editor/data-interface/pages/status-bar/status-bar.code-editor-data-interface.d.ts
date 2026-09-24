@@ -19,5 +19,4 @@ declare type StatusBarState = {
   readonly inbox: StatusBarStoplights | null
   readonly upkeep: StatusBarStoplights | null
   readonly attributes: StatusBarStoplights | null
-  readonly luck: StatusBarStoplights | null
 }

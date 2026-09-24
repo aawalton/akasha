@@ -125,9 +125,9 @@ function stoplightsByGroup(
 
 function sectionOf(
   held: ReadonlyMap<string, readonly Stoplight[]>,
-  groupSlug: string
+  groupSlugs: readonly string[]
 ): StatusBarStoplights | null {
-  const stoplights = held.get(groupSlug) ?? []
+  const stoplights = groupSlugs.flatMap((groupSlug) => held.get(groupSlug) ?? [])
   if (stoplights.length === 0) return null
   return { glyphs: glyphsOf(stoplights), legend: legendOf(stoplights) }
 }
@@ -159,9 +159,8 @@ export function statusBarLine(root: string): string {
   return JSON.stringify({
     workstation: workstationNow(rows),
     usage: usageNow(),
-    inbox: sectionOf(held, INBOX_GROUP),
-    upkeep: sectionOf(held, UPKEEP_GROUP),
-    attributes: sectionOf(held, ATTRIBUTES_GROUP),
-    luck: sectionOf(held, LUCK_GROUP),
+    inbox: sectionOf(held, [INBOX_GROUP]),
+    upkeep: sectionOf(held, [UPKEEP_GROUP]),
+    attributes: sectionOf(held, [ATTRIBUTES_GROUP, LUCK_GROUP]),
   } satisfies StatusBarState)
 }

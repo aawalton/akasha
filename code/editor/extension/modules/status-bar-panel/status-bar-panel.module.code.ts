@@ -76,7 +76,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     inbox: undefined,
     upkeep: undefined,
     attributes: undefined,
-    luck: undefined,
     usage: undefined,
     workstation: undefined,
   }
@@ -88,7 +87,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       inbox: sectionOf(held.inbox?.glyphs),
       upkeep: sectionOf(held.upkeep?.glyphs),
       attributes: sectionOf(held.attributes?.glyphs),
-      luck: sectionOf(held.luck?.glyphs),
       usage: sectionOf<UsageReading>(held.usage),
       workstation: sectionOf<WorkstationReading>(held.workstation),
     }
@@ -96,7 +94,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       inbox: legendKept(held.inbox, legends.inbox),
       upkeep: legendKept(held.upkeep, legends.upkeep),
       attributes: legendKept(held.attributes, legends.attributes),
-      luck: legendKept(held.luck, legends.luck),
     }
     const reads = settleReads(outcomes, freshAts, Date.now())
     applyToItems(items, reads, legends)
@@ -104,7 +101,6 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       inbox: reads.inbox.lastFreshAt,
       upkeep: reads.upkeep.lastFreshAt,
       attributes: reads.attributes.lastFreshAt,
-      luck: reads.luck.lastFreshAt,
       usage: reads.usage.lastFreshAt,
       workstation: reads.workstation.lastFreshAt,
     }
@@ -147,9 +143,7 @@ function logRefresh(trigger: string, outcomes: ReadOutcomes): undefined {
   if (outcomes.attributes.status === "rejected") {
     failures.push(`attributes: ${String(outcomes.attributes.reason)}`)
   }
-  if (outcomes.luck.status === "rejected") {
-    failures.push(`luck: ${String(outcomes.luck.reason)}`)
-  }
+
   if (outcomes.usage.status === "rejected") {
     failures.push(`usage: ${String(outcomes.usage.reason)}`)
   }

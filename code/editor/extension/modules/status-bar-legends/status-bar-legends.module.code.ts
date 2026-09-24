@@ -6,5 +6,4 @@ export const NO_LEGENDS: StoplightLegends = {
   inbox: undefined,
   upkeep: undefined,
   attributes: undefined,
-  luck: undefined,
 }

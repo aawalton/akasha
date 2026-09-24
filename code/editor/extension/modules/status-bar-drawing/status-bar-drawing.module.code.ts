@@ -15,7 +15,6 @@ export type SettledReads = {
   readonly inbox: SectionResult<string>
   readonly upkeep: SectionResult<string>
   readonly attributes: SectionResult<string>
-  readonly luck: SectionResult<string>
   readonly usage: SectionResult<UsageReading>
   readonly workstation: SectionResult<WorkstationReading>
 }
@@ -24,7 +23,6 @@ export type ReadOutcomes = {
   readonly inbox: PromiseSettledResult<string>
   readonly upkeep: PromiseSettledResult<string>
   readonly attributes: PromiseSettledResult<string>
-  readonly luck: PromiseSettledResult<string>
   readonly usage: PromiseSettledResult<UsageReading>
   readonly workstation: PromiseSettledResult<WorkstationReading>
 }
@@ -33,7 +31,6 @@ export type FreshAts = {
   readonly inbox: number | undefined
   readonly upkeep: number | undefined
   readonly attributes: number | undefined
-  readonly luck: number | undefined
   readonly usage: number | undefined
   readonly workstation: number | undefined
 }
@@ -59,7 +56,6 @@ export function settleReads(outcomes: ReadOutcomes, prev: FreshAts, now: number)
     inbox: settleSection(outcomes.inbox, prev.inbox, now),
     upkeep: settleSection(outcomes.upkeep, prev.upkeep, now),
     attributes: settleSection(outcomes.attributes, prev.attributes, now),
-    luck: settleSection(outcomes.luck, prev.luck, now),
     usage: settleSection(outcomes.usage, prev.usage, now),
     workstation: settleSection(outcomes.workstation, prev.workstation, now),
   }
