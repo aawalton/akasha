@@ -14,15 +14,7 @@ import { ARCHIVE_OF_WORLDS_SITE } from "akasha/product/archive-of-worlds/web/mod
 import { NavCommands } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-nav-command/archive-of-worlds-nav-command.module.code.tsx"
 import type React from "react"
 import { useEffect } from "react"
-import {
-  data,
-  isRouteErrorResponse,
-  Links,
-  Meta,
-  Outlet,
-  Scripts,
-  ScrollRestoration,
-} from "react-router"
+import { isRouteErrorResponse, Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/product/archive-of-worlds/web/look/archive-of-worlds-web-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
@@ -38,10 +30,8 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "Archive of Worlds" },
 ]
 
-export async function loader({ request, context }: Route.LoaderArgs) {
-  const bounce = await handoverGuard(ARCHIVE_OF_WORLDS_SITE, request, GUARD)
-  if (bounce !== null) return bounce
-  return data({ nonce: context.nonce })
+export function loader({ request }: Route.LoaderArgs) {
+  return handoverGuard(ARCHIVE_OF_WORLDS_SITE, request, GUARD)
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
