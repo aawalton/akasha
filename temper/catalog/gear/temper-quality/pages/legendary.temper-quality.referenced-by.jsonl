@@ -69,9 +69,13 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-physical-harm/grades/jewelry-enchant-increase-physical-harm-legendary-power-spell.temper-gear-grade.ts","id":"01a0d3ea-1c3e-7d69-86a5-94f5d2c68431"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-physical-harm/grades/jewelry-enchant-increase-physical-harm-legendary-power-weapon.temper-gear-grade.ts","id":"01a0d3ea-127b-7214-8112-86597d7922dc"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-physical-harm/increase-physical-harm.temper-jewelry-enchant.ts","id":"019e5c85-d93e-7184-bf02-d3098e13d12b"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/magicka-recovery/grades/jewelry-enchant-magicka-recovery-legendary.temper-gear-grade.ts","id":"01a0d3ea-704e-78ab-87ad-640b51fdbfd5"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/magicka-recovery/magicka-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d944-7808-a7cb-6ef7ac7b95ee"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/poison-resist/grades/jewelry-enchant-poison-resist-legendary.temper-gear-grade.ts","id":"01a0d3ea-a41f-72e6-97e7-f527f9d9f39d"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/poison-resist/poison-resist.temper-jewelry-enchant.ts","id":"019e5c85-d956-7d2f-891d-0d40261fddf5"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/potion-boost/grades/jewelry-enchant-potion-boost-legendary.temper-gear-grade.ts","id":"01a0d3ea-d862-7482-9728-341e7813ce9c"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/potion-boost/potion-boost.temper-jewelry-enchant.ts","id":"019e5c85-d962-7c52-8074-8d27ca9e6822"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/potion-speed/grades/jewelry-enchant-potion-speed-legendary.temper-gear-grade.ts","id":"01a0d3eb-0dba-7453-976d-f4593b1a4aab"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/potion-speed/potion-speed.temper-jewelry-enchant.ts","id":"019e5c85-d964-7132-a7c6-9891932a6a78"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/prismatic-recovery/prismatic-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d94b-7840-9864-0746ea707834"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/reduce-feat-cost/reduce-feat-cost.temper-jewelry-enchant.ts","id":"019e5c85-d94f-717a-b384-c3148481347b"}
