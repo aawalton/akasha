@@ -1,0 +1,11 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const message0ba432b0acff = {
+  id: "01a0d58d-57b0-7000-b257-0ba432b0acff",
+  type: "page-type/agent-message",
+  slug: "message-0ba432b0acff",
+  to: "seat/alan",
+  from: "audit-running",
+  warrant: "announce",
+  body: "a run at 0356bc2161417fc2bb1dcee9535a3189b7c9041d over 1 check asked for by name found 1 check newly refusing.\n`no-unparsed-boundary-read` refused 99 times:\n  code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.code.ts — line 63 reads across a boundary as `regex-capture` and no parse follows it in that block — const word = FIRST_WORD.exec(line)?.[0] ?? \"\" — parse ... (241 characters more)\n  code/shell/terminal/modules/terminal-bash/terminal-bash.module.test.ts — line 71 reads across a boundary as `regex-capture` and no parse follows it in that block — expect(said.match(/^\\s*trap .* EXIT$/gm)).toEqual([ — parse it with a zod va... (225 characters more)\n  code/shell/terminal/modules/terminal-ended/terminal-ended.module.test.ts — line 64 reads across a boundary as `regex-capture` and no parse follows it in that block — expect(trappedWith.match(/ EXIT$/gm)?.length).toBe(1) — parse it with a zo... (229 characters more)\n  page/query/modules/store-reaching/store-reaching.module.test.ts — line 31 reads across a boundary as `process-env` and no parse follows it in that block — const held = process.env.PAGE_STORE_ORIGIN — parse it with a zod validator's `.parse(... (207 characters more)\n  page/query/modules/store-writing/store-writing.module.test.ts — line 18 reads across a boundary as `json-parse` and no parse follows it in that block — held = { url, body: JSON.parse(String(init.body)) } — parse it with a zod validator's `.... (213 characters more)\nwhat each of them answered is on the newest row of the audit log beside that check's page. This was meant for `thea`, whom nothing could reach: no seat holds the name `thea`, so a message written there would wait in a directory nothing drains. Refused rather than landed, because a send nobody receives must not answer as one that arrived.\n",
+} as const satisfies AgentMessage
