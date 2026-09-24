@@ -7,17 +7,16 @@ import {
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
+  addressedIn,
   afterIn,
   declaresIn,
   holdsIn,
   readFor,
   singleIn,
   spelledIn,
-  targetsIn,
   typeIn,
 } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { reaches } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 
 const ADD_PROPERTY_VALUE =
   `${changeMechanicalFileContent.slug}/${addPropertyValueMechanical.slug}` as const
@@ -56,6 +55,7 @@ export function readIn(said: string): Read {
 }
 
 type Held = {
+  readonly value: string
   readonly single: boolean
   readonly after: string | null
   readonly holds: string | null
@@ -78,14 +78,10 @@ function putIn(world: World, one: Line): Put {
     }
     return { refused: `\`${one.key}\` is no property \`${stated}\` declares, and ${INSIDE}` }
   }
-  const targets = targetsIn(read.known, read.value, one.key)
-  if (targets.length > 0) {
-    const reached = reaches(one.value, targets, read.known)
-    if ("refused" in reached) {
-      return { refused: `\`${one.key}\` names a relation, and ${reached.refused}` }
-    }
-  }
+  const addressed = addressedIn(read.known, read.value, one.key, one.value)
+  if ("refused" in addressed) return { refused: addressed.refused }
   return {
+    value: addressed.value,
     single: singleIn(world, read.value, one.key),
     after: afterIn(world, read.value, one.key),
     holds: holdsIn(world, read.value, one.key),
@@ -102,7 +98,8 @@ export async function addPropertyValues(world: World, lines: readonly Line[]): P
   for (const one of lines) {
     const held = putIn(seen, one)
     if ("refused" in held) return refusing(`${held.refused}. ${lineOf(one)}`)
-    const told = held.single ? { ...one, single: true } : one
+    const valued = { ...one, value: held.value }
+    const told = held.single ? { ...valued, single: true } : valued
     const spelled = held.holds === null ? told : { ...told, holds: held.holds }
     const given = held.after === null ? spelled : { ...spelled, after: held.after }
     const reached = await reach(seen, ADD_PROPERTY_VALUE, given)

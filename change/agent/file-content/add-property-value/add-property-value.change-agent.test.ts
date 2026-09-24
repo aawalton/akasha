@@ -97,6 +97,42 @@ test("a value reaching a page is handed to the mechanical change of the same nam
   expect(said.refused).toBeNull()
 })
 
+test("a bare name is handed on as the address of the page it reaches", async () => {
+  let handed: unknown = null
+  const world = worldTold({ slug: "part-slugs", target: "command", found: REACHED })
+
+  await addPropertyValue(
+    {
+      ...world,
+      reaching: (_world, _at, given) => {
+        handed = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    { ...ASKED, value: "two" }
+  )
+
+  expect(handed).toEqual(ASKED)
+})
+
+test("an address is handed on as it was handed in", async () => {
+  let handed: unknown = null
+  const world = worldTold({ slug: "part-slugs", target: "command", found: REACHED })
+
+  await addPropertyValue(
+    {
+      ...world,
+      reaching: (_world, _at, given) => {
+        handed = given
+        return Promise.resolve(NOTHING_OVER)
+      },
+    },
+    ASKED
+  )
+
+  expect(handed).toEqual(ASKED)
+})
+
 test("a key naming no relation is handed on with no page reached", async () => {
   let reached = ""
   const world = worldTold({ slug: null, target: null, found: [] })

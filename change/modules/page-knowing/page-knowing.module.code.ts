@@ -1,6 +1,10 @@
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { eachTarget, type Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-
+import {
+  eachTarget,
+  reaches,
+  type Shaped,
+} from "akasha/page/index/modules/reaching/reaching.module.code.ts"
+import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Named } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
@@ -30,6 +34,23 @@ export function namersIn(world: World, at: string, propertySlug: string): readon
 export function targetsIn(known: Shaped, value: Value, key: string): readonly string[] {
   const slug = known.slugOfKeyIn(value, key)
   return slug === null ? [] : eachTarget(known.targetOf(slug))
+}
+
+const BARE = "bare"
+
+export type Addressed = { readonly value: string } | { readonly refused: string }
+
+export function addressedIn(known: Shaped, value: Value, key: string, named: string): Addressed {
+  const targets = targetsIn(known, value, key)
+  if (targets.length === 0) return { value: named }
+  const reached = reaches(named, targets, known)
+  if ("refused" in reached) {
+    return { refused: `\`${key}\` names a relation, and ${reached.refused}` }
+  }
+  const address = addressIn(named)
+  const pageType = partedIn(reached.path)?.pageType
+  if (address.kind !== BARE || pageType === undefined) return { value: named }
+  return { value: namedAs(pageType, address.slug, null) }
 }
 
 export type Held = { readonly known: Shaped } | { readonly refused: string }

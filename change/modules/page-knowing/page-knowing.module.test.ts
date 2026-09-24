@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  addressedIn,
   afterIn,
   namersIn,
   pageIn,
@@ -68,6 +69,32 @@ test("a key naming a relation answers the page types that key reaches", () => {
 
   expect(targetsIn(read.known, read.value, "note")).toEqual(["module"])
   expect(targetsIn(read.known, read.value, "partSlugs")).toEqual(["domain"])
+})
+
+test("a bare name under a relation is answered as the address of the page it reaches", () => {
+  const read = readFor(worldIn(), NAMER_PAGE)
+  if ("refused" in read) throw new Error(read.refused)
+
+  expect(addressedIn(read.known, read.value, "note", "held")).toEqual({ value: "module/held" })
+  expect(addressedIn(read.known, read.value, "note", "module/held")).toEqual({
+    value: "module/held",
+  })
+})
+
+test("a name reaching no page under a relation is refused", () => {
+  const read = readFor(worldIn(), NAMER_PAGE)
+  if ("refused" in read) throw new Error(read.refused)
+
+  const said = addressedIn(read.known, read.value, "note", "nobody")
+
+  expect("refused" in said && said.refused).toContain("`note` names a relation")
+})
+
+test("a value under a key naming no relation is answered as it was handed in", () => {
+  const read = readFor(worldIn(), NAMER_PAGE)
+  if ("refused" in read) throw new Error(read.refused)
+
+  expect(addressedIn(read.known, read.value, "definition", "held")).toEqual({ value: "held" })
 })
 
 test("a key reaching no property names no page", () => {

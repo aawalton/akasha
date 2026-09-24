@@ -127,6 +127,15 @@ test("a line the change beneath refuses refuses the whole call and names that li
   expect(said.refused ?? "").toContain(line)
 })
 
+test("a bare name of a page already named by its address is refused as held already", async () => {
+  const line = `${CARRIER} ${PARTS} held`
+  const said = await runChange(worldIn(repo()), { added: `${line}\n` })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(`holds \`${OF_HELD}\` already`)
+  expect(said.refused ?? "").toContain(line)
+})
+
 test("a line with nothing on it is read over", async () => {
   const said = await runChange(worldIn(repo()), {
     added: `\n${CARRIER} ${PARTS} ${OF_ONE}\n\n`,

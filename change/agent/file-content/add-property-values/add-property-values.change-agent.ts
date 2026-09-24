@@ -41,6 +41,14 @@ export const addPropertyValues = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A bare name is written as the address of the page it reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An address or an id is written as it was handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A key naming no relation takes its value unresolved.",
     },
     {

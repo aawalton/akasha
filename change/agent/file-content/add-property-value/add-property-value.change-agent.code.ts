@@ -6,17 +6,16 @@ import {
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
+  addressedIn,
   afterIn,
   declaresIn,
   holdsIn,
   readFor,
   singleIn,
   spelledIn,
-  targetsIn,
   typeIn,
 } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { reaches } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 
 const ADD_PROPERTY_VALUE =
   `${changeMechanicalFileContent.slug}/${addPropertyValueMechanical.slug}` as const
@@ -56,17 +55,13 @@ export async function addPropertyValue(
         `A field inside a record is reached through the record rather than as a key of its own.`
     )
   }
-  const targets = targetsIn(read.known, read.value, given.key)
-  if (targets.length > 0) {
-    const reached = reaches(given.value, targets, read.known)
-    if ("refused" in reached) {
-      return refusing(`\`${given.key}\` names a relation, and ${reached.refused}`)
-    }
-  }
+  const addressed = addressedIn(read.known, read.value, given.key, given.value)
+  if ("refused" in addressed) return refusing(addressed.refused)
   const single = singleIn(world, read.value, given.key)
   const holds = holdsIn(world, read.value, given.key)
   const placed = given.after ?? afterIn(world, read.value, given.key)
-  const told = single ? { ...given, single } : { ...given }
+  const valued = { ...given, value: addressed.value }
+  const told = single ? { ...valued, single } : valued
   const spelled = holds === null ? told : { ...told, holds }
   const asked = placed === null ? spelled : { ...spelled, after: placed }
   return (await reach(world, ADD_PROPERTY_VALUE, asked)).said

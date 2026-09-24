@@ -51,6 +51,23 @@ export const pageKnowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A bare name under a key naming a relation is answered as the address of the page it reaches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page type in that address is read off the name of the reached page's file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An address or an id is answered as it was handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name reaching no page under a key naming a relation is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Whether a key holds one value is read from the type the page states.",
     },
     {
