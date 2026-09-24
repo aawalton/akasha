@@ -3,6 +3,5 @@
 {"propertySlug":"extends-type","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"import","fileName":"agent.page-type.types.ts","path":"agent/seat/seat.page-type.types.ts"}
 {"propertySlug":"import","fileName":"agent.page-type.types.ts","path":"agent/subagent/subagent.page-type.types.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-subagent-presence-write-holds-the-landing-lock-for-half-an-hour.finding.ts","id":"01a09cca-4322-7b5a-81f7-166077c9d14b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-value-nothing-names-in-the-seat-system-is-as-often-a-loose-wire-as-dead-code.finding.ts","id":"01a09d25-47eb-72a6-96c3-41c511e2a09b"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
