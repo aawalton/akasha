@@ -26,6 +26,7 @@ export type PatchPageArgs<T extends Record<string, unknown> = Record<string, Jso
   where: PageWhere
   set: PagePropertiesInput<T>
   patch?: JsonPatch
+  bodies?: Readonly<Record<string, string>>
   select?: PageSelect
 }
 
@@ -45,6 +46,7 @@ async function callPagePatch<T extends Record<string, unknown> = Record<string, 
     pageTypeSlug: args.pageTypeSlug,
     where: args.where,
     set: args.set,
+    ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
     select: args.select,
     atMostOne,
   })

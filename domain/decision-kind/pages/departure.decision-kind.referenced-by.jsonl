@@ -2953,6 +2953,7 @@
 {"propertySlug":"decision-kind","path":"page/access/modules/file-write-narrow/file-write-narrow.module.ts","id":"01a07691-e739-761d-a0ad-befe1dac9d94"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-write/file-write.module.ts","id":"01a05bd6-c531-7a9e-9505-89164f47be5f"}
 {"propertySlug":"decision-kind","path":"page/access/modules/over-server/over-server.module.ts","id":"01a05bd6-c533-7600-b18c-c96577f03603"}
+{"propertySlug":"decision-kind","path":"page/access/modules/patch/patch.module.ts","id":"01a05bd6-c534-767a-b98d-e5ad35f5a86b"}
 {"propertySlug":"decision-kind","path":"page/access/modules/read-gate/read-gate.module.ts","id":"01a0c548-c02e-7339-91e3-4f4b0e3874cf"}
 {"propertySlug":"decision-kind","path":"page/access/modules/routing-core/routing-core.module.ts","id":"01a05bd6-c535-767d-b8ac-7e540084e42d"}
 {"propertySlug":"decision-kind","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

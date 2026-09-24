@@ -6,4 +6,14 @@ export const patch = {
   slug: "patch",
   definition: "a page's values changed",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A patch may write the files beside the pages it reaches.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No patch creates a page.",
+    },
+  ],
 } as const satisfies Module

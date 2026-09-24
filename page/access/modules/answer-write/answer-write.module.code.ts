@@ -109,6 +109,7 @@ const PATCH_PAGE_ARGS = z.object({
   where: PAGE_WHERE,
   set: PAGE_PROPERTIES,
   patch: JSON_PATCH.optional(),
+  bodies: PAGE_BODIES,
   select: PAGE_SELECT,
 })
 
