@@ -15,6 +15,7 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/summarize.common-language-term.ts","id":"01a0d448-7978-70f2-8ad1-416d1d55bdbf"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/write.common-language-term.ts","id":"01a0d435-bdab-783b-b4e0-3afede58019f"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle-and-a-preposition-phrase.construction.ts","id":"01a0d5bc-0c3e-7299-930c-48d65ab2f869"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle.construction.ts","id":"01a0c9a2-f76d-71dc-bf94-7139fa224b3b"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-past-participle-and-a-preposition-phrase.construction.ts","id":"01a0c96f-bee9-7f1f-8d2c-d4d536dcb41c"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-past-participle.construction.ts","id":"01a0c96f-a254-7982-aacd-b072d43b1006"}

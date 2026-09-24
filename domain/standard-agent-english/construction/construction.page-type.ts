@@ -45,6 +45,7 @@ export const construction = {
     "construction/noun-run-with-a-where-clause",
     "construction/possessive-proper-noun-owning-a-proper-noun",
     "construction/noun-run-with-a-for-to-clause",
+    "construction/be-verb-with-a-past-participle-and-a-preposition-phrase",
   ],
   extends: ["page-type/domain"],
   properties: [
