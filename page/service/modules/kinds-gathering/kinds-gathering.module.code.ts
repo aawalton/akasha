@@ -2,10 +2,15 @@ import { closeSync, openSync, readFileSync, readSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import type { Filed } from "akasha/page/computed-property/computed-property.page-type.ts"
 import {
+  type Beside,
+  sidecarsOver,
+} from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
+import {
   ENTRY_PROPERTY,
   FILE_PROPERTY,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
+  heldOnce,
   listedAt,
   listedById,
   readingIn,
@@ -25,6 +30,7 @@ import {
   type Subject,
 } from "akasha/page/modules/computing/page-computing.module.code.ts"
 import {
+  defaultedValue,
   type Entrying,
   entriedValue,
 } from "akasha/page/modules/entries/page-entries.module.code.ts"
@@ -317,20 +323,27 @@ function bodyTests(
   return found
 }
 
-function valuedFor(
-  root: string,
-  read: readonly Valued[],
-  carried: readonly Carried[],
-  files: readonly string[],
-  entries: ReadonlySet<string> | null,
-  testing: readonly Testing[],
-  entrying: Entrying
-): readonly Valued[] {
+const NO_FALLBACKS: ReadonlyMap<string, Beside> = new Map()
+
+const sidecarsHeld = heldOnce((reading) => sidecarsOver(reading, []))
+
+type Gathering = {
+  readonly carried: readonly Carried[]
+  readonly fallbacks: ReadonlyMap<string, Beside>
+  readonly files: readonly string[]
+  readonly entries: ReadonlySet<string> | null
+  readonly testing: readonly Testing[]
+  readonly entrying: Entrying
+}
+
+function valuedFor(root: string, read: readonly Valued[], given: Gathering): readonly Valued[] {
+  const { carried, files, entries, testing, entrying } = given
   const found: Valued[] = []
   for (const one of read) {
     const beside = wholeValue(root, one.path, one.value)
     if (!testing.every((test) => test(beside))) continue
-    const entried = entriedValue(root, one.path, beside, carried, entries, entrying)
+    const stated = defaultedValue(root, one.path, beside, carried, given.fallbacks, entrying)
+    const entried = entriedValue(root, one.path, stated, carried, entries, entrying)
     const whole = filedValue(root, one.path, entried, carried, files)
     found.push(whole === one.value ? one : { path: one.path, value: whole })
   }
@@ -349,13 +362,16 @@ export function gatheredFor(
   const counting: Counting[] = []
   const under = kindsUnder(ENTRY_PROPERTY, reading)
   const entrying: Entrying = (slug) => under.has(slug)
+  const sidecars = sidecarsHeld(reading)
   for (const kind of kindsFor(reading, pageTypeSlug)) {
     const read = valuesOfType(reading, kind)
     if (read.length === 0) continue
     const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind)
     const computed = computedFor(root, own)
     const testing = bodyTests(tests, own, entrying)
-    for (const row of valuedFor(root, read, own, files, entries, testing, entrying)) {
+    const fallbacks = sidecars.get(kind)?.besides ?? NO_FALLBACKS
+    const gathering = { carried: own, fallbacks, files, entries, testing, entrying }
+    for (const row of valuedFor(root, read, gathering)) {
       counting.push({ row, computed })
     }
   }

@@ -38,6 +38,14 @@ export const kindsGathering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page stating no such property is read by the ending its page type declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The endings a page type declares are read from the index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page type with no such file beside it has what it carries worked out here.",
     },
     {

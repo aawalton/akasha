@@ -107,6 +107,18 @@ export const pageEntries = {
       statement: "A caller naming no properties has every entry property's files read.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A page stating no entry property is read by the ending its type declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declared ending with no file beside the page holds no value.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The endings a type declares are handed in by the caller.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the index.",
     },

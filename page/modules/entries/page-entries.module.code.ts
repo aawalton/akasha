@@ -132,6 +132,31 @@ export function rowsOver(
   return found
 }
 
+export type Fallback = { readonly held: string }
+
+export function defaultedValue(
+  root: string,
+  page: string,
+  value: Value,
+  declared: Iterable<Rowed>,
+  fallbacks: ReadonlyMap<string, Fallback>,
+  entried: Entrying = entryShaped
+): Value {
+  const held: Record<string, unknown> = {}
+  let turned = false
+  for (const one of entriedAmong(declared, entried)) {
+    const fallback = fallbacks.get(one.pagePropertySlug)
+    if (fallback === undefined || value[one.key] !== undefined) continue
+    const first = one.uncommitted
+      ? uncommittedBesideAt(page, one.propertySlug, fallback.held)
+      : besideAt(page, one.propertySlug, fallback.held)
+    if (first === null || !filed(root, first)) continue
+    held[one.key] = fallback.held
+    turned = true
+  }
+  return turned ? { ...value, ...held } : value
+}
+
 export function entriedValue(
   root: string,
   page: string,

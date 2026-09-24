@@ -3,6 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
+  defaultedValue,
   type Entried,
   entriedAmong,
   entriedValue,
@@ -190,4 +191,36 @@ test("a numbered file that will not read refuses the whole property", () => {
   const read = entriesAt(root, PAGE, "cases", "jsonl")
 
   expect("refused" in read && read.refused).toContain("part2")
+})
+
+const DECLARED = [{ ...CASES, pagePropertySlug: "cases" }]
+
+const FALLBACKS = new Map([["cases", { held: "jsonl" }]])
+
+test("a page stating no entry property is read by the ending its type declares", () => {
+  const root = rooted("akasha-entries-defaulted-", {
+    [PAGE]: "",
+    "akasha/one/held.model-test.cases.jsonl": '{"at":1}\n',
+  })
+  const value = defaultedValue(root, PAGE, { slug: "held" }, DECLARED, FALLBACKS)
+
+  expect(value).toEqual({ slug: "held", cases: "jsonl" })
+  expect(entriedValue(root, PAGE, value, [CASES])).toEqual({ slug: "held", cases: [{ at: 1 }] })
+})
+
+test("a declared ending with no file beside the page holds no value rather than refusing", () => {
+  const root = rooted("akasha-entries-defaulted-gone-", { [PAGE]: "" })
+  const value = { slug: "held" }
+
+  expect(defaultedValue(root, PAGE, value, DECLARED, FALLBACKS)).toBe(value)
+})
+
+test("an ending the page states is kept over the one its type declares", () => {
+  const root = rooted("akasha-entries-defaulted-stated-", {
+    [PAGE]: "",
+    "akasha/one/held.model-test.cases.jsonl": '{"at":1}\n',
+  })
+  const value = { cases: "txt" }
+
+  expect(defaultedValue(root, PAGE, value, DECLARED, FALLBACKS)).toBe(value)
 })
