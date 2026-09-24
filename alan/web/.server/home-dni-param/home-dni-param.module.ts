@@ -13,12 +13,20 @@ export const homeDniParam = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Null is answered only where the service answered and no row carried the home slug.",
+      statement: "The home screen opens on the first pinned nav item.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The home slug is matched over the rows rather than narrowed in the question.",
+      statement:
+        "First is the order the sidebar draws, top items by place, each followed by the items beneath it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The home screen opens on the first nav item where no nav item is pinned.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Null is answered only where the service answered and no nav item names the app.",
     },
   ],
 } as const satisfies Module
