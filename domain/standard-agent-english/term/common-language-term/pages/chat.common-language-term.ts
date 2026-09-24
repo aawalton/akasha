@@ -5,5 +5,8 @@ export const chat = {
   type: "page-type/common-language-term",
   slug: "chat",
   definition: "trading short messages with somebody, back and forth",
-  spellings: [{ partOfSpeech: "part-of-speech/verb", spelling: "chats" }],
+  spellings: [
+    { partOfSpeech: "part-of-speech/verb", spelling: "chat" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "chats" },
+  ],
 } as const satisfies CommonLanguageTerm

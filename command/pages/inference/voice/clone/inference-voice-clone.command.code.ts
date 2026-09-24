@@ -1,5 +1,5 @@
 import { access, writeFile } from "node:fs/promises"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   type TakenFor,
   takenFor,

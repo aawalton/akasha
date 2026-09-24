@@ -4,8 +4,7 @@ export const handoverRr = {
   id: "01a0bb5b-cb42-713b-bb83-e6d3265a0786",
   type: "page-type/domain",
   slug: "handover-rr",
-  definition:
-    "the sign-in a peripheral borrows from alanwalton.com, taken as a code and kept as its own cookie",
+  definition: "how people sign in to a service through alanwalton.com",
   parts: [
     "module/handover-arrival",
     "module/handover-code",

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { holderIn, nameOf } from "akasha/agent/seat/modules/reading/seat-reading.module.code.ts"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   answering,
   OPERATIONAL,

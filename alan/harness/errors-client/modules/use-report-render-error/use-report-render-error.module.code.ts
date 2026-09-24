@@ -2,7 +2,7 @@
 
 import { reportError } from "akasha/alan/harness/errors-client/modules/error-reporting/error-reporting.module.code.ts"
 import type { ErrorApp } from "akasha/alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.code.ts"
-import { normalizeThrowable } from "akasha/alan/harness/errors-core/modules/throwable-normalizing/throwable-normalizing.module.code.ts"
+import { normalizeThrowable } from "akasha/code/error/errors-core/modules/throwable-normalizing/throwable-normalizing.module.code.ts"
 import { useEffect, useRef } from "react"
 
 export function useReportRenderError(error: unknown, app: ErrorApp): undefined {

@@ -4,7 +4,7 @@ export const healthSample = {
   id: "01a0d5a9-e047-7079-abab-428460d8b74b",
   type: "page-type/domain",
   slug: "health-sample",
-  definition: "a measure of Alan's body a device takes",
+  definition: "a measurement of Alan's body",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "health sample" },
     { partOfSpeech: "part-of-speech/noun", spelling: "health samples" },

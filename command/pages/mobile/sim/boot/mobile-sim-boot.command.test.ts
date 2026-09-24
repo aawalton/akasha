@@ -1,9 +1,9 @@
 import { expect, test } from "bun:test"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   appiumStartedSaid,
   simBootedSaid,
 } from "akasha/alan/harness/mobile-cli/modules/sim-macbook/sim-macbook.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   answering,
   OPERATIONAL,

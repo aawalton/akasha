@@ -21,8 +21,6 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/sync-run/properties/run-completed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/collection/sync-run/properties/run-started-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/code-editor/window/properties/observed-at.instant-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/properties/error-first-seen-at.instant-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/properties/error-last-seen-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cut/properties/cut-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/monarch-updated-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/harness/notification-feed/properties/notification-read-at.instant-property.ts","typed":true,"deferred":false}
@@ -43,6 +41,8 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-completed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/track/to-do/properties/to-do-last-completed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"alan/value/health/fitness/strength/log/properties/set-performed-at.instant-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"code/error/errors-core/runtime-error/properties/error-first-seen-at.instant-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"code/error/errors-core/runtime-error/properties/error-last-seen-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"infrastructure/service/akasha-service/properties/deploy-ended-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"infrastructure/service/akasha-service/properties/deploy-refused-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/looked-at.instant-property.ts","typed":true,"deferred":false}

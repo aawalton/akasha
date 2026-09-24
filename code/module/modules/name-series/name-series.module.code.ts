@@ -3,7 +3,7 @@ import { dirname, join, resolve } from "node:path"
 import {
   DataError,
   OperationalError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   everyOfType,

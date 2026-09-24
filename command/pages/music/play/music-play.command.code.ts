@@ -1,4 +1,3 @@
-import { isCliError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type {
   ResolvableTrack,
   ResolvedTrack,
@@ -11,6 +10,7 @@ import {
 } from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
 import { startResumePlayback } from "akasha/alan/music/spotify/modules/player/spotify-player.module.code.ts"
 import { getTrack } from "akasha/alan/music/spotify/modules/tracks/spotify-tracks.module.code.ts"
+import { isCliError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { artist as artistArgument } from "akasha/command/argument/pages/artist.argument.ts"
 import { deviceId as deviceIdArgument } from "akasha/command/argument/pages/device-id.argument.ts"

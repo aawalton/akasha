@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   SENT_PICTURE,
   SENT_TEXT,
   sentSaid,
 } from "akasha/alan/harness/imessage/modules/send/imessage-send.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { image as imageArgument } from "akasha/command/argument/pages/image.argument.ts"
 import { text as textArgument } from "akasha/command/argument/pages/text.argument.ts"
 import { textFile } from "akasha/command/argument/pages/text-file.argument.ts"

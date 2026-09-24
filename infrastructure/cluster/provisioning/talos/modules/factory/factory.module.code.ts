@@ -1,7 +1,7 @@
 import {
   DataError,
   OperationalError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 
 const FACTORY_BASE = "https://factory.talos.dev"

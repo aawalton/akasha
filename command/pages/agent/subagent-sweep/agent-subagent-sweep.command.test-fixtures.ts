@@ -11,10 +11,6 @@ import {
   seatRefusalsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { subagentStopped } from "akasha/agent/subagent/properties/subagent-stopped.boolean-property.ts"
-import {
-  EXIT,
-  OperationalError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type {
   Asking,
@@ -22,6 +18,10 @@ import type {
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
+import {
+  EXIT,
+  OperationalError,
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"

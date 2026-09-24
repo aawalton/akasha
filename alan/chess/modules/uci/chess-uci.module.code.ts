@@ -1,4 +1,4 @@
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { requireMatchPositional } from "akasha/code/type/narrowing/modules/require-match-positional/require-match-positional.module.code.ts"
 import { z } from "zod"
 

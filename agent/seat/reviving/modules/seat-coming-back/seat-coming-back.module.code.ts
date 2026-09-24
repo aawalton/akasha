@@ -11,7 +11,7 @@ import { seatPathForName } from "akasha/agent/seat/modules/reading/seat-reading.
 import {
   dataError,
   inputError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { pagesOriginHere } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"

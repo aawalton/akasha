@@ -11,7 +11,6 @@ import {
   seatPathForName,
   seatsAt,
 } from "akasha/agent/seat/modules/reading/seat-reading.module.code.ts"
-import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
 import { removeFilePage } from "akasha/change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.ts"
@@ -19,6 +18,7 @@ import type {
   Asking,
   Landing,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { EXIT } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"

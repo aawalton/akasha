@@ -4,7 +4,7 @@ export const locationTraceAccess = {
   id: "01a05bc7-9129-700a-81c5-e2dfa20709ec",
   type: "page-type/domain",
   slug: "location-trace-access",
-  definition: "the shape a recorded place is carried in, and how a batch of places is kept",
+  definition: "how places Alan goes are stored",
   parts: ["module/trace-insert", "module/trace-shape"],
   decisions: [
     {

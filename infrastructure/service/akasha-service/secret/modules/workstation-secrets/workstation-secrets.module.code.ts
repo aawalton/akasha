@@ -2,7 +2,7 @@ import { chmodSync, existsSync, readFileSync, writeFileSync } from "node:fs"
 import { homedir } from "node:os"
 import { join } from "node:path"
 
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 export const SECRETS_FILE = ".secrets.env"
 

@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { SimSessionState } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   answering,
   OPERATIONAL,

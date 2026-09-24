@@ -1,4 +1,4 @@
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { alanwaltonDecodeHarness } from "akasha/code/ios-program/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts"
 import { alanwaltonWidget } from "akasha/code/ios-program/pages/alanwalton-widget/alanwalton-widget.ios-program.ts"
 import { smilingjennyDecodeHarness } from "akasha/code/ios-program/pages/smilingjenny-decode-harness/smilingjenny-decode-harness.ios-program.ts"

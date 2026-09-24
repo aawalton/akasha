@@ -1,8 +1,8 @@
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   type MobileApp,
   shellRepoPath as shellRepoPathOf,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
+import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { sharedBuildFiles } from "akasha/code/ios-app/modules/shared-build-files/shared-build-files.module.code.ts"
 import {
   AKASHA,

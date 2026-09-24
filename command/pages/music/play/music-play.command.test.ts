@@ -1,12 +1,12 @@
 import { expect, test } from "bun:test"
-import {
-  DataError,
-  OperationalError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type {
   ResolvableTrack,
   ResolvedTrack,
 } from "akasha/alan/music/choosing/modules/track-resolving/track-resolving.module.code.ts"
+import {
+  DataError,
+  OperationalError,
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type {
   Playing,
   StartResumeOptions,

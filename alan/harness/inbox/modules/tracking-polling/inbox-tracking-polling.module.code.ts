@@ -1,8 +1,8 @@
-import { operationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   type PollAndPersistSummary,
   pollAndPersist,
 } from "akasha/alan/harness/inbox/modules/count-tick/inbox-count-tick.module.code.ts"
+import { operationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 export async function runInboxTrackingPolling(args: readonly string[]): Promise<void> {
   const log = (level: "INFO" | "ERROR", message: string): undefined => {

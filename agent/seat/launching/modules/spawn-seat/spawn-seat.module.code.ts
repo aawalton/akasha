@@ -22,12 +22,12 @@ import {
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { refuseHeldName } from "akasha/agent/seat/name/modules/held-refusal/seat-name-held-refusal.module.code.ts"
 import { composedNameOf } from "akasha/agent/seat/name/modules/seat-rename/seat-rename.module.code.ts"
+import { ruleText } from "akasha/alan/harness/rules-engine/modules/instructions-rule/instructions-rule.module.code.ts"
 import {
   dataError,
   inputError,
   operationalError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { ruleText } from "akasha/alan/harness/rules-engine/modules/instructions-rule/instructions-rule.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { enforceSpawnAdmission } from "akasha/infrastructure/kernel/modules/memory-guard/memory-guard.module.code.ts"
 import {
   AKASHA,

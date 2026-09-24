@@ -563,11 +563,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-client/modules/error-reporting/error-reporting.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-client/modules/global-error-capture/global-error-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-client/modules/use-report-render-error/use-report-render-error.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/error-fingerprint/error-fingerprint.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/error-report/error-report.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/exit-code/exit-code.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/stack-normalizing/stack-normalizing.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/errors-core/modules/throwable-normalizing/throwable-normalizing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/geo-io/modules/geoapify/geoapify.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-app/handover-app.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/handover-rr/modules/handover-arrival/handover-arrival.module.ts","typed":true,"deferred":false}
@@ -1072,6 +1067,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-reading/work-tree-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/modules/work-tree-view/work-tree-view.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/editor/extension/ops-extension/modules/extension-entry/extension-entry.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/error-fingerprint/error-fingerprint.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/error-report/error-report.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/exit-code/exit-code.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/stack-normalizing/stack-normalizing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/error/errors-core/modules/throwable-normalizing/throwable-normalizing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/ios-app/modules/app-building/app-building.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/ios-app/modules/decode-harness-script/decode-harness-script.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/ios-app/modules/shared-build-files/shared-build-files.module.ts","typed":true,"deferred":false}

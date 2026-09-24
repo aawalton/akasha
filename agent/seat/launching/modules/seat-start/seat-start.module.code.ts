@@ -42,7 +42,7 @@ import type { StatedAgentSlots } from "akasha/agent/seat/supervisor/seat-agent-r
 import {
   dataError,
   inputError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { readStdinOrFile } from "akasha/file/disk/modules/read-stdin-or-file/read-stdin-or-file.module.code.ts"
 import {
   AKASHA,

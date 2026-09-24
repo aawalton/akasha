@@ -1,6 +1,6 @@
 import { readdirSync } from "node:fs"
 import { join, relative } from "node:path"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { refusedBy, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import {

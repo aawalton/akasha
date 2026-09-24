@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   BUY_SOURCE_VALUES,
   narrowCategoryId,

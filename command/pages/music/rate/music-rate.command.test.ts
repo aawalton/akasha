@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { EXIT } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   OPERATIONAL,
   partWay,

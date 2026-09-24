@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/at.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/be.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/between.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/body.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/both.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/built.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/by.common-language-term.ts","typed":true,"deferred":false}
@@ -22,6 +23,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/common-language-term-any.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/common-language-term-do.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/common-language-term-for.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/common-language-term-import.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/common-language-term-in.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/common-language-term-new.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/common-language-term-show.common-language-term.ts","typed":true,"deferred":false}
@@ -35,9 +37,11 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/credential.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/current.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/decide.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/device.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/each.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/endure.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/every.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/find.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/from.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/game.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/go.common-language-term.ts","typed":true,"deferred":false}
@@ -49,6 +53,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/know.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/life.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/manage.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/measurement.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/move.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/name.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/next.common-language-term.ts","typed":true,"deferred":false}
@@ -86,6 +91,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/under.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/use.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/value.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/wait.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/wallpaper.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/what.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/when.common-language-term.ts","typed":true,"deferred":false}

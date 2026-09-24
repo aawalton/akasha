@@ -4,7 +4,7 @@ import { join } from "node:path"
 import {
   dataError,
   inputError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 const PROJECTS = "projects"

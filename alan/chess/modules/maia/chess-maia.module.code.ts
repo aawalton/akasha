@@ -7,7 +7,7 @@ import {
   runEngine,
 } from "akasha/alan/chess/modules/engine/chess-engine.module.code.ts"
 import { isBestMoveLine, parseSearch } from "akasha/alan/chess/modules/uci/chess-uci.module.code.ts"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 
 const MAIA_MIN_BAND = 1100

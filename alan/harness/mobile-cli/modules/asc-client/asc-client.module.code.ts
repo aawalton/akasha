@@ -1,10 +1,10 @@
 import { readFileSync } from "node:fs"
 import { homedir } from "node:os"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   ASC_ISSUER_ID,
   ASC_KEY_ID,
 } from "akasha/alan/harness/mobile-cli/modules/foundation/foundation.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { base64Url } from "akasha/code/type/narrowing/modules/base64-url/base64-url.module.code.ts"
 import { z } from "zod"
 

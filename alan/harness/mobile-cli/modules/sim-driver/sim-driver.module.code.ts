@@ -1,4 +1,3 @@
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   createSession,
   dismissAlert,
@@ -16,6 +15,7 @@ import {
   saveSessionState,
   WDA_LOCAL_PORT_ENV,
 } from "akasha/alan/harness/mobile-cli/modules/sim-session/sim-session.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
 export const APP_ORIGIN = "capacitor://localhost"

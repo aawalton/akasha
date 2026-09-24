@@ -1,6 +1,6 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises"
 import { join } from "node:path"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 function upscaleScriptPath(slug: string): string {

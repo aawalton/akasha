@@ -1,5 +1,5 @@
 import { parseOauthCallbackUrl } from "akasha/alan/google/oauth/modules/oauth-callback/oauth-callback.module.code.ts"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { saveWorkstationSecret } from "akasha/infrastructure/service/akasha-service/secret/modules/workstation-secrets/workstation-secrets.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 

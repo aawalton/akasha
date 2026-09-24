@@ -1,4 +1,4 @@
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { addonsDir as addonsDirArgument } from "akasha/command/argument/pages/addons-dir.argument.ts"

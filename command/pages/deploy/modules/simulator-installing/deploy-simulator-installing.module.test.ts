@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { Plan } from "akasha/code/ios-app/modules/app-building/app-building.module.code.ts"
 import {
   DATA,

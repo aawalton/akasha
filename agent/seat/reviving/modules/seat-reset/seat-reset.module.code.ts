@@ -29,7 +29,7 @@ import {
 import {
   dataError,
   inputError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   AKASHA,

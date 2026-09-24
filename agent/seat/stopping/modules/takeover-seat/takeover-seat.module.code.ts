@@ -8,7 +8,7 @@ import { SEAT_START_DIR } from "akasha/agent/seat/supervisor/modules/supervisor-
 import {
   dataError,
   operationalError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { ending } from "akasha/code/process/modules/process-ending/process-ending.module.code.ts"
 
 export interface TakenSeat {

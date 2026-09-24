@@ -1,5 +1,5 @@
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { bytesSlug } from "akasha/code/body/modules/bytes-slug/bytes-slug.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { isRiff } from "akasha/infrastructure/inference/client/modules/riff-bytes/riff-bytes.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {

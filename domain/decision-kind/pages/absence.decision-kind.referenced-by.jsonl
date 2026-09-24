@@ -317,12 +317,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-pass/inbox-pass.module.ts","id":"01a06948-c4c6-798a-a36f-1d22dd231125"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-client/errors-client.domain.ts","id":"01a05c89-6033-7676-ba14-f9bfd36ca899"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-client/modules/error-reporting/error-reporting.module.ts","id":"01a05c89-6034-7244-b9d2-6f9242df9ca4"}
-{"propertySlug":"decision-kind","path":"alan/harness/errors-core/errors-core.domain.ts","id":"01a05c48-deeb-7013-b082-9b135a70f3cc"}
-{"propertySlug":"decision-kind","path":"alan/harness/errors-core/modules/exit-code/exit-code.module.ts","id":"01a05c48-deeb-7015-8c70-41f6bb46fd62"}
-{"propertySlug":"decision-kind","path":"alan/harness/errors-core/modules/throwable-normalizing/throwable-normalizing.module.ts","id":"01a05c48-deeb-7018-8b07-72558879bc4c"}
-{"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-fingerprint.text-property.ts","id":"01a05f3f-e3e0-7721-9fec-e8292e22a4da"}
-{"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-kind.text-property.ts","id":"01a05f3f-e3e0-70ed-a9ac-229acd8e154c"}
-{"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}
 {"propertySlug":"decision-kind","path":"alan/harness/geo-io/geo-io.domain.ts","id":"01a05c48-deeb-7000-a8e9-296daa14b0c7"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/handover-rr.domain.ts","id":"01a0bb5b-cb42-713b-bb83-e6d3265a0786"}
 {"propertySlug":"decision-kind","path":"alan/harness/handover-rr/modules/handover-app/handover-app.module.ts","id":"01a0bc7a-bbc5-7600-bf03-dcb69fe7f4e6"}
@@ -981,6 +975,12 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/status-bar/status-bar.domain.ts","id":"01a06811-01d3-7007-b8c1-0a172fb4f158"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-api/vscode-api.type-declaration.ts","id":"01a0680b-7175-7001-8191-14c34a59562f"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-stub/vscode-stub.javascript-module.ts","id":"01a06957-955c-7cf6-9b2b-b7ef62ac9c75"}
+{"propertySlug":"decision-kind","path":"code/error/errors-core/errors-core.domain.ts","id":"01a05c48-deeb-7013-b082-9b135a70f3cc"}
+{"propertySlug":"decision-kind","path":"code/error/errors-core/modules/exit-code/exit-code.module.ts","id":"01a05c48-deeb-7015-8c70-41f6bb46fd62"}
+{"propertySlug":"decision-kind","path":"code/error/errors-core/modules/throwable-normalizing/throwable-normalizing.module.ts","id":"01a05c48-deeb-7018-8b07-72558879bc4c"}
+{"propertySlug":"decision-kind","path":"code/error/errors-core/runtime-error/properties/error-fingerprint.text-property.ts","id":"01a05f3f-e3e0-7721-9fec-e8292e22a4da"}
+{"propertySlug":"decision-kind","path":"code/error/errors-core/runtime-error/properties/error-kind.text-property.ts","id":"01a05f3f-e3e0-70ed-a9ac-229acd8e154c"}
+{"propertySlug":"decision-kind","path":"code/error/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}
 {"propertySlug":"decision-kind","path":"code/file-kind-domain/file-kind-domain.page-type.ts","id":"01a06837-0535-70c2-9917-d332b4b6a505"}
 {"propertySlug":"decision-kind","path":"code/file-kind-domain/pages/image.file-kind-domain.ts","id":"01a0d58a-70ad-7bbc-84d9-161e8b519c5f"}
 {"propertySlug":"decision-kind","path":"code/file-kind-domain/pages/js.file-kind-domain.ts","id":"01a0d58a-70ad-7d6b-88a5-8e5b98d72892"}

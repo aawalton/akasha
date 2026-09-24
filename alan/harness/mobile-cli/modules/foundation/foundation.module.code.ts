@@ -1,4 +1,3 @@
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   componentSwiftFor,
   widgetTargetNameFor,
@@ -9,6 +8,7 @@ import {
   ringCredentialScriptFor,
   splitRepoPath,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
+import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
 import { PINNED_AT } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { z } from "zod"

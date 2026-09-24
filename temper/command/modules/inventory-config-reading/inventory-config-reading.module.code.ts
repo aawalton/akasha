@@ -1,4 +1,4 @@
-import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { DataError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"

@@ -1,5 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   DEFAULT_APP_SLUG,
   mobileApps,
@@ -7,6 +6,7 @@ import {
   ringCredentialPartIn,
   splitRepoPath,
 } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
+import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 const ALL = Object.values(mobileApps())
 

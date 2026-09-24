@@ -1,8 +1,4 @@
 import {
-  InputError,
-  OperationalError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import {
   ALTOOL_MARKERS,
   testflightFailureError,
 } from "akasha/alan/harness/mobile-cli/modules/altool/altool.module.code.ts"
@@ -53,6 +49,10 @@ import {
   VISIBILITY_TIMEOUT_MS,
   visibilityFailureFor,
 } from "akasha/alan/harness/mobile-cli/modules/testflight-poll/testflight-poll.module.code.ts"
+import {
+  InputError,
+  OperationalError,
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 

@@ -1,7 +1,7 @@
 import { spawn } from "node:child_process"
 import { chmod, mkdtemp, writeFile } from "node:fs/promises"
 import { join } from "node:path"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 const SCRATCH = "/var/tmp"
 

@@ -1,4 +1,3 @@
-import { DataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   buildChatDbScript,
   buildHandlesSql,
@@ -19,6 +18,7 @@ import {
 } from "akasha/alan/harness/imessage/modules/contacts-db/contacts-db.module.code.ts"
 import { MACBOOK } from "akasha/alan/harness/imessage/modules/host/imessage-host.module.code.ts"
 import { runSshCapture } from "akasha/alan/harness/ssh-access/modules/ssh-reach/ssh-reach.module.code.ts"
+import { DataError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 export async function fetchMessages(sql: string): Promise<readonly ImessageMessage[]> {
   return parseMessageRows(await runSshCapture(MACBOOK, buildChatDbScript(sql)))

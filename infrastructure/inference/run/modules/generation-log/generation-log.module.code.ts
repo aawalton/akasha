@@ -1,5 +1,5 @@
 import { Buffer } from "node:buffer"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { JsonSchema } from "akasha/code/type/narrowing/modules/json-schema/json-schema.module.code.ts"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"

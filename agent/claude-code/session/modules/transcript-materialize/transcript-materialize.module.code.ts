@@ -1,7 +1,7 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { sanitizeTranscriptForResume } from "akasha/agent/claude-code/session/modules/session-jsonl/session-jsonl.module.code.ts"
 import { sessionProjectDir } from "akasha/agent/seat/supervisor/modules/supervisor-session-project-dir/supervisor-session-project-dir.module.code.ts"
-import { dataError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { dataError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const SessionIdLine = SHAPE.looseObject({ sessionId: SHAPE.string().optional() })

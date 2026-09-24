@@ -24,7 +24,7 @@ import { clearRequestedAction } from "akasha/agent/seat/supervisor/supervisor-ac
 import {
   dataError,
   operationalError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 export interface ResumeTarget {
   readonly name: string | null

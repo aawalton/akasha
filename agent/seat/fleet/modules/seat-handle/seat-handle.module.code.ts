@@ -3,7 +3,7 @@ import {
   seatRoster,
   seatsStanding,
 } from "akasha/agent/seat/fleet/modules/seat-roster/seat-roster.module.code.ts"
-import { inputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { inputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { lowerUuid } from "akasha/page/name-format/pages/lower-uuid/lower-uuid.name-format.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"

@@ -19,7 +19,7 @@ export const alanHarness = {
     "domain/email-routing",
     "domain/email-watch",
     "domain/errors-client",
-    "domain/errors-core",
+
     "domain/geo-io",
     "domain/health-sample",
     "domain/imessage",

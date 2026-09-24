@@ -1,5 +1,5 @@
 import { writeFile } from "node:fs/promises"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { ensureOutputDir } from "akasha/infrastructure/inference/client/modules/inference-output-path/inference-output-path.module.code.ts"
 import { z } from "zod"
 

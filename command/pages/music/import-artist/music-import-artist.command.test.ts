@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { Catalogue } from "akasha/alan/music/catalog/modules/catalogue-held/catalogue-held.module.code.ts"
 import { catalogueNamesFrom } from "akasha/alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.code.ts"
 import { songKey } from "akasha/alan/music/catalog/modules/song-matching/song-matching.module.code.ts"
@@ -8,6 +7,7 @@ import type {
   Landing,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { throwingAfter } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.test-fixtures.ts"
+import { EXIT } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { OPERATIONAL } from "akasha/command/modules/answering/command-answering.module.code.ts"
 
 import type { Applied } from "akasha/command/modules/applying/applying.module.code.ts"

@@ -8,7 +8,7 @@ import {
   parseSearch,
   type ScoreInfo,
 } from "akasha/alan/chess/modules/uci/chess-uci.module.code.ts"
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 function isPerftDoneLine(line: string): boolean {
   return line.trim().startsWith("Nodes searched")

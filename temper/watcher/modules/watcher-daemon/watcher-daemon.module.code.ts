@@ -1,6 +1,6 @@
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { pidAliveOrAssumeDead } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"

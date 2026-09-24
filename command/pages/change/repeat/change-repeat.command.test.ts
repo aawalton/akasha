@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   editsAt,
   editsWaiting,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { answering } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { nothing } from "akasha/command/modules/change-running/change-running.module.test-fixtures.ts"

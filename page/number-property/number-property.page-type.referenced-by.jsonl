@@ -79,7 +79,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/sync-run/properties/updated-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/collection/unit/properties/words.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/code-editor/data-interface/properties/cooldown-milliseconds.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/properties/error-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cut/properties/build-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/monarch/account/properties/current-balance.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"alan/harness/monarch/category-rule/properties/counterpart-within-days.number-property.ts","typed":true,"deferred":false}
@@ -212,6 +211,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"change/properties/change-max-memory-mb.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"check/model/properties/audit-runs.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"check/model/properties/change-runs.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"code/error/errors-core/runtime-error/properties/error-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"code/module-property-group/properties/group-max-cpu-seconds.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"code/module-property-group/properties/group-max-memory-mb.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"code/module-property-group/properties/group-max-wall-seconds.number-property.ts","typed":true,"deferred":false}

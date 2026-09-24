@@ -2,7 +2,7 @@ import { basename, isAbsolute, join, resolve } from "node:path"
 import {
   DataError,
   InputError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 
 const RESOLVE_URL =

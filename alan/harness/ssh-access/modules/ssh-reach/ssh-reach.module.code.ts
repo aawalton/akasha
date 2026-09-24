@@ -1,8 +1,8 @@
 import { spawn } from "node:child_process"
 import { createInterface } from "node:readline"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { SshTarget } from "akasha/alan/harness/ssh-access/modules/ssh-target/ssh-target.module.code.ts"
 import { sshArgs } from "akasha/alan/harness/ssh-access/modules/ssh-target/ssh-target.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 
 export async function* streamSshLines(
   target: SshTarget,

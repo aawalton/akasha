@@ -4,7 +4,7 @@ import { homedir } from "node:os"
 import {
   InputError,
   operationalError,
-} from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+} from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   errnoCodeOf,
   pidAliveOrRefuse,

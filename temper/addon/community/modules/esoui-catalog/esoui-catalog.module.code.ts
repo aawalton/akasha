@@ -1,4 +1,4 @@
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { CatalogEntry } from "akasha/temper/addon/community/modules/addon-update-plan/addon-update-plan.module.code.ts"
 import { z } from "zod"
 

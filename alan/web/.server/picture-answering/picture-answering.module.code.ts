@@ -8,8 +8,6 @@ import {
   type SignedIn,
   signedInAs,
 } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
-import { computeFingerprint } from "akasha/alan/harness/errors-core/modules/error-fingerprint/error-fingerprint.module.code.ts"
-import type { ErrorReport } from "akasha/alan/harness/errors-core/modules/error-report/error-report.module.code.ts"
 import {
   type DeviceSecretContext,
   resolveDeviceSecretContext,
@@ -18,6 +16,8 @@ import {
   capacitorCorsHeaders,
   withCors,
 } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
+import { computeFingerprint } from "akasha/code/error/errors-core/modules/error-fingerprint/error-fingerprint.module.code.ts"
+import type { ErrorReport } from "akasha/code/error/errors-core/modules/error-report/error-report.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   imageDeps,

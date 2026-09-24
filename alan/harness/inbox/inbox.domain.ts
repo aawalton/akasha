@@ -4,7 +4,7 @@ export const inbox = {
   id: "01a06230-b156-7347-be47-6f5960ced389",
   type: "page-type/domain",
   slug: "inbox",
-  definition: "the inboxes Alan keeps at empty",
+  definition: "a place where things wait for Alan",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "inbox" },
     { partOfSpeech: "part-of-speech/noun", spelling: "inboxes" },

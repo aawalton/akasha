@@ -1,4 +1,4 @@
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   everyOfType,

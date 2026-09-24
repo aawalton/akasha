@@ -4,7 +4,7 @@ export const geoIo = {
   id: "01a05c48-deeb-7000-a8e9-296daa14b0c7",
   type: "page-type/domain",
   slug: "geo-io",
-  definition: "a place on the earth looked for by name",
+  definition: "how places are found by name",
   parts: ["module/geoapify"],
   decisions: [
     {

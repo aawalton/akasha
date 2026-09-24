@@ -1,5 +1,5 @@
 import { spawn } from "node:child_process"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 
 export const MLX_VLM_MODEL = "mlx-community/Qwen3-VL-30B-A3B-Instruct-4bit"

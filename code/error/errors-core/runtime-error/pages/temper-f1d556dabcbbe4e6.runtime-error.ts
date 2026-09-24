@@ -1,0 +1,16 @@
+import type { RuntimeError } from "akasha/code/error/errors-core/runtime-error/runtime-error.page-type.types.ts"
+
+export const temperF1d556dabcbbe4e6 = {
+  id: "01a09f58-c0c7-7261-b70a-2c8b4be9178b",
+  type: "page-type/runtime-error",
+  slug: "temper-f1d556dabcbbe4e6",
+  fingerprint: "f1d556dabcbbe4e6",
+  app: "temper",
+  kind: "error",
+  message:
+    "[pages-ui-store] page-property-definition went live carrying no pages — the definition tier is empty, so every page type, column and view now resolves against nothing and readiness says otherwise",
+  url: "https://www.tempereso.com/home",
+  userAgent:
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36",
+  firstSeenAt: "2026-09-14T09:56:28.797Z",
+} as const satisfies RuntimeError

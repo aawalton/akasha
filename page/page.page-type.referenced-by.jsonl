@@ -32,7 +32,6 @@
 {"propertySlug":"extends-type","path":"alan/harness/code-editor/group/tab/code-editor-group-tab.page-type.ts","id":"01a06826-92e5-7347-826a-2896ea71b0ee"}
 {"propertySlug":"extends-type","path":"alan/harness/code-editor/terminal/code-editor-terminal.page-type.ts","id":"01a06826-92e5-7481-a7d4-68af91528f0b"}
 {"propertySlug":"extends-type","path":"alan/harness/code-editor/window/code-editor-window.page-type.ts","id":"01a06826-92e5-77ad-ad85-f1aa8cb5d359"}
-{"propertySlug":"extends-type","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}
 {"propertySlug":"extends-type","path":"alan/harness/inbox/email-rule/email-rule.page-type.ts","id":"01a06828-59d3-7486-8463-b59a1768c717"}
 {"propertySlug":"extends-type","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.ts","id":"019f5141-c410-7cd1-b491-d017f10e568d"}
 {"propertySlug":"extends-type","path":"alan/harness/monarch/category-rule/category-rule.page-type.ts","id":"01a0680c-3c00-7007-a659-3e8d1c4f3108"}
@@ -68,6 +67,7 @@
 {"propertySlug":"extends-type","path":"alan/value/learn/mathematics/proof/proof.page-type.ts","id":"01a0657f-5da8-7d50-9da8-5ad4177c9541"}
 {"propertySlug":"extends-type","path":"alan/value/learn/mathematics/proposition/proposition.page-type.ts","id":"01a06575-c2ab-7655-98f1-b3163771f0dc"}
 {"propertySlug":"extends-type","path":"check/refusal/refusal.page-type.ts","id":"01a0699d-4000-7a11-9c02-3f61b0d24e77"}
+{"propertySlug":"extends-type","path":"code/error/errors-core/runtime-error/runtime-error.page-type.ts","id":"01a05f3f-e3df-76da-ba22-9282e49c2d98"}
 {"propertySlug":"extends-type","path":"command/argument/argument.page-type.ts","id":"01a093fd-9102-76e8-958e-03d34cd41e25"}
 {"propertySlug":"extends-type","path":"design/interface/color/color.page-type.ts","id":"01a06575-c2a9-766f-8f09-da30cc969637"}
 {"propertySlug":"extends-type","path":"domain/finding/finding.page-type.ts","id":"01a04bc5-f8c3-758c-b460-da70df03bb96"}
@@ -191,7 +191,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/code-editor/group/tab/code-editor-group-tab.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/code-editor/terminal/code-editor-terminal.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/code-editor/window/code-editor-window.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/errors-core/runtime-error/runtime-error.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/inbox/email-rule/email-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/mobile-cli/mobile-cut/mobile-cut.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/harness/monarch/category-rule/category-rule.page-type.types.ts","typed":true,"deferred":false}
@@ -227,6 +226,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/learn/mathematics/proof/proof.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/value/learn/mathematics/proposition/proposition.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"check/refusal/refusal.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"code/error/errors-core/runtime-error/runtime-error.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"command/argument/argument.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"design/interface/color/color.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"domain/finding/finding.page-type.types.ts","typed":true,"deferred":false}

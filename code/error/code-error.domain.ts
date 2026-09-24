@@ -9,4 +9,5 @@ export const codeError = {
     { partOfSpeech: "part-of-speech/noun", spelling: "error" },
     { partOfSpeech: "part-of-speech/noun", spelling: "errors" },
   ],
+  parts: ["domain/errors-core"],
 } as const satisfies Domain

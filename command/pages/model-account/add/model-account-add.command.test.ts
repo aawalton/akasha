@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { InputError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { argument } from "akasha/command/argument/argument.page-type.ts"
 import { email as emailArgument } from "akasha/command/argument/pages/email.argument.ts"
 import {

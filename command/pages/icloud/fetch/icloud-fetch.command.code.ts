@@ -1,5 +1,4 @@
 import { mkdir } from "node:fs/promises"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { PhotoAsset } from "akasha/alan/harness/modules/album-pulling/album-pulling.module.code.ts"
 import {
   buildQueryRequest,
@@ -11,6 +10,7 @@ import {
   parseShareToken,
   resolveOutputDir,
 } from "akasha/alan/harness/modules/album-pulling/album-pulling.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { album } from "akasha/command/argument/pages/album.argument.ts"
 import { json as jsonArgument } from "akasha/command/argument/pages/json.argument.ts"

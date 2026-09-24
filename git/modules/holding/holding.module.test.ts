@@ -8,10 +8,10 @@ import {
   writeFileSync,
 } from "node:fs"
 import { dirname, join } from "node:path"
-import { EXIT } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { until } from "akasha/check/test/fixture/waiting/waiting.test-fixture.code.ts"
+import { EXIT } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
 import { CARRIED, CARRIED_IN } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"

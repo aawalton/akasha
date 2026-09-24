@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
-import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
+import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
   INPUT,
   OPERATIONAL,
