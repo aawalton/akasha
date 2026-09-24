@@ -102,70 +102,10 @@ patch(
 )
 PYEOF
 
-echo "[${NAME}] register base Z-Image config-name z-image (cli allowlist + mflux registries)"
-python - <<'PYEOF'
-import importlib.metadata as md
-import os
-
-base = str(md.distribution("mlx-openai-server").locate_file("app"))
-cli_py = os.path.join(base, "cli.py")
-mflux_py = os.path.join(base, "models", "mflux.py")
-
-
-def patch(path, old, new, sentinel):
-    rel = os.path.relpath(path, base)
-    with open(path, encoding="utf-8") as f:
-        src = f.read()
-    if sentinel in src:
-        print(f"  already patched app/{rel}")
-        return
-    if old not in src:
-        raise SystemExit(f"patch target not found in app/{rel}: {old!r}")
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(src.replace(old, new, 1))
-    print(f"  patched app/{rel}")
-
-
-# (1) cli.py hardcoded allowlist tuple (validate_image_config_name's source)
-patch(
-    cli_py,
-    '    "z-image-turbo",\n    "flux2-klein-4b",',
-    '    "z-image-turbo",\n    "z-image",\n    "flux2-klein-4b",',
-    '    "z-image",',
-)
-# ZImage backend class import, alongside the existing ZImageTurbo
-patch(
-    mflux_py,
-    "from mflux.models.z_image.variants import ZImageTurbo",
-    "from mflux.models.z_image.variants import ZImage, ZImageTurbo",
-    "import ZImage, ZImageTurbo",
-)
-# (2) _CONFIG_REGISTRY: config-name -> ModelConfig factory
-patch(
-    mflux_py,
-    '    "z-image-turbo": ("z-image-turbo", ModelConfig.z_image_turbo),\n',
-    '    "z-image-turbo": ("z-image-turbo", ModelConfig.z_image_turbo),\n'
-    '    "z-image": ("z-image", ModelConfig.z_image),\n',
-    '"z-image": ("z-image", ModelConfig.z_image),',
-)
-# (3) _MODEL_REGISTRY: config-name -> (backend, wrapper, display)
-patch(
-    mflux_py,
-    '    "z-image-turbo": (ZImageTurbo, BackedImageModel, "Z Image Turbo"),\n',
-    '    "z-image-turbo": (ZImageTurbo, BackedImageModel, "Z Image Turbo"),\n'
-    '    "z-image": (ZImage, BackedImageModel, "Z Image"),\n',
-    '"z-image": (ZImage, BackedImageModel, "Z Image"),',
-)
-PYEOF
-
 case "$NAME" in
 image-gen)
   echo "[image-gen] pre-download Tongyi-MAI/Z-Image-Turbo (~12 GB, text-to-image)"
   python -c "from huggingface_hub import snapshot_download; snapshot_download('Tongyi-MAI/Z-Image-Turbo')"
-  ;;
-image-gen-base)
-  echo "[image-gen-base] pre-download Tongyi-MAI/Z-Image (non-distilled base, text-to-image)"
-  python -c "from huggingface_hub import snapshot_download; snapshot_download('Tongyi-MAI/Z-Image')"
   ;;
 *)
   echo "[mlx-openai-server] unknown service name: ${NAME}" >&2
