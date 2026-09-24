@@ -393,6 +393,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/play/design-play.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/definition/technology-definition.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/mcp.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/mcp/server/mcp-server.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"design/technology/technology.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/champion/domain-champion.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"domain/context/context.domain.ts"}
