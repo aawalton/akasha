@@ -11,5 +11,7 @@ export const athenaInteractiveSeatPages = {
       statement:
         "The Seats view on alanwalton.com names every seat in the working color the editor shows it in.",
     },
+    { statement: "A seat's page shows the seat's conversation since its last compaction." },
+    { statement: "A seat's page folds each tool call to the one line the TUI gives it." },
   ],
 } as const satisfies Initiative
