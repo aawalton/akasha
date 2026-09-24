@@ -1,4 +1,5 @@
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/tower-element.page-type.ts","id":"01a0ca6d-e683-7fa9-8dc8-8be6325284d8"}
 {"propertySlug":"import","fileName":"element.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/tower-element.page-type.types.ts"}
 {"propertySlug":"parts","path":"story/mechanic/mechanic.page-type.ts","id":"01a0c9ea-d7b7-7f79-bc32-4aec8e645b69"}
+{"propertySlug":"target-page-type","path":"story/item/properties/item-essence.relation-property.ts","id":"01a0d428-fd14-7aa0-8b01-dea9a57171d4"}
 {"propertySlug":"target-page-type","path":"story/mechanic/attunement/properties/attunement-element.relation-property.ts","id":"01a0ca70-a79c-7cb4-8645-cecb67c360ef"}

@@ -7,5 +7,6 @@ export const theTowerWindingDrumCore = {
   title: "winding-drum core",
   story: "story-played/the-tower",
   character: "character-player/the-tower-alan",
+  essence: "tower-element/the-tower-force",
   description: "A dense coil of tension-wound iron, humming faintly with a stored force.",
 } as const satisfies Item

@@ -9,6 +9,7 @@ export const item = {
   extends: ["page-type/page"],
   parts: [
     "relation-property/item-character",
+    "relation-property/item-essence",
     "relation-property/item-slot",
     "relation-property/item-story",
     "page-type/item-slot",
@@ -19,6 +20,7 @@ export const item = {
     { pageProperty: "relation-property/item-story", required: true, many: false },
     { pageProperty: "relation-property/item-character", required: true, many: false },
     { pageProperty: "relation-property/item-slot", required: false, many: false },
+    { pageProperty: "relation-property/item-essence", required: false, many: false },
   ],
   decisions: [
     {
