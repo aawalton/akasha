@@ -9,11 +9,11 @@ export const theTowerFloor03 = {
   loreDisclosure: "lore-disclosure/player",
   depth: 3,
   description:
-    "The spiral stair climbs into warmth and dry air at last — and into sound. A long vaulted gallery, walls lined with shattered statuary and tall bronze resonance-plates green with age. Every footstep returns threefold. The light is amber and sourceless, seeming to hum. At the far end, a raised dais and a sealed archway up. Two things wait: a wraith of folded sound drifting between the plates, and a stone Warden seated unmoving before the arch.",
+    "The spiral stair climbs into dry air at last — and into sound. A long vaulted gallery, walls lined with shattered statuary and tall bronze resonance-plates green with age, and among the rubble the wrecked bones of an old forge. Every footstep returns threefold. The glow that once filled the hall came from its Warden and died with it; the gallery is dark and cold now. The Warden's broken slag lies heaped at the head of the stair from the Cistern. At the far end, a raised dais and an open archway up. Nothing moves here.",
   exits: [
     {
       to: "place/the-tower-floor-04",
-      way: "ascending archway, far dais (sealed until the floor is cleared)",
+      way: "ascending archway, far dais, open",
     },
   ],
   facts: ["The Gallery of Echoes holds no water."],
