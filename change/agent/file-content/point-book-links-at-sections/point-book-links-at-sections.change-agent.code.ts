@@ -11,6 +11,7 @@ import {
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { pathsNaming } from "akasha/change/modules/tree-searching/tree-searching.module.code.ts"
 import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { addressIn, namedAs, slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -147,8 +148,7 @@ export function flattened(target: string): string {
 }
 
 function unnumbered(name: string): string | null {
-  const said = NUMBERED.exec(name)
-  return said?.[1] ?? null
+  return firstCapture(NUMBERED.exec(name))
 }
 
 function waysTo(name: string): readonly string[] {

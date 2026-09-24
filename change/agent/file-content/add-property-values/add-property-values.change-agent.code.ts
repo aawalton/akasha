@@ -21,6 +21,7 @@ import {
 } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const ADD_PROPERTY_VALUE =
   `${changeMechanicalFileContent.slug}/${addPropertyValueMechanical.slug}` as const
@@ -36,6 +37,8 @@ const IS = "is"
 const FIELD = "field"
 
 const LINE = /^(\S+)\s+(\S+)\s+(.+)$/
+
+const LINE_SAID = z.tuple([z.string(), z.string(), z.string(), z.string()])
 
 const PARTED = "is no path, key and value parted by spaces"
 
@@ -61,13 +64,9 @@ export function readIn(said: string): Read {
   for (const line of said.split("\n")) {
     const one = line.trim()
     if (one === "") continue
-    const found = LINE.exec(one)
-    const at = found?.[1]
-    const key = found?.[2]
-    const value = found?.[3]
-    if (at === undefined || key === undefined || value === undefined) {
-      return { refused: `\`${one}\` ${PARTED}` }
-    }
+    const found = LINE_SAID.safeParse(LINE.exec(one))
+    if (!found.success) return { refused: `\`${one}\` ${PARTED}` }
+    const [, at, key, value] = found.data
     lines.push({ at, key, value })
   }
   return { lines }
