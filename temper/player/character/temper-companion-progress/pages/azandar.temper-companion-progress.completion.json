@@ -1,0 +1,216 @@
+{
+  "build": {
+    "mainHandWeaponType": 9,
+    "armor": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened"
+      },
+      "2": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened"
+      },
+      "4": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened"
+      },
+      "5": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened"
+      },
+      "6": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened"
+      },
+      "7": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Light, Quickened"
+      }
+    },
+    "weapons": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Restoration Staff, Quickened"
+      },
+      "2": {
+        "isEmpty": true,
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "displayText": "Empty"
+      }
+    },
+    "companionId": 9,
+    "skillAbilityIds": {
+      "1": 193130,
+      "2": 153685,
+      "3": 192574,
+      "4": 192937,
+      "5": 155408,
+      "6": 195103
+    },
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
+      },
+      "2": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened"
+      }
+    },
+    "hash": "AjEIYtC0LQtC0LQtDQ0NGNISIJCyxQA"
+  },
+  "targetBuildHash": "AjEAYALQtC0LQtCAAQ0NDRjSE2CQgA",
+  "level": 20,
+  "currentXP": 0,
+  "rapport": 4599,
+  "skillLineProgress": {
+    "180": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "181": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "182": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "183": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "184": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "185": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "186": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "187": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "188": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "189": {
+      "currentRank": 10,
+      "nextRankXP": 100,
+      "currentXP": 100
+    },
+    "190": {
+      "currentRank": 10,
+      "nextRankXP": 100,
+      "currentXP": 100
+    },
+    "191": {
+      "currentRank": 10,
+      "nextRankXP": 100,
+      "currentXP": 100
+    },
+    "246": {
+      "currentRank": 20,
+      "nextRankXP": 148500,
+      "currentXP": 148500
+    },
+    "247": {
+      "currentRank": 20,
+      "nextRankXP": 148500,
+      "currentXP": 148500
+    },
+    "248": {
+      "currentRank": 20,
+      "nextRankXP": 148500,
+      "currentXP": 148500
+    },
+    "249": {
+      "currentRank": 1,
+      "nextRankXP": 0,
+      "currentXP": 0
+    }
+  },
+  "rapportLevel": 7
+}

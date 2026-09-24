@@ -1,0 +1,216 @@
+{
+  "build": {
+    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
+    "armor": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Medium, Focused"
+      },
+      "2": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Medium, Focused"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Medium, Focused"
+      },
+      "4": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Medium, Focused"
+      },
+      "5": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Medium, Shattering"
+      },
+      "6": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Medium, Shattering"
+      },
+      "7": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Medium, Shattering"
+      }
+    },
+    "weapons": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Bow, Quickened"
+      },
+      "2": {
+        "isEmpty": true,
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "displayText": "Empty"
+      }
+    },
+    "companionId": 12,
+    "skillAbilityIds": {
+      "1": 214948,
+      "2": 214703,
+      "3": 214865,
+      "4": 152863,
+      "5": 215001,
+      "6": 215215
+    },
+    "jewelry": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering"
+      },
+      "2": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering"
+      },
+      "3": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shattering"
+      }
+    },
+    "mainHandWeaponType": 8
+  },
+  "targetBuildHash": "AjEAcASRJEkSRIEgTw8PDxDTEmyMMuUA",
+  "level": 20,
+  "currentXP": 0,
+  "rapport": 5500,
+  "skillLineProgress": {
+    "180": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "181": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "182": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "183": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "184": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "185": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "186": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "187": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "188": {
+      "currentRank": 20,
+      "nextRankXP": 74250,
+      "currentXP": 74250
+    },
+    "189": {
+      "currentRank": 10,
+      "nextRankXP": 100,
+      "currentXP": 100
+    },
+    "190": {
+      "currentRank": 10,
+      "nextRankXP": 100,
+      "currentXP": 100
+    },
+    "191": {
+      "currentRank": 10,
+      "nextRankXP": 100,
+      "currentXP": 100
+    },
+    "264": {
+      "currentRank": 20,
+      "nextRankXP": 148500,
+      "currentXP": 148500
+    },
+    "265": {
+      "currentRank": 20,
+      "nextRankXP": 148500,
+      "currentXP": 148500
+    },
+    "266": {
+      "currentRank": 20,
+      "nextRankXP": 148500,
+      "currentXP": 148500
+    },
+    "267": {
+      "currentRank": 1,
+      "nextRankXP": 0,
+      "currentXP": 0
+    }
+  },
+  "rapportLevel": 7
+}
