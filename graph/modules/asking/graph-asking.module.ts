@@ -88,7 +88,7 @@ export const graphAsking = {
       statement: "An import edge going out says whether that edge names a type or names code.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An edge coming in says whether that edge names a type or names code.",
     },
     {
@@ -97,8 +97,17 @@ export const graphAsking = {
         "An import edge going out says whether that edge is followed as the file loads or later.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An edge coming in says whether that edge is followed as the file loads or later.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Both are read from the line the importer index filed rather than from the body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file importing another more than one way is one edge for each way, coming in as going out.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -17,7 +17,7 @@ export const names = {
       statement: "An edge naming code is loaded, however late that loading happens.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An edge coming in says what that edge names.",
     },
   ],

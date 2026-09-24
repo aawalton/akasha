@@ -21,7 +21,7 @@ export const loading = {
       statement: "A loop closed through a deferred edge alone is no loop at load.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An edge coming in says when that edge is followed.",
     },
   ],
