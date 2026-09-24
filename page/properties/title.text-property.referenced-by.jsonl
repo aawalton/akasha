@@ -3,10 +3,12 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/book/pages/all-about-alan/experiment/all-about-alan-experiment.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/book/pages/all-about-alan/model/all-about-alan-model.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/book/pages/all-about-alan/topic/all-about-alan-topic.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/car-research/car-make/properties/trims.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/car-research/car/car.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/chess/game/chess-game.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/chess/progress/chess-progress.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/chess/puzzle-set/chess-puzzle-set.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/chess/puzzle-set/properties/puzzles.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/chess/review-session/chess-review-session.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/place/location-collection/location-collection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/collection/place/location-deal/location-deal.page-type.types.ts"}
@@ -23,6 +25,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/monarch/category-rule/category-rule.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/monarch/merchant/monarch-merchant.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/monarch/record/monarch-record.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/library/litrpg-collection/litrpg-collection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/library/reading/author-collection/author-collection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/library/reading/author/author.page-type.types.ts"}
@@ -58,6 +61,8 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/self/life-theme/life-theme.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/style/appearance-experiment/appearance-experiment.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/daily/day/day.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/food-entry/food-entry.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/rejection/rejection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"alan/track/session-activity/session-activity.page-type.types.ts"}
@@ -119,6 +124,10 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/world.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.types.ts"}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"temper/player/character/temper-account/properties/placed-furnishings.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"temper/player/character/temper-mine/properties/quests.page-property-entry.types.ts"}
 {"propertySlug":"page-property","path":"alan/authoring/book-record/book-record.page-type.ts","id":"01a0657d-b91d-7500-8bc9-4bbfb71443f8"}
 {"propertySlug":"page-property","path":"alan/book/alan-book.page-type.ts","id":"01a06d23-26a9-7d50-bca7-7aa5849e1c17"}
 {"propertySlug":"page-property","path":"alan/book/pages/all-about-alan/experiment/all-about-alan-experiment.page-type.ts","id":"01a0657f-a729-7906-84f8-825c8af36228"}

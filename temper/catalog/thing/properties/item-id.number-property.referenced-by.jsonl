@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/catalog/gear/temper-reagent/temper-reagent.page-type.types.ts"}
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/catalog/skill/temper-scribing-thing/temper-scribing-thing.page-type.types.ts"}
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts"}
+{"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"item-id.number-property.types.ts","path":"temper/player/holdings/temper-sale/temper-sale.page-type.types.ts"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts","id":"01a05fd1-d434-7ce2-a20b-6926bf033e6f"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts","id":"01a05fd1-d435-7e26-b0e7-584020995ebe"}

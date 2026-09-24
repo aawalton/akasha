@@ -109,6 +109,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/descent/page-type-descent.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/gathering/page-type-gathering.module.code.ts"}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/type-schema/type-schema.module.code.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/type-schema/type-schema.module.test.ts"}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"page/type/modules/type-turning/type-turning.module.code.ts"}

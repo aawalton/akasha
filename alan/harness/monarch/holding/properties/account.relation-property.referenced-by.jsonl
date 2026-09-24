@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"account.relation-property.types.ts","path":"alan/harness/monarch/holding/monarch-holding.page-type.types.ts"}
+{"propertySlug":"import","fileName":"account.relation-property.types.ts","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.types.ts"}
 {"propertySlug":"page-property","path":"alan/harness/monarch/holding/monarch-holding.page-type.ts","id":"01a0680a-1a00-7016-b283-5a9c7e1f1116"}
 {"propertySlug":"page-property","path":"alan/harness/monarch/month/properties/transactions.page-property-entry.ts","id":"01a0680b-2b00-7011-9f83-5c2a6e4b2112"}
 {"propertySlug":"parts","path":"alan/harness/monarch/holding/monarch-holding.page-type.ts","id":"01a0680a-1a00-7016-b283-5a9c7e1f1116"}

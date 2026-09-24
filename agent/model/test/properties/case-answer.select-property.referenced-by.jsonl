@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"case-answer.select-property.ts","path":"agent/model/test/properties/case-answer.select-property.types.ts"}
+{"propertySlug":"import","fileName":"case-answer.select-property.types.ts","path":"agent/model/test/properties/cases.page-property-entry.types.ts"}
 {"propertySlug":"page-property","path":"agent/model/test/properties/cases.page-property-entry.ts","id":"01a053eb-6b25-7c2a-a50f-f804c41457e3"}
 {"propertySlug":"parts","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}

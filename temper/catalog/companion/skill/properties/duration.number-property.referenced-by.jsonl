@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"duration.number-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.types.ts"}
 {"propertySlug":"import","fileName":"duration.number-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-status.record-property.types.ts"}
 {"propertySlug":"import","fileName":"duration.number-property.types.ts","path":"temper/catalog/companion/skill/properties/nested-effect.record-property.types.ts"}
+{"propertySlug":"import","fileName":"duration.number-property.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.types.ts"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.ts","id":"01a06196-037a-7895-82cf-ee84fd21570f"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.ts","id":"01a06196-037a-7e14-80f7-0ae4cc1593d4"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-status.record-property.ts","id":"01a06196-037b-7292-b3da-52c4a6dc68a0"}

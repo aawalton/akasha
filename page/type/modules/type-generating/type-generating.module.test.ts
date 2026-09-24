@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   idFiled,
   listedFiled,
@@ -8,6 +9,8 @@ import {
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { id as idPage } from "akasha/page/properties/id.text-property.ts"
+import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
 import {
   generatorAt,
   turnsFor,
@@ -291,4 +294,78 @@ test("a calculation holding a relation has the type a relation property has", ()
       ].join("\n"),
     },
   ])
+})
+
+const ENTRY_AT = "page/scratch/properties/stretches.page-property-entry.ts"
+
+const LABEL_AT = "text-property/scratch-label"
+
+const RATE_AT = "number-property/scratch-rate"
+
+const FIELDS = new Map<string, string>([
+  [`${textProperty.slug}/${idPage.slug}`, "page/properties/id.text-property.ts"],
+  [LABEL_AT, "page/scratch/properties/scratch-label.text-property.ts"],
+  [RATE_AT, "page/scratch/properties/scratch-rate.number-property.ts"],
+])
+
+function fieldShape(named: string): Shape {
+  const [kind = "", slug = ""] = named.split("/")
+  const none = { targetPageTypeSlug: null, unique: null, uniquePropertySlug: null }
+  return { ...none, pageTypeSlug: kind, slug, propertySlug: slug, fileName: null, folderName: null }
+}
+
+function shadowOfEntry(value: Record<string, unknown>): Shadow {
+  const pages = new Map<string, Record<string, unknown>>([[ENTRY_AT, value]])
+  for (const [named, path] of FIELDS) pages.set(path, { slug: fieldShape(named).slug, types: "ts" })
+  const index = {
+    kindsUnder: (kind: string) => new Set(kind === "page-property" ? ["page-property-entry"] : []),
+    everyOfType: (kind: string) =>
+      kind === "page-property-entry" ? [{ path: ENTRY_AT, id: ENTRY_AT }] : [],
+    listedAt: (kind: string, slug: string) => {
+      const path = FIELDS.get(`${kind}/${slug}`)
+      return path === undefined ? [] : [{ path, id: path }]
+    },
+    shapesAt: () => new Map([...FIELDS.keys()].map((named) => [named, fieldShape(named)])),
+  } as never
+  return { ...shadowOf(pages), index, before: () => index }
+}
+
+test("a page property entry has a row type written from the fields that entry declares", () => {
+  const shadow = shadowOfEntry({
+    slug: "stretches",
+    types: "ts",
+    properties: [
+      { pageProperty: LABEL_AT, required: true, many: false },
+      { pageProperty: RATE_AT, required: false, many: false },
+    ],
+  })
+  expect(generateTypes(ROOT, shadow)[0]?.content).toBe(
+    [
+      'import type { Id } from "akasha/page/properties/id.text-property.types.ts"',
+      'import type { ScratchLabel } from "akasha/page/scratch/properties/scratch-label.text-property.types.ts"',
+      'import type { ScratchRate } from "akasha/page/scratch/properties/scratch-rate.number-property.types.ts"',
+      "",
+      'export type Stretches = "jsonl"',
+      "",
+      "export type StretchesRow = {",
+      "  id: Id",
+      "  scratchLabel: ScratchLabel",
+      "  scratchRate?: ScratchRate",
+      "}",
+      "",
+    ].join("\n")
+  )
+})
+
+test("that row type holds the id an entry declares once", () => {
+  const idAt = `${textProperty.slug}/${idPage.slug}`
+  const properties = [{ pageProperty: idAt, required: true, many: false }]
+  const shadow = shadowOfEntry({ slug: "stretches", types: "ts", properties })
+  const said = generateTypes(ROOT, shadow)[0]?.content ?? ""
+  expect(said.split("\n").filter((line) => line === "  id: Id")).toHaveLength(1)
+})
+
+test("a page property entry declaring no fields has only the type of its key written", () => {
+  const shadow = shadowOfEntry({ slug: "stretches", types: "ts" })
+  expect(generateTypes(ROOT, shadow)[0]?.content).toBe('export type Stretches = "jsonl"\n')
 })

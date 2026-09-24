@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"value-per-piece.number-property.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"value-per-piece.number-property.types.ts","path":"temper/catalog/thing/properties/effects.page-property-entry.types.ts"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
 {"propertySlug":"page-property","path":"temper/catalog/thing/properties/effects.page-property-entry.ts","id":"01a05fb0-3ceb-742c-998f-6122c9954a30"}
 {"propertySlug":"parts","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}

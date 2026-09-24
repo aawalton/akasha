@@ -80,6 +80,15 @@ export const pageProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A page property entry has a row type written from the fields that entry declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That row type holds the id every entry carries beside those fields.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A property choosing from a set states that set, or takes the set its page type states.",
     },
     {

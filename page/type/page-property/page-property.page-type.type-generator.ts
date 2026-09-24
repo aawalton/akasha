@@ -8,6 +8,7 @@ import {
 } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
 import { turnedBy } from "akasha/page/type/modules/type-turning/type-turning.module.code.ts"
@@ -59,6 +60,16 @@ const HOLDS_RELATION = "relation"
 
 const HOLDS_RECORDS = "records"
 
+const ENTRY = "page-property-entry"
+
+const REQUIRED = "required"
+
+const ID = "id"
+
+const ID_AT = `${textProperty.slug}/${idPage.slug}` as const
+
+const ROW = "Row"
+
 const WORKED = new Map<string, string>([
   ["boolean", "boolean"],
   ["date", "string"],
@@ -93,6 +104,7 @@ function typesAtOf(path: string): string | null {
 export type Written = {
   readonly held: string
   readonly imports: readonly string[]
+  readonly row?: string
 }
 
 function declaringMany(shadow: Shadow, kind: string, found: Set<string>): undefined {
@@ -200,8 +212,18 @@ function recordsIn(shadow: Shadow, asked: Asked): Written | null {
   }
 }
 
+function rowedIn(shadow: Shadow, asked: Asked, held: string): Written {
+  const declared = asked.value[PROPERTIES]
+  if (!Array.isArray(declared)) return { held, imports: [] }
+  const keyed = keysFor(shadow, asked.value, asked.resolving).some((one) => one.key === ID)
+  const carried = keyed ? declared : [{ [PROPERTY_AT]: ID_AT, [REQUIRED]: true }, ...declared]
+  const row = recordIn(shadow, { ...asked, value: { [PROPERTIES]: carried } })
+  return row === null ? { held, imports: [] } : { held, imports: row.imports, row: row.held }
+}
+
 function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   const held = HELD.get(asked.kind)
+  if (held !== undefined && asked.kind === ENTRY) return rowedIn(shadow, asked, held)
   if (held !== undefined) return { held, imports: [] }
   if (shadow.index.kindsUnder(RELATION).has(asked.kind)) return memberIn(shadow, SLUG_AT)
   if (asked.kind === RECORD) return recordIn(shadow, asked)
@@ -234,7 +256,9 @@ function bodyFor(slug: string, written: Written, many: boolean, nothing: boolean
   const listed = many ? `List<${written.held}>` : written.held
   const said = nothing ? `${listed} | null` : listed
   const lines = [...imports, ...(imports.length === 0 ? [] : [""])]
-  return `${[...lines, `export type ${typedAs(slug)} = ${said}`].join("\n")}\n`
+  const rowed =
+    written.row === undefined ? [] : ["", `export type ${typedAs(slug)}${ROW} = ${written.row}`]
+  return `${[...lines, `export type ${typedAs(slug)} = ${said}`, ...rowed].join("\n")}\n`
 }
 
 export function couldTurn(change: Change): boolean {

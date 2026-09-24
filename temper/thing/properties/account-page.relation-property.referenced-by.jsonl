@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/character/temper-account-character/temper-account-character.page-type.types.ts"}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/character/temper-build-version/temper-build-version.page-type.types.ts"}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.types.ts"}
+{"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/holdings/temper-net-worth-hour/properties/readings.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/holdings/temper-sale/temper-sale.page-type.types.ts"}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.types.ts"}
 {"propertySlug":"import","fileName":"account-page.relation-property.types.ts","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.types.ts"}

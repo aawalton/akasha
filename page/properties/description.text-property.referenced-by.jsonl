@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"alan/chess/progress/chess-progress.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"alan/collection/collection.page-type.types.ts"}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"page/page.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.types.ts"}
@@ -13,6 +14,9 @@
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.types.ts"}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/affix-scripts.page-property-entry.types.ts"}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/signature-scripts.page-property-entry.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/temper-skill.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/skill/type/temper-skill-type.page-type.types.ts"}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.types.ts"}

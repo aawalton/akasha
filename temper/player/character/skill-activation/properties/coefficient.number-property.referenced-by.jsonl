@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"coefficient.number-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-formula.record-property.types.ts"}
+{"propertySlug":"import","fileName":"coefficient.number-property.types.ts","path":"temper/player/character/skill-activation/properties/activation-effects.page-property-entry.types.ts"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-formula.record-property.ts","id":"01a06196-0379-794b-ab04-2e9ba72de0d9"}
 {"propertySlug":"page-property","path":"temper/player/character/skill-activation/properties/activation-effects.page-property-entry.ts","id":"01a05fcd-f548-76d2-9bca-20e59187c7a2"}
 {"propertySlug":"parts","path":"temper/player/character/skill-activation/temper-character-skill-activation.page-type.ts","id":"01a05fcd-f54a-7717-a057-2b49e5aeaa04"}
