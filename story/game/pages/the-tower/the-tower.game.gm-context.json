@@ -274,7 +274,7 @@
       "bands": [
         "**What is true of a place is on its own `place` page and on every `lore` page whose `about` names it.** A `place` extends `lore` and carries facts of its own. Before running a place, read its `place` page and every `lore` page whose `about` names it and whose `loreDisclosure` is `lore-disclosure/game-master`, `lore-disclosure/player` or `lore-disclosure/wiki`. This world's places sit at `story/world/pages/personas/places/` and its lore at `story/world/pages/personas/lore/`.",
         "**What is true of a creature is on every `lore` page whose `about` names it.** Before running a creature, read every `lore` page whose `about` names its `character` page, with the same disclosures.",
-        "**Lore at `lore-disclosure/world-builder` is not yours to read** unless this context names the moment you read it."
+        "**Lore at `lore-disclosure/world-builder` is never yours to read.** Ask the world builder, who moves a lore page down when its moment comes."
       ],
       "title": "Lore"
     },
@@ -361,9 +361,21 @@
       "id": "death",
       "bands": [
         "**Say nothing about what death means for Alan, and play a death straight.**",
-        "**When Alan first dies, read `story/world/pages/personas/lore/death-loop.lore.ts`, and not before.**"
+        "**You never read world-builder lore.** After publishing the turn in which Alan dies, send the world builder that turn's path and ask \"may I know what his death means yet?\": `akasha seat send --to iris-world-builder-the-tower --body '<turn path>: may I know what his death means yet?'`",
+        "**Wait for the answer before writing the next turn.** A refused send leaves the fact hidden; play on."
       ],
       "title": "Death is played straight"
+    },
+    {
+      "id": "world-builder",
+      "bands": [
+        "The world builder sits above you in the seat `iris-world-builder-the-tower`. It alone moves a lore page's disclosure down: `lore-disclosure/world-builder`, then `lore-disclosure/game-master`, then `lore-disclosure/player`, then `lore-disclosure/wiki`, never back.",
+        "Lore at `lore-disclosure/world-builder` never reaches you; a hook refuses your reads of it.",
+        "Reach the world builder only to ask whether you may know a fact yet, never for approval of what you write.",
+        "After publishing each turn, send the world builder the published turn's page path: `akasha seat send --to iris-world-builder-the-tower --body '<text>'`. When play reaches the moment a fact waits on, the world builder moves that lore page down and sends you its path.",
+        "A refused send leaves the fact hidden; play on."
+      ],
+      "title": "The world builder"
     }
   ],
   "tallyCatalog": {
