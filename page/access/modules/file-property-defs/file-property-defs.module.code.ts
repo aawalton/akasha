@@ -119,7 +119,21 @@ export function renderedType(pageTypeSlug: string): string {
   return pageTypeSlug.endsWith(DECLARED_BY) ? RENDERED_PLAIN : pageTypeSlug
 }
 
-function definitionOf(one: Declared): PropertyDefinition {
+const COMPUTED = "computed-property"
+
+const RELATION = "relation-property"
+
+function drawnAs(one: Declared): readonly string[] {
+  if (one.type !== COMPUTED || one.targetSlug === null) return one.drawnBy
+  return [RELATION, ...one.drawnBy.filter((slug) => slug !== RELATION)]
+}
+
+function typeOf(one: Declared): string {
+  if (one.type === COMPUTED && one.targetSlug !== null) return renderedType(RELATION)
+  return renderedType(one.type)
+}
+
+export function definitionOf(one: Declared): PropertyDefinition {
   const config: Record<string, Json> = {}
   const options = optionsFrom(one.values)
   if (options !== null) config.options = coloredIn(options, coloredBy(one.optionColors))
@@ -130,8 +144,8 @@ function definitionOf(one: Declared): PropertyDefinition {
     id: camelizeKey(one.key),
     key: one.key,
     title: one.title,
-    type: renderedType(one.type),
-    drawnBy: one.drawnBy,
+    type: typeOf(one),
+    drawnBy: drawnAs(one),
     ...(one.memberDrawnBy.length === 0 ? {} : { memberDrawnBy: one.memberDrawnBy }),
     ...(one.fields.length === 0 ? {} : { fields: one.fields.map(definitionOf) }),
     pageId: one.pageId,

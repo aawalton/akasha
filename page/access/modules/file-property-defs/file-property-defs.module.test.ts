@@ -1,5 +1,26 @@
 import { expect, test } from "bun:test"
-import { renderedType } from "akasha/page/access/modules/file-property-defs/file-property-defs.module.code.ts"
+import {
+  definitionOf,
+  renderedType,
+} from "akasha/page/access/modules/file-property-defs/file-property-defs.module.code.ts"
+import type { Declared } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
+
+const WORKED: Declared = {
+  key: "worked-tint",
+  type: "computed-property",
+  drawnBy: ["computed-property", "page-property"],
+  memberDrawnBy: [],
+  fields: [],
+  title: "Worked Tint",
+  pageId: "",
+  on: "held",
+  values: null,
+  optionColors: null,
+  targetSlug: null,
+  slugProperty: "worked-tint",
+  mayBeGone: true,
+  verbId: null,
+}
 
 const DRAWN = [
   "text",
@@ -65,4 +86,17 @@ test("a property page type named nowhere renders as text", () => {
 test("a type a screen already draws is left as that type", () => {
   expect(renderedType("markdown")).toBe("markdown")
   expect(renderedType("rich-document")).toBe("rich-document")
+})
+
+test("a computed property naming a page type to reach is drawn as a relation is", () => {
+  const drawn = definitionOf({ ...WORKED, targetSlug: "tint" })
+  expect(drawn.type).toBe("relation")
+  expect(drawn.drawnBy).toEqual(["relation-property", "computed-property", "page-property"])
+  expect(drawn.config).toEqual({ targetPageTypeSlug: "tint" })
+})
+
+test("a computed property naming no page type to reach is drawn as its own chain draws it", () => {
+  const drawn = definitionOf(WORKED)
+  expect(drawn.type).toBe("text")
+  expect(drawn.drawnBy).toEqual(["computed-property", "page-property"])
 })

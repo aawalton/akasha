@@ -74,5 +74,9 @@ export const filePropertyDefs = {
       decisionKind: "decision-kind/departure",
       statement: "An action button's definition names the verb its property's page states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A computed property naming a page type to reach is drawn as a relation is.",
+    },
   ],
 } as const satisfies Module

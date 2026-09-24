@@ -129,6 +129,11 @@ export const computedProperty = {
       statement:
         "A calculation holding a relation answers the address of a page of the type reached.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A value a calculation holding a relation works out is drawn as a relation's value is.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
