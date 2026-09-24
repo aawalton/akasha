@@ -5207,6 +5207,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/path/modules/eso-paths/eso-paths.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/path/modules/lua-files/lua-files.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/engine-answers-seeding/engine-answers-seeding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/engine-returns-reading/engine-returns-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/modules/account-wide/account-wide.module.ts"}

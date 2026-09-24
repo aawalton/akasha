@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/watcher/modules/watcher-import-characters/watcher-import-characters.module.code.ts"}

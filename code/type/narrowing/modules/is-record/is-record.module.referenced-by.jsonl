@@ -47,6 +47,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"}

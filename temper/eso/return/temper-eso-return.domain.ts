@@ -4,11 +4,14 @@ export const temperEsoReturn = {
   id: "01a0d3c5-26b3-7e9b-a4cc-6e4b1be2fbe7",
   type: "page-type/domain",
   slug: "temper-eso-return",
-  definition: "what the game's documentation says a function gives back",
+  definition: "what a function of the game gives back",
   parts: [
     "data-table/engine-returns",
     "module/engine-returns-reading",
     "module/engine-returns-seeding",
+    "data-table/engine-answers",
+    "module/engine-answers-reading",
+    "module/engine-answers-seeding",
   ],
   decisions: [
     {
@@ -27,6 +30,10 @@ export const temperEsoReturn = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A kind is written as the emptiest value of that kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A function the running game was asked gives back what the game answered.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -157,6 +157,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/declaration/modules/eso-opt-in/eso-opt-in.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/lua-runner/modules/persistent-vm/persistent-vm.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/return/modules/engine-answers-seeding/engine-answers-seeding.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"}
