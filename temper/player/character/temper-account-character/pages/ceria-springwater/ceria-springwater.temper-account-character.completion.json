@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQH8MUAAIBghRMi5V1QpVbVLVOVC1TlQtU5ULVOVC1TlQSk5UEpOVBKTlJhFJyyTRScsAAAHNuMQtE_JbBHXBqAAAABAgDUEABAGAACQAIAAQAACEAADJwAjAGYQBkABCAwIABLJIFAjEQAwwAAACAMAHIAhAcAABDA5y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyFEEga7UeYMA",
+  "buildHash": "ATQH8MUAAIBghRP__AAABzbjELRPyWwR1wagAAAAQIA1BAAQBgAAkACAAEAAAhAAAycAIwBmEAZAAQgMCAASySBQIxEAMMAAAAgDAByAIQHAAAQwOcujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxtHZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMhRBIGu1HmDA",
   "gender": 1,
   "level": 50,
   "classId": 4,
@@ -12476,8 +12476,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-24",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-24"
   },
   "dailyWritStates": {
     "completed": {
