@@ -3,10 +3,16 @@ import type { Reach, Work } from "akasha/page/computed-property/computed-propert
 
 export type Held = Record<string, unknown>
 
+export type Reaches = {
+  readonly slug: string
+  readonly kinds: ReadonlySet<string>
+}
+
 export type Computed = {
   readonly slug: string
   readonly key: string
   readonly holds: string
+  readonly reaches?: Reaches
   readonly work: Work<Held, unknown>
 }
 
@@ -42,10 +48,25 @@ const JUDGED: Readonly<Record<string, (held: unknown) => boolean>> = {
   date: (held) => typeof held === "string" && /^\d{4}-\d{2}-\d{2}$/.test(held),
   instant: (held) => typeof held === "string" && !Number.isNaN(Date.parse(held)),
   number: (held) => typeof held === "number" && Number.isFinite(held),
+  relation: (held) => typeof held === "string",
   text: (held) => typeof held === "string",
 }
 
 const KINDS: readonly string[] = Object.keys(JUDGED).sort()
+
+const RELATION = "relation"
+
+const SLASH = "/"
+
+function shapeFault(one: Computed): string | null {
+  if (one.holds === RELATION && one.reaches === undefined) {
+    return `\`${one.slug}\` states it holds a relation, and names no page type that relation reaches`
+  }
+  if (one.holds !== RELATION && one.reaches !== undefined) {
+    return `\`${one.slug}\` names \`${one.reaches.slug}\` as the page type it reaches, and states it holds ${one.holds} rather than a relation`
+  }
+  return null
+}
 
 function nameOf(held: unknown): string {
   if (held === null) return "nothing"
@@ -70,6 +91,17 @@ export function computingOver(source: Source): Computing {
   const frames: string[] = []
   const walking: Subject[] = []
 
+  const namingFault = (one: Computed, held: string): string | null => {
+    const reaches = one.reaches
+    if (reaches === undefined) return null
+    const said = `\`${one.slug}\` states it holds a relation to \`${reaches.slug}\`, and its calculation answered \`${held}\``
+    const cut = held.indexOf(SLASH)
+    if (cut <= 0 || cut === held.length - 1) return `${said}, which is no page's address`
+    if (!reaches.kinds.has(held.slice(0, cut))) return `${said}, which is no page of that type`
+    if (source.subjectAt(held) === null) return `${said}, which names no page`
+    return null
+  }
+
   const heldBy = (subject: Subject, one: Computed, view: Held): unknown => {
     const frame = `${subject.id}#${one.slug}`
     const already = answers.get(frame)
@@ -85,6 +117,8 @@ export function computingOver(source: Source): Computing {
     frames.push(frame)
     walking.push(subject)
     try {
+      const shaped = shapeFault(one)
+      if (shaped !== null) throw new Error(shaped)
       const answered = one.work(view, reach)
       const judge = JUDGED[one.holds]
       if (judge === undefined) {
@@ -101,6 +135,8 @@ export function computingOver(source: Source): Computing {
           `\`${one.slug}\` states it holds ${one.holds}, and its calculation answered ${nameOf(answered)}`
         )
       }
+      const named = typeof answered === "string" ? namingFault(one, answered) : null
+      if (named !== null) throw new Error(named)
       answers.set(frame, { held: answered })
       return answered
     } catch (thrown) {

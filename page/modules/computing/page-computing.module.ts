@@ -105,5 +105,26 @@ export const pageComputing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the formula language.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A calculation holding a relation answers the address of the page the relation names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation naming a page of a type extending the type reached is held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation naming a page of another type, or naming no page, is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property holding a relation and naming no page type to reach is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property naming a page type to reach and holding another kind is refused.",
+    },
   ],
 } as const satisfies Module

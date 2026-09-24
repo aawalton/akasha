@@ -3,8 +3,10 @@ import {
   type Computed,
   computingOver,
   type Held,
+  type Reaches,
   type Source,
   type Subject,
+  type Working,
 } from "akasha/page/modules/computing/page-computing.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 
@@ -190,5 +192,67 @@ describe("the values a page type's calculations work out", () => {
 
   test("a page no slug names is answered as nothing", () => {
     expect(computingOver(sourceOf({})).workedAt("gone")).toBe(null)
+  })
+})
+
+const TINT: Reaches = { slug: "tint", kinds: new Set(["tint", "deep-tint"]) }
+
+function reaching(slug: string, work: Computed["work"]): Computed {
+  return { ...held(slug, "relation", work), reaches: TINT }
+}
+
+function namedBy(answer: string): Working | null {
+  const source = sourceOf({
+    "tint/moss": page("t", {}, []),
+    "deep-tint/fern": page("d", {}, []),
+    "shade/dusk": page("s", {}, []),
+    seat: page("1", {}, [reaching("worked-tint", () => answer)]),
+  })
+  return computingOver(source).workedAt("seat")
+}
+
+describe("a calculation holding a relation", () => {
+  test("a relation naming a page of the type reached is held as that page's address", () => {
+    const working = namedBy("tint/moss")
+    expect(working?.value["workedTint"]).toBe("tint/moss")
+    expect(working?.dark.size).toBe(0)
+  })
+
+  test("a relation naming a page of a type extending the type reached is held", () => {
+    expect(namedBy("deep-tint/fern")?.value["workedTint"]).toBe("deep-tint/fern")
+  })
+
+  test("a relation naming a page of another type is refused", () => {
+    const working = namedBy("shade/dusk")
+    expect("workedTint" in (working?.value ?? {})).toBe(false)
+    expect(working?.dark.get("workedTint")).toContain("which is no page of that type")
+  })
+
+  test("a relation naming no page is refused", () => {
+    expect(namedBy("tint/gone")?.dark.get("workedTint")).toContain("which names no page")
+  })
+
+  test("a relation that is no page's address is refused", () => {
+    expect(namedBy("moss")?.dark.get("workedTint")).toContain("which is no page's address")
+  })
+
+  test("a relation that is no text is refused", () => {
+    const source = sourceOf({ seat: page("1", {}, [reaching("worked-tint", () => 4)]) })
+    const working = computingOver(source).workedAt("seat")
+    expect(working?.dark.get("workedTint")).toBe(
+      "`worked-tint` states it holds relation, and its calculation answered number"
+    )
+  })
+
+  test("a property holding a relation and naming no page type to reach is refused", () => {
+    const source = sourceOf({ seat: page("1", {}, [held("worked-tint", "relation", () => "a/b")]) })
+    const working = computingOver(source).workedAt("seat")
+    expect(working?.dark.get("workedTint")).toContain("names no page type that relation reaches")
+  })
+
+  test("a property naming a page type to reach and holding another kind is refused", () => {
+    const text: Computed = { ...held("worked-tint", "text", () => "tint/moss"), reaches: TINT }
+    const working = computingOver(sourceOf({ seat: page("1", {}, [text]) })).workedAt("seat")
+    expect(working?.dark.get("workedTint")).toContain("states it holds text rather than a relation")
   })
 })
