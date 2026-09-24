@@ -5,4 +5,5 @@ export const claudeCodeTool = {
   type: "page-type/domain",
   slug: "claude-code-tool",
   definition: "an agent tool built into Claude Code",
+  parts: ["computed-property-module/tool-subject"],
 } as const satisfies Domain

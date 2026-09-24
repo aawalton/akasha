@@ -1,3 +1,4 @@
+import { toolSubject } from "akasha/agent/claude-code/tool/modules/tool-subject/tool-subject.computed-property-module.code.ts"
 import { z } from "zod"
 
 export interface ToolCallEntry {
@@ -46,54 +47,7 @@ const rawRecordSchema = z.looseObject({
 })
 type RawRecord = z.infer<typeof rawRecordSchema>
 
-const toolInputSchema = z.record(z.string(), z.unknown())
-
 const messageContentSchema = z.union([z.string(), z.array(rawBlockSchema)])
-
-const SUBJECT_FIELDS: Readonly<Record<string, readonly string[]>> = {
-  Bash: ["command"],
-  Read: ["file_path"],
-  Write: ["file_path"],
-  Edit: ["file_path"],
-  NotebookEdit: ["notebook_path"],
-  Grep: ["pattern"],
-  Glob: ["pattern"],
-  Agent: ["description"],
-  Task: ["description"],
-  WebFetch: ["url"],
-  WebSearch: ["query"],
-  SendMessage: ["summary"],
-}
-
-function firstLine(value: string, limit = 200): string {
-  const flattened = value.replace(/\s+/g, " ").trim()
-  return flattened.length > limit ? `${flattened.slice(0, limit - 1)}…` : flattened
-}
-
-function toolSubject(name: string, input: unknown): string {
-  const parsed = toolInputSchema.safeParse(input)
-  if (!parsed.success) {
-    return ""
-  }
-  const record = parsed.data
-  for (const field of SUBJECT_FIELDS[name] ?? []) {
-    const value = record[field]
-    if (typeof value === "string" && value.trim() !== "") {
-      return firstLine(value)
-    }
-  }
-  for (const value of Object.values(record)) {
-    if (typeof value === "string" && value.trim() !== "") {
-      return firstLine(value)
-    }
-  }
-  for (const [key, value] of Object.entries(record)) {
-    if (typeof value === "number" || typeof value === "boolean") {
-      return firstLine(`${key}=${String(value)}`)
-    }
-  }
-  return ""
-}
 
 function resultText(content: unknown): string {
   const parsed = messageContentSchema.safeParse(content)

@@ -53,7 +53,7 @@ export const transcriptModel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A tool's subject is one line of at most 200 characters.",
+      statement: "A tool's subject is the one `tool-subject` names.",
     },
   ],
 } as const satisfies Module

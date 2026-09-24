@@ -15,6 +15,7 @@
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/state/claude-code-session-state.domain.ts","id":"01a0ca0f-33c7-78f8-89c7-c79ecf784fac"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/store/claude-code-session-store.domain.ts","id":"01a065b0-2103-7e19-a5cb-8f425124086c"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/session/transition/claude-code-session-transition.domain.ts","id":"01a0c9f5-cdad-7bb4-a56e-5fa84e5c5b7e"}
+{"propertySlug":"decision-kind","path":"agent/claude-code/tool/modules/tool-subject/tool-subject.computed-property-module.ts","id":"01a0d449-33fb-78de-8beb-59f00d03ca31"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/agent-hook.page-type.ts","id":"01a04e0a-f8fa-7fb8-a730-0e27c83701be"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.ts","id":"01a04e17-0958-7be5-9b50-5a856c02c5a6"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.ts","id":"01a04eb3-0e18-748c-9e7f-ae84d9254e02"}
