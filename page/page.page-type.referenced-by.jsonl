@@ -7,6 +7,8 @@
 {"propertySlug":"extends-type","path":"agent/seat/conditions/seat-conditions.page-type.ts","id":"01a06837-f101-7420-89ad-7e146f4cbaf5"}
 {"propertySlug":"extends-type","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
 {"propertySlug":"extends-type","path":"agent/seat/log-source/log-source.page-type.ts","id":"01a0657c-cb14-7c6f-83df-0d533f4f7821"}
+{"propertySlug":"extends-type","path":"agent/seat/mode/seat-mode.page-type.ts","id":"01a0d4cf-8d02-7b34-bb6d-91cc631b1b37"}
+{"propertySlug":"extends-type","path":"agent/seat/supervisor-restart/re-exec-ask-state/re-exec-ask-state.page-type.ts","id":"01a0d4cf-9736-7294-8e49-079e6191ba26"}
 {"propertySlug":"extends-type","path":"alan/authoring/book-record/book-record.page-type.ts","id":"01a0657d-b91d-7500-8bc9-4bbfb71443f8"}
 {"propertySlug":"extends-type","path":"alan/book/pages/all-about-alan/experiment/all-about-alan-experiment.page-type.ts","id":"01a0657f-a729-7906-84f8-825c8af36228"}
 {"propertySlug":"extends-type","path":"alan/book/pages/all-about-alan/model/all-about-alan-model.page-type.ts","id":"01a0657f-a729-72ba-94d1-7b8ccb90a8e4"}
@@ -162,6 +164,8 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/seat/conditions/seat-conditions.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/seat/log-day/seat-log-day.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/seat/log-source/log-source.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/seat/mode/seat-mode.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/seat/supervisor-restart/re-exec-ask-state/re-exec-ask-state.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/authoring/book-record/book-record.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/book/pages/all-about-alan/experiment/all-about-alan-experiment.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"alan/book/pages/all-about-alan/model/all-about-alan-model.page-type.types.ts"}

@@ -270,6 +270,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/properties/seat-name.text-property.ts","id":"01a0657c-cb14-7705-a95e-4fca37cc48c2"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-source/log-source.page-type.ts","id":"01a0657c-cb14-7c6f-83df-0d533f4f7821"}
+{"propertySlug":"decision-kind","path":"agent/seat/mode/seat-mode.page-type.ts","id":"01a0d4cf-8d02-7b34-bb6d-91cc631b1b37"}
 {"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/seat-gateway-state/seat-gateway-state.module.ts","id":"01a06949-b281-74be-8e33-ceb172d49567"}
 {"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-gateway-adoption-decide/supervisor-gateway-adoption-decide.module.ts","id":"01a06838-5a84-7004-bfa3-4f11134ef503"}
 {"propertySlug":"decision-kind","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.ts","id":"01a06838-5a84-7005-8c03-97e98844c99e"}
@@ -348,6 +349,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/modules/install/supervisor-restart-install.module.ts","id":"01a06876-abda-7010-b833-f472fa23d6e8"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.ts","id":"01a0683e-3dbe-7021-a398-c5d697666940"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.ts","id":"01a0683e-3dbe-7023-a794-3a24720e3484"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor-restart/re-exec-ask-state/re-exec-ask-state.page-type.ts","id":"01a0d4cf-9736-7294-8e49-079e6191ba26"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/modules/run-supervisor/run-supervisor.module.ts","id":"01a069c8-f654-7d87-acd6-65d71f1132ff"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/modules/supervisor-args/supervisor-args.module.ts","id":"01a0683e-3dbe-700a-81ce-5968abd14734"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.ts","id":"01a0683e-3dbe-7014-bf13-b392ad858c1e"}

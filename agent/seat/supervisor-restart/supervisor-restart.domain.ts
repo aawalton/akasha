@@ -14,5 +14,6 @@ export const supervisorRestart = {
     "module/supervisor-restart-install",
     "module/supervisor-restart-jitter-decide",
     "module/supervisor-restart-state",
+    "page-type/re-exec-ask-state",
   ],
 } as const satisfies Domain

@@ -57,6 +57,7 @@ export const seat = {
     "page-type/log-source",
     "page-type/seat-conditions",
     "page-type/seat-log-day",
+    "page-type/seat-mode",
     "page-type/seat-turn-state",
     "process-property/gateway-process",
     "process-property/supervisor-process",

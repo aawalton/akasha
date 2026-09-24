@@ -196,7 +196,9 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/conditions/seat-conditions.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/log-day/seat-log-day.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/log-source/log-source.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/mode/seat-mode.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/seat.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/supervisor-restart/re-exec-ask-state/re-exec-ask-state.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/turn-state/seat-turn-state.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/settings/agent-settings.page-type.ts"}
