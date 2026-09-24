@@ -70,6 +70,9 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { z } from "zod"
+
+const SETTINGS_BLOB = z.record(z.string(), z.unknown())
 
 const TEMPER_INVENTORY_SIBLINGS = ["db", "version"] as const
 
@@ -156,17 +159,17 @@ async function settingsBodyOf(
 
 export function settingsIn(body: string | null, types: readonly string[]): Record<string, unknown> {
   if (body === null || body.trim() === "") return {}
-  let read: unknown
+  let read: ReturnType<typeof SETTINGS_BLOB.safeParse>
   try {
-    read = JSON.parse(body)
+    read = SETTINGS_BLOB.safeParse(JSON.parse(body))
   } catch (err) {
     const why = err instanceof Error ? err.message : String(err)
     throw new Error(
       `the settings beside the ${ACCOUNT_PAGE_TYPE} page hold ${body.length} byte(s) that are not valid JSON: ${why}`
     )
   }
-  const settings = asRecord(read)
-  if (!settings) return {}
+  if (!read.success) return {}
+  const settings = read.data
   const held: Record<string, unknown> = {}
   for (const type of types) {
     if (settings[type] !== undefined) held[type] = settings[type]

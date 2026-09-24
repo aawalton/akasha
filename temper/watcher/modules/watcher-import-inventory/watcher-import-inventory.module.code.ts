@@ -34,6 +34,9 @@ import {
   type SignedInReader,
   userIdFor,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
+import { z } from "zod"
+
+const SETTINGS_BLOB = z.record(z.string(), z.unknown())
 
 const NO_REPLACEMENT_PRICING =
   "No crown consumable pricing available — skipping replacement cost enrichment."
@@ -57,9 +60,9 @@ const INVENTORY_SETTINGS = "inventory"
 
 export function inventorySettingsIn(body: unknown): unknown {
   if (typeof body !== "string" || body === "") return undefined
-  const parsed: unknown = JSON.parse(body)
-  if (parsed === null || typeof parsed !== "object") return undefined
-  return (parsed as Record<string, unknown>)[INVENTORY_SETTINGS]
+  const parsed = SETTINGS_BLOB.safeParse(JSON.parse(body))
+  if (!parsed.success) return undefined
+  return parsed.data[INVENTORY_SETTINGS]
 }
 
 const EXCLUSION_LABELS = {

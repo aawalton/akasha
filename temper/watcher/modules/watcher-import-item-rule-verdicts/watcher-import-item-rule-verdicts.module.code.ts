@@ -1,7 +1,4 @@
-import {
-  asRecord,
-  asRecordOrEmpty,
-} from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
+import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { isJson } from "akasha/code/type/narrowing/modules/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
@@ -45,6 +42,8 @@ const VERDICT_SCHEMA = z
   .strict()
 
 const OUTBOX_SCHEMA = luaArrayOrEmpty(z.unknown())
+
+const SETTINGS_BLOB = z.record(z.string(), z.unknown())
 
 export type ItemRuleVerdict = z.infer<typeof VERDICT_SCHEMA>
 
@@ -120,7 +119,8 @@ async function settingsBlobOf(userId: string): Promise<Record<string, unknown> |
         `beside the account page, so what is already set went unread`
     )
   }
-  return asRecordOrEmpty(JSON.parse(held))
+  const blob = SETTINGS_BLOB.safeParse(JSON.parse(held))
+  return blob.success ? blob.data : {}
 }
 
 function accountSettingsStore(): VerdictSettingsStore {
