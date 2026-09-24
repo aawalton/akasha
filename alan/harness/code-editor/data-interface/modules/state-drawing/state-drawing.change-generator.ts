@@ -21,6 +21,19 @@ export const stateDrawing = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A picture is a file the change carries rather than a file a landing writes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Drawing the pictures inside the hold would keep every other landing waiting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing overlapping another can write back a picture drawn before the other landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A picture made from committed pages alone is a file change the landing carries.",
     },
     {

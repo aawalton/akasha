@@ -39,18 +39,7 @@ export const changePreparing = {
       statement:
         "Formatting a body leaves every other thing the change says about that path unchanged.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A change with a package manifest has the lockfile those manifests warrant.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The lockfile is made again before the gate sees the change.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A lockfile that could not be made is said rather than refusing the change.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Formatting and the change generators are worked out before the hold is taken.",
@@ -154,33 +143,7 @@ export const changePreparing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file or takes the hold.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The index answers the change carries are worked out before the hold is taken alongside those six.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Those answers are worked out over a change carrying every generated body.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The editor's pictures of the pages are drawn over that same change before the hold is taken.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A picture is a file the change carries rather than a file a landing writes.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Drawing the pictures inside the hold would keep every other landing waiting.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A landing overlapping another can write back a picture drawn before the other landed.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
