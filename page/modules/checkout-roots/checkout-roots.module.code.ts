@@ -1,6 +1,7 @@
 import { existsSync } from "node:fs"
 import { dirname, resolve } from "node:path"
 import { dirOfModule } from "akasha/code/path/modules/module-directory/module-directory.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { PINNED_AT } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import type { Repo } from "akasha/page/modules/markdown-document/markdown-document.module.code.ts"
 import type { Roots } from "akasha/page/modules/markdown-page-at/markdown-page-at.module.code.ts"
@@ -51,8 +52,8 @@ export function checkoutHere(): string {
 }
 
 function akashaFound(): string {
-  const stated = process.env[rootEnvName(AKASHA)]
-  if (stated !== undefined && stated !== "") return resolve(stated)
+  const stated = optionalEnv(rootEnvName(AKASHA))
+  if (stated !== undefined) return resolve(stated)
   return checkoutHere()
 }
 
@@ -102,8 +103,8 @@ export function rootBeside(repo: string): string {
 }
 
 function rootOf(repo: string): string {
-  const stated = process.env[rootEnvName(repo)]
-  if (stated === undefined || stated === "") return rootBeside(repo)
+  const stated = optionalEnv(rootEnvName(repo))
+  if (stated === undefined) return rootBeside(repo)
   return resolve(stated)
 }
 

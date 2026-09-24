@@ -1,10 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { PINNED_AT } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import { checkoutFrom } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
-const SCRATCH_AT = process.env["SCRATCH_AT"] ?? "/var/tmp"
+const SCRATCH_AT = optionalEnv("SCRATCH_AT") ?? "/var/tmp"
 
 const DEEP = "page/modules/checkout-roots"
 

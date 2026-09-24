@@ -51,6 +51,10 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-watching/service-watching.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/modules/checkout-roots/checkout-roots.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/modules/checkout-roots/checkout-roots.module.test.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/modules/code-root/code-root.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/modules/file-body/page-file-body.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"product/smilingjenny/web/.server/jenny-ring-credential/jenny-ring-credential.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.test.ts"}

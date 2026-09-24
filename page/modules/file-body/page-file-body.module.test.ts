@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   bodyAt,
   bytesAt,
@@ -19,7 +20,7 @@ const SESSIONS = {
   pageTypeSlug: "page-property-entry",
 }
 
-const SCRATCH_AT = process.env["SCRATCH_AT"] ?? "/var/tmp"
+const SCRATCH_AT = optionalEnv("SCRATCH_AT") ?? "/var/tmp"
 
 const A_PAGE_AT = "holder/holder.persona.ts"
 
