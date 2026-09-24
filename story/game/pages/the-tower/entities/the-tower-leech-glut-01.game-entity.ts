@@ -8,10 +8,6 @@ export const theTowerLeechGlut01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Leech-swarm",
-  equipment: [
-    { name: "armor", slot: "armor", defense: 0 },
-    { name: "weapon", slot: "weapon", attack: 0 },
-  ],
   dice: "game-mechanic/two-d-ten",
   baseDamage: 9,
   typicalIntent: 3,
