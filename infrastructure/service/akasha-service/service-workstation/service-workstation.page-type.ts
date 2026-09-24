@@ -200,7 +200,7 @@ export const serviceWorkstation = {
         "A moment saying work landed is evidence of work rather than evidence of a process.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every workstation service runs under systemd.",
     },
     {
