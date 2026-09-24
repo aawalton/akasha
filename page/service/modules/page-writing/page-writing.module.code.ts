@@ -1,13 +1,13 @@
 import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+
 import {
   type Asking,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
-import { mintingOnto } from "akasha/command/modules/value-minting/value-minting.change-generator.code.ts"
+
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
@@ -139,21 +139,6 @@ function beside(root: string, kept: readonly Kept[]): readonly string[] {
   return kept.map((one) => one.path)
 }
 
-function tidiedIn(root: string, changes: readonly Edit[]): readonly Edit[] {
-  const held = changes.map(
-    (one): FileChange =>
-      one.at === TAKE
-        ? { kind: "remove", path: one.given.at }
-        : { kind: "add", path: one.given.at, content: one.given.body }
-  )
-  const minted = new Map(mintingOnto(root, held).edits.map((one) => [one.path, one.contentTo]))
-  return changes.map((one): Edit => {
-    if (one.at === TAKE) return one
-    const body = minted.get(one.given.at)
-    return body === undefined ? one : { at: PUT, given: { ...one.given, body } }
-  })
-}
-
 export async function landedIn(root: string, batch: readonly Asked[]): Promise<Wrote> {
   const first = batch[0]
   if (first === undefined) return { refused: "a batch carries at least one write" }
@@ -162,7 +147,7 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<W
     const kept = keptIn(batch)
     const changes = latestIn(batch)
     if (changes.length === 0) return { commit: null, wrote: beside(root, kept), took: [] }
-    const asked = tidiedIn(root, changes)
+    const asked = changes
     const said = await runMechanicalChange(root, asked, messageIn(batch), {
       writer: first.writer,
       read: first.read ?? null,

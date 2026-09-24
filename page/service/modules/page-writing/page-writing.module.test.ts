@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { existsSync, mkdtempSync, readFileSync, rmSync } from "node:fs"
+import { existsSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { addIfNotPresentFile } from "akasha/change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
@@ -229,12 +229,14 @@ test("a write that threw after it committed names that commit beside those paths
 })
 
 test("a write that throws is refused naming what the write carried", async () => {
-  const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
+  const held = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
+  const root = join(held, "a-file")
+  writeFileSync(root, "")
   const said = await landedIn(root, [
-    asking({ puts: [{ path: "akasha/a.thing.ts", content: "export const a = 1\n" }] }),
+    asking({ kept: [{ path: "akasha/a.thing.ts", values: { one: 1 } }] }),
   ])
   expect("refused" in said && said.refused).toContain("the write carried akasha/a.thing.ts")
-  rmSync(root, { recursive: true, force: true })
+  rmSync(held, { recursive: true, force: true })
 })
 
 test("acts handed in together run one at a time, each finishing before the next starts", async () => {
