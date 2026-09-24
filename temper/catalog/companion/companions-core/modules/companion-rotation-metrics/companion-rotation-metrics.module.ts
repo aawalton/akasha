@@ -22,9 +22,8 @@ export const companionRotationMetrics = {
         "Every dps, hps and sps metric worked out from a rotation is stated, a zero included.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A missing metric value falls back to a hardcoded two thousand or thirty thousand.",
+      decisionKind: "decision-kind/departure",
+      statement: "A missing metric value is refused, naming that metric.",
     },
   ],
 } as const satisfies Module

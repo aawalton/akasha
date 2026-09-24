@@ -17,21 +17,29 @@ export interface RotationMetricEntry {
   value: number
 }
 
+function readMetricValue(
+  metricValues: Map<CompanionMetricId, number>,
+  metricId: CompanionMetricId,
+  reader: string
+): number {
+  const value = metricValues.get(metricId)
+  if (value === undefined) {
+    throw new Error(`${reader} names ${metricId}, which has no value`)
+  }
+  return value
+}
+
 function evaluateShieldFormula(
   formula: CompanionValueFormula,
   metricValues: Map<CompanionMetricId, number>
 ): number {
   switch (formula.type) {
     case "metric-scaling": {
-      const metricValue =
-        metricValues.get(formula.metricId) ??
-        (formula.metricId === "companion-weapon-damage" ? 2000 : 30000)
+      const metricValue = readMetricValue(metricValues, formula.metricId, "A shield formula")
       return formula.coefficient * metricValue
     }
     case "metric-percent": {
-      const metricValue =
-        metricValues.get(formula.metricId) ??
-        (formula.metricId === "companion-weapon-damage" ? 2000 : 30000)
+      const metricValue = readMetricValue(metricValues, formula.metricId, "A shield formula")
       return (formula.percent / 100) * metricValue
     }
     case "player-health-percent":
@@ -181,7 +189,7 @@ export function computeTpsMetrics(
   metricValues: Map<CompanionMetricId, number>
 ): readonly RotationMetricEntry[] {
   const baseToughness = metricValues.get("companion-effective-toughness") ?? 0
-  const healthMax = metricValues.get("companion-health-maximum") ?? 30000
+  const healthMax = readMetricValue(metricValues, "companion-health-maximum", "The tps metrics")
   const damageTakenMod = metricValues.get("companion-damage-taken") ?? 0
   const damageTakenMult = 1 + damageTakenMod
 
