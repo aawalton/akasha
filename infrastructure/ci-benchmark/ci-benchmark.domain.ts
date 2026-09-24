@@ -5,7 +5,6 @@ export const ciBenchmark = {
   type: "page-type/domain",
   slug: "ci-benchmark",
   definition: "a CI node's substrate measured against the whole check registry on a cold store",
-  parts: ["module/toolchain-manifest"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

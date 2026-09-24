@@ -1710,7 +1710,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/analysis-complexity/modules/maintainability/maintainability.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/analysis-complexity/modules/operator-classification/operator-classification.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/analysis-complexity/modules/walk-functions/walk-functions.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/ci-benchmark/modules/toolchain-manifest/toolchain-manifest.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/api/modules/cluster-fetch/cluster-fetch.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/api/modules/cluster-jobs/cluster-jobs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/api/modules/cluster-workloads/cluster-workloads.module.ts"}
