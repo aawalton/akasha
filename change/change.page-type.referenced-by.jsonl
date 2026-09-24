@@ -11,7 +11,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-record-field-holding-a-boolean-is-restated-by-no-change.finding.ts","id":"01a08e5d-97cf-7095-b986-175cdb4dd75b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-renamed-page-keeps-the-old-name-inside-its-uncommitted-sidecar.finding.ts","id":"01a0c53d-ec32-707c-a66c-50f494795fbe"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-repeat-run-ends-the-same-way-whether-the-change-had-nothing-left-or-a-batch-was-refused.finding.ts","id":"01a0961e-eeca-73e8-a979-d0db0198aa76"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/an-apply-over-a-git-ignored-path-commits-nothing-and-deletes-the-file-anyway.finding.ts","id":"01a09cc4-3fcd-7d79-8603-a19fab22a021"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/an-isolated-checkout-still-pushes-to-the-shared-remote.finding.ts","id":"01a060be-c946-7003-b783-d6cf1127590b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/landing-concurrency-needs-a-read-set.finding.ts","id":"01a04fc9-9152-7cc7-b6ab-d0ec7eef28db"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/move-code-export-carries-the-imports-a-declaration-names-and-not-the-siblings-it-names.finding.ts","id":"01a08cbf-bb93-7c32-b7ca-04142ca15a28"}
