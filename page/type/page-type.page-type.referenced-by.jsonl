@@ -104,6 +104,10 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/measure/guard/measure-guard.command.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/read/read.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/context/modules/warranting/warranting.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/context/warrant/file-itself/file-itself.context-warrant.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/context/warrant/file-property-file/file-property-file.context-warrant.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/context/warrant/file-property/file-property.context-warrant.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/standard-agent-english/modules/prose-reach/prose-reach.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}

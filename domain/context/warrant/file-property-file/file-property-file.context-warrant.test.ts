@@ -25,6 +25,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType as pageTypePage } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -52,7 +53,12 @@ const STATED: readonly Declared[] = [
 function pageType(root: string, slug: string, said: readonly Declared[] = []): string {
   const id = mintedId(slug)
   const path = `akasha/held/${slug}.page-type.ts`
-  const value = { id, pageTypeSlug: "page-type", slug, properties: declaring(said) }
+  const value = {
+    id,
+    type: `${pageTypePage.slug}/${pageTypePage.slug}`,
+    slug,
+    properties: declaring(said),
+  }
   writing(root, path, `export const held = ${JSON.stringify(value)}\n`)
   listedFiled(root, "page-type", slug, [{ path, id }])
   valueAlsoFiled(root, "page-type", [{ path, value }])
@@ -71,7 +77,7 @@ function filed(root: string, slug: string, pageTypeSlug: string): string {
   writing(
     root,
     path,
-    `export const held = { id: "${id}", pageTypeSlug: "${pageTypeSlug}", slug: "${slug}" }\n`
+    `export const held = { id: "${id}", type: "page-type/${pageTypeSlug}", slug: "${slug}" }\n`
   )
   listedFiled(root, pageTypeSlug, slug, [{ path, id }])
   return path

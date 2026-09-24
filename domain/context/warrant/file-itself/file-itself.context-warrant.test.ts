@@ -18,6 +18,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -64,17 +65,28 @@ function seeded(value: Value): string {
   valueAlsoFiled(root, FILE_PROPERTY, [
     {
       path: PROPERTY_AT,
-      value: { id: PROPERTY_ID, pageTypeSlug: FILE_PROPERTY, slug: "lockfile", ...value },
+      value: {
+        id: PROPERTY_ID,
+        type: `${pageType.slug}/${FILE_PROPERTY}`,
+        slug: "lockfile",
+        ...value,
+      },
     },
   ])
   listedFiled(root, PAGE_TYPE, WORKSPACE, [{ path: TYPE_AT, id: TYPE_ID }])
   valueAlsoFiled(root, PAGE_TYPE, [
-    { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: PAGE_TYPE, slug: WORKSPACE } },
+    {
+      path: TYPE_AT,
+      value: { id: TYPE_ID, type: `${pageType.slug}/${PAGE_TYPE}`, slug: WORKSPACE },
+    },
   ])
   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   listedFiled(root, WORKSPACE, "one", [{ path: OWNER_AT, id: OWNER_ID }])
   valueAlsoFiled(root, WORKSPACE, [
-    { path: OWNER_AT, value: { id: OWNER_ID, pageTypeSlug: WORKSPACE, slug: "one" } },
+    {
+      path: OWNER_AT,
+      value: { id: OWNER_ID, type: `${pageType.slug}/${WORKSPACE}`, slug: "one" },
+    },
   ])
   relationFiled(root, PROPERTY_ID, "page-property", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   writing(root, OWNER_AT, "one\n")

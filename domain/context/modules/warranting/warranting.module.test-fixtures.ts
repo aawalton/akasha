@@ -17,6 +17,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const HERE = rootOf(import.meta.path)
 
@@ -48,7 +49,7 @@ function pageFor(slug: string, id: string): string {
   return [
     `export const ${exportedAs(slug)} = {`,
     `  id: "${id}",`,
-    `  pageTypeSlug: "context-warrant",`,
+    `  type: "page-type/context-warrant",`,
     `  slug: "${slug}",`,
     `  definition: "${MINTED}",`,
     `  code: "ts",`,
@@ -77,7 +78,7 @@ export function warrantsSeeded(root: string, slugs: readonly string[] = WARRANTS
     writeFileSync(join(root, `${path.slice(0, -".ts".length)}.code.ts`), codeFor(slug))
     listedFiled(root, CONTEXT_WARRANT, slug, [{ path, id }])
     valueAlsoFiled(root, CONTEXT_WARRANT, [
-      { path, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug } },
+      { path, value: { id, type: `${pageType.slug}/${CONTEXT_WARRANT}`, slug } },
     ])
   }
 }
@@ -131,7 +132,7 @@ function statedPageFor(one: Said, id: string): string {
   return [
     `export const ${exportedAs(one.slug)} = {`,
     `  id: "${id}",`,
-    `  pageTypeSlug: "context-warrant",`,
+    `  type: "page-type/context-warrant",`,
     `  slug: "${one.slug}",`,
     `  code: "ts",`,
     `  test: "ts",`,
@@ -174,7 +175,7 @@ function warrantingStated(root: string, every: readonly Said[]): undefined {
     writing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code ?? statedCodeFor(one))
     listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
     valueAlsoFiled(root, CONTEXT_WARRANT, [
-      { path: at, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug: one.slug } },
+      { path: at, value: { id, type: `${pageType.slug}/${CONTEXT_WARRANT}`, slug: one.slug } },
     ])
   }
 }
@@ -294,11 +295,11 @@ export function pageTypeListed(root: string, slug: string, above: readonly strin
   writing(
     root,
     path,
-    `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}"${said} }\n`
+    `export const held = { id: "${id}", type: "page-type/page-type", slug: "${slug}"${said} }\n`
   )
   listedFiled(root, "page-type", slug, [{ path, id }])
   valueAlsoFiled(root, "page-type", [
-    { path, value: { id, pageTypeSlug: "page-type", slug, extendsSlug: named } },
+    { path, value: { id, type: `${pageType.slug}/${pageType.slug}`, slug, extendsSlug: named } },
   ])
   return path
 }

@@ -26,6 +26,8 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pagePageType } from "akasha/page/properties/page-page-type.relation-property.ts"
+import { pageType as pageTypePage } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -38,23 +40,33 @@ const PATH = "akasha/thing/thing.module.ts"
 function pageType(root: string, slug: string, said: readonly Declared[] = []): undefined {
   const id = mintedId(slug)
   const path = `akasha/${slug}/${slug}.page-type.ts`
-  const value = { id, pageTypeSlug: "page-type", slug, properties: declaring(said) }
+  const value = {
+    id,
+    type: `${pageTypePage.slug}/${pageTypePage.slug}`,
+    slug,
+    properties: declaring(said),
+  }
   writing(root, path, `export const held = ${JSON.stringify(value)}\n`)
   listedFiled(root, "page-type", slug, [{ path, id }])
   valueAlsoFiled(root, "page-type", [{ path, value }])
 }
 
-function propertyPage(root: string, slug: string, pageTypeSlug: string): string {
+function propertyPage(
+  root: string,
+  slug: string,
+  pageTypeSlug: string,
+  propertySlug: string = slug
+): string {
   const id = mintedId(slug)
   const path = `akasha/thing/properties/${slug}.${pageTypeSlug}.ts`
   writing(
     root,
     path,
-    `export const held = { id: "${id}", pageTypeSlug: "${pageTypeSlug}", slug: "${slug}" }\n`
+    `export const held = { id: "${id}", type: "page-type/${pageTypeSlug}", slug: "${slug}" }\n`
   )
   listedFiled(root, pageTypeSlug, slug, [{ path, id }])
   shapeAdded(root, pageTypeSlug, slug, [
-    { pageTypeSlug, targetPageTypeSlug: null, slug, propertySlug: slug },
+    { pageTypeSlug, targetPageTypeSlug: null, slug, propertySlug },
   ])
   return path
 }
@@ -63,14 +75,16 @@ function statingWorld(root: string): readonly string[] {
   pageType(root, "module", [
     { pageTypeSlug: "text-property", slug: "id" },
     { pageTypeSlug: "relation-property", slug: "page-type-slug" },
+    { pageTypeSlug: "relation-property", slug: pagePageType.slug },
     { pageTypeSlug: "text-property", slug: "slug" },
     { pageTypeSlug: "text-property", slug: "definition" },
   ])
   const id = propertyPage(root, "id", "text-property")
-  const pageTypeSlug = propertyPage(root, "page-type-slug", "relation-property")
+  propertyPage(root, "page-type-slug", "relation-property")
+  const type = propertyPage(root, pagePageType.slug, "relation-property", pagePageType.propertySlug)
   const slug = propertyPage(root, "slug", "text-property")
   const definition = propertyPage(root, "definition", "text-property")
-  return [definition, id, pageTypeSlug, slug].sort()
+  return [definition, id, type, slug].sort()
 }
 
 function stating(root: string, path: string, keys: readonly string[]): string {
@@ -85,7 +99,7 @@ function warrantsAt(root: string, path: string): readonly Warrant[] {
 test("a page warrants the page defining every property it states", () => {
   const root = scratch.rootFor("akasha-file-property-")
   const every = statingWorld(root)
-  stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition"])
+  stating(root, PATH, ["id", "type", "slug", "definition"])
   expect(pathsOf(warrantsAt(root, PATH))).toEqual(every)
 })
 
@@ -123,7 +137,7 @@ test("a property the type allows and the page does not state warrants nothing", 
 test("a property whose defining page is not there warrants nothing of itself", () => {
   const root = scratch.rootFor("akasha-file-property-")
   const every = statingWorld(root)
-  stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition"])
+  stating(root, PATH, ["id", "type", "slug", "definition"])
   rmSync(join(root, every[0] ?? ""))
   expect(pathsOf(warrantsAt(root, PATH))).toEqual(every.slice(1))
 })
@@ -131,7 +145,7 @@ test("a property whose defining page is not there warrants nothing of itself", (
 test("a property the index defines nowhere warrants nothing", () => {
   const root = scratch.rootFor("akasha-file-property-")
   const every = statingWorld(root)
-  stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition", "nowhere"])
+  stating(root, PATH, ["id", "type", "slug", "definition", "nowhere"])
   expect(pathsOf(warrantsAt(root, PATH))).toEqual(every)
 })
 
@@ -212,7 +226,7 @@ test("a property not read is refused, and the refusal says the property is owed"
   const root = scratch.rootFor("akasha-file-property-")
   warrantsSeeded(root, ["file-property"])
   const every = statingWorld(root)
-  const oid = stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition"])
+  const oid = stating(root, PATH, ["id", "type", "slug", "definition"])
   recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, carriedOid: null })
   const said = owedIn(root, AGENT, [PATH])
   expect(said.length).toBe(every.length)
