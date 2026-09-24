@@ -14,11 +14,19 @@ export const browserSignIn = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The file written is a Playwright function adding the session's cookies to a page.",
+        "The file written is a Playwright function signing the page in and opening the path.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The cookies reach the browser through the file rather than through the answer.",
+      statement: "The file carries a handover code rather than a session.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A handover code is spent by its first use and dies thirty seconds after minting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session never reaches the file, the answer, or the code a driver echoes.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -36,6 +44,7 @@ export const browserSignIn = {
   name: "sign-in",
   arguments: [
     { argument: "argument/url", required: true },
+    { argument: "argument/path", required: true },
     { argument: "argument/out", required: true },
   ],
 } as const satisfies Command

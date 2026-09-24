@@ -35,7 +35,7 @@ export interface SignedInSession {
   readonly teardown: () => Promise<void>
 }
 
-export type Cookie = Parameters<BrowserContext["addCookies"]>[0][number]
+type Cookie = Parameters<BrowserContext["addCookies"]>[0][number]
 
 type SameSite = "Strict" | "Lax" | "None"
 
@@ -183,7 +183,7 @@ async function cookiesLanded(peripheral: Peripheral, code: string): Promise<read
   return held
 }
 
-export async function signedInCookies(origin: string): Promise<readonly Cookie[]> {
+async function signedInCookies(origin: string): Promise<readonly Cookie[]> {
   const root = rootIn(process.env, process.cwd())
   const contributor = contributorSigningIn()
   const peripheral = peripheralAt(origin)
@@ -195,6 +195,29 @@ export async function signedInCookies(origin: string): Promise<readonly Cookie[]
   const challenge = await challengeFor(verifier)
   const code = await codeMinted(root, { audience: APP_AUDIENCE, contributor, challenge })
   return cookiesTraded(code, verifier)
+}
+
+export type SigningIn =
+  | { readonly landing: string }
+  | {
+      readonly origin: string
+      readonly exchange: string
+      readonly code: string
+      readonly verifier: string
+    }
+
+export async function signingInFor(origin: string, back: string): Promise<SigningIn> {
+  const root = rootIn(process.env, process.cwd())
+  const contributor = contributorSigningIn()
+  const peripheral = peripheralAt(origin)
+  if (peripheral !== null) {
+    const code = await codeMinted(root, { audience: origin, contributor, challenge: null })
+    return { landing: handoverLandingAt(peripheral, code, back) }
+  }
+  const verifier = verifierMade()
+  const challenge = await challengeFor(verifier)
+  const code = await codeMinted(root, { audience: APP_AUDIENCE, contributor, challenge })
+  return { origin: HANDOVER_ISSUER, exchange: EXCHANGE_AT, code, verifier }
 }
 
 export async function createSignedInSession(origin: string): Promise<SignedInSession> {

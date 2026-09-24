@@ -1,6 +1,8 @@
 {"propertySlug":"argument","path":"command/pages/browser/screenshot/browser-screenshot.command.ts","id":"01a0c4c8-b6e7-7a74-b62b-1a048dd6963a"}
+{"propertySlug":"argument","path":"command/pages/browser/sign-in/browser-sign-in.command.ts","id":"01a0d4aa-9729-746e-bb1a-3dc8b0f23b58"}
 {"propertySlug":"argument","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.ts","id":"01a06862-06c8-7001-8a4c-2018f029da13"}
 {"propertySlug":"import","fileName":"path.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts"}
 {"propertySlug":"import","fileName":"path.argument.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts"}
+{"propertySlug":"import","fileName":"path.argument.ts","path":"command/pages/browser/sign-in/browser-sign-in.command.code.ts"}
 {"propertySlug":"import","fileName":"path.argument.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.code.ts"}
 {"propertySlug":"import","fileName":"path.argument.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.test.ts"}
