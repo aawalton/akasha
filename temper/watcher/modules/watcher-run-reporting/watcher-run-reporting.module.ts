@@ -19,6 +19,10 @@ export const watcherRunReporting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That account is named by the address of its account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The report is held under one property as JSON text.",
     },
     {

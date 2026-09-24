@@ -25,6 +25,7 @@ import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { formatTimeAgo } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
 import { RestoreConfirmDialog } from "akasha/temper/web/modules/restore-confirm-dialog/restore-confirm-dialog.module.code.tsx"
+import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { useCallback, useEffect, useState } from "react"
 import { toast } from "sonner"
 
@@ -67,16 +68,20 @@ export function VersionHistoryDialog({
 }: VersionHistoryDialogProps) {
   const surface = useSurface()
   const userId = useUserId()
+  const accountPage = useAccountAddress(userId).address
   const optimisticCreate = useOptimisticCreatePage((args) => createPage(args))
   const optimisticPatch = useOptimisticPatchPage((args) => patchPage(args))
   const createCheckpointMutation = useCallback(
     async (args: { buildId: string; checkpointName: string }) => {
       if (userId == null) throw new Error("Not authenticated")
+      if (accountPage == null) {
+        throw new Error("The account page of the signed-in user is not read yet")
+      }
       await optimisticCreate({
         pageTypeSlug: "temper-build-version",
         properties: {
           build: args.buildId,
-          accountPage: userId,
+          accountPage,
           buildHash,
           isCheckpoint: "true",
           checkpointName: args.checkpointName,
@@ -85,7 +90,7 @@ export function VersionHistoryDialog({
         },
       })
     },
-    [optimisticCreate, userId, buildHash, buildMetadata]
+    [optimisticCreate, userId, accountPage, buildHash, buildMetadata]
   )
   const restoreFromHashMutation = useCallback(
     async (args: {

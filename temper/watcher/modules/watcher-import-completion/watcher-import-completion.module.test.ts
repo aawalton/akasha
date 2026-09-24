@@ -160,9 +160,9 @@ test("no completion body reaches the set an upsert carries", async () => {
   expect(sets(it.writes)).toEqual([
     '{"key":"user-1"}',
     '{"completion":"json"}',
-    '{"accountPage":"user-1","esoCharacterId":"111","title":"Vex","displayOrder":2}',
+    '{"accountPage":"temper-account/slug-user-1","esoCharacterId":"111","title":"Vex","displayOrder":2}',
     '{"completion":"json"}',
-    '{"accountPage":"user-1","companionId":"bastian"}',
+    '{"accountPage":"temper-account/slug-user-1","companionId":"bastian"}',
     '{"completion":"json"}',
   ])
 })
@@ -188,14 +188,16 @@ test("a character page already carrying an order keeps that order", async () => 
     ],
   })
   await runImportCompletion(CHARACTERS_ONLY, it.deps)
-  expect(sets(it.writes)[1]).toBe('{"accountPage":"user-1","esoCharacterId":"111","title":"Vex"}')
+  expect(sets(it.writes)[1]).toBe(
+    '{"accountPage":"temper-account/slug-user-1","esoCharacterId":"111","title":"Vex"}'
+  )
 })
 
 test("a character page carrying no order takes the order the addon wrote", async () => {
   const it = seat()
   await runImportCompletion(CHARACTERS_ONLY, it.deps)
   expect(sets(it.writes)[1]).toBe(
-    '{"accountPage":"user-1","esoCharacterId":"111","title":"Vex","displayOrder":2}'
+    '{"accountPage":"temper-account/slug-user-1","esoCharacterId":"111","title":"Vex","displayOrder":2}'
   )
 })
 

@@ -27,6 +27,10 @@ export const watcherExportSettings = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An account's rule, character and companion pages are found by its address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A rule the settings blob still holds reaches nothing.",
     },
     {

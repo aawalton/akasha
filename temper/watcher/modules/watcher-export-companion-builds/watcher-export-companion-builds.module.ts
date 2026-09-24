@@ -57,6 +57,10 @@ export const watcherExportCompanionBuilds = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The progress pages read are the ones naming the user's account page address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller may hand in the reader of the build pages.",
     },
     {

@@ -14,6 +14,10 @@ export const inventorySettingsAccess = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rule page names its account by the address of the account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A rule a command changes is written back as a page of its own.",
     },
     {

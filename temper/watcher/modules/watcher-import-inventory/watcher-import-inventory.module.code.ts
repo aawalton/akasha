@@ -18,6 +18,7 @@ import type {
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { computeInventoryTotalValue } from "akasha/temper/items/core/modules/inventory-value/inventory-value.module.code.ts"
 import { shardInventoryJson } from "akasha/temper/items/core/modules/shard-inventory/shard-inventory.module.code.ts"
+import { addressOfSlug } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { ACCOUNT_PAGE_TYPE_SLUG } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type InventoryValues,
@@ -203,9 +204,25 @@ export async function runImportInventory(
   const opening = scanLines(counts, capturedAt, totalValue, inventory.meta.priceSource, chunkCount)
   for (const line of opening) say(line)
 
+  const accountAsked = await ask({
+    pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
+    where: { key: { is: userId } },
+    limit: 1,
+  })
+  if ("refused" in accountAsked) {
+    throw new Error(
+      `the ${ACCOUNT_PAGE_TYPE_SLUG} page went unread, so this inventory has nowhere to land — ${accountAsked.refused}`
+    )
+  }
+  const accountSlug = accountAsked.rows[0]?.slug
+  if (typeof accountSlug !== "string") {
+    throw new Error(`the ${ACCOUNT_PAGE_TYPE_SLUG} page for ${userId} states no slug`)
+  }
+  const accountPage = addressOfSlug(accountSlug)
+
   const asked = await ask({
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-    where: { accountPage: { is: userId } },
+    where: { accountPage: { is: accountPage } },
     limit: 1,
   })
   if ("refused" in asked) {
@@ -223,7 +240,7 @@ export async function runImportInventory(
   const landed = await land(
     {
       id: mint(),
-      accountPage: userId,
+      accountPage,
       capturedAt,
       totalValue: netWorth.netWorth,
       goldAmount: netWorth.goldAmount,
@@ -237,21 +254,6 @@ export async function runImportInventory(
     throw new Error(
       `this scan's net worth did not land on \`${netWorthHourSlug(capturedAt)}\` — ${landed.why}`
     )
-  }
-
-  const accountAsked = await ask({
-    pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
-    where: { key: { is: userId } },
-    limit: 1,
-  })
-  if ("refused" in accountAsked) {
-    throw new Error(
-      `the ${ACCOUNT_PAGE_TYPE_SLUG} page went unread, so this inventory has nowhere to land — ${accountAsked.refused}`
-    )
-  }
-  const accountSlug = accountAsked.rows[0]?.slug
-  if (typeof accountSlug !== "string") {
-    throw new Error(`the ${ACCOUNT_PAGE_TYPE_SLUG} page for ${userId} states no slug`)
   }
 
   const filed = await file({ accountSlug, capturedAt, totalValue, inventory }, mint)

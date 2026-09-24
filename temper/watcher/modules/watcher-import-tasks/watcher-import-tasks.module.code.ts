@@ -12,6 +12,7 @@ import { instantToMillis } from "akasha/page/core/property-type/modules/instant/
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { completionCardOfPageSlug } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
 import { isCumulativeCard } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-reset-behavior/completion-card-reset-behavior.module.code.ts"
 import {
@@ -39,9 +40,12 @@ const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 
 export type TaskPage = Row & { id: string; slug: string }
 
+export type AccountAddressOf = (userId: string) => Promise<string>
+
 export interface ImportTasksSeams {
   readonly now?: () => Date
   readonly ask?: typeof askingFor
+  readonly addressOf?: AccountAddressOf
   readonly landTask?: typeof landTaskValues
   readonly refreshProgress?: typeof refreshTaskProgress
   readonly report?: (message: string) => void
@@ -51,6 +55,7 @@ export interface ImportTasksSeams {
 export interface ReadySeams {
   readonly now: () => Date
   readonly ask: typeof askingFor
+  readonly addressOf: AccountAddressOf
   readonly landTask: typeof landTaskValues
   readonly refreshProgress: typeof refreshTaskProgress
   readonly report: (message: string) => void
@@ -73,6 +78,7 @@ export function seamsReady(seams: ImportTasksSeams = {}): ReadySeams {
   return {
     now: seams.now ?? (() => new Date()),
     ask: seams.ask ?? askingFor,
+    addressOf: seams.addressOf ?? ((userId) => accountAddressOf(userId)),
     landTask: seams.landTask ?? landTaskValues,
     refreshProgress: seams.refreshProgress ?? refreshTaskProgress,
     report: seams.report ?? log,
@@ -184,10 +190,10 @@ export async function clearCompletion(task: TaskPage, seams: ReadySeams): Promis
   return { action: "cleared" }
 }
 
-async function readTaskPages(userId: string, seams: ReadySeams): Promise<readonly TaskPage[]> {
+async function readTaskPages(accountPage: string, seams: ReadySeams): Promise<readonly TaskPage[]> {
   const asked = await seams.ask({
     pageTypeSlug: TASK_PAGE_TYPE_SLUG,
-    where: { accountPage: { is: userId } },
+    where: { accountPage: { is: accountPage } },
   })
   if ("refused" in asked) {
     throw new Error(`the ${TASK_PAGE_TYPE_SLUG} pages went unread — ${asked.refused}`)
@@ -198,12 +204,14 @@ async function readTaskPages(userId: string, seams: ReadySeams): Promise<readonl
 }
 
 async function refreshedOrSaid(
-  userId: string,
+  accountPage: string,
   tasks: readonly TaskPage[],
   seams: ReadySeams
 ): Promise<number> {
   try {
-    return await seams.refreshProgress(userId, tasks.map(taskFactsOf), { report: seams.report })
+    return await seams.refreshProgress(accountPage, tasks.map(taskFactsOf), {
+      report: seams.report,
+    })
   } catch (why) {
     const said = why instanceof Error ? why.message : String(why)
     seams.reportError(`Task import: the progress was not recomputed — ${said}`)
@@ -237,12 +245,12 @@ export function tasksByName(tasks: readonly TaskPage[]): Map<string, TaskPage> {
 async function rollOnProgress(
   tasks: readonly TaskPage[],
   read: TaskCompletionsRead,
-  userId: string,
+  accountPage: string,
   seams: ReadySeams
 ): Promise<number> {
   const asked = await seams.ask({
     pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
-    where: { accountPage: { is: userId } },
+    where: { accountPage: { is: accountPage } },
   })
   if ("refused" in asked) {
     throw new Error(`the ${CHARACTER_PAGE_TYPE_SLUG} pages went unread — ${asked.refused}`)
@@ -318,7 +326,8 @@ export async function runImportTasks(
   )
 
   const userId = await userIdFor(supabase, options.userId, "import these completions")
-  const tasks = await readTaskPages(userId, seams)
+  const accountPage = await seams.addressOf(userId)
+  const tasks = await readTaskPages(accountPage, seams)
   const byName = tasksByName(tasks)
 
   let completed = 0
@@ -379,11 +388,11 @@ export async function runImportTasks(
   const rolled = await rollOnProgress(
     tasks.filter((task) => !marked.has(task.slug)),
     read,
-    userId,
+    accountPage,
     seams
   )
 
-  const refreshed = await refreshedOrSaid(userId, tasks, seams)
+  const refreshed = await refreshedOrSaid(accountPage, tasks, seams)
 
   seams.report(
     `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped, ${rolled} rolled, ${refreshed} progress file(s) landed.`

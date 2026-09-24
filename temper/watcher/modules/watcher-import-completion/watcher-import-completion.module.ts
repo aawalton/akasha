@@ -64,6 +64,10 @@ export const watcherImportCompletion = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A character or companion page names its account by the account page's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A character's order is written only where that character's page has no order.",
     },
     {

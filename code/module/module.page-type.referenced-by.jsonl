@@ -5915,6 +5915,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/passive-eligibility/passive-eligibility.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/pipeline-types/pipeline-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/stat/modules/source-lookup/source-lookup.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/temper-account/modules/account-address/account-address.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/completion-progress/completion-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/completion-writer-schema/completion-writer-schema.module.ts"}
@@ -6438,6 +6439,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/ttc-listing-client/ttc-listing-client.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/under-construction-dialog/under-construction-dialog.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-account-address/use-account-address.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-build-sync/use-build-sync.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-character/use-character.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-class-change/use-class-change.module.ts"}

@@ -12,8 +12,16 @@ import type {
   EsoCharacterId,
 } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import {
+  ACCOUNT_PAGE_TYPE,
+  findAccountAddress,
+} from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+
+function noAccountPageWhy(userId: string): string {
+  return `no ${ACCOUNT_PAGE_TYPE} page names user ${userId}, so a build imported now would belong to no account`
+}
 
 export type ImportCharacterResult =
   | { buildId: BuildId; buildName: string }
@@ -33,6 +41,10 @@ export async function importCharacterFromHash(
   if (userId === null) {
     return { result: { error: "not-authenticated" }, headers }
   }
+  const accountPage = await findAccountAddress(userId)
+  if (accountPage === null) {
+    return { result: { error: "create-failed", message: noAccountPageWhy(userId) }, headers }
+  }
 
   const buildState = decodeBuild(hash)
   if (!buildState) {
@@ -48,7 +60,7 @@ export async function importCharacterFromHash(
   const { rows: existingBuilds } = await getPages({
     pageTypeSlug: "character-build",
     where: [
-      { key: "accountPage", eq: userId },
+      { key: "accountPage", eq: accountPage },
       { key: "buildHash", eq: hash },
     ],
     limit: 1,
@@ -65,7 +77,7 @@ export async function importCharacterFromHash(
     const { rows: existingEntities } = await getPages({
       pageTypeSlug: "temper-account-character",
       where: [
-        { key: "accountPage", eq: userId },
+        { key: "accountPage", eq: accountPage },
         { key: "esoCharacterId", eq: esoCharacterId },
       ],
       limit: 1,
@@ -81,7 +93,7 @@ export async function importCharacterFromHash(
       const created = await createPage({
         pageTypeSlug: "character-build",
         properties: {
-          accountPage: userId,
+          accountPage,
           title: buildState.name,
           description: buildMetadata.description,
           buildHash: hash,
@@ -102,7 +114,7 @@ export async function importCharacterFromHash(
         await createPage({
           pageTypeSlug: "temper-account-character",
           properties: {
-            accountPage: userId,
+            accountPage,
             esoCharacterId,
             liveBuildId: newBuildId,
           },
@@ -131,7 +143,7 @@ export async function importCharacterFromHash(
     const created = await createPage({
       pageTypeSlug: "character-build",
       properties: {
-        accountPage: userId,
+        accountPage,
         title: buildState.name,
         description: buildMetadata.description,
         buildHash: hash,

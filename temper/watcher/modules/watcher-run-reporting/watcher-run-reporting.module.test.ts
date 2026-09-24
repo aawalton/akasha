@@ -47,6 +47,7 @@ function harness(row: unknown, accountId: string | null = "acct-1"): Harness {
   }) as EnrolmentWrite
   const seams: RunReportingSeams = {
     accountId: async () => accountId,
+    addressOf: async (userId) => `temper-account/${userId}`,
     readEnrolment,
     writeEnrolment,
     now: () => MOMENT,
@@ -79,13 +80,13 @@ test("the JSON text of an outcome reads back the same as the outcome", () => {
   expect(storedOperations(JSON.stringify(MIXED_OUTCOME))).toEqual(storedOperations(MIXED_OUTCOME))
 })
 
-test("the enrolment is asked for by the account the enrolment names", async () => {
+test("the enrolment is asked for by the address of the account the enrolment names", async () => {
   const { asked, seams } = harness({ id: "page-1" })
   await reportRunOutcome([operation("inventory", "synced")], seams)
   expect(asked).toEqual([
     {
       pageTypeSlug: ENROLMENT_PAGE_TYPE_SLUG,
-      where: [{ key: ACCOUNT_KEY, eq: "acct-1" }],
+      where: [{ key: ACCOUNT_KEY, eq: "temper-account/acct-1" }],
       select: ["id", OUTCOME_KEY],
     },
   ])
@@ -148,6 +149,7 @@ test("a read that raises is logged rather than raised to the caller", async () =
   }) as EnrolmentRead
   const seams: RunReportingSeams = {
     accountId: async () => "acct-1",
+    addressOf: async (userId) => `temper-account/${userId}`,
     readEnrolment,
     now: () => MOMENT,
     note: (message) => {

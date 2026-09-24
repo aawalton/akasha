@@ -1,6 +1,7 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPageById } from "akasha/page/access/modules/patch/patch.module.code.ts"
+import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { logError } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import {
   mergeOperations,
@@ -32,8 +33,11 @@ export type ClockRead = () => Date
 
 export type NoteWrite = (message: string) => void
 
+export type AccountAddressOf = (userId: string) => Promise<string>
+
 export type RunReportingSeams = {
   readonly accountId: AccountIdRead
+  readonly addressOf?: AccountAddressOf
   readonly readEnrolment?: EnrolmentRead
   readonly writeEnrolment?: EnrolmentWrite
   readonly now?: ClockRead
@@ -81,9 +85,10 @@ export async function reportRunOutcome(
       note(NO_ACCOUNT_MESSAGE)
       return
     }
+    const accountPage = await (seams.addressOf ?? accountAddressOf)(accountId)
     const enrolment = await readEnrolment({
       pageTypeSlug: ENROLMENT_PAGE_TYPE_SLUG,
-      where: [{ key: ACCOUNT_KEY, eq: accountId }],
+      where: [{ key: ACCOUNT_KEY, eq: accountPage }],
       select: ["id", OUTCOME_KEY],
     })
     if (enrolment === null || typeof enrolment.id !== "string") {

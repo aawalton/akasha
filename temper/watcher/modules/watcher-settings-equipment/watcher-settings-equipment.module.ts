@@ -41,6 +41,10 @@ export const watcherSettingsEquipment = {
       statement: "A caller may hand in the reader that reads the pages.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An account's rows are asked for by the address of its account page.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No build hash is decoded here.",
     },

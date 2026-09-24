@@ -28,6 +28,14 @@ export const watcherTokenCheck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The user a token grants is the key of the account page its enrolment names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An enrolment whose account page names no user grants nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A token that matches no enrolment is refused without a word.",
     },
     {

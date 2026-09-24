@@ -14,6 +14,14 @@ export const hooksInventorySettings = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rule page names its account by the address of the account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule write before the account page is read is refused as unread.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A rule a player changes is written back as a page of its own.",
     },
     {

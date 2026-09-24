@@ -72,6 +72,12 @@ function reporting(): { report: (line: string) => void; lines: string[] } {
   return { report: (line: string) => void lines.push(line), lines }
 }
 
+const ADDRESS = "temper-account/test-account"
+
+async function addressOf(): Promise<string> {
+  return ADDRESS
+}
+
 const NO_SUPABASE: SignedInReader = {
   auth: {
     getUser: async () => ({ data: { user: null }, error: { message: "no session" } }),
@@ -226,7 +232,7 @@ test("the account page is upserted before any character page", async () => {
     ONE_REAL_CHARACTER,
     NO_SUPABASE,
     { userId: "@alan" },
-    { upsert, report }
+    { upsert, report, addressOf }
   )
   expect(seen).toEqual([
     {
@@ -238,11 +244,11 @@ test("the account page is upserted before any character page", async () => {
     {
       pageTypeSlug: "temper-account-character",
       where: [
-        { key: "accountPage", eq: "@alan" },
+        { key: "accountPage", eq: ADDRESS },
         { key: "esoCharacterId", eq: "12345" },
       ],
       set: {
-        accountPage: "@alan",
+        accountPage: ADDRESS,
         esoCharacterId: "12345",
         title: "Shalidor",
       },
@@ -258,7 +264,7 @@ test("what is reported names the count, each skip, each capture, and the summary
     ONE_REAL_CHARACTER,
     NO_SUPABASE,
     { userId: "@alan" },
-    { upsert, report }
+    { upsert, report, addressOf }
   )
   expect(lines).toEqual([
     "Found 2 character(s).\n",
@@ -278,7 +284,12 @@ test("a run skipping nothing reports no skipped line", async () => {
                         ["name"] = "Shalidor",
                         ["buildHash"] = "${REAL_HASH}",
                     },`)
-  await runImportCharacters(onlyGood, NO_SUPABASE, { userId: "@alan" }, { upsert, report })
+  await runImportCharacters(
+    onlyGood,
+    NO_SUPABASE,
+    { userId: "@alan" },
+    { upsert, report, addressOf }
+  )
   expect(lines).toEqual([
     "Found 1 character(s).\n",
     `  Shalidor: captured hash ${REAL_HASH}`,

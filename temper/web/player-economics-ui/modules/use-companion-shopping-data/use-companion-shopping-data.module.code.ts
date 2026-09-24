@@ -16,6 +16,7 @@ import { decodeCompanion } from "akasha/temper/player/character/build/companion-
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { applyCompanionMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
+import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
@@ -59,6 +60,7 @@ interface CompanionShoppingData {
 
 export function useCompanionShoppingData(userId: string | null): CompanionShoppingData {
   const { builds } = useAllCompanionList(userId)
+  const accountPage = useAccountAddress(userId).address
   const { companions: completionCompanions } = useCompletionCompanions()
   const { inventory } = useInventory(userId)
   const { isLoading: playerLoading, profileMetadata } = usePlayer()
@@ -80,14 +82,14 @@ export function useCompanionShoppingData(userId: string | null): CompanionShoppi
   const buildMap = useMemo(() => {
     const map = new Map<string, { buildData: CompanionState | null }>()
     for (const build of builds) {
-      if (build.accountPage !== userId) continue
+      if (accountPage == null || build.accountPage !== accountPage) continue
       const decoded = build.buildHash !== "" ? decodeCompanion(toBuildHash(build.buildHash)) : null
       const buildData =
         decoded && build.buildMetadata ? applyCompanionMetadata(decoded, build.buildMetadata) : null
       map.set(build.id, { buildData })
     }
     return map
-  }, [builds, userId])
+  }, [builds, accountPage])
 
   const shoppingEntities = useMemo(() => {
     const entities: ShoppingEntity[] = []

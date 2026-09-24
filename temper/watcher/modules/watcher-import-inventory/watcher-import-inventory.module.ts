@@ -51,6 +51,14 @@ export const watcherImportInventory = {
       statement: "A scan is written onto the account page as well as counted toward net worth.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The account page is read before the player page, which is found by its address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A net worth reading names its account by the address of the account page.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here opens a file.",
     },

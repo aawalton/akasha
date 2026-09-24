@@ -18,6 +18,10 @@ export const useCompletion = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A player's characters and companions are found by the account page's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A row shape here says what the query answers rather than what the domain holds.",
     },
     {

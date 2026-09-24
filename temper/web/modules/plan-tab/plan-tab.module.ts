@@ -6,4 +6,10 @@ export const planTab = {
   slug: "plan-tab",
   definition: "the tab planning a character",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character is patched where its account page is the viewer's by address.",
+    },
+  ],
 } as const satisfies Module

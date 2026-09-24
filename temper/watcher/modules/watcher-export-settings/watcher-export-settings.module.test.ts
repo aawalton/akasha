@@ -91,7 +91,8 @@ interface Recorded {
 function seamsFor(
   settings: Record<string, unknown>,
   recorded: Recorded,
-  rules: readonly HeldRule[] = []
+  rules: readonly HeldRule[] = [],
+  rulesAskedFor: string[] = []
 ): { seams: ExportSettingsSeams } {
   return {
     seams: {
@@ -100,7 +101,11 @@ function seamsFor(
         return undefined
       },
       readPlayerSettings: async () => settings,
-      readPlayerRules: async () => rules,
+      addressOf: async (userId) => `temper-account/${userId}`,
+      readPlayerRules: async (accountPage) => {
+        rulesAskedFor.push(accountPage)
+        return rules
+      },
       pricingTables: async () => ({ currencyRates: {}, crownReplacementCosts: {} }),
       pages: { collect: async () => [], get: async () => null },
       inventoryRows: { latestReading: async () => undefined, dataOf: async () => null },
@@ -254,6 +259,13 @@ test("the rules exported are the ones the player's rule pages carry", async () =
   const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorded, [A_RULE])
   const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
   expect(result.content).toContain("currency-gold")
+})
+
+test("the rule pages read are the ones naming the user's account address", async () => {
+  const asked: string[] = []
+  const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorder(), [A_RULE], asked)
+  await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
+  expect(asked).toEqual(["temper-account/alan"])
 })
 
 test("a rule page reaches the export although the player set no inventory blob", async () => {

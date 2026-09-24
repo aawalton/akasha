@@ -137,7 +137,7 @@ test("a character with no completion file beside it counts as having no completi
 
 test("a run that refuses leaves every progress file as it was", async () => {
   const { deps, wrote } = progressRun("{ not json")
-  await expect(refreshTaskProgress("user-1", [TASK], deps)).rejects.toThrow(
+  await expect(refreshTaskProgress("temper-account/test-account", [TASK], deps)).rejects.toThrow(
     unreadCompletionWhy(CHARACTER_COMPLETION)
   )
   expect(wrote).toEqual([])
@@ -145,7 +145,9 @@ test("a run that refuses leaves every progress file as it was", async () => {
 
 test("a character with no completion file does not refuse the recomputation", async () => {
   const { deps } = progressRun(null)
-  await expect(refreshTaskProgress("user-1", [TASK], deps)).resolves.toBeGreaterThanOrEqual(0)
+  await expect(
+    refreshTaskProgress("temper-account/test-account", [TASK], deps)
+  ).resolves.toBeGreaterThanOrEqual(0)
 })
 
 test("a roster entry takes its label from the first name and falls back to the title", () => {

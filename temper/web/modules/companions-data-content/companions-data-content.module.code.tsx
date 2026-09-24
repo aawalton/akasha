@@ -22,6 +22,10 @@ import type { FilterValues } from "akasha/temper/web/modules/companions-filter-t
 import { CompanionsLeaderboardTab } from "akasha/temper/web/modules/companions-leaderboard-tab/companions-leaderboard-tab.module.code.tsx"
 import { CompanionsPlanTab } from "akasha/temper/web/modules/companions-plan-tab/companions-plan-tab.module.code.tsx"
 import { SetTargetConfirmDialog } from "akasha/temper/web/modules/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
+import {
+  ownerIdOf,
+  useAccountAddress,
+} from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { usePlanEntities } from "akasha/temper/web/modules/use-companion-plan-entities/use-companion-plan-entities.module.code.ts"
 import { useFilteredBuilds } from "akasha/temper/web/modules/use-filtered-builds/use-filtered-builds.module.code.ts"
 import { usePlanSetTarget } from "akasha/temper/web/modules/use-plan-set-target/use-plan-set-target.module.code.ts"
@@ -44,26 +48,28 @@ export function CompanionsDataContent({
   deferred,
 }: CompanionsDataContentProps) {
   const optimisticPatch = useOptimisticPatchPage((args) => patchPage(args))
+  const account = useAccountAddress(userId)
+  const accountPage = account.address
   const { builds, isLoading: buildsLoading } = useAllCompanionList(userId)
   const { companions: completionCompanions, isLoading: companionsLoading } =
     useCompletionCompanions()
-  const isLoading = buildsLoading || companionsLoading
+  const isLoading = account.isLoading || buildsLoading || companionsLoading
 
   const buildMap = useMemo(() => new Map(builds.map((b) => [b.id, b])), [builds])
 
   const handleUpdateEntityRoles = useCallback(
     (companionId: CompanionId, roles: readonly CompanionBaseRoleId[]) => {
-      if (userId == null) return
+      if (accountPage == null) return
       void optimisticPatch({
         pageTypeSlug: "temper-companion-progress",
         where: [
-          { key: "accountPage", eq: userId },
+          { key: "accountPage", eq: accountPage },
           { key: "companionId", eq: companionId },
         ],
         set: { roles: [...roles] },
       })
     },
-    [optimisticPatch, userId]
+    [optimisticPatch, accountPage]
   )
 
   const pendingScrollRef = useRef<{ cardId: string; tabChanged: boolean } | null>(null)
@@ -122,7 +128,7 @@ export function CompanionsDataContent({
       const buildData = decoded && metadata ? applyCompanionMetadata(decoded, metadata) : null
       return {
         id: build.id,
-        userId: build.accountPage,
+        userId: ownerIdOf(build.accountPage, accountPage, userId),
         visibility: build.visibility,
         createdAt: build.createdAt,
         updatedAt: build.updatedAt,
@@ -131,7 +137,7 @@ export function CompanionsDataContent({
         buildData,
       }
     })
-  }, [builds])
+  }, [builds, accountPage, userId])
 
   const planRankingsMap = useMemo(
     () => buildRankingsMap(decodedBuilds, null, null, null),
@@ -169,7 +175,7 @@ export function CompanionsDataContent({
 
   const handleReorder = useCallback(
     (entityId: string, newIndex: number) => {
-      if (userId == null) return
+      if (accountPage == null) return
       const ordered = [...planEntities].sort(
         (a, b) => (a.sortOrder ?? Infinity) - (b.sortOrder ?? Infinity)
       )
@@ -183,7 +189,7 @@ export function CompanionsDataContent({
           optimisticPatch({
             pageTypeSlug: "temper-companion-progress",
             where: [
-              { key: "accountPage", eq: userId },
+              { key: "accountPage", eq: accountPage },
               { key: "companionId", eq: entity.companionId },
             ],
             set: { displayOrder: index },
@@ -191,7 +197,7 @@ export function CompanionsDataContent({
         )
       )
     },
-    [optimisticPatch, userId, planEntities]
+    [optimisticPatch, accountPage, planEntities]
   )
 
   if (isLoading) return <ListContentSkeleton />

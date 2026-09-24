@@ -85,10 +85,10 @@ function inSortOrder<T extends { sortOrder: number | undefined }>(rows: T[]): T[
   return rows.sort((a, b) => (a.sortOrder ?? SORT_ORDER_LAST) - (b.sortOrder ?? SORT_ORDER_LAST))
 }
 
-async function readCharacterRows(userId: string, reader: PageReader): Promise<CharacterRow[]> {
+async function readCharacterRows(accountPage: string, reader: PageReader): Promise<CharacterRow[]> {
   const rows = await reader.collect({
     pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
-    where: [{ key: "accountPage", eq: userId }],
+    where: [{ key: "accountPage", eq: accountPage }],
     pageSize: ROWS_PER_READ,
   })
 
@@ -106,10 +106,10 @@ async function readCharacterRows(userId: string, reader: PageReader): Promise<Ch
   return inSortOrder(named)
 }
 
-async function readCompanionRows(userId: string, reader: PageReader): Promise<CompanionRow[]> {
+async function readCompanionRows(accountPage: string, reader: PageReader): Promise<CompanionRow[]> {
   const rows = await reader.collect({
     pageTypeSlug: COMPANION_PAGE_TYPE_SLUG,
-    where: [{ key: "accountPage", eq: userId }],
+    where: [{ key: "accountPage", eq: accountPage }],
     pageSize: ROWS_PER_READ,
   })
 
@@ -155,10 +155,10 @@ async function readBuildsById(
 }
 
 export async function readCharactersWithTargetBuilds(
-  userId: string,
+  accountPage: string,
   reader: PageReader = DEFAULT_PAGE_READER
 ): Promise<CharacterWithBuilds[]> {
-  const rows = await readCharacterRows(userId, reader)
+  const rows = await readCharacterRows(accountPage, reader)
 
   const characters: CharacterWithBuilds[] = []
   for (const row of rows) {
@@ -183,11 +183,11 @@ export async function readCharactersWithTargetBuilds(
 }
 
 export async function compileWantedEquipment(
-  userId: string,
+  accountPage: string,
   automationSettings?: AutomationSettings,
   reader: PageReader = DEFAULT_PAGE_READER
 ): Promise<readonly WantedEquipmentSignature[]> {
-  const rows = await readCharacterRows(userId, reader)
+  const rows = await readCharacterRows(accountPage, reader)
   const builds = await readBuildsById(
     CHARACTER_BUILD_PAGE_TYPE_SLUG,
     rows.map((row) => row.targetBuildId),
@@ -209,11 +209,11 @@ export async function compileWantedEquipment(
 }
 
 export async function compileWantedCompanionEquipment(
-  userId: string,
+  accountPage: string,
   automationSettings?: AutomationSettings,
   reader: PageReader = DEFAULT_PAGE_READER
 ): Promise<readonly WantedCompanionEquipmentSignature[]> {
-  const rows = await readCompanionRows(userId, reader)
+  const rows = await readCompanionRows(accountPage, reader)
   const builds = await readBuildsById(
     COMPANION_BUILD_PAGE_TYPE_SLUG,
     rows.map((row) => row.targetBuildId),

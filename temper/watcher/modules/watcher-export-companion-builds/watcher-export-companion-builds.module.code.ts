@@ -5,6 +5,7 @@ import {
   companions,
   getDefIdByCompanionId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import type { CompanionsConfigFileInputs } from "akasha/temper/watcher/modules/watcher-config-file/watcher-config-file.module.code.ts"
 import {
   numericKeyedBlock,
@@ -121,10 +122,10 @@ export interface CompanionBuildsSurroundings {
 }
 
 const WATCHER_SURROUNDINGS: CompanionBuildsSurroundings = {
-  progressPages: (userId) =>
+  progressPages: async (userId) =>
     collectPages({
       pageTypeSlug: COMPANION_PROGRESS_PAGE_TYPE,
-      where: [{ key: "accountPage", eq: userId }],
+      where: [{ key: "accountPage", eq: await accountAddressOf(userId) }],
       pageSize: PROGRESS_PAGE_SIZE,
     }),
   buildPage: (buildId) =>

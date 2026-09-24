@@ -51,6 +51,10 @@ export const watcherImportCompanions = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A progress page names its account by the address of the account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page here is written by `upsertPage` unless the caller states another writer.",
     },
     {

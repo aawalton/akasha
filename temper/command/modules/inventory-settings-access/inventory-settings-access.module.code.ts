@@ -15,6 +15,7 @@ import { createDefaultRuleSettings } from "akasha/temper/items/rules/core/module
 import { InventoryRuleSettingsShape } from "akasha/temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { writesFor } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
@@ -133,10 +134,10 @@ async function writeSlice(
   return undefined
 }
 
-async function readHeldRules(accountUserId: string): Promise<readonly HeldRule[]> {
+async function readHeldRules(accountPage: string): Promise<readonly HeldRule[]> {
   const { rows } = await getPages({
     pageTypeSlug: RULE_PAGE_TYPE_SLUG,
-    where: [{ key: "accountPage", eq: accountUserId }],
+    where: [{ key: "accountPage", eq: accountPage }],
     limit: RULES_AT_MOST,
   })
   return heldFromRows(rows.map((row) => ({ ...row })))
@@ -169,7 +170,7 @@ export async function readInventoryRuleSettings(
   accountUserId: string
 ): Promise<InventoryRuleSettings> {
   const slice = await readInventorySlice(accountUserId, "readInventoryRuleSettings")
-  const rules = rulesFromPages(await readHeldRules(accountUserId))
+  const rules = rulesFromPages(await readHeldRules(await accountAddressOf(accountUserId)))
   return InventoryRuleSettingsShape.parse({ ...createDefaultRuleSettings(), ...slice, rules })
 }
 
@@ -195,8 +196,9 @@ export async function writeInventoryRuleSettings(
   if (!isJson(next)) {
     throw new Error("writeInventoryRuleSettings: next is not JSON-serializable")
   }
-  const held = await readHeldRules(accountUserId)
-  const { upserts, deletes } = writesFor(next.rules, held, accountUserId)
+  const accountPage = await accountAddressOf(accountUserId)
+  const held = await readHeldRules(accountPage)
+  const { upserts, deletes } = writesFor(next.rules, held, accountPage)
   if (upserts.length > 0) {
     await upsertPages({
       pageTypeSlug: RULE_PAGE_TYPE_SLUG,

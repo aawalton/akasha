@@ -24,6 +24,7 @@ import {
   buildId as toBuildId,
 } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { skills } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
+import { findAccountAddress } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import type {
   CharacterBuildMetadata,
   CompanionBuildMetadata,
@@ -136,27 +137,27 @@ export async function loader({ params, request }: Route.LoaderArgs) {
   })
 }
 
-async function readerAccount(request: Request): Promise<string | null> {
+async function readerAccountPage(request: Request): Promise<string | null> {
   const reader = await signedInAs(TEMPER_SITE, request)
   if (reader === null) return null
   const reached = await accountOfContributor(reader)
-  return reached.ok ? reached.account : null
+  return reached.ok ? findAccountAddress(reached.account) : null
 }
 
 async function loadCharacterDetail(page: Record<string, unknown>, request: Request) {
   const r = asCharacterPageRow(page)
   const buildId = r.id
-  const accountId = await readerAccount(request)
+  const accountPage = await readerAccountPage(request)
 
   const buildAccount = r.accountPage ?? ""
-  const isOwner = accountId !== null && accountId === buildAccount
+  const isOwner = accountPage !== null && accountPage === buildAccount
 
   let isTargetBuild = false
-  if (accountId !== null) {
+  if (accountPage !== null) {
     const { rows } = await getPages({
       pageTypeSlug: "temper-account-character",
       where: [
-        { key: "accountPage", eq: accountId },
+        { key: "accountPage", eq: accountPage },
         { key: "targetBuildId", eq: buildId },
       ],
       select: ["id"],
@@ -205,17 +206,17 @@ async function loadCompanionDetail(page: Record<string, unknown>, request: Reque
   await loadCompanionCatalog()
   const r = asCompanionPageRow(page)
   const buildId = r.id
-  const accountId = await readerAccount(request)
+  const accountPage = await readerAccountPage(request)
 
   const buildAccount = r.accountPage ?? ""
-  const isOwner = accountId !== null && buildAccount === accountId
+  const isOwner = accountPage !== null && buildAccount === accountPage
 
   let isTargetBuild = false
-  if (accountId !== null) {
+  if (accountPage !== null) {
     const { rows } = await getPages({
       pageTypeSlug: "temper-companion-progress",
       where: [
-        { key: "accountPage", eq: accountId },
+        { key: "accountPage", eq: accountPage },
         { key: "targetBuildId", eq: buildId },
       ],
       select: ["id"],

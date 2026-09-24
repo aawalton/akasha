@@ -18,6 +18,8 @@ holdCompanionCatalogFromCheckout()
 
 const EMBER_HASH = "AjEINDEMQxDEMQxDAwMDFDADAAAAAAa4"
 
+const ADDRESS = "temper-account/test-account"
+
 function keyedEntry(defId: number, hash: string): string {
   return `                    [${defId}] =
                     {
@@ -111,6 +113,7 @@ function recordingPorts(): {
       upsert: collectingUpsert(writes),
       report: (line) => reported.push(line),
       warn: (line) => warned.push(line),
+      addressOf: async () => ADDRESS,
     },
     reported,
     warned,
@@ -236,6 +239,10 @@ test("one run writes the account page and then a progress page per companion", a
     ...COMPANION_IDS_WITH_DEF_ID.map(() => "temper-companion-progress"),
   ])
   expect(writes.slice(1).map(companionIdOf)).toEqual([...COMPANION_IDS_WITH_DEF_ID])
+  for (const write of writes.slice(1)) {
+    expect(asRecord(write.set)?.accountPage).toBe(ADDRESS)
+    expect(write.where).toContainEqual({ key: "accountPage", eq: ADDRESS })
+  }
 })
 
 test("a file naming no companion the game knows writes nothing and reports nothing", async () => {

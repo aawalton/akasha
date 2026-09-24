@@ -14,6 +14,7 @@ import {
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import { parseSavedVariablesContent } from "akasha/temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
 import { getCompanionIdByDefId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { addressOfSlug } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -294,6 +295,7 @@ export async function runImportCompletion(
   if (typeof accountPageId !== "string") throw new Error(noAccountPageIdWhy(userId))
   const accountSlug = slugOf(accountRead.rows[0]) ?? slugOf(accountRow)
   if (accountSlug === undefined) throw new Error(noPagePathWhy(ACCOUNT_PAGE_TYPE_SLUG, userId))
+  const accountPage = addressOfSlug(accountSlug)
   const accountMerged = await landCompletions<AccountCompletion>(
     fold,
     road,
@@ -329,7 +331,7 @@ export async function runImportCompletion(
       pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
       where: [{ key: "esoCharacterId", eq: esoCharacterId }],
       set: {
-        accountPage: userId,
+        accountPage,
         esoCharacterId,
         title: name,
         ...(priorityOrder !== undefined && !sortOrderAlreadySet.has(esoCharacterId)
@@ -375,7 +377,7 @@ export async function runImportCompletion(
     const row = await upsert({
       pageTypeSlug: COMPANION_PAGE_TYPE_SLUG,
       where: [{ key: "companionId", eq: companionId }],
-      set: { accountPage: userId, companionId },
+      set: { accountPage, companionId },
       select: ["id", "slug"],
     })
     const slug = companionSlugs.get(companionId) ?? slugOf(row)

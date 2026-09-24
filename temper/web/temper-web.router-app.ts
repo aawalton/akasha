@@ -291,6 +291,7 @@ export const temperWeb = {
     "module/trait-research-progress-panel-card",
     "module/ultimate-slot-card",
     "module/under-construction-dialog",
+    "module/use-account-address",
     "module/use-build-sync",
     "module/use-character",
     "module/use-class-change",

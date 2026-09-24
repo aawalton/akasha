@@ -20,6 +20,7 @@ export const temperAccount = {
     "file-property/data",
     "instant-property/last-full-scan-at",
     "instant-property/last-scanned-at",
+    "module/account-address",
     "number-property/amount-count",
     "number-property/bag",
     "number-property/bag-size",

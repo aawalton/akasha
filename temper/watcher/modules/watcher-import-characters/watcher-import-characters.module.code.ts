@@ -13,6 +13,7 @@ import {
   type SkillLineId,
   skillLines,
 } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type SignedInReader,
@@ -65,9 +66,12 @@ export type PageUpsert = typeof upsertPage
 
 export type ReportLine = (line: string) => void
 
+export type AccountAddressOf = (userId: string) => Promise<string>
+
 export interface CharacterImportSeams {
   upsert?: PageUpsert
   report?: ReportLine
+  addressOf?: AccountAddressOf
 }
 
 export function keepKnownSkillLineIds(ids: readonly SkillLineId[]): readonly SkillLineId[] {
@@ -179,6 +183,7 @@ export async function executeCharacterImportPlan(
   const userId = await userIdFor(supabase, options.userId, "import these characters")
 
   await resolveAccountPageId(userId, upsert)
+  const accountPage = await (seams.addressOf ?? accountAddressOf)(userId)
 
   for (const skip of skips) {
     report(`  ${skip.characterName}: ${skip.reason}, skipping`)
@@ -188,11 +193,11 @@ export async function executeCharacterImportPlan(
     await upsert({
       pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
       where: [
-        { key: "accountPage", eq: userId },
+        { key: "accountPage", eq: accountPage },
         { key: "esoCharacterId", eq: action.esoCharacterId },
       ],
       set: {
-        accountPage: userId,
+        accountPage,
         esoCharacterId: action.esoCharacterId,
         title: action.characterName,
       },

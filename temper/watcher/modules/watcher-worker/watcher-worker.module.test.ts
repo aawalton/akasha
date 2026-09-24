@@ -15,10 +15,10 @@ const A_TOKEN = `wt_${"0".repeat(64)}`
 test("a token the store matches opens a session naming the account the enrolment names", async () => {
   const session = await openTokenSession(
     () => A_TOKEN,
-    () => Promise.resolve({ accountPageId: "account-1" })
+    () => Promise.resolve({ userId: "user-1" })
   )
   expect(await session.auth.getUser()).toEqual({
-    data: { user: { id: "account-1" } },
+    data: { user: { id: "user-1" } },
     error: null,
   })
 })
@@ -39,7 +39,7 @@ test("a token that will not read opens a session carrying what went wrong", asyn
     () => {
       throw new Error("TEMPER_WATCHER_TOKEN is not set")
     },
-    () => Promise.resolve({ accountPageId: "account-1" })
+    () => Promise.resolve({ userId: "user-1" })
   )
   expect(await session.auth.getUser()).toEqual({
     data: { user: null },
@@ -53,7 +53,7 @@ test("the token is checked once however often the session is asked", async () =>
     () => A_TOKEN,
     () => {
       checked += 1
-      return Promise.resolve({ accountPageId: "account-1" })
+      return Promise.resolve({ userId: "user-1" })
     }
   )
   await session.auth.getUser()

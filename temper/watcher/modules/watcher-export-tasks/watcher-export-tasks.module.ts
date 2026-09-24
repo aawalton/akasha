@@ -23,6 +23,10 @@ export const watcherExportTasks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The tasks and overrides read are the ones naming the account page's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A task has the game's character id rather than the slug naming its character.",
     },
     {

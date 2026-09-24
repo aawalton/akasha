@@ -3,6 +3,7 @@ import { readingAsTheSystem } from "akasha/alan/harness/modules/reading-in-fligh
 import { sha256Hex } from "akasha/code/body/modules/sha256-hex/sha256-hex.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPageById } from "akasha/page/access/modules/patch/patch.module.code.ts"
+import { accountKeyOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 
 export const TEMPER_WATCHER_ENROLMENT_SLUG = "temper-watcher-enrolment"
 
@@ -18,14 +19,22 @@ function sameHash(stated: unknown, presented: string): boolean {
 }
 
 export type ValidatedWatcherToken = {
-  accountPageId: string
+  userId: string
 }
 
-export function validateWatcherToken(wtToken: unknown): Promise<ValidatedWatcherToken | null> {
-  return readingAsTheSystem(() => matchedEnrolment(wtToken))
+export type AccountKeyOf = (address: string) => Promise<string>
+
+export function validateWatcherToken(
+  wtToken: unknown,
+  keyOf: AccountKeyOf = accountKeyOf
+): Promise<ValidatedWatcherToken | null> {
+  return readingAsTheSystem(() => matchedEnrolment(wtToken, keyOf))
 }
 
-async function matchedEnrolment(wtToken: unknown): Promise<ValidatedWatcherToken | null> {
+async function matchedEnrolment(
+  wtToken: unknown,
+  keyOf: AccountKeyOf
+): Promise<ValidatedWatcherToken | null> {
   if (typeof wtToken !== "string" || !TOKEN_SHAPE.test(wtToken)) return null
   const presented = sha256Hex(wtToken)
 
@@ -45,10 +54,21 @@ async function matchedEnrolment(wtToken: unknown): Promise<ValidatedWatcherToken
     return null
   }
 
-  const accountPageId = row.accountPage
-  if (typeof accountPageId !== "string") {
+  const accountAddress = row.accountPage
+  if (typeof accountAddress !== "string") {
     console.error(
       `validateWatcherToken(${enrolmentPageId}): the enrolment matched the presented digest and carries no \`accountPage\`, so access is refused. \`${TEMPER_WATCHER_ENROLMENT_SLUG}\` declares \`account-page\` required, so an enrolment arriving here without one is a defect rather than a caller to turn away, and every token that enrolment issued is refused until it names an account.`
+    )
+    return null
+  }
+
+  let userId: string
+  try {
+    userId = await keyOf(accountAddress)
+  } catch (cause) {
+    console.error(
+      `validateWatcherToken(${enrolmentPageId}): the enrolment names the account ${accountAddress}, and no user could be read from that account page, so access is refused.`,
+      cause
     )
     return null
   }
@@ -66,5 +86,5 @@ async function matchedEnrolment(wtToken: unknown): Promise<ValidatedWatcherToken
     )
   }
 
-  return { accountPageId }
+  return { userId }
 }

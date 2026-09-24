@@ -35,6 +35,7 @@ import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,
 } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
@@ -207,11 +208,12 @@ export function isRulesUnreadWrite(thrown: unknown): boolean {
 
 export function useInventorySettings() {
   const { settings, userId } = useSettingsBlob()
+  const accountPage = useAccountAddress(userId).address
   const { rows } = usePages({
     pageTypeSlug: RULE_PAGE_TYPE_SLUG,
     where:
-      userId != null
-        ? [{ key: "accountPage", eq: userId }]
+      accountPage != null
+        ? [{ key: "accountPage", eq: accountPage }]
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     limit: RULES_AT_MOST,
   })
@@ -257,8 +259,8 @@ export function useInventorySettings() {
   const updateInventorySettings = useCallback(
     async (next: InventoryRuleSettings) => {
       if (userId == null) return
-      if (rulesUnread !== null) throw new Error(RULES_UNREAD_WRITE)
-      const { upserts, deletes } = writesFor(next.rules, heldRules, userId)
+      if (accountPage == null || rulesUnread !== null) throw new Error(RULES_UNREAD_WRITE)
+      const { upserts, deletes } = writesFor(next.rules, heldRules, accountPage)
       if (upserts.length > 0) {
         await runUpserts({
           pageTypeSlug: RULE_PAGE_TYPE_SLUG,
@@ -275,7 +277,7 @@ export function useInventorySettings() {
         })
       }
     },
-    [heldRules, userId, runUpserts, runDeletes, rulesUnread]
+    [heldRules, userId, accountPage, runUpserts, runDeletes, rulesUnread]
   )
 
   return {

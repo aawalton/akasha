@@ -19,6 +19,7 @@ import {
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import { CharactersPlanEmpty } from "akasha/temper/web/modules/characters-plan-empty/characters-plan-empty.module.code.tsx"
 import { decidePlanEmptyState } from "akasha/temper/web/modules/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
+import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import type { useCompletionCharactersByUser } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useCallback, useMemo } from "react"
 
@@ -120,24 +121,26 @@ export function PlanTab({
   charactersUnconfirmed,
   importedCharacterCount,
 }: PlanTabProps) {
+  const accountPage = useAccountAddress(userId).address
+
   const handleUpdateEntityRoles = useCallback(
     (esoCharacterId: string, roles: readonly RoleId[]) => {
-      if (userId == null) return
+      if (accountPage == null) return
       void optimisticPatch({
         pageTypeSlug: "temper-account-character",
         where: [
-          { key: "accountPage", eq: userId },
+          { key: "accountPage", eq: accountPage },
           { key: "esoCharacterId", eq: esoCharacterId },
         ],
         set: { roles: [...roles] },
       })
     },
-    [optimisticPatch, userId]
+    [optimisticPatch, accountPage]
   )
 
   const handleReorder = useCallback(
     (entityId: string, newIndex: number) => {
-      if (userId == null) return
+      if (accountPage == null) return
       const ordered = planEntities.slice()
       const currentIndex = ordered.findIndex((e) => e.entityId === entityId)
       if (currentIndex === -1 || currentIndex === newIndex) return
@@ -149,7 +152,7 @@ export function PlanTab({
           optimisticPatch({
             pageTypeSlug: "temper-account-character",
             where: [
-              { key: "accountPage", eq: userId },
+              { key: "accountPage", eq: accountPage },
               { key: "esoCharacterId", eq: entity.esoCharacterId },
             ],
             set: { displayOrder: index },
@@ -157,7 +160,7 @@ export function PlanTab({
         )
       )
     },
-    [optimisticPatch, userId, planEntities]
+    [optimisticPatch, accountPage, planEntities]
   )
 
   if (planEntities.length + liveOnlyEntities.length === 0) {

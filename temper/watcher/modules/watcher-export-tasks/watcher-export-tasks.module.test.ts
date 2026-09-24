@@ -256,6 +256,7 @@ interface Seam {
   readonly written: { path: string; content: string }[]
   readonly patched: string[]
   readonly said: string[]
+  readonly wheres: unknown[]
 }
 
 function recording(
@@ -266,8 +267,10 @@ function recording(
   const written: { path: string; content: string }[] = []
   const patched: string[] = []
   const said: string[] = []
+  const wheres: unknown[] = []
 
   const collect: PageCollect = async (args) => {
+    wheres.push(args.where)
     if (args.pageTypeSlug === TASK_PAGE_TYPE_SLUG) return [...taskRows]
     if (args.pageTypeSlug === COMPLETION_OVERRIDE_PAGE_TYPE_SLUG) return [...overrideRows]
     return []
@@ -287,6 +290,7 @@ function recording(
   return {
     options: {
       userId: "user-1",
+      addressOf: async (userId) => `temper-account/${userId}`,
       collect,
       getRows,
       patchRow,
@@ -303,8 +307,20 @@ function recording(
     written,
     patched,
     said,
+    wheres,
   }
 }
+
+test("the tasks and overrides read are the ones naming the user's account address", async () => {
+  const seam = recording(TASK_ROWS, OVERRIDE_ROWS, {
+    charactersConfigPath: "/nowhere/characters.lua",
+  })
+  await runExportTasks(CONTENT, SUPABASE, seam.options)
+  expect(seam.wheres).toEqual([
+    [{ key: "accountPage", eq: "temper-account/user-1" }],
+    [{ key: "accountPage", eq: "temper-account/user-1" }],
+  ])
+})
 
 test("the saved-variables content matches what the legacy export made of the same tasks", async () => {
   const seam = recording(TASK_ROWS, OVERRIDE_ROWS)

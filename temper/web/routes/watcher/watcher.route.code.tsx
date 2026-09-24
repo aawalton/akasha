@@ -2,7 +2,9 @@ import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-ses
 import { PageLayoutSkeleton } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { getPage, getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import { findAccountAddress } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { readServedWatcherVersion } from "akasha/temper/web/.server/served-watcher-version/served-watcher-version.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import {
@@ -30,10 +32,13 @@ function isoInstant(value: unknown): string | null {
   return value
 }
 
-async function readSource(pageTypeSlug: string, userId: string): Promise<WatcherSyncSourceCounts> {
+async function readSource(
+  pageTypeSlug: string,
+  accountPage: string
+): Promise<WatcherSyncSourceCounts> {
   const result = await getPages({
     pageTypeSlug,
-    where: [{ key: "accountPage", eq: userId }],
+    where: [{ key: "accountPage", eq: accountPage }],
     select: ["updatedAt"],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 1,
@@ -69,13 +74,15 @@ export async function loader({ request }: { request: Request }) {
 
   if (accountId === null) return data({ sync: null, build: null, run: null })
 
+  const accountPage = (await findAccountAddress(accountId)) ?? NEVER_MATCH_VALUE
+
   const [enrolment, characters, inventory] = await Promise.all([
     getPage({
       pageTypeSlug: "temper-watcher-enrolment",
-      where: [{ key: "accountPage", eq: accountId }],
+      where: [{ key: "accountPage", eq: accountPage }],
       select: ["tokenCreatedAt", "lastRunOutcome"],
     }),
-    readSource("temper-account-character", accountId),
+    readSource("temper-account-character", accountPage),
     readAccountInventory(accountId),
   ])
 

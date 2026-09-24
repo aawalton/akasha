@@ -6,6 +6,10 @@ import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module
 import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
 import { parseSavedVariablesContent } from "akasha/temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
 import { getCompanionIdByDefId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import {
+  ACCOUNT_PAGE_TYPE,
+  addressOfSlug,
+} from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -39,6 +43,28 @@ async function rowsWithCompletion(
   })
   if (!asked.ok) throw new Error(asked.why)
   return asked.answer.rows.map((one) => one.values)
+}
+
+function addressIn(row: Row | undefined): string | null {
+  const slug = row?.slug
+  return typeof slug === "string" && slug !== "" ? addressOfSlug(slug) : null
+}
+
+async function accountAddressAsked(userId: string): Promise<string> {
+  const asked = await askComposed({
+    "page-type": ACCOUNT_PAGE_TYPE,
+    where: { key: { is: userId } },
+    keys: ["slug"],
+    limit: 1,
+  })
+  if (!asked.ok) throw new Error(asked.why)
+  const address = addressIn(asked.answer.rows[0]?.values)
+  if (address === null) {
+    throw new Error(
+      `The ${ACCOUNT_PAGE_TYPE} page for this user came back with no name, so no character or companion can name it. Nothing more has been imported.`
+    )
+  }
+  return address
 }
 
 function readCompletion<T>(row: Row | undefined): T | undefined {
@@ -115,20 +141,27 @@ export function useTemperImport() {
       }
 
       try {
-        const accountRows = await rowsWithCompletion("temper-account", { key: { is: userId } }, [
+        const accountRows = await rowsWithCompletion(ACCOUNT_PAGE_TYPE, { key: { is: userId } }, [
           "slug",
           "key",
         ])
-        const characterRows = await rowsWithCompletion(
-          "temper-account-character",
-          { accountPage: { is: userId } },
-          ["slug", "esoCharacterId", "displayOrder"]
-        )
-        const companionRows = await rowsWithCompletion(
-          "temper-companion-progress",
-          { accountPage: { is: userId } },
-          ["slug", "companionId"]
-        )
+        const knownAddress = addressIn(accountRows[0])
+        const characterRows =
+          knownAddress === null
+            ? []
+            : await rowsWithCompletion(
+                "temper-account-character",
+                { accountPage: { is: knownAddress } },
+                ["slug", "esoCharacterId", "displayOrder"]
+              )
+        const companionRows =
+          knownAddress === null
+            ? []
+            : await rowsWithCompletion(
+                "temper-companion-progress",
+                { accountPage: { is: knownAddress } },
+                ["slug", "companionId"]
+              )
 
         const existingAccount = readCompletion<AccountCompletion>(accountRows[0])
         const mergedAccount = mergeAccountCompletionForward(existingAccount, data.account)
@@ -138,7 +171,7 @@ export function useTemperImport() {
           mergedAccount
         )
         await runUpsertRef.current({
-          pageTypeSlug: "temper-account",
+          pageTypeSlug: ACCOUNT_PAGE_TYPE,
           where: [{ key: "key", eq: userId }],
           set: {
             key: userId,
@@ -149,6 +182,7 @@ export function useTemperImport() {
             : { bodies: { completion: JSON.stringify(mergedAccount) } }),
           select: ["id"],
         })
+        const accountPage = knownAddress ?? (await accountAddressAsked(userId))
 
         const orderAlreadySet = new Set<string>()
         const existingCharacterCompletion = new Map<string, CharacterCompletion>()
@@ -199,11 +233,11 @@ export function useTemperImport() {
           runUpsertRef.current({
             pageTypeSlug: "temper-account-character",
             where: [
-              { key: "accountPage", eq: userId },
+              { key: "accountPage", eq: accountPage },
               { key: "esoCharacterId", eq: entry.esoCharacterId },
             ],
             set: {
-              accountPage: userId,
+              accountPage,
               esoCharacterId: entry.esoCharacterId,
               title: entry.name,
               ...(entry.priorityOrder !== undefined && !orderAlreadySet.has(entry.esoCharacterId)
@@ -219,11 +253,11 @@ export function useTemperImport() {
           runUpsertRef.current({
             pageTypeSlug: "temper-companion-progress",
             where: [
-              { key: "accountPage", eq: userId },
+              { key: "accountPage", eq: accountPage },
               { key: "companionId", eq: entry.companionId },
             ],
             set: {
-              accountPage: userId,
+              accountPage,
               companionId: entry.companionId,
               completion: ENDING,
             },

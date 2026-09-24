@@ -107,12 +107,12 @@ test("an eso character id that is no text leaves that row out", async () => {
   expect(characters).toHaveLength(3)
 })
 
-test("characters are asked for by the account page each names", async () => {
+test("characters are asked for by the address of the account page each names", async () => {
   const { reader, asked } = reading()
-  await readCharactersWithTargetBuilds("u1", reader)
+  await readCharactersWithTargetBuilds("temper-account/test-account", reader)
   expect(asked[0]).toEqual({
     pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
-    where: [{ key: "accountPage", eq: "u1" }],
+    where: [{ key: "accountPage", eq: "temper-account/test-account" }],
     pageSize: 1000,
   })
 })

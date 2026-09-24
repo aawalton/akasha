@@ -7,7 +7,11 @@
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"page/ui/supabase/modules/use-page/use-page.module.code.ts"}
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"}
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"}
+{"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"temper/web/modules/use-account-address/use-account-address.module.code.ts"}
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"temper/web/modules/use-player/use-player.module.code.ts"}
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"}
 {"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"}
+{"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"temper/web/routes/character-versions/character-versions.route.code.ts"}
+{"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"temper/web/routes/companion-versions/companion-versions.route.code.ts"}
+{"propertySlug":"import","fileName":"sentinels.module.code.ts","path":"temper/web/routes/watcher/watcher.route.code.tsx"}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

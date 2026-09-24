@@ -21,6 +21,10 @@ export const useCompletionProgress = {
         "A caller reading before the catalogs arrive would show a real-looking zero per cent.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Character and companion bodies are found by the address of the account page.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "An account ask answers at most one row.",
     },

@@ -13,6 +13,14 @@ export const useCharacters = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build names its account page by that page's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build written before the account page is read is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Build metadata is read off the keys the build page declares.",
     },
     {

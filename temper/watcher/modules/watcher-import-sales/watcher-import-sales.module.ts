@@ -78,6 +78,10 @@ export const watcherImportSales = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sale page names its account by the address of the account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A sale with no sold-at time is written with no sold-at value.",
     },
     {

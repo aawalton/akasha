@@ -48,6 +48,10 @@ import {
   PlanTab,
   usePlanEntities,
 } from "akasha/temper/web/modules/plan-tab/plan-tab.module.code.tsx"
+import {
+  ownerIdOf,
+  useAccountAddress,
+} from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { useCompletionCharactersByUser } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
@@ -78,6 +82,8 @@ export function CharactersDataContent({
   deferred,
 }: CharactersDataContentProps) {
   const optimisticPatch = useOptimisticPatchPage((args) => patchPage(args))
+  const account = useAccountAddress(userId)
+  const accountPage = account.address
   const { builds, isLoading: buildsLoading } = useAllCharacterList(userId)
   const {
     characters: completionCharacters,
@@ -85,7 +91,7 @@ export function CharactersDataContent({
     isDegraded: charactersUnconfirmed,
   } = useCompletionCharactersByUser(userId)
   const { setTarget } = useCharacterLifecycle()
-  const isLoading = buildsLoading || charactersLoading
+  const isLoading = account.isLoading || buildsLoading || charactersLoading
 
   const rawBuildMap = useMemo(() => new Map(builds.map((b) => [b.id, b])), [builds])
 
@@ -149,7 +155,7 @@ export function CharactersDataContent({
       const buildData = decoded && metadata ? applyCharacterMetadata(decoded, metadata) : null
       return {
         id: build.id,
-        userId: build.accountPage,
+        userId: ownerIdOf(build.accountPage, accountPage, userId),
         visibility: build.visibility,
         createdAt: build.createdAt,
         updatedAt: build.updatedAt,
@@ -158,7 +164,7 @@ export function CharactersDataContent({
         buildData,
       }
     })
-  }, [builds])
+  }, [builds, accountPage, userId])
 
   const filteredBuilds = useFilteredBuilds({ decodedBuilds, tab, userId, deferred })
 

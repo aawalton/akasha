@@ -18,6 +18,7 @@ import type { CharacterProgressData } from "akasha/temper/web/modules/character-
 import { useCharacterProgress } from "akasha/temper/web/modules/character-progress/character-progress.module.code.ts"
 import type { CompanionProgressData } from "akasha/temper/web/modules/companion-progress/companion-progress.module.code.ts"
 import { useCompanionProgress } from "akasha/temper/web/modules/companion-progress/companion-progress.module.code.ts"
+import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { useCompletionBodies } from "akasha/temper/web/modules/use-completion-bodies/use-completion-bodies.module.code.ts"
 import { useCompletionCatalogs } from "akasha/temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.code.ts"
 import {
@@ -62,8 +63,9 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
 
   const ownUserId = useUserId()
   const readerId = viewUserId ?? ownUserId
-  const characterBodies = useCompletionBodies(CHARACTER_TYPE, OWNER_KEY, readerId)
-  const companionBodies = useCompletionBodies(COMPANION_TYPE, OWNER_KEY, readerId)
+  const readerAccount = useAccountAddress(readerId)
+  const characterBodies = useCompletionBodies(CHARACTER_TYPE, OWNER_KEY, readerAccount.address)
+  const companionBodies = useCompletionBodies(COMPANION_TYPE, OWNER_KEY, readerAccount.address)
   const accountBodies = useCompletionBodies(ACCOUNT_TYPE, ACCOUNT_OWNER_KEY, readerId)
 
   const { characters: bareRows } = viewUserId != null ? viewCharacters : ownCharacters
@@ -92,6 +94,7 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
 
   const isLoading =
     catalogsLoading ||
+    readerAccount.isLoading ||
     characterBodies.isLoading ||
     companionBodies.isLoading ||
     accountBodies.isLoading ||

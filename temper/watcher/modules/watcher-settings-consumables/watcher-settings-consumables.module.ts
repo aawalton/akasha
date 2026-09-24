@@ -60,6 +60,10 @@ export const watcherSettingsConsumables = {
         "The character reader and the inventory row reader are handed in rather than fixed.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Characters are read by the account's address, and the inventory by its user.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },

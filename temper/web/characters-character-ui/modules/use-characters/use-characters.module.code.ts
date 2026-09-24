@@ -29,6 +29,10 @@ import {
   type CharacterBuildMetadata,
   extractCharacterMetadata,
 } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
+import {
+  ownerOf,
+  useAccountAddress,
+} from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 
@@ -62,11 +66,12 @@ function buildMetadataProperties(meta: CharacterBuildMetadata): Record<string, J
 
 export function useCharacterList() {
   const userId = useUserId()
+  const account = useAccountAddress(userId)
   const { rows, isLoading, error } = usePages({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where:
-      userId != null
-        ? [{ key: "accountPage", eq: userId }]
+      account.address != null
+        ? [{ key: "accountPage", eq: account.address }]
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 500,
@@ -79,7 +84,7 @@ export function useCharacterList() {
 
   return {
     builds,
-    isLoading: userId != null ? isLoading : false,
+    isLoading: userId != null ? account.isLoading || isLoading : false,
     isError: error !== null,
     error,
     retry: undefined,
@@ -167,12 +172,12 @@ export function useCharacter(buildId: string) {
 
 export function useCharacterLifecycle() {
   const userId = useUserId()
+  const account = useAccountAddress(userId)
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))
 
   const createNew = async (args: {
     id: string
-    userId: string
     buildHash: string
     buildMetadata: CharacterBuildMetadata
     encodedBuild?: string
@@ -181,7 +186,7 @@ export function useCharacterLifecycle() {
       id: args.id,
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        accountPage: args.userId,
+        accountPage: ownerOf(userId, account.address),
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
         visibility: "private",
@@ -196,12 +201,12 @@ export function useCharacterLifecycle() {
     newBuildHash: string
     newBuildMetadata: CharacterBuildMetadata
   }) => {
-    if (userId == null) throw new Error("Not authenticated")
+    const accountPage = ownerOf(userId, account.address)
     await runCreate({
       id: args.newId,
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        accountPage: userId,
+        accountPage,
         buildHash: args.newBuildHash,
         ...buildMetadataProperties(args.newBuildMetadata),
         visibility: "private",
@@ -220,11 +225,11 @@ export function useCharacterLifecycle() {
     targetBuildId?: string
     newTargetId?: string
   }) => {
-    if (userId == null) throw new Error("Not authenticated")
+    const accountPage = ownerOf(userId, account.address)
     const created = await runCreate({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        accountPage: userId,
+        accountPage,
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
         visibility: "live",
@@ -236,7 +241,7 @@ export function useCharacterLifecycle() {
       await runPatch({
         pageTypeSlug: "temper-account-character",
         where: [
-          { key: "accountPage", eq: userId },
+          { key: "accountPage", eq: accountPage },
           { key: "esoCharacterId", eq: args.esoCharacterId },
         ],
         set: { liveBuildId: newBuildId },
@@ -250,11 +255,11 @@ export function useCharacterLifecycle() {
     buildHash: string
     buildMetadata: CharacterBuildMetadata
   }) => {
-    if (userId == null) throw new Error("Not authenticated")
+    const accountPage = ownerOf(userId, account.address)
     await runCreate({
       pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        accountPage: userId,
+        accountPage,
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
         visibility: "target",
@@ -271,7 +276,7 @@ export function useCharacterLifecycle() {
     buildMetadata: CharacterBuildMetadata
     updateExistingTargetId?: string
   }) => {
-    if (userId == null) throw new Error("Not authenticated")
+    const accountPage = ownerOf(userId, account.address)
     let targetBuildId = args.updateExistingTargetId ?? args.newBuildId
     if (args.updateExistingTargetId != null) {
       await runPatch({
@@ -286,7 +291,7 @@ export function useCharacterLifecycle() {
       const created = await runCreate({
         pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
         properties: {
-          accountPage: userId,
+          accountPage,
           buildHash: args.buildHash,
           ...buildMetadataProperties(args.buildMetadata),
           visibility: "target",
@@ -299,7 +304,7 @@ export function useCharacterLifecycle() {
       await runPatch({
         pageTypeSlug: "temper-account-character",
         where: [
-          { key: "accountPage", eq: userId },
+          { key: "accountPage", eq: accountPage },
           { key: "esoCharacterId", eq: args.esoCharacterId },
         ],
         set: { targetBuildId },
@@ -330,7 +335,7 @@ export function useNewCharacter() {
       const buildHash = encodeBuild(build)
       const buildMetadata = extractCharacterMetadata(build)
       const id = crypto.randomUUID()
-      await createNew({ id, userId, buildHash, buildMetadata })
+      await createNew({ id, buildHash, buildMetadata })
       router.push(`${characterUrl(toBuildId(id), build.name)}?tab=character`)
     } catch (error) {
       toast.error(error instanceof Error ? error.message : "Failed to create build")
@@ -342,11 +347,12 @@ export function useNewCharacter() {
 }
 
 export function useAllCharacterList(userId: string | null) {
+  const account = useAccountAddress(userId)
   const userRead = usePages({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where:
-      userId != null
-        ? [{ key: "accountPage", eq: userId }]
+      account.address != null
+        ? [{ key: "accountPage", eq: account.address }]
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 500,
@@ -358,7 +364,7 @@ export function useAllCharacterList(userId: string | null) {
     limit: 500,
   })
 
-  const isLoading = userRead.isLoading || publicRead.isLoading
+  const isLoading = account.isLoading || userRead.isLoading || publicRead.isLoading
 
   const userBuilds = userRead.rows.map((row) => mapBuildRow(row, buildMetadataOf))
   const publicBuilds = publicRead.rows.map((row) => mapBuildRow(row, buildMetadataOf))

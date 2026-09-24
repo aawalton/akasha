@@ -15,6 +15,7 @@ import {
   encodeCompanion,
 } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
   type SignedInReader,
@@ -33,10 +34,13 @@ export const COMPANION_IDS_WITH_DEF_ID: readonly CompanionId[] = companions.list
 
 export type PageUpsert = typeof upsertPage
 
+export type AccountAddressOf = (userId: string) => Promise<string>
+
 export interface CompanionImportPorts {
   readonly upsert?: PageUpsert
   readonly report?: (line: string) => void
   readonly warn?: (line: string) => void
+  readonly addressOf?: AccountAddressOf
 }
 
 export interface CompanionHashEntry {
@@ -152,17 +156,22 @@ export function planCompanionImport(reading: CompanionSavedVariables): Companion
   return { actions }
 }
 
-async function writeCompanionProgressPages(userId: string, upsert: PageUpsert): Promise<void> {
+async function writeCompanionProgressPages(
+  userId: string,
+  upsert: PageUpsert,
+  addressOf: AccountAddressOf
+): Promise<void> {
   await resolveAccountPageId(userId, upsert)
+  const accountPage = await addressOf(userId)
 
   for (const companionId of COMPANION_IDS_WITH_DEF_ID) {
     await upsert({
       pageTypeSlug: COMPANION_PROGRESS_PAGE_TYPE_SLUG,
       where: [
-        { key: "accountPage", eq: userId },
+        { key: "accountPage", eq: accountPage },
         { key: "companionId", eq: companionId },
       ],
-      set: { accountPage: userId, companionId },
+      set: { accountPage, companionId },
       select: ["id"],
     })
   }
@@ -199,7 +208,7 @@ export async function runImportCompanions(
 
   const userId = await userIdFor(supabase, options.userId, "write these companions")
 
-  await writeCompanionProgressPages(userId, upsert)
+  await writeCompanionProgressPages(userId, upsert, ports.addressOf ?? accountAddressOf)
 
   report(`Pre-created ${COMPANION_IDS_WITH_DEF_ID.length} companion pages\n`)
 

@@ -19,6 +19,7 @@ import { rulesToInventoryConfig } from "akasha/temper/items/rules/core/modules/i
 import type { InventoryTimestamps } from "akasha/temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { ruleFingerprint } from "akasha/temper/items/rules/core/modules/rule-fingerprint/rule-fingerprint.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import type {
   ReadFiles,
@@ -103,7 +104,8 @@ export interface ExportSettingsSeams {
     userId: string,
     types: readonly string[]
   ) => Promise<Record<string, unknown>>
-  readonly readPlayerRules: (userId: string) => Promise<readonly HeldRule[]>
+  readonly addressOf: (userId: string) => Promise<string>
+  readonly readPlayerRules: (accountPage: string) => Promise<readonly HeldRule[]>
   readonly pricingTables: (say: Say) => Promise<PricingTables>
   readonly pages: PageReader
   readonly inventoryRows: InventoryRowReader
@@ -184,10 +186,10 @@ async function readSettings(
   return settingsIn(await settingsBodyOf(slug), types)
 }
 
-async function readRules(userId: string): Promise<readonly HeldRule[]> {
+async function readRules(accountPage: string): Promise<readonly HeldRule[]> {
   const { rows } = await getPages({
     pageTypeSlug: TEMPER_INVENTORY_RULE_PAGE_TYPE_SLUG,
-    where: [{ key: "accountPage", eq: userId }],
+    where: [{ key: "accountPage", eq: accountPage }],
     limit: RULES_AT_MOST,
   })
   return heldFromRows(rows)
@@ -196,6 +198,7 @@ async function readRules(userId: string): Promise<readonly HeldRule[]> {
 const WATCHER_SEAMS: ExportSettingsSeams = {
   say: log,
   readPlayerSettings: readSettings,
+  addressOf: (userId) => accountAddressOf(userId),
   readPlayerRules: readRules,
   pricingTables: computePricingTables,
   pages: DEFAULT_PAGE_READER,
@@ -244,6 +247,7 @@ type InventoryValues = Pick<SideFileValues, "sell" | "sellTimestamps" | "sellCom
 
 async function compileInventoryValues(
   userId: string,
+  accountPage: string,
   inventoryValue: unknown,
   heldRules: readonly HeldRule[],
   automationSettings: AutomationSettings | undefined,
@@ -257,8 +261,8 @@ async function compileInventoryValues(
   )
 
   const [wantedEquipment, wantedCompanionEquipment] = await Promise.all([
-    compileWantedEquipment(userId, automationSettings, seams.pages),
-    compileWantedCompanionEquipment(userId, automationSettings, seams.pages),
+    compileWantedEquipment(accountPage, automationSettings, seams.pages),
+    compileWantedCompanionEquipment(accountPage, automationSettings, seams.pages),
   ])
   if (wantedEquipment.length > 0) {
     say(`Compiled ${wantedEquipment.length} wanted equipment signature(s).`)
@@ -273,7 +277,7 @@ async function compileInventoryValues(
   }
 
   const wantedConsumables = await compileWantedConsumables(
-    userId,
+    accountPage,
     automationSettings,
     seams.readCharacters
   )
@@ -285,7 +289,7 @@ async function compileInventoryValues(
   const buyItemIds = activeBuyItemIds(ruleSettings)
   const buyStock = compileBuyStock(inventoryRead, buyItemIds)
 
-  const characterPriority = await compileCharacterPriority(userId, seams.readCharacters)
+  const characterPriority = await compileCharacterPriority(accountPage, seams.readCharacters)
   if (characterPriority.length > 0) {
     say(`Compiled ${characterPriority.length} character(s) in priority order.`)
   }
@@ -330,10 +334,11 @@ export async function runExportSettings(
 ): Promise<ExportSettingsResult> {
   const say = seams.say
   const userId = await userIdFor(supabase, options.userId, "export these settings")
+  const accountPage = await seams.addressOf(userId)
 
   const [settingsByType, heldRules] = await Promise.all([
     seams.readPlayerSettings(userId, ALL_SETTING_TYPES),
-    seams.readPlayerRules(userId),
+    seams.readPlayerRules(accountPage),
   ])
   const named = Object.keys(settingsByType)
   if (named.length === 0 && heldRules.length === 0) {
@@ -350,7 +355,14 @@ export async function runExportSettings(
   const inventoryValues: InventoryValues =
     inventoryValue === undefined && heldRules.length === 0
       ? {}
-      : await compileInventoryValues(userId, inventoryValue, heldRules, automationSettings, seams)
+      : await compileInventoryValues(
+          userId,
+          accountPage,
+          inventoryValue,
+          heldRules,
+          automationSettings,
+          seams
+        )
 
   const { currencyRates, crownReplacementCosts } = await seams.pricingTables(say)
 

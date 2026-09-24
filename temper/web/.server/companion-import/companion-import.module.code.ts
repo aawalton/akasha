@@ -12,8 +12,16 @@ import type {
   BuildId,
 } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import {
+  ACCOUNT_PAGE_TYPE,
+  findAccountAddress,
+} from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { extractCompanionMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+
+function noAccountPageWhy(userId: string): string {
+  return `no ${ACCOUNT_PAGE_TYPE} page names user ${userId}, so a build imported now would belong to no account`
+}
 
 export type ImportCompanionResult =
   | { buildId: BuildId; buildName: string }
@@ -31,6 +39,10 @@ export async function importCompanionFromHash(
   const userId = reached?.ok === true ? reached.account : null
   if (userId === null) {
     return { result: { error: "not-authenticated" }, headers }
+  }
+  const accountPage = await findAccountAddress(userId)
+  if (accountPage === null) {
+    return { result: { error: "create-failed", message: noAccountPageWhy(userId) }, headers }
   }
 
   const buildState = decodeCompanion(hash)
@@ -53,7 +65,7 @@ export async function importCompanionFromHash(
   const { rows: existingBuilds } = await getPages({
     pageTypeSlug: "companion-build",
     where: [
-      { key: "accountPage", eq: userId },
+      { key: "accountPage", eq: accountPage },
       { key: "buildHash", eq: hash },
     ],
     limit: 1,
@@ -69,7 +81,7 @@ export async function importCompanionFromHash(
   const { rows: userCompanions } = await getPages({
     pageTypeSlug: "temper-companion-progress",
     where: [
-      { key: "accountPage", eq: userId },
+      { key: "accountPage", eq: accountPage },
       { key: "companionId", eq: companionId },
     ],
     limit: 1,
@@ -80,7 +92,7 @@ export async function importCompanionFromHash(
     const created = await createPage({
       pageTypeSlug: "companion-build",
       properties: {
-        accountPage: userId,
+        accountPage,
         title: buildState.name,
         description: buildMetadata.description,
         buildHash: hash,
@@ -101,7 +113,7 @@ export async function importCompanionFromHash(
       await createPage({
         pageTypeSlug: "temper-companion-progress",
         properties: {
-          accountPage: userId,
+          accountPage,
           companionId,
           liveBuildId: newBuildId,
         },

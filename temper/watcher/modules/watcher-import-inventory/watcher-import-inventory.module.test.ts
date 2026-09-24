@@ -30,6 +30,9 @@ const scanFiled = async () => ({ outcome: "landed" as const, at: "def5678" })
 
 const asked = async () => ({ rows: [{ settings: {}, slug: ACCOUNT_SLUG }], n: 1 })
 
+const playerUnread = async (query: { readonly pageTypeSlug: string }) =>
+  query.pageTypeSlug === "temper-player" ? { refused: "the pages answered nothing" } : asked()
+
 const NET_WORTH: NetWorthResult = {
   itemValue: 500,
   goldAmount: 120,
@@ -269,7 +272,7 @@ test("the reading handed over carries the account, the moment, and every part of
   )
   expect(handed).toEqual({
     id: "id-1",
-    accountPage: "account-1",
+    accountPage: "temper-account/account-account-1",
     capturedAt: "2025-07-25T06:35:07.000Z",
     totalValue: 0,
     goldAmount: 0,
@@ -306,7 +309,7 @@ test("an import whose player page went unread says the managed guild banks are u
       say: () => undefined,
       now: () => 0,
       mint: () => "id-1",
-      ask: async () => ({ refused: "the pages answered nothing" }),
+      ask: playerUnread,
       land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
     }
   )
@@ -375,7 +378,7 @@ test("a player page that went unread makes no fresh id and files no reading", as
         minted.push("id-1")
         return "id-1"
       },
-      ask: async () => ({ refused: "the pages answered nothing" }),
+      ask: playerUnread,
       land: async (values) => {
         landed.push(values)
         return { outcome: "landed" as const, at: "abc1234" }

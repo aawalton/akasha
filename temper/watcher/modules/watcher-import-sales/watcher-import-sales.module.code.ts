@@ -6,6 +6,7 @@ import type { SalesPayload } from "akasha/temper/capture/sale/modules/sales-payl
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
+import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import {
@@ -77,10 +78,13 @@ export type SalePageUpsert = typeof upsertPage
 
 export type ImportReport = (message: string) => void
 
+export type AccountAddressOf = (userId: string) => Promise<string>
+
 export interface ImportSalesOptions {
   readonly userId?: string
   readonly upsert?: SalePageUpsert
   readonly report?: ImportReport
+  readonly addressOf?: AccountAddressOf
 }
 
 function saidWrong(
@@ -156,10 +160,10 @@ export function saleSoldAtIso(soldAt: number): string {
   return new Date(soldAt * MILLISECONDS_PER_SECOND).toISOString()
 }
 
-export function salePageValues(userId: string, action: SaleUpsert): Record<string, Json> {
+export function salePageValues(accountPage: string, action: SaleUpsert): Record<string, Json> {
   return {
     slug: saleSlug(action.saleId),
-    accountPage: userId,
+    accountPage,
     saleId: action.saleId,
     title: action.itemName,
     name: action.itemName,
@@ -185,15 +189,16 @@ export async function writeSaleImportPlan(
   const userId = await userIdFor(supabase, options.userId, "import these sales")
 
   await resolveAccountPageId(userId, upsert)
+  const accountPage = await (options.addressOf ?? accountAddressOf)(userId)
 
   for (const action of plan.actions) {
     await upsert({
       pageTypeSlug: SALE_PAGE_TYPE_SLUG,
       where: [
-        { key: "accountPage", eq: userId },
+        { key: "accountPage", eq: accountPage },
         { key: "saleId", eq: action.saleId },
       ],
-      set: salePageValues(userId, action),
+      set: salePageValues(accountPage, action),
       select: ["id"],
     })
   }

@@ -95,6 +95,10 @@ const SIGNED_OUT: SignedInReader = {
   auth: { getUser: async () => ({ error: { message: "jwt expired" }, data: { user: null } }) },
 }
 
+async function addressOf(userId: string): Promise<string> {
+  return `temper-account/${userId}`
+}
+
 function recordingUpsert(): { calls: UpsertCall[]; upsert: SalePageUpsert } {
   const calls: UpsertCall[] = []
   const upsert: SalePageUpsert = async (args) => {
@@ -208,9 +212,9 @@ test("a sale missing every optional field is written without those keys", () => 
     tax: 0,
     netPayout: 0,
   }
-  expect(salePageValues("user-1", action)).toEqual({
+  expect(salePageValues("temper-account/test-account", action)).toEqual({
     slug: "sale-bare",
-    accountPage: "user-1",
+    accountPage: "temper-account/test-account",
     saleId: "bare",
     title: "",
     name: "",
@@ -231,7 +235,7 @@ test("an item id reaches the page as text while a quantity reaches it as a numbe
     netPayout: 9,
     soldAt: 1700000000,
   }
-  const values = salePageValues("user-1", action)
+  const values = salePageValues("temper-account/test-account", action)
   expect(values.itemId).toBe("64489")
   expect(values.quantity).toBe(100)
   expect(values.soldAt).toBe("2023-11-14T22:13:20.000Z")
@@ -245,7 +249,7 @@ test("the account page is written before the first sale page", async () => {
       { saleId: "two", itemName: "B", salePrice: 4, tax: 1, netPayout: 3 },
     ],
   }
-  await writeSaleImportPlan(plan, SIGNED_IN, { userId: "user-1", upsert })
+  await writeSaleImportPlan(plan, SIGNED_IN, { userId: "user-1", upsert, addressOf })
   expect(calls.map((call) => call.pageTypeSlug)).toEqual([
     "temper-account",
     "temper-sale",
@@ -258,9 +262,9 @@ test("a sale page is located by its account page and its sale id together", asyn
   const plan: SaleImportPlan = {
     actions: [{ saleId: "one", itemName: "A", salePrice: 2, tax: 1, netPayout: 1 }],
   }
-  await writeSaleImportPlan(plan, SIGNED_IN, { userId: "user-1", upsert })
+  await writeSaleImportPlan(plan, SIGNED_IN, { userId: "user-1", upsert, addressOf })
   expect(calls[1]?.where).toEqual([
-    { key: "accountPage", eq: "user-1" },
+    { key: "accountPage", eq: "temper-account/user-1" },
     { key: "saleId", eq: "one" },
   ])
 })
@@ -287,8 +291,8 @@ test("the caller's user id is taken over the one the session would answer", asyn
   const plan: SaleImportPlan = {
     actions: [{ saleId: "one", itemName: "A", salePrice: 2, tax: 1, netPayout: 1 }],
   }
-  await writeSaleImportPlan(plan, SIGNED_OUT, { userId: "stated-user", upsert })
-  expect(calls[1]?.set).toMatchObject({ accountPage: "stated-user" })
+  await writeSaleImportPlan(plan, SIGNED_OUT, { userId: "stated-user", upsert, addressOf })
+  expect(calls[1]?.set).toMatchObject({ accountPage: "temper-account/stated-user" })
 })
 
 test("the run reports how many sales the capture held", async () => {
@@ -297,6 +301,7 @@ test("the run reports how many sales the capture held", async () => {
   await runImportSales(CAPTURE, SIGNED_IN, {
     userId: "user-1",
     upsert,
+    addressOf,
     report: (message) => {
       lines.push(message)
     },

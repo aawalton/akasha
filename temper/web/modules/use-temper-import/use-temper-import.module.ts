@@ -17,5 +17,13 @@ export const useTemperImport = {
       statement:
         "A completion that could not be read stops the import rather than reading as absent.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character or companion is written under the address of the account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An account page made by this import is read back for its address.",
+    },
   ],
 } as const satisfies Module

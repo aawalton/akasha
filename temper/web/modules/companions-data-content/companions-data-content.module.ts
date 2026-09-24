@@ -6,4 +6,14 @@ export const companionsDataContent = {
   slug: "companions-data-content",
   definition: "what the companions data view draws",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build naming the viewer's own account page is taken as the viewer's build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other build keeps its account address as its owner.",
+    },
+  ],
 } as const satisfies Module

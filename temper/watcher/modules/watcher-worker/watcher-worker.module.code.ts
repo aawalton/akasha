@@ -49,7 +49,7 @@ export const NO_ACCOUNT_FOR_TOKEN = "the watcher token matched no enrolment nami
 
 export type WatcherTokenRead = () => string
 
-export type WatcherTokenCheck = (token: unknown) => Promise<{ accountPageId: string } | null>
+export type WatcherTokenCheck = (token: unknown) => Promise<{ userId: string } | null>
 
 async function tokenSessionAnswer(
   readToken: WatcherTokenRead,
@@ -60,7 +60,7 @@ async function tokenSessionAnswer(
     if (validated === null) {
       return { data: { user: null }, error: { message: NO_ACCOUNT_FOR_TOKEN } }
     }
-    return { data: { user: { id: validated.accountPageId } }, error: null }
+    return { data: { user: { id: validated.userId } }, error: null }
   } catch (thrown) {
     const message = thrown instanceof Error ? thrown.message : String(thrown)
     return { data: { user: null }, error: { message } }

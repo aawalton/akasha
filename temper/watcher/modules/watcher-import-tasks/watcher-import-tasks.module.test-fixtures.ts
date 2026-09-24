@@ -106,6 +106,7 @@ export function landing(seams: ImportTasksOptions = {}): ImportTasksOptions {
   return {
     now: () => NOW,
     ask: async () => ({ rows: [], n: 0 }),
+    addressOf: async (userId) => `temper-account/${userId}`,
     landTask: async () => LANDED,
     refreshProgress: async () => 0,
     report: () => undefined,
@@ -121,12 +122,12 @@ export const NO_USER_SESSION: SignedInReader = {
 }
 
 export const IMPORT_TASKS: readonly TaskPage[] = [
-  taskOf({ accountPage: "u1" }),
+  taskOf({ accountPage: "temper-account/u1" }),
   taskOf({
     id: RECURRING_ID,
     slug: "recurring-task",
     title: "Recurring",
-    accountPage: "u1",
+    accountPage: "temper-account/u1",
     lastCompletedAt: COMPLETED_AT_ISO,
   }),
 ]

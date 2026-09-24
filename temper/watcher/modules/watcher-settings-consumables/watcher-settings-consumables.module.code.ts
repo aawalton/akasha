@@ -39,7 +39,7 @@ export interface TargetBuildCharacter {
 }
 
 export type TargetBuildCharacterReader = (
-  userId: string
+  accountPage: string
 ) => Promise<readonly TargetBuildCharacter[]>
 
 export type InventoryRow = Record<string, unknown>
@@ -86,10 +86,10 @@ export const PAGE_INVENTORY_ROWS: InventoryRowReader = {
 }
 
 export async function compileCharacterPriority(
-  userId: string,
+  accountPage: string,
   readCharacters: TargetBuildCharacterReader = readCharactersWithTargetBuilds
 ): Promise<string[]> {
-  const characters = await readCharacters(userId)
+  const characters = await readCharacters(accountPage)
   return characters.map((one) => one.esoCharacterId)
 }
 
@@ -114,11 +114,11 @@ export function toRuleSettings(value: unknown): InventoryRuleSettings {
 }
 
 export async function compileWantedConsumables(
-  userId: string,
+  accountPage: string,
   automationSettings?: AutomationSettings,
   readCharacters: TargetBuildCharacterReader = readCharactersWithTargetBuilds
 ): Promise<Record<number, string[]>> {
-  const characters = await readCharacters(userId)
+  const characters = await readCharacters(accountPage)
 
   const inputs: CompletionCharacterInput[] = []
   const buildById = new Map<string, CharacterBuildInput>()

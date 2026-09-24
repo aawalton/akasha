@@ -13,6 +13,14 @@ export const companionImport = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build is filed under the address of the reader's account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reader with no account page imports nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A hash the codec will not decode is refused rather than part-imported.",
     },
     {

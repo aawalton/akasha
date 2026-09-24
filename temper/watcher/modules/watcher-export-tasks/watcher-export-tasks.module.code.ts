@@ -9,6 +9,7 @@ import {
 } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { serializeLuaBlock } from "akasha/temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.code.ts"
+import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { completionCardOfPageSlug } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
 import type { ParsedCompletionOverrideRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts"
@@ -75,8 +76,11 @@ export type SideFileWrite = typeof writeSideFileIfChanged
 
 export type ExportReport = (message: string) => void
 
+export type AccountAddressOf = (userId: string) => Promise<string>
+
 export interface ExportTasksOptions {
   readonly userId?: string
+  readonly addressOf?: AccountAddressOf
   readonly charactersConfigPath?: string
   readonly collect?: PageCollect
   readonly getRows?: PageGet
@@ -150,14 +154,14 @@ async function learnCharacterEsoIds(
 }
 
 async function completionOverridesByEsoCharacter(
-  userId: string,
+  accountPage: string,
   characterEsoIdBySlug: Map<string, string>,
   collect: PageCollect = collectPages,
   getRows: PageGet = getPages
 ): Promise<Record<string, CompletionOverride[]>> {
   const rows = await collect({
     pageTypeSlug: COMPLETION_OVERRIDE_PAGE_TYPE_SLUG,
-    where: [{ key: "accountPage", eq: userId }],
+    where: [{ key: "accountPage", eq: accountPage }],
     pageSize: ROWS_PER_READ,
   })
 
@@ -207,10 +211,11 @@ export async function runExportTasks(
   const sideFilePath = options.charactersConfigPath ?? null
 
   const userId = await userIdFor(supabase, options.userId, "export these tasks")
+  const accountPage = await (options.addressOf ?? accountAddressOf)(userId)
 
   const rows = await collect({
     pageTypeSlug: TASK_PAGE_TYPE_SLUG,
-    where: [{ key: "accountPage", eq: userId }],
+    where: [{ key: "accountPage", eq: accountPage }],
     pageSize: ROWS_PER_READ,
   })
   const tasks = rows.filter((row) => typeof row.id === "string" && stillToDo(row))
@@ -220,9 +225,9 @@ export async function runExportTasks(
     if (sideFilePath === null) {
       return { content, modified: false, charactersConfigSideFileHash: null }
     }
-    const characterPriority = await compilePriority(userId)
+    const characterPriority = await compilePriority(accountPage)
     const completionOverrides = await completionOverridesByEsoCharacter(
-      userId,
+      accountPage,
       new Map<string, string>(),
       collect,
       getRows
@@ -264,7 +269,7 @@ export async function runExportTasks(
     TEMPER_CHARACTERS_SIBLINGS
   )
 
-  const characterPriority = await compilePriority(userId)
+  const characterPriority = await compilePriority(accountPage)
   lines = replaceOrInsertLuaBlock(
     lines,
     CHARACTER_PRIORITY_KEY,
@@ -287,7 +292,7 @@ export async function runExportTasks(
   let charactersConfigSideFileHash: string | null = null
   if (sideFilePath !== null) {
     const completionOverrides = await completionOverridesByEsoCharacter(
-      userId,
+      accountPage,
       characterEsoIdBySlug,
       collect,
       getRows

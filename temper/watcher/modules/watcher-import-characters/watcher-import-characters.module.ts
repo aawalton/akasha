@@ -44,6 +44,10 @@ export const watcherImportCharacters = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A character page names its account by the address of the account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A saved-variables file naming no character writes no page.",
     },
     {

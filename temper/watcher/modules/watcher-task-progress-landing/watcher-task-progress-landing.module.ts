@@ -90,6 +90,10 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The pages read are found by the address of the account page they name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A count a page sets by hand lifts a character's completion before the reading is taken.",
     },

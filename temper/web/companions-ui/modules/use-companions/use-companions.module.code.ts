@@ -29,6 +29,10 @@ import {
   type CompanionBuildMetadata,
   extractCompanionMetadata,
 } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
+import {
+  ownerOf,
+  useAccountAddress,
+} from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 
@@ -65,11 +69,12 @@ function buildMetadataProperties(meta: CompanionBuildMetadata): Record<string, J
 
 export function useCompanionList() {
   const userId = useUserId()
+  const account = useAccountAddress(userId)
   const { rows, isLoading, error } = usePages({
     pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
     where:
-      userId != null
-        ? [{ key: "accountPage", eq: userId }]
+      account.address != null
+        ? [{ key: "accountPage", eq: account.address }]
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 500,
@@ -82,7 +87,7 @@ export function useCompanionList() {
 
   return {
     builds,
-    isLoading: userId != null ? isLoading : false,
+    isLoading: userId != null ? account.isLoading || isLoading : false,
     isError: error !== null,
     error,
     retry: undefined,
@@ -165,12 +170,12 @@ export function useCompanion(buildId: string) {
 
 export function useCompanionLifecycle() {
   const userId = useUserId()
+  const account = useAccountAddress(userId)
   const runCreate = useOptimisticCreatePage((args) => createPage(args))
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))
 
   const createNew = async (args: {
     id: string
-    userId: string
     buildHash: string
     buildMetadata: CompanionBuildMetadata
     encodedBuild?: string
@@ -179,7 +184,7 @@ export function useCompanionLifecycle() {
       id: args.id,
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        accountPage: args.userId,
+        accountPage: ownerOf(userId, account.address),
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
         visibility: "private",
@@ -194,12 +199,12 @@ export function useCompanionLifecycle() {
     newBuildHash: string
     newBuildMetadata: CompanionBuildMetadata
   }) => {
-    if (userId == null) throw new Error("Not authenticated")
+    const accountPage = ownerOf(userId, account.address)
     await runCreate({
       id: args.newId,
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        accountPage: userId,
+        accountPage,
         buildHash: args.newBuildHash,
         ...buildMetadataProperties(args.newBuildMetadata),
         visibility: "private",
@@ -218,11 +223,11 @@ export function useCompanionLifecycle() {
     targetBuildId?: string
     newTargetId?: string
   }) => {
-    if (userId == null) throw new Error("Not authenticated")
+    const accountPage = ownerOf(userId, account.address)
     const created = await runCreate({
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        accountPage: userId,
+        accountPage,
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
         visibility: "live",
@@ -234,7 +239,7 @@ export function useCompanionLifecycle() {
       await runPatch({
         pageTypeSlug: "temper-companion-progress",
         where: [
-          { key: "accountPage", eq: userId },
+          { key: "accountPage", eq: accountPage },
           { key: "companionId", eq: args.companionId },
         ],
         set: { liveBuildId: newBuildId },
@@ -248,11 +253,11 @@ export function useCompanionLifecycle() {
     buildHash: string
     buildMetadata: CompanionBuildMetadata
   }) => {
-    if (userId == null) throw new Error("Not authenticated")
+    const accountPage = ownerOf(userId, account.address)
     await runCreate({
       pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
       properties: {
-        accountPage: userId,
+        accountPage,
         buildHash: args.buildHash,
         ...buildMetadataProperties(args.buildMetadata),
         visibility: "target",
@@ -269,7 +274,7 @@ export function useCompanionLifecycle() {
     buildMetadata: CompanionBuildMetadata
     updateExistingTargetId?: string
   }) => {
-    if (userId == null) throw new Error("Not authenticated")
+    const accountPage = ownerOf(userId, account.address)
     let targetBuildId = args.updateExistingTargetId ?? args.newBuildId
     if (args.updateExistingTargetId != null) {
       await runPatch({
@@ -284,7 +289,7 @@ export function useCompanionLifecycle() {
       const created = await runCreate({
         pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
         properties: {
-          accountPage: userId,
+          accountPage,
           buildHash: args.buildHash,
           ...buildMetadataProperties(args.buildMetadata),
           visibility: "target",
@@ -297,7 +302,7 @@ export function useCompanionLifecycle() {
       await runPatch({
         pageTypeSlug: "temper-companion-progress",
         where: [
-          { key: "accountPage", eq: userId },
+          { key: "accountPage", eq: accountPage },
           { key: "companionId", eq: args.companionId },
         ],
         set: { targetBuildId },
@@ -328,7 +333,7 @@ export function useNewCompanion() {
       const buildHash = encodeCompanion(build)
       const buildMetadata = extractCompanionMetadata(build)
       const id = crypto.randomUUID()
-      await createNew({ id, userId, buildHash, buildMetadata })
+      await createNew({ id, buildHash, buildMetadata })
       router.push(`${companionUrl(toBuildId(id), build.name)}?tab=companion`)
     } catch (error) {
       toast.error(error instanceof Error ? error.message : "Failed to create companion")
@@ -340,11 +345,12 @@ export function useNewCompanion() {
 }
 
 export function useAllCompanionList(userId: string | null) {
+  const account = useAccountAddress(userId)
   const userRead = usePages({
     pageTypeSlug: COMPANION_BUILD_PAGE_TYPE_SLUG,
     where:
-      userId != null
-        ? [{ key: "accountPage", eq: userId }]
+      account.address != null
+        ? [{ key: "accountPage", eq: account.address }]
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 500,
@@ -356,7 +362,7 @@ export function useAllCompanionList(userId: string | null) {
     limit: 500,
   })
 
-  const isLoading = userRead.isLoading || publicRead.isLoading
+  const isLoading = account.isLoading || userRead.isLoading || publicRead.isLoading
 
   const userBuilds = userRead.rows.map((row) => mapBuildRow(row, buildMetadataOf))
   const publicBuilds = publicRead.rows.map((row) => mapBuildRow(row, buildMetadataOf))

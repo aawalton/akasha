@@ -1,7 +1,9 @@
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { findAccountAddress } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import type { Route } from "./+types/character-versions.route.code"
 
@@ -36,10 +38,11 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   const buildId = toBuildId(params.buildId)
 
   try {
+    const accountPage = (await findAccountAddress(accountId)) ?? NEVER_MATCH_VALUE
     const { rows } = await getPages({
       pageTypeSlug: "temper-build-version",
       where: [
-        { key: "accountPage", eq: accountId },
+        { key: "accountPage", eq: accountPage },
         { key: "build", eq: buildId },
       ],
       order: [{ by: "versionNumber", dir: "desc" }],

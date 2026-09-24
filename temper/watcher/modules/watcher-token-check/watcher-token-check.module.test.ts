@@ -10,7 +10,13 @@ const OTHER_TOKEN = "wt_ffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 const OTHER_SHA256 = "d9489116f7a295e1dc193d47b60e04f12c31e336e673a6b1638287da2d580c77"
 
 const ENROLMENT_ID = "019dd9b0-5ad8-7e95-9d8f-fccedf449adc"
-const ACCOUNT_PAGE = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
+const ACCOUNT_PAGE = "temper-account/test-account"
+const USER_ID = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
+
+async function keyOfAlanarre(address: string): Promise<string> {
+  if (address !== ACCOUNT_PAGE) throw new Error(`no account page at ${address}`)
+  return USER_ID
+}
 
 let enrolment: Page | null = null
 let patchFails: Error | null = null
@@ -128,18 +134,27 @@ describe("validateWatcherToken says why it granted nothing", () => {
 })
 
 describe("validateWatcherToken grants access", () => {
-  test("returns the account and records the use", async () => {
+  test("returns the user the enrolment's account page names and records the use", async () => {
     enrolment = enrolled(TOKEN_SHA256)
-    expect(await validateWatcherToken(TOKEN)).toEqual({ accountPageId: ACCOUNT_PAGE })
+    expect(await validateWatcherToken(TOKEN, keyOfAlanarre)).toEqual({ userId: USER_ID })
     expect(patchCalls).toHaveLength(1)
+  })
+
+  test("refuses when the enrolment's account page names no user, and says which account", async () => {
+    enrolment = asPage({ id: ENROLMENT_ID, tokenHash: TOKEN_SHA256, accountPage: USER_ID })
+    const { got, said } = await reporting(async () => validateWatcherToken(TOKEN, keyOfAlanarre))
+    expect(got).toBeNull()
+    expect(said).toHaveLength(1)
+    expect(said[0]).toContain(USER_ID)
+    expect(patchCalls).toHaveLength(0)
   })
 
   test("still grants access when recording the use throws, and reports the failure", async () => {
     enrolment = enrolled(TOKEN_SHA256)
     patchFails = new Error("patchPageById temper-watcher-enrolment: the write did not land")
 
-    const { got, said } = await reporting(async () => validateWatcherToken(TOKEN))
-    expect(got).toEqual({ accountPageId: ACCOUNT_PAGE })
+    const { got, said } = await reporting(async () => validateWatcherToken(TOKEN, keyOfAlanarre))
+    expect(got).toEqual({ userId: USER_ID })
     expect(patchCalls).toHaveLength(1)
     expect(said).toHaveLength(1)
     expect(said[0]).toContain("tokenLastUsedAt")

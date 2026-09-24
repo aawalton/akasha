@@ -130,8 +130,8 @@ export function rosterFrom(
   return roster
 }
 
-async function askedRows(ready: ProgressReady, pageTypeSlug: string, userId: string) {
-  const asked = await ready.ask({ pageTypeSlug, where: { accountPage: { is: userId } } })
+async function askedRows(ready: ProgressReady, pageTypeSlug: string, accountPage: string) {
+  const asked = await ready.ask({ pageTypeSlug, where: { accountPage: { is: accountPage } } })
   if ("refused" in asked)
     throw new Error(`the ${pageTypeSlug} pages went unread — ${asked.refused}`)
   return asked.rows
@@ -161,10 +161,10 @@ async function heldBeside<T>(
 
 async function floorsBySlug(
   ready: ProgressReady,
-  userId: string
+  accountPage: string
 ): Promise<ReadonlyMap<string, readonly CompletionOverride[]>> {
   const by = new Map<string, CompletionOverride[]>()
-  for (const row of await askedRows(ready, OVERRIDE_TYPE, userId)) {
+  for (const row of await askedRows(ready, OVERRIDE_TYPE, accountPage)) {
     const one = parseCompletionOverrideRow(row)
     if (one === null) continue
     const already = by.get(one.characterId)
@@ -203,12 +203,12 @@ export function namedPathsOf(tasks: readonly TaskFacts[]): readonly NamedPath[] 
   return found
 }
 
-async function indexFor(ready: ProgressReady, userId: string, named: readonly NamedPath[]) {
-  const characters = await askedRows(ready, CHARACTER_TYPE, userId)
+async function indexFor(ready: ProgressReady, accountPage: string, named: readonly NamedPath[]) {
+  const characters = await askedRows(ready, CHARACTER_TYPE, accountPage)
   const slugs = characters.map((row) => textOf(row, "slug")).filter((one) => one !== "")
   const completions = await heldBeside<CharacterCompletion>(ready, CHARACTER_TYPE, slugs)
-  const floors = await floorsBySlug(ready, userId)
-  const accounts = await askedRows(ready, ACCOUNT_TYPE, userId)
+  const floors = await floorsBySlug(ready, accountPage)
+  const accounts = await askedRows(ready, ACCOUNT_TYPE, accountPage)
   const accountSlugs = accounts.map((row) => textOf(row, "slug")).filter((one) => one !== "")
   const held = await heldBeside<AccountCompletion>(ready, ACCOUNT_TYPE, accountSlugs)
   const account = accountSlugs[0] === undefined ? null : (held.get(accountSlugs[0]) ?? null)
@@ -263,13 +263,13 @@ export function putsFor(
 }
 
 export async function refreshTaskProgress(
-  userId: string,
+  accountPage: string,
   tasks: readonly TaskFacts[],
   deps: ProgressDeps = {}
 ): Promise<number> {
   const ready = readyFor(deps)
   if (tasks.length === 0) return 0
-  const index = await indexFor(ready, userId, namedPathsOf(tasks))
+  const index = await indexFor(ready, accountPage, namedPathsOf(tasks))
   const slugs = tasks.map((one) => one.slug)
   const found = await ready.pages(slugs.map((slug) => ({ pageTypeSlug: TASK_TYPE, slug })))
   if (!found.ok) throw new Error(`the ${TASK_TYPE} pages went unread — ${found.why}`)

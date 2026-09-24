@@ -59,6 +59,10 @@ export const watcherImportTasks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The tasks read are the ones naming the address of the user's account page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every reach outside this module is an argument the caller may hand in.",
     },
     {

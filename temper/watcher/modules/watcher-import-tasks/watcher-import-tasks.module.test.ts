@@ -360,7 +360,10 @@ test("the recomputation is handed every task and what it landed is reported", as
       report: (message) => said.push(message),
     })
   )
-  expect(handed).toEqual(["u1", { slug: "one-off-task", completionCardId: "daily-writs" }])
+  expect(handed).toEqual([
+    "temper-account/u1",
+    { slug: "one-off-task", completionCardId: "daily-writs" },
+  ])
   expect(said[said.length - 1]).toContain("3 progress file(s) landed")
 })
 
@@ -385,4 +388,21 @@ test("seams the caller leaves out fall back to the real ones", () => {
   const ready = seamsReady()
   expect(typeof ready.now()).toBe("object")
   expect(typeof ready.landTask).toBe("function")
+  expect(typeof ready.addressOf).toBe("function")
+})
+
+test("the task pages read are the ones naming the user's account address", async () => {
+  const asked: unknown[] = []
+  await runImportTasks(
+    buildLua([]),
+    NO_CLIENT,
+    landing({
+      userId: "u1",
+      ask: async (query) => {
+        asked.push(query.where)
+        return { rows: [], n: 0 }
+      },
+    })
+  )
+  expect(asked[0]).toEqual({ accountPage: { is: "temper-account/u1" } })
 })

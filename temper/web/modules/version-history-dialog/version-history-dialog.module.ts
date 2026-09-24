@@ -6,4 +6,10 @@ export const versionHistoryDialog = {
   slug: "version-history-dialog",
   definition: "the dialog listing a build's earlier versions",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A checkpoint names its account by the address of the account page.",
+    },
+  ],
 } as const satisfies Module

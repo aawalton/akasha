@@ -14,6 +14,7 @@ import type {
   CharacterCompletion,
   CompanionCompletion,
 } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
+import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { useMemo } from "react"
 
 const ACCOUNT_PAGE_TYPE_SLUG = "temper-account"
@@ -128,11 +129,12 @@ export function useCompletionCharactersByUser(userId: string | null) {
 }
 
 function useCompletionCharactersByUserInternal(userId: string | null) {
+  const account = useAccountAddress(userId)
   const { rows, isLoading, isDegraded, error } = usePages({
     pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
     where:
-      userId != null
-        ? [{ key: "accountPage", eq: userId }]
+      account.address != null
+        ? [{ key: "accountPage", eq: account.address }]
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "displayOrder", dir: "asc" }],
     limit: CHILD_ROW_LIMIT,
@@ -145,7 +147,7 @@ function useCompletionCharactersByUserInternal(userId: string | null) {
 
   return {
     characters,
-    isLoading: userId != null ? isLoading : false,
+    isLoading: userId != null ? account.isLoading || isLoading : false,
     isDegraded: userId != null ? isDegraded : false,
     isError: error !== null,
     error,
@@ -163,11 +165,12 @@ export function useCompletionCompanionsByUser(userId: string) {
 }
 
 function useCompletionCompanionsByUserInternal(userId: string | null) {
+  const account = useAccountAddress(userId)
   const { rows, isLoading, error } = usePages({
     pageTypeSlug: COMPANION_PAGE_TYPE_SLUG,
     where:
-      userId != null
-        ? [{ key: "accountPage", eq: userId }]
+      account.address != null
+        ? [{ key: "accountPage", eq: account.address }]
         : [{ key: "accountPage", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "displayOrder", dir: "asc" }],
     limit: CHILD_ROW_LIMIT,
@@ -180,7 +183,7 @@ function useCompletionCompanionsByUserInternal(userId: string | null) {
 
   return {
     companions,
-    isLoading: userId != null ? isLoading : false,
+    isLoading: userId != null ? account.isLoading || isLoading : false,
     isError: error !== null,
     error,
     retry: undefined,
