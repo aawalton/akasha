@@ -4,7 +4,7 @@ export const akasha = {
   id: "01a049e9-651c-7000-b6c1-0d4d87c8b4c5",
   type: "page-type/domain",
   slug: "akasha",
-  definition: "code, data and text in a page with a type in a file",
+  definition: "typed pages in files",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "akasha" }],
   parts: [
     "domain/alan",
