@@ -170,10 +170,7 @@ export const codeEditor = {
       statement:
         "The editor's build resolves the dependencies the build needs inside the editor's own checkout.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No code repository sits beside the editor's build.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The editor is one clone.",
