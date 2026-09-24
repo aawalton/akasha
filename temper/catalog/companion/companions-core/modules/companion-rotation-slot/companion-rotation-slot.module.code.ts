@@ -3,7 +3,10 @@ import {
   companionSkills,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
-import type { CompanionMetricValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
+import {
+  type CompanionMetricValue,
+  companionMetrics,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
@@ -89,7 +92,14 @@ export function buildSlotData(
           const { buff, value } = effect.buff
 
           if (buff === "major-resolve" || buff === "minor-resolve") {
-            const armorContribution = (healthMax * ((value ?? 0) / 50000)) / damageTakenMult
+            const armorMetric = companionMetrics.data["companion-armor"]
+            if (armorMetric.valueType !== "rating") {
+              throw new Error(`companion-armor states no rating divisor for ${buff} on ${skillId}`)
+            }
+            if (typeof value !== "number") {
+              throw new Error(`${buff} on ${skillId} states no armor value`)
+            }
+            const armorContribution = (healthMax * (value / armorMetric.divisor)) / damageTakenMult
             tps += armorContribution * uptime
           }
 

@@ -17,10 +17,5 @@ export const companionRotationSlot = {
       statement:
         "Slot data is emitted for every id in companionSkillSlots even when the slot has no skill.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "Resolve buffs assume a fixed armor divisor of fifty thousand instead of the metric divisor.",
-    },
   ],
 } as const satisfies Module
