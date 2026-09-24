@@ -4,6 +4,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const SLUG = "web"
 
@@ -19,6 +20,8 @@ export function appRooted(id: string, also: readonly string[] = []): string {
   const paths = [APP_PAGE, APP_PLAIN, ...also]
   const root = staged(Object.fromEntries(paths.map((one) => [one, APP_HELD])))
   listedFiled(root, APP, SLUG, [{ path: APP_PAGE, id }])
-  valueAlsoFiled(root, APP, [{ path: APP_PAGE, value: { id, pageTypeSlug: APP, slug: SLUG } }])
+  valueAlsoFiled(root, APP, [
+    { path: APP_PAGE, value: { id, type: `${pageType.slug}/${APP}`, slug: SLUG } },
+  ])
   return root
 }

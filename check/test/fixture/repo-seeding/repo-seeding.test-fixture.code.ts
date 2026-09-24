@@ -32,6 +32,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const ADMITS_AT = "akasha/admits.check-code*"
 
@@ -83,7 +84,7 @@ function builtAt(root: string, named: Readonly<Record<string, string>>): string 
   pageFiled(root, AGENT, SEAT_AT)
   listedFiled(root, SEAT, TESTER, [{ path: SEAT_AT, id: AGENT }])
   valueAlsoFiled(root, SEAT, [
-    { path: SEAT_AT, value: { id: AGENT, pageTypeSlug: SEAT, slug: TESTER } },
+    { path: SEAT_AT, value: { id: AGENT, type: `${pageType.slug}/${SEAT}`, slug: TESTER } },
   ])
   listedFiled(root, COMMAND, CHANGE_APPLY_SLUG, [{ path: APPLY_AT, id: APPLY_ID }])
   for (const [path, body] of Object.entries(named)) {

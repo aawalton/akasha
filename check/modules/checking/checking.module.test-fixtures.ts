@@ -24,6 +24,7 @@ import {
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAsked } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const CHECK = "check-code"
 
@@ -127,7 +128,7 @@ export function rootWith(named: readonly Named[], filedUnder: PageType = CHECK_P
     const held = [{ path: at, id }]
     listedFiled(root, filedUnder.slug, one.slug, held)
     valueAlsoFiled(root, filedUnder.slug, [
-      { path: at, value: { id, pageTypeSlug: filedUnder.slug, slug: one.slug } },
+      { path: at, value: { id, type: `${pageType.slug}/${filedUnder.slug}`, slug: one.slug } },
     ])
     idFiled(root, id, held)
   }

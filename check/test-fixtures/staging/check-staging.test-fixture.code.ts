@@ -18,6 +18,7 @@ import { importedFrom } from "akasha/page/modules/reference-filing/page-referenc
 import { referencesEach } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType as pageTypePage } from "akasha/page/type/page-type.page-type.ts"
 
 const EDGE_PAGE_AT = "graph/import-edge.graph-edge.ts"
 
@@ -62,7 +63,7 @@ function owned(root: string, files: Readonly<Record<string, string>>): undefined
     const said = owner === null ? null : partedIn(owner)
     if (owner === null || said === null) continue
     valueAlsoFiled(root, said.pageType, [
-      { path: owner, value: { pageTypeSlug: said.pageType, slug: said.slug } },
+      { path: owner, value: { type: `${pageTypePage.slug}/${said.pageType}`, slug: said.slug } },
     ])
   }
 }

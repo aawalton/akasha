@@ -8,6 +8,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const REFUSES_CODE = `export function refuses(change) {
   return change.changed.map((path) => ({ path, reason: "refused for the test" }))
@@ -47,7 +48,7 @@ function valueFor(
 ): Readonly<Record<string, unknown>> {
   return {
     id,
-    pageTypeSlug: CHECK,
+    type: `${pageType.slug}/${CHECK}`,
     slug,
     definition,
     code: "ts",

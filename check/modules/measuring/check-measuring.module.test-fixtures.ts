@@ -13,6 +13,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const ENTRIES = "entries"
 
@@ -145,7 +146,7 @@ function checkFiled(
   const path = `${UNDER}/${check}/${check}.${CHECKED}.ts`
   listedFiled(root, CHECKED, check, [{ path, id: idOf(at) }])
   valueAlsoFiled(root, CHECKED, [
-    { path, value: { id: idOf(at), pageTypeSlug: CHECKED, slug: check, ...held } },
+    { path, value: { id: idOf(at), type: `${pageType.slug}/${CHECKED}`, slug: check, ...held } },
   ])
 }
 
