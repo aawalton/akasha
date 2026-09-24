@@ -24,23 +24,13 @@ import {
   readLatestInventory,
   toRuleSettings,
 } from "akasha/temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.code.ts"
-
-const GARLIC_HAGFISH_HASH =
-  "ATQHgAAAAAAf_4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXr164BatWrQBQoUKAAQQmQAA"
-const CHEESE_PLATE_HASH =
-  "ATQHgAAAAAAf_4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABXr164BatWrQBQoUKAAgAGQAA"
-
-const GARLIC_HAGFISH_ITEM = 68235
-const CHEESE_PLATE_ITEM = 68236
-const TRI_RESTORATION_ITEM = 64710
-const SPELLCASTER_ELIXIR_ITEM = 112427
-
-const CHARACTERS = [
-  { esoCharacterId: "111", targetBuildHash: GARLIC_HAGFISH_HASH },
-  { esoCharacterId: "222", targetBuildHash: GARLIC_HAGFISH_HASH },
-  { esoCharacterId: "333" },
-  { esoCharacterId: "444", targetBuildHash: CHEESE_PLATE_HASH },
-]
+import {
+  CHARACTERS,
+  CHEESE_PLATE_ITEM,
+  GARLIC_HAGFISH_ITEM,
+  SPELLCASTER_ELIXIR_ITEM,
+  TRI_RESTORATION_ITEM,
+} from "akasha/temper/watcher/modules/watcher-settings-consumables/watcher-settings-consumables.module.test-fixtures.ts"
 
 const readCharacters = async () => CHARACTERS
 
@@ -295,6 +285,19 @@ test("data that is not JSON is a failure counting the bytes", async () => {
   expect(read.failure.message.length).toBeGreaterThan(0)
 })
 
+test("JSON the inventory shape refuses is a failure naming the field at fault", async () => {
+  const read = await readLatestInventory(
+    "u1",
+    readerOver({ id: "read-1", slug: READING_SLUG }, '{"locations":{}}')
+  )
+  expect(read.ok).toBe(false)
+  if (read.ok) return
+  expect(read.failure.kind).toBe("not-an-inventory")
+  expect(describeInventoryReadFailure(read.failure)).toStartWith(
+    "inventory reading read-1 holds JSON the inventory shape refuses: `meta`"
+  )
+})
+
 const EMPTY_DATABASE: InventoryDatabase = {
   locations: {},
   meta: { displayName: "someone", worldName: "PC-EU", lastFullScan: 0 },
@@ -364,6 +367,7 @@ const EVERY_FAILURE: readonly InventoryReadFailure[] = [
   { kind: "reading-has-no-slug", readingId: "read-1" },
   MID_WRITE,
   { kind: "json-parse-failed", readingId: "read-1", bytes: 41230, message: "bad" },
+  { kind: "not-an-inventory", readingId: "read-1", message: "bad" },
 ]
 
 function heldTotal(stock: BuyStock, itemId: number): number {

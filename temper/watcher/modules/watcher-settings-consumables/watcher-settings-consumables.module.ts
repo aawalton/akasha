@@ -8,6 +8,7 @@ export const watcherSettingsConsumables = {
     "the consumables a build asks for, the stock held of them, and the account inventory behind both",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -36,6 +37,10 @@ export const watcherSettingsConsumables = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A failure names the reading at fault and the reason that reading is at fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A data file the inventory shape refuses is a failure rather than an inventory.",
     },
     {
       decisionKind: "decision-kind/departure",

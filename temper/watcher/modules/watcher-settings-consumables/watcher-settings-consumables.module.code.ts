@@ -4,7 +4,10 @@ import {
   readPages,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import { computeItemStock } from "akasha/temper/items/core/modules/compute-item-stock/compute-item-stock.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import {
+  type InventoryDatabase,
+  inventoryDatabaseSchema,
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { InventoryRuleSettingsShape } from "akasha/temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
@@ -152,6 +155,11 @@ export type InventoryReadFailure =
       readonly bytes: number
       readonly message: string
     }
+  | {
+      readonly kind: "not-an-inventory"
+      readonly readingId: string
+      readonly message: string
+    }
 
 export type InventoryReadResult =
   | { readonly ok: true; readonly db: InventoryDatabase }
@@ -170,6 +178,8 @@ const FAILURE_DESCRIPTIONS: {
     `inventory reading ${failure.readingId} has no data file beside ${failure.slug} — the reading is mid-write or was truncated`,
   "json-parse-failed": (failure) =>
     `inventory reading ${failure.readingId} holds ${failure.bytes} byte(s) that are not valid JSON: ${failure.message}`,
+  "not-an-inventory": (failure) =>
+    `inventory reading ${failure.readingId} holds JSON the inventory shape refuses: ${failure.message}`,
 }
 
 export function describeInventoryReadFailure(failure: InventoryReadFailure): string {
@@ -196,9 +206,9 @@ export async function readLatestInventory(
   const data = await rows.dataOf(slug)
   if (data === null) return { ok: false, failure: { kind: "no-data", readingId, slug } }
 
+  let read: ReturnType<typeof inventoryDatabaseSchema.safeParse>
   try {
-    const db: InventoryDatabase = JSON.parse(data)
-    return { ok: true, db }
+    read = inventoryDatabaseSchema.safeParse(JSON.parse(data))
   } catch (err) {
     return {
       ok: false,
@@ -210,6 +220,13 @@ export async function readLatestInventory(
       },
     }
   }
+  if (!read.success) {
+    return {
+      ok: false,
+      failure: { kind: "not-an-inventory", readingId, message: saidWrong(read.error.issues) },
+    }
+  }
+  return { ok: true, db: read.data }
 }
 
 export function compileConsumableStock(
