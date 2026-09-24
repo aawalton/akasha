@@ -1,6 +1,8 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { BUN_RUNTIME_IMAGE } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
+import { gitTransportJanitor as page } from "akasha/infrastructure/git-transport/janitor/git-transport-janitor.manifest.ts"
 import {
   JANITOR_LABELS,
   NAMESPACE,
@@ -68,10 +70,7 @@ function janitorCronjobYaml(): string {
                   imagePullPolicy: "IfNotPresent",
                   command: ["sh", "-c", SWEEP],
                   volumeMounts: [{ name: "data", mountPath: REPOSITORIES }],
-                  resources: {
-                    requests: { cpu: "100m", memory: "256Mi" },
-                    limits: { cpu: "1", memory: "1Gi" },
-                  },
+                  resources: resourcesOf(page),
                   securityContext: {
                     runAsNonRoot: true,
                     runAsUser: 1000,

@@ -1,2 +1,3 @@
+{"propertySlug":"import","fileName":"nvidia-device-plugin.manifest.ts","path":"infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/node/node.domain.ts","id":"01a0675b-16f6-70fc-b7f0-5a700f512e86"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/nvidia-device-plugin/nvidia-device-plugin.service-cluster.ts","id":"01a06812-2380-7ce6-b001-50deac244107"}

@@ -1,7 +1,12 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.code.ts"
+import {
+  killMemoryMbOf,
+  resourcesOf,
+} from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { synthNamespaceConfigmapDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { buildkit as page } from "akasha/infrastructure/container-image/buildkit/buildkit.manifest.ts"
 import { buildkit } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/buildkit/buildkit.service-cluster.ts"
 
 const NAMESPACE = buildkit.namespace
@@ -12,9 +17,12 @@ const PART_OF = "infra"
 const MANAGED_BY = "deploy-script"
 const BUILDKIT_IMAGE = buildkit.image
 
-const BUILDKIT_MEMORY_LIMIT_GIB = 20
+const MB_A_GIB = 1024
 const BUILDKIT_MEMORY_RESERVE_GIB = 8
-const BUILDKIT_GOMEMLIMIT_GIB = BUILDKIT_MEMORY_LIMIT_GIB - BUILDKIT_MEMORY_RESERVE_GIB
+
+function goMemoryLimitGib(): number {
+  return (killMemoryMbOf(page) ?? 0) / MB_A_GIB - BUILDKIT_MEMORY_RESERVE_GIB
+}
 
 const BUILDKIT_DEBUG_ADDR = "127.0.0.1:6060"
 
@@ -109,7 +117,7 @@ function deploymentYaml(): string {
                 "--debugaddr",
                 BUILDKIT_DEBUG_ADDR,
               ],
-              env: [{ name: "GOMEMLIMIT", value: `${BUILDKIT_GOMEMLIMIT_GIB}GiB` }],
+              env: [{ name: "GOMEMLIMIT", value: `${String(goMemoryLimitGib())}GiB` }],
               ports: [{ containerPort: buildkit.containerPort, protocol: "TCP" }],
               readinessProbe: {
                 tcpSocket: { port: buildkit.containerPort },
@@ -120,10 +128,7 @@ function deploymentYaml(): string {
                 { name: "data", mountPath: "/var/lib/buildkit" },
                 { name: "config", mountPath: "/etc/buildkit", readOnly: true },
               ],
-              resources: {
-                requests: { cpu: "4000m", memory: `${BUILDKIT_MEMORY_LIMIT_GIB}Gi` },
-                limits: { memory: `${BUILDKIT_MEMORY_LIMIT_GIB}Gi` },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 privileged: true,
               },

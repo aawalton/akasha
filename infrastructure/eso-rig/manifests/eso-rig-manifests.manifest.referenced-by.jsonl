@@ -1,2 +1,3 @@
+{"propertySlug":"import","fileName":"eso-rig-manifests.manifest.ts","path":"infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/eso-rig/eso-rig.domain.ts","id":"01a06866-58f8-7e5f-853a-325ce7e59667"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/eso-rig/eso-rig.service-cluster.ts","id":"01a06866-58f8-774b-9824-ef1ea3f4ea3d"}

@@ -6,5 +6,8 @@ export const nvidiaDevicePlugin = {
   slug: "nvidia-device-plugin",
   definition: "the daemon set offering a node's graphics cards to the cluster as a resource",
   code: "ts",
+  minCpuMillicores: 5,
+  minMemoryMb: 64,
+  killMemoryMb: 64,
   generatedDirectory: true,
 } as const satisfies Manifest

@@ -6,6 +6,9 @@ export const buildkit = {
   slug: "buildkit",
   definition: "the deployment running the builder that turns a Dockerfile into an image",
   code: "ts",
+  minCpuMillicores: 4000,
+  minMemoryMb: 20480,
+  killMemoryMb: 20480,
   generatedDirectory: true,
   decisions: [
     {

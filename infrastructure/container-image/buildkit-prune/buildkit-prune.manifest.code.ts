@@ -1,5 +1,7 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { buildkitPrune as page } from "akasha/infrastructure/container-image/buildkit-prune/buildkit-prune.manifest.ts"
 
 const NAMESPACE = "buildkit"
 const APP_NAME = "buildkit"
@@ -56,10 +58,7 @@ function pruneCronjobYaml(): string {
                     "--keep-storage",
                     "30000",
                   ],
-                  resources: {
-                    requests: { cpu: "100m", memory: "256Mi" },
-                    limits: { cpu: "500m", memory: "256Mi" },
-                  },
+                  resources: resourcesOf(page),
                 },
               ],
             },

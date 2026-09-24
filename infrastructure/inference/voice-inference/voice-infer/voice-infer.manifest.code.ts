@@ -1,6 +1,11 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import {
+  resourcesOf,
+  resourcesWith,
+} from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
+import { voiceInfer as page } from "akasha/infrastructure/inference/voice-inference/voice-infer/voice-infer.manifest.ts"
 import { voiceInferImage } from "akasha/infrastructure/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts"
 import { voiceInfer } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/voice-infer/voice-infer.service-cluster.ts"
 
@@ -12,6 +17,8 @@ const PART_OF = voiceInfer.namespace
 const MANAGED_BY = "bootstrap"
 
 const NODE = "node-02"
+
+const GPU = { "nvidia.com/gpu": "1" } as const
 
 const SERVICE_NAME = voiceInfer.resourceName
 const PORT = voiceInfer.containerPort
@@ -59,10 +66,7 @@ function deploymentYaml(): string {
               imagePullPolicy: "Always",
               ports: [{ containerPort: PORT, protocol: "TCP" }],
               env: [{ name: "VOICE_INFER_PORT", value: String(PORT) }],
-              resources: {
-                requests: { cpu: "2", memory: "4Gi", "nvidia.com/gpu": "1" },
-                limits: { cpu: "4", memory: "4Gi", "nvidia.com/gpu": "1" },
-              },
+              resources: resourcesWith(resourcesOf(page), GPU),
               startupProbe: {
                 httpGet: { path: "/health", port: PORT },
                 periodSeconds: 5,

@@ -6,5 +6,8 @@ export const registry = {
   slug: "registry",
   definition: "the deployment running the store that has the images the cluster runs",
   code: "ts",
+  minCpuMillicores: 100,
+  minMemoryMb: 512,
+  killMemoryMb: 512,
   generatedDirectory: true,
 } as const satisfies Manifest

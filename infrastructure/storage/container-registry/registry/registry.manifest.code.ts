@@ -1,4 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import {
   HOSTNAME_KEY,
   workloadClassMemberSelector,
@@ -11,6 +12,7 @@ import {
   NAMESPACE,
   PART_OF,
 } from "akasha/infrastructure/storage/container-registry/modules/registry-constants/registry-constants.module.code.ts"
+import { registry as page } from "akasha/infrastructure/storage/container-registry/registry/registry.manifest.ts"
 
 const REGISTRY_IMAGE = "registry:3.0.0"
 
@@ -138,10 +140,7 @@ function deploymentYaml(): string {
                 periodSeconds: 10,
                 timeoutSeconds: 5,
               },
-              resources: {
-                requests: { cpu: "100m", memory: "512Mi" },
-                limits: { memory: "512Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 1000,

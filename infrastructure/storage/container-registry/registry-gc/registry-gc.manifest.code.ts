@@ -1,4 +1,5 @@
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import {
   APP_NAME,
@@ -7,6 +8,7 @@ import {
   NAMESPACE,
   PART_OF,
 } from "akasha/infrastructure/storage/container-registry/modules/registry-constants/registry-constants.module.code.ts"
+import { registryGc as page } from "akasha/infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.ts"
 
 const GC_IMAGE = "registry.registry.svc.cluster.local:5000/cluster/ci:latest"
 
@@ -300,10 +302,7 @@ function cronjobGcYaml(): string {
                       name: "gc",
                       image: GC_IMAGE,
                       command: ["/bin/sh", "-c", GC_SCRIPT],
-                      resources: {
-                        requests: { cpu: "10m", memory: "128Mi" },
-                        limits: { memory: "128Mi" },
-                      },
+                      resources: resourcesOf(page),
                       securityContext: {
                         runAsNonRoot: true,
                         runAsUser: 1000,

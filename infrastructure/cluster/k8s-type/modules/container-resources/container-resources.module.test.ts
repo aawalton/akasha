@@ -3,6 +3,7 @@ import {
   cpuQuantity,
   memoryQuantity,
   resourcesIn,
+  resourcesWith,
 } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 
 test("thousandths short of a whole processor are written in thousandths", () => {
@@ -31,6 +32,14 @@ test("each value the page states is written where Kubernetes reads it", () => {
   ).toEqual({
     requests: { cpu: "100m", memory: "1Gi" },
     limits: { cpu: "500m", memory: "1Gi" },
+  })
+})
+
+test("a resource asked for beside the page's values is asked for and held to alike", () => {
+  const held = resourcesIn({ minCpuMillicores: 1000, maxCpuMillicores: 4000 })
+  expect(resourcesWith(held, { "nvidia.com/gpu": "1" })).toEqual({
+    requests: { cpu: "1", "nvidia.com/gpu": "1" },
+    limits: { cpu: "4", "nvidia.com/gpu": "1" },
   })
 })
 

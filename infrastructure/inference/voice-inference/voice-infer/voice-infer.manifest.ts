@@ -6,6 +6,10 @@ export const voiceInfer = {
   slug: "voice-infer",
   definition: "the speech workload, its namespace and the way in to it",
   code: "ts",
+  minCpuMillicores: 2000,
+  maxCpuMillicores: 4000,
+  minMemoryMb: 4096,
+  killMemoryMb: 4096,
   generatedDirectory: true,
   decisions: [
     {

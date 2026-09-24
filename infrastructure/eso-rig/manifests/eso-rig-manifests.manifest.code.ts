@@ -1,7 +1,12 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import {
+  resourcesOf,
+  resourcesWith,
+} from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
 import { esoRigImage } from "akasha/infrastructure/eso-rig/image/eso-rig-image.container-recipe.ts"
+import { esoRigManifests as page } from "akasha/infrastructure/eso-rig/manifests/eso-rig-manifests.manifest.ts"
 import { esoRig } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/eso-rig/eso-rig.service-cluster.ts"
 
 const NAMESPACE = esoRig.namespace
@@ -10,7 +15,7 @@ const CONTAINER_NAME = esoRig.resourceName
 
 const REPLICAS = esoRig.replicas
 
-const MEMORY = "8Gi"
+const GPU = { "nvidia.com/gpu": "1" } as const
 
 const WINEPREFIX_PATH = "/var/lib/eso-rig/wineprefix"
 
@@ -62,10 +67,7 @@ function deploymentManifest() {
               image: refOf(esoRigImage),
               imagePullPolicy: "Always",
               env: [{ name: "WINEPREFIX", value: WINEPREFIX_PATH }],
-              resources: {
-                requests: { cpu: "1", memory: MEMORY, "nvidia.com/gpu": "1" },
-                limits: { cpu: "4", memory: MEMORY, "nvidia.com/gpu": "1" },
-              },
+              resources: resourcesWith(resourcesOf(page), GPU),
               securityContext: {
                 privileged: true,
               },

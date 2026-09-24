@@ -1,2 +1,3 @@
+{"propertySlug":"import","fileName":"registry.manifest.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/storage/container-registry/container-registry.domain.ts","id":"01a0658b-0f02-7e11-9293-61be7a832920"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/registry/registry.service-cluster.ts","id":"01a06812-2380-78aa-994b-e27680b0a2eb"}

@@ -6,5 +6,8 @@ export const podJanitor = {
   slug: "pod-janitor",
   definition: "the cron job that removes a failed pod its controller left behind",
   code: "ts",
+  minCpuMillicores: 10,
+  minMemoryMb: 128,
+  killMemoryMb: 128,
   generatedDirectory: true,
 } as const satisfies Manifest

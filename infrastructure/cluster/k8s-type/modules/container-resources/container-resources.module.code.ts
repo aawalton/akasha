@@ -49,6 +49,26 @@ export function resourcesIn(value: Value): Resources {
   }
 }
 
+function pageValueOf(manifest: Manifested, given: string | Reading): Value {
+  return valuedAt(given, slugOf(manifest.type), manifest.slug).value
+}
+
 export function resourcesOf(manifest: Manifested, given: string | Reading = codeRoot()): Resources {
-  return resourcesIn(valuedAt(given, slugOf(manifest.type), manifest.slug).value)
+  return resourcesIn(pageValueOf(manifest, given))
+}
+
+export function killMemoryMbOf(
+  manifest: Manifested,
+  given: string | Reading = codeRoot()
+): number | null {
+  return numberAt(pageValueOf(manifest, given), ENDED_MEMORY)
+}
+
+export type Asked = Readonly<Record<string, string>>
+
+export function resourcesWith(
+  held: Resources,
+  asked: Asked
+): { readonly requests: Asked; readonly limits: Asked } {
+  return { requests: { ...held.requests, ...asked }, limits: { ...held.limits, ...asked } }
 }

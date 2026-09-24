@@ -7,6 +7,10 @@ export const gitTransportJanitor = {
   definition:
     "the cron job packing away what a push leaves in the repositories the transport serves",
   code: "ts",
+  minCpuMillicores: 100,
+  maxCpuMillicores: 1000,
+  minMemoryMb: 256,
+  killMemoryMb: 1024,
   generatedDirectory: true,
   decisions: [
     {

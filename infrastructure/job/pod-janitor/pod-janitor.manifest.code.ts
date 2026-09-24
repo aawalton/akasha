@@ -1,5 +1,7 @@
 import { synthMulti } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { synthNamespaceCronjob } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { podJanitor as page } from "akasha/infrastructure/job/pod-janitor/pod-janitor.manifest.ts"
 import { podJanitor } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/pod-janitor/pod-janitor.service-cluster.ts"
 
 const NAMESPACE = podJanitor.namespace
@@ -139,10 +141,7 @@ function cronjobYaml(): string {
                         { name: "HOME", value: "/tmp" },
                         { name: "MIN_AGE_SECONDS", value: DEFAULT_MIN_AGE_SECONDS },
                       ],
-                      resources: {
-                        requests: { cpu: "10m", memory: "128Mi" },
-                        limits: { memory: "128Mi" },
-                      },
+                      resources: resourcesOf(page),
                       securityContext: {
                         runAsNonRoot: true,
                         runAsUser: 1000,
