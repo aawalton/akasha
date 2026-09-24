@@ -28,7 +28,7 @@ describe("uiWindowNamed", () => {
     expect(window?.savedVariables).toEqual(["TemperItems"])
     expect(window?.shows).toContain("ZO_SharedRightPanelBackground")
     expect(window?.opens).toContain("initializeInventoryBrowser")
-    expect(window?.opens).toContain("__ui_scene")
+    expect(window?.opens).toContain('SCENE_MANAGER:Show("inventory")')
   })
 
   test("answers with nothing for a window it does not know", () => {

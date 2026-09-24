@@ -38,5 +38,9 @@ export const uiWindows = {
       decisionKind: "decision-kind/absence",
       statement: "No window is brought up from a guess at what opens it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A scene of the game's is shown through the game's own scene manager.",
+    },
   ],
 } as const satisfies Module
