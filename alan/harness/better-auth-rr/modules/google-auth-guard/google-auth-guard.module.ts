@@ -4,7 +4,7 @@ export const googleAuthGuard = {
   id: "01a0bafa-a730-7735-bd9a-e26e4084eadb",
   type: "page-type/module",
   slug: "google-auth-guard",
-  definition: "the contributor a request's cookie reaches, and what ends or redirects that request",
+  definition: "the contributor a request's cookie reaches, and what ends that request's session",
   code: "ts",
   decisions: [
     {
@@ -18,10 +18,6 @@ export const googleAuthGuard = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A cookie that will not read is nobody rather than an error.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A request reaching nobody goes to the sign-in page naming where it was headed.",
     },
     {
       decisionKind: "decision-kind/departure",
