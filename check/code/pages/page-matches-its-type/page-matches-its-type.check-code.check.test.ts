@@ -52,7 +52,7 @@ test("the check takes a page as its input and no file that is no page", () => {
 
 const ROWS_AT = "akasha/one.thing.rows.jsonl"
 
-const ROWED = 'export const one = { pageTypeSlug: "thing", slug: "one", rows: "jsonl" }\n'
+const ROWED = 'export const one = { type: "page-type/thing", slug: "one", rows: "jsonl" }\n'
 
 const ROWING = { [THING_AT]: ROWED, [ROWS_AT]: "not json at all\n" }
 

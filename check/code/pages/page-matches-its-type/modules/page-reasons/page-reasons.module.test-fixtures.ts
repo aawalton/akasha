@@ -3,8 +3,12 @@ import { module } from "akasha/code/module/module.page-type.ts"
 import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
+import { pagePageType } from "akasha/page/properties/page-page-type.relation-property.ts"
 import { pagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -23,7 +27,7 @@ const PAGE_PROPERTY_ENTRY_AT = `${pageType.slug}/${pagePropertyEntry.slug}` as c
 const TYPES: readonly Value[] = [
   {
     id: "01a0540d-0000-7000-8000-000000000001",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "page",
     extends: [],
     properties: [
@@ -33,14 +37,14 @@ const TYPES: readonly Value[] = [
   },
   {
     id: "01a0540d-0000-7000-8000-000000000002",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "module",
     extends: [PAGE_AT],
     properties: [{ pagePropertySlug: "test", required: false, many: false }],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000003",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "check",
     extends: [MODULE_AT],
     properties: [
@@ -50,7 +54,7 @@ const TYPES: readonly Value[] = [
   },
   {
     id: "01a0540d-0000-7000-8000-000000000004",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "told",
     extends: [PAGE_AT],
     properties: [
@@ -63,18 +67,19 @@ const TYPES: readonly Value[] = [
   },
   {
     id: "01a0540d-0000-7000-8000-000000000005",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "looping",
     extends: ["page-type/looping"],
     properties: [{ pagePropertySlug: "id", required: false, many: false }],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000010",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "held",
     extends: [PAGE_AT],
     properties: [
-      { pagePropertySlug: "page-type-slug", required: true, many: false },
+      { pagePropertySlug: "page-type-slug", required: false, many: false },
+      { pagePropertySlug: pagePageType.slug, required: true, many: false },
       { pagePropertySlug: "test", required: true, many: false },
     ],
   },
@@ -83,78 +88,79 @@ const TYPES: readonly Value[] = [
 const SHAPES: readonly Value[] = [
   {
     id: "01a0540d-0000-7000-8000-000000000017",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "page-type",
     extends: [PAGE_AT],
     properties: [
       { pagePropertySlug: "extends-type", required: false, many: true, maxCount: null },
       { pagePropertySlug: "page-type-slug", required: false, many: false },
+      { pagePropertySlug: pagePageType.slug, required: false, many: false },
       { pagePropertySlug: "properties", required: false, many: true, maxCount: null },
     ],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000022",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "page-property",
     extends: [PAGE_AT],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000018",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "boolean-property",
     extends: ["page-property"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000006",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "text-property",
     extends: ["page-property"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000007",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "record-property",
     extends: ["page-property"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000008",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "number-property",
     extends: ["page-property"],
   },
   {
     id: "01a0540d-0000-7000-8000-00000000000f",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "relation-property",
     extends: ["page-property"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000012",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "name-format",
     extends: [PAGE_AT],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000015",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "worded-property",
     extends: ["page-property"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000013",
-    pageTypeSlug: "name-format",
+    type: `${pageType.slug}/name-format`,
     slug: FORMAT,
     code: "ts",
   },
   {
     id: "01a0540d-0000-7000-8000-000000000023",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "page-property-entry",
     extends: ["page-property"],
   },
   {
     id: "01a0540d-0000-7000-8000-000000000024",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "rowed-property",
     extends: [PAGE_PROPERTY_ENTRY_AT],
   },
@@ -163,7 +169,7 @@ const SHAPES: readonly Value[] = [
 const PROPERTIES: Record<string, Value> = {
   id: {
     id: "01a0540d-0000-7000-8000-000000000009",
-    pageTypeSlug: "text-property",
+    type: `${pageType.slug}/text-property`,
     slug: "id",
     propertySlug: "id",
     maxLength: 36,
@@ -171,7 +177,7 @@ const PROPERTIES: Record<string, Value> = {
   },
   slug: {
     id: "01a0540d-0000-7000-8000-00000000000a",
-    pageTypeSlug: "text-property",
+    type: `${pageType.slug}/text-property`,
     slug: "slug",
     propertySlug: "slug",
     maxLength: 8,
@@ -180,21 +186,21 @@ const PROPERTIES: Record<string, Value> = {
   },
   test: {
     id: "01a0540d-0000-7000-8000-00000000000b",
-    pageTypeSlug: "text-property",
+    type: `${pageType.slug}/text-property`,
     slug: "test",
     propertySlug: "test",
     maxLength: 4,
   },
   aids: {
     id: "01a0540d-0000-7000-8000-00000000000c",
-    pageTypeSlug: "text-property",
+    type: `${pageType.slug}/text-property`,
     slug: "aids",
     propertySlug: "aids",
     maxLength: 5,
   },
   name: {
     id: "01a0540d-0000-7000-8000-00000000000d",
-    pageTypeSlug: "text-property",
+    type: `${pageType.slug}/text-property`,
     slug: "name",
     propertySlug: "name",
     maxLength: 8,
@@ -202,60 +208,60 @@ const PROPERTIES: Record<string, Value> = {
   },
   tag: {
     id: "01a0540d-0000-7000-8000-000000000014",
-    pageTypeSlug: "text-property",
+    type: `${pageType.slug}/text-property`,
     slug: "tag",
     propertySlug: "tag",
     maxLength: 4,
   },
   tally: {
     id: "01a0540d-0000-7000-8000-000000000016",
-    pageTypeSlug: "worded-property",
+    type: "page-type/worded-property",
     slug: "tally",
     propertySlug: "tally",
     maxLength: 4,
   },
   "extends-type": {
     id: "01a0540d-0000-7000-8000-000000000019",
-    pageTypeSlug: "relation-property",
+    type: `${pageType.slug}/relation-property`,
     slug: "extends-type",
     propertySlug: "extends",
     targetPageType: PAGE_TYPE_AT,
   },
   "page-property-slug": {
     id: "01a0540d-0000-7000-8000-00000000001a",
-    pageTypeSlug: "relation-property",
+    type: `${pageType.slug}/relation-property`,
     slug: "page-property-slug",
     propertySlug: "page-property-slug",
   },
   required: {
     id: "01a0540d-0000-7000-8000-00000000001b",
-    pageTypeSlug: "boolean-property",
+    type: `${pageType.slug}/boolean-property`,
     slug: "required",
     propertySlug: "required",
   },
   many: {
     id: "01a0540d-0000-7000-8000-00000000001c",
-    pageTypeSlug: "boolean-property",
+    type: `${pageType.slug}/boolean-property`,
     slug: "many",
     propertySlug: "many",
   },
   "max-count": {
     id: "01a0540d-0000-7000-8000-00000000001d",
-    pageTypeSlug: "number-property",
+    type: `${pageType.slug}/number-property`,
     slug: "max-count",
     propertySlug: "maxCount",
     max: null,
   },
   "max-length": {
     id: "01a0540d-0000-7000-8000-00000000001e",
-    pageTypeSlug: "number-property",
+    type: `${pageType.slug}/number-property`,
     slug: "max-length",
     propertySlug: "maxLength",
     max: null,
   },
   properties: {
     id: "01a0540d-0000-7000-8000-00000000001f",
-    pageTypeSlug: "record-property",
+    type: `${pageType.slug}/record-property`,
     slug: "properties",
     propertySlug: "properties",
     properties: [
@@ -268,27 +274,34 @@ const PROPERTIES: Record<string, Value> = {
   },
   "page-type-slug": {
     id: "01a0540d-0000-7000-8000-000000000011",
-    pageTypeSlug: "relation-property",
+    type: `${pageType.slug}/relation-property`,
     slug: "page-type-slug",
     propertySlug: "page-type-slug",
   },
+  [pagePageType.slug]: {
+    id: "01a0540d-0000-7000-8000-000000000027",
+    type: `${pageType.slug}/relation-property`,
+    slug: pagePageType.slug,
+    propertySlug: pagePageType.propertySlug,
+    targetPageType: PAGE_TYPE_AT,
+  },
   lines: {
     id: "01a0540d-0000-7000-8000-000000000025",
-    pageTypeSlug: "page-property-entry",
+    type: `${pageType.slug}/page-property-entry`,
     slug: "lines",
     propertySlug: "lines",
     properties: [{ pagePropertySlug: "name", required: true, many: false }],
   },
   rows: {
     id: "01a0540d-0000-7000-8000-000000000026",
-    pageTypeSlug: "rowed-property",
+    type: "page-type/rowed-property",
     slug: "rows",
     propertySlug: "rows",
     properties: [{ pagePropertySlug: "name", required: true, many: false }],
   },
   directives: {
     id: "01a0540d-0000-7000-8000-00000000000e",
-    pageTypeSlug: "record-property",
+    type: `${pageType.slug}/record-property`,
     slug: "directives",
     propertySlug: "directives",
     properties: [
@@ -308,7 +321,7 @@ const JUDGING =
 export function seeded(root: string): Shadow {
   for (const one of [...TYPES, ...SHAPES, ...Object.values(PROPERTIES)]) {
     const slug = String(one["slug"])
-    const at = `${AKASHA}/${slug}.${String(one["pageTypeSlug"])}.ts`
+    const at = `${AKASHA}/${slug}.${slugOf(String(one["type"]))}.ts`
     put(root, at, `export const ${exportedAs(slug)} = ${JSON.stringify(one)}\n`)
   }
   put(root, `${AKASHA}/${FORMAT}.name-format.code.ts`, JUDGING)

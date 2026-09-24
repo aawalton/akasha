@@ -18,6 +18,7 @@ import {
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Formatting } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
+import { pagePageType } from "akasha/page/properties/page-page-type.relation-property.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -35,9 +36,9 @@ export const HELD_ID = "01a0540d-0000-7000-8000-000000000010"
 
 export const THING_AT = "akasha/one.thing.ts"
 
-export const THING_BODY = 'export const one = { pageTypeSlug: "thing", slug: "one" }\n'
+export const THING_BODY = 'export const one = { type: "page-type/thing", slug: "one" }\n'
 
-export const THING_EXTRA = 'export const one = { pageTypeSlug: "thing", slug: "one", extra: 1 }\n'
+export const THING_EXTRA = 'export const one = { type: "page-type/thing", slug: "one", extra: 1 }\n'
 
 const HELD_AT = "akasha/held.text-property.ts"
 
@@ -57,9 +58,25 @@ function schemaFiledFor(root: string, pageTypeSlug: string, slug: string): undef
   ])
 }
 
+function typeFiled(root: string): undefined {
+  shapeAdded(root, "relation-property", pagePageType.slug, [
+    {
+      pageTypeSlug: "relation-property",
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: pagePageType.slug,
+      propertySlug: pagePageType.propertySlug,
+    },
+  ])
+}
+
+const TYPE_DECLARED = `{ pagePropertySlug: "${pagePageType.slug}" }`
+
+const TYPE_REQUIRED = `{ pagePropertySlug: "${pagePageType.slug}", required: true, many: false }`
+
 export function typing(id: string, slug: string, above: string, declares: string): string {
   return (
-    `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}",` +
+    `export const held = { id: "${id}", type: "page-type/page-type", slug: "${slug}",` +
     ` extends: ${above}, properties: [${declares}] }\n`
   )
 }
@@ -69,12 +86,12 @@ function kinding(root: string, slug: string, id: string, afterChecks: boolean): 
   put(
     root,
     at,
-    `export const kind = { id: "${id}", pageTypeSlug: "${GENERATOR_KIND}",` +
+    `export const kind = { id: "${id}", type: "page-type/${GENERATOR_KIND}",` +
       ` slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
   listedFiled(root, GENERATOR_KIND, slug, [{ path: at, id }])
   valueAlsoFiled(root, GENERATOR_KIND, [
-    { path: at, value: { id, pageTypeSlug: GENERATOR_KIND, slug, afterChecks } },
+    { path: at, value: { id, type: `${pageType.slug}/${GENERATOR_KIND}`, slug, afterChecks } },
   ])
 }
 
@@ -82,7 +99,7 @@ export function generating(root: string, generator: string): string {
   put(
     root,
     HELD_AT,
-    `export const held = { id: "${GENERATED_ID}", pageTypeSlug: "text-property",` +
+    `export const held = { id: "${GENERATED_ID}", type: "page-type/text-property",` +
       ` slug: "held", propertySlug: "held", generator: "${generator}" }\n`
   )
   kinding(root, "waiting", WAITING_ID, true)
@@ -95,13 +112,15 @@ export function generating(root: string, generator: string): string {
       "thing",
       "[]",
       '{ pagePropertySlug: "held", required: true, many: false },' +
-        ' { pagePropertySlug: "page-type-slug", required: true, many: false },' +
+        ' { pagePropertySlug: "page-type-slug", required: false, many: false },' +
+        ` ${TYPE_REQUIRED},` +
         ' { pagePropertySlug: "slug", required: true, many: false }'
     )
   )
   shapeAdded(root, "text-property", "slug", [UNIQUE_SLUG])
   schemaFiledFor(root, "text-property", "held")
   schemaFiledFor(root, "relation-property", "page-type-slug")
+  typeFiled(root)
   listedFiled(root, "text-property", "held", [{ path: HELD_AT, id: GENERATED_ID }])
   listedFiled(root, "page-type", "thing", [{ path: "akasha/thing.page-type.ts", id: THING_ID }])
   relationFiled(root, generator === "waiting" ? WAITING_ID : UUID_ID, "generator", GENERATED_ID, [
@@ -112,7 +131,7 @@ export function generating(root: string, generator: string): string {
 
 export const ALPHA_AT = "akasha/alpha.page-type.ts"
 
-const BOTH = '{ pagePropertySlug: "page-type-slug" }'
+const BOTH = `{ pagePropertySlug: "page-type-slug" }, ${TYPE_DECLARED}`
 
 export const WAS_ALPHA = typing(THING_ID, "alpha", "[]", BOTH)
 
@@ -135,6 +154,7 @@ function grounding(root: string): undefined {
   const typeAt = "akasha/page-type.page-type.ts"
   const declares =
     '{ pagePropertySlug: "extends", many: true, maxCount: null }, { pagePropertySlug: "page-type-slug" }' +
+    `, ${TYPE_DECLARED}` +
     ', { pagePropertySlug: "properties", many: true, maxCount: null }'
   put(
     root,
@@ -144,6 +164,7 @@ function grounding(root: string): undefined {
   listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
   schemaFiledFor(root, "relation-property", "extends")
   schemaFiledFor(root, "relation-property", "page-type-slug")
+  typeFiled(root)
   schemaFiledFor(root, "record-property", "properties")
 }
 
@@ -152,6 +173,7 @@ export function extending(root: string): string {
   put(root, ALPHA_AT, WAS_ALPHA)
   shapeAdded(root, "text-property", "slug", [UNIQUE_SLUG])
   schemaFiledFor(root, "relation-property", "page-type-slug")
+  typeFiled(root)
   schemaFiledFor(root, "text-property", "note")
   listedFiled(root, "page-type", "alpha", [{ path: ALPHA_AT, id: THING_ID }])
   return root
@@ -161,10 +183,11 @@ export const ONE_HELD_AT = "akasha/one.held.ts"
 
 export const ONE_HELD =
   'export const one = { id: "01a0540d-0000-7000-8000-0000000000ff",' +
-  ' pageTypeSlug: "held", slug: "one", test: "ts" }\n'
+  ' type: "page-type/held", slug: "one", test: "ts" }\n'
 
 const DEMANDS =
-  '{ pagePropertySlug: "page-type-slug", required: true, many: false }, ' +
+  '{ pagePropertySlug: "page-type-slug", required: false, many: false }, ' +
+  `${TYPE_REQUIRED}, ` +
   '{ pagePropertySlug: "test", required: true, many: false }'
 
 export const NARROWED = `${DEMANDS}, { pagePropertySlug: "name", required: true, many: false }`

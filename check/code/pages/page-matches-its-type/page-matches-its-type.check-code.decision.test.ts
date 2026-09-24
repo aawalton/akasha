@@ -80,7 +80,7 @@ test("a page whose body will not load is passed over", () => {
 })
 
 test("a page whose page type declares nothing is passed over, as it was before", () => {
-  const body = 'export const held = { id: "a", slug: "held", pageTypeSlug: "page-type" }\n'
+  const body = 'export const held = { id: "a", slug: "held", type: "page-type/page-type" }\n'
   expect(judgedOver({ [HELD_AT]: body })).toEqual([])
 })
 
@@ -121,7 +121,7 @@ test("a page stating what a page type the change puts above its own declares is 
   const now = {
     [ALPHA_AT]: NOW_ALPHA,
     [BETA_AT]: NOW_BETA,
-    "akasha/one.alpha.ts": 'export const one = { pageTypeSlug: "alpha", note: "hi" }\n',
+    "akasha/one.alpha.ts": 'export const one = { type: "page-type/alpha", note: "hi" }\n',
   }
   expect(landing(root, now, { [ALPHA_AT]: WAS_ALPHA })).toEqual([])
 })
