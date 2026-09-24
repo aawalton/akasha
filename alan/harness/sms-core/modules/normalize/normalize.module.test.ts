@@ -16,8 +16,11 @@ function sms(text: string): TelnyxInboundSms {
     fromNumber: "+18015551234",
     toNumbers: ["+18885550000"],
     text,
+    media: [],
   }
 }
+
+const PICTURE = { url: "https://media.test/one.jpeg", contentType: "image/jpeg" }
 
 const HELPER: SmsRouteDecision = {
   kind: "helper",
@@ -65,6 +68,17 @@ describe("formatRefusalNotice", () => {
 describe("formatSmsSurface", () => {
   test("shows a message of nothing but space as having no body", () => {
     expect(formatSmsSurface(sms("   "), HELPER)).toContain("(no text body)")
+  })
+
+  test("shows a picture with no text as the picture rather than as no body", () => {
+    const surface = formatSmsSurface({ ...sms(""), media: [PICTURE] }, HELPER)
+    expect(surface).toContain("🖼 image/jpeg https://media.test/one.jpeg")
+    expect(surface).not.toContain("(no text body)")
+  })
+
+  test("shows a picture beneath the text it came with", () => {
+    const surface = formatSmsSurface({ ...sms("2x melon"), media: [PICTURE] }, HELPER)
+    expect(surface).toContain("2x melon\n🖼 image/jpeg https://media.test/one.jpeg")
   })
 
   test("shows the body a message carries", () => {

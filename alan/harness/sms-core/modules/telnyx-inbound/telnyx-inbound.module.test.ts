@@ -72,4 +72,24 @@ describe("extractInboundSms", () => {
     const parsed = telnyxWebhookSchema.parse(payload())
     expect(extractInboundSms(parsed).toNumbers).toEqual([])
   })
+
+  test("lifts every picture a message carries with the type it names", () => {
+    const parsed = telnyxWebhookSchema.parse(
+      payload({
+        media: [
+          { url: "https://media.test/one.jpeg", content_type: "image/jpeg", size: 1 },
+          { url: "https://media.test/two" },
+        ],
+      })
+    )
+    expect(extractInboundSms(parsed).media).toEqual([
+      { url: "https://media.test/one.jpeg", contentType: "image/jpeg" },
+      { url: "https://media.test/two", contentType: null },
+    ])
+  })
+
+  test("answers no media where the envelope carries none", () => {
+    const parsed = telnyxWebhookSchema.parse(payload())
+    expect(extractInboundSms(parsed).media).toEqual([])
+  })
 })

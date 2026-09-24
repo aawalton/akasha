@@ -47,6 +47,8 @@ export function formatSmsSurface(sms: TelnyxInboundSms, decision: SmsRouteDecisi
     decision.kind === "helper" && decision.accountUserId !== null
       ? `\nacting for account ${decision.accountUserId}`
       : ""
-  const body = sms.text.trim().length > 0 ? sms.text : "(no text body)"
+  const said = sms.text.trim().length > 0 ? [sms.text] : []
+  const media = sms.media.map((one) => `🖼 ${one.contentType ?? "media"} ${one.url}`)
+  const body = said.length + media.length > 0 ? [...said, ...media].join("\n") : "(no text body)"
   return `📱 SMS from ${sms.fromNumber}\n\n${body}\n\n— inbound SMS channel · ${routedNote}${identityNote}`
 }

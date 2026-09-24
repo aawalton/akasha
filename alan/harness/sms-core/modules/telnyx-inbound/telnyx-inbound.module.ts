@@ -18,6 +18,10 @@ export const telnyxInbound = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every picture a message carries is lifted out with the type the carrier names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A missing direction reads as unknown rather than as inbound.",
     },
     {

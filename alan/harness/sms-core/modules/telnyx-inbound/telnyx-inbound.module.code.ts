@@ -2,6 +2,10 @@ import { z } from "zod"
 
 const telnyxNumberSchema = z.object({ phone_number: z.string() }).passthrough()
 
+const telnyxMediaSchema = z
+  .object({ url: z.string(), content_type: z.string().optional() })
+  .passthrough()
+
 export const telnyxWebhookSchema = z
   .object({
     data: z
@@ -16,6 +20,7 @@ export const telnyxWebhookSchema = z
             to: z.array(telnyxNumberSchema).optional(),
             text: z.string().optional(),
             type: z.string().optional(),
+            media: z.array(telnyxMediaSchema).optional(),
           })
           .passthrough(),
       })
@@ -25,6 +30,11 @@ export const telnyxWebhookSchema = z
 
 export type TelnyxWebhook = z.infer<typeof telnyxWebhookSchema>
 
+export interface TelnyxInboundMedia {
+  readonly url: string
+  readonly contentType: string | null
+}
+
 export interface TelnyxInboundSms {
   readonly eventId: string
   readonly eventType: string
@@ -33,6 +43,7 @@ export interface TelnyxInboundSms {
   readonly fromNumber: string
   readonly toNumbers: readonly string[]
   readonly text: string
+  readonly media: readonly TelnyxInboundMedia[]
 }
 
 export function extractInboundSms(webhook: TelnyxWebhook): TelnyxInboundSms {
@@ -46,5 +57,9 @@ export function extractInboundSms(webhook: TelnyxWebhook): TelnyxInboundSms {
     fromNumber: payload.from.phone_number,
     toNumbers: (payload.to ?? []).map((t) => t.phone_number),
     text: payload.text ?? "",
+    media: (payload.media ?? []).map((one) => ({
+      url: one.url,
+      contentType: one.content_type ?? null,
+    })),
   }
 }

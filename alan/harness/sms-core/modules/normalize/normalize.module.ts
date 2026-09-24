@@ -14,7 +14,12 @@ export const normalize = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message with nothing but space in the message is shown as having no body.",
+      statement:
+        "A message with nothing but space and no picture in the message is shown as having no body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture a message carries is shown as the address the carrier holds it at.",
     },
     {
       decisionKind: "decision-kind/departure",
