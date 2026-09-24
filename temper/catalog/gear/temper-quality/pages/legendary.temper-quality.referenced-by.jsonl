@@ -7,9 +7,15 @@
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/shattering/shattering.temper-companion-trait.ts","id":"01a05fce-c4b0-75e4-8085-89376ec1cdf3"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/soothing/soothing.temper-companion-trait.ts","id":"01a05fce-c4b1-7c18-9828-60ac8b4aafa2"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/vigorous/vigorous.temper-companion-trait.ts","id":"01a05fce-c4b1-7ee6-a23d-dede085d0557"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/health/grades/armor-enchant-health-legendary.temper-gear-grade.ts","id":"01a0d3e7-48f3-7777-8230-05f9d6237374"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/health/health.temper-armor-enchant.ts","id":"01a05fd4-d96a-7f26-be77-be4206893578"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/magicka/grades/armor-enchant-magicka-legendary.temper-gear-grade.ts","id":"01a0d3e7-7993-7793-a0ca-70be34c05ac0"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/magicka/magicka.temper-armor-enchant.ts","id":"01a05fd4-d96b-7fb6-8535-b1728715ed14"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/prismatic-defense/grades/armor-enchant-prismatic-defense-legendary-health-maximum.temper-gear-grade.ts","id":"01a0d3e7-b142-7878-9248-38c95f5324b7"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/prismatic-defense/grades/armor-enchant-prismatic-defense-legendary-magicka-maximum.temper-gear-grade.ts","id":"01a0d3e8-0ed0-7133-8d65-6d99f3730628"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/prismatic-defense/grades/armor-enchant-prismatic-defense-legendary-stamina-maximum.temper-gear-grade.ts","id":"01a0d3e8-187f-7318-8447-dbbd88108194"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/prismatic-defense/prismatic-defense.temper-armor-enchant.ts","id":"01a05fd4-d96c-761c-984c-cf81a1aac8c6"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/stamina/grades/armor-enchant-stamina-legendary.temper-gear-grade.ts","id":"01a0d3e8-4202-705d-aa8b-92dcfda54135"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/stamina/stamina.temper-armor-enchant.ts","id":"01a05fd4-d96c-7e66-8940-ca31af8c2c46"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/divines/divines.temper-armor-trait.ts","id":"01a05fb2-1bcd-7a96-a41e-bbf2b55ec3ec"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/impenetrable/impenetrable.temper-armor-trait.ts","id":"01a05fb2-1bce-7f82-b0f1-3b03e5065b7b"}
