@@ -1,6 +1,7 @@
 import { expect, mock, test } from "bun:test"
 import { inboxesEmail } from "akasha/alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.ts"
 import { inboxesFindings } from "akasha/alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.ts"
+import { inboxesGaps } from "akasha/alan/harness/inbox/readouts/inboxes-gaps/inboxes-gaps.readout.ts"
 import { inboxesTasks } from "akasha/alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts"
 import type { Carry } from "akasha/alan/harness/readout/modules/relay-carrying/readout-relay-carrying.module.code.ts"
 import { readout } from "akasha/alan/harness/readout/readout.page-type.ts"
@@ -11,6 +12,7 @@ const INBOXES = [
   `${readout.slug}/${inboxesTasks.slug}`,
   `${readout.slug}/${inboxesTemperTasks.slug}`,
   `${readout.slug}/${inboxesFindings.slug}`,
+  `${readout.slug}/${inboxesGaps.slug}`,
 ]
 
 const TO = "https://alanwalton.com"
@@ -59,7 +61,7 @@ test("the run is the only way into this file, so the service has one entry", () 
   expect(Object.keys(running)).toEqual(["runService"])
 })
 
-test("a run names the four inbox counts this service carries, in the order it names them", async () => {
+test("a run names the five inbox counts this service carries, in the order it names them", async () => {
   ready()
   await running.runService()
   expect(NAMED).toEqual(INBOXES)
