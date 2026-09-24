@@ -139,11 +139,7 @@ export const monarchEval = {
       statement: "Scoring reads that result.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing on a transaction records who set its category.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A row Monarch's own categorizer set reads identically to a row Jenny chose.",
     },
     {
@@ -152,7 +148,7 @@ export const monarchEval = {
         "A split's category belongs to a part of the transaction rather than to the whole.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The transaction an agent is shown underdescribes the split categorized.",
     },
   ],
