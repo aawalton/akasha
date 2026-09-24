@@ -38,7 +38,7 @@ import { domainsDrawn } from "akasha/domain/modules/rows/domain-rows.module.code
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
 import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code.ts"
-import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
+import { ranAwaited } from "akasha/git/modules/running/git-running.module.code.ts"
 import { waitedForRoom } from "akasha/infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"
 import {
   championing,
@@ -215,9 +215,11 @@ export async function telling(send: Sent, to: string, body: string): Promise<str
 }
 
 export async function commitOf(root: string): Promise<string> {
-  const found = await runGit(["rev-parse", "HEAD"], root)
-  if (found.ok) return found.stdout
-  throw new Error(`${SAID} the commit an audit would answer for could not be read: ${found.stderr}`)
+  const found = await ranAwaited(root, ["rev-parse", "HEAD"])
+  if (found.code === 0) return found.out.trim()
+  throw new Error(
+    `${SAID} the commit an audit would answer for could not be read: ${found.err.trim()}`
+  )
 }
 
 async function overNow(root: string): Promise<Over> {
