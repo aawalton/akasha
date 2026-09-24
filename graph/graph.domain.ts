@@ -68,9 +68,14 @@ export const graph = {
         "Answering a closure for each page type is too slow for the code the indexes are built with.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every closure over import edges is worked out in the graph rather than by each caller.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement:
-        "Every closure over the graph's edges is worked out in the graph rather than by each caller.",
+        "Every closure over relation edges is worked out in the graph rather than by each caller.",
     },
   ],
   directives: [
