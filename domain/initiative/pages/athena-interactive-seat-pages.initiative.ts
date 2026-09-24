@@ -21,5 +21,9 @@ export const athenaInteractiveSeatPages = {
       statement:
         "Alan attaches an image to a message from a seat's page, from his photos or from the camera.",
     },
+    {
+      statement:
+        "A seat's page shows each new message and change of working color live, with no refresh.",
+    },
   ],
 } as const satisfies Initiative
