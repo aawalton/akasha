@@ -1,8 +1,8 @@
 import type { EngineAnswer } from "akasha/temper/capture/shape/modules/engine-answer-catalog/engine-answer-catalog.module.code.ts"
+import { answersOf } from "akasha/temper/capture/writer/modules/function-answers/function-answers.module.code.ts"
 import { registerCatalogDomain } from "akasha/temper/catalog/core/modules/domain-registry/domain-registry.module.code.ts"
 import { getSavedVariables } from "akasha/temper/catalog/core/modules/saved-variables-accessor/saved-variables-accessor.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 
@@ -82,31 +82,6 @@ const ASKED_GIVEN: readonly AskedGiven[] = [
   { name: "GetGroupFinderUserTypeGroupSizeIterationEnd", given: USER_TYPES },
   { name: "GetSetting", given: [["SETTING_TYPE_GRAPHICS", "GRAPHICS_SETTING_ACTIVE_DISPLAY"]] },
 ]
-
-const NOTHING = 0
-
-function writable(this: void, held: unknown): held is EngineAnswer {
-  if (typeof held === "number") return held * NOTHING === NOTHING
-  return typeof held === "string" || typeof held === "boolean"
-}
-
-function answersOf(
-  this: void,
-  name: string,
-  handed: readonly number[] = []
-): EngineAnswer[] | undefined {
-  const held: unknown = _G[name]
-  if (typeof held !== "function") return undefined
-  const asked = held as (this: void, ...handed: number[]) => LuaMultiReturn<unknown[]>
-  const [ok, packed] = pcall((): unknown[] => [...asked(...handed)])
-  if (!ok) return undefined
-  const kept: EngineAnswer[] = []
-  for (const one of packed) {
-    if (!writable(one)) return kept
-    kept[kept.length] = one
-  }
-  return kept
-}
 
 function valuesOf(this: void, named: readonly string[]): number[] | undefined {
   const found: number[] = []

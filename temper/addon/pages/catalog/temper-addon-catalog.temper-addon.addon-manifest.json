@@ -6,7 +6,11 @@
   "version": "1.0.0",
   "addonVersion": 100,
   "apiVersion": ["101041", "101042", "101049"],
-  "savedVariables": ["TemperCatalog_SavedVariables", "TemperDataMining_SavedVariables"],
+  "savedVariables": [
+    "TemperCatalog_SavedVariables",
+    "TemperDataMining_SavedVariables",
+    "TemperPlayerAnswers_SavedVariables"
+  ],
   "additionalLuaFiles": ["TemperCatalogConfig.lua"],
   "dependsOn": ["Temper"]
 }

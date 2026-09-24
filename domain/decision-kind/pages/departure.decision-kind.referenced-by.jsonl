@@ -3739,6 +3739,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.ts","id":"01a06341-d9e8-7004-990d-d242df0e2bd1"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.ts","id":"01a06341-d9e8-7005-ac02-69345fb477d3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.ts","id":"01a06341-d9e8-7003-86e4-05d88c5ad77a"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/modules/player-answer-entry/player-answer-entry.module.ts","id":"01a0d578-6f29-7b96-ae38-cb719b7dcbcf"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/catalog/temper-addon-catalog.temper-addon.ts","id":"01a063ba-94e5-7c5d-b338-174ed9b6a224"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/characters-config-global/characters-config-global.lua-module.ts","id":"01a062e8-bed7-7010-8998-ffe3116644d2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/companions-config/companions-config.lua-module.ts","id":"01a0611d-84d1-7c75-9512-d3ca1613f0bb"}
@@ -4629,6 +4630,8 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/weapon-type-constants/weapon-type-constants.module.ts","id":"01a06127-664b-74e0-9590-d80f5209e436"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.ts","id":"01a060e2-3186-7265-a0dc-af76d21939e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts","id":"01a060e2-3185-7405-a79e-40fe38c8220f"}
+{"propertySlug":"decision-kind","path":"temper/capture/player-answer/modules/player-answer-capture/player-answer-capture.module.ts","id":"01a0d578-6f2a-7c6e-973e-02a89d44f80e"}
+{"propertySlug":"decision-kind","path":"temper/capture/player-answer/modules/player-answer-descriptor/player-answer-descriptor.module.ts","id":"01a0d578-6f2a-7f09-ba83-bb6c91db2342"}
 {"propertySlug":"decision-kind","path":"temper/capture/player-answer/modules/player-asking-shapes/player-asking-shapes.module.ts","id":"01a0d572-a98c-7768-add6-0e774db4bded"}
 {"propertySlug":"decision-kind","path":"temper/capture/player-answer/modules/player-askings-reading/player-askings-reading.module.ts","id":"01a0d572-a98c-7d1c-bd02-8d8be3b22511"}
 {"propertySlug":"decision-kind","path":"temper/capture/player-answer/modules/player-askings/player-askings.data-table.ts","id":"01a0d574-4e8a-736f-9c42-f91500b07c1d"}
@@ -4653,6 +4656,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/modules/account-wide-vars/account-wide-vars.module.ts","id":"01a060b5-5ba8-7a8b-9378-5bd025a7cb9d"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/modules/capture-writer/capture-writer.module.ts","id":"01a060b5-5ba9-7490-bcc8-208680a38a27"}
+{"propertySlug":"decision-kind","path":"temper/capture/writer/modules/function-answers/function-answers.module.ts","id":"01a0d578-6f2a-7cfe-8a48-d3666d473452"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/modules/run-batched/run-batched.module.ts","id":"01a060b5-5ba9-7ee1-a925-9a6bbfd758f4"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/temper-alchemy.domain.ts","id":"01a06076-1b69-7174-a838-dc7b0b111961"}

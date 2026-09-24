@@ -9,6 +9,8 @@ export const temperCapturePlayerAnswer = {
     "module/player-asking-shapes",
     "module/player-askings-reading",
     "data-table/player-askings",
+    "module/player-answer-descriptor",
+    "module/player-answer-capture",
   ],
   decisions: [
     {

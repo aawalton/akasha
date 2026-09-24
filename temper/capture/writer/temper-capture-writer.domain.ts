@@ -5,7 +5,12 @@ export const temperCaptureWriter = {
   type: "page-type/domain",
   slug: "temper-capture-writer",
   definition: "the add-on side of a capture, where the game is asked to save what was taken",
-  parts: ["module/account-wide-vars", "module/capture-writer", "module/run-batched"],
+  parts: [
+    "module/account-wide-vars",
+    "module/capture-writer",
+    "module/run-batched",
+    "module/function-answers",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

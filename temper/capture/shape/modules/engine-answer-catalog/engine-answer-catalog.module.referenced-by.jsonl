@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"engine-answer-catalog.module.code.ts","path":"temper/capture/game-catalog-capture-addon/modules/engine-answer-catalog-capture/engine-answer-catalog-capture.module.code.ts"}
+{"propertySlug":"import","fileName":"engine-answer-catalog.module.code.ts","path":"temper/capture/player-answer/modules/player-answer-descriptor/player-answer-descriptor.module.code.ts"}
+{"propertySlug":"import","fileName":"engine-answer-catalog.module.code.ts","path":"temper/capture/writer/modules/function-answers/function-answers.module.code.ts"}
 {"propertySlug":"import","fileName":"engine-answer-catalog.module.code.ts","path":"temper/catalog/core/modules/catalog-payload/catalog-payload.module.code.ts"}
 {"propertySlug":"import","fileName":"engine-answer-catalog.module.code.ts","path":"temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"engine-answer-catalog.module.code.ts","path":"temper/eso/return/modules/engine-answers-seeding/engine-answers-seeding.module.code.ts"}

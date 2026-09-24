@@ -26,6 +26,7 @@ export const temperAddonCatalog = {
     "module/datamining-item-miner",
     "module/datamining-quest-miner",
     "module/datamining-saved-variables",
+    "module/player-answer-entry",
     "type-declaration/catalog-config-global",
   ],
   decisions: [

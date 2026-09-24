@@ -2678,6 +2678,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-item-miner/datamining-item-miner.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-quest-miner/datamining-quest-miner.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/catalog/modules/player-answer-entry/player-answer-entry.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-achievements/characters-achievements.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-active-quests/characters-active-quests.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/characters/modules/characters-alliance-rank/characters-alliance-rank.module.ts"}
@@ -4700,6 +4701,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/tribute-catalog-capture/tribute-catalog-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/weapon-type-constants/weapon-type-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-answer-capture/player-answer-capture.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-answer-descriptor/player-answer-descriptor.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-asking-shapes/player-asking-shapes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/player-answer/modules/player-askings-reading/player-askings-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/sale/modules/sales-descriptor/sales-descriptor.module.ts"}
@@ -4729,6 +4732,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/zone-completion-catalog/zone-completion-catalog.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/writer/modules/account-wide-vars/account-wide-vars.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/writer/modules/capture-writer/capture-writer.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/writer/modules/function-answers/function-answers.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/writer/modules/run-batched/run-batched.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/poison-effect/poison-effect.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/poison-source/poison-source.module.ts"}
