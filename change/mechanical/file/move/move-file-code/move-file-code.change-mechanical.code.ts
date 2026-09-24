@@ -1,4 +1,3 @@
-import { extname } from "node:path"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
 import {
@@ -9,11 +8,10 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { repointed } from "akasha/change/modules/import-repointing/import-repointing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
 
 const MOVE_FILE = `${changeMechanicalFile.slug}/${moveFile.slug}` as const
-
-const CODE = new Set([".ts", ".tsx"])
 
 export type Asked = {
   readonly from: string
@@ -21,7 +19,7 @@ export type Asked = {
 }
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
-  if (!CODE.has(extname(given.to))) {
+  if (!typeScripted(given.to)) {
     return refusing(`\`${given.to}\` is under no TypeScript name, so this change lands nothing`)
   }
   if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)

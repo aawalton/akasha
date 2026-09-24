@@ -1,4 +1,3 @@
-import { extname } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
@@ -18,6 +17,7 @@ import {
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { valueRemoved } from "akasha/change/modules/value-removing/value-removing.module.code.ts"
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { importers } from "akasha/graph/predicate/pages/importers/importers.graph-predicate.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -29,8 +29,6 @@ const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
 
 const REMOVE_FILE_CODE = `${changeMechanical.slug}/${removeFileCode.slug}` as const
 
-const CODE = new Set([".ts", ".tsx"])
-
 export type Asked = {
   readonly at: string
 }
@@ -40,7 +38,7 @@ export function parentsOf(world: World, at: string): readonly Named[] {
 }
 
 function addressFor(at: string): typeof REMOVE_FILE_CODE | typeof REMOVE_FILE {
-  return CODE.has(extname(at)) ? REMOVE_FILE_CODE : REMOVE_FILE
+  return typeScripted(at) ? REMOVE_FILE_CODE : REMOVE_FILE
 }
 
 export function importersFirst(world: World, many: readonly string[]): readonly string[] {

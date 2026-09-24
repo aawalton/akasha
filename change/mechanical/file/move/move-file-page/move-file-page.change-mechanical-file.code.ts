@@ -1,4 +1,4 @@
-import { basename, dirname, extname, join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
 import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
 import { moveFile } from "akasha/change/mechanical/file/move/move-file/move-file.change-mechanical-file.ts"
@@ -16,6 +16,7 @@ import {
 } from "akasha/change/modules/page-claiming/page-claiming.module.code.ts"
 import { pageIn } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { referencesAt } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 
 const MOVE_FILE = `${changeMechanicalFile.slug}/${moveFile.slug}` as const
@@ -24,15 +25,13 @@ const MOVE_FILE_CODE = `${changeMechanical.slug}/${moveFileCode.slug}` as const
 
 const MOVE_FOLDER = `${changeMechanicalFolder.slug}/${moveFolder.slug}` as const
 
-const CODE = new Set([".ts", ".tsx"])
-
 export type Asked = {
   readonly from: string
   readonly to: string
 }
 
 function addressFor(at: string): typeof MOVE_FILE_CODE | typeof MOVE_FILE {
-  return CODE.has(extname(at)) ? MOVE_FILE_CODE : MOVE_FILE
+  return typeScripted(at) ? MOVE_FILE_CODE : MOVE_FILE
 }
 
 export function landingFor(one: string, to: string): string {
