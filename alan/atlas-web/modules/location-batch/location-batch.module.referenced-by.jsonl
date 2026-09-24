@@ -1,5 +1,8 @@
+{"propertySlug":"import","fileName":"location-batch.module.code.ts","path":"alan/atlas-web/modules/location-batch/location-batch.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"location-batch.module.code.ts","path":"alan/atlas-web/modules/location-batch/location-batch.module.test.ts"}
 {"propertySlug":"import","fileName":"location-batch.module.code.ts","path":"alan/atlas-web/modules/location-capture-client/location-capture-client.module.code.ts"}
 {"propertySlug":"import","fileName":"location-batch.module.code.ts","path":"alan/atlas-web/modules/location-capture/location-capture.module.code.ts"}
-{"propertySlug":"import","fileName":"location-batch.module.code.ts","path":"alan/atlas-web/modules/location-capture/location-capture.module.test.ts"}
 {"propertySlug":"import","fileName":"location-batch.module.code.ts","path":"alan/atlas-web/routes/atlas-api-locations-ingest/atlas-api-locations-ingest.route.code.ts"}
+{"propertySlug":"import","fileName":"location-batch.module.test-fixtures.ts","path":"alan/atlas-web/modules/location-batch/location-batch.module.test.ts"}
+{"propertySlug":"import","fileName":"location-batch.module.test-fixtures.ts","path":"alan/atlas-web/modules/location-capture/location-capture.module.test.ts"}
 {"propertySlug":"parts","path":"alan/atlas-web/alan-atlas-web.router-app.ts","id":"01a06582-6b30-78d1-8b0b-1d3af65a8bcd"}

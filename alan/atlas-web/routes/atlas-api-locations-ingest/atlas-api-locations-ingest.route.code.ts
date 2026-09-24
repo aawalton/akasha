@@ -1,5 +1,8 @@
 import { resolveLocationIngestContext } from "akasha/alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.code.ts"
-import { locationBatchSchema } from "akasha/alan/atlas-web/modules/location-batch/location-batch.module.code.ts"
+import {
+  locationBatchSchema,
+  sortPoints,
+} from "akasha/alan/atlas-web/modules/location-batch/location-batch.module.code.ts"
 import { insertLocationTraces } from "akasha/alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.code.ts"
 import type { LocationTraceInsert } from "akasha/alan/harness/location-trace-access/modules/trace-shape/trace-shape.module.code.ts"
 
@@ -24,7 +27,14 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return Response.json({ error: "invalid-payload" }, { status: 400, headers: ctx.headers })
   }
 
-  const records: LocationTraceInsert[] = parsed.data.points.map((p) => ({
+  const sorted = sortPoints(parsed.data.points)
+  for (const one of sorted.refused) {
+    console.warn(
+      `[atlas/web/api.locations.ingest] refused point ${String(one.index)}: ${one.why} — ${JSON.stringify(parsed.data.points[one.index])}`
+    )
+  }
+
+  const records: LocationTraceInsert[] = sorted.points.map((p) => ({
     deviceId: p.deviceId,
     clientSeq: p.clientSeq,
     capturedAt: p.capturedAt,
@@ -44,7 +54,12 @@ export async function action({ request }: { request: Request }): Promise<Respons
 
   try {
     const { inserted } = await insertLocationTraces(records)
-    return Response.json({ received: records.length, inserted }, { headers: ctx.headers })
+    const received = parsed.data.points.length
+    const answer =
+      sorted.refused.length === 0
+        ? { received, inserted }
+        : { received, inserted, refused: sorted.refused }
+    return Response.json(answer, { headers: ctx.headers })
   } catch (err) {
     console.error("[atlas/web/api.locations.ingest] insertLocationTraces failed:", err)
     return Response.json({ error: "ingest-failed" }, { status: 500, headers: ctx.headers })

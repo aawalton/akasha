@@ -7,4 +7,18 @@ export const atlasApiLocationsIngest = {
   definition: "the batch of location traces a device sends in",
   code: "ts",
   urlPath: "api/locations/ingest",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A batch with a malformed point files every other point and answers 200.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each refused point is logged whole with why it was refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a body that is no batch at all is answered 400.",
+    },
+  ],
 } as const satisfies Route

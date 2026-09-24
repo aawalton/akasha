@@ -1,7 +1,7 @@
 import {
   type LocationPoint,
-  locationPointSchema,
   MAX_BATCH_POINTS,
+  sortPoints,
 } from "akasha/alan/atlas-web/modules/location-batch/location-batch.module.code.ts"
 import { z } from "zod"
 
@@ -114,20 +114,14 @@ export function readStoredBuffer(stored: string): StoredBuffer {
   if (!list.success) {
     return { points: [], refused: 0, why: "not a list of points", unreadable: true }
   }
-  const points: LocationPoint[] = []
-  let why: string | null = null
-  for (const [at, one] of list.data.entries()) {
-    const parsed = locationPointSchema.safeParse(one)
-    if (parsed.success) {
-      points.push(parsed.data)
-      continue
-    }
-    const issue = parsed.error.issues[0]
-    if (why !== null || issue === undefined) continue
-    const where = issue.path.length === 0 ? "" : ` at ${issue.path.join(".")}`
-    why = `point ${String(at)}${where}: ${issue.message}`
+  const sorted = sortPoints(list.data)
+  const first = sorted.refused[0]
+  return {
+    points: sorted.points,
+    refused: sorted.refused.length,
+    why: first === undefined ? null : `point ${String(first.index)}: ${first.why}`,
+    unreadable: false,
   }
-  return { points, refused: list.data.length - points.length, why, unreadable: false }
 }
 
 export function nextBatch(
