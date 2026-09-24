@@ -133,7 +133,7 @@ end
 
 birth = function(named, parent, controlType, virtual)
   local name = resolved(named, parent)
-  local control = setmetatable({
+  local fields = setmetatable({
     uiName = nil,
     uiType = controlType or CONTROL_TYPES.CT_CONTROL,
     uiVirtual = virtual,
@@ -152,6 +152,10 @@ birth = function(named, parent, controlType, virtual)
     uiTier = 0,
     uiLevel = 0,
   }, { __index = Control })
+  local control = newproxy(true)
+  local meta = getmetatable(control)
+  meta.__index = fields
+  meta.__newindex = fields
   control.uiName = claim(name, control)
   if parent ~= nil then insert(parent.uiChildren, control) end
   insert(everyControl, control)
@@ -160,10 +164,10 @@ birth = function(named, parent, controlType, virtual)
 end
 
 partOf = function(control, key)
-  local held = rawget(control, "uiParts")
+  local held = control.uiParts
   if held == nil then
     held = {}
-    rawset(control, "uiParts", held)
+    control.uiParts = held
   end
   local made = held[key]
   if made == nil then
@@ -258,7 +262,7 @@ end
 function Control:SetAnchor(point, relativeTo, relativePoint, offsetX, offsetY, constrains)
   insert(self.uiAnchors, {
     point = asNumber(point, ANCHOR_POINTS.TOPLEFT),
-    relativeTo = type(relativeTo) == "table" and relativeTo or self.uiParent,
+    relativeTo = type(relativeTo) == "userdata" and relativeTo or self.uiParent,
     relativePoint = asNumber(relativePoint, asNumber(point, ANCHOR_POINTS.TOPLEFT)),
     offsetX = asNumber(offsetX, 0),
     offsetY = asNumber(offsetY, 0),

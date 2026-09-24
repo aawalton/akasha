@@ -55,11 +55,19 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/constraint",
+      statement: "The game's own Lua tells a control from a table by its being userdata.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control is userdata, as a control the game makes is.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
       statement: "The game's own Lua wraps a control's metatable, and reads its index as a table.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each control has a metatable of its own, whose index is the table of methods.",
+      statement: "A control's index is a table of its own fields, which falls back to the methods.",
     },
     {
       decisionKind: "decision-kind/departure",

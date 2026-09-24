@@ -1,4 +1,3 @@
-local rawget = rawget
 
 local TOPLEFT = _G.TOPLEFT
 
@@ -22,7 +21,7 @@ local function fractionOf(point)
 end
 
 local function known(control)
-  return type(control) == "table" and rawget(control, "uiAnchors") ~= nil
+  return type(control) == "userdata" and control.uiAnchors ~= nil
 end
 
 local function spotOf(control, anchor)
