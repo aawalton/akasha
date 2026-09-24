@@ -62,11 +62,7 @@ export const story = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A truth in a world that no story has told is a sketch.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A sketch a story has told becomes lore.",
+      statement: "Every truth in a world is lore, whoever that truth is known to.",
     },
     {
       decisionKind: "decision-kind/departure",
