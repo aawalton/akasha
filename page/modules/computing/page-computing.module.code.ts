@@ -17,6 +17,7 @@ export type Computed = {
   readonly key: string
   readonly holds: string
   readonly reaches?: Reaches
+  readonly askedByName?: boolean
   readonly work: Work<Held, unknown>
 }
 

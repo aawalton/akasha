@@ -162,7 +162,8 @@ export function listedKeys(
 ): readonly string[] | undefined {
   const wanted: string[] = []
   for (const one of definitions) {
-    if (one.drawnBy?.includes(ENTRY_PROPERTY) === true && !carried.has(one.id)) continue
+    const named = one.drawnBy?.includes(ENTRY_PROPERTY) === true || one.askedByName === true
+    if (named && !carried.has(one.id)) continue
     wanted.push(one.id)
   }
   return wanted.length === 0 ? undefined : wanted

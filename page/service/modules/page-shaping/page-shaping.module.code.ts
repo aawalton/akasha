@@ -45,6 +45,8 @@ const DECLARED = "properties"
 
 const SAID = "pageProperty"
 
+const ASKED_BY_NAME = "askedByName"
+
 const TITLE_COLORED_BY = camelizeKey(titleColoredBy.propertySlug)
 
 export type Declared = {
@@ -64,6 +66,7 @@ export type Declared = {
   readonly mayBeGone: boolean
   readonly verbId: string | null
   readonly colorsTitle: boolean
+  readonly askedByName?: boolean
 }
 
 export type Shape = {
@@ -159,6 +162,7 @@ function declaredOf(
     mayBeGone: !one.required,
     verbId: page === undefined ? null : textAt(page, VERB_ID),
     colorsTitle,
+    ...(page?.[ASKED_BY_NAME] === true ? { askedByName: true } : {}),
   }
 }
 

@@ -74,6 +74,7 @@
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/restarts-itself.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/told.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"infrastructure/service/workstation/properties/well.boolean-property.ts"}
+{"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/computed-property/properties/asked-by-name.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/false-property/false-property.page-type.types.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/file-property/properties/append-only.boolean-property.ts"}
 {"propertySlug":"import","fileName":"boolean-property.page-type.types.ts","path":"page/file-property/properties/generated.boolean-property.ts"}

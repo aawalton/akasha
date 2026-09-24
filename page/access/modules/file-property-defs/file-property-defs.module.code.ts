@@ -151,6 +151,7 @@ export function definitionOf(one: Declared): PropertyDefinition {
     pageId: one.pageId,
     ...(stated ? { config } : {}),
     ...(one.colorsTitle ? { colorsTitle: true } : {}),
+    ...(one.askedByName === true ? { askedByName: true } : {}),
   }
 }
 

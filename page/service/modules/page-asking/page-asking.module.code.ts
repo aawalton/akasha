@@ -3,6 +3,7 @@ import {
   readingIn,
   type Valued,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Computed } from "akasha/page/modules/computing/page-computing.module.code.ts"
 import {
   slugOf,
   textAt,
@@ -220,6 +221,8 @@ export function asking(root: string, query: Query): Asked {
   const carried = carriedFor(reading, query.pageTypeSlug)
   const unnamed = unkeyed(query, carried)
   if (unnamed !== null) return { refused: unnamed }
+  const named = new Set(askedFor(query).map(([key]) => key))
+  const answered = (one: Computed): boolean => one.askedByName !== true || named.has(one.key)
   try {
     const worked = workedIn(carried)
     const counting = gatheredFor(
@@ -232,7 +235,8 @@ export function asking(root: string, query: Query): Asked {
       testsFor(query)
     ).map((one) => {
       const row = sluggedIn(one.row)
-      return row === one.row ? one : { ...one, row }
+      const computed = one.computed.every(answered) ? one.computed : one.computed.filter(answered)
+      return row === one.row && computed === one.computed ? one : { row, computed }
     })
     if (narrowsOn(query, worked)) return countedFirst(root, query, counting)
     return narrowedFirst(root, query, counting, carriesWorked(query, worked))

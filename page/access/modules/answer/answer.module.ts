@@ -43,6 +43,10 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A listing carries a key asked by name only where the question names that key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A named key the page type does not declare is passed over rather than refused.",
     },
     {

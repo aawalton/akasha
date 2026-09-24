@@ -2976,6 +2976,7 @@
 {"propertySlug":"decision-kind","path":"page/command/page-command.domain.ts","id":"01a06812-3ce8-79c7-b7c0-ca183f330ca5"}
 {"propertySlug":"decision-kind","path":"page/computed-property-module/computed-property-module.page-type.ts","id":"01a08202-ae3b-7dad-afcb-d0ad4adc1214"}
 {"propertySlug":"decision-kind","path":"page/computed-property/computed-property.page-type.ts","id":"01a06e70-0f25-77ad-9080-95388ef3ba51"}
+{"propertySlug":"decision-kind","path":"page/computed-property/properties/asked-by-name.boolean-property.ts","id":"01a0d446-e3b6-7c3d-94bb-58191a8fbe8f"}
 {"propertySlug":"decision-kind","path":"page/computed-property/properties/holds.select-property.ts","id":"01a06952-7a5c-7bad-8818-9124b8845f75"}
 {"propertySlug":"decision-kind","path":"page/core/filter/modules/property-path/property-path.module.ts","id":"01a09c21-fff4-7f57-818b-b875ff41c6ce"}
 {"propertySlug":"decision-kind","path":"page/core/modules/as-json/as-json.module.ts","id":"01a05cc0-fc8b-72c7-b9e9-7a512a9927d8"}

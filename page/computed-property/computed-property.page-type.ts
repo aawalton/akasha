@@ -19,7 +19,7 @@ export const computedProperty = {
   slug: "computed-property",
   definition: "a page property a function works out from the page",
   extends: ["page-type/page-property"],
-  parts: ["select-property/holds"],
+  parts: ["boolean-property/asked-by-name", "select-property/holds"],
   properties: [
     { pageProperty: "select-property/holds", required: true, many: false },
     { pageProperty: "code-file-property/code", required: true, many: false },
@@ -28,6 +28,7 @@ export const computedProperty = {
     { pageProperty: "text-property/select-values", required: false, many: true, maxCount: null },
     { pageProperty: "relation-property/target-page-type", required: false, many: false },
     { pageProperty: "one-of-property/properties", required: false, many: true, maxCount: null },
+    { pageProperty: "boolean-property/asked-by-name", required: false, many: false },
   ],
   decisions: [
     {
@@ -99,6 +100,10 @@ export const computedProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A query may answer with a computed property's key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A computed property may be answered only where a question names its key.",
     },
 
     {

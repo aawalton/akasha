@@ -120,6 +120,10 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A calculation asked by name is worked out only for a question naming its key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A calculation is worked out over the rows taken rather than over every row gathered.",
     },

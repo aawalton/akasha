@@ -232,6 +232,15 @@ test("a page type stating no property is asked for no keys rather than for an em
   expect(listedKeys([])).toBeUndefined()
 })
 
+test("a key asked by name is listed only where the listing carries it", () => {
+  const named: readonly PropertyDefinition[] = [
+    { id: "slug", title: "Slug", type: "text", pageId: "one" },
+    { id: "conversation", title: "Conversation", type: "text", pageId: "two", askedByName: true },
+  ]
+  expect(listedKeys(named)).toEqual(["slug"])
+  expect(listedKeys(named, new Set(["conversation"]))).toEqual(["slug", "conversation"])
+})
+
 test("how many pages are filed is the count the pages answer with", async () => {
   const deps = depsAsking(async () => ({ rows: [{ id: "one" }], n: 70_359 }))
   const answered = await answerPages(new Request(AT), "readout", deps)

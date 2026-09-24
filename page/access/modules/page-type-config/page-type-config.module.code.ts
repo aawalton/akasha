@@ -23,6 +23,7 @@ export type PropertyDefinition = {
   isRequired?: boolean
   unique?: boolean
   colorsTitle?: boolean
+  askedByName?: boolean
 }
 
 export type GetPropertyDefinitionsArgs = { pageTypeSlug: string }

@@ -82,5 +82,10 @@ export const filePropertyDefs = {
       decisionKind: "decision-kind/departure",
       statement: "A definition says it colors the titles only where its page type names it to.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A definition says it is answered only when asked by name where its property says so.",
+    },
   ],
 } as const satisfies Module

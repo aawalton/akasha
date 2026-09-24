@@ -80,6 +80,10 @@ export const pageShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration says whether its property is answered only when asked by name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A page type naming no property to color titles takes the one the nearest page type above it names.",
     },

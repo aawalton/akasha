@@ -61,6 +61,8 @@ const SLASH = "/"
 
 const TARGET_PAGE_TYPE = "targetPageType"
 
+const ASKED_BY_NAME = "askedByName"
+
 const BESIDE_THE_PAGE: ReadonlySet<string> = new Set([COMPUTED, FILE_PROPERTY])
 
 export type Testing = (value: Value) => boolean
@@ -155,6 +157,7 @@ function computedFor(root: string, carried: readonly Carried[]): readonly Comput
       key: one.key,
       holds: page === undefined ? "" : (textAt(page.value, "holds") ?? ""),
       ...(reached === null ? {} : { reaches: { slug: reached, kinds: kindsUnder(reached, root) } }),
+      ...(page?.value[ASKED_BY_NAME] === true ? { askedByName: true } : {}),
       work: held,
     })
   }
