@@ -13,16 +13,24 @@ export const interfaceColorCatalogCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Every type from the game's first to its last is asked for, by the bounds the game declares.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "The game declares no bound on a type's fields.",
+      statement: "A field outside what a color type has is never asked for.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each type is asked for a fixed run of fields, wider than any type the game has.",
+      statement:
+        "A type is asked only for the fields of the family the game's own code pairs it with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A family's fields run between the bounds the game declares for that family.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A family of flags is asked for each flag rather than each number between.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A family the game declares no bounds for is passed over.",
     },
     {
       decisionKind: "decision-kind/departure",
