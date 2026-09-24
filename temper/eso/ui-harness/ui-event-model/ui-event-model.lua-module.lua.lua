@@ -37,13 +37,22 @@ function EventManager:AddFilterForEvent()
   return true
 end
 
-function EventManager:RegisterForUpdate(namespace, everyMs, callback)
+function EventManager:RegisterForUpdate(namespace, everyMs, callback, once)
+  if once then
+    insert(later, { namespace = namespace, callback = callback, ms = everyMs })
+    return true
+  end
   updates[namespace] = { everyMs = everyMs, callback = callback }
   return true
 end
 
 function EventManager:UnregisterForUpdate(namespace)
   updates[namespace] = nil
+  local kept = {}
+  for _, one in ipairs(later) do
+    if one.namespace == nil or one.namespace ~= namespace then insert(kept, one) end
+  end
+  later = kept
   return true
 end
 
@@ -95,10 +104,13 @@ function _G.__ui_settle(rounds)
     if #later == 0 then break end
     local held = later
     later = {}
-    for _, one in ipairs(held) do
+    for at, one in ipairs(held) do
       local ok, thrown = pcall(one.callback)
       ran = ran + 1
-      if not ok then error(thrown, 0) end
+      if not ok then
+        for rest = at + 1, #held do insert(later, held[rest]) end
+        error(thrown, 0)
+      end
     end
   end
   return ran

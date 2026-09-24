@@ -37,6 +37,14 @@ export const uiEventModel = {
       statement: "Work put off to later waits until a caller settles it.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game puts work off to later by asking for an update that runs once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An update asked to run once is work put off to later.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "Settling runs work put off while settling, up to a stated number of passes.",
     },
