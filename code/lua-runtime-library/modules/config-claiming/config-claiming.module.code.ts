@@ -3,6 +3,7 @@ import { lua50Config } from "akasha/code/lua-runtime-library/properties/lua50-co
 import { universalConfig } from "akasha/code/lua-runtime-library/properties/universal-config.file-property.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { namedUnder } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { z } from "zod"
 
 const LIBRARY = "lua-runtime-library"
 
@@ -10,9 +11,7 @@ export const CONFIGS: readonly string[] = [universalConfig.fileName, lua50Config
 
 type Reader = (path: string) => string | null
 
-type Included = {
-  readonly include?: readonly string[]
-}
+const INCLUDED = z.object({ include: z.array(z.string()).optional() })
 
 type Configured = {
   readonly at: string
@@ -39,7 +38,7 @@ function pagesOver(paths: readonly string[], read: Reader, index: Answering): re
 
 function configuredAt(at: string, text: string): Configured {
   const folder = dirname(at)
-  const said = JSON.parse(text) as Included
+  const said = INCLUDED.parse(JSON.parse(text))
   return { at, claims: (said.include ?? []).map((each) => matching(join(folder, each))) }
 }
 

@@ -13,6 +13,7 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const COMPONENT = "ios-component/"
 
@@ -21,6 +22,11 @@ const SUFFIX = ".ios-component.swift.swift"
 const MANIFEST = "package.json"
 
 export type Ranged = Readonly<Record<string, string>>
+
+const MANIFEST_RANGES = z.object({
+  dependencies: z.record(z.string(), z.string()).optional(),
+  devDependencies: z.record(z.string(), z.string()).optional(),
+})
 
 export type Plan = {
   readonly appSlug: string
@@ -115,10 +121,7 @@ type Ranging = { readonly ranges: Ranged } | { readonly why: string }
 
 function dependenciesOf(root: string, app: Value, appSlug: string): Ranging {
   const named = listAt(app, "toolReached")
-  const held = JSON.parse(readFileSync(join(root, MANIFEST), "utf8")) as {
-    readonly dependencies?: Ranged
-    readonly devDependencies?: Ranged
-  }
+  const held = MANIFEST_RANGES.parse(JSON.parse(readFileSync(join(root, MANIFEST), "utf8")))
   const stated: Ranged = { ...held.dependencies, ...held.devDependencies }
   const ranges: Record<string, string> = {}
   const missing: string[] = []
