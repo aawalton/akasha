@@ -10,7 +10,7 @@ export const akashaFindingsToZero = {
     {
       statement: "No finding is left.",
       workingMemory:
-        "44 are left. The second run reached the end of `kept-order.tsv` in the scratchpad. Entries 177 and 180 were put to Alan and are unanswered. Entry 167 was held for the ESO generator and is measurable again. The rest were filed after the list was drawn; take them in panel order next. A drop needs no answer; only a proposal to do work is put to Alan. Other seats delete findings as this runs, so check each slug is still there. Verify by running, not reading.\n",
+        "2 are left, each with work in flight: the error-page nonce (landed, waiting to deploy) and the stale web pod build. Each is deleted once its work lands and deploys. A drop needs no answer; only a proposal to do work is put to Alan. Verify by running, not reading.\n",
     },
     {
       statement: "No module nothing reaches is left.",
