@@ -1,6 +1,4 @@
-{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
-{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/collection/external/modules/external-identity-reading/external-identity-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"}

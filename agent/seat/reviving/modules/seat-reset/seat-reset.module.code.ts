@@ -30,7 +30,7 @@ import {
   dataError,
   inputError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   AKASHA,
   resolveRoots,
@@ -84,7 +84,7 @@ function keptRecovered(was: SeatFromHistory): Kept {
 export default async function seatReset(input: string, done: string[] = []): Promise<void> {
   const agentId = await resolveSeatTargetCli(input)
 
-  if (textIn(process.env.AGENT_ID) === agentId) {
+  if (optionalEnv("AGENT_ID") === agentId) {
     throw inputError(
       `'${input}' is the seat running this command. A reset takes the agent out of the seat, so ` +
         "a seat resetting itself destroys the turn issuing the command before it can answer. " +
