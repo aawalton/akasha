@@ -77,8 +77,9 @@ export const indexSettling = {
       statement: "An edge is withdrawn against where its specifier landed before the change.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "The relation filing covers no page the change does not carry.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The relation filing covers the pages the change carries and the pages whose rows it turns.",
     },
     {
       decisionKind: "decision-kind/absence",

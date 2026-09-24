@@ -200,6 +200,30 @@ test("a relation an entry row states files an edge from the row's page", () => {
   expect(butTheStamp(everyFileUnder(root))).toEqual(butTheStamp(everyFileUnder(rebuilt)))
 })
 
+const ROWS_AT = "one.cased.cases.jsonl"
+
+function rowsTurned(from: string, to: string): string {
+  const tree = heldAt()
+  const root = heldAt()
+  const first = indexingAt(root, tree)
+  wrote(first, tree, [...IDENTIFIERS, ROW_SHAPES, CASE_PAGE, CASES, CASED, TARGET_PAGE, ROW_PAGE])
+  first.wrote(put(tree, ROWS_AT, from), from, null)
+  expect(first.settle()).toEqual([])
+  expect(namedAt(tree, "case-page")).toBe(from !== "")
+  const second = indexingAt(root, tree)
+  second.wrote(put(tree, ROWS_AT, to), to, from)
+  expect(second.settle()).toEqual([])
+  return tree
+}
+
+test("a row written beside a page it does not carry files the referenced-by the row names", () => {
+  expect(namedAt(rowsTurned("", ROW_LINE), "case-page")).toBe(true)
+})
+
+test("a row taken from beside a page it does not carry takes the referenced-by it named", () => {
+  expect(namedAt(rowsTurned(ROW_LINE, ""), "case-page")).toBe(false)
+})
+
 test("a refusal the world already had is answered apart from the refusal a change leaves", () => {
   const root = indexedRepo({ [NOTE_AT]: notePointing("page-property") })
   const textOf = textIn(root)

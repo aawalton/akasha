@@ -1,3 +1,4 @@
+import { dirname, join } from "node:path"
 import { astHashesIn } from "akasha/page/index/ast-hash/index-ast-hash.index.code.ts"
 import {
   pagesElsewhere,
@@ -33,13 +34,20 @@ import {
   readingNone,
 } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { type Rowing, rowsOver } from "akasha/page/modules/entries/page-entries.module.code.ts"
-import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  pageNamed,
+  pageOf as pageNameOf,
+  partedIn,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   importedFrom,
   NOTHING_FILED as NOTHING_REFERENCED,
   namedFrom,
 } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
-import { referencesAt } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
+import {
+  referencesAt,
+  referencesFiled,
+} from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   textAt,
@@ -90,6 +98,22 @@ export type Moving = {
   readonly path: string
   readonly before: string | null
   readonly after: string | null
+}
+
+const ROWS_HELD = "jsonl"
+
+const PAGE_HELD = ".ts"
+
+function pagesBesideRows(moving: readonly Moving[], repo: string): readonly string[] {
+  const found = new Set<string>()
+  for (const one of moving) {
+    const at = under(repo, one.path)
+    const said = partedIn(at)
+    if (said === null || said.sections.length === 0 || said.held !== ROWS_HELD) continue
+    if (referencesFiled(at)) continue
+    found.add(join(dirname(at), `${pageNameOf(said)}${PAGE_HELD}`))
+  }
+  return [...found]
 }
 
 export type Settling = {
@@ -233,6 +257,18 @@ export function settlingOver(
       ? NOTHING_REFERENCED
       : namedFrom(one.now, one.path, known, repo, rowsFor(one.path, one.now, known, nowBody))
   )
+  const rowedFrom = (
+    page: string,
+    value: Value | null,
+    shaped: Shaped,
+    body: Body
+  ): readonly Entry[] =>
+    value === null
+      ? []
+      : namedFrom(value, page, shaped, repo, rowsFor(page, value, shaped, body)).entries
+  const rowed = pagesBesideRows(moving, repo).filter((page) => !carried.has(page))
+  const rowedWas = rowed.flatMap((page) => rowedFrom(page, wasPageOf(page), wasKnown, wasBody))
+  const rowedNow = rowed.flatMap((page) => rowedFrom(page, nowPageOf(page), known, nowBody))
   const arrived = new Map<string, string>()
   for (const one of held) {
     if (one.now === null) continue
@@ -271,6 +307,7 @@ export function settlingOver(
     [
       ...leftBehind,
       ...referencedWas.flatMap((one) => one.entries),
+      ...rowedWas,
       ...held.flatMap((one) =>
         one.before === null ? [] : importedFrom(reading, one.before, one.path, repo, wasNaming)
       ),
@@ -278,6 +315,7 @@ export function settlingOver(
     [
       ...carriedOn,
       ...referencedNow.flatMap((one) => one.entries),
+      ...rowedNow,
       ...held.flatMap((one) =>
         one.after === null ? [] : importedFrom(stepped, one.after, one.path, repo, naming)
       ),
