@@ -24,8 +24,24 @@ export const seatComposer = {
       statement: "A send refused says why in the words the route refused it with.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An image is attached to a message from beside the box.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The phone offers its photos and its camera alike when an image is attached.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image attached is shown small above the box until it is removed or sent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image is kept only once the message is sent, and is sent as a jpg.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message carries at most eight images.",
     },
   ],
 } as const satisfies Module

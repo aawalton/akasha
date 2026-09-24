@@ -35,6 +35,7 @@ type Heard =
 type Pending = {
   readonly key: number
   readonly text: string
+  readonly images: number
   readonly seen: number
   readonly state: "sending" | "sent" | "refused"
   readonly why?: string
@@ -137,11 +138,14 @@ function useSending(id: string) {
     )
     if (why === null) again()
   }
-  const send = (text: string) => {
+  const send = (text: string, images: readonly File[]) => {
     keyed.current += 1
     const key = keyed.current
-    setPending((held) => [...held, { key, text, seen: timesSaid(heard, text), state: "sending" }])
-    void sentToSeat(id, text).then((why) => settle(key, why))
+    setPending((held) => [
+      ...held,
+      { key, text, images: images.length, seen: timesSaid(heard, text), state: "sending" },
+    ])
+    void sentToSeat(id, text, images).then((why) => settle(key, why))
   }
   const dismiss = (key: number) => setPending((held) => held.filter((one) => one.key !== key))
   useEffect(() => {
@@ -234,7 +238,7 @@ function pendingSaid(one: Pending): string {
 function PendingDrawn({ one, dismiss }: { one: Pending; dismiss: (key: number) => void }) {
   return (
     <div className="flex flex-col gap-1 opacity-60">
-      <PersonSaid entry={{ kind: "person", text: one.text }} />
+      <PersonSaid entry={{ kind: "person", text: one.text, images: one.images }} />
       <span className={cn("flex gap-2", SUBDUED)}>
         {pendingSaid(one)}
         {one.state === "refused" && (
