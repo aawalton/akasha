@@ -301,7 +301,7 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
       return answered === true
     },
     async raise(event, ...args): Promise<number> {
-      if (NAMED.exec(event) === null) {
+      if (!NAMED.test(event)) {
         throw new Error(`\`${event}\` is no name an event could be held under`)
       }
       const passed = args.map((arg) => marshalLuaValue(arg)).join(", ")

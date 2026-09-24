@@ -1,5 +1,6 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   stampIn,
   treeIn,
@@ -193,7 +194,7 @@ const DEPENDS = /^## DependsOn:(.*)$/m
 const AT_LEAST = />=.*$/
 
 function dependenciesIn(manifest: string): readonly string[] {
-  const listed = DEPENDS.exec(manifest)?.[1] ?? ""
+  const listed = firstCapture(DEPENDS.exec(manifest)) ?? ""
   return listed
     .trim()
     .split(/\s+/)

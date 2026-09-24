@@ -7,6 +7,7 @@ import {
   withBases,
 } from "akasha/temper/eso/ui-harness/modules/ui-inheritance/ui-inheritance.module.code.ts"
 import { JSDOM } from "jsdom"
+import { z } from "zod"
 
 function numbered(
   named: (key: string) => string,
@@ -71,6 +72,8 @@ const BYTE = 255
 
 const HEX_COLOR = /^#?([0-9a-fA-F]{6})([0-9a-fA-F]{2})?$/
 
+const hexShape = z.tuple([z.string(), z.string(), z.string().optional()])
+
 let cachedParser: DOMParser | null = null
 
 function domParser(): DOMParser {
@@ -108,12 +111,12 @@ function pointOf(text: string | null, fallback: number): number {
 }
 
 function hexColor(flat: string | null): readonly number[] | undefined {
-  const matched = flat === null ? null : HEX_COLOR.exec(flat.trim())
-  if (matched === null) return undefined
-  const body = matched[1] ?? ""
+  if (flat === null) return undefined
+  const matched = hexShape.safeParse(HEX_COLOR.exec(flat.trim()))
+  if (!matched.success) return undefined
+  const [, body, tail] = matched.data
   const channel = (at: number): number =>
     Number.parseInt(body.slice(at * 2, at * 2 + 2), HEX_RADIX) / BYTE
-  const tail = matched[2]
   const opacity = tail === undefined ? 1 : Number.parseInt(tail, HEX_RADIX) / BYTE
   return [channel(0), channel(1), channel(2), opacity]
 }

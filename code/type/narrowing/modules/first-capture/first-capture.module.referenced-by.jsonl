@@ -40,6 +40,10 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-chunking/eso-declaration-chunking.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-narrowing/eso-declaration-narrowing.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/return/modules/engine-returns-reading/engine-returns-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/ui-harness/modules/ui-timelines/ui-timelines.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/eso/ui-harness/modules/ui-windows/ui-windows.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"}

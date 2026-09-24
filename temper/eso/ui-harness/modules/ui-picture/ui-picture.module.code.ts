@@ -6,6 +6,7 @@ import { charcoal } from "akasha/design/interface/color/pages/charcoal.color.ts"
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
 import { paintArt } from "akasha/temper/eso/ui-harness/modules/ui-art-painting/ui-art-painting.module.code.ts"
+import { faceKey } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 import type {
   UiColor,
   UiControl,
@@ -87,10 +88,6 @@ const FONT_SHADOWS: Readonly<Record<string, string>> = {
   "thick-outline":
     "-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000, 0 0 3px #000",
 }
-
-const FONT_NAMED = /\$\(([A-Z_0-9]+)\)/
-
-const FONT_FILE = /([^/\\]+)\.(?:slug|otf|ttf)$/i
 
 const START = "flex-start"
 
@@ -190,12 +187,6 @@ function markedHtml(text: string, options: UiPictureOptions): string {
 function asCss(color: UiColor): string {
   const [red = 1, green = 1, blue = 1, opacity = 1] = color
   return `rgba(${Math.round(red * FULL)}, ${Math.round(green * FULL)}, ${Math.round(blue * FULL)}, ${opacity})`
-}
-
-function faceKey(face: string): string {
-  const named = FONT_NAMED.exec(face)
-  if (named !== null) return named[1] ?? ""
-  return FONT_FILE.exec(face)?.[1]?.toLowerCase() ?? ""
 }
 
 function faceOf(font: string | undefined): string {

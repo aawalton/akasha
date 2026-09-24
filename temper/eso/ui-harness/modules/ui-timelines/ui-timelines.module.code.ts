@@ -1,3 +1,4 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { luaStringLiteral } from "akasha/temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
 
 const TAG = /<(\/?)(\w+)([^>]*?)(\/?)>/g
@@ -34,13 +35,13 @@ function declaredIn(documents: readonly string[]): ReadonlyMap<string, Declared>
         open.pop()
       } else if (tag === TIMELINE) {
         const made: Declared = {
-          inherits: INHERITS.exec(attributes)?.[1],
+          inherits: firstCapture(INHERITS.exec(attributes)) ?? undefined,
           animations: [],
           timelines: [],
         }
         open.at(-1)?.timelines.push(made)
-        const name = NAMED.exec(attributes)?.[1]
-        if (name !== undefined) named.set(name, made)
+        const name = firstCapture(NAMED.exec(attributes))
+        if (name !== null) named.set(name, made)
         if (closed !== CLOSING) open.push(made)
       } else if (closing !== CLOSING && ANIMATION.test(tag)) {
         open.at(-1)?.animations.push(tag)

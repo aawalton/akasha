@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { luaStringLiteral } from "akasha/temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.code.ts"
 
 const STRINGS_AT: readonly string[] = ["fontstrings/western/defaultfontstrings_western.xml"]
@@ -14,6 +15,10 @@ const STRING = /<String\s+name="([^"]+)"\s+value="([^"]*)"/g
 const FONT = /<Font\s+name="([^"]+)"\s+font="([^"]*)"/g
 
 const PLACEHOLDER = /\$\(([A-Za-z0-9_]+)\)/g
+
+const FONT_NAMED = /\$\(([A-Z_0-9]+)\)/
+
+const FONT_FILE = /([^/\\]+)\.(?:slug|otf|ttf)$/i
 
 export type GameFont = {
   readonly face: string
@@ -49,6 +54,12 @@ export function fontsIn(
     }
   }
   return found
+}
+
+export function faceKey(face: string): string {
+  const named = firstCapture(FONT_NAMED.exec(face))
+  if (named !== null) return named
+  return firstCapture(FONT_FILE.exec(face))?.toLowerCase() ?? ""
 }
 
 export function gameFontStrings(root: string): Readonly<Record<string, string>> {

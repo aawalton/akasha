@@ -1,5 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   filesUnder,
   MARKUP_TAIL,
@@ -239,8 +240,8 @@ export function windowsDeclaredOutright(markup: readonly string[]): readonly str
   for (const document of markup) {
     for (const [element] of document.matchAll(TOP_LEVEL)) {
       if (VIRTUAL.test(element)) continue
-      const name = NAMED.exec(element)?.[1]
-      if (name !== undefined) found.push(name)
+      const name = firstCapture(NAMED.exec(element))
+      if (name !== null) found.push(name)
     }
   }
   return found
