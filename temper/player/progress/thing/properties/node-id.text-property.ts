@@ -10,13 +10,16 @@ export const nodeId = {
   nameFormat: null,
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "This property is a relation to a node of the same tree.",
+      decisionKind: "decision-kind/departure",
+      statement: "This name is the node's own rather than a name for another page.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement:
-        "A node's page is named for that node's kind and this name joined, so this name names no page.",
+      decisionKind: "decision-kind/departure",
+      statement: "A node's page is named for that node's kind and this name joined.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value naming a node reaches the node's page by this name.",
     },
     {
       decisionKind: "decision-kind/constraint",

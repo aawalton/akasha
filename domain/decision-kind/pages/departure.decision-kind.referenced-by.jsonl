@@ -5548,6 +5548,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/completion-card.relation-property.ts","id":"01a0c688-9666-72c8-b20b-f6fc5fd64234"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/completion-item-path.text-property.ts","id":"01a05fc6-81fb-729c-8013-4df821b1c2d7"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/due-date.calendar-date-property.ts","id":"01a0793a-2730-7efc-b4a0-869a6e3af33f"}
+{"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/node-id.text-property.ts","id":"01a05fc6-81fc-7831-9ded-1ba2e1d47ca1"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/rrule-rule.rrule-property.ts","id":"01a05fc6-81fd-7f0e-82af-5f52794a8b51"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}
 {"propertySlug":"decision-kind","path":"temper/player/skill-morph/access/temper-skill-morph-access.domain.ts","id":"01a061e2-5e38-795d-b1f0-b50d142c48d5"}

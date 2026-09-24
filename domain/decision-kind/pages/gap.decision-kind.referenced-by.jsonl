@@ -733,7 +733,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-task/properties/character-sort-order.number-property.ts","id":"01a06959-98a7-75a1-b25b-ef19416fec86"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-task/properties/progress.temper-task-progress.ts","id":"01a05fd3-435e-7d0d-8c81-036d195632f1"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/properties/last-run-outcome.text-property.ts","id":"01a05fd3-4362-7b80-9591-3e5f58ebfa66"}
-{"propertySlug":"decision-kind","path":"temper/player/progress/thing/properties/node-id.text-property.ts","id":"01a05fc6-81fc-7831-9ded-1ba2e1d47ca1"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"decision-kind","path":"temper/thing/properties/account-page.text-property.ts","id":"01a05fba-ce37-7ab7-ac79-b568699606b3"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.ts","id":"01a063c7-b064-74a3-9ffc-0be1edaadd02"}
