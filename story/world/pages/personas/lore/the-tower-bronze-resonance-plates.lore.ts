@@ -8,8 +8,5 @@ export const theTowerBronzeResonancePlates = {
   world: "world/personas",
   about: "item/the-tower-bronze-resonance-plates",
   loreDisclosure: "lore-disclosure/game-master",
-  facts: [
-    "The Resonant Nave's bronze plates amplify every sound.",
-    "The Hollow Cantor's power runs through the Resonant Nave's bronze plates.",
-  ],
+  facts: ["The Resonant Nave's bronze plates amplify every sound."],
 } as const satisfies Lore
