@@ -113,10 +113,7 @@ export const alanHarness = {
       decisionKind: "decision-kind/departure",
       statement: "Alan's app fills his password in from 1Password.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Alan's phone drains its health samples into akasha every day.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
