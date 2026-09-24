@@ -16,6 +16,6 @@ export const theTowerDrownedSentry01 = {
     "The Drowned Sentry is dry rot under the rust, and fire is its bane.",
     "Set alight, the Drowned Sentry's seized joints crack and it flails.",
     "Cold water does nothing to the Drowned Sentry.",
-    "The Drowned Sentry wakes at a step onto its platform or a strike from the walkway.",
+    "The Drowned Sentry is dead, burned out through its neck-seam.",
   ],
 } as const satisfies Lore
