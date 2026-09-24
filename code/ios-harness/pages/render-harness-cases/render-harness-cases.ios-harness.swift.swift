@@ -100,7 +100,9 @@ func cases(now: Date) -> [RenderCase] {
         {"inbox":"tasks","tier":"blue","reading":"0","nextTier":null,"progress":null,\
         "figureOffScale":true},\
         {"inbox":"temperTasks","tier":"red","reading":"23","nextTier":"yellow",\
-        "progress":0.8444444444444444,"figureOffScale":true}]}
+        "progress":0.8444444444444444,"figureOffScale":true},\
+        {"inbox":"findings","tier":"yellow","reading":"3","nextTier":"blue",\
+        "progress":0.7777777777777778,"figureOffScale":true}]}
         """
     let upkeep = """
         {"stoplights":[\

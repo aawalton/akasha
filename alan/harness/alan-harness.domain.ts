@@ -105,7 +105,7 @@ export const alanHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Alan's inboxes widget shows all three stoplights.",
+      statement: "Alan's inboxes widget shows all four stoplights.",
     },
     {
       decisionKind: "decision-kind/departure",

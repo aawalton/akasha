@@ -57,7 +57,9 @@ func wideAndPlaceholderCases(_ fx: CaseFixtures) -> [RenderCase] {
                 {"inbox":"tasks","tier":"yellow","reading":"1","nextTier":"green",\
                 "progress":0.8888888888888888,"figureOffScale":true},\
                 {"inbox":"temperTasks","tier":"red","reading":"23","nextTier":"yellow",\
-                "progress":0.8444444444444444,"figureOffScale":true}]}
+                "progress":0.8444444444444444,"figureOffScale":true},\
+                {"inbox":"findings","tier":"red","reading":"12","nextTier":"yellow",\
+                "progress":0.9777777777777777,"figureOffScale":true}]}
                 """,
             sizeOverride: CGSize(width: 141.0, height: 141.0)))
 
