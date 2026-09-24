@@ -86,6 +86,7 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"page/service/modules/page-putting/page-putting.module.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}

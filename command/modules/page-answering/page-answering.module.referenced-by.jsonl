@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.code.ts"}
+{"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts"}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.code.ts"}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/inventory/buy-rule/delete/temper-inventory-buy-rule-delete.command.code.ts"}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/inventory/buy-rule/duplicate/temper-inventory-buy-rule-duplicate.command.code.ts"}
