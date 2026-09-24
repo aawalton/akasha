@@ -41,11 +41,11 @@ const [, WIDGET_TYPE] = aType(idOf("d"), WAS, [DOMAIN_AT], ["code"])
 
 const HELD: Readonly<Record<string, string>> = {
   [TYPE_AT]: bodyOf(WIDGET_TYPE),
-  [PAGE_AT]: pageOf({ id: idOf("e"), pageTypeSlug: WAS, slug: "one", code: "ts" }),
+  [PAGE_AT]: pageOf({ id: idOf("e"), type: "page-type/widget", slug: "one", code: "ts" }),
   [PAGE_CODE]: "export const one = 1\n",
   "akasha/wider/wider.module.ts": pageOf({
     id: idOf("f"),
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "wider",
     definition: "a page naming what the rename carries",
     code: "ts",

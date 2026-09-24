@@ -10,7 +10,7 @@ const AT = "akasha/widgets/one.widget.ts"
 
 const BODY = `export const one = {
   id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
-  pageTypeSlug: "widget",
+  type: "page-type/widget",
   slug: "one",
   definition: "a page holds a value",
   partSlugs: ["widget/two"],

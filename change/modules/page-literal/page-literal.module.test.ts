@@ -21,7 +21,7 @@ const BODY = [
   "",
   "export const held = {",
   '  id: "01a00000-0000-7000-8000-000000000000",',
-  '  pageTypeSlug: "module",',
+  '  type: "page-type/module",',
   '  slug: "held",',
   '  "quoted-key": "kept",',
   '  definition: "a page the parser reads",',
@@ -126,15 +126,7 @@ test("a key is read off the assignment stating that key", () => {
     if (ts.isPropertyAssignment(one)) found.push(keyOf(one))
   }
 
-  expect(found).toEqual([
-    "id",
-    "pageTypeSlug",
-    "slug",
-    "quoted-key",
-    "definition",
-    "partSlugs",
-    "count",
-  ])
+  expect(found).toEqual(["id", "type", "slug", "quoted-key", "definition", "partSlugs", "count"])
 })
 
 test("the records a many-valued key holds are answered in the order they sit in", () => {

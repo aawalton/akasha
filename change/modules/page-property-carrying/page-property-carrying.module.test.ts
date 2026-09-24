@@ -10,6 +10,7 @@ import {
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { worldOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ONE_AT = "akasha/one/one.quoin.ts"
 
@@ -27,22 +28,22 @@ const MONTH_AT = "akasha/months/one.month.ts"
 
 const SHAPE_AT = "akasha/tallies.page-property-entry.ts"
 
-const ONE: Value = { id: "one", pageTypeSlug: "quoin", slug: "one", wold: "held" }
+const ONE: Value = { id: "one", type: "page-type/quoin", slug: "one", wold: "held" }
 
-const TWO: Value = { id: "two", pageTypeSlug: "quoin", slug: "two" }
+const TWO: Value = { id: "two", type: "page-type/quoin", slug: "two" }
 
-const MONTH: Value = { id: "month-one", pageTypeSlug: "month", slug: "one", tallies: "jsonl" }
+const MONTH: Value = { id: "month-one", type: "page-type/month", slug: "one", tallies: "jsonl" }
 
 const TALLIES: Value = {
   id: "tallies-id",
-  pageTypeSlug: "record-property",
+  type: `${pageType.slug}/record-property`,
   slug: "tallies",
   propertySlug: "tallies",
 }
 
 const SHAPE: Value = {
   id: "shape-id",
-  pageTypeSlug: "page-property-entry",
+  type: `${pageType.slug}/page-property-entry`,
   slug: "tallies",
   propertySlug: "tallies",
 }
@@ -128,7 +129,7 @@ test("a count handed in holds how many pages are answered", () => {
     paged: {
       quoin: [
         [ONE_AT, ONE],
-        [TWO_AT, { id: "two", pageTypeSlug: "quoin", slug: "two", wold: "kept" }],
+        [TWO_AT, { id: "two", type: "page-type/quoin", slug: "two", wold: "kept" }],
       ],
     },
   })
@@ -159,7 +160,7 @@ test("the pages stating those records are the pages of every declaring page type
     bodies: {},
     values: { [TALLIES_AT]: TALLIES },
     declaring: BY_A_TYPE,
-    paged: { quoin: [[ONE_AT, { id: "one", pageTypeSlug: "quoin", slug: "one", tallies: [] }]] },
+    paged: { quoin: [[ONE_AT, { id: "one", type: "page-type/quoin", slug: "one", tallies: [] }]] },
   })
 
   expect(withinOf(world, RECORD, null)?.carrying).toEqual([ONE_AT])

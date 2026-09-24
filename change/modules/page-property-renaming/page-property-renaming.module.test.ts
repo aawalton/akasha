@@ -24,7 +24,7 @@ const HOLDER_AT = "akasha/quoin/quoin.module.ts"
 
 const HOLDER_BODY = `export const quoin = {
   id: "kept",
-  pageTypeSlug: "module",
+  type: "page-type/module",
   slug: "quoin",
   wold: "ts",
   tallies: [{ wold: "ts" }, { slug: "one" }],

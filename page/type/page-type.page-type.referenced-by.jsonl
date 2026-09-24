@@ -41,6 +41,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/mechanical/page-type/rename-page-type/rename-page-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/modules/page-knowing/page-knowing.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/modules/page-property-carrying/page-property-carrying.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/modules/page-renaming/page-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/modules/page-type-renaming/page-type-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/modules/slug-renaming/slug-renaming.module.test.ts"}

@@ -12,7 +12,7 @@ const IMPORTED = `import type { OneThing } from "../one-thing.page-type.ts"`
 const BODY = `${IMPORTED}
 
 export const kept = {
-  pageTypeSlug: "one-thing",
+  type: "page-type/one-thing",
   slug: "kept",
 } as const satisfies OneThing
 `
@@ -46,8 +46,8 @@ test("each passage is answered as a replace rather than reached for", () => {
   expect(passages[1]).toEqual({ at: AT, old: "satisfies OneThing", new: "satisfies TwoThing" })
   expect(passages[2]).toEqual({
     at: AT,
-    old: `pageTypeSlug: "one-thing"`,
-    new: `pageTypeSlug: "page-type/two-thing"`,
+    old: `type: "page-type/one-thing"`,
+    new: `type: "page-type/two-thing"`,
   })
 })
 
@@ -107,7 +107,7 @@ test("a body stating no page type is refused", () => {
 test("a body stating the page type named already is refused", () => {
   const said = pageTypeRestated(worldHolding(BODY), { at: AT, to: "two/one-thing.page-type.ts" })
 
-  expect(said.refused).toBe("`one-thing` is the page type the body states already")
+  expect(said.refused).toBe("`page-type/one-thing` is the page type the body states already")
 })
 
 test("a body importing no type named for the page type that body states is refused", () => {
