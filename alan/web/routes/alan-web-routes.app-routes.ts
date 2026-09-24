@@ -16,6 +16,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-image",
     "route/alan-web-api-live-version",
     "route/alan-web-api-nav-icon",
+    "route/alan-web-api-page-file",
     "route/alan-web-api-page-types",
     "route/alan-web-api-page-write",
     "route/alan-web-api-pages",
