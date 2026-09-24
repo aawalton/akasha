@@ -185,7 +185,3 @@ export function decide(rule: Rule, subject: Subject, near: readonly Subject[]): 
   }
   return fired(rule.outcome, only.monarchId)
 }
-
-export function fires(decision: Decision): boolean {
-  return decision.kind === "categorize" || decision.kind === "reserve"
-}

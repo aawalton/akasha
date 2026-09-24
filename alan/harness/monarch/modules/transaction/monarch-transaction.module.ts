@@ -28,10 +28,6 @@ export const monarchTransaction = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An amount written out carries its sign and two places after the point.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A day gap is whole days from midnight UTC rather than elapsed time.",
     },
     {
