@@ -6,5 +6,4 @@
 {"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.code.ts"}
 {"propertySlug":"import","fileName":"service-health.module.code.ts","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.test.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-crash-looping-watch-service-reads-as-well-because-it-can-never-reach-failed.finding.ts","id":"01a08c9e-2390-75de-a39e-ca63a7cf1e1a"}
 {"propertySlug":"parts","path":"infrastructure/service/workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
