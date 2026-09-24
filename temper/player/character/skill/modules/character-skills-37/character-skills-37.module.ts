@@ -15,9 +15,5 @@ export const characterSkills37 = {
       decisionKind: "decision-kind/constraint",
       statement: "These entries are one unbroken run of the whole table's order.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An entry moved between runs breaks every build hash saved.",
-    },
   ],
 } as const satisfies Module

@@ -16,10 +16,6 @@ export const scribingGrimoires = {
       statement: "An entry's place in this table is the index a build hash has.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An entry moved to another place breaks every build hash saved.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "This table is divided across runs.",
     },

@@ -12,11 +12,6 @@ export const characterSkills = {
       statement:
         "Scribed skills follow the catalog skills rather than sorting among the catalog skills.",
     },
-
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A skill moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["SKILLS_DATA"],
 } as const satisfies Module
