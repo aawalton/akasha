@@ -13,6 +13,7 @@ import {
   worldAt,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import {
   idOf,
   indexedRepo,
@@ -26,6 +27,10 @@ import { pageType } from "akasha/page/type/page-type.page-type.ts"
 afterAll(scratch.sweep)
 
 const PAGE_AT = `${pageType.slug}/${page.slug}` as const
+
+const KEPT_AT = `${pageType.slug}/kept` as const
+
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
 
 const KEPT_TYPE = "akasha/kept.page-type.ts"
 
@@ -49,7 +54,7 @@ const TYPE_BODY = `export type Kept = { readonly id: string }
 
 ${pageOf({
   id: idOf("d"),
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "kept",
   pluralSlug: "kepts",
   extends: [PAGE_AT],
@@ -58,11 +63,11 @@ ${pageOf({
 function repoIn(): string {
   return indexedRepo({
     [KEPT_TYPE]: TYPE_BODY,
-    [ONE_PAGE]: pageOf({ id: idOf("e"), pageTypeSlug: "kept", slug: "one" }),
-    [TWO_PAGE]: pageOf({ id: idOf("f"), pageTypeSlug: "kept", slug: "two" }),
+    [ONE_PAGE]: pageOf({ id: idOf("e"), type: KEPT_AT, slug: "one" }),
+    [TWO_PAGE]: pageOf({ id: idOf("f"), type: KEPT_AT, slug: "two" }),
     [SPELLER_PAGE]: pageOf({
       id: idOf("c"),
-      pageTypeSlug: "module",
+      type: MODULE_AT,
       slug: "speller",
       code: "ts",
     }),
@@ -98,13 +103,10 @@ const KEPT_ROOT = repoIn()
 
 const TYPED_ROOT = indexedRepo({
   [KEPT_TYPE]: TYPE_BODY,
-  [TYPED_PAGE]: pageOf({ id: idOf("g"), pageTypeSlug: "kept", slug: "typed" }).replace(
-    '"pageTypeSlug": "kept"',
-    '"type": "page-type/kept"'
-  ),
+  [TYPED_PAGE]: pageOf({ id: idOf("g"), type: KEPT_AT, slug: "typed" }),
   [TYPER_PAGE]: pageOf({
     id: idOf("h"),
-    pageTypeSlug: "module",
+    type: MODULE_AT,
     slug: "typer",
     code: "ts",
   }),

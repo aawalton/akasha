@@ -64,6 +64,7 @@ import {
   bodyAt,
   knownOf,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import {
   bodyOf,
   HELD_CODE,
@@ -75,6 +76,7 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -107,7 +109,7 @@ test("a body that could not be read is refused", async () => {
 })
 
 test("a body stating no slug is refused", async () => {
-  const body = bodyOf({ id: idOf("8"), pageTypeSlug: "module" })
+  const body = bodyOf({ id: idOf("8"), type: `${pageType.slug}/${module.slug}` })
   const world = worldIn(scratch.rootFor("slug-"), bodyAt(HELD_PAGE, body))
   const said = await runChange(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])

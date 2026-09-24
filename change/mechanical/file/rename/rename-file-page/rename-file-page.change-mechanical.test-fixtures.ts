@@ -37,6 +37,10 @@ const ENTRIES_AT = `${fileProperty.slug}/${entries.slug}` as const
 
 const WORKSPACE_MANIFEST_AT = `${fileProperty.slug}/${workspaceManifest.slug}` as const
 
+const typeAt = (slug: string): string => `${pageType.slug}/${slug}`
+
+const PAGE_TYPE_AT = typeAt(pageType.slug)
+
 export function movesOf(said: Answer): readonly (readonly [string, string])[] {
   const found: (readonly [string, string])[] = []
   for (const one of said.edits) {
@@ -116,11 +120,11 @@ function packaged(bodies: Readonly<Record<string, string>>): string {
 }
 
 export const pagesAt: string = packaged({
-  [SEATED_PAGE]: pageOf({ id: oneId("01"), pageTypeSlug: "module", slug: SEATED_SLUG, code: "ts" }),
+  [SEATED_PAGE]: pageOf({ id: oneId("01"), type: MODULE_AT, slug: SEATED_SLUG, code: "ts" }),
   [SEATED_CODE]: "export const kept = 5\n",
   [WARDED_TYPE]: pageOf({
     id: oneId("02"),
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_AT,
     slug: "warded",
     pluralSlug: "warded",
     extends: [MODULE_AT],
@@ -130,38 +134,38 @@ export const pagesAt: string = packaged({
   }),
   [WARDED_PAGE]: pageOf({
     id: oneId("03"),
-    pageTypeSlug: "warded",
+    type: typeAt("warded"),
     slug: "warded-one",
     code: "ts",
   }),
   [WARDED_CODE]: "export const kept = 6\n",
   [WARDED_SOPS]: "kept: ENC[held]\n",
-  [SECOND_PAGE]: pageOf({ id: oneId("04"), pageTypeSlug: "warded", slug: "second" }),
-  [OWNED_PAGE]: pageOf({ id: oneId("05"), pageTypeSlug: "module", slug: "owned", code: "ts" }),
+  [SECOND_PAGE]: pageOf({ id: oneId("04"), type: typeAt("warded"), slug: "second" }),
+  [OWNED_PAGE]: pageOf({ id: oneId("05"), type: MODULE_AT, slug: "owned", code: "ts" }),
   [OWNED_CODE]: "export const kept = 7\n",
   [OWNED_UNDER]: "kept\n",
   "akasha/test-fixtures.file-property.ts": bodyOf({
     id: oneId("06"),
-    pageTypeSlug: "file-property",
+    type: typeAt(fileProperty.slug),
     slug: "test-fixtures",
     propertySlug: "test-fixtures",
   }),
   "akasha/page-property-entry.page-type.ts": bodyOf({
     id: oneId("07"),
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_AT,
     slug: "page-property-entry",
     extends: [PAGE_PROPERTY_AT],
     properties: [],
   }),
   "akasha/sessions.page-property-entry.ts": bodyOf({
     id: oneId("08"),
-    pageTypeSlug: "page-property-entry",
+    type: typeAt("page-property-entry"),
     slug: "sessions",
     propertySlug: "sessions",
   }),
   [WIDE_PAGE]: pageOf({
     id: oneId("09"),
-    pageTypeSlug: "module",
+    type: MODULE_AT,
     slug: "wide",
     code: "ts",
     testFixtures: "ts",
@@ -172,20 +176,20 @@ export const pagesAt: string = packaged({
   [WIDE_SESSIONS]: "{}\n",
   "akasha/file-property.page-type.ts": pageOf({
     id: oneId("0a"),
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_AT,
     slug: "file-property",
     pluralSlug: "file-properties",
     extends: [PAGE_PROPERTY_AT],
   }),
   "akasha/entries.file-property.ts": pageOf({
     id: oneId("0b"),
-    pageTypeSlug: fileProperty.slug,
+    type: typeAt(fileProperty.slug),
     slug: entries.slug,
     propertySlug: entries.propertySlug,
   }),
   "akasha/kept.page-type.ts": pageOf({
     id: oneId("0c"),
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_AT,
     slug: "kept",
     pluralSlug: "kepts",
     extends: [MODULE_AT],
@@ -199,18 +203,18 @@ export const pagesAt: string = packaged({
       },
     ],
   }),
-  [KEPT_PAGE]: pageOf({ id: oneId("0d"), pageTypeSlug: "kept", slug: "first" }),
+  [KEPT_PAGE]: pageOf({ id: oneId("0d"), type: typeAt("kept"), slug: "first" }),
   [KEPT_ENTRIES]: '{"kind":"add"}\n',
   "akasha/workspace-manifest.file-property.ts": pageOf({
     id: oneId("0e"),
-    pageTypeSlug: fileProperty.slug,
+    type: typeAt(fileProperty.slug),
     slug: workspaceManifest.slug,
     propertySlug: workspaceManifest.propertySlug,
     fileName: "package.json",
   }),
   [PACKAGE_TYPE_AT]: pageOf({
     id: oneId("0f"),
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_AT,
     slug: "workspace-package",
     pluralSlug: "workspace-packages",
     extends: [DOMAIN_AT],
@@ -218,12 +222,12 @@ export const pagesAt: string = packaged({
   }),
   "akasha/nine/nine.workspace-package.ts": pageOf({
     id: oneId("10"),
-    pageTypeSlug: "workspace-package",
+    type: typeAt("workspace-package"),
     slug: "nine",
     workspaceManifest: "json",
   }),
   [WAY_MANIFEST]: WAY_BODY,
-  [WAY_PAGE]: pageOf({ id: oneId("11"), pageTypeSlug: "module", slug: "ninth", code: "ts" }),
+  [WAY_PAGE]: pageOf({ id: oneId("11"), type: MODULE_AT, slug: "ninth", code: "ts" }),
   [WAY_CODE]: "export const kept = 8\n",
 })
 
@@ -247,7 +251,7 @@ export const HOLDER_CHILD = "akasha/holders/modules/holder-one/holder-one.module
 
 export const HOLDER_KEPT = "akasha/holders/pages/only-one.module.ts"
 
-const OTHER_VALUE = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
+const OTHER_VALUE = { id: idOf("f"), type: MODULE_AT, slug: OTHER_SLUG, code: "ts" }
 
 const statedAs = (value: Record<string, unknown>, named: string): string =>
   bodyOf(value).replace("export const it", `export const ${named}`)
@@ -255,13 +259,13 @@ const statedAs = (value: Record<string, unknown>, named: string): string =>
 export const otherAt: string = indexedRepo({
   [OTHER_PAGE]: statedAs(OTHER_VALUE, "otherOne"),
   [OTHER_CODE]: "export const kept = 2\n",
-  [SHARED_PAGE]: pageOf({ id: idOf("0"), pageTypeSlug: "module", slug: "shared-one", code: "ts" }),
+  [SHARED_PAGE]: pageOf({ id: idOf("0"), type: MODULE_AT, slug: "shared-one", code: "ts" }),
   [SHARED_CODE]: "export const kept = 9\n",
-  [SHARED_BESIDE]: pageOf({ id: idOf("d"), pageTypeSlug: "module", slug: "second-here" }),
-  [LONE_PAGE]: pageOf({ id: idOf("1"), pageTypeSlug: "module", slug: "lone-one" }),
-  [HOLDER_PAGE]: pageOf({ id: idOf("2"), pageTypeSlug: "module", slug: "holders" }),
-  [HOLDER_CHILD]: pageOf({ id: idOf("3"), pageTypeSlug: "module", slug: "holder-one" }),
-  [HOLDER_KEPT]: pageOf({ id: idOf("4"), pageTypeSlug: "module", slug: "only-one" }),
+  [SHARED_BESIDE]: pageOf({ id: idOf("d"), type: MODULE_AT, slug: "second-here" }),
+  [LONE_PAGE]: pageOf({ id: idOf("1"), type: MODULE_AT, slug: "lone-one" }),
+  [HOLDER_PAGE]: pageOf({ id: idOf("2"), type: MODULE_AT, slug: "holders" }),
+  [HOLDER_CHILD]: pageOf({ id: idOf("3"), type: MODULE_AT, slug: "holder-one" }),
+  [HOLDER_KEPT]: pageOf({ id: idOf("4"), type: MODULE_AT, slug: "only-one" }),
 })
 
 const TYPED_SLUG = "typed-one"
@@ -281,10 +285,10 @@ export function readerBody(named: string, at: string): string {
 export const typedAt: string = indexedRepo({
   [TYPED_PAGE]: `export type TypedOne = string\n\n${pageOf({
     id: idOf("d"),
-    pageTypeSlug: "module",
+    type: MODULE_AT,
     slug: TYPED_SLUG,
   })}`,
-  [READER_PAGE]: pageOf({ id: idOf("e"), pageTypeSlug: "module", slug: "reader", code: "ts" }),
+  [READER_PAGE]: pageOf({ id: idOf("e"), type: MODULE_AT, slug: "reader", code: "ts" }),
   [READER_CODE]: readerBody("TypedOne", `../five/${TYPED_SLUG}.module.ts`),
 })
 
@@ -293,7 +297,7 @@ export const SPELLER_CODE = "akasha/eight/speller.module.code.ts"
 export const heldAt: string = indexedRepo({
   "akasha/eight/speller.module.ts": pageOf({
     id: idOf("c"),
-    pageTypeSlug: "module",
+    type: MODULE_AT,
     slug: "speller",
     code: "ts",
   }),
@@ -303,11 +307,7 @@ export const heldAt: string = indexedRepo({
 export const ADDRESSED_PAGE = "akasha/twelve/addressed-one.module.ts"
 
 export const addressedAt: string = indexedRepo({
-  [ADDRESSED_PAGE]: pageOf({
-    id: idOf("b"),
-    pageTypeSlug: "module",
-    slug: "addressed-one",
-  }).replace('"pageTypeSlug": "module"', `"type": "${MODULE_AT}"`),
+  [ADDRESSED_PAGE]: pageOf({ id: idOf("b"), type: MODULE_AT, slug: "addressed-one" }),
 })
 
 export const RUNS: Reaching = running
@@ -328,7 +328,7 @@ export type Claiming = { readonly root: string; readonly world: World }
 
 export function claimingAt(): Claiming {
   const root = indexedRepo({
-    [CLAIMER_PAGE]: pageOf({ id: oneId("12"), pageTypeSlug: "module", slug: "claimer" }),
+    [CLAIMER_PAGE]: pageOf({ id: oneId("12"), type: MODULE_AT, slug: "claimer" }),
   })
   put(root, CLAIMER_UNDER, "export const routes = 1\n")
   const world = worldIn(root, textIn(root))

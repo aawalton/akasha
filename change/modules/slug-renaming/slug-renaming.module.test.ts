@@ -14,6 +14,7 @@ import {
   bodyAfter,
   bodyAt,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import {
   aType,
@@ -35,9 +36,13 @@ const PAGE = "akasha/one/held.module.ts"
 
 const KEPT = "kept"
 
+const MODULE_AT = `${pageType.slug}/${module.slug}` as const
+
+const RELATION_AT = `${pageType.slug}/relation-property` as const
+
 const WHOLE = `export const held = {
   id: "01a04a4a-0000-7000-8000-000000000008",
-  pageTypeSlug: "module",
+  type: "${MODULE_AT}",
   slug: "held",
 } as const
 `
@@ -77,8 +82,8 @@ test("a body stating no slug is refused", () => {
 })
 
 test("a body stating no page type is refused", () => {
-  const body = WHOLE.replace(`  pageTypeSlug: "module",\n`, "")
-  expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`pageTypeSlug\``)
+  const body = WHOLE.replace(`  type: "${MODULE_AT}",\n`, "")
+  expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`type\``)
 })
 
 test("a body stating no id is refused", () => {
@@ -142,11 +147,11 @@ test("a value the page states that is its own slug is restated with the slug", (
 })
 
 test("the page type a page states is left alone where its own slug spells the same", () => {
-  const body = WHOLE.replace(`  pageTypeSlug: "module",\n`, `  pageTypeSlug: "held",\n`)
+  const body = WHOLE.replace(`  type: "${MODULE_AT}",\n`, `  type: "${HELD_SLUG}",\n`)
   const world = worldIn(scratch.rootFor("slug-renaming-"), holding(body))
   const said = slugRenamed(world, { at: PAGE, to: KEPT })
   expect(said.refused).toBe(null)
-  expect(bodyAfter(said, world, PAGE)).toContain(`pageTypeSlug: "${HELD_SLUG}"`)
+  expect(bodyAfter(said, world, PAGE)).toContain(`type: "${HELD_SLUG}"`)
 })
 
 test("a slug a page of that page type carries already is refused", () => {
@@ -235,7 +240,7 @@ const KEYED_MODULE = aType(idOf("6"), "module", KEYED_ABOVE, KEYED_DECLARES)
 
 const KEYED_PROPERTY_PAGE = {
   id: idOf("d"),
-  pageTypeSlug: "relation-property",
+  type: RELATION_AT,
   slug: KEYED_PROPERTY,
   propertySlug: "held-note",
   definition: "a name a page writes under a key this slug does not spell",
@@ -244,7 +249,7 @@ const KEYED_PROPERTY_PAGE = {
 
 const KEYED_NAMER_PAGE = {
   id: "01a04a4a-0004-7000-8000-000000000001",
-  pageTypeSlug: "module",
+  type: MODULE_AT,
   slug: "keyed",
   definition: "a page naming another under such a key",
   [KEYED_KEY]: HELD_SLUG,
@@ -296,7 +301,7 @@ const RECORD_KIND = aType(recordedId("1"), "record-property", [`${pageType.slug}
 
 const FIELD_PAGE = {
   id: recordedId("2"),
-  pageTypeSlug: "relation-property",
+  type: RELATION_AT,
   slug: FIELD,
   propertySlug: "note",
   definition: "a name a record writes under a key another property carries too",
@@ -305,7 +310,7 @@ const FIELD_PAGE = {
 
 const RECORD_PAGE = {
   id: recordedId("3"),
-  pageTypeSlug: "record-property",
+  type: `${pageType.slug}/record-property`,
   slug: RECORD,
   propertySlug: RECORD,
   definition: "records each naming a page under that key",
@@ -314,7 +319,7 @@ const RECORD_PAGE = {
 
 const RECORDED_NAMER_PAGE = {
   id: recordedId("4"),
-  pageTypeSlug: "module",
+  type: MODULE_AT,
   slug: "recorded",
   definition: "a page naming another inside a record",
   heldNotes: [{ note: HELD_SLUG }],

@@ -33,13 +33,11 @@ const SLUG = "slug"
 
 const PAGE_TYPE = "type"
 
-const PAGE_TYPE_SLUG = "pageTypeSlug"
-
 const ID = "id"
 
 const NAME = "name"
 
-const ECHOES_NOT = new Set([SLUG, PAGE_TYPE, PAGE_TYPE_SLUG, ID, NAME])
+const ECHOES_NOT = new Set([SLUG, PAGE_TYPE, ID, NAME])
 
 export type Asked = {
   readonly at: string
@@ -115,10 +113,10 @@ export function slugRenamed(world: World, given: Asked): Said {
   const source = parsedAs(given.at, text)
   const said = statedIn(source)
   const slug = said.get(SLUG)
-  const pageType = said.get(PAGE_TYPE) ?? said.get(PAGE_TYPE_SLUG)
+  const pageType = said.get(PAGE_TYPE)
   const id = said.get(ID)
   if (slug === undefined) return refusing(`\`${given.at}\` states no \`${SLUG}\``)
-  if (pageType === undefined) return refusing(`\`${given.at}\` states no \`${PAGE_TYPE_SLUG}\``)
+  if (pageType === undefined) return refusing(`\`${given.at}\` states no \`${PAGE_TYPE}\``)
   if (id === undefined) return refusing(`\`${given.at}\` states no \`${ID}\``)
   const bound = exportedAs(slug.text)
   if (boundIn(source) !== bound) {
