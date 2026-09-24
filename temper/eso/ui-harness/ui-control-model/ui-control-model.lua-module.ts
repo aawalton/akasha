@@ -59,8 +59,15 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A method the model lacks is counted and answers with the control, so one load finds them all.",
+      statement: "A method the model lacks is counted, so one load finds them all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A getter the model lacks answers zeros, and a question it lacks answers false.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other method the model lacks answers with the control it was called on.",
     },
 
     {

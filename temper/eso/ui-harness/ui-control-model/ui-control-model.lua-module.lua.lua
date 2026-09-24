@@ -35,12 +35,24 @@ end
 local Control = {}
 
 local function passedOver(control) return control end
+local function measured() return 0, 0 end
+local function denied() return false end
+
+local ASKING = { "^Is%u", "^Has%u", "^Can%u", "^Was%u", "^Should%u", "^Does%u" }
+
+local function unmodelledAs(key)
+  if string.match(key, "^Get%u") ~= nil then return measured end
+  for _, shape in ipairs(ASKING) do
+    if string.match(key, shape) ~= nil then return denied end
+  end
+  return passedOver
+end
 
 setmetatable(Control, {
   __index = function(_, key)
     if type(key) ~= "string" or string.match(key, "^%u") == nil then return nil end
     unmodelled[key] = (unmodelled[key] or 0) + 1
-    return passedOver
+    return unmodelledAs(key)
   end,
 })
 
