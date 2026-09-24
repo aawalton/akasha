@@ -53,6 +53,16 @@ function asCompanionCompletion(value: unknown): CompanionCompletion {
   return cleanCompanionCompletionInput(value) as CompanionCompletion
 }
 
+const COMPANIONS_VARIABLES_NAME = "TemperCompanions_SavedVariables"
+
+function companionsTableIn(content: string): Record<string, unknown> | undefined {
+  if (!content.includes(COMPANIONS_VARIABLES_NAME)) return undefined
+  const root = parseLuaSavedVariablesFile(content, COMPANIONS_VARIABLES_NAME)
+  const defaultTable = asRecord(root.Default)
+  if (!defaultTable) return undefined
+  return asRecord(readFirstAccountWide(defaultTable)?.companions)
+}
+
 export function parseSavedVariablesContent(
   content: string,
   companionIdByDefId: (defId: number) => string | undefined
@@ -97,8 +107,8 @@ export function parseSavedVariablesContent(
     }
   }
 
-  const companionsRecord = asRecord(accountWide.companions)
-  const companionsTable = asRecordOrEmpty(accountWide.companions)
+  const companionsRecord = companionsTableIn(content) ?? asRecord(accountWide.companions)
+  const companionsTable = companionsRecord ?? asRecordOrEmpty(undefined)
   const companions: Record<string, { companionId: string; data: CompanionCompletion }> = {}
 
   for (const [defIdKey, companionEntry] of Object.entries(companionsTable)) {

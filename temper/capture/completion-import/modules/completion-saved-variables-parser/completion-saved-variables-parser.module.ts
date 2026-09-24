@@ -14,6 +14,11 @@ export const completionSavedVariablesParser = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Companions are read from `TemperCompanions_SavedVariables`, or else from the saved table.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Which companion a definition id names is asked of the caller.",
     },
     {
