@@ -27,6 +27,15 @@ export const uiHarness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The functions the game documents are loaded after the models, so a model's own wins.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A documented function no model defines answers the empty value of its kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A model takes what a constant is numbered from the capture rather than saying it.",
     },
     {

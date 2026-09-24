@@ -12,6 +12,10 @@ import {
   ESO_BANNED_GLOBALS,
   makeSandboxedLuaVm,
 } from "akasha/temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
+import {
+  engineReturnsTable,
+  returnsLua,
+} from "akasha/temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.code.ts"
 import { z } from "zod"
 
 const LUA_MODULE = "lua-module"
@@ -38,11 +42,20 @@ let cachedModels: readonly string[] | null = null
 
 let cachedConstants: readonly string[] | null = null
 
+let cachedReturns: readonly string[] | null = null
+
 function constantTexts(): readonly string[] {
   if (cachedConstants === null) {
     cachedConstants = constantsLua(engineConstantsTable(akashaRoot()))
   }
   return cachedConstants
+}
+
+function returnTexts(): readonly string[] {
+  if (cachedReturns === null) {
+    cachedReturns = returnsLua(engineReturnsTable(akashaRoot()))
+  }
+  return cachedReturns
 }
 
 function modelPathIn(root: string, slug: string): string {
@@ -167,7 +180,7 @@ export type OpenUiHarnessOptions = {
 export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise<UiHarness> {
   const vm = await makeSandboxedLuaVm({
     bannedGlobals: options.bannedGlobals ?? HARNESS_BANNED_GLOBALS,
-    loadedFirst: [...constantTexts(), ...modelTexts()],
+    loadedFirst: [...constantTexts(), ...modelTexts(), ...returnTexts()],
   })
   return {
     seed(name, value): undefined {
