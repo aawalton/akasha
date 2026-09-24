@@ -133,6 +133,10 @@ export const readoutWidget = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A widget's link names the one tap it was opened by beside that widget.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A widget carries how many taps that widget has taken.",
     },
     {

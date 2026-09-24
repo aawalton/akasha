@@ -42,12 +42,12 @@ export const deepLinkOpenSync = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A delivery naming a tap already counted counts nothing.",
+      statement:
+        "A tap made after the app was launched is told apart from one link arriving twice.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "A delivery naming no tap after the launch link is counted as no tap where the two links match.",
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a delivery counts is judged by widget-tap-link.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,12 +55,8 @@ export const deepLinkOpenSync = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The widget that launched the app is the only widget that loses a tap this way.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement:
-        "A tap made after the app was launched is told apart from one link arriving twice.",
+        "Only a link naming no tap loses a tap this way, and only on the widget that launched the app.",
     },
   ],
 } as const satisfies Module

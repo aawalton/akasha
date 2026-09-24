@@ -97,7 +97,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/stoplight/alan-harness-stoplight.domain.ts","id":"01a0655b-9cdd-7169-bede-e916a8a6bd42"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.ts","id":"01a09c80-78b1-747b-b16d-c003ab8e4aa7"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/content-pages-fs/content-pages-fs.module.ts","id":"01a0655d-daa6-7fba-9667-d8a69380ce58"}
-{"propertySlug":"decision-kind","path":"alan/web/modules/deep-link-open-sync/deep-link-open-sync.module.ts","id":"01a0655d-dab8-7c58-8569-1c6e3295591b"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.ts","id":"01a0c4bb-3270-7b2a-89ee-8fd6574e53c2"}
 {"propertySlug":"decision-kind","path":"change/kind/pages/change-mechanical.change-kind.ts","id":"01a05df1-e262-72e3-8f24-d6e5e4ed122d"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.ts","id":"01a08239-8d1d-7b49-a5c2-fc039de37378"}
