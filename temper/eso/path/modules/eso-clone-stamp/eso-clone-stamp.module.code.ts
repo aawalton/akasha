@@ -2,8 +2,6 @@ import { z } from "zod"
 
 const DOC_HEADER = /^h1\.\s+ESO UI Documentation for API Version\s+(\d+)\s*$/m
 
-const PROVENANCE_PREFIX = "Generated from the ~/esoui clone by "
-
 const ApiVersion = z.coerce.number().int().positive()
 
 const FirstCapture = z.unknown().transform((matched): string | null => {
@@ -16,13 +14,6 @@ function firstCaptureOf(re: RegExp, text: string): string | null {
   return FirstCapture.parse(re.exec(text))
 }
 
-const RegeneratingCommand = z
-  .string()
-  .min(1)
-  .refine((command) => !/^\s|\s$|[\r\n]/.test(command), {
-    message: "a regenerating command is written on one line with no space at either end",
-  })
-
 export function parseEsoDocApiVersion(docText: string): number {
   const captured = firstCaptureOf(DOC_HEADER, docText)
   if (captured === null) {
@@ -31,16 +22,4 @@ export function parseEsoDocApiVersion(docText: string): number {
     )
   }
   return ApiVersion.parse(captured)
-}
-
-export function esoCloneHeaderLines(
-  regeneratingCommand: string,
-  apiVersion: number
-): readonly [string, string] {
-  const command = RegeneratingCommand.parse(regeneratingCommand)
-  const version = ApiVersion.parse(apiVersion)
-  return [
-    `${PROVENANCE_PREFIX}${command}`,
-    `ESO-API-Version: ${version}  (source freshness marker)`,
-  ]
 }
