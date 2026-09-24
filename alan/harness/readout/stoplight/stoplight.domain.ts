@@ -4,7 +4,7 @@ export const stoplight = {
   id: "01a0655b-9cdc-7c65-845c-0fcbf73b73dc",
   type: "page-type/domain",
   slug: "stoplight",
-  definition: "a color saying where a reading is now",
+  definition: "a color that shows how Alan is doing",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "stoplight" },
     { partOfSpeech: "part-of-speech/noun", spelling: "stoplights" },
