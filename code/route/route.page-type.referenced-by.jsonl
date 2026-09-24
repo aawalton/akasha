@@ -23,6 +23,8 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-health/requests-api-health.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-live-version/requests-api-live-version.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-nav-icon/requests-api-nav-icon.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-page-events/requests-api-page-events.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-page-follow/requests-api-page-follow.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-page-types/requests-api-page-types.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-page-write/requests-api-page-write.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/requests-web/routes/requests-api-pages/requests-api-pages.route.ts"}

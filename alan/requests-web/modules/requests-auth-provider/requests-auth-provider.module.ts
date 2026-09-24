@@ -20,6 +20,10 @@ export const requestsAuthProvider = {
       statement: "The store is asked for the page types alone before anything is rendered.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The store follows each page it holds, signed in or not.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A slug naming no page type never comes ready, and every read waits behind it.",
     },

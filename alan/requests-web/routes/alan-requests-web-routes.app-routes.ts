@@ -11,6 +11,8 @@ export const alanRequestsWebRoutes = {
     "route/requests-api-health",
     "route/requests-api-live-version",
     "route/requests-api-nav-icon",
+    "route/requests-api-page-events",
+    "route/requests-api-page-follow",
     "route/requests-api-page-types",
     "route/requests-api-page-write",
     "route/requests-api-pages",
