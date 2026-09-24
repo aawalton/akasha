@@ -42,14 +42,7 @@ export const git = {
       decisionKind: "decision-kind/departure",
       statement: "A caller wanting a throw and a caller wanting nothing back reach for two names.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The git this repository has run for years sits outside akasha at `repo/git`.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The code `repo/git` holds beyond running a command belongs here.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Akasha makes no git worktree, and a tree pinned at a commit is a plain export.",
