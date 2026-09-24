@@ -23,6 +23,14 @@ export const useTemperImport = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A companion page is found by the address of the companion's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion page takes the companion's id as its slug and its name as its title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An account page made by this import is read back for its address.",
     },
   ],

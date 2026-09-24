@@ -9,6 +9,7 @@ import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import { companionIdIn } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import type {
   AccountCompletion,
   CharacterCompletion,
@@ -94,11 +95,16 @@ function mapCharacterRow(row: Record<string, unknown>): CompletionCharacterRow {
   }
 }
 
+function companionIdOf(value: unknown): string {
+  const address = parseString(value)
+  return companionIdIn(address) ?? address
+}
+
 function mapCompanionRow(row: Record<string, unknown>): CompletionCompanionRow {
   return {
     id: parseString(row.id),
     accountPage: stringIn(row.accountPage),
-    companionId: parseString(row.companionId),
+    companionId: companionIdOf(row.companionId),
     completion: parseCompanionCompletion(row.completion),
     sortOrder: parseOptionalNumber(row.displayOrder),
     roles: stringsIn(row.roles),

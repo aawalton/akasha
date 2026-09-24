@@ -6,6 +6,7 @@ import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { companionValuesOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import type {
   BuildHash,
@@ -78,11 +79,12 @@ export async function importCompanionFromHash(
     }
   }
 
+  const named = companionValuesOf(companionId)
   const { rows: userCompanions } = await getPages({
     pageTypeSlug: "temper-companion-progress",
     where: [
       { key: "accountPage", eq: accountPage },
-      { key: "companionId", eq: companionId },
+      { key: "companionId", eq: named.companionId },
     ],
     limit: 1,
   })
@@ -106,17 +108,13 @@ export async function importCompanionFromHash(
     if (entity) {
       await patchPage({
         pageTypeSlug: "temper-companion-progress",
-        where: [{ key: "companionId", eq: companionId }],
+        where: [{ key: "companionId", eq: named.companionId }],
         set: { liveBuildId: newBuildId },
       })
     } else {
       await createPage({
         pageTypeSlug: "temper-companion-progress",
-        properties: {
-          accountPage,
-          companionId,
-          liveBuildId: newBuildId,
-        },
+        properties: { ...named, accountPage, liveBuildId: newBuildId },
       })
     }
 

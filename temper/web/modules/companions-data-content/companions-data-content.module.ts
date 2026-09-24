@@ -15,5 +15,9 @@ export const companionsDataContent = {
       decisionKind: "decision-kind/departure",
       statement: "Any other build keeps its account address as its owner.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion's progress page is found by the address of the companion's page.",
+    },
   ],
 } as const satisfies Module

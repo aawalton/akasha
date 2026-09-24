@@ -13,6 +13,7 @@ import {
   mapBaseRolesToDisplayRoles,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { companionAddressOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useAllCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
@@ -64,7 +65,7 @@ export function CompanionsDataContent({
         pageTypeSlug: "temper-companion-progress",
         where: [
           { key: "accountPage", eq: accountPage },
-          { key: "companionId", eq: companionId },
+          { key: "companionId", eq: companionAddressOf(companionId) },
         ],
         set: { roles: [...roles] },
       })
@@ -190,7 +191,7 @@ export function CompanionsDataContent({
             pageTypeSlug: "temper-companion-progress",
             where: [
               { key: "accountPage", eq: accountPage },
-              { key: "companionId", eq: entity.companionId },
+              { key: "companionId", eq: companionAddressOf(entity.companionId) },
             ],
             set: { displayOrder: index },
           })

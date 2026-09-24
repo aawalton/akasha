@@ -7,6 +7,10 @@ import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutation/module
 import { parseSavedVariablesContent } from "akasha/temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
 import { getCompanionIdByDefId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
+  companionIdIn,
+  companionValuesOf,
+} from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
+import {
   ACCOUNT_PAGE_TYPE,
   addressOfSlug,
 } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
@@ -200,7 +204,10 @@ export function useTemperImport() {
           if (typeof row.companionId !== "string") continue
           const completion = readCompletion<CompanionCompletion>(row)
           if (completion !== undefined) {
-            existingCompanionCompletion.set(row.companionId, completion)
+            existingCompanionCompletion.set(
+              companionIdIn(row.companionId) ?? row.companionId,
+              completion
+            )
           }
         }
 
@@ -249,21 +256,18 @@ export function useTemperImport() {
           })
         )
 
-        const companionUpserts = companionEntries.map((entry) =>
-          runUpsertRef.current({
+        const companionUpserts = companionEntries.map((entry) => {
+          const named = companionValuesOf(entry.companionId)
+          return runUpsertRef.current({
             pageTypeSlug: "temper-companion-progress",
             where: [
               { key: "accountPage", eq: accountPage },
-              { key: "companionId", eq: entry.companionId },
+              { key: "companionId", eq: named.companionId },
             ],
-            set: {
-              accountPage,
-              companionId: entry.companionId,
-              completion: ENDING,
-            },
+            set: { ...named, accountPage, completion: ENDING },
             bodies: { completion: JSON.stringify(entry.merged) },
           })
-        )
+        })
 
         await Promise.all([...characterUpserts, ...companionUpserts])
 

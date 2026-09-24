@@ -33,6 +33,14 @@ export const companionImport = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A companion's progress page is found by the address of the companion's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A progress page made here takes the companion's id as slug and name as title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The build name is the companion and the main-hand weapon.",
     },
     {

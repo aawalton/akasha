@@ -22,6 +22,10 @@ export const useCompletion = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A companion row carries the companion id its companion page address names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A row shape here says what the query answers rather than what the domain holds.",
     },
     {
