@@ -5,7 +5,6 @@ export const smilingjennyWidget = {
   type: "page-type/ios-program",
   slug: "smilingjenny-widget",
   definition: "the tiles on Jenny's home screen",
-  bundleId: "me.smilingjenny.app.widgets",
   infoPlist: "plist",
   components: [
     "ios-component/alanwalton-stoplight-ring",
@@ -26,5 +25,4 @@ export const smilingjennyWidget = {
     "ios-component/tier",
   ],
   targetName: "SmilingJennyWidgetExtension",
-  profileName: "smilingjenny widget App Store",
 } as const satisfies IosProgram

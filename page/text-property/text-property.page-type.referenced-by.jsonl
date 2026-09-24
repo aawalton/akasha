@@ -240,7 +240,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/ios-app/properties/web-env-path.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/ios-app/properties/widget-bundle-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/ios-app/properties/widget-profile-name.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/ios-program/properties/profile-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/ios-program/properties/target-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/module/properties/page-body-readers.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/module/properties/reached-by-path.text-property.ts"}

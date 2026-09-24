@@ -16,19 +16,16 @@ export const iosProgram = {
     "ios-program/smilingjenny-decode-harness",
     "ios-program/smilingjenny-widget",
     "multi-relation-property/components",
-    "text-property/profile-name",
     "text-property/target-name",
   ],
   extends: ["page-type/domain"],
   properties: [
-    { pageProperty: "text-property/bundle-id", required: false, many: false },
     {
       pageProperty: "multi-relation-property/components",
       required: false,
       many: true,
       maxCount: null,
     },
-    { pageProperty: "text-property/profile-name", required: false, many: false },
     { pageProperty: "text-property/target-name", required: false, many: false },
     { pageProperty: "code-file-property/main", required: false, many: false },
     { pageProperty: "file-property/info-plist", required: false, many: false },
@@ -66,11 +63,12 @@ export const iosProgram = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A program Apple signs states the profile that program is signed against.",
+      statement: "The app a program is in states that program's name and signing profile.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A program shipped apart from the app that has that program states its own name.",
+      statement:
+        "A program shipped apart from the app that has that program states its own target.",
     },
   ],
   types: "ts",

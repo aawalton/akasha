@@ -5,7 +5,6 @@ export const alanwaltonWidget = {
   type: "page-type/ios-program",
   slug: "alanwalton-widget",
   definition: "the tiles on Alan's home screen",
-  bundleId: "com.alanwalton.app.widgets",
   infoPlist: "plist",
   entitlements: "entitlements",
   components: [
@@ -36,5 +35,4 @@ export const alanwaltonWidget = {
     "ios-component/alanwalton-stoplights-content",
   ],
   targetName: "ValuesWidgetExtension",
-  profileName: "alanwalton widget App Store",
 } as const satisfies IosProgram
