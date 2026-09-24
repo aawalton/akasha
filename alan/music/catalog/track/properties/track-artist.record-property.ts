@@ -5,8 +5,9 @@ export const trackArtist = {
   type: "page-type/record-property",
   slug: "track-artist",
   propertySlug: "track-artist",
-  definition: "an artist a provider credits on a track, as that provider names them",
+  definition: "an artist a provider credits on a track",
   properties: [
+    { pageProperty: "relation-property/credited-artist", required: false, many: false },
     { pageProperty: "text-property/external-id", required: false, many: false },
     { pageProperty: "text-property/artist-name", required: false, many: false },
   ],

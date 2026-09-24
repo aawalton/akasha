@@ -19,6 +19,7 @@ export const track = {
     "record-property/carried-by",
     "relation-property/release",
     "number-property/disc-number",
+    "relation-property/credited-artist",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
