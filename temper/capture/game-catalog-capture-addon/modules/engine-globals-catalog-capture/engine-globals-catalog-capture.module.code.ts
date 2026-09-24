@@ -19,8 +19,8 @@ function writableNumber(held: number): boolean {
 }
 
 function keepGlobal(this: void, found: Found, name: string): undefined {
-  const [shaped] = string.match(name, IN_CAPITALS)
-  if (shaped === undefined) return
+  const [shapedAt] = string.find(name, IN_CAPITALS)
+  if (shapedAt === undefined) return
   const held = _G[name]
   if (typeof held === "number") {
     if (writableNumber(held)) {

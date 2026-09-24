@@ -7,8 +7,8 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 const STRING_NAME = "^SI_[A-Z0-9_]+$"
 
 function keepString(this: void, strings: Record<string, string>, name: string): undefined {
-  const [shaped] = string.match(name, STRING_NAME)
-  if (shaped === undefined) return undefined
+  const [shapedAt] = string.find(name, STRING_NAME)
+  if (shapedAt === undefined) return undefined
   const held = _G[name]
   if (typeof held !== "number") return undefined
   const text = GetString(held)

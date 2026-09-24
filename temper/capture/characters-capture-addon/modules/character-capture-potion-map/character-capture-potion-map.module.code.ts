@@ -1,5 +1,7 @@
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
+
 const POTION_ITEM_ID_TO_INDEX: Record<number, number> = {
   [64710]: 1,
   [112427]: 2,
@@ -50,7 +52,8 @@ const POTION_ENCODED_TRAITS_TO_INDEX: Record<number, number> = {
   [9836315]: 45,
 }
 export function parsePotionData(itemLink: string): number {
-  const [potionData] = string.match(itemLink, ":(%d+)|h")
+  const [potionCapture] = string.match(itemLink, ":(%d+)|h")
+  const potionData = parseLuaCapture(potionCapture)
   if (potionData !== undefined) {
     return tonumber(potionData) ?? 0
   }
