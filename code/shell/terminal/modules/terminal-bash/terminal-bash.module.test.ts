@@ -5,6 +5,7 @@ import {
   generateBashInit,
   inAliasOrder,
 } from "akasha/code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"
+import { akashaCommand } from "akasha/code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"
 
 const ACCOUNTS: readonly AliasEntry[] = [
   { account: "ctw", aliasIndex: 3 },
@@ -54,8 +55,9 @@ describe("the set", () => {
     expect(said).toContain("alias gs='git status'")
   })
 
-  test("pushes through the one command that pushes rather than through git", () => {
-    expect(said).toContain("alias gp='akasha git push'")
+  test("pushes through the checkout's own command that pushes rather than through git", () => {
+    expect(said).toContain(`alias gp='${akashaCommand()} git push'`)
+    expect(said).toContain(`alias gp='"\${AKASHA_ROOT:-$HOME/repos/akasha}/`)
     expect(said).not.toContain("='git push")
   })
 

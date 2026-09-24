@@ -40,9 +40,8 @@ export const terminalBash = {
       statement: "Nothing here reads a page or the disk.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The `gp` alias reaches akasha on PATH where every launcher reaches the checkout's own.",
+      decisionKind: "decision-kind/departure",
+      statement: "The `gp` alias reaches the checkout's own akasha, as every launcher does.",
     },
   ],
 } as const satisfies Module

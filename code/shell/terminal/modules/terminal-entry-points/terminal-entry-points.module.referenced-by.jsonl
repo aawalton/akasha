@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"terminal-entry-points.module.code.ts","path":"code/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.code.ts"}
 {"propertySlug":"import","fileName":"terminal-entry-points.module.code.ts","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.code.ts"}
+{"propertySlug":"import","fileName":"terminal-entry-points.module.code.ts","path":"code/shell/terminal/modules/terminal-bash/terminal-bash.module.test.ts"}
 {"propertySlug":"import","fileName":"terminal-entry-points.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.test.ts"}
 {"propertySlug":"import","fileName":"terminal-entry-points.module.code.ts","path":"code/shell/terminal/modules/terminal-reload/terminal-reload.module.code.ts"}
 {"propertySlug":"import","fileName":"terminal-entry-points.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.code.ts"}
