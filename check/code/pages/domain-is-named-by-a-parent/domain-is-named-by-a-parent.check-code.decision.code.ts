@@ -31,7 +31,7 @@ export function partsOf(value: Value | null): readonly string[] {
   return held === null || held === undefined ? [] : namesIn(held)
 }
 
-export function namersOf(paged: Paged, id: string): readonly string[] {
+export function namersOf(paged: Pick<Paged, "index">, id: string): readonly string[] {
   const held = paged.index.idsNaming(id, PARTS)
   return held.length === 0 ? paged.index.idsNaming(id, PART_SLUGS) : held
 }

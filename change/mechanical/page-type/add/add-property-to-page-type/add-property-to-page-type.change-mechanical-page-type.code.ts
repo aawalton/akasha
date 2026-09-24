@@ -9,6 +9,7 @@ import {
   type Written,
 } from "akasha/change/modules/page-property-splicing/page-property-splicing.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { namersOf } from "akasha/check/code/pages/domain-is-named-by-a-parent/domain-is-named-by-a-parent.check-code.decision.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { typeSlugIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { identityOf } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
@@ -46,11 +47,10 @@ export function recordFor(given: Asked): string {
   return `{ ${held.join(", ")} }`
 }
 
-export function writtenFor(given: Asked): readonly Written[] {
-  return [
-    { written: "recorded", key: PROPERTIES, record: recordFor(given) },
-    { written: "listed", key: PARTS, value: JSON.stringify(given.property) },
-  ]
+export function writtenFor(given: Asked, owned: boolean): readonly Written[] {
+  const declared: Written = { written: "recorded", key: PROPERTIES, record: recordFor(given) }
+  if (owned) return [declared]
+  return [declared, { written: "listed", key: PARTS, value: JSON.stringify(given.property) }]
 }
 
 function clashingIn(world: World, given: Asked): readonly string[] {
@@ -79,13 +79,13 @@ function clashedOver(found: readonly string[], given: Asked): string {
 export function addPropertyToPageType(world: World, given: Asked): Said {
   const named = addressIn(given.property)
   if (named.kind !== QUALIFIED) return refusing(`\`${given.property}\` names no page property`)
-  if (world.index.listedAt(named.pageTypeSlug, named.slug)[0] === undefined) {
-    return refusing(`\`${given.property}\` names no page property`)
-  }
+  const listed = world.index.listedAt(named.pageTypeSlug, named.slug)[0]
+  if (listed === undefined) return refusing(`\`${given.property}\` names no page property`)
   const clashing = clashingIn(world, given)
   if (clashing.length > 0) return refusing(clashedOver(clashing, given))
   if (pageIn(world, given.at) === null) return refusing(`\`${given.at}\` names no page type`)
-  const made = editsFor(world, { path: given.at, written: writtenFor(given) })
+  const owned = namersOf(world, listed.id).length > 0
+  const made = editsFor(world, { path: given.at, written: writtenFor(given, owned) })
   return typeof made === "string" ? refusing(made) : stating(made)
 }
 

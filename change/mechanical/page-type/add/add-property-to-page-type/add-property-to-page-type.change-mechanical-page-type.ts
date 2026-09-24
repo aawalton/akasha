@@ -29,6 +29,15 @@ export const addPropertyToPageType = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A property another page names among its parts is declared here and named no part here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a page names it so is asked as the check on a page's parts asks it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A part is written after the parts that page type already names.",
     },
     {

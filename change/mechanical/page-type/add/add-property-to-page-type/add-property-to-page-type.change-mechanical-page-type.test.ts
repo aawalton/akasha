@@ -48,6 +48,7 @@ type Holding = {
   readonly path?: string
   readonly body?: string
   readonly elsewhere?: ReadonlyMap<string, boolean>
+  readonly namers?: readonly string[]
 }
 
 function carriedFor(slug: string, many: boolean): unknown {
@@ -62,6 +63,8 @@ function worldFor(holding: Holding = {}): World {
     root: "/nowhere",
     index: {
       listedAt: () => (holding.listed === false ? [] : [{ path, id: path }]),
+      idsNaming: (id: string, propertySlug: string) =>
+        id === path && propertySlug === "parts" ? (holding.namers ?? []) : [],
       pageByPath: () => (holding.owner === false ? null : { slug: "moot" }),
       pageTypesIn: () => new Set(elsewhere.keys()),
       propertiesOf: (slug: string) => {
@@ -94,6 +97,17 @@ test("the declaration and the part are one answer over one reading of the body",
 
   expect(body).toContain(`{ pageProperty: "${PROPERTY}", required: false, many: false },`)
   expect(body).toContain(`"moot-property/weight", "${PROPERTY}"`)
+})
+
+test("a property another page already names among its parts is declared and not named a part", () => {
+  const body = bodyFor({ namers: ["gathering-id"] })
+
+  expect(body).toContain(`{ pageProperty: "${PROPERTY}", required: false, many: false },`)
+  expect(body).toContain(`parts: ["moot-property/weight"],`)
+})
+
+test("a property no page names among its parts is named a part here", () => {
+  expect(bodyFor({ namers: [] })).toContain(`parts: ["moot-property/weight", "${PROPERTY}"],`)
 })
 
 test("a page type naming no part yet gains its first part under that same key", () => {
