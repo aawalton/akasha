@@ -126,7 +126,7 @@ URL_SCHEME="alanwalton"
 URL_SCHEME_NAME="${NATIVE_SHELL_BUNDLE_ID:?is unset. The ios-app page states bundle-id, and whatever runs this build exports it. This script states no value of its own to fall back to.}"
 
 if [[ ! -x "$PB" ]]; then
-  echo "ERROR: PlistBuddy not found at $PB (this script is macOS-only)." >&2
+  echo "ERROR: PlistBuddy not found at $PB (macOS only)." >&2
   exit 1
 fi
 if [[ ! -f "$PLIST" ]]; then
@@ -194,6 +194,8 @@ SEAM_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 . "$SEAM_DIR/picture-sending/alanwalton-picture-sending.shell-script.shell.sh"
 # shellcheck source=../picture-intent/alanwalton-picture-intent.shell-script.shell.sh
 . "$SEAM_DIR/picture-intent/alanwalton-picture-intent.shell-script.shell.sh"
+# shellcheck source=../widget-tap-intent/alanwalton-widget-tap-intent.shell-script.shell.sh
+. "$SEAM_DIR/widget-tap-intent/alanwalton-widget-tap-intent.shell-script.shell.sh"
 # shellcheck source=../app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh
 . "$SEAM_DIR/app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh"
 # shellcheck source=../device-secret/alanwalton-device-secret.shell-script.shell.sh

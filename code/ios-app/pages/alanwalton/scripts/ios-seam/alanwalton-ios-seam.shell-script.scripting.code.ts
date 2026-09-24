@@ -66,6 +66,7 @@ const BEFORE = [
   "picture-capture",
   "picture-sending",
   "picture-intent",
+  "widget-tap-intent",
   "app-shortcuts",
   "device-secret",
   "handover-sign-in",
@@ -268,7 +269,7 @@ function settingIn(places: Places): readonly string[] {
 function guardingIn(): readonly string[] {
   return [
     'if [[ ! -x "$PB" ]]; then',
-    '  echo "ERROR: PlistBuddy not found at $PB (this script is macOS-only)." >&2',
+    '  echo "ERROR: PlistBuddy not found at $PB (macOS only)." >&2',
     "  exit 1",
     "fi",
     'if [[ ! -f "$PLIST" ]]; then',
