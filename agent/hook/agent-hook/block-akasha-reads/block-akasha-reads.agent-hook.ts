@@ -36,6 +36,18 @@ export const blockAkashaReads = {
     },
     {
       decisionKind: "decision-kind/absence",
+      statement: "An image's bytes are no page's body.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A Read of an image's bytes is let through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image's bytes are told by the file property the image page type declares.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
       statement: "A search is no read.",
     },
     {

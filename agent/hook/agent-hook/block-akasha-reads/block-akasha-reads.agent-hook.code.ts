@@ -2,11 +2,27 @@ import { join, resolve } from "node:path"
 import { ranAsHook } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { shownIn } from "akasha/agent/hook/modules/path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
+import { image } from "akasha/infrastructure/inference/generation/image/image.page-type.ts"
+import { imageBytes } from "akasha/infrastructure/inference/generation/image/properties/image-bytes.file-property.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import {
+  FIRST_PART,
+  partedIn,
+  sectionedIn,
+} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const HOOK = "block-akasha-reads"
 
 const FILE_PATH = "file_path"
+
+const BYTES_PROPERTY = `file-property/${imageBytes.slug}`
+
+const BYTES_DECLARED = image.properties.find((one) => one.pageProperty === BYTES_PROPERTY)
+
+const BYTES_UNCOMMITTED =
+  BYTES_DECLARED !== undefined && "uncommitted" in BYTES_DECLARED && BYTES_DECLARED.uncommitted
+
+const BYTES_ENDINGS: readonly string[] = imageBytes.extensions
 
 export const SCOPE: readonly string[] = [
   "block-akasha-reads refuses a Read landing anywhere inside this checkout, and stands aside",
@@ -31,6 +47,9 @@ export const SCOPE: readonly string[] = [
   "    They record nothing either, so a file read that way remains unread.",
   `  - \`${INDEX_AT}\`. The index is derived from the pages and is nobody's required reading, so a`,
   "    Read of it is let through. The edits hook guards writing it; this does not guard reading it.",
+  "  - an image's bytes. The file an image page keeps its picture in is a picture, not a page body,",
+  "    and `akasha read` answers text. It is told by the name the image page type declares for its",
+  "    bytes: that property's slug, whether it is uncommitted, and the endings it is held under.",
   "  - a path inside akasha that is a link pointing out of it. The read lands outside, so it is",
   "    stood aside. A path is judged by where it lands, never by how it is spelled.",
   "  - another checkout of this repository. The folder is taken from where this hook's own file",
@@ -62,12 +81,28 @@ function refusalFor(shown: string): string {
   ].join("\n")
 }
 
+export function imageBytesAt(path: string): boolean {
+  if (BYTES_DECLARED === undefined) return false
+  const said = partedIn(path)
+  if (said === null || said.pageType !== image.slug || !BYTES_ENDINGS.includes(said.held)) {
+    return false
+  }
+  const held = sectionedIn(said)
+  return (
+    held !== null &&
+    held.propertySlug === imageBytes.propertySlug &&
+    held.part === FIRST_PART &&
+    held.uncommitted === BYTES_UNCOMMITTED
+  )
+}
+
 export function refusalIn(filePath: string, from: string, root: string): string | null {
   if (filePath.trim() === "") return null
   const here = settled(root)
   const at = settled(resolve(from, filePath))
   if (!insideOf(here, at)) return null
-  return insideOf(settled(join(here, INDEX_AT)), at) ? null : refusalFor(shownIn(here, at))
+  if (insideOf(settled(join(here, INDEX_AT)), at)) return null
+  return imageBytesAt(at) ? null : refusalFor(shownIn(here, at))
 }
 
 async function ran(): Promise<number> {

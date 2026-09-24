@@ -2,10 +2,13 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  imageBytesAt,
   refusalIn,
   SCOPE,
 } from "akasha/agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { image } from "akasha/infrastructure/inference/generation/image/image.page-type.ts"
+import { imageBytes } from "akasha/infrastructure/inference/generation/image/properties/image-bytes.file-property.ts"
 import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 const scratch = scratchWorld()
@@ -99,6 +102,53 @@ test("another checkout of the repository is not guarded from here", () => {
 test("a file that is not there yet is judged by where it would land", () => {
   const root = worldAt()
   expect(refusalIn(join(root, "one", "unborn.ts"), root, root)).not.toBeNull()
+})
+
+const PICTURE = "image-0123456789abcdef"
+
+function pictureAt(root: string, name: string): string {
+  mkdirSync(join(root, "pictures"), { recursive: true })
+  writeFileSync(join(root, "pictures", name), "bytes\n")
+  return join(root, "pictures", name)
+}
+
+test("an image's bytes are let through under each ending the image page type holds them in", () => {
+  const root = worldAt()
+  for (const ending of imageBytes.extensions) {
+    const at = pictureAt(root, `${PICTURE}.image.${imageBytes.propertySlug}.uncommitted.${ending}`)
+    expect(imageBytesAt(at)).toBe(true)
+    expect(refusalIn(at, root, root)).toBeNull()
+  }
+})
+
+test("the image page beside the bytes is refused", () => {
+  const root = worldAt()
+  expect(refusalIn(pictureAt(root, `${PICTURE}.image.ts`), root, root)).not.toBeNull()
+  expect(refusalIn(pictureAt(root, `${PICTURE}.image.uncommitted.ts`), root, root)).not.toBeNull()
+})
+
+test("bytes under an ending the image page type does not hold are refused", () => {
+  const root = worldAt()
+  const at = pictureAt(root, `${PICTURE}.image.${imageBytes.propertySlug}.uncommitted.ts`)
+  expect(refusalIn(at, root, root)).not.toBeNull()
+})
+
+test("a file named like bytes beside a page of another type is refused", () => {
+  const root = worldAt()
+  const at = pictureAt(root, `${PICTURE}.persona.${imageBytes.propertySlug}.uncommitted.jpg`)
+  expect(refusalIn(at, root, root)).not.toBeNull()
+})
+
+test("a file beside an image under another property is refused", () => {
+  const root = worldAt()
+  const at = pictureAt(root, `${PICTURE}.image.other.uncommitted.jpg`)
+  expect(refusalIn(at, root, root)).not.toBeNull()
+})
+
+test("the image page type declares the bytes it lets through", () => {
+  expect(image.properties.map((one) => one.pageProperty)).toContain(
+    `file-property/${imageBytes.slug}`
+  )
 })
 
 test("what this does not reach is printed, and names Grep and Glob and the index", () => {

@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"image-bytes.file-property.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts"}
+{"propertySlug":"import","fileName":"image-bytes.file-property.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"image-bytes.file-property.types.ts","path":"infrastructure/inference/generation/image/image.page-type.types.ts"}
 {"propertySlug":"page-property","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
