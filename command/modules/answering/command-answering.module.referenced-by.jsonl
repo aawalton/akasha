@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/subagent/modules/landing-again/subagent-landing-again.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"alan/harness/imessage/modules/command-reading/imessage-command-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"alan/harness/mobile-cli/modules/cut-fingerprint/cut-fingerprint.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.test.ts"}

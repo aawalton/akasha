@@ -47,7 +47,9 @@ import {
   lockHeldIn,
   loggedAt,
   MECHANICAL,
+  MINTED,
   messageIn,
+  minting,
   NOTHING_KEPT,
   OWN,
   PERSONA_AT,
@@ -130,12 +132,12 @@ test("a page that is no seat names no seat", () => {
 
 test("a page composed is landed by a program, and goes when the subagent is done", async () => {
   await underSeat(async (root) => {
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Explore", [], minting)).toEqual(WENT)
     const landed = landedAt(root, OWN)
     expect(landed).toContain('dispatchedAs: "Explore"')
     expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
     expect(landed).toContain(`agentId: "${SEAT_ID}--${OWN}"`)
-    expect(idIn(landed)).toBe(null)
+    expect(idIn(landed)).toMatch(MINTED)
     expect(messageIn(root)).toContain("a subagent states the agent id it acts under")
     expect(messageIn(root)).not.toContain(MECHANICAL)
     const at = pathOf(slugOf("akasha", OWN))
@@ -331,12 +333,13 @@ test("a call naming no kind writes nothing where history states none", async () 
   })
 })
 
-test("a page in history under another agent id is composed afresh", async () => {
+test("a page in history under another agent id is composed afresh, with an id of its own", async () => {
   await underSeat(async (root) => {
     heldInHistory(root, OWN, agentIdOf(ANOTHER, OWN), "Explore")
-    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", [], LANDS)).toEqual(WENT)
+    expect(await wrote(root, "akasha", SEAT_ID, OWN, "Task", [], minting)).toEqual(WENT)
     const landed = landedAt(root, OWN)
-    expect(idIn(landed)).toBe(null)
+    expect(idIn(landed)).toMatch(MINTED)
+    expect(idIn(landed)).not.toBe(HELD_ID)
     expect(landed).toContain('dispatchedAs: "Task"')
     expect(landed).toContain('assignmentSlug: "domain/akasha-system"')
   })

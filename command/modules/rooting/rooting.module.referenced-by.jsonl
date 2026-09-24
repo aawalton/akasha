@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/modules/reading/seat-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"alan/harness/capacity/modules/reading/capacity-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"alan/harness/cost/modules/reading/cost-reading.module.code.ts"}

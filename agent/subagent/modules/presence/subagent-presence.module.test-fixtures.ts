@@ -1,4 +1,4 @@
-import { cpSync, existsSync, readFileSync, rmSync } from "node:fs"
+import { existsSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { blobIdOf, recordRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
@@ -16,15 +16,28 @@ import {
   seatEditsAt,
   seatRefusalsAt,
 } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
-import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { declaringUnder } from "akasha/check/test/fixture/declaring/declaring.test-fixture.code.ts"
+import { subagent } from "akasha/agent/subagent/subagent.page-type.ts"
+import { changeMechanical } from "akasha/change/mechanical/change-mechanical.page-type.ts"
+import { addFile } from "akasha/change/mechanical/file/add/add-file/add-file.change-mechanical-file.ts"
+import { addFileCode } from "akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts"
+import { addFileOfAnyKind } from "akasha/change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts"
+import { addFilePage } from "akasha/change/mechanical/file/add/add-file-page/add-file-page.change-mechanical.ts"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { bodyIn } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { bodiesIn, ledgerAt } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { runAt } from "akasha/change/runner/modules/change-loading/change-loading.module.code.ts"
+import {
+  foldedOver,
+  type Landing,
+} from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import {
   bodyAt,
   writing,
 } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
-import { keptAt } from "akasha/file/disk/test-fixtures/kept-scratch/kept-scratch.test-fixture.code.ts"
 import { startedAt } from "akasha/file/modules/lock-holder/lock-holder.module.code.ts"
 import {
   holding,
@@ -32,8 +45,15 @@ import {
   refusedWhereHeld,
 } from "akasha/git/modules/holding/holding.module.code.ts"
 import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
-import { refreshedIn } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import {
+  aType,
+  indexedRepo,
+  pageOf,
+  bodyOf as valueBody,
+} from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { page } from "akasha/page/page.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const LANDED = { base: "", landed: [], formatted: [], said: [], wrong: [], commit: null }
 
@@ -93,40 +113,70 @@ const IMPORTING_AT = `${TREE}/holding.ts`
 
 const IMPORTING_BODY = 'import { held } from "./held.ts"\n\nexport const holding = held\n'
 
-let seed: string | null = null
+export const MINTED = /^[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[0-9a-f]{4}-[0-9a-f]{12}$/
 
-function seeding(root: string): string {
-  gitIn(root, ["init", "--quiet"])
-  gitIn(root, ["config", "user.email", "held@nowhere"])
-  gitIn(root, ["config", "user.name", "Held"])
-  for (const [path, body] of Object.entries(declaringUnder(TREE))) writing(root, path, body)
-  writing(root, IMPORTED_AT, IMPORTED_BODY)
-  writing(root, IMPORTING_AT, IMPORTING_BODY)
-  writing(root, SEAT_AT, SEAT_BODY)
-  gitIn(root, ["add", "-A"])
-  gitIn(root, ["commit", "--quiet", "-m", "first"])
-  refreshedIn(root, TREE)
+type Adding = { readonly slug: string; readonly type: string }
+
+const ADDING: readonly Adding[] = [
+  { slug: addFileOfAnyKind.slug, type: changeMechanical.slug },
+  { slug: addFilePage.slug, type: changeMechanical.slug },
+  { slug: addFileCode.slug, type: changeMechanical.slug },
+  { slug: addFile.slug, type: changeMechanicalFile.slug },
+]
+
+const CHANGES_AT = "change/mechanical/file/add"
+
+const changeId = (one: number): string => `01a0598f-0000-7000-8000-00000000000${String(one)}`
+
+function changesAdding(): Readonly<Record<string, string>> {
+  const found: Record<string, string> = {}
+  for (const [one, adding] of ADDING.entries()) {
+    const named = `${adding.slug}.${adding.type}`
+    const code = join(rootOf(import.meta.dir), CHANGES_AT, adding.slug, `${named}.code.ts`)
+    found[`${TREE}/changes/${named}.ts`] = pageOf({
+      id: changeId(one + 1),
+      pageTypeSlug: adding.type,
+      slug: adding.slug,
+      definition: "a change adding a file, reached from the checkout this test runs in",
+      code: "ts",
+    })
+    found[`${TREE}/changes/${named}.code.ts`] = `export { runChange } from "${code}"\n`
+  }
+  return found
+}
+
+const [SUBAGENT_TYPE_AT, SUBAGENT_TYPE] = aType(subagent.id, subagent.slug, [
+  `${pageType.slug}/${page.slug}`,
+])
+
+const SEEDED: Readonly<Record<string, string>> = {
+  ...changesAdding(),
+  [`${TREE}/${SUBAGENT_TYPE_AT}`]: valueBody(SUBAGENT_TYPE),
+  [IMPORTED_AT]: IMPORTED_BODY,
+  [IMPORTING_AT]: IMPORTING_BODY,
+  [SEAT_AT]: SEAT_BODY,
+}
+
+function seated(): string {
+  const root = indexedRepo(SEEDED)
   listedFiled(root, "seat", "akasha", [{ path: SEAT_AT, id: SEAT_ID }])
   return root
 }
 
-function seedIn(): string {
-  seed ??= seeding(keptAt("subagent-presence-seed-"))
-  return seed
-}
-
-function seated(root: string): string {
-  cpSync(seedIn(), root, { recursive: true })
-  return root
+export const minting: Landing = async (root, changes, message) => {
+  const said = await foldedOver(ledgerAt(root, bodyIn(root), runAt), changes)
+  if (said.refused !== null) return { refusals: [said.refused], code: DATA }
+  for (const [path, body] of bodiesIn(said, bodyIn(root))) {
+    if (body === null) rmSync(join(root, path), { force: true })
+    else writing(root, path, body)
+  }
+  gitIn(root, ["add", "-A"])
+  gitIn(root, ["commit", "--quiet", "-m", message])
+  return LANDED
 }
 
 export async function underSeat(act: (root: string) => Promise<void>): Promise<undefined> {
-  const world = scratchWorld()
-  try {
-    await act(seated(world.rootFor("subagent-presence-")))
-  } finally {
-    world.sweep()
-  }
+  await act(seated())
 }
 
 export function inScratch(act: (root: string) => void): undefined {
@@ -143,8 +193,7 @@ export async function inTwoScratch(
 ): Promise<undefined> {
   const world = scratchWorld()
   try {
-    const root = seated(world.rootFor("subagent-presence-"))
-    await act(root, world.rootFor("subagent-presence-logs-"))
+    await act(seated(), world.rootFor("subagent-presence-logs-"))
   } finally {
     world.sweep()
   }
