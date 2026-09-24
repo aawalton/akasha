@@ -4,8 +4,9 @@ export const royalRoad = {
   id: "01a0657f-4492-7000-a3fc-56efd626beaa",
   type: "page-type/domain",
   slug: "royal-road",
-  definition: "the pages Royal Road serves, turned into fictions and chapters",
+  definition: "a page for each story on Royal Road",
   parts: [
+    "domain/royal-road-site",
     "module/royal-road-pages",
     "module/royal-road-syncing",
     "service-workstation/royal-road-sync",
