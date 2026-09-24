@@ -172,5 +172,9 @@ export const graphPredicateClosure = {
       decisionKind: "decision-kind/departure",
       statement: "Where no edge leads from one node to the other, no way is answered.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a node reaches is read off the closure's edges, and holds that node.",
+    },
   ],
 } as const satisfies Module

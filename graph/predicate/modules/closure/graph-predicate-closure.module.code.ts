@@ -171,6 +171,10 @@ function cameFromIn(taken: Taken, from: string, until: string | null): ReadonlyM
   return came
 }
 
+export function reachedFrom(taken: Taken, at: string): ReadonlySet<string> {
+  return new Set([at, ...cameFromIn(taken, at, null).keys()])
+}
+
 export function wayFrom(taken: Taken, from: string, to: string): readonly string[] | null {
   if (from === to) return [from]
   const came = cameFromIn(taken, from, to)

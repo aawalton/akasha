@@ -18,7 +18,7 @@ import {
 import { typeDeclaration } from "akasha/code/type-declaration/type-declaration.page-type.ts"
 import {
   type Asked,
-  reachingOf,
+  reachedFrom,
   takenIn,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { atLoadImports } from "akasha/graph/predicate/pages/at-load-imports/at-load-imports.graph-predicate.ts"
@@ -326,22 +326,6 @@ function settersOf(modules: readonly Module[]): ReadonlyMap<string, readonly str
   return found
 }
 
-function reachedFrom(
-  at: string,
-  reaching: ReadonlyMap<string, readonly string[]>
-): ReadonlySet<string> {
-  const seen = new Set<string>([at])
-  const queue: string[] = [at]
-  for (let one = queue.shift(); one !== undefined; one = queue.shift()) {
-    for (const next of reaching.get(one) ?? []) {
-      if (seen.has(next)) continue
-      seen.add(next)
-      queue.push(next)
-    }
-  }
-  return seen
-}
-
 function every(): boolean {
   return true
 }
@@ -358,10 +342,10 @@ function unreachedIn(
   )
   if (readers.length === 0) return []
   const seeds = [...(addon.entry === null ? [] : [addon.entry]), ...addon.modules]
-  const reaching = reachingOf(takenIn(atLoadImports, seeds, asked))
+  const taken = takenIn(atLoadImports, seeds, asked)
   const found: Unreached[] = []
   for (const one of readers) {
-    const reached = reachedFrom(one.path, reaching)
+    const reached = reachedFrom(taken, one.path)
     for (const name of one.reads) {
       const held = setters.get(name)
       if (held === undefined || held.some((path) => reached.has(path))) continue

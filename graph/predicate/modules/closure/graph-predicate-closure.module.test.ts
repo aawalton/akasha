@@ -27,6 +27,7 @@ import {
 import {
   closureOf,
   loopsThrough,
+  reachedFrom,
   takenIn,
   wayFrom,
 } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
@@ -291,8 +292,10 @@ test("an edge coming in is answered from the file naming the seed to the seed", 
   ])
 })
 
-test("the edge closing a cycle is answered though the node it reaches was taken in already", () => {
+test("the edge closing a cycle is answered, and the way back along it is the loop it closes", () => {
   const taken = ringOut()
+
+  expect(wayFrom(taken, SECOND_AT, FIRST_AT)).toEqual([SECOND_AT, FIRST_AT])
 
   expect(taken.nodes).toEqual([FIRST_AT, SECOND_AT])
   expect(taken.edges).toEqual([
@@ -398,17 +401,14 @@ test("a node naming itself is a loop of that node alone", () => {
   expect(loopsOver({ [FIRST_AT]: [FIRST_AT] })).toEqual([[FIRST_AT]])
 })
 
-test("a way runs along the fewest edges, and none is answered where no edge leads on", () => {
+test("a way runs along the fewest edges, and a node reaches what its ways lead to", () => {
   const taken = chainOut()
 
   expect(wayFrom(taken, FIRST_AT, THIRD_AT)).toEqual([FIRST_AT, SECOND_AT, THIRD_AT])
   expect(wayFrom(taken, FIRST_AT, FIRST_AT)).toEqual([FIRST_AT])
   expect(wayFrom(taken, THIRD_AT, FIRST_AT)).toBeNull()
   expect(wayFrom(chainOut("./third.page.ts"), FIRST_AT, THIRD_AT)).toEqual([FIRST_AT, THIRD_AT])
-})
-
-test("a way back from a node's import to that node is the loop that import closes", () => {
-  expect(wayFrom(ringOut(), SECOND_AT, FIRST_AT)).toEqual([SECOND_AT, FIRST_AT])
+  expect([...reachedFrom(taken, SECOND_AT)].sort()).toEqual([SECOND_AT, THIRD_AT])
 })
 
 test("two rings apart are answered as two loops, and the loops through a node hold it", () => {
