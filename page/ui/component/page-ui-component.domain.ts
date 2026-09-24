@@ -90,7 +90,6 @@ export const pageUiComponent = {
     "module/page-title-properties",
     "module/pages-by-relation-content",
     "module/position-fraction",
-    "module/position-write-event",
     "module/progress-property-badge",
     "module/property-badge",
     "module/property-badge-drawings",

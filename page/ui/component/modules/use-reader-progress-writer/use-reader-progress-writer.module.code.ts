@@ -1,7 +1,6 @@
 "use client"
 
 import { clampFraction } from "akasha/page/ui/component/modules/position-fraction/position-fraction.module.code.ts"
-import { emitPositionWrite } from "akasha/page/ui/component/modules/position-write-event/position-write-event.module.code.ts"
 import { computeReadProgress } from "akasha/page/ui/component/modules/read-progress/read-progress.module.code.ts"
 import type { ReaderPositionAnchor } from "akasha/page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
@@ -92,7 +91,6 @@ export function useReaderProgressWriter(args: ReaderProgressWriterArgs): {
             propertyId: progressPropertyId,
             value: next,
           })
-          emitPositionWrite(idRef.current, next)
         }
       }, 1500)
     }

@@ -2309,7 +2309,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/page-title-properties/page-title-properties.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/position-fraction/position-fraction.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/position-write-event/position-write-event.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/progress-property-badge/progress-property-badge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/property-badge-drawings/property-badge-drawings.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/property-badge/property-badge.module.ts"}
