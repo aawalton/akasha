@@ -1,6 +1,6 @@
 import { componentTestMissingDom } from "akasha/check/test/modules/dom-guarding/dom-guarding.module.code.ts"
 
-if (componentTestMissingDom(process.argv, typeof globalThis.document !== "undefined")) {
+if (componentTestMissingDom(process.argv, "document" in globalThis)) {
   throw new Error(
     [
       "Component test invoked without a DOM (document is not defined).",
