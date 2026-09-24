@@ -10,7 +10,7 @@ export const theTowerTheDeepDen = {
   within: "place/the-tower-floor-05",
   depth: 5,
   description:
-    "The gold thins. This room is colder, the welcome threadbare — the illusion working harder over something it can barely cover. There are figures here too, and now they throw shadows AND reflections, and the air is warm where they stand. Every single tell you climbed to is being faked at once. Under the fraying gold you catch the real room beneath: bare wet stone, a midden of what the haven has eaten — packs, boots, bones, a long time's worth of climbers who sat down to rest.",
+    "A low, wet, cold stone chamber reeking of old bone, sloping down toward the Host's Seat — the real room the haven was painted over. Its floor is a midden of what the haven ate: packs, boots and bones, a long time's worth of climbers who sat down to rest.",
   exits: [
     { to: "place/the-tower-the-long-gallery", way: "back to the Long Gallery" },
     { to: "place/the-tower-the-hosts-seat", way: "forward / down-slope to the Host's Seat" },
