@@ -15,7 +15,7 @@ export async function lastLinesOf(path: string, many: number): Promise<readonly 
       const buffer = Buffer.alloc(chunk)
       await handle.read(buffer, 0, chunk, at)
       held = buffer.toString("utf8") + held
-      lines = held.match(/\n/g)?.length ?? 0
+      lines = held.split("\n").length - 1
     }
     const every = held.split("\n")
     const last = every.at(-1) === "" ? every.slice(0, -1) : every
