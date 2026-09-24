@@ -6,6 +6,22 @@ export const tokenValues = {
   slug: "token-values",
   definition: "the custom properties holding every color, space and measure",
   styles: "css",
+  colors: [
+    { name: "surface-0", color: "color/soot" },
+    { name: "surface-1", color: "color/charcoal" },
+    { name: "surface-2", color: "color/graphite" },
+    { name: "surface-3", color: "color/slate" },
+    { name: "surface-4", color: "color/ash" },
+    { name: "primary", color: "color/chalk" },
+    { name: "secondary", color: "color/silver" },
+    { name: "tertiary", color: "color/stone" },
+    { name: "green", color: "color/green" },
+    { name: "blue", color: "color/blue" },
+    { name: "purple", color: "color/purple" },
+    { name: "yellow", color: "color/yellow" },
+    { name: "orange", color: "color/orange" },
+    { name: "red", color: "color/red" },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
