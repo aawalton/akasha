@@ -3503,6 +3503,7 @@
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/affinity-advance/affinity-advance.game-mechanic.ts","id":"01a0c4ff-1ec4-7a67-a152-8087ed5bb361"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/affinity-bias/affinity-bias.game-mechanic.ts","id":"01a0c4fc-db9f-78e8-bbf1-08b88eea6583"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts","id":"01a0c47f-725d-7d9c-9fd8-45724688d64d"}
+{"propertySlug":"decision-kind","path":"story/game/mechanic/pages/creature-intent/creature-intent.game-mechanic.ts","id":"01a0d3e8-280b-72a9-a759-0650ca05bd2a"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/essence-absorption/essence-absorption.game-mechanic.ts","id":"01a0c506-b2d7-7a71-adff-ca0e9c867ef6"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/leveling/leveling.game-mechanic.ts","id":"01a0c486-35ba-793b-b74b-bcb463138ca2"}
 {"propertySlug":"decision-kind","path":"story/game/mechanic/pages/phys-atk/phys-atk.game-mechanic.ts","id":"01a0c473-6eee-71da-89a1-85de833a7921"}

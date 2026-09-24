@@ -39,6 +39,7 @@ export const theTower = {
     "game-mechanic/essence-absorption",
     "game-mechanic/skill-bonus",
     "game-mechanic/skill-advance",
+    "game-mechanic/creature-intent",
   ],
   attributes: [
     "game-attribute/finesse",

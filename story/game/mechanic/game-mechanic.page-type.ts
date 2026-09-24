@@ -41,6 +41,7 @@ export const gameMechanic = {
     "game-mechanic/skill-advance",
     "module/dice-rolling",
     "module/mechanic-settling",
+    "game-mechanic/creature-intent",
   ],
   decisions: [
     {

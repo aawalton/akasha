@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/affinity-ladder/affinity-ladder.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/attribute-check/attribute-check.game-mechanic.ts"}
+{"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/creature-intent/creature-intent.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/essence-absorption/essence-absorption.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/focus-max/focus-max.game-mechanic.ts"}
 {"propertySlug":"import","fileName":"game-mechanic.page-type.types.ts","path":"story/game/mechanic/pages/hp-max/hp-max.game-mechanic.ts"}
