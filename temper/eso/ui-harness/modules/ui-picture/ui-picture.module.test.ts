@@ -141,6 +141,20 @@ describe("pictureHtml", () => {
     expect(html).toContain("box-shadow:inset 0 0 0 1px rgba(255, 255, 255, 0.1)")
   })
 
+  test("draws an edge with no file as a solid line as wide as its size", () => {
+    const html = pictureHtml(
+      control({
+        name: "FrameBG",
+        controlType: CT_BACKDROP,
+        width: 10,
+        height: 10,
+        edgeColor: [0, 0, 0, 1],
+        edgeSize: 2,
+      })
+    )
+    expect(html).toContain("box-shadow:inset 0 0 0 2px rgba(0, 0, 0, 1)")
+  })
+
   test("draws an edge texture with no edge color untinted", () => {
     const html = pictureHtml(
       control({

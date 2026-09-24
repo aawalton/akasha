@@ -311,10 +311,9 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
         })
   if (one.controlType === CT_BACKDROP) {
     const middle = asCss(one.centerColor ?? CLEAR)
+    const wide = one.edgeTexture === undefined ? (one.edgeSize ?? 0) : 1
     const edge =
-      one.edgeTexture === undefined
-        ? ""
-        : `box-shadow:inset 0 0 0 1px ${asCss(one.edgeColor ?? UNTINTED)};`
+      wide > 0 ? `box-shadow:inset 0 0 0 ${wide}px ${asCss(one.edgeColor ?? UNTINTED)};` : ""
     return `<div class="c"${told} style="${place}${fade}background:${middle};${edge}"></div>`
   }
   if (one.controlType === CT_LABEL || one.controlType === CT_BUTTON) {

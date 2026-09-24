@@ -61,7 +61,11 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A backdrop given no edge texture is drawn with no edge, whatever its edge color.",
+      statement: "A backdrop given neither an edge texture nor an edge size is drawn with no edge.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An edge given a size and no texture is a solid line as wide as that size.",
     },
     {
       decisionKind: "decision-kind/departure",
