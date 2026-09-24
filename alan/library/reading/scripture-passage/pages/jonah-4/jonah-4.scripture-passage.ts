@@ -6,7 +6,6 @@ export const jonah4 = {
   slug: "jonah-4",
   title: "Jonah 4",
   partOfCollections: ["scripture-collection/jonah"],
-  book: "Jonah",
   position: 4,
   ownLength: 0,
   ownProgress: 0,

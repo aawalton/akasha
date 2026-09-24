@@ -6,7 +6,6 @@ export const daniel1 = {
   slug: "daniel-1",
   title: "Daniel 1",
   partOfCollections: ["scripture-collection/daniel"],
-  book: "Daniel",
   position: 1,
   ownLength: 0,
   ownProgress: 0,

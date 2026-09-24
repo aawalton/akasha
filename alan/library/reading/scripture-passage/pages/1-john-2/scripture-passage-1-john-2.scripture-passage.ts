@@ -6,7 +6,6 @@ export const scripturePassage1John2 = {
   slug: "scripture-passage-1-john-2",
   title: "1 John 2",
   partOfCollections: ["scripture-collection/scripture-collection-1-john"],
-  book: "1 John",
   position: 2,
   ownLength: 0,
   ownProgress: 0,

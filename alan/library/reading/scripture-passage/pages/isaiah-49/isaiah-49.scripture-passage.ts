@@ -6,7 +6,6 @@ export const isaiah49 = {
   slug: "isaiah-49",
   title: "Isaiah 49",
   partOfCollections: ["scripture-collection/isaiah"],
-  book: "Isaiah",
   position: 49,
   ownLength: 0,
   ownProgress: 0,

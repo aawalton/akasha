@@ -6,7 +6,6 @@ export const ezekiel17 = {
   slug: "ezekiel-17",
   title: "Ezekiel 17",
   partOfCollections: ["scripture-collection/ezekiel"],
-  book: "Ezekiel",
   position: 17,
   ownLength: 0,
   ownProgress: 0,

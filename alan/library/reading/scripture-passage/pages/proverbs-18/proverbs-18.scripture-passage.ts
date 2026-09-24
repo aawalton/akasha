@@ -6,7 +6,6 @@ export const proverbs18 = {
   slug: "proverbs-18",
   title: "Proverbs 18",
   partOfCollections: ["scripture-collection/proverbs"],
-  book: "Proverbs",
   position: 18,
   ownLength: 0,
   ownProgress: 0,

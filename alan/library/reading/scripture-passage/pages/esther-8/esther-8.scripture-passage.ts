@@ -6,7 +6,6 @@ export const esther8 = {
   slug: "esther-8",
   title: "Esther 8",
   partOfCollections: ["scripture-collection/esther"],
-  book: "Esther",
   position: 8,
   ownLength: 0,
   ownProgress: 0,

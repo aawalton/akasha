@@ -6,7 +6,6 @@ export const colossians3 = {
   slug: "colossians-3",
   title: "Colossians 3",
   partOfCollections: ["scripture-collection/colossians"],
-  book: "Colossians",
   position: 3,
   ownLength: 0,
   ownProgress: 0,

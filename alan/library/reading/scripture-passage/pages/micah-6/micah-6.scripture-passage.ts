@@ -6,7 +6,6 @@ export const micah6 = {
   slug: "micah-6",
   title: "Micah 6",
   partOfCollections: ["scripture-collection/micah"],
-  book: "Micah",
   position: 6,
   ownLength: 0,
   ownProgress: 0,

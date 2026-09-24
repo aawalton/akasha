@@ -6,7 +6,6 @@ export const obadiah1 = {
   slug: "obadiah-1",
   title: "Obadiah 1",
   partOfCollections: ["scripture-collection/obadiah"],
-  book: "Obadiah",
   position: 1,
   ownLength: 0,
   ownProgress: 0,

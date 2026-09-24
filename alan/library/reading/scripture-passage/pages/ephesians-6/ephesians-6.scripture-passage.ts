@@ -6,7 +6,6 @@ export const ephesians6 = {
   slug: "ephesians-6",
   title: "Ephesians 6",
   partOfCollections: ["scripture-collection/ephesians"],
-  book: "Ephesians",
   position: 6,
   ownLength: 0,
   ownProgress: 0,

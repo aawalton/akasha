@@ -6,7 +6,6 @@ export const ruth2 = {
   slug: "ruth-2",
   title: "Ruth 2",
   partOfCollections: ["scripture-collection/ruth"],
-  book: "Ruth",
   position: 2,
   ownLength: 0,
   ownProgress: 0,

@@ -6,7 +6,6 @@ export const isaiah402831 = {
   slug: "isaiah-40-28-31",
   title: "Isaiah 40:28-31",
   partOfCollections: ["scripture-collection/isaiah"],
-  book: "Isaiah",
   translation: "web",
   position: 11,
   passageText: "txt",

@@ -6,7 +6,6 @@ export const mark1 = {
   slug: "mark-1",
   title: "Mark 1",
   partOfCollections: ["scripture-collection/mark"],
-  book: "Mark",
   position: 1,
   ownLength: 0,
   ownProgress: 0,

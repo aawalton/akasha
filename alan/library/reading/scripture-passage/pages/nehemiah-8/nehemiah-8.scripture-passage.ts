@@ -6,7 +6,6 @@ export const nehemiah8 = {
   slug: "nehemiah-8",
   title: "Nehemiah 8",
   partOfCollections: ["scripture-collection/nehemiah"],
-  book: "Nehemiah",
   position: 8,
   ownLength: 0,
   ownProgress: 0,

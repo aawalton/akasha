@@ -178,7 +178,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-plan-key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-section.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-work.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/reading/scripture-passage/properties/scripture-book.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/watching/episode/properties/still-path.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/watching/properties/genres.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"alan/library/watching/properties/imdb-id.text-property.ts"}

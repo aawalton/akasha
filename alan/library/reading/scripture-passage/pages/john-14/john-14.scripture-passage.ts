@@ -6,7 +6,6 @@ export const john14 = {
   slug: "john-14",
   title: "John 14",
   partOfCollections: ["scripture-collection/john"],
-  book: "John",
   position: 14,
   ownLength: 0,
   ownProgress: 0,

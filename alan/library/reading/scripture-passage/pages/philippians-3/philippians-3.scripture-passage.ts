@@ -6,7 +6,6 @@ export const philippians3 = {
   slug: "philippians-3",
   title: "Philippians 3",
   partOfCollections: ["scripture-collection/philippians"],
-  book: "Philippians",
   position: 3,
   ownLength: 0,
   ownProgress: 0,

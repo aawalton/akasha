@@ -6,7 +6,6 @@ export const scripturePassage2Corinthians8 = {
   slug: "scripture-passage-2-corinthians-8",
   title: "2 Corinthians 8",
   partOfCollections: ["scripture-collection/scripture-collection-2-corinthians"],
-  book: "2 Corinthians",
   position: 8,
   ownLength: 0,
   ownProgress: 0,

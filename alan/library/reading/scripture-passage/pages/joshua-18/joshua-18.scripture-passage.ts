@@ -6,7 +6,6 @@ export const joshua18 = {
   slug: "joshua-18",
   title: "Joshua 18",
   partOfCollections: ["scripture-collection/joshua"],
-  book: "Joshua",
   position: 18,
   ownLength: 0,
   ownProgress: 0,

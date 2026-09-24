@@ -6,7 +6,6 @@ export const psalms84 = {
   slug: "psalms-84",
   title: "Psalms 84",
   partOfCollections: ["scripture-collection/psalms"],
-  book: "Psalms",
   position: 84,
   ownLength: 0,
   ownProgress: 0,

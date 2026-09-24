@@ -6,7 +6,6 @@ export const galatians5 = {
   slug: "galatians-5",
   title: "Galatians 5",
   partOfCollections: ["scripture-collection/galatians"],
-  book: "Galatians",
   position: 5,
   ownLength: 0,
   ownProgress: 0,

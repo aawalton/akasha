@@ -6,7 +6,6 @@ export const micah68 = {
   slug: "micah-6-8",
   title: "Micah 6:8",
   partOfCollections: ["scripture-collection/micah"],
-  book: "Micah",
   translation: "web",
   position: 15,
   passageText: "txt",

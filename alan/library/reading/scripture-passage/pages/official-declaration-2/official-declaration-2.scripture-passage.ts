@@ -6,7 +6,6 @@ export const officialDeclaration2 = {
   slug: "official-declaration-2",
   title: "Official Declaration 2",
   partOfCollections: ["scripture-collection/official-declaration"],
-  book: "Official Declaration",
   position: 2,
   ownLength: 0,
   unit: "unit/words",

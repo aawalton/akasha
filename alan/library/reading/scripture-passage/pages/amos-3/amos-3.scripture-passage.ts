@@ -6,7 +6,6 @@ export const amos3 = {
   slug: "amos-3",
   title: "Amos 3",
   partOfCollections: ["scripture-collection/amos"],
-  book: "Amos",
   position: 3,
   ownLength: 0,
   ownProgress: 0,

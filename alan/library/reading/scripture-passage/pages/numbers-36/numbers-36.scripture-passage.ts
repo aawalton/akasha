@@ -6,7 +6,6 @@ export const numbers36 = {
   slug: "numbers-36",
   title: "Numbers 36",
   partOfCollections: ["scripture-collection/numbers"],
-  book: "Numbers",
   position: 36,
   ownLength: 0,
   ownProgress: 0,

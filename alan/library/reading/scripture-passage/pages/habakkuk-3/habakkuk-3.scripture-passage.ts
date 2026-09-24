@@ -6,7 +6,6 @@ export const habakkuk3 = {
   slug: "habakkuk-3",
   title: "Habakkuk 3",
   partOfCollections: ["scripture-collection/habakkuk"],
-  book: "Habakkuk",
   position: 3,
   ownLength: 0,
   ownProgress: 0,

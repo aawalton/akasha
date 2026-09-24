@@ -6,7 +6,6 @@ export const luke7 = {
   slug: "luke-7",
   title: "Luke 7",
   partOfCollections: ["scripture-collection/luke"],
-  book: "Luke",
   position: 7,
   ownLength: 0,
   ownProgress: 0,

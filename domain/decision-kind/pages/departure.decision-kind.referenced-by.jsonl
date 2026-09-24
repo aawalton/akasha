@@ -1018,7 +1018,6 @@
 {"propertySlug":"decision-kind","path":"alan/library/reading/gbww-reading/properties/gbww-edition-marker.select-property.ts","id":"01a0659f-93da-7017-ae3f-0e9294f8b40f"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/modules/shapes/reading-shapes.module.ts","id":"01a0657b-06a7-7ae0-baf9-5cce272d89ba"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.ts","id":"01a06807-be66-7003-aba8-347b1f0d9f84"}
-{"propertySlug":"decision-kind","path":"alan/library/reading/scripture-passage/properties/scripture-book.text-property.ts","id":"01a0658d-fe50-7003-842b-538187e1ae93"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/scripture-passage/properties/scripture-translation.select-property.ts","id":"01a0658d-fe50-7004-9783-8442718557a7"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/scripture-passage/scripture-passage.page-type.ts","id":"01a0658d-fe50-7005-97df-2bbcb319b080"}
 {"propertySlug":"decision-kind","path":"alan/library/studying/great-course/great-course.page-type.ts","id":"01a06574-0291-7002-a1fa-cbd1f9cc0fb4"}

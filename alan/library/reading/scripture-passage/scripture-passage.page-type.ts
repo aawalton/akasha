@@ -6,22 +6,17 @@ export const scripturePassage = {
   slug: "scripture-passage",
   definition: "a chapter of scripture Alan reads",
   extends: ["page-type/collection"],
-  parts: [
-    "file-property/passage-text",
-    "select-property/scripture-translation",
-    "text-property/scripture-book",
-  ],
+  parts: ["file-property/passage-text", "select-property/scripture-translation"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/external-id", required: false, many: false },
-    { pageProperty: "text-property/scripture-book", required: false, many: false },
     { pageProperty: "select-property/scripture-translation", required: false, many: false },
     { pageProperty: "file-property/passage-text", required: false, many: false },
   ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A passage names the book of scripture the passage is in.",
+      statement: "A passage names its book of scripture as a collection the passage is part of.",
     },
     {
       decisionKind: "decision-kind/departure",

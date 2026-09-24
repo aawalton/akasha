@@ -6,7 +6,6 @@ export const titus1 = {
   slug: "titus-1",
   title: "Titus 1",
   partOfCollections: ["scripture-collection/titus"],
-  book: "Titus",
   position: 1,
   ownLength: 0,
   ownProgress: 0,

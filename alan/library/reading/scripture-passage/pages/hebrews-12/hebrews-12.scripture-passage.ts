@@ -6,7 +6,6 @@ export const hebrews12 = {
   slug: "hebrews-12",
   title: "Hebrews 12",
   partOfCollections: ["scripture-collection/hebrews"],
-  book: "Hebrews",
   position: 12,
   ownLength: 0,
   ownProgress: 0,

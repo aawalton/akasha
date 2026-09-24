@@ -6,7 +6,6 @@ export const lamentations32223 = {
   slug: "lamentations-3-22-23",
   title: "Lamentations 3:22-23",
   partOfCollections: ["scripture-collection/lamentations"],
-  book: "Lamentations",
   translation: "web",
   position: 13,
   passageText: "txt",

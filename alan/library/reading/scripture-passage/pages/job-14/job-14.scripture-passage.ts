@@ -6,7 +6,6 @@ export const job14 = {
   slug: "job-14",
   title: "Job 14",
   partOfCollections: ["scripture-collection/job"],
-  book: "Job",
   position: 14,
   ownLength: 0,
   ownProgress: 0,

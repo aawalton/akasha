@@ -6,7 +6,6 @@ export const scripturePassage1Kings14 = {
   slug: "scripture-passage-1-kings-14",
   title: "1 Kings 14",
   partOfCollections: ["scripture-collection/scripture-collection-1-kings"],
-  book: "1 Kings",
   position: 14,
   ownLength: 0,
   ownProgress: 0,

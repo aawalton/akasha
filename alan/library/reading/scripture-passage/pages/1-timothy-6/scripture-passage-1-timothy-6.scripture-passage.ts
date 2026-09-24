@@ -6,7 +6,6 @@ export const scripturePassage1Timothy6 = {
   slug: "scripture-passage-1-timothy-6",
   title: "1 Timothy 6",
   partOfCollections: ["scripture-collection/scripture-collection-1-timothy"],
-  book: "1 Timothy",
   position: 6,
   ownLength: 0,
   ownProgress: 0,

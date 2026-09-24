@@ -6,7 +6,6 @@ export const matthew3 = {
   slug: "matthew-3",
   title: "Matthew 3",
   partOfCollections: ["scripture-collection/matthew"],
-  book: "Matthew",
   position: 3,
   ownLength: 0,
   ownProgress: 0,

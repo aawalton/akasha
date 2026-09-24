@@ -6,7 +6,6 @@ export const malachi3 = {
   slug: "malachi-3",
   title: "Malachi 3",
   partOfCollections: ["scripture-collection/malachi"],
-  book: "Malachi",
   position: 3,
   ownLength: 0,
   ownProgress: 0,

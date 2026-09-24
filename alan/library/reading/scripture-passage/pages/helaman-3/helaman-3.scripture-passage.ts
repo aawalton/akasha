@@ -6,7 +6,6 @@ export const helaman3 = {
   slug: "helaman-3",
   title: "Helaman 3",
   partOfCollections: ["scripture-collection/helaman"],
-  book: "Helaman",
   translation: "book-of-mormon",
   position: 160,
   passageText: "txt",

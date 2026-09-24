@@ -6,7 +6,6 @@ export const abraham3 = {
   slug: "abraham-3",
   title: "Abraham 3",
   partOfCollections: ["scripture-collection/abraham"],
-  book: "Abraham",
   position: 3,
   ownLength: 0,
   ownProgress: 0,

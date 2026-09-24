@@ -6,7 +6,6 @@ export const enos1 = {
   slug: "enos-1",
   title: "Enos 1",
   partOfCollections: ["scripture-collection/enos"],
-  book: "Enos",
   translation: "book-of-mormon",
   position: 62,
   passageText: "txt",

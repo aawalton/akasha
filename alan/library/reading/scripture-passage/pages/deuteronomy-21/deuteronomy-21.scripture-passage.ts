@@ -6,7 +6,6 @@ export const deuteronomy21 = {
   slug: "deuteronomy-21",
   title: "Deuteronomy 21",
   partOfCollections: ["scripture-collection/deuteronomy"],
-  book: "Deuteronomy",
   position: 21,
   ownLength: 0,
   ownProgress: 0,

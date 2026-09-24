@@ -6,7 +6,6 @@ export const judges5 = {
   slug: "judges-5",
   title: "Judges 5",
   partOfCollections: ["scripture-collection/judges"],
-  book: "Judges",
   position: 5,
   ownLength: 0,
   ownProgress: 0,

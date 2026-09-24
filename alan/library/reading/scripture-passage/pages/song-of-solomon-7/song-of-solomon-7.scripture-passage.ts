@@ -6,7 +6,6 @@ export const songOfSolomon7 = {
   slug: "song-of-solomon-7",
   title: "Song of Solomon 7",
   partOfCollections: ["scripture-collection/song-of-solomon"],
-  book: "Song of Solomon",
   position: 7,
   ownLength: 0,
   ownProgress: 0,

@@ -6,7 +6,6 @@ export const acts23 = {
   slug: "acts-23",
   title: "Acts 23",
   partOfCollections: ["scripture-collection/acts"],
-  book: "Acts",
   position: 23,
   ownLength: 0,
   ownProgress: 0,

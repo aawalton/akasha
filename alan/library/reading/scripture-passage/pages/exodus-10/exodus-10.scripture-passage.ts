@@ -6,7 +6,6 @@ export const exodus10 = {
   slug: "exodus-10",
   title: "Exodus 10",
   partOfCollections: ["scripture-collection/exodus"],
-  book: "Exodus",
   position: 10,
   ownLength: 0,
   ownProgress: 0,

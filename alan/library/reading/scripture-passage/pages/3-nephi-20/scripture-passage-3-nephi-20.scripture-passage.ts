@@ -6,7 +6,6 @@ export const scripturePassage3Nephi20 = {
   slug: "scripture-passage-3-nephi-20",
   title: "3 Nephi 20",
   partOfCollections: ["scripture-collection/scripture-collection-3-nephi"],
-  book: "3 Nephi",
   translation: "book-of-mormon",
   position: 193,
   passageText: "txt",

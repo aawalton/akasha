@@ -6,7 +6,6 @@ export const revelation9 = {
   slug: "revelation-9",
   title: "Revelation 9",
   partOfCollections: ["scripture-collection/revelation"],
-  book: "Revelation",
   position: 9,
   ownLength: 0,
   ownProgress: 0,

@@ -6,7 +6,6 @@ export const jacob2 = {
   slug: "jacob-2",
   title: "Jacob 2",
   partOfCollections: ["scripture-collection/jacob"],
-  book: "Jacob",
   translation: "book-of-mormon",
   position: 56,
   passageText: "txt",

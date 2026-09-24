@@ -6,7 +6,6 @@ export const psalms130 = {
   slug: "psalms-130",
   title: "Psalms 130",
   partOfCollections: ["scripture-collection/psalms"],
-  book: "Psalms",
   translation: "web",
   position: 8,
   passageText: "txt",

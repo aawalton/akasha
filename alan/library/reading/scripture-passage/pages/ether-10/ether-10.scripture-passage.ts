@@ -6,7 +6,6 @@ export const ether10 = {
   slug: "ether-10",
   title: "Ether 10",
   partOfCollections: ["scripture-collection/ether"],
-  book: "Ether",
   translation: "book-of-mormon",
   position: 223,
   passageText: "txt",

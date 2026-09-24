@@ -6,7 +6,6 @@ export const zechariah7 = {
   slug: "zechariah-7",
   title: "Zechariah 7",
   partOfCollections: ["scripture-collection/zechariah"],
-  book: "Zechariah",
   position: 7,
   ownLength: 0,
   ownProgress: 0,

@@ -6,7 +6,6 @@ export const ezra8 = {
   slug: "ezra-8",
   title: "Ezra 8",
   partOfCollections: ["scripture-collection/ezra"],
-  book: "Ezra",
   position: 8,
   ownLength: 0,
   ownProgress: 0,

@@ -6,7 +6,6 @@ export const leviticus2 = {
   slug: "leviticus-2",
   title: "Leviticus 2",
   partOfCollections: ["scripture-collection/leviticus"],
-  book: "Leviticus",
   position: 2,
   ownLength: 0,
   ownProgress: 0,

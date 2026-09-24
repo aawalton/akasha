@@ -6,7 +6,6 @@ export const haggai1 = {
   slug: "haggai-1",
   title: "Haggai 1",
   partOfCollections: ["scripture-collection/haggai"],
-  book: "Haggai",
   position: 1,
   ownLength: 0,
   ownProgress: 0,

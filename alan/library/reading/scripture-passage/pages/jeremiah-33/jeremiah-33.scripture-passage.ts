@@ -6,7 +6,6 @@ export const jeremiah33 = {
   slug: "jeremiah-33",
   title: "Jeremiah 33",
   partOfCollections: ["scripture-collection/jeremiah"],
-  book: "Jeremiah",
   position: 33,
   ownLength: 0,
   ownProgress: 0,

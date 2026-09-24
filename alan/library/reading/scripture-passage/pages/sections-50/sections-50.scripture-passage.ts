@@ -6,7 +6,6 @@ export const sections50 = {
   slug: "sections-50",
   title: "Sections 50",
   partOfCollections: ["scripture-collection/sections"],
-  book: "Sections",
   position: 50,
   ownLength: 0,
   ownProgress: 0,

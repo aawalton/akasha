@@ -6,7 +6,6 @@ export const nahum1 = {
   slug: "nahum-1",
   title: "Nahum 1",
   partOfCollections: ["scripture-collection/nahum"],
-  book: "Nahum",
   position: 1,
   ownLength: 0,
   ownProgress: 0,

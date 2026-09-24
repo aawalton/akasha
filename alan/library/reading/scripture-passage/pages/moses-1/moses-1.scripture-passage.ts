@@ -6,7 +6,6 @@ export const moses1 = {
   slug: "moses-1",
   title: "Moses 1",
   partOfCollections: ["scripture-collection/moses"],
-  book: "Moses",
   position: 1,
   ownLength: 0,
   ownProgress: 0,

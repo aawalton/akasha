@@ -6,7 +6,6 @@ export const philemon1 = {
   slug: "philemon-1",
   title: "Philemon 1",
   partOfCollections: ["scripture-collection/philemon"],
-  book: "Philemon",
   position: 1,
   ownLength: 0,
   ownProgress: 0,

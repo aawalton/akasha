@@ -6,7 +6,6 @@ export const alma58 = {
   slug: "alma-58",
   title: "Alma 58",
   partOfCollections: ["scripture-collection/alma"],
-  book: "Alma",
   translation: "book-of-mormon",
   position: 152,
   passageText: "txt",

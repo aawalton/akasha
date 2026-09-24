@@ -6,7 +6,6 @@ export const wordsOfMormon1 = {
   slug: "words-of-mormon-1",
   title: "Words of Mormon 1",
   partOfCollections: ["scripture-collection/words-of-mormon"],
-  book: "Words of Mormon",
   translation: "book-of-mormon",
   position: 65,
   passageText: "txt",

@@ -6,7 +6,6 @@ export const mosiah6 = {
   slug: "mosiah-6",
   title: "Mosiah 6",
   partOfCollections: ["scripture-collection/mosiah"],
-  book: "Mosiah",
   translation: "book-of-mormon",
   position: 71,
   passageText: "txt",

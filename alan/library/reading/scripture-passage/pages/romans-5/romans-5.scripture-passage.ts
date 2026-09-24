@@ -6,7 +6,6 @@ export const romans5 = {
   slug: "romans-5",
   title: "Romans 5",
   partOfCollections: ["scripture-collection/romans"],
-  book: "Romans",
   position: 5,
   ownLength: 0,
   ownProgress: 0,

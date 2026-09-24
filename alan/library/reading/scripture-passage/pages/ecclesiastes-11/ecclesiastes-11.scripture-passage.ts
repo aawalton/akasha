@@ -6,7 +6,6 @@ export const ecclesiastes11 = {
   slug: "ecclesiastes-11",
   title: "Ecclesiastes 11",
   partOfCollections: ["scripture-collection/ecclesiastes"],
-  book: "Ecclesiastes",
   position: 11,
   ownLength: 0,
   ownProgress: 0,

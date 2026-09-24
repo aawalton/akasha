@@ -6,7 +6,6 @@ export const genesis18 = {
   slug: "genesis-18",
   title: "Genesis 18",
   partOfCollections: ["scripture-collection/genesis"],
-  book: "Genesis",
   position: 18,
   ownLength: 0,
   ownProgress: 0,

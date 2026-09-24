@@ -6,7 +6,6 @@ export const hosea7 = {
   slug: "hosea-7",
   title: "Hosea 7",
   partOfCollections: ["scripture-collection/hosea"],
-  book: "Hosea",
   position: 7,
   ownLength: 0,
   ownProgress: 0,
