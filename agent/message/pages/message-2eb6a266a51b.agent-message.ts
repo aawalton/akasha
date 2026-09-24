@@ -1,7 +1,7 @@
 import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
 
 export const message2eb6a266a51b = {
-  id: "4251dfa9-bc55-4abe-8177-2eb6a266a51b",
+  id: "01a0d51f-7620-736b-8177-2eb6a266a51b",
   type: "page-type/agent-message",
   slug: "message-2eb6a266a51b",
   to: "seat/alan",
