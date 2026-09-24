@@ -1,14 +1,20 @@
-const INDENT = /^[ \t]*/
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+import { z } from "zod"
+
+const INDENT = /^([ \t]*)/
 
 const NUMBERED = /^(\d+)([.)])([ \t]+)/
 
+const NUMBERED_FOUND = z.tuple([z.string(), z.string(), z.enum([".", ")"]), z.string()])
+
 const BULLET = /^([-*+])([ \t]+)/
+
+const BULLET_FOUND = z.tuple([z.string(), z.enum(["-", "*", "+"]), z.string()])
 
 const ENDED = /^(?:\d+[.)]|[-*+])[ \t]*$/
 
 function indentOf(line: string): string {
-  const found = INDENT.exec(line)
-  return found === null ? "" : found[0]
+  return firstCapture(INDENT.exec(line)) ?? ""
 }
 
 function endsTheList(rest: string, marked: number): boolean {
@@ -26,20 +32,22 @@ export function endsAList(line: string): boolean {
 export function openedLinePrefix(line: string): string {
   const indent = indentOf(line)
   const rest = line.slice(indent.length)
-  const numbered = NUMBERED.exec(rest)
-  if (numbered !== null) {
-    if (endsTheList(rest, numbered[0].length)) {
+  const numbered = NUMBERED_FOUND.safeParse(NUMBERED.exec(rest))
+  if (numbered.success) {
+    const [whole, number, delimiter, spacing] = numbered.data
+    if (endsTheList(rest, whole.length)) {
       return indent
     }
-    const counted = Number(numbered[1] ?? "0") + 1
-    return `${indent}${String(counted)}${numbered[2] ?? ""}${numbered[3] ?? ""}`
+    const counted = Number(number) + 1
+    return `${indent}${String(counted)}${delimiter}${spacing}`
   }
-  const bullet = BULLET.exec(rest)
-  if (bullet !== null) {
-    if (endsTheList(rest, bullet[0].length)) {
+  const bullet = BULLET_FOUND.safeParse(BULLET.exec(rest))
+  if (bullet.success) {
+    const [whole, marker, spacing] = bullet.data
+    if (endsTheList(rest, whole.length)) {
       return indent
     }
-    return `${indent}${bullet[1] ?? ""}${bullet[2] ?? ""}`
+    return `${indent}${marker}${spacing}`
   }
   return indent
 }
