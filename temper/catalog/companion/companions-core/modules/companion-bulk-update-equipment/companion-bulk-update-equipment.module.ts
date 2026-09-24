@@ -16,7 +16,7 @@ export const companionBulkUpdateEquipment = {
       statement: "Mirroring to off-hand is suppressed when the main-hand weapon is two-handed.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A slot whose current value differs from the old value is left untouched.",
     },
   ],
