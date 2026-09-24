@@ -15,6 +15,8 @@ const CT_BACKDROP = DRAWN.CT_BACKDROP ?? 14
 
 const CT_BUTTON = DRAWN.CT_BUTTON ?? 2
 
+const CT_SCROLL = DRAWN.CT_SCROLL ?? 12
+
 type Part = {
   readonly name?: string
   readonly controlType?: number
@@ -379,6 +381,30 @@ describe("pictureHtml", () => {
       { textureAt: () => "a.png" }
     )
     expect(html).toContain('<img style="width:1em;height:1em;vertical-align:middle" src="a.png">')
+  })
+
+  test("cuts what a scroll area holds at that area's edges, and leaves out what lies beyond", () => {
+    const html = pictureHtml(
+      control({
+        name: "Frame",
+        width: 200,
+        height: 200,
+        children: [
+          control({
+            name: "FrameScroll",
+            controlType: CT_SCROLL,
+            width: 100,
+            height: 50,
+            children: [
+              control({ name: "FrameRowCut", top: 40, width: 100, height: 20 }),
+              control({ name: "FrameRowGone", top: 80, width: 100, height: 20 }),
+            ],
+          }),
+        ],
+      })
+    )
+    expect(html).toContain("clip-path:inset(0px 0px 10px 0px);")
+    expect(html).not.toContain("FrameRowGone")
   })
 
   test("escapes text the game would show", () => {

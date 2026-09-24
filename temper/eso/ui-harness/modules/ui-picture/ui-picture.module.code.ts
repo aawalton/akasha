@@ -29,6 +29,8 @@ const CT_BUTTON = DRAWN.CT_BUTTON
 
 const CT_BACKDROP = DRAWN.CT_BACKDROP
 
+const CT_SCROLL = DRAWN.CT_SCROLL
+
 const SCREEN_WIDTH = 1920
 
 const SCREEN_HEIGHT = 1080
@@ -231,18 +233,53 @@ function fontOf(font: string | undefined, options: UiPictureOptions): FontFace {
   }
 }
 
-function shownIn(root: UiControl): readonly UiControl[] {
-  const shown: UiControl[] = []
-  function walk(one: UiControl, top: boolean, above: number): undefined {
+type Shown = UiControl & { readonly clip?: UiRect }
+
+function clipUnder(one: UiControl, clip: UiRect | undefined): UiRect | undefined {
+  if (one.controlType !== CT_SCROLL) return clip
+  const own = { left: one.left, top: one.top, width: one.width, height: one.height }
+  if (clip === undefined) return own
+  const left = Math.max(own.left, clip.left)
+  const top = Math.max(own.top, clip.top)
+  const right = Math.min(own.left + own.width, clip.left + clip.width)
+  const bottom = Math.min(own.top + own.height, clip.top + clip.height)
+  return { left, top, width: Math.max(0, right - left), height: Math.max(0, bottom - top) }
+}
+
+function outside(one: UiControl, clip: UiRect): boolean {
+  return (
+    one.left >= clip.left + clip.width ||
+    one.top >= clip.top + clip.height ||
+    one.left + one.width <= clip.left ||
+    one.top + one.height <= clip.top
+  )
+}
+
+function shownIn(root: UiControl): readonly Shown[] {
+  const shown: Shown[] = []
+  function walk(one: UiControl, top: boolean, above: number, clip?: UiRect): undefined {
     if (!top && one.hidden) return undefined
     const alpha = one.alpha * above
     if (alpha <= 0) return undefined
-    shown.push({ ...one, alpha })
-    for (const child of one.children) walk(child, false, alpha)
+    if (clip === undefined) shown.push({ ...one, alpha })
+    else if (!outside(one, clip)) shown.push({ ...one, alpha, clip })
+    const under = clipUnder(one, clip)
+    for (const child of one.children) walk(child, false, alpha, under)
     return undefined
   }
   walk(root, true, 1)
   return shown
+}
+
+function clipCss(one: Shown): string {
+  const clip = one.clip
+  if (clip === undefined || sizedByText(one)) return ""
+  const top = Math.max(0, clip.top - one.top)
+  const left = Math.max(0, clip.left - one.left)
+  const right = Math.max(0, one.left + one.width - (clip.left + clip.width))
+  const bottom = Math.max(0, one.top + one.height - (clip.top + clip.height))
+  if (top + left + right + bottom === 0) return ""
+  return `clip-path:inset(${top}px ${right}px ${bottom}px ${left}px);`
 }
 
 function sizedByText(one: UiControl): boolean {
@@ -286,12 +323,12 @@ function backdropArt(
   }
 }
 
-function boxHtml(one: UiControl, options: UiPictureOptions): string {
+function boxHtml(one: Shown, options: UiPictureOptions): string {
   const from = options.origin ?? { left: 0, top: 0 }
   const size = sizedByText(one)
     ? "overflow:visible;"
     : `width:${one.width}px;height:${one.height}px;`
-  const place = `left:${one.left - from.left}px;top:${one.top - from.top}px;${size}`
+  const place = `left:${one.left - from.left}px;top:${one.top - from.top}px;${size}${clipCss(one)}`
   const fade = one.alpha >= 1 ? "" : `opacity:${one.alpha};`
   const told = one.name === undefined ? "" : ` title="${escaped(one.name)}"`
   const backdrop = one.controlType === CT_BACKDROP ? backdropArt(one, options) : null

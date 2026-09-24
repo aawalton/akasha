@@ -31,6 +31,14 @@ export const uiPicture = {
       statement: "A control faded to nothing and everything under it are left out.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game cuts what a scroll area holds at the edges of that area.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control lying wholly beyond the scroll areas holding it is left out.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A color the game states from nought to one becomes a color a browser reads.",
     },
