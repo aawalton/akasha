@@ -12,11 +12,11 @@ export const infrastructureCommand = {
       statement: "A command here is named for the path the old ops command was reached by.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The Talos code a command here works over is in akasha.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The RBAC rules a command here reads are in akasha.",
     },
   ],
