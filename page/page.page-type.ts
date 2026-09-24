@@ -221,6 +221,10 @@ export const page = {
       statement:
         "The screen, row and card any page falls back to draw its title in the color its page type names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page with no title is named by its slug.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

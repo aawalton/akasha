@@ -12,6 +12,7 @@ import {
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { pageName } from "akasha/page/core/modules/page-name/page-name.module.code.ts"
 import { readsAsDone } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { PageActionsMenu } from "akasha/page/ui/component/modules/page-actions-menu/page-actions-menu.module.code.tsx"
@@ -55,8 +56,7 @@ export function Drawing({
 }: PageCardProps) {
   const surface = useSurface()
   const isWide = coverSize != null || notesSlot != null
-  const resolvedTitle = data?.title != null ? String(data.title) : "Untitled"
-  const displayTitle = expandDateMentions(resolvedTitle)
+  const displayTitle = expandDateMentions(pageName(data))
   const ownIconName = data?.icon != null ? String(data.icon) : null
   const displayIconName = ownIconName ?? defaultIconName ?? null
 

@@ -3,6 +3,7 @@
 import { Icon } from "akasha/design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { TableCell } from "akasha/design/interface/primitive/modules/table/table.module.code.tsx"
+import { pageName } from "akasha/page/core/modules/page-name/page-name.module.code.ts"
 import { readsAsDone } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { orderTableColumns } from "akasha/page/ui/component/modules/card-property-columns/card-property-columns.module.code.ts"
@@ -28,8 +29,7 @@ export function Drawing({
   onDelete,
 }: PageRowCellsProps) {
   const columns = orderTableColumns(definitions, visibleProperties ?? [])
-  const resolvedTitle = data.title != null ? String(data.title) : "Untitled"
-  const displayTitle = expandDateMentions(resolvedTitle)
+  const displayTitle = expandDateMentions(pageName(data))
   const iconName = data.icon != null ? String(data.icon) : null
   const isCompleted = completion != null && readsAsDone(completion, data)
   const showCompletionToggle = Boolean(onComplete) && completion != null

@@ -19,6 +19,7 @@ export const pageCore = {
     "module/media-formats",
     "module/null-ordering",
     "module/page-data",
+    "module/page-name",
     "module/page-types",
     "module/resolve-badge-variant",
     "module/task-lifecycle",

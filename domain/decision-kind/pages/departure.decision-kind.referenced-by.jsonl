@@ -2971,6 +2971,7 @@
 {"propertySlug":"decision-kind","path":"page/computed-property/properties/holds.select-property.ts","id":"01a06952-7a5c-7bad-8818-9124b8845f75"}
 {"propertySlug":"decision-kind","path":"page/core/filter/modules/property-path/property-path.module.ts","id":"01a09c21-fff4-7f57-818b-b875ff41c6ce"}
 {"propertySlug":"decision-kind","path":"page/core/modules/as-json/as-json.module.ts","id":"01a05cc0-fc8b-72c7-b9e9-7a512a9927d8"}
+{"propertySlug":"decision-kind","path":"page/core/modules/page-name/page-name.module.ts","id":"01a0d422-a41c-7f9b-aecf-07017e641d33"}
 {"propertySlug":"decision-kind","path":"page/core/modules/task-lifecycle/task-lifecycle.module.ts","id":"01a05b92-a9c7-7218-a6a2-fd22347d97b9"}
 {"propertySlug":"decision-kind","path":"page/core/modules/titled-as/titled-as.module.ts","id":"01a0c63a-a537-7b76-8461-838ca8ebcd02"}
 {"propertySlug":"decision-kind","path":"page/core/page-core.domain.ts","id":"01a05b92-a9c7-7180-bdd4-8e13e47841e5"}

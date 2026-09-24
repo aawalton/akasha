@@ -15,6 +15,7 @@ import {
 import { IconPicker } from "akasha/design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"
 import { Icon } from "akasha/design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { pageName } from "akasha/page/core/modules/page-name/page-name.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { BlockEditor } from "akasha/page/ui/block-editor/modules/block-editor/block-editor.module.code.tsx"
 import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
@@ -75,7 +76,7 @@ export function PageDefaultContent({
 
   return (
     <PageLayout loading={isLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
-      {data.title != null && <title>{expandDateMentions(String(data.title))}</title>}
+      {page != null && <title>{expandDateMentions(pageName(data))}</title>}
       {page ? (
         <SupabasePageResolverProvider
           pages={[]}
@@ -97,12 +98,16 @@ export function PageDefaultContent({
                     value={String(data.title ?? "")}
                     displayValue={expandDateMentions(String(data.title ?? ""))}
                     onChange={handleTitleChange}
-                    placeholder="Untitled Page"
-                    validate={(v) => (v.trim().length === 0 ? "Title is required" : null)}
+                    placeholder={pageName(data)}
+                    validate={(v) =>
+                      v.trim().length === 0 && String(data.title ?? "") !== ""
+                        ? "Title is required"
+                        : null
+                    }
                     className={titleClasses}
                   />
                 ) : (
-                  <h1 className={titleClasses}>{expandDateMentions(String(data.title ?? ""))}</h1>
+                  <h1 className={titleClasses}>{expandDateMentions(pageName(data))}</h1>
                 )}
                 {editing && targetSlug != null && (
                   <div className="ml-auto">
