@@ -41,6 +41,11 @@ export const uiHarness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The captured text of the game's strings is loaded before the defaults, so its getter answers it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A model takes what a constant is numbered from the capture rather than saying it.",
     },
     {

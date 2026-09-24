@@ -20,6 +20,10 @@ import {
   engineReturnsTable,
   returnsLua,
 } from "akasha/temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.code.ts"
+import {
+  engineStringsTable,
+  stringsLua,
+} from "akasha/temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.code.ts"
 import { z } from "zod"
 
 const LUA_MODULE = "lua-module"
@@ -67,6 +71,13 @@ let cachedColors: string | null = null
 function colorText(): string {
   if (cachedColors === null) cachedColors = colorsLua(engineColorsTable(akashaRoot()))
   return cachedColors
+}
+
+let cachedStrings: string | null = null
+
+function stringText(): string {
+  if (cachedStrings === null) cachedStrings = stringsLua(engineStringsTable(akashaRoot()))
+  return cachedStrings
 }
 
 function returnTexts(): readonly string[] {
@@ -204,6 +215,7 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
       ...constantTexts(),
       ...modelTexts(),
       colorText(),
+      stringText(),
       ...returnTexts(),
     ],
   })
