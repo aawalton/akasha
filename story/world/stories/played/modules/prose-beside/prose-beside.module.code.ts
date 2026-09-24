@@ -35,27 +35,32 @@ async function readPlayedProse(
   return held
 }
 
-export function usePlayedProse(
-  pageTypeSlug: string,
-  ids: readonly string[]
-): ReadonlyMap<string, string> {
+export interface PlayedProse {
+  readonly prose: ReadonlyMap<string, string>
+  readonly read: ReadonlySet<string>
+}
+
+const NOTHING_READ: PlayedProse = { prose: NO_PROSE, read: new Set() }
+
+export function usePlayedProse(pageTypeSlug: string, ids: readonly string[]): PlayedProse {
   const asked = ids.join(ROWS_PARTED_BY)
-  const [prose, setProse] = useState<ReadonlyMap<string, string>>(NO_PROSE)
+  const [played, setPlayed] = useState<PlayedProse>(NOTHING_READ)
 
   useEffect(() => {
-    setProse(NO_PROSE)
-    if (asked === "") return
+    if (asked === "") {
+      setPlayed(NOTHING_READ)
+      return
+    }
     let alive = true
+    const named = asked.split(ROWS_PARTED_BY)
     void (async () => {
-      const held = await readPlayedProse(pageTypeSlug, asked.split(ROWS_PARTED_BY)).catch(
-        () => NO_PROSE
-      )
-      if (alive) setProse(held)
+      const held = await readPlayedProse(pageTypeSlug, named).catch(() => NO_PROSE)
+      if (alive) setPlayed({ prose: held, read: new Set(named) })
     })()
     return () => {
       alive = false
     }
   }, [pageTypeSlug, asked])
 
-  return prose
+  return played
 }

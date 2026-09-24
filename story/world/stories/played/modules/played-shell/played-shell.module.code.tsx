@@ -159,7 +159,14 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const shown = usePanelsDrawn(beside.kind === "read" ? beside.beside.panels : [])
 
   const modules = useMemo(() => panelsDrawnHere(display?.modules ?? null), [display])
-  const runTurns = useMemo(() => playedTurnsOf(tail.drawn, prose), [tail, prose])
+  const runTurns = useMemo(
+    () =>
+      playedTurnsOf(
+        tail.drawn.filter((row) => prose.read.has(row.id)),
+        prose.prose
+      ),
+    [tail, prose]
+  )
   const hrefById = useMemo(
     () => playedHrefsOf(runPageTypeSlug, tail.drawn),
     [runPageTypeSlug, tail]

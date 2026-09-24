@@ -23,5 +23,13 @@ export const proseBeside = {
       decisionKind: "decision-kind/departure",
       statement: "A read for one story's rows is dropped where the rows asked for change.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The prose read before is held until the read for the rows asked anew answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read answers the rows it was asked for as well as the prose it found.",
+    },
   ],
 } as const satisfies Module

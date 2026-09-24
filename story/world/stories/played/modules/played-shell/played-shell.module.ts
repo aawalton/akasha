@@ -21,6 +21,10 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A row of the run is drawn once the read for its prose has answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A story with no turn and no chapter of its own draws its title alone.",
     },
     {
