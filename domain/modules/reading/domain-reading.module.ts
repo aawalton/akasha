@@ -17,7 +17,7 @@ export const domainReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page stating no slug or no page type slug is left out.",
+      statement: "A page stating no slug or no page type is left out.",
     },
     {
       decisionKind: "decision-kind/departure",
