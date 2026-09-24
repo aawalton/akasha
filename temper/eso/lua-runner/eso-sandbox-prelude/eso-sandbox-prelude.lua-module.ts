@@ -61,9 +61,13 @@ export const esoSandboxPrelude = {
       statement: "A game function known to answer a count answers with zero.",
     },
     {
-      decisionKind: "decision-kind/departure",
+      decisionKind: "decision-kind/stopgap",
       statement:
-        "A game constant the loaded Lua branches on has the value the game gives that constant.",
+        "A few constants and functions are valued here, for a sandbox loading no capture of the game's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A capture loaded among the real globals is read before any value here.",
     },
     {
       decisionKind: "decision-kind/departure",
