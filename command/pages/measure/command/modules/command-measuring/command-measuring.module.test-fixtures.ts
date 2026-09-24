@@ -1,6 +1,7 @@
 import { agoOf, HOUR } from "akasha/check/modules/measuring/check-measuring.module.test-fixtures.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30d10"
 
@@ -17,7 +18,7 @@ export function commandFiled(
 ): string {
   const path = `command/pages/${slug}/${slug}.${COMMAND}.ts`
   valueAlsoFiled(root, COMMAND, [
-    { path, value: { id: THREE, pageTypeSlug: COMMAND, slug, ...held } },
+    { path, value: { id: THREE, type: `${pageType.slug}/${COMMAND}`, slug, ...held } },
   ])
   return root
 }

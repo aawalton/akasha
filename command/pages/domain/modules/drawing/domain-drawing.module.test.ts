@@ -17,6 +17,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ROOT = rootOf(import.meta.path)
 
@@ -111,7 +112,7 @@ function typed(root: string, slug: string, above: readonly string[]): undefined 
   listedFiled(root, "page-type", slug, [{ path, id }])
   idFiled(root, id, [{ path, id }])
   valueAlsoFiled(root, "page-type", [
-    { path, value: { id, pageTypeSlug: "page-type", slug, extends: named } },
+    { path, value: { id, type: `${pageType.slug}/${pageType.slug}`, slug, extends: named } },
   ])
   for (const one of above) relationFiled(root, `id-${one}`, "extends-type", id, [{ path }])
   const page = join(root, path)

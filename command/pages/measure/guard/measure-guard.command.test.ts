@@ -19,6 +19,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const CALLED_AS = "akasha measure guard"
 
@@ -89,14 +90,19 @@ const rootHolding = (
   valueAlsoFiled(root, HOOK, [
     {
       path: HOOK_PAGE,
-      value: { id: ONE, pageTypeSlug: HOOK, slug: HOOK_SLUG, runsAt: [OVER_TOOLS] },
+      value: { id: ONE, type: `${pageType.slug}/${HOOK}`, slug: HOOK_SLUG, runsAt: [OVER_TOOLS] },
     },
   ])
   listedFiled(root, ASKING, ASKING_SLUG, [{ path: ASKING_PAGE, id: TWO }])
   valueAlsoFiled(root, ASKING, [
     {
       path: ASKING_PAGE,
-      value: { id: TWO, pageTypeSlug: ASKING, slug: ASKING_SLUG, runsAt: [OVER_STOP] },
+      value: {
+        id: TWO,
+        type: `${pageType.slug}/${ASKING}`,
+        slug: ASKING_SLUG,
+        runsAt: [OVER_STOP],
+      },
     },
   ])
   for (const [at, rows] of Object.entries(held)) {

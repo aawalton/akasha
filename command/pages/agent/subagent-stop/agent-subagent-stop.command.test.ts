@@ -12,6 +12,7 @@ import type { RunningSaid } from "akasha/command/pages/agent/subagent-sweep/agen
 import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const OWN = "a0123456789abcdef"
 
@@ -57,9 +58,11 @@ function rootWithPage(): string {
   mkdirSync(join(root, at, ".."), { recursive: true })
   writeFileSync(
     join(root, at),
-    `export const page = { pageTypeSlug: "subagent", slug: "${NAME}" } as const\n`
+    `export const page = { type: "page-type/subagent", slug: "${NAME}" } as const\n`
   )
-  valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug: NAME } }])
+  valueAlsoFiled(root, "subagent", [
+    { path: at, value: { type: `${pageType.slug}/subagent`, slug: NAME } },
+  ])
   return root
 }
 
@@ -71,7 +74,7 @@ function rootFiled(): string {
     join(root, at),
     [
       "export const page = {",
-      '  pageTypeSlug: "subagent",',
+      '  type: "page-type/subagent",',
       `  slug: ${JSON.stringify(NAME)},`,
       '  principalSeatName: "seat/athena",',
       '  assignmentSlug: "domain/akasha",',
@@ -81,7 +84,9 @@ function rootFiled(): string {
       "",
     ].join("\n")
   )
-  valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug: NAME } }])
+  valueAlsoFiled(root, "subagent", [
+    { path: at, value: { type: `${pageType.slug}/subagent`, slug: NAME } },
+  ])
   return root
 }
 

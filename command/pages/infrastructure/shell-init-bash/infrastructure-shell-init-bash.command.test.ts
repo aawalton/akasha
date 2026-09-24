@@ -17,7 +17,7 @@ const ACCOUNT_TYPE = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 const ACCOUNT_SLUG = "model-account"
 
 const ACCOUNT_TYPE_BODY =
-  `export const modelAccount = { id: "${ACCOUNT_TYPE}", pageTypeSlug: "page-type", ` +
+  `export const modelAccount = { id: "${ACCOUNT_TYPE}", type: "page-type/page-type", ` +
   `slug: "${ACCOUNT_SLUG}", pluralSlug: "model-accounts", extendsSlug: [] } as const\n`
 
 function accountlessRoot(root: string): string {

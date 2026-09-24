@@ -15,6 +15,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const HOLD = "/var/tmp"
 
@@ -40,7 +41,7 @@ type World = {
 function pageOf(name: string, slug: string, pageTypeSlug: string): string {
   return [
     `export const ${name} = {`,
-    `  pageTypeSlug: "${pageTypeSlug}",`,
+    `  type: "page-type/${pageTypeSlug}",`,
     `  slug: "${slug}",`,
     "}",
     "",
@@ -57,7 +58,9 @@ function seededWorld(): World {
     const id = `01a05f90-0000-7000-8000-00000000000${String(at)}`
     written(path, pageOf(name, slug, pageTypeSlug))
     listedFiled(root, pageTypeSlug, slug, [{ path, id }])
-    valueAlsoFiled(root, pageTypeSlug, [{ path, value: { id, pageTypeSlug, slug } }])
+    valueAlsoFiled(root, pageTypeSlug, [
+      { path, value: { id, type: `${pageType.slug}/${pageTypeSlug}`, slug } },
+    ])
   }
   filed(WEB_APPS_AT, "oneWeb", "one-web", "web-app")
   filed(WEB_APPS_AT, "bothApp", "both-app", "web-app")

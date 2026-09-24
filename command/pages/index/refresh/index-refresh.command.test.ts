@@ -76,7 +76,7 @@ function typed(
   }))
   return bodyOf({
     id: `01a04de1-2000-7000-8000-0000000000${last}`,
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug,
     extends: above,
     properties,
@@ -89,17 +89,17 @@ const PAGES: Readonly<Record<string, string>> = {
   "page-property.page-type.ts": typed("13", "page-property", [ABOVE]),
   "domain.page-type.ts": bodyOf({
     id: TYPE_ID,
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "domain",
     extends: [ABOVE],
   }),
   "text-property.page-type.ts": bodyOf(textProperty),
   "id.text-property.ts": bodyOf(idPage),
   "slug.text-property.ts": bodyOf(slugPage),
-  "akasha.domain.ts": bodyOf({ id: ROOT_ID, pageTypeSlug: "domain", slug: "akasha" }),
-  "a.domain.ts": bodyOf({ id: A_ID, pageTypeSlug: "domain", slug: "a" }),
+  "akasha.domain.ts": bodyOf({ id: ROOT_ID, type: `${pageType.slug}/domain`, slug: "akasha" }),
+  "a.domain.ts": bodyOf({ id: A_ID, type: `${pageType.slug}/domain`, slug: "a" }),
   "a.module.code.ts": 'import { held } from "./a.domain.ts"\nexport const one = held\n',
-  [PAGE_AT]: bodyOf({ id: B_ID, pageTypeSlug: "domain", slug: "index-command" }),
+  [PAGE_AT]: bodyOf({ id: B_ID, type: `${pageType.slug}/domain`, slug: "index-command" }),
   [CODE_AT]: `export { indexRefresh } from ${JSON.stringify(REAL)}\n`,
 }
 
@@ -214,7 +214,7 @@ test("the report says the files a type generator writes were weighed against the
 test("files on disk differing from HEAD are built over rather than refused", () => {
   const root = repoAt()
   seeded(root)
-  const body = bodyOf({ id: ON_DISK_ID, pageTypeSlug: "domain", slug: "b" })
+  const body = bodyOf({ id: ON_DISK_ID, type: `${pageType.slug}/domain`, slug: "b" })
   writeFileSync(join(root, "b.domain.ts"), body)
   const answer = indexRefresh([], givenAt(root))
   expect(answer.code).toBe(OK)
@@ -394,7 +394,7 @@ test("an index file on disk that git does not hold is committed by the next refr
   indexRefresh([], givenAt(root))
   writeFileSync(
     join(root, "b.domain.ts"),
-    bodyOf({ id: ON_DISK_ID, pageTypeSlug: "domain", slug: "b" })
+    bodyOf({ id: ON_DISK_ID, type: `${pageType.slug}/domain`, slug: "b" })
   )
   git(root, ["add", "b.domain.ts"])
   git(root, ["commit", "--quiet", "-m", "a page the index was told of outside a refresh"])

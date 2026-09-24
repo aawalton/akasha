@@ -43,6 +43,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -103,7 +104,7 @@ function bodyOf(seatName: string, own: string, agentId: string): string {
   const slug = `${seatName}${own.slice(0, 1).toUpperCase()}${own.slice(1)}`
   return [
     `export const ${slug} = {`,
-    '  pageTypeSlug: "subagent",',
+    '  type: "page-type/subagent",',
     `  slug: ${JSON.stringify(`${seatName}-${own}`)},`,
     `  principalSeatName: ${JSON.stringify(`seat/${seatName}`)},`,
     '  assignmentSlug: "domain/akasha",',
@@ -133,7 +134,9 @@ function paged(root: string, seatName: string, own: string, agentId: string): st
   writing(root, at, bodyOf(seatName, own, agentId))
   gitIn(root, ["add", "-A"])
   gitIn(root, ["commit", "--quiet", "-m", `${slug} is there`])
-  valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
+  valueAlsoFiled(root, "subagent", [
+    { path: at, value: { type: `${pageType.slug}/subagent`, slug } },
+  ])
   return at
 }
 

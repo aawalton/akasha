@@ -5,6 +5,7 @@ import {
   listedFiled,
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const ONE = "01a08071-39a4-7000-9c6b-6cee59d30c10"
 
@@ -44,7 +45,7 @@ export function changeFiled(
 ): string {
   const path = `change/agent/${slug}/${slug}.${CHANGED}.ts`
   valueAlsoFiled(root, CHANGED, [
-    { path, value: { id: THREE, pageTypeSlug: CHANGED, slug, ...held } },
+    { path, value: { id: THREE, type: `${pageType.slug}/${CHANGED}`, slug, ...held } },
   ])
   return root
 }

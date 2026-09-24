@@ -88,7 +88,7 @@ function addonIn(root: string, name: string, held: Held): string {
   const names = held.entry === null ? "" : `  bundleEntry: "${held.entry}",\n`
   writeFileSync(
     join(dir, `${held.folder}.temper-addon.ts`),
-    `export const page = {\n  pageTypeSlug: "temper-addon",\n  slug: "${held.folder}",\n${names}}\n`
+    `export const page = {\n  type: "page-type/temper-addon",\n  slug: "${held.folder}",\n${names}}\n`
   )
   if (held.declares !== undefined) {
     writeFileSync(join(dir, `${held.folder}-globals.d.ts`), held.declares)

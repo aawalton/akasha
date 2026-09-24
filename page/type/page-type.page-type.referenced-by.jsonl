@@ -90,8 +90,17 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/modules/value-minting/value-minting.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/change/repeat/change-repeat.command.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/index/refresh/index-refresh.command.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/measure/call/measure-call.command.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/measure/change/modules/change-measuring/change-measuring.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/measure/command/modules/command-measuring/command-measuring.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/measure/guard/measure-guard.command.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"command/pages/read/read.command.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"domain/modules/rows/domain-rows.module.test.ts"}

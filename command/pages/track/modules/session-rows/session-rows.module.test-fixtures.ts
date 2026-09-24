@@ -46,7 +46,7 @@ const REACHED: readonly Reached[] = [
 function pageOf(one: Reached): string {
   return `export const ${one.named} = {
   id: "${one.id}",
-  pageTypeSlug: "${one.type}",
+  type: "page-type/${one.type}",
   slug: "${one.slug}",
   definition: "a change a track act lands its rows through",
   code: "ts",

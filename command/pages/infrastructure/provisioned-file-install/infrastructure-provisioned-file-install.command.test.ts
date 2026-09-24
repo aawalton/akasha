@@ -82,7 +82,7 @@ const VOCABULARY: readonly Named[] = [
 function pageAt(slug: string, rest: Held): Readonly<Record<string, string>> {
   const value = {
     id: idOf("8"),
-    pageTypeSlug: PLACED,
+    type: `${pageType.slug}/${PLACED}`,
     slug,
     definition: "a thing",
     content: "conf",

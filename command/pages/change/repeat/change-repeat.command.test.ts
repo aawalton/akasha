@@ -28,6 +28,7 @@ import {
   pageOf,
   scratch,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -42,7 +43,7 @@ const NARROW_PAGE = "akasha/held/narrow.change-agent.ts"
 const HELD: Readonly<Record<string, string>> = {
   [CLI_PAGE]: pageOf({
     id: idOf("d"),
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "cli",
     definition: "the name on the path answered",
     code: "ts",
@@ -50,7 +51,7 @@ const HELD: Readonly<Record<string, string>> = {
   [CLI_CODE]: "export const cli = 1\n",
   [WIDE_PAGE]: pageOf({
     id: idOf("e"),
-    pageTypeSlug: "change-agent",
+    type: `${pageType.slug}/change-agent`,
     slug: "wide",
     definition: "a change acting on many pages at once",
     code: "ts",
@@ -58,7 +59,7 @@ const HELD: Readonly<Record<string, string>> = {
   }),
   [NARROW_PAGE]: pageOf({
     id: idOf("f"),
-    pageTypeSlug: "change-agent",
+    type: `${pageType.slug}/change-agent`,
     slug: "narrow",
     definition: "a change acting on one page",
     code: "ts",

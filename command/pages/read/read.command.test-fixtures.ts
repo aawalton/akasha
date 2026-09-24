@@ -387,7 +387,7 @@ function pageFor(one: Planted, id: string): string {
   return [
     `export const ${one.name} = {`,
     `  id: "${id}",`,
-    `  pageTypeSlug: "context-warrant",`,
+    `  type: "page-type/context-warrant",`,
     `  slug: "${one.slug}",`,
     `  code: "ts",`,
     `  test: "ts",`,
@@ -412,7 +412,7 @@ function rootWarranting(
         path: one.at,
         value: {
           id,
-          pageTypeSlug: PAGE_TYPE_SLUG,
+          type: `${pageType.slug}/${PAGE_TYPE_SLUG}`,
           slug: one.slug,
           extendsSlug: one.above,
         },
@@ -427,7 +427,7 @@ function rootWarranting(
     writing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code)
     listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
     valueAlsoFiled(root, CONTEXT_WARRANT, [
-      { path: at, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug: one.slug } },
+      { path: at, value: { id, type: `${pageType.slug}/${CONTEXT_WARRANT}`, slug: one.slug } },
     ])
   }
   return root

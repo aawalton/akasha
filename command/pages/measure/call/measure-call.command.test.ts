@@ -19,6 +19,7 @@ import { measureCall as page } from "akasha/command/pages/measure/call/measure-c
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const CALLED_AS = "akasha measure call"
 
@@ -72,7 +73,7 @@ const rootWith = (rows: readonly Record<string, unknown>[]): string => {
   const root = scratch.rootFor("measure-call-")
   nothingFiled(root)
   valueAlsoFiled(root, SEAT, [
-    { path: SEAT_PAGE, value: { id: ONE, pageTypeSlug: SEAT, slug: "held-chair" } },
+    { path: SEAT_PAGE, value: { id: ONE, type: `${pageType.slug}/${SEAT}`, slug: "held-chair" } },
   ])
   put(root, SEAT_ROWS, `${rows.map(callRow).join("\n")}\n`)
   return root
