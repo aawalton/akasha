@@ -4,7 +4,7 @@ export const googleCalendar = {
   id: "01a05c02-c732-7b6e-b180-61f29e1b42e7",
   type: "page-type/domain",
   slug: "google-calendar",
-  definition: "Alan's Google calendar events read, made, changed and answered",
+  definition: "Alan's Google calendar",
   parts: [
     "module/calendar-auth",
     "module/calendar-client",
