@@ -1,3 +1,7 @@
+import {
+  isImageSlug,
+  withImages,
+} from "akasha/agent/message/modules/attached-images/agent-message-attached-images.module.code.ts"
 import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
@@ -19,10 +23,29 @@ const WRITER = "alanwalton web <web@alanwalton.com>"
 
 const BODY_HOLDS = 19_999
 
+const IMAGE_PAGE_TYPE_SLUG = "image"
+
+const IMAGES_HELD = 8
+
 const SENT = z.object({
   seat: z.string().min(1),
   body: z.string(),
+  images: z.array(z.string().refine(isImageSlug)).max(IMAGES_HELD).default([]),
 })
+
+async function unkeptAmong(images: readonly string[]): Promise<Response | null> {
+  for (const slug of images) {
+    const kept = await askingFor({
+      pageTypeSlug: IMAGE_PAGE_TYPE_SLUG,
+      where: { slug: { is: slug } },
+      keys: ["slug"],
+      limit: 1,
+    })
+    if ("refused" in kept) return refused(kept.refused, 503)
+    if (kept.rows.length === 0) return refused(`no image is kept as \`${slug}\``, 404)
+  }
+  return null
+}
 
 function refused(error: string, status: number): Response {
   return Response.json({ ok: false, error }, { status })
@@ -66,9 +89,15 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return refused("Invalid request body.", 400)
   }
   const sent = SENT.safeParse(held)
-  if (!sent.success) return refused("A message names a seat and carries a body.", 400)
-  const body = sent.data.body.trim()
-  if (body === "") return refused("A message says something.", 400)
+  if (!sent.success) {
+    return refused(
+      `A message names a seat, carries a body, and attaches at most ${IMAGES_HELD} images by slug.`,
+      400
+    )
+  }
+  const images = sent.data.images
+  const body = withImages(sent.data.body.trim(), images)
+  if (body === "") return refused("A message says something or attaches an image.", 400)
   if (body.length > BODY_HOLDS) {
     return refused(`A message holds at most ${BODY_HOLDS} characters.`, 413)
   }
@@ -77,6 +106,8 @@ export async function action({ request }: { request: Request }): Promise<Respons
   if (typeof from !== "string") return refused(from.refused, 403)
   const to = await seatSlugOf(sent.data.seat)
   if (typeof to !== "string") return refused(to.refused, 404)
+  const unkept = await unkeptAmong(images)
+  if (unkept !== null) return unkept
 
   const id = crypto.randomUUID()
   const named = messageNamed(id)
