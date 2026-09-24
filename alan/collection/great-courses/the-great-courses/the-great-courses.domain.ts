@@ -4,6 +4,6 @@ export const theGreatCourses = {
   id: "01a0d492-5b03-768a-bd58-16d694d5f2b1",
   type: "page-type/domain",
   slug: "the-great-courses",
-  definition: "a company selling courses",
+  definition: "a company that sells courses",
   spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "The Great Courses" }],
 } as const satisfies Domain
