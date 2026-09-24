@@ -3610,6 +3610,9 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/elements/properties/element-kind.select-property.ts","id":"01a06828-cb97-7ee3-9578-4a81ad1884a6"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/elements/properties/turn-states.file-property.ts","id":"01a06828-cb99-70d4-bcad-c28091bb8c4c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/elements/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.ts","id":"01a0d48a-8a47-745b-8d92-693cc1ecc076"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar-state/action-bar-state.module.ts","id":"01a0d48a-0758-724f-85b2-9b2412f0754f"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar/action-bar.module.ts","id":"01a0d48b-8f76-7e2b-9030-a05bc2c03057"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-beside/game-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/game-player-beside/game-player-beside.module.ts","id":"01a0ca9e-ea64-779b-b65f-7f138ba63302"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-channel/played-channel.module.ts","id":"01a0a162-9b05-7d36-a284-71c3ef40b6d7"}

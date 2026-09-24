@@ -25,6 +25,7 @@ import { gameQuest } from "akasha/story/game/quest/game-quest.page-type.ts"
 import { gameTurn } from "akasha/story/game/turn/game-turn.page-type.ts"
 import { stateOf } from "akasha/story/game/turn/modules/turn-state/turn-state.module.code.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
+import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { useGameBeside } from "akasha/story/world/stories/played/modules/game-beside/game-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
@@ -153,6 +154,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
     [gameTurns.rows, players.rows, quests.rows]
   )
   const externalId = beside.kind === "read" ? beside.beside.externalId : undefined
+  const coordinatorAgent = beside.kind === "read" ? beside.beside.coordinatorAgent : undefined
   const shown = usePanelsDrawn(beside.kind === "read" ? beside.beside.panels : [])
 
   const modules = useMemo(() => panelsDrawnHere(display?.modules ?? null), [display])
@@ -193,7 +195,19 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
     />
   )
 
-  if (tail.drawn.length === 0) return <div className={NARROW_PAGE}>{titleRow}</div>
+  const bar =
+    externalId === undefined || coordinatorAgent === undefined ? null : (
+      <ActionBar gameExternalId={externalId} />
+    )
+
+  if (tail.drawn.length === 0) {
+    return (
+      <div className={NARROW_PAGE}>
+        {titleRow}
+        {bar}
+      </div>
+    )
+  }
 
   const drawnAside = shownIn(shown, ASIDE)
   const drawnRun = shownIn(shown, RUN)
@@ -213,6 +227,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
           ) : (
             <PlayedPanels shown={drawnRun} envelope={envelope} run={panelRun} />
           )}
+          {bar}
         </div>
         {hasPanels ? <aside className={PANELS_ASIDE}>{panels}</aside> : null}
       </div>

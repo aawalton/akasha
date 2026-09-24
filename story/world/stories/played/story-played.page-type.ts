@@ -10,6 +10,9 @@ export const storyPlayed = {
   runsTabooCheck: false,
   parts: [
     "file-property/prose",
+    "module/action-bar",
+    "module/action-bar-sending",
+    "module/action-bar-state",
     "module/game-beside",
     "module/game-player-beside",
     "module/played-channel",

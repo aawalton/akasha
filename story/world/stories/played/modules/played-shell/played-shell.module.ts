@@ -37,7 +37,15 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here polls, and no tagline is drawn, because this play takes no action.",
+      statement: "No tagline is drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game naming a coordinator agent has an action bar drawn under the run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game naming no coordinator agent has no action bar.",
     },
     {
       decisionKind: "decision-kind/departure",

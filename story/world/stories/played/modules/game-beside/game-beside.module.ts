@@ -29,8 +29,12 @@ export const gameBeside = {
       statement: "A store that answers nothing is told apart from a story no game names.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The seat a game names as its coordinator agent is read with the game.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here polls, because no game behind these stories is still being played.",
+      statement: "Nothing here polls, so the game is read once as the story opens.",
     },
   ],
 } as const satisfies Module

@@ -23,6 +23,8 @@ const PLAYER_KEY = "player"
 
 const PANELS_KEY = "panels"
 
+const COORDINATOR_AGENT_KEY = "coordinatorAgent"
+
 const DISPLAY_CONFIG_ENDING = "json"
 
 export interface GameBeside {
@@ -30,6 +32,7 @@ export interface GameBeside {
   readonly display: ResolvedGameDisplay | null
   readonly player: string | undefined
   readonly panels: readonly string[]
+  readonly coordinatorAgent: string | undefined
 }
 
 export type GameBesideRead =
@@ -78,7 +81,15 @@ async function readGameBeside(slug: string): Promise<GameBesideRead> {
   const asked = await askComposed({
     "page-type": GAME_PAGE_TYPE_SLUG,
     where: { slug: { is: slug } },
-    keys: [SLUG_KEY, EXTERNAL_ID_KEY, GAME_ENGINE_KEY, DISPLAY_CONFIG_KEY, PLAYER_KEY, PANELS_KEY],
+    keys: [
+      SLUG_KEY,
+      EXTERNAL_ID_KEY,
+      GAME_ENGINE_KEY,
+      DISPLAY_CONFIG_KEY,
+      PLAYER_KEY,
+      PANELS_KEY,
+      COORDINATOR_AGENT_KEY,
+    ],
     files: [DISPLAY_CONFIG_KEY],
   })
   if (!asked.ok) return { kind: "unread", why: asked.why }
@@ -92,6 +103,7 @@ async function readGameBeside(slug: string): Promise<GameBesideRead> {
       display: displayIn(bodyIn(values, DISPLAY_CONFIG_KEY, DISPLAY_CONFIG_ENDING), gameEngine),
       player: textIn(values, PLAYER_KEY),
       panels: namesIn(values, PANELS_KEY),
+      coordinatorAgent: textIn(values, COORDINATOR_AGENT_KEY),
     },
   }
 }
