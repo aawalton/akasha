@@ -36,9 +36,12 @@ const HOST_SCHEMA = z.string().min(1).default("0.0.0.0")
 const port = PORT_SCHEMA.parse(process.env["PORT"])
 const hostname = HOST_SCHEMA.parse(process.env["HOST"])
 
+const TUNNEL_OUTLASTING_IDLE_SECONDS = 120
+
 Bun.serve({
   port,
   hostname,
+  idleTimeout: TUNNEL_OUTLASTING_IDLE_SECONDS,
   error(error: Error) {
     console.error("[alanwalton-web] fetch handler error:", error)
     return new Response("Internal Server Error", { status: 500 })
