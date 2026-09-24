@@ -74,12 +74,11 @@ export const meta: MetaFunction = () => [
   { name: "description", content: "The Elder Scrolls Online Build Planner" },
 ]
 
-export async function loader({ request, context }: LoaderFunctionArgs<AppLoadContext>) {
-  const nonce = typeof context.nonce === "string" ? context.nonce : undefined
+export async function loader({ request }: LoaderFunctionArgs<AppLoadContext>) {
   const bounce = await handoverGuard(TEMPER_SITE, request, GUARD)
   if (bounce !== null) return bounce
   const catalog = await loadCompanionCatalog()
-  return data({ nonce, skills: catalog.skills, skillLines: catalog.skillLines })
+  return data({ skills: catalog.skills, skillLines: catalog.skillLines })
 }
 
 export function Layout({ children }: { children: ReactNode }) {
