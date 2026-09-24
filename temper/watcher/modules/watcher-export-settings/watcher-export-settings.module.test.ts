@@ -1,126 +1,25 @@
 import { expect, test } from "bun:test"
+import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import { stock } from "akasha/temper/player/progress/temper-item-action/pages/stock.temper-item-action.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 import {
-  type ExportSettingsSeams,
   runExportSettings,
   settingsIn,
 } from "akasha/temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts"
-
-type Client = Parameters<typeof runExportSettings>[1]
-
-const NO_CLIENT: Client = {
-  auth: {
-    getUser: async () => {
-      throw new Error("the session was asked although the caller named a user")
-    },
-  },
-}
-
-const BEFORE = [
-  "TemperItems =",
-  "{",
-  '    ["Default"] =',
-  "    {",
-  '        ["@alan"] =',
-  "        {",
-  '            ["$AccountWide"] =',
-  "            {",
-  '                ["db"] =',
-  "                {",
-  "                },",
-  "            },",
-  "        },",
-  "    },",
-  "}",
-  "",
-].join("\n")
-
-const AFTER = [
-  "TemperItems =",
-  "{",
-  '    ["Default"] =',
-  "    {",
-  '        ["@alan"] =',
-  "        {",
-  '            ["$AccountWide"] =',
-  "            {",
-  '                ["logging"] =',
-  "                {",
-  '                    ["actionReports"] = "minimal",',
-  '                    ["perfTracing"] = "minimal",',
-  "                },",
-  '                ["safety"] =',
-  "                {",
-  '                    ["confirmActions"] = {',
-  '                        "sell",',
-  "                    },",
-  '                    ["openCooldownProtection"] = false,',
-  "                },",
-  '                ["backpack"] =',
-  "                {",
-  '                    ["bufferSlots"] = 5,',
-  '                    ["autoStack"] = true,',
-  "                },",
-  '                ["currencyRates"] =',
-  "                {},",
-  '                ["crownReplacementCosts"] =',
-  "                {},",
-  '                ["db"] =',
-  "                {",
-  "                },",
-  "            },",
-  "        },",
-  "    },",
-  "}",
-  "",
-].join("\n")
-
-const SETTINGS_WITHOUT_INVENTORY = {
-  logging: { actionReports: "minimal", perfTracing: "minimal" },
-  safety: { confirmActions: ["sell", "nonsense"], openCooldownProtection: false },
-  backpack: { bufferSlots: 5 },
-}
-
-interface Recorded {
-  readonly said: string[]
-  readonly written: { path: string; content: string }[]
-}
-
-function seamsFor(
-  settings: Record<string, unknown>,
-  recorded: Recorded,
-  rules: readonly HeldRule[] = [],
-  rulesAskedFor: string[] = []
-): { seams: ExportSettingsSeams } {
-  return {
-    seams: {
-      say: (message) => {
-        recorded.said.push(message)
-        return undefined
-      },
-      readPlayerSettings: async () => settings,
-      addressOf: async (userId) => `temper-account/${userId}`,
-      readPlayerRules: async (accountPage) => {
-        rulesAskedFor.push(accountPage)
-        return rules
-      },
-      pricingTables: async () => ({ currencyRates: {}, crownReplacementCosts: {} }),
-      pages: { collect: async () => [], get: async () => null },
-      inventoryRows: { latestReading: async () => undefined, dataOf: async () => null },
-      readCharacters: async () => [],
-      writeSideFile: (path, content) => {
-        recorded.written.push({ path, content })
-        return "hash-of-the-side-file"
-      },
-    },
-  }
-}
-
-function recorder(): Recorded {
-  return { said: [], written: [] }
-}
+import {
+  AFTER,
+  BEFORE,
+  type Client,
+  NO_CLIENT,
+  ONE_LINE_BEFORE,
+  OTHER_VARIABLE,
+  recorder,
+  SETTINGS_WITHOUT_INVENTORY,
+  seamsFor,
+  tableAt,
+} from "akasha/temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.test-fixtures.ts"
+import { looksStructurallyComplete } from "akasha/temper/watcher/modules/watcher-stable-read/watcher-stable-read.module.code.ts"
 
 test("the blocks a settings export writes come out byte for byte as the legacy exporter wrote them", async () => {
   const recorded = recorder()
@@ -128,6 +27,44 @@ test("the blocks a settings export writes come out byte for byte as the legacy e
   const result = await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
   expect(result.content).toBe(AFTER)
   expect(result.modified).toBe(true)
+})
+
+test("a pretty-printed file already holding every block is handed back byte for byte", async () => {
+  const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorder())
+  const result = await runExportSettings(AFTER, NO_CLIENT, { userId: "alan" }, seams)
+  expect(result).toEqual({ content: AFTER, modified: false, inventoryConfigSideFileHash: null })
+})
+
+test("a file the game wrote on one line takes every block beside db and stays whole", async () => {
+  const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorder())
+  const result = await runExportSettings(ONE_LINE_BEFORE, NO_CLIENT, { userId: "alan" }, seams)
+  expect(result.modified).toBe(true)
+  expect(looksStructurallyComplete(result.content)).toBe(true)
+  expect(result.content.endsWith(OTHER_VARIABLE)).toBe(true)
+  const read = parseLuaSavedVariablesFile(result.content, "TemperInventory_SavedVariables")
+  const accountWide = tableAt(read, "Default", "@alan", "$AccountWide")
+  expect(accountWide.logging).toEqual({ actionReports: "minimal", perfTracing: "minimal" })
+  expect(accountWide.safety).toEqual({ confirmActions: ["sell"], openCooldownProtection: false })
+  expect(accountWide.backpack).toEqual({ bufferSlots: 5, autoStack: true })
+  expect(accountWide.db).toEqual({ meta: { displayName: "@alan" } })
+  expect(accountWide.sellCompiled).toEqual({ version: 3 })
+  expect(accountWide.version).toBe(1)
+  expect(tableAt(accountWide, "diagnostics", "lastBankTrace")).toEqual({
+    note: "a } b {",
+    bags: { "1": 1, "2": 2 },
+  })
+  expect(tableAt(read, "Default", "@alan", "Alan Two")).toEqual({ version: 1 })
+})
+
+test("a file on one line already holding every block is handed back byte for byte", async () => {
+  const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorder())
+  const first = await runExportSettings(ONE_LINE_BEFORE, NO_CLIENT, { userId: "alan" }, seams)
+  const second = await runExportSettings(first.content, NO_CLIENT, { userId: "alan" }, seams)
+  expect(second).toEqual({
+    content: first.content,
+    modified: false,
+    inventoryConfigSideFileHash: null,
+  })
 })
 
 test("an action nobody may agree to is left out of the safety block", async () => {

@@ -54,8 +54,8 @@ import {
   readCharactersWithTargetBuilds,
 } from "akasha/temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts"
 import {
-  detectIndent,
-  replaceOrInsertLuaBlock,
+  detectIndentInText,
+  replaceOrInsertLuaBlockInText,
 } from "akasha/temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
 import {
   toLoggingSettings,
@@ -377,14 +377,18 @@ export async function runExportSettings(
     crownReplacementCosts,
   }
 
-  const indent = detectIndent(content.split("\n"), "sell", TEMPER_INVENTORY_SIBLINGS)
-  let lines: readonly string[] = content.split("\n")
+  const indent = detectIndentInText(content, "sell", TEMPER_INVENTORY_SIBLINGS)
+  let modifiedContent = content
   for (const [key, value] of Object.entries(values)) {
     const block = serializeLuaBlock(key, value, indent)
-    lines = replaceOrInsertLuaBlock(lines, key, block, TEMPER_INVENTORY_SIBLINGS)
+    modifiedContent = replaceOrInsertLuaBlockInText(
+      modifiedContent,
+      key,
+      block,
+      TEMPER_INVENTORY_SIBLINGS
+    )
   }
 
-  const modifiedContent = lines.join("\n")
   const sideFilePath = options.inventoryConfigPath
   const inventoryConfigSideFileHash =
     sideFilePath == null ? null : seams.writeSideFile(sideFilePath, buildSideFileContent(values))

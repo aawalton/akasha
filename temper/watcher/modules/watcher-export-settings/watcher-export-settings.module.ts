@@ -7,6 +7,7 @@ export const watcherExportSettings = {
   definition: "the player's settings written into the game's saved variables and beside the addon",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -47,6 +48,19 @@ export const watcherExportSettings = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The indent is taken from the content before any block is replaced.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The content is handed on whole as text rather than split into lines.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every block goes in the table holding db and version.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Content already holding every block as it would be written comes back unmodified.",
     },
     {
       decisionKind: "decision-kind/departure",

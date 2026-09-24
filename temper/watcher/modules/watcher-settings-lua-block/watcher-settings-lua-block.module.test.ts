@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
 import {
   detectIndent,
+  detectIndentInText,
   replaceOrInsertLuaBlock,
+  replaceOrInsertLuaBlockInText,
 } from "akasha/temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"
 
 const FILE = [
@@ -62,19 +64,14 @@ test("content no anchor is found in is handed back unchanged", () => {
   expect(out).toEqual(FILE)
 })
 
-test("a block opening and closing on one line is replaced whole", () => {
+test("a block opening and closing inside a line is replaced and the rest of the line kept", () => {
   const oneLine = [
     "TemperItems =",
     "{",
     '    ["Default"] = { ["sell"] = { 1, 2, 3, }, ["db"] = {}, },',
     "}",
   ]
-  const out = replaceOrInsertLuaBlock(
-    oneLine,
-    "sell",
-    ['    ["Default"] = { ["sell"] = { 9, }, ["db"] = {}, },'],
-    ["db"]
-  )
+  const out = replaceOrInsertLuaBlock(oneLine, "sell", ['["sell"] = { 9, },'], ["db"])
   expect(out).toEqual([
     "TemperItems =",
     "{",
@@ -114,4 +111,58 @@ test("the indent falls back to twelve spaces where nothing is found", () => {
 
 test("the key's own line wins over a sibling's", () => {
   expect(detectIndent(FILE, "alpha", ["Default"])).toBe("        ")
+})
+
+const ONE_LINE =
+  'Saved_Vars={["Default"]={["@alan"]={["$AccountWide"]={["notes"]={["text"]="a } and a {",["deep"]={["version"]=3,["sell"]={1,},},},["sell"]={[1]="old } {",},["db"]={["x"]=1,},["version"]=1,},},},}Other_Vars={["Default"]={["sell"]={},},}'
+
+const HOME_SIBLINGS = ["db", "version"]
+
+test("a file on one line has the block beside the siblings replaced and nothing else", () => {
+  const out = replaceOrInsertLuaBlockInText(
+    ONE_LINE,
+    "sell",
+    ['["sell"] = { "new", },'],
+    HOME_SIBLINGS
+  )
+  expect(out).toBe(ONE_LINE.replace('["sell"]={[1]="old } {",},', '["sell"] = { "new", },'))
+})
+
+test("a key absent from a file on one line goes before the sibling in the table holding most siblings", () => {
+  const out = replaceOrInsertLuaBlockInText(ONE_LINE, "logging", ["NEW,"], ["version", "db"])
+  expect(out).toBe(ONE_LINE.replace('["version"]=1,', 'NEW,["version"]=1,'))
+})
+
+test("a key the siblings' table lacks is inserted there though another table holds that key", () => {
+  const text = 'V={["a"]={["sell"]=1,},["db"]={},}'
+  const out = replaceOrInsertLuaBlockInText(text, "sell", ["NEW"], ["db"])
+  expect(out).toBe('V={["a"]={["sell"]=1,},NEW["db"]={},}')
+})
+
+test("a key inside a comment is passed over", () => {
+  const text = '-- ["db"] = {\nV={["db"]={},}'
+  const out = replaceOrInsertLuaBlockInText(text, "logging", ["NEW"], ["db"])
+  expect(out).toBe('-- ["db"] = {\nV={NEW["db"]={},}')
+})
+
+test("a block written again as it already is leaves the text byte for byte", () => {
+  const text = FILE.join("\n")
+  const same = ['        ["alpha"] =', "        {", '            ["x"] = 1,', "        },"]
+  expect(replaceOrInsertLuaBlockInText(text, "alpha", same, ["beta"])).toBe(text)
+})
+
+test("a value that never closes leaves the content unchanged", () => {
+  const text = 'V={["a"]={["sell"]={1,'
+  expect(replaceOrInsertLuaBlockInText(text, "sell", ["NEW"], [])).toBe(text)
+})
+
+test("a key whose value is no table is replaced up to the comma after that value", () => {
+  const out = replaceOrInsertLuaBlock(FILE, "beta", ['        ["beta"] = 3,'], [])
+  expect(out).toEqual(
+    FILE.map((line) => (line === '        ["beta"] = 2,' ? '        ["beta"] = 3,' : line))
+  )
+})
+
+test("the indent in a file on one line is none", () => {
+  expect(detectIndentInText(ONE_LINE, "sell", HOME_SIBLINGS)).toBe("")
 })

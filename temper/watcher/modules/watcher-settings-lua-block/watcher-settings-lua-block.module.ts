@@ -10,15 +10,44 @@ export const watcherSettingsLuaBlock = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The content is worked as text, so a file on one line works as a printed one does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The lines a caller hands in are joined, worked as text and split again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A block is found by the key written in brackets and quotes.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A block runs from its key to the brace closing the block.",
+      statement: "Braces and keys inside a quoted string or a comment are passed over.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Braces are counted so a nested block does not end the outer block.",
+      statement: "A block's home is the table directly holding the most of the sibling keys named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tie for the home goes to the shallower table, then to the table found first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key is looked for only in its home where any sibling is found.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where no sibling is found the key is looked for everywhere, first found first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A block runs from its key to the end of its value and the comma after that.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A block beginning its own line takes the blanks before its key along.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,7 +55,11 @@ export const watcherSettingsLuaBlock = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A key absent is inserted before the first sibling key found.",
+      statement: "Text outside the block replaced is kept byte for byte.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key absent from its home is inserted before the first sibling found there.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -34,19 +67,31 @@ export const watcherSettingsLuaBlock = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A block inserted before a sibling beginning its own line ends in a line break.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Content no anchor is found in is handed back unchanged.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The indent is taken from the key's own line where the key is there.",
+      statement: "Content where the value at the key never closes is handed back unchanged.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The indent falls back to the line of the first sibling found.",
+      statement: "The indent is taken from the key's line, the key in its home before any other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The indent falls back to the line of the first sibling found in the home.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The indent falls back to twelve spaces where no line is found.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here parses the file into values and prints the whole file again.",
     },
     {
       decisionKind: "decision-kind/absence",
