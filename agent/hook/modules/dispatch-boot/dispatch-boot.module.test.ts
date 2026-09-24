@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { REFUSED } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
+import { ASIDE } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
 const BOOT_AT = new URL("./dispatch-boot.module.code.ts", import.meta.url).pathname
@@ -11,8 +11,8 @@ function booted(payload: string): { readonly code: number; readonly err: string 
   return { code: done.code, err: done.err }
 }
 
-test("a payload that will not read is refused by the dispatch the boot loaded", () => {
+test("a payload that will not read is passed by the dispatch the boot loaded", () => {
   const said = booted("not a payload")
-  expect(said.code).toBe(REFUSED)
+  expect(said.code).toBe(ASIDE)
   expect(said.err).toContain("hook-dispatch: the payload would not read")
 })
