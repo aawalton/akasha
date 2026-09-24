@@ -84,6 +84,7 @@ export const temperAddonItems = {
     "module/inventory-config",
     "module/inventory-constants",
     "module/inventory-craft-shortfall",
+    "module/inventory-craft-shortfall-alchemy",
     "module/inventory-craft-shortfall-plan",
     "module/inventory-craft-shortfall-provisioning",
     "module/inventory-currency",

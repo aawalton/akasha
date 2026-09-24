@@ -3918,6 +3918,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-trace-fold/inventory-bank-trace-fold.module.ts","id":"01a06258-b528-7c01-a1ff-06f7e3a14a57"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.ts","id":"01a06258-b528-744f-9bd2-f905f500edb0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.ts","id":"01a06258-b529-71ba-8496-6c343352f8de"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.ts","id":"01a0d4af-83e7-7b4c-8ba4-e8ac6451d959"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.ts","id":"01a0d4a7-fd95-712e-997a-e1cf26ec6a80"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-provisioning/inventory-craft-shortfall-provisioning.module.ts","id":"01a0d4ad-3d1a-7e34-ae35-c1f07a79ed05"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.ts","id":"01a0d4ac-7aff-775b-b639-3af515c95fd0"}

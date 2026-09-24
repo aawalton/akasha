@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-events/potion-events.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/rune-panel/rune-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-auto-maintenance/inventory-auto-maintenance.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-provisioning/inventory-craft-shortfall-provisioning.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-enums-02.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/quiet-guild-invites/quiet-guild-invites.module.code.ts"}

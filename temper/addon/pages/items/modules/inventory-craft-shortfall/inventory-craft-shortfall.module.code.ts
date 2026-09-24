@@ -1,5 +1,6 @@
 import { buildItemFactsForLink } from "akasha/temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
+import { alchemyShortfallResolver } from "akasha/temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.code.ts"
 import {
   type CraftMakes,
   countsTowardHeld,
@@ -59,7 +60,7 @@ export interface CraftShortfallResolver extends CraftMakes {
 }
 
 function resolvers(this: void): readonly CraftShortfallResolver[] {
-  return [provisioningShortfallResolver()]
+  return [provisioningShortfallResolver(), alchemyShortfallResolver()]
 }
 
 function say(this: void, message: string): undefined {
