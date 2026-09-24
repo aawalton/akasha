@@ -266,7 +266,9 @@ end
 function WindowManager:CreateControlFromVirtual(name, parent, virtual, suffix)
   local full = name
   if suffix ~= nil then full = tostring(name) .. tostring(suffix) end
-  return birth(full, parent, CONTROL_TYPES.CT_CONTROL, virtual)
+  local template = virtuals[virtual]
+  local kind = template ~= nil and template.controlType or CONTROL_TYPES.CT_CONTROL
+  return birth(full, parent, kind, virtual)
 end
 
 function WindowManager:ApplyTemplateToControl(control, virtual)

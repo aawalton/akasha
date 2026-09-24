@@ -116,6 +116,10 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control made from a template is the kind of control that template declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control made from a template is given the controls that template declares.",
     },
     {
