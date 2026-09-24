@@ -11,4 +11,5 @@ export const ddnsHeadscale = {
   image: "registry.registry.svc.cluster.local:5000/cluster/ci:latest",
   schedule: "*/5 * * * *",
   manifest: ["manifest/ddns-headscale"],
+  secrets: ["secret/cloudflare-api-token"],
 } as const satisfies ServiceCluster

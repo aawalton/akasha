@@ -12,4 +12,8 @@ export const authProxy = {
   replicas: 2,
   containerPort: 3080,
   manifest: ["manifest/auth-proxy-manifests"],
+  secrets: [
+    "secret/alanwalton-secrets-handover-public-key",
+    "secret/auth-proxy-secrets-session-key",
+  ],
 } as const satisfies ServiceCluster

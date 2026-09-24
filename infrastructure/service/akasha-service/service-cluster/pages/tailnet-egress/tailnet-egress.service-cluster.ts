@@ -12,4 +12,5 @@ export const tailnetEgress = {
   replicas: 1,
   containerPort: 1055,
   manifest: ["manifest/tailnet-egress"],
+  secrets: ["secret/tailnet-egress-auth"],
 } as const satisfies ServiceCluster
