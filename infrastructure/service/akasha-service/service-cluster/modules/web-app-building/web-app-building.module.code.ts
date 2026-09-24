@@ -2,6 +2,7 @@ import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { quoted } from "akasha/code/shell/modules/quoting/quoting.module.code.ts"
 import { ran as running } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import {
   BUILD_STAMP,
@@ -106,8 +107,7 @@ function ranOf(argv: readonly string[], at: string): Ran {
 }
 
 export function unfoundIn(said: string): string | null {
-  const found = UNFOUND.exec(said)
-  return found === null ? null : (found[1] as string)
+  return firstCapture(UNFOUND.exec(said))
 }
 
 export function whyUninstallable(sha: string, ran: Ran): string | null {

@@ -12,6 +12,7 @@ import {
   numberAt,
   textAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const DEPLOYMENT = "Deployment"
 const STATEFUL_SET = "StatefulSet"
@@ -87,17 +88,17 @@ function labelOf(one: Watched): string {
   return `${one.kind} ${one.namespace}/${one.name}`
 }
 
+const LISTED = z.object({ items: z.array(z.unknown()) })
+
 export function seenIn(text: string): Seen | string {
-  let parsed: unknown
+  let listed: ReturnType<typeof LISTED.safeParse>
   try {
-    parsed = JSON.parse(text)
+    listed = LISTED.safeParse(JSON.parse(text))
   } catch {
     return "the cluster answered with no JSON"
   }
-  if (!isRecord(parsed) || !Array.isArray(parsed.items)) {
-    return "the cluster answered with no list of resources"
-  }
-  return parsed.items.filter(isRecord)
+  if (!listed.success) return "the cluster answered with no list of resources"
+  return listed.data.items.filter(isRecord)
 }
 
 function ofKindIn(seen: Seen, kind: string, namespace: string): readonly Held[] {
