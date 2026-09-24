@@ -17,5 +17,9 @@ export const athenaInteractiveSeatPages = {
       statement:
         "A message Alan sends from a seat's page queues for that seat as one typed in the TUI does.",
     },
+    {
+      statement:
+        "Alan attaches an image to a message from a seat's page, from his photos or from the camera.",
+    },
   ],
 } as const satisfies Initiative
