@@ -42,5 +42,19 @@ export const uiWindows = {
       decisionKind: "decision-kind/departure",
       statement: "A scene of the game's is shown through the game's own scene manager.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A window is opened by what its addon runs, a command, a key or a station's event.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window seeds its own addon's saved variables unless it says otherwise.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A window shown only in a zone, a guild or a treasure map's reading is out of reach here.",
+    },
   ],
 } as const satisfies Module

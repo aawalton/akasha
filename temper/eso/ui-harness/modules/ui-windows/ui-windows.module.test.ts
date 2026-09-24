@@ -17,6 +17,12 @@ describe("uiWindowSlugs", () => {
   test("names every window a run has brought up", () => {
     expect(uiWindowSlugs()).toContain("inventory-browser")
     expect(uiWindowSlugs()).toContain("characters-window")
+    expect(uiWindowSlugs()).toContain("combat-report")
+    expect(uiWindowSlugs()).toContain("crafting-runes")
+  })
+
+  test("names each window once", () => {
+    expect(new Set(uiWindowSlugs()).size).toBe(uiWindowSlugs().length)
   })
 })
 
