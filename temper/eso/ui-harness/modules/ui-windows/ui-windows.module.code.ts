@@ -24,6 +24,8 @@ const CRAFTING = "temper.addon.pages.items.crafting-station.modules"
 
 const LOREBOOKS = "temper.catalog.world.lorebook.modules"
 
+const SHOWS_HUD = 'SCENE_MANAGER:Show("hud")'
+
 const CRAFTING_OPENS = `
   local api = __bundle_require("${CRAFTING}.crafting-public-api.crafting-public-api.module.code")
     .TEMPER_ITEMS_CRAFTING_API
@@ -35,12 +37,7 @@ function ownWindow(slug: string, addon: string, control: string, opens: string):
 
 const OWN_WINDOWS: readonly UiWindow[] = [
   ownWindow("combat-report", "TemperCombat", "TemperCombat_Report", "TemperCombat_Report:Toggle()"),
-  ownWindow(
-    "combat-live-report",
-    "TemperCombat",
-    "TemperCombat_LiveReport",
-    'SCENE_MANAGER:Show("hud")'
-  ),
+  ownWindow("combat-live-report", "TemperCombat", "TemperCombat_LiveReport", SHOWS_HUD),
   ownWindow(
     "skill-point-finder",
     "TemperCharacters",
@@ -129,6 +126,25 @@ const OWN_WINDOWS: readonly UiWindow[] = [
         keys[2].callback()
       end)
       SCENE_MANAGER:Show("loreLibrary")
+    `
+  ),
+  ownWindow("hud-bar", "Temper", "TemperHudBar", SHOWS_HUD),
+  ownWindow("housing", "Temper", "HouseTravel_TLW", 'SLASH_COMMANDS["/temperhouses"]("open")'),
+  ownWindow(
+    "settings",
+    "Temper",
+    "TemperAddonMenuSettingsWindow",
+    'SLASH_COMMANDS["/temperhud"]()'
+  ),
+  ownWindow("task-hud", "TemperCharacters", "TemperTaskHUD_v2", SHOWS_HUD),
+  ownWindow("minimap", "TemperWorld", "ZO_WorldMap", SHOWS_HUD),
+  ownWindow(
+    "trading-browse",
+    "TemperItems",
+    "TemperItemsListingsBrowse",
+    `
+      SCENE_MANAGER:Show("tradinghouse")
+      __ui_raise(EVENT_OPEN_TRADING_HOUSE)
     `
   ),
 ]
