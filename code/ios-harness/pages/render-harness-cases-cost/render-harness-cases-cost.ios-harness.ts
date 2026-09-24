@@ -73,11 +73,11 @@ export const renderHarnessCasesCost = {
       statement: "A case naming a widget the bundle does not ship is asked for by no coverage.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here judges an image.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A person reads the drawing.",
     },
   ],

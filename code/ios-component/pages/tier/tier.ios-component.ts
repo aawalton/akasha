@@ -52,7 +52,7 @@ export const tier = {
       statement: "Nothing here reads the black rung in under a climbing scale.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "This placing and the server's are held together by the harness alone.",
     },
   ],

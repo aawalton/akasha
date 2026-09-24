@@ -113,10 +113,7 @@
 {"propertySlug":"decision-kind","path":"code/file-kind-domain/file-kind-domain.page-type.ts","id":"01a06837-0535-70c2-9917-d332b4b6a505"}
 {"propertySlug":"decision-kind","path":"code/file-purpose/file-purpose.page-type.ts","id":"01a06837-0535-7469-ab8e-6bda76b453a7"}
 {"propertySlug":"decision-kind","path":"code/file-purpose/pages/test-ts.file-purpose.ts","id":"01a06860-a0ef-77a2-b7d4-1fd2a8169652"}
-{"propertySlug":"decision-kind","path":"code/ios-component/pages/tier/tier.ios-component.ts","id":"01a05482-22df-7a91-9e4d-ba72f93c5851"}
-{"propertySlug":"decision-kind","path":"code/ios-component/pages/timeline-checks/timeline-checks.ios-component.ts","id":"01a08c75-6675-73c2-b0e1-37744996eaaf"}
 {"propertySlug":"decision-kind","path":"code/ios-component/properties/swift.code-file-property.ts","id":"01a05474-5474-79c9-8775-7972372e85d6"}
-{"propertySlug":"decision-kind","path":"code/ios-harness/pages/render-harness-cases-cost/render-harness-cases-cost.ios-harness.ts","id":"01a08c83-ffd7-7522-a7f2-606479a6ddb9"}
 {"propertySlug":"decision-kind","path":"code/ios-program/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts","id":"01a0590a-0b37-799f-8e3f-cb30189db988"}
 {"propertySlug":"decision-kind","path":"code/ios-program/pages/smilingjenny-decode-harness/smilingjenny-decode-harness.ios-program.ts","id":"01a0590a-0b38-7a31-a332-3212460d77ba"}
 {"propertySlug":"decision-kind","path":"code/module/properties/test.code-file-property.ts","id":"01a04a2e-7e3e-7000-acbe-3a33ab105ce0"}

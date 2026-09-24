@@ -25,7 +25,7 @@ export const timelineChecks = {
       statement: "A feed stating its own moment and a feed stating none are both asserted.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The provider's own timeline is compiled here and never run.",
     },
     {
