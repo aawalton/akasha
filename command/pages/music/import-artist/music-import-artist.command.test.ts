@@ -36,8 +36,13 @@ import {
   TODAY,
   workOf,
 } from "akasha/command/pages/music/import-artist/music-import-artist.command.test-fixtures.ts"
+import { z } from "zod"
 
 const ROOT = rootOf(process.cwd())
+
+const IMPORTED_SAID = z.looseObject({
+  artist: z.strictObject({ name: z.string(), mbid: z.string(), slug: z.string() }),
+})
 
 const GIVEN: Given = { root: ROOT, calledAs: "akasha", from: ".", writer: null, agentId: null }
 
@@ -327,7 +332,7 @@ test("what was brought in is said as rows and as JSON", () => {
     "lyrics\t2",
     "source\tworks",
   ])
-  expect(JSON.parse(jsonOf(said)).artist).toEqual({
+  expect(IMPORTED_SAID.parse(JSON.parse(jsonOf(said))).artist).toEqual({
     name: ARTIST_NAME,
     mbid: MBID,
     slug: ARTIST_SLUG,

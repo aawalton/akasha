@@ -15,8 +15,11 @@ import {
 import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 import { indexThere } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
+import { z } from "zod"
 
 const ROOT = codeRoot()
+
+const ARTISTS_SAID = z.looseObject({ artists: z.number() })
 
 const GIVEN: Given = {
   root: ROOT,
@@ -145,7 +148,7 @@ test("the json answer parses and counts the artists listed", () => {
   if (!indexThere(ROOT)) return
   const said = musicArtistList(["--json"], GIVEN)
   expect(said.code).toBe(0)
-  const parsed = JSON.parse(said.report.join("\n")) as { readonly artists: number }
+  const parsed = ARTISTS_SAID.parse(JSON.parse(said.report.join("\n")))
   expect(parsed.artists).toBeGreaterThan(0)
 })
 

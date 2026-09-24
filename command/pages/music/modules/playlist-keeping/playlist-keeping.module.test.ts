@@ -9,6 +9,20 @@ import {
   reconciledOver,
   rowsOf,
 } from "akasha/command/pages/music/modules/playlist-keeping/playlist-keeping.module.code.ts"
+import { z } from "zod"
+
+const KEPT_SAID = z.strictObject({
+  tracks: z.number(),
+  artists: z.number(),
+  adding: z.number(),
+  removing: z.number(),
+  kept: z.number(),
+  added: z.number(),
+  removed: z.number(),
+  ordered: z.number(),
+  link: z.string(),
+  titles: z.array(z.string()),
+})
 
 const LINK = "https://open.spotify.com/playlist/pl1"
 
@@ -103,17 +117,17 @@ test("the rows count what was added, what was removed and what was kept", () => 
 
 test("a planning run counts what it would add and remove, and counts nothing done", () => {
   const kept = keptOf(["two", "gone"])
-  const said = JSON.parse(jsonOf(kept))
+  const said = KEPT_SAID.parse(JSON.parse(jsonOf(kept)))
   expect([said.adding, said.removing, said.kept]).toEqual([2, 1, 1])
   expect([said.added, said.removed]).toEqual([0, 0])
 })
 
 test("the answer names the playlist's link", () => {
-  expect(JSON.parse(jsonOf(keptOf([]))).link).toBe(LINK)
+  expect(KEPT_SAID.parse(JSON.parse(jsonOf(keptOf([])))).link).toBe(LINK)
 })
 
 test("the machine-facing answer names every track picked", () => {
-  expect(JSON.parse(jsonOf(keptOf([]))).titles).toEqual([
+  expect(KEPT_SAID.parse(JSON.parse(jsonOf(keptOf([])))).titles).toEqual([
     "one-singer — Justice",
     "two-singer — Ampersand",
     "one-singer — Runaway",

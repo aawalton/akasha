@@ -55,6 +55,14 @@ import {
 } from "akasha/command/pages/music/capture/music-capture.command.test-fixtures.ts"
 import { statesVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { z } from "zod"
+
+const CAPTURE_SAID = z.looseObject({
+  recorded: z.number(),
+  firstListens: z.number(),
+  days: z.array(z.string()),
+  primed: z.boolean(),
+})
 
 test("a track Spotify names no id for is read as no play", () => {
   expect(providerTrackIn({ id: null, name: "One" })).toBe(null)
@@ -301,7 +309,7 @@ test("what this does not take is refused before Spotify is asked anything", asyn
 test("what was filed is said as rows or as JSON", () => {
   const planned = plannedOver([playOf("t1", "2026-08-21T12:00:00.000Z", "One", "Alpha")], LEDGER)
   expect(rowsOf(planned).join("\n")).toContain("recorded\t1")
-  expect(JSON.parse(jsonOf(planned))).toMatchObject({
+  expect(CAPTURE_SAID.parse(JSON.parse(jsonOf(planned)))).toMatchObject({
     recorded: 1,
     firstListens: 1,
     days: ["2026-08-21"],
