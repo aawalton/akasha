@@ -9,6 +9,7 @@ export const macbook = {
   address: "100.64.0.2",
   loginUser: "walton",
   keyPath: "~/.ssh/id_ed25519",
+  home: "/Users/walton",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

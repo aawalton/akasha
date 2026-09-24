@@ -25,12 +25,14 @@ export const host = {
     "text-property/host-address",
     "text-property/login-user",
     "text-property/key-path",
+    "text-property/host-home",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/host-address", required: false, many: false },
     { pageProperty: "text-property/login-user", required: false, many: false },
     { pageProperty: "text-property/key-path", required: false, many: false },
+    { pageProperty: "text-property/host-home", required: false, many: false },
   ],
   decisions: [
     {
