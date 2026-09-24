@@ -60,6 +60,14 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The addon's built files load in the order the addon's own manifest lists them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A document of the addon's builds its windows where it falls in that order.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "What was called for later runs once the game has loaded, once shown, and once the addon is up.",
     },

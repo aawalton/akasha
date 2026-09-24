@@ -1,5 +1,5 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
-import { join, relative } from "node:path"
+import { dirname, join, relative } from "node:path"
 import {
   stampIn,
   treeIn,
@@ -8,7 +8,10 @@ import {
   esoLiveDirCandidates,
   esouiSourceDir,
 } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
-import { gameFiles } from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
+import {
+  gameFiles,
+  manifestEntries,
+} from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
 import { namesUnstubbedLua } from "akasha/temper/eso/ui-harness/modules/game-names/game-names.module.code.ts"
 import {
   fontsLua,
@@ -155,6 +158,36 @@ function documentsFor(root: string): readonly string[] {
   return at.map((one) => readFileSync(one, "utf8"))
 }
 
+type Virtuals = ReturnType<typeof virtualsFrom>
+
+async function declareDocument(
+  harness: UiHarness,
+  text: string,
+  virtuals: Virtuals
+): Promise<void> {
+  const declared = declaredFrom([text], virtuals)
+  for (const chunk of declaredLua(declared, Object.keys(declared), PER_CHUNK)) {
+    await harness.load(`return ${chunk}`)
+  }
+}
+
+async function loadAddon(
+  harness: UiHarness,
+  bundleAt: string,
+  addon: string,
+  virtuals: Virtuals
+): Promise<void> {
+  const built = dirname(bundleAt)
+  for (const one of manifestEntries(readFileSync(join(built, `${addon}.txt`), "utf8"))) {
+    const at = join(built, one.rel)
+    if (!existsSync(at)) continue
+    const text = readFileSync(at, "utf8")
+    if (one.kind === "xml") await declareDocument(harness, text, virtuals)
+    else if (at === bundleAt) await harness.loadBundle(text)
+    else await harness.load(text, one.rel)
+  }
+}
+
 export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
   const bundleAt = builtBundleAt(asked.root, asked.addon)
   if (bundleAt === null) {
@@ -200,10 +233,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
         }
         continue
       }
-      const declared = declaredFrom([text], virtuals)
-      for (const chunk of declaredLua(declared, Object.keys(declared), PER_CHUNK)) {
-        await harness.load(`return ${chunk}`)
-      }
+      await declareDocument(harness, text, virtuals)
     }
     await settled(harness)
     for (const name of asked.shows) {
@@ -211,7 +241,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     }
     await settled(harness)
     await harness.load(ACCOUNT_WIDE)
-    await harness.loadBundle(readFileSync(bundleAt, "utf8"))
+    await loadAddon(harness, bundleAt, asked.addon, virtuals)
     for (const source of seeded) await harness.load(source)
     await harness.load("return __ui_play_as()")
     await settled(harness)
