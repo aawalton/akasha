@@ -5,6 +5,7 @@ export const ruth1 = {
   type: "page-type/scripture-passage",
   slug: "ruth-1",
   title: "Ruth 1",
+  partOfCollections: ["scripture-collection/ruth"],
   book: "Ruth",
   position: 1,
   ownLength: 0,

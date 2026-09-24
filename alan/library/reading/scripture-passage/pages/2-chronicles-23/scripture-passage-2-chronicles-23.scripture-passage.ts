@@ -5,6 +5,7 @@ export const scripturePassage2Chronicles23 = {
   type: "page-type/scripture-passage",
   slug: "scripture-passage-2-chronicles-23",
   title: "2 Chronicles 23",
+  partOfCollections: ["scripture-collection/scripture-collection-2-chronicles"],
   book: "2 Chronicles",
   position: 23,
   ownLength: 0,

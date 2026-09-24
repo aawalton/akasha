@@ -5,6 +5,7 @@ export const genesis19 = {
   type: "page-type/scripture-passage",
   slug: "genesis-19",
   title: "Genesis 19",
+  partOfCollections: ["scripture-collection/genesis"],
   book: "Genesis",
   position: 19,
   ownLength: 0,

@@ -5,6 +5,7 @@ export const exodus26 = {
   type: "page-type/scripture-passage",
   slug: "exodus-26",
   title: "Exodus 26",
+  partOfCollections: ["scripture-collection/exodus"],
   book: "Exodus",
   position: 26,
   ownLength: 0,

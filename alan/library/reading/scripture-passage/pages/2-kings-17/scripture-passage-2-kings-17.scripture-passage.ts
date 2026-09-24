@@ -5,6 +5,7 @@ export const scripturePassage2Kings17 = {
   type: "page-type/scripture-passage",
   slug: "scripture-passage-2-kings-17",
   title: "2 Kings 17",
+  partOfCollections: ["scripture-collection/scripture-collection-2-kings"],
   book: "2 Kings",
   position: 17,
   ownLength: 0,

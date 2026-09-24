@@ -5,6 +5,7 @@ export const exodus31314 = {
   type: "page-type/scripture-passage",
   slug: "exodus-3-13-14",
   title: "Exodus 3:13-14",
+  partOfCollections: ["scripture-collection/exodus"],
   book: "Exodus",
   translation: "web",
   position: 2,

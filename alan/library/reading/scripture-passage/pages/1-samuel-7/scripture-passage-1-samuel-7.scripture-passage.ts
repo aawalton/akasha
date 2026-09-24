@@ -5,6 +5,7 @@ export const scripturePassage1Samuel7 = {
   type: "page-type/scripture-passage",
   slug: "scripture-passage-1-samuel-7",
   title: "1 Samuel 7",
+  partOfCollections: ["scripture-collection/scripture-collection-1-samuel"],
   book: "1 Samuel",
   position: 7,
   ownLength: 0,

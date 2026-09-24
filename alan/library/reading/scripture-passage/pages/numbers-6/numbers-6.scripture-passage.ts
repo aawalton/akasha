@@ -5,6 +5,7 @@ export const numbers6 = {
   type: "page-type/scripture-passage",
   slug: "numbers-6",
   title: "Numbers 6",
+  partOfCollections: ["scripture-collection/numbers"],
   book: "Numbers",
   position: 6,
   ownLength: 0,

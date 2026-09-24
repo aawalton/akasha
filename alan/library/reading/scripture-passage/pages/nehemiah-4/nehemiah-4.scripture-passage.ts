@@ -5,6 +5,7 @@ export const nehemiah4 = {
   type: "page-type/scripture-passage",
   slug: "nehemiah-4",
   title: "Nehemiah 4",
+  partOfCollections: ["scripture-collection/nehemiah"],
   book: "Nehemiah",
   position: 4,
   ownLength: 0,

@@ -5,6 +5,7 @@ export const esther2 = {
   type: "page-type/scripture-passage",
   slug: "esther-2",
   title: "Esther 2",
+  partOfCollections: ["scripture-collection/esther"],
   book: "Esther",
   position: 2,
   ownLength: 0,

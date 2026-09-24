@@ -5,6 +5,7 @@ export const ezra2 = {
   type: "page-type/scripture-passage",
   slug: "ezra-2",
   title: "Ezra 2",
+  partOfCollections: ["scripture-collection/ezra"],
   book: "Ezra",
   position: 2,
   ownLength: 0,

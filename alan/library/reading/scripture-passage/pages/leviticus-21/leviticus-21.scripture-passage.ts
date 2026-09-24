@@ -5,6 +5,7 @@ export const leviticus21 = {
   type: "page-type/scripture-passage",
   slug: "leviticus-21",
   title: "Leviticus 21",
+  partOfCollections: ["scripture-collection/leviticus"],
   book: "Leviticus",
   position: 21,
   ownLength: 0,

@@ -5,6 +5,7 @@ export const judges10 = {
   type: "page-type/scripture-passage",
   slug: "judges-10",
   title: "Judges 10",
+  partOfCollections: ["scripture-collection/judges"],
   book: "Judges",
   position: 10,
   ownLength: 0,

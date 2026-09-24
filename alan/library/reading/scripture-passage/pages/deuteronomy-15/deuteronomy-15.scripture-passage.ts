@@ -5,6 +5,7 @@ export const deuteronomy15 = {
   type: "page-type/scripture-passage",
   slug: "deuteronomy-15",
   title: "Deuteronomy 15",
+  partOfCollections: ["scripture-collection/deuteronomy"],
   book: "Deuteronomy",
   position: 15,
   ownLength: 0,

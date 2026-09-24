@@ -5,6 +5,7 @@ export const joshua2 = {
   type: "page-type/scripture-passage",
   slug: "joshua-2",
   title: "Joshua 2",
+  partOfCollections: ["scripture-collection/joshua"],
   book: "Joshua",
   position: 2,
   ownLength: 0,

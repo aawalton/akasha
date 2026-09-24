@@ -5,6 +5,7 @@ export const deuteronomy645 = {
   type: "page-type/scripture-passage",
   slug: "deuteronomy-6-4-5",
   title: "Deuteronomy 6:4-5",
+  partOfCollections: ["scripture-collection/deuteronomy"],
   book: "Deuteronomy",
   translation: "web",
   position: 3,
