@@ -25,10 +25,7 @@ export const monarchCategory = {
       decisionKind: "decision-kind/departure",
       statement: "A category is named as Monarch titles it.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A merge or a rename in Monarch warns nobody here.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A category with no group is a category Alan wrote and Monarch never had.",
