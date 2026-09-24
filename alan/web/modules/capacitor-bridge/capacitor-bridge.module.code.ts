@@ -97,41 +97,6 @@ export interface AppPlugin {
   getLaunchUrl: () => Promise<AppUrlOpen | null | undefined>
 }
 
-export interface KokoroTtsEventMap {
-  progress: { positionFraction: number; playedSeconds: number }
-  waiting: Record<string, never>
-  playing: Record<string, never>
-  ended: Record<string, never>
-  error: { message: string }
-  downloadProgress: { received: number; total: number }
-}
-
-export interface KokoroTtsPlugin {
-  prepare: () => Promise<{ ready: boolean }>
-  startChapter: (options: {
-    chapterId: string
-    text: string
-    voice?: string
-    startFraction?: number
-  }) => Promise<void>
-  pause: () => Promise<void>
-  resume: () => Promise<void>
-  stop: () => Promise<void>
-  seek: (options: { fraction: number }) => Promise<void>
-  setRate: (options: { rate: number }) => Promise<void>
-  getState: () => Promise<{
-    playing: boolean
-    paused: boolean
-    positionFraction: number
-    ready: boolean
-    generating: boolean
-  }>
-  addListener: <E extends keyof KokoroTtsEventMap>(
-    eventName: E,
-    listener: (event: KokoroTtsEventMap[E]) => void
-  ) => PluginListenerHandle | Promise<PluginListenerHandle>
-}
-
 export interface StoplightsActivityEventMap {
   token: { value: string }
 }
@@ -154,7 +119,6 @@ interface CapacitorGlobal {
     PushNotifications?: PushNotificationsPlugin
     Badge?: BadgePlugin
     App?: AppPlugin
-    KokoroTts?: KokoroTtsPlugin
     DeviceSecret?: DeviceSecretPlugin
     HandoverSignIn?: HandoverSignInPlugin
     StoplightsActivity?: StoplightsActivityPlugin
@@ -235,18 +199,5 @@ export function getStoplightsActivity(): StoplightsActivityPlugin | null {
   if (typeof plugin.update !== "function") return null
   if (typeof plugin.end !== "function") return null
   if (typeof plugin.addListener !== "function") return null
-  return plugin
-}
-
-export function getKokoroTts(): KokoroTtsPlugin | null {
-  const plugin = capacitorGlobal()?.Plugins?.KokoroTts
-  if (plugin == null) return null
-  if (
-    typeof plugin.startChapter !== "function" ||
-    typeof plugin.prepare !== "function" ||
-    typeof plugin.addListener !== "function"
-  ) {
-    return null
-  }
   return plugin
 }
