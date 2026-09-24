@@ -115,20 +115,20 @@ export const noUnusedModules = {
       statement: "The check runs where a change names a file belonging to a module.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A change taking away the last import of a module is judged at audit rather than at change.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A module a path pieced together at run time names reads as unreached.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A module whose slug some unrelated body spells reads as reached.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A module whose code names import.meta.main only in a note reads as reached.",
     },
     {
