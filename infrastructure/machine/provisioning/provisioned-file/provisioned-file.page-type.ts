@@ -81,7 +81,7 @@ export const provisionedFile = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A page only says where a file goes.",
+      statement: "A page only says where a file goes and which units are masked.",
     },
   ],
   types: "ts",

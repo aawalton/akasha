@@ -9,8 +9,14 @@ export const logindIdleAction = {
   placedBy: "copy",
   onlyOn: "linux",
   installPath: "/etc/systemd/logind.conf.d/10-never-idle-suspend.conf",
-  reloadWith:
-    "sudo systemctl reload systemd-logind && sudo systemctl mask sleep.target suspend.target hibernate.target hybrid-sleep.target suspend-then-hibernate.target",
+  reloadWith: "sudo systemctl reload systemd-logind",
+  maskedUnits: [
+    "sleep.target",
+    "suspend.target",
+    "hibernate.target",
+    "hybrid-sleep.target",
+    "suspend-then-hibernate.target",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -22,12 +28,8 @@ export const logindIdleAction = {
         "Masking holds where a desktop setting is lost, because a lost setting is what suspended the machine.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The masking rides on the command that makes the body take effect.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A page states a unit is masked.",
+      decisionKind: "decision-kind/departure",
+      statement: "The page states the units it masks.",
     },
     {
       decisionKind: "decision-kind/absence",
