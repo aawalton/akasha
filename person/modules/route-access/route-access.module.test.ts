@@ -1,5 +1,4 @@
 import { expect, test } from "bun:test"
-import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-record/as-object-record.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { accessKind } from "akasha/person/access-kind/access-kind.page-type.ts"
 import { route } from "akasha/person/access-kind/pages/route.access-kind.ts"
@@ -18,6 +17,9 @@ import {
 } from "akasha/person/modules/route-access/route-access.module.code.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { person } from "akasha/person/person.page-type.ts"
+import { z } from "zod"
+
+const ASKED = z.looseObject({ pageTypeSlug: z.string() })
 
 const ACCOUNT_NOBODY_STATES = "00000000-0000-7000-8000-000000000000"
 
@@ -81,8 +83,8 @@ test("an account read to a person takes that person's grants", async () => {
 
 test("access pages that went unread open nothing", async () => {
   const fetcher: Fetcher = async (_url, init) => {
-    const asked = asObjectRecord(JSON.parse(String(init.body)))
-    if (asked?.["pageTypeSlug"] === "person") {
+    const asked = ASKED.parse(JSON.parse(String(init.body)))
+    if (asked.pageTypeSlug === "person") {
       return new Response(JSON.stringify({ rows: [{ slug: "jenny" }] }), {
         headers: { "content-type": "application/json" },
       })

@@ -28,6 +28,7 @@ import {
   recordingFetcher,
 } from "akasha/person/modules/enrolment/person-enrolment.module.test-fixtures.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
+import { z } from "zod"
 
 const ALAN_ACCOUNT = alan.supabaseAuthUserId
 
@@ -41,12 +42,14 @@ const AN_ID = "01a05b39-f50c-7841-a154-33ae8bc93e0a"
 
 type Rows = Record<string, readonly Record<string, unknown>[]>
 
+const ASKED = z.looseObject({
+  pageTypeSlug: z.string(),
+  where: z.record(z.string(), z.looseObject({ is: z.unknown() })).optional(),
+})
+
 function storeLike(byType: Rows): Fetcher {
   return async (_url, init) => {
-    const asked = JSON.parse(String(init.body)) as {
-      pageTypeSlug: string
-      where?: Record<string, { is?: unknown }>
-    }
+    const asked = ASKED.parse(JSON.parse(String(init.body)))
     const rows = (byType[asked.pageTypeSlug] ?? []).filter((value) => {
       for (const [key, wanted] of Object.entries(asked.where ?? {})) {
         if (value[key] !== wanted.is) return false
