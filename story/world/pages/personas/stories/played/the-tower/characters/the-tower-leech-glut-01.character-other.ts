@@ -6,4 +6,5 @@ export const theTowerLeechGlut01 = {
   slug: "the-tower-leech-glut-01",
   title: "The Glut",
   story: "story-played/the-tower",
+  place: "place/the-tower-floor-02",
 } as const satisfies CharacterOther
