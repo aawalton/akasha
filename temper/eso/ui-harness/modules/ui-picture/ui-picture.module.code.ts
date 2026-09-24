@@ -192,13 +192,15 @@ function fontOf(font: string | undefined): FontFace {
 
 function shownIn(root: UiControl): readonly UiControl[] {
   const shown: UiControl[] = []
-  function walk(one: UiControl, top: boolean): undefined {
+  function walk(one: UiControl, top: boolean, above: number): undefined {
     if (!top && one.hidden) return undefined
-    shown.push(one)
-    for (const child of one.children) walk(child, false)
+    const alpha = one.alpha * above
+    if (alpha <= 0) return undefined
+    shown.push({ ...one, alpha })
+    for (const child of one.children) walk(child, false, alpha)
     return undefined
   }
-  walk(root, true)
+  walk(root, true, 1)
   return shown
 }
 

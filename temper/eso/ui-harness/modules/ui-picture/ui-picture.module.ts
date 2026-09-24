@@ -23,6 +23,14 @@ export const uiPicture = {
       statement: "A hidden control and everything under that control are left out.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game fades a control by its own alpha times that of every control above it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A control faded to nothing and everything under it are left out.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A color the game states from nought to one becomes a color a browser reads.",
     },

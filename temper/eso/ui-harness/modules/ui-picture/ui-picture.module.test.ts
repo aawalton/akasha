@@ -191,6 +191,29 @@ describe("pictureHtml", () => {
     expect(html).not.toContain("FrameGone")
   })
 
+  test("fades a control by the alpha of every control holding it", () => {
+    const html = pictureHtml(
+      control({
+        name: "Frame",
+        width: 100,
+        height: 100,
+        alpha: 0.5,
+        children: [
+          control({ name: "FrameHalf", controlType: CT_LABEL, alpha: 0.5, text: "faint" }),
+          control({
+            name: "FrameGone",
+            alpha: 0,
+            children: [control({ name: "FrameUnder", controlType: CT_LABEL, text: "unseen" })],
+          }),
+        ],
+      })
+    )
+    expect(html).toContain(
+      'title="FrameHalf" style="left:0px;top:0px;overflow:visible;opacity:0.25;'
+    )
+    expect(html).not.toContain("unseen")
+  })
+
   test("pictures the control a caller names even where that control is hidden", () => {
     const html = pictureHtml(control({ name: "Frame", hidden: true, width: 10, height: 10 }))
     expect(html).toContain("Frame")
