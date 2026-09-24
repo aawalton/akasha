@@ -36,7 +36,7 @@ export function __TS__DecorateLegacy<TTarget extends AnyTable, TKey extends keyo
         const isSimpleValue =
           desc.configurable === true && desc.writable === true && !desc.get && !desc.set
         if (isSimpleValue) {
-          rawset(target, key, desc.value)
+          rawset(target, key, desc.value as TTarget[TKey])
         } else {
           __TS__SetDescriptor(target, key, { ...descriptor, ...desc })
         }

@@ -102,10 +102,10 @@ export class __TS__Promise<T> implements Promise<T> {
     rejectedCallback: (rejectionReason: any) => void
   ): undefined {
     if (this.state.tag === "fulfilled") {
-      return fulfilledCallback(this.state.value)
+      return fulfilledCallback(this.state.value) as undefined
     }
     if (this.state.tag === "rejected") {
-      return rejectedCallback(this.state.reason)
+      return rejectedCallback(this.state.reason) as undefined
     }
 
     this.fulfilledCallbacks.push(fulfilledCallback)
@@ -162,7 +162,7 @@ export class __TS__Promise<T> implements Promise<T> {
         callbacks[i - 1](value)
       }
       if (finallyCallbacksLength === 0) {
-        return callbacks[callbacksLength - 1](value)
+        return callbacks[callbacksLength - 1](value) as undefined
       }
       callbacks[callbacksLength - 1](value)
     }
@@ -171,7 +171,7 @@ export class __TS__Promise<T> implements Promise<T> {
       for (const i of $range(1, finallyCallbacksLength - 1)) {
         finallyCallbacks[i - 1]()
       }
-      return finallyCallbacks[finallyCallbacksLength - 1]()
+      return finallyCallbacks[finallyCallbacksLength - 1]() as undefined
     }
   }
 
@@ -187,7 +187,7 @@ export class __TS__Promise<T> implements Promise<T> {
         TResult1 | PromiseLike<TResult1> | TResult2 | PromiseLike<TResult2>
       >(f, undefined, value)
       if (!success) {
-        return reject(resultOrError)
+        return reject(resultOrError) as undefined
       }
       return this.handleCallbackValue(resultOrError, resolve, reject)
     }
@@ -201,14 +201,14 @@ export class __TS__Promise<T> implements Promise<T> {
     if (isPromiseLike<TResult>(value)) {
       const nextpromise = asLuaPromise(value)
       if (nextpromise.state.tag === "fulfilled") {
-        return resolve(nextpromise.state.value)
+        return resolve(nextpromise.state.value) as undefined
       } else if (nextpromise.state.tag === "rejected") {
-        return reject(nextpromise.state.reason)
+        return reject(nextpromise.state.reason) as undefined
       } else {
         return nextpromise.addCallbacks(resolve, reject)
       }
     } else {
-      return resolve(value)
+      return resolve(value) as undefined
     }
   }
 }

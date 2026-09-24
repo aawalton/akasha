@@ -6,5 +6,5 @@ export function __TS__ObjectGetOwnPropertyDescriptors(
 ): Record<any, PropertyDescriptor | undefined> {
   const metatable = getmetatable(object)
   if (!metatable) return {}
-  return rawget(metatable, "_descriptors") ?? {}
+  return rawget(metatable as any, "_descriptors") ?? {}
 }

@@ -15,7 +15,7 @@ export function __TS__AsyncAwaiter(this: void, generator: (this: void) => void) 
       if (success) {
         return step(resultOrError)
       }
-      return reject(resultOrError)
+      return reject(resultOrError) as undefined
     }
 
     function step(this: void, result: unknown): undefined {
@@ -23,7 +23,7 @@ export function __TS__AsyncAwaiter(this: void, generator: (this: void) => void) 
         return
       }
       if (costatus(asyncCoroutine) === "dead") {
-        return resolve(result)
+        return resolve(result) as undefined
       }
       return __TS__Promise.resolve(result).addCallbacks(fulfilled, reject)
     }

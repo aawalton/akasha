@@ -5,12 +5,12 @@ interface ErrorType {
   new (...args: any[]): Error
 }
 
-type ErrorBase = new (...args: any[]) => any
+type ErrorBase = new (...args: any[]) => Error
 
 function initErrorClass(errorClass: ErrorType, name: string): any {
   errorClass.name = name
   return setmetatable(errorClass, {
-    __call: (_self: any, message: string) => new errorClass(message),
+    __call: (_self: any, message: unknown) => new errorClass(message),
   })
 }
 
