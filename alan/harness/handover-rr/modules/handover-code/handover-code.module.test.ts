@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { APP_AUDIENCE } from "akasha/alan/harness/handover-rr/modules/handover-app/handover-app.module.code.ts"
 import {
   CHALLENGE_CLAIM,
   CODE_SECONDS_CEILING,
@@ -9,7 +10,7 @@ import {
 } from "akasha/alan/harness/handover-rr/modules/handover-code/handover-code.module.code.ts"
 import { decodeJwt, exportPKCS8, exportSPKI, generateKeyPair } from "jose"
 
-const AUDIENCE = "com.alanwalton.app"
+const AUDIENCE = APP_AUDIENCE
 
 const ANOTHER_AUDIENCE = "https://tempereso.com"
 

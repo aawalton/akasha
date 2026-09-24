@@ -15,6 +15,10 @@ export const handoverApp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That id is imported from the app's page, so a web bundle carries it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A code reaches the app over a url scheme rather than over an origin.",
     },
     {

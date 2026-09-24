@@ -1,7 +1,8 @@
 import { CODE_PARAM } from "akasha/alan/harness/handover-rr/modules/handover-site/handover-site.module.code.ts"
+import { alanwalton } from "akasha/code/ios-app/pages/alanwalton/alanwalton.ios-app.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 
-export const APP_AUDIENCE = "com.alanwalton.app"
+export const APP_AUDIENCE = alanwalton.bundleId
 
 const APP_SCHEME = "alanwalton"
 

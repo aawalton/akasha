@@ -6,11 +6,12 @@ import {
   appMintingAt,
   challengeShown,
 } from "akasha/alan/harness/handover-rr/modules/handover-app/handover-app.module.code.ts"
+import { alanwalton } from "akasha/code/ios-app/pages/alanwalton/alanwalton.ios-app.ts"
 
 const A_CHALLENGE = "ungWv48Bz-pBQUDeXa4iI7ADYaOWF3qctBD_YfIAFa0"
 
-test("the app is named by its bundle id", () => {
-  expect(APP_AUDIENCE).toBe("com.alanwalton.app")
+test("the app is named by the bundle id its page states", () => {
+  expect(APP_AUDIENCE).toBe(alanwalton.bundleId)
 })
 
 test("a challenge of forty-three base64url characters is taken whole", () => {
