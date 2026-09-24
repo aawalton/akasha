@@ -13,6 +13,7 @@ export const theTower = {
   mechanicsWeight: "heavy",
   resolution: "formula",
   genre: ["litrpg"],
+  chapterBreak: "A new floor begins.",
   displayConfig: "json",
   gmContext: "json",
   resolutionMechanism: "json",

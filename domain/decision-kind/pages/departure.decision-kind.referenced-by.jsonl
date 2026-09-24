@@ -2305,6 +2305,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/seat/transcript-list/seat-transcript-list.command.ts","id":"01a06934-ff28-7819-ad05-c50a0471362c"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/acting-account/sms-acting-account.command.ts","id":"01a0685f-c8ed-7007-a130-cda36891535f"}
 {"propertySlug":"decision-kind","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
+{"propertySlug":"decision-kind","path":"command/pages/story/chapter-close/story-chapter-close.command.ts","id":"01a0d4e4-a424-7f86-8eaa-79660d7af676"}
 {"propertySlug":"decision-kind","path":"command/pages/story/character-file/story-character-file.command.ts","id":"01a0b700-39f3-76fc-b703-ad293459d8ed"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/apply/talos-apply.command.ts","id":"01a06809-a024-7ec0-9d74-4fc9c49d1ac0"}
 {"propertySlug":"decision-kind","path":"command/pages/talos/bootstrap/talos-bootstrap.command.ts","id":"01a06809-a024-70e5-84a3-155889fe2c3e"}
@@ -3559,6 +3560,7 @@
 {"propertySlug":"decision-kind","path":"story/game/panel/properties/drawn-in.relation-property.ts","id":"01a0c4c8-fe4c-7fa4-ae78-af86f4bbc920"}
 {"propertySlug":"decision-kind","path":"story/game/panel/properties/drawn.file-property.ts","id":"01a0c4aa-d1e0-72a8-83ce-aa0c398fe652"}
 {"propertySlug":"decision-kind","path":"story/game/properties/card-vocabulary.text-property.ts","id":"01a0c490-93a4-7348-934e-965d459c9515"}
+{"propertySlug":"decision-kind","path":"story/game/properties/chapter-break.text-property.ts","id":"01a0d4e1-a12d-7dcc-9da9-a8637b4b4192"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-attributes.multi-relation-property.ts","id":"01a0c48b-86e0-7f2b-8243-18250c6f5d6d"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-default-dice.relation-property.ts","id":"01a0c490-c585-74e8-b05c-48c21336bcce"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}

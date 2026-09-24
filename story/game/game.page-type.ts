@@ -50,6 +50,7 @@ export const game = {
     "page-type/game-lore-entry",
     "number-property/source-turn",
     "page-type/game-mechanic-run",
+    "text-property/chapter-break",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -92,6 +93,7 @@ export const game = {
       maxCount: null,
     },
     { pageProperty: "relation-property/player-entity", required: false, many: false },
+    { pageProperty: "text-property/chapter-break", required: false, many: false },
   ],
   decisions: [
     {

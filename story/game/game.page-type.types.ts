@@ -2,6 +2,7 @@ import type { Collection } from "akasha/alan/collection/collection.page-type.typ
 import type { ExternalId } from "akasha/alan/collection/external/properties/external-id.text-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { CardVocabulary } from "akasha/story/game/properties/card-vocabulary.text-property.types.ts"
+import type { ChapterBreak } from "akasha/story/game/properties/chapter-break.text-property.types.ts"
 import type { Config } from "akasha/story/game/properties/config.file-property.types.ts"
 import type { ControlledEntityKind } from "akasha/story/game/properties/controlled-entity-kind.select-property.types.ts"
 import type { CoordinatorAgent } from "akasha/story/game/properties/coordinator-agent.text-property.types.ts"
@@ -51,4 +52,5 @@ export type Game = Collection & {
   defaultDice?: GameDefaultDice
   panels?: GamePanels
   player?: PlayerEntity
+  chapterBreak?: ChapterBreak
 }

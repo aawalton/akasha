@@ -318,6 +318,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/sms/acting-account/sms-acting-account.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/sms/send/sms-send.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/sms/send/sms-send.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/story/character-file/story-character-file.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.test.ts"}

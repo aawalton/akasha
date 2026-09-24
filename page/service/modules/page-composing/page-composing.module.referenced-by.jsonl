@@ -30,6 +30,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/release-parts/music-release-parts.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/type-tracks/music-type-tracks.command.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/story/chapter-close/story-chapter-close.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/call-reading/call-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts"}

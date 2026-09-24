@@ -23,6 +23,10 @@ export const storyChapterPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chapter is made from its story's turns, and those turns then go.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A window block in a chapter's prose is drawn as its window card, as it is in a turn's prose.",
     },

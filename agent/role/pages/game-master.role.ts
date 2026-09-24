@@ -147,6 +147,17 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Close The Chapter",
+      act: "Close the chapter with `akasha story chapter-close` once a turn crosses your game's chapter break.",
+      warrant:
+        "Turns left open pile up on the play page, and a reader reads the story whole only as chapters.",
+      aids: [
+        "Close through the turn that crosses, titled for what the chapter told.",
+        "A game naming no chapter break closes no chapter.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Ask The World Builder",
       act: "Never read lore at world-builder disclosure; ask your game's world builder 'may I know X yet?'.",
       warrant:

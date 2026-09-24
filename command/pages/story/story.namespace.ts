@@ -4,7 +4,7 @@ export const story = {
   id: "01a0b700-14b1-7be0-b5a7-5e8a66c9eece",
   type: "page-type/namespace",
   slug: "story",
-  definition: "the stories this repository reads, and what a reading of them found",
-  parts: ["command/story-character-file"],
+  definition: "the stories this repository holds, and what a reading of them found",
+  parts: ["command/story-character-file", "command/story-chapter-close"],
   name: "story",
 } as const satisfies Namespace
