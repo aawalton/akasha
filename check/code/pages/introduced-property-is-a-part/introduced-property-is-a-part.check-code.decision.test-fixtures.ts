@@ -17,6 +17,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const TEXT = "text-property"
 
@@ -52,7 +53,7 @@ function stated(
   const said = abovedIn(above)
   const declared = declares.map((one) => ({ pagePropertySlug: one }))
   return (
-    `export const held = { id: ${JSON.stringify(`id-${slug}`)}, pageTypeSlug: "page-type", ` +
+    `export const held = { id: ${JSON.stringify(`id-${slug}`)}, type: "page-type/page-type", ` +
     `slug: ${JSON.stringify(slug)}${said}, properties: ${JSON.stringify(declared)}, ` +
     `partSlugs: ${JSON.stringify(parts)} }\n`
   )
@@ -73,7 +74,7 @@ export function typed(
       path,
       value: {
         id: `id-${slug}`,
-        pageTypeSlug: PAGE_TYPE,
+        type: `${pageType.slug}/${PAGE_TYPE}`,
         slug,
         ...(named === null ? {} : { extends: named }),
         properties: declares.map((one) => ({ pagePropertySlug: one })),

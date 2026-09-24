@@ -12,7 +12,7 @@ const judge = reasonsIn(UNDER)
 
 test("the body judged is the one the change carries", () => {
   const body =
-    'export const held = {\n  pageTypeSlug: "instant-property",\n  slug: "created",\n} as const satisfies InstantProperty\n'
+    'export const held = {\n  type: "page-type/instant-property",\n  slug: "created",\n} as const satisfies InstantProperty\n'
   expect(judge(given(body))).toHaveLength(1)
 })
 

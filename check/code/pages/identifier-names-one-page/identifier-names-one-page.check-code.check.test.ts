@@ -53,7 +53,7 @@ function slugged(root: string, pageTypeSlug: string, slug: string, path: string)
 
 function body(kind: string, slug: string, id: string): Uint8Array {
   return bytesOf(
-    `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
+    `export const held = { id: ${JSON.stringify(id)}, type: ${JSON.stringify(`page-type/${kind}`)}, ` +
       `slug: ${JSON.stringify(slug)} }\n`
   )
 }
@@ -139,14 +139,14 @@ test("two pages of different page types carrying one slug are let through", () =
 function propertyBody(unique: string | null): Uint8Array {
   const said = unique === null ? "" : `, unique: ${JSON.stringify(unique)}`
   return bytesOf(
-    `export const held = { id: ${JSON.stringify(THREE)}, pageTypeSlug: ${JSON.stringify(TEXT)}, ` +
+    `export const held = { id: ${JSON.stringify(THREE)}, type: ${JSON.stringify(`page-type/${TEXT}`)}, ` +
       `slug: "name", propertySlug: "name"${said} }\n`
   )
 }
 
 function naming(slug: string, id: string): Uint8Array {
   return bytesOf(
-    `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "check", ` +
+    `export const held = { id: ${JSON.stringify(id)}, type: "page-type/check", ` +
       `slug: ${JSON.stringify(slug)}, name: "shared" }\n`
   )
 }
@@ -172,7 +172,7 @@ test("a page standing outside the change collides on a property the change makes
   put(root, outside, naming("outside", TWO))
   claiming(root, outside, TWO)
   valueAlsoFiled(root, "check", [
-    { path: outside, value: { id: TWO, pageTypeSlug: "check", slug: "outside", name: "shared" } },
+    { path: outside, value: { id: TWO, type: "page-type/check", slug: "outside", name: "shared" } },
   ])
   const said = judged(
     landing(root, {
@@ -208,7 +208,7 @@ test("two pages of a page type the change itself adds carrying one slug are refu
   const said = judged(
     landing(root, {
       [pathFor("page-type", "widget")]: bytesOf(
-        `export const held = { id: ${JSON.stringify(THREE)}, pageTypeSlug: "page-type", ` +
+        `export const held = { id: ${JSON.stringify(THREE)}, type: "page-type/page-type", ` +
           `slug: "widget", extends: ["${pageType.slug}/${page.slug}"] }\n`
       ),
       [pathFor("widget", "one")]: body("widget", "held", ONE),

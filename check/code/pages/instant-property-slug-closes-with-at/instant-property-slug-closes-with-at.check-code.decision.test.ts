@@ -10,7 +10,7 @@ function judge(text: string, path: string = AT): readonly string[] {
 }
 
 function page(pageTypeSlug: string, slug: string): string {
-  return `export const held = {\n  pageTypeSlug: "${pageTypeSlug}",\n  slug: "${slug}",\n} as const satisfies InstantProperty\n`
+  return `export const held = {\n  type: "page-type/${pageTypeSlug}",\n  slug: "${slug}",\n} as const satisfies InstantProperty\n`
 }
 
 test("an instant property whose slug closes with `-at` is let through", () => {
@@ -49,7 +49,7 @@ test("a page stating no page type is passed over", () => {
 test("a page whose slug is not written out as text is passed over", () => {
   const body = [
     "export const held = {",
-    '  pageTypeSlug: "instant-property",',
+    '  type: "page-type/instant-property",',
     "  slug: HELD,",
     "} as const satisfies InstantProperty",
   ].join("\n")
@@ -62,12 +62,12 @@ test("a page type the index holds under nothing is passed over", () => {
 
 test("a file describing an instant property rather than being one is passed over", () => {
   const body =
-    'export const held = {\n  pageTypeSlug: "instant-property",\n  slug: "not-closing",\n} as const\n'
+    'export const held = {\n  type: "page-type/instant-property",\n  slug: "not-closing",\n} as const\n'
   expect(judge(body, "akasha/made-up.test.ts")).toEqual([])
 })
 
 test("a file beside an instant property rather than holding one is passed over", () => {
   const body =
-    'export const held = {\n  pageTypeSlug: "instant-property",\n  slug: "created",\n} as const\n'
+    'export const held = {\n  type: "page-type/instant-property",\n  slug: "created",\n} as const\n'
   expect(judge(body, "akasha/created-at.instant-property.code.ts")).toEqual([])
 })

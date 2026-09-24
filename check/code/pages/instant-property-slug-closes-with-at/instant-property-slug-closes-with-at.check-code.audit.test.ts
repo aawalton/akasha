@@ -27,7 +27,7 @@ afterAll(scratch.sweep)
 
 function body(pageTypeSlug: string, slug: string): Uint8Array {
   return bytesOf(
-    `export const held = {\n  pageTypeSlug: "${pageTypeSlug}",\n  slug: "${slug}",\n} as const\n`
+    `export const held = {\n  type: "page-type/${pageTypeSlug}",\n  slug: "${slug}",\n} as const\n`
   )
 }
 

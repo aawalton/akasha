@@ -8,6 +8,7 @@ import {
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { writing } from "akasha/file/disk/modules/scratching/scratching.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const GAME_AT = "akasha/game.type-declaration.ts"
 
@@ -39,12 +40,12 @@ function rooted(own: string): string {
       path: GAME_AT,
       value: {
         id: GAME_ID,
-        pageTypeSlug: DECLARATION,
+        type: `${pageType.slug}/${DECLARATION}`,
         slug: "game",
         generated: { writtenBy: "held" },
       },
     },
-    { path: OWN_AT, value: { id: OWN_ID, pageTypeSlug: DECLARATION, slug: "own" } },
+    { path: OWN_AT, value: { id: OWN_ID, type: `${pageType.slug}/${DECLARATION}`, slug: "own" } },
   ])
   writing(root, GAME_D, GAME)
   writing(root, OWN_D, own)

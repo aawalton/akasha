@@ -10,6 +10,7 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const OBJECTS_AT = "akasha/objects.type-declaration.ts"
 
@@ -45,12 +46,15 @@ function rooted(): string {
       path: OBJECTS_AT,
       value: {
         id: OBJECTS_ID,
-        pageTypeSlug: DECLARATION,
+        type: `${pageType.slug}/${DECLARATION}`,
         slug: "objects",
         generated: { writtenBy: "held" },
       },
     },
-    { path: EXTRA_AT, value: { id: EXTRA_ID, pageTypeSlug: DECLARATION, slug: "extra" } },
+    {
+      path: EXTRA_AT,
+      value: { id: EXTRA_ID, type: `${pageType.slug}/${DECLARATION}`, slug: "extra" },
+    },
   ])
   return root
 }

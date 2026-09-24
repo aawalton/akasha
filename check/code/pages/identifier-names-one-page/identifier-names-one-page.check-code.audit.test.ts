@@ -29,7 +29,7 @@ afterAll(scratch.sweep)
 
 function body(slug: string, id: string): Uint8Array {
   return bytesOf(
-    `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: "check", ` +
+    `export const held = { id: ${JSON.stringify(id)}, type: "page-type/check", ` +
       `slug: ${JSON.stringify(slug)} }\n`
   )
 }

@@ -20,6 +20,7 @@ import {
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ADDON = "temper-addon"
 
@@ -152,7 +153,7 @@ function rooted(bodies: Readonly<Record<string, string>>, entry = "main"): strin
   const slugs = slugsIn(bodies)
   const parts = [`${DECLARATION}/${IDS}`, ...slugs.map((one) => `${MODULE}/${one}`)]
   const bundleEntry = `${MODULE}/${entry}`
-  const value = { id: ADDON_ID, pageTypeSlug: ADDON, slug: ONE, parts, bundleEntry }
+  const value = { id: ADDON_ID, type: `${pageType.slug}/${ADDON}`, slug: ONE, parts, bundleEntry }
   valueAlsoFiled(root, ADDON, [{ path: ADDON_AT, value }])
   listedFiled(root, DECLARATION, IDS, [{ path: IDS_PAGE_AT, id: IDS_ID }])
   writing(root, IDS_AT, DECLARES)

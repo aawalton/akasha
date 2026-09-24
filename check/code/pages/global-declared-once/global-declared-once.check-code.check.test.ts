@@ -25,6 +25,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -90,7 +91,10 @@ function ambient(root: string): undefined {
   relationFiled(root, AMBIENT_ID, DECLARES, DECLARER_ID, [{ path: DECLARER_AT }])
   listedFiled(root, DECLARER, "shared", [{ path: SHARED_PAGE_AT, id: SHARED_PAGE_ID }])
   valueAlsoFiled(root, DECLARER, [
-    { path: SHARED_PAGE_AT, value: { id: SHARED_PAGE_ID, pageTypeSlug: DECLARER, slug: "shared" } },
+    {
+      path: SHARED_PAGE_AT,
+      value: { id: SHARED_PAGE_ID, type: `${pageType.slug}/${DECLARER}`, slug: "shared" },
+    },
   ])
 }
 

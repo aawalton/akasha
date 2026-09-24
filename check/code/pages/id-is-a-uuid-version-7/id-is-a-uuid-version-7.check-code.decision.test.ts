@@ -101,7 +101,7 @@ test("the id is read whichever line it is written on", () => {
   const body = [
     "export const one = {",
     '  slug: "held",',
-    '  pageTypeSlug: "check",',
+    '  type: "page-type/check",',
     '  id: "held-1",',
     "} as const satisfies Check",
   ].join("\n")
