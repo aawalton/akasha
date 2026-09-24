@@ -136,7 +136,6 @@
 {"propertySlug":"decision-kind","path":"code/module/properties/test.code-file-property.ts","id":"01a04a2e-7e3e-7000-acbe-3a33ab105ce0"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-tokens/code-tokens.module.ts","id":"01a06558-3a63-729e-8295-2e17302585fe"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-typing/code-typing.module.ts","id":"01a058ec-4a71-7000-9c3e-6b1f0a2d4e55"}
-{"propertySlug":"decision-kind","path":"code/running/modules/code-format/code-format.module.ts","id":"01a04edc-5281-769c-8ba8-522d8f569095"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-tests/code-tests.module.ts","id":"01a04eb6-9e5f-7000-9bb8-11bc82309d76"}
 {"propertySlug":"decision-kind","path":"code/rust-module/rust-module.page-type.ts","id":"01a0602d-6acf-7594-86e8-07b54a35a700"}
 {"propertySlug":"decision-kind","path":"code/shell-script/pages/bash-env/bash-env.shell-script.ts","id":"01a06860-f3aa-7219-a6c2-9803ce5b7b07"}

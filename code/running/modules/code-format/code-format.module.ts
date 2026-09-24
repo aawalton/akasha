@@ -175,10 +175,7 @@ export const codeFormat = {
       decisionKind: "decision-kind/departure",
       statement: "Which kinds the formatter owns is answered here rather than by the formatter.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Those kinds are named here rather than read off the formatter's own config.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement:
