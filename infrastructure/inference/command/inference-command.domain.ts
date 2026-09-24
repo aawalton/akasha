@@ -32,7 +32,7 @@ export const inferenceCommand = {
       statement: "A command here reads a service from that service's own page.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The hosts a command here reads are pages rather than a list in code.",
     },
   ],
