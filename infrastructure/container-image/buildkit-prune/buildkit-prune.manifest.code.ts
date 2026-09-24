@@ -2,14 +2,14 @@ import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-s
 import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { buildkitPrune as page } from "akasha/infrastructure/container-image/buildkit-prune/buildkit-prune.manifest.ts"
+import { buildkitPrune } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/buildkit-prune/buildkit-prune.service-cluster.ts"
 
-const NAMESPACE = "buildkit"
+const NAMESPACE = buildkitPrune.namespace
 const APP_NAME = "buildkit"
 const INSTANCE_NAME = "infra"
 const COMPONENT = "buildkit"
 const PART_OF = "infra"
 const MANAGED_BY = "deploy-script"
-const BUILDKIT_IMAGE = "moby/buildkit:v0.28.0"
 
 const RESOURCE_LABELS = {
   "app.kubernetes.io/name": APP_NAME,
@@ -28,13 +28,13 @@ const CRONJOB_POD_LABELS = {
 function pruneCronjobYaml(): string {
   return synthOne(NAMESPACE, "prune-cronjob", {
     apiVersion: "batch/v1",
-    kind: "CronJob",
+    kind: buildkitPrune.resourceKind,
     metadata: {
-      name: "buildkit-prune",
+      name: buildkitPrune.resourceName,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      schedule: "0 4 * * 0",
+      schedule: buildkitPrune.schedule,
       concurrencyPolicy: "Forbid",
       successfulJobsHistoryLimit: 1,
       failedJobsHistoryLimit: 3,
@@ -49,7 +49,7 @@ function pruneCronjobYaml(): string {
               containers: [
                 {
                   name: "prune",
-                  image: BUILDKIT_IMAGE,
+                  image: buildkitPrune.image,
                   command: [
                     "buildctl",
                     "--addr",
