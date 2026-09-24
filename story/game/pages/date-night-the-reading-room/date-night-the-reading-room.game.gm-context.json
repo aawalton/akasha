@@ -241,6 +241,25 @@
         "Editors never touch prose, never write rows, and never re-litigate a declined finding; a recurrence cited as recurrence is new evidence."
       ],
       "title": "The editorial loop — editor subagents, author's discretion"
+    },
+    {
+      "id": "loremaster",
+      "bands": [
+        "After publishing a turn, spawn a loremaster subagent. It checks the published turn against the lore pages and proposes new facts, each at `lore-disclosure/game-master` or `lore-disclosure/player`, never at `lore-disclosure/world-builder`.",
+        "Land the proposed facts you accept."
+      ],
+      "title": "The loremaster checks each published turn"
+    },
+    {
+      "id": "world-builder",
+      "bands": [
+        "The world builder sits above you in the seat `<your persona>-world-builder-date-night-the-reading-room`. It alone moves a lore page's disclosure down: `lore-disclosure/world-builder`, then `lore-disclosure/game-master`, then `lore-disclosure/player`, then `lore-disclosure/wiki`, never back.",
+        "Lore at `lore-disclosure/world-builder` never reaches you; a hook refuses your reads of it.",
+        "Reach the world builder only to ask whether you may know a fact yet, never for approval of what you write.",
+        "After publishing each turn, send the world builder the published turn's page path: `akasha seat send --to <your persona>-world-builder-date-night-the-reading-room --body '<text>'`. When play reaches the moment a fact waits on, the world builder moves that lore page down and sends you its path.",
+        "A refused send leaves the fact hidden; play on."
+      ],
+      "title": "The world builder"
     }
   ],
   "turnContract": {
@@ -260,6 +279,14 @@
       {
         "id": "publish",
         "requirement": "Publish-turn."
+      },
+      {
+        "id": "loremaster",
+        "requirement": "After publishing, spawn a loremaster subagent on the published turn; land the new facts you accept."
+      },
+      {
+        "id": "world-builder",
+        "requirement": "Send the world builder the published turn's page path with `akasha seat send`."
       },
       {
         "id": "update-continuity",
