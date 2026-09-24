@@ -4,7 +4,7 @@ export const ryn = {
   id: "019f280a-96ef-7ec1-96c7-92d2acfc2fb7",
   type: "page-type/persona",
   slug: "ryn",
-  cover: "/api/image/019f324d-7ef7-7d92-a055-e0ea96d6ae10",
+  cover: "image/image-a99e54077778133a",
   definition:
     "a butterfly-winged librarian who counts nothing shelved until it is in a reader's hands",
   decisions: [

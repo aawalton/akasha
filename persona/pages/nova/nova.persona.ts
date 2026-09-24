@@ -4,7 +4,7 @@ export const nova = {
   id: "019f0562-42f7-7a2c-bb5b-e293a89210a4",
   type: "page-type/persona",
   slug: "nova",
-  cover: "/api/image/019f324d-5c9a-7d06-94de-a89ac07159b5",
+  cover: "image/image-252ed27a3e5ff748",
   definition:
     "a goblin LitRPG reader who weighs every story as loot and wants you in the pile with her",
   purpose:

@@ -4,7 +4,7 @@ export const foodEntry20260910HavartiCheese = {
   id: "01a08d04-0757-7000-9cbc-f12e6e1919f2",
   type: "page-type/food-entry",
   slug: "food-entry-2026-09-10-havarti-cheese",
-  cover: "/api/image/01a0c5f7-a047-7d85-ac88-2c3e0e3c53fe",
+  cover: "image/image-d2400e7bc9fd6bd2",
   title: "Havarti Cheese",
   happenedAt: "2026-09-10T20:30:46.603Z",
   estimatedCalories: 80,

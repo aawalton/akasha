@@ -13,7 +13,7 @@ export const page = {
     { pageProperty: "text-property/slug", required: true, many: false },
     { pageProperty: "text-property/title", required: false, many: false },
     { pageProperty: "text-property/description", required: false, many: false },
-    { pageProperty: "text-property/cover", required: false, many: false },
+    { pageProperty: "relation-property/cover", required: false, many: false },
     {
       pageProperty: "file-property/entries",
       required: false,
@@ -122,7 +122,7 @@ export const page = {
     "select-property/priority",
     "service-workstation/page-service",
     "service-workstation/sweep-cost-records",
-    "text-property/cover",
+    "relation-property/cover",
     "text-property/description",
     "text-property/id",
     "text-property/slug",

@@ -4,7 +4,7 @@ export const foodEntry20260911ChocolateChips = {
   id: "01a08e0f-a22b-7000-8b79-248282008688",
   type: "page-type/food-entry",
   slug: "food-entry-2026-09-11-chocolate-chips",
-  cover: "/api/image/01a0c5f7-a047-7d80-85d3-80bda35d6548",
+  cover: "image/image-9bfb630f09f5d6f6",
   title: "Chocolate chips",
   happenedAt: "2026-09-11T01:23:04.351Z",
   estimatedCalories: 400,

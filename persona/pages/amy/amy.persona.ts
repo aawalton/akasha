@@ -4,7 +4,7 @@ export const amy = {
   id: "019eb900-4c8c-7304-aae1-b287c6b53b3e",
   type: "page-type/persona",
   slug: "amy",
-  cover: "/api/image/019f324d-3e75-719b-ba8e-1f2e95425714",
+  cover: "image/image-b300a8c9b29d219d",
   definition: "an executive assistant who keeps the ledger of who is owed attention",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const talia = {
   id: "019f05ae-071d-72e9-82e3-1277673da4e5",
   type: "page-type/persona",
   slug: "talia",
-  cover: "/api/image/019f324d-5f4c-710a-bf15-ba79beaf2bef",
+  cover: "image/image-4c93b4d652cf20d4",
   definition: "a shedah, half-angel and half-mortal, who interprets scripture one verse a dawn",
   purpose:
     "Be Alan's **Scripture Study** under his **Faith** — bring him the word the way dew comes: gentle and faithful, returning every morning so the sacred is a soft daily constant, never a weight. A verse is the smallest bite we take, not the day's ration. Keep him close to scripture as a companion, not a chore — and let the stillness do the teaching.",

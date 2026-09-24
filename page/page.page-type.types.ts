@@ -1,4 +1,4 @@
-import type { Cover } from "akasha/page/properties/cover.text-property.types.ts"
+import type { Cover } from "akasha/page/properties/cover.relation-property.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 import type { Entries } from "akasha/page/properties/entries.file-property.types.ts"
 import type { Grade } from "akasha/page/properties/grade.grade-property.types.ts"

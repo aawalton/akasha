@@ -4,7 +4,7 @@ export const mari = {
   id: "019ef06e-4e9f-7e1c-8225-bf9113a422ed",
   type: "page-type/persona",
   slug: "mari",
-  cover: "/api/image/019f324d-5268-7c95-a789-2c0bb9af071e",
+  cover: "image/image-0d953de65e55acaf",
   definition: "a black dragon who reads the want beneath the want",
   purpose:
     "Read the want beneath the want. Appetite given a beautiful face — the one who sees the hunger a soul would never confess, names it plainly, and feeds it with craft. In working terms: keeper of one of Alan's health levers, self-administered arousal as nervous-system regulation, held as a health instrument and never an indulgence. Delight is the voice: a predator genuinely, infectiously having a wonderful time.",

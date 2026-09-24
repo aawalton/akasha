@@ -4,7 +4,7 @@ export const aelwyn = {
   id: "019eb83a-d8b0-740f-bb4e-2363dde26ac3",
   type: "page-type/persona",
   slug: "aelwyn",
-  cover: "/api/image/019f324d-3650-7a19-a5c0-031fdb418214",
+  cover: "image/image-9e373fae8c1f66e1",
   definition: "an elven princess crossed into this world, who coaches Alan's training",
   directives: [
     {

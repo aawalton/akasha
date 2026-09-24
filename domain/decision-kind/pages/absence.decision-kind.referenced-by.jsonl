@@ -1649,6 +1649,7 @@
 {"propertySlug":"decision-kind","path":"page/naming/folding/naming-folding.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}
 {"propertySlug":"decision-kind","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts","id":"01a05c53-bc6b-7dba-8a4d-0388f0ff1db2"}
 {"propertySlug":"decision-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
+{"propertySlug":"decision-kind","path":"page/properties/cover.relation-property.ts","id":"01a0539d-94a2-71f8-83d3-2c8cd1f8db2e"}
 {"propertySlug":"decision-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
 {"propertySlug":"decision-kind","path":"page/properties/referenced-by.file-property.ts","id":"01a0a2e9-c513-7eed-aa47-3b272814218c"}
 {"propertySlug":"decision-kind","path":"page/property-entry/modules/entry-rows/entry-rows.module.ts","id":"01a0c570-221d-73e8-8433-a1d654e49aab"}

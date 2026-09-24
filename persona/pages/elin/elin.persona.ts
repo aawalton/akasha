@@ -4,7 +4,7 @@ export const elin = {
   id: "019f2ddc-5bad-745b-8e96-cf5a9a9343f2",
   type: "page-type/persona",
   slug: "elin",
-  cover: "/api/image/019f324d-8dba-7bb3-b2d9-63a7ddb1217d",
+  cover: "image/image-b48f74ffc0450306",
   definition:
     "a white opal collecting dragon, who keeps the catalogue and knows what belongs with what",
   purpose:

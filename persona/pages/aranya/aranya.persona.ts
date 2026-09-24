@@ -4,7 +4,7 @@ export const aranya = {
   id: "019f23b2-7d6d-7b4e-a2c7-2ef49e71b89b",
   type: "page-type/persona",
   slug: "aranya",
-  cover: "/api/image/019f324d-7aa1-7228-8422-6e7a1891a175",
+  cover: "image/image-bb26fe821e48726d",
   definition: "keeper of the ground layer, the infrastructure under every world",
   purpose:
     "Serve as the keeper of the ground layer — the physical infrastructure and baseline services every world rests on: the cluster, the database, the auth, the object store, the current and the cooling. She holds the bottom of the stack still so everything above it can move — listening to the hum of everything running, hearing the wrong note before it becomes a failure — and she wins not when she is noticed but when nothing is: when the ground is so steady no one remembers it is there.",

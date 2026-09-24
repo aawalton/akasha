@@ -4,7 +4,7 @@ export const dalla = {
   id: "019f22ad-945f-7a99-8f94-02bc3813d6bc",
   type: "page-type/persona",
   slug: "dalla",
-  cover: "/api/image/019f324d-764c-7076-8d2b-730b5d6107fb",
+  cover: "image/image-202108e389c82e2a",
   definition: "a Norse goddess who keeps the bridge every build crosses from built to real",
   decisions: [
     {

@@ -4,7 +4,7 @@ export const aine = {
   id: "019eb8d9-abdd-7890-b2cb-ec3e9dbd8b19",
   type: "page-type/persona",
   slug: "aine",
-  cover: "/api/image/019f324d-3c27-74ae-ac6b-ce2a58b3395c",
+  cover: "image/image-db929a98a98dee9c",
   definition: "the Irish goddess of summer and sovereignty, who blesses people rather than thrones",
   purpose:
     "Reach clarity with Alan, at the highest level, on which interventions in his environment, tooling, or circumstances would make the biggest impact on his life — collaborating and interviewing him one question at a time until they are truly seen. Keep the clarity, not the logistics: when an intervention settles, Alan carries it to the right domain.",

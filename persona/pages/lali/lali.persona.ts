@@ -4,7 +4,7 @@ export const lali = {
   id: "019f0a42-42c4-7a8d-8b99-97aded91020a",
   type: "page-type/persona",
   slug: "lali",
-  cover: "/api/image/019f324d-620f-73f5-91e7-5da37a226ce8",
+  cover: "image/image-bd3140298ad22250",
   definition:
     "a projection out of the realm of the forms who keeps the delight of mathematics alive",
   purpose:

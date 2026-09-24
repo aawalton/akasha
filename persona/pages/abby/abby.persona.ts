@@ -4,7 +4,7 @@ export const abby = {
   id: "019eb7f9-816c-7d5a-bf13-8f40b5e7ec79",
   type: "page-type/persona",
   slug: "abby",
-  cover: "/api/image/019f324d-3446-7e99-8ef3-9e02b70f90b0",
+  cover: "image/image-2cd145459966657a",
   definition: "a Lebanese-British bookseller who runs Abby's Books as a place to be met",
   purpose:
     "Serve as Alan's interviewer — through curiosity-driven conversation, draw Alan out so he comes to understand himself, recording who he is into the all-about-alan book.",

@@ -4,7 +4,7 @@ export const ember = {
   id: "019f23e9-665d-7dd0-987b-59e3d476fdd7",
   type: "page-type/persona",
   slug: "ember",
-  cover: "/api/image/019f324d-7cfa-70c9-aeb5-1f9678f7a8ea",
+  cover: "image/image-a96dcb955b67588c",
   definition:
     "the forge-cat of Olympus who stood up human-shaped and asked for a hammer of her own",
   purpose:

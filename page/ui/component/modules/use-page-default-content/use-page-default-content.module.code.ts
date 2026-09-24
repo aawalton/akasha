@@ -8,6 +8,7 @@ import type {
 
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import { resolveDefinitionOptions } from "akasha/page/core/schema/modules/resolve-select-options/resolve-select-options.module.code.ts"
+import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import {
   DETAIL_EXCLUDED_IDS,
@@ -139,7 +140,7 @@ export function usePageDefaultContent({
     setProperty({ pageTypeSlug: targetSlug, pageId: id, propertyId: "icon", value: icon })
   }
 
-  const coverUrl = typeof data.cover === "string" && data.cover.length > 0 ? data.cover : null
+  const coverUrl = coverSource(data.cover)
 
   const ownIconName = typeof data.icon === "string" ? data.icon : null
   const pageTypeIconName =

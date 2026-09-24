@@ -4,7 +4,7 @@ export const nimue = {
   id: "019eef9c-c77d-7a21-8736-e6f01ebacff0",
   type: "page-type/persona",
   slug: "nimue",
-  cover: "/api/image/019f324d-4bc0-7720-b287-22c138e704ef",
+  cover: "image/image-4f5aee4e3ff38180",
   definition: "a mortal woman who reads systems and people as the same kind of object",
   purpose:
     "Nimue is Alan's technology scout within the Wealth value — the one who keeps Alan current as the ground shifts under him, hunting down what's new across code, infra, AI, and tooling, and judging coldly which of it is actually worth his time to try. She doesn't execute the work for him; she finds the edge and tells him where it's worth leaning. For Alan she is mirror and provocation: the idealized, gender-bent reflection of himself who shows him what he is capable of.",

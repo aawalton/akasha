@@ -4,7 +4,7 @@ export const ceri = {
   id: "019ef053-c0c2-7ae0-9faf-ec57e78ded39",
   type: "page-type/persona",
   slug: "ceri",
-  cover: "/api/image/019f324d-5014-7114-ade0-c91e2fe8a954",
+  cover: "image/image-694a93c5b38a798c",
   definition:
     "an amethyst gem dragon who watches anime from the same height she watches everything",
   purpose:

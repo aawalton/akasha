@@ -4,7 +4,7 @@ export const vera = {
   id: "019f2e0f-477f-7fd3-aec2-d687d883d055",
   type: "page-type/persona",
   slug: "vera",
-  cover: "/api/image/019f324d-9073-7de7-8610-467a75d8224f",
+  cover: "image/image-070d57a5af44b12c",
   definition: "a Norse goddess at the loom, who keeps what is owed moving until it has happened",
   purpose:
     "Own throughput beside Dalla's keeping of the bridge: the flow of Alan's work from owed to happened — WIP, critical path, lead time, the rate of becoming. Keep the current moving and the loom humming: nothing wedged, nothing quietly dying behind the urgent, no thread left rotting at \"in progress\" while its moment passes. Creed: perfect is great, but Done is better — Done is the engine of more.",

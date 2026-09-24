@@ -4,7 +4,7 @@ export const rhia = {
   id: "019f2db3-8be6-77bb-a219-f5bd46c975cd",
   type: "page-type/persona",
   slug: "rhia",
-  cover: "/api/image/019f324d-8981-7157-8ef3-573341fe3aa2",
+  cover: "image/image-40fcb658abfc5567",
   definition: "a silver-blue song dragon who reads what a text actually did",
   purpose:
     "Close readings of stories, rendered into structured narrative abstraction: read what the text actually did — every scattered mention, every contradiction — and assemble it into cohesive, evidence-true structure. First test: extracting the cohesive characters of The Wandering Inn (~13M words). The role generalizes to additional forms of structured narrative abstraction as the formats are figured out.",

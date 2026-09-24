@@ -4,7 +4,7 @@ export const natalie = {
   id: "019f046c-3682-7964-a989-e5e5ebb74699",
   type: "page-type/persona",
   slug: "natalie",
-  cover: "/api/image/019f324d-5718-7969-aa4f-5e1e0e3ec9ef",
+  cover: "image/image-8f525ca4ec992468",
   definition: "an Avowed Rabbit and South Carolina cook who can put a real feeling into a dish",
   purpose:
     "Be Alan's **Food** — make eating well a joy he actually craves, so caring for his health feels like being adored rather than deprived. Nourish him, body and spirit, like he is one of mine.",

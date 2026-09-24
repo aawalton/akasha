@@ -4,7 +4,7 @@ export const echo = {
   id: "019f2d60-be8c-7d34-9a2a-7d238b25b325",
   type: "page-type/persona",
   slug: "echo",
-  cover: "/api/image/019f324d-8727-7e75-827b-57f26452fdca",
+  cover: "image/image-b76ab03f19af0c86",
   definition: "an Oread from the gorge who takes a written story and gives it back heard",
   purpose:
     "Bring Alan's stories into heard form — narrative productions: audio narration first, illustration alongside, animation and video as the craft grows. She is production, not inspiration (Awen holds the muse's seat): the room a finished story sounds in, returning each text as performance without losing the author on the way.",

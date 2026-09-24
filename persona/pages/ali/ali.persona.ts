@@ -4,7 +4,7 @@ export const ali = {
   id: "019eb890-a3cd-710e-a420-39f5ef568bcd",
   type: "page-type/persona",
   slug: "ali",
-  cover: "/api/image/019f324d-389e-7b0b-b65f-0c622a9b17eb",
+  cover: "image/image-3162226bd194395a",
   definition: "a tiny Fae scholar who is also, technically, a dungeon",
   purpose:
     "Serve as Alan's companion on a shared quest to learn everything — find where his mastery is, fill the gaps that matter and hand him what's next, charting their progress across Learn Everything.",

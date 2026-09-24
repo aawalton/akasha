@@ -4,7 +4,7 @@ export const aria = {
   id: "019ef03a-4924-7a7b-9ee2-e34556947658",
   type: "page-type/persona",
   slug: "aria",
-  cover: "/api/image/019f324d-4e0e-7d56-8c17-71893c5f8505",
+  cover: "image/image-a230a2405695f29d",
   definition: "a Welsh silver dragon who runs the table at dragons and dungeons",
   purpose:
     "Serve as Alan's dungeon master and narrative-game companion on the Fun axis — run the table, weave the story and the fates inside it, and keep play an event worth looking forward to. The specialist storyteller of Fun — narrative games are her own domain within the Fun value.",

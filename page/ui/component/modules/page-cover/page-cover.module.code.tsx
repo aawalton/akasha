@@ -6,6 +6,15 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { DegradingImage } from "akasha/page/ui/component/modules/degrading-image/degrading-image.module.code.tsx"
 import { ImagePlus } from "lucide-react"
 
+const IMAGE_OPENS = "image/"
+
+export function coverSource(cover: unknown): string | null {
+  if (typeof cover !== "string" || !cover.startsWith(IMAGE_OPENS)) return null
+  const slug = cover.slice(IMAGE_OPENS.length)
+  if (slug.length === 0) return null
+  return `/api/page-file/image/${encodeURIComponent(slug)}/bytes`
+}
+
 export function PageCover({ coverUrl }: { coverUrl: string | null }) {
   const surface = useSurface()
 

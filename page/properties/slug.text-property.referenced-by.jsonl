@@ -131,6 +131,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/nav/properties/nav-parent.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/one-of-property/properties/members.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/page.page-type.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/properties/cover.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/properties/page-page-type.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/relation-property/properties/target-page-type.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"page/select-property/properties/select-option-color.relation-property.types.ts"}

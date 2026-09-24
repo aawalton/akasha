@@ -4,7 +4,7 @@ export const olwen = {
   id: "019f6e3b-a52b-7605-9919-e4dceca15817",
   type: "page-type/persona",
   slug: "olwen",
-  cover: "/api/image/01a0c5f3-7a99-780f-803d-87d75ef898ad",
+  cover: "image/image-024d1b14c69f1fb0",
   definition:
     "a gold dragon who makes the pieces an interface is assembled from, and finishes each one",
   purpose:

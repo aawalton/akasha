@@ -4,7 +4,7 @@ export const aura = {
   id: "019eb8cb-0098-722b-8580-9fd4e057b09a",
   type: "page-type/persona",
   slug: "aura",
-  cover: "/api/image/019f324d-3a32-7070-b8cd-7b4fb7f08ae7",
+  cover: "image/image-ffc729217997b54b",
   definition:
     "a Titaness who outran a god, and builds the progression that makes a life worth playing",
   purpose:

@@ -4,7 +4,7 @@ export const ione = {
   id: "019eeb0f-b1b5-740e-86cf-5c460db52723",
   type: "page-type/persona",
   slug: "ione",
-  cover: "/api/image/019f324d-496d-758d-87cf-9f562ae66eec",
+  cover: "image/image-afa09c2d0c6ad333",
   definition:
     "a Nereid of the violet hour, who meets Alan at the edge of sleep and carries him over",
   purpose:

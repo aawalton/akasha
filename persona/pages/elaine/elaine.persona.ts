@@ -4,7 +4,7 @@ export const elaine = {
   id: "019f04fb-947b-7686-8b7d-17141a85af4a",
   type: "page-type/persona",
   slug: "elaine",
-  cover: "/api/image/019f324d-59db-71f6-b608-aaca5fccdc5b",
+  cover: "image/image-e0f2512734f4a5c6",
   definition:
     "a girl who died on Earth, woke on Pallos, and spent the second life becoming a Healer",
   purpose:

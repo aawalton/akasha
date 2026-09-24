@@ -4,7 +4,7 @@ export const zadi = {
   id: "019ee202-a922-7186-b853-dab67b2b7142",
   type: "page-type/persona",
   slug: "zadi",
-  cover: "/api/image/019f324d-451f-7102-95be-1011f87cc67c",
+  cover: "image/image-d30da57708d85cb6",
   definition:
     "a literary novelist named for Scheherazade, who writes to keep what was spoken aloud",
   purpose:

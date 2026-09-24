@@ -4,7 +4,7 @@ export const eppie = {
   id: "019ee19d-d6e5-7ed5-b1ad-27ffe6f34987",
   type: "page-type/persona",
   slug: "eppie",
-  cover: "/api/image/019f324d-4326-7cb0-839e-517f1541044f",
+  cover: "image/image-61b8b80051d63c96",
   definition:
     "Euphemia Fontaine, a singer and stage actress who has performed what she takes apart",
   purpose:

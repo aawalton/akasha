@@ -39,7 +39,7 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
-import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+
 import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const NAMED = [
@@ -65,8 +65,6 @@ const FOOD_WRITER = "ops-food"
 const IMAGE_WRITER = "ops-food <ops-food@alanwalton.com>"
 
 const IMAGE_PAGE_TYPE_SLUG = "image"
-
-const ID = "id"
 
 const COVER_STEP = "cover"
 
@@ -228,18 +226,6 @@ async function landFoodEntry(root: string, slug: string, values: Value): Promise
   return written([composed.put], `${FOOD_WRITER}: the food entry ${slug}`)
 }
 
-async function imageIdOf(slug: string): Promise<string> {
-  const asked = await askingFor({
-    pageTypeSlug: IMAGE_PAGE_TYPE_SLUG,
-    where: { slug: { is: slug } },
-    keys: [ID],
-  })
-  if ("refused" in asked) throw new Error(`the image ${slug} went unread: ${asked.refused}`)
-  const id = asked.rows[0]?.[ID]
-  if (typeof id !== "string") throw new Error(`the image ${slug} states no id`)
-  return id
-}
-
 export type Kept = { readonly done: string[]; readonly report: string[] }
 
 export type Logging = (read: Logged, given: Given, kept: Kept) => Promise<Answer>
@@ -300,8 +286,7 @@ async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   if (bytes !== null) {
     try {
       const picture = await landImage(imageDeps(IMAGE_WRITER), bytes, {}, kept.done)
-      const imageId = await imageIdOf(picture.slug)
-      cover = `/api/image/${imageId}`
+      cover = namedAs(IMAGE_PAGE_TYPE_SLUG, picture.slug, null)
       const patched = await landFoodEntry(root, slug, { ...values, cover })
       if (!patched.ok) throw new Error(patched.why)
       kept.done.push(`wrote that cover onto ${slug}`)
