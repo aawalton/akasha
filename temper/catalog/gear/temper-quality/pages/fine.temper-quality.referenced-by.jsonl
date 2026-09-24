@@ -54,8 +54,14 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/flame-resist/flame-resist.temper-jewelry-enchant.ts","id":"019e5c85-d952-75c2-8e1c-23698b58c47c"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/flame-resist/grades/jewelry-enchant-flame-resist-fine.temper-gear-grade.ts","id":"01a0d3e8-2e42-7422-9608-0ffa24696350"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/frost-resist/frost-resist.temper-jewelry-enchant.ts","id":"019e5c85-d953-7c74-99c6-3940984cf7de"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/frost-resist/grades/jewelry-enchant-frost-resist-fine.temper-gear-grade.ts","id":"01a0d3e8-ecfc-7782-8bae-895621b7e111"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/health-recovery/grades/jewelry-enchant-health-recovery-fine.temper-gear-grade.ts","id":"01a0d3e9-2355-71fb-8175-b7964281c4e9"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/health-recovery/health-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d949-7117-b9fc-f50cc02b56ed"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-magical-harm/grades/jewelry-enchant-increase-magical-harm-fine-power-spell.temper-gear-grade.ts","id":"01a0d3e9-6c42-710e-90ce-3f3e0934117b"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-magical-harm/grades/jewelry-enchant-increase-magical-harm-fine-power-weapon.temper-gear-grade.ts","id":"01a0d3e9-6393-74e8-a6cd-6cc50ffda4d1"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-magical-harm/increase-magical-harm.temper-jewelry-enchant.ts","id":"019e5c85-d942-701a-886b-f0e90fb4751f"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-physical-harm/grades/jewelry-enchant-increase-physical-harm-fine-power-spell.temper-gear-grade.ts","id":"01a0d3e9-d82c-7789-8097-af6b95883424"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-physical-harm/grades/jewelry-enchant-increase-physical-harm-fine-power-weapon.temper-gear-grade.ts","id":"01a0d3e9-ce6b-77df-979b-8eb04a42e590"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-physical-harm/increase-physical-harm.temper-jewelry-enchant.ts","id":"019e5c85-d93e-7184-bf02-d3098e13d12b"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/magicka-recovery/magicka-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d944-7808-a7cb-6ef7ac7b95ee"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/poison-resist/poison-resist.temper-jewelry-enchant.ts","id":"019e5c85-d956-7d2f-891d-0d40261fddf5"}
