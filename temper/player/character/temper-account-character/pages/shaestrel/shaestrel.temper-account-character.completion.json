@@ -520,6 +520,7 @@
     5538,
     5540,
     5542,
+    5556,
     5595,
     5708,
     5733,
@@ -3400,8 +3401,8 @@
     },
     "117": {
       "currentXP": 20,
-      "currentRank": 2,
-      "nextRankXP": 25
+      "currentRank": 3,
+      "nextRankXP": 30
     },
     "118": {
       "currentXP": 20,
@@ -5283,8 +5284,8 @@
     "groupDungeonTotal": 19,
     "tutorial": 1,
     "skyshardPoints": 173,
-    "unassigned": 80,
-    "zoneQuestTotal": 56,
+    "unassigned": 81,
+    "zoneQuestTotal": 57,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -5460,7 +5461,7 @@
       "EP3": 3,
       "DC1": 4,
       "EP4": 3,
-      "HB": 3,
+      "HB": 4,
       "CL": 0,
       "SU": 0,
       "MM": 0,
@@ -5480,7 +5481,7 @@
       "AP": 0,
       "GY": 0
     },
-    "total": 376,
+    "total": 377,
     "maelstromArena": 1
   },
   "traitResearch": {
@@ -10288,7 +10289,8 @@
       "1": {
         "1": 1,
         "2": 2,
-        "3": 3
+        "3": 3,
+        "4": 4
       },
       "2": {
         "1": 1,
