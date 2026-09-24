@@ -13,6 +13,7 @@ export const temperEsoUiHarness = {
     "lua-module/ui-control-snapshot",
     "lua-module/ui-font-model",
     "lua-module/ui-animation-model",
+    "lua-module/ui-currency-model",
     "module/ui-fonts",
     "lua-module/ui-event-model",
     "lua-module/ui-scene-model",
