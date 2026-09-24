@@ -80,13 +80,5 @@ export const renderHarnessCasesCost = {
       decisionKind: "decision-kind/gap",
       statement: "A person reads the drawing.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No image was drawn where these cases were written.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "That machine has no simulator.",
-    },
   ],
 } as const satisfies IosHarness
