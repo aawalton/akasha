@@ -8,6 +8,12 @@ export interface StockTierDepositInput {
   readonly handOff: number
 }
 
+export function stockHandOff(fillTarget: number, heldByOthers: readonly number[]): number {
+  let handOff = 0
+  for (const held of heldByOthers) handOff += Math.max(0, fillTarget - held)
+  return handOff
+}
+
 export function computeStockTierDeposit(input: StockTierDepositInput): number {
   const excess = Math.max(0, input.backpackCount - input.selfTarget - input.alreadyDispatched)
   let allowed = excess

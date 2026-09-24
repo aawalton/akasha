@@ -100,16 +100,22 @@ function currentCharPassesEligibility(conditions: CharEligibilityConditions | un
   )(currentChar)
 }
 
-export function countEligibleCharacters(conditions: CharEligibilityConditions | undefined): number {
+export function eligibleCharacters(
+  conditions: CharEligibilityConditions | undefined
+): readonly CharacterId[] {
   const currentChar = characterId(tostring(GetCurrentCharacterId()))
   const priority = buildCompiledCharacterPriority(currentChar)
-  if (conditions === undefined || !hasEligibilityGate(conditions)) return priority.length
+  if (conditions === undefined || !hasEligibilityGate(conditions)) return priority
   const passes = composeCharEligibilityPredicate(conditions, eligibilityResolversFor(conditions))
-  let count = 0
+  const eligible: CharacterId[] = []
   for (const one of priority) {
-    if (passes(one)) count++
+    if (passes(one)) eligible.push(one)
   }
-  return count
+  return eligible
+}
+
+export function countEligibleCharacters(conditions: CharEligibilityConditions | undefined): number {
+  return eligibleCharacters(conditions).length
 }
 
 function resolveStockChainForCurrentChar(

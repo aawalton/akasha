@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   computeStockTierDeposit,
   type StockTierDepositInput,
+  stockHandOff,
 } from "akasha/temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
 
 type Visit = Omit<StockTierDepositInput, "stackCount" | "alreadyDispatched">
@@ -49,6 +50,17 @@ describe("inventory-stock-deposit-decision", () => {
       handOff: 40,
     })
     expect(moved).toEqual([50, 0])
+  })
+
+  test("the hand-off is what each other character is short of the fill quantity", () => {
+    expect(
+      stockHandOff(
+        20,
+        Array.from({ length: 19 }, () => 0)
+      )
+    ).toBe(380)
+    expect(stockHandOff(20, [0, 5, 20, 35])).toBe(35)
+    expect(stockHandOff(20, [])).toBe(0)
   })
 
   test("a tier with no cap takes the whole surplus", () => {

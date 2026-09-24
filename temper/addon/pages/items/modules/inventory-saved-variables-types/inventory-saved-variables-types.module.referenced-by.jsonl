@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"inventory-saved-variables-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-ops/inventory-ops.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-character-finders-companion/inventory-rules-core-character-finders-companion.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-saved-variables-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-deposits/inventory-rules-dispatch-bank-deposits.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.test.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"}
 {"propertySlug":"import","fileName":"inventory-saved-variables-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"}

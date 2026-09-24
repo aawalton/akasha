@@ -23,7 +23,13 @@ import {
   bankIsCorrectStorage,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 
-import { computeStockTierDeposit } from "akasha/temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
+import { eligibleCharacters } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"
+import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
+import type { LocationData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
+import {
+  computeStockTierDeposit,
+  stockHandOff,
+} from "akasha/temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.code.ts"
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { planStockChainVisit } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { isConsolidateDest } from "akasha/temper/items/rules/routing/core/modules/inventory-consolidate-dest/inventory-consolidate-dest.module.code.ts"
@@ -56,6 +62,30 @@ function resolveCascadeTierForCtx(
     }
   }
   return undefined
+}
+
+function storedCount(location: LocationData | undefined, itemId: number): number {
+  if (location === undefined) return 0
+  let count = 0
+  for (const slots of Object.values(location.bags)) {
+    for (const item of Object.values(slots)) {
+      if (item.itemId === itemId) count += item.stackCount
+    }
+  }
+  return count
+}
+
+function handOffForRule(ruleIndex: number, itemId: number, currentCharId: string): number {
+  const chain = getCompiledConfig()?.orderedRules[ruleIndex]?.destinationChain
+  const plan = chain === undefined ? undefined : planStockChainVisit(chain)
+  if (plan === undefined) return 0
+  const locations = getDatabase().locations
+  const heldByOthers: number[] = []
+  for (const charId of eligibleCharacters(plan.charEligibility)) {
+    if (charId === currentCharId) continue
+    heldByOthers.push(storedCount(locations[charId], itemId))
+  }
+  return stockHandOff(plan.fillTargetQuantity, heldByOthers)
 }
 
 export function executeBankDeposits(
@@ -173,6 +203,7 @@ export function executeBankDeposits(
   const depositedLinks: string[] = []
 
   const stockDepositedCounts = new LuaMap<number, number>()
+  const handOffByRule = new LuaMap<number, number>()
 
   let noRoomSaid = false
 
@@ -210,6 +241,12 @@ export function executeBankDeposits(
           const tierCap = tier?.cap
           const tierAccountWideCount =
             tierCap !== undefined ? bankCountItemInStorage(ctx, itemId) : 0
+          let handOff = 0
+          if (tierCap !== undefined && ruleIndex !== undefined) {
+            const known = handOffByRule.get(ruleIndex)
+            handOff = known ?? handOffForRule(ruleIndex, itemId, currentCharId)
+            handOffByRule.set(ruleIndex, handOff)
+          }
           toMove = computeStockTierDeposit({
             stackCount,
             backpackCount,
@@ -217,7 +254,7 @@ export function executeBankDeposits(
             alreadyDispatched,
             tierCap,
             tierAccountWideCount,
-            handOff: 0,
+            handOff,
           })
         } else {
           const alreadyAtDest = bankCountItemInStorage(ctx, itemId)
