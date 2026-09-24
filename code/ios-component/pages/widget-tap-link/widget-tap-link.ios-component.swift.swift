@@ -30,6 +30,7 @@ struct UnreadableWidgetTapLink: Error {
 struct OpenWidgetTapLink: AppIntent {
     static var title: LocalizedStringResource = "Open a widget's link"
     static var isDiscoverable = false
+    static var openAppWhenRun = true
 
     @Parameter(title: "Link") var link: String
 
