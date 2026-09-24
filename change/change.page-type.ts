@@ -57,6 +57,7 @@ export const change = {
     "number-property/change-max-cpu-seconds",
     "number-property/change-max-memory-mb",
     "page-type/change-agent",
+    "page-type/change-generator",
     "page-type/change-kind",
     "page-type/change-mechanical",
     "page-type/change-mode",

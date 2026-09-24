@@ -328,6 +328,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/value/value.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"change/agent/change-agent.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"change/change.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"change/generator/change-generator.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"change/kind/change-kind.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"change/mechanical/change-mechanical.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"change/mechanical/file-content/change-mechanical-file-content.page-type.ts"}

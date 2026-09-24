@@ -87,6 +87,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/health/fitness/strength/log/properties/exercise.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/learn/mathematics/proof/properties/proves.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/value/properties/value-color.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"change/generator/properties/runs-after.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"change/properties/change-kind.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"change/properties/change-mode.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"change/properties/change-target-subtype.relation-property.types.ts"}

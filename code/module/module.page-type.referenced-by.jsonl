@@ -1,6 +1,7 @@
 {"propertySlug":"extends-type","path":"agent/hook/agent-hook/agent-hook.page-type.ts","id":"01a04e0a-f8fa-7fb8-a730-0e27c83701be"}
 {"propertySlug":"extends-type","path":"agent/model/test/model-test.page-type.ts","id":"01a053eb-6b23-7825-ab5f-2b95d3bd1e95"}
 {"propertySlug":"extends-type","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
+{"propertySlug":"extends-type","path":"change/generator/change-generator.page-type.ts","id":"01a0d4dc-6d15-741e-962d-154d0705de60"}
 {"propertySlug":"extends-type","path":"change/runner/change-runner.page-type.ts","id":"01a077c2-3a15-7c14-8900-ecb0624ff450"}
 {"propertySlug":"extends-type","path":"check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts","id":"01a04e33-f280-701e-96a0-859a53ed8298"}
 {"propertySlug":"extends-type","path":"check/code/pages/no-refused-syntax/syntax-rule/syntax-rule.page-type.ts","id":"01a0500d-738b-79f3-8932-7d947cd9b51b"}
@@ -863,6 +864,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/change.page-type.types.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/generator/change-generator.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/address-restating/address-restating.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/answer/change-answer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.ts"}
