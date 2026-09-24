@@ -32,7 +32,7 @@ function isAnswer(held: unknown): held is EngineAnswer {
   return typeof held === "number" || typeof held === "string" || typeof held === "boolean"
 }
 
-function listedIn(held: Readonly<Record<string, unknown>>): readonly EngineAnswer[] {
+export function listedIn(held: Readonly<Record<string, unknown>>): readonly EngineAnswer[] {
   const found: EngineAnswer[] = []
   for (let at = FIRST; ; at += 1) {
     const one = held[String(at)]

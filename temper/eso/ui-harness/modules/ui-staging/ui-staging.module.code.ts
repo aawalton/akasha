@@ -11,7 +11,8 @@ import {
 } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 import {
   PLAYER_ANSWERS_ADDON,
-  PLAYER_ANSWERS_LUA,
+  playerAnswersIn,
+  playerAnswersLua,
   playerAnswersSource,
 } from "akasha/temper/eso/return/modules/player-answers-seeding/player-answers-seeding.module.code.ts"
 import {
@@ -149,9 +150,13 @@ function savedVariablesAt(name: string): string | null {
   return null
 }
 
-function playedAnswers(): string | null {
+const ANSWERS_PER_CHUNK = 40
+
+function playedAnswers(): readonly string[] {
   const at = savedVariablesAt(PLAYER_ANSWERS_ADDON)
-  return at === null ? null : playerAnswersSource(readFileSync(at, "utf8"))
+  const source = at === null ? null : playerAnswersSource(readFileSync(at, "utf8"))
+  const held = source === null ? null : playerAnswersIn(source)
+  return held === null ? [] : playerAnswersLua(held, ANSWERS_PER_CHUNK)
 }
 
 export type Staged = {
@@ -285,11 +290,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await harness.load(`return ${fontsLua(gameFonts(esoui))}`)
     await harness.load(`return ${timelinesLua(timelinesIn(documents))}`)
     const refused: string[] = []
-    const played = playedAnswers()
-    if (played !== null) {
-      await harness.load(played)
-      await harness.load(PLAYER_ANSWERS_LUA)
-    }
+    for (const chunk of playedAnswers()) await harness.load(chunk)
     const files = gameFiles(esoui).map((file) => ({ ...file, text: readFileSync(file.at, "utf8") }))
     await harness.load(
       namesUnstubbedLua(files.filter((one) => one.kind === "lua").map((one) => one.text))

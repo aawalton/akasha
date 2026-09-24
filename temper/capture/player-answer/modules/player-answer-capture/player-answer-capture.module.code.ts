@@ -24,6 +24,7 @@ import {
   ZONE_INDEX,
 } from "akasha/temper/capture/player-answer/modules/player-asking-shapes/player-asking-shapes.module.code.ts"
 import { PLAYER_ASKINGS } from "akasha/temper/capture/player-answer/modules/player-askings/player-askings.data-table.code.ts"
+import type { EngineAnswer } from "akasha/temper/capture/shape/modules/engine-answer-catalog/engine-answer-catalog.module.code.ts"
 import {
   type AskedValue,
   answersOf,
@@ -79,6 +80,10 @@ const BATCH_DELAY = 0
 const FIRST = 1
 
 const NOTHING = 0
+
+function emptyAnswer(this: void, one: EngineAnswer): boolean {
+  return one === false || one === NOTHING || one === ""
+}
 
 function answerOf(this: void, name: string, values: readonly AskedValue[], at = 0): unknown {
   return answersOf(name, values)?.[at]
@@ -236,12 +241,12 @@ export function capturePlayerAnswers(
     batchDelay: BATCH_DELAY,
     process: function (this: void, asking: Asking): undefined {
       const key = asking.values.join(",")
+      const held = answers[key] ?? {}
       for (const name of PLAYER_ASKINGS[asking.shape] ?? []) {
         const got = answersOf(name, asking.values)
-        if (got === undefined || got.length === 0) continue
-        const held = answers[name] ?? {}
-        held[key] = got
-        answers[name] = held
+        if (got === undefined || got.every(emptyAnswer)) continue
+        held[name] = got
+        answers[key] = held
       }
       return undefined
     },

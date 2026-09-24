@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/eso/return/modules/player-answers-seeding/player-answers-seeding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.code.ts","typed":false,"deferred":false}

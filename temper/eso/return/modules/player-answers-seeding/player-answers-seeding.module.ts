@@ -31,7 +31,19 @@ export const playerAnswersSeeding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The saved table is cleared once its answers are set.",
+      statement: "Answers kept by a capture of another version are not read.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "One Lua chunk holds at most 65,536 constants, and the answers hold more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answers are parsed here and handed over a few values at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What is handed over is set in place only once all of it has gone over.",
     },
   ],
 } as const satisfies Module

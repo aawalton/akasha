@@ -38,6 +38,15 @@ export const playerAnswerCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An answer of nothing but false, zero or empty text is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Every answer kept of every item link weighed tens of megabytes in the saved file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A function's answers are kept up to the first that is no number, word or truth.",
     },
   ],

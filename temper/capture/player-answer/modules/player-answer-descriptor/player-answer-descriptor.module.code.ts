@@ -9,11 +9,13 @@ export interface PlayerAnswerPayload {
   answers?: PlayerAnswers
 }
 
+export const PLAYER_ANSWERS_VERSION = 2
+
 const DEFAULTS: PlayerAnswerPayload = {}
 
 export const PLAYER_ANSWER_CAPTURE_DESCRIPTOR: CaptureDescriptor<PlayerAnswerPayload> = {
   addonName: "TemperCatalog",
   savedVariablesName: "TemperPlayerAnswers_SavedVariables",
-  version: 1,
+  version: PLAYER_ANSWERS_VERSION,
   defaults: DEFAULTS,
 }

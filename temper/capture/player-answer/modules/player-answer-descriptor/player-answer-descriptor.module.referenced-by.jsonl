@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"player-answer-descriptor.module.code.ts","path":"temper/addon/pages/catalog/modules/player-answer-entry/player-answer-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"player-answer-descriptor.module.code.ts","path":"temper/capture/player-answer/modules/player-answer-capture/player-answer-capture.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"player-answer-descriptor.module.code.ts","path":"temper/eso/return/modules/player-answers-seeding/player-answers-seeding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/capture/player-answer/temper-capture-player-answer.domain.ts","id":"01a0d572-a98c-731f-a331-cd7f1939586f"}

@@ -14,11 +14,19 @@ export const playerAnswerDescriptor = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A function's answers are kept under its name and the values asked, joined by commas.",
+        "Answers are kept under the values asked, joined by commas, then the function's name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The values come first, so an item link is written once rather than per function.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A function asked with nothing keeps its answers under the empty key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change to how answers are kept moves the version, so the game clears the old.",
     },
     {
       decisionKind: "decision-kind/departure",
