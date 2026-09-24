@@ -37,7 +37,17 @@ export const esoSandboxPrelude = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name answered with a stub is answered with that same stub every time after.",
+      statement:
+        "A name answered with a stub is answered with that same stub until something defines it.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's Lua reads many a name before the file defining that name has loaded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stub is kept beside the environment rather than in it, so a definition is not shadowed.",
     },
     {
       decisionKind: "decision-kind/departure",

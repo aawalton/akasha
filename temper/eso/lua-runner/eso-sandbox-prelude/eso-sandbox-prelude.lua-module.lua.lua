@@ -73,6 +73,8 @@ local numeric_constants = {
   GUILD_HISTORY_EVENT_CATEGORY_ITERATION_END = 7,
 }
 
+local stubs = {}
+
 local function make_env()
   return _setmetatable({}, {
     __index = function(t, key)
@@ -85,9 +87,11 @@ local function make_env()
       if multi_apis[key] then return multi_apis[key] end
       if numeric_constants[key] ~= nil then return numeric_constants[key] end
       if type(key) == "string" and key:match(STEPPING) then return ended_fn end
+      local held = stubs[key]
+      if held ~= nil then return held end
       __eso_stubbed[key] = (__eso_stubbed[key] or 0) + 1
       local made = make_stub()
-      _rawset(t, key, made)
+      stubs[key] = made
       return made
     end,
     __newindex = function(t, k, v) _rawset(t, k, v) end,
