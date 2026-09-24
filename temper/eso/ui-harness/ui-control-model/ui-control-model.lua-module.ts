@@ -28,14 +28,7 @@ export const uiControlModel = {
       decisionKind: "decision-kind/departure",
       statement: "A name holding the grandparent placeholder is named with the parent's parent's.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A control keeps the anchors that control was given.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A control hidden by a forebear reads as hidden.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "No mouse is over any control, because the harness has no mouse.",
@@ -89,23 +82,7 @@ export const uiControlModel = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "A color given as anything but numbers leaves the control without a color.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A size, an alpha, a scale or an offset is taken only as a finite number.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Text, a font and a texture are kept only where the game handed over words.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The width a control answers with is the width where that control sits.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Where a control sits is worked out by the model loaded before this one.",
+      statement: "What a control is set to and answers with is given by the module loaded after.",
     },
     {
       decisionKind: "decision-kind/departure",
