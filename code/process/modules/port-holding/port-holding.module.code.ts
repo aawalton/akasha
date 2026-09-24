@@ -1,4 +1,5 @@
 import { readdirSync, readFileSync, readlinkSync } from "node:fs"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 const LISTEN_STATE = "0A"
 
@@ -73,8 +74,8 @@ export function pidsListeningOn(port: number): number[] {
       } catch {
         continue
       }
-      const inode = SOCKET_LINK.exec(link)?.[1]
-      if (inode !== undefined && inodes.has(inode)) {
+      const inode = firstCapture(SOCKET_LINK.exec(link))
+      if (inode !== null && inodes.has(inode)) {
         holders.push(Number.parseInt(entry, 10))
         break
       }

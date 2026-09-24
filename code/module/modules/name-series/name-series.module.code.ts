@@ -4,6 +4,7 @@ import {
   DataError,
   OperationalError,
 } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   everyOfType,
   listedById,
@@ -124,8 +125,8 @@ function codeRelOf(spec: SeriesSpec, slug: string): string {
 function pageIdFor(root: string, spec: SeriesSpec, slug: string): string {
   const at = resolve(root, pageRelOf(spec, slug))
   if (existsSync(at)) {
-    const found = /^\s*id:\s*"([0-9a-f-]{36})",?\s*$/m.exec(readFileSync(at, "utf8"))
-    if (found?.[1] !== undefined) return found[1]
+    const found = firstCapture(/^\s*id:\s*"([0-9a-f-]{36})",?\s*$/m.exec(readFileSync(at, "utf8")))
+    if (found !== null) return found
   }
   return Bun.randomUUIDv7()
 }
