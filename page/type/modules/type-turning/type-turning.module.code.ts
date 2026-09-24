@@ -13,7 +13,9 @@ const HOLDS = "ts"
 
 const PAGE_TYPE = "page-type"
 
-const GENERATOR = "type-generator"
+const CHANGE_GENERATOR = "change-generator"
+
+const CODE = "code"
 
 const TYPES = "types"
 
@@ -44,7 +46,7 @@ export function turnedBy(change: Change): boolean {
   for (const path of change.changed) {
     const said = partedIn(path)
     if (said === null || said.held !== HOLDS) continue
-    if (said.sections.includes(GENERATOR)) return true
+    if (said.pageType === CHANGE_GENERATOR && said.sections.includes(CODE)) return true
     if (said.sections.includes(TYPES)) return true
     if (said.sections.length > 0) continue
     if (said.pageType === PAGE_TYPE) return true

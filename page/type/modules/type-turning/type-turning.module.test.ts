@@ -40,7 +40,7 @@ test("a change naming a page type could turn a type", () => {
   expect(turnedBy(changeOver([AT]))).toBe(true)
 })
 
-test("a change naming a type generator could turn a type", () => {
+test("a change naming a change generator's code could turn a type", () => {
   expect(turnedBy(changeOver([WRITES]))).toBe(true)
 })
 

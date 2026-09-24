@@ -23,7 +23,7 @@ export const typeTurning = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A change naming a generator or a type file could turn a type.",
+      statement: "A change naming a change generator's code or a type file could turn a type.",
     },
     {
       decisionKind: "decision-kind/departure",
