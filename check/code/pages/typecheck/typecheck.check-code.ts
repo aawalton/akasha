@@ -51,6 +51,10 @@ export const typecheck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A router app's files are compiled by `router-app-compiles` rather than here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A file under a routes folder importing no generated route types is judged like any other file.",
     },
