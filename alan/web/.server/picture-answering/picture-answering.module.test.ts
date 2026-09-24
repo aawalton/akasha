@@ -129,7 +129,7 @@ test("a caller the device secrets could not be read for is told to try again", a
   const { effects, kept } = effectsWith({ admit: async () => ({ outcome: "unread" }) })
   const answered = await answerPicture(asked(JPEG), effects)
   expect(answered.status).toBe(503)
-  expect((await answered.json()).retryable).toBe(true)
+  expect(await answered.json()).toMatchObject({ retryable: true })
   expect(kept).toEqual([])
 })
 
@@ -206,7 +206,9 @@ test("a picture the pages would not land tells nobody", async () => {
   })
   const answered = await answerPicture(asked(JPEG), effects)
   expect(answered.status).toBe(503)
-  expect((await answered.json()).error).toContain("the pages dropped the call")
+  expect(await answered.json()).toMatchObject({
+    error: expect.stringContaining("the pages dropped the call"),
+  })
   expect(delivered).toEqual([])
 })
 
