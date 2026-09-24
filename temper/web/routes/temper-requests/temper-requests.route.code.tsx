@@ -1,9 +1,12 @@
 import { PageTitle } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { listingFor } from "akasha/product/kofi/feature-request/modules/listing/feature-request-listing.module.code.ts"
 import { temper } from "akasha/temper/temper.domain.ts"
 
 const PRODUCT = namedAs("domain", temper.slug, null)
+
+const READ = ["feature-request"]
 
 export function meta() {
   return [{ title: "Feature requests — Temper" }]
@@ -16,6 +19,7 @@ export function loader() {
 type RequestsLoaderData = Awaited<ReturnType<typeof loader>>
 
 export default function TemperRequestsRoute({ loaderData }: { loaderData: RequestsLoaderData }) {
+  useLoaderFollowing(READ)
   const { requests } = loaderData
   return (
     <main className="mx-auto w-full max-w-3xl px-6 py-12">

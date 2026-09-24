@@ -10,6 +10,8 @@ export const smilingjennyWebRoutes = {
     "route/jenny-api-errors",
     "route/jenny-api-health",
     "route/jenny-api-live-version",
+    "route/jenny-api-page-events",
+    "route/jenny-api-page-follow",
     "route/jenny-api-push-register",
     "route/jenny-categorization",
     "route/jenny-cost",

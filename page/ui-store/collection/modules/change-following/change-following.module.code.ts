@@ -67,7 +67,7 @@ export interface StoreFollowing {
   readonly watchPage: (pageTypeSlug: string, id: string, told: () => undefined) => PageWatch
 }
 
-function streamAt(at: string): StreamLike {
+export function streamAt(at: string): StreamLike {
   const source = new EventSource(at)
   return {
     on: (name, heard) => {

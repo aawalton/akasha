@@ -10,7 +10,7 @@ export const changeFollowing = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A browser holds one stream open however many pages and lists it shows.",
+      statement: "A page store holds one stream open however many pages and lists it shows.",
     },
     {
       decisionKind: "decision-kind/departure",

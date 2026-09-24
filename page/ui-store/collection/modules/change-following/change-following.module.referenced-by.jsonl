@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"change-following.module.code.ts","path":"page/service/modules/events-reading/events-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"change-following.module.code.ts","path":"page/ui-store/collection/modules/change-following/change-following.module.test.ts"}
 {"propertySlug":"import","fileName":"change-following.module.code.ts","path":"page/ui-store/collection/modules/store/store.module.code.ts"}
+{"propertySlug":"import","fileName":"change-following.module.code.ts","path":"page/ui/modules/loader-following/loader-following.module.code.ts"}
 {"propertySlug":"parts","path":"page/ui-store/collection/page-ui-store-collection.domain.ts","id":"01a071cd-798c-75bd-88c7-7e266f938b90"}

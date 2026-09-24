@@ -124,6 +124,8 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-errors/jenny-api-errors.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-health/jenny-api-health.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-live-version/jenny-api-live-version.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-page-events/jenny-api-page-events.route.ts"}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-page-follow/jenny-api-page-follow.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-api-push-register/jenny-api-push-register.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.ts"}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/smilingjenny/web/routes/jenny-cost/jenny-cost.route.ts"}

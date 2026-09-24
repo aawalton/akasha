@@ -21,4 +21,6 @@ export default [
     "routes/jenny-api-push-register/jenny-api-push-register.route.code.ts"
   ),
   route("api/errors", "routes/jenny-api-errors/jenny-api-errors.route.code.ts"),
+  route("api/page-events", "routes/jenny-api-page-events/jenny-api-page-events.route.code.ts"),
+  route("api/page-follow", "routes/jenny-api-page-follow/jenny-api-page-follow.route.code.ts"),
 ] satisfies RouteConfig

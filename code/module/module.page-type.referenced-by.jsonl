@@ -2390,6 +2390,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/markdown/modules/remark-mentions/remark-mentions.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/markdown/modules/remark-sectionize/remark-sectionize.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/action-verb-registry/action-verb-registry.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/loader-following/loader-following.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/navigation-context/navigation-context.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/page-card-perf/page-card-perf.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/modules/reorder-verb-registry/reorder-verb-registry.module.ts"}

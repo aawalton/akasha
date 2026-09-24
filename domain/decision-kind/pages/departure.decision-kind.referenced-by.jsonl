@@ -3315,6 +3315,7 @@
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.ts","id":"01a06205-4f3c-7009-9a49-b56f7fa2267f"}
 {"propertySlug":"decision-kind","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.ts","id":"01a06158-0a79-7000-a2b2-4fa802b18c2d"}
 {"propertySlug":"decision-kind","path":"page/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.ts","id":"01a05cce-25ec-7be6-86e8-e3eea2906974"}
+{"propertySlug":"decision-kind","path":"page/ui/modules/loader-following/loader-following.module.ts","id":"01a0d586-9230-7c24-9d73-9656d5d8fa48"}
 {"propertySlug":"decision-kind","path":"page/ui/modules/page-card-perf/page-card-perf.module.ts","id":"01a0610c-430e-758f-9da6-bed7278e0bdb"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.ts","id":"01a05c7d-d06c-7ecc-bcb5-d58257b7a42f"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/hooks/hooks.module.ts","id":"01a06205-4f3b-7004-be48-0732dc16b0d9"}

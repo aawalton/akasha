@@ -17,6 +17,7 @@ export const pageUi = {
 
     "domain/page-ui-supabase",
     "module/action-verb-registry",
+    "module/loader-following",
     "module/navigation-context",
     "module/page-card-perf",
     "module/reorder-verb-registry",
