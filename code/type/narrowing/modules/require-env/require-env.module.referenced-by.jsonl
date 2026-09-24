@@ -41,6 +41,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-listing/orphan-resource-listing.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/registry-ca/registry-ca.module.code.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/inference/generation/zimage/modules/explore-batch/zimage-explore-batch.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/inference/run/modules/generation-log/generation-log.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/kernel/modules/landing-admission/landing-admission.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"}

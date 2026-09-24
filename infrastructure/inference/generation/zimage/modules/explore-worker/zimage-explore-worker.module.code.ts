@@ -10,6 +10,7 @@ import {
   writeFile,
 } from "node:fs/promises"
 import { join } from "node:path"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   baseOf,
   drawSeed,
@@ -32,9 +33,9 @@ const SEED_PINNED = /^#seed\s+(\d+)\s*\n/
 export type Asked = { readonly prompt: string; readonly seed: number }
 
 function askedIn(raw: string): Asked {
-  const found = SEED_PINNED.exec(raw)
-  if (found?.[1] === undefined) return { prompt: raw.trim(), seed: drawSeed() }
-  return { prompt: raw.slice(found[0].length).trim(), seed: Number(found[1]) }
+  const pinned = firstCapture(SEED_PINNED.exec(raw))
+  if (pinned === null) return { prompt: raw.trim(), seed: drawSeed() }
+  return { prompt: raw.replace(SEED_PINNED, "").trim(), seed: Number(pinned) }
 }
 
 function alive(pid: number): boolean {

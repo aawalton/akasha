@@ -1,6 +1,7 @@
 import { appendFile, copyFile, mkdir, readFile } from "node:fs/promises"
 import { homedir } from "node:os"
 import { basename, join } from "node:path"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { buildModelGraph } from "akasha/infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts"
 import {
   MODELS,
@@ -25,11 +26,11 @@ export function drawSeed(): number {
 }
 
 export function baseOf(): string {
-  return `http://127.0.0.1:${process.env.ZIMAGE_PORT ?? DEFAULT_PORT}`
+  return `http://127.0.0.1:${optionalEnv("ZIMAGE_PORT") ?? DEFAULT_PORT}`
 }
 
 export function homeOf(): string {
-  return process.env.ZIMAGE_HOME ?? join(homedir(), ".local", "share", "zimage")
+  return optionalEnv("ZIMAGE_HOME") ?? join(homedir(), ".local", "share", "zimage")
 }
 
 export async function submitted(base: string, graph: unknown): Promise<string> {

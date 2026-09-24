@@ -1,5 +1,6 @@
 import { Buffer } from "node:buffer"
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { JsonSchema } from "akasha/code/type/narrowing/modules/json-schema/json-schema.module.code.ts"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { kebabizeKey } from "akasha/page/access/modules/file-rows/file-rows.module.code.ts"
@@ -12,6 +13,7 @@ import {
   readPages,
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
+import { z } from "zod"
 
 export function generationLogSlug(): string {
   const stated = optionalEnv("GENERATION_LOG")?.trim()
@@ -130,11 +132,11 @@ function appendedTo(page: string, property: string, last: Part, line: string): P
   return { path: at, content: line }
 }
 
+const ROW = z.record(z.string(), JsonSchema)
+
 function rowIn(line: string): Record<string, Json> | null {
   try {
-    const held: unknown = JSON.parse(line)
-    if (typeof held !== "object" || held === null || Array.isArray(held)) return null
-    return held as Record<string, Json>
+    return ROW.safeParse(JSON.parse(line)).data ?? null
   } catch {
     return null
   }

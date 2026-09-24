@@ -1,6 +1,6 @@
 import { createHash } from "node:crypto"
 import { copyFile, mkdir, rename, stat, writeFile } from "node:fs/promises"
-import { homedir } from "node:os"
+
 import { basename, dirname, join } from "node:path"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
@@ -40,6 +40,7 @@ import {
   runComfyGraph,
 } from "akasha/infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
+import { homeOf } from "akasha/infrastructure/inference/generation/zimage/modules/explore-batch/zimage-explore-batch.module.code.ts"
 import { buildModelGraph } from "akasha/infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts"
 import {
   MODEL_IDS,
@@ -110,10 +111,6 @@ export function at(given: Given, path: string): string {
 
 function portIn(): string {
   return optionalEnv("ZIMAGE_PORT") ?? DEFAULT_PORT
-}
-
-function homeIn(): string {
-  return optionalEnv("ZIMAGE_HOME") ?? join(homedir(), ".local", "share", "zimage")
 }
 
 export type Staging = {
@@ -215,7 +212,7 @@ async function generating(
         INPUT
       )
     }
-    const held = await staged(at(given, loraSaid), join(homeIn(), "models", "loras"), done)
+    const held = await staged(at(given, loraSaid), join(homeOf(), "models", "loras"), done)
     if ("why" in held) return refused(held.why, INPUT)
     loraName = held.name
     done.push(`loras/${loraName} is mixed in at ${loraStrength}`)

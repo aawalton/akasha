@@ -1,4 +1,5 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   createJob,
   readJobPodLogs,
@@ -45,12 +46,12 @@ export async function runClusterUpscale(params: ClusterUpscaleParams): Promise<s
     )
   }
 
-  const landed = LANDED.exec(logs)
+  const landed = firstCapture(LANDED.exec(logs))
   if (landed === null) {
     throw new OperationalError(
       `cluster upscale Job ${params.jobName} succeeded and named no image page it landed` +
         (logs !== "" ? `\n--- pod logs (tail) ---\n${logs.slice(-2000)}` : "")
     )
   }
-  return landed[1] as string
+  return landed
 }
