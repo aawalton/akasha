@@ -17,9 +17,9 @@ export const companionFormulaExtraction = {
       statement: "A component identifier counts up across one extraction run.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "Component values are worked out from base companion stats rather than the build being scored.",
+        "Component values are worked out from the stats of the build being scored, which the caller hands in.",
     },
   ],
 } as const satisfies Module
