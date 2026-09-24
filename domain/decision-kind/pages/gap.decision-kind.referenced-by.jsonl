@@ -291,7 +291,6 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-template-table/rule-template-table.module.ts","id":"01a06100-3bfd-7c3a-a467-2c2131163905"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/destination-resolve/destination-resolve.module.ts","id":"01a06137-f96b-7043-97c6-458a3d722f28"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.ts","id":"01a06151-370a-75d2-9f60-78f57041397a"}
-{"propertySlug":"decision-kind","path":"temper/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.ts","id":"01a0616f-8e17-7f39-850b-c2da8d153a31"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.ts","id":"01a0616f-8e14-79ec-a8cd-c4989b33053d"}

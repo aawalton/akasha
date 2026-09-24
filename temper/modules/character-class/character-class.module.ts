@@ -11,10 +11,6 @@ export const characterClass = {
       decisionKind: "decision-kind/constraint",
       statement: "A class's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A class moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["TEMPER_CLASSES"],
 } as const satisfies Module
