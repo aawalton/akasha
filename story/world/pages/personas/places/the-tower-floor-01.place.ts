@@ -9,8 +9,6 @@ export const theTowerFloor01 = {
   loreDisclosure: "lore-disclosure/player",
   depth: 1,
   description:
-    "A cold stone landing at the tower's base. Damp, lightless but for a faint glow further in. The air tastes of old ash. One iron door, ajar.",
-  exits: [
-    { to: "place/the-tower-floor-02", way: "ascending stair (sealed until the floor is cleared)" },
-  ],
+    "A cold stone landing at the tower's base. Damp and lightless. The air tastes of old ash. One iron door, ajar.",
+  exits: [{ to: "place/the-tower-floor-02", way: "ascending stair, open" }],
 } as const satisfies Place
