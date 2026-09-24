@@ -5,7 +5,6 @@ import type {
   Valued,
 } from "akasha/temper/addon/pages/temper-core/temper-custom-menu/modules/custom-menu-types/custom-menu-types.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-map-ui/eso-map-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 
 export type GlobalFnTable = Record<

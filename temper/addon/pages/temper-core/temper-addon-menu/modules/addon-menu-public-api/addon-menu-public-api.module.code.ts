@@ -20,7 +20,6 @@ import "akasha/temper/addon/pages/temper-core/temper-addon-menu/modules/addon-me
 import "akasha/temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-texture/addon-menu-widget-texture.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-settings-window/addon-menu-settings-window.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
 
 _G.TemperAddonMenu = lam
 _G.TemperAddonMenuCreateControl = TEMPER_ADDON_MENU_CREATE_CONTROL

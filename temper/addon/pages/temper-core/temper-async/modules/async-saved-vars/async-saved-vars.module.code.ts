@@ -2,7 +2,6 @@ import type { GlobalTable } from "akasha/temper/addon/pages/temper-core/temper-a
 
 import { ASYNC_DEFAULT_STALL_THRESHOLD } from "akasha/temper/addon/pages/temper-core/temper-async/modules/async-constants/async-constants.module.code.ts"
 import { S } from "akasha/temper/addon/pages/temper-core/temper-async/modules/async-state/async-state.module.code.ts"
-import "akasha/temper/addon/pages/temper-core/temper-async/async-saved-vars-declarations/async-saved-vars-declarations.type-declaration.d.ts"
 
 export function initSavedVar(this: void): undefined {
   const glob = globalThis as GlobalTable

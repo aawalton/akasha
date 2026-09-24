@@ -9,8 +9,6 @@ import {
   SPAWNTIME_DEFAULT,
   SPAWNTIME_MOLAG,
 } from "akasha/temper/addon/pages/temper-core/temper-events/modules/next-boss-constants/next-boss-constants.module.code.ts"
-import "akasha/temper/eso/type/eso-interface-extra-3/eso-interface-extra-3.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
 export interface IctUi {

@@ -229,7 +229,6 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-smithing/writ-smithing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-tooltip/writ-tooltip.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-util/writ-util.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-autocompletion/zone-autocompletion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-dungeon-status/zone-dungeon-status.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-events/zone-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-geo-debug/zone-geo-debug.module.code.ts","typed":false,"deferred":false}
@@ -338,7 +337,6 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-panel/addon-menu-widget-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-api/async-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-scheduler-manager/async-scheduler-manager.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-scheduler/async-scheduler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-async/modules/async-task-sort/async-task-sort.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-chat-message/modules/chat-message-formatters/chat-message-formatters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-chat-message/modules/chat-message-lifecycle/chat-message-lifecycle.module.code.ts","typed":false,"deferred":false}

@@ -12,7 +12,6 @@ import {
   drawSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
-import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 
 const WINDOW_NAME = "TemperItemsListingsTraderInfo"
 const WINDOW_WIDTH = 280
