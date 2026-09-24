@@ -1,6 +1,4 @@
 {"propertySlug":"import","fileName":"infrastructure-service-sweep.command.code.ts","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"infrastructure-service-sweep.command.code.ts","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"infrastructure-service-sweep.command.ts","path":"command/pages/infrastructure/service/sweep/infrastructure-service-sweep.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"infrastructure-service-sweep.command.ts","path":"infrastructure/modules/calls/infrastructure-calls.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"infrastructure-service-sweep.command.ts","path":"infrastructure/modules/calls/infrastructure-calls.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/infrastructure/service/infrastructure-service.namespace.ts","id":"01a0940a-15ff-7e3e-8ad9-8be0509a9a8a"}

@@ -1,5 +1,3 @@
 {"propertySlug":"import","fileName":"temper-community-addon-install.command.code.ts","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-community-addon-install.command.ts","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-community-addon-install.command.ts","path":"infrastructure/modules/calls/infrastructure-calls.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-community-addon-install.command.ts","path":"infrastructure/modules/calls/infrastructure-calls.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/temper/community/temper-community.namespace.ts","id":"01a07c17-fe1d-7ad9-b3a5-9bea441bd023"}
