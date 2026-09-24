@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"alan/web/routes/alan-web-handover-mint/alan-web-handover-mint.route.code.ts"}
+{"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"infrastructure/network/auth-proxy/modules/proxy-reading/proxy-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"infrastructure/network/auth-proxy/modules/server/auth-proxy-server.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-site.module.code.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.code.ts"}

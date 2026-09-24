@@ -37,6 +37,11 @@ export function peripheralNamed(name: string | null): Peripheral | null {
   return (PERIPHERALS as Readonly<Record<string, Peripheral>>)[name] ?? null
 }
 
+export function peripheralAt(origin: string): Peripheral | null {
+  const all: readonly Peripheral[] = Object.values(PERIPHERALS)
+  return all.find((one) => one.origin === origin) ?? null
+}
+
 export function handoverStartAt(site: HandoverSite, back: string): string {
   const asking = new URLSearchParams()
   asking.set(PERIPHERAL_PARAM, site.name)

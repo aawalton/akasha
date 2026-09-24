@@ -146,7 +146,9 @@ export async function browserScreenshot(argv: readonly string[], given: Given): 
 
   let session: Session
   try {
-    session = taken.signedIn ? await createSignedInSession() : await createReadOnlyAnonSession()
+    session = taken.signedIn
+      ? await createSignedInSession(new URL(base).origin)
+      : await createReadOnlyAnonSession()
   } catch (thrown) {
     return refusedBy([thrown instanceof Error ? thrown.message : String(thrown)])
   }

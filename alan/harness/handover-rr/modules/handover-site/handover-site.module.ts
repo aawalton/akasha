@@ -17,6 +17,10 @@ export const handoverSite = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A peripheral is found by its origin as well as by its name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The minting route lives at one path, and both sides read that path from here.",
     },
   ],

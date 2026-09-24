@@ -17,6 +17,14 @@ export const signedInHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A peripheral's origin is signed in by landing a code at that peripheral.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other origin is signed in through alanwalton.com's exchange.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The contributor signed in as is the one Alan's person page names.",
     },
     {

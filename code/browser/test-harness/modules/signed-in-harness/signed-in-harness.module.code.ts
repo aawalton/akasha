@@ -8,6 +8,11 @@ import {
   handoverCodeFor,
 } from "akasha/alan/harness/handover-rr/modules/handover-code/handover-code.module.code.ts"
 import {
+  handoverLandingAt,
+  type Peripheral,
+  peripheralAt,
+} from "akasha/alan/harness/handover-rr/modules/handover-site/handover-site.module.code.ts"
+import {
   type ConsoleCapture,
   createConsoleCapture,
 } from "akasha/code/browser/test-harness/modules/console-capture/console-capture.module.code.ts"
@@ -69,7 +74,13 @@ function contributorSigningIn(): string {
   return named
 }
 
-async function codeMinted(root: string, contributor: string, challenge: string): Promise<string> {
+type Minting = {
+  readonly audience: string
+  readonly contributor: string
+  readonly challenge: string | null
+}
+
+async function codeMinted(root: string, asked: Minting): Promise<string> {
   const held = secretsIn(root, SIGNING_KEY_PAGE)
   const key = held === null ? undefined : held.get(VALUE_KEY)
   if (key === undefined || key === "") {
@@ -80,7 +91,7 @@ async function codeMinted(root: string, contributor: string, challenge: string):
   const before = process.env[SIGNING_KEY_ENV]
   process.env[SIGNING_KEY_ENV] = key
   try {
-    return await handoverCodeFor({ audience: APP_AUDIENCE, contributor, challenge })
+    return await handoverCodeFor(asked)
   } finally {
     if (before === undefined) delete process.env[SIGNING_KEY_ENV]
     else process.env[SIGNING_KEY_ENV] = before
@@ -155,12 +166,39 @@ async function cookiesTraded(code: string, verifier: string): Promise<readonly C
   return held
 }
 
-export async function createSignedInSession(): Promise<SignedInSession> {
+async function cookiesLanded(peripheral: Peripheral, code: string): Promise<readonly Cookie[]> {
+  const at = handoverLandingAt(peripheral, code, "/")
+  const answer = await fetch(at, { redirect: "manual" })
+  const host = new URL(peripheral.origin).hostname
+  const held = answer.headers.getSetCookie().flatMap((one) => {
+    const cookie = cookieIn(one, host)
+    return cookie === null ? [] : [cookie]
+  })
+  if (held.length === 0) {
+    throw new Error(
+      `${peripheral.origin}${peripheral.landingPath} answered ${answer.status} and set no ` +
+        "cookie, so the browser would still be nobody"
+    )
+  }
+  return held
+}
+
+async function cookiesFor(origin: string): Promise<readonly Cookie[]> {
   const root = rootIn(process.env, process.cwd())
+  const contributor = contributorSigningIn()
+  const peripheral = peripheralAt(origin)
+  if (peripheral !== null) {
+    const code = await codeMinted(root, { audience: origin, contributor, challenge: null })
+    return cookiesLanded(peripheral, code)
+  }
   const verifier = verifierMade()
   const challenge = await challengeFor(verifier)
-  const code = await codeMinted(root, contributorSigningIn(), challenge)
-  const cookies = await cookiesTraded(code, verifier)
+  const code = await codeMinted(root, { audience: APP_AUDIENCE, contributor, challenge })
+  return cookiesTraded(code, verifier)
+}
+
+export async function createSignedInSession(origin: string): Promise<SignedInSession> {
+  const cookies = await cookiesFor(origin)
 
   const browser = await chromium.launch({
     headless: true,
