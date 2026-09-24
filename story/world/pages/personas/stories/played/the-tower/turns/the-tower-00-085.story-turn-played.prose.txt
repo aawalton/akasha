@@ -6,7 +6,13 @@ There is no haven. There was never a haven. What you run across is a bare stone 
 
 The thing you killed lies where it fell: lean and grey and unmoving on the wet rock. Near it, spilled from the wreck of the seat, two things that did not die with the haven — a clouded lens the size of your palm, and a heap of folded light gone slack and grey, the woven stuff of every warm lie this floor ever wore, lying there now like a shed skin.
 
-You have cleared it, and the tower marks the crossing the way it always has. But you are shaking with spent adrenaline, your legs are water, and the fire in your maul is a dead black coal.
+You have cleared it, and the tower marks the crossing the way it always has.
+
+:::level-up
+level: 7
+:::
+
+But you are shaking with spent adrenaline, your legs are water, and the fire in your maul is a dead black coal.
 
 So you go down to the foot of the stair, out of the reek, onto the first bare step, and you sit, and you let yourself stop.
 
