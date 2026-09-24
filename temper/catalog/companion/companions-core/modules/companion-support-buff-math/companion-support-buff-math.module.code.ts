@@ -3,17 +3,20 @@ import { companionMetrics } from "akasha/temper/catalog/companion/companions-cor
 import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 
 export function getCritChancePercent(metricValues: Map<CompanionMetricId, number>): number {
-  const critRating = metricValues.get("companion-critical-chance") ?? 0
   const critMetric = companionMetrics.data["companion-critical-chance"]
-  if (critMetric.valueType === "rating") {
-    return convertRatingToChance(
-      critRating,
-      critMetric.divisor,
-      critMetric.cap,
-      critMetric.ratingFloorIncrement
-    )
+  if (critMetric.valueType !== "rating") {
+    throw new Error("companion-critical-chance is no rating, so it has no crit chance")
   }
-  return 0
+  const critRating = metricValues.get("companion-critical-chance")
+  if (critRating === undefined) {
+    throw new Error("The crit chance names companion-critical-chance, which has no value")
+  }
+  return convertRatingToChance(
+    critRating,
+    critMetric.divisor,
+    critMetric.cap,
+    critMetric.ratingFloorIncrement
+  )
 }
 
 export function accumulateDamageBuffDelta(

@@ -278,7 +278,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.ts","id":"01a06108-0766-785a-9dd2-ef09e0ab69e2"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.ts","id":"01a06152-c2c8-7340-b909-f5fd7c81e388"}
-{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.ts","id":"01a06152-c2d7-7695-9439-9870ccc2e399"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.ts","id":"01a06108-076e-76c3-9e85-b58e3d430303"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.ts","id":"01a06108-0770-70cf-94b7-bd4a064ac2f6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companions/companions.module.ts","id":"01a06119-5caf-7f14-b426-f5ed8d06b488"}

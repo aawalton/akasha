@@ -15,9 +15,5 @@ export const companionSupportBuffMath = {
       decisionKind: "decision-kind/constraint",
       statement: "Only fractional-change buff values contribute to the damage delta.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A non-rating critical chance metric yields zero crit chance.",
-    },
   ],
 } as const satisfies Module
