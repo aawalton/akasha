@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/mobile-cli/modules/sim-driver/sim-driver.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/harness/readout/modules/relay/readout-relay.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.running.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.running.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/music/spotify/modules/credentials/spotify-credentials.module.code.ts"}
@@ -27,7 +28,6 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/web/routes/alan-web-api-stripe-webhook/alan-web-api-stripe-webhook.route.code.ts"}
-{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"alan/web/routes/readout-relay/readout-relay.route.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"check/modules/audit-serving/audit-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/browser/test-harness/modules/signed-in-harness/signed-in-harness.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"code/process/modules/proc-reading/proc-reading.module.test.ts"}
@@ -66,6 +66,7 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/modules/file-body/page-file-body.module.test.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/query/modules/store-reaching/store-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"page/query/modules/store-reaching/store-reaching.module.test.ts"}
+{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"product/smilingjenny/web/.server/jenny-ring-credential/jenny-ring-credential.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts"}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.test.ts"}

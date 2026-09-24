@@ -1,12 +1,18 @@
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
-import { RELAY_SECRET_HEADER } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
+import {
+  buildReadoutRefusal,
+  presentsSecret,
+  READOUT_CACHE_CONTROL,
+  RELAY_SECRET_HEADER,
+} from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   NOT_FALLING,
   type Reading,
   readingKept,
   readingValues,
 } from "akasha/alan/harness/readout/modules/reading/readout-reading.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { rootStated } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
@@ -96,6 +102,25 @@ export async function keepRelayed(
     naps
   )
   return "refused" in wrote ? wrote.refused : null
+}
+
+export async function answerRelayed(request: Request): Promise<Response> {
+  const headers = { "Cache-Control": READOUT_CACHE_CONTROL }
+  if (request.method !== "POST") {
+    return Response.json({ ok: false, error: "A reading is carried in." }, { status: 405, headers })
+  }
+  if (!presentsSecret(request, RELAY_SECRET_HEADER, optionalEnv(RELAY_SECRET_NAME))) {
+    return buildReadoutRefusal()
+  }
+  const carried = parseRelayed(await request.json().catch(() => null))
+  if (carried === null) {
+    return Response.json({ ok: false, error: "No reading." }, { status: 400, headers })
+  }
+  const why = await keepRelayed(carried)
+  if (why !== null) {
+    return Response.json({ ok: false, error: why }, { status: 502, headers })
+  }
+  return Response.json({ ok: true, readout: carried.readout, at: carried.at }, { headers })
 }
 
 export function readoutNamedBy(page: string): string {

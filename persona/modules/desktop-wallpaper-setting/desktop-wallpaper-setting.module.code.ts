@@ -6,6 +6,7 @@ import {
   ran,
   type Said,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { followWithin } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.code.ts"
 import {
   everyOfType,
@@ -134,7 +135,7 @@ export function settingIn(
 }
 
 export function blackHeldAt(
-  cache: string | undefined = process.env.XDG_CACHE_HOME,
+  cache: string | undefined = optionalEnv("XDG_CACHE_HOME"),
   home: string = homedir()
 ): string {
   const at = cache === undefined || cache === "" ? join(home, CACHE) : cache
