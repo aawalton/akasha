@@ -7,10 +7,15 @@ export const lore = {
   definition: "a truth about a world",
   pluralSlug: "lore",
   extends: ["page-type/page"],
-  parts: ["relation-property/lore-disclosure", "text-property/lore-facts"],
+  parts: [
+    "relation-property/lore-about",
+    "relation-property/lore-disclosure",
+    "text-property/lore-facts",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/world", required: true, many: false },
+    { pageProperty: "relation-property/lore-about", required: false, many: false },
     { pageProperty: "relation-property/lore-disclosure", required: true, many: false },
     { pageProperty: "text-property/lore-facts", required: true, many: true, maxCount: null },
   ],
