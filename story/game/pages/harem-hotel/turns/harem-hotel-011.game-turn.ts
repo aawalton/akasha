@@ -6,11 +6,4 @@ export const haremHotel011 = {
   slug: "harem-hotel-011",
   game: "game/harem-hotel",
   number: 11,
-  windows: [
-    {
-      kind: "system-choice",
-      name: "THE LINK",
-      note: "Bind one of Aria's skills or attributes to yourself. The bound trait rises as its source rises.",
-    },
-  ],
 } as const satisfies GameTurn

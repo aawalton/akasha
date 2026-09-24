@@ -10,4 +10,7 @@ It is not reading you now. It is holding something open, the way a door holds op
 
 You turn your attention full to the pane, and see what it wants of you.
 
-{{system}}
+:::system-choice
+name: THE LINK
+note: Bind one of Aria's skills or attributes to yourself. The bound trait rises as its source rises.
+:::
