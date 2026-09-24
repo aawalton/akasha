@@ -7,7 +7,7 @@ export const adeleChasingPavements = {
   title: "Chasing Pavements",
   partOfCollections: ["artist/adele"],
   position: 0,
-  ownLength: 3.508433,
+  ownLength: 3.5084333333333335,
   ownProgress: 3.508433,
   unit: "unit/minutes",
   status: "completed",

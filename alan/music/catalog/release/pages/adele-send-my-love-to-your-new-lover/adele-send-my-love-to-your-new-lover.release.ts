@@ -7,7 +7,7 @@ export const adeleSendMyLoveToYourNewLover = {
   title: "Send My Love (To Your New Lover)",
   partOfCollections: ["artist/adele"],
   position: 0,
-  ownLength: 3.717967,
+  ownLength: 3.717966666666667,
   ownProgress: 3.717967,
   unit: "unit/minutes",
   status: "completed",

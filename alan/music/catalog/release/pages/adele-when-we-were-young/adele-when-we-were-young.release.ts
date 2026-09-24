@@ -7,7 +7,7 @@ export const adeleWhenWeWereYoung = {
   title: "When We Were Young",
   partOfCollections: ["artist/adele"],
   position: 0,
-  ownLength: 4.848333,
+  ownLength: 4.848333333333334,
   ownProgress: 4.848333,
   unit: "unit/minutes",
   status: "completed",

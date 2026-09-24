@@ -7,7 +7,7 @@ export const adeleSkyfall = {
   title: "Skyfall",
   partOfCollections: ["artist/adele"],
   position: 0,
-  ownLength: 4.768017,
+  ownLength: 4.768016666666667,
   ownProgress: 4.768017,
   unit: "unit/minutes",
   status: "completed",

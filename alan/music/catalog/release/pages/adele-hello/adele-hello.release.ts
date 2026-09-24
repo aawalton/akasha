@@ -7,7 +7,7 @@ export const adeleHello = {
   title: "Hello",
   partOfCollections: ["artist/adele"],
   position: 0,
-  ownLength: 4.925033,
+  ownLength: 4.925033333333333,
   ownProgress: 4.925033,
   unit: "unit/minutes",
   status: "completed",

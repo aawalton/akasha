@@ -7,7 +7,7 @@ export const adeleWaterUnderTheBridge = {
   title: "Water Under the Bridge",
   partOfCollections: ["artist/adele"],
   position: 0,
-  ownLength: 4.007317,
+  ownLength: 4.007316666666667,
   ownProgress: 4.007317,
   unit: "unit/minutes",
   status: "completed",
