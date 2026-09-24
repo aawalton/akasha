@@ -27,6 +27,7 @@ end
 function Animation:GetTimeline() return self.uiTimeline end
 function Animation:GetAnimatedControl() return self.uiControl end
 function Animation:SetAnimatedControl(control) self.uiControl = control end
+function Animation:SetUpdateFunction(update) self.uiUpdate = update end
 
 local function timeline()
   return setmetatable(
@@ -37,6 +38,9 @@ end
 
 local function finished(self, progress)
   self.uiProgress = progress
+  for _, one in ipairs(self.uiAnimations) do
+    if one.uiUpdate ~= nil then one.uiUpdate(one, progress) end
+  end
   local stopped = self.uiHandlers.OnStop
   if stopped ~= nil then
     _G.zo_callLater(function() stopped(self, true) end, 0)

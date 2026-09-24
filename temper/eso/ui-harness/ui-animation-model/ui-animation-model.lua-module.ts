@@ -30,6 +30,10 @@ export const uiAnimationModel = {
       statement: "A timeline played forward ends at its end, and one played backward at its start.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A timeline finishing hands each animation's update function where it ended.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No animation changes a control, so a control shows as its last setting left it.",
     },
