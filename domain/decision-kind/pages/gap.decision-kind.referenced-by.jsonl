@@ -761,4 +761,5 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-pricing-snapshot/api-watcher-upsert-pricing-snapshot.route.ts","id":"01a082fe-7dee-72e6-89a1-b20f7230159b"}
 {"propertySlug":"import","fileName":"gap.decision-kind.ts","path":"alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.test.ts"}
 {"propertySlug":"import","fileName":"gap.decision-kind.ts","path":"command/pages/gap/delete/gap-delete.command.test.ts"}
+{"propertySlug":"page-domain","path":"domain/initiative/pages/akasha-gaps-to-zero.initiative.ts","id":"01a0884c-4471-76ab-86aa-bb94691c846a"}
 {"propertySlug":"parts","path":"domain/decision-kind/decision-kind.page-type.ts","id":"01a04e11-9f98-775b-846d-a9985a5ebd21"}
