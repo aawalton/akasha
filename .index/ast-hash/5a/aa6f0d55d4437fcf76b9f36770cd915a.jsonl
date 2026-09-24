@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts","name":"sanitizeVersionForPath"}
+{"path":"agent/seat/supervisor-restart/modules/install/supervisor-restart-install.module.code.ts","name":"sanitizeVersionForPath"}

@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts","name":"askReExecJitterMs"}
+{"path":"agent/seat/supervisor-restart/modules/jitter-rule/supervisor-restart-jitter-rule.module.code.ts","name":"askReExecJitterMs"}

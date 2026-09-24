@@ -6,7 +6,7 @@ import {
 import {
   ORIGINAL_ARGV,
   SELF_HEAL_STATE,
-} from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+} from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export function resolveReExecArgv(): readonly string[] {

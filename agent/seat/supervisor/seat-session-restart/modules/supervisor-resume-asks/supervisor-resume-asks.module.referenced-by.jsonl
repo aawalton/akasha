@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-adoption-rule/supervisor-gateway-adoption-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-liveness-rule/supervisor-gateway-liveness-rule.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor-restart/modules/jitter-rule/supervisor-restart-jitter-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"}

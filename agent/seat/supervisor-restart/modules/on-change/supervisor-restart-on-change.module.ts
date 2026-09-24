@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const supervisorSelfHeal = {
+export const supervisorRestartOnChange = {
   id: "01a06876-abda-7014-a8df-2f19d8a36b1a",
   type: "page-type/module",
-  slug: "supervisor-self-heal",
+  slug: "supervisor-restart-on-change",
   definition: "restarting the supervisor when the files it runs from change",
   code: "ts",
 } as const satisfies Module

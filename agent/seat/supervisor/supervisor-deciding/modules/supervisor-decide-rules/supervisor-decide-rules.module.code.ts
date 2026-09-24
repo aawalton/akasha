@@ -43,7 +43,7 @@ import {
 import {
   computeReExecJitterMs,
   resolveMaxReExecJitterMs,
-} from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor-restart/modules/jitter-decide/supervisor-restart-jitter-decide.module.code.ts"
 import {
   arr,
   bool,

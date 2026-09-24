@@ -10,8 +10,8 @@ import {
   getInheritedClaude,
   processes,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+import { getProxyOwnerAgentIdForSelfHeal } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import { buildHandoffEnv } from "akasha/agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { getProxyOwnerAgentIdForSelfHeal } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 function collectClaudeHandoff(): {
   pid: number

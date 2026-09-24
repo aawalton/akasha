@@ -5,11 +5,11 @@
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/stopping/modules/takeover-seat/takeover-seat.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/install/supervisor-restart-install.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/config/supervisor-account-config.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-config.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}

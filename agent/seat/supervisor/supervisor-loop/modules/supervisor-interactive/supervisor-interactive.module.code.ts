@@ -27,8 +27,8 @@ import { isShuttingDown } from "akasha/agent/seat/supervisor/supervisor-process/
 import type { AgentProcess } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
 import type { CarriedAgentName } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import { recordTermiosState } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
-import { askReExecJitterMs } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
-import { setSelfHealIdleProbe } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import { askReExecJitterMs } from "akasha/agent/seat/supervisor-restart/modules/jitter-rule/supervisor-restart-jitter-rule.module.code.ts"
+import { setSelfHealIdleProbe } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 
 export async function runInteractive(
   prompt: string,

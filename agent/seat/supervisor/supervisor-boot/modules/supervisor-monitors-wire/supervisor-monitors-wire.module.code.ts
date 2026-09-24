@@ -14,12 +14,12 @@ import { startLimitResumeMonitor } from "akasha/agent/seat/supervisor/supervisor
 import { startWaitResumeMonitor } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
 import { buildHeartbeatMonitor } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { browserReapPoll } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.code.ts"
-import { pollSupervisorFileVersion } from "akasha/agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
-import { handleVersionUpdate } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
+import { handleVersionUpdate } from "akasha/agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"
 import {
   SELF_HEAL_STATE,
   SUPERVISOR_SCRIPT,
-} from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+} from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
+import { pollSupervisorFileVersion } from "akasha/agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export type PerAgentMonitors = {

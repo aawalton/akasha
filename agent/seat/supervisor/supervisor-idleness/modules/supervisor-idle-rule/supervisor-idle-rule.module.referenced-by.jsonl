@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-rule.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}

@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts","name":"setProxyOwnerAgentIdForSelfHeal"}
+{"path":"agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts","name":"setProxyOwnerAgentIdForSelfHeal"}

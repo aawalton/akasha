@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts","name":"resolveMaxReExecJitterMs"}
+{"path":"agent/seat/supervisor-restart/modules/jitter-decide/supervisor-restart-jitter-decide.module.code.ts","name":"resolveMaxReExecJitterMs"}

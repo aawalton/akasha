@@ -10,7 +10,7 @@ import { waitResumeNudge } from "akasha/agent/message/notice/pages/wait-resume-n
 import {
   planRestartNotice,
   type ResumeNotices,
-} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-session-restart/modules/session-restart-notice-decide/session-restart-notice-decide.module.code.ts"
 import {
   parseClaimedRedelivery,
   parseLimitResume,

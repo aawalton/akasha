@@ -21,8 +21,8 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/supervisor-restart/modules/install/supervisor-restart-install.module.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.test.ts"}

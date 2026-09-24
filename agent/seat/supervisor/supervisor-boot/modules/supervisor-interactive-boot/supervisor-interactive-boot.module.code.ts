@@ -33,12 +33,12 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+import { setProxyOwnerAgentIdForSelfHeal } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import {
   parseSupervisorHandoffEnv,
   resolveProxyOwnerAgentId,
   SUPERVISOR_HANDOFF_ENV_KEYS,
 } from "akasha/agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { setProxyOwnerAgentIdForSelfHeal } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const ENV_OPTIONAL = SHAPE.string().optional()

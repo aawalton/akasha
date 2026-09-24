@@ -30,7 +30,7 @@ import type { CarriedAgentName } from "akasha/agent/seat/supervisor/supervisor-r
 import type { ClearRebindDeps } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { armForceExitTimer } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import { resolveMcpConfig } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
-import { isPendingReExec } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import { isPendingReExec } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 
 export type SeatSpawnDecider = (
   agentId: string | null,

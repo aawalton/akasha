@@ -5,14 +5,14 @@ import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/sup
 import { isProcessAlive } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"
 import { getInheritedClaude } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import {
+  defaultRunInstall,
+  type SelfHealRunInstall,
+} from "akasha/agent/seat/supervisor-restart/modules/install/supervisor-restart-install.module.code.ts"
+import type { SelfHealJitterRuleSource } from "akasha/agent/seat/supervisor-restart/modules/jitter-rule/supervisor-restart-jitter-rule.module.code.ts"
+import {
   reExecAsked,
   takeReExecAsk,
 } from "akasha/agent/seat/supervisor-restart/modules/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts"
-import {
-  defaultRunInstall,
-  type SelfHealRunInstall,
-} from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-install/supervisor-self-heal-install.module.code.ts"
-import type { SelfHealJitterRuleSource } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 function inheritedClaudePid(): number | null {
@@ -26,7 +26,7 @@ export const ORIGINAL_ARGV = process.argv.slice(2)
 
 function refuseUnwiredSelfHealRule(which: string): never {
   throw new Error(
-    `supervisor-self-heal: the ${which} was reached before \`setSelfHealIdleProbe\` wired one. ` +
+    `supervisor-restart-state: the ${which} was reached before \`setSelfHealIdleProbe\` wired one. ` +
       "Either this path should not be deciding, or the composition root has not run — a " +
       "supervisor that guessed a re-exec window here would act on the fleet with confidence " +
       "it had not earned."
