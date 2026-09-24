@@ -19,7 +19,7 @@ import type { ListedNote } from "akasha/story/game/properties/listed-note.text-p
 export type GameEntity = Page & {
   title: Title
   game: HoldingGame
-  kind: EntityKind
+  kind?: EntityKind
   class?: EntityClass
   level?: EntityLevel
   attributes?: AttributeScores

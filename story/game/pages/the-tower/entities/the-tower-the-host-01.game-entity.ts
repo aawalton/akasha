@@ -6,7 +6,6 @@ export const theTowerTheHost01 = {
   slug: "the-tower-the-host-01",
   title: "The Host (Warden of the Haven) — Phase 1, the Weaver",
   game: "game/the-tower",
-  kind: "enemy",
   class: "Gallery Warden",
   note: "engine: VIT8(120)+MIGHT2(24) = 144 HP. physDef (15+10)/2+2 = 14.5. physAtk 12*1.5+10+4 = 32. Init 12+10 = 22 (Alan's 26 first, but worthless until he's IDed the real one). HP a wall only if you brute the decoys.",
 } as const satisfies GameEntity

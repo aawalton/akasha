@@ -6,7 +6,6 @@ export const theTowerTheWelcomersPair01 = {
   slug: "the-tower-the-welcomers-pair-01",
   title: "The Welcomers (coordinated pair — run TWO instances of this sheet)",
   game: "game/the-tower",
-  kind: "enemy",
   class: "Glamour-predator (pair)",
   note: "engine (each): VIT8(64)+MIGHT2(18) = 82 HP. physDef 11. physAtk 30.5. Init 27 each. TWO of them = the floor-5 threat step-up; the danger is the flank + the trust, not a HP wall.",
 } as const satisfies GameEntity

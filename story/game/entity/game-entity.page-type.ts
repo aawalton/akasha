@@ -11,7 +11,7 @@ export const gameEntity = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/holding-game", required: true, many: false },
-    { pageProperty: "text-property/entity-kind", required: true, many: false },
+    { pageProperty: "text-property/entity-kind", required: false, many: false },
     { pageProperty: "text-property/entity-class", required: false, many: false },
     { pageProperty: "number-property/entity-level", required: false, many: false },
     {

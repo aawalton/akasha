@@ -6,7 +6,6 @@ export const theTowerAlan = {
   slug: "the-tower-alan",
   title: "Alan",
   game: "game/the-tower",
-  kind: "player",
   skills: [
     {
       name: "Ember Channel",

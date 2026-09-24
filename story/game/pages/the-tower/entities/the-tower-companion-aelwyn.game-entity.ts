@@ -6,7 +6,6 @@ export const theTowerCompanionAelwyn = {
   slug: "the-tower-companion-aelwyn",
   title: "Aelwyn",
   game: "game/the-tower",
-  kind: "ally",
   class:
     "Bulwark (tentative) — frontline tank/protector; holds the line, soaks hits, controls space",
   note: "Tentative. Aelwyn is the BODY Alan does not have — she stands in front so his glass cannon never has to. Calibrate against the real persona (the strength/health axis).",
