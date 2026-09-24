@@ -95,13 +95,13 @@ const NOTHING: Shaped = { entries: [] }
 
 const COMPACTED: Shaped = { compacted: true }
 
-function saidIn(held: unknown): Said | null {
+function parseSaid(held: unknown): Said | null {
   return held !== null && typeof held === "object" && !Array.isArray(held) ? (held as Said) : null
 }
 
 function recordIn(line: string): Said | null {
   try {
-    return saidIn(JSON.parse(line))
+    return parseSaid(JSON.parse(line))
   } catch {
     return null
   }
@@ -112,12 +112,12 @@ function timeOf(record: Said): { readonly at?: string } {
 }
 
 function blocksOf(record: Said): readonly Said[] {
-  const content = saidIn(record.message)?.content
+  const content = parseSaid(record.message)?.content
   if (typeof content === "string") return [{ type: TEXT, text: content }]
   if (!Array.isArray(content)) return []
   const found: Said[] = []
   for (const one of content) {
-    const block = saidIn(one)
+    const block = parseSaid(one)
     if (block !== null) found.push(block)
   }
   return found
@@ -147,11 +147,24 @@ export function toolLine(name: string, subject: string): string {
   return subject === "" ? name : `${name}(${subject})`
 }
 
+function parseChannel(
+  found: RegExpExecArray | null
+): { readonly heading: string; readonly body: string } | null {
+  const heading = found?.[1]
+  const body = found?.[2]
+  return typeof heading === "string" && typeof body === "string" ? { heading, body } : null
+}
+
+function parseSender(found: RegExpExecArray | null): string {
+  const named = found?.[1]
+  return typeof named === "string" ? named : UNNAMED_SENDER
+}
+
 function channelSaid(text: string, at: { readonly at?: string }): ConversationEntry | null {
-  const channel = CHANNEL.exec(text)
+  const channel = parseChannel(CHANNEL.exec(text))
   if (channel === null) return null
-  const sender = SENDER.exec(channel[1] ?? "")?.[1] ?? UNNAMED_SENDER
-  const said = (channel[2] ?? "").trim()
+  const sender = parseSender(SENDER.exec(channel.heading))
+  const said = channel.body.trim()
   if (sender === PERSON_SENDER) return { kind: "person", ...imagesOut(said), ...at }
   return { kind: "message", sender, text: said, ...at }
 }
@@ -193,7 +206,7 @@ function harnessIn(record: Said): Shaped {
 }
 
 function queuedIn(record: Said): Shaped {
-  const attached = saidIn(record.attachment)
+  const attached = parseSaid(record.attachment)
   if (attached === null || attached.type !== QUEUED || attached.commandMode !== TYPED) {
     return NOTHING
   }
