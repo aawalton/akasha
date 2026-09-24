@@ -5,6 +5,7 @@ export const temperGearGrade = {
   type: "page-type/page-type",
   slug: "temper-gear-grade",
   definition: "what a piece of gear's enchant or trait is worth at one quality",
+  pluralSlug: "grades",
   extends: ["page-type/temper-gear-thing"],
   parts: ["relation-property/grade-metric", "relation-property/graded-thing"],
   properties: [

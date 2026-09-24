@@ -5,6 +5,7 @@ export const temperCompanionTraitGrade = {
   type: "page-type/page-type",
   slug: "temper-companion-trait-grade",
   definition: "what a companion trait is worth at one quality",
+  pluralSlug: "grades",
   extends: ["page-type/temper-companion-thing"],
   parts: ["relation-property/companion-grade-metric", "relation-property/graded-companion-trait"],
   properties: [
