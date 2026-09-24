@@ -121,8 +121,8 @@ export async function putUpInferenceService(
   const every = everyInference(root)
   if ("refused" in every) return refusedBy([every.refused])
 
-  const host = getHost(service.host)
-  const target = { user: host.user, host: host.address, keyPath: host.keyPath }
+  const host = getHost(service.host, root)
+  const target = { user: host.loginUser, host: host.address, keyPath: host.keyPath }
   const report = [`${service.name} on ${host.name} (${host.address})`]
 
   const actual = parseActualState(

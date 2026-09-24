@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"inference-schema.module.code.ts","path":"command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inference-schema.module.code.ts","path":"infrastructure/inference/command/modules/inference-answering/inference-answering.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"inference-schema.module.code.ts","path":"infrastructure/inference/pool/modules/inference-hosts/inference-hosts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"inference-schema.module.code.ts","path":"infrastructure/inference/pool/modules/inference-hosts/inference-hosts.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inference-schema.module.code.ts","path":"infrastructure/inference/pool/modules/pool-config-build/pool-config-build.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inference-schema.module.code.ts","path":"infrastructure/inference/pool/modules/provision-script/provision-script.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/inference/pool/inference-pool.domain.ts","id":"01a06815-9efd-7015-b82a-e620372e1e32"}

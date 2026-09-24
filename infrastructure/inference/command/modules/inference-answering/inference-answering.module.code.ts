@@ -31,7 +31,7 @@ export function targetOf(host: InferenceHost): {
   readonly host: string
   readonly keyPath: string
 } {
-  return { user: host.user, host: host.address, keyPath: host.keyPath }
+  return { user: host.loginUser, host: host.address, keyPath: host.keyPath }
 }
 
 export function wroteTo(path: string, bytes: Uint8Array, what: string): string {

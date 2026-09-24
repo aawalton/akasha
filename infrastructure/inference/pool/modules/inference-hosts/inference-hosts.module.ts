@@ -9,6 +9,18 @@ export const inferenceHosts = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A host is read from its page rather than from a list in code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A host page stating no conda script is no inference host.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A host stating a conda script and not how to reach it raises.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A host asked for by a name nothing declares raises rather than answering.",
     },
   ],

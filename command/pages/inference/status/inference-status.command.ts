@@ -23,7 +23,7 @@ export const inferenceStatus = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every declared host is asked.",
+      statement: "Every host whose page says it serves inference is asked.",
     },
     {
       decisionKind: "decision-kind/departure",

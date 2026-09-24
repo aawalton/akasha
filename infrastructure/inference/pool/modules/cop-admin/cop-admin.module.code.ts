@@ -28,7 +28,7 @@ export function findCop(): CopHandle {
     .filter((s) => s.host === cop.host && s.lifecycle === "pool")
     .map((s) => s.name)
   return {
-    target: { user: host.user, host: host.address, keyPath: host.keyPath },
+    target: { user: host.loginUser, host: host.address, keyPath: host.keyPath },
     adminPort: cop.port,
     poolNames,
   }

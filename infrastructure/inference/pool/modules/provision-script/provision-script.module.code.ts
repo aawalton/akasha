@@ -60,7 +60,7 @@ export function buildQueryScript(
   const root = `${host.home}/inference`
   const labelRe = `^${LAUNCHD_LABEL_PREFIX.replaceAll(".", "\\.")}`
   const labelStrip = `s/^${LAUNCHD_LABEL_PREFIX.replaceAll(".", "\\.")}//`
-  const condaBase = host.condaSh.replace(/\/etc\/profile\.d\/conda\.sh$/, "")
+  const condaBase = host.condaScript.replace(/\/etc\/profile\.d\/conda\.sh$/, "")
   const lines = [
     "set -u",
     `INF_ROOT=${quoted(root)}`,
@@ -73,7 +73,7 @@ export function buildQueryScript(
     `  done`,
     "fi",
     `launchctl list 2>/dev/null | awk 'NR>1 {print $3}' | grep -E ${quoted(labelRe)} | sed ${quoted(labelStrip)} | while read -r n; do echo "LAUNCHD $n"; done || true`,
-    `source ${quoted(host.condaSh)} 2>/dev/null || true`,
+    `source ${quoted(host.condaScript)} 2>/dev/null || true`,
     `conda env list 2>/dev/null | awk '{print $1}' | grep -E '^inference-' | sed 's/^inference-//' | while read -r n; do echo "CONDA $n"; done || true`,
   ]
   if (healthProbeNames.length > 0) {
@@ -101,7 +101,7 @@ export function buildQueryScript(
 export function buildMfluxQueryScript(host: InferenceHost, serviceName: string): string {
   return [
     "set -u",
-    `source ${quoted(host.condaSh)} 2>/dev/null || true`,
+    `source ${quoted(host.condaScript)} 2>/dev/null || true`,
     `conda activate ${quoted(condaEnvName(serviceName))} 2>/dev/null || { echo "ENV_MISSING"; exit 0; }`,
     `ls "$CONDA_PREFIX"/bin/ 2>/dev/null | grep -E ${quoted("^mflux-")} || true`,
     "exit 0",
@@ -115,7 +115,7 @@ function buildRunScript(host: InferenceHost, service: Provisioned): string {
   return [
     "#!/bin/bash",
     "set -euo pipefail",
-    `source ${quoted(host.condaSh)}`,
+    `source ${quoted(host.condaScript)}`,
     `conda activate ${quoted(condaEnvName(service.name))}`,
     `cd ${quoted(cwd)}`,
     execLine,
@@ -166,9 +166,9 @@ export function buildApplyScript(args: {
     "set -euo pipefail",
     `SVC_DIR=${quoted(dir)}`,
     `mkdir -p "$SVC_DIR" "$SVC_DIR/logs" ${quoted(`${host.home}/Library/LaunchAgents`)}`,
-    `source ${quoted(host.condaSh)}`,
+    `source ${quoted(host.condaScript)}`,
     `# Idempotent per-service provisioning (clone, conda env, weights).`,
-    `bash "$SVC_DIR/src/${provisionScriptName(service.sourceDir)}" ${quoted(service.name)} ${quoted(service.pythonVersion)} "$SVC_DIR" ${quoted(host.condaSh)}`,
+    `bash "$SVC_DIR/src/${provisionScriptName(service.sourceDir)}" ${quoted(service.name)} ${quoted(service.pythonVersion)} "$SVC_DIR" ${quoted(host.condaScript)}`,
     `# launchd wrapper`,
     `cat > "$SVC_DIR/run.sh" <<'INFERENCE_RUN_EOF'`,
     runScript.trimEnd(),
@@ -223,7 +223,7 @@ export function buildPruneScript(args: { host: InferenceHost; name: string }): s
     `launchctl bootout "gui/$uid/${label}" 2>/dev/null || true`,
     `rm -f ${quoted(plistPath(host.home, name))}`,
     `rm -rf ${quoted(serviceDir(host.home, name))}`,
-    `source ${quoted(host.condaSh)} 2>/dev/null || true`,
+    `source ${quoted(host.condaScript)} 2>/dev/null || true`,
     `conda env remove -n ${quoted(condaEnvName(name))} -y 2>/dev/null || true`,
     "",
   ].join("\n")

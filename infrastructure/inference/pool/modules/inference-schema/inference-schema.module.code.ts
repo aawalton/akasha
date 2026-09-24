@@ -1,16 +1,13 @@
 import { z } from "zod"
 
-export const InferenceHostSchema = z
-  .object({
-    name: z.string().min(1),
-    address: z.string().min(1),
-    user: z.string().min(1),
-    keyPath: z.string().min(1),
-    home: z.string().min(1),
-    condaSh: z.string().min(1),
-  })
-  .strict()
-export type InferenceHost = z.infer<typeof InferenceHostSchema>
+export type InferenceHost = {
+  readonly name: string
+  readonly address: string
+  readonly loginUser: string
+  readonly keyPath: string
+  readonly home: string
+  readonly condaScript: string
+}
 
 export const ActualResourceSchema = z
   .object({
