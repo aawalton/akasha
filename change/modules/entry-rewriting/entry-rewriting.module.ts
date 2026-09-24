@@ -6,6 +6,7 @@ export const entryRewriting = {
   slug: "entry-rewriting",
   definition: "the entries beside every page of a page type, written anew one page at a time",
   code: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

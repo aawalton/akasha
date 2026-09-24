@@ -125,6 +125,9 @@ export type Changes = {
   "change-agent/qualify-relation-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/remove-entry-key-on-every-page": Parameters<
+    typeof import("akasha/change/agent/page-type/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/remove-every-page-of-a-type": Parameters<
     typeof import("akasha/change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts")["runChange"]
   >[1]
@@ -313,6 +316,9 @@ export type Changes = {
   >[1]
   "change-mechanical-page-type/qualify-relation-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-page-type/remove-entry-key-on-every-page": Parameters<
+    typeof import("akasha/change/mechanical/page-type/remove/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
   "change-mechanical-page-type/remove-every-page-of-a-type": Parameters<
     typeof import("akasha/change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.code.ts")["runChange"]

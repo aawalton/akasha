@@ -103,6 +103,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/qualify-relation-on-every-page/qualify-relation-on-every-page.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.code.ts"}
@@ -233,6 +235,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.test.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/remove/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-mechanical-page-type.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/remove/remove-entry-key-on-every-page/remove-entry-key-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/remove/remove-every-page-of-a-type/remove-every-page-of-a-type.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.code.ts"}
@@ -250,6 +254,7 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/entry-rewriting/entry-rewriting.module.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/entry-rewriting/entry-rewriting.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/export-renaming/export-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/file-carrying/file-carrying.module.test.ts"}

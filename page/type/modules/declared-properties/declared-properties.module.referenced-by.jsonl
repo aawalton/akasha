@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-page-type/add-property-to-page-type.change-mechanical-page-type.code.ts"}
-{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/page-type/change/change-property-on-page-type/change-property-on-page-type.change-mechanical-page-type.code.ts"}
@@ -26,6 +25,7 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/modules/entry-rewriting/entry-rewriting.module.code.ts"}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/modules/entry-rewriting/entry-rewriting.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/modules/key-requiring/key-requiring.module.test.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/modules/page-editing/page-editing.module.code.ts"}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"change/modules/value-carrying/value-carrying.module.test.ts"}

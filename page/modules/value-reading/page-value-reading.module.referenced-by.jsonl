@@ -109,7 +109,6 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/add/add-page-type-types/add-page-type-types.change-mechanical-page-type.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/add/add-property-to-every-page/add-property-to-every-page.change-mechanical-page-type.test.ts"}
-{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/page-type/change/change-calculation-held-type/change-calculation-held-type.change-mechanical-page-type.code.ts"}
@@ -128,6 +127,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/modules/edits-dropping/edits-dropping.module.test.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/modules/entry-rewriting/entry-rewriting.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/modules/page-claiming/page-claiming.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/modules/page-claiming/page-claiming.module.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/modules/page-editing/page-editing.module.code.ts"}

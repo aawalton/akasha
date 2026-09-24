@@ -5,62 +5,15 @@ import {
 } from "akasha/change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.code.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
-  bodiesIn,
-  ledgerAt,
-  type World,
-} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
-import { filesOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import type { Carried as Declared } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
-
-const TYPE = "week"
-
-const ONE_AT = "alan/weeks/one.week.ts"
-
-const TWO_AT = "alan/weeks/two.week.ts"
-
-const ONE_ROWS_AT = "alan/weeks/one.week.spans.jsonl"
-
-const TWO_ROWS_AT = "alan/weeks/two.week.spans.jsonl"
-
-const PART_TWO_AT = "alan/weeks/one.week.spans.part2.jsonl"
+  ONE_ROWS_AT,
+  PART_TWO_AT,
+  TWO_ROWS_AT,
+  TYPE,
+  weeksWith as worldFor,
+} from "akasha/change/modules/entry-rewriting/entry-rewriting.module.test-fixtures.ts"
+import { bodiesIn } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const ASKED: Asked = { pageType: TYPE, key: "spans", from: "opened", to: "openedAt" }
-
-const ENTRY: Declared = {
-  pagePropertySlug: "page-property-entry/week-spans",
-  pageTypeSlug: "page-property-entry",
-  propertySlug: "spans",
-  key: "spans",
-  unique: null,
-  declaredBy: TYPE,
-  required: false,
-  many: true,
-  maxCount: null,
-  maxLength: null,
-  uncommitted: false,
-  secret: false,
-}
-
-const WEEKS: ReadonlyMap<string, Value> = new Map([
-  [ONE_AT, { spans: "jsonl" }],
-  [TWO_AT, { spans: "jsonl" }],
-])
-
-function bodyOf(slug: string): string {
-  return `export const ${slug} = {\n  slug: "${slug}",\n  spans: "jsonl",\n}\n`
-}
-
-function worldFor(files: Readonly<Record<string, string>>): World {
-  const index = {
-    kindsUnder: (of: string) => new Set([of]),
-    propertiesIfNamed: (of: string) => (of === TYPE ? [ENTRY] : null),
-    valuesByPath: () => WEEKS,
-  } as never
-  const bodies = { [ONE_AT]: bodyOf("one"), [TWO_AT]: bodyOf("two"), ...files }
-  const ledger = ledgerAt("/nowhere", filesOf(bodies))
-  return Object.defineProperty(ledger, "index", { value: index })
-}
 
 test("the key written to is put in straight after the key read from, which stays", () => {
   const world = worldFor({ [ONE_ROWS_AT]: '{"id":"a","opened":"x","note":"n"}\n{"id":"b"}\n' })
