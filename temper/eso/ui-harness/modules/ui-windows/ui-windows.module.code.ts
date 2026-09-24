@@ -139,6 +139,39 @@ const OWN_WINDOWS: readonly UiWindow[] = [
   ownWindow("task-hud", "TemperCharacters", "TemperTaskHUD_v2", SHOWS_HUD),
   ownWindow("minimap", "TemperWorld", "ZO_WorldMap", SHOWS_HUD),
   ownWindow(
+    "trading-sell",
+    "TemperItems",
+    "TemperItemsListingsSell",
+    `
+      SCENE_MANAGER:Show("tradinghouse")
+      __ui_raise(EVENT_OPEN_TRADING_HOUSE)
+      __ui_raise(EVENT_TRADING_HOUSE_PENDING_ITEM_UPDATE, 1, true)
+    `
+  ),
+  ownWindow(
+    "lore-books-copy",
+    "TemperWorld",
+    "TemperWorldLoreBooksCopyReport",
+    `
+      local keys = __bundle_require("${LOREBOOKS}.lorebooks-report-state.lorebooks-report-state.module.code")
+        .REPORT_STATE.loreLibraryReportKeybind
+      SCENE_MANAGER:CallWhen("loreLibrary", SCENE_SHOWN, function()
+        keys[1].callback()
+        keys[3].callback()
+      end)
+      SCENE_MANAGER:Show("loreLibrary")
+    `
+  ),
+  ownWindow(
+    "notifications",
+    "Temper",
+    "ZO_Notifications",
+    `
+      __ui_raise(EVENT_LUA_ERROR, "an error the harness raised")
+      SCENE_MANAGER:Show("notifications")
+    `
+  ),
+  ownWindow(
     "trading-browse",
     "TemperItems",
     "TemperItemsListingsBrowse",
