@@ -110,7 +110,6 @@
 {"propertySlug":"decision-kind","path":"check/code/check-code.page-type.ts","id":"01a04bc4-7e86-7beb-8dfb-3666785dd3d5"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.ts","id":"01a0827e-df53-7d03-80a4-b3305001f92e"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.ts","id":"01a09c58-2398-7392-b878-1c1491cab780"}
-{"propertySlug":"decision-kind","path":"code/editor/extension/modules/tree-row-deleting/tree-row-deleting.module.ts","id":"01a0b7a0-c25d-7519-bec2-00ac51718008"}
 {"propertySlug":"decision-kind","path":"code/file-kind-domain/file-kind-domain.page-type.ts","id":"01a06837-0535-70c2-9917-d332b4b6a505"}
 {"propertySlug":"decision-kind","path":"code/file-purpose/file-purpose.page-type.ts","id":"01a06837-0535-7469-ab8e-6bda76b453a7"}
 {"propertySlug":"decision-kind","path":"code/file-purpose/pages/test-ts.file-purpose.ts","id":"01a06860-a0ef-77a2-b7d4-1fd2a8169652"}

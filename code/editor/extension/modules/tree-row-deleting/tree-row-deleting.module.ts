@@ -64,9 +64,5 @@ export const treeRowDeleting = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here draws a row.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "One module states the editor and the harness call every panel's deleting takes.",
-    },
   ],
 } as const satisfies Module
