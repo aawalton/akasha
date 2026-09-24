@@ -9,28 +9,7 @@ export const gatedWrite = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run is its exit code together with the report that run printed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "Only a refusal has a reason with that refusal.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The reason for a refusal is read out of the report the run printed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A line is a failure where that line opens with a bracketed name followed by fail.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Several failures in one report are joined with a semicolon.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A report naming no failure comes back whole with its edges trimmed.",
     },
   ],
 } as const satisfies Module
