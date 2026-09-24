@@ -182,6 +182,15 @@ test("a read with neither a path nor a page is refused", async () => {
   expect(await refusalOf(answered)).toContain("at least one path")
 })
 
+test("a read withheld for a secret or an uncommitted value is answered as forbidden", async () => {
+  const root = repoWith("one")
+  for (const path of ["akasha/a-page.module.sops.yaml", "akasha/a-page.module.uncommitted.ts"]) {
+    const answered = await answering(over(root), asking({ paths: [path] }, READ_AT))
+    expect(answered.status).toBe(403)
+    expect(await refusalOf(answered)).toContain("hands out no")
+  }
+})
+
 test("a read of a path that is no path inside the repository is refused", async () => {
   const root = repoWith("one")
   const answered = await answering(over(root), asking({ paths: ["/tools/a.ts"] }, READ_AT))

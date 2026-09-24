@@ -78,6 +78,11 @@ export const pageReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A refusal over a withheld path is told apart from a refusal over a malformed read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page is named by its page type and its slug.",
     },
     {

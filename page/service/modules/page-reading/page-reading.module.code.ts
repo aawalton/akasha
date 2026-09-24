@@ -34,7 +34,7 @@ export type Read =
       readonly bodies: readonly Body[]
       readonly unplaced: readonly string[]
     }
-  | { readonly refused: string }
+  | { readonly refused: string; readonly withheld?: true }
 
 export type Reading = {
   readonly root: string
@@ -64,6 +64,14 @@ function withheldIn(path: string): string | null {
   return null
 }
 
+export function withheldAmong(paths: readonly string[]): string | null {
+  for (const one of paths) {
+    const withheld = withheldIn(one)
+    if (withheld !== null) return withheld
+  }
+  return null
+}
+
 export function refusalIn(asked: Asked): string | null {
   const paths = asked.paths ?? []
   const pages = asked.pages ?? []
@@ -75,8 +83,6 @@ export function refusalIn(asked: Asked): string | null {
       return `\`${one}\` is no path inside the repository, and this reads what the repository holds`
     }
     if (one.split(PARTED_BY).includes(ABOVE)) return `\`${one}\` reaches above the root`
-    const withheld = withheldIn(one)
-    if (withheld !== null) return withheld
   }
   for (const one of pages) {
     if (one.pageTypeSlug === "" || one.slug === "") {
@@ -110,6 +116,8 @@ export function placedIn(root: string, asked: Asked, places: Placing = placing):
 export function reading(given: Reading, asked: Asked, places: Placing = placing): Read {
   const refused = refusalIn(asked)
   if (refused !== null) return { refused }
+  const asking = withheldAmong(asked.paths ?? [])
+  if (asking !== null) return { refused: asking, withheld: true }
   try {
     const named = asked.at
     if (named !== undefined && !commitThere(given.root, named)) {
@@ -117,10 +125,8 @@ export function reading(given: Reading, asked: Asked, places: Placing = placing)
     }
     const placed = placedIn(given.root, asked, places)
     if ("refused" in placed) return placed
-    for (const one of placed.paths) {
-      const withheld = withheldIn(one)
-      if (withheld !== null) return { refused: withheld }
-    }
+    const withheld = withheldAmong(placed.paths)
+    if (withheld !== null) return { refused: withheld, withheld: true }
     const at = named ?? baseOf(given.root)
     const change = changeOf(given.root, at, [])
     const bodies = placed.paths.map((one) => ({

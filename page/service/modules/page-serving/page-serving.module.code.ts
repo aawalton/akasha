@@ -158,7 +158,7 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     const sought = readIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
     const found = reading({ root: given.root }, sought.asked)
-    if ("refused" in found) return said({ refused: found.refused }, 400)
+    if ("refused" in found) return said({ refused: found.refused }, found.withheld ? 403 : 400)
     return said(found, 200)
   }
   if (at === WRITE_AT) {

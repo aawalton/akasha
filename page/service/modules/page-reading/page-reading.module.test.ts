@@ -9,6 +9,7 @@ import {
   placedIn,
   reading,
   refusalIn,
+  withheldAmong,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
 
 const scratch = scratchWorld()
@@ -216,18 +217,26 @@ test("a root that is no repository is refused rather than thrown", () => {
   expect("refused" in said).toBe(true)
 })
 
-test("a path holding a page's secret values is refused", () => {
-  expect(refusalIn({ paths: [A_SECRET] })).toContain("no secret")
+test("a path holding a page's secret values is withheld", () => {
+  expect(withheldAmong([A_SECRET])).toContain("no secret")
 })
 
-test("a path holding a page's uncommitted values is refused", () => {
-  expect(refusalIn({ paths: [AN_UNCOMMITTED] })).toContain("no uncommitted value")
+test("a path holding a page's uncommitted values is withheld", () => {
+  expect(withheldAmong([AN_UNCOMMITTED])).toContain("no uncommitted value")
 })
 
 test("a secret the commit carries is refused rather than answered", () => {
   const root = repoWith({ [A_PAGE]: "one", [A_SECRET]: NOT_A_SECRET })
   const said = reading({ root }, { paths: [A_SECRET] }, nowhere)
   expect("refused" in said && said.refused).toContain("no secret")
+})
+
+test("a withheld read is told apart from a malformed one", () => {
+  const root = repoWith({ [A_PAGE]: "one" })
+  const withheld = reading({ root }, { paths: [AN_UNCOMMITTED] }, nowhere)
+  const malformed = reading({ root }, {}, nowhere)
+  expect("refused" in withheld && withheld.withheld).toBe(true)
+  expect("refused" in malformed && malformed.withheld).toBeUndefined()
 })
 
 test("a refusal over a secret is told apart from a body the commit does not carry", () => {

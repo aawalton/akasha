@@ -79,6 +79,11 @@ export const pageServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A read withheld for a secret or an uncommitted value is answered as forbidden, not as malformed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An answer to a read names the commit its bodies were read at.",
     },
     {
