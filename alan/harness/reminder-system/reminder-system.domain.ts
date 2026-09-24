@@ -4,7 +4,7 @@ export const reminderSystem = {
   id: "01a05f42-d941-7000-8906-8852e706c156",
   type: "page-type/domain",
   slug: "reminder-system",
-  definition: "what is sent to somebody at the times it names",
+  definition: "how reminders are sent",
   parts: [
     "module/due-reminder-sending",
     "page-type/reminder",
