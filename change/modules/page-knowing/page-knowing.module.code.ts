@@ -87,7 +87,7 @@ export function readFor(world: World, at: string): Read {
 }
 
 export function typeIn(value: Value): string | null {
-  const stated = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  const stated = textAt(value, "type")
   return stated === null ? null : slugOf(stated)
 }
 

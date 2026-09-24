@@ -1,4 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
+import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import {
   addressedIn,
   afterIn,
@@ -15,6 +16,7 @@ import {
   type World,
   worldAt,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { route } from "akasha/code/route/route.page-type.ts"
 import {
   HELD_CODE,
   HELD_PAGE,
@@ -24,6 +26,7 @@ import {
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -134,7 +137,7 @@ test("a key the page's type names under no property holds many values", () => {
 function routes(count: number, keys: readonly string[]): readonly Value[] {
   const made: Value[] = []
   for (let at = 0; at < count; at += 1) {
-    const one: Record<string, unknown> = { pageTypeSlug: "route", type: "route" }
+    const one: Record<string, unknown> = { type: `${pageType.slug}/${route.slug}` }
     for (const key of keys) one[key] = `${key}-${at}`
     made.push(one)
   }
@@ -201,7 +204,7 @@ function worldDeclaring(carried: readonly { readonly key: string }[] | null): Wo
   }
 }
 
-const SEAT = { pageTypeSlug: "seat", type: "seat", slug: "one" } as Value
+const SEAT = { type: `${pageType.slug}/${seat.slug}`, slug: "one" } as Value
 
 const DECLARED = [{ key: "transcriptPath" }]
 
