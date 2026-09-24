@@ -154,5 +154,6 @@
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-06-11.persona-craft-day.ts","id":"019f15d6-8cb1-7508-b4d2-0f182f993122"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0d3f2-4967-7000-827c-676b6015676c"}
+{"propertySlug":"seat-persona","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a0d3ca-9617-7000-81b5-1ec33492dd8f"}
 {"propertySlug":"sent-from","path":"alan/harness/reminder-system/reminder/pages/britbox-trial-converts.reminder.ts","id":"01a0d38a-512e-7ca7-9a8b-8b8ac09d7da8"}
 {"propertySlug":"sent-to","path":"alan/harness/reminder-system/reminder/pages/britbox-trial-converts.reminder.ts","id":"01a0d38a-512e-7ca7-9a8b-8b8ac09d7da8"}
