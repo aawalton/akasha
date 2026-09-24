@@ -62,7 +62,7 @@ test("a tap is counted on the widget the body names", async () => {
 
 test("the moment a tap is counted at is the moment the answer carries", async () => {
   const answered = await answerWidgetTap(asked({ widget: "alanwalton-surplus" }), signedIn, counted)
-  expect((await answered.json()).at).toBe(AT)
+  expect(await answered.json()).toMatchObject({ at: AT })
 })
 
 test("an answer to the native shell carries the cross-origin headers that shell needs", async () => {
