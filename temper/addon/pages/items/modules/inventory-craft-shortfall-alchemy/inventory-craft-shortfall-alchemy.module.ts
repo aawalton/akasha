@@ -14,11 +14,13 @@ export const inventoryCraftShortfallAlchemy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Solvents the character can use are tried first, the highest rank first.",
+      statement:
+        "Only the top solvent is crafted with: Lorkhan's Tears for potions, Alkahest for poisons.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rule's level condition picks the solvent, since the result must pass it.",
+      statement:
+        "A character short of the top solvent's rank crafts nothing rather than a lower solvent.",
     },
     {
       decisionKind: "decision-kind/departure",

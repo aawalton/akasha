@@ -32,30 +32,20 @@ interface RankedSolvent {
   readonly rank: number
 }
 
-function solventAt(this: void, bagId: number, slot: number, seen: Set<number>): OnHand | undefined {
-  const id = GetItemId(bagId, slot)
-  if (id === 0 || seen.has(id)) return undefined
-  const [itemType] = GetItemType(bagId, slot)
-  if (!IsAlchemySolvent(itemType)) return undefined
-  seen.add(id)
-  return { id, bag: bagId, slot }
-}
+const LORKHANS_TEARS = 64501
 
-function solventsOnHand(this: void): OnHand[] {
-  const seen = new Set<number>()
-  const found: OnHand[] = []
-  for (const bagId of [BAG_BACKPACK, BAG_BANK, BAG_SUBSCRIBER_BANK]) {
-    const size = GetBagSize(bagId)
-    for (let slot = 0; slot < size; slot++) {
-      const one = solventAt(bagId, slot, seen)
-      if (one !== undefined) found.push(one)
-    }
-  }
-  let slot = GetNextVirtualBagSlotId(undefined)
-  while (slot !== undefined) {
-    const one = solventAt(BAG_VIRTUAL, slot, seen)
-    if (one !== undefined) found.push(one)
-    slot = GetNextVirtualBagSlotId(slot)
+const ALKAHEST = 75365
+
+function topSolventsOnHand(this: void): RankedSolvent[] {
+  const found: RankedSolvent[] = []
+  for (const id of [LORKHANS_TEARS, ALKAHEST]) {
+    const where = findItemInBags(id)
+    if (where === undefined) continue
+    const link = GetItemLink(where.bag, where.slot, LINK_STYLE_BRACKETS)
+    found.push({
+      solvent: { id, bag: where.bag, slot: where.slot },
+      rank: GetItemLinkRequiredCraftingSkillRank(link),
+    })
   }
   return found
 }
@@ -68,21 +58,6 @@ function reagentsOnHand(this: void): OnHand[] {
     if (where !== undefined) found.push({ id, bag: where.bag, slot: where.slot })
   }
   return found
-}
-
-function rankedSolvents(this: void, solvents: readonly OnHand[], have: number): RankedSolvent[] {
-  const ranked: RankedSolvent[] = []
-  for (const solvent of solvents) {
-    const link = GetItemLink(solvent.bag, solvent.slot, LINK_STYLE_BRACKETS)
-    ranked.push({ solvent, rank: GetItemLinkRequiredCraftingSkillRank(link) })
-  }
-  table.sort(ranked, function (this: void, a, b): boolean {
-    const aUsable = a.rank <= have
-    const bUsable = b.rank <= have
-    if (aUsable !== bUsable) return aUsable
-    return aUsable ? a.rank > b.rank : a.rank < b.rank
-  })
-  return ranked
 }
 
 function resultOf(this: void, solvent: OnHand, reagents: readonly OnHand[]): string {
@@ -195,13 +170,15 @@ function matchingReagents(
 }
 
 function findCombination(this: void, takes: Takes): CraftFound {
-  const solvents = solventsOnHand()
-  if (solvents.length === 0) return { kind: "refused", why: "no solvent is on hand" }
+  const solvents = topSolventsOnHand()
+  if (solvents.length === 0) {
+    return { kind: "refused", why: "no Lorkhan's Tears or Alkahest, the top solvents, is on hand" }
+  }
   const reagents = reagentsOnHand()
   if (reagents.length < 2) return { kind: "refused", why: "fewer than two reagents are on hand" }
   const have = GetNonCombatBonus(NON_COMBAT_BONUS_ALCHEMY_LEVEL)
   const thirdSlot = GetNonCombatBonus(NON_COMBAT_BONUS_ALCHEMY_THIRD_SLOT) > 0
-  for (const ranked of rankedSolvents(solvents, have)) {
+  for (const ranked of solvents) {
     const match = matchingReagents(ranked.solvent, reagents, thirdSlot, takes)
     if (match !== undefined) {
       return {
