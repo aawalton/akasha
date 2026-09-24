@@ -7,5 +7,8 @@ export const promtail = {
   definition:
     "the log collector's configuration, its permissions and the daemonset running it on every node",
   code: "ts",
+  minCpuMillicores: 15,
+  minMemoryMb: 512,
+  killMemoryMb: 512,
   generatedDirectory: true,
 } as const satisfies Manifest

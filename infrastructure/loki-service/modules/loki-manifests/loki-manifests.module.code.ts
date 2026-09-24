@@ -1,9 +1,11 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import {
   capabilitySelector,
   HOSTNAME_KEY,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { loki as page } from "akasha/infrastructure/loki-service/loki/loki.manifest.ts"
 import { LOKI_CONFIG } from "akasha/infrastructure/loki-service/modules/loki-configs/loki-configs.module.code.ts"
 import {
   DATA_CAPACITY,
@@ -131,10 +133,7 @@ export function deploymentYaml(): string {
               image: "grafana/loki:3.1.0",
               args: ["-config.file=/etc/loki/loki.yaml", "-config.expand-env=true", "-target=all"],
               ports: [{ name: "http", containerPort: 3100 }],
-              resources: {
-                requests: { cpu: "15m", memory: "2Gi" },
-                limits: { memory: "2Gi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 10001,

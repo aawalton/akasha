@@ -3,12 +3,14 @@ import {
   synthOne,
 } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { PROMTAIL_CONFIG } from "akasha/infrastructure/loki-service/modules/loki-configs/loki-configs.module.code.ts"
 import {
   NAMESPACE,
   PROMTAIL_LABELS,
   PROMTAIL_SELECTOR_LABELS,
 } from "akasha/infrastructure/loki-service/modules/loki-constants/loki-constants.module.code.ts"
+import { promtail as page } from "akasha/infrastructure/loki-service/promtail/promtail.manifest.ts"
 
 const CONFIG_DATA = {
   "promtail.yaml": PROMTAIL_CONFIG,
@@ -116,10 +118,7 @@ export function promtailDaemonsetYaml(): string {
                 },
               ],
               ports: [{ name: "http", containerPort: 3101 }],
-              resources: {
-                requests: { cpu: "15m", memory: "512Mi" },
-                limits: { memory: "512Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsUser: 0,
                 readOnlyRootFilesystem: true,
