@@ -9,12 +9,20 @@ export const character = {
   extends: ["page-type/page"],
   parts: [
     "relation-property/character-story",
+    "relation-property/character-place",
     "page-type/character-player",
     "page-type/character-other",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/character-story", required: true, many: false },
+    { pageProperty: "relation-property/character-place", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a place sets in the way of the one playing is the characters in it.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

@@ -171,6 +171,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/chapter/properties/chapter-story.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/character/properties/character-place.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/character/properties/character-story.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/design-entry/properties/superseded-entry.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"story/game/encounter/properties/encounter-characters.multi-relation-property.types.ts"}
