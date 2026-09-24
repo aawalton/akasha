@@ -27,6 +27,10 @@ export const gapRowFiling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A filed line not shaped as a gap row is read by reading every page once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The rows are filed in path order, then in the order the page says them.",
     },
     {

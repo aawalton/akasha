@@ -84,6 +84,15 @@ test("a page the change takes away loses its rows", () => {
   expect(said.gaps).toEqual([])
 })
 
+test("a filed line not shaped as a gap row is read by reading every page once", () => {
+  const root = scratch.rootFor("akasha-gap-rows-")
+  filed(root, [{ at: ONE_AT, domain: "thing/one" }])
+
+  const said = gapsKept(changeOn(root, [], {}), readingIn(root))
+
+  expect(said.gaps).toEqual([])
+})
+
 test("the gaps counted are the rows filed", () => {
   const root = scratch.rootFor("akasha-gap-rows-")
   filed(root, [

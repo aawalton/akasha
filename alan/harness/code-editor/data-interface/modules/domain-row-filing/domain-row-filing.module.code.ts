@@ -6,6 +6,7 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageShaped, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
+import { z } from "zod"
 
 const ROWS_AT =
   "alan/harness/code-editor/data-interface/pages/domain-tree/" +
@@ -16,15 +17,28 @@ export type Kept = {
   readonly edits: readonly FileChange[]
 }
 
-export function rowsAt(): string {
-  return ROWS_AT
+const FILED: z.ZodType<Filed> = z.object({
+  path: z.string(),
+  id: z.string(),
+  parts: z.array(z.string()),
+  champions: z.string().nullable(),
+  drawn: z.boolean(),
+})
+
+function filedLine(line: string): Filed | null {
+  try {
+    return FILED.safeParse(JSON.parse(line)).data ?? null
+  } catch {
+    return null
+  }
 }
 
-function heldIn(body: string): Map<string, Filed> {
+function heldIn(body: string): Map<string, Filed> | null {
   const held = new Map<string, Filed>()
   for (const line of body.split("\n")) {
     if (line === "") continue
-    const one = JSON.parse(line) as Filed
+    const one = filedLine(line)
+    if (one === null) return null
     held.set(one.path, one)
   }
   return held
@@ -71,7 +85,8 @@ function patched(held: ReadonlyMap<string, Filed>, change: Change): readonly Fil
 
 export function keptFor(change: Change, reading: Reading, afresh: boolean): Kept {
   const was = textOf(diskAt(change.root, ROWS_AT))
-  const held = was === null || afresh ? null : patched(heldIn(was), change)
+  const filed = was === null || afresh ? null : heldIn(was)
+  const held = filed === null ? null : patched(filed, change)
   const rows = held ?? filedIn(reading)
   const body = bodyOf(rows)
   if ((was ?? "") === body) return { rows, edits: [] }

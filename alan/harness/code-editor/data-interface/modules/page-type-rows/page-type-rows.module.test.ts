@@ -4,6 +4,7 @@ import {
   typeRowsFrom,
 } from "akasha/alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
+import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import type { Valued } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   aType,
@@ -14,8 +15,13 @@ import {
 import { page } from "akasha/page/page.page-type.ts"
 import { pageProperty } from "akasha/page/type/page-property/page-property.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
+import { z } from "zod"
 
 afterAll(scratch.sweep)
+
+const ROWS_SAID = z.array(
+  z.record(z.string(), z.union([z.string(), z.record(z.string(), z.unknown())]))
+)
 
 const PAGE_AT = `${pageType.slug}/${page.slug}` as const
 
@@ -51,10 +57,10 @@ test("a row carries the checkout ahead of the path inside it", () => {
 })
 
 test("a row carries the keys the editor reads and nothing it would drop", () => {
-  const said = JSON.parse(JSON.stringify(typeRowsFrom(TYPES)))
+  const said = requireFirst(ROWS_SAID.parse(JSON.parse(JSON.stringify(typeRowsFrom(TYPES)))))
 
-  expect(Object.keys(said[0])).toEqual(["at", "values"])
-  expect(Object.keys(said[0].values)).toEqual(["slug", "extends-slug"])
+  expect(Object.keys(said)).toEqual(["at", "values"])
+  expect(Object.keys(said["values"] ?? {})).toEqual(["slug", "extends-slug"])
 })
 
 test("a page without a slug is answered on no row", () => {

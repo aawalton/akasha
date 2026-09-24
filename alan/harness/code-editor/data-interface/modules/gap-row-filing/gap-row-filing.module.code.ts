@@ -10,6 +10,7 @@ import type { Reading } from "akasha/page/index/modules/shape/index-shape.module
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageShaped, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
+import { z } from "zod"
 
 const ROWS_AT =
   "alan/harness/code-editor/data-interface/pages/gap-tree/" +
@@ -30,11 +31,27 @@ export function gapCountIn(root: string): number {
   return was.split("\n").filter((line) => line !== "").length
 }
 
-function heldIn(body: string): Map<string, Gapped[]> {
+const GAPPED: z.ZodType<Gapped> = z.object({
+  at: z.string(),
+  domain: z.string(),
+  place: z.number(),
+  said: z.string(),
+})
+
+function gappedLine(line: string): Gapped | null {
+  try {
+    return GAPPED.safeParse(JSON.parse(line)).data ?? null
+  } catch {
+    return null
+  }
+}
+
+function heldIn(body: string): Map<string, Gapped[]> | null {
   const held = new Map<string, Gapped[]>()
   for (const line of body.split("\n")) {
     if (line === "") continue
-    const one = JSON.parse(line) as Gapped
+    const one = gappedLine(line)
+    if (one === null) return null
     const said = held.get(one.at)
     if (said === undefined) held.set(one.at, [one])
     else said.push(one)
@@ -63,7 +80,8 @@ function byRow(one: Gapped, two: Gapped): number {
 
 export function gapsKept(change: Change, reading: Reading): Kept {
   const was = textOf(diskAt(change.root, ROWS_AT))
-  const found = was === null ? gapsIn(reading) : patched(heldIn(was), change)
+  const filed = was === null ? null : heldIn(was)
+  const found = filed === null ? gapsIn(reading) : patched(filed, change)
   const gaps = [...found].sort(byRow)
   const body = gaps.map((one) => `${JSON.stringify(one)}\n`).join("")
   if ((was ?? "") === body) return { gaps, edits: [] }

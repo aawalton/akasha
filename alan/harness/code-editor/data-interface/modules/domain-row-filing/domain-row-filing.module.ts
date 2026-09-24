@@ -31,6 +31,10 @@ export const domainRowFiling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A filed line not shaped as a row is read by reading every page once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The rows are filed in path order, so a page that changes moves one line.",
     },
     {
