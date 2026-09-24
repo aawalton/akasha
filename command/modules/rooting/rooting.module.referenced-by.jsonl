@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-biome/block-biome.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-bun-test/block-bun-test.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.test.ts"}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/state-subagent/state-subagent.agent-hook.code.ts"}

@@ -26,6 +26,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.ts","id":"01a0a0d4-3357-7104-a477-9c33e912a4f6"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.ts","id":"01a06906-100c-7bd1-92e8-8157b8483c37"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.ts","id":"01a058d6-293d-7bd0-8774-23b6112680f6"}
+{"propertySlug":"decision-kind","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.ts","id":"01a0d48d-4190-7704-af85-12a49bf3e2d4"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.ts","id":"01a04fa8-2878-7000-ab4d-25b94a3d14f6"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/inference-hook.page-type.ts","id":"01a00688-389f-7000-ba53-42d361243e1c"}
 {"propertySlug":"decision-kind","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.ts","id":"01a090e9-b891-780c-ae1c-408119c382ec"}

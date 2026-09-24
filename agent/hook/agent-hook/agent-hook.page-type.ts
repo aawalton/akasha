@@ -19,6 +19,7 @@ export const agentHook = {
     "agent-hook/block-memory-writes",
     "agent-hook/block-subagent-audit",
     "agent-hook/block-typecheck",
+    "agent-hook/block-world-builder-lore",
     "agent-hook/clear-reads-on-context-replaced",
     "agent-hook/name-session",
     "agent-hook/name-subagent",

@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.code.ts"}
+{"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.test.ts"}
 {"propertySlug":"import","fileName":"read-record.module.code.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.code.ts"}

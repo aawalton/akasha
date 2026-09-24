@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-memory-writes/block-memory-writes.agent-hook.ts"}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-subagent-audit/block-subagent-audit.agent-hook.ts"}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.ts"}
+{"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/block-world-builder-lore/block-world-builder-lore.agent-hook.ts"}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.ts"}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/inference-hook/inference-hook.page-type.types.ts"}
 {"propertySlug":"import","fileName":"agent-hook.page-type.types.ts","path":"agent/hook/agent-hook/name-session/name-session.agent-hook.ts"}
