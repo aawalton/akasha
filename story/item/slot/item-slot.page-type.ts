@@ -4,7 +4,7 @@ export const itemSlot = {
   id: "01a0ca45-bac0-7c6d-83bf-8415bedd0526",
   type: "page-type/page-type",
   slug: "item-slot",
-  definition: "a place on a character an item is worn",
+  definition: "a place on a character an item is equipped in",
   pluralSlug: "slots",
   extends: ["page-type/page"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
