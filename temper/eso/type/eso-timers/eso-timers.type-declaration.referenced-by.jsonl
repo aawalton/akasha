@@ -48,7 +48,7 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/atlas-web/server.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/chess/modules/board/chess-board.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/chess/modules/engine/chess-engine.module.code.ts"}

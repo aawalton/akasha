@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const supervisorTicking = {
+export const supervisorTimer = {
   id: "01a09c83-7bdc-70d7-8e92-d0198b88cd4e",
   type: "page-type/domain",
-  slug: "supervisor-ticking",
+  slug: "supervisor-timer",
   definition: "a supervisor's beat for running its watches",
   parts: [
     "module/supervisor-guard-tick",

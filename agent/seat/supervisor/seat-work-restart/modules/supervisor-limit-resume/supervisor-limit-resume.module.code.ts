@@ -13,7 +13,7 @@ import {
   SYSTEM_SOURCE,
   sendMessage,
 } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
-import { tickSaying } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
+import { tickSaying } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 import {
   AKASHA,

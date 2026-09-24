@@ -1,4 +1,4 @@
-import { keepSeatSession } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { keepSeatSession } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 
 export interface StatedAgentSlots {
   readonly role?: string

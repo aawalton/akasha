@@ -16,7 +16,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/name/modules/seat-session-rename/seat-session-rename.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-terminal/supervisor-terminal.module.code.ts"}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"alan/harness/mobile-cli/modules/git-tree-hash/git-tree-hash.module.test.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"alan/harness/reminder-system/reminder/modules/sending/reminder-sending.module.code.ts"}

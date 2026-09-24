@@ -1,6 +1,6 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { signalPid } from "akasha/agent/seat/supervisor/modules/supervisor-exec/supervisor-exec.module.code.ts"
-import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
+import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 
 const MARKERS = ["playwright-mcp", "@playwright/mcp"]
 const WRAPPER = "npm exec"

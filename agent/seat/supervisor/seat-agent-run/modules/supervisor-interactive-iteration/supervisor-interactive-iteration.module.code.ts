@@ -38,7 +38,7 @@ import type {
   InteractiveOpts,
   InteractiveSessionBoot,
 } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import { keepSeatTranscript } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { keepSeatTranscript } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import {
   setCurrentAgentIdForRestart,
   setCurrentSessionIdForRestart,

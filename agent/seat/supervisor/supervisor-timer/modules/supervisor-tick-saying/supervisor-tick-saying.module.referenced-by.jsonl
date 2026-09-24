@@ -1,4 +1,4 @@
 {"propertySlug":"import","fileName":"supervisor-tick-saying.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-tick-saying.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-tick-saying.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-tick-saying/supervisor-tick-saying.module.test.ts"}
-{"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-ticking/supervisor-ticking.domain.ts","id":"01a09c83-7bdc-70d7-8e92-d0198b88cd4e"}
+{"propertySlug":"import","fileName":"supervisor-tick-saying.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.test.ts"}
+{"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-timer/supervisor-timer.domain.ts","id":"01a09c83-7bdc-70d7-8e92-d0198b88cd4e"}

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { guardTick } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import { guardTick } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 
 test("a tick that throws reaches the handler rather than the caller", () => {
   const seen: unknown[] = []

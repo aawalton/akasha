@@ -19,7 +19,7 @@ import {
   logPastCliffOverride,
 } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"
 import { readIdleBounded } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"
-import { guardTick } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import { guardTick } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TICK_MS = 10_000

@@ -9,7 +9,7 @@ import { run } from "akasha/agent/seat/declaration/modules/seat-running/seat-run
 import { nameFromHistory } from "akasha/agent/seat/modules/page-history/seat-page-history.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
-import { keepSeatPage } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { keepSeatPage } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import {
   AKASHA,
   resolveRoots,

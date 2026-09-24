@@ -6,7 +6,7 @@
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/declaration/modules/seat-stated/seat-stated.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/subagent/modules/liveness/subagent-liveness.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-transcript-path.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts"}

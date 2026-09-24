@@ -17,7 +17,7 @@
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.test.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"command/pages/initiative/assign/initiative-assign.command.code.ts"}

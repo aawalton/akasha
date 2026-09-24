@@ -15,7 +15,7 @@ import {
 } from "akasha/agent/seat/model-gateway/modules/supervisor-spawn-gateway/supervisor-spawn-gateway.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
-import { guardTick } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
+import { guardTick } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-guard-tick/supervisor-guard-tick.module.code.ts"
 import { pidAliveOrRefuse } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"

@@ -384,10 +384,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle/supervisor-lifecycle.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-terminal/supervisor-terminal.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-tick-saying/supervisor-tick-saying.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-guard-tick/supervisor-guard-tick.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.ts"}

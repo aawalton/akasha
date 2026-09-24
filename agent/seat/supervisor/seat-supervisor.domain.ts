@@ -29,7 +29,7 @@ export const seatSupervisor = {
     "domain/seat-agent-restart",
     "domain/seat-work-restart",
     "domain/supervisor-stop",
-    "domain/supervisor-ticking",
+    "domain/supervisor-timer",
     "domain/supervisor-tooling",
     "page-type/supervisor-action",
     "domain/seat-auto-compact",

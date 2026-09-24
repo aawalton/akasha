@@ -171,7 +171,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-log/supervisor-log.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-start/supervisor-start.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-stop/supervisor-stop.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-ticking/supervisor-ticking.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-timer/supervisor-timer.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-tooling/supervisor-tooling.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/turn-state/seat-turn-state.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/session/agent-session.domain.ts"}

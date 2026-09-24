@@ -12,7 +12,7 @@ import {
   stillAsked,
   worthProbing,
 } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.code.ts"
-import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
+import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { contextTokensOf } from "akasha/agent/seat/usage/seat-usage.module.code.ts"
 
 const POLL_NAME = "auto-compact"

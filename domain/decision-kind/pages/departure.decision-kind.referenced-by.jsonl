@@ -400,10 +400,10 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.ts","id":"01a06871-3115-7004-85f9-3b541e6a385e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.ts","id":"01a06871-3115-7005-8779-160298d3aa4e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts","id":"01a06838-5a84-7002-b23a-fa3c1a68a559"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.ts","id":"01a0683e-3dbe-7022-adf7-a141c00ada4a"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts","id":"01a06871-3115-7000-88a3-356a4726a3a1"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.ts","id":"01a06871-3115-7001-910f-b7d9676eca90"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-tick-saying/supervisor-tick-saying.module.ts","id":"01a08e28-7d11-7673-83b4-5b56092efa4c"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-guard-tick/supervisor-guard-tick.module.ts","id":"01a0683e-3dbe-7022-adf7-a141c00ada4a"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts","id":"01a06871-3115-7000-88a3-356a4726a3a1"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.ts","id":"01a06871-3115-7001-910f-b7d9676eca90"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.ts","id":"01a08e28-7d11-7673-83b4-5b56092efa4c"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.ts","id":"01a0a0f4-a63b-7e62-b70f-6eaed2299de7"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.ts","id":"01a0686c-f06b-700a-b0b5-cfa06c6e47bf"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.ts","id":"01a0686c-f06b-7009-b6fa-ed9426be09a5"}
