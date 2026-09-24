@@ -5,7 +5,10 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import {
+  type InventoryDatabase,
+  inventoryDatabaseSchema,
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { z } from "zod"
 
 const ACCOUNT_PAGE_TYPE = "temper-account"
@@ -48,7 +51,8 @@ export async function inventoryDatabase(slug: string): Promise<InventoryDatabase
   const at = join(root, beside)
   if (!existsSync(at)) return null
   try {
-    return JSON.parse(await readFile(at, "utf8")) as InventoryDatabase
+    const read = inventoryDatabaseSchema.safeParse(JSON.parse(await readFile(at, "utf8")))
+    return read.success ? read.data : null
   } catch {
     return null
   }

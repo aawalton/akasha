@@ -11,7 +11,7 @@ export const inventoryTypes = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An inventory's shape and a zod shape in this module's test are held equal at typecheck.",
+        "An inventory's shape and the zod shape in this module's code are held equal at typecheck.",
     },
     {
       decisionKind: "decision-kind/departure",
