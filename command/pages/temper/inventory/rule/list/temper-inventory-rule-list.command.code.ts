@@ -21,6 +21,7 @@ const COLUMNS = [
   "active",
   "locked",
   "destination",
+  "craftShortfall",
   "controlled",
 ]
 

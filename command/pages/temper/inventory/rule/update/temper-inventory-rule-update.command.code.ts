@@ -4,6 +4,7 @@ import { active } from "akasha/command/argument/pages/active.argument.ts"
 import { category } from "akasha/command/argument/pages/category.argument.ts"
 import { categoryRuleId } from "akasha/command/argument/pages/category-rule-id.argument.ts"
 import { conditions } from "akasha/command/argument/pages/conditions.argument.ts"
+import { craftShortfall } from "akasha/command/argument/pages/craft-shortfall.argument.ts"
 import { destination } from "akasha/command/argument/pages/destination.argument.ts"
 import { destinationChain } from "akasha/command/argument/pages/destination-chain.argument.ts"
 import { force } from "akasha/command/argument/pages/force.argument.ts"
@@ -50,6 +51,7 @@ const CHANGED = [
   goal,
   active,
   stockScope,
+  craftShortfall,
 ]
 
 const PAGES = [...CHANGED, force, categoryRuleId]
@@ -79,6 +81,7 @@ export async function changing(
     ...(taken.stockScope !== undefined
       ? { stockScope: narrowStockScope(taken.stockScope, stockScope.said) }
       : {}),
+    ...(taken.craftShortfall !== undefined ? { craftShortfall: taken.craftShortfall } : {}),
     ...(taken.goal !== undefined ? { goal: taken.goal } : {}),
     ...webOf(taken),
   }

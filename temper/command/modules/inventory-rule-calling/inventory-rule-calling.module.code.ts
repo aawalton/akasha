@@ -63,6 +63,7 @@ export function categoryRow(rule: CategoryRule): Record<string, unknown> {
     active: rule.active,
     locked: rule.locked,
     destination: rule.destination,
+    craftShortfall: rule.craftShortfall,
   }
 }
 

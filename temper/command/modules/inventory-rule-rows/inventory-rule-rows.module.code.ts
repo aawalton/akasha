@@ -29,6 +29,7 @@ export const RULE_SHOW_COLUMNS = [
   "active",
   "locked",
   "destination",
+  "craftShortfall",
 ] as const
 
 export function itemRuleRow(rule: ItemRule): Record<string, unknown> {
