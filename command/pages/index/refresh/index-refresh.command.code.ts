@@ -45,7 +45,7 @@ const WROTE = "the index is brought level with the pages"
 
 const NOTHING_HELD = "nothing git holds of what was written differed, so no commit was made"
 
-const WEIGHED = "every file a type generator writes was weighed against the pages —"
+const WEIGHED = "what every change generator writes was weighed against the pages —"
 
 const UNWEIGHED = "a generated file was left unweighed —"
 
@@ -175,7 +175,7 @@ function refreshing(root: string, read: { plan: boolean }, done: string[]): Answ
   const report = [
     `the index was brought level with ${root} as it is, at ${head}`,
     `${counted(said.pages, "page")}, ${said.entries} entries, ${refused.length} refused`,
-    `${WEIGHED} ${counted(turned.weighed, "file")}`,
+    `${WEIGHED} ${counted(turned.weighed, "change generator")}`,
     ...driftSaid(said.drift),
   ]
   report.push(

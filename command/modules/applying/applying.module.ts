@@ -117,7 +117,7 @@ export const applying = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An apply writes a page type's worked type again as any other landing does.",
+      statement: "An apply runs the change generators as any other landing does.",
     },
     {
       decisionKind: "decision-kind/departure",

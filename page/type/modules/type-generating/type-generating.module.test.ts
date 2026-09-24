@@ -1,38 +1,19 @@
-import { afterAll, expect, test } from "bun:test"
+import { expect, test } from "bun:test"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import {
-  idFiled,
-  listedFiled,
-  valueAlsoFiled,
-} from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { textProperty } from "akasha/page/text-property/text-property.page-type.ts"
-import {
-  generatorAt,
-  turnsFor,
-  typedOver,
-} from "akasha/page/type/modules/type-generating/type-generating.module.code.ts"
-import {
-  AT,
-  GENERATOR_AT,
-  OTHER,
-  OWN,
-} from "akasha/page/type/modules/type-generating/type-generating.module.test-fixtures.ts"
+import { typedOn } from "akasha/page/type/modules/type-generating/type-generating.module.code.ts"
+import { OWN } from "akasha/page/type/modules/type-generating/type-generating.module.test-fixtures.ts"
 import { generateTypes } from "akasha/page/type/page-property/change-generators/typing/page-property-typing.change-generator.code.ts"
-
-const scratch = scratchWorld()
-
-afterAll(scratch.sweep)
 
 const ROOT = "/nowhere"
 
 const BYTES = new TextEncoder()
 
-const STATED = { slug: "page-type", typeGenerator: "ts" }
+const TYPED = "export type PageType = {}\n"
 
 function changeOver(bodies: ReadonlyMap<string, string>): Change {
   return {
@@ -63,79 +44,26 @@ function shadowOf(pages: ReadonlyMap<string, Record<string, unknown>>): Shadow {
   }
 }
 
-function only(page: Record<string, unknown>): ReadonlyMap<string, Record<string, unknown>> {
-  return new Map([[AT, page]])
-}
+const writing = () => [{ kind: "add" as const, path: OWN, content: TYPED }]
 
-test("the generator sits beside the page type as that page type's `type-generator` section", () => {
-  expect(generatorAt(AT)).toBe(GENERATOR_AT)
-})
-
-test("a page type stating no type generator has no generator run for it", () => {
-  let asked = 0
-  const said = typedOver(changeOver(new Map()), shadowOf(only({ slug: "page-type" })), () => {
-    asked += 1
-    return { missing: "never reached" }
-  })
-  expect(asked).toBe(0)
-  expect(said.edits).toEqual([])
-  expect(said.said).toEqual([])
-})
-
-test("a page type stating a type generator has that generator's edits answered", () => {
-  const said = typedOver(changeOver(new Map()), shadowOf(only(STATED)), () => ({
-    generating: () => [{ kind: "add", path: OWN, content: "export type PageType = {}\n" }],
-  }))
-  expect(said.edits).toEqual([{ kind: "add", path: OWN, content: "export type PageType = {}\n" }])
-})
-
-test("a page type is among the pages its own generator writes for", () => {
-  const said = typedOver(changeOver(new Map()), shadowOf(only(STATED)), () => ({
-    generating: () => [
-      { kind: "add", path: OWN, content: "export type PageType = {}\n" },
-      { kind: "add", path: OTHER, content: "export type Module = {}\n" },
-    ],
-  }))
-  expect(said.edits.map((one) => one.path)).toEqual([OWN, OTHER])
-})
-
-test("a generator that is not there is said rather than thrown", () => {
-  const said = typedOver(changeOver(new Map()), shadowOf(only(STATED)), () => ({
-    missing: "no such file or directory",
-  }))
-  expect(said.edits).toEqual([])
-  expect(said.said).toHaveLength(1)
-  expect(said.said[0]).toContain("page-type.page-type.type-generator.ts")
-  expect(said.said[0]).toContain("no such file or directory")
-})
-
-test("a generator that breaks is said rather than thrown", () => {
-  const said = typedOver(changeOver(new Map()), shadowOf(only(STATED)), () => ({
-    generating: () => {
-      throw new Error("the shadow answered nothing")
-    },
-  }))
-  expect(said.edits).toEqual([])
-  expect(said.said).toHaveLength(1)
-  expect(said.said[0]).toContain("the shadow answered nothing")
+test("a file that is not there yet is answered as an addition, named with its generator", () => {
+  const said = typedOn(changeOver(new Map()), shadowOf(new Map()), "typing", writing)
+  expect(said.edits).toEqual([{ kind: "add", path: OWN, content: TYPED }])
+  expect(said.said).toEqual([`\`${OWN}\` was written again by the change generator \`typing\``])
 })
 
 test("a body equal to what is already at that path is left out", () => {
-  const body = "export type PageType = {}\n"
-  const said = typedOver(changeOver(new Map([[OWN, body]])), shadowOf(only(STATED)), () => ({
-    generating: () => [{ kind: "add", path: OWN, content: body }],
-  }))
+  const said = typedOn(changeOver(new Map([[OWN, TYPED]])), shadowOf(new Map()), "typing", writing)
   expect(said.edits).toEqual([])
   expect(said.said).toEqual([])
 })
 
 test("a body other than what is already at that path is answered as a replacement", () => {
-  const said = typedOver(
+  const said = typedOn(
     changeOver(new Map([[OWN, "export type PageType = { was: true }\n"]])),
-    shadowOf(only(STATED)),
-    () => ({
-      generating: () => [{ kind: "add", path: OWN, content: "export type PageType = {}\n" }],
-    })
+    shadowOf(new Map()),
+    "typing",
+    writing
   )
   expect(said.edits).toEqual([
     {
@@ -145,104 +73,6 @@ test("a body other than what is already at that path is answered as a replacemen
       contentTo: "export type PageType = {}\n",
     },
   ])
-})
-
-const STATES_ONE = "01a090e0-64d6-7e42-83f5-17e72764a3b6"
-
-function rootWhereAGeneratorIsStated(stated: Record<string, unknown>): string {
-  const root = scratch.rootFor("type-generating-")
-  listedFiled(root, "page-type", "page-type", [{ path: AT, id: STATES_ONE }])
-  valueAlsoFiled(root, "page-type", [
-    {
-      path: AT,
-      value: { id: STATES_ONE, pageTypeSlug: "page-type", slug: "page-type", ...stated },
-    },
-  ])
-  idFiled(root, STATES_ONE, [{ path: AT, id: STATES_ONE }])
-  return root
-}
-
-function askingOver(root: string): Change {
-  return { root, changed: [], before: () => null, after: () => null }
-}
-
-test("a page type stating no type generator is asked nothing", () => {
-  let asked = 0
-  const said = turnsFor(askingOver(rootWhereAGeneratorIsStated({})), () => {
-    asked += 1
-    return { missing: "never reached" }
-  })
-  expect(asked).toBe(0)
-  expect(said).toBe(false)
-})
-
-test("a generator saying nothing about what a change turns is run", () => {
-  const root = rootWhereAGeneratorIsStated(STATED)
-
-  expect(turnsFor(askingOver(root), () => ({ generating: () => [] }))).toBe(true)
-})
-
-test("a generator that could not be loaded is run rather than passed over", () => {
-  const root = rootWhereAGeneratorIsStated(STATED)
-
-  expect(turnsFor(askingOver(root), () => ({ missing: "no such file or directory" }))).toBe(true)
-})
-
-test("a generator saying the change turns nothing is not run", () => {
-  const root = rootWhereAGeneratorIsStated(STATED)
-  const said = turnsFor(askingOver(root), () => ({ generating: () => [], turning: () => false }))
-
-  expect(said).toBe(false)
-})
-
-test("a generator saying the change turns nothing writes no type for that change", () => {
-  const said = typedOver(changeOver(new Map()), shadowOf(only(STATED)), () => ({
-    generating: () => [{ kind: "add", path: OWN, content: "export type PageType = {}\n" }],
-    turning: () => false,
-  }))
-  expect(said.edits).toEqual([])
-  expect(said.said).toEqual([])
-})
-
-const GENERATOR = generatorAt(AT) as string
-
-const LEFT = "the body the change leaves\n"
-
-test("a generator is handed the body the change leaves at that generator's path", () => {
-  const handed: (string | null)[] = []
-  typedOver(
-    changeOver(new Map([[GENERATOR, LEFT]])),
-    shadowOf(only(STATED)),
-    (_change, _at, body) => {
-      handed.push(body)
-      return { generating: () => [] }
-    }
-  )
-  expect(handed).toEqual([LEFT])
-})
-
-test("a generator the change leaves alone is handed no body", () => {
-  const handed: (string | null)[] = []
-  typedOver(changeOver(new Map()), shadowOf(only(STATED)), (_change, _at, body) => {
-    handed.push(body)
-    return { generating: () => [] }
-  })
-  expect(handed).toEqual([null])
-})
-
-test("what a change could turn is asked of the body the change leaves", () => {
-  const handed: (string | null)[] = []
-  const change: Change = {
-    root: rootWhereAGeneratorIsStated(STATED),
-    changed: [GENERATOR],
-    before: () => null,
-    after: (path) => (path === GENERATOR ? BYTES.encode(LEFT) : null),
-  }
-  turnsFor(change, (_change, _at, body) => {
-    handed.push(body)
-    return { generating: () => [] }
-  })
-  expect(handed).toEqual([LEFT])
 })
 
 const EXTENDS_TYPE_AT = "page/type/properties/extends-type.multi-relation-property.types.ts"

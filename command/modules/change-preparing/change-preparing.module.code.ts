@@ -7,9 +7,7 @@ import {
   type Replacing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
-
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import {
@@ -18,7 +16,6 @@ import {
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-
 import {
   type Facing,
   facingIn,
@@ -26,7 +23,6 @@ import {
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { unexportableIn } from "akasha/page/modules/export-name/modules/export-naming/export-naming.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { typesFor } from "akasha/page/type/modules/type-generating/type-generating.module.code.ts"
 
 export type Formatting = {
   readonly edits: readonly Replacing[]
@@ -144,17 +140,10 @@ export function preparing(
   const rows = [...moved, ...stated.rows]
   const unexportable = unexportableIn(rows)
   if (unexportable.length > 0) return { refusals: unexportable, code: DATA }
-
   const change = changeOf(root, base, rows)
-
-  const typed = typesFor(change)
-
-  const early = [...typed.edits]
-  const generated = generatedOver(change, (more) =>
-    changeOf(root, base, [...rows, ...early, ...more])
-  )
+  const generated = generatedOver(change, (more) => changeOf(root, base, [...rows, ...more]))
   if (generated.refused.length > 0) return { refusals: generated.refused, code: DATA }
-  const made = [...early, ...generated.edits]
+  const made = generated.edits
   const whole = made.length === 0 ? change : changeOf(root, base, [...rows, ...made])
   const cast = shadowFor(whole)
   const added = made
@@ -164,11 +153,7 @@ export function preparing(
     changes: [...rows, ...added],
     facing: facingIn(root, "refused" in cast ? root : cast.reading),
     settled: "refused" in cast || cast.settled === null ? null : { base, settling: cast.settled },
-    said: [
-      ...typed.said,
-
-      ...generated.said,
-    ],
+    said: generated.said,
     over: added.length === 0 ? change : null,
   }
 }

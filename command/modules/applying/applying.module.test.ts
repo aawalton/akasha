@@ -3,6 +3,7 @@ import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { readingIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { agentPaged } from "akasha/agent/modules/read-record/read-record.module.test-fixtures.ts"
+import { changeGenerator } from "akasha/change/generator/change-generator.page-type.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { INPUT } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import {
@@ -28,7 +29,9 @@ import {
   rowsIn,
   scratch,
 } from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
+import { indexCarrying } from "akasha/page/index/modules/carrying/index-carrying.change-generator.ts"
 import { page } from "akasha/page/page.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -60,9 +63,36 @@ afterAll(() => {
   scratch.sweep()
 })
 
+const CARRYING_AT = "akasha/index-carrying.change-generator.ts"
+
+const CARRYING_CODE_AT = "akasha/index-carrying.change-generator.code.ts"
+
+const CARRYING_CODE = join(
+  rootOf(import.meta.dir),
+  "page/index/modules/carrying/index-carrying.change-generator.code.ts"
+)
+
+const CARRYING = `export const indexCarrying = {
+  id: "01a04e11-0000-7000-8000-000000000043",
+  type: "${pageType.slug}/${changeGenerator.slug}",
+  slug: "${indexCarrying.slug}",
+  code: "ts",
+}
+`
+
 async function indexed(): Promise<string> {
   const root = repoWith({ "seed.txt": "held" })
   await landing(root, rowsIn(root, CARRIED), "held", ADMITS)
+  await landing(
+    root,
+    [
+      rowAt(GENERATOR_TYPE_AT, GENERATOR_TYPE),
+      rowAt(CARRYING_AT, CARRYING),
+      rowAt(CARRYING_CODE_AT, `export { generateChange } from "${CARRYING_CODE}"\n`),
+    ],
+    "held",
+    ADMITS
+  )
   await landing(root, rowsIn(root, [{ path: PAGE, body: bytes(A) }]), "held", ADMITS)
   agentPaged(root, AGENT)
   return root
@@ -188,22 +218,38 @@ test("an apply refuses a page whose slug names no export", async () => {
   expect(existsSync(join(root, UNEXPORTABLE_AT))).toBe(false)
 })
 
-const GENERATOR_AT = "akasha/held.page-type.ts"
+const GENERATOR_TYPE_AT = "akasha/change-generator.page-type.ts"
 
-const GENERATOR_SAID = "states a type generator"
+const GENERATOR_AT = "akasha/saying.change-generator.ts"
 
-const STATES_A_GENERATOR = `export const held = {
+const GENERATOR_CODE_AT = "akasha/saying.change-generator.code.ts"
+
+const GENERATOR_SAID = "a change generator said this"
+
+const GENERATOR_TYPE = `export const changeGenerator = {
   id: "01a04e11-0000-7000-8000-000000000041",
-  type: "page-type/page-type",
-  slug: "held",
+  type: "${pageType.slug}/${pageType.slug}",
+  slug: "${changeGenerator.slug}",
   extends: ["${pageType.slug}/${page.slug}"],
-  typeGenerator: "ts",
+}
+`
+
+const SAYING = `export const saying = {
+  id: "01a04e11-0000-7000-8000-000000000042",
+  type: "${pageType.slug}/${changeGenerator.slug}",
+  slug: "saying",
+  code: "ts",
+}
+`
+
+const SAYING_CODE = `export function generateChange() {
+  return { edits: [], said: ["${GENERATOR_SAID}"] }
 }
 `
 
 async function generatorStated(): Promise<string> {
   const root = await indexed()
-  const rows = [rowAt(GENERATOR_AT, STATES_A_GENERATOR)]
+  const rows = [rowAt(GENERATOR_AT, SAYING), rowAt(GENERATOR_CODE_AT, SAYING_CODE)]
   const said = await applied(root, AGENT, "applied", ADMITS, null, [], { rows, running: OWES })
   if ("refusals" in said) throw new Error(said.refusals.join("; "))
   return root

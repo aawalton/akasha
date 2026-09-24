@@ -53,29 +53,11 @@ export const changePreparing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Formatting and the lockfile are worked out before the hold is taken.",
+      statement: "Formatting and the change generators are worked out before the hold is taken.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The spacing steps are worked out before the hold is taken alongside those two.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The source globs are worked out before the hold is taken alongside those three.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The written types are worked out before the hold is taken alongside those four.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The files the groups write are worked out before the hold is taken alongside those five.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The change generator pages add their edits after those five and before the index answers.",
+      statement: "The change generator pages add their edits before the index answers.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -83,24 +65,7 @@ export const changePreparing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page's group writes that page's file on the one landing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A page type's generator writes for every page of that page type on the one landing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A generator that is not there is said here rather than refusing the landing.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every road that lands works those seven out through one step here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The spacing steps and the written types are worked out over one change.",
+      statement: "Every road that lands works the change generators out through one step here.",
     },
     {
       decisionKind: "decision-kind/departure",

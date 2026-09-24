@@ -119,7 +119,7 @@ export const indexRefresh = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A refresh derives every file a type generator writes and weighs it against the pages.",
+        "A refresh runs every change generator and weighs what it writes against the pages.",
     },
   ],
   name: "refresh",

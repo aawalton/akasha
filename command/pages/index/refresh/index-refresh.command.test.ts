@@ -203,12 +203,12 @@ test("an index already saying what the pages say is reported as differing in not
   expect(said(answer)).toContain("nothing in the index differed from what the pages say")
 })
 
-test("the report says the files a type generator writes were weighed against the pages", () => {
+test("the report says what every change generator writes was weighed against the pages", () => {
   const root = repoAt()
   seeded(root)
   const answer = indexRefresh(["--plan"], givenAt(root))
   expect(answer.code).toBe(OK)
-  expect(said(answer)).toContain("every file a type generator writes was weighed against the pages")
+  expect(said(answer)).toContain("what every change generator writes was weighed against the pages")
 })
 
 test("files on disk differing from HEAD are built over rather than refused", () => {

@@ -2,4 +2,5 @@
 {"propertySlug":"import","fileName":"index-carrying.change-generator.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"index-carrying.change-generator.test-fixtures.ts","path":"check/code/pages/index-answers-are-level-with-the-change/index-answers-are-level-with-the-change.check-code.decision.test.ts"}
 {"propertySlug":"import","fileName":"index-carrying.change-generator.test-fixtures.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test.ts"}
+{"propertySlug":"import","fileName":"index-carrying.change-generator.ts","path":"command/modules/applying/applying.module.test.ts"}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

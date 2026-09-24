@@ -23,7 +23,6 @@ import type { Schema } from "akasha/page/type/properties/schema.file-property.ty
 import type { Sequence } from "akasha/page/type/properties/sequence.record-property.types.ts"
 import type { Shapes } from "akasha/page/type/properties/shapes.file-property.types.ts"
 import type { TitleColoredBy } from "akasha/page/type/properties/title-colored-by.relation-property.types.ts"
-import type { TypeGenerator } from "akasha/page/type/properties/type-generator.file-property.types.ts"
 import type { Types } from "akasha/page/type/properties/types.file-property.types.ts"
 
 export type PageType = Domain & {
@@ -37,7 +36,6 @@ export type PageType = Domain & {
   runsTabooCheck?: RunsTabooCheck
   allowsTmpPaths?: AllowsTmpPaths
   owner?: Owner
-  typeGenerator?: TypeGenerator
   types?: Types
   pageComponent?: PageComponent
   pageBadgeComponent?: PageBadgeComponent

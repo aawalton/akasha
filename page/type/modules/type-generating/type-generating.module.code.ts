@@ -1,45 +1,12 @@
 import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import {
-  bodyFor,
-  type Held,
-  heldOver,
-} from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { formattedBodies } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
-import {
-  readingIn,
-  valuesOfType,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 
 const BYTES = new TextEncoder()
 
-const PAGE_TYPE = "page-type"
-
-const HOLDS = "ts"
-
-const SLUG = "slug"
-
-const GENERATOR = "type-generator"
-
-const GENERATOR_AT = "typeGenerator"
-
-const GENERATES = "generateTypes"
-
-const TURNS = "couldTurn"
-
-export type Generating = (root: string, shadow: Shadow, change: Change) => readonly Adding[]
-
-export type Turning = (change: Change) => boolean
-
-export type Reached =
-  | { readonly generating: Generating; readonly turning?: Turning }
-  | { readonly missing: string }
-
-export type Reaching = (change: Change, at: string, body: string | null) => Reached
+type Generating = (root: string, shadow: Shadow, change: Change) => readonly Adding[]
 
 export type Typed = {
   readonly edits: readonly (Adding | Replacing)[]
@@ -47,34 +14,6 @@ export type Typed = {
 }
 
 const NOTHING_TYPED: Typed = { edits: [], said: [] }
-
-export function generatorAt(pageTypePath: string): string | null {
-  return besideAt(pageTypePath, GENERATOR, HOLDS)
-}
-
-function generatingIn(change: Change, at: string, body: string | null = null): Reached {
-  let held: Held
-  try {
-    held = heldOver(change, at, body)
-  } catch (thrown) {
-    return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
-  }
-  const named = held[GENERATES]
-  if (typeof named !== "function") return { missing: `it answers to no \`${GENERATES}\`` }
-  const said = held[TURNS]
-  if (typeof said !== "function") return { generating: named as Generating }
-  return { generating: named as Generating, turning: said as Turning }
-}
-
-type Answered = { readonly written: readonly Adding[] } | { readonly missing: string }
-
-function writtenBy(generating: Generating, change: Change, shadow: Shadow): Answered {
-  try {
-    return { written: generating(change.root, shadow, change) }
-  } catch (thrown) {
-    return { missing: thrown instanceof Error ? thrown.message : String(thrown) }
-  }
-}
 
 type Kept = {
   readonly path: string
@@ -98,16 +37,19 @@ function writtenOver(root: string, kept: readonly Kept[]): Typed {
         ? { kind: "add", path: one.path, content: now }
         : { kind: "replace", path: one.path, contentFrom: one.was, contentTo: now }
     )
-    said.push(`\`${one.path}\` was written again by the generator \`${one.slug}\` states`)
+    said.push(`\`${one.path}\` was written again by the change generator \`${one.slug}\``)
   }
   return { edits, said }
 }
 
-export function typedWith(change: Change, slug: string, generating: Generating): Typed {
-  const cast = shadowFor(change)
-  if ("refused" in cast) return NOTHING_TYPED
+export function typedOn(
+  change: Change,
+  shadow: Shadow,
+  slug: string,
+  generating: Generating
+): Typed {
   const kept: Kept[] = []
-  for (const one of generating(change.root, cast.shadow, change)) {
+  for (const one of generating(change.root, shadow, change)) {
     const was = textOf(change.after(one.path))
     if (was === one.content) continue
     kept.push({ path: one.path, slug, body: BYTES.encode(one.content), was })
@@ -115,80 +57,8 @@ export function typedWith(change: Change, slug: string, generating: Generating):
   return writtenOver(change.root, kept)
 }
 
-export function typedOver(
-  change: Change,
-  shadow: Shadow,
-  reaching: Reaching = generatingIn
-): Typed {
-  const said: string[] = []
-  const kept: Kept[] = []
-  for (const listed of shadow.index.everyOfType(PAGE_TYPE)) {
-    const value = shadow.pageOf(listed.path)
-    if (value === null) continue
-    const slug = value[SLUG]
-    if (typeof slug !== "string") continue
-    if (value[GENERATOR_AT] !== HOLDS) continue
-    const beside = generatorAt(listed.path)
-    if (beside === null) continue
-    const at = shadow.codeAt(beside)
-    if (at === null) {
-      said.push(`\`${slug}\` states a type generator, and \`${beside}\` is at no path to load`)
-      continue
-    }
-    const reached = reaching(change, at, bodyFor(change, beside))
-    if ("missing" in reached) {
-      said.push(
-        `\`${slug}\` states a type generator, and \`${beside}\` gave none — ${reached.missing}`
-      )
-      continue
-    }
-    if (reached.turning !== undefined && !reached.turning(change)) continue
-    const answered = writtenBy(reached.generating, change, shadow)
-    if ("missing" in answered) {
-      said.push(
-        `\`${slug}\` states a type generator, and \`${beside}\` broke — ${answered.missing}`
-      )
-      continue
-    }
-    for (const one of answered.written) {
-      const was = textOf(change.after(one.path))
-      if (was === one.content) continue
-      kept.push({ path: one.path, slug, body: BYTES.encode(one.content), was })
-    }
-  }
-  const written = writtenOver(change.root, kept)
-  return { edits: written.edits, said: [...said, ...written.said] }
-}
-
-function askedOf(change: Change, reaching: Reaching, path: string): boolean {
-  const beside = generatorAt(path)
-  if (beside === null) return false
-  const reached = reaching(change, beside, bodyFor(change, beside))
-  if ("missing" in reached) return true
-  const turning = reached.turning
-  return turning === undefined || turning(change)
-}
-
-export function turnsFor(change: Change, reaching: Reaching = generatingIn): boolean {
-  for (const one of valuesOfType(readingIn(change.root), PAGE_TYPE)) {
-    if (one.value[GENERATOR_AT] !== HOLDS) continue
-    if (askedOf(change, reaching, one.path)) return true
-  }
-  return false
-}
-
-export function typesFor(change: Change): Typed {
-  try {
-    if (!turnsFor(change)) return NOTHING_TYPED
-    const cast = shadowFor(change)
-    if ("refused" in cast) return NOTHING_TYPED
-    return typedOver(change, cast.shadow)
-  } catch (thrown) {
-    return {
-      edits: [],
-      said: [
-        `no type was written again — ${thrown instanceof Error ? thrown.message : String(thrown)}`,
-      ],
-    }
-  }
+export function typedWith(change: Change, slug: string, generating: Generating): Typed {
+  const cast = shadowFor(change)
+  if ("refused" in cast) return NOTHING_TYPED
+  return typedOn(change, cast.shadow, slug, generating)
 }

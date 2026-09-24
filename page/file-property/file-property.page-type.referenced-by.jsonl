@@ -106,7 +106,6 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/properties/referenced-by.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/type/properties/schema.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/type/properties/shapes.file-property.ts"}
-{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/type/properties/type-generator.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"page/type/properties/types.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/appearance.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"persona/properties/portrait.file-property.ts"}
