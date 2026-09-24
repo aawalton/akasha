@@ -40,6 +40,7 @@ COMPONENT_SWIFT=(
   "$AKASHA_ROOT/code/ios-component/pages/tier/tier.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-component/pages/timeline-checks/timeline-checks.ios-component.swift.swift"
   "$AKASHA_ROOT/code/ios-component/pages/cost-ring/cost-ring.ios-component.swift.swift"
+  "$AKASHA_ROOT/code/ios-component/pages/widget-tap-link/widget-tap-link.ios-component.swift.swift"
 )
 BUILD_DIR="$(mktemp -d)"
 trap 'rm -rf "$BUILD_DIR"' EXIT
