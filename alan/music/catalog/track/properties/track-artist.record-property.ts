@@ -8,7 +8,6 @@ export const trackArtist = {
   definition: "an artist a provider credits on a track",
   properties: [
     { pageProperty: "relation-property/credited-artist", required: false, many: false },
-    { pageProperty: "text-property/external-id", required: false, many: false },
     { pageProperty: "text-property/artist-name", required: false, many: false },
   ],
   decisions: [
@@ -21,8 +20,26 @@ export const trackArtist = {
       statement: "A track credits an artist the release that track sits on does not credit.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An artist credited here is the artist page naming the same provider id.",
+      decisionKind: "decision-kind/departure",
+      statement: "An artist credited here is named by its page's address.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An artist credited here who has no page is named by the name the provider credits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A credit names a page or states a name, and never both.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No credit states the id the provider gives the artist.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A credit written as a name before its artist had a page stays a name until its track is synced.",
     },
   ],
   types: "ts",

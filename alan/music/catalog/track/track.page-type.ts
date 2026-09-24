@@ -54,6 +54,10 @@ export const track = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A track names the page of every artist it credits who has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A track states what kind of recording it is, and the song it names states nothing of that.",
     },

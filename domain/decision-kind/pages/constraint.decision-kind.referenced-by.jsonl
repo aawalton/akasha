@@ -154,6 +154,7 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/musicbrainz-client/musicbrainz-client.module.ts","id":"01a06262-ff4c-7000-b193-5ca094701486"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.ts","id":"01a09c80-78b1-747b-b16d-c003ab8e4aa7"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/service-workstations/spotify-sync/spotify-sync.service-workstation.ts","id":"01a09c84-8cd1-758c-8c48-b28856aa0770"}
+{"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/track-artist.record-property.ts","id":"01a0a5f1-d12c-7bb8-96c2-10781ad40828"}
 {"propertySlug":"decision-kind","path":"alan/music/listening/service-workstations/music-capture/music-capture.service-workstation.ts","id":"01a0c48f-9abd-747d-802b-08b86404c189"}
 {"propertySlug":"decision-kind","path":"alan/music/music.domain.ts","id":"01a06222-4d01-78f8-8ed6-e3f5ec16f8a3"}
 {"propertySlug":"decision-kind","path":"alan/music/spotify/modules/fetching/spotify-fetching.module.ts","id":"01a06261-dc1d-700f-a5c9-3bfc9c2b5371"}
