@@ -13,10 +13,10 @@ export const thePianoGuys310LoseYouToLoveMe = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "42kJx1vTbVTE3f78Khiiyn", artistName: "Chuck Myers" },
-    { externalId: "2Kmde61lMC5krhNprC9v5F", artistName: "Eric Shumway" },
-    { externalId: "3B05AVEBbrBHzXR80NAbSH", artistName: "Rickey Shumway" },
+    { artist: "artist/the-piano-guys" },
+    { artistName: "Chuck Myers" },
+    { artistName: "Eric Shumway" },
+    { artistName: "Rickey Shumway" },
   ],
   trackKey:
     "loseyoutoloveme|0jW6R8CVyVohuUJVcuweDI,2Kmde61lMC5krhNprC9v5F,3B05AVEBbrBHzXR80NAbSH,42kJx1vTbVTE3f78Khiiyn|297818",

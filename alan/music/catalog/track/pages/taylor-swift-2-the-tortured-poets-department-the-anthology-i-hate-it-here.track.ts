@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyIHateItHere = {
   title: "I Hate It Here",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ihateithere|06HL4z0CvFAxyc27GXpf02|243875",
   song: "song/taylor-swift-i-hate-it-here",
   carriedBy: [

@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe80sLibidoKiller = {
   title: "Libido Killer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "libidokiller|6tITG4T8LpC0msapZ4wXGA|180870",
   song: "song/the-holderness-family-libido-killer",
   carriedBy: [

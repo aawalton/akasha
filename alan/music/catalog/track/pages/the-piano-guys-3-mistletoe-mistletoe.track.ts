@@ -12,7 +12,7 @@ export const thePianoGuys3MistletoeMistletoe = {
   title: "Mistletoe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "mistletoe|0jW6R8CVyVohuUJVcuweDI|286881",
   song: "song/the-piano-guys-mistletoe",
   carriedBy: [

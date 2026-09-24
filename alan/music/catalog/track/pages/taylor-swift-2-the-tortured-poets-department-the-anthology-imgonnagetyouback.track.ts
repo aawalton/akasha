@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyImgonnagetyouback
   title: "imgonnagetyouback",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "imgonnagetyouback|06HL4z0CvFAxyc27GXpf02|222072",
   song: "song/taylor-swift-imgonnagetyouback",
   carriedBy: [

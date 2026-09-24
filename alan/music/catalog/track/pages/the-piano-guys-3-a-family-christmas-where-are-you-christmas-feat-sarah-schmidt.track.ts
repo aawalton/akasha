@@ -13,11 +13,11 @@ export const thePianoGuys3AFamilyChristmasWhereAreYouChristmasFeatSarahSchmidt =
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4iHNK0tOyZPYnBU7nGAgpQ", artistName: "Mariah Carey" },
-    { externalId: "3PhL2Vdao2v8SS8AptuhAr", artistName: "James Horner" },
-    { externalId: "1Mq5WQehpxWHq4S2KTB3HI", artistName: "Will Jennings" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "2LpGg3qukmprl5BSlBk6HM", artistName: "Sarah Schmidt" },
+    { artistName: "Mariah Carey" },
+    { artistName: "James Horner" },
+    { artistName: "Will Jennings" },
+    { artist: "artist/the-piano-guys" },
+    { artistName: "Sarah Schmidt" },
   ],
   trackKey:
     "whereareyouchristmasfeatsarahschmidt|0jW6R8CVyVohuUJVcuweDI,1Mq5WQehpxWHq4S2KTB3HI,2LpGg3qukmprl5BSlBk6HM,3PhL2Vdao2v8SS8AptuhAr,4iHNK0tOyZPYnBU7nGAgpQ|237470",

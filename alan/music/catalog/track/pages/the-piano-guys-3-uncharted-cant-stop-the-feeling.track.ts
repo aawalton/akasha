@@ -12,7 +12,7 @@ export const thePianoGuys3UnchartedCantStopTheFeeling = {
   title: "Can't Stop the Feeling",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "cantstopthefeeling|0jW6R8CVyVohuUJVcuweDI|182750",
   song: "song/the-piano-guys-cant-stop-the-feeling",
   carriedBy: [

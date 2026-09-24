@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe80sSlimeAfterSlime = {
   title: "Slime After Slime",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "slimeafterslime|6tITG4T8LpC0msapZ4wXGA|122488",
   song: "song/the-holderness-family-slime-after-slime",
   carriedBy: [

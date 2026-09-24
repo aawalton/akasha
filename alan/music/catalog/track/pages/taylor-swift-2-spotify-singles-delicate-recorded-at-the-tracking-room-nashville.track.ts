@@ -12,7 +12,7 @@ export const taylorSwift2SpotifySinglesDelicateRecordedAtTheTrackingRoomNashvill
   title: "Delicate - Recorded at The Tracking Room Nashville",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "delicaterecordedatthetrackingroomnashville|06HL4z0CvFAxyc27GXpf02|228460",
   song: "song/taylor-swift-delicate-recorded-at-the-tracking-room-nashville",
   carriedBy: [

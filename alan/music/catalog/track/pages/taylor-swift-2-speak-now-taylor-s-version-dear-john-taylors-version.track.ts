@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionDearJohnTaylorsVersion = {
   title: "Dear John (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dearjohntaylorsversion|06HL4z0CvFAxyc27GXpf02|405906",
   song: "song/taylor-swift-dear-john",
   carriedBy: [

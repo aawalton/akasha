@@ -15,10 +15,7 @@ export const thePianoGuys3LullabyRiverFlowsInYou = {
   title: "River Flows In You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "2GCX5sWxp6ZdPZZcrMMky2", artistName: "Eli Nelson" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Eli Nelson" }],
   trackKey: "riverflowsinyou|0jW6R8CVyVohuUJVcuweDI,2GCX5sWxp6ZdPZZcrMMky2|189390",
   song: "song/the-piano-guys-river-flows-in-you",
   carriedBy: [

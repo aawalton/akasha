@@ -17,7 +17,7 @@ export const thePianoGuys3GhostSeptember = {
   title: "September",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "september|0jW6R8CVyVohuUJVcuweDI|204830",
   song: "song/the-piano-guys-september",
   carriedBy: [

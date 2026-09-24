@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuys2Berlin = {
   title: "Berlin",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "berlin|0jW6R8CVyVohuUJVcuweDI|240500",
   song: "song/the-piano-guys-berlin",
   carriedBy: [

@@ -15,7 +15,7 @@ export const thePianoGuys3TheFirstNoelTheFirstNoel = {
   title: "The First Noel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "thefirstnoel|0jW6R8CVyVohuUJVcuweDI|169000",
   song: "song/the-piano-guys-the-first-noel",
   carriedBy: [

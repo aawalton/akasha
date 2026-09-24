@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionEldestDaughterTrac
   title: "Eldest Daughter - Track by Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "eldestdaughtertrackbytrack|06HL4z0CvFAxyc27GXpf02|51818",
   song: "song/taylor-swift-eldest-daughter-track-by-track",
   carriedBy: [

@@ -12,7 +12,7 @@ export const thePianoGuys3ChillAbrahamLincolnTribute = {
   title: "Abraham Lincoln Tribute",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "abrahamlincolntribute|0jW6R8CVyVohuUJVcuweDI|274682",
   song: "song/the-piano-guys-abraham-lincoln-tribute",
   carriedBy: [

@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOneWashYourHands = {
   title: "Wash Your Hands",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "washyourhands|6tITG4T8LpC0msapZ4wXGA|146755",
   song: "song/the-holderness-family-wash-your-hands",
   carriedBy: [

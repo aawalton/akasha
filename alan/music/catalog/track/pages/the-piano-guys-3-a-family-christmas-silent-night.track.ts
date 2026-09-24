@@ -12,10 +12,7 @@ export const thePianoGuys3AFamilyChristmasSilentNight = {
   title: "Silent Night",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "395Z91yDQ05pkMbRKik18y", artistName: "Franz Xaver Gruber" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-  ],
+  trackArtist: [{ artistName: "Franz Xaver Gruber" }, { artist: "artist/the-piano-guys" }],
   trackKey: "silentnight|0jW6R8CVyVohuUJVcuweDI,395Z91yDQ05pkMbRKik18y|210127",
   song: "song/celtic-woman-silent-night",
   carriedBy: [

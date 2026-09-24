@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionWhenEmmaFallsInLoveTaylorsVersion
   title: "When Emma Falls in Love (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "whenemmafallsinlovetaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|252385",
   song: "song/taylor-swift-when-emma-falls-in-love-from-the-vault",
   carriedBy: [

@@ -15,7 +15,7 @@ export const taylorSwift2SpeakNowBackToDecember = {
   title: "Back To December",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "backtodecember|06HL4z0CvFAxyc27GXpf02|293026",
   song: "song/taylor-swift-back-to-december",
   carriedBy: [

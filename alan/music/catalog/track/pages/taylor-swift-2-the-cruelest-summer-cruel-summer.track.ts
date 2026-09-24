@@ -12,7 +12,7 @@ export const taylorSwift2TheCruelestSummerCruelSummer = {
   title: "Cruel Summer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "cruelsummer|06HL4z0CvFAxyc27GXpf02|178425",
   song: "song/taylor-swift-cruel-summer",
   carriedBy: [

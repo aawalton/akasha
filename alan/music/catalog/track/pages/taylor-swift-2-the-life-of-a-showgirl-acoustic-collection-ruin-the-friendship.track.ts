@@ -16,7 +16,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionRuinTheFriendship =
   title: "Ruin The Friendship",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ruinthefriendship|06HL4z0CvFAxyc27GXpf02|220564",
   song: "song/taylor-swift-ruin-the-friendship",
   carriedBy: [

@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe80sMakingLunchOutOfNothingAtAll = {
   title: "Making Lunch Out of Nothing at All",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "makinglunchoutofnothingatall|6tITG4T8LpC0msapZ4wXGA|162246",
   song: "song/the-holderness-family-making-lunch-out-of-nothing-at-all",
   carriedBy: [

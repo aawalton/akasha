@@ -13,9 +13,9 @@ export const taylorSwift2TaylorSwiftKaraokeReputationEndGameKaraokeVersion = {
   trackType: "instrumental",
   explicit: false,
   trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6eUKZXaKkcviH0Ku9w2n3V", artistName: "Ed Sheeran" },
-    { externalId: "1RyvyyTE3xzB2ZywiAwp0i", artistName: "Future" },
+    { artist: "artist/taylor-swift" },
+    { artistName: "Ed Sheeran" },
+    { artistName: "Future" },
   ],
   trackKey:
     "endgamekaraokeversion|06HL4z0CvFAxyc27GXpf02,1RyvyyTE3xzB2ZywiAwp0i,6eUKZXaKkcviH0Ku9w2n3V|243826",

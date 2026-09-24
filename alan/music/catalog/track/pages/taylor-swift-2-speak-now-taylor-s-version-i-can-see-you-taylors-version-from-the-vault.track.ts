@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionICanSeeYouTaylorsVersionFromTheVa
   title: "I Can See You (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "icanseeyoutaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|273186",
   song: "song/taylor-swift-i-can-see-you-from-the-vault",
   carriedBy: [

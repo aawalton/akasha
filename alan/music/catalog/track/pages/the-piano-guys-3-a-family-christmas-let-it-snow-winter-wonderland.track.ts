@@ -13,11 +13,11 @@ export const thePianoGuys3AFamilyChristmasLetItSnowWinterWonderland = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4us59Bx720z6eLFe7FeoEA", artistName: "Felix Bernard" },
-    { externalId: "6JvUOG4JFmgNW6jjwm71uU", artistName: "Sammy Cahn" },
-    { externalId: "3vAPM1qiCuClMH5DNbAgtC", artistName: "Jule Styne" },
-    { externalId: "1OfAveO4qZ0tTDBqEzFwuf", artistName: "Richard B. Smith" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
+    { artistName: "Felix Bernard" },
+    { artistName: "Sammy Cahn" },
+    { artistName: "Jule Styne" },
+    { artistName: "Richard B. Smith" },
+    { artist: "artist/the-piano-guys" },
   ],
   trackKey:
     "letitsnowwinterwonderland|0jW6R8CVyVohuUJVcuweDI,1OfAveO4qZ0tTDBqEzFwuf,3vAPM1qiCuClMH5DNbAgtC,4us59Bx720z6eLFe7FeoEA,6JvUOG4JFmgNW6jjwm71uU|208838",

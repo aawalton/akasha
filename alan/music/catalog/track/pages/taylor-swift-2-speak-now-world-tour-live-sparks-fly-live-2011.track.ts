@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveSparksFlyLive2011 = {
   title: "Sparks Fly - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "sparksflylive2011|06HL4z0CvFAxyc27GXpf02|336826",
   song: "song/taylor-swift-sparks-fly",
   carriedBy: [

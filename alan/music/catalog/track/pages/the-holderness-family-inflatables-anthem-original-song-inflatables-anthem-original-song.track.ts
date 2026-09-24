@@ -12,7 +12,7 @@ export const theHoldernessFamilyInflatablesAnthemOriginalSongInflatablesAnthemOr
   title: "Inflatables Anthem (Original Song)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "inflatablesanthemoriginalsong|6tITG4T8LpC0msapZ4wXGA|156528",
   song: "song/the-holderness-family-inflatables-anthem-original-song",
   carriedBy: [

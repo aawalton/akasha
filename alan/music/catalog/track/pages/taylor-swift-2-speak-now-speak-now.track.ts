@@ -15,7 +15,7 @@ export const taylorSwift2SpeakNowSpeakNow = {
   title: "Speak Now",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "speaknow|06HL4z0CvFAxyc27GXpf02|240760",
   song: "song/taylor-swift-speak-now",
   carriedBy: [

@@ -16,7 +16,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistThisLove = {
   title: "This Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thislove|06HL4z0CvFAxyc27GXpf02|250093",
   song: "song/taylor-swift-this-love",
   carriedBy: [

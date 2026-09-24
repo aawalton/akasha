@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuysCodeNameVivaldi = {
   title: "Code Name Vivaldi",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "codenamevivaldi|0jW6R8CVyVohuUJVcuweDI|246877",
   song: "song/the-piano-guys-code-name-vivaldi",
   carriedBy: [

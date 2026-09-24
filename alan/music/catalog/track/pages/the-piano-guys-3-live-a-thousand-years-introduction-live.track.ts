@@ -12,7 +12,7 @@ export const thePianoGuys3LiveAThousandYearsIntroductionLive = {
   title: "A Thousand Years (Introduction) - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "athousandyearsintroductionlive|0jW6R8CVyVohuUJVcuweDI|46266",
   song: "song/the-piano-guys-a-thousand-years-introduction",
   carriedBy: [

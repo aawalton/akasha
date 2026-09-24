@@ -16,7 +16,7 @@ export const thePianoGuys3LullabyEveryBreathYouTake = {
   title: "Every Breath You Take",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "everybreathyoutake|0jW6R8CVyVohuUJVcuweDI|272210",
   song: "song/the-piano-guys-every-breath-you-take",
   carriedBy: [

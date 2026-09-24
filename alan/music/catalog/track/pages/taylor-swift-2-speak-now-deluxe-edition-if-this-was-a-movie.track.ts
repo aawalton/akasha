@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowDeluxeEditionIfThisWasAMovie = {
   title: "If This Was A Movie",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ifthiswasamovie|06HL4z0CvFAxyc27GXpf02|234546",
   song: "song/taylor-swift-if-this-was-a-movie",
   carriedBy: [

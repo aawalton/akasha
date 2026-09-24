@@ -13,9 +13,9 @@ export const thePianoGuys3AFamilyChristmasStillStillStill = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "1U5zgr455OGyIkLNXvDdrf", artistName: "Traditional" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "4dsp5Yr32mZELtFDiJijDf", artistName: "Katherine Nelson" },
+    { artistName: "Traditional" },
+    { artist: "artist/the-piano-guys" },
+    { artistName: "Katherine Nelson" },
   ],
   trackKey:
     "stillstillstill|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf,4dsp5Yr32mZELtFDiJijDf|299906",

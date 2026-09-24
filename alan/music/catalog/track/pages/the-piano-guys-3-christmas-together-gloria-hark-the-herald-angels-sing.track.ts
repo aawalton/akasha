@@ -12,7 +12,7 @@ export const thePianoGuys3ChristmasTogetherGloriaHarkTheHeraldAngelsSing = {
   title: "Gloria / Hark! The Herald Angels Sing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "gloriaharktheheraldangelssing|0jW6R8CVyVohuUJVcuweDI|233875",
   song: "song/the-piano-guys-gloria-hark-the-herald-angels-sing",
   carriedBy: [

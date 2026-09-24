@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistStarlight = {
   title: "Starlight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "starlight|06HL4z0CvFAxyc27GXpf02|220600",
   song: "song/taylor-swift-starlight",
   carriedBy: [

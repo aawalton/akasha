@@ -17,7 +17,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyICanDoItWithABrok
   title: "I Can Do It With a Broken Heart",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "icandoitwithabrokenheart|06HL4z0CvFAxyc27GXpf02|218004",
   song: "song/taylor-swift-i-can-do-it-with-a-broken-heart",
   carriedBy: [

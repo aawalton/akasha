@@ -12,7 +12,7 @@ export const taylorSwift2TheArcherLiveFromParisTheArcherLiveFromParis = {
   title: "The Archer - Live From Paris",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thearcherlivefromparis|06HL4z0CvFAxyc27GXpf02|210960",
   song: "song/taylor-swift-the-archer",
   carriedBy: [

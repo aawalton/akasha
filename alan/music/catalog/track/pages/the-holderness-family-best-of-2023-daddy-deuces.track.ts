@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2023DaddyDeuces = {
   title: "Daddy Deuces",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "daddydeuces|6tITG4T8LpC0msapZ4wXGA|123263",
   song: "song/the-holderness-family-daddy-deuces",
   carriedBy: [

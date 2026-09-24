@@ -12,7 +12,7 @@ export const thePianoGuys3ChillDeStressedOut = {
   title: "(De)Stressed Out",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "destressedout|0jW6R8CVyVohuUJVcuweDI|182419",
   song: "song/the-piano-guys-de-stressed-out",
   carriedBy: [

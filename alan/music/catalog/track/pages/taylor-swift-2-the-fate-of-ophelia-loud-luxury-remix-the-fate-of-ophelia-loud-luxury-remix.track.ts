@@ -12,10 +12,7 @@ export const taylorSwift2TheFateOfOpheliaLoudLuxuryRemixTheFateOfOpheliaLoudLuxu
   title: "The Fate of Ophelia - Loud Luxury Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6t1gpxYbY8OlLA7D2RiikQ", artistName: "Loud Luxury" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Loud Luxury" }],
   trackKey: "thefateofophelialoudluxuryremix|06HL4z0CvFAxyc27GXpf02,6t1gpxYbY8OlLA7D2RiikQ|156302",
   song: "song/taylor-swift-the-fate-of-ophelia",
   carriedBy: [

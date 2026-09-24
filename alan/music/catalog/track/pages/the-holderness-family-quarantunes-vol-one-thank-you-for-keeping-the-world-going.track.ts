@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOneThankYouForKeepingTheWorldGoing
   title: "Thank You for Keeping the World Going",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "thankyouforkeepingtheworldgoing|6tITG4T8LpC0msapZ4wXGA|160783",
   song: "song/the-holderness-family-thank-you-for-keeping-the-world-going",
   carriedBy: [

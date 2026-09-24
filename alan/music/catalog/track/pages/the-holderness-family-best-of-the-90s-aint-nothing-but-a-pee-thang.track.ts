@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe90sAintNothingButAPeeThang = {
   title: "Ain't Nothing but a Pee Thang",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "aintnothingbutapeethang|6tITG4T8LpC0msapZ4wXGA|130716",
   song: "song/the-holderness-family-aint-nothing-but-a-pee-thang",
   carriedBy: [

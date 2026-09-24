@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2023Walk = {
   title: "Walk!",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "walk|6tITG4T8LpC0msapZ4wXGA|127896",
   song: "song/the-holderness-family-walk",
   carriedBy: [

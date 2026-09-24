@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputationLookWhatYouMadeMeDoKaraokeV
   title: "Look What You Made Me Do - Karaoke Version",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "lookwhatyoumademedokaraokeversion|06HL4z0CvFAxyc27GXpf02|211200",
   song: "song/taylor-swift-look-what-you-made-me-do",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2TheTaylorSwiftHolidayCollectionSantaBaby = {
   title: "Santa Baby",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "santababy|06HL4z0CvFAxyc27GXpf02|158600",
   song: "song/taylor-swift-santa-baby",
   carriedBy: [

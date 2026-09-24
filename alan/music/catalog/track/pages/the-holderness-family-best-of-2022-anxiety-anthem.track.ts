@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2022AnxietyAnthem = {
   title: "Anxiety Anthem",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "anxietyanthem|6tITG4T8LpC0msapZ4wXGA|147096",
   song: "song/the-holderness-family-anxiety-anthem",
   carriedBy: [

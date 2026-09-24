@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionLongLiveTaylorsVersion = {
   title: "Long Live (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "longlivetaylorsversion|06HL4z0CvFAxyc27GXpf02|317960",
   song: "song/taylor-swift-long-live",
   carriedBy: [

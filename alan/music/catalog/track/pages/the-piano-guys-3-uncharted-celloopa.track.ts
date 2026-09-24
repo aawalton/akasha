@@ -12,7 +12,7 @@ export const thePianoGuys3UnchartedCelloopa = {
   title: "Celloopa",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "celloopa|0jW6R8CVyVohuUJVcuweDI|166687",
   song: "song/the-piano-guys-celloopa",
   carriedBy: [

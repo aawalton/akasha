@@ -12,10 +12,7 @@ export const thePianoGuys3ThePianoGuys2MissionImpossibleFeatLindseyStirling = {
   title: "Mission Impossible (feat. Lindsey Stirling)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "378dH6EszOLFShpRzAQkVM", artistName: "Lindsey Stirling" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artist: "artist/lindsey-stirling" }],
   trackKey:
     "missionimpossiblefeatlindseystirling|0jW6R8CVyVohuUJVcuweDI,378dH6EszOLFShpRzAQkVM|226000",
   song: "song/the-piano-guys-mission-impossible",

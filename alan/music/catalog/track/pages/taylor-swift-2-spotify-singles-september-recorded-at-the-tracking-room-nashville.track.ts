@@ -12,7 +12,7 @@ export const taylorSwift2SpotifySinglesSeptemberRecordedAtTheTrackingRoomNashvil
   title: "September - Recorded at The Tracking Room Nashville",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "septemberrecordedatthetrackingroomnashville|06HL4z0CvFAxyc27GXpf02|187823",
   song: "song/taylor-swift-september-recorded-at-the-tracking-room-nashville",
   carriedBy: [

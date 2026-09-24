@@ -12,7 +12,7 @@ export const thePianoGuys3LiveWhatMakesYouBeautifulLive = {
   title: "What Makes You Beautiful (Live)",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "whatmakesyoubeautifullive|0jW6R8CVyVohuUJVcuweDI|231493",
   song: "song/the-piano-guys-what-makes-you-beautiful",
   carriedBy: [

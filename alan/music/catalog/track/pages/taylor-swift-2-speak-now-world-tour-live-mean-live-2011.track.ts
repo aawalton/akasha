@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveMeanLive2011 = {
   title: "Mean - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "meanlive2011|06HL4z0CvFAxyc27GXpf02|246373",
   song: "song/taylor-swift-mean",
   carriedBy: [

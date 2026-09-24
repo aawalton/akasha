@@ -15,10 +15,7 @@ export const thePianoGuys310BlessTheBrokenRoad = {
   title: "Bless the Broken Road",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Jon Schmidt" }],
   trackKey: "blessthebrokenroad|0jW6R8CVyVohuUJVcuweDI,2YQ4MY2VwOMv43C0GemUY5|235450",
   song: "song/the-piano-guys-bless-the-broken-road",
   carriedBy: [

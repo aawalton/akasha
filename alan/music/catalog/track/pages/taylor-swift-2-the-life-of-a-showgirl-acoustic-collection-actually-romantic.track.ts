@@ -16,7 +16,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionActuallyRomantic = 
   title: "Actually Romantic",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "actuallyromantic|06HL4z0CvFAxyc27GXpf02|163699",
   song: "song/taylor-swift-actually-romantic",
   carriedBy: [

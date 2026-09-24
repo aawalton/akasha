@@ -12,7 +12,7 @@ export const thePianoGuys3LimitlessInMyBloodSwanLake = {
   title: "In My Blood / Swan Lake",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "inmybloodswanlake|0jW6R8CVyVohuUJVcuweDI|236987",
   song: "song/the-piano-guys-in-my-blood-swan-lake",
   carriedBy: [

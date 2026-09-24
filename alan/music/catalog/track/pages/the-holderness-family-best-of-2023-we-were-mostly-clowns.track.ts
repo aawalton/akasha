@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2023WeWereMostlyClowns = {
   title: "We Were Mostly...CLOWNS!",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "weweremostlyclowns|6tITG4T8LpC0msapZ4wXGA|129550",
   song: "song/the-holderness-family-we-were-mostly-clowns",
   carriedBy: [

@@ -13,9 +13,9 @@ export const thePianoGuys3ChristmasTogetherAngelsFromTheRealmsOfGloryFeatDavidAr
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "2C9n4tQgNLhHPhSCmdsQnk", artistName: "David Archuleta" },
-    { externalId: "7EIbKyiLnEJ1Y074UIUyZJ", artistName: "Peter Hollens" },
+    { artist: "artist/the-piano-guys" },
+    { artistName: "David Archuleta" },
+    { artistName: "Peter Hollens" },
   ],
   trackKey:
     "angelsfromtherealmsofgloryfeatdavidarchuletapeterhollens|0jW6R8CVyVohuUJVcuweDI,2C9n4tQgNLhHPhSCmdsQnk,7EIbKyiLnEJ1Y074UIUyZJ|245812",

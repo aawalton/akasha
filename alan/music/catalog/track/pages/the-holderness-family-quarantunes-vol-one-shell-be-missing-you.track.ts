@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOneShellBeMissingYou = {
   title: "She'll Be Missing You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "shellbemissingyou|6tITG4T8LpC0msapZ4wXGA|190458",
   song: "song/the-holderness-family-shell-be-missing-you",
   carriedBy: [

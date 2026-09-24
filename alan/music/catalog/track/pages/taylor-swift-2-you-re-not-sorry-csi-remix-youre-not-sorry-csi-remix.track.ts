@@ -12,7 +12,7 @@ export const taylorSwift2YouReNotSorryCsiRemixYoureNotSorryCsiRemix = {
   title: "You're Not Sorry - CSI Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "yourenotsorrycsiremix|06HL4z0CvFAxyc27GXpf02|262440",
   song: "song/taylor-swift-you-re-not-sorry",
   carriedBy: [

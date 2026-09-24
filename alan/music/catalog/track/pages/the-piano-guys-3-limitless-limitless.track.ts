@@ -12,7 +12,7 @@ export const thePianoGuys3LimitlessLimitless = {
   title: "Limitless",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "limitless|0jW6R8CVyVohuUJVcuweDI|270937",
   song: "song/the-piano-guys-limitless",
   carriedBy: [

@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe2000sMyMilkDuds = {
   title: "My Milk Duds",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "mymilkduds|6tITG4T8LpC0msapZ4wXGA|67320",
   song: "song/the-holderness-family-my-milk-duds",
   carriedBy: [

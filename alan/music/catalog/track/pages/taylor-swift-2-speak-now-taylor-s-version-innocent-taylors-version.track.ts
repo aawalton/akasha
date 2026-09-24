@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionInnocentTaylorsVersion = {
   title: "Innocent (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "innocenttaylorsversion|06HL4z0CvFAxyc27GXpf02|301221",
   song: "song/taylor-swift-innocent",
   carriedBy: [

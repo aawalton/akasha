@@ -16,7 +16,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionElizabethTaylor = {
   title: "Elizabeth Taylor",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "elizabethtaylor|06HL4z0CvFAxyc27GXpf02|208291",
   song: "song/taylor-swift-elizabeth-taylor",
   carriedBy: [

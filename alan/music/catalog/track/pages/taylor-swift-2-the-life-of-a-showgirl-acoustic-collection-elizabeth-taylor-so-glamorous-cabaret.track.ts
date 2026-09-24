@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionElizabethTaylorSoGl
   title: "Elizabeth Taylor - So Glamorous Cabaret Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "elizabethtaylorsoglamorouscabaretversion|06HL4z0CvFAxyc27GXpf02|247268",
   song: "song/taylor-swift-elizabeth-taylor",
   carriedBy: [

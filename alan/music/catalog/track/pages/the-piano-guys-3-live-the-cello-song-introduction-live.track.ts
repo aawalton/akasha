@@ -12,7 +12,7 @@ export const thePianoGuys3LiveTheCelloSongIntroductionLive = {
   title: "The Cello Song (Introduction) - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "thecellosongintroductionlive|0jW6R8CVyVohuUJVcuweDI|88893",
   song: "song/the-piano-guys-the-cello-song-introduction",
   carriedBy: [

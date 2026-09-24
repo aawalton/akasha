@@ -15,7 +15,7 @@ export const taylorSwift2SpeakNowBetterThanRevenge = {
   title: "Better Than Revenge",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "betterthanrevenge|06HL4z0CvFAxyc27GXpf02|217160",
   song: "song/taylor-swift-better-than-revenge",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheManuscript = {
   title: "The Manuscript",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "themanuscript|06HL4z0CvFAxyc27GXpf02|224743",
   song: "song/taylor-swift-the-manuscript",
   carriedBy: [

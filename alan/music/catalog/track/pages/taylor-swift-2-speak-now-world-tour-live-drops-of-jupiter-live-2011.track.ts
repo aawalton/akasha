@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveDropsOfJupiterLive2011 = {
   title: "Drops Of Jupiter - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dropsofjupiterlive2011|06HL4z0CvFAxyc27GXpf02|315173",
   song: "song/taylor-swift-drops-of-jupiter",
   carriedBy: [

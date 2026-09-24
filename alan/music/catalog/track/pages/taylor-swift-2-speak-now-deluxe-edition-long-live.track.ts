@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowDeluxeEditionLongLive = {
   title: "Long Live",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "longlive|06HL4z0CvFAxyc27GXpf02|317453",
   song: "song/taylor-swift-long-live",
   carriedBy: [

@@ -13,8 +13,8 @@ export const thePianoGuys3TheMissionHowGreatThouArtTheMissionHowGreatThouArt = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "1GRl6sRyLg9ToOohIE2wW5", artistName: "The Tabernacle Choir at Temple Square" },
+    { artist: "artist/the-piano-guys" },
+    { artist: "artist/the-tabernacle-choir-at-temple-square" },
   ],
   trackKey: "themissionhowgreatthouart|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5|201557",
   song: "song/the-piano-guys-the-mission-how-great-thou-art",

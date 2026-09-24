@@ -15,7 +15,7 @@ export const theHoldernessFamilyBestOfThe90sItsGonnaBeMay = {
   title: "It's Gonna Be May",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "itsgonnabemay|6tITG4T8LpC0msapZ4wXGA|109035",
   song: "song/the-holderness-family-its-gonna-be-may",
   carriedBy: [

@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuysMichaelMeetsMozart = {
   title: "Michael Meets Mozart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "michaelmeetsmozart|0jW6R8CVyVohuUJVcuweDI|320759",
   song: "song/the-piano-guys-michael-meets-mozart",
   carriedBy: [

@@ -19,7 +19,7 @@ export const thePianoGuys3LoveMeLikeIAmLoveMeLikeIAm = {
   title: "Love Me Like I Am",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "lovemelikeiam|0jW6R8CVyVohuUJVcuweDI|274166",
   song: "song/the-piano-guys-love-me-like-i-am",
   carriedBy: [

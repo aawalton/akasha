@@ -15,7 +15,7 @@ export const taylorSwift2SpeakNowMine = {
   title: "Mine",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "mine|06HL4z0CvFAxyc27GXpf02|230706",
   song: "song/taylor-swift-mine",
   carriedBy: [

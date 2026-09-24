@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologySoHighSchool = {
   title: "So High School",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "sohighschool|06HL4z0CvFAxyc27GXpf02|228800",
   song: "song/taylor-swift-so-high-school",
   carriedBy: [

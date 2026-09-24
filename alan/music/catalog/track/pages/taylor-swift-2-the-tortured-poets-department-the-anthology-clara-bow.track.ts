@@ -15,7 +15,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyClaraBow = {
   title: "Clara Bow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "clarabow|06HL4z0CvFAxyc27GXpf02|216662",
   song: "song/taylor-swift-clara-bow",
   carriedBy: [

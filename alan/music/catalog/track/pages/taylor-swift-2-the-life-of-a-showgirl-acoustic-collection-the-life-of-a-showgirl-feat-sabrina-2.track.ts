@@ -12,10 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionTheLifeOfAShowgirlF
   title: "The Life of a Showgirl (feat. Sabrina Carpenter) - Dressing Room Rehearsal Version",
   trackType: "demo",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artist: "artist/sabrina-carpenter" }],
   trackKey:
     "thelifeofashowgirlfeatsabrinacarpenterdressingroomrehearsalversion|06HL4z0CvFAxyc27GXpf02,74KM79TiuVKeVCqs8QtB0B|239790",
   song: "song/taylor-swift-the-life-of-a-showgirl",

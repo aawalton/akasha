@@ -13,10 +13,7 @@ export const taylorSwift2TheFateOfOpheliaTheChainsmokersRemixTheFateOfOpheliaThe
     title: "The Fate of Ophelia - The Chainsmokers Remix",
     trackType: "remix",
     explicit: false,
-    trackArtist: [
-      { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-      { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
-    ],
+    trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "The Chainsmokers" }],
     trackKey:
       "thefateofopheliathechainsmokersremix|06HL4z0CvFAxyc27GXpf02,69GGBxA162lTqCwzJG5jLp|175841",
     song: "song/taylor-swift-the-fate-of-ophelia",

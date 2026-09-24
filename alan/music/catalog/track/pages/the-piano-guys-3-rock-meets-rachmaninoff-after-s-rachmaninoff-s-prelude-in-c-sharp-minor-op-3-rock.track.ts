@@ -15,9 +15,9 @@ export const thePianoGuys3RockMeetsRachmaninoffAfterSRachmaninoffSPreludeInCShar
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0Kekt6CKSo0m5mivKcoH51", artistName: "Sergei Rachmaninoff" },
-    { externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
+    { artistName: "Sergei Rachmaninoff" },
+    { artistName: "Jon Schmidt" },
+    { artist: "artist/the-piano-guys" },
   ],
   trackKey:
     "rockmeetsrachmaninoff|0Kekt6CKSo0m5mivKcoH51,0jW6R8CVyVohuUJVcuweDI,2YQ4MY2VwOMv43C0GemUY5|204813",

@@ -16,7 +16,7 @@ export const thePianoGuys3FollowYouFollowYou = {
   title: "Follow You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "followyou|0jW6R8CVyVohuUJVcuweDI|191160",
   song: "song/the-piano-guys-follow-you",
   carriedBy: [

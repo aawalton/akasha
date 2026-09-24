@@ -15,10 +15,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyFloridaFeatFloren
   title: "Florida!!! (feat. Florence + The Machine)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "1moxjboGR7GNWYIMWsRjgG", artistName: "Florence + The Machine" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artist: "artist/florence-the-machine" }],
   trackKey: "floridafeatflorencethemachine|06HL4z0CvFAxyc27GXpf02,1moxjboGR7GNWYIMWsRjgG|215463",
   song: "song/taylor-swift-florida",
   carriedBy: [

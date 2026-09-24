@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowDeluxeEditionSuperman = {
   title: "Superman",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "superman|06HL4z0CvFAxyc27GXpf02|275960",
   song: "song/taylor-swift-superman",
   carriedBy: [

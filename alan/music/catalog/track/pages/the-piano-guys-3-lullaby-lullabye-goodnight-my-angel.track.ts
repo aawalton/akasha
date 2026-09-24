@@ -15,7 +15,7 @@ export const thePianoGuys3LullabyLullabyeGoodnightMyAngel = {
   title: "Lullabye (Goodnight, My Angel)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "lullabyegoodnightmyangel|0jW6R8CVyVohuUJVcuweDI|193741",
   song: "song/the-piano-guys-lullabye-goodnight-my-angel",
   carriedBy: [

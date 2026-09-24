@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyPeter = {
   title: "Peter",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "peter|06HL4z0CvFAxyc27GXpf02|283957",
   song: "song/taylor-swift-peter",
   carriedBy: [

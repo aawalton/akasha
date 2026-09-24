@@ -16,7 +16,7 @@ export const thePianoGuys3ThankGodIDoBeStillMySoulThankGodIDoBeStillMySoul = {
   title: "Thank God I Do / Be Still My Soul",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "thankgodidobestillmysoul|0jW6R8CVyVohuUJVcuweDI|247180",
   song: "song/the-piano-guys-thank-god-i-do-be-still-my-soul",
   carriedBy: [

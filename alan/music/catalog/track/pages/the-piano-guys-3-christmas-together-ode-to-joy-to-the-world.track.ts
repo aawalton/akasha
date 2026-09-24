@@ -12,7 +12,7 @@ export const thePianoGuys3ChristmasTogetherOdeToJoyToTheWorld = {
   title: "Ode to Joy to the World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "odetojoytotheworld|0jW6R8CVyVohuUJVcuweDI|246125",
   song: "song/the-piano-guys-ode-to-joy-to-the-world",
   carriedBy: [

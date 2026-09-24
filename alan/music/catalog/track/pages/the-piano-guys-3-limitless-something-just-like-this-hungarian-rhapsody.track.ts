@@ -12,7 +12,7 @@ export const thePianoGuys3LimitlessSomethingJustLikeThisHungarianRhapsody = {
   title: "Something Just Like This / Hungarian Rhapsody",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "somethingjustlikethishungarianrhapsody|0jW6R8CVyVohuUJVcuweDI|233841",
   song: "song/the-piano-guys-something-just-like-this-hungarian-rhapsody",
   carriedBy: [

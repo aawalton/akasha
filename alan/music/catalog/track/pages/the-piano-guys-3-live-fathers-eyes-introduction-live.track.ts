@@ -12,7 +12,7 @@ export const thePianoGuys3LiveFathersEyesIntroductionLive = {
   title: "Fathers' Eyes (Introduction) - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "fatherseyesintroductionlive|0jW6R8CVyVohuUJVcuweDI|76160",
   song: "song/the-piano-guys-fathers-eyes-introduction",
   carriedBy: [

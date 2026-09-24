@@ -17,10 +17,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyFortnightFeatPost
   title: "Fortnight (feat. Post Malone)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "246dkjvS1zLTtiykXe5h60", artistName: "Post Malone" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Post Malone" }],
   trackKey: "fortnightfeatpostmalone|06HL4z0CvFAxyc27GXpf02,246dkjvS1zLTtiykXe5h60|228965",
   song: "song/taylor-swift-fortnight",
   carriedBy: [

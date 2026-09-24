@@ -12,10 +12,7 @@ export const thePianoGuys3SoFarSoGoodItsGonnaBeOkay = {
   title: "(It's Gonna Be) Okay",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "1RTHEDesKGANeFDXyDJBQU", artistName: "Al van der Beek" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Al van der Beek" }],
   trackKey: "itsgonnabeokay|0jW6R8CVyVohuUJVcuweDI,1RTHEDesKGANeFDXyDJBQU|210803",
   song: "song/the-piano-guys-its-gonna-be-okay",
   carriedBy: [

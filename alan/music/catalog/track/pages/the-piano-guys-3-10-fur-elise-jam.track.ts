@@ -15,7 +15,7 @@ export const thePianoGuys310FurEliseJam = {
   title: "Für Elise Jam",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "furelisejam|0jW6R8CVyVohuUJVcuweDI|126893",
   song: "song/the-piano-guys-fur-elise-jam",
   carriedBy: [

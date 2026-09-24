@@ -12,10 +12,7 @@ export const thePianoGuys3ChristmasTogetherOLittleOneSweetBwv493FeatTheKingsSing
   title: "O Little One Sweet, BWV 493 (feat. The King's Singers)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "5lR7yDVN4z9kahOiUSlMhe", artistName: "The King's Singers" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "The King's Singers" }],
   trackKey:
     "olittleonesweetbwv493featthekingssingers|0jW6R8CVyVohuUJVcuweDI,5lR7yDVN4z9kahOiUSlMhe|223062",
   song: "song/the-piano-guys-o-little-one-sweet-bwv-493",

@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputationGetawayCarKaraokeVersion = 
   title: "Getaway Car - Karaoke Version",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "getawaycarkaraokeversion|06HL4z0CvFAxyc27GXpf02|233626",
   song: "song/taylor-swift-getaway-car",
   carriedBy: [

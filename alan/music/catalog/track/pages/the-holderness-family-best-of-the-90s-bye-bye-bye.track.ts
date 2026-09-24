@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe90sByeByeBye = {
   title: "Bye Bye Bye",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "byebyebye|6tITG4T8LpC0msapZ4wXGA|144640",
   song: "song/the-holderness-family-bye-bye-bye",
   carriedBy: [

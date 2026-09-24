@@ -15,7 +15,7 @@ export const taylorSwift2SpeakNowLastKiss = {
   title: "Last Kiss",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "lastkiss|06HL4z0CvFAxyc27GXpf02|367133",
   song: "song/taylor-swift-last-kiss",
   carriedBy: [

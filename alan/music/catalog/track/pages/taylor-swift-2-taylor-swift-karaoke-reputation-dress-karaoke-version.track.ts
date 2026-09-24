@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputationDressKaraokeVersion = {
   title: "Dress - Karaoke Version",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dresskaraokeversion|06HL4z0CvFAxyc27GXpf02|230386",
   song: "song/taylor-swift-dress",
   carriedBy: [

@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe80sMyWifesOnAHealthyDiet = {
   title: "My Wife's on a Healthy Diet",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "mywifesonahealthydiet|6tITG4T8LpC0msapZ4wXGA|149786",
   song: "song/the-holderness-family-my-wifes-on-a-healthy-diet",
   carriedBy: [

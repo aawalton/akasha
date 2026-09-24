@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2023ParkingAtChristmas = {
   title: "Parking At Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "parkingatchristmas|6tITG4T8LpC0msapZ4wXGA|52271",
   song: "song/the-holderness-family-parking-at-christmas",
   carriedBy: [

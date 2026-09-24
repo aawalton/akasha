@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuys2CantHelpFallingInLove = {
   title: "Can't Help Falling in Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "canthelpfallinginlove|0jW6R8CVyVohuUJVcuweDI|255125",
   song: "song/the-piano-guys-cant-help-falling-in-love",
   carriedBy: [

@@ -16,7 +16,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionEldestDaughter = {
   title: "Eldest Daughter",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "eldestdaughter|06HL4z0CvFAxyc27GXpf02|246356",
   song: "song/taylor-swift-eldest-daughter",
   carriedBy: [

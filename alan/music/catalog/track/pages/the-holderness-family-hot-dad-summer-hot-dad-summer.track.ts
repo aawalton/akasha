@@ -12,7 +12,7 @@ export const theHoldernessFamilyHotDadSummerHotDadSummer = {
   title: "Hot Dad Summer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "hotdadsummer|6tITG4T8LpC0msapZ4wXGA|174210",
   song: "song/the-holderness-family-hot-dad-summer",
   carriedBy: [

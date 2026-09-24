@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveIWantYouBackLive2011 = {
   title: "I Want You Back - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "iwantyoubacklive2011|06HL4z0CvFAxyc27GXpf02|83253",
   song: "song/taylor-swift-i-want-you-back",
   carriedBy: [

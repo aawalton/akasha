@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftShouldveSaidNo = {
   title: "Should've Said No",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "shouldvesaidno|06HL4z0CvFAxyc27GXpf02|242200",
   song: "song/taylor-swift-should-ve-said-no",
   carriedBy: [

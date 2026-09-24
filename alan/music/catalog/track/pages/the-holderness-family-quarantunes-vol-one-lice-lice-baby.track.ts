@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOneLiceLiceBaby = {
   title: "Lice, Lice Baby",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "licelicebaby|6tITG4T8LpC0msapZ4wXGA|113162",
   song: "song/the-holderness-family-lice-lice-baby",
   carriedBy: [

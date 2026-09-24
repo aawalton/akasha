@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe90sIveGotHairInWeirdPlaces = {
   title: "I've Got Hair in Weird Places",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "ivegothairinweirdplaces|6tITG4T8LpC0msapZ4wXGA|151928",
   song: "song/the-holderness-family-ive-got-hair-in-weird-places",
   carriedBy: [

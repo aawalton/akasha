@@ -15,7 +15,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyWhosAfraidOfLittl
   title: "Who’s Afraid of Little Old Me?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "whosafraidoflittleoldme|06HL4z0CvFAxyc27GXpf02|334084",
   song: "song/taylor-swift-who-s-afraid-of-little-old-me",
   carriedBy: [

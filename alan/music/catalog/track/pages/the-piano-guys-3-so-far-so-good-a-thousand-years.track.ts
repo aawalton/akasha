@@ -12,7 +12,7 @@ export const thePianoGuys3SoFarSoGoodAThousandYears = {
   title: "A Thousand Years",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "athousandyears|0jW6R8CVyVohuUJVcuweDI|270413",
   song: "song/evynne-hollens-a-thousand-years",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2YouNeedToCalmDownLiveFromParisYouNeedToCalmDownLiveFrom
   title: "You Need To Calm Down - Live From Paris",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "youneedtocalmdownlivefromparis|06HL4z0CvFAxyc27GXpf02|203960",
   song: "song/taylor-swift-you-need-to-calm-down",
   carriedBy: [

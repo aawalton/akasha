@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe90sInsaneInTheMomBrain = {
   title: "Insane in the Mom Brain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "insaneinthemombrain|6tITG4T8LpC0msapZ4wXGA|94641",
   song: "song/the-holderness-family-insane-in-the-mom-brain",
   carriedBy: [

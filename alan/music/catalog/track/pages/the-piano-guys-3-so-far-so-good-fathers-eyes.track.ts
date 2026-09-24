@@ -12,7 +12,7 @@ export const thePianoGuys3SoFarSoGoodFathersEyes = {
   title: "Fathers' Eyes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "fatherseyes|0jW6R8CVyVohuUJVcuweDI|234844",
   song: "song/the-piano-guys-fathers-eyes",
   carriedBy: [

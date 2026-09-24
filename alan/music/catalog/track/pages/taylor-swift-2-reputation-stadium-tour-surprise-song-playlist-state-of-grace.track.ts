@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistStateOfGrace =
   title: "State Of Grace",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "stateofgrace|06HL4z0CvFAxyc27GXpf02|295720",
   song: "song/taylor-swift-state-of-grace",
   carriedBy: [

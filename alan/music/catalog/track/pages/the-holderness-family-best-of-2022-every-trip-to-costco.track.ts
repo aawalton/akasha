@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2022EveryTripToCostco = {
   title: "Every Trip To Costco",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "everytriptocostco|6tITG4T8LpC0msapZ4wXGA|162840",
   song: "song/the-holderness-family-every-trip-to-costco",
   carriedBy: [

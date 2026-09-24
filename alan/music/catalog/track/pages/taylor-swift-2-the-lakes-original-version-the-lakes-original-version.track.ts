@@ -12,7 +12,7 @@ export const taylorSwift2TheLakesOriginalVersionTheLakesOriginalVersion = {
   title: "the lakes - original version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thelakesoriginalversion|06HL4z0CvFAxyc27GXpf02|227203",
   song: "song/taylor-swift-the-lakes",
   carriedBy: [

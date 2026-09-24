@@ -18,7 +18,7 @@ export const thePianoGuys3LoveMeLikeIAmLastTime = {
   title: "Last Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "lasttime|0jW6R8CVyVohuUJVcuweDI|188500",
   song: "song/the-piano-guys-last-time",
   carriedBy: [

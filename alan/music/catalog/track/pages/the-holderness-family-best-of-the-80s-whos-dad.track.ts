@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe80sWhosDad = {
   title: "Who's Dad?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "whosdad|6tITG4T8LpC0msapZ4wXGA|123662",
   song: "song/the-holderness-family-whos-dad",
   carriedBy: [

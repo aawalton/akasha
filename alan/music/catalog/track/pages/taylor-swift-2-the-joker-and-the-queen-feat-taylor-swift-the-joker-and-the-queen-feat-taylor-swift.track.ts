@@ -12,10 +12,7 @@ export const taylorSwift2TheJokerAndTheQueenFeatTaylorSwiftTheJokerAndTheQueenFe
   title: "The Joker And The Queen (feat. Taylor Swift)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6eUKZXaKkcviH0Ku9w2n3V", artistName: "Ed Sheeran" },
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-  ],
+  trackArtist: [{ artistName: "Ed Sheeran" }, { artist: "artist/taylor-swift" }],
   trackKey:
     "thejokerandthequeenfeattaylorswift|06HL4z0CvFAxyc27GXpf02,6eUKZXaKkcviH0Ku9w2n3V|185422",
   song: "song/taylor-swift-the-joker-and-the-queen",

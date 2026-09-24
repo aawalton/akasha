@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe80sCantHelpWithHomeworkAnymore = {
   title: "Can't Help With Homework Anymore",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "canthelpwithhomeworkanymore|6tITG4T8LpC0msapZ4wXGA|214895",
   song: "song/the-holderness-family-cant-help-with-homework-anymore",
   carriedBy: [

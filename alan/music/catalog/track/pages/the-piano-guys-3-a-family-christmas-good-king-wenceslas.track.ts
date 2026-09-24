@@ -12,10 +12,7 @@ export const thePianoGuys3AFamilyChristmasGoodKingWenceslas = {
   title: "Good King Wenceslas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1U5zgr455OGyIkLNXvDdrf", artistName: "Traditional" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-  ],
+  trackArtist: [{ artistName: "Traditional" }, { artist: "artist/the-piano-guys" }],
   trackKey: "goodkingwenceslas|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|232463",
   song: "song/the-piano-guys-good-king-wenceslas",
   carriedBy: [

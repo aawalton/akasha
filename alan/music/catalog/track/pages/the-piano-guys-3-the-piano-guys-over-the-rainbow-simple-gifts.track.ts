@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuysOverTheRainbowSimpleGifts = {
   title: "Over the Rainbow / Simple Gifts",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "overtherainbowsimplegifts|0jW6R8CVyVohuUJVcuweDI|224190",
   song: "song/the-piano-guys-over-the-rainbow-simple-gifts",
   carriedBy: [

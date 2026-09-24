@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuysArwensVigil = {
   title: "Arwen's Vigil",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "arwensvigil|0jW6R8CVyVohuUJVcuweDI|235679",
   song: "song/the-piano-guys-arwens-vigil",
   carriedBy: [

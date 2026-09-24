@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftTeardropsOnMyGuitarPopVersion = {
   title: "Teardrops on My Guitar - Pop Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "teardropsonmyguitarpopversion|06HL4z0CvFAxyc27GXpf02|179066",
   song: "song/taylor-swift-teardrops-on-my-guitar",
   carriedBy: [

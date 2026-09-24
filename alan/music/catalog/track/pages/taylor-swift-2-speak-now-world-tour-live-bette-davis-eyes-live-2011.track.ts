@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveBetteDavisEyesLive2011 = {
   title: "Bette Davis Eyes - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "bettedaviseyeslive2011|06HL4z0CvFAxyc27GXpf02|189146",
   song: "song/taylor-swift-bette-davis-eyes",
   carriedBy: [

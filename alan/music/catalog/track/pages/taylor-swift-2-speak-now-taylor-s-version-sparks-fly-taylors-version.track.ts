@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionSparksFlyTaylorsVersion = {
   title: "Sparks Fly (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "sparksflytaylorsversion|06HL4z0CvFAxyc27GXpf02|261230",
   song: "song/taylor-swift-sparks-fly",
   carriedBy: [

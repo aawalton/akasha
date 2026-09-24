@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftMarysSongOhMyMyMy = {
   title: "Mary's Song (Oh My My My)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "maryssongohmymymy|06HL4z0CvFAxyc27GXpf02|213080",
   song: "song/taylor-swift-mary-s-song-oh-my-my-my",
   carriedBy: [

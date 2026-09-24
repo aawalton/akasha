@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionActuallyRomanticTr
   title: "Actually Romantic - Track by Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "actuallyromantictrackbytrack|06HL4z0CvFAxyc27GXpf02|42434",
   song: "song/taylor-swift-actually-romantic-track-by-track",
   carriedBy: [

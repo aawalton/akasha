@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOne20SecondParodiesForHandwashing 
   title: "20-Second Parodies for Handwashing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "20secondparodiesforhandwashing|6tITG4T8LpC0msapZ4wXGA|199392",
   song: "song/the-holderness-family-20-second-parodies-for-handwashing",
   carriedBy: [

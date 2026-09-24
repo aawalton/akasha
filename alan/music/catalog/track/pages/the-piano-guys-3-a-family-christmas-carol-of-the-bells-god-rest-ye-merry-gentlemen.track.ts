@@ -13,9 +13,9 @@ export const thePianoGuys3AFamilyChristmasCarolOfTheBellsGodRestYeMerryGentlemen
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "6lBN3Tzt61u8i9AJoAhKzF", artistName: "Mykola Dmytrovych Leontovych" },
-    { externalId: "1U5zgr455OGyIkLNXvDdrf", artistName: "Traditional" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
+    { artistName: "Mykola Dmytrovych Leontovych" },
+    { artistName: "Traditional" },
+    { artist: "artist/the-piano-guys" },
   ],
   trackKey:
     "carolofthebellsgodrestyemerrygentlemen|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf,6lBN3Tzt61u8i9AJoAhKzF|201918",

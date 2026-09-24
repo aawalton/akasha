@@ -12,10 +12,7 @@ export const thePianoGuys3AFamilyChristmasChristmasMorning = {
   title: "Christmas Morning",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-  ],
+  trackArtist: [{ artistName: "Jon Schmidt" }, { artist: "artist/the-piano-guys" }],
   trackKey: "christmasmorning|0jW6R8CVyVohuUJVcuweDI,2YQ4MY2VwOMv43C0GemUY5|239352",
   song: "song/the-piano-guys-christmas-morning",
   carriedBy: [

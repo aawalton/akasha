@@ -12,7 +12,7 @@ export const theHoldernessFamilyTheGreatestHitsVolOneInDaTub = {
   title: "In Da Tub",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "indatub|6tITG4T8LpC0msapZ4wXGA|132048",
   song: "song/the-holderness-family-in-da-tub",
   carriedBy: [

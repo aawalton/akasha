@@ -12,10 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionElectricTouchFeatFallOutBoyTaylor
   title: "Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "4UXqAaa6dQYAk18Lv7PEgX", artistName: "Fall Out Boy" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Fall Out Boy" }],
   trackKey:
     "electrictouchfeatfalloutboytaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02,4UXqAaa6dQYAk18Lv7PEgX|266466",
   song: "song/taylor-swift-electric-touch-from-the-vault",

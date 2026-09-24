@@ -16,7 +16,7 @@ export const thePianoGuys3ClassicalLoveRomanceAChangeInTheAir = {
   title: "A Change In The Air",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "achangeintheair|0jW6R8CVyVohuUJVcuweDI|314399",
   song: "song/the-piano-guys-a-change-in-the-air",
   carriedBy: [

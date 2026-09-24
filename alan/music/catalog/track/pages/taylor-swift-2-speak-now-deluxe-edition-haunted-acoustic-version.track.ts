@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowDeluxeEditionHauntedAcousticVersion = {
   title: "Haunted - Acoustic Version",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "hauntedacousticversion|06HL4z0CvFAxyc27GXpf02|217613",
   song: "song/taylor-swift-haunted",
   carriedBy: [

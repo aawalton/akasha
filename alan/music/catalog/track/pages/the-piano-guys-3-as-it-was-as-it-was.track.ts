@@ -16,7 +16,7 @@ export const thePianoGuys3AsItWasAsItWas = {
   title: "As It Was",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "asitwas|0jW6R8CVyVohuUJVcuweDI|161724",
   song: "song/the-piano-guys-as-it-was",
   carriedBy: [

@@ -13,13 +13,10 @@ export const thePianoGuys310Beethovens5Secrets = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    {
-      externalId: "3ewlE33E3BBy5izrlsaR0G",
-      artistName: "Lyceum Philharmonic at American Heritage School",
-    },
-    { externalId: "6k7qMS96A3GiN8ZvZgo3u6", artistName: "Julie Ann Nelson" },
-    { externalId: "0rUC7g0r3Q9pfNeeVioxzC", artistName: "John Nelson" },
+    { artist: "artist/the-piano-guys" },
+    { artistName: "Lyceum Philharmonic at American Heritage School" },
+    { artistName: "Julie Ann Nelson" },
+    { artistName: "John Nelson" },
   ],
   trackKey:
     "beethovens5secrets|0jW6R8CVyVohuUJVcuweDI,0rUC7g0r3Q9pfNeeVioxzC,3ewlE33E3BBy5izrlsaR0G,6k7qMS96A3GiN8ZvZgo3u6|309200",

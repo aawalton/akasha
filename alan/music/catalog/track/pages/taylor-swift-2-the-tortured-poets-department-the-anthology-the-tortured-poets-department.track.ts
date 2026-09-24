@@ -15,7 +15,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheTorturedPoetsD
   title: "The Tortured Poets Department",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thetorturedpoetsdepartment|06HL4z0CvFAxyc27GXpf02|293048",
   song: "song/taylor-swift-the-tortured-poets-department",
   carriedBy: [

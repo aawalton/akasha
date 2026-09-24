@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowDeluxeEditionBackToDecemberAcoustic = {
   title: "Back To December - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "backtodecemberacoustic|06HL4z0CvFAxyc27GXpf02|292560",
   song: "song/taylor-swift-back-to-december",
   carriedBy: [

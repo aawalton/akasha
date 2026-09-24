@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyCassandra = {
   title: "Cassandra",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "cassandra|06HL4z0CvFAxyc27GXpf02|240205",
   song: "song/taylor-swift-cassandra",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionWiHLiTTrackByTrack
   title: "Wi$h Li$t - Track by Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "wihlittrackbytrack|06HL4z0CvFAxyc27GXpf02|38107",
   song: "song/taylor-swift-wi-h-li-t-track-by-track",
   carriedBy: [

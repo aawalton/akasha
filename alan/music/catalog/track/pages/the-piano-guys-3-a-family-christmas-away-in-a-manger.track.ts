@@ -13,9 +13,9 @@ export const thePianoGuys3AFamilyChristmasAwayInAManger = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0IyFf7sJynolp1a7Ck79u9", artistName: "William J. Kirkpatrick" },
-    { externalId: "1U5zgr455OGyIkLNXvDdrf", artistName: "Traditional" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
+    { artistName: "William J. Kirkpatrick" },
+    { artistName: "Traditional" },
+    { artist: "artist/the-piano-guys" },
   ],
   trackKey:
     "awayinamanger|0IyFf7sJynolp1a7Ck79u9,0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|191896",

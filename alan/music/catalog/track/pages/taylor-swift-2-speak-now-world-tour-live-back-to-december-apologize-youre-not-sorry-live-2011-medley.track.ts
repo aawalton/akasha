@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveBackToDecemberApologizeYoureNotSor
   title: "Back To December/Apologize/You're Not Sorry - Live/2011/Medley",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "backtodecemberapologizeyourenotsorrylive2011medley|06HL4z0CvFAxyc27GXpf02|362826",
   song: "song/taylor-swift-back-to-december-apologize-youre-not-sorry",
   carriedBy: [

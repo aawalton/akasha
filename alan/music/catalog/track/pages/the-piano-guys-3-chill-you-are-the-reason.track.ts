@@ -16,10 +16,7 @@ export const thePianoGuys3ChillYouAreTheReason = {
   title: "You Are The Reason",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "5vvlfKQdn6amTImsjy9Si5", artistName: "Dallas String Quartet" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Dallas String Quartet" }],
   trackKey: "youarethereason|0jW6R8CVyVohuUJVcuweDI,5vvlfKQdn6amTImsjy9Si5|235230",
   song: "song/the-piano-guys-you-are-the-reason",
   carriedBy: [

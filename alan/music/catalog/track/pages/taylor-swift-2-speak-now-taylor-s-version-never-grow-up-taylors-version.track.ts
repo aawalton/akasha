@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionNeverGrowUpTaylorsVersion = {
   title: "Never Grow Up (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "nevergrowuptaylorsversion|06HL4z0CvFAxyc27GXpf02|292920",
   song: "song/taylor-swift-never-grow-up",
   carriedBy: [

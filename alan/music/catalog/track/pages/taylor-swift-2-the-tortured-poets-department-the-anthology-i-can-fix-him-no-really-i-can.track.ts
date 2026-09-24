@@ -15,7 +15,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyICanFixHimNoReall
   title: "I Can Fix Him (No Really I Can)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "icanfixhimnoreallyican|06HL4z0CvFAxyc27GXpf02|156297",
   song: "song/taylor-swift-i-can-fix-him-no-really-i-can",
   carriedBy: [

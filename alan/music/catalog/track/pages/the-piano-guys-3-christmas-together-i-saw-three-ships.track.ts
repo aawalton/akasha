@@ -12,7 +12,7 @@ export const thePianoGuys3ChristmasTogetherISawThreeShips = {
   title: "I Saw Three Ships",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "isawthreeships|0jW6R8CVyVohuUJVcuweDI|162062",
   song: "song/the-piano-guys-i-saw-three-ships",
   carriedBy: [

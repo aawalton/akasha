@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2022AdhdNeedsANewName = {
   title: "ADHD Needs A New Name",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "adhdneedsanewname|6tITG4T8LpC0msapZ4wXGA|149856",
   song: "song/the-holderness-family-adhd-needs-a-new-name",
   carriedBy: [

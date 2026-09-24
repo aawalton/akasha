@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionHoneyTrackByTrack 
   title: "Honey - Track by Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "honeytrackbytrack|06HL4z0CvFAxyc27GXpf02|42052",
   song: "song/taylor-swift-honey-track-by-track",
   carriedBy: [

@@ -18,7 +18,7 @@ export const thePianoGuys3LullabyJesuJoy = {
   title: "Jesu Joy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "jesujoy|0jW6R8CVyVohuUJVcuweDI|196153",
   song: "song/the-piano-guys-jesu-joy",
   carriedBy: [

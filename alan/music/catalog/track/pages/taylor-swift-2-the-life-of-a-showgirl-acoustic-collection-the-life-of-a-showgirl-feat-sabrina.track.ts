@@ -16,10 +16,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionTheLifeOfAShowgirlF
   title: "The Life of a Showgirl (feat. Sabrina Carpenter)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artist: "artist/sabrina-carpenter" }],
   trackKey:
     "thelifeofashowgirlfeatsabrinacarpenter|06HL4z0CvFAxyc27GXpf02,74KM79TiuVKeVCqs8QtB0B|241766",
   song: "song/taylor-swift-the-life-of-a-showgirl",

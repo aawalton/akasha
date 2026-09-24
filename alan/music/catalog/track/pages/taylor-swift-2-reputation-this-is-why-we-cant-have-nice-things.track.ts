@@ -12,7 +12,7 @@ export const taylorSwift2ReputationThisIsWhyWeCantHaveNiceThings = {
   title: "This Is Why We Can't Have Nice Things",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thisiswhywecanthavenicethings|06HL4z0CvFAxyc27GXpf02|207133",
   song: "song/taylor-swift-this-is-why-we-can-t-have-nice-things",
   carriedBy: [

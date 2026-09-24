@@ -12,7 +12,7 @@ export const theHoldernessFamilyTheGreatestHitsVolOneGetOutTheDoor = {
   title: "Get Out the Door",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "getoutthedoor|6tITG4T8LpC0msapZ4wXGA|127164",
   song: "song/the-holderness-family-get-out-the-door",
   carriedBy: [

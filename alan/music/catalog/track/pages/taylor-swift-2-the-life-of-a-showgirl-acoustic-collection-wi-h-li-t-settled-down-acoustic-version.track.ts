@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionWiHLiTSettledDownAc
   title: "Wi$h Li$t - Settled Down Acoustic Version",
   trackType: "acoustic",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "wihlitsettleddownacousticversion|06HL4z0CvFAxyc27GXpf02|210912",
   song: "song/taylor-swift-wi-h-li-t",
   carriedBy: [

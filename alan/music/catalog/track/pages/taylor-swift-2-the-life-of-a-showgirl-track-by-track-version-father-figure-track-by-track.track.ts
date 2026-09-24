@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionFatherFigureTrackB
   title: "Father Figure - Track by Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "fatherfiguretrackbytrack|06HL4z0CvFAxyc27GXpf02|32838",
   song: "song/taylor-swift-father-figure-track-by-track",
   carriedBy: [

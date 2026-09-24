@@ -12,7 +12,7 @@ export const theHoldernessFamilyTheGreatestHitsVolOneImForty = {
   title: "I'm Forty",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "imforty|6tITG4T8LpC0msapZ4wXGA|144039",
   song: "song/the-holderness-family-im-forty",
   carriedBy: [

@@ -16,7 +16,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistWelcomeToNewYo
   title: "Welcome To New York",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "welcometonewyork|06HL4z0CvFAxyc27GXpf02|212600",
   song: "song/taylor-swift-welcome-to-new-york",
   carriedBy: [

@@ -12,10 +12,7 @@ export const thePianoGuys3AFamilyChristmasAngelsWeHaveHeardOnHigh = {
   title: "Angels We Have Heard on High",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1U5zgr455OGyIkLNXvDdrf", artistName: "Traditional" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-  ],
+  trackArtist: [{ artistName: "Traditional" }, { artist: "artist/the-piano-guys" }],
   trackKey: "angelswehaveheardonhigh|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|212741",
   song: "song/the-piano-guys-angels-we-have-heard-on-high",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowDeluxeEditionMinePopMix = {
   title: "Mine - POP Mix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "minepopmix|06HL4z0CvFAxyc27GXpf02|230333",
   song: "song/taylor-swift-mine",
   carriedBy: [

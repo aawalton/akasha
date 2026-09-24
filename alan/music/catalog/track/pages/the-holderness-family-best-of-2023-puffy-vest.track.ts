@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2023PuffyVest = {
   title: "Puffy Vest",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "puffyvest|6tITG4T8LpC0msapZ4wXGA|115103",
   song: "song/the-holderness-family-puffy-vest",
   carriedBy: [

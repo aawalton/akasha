@@ -12,7 +12,7 @@ export const taylorSwift2SweeterThanFictionSweeterThanFictionFromOneChanceSoundt
   title: 'Sweeter Than Fiction - From "One Chance" Soundtrack',
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "sweeterthanfictionfromonechancesoundtrack|06HL4z0CvFAxyc27GXpf02|237640",
   song: "song/taylor-swift-sweeter-than-fiction-from-one-chance-soundtrack",
   carriedBy: [

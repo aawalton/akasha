@@ -16,7 +16,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionHoney = {
   title: "Honey",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "honey|06HL4z0CvFAxyc27GXpf02|181534",
   song: "song/taylor-swift-honey",
   carriedBy: [

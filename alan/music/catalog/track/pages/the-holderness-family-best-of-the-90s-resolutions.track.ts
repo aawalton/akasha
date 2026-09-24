@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe90sResolutions = {
   title: "Resolutions",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "resolutions|6tITG4T8LpC0msapZ4wXGA|182047",
   song: "song/the-holderness-family-resolutions",
   carriedBy: [

@@ -12,7 +12,7 @@ export const thePianoGuys3LimitlessAMillionDreams = {
   title: "A Million Dreams",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "amilliondreams|0jW6R8CVyVohuUJVcuweDI|285837",
   song: "song/evynne-hollens-a-million-dreams",
   carriedBy: [

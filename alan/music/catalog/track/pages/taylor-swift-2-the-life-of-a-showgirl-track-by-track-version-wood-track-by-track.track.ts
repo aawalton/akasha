@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionWoodTrackByTrack =
   title: "Wood - Track by Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "woodtrackbytrack|06HL4z0CvFAxyc27GXpf02|30142",
   song: "song/taylor-swift-wood-track-by-track",
   carriedBy: [

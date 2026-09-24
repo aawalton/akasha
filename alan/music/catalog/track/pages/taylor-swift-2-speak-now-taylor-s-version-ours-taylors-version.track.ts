@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionOursTaylorsVersion = {
   title: "Ours (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ourstaylorsversion|06HL4z0CvFAxyc27GXpf02|235803",
   song: "song/taylor-swift-ours",
   carriedBy: [

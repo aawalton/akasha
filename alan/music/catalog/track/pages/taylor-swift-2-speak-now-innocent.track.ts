@@ -15,7 +15,7 @@ export const taylorSwift2SpeakNowInnocent = {
   title: "Innocent",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "innocent|06HL4z0CvFAxyc27GXpf02|302253",
   song: "song/taylor-swift-innocent",
   carriedBy: [

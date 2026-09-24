@@ -15,7 +15,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheSmallestManWho
   title: "The Smallest Man Who Ever Lived",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thesmallestmanwhoeverlived|06HL4z0CvFAxyc27GXpf02|245541",
   song: "song/taylor-swift-the-smallest-man-who-ever-lived",
   carriedBy: [

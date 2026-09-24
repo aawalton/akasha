@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyThankYouAimee = {
   title: "thanK you aIMee",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thankyouaimee|06HL4z0CvFAxyc27GXpf02|263817",
   song: "song/taylor-swift-thank-you-aimee",
   carriedBy: [

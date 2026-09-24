@@ -12,7 +12,7 @@ export const taylorSwift2Willow90STrendRemixWillow90sTrendRemix = {
   title: "willow - 90's trend remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "willow90strendremix|06HL4z0CvFAxyc27GXpf02|225106",
   song: "song/taylor-swift-willow",
   carriedBy: [

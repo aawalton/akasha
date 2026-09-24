@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputationDontBlameMeKaraokeVersion =
   title: "Don't Blame Me - Karaoke Version",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dontblamemekaraokeversion|06HL4z0CvFAxyc27GXpf02|236413",
   song: "song/taylor-swift-don-t-blame-me",
   carriedBy: [

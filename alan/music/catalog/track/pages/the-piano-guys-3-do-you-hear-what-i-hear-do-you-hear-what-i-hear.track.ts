@@ -12,7 +12,7 @@ export const thePianoGuys3DoYouHearWhatIHearDoYouHearWhatIHear = {
   title: "Do You Hear What I Hear?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "doyouhearwhatihear|0jW6R8CVyVohuUJVcuweDI|200217",
   song: "song/the-piano-guys-do-you-hear-what-i-hear",
   carriedBy: [

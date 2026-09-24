@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOneEndOfTheRoll = {
   title: "End of the Roll",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "endoftheroll|6tITG4T8LpC0msapZ4wXGA|291108",
   song: "song/the-holderness-family-end-of-the-roll",
   carriedBy: [

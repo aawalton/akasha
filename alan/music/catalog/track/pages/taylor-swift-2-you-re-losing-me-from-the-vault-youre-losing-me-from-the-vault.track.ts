@@ -12,7 +12,7 @@ export const taylorSwift2YouReLosingMeFromTheVaultYoureLosingMeFromTheVault = {
   title: "You’re Losing Me (From The Vault)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "yourelosingmefromthevault|06HL4z0CvFAxyc27GXpf02|277831",
   song: "song/taylor-swift-youre-losing-me-from-the-vault",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveLongLiveLive2011 = {
   title: "Long Live - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "longlivelive2011|06HL4z0CvFAxyc27GXpf02|376466",
   song: "song/taylor-swift-long-live",
   carriedBy: [

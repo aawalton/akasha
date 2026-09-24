@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyILookInPeoplesWin
   title: "I Look in People's Windows",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ilookinpeopleswindows|06HL4z0CvFAxyc27GXpf02|131907",
   song: "song/taylor-swift-i-look-in-people-s-windows",
   carriedBy: [

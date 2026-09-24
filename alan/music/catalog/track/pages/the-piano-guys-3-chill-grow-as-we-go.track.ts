@@ -13,9 +13,9 @@ export const thePianoGuys3ChillGrowAsWeGo = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "2LpGg3qukmprl5BSlBk6HM", artistName: "Sarah Schmidt" },
-    { externalId: "0rNPZyO8TwKKCnysRUzksl", artistName: "Lucy Nelson" },
+    { artist: "artist/the-piano-guys" },
+    { artistName: "Sarah Schmidt" },
+    { artistName: "Lucy Nelson" },
   ],
   trackKey:
     "growaswego|0jW6R8CVyVohuUJVcuweDI,0rNPZyO8TwKKCnysRUzksl,2LpGg3qukmprl5BSlBk6HM|258888",

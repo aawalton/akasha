@@ -12,10 +12,7 @@ export const thePianoGuys3AFamilyChristmasOComeOComeEmmanuel = {
   title: "O Come, O Come, Emmanuel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1U5zgr455OGyIkLNXvDdrf", artistName: "Traditional" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-  ],
+  trackArtist: [{ artistName: "Traditional" }, { artist: "artist/the-piano-guys" }],
   trackKey: "ocomeocomeemmanuel|0jW6R8CVyVohuUJVcuweDI,1U5zgr455OGyIkLNXvDdrf|305108",
   song: "song/kelly-clarkson-o-come-o-come-emmanuel",
   carriedBy: [

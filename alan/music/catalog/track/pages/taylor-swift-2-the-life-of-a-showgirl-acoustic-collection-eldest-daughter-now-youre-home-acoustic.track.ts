@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionEldestDaughterNowYo
   title: "Eldest Daughter - Now You’re Home Acoustic Version",
   trackType: "acoustic",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "eldestdaughternowyourehomeacousticversion|06HL4z0CvFAxyc27GXpf02|244363",
   song: "song/taylor-swift-eldest-daughter",
   carriedBy: [

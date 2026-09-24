@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2023DaddyCantSee = {
   title: "Daddy Can't See",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "daddycantsee|6tITG4T8LpC0msapZ4wXGA|126888",
   song: "song/the-holderness-family-daddy-cant-see",
   carriedBy: [

@@ -15,7 +15,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyButDaddyILoveHim 
   title: "But Daddy I Love Him",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "butdaddyilovehim|06HL4z0CvFAxyc27GXpf02|340428",
   song: "song/taylor-swift-but-daddy-i-love-him",
   carriedBy: [

@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe2000sFallOrNothingAtAll = {
   title: "Fall or Nothing At All",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "fallornothingatall|6tITG4T8LpC0msapZ4wXGA|240288",
   song: "song/the-holderness-family-fall-or-nothing-at-all",
   carriedBy: [

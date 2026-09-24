@@ -12,10 +12,7 @@ export const thePianoGuys3MainTitleFromJurassicParkJurassicParkTheme = {
   title: "Jurassic Park Theme",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3dRfiJ2650SZu6GbydcHNb", artistName: "John Williams" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-  ],
+  trackArtist: [{ artistName: "John Williams" }, { artist: "artist/the-piano-guys" }],
   trackKey: "jurassicparktheme|0jW6R8CVyVohuUJVcuweDI,3dRfiJ2650SZu6GbydcHNb|235868",
   song: "song/the-piano-guys-jurassic-park-theme",
   carriedBy: [

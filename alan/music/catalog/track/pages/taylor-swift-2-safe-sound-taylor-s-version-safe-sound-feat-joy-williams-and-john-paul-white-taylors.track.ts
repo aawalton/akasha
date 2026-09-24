@@ -16,9 +16,9 @@ export const taylorSwift2SafeSoundTaylorSVersionSafeSoundFeatJoyWilliamsAndJohnP
   trackType: "version",
   explicit: false,
   trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "4TCXgdDPm10ensLNCVnIYa", artistName: "Joy Williams" },
-    { externalId: "1yDI9pWnlrJmi9kZn3gkCb", artistName: "John Paul White" },
+    { artist: "artist/taylor-swift" },
+    { artistName: "Joy Williams" },
+    { artistName: "John Paul White" },
   ],
   trackKey:
     "safesoundfeatjoywilliamsandjohnpaulwhitetaylorsversion|06HL4z0CvFAxyc27GXpf02,1yDI9pWnlrJmi9kZn3gkCb,4TCXgdDPm10ensLNCVnIYa|239668",

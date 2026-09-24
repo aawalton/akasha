@@ -17,7 +17,7 @@ export const thePianoGuys3LullabyYoullBeInMyHeart = {
   title: "You'll Be In My Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "youllbeinmyheart|0jW6R8CVyVohuUJVcuweDI|247409",
   song: "song/the-piano-guys-youll-be-in-my-heart",
   carriedBy: [

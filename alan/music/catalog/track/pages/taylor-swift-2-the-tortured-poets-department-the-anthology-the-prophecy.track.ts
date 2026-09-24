@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheProphecy = {
   title: "The Prophecy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "theprophecy|06HL4z0CvFAxyc27GXpf02|249807",
   song: "song/taylor-swift-the-prophecy",
   carriedBy: [

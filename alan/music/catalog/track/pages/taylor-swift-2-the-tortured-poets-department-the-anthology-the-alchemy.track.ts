@@ -15,7 +15,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheAlchemy = {
   title: "The Alchemy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thealchemy|06HL4z0CvFAxyc27GXpf02|196900",
   song: "song/taylor-swift-the-alchemy",
   carriedBy: [

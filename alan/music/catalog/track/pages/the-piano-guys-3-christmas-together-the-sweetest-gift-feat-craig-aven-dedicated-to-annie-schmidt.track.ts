@@ -12,10 +12,7 @@ export const thePianoGuys3ChristmasTogetherTheSweetestGiftFeatCraigAvenDedicated
   title: "The Sweetest Gift (feat. Craig Aven) - Dedicated to Annie Schmidt",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "5gkAJbXodeD5sDQMdoBTrK", artistName: "Craig Aven" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Craig Aven" }],
   trackKey:
     "thesweetestgiftfeatcraigavendedicatedtoannieschmidt|0jW6R8CVyVohuUJVcuweDI,5gkAJbXodeD5sDQMdoBTrK|300062",
   song: "song/the-piano-guys-the-sweetest-gift-dedicated-to-annie-schmidt",

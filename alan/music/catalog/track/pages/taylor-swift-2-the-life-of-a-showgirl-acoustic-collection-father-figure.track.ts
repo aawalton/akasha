@@ -16,7 +16,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionFatherFigure = {
   title: "Father Figure",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "fatherfigure|06HL4z0CvFAxyc27GXpf02|212777",
   song: "song/taylor-swift-father-figure",
   carriedBy: [

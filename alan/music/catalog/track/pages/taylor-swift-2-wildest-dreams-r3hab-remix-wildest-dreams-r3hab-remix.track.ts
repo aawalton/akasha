@@ -12,10 +12,7 @@ export const taylorSwift2WildestDreamsR3habRemixWildestDreamsR3habRemix = {
   title: "Wildest Dreams - R3hab Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6cEuCEZu7PAE9ZSzLLc2oQ", artistName: "R3HAB" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "R3HAB" }],
   trackKey: "wildestdreamsr3habremix|06HL4z0CvFAxyc27GXpf02,6cEuCEZu7PAE9ZSzLLc2oQ|198106",
   song: "song/taylor-swift-wildest-dreams",
   carriedBy: [

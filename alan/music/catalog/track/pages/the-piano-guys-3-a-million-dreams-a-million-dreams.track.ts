@@ -13,9 +13,9 @@ export const thePianoGuys3AMillionDreamsAMillionDreams = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0qKRRwXdVtrVIEdPFr8vvo", artistName: "Benj Pasek" },
-    { externalId: "1A2uplrPcSu6bqDaRp7Xs9", artistName: "Justin Paul" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
+    { artistName: "Benj Pasek" },
+    { artistName: "Justin Paul" },
+    { artist: "artist/the-piano-guys" },
   ],
   trackKey:
     "amilliondreams|0jW6R8CVyVohuUJVcuweDI,0qKRRwXdVtrVIEdPFr8vvo,1A2uplrPcSu6bqDaRp7Xs9|285837",

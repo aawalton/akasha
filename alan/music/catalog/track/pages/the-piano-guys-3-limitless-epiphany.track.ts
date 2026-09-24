@@ -12,7 +12,7 @@ export const thePianoGuys3LimitlessEpiphany = {
   title: "Epiphany",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "epiphany|0jW6R8CVyVohuUJVcuweDI|281999",
   song: "song/the-piano-guys-epiphany",
   carriedBy: [

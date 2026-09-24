@@ -13,9 +13,9 @@ export const thePianoGuys3AFamilyChristmasWinterWind = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "67CqEIMpWuNb6MnpTKjlFv", artistName: "Steven Sharp Nelson" },
-    { externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
+    { artistName: "Steven Sharp Nelson" },
+    { artistName: "Jon Schmidt" },
+    { artist: "artist/the-piano-guys" },
   ],
   trackKey:
     "winterwind|0jW6R8CVyVohuUJVcuweDI,2YQ4MY2VwOMv43C0GemUY5,67CqEIMpWuNb6MnpTKjlFv|266725",

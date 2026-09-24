@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftPictureToBurn = {
   title: "Picture To Burn",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "picturetoburn|06HL4z0CvFAxyc27GXpf02|173066",
   song: "song/taylor-swift-picture-to-burn",
   carriedBy: [

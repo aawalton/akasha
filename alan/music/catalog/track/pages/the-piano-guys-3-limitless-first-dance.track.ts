@@ -12,7 +12,7 @@ export const thePianoGuys3LimitlessFirstDance = {
   title: "First Dance",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "firstdance|0jW6R8CVyVohuUJVcuweDI|276363",
   song: "song/the-piano-guys-first-dance",
   carriedBy: [

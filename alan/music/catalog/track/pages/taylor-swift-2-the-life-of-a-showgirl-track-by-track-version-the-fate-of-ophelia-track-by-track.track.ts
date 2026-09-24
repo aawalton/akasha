@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionTheFateOfOpheliaTr
   title: "The Fate of Ophelia - Track by Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thefateofopheliatrackbytrack|06HL4z0CvFAxyc27GXpf02|41648",
   song: "song/taylor-swift-the-fate-of-ophelia-track-by-track",
   carriedBy: [

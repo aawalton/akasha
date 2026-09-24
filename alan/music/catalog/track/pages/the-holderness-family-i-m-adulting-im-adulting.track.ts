@@ -12,7 +12,7 @@ export const theHoldernessFamilyIMAdultingImAdulting = {
   title: "I'm Adulting",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "imadulting|6tITG4T8LpC0msapZ4wXGA|162037",
   song: "song/the-holderness-family-im-adulting",
   carriedBy: [

@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe2000sShoesYourself = {
   title: "Shoes Yourself",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "shoesyourself|6tITG4T8LpC0msapZ4wXGA|97128",
   song: "song/the-holderness-family-shoes-yourself",
   carriedBy: [

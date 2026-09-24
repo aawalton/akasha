@@ -12,10 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionCastlesCrumblingFeatHayleyWilliam
   title: "Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6Rx1JKzBrSzoKQtmbVmBnM", artistName: "Hayley Williams" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Hayley Williams" }],
   trackKey:
     "castlescrumblingfeathayleywilliamstaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02,6Rx1JKzBrSzoKQtmbVmBnM|306062",
   song: "song/taylor-swift-castles-crumbling-from-the-vault",

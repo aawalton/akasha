@@ -12,10 +12,7 @@ export const taylorSwift2YouNeedToCalmDownCleanBanditRemixYouNeedToCalmDownClean
   title: "You Need To Calm Down - Clean Bandit Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "6MDME20pz9RveH9rEXvrOM", artistName: "Clean Bandit" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "Clean Bandit" }],
   trackKey:
     "youneedtocalmdowncleanbanditremix|06HL4z0CvFAxyc27GXpf02,6MDME20pz9RveH9rEXvrOM|152773",
   song: "song/taylor-swift-you-need-to-calm-down",

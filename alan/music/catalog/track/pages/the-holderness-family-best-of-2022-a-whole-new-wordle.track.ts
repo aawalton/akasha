@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2022AWholeNewWordle = {
   title: "A Whole New Wordle",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "awholenewwordle|6tITG4T8LpC0msapZ4wXGA|155808",
   song: "song/the-holderness-family-a-whole-new-wordle",
   carriedBy: [

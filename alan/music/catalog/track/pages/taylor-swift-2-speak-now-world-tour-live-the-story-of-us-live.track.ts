@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveTheStoryOfUsLive = {
   title: "The Story Of Us - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thestoryofuslive|06HL4z0CvFAxyc27GXpf02|290520",
   song: "song/taylor-swift-the-story-of-us",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveHauntedLive2011 = {
   title: "Haunted - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "hauntedlive2011|06HL4z0CvFAxyc27GXpf02|292426",
   song: "song/taylor-swift-haunted",
   carriedBy: [

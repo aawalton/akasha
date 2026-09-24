@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe80sPollenInTheAir = {
   title: "Pollen in the Air",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "pollenintheair|6tITG4T8LpC0msapZ4wXGA|119012",
   song: "song/the-holderness-family-pollen-in-the-air",
   carriedBy: [

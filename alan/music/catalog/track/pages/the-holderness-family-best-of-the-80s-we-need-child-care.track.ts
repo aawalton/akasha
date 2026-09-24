@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe80sWeNeedChildCare = {
   title: "We Need Child Care",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "weneedchildcare|6tITG4T8LpC0msapZ4wXGA|79020",
   song: "song/the-holderness-family-we-need-child-care",
   carriedBy: [

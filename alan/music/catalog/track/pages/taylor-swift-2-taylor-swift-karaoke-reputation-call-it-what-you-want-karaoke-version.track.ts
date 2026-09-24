@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputationCallItWhatYouWantKaraokeVer
   title: "Call It What You Want - Karaoke Version",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "callitwhatyouwantkaraokeversion|06HL4z0CvFAxyc27GXpf02|202173",
   song: "song/taylor-swift-call-it-what-you-want",
   carriedBy: [

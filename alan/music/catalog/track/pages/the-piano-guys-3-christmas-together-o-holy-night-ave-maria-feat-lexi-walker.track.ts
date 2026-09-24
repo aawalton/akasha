@@ -12,10 +12,7 @@ export const thePianoGuys3ChristmasTogetherOHolyNightAveMariaFeatLexiWalker = {
   title: "O Holy Night / Ave Maria (feat. Lexi Walker)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "6C2Jmyv6fdiRAbcadxmNtS", artistName: "Lexi Walker" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Lexi Walker" }],
   trackKey: "oholynightavemariafeatlexiwalker|0jW6R8CVyVohuUJVcuweDI,6C2Jmyv6fdiRAbcadxmNtS|317750",
   song: "song/the-piano-guys-o-holy-night-ave-maria",
   carriedBy: [

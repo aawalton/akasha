@@ -13,10 +13,10 @@ export const thePianoGuys3MoreThanWordsMoreThanWords = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "5aIqB5nVVvmFsvSdExz408", artistName: "Johann Sebastian Bach" },
-    { externalId: "3konlNIREmuxZRIFKSPKmK", artistName: "Nuno Bettencourt" },
-    { externalId: "703RcPLoxfMOHihd6uJxSd", artistName: "Gary Cherone" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
+    { artistName: "Johann Sebastian Bach" },
+    { artistName: "Nuno Bettencourt" },
+    { artistName: "Gary Cherone" },
+    { artist: "artist/the-piano-guys" },
   ],
   trackKey:
     "morethanwords|0jW6R8CVyVohuUJVcuweDI,3konlNIREmuxZRIFKSPKmK,5aIqB5nVVvmFsvSdExz408,703RcPLoxfMOHihd6uJxSd|235880",

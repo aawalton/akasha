@@ -12,7 +12,7 @@ export const theHoldernessFamilyTheGreatestHitsVolOneYoureWelcome = {
   title: "You're Welcome",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "yourewelcome|6tITG4T8LpC0msapZ4wXGA|142027",
   song: "song/the-holderness-family-youre-welcome",
   carriedBy: [

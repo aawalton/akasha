@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuys2BeginAgain = {
   title: "Begin Again",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "beginagain|0jW6R8CVyVohuUJVcuweDI|249250",
   song: "song/taylor-swift-begin-again",
   carriedBy: [

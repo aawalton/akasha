@@ -12,7 +12,7 @@ export const thePianoGuys3ChillJupiter = {
   title: "Jupiter",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "jupiter|0jW6R8CVyVohuUJVcuweDI|193433",
   song: "song/the-piano-guys-jupiter",
   carriedBy: [

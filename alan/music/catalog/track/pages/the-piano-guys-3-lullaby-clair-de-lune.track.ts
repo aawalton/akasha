@@ -17,7 +17,7 @@ export const thePianoGuys3LullabyClairDeLune = {
   title: "Clair de Lune",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "clairdelune|0jW6R8CVyVohuUJVcuweDI|192481",
   song: "song/the-piano-guys-clair-de-lune",
   carriedBy: [

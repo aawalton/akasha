@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOneDoYouWantTo = {
   title: "Do You Want To...",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "doyouwantto|6tITG4T8LpC0msapZ4wXGA|185469",
   song: "song/the-holderness-family-do-you-want-to",
   carriedBy: [

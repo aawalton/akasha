@@ -15,11 +15,11 @@ export const thePianoGuys3TuyaEsLaGloriaArrForChoirOrchestraSoloCelloAndPianoByM
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "1U5zgr455OGyIkLNXvDdrf", artistName: "Traditional" },
-    { externalId: "1GRl6sRyLg9ToOohIE2wW5", artistName: "The Tabernacle Choir at Temple Square" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "4kAIRZipPTtTbZBTudxcEA", artistName: "Orchestra at Temple Square" },
-    { externalId: "2Zpql3RdMQjunbDKk1bIiz", artistName: "Mack Wilberg" },
+    { artistName: "Traditional" },
+    { artist: "artist/the-tabernacle-choir-at-temple-square" },
+    { artist: "artist/the-piano-guys" },
+    { artistName: "Orchestra at Temple Square" },
+    { artistName: "Mack Wilberg" },
   ],
   trackKey:
     "tuyaeslagloriaarrforchoirorchestrasolocelloandpianobymackwilberg|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5,1U5zgr455OGyIkLNXvDdrf,2Zpql3RdMQjunbDKk1bIiz,4kAIRZipPTtTbZBTudxcEA|237031",

@@ -12,10 +12,7 @@ export const thePianoGuys3LiveAThousandYearsLive = {
   title: "A Thousand Years (Live)",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "3behdijGrqvmGolVpLXTLz", artistName: "Julie Nelson" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Julie Nelson" }],
   trackKey: "athousandyearslive|0jW6R8CVyVohuUJVcuweDI,3behdijGrqvmGolVpLXTLz|278640",
   song: "song/evynne-hollens-a-thousand-years",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftAPlaceInThisWorld = {
   title: "A Place in this World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "aplaceinthisworld|06HL4z0CvFAxyc27GXpf02|199200",
   song: "song/taylor-swift-a-place-in-this-world",
   carriedBy: [

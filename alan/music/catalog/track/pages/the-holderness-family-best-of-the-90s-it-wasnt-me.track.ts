@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe90sItWasntMe = {
   title: "It Wasn't Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "itwasntme|6tITG4T8LpC0msapZ4wXGA|109662",
   song: "song/the-holderness-family-it-wasnt-me",
   carriedBy: [

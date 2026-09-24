@@ -13,9 +13,9 @@ export const thePianoGuys3ThePianoGuys2BeginAgainFeatMeganNicoleAndAlexGootFeatM
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "3OiVNeHkjQfnikmcBXbplT", artistName: "Megan Nicole" },
-    { externalId: "66Fb5gJ9SX2WGlqDLUpjux", artistName: "Alex Goot" },
+    { artist: "artist/the-piano-guys" },
+    { artistName: "Megan Nicole" },
+    { artistName: "Alex Goot" },
   ],
   trackKey:
     "beginagainfeatmegannicoleandalexgootfeatmegannicolealexgoot|0jW6R8CVyVohuUJVcuweDI,3OiVNeHkjQfnikmcBXbplT,66Fb5gJ9SX2WGlqDLUpjux|249250",

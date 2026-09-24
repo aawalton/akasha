@@ -12,7 +12,7 @@ export const taylorSwift2TheLifeOfAShowgirlTrackByTrackVersionTheLifeOfAShowgirl
   title: "The Life of a Showgirl - Track by Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thelifeofashowgirltrackbytrack|06HL4z0CvFAxyc27GXpf02|72258",
   song: "song/taylor-swift-the-life-of-a-showgirl-track-by-track",
   carriedBy: [

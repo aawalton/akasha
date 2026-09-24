@@ -13,9 +13,9 @@ export const thePianoGuys3LetItSnowWinterWonderlandLetItSnowWinterWonderland = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4us59Bx720z6eLFe7FeoEA", artistName: "Felix Bernard" },
-    { externalId: "3vAPM1qiCuClMH5DNbAgtC", artistName: "Jule Styne" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
+    { artistName: "Felix Bernard" },
+    { artistName: "Jule Styne" },
+    { artist: "artist/the-piano-guys" },
   ],
   trackKey:
     "letitsnowwinterwonderland|0jW6R8CVyVohuUJVcuweDI,3vAPM1qiCuClMH5DNbAgtC,4us59Bx720z6eLFe7FeoEA|204230",

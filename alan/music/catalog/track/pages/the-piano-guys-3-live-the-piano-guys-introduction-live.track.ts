@@ -12,7 +12,7 @@ export const thePianoGuys3LiveThePianoGuysIntroductionLive = {
   title: "The Piano Guys (Introduction) - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "thepianoguysintroductionlive|0jW6R8CVyVohuUJVcuweDI|71360",
   song: "song/the-piano-guys-the-piano-guys-introduction",
   carriedBy: [

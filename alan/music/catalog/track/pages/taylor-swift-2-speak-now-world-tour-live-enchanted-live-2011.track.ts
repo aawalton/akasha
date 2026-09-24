@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveEnchantedLive2011 = {
   title: "Enchanted - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "enchantedlive2011|06HL4z0CvFAxyc27GXpf02|389213",
   song: "song/taylor-swift-enchanted",
   carriedBy: [

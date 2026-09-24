@@ -12,10 +12,7 @@ export const taylorSwift2TheCruelestSummerCruelSummerLpGiobbiRemix = {
   title: "Cruel Summer - LP Giobbi Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" },
-    { externalId: "3oKnyRhYWzNsTiss5n4Z1J", artistName: "LP Giobbi" },
-  ],
+  trackArtist: [{ artist: "artist/taylor-swift" }, { artistName: "LP Giobbi" }],
   trackKey: "cruelsummerlpgiobbiremix|06HL4z0CvFAxyc27GXpf02,3oKnyRhYWzNsTiss5n4Z1J|192900",
   song: "song/taylor-swift-cruel-summer",
   carriedBy: [

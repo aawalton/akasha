@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowDeluxeEditionOurs = {
   title: "Ours",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "ours|06HL4z0CvFAxyc27GXpf02|237920",
   song: "song/taylor-swift-ours",
   carriedBy: [

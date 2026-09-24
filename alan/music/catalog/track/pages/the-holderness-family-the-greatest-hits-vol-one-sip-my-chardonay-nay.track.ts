@@ -12,7 +12,7 @@ export const theHoldernessFamilyTheGreatestHitsVolOneSipMyChardonayNay = {
   title: "Sip My Chardonay-Nay",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "sipmychardonaynay|6tITG4T8LpC0msapZ4wXGA|135549",
   song: "song/the-holderness-family-sip-my-chardonay-nay",
   carriedBy: [

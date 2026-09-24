@@ -12,7 +12,7 @@ export const thePianoGuys3ClassicalMovieSoundtracksAvatarTheTheme = {
   title: "Avatar (The Theme)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "avatarthetheme|0jW6R8CVyVohuUJVcuweDI|205078",
   song: "song/the-piano-guys-avatar-the-theme",
   carriedBy: [

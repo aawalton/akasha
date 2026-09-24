@@ -17,7 +17,7 @@ export const thePianoGuys3MusicBoxDancerMusicBoxDancer = {
   title: "Music Box Dancer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "musicboxdancer|0jW6R8CVyVohuUJVcuweDI|162976",
   song: "song/the-piano-guys-music-box-dancer",
   carriedBy: [

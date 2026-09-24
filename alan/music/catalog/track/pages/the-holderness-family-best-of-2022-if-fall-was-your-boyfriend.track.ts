@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2022IfFallWasYourBoyfriend = {
   title: "If Fall Was Your Boyfriend",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "iffallwasyourboyfriend|6tITG4T8LpC0msapZ4wXGA|201048",
   song: "song/the-holderness-family-if-fall-was-your-boyfriend",
   carriedBy: [

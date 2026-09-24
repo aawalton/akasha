@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionTimelessTaylorsVersionFromTheVaul
   title: "Timeless (Taylor’s Version) (From The Vault)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "timelesstaylorsversionfromthevault|06HL4z0CvFAxyc27GXpf02|321396",
   song: "song/taylor-swift-timeless-from-the-vault",
   carriedBy: [

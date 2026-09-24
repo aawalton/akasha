@@ -12,7 +12,7 @@ export const theHoldernessFamilyWelcomeToTheClubMillennialsWelcomeToTheClubMille
   title: "Welcome to the Club, Millennials",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "welcometotheclubmillennials|6tITG4T8LpC0msapZ4wXGA|158905",
   song: "song/the-holderness-family-welcome-to-the-club-millennials",
   carriedBy: [

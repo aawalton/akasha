@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveDearJohnLive2011 = {
   title: "Dear John - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dearjohnlive2011|06HL4z0CvFAxyc27GXpf02|404680",
   song: "song/taylor-swift-dear-john",
   carriedBy: [

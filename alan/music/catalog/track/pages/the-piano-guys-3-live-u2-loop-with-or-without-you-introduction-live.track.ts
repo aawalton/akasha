@@ -12,7 +12,7 @@ export const thePianoGuys3LiveU2LoopWithOrWithoutYouIntroductionLive = {
   title: 'U2 Loop "With or Without You" (Introduction) - Live',
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "u2loopwithorwithoutyouintroductionlive|0jW6R8CVyVohuUJVcuweDI|40186",
   song: "song/the-piano-guys-u2-loop-with-or-without-you-introduction",
   carriedBy: [

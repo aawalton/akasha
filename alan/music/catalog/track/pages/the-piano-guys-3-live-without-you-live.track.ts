@@ -12,10 +12,7 @@ export const thePianoGuys3LiveWithoutYouLive = {
   title: "Without You (Live)",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "7EIbKyiLnEJ1Y074UIUyZJ", artistName: "Peter Hollens" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Peter Hollens" }],
   trackKey: "withoutyoulive|0jW6R8CVyVohuUJVcuweDI,7EIbKyiLnEJ1Y074UIUyZJ|225413",
   song: "song/the-piano-guys-without-you",
   carriedBy: [

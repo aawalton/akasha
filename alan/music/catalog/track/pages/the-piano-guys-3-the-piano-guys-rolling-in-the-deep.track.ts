@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuysRollingInTheDeep = {
   title: "Rolling in the Deep",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "rollinginthedeep|0jW6R8CVyVohuUJVcuweDI|232132",
   song: "song/the-piano-guys-rolling-in-the-deep",
   carriedBy: [

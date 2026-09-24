@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveBetterThanRevengeLive2011 = {
   title: "Better Than Revenge - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "betterthanrevengelive2011|06HL4z0CvFAxyc27GXpf02|344573",
   song: "song/taylor-swift-better-than-revenge",
   carriedBy: [

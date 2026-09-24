@@ -15,7 +15,7 @@ export const taylorSwift2SpeakNowHaunted = {
   title: "Haunted",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "haunted|06HL4z0CvFAxyc27GXpf02|242080",
   song: "song/taylor-swift-haunted",
   carriedBy: [

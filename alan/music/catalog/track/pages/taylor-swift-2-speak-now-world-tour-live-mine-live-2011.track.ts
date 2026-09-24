@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowWorldTourLiveMineLive2011 = {
   title: "Mine - Live/2011",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "minelive2011|06HL4z0CvFAxyc27GXpf02|259279",
   song: "song/taylor-swift-mine",
   carriedBy: [

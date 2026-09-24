@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2022MidwestVsSouthRapBattle = {
   title: "Midwest vs South Rap Battle",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "midwestvssouthrapbattle|6tITG4T8LpC0msapZ4wXGA|192023",
   song: "song/the-holderness-family-midwest-vs-south-rap-battle",
   carriedBy: [

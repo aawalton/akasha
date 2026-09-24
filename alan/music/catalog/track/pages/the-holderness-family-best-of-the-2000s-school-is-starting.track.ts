@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe2000sSchoolIsStarting = {
   title: "School Is Starting",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "schoolisstarting|6tITG4T8LpC0msapZ4wXGA|106560",
   song: "song/the-holderness-family-school-is-starting",
   carriedBy: [

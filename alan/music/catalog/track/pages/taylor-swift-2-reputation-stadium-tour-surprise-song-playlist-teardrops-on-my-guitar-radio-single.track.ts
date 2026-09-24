@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistTeardropsOnMyG
   title: "Teardrops On My Guitar - Radio Single Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "teardropsonmyguitarradiosingleremix|06HL4z0CvFAxyc27GXpf02|204706",
   song: "song/taylor-swift-teardrops-on-my-guitar",
   carriedBy: [

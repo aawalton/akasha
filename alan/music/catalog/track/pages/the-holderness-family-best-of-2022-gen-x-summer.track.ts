@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2022GenXSummer = {
   title: "Gen X Summer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "genxsummer|6tITG4T8LpC0msapZ4wXGA|176688",
   song: "song/the-holderness-family-gen-x-summer",
   carriedBy: [

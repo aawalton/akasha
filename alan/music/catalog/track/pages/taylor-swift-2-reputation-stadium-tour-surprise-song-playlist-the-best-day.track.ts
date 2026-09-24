@@ -12,7 +12,7 @@ export const taylorSwift2ReputationStadiumTourSurpriseSongPlaylistTheBestDay = {
   title: "The Best Day",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thebestday|06HL4z0CvFAxyc27GXpf02|246306",
   song: "song/taylor-swift-the-best-day",
   carriedBy: [

@@ -16,7 +16,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionCancelled = {
   title: "CANCELLED!",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "cancelled|06HL4z0CvFAxyc27GXpf02|211498",
   song: "song/taylor-swift-cancelled",
   carriedBy: [

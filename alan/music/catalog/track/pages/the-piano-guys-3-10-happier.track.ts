@@ -16,7 +16,7 @@ export const thePianoGuys310Happier = {
   title: "Happier",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "happier|0jW6R8CVyVohuUJVcuweDI|224400",
   song: "song/the-piano-guys-happier",
   carriedBy: [

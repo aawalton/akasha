@@ -15,7 +15,7 @@ export const thePianoGuys310RewriteTheStars = {
   title: "Rewrite the Stars",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "rewritethestars|0jW6R8CVyVohuUJVcuweDI|210240",
   song: "song/the-piano-guys-rewrite-the-stars",
   carriedBy: [

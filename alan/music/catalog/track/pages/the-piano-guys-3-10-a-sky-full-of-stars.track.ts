@@ -12,7 +12,7 @@ export const thePianoGuys310ASkyFullOfStars = {
   title: "A Sky Full of Stars",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "askyfullofstars|0jW6R8CVyVohuUJVcuweDI|245454",
   song: "song/the-piano-guys-a-sky-full-of-stars",
   carriedBy: [

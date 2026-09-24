@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputationKingOfMyHeartKaraokeVersion
   title: "King Of My Heart - Karaoke Version",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "kingofmyheartkaraokeversion|06HL4z0CvFAxyc27GXpf02|214333",
   song: "song/taylor-swift-king-of-my-heart",
   carriedBy: [

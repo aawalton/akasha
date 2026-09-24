@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyTheBolter = {
   title: "The Bolter",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thebolter|06HL4z0CvFAxyc27GXpf02|238241",
   song: "song/taylor-swift-the-bolter",
   carriedBy: [

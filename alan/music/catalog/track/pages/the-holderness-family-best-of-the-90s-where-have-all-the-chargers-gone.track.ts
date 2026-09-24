@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe90sWhereHaveAllTheChargersGone = {
   title: "Where Have All the Chargers Gone?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "wherehaveallthechargersgone|6tITG4T8LpC0msapZ4wXGA|120476",
   song: "song/the-holderness-family-where-have-all-the-chargers-gone",
   carriedBy: [

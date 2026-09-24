@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuys2LordOfTheRings = {
   title: "Lord of the Rings",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "lordoftherings|0jW6R8CVyVohuUJVcuweDI|339375",
   song: "song/the-piano-guys-lord-of-the-rings",
   carriedBy: [

@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe90sLoseMyMind = {
   title: "Lose My Mind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "losemymind|6tITG4T8LpC0msapZ4wXGA|122096",
   song: "song/the-holderness-family-lose-my-mind",
   carriedBy: [

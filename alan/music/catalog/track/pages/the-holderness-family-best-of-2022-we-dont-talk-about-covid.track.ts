@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2022WeDontTalkAboutCovid = {
   title: "We Don't Talk About COVID",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "wedonttalkaboutcovid|6tITG4T8LpC0msapZ4wXGA|160056",
   song: "song/the-holderness-family-we-dont-talk-about-covid",
   carriedBy: [

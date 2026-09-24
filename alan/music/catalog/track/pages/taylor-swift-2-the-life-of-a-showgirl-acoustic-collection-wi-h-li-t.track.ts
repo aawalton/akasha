@@ -16,7 +16,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionWiHLiT = {
   title: "Wi$h Li$t",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "wihlit|06HL4z0CvFAxyc27GXpf02|207349",
   song: "song/taylor-swift-wi-h-li-t",
   carriedBy: [

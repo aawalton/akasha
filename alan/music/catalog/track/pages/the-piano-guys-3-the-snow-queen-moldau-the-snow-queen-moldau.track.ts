@@ -12,7 +12,7 @@ export const thePianoGuys3TheSnowQueenMoldauTheSnowQueenMoldau = {
   title: "The Snow Queen (Moldau)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "thesnowqueenmoldau|0jW6R8CVyVohuUJVcuweDI|295500",
   song: "song/the-piano-guys-the-snow-queen-moldau",
   carriedBy: [

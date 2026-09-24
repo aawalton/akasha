@@ -12,7 +12,7 @@ export const thePianoGuys310SomeoneToYou = {
   title: "Someone To You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "someonetoyou|0jW6R8CVyVohuUJVcuweDI|206600",
   song: "song/the-piano-guys-someone-to-you",
   carriedBy: [

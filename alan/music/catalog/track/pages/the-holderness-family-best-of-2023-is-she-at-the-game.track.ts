@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOf2023IsSheAtTheGame = {
   title: "Is She At The Game?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "issheatthegame|6tITG4T8LpC0msapZ4wXGA|141480",
   song: "song/the-holderness-family-is-she-at-the-game",
   carriedBy: [

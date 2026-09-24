@@ -15,7 +15,7 @@ export const taylorSwift2TheLifeOfAShowgirlAcousticCollectionOpaliteLifeIsASongA
   title: "Opalite - Life Is A Song Acoustic Version",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "opalitelifeisasongacousticversion|06HL4z0CvFAxyc27GXpf02|242738",
   song: "song/taylor-swift-opalite",
   carriedBy: [

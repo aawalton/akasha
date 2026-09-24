@@ -12,7 +12,7 @@ export const taylorSwift2TheCruelestSummerCruelSummerLiveFromTsTheErasTour = {
   title: "Cruel Summer - Live from TS | The Eras Tour",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "cruelsummerlivefromtstheerastour|06HL4z0CvFAxyc27GXpf02|229566",
   song: "song/taylor-swift-cruel-summer",
   carriedBy: [

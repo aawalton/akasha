@@ -12,7 +12,7 @@ export const thePianoGuys3LiveTheMissionHowGreatThouArtLive = {
   title: "The Mission / How Great Thou Art (Live)",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "themissionhowgreatthouartlive|0jW6R8CVyVohuUJVcuweDI|207680",
   song: "song/the-piano-guys-the-mission-how-great-thou-art",
   carriedBy: [

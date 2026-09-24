@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe80sMomShorts = {
   title: "Mom Shorts",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "momshorts|6tITG4T8LpC0msapZ4wXGA|121860",
   song: "song/the-holderness-family-mom-shorts",
   carriedBy: [

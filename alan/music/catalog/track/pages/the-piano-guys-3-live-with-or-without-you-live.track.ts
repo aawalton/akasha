@@ -12,7 +12,7 @@ export const thePianoGuys3LiveWithOrWithoutYouLive = {
   title: "With or Without You (Live)",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "withorwithoutyoulive|0jW6R8CVyVohuUJVcuweDI|293440",
   song: "song/the-piano-guys-with-or-without-you",
   carriedBy: [

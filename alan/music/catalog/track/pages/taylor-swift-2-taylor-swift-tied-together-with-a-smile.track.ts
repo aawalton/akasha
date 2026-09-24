@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftTiedTogetherWithASmile = {
   title: "Tied Together with a Smile",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "tiedtogetherwithasmile|06HL4z0CvFAxyc27GXpf02|248106",
   song: "song/taylor-swift-tied-together-with-a-smile",
   carriedBy: [

@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputationThisIsWhyWeCantHaveNiceThin
   title: "This Is Why We Can't Have Nice Things - Karaoke Version",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thisiswhywecanthavenicethingskaraokeversion|06HL4z0CvFAxyc27GXpf02|205693",
   song: "song/taylor-swift-this-is-why-we-can-t-have-nice-things",
   carriedBy: [

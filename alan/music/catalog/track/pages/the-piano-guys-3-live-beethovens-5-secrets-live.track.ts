@@ -12,7 +12,7 @@ export const thePianoGuys3LiveBeethovens5SecretsLive = {
   title: "Beethoven's 5 Secrets (Live)",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "beethovens5secretslive|0jW6R8CVyVohuUJVcuweDI|323173",
   song: "song/the-piano-guys-beethovens-5-secrets",
   carriedBy: [

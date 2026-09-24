@@ -12,7 +12,7 @@ export const thePianoGuys3BeforeYouGoBeforeYouGo = {
   title: "Before You Go",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "beforeyougo|0jW6R8CVyVohuUJVcuweDI|233035",
   song: "song/the-piano-guys-before-you-go",
   carriedBy: [

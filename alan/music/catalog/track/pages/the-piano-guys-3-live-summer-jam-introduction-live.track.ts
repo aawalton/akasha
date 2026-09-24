@@ -12,7 +12,7 @@ export const thePianoGuys3LiveSummerJamIntroductionLive = {
   title: "Summer Jam (Introduction) - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "summerjamintroductionlive|0jW6R8CVyVohuUJVcuweDI|24106",
   song: "song/the-piano-guys-summer-jam-introduction",
   carriedBy: [

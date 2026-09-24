@@ -18,7 +18,7 @@ export const thePianoGuys3ChillIWillAlwaysLoveYou = {
   title: "I Will Always Love You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "iwillalwaysloveyou|0jW6R8CVyVohuUJVcuweDI|188450",
   song: "song/the-piano-guys-i-will-always-love-you",
   carriedBy: [

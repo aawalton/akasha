@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftTimMcgraw = {
   title: "Tim McGraw",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "timmcgraw|06HL4z0CvFAxyc27GXpf02|232106",
   song: "song/taylor-swift-tim-mcgraw",
   carriedBy: [

@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe2000sItsNotRice = {
   title: "It's Not Rice",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "itsnotrice|6tITG4T8LpC0msapZ4wXGA|179711",
   song: "song/the-holderness-family-its-not-rice",
   carriedBy: [

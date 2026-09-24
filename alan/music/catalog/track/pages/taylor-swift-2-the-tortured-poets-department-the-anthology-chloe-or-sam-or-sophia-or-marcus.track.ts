@@ -12,7 +12,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyChloeOrSamOrSophi
   title: "Chloe or Sam or Sophia or Marcus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "chloeorsamorsophiaormarcus|06HL4z0CvFAxyc27GXpf02|213281",
   song: "song/taylor-swift-chloe-or-sam-or-sophia-or-marcus",
   carriedBy: [

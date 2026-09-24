@@ -15,7 +15,7 @@ export const taylorSwift2TheTorturedPoetsDepartmentTheAnthologyFreshOutTheSlamme
   title: "Fresh Out The Slammer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "freshouttheslammer|06HL4z0CvFAxyc27GXpf02|210789",
   song: "song/taylor-swift-fresh-out-the-slammer",
   carriedBy: [

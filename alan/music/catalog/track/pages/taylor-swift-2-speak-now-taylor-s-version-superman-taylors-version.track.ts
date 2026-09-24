@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionSupermanTaylorsVersion = {
   title: "Superman (Taylor’s Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "supermantaylorsversion|06HL4z0CvFAxyc27GXpf02|274945",
   song: "song/taylor-swift-superman",
   carriedBy: [

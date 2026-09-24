@@ -12,7 +12,7 @@ export const taylorSwift2TheFateOfOpheliaTheChainsmokersRemixTheFateOfOpheliaAlo
   title: "The Fate of Ophelia - Alone In My Tower Acoustic Version",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "thefateofopheliaaloneinmytoweracousticversion|06HL4z0CvFAxyc27GXpf02|225815",
   song: "song/taylor-swift-the-fate-of-ophelia",
   carriedBy: [

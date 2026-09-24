@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftTheOutside = {
   title: "The Outside",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "theoutside|06HL4z0CvFAxyc27GXpf02|207106",
   song: "song/taylor-swift-the-outside",
   carriedBy: [

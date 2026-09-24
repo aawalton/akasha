@@ -12,7 +12,7 @@ export const theHoldernessFamilyBestOfThe2000sComplicated = {
   title: "Complicated",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "complicated|6tITG4T8LpC0msapZ4wXGA|139871",
   song: "song/the-holderness-family-complicated",
   carriedBy: [

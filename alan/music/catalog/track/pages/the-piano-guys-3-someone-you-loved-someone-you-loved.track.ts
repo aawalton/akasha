@@ -15,7 +15,7 @@ export const thePianoGuys3SomeoneYouLovedSomeoneYouLoved = {
   title: "Someone You Loved",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "someoneyouloved|0jW6R8CVyVohuUJVcuweDI|203146",
   song: "song/the-piano-guys-someone-you-loved",
   carriedBy: [

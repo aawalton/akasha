@@ -12,7 +12,7 @@ export const thePianoGuys3PopOnPianoLoseYouToLoveMe = {
   title: "Lose You To Love Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "loseyoutoloveme|0jW6R8CVyVohuUJVcuweDI|297818",
   song: "song/the-piano-guys-lose-you-to-love-me",
   carriedBy: [

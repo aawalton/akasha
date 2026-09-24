@@ -12,7 +12,7 @@ export const taylorSwift2TheTaylorSwiftHolidayCollectionWhiteChristmas = {
   title: "White Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "whitechristmas|06HL4z0CvFAxyc27GXpf02|154000",
   song: "song/taylor-swift-white-christmas",
   carriedBy: [

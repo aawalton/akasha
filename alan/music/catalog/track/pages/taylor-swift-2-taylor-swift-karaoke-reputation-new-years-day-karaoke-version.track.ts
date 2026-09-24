@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputationNewYearsDayKaraokeVersion =
   title: "New Year's Day - Karaoke Version",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "newyearsdaykaraokeversion|06HL4z0CvFAxyc27GXpf02|235506",
   song: "song/taylor-swift-new-year-s-day",
   carriedBy: [

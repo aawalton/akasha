@@ -15,7 +15,7 @@ export const thePianoGuys3GhostRainyDayWaltz = {
   title: "Rainy Day Waltz",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "rainydaywaltz|0jW6R8CVyVohuUJVcuweDI|223927",
   song: "song/the-piano-guys-rainy-day-waltz",
   carriedBy: [

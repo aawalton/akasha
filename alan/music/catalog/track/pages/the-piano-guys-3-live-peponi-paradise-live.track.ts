@@ -12,10 +12,7 @@ export const thePianoGuys3LivePeponiParadiseLive = {
   title: "Peponi (Paradise) [Live]",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "6SraGCznFUAZ3zb4zVe3DM", artistName: "Alex Boyé" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Alex Boyé" }],
   trackKey: "peponiparadiselive|0jW6R8CVyVohuUJVcuweDI,6SraGCznFUAZ3zb4zVe3DM|266693",
   song: "song/the-piano-guys-peponi-paradise",
   carriedBy: [

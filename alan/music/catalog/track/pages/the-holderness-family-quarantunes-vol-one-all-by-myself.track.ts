@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOneAllByMyself = {
   title: "All by Myself",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "allbymyself|6tITG4T8LpC0msapZ4wXGA|148506",
   song: "song/the-holderness-family-all-by-myself",
   carriedBy: [

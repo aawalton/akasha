@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionLastKissTaylorsVersion = {
   title: "Last Kiss (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "lastkisstaylorsversion|06HL4z0CvFAxyc27GXpf02|369120",
   song: "song/taylor-swift-last-kiss",
   carriedBy: [

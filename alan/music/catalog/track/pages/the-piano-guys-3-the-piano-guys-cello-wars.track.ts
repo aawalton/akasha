@@ -12,7 +12,7 @@ export const thePianoGuys3ThePianoGuysCelloWars = {
   title: "Cello Wars",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "cellowars|0jW6R8CVyVohuUJVcuweDI|211953",
   song: "song/the-piano-guys-cello-wars",
   carriedBy: [

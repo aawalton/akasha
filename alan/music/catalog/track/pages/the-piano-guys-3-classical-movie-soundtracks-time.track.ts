@@ -16,7 +16,7 @@ export const thePianoGuys3ClassicalMovieSoundtracksTime = {
   title: "Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "time|0jW6R8CVyVohuUJVcuweDI|252000",
   song: "song/the-piano-guys-time",
   carriedBy: [

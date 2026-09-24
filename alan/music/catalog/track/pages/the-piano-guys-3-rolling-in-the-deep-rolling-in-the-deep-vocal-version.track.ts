@@ -12,10 +12,7 @@ export const thePianoGuys3RollingInTheDeepRollingInTheDeepVocalVersion = {
   title: "Rolling in the Deep (vocal version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "29beZlklJNMaRN3MS40ZYq", artistName: "Amanda Scott" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Amanda Scott" }],
   trackKey: "rollinginthedeepvocalversion|0jW6R8CVyVohuUJVcuweDI,29beZlklJNMaRN3MS40ZYq|240973",
   song: "song/the-piano-guys-rolling-in-the-deep",
   carriedBy: [

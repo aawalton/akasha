@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOneIWantToKnowWhatDayItIs = {
   title: "I Want to Know What Day It Is",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "iwanttoknowwhatdayitis|6tITG4T8LpC0msapZ4wXGA|226638",
   song: "song/the-holderness-family-i-want-to-know-what-day-it-is",
   carriedBy: [

@@ -12,7 +12,7 @@ export const thePianoGuys3LullabyChopsticksLullaby = {
   title: "Chopsticks Lullaby",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "chopstickslullaby|0jW6R8CVyVohuUJVcuweDI|227418",
   song: "song/the-piano-guys-chopsticks-lullaby",
   carriedBy: [

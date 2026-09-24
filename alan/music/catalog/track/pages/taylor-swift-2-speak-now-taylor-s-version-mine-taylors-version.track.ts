@@ -12,7 +12,7 @@ export const taylorSwift2SpeakNowTaylorSVersionMineTaylorsVersion = {
   title: "Mine (Taylor's Version)",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "minetaylorsversion|06HL4z0CvFAxyc27GXpf02|231706",
   song: "song/taylor-swift-mine",
   carriedBy: [

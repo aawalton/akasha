@@ -12,7 +12,7 @@ export const taylorSwift2TaylorSwiftKaraokeReputationDancingWithOurHandsTiedKara
   title: "Dancing With Our Hands Tied - Karaoke Version",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "dancingwithourhandstiedkaraokeversion|06HL4z0CvFAxyc27GXpf02|211493",
   song: "song/taylor-swift-dancing-with-our-hands-tied",
   carriedBy: [

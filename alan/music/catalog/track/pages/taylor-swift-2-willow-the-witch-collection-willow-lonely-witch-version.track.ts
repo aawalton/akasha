@@ -15,7 +15,7 @@ export const taylorSwift2WillowTheWitchCollectionWillowLonelyWitchVersion = {
   title: "willow - lonely witch version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "06HL4z0CvFAxyc27GXpf02", artistName: "Taylor Swift" }],
+  trackArtist: [{ artist: "artist/taylor-swift" }],
   trackKey: "willowlonelywitchversion|06HL4z0CvFAxyc27GXpf02|214653",
   song: "song/taylor-swift-willow",
   carriedBy: [

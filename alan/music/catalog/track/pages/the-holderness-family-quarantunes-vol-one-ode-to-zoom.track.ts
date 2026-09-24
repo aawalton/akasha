@@ -12,7 +12,7 @@ export const theHoldernessFamilyQuarantunesVolOneOdeToZoom = {
   title: "Ode to Zoom",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6tITG4T8LpC0msapZ4wXGA", artistName: "The Holderness Family" }],
+  trackArtist: [{ artist: "artist/the-holderness-family" }],
   trackKey: "odetozoom|6tITG4T8LpC0msapZ4wXGA|178546",
   song: "song/the-holderness-family-ode-to-zoom",
   carriedBy: [

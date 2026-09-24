@@ -16,7 +16,7 @@ export const thePianoGuys3EasyOnMeEasyOnMe = {
   title: "Easy On Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "easyonme|0jW6R8CVyVohuUJVcuweDI|179154",
   song: "song/the-piano-guys-easy-on-me",
   carriedBy: [

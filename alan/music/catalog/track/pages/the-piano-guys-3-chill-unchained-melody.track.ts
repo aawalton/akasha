@@ -20,7 +20,7 @@ export const thePianoGuys3ChillUnchainedMelody = {
   title: "Unchained Melody",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "unchainedmelody|0jW6R8CVyVohuUJVcuweDI|181092",
   song: "song/the-piano-guys-unchained-melody",
   carriedBy: [
