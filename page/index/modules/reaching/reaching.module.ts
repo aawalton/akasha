@@ -120,8 +120,7 @@ export const reaching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A page's `id` and `slug` and `pageTypeSlug` are answered as that page's identity.",
+      statement: "A page's `id` and `slug` and `type` are answered as that page's identity.",
     },
     {
       decisionKind: "decision-kind/departure",
