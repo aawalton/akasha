@@ -109,9 +109,5 @@ export const inFlight = {
       decisionKind: "decision-kind/gap",
       statement: "A tracker counts every request alike rather than counting each path apart.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The old tracker at `tools/lib/model-gateway/gateway.ts` never stopped its timer.",
-    },
   ],
 } as const satisfies Module

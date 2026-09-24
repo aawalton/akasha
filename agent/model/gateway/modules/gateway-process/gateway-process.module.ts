@@ -235,10 +235,5 @@ export const gatewayProcess = {
       decisionKind: "decision-kind/gap",
       statement: "The exit is a seam so nothing here proves the process really ends.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The old entrypoint at `tools/lib/model-gateway/main.ts` exits before a row lands.",
-    },
   ],
 } as const satisfies Module
