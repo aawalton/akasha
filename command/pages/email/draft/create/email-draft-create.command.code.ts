@@ -1,5 +1,6 @@
 import { composedIn } from "akasha/alan/google/email/modules/email-command-reading/email-command-reading.module.code.ts"
-import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
+import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
+import { createDraft } from "akasha/alan/google/email/modules/gmail-drafts/gmail-drafts.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { attach } from "akasha/command/argument/pages/attach.argument.ts"
 import { bcc } from "akasha/command/argument/pages/bcc.argument.ts"
@@ -41,8 +42,6 @@ export function emailDraftCreate(argv: readonly string[], given: Given): Promise
   return answering(async (done) => {
     const composed = await composedIn(given, read.taken)
     if ("why" in composed) return refusedBy(composed.why, INPUT)
-    const google = await emailGoogle()
-    const client = await google.makeGmailClient()
-    return asIndentedJson(await google.createDraft(client, composed.input, done))
+    return asIndentedJson(await createDraft(await makeGmailClient(), composed.input, done))
   })
 }
