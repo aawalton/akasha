@@ -10,7 +10,7 @@ import {
   projectProseRows,
 } from "akasha/story/ui/modules/story-prose-dividers/story-prose-dividers.module.code.ts"
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
-import { Fragment, useMemo } from "react"
+import { Fragment, useEffect, useMemo, useRef } from "react"
 
 const NO_GAME_MASTER = "No game master is listening to this game, so nothing sent here reaches it."
 
@@ -37,6 +37,17 @@ export function PlayedChannel({
     }
     return projectProseRows(turns, options)
   }, [turns, titles, pastTurns])
+  const newestId = rows.at(-1)?.turn.id
+  const newestAt = useRef<HTMLDivElement | null>(null)
+  const newestSeen = useRef<string | null>(null)
+
+  useEffect(() => {
+    if (newestId === undefined) return
+    const seen = newestSeen.current
+    newestSeen.current = newestId
+    if (seen === null || seen === newestId) return
+    newestAt.current?.scrollIntoView({ block: "start", behavior: "smooth" })
+  }, [newestId])
 
   return (
     <div className="flex min-w-0 flex-col gap-6">
@@ -44,7 +55,11 @@ export function PlayedChannel({
         const href = hrefById.get(row.turn.id)
         return (
           <Fragment key={row.turn.id}>
-            {row.newest ? <NewestDivider /> : null}
+            {row.newest ? (
+              <div ref={newestAt} className="scroll-mt-6">
+                <NewestDivider />
+              </div>
+            ) : null}
             <ChapterProse
               title={row.turn.title}
               text={row.turn.text}

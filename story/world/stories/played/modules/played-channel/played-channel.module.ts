@@ -18,6 +18,11 @@ export const playedChannel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A turn arriving while the run is drawn is scrolled to, its ruled line at the top.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "That ruled line is drawn once, so the beats under the run draw no line of their own.",
     },
     {
