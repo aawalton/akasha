@@ -1,6 +1,6 @@
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
-import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { CALLSTACK_MAX_LEN } from "akasha/temper/addon/pages/temper-core/temper-errors/modules/errors-addon-limits/errors-addon-limits.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function sanitizeTraceback(traceback: string): string {
@@ -13,17 +13,17 @@ function sanitizeTraceback(traceback: string): string {
 
 function splitTraceback(errorString: string): { message: string; traceback: string } {
   const [messagePart, tracebackBody] = string.match(errorString, "(.+)\nstack traceback:(.+)")
-  const message = stringIn(messagePart)
-  const traceback = stringIn(tracebackBody)
-  if (message !== null && traceback !== null) {
+  const message = parseLuaCapture(messagePart)
+  const traceback = parseLuaCapture(tracebackBody)
+  if (message !== undefined && traceback !== undefined) {
     return { message, traceback: sanitizeTraceback(`stack traceback:${traceback}`) }
   }
   return { message: errorString, traceback: sanitizeTraceback(errorString) }
 }
 
 function hasVisibleContent(text: string): boolean {
-  const [visible] = string.match(text, "%S")
-  return stringIn(visible) !== null
+  const [visibleAt] = string.find(text, "%S")
+  return visibleAt !== undefined
 }
 
 function handlerSideStack(): string {

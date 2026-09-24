@@ -1,4 +1,3 @@
-import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/catalog/modules/catalog-constants/catalog-constants.module.code.ts"
 import { AUTO_START_DELAY } from "akasha/temper/addon/pages/catalog/modules/datamining-constants/datamining-constants.module.code.ts"
 import {
@@ -18,6 +17,7 @@ import {
   getSavedVariables,
   setSavedVariablesAccessor,
 } from "akasha/temper/addon/pages/catalog/modules/datamining-saved-variables/datamining-saved-variables.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import { DATAMINING_CAPTURE_DESCRIPTOR } from "akasha/temper/capture/datamining/modules/datamining-descriptor/datamining-descriptor.module.code.ts"
 import { defineCaptureWriter } from "akasha/temper/capture/writer/modules/capture-writer/capture-writer.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -71,7 +71,7 @@ defineCaptureWriter(DATAMINING_CAPTURE_DESCRIPTOR, (writer) => {
 
   SLASH_COMMANDS["/temperdatamine"] = function (this: void, args: string): undefined {
     const [matched] = string.match(args, "^%s*(%a+)")
-    const cmd = stringIn(matched)
+    const cmd = parseLuaCapture(matched)
     if (cmd === "start") {
       startMining()
     } else if (cmd === "stop") {

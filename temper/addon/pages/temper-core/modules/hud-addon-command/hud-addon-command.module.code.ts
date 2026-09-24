@@ -3,6 +3,7 @@ import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.
 
 import { createCommandRegistry } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-command-registry/hud-addon-command-registry.module.code.ts"
 import type { TemperCommand } from "akasha/temper/addon/pages/temper-core/modules/hud-addon-types/hud-addon-types.module.code.ts"
+import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const registry = createCommandRegistry()
@@ -35,7 +36,9 @@ function renderTemperHelp(this: void): undefined {
 
 function dispatchTemperCommand(this: void, args: string): undefined {
   const argsStr = args !== undefined ? args : ""
-  const [subcommand, rest] = string.match(argsStr, "^%s*(%S+)%s*(.-)$")
+  const [subcommandCapture, restCapture] = string.match(argsStr, "^%s*(%S+)%s*(.-)$")
+  const subcommand = parseLuaCapture(subcommandCapture)
+  const rest = parseLuaCapture(restCapture)
   if (subcommand === undefined) {
     renderTemperHelp()
     return
