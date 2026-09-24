@@ -2,5 +2,6 @@
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"}
 {"propertySlug":"import","fileName":"game-master.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/iris-game-master-the-tower/iris-game-master-the-tower.seat.ts","id":"01a0d4a9-a8a3-7000-8fa2-8fbb29c1b7ee"}
 {"propertySlug":"role","path":"persona/pages/aria/aria.persona.ts","id":"019ef03a-4924-7a7b-9ee2-e34556947658"}
 {"propertySlug":"role","path":"persona/pages/iris/iris.persona.ts","id":"019ef9f8-8237-7a6a-b3d6-7821cc814b7c"}
