@@ -11,7 +11,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-record-field-holding-a-boolean-is-restated-by-no-change.finding.ts","id":"01a08e5d-97cf-7095-b986-175cdb4dd75b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-renamed-page-keeps-the-old-name-inside-its-uncommitted-sidecar.finding.ts","id":"01a0c53d-ec32-707c-a66c-50f494795fbe"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-repeat-run-ends-the-same-way-whether-the-change-had-nothing-left-or-a-batch-was-refused.finding.ts","id":"01a0961e-eeca-73e8-a979-d0db0198aa76"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/move-code-export-carries-the-imports-a-declaration-names-and-not-the-siblings-it-names.finding.ts","id":"01a08cbf-bb93-7c32-b7ca-04142ca15a28"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/nothing-records-what-a-landing-was-composed-against.finding.ts","id":"01a0950d-13fb-73b1-9a9c-fb993346f20f"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/taking-a-file-property-value-off-a-page-leaves-its-file-behind.finding.ts","id":"01a08775-2220-76c0-a026-1efb9b2e4895"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-engine-removes-an-emptied-folder-and-refuses-the-agent-who-asks-it-to.finding.ts","id":"01a088a0-1c83-735f-9e38-b9a33b06a767"}
