@@ -152,6 +152,18 @@ describe("virtualsFrom", () => {
     expect(back?.edgeColor).toEqual([1, 0.5, 0, 1])
   })
 
+  test("reads a backdrop's colors written as attributes of the backdrop", () => {
+    const flat = `<GuiXml><Controls>
+      <Backdrop name="TemperFlat" virtual="true" centerColor="000000" edgeColor="202020">
+        <Edge edgeSize="1" />
+      </Backdrop>
+    </Controls></GuiXml>`
+    const back = virtualsFrom([flat]).TemperFlat
+    expect(back?.centerColor).toEqual([0, 0, 0, 1])
+    expect(back?.edgeColor?.[0]).toBeCloseTo(32 / 255)
+    expect(back?.edgeSize).toBe(1)
+  })
+
   test("reads the art a backdrop edges and fills itself with", () => {
     const framed = `<GuiXml><Controls>
       <Backdrop name="TemperFramed" virtual="true">

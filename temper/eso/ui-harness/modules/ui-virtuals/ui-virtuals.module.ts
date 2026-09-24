@@ -84,6 +84,10 @@ export const uiVirtuals = {
       statement: "The part of its file a texture shows is read as left, right, top and bottom.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A backdrop's colors are read from its color elements, else from its attributes.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No animation an interface document declares is read here.",
     },

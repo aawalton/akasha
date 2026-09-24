@@ -103,19 +103,20 @@ function pointOf(text: string | null, fallback: number): number {
   return ANCHOR_POINTS[text.trim()] ?? fallback
 }
 
+function hexColor(flat: string | null): readonly number[] | undefined {
+  const matched = flat === null ? null : HEX_COLOR.exec(flat.trim())
+  if (matched === null) return undefined
+  const body = matched[1] ?? ""
+  const channel = (at: number): number =>
+    Number.parseInt(body.slice(at * 2, at * 2 + 2), HEX_RADIX) / BYTE
+  const tail = matched[2]
+  const opacity = tail === undefined ? 1 : Number.parseInt(tail, HEX_RADIX) / BYTE
+  return [channel(0), channel(1), channel(2), opacity]
+}
+
 function colorOf(element: Element): readonly number[] | undefined {
-  const flat = element.getAttribute("color")
-  if (flat !== null) {
-    const matched = HEX_COLOR.exec(flat.trim())
-    if (matched !== null) {
-      const body = matched[1] ?? ""
-      const channel = (at: number): number =>
-        Number.parseInt(body.slice(at * 2, at * 2 + 2), HEX_RADIX) / BYTE
-      const tail = matched[2]
-      const opacity = tail === undefined ? 1 : Number.parseInt(tail, HEX_RADIX) / BYTE
-      return [channel(0), channel(1), channel(2), opacity]
-    }
-  }
+  const flat = hexColor(element.getAttribute("color"))
+  if (flat !== undefined) return flat
   const red = element.getAttribute("r")
   if (red === null) return undefined
   return [
@@ -227,8 +228,12 @@ function nodeOf(element: Element): VirtualNode {
     alignV: alignV === null ? undefined : ALIGNMENTS[alignV.trim()],
     texture: texture === null ? undefined : texture,
     color: colorOf(element),
-    centerColor: backdropCenter === null ? undefined : colorOf(backdropCenter),
-    edgeColor: backdropEdge === null ? undefined : colorOf(backdropEdge),
+    centerColor:
+      backdropCenter === null
+        ? hexColor(element.getAttribute("centerColor"))
+        : colorOf(backdropCenter),
+    edgeColor:
+      backdropEdge === null ? hexColor(element.getAttribute("edgeColor")) : colorOf(backdropEdge),
     ...artOf(element),
     anchorFill: childNamed(element, "AnchorFill") !== null,
     anchors: anchorsIn(element),
