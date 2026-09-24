@@ -40,7 +40,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/commands-disagree-on-which-word-comes-first.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/deploying-a-service-cluster-rolls-a-web-pod-onto-the-build-it-already-had.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/dev-stdin-will-not-open-when-stdin-is-a-socket-as-bun-spawn-with-a-pipe-makes-it.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/most-mentions-of-page-type-slug-are-not-the-page-key.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/most-of-what-tests-pass-refuses-is-a-race-rather-than-a-broken-test.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/no-check-compiles-the-lua-runtime-helpers-so-two-undeclared-types-go-unseen.finding.ts"}
