@@ -4,7 +4,7 @@ export const supervisorStart = {
   id: "01a09c65-6205-7f39-a5fd-cf9bc52449c4",
   type: "page-type/domain",
   slug: "supervisor-start",
-  definition: "the once-per-run setup a supervisor does before its first child",
+  definition: "a supervisor started",
   parts: [
     "module/seat-supervisor-claim",
     "module/supervisor-boot-prompt",
