@@ -5,6 +5,10 @@ export const seatSupervisor = {
   type: "page-type/domain",
   slug: "seat-supervisor",
   definition: "the supervisor keeping an agent alive in its seat",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "supervisor" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "supervisors" },
+  ],
   parts: [
     "domain/supervisor-account",
     "domain/supervisor-boot",
