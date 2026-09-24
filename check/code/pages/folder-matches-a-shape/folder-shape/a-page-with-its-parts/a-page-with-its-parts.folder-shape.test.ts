@@ -76,6 +76,17 @@ test("a folder named its page's slug with every name above it taken off takes th
   expect(aPageWithItsParts(held(["temper-catalog-skill.module.ts"]))).toEqual([])
 })
 
+test("a folder opening with the slug of the page above is refused, naming that slug", () => {
+  const held = folderFrom({
+    folder: "akasha/temper/temper-skill",
+    pageTypes: PAGE_TYPES,
+    holds: holdsFrom({ "akasha/temper": [`${domain.slug}/${temper.slug}`] }),
+  })
+  const said = aPageWithItsParts(held(["temper-skill.module.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(`opens with \`${temper.slug}\``)
+})
+
 test("a folder named the plural that page's own type gathers its pages under takes the shape", () => {
   const held = folderFrom({
     folder: "akasha/pages",

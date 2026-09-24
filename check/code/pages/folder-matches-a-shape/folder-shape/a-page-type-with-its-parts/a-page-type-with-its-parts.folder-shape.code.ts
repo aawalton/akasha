@@ -4,6 +4,7 @@ import {
   looseFilesIn,
   namedAsAsked,
   onePageIn,
+  openingAbove,
 } from "akasha/check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.code.ts"
 import { saidInside } from "akasha/check/modules/shape-saying/shape-saying.module.code.ts"
 import type { Held } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -34,7 +35,11 @@ export function aPageTypeWithItsParts(standing: Standing): readonly string[] {
     ...standing.parts(page),
     ...(beside === null ? [] : standing.parts(beside)),
   ])
-  const said: string[] = [...looseFilesIn(standing, page, parts), ...namedAsAsked(standing, page)]
+  const said: string[] = [
+    ...openingAbove(standing),
+    ...looseFilesIn(standing, page, parts),
+    ...namedAsAsked(standing, page),
+  ]
   const declared = standing.declared(standing.folder)
   const stray = standing.subfolders.filter((at) => {
     const named = basename(at)

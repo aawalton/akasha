@@ -5,7 +5,10 @@ import {
   holdsFrom,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
-import { namedAsAsked } from "akasha/check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.code.ts"
+import {
+  namedAsAsked,
+  openingAbove,
+} from "akasha/check/code/pages/folder-matches-a-shape/modules/one-page-only/one-page-only.module.code.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
 import { temper } from "akasha/temper/temper.domain.ts"
 
@@ -117,6 +120,38 @@ test("a folder wanting a name no name can be worked out for is refused for wanti
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("cannot work out")
   expect(said[0]).toContain("`temper-skills`")
+})
+
+const TEMPER_ABOVE = holdsFrom({ "akasha/temper": [`${domain.slug}/${temper.slug}`] })
+
+test("a folder opening with the slug of the page above is refused, naming that slug", () => {
+  const held = folderFrom({
+    folder: "akasha/temper/temper-skills",
+    pageTypes: PAGE_TYPES,
+    holds: TEMPER_ABOVE,
+  })
+  const said = openingAbove(held(["skill.page-type.ts"]))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain(`\`${temper.slug}\``)
+})
+
+test("a part between the folder and the page above is looked through", () => {
+  const held = folderFrom({
+    folder: "akasha/temper/modules/temper",
+    pageTypes: PAGE_TYPES,
+    holds: TEMPER_ABOVE,
+    held: new Set<string>(["modules"]),
+  })
+  expect(openingAbove(held(["temper.module.ts"]))).toHaveLength(1)
+})
+
+test("a folder opening with no slug of the page above is not refused for its opening", () => {
+  const held = folderFrom({
+    folder: "akasha/temper/skills",
+    pageTypes: PAGE_TYPES,
+    holds: TEMPER_ABOVE,
+  })
+  expect(openingAbove(held(["skill.page-type.ts"]))).toEqual([])
 })
 
 test("a plural naming that folder is taken before the name it wants cannot be worked out", () => {

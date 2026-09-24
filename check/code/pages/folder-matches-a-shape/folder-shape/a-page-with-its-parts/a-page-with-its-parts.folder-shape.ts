@@ -97,5 +97,9 @@ export const aPageWithItsParts = {
       statement:
         "The folder's name may be the plural that page's page type gathers its pages under.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder's name never opens with the slug of the page above the folder.",
+    },
   ],
 } as const satisfies FolderShape

@@ -4,7 +4,10 @@ import { saidInside } from "akasha/check/modules/shape-saying/shape-saying.modul
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Held } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { strippedOf } from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
+import {
+  openingWith,
+  strippedOf,
+} from "akasha/page/naming/modules/folder-named/folder-named.module.code.ts"
 
 const ROOT = ""
 
@@ -43,6 +46,22 @@ function namesAbove(standing: Standing): readonly string[] {
     if (slug !== null) found.push(slug)
   }
   return found
+}
+
+function ownerAbove(standing: Standing): readonly string[] {
+  let at = folderOf(standing.folder)
+  while (at !== ROOT && standing.held.has(basename(at)) && standing.holds(at).length === 0) {
+    at = folderOf(at)
+  }
+  const held = standing.holds(at)[0]
+  const slug = held === undefined ? null : slugIn(held)
+  return slug === null ? [] : [slug]
+}
+
+export function openingAbove(standing: Standing): readonly string[] {
+  const opening = openingWith(basename(standing.folder), ownerAbove(standing))
+  if (opening === null) return []
+  return [`it opens with \`${opening}\`, what the page above it is named`]
 }
 
 function strippedAbove(standing: Standing, page: Held): string | null {
