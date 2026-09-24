@@ -26,6 +26,28 @@ export const storyTurnPlayed = {
       decisionKind: "decision-kind/departure",
       statement: "A turn's text is kept here alone rather than also in a game's rows.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A system window sits in a turn's prose where it happens, as a block of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A window block opens on three colons and the window's kind, and shuts on three colons alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each line between is one field of the window: its name, rung, level or note.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A level-up states its level, a skill its name and rung, and an affinity its name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A window is drawn as its window card, and no line of its block shows as prose.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
