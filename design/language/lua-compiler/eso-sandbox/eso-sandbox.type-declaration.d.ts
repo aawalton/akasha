@@ -173,7 +173,7 @@ declare function xpcall<R, E>(
   err: (this: void, thrown: unknown) => E
 ): LuaMultiReturn<[true, R] | [false, E]>
 
-declare const coroutine: {
+interface LuaCoroutineLibrary {
   create: (this: void, f: (this: void, ...args: unknown[]) => unknown) => LuaThread
   getname: (this: void, co: LuaThread) => string
   resume: (
@@ -190,6 +190,8 @@ declare const coroutine: {
   ) => (...args: unknown[]) => LuaMultiReturn<unknown[]>
   yield: (this: void, ...args: unknown[]) => LuaMultiReturn<unknown[]>
 }
+
+declare const coroutine: LuaCoroutineLibrary
 
 declare const debug: {
   traceback: ((this: void, message?: string | null, level?: number | null) => string) &
@@ -233,7 +235,7 @@ declare const math: {
   tanh: (this: void, x: number) => number
 }
 
-declare const os: {
+interface LuaOsLibrary {
   clock: (this: void) => number
   clockpersecond: (this: void) => number
   date: ((this: void, format?: string, time?: number) => string) &
@@ -242,6 +244,8 @@ declare const os: {
   rawclock: (this: void) => number
   time: ((this: void) => number) & ((this: void, table: EsoLuaDateInfo) => number)
 }
+
+declare const os: LuaOsLibrary
 
 declare const string: {
   byte: ((this: void, s: string, i?: number) => number) &
@@ -272,7 +276,7 @@ declare const string: {
   upper: (this: void, s: string) => string
 }
 
-declare const table: {
+interface LuaTableLibrary {
   concat: (this: void, list: (string | number)[], sep?: string, i?: number, j?: number) => string
   insert: (<T>(this: void, list: T[], value: T) => void) &
     (<T>(this: void, list: T[], pos: number, value: T) => void)
@@ -282,6 +286,8 @@ declare const table: {
   unpack: (<T extends unknown[]>(this: void, list: T) => LuaMultiReturn<T>) &
     (<T>(this: void, list: T[], i: number, j?: number) => LuaMultiReturn<T[]>)
 }
+
+declare const table: LuaTableLibrary
 
 declare const utf8: {
   char: (this: void, ...codepoints: number[]) => string
