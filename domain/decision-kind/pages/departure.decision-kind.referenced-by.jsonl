@@ -4298,6 +4298,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/collections-entry/collections-entry.module.ts","id":"01a0624c-a660-733f-be75-ba33c296eec3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/collections-loaded/collections-loaded.module.ts","id":"01a0624c-a660-7bb7-a785-531905b18e57"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/journal-window/journal-window.module.ts","id":"01a0617d-5454-7cab-9709-1e96bec082bc"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/saved-vars-manager/saved-vars-manager.module.ts","id":"01a06177-abfd-73d0-abdb-d019d3e9b824"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-data/treasure-data.module.ts","id":"01a061d5-d0bf-79cd-abd1-43da311ed93f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-icons/treasure-icons.module.ts","id":"01a061d5-d0b4-719c-ba34-e58d5ca2aa19"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-pins-data/treasure-pins-data.module.ts","id":"01a061d5-d0bd-7727-b9ce-b4477741a289"}

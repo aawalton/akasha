@@ -43,7 +43,7 @@ const DEBUG_MODE = false
 const cm = asCallbackManagerExt(CALLBACK_MANAGER)
 
 function pathConcat(this: void, self: SavedVarsManagerInstance): string {
-  return table.concat(asConcatList([self.rawSavedVarsTablePath]), " > ")
+  return table.concat(asConcatList(self.rawSavedVarsTablePath ?? []), " > ")
 }
 
 function registerLazyLoadCallback(

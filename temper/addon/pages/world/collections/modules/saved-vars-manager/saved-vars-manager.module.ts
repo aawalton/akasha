@@ -6,4 +6,11 @@ export const savedVarsManager = {
   slug: "saved-vars-manager",
   definition: "the manager class through which an addon renames and removes settings",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A saved table's path is written as its keys joined, a table not yet made included.",
+    },
+  ],
 } as const satisfies Module
