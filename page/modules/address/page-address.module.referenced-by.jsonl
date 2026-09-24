@@ -118,9 +118,10 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.code.ts"}
-{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.test.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/web/modules/temper-app-id/temper-app-id.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx"}

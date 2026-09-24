@@ -4826,6 +4826,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/core/modules/apply-invalidations/apply-invalidations.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/core/modules/batch-config/batch-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/core/modules/catalog-descriptor/catalog-descriptor.module.ts"}

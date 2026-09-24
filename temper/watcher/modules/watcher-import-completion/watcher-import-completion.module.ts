@@ -68,6 +68,14 @@ export const watcherImportCompletion = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A companion page is found by the address of the companion's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion page takes the companion's id as its slug and its name as its title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A character's order is written only where that character's page has no order.",
     },
     {

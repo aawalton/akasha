@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { bastian } from "akasha/temper/catalog/companion/temper-eso-companion/pages/bastian/bastian.temper-eso-companion.ts"
+import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 import {
   type CompletionPageRead,
   type CompletionPageUpsert,
@@ -34,6 +37,8 @@ const CHARACTERS_ONLY = `TemperCharacters_SavedVariables =
 const NO_KNOWN_SECTION = `TemperCharacters_SavedVariables =
 { ["Default"] = { ["@alan"] = { ["$AccountWide"] = { ["other"] = { ["x"] = 1 } } } } }
 `
+
+const BASTIAN = namedAs(temperEsoCompanion.slug, bastian.slug, null)
 
 type ReadQuery = Parameters<CompletionPageRead>[0]
 
@@ -83,7 +88,7 @@ function seat(
   const upsert: CompletionPageUpsert = async (args) => {
     writes.push(args)
     const named = args.where[0] as { readonly eq?: unknown } | undefined
-    const eq = named?.eq
+    const eq = typeof args.set.slug === "string" ? args.set.slug : named?.eq
     const slug = typeof eq === "string" ? eq : args.pageTypeSlug
     return asPage({ id: `page-${args.pageTypeSlug}`, slug: `slug-${slug}` })
   }
@@ -138,7 +143,7 @@ test("stored counts higher than the incoming ones reach the files unlowered", as
     {
       "temper-account": [{ id: "acc1", slug: "the-account", key: "user-1" }],
       "temper-account-character": [{ id: "ch1", slug: "vex", esoCharacterId: "111" }],
-      "temper-companion-progress": [{ id: "co1", slug: "bastian", companionId: "bastian" }],
+      "temper-companion-progress": [{ id: "co1", slug: bastian.slug, companionId: BASTIAN }],
     },
     {
       [besideFor("temper-account", "the-account")]: '{"skillPointsSpent":99}',
@@ -162,9 +167,21 @@ test("no completion body reaches the set an upsert carries", async () => {
     '{"completion":"json"}',
     '{"accountPage":"temper-account/slug-user-1","esoCharacterId":"111","title":"Vex","displayOrder":2}',
     '{"completion":"json"}',
-    '{"accountPage":"temper-account/slug-user-1","companionId":"bastian"}',
+    JSON.stringify({
+      slug: bastian.slug,
+      title: bastian.title,
+      companionId: BASTIAN,
+      accountPage: "temper-account/slug-user-1",
+    }),
     '{"completion":"json"}',
   ])
+})
+
+test("a companion page is found by the address of the companion's page", async () => {
+  const it = seat()
+  await runImportCompletion(WITH_STORED, it.deps)
+  const companionWrite = it.writes.find((write) => write.set.companionId !== undefined)
+  expect(companionWrite?.where).toEqual([{ key: "companionId", eq: BASTIAN }])
 })
 
 test("a page beside no completion file is told the ending once the file has landed", async () => {

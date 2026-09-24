@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"}
+{"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts"}

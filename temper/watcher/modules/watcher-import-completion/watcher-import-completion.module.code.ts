@@ -14,6 +14,7 @@ import {
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import { parseSavedVariablesContent } from "akasha/temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts"
 import { getCompanionIdByDefId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { companionValuesOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
 import { addressOfSlug } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import type {
   AccountCompletion,
@@ -374,13 +375,14 @@ export async function runImportCompletion(
   const companionSlugs = slugsBy(companionRead.rows, "companionId")
   const companionSubjects: CompletionSubject<CompanionCompletion>[] = []
   for (const { companionId, data: fresh } of Object.values(data.companions)) {
+    const named = companionValuesOf(companionId)
     const row = await upsert({
       pageTypeSlug: COMPANION_PAGE_TYPE_SLUG,
-      where: [{ key: "companionId", eq: companionId }],
-      set: { accountPage, companionId },
+      where: [{ key: "companionId", eq: named.companionId }],
+      set: { ...named, accountPage },
       select: ["id", "slug"],
     })
-    const slug = companionSlugs.get(companionId) ?? slugOf(row)
+    const slug = companionSlugs.get(named.companionId) ?? slugOf(row)
     if (slug === undefined) throw new Error(noPagePathWhy(COMPANION_PAGE_TYPE_SLUG, companionId))
     companionSubjects.push({ label: `Companion ${companionId}`, slug, fresh })
     report(`Companions: ${companionId} upserted`)

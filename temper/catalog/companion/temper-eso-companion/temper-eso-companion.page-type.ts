@@ -12,6 +12,7 @@ export const temperEsoCompanion = {
     "relation-property/alliance",
     "text-property/class-passive-id",
     "text-property/subtitle",
+    "module/companion-address",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
