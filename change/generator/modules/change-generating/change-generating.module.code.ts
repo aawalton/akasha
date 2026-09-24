@@ -121,7 +121,13 @@ export function generatedAlong(
   return { edits, said, refused }
 }
 
-export function listedIn(shadow: Shadow): readonly Listed[] {
+function codeIn(shadow: Shadow, change: Change, beside: string): string | null {
+  const at = shadow.codeAt(beside)
+  if (at !== null) return at
+  return bodyFor(change, beside) === null ? null : beside
+}
+
+export function listedIn(shadow: Shadow, change: Change): readonly Listed[] {
   const found: Listed[] = []
   for (const one of shadow.index.everyOfType(CHANGE_GENERATOR)) {
     const value = shadow.pageOf(one.path)
@@ -132,7 +138,7 @@ export function listedIn(shadow: Shadow): readonly Listed[] {
     const runsAfter = (textsAt(value, RUNS_AFTER) ?? []).map((named) =>
       named.startsWith(NAMED) ? named.slice(NAMED.length) : named
     )
-    found.push({ slug, beside, at: shadow.codeAt(beside), runsAfter })
+    found.push({ slug, beside, at: codeIn(shadow, change, beside), runsAfter })
   }
   return found
 }
@@ -154,7 +160,7 @@ export function loadedIn(change: Change, at: string, beside: string): Loaded {
 export function generatedOver(change: Change, again: Again): Ran {
   const cast = shadowFor(change)
   if ("refused" in cast) return NOTHING
-  const listed = listedIn(cast.shadow)
+  const listed = listedIn(cast.shadow, change)
   if (listed.length === 0) return NOTHING
   return generatedAlong(listed, change, again, loadedIn)
 }
