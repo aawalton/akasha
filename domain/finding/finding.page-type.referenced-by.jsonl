@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-folder-move-rewrites-one-half-of-a-fixture-whose-two-literals-must-agree.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-landing-files-no-index-entry-for-a-page-it-only-made-referenced.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-landing-reverts-a-generated-row-another-landing-added-while-it-was-drafting.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-lint-rule-for-code-judges-a-page-that-is-only-data.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-manifest-that-only-lost-a-field-was-applied-by-no-deploy.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-module-that-is-only-a-compile-time-assertion-reads-as-dead.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-move-respells-a-past-tense-path-in-a-findings-evidence.finding.ts"}
