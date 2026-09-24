@@ -4,6 +4,7 @@ import {
   NETPOL_HEADSCALE_LABELS,
   NETPOL_SUBNET_ROUTER_LABELS,
 } from "akasha/infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts"
+import { headscale } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/headscale/headscale.service-cluster.ts"
 
 const APP_NAME = "headscale"
 const SUBNET_ROUTER_APP_NAME = "tailscale-subnet-router"
@@ -109,7 +110,7 @@ export function networkPolicyYaml(): string {
           ingress: [
             {
               from: [{ ipBlock: { cidr: "0.0.0.0/0" } }],
-              ports: [{ protocol: "TCP", port: 8443 }],
+              ports: [{ protocol: "TCP", port: headscale.containerPort }],
             },
           ],
         },

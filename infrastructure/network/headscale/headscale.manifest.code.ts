@@ -23,19 +23,19 @@ import {
   DATA_CAPACITY,
   DATA_HOST_PATH,
   DATA_NODE,
-  HEADSCALE_IMAGE,
   NAMESPACE,
   NAMESPACE_LABELS,
   TLS_LABELS,
 } from "akasha/infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts"
+import { headscale } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/headscale/headscale.service-cluster.ts"
 import { ApiObject, App, Chart } from "cdk8s"
 
 const TLS_SECRET_NAME = "headscale-tls"
 
 const TLS_ROLLED: CertificateRolled = {
   namespace: NAMESPACE,
-  kind: "StatefulSet",
-  name: "headscale",
+  kind: headscale.resourceKind,
+  name: headscale.resourceName,
   secret: TLS_SECRET_NAME,
   keys: ["tls.crt", "tls.key"],
   annotation: "checksum/tls",
@@ -88,15 +88,15 @@ function dataPvcYaml(): string {
 function statefulsetYaml(): string {
   return synthOne(NAMESPACE, "statefulset", {
     apiVersion: "apps/v1",
-    kind: "StatefulSet",
+    kind: headscale.resourceKind,
     metadata: {
-      name: "headscale",
+      name: headscale.resourceName,
       namespace: NAMESPACE,
       labels: CONTROL_PLANE_LABELS,
     },
     spec: {
       serviceName: "headscale",
-      replicas: 1,
+      replicas: headscale.replicas,
       updateStrategy: { type: "RollingUpdate" },
       selector: { matchLabels: CONTROL_PLANE_SELECTOR_LABELS },
       template: {
@@ -133,10 +133,10 @@ function statefulsetYaml(): string {
           containers: [
             {
               name: "headscale",
-              image: HEADSCALE_IMAGE,
+              image: headscale.image,
               args: ["serve", "-c", "/headscale-config/config.yaml"],
               ports: [
-                { name: "https", containerPort: 8443, protocol: "TCP" },
+                { name: "https", containerPort: headscale.containerPort, protocol: "TCP" },
                 { name: "metrics", containerPort: 9090, protocol: "TCP" },
               ],
               volumeMounts: [

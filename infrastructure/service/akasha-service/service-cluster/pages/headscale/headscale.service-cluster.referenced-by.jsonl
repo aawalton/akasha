@@ -1,1 +1,5 @@
+{"propertySlug":"import","fileName":"headscale.service-cluster.ts","path":"infrastructure/network/headscale/headscale.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"headscale.service-cluster.ts","path":"infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"headscale.service-cluster.ts","path":"infrastructure/network/headscale/modules/network-policies/headscale-network-policies.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"headscale.service-cluster.ts","path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}

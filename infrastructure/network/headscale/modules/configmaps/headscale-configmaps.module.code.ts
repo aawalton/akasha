@@ -3,9 +3,10 @@ import {
   CONTROL_PLANE_LABELS,
   NAMESPACE,
 } from "akasha/infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts"
+import { headscale } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/headscale/headscale.service-cluster.ts"
 
 const HEADSCALE_CONFIG_YAML = `server_url: https://headscale.alanwalton.com
-listen_addr: 0.0.0.0:8443
+listen_addr: 0.0.0.0:${headscale.containerPort}
 metrics_listen_addr: 0.0.0.0:9090
 grpc_listen_addr: 0.0.0.0:50443
 grpc_allow_insecure: false

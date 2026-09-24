@@ -2,8 +2,9 @@ import {
   kubernetesLabels,
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
+import { headscale } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/headscale/headscale.service-cluster.ts"
 
-export const NAMESPACE = "headscale"
+export const NAMESPACE = headscale.namespace
 const APP_NAME = "headscale"
 const INSTANCE_NAME = "headscale"
 const CONTROL_PLANE_COMPONENT = "control-plane"
@@ -15,8 +16,6 @@ const SUBNET_ROUTER_APP_NAME = "tailscale-subnet-router"
 const SUBNET_ROUTER_INSTANCE = "talos-subnet-router"
 const SUBNET_ROUTER_COMPONENT = "data-plane"
 
-export const HEADSCALE_IMAGE = "headscale/headscale:0.28.0"
-export const TAILSCALE_IMAGE = "tailscale/tailscale:v1.98.10"
 export const BUSYBOX_IMAGE = "busybox:1.36"
 
 export const DATA_NODE = "node-05"

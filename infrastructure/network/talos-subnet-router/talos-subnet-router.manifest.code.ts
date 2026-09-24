@@ -4,21 +4,21 @@ import {
   NAMESPACE,
   SUBNET_ROUTER_LABELS,
   SUBNET_ROUTER_SELECTOR_LABELS,
-  TAILSCALE_IMAGE,
 } from "akasha/infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts"
 import { talosSubnetRouter as page } from "akasha/infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.ts"
+import { talosSubnetRouter } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/talos-subnet-router/talos-subnet-router.service-cluster.ts"
 
 function subnetRouterDeploymentYaml(): string {
   return synthOne(NAMESPACE, "subnet-router-deployment", {
     apiVersion: "apps/v1",
-    kind: "Deployment",
+    kind: talosSubnetRouter.resourceKind,
     metadata: {
-      name: "talos-subnet-router",
-      namespace: NAMESPACE,
+      name: talosSubnetRouter.resourceName,
+      namespace: talosSubnetRouter.namespace,
       labels: SUBNET_ROUTER_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: talosSubnetRouter.replicas,
       selector: { matchLabels: SUBNET_ROUTER_SELECTOR_LABELS },
       template: {
         metadata: { labels: SUBNET_ROUTER_LABELS },
@@ -33,7 +33,7 @@ function subnetRouterDeploymentYaml(): string {
           containers: [
             {
               name: "tailscale",
-              image: TAILSCALE_IMAGE,
+              image: talosSubnetRouter.image,
               env: [
                 {
                   name: "TS_AUTHKEY",
