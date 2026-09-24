@@ -27,6 +27,7 @@ export const computedProperty = {
     { pageProperty: "code-file-property/test-fixtures", required: false, many: false },
     { pageProperty: "text-property/select-values", required: false, many: true, maxCount: null },
     { pageProperty: "relation-property/target-page-type", required: false, many: false },
+    { pageProperty: "one-of-property/properties", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {
@@ -142,6 +143,11 @@ export const computedProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A computed property stating a page type to reach holds a relation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A computed property holding records declares the fields of a record as a record property does.",
     },
     {
       decisionKind: "decision-kind/departure",

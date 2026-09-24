@@ -53,6 +53,9 @@ const JUDGED: Readonly<Record<string, (held: unknown) => boolean>> = {
   date: (held) => typeof held === "string" && /^\d{4}-\d{2}-\d{2}$/.test(held),
   instant: (held) => typeof held === "string" && !Number.isNaN(Date.parse(held)),
   number: (held) => typeof held === "number" && Number.isFinite(held),
+  records: (held) =>
+    Array.isArray(held) &&
+    held.every((one) => typeof one === "object" && one !== null && !Array.isArray(one)),
   relation: (held) => typeof held === "string",
   text: (held) => typeof held === "string",
 }

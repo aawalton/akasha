@@ -5,6 +5,7 @@ import type { Holds } from "akasha/page/computed-property/properties/holds.selec
 import type { TargetPageType } from "akasha/page/relation-property/properties/target-page-type.relation-property.types.ts"
 import type { SelectValues } from "akasha/page/select-property/properties/select-values.text-property.types.ts"
 import type { PageProperty } from "akasha/page/type/page-property/page-property.page-type.types.ts"
+import type { Properties } from "akasha/page/type/properties/properties.one-of-property.types.ts"
 
 export type ComputedProperty = PageProperty & {
   holds: Holds
@@ -13,4 +14,5 @@ export type ComputedProperty = PageProperty & {
   testFixtures?: TestFixtures
   values?: SelectValues
   targetPageType?: TargetPageType
+  properties?: Properties
 }

@@ -50,6 +50,10 @@ export const pageComputing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A calculation holding records answers a list with nothing in it but records.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A chain of reads coming back to where that chain started is refused.",
     },
     {

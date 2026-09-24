@@ -67,6 +67,20 @@ describe("the values a page type's calculations work out", () => {
     expect(working?.dark.get("wrong")).toContain("answered string")
   })
 
+  test("a calculation holding records answers a list of records", () => {
+    const source = sourceOf({
+      day: page("1", {}, [
+        held("entries", "records", () => [{ line: "one" }, { line: "two" }]),
+        held("loose", "records", () => [{ line: "one" }, "two"]),
+      ]),
+    })
+    const working = computingOver(source).workedAt("day")
+    expect(working?.value["entries"]).toEqual([{ line: "one" }, { line: "two" }])
+    expect(working?.dark.get("loose")).toBe(
+      "`loose` states it holds records, and its calculation answered a list"
+    )
+  })
+
   test("a property stating a kind no calculation answers is refused", () => {
     const source = sourceOf({ day: page("1", {}, [held("odd", "rainbow", () => 1)]) })
     const working = computingOver(source).workedAt("day")

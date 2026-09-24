@@ -6,7 +6,7 @@ export const holds = {
   slug: "holds",
   propertySlug: "holds",
   definition: "the kind of value a calculation works out",
-  values: ["text", "number", "boolean", "instant", "date", "relation"],
+  values: ["text", "number", "boolean", "instant", "date", "relation", "records"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -17,8 +17,16 @@ export const holds = {
       statement: "A reader puts a worked value down as the kind stated here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A calculation holding records answers a list of records.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The fields each record has are the properties its computed property declares.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "No calculation states a list.",
+      statement: "No calculation states a list of any other kind.",
     },
   ],
   types: "ts",

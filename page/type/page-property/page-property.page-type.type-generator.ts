@@ -57,6 +57,8 @@ const VALUES = "values"
 
 const HOLDS_RELATION = "relation"
 
+const HOLDS_RECORDS = "records"
+
 const WORKED = new Map<string, string>([
   ["boolean", "boolean"],
   ["date", "string"],
@@ -189,6 +191,15 @@ function recordIn(shadow: Shadow, asked: Asked): Written | null {
   return { held: `{\n${lines.join("\n")}\n}`, imports }
 }
 
+function recordsIn(shadow: Shadow, asked: Asked): Written | null {
+  const record = recordIn(shadow, asked)
+  if (record === null) return null
+  return {
+    held: `List<${record.held}>`,
+    imports: [`import type { List } from "${LIST_AT}"`, ...record.imports],
+  }
+}
+
 function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   const held = HELD.get(asked.kind)
   if (held !== undefined) return { held, imports: [] }
@@ -203,6 +214,7 @@ function writtenFor(shadow: Shadow, asked: Asked): Written | null {
   if (asked.kind !== COMPUTED) return null
   if (Array.isArray(asked.value[VALUES])) return chosenIn(asked.path, asked.slug)
   if (asked.value[HOLDS_AT] === HOLDS_RELATION) return memberIn(shadow, SLUG_AT)
+  if (asked.value[HOLDS_AT] === HOLDS_RECORDS) return recordsIn(shadow, asked)
   const worked = WORKED.get(String(asked.value[HOLDS_AT]))
   return worked === undefined ? null : { held: worked, imports: [] }
 }
