@@ -6,6 +6,7 @@ export const changeRunnerAddressing = {
   slug: "change-runner-addressing",
   definition: "the map of the addresses each change runner reaches, written beside that runner",
   code: "ts",
+  runsAfter: ["change-generator/value-minting"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
