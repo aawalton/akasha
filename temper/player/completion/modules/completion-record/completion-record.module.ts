@@ -6,4 +6,12 @@ export const completionRecord = {
   slug: "completion-record",
   definition: "the whole of what an account, character or companion has finished",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each completion's shape and a zod shape in this module's test are held equal at typecheck.",
+    },
+  ],
 } as const satisfies Module

@@ -8,7 +8,6 @@ export const temperCompletion = {
   parts: [
     "module/completion-progress",
     "module/completion-record",
-    "module/completion-writer-schema",
     "module/lore-collections-00",
     "module/lore-collections-01",
     "module/lore-collections-02",
@@ -91,10 +90,6 @@ export const temperCompletion = {
     "domain/temper-player-completion",
   ],
   decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A capture is checked against a zod shape before the capture is written.",
-    },
     {
       decisionKind: "decision-kind/constraint",
       statement: "The lore library table and the recipe table are divided for the byte ceiling.",

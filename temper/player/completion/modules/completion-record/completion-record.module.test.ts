@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import type {
   AccountCompletion,
@@ -209,6 +210,14 @@ const companionCompletionWriterSchema = z
   })
   .strict()
 
-assertSchemaMatchesPayload<typeof accountCompletionWriterSchema, AccountCompletion>()
-assertSchemaMatchesPayload<typeof characterCompletionWriterSchema, CharacterCompletion>()
-assertSchemaMatchesPayload<typeof companionCompletionWriterSchema, CompanionCompletion>()
+test("each completion schema infers exactly its completion shape", () => {
+  expect(
+    assertSchemaMatchesPayload<typeof accountCompletionWriterSchema, AccountCompletion>()
+  ).toBeUndefined()
+  expect(
+    assertSchemaMatchesPayload<typeof characterCompletionWriterSchema, CharacterCompletion>()
+  ).toBeUndefined()
+  expect(
+    assertSchemaMatchesPayload<typeof companionCompletionWriterSchema, CompanionCompletion>()
+  ).toBeUndefined()
+})

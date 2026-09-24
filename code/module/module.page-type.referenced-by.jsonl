@@ -5912,7 +5912,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/temper-account/modules/account-address/account-address.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/completion-progress/completion-progress.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/completion-writer-schema/completion-writer-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/lore-collections-00/lore-collections-00.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/lore-collections-01/lore-collections-01.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/modules/lore-collections-02/lore-collections-02.module.ts"}
