@@ -9,7 +9,6 @@ export const theTowerGloomwardStalker01 = {
   kind: "enemy",
   class: "Dark-hunter",
   dice: "game-mechanic/two-d-ten",
-  baseDamage: 12,
   typicalIntent: 2,
   note: "computed by engine: VIT8(72)+MIGHT2(26) = 98 HP. physDef 12.5, physAtk 39.5, Init 32. HP is moderate — the threat is the dark + the ambush, not the HP wall.",
 } as const satisfies GameEntity

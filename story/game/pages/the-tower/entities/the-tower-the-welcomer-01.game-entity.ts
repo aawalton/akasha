@@ -9,7 +9,6 @@ export const theTowerTheWelcomer01 = {
   kind: "enemy",
   class: "Glamour-predator",
   dice: "game-mechanic/two-d-ten",
-  baseDamage: 14,
   typicalIntent: 2,
   note: "engine: VIT8(64)+MIGHT2(18) = 82 HP. physDef (8+14)/2 = 11. physAtk 9*1.5+14+3 = 30.5. Init 13+14 = 27 (beats Alan's 26 on the trust-opener — front-load that turn). Threat = the trust-ambush, not HP.",
 } as const satisfies GameEntity

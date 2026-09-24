@@ -9,7 +9,6 @@ export const theTowerTheHost01 = {
   kind: "enemy",
   class: "Gallery Warden",
   dice: "game-mechanic/two-d-ten",
-  baseDamage: 18,
   typicalIntent: 3,
   note: "engine: VIT8(120)+MIGHT2(24) = 144 HP. physDef (15+10)/2+2 = 14.5. physAtk 12*1.5+10+4 = 32. Init 12+10 = 22 (Alan's 26 first, but worthless until he's IDed the real one). HP a wall only if you brute the decoys.",
 } as const satisfies GameEntity

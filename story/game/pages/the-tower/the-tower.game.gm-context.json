@@ -346,7 +346,7 @@
         "**A place inside a place is a place.** A storey and its rooms are both `game-location`; a room names the place it is `within` and takes that place's `depth`.",
         "**Nothing a mechanic works out is written on a page.** A skill carries how far it has come, not the rung that reaches; an affinity its tier, not the most that tier allows. Ask the mechanic for the rest.",
         "**A change lands on the page carrying the thing that changed** — a skill advanced, an item taken, a thing searched out of a room — and lands once.",
-        "**What covers a creature and what it strikes with are items the creature has.** A hide, a stone facing, a claw, a plated arm: each is an `item` page naming the creature's `character-other` page and the slot it sits in, with its number on a `tower-item-defence` or `tower-item-attack` page beside it — the same pages a player's gear uses, so one formula reads both. A creature with nothing worth counting in a slot has no page for that slot. No entity page carries `equipment`."
+        "**What covers a creature and what it strikes with are items the creature has.** A hide, a stone facing, a claw, a plated arm: each is an `item` page naming the creature's `character-other` page and the slot it sits in, with its numbers on `tower-item-defence`, `tower-item-attack` and `tower-item-damage` pages beside it — the same pages a player's gear uses, so one formula reads both. The `baseDamage` a strike is handed is the striking item's `tower-item-damage`. A creature with nothing worth counting in a slot has no page for that slot. No entity page carries `equipment` or `baseDamage`."
       ],
       "title": "The world is pages"
     },
