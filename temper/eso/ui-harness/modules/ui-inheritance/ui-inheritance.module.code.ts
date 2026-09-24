@@ -23,6 +23,12 @@ export type VirtualNode = {
   readonly color?: readonly number[]
   readonly centerColor?: readonly number[]
   readonly edgeColor?: readonly number[]
+  readonly textureCoords?: readonly number[]
+  readonly centerTexture?: string
+  readonly edgeTexture?: string
+  readonly edgeSize?: number
+  readonly insets?: readonly number[]
+  readonly normalTexture?: string
   readonly anchorFill: boolean
   readonly anchors: readonly VirtualAnchor[]
   readonly handlers: Readonly<Record<string, string>>
@@ -94,6 +100,12 @@ export function merged(base: VirtualNode, over: VirtualNode): VirtualNode {
     color: over.color ?? base.color,
     centerColor: over.centerColor ?? base.centerColor,
     edgeColor: over.edgeColor ?? base.edgeColor,
+    textureCoords: over.textureCoords ?? base.textureCoords,
+    centerTexture: over.centerTexture ?? base.centerTexture,
+    edgeTexture: over.edgeTexture ?? base.edgeTexture,
+    edgeSize: over.edgeSize ?? base.edgeSize,
+    insets: over.insets ?? base.insets,
+    normalTexture: over.normalTexture ?? base.normalTexture,
     anchorFill: over.anchorFill || base.anchorFill,
     anchors: over.anchors.length === 0 ? base.anchors : over.anchors,
     handlers: { ...base.handlers, ...over.handlers },

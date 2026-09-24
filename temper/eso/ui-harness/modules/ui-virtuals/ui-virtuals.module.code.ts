@@ -162,6 +162,45 @@ function handlersIn(element: Element): Readonly<Record<string, string>> {
   return found
 }
 
+const COORD_SIDES: readonly (readonly [string, number])[] = [
+  ["left", 0],
+  ["right", 1],
+  ["top", 0],
+  ["bottom", 1],
+]
+
+const INSET_SIDES: readonly string[] = ["left", "top", "right", "bottom"]
+
+function attributeOf(element: Element | null, name: string): string | undefined {
+  return element?.getAttribute(name) ?? undefined
+}
+
+type ArtOf = Pick<
+  VirtualNode,
+  "textureCoords" | "centerTexture" | "edgeTexture" | "edgeSize" | "insets" | "normalTexture"
+>
+
+function artOf(element: Element): ArtOf {
+  const coords = childNamed(element, "TextureCoords")
+  const edge = childNamed(element, "Edge")
+  const insets = childNamed(element, "Insets")
+  const edgeSize = attributeOf(edge, "edgeSize") ?? attributeOf(edge, "edgeFileHeight")
+  return {
+    textureCoords:
+      coords === null
+        ? undefined
+        : COORD_SIDES.map(([side, fallback]) => numberOr(coords.getAttribute(side), fallback)),
+    centerTexture: attributeOf(childNamed(element, "Center"), "file"),
+    edgeTexture: attributeOf(edge, "file"),
+    edgeSize: maybeNumber(edgeSize ?? null),
+    insets:
+      insets === null
+        ? undefined
+        : INSET_SIDES.map((side) => numberOr(insets.getAttribute(side), 0)),
+    normalTexture: attributeOf(childNamed(element, "Textures"), "normal"),
+  }
+}
+
 function nodeOf(element: Element): VirtualNode {
   const dimensions = childNamed(element, "Dimensions")
   const backdropCenter = childNamed(element, "CenterColor")
@@ -190,6 +229,7 @@ function nodeOf(element: Element): VirtualNode {
     color: colorOf(element),
     centerColor: backdropCenter === null ? undefined : colorOf(backdropCenter),
     edgeColor: backdropEdge === null ? undefined : colorOf(backdropEdge),
+    ...artOf(element),
     anchorFill: childNamed(element, "AnchorFill") !== null,
     anchors: anchorsIn(element),
     handlers: handlersIn(element),
@@ -224,8 +264,25 @@ function luaAnchor(anchor: VirtualAnchor): string {
   return `{ point = ${anchor.point}, ${towards}relativePoint = ${anchor.relativePoint}, offsetX = ${anchor.offsetX}, offsetY = ${anchor.offsetY} }`
 }
 
+function luaArt(node: VirtualNode): readonly string[] {
+  const parts: string[] = []
+  if (node.textureCoords !== undefined) {
+    parts.push(`textureCoords = { ${node.textureCoords.join(", ")} }`)
+  }
+  if (node.centerTexture !== undefined) {
+    parts.push(`centerTexture = ${luaText(node.centerTexture)}`)
+  }
+  if (node.edgeTexture !== undefined) parts.push(`edgeTexture = ${luaText(node.edgeTexture)}`)
+  if (node.edgeSize !== undefined) parts.push(`edgeSize = ${node.edgeSize}`)
+  if (node.insets !== undefined) parts.push(`insets = { ${node.insets.join(", ")} }`)
+  if (node.normalTexture !== undefined) {
+    parts.push(`normalTexture = ${luaText(node.normalTexture)}`)
+  }
+  return parts
+}
+
 function luaNode(node: VirtualNode): string {
-  const parts: string[] = [`controlType = ${node.controlType}`]
+  const parts: string[] = [`controlType = ${node.controlType}`, ...luaArt(node)]
   if (node.name !== undefined) parts.push(`name = ${luaText(node.name)}`)
   if (node.hidden !== undefined) parts.push(`hidden = ${node.hidden}`)
   if (node.alpha !== undefined) parts.push(`alpha = ${node.alpha}`)

@@ -119,6 +119,12 @@ dress = function(control, spec)
   if spec.color ~= nil then control.uiColor = spec.color end
   if spec.centerColor ~= nil then control.uiCenterColor = spec.centerColor end
   if spec.edgeColor ~= nil then control.uiEdgeColor = spec.edgeColor end
+  if spec.textureCoords ~= nil then control.uiTextureCoords = spec.textureCoords end
+  if spec.centerTexture ~= nil then control.uiCenterTexture = spec.centerTexture end
+  if spec.edgeTexture ~= nil then control.uiEdgeTexture = spec.edgeTexture end
+  if spec.edgeSize ~= nil then control.uiEdgeSize = spec.edgeSize end
+  if spec.insets ~= nil then control.uiInsets = spec.insets end
+  if spec.normalTexture ~= nil then control.uiNormalTexture = spec.normalTexture end
   if spec.anchorFill then control:SetAnchorFill() end
   if spec.anchors ~= nil then
     for _, anchor in ipairs(spec.anchors) do

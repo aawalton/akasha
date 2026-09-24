@@ -177,8 +177,20 @@ end
 function Control:SetColor(r, g, b, a) self.uiColor = asColor(r, g, b, a) end
 function Control:SetTexture(texture) self.uiTexture = asText(texture) end
 function Control:SetAddressMode(mode) self.uiAddressMode = mode end
-function Control:SetCenterTexture(texture) self.uiCenterTexture = texture end
-function Control:SetEdgeTexture(texture) self.uiEdgeTexture = asText(texture) end
+function Control:SetTextureCoords(left, right, top, bottom)
+  self.uiTextureCoords = { asNumber(left, 0), asNumber(right, 1), asNumber(top, 0), asNumber(bottom, 1) }
+end
+function Control:GetTextureCoords()
+  local held = self.uiTextureCoords or { 0, 1, 0, 1 }
+  return held[1], held[2], held[3], held[4]
+end
+function Control:SetCenterTexture(texture) self.uiCenterTexture = asText(texture) end
+function Control:SetEdgeTexture(texture, _, fileHeight, edgeSize)
+  self.uiEdgeTexture = asText(texture)
+  local size = asNumber(edgeSize, 0)
+  self.uiEdgeSize = size > 0 and size or asNumber(fileHeight, nil)
+end
+function Control:SetNormalTexture(texture) self.uiNormalTexture = asText(texture) end
 function Control:SetCenterColor(r, g, b, a) self.uiCenterColor = asColor(r, g, b, a) end
 function Control:SetEdgeColor(r, g, b, a) self.uiEdgeColor = asColor(r, g, b, a) end
 function Control:SetInsets(left, top, right, bottom)

@@ -75,6 +75,15 @@ export const uiVirtuals = {
       statement: "Windows are written out as a list, in the order the caller names them.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A backdrop's edge, center and insets, and a button's normal art, are read as written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The part of its file a texture shows is read as left, right, top and bottom.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No animation an interface document declares is read here.",
     },
