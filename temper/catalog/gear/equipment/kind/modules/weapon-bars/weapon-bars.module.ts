@@ -11,9 +11,5 @@ export const weaponBars = {
       decisionKind: "decision-kind/constraint",
       statement: "A weapon bar's place in this table is the precedence an addon reads the bar in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A weapon bar moved to another place changes which bar an addon prefers.",
-    },
   ],
 } as const satisfies Module
