@@ -9,11 +9,6 @@ export const assertSchemaMatchesPayload = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A capture host reads the payload a capture addon saved rather than the running game.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "The check here runs in the type system rather than at runtime.",
     },
     {
