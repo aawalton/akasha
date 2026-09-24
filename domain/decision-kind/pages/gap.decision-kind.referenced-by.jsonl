@@ -461,6 +461,7 @@
 {"propertySlug":"decision-kind","path":"temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.ts","id":"01a060cf-b0b2-743e-9d82-ea94a110b9cb"}
 {"propertySlug":"decision-kind","path":"temper/economy/trading/pricing/modules/companion-gear-ids/companion-gear-ids.module.ts","id":"01a060bf-747d-7dee-bf58-1559bc114b90"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts","id":"01a0673e-3ddf-7001-acad-9b0751ef4567"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-methods/ui-control-methods.lua-module.ts","id":"01a0d40c-1f7a-7728-a4c9-f977dcaff8a8"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.ts","id":"01a060d9-498b-744f-8dc9-b2222b4f4b29"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}

@@ -58,6 +58,18 @@ function Control:GetDimensions()
   local _, _, width, height = place(self)
   return width, height
 end
+function Control:SetDimensionConstraints(minWidth, minHeight, maxWidth, maxHeight)
+  self.uiConstraints = {
+    asNumber(minWidth, 0),
+    asNumber(minHeight, 0),
+    asNumber(maxWidth, 0),
+    asNumber(maxHeight, 0),
+  }
+end
+function Control:GetDimensionConstraints()
+  local held = self.uiConstraints or { 0, 0, 0, 0 }
+  return held[1], held[2], held[3], held[4]
+end
 function Control:GetLeft()
   local left = place(self)
   return left
