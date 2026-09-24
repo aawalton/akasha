@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/seam-reset/alanwalton-seam-reset.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/wallpaper-intent/alanwalton-wallpaper-intent.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/widget-refresh/alanwalton-widget-refresh.shell-script.ts"}
+{"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/widget-tap-intent/alanwalton-widget-tap-intent.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/alanwalton/scripts/widget-target/alanwalton-widget-target.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/atlas/scripts/capture-device-console/atlas-capture-device-console.shell-script.ts"}
 {"propertySlug":"import","fileName":"shell-script.page-type.types.ts","path":"code/ios-app/pages/atlas/scripts/ios-add/atlas-ios-add.shell-script.ts"}

@@ -84,5 +84,6 @@ export const alanwalton = {
     "shell-script/alanwalton-widget-target",
     "shell-script/alanwalton-live-activity",
     "shell-script/alanwalton-handover-sign-in",
+    "shell-script/alanwalton-widget-tap-intent",
   ],
 } as const satisfies IosApp

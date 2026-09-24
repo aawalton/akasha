@@ -21,19 +21,15 @@ export const widgetTapLink = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "An intent a widget runs opens a link only from iOS 18.",
+      statement: "iOS runs no intent that opens the app inside a widget extension.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A phone before iOS 18 opens a link naming no tap.",
+      statement: "The app's own copy of the intent makes the tap's id and hands the link on.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A tap on a widget's margin outside the button opens a link naming no tap.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "An intent opens a link only by a scheme the app has taken.",
     },
   ],
 } as const satisfies IosComponent
