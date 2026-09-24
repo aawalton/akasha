@@ -3,6 +3,7 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { windowOf } from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import type { Quest } from "akasha/story/engine/core/modules/quest-schema/quest-schema.module.code.ts"
 import type { RevealedSheet } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import type {
@@ -14,17 +15,6 @@ const NAME = "name"
 const MAX = "Max"
 const SYSTEM = "system"
 const LAST = -1
-const LEVEL_UP = "level-up"
-const ITEM_AWARD = "item-award"
-const SKILL = "skill"
-const NAMED_BY: ReadonlyMap<string, string> = new Map([
-  ["affinity", "affinity"],
-  ["class", "class"],
-  ["title", "title"],
-])
-const LINES = "; "
-const MARK = ": "
-const NOT_FOUND = -1
 const COMPLETE = "complete"
 const ACTIVE = "active"
 const POINTS = "attrPoints"
@@ -143,42 +133,32 @@ export function revealedOf(player: Page, turn: Page): RevealedSheet {
   }
 }
 
-export function describedIn(note: string): Named[] {
-  return note.split(LINES).map((one) => {
-    const at = one.indexOf(MARK)
-    if (at === NOT_FOUND) return { label: "", value: one }
-    return { label: one.slice(0, at), value: one.slice(at + MARK.length) }
-  })
-}
-
-export function windowOf(raised: Named): Named | undefined {
-  const kind = saidIn(raised["kind"])
-  if (kind === undefined) return undefined
-  const name = saidIn(raised[NAME]) ?? ""
-  const note = saidIn(raised["note"])
-  const rung = saidIn(raised["rung"])
-  if (kind === LEVEL_UP) return { type: kind, level: countIn(raised["level"]) }
-  if (kind === ITEM_AWARD) {
-    const award =
-      note === undefined ? { item: name } : { item: name, descriptors: describedIn(note) }
-    return { type: kind, award }
-  }
-  if (kind === SKILL) {
-    return rung === undefined
-      ? { type: kind, skill: name }
-      : { type: kind, skill: name, rank: rung }
-  }
-  const key = NAMED_BY.get(kind)
-  return key === undefined ? { type: kind } : { type: kind, [key]: name }
-}
-
 export function beatsIn(turns: readonly Page[]): Named[] {
   const found: Named[] = []
   for (const turn of turns) {
     const at = countIn(turn.number)
     for (const raised of listIn(turn.windows)) {
-      const held = windowOf(raised)
-      if (held !== undefined) found.push({ type: SYSTEM, turn: at, window: held })
+      const kind = saidIn(raised["kind"])
+      if (kind === undefined) continue
+      const name = saidIn(raised[NAME])
+      const note = saidIn(raised["note"])
+      const held = windowOf({
+        kind,
+        name,
+        rung: saidIn(raised["rung"]),
+        level: countIn(raised["level"]),
+        note,
+      })
+      found.push(
+        held === undefined
+          ? {
+              type: SYSTEM,
+              turn: at,
+              title: name ?? kind,
+              ...(note === undefined ? {} : { lines: [note] }),
+            }
+          : { type: SYSTEM, turn: at, window: held }
+      )
     }
   }
   return found

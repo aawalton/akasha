@@ -2518,6 +2518,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/choice-action/choice-action.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/game-schema/game-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/prose-segments/prose-segments.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/prose-windows/prose-windows.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/quest-schema/quest-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/revealed/revealed.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/state-schema/state-schema.module.ts"}

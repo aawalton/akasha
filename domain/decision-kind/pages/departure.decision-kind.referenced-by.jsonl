@@ -3450,6 +3450,7 @@
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts","id":"01a05b71-e543-7506-a57c-cc05b4aa56aa"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/game-schema/game-schema.module.ts","id":"01a05b71-e543-7c87-8c6e-cfaef2c52761"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/prose-segments/prose-segments.module.ts","id":"01a05b71-e544-7429-b3f8-5d2560f95738"}
+{"propertySlug":"decision-kind","path":"story/engine/core/modules/prose-windows/prose-windows.module.ts","id":"01a0d44e-912e-72bc-aaf4-6ffcdb4d5a15"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/quest-schema/quest-schema.module.ts","id":"01a05b71-e544-7f7a-9dc9-b1677b4e1fc6"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/revealed/revealed.module.ts","id":"01a05b71-e544-7b78-bd2c-73da9bb84dcc"}
 {"propertySlug":"decision-kind","path":"story/engine/core/modules/state-schema/state-schema.module.ts","id":"01a05b71-e544-7bab-8507-5a3ede4ec9a0"}

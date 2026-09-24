@@ -55,6 +55,22 @@ describe("composeSessionEnvelope", () => {
     expect(out.chapterProse).toEqual([...STORY.current])
   })
 
+  test("draws each window written in a turn's prose as a card where it is written", () => {
+    const text =
+      "a\n\n:::level-up\nlevel: 5\n:::\n\nb\n\n:::system-choice\nname: THE LINK\nnote: bind one\n:::"
+    const story: StoryLedger = {
+      chapters: [],
+      current: [{ id: "t9", title: "T", text, turnNumber: 4 }],
+    }
+    const out = composeSessionEnvelope("A Game", { chapterProse: {} }, { state: STATE, story })
+    expect(out.chapterProse?.[0]?.segments).toEqual([
+      { kind: "prose", text: "a" },
+      { kind: "system", window: { type: "level-up", level: 5 } },
+      { kind: "prose", text: "b" },
+      { kind: "system", title: "THE LINK", lines: ["bind one"] },
+    ])
+  })
+
   test("leaves every section null where there is no state", () => {
     const modules: GameDisplayModules = { beatLog: {}, hud: {}, quests: {}, sheet: {} }
     const out = composeSessionEnvelope("A Game", modules, { state: null, story: null })

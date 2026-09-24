@@ -1,5 +1,10 @@
 import { classifyActionBarMessage } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import type { GameDisplayModules } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
+import {
+  proseWindowSegmentsIn,
+  type WrittenWindow,
+  windowOf,
+} from "akasha/story/engine/core/modules/prose-windows/prose-windows.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
 import type {
   PendingActionInput,
@@ -14,6 +19,7 @@ import {
   projectStateChapterLinks,
 } from "akasha/story/ui/modules/client-session/client-session.module.code.ts"
 import type {
+  ClientProseSegment,
   ClientStoryChapter,
   ClientStoryTurn,
 } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
@@ -71,6 +77,32 @@ function systemBeatsFor(state: GameState | null): readonly SystemClientBeat[] {
   return projectClientBeats(state).filter((b): b is SystemClientBeat => b.type === "system")
 }
 
+function windowSegment(written: WrittenWindow): ClientProseSegment {
+  const window = windowOf(written)
+  if (window !== undefined) return { kind: "system", window }
+  return {
+    kind: "system",
+    title: written.name ?? written.kind,
+    ...(written.note === undefined ? {} : { lines: [written.note] }),
+  }
+}
+
+function withWindows(
+  turn: ClientStoryTurn,
+  segments?: readonly ClientProseSegment[]
+): ClientStoryTurn {
+  const opened = (segments ?? [{ kind: "prose", text: turn.text }]).flatMap(
+    (segment): ClientProseSegment[] =>
+      segment.kind === "prose"
+        ? proseWindowSegmentsIn(segment.text).map((one) =>
+            one.kind === "prose" ? one : windowSegment(one.window)
+          )
+        : [segment]
+  )
+  if (segments === undefined && opened.every((one) => one.kind === "prose")) return turn
+  return { ...turn, segments: opened }
+}
+
 export function composeSessionEnvelope(
   title: string,
   modules: GameDisplayModules,
@@ -82,19 +114,16 @@ export function composeSessionEnvelope(
   const inlineSystem = modules.chapterProse?.systemWindows === true
   if (modules.chapterProse !== undefined) {
     const turns = inputs.story?.current ?? []
-    if (inlineSystem) {
-      const systemBeats = systemBeatsFor(stateForSections)
-      envelope.chapterProse = turns.map((turn) => {
-        const forTurn = systemBeats.filter(
-          (b) => turn.turnNumber !== undefined && b.turn === turn.turnNumber
-        )
-        const { segments, mismatch } = interleaveTurnSegments(turn, forTurn)
-        if (mismatch !== undefined) onMismatch?.(mismatch)
-        return segments !== undefined ? { ...turn, segments: [...segments] } : turn
-      })
-    } else {
-      envelope.chapterProse = [...turns]
-    }
+    const systemBeats = inlineSystem ? systemBeatsFor(stateForSections) : []
+    envelope.chapterProse = turns.map((turn) => {
+      if (!inlineSystem) return withWindows(turn)
+      const forTurn = systemBeats.filter(
+        (b) => turn.turnNumber !== undefined && b.turn === turn.turnNumber
+      )
+      const { segments, mismatch } = interleaveTurnSegments(turn, forTurn)
+      if (mismatch !== undefined) onMismatch?.(mismatch)
+      return withWindows(turn, segments)
+    })
   }
   if (modules.beatLog !== undefined) {
     if (stateForSections === null) {

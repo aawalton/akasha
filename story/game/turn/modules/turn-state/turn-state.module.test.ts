@@ -2,17 +2,14 @@ import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { GameStateSchema } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
-import { SystemWindowSchema } from "akasha/story/engine/core/modules/system-window-schema/system-window-schema.module.code.ts"
 import { gameAttribute } from "akasha/story/game/attribute/game-attribute.page-type.ts"
 import { luck } from "akasha/story/game/attribute/pages/luck.game-attribute.ts"
 import {
   attributesIn,
   beatsIn,
-  describedIn,
   hudOf,
   revealedOf,
   stateOf,
-  windowOf,
 } from "akasha/story/game/turn/modules/turn-state/turn-state.module.code.ts"
 
 const LUCK = namedAs(gameAttribute.slug, luck.slug, null)
@@ -100,26 +97,6 @@ test("the sheet is the player's page, with the rungs and numbers the turn worked
   expect(sheet.inventory).toEqual([{ name: "Lantern", note: "lit" }])
   expect(sheet.titles).toEqual(["Climber"])
   expect(sheet.derived).toEqual({ "Vitae (HP)": 124 })
-})
-
-test("what an award was recovered from goes back to a label and a value", () => {
-  expect(describedIn("Recovered from: the Host's seat; plain")).toEqual([
-    { label: "Recovered from", value: "the Host's seat" },
-    { label: "", value: "plain" },
-  ])
-})
-
-test("every window goes back to the shape the log's reader accepts", () => {
-  for (const raised of [
-    { kind: "item-award", name: "Clouded lens", note: "Recovered from: the Host's seat" },
-    { kind: "skill", name: "Smithing", rung: "Apprentice" },
-    { kind: "level-up", level: 7 },
-    { kind: "affinity", name: "Force Affinity" },
-    { kind: "class", name: "Smith" },
-  ]) {
-    expect(SystemWindowSchema.safeParse(windowOf(raised)).success).toBe(true)
-  }
-  expect(windowOf({ name: "nothing" })).toBe(undefined)
 })
 
 test("every window every turn raised is a beat of the log", () => {
