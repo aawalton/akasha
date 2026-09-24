@@ -28,11 +28,6 @@ export const appNamespacesSynth = {
       statement: "A namespace named nowhere here is on the cluster until a hand deletes it.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "`collections` `connect` `design-system` `relationships` and `tracking` are named nowhere here.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "No workload reads the `collections-secrets` Secret.",
     },
