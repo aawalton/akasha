@@ -12,7 +12,7 @@ export const alexandriaFallenAngelFallenAngel = {
   title: "Fallen Angel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
+  trackArtist: [{ artist: "artist/alexandria" }],
   trackKey: "fallenangel|0SQG4wPVUlfbmbGQfqB47y|165744",
   song: "song/alexandria-fallen-angel",
   carriedBy: [

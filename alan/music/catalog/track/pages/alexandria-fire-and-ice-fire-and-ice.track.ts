@@ -12,7 +12,7 @@ export const alexandriaFireAndIceFireAndIce = {
   title: "Fire and Ice",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
+  trackArtist: [{ artist: "artist/alexandria" }],
   trackKey: "fireandice|0SQG4wPVUlfbmbGQfqB47y|140094",
   song: "song/alexandria-fire-and-ice",
   carriedBy: [

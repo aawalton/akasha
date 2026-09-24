@@ -12,7 +12,7 @@ export const alexandriaAlwaysAnAngelAlwaysAnAngel = {
   title: "Always an Angel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0SQG4wPVUlfbmbGQfqB47y", artistName: "Alexandria" }],
+  trackArtist: [{ artist: "artist/alexandria" }],
   trackKey: "alwaysanangel|0SQG4wPVUlfbmbGQfqB47y|116250",
   song: "song/alexandria-always-an-angel",
   carriedBy: [
