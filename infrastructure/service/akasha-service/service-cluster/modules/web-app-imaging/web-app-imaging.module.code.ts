@@ -36,7 +36,7 @@ import {
   type Ran,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 
-export const WEB_APP_IMAGES = "web-app"
+const WEB_APP_IMAGES = "web-app"
 
 const TAG_LENGTH = 12
 
