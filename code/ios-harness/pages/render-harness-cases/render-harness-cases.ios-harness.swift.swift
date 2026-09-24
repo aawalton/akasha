@@ -65,6 +65,16 @@ func cases(now: Date) -> [RenderCase] {
         RenderCase(
             name: "upkeep-stoplights-small-never-read", widget: "UpkeepStoplightsWidget",
             familySource: "systemSmall", body: "", unreadable: true),
+        RenderCase(
+            name: "upkeep-stoplights-small-no-signal", widget: "UpkeepStoplightsWidget",
+            familySource: "systemSmall",
+            body: """
+                {"stoplights":[\
+                {"habit":"safety","tier":"green","reading":"3.2","nextTier":"blue",\
+                "progress":0.6,"label":"Safety","figureOffScale":true},\
+                {"habit":"sleep","tier":"black","reading":"","readingHeld":"none",\
+                "label":"Sleep","figureOffScale":true}]}
+                """),
     ])
 
     for tile in [
