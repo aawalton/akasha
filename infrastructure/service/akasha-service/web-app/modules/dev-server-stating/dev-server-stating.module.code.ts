@@ -9,7 +9,6 @@ import {
   errnoCodeOf,
   pidAliveOrRefuse,
 } from "akasha/code/process/modules/pid-signal/pid-signal.module.code.ts"
-import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import {
   listedAt,
@@ -161,11 +160,7 @@ export function ensureDevServerDirs(commit: string): undefined {
 }
 
 function parseState(raw: string): DevServerState {
-  const decoded: unknown = JSON.parse(raw)
-  if (!isRecord(decoded)) {
-    throw new Error(`dev-server state is not an object: ${raw.slice(0, 200)}`)
-  }
-  const result = STATE_SHAPE.safeParse(decoded)
+  const result = STATE_SHAPE.safeParse(JSON.parse(raw))
   if (!result.success) {
     throw new Error(`dev-server state is missing required fields: ${raw.slice(0, 200)}`)
   }
