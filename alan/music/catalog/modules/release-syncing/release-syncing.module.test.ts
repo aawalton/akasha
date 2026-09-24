@@ -255,9 +255,26 @@ test("the flags a run is given are read off what it was handed", () => {
   expect(taken(["--only", "aurora", "--limit", "5"])).toEqual({ only: "aurora", limit: 5 })
 })
 
-test("a limit that is no whole number of one or more is read as no limit", () => {
-  expect(taken(["--limit", "0"]).limit).toBeNull()
-  expect(taken(["--limit", "half"]).limit).toBeNull()
+test("a limit that is no whole number of one or more is refused rather than read as no limit", () => {
+  expect(() => taken(["--limit", "0"])).toThrow("`--limit` takes a whole number")
+  expect(() => taken(["--limit", "half"])).toThrow("`--limit` takes a whole number")
+  expect(() => taken(["--limit"])).toThrow("was given nothing")
+})
+
+test("a flag a sweep does not take is refused rather than ignored", () => {
+  expect(() => taken(["--onyl", "aurora"])).toThrow("`--onyl` is no flag a sweep takes")
+})
+
+test("an only naming no artist is refused rather than read as every artist due", () => {
+  expect(() => taken(["--only"])).toThrow("`--only` names no artist")
+  expect(() => taken(["--only", "--limit", "3"])).toThrow("`--only` names no artist")
+})
+
+test("the words a command was called with before its flags are passed over", () => {
+  expect(taken(["infrastructure", "service", "run", "spotify-sync"])).toEqual({
+    only: null,
+    limit: null,
+  })
 })
 
 test("a release Spotify gives a new id is the release already filed under its title", () => {

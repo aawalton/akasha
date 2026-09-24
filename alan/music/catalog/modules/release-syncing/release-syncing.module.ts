@@ -38,6 +38,15 @@ export const releaseSyncing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A flag a sweep does not take is refused rather than ignored.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A limit that is no whole number of one or more is refused rather than read as none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A release already filed under its Spotify id is counted and not read again.",
     },
     {
@@ -119,6 +128,15 @@ export const releaseSyncing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "One artist's releases land as one commit, after that artist's own is stamped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run names each artist it swept and the commit that artist's releases landed as.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run counts an artist's releases and tracks only where a commit landed them.",
     },
     {
       decisionKind: "decision-kind/departure",

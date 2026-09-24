@@ -66,6 +66,12 @@ const IDENTITY = "externalIdentity"
 
 const SAID = "[spotify-sync]"
 
+const FLAG = "--"
+
+const ONLY = "--only"
+
+const LIMIT = "--limit"
+
 export const DUE_AFTER_DAYS = 30
 
 export type Reach = {
@@ -109,14 +115,36 @@ export type Taken = {
   readonly limit: number | null
 }
 
+function limitIn(said: string | undefined): number {
+  const read = Number(said)
+  if (said !== undefined && Number.isInteger(read) && read >= 1) return read
+  const given = said === undefined ? "nothing" : `\`${said}\``
+  throw new Error(`\`${LIMIT}\` takes a whole number of one or more, and was given ${given}`)
+}
+
 export function taken(argv: readonly string[]): Taken {
-  const named = argv.indexOf("--only")
-  const capped = argv.indexOf("--limit")
-  const said = capped === -1 ? null : Number(argv[capped + 1])
-  return {
-    only: named === -1 ? null : (argv[named + 1] ?? null),
-    limit: said === null || !Number.isInteger(said) || said < 1 ? null : said,
+  let only: string | null = null
+  let limit: number | null = null
+  let at = 0
+  while (at < argv.length) {
+    const word = argv[at] ?? ""
+    const said = argv[at + 1]
+    at += 1
+    if (!word.startsWith(FLAG)) continue
+    if (word === ONLY) {
+      if (said === undefined || said.startsWith(FLAG))
+        throw new Error(`\`${ONLY}\` names no artist`)
+      only = said
+    } else if (word === LIMIT) {
+      limit = limitIn(said)
+    } else {
+      throw new Error(
+        `\`${word}\` is no flag a sweep takes, which are \`${ONLY}\` and \`${LIMIT}\``
+      )
+    }
+    at += 1
   }
+  return { only, limit }
 }
 
 export function followedIn(root: string): readonly Followed[] {
@@ -369,16 +397,19 @@ export async function syncReleases(
         filedHere += edits.filed
         filling += 1
       }
-      const landed = await landing(
-        root,
-        changes,
-        `file ${unfiled.asked.length} spotify release(s), backfill ${filling}, and file ${tracking} track(s) and ${filedHere} song(s) for ${one.title}`
-      )
+      const saying = `file ${unfiled.asked.length} spotify release(s), backfill ${filling}, and file ${tracking} track(s) and ${filedHere} song(s) for ${one.title}`
+      const landed = await landing(root, changes, saying)
       const wrong = refusalsIn(landed)
       if (wrong.length > 0) throw new Error(wrong.join("; "))
+      skipped += unfiled.skipped
+      const commit = "commit" in landed ? landed.commit : null
+      if (commit === null) {
+        console.log(`${SAID} ${one.slug}: nothing moved, so nothing landed`)
+        continue
+      }
+      console.log(`${SAID} ${one.slug} landed ${commit}: ${saying}`)
       created += unfiled.asked.filter((each) => Object.keys(each.was).length === 0).length
       updated += unfiled.asked.filter((each) => Object.keys(each.was).length > 0).length
-      skipped += unfiled.skipped
       tracked += tracking
       backfilled += filling
       songsFiled += filedHere
