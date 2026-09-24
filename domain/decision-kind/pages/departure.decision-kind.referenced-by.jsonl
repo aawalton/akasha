@@ -356,7 +356,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-create/supervisor-agent-create.module.ts","id":"01a0683e-3dbe-7009-b4d5-f3784313307e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-settings/supervisor-agent-settings.module.ts","id":"01a069bf-b8ea-7512-b82f-c386bd4270c4"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.ts","id":"01a0683e-3dbe-700e-bc70-8aac8a65c77d"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.ts","id":"01a0683e-3dbe-700f-9725-cda76a9d7b7e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.ts","id":"01a0683e-3dbe-7010-8b9f-e1ca56441ef8"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-env/supervisor-env.module.ts","id":"01a0683e-3dbe-701f-84bf-56050a29afd2"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.ts","id":"01a06871-3115-7008-8fbf-3dbf3b640571"}

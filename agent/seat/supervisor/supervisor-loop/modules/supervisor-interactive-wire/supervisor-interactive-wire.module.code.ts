@@ -2,7 +2,7 @@ import { triggerProxySwap } from "akasha/agent/seat/model-gateway/modules/superv
 import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { startPreCliffRestartMonitor } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
 
-import { LIVE_CHILD_EXIT_RULE } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { classifyChildExit } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import { buildAgentActionSubsystem } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
 import {
   clearRequestedAction,
@@ -93,15 +93,11 @@ export async function settleIterationExit(
   wiring.deferredRestart.cancel = null
   wiring.preCliffMonitor?.stop()
 
-  const { value: observedExit, notice: observedExitNotice } = await LIVE_CHILD_EXIT_RULE.classify({
-    status: proc.exitStatus(),
-    supervisorKilled: wiring.actionSubsystem.wasSupervisorKill(),
-    shuttingDown: isShuttingDown(),
-  })
-  if (observedExit === null)
-    console.log(
-      `${LOG} child exit NOT classified — the rule could not be read, so this death is ` +
-        `recorded as unexamined rather than guessed: ${observedExitNotice ?? "no reason given"}`
-    )
-  else setObservedChildExit(observedExit)
+  setObservedChildExit(
+    classifyChildExit({
+      status: proc.exitStatus(),
+      supervisorKilled: wiring.actionSubsystem.wasSupervisorKill(),
+      shuttingDown: isShuttingDown(),
+    })
+  )
 }

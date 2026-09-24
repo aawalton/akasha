@@ -1,9 +1,0 @@
-{"propertySlug":"import","fileName":"supervisor-child-exit-rule.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-rule.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-rule.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor/supervisor.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-start/seat-agent-start.domain.ts","id":"01a09c69-a97e-7071-b7a2-2f3b506ded07"}

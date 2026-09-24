@@ -1,6 +1,8 @@
 import { dlopen, FFIType, ptr } from "bun:ffi"
-import type { ChildExitStatus } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import {
+  type ChildExitStatus,
+  decodeWaitStatus,
+} from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import { resolveMappedLibc } from "akasha/code/process/modules/libc-mapping/libc-mapping.module.code.ts"
 import {
   errnoCodeOf,
@@ -109,14 +111,13 @@ export function signalPid(pid: number, signal: SignalName): undefined {
 
 export async function waitForPidExit(
   pid: number,
-  childExitRule: ChildExitRuleSource,
   opts?: { pollIntervalMs?: number }
 ): Promise<ChildExitStatus> {
   const interval = opts?.pollIntervalMs ?? 250
   const status = new Int32Array(1)
   while (true) {
     const ret = libc.waitpid(pid, status, WNOHANG)
-    if (ret > 0) return (await childExitRule.decodeWaitStatus(status[0] ?? 0)).value
+    if (ret > 0) return decodeWaitStatus(status[0] ?? 0)
     if (ret < 0 && !isProcessAlive(pid)) return { exitCode: null, signal: null }
     await new Promise((r) => setTimeout(r, interval))
   }

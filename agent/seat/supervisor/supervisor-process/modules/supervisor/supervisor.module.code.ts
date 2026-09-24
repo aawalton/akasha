@@ -1,4 +1,3 @@
-import { LIVE_CHILD_EXIT_RULE } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import { runInteractive } from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"
 import type { RunInteractiveSeams } from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
@@ -24,7 +23,7 @@ async function supervisorMain(seams: RunInteractiveSeams): Promise<void> {
   assertBootFiles(REQUIRED_BOOT_FILES)
 
   installSupervisorTerminalGuard({
-    shutdown: (signal: string) => shutdown(signal, LIVE_CHILD_EXIT_RULE),
+    shutdown: (signal: string) => shutdown(signal),
     isClaudeAlive: () => processes.size > 0,
     getSink: agentLog.getCurrentSink,
   })
@@ -34,7 +33,7 @@ async function supervisorMain(seams: RunInteractiveSeams): Promise<void> {
   await runInteractive(parsed.prompt, parsed, agentLog, seams)
   getRestoreConsoleHandle()?.()
   setRestoreConsoleHandle(null)
-  await shutdown("interactive-exit", LIVE_CHILD_EXIT_RULE)
+  await shutdown("interactive-exit")
 }
 
 export function runSupervisor(seams: RunInteractiveSeams): undefined {

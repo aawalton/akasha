@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { ProcLivenessEntry } from "akasha/agent/modules/proc-liveness/agent-proc-liveness.module.code.ts"
 import type { spawnClaudeChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+
 import {
   type ChildSpawnSeams,
   findLiveClaudeChild,
@@ -15,23 +15,6 @@ const AGENT = "01a0683e-3dbe-7010-8b9f-e1ca56441ef8"
 const CLAUDE = "/usr/bin/claude --dangerously-skip-permissions"
 
 const LIVE = 4242
-
-const UNASKED = "the child exit rule was asked something this run does not reach"
-
-const NEVER_ASKED: ChildExitRuleSource = {
-  decodeWaitStatus: () => {
-    throw new Error(UNASKED)
-  },
-  collapse: () => {
-    throw new Error(UNASKED)
-  },
-  classify: () => {
-    throw new Error(UNASKED)
-  },
-  shutdownWrite: () => {
-    throw new Error(UNASKED)
-  },
-}
 
 const SPAWN_OPTS: Parameters<typeof spawnClaudeChild>[0] = {
   cliArgs: [],
@@ -85,7 +68,6 @@ function ranWith(seams: Partial<ChildSpawnSeams>): {
   return spawnOrAdoptChild({
     adoptOnce: null,
     spawnOpts: SPAWN_OPTS,
-    childExitRule: NEVER_ASKED,
     seams,
   })
 }

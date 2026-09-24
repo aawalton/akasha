@@ -12,7 +12,6 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-spawn-decisions/supervisor-seat-spawn-decisions.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-agent/supervisor-spawn-agent.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"}

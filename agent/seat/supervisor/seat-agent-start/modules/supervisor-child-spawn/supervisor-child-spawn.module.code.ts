@@ -10,7 +10,7 @@ import {
   type resolveClaudeHandoff,
   spawnClaudeChild,
 } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import type { InheritedProc } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
 import { sweepSubagentPagesOf } from "akasha/agent/subagent/modules/pages-sweeping/subagent-pages-sweeping.module.code.ts"
@@ -56,17 +56,16 @@ export function findLiveClaudeChild(
 
 function adoptLiveChildOrSpawn(args: {
   spawnOpts: Parameters<typeof spawnClaudeChild>[0]
-  childExitRule: ChildExitRuleSource
   seams: ChildSpawnSeams
 }): { proc: InheritedProc; adoptedThisIter: boolean } {
-  const { spawnOpts, childExitRule, seams } = args
+  const { spawnOpts, seams } = args
   const scanned = seams.scanProcs()
   const livePid = scanned.ok
     ? findLiveClaudeChild(spawnOpts.agentId, scanned.entries, process.pid)
     : null
   if (livePid !== null) {
     try {
-      const proc = seams.adoptProc(livePid, childExitRule)
+      const proc = seams.adoptProc(livePid)
       console.log(
         `${LOG} adopt: Claude pid=${livePid} is already this supervisor's child for agent ${spawnOpts.agentId} — adopting it rather than spawning a second onto the same terminal`
       )
@@ -84,14 +83,13 @@ function adoptLiveChildOrSpawn(args: {
 export function spawnOrAdoptChild(args: {
   adoptOnce: ReturnType<typeof resolveClaudeHandoff>
   spawnOpts: Parameters<typeof spawnClaudeChild>[0]
-  childExitRule: ChildExitRuleSource
   seams?: Partial<ChildSpawnSeams>
 }): { proc: InheritedProc | null; adoptedThisIter: boolean } {
-  const { adoptOnce, spawnOpts, childExitRule } = args
+  const { adoptOnce, spawnOpts } = args
   const seams = seamsOf(args.seams)
   if (adoptOnce) {
     try {
-      const proc = seams.adoptProc(adoptOnce.pid, childExitRule)
+      const proc = seams.adoptProc(adoptOnce.pid)
       console.log(
         `${LOG} adopt: skipped Bun.spawn — adopted Claude pid=${adoptOnce.pid} (agent ${spawnOpts.agentId})`
       )
@@ -112,9 +110,9 @@ export function spawnOrAdoptChild(args: {
       console.warn(
         `${LOG} adopt: liveness of inherited PID ${adoptOnce.pid} unknown — recovering with a fresh --resume spawn (agent ${spawnOpts.agentId})`
       )
-      return adoptLiveChildOrSpawn({ spawnOpts, childExitRule, seams })
+      return adoptLiveChildOrSpawn({ spawnOpts, seams })
     }
   }
   console.log(`${LOG} Running interactively in ${spawnOpts.cwd} (agent ${spawnOpts.agentId})`)
-  return adoptLiveChildOrSpawn({ spawnOpts, childExitRule, seams })
+  return adoptLiveChildOrSpawn({ spawnOpts, seams })
 }

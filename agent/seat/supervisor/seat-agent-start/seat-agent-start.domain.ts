@@ -13,7 +13,6 @@ export const seatAgentStart = {
     "module/supervisor-agent-create",
     "module/supervisor-agent-settings",
     "module/supervisor-child-exit-decide",
-    "module/supervisor-child-exit-rule",
     "module/supervisor-child-spawn",
     "module/supervisor-env",
     "module/supervisor-interactive-spawn",

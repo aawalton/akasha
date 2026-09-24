@@ -4,8 +4,10 @@ import {
   refuseMissingCwd,
 } from "akasha/agent/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
 import { resolveRemoteControlEnv } from "akasha/agent/claude-code/remote-control/modules/env/claude-code-remote-control-env.module.code.ts"
-import type { ChildExitStatus } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
-import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import {
+  type ChildExitStatus,
+  collapseChildExitStatus,
+} from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import { buildSupervisorEnv } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-env/supervisor-env.module.code.ts"
 import {
   CLAUDE_CONFIG_PATH,
@@ -25,19 +27,19 @@ import type { InheritedProc } from "akasha/agent/seat/supervisor/supervisor-proc
 import type { SupervisorHandoff } from "akasha/agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 
-export function adoptInheritedProc(pid: number, childExitRule: ChildExitRuleSource): InheritedProc {
+export function adoptInheritedProc(pid: number): InheritedProc {
   if (!isProcessAlive(pid)) {
     throw new InheritedPidDeadError(pid)
   }
   let killed = false
   let observed: ChildExitStatus = { exitCode: null, signal: null }
-  const waited = waitForPidExit(pid, childExitRule).then((status) => {
+  const waited = waitForPidExit(pid).then((status) => {
     observed = status
     return status
   })
   return {
     pid,
-    exited: waited.then(async (status) => (await childExitRule.collapse(status)).value),
+    exited: waited.then(collapseChildExitStatus),
     exitStatus: () => observed,
     kill: (_signal?: string | number) => {
       if (killed) return

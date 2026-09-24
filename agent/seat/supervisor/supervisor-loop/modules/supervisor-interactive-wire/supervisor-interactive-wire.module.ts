@@ -28,10 +28,5 @@ export const supervisorInteractiveWire = {
       decisionKind: "decision-kind/departure",
       statement: "Settling stops the pre-cliff monitor that iteration started.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "An exit the rule could not classify is recorded as unexamined rather than guessed.",
-    },
   ],
 } as const satisfies Module

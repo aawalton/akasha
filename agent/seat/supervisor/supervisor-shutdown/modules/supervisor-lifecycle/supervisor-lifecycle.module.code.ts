@@ -1,4 +1,4 @@
-import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+import { decideShutdownExitWrite } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getObservedChildExit,
@@ -72,7 +72,7 @@ export function armForceExitTimer(signal: string): () => void {
   return () => clearTimeout(forceTimer)
 }
 
-export async function shutdown(signal: string, childExitRule: ChildExitRuleSource): Promise<void> {
+export async function shutdown(signal: string): Promise<void> {
   if (isShuttingDown()) {
     recordShutdownEvent("re-entry-noop", { signal })
     return
@@ -91,17 +91,11 @@ export async function shutdown(signal: string, childExitRule: ChildExitRuleSourc
   }
 
   const childExit = getObservedChildExit()
-  const { value: exitWrite, notice: exitWriteNotice } = await childExitRule.shutdownWrite(childExit)
-  if (exitWrite === null) recordShutdownEvent("exit-write-unreached", { reason: exitWriteNotice })
+  const exitWrite = decideShutdownExitWrite(childExit)
 
   if (shouldWriteTerminalStoppedStatus(isPendingReExec())) {
     const dyingAgentId = getCurrentAgentIdForRestart()
-    if (
-      dyingAgentId !== null &&
-      exitWrite !== null &&
-      !exitWrite.stampCleanExit &&
-      childExit !== null
-    ) {
+    if (dyingAgentId !== null && !exitWrite.stampCleanExit && childExit !== null) {
       recordShutdownEvent("child-crash", { agentId: dyingAgentId, reason: childExit.reason })
     }
   }
@@ -112,15 +106,13 @@ export async function shutdown(signal: string, childExitRule: ChildExitRuleSourc
 
   if (shouldWriteTerminalStoppedStatus(isPendingReExec())) {
     const dyingAgentId = getCurrentAgentIdForRestart()
-    if (dyingAgentId !== null && exitWrite !== null) {
+    if (dyingAgentId !== null) {
       const pageTaken = takeSeatPage(dyingAgentId, exitWrite.stopReason)
       recordShutdownEvent("seat-page-remove", {
         agentId: dyingAgentId,
         outcome: pageTaken.kind,
         detail: pageTaken.kind === "refused" ? pageTaken.detail : undefined,
       })
-    } else if (dyingAgentId !== null) {
-      recordShutdownEvent("seat-page-remove-skip-unreached", { agentId: dyingAgentId })
     } else {
       recordShutdownEvent("seat-page-remove-skip-no-agent")
     }

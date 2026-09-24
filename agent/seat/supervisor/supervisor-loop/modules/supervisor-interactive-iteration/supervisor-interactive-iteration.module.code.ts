@@ -6,7 +6,7 @@ import { reconcileClaimedRedelivery } from "akasha/agent/message/modules/supervi
 import { redeliveryHoldoff } from "akasha/agent/message/modules/supervisor-redelivery-holdoff/agent-message-supervisor-redelivery-holdoff.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import { createAgent } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
-import { LIVE_CHILD_EXIT_RULE } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-rule/supervisor-child-exit-rule.module.code.ts"
+
 import { spawnOrAdoptChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"
 import {
   applyCarriedName,
@@ -136,7 +136,6 @@ export async function acquireIterationChild(args: {
   const { proc, adoptedThisIter } = spawnOrAdoptChild({
     adoptOnce: args.adoptOnce,
     spawnOpts,
-    childExitRule: LIVE_CHILD_EXIT_RULE,
   })
   args.setAdoptOnce(null)
   if (proc === null) return { proc: null, adoptedThisIter, iterMcpPath }
