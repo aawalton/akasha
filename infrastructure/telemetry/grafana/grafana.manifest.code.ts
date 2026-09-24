@@ -2,10 +2,12 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { placedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { grafana } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/grafana/grafana.service-cluster.ts"
+import { grafana as page } from "akasha/infrastructure/telemetry/grafana/grafana.manifest.ts"
 
 const NAMESPACE = grafana.namespace
 const SECRETS_NAME = "grafana-secrets"
@@ -181,10 +183,7 @@ function deploymentYaml(dashboards: Readonly<Record<string, string>>): string {
                 { name: "GF_PATHS_PROVISIONING", value: "/etc/grafana/provisioning" },
               ],
               ports: [{ name: "http", containerPort: grafana.containerPort }],
-              resources: {
-                requests: { cpu: "10m", memory: "96Mi" },
-                limits: { memory: "96Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 472,

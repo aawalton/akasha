@@ -7,5 +7,8 @@ export const kubeStateMetrics = {
   definition: "the cluster object exporter's permissions, its deployment and the way in to it",
   parts: ["module/kube-state-metrics-manifests"],
   code: "ts",
+  minCpuMillicores: 5,
+  minMemoryMb: 96,
+  killMemoryMb: 96,
   generatedDirectory: true,
 } as const satisfies Manifest

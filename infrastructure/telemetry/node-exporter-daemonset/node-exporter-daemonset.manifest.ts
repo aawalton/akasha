@@ -12,5 +12,8 @@ export const nodeExporterDaemonset = {
     "module/kubepods-oom-constants",
   ],
   code: "ts",
+  minCpuMillicores: 5,
+  minMemoryMb: 64,
+  killMemoryMb: 64,
   generatedDirectory: true,
 } as const satisfies Manifest

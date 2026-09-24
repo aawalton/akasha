@@ -2,6 +2,7 @@ import {
   synthMulti,
   synthOne,
 } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import {
   capabilitySelector,
   HOSTNAME_KEY,
@@ -14,6 +15,7 @@ import {
   PROMETHEUS_SELECTOR_LABELS,
 } from "akasha/infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.code.ts"
 import { PROMETHEUS_YML } from "akasha/infrastructure/telemetry/prometheus/modules/config/prometheus-config.module.code.ts"
+import { prometheus as page } from "akasha/infrastructure/telemetry/prometheus/prometheus.manifest.ts"
 
 export async function prometheusConfigmapYaml(): Promise<string> {
   return synthOne(NAMESPACE, "prometheus-configmap", {
@@ -212,10 +214,7 @@ export function prometheusDeploymentYaml(): string {
                 "--enable-feature=promql-experimental-functions",
               ],
               ports: [{ name: "http", containerPort: 9090 }],
-              resources: {
-                requests: { cpu: "30m", memory: "8Gi" },
-                limits: { memory: "8Gi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 65534,

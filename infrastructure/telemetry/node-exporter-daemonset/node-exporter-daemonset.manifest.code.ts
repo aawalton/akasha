@@ -1,4 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import {
   KUBE_SYSTEM_NAMESPACE,
   NODE_EXPORTER_IMAGE,
@@ -16,6 +17,7 @@ import {
   PROM_FILENAME,
   TEXTFILE_DIR,
 } from "akasha/infrastructure/telemetry/node-exporter-daemonset/modules/kubepods-oom-constants/kubepods-oom-constants.module.code.ts"
+import { nodeExporterDaemonset as page } from "akasha/infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.ts"
 
 const COLLECTOR_LOOP = `while true; do
   local_kills=$(awk '/^oom_kill /{print $2}' ${CGROUP_LOCAL_PATH} 2>/dev/null)
@@ -67,10 +69,7 @@ function nodeExporterDaemonsetYaml(): string {
                 "--web.listen-address=:9100",
               ],
               ports: [{ name: "metrics", containerPort: 9100, hostPort: 9100 }],
-              resources: {
-                requests: { cpu: "5m", memory: "64Mi" },
-                limits: { memory: "64Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 65534,

@@ -8,5 +8,8 @@ export const prometheus = {
     "the metrics server, its namespace, its access rules, its storage, its configuration and its way in",
   parts: ["module/prometheus-config", "module/prometheus-manifests"],
   code: "ts",
+  minCpuMillicores: 30,
+  minMemoryMb: 8192,
+  killMemoryMb: 8192,
   generatedDirectory: true,
 } as const satisfies Manifest

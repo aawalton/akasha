@@ -19,6 +19,11 @@
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/node/nvidia-device-plugin/nvidia-device-plugin.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/storage/container-registry/registry-gc/registry-gc.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/telemetry/node-exporter-daemonset/node-exporter-daemonset.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/telemetry/prometheus/modules/manifests/prometheus-manifests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/smilingjenny/web/manifests/smilingjenny-web-manifests.manifest.code.ts","typed":false,"deferred":false}

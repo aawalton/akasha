@@ -1,2 +1,3 @@
+{"propertySlug":"import","fileName":"kube-state-metrics.manifest.ts","path":"infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/telemetry/telemetry.domain.ts","id":"01a0658b-0f02-79eb-aed4-e7e8b92bc117"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/kube-state-metrics/kube-state-metrics.service-cluster.ts","id":"01a06812-2380-742f-b9bc-e1bb91eceda6"}

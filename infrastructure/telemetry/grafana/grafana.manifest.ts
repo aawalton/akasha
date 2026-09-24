@@ -7,6 +7,9 @@ export const grafana = {
   definition:
     "the chart server, its namespace, the sources and dashboards it is given, and its way in",
   code: "ts",
+  minCpuMillicores: 10,
+  minMemoryMb: 96,
+  killMemoryMb: 96,
   generatedDirectory: true,
   parts: ["dashboard/pods", "dashboard/resources"],
   decisions: [

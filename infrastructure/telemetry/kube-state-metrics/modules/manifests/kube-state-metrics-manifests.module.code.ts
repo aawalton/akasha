@@ -2,7 +2,9 @@ import {
   synthMulti,
   synthOne,
 } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { kubeStateMetrics as page } from "akasha/infrastructure/telemetry/kube-state-metrics/kube-state-metrics.manifest.ts"
 import {
   KUBE_STATE_METRICS_IMAGE,
   KUBE_STATE_METRICS_LABELS,
@@ -153,10 +155,7 @@ export function kubeStateMetricsDeploymentYaml(): string {
                 { name: "http-metrics", containerPort: 8080 },
                 { name: "telemetry", containerPort: 8081 },
               ],
-              resources: {
-                requests: { cpu: "5m", memory: "96Mi" },
-                limits: { memory: "96Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 65534,
