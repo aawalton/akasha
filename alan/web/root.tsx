@@ -10,6 +10,7 @@ import { isNativeShell } from "akasha/alan/web/modules/capacitor-bridge/capacito
 import { createNativeFsContentPersistence } from "akasha/alan/web/modules/content-pages-fs/content-pages-fs.module.code.ts"
 import { readLocalPosition } from "akasha/alan/web/modules/offline-text/offline-text.module.code.ts"
 import { createNativeFsPagesPersistence } from "akasha/alan/web/modules/pages-persistence-fs/pages-persistence-fs.module.code.ts"
+import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
 import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
@@ -23,15 +24,7 @@ import {
 } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
-import {
-  isRouteErrorResponse,
-  Links,
-  Meta,
-  Outlet,
-  Scripts,
-  ScrollRestoration,
-  useRouteLoaderData,
-} from "react-router"
+import { isRouteErrorResponse, Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
 import "akasha/alan/web/modules/declared-effects/declared-effects.module.code.ts"
@@ -110,7 +103,7 @@ export async function loader({ request, context }: Route.LoaderArgs) {
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
-  const nonce = useRouteLoaderData<typeof loader>("root")?.nonce
+  const nonce = useDocumentNonce()
   useEffect(() => {
     setStoreDiagnosticsSink((d) =>
       reportError({
@@ -135,7 +128,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
         <Meta />
         {}
-        <script src="/sidebar-boot.js" nonce={nonce} />
+        <script src="/sidebar-boot.js" nonce={nonce} suppressHydrationWarning />
       </head>
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>
