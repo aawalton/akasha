@@ -121,7 +121,7 @@ test("a body stating no page type is refused", async () => {
   const world = worldIn(scratch.rootFor("slug-"), bodyAt(HELD_PAGE, body))
   const said = await runChange(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("`akasha/one/held.module.ts` states no `pageTypeSlug`")
+  expect(said.refused).toBe("`akasha/one/held.module.ts` states no `type`")
 })
 
 test("a refusal from the slug rename is answered as this change's own", async () => {
