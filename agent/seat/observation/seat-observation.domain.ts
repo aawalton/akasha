@@ -4,7 +4,7 @@ export const seatObservation = {
   id: "01a0658d-c92f-76f2-abb0-efb387b6515b",
   type: "page-type/domain",
   slug: "seat-observation",
-  definition: "what a seat has because somebody looked",
+  definition: "a seat's value read by someone",
   parts: [
     "domain/seat-turn",
     "list/idle-live-seat",
