@@ -175,19 +175,15 @@ const CHECK_CODE = "check-code"
 
 const PACKAGE = "package.json"
 
+const KEPT_ROW = z.string()
+
 function pageKeeping(index: Answering): string | null {
   return index.listedAt(CHECK_CODE, SLUG)[0]?.path ?? null
 }
 
 function keptIn(root: string, page: string): ReadonlySet<string> | null {
-  const rows = cachedIn(root, page)
-  if (rows === null) return null
-  const found = new Set<string>()
-  for (const row of rows) {
-    if (typeof row !== "string") return null
-    found.add(row)
-  }
-  return found
+  const rows = cachedIn(root, page, KEPT_ROW)
+  return rows === null ? null : new Set(rows)
 }
 
 function couldTurn(paths: readonly string[], manifest: string, kept: ReadonlySet<string>): boolean {

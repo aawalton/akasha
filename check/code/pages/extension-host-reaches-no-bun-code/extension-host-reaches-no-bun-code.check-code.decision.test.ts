@@ -28,6 +28,9 @@ import {
   withManifest,
 } from "akasha/check/code/pages/extension-host-reaches-no-bun-code/extension-host-reaches-no-bun-code.check-code.decision.test-fixtures.ts"
 import { cachedIn, cacheKept } from "akasha/check/modules/cache/check-cache.module.code.ts"
+import { z } from "zod"
+
+const KEPT_ROW = z.string()
 
 afterAll(scratch.sweep)
 
@@ -149,7 +152,7 @@ test("a run reading the graph keeps what it reached beside this check's page", (
   )
   refusalsOver(hosting(held), MANIFEST)
 
-  expect(cachedIn(root, CHECK_PAGE)).toEqual([ENTRY, NEXT])
+  expect(cachedIn(root, CHECK_PAGE, KEPT_ROW)).toEqual([ENTRY, NEXT])
 })
 
 test("a change naming nothing kept is answered with no refusal", () => {
@@ -174,5 +177,5 @@ test("what a run reaches joins what was kept rather than replacing it", () => {
   const held = changeIn(root, withManifest({ [ENTRY]: "export const it = 1\n" }))
   refusalsOver(hosting(held), MANIFEST)
 
-  expect(cachedIn(root, CHECK_PAGE)).toEqual([ENTRY, "gone/gone.module.code.ts"])
+  expect(cachedIn(root, CHECK_PAGE, KEPT_ROW)).toEqual([ENTRY, "gone/gone.module.code.ts"])
 })

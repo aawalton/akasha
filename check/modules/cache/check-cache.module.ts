@@ -26,6 +26,14 @@ export const checkCache = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A row is read against the shape the reader hands in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cache holding a row outside that shape is taken as nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A cache is put in place whole, so a reader reads it as it was or as it is.",
     },
     {
