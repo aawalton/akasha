@@ -10,5 +10,6 @@
 {"propertySlug":"import","fileName":"gmail-client.module.code.ts","path":"command/pages/email/draft/create/email-draft-create.command.code.ts"}
 {"propertySlug":"import","fileName":"gmail-client.module.code.ts","path":"command/pages/email/draft/list/email-draft-list.command.code.ts"}
 {"propertySlug":"import","fileName":"gmail-client.module.code.ts","path":"command/pages/email/message/send/email-message-send.command.code.ts"}
+{"propertySlug":"import","fileName":"gmail-client.module.code.ts","path":"command/pages/email/message/trash/email-message-trash.command.code.ts"}
 {"propertySlug":"import","fileName":"gmail-client.module.code.ts","path":"command/pages/email/unsubscribe/email-unsubscribe.command.code.ts"}
 {"propertySlug":"parts","path":"alan/google/email/google-email.domain.ts","id":"01a05c0e-372c-7620-9bcc-082febbe3f5b"}

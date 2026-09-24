@@ -1,4 +1,5 @@
-import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
+import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
+import { trashMessage } from "akasha/alan/google/email/modules/gmail-messages/gmail-messages.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { message } from "akasha/command/argument/pages/message.argument.ts"
 import {
@@ -14,8 +15,6 @@ export function emailMessageTrash(argv: readonly string[], given: Given): Promis
   const read = takenFor(argv, given.calledAs, page, [message])
   if ("refused" in read) return Promise.resolve(refusedBy(read.refused, INPUT))
   return answering(async (done) => {
-    const google = await emailGoogle()
-    const client = await google.makeGmailClient()
-    return asIndentedJson(await google.trashMessage(client, read.taken.message, done))
+    return asIndentedJson(await trashMessage(await makeGmailClient(), read.taken.message, done))
   })
 }
