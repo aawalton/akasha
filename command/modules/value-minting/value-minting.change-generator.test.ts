@@ -29,6 +29,9 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
+import { z } from "zod"
+
+const ENTRY_SAID = z.record(z.string(), z.string())
 
 const scratch = scratchWorld()
 
@@ -219,7 +222,7 @@ test("a path taken away takes no value", () => {
 })
 
 test("an entry arriving without an id is given one, and the id goes in first", () => {
-  const held: Record<string, unknown> = JSON.parse(identified('{"page": "one"}') ?? "{}")
+  const held = ENTRY_SAID.parse(JSON.parse(identified('{"page": "one"}') ?? "{}"))
   expect(Object.keys(held)).toEqual(["id", "page"])
   expect(statesVersionSeven(String(held["id"]))).toBe(true)
 })
@@ -238,8 +241,8 @@ test("a line carrying no object is left alone", () => {
 test("only the entries arriving without an id are given one", () => {
   const said = identifiedOver(`{"page": "one"}\n{"id": "${HELD_ID}", "page": "two"}\n`)
   const lines = (said ?? "").split("\n")
-  expect(String(JSON.parse(lines[0] ?? "{}")["page"])).toBe("one")
-  expect(String(JSON.parse(lines[1] ?? "{}")["id"])).toBe(HELD_ID)
+  expect(ENTRY_SAID.parse(JSON.parse(lines[0] ?? "{}"))["page"]).toBe("one")
+  expect(ENTRY_SAID.parse(JSON.parse(lines[1] ?? "{}"))["id"]).toBe(HELD_ID)
   expect(lines[2]).toBe("")
 })
 

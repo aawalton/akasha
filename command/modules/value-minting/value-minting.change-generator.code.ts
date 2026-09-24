@@ -20,8 +20,11 @@ import {
 } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+import { z } from "zod"
 
 const BYTES = new TextEncoder()
+
+const ROW_SAID = z.record(z.string(), z.unknown())
 
 const UUID_V7 = "uuid-v7"
 
@@ -101,14 +104,13 @@ function earlyOf(shadow: Shadow): ReadonlyMap<string, Generated> {
 export function identified(line: string): string | null {
   const said = line.trim()
   if (said === "") return null
-  let held: unknown
+  let row: Record<string, unknown> | undefined
   try {
-    held = JSON.parse(said)
+    row = ROW_SAID.safeParse(JSON.parse(said)).data
   } catch {
     return null
   }
-  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
-  const row = held as Record<string, unknown>
+  if (row === undefined) return null
   if (typeof row[ID] === "string") return null
   return JSON.stringify({ [ID]: uuidVersion7(), ...row })
 }
