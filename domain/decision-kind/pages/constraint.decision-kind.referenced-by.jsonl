@@ -1096,6 +1096,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts","id":"01a0c9dd-cc82-7f73-b0c4-69cb07323425"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-windows/ui-windows.module.ts","id":"01a0ca65-c4cb-73a7-ad02-0bed65be11c3"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/temper-eso-ui-harness.domain.ts","id":"01a0c977-ed0f-7969-a841-8e503fdcfb0b"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-addon-model/ui-addon-model.lua-module.ts","id":"01a0d456-b121-7b52-b7c8-17a41ebd5021"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-animation-model/ui-animation-model.lua-module.ts","id":"01a0d3f1-bbdc-7e3a-bd05-508c67c93014"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-methods/ui-control-methods.lua-module.ts","id":"01a0d40c-1f7a-7728-a4c9-f977dcaff8a8"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-control-model/ui-control-model.lua-module.ts","id":"01a0c97a-416c-7609-a8c1-5767be94f369"}

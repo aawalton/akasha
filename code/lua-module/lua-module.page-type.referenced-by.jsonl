@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/addon/pages/items/inventory-config-file/inventory-config-file.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/lua-runner/eso-sandbox-prelude/eso-sandbox-prelude.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/lua-runner/lua-driver/lua-driver.lua-module.ts"}
+{"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/ui-harness/ui-addon-model/ui-addon-model.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/ui-harness/ui-animation-model/ui-animation-model.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/ui-harness/ui-control-methods/ui-control-methods.lua-module.ts"}
 {"propertySlug":"import","fileName":"lua-module.page-type.types.ts","path":"temper/eso/ui-harness/ui-control-model/ui-control-model.lua-module.ts"}
