@@ -21,6 +21,10 @@ export const treeRow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every panel draws the row its tree's file has rather than a row spelled again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A row has its children under the type that row is.",
     },
     {
