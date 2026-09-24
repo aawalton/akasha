@@ -101,7 +101,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/alan-harness.domain.ts","id":"01a05381-69f8-77f7-afef-d8329db98385"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
 {"propertySlug":"decision-kind","path":"alan/harness/mobile-cli/mobile-cli.domain.ts","id":"01a05cee-e560-7302-ad38-fd2e2a149eed"}
-{"propertySlug":"decision-kind","path":"alan/harness/monarch/direction/monarch-direction.page-type.ts","id":"01a0680a-1a00-7019-8e94-6c1d5b7f1119"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/body/readout-body.module.ts","id":"01a05e63-1c18-7baa-a113-890ebfb04463"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/widget-tap-counting/widget-tap-counting.module.ts","id":"01a078a8-b96f-765d-99ff-5703d9b2edd3"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}

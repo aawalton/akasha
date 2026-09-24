@@ -250,7 +250,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/category-rule/category-rule.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/category-rule/code/category-rule-code.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/category/monarch-category.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/direction/monarch-direction.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/holding/monarch-holding.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/merchant/monarch-merchant.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"alan/harness/monarch/month/monarch-month.page-type.ts"}

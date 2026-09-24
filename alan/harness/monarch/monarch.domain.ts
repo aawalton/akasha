@@ -55,7 +55,6 @@ export const monarch = {
     "page-type/category-rule",
     "page-type/monarch-account",
     "page-type/monarch-category",
-    "page-type/monarch-direction",
     "page-type/monarch-holding",
     "page-type/monarch-merchant",
     "page-type/monarch-month",
