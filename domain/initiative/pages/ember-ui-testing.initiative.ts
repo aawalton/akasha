@@ -20,5 +20,9 @@ export const emberUiTesting = {
     {
       statement: "Every Temper window is framed the same way.",
     },
+    {
+      statement:
+        "Every Temper window sets text in one type scale, colored only where the color names a category.",
+    },
   ],
 } as const satisfies Initiative
