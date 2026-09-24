@@ -117,7 +117,6 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/catalog/upstream-data/modules/libsets-upstream-fetch/libsets-upstream-fetch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/eso/ui-harness/modules/game-art/game-art.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/eso/ui-harness/modules/oodle-decoding/oodle-decoding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/watcher/modules/watcher-unit/watcher-unit.module.code.ts","typed":false,"deferred":false}

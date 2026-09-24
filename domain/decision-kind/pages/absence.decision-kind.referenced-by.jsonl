@@ -1967,7 +1967,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/leaf-dump/leaf-dump.module.ts","id":"01a06282-dfc3-7f7d-baf2-78aa71fd248e"}
-{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-verify/libsets-upstream-verify.module.ts","id":"01a060d0-ca2a-7b19-860d-b24372089328"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/map-data-upstream-verify/map-data-upstream-verify.module.ts","id":"01a06282-dfc3-7a2b-87b4-c262c2239e92"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/treasure-upstream-verify/treasure-upstream-verify.module.ts","id":"01a06282-dfc3-7860-9a09-26dd6febe9a4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/zone-upstream-verify/zone-upstream-verify.module.ts","id":"01a06288-c640-74b3-b566-c847f9efc2c9"}

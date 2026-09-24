@@ -4858,10 +4858,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-port/housing-upstream-port.module.ts","id":"01a0683b-e6a3-7d85-beb0-b2d13fdf25bb"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/leaf-dump/leaf-dump.module.ts","id":"01a06282-dfc3-7f7d-baf2-78aa71fd248e"}
-{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-data-port/libsets-data-port.module.ts","id":"01a06341-d9e8-7001-b3d8-ac888e8c7c0b"}
-{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-fetch/libsets-upstream-fetch.module.ts","id":"01a06341-d9e8-7000-b612-9ac2472fbb2d"}
-{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-pin/libsets-upstream-pin.module.ts","id":"01a060d0-ca28-7a33-9895-ea3ff07665be"}
-{"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/libsets-upstream-verify/libsets-upstream-verify.module.ts","id":"01a060d0-ca2a-7b19-860d-b24372089328"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/map-data-upstream-port/map-data-upstream-port.module.ts","id":"01a0683b-e6a4-7275-8265-3fa1d955b928"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/map-data-upstream-verify/map-data-upstream-verify.module.ts","id":"01a06282-dfc3-7a2b-87b4-c262c2239e92"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/treasure-upstream-port/treasure-upstream-port.module.ts","id":"01a0683b-e6a4-74fb-9866-3bb7e5c636f1"}

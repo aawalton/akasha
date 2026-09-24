@@ -70,5 +70,4 @@
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"require-env.module.code.ts","path":"temper/catalog/upstream-data/modules/libsets-data-port/libsets-data-port.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

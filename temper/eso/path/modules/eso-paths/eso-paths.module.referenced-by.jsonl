@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"temper/catalog/upstream-data/modules/libsets-upstream-fetch/libsets-upstream-fetch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"temper/eso/path/modules/eso-paths/eso-paths.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"temper/eso/ui-harness/modules/game-art/game-art.module.code.ts","typed":false,"deferred":false}
