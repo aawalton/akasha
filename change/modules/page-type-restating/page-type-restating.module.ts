@@ -22,7 +22,7 @@ export const pageTypeRestating = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every key the body states the page type under is restated.",
+      statement: "The page type the body states under `type` is restated.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -15,7 +15,7 @@ const TYPE_KEY = "type"
 
 const PAGE_TYPE = "page-type"
 
-const STATED = /^ {2}(type|pageTypeSlug): "([^"]*)",$/gm
+const STATED = /^ {2}type: "([^"]*)",$/m
 
 const CODE_ENDING = ".ts"
 
@@ -39,15 +39,12 @@ function passagesFor(
   was: string,
   now: string,
   line: string,
-  imported: string,
-  keys: readonly string[]
+  imported: string
 ): readonly (readonly [string, string])[] {
   return [
     [line, imported],
     [`satisfies ${typedAs(slugOf(was))}`, `satisfies ${typedAs(slugOf(now))}`],
-    ...keys.map(
-      (key) => [`${key}: ${JSON.stringify(was)}`, `${key}: ${JSON.stringify(now)}`] as const
-    ),
+    [`${TYPE_KEY}: ${JSON.stringify(was)}`, `${TYPE_KEY}: ${JSON.stringify(now)}`],
   ]
 }
 
@@ -63,13 +60,11 @@ export function pageTypeRestated(world: World, given: Asked): Said {
   if (text === null) {
     return refusing(`\`${given.at}\` holds no body, so no page type is restated`)
   }
-  const stated = [...text.matchAll(STATED)]
-  const first = stated[0]
-  if (first === undefined) {
+  const stated = STATED.exec(text)
+  if (stated === null) {
     return refusing(`\`${given.at}\` states no \`${TYPE_KEY}\`, so no page type is restated`)
   }
-  const was = first[2] ?? ""
-  const keys = stated.filter((one) => one[2] === was).map((one) => one[1] ?? TYPE_KEY)
+  const was = stated[1] ?? ""
   if (slugOf(was) === type.slug) {
     return refusing(`\`${was}\` is the page type the body states already`)
   }
@@ -86,7 +81,7 @@ export function pageTypeRestated(world: World, given: Asked): Said {
   const imported = `import type { ${typedAs(type.slug)} } from ${JSON.stringify(spelled)}`
   const carried: FileChange[] = []
   const now = namedAs(PAGE_TYPE, type.slug, null)
-  for (const [old, next] of passagesFor(was, now, line[0], imported, keys)) {
+  for (const [old, next] of passagesFor(was, now, line[0], imported)) {
     carried.push({ kind: "replace", path: given.at, contentFrom: old, contentTo: next })
   }
   return stating(carried)

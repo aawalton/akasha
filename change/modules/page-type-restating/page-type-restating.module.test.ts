@@ -51,31 +51,6 @@ test("each passage is answered as a replace rather than reached for", () => {
   })
 })
 
-test("a body stating the page type under two keys has both restated", () => {
-  const body = `${IMPORTED}
-
-export const kept = {
-  pageTypeSlug: "one-thing",
-  type: "one-thing",
-  slug: "kept",
-} as const satisfies OneThing
-`
-
-  const said = pageTypeRestated(worldHolding(body), { at: AT, to: TO })
-
-  expect(said.refused).toBe(null)
-  expect(passagesOf(said)).toEqual([
-    {
-      at: AT,
-      old: IMPORTED,
-      new: `import type { TwoThing } from "akasha/two/two-thing.page-type.ts"`,
-    },
-    { at: AT, old: "satisfies OneThing", new: "satisfies TwoThing" },
-    { at: AT, old: `pageTypeSlug: "one-thing"`, new: `pageTypeSlug: "page-type/two-thing"` },
-    { at: AT, old: `type: "one-thing"`, new: `type: "page-type/two-thing"` },
-  ])
-})
-
 test("the import naming that type is restated to reach the page type named", () => {
   const said = pageTypeRestated(worldHolding(BODY), { at: AT, to: TO })
 
