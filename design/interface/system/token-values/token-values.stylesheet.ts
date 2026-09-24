@@ -25,7 +25,7 @@ export const tokenValues = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every color here is the hex the color page of that color states.",
+      statement: "Every color here is written from the hex of the color page named for it here.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,10 +46,6 @@ export const tokenValues = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A shadow here is the lowest surface at an alpha rather than a color of its own.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No check has a color here to the color page that color is read from.",
     },
   ],
 } as const satisfies Stylesheet
