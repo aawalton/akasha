@@ -16,4 +16,5 @@ export const esoPlusSource = {
       statement: "A ESO Plus row moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["ESO_PLUS_DATA"],
 } as const satisfies Module

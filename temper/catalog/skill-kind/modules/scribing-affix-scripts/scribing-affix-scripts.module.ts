@@ -20,4 +20,5 @@ export const scribingAffixScripts = {
       statement: "A affix script moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["AFFIX_SCRIPT_DATA"],
 } as const satisfies Module

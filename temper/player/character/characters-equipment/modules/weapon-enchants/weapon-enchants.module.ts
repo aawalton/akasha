@@ -24,4 +24,5 @@ export const weaponEnchants = {
       statement: "The generator writes this table outside akasha.",
     },
   ],
+  hashIndexed: ["TEMPER_WEAPON_ENCHANTS_BY_ID"],
 } as const satisfies Module

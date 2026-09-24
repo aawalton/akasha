@@ -16,4 +16,5 @@ export const mundusSource = {
       statement: "A mundus stone moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["MUNDUS_DATA"],
 } as const satisfies Module

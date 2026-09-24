@@ -16,4 +16,5 @@ export const weaponTraits = {
       statement: "A trait's place in this table is the index a build hash has.",
     },
   ],
+  hashIndexed: ["WEAPON_TRAIT_DATA"],
 } as const satisfies Module

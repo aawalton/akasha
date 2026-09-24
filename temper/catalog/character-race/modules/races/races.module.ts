@@ -20,4 +20,5 @@ export const races = {
       statement: "A race moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["RACE_DATA"],
 } as const satisfies Module

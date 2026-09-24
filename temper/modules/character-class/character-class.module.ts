@@ -16,4 +16,5 @@ export const characterClass = {
       statement: "A class moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["TEMPER_CLASSES"],
 } as const satisfies Module

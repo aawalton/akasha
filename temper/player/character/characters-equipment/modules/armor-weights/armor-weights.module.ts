@@ -32,4 +32,5 @@ export const armorWeights = {
       statement: "The generator writes this table outside akasha.",
     },
   ],
+  hashIndexed: ["STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID"],
 } as const satisfies Module

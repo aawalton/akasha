@@ -24,4 +24,5 @@ export const scribedSkills = {
       statement: "This table is divided across runs.",
     },
   ],
+  hashIndexed: ["SCRIBED_SKILLS_DATA"],
 } as const satisfies Module

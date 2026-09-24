@@ -16,4 +16,5 @@ export const jewelrySlots = {
       statement: "A jewelry slot moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["JEWELRY_SLOT_DATA"],
 } as const satisfies Module

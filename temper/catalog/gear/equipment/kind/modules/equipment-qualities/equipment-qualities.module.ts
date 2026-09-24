@@ -16,4 +16,5 @@ export const equipmentQualities = {
       statement: "A quality moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["EQUIPMENT_QUALITY_DATA"],
 } as const satisfies Module

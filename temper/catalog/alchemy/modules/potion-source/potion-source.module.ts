@@ -16,4 +16,5 @@ export const potionSource = {
       statement: "A potion moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["POTIONS"],
 } as const satisfies Module

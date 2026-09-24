@@ -24,4 +24,5 @@ export const jewelryEnchantsData = {
       statement: "A glyph moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["TEMPER_JEWELRY_ENCHANTS_BY_ID"],
 } as const satisfies Module

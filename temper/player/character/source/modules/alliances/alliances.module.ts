@@ -20,4 +20,5 @@ export const alliances = {
       statement: "A alliance moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["ALLIANCE_DATA"],
 } as const satisfies Module

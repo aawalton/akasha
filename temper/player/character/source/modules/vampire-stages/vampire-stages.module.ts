@@ -20,4 +20,5 @@ export const vampireStages = {
       statement: "A vampire stage moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["VAMPIRE_STAGE_DATA"],
 } as const satisfies Module

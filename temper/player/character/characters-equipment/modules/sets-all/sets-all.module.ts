@@ -20,4 +20,5 @@ export const setsAll = {
       statement: "A set moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["SETS_ALL_ROWS"],
 } as const satisfies Module

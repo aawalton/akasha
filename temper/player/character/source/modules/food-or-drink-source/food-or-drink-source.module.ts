@@ -16,4 +16,5 @@ export const foodOrDrinkSource = {
       statement: "A food or drink moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["FOOD_OR_DRINK"],
 } as const satisfies Module

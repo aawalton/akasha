@@ -24,4 +24,5 @@ export const scribingGrimoires = {
       statement: "This table is divided across runs.",
     },
   ],
+  hashIndexed: ["GRIMOIRES_DATA"],
 } as const satisfies Module

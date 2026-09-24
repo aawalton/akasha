@@ -20,4 +20,5 @@ export const curses = {
       statement: "A curse moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["CURSE_DATA"],
 } as const satisfies Module

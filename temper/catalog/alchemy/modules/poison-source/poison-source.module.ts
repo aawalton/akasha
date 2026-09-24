@@ -6,4 +6,5 @@ export const poisonSource = {
   slug: "poison-source",
   definition: "the poisons with which a character coats a weapon",
   code: "ts",
+  hashIndexed: ["POISONS"],
 } as const satisfies Module

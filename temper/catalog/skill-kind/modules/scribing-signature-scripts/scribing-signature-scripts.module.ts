@@ -20,4 +20,5 @@ export const scribingSignatureScripts = {
       statement: "A signature script moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["SIGNATURE_SCRIPT_DATA"],
 } as const satisfies Module

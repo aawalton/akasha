@@ -16,4 +16,5 @@ export const armorSlots = {
       statement: "An armor slot moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["ARMOR_SLOT_DATA"],
 } as const satisfies Module

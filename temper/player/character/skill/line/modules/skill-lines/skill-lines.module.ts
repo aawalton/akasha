@@ -16,4 +16,5 @@ export const skillLines = {
       statement: "A skill line moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["SKILL_LINES_DATA"],
 } as const satisfies Module

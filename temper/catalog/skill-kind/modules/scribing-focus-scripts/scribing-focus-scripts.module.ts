@@ -20,4 +20,5 @@ export const scribingFocusScripts = {
       statement: "A focus script moved to another place breaks every build hash saved.",
     },
   ],
+  hashIndexed: ["FOCUS_SCRIPT_DATA"],
 } as const satisfies Module
