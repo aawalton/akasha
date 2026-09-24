@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
+import { changeGenerator } from "akasha/change/generator/change-generator.page-type.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
 import { applied } from "akasha/command/modules/applying/applying.module.code.ts"
@@ -26,6 +27,7 @@ import {
   textIn,
   scratch as world,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageTypeTyping } from "akasha/page/type/change-generators/typing/page-type-typing.change-generator.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
@@ -210,7 +212,10 @@ test("a folder move keeps a row another landing filed while the move was judged"
   expect(body).not.toContain(NAMED_BEFORE)
 })
 
-const GENERATING = join(rootOf(import.meta.dir), "page/type/page-type.page-type.type-generator.ts")
+const GENERATING = join(
+  rootOf(import.meta.dir),
+  "page/type/change-generators/typing/page-type-typing.change-generator.code.ts"
+)
 
 const DOMAIN_AT = `${pageType.slug}/${domain.slug}`
 
@@ -252,9 +257,21 @@ const FILING: Readonly<Record<string, string>> = {
     slug: "page-type",
     extends: [DOMAIN_AT],
     properties: [],
-    typeGenerator: "ts",
   }),
-  "akasha/page-type.page-type.type-generator.ts": `export { generateTypes, couldTurn } from "${GENERATING}"\n`,
+  "akasha/change-generator.page-type.ts": bodyOf({
+    id: idOf("4"),
+    type: `${pageType.slug}/${pageType.slug}`,
+    slug: changeGenerator.slug,
+    extends: [DOMAIN_AT],
+    properties: [],
+  }),
+  "akasha/page-type-typing.change-generator.ts": bodyOf({
+    id: idOf("5"),
+    type: `${pageType.slug}/${changeGenerator.slug}`,
+    slug: pageTypeTyping.slug,
+    code: "ts",
+  }),
+  "akasha/page-type-typing.change-generator.code.ts": `export { generateChange, couldTurn } from "${GENERATING}"\n`,
   [PARENT_AT]: parentOf([]),
   [CARRIER_AT]: carrierOf(["note"], false),
 }
