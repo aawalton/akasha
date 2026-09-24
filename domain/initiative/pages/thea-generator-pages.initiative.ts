@@ -15,6 +15,10 @@ export const theaGeneratorPages = {
       statement: "A change generator names the change generators it runs after.",
     },
     {
+      statement:
+        "Every type generator is a change generator, and no page type states a type generator.",
+    },
+    {
       statement: "The change code runs the change generators the index names and imports none.",
     },
   ],
