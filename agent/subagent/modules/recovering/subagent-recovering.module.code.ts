@@ -32,6 +32,7 @@ import {
   textAt as statedIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const EDITS_HELD = "jsonl"
 
@@ -98,15 +99,15 @@ function appended(root: string, at: string, text: string): undefined {
   return undefined
 }
 
+const LINE_HELD = z.record(z.string(), z.unknown())
+
 function objectIn(line: string): Record<string, unknown> | null {
-  let read: unknown
   try {
-    read = JSON.parse(line)
+    const read = LINE_HELD.safeParse(JSON.parse(line))
+    return read.success ? read.data : null
   } catch {
     return null
   }
-  if (typeof read !== "object" || read === null || Array.isArray(read)) return null
-  return read as Record<string, unknown>
 }
 
 function marked(line: string, said: Readonly<Record<string, string>>): string {

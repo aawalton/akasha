@@ -46,6 +46,9 @@ import {
   linesIn,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { z } from "zod"
+
+const READING_LINE = z.record(z.string(), z.unknown())
 
 afterAll(scratch.sweep)
 
@@ -246,7 +249,7 @@ test("a reading going back loses the agent id the seat kept it under", () => {
   movedOnto(root, SEAT, UNDER)
   gaveBack(root, SEAT, UNDER, AGENT_ID)
 
-  const line = JSON.parse(bodyAt(root, readsBesideAt(UNDER)).trim()) as object
+  const line = READING_LINE.parse(JSON.parse(bodyAt(root, readsBesideAt(UNDER)).trim()))
   expect(Object.hasOwn(line, READ_BY)).toBe(false)
 })
 
