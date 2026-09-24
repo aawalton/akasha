@@ -47,6 +47,7 @@ import {
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Carried as Declared } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const MODULES = "node_modules"
 
@@ -104,7 +105,7 @@ const FILE_PROPERTY = "file-property"
 
 const PROPERTY_VALUE: Value = {
   id: TYPES_ID,
-  pageTypeSlug: FILE_PROPERTY,
+  type: `${pageType.slug}/${FILE_PROPERTY}`,
   slug: "types",
   propertySlug: "types",
   generated: true,
@@ -441,7 +442,7 @@ export const FRESH_PAGE = "akasha/one/fresh.module.ts"
 export const FRESH_BODY = `export const fresh = ${JSON.stringify(
   {
     id: "01a07c9a-0001-7000-8000-000000000001",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "fresh",
     definition: "a page an edit added",
     code: "ts",
