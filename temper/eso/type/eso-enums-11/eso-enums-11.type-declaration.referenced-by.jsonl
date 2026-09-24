@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-detection/inventory-writ-detection.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-master-probe/inventory-writ-master-probe.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-crafting/tweak-crafting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-entry/tweak-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-interface/modules/tweak-keybinds/tweak-keybinds.module.code.ts","typed":false,"deferred":false}

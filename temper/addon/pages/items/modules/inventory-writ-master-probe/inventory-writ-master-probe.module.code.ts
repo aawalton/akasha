@@ -6,6 +6,7 @@ import type {
   MasterWritProbeQuest,
   MasterWritProbeStep,
 } from "akasha/temper/addon/pages/items/modules/inventory-writ-master-probe-types/inventory-writ-master-probe-types.module.code.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -79,10 +80,10 @@ function probeQuest(this: void, questIndex: number, numSteps: number): MasterWri
 }
 
 export function probeMasterWrits(this: void): undefined {
-  const numQuests = GetNumJournalQuests()
   const quests: MasterWritProbeQuest[] = []
 
-  for (let i = 1; i <= numQuests; i++) {
+  for (let i = 1; i <= MAX_JOURNAL_QUESTS; i++) {
+    if (!IsValidQuestIndex(i)) continue
     const numSteps = GetJournalQuestNumSteps(i)
     if (numSteps < 1) continue
     quests.push(probeQuest(i, numSteps))
