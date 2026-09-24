@@ -12,4 +12,10 @@ export const companionsReverseMappings = {
       statement: "An index outside the table reads back as the empty entry.",
     },
   ],
+  hashIndexed: [
+    "INDEX_TO_ARMOR_WEIGHT",
+    "INDEX_TO_TRAIT",
+    "INDEX_TO_WEAPON_TYPE",
+    "INDEX_TO_QUALITY_COLOR",
+  ],
 } as const satisfies Module

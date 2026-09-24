@@ -12,4 +12,5 @@ export const companionsCodec = {
       statement: "An empty slot is written as index zero rather than left out.",
     },
   ],
+  hashIndexed: ["ARMOR_SLOTS", "JEWELRY_SLOTS", "WEAPON_SLOTS", "SKILL_SLOT_INDICES"],
 } as const satisfies Module
