@@ -6,6 +6,9 @@ import { temperAddonList } from "akasha/command/pages/temper/addon/list/temper-a
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { manifestFor } from "akasha/temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.code.ts"
+import { z } from "zod"
+
+const LISTED_SAID = z.array(z.looseObject({ canonicalName: z.string() }))
 
 const scratch = scratchWorld()
 
@@ -85,7 +88,7 @@ test("the json answer parses and carries one record per addon", () => {
   const root = fixtureFor()
   const said = temperAddonList(["--code-root", root, "--json"], GIVEN)
   expect(said.code).toBe(0)
-  const parsed = JSON.parse(said.report.join("\n")) as readonly { canonicalName: string }[]
+  const parsed = LISTED_SAID.parse(JSON.parse(said.report.join("\n")))
   expect(parsed.length).toBe(2)
   expect(parsed.map((one) => one.canonicalName).sort()).toEqual([FLAT, NESTED])
 })

@@ -2,6 +2,9 @@ import { expect, test } from "bun:test"
 import { INPUT, OK } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { temperCatalogList } from "akasha/command/pages/temper/catalog/list/temper-catalog-list.command.code.ts"
+import { z } from "zod"
+
+const CATALOG_SAID = z.looseObject({ domains: z.array(z.string()) })
 
 const GIVEN: Given = {
   root: ".",
@@ -24,7 +27,7 @@ test("the json answer carries every domain the heading answer names", () => {
   const asLines = temperCatalogList([], GIVEN)
 
   expect(asJson.code).toBe(OK)
-  const parsed = JSON.parse(asJson.report.join("\n")) as { domains: readonly string[] }
+  const parsed = CATALOG_SAID.parse(JSON.parse(asJson.report.join("\n")))
   expect(parsed.domains).toEqual(asLines.report.slice(1))
 })
 

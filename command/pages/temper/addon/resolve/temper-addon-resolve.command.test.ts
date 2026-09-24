@@ -6,6 +6,7 @@ import { temperAddonResolve } from "akasha/command/pages/temper/addon/resolve/te
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { manifestFor } from "akasha/temper/command/test-fixtures/addon-fixture-manifest/addon-fixture-manifest.test-fixture.code.ts"
+import { z } from "zod"
 
 const scratch = scratchWorld()
 
@@ -41,11 +42,13 @@ function fixtureFor(): string {
   return root
 }
 
-function reached(root: string, name: string): { canonicalName: string; dir: string } {
+const REACHED_SAID = z.looseObject({ canonicalName: z.string(), dir: z.string() })
+
+function reached(root: string, name: string): z.infer<typeof REACHED_SAID> {
   const said = temperAddonResolve([name, "--code-root", root], GIVEN)
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
-  return JSON.parse(said.report.join("\n")) as { canonicalName: string; dir: string }
+  return REACHED_SAID.parse(JSON.parse(said.report.join("\n")))
 }
 
 test("a canonical name reaches the addon", () => {
