@@ -7,8 +7,12 @@ export const indexCarrying = {
   definition: "the index files a change carries among its own file changes",
   code: "ts",
   runsAfter: [
+    "change-generator/change-runner-addressing",
+    "change-generator/game-panel-drawing",
     "change-generator/group-writing",
     "change-generator/lockfile-making",
+    "change-generator/page-property-typing",
+    "change-generator/page-type-typing",
     "change-generator/source-globbing",
     "change-generator/spacing-stepping",
     "change-generator/value-minting",
