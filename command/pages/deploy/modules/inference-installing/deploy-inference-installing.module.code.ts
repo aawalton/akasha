@@ -65,7 +65,7 @@ function currentAlready(held: ActualResource | undefined, inputsHash: string): b
 }
 
 function probedFor(name: string): readonly string[] {
-  return name === HEALTH_PROBED || name.startsWith(`${HEALTH_PROBED}-`) ? [name] : []
+  return name === HEALTH_PROBED ? [name] : []
 }
 
 async function hashFor(
