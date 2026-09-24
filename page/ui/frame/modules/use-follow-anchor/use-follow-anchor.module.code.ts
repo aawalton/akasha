@@ -41,7 +41,7 @@ export function useFollowAnchor({
     const el = anchorRef.current
     if (el == null) return
     if (mode === "top") el.scrollIntoView({ block: "start", behavior: "smooth" })
-    else el.scrollIntoView({ block: "end" })
+    else window.scrollTo({ top: document.documentElement.scrollHeight })
   }, [anchorRef, mode])
 
   const jumpToLatest = useCallback(() => {
@@ -91,6 +91,15 @@ export function useFollowAnchor({
     }
     if (pinnedRef.current) scrollToAnchor()
   }, [renderTrigger, enabled, mode, scrollToAnchor])
+
+  useEffect(() => {
+    if (!enabled || mode === "top") return
+    const grown = new ResizeObserver(() => {
+      if (pinnedRef.current) scrollToAnchor()
+    })
+    grown.observe(document.body)
+    return () => grown.disconnect()
+  }, [enabled, mode, scrollToAnchor])
 
   useEffect(() => {
     if (!enabled || mode === "top") return

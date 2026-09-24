@@ -6,4 +6,14 @@ export const useFollowAnchor = {
   slug: "use-follow-anchor",
   definition: "a scroll held at an anchor until the reader moves away from it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A scroll held at the end reaches the end of the page, footer and all.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A scroll held at the end stays there as what is above it grows.",
+    },
+  ],
 } as const satisfies Module
