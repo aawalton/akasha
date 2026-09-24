@@ -16,7 +16,7 @@ export const conditionEvaluator = {
       statement: "A health threshold's uptime is estimated from the enemy's starting health.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "Health-threshold conditions are the only kind contributing to the effective multiplier.",
     },
