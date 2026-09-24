@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import {
   ATTEMPTS,
   BACKOFF_CEILING_MS,
@@ -28,7 +29,7 @@ function counting(status: number, body: unknown): { fetcher: Fetcher; calls: () 
 }
 
 test("the origin is read from the environment before anything else", () => {
-  const held = process.env.PAGE_STORE_ORIGIN
+  const held = optionalEnv("PAGE_STORE_ORIGIN")
   process.env.PAGE_STORE_ORIGIN = "http://127.0.0.1:8787/"
   expect(pageStoreOrigin()).toBe("http://127.0.0.1:8787")
   if (held === undefined) delete process.env.PAGE_STORE_ORIGIN

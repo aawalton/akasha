@@ -27,6 +27,13 @@ import {
   READ_AT,
   WRITE_AT,
 } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
+import { z } from "zod"
+
+const APPEND_SENT = z.looseObject({ under: z.string(), lines: z.array(z.string()) })
+
+const PAGES_SENT = z.looseObject({ pages: z.array(z.looseObject({ pageTypeSlug: z.string() })) })
+
+const KEPT_SENT = z.looseObject({ kept: z.array(z.unknown()) })
 
 const A_FILE = { pageTypeSlug: "persona", slug: "amy", key: "mobileWallpaper" }
 
@@ -112,8 +119,9 @@ test("an append hands over its lines and names the file part they landed in", as
     },
     neverNaps
   )
-  expect(JSON.parse(sent).under).toBe("audit-logs")
-  expect(JSON.parse(sent).lines).toEqual(["{}"])
+  const asked = APPEND_SENT.parse(JSON.parse(sent))
+  expect(asked.under).toBe("audit-logs")
+  expect(asked.lines).toEqual(["{}"])
   expect("appended" in said && said.appended).toBe("akasha/a.check.audit-logs.1.uncommitted.jsonl")
 })
 
@@ -218,7 +226,7 @@ test("a write hands over values under pages and carries the commit back", async 
     },
     neverNaps
   )
-  expect(JSON.parse(sent).pages[0].pageTypeSlug).toBe("role")
+  expect(PAGES_SENT.parse(JSON.parse(sent)).pages[0]?.pageTypeSlug).toBe("role")
   expect("commit" in said && said.commit).toBe("abc")
 })
 
@@ -236,7 +244,9 @@ test("a write may keep values outside the commit", async () => {
     },
     neverNaps
   )
-  expect(JSON.parse(sent).kept).toEqual([{ path: "akasha/a.ts", values: { one: "abc" } }])
+  expect(KEPT_SENT.parse(JSON.parse(sent)).kept).toEqual([
+    { path: "akasha/a.ts", values: { one: "abc" } },
+  ])
 })
 
 test("a refusal is told apart from an answer by the key it carries", () => {

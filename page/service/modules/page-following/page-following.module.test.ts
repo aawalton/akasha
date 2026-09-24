@@ -8,6 +8,9 @@ import {
   heardOf,
   keysFor,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
+import { z } from "zod"
+
+const STREAM_SAID = z.looseObject({ stream: z.string() })
 
 const NOWHERE = "/var/tmp/no-checkout-is-here-at-all"
 
@@ -127,8 +130,7 @@ test("a change is pushed down the stream following it and no other change is", a
   const opened = following.opened(new Request("http://here/events", { signal: aborting.signal }))
   const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
   const [first] = await eventsFrom(reader, 1)
-  const stream = JSON.parse((first ?? "").split("data: ")[1] ?? "{}").stream as string
-  expect(typeof stream).toBe("string")
+  const { stream } = STREAM_SAID.parse(JSON.parse((first ?? "").split("data: ")[1] ?? "{}"))
   const unknown = following.followed({ stream: "no-such-stream", follows: [] })
   expect(unknown.status).toBe(404)
   const answered = following.followed({

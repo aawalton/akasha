@@ -7,15 +7,18 @@ import {
   writeFiles,
   writePages,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
+import { z } from "zod"
 
 const WRITER = "Amy <amy@alanwalton.com>"
 
-type Sent = { url: string; body: Record<string, unknown> }
+const SENT_BODY = z.record(z.string(), z.unknown())
+
+type Sent = { url: string; body: z.infer<typeof SENT_BODY> }
 
 function recording(answer: unknown, status = 200): { fetcher: Fetcher; sent: () => Sent } {
   let held: Sent | null = null
   const fetcher: Fetcher = async (url, init) => {
-    held = { url, body: JSON.parse(String(init.body)) }
+    held = { url, body: SENT_BODY.parse(JSON.parse(String(init.body))) }
     return new Response(JSON.stringify(answer), {
       status,
       headers: { "content-type": "application/json" },
