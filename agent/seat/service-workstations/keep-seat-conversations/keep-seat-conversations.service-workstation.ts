@@ -6,7 +6,7 @@ export const keepSeatConversations = {
   slug: "keep-seat-conversations",
   definition:
     "the service keeping each seat's conversation beside the seat as its transcript grows",
-  enabled: true,
+  enabled: false,
   systemd: {
     restart: "on-failure",
     restartDelaySeconds: 5,
