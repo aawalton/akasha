@@ -19,9 +19,5 @@ export const authoring = {
       decisionKind: "decision-kind/departure",
       statement: "A book Alan writes is not a book Alan reads.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The books themselves are outside akasha.",
-    },
   ],
 } as const satisfies Domain
