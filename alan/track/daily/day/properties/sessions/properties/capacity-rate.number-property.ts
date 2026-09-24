@@ -14,10 +14,6 @@ export const capacityRate = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A session naming several recovery activities credits at the best rate.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement: "A session naming several recovery activities credits at the sum of its rates.",
     },
   ],

@@ -102,7 +102,6 @@
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/release-syncing/release-syncing.module.ts","id":"01a09c80-78b1-747b-b16d-c003ab8e4aa7"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/track/properties/track-artist.record-property.ts","id":"01a0a5f1-d12c-7bb8-96c2-10781ad40828"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/location-traces/location-traces.page-property-entry.ts","id":"01a0c566-954d-7c03-a37c-2c767ffdffd7"}
-{"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/capacity-rate.number-property.ts","id":"01a05fd8-c30f-7486-b22b-7e17134582db"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/end-time.text-property.ts","id":"01a05fd8-c30f-7276-a32d-648df6a73f30"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/properties/start-time.text-property.ts","id":"01a05fd8-c30f-7ca9-8fb4-9d1d3b574b45"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/sessions/sessions.page-property-entry.ts","id":"01a05fd8-c30f-799b-aa06-004072744b31"}
