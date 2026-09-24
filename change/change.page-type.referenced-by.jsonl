@@ -6,7 +6,6 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-leaves-a-running-writer-appending-to-the-path-it-already-resolved.finding.ts","id":"01a095f4-f451-7783-a5e4-3784ffd267fe"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-move-rewrites-one-half-of-a-fixture-whose-two-literals-must-agree.finding.ts","id":"01a0c4ff-d2f8-72ad-a71e-838de5d20a80"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-folder-shape-cannot-be-loaded-in-the-change-that-writes-its-code.finding.ts","id":"01a0a5c5-2740-7003-8f04-ac1ab7a0126c"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-landing-replaces-the-warning-sign-and-refuses-to-put-it-back.finding.ts","id":"01a064ba-fcf2-7480-872e-d0365ec4e384"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-landing-reverts-a-generated-row-another-landing-added-while-it-was-drafting.finding.ts","id":"01a0c4d9-b0e0-7466-ae96-26003c2fa7d7"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-landing-whose-cleanup-fails-leaves-its-edits-kept-and-refuses-every-later-change.finding.ts","id":"01a0815d-b87e-77c1-aee6-fe4e8de1a70d"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-lost-draft-reads-as-a-smaller-draft-because-nothing-reconciles-what-was-kept.finding.ts","id":"01a09b69-7611-7871-8ec4-a091c85474cb"}
