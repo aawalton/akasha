@@ -144,12 +144,17 @@ test("a manifest that moves the lockfile nowhere is carried by no landing", () =
   expect(lockingFor(root, baseOf(root), same)).toEqual(NOTHING_LOCKED)
 })
 
-test("a lockfile that could not be made leaves the landing whole and says so", () => {
+test("a lockfile that could not be made refuses the whole landing, naming the manifest", () => {
   const root = world()
   const held = lockingFor(root, "no-commit-of-that-name", ARRIVING)
   expect(held.edits).toEqual([])
-  expect(held.said[0]).toContain("could not be made again")
+  expect(held.said).toEqual([])
+  expect(held.refused.length).toBe(1)
+  expect(held.refused[0]).toContain("`held/three/package.json`")
+  expect(held.refused[0]).toContain("the whole landing is refused")
   expect(lockedOver(root, "no-commit-of-that-name", ARRIVING)).toBe(null)
+  const moved = lockingFor(root, "no-commit-of-that-name", MOVED)
+  expect(moved.refused[0]).toContain("`held/one/package.json → held/moved/package.json`")
 })
 
 test("a manifest arriving takes the lockfile with it, and the tree installs after", () => {

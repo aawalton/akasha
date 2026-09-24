@@ -60,15 +60,19 @@ export const manifestLocking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A lockfile that could not be made leaves the landing whole and says so.",
+      statement: "A landing whose lockfile could not be made is refused whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names every manifest the landing carries and says why.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal comes before the commit, so none of the landing lands.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "A row appending states no manifest.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here refuses a landing.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -139,10 +143,7 @@ export const manifestLocking = {
       decisionKind: "decision-kind/departure",
       statement: "The links an install took away are said alongside the install.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A landing whose lockfile could not be made is answered for by the audit.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:

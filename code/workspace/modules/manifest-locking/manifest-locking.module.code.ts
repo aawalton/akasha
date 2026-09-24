@@ -136,9 +136,30 @@ export function lockedOver(
 export type Locking = {
   readonly edits: readonly (Adding | Replacing)[]
   readonly said: readonly string[]
+  readonly refused: readonly string[]
 }
 
-export const NOTHING_LOCKED: Locking = { edits: [], said: [] }
+export const NOTHING_LOCKED: Locking = { edits: [], said: [], refused: [] }
+
+function manifestsNamed(changes: readonly FileChange[]): string {
+  const named = [
+    ...manifestsIn(changes).map((one) => one.path),
+    ...manifestMovesIn(changes).map((one) => `${one.pathFrom} → ${one.pathTo}`),
+  ]
+  return named.length === 0 ? `a \`${MANIFEST}\`` : named.map((one) => `\`${one}\``).join(", ")
+}
+
+function refusedFor(changes: readonly FileChange[], why: string): Locking {
+  return {
+    edits: [],
+    said: [],
+    refused: [
+      `this change carries ${manifestsNamed(changes)}, and \`${LOCK}\` could not be made ` +
+        `again for it, so the whole landing is refused — a manifest parted from its lockfile ` +
+        `refuses every install of the tree — ${why}`,
+    ],
+  }
+}
 
 function lockingOver(root: string, base: string, changes: readonly FileChange[]): Locking {
   const touched = manifestsIn(changes)
@@ -147,16 +168,10 @@ function lockingOver(root: string, base: string, changes: readonly FileChange[])
   if (many === 0 || carriesLock(changes)) return NOTHING_LOCKED
   const made = lockedOver(root, base, touched, moved)
   if (made === null) {
-    return {
-      edits: [],
-      said: [
-        `this change carries ${many} \`${MANIFEST}\` and \`${LOCK}\` could not be made ` +
-          `again from the manifests at ${base}, so the lockfile went unchanged — a manifest ` +
-          `parted from its lockfile refuses every install, and the tree will not install until ` +
-          `the lockfile follows`,
-        LOCKING_SPELLING,
-      ],
-    }
+    return refusedFor(
+      changes,
+      `the manifests at ${base} with this change worked into them would not lock`
+    )
   }
   if (sameBytes(made.was, made.now)) return NOTHING_LOCKED
   const was = textOf(made.was)
@@ -172,6 +187,7 @@ function lockingOver(root: string, base: string, changes: readonly FileChange[])
         `carries, and lands in the same commit`,
       LOCKING_SPELLING,
     ],
+    refused: [],
   }
 }
 
@@ -179,13 +195,7 @@ export function lockingFor(root: string, base: string, changes: readonly FileCha
   try {
     return lockingOver(root, base, changes)
   } catch (thrown) {
-    return {
-      edits: [],
-      said: [
-        `\`${LOCK}\` could not be looked at for this change, so the lockfile went unchanged — ` +
-          `${thrown instanceof Error ? thrown.message : String(thrown)}`,
-      ],
-    }
+    return refusedFor(changes, thrown instanceof Error ? thrown.message : String(thrown))
   }
 }
 

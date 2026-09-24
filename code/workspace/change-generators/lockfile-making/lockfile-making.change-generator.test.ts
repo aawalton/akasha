@@ -53,3 +53,13 @@ test("a change turning no manifest or lockfile could not turn this", () => {
 test("a change naming no base commit is left alone", () => {
   expect(generateChange(changing({}, { "package.json": "{}" }))).toEqual(NOTHING_LOCKED)
 })
+
+test("a change whose lockfile could not be made is refused, naming its manifest", () => {
+  const change = { ...changing({}, { "a/package.json": "{}" }), base: "no-commit-of-that-name" }
+
+  const made = generateChange(change)
+
+  expect(made.edits).toEqual([])
+  expect(made.refused.length).toBe(1)
+  expect(made.refused[0]).toContain("`a/package.json`")
+})
