@@ -6,8 +6,8 @@
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/no-import-cycle/no-import-cycle.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
-{"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}
-{"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.test.ts"}
+{"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts"}
 {"propertySlug":"import","fileName":"graph-predicate-closure.module.code.ts","path":"command/pages/measure/closure/measure-closure.command.code.ts"}

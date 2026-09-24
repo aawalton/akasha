@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"imports.graph-predicate.ts","path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"}
 {"propertySlug":"import","fileName":"imports.graph-predicate.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
-{"propertySlug":"import","fileName":"imports.graph-predicate.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}
-{"propertySlug":"import","fileName":"imports.graph-predicate.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.test.ts"}
+{"propertySlug":"import","fileName":"imports.graph-predicate.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"imports.graph-predicate.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"imports.graph-predicate.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"imports.graph-predicate.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"imports.graph-predicate.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}

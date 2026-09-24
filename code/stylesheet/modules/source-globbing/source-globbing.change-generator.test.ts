@@ -7,7 +7,7 @@ import {
   reachOf,
   rolledTo,
   spelledFrom,
-} from "akasha/code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"
+} from "akasha/code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"
 import { closureOf } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { imports } from "akasha/graph/predicate/pages/imports/imports.graph-predicate.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"

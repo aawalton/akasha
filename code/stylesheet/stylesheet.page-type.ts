@@ -6,7 +6,7 @@ export const stylesheet = {
   slug: "stylesheet",
   definition: "the rules dressing what a browser shows",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "stylesheet" }],
-  parts: ["file-property/reached", "file-property/styles", "module/source-globbing"],
+  parts: ["file-property/reached", "file-property/styles", "change-generator/source-globbing"],
   extends: ["page-type/domain"],
   properties: [
     { pageProperty: "file-property/styles", required: true, many: false },

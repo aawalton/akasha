@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.change-generator.ts"}
+{"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.ts"}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
 {"propertySlug":"target-page-type","path":"change/generator/properties/runs-after.multi-relation-property.ts","id":"01a0d4dc-8d4d-7b8d-8b1e-fd710d4c8667"}

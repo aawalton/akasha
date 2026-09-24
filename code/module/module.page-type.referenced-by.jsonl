@@ -1127,7 +1127,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/shell/terminal/modules/terminal-seat-stating/terminal-seat-stating.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/spawning/modules/running/running.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/as-boolean/as-boolean.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/as-instant/as-instant.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"code/type/narrowing/modules/as-number/as-number.module.ts"}

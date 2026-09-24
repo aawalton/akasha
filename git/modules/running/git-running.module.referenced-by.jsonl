@@ -21,7 +21,7 @@
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"code/body/modules/commit-loading/commit-loading.module.test.ts"}
-{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.test.ts"}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"command/landing-throughput/landing-throughput.performance.code.ts"}

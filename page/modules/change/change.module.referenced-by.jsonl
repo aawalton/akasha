@@ -119,7 +119,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/ios-component/pages/spacing/modules/stepping/spacing-stepping.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"code/module-property-group/modules/group-writing/group-writing.module.test.ts"}
-{"propertySlug":"import","fileName":"change.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}

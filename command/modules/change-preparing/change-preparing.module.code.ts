@@ -11,7 +11,7 @@ import { textIn } from "akasha/code/body/modules/body-text/body-text.module.code
 
 import { bodiesFor } from "akasha/code/module-property-group/modules/group-writing/group-writing.module.code.ts"
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
-import { globbedFor } from "akasha/code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"
+
 import { lockingFor } from "akasha/code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"
 import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Refused } from "akasha/command/modules/landing/landing.module.code.ts"
@@ -150,13 +150,11 @@ export function preparing(
   const locking = lockingFor(root, base, rows)
   const change = changeOf(root, base, rows)
 
-  const globbed = globbedFor(change)
   const typed = typesFor(change)
   const written = bodiesFor(change)
   const early = [
     ...locking.edits,
 
-    ...globbed.edits,
     ...typed.edits,
     ...written.edits,
   ]
@@ -179,7 +177,6 @@ export function preparing(
     said: [
       ...locking.said,
 
-      ...globbed.said,
       ...typed.said,
       ...written.said,
       ...generated.said,

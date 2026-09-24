@@ -176,7 +176,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.test.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-stating/terminal-seat-stating.module.code.ts"}
-{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/landing-throughput/landing-throughput.performance.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"command/modules/applying/applying.module.code.ts"}

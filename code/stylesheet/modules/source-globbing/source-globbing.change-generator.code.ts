@@ -306,7 +306,7 @@ function couldTurn(change: Change): boolean {
   return false
 }
 
-export function globbedFor(change: Change): Globbed {
+export function generateChange(change: Change): Globbed {
   try {
     if (!couldTurn(change)) return NOTHING_GLOBBED
     return globbedOver(change)

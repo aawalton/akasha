@@ -1050,7 +1050,7 @@
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-reload/terminal-reload.module.ts","id":"01a0680a-fa30-773e-a23e-fcd5bda782a7"}
 {"propertySlug":"decision-kind","path":"code/shell/terminal/modules/terminal-seat-marks/terminal-seat-marks.module.ts","id":"01a0785c-fa03-739c-823f-27b2ea6fc501"}
 {"propertySlug":"decision-kind","path":"code/spawning/modules/running/running.module.ts","id":"01a05d20-8007-70bf-8ed6-29cc7dfb4687"}
-{"propertySlug":"decision-kind","path":"code/stylesheet/modules/source-globbing/source-globbing.module.ts","id":"01a08293-ce34-754b-8be5-2829fd5fb36e"}
+{"propertySlug":"decision-kind","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.ts","id":"01a08293-ce34-754b-8be5-2829fd5fb36e"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
 {"propertySlug":"decision-kind","path":"code/type-declaration/type-declaration.page-type.ts","id":"01a0605a-98f4-7c54-8030-4fec48465bda"}
 {"propertySlug":"decision-kind","path":"code/type/narrowing/modules/escape-reg-exp/escape-reg-exp.module.ts","id":"01a08ddd-31b1-78ff-9e8a-a1d35a2b4530"}
