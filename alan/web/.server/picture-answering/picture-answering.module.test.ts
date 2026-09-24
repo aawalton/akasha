@@ -16,6 +16,7 @@ import {
   asAccount,
   asContributor,
 } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import { z } from "zod"
 
 const CAPACITOR = "capacitor://localhost"
 
@@ -283,13 +284,16 @@ test("a preflight is answered empty and a read is refused", () => {
   expect(answerPictureAsked(asked(JPEG, { origin: CAPACITOR }, "GET")).status).toBe(405)
 })
 
-type Sent = { readonly at: string; readonly body: Record<string, unknown> }
+const SENT_BODY = z.looseObject({
+  pages: z.array(z.looseObject({ values: z.record(z.string(), z.unknown()) })).optional(),
+})
+
+type Sent = { readonly at: string; readonly body: z.infer<typeof SENT_BODY> }
 
 function pagesHolding(seats: readonly string[], refusing: string | null = null) {
   const sent: Sent[] = []
   const fetcher: Fetcher = async (url, init) => {
-    const body = JSON.parse(String(init.body)) as Record<string, unknown>
-    sent.push({ at: url, body })
+    sent.push({ at: url, body: SENT_BODY.parse(JSON.parse(String(init.body))) })
     if (url.endsWith("/ask")) {
       return Response.json({ rows: seats.map((slug) => ({ slug })) })
     }
@@ -310,7 +314,7 @@ test("a seat somebody holds is written a message carrying the body", async () =>
   const { fetcher, sent } = pagesHolding(["alan", "amy"])
   expect(await deliverToSeat("alan", "a body", fetcher, noNap)).toBeNull()
   const wrote = sent.find((one) => one.at.endsWith("/write"))
-  const pages = wrote?.body.pages as readonly { values: Record<string, unknown> }[]
+  const pages = wrote?.body.pages ?? []
   expect(pages[0]?.values.to).toBe("alan")
   expect(pages[0]?.values.body).toBe("a body")
   expect(pages[0]?.values.from).toBe("alanwalton-app")
