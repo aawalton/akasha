@@ -16,7 +16,6 @@ export const seatSupervisor = {
     "domain/seat-agent-idleness",
     "domain/supervisor-log",
     "domain/seat-agent-run",
-    "domain/supervisor-rebinding",
     "module/run-supervisor",
     "module/supervisor",
     "module/supervisor-args",

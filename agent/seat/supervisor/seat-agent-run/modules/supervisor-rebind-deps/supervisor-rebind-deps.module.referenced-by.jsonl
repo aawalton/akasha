@@ -2,6 +2,6 @@
 {"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/modules/run-supervisor/run-supervisor.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-rebind-deps.module.code.ts","path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-rebinding/supervisor-rebinding.domain.ts","id":"01a09c7a-8b7b-7efc-8025-0f974ec4136c"}
+{"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-run/seat-agent-run.domain.ts","id":"01a09c67-78aa-706e-8909-443bee147ea1"}

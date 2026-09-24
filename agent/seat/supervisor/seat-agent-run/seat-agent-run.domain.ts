@@ -14,5 +14,7 @@ export const seatAgentRun = {
     "module/supervisor-iteration-outcome-db",
     "module/supervisor-iteration-outcome-handlers",
     "module/supervisor-loop-state",
+    "module/supervisor-rebind-carry",
+    "module/supervisor-rebind-deps",
   ],
 } as const satisfies Domain

@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/claude-code/session/modules/session-watch/session-watch.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-heartbeat-beat.module.code.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-ticking/supervisor-ticking.domain.ts","id":"01a09c83-7bdc-70d7-8e92-d0198b88cd4e"}
