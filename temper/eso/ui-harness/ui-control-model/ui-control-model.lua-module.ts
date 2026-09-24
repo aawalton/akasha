@@ -113,6 +113,10 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Text a document gives as a string's name is the text the game gives that string.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The handler for being made is run once the control's own controls are there.",
     },
     {

@@ -77,6 +77,13 @@ end
 local birth
 local dress
 
+local function declaredText(text)
+  if type(text) ~= "string" or string.match(text, "^SI_[%w_]+$") == nil then return text end
+  local number = rawget(_G, text)
+  if type(number) ~= "number" or _G.GetString == nil then return text end
+  return _G.GetString(number)
+end
+
 local function childHeld(name, parent)
   local held = named[resolved(name, parent)]
   if held ~= nil and held.uiParent == parent then return held end
@@ -91,7 +98,7 @@ dress = function(control, spec)
   if spec.width ~= nil then control.uiWidth = spec.width end
   if spec.height ~= nil then control.uiHeight = spec.height end
   if spec.font ~= nil then control.uiFont = spec.font end
-  if spec.text ~= nil then control.uiText = spec.text end
+  if spec.text ~= nil then control.uiText = declaredText(spec.text) end
   if spec.alignH ~= nil then control.uiAlignH = spec.alignH end
   if spec.alignV ~= nil then control.uiAlignV = spec.alignV end
   if spec.texture ~= nil then control.uiTexture = spec.texture end
