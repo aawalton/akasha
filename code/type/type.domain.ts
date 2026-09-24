@@ -8,6 +8,7 @@ export const type = {
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "type" },
     { partOfSpeech: "part-of-speech/noun", spelling: "types" },
+    { partOfSpeech: "part-of-speech/adjective", spelling: "typed" },
   ],
   parts: ["domain/type-import", "domain/type-narrowing"],
   decisions: [
