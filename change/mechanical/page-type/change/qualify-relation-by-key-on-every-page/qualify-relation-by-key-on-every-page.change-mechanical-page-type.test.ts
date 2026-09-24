@@ -116,6 +116,28 @@ test("a name two target pages state under by refuses the whole change", () => {
   expect(said.refused ?? "").toContain("names both")
 })
 
+test("a target page not stating the value where names is passed over", () => {
+  const shelved: ReadonlyMap<string, Value> = new Map([
+    ["alan/collection/set-songs.collection.ts", { slug: "set-songs", name: "songs", shelf: "new" }],
+    ["alan/collection/more.collection.ts", { slug: "more", name: "songs", shelf: "old" }],
+  ])
+  const world = worldFor({ [ONE_ROWS_AT]: rowsOf([{ collection: "songs" }]) }, shelved)
+
+  const said = qualifyRelationByKeyOnEveryPage(world, { ...ASKED, where: "shelf=new" })
+
+  expect(said.refused).toBeNull()
+  expect(bodiesIn(said, world.base).get(ONE_ROWS_AT) ?? "").toBe(`{"collection":"${SONGS}"}\n`)
+})
+
+test("a where naming no key and value is refused", () => {
+  const world = worldFor({ [ONE_ROWS_AT]: rowsOf([{ collection: "songs" }]) })
+
+  const said = qualifyRelationByKeyOnEveryPage(world, { ...ASKED, where: "shelf" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`shelf` is no `key=value`")
+})
+
 test("the field is a path of keys walked down each row, and a list met on it is walked", () => {
   const row = { id: "a", effects: [{ collection: "songs" }, { collection: "hymns" }] }
   const world = worldFor({ [ONE_ROWS_AT]: rowsOf([row]) })

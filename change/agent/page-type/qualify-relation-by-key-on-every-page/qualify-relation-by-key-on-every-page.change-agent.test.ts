@@ -44,7 +44,7 @@ test("the run hands on the field, the target and the key its pages state names u
     by: "name",
   })
 
-  expect(reached).toEqual([[QUALIFYING, { ...ASKED, atMost: null }]])
+  expect(reached).toEqual([[QUALIFYING, { ...ASKED, atMost: null, where: null }]])
 })
 
 test("a run handed no target is refused by the key", async () => {

@@ -31,18 +31,33 @@ export type Asked = {
   readonly field: string
   readonly target: string
   readonly by: string
+  readonly where?: string | null
   readonly atMost?: number | null
+}
+
+const EQUALS = "="
+
+export function keptBy(where: string | null): (value: Value) => boolean {
+  if (where === null) return () => true
+  const at = where.indexOf(EQUALS)
+  const key = where.slice(0, at)
+  const wanted = where.slice(at + EQUALS.length)
+  return (value) => value[key] === wanted
 }
 
 export function addressesBy(
   world: World,
   target: string,
-  by: string
+  by: string,
+  where: string | null = null
 ): ReadonlyMap<string, string> | string {
   if (world.index.propertiesIfNamed(target) === null) return `\`${target}\` names no page type`
+  if (where !== null && !where.includes(EQUALS)) return `\`${where}\` is no \`key=value\``
+  const kept = keptBy(where)
   const found = new Map<string, string>()
   for (const kind of world.index.kindsUnder(target)) {
     for (const [path, value] of world.index.valuesByPath(kind)) {
+      if (!kept(value)) continue
       const held = value[by]
       const slug = value[SLUG]
       if (typeof held !== "string" || typeof slug !== "string") continue
@@ -146,7 +161,7 @@ export function qualifyRelationByKeyOnEveryPage(world: World, given: Asked): Sai
   if (given.field.length === 0) return refusing(missing("field"))
   const entried = entriedFor(world, given)
   if (typeof entried === "string") return refusing(entried)
-  const addresses = addressesBy(world, given.target, given.by)
+  const addresses = addressesBy(world, given.target, given.by, given.where ?? null)
   if (typeof addresses === "string") return refusing(addresses)
   const atMost = given.atMost ?? null
   const seen = new Set<string>()

@@ -24,6 +24,11 @@ export const qualifyRelationByKeyOnEveryPage = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A `where` handed in as `key=value` passes over every target page not stating that value.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name two target pages state under `by` refuses the whole change.",
     },
     {

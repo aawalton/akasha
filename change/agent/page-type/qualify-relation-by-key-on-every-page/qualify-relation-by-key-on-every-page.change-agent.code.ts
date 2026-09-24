@@ -21,10 +21,13 @@ const TARGET = "target"
 
 const BY = "by"
 
+const WHERE = "where"
+
 export type ByKeyAsked = KeyHoldingAsked & {
   readonly field: string
   readonly target: string
   readonly by: string
+  readonly where?: string | null
 }
 
 export async function qualifyRelationByKeyOnEveryPage(
@@ -36,7 +39,7 @@ export async function qualifyRelationByKeyOnEveryPage(
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [...KEY_HOLDING_TAKES, FIELD, TARGET, BY]
+export const takes: readonly string[] = [...KEY_HOLDING_TAKES, FIELD, TARGET, BY, WHERE]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const asked = keyAskedIn(given)
@@ -47,5 +50,6 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (target === undefined) return refusing(missing(TARGET))
   const by = given[BY]
   if (by === undefined) return refusing(missing(BY))
-  return await qualifyRelationByKeyOnEveryPage(world, { ...asked, field, target, by })
+  const where = given[WHERE] ?? null
+  return await qualifyRelationByKeyOnEveryPage(world, { ...asked, field, target, by, where })
 }
