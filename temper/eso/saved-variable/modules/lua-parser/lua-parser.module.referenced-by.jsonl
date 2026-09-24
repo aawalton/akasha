@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/command/modules/inventory-diagnostics-reading/inventory-diagnostics-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/command/modules/inventory-parity-trace/inventory-parity-trace.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/command/modules/inventory-resolved-verdict-reading/inventory-resolved-verdict-reading.module.code.ts"}
+{"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-parser.module.code.ts","path":"temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.code.ts"}

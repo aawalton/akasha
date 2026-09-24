@@ -36,6 +36,11 @@ export const uiHarness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The engine's captured colors are loaded before the defaults, so its getter answers them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A model takes what a constant is numbered from the capture rather than saying it.",
     },
     {

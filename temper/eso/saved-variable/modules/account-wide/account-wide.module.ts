@@ -16,6 +16,11 @@ export const accountWide = {
       statement: "The first account with an account-wide table is taken.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A table asked for by key is taken from the first account holding it, by sorted name.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A key the schema does not name is carried through rather than dropped.",
     },

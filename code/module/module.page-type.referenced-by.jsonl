@@ -5180,6 +5180,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/ttc-listing-schema/ttc-listing-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/color/modules/engine-colors-seeding/engine-colors-seeding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/declaration/modules/eso-declaration-chunking/eso-declaration-chunking.module.ts"}

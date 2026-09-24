@@ -14,5 +14,6 @@ export const temperEso = {
     "domain/temper-eso-ui-harness",
     "domain/temper-eso-constant",
     "domain/temper-eso-return",
+    "domain/temper-eso-color",
   ],
 } as const satisfies Domain

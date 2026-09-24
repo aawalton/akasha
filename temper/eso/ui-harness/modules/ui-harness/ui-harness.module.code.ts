@@ -4,6 +4,10 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
+  colorsLua,
+  engineColorsTable,
+} from "akasha/temper/eso/color/modules/engine-colors-seeding/engine-colors-seeding.module.code.ts"
+import {
   constantsLua,
   engineConstantsTable,
 } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
@@ -52,6 +56,13 @@ function constantTexts(): readonly string[] {
     cachedConstants = constantsLua(engineConstantsTable(akashaRoot()))
   }
   return cachedConstants
+}
+
+let cachedColors: string | null = null
+
+function colorText(): string {
+  if (cachedColors === null) cachedColors = colorsLua(engineColorsTable(akashaRoot()))
+  return cachedColors
 }
 
 function returnTexts(): readonly string[] {
@@ -184,7 +195,7 @@ export type OpenUiHarnessOptions = {
 export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise<UiHarness> {
   const vm = await makeSandboxedLuaVm({
     bannedGlobals: options.bannedGlobals ?? HARNESS_BANNED_GLOBALS,
-    loadedFirst: [...constantTexts(), ...modelTexts(), ...returnTexts()],
+    loadedFirst: [...constantTexts(), ...modelTexts(), colorText(), ...returnTexts()],
   })
   return {
     seed(name, value): undefined {

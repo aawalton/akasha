@@ -1,4 +1,5 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { accountWideHolding } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 
 const TOP_LEVEL = "TemperCatalog_SavedVariables"
@@ -41,21 +42,6 @@ function sortedWords(held: unknown): Record<string, string> {
   return out
 }
 
-function catalogIn(root: Record<string, unknown>): Record<string, unknown> | undefined {
-  const def = root.Default
-  if (!isRecord(def)) return undefined
-  for (const account of Object.keys(def).sort()) {
-    if (!account.startsWith("@")) continue
-    const held = def[account]
-    if (!isRecord(held)) continue
-    const wide = held.$AccountWide
-    if (!isRecord(wide)) continue
-    const catalog = wide[HELD]
-    if (isRecord(catalog)) return catalog
-  }
-  return undefined
-}
-
 export function engineConstantsIn(content: string): EngineConstants | undefined {
   let root: Record<string, unknown>
   try {
@@ -63,7 +49,7 @@ export function engineConstantsIn(content: string): EngineConstants | undefined 
   } catch {
     return undefined
   }
-  const catalog = catalogIn(root)
+  const catalog = accountWideHolding(root, HELD)
   if (catalog === undefined) return undefined
   return {
     apiVersion: typeof catalog.apiVersion === "number" ? catalog.apiVersion : NOTHING,

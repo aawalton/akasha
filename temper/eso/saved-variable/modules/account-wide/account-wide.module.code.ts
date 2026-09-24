@@ -13,6 +13,20 @@ export function savedVariablesRootSchema<AccountWide extends z.ZodTypeAny>(
     .passthrough()
 }
 
+export function accountWideHolding(
+  root: Record<string, unknown>,
+  key: string
+): Record<string, unknown> | undefined {
+  const accounts = asRecord(root.Default)
+  if (accounts === undefined) return undefined
+  for (const account of Object.keys(accounts).sort()) {
+    if (!account.startsWith("@")) continue
+    const held = asRecord(asRecord(asRecord(accounts[account])?.["$AccountWide"])?.[key])
+    if (held) return held
+  }
+  return undefined
+}
+
 export function readFirstAccountWide(
   defaultTable: Record<string, unknown>
 ): Record<string, unknown> | undefined {
