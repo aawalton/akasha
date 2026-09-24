@@ -1,10 +1,12 @@
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-aoe.temper-metric-tree.ts","id":"019e2fcd-596a-7e00-b8f7-8593a2e0396e"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-arena.temper-metric-tree.ts","id":"019e2fcd-596b-7f1f-b0bb-3355eaffe9f5"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-base.temper-metric-tree.ts","id":"019e2fcd-596d-72e3-b739-ddce4d2df4bd"}
+{"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-channeled.temper-metric-tree.ts","id":"01a0d3f6-71c6-7e18-949d-3e204a88e070"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-direct.temper-metric-tree.ts","id":"019e2fcd-596e-76a2-9355-92661f123a1e"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-dot.temper-metric-tree.ts","id":"019e2fcd-596f-7ca2-88b9-716d84be3ba4"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-dungeon.temper-metric-tree.ts","id":"019e2fcd-5970-7def-b04e-be7059b33f9c"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-heavy-attack.temper-metric-tree.ts","id":"019e2fcd-5971-7f4c-a459-69d9daf6b4f8"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-players.temper-metric-tree.ts","id":"019e2fcd-5973-707a-9fe0-baf9778f6ebe"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-single-target.temper-metric-tree.ts","id":"019e2fcd-5974-71a3-8297-b3631b07592e"}
+{"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-status-effect.temper-metric-tree.ts","id":"01a0d3f6-799b-7414-a642-b244bfd1eaaf"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-damage-done-trial.temper-metric-tree.ts","id":"019e2fcd-5975-717b-aea1-f91f7f1bbe74"}
