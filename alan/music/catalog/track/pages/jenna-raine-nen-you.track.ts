@@ -12,7 +12,7 @@ export const jennaRaineNenYou = {
   title: "you",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "you|3aHe9rMa5HFTjXHw8tEz0A|143736",
   song: "song/jenna-raine-you",
   carriedBy: [

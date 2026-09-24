@@ -12,10 +12,7 @@ export const imagineDragonsRadioactiveRadioactive = {
   title: "Radioactive",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "2YZyLoL8N0Wb9xBt1NhZWg", artistName: "Kendrick Lamar" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Kendrick Lamar" }],
   trackKey: "radioactive|2YZyLoL8N0Wb9xBt1NhZWg,53XhwfbYqKCa1cC15pYq2q|276040",
   song: "song/imagine-dragons-radioactive",
   carriedBy: [

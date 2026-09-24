@@ -12,7 +12,7 @@ export const jennaRaineJeansBoysJesusBoyFriend = {
   title: "Boy Friend",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "boyfriend|3aHe9rMa5HFTjXHw8tEz0A|189528",
   song: "song/jenna-raine-boy-friend",
   carriedBy: [

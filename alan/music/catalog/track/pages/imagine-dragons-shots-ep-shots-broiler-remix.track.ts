@@ -12,10 +12,7 @@ export const imagineDragonsShotsEpShotsBroilerRemix = {
   title: "Shots - Broiler Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "3836OTICMPjhTMMcpPw4EC", artistName: "Broiler" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Broiler" }],
   trackKey: "shotsbroilerremix|3836OTICMPjhTMMcpPw4EC,53XhwfbYqKCa1cC15pYq2q|191266",
   song: "song/imagine-dragons-shots",
   carriedBy: [

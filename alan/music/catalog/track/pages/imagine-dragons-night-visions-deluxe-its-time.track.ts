@@ -15,7 +15,7 @@ export const imagineDragonsNightVisionsDeluxeItsTime = {
   title: "It's Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "itstime|53XhwfbYqKCa1cC15pYq2q|237986",
   song: "song/imagine-dragons-it-s-time",
   carriedBy: [

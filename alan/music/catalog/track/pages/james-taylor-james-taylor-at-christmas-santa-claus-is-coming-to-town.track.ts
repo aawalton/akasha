@@ -12,7 +12,7 @@ export const jamesTaylorJamesTaylorAtChristmasSantaClausIsComingToTown = {
   title: "Santa Claus Is Coming to Town",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "santaclausiscomingtotown|0vn7UBvSQECKJm2817Yf1P|177520",
   song: "song/james-taylor-santa-claus-is-coming-to-town",
   carriedBy: [

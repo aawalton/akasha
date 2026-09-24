@@ -12,7 +12,7 @@ export const jamesTaylor2Gorilla2019RemasterMexico2019Remaster = {
   title: "Mexico - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "mexico2019remaster|0vn7UBvSQECKJm2817Yf1P|178693",
   song: "song/james-taylor-mexico",
   carriedBy: [

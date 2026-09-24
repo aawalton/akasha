@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardPenniesFromHeaven = {
   title: "Pennies From Heaven",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "penniesfromheaven|0vn7UBvSQECKJm2817Yf1P|172240",
   song: "song/james-taylor-pennies-from-heaven",
   carriedBy: [

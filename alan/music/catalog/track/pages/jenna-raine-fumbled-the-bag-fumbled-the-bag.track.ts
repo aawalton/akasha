@@ -12,7 +12,7 @@ export const jennaRaineFumbledTheBagFumbledTheBag = {
   title: "Fumbled the Bag",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "fumbledthebag|3aHe9rMa5HFTjXHw8tEz0A|189636",
   song: "song/jenna-raine-fumbled-the-bag",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveSlapLeatherLive = {
   title: "Slap Leather - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "slapleatherlive|0vn7UBvSQECKJm2817Yf1P|128893",
   song: "song/james-taylor-slap-leather",
   carriedBy: [

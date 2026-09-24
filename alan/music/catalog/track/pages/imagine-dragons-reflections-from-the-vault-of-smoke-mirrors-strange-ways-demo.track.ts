@@ -12,7 +12,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsStrangeWaysDemo 
   title: "Strange Ways - Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "strangewaysdemo|53XhwfbYqKCa1cC15pYq2q|151100",
   song: "song/imagine-dragons-strange-ways",
   carriedBy: [

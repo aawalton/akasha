@@ -12,7 +12,7 @@ export const jamesTaylorJamesTaylorAtChristmasMonBeauSapin = {
   title: "Mon Beau Sapin",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "monbeausapin|0vn7UBvSQECKJm2817Yf1P|187813",
   song: "song/james-taylor-mon-beau-sapin",
   carriedBy: [

@@ -12,10 +12,7 @@ export const jamesTaylor2LiveAtTheTroubadourItsTooLateLiveAtTheTroubadour2007 = 
   title: "It’s Too Late - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "319yZVtYM9MBGqmSQnMyY6", artistName: "Carole King" },
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-  ],
+  trackArtist: [{ artistName: "Carole King" }, { artist: "artist/james-taylor" }],
   trackKey:
     "itstoolateliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|299040",
   song: "song/james-taylor-its-too-late",

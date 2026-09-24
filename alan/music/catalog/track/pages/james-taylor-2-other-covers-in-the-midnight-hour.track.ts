@@ -12,7 +12,7 @@ export const jamesTaylor2OtherCoversInTheMidnightHour = {
   title: "In The Midnight Hour",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "inthemidnighthour|0vn7UBvSQECKJm2817Yf1P|194200",
   song: "song/james-taylor-in-the-midnight-hour",
   carriedBy: [

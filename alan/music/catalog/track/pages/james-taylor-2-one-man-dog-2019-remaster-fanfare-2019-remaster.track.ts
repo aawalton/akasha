@@ -12,7 +12,7 @@ export const jamesTaylor2OneManDog2019RemasterFanfare2019Remaster = {
   title: "Fanfare - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "fanfare2019remaster|0vn7UBvSQECKJm2817Yf1P|155793",
   song: "song/james-taylor-fanfare",
   carriedBy: [

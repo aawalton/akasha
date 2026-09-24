@@ -16,7 +16,7 @@ export const jennaRaineJeansBoysJesusWhatWouldISay = {
   title: "What Would I Say?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "whatwouldisay|3aHe9rMa5HFTjXHw8tEz0A|226856",
   song: "song/jenna-raine-what-would-i-say",
   carriedBy: [

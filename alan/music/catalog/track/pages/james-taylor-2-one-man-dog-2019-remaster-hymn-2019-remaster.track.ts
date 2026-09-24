@@ -12,7 +12,7 @@ export const jamesTaylor2OneManDog2019RemasterHymn2019Remaster = {
   title: "Hymn - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "hymn2019remaster|0vn7UBvSQECKJm2817Yf1P|144099",
   song: "song/james-taylor-hymn",
   carriedBy: [

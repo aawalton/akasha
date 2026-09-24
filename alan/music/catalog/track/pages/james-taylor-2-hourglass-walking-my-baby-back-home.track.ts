@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassWalkingMyBabyBackHome = {
   title: "Walking My Baby Back Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "walkingmybabybackhome|0vn7UBvSQECKJm2817Yf1P|147533",
   song: "song/james-taylor-walking-my-baby-back-home",
   carriedBy: [

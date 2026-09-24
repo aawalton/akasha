@@ -12,7 +12,7 @@ export const jamesTaylor2NewMoonShineLikeEveryoneSheKnows = {
   title: "Like Everyone She Knows",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "likeeveryonesheknows|0vn7UBvSQECKJm2817Yf1P|295973",
   song: "song/james-taylor-like-everyone-she-knows",
   carriedBy: [

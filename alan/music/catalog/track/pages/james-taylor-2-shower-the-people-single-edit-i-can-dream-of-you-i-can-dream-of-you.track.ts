@@ -12,7 +12,7 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYouICanDreamOfYou =
   title: "I Can Dream of You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "icandreamofyou|0vn7UBvSQECKJm2817Yf1P|198373",
   song: "song/james-taylor-i-can-dream-of-you",
   carriedBy: [

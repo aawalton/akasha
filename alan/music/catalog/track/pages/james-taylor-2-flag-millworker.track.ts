@@ -12,7 +12,7 @@ export const jamesTaylor2FlagMillworker = {
   title: "Millworker",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "millworker|0vn7UBvSQECKJm2817Yf1P|231733",
   song: "song/james-taylor-millworker",
   carriedBy: [

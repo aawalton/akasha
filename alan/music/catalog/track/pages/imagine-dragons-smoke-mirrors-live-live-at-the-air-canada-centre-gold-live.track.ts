@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreGoldLive = {
   title: "Gold - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "goldlive|53XhwfbYqKCa1cC15pYq2q|275506",
   song: "song/imagine-dragons-gold",
   carriedBy: [

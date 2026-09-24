@@ -12,7 +12,7 @@ export const jennaRaineBigDumbHeartBigDumbHeart = {
   title: "Big Dumb Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "bigdumbheart|3aHe9rMa5HFTjXHw8tEz0A|216314",
   song: "song/jenna-raine-big-dumb-heart",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2CoversWichitaLineman = {
   title: "Wichita Lineman",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "wichitalineman|0vn7UBvSQECKJm2817Yf1P|221226",
   song: "song/james-taylor-wichita-lineman",
   carriedBy: [

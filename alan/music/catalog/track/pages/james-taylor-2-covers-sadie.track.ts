@@ -12,7 +12,7 @@ export const jamesTaylor2CoversSadie = {
   title: "Sadie",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "sadie|0vn7UBvSQECKJm2817Yf1P|274813",
   song: "song/james-taylor-sadie",
   carriedBy: [

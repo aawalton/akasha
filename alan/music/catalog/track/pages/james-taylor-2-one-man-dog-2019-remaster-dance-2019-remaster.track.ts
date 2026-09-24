@@ -12,7 +12,7 @@ export const jamesTaylor2OneManDog2019RemasterDance2019Remaster = {
   title: "Dance - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "dance2019remaster|0vn7UBvSQECKJm2817Yf1P|126402",
   song: "song/james-taylor-dance",
   carriedBy: [

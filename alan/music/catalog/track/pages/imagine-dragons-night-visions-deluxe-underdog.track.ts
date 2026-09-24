@@ -15,7 +15,7 @@ export const imagineDragonsNightVisionsDeluxeUnderdog = {
   title: "Underdog",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "underdog|53XhwfbYqKCa1cC15pYq2q|206706",
   song: "song/imagine-dragons-underdog",
   carriedBy: [

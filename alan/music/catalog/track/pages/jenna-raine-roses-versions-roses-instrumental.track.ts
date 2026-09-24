@@ -12,7 +12,7 @@ export const jennaRaineRosesVersionsRosesInstrumental = {
   title: "Roses - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "rosesinstrumental|3aHe9rMa5HFTjXHw8tEz0A|190534",
   song: "song/jenna-raine-roses",
   carriedBy: [

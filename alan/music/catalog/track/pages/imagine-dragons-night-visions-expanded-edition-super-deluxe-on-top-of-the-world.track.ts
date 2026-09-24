@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorld
   title: "On Top Of The World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "ontopoftheworld|53XhwfbYqKCa1cC15pYq2q|192280",
   song: "song/imagine-dragons-on-top-of-the-world",
   carriedBy: [

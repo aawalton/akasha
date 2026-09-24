@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeHearMeLiveFromR
   title: "Hear Me - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "hearmelivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|293520",
   song: "song/imagine-dragons-hear-me",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jennaRaineRentFreeRentFree = {
   title: "rent free",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "rentfree|3aHe9rMa5HFTjXHw8tEz0A|145673",
   song: "song/jenna-raine-rent-free",
   carriedBy: [

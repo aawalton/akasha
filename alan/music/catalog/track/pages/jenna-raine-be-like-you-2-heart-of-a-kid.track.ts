@@ -12,7 +12,7 @@ export const jennaRaineBeLikeYou2HeartOfAKid = {
   title: "Heart of a Kid",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "heartofakid|3aHe9rMa5HFTjXHw8tEz0A|225526",
   song: "song/jenna-raine-heart-of-a-kid",
   carriedBy: [

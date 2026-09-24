@@ -12,7 +12,7 @@ export const jamesTaylor2SweetBabyJames2019RemasterSuiteFor20G2019Remaster = {
   title: "Suite for 20 G - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "suitefor20g2019remaster|0vn7UBvSQECKJm2817Yf1P|286533",
   song: "song/james-taylor-suite-for-20-g",
   carriedBy: [

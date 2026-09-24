@@ -12,7 +12,7 @@ export const jamesTaylor2OneManBandSchoolSongLiveAtTheColonialTheatre2007 = {
   title: "School Song - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "schoolsongliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|87560",
   song: "song/james-taylor-school-song",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsDeluxeSmokeAndMirrors = {
   title: "Smoke And Mirrors",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "smokeandmirrors|53XhwfbYqKCa1cC15pYq2q|260906",
   song: "song/imagine-dragons-smoke-and-mirrors",
   carriedBy: [

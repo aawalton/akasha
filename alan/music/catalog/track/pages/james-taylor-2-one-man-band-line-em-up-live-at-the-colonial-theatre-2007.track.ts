@@ -12,7 +12,7 @@ export const jamesTaylor2OneManBandLineEmUpLiveAtTheColonialTheatre2007 = {
   title: "Line 'Em Up - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "lineemupliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|279293",
   song: "song/james-taylor-line-em-up",
   carriedBy: [

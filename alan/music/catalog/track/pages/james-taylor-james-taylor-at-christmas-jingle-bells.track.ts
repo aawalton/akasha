@@ -12,7 +12,7 @@ export const jamesTaylorJamesTaylorAtChristmasJingleBells = {
   title: "Jingle Bells",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "jinglebells|0vn7UBvSQECKJm2817Yf1P|232893",
   song: "song/james-taylor-jingle-bells",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2NeverDieYoungNeverDieYoung = {
   title: "Never Die Young",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "neverdieyoung|0vn7UBvSQECKJm2817Yf1P|264000",
   song: "song/james-taylor-never-die-young",
   carriedBy: [

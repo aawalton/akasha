@@ -12,10 +12,7 @@ export const jamesTaylor2FireFoxyLady = {
   title: "Foxy Lady",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-    { externalId: "1DJVvIcjKhdedkuGRzW7PG", artistName: "The New Mastersounds" },
-  ],
+  trackArtist: [{ artist: "artist/james-taylor" }, { artistName: "The New Mastersounds" }],
   trackKey: "foxylady|0vn7UBvSQECKJm2817Yf1P,1DJVvIcjKhdedkuGRzW7PG|299000",
   song: "song/james-taylor-foxy-lady",
   carriedBy: [

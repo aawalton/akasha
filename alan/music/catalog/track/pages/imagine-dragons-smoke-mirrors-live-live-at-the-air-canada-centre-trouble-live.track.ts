@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreTroubleLive =
   title: "Trouble - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "troublelive|53XhwfbYqKCa1cC15pYq2q|293413",
   song: "song/imagine-dragons-trouble",
   carriedBy: [

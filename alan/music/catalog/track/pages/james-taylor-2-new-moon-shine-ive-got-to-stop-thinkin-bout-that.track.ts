@@ -12,7 +12,7 @@ export const jamesTaylor2NewMoonShineIveGotToStopThinkinBoutThat = {
   title: "(I've Got To) Stop Thinkin' 'Bout That",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "ivegottostopthinkinboutthat|0vn7UBvSQECKJm2817Yf1P|239866",
   song: "song/james-taylor-ive-got-to-stop-thinkin-bout-that",
   carriedBy: [

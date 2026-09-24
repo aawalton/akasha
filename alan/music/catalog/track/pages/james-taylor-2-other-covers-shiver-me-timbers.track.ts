@@ -12,7 +12,7 @@ export const jamesTaylor2OtherCoversShiverMeTimbers = {
   title: "Shiver Me Timbers",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "shivermetimbers|0vn7UBvSQECKJm2817Yf1P|259493",
   song: "song/james-taylor-shiver-me-timbers",
   carriedBy: [

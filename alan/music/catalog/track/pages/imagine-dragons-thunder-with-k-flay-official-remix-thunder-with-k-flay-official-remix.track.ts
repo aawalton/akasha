@@ -12,10 +12,7 @@ export const imagineDragonsThunderWithKFlayOfficialRemixThunderWithKFlayOfficial
   title: "Thunder (With K.Flay) - Official Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "0pCNk4D3E2xtszsm6hMsWr", artistName: "K.Flay" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "K.Flay" }],
   trackKey: "thunderwithkflayofficialremix|0pCNk4D3E2xtszsm6hMsWr,53XhwfbYqKCa1cC15pYq2q|195720",
   song: "song/imagine-dragons-thunder",
   carriedBy: [

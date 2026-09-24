@@ -12,7 +12,7 @@ export const jamesTaylor2BeforeThisWorldWatchinOverMe = {
   title: "Watchin’ Over Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "watchinoverme|0vn7UBvSQECKJm2817Yf1P|247680",
   song: "song/james-taylor-watchin-over-me",
   carriedBy: [

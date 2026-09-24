@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveMexicoLive = {
   title: "Mexico - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "mexicolive|0vn7UBvSQECKJm2817Yf1P|195733",
   song: "song/james-taylor-mexico",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsDeluxeTheUnknown = {
   title: "The Unknown",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "theunknown|53XhwfbYqKCa1cC15pYq2q|204720",
   song: "song/imagine-dragons-the-unknown",
   carriedBy: [

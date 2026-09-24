@@ -12,7 +12,7 @@ export const jamesTaylor2ThatSWhyIMHereEveryday = {
   title: "Everyday",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "everyday|0vn7UBvSQECKJm2817Yf1P|193960",
   song: "song/james-taylor-everyday",
   carriedBy: [

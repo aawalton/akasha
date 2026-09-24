@@ -12,7 +12,7 @@ export const jamesTaylor2WalkingMan2019RemasterFadingAway2019Remaster = {
   title: "Fading Away - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "fadingaway2019remaster|0vn7UBvSQECKJm2817Yf1P|213720",
   song: "song/james-taylor-fading-away",
   carriedBy: [

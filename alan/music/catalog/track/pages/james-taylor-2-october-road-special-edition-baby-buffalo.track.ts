@@ -12,7 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionBabyBuffalo = {
   title: "Baby Buffalo",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "babybuffalo|0vn7UBvSQECKJm2817Yf1P|288293",
   song: "song/james-taylor-baby-buffalo",
   carriedBy: [

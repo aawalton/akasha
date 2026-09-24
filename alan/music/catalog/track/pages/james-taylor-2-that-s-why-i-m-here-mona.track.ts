@@ -12,7 +12,7 @@ export const jamesTaylor2ThatSWhyIMHereMona = {
   title: "Mona",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "mona|0vn7UBvSQECKJm2817Yf1P|168933",
   song: "song/james-taylor-mona",
   carriedBy: [

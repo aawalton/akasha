@@ -12,7 +12,7 @@ export const jamesTaylor2InThePocket2019RemasterDaddysAllGone2019Remaster = {
   title: "Daddy's All Gone - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "daddysallgone2019remaster|0vn7UBvSQECKJm2817Yf1P|219240",
   song: "song/james-taylor-daddys-all-gone",
   carriedBy: [

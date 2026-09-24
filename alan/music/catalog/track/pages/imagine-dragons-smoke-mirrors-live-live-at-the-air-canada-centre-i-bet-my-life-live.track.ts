@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreIBetMyLifeLiv
   title: "I Bet My Life - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "ibetmylifelive|53XhwfbYqKCa1cC15pYq2q|220386",
   song: "song/imagine-dragons-i-bet-my-life",
   carriedBy: [

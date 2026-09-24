@@ -12,7 +12,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterSoldiers2019Re
   title: "Soldiers - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "soldiers2019remaster|0vn7UBvSQECKJm2817Yf1P|75240",
   song: "song/james-taylor-soldiers",
   carriedBy: [

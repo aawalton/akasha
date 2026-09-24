@@ -12,7 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionCarolineISeeYou = {
   title: "Caroline I See You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "carolineiseeyou|0vn7UBvSQECKJm2817Yf1P|297733",
   song: "song/james-taylor-caroline-i-see-you",
   carriedBy: [

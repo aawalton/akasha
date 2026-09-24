@@ -12,10 +12,7 @@ export const jamesTaylor2FireFire = {
   title: "Fire",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-    { externalId: "1DJVvIcjKhdedkuGRzW7PG", artistName: "The New Mastersounds" },
-  ],
+  trackArtist: [{ artist: "artist/james-taylor" }, { artistName: "The New Mastersounds" }],
   trackKey: "fire|0vn7UBvSQECKJm2817Yf1P,1DJVvIcjKhdedkuGRzW7PG|305000",
   song: "song/james-taylor-fire",
   carriedBy: [

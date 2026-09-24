@@ -12,7 +12,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsBlackDemo = {
   title: "Black - Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "blackdemo|53XhwfbYqKCa1cC15pYq2q|203561",
   song: "song/imagine-dragons-black",
   carriedBy: [

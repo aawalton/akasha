@@ -12,7 +12,7 @@ export const imagineDragonsOriginsDeluxeStuck = {
   title: "Stuck",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "stuck|53XhwfbYqKCa1cC15pYq2q|190853",
   song: "song/imagine-dragons-stuck",
   carriedBy: [

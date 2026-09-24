@@ -12,7 +12,7 @@ export const jamesTaylor2CoversSomeDaysYouGottaDance = {
   title: "Some Days You Gotta Dance",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "somedaysyougottadance|0vn7UBvSQECKJm2817Yf1P|159413",
   song: "song/james-taylor-some-days-you-gotta-dance",
   carriedBy: [

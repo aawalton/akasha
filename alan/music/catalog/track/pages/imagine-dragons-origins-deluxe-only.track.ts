@@ -12,7 +12,7 @@ export const imagineDragonsOriginsDeluxeOnly = {
   title: "Only",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "only|53XhwfbYqKCa1cC15pYq2q|180733",
   song: "song/imagine-dragons-only",
   carriedBy: [

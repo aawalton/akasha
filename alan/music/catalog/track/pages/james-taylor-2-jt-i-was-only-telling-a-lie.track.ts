@@ -12,7 +12,7 @@ export const jamesTaylor2JtIWasOnlyTellingALie = {
   title: "I Was Only Telling a Lie",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "iwasonlytellingalie|0vn7UBvSQECKJm2817Yf1P|205027",
   song: "song/james-taylor-i-was-only-telling-a-lie",
   carriedBy: [

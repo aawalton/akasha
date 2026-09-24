@@ -12,7 +12,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterLoveHasBrought
   title: "Love Has Brought Me Around - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "lovehasbroughtmearound2019remaster|0vn7UBvSQECKJm2817Yf1P|164933",
   song: "song/james-taylor-love-has-brought-me-around",
   carriedBy: [

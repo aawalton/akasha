@@ -12,7 +12,7 @@ export const jennaRaineMyEscapeIfIHadTheSummerMyEscape = {
   title: "My Escape",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "myescape|3aHe9rMa5HFTjXHw8tEz0A|181105",
   song: "song/jenna-raine-my-escape",
   carriedBy: [

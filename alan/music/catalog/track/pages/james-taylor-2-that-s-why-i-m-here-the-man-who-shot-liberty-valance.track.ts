@@ -12,7 +12,7 @@ export const jamesTaylor2ThatSWhyIMHereTheManWhoShotLibertyValance = {
   title: "The Man Who Shot Liberty Valance",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "themanwhoshotlibertyvalance|0vn7UBvSQECKJm2817Yf1P|225160",
   song: "song/james-taylor-the-man-who-shot-liberty-valance",
   carriedBy: [

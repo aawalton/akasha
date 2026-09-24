@@ -13,7 +13,7 @@ export const jamesTaylorJamesTaylorAtChristmasInTheBleakMidwinter = {
   title: "In The Bleak Midwinter",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "inthebleakmidwinter|0vn7UBvSQECKJm2817Yf1P|250600",
   song: "song/james-taylor-in-the-bleak-midwinter",
   carriedBy: [

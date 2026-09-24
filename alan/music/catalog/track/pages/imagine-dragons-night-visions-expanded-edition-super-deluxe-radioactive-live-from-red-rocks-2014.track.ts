@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveLive
   title: "Radioactive - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "radioactivelivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|403693",
   song: "song/imagine-dragons-radioactive",
   carriedBy: [

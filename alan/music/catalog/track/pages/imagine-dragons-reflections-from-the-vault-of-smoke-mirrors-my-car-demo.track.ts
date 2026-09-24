@@ -12,7 +12,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsMyCarDemo = {
   title: "My Car - Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "mycardemo|53XhwfbYqKCa1cC15pYq2q|151534",
   song: "song/imagine-dragons-my-car",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreShotsLive = {
   title: "Shots - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "shotslive|53XhwfbYqKCa1cC15pYq2q|288920",
   song: "song/imagine-dragons-shots",
   carriedBy: [

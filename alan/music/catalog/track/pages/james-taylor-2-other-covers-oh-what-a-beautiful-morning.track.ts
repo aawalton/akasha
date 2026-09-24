@@ -12,7 +12,7 @@ export const jamesTaylor2OtherCoversOhWhatABeautifulMorning = {
   title: "Oh, What a Beautiful Morning",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "ohwhatabeautifulmorning|0vn7UBvSQECKJm2817Yf1P|190786",
   song: "song/james-taylor-oh-what-a-beautiful-morning",
   carriedBy: [

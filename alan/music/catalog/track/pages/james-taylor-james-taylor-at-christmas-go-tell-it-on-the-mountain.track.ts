@@ -13,7 +13,7 @@ export const jamesTaylorJamesTaylorAtChristmasGoTellItOnTheMountain = {
   title: "Go Tell It On The Mountain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "gotellitonthemountain|0vn7UBvSQECKJm2817Yf1P|221413",
   song: "song/james-taylor-go-tell-it-on-the-mountain",
   carriedBy: [

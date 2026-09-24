@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRocksLiveFromRe
   title: "Rocks - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "rockslivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|223346",
   song: "song/imagine-dragons-rocks",
   carriedBy: [

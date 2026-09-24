@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsDeluxeNothingLeftToSayRocks = {
   title: "Nothing Left To Say / Rocks",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "nothinglefttosayrocks|53XhwfbYqKCa1cC15pYq2q|536053",
   song: "song/imagine-dragons-nothing-left-to-say-rocks",
   carriedBy: [

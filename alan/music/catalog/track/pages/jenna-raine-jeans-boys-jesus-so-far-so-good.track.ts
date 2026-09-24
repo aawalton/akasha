@@ -12,7 +12,7 @@ export const jennaRaineJeansBoysJesusSoFarSoGood = {
   title: "So Far, So Good",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "sofarsogood|3aHe9rMa5HFTjXHw8tEz0A|202738",
   song: "song/jenna-raine-so-far-so-good",
   carriedBy: [

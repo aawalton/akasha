@@ -15,7 +15,7 @@ export const imagineDragonsSmokeMirrorsDeluxeHopelessOpus = {
   title: "Hopeless Opus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "hopelessopus|53XhwfbYqKCa1cC15pYq2q|238800",
   song: "song/imagine-dragons-hopeless-opus",
   carriedBy: [

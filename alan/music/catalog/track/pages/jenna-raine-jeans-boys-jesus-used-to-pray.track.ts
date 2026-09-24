@@ -12,7 +12,7 @@ export const jennaRaineJeansBoysJesusUsedToPray = {
   title: "Used To Pray",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "usedtopray|3aHe9rMa5HFTjXHw8tEz0A|151746",
   song: "song/jenna-raine-used-to-pray",
   carriedBy: [

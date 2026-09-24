@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsDeluxeTheFall = {
   title: "The Fall",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "thefall|53XhwfbYqKCa1cC15pYq2q|362466",
   song: "song/imagine-dragons-the-fall",
   carriedBy: [

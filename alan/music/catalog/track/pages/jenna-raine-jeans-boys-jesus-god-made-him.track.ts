@@ -12,7 +12,7 @@ export const jennaRaineJeansBoysJesusGodMadeHim = {
   title: "God Made Him",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "godmadehim|3aHe9rMa5HFTjXHw8tEz0A|222825",
   song: "song/jenna-raine-god-made-him",
   carriedBy: [

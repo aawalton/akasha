@@ -12,7 +12,7 @@ export const jamesTaylor2OtherCoversKnockOnWood = {
   title: "Knock On Wood",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "knockonwood|0vn7UBvSQECKJm2817Yf1P|232133",
   song: "song/james-taylor-knock-on-wood",
   carriedBy: [

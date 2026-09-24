@@ -12,10 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionDontLetMeBeLonelyTonight = {
   title: "Don't Let Me Be Lonely Tonight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-    { externalId: "5IkynsVZoak9UR2Xt8qsMj", artistName: "Michael Brecker" },
-  ],
+  trackArtist: [{ artist: "artist/james-taylor" }, { artistName: "Michael Brecker" }],
   trackKey: "dontletmebelonelytonight|0vn7UBvSQECKJm2817Yf1P,5IkynsVZoak9UR2Xt8qsMj|282933",
   song: "song/james-taylor-dont-let-me-be-lonely-tonight",
   carriedBy: [

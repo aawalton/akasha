@@ -12,7 +12,7 @@ export const jennaRaineRosesVersionsRosesSpedUp = {
   title: "Roses - Sped Up",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "rosesspedup|3aHe9rMa5HFTjXHw8tEz0A|166564",
   song: "song/jenna-raine-roses",
   carriedBy: [

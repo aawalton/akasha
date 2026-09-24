@@ -16,7 +16,7 @@ export const jennaRaineBeLikeYou2Technicolor = {
   title: "Technicolor",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "technicolor|3aHe9rMa5HFTjXHw8tEz0A|174499",
   song: "song/jenna-raine-technicolor",
   carriedBy: [

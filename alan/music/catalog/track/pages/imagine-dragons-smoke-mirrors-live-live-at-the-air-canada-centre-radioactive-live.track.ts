@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreRadioactiveLi
   title: "Radioactive - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "radioactivelive|53XhwfbYqKCa1cC15pYq2q|461106",
   song: "song/imagine-dragons-radioactive",
   carriedBy: [

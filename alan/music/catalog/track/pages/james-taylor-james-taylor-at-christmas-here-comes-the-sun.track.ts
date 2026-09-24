@@ -13,10 +13,7 @@ export const jamesTaylorJamesTaylorAtChristmasHereComesTheSun = {
   title: "Here Comes the Sun",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-    { externalId: "5Dl3HXZjG6ZOWT5cV375lk", artistName: "Yo-Yo Ma" },
-  ],
+  trackArtist: [{ artist: "artist/james-taylor" }, { artistName: "Yo-Yo Ma" }],
   trackKey: "herecomesthesun|0vn7UBvSQECKJm2817Yf1P,5Dl3HXZjG6ZOWT5cV375lk|170706",
   song: "song/coldplay-here-comes-the-sun",
   carriedBy: [

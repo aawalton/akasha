@@ -12,7 +12,7 @@ export const jennaRaineJeansBoysJesusOffTheMarket = {
   title: "Off The Market",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "offthemarket|3aHe9rMa5HFTjXHw8tEz0A|161741",
   song: "song/jenna-raine-off-the-market",
   carriedBy: [

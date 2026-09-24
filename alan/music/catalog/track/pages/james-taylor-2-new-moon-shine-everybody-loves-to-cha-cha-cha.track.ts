@@ -12,7 +12,7 @@ export const jamesTaylor2NewMoonShineEverybodyLovesToChaChaCha = {
   title: "Everybody Loves To Cha Cha Cha",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "everybodylovestochachacha|0vn7UBvSQECKJm2817Yf1P|216733",
   song: "song/james-taylor-everybody-loves-to-cha-cha-cha",
   carriedBy: [

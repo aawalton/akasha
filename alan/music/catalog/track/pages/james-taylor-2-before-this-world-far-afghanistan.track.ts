@@ -12,7 +12,7 @@ export const jamesTaylor2BeforeThisWorldFarAfghanistan = {
   title: "Far Afghanistan",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "farafghanistan|0vn7UBvSQECKJm2817Yf1P|244466",
   song: "song/james-taylor-far-afghanistan",
   carriedBy: [

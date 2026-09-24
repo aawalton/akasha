@@ -12,7 +12,7 @@ export const jamesTaylor2NewMoonShineDownInTheHole = {
   title: "Down In the Hole",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "downinthehole|0vn7UBvSQECKJm2817Yf1P|315160",
   song: "song/james-taylor-down-in-the-hole",
   carriedBy: [

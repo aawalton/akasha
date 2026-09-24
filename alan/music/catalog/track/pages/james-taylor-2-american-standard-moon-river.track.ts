@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardMoonRiver = {
   title: "Moon River",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "moonriver|0vn7UBvSQECKJm2817Yf1P|193213",
   song: "song/james-taylor-moon-river",
   carriedBy: [

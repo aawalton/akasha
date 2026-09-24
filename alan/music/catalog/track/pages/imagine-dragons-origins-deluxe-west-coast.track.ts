@@ -12,7 +12,7 @@ export const imagineDragonsOriginsDeluxeWestCoast = {
   title: "West Coast",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "westcoast|53XhwfbYqKCa1cC15pYq2q|217173",
   song: "song/imagine-dragons-west-coast",
   carriedBy: [

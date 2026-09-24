@@ -12,7 +12,7 @@ export const jamesTaylor2Gorilla2019RemasterSarahMaria2019Remaster = {
   title: "Sarah Maria - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "sarahmaria2019remaster|0vn7UBvSQECKJm2817Yf1P|165440",
   song: "song/james-taylor-sarah-maria",
   carriedBy: [

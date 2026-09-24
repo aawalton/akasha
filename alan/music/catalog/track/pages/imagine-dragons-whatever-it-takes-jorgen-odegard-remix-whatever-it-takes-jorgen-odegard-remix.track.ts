@@ -12,10 +12,7 @@ export const imagineDragonsWhateverItTakesJorgenOdegardRemixWhateverItTakesJorge
   title: "Whatever It Takes - Jorgen Odegard Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "7CqltXhCBv0seWSgUsJcPV", artistName: "Jorgen Odegard" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Jorgen Odegard" }],
   trackKey:
     "whateverittakesjorgenodegardremix|53XhwfbYqKCa1cC15pYq2q,7CqltXhCBv0seWSgUsJcPV|232888",
   song: "song/imagine-dragons-whatever-it-takes",

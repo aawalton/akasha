@@ -12,7 +12,7 @@ export const jamesTaylor2WalkingMan2019RemasterAintNoSong2019Remaster = {
   title: "Ain't No Song - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "aintnosong2019remaster|0vn7UBvSQECKJm2817Yf1P|210853",
   song: "song/james-taylor-aint-no-song",
   carriedBy: [

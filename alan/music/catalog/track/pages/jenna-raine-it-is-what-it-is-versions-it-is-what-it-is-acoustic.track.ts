@@ -12,7 +12,7 @@ export const jennaRaineItIsWhatItIsVersionsItIsWhatItIsAcoustic = {
   title: "It Is What It Is - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "itiswhatitisacoustic|3aHe9rMa5HFTjXHw8tEz0A|147603",
   song: "song/jenna-raine-it-is-what-it-is",
   carriedBy: [

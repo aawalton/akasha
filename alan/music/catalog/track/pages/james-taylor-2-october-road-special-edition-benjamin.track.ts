@@ -13,10 +13,10 @@ export const jamesTaylor2OctoberRoadSpecialEditionBenjamin = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "5Dl3HXZjG6ZOWT5cV375lk", artistName: "Yo-Yo Ma" },
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-    { externalId: "7jkhwa4XMe9XSt1r0AWNqD", artistName: "Edgar Meyer" },
-    { externalId: "5zfaMrd5q4szVTxVYWuoDV", artistName: "Mark O'Connor" },
+    { artistName: "Yo-Yo Ma" },
+    { artist: "artist/james-taylor" },
+    { artistName: "Edgar Meyer" },
+    { artistName: "Mark O'Connor" },
   ],
   trackKey:
     "benjamin|0vn7UBvSQECKJm2817Yf1P,5Dl3HXZjG6ZOWT5cV375lk,5zfaMrd5q4szVTxVYWuoDV,7jkhwa4XMe9XSt1r0AWNqD|208666",

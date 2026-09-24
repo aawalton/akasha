@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassGaia = {
   title: "Gaia",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "gaia|0vn7UBvSQECKJm2817Yf1P|328866",
   song: "song/james-taylor-gaia",
   carriedBy: [

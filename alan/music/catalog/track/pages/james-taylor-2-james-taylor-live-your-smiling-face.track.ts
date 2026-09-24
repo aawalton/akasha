@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveYourSmilingFace = {
   title: "Your Smiling Face",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "yoursmilingface|0vn7UBvSQECKJm2817Yf1P|173506",
   song: "song/james-taylor-your-smiling-face",
   carriedBy: [

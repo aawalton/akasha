@@ -12,7 +12,7 @@ export const jennaRaineBiteTheBulletTheLows = {
   title: "THE LOWS",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0EiNdCUwM4B5GkTInLAyuj", artistName: "Caleb Hearn" }],
+  trackArtist: [{ artistName: "Caleb Hearn" }],
   trackKey: "thelows|0EiNdCUwM4B5GkTInLAyuj|190025",
   song: "song/jenna-raine-the-lows",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jennaRaineJeansBoysJesusTooLateTooLate = {
   title: "Too Late, Too Late",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "toolatetoolate|3aHe9rMa5HFTjXHw8tEz0A|171978",
   song: "song/jenna-raine-too-late-too-late",
   carriedBy: [

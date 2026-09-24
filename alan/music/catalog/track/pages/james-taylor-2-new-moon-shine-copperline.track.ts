@@ -12,7 +12,7 @@ export const jamesTaylor2NewMoonShineCopperline = {
   title: "Copperline",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "copperline|0vn7UBvSQECKJm2817Yf1P|261265",
   song: "song/james-taylor-copperline",
   carriedBy: [

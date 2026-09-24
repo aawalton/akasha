@@ -12,7 +12,7 @@ export const jennaRaineBeLikeYou2BeautifulYou = {
   title: "Beautiful You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "beautifulyou|3aHe9rMa5HFTjXHw8tEz0A|225625",
   song: "song/jenna-raine-beautiful-you",
   carriedBy: [

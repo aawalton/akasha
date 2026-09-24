@@ -12,7 +12,7 @@ export const jamesTaylor2NeverDieYoungValentinesDay = {
   title: "Valentine's Day",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "valentinesday|0vn7UBvSQECKJm2817Yf1P|155306",
   song: "song/james-taylor-valentines-day",
   carriedBy: [

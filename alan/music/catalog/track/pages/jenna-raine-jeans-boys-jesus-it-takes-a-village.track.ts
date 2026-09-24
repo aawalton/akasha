@@ -17,7 +17,7 @@ export const jennaRaineJeansBoysJesusItTakesAVillage = {
   title: "It Takes A Village",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "ittakesavillage|3aHe9rMa5HFTjXHw8tEz0A|152335",
   song: "song/jenna-raine-it-takes-a-village",
   carriedBy: [

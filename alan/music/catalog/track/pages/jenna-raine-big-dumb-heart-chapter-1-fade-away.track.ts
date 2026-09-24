@@ -12,7 +12,7 @@ export const jennaRaineBigDumbHeartChapter1FadeAway = {
   title: "Fade Away",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "fadeaway|3aHe9rMa5HFTjXHw8tEz0A|178613",
   song: "song/jenna-raine-fade-away",
   carriedBy: [

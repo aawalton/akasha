@@ -12,7 +12,7 @@ export const jennaRaineLovesickLovesick = {
   title: "Lovesick",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "lovesick|3aHe9rMa5HFTjXHw8tEz0A|151760",
   song: "song/jenna-raine-lovesick",
   carriedBy: [

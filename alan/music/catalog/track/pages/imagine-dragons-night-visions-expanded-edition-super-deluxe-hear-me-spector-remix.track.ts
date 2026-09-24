@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeHearMeSpectorRe
   title: "Hear Me - Spector Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "hearmespectorremix|53XhwfbYqKCa1cC15pYq2q|258733",
   song: "song/imagine-dragons-hear-me",
   carriedBy: [

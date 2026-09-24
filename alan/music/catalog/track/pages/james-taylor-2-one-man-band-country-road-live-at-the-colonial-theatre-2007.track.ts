@@ -12,7 +12,7 @@ export const jamesTaylor2OneManBandCountryRoadLiveAtTheColonialTheatre2007 = {
   title: "Country Road - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "countryroadliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|248746",
   song: "song/james-taylor-country-road",
   carriedBy: [

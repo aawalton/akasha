@@ -12,7 +12,7 @@ export const jamesTaylor2Gorilla2019RemasterHowSweetItIsToBeLovedByYou2019Remast
   title: "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "howsweetitistobelovedbyyou2019remaster|0vn7UBvSQECKJm2817Yf1P|216386",
   song: "song/james-taylor-how-sweet-it-is-to-be-loved-by-you",
   carriedBy: [

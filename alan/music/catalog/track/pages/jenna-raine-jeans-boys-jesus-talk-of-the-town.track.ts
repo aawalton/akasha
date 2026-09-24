@@ -15,7 +15,7 @@ export const jennaRaineJeansBoysJesusTalkOfTheTown = {
   title: "Talk Of The Town",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "talkofthetown|3aHe9rMa5HFTjXHw8tEz0A|185346",
   song: "song/jenna-raine-talk-of-the-town",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveSecretOLife = {
   title: "Secret O' Life",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "secretolife|0vn7UBvSQECKJm2817Yf1P|225973",
   song: "song/james-taylor-secret-o-life",
   carriedBy: [

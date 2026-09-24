@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsFriction = {
   title: "Friction",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "friction|53XhwfbYqKCa1cC15pYq2q|201800",
   song: "song/imagine-dragons-friction",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveWalkingMan = {
   title: "Walking Man",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "walkingman|0vn7UBvSQECKJm2817Yf1P|275466",
   song: "song/james-taylor-walking-man",
   carriedBy: [

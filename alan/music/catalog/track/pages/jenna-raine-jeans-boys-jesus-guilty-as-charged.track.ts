@@ -12,7 +12,7 @@ export const jennaRaineJeansBoysJesusGuiltyAsCharged = {
   title: "Guilty As Charged",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "guiltyascharged|3aHe9rMa5HFTjXHw8tEz0A|187727",
   song: "song/jenna-raine-guilty-as-charged",
   carriedBy: [

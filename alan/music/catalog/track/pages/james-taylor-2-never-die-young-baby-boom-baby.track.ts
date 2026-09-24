@@ -12,7 +12,7 @@ export const jamesTaylor2NeverDieYoungBabyBoomBaby = {
   title: "Baby Boom Baby",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "babyboombaby|0vn7UBvSQECKJm2817Yf1P|299826",
   song: "song/james-taylor-baby-boom-baby",
   carriedBy: [

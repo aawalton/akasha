@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardTheNearnessOfYou = {
   title: "The Nearness Of You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "thenearnessofyou|0vn7UBvSQECKJm2817Yf1P|232346",
   song: "song/james-taylor-the-nearness-of-you",
   carriedBy: [

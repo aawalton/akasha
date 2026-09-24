@@ -12,7 +12,7 @@ export const jamesTaylor2NeverDieYoungFirstOfMay = {
   title: "First of May",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "firstofmay|0vn7UBvSQECKJm2817Yf1P|241200",
   song: "song/james-taylor-first-of-may",
   carriedBy: [

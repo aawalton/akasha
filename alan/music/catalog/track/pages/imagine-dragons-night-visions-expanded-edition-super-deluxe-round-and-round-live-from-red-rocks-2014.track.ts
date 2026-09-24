@@ -13,7 +13,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRoundAndRoundLi
     title: "Round And Round - Live From Red Rocks / 2014",
     trackType: "live",
     explicit: false,
-    trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+    trackArtist: [{ artist: "artist/imagine-dragons" }],
     trackKey: "roundandroundlivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|218013",
     song: "song/imagine-dragons-round-and-round",
     carriedBy: [

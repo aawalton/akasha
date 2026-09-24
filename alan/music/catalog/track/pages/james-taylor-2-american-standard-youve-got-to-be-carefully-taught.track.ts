@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardYouveGotToBeCarefullyTaught = {
   title: "You’ve Got To Be Carefully Taught",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "youvegottobecarefullytaught|0vn7UBvSQECKJm2817Yf1P|146346",
   song: "song/james-taylor-youve-got-to-be-carefully-taught",
   carriedBy: [

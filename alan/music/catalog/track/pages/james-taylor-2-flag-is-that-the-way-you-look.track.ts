@@ -12,7 +12,7 @@ export const jamesTaylor2FlagIsThatTheWayYouLook = {
   title: "Is That the Way You Look?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "isthatthewayyoulook|0vn7UBvSQECKJm2817Yf1P|117666",
   song: "song/james-taylor-is-that-the-way-you-look",
   carriedBy: [

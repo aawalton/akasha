@@ -12,7 +12,7 @@ export const jennaRaineOnlyStartedGrowingNeverTooLate = {
   title: "Never Too Late",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "nevertoolate|3aHe9rMa5HFTjXHw8tEz0A|170306",
   song: "song/jenna-raine-never-too-late",
   carriedBy: [

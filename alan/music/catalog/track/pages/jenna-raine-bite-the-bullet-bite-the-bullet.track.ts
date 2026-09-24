@@ -12,10 +12,7 @@ export const jennaRaineBiteTheBulletBiteTheBullet = {
   title: "BITE THE BULLET",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0EiNdCUwM4B5GkTInLAyuj", artistName: "Caleb Hearn" },
-    { externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" },
-  ],
+  trackArtist: [{ artistName: "Caleb Hearn" }, { artist: "artist/jenna-raine" }],
   trackKey: "bitethebullet|0EiNdCUwM4B5GkTInLAyuj,3aHe9rMa5HFTjXHw8tEz0A|167693",
   song: "song/jenna-raine-bite-the-bullet",
   carriedBy: [

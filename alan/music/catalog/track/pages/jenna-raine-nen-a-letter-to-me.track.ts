@@ -12,7 +12,7 @@ export const jennaRaineNenALetterToMe = {
   title: "a letter to me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "alettertome|3aHe9rMa5HFTjXHw8tEz0A|175954",
   song: "song/jenna-raine-a-letter-to-me",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardItsOnlyAPaperMoon = {
   title: "It's Only A Paper Moon",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "itsonlyapapermoon|0vn7UBvSQECKJm2817Yf1P|191893",
   song: "song/james-taylor-its-only-a-paper-moon",
   carriedBy: [

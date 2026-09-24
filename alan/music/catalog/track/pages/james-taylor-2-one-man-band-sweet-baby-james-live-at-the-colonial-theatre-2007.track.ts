@@ -12,7 +12,7 @@ export const jamesTaylor2OneManBandSweetBabyJamesLiveAtTheColonialTheatre2007 = 
   title: "Sweet Baby James - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "sweetbabyjamesliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|221146",
   song: "song/james-taylor-sweet-baby-james",
   carriedBy: [

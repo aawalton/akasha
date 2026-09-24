@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreItsTimeLive =
   title: "It's Time - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "itstimelive|53XhwfbYqKCa1cC15pYq2q|344920",
   song: "song/imagine-dragons-it-s-time",
   carriedBy: [

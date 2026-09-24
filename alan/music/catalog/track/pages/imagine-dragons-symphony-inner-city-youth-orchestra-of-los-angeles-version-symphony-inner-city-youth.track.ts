@@ -15,7 +15,7 @@ export const imagineDragonsSymphonyInnerCityYouthOrchestraOfLosAngelesVersionSym
     title: "Symphony - Inner City Youth Orchestra of Los Angeles Version",
     trackType: "version",
     explicit: false,
-    trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+    trackArtist: [{ artist: "artist/imagine-dragons" }],
     trackKey: "symphonyinnercityyouthorchestraoflosangelesversion|53XhwfbYqKCa1cC15pYq2q|188688",
     song: "song/imagine-dragons-symphony",
     carriedBy: [

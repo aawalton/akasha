@@ -12,7 +12,7 @@ export const jamesTaylor2SweetBabyJames2019RemasterOhSusannah2019Remaster = {
   title: "Oh, Susannah - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "ohsusannah2019remaster|0vn7UBvSQECKJm2817Yf1P|121306",
   song: "song/james-taylor-oh-susannah",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2InThePocket2019RemasterFamilyMan2019Remaster = {
   title: "Family Man - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "familyman2019remaster|0vn7UBvSQECKJm2817Yf1P|218640",
   song: "song/james-taylor-family-man",
   carriedBy: [

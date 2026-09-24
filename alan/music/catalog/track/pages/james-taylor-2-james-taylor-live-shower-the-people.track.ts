@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveShowerThePeople = {
   title: "Shower the People",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "showerthepeople|0vn7UBvSQECKJm2817Yf1P|281066",
   song: "song/james-taylor-shower-the-people",
   carriedBy: [

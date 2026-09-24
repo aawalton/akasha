@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeBleedingOut = {
   title: "Bleeding Out",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "bleedingout|53XhwfbYqKCa1cC15pYq2q|223106",
   song: "song/imagine-dragons-bleeding-out",
   carriedBy: [

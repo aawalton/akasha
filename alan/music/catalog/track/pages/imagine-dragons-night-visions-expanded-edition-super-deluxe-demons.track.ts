@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemons = {
   title: "Demons",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "demons|53XhwfbYqKCa1cC15pYq2q|177506",
   song: "song/imagine-dragons-demons",
   carriedBy: [

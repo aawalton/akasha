@@ -15,7 +15,7 @@ export const imagineDragonsSmokeMirrorsDeluxeIBetMyLife = {
   title: "I Bet My Life",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "ibetmylife|53XhwfbYqKCa1cC15pYq2q|192706",
   song: "song/imagine-dragons-i-bet-my-life",
   carriedBy: [

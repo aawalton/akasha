@@ -12,7 +12,7 @@ export const jennaRaineJeansBoysJesusWhatHesNot = {
   title: "What He's Not",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "whathesnot|3aHe9rMa5HFTjXHw8tEz0A|190472",
   song: "song/jenna-raine-what-hes-not",
   carriedBy: [

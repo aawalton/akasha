@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeTokyo = {
   title: "Tokyo",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "tokyo|53XhwfbYqKCa1cC15pYq2q|195251",
   song: "song/imagine-dragons-tokyo",
   carriedBy: [

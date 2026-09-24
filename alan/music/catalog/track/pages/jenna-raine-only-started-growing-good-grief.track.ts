@@ -12,7 +12,7 @@ export const jennaRaineOnlyStartedGrowingGoodGrief = {
   title: "Good Grief",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "goodgrief|3aHe9rMa5HFTjXHw8tEz0A|160626",
   song: "song/jenna-raine-good-grief",
   carriedBy: [

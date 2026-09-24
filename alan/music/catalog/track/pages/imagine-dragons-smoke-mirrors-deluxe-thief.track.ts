@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsDeluxeThief = {
   title: "Thief",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "thief|53XhwfbYqKCa1cC15pYq2q|227493",
   song: "song/imagine-dragons-thief",
   carriedBy: [

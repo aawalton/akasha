@@ -13,7 +13,7 @@ export const jamesTaylorJamesTaylorAtChristmasRiver = {
   title: "River",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "river|0vn7UBvSQECKJm2817Yf1P|213586",
   song: "song/james-taylor-river",
   carriedBy: [

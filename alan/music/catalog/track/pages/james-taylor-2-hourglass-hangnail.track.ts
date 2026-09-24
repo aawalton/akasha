@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassHangnail = {
   title: "Hangnail",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "hangnail|0vn7UBvSQECKJm2817Yf1P|141333",
   song: "song/james-taylor-hangnail",
   carriedBy: [

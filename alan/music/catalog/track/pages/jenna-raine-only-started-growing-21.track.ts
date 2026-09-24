@@ -16,7 +16,7 @@ export const jennaRaineOnlyStartedGrowing21 = {
   title: "21",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "21|3aHe9rMa5HFTjXHw8tEz0A|179423",
   song: "song/jenna-raine-21",
   carriedBy: [

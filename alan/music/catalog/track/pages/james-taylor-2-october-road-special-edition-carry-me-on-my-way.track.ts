@@ -12,7 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionCarryMeOnMyWay = {
   title: "Carry Me On My Way",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "carrymeonmyway|0vn7UBvSQECKJm2817Yf1P|269733",
   song: "song/james-taylor-carry-me-on-my-way",
   carriedBy: [

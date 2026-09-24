@@ -12,7 +12,7 @@ export const jennaRaineBigDumbHeartChapter2WhatAreFriendsFor = {
   title: "What Are Friends For",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "whatarefriendsfor|3aHe9rMa5HFTjXHw8tEz0A|177040",
   song: "song/jenna-raine-what-are-friends-for",
   carriedBy: [

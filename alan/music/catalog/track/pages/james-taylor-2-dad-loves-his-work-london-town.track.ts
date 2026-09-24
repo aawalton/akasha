@@ -12,7 +12,7 @@ export const jamesTaylor2DadLovesHisWorkLondonTown = {
   title: "London Town",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "londontown|0vn7UBvSQECKJm2817Yf1P|233933",
   song: "song/james-taylor-london-town",
   carriedBy: [

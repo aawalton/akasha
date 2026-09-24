@@ -12,7 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionRaisedUpFamily = {
   title: "Raised Up Family",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "raisedupfamily|0vn7UBvSQECKJm2817Yf1P|279466",
   song: "song/james-taylor-raised-up-family",
   carriedBy: [

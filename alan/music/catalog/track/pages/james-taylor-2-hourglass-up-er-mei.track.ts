@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassUpErMei = {
   title: "Up Er Mei",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "upermei|0vn7UBvSQECKJm2817Yf1P|226933",
   song: "song/james-taylor-up-er-mei",
   carriedBy: [

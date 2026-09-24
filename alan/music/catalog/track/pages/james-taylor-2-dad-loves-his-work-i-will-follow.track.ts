@@ -12,7 +12,7 @@ export const jamesTaylor2DadLovesHisWorkIWillFollow = {
   title: "I Will Follow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "iwillfollow|0vn7UBvSQECKJm2817Yf1P|257800",
   song: "song/james-taylor-i-will-follow",
   carriedBy: [

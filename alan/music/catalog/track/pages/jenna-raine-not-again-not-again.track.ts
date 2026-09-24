@@ -12,7 +12,7 @@ export const jennaRaineNotAgainNotAgain = {
   title: "NOT AGAIN",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "notagain|3aHe9rMa5HFTjXHw8tEz0A|216661",
   song: "song/jenna-raine-not-again",
   carriedBy: [

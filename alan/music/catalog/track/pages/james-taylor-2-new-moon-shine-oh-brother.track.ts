@@ -12,7 +12,7 @@ export const jamesTaylor2NewMoonShineOhBrother = {
   title: "Oh Brother",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "ohbrother|0vn7UBvSQECKJm2817Yf1P|263240",
   song: "song/james-taylor-oh-brother",
   carriedBy: [

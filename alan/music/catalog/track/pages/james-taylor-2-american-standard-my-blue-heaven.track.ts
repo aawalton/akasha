@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardMyBlueHeaven = {
   title: "My Blue Heaven",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "myblueheaven|0vn7UBvSQECKJm2817Yf1P|163160",
   song: "song/james-taylor-my-blue-heaven",
   carriedBy: [

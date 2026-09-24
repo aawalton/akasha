@@ -12,7 +12,7 @@ export const jamesTaylor2BeforeThisWorldSnowtime = {
   title: "SnowTime",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "snowtime|0vn7UBvSQECKJm2817Yf1P|348546",
   song: "song/james-taylor-snowtime",
   carriedBy: [

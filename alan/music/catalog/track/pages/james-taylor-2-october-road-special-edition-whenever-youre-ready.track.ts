@@ -12,7 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionWheneverYoureReady = {
   title: "Whenever You're Ready",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "wheneveryoureready|0vn7UBvSQECKJm2817Yf1P|254040",
   song: "song/james-taylor-whenever-youre-ready",
   carriedBy: [

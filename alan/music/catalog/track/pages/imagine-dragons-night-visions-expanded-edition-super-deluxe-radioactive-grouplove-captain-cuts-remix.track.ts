@@ -14,9 +14,9 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeRadioactiveGrou
     trackType: "remix",
     explicit: false,
     trackArtist: [
-      { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-      { externalId: "3kVUvbeRdcrqQ3oHk5hPdx", artistName: "GROUPLOVE" },
-      { externalId: "0rlKkLkpsCnJbZethGBfAk", artistName: "Captain Cuts" },
+      { artist: "artist/imagine-dragons" },
+      { artistName: "GROUPLOVE" },
+      { artistName: "Captain Cuts" },
     ],
     trackKey:
       "radioactivegrouplovecaptaincutsremix|0rlKkLkpsCnJbZethGBfAk,3kVUvbeRdcrqQ3oHk5hPdx,53XhwfbYqKCa1cC15pYq2q|240666",

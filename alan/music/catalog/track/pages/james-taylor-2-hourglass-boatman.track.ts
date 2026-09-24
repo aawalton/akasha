@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassBoatman = {
   title: "Boatman",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "boatman|0vn7UBvSQECKJm2817Yf1P|236600",
   song: "song/james-taylor-boatman",
   carriedBy: [

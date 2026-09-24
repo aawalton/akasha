@@ -12,7 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionMeanOldMan = {
   title: "Mean Old Man",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "meanoldman|0vn7UBvSQECKJm2817Yf1P|220960",
   song: "song/james-taylor-mean-old-man",
   carriedBy: [

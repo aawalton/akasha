@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeChaChingTillWeG
   title: "Cha-Ching (Till We Grow Older) - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "chachingtillwegrowolderlivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|282760",
   song: "song/imagine-dragons-cha-ching-till-we-grow-older",
   carriedBy: [

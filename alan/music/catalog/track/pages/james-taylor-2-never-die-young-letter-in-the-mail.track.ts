@@ -12,7 +12,7 @@ export const jamesTaylor2NeverDieYoungLetterInTheMail = {
   title: "Letter in the Mail",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "letterinthemail|0vn7UBvSQECKJm2817Yf1P|281133",
   song: "song/james-taylor-letter-in-the-mail",
   carriedBy: [

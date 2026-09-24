@@ -12,7 +12,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterPlacesInMyPast
   title: "Places in My Past - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "placesinmypast2019remaster|0vn7UBvSQECKJm2817Yf1P|121920",
   song: "song/james-taylor-places-in-my-past",
   carriedBy: [

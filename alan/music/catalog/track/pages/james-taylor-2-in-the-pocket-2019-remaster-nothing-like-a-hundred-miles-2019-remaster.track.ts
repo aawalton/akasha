@@ -12,7 +12,7 @@ export const jamesTaylor2InThePocket2019RemasterNothingLikeAHundredMiles2019Rema
   title: "Nothing like a Hundred Miles - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "nothinglikeahundredmiles2019remaster|0vn7UBvSQECKJm2817Yf1P|223120",
   song: "song/james-taylor-nothing-like-a-hundred-miles",
   carriedBy: [

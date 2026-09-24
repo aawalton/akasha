@@ -12,7 +12,7 @@ export const jamesTaylor2ThatSWhyIMHereMyRomance = {
   title: "My Romance",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "myromance|0vn7UBvSQECKJm2817Yf1P|166293",
   song: "song/james-taylor-my-romance",
   carriedBy: [

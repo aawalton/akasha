@@ -12,7 +12,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsIGetCarriedAwayD
   title: "I Get Carried Away - Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "igetcarriedawaydemo|53XhwfbYqKCa1cC15pYq2q|194584",
   song: "song/imagine-dragons-i-get-carried-away",
   carriedBy: [

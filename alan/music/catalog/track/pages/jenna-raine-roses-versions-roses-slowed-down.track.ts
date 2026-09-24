@@ -12,7 +12,7 @@ export const jennaRaineRosesVersionsRosesSlowedDown = {
   title: "Roses - Slowed Down",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "rosessloweddown|3aHe9rMa5HFTjXHw8tEz0A|222710",
   song: "song/jenna-raine-roses",
   carriedBy: [

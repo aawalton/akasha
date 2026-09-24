@@ -12,7 +12,7 @@ export const jamesTaylor2Gorilla2019RemasterIWasAFoolToCare2019Remaster = {
   title: "I Was a Fool to Care - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "iwasafooltocare2019remaster|0vn7UBvSQECKJm2817Yf1P|200960",
   song: "song/james-taylor-i-was-a-fool-to-care",
   carriedBy: [

@@ -15,7 +15,7 @@ export const jennaRaineItIsWhatItIsSpedUpItIsWhatItIsSpedUp = {
   title: "It Is What It Is - Sped Up",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "itiswhatitisspedup|3aHe9rMa5HFTjXHw8tEz0A|132923",
   song: "song/jenna-raine-it-is-what-it-is",
   carriedBy: [

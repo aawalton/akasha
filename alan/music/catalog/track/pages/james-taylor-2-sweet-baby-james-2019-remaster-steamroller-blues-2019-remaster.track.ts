@@ -12,7 +12,7 @@ export const jamesTaylor2SweetBabyJames2019RemasterSteamrollerBlues2019Remaster 
   title: "Steamroller Blues - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "steamrollerblues2019remaster|0vn7UBvSQECKJm2817Yf1P|177560",
   song: "song/james-taylor-steamroller-blues",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeChaChingTillWeG
   title: "Cha-Ching (Till We Grow Older)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "chachingtillwegrowolder|53XhwfbYqKCa1cC15pYq2q|248693",
   song: "song/imagine-dragons-cha-ching-till-we-grow-older",
   carriedBy: [

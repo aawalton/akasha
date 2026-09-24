@@ -12,7 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionSeptemberGrass = {
   title: "September Grass",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "septembergrass|0vn7UBvSQECKJm2817Yf1P|289960",
   song: "song/james-taylor-september-grass",
   carriedBy: [

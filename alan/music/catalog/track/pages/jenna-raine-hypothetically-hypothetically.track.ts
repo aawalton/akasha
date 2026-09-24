@@ -12,7 +12,7 @@ export const jennaRaineHypotheticallyHypothetically = {
   title: "Hypothetically",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "hypothetically|3aHe9rMa5HFTjXHw8tEz0A|161991",
   song: "song/jenna-raine-hypothetically",
   carriedBy: [

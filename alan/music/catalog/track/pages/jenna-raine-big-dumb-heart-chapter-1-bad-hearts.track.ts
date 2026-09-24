@@ -12,7 +12,7 @@ export const jennaRaineBigDumbHeartChapter1BadHearts = {
   title: "Bad Hearts",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "badhearts|3aHe9rMa5HFTjXHw8tEz0A|196866",
   song: "song/jenna-raine-bad-hearts",
   carriedBy: [

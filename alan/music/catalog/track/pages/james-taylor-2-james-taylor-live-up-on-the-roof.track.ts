@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveUpOnTheRoof = {
   title: "Up On The Roof",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "upontheroof|0vn7UBvSQECKJm2817Yf1P|249173",
   song: "song/james-taylor-up-on-the-roof",
   carriedBy: [

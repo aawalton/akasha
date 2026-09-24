@@ -12,7 +12,7 @@ export const jamesTaylor2CoversOnBroadway = {
   title: "On Broadway",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "onbroadway|0vn7UBvSQECKJm2817Yf1P|251360",
   song: "song/james-taylor-on-broadway",
   carriedBy: [

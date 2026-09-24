@@ -12,7 +12,7 @@ export const jamesTaylor2DadLovesHisWorkHourThatTheMorningComes = {
   title: "Hour That the Morning Comes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "hourthatthemorningcomes|0vn7UBvSQECKJm2817Yf1P|175760",
   song: "song/james-taylor-hour-that-the-morning-comes",
   carriedBy: [

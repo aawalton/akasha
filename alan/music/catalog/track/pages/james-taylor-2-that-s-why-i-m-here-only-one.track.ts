@@ -12,7 +12,7 @@ export const jamesTaylor2ThatSWhyIMHereOnlyOne = {
   title: "Only One",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "onlyone|0vn7UBvSQECKJm2817Yf1P|258266",
   song: "song/james-taylor-only-one",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2JtBartendersBlues = {
   title: "Bartender's Blues",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "bartendersblues|0vn7UBvSQECKJm2817Yf1P|252448",
   song: "song/james-taylor-bartenders-blues",
   carriedBy: [

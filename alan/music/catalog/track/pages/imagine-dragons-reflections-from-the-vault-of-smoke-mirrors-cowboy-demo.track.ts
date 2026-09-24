@@ -12,7 +12,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsCowboyDemo = {
   title: "Cowboy - Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "cowboydemo|53XhwfbYqKCa1cC15pYq2q|159845",
   song: "song/imagine-dragons-cowboy",
   carriedBy: [

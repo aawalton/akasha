@@ -12,7 +12,7 @@ export const jamesTaylor2CoversNotFadeAway = {
   title: "Not Fade Away",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "notfadeaway|0vn7UBvSQECKJm2817Yf1P|165746",
   song: "song/james-taylor-not-fade-away",
   carriedBy: [

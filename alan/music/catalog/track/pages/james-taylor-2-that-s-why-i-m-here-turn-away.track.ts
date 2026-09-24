@@ -12,7 +12,7 @@ export const jamesTaylor2ThatSWhyIMHereTurnAway = {
   title: "Turn Away",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "turnaway|0vn7UBvSQECKJm2817Yf1P|202200",
   song: "song/james-taylor-turn-away",
   carriedBy: [

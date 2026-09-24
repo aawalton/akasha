@@ -12,7 +12,7 @@ export const jamesTaylor2CoversItsGrowing = {
   title: "It's Growing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "itsgrowing|0vn7UBvSQECKJm2817Yf1P|247893",
   song: "song/james-taylor-its-growing",
   carriedBy: [

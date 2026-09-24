@@ -12,7 +12,7 @@ export const imagineDragonsOriginsDeluxeBadLiar = {
   title: "Bad Liar",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "badliar|53XhwfbYqKCa1cC15pYq2q|260773",
   song: "song/imagine-dragons-bad-liar",
   carriedBy: [

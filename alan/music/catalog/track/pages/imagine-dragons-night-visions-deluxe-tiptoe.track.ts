@@ -15,7 +15,7 @@ export const imagineDragonsNightVisionsDeluxeTiptoe = {
   title: "Tiptoe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "tiptoe|53XhwfbYqKCa1cC15pYq2q|193000",
   song: "song/imagine-dragons-tiptoe",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2OtherCoversGetAJob = {
   title: "Get A Job",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "getajob|0vn7UBvSQECKJm2817Yf1P|248053",
   song: "song/james-taylor-get-a-job",
   carriedBy: [

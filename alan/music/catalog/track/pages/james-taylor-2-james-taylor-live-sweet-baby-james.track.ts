@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveSweetBabyJames = {
   title: "Sweet Baby James",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "sweetbabyjames|0vn7UBvSQECKJm2817Yf1P|251373",
   song: "song/james-taylor-sweet-baby-james",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterYouveGotAFrien
   title: "You've Got a Friend - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "youvegotafriend2019remaster|0vn7UBvSQECKJm2817Yf1P|268866",
   song: "song/james-taylor-youve-got-a-friend",
   carriedBy: [

@@ -12,10 +12,7 @@ export const jennaRaineRosesVersionsRosesFeatAveryAnna = {
   title: "Roses (feat. Avery Anna)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" },
-    { externalId: "5rjz63sgMaAUAyBMyCUK5D", artistName: "Avery Anna" },
-  ],
+  trackArtist: [{ artist: "artist/jenna-raine" }, { artistName: "Avery Anna" }],
   trackKey: "rosesfeataveryanna|3aHe9rMa5HFTjXHw8tEz0A,5rjz63sgMaAUAyBMyCUK5D|190534",
   song: "song/jenna-raine-roses",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsOriginsDeluxeBurnOut = {
   title: "Burn Out",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "burnout|53XhwfbYqKCa1cC15pYq2q|273880",
   song: "song/imagine-dragons-burn-out",
   carriedBy: [

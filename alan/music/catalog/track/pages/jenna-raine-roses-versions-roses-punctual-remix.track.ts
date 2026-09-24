@@ -12,10 +12,7 @@ export const jennaRaineRosesVersionsRosesPunctualRemix = {
   title: "Roses - Punctual Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" },
-    { externalId: "1ocnIbhFWM9bSPrd7Hu4zF", artistName: "Punctual" },
-  ],
+  trackArtist: [{ artist: "artist/jenna-raine" }, { artistName: "Punctual" }],
   trackKey: "rosespunctualremix|1ocnIbhFWM9bSPrd7Hu4zF,3aHe9rMa5HFTjXHw8tEz0A|200153",
   song: "song/jenna-raine-roses",
   carriedBy: [

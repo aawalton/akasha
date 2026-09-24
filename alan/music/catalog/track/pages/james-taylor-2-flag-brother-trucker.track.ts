@@ -12,7 +12,7 @@ export const jamesTaylor2FlagBrotherTrucker = {
   title: "Brother Trucker",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "brothertrucker|0vn7UBvSQECKJm2817Yf1P|240866",
   song: "song/james-taylor-brother-trucker",
   carriedBy: [

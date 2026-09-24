@@ -12,7 +12,7 @@ export const jennaRaineJeansBoysJesusJeansBoysJesus = {
   title: "Jeans, Boys & Jesus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "jeansboysjesus|3aHe9rMa5HFTjXHw8tEz0A|202542",
   song: "song/jenna-raine-jeans-boys-jesus",
   carriedBy: [

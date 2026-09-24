@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeItsTimeLiveFrom
   title: "It's Time - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "itstimelivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|324453",
   song: "song/imagine-dragons-it-s-time",
   carriedBy: [

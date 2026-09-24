@@ -12,7 +12,7 @@ export const jennaRaineBigDumbHeartChapter2CruiseControl = {
   title: "Cruise Control",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "cruisecontrol|3aHe9rMa5HFTjXHw8tEz0A|202480",
   song: "song/jenna-raine-cruise-control",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2NewMoonShineOneMoreGoRound = {
   title: "One More Go Round",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "onemoregoround|0vn7UBvSQECKJm2817Yf1P|280826",
   song: "song/james-taylor-one-more-go-round",
   carriedBy: [

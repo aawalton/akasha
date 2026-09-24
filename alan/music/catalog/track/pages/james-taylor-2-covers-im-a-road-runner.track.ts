@@ -12,7 +12,7 @@ export const jamesTaylor2CoversImARoadRunner = {
   title: "(I'm A) Road Runner",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "imaroadrunner|0vn7UBvSQECKJm2817Yf1P|197586",
   song: "song/james-taylor-im-a-road-runner",
   carriedBy: [

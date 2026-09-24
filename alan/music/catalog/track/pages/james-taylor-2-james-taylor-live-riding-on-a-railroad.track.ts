@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveRidingOnARailroad = {
   title: "Riding On A Railroad",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "ridingonarailroad|0vn7UBvSQECKJm2817Yf1P|161866",
   song: "song/james-taylor-riding-on-a-railroad",
   carriedBy: [

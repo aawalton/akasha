@@ -12,7 +12,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterMudSlideSlim20
   title: "Mud Slide Slim - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "mudslideslim2019remaster|0vn7UBvSQECKJm2817Yf1P|319213",
   song: "song/james-taylor-mud-slide-slim",
   carriedBy: [

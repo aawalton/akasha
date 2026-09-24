@@ -16,7 +16,7 @@ export const jennaRaineBigDumbHeartChapter1StupidCupid = {
   title: "Stupid Cupid",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "stupidcupid|3aHe9rMa5HFTjXHw8tEz0A|173954",
   song: "song/jenna-raine-stupid-cupid",
   carriedBy: [

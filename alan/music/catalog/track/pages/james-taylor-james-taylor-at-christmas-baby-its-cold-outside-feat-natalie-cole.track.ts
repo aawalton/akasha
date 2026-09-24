@@ -13,10 +13,7 @@ export const jamesTaylorJamesTaylorAtChristmasBabyItsColdOutsideFeatNatalieCole 
   title: "Baby, It's Cold Outside (feat. Natalie Cole)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-    { externalId: "5tTsrGPwQRWUsHR2Xf7Ke9", artistName: "Natalie Cole" },
-  ],
+  trackArtist: [{ artist: "artist/james-taylor" }, { artistName: "Natalie Cole" }],
   trackKey:
     "babyitscoldoutsidefeatnataliecole|0vn7UBvSQECKJm2817Yf1P,5tTsrGPwQRWUsHR2Xf7Ke9|257680",
   song: "song/sia-baby-it-s-cold-outside",

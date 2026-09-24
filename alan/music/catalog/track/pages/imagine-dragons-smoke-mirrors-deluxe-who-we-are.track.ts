@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsDeluxeWhoWeAre = {
   title: "Who We Are",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "whoweare|53XhwfbYqKCa1cC15pYq2q|249346",
   song: "song/imagine-dragons-who-we-are",
   carriedBy: [

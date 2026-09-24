@@ -12,7 +12,7 @@ export const imagineDragonsOriginsDeluxeMachine = {
   title: "Machine",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "machine|53XhwfbYqKCa1cC15pYq2q|181880",
   song: "song/imagine-dragons-machine",
   carriedBy: [

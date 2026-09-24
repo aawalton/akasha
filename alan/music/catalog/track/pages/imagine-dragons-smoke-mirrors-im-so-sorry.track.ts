@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsImSoSorry = {
   title: "I’m So Sorry",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "imsosorry|53XhwfbYqKCa1cC15pYq2q|230200",
   song: "song/imagine-dragons-i-m-so-sorry",
   carriedBy: [

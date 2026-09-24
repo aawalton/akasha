@@ -12,10 +12,7 @@ export const jamesTaylor2DadLovesHisWorkHerTownTooWithJDSouther = {
   title: "Her Town Too (with J.D. Souther)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-    { externalId: "0I7UnRLIdCD310ZBgeuqh5", artistName: "JD Souther" },
-  ],
+  trackArtist: [{ artist: "artist/james-taylor" }, { artistName: "JD Souther" }],
   trackKey: "hertowntoowithjdsouther|0I7UnRLIdCD310ZBgeuqh5,0vn7UBvSQECKJm2817Yf1P|274440",
   song: "song/james-taylor-her-town-too",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jennaRaineRosesVersionsRosesAcoustic = {
   title: "Roses - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "rosesacoustic|3aHe9rMa5HFTjXHw8tEz0A|190696",
   song: "song/jenna-raine-roses",
   carriedBy: [

@@ -12,10 +12,7 @@ export const imagineDragonsThunderYoungDumbBrokeWithKhalidMedleyThunderYoungDumb
   title: "Thunder / Young Dumb & Broke (with Khalid) - Medley",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "6LuN9FCkKOj5PcnpouEgny", artistName: "Khalid" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Khalid" }],
   trackKey:
     "thunderyoungdumbbrokewithkhalidmedley|53XhwfbYqKCa1cC15pYq2q,6LuN9FCkKOj5PcnpouEgny|251283",
   song: "song/imagine-dragons-thunder-young-dumb-broke-medley",

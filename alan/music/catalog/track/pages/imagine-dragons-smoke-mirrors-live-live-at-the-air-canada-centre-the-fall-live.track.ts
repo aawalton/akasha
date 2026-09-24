@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreTheFallLive =
   title: "The Fall - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "thefalllive|53XhwfbYqKCa1cC15pYq2q|343666",
   song: "song/imagine-dragons-the-fall",
   carriedBy: [

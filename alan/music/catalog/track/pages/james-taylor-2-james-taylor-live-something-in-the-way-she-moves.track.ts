@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveSomethingInTheWaySheMoves = {
   title: "Something In The Way She Moves",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "somethinginthewayshemoves|0vn7UBvSQECKJm2817Yf1P|210200",
   song: "song/james-taylor-something-in-the-way-she-moves",
   carriedBy: [

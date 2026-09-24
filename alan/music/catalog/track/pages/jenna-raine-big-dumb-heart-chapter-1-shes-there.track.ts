@@ -12,7 +12,7 @@ export const jennaRaineBigDumbHeartChapter1ShesThere = {
   title: "She's There",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "shesthere|3aHe9rMa5HFTjXHw8tEz0A|230653",
   song: "song/jenna-raine-shes-there",
   carriedBy: [

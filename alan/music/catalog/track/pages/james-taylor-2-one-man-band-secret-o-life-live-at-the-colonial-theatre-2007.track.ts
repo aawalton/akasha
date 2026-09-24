@@ -12,7 +12,7 @@ export const jamesTaylor2OneManBandSecretOLifeLiveAtTheColonialTheatre2007 = {
   title: "Secret O' Life - Live At The Colonial Theatre / 2007",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "secretolifeliveatthecolonialtheatre2007|0vn7UBvSQECKJm2817Yf1P|222253",
   song: "song/james-taylor-secret-o-life",
   carriedBy: [

@@ -12,10 +12,7 @@ export const imagineDragonsStarsWillAlignStarsWillAlign = {
   title: "Stars Will Align",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-  ],
+  trackArtist: [{ artistName: "Kygo" }, { artist: "artist/imagine-dragons" }],
   trackKey: "starswillalign|23fqKkggKUBHNkbKtXEls4,53XhwfbYqKCa1cC15pYq2q|234366",
   song: "song/imagine-dragons-stars-will-align",
   carriedBy: [

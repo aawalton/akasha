@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassUpFromYourLife = {
   title: "Up From Your Life",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "upfromyourlife|0vn7UBvSQECKJm2817Yf1P|314773",
   song: "song/james-taylor-up-from-your-life",
   carriedBy: [

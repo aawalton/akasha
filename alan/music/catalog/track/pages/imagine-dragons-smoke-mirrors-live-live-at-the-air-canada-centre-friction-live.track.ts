@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreFrictionLive 
   title: "Friction - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "frictionlive|53XhwfbYqKCa1cC15pYq2q|265160",
   song: "song/imagine-dragons-friction",
   carriedBy: [

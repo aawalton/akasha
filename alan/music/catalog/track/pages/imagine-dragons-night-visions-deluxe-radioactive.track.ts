@@ -16,7 +16,7 @@ export const imagineDragonsNightVisionsDeluxeRadioactive = {
   title: "Radioactive",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "radioactive|53XhwfbYqKCa1cC15pYq2q|186813",
   song: "song/imagine-dragons-radioactive",
   carriedBy: [

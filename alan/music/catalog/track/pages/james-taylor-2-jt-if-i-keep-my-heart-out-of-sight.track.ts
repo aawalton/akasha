@@ -12,7 +12,7 @@ export const jamesTaylor2JtIfIKeepMyHeartOutOfSight = {
   title: "If I Keep My Heart Out of Sight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "ifikeepmyheartoutofsight|0vn7UBvSQECKJm2817Yf1P|179207",
   song: "song/james-taylor-if-i-keep-my-heart-out-of-sight",
   carriedBy: [

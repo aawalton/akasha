@@ -12,7 +12,7 @@ export const jamesTaylor2FlagChansonFrancaise = {
   title: "Chanson Francaise",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "chansonfrancaise|0vn7UBvSQECKJm2817Yf1P|121906",
   song: "song/james-taylor-chanson-francaise",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2FlagBSUR = {
   title: "B.S.U.R.",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "bsur|0vn7UBvSQECKJm2817Yf1P|201240",
   song: "song/james-taylor-b-s-u-r",
   carriedBy: [

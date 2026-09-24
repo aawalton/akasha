@@ -12,10 +12,7 @@ export const jamesTaylorJamesTaylorAtChristmasWinterWonderlandFeatChrisBotti = {
   title: "Winter Wonderland (feat. Chris Botti)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-    { externalId: "3eFo5fMv53RYZBYlvT5Z6a", artistName: "Chris Botti" },
-  ],
+  trackArtist: [{ artist: "artist/james-taylor" }, { artistName: "Chris Botti" }],
   trackKey: "winterwonderlandfeatchrisbotti|0vn7UBvSQECKJm2817Yf1P,3eFo5fMv53RYZBYlvT5Z6a|213826",
   song: "song/james-taylor-winter-wonderland",
   carriedBy: [

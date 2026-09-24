@@ -12,7 +12,7 @@ export const imagineDragonsOriginsDeluxeRealLife = {
   title: "Real Life",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "reallife|53XhwfbYqKCa1cC15pYq2q|247546",
   song: "song/imagine-dragons-real-life",
   carriedBy: [

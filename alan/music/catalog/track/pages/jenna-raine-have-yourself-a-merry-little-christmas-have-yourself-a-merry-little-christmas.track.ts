@@ -12,7 +12,7 @@ export const jennaRaineHaveYourselfAMerryLittleChristmasHaveYourselfAMerryLittle
   title: "Have Yourself A Merry Little Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "haveyourselfamerrylittlechristmas|3aHe9rMa5HFTjXHw8tEz0A|126024",
   song: "song/jenna-raine-have-yourself-a-merry-little-christmas",
   carriedBy: [

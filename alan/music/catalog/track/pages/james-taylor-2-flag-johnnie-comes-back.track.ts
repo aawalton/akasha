@@ -12,7 +12,7 @@ export const jamesTaylor2FlagJohnnieComesBack = {
   title: "Johnnie Comes Back",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "johnniecomesback|0vn7UBvSQECKJm2817Yf1P|234000",
   song: "song/james-taylor-johnnie-comes-back",
   carriedBy: [

@@ -15,7 +15,7 @@ export const imagineDragonsSmokeMirrorsDeluxeItComesBackToYou = {
   title: "It Comes Back To You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "itcomesbacktoyou|53XhwfbYqKCa1cC15pYq2q|217400",
   song: "song/imagine-dragons-it-comes-back-to-you",
   carriedBy: [

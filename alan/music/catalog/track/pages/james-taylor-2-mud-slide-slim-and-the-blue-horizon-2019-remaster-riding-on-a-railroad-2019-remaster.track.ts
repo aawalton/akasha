@@ -12,7 +12,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterRidingOnARailr
   title: "Riding on a Railroad - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "ridingonarailroad2019remaster|0vn7UBvSQECKJm2817Yf1P|162986",
   song: "song/james-taylor-riding-on-a-railroad",
   carriedBy: [

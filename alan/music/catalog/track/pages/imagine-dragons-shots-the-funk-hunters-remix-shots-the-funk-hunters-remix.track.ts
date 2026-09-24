@@ -12,10 +12,7 @@ export const imagineDragonsShotsTheFunkHuntersRemixShotsTheFunkHuntersRemix = {
   title: "Shots - The Funk Hunters Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "5xwd7lKJeb2opUvYZnXFut", artistName: "The Funk Hunters" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "The Funk Hunters" }],
   trackKey: "shotsthefunkhuntersremix|53XhwfbYqKCa1cC15pYq2q,5xwd7lKJeb2opUvYZnXFut|285933",
   song: "song/imagine-dragons-shots",
   carriedBy: [

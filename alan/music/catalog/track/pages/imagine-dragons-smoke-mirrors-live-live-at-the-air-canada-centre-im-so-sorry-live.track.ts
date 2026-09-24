@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsLiveLiveAtTheAirCanadaCentreImSoSorryLive
   title: "I'm So Sorry - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "imsosorrylive|53XhwfbYqKCa1cC15pYq2q|308040",
   song: "song/imagine-dragons-i-m-so-sorry",
   carriedBy: [

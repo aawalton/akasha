@@ -12,7 +12,7 @@ export const jamesTaylor2NeverDieYoungSweetPotatoPie = {
   title: "Sweet Potato Pie",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "sweetpotatopie|0vn7UBvSQECKJm2817Yf1P|210826",
   song: "song/james-taylor-sweet-potato-pie",
   carriedBy: [

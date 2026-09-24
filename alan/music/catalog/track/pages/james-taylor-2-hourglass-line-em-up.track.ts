@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassLineEmUp = {
   title: "Line 'Em Up",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "lineemup|0vn7UBvSQECKJm2817Yf1P|282506",
   song: "song/james-taylor-line-em-up",
   carriedBy: [

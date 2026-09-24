@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeUnderdogLiveFro
   title: "Underdog - Live From Red Rocks / 2014",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "underdoglivefromredrocks2014|53XhwfbYqKCa1cC15pYq2q|257600",
   song: "song/imagine-dragons-underdog",
   carriedBy: [

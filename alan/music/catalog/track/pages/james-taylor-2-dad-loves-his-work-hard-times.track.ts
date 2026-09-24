@@ -12,7 +12,7 @@ export const jamesTaylor2DadLovesHisWorkHardTimes = {
   title: "Hard Times",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "hardtimes|0vn7UBvSQECKJm2817Yf1P|191426",
   song: "song/james-taylor-hard-times",
   carriedBy: [

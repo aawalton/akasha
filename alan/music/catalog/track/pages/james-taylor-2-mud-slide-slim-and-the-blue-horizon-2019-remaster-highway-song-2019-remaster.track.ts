@@ -12,7 +12,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterHighwaySong201
   title: "Highway Song - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "highwaysong2019remaster|0vn7UBvSQECKJm2817Yf1P|233333",
   song: "song/james-taylor-highway-song",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeNothingLeftToSa
   title: "Nothing Left To Say / Rocks - Medley",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "nothinglefttosayrocksmedley|53XhwfbYqKCa1cC15pYq2q|539506",
   song: "song/imagine-dragons-nothing-left-to-say-rocks-medley",
   carriedBy: [

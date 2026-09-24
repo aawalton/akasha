@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardTeachMeTonight = {
   title: "Teach Me Tonight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "teachmetonight|0vn7UBvSQECKJm2817Yf1P|178800",
   song: "song/james-taylor-teach-me-tonight",
   carriedBy: [

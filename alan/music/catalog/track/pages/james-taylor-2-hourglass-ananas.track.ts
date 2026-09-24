@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassAnanas = {
   title: "Ananas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "ananas|0vn7UBvSQECKJm2817Yf1P|342400",
   song: "song/james-taylor-ananas",
   carriedBy: [

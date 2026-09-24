@@ -12,7 +12,7 @@ export const jamesTaylor2BeforeThisWorldStretchOfTheHighway = {
   title: "Stretch Of The Highway",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "stretchofthehighway|0vn7UBvSQECKJm2817Yf1P|332226",
   song: "song/james-taylor-stretch-of-the-highway",
   carriedBy: [

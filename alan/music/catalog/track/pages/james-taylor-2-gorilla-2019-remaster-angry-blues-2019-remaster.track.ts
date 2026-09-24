@@ -12,7 +12,7 @@ export const jamesTaylor2Gorilla2019RemasterAngryBlues2019Remaster = {
   title: "Angry Blues - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "angryblues2019remaster|0vn7UBvSQECKJm2817Yf1P|206213",
   song: "song/james-taylor-angry-blues",
   carriedBy: [

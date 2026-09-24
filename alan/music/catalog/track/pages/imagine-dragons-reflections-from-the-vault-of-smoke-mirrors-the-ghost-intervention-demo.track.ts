@@ -12,7 +12,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsTheGhostInterven
   title: "The Ghost Intervention - Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "theghostinterventiondemo|53XhwfbYqKCa1cC15pYq2q|193881",
   song: "song/imagine-dragons-the-ghost-intervention",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassLittleMoreTimeWithYou = {
   title: "Little More Time with You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "littlemoretimewithyou|0vn7UBvSQECKJm2817Yf1P|230933",
   song: "song/james-taylor-little-more-time-with-you",
   carriedBy: [

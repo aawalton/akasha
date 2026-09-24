@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeMyFault = {
   title: "My Fault",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "myfault|53XhwfbYqKCa1cC15pYq2q|177213",
   song: "song/imagine-dragons-my-fault",
   carriedBy: [

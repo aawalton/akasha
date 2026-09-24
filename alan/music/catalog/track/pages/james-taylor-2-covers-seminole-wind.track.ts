@@ -12,7 +12,7 @@ export const jamesTaylor2CoversSeminoleWind = {
   title: "Seminole Wind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "seminolewind|0vn7UBvSQECKJm2817Yf1P|290066",
   song: "song/james-taylor-seminole-wind",
   carriedBy: [

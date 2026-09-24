@@ -12,10 +12,7 @@ export const imagineDragonsShotsEpShotsAcousticPianoLiveFromTheSmithCenterLasVeg
   title: "Shots - Acoustic (Piano) / Live From The Smith Center / Las Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "3836OTICMPjhTMMcpPw4EC", artistName: "Broiler" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Broiler" }],
   trackKey:
     "shotsacousticpianolivefromthesmithcenterlasvegas|3836OTICMPjhTMMcpPw4EC,53XhwfbYqKCa1cC15pYq2q|261706",
   song: "song/imagine-dragons-shots",

@@ -12,7 +12,7 @@ export const imagineDragonsSmokeMirrorsDeluxeSecondChances = {
   title: "Second Chances",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "secondchances|53XhwfbYqKCa1cC15pYq2q|217973",
   song: "song/imagine-dragons-second-chances",
   carriedBy: [

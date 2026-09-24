@@ -12,10 +12,7 @@ export const jamesTaylor2LiveAtTheTroubadourYouveGotAFriendLiveAtTheTroubadour20
   title: "You’ve Got A Friend - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "319yZVtYM9MBGqmSQnMyY6", artistName: "Carole King" },
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-  ],
+  trackArtist: [{ artistName: "Carole King" }, { artist: "artist/james-taylor" }],
   trackKey:
     "youvegotafriendliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|351600",
   song: "song/james-taylor-youve-got-a-friend",

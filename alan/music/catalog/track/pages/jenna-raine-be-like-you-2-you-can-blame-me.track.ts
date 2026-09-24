@@ -12,7 +12,7 @@ export const jennaRaineBeLikeYou2YouCanBlameMe = {
   title: "You Can Blame Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "youcanblameme|3aHe9rMa5HFTjXHw8tEz0A|181733",
   song: "song/jenna-raine-you-can-blame-me",
   carriedBy: [

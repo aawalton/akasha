@@ -12,7 +12,7 @@ export const jamesTaylor2NeverDieYoungRunawayBoy = {
   title: "Runaway Boy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "runawayboy|0vn7UBvSQECKJm2817Yf1P|255933",
   song: "song/james-taylor-runaway-boy",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylorJamesTaylorAtChristmasDeckTheHalls = {
   title: "Deck The Halls",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "deckthehalls|0vn7UBvSQECKJm2817Yf1P|170866",
   song: "song/james-taylor-deck-the-halls",
   carriedBy: [

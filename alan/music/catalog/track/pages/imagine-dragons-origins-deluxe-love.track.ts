@@ -12,7 +12,7 @@ export const imagineDragonsOriginsDeluxeLove = {
   title: "Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "love|53XhwfbYqKCa1cC15pYq2q|166360",
   song: "song/imagine-dragons-love",
   carriedBy: [

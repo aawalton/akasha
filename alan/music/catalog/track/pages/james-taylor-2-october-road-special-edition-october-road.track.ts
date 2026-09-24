@@ -12,7 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionOctoberRoad = {
   title: "October Road",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "octoberroad|0vn7UBvSQECKJm2817Yf1P|236666",
   song: "song/james-taylor-october-road",
   carriedBy: [

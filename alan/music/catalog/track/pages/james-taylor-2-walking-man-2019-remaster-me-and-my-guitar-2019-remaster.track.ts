@@ -12,7 +12,7 @@ export const jamesTaylor2WalkingMan2019RemasterMeAndMyGuitar2019Remaster = {
   title: "Me and My Guitar - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "meandmyguitar2019remaster|0vn7UBvSQECKJm2817Yf1P|214346",
   song: "song/james-taylor-me-and-my-guitar",
   carriedBy: [

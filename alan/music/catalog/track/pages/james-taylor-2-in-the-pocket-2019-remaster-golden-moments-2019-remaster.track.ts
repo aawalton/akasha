@@ -12,7 +12,7 @@ export const jamesTaylor2InThePocket2019RemasterGoldenMoments2019Remaster = {
   title: "Golden Moments - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "goldenmoments2019remaster|0vn7UBvSQECKJm2817Yf1P|216480",
   song: "song/james-taylor-golden-moments",
   carriedBy: [

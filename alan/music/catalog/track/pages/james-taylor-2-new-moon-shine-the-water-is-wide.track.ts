@@ -12,7 +12,7 @@ export const jamesTaylor2NewMoonShineTheWaterIsWide = {
   title: "The Water Is Wide",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "thewateriswide|0vn7UBvSQECKJm2817Yf1P|180800",
   song: "song/james-taylor-the-water-is-wide",
   carriedBy: [

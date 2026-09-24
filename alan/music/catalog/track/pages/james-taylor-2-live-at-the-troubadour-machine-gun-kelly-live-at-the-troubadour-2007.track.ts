@@ -12,10 +12,7 @@ export const jamesTaylor2LiveAtTheTroubadourMachineGunKellyLiveAtTheTroubadour20
   title: "Machine Gun Kelly - Live At The Troubadour / 2007",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "319yZVtYM9MBGqmSQnMyY6", artistName: "Carole King" },
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-  ],
+  trackArtist: [{ artistName: "Carole King" }, { artist: "artist/james-taylor" }],
   trackKey:
     "machinegunkellyliveatthetroubadour2007|0vn7UBvSQECKJm2817Yf1P,319yZVtYM9MBGqmSQnMyY6|179293",
   song: "song/james-taylor-machine-gun-kelly",

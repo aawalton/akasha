@@ -12,7 +12,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsAOkDemo = {
   title: "A-OK - Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "aokdemo|53XhwfbYqKCa1cC15pYq2q|142245",
   song: "song/imagine-dragons-a-ok",
   carriedBy: [

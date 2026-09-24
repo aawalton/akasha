@@ -12,7 +12,7 @@ export const jamesTaylor2ThatSWhyIMHereOnlyADreamInRio = {
   title: "Only a Dream in Rio",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "onlyadreaminrio|0vn7UBvSQECKJm2817Yf1P|299440",
   song: "song/james-taylor-only-a-dream-in-rio",
   carriedBy: [

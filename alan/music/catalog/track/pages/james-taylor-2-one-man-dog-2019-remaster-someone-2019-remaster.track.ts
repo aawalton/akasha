@@ -12,7 +12,7 @@ export const jamesTaylor2OneManDog2019RemasterSomeone2019Remaster = {
   title: "Someone - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "someone2019remaster|0vn7UBvSQECKJm2817Yf1P|216499",
   song: "song/james-taylor-someone",
   carriedBy: [

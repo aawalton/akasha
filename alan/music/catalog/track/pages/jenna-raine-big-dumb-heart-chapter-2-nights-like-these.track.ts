@@ -12,7 +12,7 @@ export const jennaRaineBigDumbHeartChapter2NightsLikeThese = {
   title: "Nights Like These",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "nightslikethese|3aHe9rMa5HFTjXHw8tEz0A|197546",
   song: "song/jenna-raine-nights-like-these",
   carriedBy: [

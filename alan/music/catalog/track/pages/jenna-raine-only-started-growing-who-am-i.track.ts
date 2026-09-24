@@ -12,7 +12,7 @@ export const jennaRaineOnlyStartedGrowingWhoAmI = {
   title: "Who Am I",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "whoami|3aHe9rMa5HFTjXHw8tEz0A|159800",
   song: "song/jenna-raine-who-am-i",
   carriedBy: [

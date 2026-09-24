@@ -12,7 +12,7 @@ export const jennaRaineOnlyStartedGrowingHitchHiking = {
   title: "Hitch Hiking",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "hitchhiking|3aHe9rMa5HFTjXHw8tEz0A|170440",
   song: "song/jenna-raine-hitch-hiking",
   carriedBy: [

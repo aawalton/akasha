@@ -16,12 +16,12 @@ export const imagineDragonsSuckerForPainWithLogicTyDollaIgnFeatXAmbassadorsSucke
   trackType: "studio",
   explicit: true,
   trackArtist: [
-    { externalId: "55Aa2cqylxrFIXC767Z865", artistName: "Lil Wayne" },
-    { externalId: "137W8MRPWKqSmrBGDBFSop", artistName: "Wiz Khalifa" },
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "3NPpFNZtSTHheNBaWC82rB", artistName: "X Ambassadors" },
-    { externalId: "4xRYI6VqpkE3UwrDrAZL8L", artistName: "Logic" },
-    { externalId: "7c0XG5cIJTrrAgEC3ULPiq", artistName: "Ty Dolla $ign" },
+    { artistName: "Lil Wayne" },
+    { artistName: "Wiz Khalifa" },
+    { artist: "artist/imagine-dragons" },
+    { artistName: "X Ambassadors" },
+    { artistName: "Logic" },
+    { artistName: "Ty Dolla $ign" },
   ],
   trackKey:
     "suckerforpainwithwizkhalifaimaginedragonslogictydollaignfeatxambassadors|137W8MRPWKqSmrBGDBFSop,3NPpFNZtSTHheNBaWC82rB,4xRYI6VqpkE3UwrDrAZL8L,53XhwfbYqKCa1cC15pYq2q,55Aa2cqylxrFIXC767Z865,7c0XG5cIJTrrAgEC3ULPiq|243490",

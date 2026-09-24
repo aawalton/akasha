@@ -12,7 +12,7 @@ export const jamesTaylor2JtHandyMan = {
   title: "Handy Man",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "handyman|0vn7UBvSQECKJm2817Yf1P|198445",
   song: "song/james-taylor-handy-man",
   carriedBy: [

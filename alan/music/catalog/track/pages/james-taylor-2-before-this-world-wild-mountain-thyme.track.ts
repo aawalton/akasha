@@ -12,7 +12,7 @@ export const jamesTaylor2BeforeThisWorldWildMountainThyme = {
   title: "Wild Mountain Thyme",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "wildmountainthyme|0vn7UBvSQECKJm2817Yf1P|176920",
   song: "song/james-taylor-wild-mountain-thyme",
   carriedBy: [

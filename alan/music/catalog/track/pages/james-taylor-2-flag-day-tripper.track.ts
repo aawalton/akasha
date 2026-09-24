@@ -12,7 +12,7 @@ export const jamesTaylor2FlagDayTripper = {
   title: "Day Tripper",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "daytripper|0vn7UBvSQECKJm2817Yf1P|264400",
   song: "song/james-taylor-day-tripper",
   carriedBy: [

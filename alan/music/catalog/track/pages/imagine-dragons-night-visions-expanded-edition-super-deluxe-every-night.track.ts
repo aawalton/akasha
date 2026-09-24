@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeEveryNight = {
   title: "Every Night",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "everynight|53XhwfbYqKCa1cC15pYq2q|217346",
   song: "song/imagine-dragons-every-night",
   carriedBy: [

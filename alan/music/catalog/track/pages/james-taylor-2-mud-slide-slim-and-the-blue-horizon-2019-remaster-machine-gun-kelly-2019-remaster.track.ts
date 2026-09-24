@@ -12,7 +12,7 @@ export const jamesTaylor2MudSlideSlimAndTheBlueHorizon2019RemasterMachineGunKell
   title: "Machine Gun Kelly - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "machinegunkelly2019remaster|0vn7UBvSQECKJm2817Yf1P|157163",
   song: "song/james-taylor-machine-gun-kelly",
   carriedBy: [

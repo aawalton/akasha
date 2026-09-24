@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveEverybodyHasTheBlues = {
   title: "Everybody Has The Blues",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "everybodyhastheblues|0vn7UBvSQECKJm2817Yf1P|153933",
   song: "song/james-taylor-everybody-has-the-blues",
   carriedBy: [

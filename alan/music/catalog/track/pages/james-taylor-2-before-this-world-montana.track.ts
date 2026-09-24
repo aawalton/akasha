@@ -12,7 +12,7 @@ export const jamesTaylor2BeforeThisWorldMontana = {
   title: "Montana",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "montana|0vn7UBvSQECKJm2817Yf1P|205520",
   song: "song/james-taylor-montana",
   carriedBy: [

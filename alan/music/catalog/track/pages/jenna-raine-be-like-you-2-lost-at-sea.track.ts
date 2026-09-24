@@ -12,7 +12,7 @@ export const jennaRaineBeLikeYou2LostAtSea = {
   title: "Lost at Sea",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "lostatsea|3aHe9rMa5HFTjXHw8tEz0A|219571",
   song: "song/jenna-raine-lost-at-sea",
   carriedBy: [

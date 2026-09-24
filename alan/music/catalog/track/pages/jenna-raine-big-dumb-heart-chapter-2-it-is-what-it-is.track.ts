@@ -15,7 +15,7 @@ export const jennaRaineBigDumbHeartChapter2ItIsWhatItIs = {
   title: "It Is What It Is",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "itiswhatitis|3aHe9rMa5HFTjXHw8tEz0A|146769",
   song: "song/jenna-raine-it-is-what-it-is",
   carriedBy: [

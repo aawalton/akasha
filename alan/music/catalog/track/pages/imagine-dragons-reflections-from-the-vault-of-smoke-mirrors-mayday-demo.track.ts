@@ -12,7 +12,7 @@ export const imagineDragonsReflectionsFromTheVaultOfSmokeMirrorsMaydayDemo = {
   title: "Mayday - Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "maydaydemo|53XhwfbYqKCa1cC15pYq2q|191993",
   song: "song/imagine-dragons-mayday",
   carriedBy: [

@@ -13,10 +13,7 @@ export const imagineDragonsWhateverItTakesMissCongenialityRemixWhateverItTakesMi
     title: "Whatever It Takes - Miss Congeniality Remix",
     trackType: "remix",
     explicit: false,
-    trackArtist: [
-      { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-      { externalId: "2iihIjipKKOFSJfxrn3gcE", artistName: "Miss Congeniality" },
-    ],
+    trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Miss Congeniality" }],
     trackKey:
       "whateverittakesmisscongenialityremix|2iihIjipKKOFSJfxrn3gcE,53XhwfbYqKCa1cC15pYq2q|346586",
     song: "song/imagine-dragons-whatever-it-takes",

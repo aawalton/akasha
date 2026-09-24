@@ -12,7 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeBubbleNightVisi
   title: "Bubble - Night Visions Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "bubblenightvisionsdemo|53XhwfbYqKCa1cC15pYq2q|202698",
   song: "song/imagine-dragons-bubble",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jamesTaylor2WalkingMan2019RemasterHelloOldFriend2019Remaster = {
   title: "Hello Old Friend - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "hellooldfriend2019remaster|0vn7UBvSQECKJm2817Yf1P|168426",
   song: "song/james-taylor-hello-old-friend",
   carriedBy: [

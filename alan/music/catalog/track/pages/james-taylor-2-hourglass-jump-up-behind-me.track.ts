@@ -12,7 +12,7 @@ export const jamesTaylor2HourglassJumpUpBehindMe = {
   title: "Jump Up Behind Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "jumpupbehindme|0vn7UBvSQECKJm2817Yf1P|208306",
   song: "song/james-taylor-jump-up-behind-me",
   carriedBy: [

@@ -12,10 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeDemonsPolitikRe
   title: "Demons - Politik Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "1eHQF7PdDPMui44jY2npaU", artistName: "DJ Politik" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "DJ Politik" }],
   trackKey: "demonspolitikremix|1eHQF7PdDPMui44jY2npaU,53XhwfbYqKCa1cC15pYq2q|263520",
   song: "song/imagine-dragons-demons",
   carriedBy: [

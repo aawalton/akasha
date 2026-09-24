@@ -12,7 +12,7 @@ export const jamesTaylor2FlagSleepComeFreeMe = {
   title: "Sleep Come Free Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "sleepcomefreeme|0vn7UBvSQECKJm2817Yf1P|282133",
   song: "song/james-taylor-sleep-come-free-me",
   carriedBy: [

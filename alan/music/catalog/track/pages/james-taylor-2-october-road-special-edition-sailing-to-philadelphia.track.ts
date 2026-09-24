@@ -12,10 +12,7 @@ export const jamesTaylor2OctoberRoadSpecialEditionSailingToPhiladelphia = {
   title: "Sailing To Philadelphia",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" },
-    { externalId: "0FI0kxP0BWurTz8cB8BBug", artistName: "Mark Knopfler" },
-  ],
+  trackArtist: [{ artist: "artist/james-taylor" }, { artistName: "Mark Knopfler" }],
   trackKey: "sailingtophiladelphia|0FI0kxP0BWurTz8cB8BBug,0vn7UBvSQECKJm2817Yf1P|328906",
   song: "song/james-taylor-sailing-to-philadelphia",
   carriedBy: [

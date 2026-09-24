@@ -12,10 +12,7 @@ export const imagineDragonsNightVisionsExpandedEditionSuperDeluxeOnTopOfTheWorld
   title: "On Top Of The World - RAC Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "4AGwPDdh1y8hochNzHy5HC", artistName: "RAC" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "RAC" }],
   trackKey: "ontopoftheworldracremix|4AGwPDdh1y8hochNzHy5HC,53XhwfbYqKCa1cC15pYq2q|217493",
   song: "song/imagine-dragons-on-top-of-the-world",
   carriedBy: [

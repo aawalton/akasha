@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveYouveGotAFriendLive = {
   title: "You've Got a Friend - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "youvegotafriendlive|0vn7UBvSQECKJm2817Yf1P|308773",
   song: "song/james-taylor-youve-got-a-friend",
   carriedBy: [

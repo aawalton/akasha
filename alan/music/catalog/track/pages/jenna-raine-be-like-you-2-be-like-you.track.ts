@@ -12,7 +12,7 @@ export const jennaRaineBeLikeYou2BeLikeYou = {
   title: "Be Like You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "belikeyou|3aHe9rMa5HFTjXHw8tEz0A|177683",
   song: "song/jenna-raine-be-like-you",
   carriedBy: [

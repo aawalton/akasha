@@ -12,7 +12,7 @@ export const jamesTaylor2ThatSWhyIMHereLimousineDriver = {
   title: "Limousine Driver",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "limousinedriver|0vn7UBvSQECKJm2817Yf1P|229533",
   song: "song/james-taylor-limousine-driver",
   carriedBy: [

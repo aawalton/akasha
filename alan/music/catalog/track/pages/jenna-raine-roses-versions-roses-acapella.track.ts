@@ -12,7 +12,7 @@ export const jennaRaineRosesVersionsRosesAcapella = {
   title: "Roses - Acapella",
   trackType: "a-cappella",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "rosesacapella|3aHe9rMa5HFTjXHw8tEz0A|191165",
   song: "song/jenna-raine-roses",
   carriedBy: [

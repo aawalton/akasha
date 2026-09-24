@@ -12,7 +12,7 @@ export const jamesTaylor2NewMoonShineNativeSon = {
   title: "Native Son",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "nativeson|0vn7UBvSQECKJm2817Yf1P|228066",
   song: "song/james-taylor-native-son",
   carriedBy: [

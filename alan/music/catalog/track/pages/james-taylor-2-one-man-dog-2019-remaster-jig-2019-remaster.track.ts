@@ -12,7 +12,7 @@ export const jamesTaylor2OneManDog2019RemasterJig2019Remaster = {
   title: "Jig - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "jig2019remaster|0vn7UBvSQECKJm2817Yf1P|74140",
   song: "song/james-taylor-jig",
   carriedBy: [

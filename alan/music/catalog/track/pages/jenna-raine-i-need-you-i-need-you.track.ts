@@ -12,10 +12,7 @@ export const jennaRaineINeedYouINeedYou = {
   title: "I Need You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5spb8btR2z1lSREzcyg56E", artistName: "Gateway Kids Worship" },
-    { externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" },
-  ],
+  trackArtist: [{ artistName: "Gateway Kids Worship" }, { artist: "artist/jenna-raine" }],
   trackKey: "ineedyou|3aHe9rMa5HFTjXHw8tEz0A,5spb8btR2z1lSREzcyg56E|291024",
   song: "song/jenna-raine-i-need-you",
   carriedBy: [

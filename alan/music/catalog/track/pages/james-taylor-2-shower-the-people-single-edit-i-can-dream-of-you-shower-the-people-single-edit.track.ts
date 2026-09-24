@@ -12,7 +12,7 @@ export const jamesTaylor2ShowerThePeopleSingleEditICanDreamOfYouShowerThePeopleS
   title: "Shower the People - Single Edit",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "showerthepeoplesingleedit|0vn7UBvSQECKJm2817Yf1P|241400",
   song: "song/james-taylor-shower-the-people",
   carriedBy: [

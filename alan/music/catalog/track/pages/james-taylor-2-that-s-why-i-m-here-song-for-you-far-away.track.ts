@@ -12,7 +12,7 @@ export const jamesTaylor2ThatSWhyIMHereSongForYouFarAway = {
   title: "Song for You Far Away",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "songforyoufaraway|0vn7UBvSQECKJm2817Yf1P|176266",
   song: "song/james-taylor-song-for-you-far-away",
   carriedBy: [

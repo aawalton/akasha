@@ -12,7 +12,7 @@ export const jamesTaylor2CoversSummertimeBlues = {
   title: "Summertime Blues",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "summertimeblues|0vn7UBvSQECKJm2817Yf1P|159853",
   song: "song/james-taylor-summertime-blues",
   carriedBy: [

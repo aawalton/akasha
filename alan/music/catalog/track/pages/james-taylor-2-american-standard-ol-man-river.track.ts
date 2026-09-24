@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardOlManRiver = {
   title: "Ol' Man River",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "olmanriver|0vn7UBvSQECKJm2817Yf1P|173533",
   song: "song/james-taylor-ol-man-river",
   carriedBy: [

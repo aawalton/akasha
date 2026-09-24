@@ -12,7 +12,7 @@ export const jamesTaylor2JamesTaylorLiveSunOnTheMoon = {
   title: "Sun On The Moon",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "sunonthemoon|0vn7UBvSQECKJm2817Yf1P|224760",
   song: "song/james-taylor-sun-on-the-moon",
   carriedBy: [

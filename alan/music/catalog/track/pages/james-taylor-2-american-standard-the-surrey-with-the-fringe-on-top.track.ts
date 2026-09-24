@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardTheSurreyWithTheFringeOnTop = {
   title: "The Surrey With The Fringe On Top",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "thesurreywiththefringeontop|0vn7UBvSQECKJm2817Yf1P|200040",
   song: "song/james-taylor-the-surrey-with-the-fringe-on-top",
   carriedBy: [

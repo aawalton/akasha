@@ -12,7 +12,7 @@ export const jamesTaylor2AmericanStandardAsEasyAsRollingOffALog = {
   title: "As Easy As Rolling Off A Log",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "aseasyasrollingoffalog|0vn7UBvSQECKJm2817Yf1P|170426",
   song: "song/james-taylor-as-easy-as-rolling-off-a-log",
   carriedBy: [

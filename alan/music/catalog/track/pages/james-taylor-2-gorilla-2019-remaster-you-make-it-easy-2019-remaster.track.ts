@@ -12,7 +12,7 @@ export const jamesTaylor2Gorilla2019RemasterYouMakeItEasy2019Remaster = {
   title: "You Make It Easy - 2019 Remaster",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "0vn7UBvSQECKJm2817Yf1P", artistName: "James Taylor" }],
+  trackArtist: [{ artist: "artist/james-taylor" }],
   trackKey: "youmakeiteasy2019remaster|0vn7UBvSQECKJm2817Yf1P|251693",
   song: "song/james-taylor-you-make-it-easy",
   carriedBy: [
