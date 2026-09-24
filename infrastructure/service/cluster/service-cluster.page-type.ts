@@ -10,6 +10,7 @@ export const serviceCluster = {
   parts: [
     "file-property/service-cluster-config",
     "module/cluster-api-reaching",
+    "module/cron-due",
     "module/log-bound-saying",
     "module/loki-log-fetching",
     "module/web-app-building",

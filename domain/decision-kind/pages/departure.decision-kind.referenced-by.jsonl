@@ -2826,6 +2826,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster-foundation/cluster-foundation.page-type.ts","id":"01a0a5e8-68bd-7b38-afbc-5ac778577610"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.ts","id":"01a0a5fe-f019-72ee-a92a-9aa03e2494df"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/cluster-api-reaching/cluster-api-reaching.module.ts","id":"01a06583-0030-7000-94b8-9fa8780482f5"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/cron-due/cron-due.module.ts","id":"01a0d4b4-b69a-73e8-b2c7-7aea0751a777"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/log-bound-saying/log-bound-saying.module.ts","id":"01a06583-0030-7002-a537-54289a8c69bf"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/loki-log-fetching/loki-log-fetching.module.ts","id":"01a06583-0030-7001-9589-276fd2944160"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}
