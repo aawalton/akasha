@@ -20,7 +20,10 @@ import {
 import type { Given as Arguments } from "akasha/command/modules/argument-reading/argument-reading.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
-import { preparing } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
+import {
+  type Prepared,
+  preparing,
+} from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   gateBuilt,
@@ -32,6 +35,10 @@ import {
   type Refused,
 } from "akasha/command/modules/landing/landing.module.code.ts"
 import { carryLanded } from "akasha/command/modules/landing-reading/landing-reading.module.code.ts"
+import {
+  REWORKED_AT_MOST,
+  reworked,
+} from "akasha/command/modules/landing-reworking/landing-reworking.module.code.ts"
 import {
   commitSaid,
   defaultMessage,
@@ -340,43 +347,47 @@ export async function applied(
   if ("refusals" in prepared) {
     return { refusals: [...prepared.refusals, UNEXPORTABLE], code: prepared.code }
   }
-  const formatting = prepared.formatting
   if (running.writerOwesReading && agentId !== null) warrantedAgain(root, head, agentId, paths)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, paths)
-  const ended = await refusedWhereHeld(() =>
-    landing(
-      root,
-      prepared.changes,
-      message,
-      gate,
-      writer,
-      read ?? head,
-      asRead,
-      null,
-      prepared.over,
-      done,
-      noting,
-      prepared.facing,
-      prepared.settled
+  const landedOn = (at: string, over: Prepared) =>
+    refusedWhereHeld(() =>
+      landing(
+        root,
+        over.changes,
+        message,
+        gate,
+        writer,
+        read ?? at,
+        asRead,
+        null,
+        over.over,
+        done,
+        noting,
+        over.facing,
+        over.settled
+      )
     )
-  )
+  const first = { head, prepared, ended: await landedOn(head, prepared) }
+  const again = (at: string) => preparing(root, at, holding.rows, moving, holding.formatted)
+  const last = await reworked(root, first, again, landedOn, read === null ? REWORKED_AT_MOST : 0)
+  const ended = last.ended
   if ("refusals" in ended) {
-    return { refusals: ended.refusals, code: ended.code, said: prepared.said }
+    return { refusals: ended.refusals, code: ended.code, said: last.prepared.said }
   }
   let put: Put = { said: [], wrong: [] }
   try {
-    const carries = carriedFrom(root, head, moving)
-    carryLanded(root, head, running, prepared.changes, carries, holding.owed ?? new Map())
-    if (agentId !== null) recordedAsLanded(root, agentId, prepared.authored)
-    put = installingIn(root, prepared.changes)
+    const carries = carriedFrom(root, last.head, moving)
+    carryLanded(root, last.head, running, last.prepared.changes, carries, holding.owed ?? new Map())
+    if (agentId !== null) recordedAsLanded(root, agentId, last.prepared.authored)
+    put = installingIn(root, last.prepared.changes)
   } catch (thrown) {
     put = { said: [], wrong: [`${AFTER_COMMIT} ${whyOf(thrown)}`] }
   }
   return {
     base: ended.base,
     landed: [...ended.wrote, ...ended.took].sort(),
-    formatted: [...formatting.formatted].sort(),
-    said: [...prepared.said, ...put.said, ...ended.linked.said, ...ended.placed.said],
+    formatted: [...last.prepared.formatting.formatted].sort(),
+    said: [...last.prepared.said, ...put.said, ...ended.linked.said, ...ended.placed.said],
     wrong: [...put.wrong, ...ended.linked.wrong, ...ended.placed.wrong],
     commit: ended.commit,
     untracked: ended.untracked,
