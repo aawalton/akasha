@@ -5052,6 +5052,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/game-manifest/game-manifest.module.ts","id":"01a0d3dc-3ae8-7d3d-93a9-04391f4ae73c"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/game-names/game-names.module.ts","id":"01a0d444-aa26-706c-bbd0-cd323b7fba4d"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/oodle-decoding/oodle-decoding.module.ts","id":"01a0d48b-6e99-759d-8f05-83f69d31d63a"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-art-painting/ui-art-painting.module.ts","id":"01a0d493-d343-7db9-8802-186be63d391f"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.ts","id":"01a0d3ec-dd52-7024-bec9-4710e1b52401"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.ts","id":"01a0c97e-4173-73b6-a373-3a2f933756b3"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-inheritance/ui-inheritance.module.ts","id":"01a0d3e7-657e-7545-90cc-7aa7f90b052a"}

@@ -30,6 +30,7 @@ export const temperEsoUiHarness = {
     "module/game-archive",
     "module/game-art",
     "module/oodle-decoding",
+    "module/ui-art-painting",
   ],
   decisions: [
     {

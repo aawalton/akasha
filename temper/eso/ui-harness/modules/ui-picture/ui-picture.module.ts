@@ -51,8 +51,22 @@ export const uiPicture = {
       statement: "An edge texture the control was given no color for is drawn untinted.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "An edge is a line one pixel wide rather than the texture's own art.",
+      decisionKind: "decision-kind/departure",
+      statement: "An edge with no file behind it is a line one pixel wide.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "An edge file holds eight pieces in a row: left, right, top, bottom, then the corners.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The top and bottom pieces of an edge file are stored turned a quarter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A backdrop's center art is repeated inside its insets, tinted by its center color.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -64,11 +78,23 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A button showing no text is drawn as nothing.",
+      statement: "A texture shows the part of its file its coordinates name, tinted by its color.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A button is framed by a line where it shows text, rather than by its textures.",
+      decisionKind: "decision-kind/departure",
+      statement: "Art is painted in the page once it loads, and the picture is taken after.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A button is drawn with its normal art where a file is behind that art.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A button with no art behind it and showing no text is drawn as nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A button with no art behind it is framed by a line where it shows text.",
     },
     {
       decisionKind: "decision-kind/constraint",

@@ -5,6 +5,7 @@ import {
 import { charcoal } from "akasha/design/interface/color/pages/charcoal.color.ts"
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
+import { paintArt } from "akasha/temper/eso/ui-harness/modules/ui-art-painting/ui-art-painting.module.code.ts"
 import type {
   UiColor,
   UiControl,
@@ -205,6 +206,43 @@ function sizedByText(one: UiControl): boolean {
   return one.controlType === CT_LABEL && one.width === 0 && one.height === 0
 }
 
+function listed(values: readonly number[] | undefined): string {
+  return (values ?? []).join(",")
+}
+
+function artHtml(
+  one: UiControl,
+  style: string,
+  told: string,
+  art: Readonly<Record<string, string>>
+): string {
+  const width = Math.max(1, Math.round(one.width))
+  const height = Math.max(1, Math.round(one.height))
+  const data = Object.entries(art)
+    .map(([key, value]) => ` data-${key}="${escaped(value)}"`)
+    .join("")
+  return `<canvas class="c"${told} width="${width}" height="${height}" style="${style}"${data}></canvas>`
+}
+
+function backdropArt(
+  one: UiControl,
+  options: UiPictureOptions
+): Readonly<Record<string, string>> | null {
+  const edge = one.edgeTexture === undefined ? null : (options.textureAt?.(one.edgeTexture) ?? null)
+  const center =
+    one.centerTexture === undefined ? null : (options.textureAt?.(one.centerTexture) ?? null)
+  if (edge === null && center === null) return null
+  return {
+    art: "backdrop",
+    edge: edge ?? "",
+    center: center ?? "",
+    size: String(one.edgeSize ?? 0),
+    insets: listed(one.insets),
+    "center-tint": listed(one.centerColor),
+    "edge-tint": listed(one.edgeColor),
+  }
+}
+
 function boxHtml(one: UiControl, options: UiPictureOptions): string {
   const from = options.origin ?? { left: 0, top: 0 }
   const size = sizedByText(one)
@@ -213,6 +251,21 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
   const place = `left:${one.left - from.left}px;top:${one.top - from.top}px;${size}`
   const fade = one.alpha >= 1 ? "" : `opacity:${one.alpha};`
   const told = one.name === undefined ? "" : ` title="${escaped(one.name)}"`
+  const backdrop = one.controlType === CT_BACKDROP ? backdropArt(one, options) : null
+  if (backdrop !== null) return artHtml(one, `${place}${fade}`, told, backdrop)
+  const pressable =
+    one.controlType === CT_BUTTON && one.normalTexture !== undefined
+      ? (options.textureAt?.(one.normalTexture) ?? null)
+      : null
+  const behind =
+    pressable === null
+      ? ""
+      : artHtml(one, `${place}${fade}`, "", {
+          art: "texture",
+          src: pressable,
+          coords: "",
+          tint: "",
+        })
   if (one.controlType === CT_BACKDROP) {
     const middle = asCss(one.centerColor ?? CLEAR)
     const edge =
@@ -226,7 +279,7 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
     const ink = asCss(one.color ?? INK)
     const shadow = face.shadow === "" ? "" : `text-shadow:${face.shadow};`
     const framed =
-      one.controlType === CT_BUTTON && (one.text ?? "") !== ""
+      one.controlType === CT_BUTTON && (one.text ?? "") !== "" && pressable === null
         ? `box-shadow:inset 0 0 0 1px ${asCss(FRAME)};`
         : ""
     const centred = one.controlType === CT_BUTTON
@@ -236,13 +289,19 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
     const down = ALIGN_DOWN[one.alignV ?? downBy ?? 0] ?? START
     const laid = `display:flex;justify-content:${across};align-items:${down};`
     const type = `font-family:${face.family};font-weight:${face.weight};font-size:${face.size}px;line-height:${face.size + LINE_OVER_SIZE}px;`
-    return `<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${laid}${framed}">${markedHtml(one.text ?? "", options)}</div>`
+    return `${behind}<div class="c"${told} style="${place}${fade}color:${ink};${type}${shadow}${laid}${framed}">${markedHtml(one.text ?? "", options)}</div>`
   }
   if (one.controlType === CT_TEXTURE) {
     const named = one.texture
     const at = named === undefined ? null : (options.textureAt?.(named) ?? null)
     if (at !== null) {
-      return `<img class="c"${told} style="${place}${fade}" src="${escaped(at)}">`
+      const art = {
+        art: "texture",
+        src: at,
+        coords: listed(one.textureCoords),
+        tint: listed(one.color),
+      }
+      return artHtml(one, `${place}${fade}`, told, art)
     }
     const tint = asCss(one.color ?? TINT)
     return `<div class="c"${told} style="${place}${fade}box-shadow:inset 0 0 0 1px ${tint};"></div>`
@@ -293,6 +352,7 @@ export async function takePicture(
     await page.setContent(pictureHtml(root, { ...options, screen, origin: taken }), {
       waitUntil: "load",
     })
+    await page.evaluate(paintArt)
     await page.screenshot({ path: at })
   } finally {
     await browser.close()

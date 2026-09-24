@@ -13,6 +13,8 @@ const CT_TEXTURE = DRAWN.CT_TEXTURE ?? 3
 
 const CT_BACKDROP = DRAWN.CT_BACKDROP ?? 14
 
+const CT_BUTTON = DRAWN.CT_BUTTON ?? 2
+
 type Part = {
   readonly name?: string
   readonly controlType?: number
@@ -28,6 +30,11 @@ type Part = {
   readonly centerColor?: readonly number[]
   readonly edgeColor?: readonly number[]
   readonly edgeTexture?: string
+  readonly edgeSize?: number
+  readonly centerTexture?: string
+  readonly textureCoords?: readonly number[]
+  readonly normalTexture?: string
+  readonly insets?: readonly number[]
   readonly alpha?: number
   readonly children?: readonly UiControl[]
 }
@@ -49,6 +56,11 @@ function control(part: Part): UiControl {
     centerColor: part.centerColor,
     edgeColor: part.edgeColor,
     edgeTexture: part.edgeTexture,
+    edgeSize: part.edgeSize,
+    centerTexture: part.centerTexture,
+    textureCoords: part.textureCoords,
+    normalTexture: part.normalTexture,
+    insets: part.insets,
     anchors: [],
     handlers: [],
     children: part.children ?? [],
@@ -209,8 +221,61 @@ describe("pictureHtml", () => {
       }),
       { textureAt: () => "icon.png" }
     )
-    expect(html).toContain('<img class="c"')
-    expect(html).toContain('src="icon.png"')
+    expect(html).toContain('<canvas class="c" title="FrameIcon" width="40" height="40"')
+    expect(html).toContain('data-src="icon.png"')
+  })
+
+  test("carries the part of its file a texture shows, and its tint", () => {
+    const html = pictureHtml(
+      control({
+        controlType: CT_TEXTURE,
+        width: 40,
+        height: 40,
+        texture: "EsoUI/Art/Icons/icon.dds",
+        textureCoords: [0, 0.5, 0.25, 1],
+        color: [1, 0.5, 0, 1],
+      }),
+      { textureAt: () => "icon.png" }
+    )
+    expect(html).toContain('data-coords="0,0.5,0.25,1"')
+    expect(html).toContain('data-tint="1,0.5,0,1"')
+  })
+
+  test("carries a backdrop's edge and center art where a caller says which files are behind them", () => {
+    const html = pictureHtml(
+      control({
+        controlType: CT_BACKDROP,
+        width: 100,
+        height: 50,
+        edgeTexture: "EsoUI/Art/Tooltips/UI-Border.dds",
+        edgeSize: 16,
+        centerTexture: "EsoUI/Art/Tooltips/UI-TooltipCenter.dds",
+        insets: [16, 16, -16, -16],
+      }),
+      { textureAt: (named) => (named.includes("Border") ? "edge.png" : "center.png") }
+    )
+    expect(html).toContain('data-art="backdrop"')
+    expect(html).toContain('data-edge="edge.png"')
+    expect(html).toContain('data-center="center.png"')
+    expect(html).toContain('data-size="16"')
+    expect(html).toContain('data-insets="16,16,-16,-16"')
+    expect(html).not.toContain("box-shadow")
+  })
+
+  test("sets a button's own art behind its text, and frames it no more", () => {
+    const html = pictureHtml(
+      control({
+        controlType: CT_BUTTON,
+        width: 100,
+        height: 30,
+        text: "Go",
+        normalTexture: "EsoUI/Art/Buttons/up.dds",
+      }),
+      { textureAt: () => "up.png" }
+    )
+    expect(html).toContain('data-src="up.png"')
+    expect(html).toContain(">Go</div>")
+    expect(html).not.toContain("box-shadow")
   })
 
   test("draws text the markup colors in that color, back to the label's own after", () => {
