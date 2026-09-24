@@ -25,6 +25,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { bodyOf } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
 const B = "01a04bdd-0000-7000-8000-00000000000b"
@@ -275,7 +276,10 @@ test("a poll over fresh readings sees the value a writer files while that poll r
 test("a page a value is filed for is answered under its page type too", () => {
   const root = rootAt()
   valueAlsoFiled(root, "module", [
-    { path: "akasha/one/one.module.ts", value: { id: A, pageTypeSlug: "module", slug: "one" } },
+    {
+      path: "akasha/one/one.module.ts",
+      value: { id: A, type: `${pageType.slug}/module`, slug: "one" },
+    },
   ])
 
   expect(everyOfType(root, "module")).toEqual([{ path: "akasha/one/one.module.ts", id: A }])

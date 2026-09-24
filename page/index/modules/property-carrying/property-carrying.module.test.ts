@@ -30,6 +30,7 @@ import {
   OTHER,
   OWN,
   OWNER,
+  PAGE_TYPE_TYPE,
   RECORDS,
   refusing,
   SAYS,
@@ -88,7 +89,7 @@ function typeFiled(root: string, slug: string, id: string, above: readonly strin
   const path = pageAt(slug, "page-type")
   listedFiled(root, "page-type", slug, [{ path, id }])
   valueAlsoFiled(root, "page-type", [
-    { path, value: { id, pageTypeSlug: "page-type", slug, extends: above } },
+    { path, value: { id, type: PAGE_TYPE_TYPE, slug, extends: above } },
   ])
   idFiled(root, id, [{ path, id }])
 }

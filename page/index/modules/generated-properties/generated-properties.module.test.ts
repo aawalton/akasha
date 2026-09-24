@@ -16,6 +16,7 @@ import { indexIn } from "akasha/page/index/modules/surface/index-surface.module.
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -65,7 +66,7 @@ function property(
   put(
     root,
     at,
-    `export const held = { id: "${id}", pageTypeSlug: "${SHAPE}", slug: "${slug}", propertySlug: "${propertySlug}"${said} }\n`
+    `export const held = { id: "${id}", type: "page-type/${SHAPE}", slug: "${slug}", propertySlug: "${propertySlug}"${said} }\n`
   )
   filed(root, `page-type/${SHAPE}/slug/${slug}.jsonl`, { path: at, id })
   pageFiled(root, at, id)
@@ -78,11 +79,13 @@ function kind(root: string, slug: string, afterChecks: boolean): undefined {
   put(
     root,
     at,
-    `export const held = { id: "${id}", pageTypeSlug: "${KIND}", slug: "${slug}", afterChecks: ${afterChecks} }\n`
+    `export const held = { id: "${id}", type: "page-type/${KIND}", slug: "${slug}", afterChecks: ${afterChecks} }\n`
   )
   filed(root, `page-type/${KIND}/slug/${slug}.jsonl`, { path: at, id })
   pageFiled(root, at, id)
-  valueAlsoFiled(root, KIND, [{ path: at, value: { id, pageTypeSlug: KIND, slug, afterChecks } }])
+  valueAlsoFiled(root, KIND, [
+    { path: at, value: { id, type: `${pageType.slug}/${KIND}`, slug, afterChecks } },
+  ])
 }
 
 function typed(
@@ -94,7 +97,13 @@ function typed(
   const at = `akasha/${slug}.page-type.ts`
   const id = idFor(`page-type/${slug}`)
   const carried = declares.map((one) => ({ pageProperty: one, required: false, many: false }))
-  const value = { id, pageTypeSlug: "page-type", slug, extends: over, properties: carried }
+  const value = {
+    id,
+    type: `${pageType.slug}/${pageType.slug}`,
+    slug,
+    extends: over,
+    properties: carried,
+  }
   put(root, at, `export const held = ${JSON.stringify(value)}\n`)
   filed(root, `page-type/page-type/slug/${slug}.jsonl`, { path: at, id })
   pageFiled(root, at, id)
@@ -116,7 +125,7 @@ const HELD_AT = `akasha/held.${SHAPE}.ts`
 
 function heldBody(said: string): string {
   const id = idFor(`${SHAPE}/held`)
-  return `export const held = { id: "${id}", pageTypeSlug: "${SHAPE}", slug: "held", propertySlug: "held"${said} }\n`
+  return `export const held = { id: "${id}", type: "page-type/${SHAPE}", slug: "held", propertySlug: "held"${said} }\n`
 }
 
 function patchOver(root: string, changes: ReadonlyMap<string, string | null>): Change {

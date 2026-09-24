@@ -11,6 +11,7 @@ import {
   identifyingFrom,
   sourceOver,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const BOTH = new Map<string, Identifier>([
   ["id", { key: "id", uniqueKind: "page" }],
@@ -20,7 +21,7 @@ const BOTH = new Map<string, Identifier>([
 const UNIQUE = identifying({ domain: BOTH, module: BOTH })
 
 test("a page unique within its type is filed under that type, the property and the value", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a" }
 
   expect(pageTypeIn(value, "/repo/a.domain.ts", "/repo", UNIQUE)).toEqual([
     { at: "page-type/domain/slug/a.jsonl", line: `{"path":"a.domain.ts","id":"${A}"}` },
@@ -28,7 +29,7 @@ test("a page unique within its type is filed under that type, the property and t
 })
 
 test("a scope is the page type the value is unique within", () => {
-  expect(filedByPageType({ id: A, pageTypeSlug: "module", slug: "a" }, UNIQUE)).toEqual([
+  expect(filedByPageType({ id: A, type: `${pageType.slug}/module`, slug: "a" }, UNIQUE)).toEqual([
     { uniqueKind: "page-type", scope: "module", propertySlug: "slug", said: "a" },
   ])
 })
@@ -39,7 +40,12 @@ test("an identifier unique across every page is filed nowhere here", () => {
   })
 
   expect(
-    pageTypeIn({ id: A, pageTypeSlug: "domain", slug: "a" }, "/repo/a.domain.ts", "/repo", whole)
+    pageTypeIn(
+      { id: A, type: `${pageType.slug}/domain`, slug: "a" },
+      "/repo/a.domain.ts",
+      "/repo",
+      whole
+    )
   ).toEqual([])
 })
 
@@ -47,7 +53,7 @@ test("an identifier is read by the key its property states rather than by its sl
   const keyed = identifying({
     domain: new Map<string, Identifier>([["held-name", { key: "named", uniqueKind: "page-type" }]]),
   })
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", named: "n", heldName: "s" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a", named: "n", heldName: "s" }
 
   expect(pageTypeIn(value, "/repo/a.domain.ts", "/repo", keyed)).toEqual([
     { at: "page-type/domain/held-name/n.jsonl", line: `{"path":"a.domain.ts","id":"${A}"}` },
@@ -59,7 +65,7 @@ test("a value is filed under no identifier its own page type does not carry", ()
     domain: new Map<string, Identifier>([["slug", { key: "slug", uniqueKind: "page-type" }]]),
     other: new Map<string, Identifier>([["held-name", { key: "named", uniqueKind: "page-type" }]]),
   })
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", named: "n" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a", named: "n" }
 
   expect(pageTypeIn(value, "/repo/a.domain.ts", "/repo", keyed)).toEqual([
     { at: "page-type/domain/slug/a.jsonl", line: `{"path":"a.domain.ts","id":"${A}"}` },
@@ -70,7 +76,7 @@ test("an identifier held as a number is filed under the text of that number", ()
   const keyed = identifying({
     domain: new Map<string, Identifier>([["tally", { key: "tally", uniqueKind: "page-type" }]]),
   })
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", tally: 7 }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a", tally: 7 }
 
   expect(pageTypeIn(value, "/repo/a.domain.ts", "/repo", keyed)).toEqual([
     { at: "page-type/domain/tally/7.jsonl", line: `{"path":"a.domain.ts","id":"${A}"}` },
@@ -78,7 +84,7 @@ test("an identifier held as a number is filed under the text of that number", ()
 })
 
 test("only the identifiers named are filed where a set narrows them", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a" }
   const line = `{"path":"a.domain.ts","id":"${A}"}`
 
   expect(pageTypeIn(value, "/repo/a.domain.ts", "/repo", UNIQUE, new Set(["slug"]))).toEqual([
@@ -88,7 +94,7 @@ test("only the identifiers named are filed where a set narrows them", () => {
 
 const PAGE_TYPE: Value = {
   id: B,
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "page",
   extends: [],
   properties: [{ pagePropertySlug: "slug", required: true, many: false }],
@@ -96,7 +102,7 @@ const PAGE_TYPE: Value = {
 
 const SLUG_PROPERTY: Value = {
   id: C,
-  pageTypeSlug: "text-property",
+  type: `${pageType.slug}/text-property`,
   slug: "slug",
   propertySlug: "slug",
   unique: "page-type",

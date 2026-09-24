@@ -22,6 +22,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -37,7 +38,7 @@ const SECTIONED = "akasha/one.thing.cases.jsonl"
 
 const SAID: Value = {
   id: CASES,
-  pageTypeSlug: "page-property-entry",
+  type: `${pageType.slug}/page-property-entry`,
   slug: "cases",
   propertySlug: "cases",
 }

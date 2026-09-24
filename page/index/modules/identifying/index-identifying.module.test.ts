@@ -9,6 +9,7 @@ import {
   statedOf,
 } from "akasha/page/index/modules/identifying/index-identifying.module.code.ts"
 import { identifying } from "akasha/page/index/modules/identifying/index-identifying.module.test-fixtures.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const BOTH = new Map<string, Identifier>([
   ["id", { key: "id", uniqueKind: "page" }],
@@ -30,7 +31,7 @@ test("a key under no scope names the index's folder and the value's last two cha
 })
 
 test("a page states the identifiers its own page type declares", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a" }
 
   expect(identifiedIn(value, UNIQUE)).toEqual({
     pageTypeSlug: "domain",
@@ -46,8 +47,8 @@ test("a page's own type is read as a slug wherever it is said", () => {
 })
 
 test("a page stating no id, no slug or no page type states no identifier", () => {
-  expect(identifiedIn({ pageTypeSlug: "domain", slug: "a" }, UNIQUE)).toBeNull()
-  expect(identifiedIn({ id: A, pageTypeSlug: "domain" }, UNIQUE)).toBeNull()
+  expect(identifiedIn({ type: `${pageType.slug}/domain`, slug: "a" }, UNIQUE)).toBeNull()
+  expect(identifiedIn({ id: A, type: `${pageType.slug}/domain` }, UNIQUE)).toBeNull()
   expect(identifiedIn({ id: A, slug: "a" }, UNIQUE)).toBeNull()
 })
 
@@ -55,7 +56,7 @@ test("an identifier is read by the key its property states rather than by its sl
   const keyed = identifying({
     domain: new Map<string, Identifier>([["held-name", { key: "named", uniqueKind: "page-type" }]]),
   })
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", named: "n", heldName: "s" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a", named: "n", heldName: "s" }
 
   expect(identifiedIn(value, keyed)?.stated).toEqual([
     { propertySlug: "held-name", uniqueKind: "page-type", scopedBy: undefined, said: "n" },
@@ -66,7 +67,7 @@ test("an identifier held as a number is read as the text of that number", () => 
   const keyed = identifying({
     domain: new Map<string, Identifier>([["tally", { key: "tally", uniqueKind: "page-type" }]]),
   })
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", tally: 7 }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a", tally: 7 }
 
   expect(identifiedIn(value, keyed)?.stated[0]?.said).toBe("7")
 })
@@ -77,12 +78,12 @@ test("an identifier held as neither text nor a number is not read", () => {
   })
 
   expect(
-    identifiedIn({ id: A, pageTypeSlug: "domain", slug: "a", tally: [1] }, keyed)?.stated
+    identifiedIn({ id: A, type: `${pageType.slug}/domain`, slug: "a", tally: [1] }, keyed)?.stated
   ).toEqual([])
 })
 
 test("only the identifiers named are read where a set narrows them", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a" }
 
   expect(identifiedIn(value, UNIQUE, new Set(["slug"]))?.stated).toEqual([
     { propertySlug: "slug", uniqueKind: "page-type", scopedBy: undefined, said: "a" },
@@ -90,7 +91,7 @@ test("only the identifiers named are read where a set narrows them", () => {
 })
 
 test("the identifiers of one unique kind are taken apart from the rest", () => {
-  const held = identifiedIn({ id: A, pageTypeSlug: "domain", slug: "a" }, UNIQUE)
+  const held = identifiedIn({ id: A, type: `${pageType.slug}/domain`, slug: "a" }, UNIQUE)
   if (held === null) throw new Error("the value states identifiers")
 
   expect(statedOf(held, "page").map((one) => one.propertySlug)).toEqual(["id"])

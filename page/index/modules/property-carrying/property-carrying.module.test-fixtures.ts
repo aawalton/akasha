@@ -6,6 +6,7 @@ import type {
   Naming,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const idOf = (one: string): string => `01a058c0-0000-7000-8000-00000000000${one}`
 
@@ -27,9 +28,11 @@ export const ENTRIES = idOf("9")
 
 export const SECTIONED = "akasha/one.thing.entries.jsonl"
 
+export const PAGE_TYPE_TYPE = `${pageType.slug}/${pageType.slug}`
+
 export const SAYS: Value = {
   id: ENTRIES,
-  pageTypeSlug: "file-property",
+  type: `${pageType.slug}/file-property`,
   slug: "entries",
   propertySlug: "entries",
 }

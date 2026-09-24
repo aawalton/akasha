@@ -9,10 +9,15 @@ import { filePropertyGroup } from "akasha/page/file-property-group/file-property
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const GROUPING = [
-  { id: "1", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
+  {
+    id: "1",
+    type: `${pageType.slug}/${pageType.slug}`,
+    slug: "file-property-group",
+    properties: [],
+  },
   {
     id: "2",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "module-property-group",
     extends: [`${pageType.slug}/${filePropertyGroup.slug}`],
     properties: [
@@ -23,7 +28,7 @@ export const GROUPING = [
   },
   {
     id: "3",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "check-code",
     properties: [{ pageProperty: `${modulePropertyGroup.slug}/${audit.slug}` }],
   },
@@ -32,19 +37,19 @@ export const GROUPING = [
 export const ABOVE = [
   {
     id: "1",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "one",
     properties: [{ secret: true }, { pagePropertySlug: "patch", default: "one-default" }],
   },
   {
     id: "2",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "two",
     properties: [{ uncommitted: true }, { pagePropertySlug: "patch", default: "two-default" }],
   },
   {
     id: "3",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "both",
     extends: ["page-type/one", "page-type/two"],
   },

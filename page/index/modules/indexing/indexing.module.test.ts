@@ -57,12 +57,19 @@ import {
   scratch,
   thePage,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep, 5000)
 
 test("a written page is answered by its id and by its page type and slug", () => {
   const { tree, root } = bare()
-  const at = settled(root, tree, "a.domain.ts", { id: A, pageTypeSlug: "domain", slug: "a" }, null)
+  const at = settled(
+    root,
+    tree,
+    "a.domain.ts",
+    { id: A, type: `${pageType.slug}/domain`, slug: "a" },
+    null
+  )
   const found = { path: relative(tree, at), id: A }
 
   expect(said(idFile(root, A))).toEqual(found)
@@ -71,9 +78,15 @@ test("a written page is answered by its id and by its page type and slug", () =>
 
 test("a renamed slug withdraws its old entry and leaves the id entry untouched", () => {
   const { tree, root } = bare()
-  const was = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const was = { id: A, type: `${pageType.slug}/domain`, slug: "a" }
   settled(root, tree, "a.domain.ts", was, null)
-  settled(root, tree, "a.domain.ts", { id: A, pageTypeSlug: "domain", slug: "renamed" }, was)
+  settled(
+    root,
+    tree,
+    "a.domain.ts",
+    { id: A, type: `${pageType.slug}/domain`, slug: "renamed" },
+    was
+  )
 
   expect(existsSync(slugFile(root, "domain", "a"))).toBe(false)
   expect(existsSync(slugFile(root, "domain", "renamed"))).toBe(true)
@@ -82,7 +95,7 @@ test("a renamed slug withdraws its old entry and leaves the id entry untouched",
 
 test("a removed page leaves no entry and no empty directory", () => {
   const { tree, root } = bare()
-  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a" }
   const at = settled(root, tree, "a.domain.ts", value, null)
   tookAway(root, tree, at, bodyOf(value))
 
@@ -93,8 +106,20 @@ test("a removed page leaves no entry and no empty directory", () => {
 
 test("two pages carrying one value leave two lines in one file", () => {
   const { tree, root } = grounded()
-  settled(root, tree, "one.domain.ts", { id: A, pageTypeSlug: "domain", slug: "same" }, null)
-  settled(root, tree, "two.domain.ts", { id: B, pageTypeSlug: "domain", slug: "same" }, null)
+  settled(
+    root,
+    tree,
+    "one.domain.ts",
+    { id: A, type: `${pageType.slug}/domain`, slug: "same" },
+    null
+  )
+  settled(
+    root,
+    tree,
+    "two.domain.ts",
+    { id: B, type: `${pageType.slug}/domain`, slug: "same" },
+    null
+  )
 
   expect(linesIn(slugFile(root, "domain", "same")).length).toBe(2)
 })
@@ -124,7 +149,7 @@ test("a removed property leaves no shape of its own and leaves the rest in place
 
 test("a value naming its page type is filed under the target's id", () => {
   const { tree, root } = grounded()
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a", partSlugs: ["domain/b"] }
   const at = settled(root, tree, "a.domain.ts", value, null)
 
   expect(namesIn(root, tree, B, "part-slugs", A)).toEqual([relative(tree, at)])
@@ -149,7 +174,7 @@ test("a bare value reaches a page type extending the one its property names", ()
 
 test("a retargeted value withdraws the edge it left", () => {
   const { tree, root } = grounded()
-  const was = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["domain/b"] }
+  const was = { id: A, type: `${pageType.slug}/domain`, slug: "a", partSlugs: ["domain/b"] }
   settled(root, tree, "a.domain.ts", was, null)
   settled(root, tree, "a.domain.ts", NAMES_C_BY_ID, was)
 
@@ -202,8 +227,8 @@ test("a page type renamed in the same change withdraws the edge a bare value lef
 
 test("a bare value narrowing to more than one page is refused rather than resolved", () => {
   const { tree, root } = grounded()
-  settled(root, tree, "b.module.ts", { id: D, pageTypeSlug: "module", slug: "b" }, null)
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: ["b"] }
+  settled(root, tree, "b.module.ts", { id: D, type: `${pageType.slug}/module`, slug: "b" }, null)
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a", partSlugs: ["b"] }
   const indexing = indexingAt(root, tree)
   indexing.wrote(put(tree, "a.domain.ts", bodyOf(value)), bodyOf(value), null)
 
@@ -225,7 +250,7 @@ test("pages carrying no property that declares a unique are refused rather than 
 
 test("a settle into an index that has filed nothing yet refuses no page the pages declare", () => {
   const { tree, root } = aWorldWithAnEdge()
-  const value = { id: D, pageTypeSlug: "domain", slug: "d" }
+  const value = { id: D, type: `${pageType.slug}/domain`, slug: "d" }
   const body = bodyOf(value)
   const indexing = indexingAt(root, tree)
   indexing.wrote(put(tree, "d.domain.ts", body), body, null)
@@ -281,7 +306,7 @@ test("a file a page property holds is not loaded, so it is neither run nor read 
 
 test("a settle handed what a settle worked out already writes that rather than working it out again", () => {
   const { tree, root } = grounded()
-  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a" }
   const body = bodyOf(value)
   const handed: Settling = {
     reading: readingNone(),

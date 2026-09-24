@@ -4,11 +4,12 @@ import {
   pagesStranded,
 } from "akasha/page/index/modules/beside-turning/beside-turning.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 type Held = Record<string, unknown>
 
 const aType = (slug: string, above: readonly string[], properties: readonly Held[]): Held => ({
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug,
   extends: above,
   properties,
@@ -26,7 +27,7 @@ const PAGE = "one.bland.ts"
 
 const ID = "01a04bdd-0000-7000-8000-00000000000a"
 
-const BODY = `export const it = ${JSON.stringify({ pageTypeSlug: "bland", slug: "one" })} as const\n`
+const BODY = `export const it = ${JSON.stringify({ type: "page-type/bland", slug: "one" })} as const\n`
 
 const READING: Reading = {
   holds: (at) => at === "",

@@ -14,7 +14,7 @@ import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const PAGE_TYPE: Value = {
   id: B,
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "page",
   extends: [],
   properties: [{ pagePropertySlug: "slug", required: true, many: false }],
@@ -22,7 +22,7 @@ const PAGE_TYPE: Value = {
 
 const SLUG_PROPERTY: Value = {
   id: C,
-  pageTypeSlug: "text-property",
+  type: `${pageType.slug}/text-property`,
   slug: "slug",
   propertySlug: "slug",
   unique: "page-type",
@@ -30,7 +30,7 @@ const SLUG_PROPERTY: Value = {
 
 const SECTION_TYPE: Value = {
   id: A,
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "section",
   extends: [`${pageType.slug}/${pagePageType.slug}`],
   properties: [
@@ -47,7 +47,7 @@ const SECTION_TYPE: Value = {
 
 const SECTION_OF: Value = {
   id: B,
-  pageTypeSlug: "relation-property",
+  type: `${pageType.slug}/relation-property`,
   slug: "section-of-slug",
   propertySlug: "section-of-slug",
 }
@@ -56,7 +56,7 @@ const SCOPING = identifyingFrom(sourceOver([SECTION_TYPE, PAGE_TYPE, SLUG_PROPER
 
 const PRICING: Value = {
   id: A,
-  pageTypeSlug: "section",
+  type: "page-type/section",
   slug: "pricing",
   sectionOfSlug: "section/solar-power",
 }
@@ -90,14 +90,14 @@ test("a scoping value naming its page type is filed under the slug alone", () =>
 })
 
 test("a page carrying no value of the property scoping it is filed nowhere", () => {
-  const bare: Value = { id: A, pageTypeSlug: "section", slug: "pricing" }
+  const bare: Value = { id: A, type: "page-type/section", slug: "pricing" }
 
   expect(filedByPageProperty(bare, SCOPING)).toEqual([])
   expect(pagePropertyIn(bare, "/repo/pricing.section.ts", "/repo", SCOPING)).toEqual([])
 })
 
 test("a page unique within its type alone is filed nowhere here", () => {
-  const page: Value = { id: B, pageTypeSlug: "page", slug: "held" }
+  const page: Value = { id: B, type: `${pageType.slug}/page`, slug: "held" }
 
   expect(pagePropertyIn(page, "/repo/held.page.ts", "/repo", SCOPING)).toEqual([])
 })
@@ -107,14 +107,14 @@ test("a page type declaring this kind and naming no scoping property is a fault"
     sourceOver([
       {
         id: A,
-        pageTypeSlug: "page-type",
+        type: `${pageType.slug}/${pageType.slug}`,
         slug: "section",
         extends: [],
         properties: [{ pagePropertySlug: "slug", required: true, many: false }],
       },
       {
         id: C,
-        pageTypeSlug: "text-property",
+        type: `${pageType.slug}/text-property`,
         slug: "slug",
         propertySlug: "slug",
         unique: "page-property",

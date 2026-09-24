@@ -11,6 +11,7 @@ import {
   type IsThere,
   type Paging,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const GROUP_PAGE = "/repo/deep/a.check-code.ts"
 
@@ -27,7 +28,7 @@ export const GROUP_OWN = "deep/a.check-code.ts"
 export const ONE_MEMBER = "deep/a.check-code.audit.test.ts"
 
 export function groupClaiming(there: IsThere = () => false): readonly string[] {
-  const value = { id: "1", pageTypeSlug: "check-code", slug: "a" }
+  const value = { id: "1", type: `${pageType.slug}/check-code`, slug: "a" }
   const filed: FilePropertiesBy = new Map([["check-code", new Map(Object.entries(GROUP_KEYS))]])
   return claimsOf(value, GROUP_PAGE, "/repo", filed, sidecarsIn(GROUPING), new Map(), there)
 }

@@ -26,7 +26,7 @@ function world(generator: string): string {
   return indexedRepo({
     "akasha/page-type.page-type.ts": bodyOf({
       id: idOf("2"),
-      pageTypeSlug: "page-type",
+      type: `${pageType.slug}/${pageType.slug}`,
       slug: "page-type",
       extends: [DOMAIN_AT],
       properties: [],
@@ -35,7 +35,7 @@ function world(generator: string): string {
     "akasha/page-type.page-type.type-generator.ts": generator,
     "akasha/carrier.page-type.ts": bodyOf({
       id: "01a04a4a-0009-7000-8000-000000000001",
-      pageTypeSlug: "page-type",
+      type: `${pageType.slug}/${pageType.slug}`,
       slug: "carrier",
       extends: [MODULE_AT],
       properties: [{ pagePropertySlug: "note", required: false, many: false }],

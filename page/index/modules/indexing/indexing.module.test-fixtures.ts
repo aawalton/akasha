@@ -163,8 +163,8 @@ export const NOTE = aProperty("8", "note", "relation-property", { targetPageType
 export function grounded(): Pair {
   const { tree, root } = bare()
   const indexing = indexingAt(root, tree)
-  const b = { id: B, pageTypeSlug: "domain", slug: "b" }
-  const c = { id: C, pageTypeSlug: "module", slug: "c" }
+  const b = { id: B, type: `${pageType.slug}/domain`, slug: "b" }
+  const c = { id: C, type: `${pageType.slug}/module`, slug: "c" }
   for (const [at, value] of [...VOCABULARY, ["b.domain.ts", b], ["c.module.ts", c]] as const) {
     const body = bodyOf(value)
     indexing.wrote(put(tree, at, body), body, null)
@@ -178,8 +178,14 @@ function aWrittenWorld(): Pair {
   const indexing = indexingAt(root, tree)
   for (const [at, value] of VOCABULARY)
     indexing.wrote(put(tree, at, bodyOf(value)), bodyOf(value), null)
-  const b = { id: B, pageTypeSlug: "domain", slug: "b" }
-  const a = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", partSlugs: ["domain/b"] }
+  const b = { id: B, type: `${pageType.slug}/domain`, slug: "b" }
+  const a = {
+    id: A,
+    type: `${pageType.slug}/module`,
+    slug: "a",
+    code: "ts",
+    partSlugs: ["domain/b"],
+  }
   indexing.wrote(put(tree, "b.domain.ts", bodyOf(b)), bodyOf(b), null)
   indexing.wrote(put(tree, "deep/a.module.ts", bodyOf(a)), bodyOf(a), null)
   const seen = 'import { a } from "./a.module.ts"\n'
@@ -214,7 +220,7 @@ export function aWorldDeclaringNoUnique(): Pair {
 export function aWorldWithOnePage(): Pair {
   const { tree, root } = bare()
   put(tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
-  put(tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
+  put(tree, "a.domain.ts", bodyOf({ id: A, type: `${pageType.slug}/domain`, slug: "a" }))
   return { tree, root }
 }
 
@@ -224,16 +230,21 @@ export function aWorldWithAFileGone(): Pair {
   return held
 }
 
-export const A_WITH_CODE: Held = { id: A, pageTypeSlug: "module", slug: "a", code: "ts" }
+export const A_WITH_CODE: Held = { id: A, type: `${pageType.slug}/module`, slug: "a", code: "ts" }
 
 export const NAMES_C_BY_SLUG: Held = {
   id: A,
-  pageTypeSlug: "domain",
+  type: `${pageType.slug}/domain`,
   slug: "a",
   partSlugs: ["c"],
 }
 
-export const NAMES_C_BY_ID: Held = { id: A, pageTypeSlug: "domain", slug: "a", partSlugs: [C] }
+export const NAMES_C_BY_ID: Held = {
+  id: A,
+  type: `${pageType.slug}/domain`,
+  slug: "a",
+  partSlugs: [C],
+}
 
 const BLOCKED_AT = join("deep", "a.module.referenced-by.jsonl")
 
@@ -288,7 +299,7 @@ export const pathsFiledIn = (root: string): readonly string[] =>
 export function aWorldDeclaringNothing(): Pair {
   const held = { tree: heldAt(), root: heldAt() }
   put(held.tree, "domain.page-type.ts", bodyOf(aType("1", "domain", ["page"])[1]))
-  put(held.tree, "a.domain.ts", bodyOf({ id: A, pageTypeSlug: "domain", slug: "a" }))
+  put(held.tree, "a.domain.ts", bodyOf({ id: A, type: `${pageType.slug}/domain`, slug: "a" }))
   return held
 }
 
@@ -313,7 +324,7 @@ export const aSource = (slug: string, names: string): Named =>
   thePage({ id: A, type: DOMAIN_AT, slug, partSlugs: [`domain/${names}`] })
 
 const writingTo = (at: string): string =>
-  `import { writeFileSync } from "node:fs"\nwriteFileSync("${at}", "x")\nexport const it = { id: "${D}", pageTypeSlug: "domain", slug: "d" }\n`
+  `import { writeFileSync } from "node:fs"\nwriteFileSync("${at}", "x")\nexport const it = { id: "${D}", type: "page-type/domain", slug: "d" }\n`
 
 export function retyped(
   root: string,

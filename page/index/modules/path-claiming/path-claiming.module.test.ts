@@ -27,9 +27,10 @@ import {
   groupClaiming,
   ONE_MEMBER,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.test-fixtures.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 test("a property no page property declares to be a file is filed under no path", () => {
-  const value = { id: A, pageTypeSlug: "domain", slug: "a", definition: "what is held" }
+  const value = { id: A, type: `${pageType.slug}/domain`, slug: "a", definition: "what is held" }
 
   expect(pathsOf(value, "/repo/a.domain.ts", "/repo", filedAs("domain", { code: null }))).toEqual([
     "a.domain.ts",
@@ -37,7 +38,7 @@ test("a property no page property declares to be a file is filed under no path",
 })
 
 test("a property whose name is written in camel is filed under its kebab slug", () => {
-  const value = { id: A, pageTypeSlug: "module", slug: "a", codeOf: "ts" }
+  const value = { id: A, type: `${pageType.slug}/module`, slug: "a", codeOf: "ts" }
 
   expect(
     pathsOf(value, "/repo/a.module.ts", "/repo", filedAs("module", { "code-of": null }))
@@ -45,7 +46,7 @@ test("a property whose name is written in camel is filed under its kebab slug", 
 })
 
 test("a property stating the name its file stands under claims that name in the page's own directory", () => {
-  const value = { id: A, pageTypeSlug: "module", slug: "a", manifest: "json" }
+  const value = { id: A, type: `${pageType.slug}/module`, slug: "a", manifest: "json" }
 
   expect(
     pathsOf(
@@ -58,7 +59,7 @@ test("a property stating the name its file stands under claims that name in the 
 })
 
 test("a property stating no name is still claimed under the name the grammar builds", () => {
-  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts" }
+  const value = { id: A, type: `${pageType.slug}/module`, slug: "a", code: "ts" }
 
   expect(
     pathsOf(value, "/repo/deep/a.module.ts", "/repo", filedAs("module", { code: null }))
@@ -66,7 +67,7 @@ test("a property stating no name is still claimed under the name the grammar bui
 })
 
 test("the numbered files of a property are claimed alongside the first while they are there", () => {
-  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts" }
+  const value = { id: A, type: `${pageType.slug}/module`, slug: "a", code: "ts" }
   const held = new Set(["deep/a.module.code.part2.ts", "deep/a.module.code.part3.ts"])
   const there = (at: string): boolean => held.has(at)
 
@@ -81,7 +82,7 @@ test("the numbered files of a property are claimed alongside the first while the
 })
 
 test("a numbered file past a gap in the numbering is claimed by no page", () => {
-  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts" }
+  const value = { id: A, type: `${pageType.slug}/module`, slug: "a", code: "ts" }
   const held = new Set(["deep/a.module.code.part3.ts"])
   const there = (at: string): boolean => held.has(at)
 
@@ -91,7 +92,7 @@ test("a numbered file past a gap in the numbering is claimed by no page", () => 
 })
 
 test("a page carrying both is claimed under the built name and under the stated one", () => {
-  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", manifest: "json" }
+  const value = { id: A, type: `${pageType.slug}/module`, slug: "a", code: "ts", manifest: "json" }
   const filed = filedAs("module", { code: null, manifest: "package.json" })
 
   expect(pathsOf(value, "/repo/deep/a.module.ts", "/repo", filed)).toEqual([
@@ -175,7 +176,7 @@ test("that same page claims the values file beside it as soon as that file is th
   ).toEqual([HELD_PAGE, VALUES])
 })
 
-const NOTED = { id: A, pageTypeSlug: "held-type", slug: "a", notes: "jsonl" }
+const NOTED = { id: A, type: "page-type/held-type", slug: "a", notes: "jsonl" }
 
 const NOTES = filedAs("held-type", { notes: null })
 
@@ -226,7 +227,7 @@ const NONE: SidecarsBy = new Map()
 
 const BESIDES: ReadonlyMap<string, Beside> = new Map()
 
-const VALUE = { id: A, pageTypeSlug: "domain", slug: "a" }
+const VALUE = { id: A, type: `${pageType.slug}/domain`, slug: "a" }
 
 const REPO = "/repo"
 
@@ -247,13 +248,13 @@ const besideThere: IsThere = (at) => at === "a.domain.uncommitted.ts"
 const patchThere: IsThere = (at) => at === "a.domain.patch.diff"
 
 test("a value carrying no id claims its own path as a value carrying one does", () => {
-  expect(claimsOf({ pageTypeSlug: "domain", slug: "a" }, AT, REPO, NO_FILES, NONE)).toEqual([
-    "a.domain.ts",
-  ])
+  expect(
+    claimsOf({ type: `${pageType.slug}/domain`, slug: "a" }, AT, REPO, NO_FILES, NONE)
+  ).toEqual(["a.domain.ts"])
 })
 
 test("a value carrying no slug claims its own path as a value carrying one does", () => {
-  expect(claimsOf({ id: A, pageTypeSlug: "domain" }, AT, REPO, NO_FILES, NONE)).toEqual([
+  expect(claimsOf({ id: A, type: `${pageType.slug}/domain` }, AT, REPO, NO_FILES, NONE)).toEqual([
     "a.domain.ts",
   ])
 })
@@ -355,7 +356,7 @@ test("a property naming its file outright claims no uncommitted file beside it",
 })
 
 test("a file a page property holds is claimed under its own path", () => {
-  const value = { id: A, pageTypeSlug: "module", slug: "a", code: "ts", test: "ts" }
+  const value = { id: A, type: `${pageType.slug}/module`, slug: "a", code: "ts", test: "ts" }
   const filed: FilePropertiesBy = new Map([
     [
       "module",

@@ -32,6 +32,7 @@ import {
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep, 5000)
 
@@ -79,7 +80,7 @@ const RENAMED: Named = [
   "piece-slugs.relation-property.ts",
   {
     id: "3",
-    pageTypeSlug: "relation-property",
+    type: `${pageType.slug}/relation-property`,
     slug: "piece-slugs",
     propertySlug: "part-slugs",
     targetPageType: "domain",
@@ -92,11 +93,14 @@ const CARRIER = mortally(aType("4", "widget", ["domain"], ["part-slugs"]))
 
 const CARRIER_AGAIN = mortally(aType("4", "widget", ["domain"], ["piece-slugs"]))
 
-const TARGET_PAGE: Named = ["b.domain.ts", { id: TARGET_ID, pageTypeSlug: "domain", slug: "b" }]
+const TARGET_PAGE: Named = [
+  "b.domain.ts",
+  { id: TARGET_ID, type: `${pageType.slug}/domain`, slug: "b" },
+]
 
 const SOURCE_PAGE: Named = [
   "one.widget.ts",
-  { id: SOURCE_ID, pageTypeSlug: "widget", slug: "one", partSlugs: ["domain/b"] },
+  { id: SOURCE_ID, type: "page-type/widget", slug: "one", partSlugs: ["domain/b"] },
 ]
 
 const heldAt = (): string => scratch.rootFor("akasha-settling-")
@@ -106,7 +110,7 @@ const NOTE_AT = "akasha/note.relation-property.ts"
 const notePointing = (target: string): string =>
   bodyOf({
     id: idOf("b"),
-    pageTypeSlug: "relation-property",
+    type: `${pageType.slug}/relation-property`,
     slug: "note",
     propertySlug: "note",
     targetPageType: target,
@@ -161,7 +165,7 @@ const CASES: Named = [
   "cases.page-property-entry.ts",
   {
     id: "7",
-    pageTypeSlug: "page-property-entry",
+    type: `${pageType.slug}/page-property-entry`,
     slug: "cases",
     propertySlug: "cases",
     properties: [{ pagePropertySlug: "case-page", required: true, many: false }],
@@ -172,7 +176,7 @@ const CASED = aType("8", "cased", ["domain"], ["cases"])
 
 const ROW_PAGE: Named = [
   "one.cased.ts",
-  { id: SOURCE_ID, pageTypeSlug: "cased", slug: "one", cases: "jsonl" },
+  { id: SOURCE_ID, type: "page-type/cased", slug: "one", cases: "jsonl" },
 ]
 
 const ROW_LINE = `${JSON.stringify({ id: idOf("c"), casePage: "domain/b" })}\n`
@@ -270,7 +274,7 @@ const REFERENCES_LEFT = "akasha/one/held.module.referenced-by.jsonl"
 
 const NAMER_NAMING_NOTHING = pageOf({
   id: idOf("9"),
-  pageTypeSlug: "module",
+  type: `${pageType.slug}/module`,
   slug: "namer",
   definition: "a page importing the held code and naming no page",
   code: "ts",

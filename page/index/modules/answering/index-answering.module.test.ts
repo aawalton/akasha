@@ -84,11 +84,11 @@ const SCHEMA = {
   fileName: null,
 }
 
-const HELD_VALUE: Value = { id: HELD_ID, pageTypeSlug: MODULE, slug: "held" }
+const HELD_VALUE: Value = { id: HELD_ID, type: `${pageType.slug}/${MODULE}`, slug: "held" }
 
 const TYPE_VALUE: Value = {
   id: TYPE_ID,
-  pageTypeSlug: PAGE_TYPE,
+  type: `${pageType.slug}/${PAGE_TYPE}`,
   slug: MODULE,
   extendsSlug: [`${pageType.slug}/${domain.slug}`],
   properties: [{ pagePropertySlug: SLUG, required: true, many: false }],
@@ -98,7 +98,7 @@ const DOMAIN_AT = "akasha/held/domain.page-type.ts"
 
 const DOMAIN_ID = "01a04a4a-0000-7000-8000-0000000000d0"
 
-const DOMAIN_VALUE: Value = { id: DOMAIN_ID, pageTypeSlug: PAGE_TYPE, slug: "domain" }
+const DOMAIN_VALUE: Value = { id: DOMAIN_ID, type: `${pageType.slug}/${PAGE_TYPE}`, slug: "domain" }
 
 function pageOf(path: string): Value | null {
   if (path === HELD_AT) return HELD_VALUE
