@@ -65,7 +65,6 @@ export type Declared = {
 
 const ABOVE_DECLARED: readonly Declared[] = [
   { slug: "id" },
-  { slug: "page-type-slug" },
   { slug: pagePageType.slug, propertySlug: pagePageType.propertySlug },
   { slug: "slug" },
 ]

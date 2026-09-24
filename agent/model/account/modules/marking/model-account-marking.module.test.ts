@@ -85,7 +85,7 @@ test("the routing is read off the model-account page type and the type above it"
   expect([...said.secret].sort()).toEqual(["accessToken", "refreshToken"])
   expect(said.stated.has("email")).toBe(true)
   expect(said.stated.has("slug")).toBe(true)
-  expect(said.stated.has("pageTypeSlug")).toBe(true)
+  expect(said.stated.has("type")).toBe(true)
 })
 
 test("a page type declaring nothing refuses to say where a mark is written", () => {
