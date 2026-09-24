@@ -6,4 +6,5 @@ export const theTowerTheWelcomersPair01 = {
   slug: "the-tower-the-welcomers-pair-01",
   title: "The Welcomers (coordinated pair — run TWO instances of this sheet)",
   story: "story-played/the-tower",
+  place: "place/the-tower-floor-05",
 } as const satisfies CharacterOther
