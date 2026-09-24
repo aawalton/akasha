@@ -36,7 +36,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.ts","id":"01a09f61-ca3e-75ea-9e65-23af74517db1"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.ts","id":"01a0603c-c1d8-7a9c-b7d3-8fab0e6c8abf"}
-{"propertySlug":"decision-kind","path":"design/interface/primitive/design-interface-primitive.domain.ts","id":"01a05bde-9a73-7b0d-9c03-ebd55459b775"}
 {"propertySlug":"decision-kind","path":"domain/champion/domain-champion.domain.ts","id":"01a0675b-16de-790e-8eea-52afc2046700"}
 {"propertySlug":"decision-kind","path":"git/git.domain.ts","id":"01a05d7f-23fc-7000-b2b7-266f4611121a"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/logind-idle-action/logind-idle-action.provisioned-file.ts","id":"01a0d38a-686f-79ff-b78a-6378171c4ed4"}

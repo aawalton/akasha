@@ -68,14 +68,4 @@ export const designInterfacePrimitive = {
     "module/use-number-draft",
     "module/use-single-flight",
   ],
-  decisions: [
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "This manifest leaves out the seven packages only a `.tsx` module here reaches.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The manifest names every package this package reaches.",
-    },
-  ],
 } as const satisfies Domain
