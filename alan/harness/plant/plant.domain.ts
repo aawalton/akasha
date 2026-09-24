@@ -9,7 +9,7 @@ export const plant = {
     { partOfSpeech: "part-of-speech/noun", spelling: "plant" },
     { partOfSpeech: "part-of-speech/noun", spelling: "plants" },
   ],
-  parts: ["readout/upkeep-plants"],
+
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -20,14 +20,6 @@ export const plant = {
       decisionKind: "decision-kind/departure",
       statement:
         "The window counted over runs from the hour Alan rose to the hour Alan rises next.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The tile shows the grams Alan's workstation last took.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "A day begun with nothing eaten is a reading of zero rather than no signal.",
     },
   ],
 } as const satisfies Domain

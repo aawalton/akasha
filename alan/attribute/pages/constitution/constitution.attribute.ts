@@ -19,7 +19,11 @@ export const constitution = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The grams turned into points are the grams the plants readout counts.",
+      statement: "Grams given as text are read as the number that text spells.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A food entry whose grams spell no number adds nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

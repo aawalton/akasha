@@ -897,7 +897,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/notification-feed/notification-feed.page-type.ts","id":"01a06861-e7cd-7f8b-a674-034ea5efe956"}
 {"propertySlug":"decision-kind","path":"alan/harness/notification-feed/properties/notifications.page-property-entry.ts","id":"019f4a1f-0ecc-7d45-8f43-7b424b5f0477"}
 {"propertySlug":"decision-kind","path":"alan/harness/plant/plant.domain.ts","id":"01a06221-d65f-739e-9acb-74d67bbe92da"}
-{"propertySlug":"decision-kind","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.ts","id":"01a06221-d65f-79f1-86c6-ac9568df5717"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/categorization/categorization.readout-group.ts","id":"01a05455-7631-7e29-b225-b04ee2ae4890"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/claude-usage/claude-usage.readout-group.ts","id":"01a063bd-a526-78fb-9e89-7128b2bdd640"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/claude-usage/readouts/five-hour-back/five-hour-back.readout.ts","id":"01a063bd-a526-7d2a-b1f5-8375b86d19ff"}

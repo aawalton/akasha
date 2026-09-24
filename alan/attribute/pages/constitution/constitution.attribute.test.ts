@@ -1,10 +1,12 @@
 import { expect, test } from "bun:test"
 import {
   constitutionIn,
+  entriesBetween,
   fetchConstitutionPoints,
   GRAMS_TO_THE_POINT,
+  gramsIn,
 } from "akasha/alan/attribute/pages/constitution/constitution.attribute.code.ts"
-import { ate } from "akasha/alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.reading.test-fixtures.ts"
+import type { Row } from "akasha/alan/harness/readout/modules/asking/readout-asking.module.code.ts"
 import {
   answering,
   refusing,
@@ -13,6 +15,28 @@ import {
 const FROM = "2026-09-01T13:00:00.000Z"
 
 const TO = "2026-09-02T13:00:00.000Z"
+
+function ate(grams: unknown): Row {
+  return { values: { id: "one", plantGrams: grams } }
+}
+
+test("the entries asked for are the food entries inside the window handed in", () => {
+  const query = entriesBetween(FROM, TO) as Record<string, unknown>
+  expect(query["pageTypeSlug"]).toBe("food-entry")
+  expect(query.where).toEqual({ happenedAt: { "at-or-after": FROM, before: TO } })
+})
+
+test("the grams are asked for beside the id that names the entry", () => {
+  expect((entriesBetween(FROM, TO) as Record<string, unknown>).keys).toEqual(["id", "plantGrams"])
+})
+
+test("the grams are every entry's grams added together", () => {
+  expect(gramsIn([ate(30), ate(12), ate(8)])).toBe(50)
+})
+
+test("an entry whose grams spell no number adds nothing to the grams", () => {
+  expect(gramsIn([ate(30), ate(""), ate("   "), ate("some")])).toBe(30)
+})
 
 test("a hundred grams of whole plants eaten is one point", () => {
   expect(GRAMS_TO_THE_POINT).toBe(100)

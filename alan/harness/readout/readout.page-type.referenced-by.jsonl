@@ -30,7 +30,6 @@
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-findings/inboxes-findings.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.ts"}
-{"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/claude-usage/readouts/five-hour-back/five-hour-back.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-back/weekly-back.readout.ts"}
 {"propertySlug":"import","fileName":"readout.page-type.types.ts","path":"alan/harness/readout/group/pages/claude-usage/readouts/weekly-ends/weekly-ends.readout.ts"}
