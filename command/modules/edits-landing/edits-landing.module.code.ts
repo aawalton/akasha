@@ -14,6 +14,7 @@ import { formattedBodies } from "akasha/code/running/modules/code-format/code-fo
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
+import { z } from "zod"
 
 const BYTES = new TextEncoder()
 
@@ -22,6 +23,8 @@ const FATAL = new TextDecoder("utf-8", { fatal: true })
 const NOT_TEXT_SAID = "is not text, so no body is worked out for it"
 
 const RENAMED = /^R\d+\t(.+)\t(.+)$/
+
+const RENAMED_FOUND = z.tuple([z.string(), z.string(), z.string()])
 
 const FOLLOWED_AT_MOST = 32
 
@@ -90,8 +93,8 @@ function wentTo(root: string, head: string, path: string): string | null {
   if (at === "") return null
   const said = gitSaid(root, ["diff-tree", "-r", "-M", "--no-commit-id", "--name-status", at])
   for (const line of said.split("\n")) {
-    const found = RENAMED.exec(line)
-    if (found?.[1] === path) return found[2] ?? null
+    const found = RENAMED_FOUND.safeParse(RENAMED.exec(line))
+    if (found.success && found.data[1] === path) return found.data[2]
   }
   return null
 }
