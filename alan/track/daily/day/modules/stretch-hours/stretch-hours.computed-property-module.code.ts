@@ -5,16 +5,12 @@ const AN_HOUR = 3600000
 
 const A_DAY = 1
 
-const SAYS_A_DATE = /^(\d{4})-(\d{2})-(\d{2})$/
+const SAYS_A_DATE = /^\d{4}-\d{2}-\d{2}$/
 
 function midnightEnding(date: unknown): number | null {
-  if (typeof date !== "string") return null
-  const said = SAYS_A_DATE.exec(date)
-  if (said === null) return null
-  const year = Number(said[1] ?? "")
-  const month = Number(said[2] ?? "")
-  const day = Number(said[3] ?? "")
-  if (!Number.isFinite(year) || !Number.isFinite(month) || !Number.isFinite(day)) return null
+  if (typeof date !== "string" || !SAYS_A_DATE.test(date)) return null
+  const [year, month, day] = date.split("-").map(Number)
+  if (year === undefined || month === undefined || day === undefined) return null
   return denverInstantMs(Date.UTC(year, month - 1, day + A_DAY))
 }
 

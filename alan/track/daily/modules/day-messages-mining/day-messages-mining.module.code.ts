@@ -7,7 +7,7 @@ import {
   dayPageAt,
 } from "akasha/alan/track/daily/modules/day-messages/day-messages.module.code.ts"
 import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
-import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { personasStanding } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 
@@ -157,7 +157,7 @@ export function transcriptsIn(store: string): readonly string[] {
 }
 
 function transcriptsHere(): readonly string[] {
-  const base = textIn(process.env.CLAUDE_CONFIG_DIR) ?? join(homedir(), ".claude")
+  const base = optionalEnv("CLAUDE_CONFIG_DIR") ?? join(homedir(), ".claude")
   return transcriptsIn(join(base, PROJECTS))
 }
 
