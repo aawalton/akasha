@@ -4,7 +4,7 @@ export const seatAutoCompact = {
   id: "01a0c57d-e680-71fb-8cf9-90460d5d30a7",
   type: "page-type/domain",
   slug: "seat-auto-compact",
-  definition: "a seat's context traded for a summary of itself while that seat sits idle",
+  definition: "a seat's context summarized by a supervisor",
   parts: ["module/supervisor-compact-decide", "module/supervisor-compact-poll"],
   decisions: [
     {
