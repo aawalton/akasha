@@ -8,7 +8,7 @@ export type ShapeIssue = {
   readonly message: string
 }
 
-export class ShapeError extends Error {
+class ShapeError extends Error {
   readonly issues: readonly ShapeIssue[]
 
   constructor(issues: readonly ShapeIssue[]) {
