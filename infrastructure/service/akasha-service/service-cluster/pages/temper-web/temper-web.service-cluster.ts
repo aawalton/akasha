@@ -12,4 +12,11 @@ export const temperWeb = {
   replicas: 1,
   containerPort: 3000,
   manifest: ["manifest/temper-web-manifests"],
+  secrets: [
+    "secret/alanwalton-secrets-google-oauth-client-id",
+    "secret/alanwalton-secrets-google-oauth-client-secret",
+    "secret/alanwalton-secrets-handover-public-key",
+    "secret/git-transport-secrets-git-access-token",
+    "secret/temper-secrets-session-key",
+  ],
 } as const satisfies ServiceCluster

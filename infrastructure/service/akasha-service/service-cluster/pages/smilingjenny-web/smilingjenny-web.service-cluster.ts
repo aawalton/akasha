@@ -12,4 +12,11 @@ export const smilingjennyWeb = {
   replicas: 1,
   containerPort: 3000,
   manifest: ["manifest/smilingjenny-web-manifests"],
+  secrets: [
+    "secret/alanwalton-secrets-handover-public-key",
+    "secret/alanwalton-secrets-reading-relay-secret",
+    "secret/git-transport-secrets-git-access-token",
+    "secret/smilingjenny-secrets-session-key",
+    "secret/smilingjenny-secrets-smilingjenny-ring-credential",
+  ],
 } as const satisfies ServiceCluster

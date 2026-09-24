@@ -12,4 +12,12 @@ export const audhdalanWeb = {
   replicas: 1,
   containerPort: 3000,
   manifest: ["manifest/audhdalan-web-manifests"],
+  secrets: [
+    "secret/alanwalton-secrets-google-oauth-client-id",
+    "secret/alanwalton-secrets-google-oauth-client-secret",
+    "secret/alanwalton-secrets-handover-public-key",
+    "secret/audhdalan-secrets-session-key",
+    "secret/audhdalan-secrets-subscriber-owner-user-id",
+    "secret/git-transport-secrets-git-access-token",
+  ],
 } as const satisfies ServiceCluster

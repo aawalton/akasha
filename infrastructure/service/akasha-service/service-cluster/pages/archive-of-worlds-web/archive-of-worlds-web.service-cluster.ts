@@ -12,4 +12,11 @@ export const archiveOfWorldsWeb = {
   replicas: 1,
   containerPort: 3000,
   manifest: ["manifest/archive-of-worlds-web-manifests"],
+  secrets: [
+    "secret/alanwalton-secrets-google-oauth-client-id",
+    "secret/alanwalton-secrets-google-oauth-client-secret",
+    "secret/alanwalton-secrets-handover-public-key",
+    "secret/archive-of-worlds-secrets-session-key",
+    "secret/git-transport-secrets-git-access-token",
+  ],
 } as const satisfies ServiceCluster

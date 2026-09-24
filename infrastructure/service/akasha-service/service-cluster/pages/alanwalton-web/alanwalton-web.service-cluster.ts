@@ -25,5 +25,13 @@ export const alanwaltonWeb = {
     "secret/collections-secrets-scraperapi-api-key",
     "secret/collections-secrets-trakt-client-id",
     "secret/git-transport-secrets-git-access-token",
+    "secret/alanwalton-secrets-atlas-session-key",
+    "secret/alanwalton-secrets-google-oauth-client-id",
+    "secret/alanwalton-secrets-google-oauth-client-secret",
+    "secret/alanwalton-secrets-handover-public-key",
+    "secret/alanwalton-secrets-handover-signing-key",
+    "secret/alanwalton-secrets-requests-session-key",
+    "secret/alanwalton-secrets-session-key",
+    "secret/alanwalton-secrets-stripe-webhook-secret",
   ],
 } as const satisfies ServiceCluster
