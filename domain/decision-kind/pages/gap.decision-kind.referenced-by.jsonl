@@ -170,7 +170,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/memory/limit/memory-limit.domain.ts","id":"01a09115-8c65-76a6-bdc1-cfddcc4acd88"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.ts","id":"01a09574-737c-78fd-b3ed-fc94c505577b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.ts","id":"01a05b27-a75c-7fab-a630-6d98b13144e1"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/headscale/headscale.service-cluster.ts","id":"01a06812-2380-7204-bb6c-c05c012bbf72"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"decision-kind","path":"page/access/modules/capture-error/capture-error.module.ts","id":"01a05bd6-c529-7e1b-b455-c42e0f069da5"}

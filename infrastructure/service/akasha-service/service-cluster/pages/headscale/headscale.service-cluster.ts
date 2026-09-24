@@ -19,8 +19,9 @@ export const headscale = {
   ],
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A certificate renewal reaches the server serving that certificate.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A certificate renewal reaches the server serving that certificate within a quarter hour.",
     },
     {
       decisionKind: "decision-kind/constraint",
@@ -30,7 +31,7 @@ export const headscale = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The pod is rolled by the certificate's checksum changing where the manifest is applied again.",
+        "The pod is rolled by the certificate's checksum changing, which a job stamps every quarter hour.",
     },
   ],
 } as const satisfies ServiceCluster
