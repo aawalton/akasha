@@ -56,8 +56,12 @@ export const locationTraces = {
       statement: "Nothing recomputes a trace from its neighbours.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every trace Alan's phone sends is kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A malformed trace is logged whole with why it was refused rather than filed.",
     },
   ],
   types: "ts",
