@@ -4,6 +4,11 @@ Burning Anger first — you take it apart. The mace that has killed for you sinc
 
 Then the head. You set the Furnace-heart at the center of it — the dead guardian's core, your deepest vessel — and you build the weapon's striking mass out around it, breaking down the rivet, the old brazier-stand that has held your every fire in this place, and Burning Anger's steel head, layering each one onto the core white-hot and beating it home, ring after ring, until the Furnace-heart beats at the heart of a maul like a banked sun in an iron fist. That head you weld to one end of the shaft. The forge-bound hammer-head you weld to the other. And all the while you spend yourself the way you meant to — pacing the fire out of your own core drop by drop, never dumping, never running dry, the well sinking lower and lower as the work climbs toward done, so that the last weld cools under your hands at the very moment the last of your focus goes out of you. Spent, exactly. Not a drop wasted, not a drop short.
 
+:::skill
+name: Smithing
+rung: Apprentice
+:::
+
 You set the butt of it to the stone and stand back, and for a while you just look.
 
 It is the finest thing you have ever made. Two-handed, double-ended, heavier than anything you have carried — a maul head with a sun in its heart on one end, a hammer poll on the other, the whole long shaft saturated with ember through every weld so that it seems to hold its own dim glow even quenched and cooling. Every battery you owned is in it now; every named iron you carried down here is in it now; the brazier that warmed you and the core you tore out of a guardian and the bar you bit the swarm with, all of it gathered into one weight balanced so true it feels lighter in the hands than it has any right to. It has no name yet. You will know the name when it has done something to earn one.

@@ -6,5 +6,4 @@ export const theTower065 = {
   slug: "the-tower-065",
   game: "game/the-tower",
   number: 65,
-  windows: [{ kind: "skill", name: "Smithing", rung: "Apprentice" }],
 } as const satisfies GameTurn
