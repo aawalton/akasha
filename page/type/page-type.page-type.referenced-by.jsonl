@@ -191,6 +191,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/model/provider/model-provider.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/model/test/model-test.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/model/test/outcome/model-test-outcome.page-type.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/model/version/model-version.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/role/role.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/conditions/seat-conditions.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"agent/seat/log-day/seat-log-day.page-type.ts"}

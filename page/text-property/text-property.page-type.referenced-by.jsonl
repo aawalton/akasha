@@ -29,6 +29,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/test/properties/case-page.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/test/properties/case-statement.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/test/properties/prompt.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/model/version/properties/model-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/conditions/properties/effort-level.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/conditions/properties/seat-conditions-model.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"agent/seat/conditions/properties/subagent-model.text-property.ts"}

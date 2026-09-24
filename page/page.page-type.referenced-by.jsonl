@@ -3,6 +3,7 @@
 {"propertySlug":"extends-type","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
 {"propertySlug":"extends-type","path":"agent/message/notice/agent-message-notice.page-type.ts","id":"019ffe7f-d49d-7000-ba76-13378b883aa0"}
 {"propertySlug":"extends-type","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}
+{"propertySlug":"extends-type","path":"agent/model/version/model-version.page-type.ts","id":"01a0d4b7-ebed-7a27-8b91-440087702aa8"}
 {"propertySlug":"extends-type","path":"agent/seat/conditions/seat-conditions.page-type.ts","id":"01a06837-f101-7420-89ad-7e146f4cbaf5"}
 {"propertySlug":"extends-type","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
 {"propertySlug":"extends-type","path":"agent/seat/log-source/log-source.page-type.ts","id":"01a0657c-cb14-7c6f-83df-0d533f4f7821"}
@@ -157,6 +158,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/message/agent-message.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/message/notice/agent-message-notice.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/model/account/model-account.page-type.types.ts"}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/model/version/model-version.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/seat/conditions/seat-conditions.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/seat/log-day/seat-log-day.page-type.types.ts"}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"agent/seat/log-source/log-source.page-type.types.ts"}

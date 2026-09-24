@@ -15,6 +15,7 @@ export const model = {
     "page-type/model-family",
     "page-type/model-provider",
     "page-type/model-test",
+    "page-type/model-version",
   ],
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "model" },
