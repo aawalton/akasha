@@ -18,7 +18,8 @@ export const seatTerminalOpenLine = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The row read is the one tmux says the pane's cursor sits on.",
+      statement:
+        "The rows read run from the pane's top row down to the row tmux says the pane's cursor sits on.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,7 +27,43 @@ export const seatTerminalOpenLine = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The line is that row past those two columns.",
+      statement:
+        "The line is the rows the prompt wrapped it onto, each past those two columns, joined by a space.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The prompt wraps by words, and a row it wraps onto has only those two columns before its words.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The prompt breaks a row within a column or two of the pane's width, and not at one fixed column.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A row is wrapped onto where the row above, a space and its first word run past the width less four.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A row opening with a list marker starts a line, so a marker alone is never read as wrapped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A row opening with a space or the prompt's marker, or under no prompt row, starts a line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A line ended by hand within a word of the pane's width is read as wrapped onto the row under it.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "A line whose start the prompt scrolled out of sight opens a line carrying that line's own prefix.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -44,10 +81,7 @@ export const seatTerminalOpenLine = {
       decisionKind: "decision-kind/departure",
       statement: "The editor is handed in rather than imported.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A line the prompt wrapped opens a line carrying that line's own prefix.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "No tab reaches the prompt, so no indent read off it is a tab.",
@@ -86,6 +120,10 @@ export const seatTerminalOpenLine = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The column the cursor sits at is read off the same pane line its row is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "On a wrapped row the column counts every row of the line above it as well.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -16,7 +16,15 @@ export const OPEN_LINE_COMMAND = "opsAgentTree.openLineInSeatTerminal"
 
 const GUTTER = 2
 
-const PANE_FORMAT = "#{pane_id} #{cursor_y} #{cursor_x} #{pane_in_mode}"
+const PANE_FORMAT = "#{pane_id} #{cursor_y} #{cursor_x} #{pane_width} #{pane_in_mode}"
+
+const PROMPT_MARKER = "❯"
+
+const WRAP_MARGIN = 4
+
+const FIRST_WORD = /^\S*/
+
+const ITEM_START = /^(?:\d+[.)]|[-*+])(?:\s|$)/
 
 const NOT_IN_MODE = "0"
 
@@ -44,15 +52,45 @@ export function lineIn(row: string): string {
   return row.replace(/\n+$/, "").slice(GUTTER)
 }
 
+export function wrapsOnto(above: string, row: string, width: number): boolean {
+  if (!above.startsWith(PROMPT_MARKER) && !above.startsWith(" ".repeat(GUTTER))) {
+    return false
+  }
+  if (!row.startsWith(" ".repeat(GUTTER))) {
+    return false
+  }
+  const line = lineIn(row)
+  const word = FIRST_WORD.exec(line)?.[0] ?? ""
+  if (word === "" || ITEM_START.test(line)) {
+    return false
+  }
+  return above.length + 1 + word.length > width - WRAP_MARGIN
+}
+
 export interface PaneAt {
   readonly pane: string
   readonly cursorY: number
   readonly cursorX: number
+  readonly width: number
 }
 
 export interface CursorLine {
   readonly line: string
   readonly column: number
+}
+
+export function cursorLineIn(rows: readonly string[], cursorX: number, width: number): CursorLine {
+  let start = rows.length - 1
+  while (start > 0 && wrapsOnto(rows[start - 1] ?? "", rows[start] ?? "", width)) {
+    start -= 1
+  }
+  const lines = rows.slice(start).map(lineIn)
+  const before = lines
+    .slice(0, -1)
+    .map((line) => `${line} `)
+    .join("")
+  const cursorRow = lines[lines.length - 1] ?? ""
+  return { line: `${before}${cursorRow}`, column: before.length + Math.max(0, cursorX - GUTTER) }
 }
 
 export function paneIn(said: string): PaneAt | null {
@@ -61,7 +99,8 @@ export function paneIn(said: string): PaneAt | null {
   const pane = parts[0] ?? ""
   const cursorY = Number(parts[1] ?? "")
   const cursorX = Number(parts[2] ?? "")
-  if (pane === "" || parts[3] !== NOT_IN_MODE) {
+  const width = Number(parts[3] ?? "")
+  if (pane === "" || parts[4] !== NOT_IN_MODE) {
     return null
   }
   if (!Number.isInteger(cursorY) || cursorY < 0) {
@@ -70,7 +109,10 @@ export function paneIn(said: string): PaneAt | null {
   if (!Number.isInteger(cursorX) || cursorX < 0) {
     return null
   }
-  return { pane, cursorY, cursorX }
+  if (!Number.isInteger(width) || width <= 0) {
+    return null
+  }
+  return { pane, cursorY, cursorX, width }
 }
 
 export type AskTmux = (argv: readonly string[]) => Promise<string | null>
@@ -99,20 +141,11 @@ export async function cursorLineOf(seat: string, ask: AskTmux): Promise<CursorLi
   if (at === null) {
     return null
   }
-  const row = await ask([
-    "capture-pane",
-    "-p",
-    "-t",
-    at.pane,
-    "-S",
-    String(at.cursorY),
-    "-E",
-    String(at.cursorY),
-  ])
-  if (row === null) {
+  const said = await ask(["capture-pane", "-p", "-t", at.pane, "-S", "0", "-E", String(at.cursorY)])
+  if (said === null) {
     return null
   }
-  return { line: lineIn(row), column: Math.max(0, at.cursorX - GUTTER) }
+  return cursorLineIn(said.replace(/\n$/, "").split("\n"), at.cursorX, at.width)
 }
 
 function held(): readonly Held[] {
