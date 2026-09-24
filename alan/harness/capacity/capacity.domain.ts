@@ -4,7 +4,7 @@ export const capacity = {
   id: "01a06230-614e-7825-b4af-dd84fd42f0ce",
   type: "page-type/domain",
   slug: "capacity",
-  definition: "how much stress capacity Alan's day has left him in hand",
+  definition: "the stress Alan can endure on a day",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "capacity" }],
   parts: [
     "module/capacity-reading",
