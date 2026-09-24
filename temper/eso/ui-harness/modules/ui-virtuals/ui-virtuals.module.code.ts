@@ -6,7 +6,7 @@ import {
   type VirtualTable,
   withBases,
 } from "akasha/temper/eso/ui-harness/modules/ui-inheritance/ui-inheritance.module.code.ts"
-import { JSDOM } from "jsdom"
+import { type DOMParser, type Document, type Element, Window } from "happy-dom"
 import { z } from "zod"
 
 function numbered(
@@ -78,10 +78,16 @@ let cachedParser: DOMParser | null = null
 
 function domParser(): DOMParser {
   if (cachedParser === null) {
-    const madeBy = new JSDOM().window.DOMParser
+    const madeBy = new Window().DOMParser
     cachedParser = new madeBy()
   }
   return cachedParser
+}
+
+const LINE_BREAK = /\r\n?/g
+
+function parsedXml(text: string): Document {
+  return domParser().parseFromString(text.replace(LINE_BREAK, "\n"), "application/xml")
 }
 
 function numberOr(text: string | null, fallback: number): number {
@@ -362,11 +368,9 @@ export function declaredLua(
 }
 
 export function declaredFrom(documents: readonly string[], virtuals: VirtualTable): VirtualTable {
-  const parser = domParser()
   const table: Record<string, VirtualNode> = {}
   for (const text of documents) {
-    const doc = parser.parseFromString(text, "application/xml")
-    for (const element of doc.querySelectorAll("GuiXml > Controls > *")) {
+    for (const element of parsedXml(text).querySelectorAll("GuiXml > Controls > *")) {
       if (element.getAttribute("virtual") === "true") continue
       const name = element.getAttribute("name")
       if (name === null || name === "") continue
@@ -382,12 +386,10 @@ export function declaredFrom(documents: readonly string[], virtuals: VirtualTabl
 }
 
 export function virtualsFrom(documents: readonly string[]): VirtualTable {
-  const parser = domParser()
   const raw = new Map<string, VirtualNode>()
   const inherits = new Map<string, readonly string[]>()
   for (const text of documents) {
-    const doc = parser.parseFromString(text, "application/xml")
-    for (const element of doc.querySelectorAll("[virtual='true']")) {
+    for (const element of parsedXml(text).querySelectorAll("[virtual='true']")) {
       const name = element.getAttribute("name")
       if (name === null || name === "") continue
       raw.set(name, nodeOf(element))
