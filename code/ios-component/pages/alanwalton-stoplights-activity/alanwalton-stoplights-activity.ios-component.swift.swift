@@ -20,6 +20,8 @@ extension ActivityStoplight {
     var drawn: Tier { Tier(rawValue: tier) ?? .black }
 
     var drawnNext: Tier? { nextTier.flatMap { Tier(rawValue: $0) } }
+
+    var noSignal: Bool { readingHeld == NO_READING_HELD }
 }
 
 // THE WORST COLOR ON THE LIST IS WHAT THE SMALLEST DRAWING OF IT SHOWS.
@@ -68,7 +70,8 @@ struct StoplightsActivityRow: View {
                     nextTier: light.drawnNext,
                     progress: light.progress,
                     label: light.label,
-                    figureOffScale: true
+                    figureOffScale: true,
+                    noSignal: light.noSignal
                 )
                 .frame(width: ACTIVITY_RING_WIDTH)
             }
@@ -114,7 +117,8 @@ struct StoplightsIslandView: View {
                     nextTier: light.drawnNext,
                     progress: light.progress,
                     label: nil,
-                    figureOffScale: true
+                    figureOffScale: true,
+                    noSignal: light.noSignal
                 )
                 .frame(maxWidth: .infinity)
             }
