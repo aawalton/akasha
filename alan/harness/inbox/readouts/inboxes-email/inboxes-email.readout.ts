@@ -5,7 +5,6 @@ export const inboxesEmail = {
   type: "page-type/readout",
   slug: "inboxes-email",
   definition: "how near Alan's mail came to empty today",
-  reading: {},
   label: "Email",
   unit: "messages",
   place: 1,

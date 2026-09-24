@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/inbox/modules/count-writing/inbox-count-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/inbox/modules/reading/inbox-reading.module.code.ts"}
-{"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/inbox/readouts/inboxes-email/inboxes-email.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/plant/readouts/upkeep-plants/upkeep-plants.readout.reading.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"readout-tier.module.code.ts","path":"alan/harness/readout/modules/scale-reading/readout-scale-reading.module.code.ts"}
