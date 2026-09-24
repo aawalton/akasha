@@ -5,7 +5,12 @@ export const rulesEngine = {
   type: "page-type/domain",
   slug: "rules-engine",
   definition: "every rule set's input",
-
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "rules engine rule" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "rules engine rules" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "rule", scope: "domain/rules-engine" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "rules", scope: "domain/rules-engine" },
+  ],
   parts: [
     "domain/rules-engine-field",
     "module/instructions-rule",
