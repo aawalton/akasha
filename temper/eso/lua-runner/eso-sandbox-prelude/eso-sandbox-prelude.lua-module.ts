@@ -60,6 +60,16 @@ export const esoSandboxPrelude = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A name the caller leaves unstubbed by name answers with nothing until something defines it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Many names are left unstubbed in one call, and each is looked up rather than matched.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A banned name is taken off the real globals as well.",
     },
     {

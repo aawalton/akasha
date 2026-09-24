@@ -81,8 +81,15 @@ function __eso_leave_unstubbed(shape)
   unstubbed[#unstubbed + 1] = shape
 end
 
+local unstubbed_names = {}
+
+function __eso_leave_names_unstubbed(given)
+  for _, name in _pairs(given) do unstubbed_names[name] = true end
+end
+
 local function left_unstubbed(key)
   if type(key) ~= "string" then return false end
+  if unstubbed_names[key] then return true end
   for _, shape in _pairs(unstubbed) do
     if key:match(shape) then return true end
   end
