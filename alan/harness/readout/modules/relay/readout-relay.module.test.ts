@@ -7,11 +7,11 @@ import {
   keepRelayed,
   noReadoutPageAt,
   noReadoutSlugged,
+  parseRelayed,
   RELAY_PATH,
   RELAY_SECRET_NAME,
   readoutNamedBy,
   readoutPageAt,
-  relayedIn,
   relayReading,
   type Sent,
   statedIn,
@@ -21,6 +21,7 @@ import type {
   Fetcher,
   Sleeper,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { z } from "zod"
 
 const READOUT = "monarch-unreviewed-transactions"
 
@@ -49,6 +50,15 @@ const naps: Sleeper = async () => undefined
 
 type Asked = { readonly at: string; readonly body: Record<string, unknown> }
 
+const ASKED_BODY = z.record(z.string(), z.unknown())
+
+const CARRIED_BODY = z.strictObject({
+  readout: z.string(),
+  value: z.number(),
+  at: z.string(),
+  fallsPerHour: z.number(),
+})
+
 function storeAnswering(
   read: unknown,
   wrote: unknown
@@ -56,7 +66,7 @@ function storeAnswering(
   const asked: Asked[] = []
   const fetcher: Fetcher = async (url, init) => {
     const at = new URL(url).pathname
-    asked.push({ at, body: JSON.parse(String(init.body)) as Record<string, unknown> })
+    asked.push({ at, body: ASKED_BODY.parse(JSON.parse(String(init.body))) })
     return Response.json(at === "/read" ? read : wrote)
   }
   return { asked, fetcher }
@@ -99,46 +109,48 @@ test("a store refusing the write answers why rather than counting the reading wr
 })
 
 test("a whole reading is taken off the wire", () => {
-  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN })).toEqual(carried(19))
+  expect(parseRelayed({ readout: READOUT, value: 19, at: TAKEN })).toEqual(carried(19))
 })
 
 test("a body naming a rate carries that rate rather than dropping it", () => {
-  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: 2 })).toEqual(
+  expect(parseRelayed({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: 2 })).toEqual(
     carried(19, TAKEN, 2)
   )
 })
 
 test("a body naming no rate is carried as a reading falling at nothing an hour", () => {
-  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN })?.fallsPerHour).toBe(0)
+  expect(parseRelayed({ readout: READOUT, value: 19, at: TAKEN })?.fallsPerHour).toBe(0)
 })
 
 test("a rate that is no finite number is refused rather than carried", () => {
-  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: "2" })).toBeNull()
-  expect(relayedIn({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: Number.NaN })).toBeNull()
+  expect(parseRelayed({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: "2" })).toBeNull()
+  expect(
+    parseRelayed({ readout: READOUT, value: 19, at: TAKEN, fallsPerHour: Number.NaN })
+  ).toBeNull()
 })
 
 test("a body that is not a whole reading is refused rather than held", () => {
-  expect(relayedIn({ readout: READOUT, value: 19 })).toBeNull()
-  expect(relayedIn({ readout: READOUT, at: TAKEN })).toBeNull()
-  expect(relayedIn({ value: 19, at: TAKEN })).toBeNull()
-  expect(relayedIn({ readout: READOUT, value: Number.NaN, at: TAKEN })).toBeNull()
-  expect(relayedIn({ readout: READOUT, value: Number.POSITIVE_INFINITY, at: TAKEN })).toBeNull()
-  expect(relayedIn({ readout: READOUT, value: "19", at: TAKEN })).toBeNull()
-  expect(relayedIn({ readout: "", value: 19, at: TAKEN })).toBeNull()
-  expect(relayedIn("19")).toBeNull()
-  expect(relayedIn(null)).toBeNull()
+  expect(parseRelayed({ readout: READOUT, value: 19 })).toBeNull()
+  expect(parseRelayed({ readout: READOUT, at: TAKEN })).toBeNull()
+  expect(parseRelayed({ value: 19, at: TAKEN })).toBeNull()
+  expect(parseRelayed({ readout: READOUT, value: Number.NaN, at: TAKEN })).toBeNull()
+  expect(parseRelayed({ readout: READOUT, value: Number.POSITIVE_INFINITY, at: TAKEN })).toBeNull()
+  expect(parseRelayed({ readout: READOUT, value: "19", at: TAKEN })).toBeNull()
+  expect(parseRelayed({ readout: "", value: 19, at: TAKEN })).toBeNull()
+  expect(parseRelayed("19")).toBeNull()
+  expect(parseRelayed(null)).toBeNull()
 })
 
 test("a reading below zero is carried rather than refused", () => {
-  expect(relayedIn({ readout: READOUT, value: -2, at: TAKEN })).toEqual(carried(-2))
+  expect(parseRelayed({ readout: READOUT, value: -2, at: TAKEN })).toEqual(carried(-2))
 })
 
 test("a reading between two whole numbers is carried rather than refused", () => {
-  expect(relayedIn({ readout: READOUT, value: -1.5, at: TAKEN })).toEqual(carried(-1.5))
+  expect(parseRelayed({ readout: READOUT, value: -1.5, at: TAKEN })).toEqual(carried(-1.5))
 })
 
 test("a moment that cannot be read is no reading", () => {
-  expect(relayedIn({ readout: READOUT, value: 19, at: "never" })).toBeNull()
+  expect(parseRelayed({ readout: READOUT, value: 19, at: "never" })).toBeNull()
 })
 
 test("the readout carried under is read off the name of the page it was named by", () => {
@@ -155,7 +167,7 @@ test("a carrier presents the relay secret and the moment the reading was taken",
     sent.push({
       to: to.href,
       secret: new Headers(init.headers).get(RELAY_SECRET_HEADER),
-      body: JSON.parse(String(init.body)),
+      body: CARRIED_BODY.parse(JSON.parse(String(init.body))),
     })
     return new Response(null, { status: 204 })
   }
@@ -172,7 +184,7 @@ test("a carrier presents the relay secret and the moment the reading was taken",
 test("what a carrier sends is what a receiver takes off the wire", async () => {
   const taken: unknown[] = []
   const send: Sent = async (_to, init) => {
-    const one = relayedIn(JSON.parse(String(init.body)))
+    const one = parseRelayed(JSON.parse(String(init.body)))
     taken.push(one)
     return new Response(null, { status: one === null ? 400 : 204 })
   }

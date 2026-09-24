@@ -6,8 +6,8 @@ import {
 } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
 import {
   keepRelayed,
+  parseRelayed,
   RELAY_SECRET_NAME,
-  relayedIn,
 } from "akasha/alan/harness/readout/modules/relay/readout-relay.module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import type { Route } from "./+types/readout-relay.route.code"
@@ -29,7 +29,7 @@ export async function action({ request }: Route.ActionArgs): Promise<Response> {
     return buildReadoutRefusal()
   }
 
-  const carried = relayedIn(await request.json().catch(() => null))
+  const carried = parseRelayed(await request.json().catch(() => null))
   if (carried === null) {
     return Response.json(NO_READING_IN_THE_BODY, {
       status: 400,

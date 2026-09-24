@@ -59,7 +59,7 @@ const relayed = z.object({
   fallsPerHour: z.number().finite().default(NOT_FALLING),
 })
 
-export function relayedIn(body: unknown): Relayed | null {
+export function parseRelayed(body: unknown): Relayed | null {
   const parsed = relayed.safeParse(body)
   if (!parsed.success) return null
   if (Number.isNaN(Date.parse(parsed.data.at))) return null
