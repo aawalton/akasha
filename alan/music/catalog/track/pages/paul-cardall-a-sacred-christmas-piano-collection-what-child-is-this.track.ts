@@ -12,7 +12,7 @@ export const paulCardallASacredChristmasPianoCollectionWhatChildIsThis = {
   title: "What Child Is This?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "whatchildisthis|7FQRbf8gbKw8KZQZAJWxH2|187350",
   song: "song/paul-cardall-what-child-is-this",
   carriedBy: [

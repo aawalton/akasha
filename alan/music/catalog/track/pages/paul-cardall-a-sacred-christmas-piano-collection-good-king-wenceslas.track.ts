@@ -12,7 +12,7 @@ export const paulCardallASacredChristmasPianoCollectionGoodKingWenceslas = {
   title: "Good King Wenceslas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "goodkingwenceslas|7FQRbf8gbKw8KZQZAJWxH2|274442",
   song: "song/paul-cardall-good-king-wenceslas",
   carriedBy: [

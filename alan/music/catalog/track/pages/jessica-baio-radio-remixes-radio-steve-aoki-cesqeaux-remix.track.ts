@@ -13,11 +13,11 @@ export const jessicaBaioRadioRemixesRadioSteveAokiCesqeauxRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "77AiFEVeAVj2ORpC85QVJs", artistName: "Steve Aoki" },
-    { externalId: "6Xgp2XMz1fhVYe7i6yNAax", artistName: "Trippie Redd" },
-    { externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" },
-    { externalId: "5QvkIWJdNyVeqs1FgVOEg7", artistName: "KABU" },
-    { externalId: "1EAFXic0Cfiwpe7nSuTrGL", artistName: "Cesqeaux" },
+    { artistName: "Steve Aoki" },
+    { artistName: "Trippie Redd" },
+    { artist: "artist/jessica-baio" },
+    { artistName: "KABU" },
+    { artistName: "Cesqeaux" },
   ],
   trackKey:
     "radiosteveaokicesqeauxremix|0VMFTqmv0hYlWruyBERT95,1EAFXic0Cfiwpe7nSuTrGL,5QvkIWJdNyVeqs1FgVOEg7,6Xgp2XMz1fhVYe7i6yNAax,77AiFEVeAVj2ORpC85QVJs|218666",

@@ -12,7 +12,7 @@ export const lilithMaxTraitorToMyselfTraitorToMyself = {
   title: "Traitor To Myself",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "traitortomyself|797SPxZf82IYq3XCM8c9AM|198211",
   song: "song/lilith-max-traitor-to-myself",
   carriedBy: [

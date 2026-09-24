@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekReasonsWhy = {
   title: "Reasons Why",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "reasonswhy|3bcLBxvaI7GsBzGp3WHnwQ|248640",
   song: "song/nickel-creek-reasons-why",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysFatherInHeaven = {
   title: "Father in Heaven",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "fatherinheaven|7FQRbf8gbKw8KZQZAJWxH2|147626",
   song: "song/paul-cardall-father-in-heaven",
   carriedBy: [

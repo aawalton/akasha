@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarAveMaria = {
   title: "Ave Maria",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "avemaria|7FQRbf8gbKw8KZQZAJWxH2|213000",
   song: "song/paul-cardall-ave-maria",
   carriedBy: [

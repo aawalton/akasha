@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueTlit21c = {
   title: "tlit21c",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "tlit21c|4pfy05cNNTacuOQ6SiSu4v|66666",
   song: "song/lyn-lapid-tlit21c",
   carriedBy: [

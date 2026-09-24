@@ -12,7 +12,7 @@ export const jisooMeFlower = {
   title: "FLOWER",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
+  trackArtist: [{ artist: "artist/jisoo" }],
   trackKey: "flower|6UZ0ba50XreR4TM8u322gs|173134",
   song: "song/jisoo-flower",
   carriedBy: [

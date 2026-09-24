@@ -12,7 +12,7 @@ export const lynLapidTheOutsiderEpComatose = {
   title: "Comatose",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "comatose|4pfy05cNNTacuOQ6SiSu4v|138933",
   song: "song/lyn-lapid-comatose",
   carriedBy: [

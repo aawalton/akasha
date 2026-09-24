@@ -12,7 +12,7 @@ export const nickelCreek2ReasonSWhyTheVeryBestCantComplain = {
   title: "Can’t Complain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "cantcomplain|3bcLBxvaI7GsBzGp3WHnwQ|331053",
   song: "song/nickel-creek-cant-complain",
   carriedBy: [

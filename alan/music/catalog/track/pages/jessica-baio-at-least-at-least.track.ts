@@ -12,7 +12,7 @@ export const jessicaBaioAtLeastAtLeast = {
   title: "at least",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "atleast|0VMFTqmv0hYlWruyBERT95|167502",
   song: "song/jessica-baio-at-least",
   carriedBy: [

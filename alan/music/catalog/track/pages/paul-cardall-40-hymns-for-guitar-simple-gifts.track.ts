@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarSimpleGifts = {
   title: "Simple Gifts",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "simplegifts|7FQRbf8gbKw8KZQZAJWxH2|228010",
   song: "song/paul-cardall-simple-gifts",
   carriedBy: [

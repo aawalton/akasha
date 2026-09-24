@@ -12,7 +12,7 @@ export const lilithMaxStorybookChampagneCigarettes = {
   title: "Champagne & Cigarettes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "champagnecigarettes|797SPxZf82IYq3XCM8c9AM|147791",
   song: "song/lilith-max-champagne-cigarettes",
   carriedBy: [

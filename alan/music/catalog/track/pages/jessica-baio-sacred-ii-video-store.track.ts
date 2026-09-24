@@ -12,7 +12,7 @@ export const jessicaBaioSacredIiVideoStore = {
   title: "video store",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "videostore|0VMFTqmv0hYlWruyBERT95|170844",
   song: "song/jessica-baio-video-store",
   carriedBy: [

@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterJealousOfTheMoonLive = {
   title: "Jealous of the Moon - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "jealousofthemoonlive|3bcLBxvaI7GsBzGp3WHnwQ|329272",
   song: "song/nickel-creek-jealous-of-the-moon",
   carriedBy: [

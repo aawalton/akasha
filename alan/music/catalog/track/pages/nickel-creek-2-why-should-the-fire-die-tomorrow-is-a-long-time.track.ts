@@ -12,7 +12,7 @@ export const nickelCreek2WhyShouldTheFireDieTomorrowIsALongTime = {
   title: "Tomorrow Is A Long Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "tomorrowisalongtime|3bcLBxvaI7GsBzGp3WHnwQ|216306",
   song: "song/nickel-creek-tomorrow-is-a-long-time",
   carriedBy: [

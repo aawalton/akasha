@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterHelenaLive = {
   title: "Helena - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "helenalive|3bcLBxvaI7GsBzGp3WHnwQ|410986",
   song: "song/nickel-creek-helena",
   carriedBy: [

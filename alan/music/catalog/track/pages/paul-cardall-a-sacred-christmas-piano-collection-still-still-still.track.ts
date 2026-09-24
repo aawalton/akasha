@@ -12,7 +12,7 @@ export const paulCardallASacredChristmasPianoCollectionStillStillStill = {
   title: "Still, Still, Still",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "stillstillstill|7FQRbf8gbKw8KZQZAJWxH2|138266",
   song: "song/paul-cardall-still-still-still",
   carriedBy: [

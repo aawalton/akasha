@@ -12,7 +12,7 @@ export const lynLapidBuzzkillForeverFloaterFriend = {
   title: "floater friend",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "floaterfriend|4pfy05cNNTacuOQ6SiSu4v|202400",
   song: "song/lyn-lapid-floater-friend",
   carriedBy: [

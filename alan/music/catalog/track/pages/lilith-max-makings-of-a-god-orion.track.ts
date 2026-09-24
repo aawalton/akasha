@@ -12,7 +12,7 @@ export const lilithMaxMakingsOfAGodOrion = {
   title: "Orion",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "orion|797SPxZf82IYq3XCM8c9AM|166531",
   song: "song/lilith-max-orion",
   carriedBy: [

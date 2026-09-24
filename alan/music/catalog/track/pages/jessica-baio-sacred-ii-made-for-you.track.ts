@@ -12,7 +12,7 @@ export const jessicaBaioSacredIiMadeForYou = {
   title: "made for you",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "madeforyou|0VMFTqmv0hYlWruyBERT95|181935",
   song: "song/jessica-baio-made-for-you",
   carriedBy: [

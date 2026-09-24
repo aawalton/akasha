@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueIntro = {
   title: "intro",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "intro|4pfy05cNNTacuOQ6SiSu4v|70706",
   song: "song/lyn-lapid-intro",
   carriedBy: [

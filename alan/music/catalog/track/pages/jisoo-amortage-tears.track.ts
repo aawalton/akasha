@@ -12,7 +12,7 @@ export const jisooAmortageTears = {
   title: "TEARS",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
+  trackArtist: [{ artist: "artist/jisoo" }],
   trackKey: "tears|6UZ0ba50XreR4TM8u322gs|182221",
   song: "song/jisoo-tears",
   carriedBy: [

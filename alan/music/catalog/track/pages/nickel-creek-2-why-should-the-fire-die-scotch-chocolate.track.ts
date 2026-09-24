@@ -12,7 +12,7 @@ export const nickelCreek2WhyShouldTheFireDieScotchChocolate = {
   title: "Scotch & Chocolate",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "scotchchocolate|3bcLBxvaI7GsBzGp3WHnwQ|187906",
   song: "song/nickel-creek-scotch-chocolate",
   carriedBy: [

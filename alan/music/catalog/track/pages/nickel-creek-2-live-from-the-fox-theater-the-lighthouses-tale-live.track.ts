@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterTheLighthousesTaleLive = {
   title: "The Lighthouse's Tale - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "thelighthousestalelive|3bcLBxvaI7GsBzGp3WHnwQ|354143",
   song: "song/nickel-creek-the-lighthouses-tale",
   carriedBy: [

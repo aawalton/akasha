@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterElephantInTheCornLive = {
   title: "Elephant in the Corn - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "elephantinthecornlive|3bcLBxvaI7GsBzGp3WHnwQ|345856",
   song: "song/nickel-creek-elephant-in-the-corn",
   carriedBy: [

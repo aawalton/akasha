@@ -12,7 +12,7 @@ export const nickelCreek2WhyShouldTheFireDieAnthony = {
   title: "Anthony",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "anthony|3bcLBxvaI7GsBzGp3WHnwQ|115693",
   song: "song/nickel-creek-anthony",
   carriedBy: [

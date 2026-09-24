@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideBrandNewSidewalk = {
   title: "Brand New Sidewalk",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "brandnewsidewalk|3bcLBxvaI7GsBzGp3WHnwQ|256893",
   song: "song/nickel-creek-brand-new-sidewalk",
   carriedBy: [

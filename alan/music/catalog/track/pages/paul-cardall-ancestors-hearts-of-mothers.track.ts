@@ -12,7 +12,7 @@ export const paulCardallAncestorsHeartsOfMothers = {
   title: "Hearts of Mothers",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "heartsofmothers|7FQRbf8gbKw8KZQZAJWxH2|199338",
   song: "song/paul-cardall-hearts-of-mothers",
   carriedBy: [

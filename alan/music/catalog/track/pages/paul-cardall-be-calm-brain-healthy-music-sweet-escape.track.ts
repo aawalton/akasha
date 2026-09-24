@@ -15,7 +15,7 @@ export const paulCardallBeCalmBrainHealthyMusicSweetEscape = {
   title: "Sweet Escape",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "sweetescape|7FQRbf8gbKw8KZQZAJWxH2|188613",
   song: "song/paul-cardall-sweet-escape",
   carriedBy: [

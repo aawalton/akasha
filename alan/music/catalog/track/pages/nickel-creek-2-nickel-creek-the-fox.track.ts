@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekTheFox = {
   title: "The Fox",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "thefox|3bcLBxvaI7GsBzGp3WHnwQ|150040",
   song: "song/nickel-creek-the-fox",
   carriedBy: [

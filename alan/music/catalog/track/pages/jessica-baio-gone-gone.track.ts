@@ -12,7 +12,7 @@ export const jessicaBaioGoneGone = {
   title: "gone",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "gone|0VMFTqmv0hYlWruyBERT95|191615",
   song: "song/jessica-baio-gone",
   carriedBy: [

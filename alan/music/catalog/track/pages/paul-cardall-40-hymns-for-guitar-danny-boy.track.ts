@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarDannyBoy = {
   title: "Danny Boy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "dannyboy|7FQRbf8gbKw8KZQZAJWxH2|165205",
   song: "song/paul-cardall-danny-boy",
   carriedBy: [

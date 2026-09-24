@@ -12,7 +12,7 @@ export const lynLapidInMyMindInfinite = {
   title: "Infinite",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "infinite|4pfy05cNNTacuOQ6SiSu4v|227436",
   song: "song/lyn-lapid-infinite",
   carriedBy: [

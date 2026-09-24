@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsStrangers = {
   title: "Strangers",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "strangers|3bcLBxvaI7GsBzGp3WHnwQ|284481",
   song: "song/nickel-creek-strangers",
   carriedBy: [

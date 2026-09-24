@@ -12,7 +12,7 @@ export const nickelCreek2ADottedLineChristmasEve = {
   title: "Christmas Eve",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "christmaseve|3bcLBxvaI7GsBzGp3WHnwQ|262786",
   song: "song/nickel-creek-christmas-eve",
   carriedBy: [

@@ -12,7 +12,7 @@ export const lynLapidWinterWishesChristmasYouDeserve = {
   title: "christmas you deserve",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "christmasyoudeserve|4pfy05cNNTacuOQ6SiSu4v|152120",
   song: "song/lyn-lapid-christmas-you-deserve",
   carriedBy: [

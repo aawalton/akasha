@@ -12,7 +12,7 @@ export const paulCardallAscensusAscensusChristiOrchestraMotif = {
   title: "Ascensus Christi: Orchestra Motif",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ascensuschristiorchestramotif|7FQRbf8gbKw8KZQZAJWxH2|86000",
   song: "song/paul-cardall-ascensus-christi-orchestra-motif",
   carriedBy: [

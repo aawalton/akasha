@@ -12,10 +12,7 @@ export const jennaRaineSeeYouLaterSeeYouLaterTenYearsFeatJvke = {
   title: "see you later (ten years) [feat. JVKE]",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" },
-    { externalId: "164Uj4eKjl6zTBKfJLFKKK", artistName: "JVKE" },
-  ],
+  trackArtist: [{ artist: "artist/jenna-raine" }, { artistName: "JVKE" }],
   trackKey: "seeyoulatertenyearsfeatjvke|164Uj4eKjl6zTBKfJLFKKK,3aHe9rMa5HFTjXHw8tEz0A|189514",
   song: "song/jenna-raine-see-you-later-ten-years",
   carriedBy: [

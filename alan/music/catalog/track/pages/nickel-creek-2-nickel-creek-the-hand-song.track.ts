@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekTheHandSong = {
   title: "The Hand Song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "thehandsong|3bcLBxvaI7GsBzGp3WHnwQ|266760",
   song: "song/nickel-creek-the-hand-song",
   carriedBy: [

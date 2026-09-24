@@ -12,7 +12,7 @@ export const nickelCreek2WhyShouldTheFireDieWhyShouldTheFireDie = {
   title: "Why Should The Fire Die?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "whyshouldthefiredie|3bcLBxvaI7GsBzGp3WHnwQ|170746",
   song: "song/nickel-creek-why-should-the-fire-die",
   carriedBy: [

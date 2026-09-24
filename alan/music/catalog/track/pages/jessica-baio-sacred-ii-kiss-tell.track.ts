@@ -12,7 +12,7 @@ export const jessicaBaioSacredIiKissTell = {
   title: "kiss & tell",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "kisstell|0VMFTqmv0hYlWruyBERT95|144466",
   song: "song/jessica-baio-kiss-tell",
   carriedBy: [

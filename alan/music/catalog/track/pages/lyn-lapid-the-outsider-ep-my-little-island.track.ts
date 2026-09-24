@@ -12,7 +12,7 @@ export const lynLapidTheOutsiderEpMyLittleIsland = {
   title: "My Little Island",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "mylittleisland|4pfy05cNNTacuOQ6SiSu4v|189320",
   song: "song/lyn-lapid-my-little-island",
   carriedBy: [

@@ -12,7 +12,7 @@ export const lynLapidTheOutsiderEpOffDay = {
   title: "Off Day",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "offday|4pfy05cNNTacuOQ6SiSu4v|228493",
   song: "song/lyn-lapid-off-day",
   carriedBy: [

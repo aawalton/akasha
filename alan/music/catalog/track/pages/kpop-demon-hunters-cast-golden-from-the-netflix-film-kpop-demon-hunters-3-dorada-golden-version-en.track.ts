@@ -16,11 +16,11 @@ export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHunters3Dorada
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "2yNNYQBChuox9A5Ka93BIn", artistName: "HUNTR/X" },
-    { externalId: "24kxuyk9GrzdLsfOPVh9eh", artistName: "Azul Botticher" },
-    { externalId: "67afWZ5rzDaG2uetK538yB", artistName: "Karin Zavala" },
-    { externalId: "1piD21CWhxmg3uk1tFuO1p", artistName: "Tatul Bernodat" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+    { artistName: "HUNTR/X" },
+    { artistName: "Azul Botticher" },
+    { artistName: "Karin Zavala" },
+    { artistName: "Tatul Bernodat" },
+    { artist: "artist/kpop-demon-hunters-cast" },
   ],
   trackKey:
     "doradagoldenversionenespanol|1piD21CWhxmg3uk1tFuO1p,24kxuyk9GrzdLsfOPVh9eh,2yNNYQBChuox9A5Ka93BIn,67afWZ5rzDaG2uetK538yB,7mW7Tv7NvywKKXqafZo0Lc|192974",

@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueOkWithIt = {
   title: "ok with it",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "okwithit|4pfy05cNNTacuOQ6SiSu4v|165800",
   song: "song/lyn-lapid-ok-with-it",
   carriedBy: [

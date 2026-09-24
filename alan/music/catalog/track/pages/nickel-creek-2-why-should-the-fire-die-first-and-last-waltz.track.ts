@@ -12,7 +12,7 @@ export const nickelCreek2WhyShouldTheFireDieFirstAndLastWaltz = {
   title: "First And Last Waltz",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "firstandlastwaltz|3bcLBxvaI7GsBzGp3WHnwQ|113506",
   song: "song/nickel-creek-first-and-last-waltz",
   carriedBy: [

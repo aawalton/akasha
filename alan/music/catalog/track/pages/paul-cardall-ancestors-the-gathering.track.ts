@@ -12,7 +12,7 @@ export const paulCardallAncestorsTheGathering = {
   title: "The Gathering",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thegathering|7FQRbf8gbKw8KZQZAJWxH2|204840",
   song: "song/paul-cardall-the-gathering",
   carriedBy: [

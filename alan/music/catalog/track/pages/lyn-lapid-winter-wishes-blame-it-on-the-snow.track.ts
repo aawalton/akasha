@@ -12,7 +12,7 @@ export const lynLapidWinterWishesBlameItOnTheSnow = {
   title: "blame it on the snow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "blameitonthesnow|4pfy05cNNTacuOQ6SiSu4v|155840",
   song: "song/lyn-lapid-blame-it-on-the-snow",
   carriedBy: [

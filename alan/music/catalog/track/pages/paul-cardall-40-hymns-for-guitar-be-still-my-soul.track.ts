@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarBeStillMySoul = {
   title: "Be Still, My Soul",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "bestillmysoul|7FQRbf8gbKw8KZQZAJWxH2|189781",
   song: "song/paul-cardall-be-still-my-soul",
   carriedBy: [

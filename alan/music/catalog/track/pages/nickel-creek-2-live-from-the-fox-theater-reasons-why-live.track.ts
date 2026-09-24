@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterReasonsWhyLive = {
   title: "Reasons Why - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "reasonswhylive|3bcLBxvaI7GsBzGp3WHnwQ|304437",
   song: "song/nickel-creek-reasons-why",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jessicaBaioPetalsMetaphor = {
   title: "metaphor",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "metaphor|0VMFTqmv0hYlWruyBERT95|139324",
   song: "song/jessica-baio-metaphor",
   carriedBy: [

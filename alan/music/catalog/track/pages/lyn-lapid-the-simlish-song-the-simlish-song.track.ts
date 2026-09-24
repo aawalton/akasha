@@ -12,7 +12,7 @@ export const lynLapidTheSimlishSongTheSimlishSong = {
   title: "the simlish song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "thesimlishsong|4pfy05cNNTacuOQ6SiSu4v|199048",
   song: "song/lyn-lapid-the-simlish-song",
   carriedBy: [

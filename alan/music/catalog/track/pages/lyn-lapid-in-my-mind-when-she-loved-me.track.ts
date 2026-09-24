@@ -12,7 +12,7 @@ export const lynLapidInMyMindWhenSheLovedMe = {
   title: "When She Loved Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "whenshelovedme|4pfy05cNNTacuOQ6SiSu4v|187709",
   song: "song/lyn-lapid-when-she-loved-me",
   carriedBy: [

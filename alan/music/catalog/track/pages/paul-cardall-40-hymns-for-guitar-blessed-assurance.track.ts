@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarBlessedAssurance = {
   title: "Blessed Assurance",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "blessedassurance|7FQRbf8gbKw8KZQZAJWxH2|164000",
   song: "song/paul-cardall-blessed-assurance",
   carriedBy: [

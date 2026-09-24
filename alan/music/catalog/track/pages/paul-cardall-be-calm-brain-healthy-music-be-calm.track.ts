@@ -12,7 +12,7 @@ export const paulCardallBeCalmBrainHealthyMusicBeCalm = {
   title: "Be Calm",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "becalm|7FQRbf8gbKw8KZQZAJWxH2|322572",
   song: "song/paul-cardall-be-calm",
   carriedBy: [

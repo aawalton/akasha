@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysWeThankTheeOGodForAProphet = {
   title: "We Thank Thee, O God, for a Prophet",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "wethanktheeogodforaprophet|7FQRbf8gbKw8KZQZAJWxH2|261560",
   song: "song/paul-cardall-we-thank-thee-o-god-for-a-prophet",
   carriedBy: [

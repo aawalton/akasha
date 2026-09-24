@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekCuckoosNest = {
   title: "Cuckoo's Nest",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "cuckoosnest|3bcLBxvaI7GsBzGp3WHnwQ|139644",
   song: "song/nickel-creek-cuckoos-nest",
   carriedBy: [

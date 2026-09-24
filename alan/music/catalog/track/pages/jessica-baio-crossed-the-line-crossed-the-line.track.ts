@@ -12,7 +12,7 @@ export const jessicaBaioCrossedTheLineCrossedTheLine = {
   title: "crossed the line",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "crossedtheline|0VMFTqmv0hYlWruyBERT95|163805",
   song: "song/jessica-baio-crossed-the-line",
   carriedBy: [

@@ -16,7 +16,7 @@ export const jessicaBaioSacredIiAccident = {
   title: "accident",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "accident|0VMFTqmv0hYlWruyBERT95|197014",
   song: "song/jessica-baio-accident",
   carriedBy: [

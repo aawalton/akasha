@@ -15,7 +15,7 @@ export const paulCardallAnEveningInParisAnEveningInParis = {
   title: "An Evening In Paris",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "aneveninginparis|7FQRbf8gbKw8KZQZAJWxH2|308138",
   song: "song/paul-cardall-an-evening-in-paris",
   carriedBy: [

@@ -12,10 +12,7 @@ export const jessicaBaioAllISawWasYouFeatJessicaBaioAllISawWasYouFeatJessicaBaio
   title: "ALL I SAW WAS YOU (feat. Jessica Baio)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7qX6R9NU7sWD66KLlYKnju", artistName: "Johnny Huynh" },
-    { externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" },
-  ],
+  trackArtist: [{ artistName: "Johnny Huynh" }, { artist: "artist/jessica-baio" }],
   trackKey: "allisawwasyoufeatjessicabaio|0VMFTqmv0hYlWruyBERT95,7qX6R9NU7sWD66KLlYKnju|185506",
   song: "song/jessica-baio-all-i-saw-was-you",
   carriedBy: [

@@ -16,7 +16,7 @@ export const jessicaBaioUnsaidDeluxeLovesNotPain = {
   title: "love's not pain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "lovesnotpain|0VMFTqmv0hYlWruyBERT95|146835",
   song: "song/jessica-baio-love-s-not-pain",
   carriedBy: [

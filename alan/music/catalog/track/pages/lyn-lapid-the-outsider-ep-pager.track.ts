@@ -12,7 +12,7 @@ export const lynLapidTheOutsiderEpPager = {
   title: "Pager",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "pager|4pfy05cNNTacuOQ6SiSu4v|166480",
   song: "song/lyn-lapid-pager",
   carriedBy: [

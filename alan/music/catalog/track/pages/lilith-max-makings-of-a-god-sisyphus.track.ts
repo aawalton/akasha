@@ -12,7 +12,7 @@ export const lilithMaxMakingsOfAGodSisyphus = {
   title: "Sisyphus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "sisyphus|797SPxZf82IYq3XCM8c9AM|195413",
   song: "song/lilith-max-sisyphus",
   carriedBy: [

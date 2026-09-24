@@ -13,11 +13,11 @@ export const kDaPopStarsPopStars = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4gOc8TsQed9eqnqJct2c5v", artistName: "K/DA" },
-    { externalId: "2kRfqPViCqYdSGhYSM9R0Q", artistName: "Madison Beer" },
-    { externalId: "2AfmfGFbe0A0WsTYm0SDTx", artistName: "i-dle" },
-    { externalId: "0tRFWXqKBBQcu5oFVOgVzX", artistName: "Jaira Burns" },
-    { externalId: "47mIJdHORyRerp4os813jD", artistName: "League of Legends" },
+    { artist: "artist/k-da" },
+    { artistName: "Madison Beer" },
+    { artistName: "i-dle" },
+    { artistName: "Jaira Burns" },
+    { artistName: "League of Legends" },
   ],
   trackKey:
     "popstars|0tRFWXqKBBQcu5oFVOgVzX,2AfmfGFbe0A0WsTYm0SDTx,2kRfqPViCqYdSGhYSM9R0Q,47mIJdHORyRerp4os813jD,4gOc8TsQed9eqnqJct2c5v|191100",

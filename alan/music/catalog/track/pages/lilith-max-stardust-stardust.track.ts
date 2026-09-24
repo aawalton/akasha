@@ -12,7 +12,7 @@ export const lilithMaxStardustStardust = {
   title: "Stardust",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "stardust|797SPxZf82IYq3XCM8c9AM|204890",
   song: "song/lilith-max-stardust",
   carriedBy: [

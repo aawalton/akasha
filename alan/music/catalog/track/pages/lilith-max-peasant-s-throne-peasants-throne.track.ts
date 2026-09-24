@@ -12,7 +12,7 @@ export const lilithMaxPeasantSThronePeasantsThrone = {
   title: "Peasant's Throne",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "peasantsthrone|797SPxZf82IYq3XCM8c9AM|171419",
   song: "song/lilith-max-peasant-s-throne",
   carriedBy: [

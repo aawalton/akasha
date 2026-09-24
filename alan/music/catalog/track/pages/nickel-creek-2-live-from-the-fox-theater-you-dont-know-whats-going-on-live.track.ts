@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterYouDontKnowWhatsGoingOnLive = {
   title: "You Don't Know What's Going On - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "youdontknowwhatsgoingonlive|3bcLBxvaI7GsBzGp3WHnwQ|350885",
   song: "song/nickel-creek-you-dont-know-whats-going-on",
   carriedBy: [

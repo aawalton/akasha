@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarUnaccompaniedCelloSuiteNo1InGMajor = {
   title: "Unaccompanied Cello Suite No. 1 in G Major",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "unaccompaniedcellosuiteno1ingmajor|7FQRbf8gbKw8KZQZAJWxH2|169301",
   song: "song/paul-cardall-unaccompanied-cello-suite-no-1-in-g-major",
   carriedBy: [

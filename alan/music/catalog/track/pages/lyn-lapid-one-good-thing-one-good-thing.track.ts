@@ -12,7 +12,7 @@ export const lynLapidOneGoodThingOneGoodThing = {
   title: "one good thing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "onegoodthing|4pfy05cNNTacuOQ6SiSu4v|196069",
   song: "song/lyn-lapid-one-good-thing",
   carriedBy: [

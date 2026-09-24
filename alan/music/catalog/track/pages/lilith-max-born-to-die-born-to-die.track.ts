@@ -12,7 +12,7 @@ export const lilithMaxBornToDieBornToDie = {
   title: "Born to Die",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "borntodie|797SPxZf82IYq3XCM8c9AM|136649",
   song: "song/lilith-max-born-to-die",
   carriedBy: [

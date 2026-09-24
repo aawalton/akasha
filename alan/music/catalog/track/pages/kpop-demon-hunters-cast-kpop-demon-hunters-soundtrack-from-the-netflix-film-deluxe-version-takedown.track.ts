@@ -16,11 +16,11 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
     trackType: "studio",
     explicit: false,
     trackArtist: [
-      { externalId: "2yNNYQBChuox9A5Ka93BIn", artistName: "HUNTR/X" },
-      { externalId: "0RMJOzHDhAKY1o2j0W0vxY", artistName: "EJAE" },
-      { externalId: "0Wwji82sLA0Hcvtuak3omb", artistName: "AUDREY NUNA" },
-      { externalId: "6U1dV7aL68N7Gb0Naq34V5", artistName: "REI AMI" },
-      { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+      { artistName: "HUNTR/X" },
+      { artist: "artist/ejae" },
+      { artistName: "AUDREY NUNA" },
+      { artistName: "REI AMI" },
+      { artist: "artist/kpop-demon-hunters-cast" },
     ],
     trackKey:
       "takedownsingalong|0RMJOzHDhAKY1o2j0W0vxY,0Wwji82sLA0Hcvtuak3omb,2yNNYQBChuox9A5Ka93BIn,6U1dV7aL68N7Gb0Naq34V5,7mW7Tv7NvywKKXqafZo0Lc|182016",

@@ -12,7 +12,7 @@ export const lilithMaxLeaveTheArmorLeaveTheArmor = {
   title: "Leave the Armor",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "leavethearmor|797SPxZf82IYq3XCM8c9AM|256976",
   song: "song/lilith-max-leave-the-armor",
   carriedBy: [

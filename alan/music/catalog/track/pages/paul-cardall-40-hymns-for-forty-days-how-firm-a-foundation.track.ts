@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysHowFirmAFoundation = {
   title: "How Firm a Foundation",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "howfirmafoundation|7FQRbf8gbKw8KZQZAJWxH2|154173",
   song: "song/paul-cardall-how-firm-a-foundation",
   carriedBy: [

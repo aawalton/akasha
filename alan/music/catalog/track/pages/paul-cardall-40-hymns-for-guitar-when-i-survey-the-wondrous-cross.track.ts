@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarWhenISurveyTheWondrousCross = {
   title: "When I Survey the Wondrous Cross",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "whenisurveythewondrouscross|7FQRbf8gbKw8KZQZAJWxH2|178000",
   song: "song/paul-cardall-when-i-survey-the-wondrous-cross",
   carriedBy: [

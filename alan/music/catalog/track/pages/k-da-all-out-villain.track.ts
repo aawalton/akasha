@@ -13,10 +13,10 @@ export const kDaAllOutVillain = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4gOc8TsQed9eqnqJct2c5v", artistName: "K/DA" },
-    { externalId: "2kRfqPViCqYdSGhYSM9R0Q", artistName: "Madison Beer" },
-    { externalId: "3Xt3RrJMFv5SZkCfUE8C1J", artistName: "Kim Petras" },
-    { externalId: "47mIJdHORyRerp4os813jD", artistName: "League of Legends" },
+    { artist: "artist/k-da" },
+    { artistName: "Madison Beer" },
+    { artistName: "Kim Petras" },
+    { artistName: "League of Legends" },
   ],
   trackKey:
     "villain|2kRfqPViCqYdSGhYSM9R0Q,3Xt3RrJMFv5SZkCfUE8C1J,47mIJdHORyRerp4os813jD,4gOc8TsQed9eqnqJct2c5v|199125",

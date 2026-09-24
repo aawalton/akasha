@@ -12,7 +12,7 @@ export const jessicaBaioItSNotChristmasWithoutYouItsNotChristmasWithoutYou = {
   title: "It's Not Christmas (Without You)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "itsnotchristmaswithoutyou|0VMFTqmv0hYlWruyBERT95|133786",
   song: "song/jessica-baio-its-not-christmas-without-you",
   carriedBy: [

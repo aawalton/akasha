@@ -15,7 +15,7 @@ export const jennaRaineSeeYouLaterSeeYouLaterTenYears = {
   title: "see you later (ten years)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "seeyoulatertenyears|3aHe9rMa5HFTjXHw8tEz0A|188160",
   song: "song/jenna-raine-see-you-later-ten-years",
   carriedBy: [

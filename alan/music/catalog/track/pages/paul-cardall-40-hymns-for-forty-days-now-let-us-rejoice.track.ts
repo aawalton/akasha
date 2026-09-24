@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysNowLetUsRejoice = {
   title: "Now Let Us Rejoice",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "nowletusrejoice|7FQRbf8gbKw8KZQZAJWxH2|159266",
   song: "song/paul-cardall-now-let-us-rejoice",
   carriedBy: [

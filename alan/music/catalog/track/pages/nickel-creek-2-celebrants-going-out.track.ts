@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsGoingOut = {
   title: "Going Out…",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "goingout|3bcLBxvaI7GsBzGp3WHnwQ|184493",
   song: "song/nickel-creek-going-out",
   carriedBy: [

@@ -12,7 +12,7 @@ export const nickelCreek2ADottedLineElephantInTheCorn = {
   title: "Elephant in the Corn",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "elephantinthecorn|3bcLBxvaI7GsBzGp3WHnwQ|310040",
   song: "song/nickel-creek-elephant-in-the-corn",
   carriedBy: [

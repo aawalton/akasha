@@ -13,9 +13,9 @@ export const lynLapidMySunnyDayKinaRemixMySunnyDayKinaRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "2lH1vV1rGOw0ETBmnTAyvZ", artistName: "Ted Fresco" },
-    { externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" },
-    { externalId: "4qIVPF0s71ZYW3qzhu5GkF", artistName: "Kina" },
+    { artistName: "Ted Fresco" },
+    { artist: "artist/lyn-lapid" },
+    { artistName: "Kina" },
   ],
   trackKey:
     "mysunnydaykinaremix|2lH1vV1rGOw0ETBmnTAyvZ,4pfy05cNNTacuOQ6SiSu4v,4qIVPF0s71ZYW3qzhu5GkF|116053",

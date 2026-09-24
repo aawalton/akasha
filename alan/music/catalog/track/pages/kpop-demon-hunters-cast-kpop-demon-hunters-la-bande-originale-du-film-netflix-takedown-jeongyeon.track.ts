@@ -16,7 +16,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixTa
   title: "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7n2Ycct7Beij7Dj7meI4X0", artistName: "TWICE" }],
+  trackArtist: [{ artistName: "TWICE" }],
   trackKey: "takedownjeongyeonjihyochaeyoung|7n2Ycct7Beij7Dj7meI4X0|181192",
   song: "song/kpop-demon-hunters-cast-takedown-jeongyeon-jihyo-chaeyoung",
   carriedBy: [

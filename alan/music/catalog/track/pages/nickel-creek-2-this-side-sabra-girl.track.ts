@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideSabraGirl = {
   title: "Sabra Girl",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "sabragirl|3bcLBxvaI7GsBzGp3WHnwQ|244227",
   song: "song/nickel-creek-sabra-girl",
   carriedBy: [

@@ -12,7 +12,7 @@ export const lilithMaxStorybookIceAge = {
   title: "Ice Age",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "iceage|797SPxZf82IYq3XCM8c9AM|188418",
   song: "song/lilith-max-ice-age",
   carriedBy: [

@@ -12,7 +12,7 @@ export const lynLapidInMyMindInMyMind = {
   title: "In My Mind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "inmymind|4pfy05cNNTacuOQ6SiSu4v|162794",
   song: "song/lyn-lapid-in-my-mind",
   carriedBy: [

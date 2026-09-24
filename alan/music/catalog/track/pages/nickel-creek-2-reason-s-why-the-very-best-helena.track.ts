@@ -12,7 +12,7 @@ export const nickelCreek2ReasonSWhyTheVeryBestHelena = {
   title: "Helena",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "helena|3bcLBxvaI7GsBzGp3WHnwQ|280760",
   song: "song/nickel-creek-helena",
   carriedBy: [

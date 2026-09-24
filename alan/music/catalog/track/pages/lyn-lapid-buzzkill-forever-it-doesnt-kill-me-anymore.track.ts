@@ -12,7 +12,7 @@ export const lynLapidBuzzkillForeverItDoesntKillMeAnymore = {
   title: "it doesn’t kill me anymore",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "itdoesntkillmeanymore|4pfy05cNNTacuOQ6SiSu4v|158495",
   song: "song/lyn-lapid-it-doesnt-kill-me-anymore",
   carriedBy: [

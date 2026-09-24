@@ -12,7 +12,7 @@ export const jessicaBaioSkinSkin = {
   title: "skin",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "skin|0VMFTqmv0hYlWruyBERT95|192587",
   song: "song/jessica-baio-skin",
   carriedBy: [

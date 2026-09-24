@@ -12,7 +12,7 @@ export const nickelCreek2ReasonSWhyTheVeryBestWhenInRome = {
   title: "When In Rome",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "wheninrome|3bcLBxvaI7GsBzGp3WHnwQ|255586",
   song: "song/nickel-creek-when-in-rome",
   carriedBy: [

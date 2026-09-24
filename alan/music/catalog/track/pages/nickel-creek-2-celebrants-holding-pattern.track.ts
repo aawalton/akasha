@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsHoldingPattern = {
   title: "Holding Pattern",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "holdingpattern|3bcLBxvaI7GsBzGp3WHnwQ|185816",
   song: "song/nickel-creek-holding-pattern",
   carriedBy: [

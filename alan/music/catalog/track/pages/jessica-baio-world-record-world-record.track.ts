@@ -12,7 +12,7 @@ export const jessicaBaioWorldRecordWorldRecord = {
   title: "world record",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "worldrecord|0VMFTqmv0hYlWruyBERT95|181428",
   song: "song/jessica-baio-world-record",
   carriedBy: [

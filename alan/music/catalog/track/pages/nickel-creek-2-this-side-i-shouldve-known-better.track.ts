@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideIShouldveKnownBetter = {
   title: "I Should've Known Better",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "ishouldveknownbetter|3bcLBxvaI7GsBzGp3WHnwQ|267573",
   song: "song/nickel-creek-i-shouldve-known-better",
   carriedBy: [

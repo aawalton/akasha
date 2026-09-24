@@ -12,7 +12,7 @@ export const lilithMaxMakingsOfAGodAtlas = {
   title: "Atlas",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "atlas|797SPxZf82IYq3XCM8c9AM|187119",
   song: "song/lilith-max-atlas",
   carriedBy: [

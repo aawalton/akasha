@@ -12,7 +12,7 @@ export const jessicaBaioUnsaidDeluxeSharpEdges = {
   title: "sharp edges",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "sharpedges|0VMFTqmv0hYlWruyBERT95|130917",
   song: "song/jessica-baio-sharp-edges",
   carriedBy: [

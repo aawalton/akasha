@@ -12,7 +12,7 @@ export const nickelCreek2ADottedLine21stOfMay = {
   title: "21st of May",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "21stofmay|3bcLBxvaI7GsBzGp3WHnwQ|167053",
   song: "song/nickel-creek-21st-of-may",
   carriedBy: [

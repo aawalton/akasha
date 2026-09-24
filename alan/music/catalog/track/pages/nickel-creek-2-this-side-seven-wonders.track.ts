@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideSevenWonders = {
   title: "Seven Wonders",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "sevenwonders|3bcLBxvaI7GsBzGp3WHnwQ|250120",
   song: "song/nickel-creek-seven-wonders",
   carriedBy: [

@@ -15,7 +15,7 @@ export const jessicaBaioHeLovesMeHeLovesMeNotStrippedHeLovesMeHeLovesMeNot = {
   title: "he loves me, he loves me not",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "helovesmehelovesmenot|0VMFTqmv0hYlWruyBERT95|157598",
   song: "song/jessica-baio-he-loves-me-he-loves-me-not",
   carriedBy: [

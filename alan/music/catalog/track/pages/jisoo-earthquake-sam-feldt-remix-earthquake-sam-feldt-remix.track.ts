@@ -12,10 +12,7 @@ export const jisooEarthquakeSamFeldtRemixEarthquakeSamFeldtRemix = {
   title: "earthquake - Sam Feldt remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" },
-    { externalId: "20gsENnposVs2I4rQ5kvrf", artistName: "Sam Feldt" },
-  ],
+  trackArtist: [{ artist: "artist/jisoo" }, { artistName: "Sam Feldt" }],
   trackKey: "earthquakesamfeldtremix|20gsENnposVs2I4rQ5kvrf,6UZ0ba50XreR4TM8u322gs|149090",
   song: "song/jisoo-earthquake",
   carriedBy: [

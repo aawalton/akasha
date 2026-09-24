@@ -12,7 +12,7 @@ export const paulCardallANewCreationANewCreation = {
   title: "A New Creation",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "anewcreation|7FQRbf8gbKw8KZQZAJWxH2|260079",
   song: "song/paul-cardall-a-new-creation",
   carriedBy: [

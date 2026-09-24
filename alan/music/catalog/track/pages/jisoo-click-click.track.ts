@@ -12,7 +12,7 @@ export const jisooClickClick = {
   title: "CLICK",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
+  trackArtist: [{ artist: "artist/jisoo" }],
   trackKey: "click|6UZ0ba50XreR4TM8u322gs|159095",
   song: "song/jisoo-click",
   carriedBy: [

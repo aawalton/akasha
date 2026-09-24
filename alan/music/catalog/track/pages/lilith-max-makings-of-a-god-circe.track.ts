@@ -16,7 +16,7 @@ export const lilithMaxMakingsOfAGodCirce = {
   title: "Circe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "circe|797SPxZf82IYq3XCM8c9AM|187582",
   song: "song/lilith-max-circe",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallAncestorsTheLastLeaf = {
   title: "The Last Leaf",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thelastleaf|7FQRbf8gbKw8KZQZAJWxH2|134920",
   song: "song/paul-cardall-the-last-leaf",
   carriedBy: [

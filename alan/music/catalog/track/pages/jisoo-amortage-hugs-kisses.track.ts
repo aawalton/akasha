@@ -12,7 +12,7 @@ export const jisooAmortageHugsKisses = {
   title: "Hugs & Kisses",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
+  trackArtist: [{ artist: "artist/jisoo" }],
   trackKey: "hugskisses|6UZ0ba50XreR4TM8u322gs|189826",
   song: "song/jisoo-hugs-kisses",
   carriedBy: [

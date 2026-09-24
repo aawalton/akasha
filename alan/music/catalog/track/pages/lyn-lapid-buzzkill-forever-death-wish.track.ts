@@ -12,7 +12,7 @@ export const lynLapidBuzzkillForeverDeathWish = {
   title: "death wish",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "deathwish|4pfy05cNNTacuOQ6SiSu4v|170002",
   song: "song/lyn-lapid-death-wish",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jessicaBaioUnsaidDeluxeBettingOnUs = {
   title: "betting on us",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "bettingonus|0VMFTqmv0hYlWruyBERT95|168727",
   song: "song/jessica-baio-betting-on-us",
   carriedBy: [

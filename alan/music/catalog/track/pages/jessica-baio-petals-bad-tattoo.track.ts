@@ -12,7 +12,7 @@ export const jessicaBaioPetalsBadTattoo = {
   title: "bad tattoo",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "badtattoo|0VMFTqmv0hYlWruyBERT95|160983",
   song: "song/jessica-baio-bad-tattoo",
   carriedBy: [

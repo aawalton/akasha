@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekTheLighthousesTale = {
   title: "The Lighthouse's Tale",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "thelighthousestale|3bcLBxvaI7GsBzGp3WHnwQ|301666",
   song: "song/nickel-creek-the-lighthouses-tale",
   carriedBy: [

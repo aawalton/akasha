@@ -13,11 +13,11 @@ export const kDaAllOutIllShowYou = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4gOc8TsQed9eqnqJct2c5v", artistName: "K/DA" },
-    { externalId: "7n2Ycct7Beij7Dj7meI4X0", artistName: "TWICE" },
-    { externalId: "260LldmHBR0r2wtWtjzNxL", artistName: "Bekuh Boom" },
-    { externalId: "0kErUwb6xgWfkdn0RyZWHZ", artistName: "Annika Wells" },
-    { externalId: "47mIJdHORyRerp4os813jD", artistName: "League of Legends" },
+    { artist: "artist/k-da" },
+    { artistName: "TWICE" },
+    { artistName: "Bekuh Boom" },
+    { artistName: "Annika Wells" },
+    { artistName: "League of Legends" },
   ],
   trackKey:
     "illshowyou|0kErUwb6xgWfkdn0RyZWHZ,260LldmHBR0r2wtWtjzNxL,47mIJdHORyRerp4os813jD,4gOc8TsQed9eqnqJct2c5v,7n2Ycct7Beij7Dj7meI4X0|198611",

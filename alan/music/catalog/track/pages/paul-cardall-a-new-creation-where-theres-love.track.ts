@@ -12,7 +12,7 @@ export const paulCardallANewCreationWhereTheresLove = {
   title: "Where There's Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "wherethereslove|7FQRbf8gbKw8KZQZAJWxH2|224226",
   song: "song/paul-cardall-where-theres-love",
   carriedBy: [

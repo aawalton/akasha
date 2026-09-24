@@ -12,7 +12,7 @@ export const paulCardallASacredChristmasPianoCollectionTheFirstNoel = {
   title: "The First Noel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thefirstnoel|7FQRbf8gbKw8KZQZAJWxH2|164832",
   song: "song/paul-cardall-the-first-noel",
   carriedBy: [

@@ -14,10 +14,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixCe
   title: "Ce qu’on te donne",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2yNNYQBChuox9A5Ka93BIn", artistName: "HUNTR/X" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
-  ],
+  trackArtist: [{ artistName: "HUNTR/X" }, { artist: "artist/kpop-demon-hunters-cast" }],
   trackKey: "cequontedonne|2yNNYQBChuox9A5Ka93BIn,7mW7Tv7NvywKKXqafZo0Lc|176059",
   song: "song/kpop-demon-hunters-cast-ce-quon-te-donne",
   carriedBy: [

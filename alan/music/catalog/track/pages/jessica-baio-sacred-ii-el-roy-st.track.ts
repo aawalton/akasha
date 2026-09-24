@@ -12,7 +12,7 @@ export const jessicaBaioSacredIiElRoySt = {
   title: "el roy st.",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "elroyst|0VMFTqmv0hYlWruyBERT95|176379",
   song: "song/jessica-baio-el-roy-st",
   carriedBy: [

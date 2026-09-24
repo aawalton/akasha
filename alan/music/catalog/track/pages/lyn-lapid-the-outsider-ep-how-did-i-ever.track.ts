@@ -12,7 +12,7 @@ export const lynLapidTheOutsiderEpHowDidIEver = {
   title: "How Did I Ever",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "howdidiever|4pfy05cNNTacuOQ6SiSu4v|149746",
   song: "song/lyn-lapid-how-did-i-ever",
   carriedBy: [

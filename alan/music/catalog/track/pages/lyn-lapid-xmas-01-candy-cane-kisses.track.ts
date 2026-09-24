@@ -12,7 +12,7 @@ export const lynLapidXmas01CandyCaneKisses = {
   title: "Candy Cane Kisses",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "candycanekisses|4pfy05cNNTacuOQ6SiSu4v|133158",
   song: "song/lyn-lapid-candy-cane-kisses",
   carriedBy: [

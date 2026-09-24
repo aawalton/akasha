@@ -12,10 +12,7 @@ export const lilithMaxCallingOnTheWindClassicalVersionCallingOnTheWindClassicalV
   title: "Calling On The Wind - Classical Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "1ByEKrkISpOCkivKnV0cDx", artistName: "Filippo Beck Peccoz" },
-    { externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" },
-  ],
+  trackArtist: [{ artistName: "Filippo Beck Peccoz" }, { artist: "artist/lilith-max" }],
   trackKey: "callingonthewindclassicalversion|1ByEKrkISpOCkivKnV0cDx,797SPxZf82IYq3XCM8c9AM|204347",
   song: "song/lilith-max-calling-on-the-wind",
   carriedBy: [

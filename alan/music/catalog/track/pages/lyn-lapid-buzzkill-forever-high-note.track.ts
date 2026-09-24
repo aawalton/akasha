@@ -12,7 +12,7 @@ export const lynLapidBuzzkillForeverHighNote = {
   title: "high note",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "highnote|4pfy05cNNTacuOQ6SiSu4v|179013",
   song: "song/lyn-lapid-high-note",
   carriedBy: [

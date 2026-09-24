@@ -12,7 +12,7 @@ export const nickelCreek2WhyShouldTheFireDieJealousOfTheMoon = {
   title: "Jealous Of The Moon",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "jealousofthemoon|3bcLBxvaI7GsBzGp3WHnwQ|281800",
   song: "song/nickel-creek-jealous-of-the-moon",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysTruthReflectsUponOurSenses = {
   title: "Truth Reflects Upon Our Senses",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "truthreflectsuponoursenses|7FQRbf8gbKw8KZQZAJWxH2|88000",
   song: "song/paul-cardall-truth-reflects-upon-our-senses",
   carriedBy: [

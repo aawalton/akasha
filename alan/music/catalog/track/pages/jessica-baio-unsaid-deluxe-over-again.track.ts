@@ -12,7 +12,7 @@ export const jessicaBaioUnsaidDeluxeOverAgain = {
   title: "over again",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "overagain|0VMFTqmv0hYlWruyBERT95|146000",
   song: "song/jessica-baio-over-again",
   carriedBy: [

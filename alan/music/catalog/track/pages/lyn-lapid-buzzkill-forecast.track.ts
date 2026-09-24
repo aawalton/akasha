@@ -12,7 +12,7 @@ export const lynLapidBuzzkillForecast = {
   title: "forecast",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "forecast|4pfy05cNNTacuOQ6SiSu4v|163706",
   song: "song/lyn-lapid-forecast",
   carriedBy: [

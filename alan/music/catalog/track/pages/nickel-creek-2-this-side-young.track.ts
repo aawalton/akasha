@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideYoung = {
   title: "Young",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "young|3bcLBxvaI7GsBzGp3WHnwQ|209546",
   song: "song/nickel-creek-young",
   carriedBy: [

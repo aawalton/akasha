@@ -15,11 +15,11 @@ export const kpopDemonHuntersCastGoldenFromTheNetflixFilmKpopDemonHunters2Golden
   trackType: "version",
   explicit: false,
   trackArtist: [
-    { externalId: "2yNNYQBChuox9A5Ka93BIn", artistName: "HUNTR/X" },
-    { externalId: "2R3zvWAHalHdyduyHoP8le", artistName: "Felicity Kyle Napuli" },
-    { externalId: "5bxXh14jEn1pX8luUWxfTx", artistName: "Venisse Siy" },
-    { externalId: "1S1L2F3GrTQ1ttGYGGo0UU", artistName: "Maronne Cruz" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+    { artistName: "HUNTR/X" },
+    { artistName: "Felicity Kyle Napuli" },
+    { artistName: "Venisse Siy" },
+    { artistName: "Maronne Cruz" },
+    { artist: "artist/kpop-demon-hunters-cast" },
   ],
   trackKey:
     "goldentagalogversion|1S1L2F3GrTQ1ttGYGGo0UU,2R3zvWAHalHdyduyHoP8le,2yNNYQBChuox9A5Ka93BIn,5bxXh14jEn1pX8luUWxfTx,7mW7Tv7NvywKKXqafZo0Lc|192974",

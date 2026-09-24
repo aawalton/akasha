@@ -12,7 +12,7 @@ export const lilithMaxStorybookSacrifice = {
   title: "Sacrifice",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "sacrifice|797SPxZf82IYq3XCM8c9AM|181000",
   song: "song/lilith-max-sacrifice",
   carriedBy: [

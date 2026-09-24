@@ -12,7 +12,7 @@ export const nickelCreek2ADottedLineRestOfMyLife = {
   title: "Rest of My Life",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "restofmylife|3bcLBxvaI7GsBzGp3WHnwQ|219706",
   song: "song/nickel-creek-rest-of-my-life",
   carriedBy: [

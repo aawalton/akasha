@@ -14,10 +14,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
   title: "Soda Pop - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [
-    { externalId: "0BJ2EjOqcfgFvlZXNKrNbE", artistName: "Saja Boys" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
-  ],
+  trackArtist: [{ artistName: "Saja Boys" }, { artist: "artist/kpop-demon-hunters-cast" }],
   trackKey: "sodapopinstrumental|0BJ2EjOqcfgFvlZXNKrNbE,7mW7Tv7NvywKKXqafZo0Lc|150686",
   song: "song/kpop-demon-hunters-cast-soda-pop",
   carriedBy: [

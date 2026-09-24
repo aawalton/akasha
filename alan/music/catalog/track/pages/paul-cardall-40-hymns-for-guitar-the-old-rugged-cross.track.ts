@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarTheOldRuggedCross = {
   title: "The Old Rugged Cross",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "theoldruggedcross|7FQRbf8gbKw8KZQZAJWxH2|172250",
   song: "song/paul-cardall-the-old-rugged-cross",
   carriedBy: [

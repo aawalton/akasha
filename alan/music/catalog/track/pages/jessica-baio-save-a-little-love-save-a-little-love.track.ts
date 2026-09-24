@@ -13,9 +13,9 @@ export const jessicaBaioSaveALittleLoveSaveALittleLove = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "44Ewva5aHOX00EwaX2D2mh", artistName: "Two Friends" },
-    { externalId: "1dID9zgn0OV0Y8ud7Mh2tS", artistName: "Dustin Lynch" },
-    { externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" },
+    { artistName: "Two Friends" },
+    { artistName: "Dustin Lynch" },
+    { artist: "artist/jessica-baio" },
   ],
   trackKey:
     "savealittlelove|0VMFTqmv0hYlWruyBERT95,1dID9zgn0OV0Y8ud7Mh2tS,44Ewva5aHOX00EwaX2D2mh|170022",

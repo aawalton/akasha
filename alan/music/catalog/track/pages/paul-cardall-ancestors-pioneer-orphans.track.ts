@@ -12,7 +12,7 @@ export const paulCardallAncestorsPioneerOrphans = {
   title: "Pioneer Orphans",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "pioneerorphans|7FQRbf8gbKw8KZQZAJWxH2|235760",
   song: "song/paul-cardall-pioneer-orphans",
   carriedBy: [

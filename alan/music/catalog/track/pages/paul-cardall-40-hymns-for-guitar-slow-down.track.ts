@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarSlowDown = {
   title: "Slow Down",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "slowdown|7FQRbf8gbKw8KZQZAJWxH2|121514",
   song: "song/paul-cardall-slow-down",
   carriedBy: [

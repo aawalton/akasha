@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekWhenYouComeBackDown = {
   title: "When You Come Back Down",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "whenyoucomebackdown|3bcLBxvaI7GsBzGp3WHnwQ|229626",
   song: "song/nickel-creek-when-you-come-back-down",
   carriedBy: [

@@ -18,11 +18,11 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixBr
     trackType: "version",
     explicit: false,
     trackArtist: [
-      { externalId: "2yNNYQBChuox9A5Ka93BIn", artistName: "HUNTR/X" },
-      { externalId: "5qIdeu6LWidREML9dzL0WD", artistName: "Alexiane Broque" },
-      { externalId: "55MG6lE79B7ClZe6nMSnrK", artistName: "Jeanne Jérosme" },
-      { externalId: "5QrZth2MNx8LlLnzkVaqKr", artistName: "Clotilde Verry" },
-      { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+      { artistName: "HUNTR/X" },
+      { artistName: "Alexiane Broque" },
+      { artistName: "Jeanne Jérosme" },
+      { artistName: "Clotilde Verry" },
+      { artist: "artist/kpop-demon-hunters-cast" },
     ],
     trackKey:
       "brillergoldenversionfrancaise|2yNNYQBChuox9A5Ka93BIn,55MG6lE79B7ClZe6nMSnrK,5QrZth2MNx8LlLnzkVaqKr,5qIdeu6LWidREML9dzL0WD,7mW7Tv7NvywKKXqafZo0Lc|192974",

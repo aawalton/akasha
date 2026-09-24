@@ -16,10 +16,10 @@ export const jessicaBaioRadioFeatTrippieReddJessicaBaioKabuExtendedMixRadioFeatT
     trackType: "remix",
     explicit: false,
     trackArtist: [
-      { externalId: "77AiFEVeAVj2ORpC85QVJs", artistName: "Steve Aoki" },
-      { externalId: "6Xgp2XMz1fhVYe7i6yNAax", artistName: "Trippie Redd" },
-      { externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" },
-      { externalId: "5QvkIWJdNyVeqs1FgVOEg7", artistName: "KABU" },
+      { artistName: "Steve Aoki" },
+      { artistName: "Trippie Redd" },
+      { artist: "artist/jessica-baio" },
+      { artistName: "KABU" },
     ],
     trackKey:
       "radiofeattrippiereddjessicabaiokabuextendedmix|0VMFTqmv0hYlWruyBERT95,5QvkIWJdNyVeqs1FgVOEg7,6Xgp2XMz1fhVYe7i6yNAax,77AiFEVeAVj2ORpC85QVJs|170666",

@@ -12,7 +12,7 @@ export const paulCardallAncestorsLettersHome = {
   title: "Letters Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "lettershome|7FQRbf8gbKw8KZQZAJWxH2|58560",
   song: "song/paul-cardall-letters-home",
   carriedBy: [

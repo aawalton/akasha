@@ -19,7 +19,7 @@ export const jessicaBaioUnsaidDeluxeBiteTheBullet = {
   title: "bite the bullet",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "bitethebullet|0VMFTqmv0hYlWruyBERT95|140925",
   song: "song/jessica-baio-bite-the-bullet",
   carriedBy: [

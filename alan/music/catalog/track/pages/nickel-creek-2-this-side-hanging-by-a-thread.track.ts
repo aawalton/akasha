@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideHangingByAThread = {
   title: "Hanging By A Thread",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "hangingbyathread|3bcLBxvaI7GsBzGp3WHnwQ|246880",
   song: "song/nickel-creek-hanging-by-a-thread",
   carriedBy: [

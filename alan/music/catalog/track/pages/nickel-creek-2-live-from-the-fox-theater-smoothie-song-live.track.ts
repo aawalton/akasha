@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterSmoothieSongLive = {
   title: "Smoothie Song - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "smoothiesonglive|3bcLBxvaI7GsBzGp3WHnwQ|291875",
   song: "song/nickel-creek-smoothie-song",
   carriedBy: [

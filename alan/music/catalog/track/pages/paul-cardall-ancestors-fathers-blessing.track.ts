@@ -12,7 +12,7 @@ export const paulCardallAncestorsFathersBlessing = {
   title: "Father's Blessing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "fathersblessing|7FQRbf8gbKw8KZQZAJWxH2|150875",
   song: "song/paul-cardall-fathers-blessing",
   carriedBy: [

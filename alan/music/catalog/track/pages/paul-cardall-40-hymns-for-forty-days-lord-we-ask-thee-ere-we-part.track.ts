@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysLordWeAskTheeEreWePart = {
   title: "Lord, We Ask Thee Ere We Part",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "lordweasktheeerewepart|7FQRbf8gbKw8KZQZAJWxH2|160506",
   song: "song/paul-cardall-lord-we-ask-thee-ere-we-part",
   carriedBy: [

@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsHollywoodEnding = {
   title: "Hollywood Ending",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "hollywoodending|3bcLBxvaI7GsBzGp3WHnwQ|257374",
   song: "song/nickel-creek-hollywood-ending",
   carriedBy: [

@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekPasturesNew = {
   title: "Pastures New",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "pasturesnew|3bcLBxvaI7GsBzGp3WHnwQ|233093",
   song: "song/nickel-creek-pastures-new",
   carriedBy: [

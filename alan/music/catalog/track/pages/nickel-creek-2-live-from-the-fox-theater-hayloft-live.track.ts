@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterHayloftLive = {
   title: "Hayloft - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "hayloftlive|3bcLBxvaI7GsBzGp3WHnwQ|211405",
   song: "song/nickel-creek-hayloft",
   carriedBy: [

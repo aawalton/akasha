@@ -12,7 +12,7 @@ export const lilithMaxSalemWitchSalemWitch = {
   title: "Salem Witch",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "salemwitch|797SPxZf82IYq3XCM8c9AM|172568",
   song: "song/lilith-max-salem-witch",
   carriedBy: [

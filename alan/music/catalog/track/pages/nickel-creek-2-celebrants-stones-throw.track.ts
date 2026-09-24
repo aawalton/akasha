@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsStonesThrow = {
   title: "Stone's Throw",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "stonesthrow|3bcLBxvaI7GsBzGp3WHnwQ|190809",
   song: "song/nickel-creek-stones-throw",
   carriedBy: [

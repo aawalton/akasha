@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekOdeToAButterfly = {
   title: "Ode To A Butterfly",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "odetoabutterfly|3bcLBxvaI7GsBzGp3WHnwQ|248960",
   song: "song/nickel-creek-ode-to-a-butterfly",
   carriedBy: [

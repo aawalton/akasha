@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysCountYourManyBlessings = {
   title: "Count Your Many Blessings",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "countyourmanyblessings|7FQRbf8gbKw8KZQZAJWxH2|142866",
   song: "song/paul-cardall-count-your-many-blessings",
   carriedBy: [

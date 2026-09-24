@@ -12,7 +12,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueCouldveBeenYou = {
   title: "could've been you",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "couldvebeenyou|4pfy05cNNTacuOQ6SiSu4v|187800",
   song: "song/lyn-lapid-couldve-been-you",
   carriedBy: [

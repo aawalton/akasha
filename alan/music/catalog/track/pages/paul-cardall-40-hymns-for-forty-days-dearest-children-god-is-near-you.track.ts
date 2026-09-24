@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysDearestChildrenGodIsNearYou = {
   title: "Dearest Children, God Is Near You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "dearestchildrengodisnearyou|7FQRbf8gbKw8KZQZAJWxH2|120500",
   song: "song/paul-cardall-dearest-children-god-is-near-you",
   carriedBy: [

@@ -15,7 +15,7 @@ export const paulCardallAGriefObservedAGriefObserved = {
   title: "A Grief Observed",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "agriefobserved|7FQRbf8gbKw8KZQZAJWxH2|236929",
   song: "song/paul-cardall-a-grief-observed",
   carriedBy: [

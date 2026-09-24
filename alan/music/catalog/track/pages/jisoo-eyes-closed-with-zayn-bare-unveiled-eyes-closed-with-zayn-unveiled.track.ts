@@ -12,10 +12,7 @@ export const jisooEyesClosedWithZaynBareUnveiledEyesClosedWithZaynUnveiled = {
   title: "EYES CLOSED (with ZAYN) - UNVEILED",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" },
-    { externalId: "5ZsFI1h6hIdQRw2ti0hz81", artistName: "ZAYN" },
-  ],
+  trackArtist: [{ artist: "artist/jisoo" }, { artistName: "ZAYN" }],
   trackKey: "eyesclosedwithzaynunveiled|5ZsFI1h6hIdQRw2ti0hz81,6UZ0ba50XreR4TM8u322gs|181396",
   song: "song/jisoo-eyes-closed-unveiled",
   carriedBy: [

@@ -12,10 +12,7 @@ export const lynLapidMySunnyDayMySunnyDay = {
   title: "My Sunny Day",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2lH1vV1rGOw0ETBmnTAyvZ", artistName: "Ted Fresco" },
-    { externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" },
-  ],
+  trackArtist: [{ artistName: "Ted Fresco" }, { artist: "artist/lyn-lapid" }],
   trackKey: "mysunnyday|2lH1vV1rGOw0ETBmnTAyvZ,4pfy05cNNTacuOQ6SiSu4v|129641",
   song: "song/lyn-lapid-my-sunny-day",
   carriedBy: [

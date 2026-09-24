@@ -14,10 +14,7 @@ export const kpopDemonHuntersCastWhatItSoundsLikeFromTheNetflixFilmKpopDemonHunt
   title: "What It Sounds Like - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [
-    { externalId: "2yNNYQBChuox9A5Ka93BIn", artistName: "HUNTR/X" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
-  ],
+  trackArtist: [{ artistName: "HUNTR/X" }, { artist: "artist/kpop-demon-hunters-cast" }],
   trackKey: "whatitsoundslikeinstrumental|2yNNYQBChuox9A5Ka93BIn,7mW7Tv7NvywKKXqafZo0Lc|250003",
   song: "song/kpop-demon-hunters-cast-what-it-sounds-like",
   carriedBy: [

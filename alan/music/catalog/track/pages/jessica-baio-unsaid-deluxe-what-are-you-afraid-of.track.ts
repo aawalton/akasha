@@ -17,7 +17,7 @@ export const jessicaBaioUnsaidDeluxeWhatAreYouAfraidOf = {
   title: "what are you afraid of?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "whatareyouafraidof|0VMFTqmv0hYlWruyBERT95|162142",
   song: "song/jessica-baio-what-are-you-afraid-of",
   carriedBy: [

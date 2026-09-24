@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsWhereTheLongLineLeads = {
   title: "Where the Long Line Leads",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "wherethelonglineleads|3bcLBxvaI7GsBzGp3WHnwQ|204618",
   song: "song/nickel-creek-where-the-long-line-leads",
   carriedBy: [

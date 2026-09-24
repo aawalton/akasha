@@ -12,7 +12,7 @@ export const paulCardallANewCreationIntoTheWilderness = {
   title: "Into the Wilderness",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "intothewilderness|7FQRbf8gbKw8KZQZAJWxH2|179866",
   song: "song/paul-cardall-into-the-wilderness",
   carriedBy: [

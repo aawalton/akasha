@@ -12,7 +12,7 @@ export const jessicaBaioSacredIiProudOfMe = {
   title: "proud of me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "proudofme|0VMFTqmv0hYlWruyBERT95|165828",
   song: "song/jessica-baio-proud-of-me",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysGreatIsThyFaithfullness = {
   title: "Great Is Thy Faithfullness",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "greatisthyfaithfullness|7FQRbf8gbKw8KZQZAJWxH2|191773",
   song: "song/paul-cardall-great-is-thy-faithfullness",
   carriedBy: [

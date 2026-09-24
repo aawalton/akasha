@@ -12,7 +12,7 @@ export const lynLapidBuzzkillForeverTakeMeAsIAm = {
   title: "take me as I am",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "takemeasiam|4pfy05cNNTacuOQ6SiSu4v|164592",
   song: "song/lyn-lapid-take-me-as-i-am",
   carriedBy: [

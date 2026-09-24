@@ -12,7 +12,7 @@ export const lynLapidDetachedDetached = {
   title: "Detached",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "detached|4pfy05cNNTacuOQ6SiSu4v|146176",
   song: "song/lyn-lapid-detached",
   carriedBy: [

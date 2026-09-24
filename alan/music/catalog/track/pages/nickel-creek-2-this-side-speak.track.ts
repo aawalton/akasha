@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideSpeak = {
   title: "Speak",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "speak|3bcLBxvaI7GsBzGp3WHnwQ|241348",
   song: "song/nickel-creek-speak",
   carriedBy: [

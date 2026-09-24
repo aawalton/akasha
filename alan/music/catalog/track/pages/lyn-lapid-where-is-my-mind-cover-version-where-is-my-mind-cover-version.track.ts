@@ -12,7 +12,7 @@ export const lynLapidWhereIsMyMindCoverVersionWhereIsMyMindCoverVersion = {
   title: "Where Is My Mind? - Cover Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "whereismymindcoverversion|4pfy05cNNTacuOQ6SiSu4v|113537",
   song: "song/lyn-lapid-where-is-my-mind",
   carriedBy: [

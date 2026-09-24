@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsWaterUnderTheBridgePt2 = {
   title: "Water Under the Bridge, Pt. 2",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "waterunderthebridgept2|3bcLBxvaI7GsBzGp3WHnwQ|64859",
   song: "song/nickel-creek-water-under-the-bridge-pt-2",
   carriedBy: [

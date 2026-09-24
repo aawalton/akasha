@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterOdeToAButterflyLive = {
   title: "Ode to a Butterfly - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "odetoabutterflylive|3bcLBxvaI7GsBzGp3WHnwQ|427668",
   song: "song/nickel-creek-ode-to-a-butterfly",
   carriedBy: [

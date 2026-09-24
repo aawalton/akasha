@@ -12,7 +12,7 @@ export const jisooAmortageEarthquake = {
   title: "earthquake",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
+  trackArtist: [{ artist: "artist/jisoo" }],
   trackKey: "earthquake|6UZ0ba50XreR4TM8u322gs|190806",
   song: "song/jisoo-earthquake",
   carriedBy: [

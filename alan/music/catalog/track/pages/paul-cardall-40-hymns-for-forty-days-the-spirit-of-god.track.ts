@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysTheSpiritOfGod = {
   title: "The Spirit of God",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thespiritofgod|7FQRbf8gbKw8KZQZAJWxH2|184546",
   song: "song/paul-cardall-the-spirit-of-god",
   carriedBy: [

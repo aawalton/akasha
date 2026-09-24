@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekInTheHouseOfTomBombadil = {
   title: "In The House Of Tom Bombadil",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "inthehouseoftombombadil|3bcLBxvaI7GsBzGp3WHnwQ|226160",
   song: "song/nickel-creek-in-the-house-of-tom-bombadil",
   carriedBy: [

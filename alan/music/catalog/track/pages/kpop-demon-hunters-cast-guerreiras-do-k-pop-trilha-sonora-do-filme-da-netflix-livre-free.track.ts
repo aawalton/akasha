@@ -15,11 +15,11 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflixLiv
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "2DSE0PhxKUmTPLfZm13sup", artistName: "Rumi" },
-    { externalId: "0rIiNDJUesrgFPkYesJmKl", artistName: "Jinu" },
-    { externalId: "2DHrCrKW8iAiCEiglINKob", artistName: "Analu Pimenta" },
-    { externalId: "4gqVVKLb2T8e2e5W12Pf32", artistName: "Thadeu Matos" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+    { artistName: "Rumi" },
+    { artistName: "Jinu" },
+    { artistName: "Analu Pimenta" },
+    { artistName: "Thadeu Matos" },
+    { artist: "artist/kpop-demon-hunters-cast" },
   ],
   trackKey:
     "livrefree|0rIiNDJUesrgFPkYesJmKl,2DHrCrKW8iAiCEiglINKob,2DSE0PhxKUmTPLfZm13sup,4gqVVKLb2T8e2e5W12Pf32,7mW7Tv7NvywKKXqafZo0Lc|187963",

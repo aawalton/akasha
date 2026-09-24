@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarInTheGarden = {
   title: "In The Garden",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "inthegarden|7FQRbf8gbKw8KZQZAJWxH2|122000",
   song: "song/paul-cardall-in-the-garden",
   carriedBy: [

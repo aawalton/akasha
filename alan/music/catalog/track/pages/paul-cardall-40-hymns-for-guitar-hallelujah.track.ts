@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarHallelujah = {
   title: "Hallelujah",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "hallelujah|7FQRbf8gbKw8KZQZAJWxH2|259413",
   song: "song/paul-cardall-hallelujah",
   carriedBy: [

@@ -15,11 +15,11 @@ export const kpopDemonHuntersCastGuerreirasDoKPopTrilhaSonoraDoFilmeDaNetflixBri
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "2yNNYQBChuox9A5Ka93BIn", artistName: "HUNTR/X" },
-    { externalId: "2DHrCrKW8iAiCEiglINKob", artistName: "Analu Pimenta" },
-    { externalId: "1GoCvVwfqLj1J5DdnVS3ZI", artistName: "Vic Brow" },
-    { externalId: "5nJ8sReUmHonOX8W5eNEV3", artistName: "Taís Feijó" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+    { artistName: "HUNTR/X" },
+    { artistName: "Analu Pimenta" },
+    { artistName: "Vic Brow" },
+    { artistName: "Taís Feijó" },
+    { artist: "artist/kpop-demon-hunters-cast" },
   ],
   trackKey:
     "brilhogolden|1GoCvVwfqLj1J5DdnVS3ZI,2DHrCrKW8iAiCEiglINKob,2yNNYQBChuox9A5Ka93BIn,5nJ8sReUmHonOX8W5eNEV3,7mW7Tv7NvywKKXqafZo0Lc|194607",

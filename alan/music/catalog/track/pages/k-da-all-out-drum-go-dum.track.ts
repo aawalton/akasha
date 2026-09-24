@@ -13,11 +13,11 @@ export const kDaAllOutDrumGoDum = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4gOc8TsQed9eqnqJct2c5v", artistName: "K/DA" },
-    { externalId: "7qd6KGoABHifvXKeFNe2Yb", artistName: "Wolftyla" },
-    { externalId: "260LldmHBR0r2wtWtjzNxL", artistName: "Bekuh Boom" },
-    { externalId: "5ITI6SEoUZMIXXkzCfr4oE", artistName: "Aluna" },
-    { externalId: "47mIJdHORyRerp4os813jD", artistName: "League of Legends" },
+    { artist: "artist/k-da" },
+    { artistName: "Wolftyla" },
+    { artistName: "Bekuh Boom" },
+    { artistName: "Aluna" },
+    { artistName: "League of Legends" },
   ],
   trackKey:
     "drumgodum|260LldmHBR0r2wtWtjzNxL,47mIJdHORyRerp4os813jD,4gOc8TsQed9eqnqJct2c5v,5ITI6SEoUZMIXXkzCfr4oE,7qd6KGoABHifvXKeFNe2Yb|200914",

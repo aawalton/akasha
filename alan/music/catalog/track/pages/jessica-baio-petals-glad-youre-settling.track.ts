@@ -17,7 +17,7 @@ export const jessicaBaioPetalsGladYoureSettling = {
   title: "glad you're settling",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "gladyouresettling|0VMFTqmv0hYlWruyBERT95|193872",
   song: "song/jessica-baio-glad-you-re-settling",
   carriedBy: [

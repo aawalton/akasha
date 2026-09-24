@@ -12,7 +12,7 @@ export const paulCardallAscensusAscensusChristiPrologue = {
   title: "Ascensus Christi: Prologue",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ascensuschristiprologue|7FQRbf8gbKw8KZQZAJWxH2|47687",
   song: "song/paul-cardall-ascensus-christi-prologue",
   carriedBy: [

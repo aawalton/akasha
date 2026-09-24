@@ -12,7 +12,7 @@ export const lynLapidInMyMindProducerMan = {
   title: "Producer Man",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "producerman|4pfy05cNNTacuOQ6SiSu4v|141672",
   song: "song/lyn-lapid-producer-man",
   carriedBy: [

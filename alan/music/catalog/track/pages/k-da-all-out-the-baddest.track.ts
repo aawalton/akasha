@@ -13,11 +13,11 @@ export const kDaAllOutTheBaddest = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4gOc8TsQed9eqnqJct2c5v", artistName: "K/DA" },
-    { externalId: "2AfmfGFbe0A0WsTYm0SDTx", artistName: "i-dle" },
-    { externalId: "7qd6KGoABHifvXKeFNe2Yb", artistName: "Wolftyla" },
-    { externalId: "1o2NpYGqHiCq7FoiYdyd1x", artistName: "Bea Miller" },
-    { externalId: "47mIJdHORyRerp4os813jD", artistName: "League of Legends" },
+    { artist: "artist/k-da" },
+    { artistName: "i-dle" },
+    { artistName: "Wolftyla" },
+    { artistName: "Bea Miller" },
+    { artistName: "League of Legends" },
   ],
   trackKey:
     "thebaddest|1o2NpYGqHiCq7FoiYdyd1x,2AfmfGFbe0A0WsTYm0SDTx,47mIJdHORyRerp4os813jD,4gOc8TsQed9eqnqJct2c5v,7qd6KGoABHifvXKeFNe2Yb|162600",

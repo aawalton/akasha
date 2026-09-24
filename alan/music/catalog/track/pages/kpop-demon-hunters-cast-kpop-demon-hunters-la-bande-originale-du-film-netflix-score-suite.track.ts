@@ -16,7 +16,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixSc
   title: "Score Suite",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0qDZ7wym9Vg843lDKkzmoR", artistName: "Marcelo Zarvos" }],
+  trackArtist: [{ artistName: "Marcelo Zarvos" }],
   trackKey: "scoresuite|0qDZ7wym9Vg843lDKkzmoR|180000",
   song: "song/kpop-demon-hunters-cast-score-suite",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jessicaBaioSacredIiWhoYouAre = {
   title: "who you are",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "whoyouare|0VMFTqmv0hYlWruyBERT95|167317",
   song: "song/jessica-baio-who-you-are",
   carriedBy: [

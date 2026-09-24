@@ -12,10 +12,7 @@ export const lynLapidCruiseControlCruiseControl = {
   title: "Cruise Control",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" },
-    { externalId: "0vqJkZ0RpLZixt3lTmD8vP", artistName: "Whethan" },
-  ],
+  trackArtist: [{ artist: "artist/lyn-lapid" }, { artistName: "Whethan" }],
   trackKey: "cruisecontrol|0vqJkZ0RpLZixt3lTmD8vP,4pfy05cNNTacuOQ6SiSu4v|155486",
   song: "song/lyn-lapid-cruise-control",
   carriedBy: [

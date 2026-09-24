@@ -12,7 +12,7 @@ export const jessicaBaioSacredIiGotItBad = {
   title: "got it bad",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "gotitbad|0VMFTqmv0hYlWruyBERT95|158608",
   song: "song/jessica-baio-got-it-bad",
   carriedBy: [

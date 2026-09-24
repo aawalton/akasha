@@ -12,7 +12,7 @@ export const jessicaBaioIfINeverIfINever = {
   title: "if i never",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "ifinever|0VMFTqmv0hYlWruyBERT95|176248",
   song: "song/jessica-baio-if-i-never",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallAscensusAscensusChristiASoloPianoRhapsodyRemix = {
   title: "Ascensus Christi: A Solo Piano Rhapsody - Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ascensuschristiasolopianorhapsodyremix|7FQRbf8gbKw8KZQZAJWxH2|248490",
   song: "song/paul-cardall-ascensus-christi-a-solo-piano-rhapsody",
   carriedBy: [

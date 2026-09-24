@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekOutOfTheWoods = {
   title: "Out Of The Woods",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "outofthewoods|3bcLBxvaI7GsBzGp3WHnwQ|319373",
   song: "song/nickel-creek-out-of-the-woods",
   carriedBy: [

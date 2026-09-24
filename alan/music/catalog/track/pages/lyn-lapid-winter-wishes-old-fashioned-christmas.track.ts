@@ -12,7 +12,7 @@ export const lynLapidWinterWishesOldFashionedChristmas = {
   title: "old fashioned christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "oldfashionedchristmas|4pfy05cNNTacuOQ6SiSu4v|205240",
   song: "song/lyn-lapid-old-fashioned-christmas",
   carriedBy: [

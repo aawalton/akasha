@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsThinnestWall = {
   title: "Thinnest Wall",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "thinnestwall|3bcLBxvaI7GsBzGp3WHnwQ|188000",
   song: "song/nickel-creek-thinnest-wall",
   carriedBy: [

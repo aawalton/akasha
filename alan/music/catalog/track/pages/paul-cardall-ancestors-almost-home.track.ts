@@ -12,7 +12,7 @@ export const paulCardallAncestorsAlmostHome = {
   title: "Almost Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "almosthome|7FQRbf8gbKw8KZQZAJWxH2|133802",
   song: "song/paul-cardall-almost-home",
   carriedBy: [

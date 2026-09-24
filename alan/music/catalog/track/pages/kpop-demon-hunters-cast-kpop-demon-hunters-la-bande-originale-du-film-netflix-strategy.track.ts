@@ -16,7 +16,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixSt
   title: "Strategy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7n2Ycct7Beij7Dj7meI4X0", artistName: "TWICE" }],
+  trackArtist: [{ artistName: "TWICE" }],
   trackKey: "strategy|7n2Ycct7Beij7Dj7meI4X0|168645",
   song: "song/kpop-demon-hunters-cast-strategy",
   carriedBy: [

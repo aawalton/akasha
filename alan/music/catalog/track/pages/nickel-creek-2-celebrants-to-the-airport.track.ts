@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsToTheAirport = {
   title: "To the Airport",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "totheairport|3bcLBxvaI7GsBzGp3WHnwQ|242577",
   song: "song/nickel-creek-to-the-airport",
   carriedBy: [

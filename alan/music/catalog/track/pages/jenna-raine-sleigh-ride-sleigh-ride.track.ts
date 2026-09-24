@@ -12,10 +12,7 @@ export const jennaRaineSleighRideSleighRide = {
   title: "Sleigh Ride",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" },
-    { externalId: "4p4cZVPv5V51W8mfkfz6mH", artistName: "Jayden Bartels" },
-  ],
+  trackArtist: [{ artist: "artist/jenna-raine" }, { artistName: "Jayden Bartels" }],
   trackKey: "sleighride|3aHe9rMa5HFTjXHw8tEz0A,4p4cZVPv5V51W8mfkfz6mH|184645",
   song: "song/jenna-raine-sleigh-ride",
   carriedBy: [

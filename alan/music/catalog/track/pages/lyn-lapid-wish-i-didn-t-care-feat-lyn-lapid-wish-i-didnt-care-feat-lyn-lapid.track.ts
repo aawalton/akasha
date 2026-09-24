@@ -12,10 +12,7 @@ export const lynLapidWishIDidnTCareFeatLynLapidWishIDidntCareFeatLynLapid = {
   title: "Wish I Didn't Care (feat. Lyn Lapid)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2FLqlgckDKdmpBrvLAT5BM", artistName: "Eric Nam" },
-    { externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" },
-  ],
+  trackArtist: [{ artistName: "Eric Nam" }, { artist: "artist/lyn-lapid" }],
   trackKey: "wishididntcarefeatlynlapid|2FLqlgckDKdmpBrvLAT5BM,4pfy05cNNTacuOQ6SiSu4v|160400",
   song: "song/lyn-lapid-wish-i-didnt-care",
   carriedBy: [

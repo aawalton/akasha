@@ -18,7 +18,7 @@ export const jessicaBaioSacredIiLoveMeLess = {
   title: "love me less",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "lovemeless|0VMFTqmv0hYlWruyBERT95|175271",
   song: "song/jessica-baio-love-me-less",
   carriedBy: [

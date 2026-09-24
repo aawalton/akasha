@@ -12,7 +12,7 @@ export const paulCardallANewCreationOneByOne = {
   title: "One by One",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "onebyone|7FQRbf8gbKw8KZQZAJWxH2|376040",
   song: "song/paul-cardall-one-by-one",
   carriedBy: [

@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsTheMeadow = {
   title: "The Meadow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "themeadow|3bcLBxvaI7GsBzGp3WHnwQ|210313",
   song: "song/nickel-creek-the-meadow",
   carriedBy: [

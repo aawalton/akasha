@@ -12,7 +12,7 @@ export const jessicaBaioCatalystLethal = {
   title: "lethal",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "lethal|0VMFTqmv0hYlWruyBERT95|166573",
   song: "song/jessica-baio-lethal",
   carriedBy: [

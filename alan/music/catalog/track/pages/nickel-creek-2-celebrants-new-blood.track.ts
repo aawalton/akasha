@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsNewBlood = {
   title: "New Blood",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "newblood|3bcLBxvaI7GsBzGp3WHnwQ|220460",
   song: "song/nickel-creek-new-blood",
   carriedBy: [

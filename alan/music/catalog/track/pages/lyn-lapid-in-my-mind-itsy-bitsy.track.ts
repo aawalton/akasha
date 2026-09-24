@@ -12,7 +12,7 @@ export const lynLapidInMyMindItsyBitsy = {
   title: "Itsy Bitsy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "itsybitsy|4pfy05cNNTacuOQ6SiSu4v|177013",
   song: "song/lyn-lapid-itsy-bitsy",
   carriedBy: [

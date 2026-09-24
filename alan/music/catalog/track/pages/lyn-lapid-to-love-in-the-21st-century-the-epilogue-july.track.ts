@@ -12,7 +12,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueJuly = {
   title: "july",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "july|4pfy05cNNTacuOQ6SiSu4v|165026",
   song: "song/lyn-lapid-july",
   carriedBy: [

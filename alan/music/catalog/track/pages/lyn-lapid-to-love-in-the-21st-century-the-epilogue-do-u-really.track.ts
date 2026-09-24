@@ -15,10 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueDoUReally = {
   title: "do u really?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" },
-    { externalId: "2WzaAvm2bBCf4pEhyuDgCY", artistName: "Ruth B." },
-  ],
+  trackArtist: [{ artist: "artist/lyn-lapid" }, { artistName: "Ruth B." }],
   trackKey: "doureally|2WzaAvm2bBCf4pEhyuDgCY,4pfy05cNNTacuOQ6SiSu4v|161120",
   song: "song/lyn-lapid-do-u-really",
   carriedBy: [

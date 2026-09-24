@@ -12,7 +12,7 @@ export const paulCardallANewCreationWondersInHeaven = {
   title: "Wonders in Heaven",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "wondersinheaven|7FQRbf8gbKw8KZQZAJWxH2|252666",
   song: "song/paul-cardall-wonders-in-heaven",
   carriedBy: [

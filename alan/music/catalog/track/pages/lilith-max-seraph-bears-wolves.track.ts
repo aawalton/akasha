@@ -12,7 +12,7 @@ export const lilithMaxSeraphBearsWolves = {
   title: "Bears & Wolves",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "bearswolves|797SPxZf82IYq3XCM8c9AM|198790",
   song: "song/lilith-max-bears-wolves",
   carriedBy: [

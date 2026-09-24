@@ -12,10 +12,7 @@ export const jessicaBaioCatalystStartOver = {
   title: "start over",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" },
-    { externalId: "42Gj65Q4XQ9hMhLQE5hi7r", artistName: "Mykyl" },
-  ],
+  trackArtist: [{ artist: "artist/jessica-baio" }, { artistName: "Mykyl" }],
   trackKey: "startover|0VMFTqmv0hYlWruyBERT95,42Gj65Q4XQ9hMhLQE5hi7r|204908",
   song: "song/jessica-baio-start-over",
   carriedBy: [

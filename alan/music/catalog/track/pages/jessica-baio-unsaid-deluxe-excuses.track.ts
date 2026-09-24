@@ -12,7 +12,7 @@ export const jessicaBaioUnsaidDeluxeExcuses = {
   title: "excuses",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "excuses|0VMFTqmv0hYlWruyBERT95|141709",
   song: "song/jessica-baio-excuses",
   carriedBy: [

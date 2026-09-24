@@ -16,7 +16,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixLo
   title: "사랑인가 봐 Love, Maybe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6k4r73Wq8nhkCDoUsECL1e", artistName: "MeloMance" }],
+  trackArtist: [{ artistName: "MeloMance" }],
   trackKey: "lovemaybe|6k4r73Wq8nhkCDoUsECL1e|185653",
   song: "song/kpop-demon-hunters-cast-love-maybe",
   carriedBy: [

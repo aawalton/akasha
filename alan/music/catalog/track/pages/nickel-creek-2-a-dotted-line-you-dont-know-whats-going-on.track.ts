@@ -12,7 +12,7 @@ export const nickelCreek2ADottedLineYouDontKnowWhatsGoingOn = {
   title: "You Don't Know What's Going On",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "youdontknowwhatsgoingon|3bcLBxvaI7GsBzGp3WHnwQ|170160",
   song: "song/nickel-creek-you-dont-know-whats-going-on",
   carriedBy: [

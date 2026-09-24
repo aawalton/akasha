@@ -12,7 +12,7 @@ export const jessicaBaioUnsaidDeluxeUnoptimistic = {
   title: "unoptimistic",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "unoptimistic|0VMFTqmv0hYlWruyBERT95|146569",
   song: "song/jessica-baio-unoptimistic",
   carriedBy: [

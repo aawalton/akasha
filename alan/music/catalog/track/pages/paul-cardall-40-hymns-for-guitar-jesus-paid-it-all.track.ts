@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarJesusPaidItAll = {
   title: "Jesus Paid It All",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "jesuspaiditall|7FQRbf8gbKw8KZQZAJWxH2|170000",
   song: "song/paul-cardall-jesus-paid-it-all",
   carriedBy: [

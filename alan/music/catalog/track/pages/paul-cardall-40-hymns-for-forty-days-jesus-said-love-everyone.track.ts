@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysJesusSaidLoveEveryone = {
   title: "Jesus Said Love Everyone",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "jesussaidloveeveryone|7FQRbf8gbKw8KZQZAJWxH2|158626",
   song: "song/paul-cardall-jesus-said-love-everyone",
   carriedBy: [

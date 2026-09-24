@@ -17,7 +17,7 @@ export const jessicaBaioSacredIiFerrari = {
   title: "ferrari",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "ferrari|0VMFTqmv0hYlWruyBERT95|180000",
   song: "song/jessica-baio-ferrari",
   carriedBy: [

@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideHouseCarpenter = {
   title: "House Carpenter",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "housecarpenter|3bcLBxvaI7GsBzGp3WHnwQ|330560",
   song: "song/nickel-creek-house-carpenter",
   carriedBy: [

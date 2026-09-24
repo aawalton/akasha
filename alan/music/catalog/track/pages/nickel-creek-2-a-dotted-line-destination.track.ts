@@ -12,7 +12,7 @@ export const nickelCreek2ADottedLineDestination = {
   title: "Destination",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "destination|3bcLBxvaI7GsBzGp3WHnwQ|231240",
   song: "song/nickel-creek-destination",
   carriedBy: [

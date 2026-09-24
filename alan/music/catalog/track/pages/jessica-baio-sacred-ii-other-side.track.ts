@@ -12,7 +12,7 @@ export const jessicaBaioSacredIiOtherSide = {
   title: "other side",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "otherside|0VMFTqmv0hYlWruyBERT95|180760",
   song: "song/jessica-baio-other-side",
   carriedBy: [

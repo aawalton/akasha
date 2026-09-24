@@ -12,7 +12,7 @@ export const lilithMaxStillWithMeStillWithMe = {
   title: "Still with Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "stillwithme|797SPxZf82IYq3XCM8c9AM|184235",
   song: "song/lilith-max-still-with-me",
   carriedBy: [

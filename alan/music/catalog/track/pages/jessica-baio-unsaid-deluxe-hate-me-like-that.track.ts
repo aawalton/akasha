@@ -12,7 +12,7 @@ export const jessicaBaioUnsaidDeluxeHateMeLikeThat = {
   title: "hate me like that",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "hatemelikethat|0VMFTqmv0hYlWruyBERT95|169013",
   song: "song/jessica-baio-hate-me-like-that",
   carriedBy: [

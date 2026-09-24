@@ -12,7 +12,7 @@ export const paulCardallANewCreationBeholdTheLamb = {
   title: "Behold, The Lamb",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "beholdthelamb|7FQRbf8gbKw8KZQZAJWxH2|92333",
   song: "song/paul-cardall-behold-the-lamb",
   carriedBy: [

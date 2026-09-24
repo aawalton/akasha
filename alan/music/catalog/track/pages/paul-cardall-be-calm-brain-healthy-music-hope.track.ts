@@ -15,7 +15,7 @@ export const paulCardallBeCalmBrainHealthyMusicHope = {
   title: "Hope",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "hope|7FQRbf8gbKw8KZQZAJWxH2|195709",
   song: "song/paul-cardall-hope",
   carriedBy: [

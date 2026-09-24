@@ -19,7 +19,7 @@ export const jessicaBaioSacredIiBadTimes = {
   title: "bad times",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "badtimes|0VMFTqmv0hYlWruyBERT95|192405",
   song: "song/jessica-baio-bad-times",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysThereIsAGreenHillFarAway = {
   title: "There Is a Green Hill Far Away",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thereisagreenhillfaraway|7FQRbf8gbKw8KZQZAJWxH2|95773",
   song: "song/paul-cardall-there-is-a-green-hill-far-away",
   carriedBy: [

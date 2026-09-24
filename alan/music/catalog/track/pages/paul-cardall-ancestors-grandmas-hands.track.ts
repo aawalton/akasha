@@ -12,7 +12,7 @@ export const paulCardallAncestorsGrandmasHands = {
   title: "Grandma's Hands",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "grandmashands|7FQRbf8gbKw8KZQZAJWxH2|214357",
   song: "song/paul-cardall-grandmas-hands",
   carriedBy: [

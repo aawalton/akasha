@@ -12,7 +12,7 @@ export const jessicaBaioHomeHome = {
   title: "home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "home|0VMFTqmv0hYlWruyBERT95|178219",
   song: "song/jessica-baio-home",
   carriedBy: [

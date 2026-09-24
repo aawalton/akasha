@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysSweetHourOfPrayer = {
   title: "Sweet Hour of Prayer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "sweethourofprayer|7FQRbf8gbKw8KZQZAJWxH2|256413",
   song: "song/paul-cardall-sweet-hour-of-prayer",
   carriedBy: [

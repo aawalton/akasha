@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideSmoothieSong = {
   title: "Smoothie Song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "smoothiesong|3bcLBxvaI7GsBzGp3WHnwQ|200613",
   song: "song/nickel-creek-smoothie-song",
   carriedBy: [

@@ -12,7 +12,7 @@ export const lilithMaxCallDownTheDragonCallDownTheDragon = {
   title: "Call Down the Dragon",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "calldownthedragon|797SPxZf82IYq3XCM8c9AM|178221",
   song: "song/lilith-max-call-down-the-dragon",
   carriedBy: [

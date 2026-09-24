@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueKeepMeAround = {
   title: "keep me around",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "keepmearound|4pfy05cNNTacuOQ6SiSu4v|197160",
   song: "song/lyn-lapid-keep-me-around",
   carriedBy: [

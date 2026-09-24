@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysIsraelIsraelGodIsCalling = {
   title: "Israel, Israel, God Is Calling",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "israelisraelgodiscalling|7FQRbf8gbKw8KZQZAJWxH2|252173",
   song: "song/paul-cardall-israel-israel-god-is-calling",
   carriedBy: [

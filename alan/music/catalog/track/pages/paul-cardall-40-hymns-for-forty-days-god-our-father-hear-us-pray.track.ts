@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysGodOurFatherHearUsPray = {
   title: "God Our Father, Hear Us Pray",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "godourfatherhearuspray|7FQRbf8gbKw8KZQZAJWxH2|161013",
   song: "song/paul-cardall-god-our-father-hear-us-pray",
   carriedBy: [

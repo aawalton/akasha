@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarBeThouMyVision = {
   title: "Be Thou My Vision",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "bethoumyvision|7FQRbf8gbKw8KZQZAJWxH2|194000",
   song: "song/paul-cardall-be-thou-my-vision",
   carriedBy: [

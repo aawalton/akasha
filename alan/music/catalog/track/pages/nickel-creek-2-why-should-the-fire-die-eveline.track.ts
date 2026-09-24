@@ -12,7 +12,7 @@ export const nickelCreek2WhyShouldTheFireDieEveline = {
   title: "Eveline",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "eveline|3bcLBxvaI7GsBzGp3WHnwQ|191080",
   song: "song/nickel-creek-eveline",
   carriedBy: [

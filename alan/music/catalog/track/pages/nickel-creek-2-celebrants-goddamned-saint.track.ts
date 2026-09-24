@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsGoddamnedSaint = {
   title: "Goddamned Saint",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "goddamnedsaint|3bcLBxvaI7GsBzGp3WHnwQ|283670",
   song: "song/nickel-creek-goddamned-saint",
   carriedBy: [

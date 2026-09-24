@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterThisSideLive = {
   title: "This Side - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "thissidelive|3bcLBxvaI7GsBzGp3WHnwQ|249808",
   song: "song/nickel-creek-this-side",
   carriedBy: [

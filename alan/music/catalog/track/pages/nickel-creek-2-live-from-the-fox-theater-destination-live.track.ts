@@ -15,7 +15,7 @@ export const nickelCreek2LiveFromTheFoxTheaterDestinationLive = {
   title: "Destination - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "destinationlive|3bcLBxvaI7GsBzGp3WHnwQ|257153",
   song: "song/nickel-creek-destination",
   carriedBy: [

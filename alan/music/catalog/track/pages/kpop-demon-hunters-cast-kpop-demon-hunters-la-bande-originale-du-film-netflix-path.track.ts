@@ -16,7 +16,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixPa
   title: "오솔길 Path",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0RM1II8zWIoFb32PXO1RaR", artistName: "Jokers" }],
+  trackArtist: [{ artistName: "Jokers" }],
   trackKey: "path|0RM1II8zWIoFb32PXO1RaR|221805",
   song: "song/kpop-demon-hunters-cast-path",
   carriedBy: [

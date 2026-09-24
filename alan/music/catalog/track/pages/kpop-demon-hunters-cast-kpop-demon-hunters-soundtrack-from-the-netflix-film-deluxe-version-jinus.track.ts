@@ -14,10 +14,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
   title: "Jinu’s Lament",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1CUhHjPhPbMDlGJyUGxzP2", artistName: "Jinu" },
-    { externalId: "1TUrQeNhlJMcg9zl8yiW70", artistName: "Ahn Hyo-seop" },
-  ],
+  trackArtist: [{ artistName: "Jinu" }, { artistName: "Ahn Hyo-seop" }],
   trackKey: "jinuslament|1CUhHjPhPbMDlGJyUGxzP2,1TUrQeNhlJMcg9zl8yiW70|46993",
   song: "song/kpop-demon-hunters-cast-jinus-lament",
   carriedBy: [

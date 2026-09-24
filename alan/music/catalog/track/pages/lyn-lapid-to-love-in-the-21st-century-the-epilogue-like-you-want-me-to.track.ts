@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueLikeYouWantMeTo = {
   title: "like you want me to",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "likeyouwantmeto|4pfy05cNNTacuOQ6SiSu4v|157773",
   song: "song/lyn-lapid-like-you-want-me-to",
   carriedBy: [

@@ -12,10 +12,7 @@ export const lynLapidBackFromTheDeadBackFromTheDeadWithMxmtoon = {
   title: "back from the dead (with mxmtoon)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" },
-    { externalId: "0HthCchcL0kVLHTr113Vk1", artistName: "mxmtoon" },
-  ],
+  trackArtist: [{ artist: "artist/lyn-lapid" }, { artistName: "mxmtoon" }],
   trackKey: "backfromthedeadwithmxmtoon|0HthCchcL0kVLHTr113Vk1,4pfy05cNNTacuOQ6SiSu4v|158060",
   song: "song/lyn-lapid-back-from-the-dead",
   carriedBy: [

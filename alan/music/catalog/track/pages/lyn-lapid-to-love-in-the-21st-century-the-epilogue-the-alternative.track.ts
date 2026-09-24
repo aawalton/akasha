@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueTheAlternative = {
   title: "the alternative",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "thealternative|4pfy05cNNTacuOQ6SiSu4v|183693",
   song: "song/lyn-lapid-the-alternative",
   carriedBy: [

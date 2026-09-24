@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterWhenInRomeLive = {
   title: "When in Rome - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "wheninromelive|3bcLBxvaI7GsBzGp3WHnwQ|289402",
   song: "song/nickel-creek-when-in-rome",
   carriedBy: [

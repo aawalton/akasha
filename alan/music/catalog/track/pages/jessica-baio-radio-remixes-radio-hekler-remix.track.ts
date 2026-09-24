@@ -13,11 +13,11 @@ export const jessicaBaioRadioRemixesRadioHeklerRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "77AiFEVeAVj2ORpC85QVJs", artistName: "Steve Aoki" },
-    { externalId: "6Xgp2XMz1fhVYe7i6yNAax", artistName: "Trippie Redd" },
-    { externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" },
-    { externalId: "5QvkIWJdNyVeqs1FgVOEg7", artistName: "KABU" },
-    { externalId: "4FoQJyBgyhdDCb1wdEgNZh", artistName: "Hekler" },
+    { artistName: "Steve Aoki" },
+    { artistName: "Trippie Redd" },
+    { artist: "artist/jessica-baio" },
+    { artistName: "KABU" },
+    { artistName: "Hekler" },
   ],
   trackKey:
     "radioheklerremix|0VMFTqmv0hYlWruyBERT95,4FoQJyBgyhdDCb1wdEgNZh,5QvkIWJdNyVeqs1FgVOEg7,6Xgp2XMz1fhVYe7i6yNAax,77AiFEVeAVj2ORpC85QVJs|230400",

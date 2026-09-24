@@ -12,7 +12,7 @@ export const jessicaBaioPetalsLifeJacket = {
   title: "life jacket",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "lifejacket|0VMFTqmv0hYlWruyBERT95|163932",
   song: "song/jessica-baio-life-jacket",
   carriedBy: [

@@ -12,7 +12,7 @@ export const nickelCreek2ADottedLineLoveOfMine = {
   title: "Love of Mine",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "loveofmine|3bcLBxvaI7GsBzGp3WHnwQ|282320",
   song: "song/nickel-creek-love-of-mine",
   carriedBy: [

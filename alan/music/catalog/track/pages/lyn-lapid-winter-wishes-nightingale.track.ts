@@ -12,7 +12,7 @@ export const lynLapidWinterWishesNightingale = {
   title: "nightingale",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "nightingale|4pfy05cNNTacuOQ6SiSu4v|247066",
   song: "song/lyn-lapid-nightingale",
   carriedBy: [

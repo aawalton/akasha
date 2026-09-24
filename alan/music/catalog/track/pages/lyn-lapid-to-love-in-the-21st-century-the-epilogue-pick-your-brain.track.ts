@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpiloguePickYourBrain = {
   title: "pick your brain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "pickyourbrain|4pfy05cNNTacuOQ6SiSu4v|219800",
   song: "song/lyn-lapid-pick-your-brain",
   carriedBy: [

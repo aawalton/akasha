@@ -12,7 +12,7 @@ export const nickelCreek2ReasonSWhyTheVeryBestYouDontHaveToMoveThatMountainLiveF
   title: "You Don’t Have To Move That Mountain - Live From The Freight And Salvage/2000",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey:
     "youdonthavetomovethatmountainlivefromthefreightandsalvage2000|3bcLBxvaI7GsBzGp3WHnwQ|231840",
   song: "song/nickel-creek-you-dont-have-to-move-that-mountain",

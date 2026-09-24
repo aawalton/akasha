@@ -14,10 +14,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixLe
   title: "Le Son De Nos Voix",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2yNNYQBChuox9A5Ka93BIn", artistName: "HUNTR/X" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
-  ],
+  trackArtist: [{ artistName: "HUNTR/X" }, { artist: "artist/kpop-demon-hunters-cast" }],
   trackKey: "lesondenosvoix|2yNNYQBChuox9A5Ka93BIn,7mW7Tv7NvywKKXqafZo0Lc|250268",
   song: "song/kpop-demon-hunters-cast-le-son-de-nos-voix",
   carriedBy: [

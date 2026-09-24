@@ -12,7 +12,7 @@ export const nickelCreek2NickelCreekSweetAfton = {
   title: "Sweet Afton",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "sweetafton|3bcLBxvaI7GsBzGp3WHnwQ|337906",
   song: "song/nickel-creek-sweet-afton",
   carriedBy: [

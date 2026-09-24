@@ -12,7 +12,7 @@ export const jessicaBaioSacredIiNaturally = {
   title: "naturally",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "naturally|0VMFTqmv0hYlWruyBERT95|164340",
   song: "song/jessica-baio-naturally",
   carriedBy: [

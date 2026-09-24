@@ -12,7 +12,7 @@ export const nickelCreek2ADottedLineHayloft = {
   title: "Hayloft",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "hayloft|3bcLBxvaI7GsBzGp3WHnwQ|197533",
   song: "song/nickel-creek-hayloft",
   carriedBy: [

@@ -12,7 +12,7 @@ export const lynLapidTheOutsiderTheOutsider = {
   title: "The Outsider",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "theoutsider|4pfy05cNNTacuOQ6SiSu4v|180604",
   song: "song/lyn-lapid-the-outsider",
   carriedBy: [

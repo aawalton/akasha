@@ -12,7 +12,7 @@ export const paulCardallAncestorsMountainMeadows = {
   title: "Mountain Meadows",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "mountainmeadows|7FQRbf8gbKw8KZQZAJWxH2|268080",
   song: "song/paul-cardall-mountain-meadows",
   carriedBy: [

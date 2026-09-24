@@ -12,7 +12,7 @@ export const nickelCreek2ReasonSWhyTheVeryBestTheFoxLiveFromTheFreightAndSalvage
   title: "The Fox - Live From The Freight And Salvage/2000",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "thefoxlivefromthefreightandsalvage2000|3bcLBxvaI7GsBzGp3WHnwQ|559520",
   song: "song/nickel-creek-the-fox",
   carriedBy: [

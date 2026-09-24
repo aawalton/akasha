@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysThereIsSunshineInMySoul = {
   title: "There Is Sunshine in My Soul",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thereissunshineinmysoul|7FQRbf8gbKw8KZQZAJWxH2|189306",
   song: "song/paul-cardall-there-is-sunshine-in-my-soul",
   carriedBy: [

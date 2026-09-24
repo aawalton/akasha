@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysDidYouThinkToPray = {
   title: "Did You Think to Pray?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "didyouthinktopray|7FQRbf8gbKw8KZQZAJWxH2|182133",
   song: "song/paul-cardall-did-you-think-to-pray",
   carriedBy: [

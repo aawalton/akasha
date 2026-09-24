@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueEastSide = {
   title: "east side",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "eastside|4pfy05cNNTacuOQ6SiSu4v|165578",
   song: "song/lyn-lapid-east-side",
   carriedBy: [

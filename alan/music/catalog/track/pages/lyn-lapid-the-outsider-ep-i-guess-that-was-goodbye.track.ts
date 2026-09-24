@@ -12,7 +12,7 @@ export const lynLapidTheOutsiderEpIGuessThatWasGoodbye = {
   title: "I Guess That Was Goodbye",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "iguessthatwasgoodbye|4pfy05cNNTacuOQ6SiSu4v|190253",
   song: "song/lyn-lapid-i-guess-that-was-goodbye",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jessicaBaioHeLovesMeHeLovesMeNotStrippedHeLovesMeHeLovesMeNotStripp
   title: "he loves me, he loves me not - stripped",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "helovesmehelovesmenotstripped|0VMFTqmv0hYlWruyBERT95|166614",
   song: "song/jessica-baio-he-loves-me-he-loves-me-not",
   carriedBy: [

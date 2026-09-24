@@ -16,7 +16,7 @@ export const jessicaBaioPetalsGhost = {
   title: "ghost",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "ghost|0VMFTqmv0hYlWruyBERT95|129313",
   song: "song/jessica-baio-ghost",
   carriedBy: [

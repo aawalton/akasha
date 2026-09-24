@@ -16,7 +16,7 @@ export const lynLapidBuzzkillForeverIllBeHappyWhen = {
   title: "i’ll be happy when",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "illbehappywhen|4pfy05cNNTacuOQ6SiSu4v|176573",
   song: "song/lyn-lapid-ill-be-happy-when",
   carriedBy: [

@@ -12,7 +12,7 @@ export const nickelCreek2ThisSideGreenAndGray = {
   title: "Green And Gray",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "greenandgray|3bcLBxvaI7GsBzGp3WHnwQ|216946",
   song: "song/nickel-creek-green-and-gray",
   carriedBy: [

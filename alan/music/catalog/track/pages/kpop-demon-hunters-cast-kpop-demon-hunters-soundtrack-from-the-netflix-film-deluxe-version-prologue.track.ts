@@ -15,10 +15,7 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
     title: "Prologue (Hunter’s Mantra)",
     trackType: "studio",
     explicit: false,
-    trackArtist: [
-      { externalId: "0qDZ7wym9Vg843lDKkzmoR", artistName: "Marcelo Zarvos" },
-      { externalId: "0RMJOzHDhAKY1o2j0W0vxY", artistName: "EJAE" },
-    ],
+    trackArtist: [{ artistName: "Marcelo Zarvos" }, { artist: "artist/ejae" }],
     trackKey: "prologuehuntersmantra|0RMJOzHDhAKY1o2j0W0vxY,0qDZ7wym9Vg843lDKkzmoR|96173",
     song: "song/kpop-demon-hunters-cast-prologue-hunters-mantra",
     carriedBy: [

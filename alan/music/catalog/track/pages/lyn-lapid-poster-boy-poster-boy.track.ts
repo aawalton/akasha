@@ -12,7 +12,7 @@ export const lynLapidPosterBoyPosterBoy = {
   title: "poster boy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "posterboy|4pfy05cNNTacuOQ6SiSu4v|166303",
   song: "song/lyn-lapid-poster-boy",
   carriedBy: [

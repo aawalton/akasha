@@ -12,7 +12,7 @@ export const jessicaBaioCatalystNeverAQuestion = {
   title: "never a question",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "neveraquestion|0VMFTqmv0hYlWruyBERT95|164696",
   song: "song/jessica-baio-never-a-question",
   carriedBy: [

@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterScotchChocolateLive = {
   title: "Scotch & Chocolate - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "scotchchocolatelive|3bcLBxvaI7GsBzGp3WHnwQ|215339",
   song: "song/nickel-creek-scotch-chocolate",
   carriedBy: [

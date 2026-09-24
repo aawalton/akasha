@@ -12,10 +12,7 @@ export const lynLapidDoUReallyDoUReallyWithRuthB = {
   title: "do u really? (with Ruth B.)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" },
-    { externalId: "2WzaAvm2bBCf4pEhyuDgCY", artistName: "Ruth B." },
-  ],
+  trackArtist: [{ artist: "artist/lyn-lapid" }, { artistName: "Ruth B." }],
   trackKey: "doureallywithruthb|2WzaAvm2bBCf4pEhyuDgCY,4pfy05cNNTacuOQ6SiSu4v|161123",
   song: "song/lyn-lapid-do-u-really",
   carriedBy: [

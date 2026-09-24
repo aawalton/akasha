@@ -15,9 +15,9 @@ export const kpopDemonHuntersCastKpopDemonHuntersSoundtrackFromTheNetflixFilmDel
   trackType: "instrumental",
   explicit: false,
   trackArtist: [
-    { externalId: "18Z49sdpTYjv4TmBJPHMCb", artistName: "Rumi" },
-    { externalId: "1CUhHjPhPbMDlGJyUGxzP2", artistName: "Jinu" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+    { artistName: "Rumi" },
+    { artistName: "Jinu" },
+    { artist: "artist/kpop-demon-hunters-cast" },
   ],
   trackKey:
     "freeinstrumental|18Z49sdpTYjv4TmBJPHMCb,1CUhHjPhPbMDlGJyUGxzP2,7mW7Tv7NvywKKXqafZo0Lc|187963",

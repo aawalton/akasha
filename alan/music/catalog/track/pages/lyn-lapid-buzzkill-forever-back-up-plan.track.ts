@@ -12,7 +12,7 @@ export const lynLapidBuzzkillForeverBackUpPlan = {
   title: "back up plan",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "backupplan|4pfy05cNNTacuOQ6SiSu4v|174404",
   song: "song/lyn-lapid-back-up-plan",
   carriedBy: [

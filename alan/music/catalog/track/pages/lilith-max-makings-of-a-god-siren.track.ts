@@ -12,7 +12,7 @@ export const lilithMaxMakingsOfAGodSiren = {
   title: "Siren",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "siren|797SPxZf82IYq3XCM8c9AM|175663",
   song: "song/lilith-max-siren",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallAncestorsWesternWinds = {
   title: "Western Winds",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "westernwinds|7FQRbf8gbKw8KZQZAJWxH2|223914",
   song: "song/paul-cardall-western-winds",
   carriedBy: [

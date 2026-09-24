@@ -12,7 +12,7 @@ export const nickelCreek2ReasonSWhyTheVeryBestSmoothieSong = {
   title: "Smoothie Song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "smoothiesong|3bcLBxvaI7GsBzGp3WHnwQ|199653",
   song: "song/nickel-creek-smoothie-song",
   carriedBy: [

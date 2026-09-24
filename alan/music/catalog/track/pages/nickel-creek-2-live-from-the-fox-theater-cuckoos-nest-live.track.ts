@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterCuckoosNestLive = {
   title: "Cuckoo's Nest - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "cuckoosnestlive|3bcLBxvaI7GsBzGp3WHnwQ|169436",
   song: "song/nickel-creek-cuckoos-nest",
   carriedBy: [

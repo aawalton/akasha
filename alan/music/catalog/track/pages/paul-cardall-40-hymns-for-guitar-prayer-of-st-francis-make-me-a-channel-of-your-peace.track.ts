@@ -12,7 +12,7 @@ export const paulCardall40HymnsForGuitarPrayerOfStFrancisMakeMeAChannelOfYourPea
   title: "Prayer of St. Francis - Make Me A Channel of Your Peace",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "prayerofstfrancismakemeachannelofyourpeace|7FQRbf8gbKw8KZQZAJWxH2|167500",
   song: "song/paul-cardall-prayer-of-st-francis-make-me-a-channel-of-your-peace",
   carriedBy: [

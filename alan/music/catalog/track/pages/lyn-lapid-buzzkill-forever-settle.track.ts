@@ -12,7 +12,7 @@ export const lynLapidBuzzkillForeverSettle = {
   title: "settle",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "settle|4pfy05cNNTacuOQ6SiSu4v|154078",
   song: "song/lyn-lapid-settle",
   carriedBy: [

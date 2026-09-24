@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysGentlyRaiseTheSacredStrain = {
   title: "Gently Raise the Sacred Strain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "gentlyraisethesacredstrain|7FQRbf8gbKw8KZQZAJWxH2|149426",
   song: "song/paul-cardall-gently-raise-the-sacred-strain",
   carriedBy: [

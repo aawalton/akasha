@@ -12,7 +12,7 @@ export const nickelCreek2ReasonSWhyTheVeryBestSomebodyMoreLikeYou = {
   title: "Somebody More Like You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "somebodymorelikeyou|3bcLBxvaI7GsBzGp3WHnwQ|178933",
   song: "song/nickel-creek-somebody-more-like-you",
   carriedBy: [

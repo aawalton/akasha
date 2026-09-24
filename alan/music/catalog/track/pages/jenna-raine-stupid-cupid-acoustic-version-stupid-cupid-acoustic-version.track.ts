@@ -12,7 +12,7 @@ export const jennaRaineStupidCupidAcousticVersionStupidCupidAcousticVersion = {
   title: "Stupid Cupid - Acoustic Version",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "3aHe9rMa5HFTjXHw8tEz0A", artistName: "Jenna Raine" }],
+  trackArtist: [{ artist: "artist/jenna-raine" }],
   trackKey: "stupidcupidacousticversion|3aHe9rMa5HFTjXHw8tEz0A|172237",
   song: "song/jenna-raine-stupid-cupid",
   carriedBy: [

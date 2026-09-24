@@ -12,7 +12,7 @@ export const paulCardallASacredChristmasPianoCollectionOurLittleAngel = {
   title: "Our Little Angel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ourlittleangel|7FQRbf8gbKw8KZQZAJWxH2|178938",
   song: "song/paul-cardall-our-little-angel",
   carriedBy: [

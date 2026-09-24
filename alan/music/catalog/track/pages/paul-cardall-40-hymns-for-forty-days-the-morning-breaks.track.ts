@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysTheMorningBreaks = {
   title: "The Morning Breaks",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "themorningbreaks|7FQRbf8gbKw8KZQZAJWxH2|115720",
   song: "song/paul-cardall-the-morning-breaks",
   carriedBy: [

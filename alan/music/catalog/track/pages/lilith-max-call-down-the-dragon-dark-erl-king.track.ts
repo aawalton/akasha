@@ -12,7 +12,7 @@ export const lilithMaxCallDownTheDragonDarkErlKing = {
   title: "Dark Erl King",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "darkerlking|797SPxZf82IYq3XCM8c9AM|190658",
   song: "song/lilith-max-dark-erl-king",
   carriedBy: [

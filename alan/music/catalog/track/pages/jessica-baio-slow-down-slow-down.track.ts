@@ -12,7 +12,7 @@ export const jessicaBaioSlowDownSlowDown = {
   title: "SLOW DOWN",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "slowdown|0VMFTqmv0hYlWruyBERT95|148263",
   song: "song/jessica-baio-slow-down",
   carriedBy: [

@@ -12,7 +12,7 @@ export const jessicaBaioCatalystSomeday = {
   title: "someday",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "someday|0VMFTqmv0hYlWruyBERT95|165766",
   song: "song/jessica-baio-someday",
   carriedBy: [

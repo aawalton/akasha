@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysAllCreaturesOfOurGodAndKing = {
   title: "All Creatures of Our God and King",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "allcreaturesofourgodandking|7FQRbf8gbKw8KZQZAJWxH2|162533",
   song: "song/paul-cardall-all-creatures-of-our-god-and-king",
   carriedBy: [

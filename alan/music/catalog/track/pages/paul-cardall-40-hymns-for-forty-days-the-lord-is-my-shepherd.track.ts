@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysTheLordIsMyShepherd = {
   title: "The Lord Is My Shepherd",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thelordismyshepherd|7FQRbf8gbKw8KZQZAJWxH2|195893",
   song: "song/paul-cardall-the-lord-is-my-shepherd",
   carriedBy: [

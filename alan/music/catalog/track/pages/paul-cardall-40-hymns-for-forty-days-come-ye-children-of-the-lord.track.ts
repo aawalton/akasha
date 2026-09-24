@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysComeYeChildrenOfTheLord = {
   title: "Come, Ye Children of the Lord",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "comeyechildrenofthelord|7FQRbf8gbKw8KZQZAJWxH2|169973",
   song: "song/paul-cardall-come-ye-children-of-the-lord",
   carriedBy: [

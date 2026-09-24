@@ -13,12 +13,12 @@ export const kpopDemonHuntersCastSodaPopSodaPopTagalog = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0BJ2EjOqcfgFvlZXNKrNbE", artistName: "Saja Boys" },
-    { externalId: "4MdHRbkB1mtYSuGGMrY6Q3", artistName: "Marc Peter Baluyan" },
-    { externalId: "7kztZRgz3at7ooJ53yIFQ2", artistName: "Daryl Reyes" },
-    { externalId: "0melmlLB0uZlTRDPrs5gCO", artistName: "Andrei Ayson" },
-    { externalId: "57u51MiuBvQWaLl2unEqiQ", artistName: "Cocoy Del Valle" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+    { artistName: "Saja Boys" },
+    { artistName: "Marc Peter Baluyan" },
+    { artistName: "Daryl Reyes" },
+    { artistName: "Andrei Ayson" },
+    { artistName: "Cocoy Del Valle" },
+    { artist: "artist/kpop-demon-hunters-cast" },
   ],
   trackKey:
     "sodapoptagalog|0BJ2EjOqcfgFvlZXNKrNbE,0melmlLB0uZlTRDPrs5gCO,4MdHRbkB1mtYSuGGMrY6Q3,57u51MiuBvQWaLl2unEqiQ,7kztZRgz3at7ooJ53yIFQ2,7mW7Tv7NvywKKXqafZo0Lc|149660",

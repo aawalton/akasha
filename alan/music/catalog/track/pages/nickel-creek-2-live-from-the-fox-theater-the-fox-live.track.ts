@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterTheFoxLive = {
   title: "The Fox - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "thefoxlive|3bcLBxvaI7GsBzGp3WHnwQ|379693",
   song: "song/nickel-creek-the-fox",
   carriedBy: [

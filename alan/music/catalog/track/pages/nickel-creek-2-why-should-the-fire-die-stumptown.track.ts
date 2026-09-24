@@ -12,7 +12,7 @@ export const nickelCreek2WhyShouldTheFireDieStumptown = {
   title: "Stumptown",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "stumptown|3bcLBxvaI7GsBzGp3WHnwQ|103973",
   song: "song/nickel-creek-stumptown",
   carriedBy: [

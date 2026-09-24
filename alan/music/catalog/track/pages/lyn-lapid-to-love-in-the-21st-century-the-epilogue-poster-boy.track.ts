@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpiloguePosterBoy = {
   title: "poster boy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "posterboy|4pfy05cNNTacuOQ6SiSu4v|166306",
   song: "song/lyn-lapid-poster-boy",
   carriedBy: [

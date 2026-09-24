@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheater21stOfMayLive = {
   title: "21st of May - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "21stofmaylive|3bcLBxvaI7GsBzGp3WHnwQ|179132",
   song: "song/nickel-creek-21st-of-may",
   carriedBy: [

@@ -18,7 +18,7 @@ export const jessicaBaioUnsaidDeluxeIDontEvenThinkAboutYou = {
   title: "i don't even think about you",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "idonteventhinkaboutyou|0VMFTqmv0hYlWruyBERT95|149568",
   song: "song/jessica-baio-i-don-t-even-think-about-you",
   carriedBy: [

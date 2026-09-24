@@ -12,7 +12,7 @@ export const paulCardallAncestorsSmallWonders = {
   title: "Small Wonders",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "smallwonders|7FQRbf8gbKw8KZQZAJWxH2|189781",
   song: "song/paul-cardall-small-wonders",
   carriedBy: [

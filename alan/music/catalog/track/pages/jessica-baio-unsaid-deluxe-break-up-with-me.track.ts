@@ -18,7 +18,7 @@ export const jessicaBaioUnsaidDeluxeBreakUpWithMe = {
   title: "break up with me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "breakupwithme|0VMFTqmv0hYlWruyBERT95|152640",
   song: "song/jessica-baio-break-up-with-me",
   carriedBy: [

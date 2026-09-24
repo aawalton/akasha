@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterTomorrowIsALongTimeLive = {
   title: "Tomorrow is a Long Time - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "tomorrowisalongtimelive|3bcLBxvaI7GsBzGp3WHnwQ|254970",
   song: "song/nickel-creek-tomorrow-is-a-long-time",
   carriedBy: [

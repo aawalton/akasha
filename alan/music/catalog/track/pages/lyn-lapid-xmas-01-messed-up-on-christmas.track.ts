@@ -12,7 +12,7 @@ export const lynLapidXmas01MessedUpOnChristmas = {
   title: "Messed Up On Christmas",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "messeduponchristmas|4pfy05cNNTacuOQ6SiSu4v|141972",
   song: "song/lyn-lapid-messed-up-on-christmas",
   carriedBy: [

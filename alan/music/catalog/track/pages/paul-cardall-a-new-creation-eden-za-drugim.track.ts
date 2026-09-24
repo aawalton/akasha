@@ -12,7 +12,7 @@ export const paulCardallANewCreationEdenZaDrugim = {
   title: "Eden Za Drugim",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "edenzadrugim|7FQRbf8gbKw8KZQZAJWxH2|200853",
   song: "song/paul-cardall-eden-za-drugim",
   carriedBy: [

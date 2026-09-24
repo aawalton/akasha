@@ -12,7 +12,7 @@ export const jisooAmortageYourLove = {
   title: "Your Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6UZ0ba50XreR4TM8u322gs", artistName: "JISOO" }],
+  trackArtist: [{ artist: "artist/jisoo" }],
   trackKey: "yourlove|6UZ0ba50XreR4TM8u322gs|173232",
   song: "song/jisoo-your-love",
   carriedBy: [

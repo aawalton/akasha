@@ -12,7 +12,7 @@ export const jessicaBaioSkinAcousticSkinAcoustic = {
   title: "skin - acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "skinacoustic|0VMFTqmv0hYlWruyBERT95|199472",
   song: "song/jessica-baio-skin",
   carriedBy: [

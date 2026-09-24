@@ -12,7 +12,7 @@ export const paulCardall40HymnsForFortyDaysLeadKindlyLight = {
   title: "Lead, Kindly Light",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "leadkindlylight|7FQRbf8gbKw8KZQZAJWxH2|221706",
   song: "song/paul-cardall-lead-kindly-light",
   carriedBy: [

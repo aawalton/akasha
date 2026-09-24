@@ -12,7 +12,7 @@ export const nickelCreek2LiveFromTheFoxTheaterSomebodyMoreLikeYouLive = {
   title: "Somebody More Like You - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "somebodymorelikeyoulive|3bcLBxvaI7GsBzGp3WHnwQ|199069",
   song: "song/nickel-creek-somebody-more-like-you",
   carriedBy: [

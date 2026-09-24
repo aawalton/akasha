@@ -12,10 +12,7 @@ export const lynLapidRoomForYouRoomForYou = {
   title: "Room For You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "73BLwSX6gsNeVzS7DgI4xe", artistName: "grentperez" },
-    { externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" },
-  ],
+  trackArtist: [{ artistName: "grentperez" }, { artist: "artist/lyn-lapid" }],
   trackKey: "roomforyou|4pfy05cNNTacuOQ6SiSu4v,73BLwSX6gsNeVzS7DgI4xe|183373",
   song: "song/lyn-lapid-room-for-you",
   carriedBy: [

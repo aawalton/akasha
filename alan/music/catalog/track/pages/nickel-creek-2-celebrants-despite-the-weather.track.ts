@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsDespiteTheWeather = {
   title: "…Despite the Weather",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "despitetheweather|3bcLBxvaI7GsBzGp3WHnwQ|242858",
   song: "song/nickel-creek-despite-the-weather",
   carriedBy: [

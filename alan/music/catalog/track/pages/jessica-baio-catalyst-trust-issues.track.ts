@@ -12,7 +12,7 @@ export const jessicaBaioCatalystTrustIssues = {
   title: "trust issues",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "trustissues|0VMFTqmv0hYlWruyBERT95|134262",
   song: "song/jessica-baio-trust-issues",
   carriedBy: [

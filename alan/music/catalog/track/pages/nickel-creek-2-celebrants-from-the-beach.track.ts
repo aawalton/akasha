@@ -12,7 +12,7 @@ export const nickelCreek2CelebrantsFromTheBeach = {
   title: "From the Beach",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "fromthebeach|3bcLBxvaI7GsBzGp3WHnwQ|207138",
   song: "song/nickel-creek-from-the-beach",
   carriedBy: [

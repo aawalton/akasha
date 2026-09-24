@@ -16,7 +16,7 @@ export const nickelCreek2LiveFromTheFoxTheaterWhenYouComeBackDownLive = {
   title: "When You Come Back Down - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "3bcLBxvaI7GsBzGp3WHnwQ", artistName: "Nickel Creek" }],
+  trackArtist: [{ artist: "artist/nickel-creek" }],
   trackKey: "whenyoucomebackdownlive|3bcLBxvaI7GsBzGp3WHnwQ|303706",
   song: "song/nickel-creek-when-you-come-back-down",
   carriedBy: [

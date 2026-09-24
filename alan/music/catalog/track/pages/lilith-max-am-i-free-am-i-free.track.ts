@@ -12,7 +12,7 @@ export const lilithMaxAmIFreeAmIFree = {
   title: "Am I Free",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "amifree|797SPxZf82IYq3XCM8c9AM|142846",
   song: "song/lilith-max-am-i-free",
   carriedBy: [

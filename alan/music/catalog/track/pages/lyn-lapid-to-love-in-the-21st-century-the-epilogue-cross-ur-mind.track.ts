@@ -15,7 +15,7 @@ export const lynLapidToLoveInThe21stCenturyTheEpilogueCrossUrMind = {
   title: "cross ur mind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4pfy05cNNTacuOQ6SiSu4v", artistName: "Lyn Lapid" }],
+  trackArtist: [{ artist: "artist/lyn-lapid" }],
   trackKey: "crossurmind|4pfy05cNNTacuOQ6SiSu4v|193626",
   song: "song/lyn-lapid-cross-ur-mind",
   carriedBy: [

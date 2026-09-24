@@ -15,9 +15,9 @@ export const kpopDemonHuntersCastKpopDemonHuntersLaBandeOriginaleDuFilmNetflixLi
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "61f6sF5hcAVsSEP0FCe6Wx", artistName: "Rumi" },
-    { externalId: "5eSVIy2o6RbahDAM59eQos", artistName: "Jinu" },
-    { externalId: "7mW7Tv7NvywKKXqafZo0Lc", artistName: "KPop Demon Hunters Cast" },
+    { artistName: "Rumi" },
+    { artistName: "Jinu" },
+    { artist: "artist/kpop-demon-hunters-cast" },
   ],
   trackKey: "libre|5eSVIy2o6RbahDAM59eQos,61f6sF5hcAVsSEP0FCe6Wx,7mW7Tv7NvywKKXqafZo0Lc|187963",
   song: "song/kpop-demon-hunters-cast-libre",

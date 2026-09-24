@@ -18,7 +18,7 @@ export const jessicaBaioPetalsTakeItBack = {
   title: "take it back",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "takeitback|0VMFTqmv0hYlWruyBERT95|170847",
   song: "song/jessica-baio-take-it-back",
   carriedBy: [

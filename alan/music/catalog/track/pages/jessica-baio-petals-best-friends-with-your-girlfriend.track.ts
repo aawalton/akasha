@@ -19,7 +19,7 @@ export const jessicaBaioPetalsBestFriendsWithYourGirlfriend = {
   title: "best friends with your girlfriend",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0VMFTqmv0hYlWruyBERT95", artistName: "Jessica Baio" }],
+  trackArtist: [{ artist: "artist/jessica-baio" }],
   trackKey: "bestfriendswithyourgirlfriend|0VMFTqmv0hYlWruyBERT95|123401",
   song: "song/jessica-baio-best-friends-with-your-girlfriend",
   carriedBy: [

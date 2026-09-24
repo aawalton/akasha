@@ -12,7 +12,7 @@ export const lilithMaxBirdsOfAFeatherBirdsOfAFeather = {
   title: "Birds of a Feather",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "797SPxZf82IYq3XCM8c9AM", artistName: "Lilith Max" }],
+  trackArtist: [{ artist: "artist/lilith-max" }],
   trackKey: "birdsofafeather|797SPxZf82IYq3XCM8c9AM|178551",
   song: "song/lilith-max-birds-of-a-feather",
   carriedBy: [
