@@ -103,6 +103,11 @@ export const typecheck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A lua runtime library's files are compiled by `lua-runtime-library-compiles` rather than here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "One program is built for a set of changes however many files that set holds.",
     },
     {
