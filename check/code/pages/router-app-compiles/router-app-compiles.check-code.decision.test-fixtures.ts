@@ -12,6 +12,7 @@ import {
 } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { routerApp } from "akasha/code/router-app/router-app.page-type.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const APP_ID = "01a0ca00-1d3b-7a41-9b1e-4f1b3c2d5e60"
 
@@ -21,7 +22,9 @@ const APP_PAGE_AT = `${APP}/${APP_SLUG}.${routerApp.slug}.ts`
 
 export const APART_AT = "akasha/apart.ts"
 
-const APP_PAGE = bodied({ id: APP_ID, pageTypeSlug: routerApp.slug, slug: APP_SLUG })
+const APP_TYPE = `${pageType.slug}/${routerApp.slug}`
+
+const APP_PAGE = bodied({ id: APP_ID, type: APP_TYPE, slug: APP_SLUG })
 
 export function appStaged(over: Readonly<Record<string, string>> = {}): string {
   const root = staged({

@@ -138,7 +138,9 @@ export function listedAndValued(
   id: string
 ): undefined {
   listedFiled(root, pageTypeSlug, slug, [{ path, id }])
-  valueAlsoFiled(root, pageTypeSlug, [{ path, value: { id, pageTypeSlug, slug } }])
+  valueAlsoFiled(root, pageTypeSlug, [
+    { path, value: { id, type: `${PAGE_TYPE}/${pageTypeSlug}`, slug } },
+  ])
 }
 
 export function listedFiledIn(root: string, pageTypeSlug: string, slug: string): boolean {
@@ -191,7 +193,7 @@ export function typeListed(root: string, slug: string, path?: string): string {
 function typeValued(root: string, kind: string, above: readonly string[]): undefined {
   const at = `akasha/${kind}.${PAGE_TYPE}.ts`
   const id = typeListed(root, kind, at)
-  const value = { id, pageTypeSlug: `${PAGE_TYPE}/${PAGE_TYPE}`, slug: kind, extends: above }
+  const value = { id, type: `${PAGE_TYPE}/${PAGE_TYPE}`, slug: kind, extends: above }
   valueAlsoFiled(root, PAGE_TYPE, [{ path: at, value }])
   for (const one of above) relationFiled(root, typeIdOf(one), EXTENDS_TYPE, id, [{ path: at }])
 }

@@ -21,7 +21,7 @@ export function filed(
 ): string {
   const path = `held/${slug}.${pageTypeSlug}.ts`
   const id = `id-${pageTypeSlug}-${slug}`
-  const held = { id, pageTypeSlug, slug, ...value }
+  const held = { id, type: `page-type/${pageTypeSlug}`, slug, ...value }
   listedFiled(root, pageTypeSlug, slug, [{ path, id }])
   pageFiled(root, id, path)
   valueAlsoFiled(root, pageTypeSlug, [{ path, value: held }])

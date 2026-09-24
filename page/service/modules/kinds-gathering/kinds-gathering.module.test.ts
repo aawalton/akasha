@@ -131,7 +131,10 @@ test("a row carries the page type its own page states", () => {
   worlded(root)
   filed(root, "held", "one", { count: 1 })
   filed(root, "further", "three", { count: 3 })
-  expect(rowsOf(root, "held").map((one) => one["pageTypeSlug"])).toEqual(["further", "held"])
+  expect(rowsOf(root, "held").map((one) => one["type"])).toEqual([
+    "page-type/further",
+    "page-type/held",
+  ])
 })
 
 test("two page types under one carrying one slug are two rows", () => {

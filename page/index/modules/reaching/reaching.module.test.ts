@@ -71,7 +71,7 @@ function twoParents(): { readonly root: string; readonly repo: string } {
   const valued: string[] = []
   const typed = (slug: string, above: readonly string[], id: string): undefined => {
     const path = `${slug}.page-type.ts`
-    const value = { id, pageTypeSlug: "page-type", slug, extends: above }
+    const value = { id, type: `${pageType.slug}/${pageType.slug}`, slug, extends: above }
     writeFileSync(join(repo, path), `export const it = ${JSON.stringify(value)}\n`)
     lineFiled(root, `page-type/page-type/slug/${slug}.jsonl`, JSON.stringify({ path, id }))
     valued.push(JSON.stringify({ path, value }))

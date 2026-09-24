@@ -73,7 +73,7 @@ export function rooted(files: Readonly<Record<string, string>>): string {
   const root = realpathSync(scratch.rootFor("lua-runtime-library-compiles-"))
   nothingFiled(root)
   valueAlsoFiled(root, LIBRARY_TYPE, [
-    { path: PAGE, value: { pageTypeSlug: LIBRARY_TYPE, slug: "held" } },
+    { path: PAGE, value: { type: `page-type/${LIBRARY_TYPE}`, slug: "held" } },
   ])
   return tracked(root, librarying(files))
 }
