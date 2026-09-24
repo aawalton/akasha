@@ -228,6 +228,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts"}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/temper/inventory/bank/profile/temper-inventory-bank-profile.command.ts"}
