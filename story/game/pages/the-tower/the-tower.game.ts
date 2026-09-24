@@ -51,7 +51,7 @@ export const theTower = {
     "game-attribute/will",
   ],
   defaultDice: "game-mechanic/two-d-ten",
-  cardVocabulary: ["LEVEL UP", "SKILL", "AFFINITY", "CLASS", "TITLE", "ESSENCE ABSORBED"],
+  cardVocabulary: ["LEVEL UP", "SKILL", "AFFINITY", "TITLE", "ESSENCE ABSORBED"],
   panels: [
     "game-panel/tower-hud",
     "game-panel/character-sheet",
