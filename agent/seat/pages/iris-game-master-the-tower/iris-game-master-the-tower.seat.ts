@@ -11,4 +11,5 @@ export const irisGameMasterTheTower = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "27c433bc-d900-4029-9b5e-e0b94c46c00f",
 } as const satisfies Seat
