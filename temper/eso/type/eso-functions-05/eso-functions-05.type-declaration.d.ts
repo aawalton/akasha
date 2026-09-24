@@ -454,3 +454,14 @@ declare function GetRecipeIngredientItemLink(
   ingredientIndex?: number,
   linkStyle?: number
 ): string
+declare function GetNumRecipeTradeskillRequirements(
+  this: void,
+  recipeListIndex?: number,
+  recipeIndex?: number
+): number
+declare function GetRecipeTradeskillRequirement(
+  this: void,
+  recipeListIndex?: number,
+  recipeIndex?: number,
+  tradeskillIndex?: number
+): LuaMultiReturn<[tradeskill: TradeskillType, levelRequirement: number]>

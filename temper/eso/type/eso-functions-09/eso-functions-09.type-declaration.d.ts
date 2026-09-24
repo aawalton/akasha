@@ -9,6 +9,7 @@ declare function GetItemLinkEnchantingRuneClassification(
   this: void,
   itemLink?: string
 ): EnchantingRuneClassification
+declare function GetItemLinkRequiredCraftingSkillRank(this: void, itemLink?: string): number
 declare function IsItemLinkBound(this: void, itemLink?: string): boolean
 declare function GetItemLinkBindType(this: void, itemLink?: string): BindType
 declare function GetItemLinkGlyphMinLevels(
