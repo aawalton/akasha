@@ -6,8 +6,23 @@ import type {
 import { searchResponseSchema } from "akasha/alan/music/spotify/modules/search/spotify-search.module.code.ts"
 import type { Finding } from "akasha/command/pages/music/search/music-search.command.code.ts"
 import { searchWith } from "akasha/command/pages/music/search/music-search.command.code.ts"
+import { z } from "zod"
 
 const CALLED = "akasha music search"
+
+const SEARCH_SAID = z.strictObject({
+  query: z.string(),
+  artist: z.string().nullable(),
+  candidates: z.array(
+    z.strictObject({
+      trackName: z.string(),
+      artists: z.array(z.string()),
+      album: z.string().nullable(),
+      uri: z.string(),
+      id: z.string().nullable(),
+    })
+  ),
+})
 
 const TOTAL = 2
 
@@ -104,7 +119,7 @@ test("no candidate is reported as none", async () => {
 test("--json gives the envelope on one line", async () => {
   const said = await searchWith(findingOf([ONE], []), ["Bulletproof", "--json"], CALLED)
   expect(said.code).toBe(0)
-  const read = JSON.parse(said.report[0] as string)
+  const read = SEARCH_SAID.parse(JSON.parse(said.report[0] as string))
   expect(read.query).toBe("Bulletproof")
   expect(read.artist).toBe(null)
   expect(read.candidates).toEqual([

@@ -38,6 +38,7 @@ import {
   REACTION_FILED,
   RELEASE_AT,
   RELEASE_SLUG,
+  ratedOf,
   reaching,
   refusalOf,
   refusalsOf,
@@ -174,7 +175,7 @@ test("one call grades what is playing without naming any page", async () => {
     PLAYER
   )
   expect(said.refusals).toEqual([])
-  expect(JSON.parse(said.report[0] ?? "")).toEqual({
+  expect(ratedOf(said.report[0] ?? "")).toEqual({
     target: TRACK,
     slug: TRACK_SLUG,
     grade: "S+",
@@ -215,7 +216,7 @@ test("one call grades the track played last over a silent player", async () => {
     PLAYED
   )
   expect(said.refusals).toEqual([])
-  expect(JSON.parse(said.report[0] ?? "")).toEqual({ target: TRACK, slug: TRACK_SLUG, grade: "S" })
+  expect(ratedOf(said.report[0] ?? "")).toEqual({ target: TRACK, slug: TRACK_SLUG, grade: "S" })
   const one = reach.reached[0]
   if (one === undefined) throw new Error("the landing was never reached")
   expect(pathsIn(one.asked)).toEqual([TRACK_AT])
@@ -312,7 +313,7 @@ test("what is recorded is said as a line or as JSON", () => {
   const held = takingOf(["--target", TRACK, "--slug", "a", "--grade", "B"])
   expect(saidOf(held, "a")).toBe(`Recorded ${TRACK} a`)
   const asJson = takingOf(["--target", TRACK, "--slug", "a", "--grade", "B", "--json"])
-  expect(JSON.parse(saidOf(asJson, "a"))).toEqual({ target: TRACK, slug: "a", grade: "B" })
+  expect(ratedOf(saidOf(asJson, "a"))).toEqual({ target: TRACK, slug: "a", grade: "B" })
 })
 
 test("the page and its prose are named to the landing at the change writing any path", async () => {

@@ -13,8 +13,22 @@ import {
   playedAndQueued,
   queueing,
 } from "akasha/command/pages/music/queue/music-queue.command.code.ts"
+import { z } from "zod"
 
 const CALLED = "akasha music queue"
+
+const QUEUE_SAID = z.strictObject({
+  queries: z.array(z.string()),
+  tracks: z.array(
+    z.strictObject({
+      name: z.string().nullable(),
+      uri: z.string(),
+      id: z.string().nullable(),
+      artists: z.array(z.string()).readonly(),
+    })
+  ),
+  deviceId: z.string().nullable(),
+})
 
 const PLAYED = `▶ Playing "one — Someone"`
 
@@ -145,7 +159,7 @@ test("the json answer carries the queries, the tracks and the device", async () 
   const fake = fakeFor()
   const said = await queueing(["one", "two", "--json"], fake.ports, CALLED)
   expect(said.code).toBe(0)
-  expect(JSON.parse(said.report.join("\n"))).toEqual({
+  expect(QUEUE_SAID.parse(JSON.parse(said.report.join("\n")))).toEqual({
     queries: ["one", "two"],
     tracks: [trackFor("one", "Someone"), trackFor("two", "Someone")],
     deviceId: null,

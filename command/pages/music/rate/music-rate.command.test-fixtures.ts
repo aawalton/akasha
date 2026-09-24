@@ -30,8 +30,19 @@ import {
   taken,
 } from "akasha/command/pages/music/rate/music-rate.command.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
+import { z } from "zod"
 
 export const scratch = scratchWorld()
+
+const RATED_SAID = z.strictObject({
+  target: z.string(),
+  slug: z.string(),
+  grade: z.string().nullable(),
+})
+
+export function ratedOf(said: string): z.infer<typeof RATED_SAID> {
+  return RATED_SAID.parse(JSON.parse(said))
+}
 
 const ROOT = rootOf(process.cwd())
 
