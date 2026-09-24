@@ -86,6 +86,7 @@ export const day = {
     "text-property/version",
     "number-property/inbox-findings",
     "boolean-property/inbox-findings-cleared-today",
+    "number-property/inbox-gaps",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -187,6 +188,7 @@ export const day = {
     },
     { pageProperty: "number-property/inbox-findings", required: false, many: false },
     { pageProperty: "boolean-property/inbox-findings-cleared-today", required: false, many: false },
+    { pageProperty: "number-property/inbox-gaps", required: false, many: false },
   ],
   decisions: [
     {

@@ -18,6 +18,7 @@ import type { InboxCalendar } from "akasha/alan/track/daily/day/properties/inbox
 import type { InboxCalendarClearedToday } from "akasha/alan/track/daily/day/properties/inbox-calendar-cleared-today.boolean-property.types.ts"
 import type { InboxFindings } from "akasha/alan/track/daily/day/properties/inbox-findings.number-property.types.ts"
 import type { InboxFindingsClearedToday } from "akasha/alan/track/daily/day/properties/inbox-findings-cleared-today.boolean-property.types.ts"
+import type { InboxGaps } from "akasha/alan/track/daily/day/properties/inbox-gaps.number-property.types.ts"
 import type { InboxTasks } from "akasha/alan/track/daily/day/properties/inbox-tasks.number-property.types.ts"
 import type { InboxTasksClearedToday } from "akasha/alan/track/daily/day/properties/inbox-tasks-cleared-today.boolean-property.types.ts"
 import type { InboxTemperTasks } from "akasha/alan/track/daily/day/properties/inbox-temper-tasks.number-property.types.ts"
@@ -125,4 +126,5 @@ export type Day = Page & {
   locationTraces?: LocationTraces
   inboxFindings?: InboxFindings
   inboxFindingsClearedToday?: InboxFindingsClearedToday
+  inboxGaps?: InboxGaps
 }
