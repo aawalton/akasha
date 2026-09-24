@@ -8,7 +8,7 @@ export const furniture = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-24T19:40:33.877Z",
+  capturedAt: "2026-09-24T20:12:36.218Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
