@@ -2275,6 +2275,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/body-owing/body-owing.module.ts","id":"01a094da-202e-7f5c-9796-4cb998a655c5"}
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/differing/differing.module.ts","id":"01a04ebb-d762-7000-92c3-765835d1b7a3"}
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/long-answering/long-answering.module.ts","id":"01a0956d-dad6-7000-bca1-cb148c7ff3f1"}
+{"propertySlug":"decision-kind","path":"command/pages/read/modules/lore-barring/lore-barring.module.ts","id":"01a0d488-6a42-730b-821a-7794efb3ae3a"}
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}
 {"propertySlug":"decision-kind","path":"command/pages/read/read.command.ts","id":"01a04bec-10b4-7e86-aeae-ed252396f186"}
 {"propertySlug":"decision-kind","path":"command/pages/refresh/message/refresh-message.command.ts","id":"01a082fe-341d-7593-8cfd-8216a7e94c2c"}

@@ -20,11 +20,10 @@ const GLOBBING = /[*?[]/
 export const ASKED = "may I know X yet?"
 
 export const WITHHELD: readonly string[] = [
-  "THE WORLD BUILDER'S LORE. This reaches a lore page that is the world builder's, and your seat",
-  "is a game master's, so it is refused. A secret the game master holds leaks into every turn",
-  "before the moment it waits on.",
+  "This reaches a lore page that is the world builder's, and your seat is a game master's, so it",
+  "is refused. A secret the game master holds leaks into every turn before the moment it waits on.",
   "",
-  `ASK INSTEAD. Ask your game's world builder "${ASKED}", naming what you need. Once the world`,
+  `Ask your game's world builder "${ASKED}" instead, naming what you need. Once the world`,
   "builder moves the page down to game-master disclosure, it is yours to read.",
   "",
   "A search, a listing or a history whose path holds such a page is refused whole. Name a",

@@ -1311,6 +1311,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/body-owing/body-owing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/differing/differing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/long-answering/long-answering.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/lore-barring/lore-barring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/read/modules/output-reaching/output-reaching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/request/modules/reaching/request-reaching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/pages/temper/eso/generate/modules/capture-text/capture-text.module.ts"}

@@ -40,6 +40,7 @@ import {
   longAnswer,
   reachedTo,
 } from "akasha/command/pages/read/modules/long-answering/long-answering.module.code.ts"
+import { barredOf } from "akasha/command/pages/read/modules/lore-barring/lore-barring.module.code.ts"
 import {
   type Discard,
   discarded,
@@ -288,9 +289,12 @@ export function readWith(
   if (asked === null) return mistaking([noSeatFor(agentId)])
   const aimed = aiming(asked, given)
   if (aimed.refusals.length > 0) return mistaking(aimed.refusals)
-  const queue = bare ? spreading(aimed.targets, given) : aimed.targets
+  const aimedAt = bare ? spreading(aimed.targets, given) : aimed.targets
+  const barred = barredOf(given.root, agentId, aimedAt, bare)
+  if (!bare && barred.refusal !== null) return mistaking([barred.refusal])
+  const queue = barred.kept
   const report: string[] = []
-  const refusals: string[] = []
+  const refusals: string[] = barred.refusal === null ? [] : [barred.refusal]
   let spent = 0
   let taken = 0
   let mistaken = false

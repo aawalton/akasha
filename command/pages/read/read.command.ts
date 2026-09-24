@@ -13,6 +13,7 @@ export const read = {
     "module/body-owing",
     "module/differing",
     "module/long-answering",
+    "module/lore-barring",
     "module/output-reaching",
   ],
   decisions: [
@@ -105,6 +106,10 @@ export const read = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A read reaches no file outside this repository.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read reaches no lore the world builder holds for a game master's seat.",
     },
     {
       decisionKind: "decision-kind/departure",
