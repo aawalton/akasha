@@ -21,18 +21,65 @@ const TIMELINES = `<GuiXml>
     </Animations>
 </GuiXml>`
 
+const INHERITED = `<GuiXml>
+    <Animations>
+        <AnimationTimeline name="Base">
+            <Animations>
+                <AlphaAnimation duration="700"/>
+                <AlphaAnimation duration="200">
+                    <OnStop>self:GetTimeline():Stop()</OnStop>
+                </AlphaAnimation>
+            </Animations>
+        </AnimationTimeline>
+        <AnimationTimeline name="Burst">
+            <Animations>
+                <TextureRotateAnimation duration="750"/>
+            </Animations>
+        </AnimationTimeline>
+        <AnimationTimeline name="Result" inherits="Base">
+            <Animations>
+                <!-- Burst1 -->
+                <AlphaAnimation inherits="FadeIn"/>
+                <AnimationTimeline inherits="Burst"/>
+                <AnimationTimeline>
+                    <Animations>
+                        <ScaleAnimation duration="100"/>
+                    </Animations>
+                </AnimationTimeline>
+                <TranslateAnimation duration="10"/>
+            </Animations>
+        </AnimationTimeline>
+    </Animations>
+</GuiXml>`
+
 describe("timelinesIn", () => {
   test("reads each timeline's animations in the order written", () => {
-    expect(timelinesIn([TIMELINES]).SparkleStarburstAnim).toEqual([
-      "TextureRotateAnimation",
-      "AlphaAnimation",
-    ])
+    expect(timelinesIn([TIMELINES]).SparkleStarburstAnim).toEqual({
+      animations: ["TextureRotateAnimation", "AlphaAnimation"],
+      timelines: [],
+    })
   })
 
   test("reads a timeline closed at once as empty, and the next one as its own", () => {
     const timelines = timelinesIn([TIMELINES])
-    expect(timelines.NothingInIt).toEqual([])
-    expect(timelines.AfterTheEmptyOne).toEqual(["ScaleAnimation"])
+    expect(timelines.NothingInIt).toEqual({ animations: [], timelines: [] })
+    expect(timelines.AfterTheEmptyOne?.animations).toEqual(["ScaleAnimation"])
+  })
+
+  test("puts the animations a timeline inherits before its own", () => {
+    expect(timelinesIn([INHERITED]).Result?.animations).toEqual([
+      "AlphaAnimation",
+      "AlphaAnimation",
+      "AlphaAnimation",
+      "TranslateAnimation",
+    ])
+  })
+
+  test("keeps a timeline nested in another apart from its animations", () => {
+    expect(timelinesIn([INHERITED]).Result?.timelines).toEqual([
+      { animations: ["TextureRotateAnimation"], timelines: [] },
+      { animations: ["ScaleAnimation"], timelines: [] },
+    ])
   })
 })
 

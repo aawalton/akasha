@@ -29,7 +29,10 @@ function Animation:GetAnimatedControl() return self.uiControl end
 function Animation:SetAnimatedControl(control) self.uiControl = control end
 
 local function timeline()
-  return setmetatable({ uiAnimations = {}, uiHandlers = {}, uiProgress = 0 }, { __index = Timeline })
+  return setmetatable(
+    { uiAnimations = {}, uiTimelines = {}, uiHandlers = {}, uiProgress = 0 },
+    { __index = Timeline }
+  )
 end
 
 local function finished(self, progress)
@@ -49,6 +52,7 @@ function Timeline:InsertAnimation(kind, control)
 end
 Timeline.InsertAnimationFromVirtual = Timeline.InsertAnimation
 function Timeline:GetNumAnimations() return #self.uiAnimations end
+function Timeline:GetAnimationTimeline(which) return self.uiTimelines[which] end
 function Timeline:GetAnimation(which) return self.uiAnimations[which] end
 function Timeline:GetFirstAnimation() return self.uiAnimations[1] end
 function Timeline:GetLastAnimation() return self.uiAnimations[#self.uiAnimations] end
@@ -73,10 +77,15 @@ function Timeline:Stop() return self end
 local AnimationManager = {}
 
 function AnimationManager:CreateTimeline() return timeline() end
-function AnimationManager:CreateTimelineFromVirtual(name, control)
+local function built(held, control)
   local made = timeline()
-  for _, kind in ipairs(declared[name] or {}) do made:InsertAnimation(kind, control) end
+  for _, kind in ipairs(held) do made:InsertAnimation(kind, control) end
+  for _, inner in ipairs(held.timelines or {}) do insert(made.uiTimelines, built(inner, control)) end
   return made
+end
+
+function AnimationManager:CreateTimelineFromVirtual(name, control)
+  return built(declared[name] or {}, control)
 end
 function AnimationManager:CreateSimpleAnimation(_, control)
   local made = timeline()

@@ -17,6 +17,14 @@ export const uiTimelines = {
       statement: "A timeline carries the kind of each animation it declares, in the order written.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A timeline carries the animations of the timeline it inherits before its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A timeline nested in another is kept apart from that timeline's animations.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No duration, delay or value an animation declares is read.",
     },

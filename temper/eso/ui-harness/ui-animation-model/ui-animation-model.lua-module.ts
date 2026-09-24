@@ -48,6 +48,10 @@ export const uiAnimationModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A timeline made from one a document declares holds each timeline nested in it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The game's getter for the animation manager answers this model's.",
     },
   ],
