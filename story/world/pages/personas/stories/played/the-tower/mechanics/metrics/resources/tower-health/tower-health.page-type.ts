@@ -4,7 +4,7 @@ export const towerHealth = {
   id: "01a0c9d4-9bff-7a43-87a6-fc93e4246d38",
   type: "page-type/page-type",
   slug: "tower-health",
-  definition: "the life a character in the Tower has left",
+  definition: "the health a character in the Tower has left",
   extends: ["page-type/metric-character-resource"],
   types: "ts",
   schema: "jsonl",
