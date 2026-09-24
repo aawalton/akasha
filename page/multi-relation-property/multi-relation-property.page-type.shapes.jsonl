@@ -7,7 +7,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"service","unique":null,"uniquePropertySlug":null,"slug":"deploys-after","propertySlug":"deploys-after","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-scribing-source","unique":null,"uniquePropertySlug":null,"slug":"drop-sources","propertySlug":"drop-sources","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"graph-edge","unique":null,"uniquePropertySlug":null,"slug":"edges","propertySlug":"edges","fileName":null,"folderName":null}
-{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-entity","unique":null,"uniquePropertySlug":null,"slug":"encounter-entities","propertySlug":"entities","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"encounter-entities","propertySlug":"entities","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"eso-interface","unique":null,"uniquePropertySlug":null,"slug":"eso-interfaces","propertySlug":"interfaces","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"world-mechanic","unique":null,"uniquePropertySlug":null,"slug":"evolves-from-slugs","propertySlug":"evolves-from-slugs","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"world-mechanic","unique":null,"uniquePropertySlug":null,"slug":"evolves-to-slugs","propertySlug":"evolves-to-slugs","fileName":null,"folderName":null}

@@ -6,7 +6,7 @@ export const encounterEntities = {
   slug: "encounter-entities",
   propertySlug: "entities",
   definition: "who or what an encounter puts in front of the player",
-  targetPageType: "page-type/game-entity",
+  targetPageType: "page-type/character",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
