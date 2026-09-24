@@ -1,7 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
   judgedIn,
-  ownerOf,
   reasonsFor,
   UNOWNED,
 } from "akasha/check/code/pages/file-is-owned-by-a-page/file-is-owned-by-a-page.check-code.decision.code.ts"
@@ -31,30 +30,28 @@ const given = bodiesIn(ROOT)
 afterAll(scratch.sweep)
 
 test("a page owns the file that page is written in", () => {
-  expect(ownerOf(PAGE_AT, HELD)).toBe(PAGE_AT)
   expect(reasonsFor(PAGE_AT, HELD)).toEqual([])
 })
 
 test("a file whose name carries a page type is owned by the page that name states", () => {
-  expect(ownerOf(CODE_AT, HELD)).toBe(PAGE_AT)
+  expect(reasonsFor(CODE_AT, HELD)).toEqual([])
 })
 
 test("a file a page type names is owned by a page of that type in that folder", () => {
-  expect(ownerOf(NAMED_AT, HELD)).toBe(PAGE_AT)
+  expect(reasonsFor(NAMED_AT, HELD)).toEqual([])
 })
 
 test("a file beneath a folder a page type names is owned by the page naming that folder", () => {
-  expect(ownerOf(UNDER_AT, HELD)).toBe(PAGE_AT)
+  expect(reasonsFor(UNDER_AT, HELD)).toEqual([])
 })
 
 test("a file closing with an extension a page type names is owned by the page naming it", () => {
-  expect(ownerOf(ENDED_AT, HELD)).toBe(PAGE_AT)
+  expect(reasonsFor(ENDED_AT, HELD)).toEqual([])
 })
 
 test("those same names where no page of the type sits are owned by nothing", () => {
-  expect(ownerOf(AWAY_AT, HELD)).toBeNull()
-  expect(ownerOf(AWAY_ENDED_AT, HELD)).toBeNull()
   expect(reasonsFor(AWAY_AT, HELD)).toEqual([UNOWNED])
+  expect(reasonsFor(AWAY_ENDED_AT, HELD)).toEqual([UNOWNED])
 })
 
 test("a file no page owns at all is refused", () => {

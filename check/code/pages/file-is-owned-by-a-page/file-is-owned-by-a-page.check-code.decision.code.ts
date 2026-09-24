@@ -49,10 +49,6 @@ function ownedBy(held: Claiming, path: string): string | null {
   )
 }
 
-export function ownerOf(path: string, shadow: Shadow): string | null {
-  return ownedBy(claimingIn(shadow), path)
-}
-
 export function reasonsOver(held: Claiming, path: string): readonly string[] {
   if (underIndex(path)) return []
   return ownedBy(held, path) === null ? [UNOWNED] : []
