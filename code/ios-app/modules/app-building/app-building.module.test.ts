@@ -12,7 +12,7 @@ const QUIET_ID = "01a05fd3-71b8-7c04-8a6e-3f19d4470b55"
 const QUIET_AT = "akasha/quiet.ios-app.ts"
 
 const QUIET_BODY =
-  `export const quiet = { id: "${QUIET_ID}", pageTypeSlug: "ios-app", slug: "quiet",` +
+  `export const quiet = { id: "${QUIET_ID}", type: "page-type/ios-app", slug: "quiet",` +
   ` definition: "an app naming no build script", bundleId: "me.quiet.app" }\n`
 
 const scratch = scratchWorld()

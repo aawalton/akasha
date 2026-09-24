@@ -84,7 +84,7 @@ const idOf = (one: string): string =>
   `01a04e11-0000-7000-8000-${String(AT_ONCE.indexOf(one) + 3).padStart(12, "0")}`
 
 const pageOf = (one: string): string =>
-  `export const ${one} = { id: "${idOf(one)}", pageTypeSlug: "domain", slug: "${one}" }\n`
+  `export const ${one} = { id: "${idOf(one)}", type: "page-type/domain", slug: "${one}" }\n`
 
 const running = (said: string): Bun.Subprocess => Bun.spawn(["bun", "-e", said], { stderr: "pipe" })
 

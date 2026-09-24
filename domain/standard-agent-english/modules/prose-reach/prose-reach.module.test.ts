@@ -7,6 +7,7 @@ import {
   type Reach,
 } from "akasha/domain/standard-agent-english/modules/prose-reach/prose-reach.module.code.ts"
 import {
+  slugOf,
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -17,6 +18,7 @@ import {
   carriedFrom,
   sourceOver,
 } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const PROSE = "standard-agent-english-property"
 
@@ -32,10 +34,10 @@ function reachOver(values: readonly Value[]): Reach {
   const source = sourceOver(values)
   const held = new Map<string, Value>()
   for (const value of values) {
-    const pageTypeSlug = textAt(value, "pageTypeSlug")
+    const type = textAt(value, "type")
     const slug = textAt(value, "slug")
-    if (pageTypeSlug === null || slug === null) continue
-    held.set(`${pageTypeSlug}/${slug}`, value)
+    if (type === null || slug === null) continue
+    held.set(`${slugOf(type)}/${slug}`, value)
   }
   return {
     prose: new Set([PROSE]),
@@ -48,20 +50,28 @@ function reachOver(values: readonly Value[]): Reach {
   }
 }
 
-const DEFINITION = { pageTypeSlug: PROSE, slug: "definition", propertySlug: "definition" }
+const DEFINITION = {
+  type: `${pageType.slug}/${PROSE}`,
+  slug: "definition",
+  propertySlug: "definition",
+}
 
-const STATEMENT = { pageTypeSlug: PROSE, slug: "decision-statement", propertySlug: "statement" }
+const STATEMENT = {
+  type: `${pageType.slug}/${PROSE}`,
+  slug: "decision-statement",
+  propertySlug: "statement",
+}
 
-const NAME = { pageTypeSlug: "text-property", slug: "name", propertySlug: "name" }
+const NAME = { type: `${pageType.slug}/text-property`, slug: "name", propertySlug: "name" }
 
 const KIND = {
-  pageTypeSlug: "relation-property",
+  type: `${pageType.slug}/relation-property`,
   slug: "decision-kind",
   propertySlug: "decision-kind",
 }
 
 const DECISIONS = {
-  pageTypeSlug: RECORD,
+  type: `${pageType.slug}/${RECORD}`,
   slug: "decisions",
   propertySlug: "decisions",
   properties: [
@@ -71,14 +81,14 @@ const DECISIONS = {
 }
 
 const NESTED = {
-  pageTypeSlug: RECORD,
+  type: `${pageType.slug}/${RECORD}`,
   slug: "nested",
   propertySlug: "nested",
   properties: [{ pagePropertySlug: "record-property/nested", required: false, many: false }],
 }
 
 function typed(slug: string, properties: readonly Value[], above: readonly string[] = []) {
-  return { pageTypeSlug: "page-type", slug, extends: above, properties }
+  return { type: `${pageType.slug}/${pageType.slug}`, slug, extends: above, properties }
 }
 
 const HELD: readonly Value[] = [DEFINITION, STATEMENT, NAME, KIND, DECISIONS, NESTED]
