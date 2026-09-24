@@ -164,10 +164,7 @@ export const codeEditor = {
       decisionKind: "decision-kind/departure",
       statement: "Alan works in the editor rather than in desktop VS Code.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Parts of the upstream fork Alan will never use have been removed.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement: "Any agent can arrange the editor's tabs.",
