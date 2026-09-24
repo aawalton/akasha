@@ -66,11 +66,6 @@ export const filePageTypeConfig = {
       statement: "A key a page type declares no property for is refused by the pages.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A tree where no page type states a media config is refused rather than read as empty.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "No answer here is held for a later question.",
     },

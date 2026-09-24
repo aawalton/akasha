@@ -1,8 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   type FilePageTypeConfigDeps,
-  fileMediaPageTypeSlugs,
-  MEDIA_CONFIG_KEY,
   nearestConfigValue,
   SEQUENCE_CONFIG_KEY,
   type StatedConfig,
@@ -184,15 +182,4 @@ test("no more than twenty page types are asked, however far the search reaches",
   const stated = await nearestConfigValue("up0", SEQUENCE_CONFIG_KEY, fake.deps)
   expect(answered(stated)).toEqual({ stands: false, value: null })
   expect(fake.asked.length).toBe(20)
-})
-
-test("a page type reaches a media config through either of the parents it names", async () => {
-  const fake = fakeOver({
-    plain: { slug: "plain" },
-    shown: { slug: "shown", [MEDIA_CONFIG_KEY]: { renderer: "image" } },
-    leaf: { slug: "leaf", extends: ["plain", "shown"] },
-    only: { slug: "only", extends: ["plain"] },
-  })
-  const kin = await fileMediaPageTypeSlugs(fake.deps)
-  expect([...kin].sort()).toEqual(["leaf", "shown"])
 })

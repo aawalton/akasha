@@ -28,8 +28,3 @@ export const mediaConfigSchema = z
   .strict()
 
 export type MediaConfig = z.infer<typeof mediaConfigSchema>
-
-export function parseMediaConfig(value: unknown): MediaConfig | null {
-  const parsed = mediaConfigSchema.safeParse(value)
-  return parsed.success ? parsed.data : null
-}
