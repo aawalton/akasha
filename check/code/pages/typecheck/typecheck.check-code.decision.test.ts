@@ -165,6 +165,25 @@ test("a file the change brings is compiled though no disk holds it", async () =>
   expect(said[0]?.path).toBe("akasha/two.ts")
 })
 
+test("code run outside a browser is compiled without the browser's library", async () => {
+  const said = await over(holding(), "akasha/one.ts", "export const title = document.title\n")
+  expect(said).toHaveLength(1)
+  expect(said[0]?.reason).toContain("document")
+})
+
+test("a stylesheet a side-effect import names is found only where the change leaves one", async () => {
+  const said = await judged(
+    change(numbered(), {
+      "akasha/two.ts": 'import "./two.css"\nimport "./gone.css"\nexport const two = 2\n',
+      "akasha/two.css": "a {}\n",
+    })
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe("akasha/two.ts")
+  expect(said[0]?.reason).toContain("TS2882")
+  expect(said[0]?.reason).toContain("gone.css")
+})
+
 test("a diagnostic against a file the change did not touch is reported once, however many paths it holds", async () => {
   const root = reading()
   const said = await judged(change(root, RENUMBERED))

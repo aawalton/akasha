@@ -61,7 +61,15 @@ const SETTINGS = {
   moduleResolution: "bundler",
   target: "esnext",
   jsx: "react-jsx",
+  noUncheckedSideEffectImports: true,
+  allowArbitraryExtensions: true,
 } as const
+
+const DECLARED_STYLESHEET = ".d.css.ts"
+
+const STYLESHEET = ".css"
+
+const NO_EXPORTS = "export {}\n"
 
 const BROWSER_LIBRARY = "lib.dom.d.ts"
 
@@ -200,15 +208,43 @@ export function configOf(
   return JSON.stringify({ compilerOptions, files: named })
 }
 
+function nowhere(): boolean {
+  return false
+}
+
+function stylesheetDeclared(name: string): string | null {
+  if (!name.endsWith(DECLARED_STYLESHEET)) return null
+  return `${name.slice(0, -DECLARED_STYLESHEET.length)}${STYLESHEET}`
+}
+
+export function declarationOver(
+  root: string,
+  holds: (rel: string) => boolean,
+  placed: Placing
+): (name: string) => string | null | undefined {
+  return (name) => {
+    const sheet = stylesheetDeclared(name)
+    if (sheet === null) return undefined
+    const real = linkedOf(root, resolve(sheet), placed)
+    const inside = real.startsWith(`${root}/`) && !real.includes(`/${PACKAGES_AT}/`)
+    const there = inside ? holds(real.slice(root.length + 1)) : existsSync(real)
+    return there ? NO_EXPORTS : null
+  }
+}
+
 export function servingOf(
   root: string,
   at: string,
   config: string,
   read: (path: string) => string | undefined,
-  placed: Placing
+  placed: Placing,
+  holds: (rel: string) => boolean = nowhere
 ): (name: string) => string | null | undefined {
+  const declared = declarationOver(root, holds, placed)
   return (name) => {
     if (name === at) return config
+    const sheet = declared(name)
+    if (sheet !== undefined) return sheet
     if (servedOf(root, resolve(name), placed) === null) return undefined
     const body = read(name)
     return body === undefined ? null : body
@@ -268,11 +304,12 @@ async function foundOver(
   read: (name: string) => string | undefined,
   placed: Placing,
   whole: boolean,
-  world: World
+  world: World,
+  holds: (rel: string) => boolean
 ): Promise<readonly Found[]> {
   const at = join(root, CONFIG_NAME)
   const config = configOf(root, named, whole, world)
-  const readFile = servingOf(root, at, config, read, placed)
+  const readFile = servingOf(root, at, config, read, placed, holds)
   const api = new API({
     cwd: root,
     fs: {
@@ -335,7 +372,9 @@ async function foundIn(
     const text = now(rel)
     return text === null ? null : minting(rel, text)
   }
-  return await foundOver(root, named, bodiesOver(root, minted, placed), placed, whole, world)
+  const holds = (rel: string): boolean => now(rel) !== null
+  const read = bodiesOver(root, minted, placed)
+  return await foundOver(root, named, read, placed, whole, world, holds)
 }
 
 async function foundFor(
@@ -348,14 +387,14 @@ async function foundFor(
   const reached = rootsIn([...reachingOver(paths, [read], index)].sort(), read)
   if (reached.length === 0) return []
   const claimed = claimingOver(paths, read, index)
-  const reach = { index, holds: (one: string) => read(one) !== null, textAt: read }
-  const judges = world.judges(splitOver(reached, reach))
+  const holds = (one: string): boolean => read(one) !== null
+  const judges = world.judges(splitOver(reached, { index, holds, textAt: read }))
   const named = reached.filter((one) => !claimed(one) && judges(one))
   if (named.length === 0) return []
   const at = resolve(root)
   const manifests = [...new Set([...index.manifestsBeside(index.fileKeysAt()), ...paths])]
   const placed = placingOver(manifests, read)
-  return await foundOver(at, named, bodiesOver(at, read, placed), placed, true, world)
+  return await foundOver(at, named, bodiesOver(at, read, placed), placed, true, world, holds)
 }
 
 function judgedOver(found: readonly Found[], held: ReadonlySet<string>): readonly Judged[] {

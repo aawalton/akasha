@@ -69,7 +69,7 @@ export const stylesheet = {
       statement: "A comment in a stylesheet is refused as prose in code is.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A specifier naming a stylesheet that is not there is refused by the typechecker.",
     },
   ],

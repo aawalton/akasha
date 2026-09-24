@@ -6,6 +6,7 @@ import {
   typegenOf,
   typesUnder,
 } from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.code.ts"
+import { declarationOver } from "akasha/check/code/pages/typecheck/typecheck.check-code.decision.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
   insideOf,
@@ -28,7 +29,18 @@ const TYPES = "types"
 
 const FIRST_LINE = 1
 
-const SETTINGS = { noEmit: true, composite: false, incremental: false, declaration: true }
+const SETTINGS = {
+  noEmit: true,
+  composite: false,
+  incremental: false,
+  declaration: true,
+  noUncheckedSideEffectImports: true,
+  allowArbitraryExtensions: true,
+}
+
+const DECLARATION = ".d.ts"
+
+const EVERY_STYLESHEET = /^declare module ['"]\*\.css['"] \{\}\n?/gm
 
 const UNCOMPILED = "does not compile as this change leaves it"
 
@@ -186,12 +198,22 @@ function under(full: string, folder: string): boolean {
   return full === folder || full.startsWith(`${folder}/`)
 }
 
+function everyStylesheetOut(full: string): string | undefined {
+  if (!full.endsWith(DECLARATION) || !existsSync(full)) return undefined
+  const text = readFileSync(full, "utf8")
+  const kept = text.replace(EVERY_STYLESHEET, "")
+  return kept === text ? undefined : kept
+}
+
 function readingFor(every: readonly Placed[], lay: Laying, relOf: Naming): Fs["readFile"] {
   const config = JSON.stringify({
     extends: `./${compileConfig.fileName}`,
     compilerOptions: SETTINGS,
   })
+  const root = resolve(lay.root)
+  const declared = declarationOver(root, (rel) => lay.read(rel) !== null, lay.placed)
   const held = new Map<string, string | null>()
+  const outside = new Map<string, string | undefined>()
   return (name) => {
     const full = resolve(name)
     if (every.some((one) => one.at === full)) return config
@@ -200,8 +222,13 @@ function readingFor(every: readonly Placed[], lay: Laying, relOf: Naming): Fs["r
       const at = madeAt(made, full)
       return existsSync(at) ? readFileSync(at, "utf8") : null
     }
+    const sheet = declared(full)
+    if (sheet !== undefined) return sheet
     const rel = relOf(full)
-    if (rel === null) return undefined
+    if (rel === null) {
+      if (!outside.has(full)) outside.set(full, everyStylesheetOut(full))
+      return outside.get(full)
+    }
     if (held.has(rel)) return held.get(rel) ?? null
     const body = lay.read(rel)
     held.set(rel, body)

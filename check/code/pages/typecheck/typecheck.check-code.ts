@@ -78,6 +78,18 @@ export const typecheck = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An import naming a file for its effect alone is refused where no such file is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stylesheet that is there is served an empty declaration beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No declaration answers every stylesheet, so one not there resolves to nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A file under a routes folder importing no generated route types is judged like any other file.",
     },
