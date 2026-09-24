@@ -68,7 +68,7 @@ describe("the set", () => {
   })
 
   test("clears a revived terminal's mark from the one exit trap the shell has", () => {
-    expect(said.match(/^\s*trap .* EXIT$/gm)).toEqual([
+    expect(said.split("\n").filter((one) => /^\s*trap .* EXIT$/.test(one))).toEqual([
       "  trap '__editor_terminal_ended; __editor_terminal_seat_unmark' EXIT",
     ])
     expect(said.indexOf("__editor_terminal_seat_unmark() {")).toBeLessThan(

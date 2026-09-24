@@ -61,7 +61,7 @@ describe("the trap", () => {
       `trap '${ENDED_FN} 129; __also_one; __also_two; trap - HUP; kill -HUP $$' HUP`
     )
     expect(trappedWith).toContain(`trap '${ENDED_FN}; __also_one; __also_two' EXIT`)
-    expect(trappedWith.match(/ EXIT$/gm)?.length).toBe(1)
+    expect([...trappedWith.matchAll(/ EXIT$/gm)].length).toBe(1)
   })
 
   test("parses", async () => {

@@ -22,8 +22,6 @@ const PROMPT_MARKER = "❯"
 
 const WRAP_MARGIN = 4
 
-const FIRST_WORD = /^\S*/
-
 const ITEM_START = /^(?:\d+[.)]|[-*+])(?:\s|$)/
 
 const NOT_IN_MODE = "0"
@@ -60,7 +58,7 @@ export function wrapsOnto(above: string, row: string, width: number): boolean {
     return false
   }
   const line = lineIn(row)
-  const word = FIRST_WORD.exec(line)?.[0] ?? ""
+  const word = line.split(/\s/, 1)[0] ?? ""
   if (word === "" || ITEM_START.test(line)) {
     return false
   }
