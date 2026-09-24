@@ -25,7 +25,6 @@ import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaratio
 import "akasha/temper/eso/type/eso-functions-06/eso-functions-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-inventory-trade/eso-inventory-trade.type-declaration.d.ts"
 
 const TIME_INDEX_SIZE = 2

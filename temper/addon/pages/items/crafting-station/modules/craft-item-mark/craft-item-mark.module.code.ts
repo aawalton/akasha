@@ -2,7 +2,6 @@ import { COOK } from "akasha/temper/addon/pages/items/crafting-station/modules/c
 import * as DataValidation from "akasha/temper/addon/pages/items/crafting-station/modules/craft-validation/craft-validation.module.code.ts"
 import { splitLink } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
-import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"

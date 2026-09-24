@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-search/sets-search-ui-shared-search.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-xml-api/sets-search-ui-xml-api.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-tip-item-link/sets-tip-item-link.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-search/potion-search.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-queries/zone-queries.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-item-browser-port.type-declaration.d.ts","path":"temper/addon/pages/temper-core/temper-keybinder/modules/keybinder-filter/keybinder-filter.module.code.ts","typed":false,"deferred":false}

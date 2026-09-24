@@ -98,13 +98,11 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-nav/combat-ui-nav.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-buffs/combat-ui-plot-buffs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-data/combat-ui-plot-data.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-draw/combat-ui-plot-draw.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-plot-mouse/combat-ui-plot-mouse.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-init/combat-ui-report-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-selection/combat-ui-selection.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts","typed":false,"deferred":false}
@@ -194,7 +192,6 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-lookups/knowledge-lookups.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-public-core/knowledge-public-core.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-public-scribing/knowledge-public-scribing.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-research-get/knowledge-research-get.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-research/knowledge-research.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-scribing/knowledge-scribing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-settings-export-import/knowledge-settings-export-import.module.code.ts","typed":false,"deferred":false}
@@ -222,7 +219,6 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/slash-commander-chat-hooks/slash-commander-chat-hooks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/slash-commander-providers/slash-commander-providers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-i18n/writ-i18n.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-init/writ-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-log/writ-log.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-analysis/writ-mark-analysis.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-mark-markers/writ-mark-markers.module.code.ts","typed":false,"deferred":false}

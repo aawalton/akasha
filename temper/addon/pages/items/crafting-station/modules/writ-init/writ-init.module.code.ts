@@ -5,7 +5,6 @@ import { smithingInit } from "akasha/temper/addon/pages/items/crafting-station/m
 import { tooltipInterceptInstall } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-tooltip/writ-tooltip.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/modules/writ-parser-dispatch/writ-parser-dispatch.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/modules/writ-public-api/writ-public-api.module.code.ts"
-import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function initializeTemperWrit(): undefined {
   initSavedVariables()

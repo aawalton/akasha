@@ -3,7 +3,6 @@ import { asFields } from "akasha/temper/addon/pages/items/crafting-station/modul
 import { getSavedFavorites } from "akasha/temper/addon/pages/items/crafting-station/modules/potion-saved-variables/potion-saved-variables.module.code.ts"
 import { PotMaker } from "akasha/temper/addon/pages/items/crafting-station/modules/potion-state/potion-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-alchemy-station/eso-alchemy-station.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
