@@ -11,7 +11,6 @@ export const claudeCodeRemoteControl = {
     "module/claude-code-remote-control-degraded-state",
     "module/claude-code-remote-control-degraded-thresholds",
     "module/claude-code-remote-control-decide",
-    "module/claude-code-remote-control-default",
     "module/claude-code-remote-control-env",
     "domain/claude-code-remote-control-registration-account",
     "domain/claude-code-remote-control-registration-credential",

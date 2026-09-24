@@ -46,7 +46,6 @@
 {"propertySlug":"import","fileName":"module.page-type.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/decide/claude-code-remote-control-decide.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/default/claude-code-remote-control-default.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/degraded-decide/claude-code-remote-control-degraded-decide.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/degraded-state/claude-code-remote-control-degraded-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/claude-code/remote-control/modules/degraded-thresholds/claude-code-remote-control-degraded-thresholds.module.ts"}
@@ -345,7 +344,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.ts"}

@@ -378,7 +378,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/restart.supervisor-action.ts","id":"01a05edb-0c01-7f85-8584-5aee4a6704cb"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/swap-gateway.supervisor-action.ts","id":"01a05ede-80cc-7266-b628-6fc355977249"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.ts","id":"01a0683e-3dbe-700b-947c-d3d4194c1ae8"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.ts","id":"01a0683e-3dbe-7017-8a20-75a3afbbc779"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.ts","id":"01a0683e-3dbe-7018-abd0-c37a4ad97b28"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.ts","id":"01a0683e-3dbe-7019-8211-ebbf510abf12"}

@@ -1,5 +1,5 @@
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
-import { askSupervisorDecide } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+
 import {
   ANNOUNCE,
   hasRecentInboundMessage,
@@ -7,9 +7,8 @@ import {
   sendMessage,
 } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import {
-  type AskDecide,
-  askWaitResume,
   type WaitResumeVerdict,
+  waitResumeVerdict,
 } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"
 import {
   WAIT_MAX_MS,
@@ -25,7 +24,7 @@ import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const WAIT_RESUME_INTERVAL_MS = 30_000
 
-type TickKind = WaitResumeVerdict["kind"] | "unreachable" | "none"
+type TickKind = WaitResumeVerdict["kind"] | "none"
 
 function kindsOf(statuses: readonly number[]): string {
   const seen = [...new Set(statuses)].map((one) =>
@@ -38,14 +37,12 @@ export function startWaitResumeMonitor(opts: {
   getAgentId: () => string | null
   log?: (line: string) => void
   readTranscriptTail?: (agentId: string) => string | null
-  ask?: AskDecide
   hasRecentNudge?: (agentId: string, content: string, windowMs: number) => Promise<boolean>
   injectNudge?: (agentId: string, content: string) => Promise<void>
   now?: () => number
   tickMs?: number
 }): { stop: () => void } {
   const readTranscriptTail = opts.readTranscriptTail ?? readOwnTranscriptTail
-  const ask = opts.ask ?? askSupervisorDecide
   const hasRecentNudge = opts.hasRecentNudge ?? hasRecentInboundMessage
   const injectNudge =
     opts.injectNudge ??
@@ -90,17 +87,12 @@ export function startWaitResumeMonitor(opts: {
             "still being nudged, and still not working"
         )
       }
-      const answer = await askWaitResume(ask, {
+      const verdict = waitResumeVerdict({
         deathDetected: true,
         consecutiveDeaths: reading.consecutive,
         lastNudgeAtMs,
         now,
       })
-      if ("unreachable" in answer) {
-        note("unreachable", `wait-resume: ${answer.unreachable}`)
-        return
-      }
-      const verdict = answer.verdict
       if (verdict.kind !== "nudge") {
         note(verdict.kind, `wait-resume: ${verdict.kind} for ${agentId} — ${verdict.reason}`)
         return

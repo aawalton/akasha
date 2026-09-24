@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import {
+  noticeNamed,
   notices,
   render,
 } from "akasha/agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"
@@ -51,6 +52,14 @@ test("the notice the editor revives a seat with is composed out of the real chec
   const held = notices()["editor-revive"] ?? ""
 
   expect(held.length).toBeGreaterThan(0)
+})
+
+test("a notice asked for by name is its composed text", () => {
+  expect(noticeNamed("editor-revive")).toBe(notices()["editor-revive"] ?? "")
+})
+
+test("a notice no page is called is refused rather than answered empty", () => {
+  expect(() => noticeNamed("no-such-notice")).toThrow("no notice is called")
 })
 
 test("a checkout the index files no notice for is answered nothing rather than refused", () => {

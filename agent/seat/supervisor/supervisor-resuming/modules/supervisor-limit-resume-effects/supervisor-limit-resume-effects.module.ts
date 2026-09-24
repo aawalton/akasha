@@ -4,7 +4,7 @@ export const supervisorLimitResumeEffects = {
   id: "01a06838-5a84-7006-be45-2e23ffbbeeca",
   type: "page-type/module",
   slug: "supervisor-limit-resume-effects",
-  definition: "a rate-limit death read out of a transcript, and the decide module asked about it",
+  definition: "a rate-limit death read out of a transcript",
   code: "ts",
   test: "ts",
   decisions: [
@@ -24,22 +24,6 @@ export const supervisorLimitResumeEffects = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A transcript with no assistant line is no rate-limit death.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The decision is made by the decide module rather than here.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The decide module is imported from beside this module and its function called.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A decide that throws is at fault.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The fault carries that decide's own message.",
     },
   ],
 } as const satisfies Module

@@ -1,70 +1,44 @@
-import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import { noticeNamed } from "akasha/agent/message/notice/modules/compose-notices/compose-notices.module.code.ts"
+import { restartDeferred } from "akasha/agent/message/notice/pages/restart-deferred/restart-deferred.agent-message-notice.ts"
+import { restartImmediate } from "akasha/agent/message/notice/pages/restart-immediate/restart-immediate.agent-message-notice.ts"
+import { restartRecoveryClause } from "akasha/agent/message/notice/pages/restart-recovery-clause/restart-recovery-clause.agent-message-notice.ts"
 import {
-  askSupervisorDecide,
-  SUPERVISOR_DECIDE_COMMAND,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
-import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
-import type {
-  Infer,
-  ShapeError,
-} from "akasha/code/type/narrowing/modules/shape-core/shape-core.module.code.ts"
+  planRestartNotice,
+  type RestartNoticeContext,
+  type RestartNoticeRoute,
+  type RestartNowEvent,
+} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/agent-restart-notice-decide/agent-restart-notice-decide.module.code.ts"
+import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 
 const SUPERVISOR_NOTICE_PREFIX = "[supervisor]"
 
-const RESTART_NOTICE_DECISION = "restartNotice"
+export type RestartNoticePlan = { readonly route: RestartNoticeRoute; readonly notice: string }
 
-const handed = SHAPE.string().min(1)
-
-const RestartNoticeVerdictZ = SHAPE.object({
-  route: SHAPE.enum(["spawn-argv", "rail"]),
-  notice: handed,
-})
-const RestartNoticeAnswerZ = SHAPE.object({ [RESTART_NOTICE_DECISION]: RestartNoticeVerdictZ })
-export type RestartNoticePlan = Infer<typeof RestartNoticeVerdictZ>
-
-export type AskDecide = (stdin: string) => Promise<unknown>
-
-const DECISION_UNREACHED_PREFIX = `${SUPERVISOR_NOTICE_PREFIX} Your resume notice could not be decided`
+const UNCOMPOSED_PREFIX = `${SUPERVISOR_NOTICE_PREFIX} Your resume notice could not be composed`
 
 const REASON_CAP = 400
 
-function unreachedNotice(reason: string): string {
+function uncomposedRestart(reason: string): RestartNoticePlan {
   console.error(`${LOG} ${reason}`)
-  return `${DECISION_UNREACHED_PREFIX}: ${reason.slice(0, REASON_CAP)}. Nothing was asked of you by this restart.`
-}
-
-async function decided(
-  key: string,
-  question: unknown,
-  ask: AskDecide
-): Promise<{ answered: unknown } | { reason: string }> {
-  try {
-    return { answered: await ask(JSON.stringify({ [key]: question })) }
-  } catch (error) {
-    return { reason: `${SUPERVISOR_DECIDE_COMMAND} could not decide \`${key}\`: ${String(error)}` }
+  return {
+    route: "spawn-argv",
+    notice: `${UNCOMPOSED_PREFIX}: ${reason.slice(0, REASON_CAP)}. Nothing was asked of you by this restart.`,
   }
 }
 
-function unusable(key: string, error: ShapeError): string {
-  const issue = error.issues[0]
-  const at = issue === undefined || issue.path.length === 0 ? "" : ` at \`${issue.path.join(".")}\``
-  return `${SUPERVISOR_DECIDE_COMMAND} answered nothing this can use for \`${key}\`${at}: ${issue?.message ?? "no reason given"}`
-}
-
-function degradedRestart(reason: string): RestartNoticePlan {
-  return { route: "spawn-argv", notice: unreachedNotice(reason) }
-}
-
-export async function askRestartNotice(
-  question: {
-    readonly event: { action: "restart-now"; interruptMessage: string | null }
-    readonly ctx: { maintenance: boolean; reExecPending: boolean }
-  },
-  ask: AskDecide = askSupervisorDecide
-): Promise<RestartNoticePlan> {
-  const call = await decided(RESTART_NOTICE_DECISION, question, ask)
-  if ("reason" in call) return degradedRestart(call.reason)
-  const read = RestartNoticeAnswerZ.safeParse(call.answered)
-  if (!read.success) return degradedRestart(unusable(RESTART_NOTICE_DECISION, read.error))
-  return read.data[RESTART_NOTICE_DECISION]
+export function restartNoticePlan(question: {
+  readonly event: RestartNowEvent
+  readonly ctx: RestartNoticeContext
+}): RestartNoticePlan {
+  try {
+    const plan = planRestartNotice(question.event, question.ctx, {
+      [restartImmediate.slug]: noticeNamed(restartImmediate.slug),
+      [restartDeferred.slug]: noticeNamed(restartDeferred.slug),
+      [restartRecoveryClause.slug]: noticeNamed(restartRecoveryClause.slug),
+    })
+    if (plan.notice === "") return uncomposedRestart("the restart notice composed to nothing")
+    return plan
+  } catch (error) {
+    return uncomposedRestart(`the restart notice could not be composed: ${String(error)}`)
+  }
 }

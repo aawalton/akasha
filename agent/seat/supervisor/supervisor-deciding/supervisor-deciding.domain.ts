@@ -6,7 +6,6 @@ export const supervisorDeciding = {
   slug: "supervisor-deciding",
   definition: "the decisions a supervisor asks of a command",
   parts: [
-    "module/supervisor-ask-rule",
     "module/supervisor-decide",
     "module/supervisor-decide-payload",
     "module/supervisor-decide-rule-inputs",

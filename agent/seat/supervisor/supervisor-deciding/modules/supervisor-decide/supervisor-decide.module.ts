@@ -8,9 +8,8 @@ export const supervisorDecide = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A caller asking for a decision imports and calls this module rather than running that module.",
+      decisionKind: "decision-kind/gap",
+      statement: "Nothing in the supervisor asks this module a question.",
     },
     {
       decisionKind: "decision-kind/departure",

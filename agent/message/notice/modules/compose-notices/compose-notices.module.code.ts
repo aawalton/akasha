@@ -100,6 +100,17 @@ export function notices(): Readonly<Record<string, string>> {
   return noticesIn(rootFor(resolveRoots(), AKASHA))
 }
 
+export function noticeNamed(slug: string): string {
+  const text = notices()[slug]
+  if (text === undefined) {
+    throw new Error(
+      `no notice is called \`${slug}\` — \`${OWN}\` owns that name and the document behind it, ` +
+        "and a notice carrying nothing would reach a seat as an empty turn"
+    )
+  }
+  return text
+}
+
 function main(): undefined {
   const { output } = parse(process.argv.slice(2))
   let composed: Readonly<Record<string, string>>

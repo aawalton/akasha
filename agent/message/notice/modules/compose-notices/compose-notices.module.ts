@@ -47,6 +47,10 @@ export const composeNotices = {
         "A checkout the index files no notice for is answered nothing rather than refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice asked for by a slug no page has is refused rather than sent empty.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "Nothing checks that the notices asked for by slug are the notices rendered here.",
     },

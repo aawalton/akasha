@@ -3,14 +3,10 @@ import { pacingIn } from "akasha/agent/model/gateway/modules/oauth-effects/oauth
 import type { AccountState } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import {
-  type AskDecide,
-  askLimitResume,
   type LimitResumeVerdict,
+  limitResumeVerdict,
 } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"
-import {
-  askSupervisorDecide,
-  classifyRateLimitDeath,
-} from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
+import { classifyRateLimitDeath } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.code.ts"
 import {
   ANNOUNCE,
   hasRecentInboundMessage,
@@ -28,14 +24,13 @@ import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const LIMIT_RESUME_INTERVAL_MS = 30_000
 
-type TickKind = LimitResumeVerdict["kind"] | "unreachable" | "none"
+type TickKind = LimitResumeVerdict["kind"] | "none"
 
 export function startLimitResumeMonitor(opts: {
   getAgentId: () => string | null
   log?: (line: string) => void
   readTranscriptTail?: (agentId: string) => string | null
   readPacing?: () => Promise<readonly AccountState[]>
-  ask?: AskDecide
   hasRecentNudge?: (agentId: string, content: string, windowMs: number) => Promise<boolean>
   injectNudge?: (agentId: string, content: string) => Promise<void>
   now?: () => number
@@ -46,7 +41,6 @@ export function startLimitResumeMonitor(opts: {
   const readTranscriptTail = opts.readTranscriptTail ?? readOwnTranscriptTail
   const readPacing =
     opts.readPacing ?? (async () => [...pacingIn(rootFor(resolveRoots(), AKASHA)).values()])
-  const ask = opts.ask ?? askSupervisorDecide
   const hasRecentNudge = opts.hasRecentNudge ?? hasRecentInboundMessage
   const injectNudge =
     opts.injectNudge ??
@@ -86,7 +80,7 @@ export function startLimitResumeMonitor(opts: {
       } else {
         eligibleSinceMs = null
       }
-      const answer = await askLimitResume(ask, {
+      const verdict = limitResumeVerdict({
         deathDetected: true,
         poolHasCapacity: hasCapacity,
         eligibilityHeldMs: eligibleSinceMs == null ? null : now - eligibleSinceMs,
@@ -97,11 +91,6 @@ export function startLimitResumeMonitor(opts: {
         now,
         recentlyNudged: false,
       })
-      if ("unreachable" in answer) {
-        note("unreachable", `limit-resume: ${answer.unreachable}`)
-        return
-      }
-      const verdict = answer.verdict
       if (verdict.kind !== "nudge") {
         note(verdict.kind, `limit-resume: ${verdict.kind} for ${agentId} — ${verdict.reason}`)
         return

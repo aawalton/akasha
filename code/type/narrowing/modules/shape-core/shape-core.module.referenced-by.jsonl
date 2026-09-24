@@ -1,7 +1,4 @@
 {"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"agent/claude-code/session/modules/session-jsonl-schema/session-jsonl-schema.module.code.ts"}
-{"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
-{"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"}
-{"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts"}
 {"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"agent/seat/usage/modules/typing-minutes/typing-minutes.module.code.ts"}
 {"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"shape-core.module.code.ts","path":"code/type/narrowing/modules/shape-object/shape-object.module.code.ts"}

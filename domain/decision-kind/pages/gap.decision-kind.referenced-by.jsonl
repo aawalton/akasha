@@ -85,6 +85,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-auto-compact/seat-auto-compact.domain.ts","id":"01a0c57d-e680-71fb-8cf9-90460d5d30a7"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.ts","id":"01a0687b-aa81-7000-ada8-b1a18075e043"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide/supervisor-decide.module.ts","id":"01a06938-eca6-7c73-bee3-f66766ef7dfc"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.ts","id":"01a0686a-7a57-7a62-bfba-385af928123a"}
 {"propertySlug":"decision-kind","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.ts","id":"01a0a017-3fac-72e3-8c1a-7fdf616e1b16"}
 {"propertySlug":"decision-kind","path":"agent/subagent/kind/properties/dispatched-as.text-property.ts","id":"01a05978-f2e3-737b-8b65-7a65013f5626"}

@@ -1,6 +1,6 @@
 import {
-  askRestartNotice,
   type RestartNoticePlan,
+  restartNoticePlan,
 } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import { clearRequestedAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import type { AgentActionEvent } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
@@ -25,7 +25,7 @@ export async function handleRestartNow(
   const agentId = state.getAgentId()
   const sessionId = state.getSessionId()
   const reExecPending = isPendingReExec()
-  const plan = await askRestartNotice({
+  const plan = restartNoticePlan({
     event: { action: event.action, interruptMessage: event.interruptMessage },
     ctx: { maintenance, reExecPending },
   })
