@@ -1,12 +1,10 @@
-import { extname } from "node:path"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { namedUnder, pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
 const PAGE_PROPERTY = "page-property"
-
-const CODE = new Set([".ts", ".tsx"])
 
 export type Kind = "file" | "file-code" | "file-page" | "file-page-property" | "file-page-type"
 
@@ -21,5 +19,5 @@ export function kindOf(world: World, at: string): Kind {
     if (pageNamed(at, world.index.kindsUnder(PAGE_PROPERTY))) return "file-page-property"
     return "file-page"
   }
-  return CODE.has(extname(at)) ? "file-code" : "file"
+  return typeScripted(at) ? "file-code" : "file"
 }

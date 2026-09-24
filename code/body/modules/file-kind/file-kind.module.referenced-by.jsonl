@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"change/modules/import-repointing/import-repointing.module.code.ts"}
+{"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"change/modules/target-kinding/target-kinding.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-class/no-class.check-code.audit.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-color-literal/no-color-literal.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
@@ -8,6 +10,7 @@
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"code/running/modules/code-format/code-format.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"command/modules/restating/restating.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"page/index/ast-hash/index-ast-hash.index.code.ts"}

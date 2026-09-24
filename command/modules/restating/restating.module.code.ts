@@ -1,3 +1,4 @@
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import { textOf } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
@@ -14,10 +15,8 @@ export type Moved = {
   readonly now: Uint8Array | null
 }
 
-const CODE = [".ts", ".tsx"]
-
 export function judgedHere(path: string): boolean {
-  return CODE.some((one) => path.endsWith(one))
+  return typeScripted(path)
 }
 
 const textIn = textOf

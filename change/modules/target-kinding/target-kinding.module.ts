@@ -50,7 +50,7 @@ export const targetKinding = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads the disk.",
+      statement: "Nothing here reads the disk but the file kinds.",
     },
   ],
 } as const satisfies Module

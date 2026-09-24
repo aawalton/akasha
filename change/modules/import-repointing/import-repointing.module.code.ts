@@ -8,6 +8,7 @@ import {
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import {
   readsRuntimePaths,
   runtimePatches,
@@ -24,8 +25,6 @@ import {
 const GENERATED = "+types"
 
 const UNDER = "/"
-
-const CODE = new Set([".ts", ".tsx"])
 
 const ROOT = "akasha/"
 
@@ -359,7 +358,7 @@ export function repointed(world: World, given: Given): Said {
   if (held === null) return refusing(`\`${given.now}\` holds no body, so nothing is repointed`)
   const landing = landingFor(world, given)
   const known = world.names ?? namesNothing
-  if (CODE.has(extname(given.now))) {
+  if (typeScripted(given.now)) {
     return changeImports(given.was, given.now, held, landing, known)
   }
   return changeRuns(given.was, given.now, held, landing, known)
