@@ -28,7 +28,7 @@ const NO_MARKET_PRICE =
 
 const scanFiled = async () => ({ outcome: "landed" as const, at: "def5678" })
 
-const asked = async () => ({ rows: [{ settings: {}, slug: ACCOUNT_SLUG }], n: 1 })
+const asked = async () => ({ rows: [{ settings: "{}", slug: ACCOUNT_SLUG }], n: 1 })
 
 const accountUnread = async () => ({ refused: "the pages answered nothing" })
 
@@ -317,17 +317,12 @@ test("an import whose account page went unread says the inventory has nowhere to
   )
 })
 
-test("the managed guild banks are read off the account page's settings", async () => {
+test("the managed guild banks are read from the settings file beside the account page", async () => {
   const said: string[] = []
-  const managing = async () => ({
-    rows: [
-      {
-        settings: { "managed-guild-banks": { managedGuildBanks: ["char-1"] } },
-        slug: ACCOUNT_SLUG,
-      },
-    ],
-    n: 1,
+  const body = JSON.stringify({
+    inventory: { "managed-guild-banks": { managedGuildBanks: ["char-1"] } },
   })
+  const managing = async () => ({ rows: [{ settings: body, slug: ACCOUNT_SLUG }], n: 1 })
   await runImportInventory(
     ONE_LOCATION_LUA,
     ACCOUNT_UNASKED,

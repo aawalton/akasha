@@ -51,6 +51,17 @@ const MS_PER_SECOND = 1000
 
 const UNNAMED_LOCATION = "(unnamed)"
 
+const SETTINGS = "settings"
+
+const INVENTORY_SETTINGS = "inventory"
+
+export function inventorySettingsIn(body: unknown): unknown {
+  if (typeof body !== "string" || body === "") return undefined
+  const parsed: unknown = JSON.parse(body)
+  if (parsed === null || typeof parsed !== "object") return undefined
+  return (parsed as Record<string, unknown>)[INVENTORY_SETTINGS]
+}
+
 const EXCLUSION_LABELS = {
   "unmanaged-guild-bank": "guild bank",
   "unclassifiable-location": "unreadable",
@@ -206,6 +217,7 @@ export async function runImportInventory(
     pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
     where: { key: { is: userId } },
     limit: 1,
+    files: [SETTINGS],
   })
   if ("refused" in accountAsked) {
     throw new Error(
@@ -219,7 +231,7 @@ export async function runImportInventory(
   }
   const accountPage = addressOfSlug(accountSlug)
 
-  const managed = readManagedGuildBanks(account?.settings)
+  const managed = readManagedGuildBanks(inventorySettingsIn(account?.[SETTINGS]))
   const { inventory: owned, excluded } = partitionUnmanagedGuildBanks(inventory, managed)
   const netWorth = computeNetWorth(owned, GOLD_ONLY_RATES)
 

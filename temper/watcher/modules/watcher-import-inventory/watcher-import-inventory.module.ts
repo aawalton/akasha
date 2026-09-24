@@ -52,7 +52,8 @@ export const watcherImportInventory = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The managed guild banks are read off the account page whose key is the user id.",
+      statement:
+        "The managed guild banks are read from the settings file beside that account page.",
     },
     {
       decisionKind: "decision-kind/departure",
