@@ -20,6 +20,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -61,7 +62,7 @@ export function seated(root: string): string {
       path: SEAT_AT,
       value: {
         id: SEAT_ID,
-        pageTypeSlug: "seat",
+        type: `${pageType.slug}/seat`,
         slug: "akasha",
         assignmentSlug: "domain/akasha-system",
       },

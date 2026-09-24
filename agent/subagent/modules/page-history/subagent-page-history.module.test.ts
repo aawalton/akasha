@@ -20,7 +20,7 @@ function bodyOf(id: string, kind: string, agentId: string): string {
     "",
     "export const heldA38f63805f9b94edf = {",
     `  id: ${JSON.stringify(id)},`,
-    '  pageTypeSlug: "subagent",',
+    '  type: "page-type/subagent",',
     '  slug: "held-a38f63805f9b94edf",',
     '  principalSeatName: "seat/held",',
     '  assignmentSlug: "domain/akasha-system",',

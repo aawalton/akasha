@@ -135,7 +135,7 @@ function changesAdding(): Readonly<Record<string, string>> {
     const code = join(rootOf(import.meta.dir), CHANGES_AT, adding.slug, `${named}.code.ts`)
     found[`${TREE}/changes/${named}.ts`] = pageOf({
       id: changeId(one + 1),
-      pageTypeSlug: adding.type,
+      type: `${pageType.slug}/${adding.type}`,
       slug: adding.slug,
       definition: "a change adding a file, reached from the checkout this test runs in",
       code: "ts",

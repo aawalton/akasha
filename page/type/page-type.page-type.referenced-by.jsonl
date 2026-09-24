@@ -2,8 +2,11 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/model/account/modules/reading/model-account-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/modules/read-record/read-record.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/census/subagent-census.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/command-tree-assemble/command-tree-assemble.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.test.ts"}

@@ -16,6 +16,7 @@ import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code
 import { heldSaid, WAITED_AT_MOST } from "akasha/git/modules/holding/holding.module.code.ts"
 import { nothingFiled } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -46,7 +47,9 @@ export function pagePut(root: string, seatName: string, own: string, agentId: st
   const slug = slugOf(seatName, own)
   const at = pathOf(slug)
   put(root, at, bodyOf(slug, seatName, AKASHA, "Explore", agentId))
-  valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
+  valueAlsoFiled(root, "subagent", [
+    { path: at, value: { type: `${pageType.slug}/subagent`, slug } },
+  ])
   return at
 }
 
@@ -54,7 +57,9 @@ export function awayPut(root: string, seatName: string, own: string, agentId: st
   const slug = slugOf(seatName, own)
   const at = `agent/elsewhere/${slug}.subagent.ts`
   put(root, at, bodyOf(slug, seatName, AKASHA, "Explore", agentId))
-  valueAlsoFiled(root, "subagent", [{ path: at, value: { pageTypeSlug: "subagent", slug } }])
+  valueAlsoFiled(root, "subagent", [
+    { path: at, value: { type: `${pageType.slug}/subagent`, slug } },
+  ])
   return at
 }
 

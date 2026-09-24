@@ -13,7 +13,7 @@ const WORKING_ID = "01a06964-d998-7c3e-8f55-91ff918f96ac"
 export function colorIn(at: string, color: string): undefined {
   writeFileSync(
     join(at, WORKING_PAGE),
-    `export const working = {\n  pageTypeSlug: "seat-turn-state",\n  slug: "working",\n` +
+    `export const working = {\n  type: "page-type/seat-turn-state",\n  slug: "working",\n` +
       `  definition: "an agent taking a turn",\n  color: "${color}",\n} as const\n`
   )
   listedFiled(at, PAGE_TYPE, WORKING, [{ path: WORKING_PAGE, id: WORKING_ID }])

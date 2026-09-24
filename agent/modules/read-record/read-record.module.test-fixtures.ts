@@ -13,6 +13,7 @@ import {
   valueAlsoFiled,
 } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { uncommittedBesideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const AGENT = "01a04e96-c80a-79ef-819f-a455a96a0e54"
 
@@ -63,7 +64,7 @@ export function readsBeside(page: string): string {
 function seatPaged(root: string, id: string, slug: string, at?: string): undefined {
   const path = at ?? seatPageOf(slug)
   listedFiled(root, SEAT, slug, [{ path, id }])
-  valueAlsoFiled(root, SEAT, [{ path, value: { id, pageTypeSlug: SEAT, slug } }])
+  valueAlsoFiled(root, SEAT, [{ path, value: { id, type: `${pageType.slug}/${SEAT}`, slug } }])
   return undefined
 }
 
@@ -71,7 +72,9 @@ function subagentPaged(root: string, agentId: string, slug: string, at?: string)
   const path = at ?? subagentPageOf(slug)
   const id = mintedId(slug)
   listedFiled(root, SUBAGENT, slug, [{ path, id }])
-  valueAlsoFiled(root, SUBAGENT, [{ path, value: { id, pageTypeSlug: SUBAGENT, slug, agentId } }])
+  valueAlsoFiled(root, SUBAGENT, [
+    { path, value: { id, type: `${pageType.slug}/${SUBAGENT}`, slug, agentId } },
+  ])
   return undefined
 }
 
