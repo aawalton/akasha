@@ -2,8 +2,8 @@
 # Sourced by smilingjenny-ios-seam inside its widget guard, in the shell that runs
 # it. Not a program of its own: it reads PROJECT_PBXPROJ, WIDGET_NAME,
 # WIDGET_BUNDLE_ID, WIDGET_TEAM, WIDGET_DEPLOYMENT_TARGET, WIDGET_PROFILE_NAME,
-# APP_PROFILE_NAME and APP_MARKETING_VERSION from the seam, and sits apart from it
-# only because one page holds one concern.
+# APP_PROFILE_NAME, APP_MARKETING_VERSION and APP_DISPLAY_NAME from the seam, and sits
+# apart from it only because one page holds one concern.
 WIDGET_SEAM_RB=$(mktemp)
 cat > "$WIDGET_SEAM_RB" <<'RUBY'
 require "xcodeproj"
@@ -16,6 +16,7 @@ deploy_tgt   = ENV.fetch("WIDGET_DEPLOYMENT_TARGET")
 profile_name = ENV.fetch("WIDGET_PROFILE_NAME")
 app_profile  = ENV.fetch("APP_PROFILE_NAME")
 app_mv       = ENV.fetch("APP_MARKETING_VERSION")
+app_name     = ENV.fetch("APP_DISPLAY_NAME")
 dest_rel     = widget_name # group path relative to ios/App (the project dir)
 
 project = Xcodeproj::Project.open(project_path)
@@ -63,6 +64,9 @@ widget.build_configurations.each do |config|
   bs["SWIFT_VERSION"] = "5.0"
   bs["SKIP_INSTALL"] = "YES"
   bs["MARKETING_VERSION"] = app_mv
+  # The widget's Info.plist names its display name as $(APP_DISPLAY_NAME), so the
+  # name a person reads under the tiles is the one the app's page states.
+  bs["APP_DISPLAY_NAME"] = app_name
   bs["IPHONEOS_DEPLOYMENT_TARGET"] = deploy_tgt
   bs["TARGETED_DEVICE_FAMILY"] = "1,2"
   bs["LD_RUNPATH_SEARCH_PATHS"] = ["$(inherited)", "@executable_path/Frameworks", "@executable_path/../../Frameworks"]
@@ -100,6 +104,6 @@ RUBY
 PROJECT_PBXPROJ="$PROJECT_PBXPROJ" WIDGET_NAME="$WIDGET_NAME" WIDGET_BUNDLE_ID="$WIDGET_BUNDLE_ID" \
   WIDGET_TEAM="$WIDGET_TEAM" WIDGET_DEPLOYMENT_TARGET="$WIDGET_DEPLOYMENT_TARGET" \
   WIDGET_PROFILE_NAME="$WIDGET_PROFILE_NAME" APP_PROFILE_NAME="$APP_PROFILE_NAME" \
-  APP_MARKETING_VERSION="$APP_MARKETING_VERSION" \
+  APP_MARKETING_VERSION="$APP_MARKETING_VERSION" APP_DISPLAY_NAME="$APP_DISPLAY_NAME" \
   ruby "$WIDGET_SEAM_RB"
 rm -f "$WIDGET_SEAM_RB"
