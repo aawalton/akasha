@@ -4,6 +4,7 @@ export const foodEntry20260924MelonHoneydewCantaloupe2Cups = {
   id: "01a0d525-eb21-7000-874b-7fd1055c98dc",
   type: "page-type/food-entry",
   slug: "food-entry-2026-09-24-melon-honeydew-cantaloupe-2-cups",
+  cover: "image/image-54c7b5450ac022ee",
   title: "Melon (honeydew + cantaloupe), 2 cups",
   happenedAt: "2026-09-24T20:31:00.000Z",
   plantGrams: 340,
