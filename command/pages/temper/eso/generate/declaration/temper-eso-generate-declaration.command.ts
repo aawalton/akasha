@@ -132,7 +132,7 @@ export const temperEsoGenerateDeclaration = {
       statement: "Nothing here writes the clone.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The opt-in manifest naming which tokens are kept is in akasha.",
     },
     {

@@ -72,7 +72,7 @@ export const temperEsoGenerateChatterName = {
       statement: "Nothing here reads the clone.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The rendering of the registry is in akasha.",
     },
     {
