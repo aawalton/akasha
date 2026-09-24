@@ -247,7 +247,7 @@ export const running = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A group left goes at the next group made beside it or at the reaper's next tick.",
+      statement: "A group left goes at the next group made beside it.",
     },
     {
       decisionKind: "decision-kind/departure",

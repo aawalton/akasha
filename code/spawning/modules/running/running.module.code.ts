@@ -209,13 +209,6 @@ function leftSwept(root: string): undefined {
   for (const at of left) process.stderr.write(`${LEFT} ${at} — ${leftIn(at)}\n`)
 }
 
-export function leftSweptHere(): undefined {
-  const own = ownAt()
-  if (own === null) return
-  const root = delegatedAt(own)
-  if (root !== null) leftSwept(root)
-}
-
 function budgetAt(): string | null {
   const own = ownAt()
   if (own === null) return null
