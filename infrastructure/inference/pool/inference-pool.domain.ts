@@ -64,7 +64,7 @@ export const inferencePool = {
       statement: "A service whose page says it is not to be running is torn down.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A service on the host that no page names at all is torn down.",
     },
     {
