@@ -36,10 +36,16 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/grades/armor-trait-invigorating-superior-magicka-recovery.temper-gear-grade.ts","id":"01a0d3e9-5da5-7879-ad63-131b9d92a378"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/grades/armor-trait-invigorating-superior-stamina-recovery.temper-gear-grade.ts","id":"01a0d3e9-6654-7b74-ae9c-59ddfbde35d0"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/invigorating.temper-armor-trait.ts","id":"01a05fb2-1bcf-73a5-a7c0-c033d122331e"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/nirnhoned/grades/armor-trait-nirnhoned-superior.temper-gear-grade.ts","id":"01a0d3e9-c5e2-7bb2-b74a-fffe174c9a72"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/nirnhoned/nirnhoned.temper-armor-trait.ts","id":"01a05fb2-1bd0-79e8-a878-97f1cb25677d"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/reinforced/grades/armor-trait-reinforced-superior.temper-gear-grade.ts","id":"01a0d3e9-f5e8-755c-a208-892bd9b930b0"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/reinforced/reinforced.temper-armor-trait.ts","id":"01a05fb2-1bd1-7dba-b5ac-0f28ecbae701"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/sturdy/grades/armor-trait-sturdy-superior.temper-gear-grade.ts","id":"01a0d3ea-1e8e-7c76-bf87-4045df4204a6"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/sturdy/sturdy.temper-armor-trait.ts","id":"01a05fb2-1bd1-7a1a-a411-c520da348cc8"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/training/grades/armor-trait-training-superior.temper-gear-grade.ts","id":"01a0d3ea-4eaf-7f55-9225-87dac99394f6"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/training/training.temper-armor-trait.ts","id":"01a05fb2-1bd1-76b9-a51c-6834aa119055"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/well-fitted/grades/armor-trait-well-fitted-superior-stamina-dodge-cost.temper-gear-grade.ts","id":"01a0d3ea-ad23-78f5-b33d-ff87e96441cf"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/well-fitted/grades/armor-trait-well-fitted-superior-stamina-sprint-cost.temper-gear-grade.ts","id":"01a0d3ea-a398-77cc-8efb-aa8f472d3a2a"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/well-fitted/well-fitted.temper-armor-trait.ts","id":"01a05fb2-1bd1-73f9-bcca-bd39fc693315"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bashing/bashing.temper-jewelry-enchant.ts","id":"019e5c85-d95d-7f46-b068-c3b9e8d6ab01"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bashing/grades/jewelry-enchant-bashing-superior.temper-gear-grade.ts","id":"01a0d3e7-3ead-7efd-bf88-e47ee30f3a09"}
