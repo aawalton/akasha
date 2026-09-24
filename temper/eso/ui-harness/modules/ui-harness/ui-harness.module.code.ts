@@ -17,6 +17,10 @@ import {
   makeSandboxedLuaVm,
 } from "akasha/temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
 import {
+  answersLua,
+  engineAnswersTable,
+} from "akasha/temper/eso/return/modules/engine-answers-seeding/engine-answers-seeding.module.code.ts"
+import {
   engineReturnsTable,
   returnsLua,
 } from "akasha/temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.code.ts"
@@ -86,6 +90,13 @@ function returnTexts(): readonly string[] {
     cachedReturns = returnsLua(engineReturnsTable(akashaRoot()))
   }
   return cachedReturns
+}
+
+let cachedAnswers: string | null = null
+
+function answerText(): string {
+  if (cachedAnswers === null) cachedAnswers = answersLua(engineAnswersTable(akashaRoot()))
+  return cachedAnswers
 }
 
 function modelPathIn(root: string, slug: string): string {
@@ -218,6 +229,7 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
       colorText(),
       stringText(),
       ...returnTexts(),
+      answerText(),
     ],
   })
   return {

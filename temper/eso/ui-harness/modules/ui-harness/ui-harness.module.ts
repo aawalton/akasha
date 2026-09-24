@@ -35,6 +35,10 @@ export const uiHarness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the running game answered a function is loaded last, so it answers instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The engine's captured colors are loaded before the defaults, so its getter answers them.",
     },
