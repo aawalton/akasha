@@ -15,8 +15,8 @@ import { keepTranscript } from "akasha/agent/seat/session/modules/seat-transcrip
 import { keepSession } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
-  getCurrentAgentIdForSelfHeal,
-  getCurrentSessionIdForSelfHeal,
+  getCurrentAgentIdForRestart,
+  getCurrentSessionIdForRestart,
 } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
@@ -135,8 +135,8 @@ export async function keepSeatPage(
   seatName: string,
   account: string | null = null
 ): Promise<void> {
-  const selfHealAgent = getCurrentAgentIdForSelfHeal()
-  const selfHealSession = getCurrentSessionIdForSelfHeal()
+  const selfHealAgent = getCurrentAgentIdForRestart()
+  const selfHealSession = getCurrentSessionIdForRestart()
   const report = await beatReport([
     "--agent",
     agentId,

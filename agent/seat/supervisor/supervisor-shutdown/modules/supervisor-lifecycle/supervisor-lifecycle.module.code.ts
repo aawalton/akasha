@@ -14,7 +14,7 @@ import { shouldWriteTerminalStoppedStatus } from "akasha/agent/seat/supervisor/s
 import { takeSeatPage } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { resolveReExecArgv } from "akasha/agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"
 import {
-  getCurrentAgentIdForSelfHeal,
+  getCurrentAgentIdForRestart,
   isPendingReExec,
   SUPERVISOR_SCRIPT,
 } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
@@ -95,7 +95,7 @@ export async function shutdown(signal: string, childExitRule: ChildExitRuleSourc
   if (exitWrite === null) recordShutdownEvent("exit-write-unreached", { reason: exitWriteNotice })
 
   if (shouldWriteTerminalStoppedStatus(isPendingReExec())) {
-    const dyingAgentId = getCurrentAgentIdForSelfHeal()
+    const dyingAgentId = getCurrentAgentIdForRestart()
     if (
       dyingAgentId !== null &&
       exitWrite !== null &&
@@ -111,7 +111,7 @@ export async function shutdown(signal: string, childExitRule: ChildExitRuleSourc
   recordShutdownEvent("after-kill-procs", { preserveClaude })
 
   if (shouldWriteTerminalStoppedStatus(isPendingReExec())) {
-    const dyingAgentId = getCurrentAgentIdForSelfHeal()
+    const dyingAgentId = getCurrentAgentIdForRestart()
     if (dyingAgentId !== null && exitWrite !== null) {
       const pageTaken = takeSeatPage(dyingAgentId, exitWrite.stopReason)
       recordShutdownEvent("seat-page-remove", {

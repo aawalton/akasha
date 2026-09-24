@@ -1,8 +1,8 @@
 import { REPO_ROOT } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
-export type SelfHealInstallResult = { ok: true } | { ok: false; stderr: string }
-export type SelfHealRunInstall = (version: string) => Promise<SelfHealInstallResult>
+export type RestartInstallResult = { ok: true } | { ok: false; stderr: string }
+export type RestartRunInstall = (version: string) => Promise<RestartInstallResult>
 
 const SINGLE_FLIGHT_LOCK_TIMEOUT_S = 600
 
@@ -35,7 +35,7 @@ function sanitizeVersionForPath(version: string): string {
   return cleaned.length > 0 ? cleaned : "unknown"
 }
 
-export const defaultRunInstall: SelfHealRunInstall = async (version) => {
+export const defaultRunInstall: RestartRunInstall = async (version) => {
   const safe = sanitizeVersionForPath(version)
   const lockPath = `${SCRATCH_AT}/supervisor-self-heal-install-${safe}.lock`
   const sentinelPath = `${SCRATCH_AT}/supervisor-self-heal-install-${safe}.done`

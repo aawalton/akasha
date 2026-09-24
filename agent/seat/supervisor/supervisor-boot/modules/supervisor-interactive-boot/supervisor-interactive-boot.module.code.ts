@@ -33,7 +33,7 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
-import { setProxyOwnerAgentIdForSelfHeal } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
+import { setGatewayOwnerAgentIdForRestart } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import {
   parseSupervisorHandoffEnv,
   resolveProxyOwnerAgentId,
@@ -92,7 +92,7 @@ export async function bootInteractiveSession(
     handoffProxyOwnerAgentId: handoff.proxyOwnerAgentId,
     sessionAgentId: agentId,
   })
-  setProxyOwnerAgentIdForSelfHeal(proxyOwnerAgentId)
+  setGatewayOwnerAgentIdForRestart(proxyOwnerAgentId)
 
   const oauthProxyVersion = computeModelGatewayTreeVersion()
   const { stopCredentialWatch, credentialRefreshTimer, proxy } = await buildCredentialSubsystem({

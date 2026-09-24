@@ -28,7 +28,7 @@ import type { AgentProcess } from "akasha/agent/seat/supervisor/supervisor-proce
 import type { CarriedAgentName } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import { recordTermiosState } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 import { askReExecJitterMs } from "akasha/agent/seat/supervisor-restart/modules/jitter-rule/supervisor-restart-jitter-rule.module.code.ts"
-import { setSelfHealIdleProbe } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
+import { setRestartIdleProbe } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 
 export async function runInteractive(
   prompt: string,
@@ -62,7 +62,7 @@ export async function runInteractive(
     mcpConfigNonce,
   } = boot
 
-  setSelfHealIdleProbe({
+  setRestartIdleProbe({
     getClaudePid: () => agentProc?.proc?.pid ?? null,
     getProxyPort: () => proxy.port,
     selfHealJitterRule: askReExecJitterMs,

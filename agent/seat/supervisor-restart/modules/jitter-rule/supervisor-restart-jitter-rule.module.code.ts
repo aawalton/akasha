@@ -13,7 +13,7 @@ const AnswerZ = SHAPE.object({
 
 const SAFE = 0
 
-export type SelfHealJitterRuleSource = (
+export type RestartJitterRuleSource = (
   randFloat: number,
   rawMaxJitterMs: string | undefined
 ) => Promise<RuleAnswer<number>>

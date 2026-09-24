@@ -16,7 +16,7 @@ import { buildHeartbeatMonitor } from "akasha/agent/seat/supervisor/supervisor-t
 import { browserReapPoll } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.code.ts"
 import { handleVersionUpdate } from "akasha/agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"
 import {
-  SELF_HEAL_STATE,
+  SUPERVISOR_RESTART_STATE,
   SUPERVISOR_SCRIPT,
 } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import { pollSupervisorFileVersion } from "akasha/agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"
@@ -61,12 +61,12 @@ export function startPerAgentMonitors(args: {
           }),
       },
       browserReapPoll({
-        getClaudePid: () => SELF_HEAL_STATE.getClaudePidForSelfHeal(),
+        getClaudePid: () => SUPERVISOR_RESTART_STATE.getClaudePidForSelfHeal(),
         log,
       }),
       autoCompactPoll({
         getAgentId: args.getAgentId,
-        getClaudePid: () => SELF_HEAL_STATE.getClaudePidForSelfHeal(),
+        getClaudePid: () => SUPERVISOR_RESTART_STATE.getClaudePidForSelfHeal(),
         getProxyPort: () => getOAuthProxyHandle()?.port ?? null,
         idleRule: LIVE_IDLE_RULE,
         log,

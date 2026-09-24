@@ -41,8 +41,8 @@ import {
 } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { keepSeatTranscript } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import {
-  setCurrentAgentIdForSelfHeal,
-  setCurrentSessionIdForSelfHeal,
+  setCurrentAgentIdForRestart,
+  setCurrentSessionIdForRestart,
 } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 
@@ -85,8 +85,8 @@ export async function openIteration(args: {
     console.log(`${LOG} Restarting agent ${agentId}`)
   }
   agentIdHandle.bind(agentId)
-  setCurrentAgentIdForSelfHeal(agentId)
-  setCurrentSessionIdForSelfHeal(sessionId)
+  setCurrentAgentIdForRestart(agentId)
+  setCurrentSessionIdForRestart(sessionId)
   try {
     await args.setSessionId(agentId, sessionId)
   } catch (err) {

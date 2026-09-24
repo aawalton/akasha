@@ -10,7 +10,7 @@ import {
   getInheritedClaude,
   processes,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
-import { getProxyOwnerAgentIdForSelfHeal } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
+import { getGatewayOwnerAgentIdForRestart } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import { buildHandoffEnv } from "akasha/agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
 
 function collectClaudeHandoff(): {
@@ -59,7 +59,7 @@ export function attemptInPlaceReExec(execPath: string, argv: readonly string[]):
       ...process.env,
       ...buildHandoffEnv({
         claude: claudeHandoff ?? undefined,
-        proxyOwnerAgentId: getProxyOwnerAgentIdForSelfHeal() ?? undefined,
+        proxyOwnerAgentId: getGatewayOwnerAgentIdForRestart() ?? undefined,
       }),
     }
     execvpe(execPath, argv, envp)
