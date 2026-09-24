@@ -26,6 +26,10 @@ export const engineAnswersReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A capture from before functions were asked with values reads as none asked so.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The names are sorted here, so what is written turns only where the game did.",
     },
   ],

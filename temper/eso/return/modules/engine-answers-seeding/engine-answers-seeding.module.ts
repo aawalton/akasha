@@ -18,6 +18,14 @@ export const engineAnswersSeeding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A function asked with values gives back what the game answered those values.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Asked with values the game was not asked, it gives back what it gave before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The functions are written ordered by name, so two runs hand the sandbox the same Lua.",
     },

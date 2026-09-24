@@ -13,11 +13,20 @@ export const engineAnswerCatalogCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A function asked takes nothing, so no value handed in can be out of range.",
+      statement: "A function is asked with nothing, or with values the game itself names.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A function asked answers a fact of the game rather than of the player.",
+      statement:
+        "A value handed in is named by the game's own constant, so it is never out of range.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A function asked answers a fact of the game or of the player's machine.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value the game does not name is passed over, and so is its asking.",
     },
     {
       decisionKind: "decision-kind/stopgap",

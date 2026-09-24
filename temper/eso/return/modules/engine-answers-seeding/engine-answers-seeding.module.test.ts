@@ -12,6 +12,9 @@ const HELD = {
     GetNothing: [],
     IsConsoleUI: [false],
   },
+  answersGiven: {
+    GetSetting: { "5,1": ["0"] },
+  },
 }
 
 describe("answersLua", () => {
@@ -26,7 +29,15 @@ describe("answersLua", () => {
   })
 
   test("hands every function over in one call that sets it over any empty answer", () => {
-    expect(answersLua(HELD).startsWith("__eso_constants({")).toBe(true)
+    expect(answersLua(HELD)).toContain("__eso_constants({")
+  })
+
+  test("writes a function asked with values as one looking its answers up by those values", () => {
+    expect(answersLua(HELD)).toContain('["GetSetting"]=asked(GetSetting,{["5,1"]={"0"}})')
+  })
+
+  test("leaves a function asked with other values giving back what it gave before", () => {
+    expect(answersLua(HELD)).toContain("if was ~= nil then return was(...) end")
   })
 })
 

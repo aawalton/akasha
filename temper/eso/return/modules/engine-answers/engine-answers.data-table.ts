@@ -4,7 +4,7 @@ export const engineAnswers = {
   id: "01a0d42d-e85b-7db0-93e2-43cac932182a",
   type: "page-type/data-table",
   slug: "engine-answers",
-  definition: "what the running game answered each function asked with nothing, by name",
+  definition: "what the running game answered each function it was asked, by name",
   data: "json",
   decisions: [
     {
@@ -18,6 +18,11 @@ export const engineAnswers = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The API version the capture ran against is kept beside the answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A function asked with values keeps its answers under its name and those values joined by commas.",
     },
   ],
 } as const satisfies DataTable

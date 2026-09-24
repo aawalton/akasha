@@ -17,12 +17,38 @@ function answerLua(one: EngineAnswer): string {
   return String(one)
 }
 
-export function answersLua(held: EngineAnswers): string {
-  const written = Object.keys(held.answers)
+const ASKED_WITH = `local function asked(was, held)
+  return function(...)
+    local got = held[table.concat({ ... }, ",")]
+    if got ~= nil then return unpack(got) end
+    if was ~= nil then return was(...) end
+  end
+end
+`
+
+function listLua(given: readonly EngineAnswer[]): string {
+  return given.map(answerLua).join(",")
+}
+
+function askedWithLua(
+  name: string,
+  byGiven: Readonly<Record<string, readonly EngineAnswer[]>>
+): string {
+  const rows = Object.keys(byGiven)
     .sort()
-    .map((name) => {
-      const given = (held.answers[name] ?? []).map(answerLua).join(",")
-      return `[${luaStringLiteral(name)}]=function() return ${given} end`
-    })
-  return `__eso_constants({${written.join(",")}})`
+    .map((key) => `[${luaStringLiteral(key)}]={${listLua(byGiven[key] ?? [])}}`)
+  return `[${luaStringLiteral(name)}]=asked(${name},{${rows.join(",")}})`
+}
+
+export function answersLua(held: EngineAnswers): string {
+  const plain = Object.keys(held.answers)
+    .sort()
+    .map(
+      (name) =>
+        `[${luaStringLiteral(name)}]=function() return ${listLua(held.answers[name] ?? [])} end`
+    )
+  const withValues = Object.keys(held.answersGiven)
+    .sort()
+    .map((name) => askedWithLua(name, held.answersGiven[name] ?? {}))
+  return `${ASKED_WITH}__eso_constants({${[...plain, ...withValues].join(",")}})`
 }

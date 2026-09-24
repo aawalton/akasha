@@ -63,6 +63,24 @@ const ASKED: readonly string[] = [
   "IsMacUI",
   "IsSubmitFeedbackSupported",
   "IsTamrielTomesEnabled",
+  "VoiceChatGetNumberMutedPlayers",
+]
+
+interface AskedGiven {
+  readonly name: string
+  readonly given: readonly (readonly string[])[]
+}
+
+const USER_TYPES: readonly (readonly string[])[] = [
+  ["GROUP_FINDER_GROUP_LISTING_USER_TYPE_GROUP_LISTING_DRAFT"],
+  ["GROUP_FINDER_GROUP_LISTING_USER_TYPE_CREATED_GROUP_LISTING"],
+  ["GROUP_FINDER_GROUP_LISTING_USER_TYPE_APPLIED_TO_GROUP_LISTING"],
+]
+
+const ASKED_GIVEN: readonly AskedGiven[] = [
+  { name: "GetGroupFinderUserTypeGroupSizeIterationBegin", given: USER_TYPES },
+  { name: "GetGroupFinderUserTypeGroupSizeIterationEnd", given: USER_TYPES },
+  { name: "GetSetting", given: [["SETTING_TYPE_GRAPHICS", "GRAPHICS_SETTING_ACTIVE_DISPLAY"]] },
 ]
 
 const NOTHING = 0
@@ -72,11 +90,15 @@ function writable(this: void, held: unknown): held is EngineAnswer {
   return typeof held === "string" || typeof held === "boolean"
 }
 
-function answersOf(this: void, name: string): EngineAnswer[] | undefined {
+function answersOf(
+  this: void,
+  name: string,
+  handed: readonly number[] = []
+): EngineAnswer[] | undefined {
   const held: unknown = _G[name]
   if (typeof held !== "function") return undefined
-  const asked = held as (this: void) => LuaMultiReturn<unknown[]>
-  const [ok, packed] = pcall((): unknown[] => [...asked()])
+  const asked = held as (this: void, ...handed: number[]) => LuaMultiReturn<unknown[]>
+  const [ok, packed] = pcall((): unknown[] => [...asked(...handed)])
   if (!ok) return undefined
   const kept: EngineAnswer[] = []
   for (const one of packed) {
@@ -86,13 +108,34 @@ function answersOf(this: void, name: string): EngineAnswer[] | undefined {
   return kept
 }
 
+function valuesOf(this: void, named: readonly string[]): number[] | undefined {
+  const found: number[] = []
+  for (const name of named) {
+    const held: unknown = _G[name]
+    if (typeof held !== "number") return undefined
+    found[found.length] = held
+  }
+  return found
+}
+
 function collectEngineAnswerCatalog(this: void, onComplete: (this: void) => void): undefined {
   const answers: Record<string, EngineAnswer[]> = {}
   for (const name of ASKED) {
     const got = answersOf(name)
     if (got !== undefined) answers[name] = got
   }
-  getSavedVariables().engineAnswerCatalog = { apiVersion: GetAPIVersion(), answers }
+  const answersGiven: Record<string, Record<string, EngineAnswer[]>> = {}
+  for (const one of ASKED_GIVEN) {
+    const byGiven: Record<string, EngineAnswer[]> = {}
+    for (const named of one.given) {
+      const handed = valuesOf(named)
+      if (handed === undefined) continue
+      const got = answersOf(one.name, handed)
+      if (got !== undefined) byGiven[handed.join(",")] = got
+    }
+    answersGiven[one.name] = byGiven
+  }
+  getSavedVariables().engineAnswerCatalog = { apiVersion: GetAPIVersion(), answers, answersGiven }
   onComplete()
   return undefined
 }

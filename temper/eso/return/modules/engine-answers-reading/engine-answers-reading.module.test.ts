@@ -34,6 +34,16 @@ const CAPTURE = `TemperCatalog_SavedVariables =
                         {
                         },
                     },
+                    ["answersGiven"] =
+                    {
+                        ["GetSetting"] =
+                        {
+                            ["5,1"] =
+                            {
+                                [1] = "0",
+                            },
+                        },
+                    },
                 },
             },
         },
@@ -51,6 +61,10 @@ describe("engineAnswersIn", () => {
       GetNothing: [],
       IsConsoleUI: [false],
     })
+  })
+
+  test("keeps a function's answers under the values it was asked with", () => {
+    expect(engineAnswersIn(CAPTURE)?.answersGiven).toEqual({ GetSetting: { "5,1": ["0"] } })
   })
 
   test("orders the functions by name", () => {

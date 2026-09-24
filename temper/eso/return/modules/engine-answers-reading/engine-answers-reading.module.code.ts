@@ -14,6 +14,18 @@ const FIRST = 1
 export interface EngineAnswers {
   readonly apiVersion: number
   readonly answers: Readonly<Record<string, readonly EngineAnswer[]>>
+  readonly answersGiven: Readonly<Record<string, Readonly<Record<string, readonly EngineAnswer[]>>>>
+}
+
+type Listed = Readonly<Record<string, readonly EngineAnswer[]>>
+
+function listsIn(given: Readonly<Record<string, unknown>>): Listed {
+  const found: Record<string, readonly EngineAnswer[]> = {}
+  for (const key of Object.keys(given).sort()) {
+    const held = given[key]
+    if (isRecord(held)) found[key] = listedIn(held)
+  }
+  return found
 }
 
 function isAnswer(held: unknown): held is EngineAnswer {
@@ -38,15 +50,16 @@ export function engineAnswersIn(content: string): EngineAnswers | undefined {
   }
   const catalog = accountWideHolding(root, HELD)
   if (catalog === undefined || !isRecord(catalog.answers)) return undefined
-  const given = catalog.answers
-  const answers: Record<string, readonly EngineAnswer[]> = {}
-  for (const name of Object.keys(given).sort()) {
-    const held = given[name]
-    if (isRecord(held)) answers[name] = listedIn(held)
+  const answersGiven: Record<string, Listed> = {}
+  const byName = isRecord(catalog.answersGiven) ? catalog.answersGiven : {}
+  for (const name of Object.keys(byName).sort()) {
+    const held = byName[name]
+    if (isRecord(held)) answersGiven[name] = listsIn(held)
   }
   return {
     apiVersion: typeof catalog.apiVersion === "number" ? catalog.apiVersion : NO_VERSION,
-    answers,
+    answers: listsIn(catalog.answers),
+    answersGiven,
   }
 }
 
