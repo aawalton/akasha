@@ -8,8 +8,11 @@ import {
   fallbackReadIn,
 } from "akasha/agent/model/gateway/modules/provider-upstream/provider-upstream.module.code.ts"
 import { ownRepoRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { z } from "zod"
 
 const HERE = ownRepoRoot()
+
+const WRITTEN = z.looseObject({ model: z.string(), max_tokens: z.number() })
 
 const NOWHERE = "/var/tmp/provider-upstream-nowhere"
 
@@ -44,10 +47,7 @@ test("a body is rewritten to ask for the provider's own model", () => {
     encoded(JSON.stringify({ model: "claude-opus-5[1m]", max_tokens: 8 })),
     "deepseek-flash"
   )
-  const written = JSON.parse(new TextDecoder().decode(asked as ArrayBuffer)) as Record<
-    string,
-    unknown
-  >
+  const written = WRITTEN.parse(JSON.parse(new TextDecoder().decode(asked as ArrayBuffer)))
   expect(written["model"]).toBe("deepseek-flash")
   expect(written["max_tokens"]).toBe(8)
 })

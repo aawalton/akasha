@@ -4,6 +4,7 @@ import { endsYes } from "akasha/agent/model/modules/answer/model-answer.module.c
 import { ran as spawned } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { valuedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { z } from "zod"
 
 const FAMILY = "model-family"
 
@@ -29,21 +30,25 @@ const ASKING = "asking"
 
 const KEEPING = "keeping"
 
-const YES = "YES"
-
 const SIGNS = /\{[a-z]+\}/g
 
 const loadFrom = createRequire(import.meta.url)
 
-export type Case = {
-  readonly id: string
-  readonly page: string
-  readonly definition: string
-  readonly asked?: string
-  readonly against?: string
-  readonly statement: string
-  readonly answer: string
-}
+const CASE = z
+  .object({
+    id: z.string(),
+    page: z.string(),
+    definition: z.string(),
+    asked: z.string().optional(),
+    against: z.string().optional(),
+    statement: z.string(),
+    answer: z.string(),
+  })
+  .readonly()
+
+export type Case = z.infer<typeof CASE>
+
+const ANSWERED = z.looseObject({ answers: z.array(z.string()) })
 
 export type PageReading = (pageTypeSlug: string, slug: string) => Record<string, unknown> | null
 
@@ -85,30 +90,24 @@ export function askedOf(
     cwd: root,
   })
   if (answered.code !== 0) return null
-  let held: unknown
   try {
-    held = JSON.parse(answered.out)
+    return ANSWERED.safeParse(JSON.parse(answered.out)).data?.answers ?? null
   } catch {
     return null
   }
-  const answers =
-    typeof held === "object" && held !== null ? (held as { answers?: unknown }).answers : undefined
-  if (!Array.isArray(answers) || answers.some((one) => typeof one !== "string")) return null
-  return answers as readonly string[]
 }
 
-export function casesIn(text: string): readonly Case[] {
+export function parseCases(text: string): readonly Case[] {
   const found: Case[] = []
   for (const line of text.split("\n")) {
     if (line.trim() === "") continue
-    let parsed: unknown
+    let parsed: Case | undefined
     try {
-      parsed = JSON.parse(line)
+      parsed = CASE.safeParse(JSON.parse(line)).data
     } catch {
       continue
     }
-    if (parsed === null || typeof parsed !== "object" || Array.isArray(parsed)) continue
-    found.push(parsed as Case)
+    if (parsed !== undefined) found.push(parsed)
   }
   return found
 }
@@ -119,10 +118,6 @@ export function filling(prompt: string, values: Readonly<Record<string, string>>
 
 export function anyYes(got: readonly Got[]): boolean {
   return got.some((one) => endsYes(one.said))
-}
-
-export function keptBy(one: Case, got: readonly Got[]): boolean {
-  return anyYes(got) === (one.answer === YES)
 }
 
 function readingIn(root: string): PageReading {
@@ -153,7 +148,7 @@ function besideIn(root: string, at: string): Beside {
 async function everyCase(root: string, slug: string): Promise<readonly Case[]> {
   const at = besideAt(valuedAt(root, TEST, slug).path, CASES, JSONL)
   if (at === null) throw new Error(`\`${slug}\` has no cases beside it`)
-  return casesIn(await Bun.file(join(root, at)).text())
+  return parseCases(await Bun.file(join(root, at)).text())
 }
 
 export async function runningOf(

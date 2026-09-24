@@ -4,13 +4,16 @@ import {
   modelAsked,
   rewrittenToModel,
 } from "akasha/agent/model/gateway/modules/model-body/model-body.module.code.ts"
+import { z } from "zod"
+
+const WRITTEN = z.looseObject({ model: z.string(), max_tokens: z.number() })
 
 function bodyOf(said: unknown): ArrayBuffer {
   return encoded(JSON.stringify(said))
 }
 
-function readBack(bodyBuffer: ArrayBuffer | null): Record<string, unknown> {
-  return JSON.parse(new TextDecoder().decode(bodyBuffer as ArrayBuffer)) as Record<string, unknown>
+function readBack(bodyBuffer: ArrayBuffer | null): z.infer<typeof WRITTEN> {
+  return WRITTEN.parse(JSON.parse(new TextDecoder().decode(bodyBuffer as ArrayBuffer)))
 }
 
 test("the model a body names is read off the `model` key alone", () => {
