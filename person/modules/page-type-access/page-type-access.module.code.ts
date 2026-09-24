@@ -5,10 +5,6 @@ import {
   type Fetcher,
   type Sleeper,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import {
-  personSlugFor,
-  type Whom,
-} from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 
 const PERSON_ACCESS_PAGE_TYPE = "person-access"
 
@@ -139,31 +135,4 @@ export function reachOf(
     }
   }
   return { permitted: true, narrows }
-}
-
-export async function pageTypeReachForPerson(
-  personSlug: string,
-  pageTypeSlug: string,
-  deed: Deed,
-  fetcher?: Fetcher,
-  naps?: Sleeper
-): Promise<Reach> {
-  const held = await pageTypeGrantsFor(personSlug, fetcher, naps)
-  if (!held.ok) return { permitted: false, why: held.why }
-  return reachOf(held.grants, pageTypeSlug, deed, personSlug)
-}
-
-export async function pageTypeReachFor(
-  whom: Whom | null,
-  pageTypeSlug: string,
-  deed: Deed,
-  fetcher?: Fetcher,
-  naps?: Sleeper
-): Promise<Reach> {
-  if (whom === null) {
-    return pageTypeReachForPerson(ANONYMOUS_PERSON, pageTypeSlug, deed, fetcher, naps)
-  }
-  const enrolled = await personSlugFor(whom, fetcher, naps)
-  if (!enrolled.ok) return { permitted: false, why: enrolled.why }
-  return pageTypeReachForPerson(enrolled.personSlug, pageTypeSlug, deed, fetcher, naps)
 }

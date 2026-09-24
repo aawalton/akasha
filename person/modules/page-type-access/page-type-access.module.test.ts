@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { accessKind } from "akasha/person/access-kind/access-kind.page-type.ts"
 import { pageType as pageTypeKind } from "akasha/person/access-kind/pages/page-type.access-kind.ts"
-import { asAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import {
   answeringByType,
   noNap,
@@ -14,8 +13,6 @@ import {
   type Grant,
   malformed,
   pageTypeGrantsFor,
-  pageTypeReachFor,
-  pageTypeReachForPerson,
   reachOf,
 } from "akasha/person/modules/page-type-access/page-type-access.module.code.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
@@ -27,14 +24,15 @@ const PAGE_TYPE_AT = `${accessKind.slug}/${pageTypeKind.slug}` as const
 
 const READ_ALL = [{ target: "all", deeds: [DEEDS.READ], narrow: null }]
 
+async function grantsOf(personSlug: string, fetcher: Fetcher): Promise<readonly Grant[]> {
+  const held = await pageTypeGrantsFor(personSlug, fetcher, noNap)
+  if (!held.ok) throw new Error(held.why)
+  return held.grants
+}
+
 test("a person with no page type access reads no page type", async () => {
-  const reach = await pageTypeReachForPerson(
-    "ki",
-    "world-skill",
-    DEEDS.READ,
-    answeringByType({ "person-access": [] }),
-    noNap
-  )
+  const grants = await grantsOf("ki", answeringByType({ "person-access": [] }))
+  const reach = reachOf(grants, "world-skill", DEEDS.READ, "ki")
   expect(reach.permitted).toBe(false)
   expect(reach.permitted === false && reach.why).toContain("holds no page type access naming")
 })
@@ -108,9 +106,9 @@ test("only an access of the page type kind is asked for", async () => {
   })
 })
 
-test("a caller no session names takes the anonymous reader's grants", async () => {
+test("the reader nobody signed in as is asked for by that reader's own page", async () => {
   const recording = recordingFetcher()
-  await pageTypeReachFor(null, "world-skill", DEEDS.READ, recording.fetcher, noNap)
+  await pageTypeGrantsFor(ANONYMOUS_PERSON, recording.fetcher, noNap)
   expect(recording.sent().where).toEqual({
     person: { is: `${person.slug}/${ANONYMOUS_PERSON}` },
     accessKind: { is: PAGE_TYPE_AT },
@@ -123,32 +121,26 @@ test("access pages that went unread open nothing", async () => {
       status: 500,
       headers: { "content-type": "application/json" },
     })
-  const reach = await pageTypeReachFor(null, "world-skill", DEEDS.READ, fetcher, noNap)
-  expect(reach.permitted).toBe(false)
-  expect(reach.permitted === false && reach.why).toContain("went unread")
+  const held = await pageTypeGrantsFor(ANONYMOUS_PERSON, fetcher, noNap)
+  expect(held.ok).toBe(false)
+  expect(held.ok === false && held.why).toContain("went unread")
 })
 
-test("an account read to a person takes that person's grants", async () => {
-  const reach = await pageTypeReachFor(
-    asAccount("an-account"),
-    "world-skill",
-    DEEDS.READ,
-    answeringByType({
-      person: [{ slug: "jenny" }],
-      "person-access": [{ target: "world-skill", deed: [DEEDS.READ] }],
-    }),
-    noNap
+test("a person's grants are read off the access pages", async () => {
+  const grants = await grantsOf(
+    "jenny",
+    answeringByType({ "person-access": [{ target: "world-skill", deed: [DEEDS.READ] }] })
   )
-  expect(reach).toEqual({ permitted: true, narrows: null })
+  expect(reachOf(grants, "world-skill", DEEDS.READ, "jenny")).toEqual({
+    permitted: true,
+    narrows: null,
+  })
 })
 
 test("a narrow the access pages carry reaches the reach", async () => {
-  const reach = await pageTypeReachFor(
-    asAccount("an-account"),
-    "world-skill",
-    DEEDS.READ,
+  const grants = await grantsOf(
+    "jenny",
     answeringByType({
-      person: [{ slug: "jenny" }],
       "person-access": [
         {
           target: "world-skill",
@@ -156,10 +148,9 @@ test("a narrow the access pages carry reaches the reach", async () => {
           narrow: { key: "world", is: "world/one" },
         },
       ],
-    }),
-    noNap
+    })
   )
-  expect(reach).toEqual({
+  expect(reachOf(grants, "world-skill", DEEDS.READ, "jenny")).toEqual({
     permitted: true,
     narrows: [{ key: "world", is: "world/one" }],
   })

@@ -14,8 +14,6 @@
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/device-token-registration/device-token-registration.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/enrolment/person-enrolment.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/page-type-access/page-type-access.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/page-type-access/page-type-access.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/route-access/route-access.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"person/modules/route-access/route-access.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"person-enrolment.module.code.ts","path":"product/archive-of-worlds/web/routes/_app-layout.tsx","typed":false,"deferred":false}

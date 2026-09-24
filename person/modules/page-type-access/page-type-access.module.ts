@@ -4,7 +4,7 @@ export const pageTypeAccess = {
   id: "01a0c4ee-704e-775d-b32f-ddf8c29c7523",
   type: "page-type/module",
   slug: "page-type-access",
-  definition: "whether the person a caller represents may read or write a page type",
+  definition: "whether a person may read or write a page type",
   code: "ts",
   test: "ts",
   decisions: [
@@ -26,11 +26,8 @@ export const pageTypeAccess = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A caller no session names is the reader nobody signed in as.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "That reader holds the accesses that reader's own page is named by.",
+      statement:
+        "The reader nobody signed in as holds the accesses that reader's own page is named by.",
     },
     {
       decisionKind: "decision-kind/departure",
