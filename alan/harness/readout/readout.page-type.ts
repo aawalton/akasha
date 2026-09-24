@@ -155,8 +155,8 @@ export const readout = {
       statement: "Everything a readout shows is stated on the readout.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Where and how big is the display's.",
+      decisionKind: "decision-kind/departure",
+      statement: "How big a readout is drawn is the display's.",
     },
     {
       decisionKind: "decision-kind/departure",
