@@ -4,6 +4,10 @@ You take the winding-drum core up in both hands, hold it against your chest, and
 
 And this time it is THERE. For the first time since you pulled this core from the wreck, the foreign force does not slide off you. You feel it -- truly feel it, catch hold of it with a part of you that did not know it could -- a vast wound stillness coiled in the metal, a held breath of pure stored motion, immense and patient and real. The thing that was a rumor under your hands at the flail's end is a presence now, gripped, known. You have found the door, and it is open, and the turning force pours up out of the iron toward you.
 
+:::affinity
+name: Force Affinity
+:::
+
 You pull it into yourself, the only way you have ever taken an essence in -- the way you drank the ember on the first floor, into the meat and marrow of you, to keep.
 
 It does not keep.
