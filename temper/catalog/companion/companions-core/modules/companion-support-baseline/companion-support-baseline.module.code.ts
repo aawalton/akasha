@@ -89,7 +89,10 @@ export function computeReferenceBaseline(build: CompanionState): ReferenceBaseli
   }
 
   const baseToughness = metricValues.get("companion-effective-toughness") ?? 0
-  const healthMax = metricValues.get("companion-health-maximum") ?? 30000
+  const healthMax = metricValues.get("companion-health-maximum")
+  if (healthMax === undefined) {
+    throw new Error("The support baseline names companion-health-maximum, which has no value")
+  }
   const damageTakenMod = metricValues.get("companion-damage-taken") ?? 0
   const baseArmor = metricValues.get("companion-armor") ?? 0
 

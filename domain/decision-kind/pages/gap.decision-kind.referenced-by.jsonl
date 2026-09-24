@@ -280,7 +280,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.ts","id":"01a06152-c2c8-7340-b909-f5fd7c81e388"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-rotation-slot/companion-rotation-slot.module.ts","id":"01a06152-c2d0-7ecb-a493-0d67e8ff42e0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-stats-calculator-impl/companion-stats-calculator-impl.module.ts","id":"01a06152-c2d5-7baf-a9bc-c8933bec82ac"}
-{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-baseline/companion-support-baseline.module.ts","id":"01a06152-c2d6-735f-b4cd-3686f61269aa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.ts","id":"01a06152-c2d7-7695-9439-9870ccc2e399"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-evaluator/companion-support-evaluator.module.ts","id":"01a06152-c2d7-79f1-86ad-f183166c0a7e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.ts","id":"01a06108-076e-76c3-9e85-b58e3d430303"}

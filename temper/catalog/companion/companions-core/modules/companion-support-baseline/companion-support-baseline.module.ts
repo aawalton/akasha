@@ -16,8 +16,8 @@ export const companionSupportBaseline = {
       statement: "Light attack is excluded from the per-skill buff scan.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A missing health maximum metric falls back to thirty thousand.",
+      decisionKind: "decision-kind/departure",
+      statement: "A missing health maximum metric is refused, naming that metric.",
     },
   ],
 } as const satisfies Module
