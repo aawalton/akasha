@@ -1,35 +1,72 @@
 {
   "build": {
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 186603,
-      "3": 155328,
-      "4": 154926,
-      "5": 155693,
-      "6": 186488
-    },
+    "companionId": 8,
     "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
-    "weapons": {
+    "armor": {
       "1": {
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Ice Staff, Shattering"
+        "displayText": "Heavy, Focused",
+        "isEmpty": false
       },
       "2": {
         "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
         },
-        "isEmpty": true,
-        "displayText": "Empty"
+        "displayText": "Heavy, Focused",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused",
+        "isEmpty": false
+      },
+      "4": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused",
+        "isEmpty": false
+      },
+      "5": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused",
+        "isEmpty": false
+      },
+      "6": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused",
+        "isEmpty": false
+      },
+      "7": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Heavy, Focused",
+        "isEmpty": false
       }
     },
-    "companionId": 8,
     "mainHandWeaponType": 13,
     "jewelry": {
       "1": {
@@ -38,8 +75,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Focused"
+        "displayText": "Focused",
+        "isEmpty": false
       },
       "2": {
         "qualityColor": {
@@ -47,8 +84,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Shattering"
+        "displayText": "Shattering",
+        "isEmpty": false
       },
       "3": {
         "qualityColor": {
@@ -56,73 +93,36 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Shattering"
+        "displayText": "Shattering",
+        "isEmpty": false
       }
     },
-    "armor": {
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 186603,
+      "3": 155328,
+      "4": 154926,
+      "5": 155693,
+      "6": 186488
+    },
+    "weapons": {
       "1": {
         "qualityColor": {
           "1": 0.65,
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Heavy, Focused"
+        "displayText": "Ice Staff, Shattering",
+        "isEmpty": false
       },
       "2": {
         "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
         },
-        "isEmpty": false,
-        "displayText": "Heavy, Focused"
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Heavy, Focused"
-      },
-      "4": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Heavy, Focused"
-      },
-      "5": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Heavy, Focused"
-      },
-      "6": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Heavy, Focused"
-      },
-      "7": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Heavy, Focused"
+        "displayText": "Empty",
+        "isEmpty": true
       }
     }
   },

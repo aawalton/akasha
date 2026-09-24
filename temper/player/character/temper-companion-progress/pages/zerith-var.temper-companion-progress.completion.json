@@ -1,5 +1,57 @@
 {
   "build": {
+    "companionId": 13,
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
+    "jewelry": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Quickened",
+        "isEmpty": false
+      },
+      "3": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Vigorous",
+        "isEmpty": false
+      }
+    },
+    "mainHandWeaponType": 9,
+    "weapons": {
+      "1": {
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Restoration Staff, Quickened",
+        "isEmpty": false
+      },
+      "2": {
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "displayText": "Empty",
+        "isEmpty": true
+      }
+    },
     "skillAbilityIds": {
       "1": 213158,
       "2": 155693,
@@ -8,58 +60,6 @@
       "5": 155411,
       "6": 213169
     },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNPafMlxuIA",
-    "weapons": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Restoration Staff, Quickened"
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "isEmpty": true,
-        "displayText": "Empty"
-      }
-    },
-    "companionId": 13,
-    "mainHandWeaponType": 9,
-    "jewelry": {
-      "1": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Quickened"
-      },
-      "2": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Quickened"
-      },
-      "3": {
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false,
-        "displayText": "Vigorous"
-      }
-    },
     "armor": {
       "1": {
         "qualityColor": {
@@ -67,8 +67,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "2": {
         "qualityColor": {
@@ -76,8 +76,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "3": {
         "qualityColor": {
@@ -85,8 +85,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "4": {
         "qualityColor": {
@@ -94,8 +94,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "5": {
         "qualityColor": {
@@ -103,8 +103,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "6": {
         "qualityColor": {
@@ -112,8 +112,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       },
       "7": {
         "qualityColor": {
@@ -121,8 +121,8 @@
           "2": 0.28,
           "3": 0.86
         },
-        "isEmpty": false,
-        "displayText": "Heavy, Quickened"
+        "displayText": "Heavy, Quickened",
+        "isEmpty": false
       }
     }
   },
