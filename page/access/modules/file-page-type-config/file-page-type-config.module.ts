@@ -71,14 +71,6 @@ export const filePageTypeConfig = {
         "A tree where no page type states a media config is refused rather than read as empty.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The `page-type` page type declares no `sequence`.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "No page type states a media config.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "No answer here is held for a later question.",
     },
