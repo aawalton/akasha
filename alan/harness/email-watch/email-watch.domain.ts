@@ -28,7 +28,7 @@ export const emailWatch = {
       statement: "Every action taken on a message is appended to a log.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The rules a run reads are reached from akasha.",
     },
     {

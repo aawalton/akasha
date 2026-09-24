@@ -109,8 +109,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.ts","id":"01a0a682-3acc-7b55-b488-e7b96ed58cac"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/eso-day/eso-day.module.ts","id":"01a05c77-31e6-7a9f-9805-d1c81725dd03"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-inbound/email-inbound.domain.ts","id":"01a05bcd-25e2-7b0c-aff6-314192c66a72"}
-{"propertySlug":"decision-kind","path":"alan/harness/email-watch/email-watch.domain.ts","id":"01a06596-a92e-7000-b678-5d6232425a71"}
-{"propertySlug":"decision-kind","path":"alan/harness/email-watch/modules/inbox-watching/inbox-watching.module.ts","id":"01a0686a-7a57-789b-82d6-c6d715e27ae4"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-count.number-property.ts","id":"01a05f3f-e3e0-79b8-92d7-8141ecd449e9"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-last-seen-at.instant-property.ts","id":"01a05f3f-e3e0-7d03-874b-3c6c7f2183d1"}
 {"propertySlug":"decision-kind","path":"alan/harness/errors-core/runtime-error/properties/error-message.text-property.ts","id":"01a05f3f-e3e0-7450-8ae9-c82bf3ef1359"}

@@ -79,7 +79,7 @@ export const inboxWatching = {
       statement: "A stop asked for during the wait ends the wait rather than the wait running out.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "The checkout the watch reads is worked out as the file loads rather than as the run starts.",
     },
