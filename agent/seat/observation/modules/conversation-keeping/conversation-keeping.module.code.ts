@@ -33,6 +33,10 @@ const SETTLE_MS = 100
 
 const SAID_AS = "keep-seat-conversations"
 
+const COMPACTED = Buffer.from('"subtype":"compact_boundary"')
+
+const CHUNK = 4 * 1024 * 1024
+
 export type Kept = {
   readonly transcript: string
   readonly scannedTo: number
@@ -41,15 +45,31 @@ export type Kept = {
 
 export type BytesOf = (path: string, from: number, upTo: number) => Buffer | null
 
+export type StartOf = (path: string, size: number, read: BytesOf) => number
+
+export function lastCompactionAt(path: string, size: number, read: BytesOf): number {
+  let upTo = size
+  while (upTo > 0) {
+    const from = Math.max(0, upTo - CHUNK)
+    const bytes = read(path, from, Math.min(size, upTo + COMPACTED.length))
+    if (bytes === null) return 0
+    const at = bytes.lastIndexOf(COMPACTED)
+    if (at >= 0) return from + bytes.lastIndexOf(LINE_END, at) + 1
+    upTo = from
+  }
+  return 0
+}
+
 export function readOn(
   was: Kept | undefined,
   transcript: string,
   size: number,
-  read: BytesOf = bytesOf
+  read: BytesOf = bytesOf,
+  start: StartOf = lastCompactionAt
 ): Kept | null {
   const kept =
     was !== undefined && was.transcript === transcript && size >= was.scannedTo ? was : undefined
-  const from = kept?.scannedTo ?? 0
+  const from = kept?.scannedTo ?? start(transcript, size, read)
   if (kept !== undefined && from === size) return null
   const bytes = read(transcript, from, size)
   if (bytes === null) return null

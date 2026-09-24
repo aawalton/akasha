@@ -3,7 +3,9 @@ import {
   type BytesOf,
   changedFrom,
   conversationAt,
+  lastCompactionAt,
   readOn,
+  type StartOf,
 } from "akasha/agent/seat/observation/modules/conversation-keeping/conversation-keeping.module.code.ts"
 import {
   ENTRIES_AFTER_COMPACTION,
@@ -29,17 +31,29 @@ const WHOLE = Buffer.byteLength(TRANSCRIPT)
 
 const BEFORE = Buffer.byteLength(TRANSCRIPT_BEFORE)
 
-test("a first read takes the transcript from its first byte", () => {
+const fromFirst: StartOf = () => 0
+
+test("a first read takes the transcript from its last compaction", () => {
   const reader = readerOver(TRANSCRIPT)
   const kept = readOn(undefined, PATH, WHOLE, reader.read)
-  expect(reader.asked).toEqual([[0, WHOLE]])
+  expect(reader.asked.at(-1)).toEqual([BEFORE, WHOLE])
   expect(kept?.entries).toEqual(ENTRIES_AFTER_COMPACTION)
   expect(kept?.scannedTo).toBe(WHOLE)
 })
 
+test("the last compaction is found at the start of its line", () => {
+  expect(lastCompactionAt(PATH, WHOLE, readerOver(TRANSCRIPT).read)).toBe(BEFORE)
+  expect(lastCompactionAt(PATH, BEFORE, readerOver(TRANSCRIPT_BEFORE).read)).toBe(0)
+})
+
+test("a compaction written inside a record's text is no compaction", () => {
+  const quoted = `${JSON.stringify({ type: "user", message: { content: '"subtype":"compact_boundary"' } })}\n`
+  expect(lastCompactionAt(PATH, quoted.length, readerOver(quoted).read)).toBe(0)
+})
+
 test("a later read takes only the bytes written since, and ends where a whole read ends", () => {
   const reader = readerOver(TRANSCRIPT)
-  const was = readOn(undefined, PATH, BEFORE, reader.read) ?? undefined
+  const was = readOn(undefined, PATH, BEFORE, reader.read, fromFirst) ?? undefined
   const kept = readOn(was, PATH, WHOLE, reader.read)
   expect(reader.asked).toEqual([
     [0, BEFORE],
@@ -50,22 +64,22 @@ test("a later read takes only the bytes written since, and ends where a whole re
 
 test("a transcript no longer than when last read is not read again", () => {
   const reader = readerOver(TRANSCRIPT)
-  const was = readOn(undefined, PATH, WHOLE, reader.read) ?? undefined
+  const was = readOn(undefined, PATH, WHOLE, reader.read, fromFirst) ?? undefined
   expect(readOn(was, PATH, WHOLE, reader.read)).toBeNull()
   expect(reader.asked).toHaveLength(1)
 })
 
 test("a read stops at the last line end, leaving a line still being written for later", () => {
   const reader = readerOver(TRANSCRIPT)
-  const kept = readOn(undefined, PATH, BEFORE + 5, reader.read)
+  const kept = readOn(undefined, PATH, BEFORE + 5, reader.read, fromFirst)
   expect(kept?.scannedTo).toBe(BEFORE)
 })
 
 test("a transcript that shrank or moved is read again from its first byte", () => {
   const reader = readerOver(TRANSCRIPT)
-  const was = readOn(undefined, PATH, WHOLE, reader.read) ?? undefined
-  readOn(was, PATH, BEFORE, reader.read)
-  readOn(was, "/transcripts/other.jsonl", WHOLE, reader.read)
+  const was = readOn(undefined, PATH, WHOLE, reader.read, fromFirst) ?? undefined
+  readOn(was, PATH, BEFORE, reader.read, fromFirst)
+  readOn(was, "/transcripts/other.jsonl", WHOLE, reader.read, fromFirst)
   expect(reader.asked.slice(1)).toEqual([
     [0, BEFORE],
     [0, WHOLE],

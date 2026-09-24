@@ -14,6 +14,11 @@ export const conversationKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A first read starts at the transcript's last compaction, found reading back from its end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A transcript is read forward from the byte it was last read to.",
     },
     {
@@ -34,7 +39,7 @@ export const conversationKeeping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What was read is held in memory, so a start reads each transcript whole once.",
+      statement: "What was read is held in memory rather than read again from the file written.",
     },
     {
       decisionKind: "decision-kind/departure",
