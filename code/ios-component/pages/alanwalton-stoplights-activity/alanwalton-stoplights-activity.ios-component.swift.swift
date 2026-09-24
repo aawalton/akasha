@@ -4,8 +4,8 @@ import WidgetKit
 
 // EVERY STOPLIGHT ON ONE SURFACE, WHICH THREE TILES CANNOT BE.
 //
-// The thirteen stoplights are drawn by three tiles, so a glance at any one of them is a
-// glance at a third of the answer. This draws all thirteen at once, on the lock screen and
+// The fourteen stoplights are drawn by three tiles, so a glance at any one of them is a
+// glance at a third of the answer. This draws all fourteen at once, on the lock screen and
 // in the dynamic island, where a glance costs no unlock and no scroll.
 //
 // NOTHING HERE FETCHES. A tile asks the server on its own timeline; an activity is handed
@@ -94,7 +94,7 @@ struct StoplightsActivityView: View {
 //
 // Naming the groups costs the width of three captions, and the island is already narrower
 // than the lock screen. Order alone does not say where one group ends, so a gap wider than
-// the one between rings says it, and the thirteen still share the width evenly.
+// the one between rings says it, and the fourteen still share the width evenly.
 struct StoplightsIslandView: View {
     let state: StoplightsAttributes.ContentState
 

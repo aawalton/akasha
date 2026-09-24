@@ -4,7 +4,7 @@ export const stoplightsActivitySync = {
   id: "01a0ba6e-8c03-7601-9695-3532675a5936",
   type: "page-type/module",
   slug: "stoplights-activity-sync",
-  definition: "the thirteen stoplights handed to the live activity as the shell comes forward",
+  definition: "the fourteen stoplights handed to the live activity as the shell comes forward",
   code: "tsx",
   test: "tsx",
   decisions: [

@@ -4,7 +4,7 @@ export const stoplightsActivityPushing = {
   id: "01a0ba95-fb0f-7bb4-a8f6-4b15c58b8546",
   type: "page-type/module",
   slug: "stoplights-activity-pushing",
-  definition: "the thirteen stoplights pushed to the live activity whenever a reading moves",
+  definition: "the fourteen stoplights pushed to the live activity whenever a reading moves",
   code: "ts",
   test: "ts",
   decisions: [

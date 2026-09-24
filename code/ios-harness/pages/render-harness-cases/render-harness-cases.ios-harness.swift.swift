@@ -190,7 +190,7 @@ func cases(now: Date) -> [RenderCase] {
                 widget: tile.widget, familySource: tile.family, body: "", refused: true))
     }
 
-    // THE ONE PICTURE THAT HOLDS ALL THIRTEEN, AT THE WIDTH A LOCK SCREEN GIVES IT.
+    // THE ONE PICTURE THAT HOLDS ALL FOURTEEN, AT THE WIDTH A LOCK SCREEN GIVES IT.
     //
     // No widget family is this shape, so the size is named on the case. The readings are the
     // ones the three tiles are drawn from, so the rows here and the tiles beside them can be
@@ -211,7 +211,9 @@ func cases(now: Date) -> [RenderCase] {
         {"key":"tasks","label":"Tasks","tier":"blue","reading":"0","nextTier":null,\
         "progress":null},\
         {"key":"temperTasks","label":"Temper","tier":"red","reading":"23","nextTier":"yellow",\
-        "progress":0.8444444444444444}],\
+        "progress":0.8444444444444444},\
+        {"key":"findings","label":"Findings","tier":"yellow","reading":"3","nextTier":"blue",\
+        "progress":0.7777777777777778}],\
         "attributes":[\
         {"key":"strength","label":"STR","tier":"green","reading":"1.4","nextTier":"blue",\
         "progress":0.4},\

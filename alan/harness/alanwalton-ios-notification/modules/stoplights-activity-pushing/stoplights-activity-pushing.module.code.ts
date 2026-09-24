@@ -39,6 +39,10 @@ async function contentNow(takenAt: string): Promise<StoplightsContent> {
   return contentOf([upkeep ?? [], inboxes ?? [], attributes ?? []], takenAt)
 }
 
+function stoplightsIn(content: StoplightsContent): number {
+  return content.upkeep.length + content.inboxes.length + content.attributes.length
+}
+
 export function activityPayload(content: StoplightsContent, atSeconds: number): ApnsPayload {
   return {
     aps: {
@@ -88,7 +92,9 @@ export async function pushStoplightsActivity(
         )
       } else {
         reached = true
-        done.push(`a reading of thirteen stoplights, drawn on a lock screen on ${token.bundleId}`)
+        done.push(
+          `a reading of ${stoplightsIn(content)} stoplights, drawn on a lock screen on ${token.bundleId}`
+        )
         console.log(`${ACTIVITY_LOG} pushed a reading to ${token.bundleId}`)
       }
     } catch (err) {

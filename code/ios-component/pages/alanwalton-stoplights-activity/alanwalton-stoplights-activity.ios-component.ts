@@ -4,7 +4,7 @@ export const alanwaltonStoplightsActivity = {
   id: "01a0ba5e-225c-7d6e-9341-9294f7f129b2",
   type: "page-type/ios-component",
   slug: "alanwalton-stoplights-activity",
-  definition: "all thirteen stoplights drawn as a live activity",
+  definition: "all fourteen stoplights drawn as a live activity",
   swift: "swift",
   decisions: [
     {
@@ -17,7 +17,7 @@ export const alanwaltonStoplightsActivity = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The island draws the thirteen in one run, since a group name costs width.",
+      statement: "The island draws the fourteen in one run, since a group name costs width.",
     },
     {
       decisionKind: "decision-kind/departure",

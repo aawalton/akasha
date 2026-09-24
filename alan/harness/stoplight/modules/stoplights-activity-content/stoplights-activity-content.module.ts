@@ -4,7 +4,7 @@ export const stoplightsActivityContent = {
   id: "01a0ba93-4f27-70aa-884c-3c2b957eadf7",
   type: "page-type/module",
   slug: "stoplights-activity-content",
-  definition: "the thirteen stoplights shaped the way the live activity reads them",
+  definition: "the fourteen stoplights shaped the way the live activity reads them",
   code: "ts",
   test: "ts",
   decisions: [
