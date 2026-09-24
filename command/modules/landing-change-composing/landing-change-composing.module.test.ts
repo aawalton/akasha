@@ -19,6 +19,7 @@ import {
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { domain } from "akasha/domain/domain.page-type.ts"
+import { indexCarrying } from "akasha/page/index/modules/carrying/index-carrying.change-generator.ts"
 import {
   bodyOf,
   idOf,
@@ -115,8 +116,27 @@ const moduleAt = (slug: string, said: string, rest: Record<string, unknown>): st
     ...rest,
   })
 
+const CARRYING_CODE = join(
+  rootOf(import.meta.dir),
+  "page/index/modules/carrying/index-carrying.change-generator.code.ts"
+)
+
 const MOVING: Readonly<Record<string, string>> = {
   ".gitignore": "*.uncommitted.*\n",
+  "akasha/change-generator.page-type.ts": bodyOf({
+    id: idOf("6"),
+    type: `${pageType.slug}/${pageType.slug}`,
+    slug: changeGenerator.slug,
+    extends: [`${pageType.slug}/${domain.slug}`],
+    properties: [],
+  }),
+  "akasha/index-carrying.change-generator.ts": bodyOf({
+    id: idOf("7"),
+    type: `${pageType.slug}/${changeGenerator.slug}`,
+    slug: indexCarrying.slug,
+    code: "ts",
+  }),
+  "akasha/index-carrying.change-generator.code.ts": `export { generateChange } from "${CARRYING_CODE}"\n`,
   [`${FROM}/deep/gamma.module.ts`]: moduleAt("gamma", "1", { code: "ts" }),
   [`${FROM}/deep/gamma.module.code.ts`]: "export const gamma = 3\n",
   [`${FROM}/holder.module.ts`]: moduleAt("holder", "2", { note: "gamma" }),
