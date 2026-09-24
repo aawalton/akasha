@@ -36,7 +36,13 @@ const STATED: Readonly<Record<string, string>> = {
   "claude-code-session-uuid": "claudeCodeSessionUuid",
 }
 
-const BARED: readonly string[] = ["persona-slug", "role-slug", "person-slug", "principal-seat-name"]
+const BARED: readonly string[] = [
+  "persona-slug",
+  "role-slug",
+  "person-slug",
+  "principal-seat-name",
+  "start-mode",
+]
 
 function seatRoot(): string {
   return rootIn(process.env, import.meta.dir)

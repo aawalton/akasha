@@ -14,17 +14,22 @@ import {
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { uncommittedAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 export type Beside = Record<string, unknown>
 
 export type Kind = "text" | "number" | "instant"
 
-export type Carried = { readonly at: readonly string[]; readonly kind: Kind }
+export type Carried = {
+  readonly at: readonly string[]
+  readonly kind: Kind
+  readonly reaches?: string
+}
 
 export const CARRIED: Readonly<Record<string, Carried>> = {
   "transcript-path": { at: ["transcriptPath"], kind: "text" },
   model: { at: ["model"], kind: "text" },
-  mode: { at: ["mode"], kind: "text" },
+  mode: { at: ["mode"], kind: "text", reaches: "seat-mode" },
   "context-tokens": { at: ["contextTokens"], kind: "number" },
   "supervisor-process": { at: ["supervisorProcess"], kind: "text" },
   "proxy-process": { at: ["proxy", "process"], kind: "text" },
@@ -33,7 +38,12 @@ export const CARRIED: Readonly<Record<string, Carried>> = {
   requestedAction: { at: ["request", "action"], kind: "text" },
   interruptMessage: { at: ["request", "message"], kind: "text" },
   restartArmedAt: { at: ["request", "armedAt"], kind: "instant" },
-  "reexec-asked": { at: ["reExecAsk"], kind: "text" },
+  "reexec-asked": { at: ["reExecAsk"], kind: "text", reaches: "re-exec-ask-state" },
+}
+
+export function saidBare(where: Carried, held: unknown): unknown {
+  if (where.reaches === undefined || typeof held !== "string") return held
+  return slugOf(held)
 }
 
 const SUPERVISOR_PROCESS = "supervisor-process"
@@ -133,7 +143,7 @@ function akashaValueOf(agentId: string, key: string): unknown {
   const [one, two] = where.at
   if (one === undefined) return undefined
   const first = values[one]
-  if (two === undefined) return first
+  if (two === undefined) return saidBare(where, first)
   if (first === null || typeof first !== "object" || Array.isArray(first)) return undefined
-  return (first as Record<string, unknown>)[two]
+  return saidBare(where, (first as Record<string, unknown>)[two])
 }

@@ -6,6 +6,7 @@ import {
   besideWrittenAtMs,
   CARRIED,
   RECORDS,
+  saidBare,
 } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import type { SeatRecord } from "akasha/agent/seat/modules/record/seat-record.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -45,7 +46,13 @@ const STATED: Readonly<Record<string, string>> = {
   "claude-code-session-uuid": "claudeCodeSessionUuid",
 }
 
-const BARED: readonly string[] = ["persona-slug", "role-slug", "person-slug", "principal-seat-name"]
+const BARED: readonly string[] = [
+  "persona-slug",
+  "role-slug",
+  "person-slug",
+  "principal-seat-name",
+  "start-mode",
+]
 
 const TITLE = "title"
 
@@ -101,7 +108,7 @@ export function akashaObservedOf(agentId: string): Record<string, unknown> | nul
   if (values === null) return null
   const held: Record<string, unknown> = {}
   for (const [key, where] of Object.entries(CARRIED)) {
-    const said = asOldKind(heldAt(values, where.at), where.kind)
+    const said = asOldKind(saidBare(where, heldAt(values, where.at)), where.kind)
     if (said !== undefined && said !== null) held[key] = said
   }
   for (const [key, name] of Object.entries(RECORDS)) {
@@ -116,7 +123,7 @@ export function akashaSeatRecordOf(agentId: string, key: string): SeatRecord | n
   if (where === undefined) return null
   const values = akashaBesideOf(agentId)
   if (values === null) return null
-  const value = saidAsText(heldAt(values, where.at))
+  const value = saidAsText(saidBare(where, heldAt(values, where.at)))
   if (value === null) return null
   const page = akashaSeatPathForAgent(agentId)
   return { value, at: page === null ? 0 : besideWrittenAtMs(page) }

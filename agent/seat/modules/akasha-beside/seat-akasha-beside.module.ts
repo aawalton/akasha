@@ -63,5 +63,9 @@ export const seatAkashaBeside = {
       decisionKind: "decision-kind/departure",
       statement: "A seat with no process key beside it is held by no pid.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value beside a seat naming a page is read as that page's slug alone.",
+    },
   ],
 } as const satisfies Module
