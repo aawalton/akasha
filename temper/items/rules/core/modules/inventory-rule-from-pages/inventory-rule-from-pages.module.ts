@@ -23,6 +23,14 @@ export const inventoryRuleFromPages = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "JSON that is no form a condition holds stops the read naming the rule.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tier's eligibility is held against the shape an eligibility declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "What that read yields is held against the shape a condition declares before it reaches a rule.",
     },

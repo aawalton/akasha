@@ -1,9 +1,10 @@
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import type {
-  ChainEntry,
-  ConditionEntry,
-  HeldRule,
-  RulePage,
+import {
+  type ChainEntry,
+  type ConditionEntry,
+  type HeldRule,
+  parseConditionText,
+  type RulePage,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
@@ -25,17 +26,12 @@ function slugOf(key: string): string {
   return out
 }
 
-function parses(text: string): boolean {
-  try {
-    JSON.parse(text)
-    return true
-  } catch {
-    return false
-  }
+function readsBackAsItself(text: string): boolean {
+  return parseConditionText(text)?.held === text
 }
 
 export function spelling(value: unknown): string {
-  if (typeof value === "string" && !parses(value)) return value
+  if (typeof value === "string" && readsBackAsItself(value)) return value
   return JSON.stringify(value)
 }
 

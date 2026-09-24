@@ -5,11 +5,13 @@ import {
 } from "akasha/temper/items/rules/core/modules/inventory-rule-conditions-shape/inventory-rule-conditions-shape.module.code.ts"
 import type {
   CategoryRule,
+  CharEligibility,
   DestinationChain,
   ItemAction,
   MoveToDestination,
   StockScope,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { z } from "zod"
 
 export interface RulePage {
   readonly slug: string
@@ -52,12 +54,40 @@ function keyOf(slug: string): string {
   return (head ?? "") + rest.map((word) => word.slice(0, 1).toUpperCase() + word.slice(1)).join("")
 }
 
-function spelt(value: string): unknown {
+const CONDITION_VALUE = z.union([
+  z.number(),
+  z.boolean(),
+  z.string(),
+  z.array(z.string()),
+  z.record(z.string(), z.unknown()),
+])
+
+const CHAR_ELIGIBILITY: z.ZodType<CharEligibility> = z.strictObject({
+  requiredSkillLines: z
+    .strictObject({
+      skillLineIds: z.array(z.string()).readonly(),
+      mode: z.enum(["all-maxed", "any-not-maxed"]),
+    })
+    .optional(),
+  canLevelMorphs: z.strictObject({ mode: z.literal("can-level") }).optional(),
+})
+
+export function parseConditionText(text: string): { readonly held: unknown } | null {
+  let read: ReturnType<typeof CONDITION_VALUE.safeParse>
   try {
-    return JSON.parse(value)
+    read = CONDITION_VALUE.safeParse(JSON.parse(text))
   } catch {
-    return value
+    return { held: text }
   }
+  return read.success ? { held: read.data } : null
+}
+
+function spelt(value: string, slug: string): unknown {
+  const read = parseConditionText(value)
+  if (read === null) {
+    throw unread(slug, `a condition holds \`${value}\`, which is JSON no condition ever holds`)
+  }
+  return read.held
 }
 
 function epochOf(instant: string): number {
@@ -77,7 +107,7 @@ function conditionsOf(
   if (entries.length === 0) return undefined
   const held: Record<string, unknown> = {}
   for (const entry of entries) {
-    held[keyOf(slugOf(entry.conditionField))] = spelt(entry.conditionValue)
+    held[keyOf(slugOf(entry.conditionField))] = spelt(entry.conditionValue, slug)
   }
   const read = conditionsTaken(held)
   if ("wrong" in read) {
@@ -86,14 +116,22 @@ function conditionsOf(
   return read.taken
 }
 
-function chainOf(entries: readonly ChainEntry[]): DestinationChain | undefined {
+function eligibilityOf(text: string, slug: string): CharEligibility {
+  const read = CHAR_ELIGIBILITY.safeParse(JSON.parse(text))
+  if (!read.success) {
+    throw unread(slug, `a tier's \`charEligibility\` holds ${text}, which no eligibility is`)
+  }
+  return read.data
+}
+
+function chainOf(entries: readonly ChainEntry[], slug: string): DestinationChain | undefined {
   if (entries.length === 0) return undefined
   return entries.map((entry) => ({
     destination: entry.destination as MoveToDestination,
     ...(entry.targetQuantity === undefined ? {} : { targetQuantity: entry.targetQuantity }),
     ...(entry.charEligibility === undefined
       ? {}
-      : { charEligibility: JSON.parse(entry.charEligibility) }),
+      : { charEligibility: eligibilityOf(entry.charEligibility, slug) }),
   }))
 }
 
@@ -216,7 +254,7 @@ export function heldFromRows(rows: readonly Record<string, unknown>[]): readonly
 export function ruleFromPage(held: HeldRule): CategoryRule {
   const page = held.page
   const conditions = conditionsOf(held.conditions ?? [], page.slug)
-  const destinationChain = chainOf(held.chain ?? [])
+  const destinationChain = chainOf(held.chain ?? [], page.slug)
   return {
     id: page.slug.startsWith(SLUG_PREFIX) ? page.slug.slice(SLUG_PREFIX.length) : page.slug,
     categoryId: slugOf(page.categoryId),
