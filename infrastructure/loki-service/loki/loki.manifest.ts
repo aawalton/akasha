@@ -4,7 +4,7 @@ export const loki = {
   id: "01a07379-1e35-708f-8cfb-987a31c54566",
   type: "page-type/manifest",
   slug: "loki",
-  definition: "the log store's namespace, its configuration, its deployment and the way in to it",
+  definition: "the log store's namespace, its config, its deployment and the way in to it",
   code: "ts",
   generatedDirectory: true,
 } as const satisfies Manifest

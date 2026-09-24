@@ -4,7 +4,7 @@ export const clusterFoundations = {
   id: "01a0a5f0-7889-7744-b2cf-cb0590ba51f9",
   type: "page-type/cluster-foundation",
   slug: "cluster-foundations",
-  definition: "the namespaces, the roles and the operator configuration building this cluster",
+  definition: "the namespaces, the roles and the operator config building this cluster",
   manifest: [
     "manifest/app-namespaces-synth",
     "manifest/cert-manager-synth",
