@@ -8,6 +8,7 @@ import {
   type HandoverGuardConfig,
   handoverGuard,
 } from "akasha/alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"
+import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font-preload.module.code.ts"
 import {
   LayoutRouterAdapter,
@@ -83,7 +84,7 @@ export async function loader({ request, context }: LoaderFunctionArgs<AppLoadCon
 
 export function Layout({ children }: { children: ReactNode }) {
   const rooted = useRouteLoaderData<typeof loader>("root")
-  const nonce = rooted?.nonce
+  const nonce = useDocumentNonce()
   if (rooted?.skills !== undefined && rooted.skillLines !== undefined) {
     holdCompanionCatalog(catalogOf(rooted.skills, rooted.skillLines))
   }
@@ -106,7 +107,7 @@ export function Layout({ children }: { children: ReactNode }) {
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <Meta />
         <Links />
-        <script src="/sidebar-boot.js" nonce={nonce} />
+        <script src="/sidebar-boot.js" nonce={nonce} suppressHydrationWarning />
       </head>
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>
