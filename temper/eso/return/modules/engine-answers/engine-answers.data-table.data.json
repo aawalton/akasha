@@ -1,4 +1,182 @@
 {
-  "apiVersion": 0,
-  "answers": {}
+  "apiVersion": 101050,
+  "answers": {
+    "AreUserAddOnsSupported": [
+      true
+    ],
+    "DoesCurrentLanguageRequireIME": [
+      false
+    ],
+    "DoesPlatformAllowConfiguringAutomaticInputChanging": [
+      true
+    ],
+    "DoesPlatformSupportCodeRedemption": [
+      true
+    ],
+    "DoesPlatformSupportSpatialSound": [
+      false
+    ],
+    "DoesPlatformSupportSpatialSoundQuality": [
+      false
+    ],
+    "GetAssignableAbilityBarStartAndEndSlots": [
+      3,
+      8
+    ],
+    "GetAssignableChampionBarStartAndEndSlots": [
+      1,
+      12
+    ],
+    "GetDigitGroupingSize": [
+      3
+    ],
+    "GetGamepadLeftStickSlideAndScrollIcon": [
+      "EsoUI/Art/Buttons/Gamepad/Xbox/Nav_XBone_LS_Slide_Scroll.dds"
+    ],
+    "GetGamepadLeftStickSlideIcon": [
+      "EsoUI/Art/Buttons/Gamepad/Xbox/Nav_XBone_LS_Slide.dds"
+    ],
+    "GetGamepadRightStickScrollIcon": [
+      "EsoUI/Art/Buttons/Gamepad/Xbox/Nav_XBone_RS_Scroll.dds"
+    ],
+    "GetHeraldryCustomizationCosts": [
+      1000,
+      1000,
+      1000,
+      1000,
+      1000
+    ],
+    "GetHighestItemStyleId": [
+      162
+    ],
+    "GetHousingEditorConstants": [
+      7.5,
+      0.052359879,
+      3
+    ],
+    "GetInfamyMeterSize": [
+      500
+    ],
+    "GetJewelrycraftingCollectibleId": [
+      5107
+    ],
+    "GetKeyboardLayout": [
+      "English"
+    ],
+    "GetMaxBindingsPerAction": [
+      4
+    ],
+    "GetMaxKioskBidsPerGuild": [
+      10
+    ],
+    "GetMaxLevel": [
+      50
+    ],
+    "GetMaxNumSavedKeybindings": [
+      100
+    ],
+    "GetMaxRecipeIngredients": [
+      6
+    ],
+    "GetMaxSpendableChampionPointsInAttribute": [
+      1200
+    ],
+    "GetMinLevelForCampaignTutorial": [
+      10
+    ],
+    "GetMinMaxRamEscorts": [
+      0,
+      0
+    ],
+    "GetNumAdvancedStatCategories": [
+      6
+    ],
+    "GetNumChampionDisciplines": [
+      3
+    ],
+    "GetNumClasses": [
+      7
+    ],
+    "GetNumCollectibleCategories": [
+      16
+    ],
+    "GetNumDyes": [
+      275
+    ],
+    "GetNumGuildRankIcons": [
+      16
+    ],
+    "GetNumHeraldryBackgroundCategories": [
+      10
+    ],
+    "GetNumHeraldryColors": [
+      268
+    ],
+    "GetNumHeraldryCrestCategories": [
+      10
+    ],
+    "GetNumMaps": [
+      52
+    ],
+    "GetNumPlayerStatuses": [
+      4
+    ],
+    "GetNumUpgradesPerStablemasterTraining": [
+      3
+    ],
+    "GetOutfitChangeFlatCost": [
+      1
+    ],
+    "GetPlatformServiceType": [
+      4
+    ],
+    "GetSkyshardDiscoveryDistanceM": [
+      250
+    ],
+    "GetTradingHouseCutPercentage": [
+      7
+    ],
+    "GetTradingHouseListingPercentage": [
+      1
+    ],
+    "GetUIPlatform": [
+      2
+    ],
+    "GetUniversalStyleId": [
+      36
+    ],
+    "GetWeaponSwapUnlockedLevel": [
+      15
+    ],
+    "IsChatSystemAvailableForCurrentPlatform": [
+      true
+    ],
+    "IsConsoleUI": [
+      false
+    ],
+    "IsGameCoreUI": [
+      false
+    ],
+    "IsGamepadUISupported": [
+      true
+    ],
+    "IsInternalBuild": [
+      false
+    ],
+    "IsJusticeEnabled": [
+      true
+    ],
+    "IsKeyboardUISupported": [
+      true
+    ],
+    "IsMacUI": [
+      false
+    ],
+    "IsSubmitFeedbackSupported": [
+      true
+    ],
+    "IsTamrielTomesEnabled": [
+      true
+    ]
+  }
 }
