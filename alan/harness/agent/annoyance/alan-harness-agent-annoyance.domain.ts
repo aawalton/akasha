@@ -4,7 +4,7 @@ export const alanHarnessAgentAnnoyance = {
   id: "01a0658a-e55d-7c76-83d2-3bedf4c9011c",
   type: "page-type/domain",
   slug: "alan-harness-agent-annoyance",
-  definition: "what an agent does that annoys Alan",
+  definition: "what annoys Alan",
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
