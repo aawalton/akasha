@@ -239,7 +239,7 @@ export function conversationFrom(text: string): readonly ConversationEntry[] {
 }
 
 export function lastCompactionAt(filed: Filed): number {
-  const byteWise = new TextDecoder("latin1")
+  const byteWise = new TextDecoder("windows-1252")
   let upTo = filed.size
   while (upTo > 0) {
     const from = Math.max(0, upTo - CHUNK)
