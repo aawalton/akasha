@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"supervisor-heartbeat.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-heartbeat.module.code.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-heartbeat.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-heartbeat.module.code.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-ticking/supervisor-ticking.domain.ts","id":"01a09c83-7bdc-70d7-8e92-d0198b88cd4e"}

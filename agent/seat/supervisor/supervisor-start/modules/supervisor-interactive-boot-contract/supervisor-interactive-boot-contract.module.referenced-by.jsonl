@@ -1,6 +1,6 @@
-{"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
-{"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-boot/supervisor-boot.domain.ts","id":"01a09c65-6205-7f39-a5fd-cf9bc52449c4"}
+{"propertySlug":"import","fileName":"supervisor-interactive-boot-contract.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
+{"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-start/supervisor-start.domain.ts","id":"01a09c65-6205-7f39-a5fd-cf9bc52449c4"}

@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts","name":"startPerAgentMonitors"}
+{"path":"agent/seat/supervisor/supervisor-start/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts","name":"startPerAgentMonitors"}

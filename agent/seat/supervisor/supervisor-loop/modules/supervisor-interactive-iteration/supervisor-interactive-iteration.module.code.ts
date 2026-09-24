@@ -5,11 +5,6 @@ import {
 import { reconcileClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-reconcile/agent-message-supervisor-claimed-reconcile.module.code.ts"
 import { redeliveryHoldoff } from "akasha/agent/message/modules/supervisor-redelivery-holdoff/agent-message-supervisor-redelivery-holdoff.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
-import { claimSeatSupervision } from "akasha/agent/seat/supervisor/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
-import type {
-  InteractiveOpts,
-  InteractiveSessionBoot,
-} from "akasha/agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { LIVE_CHILD_EXIT_RULE } from "akasha/agent/seat/supervisor/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { spawnOrAdoptChild } from "akasha/agent/seat/supervisor/supervisor-child/modules/spawn/supervisor-child-spawn.module.code.ts"
 import { createAgent } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-agent-create/supervisor-agent-create.module.code.ts"
@@ -39,6 +34,11 @@ import {
   sendMessage,
   USER_SOURCE,
 } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
+import { claimSeatSupervision } from "akasha/agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import type {
+  InteractiveOpts,
+  InteractiveSessionBoot,
+} from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { keepSeatTranscript } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import {
   setCurrentAgentIdForRestart,

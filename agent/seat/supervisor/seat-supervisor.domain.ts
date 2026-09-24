@@ -11,7 +11,7 @@ export const seatSupervisor = {
   ],
   parts: [
     "domain/seat-claude-code-setup",
-    "domain/supervisor-boot",
+    "domain/supervisor-start",
     "domain/supervisor-child",
     "domain/supervisor-deciding",
     "domain/supervisor-idleness",

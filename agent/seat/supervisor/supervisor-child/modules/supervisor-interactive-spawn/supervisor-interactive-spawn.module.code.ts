@@ -9,12 +9,6 @@ import {
   resolveToolTimeout,
   resolveWorkerModel,
 } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.code.ts"
-import { materializeBootPrompt } from "akasha/agent/seat/supervisor/supervisor-boot/modules/prompt/supervisor-boot-prompt.module.code.ts"
-import { stage } from "akasha/agent/seat/supervisor/supervisor-boot/modules/stage/supervisor-boot-stage.module.code.ts"
-import type {
-  InteractiveOpts,
-  InteractiveSessionBoot,
-} from "akasha/agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import type { spawnClaudeChild } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
 import { processCleanup } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"
 import {
@@ -29,6 +23,12 @@ import type { AgentProcess } from "akasha/agent/seat/supervisor/supervisor-proce
 import type { CarriedAgentName } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { armForceExitTimer } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
+import { materializeBootPrompt } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.code.ts"
+import { stage } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"
+import type {
+  InteractiveOpts,
+  InteractiveSessionBoot,
+} from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { resolveMcpConfig } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 import { isPendingReExec } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 

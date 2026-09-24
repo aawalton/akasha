@@ -38,8 +38,6 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-boot/modules/stage/supervisor-boot-stage.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"}
@@ -48,6 +46,8 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-boot-stage/supervisor-boot-stage.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/atlas-web/server.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"alan/chess/modules/board/chess-board.module.code.tsx"}

@@ -3,12 +3,6 @@ import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modul
 import { toolRestrictions } from "akasha/agent/modules/tool-access/tool-access.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
 import { selectAccountAndWriteCredential } from "akasha/agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts"
-import { claimSeatSupervision } from "akasha/agent/seat/supervisor/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
-import type {
-  InteractiveBootArgs,
-  InteractiveSessionBoot,
-} from "akasha/agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
-import { startPerAgentMonitors } from "akasha/agent/seat/supervisor/supervisor-boot/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
 import {
   reconcileAgentBootFiles,
   resolveClaudeHandoff,
@@ -33,6 +27,12 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+import { claimSeatSupervision } from "akasha/agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
+import type {
+  InteractiveBootArgs,
+  InteractiveSessionBoot,
+} from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
+import { startPerAgentMonitors } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-monitors-wire/supervisor-monitors-wire.module.code.ts"
 import { setGatewayOwnerAgentIdForRestart } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 import {
   parseSupervisorHandoffEnv,
