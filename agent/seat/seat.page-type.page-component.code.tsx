@@ -1,5 +1,9 @@
 "use client"
 
+import {
+  SeatComposer,
+  sentToSeat,
+} from "akasha/agent/seat/modules/composer/seat-composer.module.code.tsx"
 import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
@@ -12,13 +16,14 @@ import { titleColorClass } from "akasha/page/ui/component/modules/title-color/ti
 import { usePageDefaultContent } from "akasha/page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts"
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
-import { useEffect, useRef, useState } from "react"
+import { useCallback, useEffect, useRef, useState } from "react"
 
 type Entry = {
-  readonly kind: "person" | "agent" | "tool" | "turn-end"
+  readonly kind: "person" | "agent" | "tool" | "turn-end" | "message"
   readonly text?: string
   readonly images?: number
   readonly line?: string
+  readonly sender?: string
   readonly at?: string
 }
 
@@ -27,13 +32,23 @@ type Heard =
   | { readonly state: "heard"; readonly entries: readonly Entry[] }
   | { readonly state: "refused"; readonly why: string }
 
+type Pending = {
+  readonly key: number
+  readonly text: string
+  readonly seen: number
+  readonly state: "sending" | "sent" | "refused"
+  readonly why?: string
+}
+
 const SEAT = "seat"
 
 const CONVERSATION = "conversation"
 
-const KINDS: ReadonlySet<string> = new Set(["person", "agent", "tool", "turn-end"])
+const KINDS: ReadonlySet<string> = new Set(["person", "agent", "tool", "turn-end", "message"])
 
 const FRAME = { autoScroll: { loadScroll: "end" as const } }
+
+const PENDING_ASKED_EVERY_MS = 3_000
 
 const SUBDUED = "font-mono text-secondary text-xs"
 
@@ -46,6 +61,7 @@ function entryIn(held: unknown): Entry | null {
     ...(typeof one.text === "string" ? { text: one.text } : {}),
     ...(typeof one.images === "number" ? { images: one.images } : {}),
     ...(typeof one.line === "string" ? { line: one.line } : {}),
+    ...(typeof one.sender === "string" ? { sender: one.sender } : {}),
     ...(typeof one.at === "string" ? { at: one.at } : {}),
   }
 }
@@ -68,19 +84,75 @@ async function conversationOf(id: string): Promise<Heard> {
   return { state: "heard", entries }
 }
 
-function useConversation(id: string): Heard {
+function keptOver(held: Heard, said: Heard): Heard {
+  return said.state === "refused" && held.state === "heard" ? held : said
+}
+
+function useConversation(id: string, asking: boolean): readonly [Heard, () => void] {
   const [heard, setHeard] = useState<Heard>({ state: "asking" })
+  const [round, setRound] = useState(0)
+  const again = useCallback(() => setRound((one) => one + 1), [])
+  useEffect(() => {
+    if (id !== "") setHeard({ state: "asking" })
+  }, [id])
   useEffect(() => {
     let dropped = false
-    setHeard({ state: "asking" })
+    void round
     void conversationOf(id).then((said) => {
-      if (!dropped) setHeard(said)
+      if (!dropped) setHeard((held) => keptOver(held, said))
     })
     return () => {
       dropped = true
     }
-  }, [id])
-  return heard
+  }, [id, round])
+  useEffect(() => {
+    if (!asking) return
+    const timer = setInterval(again, PENDING_ASKED_EVERY_MS)
+    return () => clearInterval(timer)
+  }, [asking, again])
+  return [heard, again]
+}
+
+function timesSaid(heard: Heard, text: string): number {
+  if (heard.state !== "heard") return 0
+  return heard.entries.filter((one) => one.kind === "person" && one.text?.trim() === text).length
+}
+
+function useSending(id: string) {
+  const [pending, setPending] = useState<readonly Pending[]>([])
+  const keyed = useRef(0)
+  const [heard, again] = useConversation(
+    id,
+    pending.some((one) => one.state === "sent")
+  )
+  const settle = (key: number, why: string | null) => {
+    setPending((held) =>
+      held.map((one) =>
+        one.key !== key
+          ? one
+          : why === null
+            ? { ...one, state: "sent" }
+            : { ...one, state: "refused", why }
+      )
+    )
+    if (why === null) again()
+  }
+  const send = (text: string) => {
+    keyed.current += 1
+    const key = keyed.current
+    setPending((held) => [...held, { key, text, seen: timesSaid(heard, text), state: "sending" }])
+    void sentToSeat(id, text).then((why) => settle(key, why))
+  }
+  const dismiss = (key: number) => setPending((held) => held.filter((one) => one.key !== key))
+  useEffect(() => {
+    setPending((held) => {
+      const kept = held.filter(
+        (one) => one.state !== "sent" || timesSaid(heard, one.text) <= one.seen
+      )
+      return kept.length === held.length ? held : kept
+    })
+  }, [heard])
+  return { heard, pending, send, dismiss }
 }
 
 function clockOf(at: string | undefined): string | null {
@@ -136,11 +208,43 @@ function TurnEnded({ entry }: { entry: Entry }) {
   return <p className={cn("text-tertiary", SUBDUED)}>✻ {said}</p>
 }
 
+function MessageSent({ entry }: { entry: Entry }) {
+  return (
+    <div className="flex flex-col gap-1 rounded-lg border border-primary/10 px-3 py-2">
+      <span className={SUBDUED}>from {entry.sender ?? "someone"}</span>
+      <p className="whitespace-pre-wrap break-words text-secondary text-xs">{entry.text ?? ""}</p>
+    </div>
+  )
+}
+
 function EntryDrawn({ entry }: { entry: Entry }) {
   if (entry.kind === "person") return <PersonSaid entry={entry} />
   if (entry.kind === "agent") return <AgentSaid entry={entry} />
   if (entry.kind === "tool") return <ToolCalled entry={entry} />
+  if (entry.kind === "message") return <MessageSent entry={entry} />
   return <TurnEnded entry={entry} />
+}
+
+function pendingSaid(one: Pending): string {
+  if (one.state === "sending") return "Sending…"
+  if (one.state === "sent") return "Sent, waiting for the seat to take it"
+  return `Not sent: ${one.why ?? "the send was refused"}`
+}
+
+function PendingDrawn({ one, dismiss }: { one: Pending; dismiss: (key: number) => void }) {
+  return (
+    <div className="flex flex-col gap-1 opacity-60">
+      <PersonSaid entry={{ kind: "person", text: one.text }} />
+      <span className={cn("flex gap-2", SUBDUED)}>
+        {pendingSaid(one)}
+        {one.state === "refused" && (
+          <button type="button" className="underline" onClick={() => dismiss(one.key)}>
+            Dismiss
+          </button>
+        )}
+      </span>
+    </div>
+  )
 }
 
 function Conversation({ heard }: { heard: Heard }) {
@@ -161,18 +265,25 @@ function Conversation({ heard }: { heard: Heard }) {
 
 export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const { page, isLoading, data, allDefinitions } = usePageDefaultContent({ pageTypeSlug, id })
-  const heard = useConversation(id)
+  const { heard, pending, send, dismiss } = useSending(id)
   const endRef = useRef<HTMLDivElement | null>(null)
-  const shown = heard.state === "heard" ? heard.entries.length : -1
+  const shown = heard.state === "heard" ? heard.entries.length + pending.length : -1
   const titleClasses = cn(PAGE_TITLE_CLASSES, titleColorClass(allDefinitions, data))
   return (
-    <DisplayFrame config={FRAME} followAnchor={{ ref: endRef, renderTrigger: shown }}>
+    <DisplayFrame
+      config={FRAME}
+      followAnchor={{ ref: endRef, renderTrigger: shown }}
+      footer={<SeatComposer onSend={send} />}
+    >
       <PageLayout loading={isLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
         {page != null && <title>{pageName(data)}</title>}
         <PageLayout.Content className="max-w-[710px]!">
           <div className="flex flex-col gap-4 pb-6">
             <h1 className={titleClasses}>{pageName(data)}</h1>
             <Conversation heard={heard} />
+            {pending.map((one) => (
+              <PendingDrawn key={one.key} one={one} dismiss={dismiss} />
+            ))}
             <div ref={endRef} />
           </div>
         </PageLayout.Content>

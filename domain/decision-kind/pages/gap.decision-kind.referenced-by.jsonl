@@ -74,6 +74,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/declaration/seat-declaration.domain.ts","id":"01a0658d-c92f-7bc5-aac8-847d02086752"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/seat-launching.module.ts","id":"01a05d8f-50d9-7000-8a2a-2bc819c63d01"}
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/seat-log-day.page-type.ts","id":"01a0657c-cb14-7b5b-a206-18059a84a88a"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/composer/seat-composer.module.ts","id":"01a0d495-78d5-7ce9-aae8-5a65074332ad"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/page-beat/seat-page-beat.module.ts","id":"01a0692a-1110-7af0-a99e-53fc742d08aa"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-observation.domain.ts","id":"01a0658d-c92f-76f2-abb0-efb387b6515b"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.ts","id":"01a0687b-3c85-7000-b60f-9d7b8c037697"}

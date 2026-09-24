@@ -38,6 +38,7 @@ export const seat = {
     "module/seat-akasha-history",
     "module/seat-akasha-read",
     "module/seat-beside",
+    "module/seat-composer",
     "module/seat-launching",
     "module/seat-page-akasha",
     "module/seat-page-beat",

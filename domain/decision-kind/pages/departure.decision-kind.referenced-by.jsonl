@@ -274,6 +274,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.ts","id":"01a06949-b281-7b6f-900b-fa221e76dbd9"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.ts","id":"01a06949-b281-701f-825a-4790c9603a69"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/beside/seat-beside.module.ts","id":"01a06949-b281-7c3a-b172-8f45292e9e17"}
+{"propertySlug":"decision-kind","path":"agent/seat/modules/composer/seat-composer.module.ts","id":"01a0d495-78d5-7ce9-aae8-5a65074332ad"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.ts","id":"01a06949-b281-7061-a6d8-d3c8324a028f"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/page-beat/seat-page-beat.module.ts","id":"01a0692a-1110-7af0-a99e-53fc742d08aa"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/page-history/seat-page-history.module.ts","id":"01a06949-b281-73d6-bbcd-230e36f15701"}

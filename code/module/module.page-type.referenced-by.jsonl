@@ -240,6 +240,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/beside/seat-beside.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/composer/seat-composer.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/page-akasha/seat-page-akasha.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/page-beat/seat-page-beat.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/modules/page-history/seat-page-history.module.ts"}
