@@ -48,6 +48,10 @@ export const uiVirtuals = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The order handlers were added in is written beside them, an inherited one first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The templates go over in batches, because one Lua chunk holds only so much.",
     },
     {

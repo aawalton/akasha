@@ -252,7 +252,10 @@ function luaNode(node: VirtualNode): string {
 ${body}
 end`
   )
-  if (handlers.length > 0) parts.push(`handlers = { ${handlers.join(", ")} }`)
+  if (handlers.length > 0) {
+    parts.push(`handlers = { ${handlers.join(", ")} }`)
+    parts.push(`handlerOrder = { ${Object.keys(node.handlers).map(luaText).join(", ")} }`)
+  }
   if (node.children.length > 0) {
     parts.push(`children = { ${node.children.map(luaNode).join(", ")} }`)
   }

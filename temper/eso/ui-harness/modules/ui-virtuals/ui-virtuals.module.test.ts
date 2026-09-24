@@ -209,6 +209,21 @@ describe("virtualsLua", () => {
     expect(chunks[0]).toContain("ZO_Ready(self)")
   })
 
+  test("writes the order handlers were added in, an inherited template's first", () => {
+    const layered = `<GuiXml><Controls>
+      <Control name="TemperBehavior" virtual="true">
+        <OnInitialized name="TemperBehavior">ZO_Mix(self)</OnInitialized>
+      </Control>
+      <Control name="TemperUser" virtual="true" inherits="TemperBehavior">
+        <OnInitialized>self:Use()</OnInitialized>
+      </Control>
+    </Controls></GuiXml>`
+    const chunks = virtualsLua(virtualsFrom([layered]), 10)
+    expect(chunks[0]).toContain(
+      'handlerOrder = { "OnInitialized:TemperBehavior", "OnInitialized" }'
+    )
+  })
+
   test("breaks the templates into batches of the size it is given", () => {
     expect(virtualsLua(virtualsFrom([INHERITING]), 1)).toHaveLength(2)
   })
