@@ -15,6 +15,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { answeredByPage } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
 import { seatTranscriptFollow as page } from "akasha/command/pages/seat/transcript-follow/seat-transcript-follow.command.ts"
+import { z } from "zod"
 
 const TRANSCRIPT_KEY = "transcript-path"
 
@@ -73,17 +74,15 @@ type Asked = { readonly uuid: string; readonly said: string }
 
 export const NOTHING_SCANNED: Scanned = { readTo: 0, text: "" }
 
+const RECORD_SAID = z.looseObject({ [TYPE]: z.string() })
+
 function heldIn(line: string): Held | null {
   if (line.trim() === "") return null
-  let said: unknown
   try {
-    said = JSON.parse(line)
+    return RECORD_SAID.safeParse(JSON.parse(line)).data ?? null
   } catch {
     return null
   }
-  if (said === null || typeof said !== "object" || Array.isArray(said)) return null
-  const held = said as Held
-  return typeof held[TYPE] === "string" ? held : null
 }
 
 function messageIn(held: Held): Held | null {

@@ -12,6 +12,11 @@ import {
   scanning,
   seatTranscriptFollow,
 } from "akasha/command/pages/seat/transcript-follow/seat-transcript-follow.command.code.ts"
+import { z } from "zod"
+
+const FOLLOWED_SAID = z.strictObject({
+  exchanges: z.array(z.strictObject({ uuid: z.string(), said: z.string(), replied: z.string() })),
+})
 
 const SCRATCH_AT = "/var/tmp"
 
@@ -382,11 +387,13 @@ test("an exchange already there is answered at once rather than waited for", asy
 })
 
 test("what is said is a JSON object naming the exchanges and nothing else", () => {
-  const said = JSON.parse(saidOf([{ uuid: "u1", said: "hello", replied: "hi" }]))
+  const said = FOLLOWED_SAID.parse(
+    JSON.parse(saidOf([{ uuid: "u1", said: "hello", replied: "hi" }]))
+  )
 
   expect(Object.keys(said)).toEqual(["exchanges"])
   expect(said.exchanges).toEqual([{ uuid: "u1", said: "hello", replied: "hi" }])
-  expect(JSON.parse(saidOf([]))).toEqual({ exchanges: [] })
+  expect(FOLLOWED_SAID.parse(JSON.parse(saidOf([])))).toEqual({ exchanges: [] })
 })
 
 test("a call naming no seat is refused", async () => {

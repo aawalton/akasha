@@ -6,6 +6,13 @@ import {
   seatTranscriptList,
   transcriptsOver,
 } from "akasha/command/pages/seat/transcript-list/seat-transcript-list.command.code.ts"
+import { z } from "zod"
+
+const LISTED_SAID = z.strictObject({
+  seats: z.array(
+    z.strictObject({ agentId: z.string(), seatName: z.string(), transcriptPath: z.string() })
+  ),
+})
 
 const ROOT = "/nowhere"
 
@@ -85,13 +92,17 @@ test("a seat holding an empty transcript path is left out the same way", () => {
 
 test("a fleet holding nothing answers an empty list rather than nothing at all", () => {
   expect(transcriptsOver([], holding({}))).toEqual([])
-  expect(JSON.parse(saidOf(transcriptsOver([], holding({}))))).toEqual({ seats: [] })
+  expect(LISTED_SAID.parse(JSON.parse(saidOf(transcriptsOver([], holding({})))))).toEqual({
+    seats: [],
+  })
 })
 
 test("what is said is one object carrying the seats and nothing else", () => {
-  const said = JSON.parse(
-    saidOf(
-      transcriptsOver(SEATS, holding({ "01a00000-0000-7000-8000-00000000000a": "/one.jsonl" }))
+  const said = LISTED_SAID.parse(
+    JSON.parse(
+      saidOf(
+        transcriptsOver(SEATS, holding({ "01a00000-0000-7000-8000-00000000000a": "/one.jsonl" }))
+      )
     )
   )
 
@@ -133,7 +144,7 @@ test("a call naming nothing answers the seats the fleet holds now", () => {
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(said.report.length).toBe(1)
-  const held = JSON.parse(said.report[0] ?? "")
+  const held = LISTED_SAID.parse(JSON.parse(said.report[0] ?? ""))
 
   expect(Array.isArray(held.seats)).toBe(true)
   for (const one of held.seats) {
