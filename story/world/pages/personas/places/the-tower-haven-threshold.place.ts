@@ -18,10 +18,5 @@ export const theTowerHavenThreshold = {
     },
     { to: "place/the-tower-hall-of-welcome", way: "FORWARD into the Hall of Welcome" },
   ],
-  facts: [
-    "The False Haven's gold light is sourceless and gives no heat.",
-    "Real things in the False Haven's gold light cast shadows; woven images do not.",
-    "Only real fire gives true light in the False Haven.",
-    "The Threshold's laid meal and ewer are illusion and give no real sustenance.",
-  ],
+  facts: ["The Threshold's long table holds no food or drink."],
 } as const satisfies Place

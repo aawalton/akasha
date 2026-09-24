@@ -9,10 +9,14 @@ export const theTowerFloor05 = {
   loreDisclosure: "lore-disclosure/player",
   depth: 5,
   description:
-    "The grey seam at the top of the dark shaft opens onto a long run of low, cold, wet stone rooms. The golden haven once woven over them died all at once with its Host: the hearths are dead grey ash, the tables bare boards set for no one, and the bones of climbers who sat down to rest lie where the chairs seemed to be. In the last room a sheer drop is torn across the floor, and past it a plain stair climbs on into the dark.",
+    "The grey seam at the top of the dark shaft opens onto a long run of low, cold, wet stone rooms, dark and bare: the hearths are dead grey ash, the tables bare boards set for no one, and the bones of climbers who sat down to rest lie where the chairs seemed to be. In the last room a sheer drop is torn across the floor, and past it a plain stair climbs on into the dark.",
   exits: [
     {
       way: "the plain ascending stair past the drop in the Host's Seat, cold air pouring down it",
     },
+  ],
+  facts: [
+    "No woven light or warmth remains anywhere in the False Haven.",
+    "The False Haven is dark but for fire brought into it.",
   ],
 } as const satisfies Place
