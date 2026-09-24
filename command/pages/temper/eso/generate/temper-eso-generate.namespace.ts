@@ -9,7 +9,6 @@ export const temperEsoGenerate = {
     "command/temper-eso-generate-answers",
     "command/temper-eso-generate-base-game-global",
     "command/temper-eso-generate-chatter-name",
-    "command/temper-eso-generate-colon-method",
     "command/temper-eso-generate-colors",
     "command/temper-eso-generate-constants",
     "command/temper-eso-generate-declaration",

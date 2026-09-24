@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/auto-quest-trace/temper-auto-quest-trace.command.code.ts"}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
-{"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts"}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts"}
 {"propertySlug":"import","fileName":"flag-fault-stage.module.code.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.code.ts"}
