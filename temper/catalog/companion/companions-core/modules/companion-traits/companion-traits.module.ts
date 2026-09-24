@@ -9,13 +9,8 @@ export const companionTraits = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/departure",
+      decisionKind: "decision-kind/gap",
       statement: "This table is written out from the companion pages rather than by hand.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "These bytes are the last good build rather than the table the generator emits today.",
     },
 
     {
