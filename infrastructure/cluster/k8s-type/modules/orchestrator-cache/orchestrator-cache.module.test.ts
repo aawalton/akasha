@@ -10,7 +10,10 @@ import {
 } from "node:fs"
 import { join } from "node:path"
 import { ran, said } from "akasha/code/spawning/modules/running/running.module.code.ts"
-import { webBuildInitContainer } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
+import {
+  webBuildInitContainer,
+  webCheckoutAndBuild,
+} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 
 const HOLD = "/var/tmp"
 
@@ -35,6 +38,7 @@ function scriptOf(): string {
 
 type Cache = {
   readonly root: string
+  readonly repo: string
   readonly head: string
   readonly served: string
   readonly runs: string
@@ -65,7 +69,8 @@ function cacheSeeded(): Cache {
   git("init", "-q")
   git("add", "--", PACKAGE)
   git("-c", "user.email=none@example", "-c", "user.name=none", "commit", "-q", "-m", "one")
-  return { root, head: git("rev-parse", "HEAD").trim(), served: join(repo, PACKAGE, "build"), runs }
+  const head = git("rev-parse", "HEAD").trim()
+  return { root, repo, head, served: join(repo, PACKAGE, "build"), runs }
 }
 
 function servedBuild(cache: Cache, stamp: string | null): undefined {
@@ -74,14 +79,16 @@ function servedBuild(cache: Cache, stamp: string | null): undefined {
   if (stamp !== null) writeFileSync(join(cache.served, ".built-from"), stamp, "utf8")
 }
 
-function initBuild(cache: Cache): string {
-  const script = scriptOf().replaceAll("/app/", `${cache.root}/`)
-  const done = ran(["sh", "-c", script], {
+function runIn(cache: Cache, script: string): string {
+  const done = ran(["sh", "-c", script.replaceAll("/app/", `${cache.root}/`)], {
     env: { ...process.env, PATH: `${cache.root}/bin:${process.env.PATH ?? ""}` },
   })
-  expect(done.err).toBe("")
-  expect(done.code).toBe(0)
+  expect({ code: done.code, err: done.err }).toMatchObject({ code: 0 })
   return done.out
+}
+
+function initBuild(cache: Cache): string {
+  return runIn(cache, scriptOf())
 }
 
 function builds(cache: Cache): number {
@@ -133,4 +140,44 @@ test("a pod builds holding the lock every checkout on the cache holds", () => {
   expect(script).toContain('LOCK="/app/.init-lock"')
   expect(script.indexOf("flock -n 9")).toBeLessThan(script.indexOf("rev-parse HEAD"))
   expect(script.indexOf("rev-parse HEAD")).toBeLessThan(script.indexOf("react-router build"))
+})
+
+function originAhead(cache: Cache): string {
+  const origin = join(cache.root, "origin")
+  said(["git", "clone", "-q", cache.repo, origin])
+  const git = (...argv: readonly string[]): string => said(["git", "-C", origin, ...argv])
+  git("checkout", "-q", "-B", "main")
+  git(
+    "-c",
+    "user.email=none@example",
+    "-c",
+    "user.name=none",
+    "commit",
+    "-q",
+    "--allow-empty",
+    "-m",
+    "two"
+  )
+  said(["git", "-C", cache.repo, "remote", "add", "origin", origin])
+  return git("rev-parse", "HEAD").trim()
+}
+
+test("a deploy's build checks the cache out to the commit asked for, and stamps that commit", () => {
+  const cache = cacheSeeded()
+  servedBuild(cache, cache.head)
+  const ahead = originAhead(cache)
+  runIn(cache, webCheckoutAndBuild(PACKAGE, ahead))
+  expect(said(["git", "-C", cache.repo, "rev-parse", "HEAD"]).trim()).toBe(ahead)
+  expect(builds(cache)).toBe(1)
+  expect(stampOf(cache)).toBe(ahead)
+})
+
+test("a deploy's checkout and build are one hold of the lock init-build holds", () => {
+  const script = webCheckoutAndBuild(PACKAGE, ELSEWHERE)
+  expect(script).toContain('LOCK="/app/.init-lock"')
+  expect(script.split("flock -n 9").length).toBe(2)
+  expect(script.indexOf("flock -n 9")).toBeLessThan(script.indexOf("git fetch origin main"))
+  expect(script.indexOf(`git reset --hard ${ELSEWHERE}`)).toBeLessThan(
+    script.indexOf("react-router build")
+  )
 })

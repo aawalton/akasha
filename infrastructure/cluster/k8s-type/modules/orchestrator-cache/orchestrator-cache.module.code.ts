@@ -48,7 +48,7 @@ const BUILDER_AT = "node_modules/.bin/react-router"
 export const BUILD_STAMP = ".built-from"
 export const SERVED_BUILD_AT = "build"
 
-export function holdingCacheLock(who: string, body: readonly string[]): readonly string[] {
+function holdingCacheLock(who: string, body: readonly string[]): readonly string[] {
   return [
     `LOCK="${CACHE_LOCK}"`,
     'touch "$LOCK"',
@@ -67,7 +67,23 @@ export function holdingCacheLock(who: string, body: readonly string[]): readonly
   ]
 }
 
-export function webBuildSteps(packagePath: string, sha: string): readonly string[] {
+function checkoutSteps(sha: string): readonly string[] {
+  return [
+    `rm -f ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/index.lock`,
+    `find ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/refs ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/logs/refs -name '*.lock' -delete 2>/dev/null || true`,
+    `trap 'rm -f ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/index.lock' EXIT INT TERM`,
+    `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
+    "git fetch origin main",
+    `git reset --hard ${sha}`,
+  ]
+}
+
+export function webCheckoutAndBuild(packagePath: string, sha: string): string {
+  const steps = [...checkoutSteps(sha), ...webBuildSteps(packagePath, sha)].join(" && ")
+  return holdingCacheLock("build", [steps]).join("\n")
+}
+
+function webBuildSteps(packagePath: string, sha: string): readonly string[] {
   return [
     `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
     "bun install --frozen-lockfile",

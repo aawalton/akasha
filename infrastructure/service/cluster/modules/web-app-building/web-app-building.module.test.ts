@@ -14,7 +14,6 @@ import {
   installableAt,
   livestOf,
   saidBy,
-  syncScript,
   unfoundIn,
   whyUninstallable,
 } from "akasha/infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"
@@ -155,18 +154,27 @@ test("a plan emitting no manifest for its workload has no build made for it", ()
   expect(buildTargetOf(other)).toBe(null)
 })
 
-test("the pod is checked out to the sha before the build runs", () => {
-  expect(syncScript(SHA)).toContain(`git reset --hard ${SHA}`)
-})
-
-test("a checkout takes what origin carries rather than what is in the pod", () => {
-  expect(syncScript(SHA)).toContain("git fetch origin main")
-})
-
 function scriptFor(): string {
   const target = buildTargetOf(plan(pod(SERVING)))
   return buildScript(target as NonNullable<typeof target>, SHA, [])
 }
+
+test("the pod is checked out to the sha before the build runs", () => {
+  const script = scriptFor()
+  expect(script.indexOf(`git reset --hard ${SHA}`)).toBeLessThan(
+    script.indexOf("react-router build")
+  )
+})
+
+test("a checkout takes what origin carries rather than what is in the pod", () => {
+  expect(scriptFor()).toContain("git fetch origin main")
+})
+
+test("the checkout and the build are one hold of the cache's lock", () => {
+  const script = scriptFor()
+  expect(script.split("flock -n 9").length).toBe(2)
+  expect(script.indexOf("flock -n 9")).toBeLessThan(script.indexOf("git fetch origin main"))
+})
 
 test("a build leaves the sha it was made from inside the build it made", () => {
   expect(scriptFor()).toContain(`printf %s ${SHA} > build.next/.built-from`)

@@ -65,6 +65,10 @@ export const webAppBuilding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The checkout and the build are made in one hold of the cache's lock.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A checkout failing for a reason that passes is tried again.",
     },
     {

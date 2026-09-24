@@ -5,9 +5,8 @@ import { ran as running } from "akasha/code/spawning/modules/running/running.mod
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import {
   BUILD_STAMP,
-  holdingCacheLock,
   SERVED_BUILD_AT,
-  webBuildSteps,
+  webCheckoutAndBuild,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import {
   carries,
@@ -208,17 +207,6 @@ export function alreadyBuilt(held: InPod | null, sha: string): boolean {
   return held !== null && held.builtFrom === sha
 }
 
-export function syncScript(sha: string): string {
-  return [
-    `rm -f ${REPO_PATH}/.git/index.lock`,
-    `find ${REPO_PATH}/.git/refs ${REPO_PATH}/.git/logs/refs -name '*.lock' -delete 2>/dev/null || true`,
-    `trap 'rm -f ${REPO_PATH}/.git/index.lock' EXIT INT TERM`,
-    `cd ${REPO_PATH}`,
-    "git fetch origin main",
-    `git reset --hard ${sha}`,
-  ].join(" && ")
-}
-
 export type BuildEnvEntry =
   | { readonly name: string; readonly value: string }
   | { readonly name: string; readonly fromSecret: { readonly name: string; readonly key: string } }
@@ -320,25 +308,27 @@ export function envPrefix(env: BuildEnv): string {
 }
 
 export function buildScript(target: BuildTarget, sha: string, env: BuildEnv = []): string {
-  const steps = webBuildSteps(target.packagePath, sha).join(" && ")
-  const script = holdingCacheLock("build", [steps]).join("\n")
-  return `${envPrefix(env)}sh -c ${quoted(script)}`
+  return `${envPrefix(env)}sh -c ${quoted(webCheckoutAndBuild(target.packagePath, sha))}`
 }
 
 function sleepFor(seconds: number): undefined {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, seconds * 1000)
 }
 
-function syncTo(target: BuildTarget, pod: string, sha: string, ran: Ran[]): number {
-  for (let attempt = 1; attempt <= SYNC_ATTEMPTS; attempt++) {
-    const one = inSync(target, pod, syncScript(sha))
-    ran.push(one)
-    if (one.code === 0) return 0
-    const said = `${one.stdout}${one.stderr}`
-    if (!RETRYABLE.some((word) => said.includes(word)) || attempt === SYNC_ATTEMPTS) return one.code
+function passes(one: Ran): boolean {
+  const said = `${one.stdout}${one.stderr}`
+  return RETRYABLE.some((word) => said.includes(word))
+}
+
+function builtThere(target: BuildTarget, pod: string, script: string, ran: Ran[]): Ran {
+  let one = inSync(target, pod, script)
+  ran.push(one)
+  for (let attempt = 1; attempt < SYNC_ATTEMPTS && one.code !== 0 && passes(one); attempt++) {
     sleepFor(attempt * SYNC_PAUSE)
+    one = inSync(target, pod, script)
+    ran.push(one)
   }
-  return 1
+  return one
 }
 
 export interface Built {
@@ -362,14 +352,9 @@ export function buildInPod(
       why: `no running pod carries ${target.workload} in ${target.namespace}, so nothing holds a build`,
     }
   }
-  if (syncTo(target, pod, sha, ran) !== 0) {
-    const last = ran[ran.length - 1] as Ran
-    return { pod, ran, why: `${pod} would not check out ${sha}: ${saidBy(last)}` }
-  }
-  const built = inSync(target, pod, buildScript(target, sha, resolved.env))
-  ran.push(built)
+  const built = builtThere(target, pod, buildScript(target, sha, resolved.env), ran)
   if (built.code !== 0) {
-    const why = `${target.packagePath} would not build in ${pod}: ${saidBy(built)}`
+    const why = `${target.packagePath} would not check out ${sha} and build in ${pod}: ${saidBy(built)}`
     return { pod, ran, why: hiding(why, resolved.hidden) }
   }
   if (!restarting) return { pod, ran, why: null }
