@@ -1,8 +1,8 @@
+import type { AskDecide } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import {
   askRule,
   type RuleAnswer,
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"
-import type { AskDecide } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const RULE = "proxyAdoptionRule"

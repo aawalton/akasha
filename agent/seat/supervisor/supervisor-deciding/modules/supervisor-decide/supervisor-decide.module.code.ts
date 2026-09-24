@@ -8,6 +8,10 @@ import { restartImmediate } from "akasha/agent/message/notice/pages/restart-imme
 import { restartRecoveryClause } from "akasha/agent/message/notice/pages/restart-recovery-clause/restart-recovery-clause.agent-message-notice.ts"
 import { waitResumeNudge } from "akasha/agent/message/notice/pages/wait-resume-nudge/wait-resume-nudge.agent-message-notice.ts"
 import {
+  planRestartNotice,
+  type ResumeNotices,
+} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
+import {
   parseClaimedRedelivery,
   parseLimitResume,
   parseRcDegraded,
@@ -17,10 +21,6 @@ import {
   parseWaitResume,
 } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.code.ts"
 import { RULE_DECISIONS } from "akasha/agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"
-import {
-  planRestartNotice,
-  type ResumeNotices,
-} from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts"
 import {
   decideLimitResume,
   LIMIT_RESUME_FLOOR_MS,

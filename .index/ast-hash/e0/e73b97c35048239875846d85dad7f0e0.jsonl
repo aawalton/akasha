@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts","name":"logPastCliffOverride"}
+{"path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts","name":"logPastCliffOverride"}

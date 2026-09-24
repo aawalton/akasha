@@ -48,9 +48,9 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
-{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/session/seat-session.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts"}

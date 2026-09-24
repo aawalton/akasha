@@ -1,5 +1,5 @@
+import type { AskDecide } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import type { AskDecide } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import {
   askSupervisorDecide,
   SUPERVISOR_DECIDE_COMMAND,

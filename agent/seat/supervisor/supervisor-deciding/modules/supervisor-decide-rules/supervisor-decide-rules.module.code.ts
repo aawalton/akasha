@@ -4,9 +4,18 @@ import {
 } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-adoption-decide/supervisor-gateway-adoption-decide.module.code.ts"
 import { decideProxyLiveness } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-decide/supervisor-gateway-liveness-decide.module.code.ts"
 import {
-  computeReExecJitterMs,
-  resolveMaxReExecJitterMs,
-} from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
+  decideDeferredRestart,
+  EDGE_CONNECTION_CLIFF_OVERRIDE_MS,
+  EDGE_CONNECTION_CLIFF_PREEMPT_MS,
+  INITIAL_DEFERRED_RESTART_STATE,
+  resolveMaxDeferMs,
+  resolvePreCliffOverrideMs,
+  resolveStaleWedgeMs,
+} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
+import {
+  decidePreCliffRestart,
+  type PreCliffObservation,
+} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
 import {
   classifyChildExit,
   collapseChildExitStatus,
@@ -32,18 +41,9 @@ import {
   preservingRestartBusyReason,
 } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import {
-  decideDeferredRestart,
-  EDGE_CONNECTION_CLIFF_OVERRIDE_MS,
-  EDGE_CONNECTION_CLIFF_PREEMPT_MS,
-  INITIAL_DEFERRED_RESTART_STATE,
-  resolveMaxDeferMs,
-  resolvePreCliffOverrideMs,
-  resolveStaleWedgeMs,
-} from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
-import {
-  decidePreCliffRestart,
-  type PreCliffObservation,
-} from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.code.ts"
+  computeReExecJitterMs,
+  resolveMaxReExecJitterMs,
+} from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-jitter-decide/supervisor-self-heal-jitter-decide.module.code.ts"
 import {
   arr,
   bool,

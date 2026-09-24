@@ -5,10 +5,6 @@ import {
 import { reconcileClaimedRedelivery } from "akasha/agent/message/modules/supervisor-claimed-reconcile/agent-message-supervisor-claimed-reconcile.module.code.ts"
 import { redeliveryHoldoff } from "akasha/agent/message/modules/supervisor-redelivery-holdoff/agent-message-supervisor-redelivery-holdoff.module.code.ts"
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
-import {
-  setCurrentAgentIdForSelfHeal,
-  setCurrentSessionIdForSelfHeal,
-} from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { claimSeatSupervision } from "akasha/agent/seat/supervisor/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type {
   InteractiveOpts,
@@ -44,6 +40,10 @@ import {
   USER_SOURCE,
 } from "akasha/agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-send/supervisor-limit-resume-send.module.code.ts"
 import { keepSeatTranscript } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import {
+  setCurrentAgentIdForSelfHeal,
+  setCurrentSessionIdForSelfHeal,
+} from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { USER_ID } from "akasha/alan/harness/supabase-auth/modules/user-id/user-id.module.code.ts"
 
 export async function openIteration(args: {

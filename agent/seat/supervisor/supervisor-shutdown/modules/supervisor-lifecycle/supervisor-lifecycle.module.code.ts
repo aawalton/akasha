@@ -1,10 +1,3 @@
-import { attemptInPlaceReExec } from "akasha/agent/seat/self-healing/modules/supervisor-reexec/supervisor-reexec.module.code.ts"
-import { resolveReExecArgv } from "akasha/agent/seat/self-healing/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
-import {
-  getCurrentAgentIdForSelfHeal,
-  isPendingReExec,
-  SUPERVISOR_SCRIPT,
-} from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type { ChildExitRuleSource } from "akasha/agent/seat/supervisor/supervisor-child/modules/exit-rule/supervisor-child-exit-rule.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
@@ -19,6 +12,13 @@ import {
 } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts"
 import { shouldWriteTerminalStoppedStatus } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 import { takeSeatPage } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
+import { attemptInPlaceReExec } from "akasha/agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.code.ts"
+import { resolveReExecArgv } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal/supervisor-self-heal.module.code.ts"
+import {
+  getCurrentAgentIdForSelfHeal,
+  isPendingReExec,
+  SUPERVISOR_SCRIPT,
+} from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 

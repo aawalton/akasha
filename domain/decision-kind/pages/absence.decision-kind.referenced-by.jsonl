@@ -179,6 +179,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/start-guard/modules/seat-stated-parent-refusal/seat-stated-parent-refusal.module.ts","id":"01a0686d-9d5e-7013-b269-67c3e7b3038a"}
 {"propertySlug":"decision-kind","path":"agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.ts","id":"01a0b716-cdc8-7ec3-9c4a-8eb732595db3"}
 {"propertySlug":"decision-kind","path":"agent/seat/stopping/seat-stopping.module.ts","id":"01a05d02-889b-7880-9ab9-c72cdc79dc5c"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts","id":"01a06838-5a84-7003-a0ce-e7e92276f897"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-account/modules/config/supervisor-account-config.module.ts","id":"01a0683e-3dbe-7000-8023-4fb6336e3734"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.ts","id":"01a0683e-3dbe-7003-8c74-a74611900fdd"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.ts","id":"01a0683e-3dbe-7007-9a41-f9ef0fcef896"}
@@ -198,7 +199,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.ts","id":"01a06871-3115-700a-b93f-c32bdd8735c6"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts","id":"01a06838-5a84-7001-a522-1f0b3c183f21"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts","id":"01a06871-3115-700c-bb97-5d8f1d4b1d6d"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts","id":"01a06838-5a84-7003-a0ce-e7e92276f897"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts","id":"01a06838-5a84-7002-b23a-fa3c1a68a559"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.ts","id":"01a06871-3115-7001-910f-b7d9676eca90"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-tick-saying/supervisor-tick-saying.module.ts","id":"01a08e28-7d11-7673-83b4-5b56092efa4c"}

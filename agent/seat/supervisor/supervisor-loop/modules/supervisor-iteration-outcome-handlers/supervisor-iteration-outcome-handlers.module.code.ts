@@ -1,13 +1,13 @@
-import { isPendingReExec } from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import {
+  askRestartNotice,
+  type RestartNoticePlan,
+} from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
 import { clearRequestedAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-clear/supervisor-agent-action-clear.module.code.ts"
 import type { AgentActionEvent } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import type { LoopState } from "akasha/agent/seat/supervisor/supervisor-loop/modules/state/supervisor-loop-state.module.code.ts"
 import { withTimeout } from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import {
-  askRestartNotice,
-  type RestartNoticePlan,
-} from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"
+import { isPendingReExec } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 type LoopDirective = "continue" | "break"
 

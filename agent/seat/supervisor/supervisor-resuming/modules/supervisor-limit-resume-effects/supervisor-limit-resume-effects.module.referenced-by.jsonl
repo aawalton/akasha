@@ -1,6 +1,6 @@
+{"propertySlug":"import","fileName":"supervisor-limit-resume-effects.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-limit-resume-effects.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-seat-spawn-decisions/supervisor-seat-spawn-decisions.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-limit-resume-effects.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-limit-resume-effects.module.code.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-resume-asks/supervisor-resume-asks.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-limit-resume-effects.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-answer/supervisor-limit-resume-answer.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-limit-resume-effects.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-limit-resume-effects.module.code.ts","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"}

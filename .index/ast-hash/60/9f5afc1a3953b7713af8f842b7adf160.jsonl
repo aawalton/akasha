@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts","name":"selectRestartNoticeBody"}
+{"path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-restart-notice-decide/supervisor-restart-notice-decide.module.code.ts","name":"selectRestartNoticeBody"}

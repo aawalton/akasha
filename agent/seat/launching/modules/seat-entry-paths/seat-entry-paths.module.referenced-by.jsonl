@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/launching/seat-launching.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/launching/seat-launching.module.test.ts"}
-{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.test.ts"}
+{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.test.ts"}
 {"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.test.ts"}
 {"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.test.ts"}

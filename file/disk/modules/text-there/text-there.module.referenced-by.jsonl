@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"agent/message/modules/delivery-witness/agent-message-delivery-witness.module.code.ts"}
-{"propertySlug":"import","fileName":"text-there.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
+{"propertySlug":"import","fileName":"text-there.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"check/modules/cache/check-cache.module.code.ts"}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.module.code.ts"}

@@ -1,3 +1,5 @@
+import { armDeferredRestart } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
+import type { DeferredRestartRuleSource } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { buildIdleGateArm } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"
 import {
   clearBeforeSigterm,
@@ -10,8 +12,6 @@ import type {
 } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
 import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
-import { armDeferredRestart } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
-import type { DeferredRestartRuleSource } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 
 export function buildAgentActionSubsystem(opts: {
   killProc: () => void

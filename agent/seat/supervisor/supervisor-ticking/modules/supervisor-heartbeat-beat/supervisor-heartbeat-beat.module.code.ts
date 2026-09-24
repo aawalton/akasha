@@ -11,13 +11,13 @@ import {
   formatSeatProcKey,
   readSeatProcKey,
 } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import {
-  getCurrentAgentIdForSelfHeal,
-  getCurrentSessionIdForSelfHeal,
-} from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { keepTranscript } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
 import { keepSession } from "akasha/agent/seat/session/seat-session.module.code.ts"
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
+import {
+  getCurrentAgentIdForSelfHeal,
+  getCurrentSessionIdForSelfHeal,
+} from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import type { Outcome } from "akasha/change/modules/gated-write/gated-write.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"

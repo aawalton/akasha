@@ -1,0 +1,7 @@
+{"propertySlug":"import","fileName":"supervisor-deferred-restart-rule.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-deferred-restart-rule.module.code.ts","path":"agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-deferred-restart-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-deferred-restart-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-deferred-restart-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-deferred-restart-rule.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
+{"propertySlug":"parts","path":"agent/seat/supervisor/seat-session-restart/seat-session-restart.domain.ts","id":"01a09c71-bd3a-7e1d-80f8-17fd6319d823"}

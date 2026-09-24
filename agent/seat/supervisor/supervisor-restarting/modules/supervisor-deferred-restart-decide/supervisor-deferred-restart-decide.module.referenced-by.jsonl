@@ -1,4 +1,0 @@
-{"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.test.ts"}
-{"propertySlug":"parts","path":"agent/seat/supervisor/supervisor-restarting/supervisor-restarting.domain.ts","id":"01a09c71-bd3a-7e1d-80f8-17fd6319d823"}

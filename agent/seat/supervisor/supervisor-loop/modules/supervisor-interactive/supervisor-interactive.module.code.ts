@@ -1,7 +1,6 @@
 import { askProxyAdoption } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-adoption-rule/supervisor-gateway-adoption-rule.module.code.ts"
 import { askProxyLiveness } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-liveness-rule/supervisor-gateway-liveness-rule.module.code.ts"
-import { askReExecJitterMs } from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
-import { setSelfHealIdleProbe } from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
+import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { bootInteractiveSession } from "akasha/agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"
 import type { InteractiveOpts } from "akasha/agent/seat/supervisor/supervisor-boot/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { finalizeInteractiveExit } from "akasha/agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
@@ -27,8 +26,9 @@ import {
 import { isShuttingDown } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
 import type { CarriedAgentName } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
-import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { recordTermiosState } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
+import { askReExecJitterMs } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-jitter-rule/supervisor-self-heal-jitter-rule.module.code.ts"
+import { setSelfHealIdleProbe } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 export async function runInteractive(
   prompt: string,

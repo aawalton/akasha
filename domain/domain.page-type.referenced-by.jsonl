@@ -156,8 +156,9 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/pty/pty.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/reviving/seat-reviving.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/self-healing/self-healing.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/start-guard/seat-start-guard.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor-restart/supervisor-restart.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-session-restart/seat-session-restart.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-supervisor.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-account/supervisor-account.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.types.ts"}
@@ -170,7 +171,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-loop/supervisor-loop.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-process/supervisor-process.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-rebinding/supervisor-rebinding.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-restarting/supervisor-restarting.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-resuming/supervisor-resuming.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-shutdown/supervisor-shutdown.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-ticking/supervisor-ticking.domain.ts"}

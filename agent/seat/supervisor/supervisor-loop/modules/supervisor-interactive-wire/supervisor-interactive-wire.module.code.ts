@@ -1,4 +1,7 @@
 import { triggerProxySwap } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
+import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import { startPreCliffRestartMonitor } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
+import { askPreCliffRestart } from "akasha/agent/seat/supervisor/seat-session-restart/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
 import { buildAgentActionSubsystem } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.code.ts"
 import {
   clearRequestedAction,
@@ -16,9 +19,6 @@ import {
   setObservedChildExit,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { InheritedProc } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"
-import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
-import { startPreCliffRestartMonitor } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
-import { askPreCliffRestart } from "akasha/agent/seat/supervisor/supervisor-restarting/modules/supervisor-precliff-restart-rule/supervisor-precliff-restart-rule.module.code.ts"
 
 export interface IterationWiring {
   actionSubsystem: ReturnType<typeof buildAgentActionSubsystem>

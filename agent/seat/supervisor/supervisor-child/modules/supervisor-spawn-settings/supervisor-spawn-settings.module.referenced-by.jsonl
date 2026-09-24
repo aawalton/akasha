@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"supervisor-spawn-settings.module.code.ts","path":"agent/seat/self-healing/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-spawn-settings.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-spawn-settings.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-spawn-settings.module.code.ts","path":"agent/seat/supervisor/supervisor-child/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-spawn-settings.module.code.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts"}

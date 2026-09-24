@@ -2,12 +2,6 @@ import { buildCredentialSubsystem } from "akasha/agent/claude-code/remote-contro
 import { computeModelGatewayTreeVersion } from "akasha/agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"
 import { toolRestrictions } from "akasha/agent/modules/tool-access/tool-access.module.code.ts"
 import { installProxyVersionSubsystem } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
-import {
-  parseSupervisorHandoffEnv,
-  resolveProxyOwnerAgentId,
-  SUPERVISOR_HANDOFF_ENV_KEYS,
-} from "akasha/agent/seat/self-healing/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
-import { setProxyOwnerAgentIdForSelfHeal } from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { selectAccountAndWriteCredential } from "akasha/agent/seat/supervisor/supervisor-account/modules/supervisor-agent/supervisor-agent.module.code.ts"
 import { claimSeatSupervision } from "akasha/agent/seat/supervisor/supervisor-boot/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"
 import type {
@@ -39,6 +33,12 @@ import {
   setOAuthProxyHandle,
   setRestoreConsoleHandle,
 } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
+import {
+  parseSupervisorHandoffEnv,
+  resolveProxyOwnerAgentId,
+  SUPERVISOR_HANDOFF_ENV_KEYS,
+} from "akasha/agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"
+import { setProxyOwnerAgentIdForSelfHeal } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const ENV_OPTIONAL = SHAPE.string().optional()

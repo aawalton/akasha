@@ -1,6 +1,5 @@
 import { buildInteractiveCLIArgs } from "akasha/agent/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
-import { isPendingReExec } from "akasha/agent/seat/self-healing/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 import {
   resolveAgentEffortLevel,
   resolveAutoCompactWindow,
@@ -31,6 +30,7 @@ import type { CarriedAgentName } from "akasha/agent/seat/supervisor/supervisor-r
 import type { ClearRebindDeps } from "akasha/agent/seat/supervisor/supervisor-rebinding/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import { armForceExitTimer } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
 import { resolveMcpConfig } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
+import { isPendingReExec } from "akasha/agent/seat/supervisor-restart/modules/supervisor-self-heal-state/supervisor-self-heal-state.module.code.ts"
 
 export type SeatSpawnDecider = (
   agentId: string | null,

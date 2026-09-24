@@ -1,1 +1,1 @@
-{"path":"agent/seat/self-healing/modules/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts","name":"takeReExecAsk"}
+{"path":"agent/seat/supervisor-restart/modules/supervisor-reexec-mark/supervisor-reexec-mark.module.code.ts","name":"takeReExecAsk"}
