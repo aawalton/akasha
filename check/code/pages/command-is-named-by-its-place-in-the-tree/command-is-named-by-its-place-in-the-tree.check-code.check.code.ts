@@ -1,7 +1,6 @@
 import type { Kinds } from "akasha/check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.decision.code.ts"
 import {
   COMMANDS,
-  filesLeftBy,
   judgingBy,
   kindsFor,
   namedAt,
@@ -62,8 +61,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const kinds = kindsFrom(shadow)
   const known = shadow.index.knownIn()
   const wanted = known.targetOf(PARTS)
-  const files = filesLeftBy(change)
-  const judging = judgingBy(shadow, kinds, files)
+  const judging = judgingBy(shadow, kinds)
   const said: Judged[] = []
   const judged = new Set<string>()
   const judge = (path: string, id: string): undefined => {
@@ -88,7 +86,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     const id = value === null ? null : textAt(value, ID)
     if (id !== null) judge(path, id)
   }
-  const placing = placingBy(shadow, kinds, files)
+  const placing = placingBy(shadow, kinds)
   for (const path of treeUnder(shadow, kinds).modules) {
     if (judged.has(path)) continue
     judged.add(path)

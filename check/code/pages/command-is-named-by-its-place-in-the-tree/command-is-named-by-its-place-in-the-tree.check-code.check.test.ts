@@ -1,4 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, writeFileSync } from "node:fs"
+import { dirname, join } from "node:path"
 import { commandIsNamedByItsPlaceInTheTree } from "akasha/check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.check.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import {
@@ -91,8 +93,10 @@ function bare(): string {
   return root
 }
 
-function arriving(): Change {
-  return landing(bare(), {
+const MOD_BODY = BYTES.encode(`export function trilling(): string {\n  return "trilling"\n}\n`)
+
+function arriving(root: string, code: Uint8Array | null): Change {
+  return landing(root, {
     [UNDER]: BYTES.encode(
       `export const held = { id: ${JSON.stringify(CMD)}, type: "page-type/command", ` +
         `slug: "warbling-humming", parts: ["module/trilling"] }\n`
@@ -103,10 +107,20 @@ function arriving(): Change {
     [MOD_AT]: BYTES.encode(
       `export const held = { id: ${JSON.stringify(MOD)}, type: "page-type/module", slug: "trilling" }\n`
     ),
-    [MOD_CODE]: BYTES.encode(`export function trilling(): string {\n  return "trilling"\n}\n`),
+    [MOD_CODE]: code,
   })
 }
 
 test("a module whose only importer is a command the same landing adds is let through", () => {
-  expect(judged(arriving())).toEqual([])
+  expect(judged(arriving(bare(), MOD_BODY))).toEqual([])
+})
+
+test("a module whose code the landing takes away is reached by nothing in its folder", () => {
+  const root = bare()
+  mkdirSync(dirname(join(root, MOD_CODE)), { recursive: true })
+  writeFileSync(join(root, MOD_CODE), MOD_BODY)
+  const said = judged(arriving(root, null))
+
+  expect(said.map((one) => one.path)).toEqual([MOD_AT])
+  expect(said[0]?.reason).toContain("command/modules")
 })

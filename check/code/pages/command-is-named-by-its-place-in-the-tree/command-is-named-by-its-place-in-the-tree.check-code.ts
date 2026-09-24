@@ -93,8 +93,7 @@ export const commandIsNamedByItsPlaceInTheTree = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The files of a module's own folder are what git carries there as the change leaves it.",
+      statement: "The files of a module's own folder are what the shadow lists there.",
     },
     {
       decisionKind: "decision-kind/departure",

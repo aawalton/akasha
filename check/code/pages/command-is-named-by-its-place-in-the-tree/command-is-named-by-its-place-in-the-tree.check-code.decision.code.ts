@@ -1,9 +1,8 @@
 import { dirname } from "node:path"
 import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import { filedById, namesIn } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import { filesIn } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
-import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { namedUnder, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const COMMAND = "command"
@@ -242,26 +241,13 @@ export function treeUnder(paged: Paged, kinds: Kinds): Tree {
   return made
 }
 
-export type Files = (folder: string) => readonly string[]
+export type Seen = Paged & Pick<Shadow, "listed">
 
-export function filesLeftBy(change: Change): Files {
-  const base = change.base ?? null
-  return (folder) => {
-    const held = new Set<string>(filesIn(change.root, folder, base))
-    for (const one of change.changed) {
-      if (dirname(one) !== folder) continue
-      if (change.after(one) === null) held.delete(one)
-      else held.add(one)
-    }
-    return [...held].sort()
-  }
-}
-
-function reachingOver(paged: Paged, files: Files): (folder: string) => readonly string[] {
+function reachingOver(seen: Seen): (folder: string) => readonly string[] {
   return (folder) => {
     const found = new Set<string>()
-    for (const file of files(folder)) {
-      for (const one of paged.index.importersOf(file)) {
+    for (const file of seen.listed(folder)) {
+      for (const one of seen.index.importersOf(file)) {
         if (one.startsWith(`${folder}/`) || !one.startsWith(UNDER_PAGES)) continue
         found.add(dirname(one))
       }
@@ -270,20 +256,20 @@ function reachingOver(paged: Paged, files: Files): (folder: string) => readonly 
   }
 }
 
-export function placingBy(paged: Paged, kinds: Kinds, files: Files): Placing {
-  const reaching = reachingOver(paged, files)
+export function placingBy(seen: Seen, kinds: Kinds): Placing {
+  const reaching = reachingOver(seen)
   return (path) =>
     placeReasonIn(path, {
-      levels: treeUnder(paged, kinds).levels,
+      levels: treeUnder(seen, kinds).levels,
       reaching: reaching(dirname(path)),
     })
 }
 
-export function judgingBy(paged: Paged, kinds: Kinds, files: Files): Judging {
-  const known = paged.index.knownIn()
-  const placing = placingBy(paged, kinds, files)
+export function judgingBy(seen: Seen, kinds: Kinds): Judging {
+  const known = seen.index.knownIn()
+  const placing = placingBy(seen, kinds)
   return (id, path, named) => {
-    const namer = paged.index.idsNaming(id, PARTS)[0]
+    const namer = seen.index.idsNaming(id, PARTS)[0]
     if (namer === undefined) return null
     const filed = filedById(known, namer)
     if (filed === null) return null
