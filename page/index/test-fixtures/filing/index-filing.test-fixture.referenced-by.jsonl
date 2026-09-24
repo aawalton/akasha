@@ -104,6 +104,7 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"page/type/modules/type-turning/type-turning.module.test.ts"}
+{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.test.ts"}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.test.ts"}

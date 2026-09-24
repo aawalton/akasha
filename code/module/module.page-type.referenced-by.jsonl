@@ -2531,6 +2531,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/panel/modules/pool-panel/pool-panel.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/game/turn/modules/turn-state/turn-state.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/item/modules/character-items-beside/character-items-beside.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-controls/alert-controls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-notification/alert-notification.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/ui/modules/alert-sound/alert-sound.module.ts"}

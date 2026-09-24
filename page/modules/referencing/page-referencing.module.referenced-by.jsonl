@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"page/modules/reference-reading/page-reference-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"page/modules/referencing/page-referencing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"page/modules/referencing/page-referencing.module.test.ts"}
+{"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.test-fixtures.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.test-fixtures.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.test-fixtures.ts","path":"page/index/modules/reading/index-reading.module.test-fixtures.ts"}

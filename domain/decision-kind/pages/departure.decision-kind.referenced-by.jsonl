@@ -3560,6 +3560,7 @@
 {"propertySlug":"decision-kind","path":"story/item/properties/item-essence.relation-property.ts","id":"01a0d428-fd14-7aa0-8b01-dea9a57171d4"}
 {"propertySlug":"decision-kind","path":"story/item/properties/item-slot.relation-property.ts","id":"01a0ca45-cc74-7097-84c6-4205dbdaeff1"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
+{"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.ts","id":"01a0d486-426b-7e79-bb02-c10a0233e201"}
 {"propertySlug":"decision-kind","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"decision-kind","path":"story/lore/place/place.page-type.ts","id":"01a0d42e-f05d-7b7a-b366-dceb25db06b5"}
 {"propertySlug":"decision-kind","path":"story/lore/place/properties/place-depth.number-property.ts","id":"01a0d42e-fdd4-7681-86a9-535b7194e760"}

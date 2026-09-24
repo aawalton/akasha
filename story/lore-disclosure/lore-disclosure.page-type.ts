@@ -6,6 +6,7 @@ export const loreDisclosure = {
   slug: "lore-disclosure",
   definition: "who a piece of lore is known to",
   extends: ["page-type/page"],
+  parts: ["module/lore-withholding"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "standard-agent-english-property/definition", required: true, many: false },

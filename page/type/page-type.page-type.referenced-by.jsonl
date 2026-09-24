@@ -175,6 +175,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"story/game/turn/modules/turn-state/turn-state.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"temper/addon/build/resolve/modules/sibling-addons/sibling-addons.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.test.ts"}

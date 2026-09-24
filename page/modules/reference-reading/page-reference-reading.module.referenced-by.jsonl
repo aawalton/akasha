@@ -18,4 +18,5 @@
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/type/modules/descent/page-type-descent.module.code.ts"}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/type/modules/type-turning/type-turning.module.code.ts"}
+{"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
