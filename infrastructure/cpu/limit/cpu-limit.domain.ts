@@ -52,8 +52,13 @@ export const cpuLimit = {
       statement: "A run stopped partway leaves the agent nothing to mend that run by.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every processor limit on a manifest's own container, a seat or a unit is a page property's value.",
+    },
+    {
       decisionKind: "decision-kind/gap",
-      statement: "Every processor limit is the value of a page property.",
+      statement: "Every container the cluster runs is held to processor limits a page states.",
     },
     {
       decisionKind: "decision-kind/departure",
