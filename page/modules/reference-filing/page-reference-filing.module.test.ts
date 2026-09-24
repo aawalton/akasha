@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { B, shaped } from "akasha/page/index/modules/entries/index-entries.module.test-fixtures.ts"
 import type { Child, Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
@@ -6,6 +7,11 @@ import {
   namedFrom,
   namedOut,
 } from "akasha/page/modules/reference-filing/page-reference-filing.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
+
+const DOMAIN_AT = `${pageType.slug}/${domain.slug}` as const
+
+const NOTE_AT = `${pageType.slug}/note` as const
 
 const FROM = "akasha/a.domain.ts"
 
@@ -50,7 +56,7 @@ const INDEXED: Reading = {
 }
 
 test("a name reaching a page files a line into the file beside the page named", () => {
-  const value = { id: MINE, pageTypeSlug: "domain", partSlugs: ["domain/b"] }
+  const value = { id: MINE, type: DOMAIN_AT, partSlugs: ["domain/b"] }
 
   expect(namedFrom(value, FROM, shaped({ "domain/b": B }), "", NO_ROWS)).toEqual({
     entries: [
@@ -64,7 +70,7 @@ test("a name reaching a page files a line into the file beside the page named", 
 })
 
 test("a name reaching a page is answered as the property said and the page reached", () => {
-  const value = { id: MINE, pageTypeSlug: "domain", partSlugs: ["domain/b"] }
+  const value = { id: MINE, type: DOMAIN_AT, partSlugs: ["domain/b"] }
 
   expect(namedOut(value, shaped({ "domain/b": B }), NO_ROWS)).toEqual([
     { propertySlug: "part-slugs", path: "b.domain.ts" },
@@ -72,25 +78,25 @@ test("a name reaching a page is answered as the property said and the page reach
 })
 
 test("a name reaching no page is answered with nothing rather than reported", () => {
-  const value = { id: MINE, pageTypeSlug: "domain", partSlugs: ["domain/nowhere"] }
+  const value = { id: MINE, type: DOMAIN_AT, partSlugs: ["domain/nowhere"] }
 
   expect(namedOut(value, shaped({}), NO_ROWS)).toEqual([])
 })
 
 test("a page naming the same page twice through one property files one line", () => {
-  const value = { id: MINE, pageTypeSlug: "domain", partSlugs: ["domain/b", "domain/b"] }
+  const value = { id: MINE, type: DOMAIN_AT, partSlugs: ["domain/b", "domain/b"] }
 
   expect(namedFrom(value, FROM, shaped({ "domain/b": B }), "", NO_ROWS).entries.length).toBe(1)
 })
 
 test("a page stating no id files nothing", () => {
-  const value = { pageTypeSlug: "domain", partSlugs: ["domain/b"] }
+  const value = { type: DOMAIN_AT, partSlugs: ["domain/b"] }
 
   expect(namedFrom(value, FROM, shaped({ "domain/b": B }), "", NO_ROWS).entries).toEqual([])
 })
 
 test("a name reaching no page is reported rather than filed", () => {
-  const value = { id: MINE, pageTypeSlug: "domain", partSlugs: ["domain/nowhere"] }
+  const value = { id: MINE, type: DOMAIN_AT, partSlugs: ["domain/nowhere"] }
   const filed = namedFrom(value, FROM, shaped({}), "", NO_ROWS)
 
   expect(filed.entries).toEqual([])
@@ -98,11 +104,17 @@ test("a name reaching no page is reported rather than filed", () => {
 })
 
 test("a name of a mortal page type reaching nothing is neither filed nor reported", () => {
-  const value = { id: MINE, pageTypeSlug: "domain", goneSlugs: ["gone"] }
+  const value = { id: MINE, type: DOMAIN_AT, goneSlugs: ["gone"] }
   const filed = namedFrom(value, FROM, shaped({}), "", NO_ROWS)
 
   expect(filed.entries).toEqual([])
   expect(filed.refused).toEqual([])
+})
+
+test("a name a page of a mortal page type states is not reported where it reaches nothing", () => {
+  const value = { id: MINE, type: NOTE_AT, partSlugs: ["domain/nowhere"] }
+
+  expect(namedFrom(value, FROM, shaped({}), "", NO_ROWS).refused).toEqual([])
 })
 
 test("an import files a line into the file beside the page the file imported belongs to", () => {

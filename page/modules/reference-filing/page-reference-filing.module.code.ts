@@ -112,7 +112,7 @@ export function namedFrom(
 ): Filed {
   const id = textAt(value, "id")
   if (id === null) return NOTHING_FILED
-  const own = textAt(value, "type") ?? textAt(value, "pageTypeSlug")
+  const own = textAt(value, "type")
   const dies = own !== null && known.mortal(slugOf(own))
   const from = under(repo, path)
   const entries: Entry[] = []
