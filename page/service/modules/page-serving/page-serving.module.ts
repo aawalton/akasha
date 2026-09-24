@@ -183,6 +183,14 @@ export const pageServing = {
       statement: "A file is never asked for by a path.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A stream of changes is opened by GET at a path of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a stream follows is handed in by POST at a path of its own.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here listens.",
     },

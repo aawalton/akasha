@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"page/index/modules/property-carrying/property-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"}
+{"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"page/service/modules/page-following/page-following.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"page-type-descent.module.code.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts"}
 {"propertySlug":"parts","path":"page/type/page-type.page-type.ts","id":"01a049ae-fe2c-7343-8ab6-f94d8927164a"}

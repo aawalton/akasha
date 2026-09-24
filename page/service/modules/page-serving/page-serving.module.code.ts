@@ -16,6 +16,12 @@ import {
   asking,
 } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { foldedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import {
+  EVENTS_AT,
+  FOLLOW_AT,
+  type Following,
+  said,
+} from "akasha/page/service/modules/page-following/page-following.module.code.ts"
 import { placing } from "akasha/page/service/modules/page-placing/page-placing.module.code.ts"
 import { reading } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
 import { shaping } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
@@ -46,13 +52,7 @@ export type Serving = {
   readonly root: string
   readonly writer: Writer
   readonly answeredAtMost?: number
-}
-
-function said(body: unknown, status: number): Response {
-  return new Response(JSON.stringify(body), {
-    status,
-    headers: { "content-type": "application/json" },
-  })
+  readonly following?: Following
 }
 
 export type Shaping = { readonly pageTypeSlug: string } | { readonly refused: string }
@@ -110,6 +110,20 @@ async function bodyIn(request: Request): Promise<unknown> {
 
 export async function answering(given: Serving, request: Request): Promise<Response> {
   const at = new URL(request.url).pathname
+  if (given.following !== undefined && at === EVENTS_AT) {
+    if (request.method !== "GET") {
+      return said({ refused: `a stream is opened by GET rather than by ${request.method}` }, 405)
+    }
+    return given.following.opened(request)
+  }
+  if (given.following !== undefined && at === FOLLOW_AT) {
+    if (request.method !== "POST") {
+      return said({ refused: `a follow arrives by POST rather than by ${request.method}` }, 405)
+    }
+    const body = await bodyIn(request)
+    if (body === undefined) return said({ refused: "the body did not parse as JSON" }, 400)
+    return given.following.followed(body)
+  }
   if (
     at !== ASK_AT &&
     at !== READ_AT &&

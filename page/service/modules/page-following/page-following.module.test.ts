@@ -1,0 +1,113 @@
+import { expect, test } from "bun:test"
+import {
+  askedIn,
+  changedAt,
+  eventSaid,
+  followingFor,
+  type Held,
+  keysFor,
+} from "akasha/page/service/modules/page-following/page-following.module.code.ts"
+
+const NOWHERE = "/var/tmp/no-checkout-is-here-at-all"
+
+function held(key: string, kinds: readonly string[], slugs: readonly string[] | null): Held {
+  return { key, kinds: new Set(kinds), slugs: slugs === null ? null : new Set(slugs) }
+}
+
+test("a follow naming no pages answers every change to its page type", () => {
+  const helds = [held("seats", ["seat"], null)]
+  expect(keysFor(helds, { pageTypeSlug: "seat", slug: "athena" })).toEqual(["seats"])
+  expect(keysFor(helds, { pageTypeSlug: "seat" })).toEqual(["seats"])
+})
+
+test("a follow naming pages answers only a change to one of those pages", () => {
+  const helds = [held("athena", ["seat"], ["athena"])]
+  expect(keysFor(helds, { pageTypeSlug: "seat", slug: "athena" })).toEqual(["athena"])
+  expect(keysFor(helds, { pageTypeSlug: "seat", slug: "ember" })).toEqual([])
+  expect(keysFor(helds, { pageTypeSlug: "seat" })).toEqual([])
+})
+
+test("a change to a page type nothing follows answers no follow", () => {
+  expect(keysFor([held("seats", ["seat"], null)], { pageTypeSlug: "persona" })).toEqual([])
+})
+
+test("a follow of a page type answers a change to a page type under it", () => {
+  const helds = [held("properties", ["page-property-definition", "text-property"], null)]
+  expect(keysFor(helds, { pageTypeSlug: "text-property", slug: "slug" })).toEqual(["properties"])
+})
+
+test("any file named for a page is a change to that page", () => {
+  expect(changedAt("/r/agent/seat/pages/athena/athena.seat.ts")).toEqual({
+    pageTypeSlug: "seat",
+    slug: "athena",
+  })
+  expect(changedAt("/r/agent/seat/pages/athena/athena.seat.uncommitted.ts")).toEqual({
+    pageTypeSlug: "seat",
+    slug: "athena",
+  })
+  expect(changedAt("/r/agent/seat/pages/athena/notes")).toBeNull()
+})
+
+test("a follow is refused where it names no stream or names pages some other way", () => {
+  expect("refused" in askedIn({ follows: [] })).toBe(true)
+  expect("refused" in askedIn({ stream: "s", follows: [{ key: "k" }] })).toBe(true)
+  expect(
+    "refused" in askedIn({ stream: "s", follows: [{ key: "k", pageTypeSlug: "seat", by: "name" }] })
+  ).toBe(true)
+  expect(
+    askedIn({
+      stream: "s",
+      follows: [{ key: "k", pageTypeSlug: "seat", by: "slug", values: ["athena"] }],
+    })
+  ).toEqual({
+    stream: "s",
+    follows: [{ key: "k", pageTypeSlug: "seat", by: "slug", values: ["athena"] }],
+  })
+})
+
+test("an event is framed as a named server-sent event", () => {
+  expect(eventSaid("page", { slug: "athena" })).toBe('event: page\ndata: {"slug":"athena"}\n\n')
+})
+
+async function eventsFrom(
+  reader: ReadableStreamDefaultReader<Uint8Array>,
+  count: number
+): Promise<readonly string[]> {
+  const decoder = new TextDecoder()
+  const found: string[] = []
+  let waiting = ""
+  while (found.length < count) {
+    const { value, done } = await reader.read()
+    if (done) break
+    waiting += decoder.decode(value)
+    const parts = waiting.split("\n\n")
+    waiting = parts.pop() ?? ""
+    for (const one of parts) if (one.startsWith("event:")) found.push(one)
+  }
+  return found
+}
+
+test("a change is pushed down the stream following it and no other change is", async () => {
+  const following = followingFor(NOWHERE)
+  const aborting = new AbortController()
+  const opened = following.opened(new Request("http://here/events", { signal: aborting.signal }))
+  const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
+  const [first] = await eventsFrom(reader, 1)
+  const stream = JSON.parse((first ?? "").split("data: ")[1] ?? "{}").stream as string
+  expect(typeof stream).toBe("string")
+  const unknown = following.followed({ stream: "no-such-stream", follows: [] })
+  expect(unknown.status).toBe(404)
+  const answered = following.followed({
+    stream,
+    follows: [{ key: "athena-page", pageTypeSlug: "seat", by: "slug", values: ["athena"] }],
+  })
+  expect(answered.status).toBe(200)
+  following.changed({ pageTypeSlug: "seat", slug: "ember" })
+  following.changed({ pageTypeSlug: "persona", slug: "athena" })
+  following.changed({ pageTypeSlug: "seat", slug: "athena" })
+  const [pushed] = await eventsFrom(reader, 1)
+  expect(pushed).toBe(
+    eventSaid("page", { pageTypeSlug: "seat", slug: "athena", keys: ["athena-page"] }).trimEnd()
+  )
+  aborting.abort()
+})

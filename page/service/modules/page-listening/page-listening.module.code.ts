@@ -8,6 +8,10 @@ import {
   dropUncommitted,
   mergeUncommitted,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import {
+  type Following,
+  followingFor,
+} from "akasha/page/service/modules/page-following/page-following.module.code.ts"
 import { answering } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
 import { writerFor } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
@@ -23,13 +27,16 @@ export type Listening = {
   readonly root: string
   readonly port: number
   readonly binds: readonly string[]
+  readonly following?: Following
 }
 
-function boundAt(root: string, port: number, hostname: string, writer: Writer) {
+function boundAt(given: Listening, hostname: string, writer: Writer) {
+  const { root, port, following } = given
   return Bun.serve({
     port,
     hostname,
-    fetch: (request) => answering({ root, writer }, request),
+    fetch: (request) =>
+      answering(following === undefined ? { root, writer } : { root, writer, following }, request),
   })
 }
 
@@ -50,7 +57,7 @@ export function serversFor(given: Listening, held?: Writer): Bound {
   const refused: Refusal[] = []
   for (const hostname of given.binds) {
     try {
-      servers.push(boundAt(given.root, given.port, hostname, writer))
+      servers.push(boundAt(given, hostname, writer))
     } catch (why) {
       refused.push({ hostname, why: why instanceof Error ? why.message : String(why) })
     }
@@ -88,7 +95,12 @@ export function runPageListening(root: string): undefined {
       `no page is slugged ${SERVICE_SLUG} under ${SERVICE_PAGE_TYPE}, or it states no port`
     )
   }
-  const stated: Listening = { root, port, binds: bindsFor(root, SERVICE_SLUG) }
+  const stated: Listening = {
+    root,
+    port,
+    binds: bindsFor(root, SERVICE_SLUG),
+    following: followingFor(root),
+  }
   let bound = serversFor(stated)
   saying(root, page, unboundIn(bound))
   for (const one of bound.refused) {
