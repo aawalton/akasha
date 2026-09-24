@@ -9,11 +9,11 @@ export const seatComposer = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Enter starts a new line, and a button sends.",
+      statement: "Enter sends, and Shift with Enter starts a new line, on every device.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Command or Control with Enter sends from a keyboard.",
+      statement: "Enter pressed while a word is still being composed sends nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

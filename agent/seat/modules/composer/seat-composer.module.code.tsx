@@ -31,7 +31,7 @@ export async function sentToSeat(seat: string, body: string): Promise<string | n
 }
 
 function sendsNow(event: KeyboardEvent<HTMLTextAreaElement>): boolean {
-  return event.key === "Enter" && (event.metaKey || event.ctrlKey)
+  return event.key === "Enter" && !event.shiftKey && !event.nativeEvent.isComposing
 }
 
 export function SeatComposer({ onSend }: { onSend: (text: string) => void }) {
@@ -53,7 +53,7 @@ export function SeatComposer({ onSend }: { onSend: (text: string) => void }) {
           send()
         }}
         rows={1}
-        enterKeyHint="enter"
+        enterKeyHint="send"
         placeholder="Message"
         aria-label="Message to this seat"
         className="max-h-48 min-h-10 flex-1 resize-none"
