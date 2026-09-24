@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/chess/modules/move-list/chess-move-list.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/google/oauth/modules/oauth-consent/oauth-consent.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/harness/better-auth-rr/modules/google-sign-in/google-sign-in.module.code.tsx"}
-{"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"alan/web/modules/offline-download-button/offline-download-button.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/browser/test-harness/modules/console-capture/console-capture.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/router-app/modules/auth-footer/auth-footer.module.code.tsx"}
 {"propertySlug":"import","fileName":"eso-sandbox.type-declaration.d.ts","path":"code/type/narrowing/modules/collapse/collapse.module.code.ts"}
