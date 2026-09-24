@@ -20,8 +20,6 @@ const SLUG = "slug"
 
 const PAGE_TYPE = "type"
 
-const WAS_PAGE_TYPE_SLUG = "pageTypeSlug"
-
 type Said = {
   readonly slug: string
   readonly pageTypeSlug: string
@@ -40,16 +38,13 @@ function textOf(node: ts.Expression | undefined): string | null {
 
 function statedIn(node: ts.ObjectLiteralExpression): Said | null {
   let slug: string | null = null
-  let stated: string | null = null
-  let wasStated: string | null = null
+  let pageTypeSlug: string | null = null
   for (const one of node.properties) {
     if (!ts.isPropertyAssignment(one)) continue
     const key = ts.isIdentifier(one.name) || ts.isStringLiteral(one.name) ? one.name.text : null
     if (key === SLUG) slug = textOf(one.initializer)
-    if (key === PAGE_TYPE) stated = textOf(one.initializer)
-    if (key === WAS_PAGE_TYPE_SLUG) wasStated = textOf(one.initializer)
+    if (key === PAGE_TYPE) pageTypeSlug = textOf(one.initializer)
   }
-  const pageTypeSlug = stated ?? wasStated
   if (slug === null || pageTypeSlug === null) return null
   return { slug, pageTypeSlug }
 }
@@ -101,13 +96,9 @@ const SLUG_SAID = /^ {2}slug: "([^"\n\\]*)",$/m
 
 const PAGE_TYPE_SAID = /^ {2}type: "([^"\n\\]*)",$/m
 
-const WAS_PAGE_TYPE_SAID = /^ {2}pageTypeSlug: "([^"\n\\]*)",$/m
-
 const SLUG_KEY = `${SLUG}:`
 
 const PAGE_TYPE_KEY = `${PAGE_TYPE}:`
-
-const WAS_PAGE_TYPE_KEY = `${WAS_PAGE_TYPE_SLUG}:`
 
 function countOf(text: string, one: string): number {
   let held = 0
@@ -120,10 +111,8 @@ function countOf(text: string, one: string): number {
 }
 
 function pageTypeSaidIn(text: string): string | null {
-  const typed = countOf(text, PAGE_TYPE_KEY)
-  if (typed === 1) return PAGE_TYPE_SAID.exec(text)?.[1] ?? null
-  if (typed !== 0 || countOf(text, WAS_PAGE_TYPE_KEY) !== 1) return null
-  return WAS_PAGE_TYPE_SAID.exec(text)?.[1] ?? null
+  if (countOf(text, PAGE_TYPE_KEY) !== 1) return null
+  return PAGE_TYPE_SAID.exec(text)?.[1] ?? null
 }
 
 export function namedPlainly(stem: string, suffix: string, text: string): boolean {
