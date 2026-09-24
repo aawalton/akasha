@@ -51,9 +51,9 @@ const MODEL_SLUGS: readonly string[] = [
 
 const NAMED = /^[A-Za-z_][A-Za-z0-9_]*$/
 
-const GAME_NAMES_UNSTUBBED =
-  '__eso_leave_unstubbed("^ZO_") __eso_leave_unstubbed("^[A-Z][A-Z0-9_]*$")' +
-  ' __eso_leave_unstubbed("^[a-z]")'
+const GAME_NAMES_UNSTUBBED = '__eso_leave_unstubbed("")'
+
+const ENGINE_UNDOCUMENTED = "function GetJerallPassMapIndex() return 0 end"
 
 const KEPT_FOR_THE_GAME: readonly string[] = ["debug", "os"]
 
@@ -245,6 +245,7 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
     bannedGlobals: options.bannedGlobals ?? HARNESS_BANNED_GLOBALS,
     loadedFirst: [
       GAME_NAMES_UNSTUBBED,
+      ENGINE_UNDOCUMENTED,
       GAME_CLOCK,
       ...constantTexts(),
       ...modelTexts(),
