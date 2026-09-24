@@ -15,10 +15,6 @@ export const companions = {
       decisionKind: "decision-kind/constraint",
       statement: "A companion's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A companion moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["COMPANIONS_DATA"],
 } as const satisfies Module

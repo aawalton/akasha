@@ -15,10 +15,6 @@ export const companionEquipmentQualities = {
       decisionKind: "decision-kind/constraint",
       statement: "A quality's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A quality moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["COMPANION_EQUIPMENT_QUALITY_DATA"],
 } as const satisfies Module
