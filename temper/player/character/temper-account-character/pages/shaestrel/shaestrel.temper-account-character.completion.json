@@ -515,6 +515,7 @@
     5448,
     5520,
     5531,
+    5532,
     5534,
     5538,
     5540,
@@ -3393,12 +3394,12 @@
       "nextRankXP": 211320
     },
     "111": {
-      "currentXP": 176,
+      "currentXP": 177,
       "currentRank": 8,
       "nextRankXP": 180
     },
     "117": {
-      "currentXP": 10,
+      "currentXP": 20,
       "currentRank": 2,
       "nextRankXP": 25
     },
@@ -5282,8 +5283,8 @@
     "groupDungeonTotal": 19,
     "tutorial": 1,
     "skyshardPoints": 173,
-    "unassigned": 79,
-    "zoneQuestTotal": 55,
+    "unassigned": 80,
+    "zoneQuestTotal": 56,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -5459,7 +5460,7 @@
       "EP3": 3,
       "DC1": 4,
       "EP4": 3,
-      "HB": 2,
+      "HB": 3,
       "CL": 0,
       "SU": 0,
       "MM": 0,
@@ -5479,7 +5480,7 @@
       "AP": 0,
       "GY": 0
     },
-    "total": 375,
+    "total": 376,
     "maelstromArena": 1
   },
   "traitResearch": {
@@ -10286,7 +10287,8 @@
     "816": {
       "1": {
         "1": 1,
-        "2": 2
+        "2": 2,
+        "3": 3
       },
       "2": {
         "1": 1,
@@ -13045,8 +13047,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-24"
+    "date": "2026-09-24",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
