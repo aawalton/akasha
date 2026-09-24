@@ -121,6 +121,19 @@ export const uiStaging = {
         "The character the addon reads is the harness rather than a character the player has.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's own HUD hides what is idle only when the player is activated.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The player is activated once the addon is up, as on the game's first load screen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listener raising at the player's activation is named among the refused.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "A harness that will not come up is closed rather than left open.",
     },

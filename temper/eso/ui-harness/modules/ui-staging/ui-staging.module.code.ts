@@ -42,6 +42,10 @@ const SAVED_UNDER = "SavedVariables"
 
 const GAME_ADDON = "ZO_Ingame"
 
+const PLAYER_ACTIVATED = "EVENT_PLAYER_ACTIVATED"
+
+const FIRST_ACTIVATION = true
+
 const TEMPER_NAMES_UNSTUBBED = '__eso_leave_unstubbed("^Temper")'
 
 const PER_CHUNK = 40
@@ -277,6 +281,13 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await loadAddon(harness, dirname(bundleAt), asked.addon, virtuals, new Set())
     for (const source of seeded) await harness.load(source)
     await harness.load("return __ui_play_as()")
+    await settled(harness)
+    try {
+      await harness.raise(PLAYER_ACTIVATED, FIRST_ACTIVATION)
+    } catch (thrown) {
+      const why = (thrown instanceof Error ? thrown.message : String(thrown)).split("\n")[0]
+      refused.push(`${PLAYER_ACTIVATED}: ${why}`)
+    }
     await settled(harness)
     return { harness, builtAt: builtAtCommit(asked.root), templates, refused }
   } catch (thrown) {
