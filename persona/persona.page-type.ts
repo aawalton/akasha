@@ -83,7 +83,7 @@ export const persona = {
     "multi-relation-property/wallpaper-images",
     "service-workstation/desktop-wallpaper-setting",
     "text-property/history",
-    "text-property/last-messaged-at",
+    "instant-property/last-messaged-at",
     "text-property/purpose",
     "relation-property/page-value",
     "relation-property/voice-reference",
@@ -131,7 +131,7 @@ export const persona = {
     },
     { pageProperty: "text-property/history", required: false, many: false },
     {
-      pageProperty: "text-property/last-messaged-at",
+      pageProperty: "instant-property/last-messaged-at",
       required: false,
       many: false,
       uncommitted: true,

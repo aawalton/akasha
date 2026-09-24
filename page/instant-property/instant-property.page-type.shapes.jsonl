@@ -23,6 +23,7 @@
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"happened-at","propertySlug":"happened-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-completed-at","propertySlug":"last-completed-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-full-scan-at","propertySlug":"last-full-scan-at","fileName":null,"folderName":null}
+{"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-messaged-at","propertySlug":"last-messaged-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-scanned-at","propertySlug":"last-scanned-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-tapped-at","propertySlug":"last-tapped-at","fileName":null,"folderName":null}
 {"pageTypeSlug":"instant-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"last-value-at","propertySlug":"last-value-at","fileName":null,"folderName":null}

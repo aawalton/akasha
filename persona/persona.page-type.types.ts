@@ -8,7 +8,7 @@ import type { CoverImages } from "akasha/persona/properties/cover-images.multi-r
 import type { DesktopWallpaper } from "akasha/persona/properties/desktop-wallpaper.relation-property.types.ts"
 import type { EmailAddress } from "akasha/persona/properties/email-address.email-address-property.types.ts"
 import type { History } from "akasha/persona/properties/history.text-property.types.ts"
-import type { LastMessagedAt } from "akasha/persona/properties/last-messaged-at.text-property.types.ts"
+import type { LastMessagedAt } from "akasha/persona/properties/last-messaged-at.instant-property.types.ts"
 import type { MobileWallpaper } from "akasha/persona/properties/mobile-wallpaper.relation-property.types.ts"
 import type { Origin } from "akasha/persona/properties/origin.relation-property.types.ts"
 import type { PageValue } from "akasha/persona/properties/page-value.relation-property.types.ts"
