@@ -10,7 +10,7 @@ export const akashaGapsToZero = {
     {
       statement: "No gap decision is left.",
       workingMemory:
-        "1078 gaps on 763 pages, none taken up yet. The first run starts at the top of the Gaps panel.",
+        "First run under way: 110 of 1076 gaps judged, 16 settled, 94 kept for Alan. Panel order is listed by walking assembleGapTree; the kept list is kept in the seat's scratchpad as kept.tsv.",
     },
   ],
   constraints: [
