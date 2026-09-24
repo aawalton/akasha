@@ -15,8 +15,8 @@
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-agent/supervisor-spawn-agent.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"}
-{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.code.ts"}
+{"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"agent/seat/usage/modules/typing-minutes/typing-minutes.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/monarch/eval/modules/run/monarch-eval-run.module.code.ts"}
 {"propertySlug":"import","fileName":"shape.module.code.ts","path":"alan/harness/monarch/modules/amazon-notes/monarch-amazon-notes.module.code.ts"}

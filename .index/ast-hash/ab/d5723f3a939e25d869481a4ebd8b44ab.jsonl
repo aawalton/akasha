@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts","name":"killProcessesForShutdown"}
+{"path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts","name":"killProcessesForShutdown"}

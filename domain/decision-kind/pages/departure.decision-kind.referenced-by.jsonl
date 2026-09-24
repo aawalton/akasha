@@ -394,12 +394,12 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.ts","id":"01a06838-5a84-7007-ad97-0d2824c6293d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.ts","id":"01a0683e-3dbe-7015-b25d-4d947ec851f0"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.ts","id":"01a0686a-7a57-7a62-bfba-385af928123a"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts","id":"01a06838-5a84-7002-b23a-fa3c1a68a559"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.ts","id":"01a0687e-533c-7000-b149-004c8b1c0b5f"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-boot-prompt/supervisor-boot-prompt.module.ts","id":"01a0683e-3dbe-700c-846f-2de44a594e21"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-boot-stage/supervisor-boot-stage.module.ts","id":"01a0683e-3dbe-700d-8afe-952b34ffad1a"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.ts","id":"01a06871-3115-7004-85f9-3b541e6a385e"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot/supervisor-interactive-boot.module.ts","id":"01a06871-3115-7005-8779-160298d3aa4e"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts","id":"01a06838-5a84-7002-b23a-fa3c1a68a559"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-guard-tick/supervisor-guard-tick.module.ts","id":"01a0683e-3dbe-7022-adf7-a141c00ada4a"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts","id":"01a06871-3115-7000-88a3-356a4726a3a1"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.ts","id":"01a06871-3115-7001-910f-b7d9676eca90"}

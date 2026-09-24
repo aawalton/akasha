@@ -14,7 +14,7 @@ import { createTerminalDeathController } from "akasha/agent/seat/pty/modules/ter
 import {
   applySttySane,
   TERMINAL_MODE_RESET,
-} from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
+} from "akasha/agent/seat/supervisor/supervisor-stop/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 import { createTypingMinuteRecorder } from "akasha/agent/seat/usage/modules/typing-minutes/typing-minutes.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 

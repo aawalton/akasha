@@ -6,11 +6,11 @@ import {
   setShuttingDown,
 } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
 import { decideShutdownExitWrite } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.code.ts"
+import { shouldWriteTerminalStoppedStatus } from "akasha/agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 import {
   killProcessesForShutdown,
   recordShutdownEvent,
-} from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts"
-import { shouldWriteTerminalStoppedStatus } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
+} from "akasha/agent/seat/supervisor/supervisor-stop/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"
 import { takeSeatPage } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts"
 import { resolveReExecArgv } from "akasha/agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"
 import {

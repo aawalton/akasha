@@ -13,8 +13,8 @@ import {
 import { runInteractive } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive/supervisor-interactive.module.code.ts"
 import type { RunInteractiveSeams } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
 import { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
-import { shutdown } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
-import { installSupervisorTerminalGuard } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
+import { shutdown } from "akasha/agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
+import { installSupervisorTerminalGuard } from "akasha/agent/seat/supervisor/supervisor-stop/modules/supervisor-terminal/supervisor-terminal.module.code.ts"
 
 async function supervisorMain(seams: RunInteractiveSeams): Promise<void> {
   const agentLog = buildAgentLogRedirect()

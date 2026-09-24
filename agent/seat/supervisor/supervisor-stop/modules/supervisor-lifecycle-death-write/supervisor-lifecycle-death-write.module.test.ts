@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { shouldWriteTerminalStoppedStatus } from "akasha/agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
+import { shouldWriteTerminalStoppedStatus } from "akasha/agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.code.ts"
 
 test("a supervisor going down to re-exec writes no stopped status", () => {
   expect(shouldWriteTerminalStoppedStatus(true)).toBe(false)

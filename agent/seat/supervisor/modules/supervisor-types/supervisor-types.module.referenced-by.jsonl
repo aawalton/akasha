@@ -8,5 +8,5 @@
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-types.module.code.ts","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-shutdown-procs/supervisor-shutdown-procs.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}
