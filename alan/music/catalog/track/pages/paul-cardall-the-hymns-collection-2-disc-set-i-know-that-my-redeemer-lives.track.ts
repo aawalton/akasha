@@ -12,7 +12,7 @@ export const paulCardallTheHymnsCollection2DiscSetIKnowThatMyRedeemerLives = {
   title: "I Know That My Redeemer Lives",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "iknowthatmyredeemerlives|7FQRbf8gbKw8KZQZAJWxH2|223137",
   song: "song/paul-cardall-i-know-that-my-redeemer-lives",
   carriedBy: [

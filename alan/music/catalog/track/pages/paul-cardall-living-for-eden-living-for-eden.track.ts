@@ -12,7 +12,7 @@ export const paulCardallLivingForEdenLivingForEden = {
   title: "Living For Eden",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "livingforeden|7FQRbf8gbKw8KZQZAJWxH2|255973",
   song: "song/paul-cardall-living-for-eden",
   carriedBy: [

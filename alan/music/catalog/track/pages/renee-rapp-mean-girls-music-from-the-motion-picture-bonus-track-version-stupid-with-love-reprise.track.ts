@@ -14,10 +14,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionStupidW
   title: "Stupid with Love - Reprise",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2WBxsfNZRSQriRDgDgWkTO", artistName: "Angourie Rice" },
-    { externalId: "6Ve5oEOT8RbNXWHfsZpICN", artistName: "Cast of Mean Girls" },
-  ],
+  trackArtist: [{ artistName: "Angourie Rice" }, { artistName: "Cast of Mean Girls" }],
   trackKey: "stupidwithlovereprise|2WBxsfNZRSQriRDgDgWkTO,6Ve5oEOT8RbNXWHfsZpICN|125992",
   song: "song/renee-rapp-stupid-with-love",
   carriedBy: [

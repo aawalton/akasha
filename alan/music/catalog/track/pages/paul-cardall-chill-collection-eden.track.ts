@@ -12,7 +12,7 @@ export const paulCardallChillCollectionEden = {
   title: "Eden",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "eden|7FQRbf8gbKw8KZQZAJWxH2|206210",
   song: "song/paul-cardall-eden",
   carriedBy: [

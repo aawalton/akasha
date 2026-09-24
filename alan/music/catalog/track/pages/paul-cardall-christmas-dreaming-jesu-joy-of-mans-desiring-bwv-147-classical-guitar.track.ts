@@ -13,9 +13,9 @@ export const paulCardallChristmasDreamingJesuJoyOfMansDesiringBwv147ClassicalGui
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "2pzgrbowKM8SGmdK3YMcGq", artistName: "Mak Grgic" },
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "3Lggrcbnv6PpisEqEVzjBr", artistName: "Leon Firšt" },
+    { artistName: "Mak Grgic" },
+    { artist: "artist/paul-cardall" },
+    { artistName: "Leon Firšt" },
   ],
   trackKey:
     "jesujoyofmansdesiringbwv147classicalguitar|2pzgrbowKM8SGmdK3YMcGq,3Lggrcbnv6PpisEqEVzjBr,7FQRbf8gbKw8KZQZAJWxH2|245957",

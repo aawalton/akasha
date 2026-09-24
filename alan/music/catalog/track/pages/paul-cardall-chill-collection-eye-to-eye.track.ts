@@ -12,7 +12,7 @@ export const paulCardallChillCollectionEyeToEye = {
   title: "Eye to Eye",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "eyetoeye|7FQRbf8gbKw8KZQZAJWxH2|269139",
   song: "song/paul-cardall-eye-to-eye",
   carriedBy: [

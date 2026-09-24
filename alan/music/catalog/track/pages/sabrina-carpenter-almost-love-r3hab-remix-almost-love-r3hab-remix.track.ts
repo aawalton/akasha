@@ -12,10 +12,7 @@ export const sabrinaCarpenterAlmostLoveR3habRemixAlmostLoveR3habRemix = {
   title: "Almost Love - R3HAB Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "6cEuCEZu7PAE9ZSzLLc2oQ", artistName: "R3HAB" },
-  ],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }, { artistName: "R3HAB" }],
   trackKey: "almostlover3habremix|6cEuCEZu7PAE9ZSzLLc2oQ,74KM79TiuVKeVCqs8QtB0B|175000",
   song: "song/sabrina-carpenter-almost-love",
   carriedBy: [

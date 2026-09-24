@@ -12,7 +12,7 @@ export const paulCardallGraceInGriefSerenity = {
   title: "Serenity",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "serenity|7FQRbf8gbKw8KZQZAJWxH2|207500",
   song: "song/paul-cardall-serenity",
   carriedBy: [

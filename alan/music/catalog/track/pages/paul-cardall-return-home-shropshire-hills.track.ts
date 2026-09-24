@@ -12,7 +12,7 @@ export const paulCardallReturnHomeShropshireHills = {
   title: "Shropshire Hills",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "shropshirehills|7FQRbf8gbKw8KZQZAJWxH2|194243",
   song: "song/paul-cardall-shropshire-hills",
   carriedBy: [

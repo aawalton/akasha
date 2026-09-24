@@ -15,10 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionWorldBu
   title: "World Burn",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" },
-    { externalId: "6Ve5oEOT8RbNXWHfsZpICN", artistName: "Cast of Mean Girls" },
-  ],
+  trackArtist: [{ artist: "artist/renee-rapp" }, { artistName: "Cast of Mean Girls" }],
   trackKey: "worldburn|2hUYKu1x0UZQXvzCmggvSn,6Ve5oEOT8RbNXWHfsZpICN|215936",
   song: "song/renee-rapp-world-burn",
   carriedBy: [

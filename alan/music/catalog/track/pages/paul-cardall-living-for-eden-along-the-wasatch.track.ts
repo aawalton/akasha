@@ -12,7 +12,7 @@ export const paulCardallLivingForEdenAlongTheWasatch = {
   title: "Along The Wasatch",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "alongthewasatch|7FQRbf8gbKw8KZQZAJWxH2|204240",
   song: "song/paul-cardall-along-the-wasatch",
   carriedBy: [

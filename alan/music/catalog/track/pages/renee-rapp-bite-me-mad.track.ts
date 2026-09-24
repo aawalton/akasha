@@ -12,7 +12,7 @@ export const reneeRappBiteMeMad = {
   title: "Mad",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "mad|2hUYKu1x0UZQXvzCmggvSn|174969",
   song: "song/renee-rapp-mad",
   carriedBy: [

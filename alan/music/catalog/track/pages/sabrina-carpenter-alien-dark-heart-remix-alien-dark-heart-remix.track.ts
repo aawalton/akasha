@@ -13,9 +13,9 @@ export const sabrinaCarpenterAlienDarkHeartRemixAlienDarkHeartRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "1HBjj22wzbscIZ9sEb5dyf", artistName: "Jonas Blue" },
-    { externalId: "1k7Cc2WGh6LAE1TUh6dsiy", artistName: "Dark Heart" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "Jonas Blue" },
+    { artistName: "Dark Heart" },
   ],
   trackKey:
     "aliendarkheartremix|1HBjj22wzbscIZ9sEb5dyf,1k7Cc2WGh6LAE1TUh6dsiy,74KM79TiuVKeVCqs8QtB0B|209433",

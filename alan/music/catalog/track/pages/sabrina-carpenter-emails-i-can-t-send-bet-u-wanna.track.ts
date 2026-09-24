@@ -15,7 +15,7 @@ export const sabrinaCarpenterEmailsICanTSendBetUWanna = {
   title: "bet u wanna",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "betuwanna|74KM79TiuVKeVCqs8QtB0B|191025",
   song: "song/sabrina-carpenter-bet-u-wanna",
   carriedBy: [

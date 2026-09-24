@@ -15,7 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionMeetThe
   title: "Meet the Plastics",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "meettheplastics|2hUYKu1x0UZQXvzCmggvSn|89187",
   song: "song/renee-rapp-meet-the-plastics",
   carriedBy: [

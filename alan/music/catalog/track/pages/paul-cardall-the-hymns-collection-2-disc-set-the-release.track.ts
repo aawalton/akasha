@@ -12,7 +12,7 @@ export const paulCardallTheHymnsCollection2DiscSetTheRelease = {
   title: "The Release",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "therelease|7FQRbf8gbKw8KZQZAJWxH2|205583",
   song: "song/paul-cardall-the-release",
   carriedBy: [

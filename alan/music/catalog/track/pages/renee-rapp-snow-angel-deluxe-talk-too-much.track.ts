@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxeTalkTooMuch = {
   title: "Talk Too Much",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "talktoomuch|2hUYKu1x0UZQXvzCmggvSn|196679",
   song: "song/renee-rapp-talk-too-much",
   carriedBy: [

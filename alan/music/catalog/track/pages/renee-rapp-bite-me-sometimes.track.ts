@@ -12,7 +12,7 @@ export const reneeRappBiteMeSometimes = {
   title: "Sometimes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "sometimes|2hUYKu1x0UZQXvzCmggvSn|183741",
   song: "song/renee-rapp-sometimes",
   carriedBy: [

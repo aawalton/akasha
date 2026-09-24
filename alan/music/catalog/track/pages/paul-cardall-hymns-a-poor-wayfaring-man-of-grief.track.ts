@@ -12,7 +12,7 @@ export const paulCardallHymnsAPoorWayfaringManOfGrief = {
   title: "A Poor Wayfaring Man Of Grief",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "apoorwayfaringmanofgrief|7FQRbf8gbKw8KZQZAJWxH2|179240",
   song: "song/paul-cardall-a-poor-wayfaring-man-of-grief",
   carriedBy: [

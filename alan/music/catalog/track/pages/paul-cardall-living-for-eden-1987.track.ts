@@ -12,7 +12,7 @@ export const paulCardallLivingForEden1987 = {
   title: "1987",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "1987|7FQRbf8gbKw8KZQZAJWxH2|322533",
   song: "song/paul-cardall-1987",
   carriedBy: [

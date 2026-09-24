@@ -12,7 +12,7 @@ export const paulCardallHymnsOMyFather = {
   title: "O My Father",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "omyfather|7FQRbf8gbKw8KZQZAJWxH2|129360",
   song: "song/paul-cardall-o-my-father",
   carriedBy: [

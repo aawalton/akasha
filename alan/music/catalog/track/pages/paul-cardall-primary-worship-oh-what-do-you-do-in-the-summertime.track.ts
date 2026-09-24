@@ -12,7 +12,7 @@ export const paulCardallPrimaryWorshipOhWhatDoYouDoInTheSummertime = {
   title: "Oh what do you do in the Summertime",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ohwhatdoyoudointhesummertime|7FQRbf8gbKw8KZQZAJWxH2|172187",
   song: "song/paul-cardall-oh-what-do-you-do-in-the-summertime",
   carriedBy: [

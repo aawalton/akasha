@@ -12,7 +12,7 @@ export const paulCardallHymnsHeIsRisen = {
   title: "He Is Risen",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "heisrisen|7FQRbf8gbKw8KZQZAJWxH2|155333",
   song: "song/paul-cardall-he-is-risen",
   carriedBy: [

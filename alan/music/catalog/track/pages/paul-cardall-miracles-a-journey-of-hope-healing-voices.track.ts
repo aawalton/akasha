@@ -15,7 +15,7 @@ export const paulCardallMiraclesAJourneyOfHopeHealingVoices = {
   title: "Voices",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "voices|7FQRbf8gbKw8KZQZAJWxH2|300786",
   song: "song/paul-cardall-voices",
   carriedBy: [

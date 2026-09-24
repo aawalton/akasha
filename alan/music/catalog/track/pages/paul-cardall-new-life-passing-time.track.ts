@@ -12,7 +12,7 @@ export const paulCardallNewLifePassingTime = {
   title: "Passing Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "passingtime|7FQRbf8gbKw8KZQZAJWxH2|239626",
   song: "song/paul-cardall-passing-time",
   carriedBy: [

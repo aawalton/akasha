@@ -12,7 +12,7 @@ export const paulCardallChristmasHarkTheHeraldAngelsSing = {
   title: "Hark! the Herald Angels Sing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "harktheheraldangelssing|7FQRbf8gbKw8KZQZAJWxH2|222000",
   song: "song/paul-cardall-hark-the-herald-angels-sing",
   carriedBy: [

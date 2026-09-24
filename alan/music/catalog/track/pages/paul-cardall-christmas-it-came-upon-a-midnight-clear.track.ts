@@ -12,7 +12,7 @@ export const paulCardallChristmasItCameUponAMidnightClear = {
   title: "It Came Upon a Midnight Clear",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "itcameuponamidnightclear|7FQRbf8gbKw8KZQZAJWxH2|194643",
   song: "song/paul-cardall-it-came-upon-a-midnight-clear",
   carriedBy: [

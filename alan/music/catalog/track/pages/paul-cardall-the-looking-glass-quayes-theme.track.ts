@@ -12,7 +12,7 @@ export const paulCardallTheLookingGlassQuayesTheme = {
   title: "Quaye's Theme",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "quayestheme|7FQRbf8gbKw8KZQZAJWxH2|226626",
   song: "song/paul-cardall-quayes-theme",
   carriedBy: [

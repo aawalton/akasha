@@ -15,7 +15,7 @@ export const reneeRappBiteMeIThinkILikeYouBetterWhenYoureGone = {
   title: "I Think I Like You Better When You’re Gone",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "ithinkilikeyoubetterwhenyouregone|2hUYKu1x0UZQXvzCmggvSn|143298",
   song: "song/renee-rapp-i-think-i-like-you-better-when-youre-gone",
   carriedBy: [

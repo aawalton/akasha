@@ -12,7 +12,7 @@ export const paulCardallMiraclesAJourneyOfHopeHealingDrivingNorth = {
   title: "Driving North",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "drivingnorth|7FQRbf8gbKw8KZQZAJWxH2|180160",
   song: "song/paul-cardall-driving-north",
   carriedBy: [

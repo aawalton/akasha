@@ -12,7 +12,7 @@ export const paulCardallTheBrokenMiracleFamily = {
   title: "Family",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "family|7FQRbf8gbKw8KZQZAJWxH2|135826",
   song: "song/paul-cardall-family",
   carriedBy: [

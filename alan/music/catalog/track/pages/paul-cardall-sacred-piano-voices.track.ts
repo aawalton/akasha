@@ -12,7 +12,7 @@ export const paulCardallSacredPianoVoices = {
   title: "Voices",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "voices|7FQRbf8gbKw8KZQZAJWxH2|296600",
   song: "song/paul-cardall-voices",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallTheBrokenMiracleEpilogue = {
   title: "Epilogue",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "epilogue|7FQRbf8gbKw8KZQZAJWxH2|86146",
   song: "song/paul-cardall-epilogue",
   carriedBy: [

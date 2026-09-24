@@ -15,7 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionSexy = 
   title: "Sexy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7gjaWWHUIi54lepyZd1WIP", artistName: "Avantika" }],
+  trackArtist: [{ artistName: "Avantika" }],
   trackKey: "sexy|7gjaWWHUIi54lepyZd1WIP|183738",
   song: "song/renee-rapp-sexy",
   carriedBy: [

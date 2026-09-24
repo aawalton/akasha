@@ -15,7 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionRockinA
     title: "Rockin' Around The Pole Again",
     trackType: "studio",
     explicit: false,
-    trackArtist: [{ externalId: "4jgDZnxIF0VovlrnTqWcA4", artistName: "Nahscha" }],
+    trackArtist: [{ artistName: "Nahscha" }],
     trackKey: "rockinaroundthepoleagain|4jgDZnxIF0VovlrnTqWcA4|147706",
     song: "song/renee-rapp-rockin-around-the-pole-again",
     carriedBy: [

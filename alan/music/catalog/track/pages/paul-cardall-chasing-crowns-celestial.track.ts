@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsCelestial = {
   title: "Celestial",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "celestial|7FQRbf8gbKw8KZQZAJWxH2|222000",
   song: "song/paul-cardall-celestial",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallTheLookingGlassThroughHerEyes = {
   title: "Through Her Eyes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "throughhereyes|7FQRbf8gbKw8KZQZAJWxH2|200333",
   song: "song/paul-cardall-through-her-eyes",
   carriedBy: [

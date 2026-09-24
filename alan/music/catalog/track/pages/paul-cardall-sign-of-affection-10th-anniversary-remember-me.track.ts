@@ -12,7 +12,7 @@ export const paulCardallSignOfAffection10thAnniversaryRememberMe = {
   title: "Remember Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "rememberme|7FQRbf8gbKw8KZQZAJWxH2|306226",
   song: "song/paul-cardall-remember-me",
   carriedBy: [

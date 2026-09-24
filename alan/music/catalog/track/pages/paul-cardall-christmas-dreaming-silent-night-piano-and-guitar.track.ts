@@ -12,10 +12,7 @@ export const paulCardallChristmasDreamingSilentNightPianoAndGuitar = {
   title: "Silent Night - Piano and Guitar",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2pzgrbowKM8SGmdK3YMcGq", artistName: "Mak Grgic" },
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-  ],
+  trackArtist: [{ artistName: "Mak Grgic" }, { artist: "artist/paul-cardall" }],
   trackKey: "silentnightpianoandguitar|2pzgrbowKM8SGmdK3YMcGq,7FQRbf8gbKw8KZQZAJWxH2|265584",
   song: "song/paul-cardall-silent-night-piano-and-guitar",
   carriedBy: [

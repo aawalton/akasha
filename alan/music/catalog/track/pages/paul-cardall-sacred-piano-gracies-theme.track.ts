@@ -12,7 +12,7 @@ export const paulCardallSacredPianoGraciesTheme = {
   title: "Gracie's Theme",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "graciestheme|7FQRbf8gbKw8KZQZAJWxH2|259359",
   song: "song/paul-cardall-gracies-theme",
   carriedBy: [

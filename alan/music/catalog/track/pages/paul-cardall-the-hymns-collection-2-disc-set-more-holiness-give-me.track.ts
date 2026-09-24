@@ -12,7 +12,7 @@ export const paulCardallTheHymnsCollection2DiscSetMoreHolinessGiveMe = {
   title: "More Holiness Give Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "moreholinessgiveme|7FQRbf8gbKw8KZQZAJWxH2|190615",
   song: "song/paul-cardall-more-holiness-give-me",
   carriedBy: [

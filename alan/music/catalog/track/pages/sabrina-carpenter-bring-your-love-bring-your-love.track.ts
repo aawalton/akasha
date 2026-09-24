@@ -12,10 +12,7 @@ export const sabrinaCarpenterBringYourLoveBringYourLove = {
   title: "Bring Your Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6tbjWDEIzxoDsBA1FuhfPW", artistName: "Madonna" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artistName: "Madonna" }, { artist: "artist/sabrina-carpenter" }],
   trackKey: "bringyourlove|6tbjWDEIzxoDsBA1FuhfPW,74KM79TiuVKeVCqs8QtB0B|216400",
   song: "song/sabrina-carpenter-bring-your-love",
   carriedBy: [

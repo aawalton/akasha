@@ -12,7 +12,7 @@ export const paulCardallFaithfulTheNoise = {
   title: "The Noise",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thenoise|7FQRbf8gbKw8KZQZAJWxH2|322240",
   song: "song/paul-cardall-the-noise",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallReturnHomeSoloPianoVersionIBelieveInChristSoloPianoVersi
   title: "I Believe In Christ - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ibelieveinchristsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|243236",
   song: "song/paul-cardall-i-believe-in-christ",
   carriedBy: [

@@ -15,7 +15,7 @@ export const reneeRappEverythingToEveryoneDeluxeColorado = {
   title: "Colorado",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "colorado|2hUYKu1x0UZQXvzCmggvSn|172845",
   song: "song/renee-rapp-colorado",
   carriedBy: [

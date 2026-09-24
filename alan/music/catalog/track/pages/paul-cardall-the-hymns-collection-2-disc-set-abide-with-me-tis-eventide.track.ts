@@ -12,7 +12,7 @@ export const paulCardallTheHymnsCollection2DiscSetAbideWithMeTisEventide = {
   title: "Abide With Me Tis Eventide",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "abidewithmetiseventide|7FQRbf8gbKw8KZQZAJWxH2|140120",
   song: "song/paul-cardall-abide-with-me-tis-eventide",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallChristmasHymnsCarolOfTheBells = {
   title: "Carol of the Bells",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "carolofthebells|7FQRbf8gbKw8KZQZAJWxH2|326653",
   song: "song/paul-cardall-carol-of-the-bells",
   carriedBy: [

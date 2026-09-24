@@ -12,7 +12,7 @@ export const paulCardallLivingForEdenAprilSkies = {
   title: "April Skies",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "aprilskies|7FQRbf8gbKw8KZQZAJWxH2|214813",
   song: "song/paul-cardall-april-skies",
   carriedBy: [

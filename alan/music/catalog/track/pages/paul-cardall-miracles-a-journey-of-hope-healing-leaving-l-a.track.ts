@@ -12,7 +12,7 @@ export const paulCardallMiraclesAJourneyOfHopeHealingLeavingLA = {
   title: "Leaving L.A.",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "leavingla|7FQRbf8gbKw8KZQZAJWxH2|253066",
   song: "song/paul-cardall-leaving-l-a",
   carriedBy: [

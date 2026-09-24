@@ -12,7 +12,7 @@ export const paulCardallDecemberPianoStringEnsembleLeavingNazareth = {
   title: "Leaving Nazareth",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "leavingnazareth|7FQRbf8gbKw8KZQZAJWxH2|235693",
   song: "song/paul-cardall-leaving-nazareth",
   carriedBy: [

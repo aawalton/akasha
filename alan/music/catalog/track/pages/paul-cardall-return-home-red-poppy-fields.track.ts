@@ -12,7 +12,7 @@ export const paulCardallReturnHomeRedPoppyFields = {
   title: "Red Poppy Fields",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "redpoppyfields|7FQRbf8gbKw8KZQZAJWxH2|240291",
   song: "song/paul-cardall-red-poppy-fields",
   carriedBy: [

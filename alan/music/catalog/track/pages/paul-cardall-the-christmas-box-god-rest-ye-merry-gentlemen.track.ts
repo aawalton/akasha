@@ -12,7 +12,7 @@ export const paulCardallTheChristmasBoxGodRestYeMerryGentlemen = {
   title: "God Rest Ye Merry Gentlemen",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "godrestyemerrygentlemen|7FQRbf8gbKw8KZQZAJWxH2|141173",
   song: "song/paul-cardall-god-rest-ye-merry-gentlemen",
   carriedBy: [

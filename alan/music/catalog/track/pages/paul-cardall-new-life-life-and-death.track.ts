@@ -12,7 +12,7 @@ export const paulCardallNewLifeLifeAndDeath = {
   title: "Life and Death",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "lifeanddeath|7FQRbf8gbKw8KZQZAJWxH2|334320",
   song: "song/paul-cardall-life-and-death",
   carriedBy: [

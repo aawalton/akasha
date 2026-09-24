@@ -12,10 +12,7 @@ export const paulCardallChristmasOHolyNight = {
   title: "O Holy Night",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "3qfrrrSO7utFdJkM2tvMRb", artistName: "CeCe Winans" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "CeCe Winans" }],
   trackKey: "oholynight|3qfrrrSO7utFdJkM2tvMRb,7FQRbf8gbKw8KZQZAJWxH2|427881",
   song: "song/celtic-woman-o-holy-night",
   carriedBy: [

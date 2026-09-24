@@ -12,7 +12,7 @@ export const reneeRappBiteMeGoodGirl = {
   title: "Good Girl",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "goodgirl|2hUYKu1x0UZQXvzCmggvSn|192967",
   song: "song/renee-rapp-good-girl",
   carriedBy: [

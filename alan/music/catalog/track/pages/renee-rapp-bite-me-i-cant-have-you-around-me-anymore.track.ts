@@ -12,7 +12,7 @@ export const reneeRappBiteMeICantHaveYouAroundMeAnymore = {
   title: "I Can’t Have You Around Me Anymore",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "icanthaveyouaroundmeanymore|2hUYKu1x0UZQXvzCmggvSn|164575",
   song: "song/renee-rapp-i-cant-have-you-around-me-anymore",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallChristmasBringATorchJeanetteIsabella = {
   title: "Bring a Torch, Jeanette, Isabella",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "bringatorchjeanetteisabella|7FQRbf8gbKw8KZQZAJWxH2|228661",
   song: "song/paul-cardall-bring-a-torch-jeanette-isabella",
   carriedBy: [

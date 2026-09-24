@@ -12,7 +12,7 @@ export const paulCardallHymnsDayOfRest = {
   title: "Day Of Rest",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "dayofrest|7FQRbf8gbKw8KZQZAJWxH2|157466",
   song: "song/paul-cardall-day-of-rest",
   carriedBy: [

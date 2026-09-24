@@ -12,7 +12,7 @@ export const paulCardallTheChristmasBoxSilentNight = {
   title: "Silent Night",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "silentnight|7FQRbf8gbKw8KZQZAJWxH2|328000",
   song: "song/celtic-woman-silent-night",
   carriedBy: [

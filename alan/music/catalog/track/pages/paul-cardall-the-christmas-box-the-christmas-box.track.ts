@@ -12,7 +12,7 @@ export const paulCardallTheChristmasBoxTheChristmasBox = {
   title: "The Christmas Box",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thechristmasbox|7FQRbf8gbKw8KZQZAJWxH2|107333",
   song: "song/paul-cardall-the-christmas-box",
   carriedBy: [

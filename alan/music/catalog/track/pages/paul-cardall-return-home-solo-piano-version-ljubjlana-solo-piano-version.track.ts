@@ -12,7 +12,7 @@ export const paulCardallReturnHomeSoloPianoVersionLjubjlanaSoloPianoVersion = {
   title: "Ljubjlana - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ljubjlanasolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|233812",
   song: "song/paul-cardall-ljubjlana",
   carriedBy: [

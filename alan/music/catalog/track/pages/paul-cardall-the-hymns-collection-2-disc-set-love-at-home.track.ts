@@ -12,7 +12,7 @@ export const paulCardallTheHymnsCollection2DiscSetLoveAtHome = {
   title: "Love At Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "loveathome|7FQRbf8gbKw8KZQZAJWxH2|228884",
   song: "song/paul-cardall-love-at-home",
   carriedBy: [

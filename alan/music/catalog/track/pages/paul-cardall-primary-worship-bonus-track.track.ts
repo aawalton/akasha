@@ -12,7 +12,7 @@ export const paulCardallPrimaryWorshipBonusTrack = {
   title: "Bonus Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "bonustrack|7FQRbf8gbKw8KZQZAJWxH2|265400",
   song: "song/paul-cardall-bonus-track",
   carriedBy: [

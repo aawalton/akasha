@@ -12,7 +12,7 @@ export const paulCardallLivingForEdenEarlyMonday = {
   title: "Early Monday",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "earlymonday|7FQRbf8gbKw8KZQZAJWxH2|213960",
   song: "song/paul-cardall-early-monday",
   carriedBy: [

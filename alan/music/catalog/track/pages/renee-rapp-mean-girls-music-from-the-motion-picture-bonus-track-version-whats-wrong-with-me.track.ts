@@ -15,7 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionWhatsWr
   title: "What's Wrong With Me?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3TDOodCfi1lLaLi4hDKUFX", artistName: "Bebe Wood" }],
+  trackArtist: [{ artistName: "Bebe Wood" }],
   trackKey: "whatswrongwithme|3TDOodCfi1lLaLi4hDKUFX|99550",
   song: "song/renee-rapp-whats-wrong-with-me",
   carriedBy: [

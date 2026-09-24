@@ -12,7 +12,7 @@ export const paulCardallTheHymnsCollection2DiscSetJesusOfNazarethSaviorAndKing =
   title: "Jesus of Nazareth, Savior and King",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "jesusofnazarethsaviorandking|7FQRbf8gbKw8KZQZAJWxH2|143542",
   song: "song/paul-cardall-jesus-of-nazareth-savior-and-king",
   carriedBy: [

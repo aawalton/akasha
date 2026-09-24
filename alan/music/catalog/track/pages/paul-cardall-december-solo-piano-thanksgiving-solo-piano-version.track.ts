@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoThanksgivingSoloPianoVersion = {
   title: "Thanksgiving - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thanksgivingsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|142186",
   song: "song/paul-cardall-thanksgiving",
   carriedBy: [

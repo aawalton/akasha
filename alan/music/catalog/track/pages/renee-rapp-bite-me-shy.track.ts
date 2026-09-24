@@ -12,7 +12,7 @@ export const reneeRappBiteMeShy = {
   title: "Shy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "shy|2hUYKu1x0UZQXvzCmggvSn|192260",
   song: "song/renee-rapp-shy",
   carriedBy: [

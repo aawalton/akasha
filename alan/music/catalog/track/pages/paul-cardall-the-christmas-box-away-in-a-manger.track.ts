@@ -12,7 +12,7 @@ export const paulCardallTheChristmasBoxAwayInAManger = {
   title: "Away In A Manger",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "awayinamanger|7FQRbf8gbKw8KZQZAJWxH2|175760",
   song: "song/celtic-woman-away-in-a-manger",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallChillCollectionBackToLA = {
   title: "Back to L.A.",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "backtola|7FQRbf8gbKw8KZQZAJWxH2|124160",
   song: "song/paul-cardall-back-to-l-a",
   carriedBy: [

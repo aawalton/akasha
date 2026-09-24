@@ -12,7 +12,7 @@ export const paulCardallReturnHomeShoresOfNormandy = {
   title: "Shores of Normandy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "shoresofnormandy|7FQRbf8gbKw8KZQZAJWxH2|260484",
   song: "song/paul-cardall-shores-of-normandy",
   carriedBy: [

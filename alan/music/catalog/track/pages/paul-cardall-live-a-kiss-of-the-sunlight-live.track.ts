@@ -12,7 +12,7 @@ export const paulCardallLiveAKissOfTheSunlightLive = {
   title: "A Kiss Of The Sunlight - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "akissofthesunlightlive|7FQRbf8gbKw8KZQZAJWxH2|224146",
   song: "song/paul-cardall-a-kiss-of-the-sunlight",
   carriedBy: [

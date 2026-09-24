@@ -16,10 +16,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionNotMyFa
   title: "Not My Fault (with Megan Thee Stallion)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" },
-    { externalId: "181bsRPaVXVlUKXrxwZfHK", artistName: "Megan Thee Stallion" },
-  ],
+  trackArtist: [{ artist: "artist/renee-rapp" }, { artistName: "Megan Thee Stallion" }],
   trackKey: "notmyfaultwithmegantheestallion|181bsRPaVXVlUKXrxwZfHK,2hUYKu1x0UZQXvzCmggvSn|170528",
   song: "song/renee-rapp-not-my-fault",
   carriedBy: [

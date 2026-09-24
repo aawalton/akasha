@@ -12,7 +12,7 @@ export const paulCardallReturnHomeFathersAndDaughters = {
   title: "Fathers and Daughters",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "fathersanddaughters|7FQRbf8gbKw8KZQZAJWxH2|255957",
   song: "song/paul-cardall-fathers-and-daughters",
   carriedBy: [

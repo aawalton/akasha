@@ -12,7 +12,7 @@ export const reneeRappBiteMeAtLeastImHot = {
   title: "At Least I’m Hot",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "atleastimhot|2hUYKu1x0UZQXvzCmggvSn|154151",
   song: "song/renee-rapp-at-least-im-hot",
   carriedBy: [

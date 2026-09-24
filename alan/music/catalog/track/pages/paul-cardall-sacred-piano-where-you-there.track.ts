@@ -12,7 +12,7 @@ export const paulCardallSacredPianoWhereYouThere = {
   title: "Where You There?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "whereyouthere|7FQRbf8gbKw8KZQZAJWxH2|315493",
   song: "song/paul-cardall-where-you-there",
   carriedBy: [

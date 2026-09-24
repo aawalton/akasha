@@ -12,7 +12,7 @@ export const paulCardallSongsOfPraiseAgnusDei = {
   title: "Agnus Dei",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "agnusdei|7FQRbf8gbKw8KZQZAJWxH2|355640",
   song: "song/paul-cardall-agnus-dei",
   carriedBy: [

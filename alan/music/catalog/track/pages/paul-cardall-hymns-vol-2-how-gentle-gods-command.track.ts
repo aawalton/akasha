@@ -12,7 +12,7 @@ export const paulCardallHymnsVol2HowGentleGodsCommand = {
   title: "How Gentle God's Command",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "howgentlegodscommand|7FQRbf8gbKw8KZQZAJWxH2|140080",
   song: "song/paul-cardall-how-gentle-gods-command",
   carriedBy: [

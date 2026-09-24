@@ -12,7 +12,7 @@ export const paulCardallNewLifeTheTraveler = {
   title: "The Traveler",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thetraveler|7FQRbf8gbKw8KZQZAJWxH2|101826",
   song: "song/paul-cardall-the-traveler",
   carriedBy: [

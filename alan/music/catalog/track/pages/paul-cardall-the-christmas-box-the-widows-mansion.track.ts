@@ -12,7 +12,7 @@ export const paulCardallTheChristmasBoxTheWidowsMansion = {
   title: "The Widow's Mansion",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thewidowsmansion|7FQRbf8gbKw8KZQZAJWxH2|207506",
   song: "song/paul-cardall-the-widows-mansion",
   carriedBy: [

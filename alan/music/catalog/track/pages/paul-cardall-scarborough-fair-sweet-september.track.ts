@@ -12,7 +12,7 @@ export const paulCardallScarboroughFairSweetSeptember = {
   title: "Sweet September",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "sweetseptember|7FQRbf8gbKw8KZQZAJWxH2|181093",
   song: "song/paul-cardall-sweet-september",
   carriedBy: [

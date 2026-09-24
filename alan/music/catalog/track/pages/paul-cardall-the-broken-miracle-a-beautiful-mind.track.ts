@@ -12,7 +12,7 @@ export const paulCardallTheBrokenMiracleABeautifulMind = {
   title: "A Beautiful Mind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "abeautifulmind|7FQRbf8gbKw8KZQZAJWxH2|68146",
   song: "song/paul-cardall-a-beautiful-mind",
   carriedBy: [

@@ -12,7 +12,7 @@ export const reneeRappEverythingToEveryoneDeluxeBruises = {
   title: "Bruises",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "bruises|2hUYKu1x0UZQXvzCmggvSn|161469",
   song: "song/renee-rapp-bruises",
   carriedBy: [

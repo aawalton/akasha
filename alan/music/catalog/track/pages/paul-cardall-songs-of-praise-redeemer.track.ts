@@ -12,7 +12,7 @@ export const paulCardallSongsOfPraiseRedeemer = {
   title: "Redeemer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "redeemer|7FQRbf8gbKw8KZQZAJWxH2|350960",
   song: "song/paul-cardall-redeemer",
   carriedBy: [

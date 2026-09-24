@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoDecemberSoloPianoVersion = {
   title: "December - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "decembersolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|185000",
   song: "song/paul-cardall-december",
   carriedBy: [

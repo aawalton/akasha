@@ -12,7 +12,7 @@ export const paulCardallLiveTheWidowsMansionLive = {
   title: "The Widow's Mansion - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thewidowsmansionlive|7FQRbf8gbKw8KZQZAJWxH2|217906",
   song: "song/paul-cardall-the-widows-mansion",
   carriedBy: [

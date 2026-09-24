@@ -12,7 +12,7 @@ export const paulCardallDailyDevotionsHowGreatThouArt = {
   title: "How Great Thou Art",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "howgreatthouart|7FQRbf8gbKw8KZQZAJWxH2|205346",
   song: "song/paul-cardall-how-great-thou-art",
   carriedBy: [

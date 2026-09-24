@@ -12,7 +12,7 @@ export const paulCardallSongsOfPraiseDeeper = {
   title: "Deeper",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "deeper|7FQRbf8gbKw8KZQZAJWxH2|215053",
   song: "song/paul-cardall-deeper",
   carriedBy: [

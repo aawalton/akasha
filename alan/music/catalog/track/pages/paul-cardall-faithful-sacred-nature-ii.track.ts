@@ -12,7 +12,7 @@ export const paulCardallFaithfulSacredNatureIi = {
   title: "Sacred Nature II",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "sacrednatureii|7FQRbf8gbKw8KZQZAJWxH2|236000",
   song: "song/paul-cardall-sacred-nature-ii",
   carriedBy: [

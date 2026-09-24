@@ -12,7 +12,7 @@ export const paulCardallNewLifeLettingGo = {
   title: "Letting Go",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "lettinggo|7FQRbf8gbKw8KZQZAJWxH2|413213",
   song: "song/paul-cardall-letting-go",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallTheCelebrateLifeConcertLiveLiveToLoveLive = {
   title: "Live to Love - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "livetolovelive|7FQRbf8gbKw8KZQZAJWxH2|201953",
   song: "song/paul-cardall-live-to-love",
   carriedBy: [

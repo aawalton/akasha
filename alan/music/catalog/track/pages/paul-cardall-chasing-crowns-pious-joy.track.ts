@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsPiousJoy = {
   title: "Pious Joy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "piousjoy|7FQRbf8gbKw8KZQZAJWxH2|230500",
   song: "song/paul-cardall-pious-joy",
   carriedBy: [

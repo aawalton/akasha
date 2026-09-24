@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoSilverleafWinds = {
   title: "Silverleaf Winds",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "silverleafwinds|7FQRbf8gbKw8KZQZAJWxH2|173080",
   song: "song/paul-cardall-silverleaf-winds",
   carriedBy: [

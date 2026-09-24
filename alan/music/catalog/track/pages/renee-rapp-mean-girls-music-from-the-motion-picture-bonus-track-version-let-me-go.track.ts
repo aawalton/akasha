@@ -14,7 +14,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionLetMeGo
   title: "Let Me Go",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4jgDZnxIF0VovlrnTqWcA4", artistName: "Nahscha" }],
+  trackArtist: [{ artistName: "Nahscha" }],
   trackKey: "letmego|4jgDZnxIF0VovlrnTqWcA4|116378",
   song: "song/renee-rapp-let-me-go",
   carriedBy: [

@@ -13,9 +13,9 @@ export const sabrinaCarpenterBringYourLoveHoneyDijonRemixesBringYourLovePeaktime
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "6tbjWDEIzxoDsBA1FuhfPW", artistName: "Madonna" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "0XfQBWgzisaS9ltDV9bXAS", artistName: "Honey Dijon" },
+    { artistName: "Madonna" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "Honey Dijon" },
   ],
   trackKey:
     "bringyourlovepeaktimedubremix|0XfQBWgzisaS9ltDV9bXAS,6tbjWDEIzxoDsBA1FuhfPW,74KM79TiuVKeVCqs8QtB0B|269641",

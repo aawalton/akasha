@@ -15,7 +15,7 @@ export const reneeRappEverythingToEveryoneDeluxeTooWell = {
   title: "Too Well",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "toowell|2hUYKu1x0UZQXvzCmggvSn|156631",
   song: "song/renee-rapp-too-well",
   carriedBy: [

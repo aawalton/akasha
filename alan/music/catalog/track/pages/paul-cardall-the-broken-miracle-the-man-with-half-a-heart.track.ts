@@ -12,10 +12,7 @@ export const paulCardallTheBrokenMiracleTheManWithHalfAHeart = {
   title: "The Man with Half a Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "0Bvs8yPjrQSbmVIRqSg1Sp", artistName: "Thompson Square" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Thompson Square" }],
   trackKey: "themanwithhalfaheart|0Bvs8yPjrQSbmVIRqSg1Sp,7FQRbf8gbKw8KZQZAJWxH2|259385",
   song: "song/paul-cardall-the-man-with-half-a-heart",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallHymnsGodBeWithYouTillWeMeetAgain = {
   title: "God Be With You Till We Meet Again",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "godbewithyoutillwemeetagain|7FQRbf8gbKw8KZQZAJWxH2|197680",
   song: "song/paul-cardall-god-be-with-you-till-we-meet-again",
   carriedBy: [

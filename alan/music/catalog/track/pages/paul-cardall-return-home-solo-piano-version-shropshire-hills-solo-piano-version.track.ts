@@ -12,7 +12,7 @@ export const paulCardallReturnHomeSoloPianoVersionShropshireHillsSoloPianoVersio
   title: "Shropshire Hills - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "shropshirehillssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|190500",
   song: "song/paul-cardall-shropshire-hills",
   carriedBy: [

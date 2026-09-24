@@ -12,7 +12,7 @@ export const paulCardallTheBrokenMiracleGodReligion = {
   title: "God & Religion",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "godreligion|7FQRbf8gbKw8KZQZAJWxH2|159173",
   song: "song/paul-cardall-god-religion",
   carriedBy: [

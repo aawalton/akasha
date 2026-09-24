@@ -15,7 +15,7 @@ export const paulCardallGracieSThemeLiveGraciesThemeLive = {
   title: "Gracie's Theme - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "graciesthemelive|7FQRbf8gbKw8KZQZAJWxH2|301094",
   song: "song/paul-cardall-gracies-theme",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsChasingCrowns = {
   title: "Chasing Crowns",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "chasingcrowns|7FQRbf8gbKw8KZQZAJWxH2|218840",
   song: "song/paul-cardall-chasing-crowns",
   carriedBy: [

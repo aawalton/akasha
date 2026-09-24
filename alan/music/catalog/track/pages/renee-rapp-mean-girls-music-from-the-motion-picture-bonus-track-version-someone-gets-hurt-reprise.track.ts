@@ -14,7 +14,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionSomeone
   title: "Someone Gets Hurt - Reprise",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "5mnS9jJdKQQcRSqFu5YPVe", artistName: "Auli'i Cravalho" }],
+  trackArtist: [{ artistName: "Auli'i Cravalho" }],
   trackKey: "someonegetshurtreprise|5mnS9jJdKQQcRSqFu5YPVe|50646",
   song: "song/renee-rapp-someone-gets-hurt",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallSongsOfPraiseBreathe = {
   title: "Breathe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "breathe|7FQRbf8gbKw8KZQZAJWxH2|358720",
   song: "song/paul-cardall-breathe",
   carriedBy: [

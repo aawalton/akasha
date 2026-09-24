@@ -12,7 +12,7 @@ export const paulCardallChillCollectionNovember = {
   title: "November",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "november|7FQRbf8gbKw8KZQZAJWxH2|206628",
   song: "song/paul-cardall-november",
   carriedBy: [

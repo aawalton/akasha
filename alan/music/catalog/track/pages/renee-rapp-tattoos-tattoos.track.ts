@@ -12,7 +12,7 @@ export const reneeRappTattoosTattoos = {
   title: "Tattoos",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "tattoos|2hUYKu1x0UZQXvzCmggvSn|173026",
   song: "song/renee-rapp-tattoos",
   carriedBy: [

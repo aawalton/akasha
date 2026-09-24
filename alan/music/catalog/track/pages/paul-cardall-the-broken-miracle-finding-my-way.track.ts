@@ -12,7 +12,7 @@ export const paulCardallTheBrokenMiracleFindingMyWay = {
   title: "Finding My Way",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "findingmyway|7FQRbf8gbKw8KZQZAJWxH2|263080",
   song: "song/paul-cardall-finding-my-way",
   carriedBy: [

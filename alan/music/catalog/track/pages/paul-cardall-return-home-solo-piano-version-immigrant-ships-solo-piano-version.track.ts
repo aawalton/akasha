@@ -12,7 +12,7 @@ export const paulCardallReturnHomeSoloPianoVersionImmigrantShipsSoloPianoVersion
   title: "Immigrant Ships - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "immigrantshipssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|193500",
   song: "song/paul-cardall-immigrant-ships",
   carriedBy: [

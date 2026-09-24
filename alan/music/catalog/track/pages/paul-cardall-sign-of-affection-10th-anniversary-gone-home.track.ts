@@ -12,7 +12,7 @@ export const paulCardallSignOfAffection10thAnniversaryGoneHome = {
   title: "Gone Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "gonehome|7FQRbf8gbKw8KZQZAJWxH2|151640",
   song: "song/paul-cardall-gone-home",
   carriedBy: [

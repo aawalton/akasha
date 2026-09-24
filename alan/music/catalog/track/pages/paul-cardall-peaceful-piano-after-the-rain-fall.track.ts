@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoAfterTheRainFall = {
   title: "After the Rain Fall",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "aftertherainfall|7FQRbf8gbKw8KZQZAJWxH2|280986",
   song: "song/paul-cardall-after-the-rain-fall",
   carriedBy: [

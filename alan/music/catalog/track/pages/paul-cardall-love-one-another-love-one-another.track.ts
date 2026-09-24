@@ -12,7 +12,7 @@ export const paulCardallLoveOneAnotherLoveOneAnother = {
   title: "Love One Another",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "loveoneanother|7FQRbf8gbKw8KZQZAJWxH2|240831",
   song: "song/paul-cardall-love-one-another",
   carriedBy: [

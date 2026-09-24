@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxeTheWeddingSong = {
   title: "The Wedding Song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "theweddingsong|2hUYKu1x0UZQXvzCmggvSn|183339",
   song: "song/renee-rapp-the-wedding-song",
   carriedBy: [

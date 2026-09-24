@@ -12,7 +12,7 @@ export const paulCardallLiveGoneHomeLiveToLoveLive = {
   title: "Gone Home/Live To Love - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "gonehomelivetolovelive|7FQRbf8gbKw8KZQZAJWxH2|246853",
   song: "song/paul-cardall-gone-home-live-to-love",
   carriedBy: [

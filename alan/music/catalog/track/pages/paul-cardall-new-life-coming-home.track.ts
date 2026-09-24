@@ -12,7 +12,7 @@ export const paulCardallNewLifeComingHome = {
   title: "Coming Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "cominghome|7FQRbf8gbKw8KZQZAJWxH2|126120",
   song: "song/paul-cardall-coming-home",
   carriedBy: [

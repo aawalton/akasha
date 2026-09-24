@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoFirstSnowSoloPianoVersion = {
   title: "First Snow - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "firstsnowsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|202266",
   song: "song/paul-cardall-first-snow",
   carriedBy: [

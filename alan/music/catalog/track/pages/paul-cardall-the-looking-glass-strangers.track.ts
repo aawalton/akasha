@@ -12,7 +12,7 @@ export const paulCardallTheLookingGlassStrangers = {
   title: "Strangers",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "strangers|7FQRbf8gbKw8KZQZAJWxH2|230306",
   song: "song/paul-cardall-strangers",
   carriedBy: [

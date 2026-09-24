@@ -15,7 +15,7 @@ export const paulCardallDecemberPianoStringEnsembleThanksgiving = {
   title: "Thanksgiving",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thanksgiving|7FQRbf8gbKw8KZQZAJWxH2|141573",
   song: "song/paul-cardall-thanksgiving",
   carriedBy: [

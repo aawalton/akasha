@@ -12,7 +12,7 @@ export const paulCardallHymnsHowGreatTheWisdomAndTheLove = {
   title: "How Great The Wisdom And The Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "howgreatthewisdomandthelove|7FQRbf8gbKw8KZQZAJWxH2|144480",
   song: "song/paul-cardall-how-great-the-wisdom-and-the-love",
   carriedBy: [

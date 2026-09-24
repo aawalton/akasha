@@ -15,10 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionACautio
   title: "A Cautionary Tale",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5mnS9jJdKQQcRSqFu5YPVe", artistName: "Auli'i Cravalho" },
-    { externalId: "0yVQ12rLMfkMNfudo6SFdI", artistName: "Jaquel Spivey" },
-  ],
+  trackArtist: [{ artistName: "Auli'i Cravalho" }, { artistName: "Jaquel Spivey" }],
   trackKey: "acautionarytale|0yVQ12rLMfkMNfudo6SFdI,5mnS9jJdKQQcRSqFu5YPVe|68692",
   song: "song/renee-rapp-a-cautionary-tale",
   carriedBy: [

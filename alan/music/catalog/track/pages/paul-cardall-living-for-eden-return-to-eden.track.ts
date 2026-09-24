@@ -12,7 +12,7 @@ export const paulCardallLivingForEdenReturnToEden = {
   title: "Return To Eden",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "returntoeden|7FQRbf8gbKw8KZQZAJWxH2|213946",
   song: "song/paul-cardall-return-to-eden",
   carriedBy: [

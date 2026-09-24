@@ -12,7 +12,7 @@ export const paulCardallReturnHomeReturnHome = {
   title: "Return Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "returnhome|7FQRbf8gbKw8KZQZAJWxH2|155754",
   song: "song/paul-cardall-return-home",
   carriedBy: [

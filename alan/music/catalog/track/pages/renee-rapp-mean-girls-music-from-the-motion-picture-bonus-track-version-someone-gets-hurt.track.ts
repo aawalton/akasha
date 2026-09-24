@@ -15,7 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionSomeone
   title: "Someone Gets Hurt",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "someonegetshurt|2hUYKu1x0UZQXvzCmggvSn|182814",
   song: "song/renee-rapp-someone-gets-hurt",
   carriedBy: [

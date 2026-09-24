@@ -12,7 +12,7 @@ export const paulCardallSleepSleepNremStage1 = {
   title: "Sleep NREM Stage 1",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "sleepnremstage1|7FQRbf8gbKw8KZQZAJWxH2|1292194",
   song: "song/paul-cardall-sleep-nrem-stage-1",
   carriedBy: [

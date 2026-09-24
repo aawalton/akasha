@@ -12,7 +12,7 @@ export const reneeRappBiteMeLeaveMeAlone = {
   title: "Leave Me Alone",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "leavemealone|2hUYKu1x0UZQXvzCmggvSn|141738",
   song: "song/renee-rapp-leave-me-alone",
   carriedBy: [

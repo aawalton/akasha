@@ -12,10 +12,7 @@ export const paulCardallTheBrokenMiracleMyHeartBeatsForYou = {
   title: "My Heart Beats for You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "2C9n4tQgNLhHPhSCmdsQnk", artistName: "David Archuleta" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "David Archuleta" }],
   trackKey: "myheartbeatsforyou|2C9n4tQgNLhHPhSCmdsQnk,7FQRbf8gbKw8KZQZAJWxH2|214146",
   song: "song/paul-cardall-my-heart-beats-for-you",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallLivingForEdenLateAfternoon = {
   title: "Late Afternoon",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "lateafternoon|7FQRbf8gbKw8KZQZAJWxH2|224480",
   song: "song/paul-cardall-late-afternoon",
   carriedBy: [

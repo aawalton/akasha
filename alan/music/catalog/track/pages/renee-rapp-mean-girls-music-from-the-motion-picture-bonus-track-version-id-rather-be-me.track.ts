@@ -15,10 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionIdRathe
   title: "I'd Rather Be Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5mnS9jJdKQQcRSqFu5YPVe", artistName: "Auli'i Cravalho" },
-    { externalId: "6Ve5oEOT8RbNXWHfsZpICN", artistName: "Cast of Mean Girls" },
-  ],
+  trackArtist: [{ artistName: "Auli'i Cravalho" }, { artistName: "Cast of Mean Girls" }],
   trackKey: "idratherbeme|5mnS9jJdKQQcRSqFu5YPVe,6Ve5oEOT8RbNXWHfsZpICN|176515",
   song: "song/renee-rapp-id-rather-be-me",
   carriedBy: [

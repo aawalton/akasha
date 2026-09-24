@@ -12,7 +12,7 @@ export const reneeRappBiteMeWhyIsSheStillHere = {
   title: "Why Is She Still Here?",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "whyisshestillhere|2hUYKu1x0UZQXvzCmggvSn|150255",
   song: "song/renee-rapp-why-is-she-still-here",
   carriedBy: [

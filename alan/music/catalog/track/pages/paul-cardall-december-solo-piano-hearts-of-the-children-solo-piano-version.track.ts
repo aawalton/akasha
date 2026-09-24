@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoHeartsOfTheChildrenSoloPianoVersion = {
   title: "Hearts of The Children - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "heartsofthechildrensolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|149426",
   song: "song/paul-cardall-hearts-of-the-children",
   carriedBy: [

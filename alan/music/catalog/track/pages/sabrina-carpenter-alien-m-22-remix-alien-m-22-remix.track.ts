@@ -13,9 +13,9 @@ export const sabrinaCarpenterAlienM22RemixAlienM22Remix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "1HBjj22wzbscIZ9sEb5dyf", artistName: "Jonas Blue" },
-    { externalId: "4WFtYn5RyU8VGPpPyW9Pxw", artistName: "M-22" },
+    { artist: "artist/sabrina-carpenter" },
+    { artistName: "Jonas Blue" },
+    { artistName: "M-22" },
   ],
   trackKey:
     "alienm22remix|1HBjj22wzbscIZ9sEb5dyf,4WFtYn5RyU8VGPpPyW9Pxw,74KM79TiuVKeVCqs8QtB0B|205199",

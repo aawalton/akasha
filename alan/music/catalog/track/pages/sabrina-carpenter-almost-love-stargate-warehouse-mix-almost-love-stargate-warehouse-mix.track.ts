@@ -12,7 +12,7 @@ export const sabrinaCarpenterAlmostLoveStargateWarehouseMixAlmostLoveStargateWar
   title: "Almost Love - Stargate Warehouse Mix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "almostlovestargatewarehousemix|74KM79TiuVKeVCqs8QtB0B|200341",
   song: "song/sabrina-carpenter-almost-love",
   carriedBy: [

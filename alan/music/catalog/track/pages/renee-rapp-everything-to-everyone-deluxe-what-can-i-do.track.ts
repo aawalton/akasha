@@ -15,7 +15,7 @@ export const reneeRappEverythingToEveryoneDeluxeWhatCanIDo = {
   title: "What Can I Do",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "whatcanido|2hUYKu1x0UZQXvzCmggvSn|167689",
   song: "song/renee-rapp-what-can-i-do",
   carriedBy: [

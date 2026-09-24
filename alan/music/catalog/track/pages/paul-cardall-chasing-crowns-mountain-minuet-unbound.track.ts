@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsMountainMinuetUnbound = {
   title: "Mountain Minuet Unbound",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "mountainminuetunbound|7FQRbf8gbKw8KZQZAJWxH2|216250",
   song: "song/paul-cardall-mountain-minuet-unbound",
   carriedBy: [

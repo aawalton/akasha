@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsAscensusDeMetus = {
   title: "Ascensus de Metus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ascensusdemetus|7FQRbf8gbKw8KZQZAJWxH2|245500",
   song: "song/paul-cardall-ascensus-de-metus",
   carriedBy: [

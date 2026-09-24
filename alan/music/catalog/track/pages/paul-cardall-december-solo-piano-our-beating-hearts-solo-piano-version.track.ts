@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoOurBeatingHeartsSoloPianoVersion = {
   title: "Our Beating Hearts - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ourbeatingheartssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|208080",
   song: "song/paul-cardall-our-beating-hearts",
   carriedBy: [

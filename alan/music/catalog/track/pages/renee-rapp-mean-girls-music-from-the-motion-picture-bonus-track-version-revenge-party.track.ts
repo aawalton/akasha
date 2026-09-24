@@ -16,11 +16,11 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionRevenge
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "5mnS9jJdKQQcRSqFu5YPVe", artistName: "Auli'i Cravalho" },
-    { externalId: "0yVQ12rLMfkMNfudo6SFdI", artistName: "Jaquel Spivey" },
-    { externalId: "2WBxsfNZRSQriRDgDgWkTO", artistName: "Angourie Rice" },
-    { externalId: "5ll9FhxzUEG7Bl9LAjPX4E", artistName: "Tim Meadows" },
-    { externalId: "6Ve5oEOT8RbNXWHfsZpICN", artistName: "Cast of Mean Girls" },
+    { artistName: "Auli'i Cravalho" },
+    { artistName: "Jaquel Spivey" },
+    { artistName: "Angourie Rice" },
+    { artistName: "Tim Meadows" },
+    { artistName: "Cast of Mean Girls" },
   ],
   trackKey:
     "revengeparty|0yVQ12rLMfkMNfudo6SFdI,2WBxsfNZRSQriRDgDgWkTO,5ll9FhxzUEG7Bl9LAjPX4E,5mnS9jJdKQQcRSqFu5YPVe,6Ve5oEOT8RbNXWHfsZpICN|285221",

@@ -12,7 +12,7 @@ export const paulCardallSacredPianoLiveToLove = {
   title: "Live to Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "livetolove|7FQRbf8gbKw8KZQZAJWxH2|212240",
   song: "song/paul-cardall-live-to-love",
   carriedBy: [

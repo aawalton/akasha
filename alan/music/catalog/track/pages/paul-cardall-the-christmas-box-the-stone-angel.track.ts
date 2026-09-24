@@ -12,7 +12,7 @@ export const paulCardallTheChristmasBoxTheStoneAngel = {
   title: "The Stone Angel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thestoneangel|7FQRbf8gbKw8KZQZAJWxH2|195960",
   song: "song/paul-cardall-the-stone-angel",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoDanceOfTheLiving = {
   title: "Dance of the Living",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "danceoftheliving|7FQRbf8gbKw8KZQZAJWxH2|215266",
   song: "song/paul-cardall-dance-of-the-living",
   carriedBy: [

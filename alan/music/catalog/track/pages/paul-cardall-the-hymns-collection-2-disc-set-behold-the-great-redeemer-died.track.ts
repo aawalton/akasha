@@ -12,7 +12,7 @@ export const paulCardallTheHymnsCollection2DiscSetBeholdTheGreatRedeemerDied = {
   title: "Behold, the Great Redeemer Died",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "beholdthegreatredeemerdied|7FQRbf8gbKw8KZQZAJWxH2|243435",
   song: "song/paul-cardall-behold-the-great-redeemer-died",
   carriedBy: [

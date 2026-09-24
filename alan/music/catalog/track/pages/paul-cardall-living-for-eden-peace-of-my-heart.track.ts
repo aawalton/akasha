@@ -12,7 +12,7 @@ export const paulCardallLivingForEdenPeaceOfMyHeart = {
   title: "Peace Of My Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "peaceofmyheart|7FQRbf8gbKw8KZQZAJWxH2|237626",
   song: "song/paul-cardall-peace-of-my-heart",
   carriedBy: [

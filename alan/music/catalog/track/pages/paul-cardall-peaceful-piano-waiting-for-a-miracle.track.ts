@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoWaitingForAMiracle = {
   title: "Waiting for a Miracle",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "waitingforamiracle|7FQRbf8gbKw8KZQZAJWxH2|215840",
   song: "song/paul-cardall-waiting-for-a-miracle",
   carriedBy: [

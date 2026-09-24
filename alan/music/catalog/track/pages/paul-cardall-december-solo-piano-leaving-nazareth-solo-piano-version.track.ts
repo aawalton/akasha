@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoLeavingNazarethSoloPianoVersion = {
   title: "Leaving Nazareth - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "leavingnazarethsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|235546",
   song: "song/paul-cardall-leaving-nazareth",
   carriedBy: [

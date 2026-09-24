@@ -15,7 +15,7 @@ export const paulCardallBeCalmBrainHealthyMusicTopaz = {
   title: "Topaz",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "topaz|7FQRbf8gbKw8KZQZAJWxH2|162246",
   song: "song/paul-cardall-topaz",
   carriedBy: [

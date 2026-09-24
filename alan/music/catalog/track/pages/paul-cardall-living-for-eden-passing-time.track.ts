@@ -15,7 +15,7 @@ export const paulCardallLivingForEdenPassingTime = {
   title: "Passing Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "passingtime|7FQRbf8gbKw8KZQZAJWxH2|238626",
   song: "song/paul-cardall-passing-time",
   carriedBy: [

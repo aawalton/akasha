@@ -12,7 +12,7 @@ export const paulCardallTheCelebrateLifeConcertLiveWasatchLive = {
   title: "Wasatch - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "wasatchlive|7FQRbf8gbKw8KZQZAJWxH2|220448",
   song: "song/paul-cardall-wasatch",
   carriedBy: [

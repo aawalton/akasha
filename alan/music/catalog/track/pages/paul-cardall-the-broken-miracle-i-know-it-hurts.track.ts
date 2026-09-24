@@ -12,10 +12,7 @@ export const paulCardallTheBrokenMiracleIKnowItHurts = {
   title: "I Know It Hurts",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "5XCujjq919BFXTnjyyDpiE", artistName: "Tyler Glenn" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Tyler Glenn" }],
   trackKey: "iknowithurts|5XCujjq919BFXTnjyyDpiE,7FQRbf8gbKw8KZQZAJWxH2|221920",
   song: "song/paul-cardall-i-know-it-hurts",
   carriedBy: [

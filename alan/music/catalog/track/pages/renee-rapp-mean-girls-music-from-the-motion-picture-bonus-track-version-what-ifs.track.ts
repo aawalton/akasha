@@ -15,7 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionWhatIfs
   title: "What Ifs",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2WBxsfNZRSQriRDgDgWkTO", artistName: "Angourie Rice" }],
+  trackArtist: [{ artistName: "Angourie Rice" }],
   trackKey: "whatifs|2WBxsfNZRSQriRDgDgWkTO|118187",
   song: "song/renee-rapp-what-ifs",
   carriedBy: [

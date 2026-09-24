@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoOutOfTheAshes = {
   title: "Out of the Ashes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "outoftheashes|7FQRbf8gbKw8KZQZAJWxH2|221373",
   song: "song/paul-cardall-out-of-the-ashes",
   carriedBy: [

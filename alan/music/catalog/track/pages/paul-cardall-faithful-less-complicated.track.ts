@@ -12,7 +12,7 @@ export const paulCardallFaithfulLessComplicated = {
   title: "Less Complicated",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "lesscomplicated|7FQRbf8gbKw8KZQZAJWxH2|260000",
   song: "song/paul-cardall-less-complicated",
   carriedBy: [

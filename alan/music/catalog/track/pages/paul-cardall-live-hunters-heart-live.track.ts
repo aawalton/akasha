@@ -12,7 +12,7 @@ export const paulCardallLiveHuntersHeartLive = {
   title: "Hunter's Heart - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "huntersheartlive|7FQRbf8gbKw8KZQZAJWxH2|210613",
   song: "song/paul-cardall-hunters-heart",
   carriedBy: [

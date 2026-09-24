@@ -12,7 +12,7 @@ export const paulCardallHymnsVol2JourneyWithin = {
   title: "Journey Within",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "journeywithin|7FQRbf8gbKw8KZQZAJWxH2|285800",
   song: "song/paul-cardall-journey-within",
   carriedBy: [

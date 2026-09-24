@@ -12,10 +12,7 @@ export const paulCardallTheBrokenMiracleTheBrokenMiracle = {
   title: "The Broken Miracle",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "0o77vi5tCsW348tzvdjNPw", artistName: "Matt Hammitt" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Matt Hammitt" }],
   trackKey: "thebrokenmiracle|0o77vi5tCsW348tzvdjNPw,7FQRbf8gbKw8KZQZAJWxH2|192946",
   song: "song/paul-cardall-the-broken-miracle",
   carriedBy: [

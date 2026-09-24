@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxeIWish = {
   title: "I Wish",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "iwish|2hUYKu1x0UZQXvzCmggvSn|223061",
   song: "song/renee-rapp-i-wish",
   carriedBy: [

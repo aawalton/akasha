@@ -12,7 +12,7 @@ export const paulCardallPrimaryWorshipBookOfMormonStories = {
   title: "Book of Mormon Stories",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "bookofmormonstories|7FQRbf8gbKw8KZQZAJWxH2|407333",
   song: "song/paul-cardall-book-of-mormon-stories",
   carriedBy: [

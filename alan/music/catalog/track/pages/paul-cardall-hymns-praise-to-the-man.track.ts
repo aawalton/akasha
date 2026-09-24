@@ -12,7 +12,7 @@ export const paulCardallHymnsPraiseToTheMan = {
   title: "Praise To The Man",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "praisetotheman|7FQRbf8gbKw8KZQZAJWxH2|130746",
   song: "song/paul-cardall-praise-to-the-man",
   carriedBy: [

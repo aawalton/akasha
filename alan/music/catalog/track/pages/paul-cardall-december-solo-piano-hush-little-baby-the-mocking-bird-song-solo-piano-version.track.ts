@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoHushLittleBabyTheMockingBirdSongSoloPia
   title: "Hush Little Baby (The Mocking Bird Song) - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "hushlittlebabythemockingbirdsongsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|146013",
   song: "song/paul-cardall-hush-little-baby-the-mocking-bird-song",
   carriedBy: [

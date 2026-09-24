@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoOnMyWayHome = {
   title: "On My Way Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "onmywayhome|7FQRbf8gbKw8KZQZAJWxH2|231840",
   song: "song/paul-cardall-on-my-way-home",
   carriedBy: [

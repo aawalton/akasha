@@ -12,10 +12,7 @@ export const paulCardallTheBrokenMiracleBrokenMachine = {
   title: "Broken Machine",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "7w0qj2HiAPIeUcoPogvOZ6", artistName: "Rachael Yamagata" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Rachael Yamagata" }],
   trackKey: "brokenmachine|7FQRbf8gbKw8KZQZAJWxH2,7w0qj2HiAPIeUcoPogvOZ6|172733",
   song: "song/paul-cardall-broken-machine",
   carriedBy: [

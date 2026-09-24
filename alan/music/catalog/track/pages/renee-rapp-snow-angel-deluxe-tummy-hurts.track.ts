@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxeTummyHurts = {
   title: "Tummy Hurts",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "tummyhurts|2hUYKu1x0UZQXvzCmggvSn|168978",
   song: "song/renee-rapp-tummy-hurts",
   carriedBy: [

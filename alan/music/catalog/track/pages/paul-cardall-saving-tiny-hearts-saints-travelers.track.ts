@@ -12,7 +12,7 @@ export const paulCardallSavingTinyHeartsSaintsTravelers = {
   title: "Saints & Travelers",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "saintstravelers|7FQRbf8gbKw8KZQZAJWxH2|93786",
   song: "song/paul-cardall-saints-travelers",
   carriedBy: [

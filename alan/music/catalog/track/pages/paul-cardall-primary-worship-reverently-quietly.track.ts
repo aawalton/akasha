@@ -12,7 +12,7 @@ export const paulCardallPrimaryWorshipReverentlyQuietly = {
   title: "Reverently Quietly",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "reverentlyquietly|7FQRbf8gbKw8KZQZAJWxH2|189213",
   song: "song/paul-cardall-reverently-quietly",
   carriedBy: [

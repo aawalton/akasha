@@ -12,7 +12,7 @@ export const paulCardallDecemberPianoStringEnsembleAdventPrayer = {
   title: "Advent Prayer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "adventprayer|7FQRbf8gbKw8KZQZAJWxH2|238960",
   song: "song/paul-cardall-advent-prayer",
   carriedBy: [

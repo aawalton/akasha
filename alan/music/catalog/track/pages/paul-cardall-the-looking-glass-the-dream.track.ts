@@ -12,7 +12,7 @@ export const paulCardallTheLookingGlassTheDream = {
   title: "The Dream",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thedream|7FQRbf8gbKw8KZQZAJWxH2|214933",
   song: "song/paul-cardall-the-dream",
   carriedBy: [

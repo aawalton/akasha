@@ -12,7 +12,7 @@ export const paulCardallScarboroughFairFallingSlowly = {
   title: "Falling Slowly",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "fallingslowly|7FQRbf8gbKw8KZQZAJWxH2|189596",
   song: "song/paul-cardall-falling-slowly",
   carriedBy: [

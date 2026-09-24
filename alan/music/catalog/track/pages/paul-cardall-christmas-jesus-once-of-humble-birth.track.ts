@@ -12,7 +12,7 @@ export const paulCardallChristmasJesusOnceOfHumbleBirth = {
   title: "Jesus, Once of Humble Birth",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "jesusonceofhumblebirth|7FQRbf8gbKw8KZQZAJWxH2|204352",
   song: "song/paul-cardall-jesus-once-of-humble-birth",
   carriedBy: [

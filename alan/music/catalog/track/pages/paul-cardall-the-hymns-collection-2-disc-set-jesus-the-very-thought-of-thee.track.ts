@@ -12,7 +12,7 @@ export const paulCardallTheHymnsCollection2DiscSetJesusTheVeryThoughtOfThee = {
   title: "Jesus, the Very Thought of Thee",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "jesustheverythoughtofthee|7FQRbf8gbKw8KZQZAJWxH2|157387",
   song: "song/paul-cardall-jesus-the-very-thought-of-thee",
   carriedBy: [

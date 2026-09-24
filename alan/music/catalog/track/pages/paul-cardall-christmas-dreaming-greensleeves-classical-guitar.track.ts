@@ -12,10 +12,7 @@ export const paulCardallChristmasDreamingGreensleevesClassicalGuitar = {
   title: "Greensleeves - Classical Guitar",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2pzgrbowKM8SGmdK3YMcGq", artistName: "Mak Grgic" },
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-  ],
+  trackArtist: [{ artistName: "Mak Grgic" }, { artist: "artist/paul-cardall" }],
   trackKey: "greensleevesclassicalguitar|2pzgrbowKM8SGmdK3YMcGq,7FQRbf8gbKw8KZQZAJWxH2|186965",
   song: "song/paul-cardall-greensleeves-classical-guitar",
   carriedBy: [

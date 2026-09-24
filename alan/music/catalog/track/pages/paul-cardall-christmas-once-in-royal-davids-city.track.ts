@@ -12,7 +12,7 @@ export const paulCardallChristmasOnceInRoyalDavidsCity = {
   title: "Once in Royal David's City",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "onceinroyaldavidscity|7FQRbf8gbKw8KZQZAJWxH2|188677",
   song: "song/celtic-woman-once-in-royal-davids-city",
   carriedBy: [

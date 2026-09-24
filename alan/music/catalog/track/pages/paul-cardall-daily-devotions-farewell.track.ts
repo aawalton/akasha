@@ -12,7 +12,7 @@ export const paulCardallDailyDevotionsFarewell = {
   title: "Farewell",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "farewell|7FQRbf8gbKw8KZQZAJWxH2|238053",
   song: "song/paul-cardall-farewell",
   carriedBy: [

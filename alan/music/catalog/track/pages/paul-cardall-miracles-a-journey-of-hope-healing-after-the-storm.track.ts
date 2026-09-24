@@ -12,7 +12,7 @@ export const paulCardallMiraclesAJourneyOfHopeHealingAfterTheStorm = {
   title: "After The Storm",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "afterthestorm|7FQRbf8gbKw8KZQZAJWxH2|174373",
   song: "song/paul-cardall-after-the-storm",
   carriedBy: [

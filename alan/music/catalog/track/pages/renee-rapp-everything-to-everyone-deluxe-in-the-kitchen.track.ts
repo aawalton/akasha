@@ -15,7 +15,7 @@ export const reneeRappEverythingToEveryoneDeluxeInTheKitchen = {
   title: "In The Kitchen",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "inthekitchen|2hUYKu1x0UZQXvzCmggvSn|227749",
   song: "song/renee-rapp-in-the-kitchen",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallTheBrokenMiracleABlueBaby = {
   title: "A Blue Baby",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "abluebaby|7FQRbf8gbKw8KZQZAJWxH2|171320",
   song: "song/paul-cardall-a-blue-baby",
   carriedBy: [

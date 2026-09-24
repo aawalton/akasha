@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxePoisonPoison = {
   title: "Poison Poison",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "poisonpoison|2hUYKu1x0UZQXvzCmggvSn|191451",
   song: "song/renee-rapp-poison-poison",
   carriedBy: [

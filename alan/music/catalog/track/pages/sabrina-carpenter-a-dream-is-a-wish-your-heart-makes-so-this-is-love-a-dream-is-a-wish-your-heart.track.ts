@@ -14,7 +14,7 @@ export const sabrinaCarpenterADreamIsAWishYourHeartMakesSoThisIsLoveADreamIsAWis
   title: "A Dream is a Wish Your Heart Makes/So This is Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" }],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }],
   trackKey: "adreamisawishyourheartmakessothisislove|74KM79TiuVKeVCqs8QtB0B|149973",
   song: "song/sabrina-carpenter-a-dream-is-a-wish-your-heart-makes-so-this-is-love",
   carriedBy: [

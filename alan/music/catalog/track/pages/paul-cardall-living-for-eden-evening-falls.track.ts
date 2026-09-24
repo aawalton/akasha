@@ -12,7 +12,7 @@ export const paulCardallLivingForEdenEveningFalls = {
   title: "Evening Falls",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "eveningfalls|7FQRbf8gbKw8KZQZAJWxH2|176640",
   song: "song/paul-cardall-evening-falls",
   carriedBy: [

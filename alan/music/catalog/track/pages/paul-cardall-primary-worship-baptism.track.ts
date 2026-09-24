@@ -12,7 +12,7 @@ export const paulCardallPrimaryWorshipBaptism = {
   title: "Baptism",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "baptism|7FQRbf8gbKw8KZQZAJWxH2|220413",
   song: "song/paul-cardall-baptism",
   carriedBy: [

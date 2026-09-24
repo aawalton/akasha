@@ -12,7 +12,7 @@ export const paulCardallGraceInGriefMountainMinuet = {
   title: "Mountain Minuet",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "mountainminuet|7FQRbf8gbKw8KZQZAJWxH2|245202",
   song: "song/paul-cardall-mountain-minuet",
   carriedBy: [

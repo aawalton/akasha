@@ -12,7 +12,7 @@ export const reneeRappLuckyFromNowYouSeeMeNowYouDontLuckyFromNowYouSeeMeNowYouDo
   title: "Lucky - from Now You See Me: Now You Don’t",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "luckyfromnowyouseemenowyoudont|2hUYKu1x0UZQXvzCmggvSn|148538",
   song: "song/renee-rapp-lucky-from-now-you-see-me-now-you-dont",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallTheLookingGlassWithoutYou = {
   title: "Without You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "withoutyou|7FQRbf8gbKw8KZQZAJWxH2|205543",
   song: "song/paul-cardall-without-you",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallChristmasHymnsWeThreeKings = {
   title: "We Three Kings",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "wethreekings|7FQRbf8gbKw8KZQZAJWxH2|322320",
   song: "song/paul-cardall-we-three-kings",
   carriedBy: [

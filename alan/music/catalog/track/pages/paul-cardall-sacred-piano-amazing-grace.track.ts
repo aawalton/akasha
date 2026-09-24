@@ -12,7 +12,7 @@ export const paulCardallSacredPianoAmazingGrace = {
   title: "Amazing Grace",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "amazinggrace|7FQRbf8gbKw8KZQZAJWxH2|256693",
   song: "song/paul-cardall-amazing-grace",
   carriedBy: [

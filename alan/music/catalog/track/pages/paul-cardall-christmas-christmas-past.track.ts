@@ -12,7 +12,7 @@ export const paulCardallChristmasChristmasPast = {
   title: "Christmas Past",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "christmaspast|7FQRbf8gbKw8KZQZAJWxH2|260101",
   song: "song/paul-cardall-christmas-past",
   carriedBy: [

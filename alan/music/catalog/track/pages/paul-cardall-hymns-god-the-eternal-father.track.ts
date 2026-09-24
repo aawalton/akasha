@@ -12,7 +12,7 @@ export const paulCardallHymnsGodTheEternalFather = {
   title: "God, The Eternal Father",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "godtheeternalfather|7FQRbf8gbKw8KZQZAJWxH2|156520",
   song: "song/paul-cardall-god-the-eternal-father",
   carriedBy: [

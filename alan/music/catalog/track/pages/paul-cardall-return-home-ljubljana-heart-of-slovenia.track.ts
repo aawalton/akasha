@@ -12,7 +12,7 @@ export const paulCardallReturnHomeLjubljanaHeartOfSlovenia = {
   title: "Ljubljana: Heart of Slovenia",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ljubljanaheartofslovenia|7FQRbf8gbKw8KZQZAJWxH2|235437",
   song: "song/paul-cardall-ljubljana-heart-of-slovenia",
   carriedBy: [

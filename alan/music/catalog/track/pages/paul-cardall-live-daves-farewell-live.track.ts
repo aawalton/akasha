@@ -12,7 +12,7 @@ export const paulCardallLiveDavesFarewellLive = {
   title: "Dave's Farewell - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "davesfarewelllive|7FQRbf8gbKw8KZQZAJWxH2|215733",
   song: "song/paul-cardall-daves-farewell",
   carriedBy: [

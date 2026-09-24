@@ -12,7 +12,7 @@ export const paulCardallNewLifeRestlessHope = {
   title: "Restless Hope",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "restlesshope|7FQRbf8gbKw8KZQZAJWxH2|137200",
   song: "song/paul-cardall-restless-hope",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallLiveScarboroughFairLive = {
   title: "Scarborough Fair - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "scarboroughfairlive|7FQRbf8gbKw8KZQZAJWxH2|169266",
   song: "song/paul-cardall-scarborough-fair",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallTheCelebrateLifeConcertLivePeaceOfMyHeartLive = {
   title: "Peace of My Heart - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "peaceofmyheartlive|7FQRbf8gbKw8KZQZAJWxH2|225253",
   song: "song/paul-cardall-peace-of-my-heart",
   carriedBy: [

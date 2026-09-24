@@ -15,10 +15,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionApexPre
   title: "Apex Predator",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5mnS9jJdKQQcRSqFu5YPVe", artistName: "Auli'i Cravalho" },
-    { externalId: "0yVQ12rLMfkMNfudo6SFdI", artistName: "Jaquel Spivey" },
-  ],
+  trackArtist: [{ artistName: "Auli'i Cravalho" }, { artistName: "Jaquel Spivey" }],
   trackKey: "apexpredator|0yVQ12rLMfkMNfudo6SFdI,5mnS9jJdKQQcRSqFu5YPVe|187960",
   song: "song/renee-rapp-apex-predator",
   carriedBy: [

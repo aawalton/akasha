@@ -12,7 +12,7 @@ export const paulCardallSignOfTheTimesSignOfTheTimes = {
   title: "Sign of the Times",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "signofthetimes|7FQRbf8gbKw8KZQZAJWxH2|251031",
   song: "song/paul-cardall-sign-of-the-times",
   carriedBy: [

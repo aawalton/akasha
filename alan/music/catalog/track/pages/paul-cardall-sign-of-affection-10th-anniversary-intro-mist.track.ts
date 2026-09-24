@@ -12,7 +12,7 @@ export const paulCardallSignOfAffection10thAnniversaryIntroMist = {
   title: "Intro Mist",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "intromist|7FQRbf8gbKw8KZQZAJWxH2|242200",
   song: "song/paul-cardall-intro-mist",
   carriedBy: [

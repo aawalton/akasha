@@ -12,7 +12,7 @@ export const paulCardallHymnsComeFollowMe = {
   title: "Come, Follow Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "comefollowme|7FQRbf8gbKw8KZQZAJWxH2|158013",
   song: "song/paul-cardall-come-follow-me",
   carriedBy: [

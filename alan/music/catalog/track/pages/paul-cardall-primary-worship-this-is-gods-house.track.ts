@@ -12,7 +12,7 @@ export const paulCardallPrimaryWorshipThisIsGodsHouse = {
   title: "This is God's House",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thisisgodshouse|7FQRbf8gbKw8KZQZAJWxH2|181040",
   song: "song/paul-cardall-this-is-gods-house",
   carriedBy: [

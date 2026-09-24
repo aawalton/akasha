@@ -12,7 +12,7 @@ export const paulCardallFaithfulEmbraced = {
   title: "Embraced",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "embraced|7FQRbf8gbKw8KZQZAJWxH2|191320",
   song: "song/paul-cardall-embraced",
   carriedBy: [

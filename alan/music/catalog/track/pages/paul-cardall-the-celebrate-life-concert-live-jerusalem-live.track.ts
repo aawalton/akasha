@@ -12,10 +12,7 @@ export const paulCardallTheCelebrateLifeConcertLiveJerusalemLive = {
   title: "Jerusalem - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "0do1x1rbJllT74h9mwoB2U", artistName: "Peter Breinholt" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Peter Breinholt" }],
   trackKey: "jerusalemlive|0do1x1rbJllT74h9mwoB2U,7FQRbf8gbKw8KZQZAJWxH2|359654",
   song: "song/paul-cardall-jerusalem",
   carriedBy: [

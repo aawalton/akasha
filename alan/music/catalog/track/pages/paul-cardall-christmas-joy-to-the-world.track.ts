@@ -12,7 +12,7 @@ export const paulCardallChristmasJoyToTheWorld = {
   title: "Joy to the World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "joytotheworld|7FQRbf8gbKw8KZQZAJWxH2|301586",
   song: "song/celtic-woman-joy-to-the-world",
   carriedBy: [

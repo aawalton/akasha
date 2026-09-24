@@ -12,7 +12,7 @@ export const paulCardallPassingTimeTheWomanInTheSnow = {
   title: "The Woman in the Snow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "thewomaninthesnow|7FQRbf8gbKw8KZQZAJWxH2|223137",
   song: "song/paul-cardall-the-woman-in-the-snow",
   carriedBy: [

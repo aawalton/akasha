@@ -12,7 +12,7 @@ export const paulCardallLivingForEdenTwinkleLittleStar = {
   title: "Twinkle Little Star",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "twinklelittlestar|7FQRbf8gbKw8KZQZAJWxH2|140408",
   song: "song/paul-cardall-twinkle-little-star",
   carriedBy: [

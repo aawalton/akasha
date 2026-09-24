@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoSeptemberWindsSoloPianoVersion = {
   title: "September Winds - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "septemberwindssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|228466",
   song: "song/paul-cardall-september-winds",
   carriedBy: [

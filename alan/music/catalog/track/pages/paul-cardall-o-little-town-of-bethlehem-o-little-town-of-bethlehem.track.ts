@@ -12,7 +12,7 @@ export const paulCardallOLittleTownOfBethlehemOLittleTownOfBethlehem = {
   title: "O Little Town of Bethlehem",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "olittletownofbethlehem|7FQRbf8gbKw8KZQZAJWxH2|246511",
   song: "song/paul-cardall-o-little-town-of-bethlehem",
   carriedBy: [

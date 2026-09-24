@@ -15,7 +15,7 @@ export const paulCardallLivingForEdenOurLove = {
   title: "Our Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ourlove|7FQRbf8gbKw8KZQZAJWxH2|231600",
   song: "song/paul-cardall-our-love",
   carriedBy: [

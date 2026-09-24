@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsFlow = {
   title: "Flow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "flow|7FQRbf8gbKw8KZQZAJWxH2|218250",
   song: "song/paul-cardall-flow",
   carriedBy: [

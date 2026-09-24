@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxeSnowAngel = {
   title: "Snow Angel",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "snowangel|2hUYKu1x0UZQXvzCmggvSn|215464",
   song: "song/renee-rapp-snow-angel",
   carriedBy: [

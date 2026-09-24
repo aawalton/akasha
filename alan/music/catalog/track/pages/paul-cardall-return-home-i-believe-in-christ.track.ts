@@ -12,7 +12,7 @@ export const paulCardallReturnHomeIBelieveInChrist = {
   title: "I Believe In Christ",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ibelieveinchrist|7FQRbf8gbKw8KZQZAJWxH2|228884",
   song: "song/paul-cardall-i-believe-in-christ",
   carriedBy: [

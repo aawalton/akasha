@@ -12,7 +12,7 @@ export const paulCardallPrimaryWorshipJesusSaidLoveEveryone = {
   title: "Jesus said Love everyone",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "jesussaidloveeveryone|7FQRbf8gbKw8KZQZAJWxH2|248093",
   song: "song/paul-cardall-jesus-said-love-everyone",
   carriedBy: [

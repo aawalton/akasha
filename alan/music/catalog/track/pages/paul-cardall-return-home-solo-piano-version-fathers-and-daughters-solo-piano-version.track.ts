@@ -12,7 +12,7 @@ export const paulCardallReturnHomeSoloPianoVersionFathersAndDaughtersSoloPianoVe
   title: "Fathers and Daughters - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "fathersanddaughterssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|246125",
   song: "song/paul-cardall-fathers-and-daughters",
   carriedBy: [

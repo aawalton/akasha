@@ -12,7 +12,7 @@ export const paulCardallDecemberPianoStringEnsembleBeyondTheWall = {
   title: "Beyond The Wall",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "beyondthewall|7FQRbf8gbKw8KZQZAJWxH2|208386",
   song: "song/paul-cardall-beyond-the-wall",
   carriedBy: [

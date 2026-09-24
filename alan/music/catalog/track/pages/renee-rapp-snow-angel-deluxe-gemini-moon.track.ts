@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxeGeminiMoon = {
   title: "Gemini Moon",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "geminimoon|2hUYKu1x0UZQXvzCmggvSn|160579",
   song: "song/renee-rapp-gemini-moon",
   carriedBy: [

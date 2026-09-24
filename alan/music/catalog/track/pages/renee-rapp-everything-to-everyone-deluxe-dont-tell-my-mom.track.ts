@@ -15,7 +15,7 @@ export const reneeRappEverythingToEveryoneDeluxeDontTellMyMom = {
   title: "Don't Tell My Mom",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "donttellmymom|2hUYKu1x0UZQXvzCmggvSn|189287",
   song: "song/renee-rapp-dont-tell-my-mom",
   carriedBy: [

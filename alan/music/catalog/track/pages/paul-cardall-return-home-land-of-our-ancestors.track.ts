@@ -12,7 +12,7 @@ export const paulCardallReturnHomeLandOfOurAncestors = {
   title: "Land of Our Ancestors",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "landofourancestors|7FQRbf8gbKw8KZQZAJWxH2|193914",
   song: "song/paul-cardall-land-of-our-ancestors",
   carriedBy: [

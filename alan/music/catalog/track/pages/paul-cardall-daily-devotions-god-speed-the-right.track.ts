@@ -12,7 +12,7 @@ export const paulCardallDailyDevotionsGodSpeedTheRight = {
   title: "God Speed the Right",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "godspeedtheright|7FQRbf8gbKw8KZQZAJWxH2|114506",
   song: "song/paul-cardall-god-speed-the-right",
   carriedBy: [

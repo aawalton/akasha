@@ -12,7 +12,7 @@ export const paulCardallElizaSThemeElizasTheme = {
   title: "Eliza's Theme",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "elizastheme|7FQRbf8gbKw8KZQZAJWxH2|218816",
   song: "song/paul-cardall-elizas-theme",
   carriedBy: [

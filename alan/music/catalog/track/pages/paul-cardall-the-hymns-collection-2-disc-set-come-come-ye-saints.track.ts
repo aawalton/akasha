@@ -12,7 +12,7 @@ export const paulCardallTheHymnsCollection2DiscSetComeComeYeSaints = {
   title: "Come, Come Ye Saints",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "comecomeyesaints|7FQRbf8gbKw8KZQZAJWxH2|252447",
   song: "song/paul-cardall-come-come-ye-saints",
   carriedBy: [

@@ -12,10 +12,7 @@ export const reneeRappSnowAngelDeluxeTummyHurtsFeatCocoJonesRemix = {
   title: "Tummy Hurts (feat. Coco Jones) - Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" },
-    { externalId: "4DHLoiIqFYYFjH09WduvFd", artistName: "Coco Jones" },
-  ],
+  trackArtist: [{ artist: "artist/renee-rapp" }, { artistName: "Coco Jones" }],
   trackKey: "tummyhurtsfeatcocojonesremix|2hUYKu1x0UZQXvzCmggvSn,4DHLoiIqFYYFjH09WduvFd|167948",
   song: "song/renee-rapp-tummy-hurts",
   carriedBy: [

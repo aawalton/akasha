@@ -15,7 +15,7 @@ export const reneeRappEverythingToEveryoneDeluxeMoon = {
   title: "Moon",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "moon|2hUYKu1x0UZQXvzCmggvSn|179930",
   song: "song/renee-rapp-moon",
   carriedBy: [

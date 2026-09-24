@@ -12,7 +12,7 @@ export const paulCardallReturnHomeSoloPianoVersionAnEveningInParisSoloPianoVersi
   title: "An Evening In Paris - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "aneveninginparissolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|305029",
   song: "song/paul-cardall-an-evening-in-paris",
   carriedBy: [

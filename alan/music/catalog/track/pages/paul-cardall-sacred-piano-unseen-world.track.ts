@@ -12,7 +12,7 @@ export const paulCardallSacredPianoUnseenWorld = {
   title: "Unseen World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "unseenworld|7FQRbf8gbKw8KZQZAJWxH2|391400",
   song: "song/paul-cardall-unseen-world",
   carriedBy: [

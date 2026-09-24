@@ -12,7 +12,7 @@ export const reneeRappEverythingToEveryoneDeluxeEverythingToEveryoneExtendedVers
   title: "Everything To Everyone - Extended Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "everythingtoeveryoneextendedversion|2hUYKu1x0UZQXvzCmggvSn|164738",
   song: "song/renee-rapp-everything-to-everyone",
   carriedBy: [

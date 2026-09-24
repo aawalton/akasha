@@ -12,7 +12,7 @@ export const paulCardallSignOfAffection10thAnniversaryDavesFarewell = {
   title: "Dave's Farewell",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "davesfarewell|7FQRbf8gbKw8KZQZAJWxH2|258160",
   song: "song/paul-cardall-daves-farewell",
   carriedBy: [

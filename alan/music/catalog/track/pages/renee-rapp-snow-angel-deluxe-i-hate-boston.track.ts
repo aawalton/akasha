@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxeIHateBoston = {
   title: "I Hate Boston",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "ihateboston|2hUYKu1x0UZQXvzCmggvSn|174316",
   song: "song/renee-rapp-i-hate-boston",
   carriedBy: [

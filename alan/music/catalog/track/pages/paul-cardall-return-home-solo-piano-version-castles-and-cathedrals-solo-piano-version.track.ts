@@ -12,7 +12,7 @@ export const paulCardallReturnHomeSoloPianoVersionCastlesAndCathedralsSoloPianoV
   title: "Castles and Cathedrals - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "castlesandcathedralssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|290000",
   song: "song/paul-cardall-castles-and-cathedrals",
   carriedBy: [

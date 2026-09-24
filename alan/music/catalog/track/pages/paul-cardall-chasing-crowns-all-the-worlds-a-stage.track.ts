@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsAllTheWorldsAStage = {
   title: "All The World's A Stage",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "alltheworldsastage|7FQRbf8gbKw8KZQZAJWxH2|158458",
   song: "song/paul-cardall-all-the-worlds-a-stage",
   carriedBy: [

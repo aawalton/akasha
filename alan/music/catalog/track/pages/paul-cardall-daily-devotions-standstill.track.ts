@@ -12,7 +12,7 @@ export const paulCardallDailyDevotionsStandstill = {
   title: "Standstill",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "standstill|7FQRbf8gbKw8KZQZAJWxH2|124826",
   song: "song/paul-cardall-standstill",
   carriedBy: [

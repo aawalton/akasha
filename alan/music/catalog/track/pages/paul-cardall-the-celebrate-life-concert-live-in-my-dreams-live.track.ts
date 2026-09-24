@@ -12,10 +12,7 @@ export const paulCardallTheCelebrateLifeConcertLiveInMyDreamsLive = {
   title: "In My Dreams - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "7muihwIKkXMGBY7gcIvPJI", artistName: "Charley Jenkins" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Charley Jenkins" }],
   trackKey: "inmydreamslive|7FQRbf8gbKw8KZQZAJWxH2,7muihwIKkXMGBY7gcIvPJI|228023",
   song: "song/paul-cardall-in-my-dreams",
   carriedBy: [

@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoWhenSheSmiles = {
   title: "When She Smiles",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "whenshesmiles|7FQRbf8gbKw8KZQZAJWxH2|241626",
   song: "song/paul-cardall-when-she-smiles",
   carriedBy: [

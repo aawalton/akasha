@@ -12,7 +12,7 @@ export const paulCardallSongsOfPraiseProdigal = {
   title: "Prodigal",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "prodigal|7FQRbf8gbKw8KZQZAJWxH2|301346",
   song: "song/paul-cardall-prodigal",
   carriedBy: [

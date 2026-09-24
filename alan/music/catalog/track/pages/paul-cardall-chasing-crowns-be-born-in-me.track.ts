@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsBeBornInMe = {
   title: "Be Born In Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "beborninme|7FQRbf8gbKw8KZQZAJWxH2|217000",
   song: "song/paul-cardall-be-born-in-me",
   carriedBy: [

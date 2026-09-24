@@ -14,7 +14,7 @@ export const reneeRappMeanGirlsMusicFromTheMotionPictureBonusTrackVersionLaissez
   title: "Laissez Moi Tout (iCarly Theme Song)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0yVQ12rLMfkMNfudo6SFdI", artistName: "Jaquel Spivey" }],
+  trackArtist: [{ artistName: "Jaquel Spivey" }],
   trackKey: "laissezmoitouticarlythemesong|0yVQ12rLMfkMNfudo6SFdI|81987",
   song: "song/renee-rapp-laissez-moi-tout-icarly-theme-song",
   carriedBy: [

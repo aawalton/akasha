@@ -12,7 +12,7 @@ export const paulCardallChristmasHymnsJesuJoyOfMansDesiring = {
   title: "Jesu, Joy of Man's Desiring",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "jesujoyofmansdesiring|7FQRbf8gbKw8KZQZAJWxH2|278586",
   song: "song/paul-cardall-jesu-joy-of-mans-desiring",
   carriedBy: [

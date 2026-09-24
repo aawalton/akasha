@@ -12,7 +12,7 @@ export const paulCardallTheCelebrateLifeConcertLiveEyeToEyeLive = {
   title: "Eye to Eye - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "eyetoeyelive|7FQRbf8gbKw8KZQZAJWxH2|232386",
   song: "song/paul-cardall-eye-to-eye",
   carriedBy: [

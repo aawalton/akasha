@@ -12,7 +12,7 @@ export const paulCardallSacredPianoAfterTheStorm = {
   title: "After the Storm",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "afterthestorm|7FQRbf8gbKw8KZQZAJWxH2|175080",
   song: "song/paul-cardall-after-the-storm",
   carriedBy: [

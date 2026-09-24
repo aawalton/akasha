@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoANewBeginning = {
   title: "A New Beginning",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "anewbeginning|7FQRbf8gbKw8KZQZAJWxH2|246773",
   song: "song/paul-cardall-a-new-beginning",
   carriedBy: [

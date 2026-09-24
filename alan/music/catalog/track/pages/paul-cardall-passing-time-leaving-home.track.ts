@@ -12,7 +12,7 @@ export const paulCardallPassingTimeLeavingHome = {
   title: "Leaving Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "leavinghome|7FQRbf8gbKw8KZQZAJWxH2|131395",
   song: "song/paul-cardall-leaving-home",
   carriedBy: [

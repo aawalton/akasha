@@ -12,7 +12,7 @@ export const paulCardallReturnHomeSoloPianoVersionRedPoppyFieldsSoloPianoVersion
   title: "Red Poppy Fields - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "redpoppyfieldssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|197989",
   song: "song/paul-cardall-red-poppy-fields",
   carriedBy: [

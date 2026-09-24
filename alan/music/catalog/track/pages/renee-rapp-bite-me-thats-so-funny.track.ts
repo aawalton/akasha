@@ -12,7 +12,7 @@ export const reneeRappBiteMeThatsSoFunny = {
   title: "That’s So Funny",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "thatssofunny|2hUYKu1x0UZQXvzCmggvSn|169863",
   song: "song/renee-rapp-thats-so-funny",
   carriedBy: [

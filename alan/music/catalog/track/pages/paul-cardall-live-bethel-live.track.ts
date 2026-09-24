@@ -12,7 +12,7 @@ export const paulCardallLiveBethelLive = {
   title: "Bethel - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "bethellive|7FQRbf8gbKw8KZQZAJWxH2|168333",
   song: "song/paul-cardall-bethel",
   carriedBy: [

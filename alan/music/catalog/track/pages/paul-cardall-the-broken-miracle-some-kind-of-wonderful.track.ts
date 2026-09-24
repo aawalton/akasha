@@ -12,10 +12,7 @@ export const paulCardallTheBrokenMiracleSomeKindOfWonderful = {
   title: "Some Kind of Wonderful",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "1Fj0R2t4HaJa3oUe8azB8R", artistName: "Ty Herndon" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Ty Herndon" }],
   trackKey: "somekindofwonderful|1Fj0R2t4HaJa3oUe8azB8R,7FQRbf8gbKw8KZQZAJWxH2|232253",
   song: "song/paul-cardall-some-kind-of-wonderful",
   carriedBy: [

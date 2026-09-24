@@ -12,7 +12,7 @@ export const paulCardallNewLifeNewLife = {
   title: "New Life",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "newlife|7FQRbf8gbKw8KZQZAJWxH2|213733",
   song: "song/paul-cardall-new-life",
   carriedBy: [

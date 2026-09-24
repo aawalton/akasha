@@ -12,7 +12,7 @@ export const paulCardallWhereCanITurnForPeaceWhereCanITurnForPeace = {
   title: "Where Can I Turn for Peace?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "wherecaniturnforpeace|7FQRbf8gbKw8KZQZAJWxH2|235000",
   song: "song/paul-cardall-where-can-i-turn-for-peace",
   carriedBy: [

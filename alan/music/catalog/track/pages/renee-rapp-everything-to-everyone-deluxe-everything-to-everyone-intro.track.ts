@@ -15,7 +15,7 @@ export const reneeRappEverythingToEveryoneDeluxeEverythingToEveryoneIntro = {
   title: "Everything To Everyone (Intro)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "everythingtoeveryoneintro|2hUYKu1x0UZQXvzCmggvSn|68261",
   song: "song/renee-rapp-everything-to-everyone-intro",
   carriedBy: [

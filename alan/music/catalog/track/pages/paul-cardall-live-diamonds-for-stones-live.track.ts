@@ -12,7 +12,7 @@ export const paulCardallLiveDiamondsForStonesLive = {
   title: "Diamonds For Stones - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "diamondsforstoneslive|7FQRbf8gbKw8KZQZAJWxH2|171693",
   song: "song/paul-cardall-diamonds-for-stones",
   carriedBy: [

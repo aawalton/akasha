@@ -12,10 +12,7 @@ export const sabrinaCarpenterAlienAlien = {
   title: "Alien",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-    { externalId: "1HBjj22wzbscIZ9sEb5dyf", artistName: "Jonas Blue" },
-  ],
+  trackArtist: [{ artist: "artist/sabrina-carpenter" }, { artistName: "Jonas Blue" }],
   trackKey: "alien|1HBjj22wzbscIZ9sEb5dyf,74KM79TiuVKeVCqs8QtB0B|174840",
   song: "song/sabrina-carpenter-alien",
   carriedBy: [

@@ -12,7 +12,7 @@ export const reneeRappBiteMeKissItKissIt = {
   title: "Kiss It Kiss It",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "kissitkissit|2hUYKu1x0UZQXvzCmggvSn|172320",
   song: "song/renee-rapp-kiss-it-kiss-it",
   carriedBy: [

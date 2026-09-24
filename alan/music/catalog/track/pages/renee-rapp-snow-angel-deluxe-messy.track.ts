@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxeMessy = {
   title: "Messy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "messy|2hUYKu1x0UZQXvzCmggvSn|189451",
   song: "song/renee-rapp-messy",
   carriedBy: [

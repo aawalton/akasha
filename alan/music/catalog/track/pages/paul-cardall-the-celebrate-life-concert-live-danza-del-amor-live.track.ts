@@ -12,7 +12,7 @@ export const paulCardallTheCelebrateLifeConcertLiveDanzaDelAmorLive = {
   title: "Danza Del Amor - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "danzadelamorlive|7FQRbf8gbKw8KZQZAJWxH2|244298",
   song: "song/paul-cardall-danza-del-amor",
   carriedBy: [

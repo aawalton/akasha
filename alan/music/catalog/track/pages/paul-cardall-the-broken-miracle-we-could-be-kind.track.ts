@@ -13,9 +13,9 @@ export const paulCardallTheBrokenMiracleWeCouldBeKind = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "3nNqVtVWWbakB2px2HphUw", artistName: "Akelee" },
-    { externalId: "1PdisgvacJ6lqkRwiCasuU", artistName: "J Daniel" },
+    { artist: "artist/paul-cardall" },
+    { artistName: "Akelee" },
+    { artistName: "J Daniel" },
   ],
   trackKey:
     "wecouldbekind|1PdisgvacJ6lqkRwiCasuU,3nNqVtVWWbakB2px2HphUw,7FQRbf8gbKw8KZQZAJWxH2|192546",

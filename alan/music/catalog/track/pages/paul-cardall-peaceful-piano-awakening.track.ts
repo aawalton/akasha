@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoAwakening = {
   title: "Awakening",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "awakening|7FQRbf8gbKw8KZQZAJWxH2|178226",
   song: "song/paul-cardall-awakening",
   carriedBy: [

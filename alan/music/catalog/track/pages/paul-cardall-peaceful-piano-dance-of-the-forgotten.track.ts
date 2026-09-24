@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoDanceOfTheForgotten = {
   title: "Dance of the Forgotten",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "danceoftheforgotten|7FQRbf8gbKw8KZQZAJWxH2|184786",
   song: "song/paul-cardall-dance-of-the-forgotten",
   carriedBy: [

@@ -12,7 +12,7 @@ export const reneeRappBiteMeYoudLikeThatWouldntYou = {
   title: "You’d Like That Wouldn’t You",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "youdlikethatwouldntyou|2hUYKu1x0UZQXvzCmggvSn|168925",
   song: "song/renee-rapp-youd-like-that-wouldnt-you",
   carriedBy: [

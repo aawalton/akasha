@@ -12,10 +12,7 @@ export const paulCardallTheBrokenMiracleChange = {
   title: "Change",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "2MA2dqcGvuj6b7lZwppAb6", artistName: "Trevor Price" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Trevor Price" }],
   trackKey: "change|2MA2dqcGvuj6b7lZwppAb6,7FQRbf8gbKw8KZQZAJWxH2|299146",
   song: "song/paul-cardall-change",
   carriedBy: [

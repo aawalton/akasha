@@ -12,7 +12,7 @@ export const paulCardallTheBrokenMiracleOurChildren = {
   title: "Our Children",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "ourchildren|7FQRbf8gbKw8KZQZAJWxH2|150586",
   song: "song/paul-cardall-our-children",
   carriedBy: [

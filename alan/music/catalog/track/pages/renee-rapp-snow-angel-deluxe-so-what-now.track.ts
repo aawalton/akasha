@@ -12,7 +12,7 @@ export const reneeRappSnowAngelDeluxeSoWhatNow = {
   title: "So What Now",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "2hUYKu1x0UZQXvzCmggvSn", artistName: "Reneé Rapp" }],
+  trackArtist: [{ artist: "artist/renee-rapp" }],
   trackKey: "sowhatnow|2hUYKu1x0UZQXvzCmggvSn|170986",
   song: "song/renee-rapp-so-what-now",
   carriedBy: [

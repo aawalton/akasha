@@ -12,7 +12,7 @@ export const paulCardallPassingTimeHappierTimes = {
   title: "Happier Times",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "happiertimes|7FQRbf8gbKw8KZQZAJWxH2|88137",
   song: "song/paul-cardall-happier-times",
   carriedBy: [

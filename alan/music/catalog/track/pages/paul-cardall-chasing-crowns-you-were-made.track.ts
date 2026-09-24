@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsYouWereMade = {
   title: "You Were Made",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "youweremade|7FQRbf8gbKw8KZQZAJWxH2|191625",
   song: "song/paul-cardall-you-were-made",
   carriedBy: [

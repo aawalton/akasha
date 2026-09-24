@@ -12,7 +12,7 @@ export const paulCardallTheCelebrateLifeConcertLiveWithoutYouLive = {
   title: "Without You - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "withoutyoulive|7FQRbf8gbKw8KZQZAJWxH2|139547",
   song: "song/paul-cardall-without-you",
   carriedBy: [

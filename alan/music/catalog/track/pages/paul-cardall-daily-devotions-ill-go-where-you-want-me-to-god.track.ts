@@ -12,7 +12,7 @@ export const paulCardallDailyDevotionsIllGoWhereYouWantMeToGod = {
   title: "I'll Go Where You Want Me to God",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "illgowhereyouwantmetogod|7FQRbf8gbKw8KZQZAJWxH2|160973",
   song: "song/paul-cardall-ill-go-where-you-want-me-to-god",
   carriedBy: [

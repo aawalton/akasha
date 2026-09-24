@@ -12,10 +12,7 @@ export const sabrinaCarpenterCloudsWithSabrinaCarpenterCloudsWithSabrinaCarpente
   title: "Clouds (with Sabrina Carpenter)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1oDUPFTxn5JyS8MxUe9ko4", artistName: "Fin Argus" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artistName: "Fin Argus" }, { artist: "artist/sabrina-carpenter" }],
   trackKey: "cloudswithsabrinacarpenter|1oDUPFTxn5JyS8MxUe9ko4,74KM79TiuVKeVCqs8QtB0B|184903",
   song: "song/sabrina-carpenter-clouds",
   carriedBy: [

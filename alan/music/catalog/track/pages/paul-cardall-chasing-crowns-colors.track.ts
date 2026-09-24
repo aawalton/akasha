@@ -12,7 +12,7 @@ export const paulCardallChasingCrownsColors = {
   title: "Colors",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "colors|7FQRbf8gbKw8KZQZAJWxH2|264000",
   song: "song/paul-cardall-colors",
   carriedBy: [

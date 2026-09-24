@@ -12,7 +12,7 @@ export const paulCardallTheChristmasBoxJennasDance = {
   title: "Jenna's Dance",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "jennasdance|7FQRbf8gbKw8KZQZAJWxH2|172200",
   song: "song/paul-cardall-jennas-dance",
   carriedBy: [

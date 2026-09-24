@@ -12,10 +12,7 @@ export const paulCardallChristmasSonOfGod = {
   title: "Son of God",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "77dRSdJKCKDOen5hjPYO0D", artistName: "Patrice Tipoki" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Patrice Tipoki" }],
   trackKey: "sonofgod|77dRSdJKCKDOen5hjPYO0D,7FQRbf8gbKw8KZQZAJWxH2|274365",
   song: "song/paul-cardall-son-of-god",
   carriedBy: [

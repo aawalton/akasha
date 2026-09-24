@@ -12,7 +12,7 @@ export const paulCardallPrimaryWorshipMyHeavenlyFatherLovesMe = {
   title: "My Heavenly Father Loves Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "myheavenlyfatherlovesme|7FQRbf8gbKw8KZQZAJWxH2|302146",
   song: "song/paul-cardall-my-heavenly-father-loves-me",
   carriedBy: [

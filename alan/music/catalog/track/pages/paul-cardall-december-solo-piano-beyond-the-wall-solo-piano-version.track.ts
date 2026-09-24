@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoBeyondTheWallSoloPianoVersion = {
   title: "Beyond The Wall - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "beyondthewallsolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|208133",
   song: "song/paul-cardall-beyond-the-wall",
   carriedBy: [

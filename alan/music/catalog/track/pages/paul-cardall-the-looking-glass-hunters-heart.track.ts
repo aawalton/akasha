@@ -12,7 +12,7 @@ export const paulCardallTheLookingGlassHuntersHeart = {
   title: "Hunter's Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "huntersheart|7FQRbf8gbKw8KZQZAJWxH2|177373",
   song: "song/paul-cardall-hunters-heart",
   carriedBy: [

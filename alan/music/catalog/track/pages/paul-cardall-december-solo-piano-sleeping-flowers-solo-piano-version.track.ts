@@ -12,7 +12,7 @@ export const paulCardallDecemberSoloPianoSleepingFlowersSoloPianoVersion = {
   title: "Sleeping Flowers - Solo Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "sleepingflowerssolopianoversion|7FQRbf8gbKw8KZQZAJWxH2|221933",
   song: "song/paul-cardall-sleeping-flowers",
   carriedBy: [

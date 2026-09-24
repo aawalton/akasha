@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoDeepWaters = {
   title: "Deep Waters",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "deepwaters|7FQRbf8gbKw8KZQZAJWxH2|205146",
   song: "song/paul-cardall-deep-waters",
   carriedBy: [

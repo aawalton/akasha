@@ -12,7 +12,7 @@ export const paulCardallPeacefulPianoWhenMorningComes = {
   title: "When Morning Comes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "whenmorningcomes|7FQRbf8gbKw8KZQZAJWxH2|184986",
   song: "song/paul-cardall-when-morning-comes",
   carriedBy: [

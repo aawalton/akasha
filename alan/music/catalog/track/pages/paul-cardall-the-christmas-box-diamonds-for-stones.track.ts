@@ -12,7 +12,7 @@ export const paulCardallTheChristmasBoxDiamondsForStones = {
   title: "Diamonds For Stones",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "diamondsforstones|7FQRbf8gbKw8KZQZAJWxH2|164666",
   song: "song/paul-cardall-diamonds-for-stones",
   carriedBy: [

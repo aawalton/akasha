@@ -12,7 +12,7 @@ export const paulCardallSongsOfPraiseGrateful = {
   title: "Grateful",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" }],
+  trackArtist: [{ artist: "artist/paul-cardall" }],
   trackKey: "grateful|7FQRbf8gbKw8KZQZAJWxH2|224680",
   song: "song/paul-cardall-grateful",
   carriedBy: [

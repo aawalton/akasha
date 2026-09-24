@@ -12,10 +12,7 @@ export const paulCardallChristmasInTheBleakMidwinter = {
   title: "In the Bleak Midwinter",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7FQRbf8gbKw8KZQZAJWxH2", artistName: "Paul Cardall" },
-    { externalId: "1GKYNY4rIPnOuTfC0J1IWw", artistName: "Audrey Assad" },
-  ],
+  trackArtist: [{ artist: "artist/paul-cardall" }, { artistName: "Audrey Assad" }],
   trackKey: "inthebleakmidwinter|1GKYNY4rIPnOuTfC0J1IWw,7FQRbf8gbKw8KZQZAJWxH2|280132",
   song: "song/paul-cardall-in-the-bleak-midwinter",
   carriedBy: [
