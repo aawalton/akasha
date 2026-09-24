@@ -1695,7 +1695,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/head-commit/head-commit.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/holding/holding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/pathspec/git-pathspec.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/porcelain-status/porcelain-status.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/pushing/git-pushing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/running/git-running.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"git/modules/store-sweeping/git-store-sweeping.module.ts","typed":true,"deferred":false}

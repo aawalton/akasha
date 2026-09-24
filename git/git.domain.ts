@@ -18,7 +18,6 @@ export const git = {
     "module/git-store-sweeping",
     "module/head-commit",
     "module/holding",
-    "module/porcelain-status",
   ],
   decisions: [
     {

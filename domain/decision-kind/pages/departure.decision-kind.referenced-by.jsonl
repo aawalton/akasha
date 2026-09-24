@@ -2626,7 +2626,6 @@
 {"propertySlug":"decision-kind","path":"git/modules/head-commit/head-commit.module.ts","id":"01a0943c-95cf-7202-81cd-88b1efc7c605"}
 {"propertySlug":"decision-kind","path":"git/modules/holding/holding.module.ts","id":"01a04df0-eccd-725e-9745-6888f36628bf"}
 {"propertySlug":"decision-kind","path":"git/modules/pathspec/git-pathspec.module.ts","id":"01a068ae-fd9c-7001-ba59-e2b9fc02888f"}
-{"propertySlug":"decision-kind","path":"git/modules/porcelain-status/porcelain-status.module.ts","id":"01a06816-2f10-7f63-bec8-aabc4cd78c0b"}
 {"propertySlug":"decision-kind","path":"git/modules/pushing/git-pushing.module.ts","id":"01a068ae-fd9c-7003-9693-a93bade6fb89"}
 {"propertySlug":"decision-kind","path":"git/modules/running/git-running.module.ts","id":"01a05d7f-23fc-7001-9aaa-0ba0969f501e"}
 {"propertySlug":"decision-kind","path":"git/modules/store-sweeping/git-store-sweeping.module.ts","id":"01a091c7-3c36-724a-a2ce-575287558db5"}

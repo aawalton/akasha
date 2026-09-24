@@ -1447,7 +1447,6 @@
 {"propertySlug":"decision-kind","path":"git/modules/commit-reading/commit-reading.module.ts","id":"01a0523f-0e48-7c39-8708-125994cc3e59"}
 {"propertySlug":"decision-kind","path":"git/modules/committing/committing.module.ts","id":"01a0501a-b83f-7707-afd1-d497b00b4868"}
 {"propertySlug":"decision-kind","path":"git/modules/dir/git-dir.module.ts","id":"01a091c8-bebb-7cc6-ac6a-ed37511fe84b"}
-{"propertySlug":"decision-kind","path":"git/modules/porcelain-status/porcelain-status.module.ts","id":"01a06816-2f10-7f63-bec8-aabc4cd78c0b"}
 {"propertySlug":"decision-kind","path":"git/modules/running/git-running.module.ts","id":"01a05d7f-23fc-7001-9aaa-0ba0969f501e"}
 {"propertySlug":"decision-kind","path":"git/modules/store-sweeping/git-store-sweeping.module.ts","id":"01a091c7-3c36-724a-a2ce-575287558db5"}
 {"propertySlug":"decision-kind","path":"graph/modules/asking/graph-asking.module.ts","id":"01a04ff4-320c-7689-9d79-b3b0caa05ab1"}
