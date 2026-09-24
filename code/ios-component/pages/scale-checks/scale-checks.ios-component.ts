@@ -29,7 +29,7 @@ export const scaleChecks = {
         "A harness is handed the name and whether the check held and the reading the check saw.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing but this file catches the two placings drifting apart.",
     },
     {

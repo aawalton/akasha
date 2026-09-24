@@ -29,7 +29,7 @@ export const freshnessChecks = {
       statement: "Turning the placed kinds into the feeds they ask for is asserted here too.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The provider's own timeline is compiled here and never run.",
     },
     {
