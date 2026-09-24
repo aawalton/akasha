@@ -3,8 +3,10 @@ import { cachedIn, cacheKept } from "akasha/check/modules/cache/check-cache.modu
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { skimmedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { placedIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
-import type { Edge } from "akasha/graph/modules/asking/graph-asking.module.code.ts"
-import { takenIn } from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
+import {
+  takenIn,
+  wayFrom,
+} from "akasha/graph/predicate/modules/closure/graph-predicate-closure.module.code.ts"
 import { codeImports } from "akasha/graph/predicate/pages/code-imports/code-imports.graph-predicate.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -134,39 +136,11 @@ function entryIn(walking: Walking, manifest: string): string | null {
   return normalize(join(dirname(manifest), main))
 }
 
-function reasonFor(why: string, at: string, from: ReadonlyMap<string, string>): string {
-  const held: string[] = []
-  let here = at
-  for (;;) {
-    const said = from.get(here)
-    if (said === undefined || held.length >= SHOWN) break
-    held.push(said)
-    here = said
-  }
+function reasonFor(why: string, way: readonly string[] | null): string {
+  const held = [...(way ?? [])].reverse().slice(1, SHOWN + 1)
   if (held.length === 0) return `${why}, and the host loads it as its own entry — ${HOST}`
   const through = namesDrawn(held, ", reached from ")
   return `${why}, and the host reaches it from ${through} — ${HOST}`
-}
-
-function fromOver(entry: string, edges: readonly Edge[]): ReadonlyMap<string, string> {
-  const beyond = new Map<string, string[]>()
-  for (const edge of edges) {
-    const held = beyond.get(edge.from)
-    if (held === undefined) beyond.set(edge.from, [edge.to])
-    else held.push(edge.to)
-  }
-  const from = new Map<string, string>()
-  const seen = new Set([entry])
-  const waiting = [entry]
-  for (let here = waiting.shift(); here !== undefined; here = waiting.shift()) {
-    for (const next of beyond.get(here) ?? []) {
-      if (seen.has(next)) continue
-      seen.add(next)
-      from.set(next, here)
-      waiting.push(next)
-    }
-  }
-  return from
 }
 
 const SLUG = "extension-host-reaches-no-bun-code"
@@ -214,20 +188,18 @@ export function refusalsOver(walking: Walking, manifest: string): readonly Judge
     bodyAt: (path) => walking.read(path),
   })
   if (page !== null) keeping(walking.root, page, taken.nodes)
-  const from = fromOver(entry, taken.edges)
   const said: Judged[] = []
   for (const here of taken.nodes) {
     const text = walking.read(here)
     if (text === null) continue
     const reached = reachedIn(here, text)
+    if (!reached.global && reached.specifiers.length === 0) continue
+    const way = wayFrom(taken, entry, here)
     if (reached.global) {
-      said.push({
-        path: here,
-        reason: reasonFor(`this reads the \`${GLOBAL}\` global`, here, from),
-      })
+      said.push({ path: here, reason: reasonFor(`this reads the \`${GLOBAL}\` global`, way) })
     }
     for (const one of reached.specifiers) {
-      said.push({ path: here, reason: reasonFor(`this names \`${one}\``, here, from) })
+      said.push({ path: here, reason: reasonFor(`this names \`${one}\``, way) })
     }
   }
   return said

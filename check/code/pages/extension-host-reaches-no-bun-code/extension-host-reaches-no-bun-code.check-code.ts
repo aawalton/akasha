@@ -119,6 +119,10 @@ export const extensionHostReachesNoBunCode = {
       statement: "A refusal names the files the host reaches the refused file from.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Those files are a way from the entry the graph answers rather than walked here.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges whatever the bun server the host starts reaches.",
     },
