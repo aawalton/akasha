@@ -37,7 +37,7 @@ export function foldedReads(files: readonly string[], folders: readonly string[]
   return { files: [...loose].sort(), folders: [...kept].sort() }
 }
 
-function keptIn(held: Readonly<Record<string, unknown>> | null): Kept {
+export function keptIn(held: Readonly<Record<string, unknown>> | null): Kept {
   return {
     files: [...textsIn(held?.[FILES])].sort(),
     folders: [...textsIn(held?.[FOLDERS])].sort(),

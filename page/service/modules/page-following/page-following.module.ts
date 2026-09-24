@@ -57,6 +57,18 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A follow hears each file and folder the computed properties of its pages keep.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change there is a change to each page that follow names, or to its list.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A computed property keeping more than it did is followed again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "One page is pushed at most once in each half second, and its last change is never dropped.",
     },

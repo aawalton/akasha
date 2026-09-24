@@ -107,7 +107,7 @@ export const computedProperty = {
       statement: "What a calculation reads is kept on its computed property, outside the commit.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A change to anything a computed property reads is a change to each page it is on.",
     },

@@ -5,6 +5,7 @@ import {
   eventSaid,
   followingFor,
   type Held,
+  heardOf,
   keysFor,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
 
@@ -63,6 +64,17 @@ test("a follow is refused where it names no stream or names pages some other way
     stream: "s",
     follows: [{ key: "k", pageTypeSlug: "seat", by: "slug", values: ["athena"] }],
   })
+})
+
+test("a file a computed property keeps is heard by name in its folder, and a folder whole", () => {
+  const slugs = new Set(["athena"])
+  expect(
+    heardOf("/r", "seat", slugs, { files: ["a/b.seat.ts", "/t/one.jsonl"], folders: ["logs"] })
+  ).toEqual([
+    { folder: "/r/a", name: "b.seat.ts", kind: "seat", slugs },
+    { folder: "/t", name: "one.jsonl", kind: "seat", slugs },
+    { folder: "/r/logs", name: null, kind: "seat", slugs },
+  ])
 })
 
 test("an event is framed as a named server-sent event", () => {

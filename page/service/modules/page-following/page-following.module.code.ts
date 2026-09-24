@@ -1,5 +1,5 @@
 import { type FSWatcher, watch } from "node:fs"
-import { dirname, join } from "node:path"
+import { basename, dirname, isAbsolute, join } from "node:path"
 import {
   everyOfType,
   type Listed,
@@ -8,6 +8,15 @@ import {
   slugFoldersOf,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import {
+  COMPUTED,
+  carriedFor,
+} from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import {
+  type Kept,
+  keptIn,
+} from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
@@ -167,27 +176,81 @@ export function eventSaid(name: string, body: unknown): string {
   return `event: ${name}\ndata: ${JSON.stringify(body)}\n\n`
 }
 
+export type Heard = {
+  readonly folder: string
+  readonly name: string | null
+  readonly kind: string
+  readonly slugs: ReadonlySet<string> | null
+}
+
 export type Planned = {
   readonly pages: ReadonlySet<string>
   readonly listed: ReadonlyMap<string, string>
+  readonly read: readonly Heard[]
+  readonly keeping: ReadonlySet<string>
 }
+
+const UNCOMMITTED = ".uncommitted."
 
 function pagesOf(root: string, kind: string, slugs: ReadonlySet<string> | null): readonly Listed[] {
   if (slugs === null) return everyOfType(root, kind)
   return [...slugs].flatMap((slug) => listedAt(root, kind, slug))
 }
 
+function fullAt(root: string, at: string): string {
+  return isAbsolute(at) ? at : join(root, at)
+}
+
+export function heardOf(
+  root: string,
+  kind: string,
+  slugs: ReadonlySet<string> | null,
+  kept: Kept
+): readonly Heard[] {
+  return [
+    ...kept.files.map((one) => ({
+      folder: dirname(fullAt(root, one)),
+      name: basename(one),
+      kind,
+      slugs,
+    })),
+    ...kept.folders.map((one) => ({ folder: fullAt(root, one), name: null, kind, slugs })),
+  ]
+}
+
+function readsFor(
+  root: string,
+  kind: string,
+  slugs: ReadonlySet<string> | null,
+  keeping: Set<string>
+): readonly Heard[] {
+  const found: Heard[] = []
+  for (const one of carriedFor(root, kind)) {
+    if (one.pageTypeSlug !== COMPUTED) continue
+    const page = listedAt(root, COMPUTED, one.pagePropertySlug)[0]
+    if (page === undefined) continue
+    keeping.add(dirname(join(root, page.path)))
+    found.push(...heardOf(root, kind, slugs, keptIn(uncommittedIn(root, page.path))))
+  }
+  return found
+}
+
 export function plannedFor(root: string, helds: readonly Held[]): Planned {
   const pages = new Set<string>()
   const listed = new Map<string, string>()
+  const read: Heard[] = []
+  const keeping = new Set<string>()
   for (const held of helds) {
     for (const kind of held.kinds) {
       for (const one of pagesOf(root, kind, held.slugs)) pages.add(dirname(join(root, one.path)))
+      try {
+        read.push(...readsFor(root, kind, held.slugs, keeping))
+      } catch {}
       if (held.slugs !== null) continue
       for (const at of slugFoldersOf(root, kind)) listed.set(join(root, at), kind)
     }
   }
-  return { pages, listed }
+  return { pages, listed, read, keeping }
 }
 
 function idOf(root: string, one: Changed): string | undefined {
@@ -204,6 +267,7 @@ export function followingFor(root: string): Following {
   const watchers = new Map<string, FSWatcher>()
   const sentAt = new Map<string, number>()
   const owed = new Map<string, ReturnType<typeof setTimeout>>()
+  let hearing = new Map<string, readonly ((name: string) => undefined)[]>()
   let planning: ReturnType<typeof setTimeout> | null = null
 
   const send = (one: Changed): undefined => {
@@ -240,31 +304,50 @@ export function followingFor(root: string): Following {
       process.stderr.write(`the pages followed could not be planned: ${String(thrown)}\n`)
       return undefined
     }
-    const wanted = new Map<string, (name: string) => undefined>()
+    const wanted = new Map<string, ((name: string) => undefined)[]>()
+    const hear = (folder: string, heard: (name: string) => undefined): undefined => {
+      const held = wanted.get(folder) ?? []
+      held.push(heard)
+      wanted.set(folder, held)
+      return undefined
+    }
     for (const folder of planned.pages) {
-      wanted.set(folder, (name) => {
+      hear(folder, (name) => {
         const one = changedAt(join(folder, name))
         if (one !== null) changed(one)
         return undefined
       })
     }
     for (const [folder, kind] of planned.listed) {
-      wanted.set(folder, () => {
+      hear(folder, () => {
         changed({ pageTypeSlug: kind })
         planSoon()
         return undefined
       })
     }
+    for (const one of planned.read) {
+      hear(one.folder, (name) => {
+        if (one.name !== null && name !== one.name) return undefined
+        if (one.slugs === null) return changed({ pageTypeSlug: one.kind })
+        for (const slug of one.slugs) changed({ pageTypeSlug: one.kind, slug })
+        return undefined
+      })
+    }
+    for (const folder of planned.keeping) {
+      hear(folder, (name) => (name.includes(UNCOMMITTED) ? planSoon() : undefined))
+    }
+    hearing = wanted
     for (const [folder, watcher] of watchers) {
       if (wanted.has(folder)) continue
       watcher.close()
       watchers.delete(folder)
     }
-    for (const [folder, heard] of wanted) {
+    for (const folder of wanted.keys()) {
       if (watchers.has(folder)) continue
       try {
         const watcher = watch(folder, (_, name) => {
-          if (typeof name === "string" && name !== "") heard(name)
+          if (typeof name !== "string" || name === "") return
+          for (const heard of hearing.get(folder) ?? []) heard(name)
         })
         watcher.on("error", () => {
           watcher.close()
