@@ -72,6 +72,30 @@ export const changeRepeat = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A batch exiting well with no commit is a change with nothing left to act on.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A batch that exits badly was refused, and a refused batch refuses the run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run refused that way exits with the code the refused batch exited with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A run a refused batch ended still reports every batch that landed before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its refusal says how many batches landed, then what the refused batch said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A batch with nothing left to act on after batches landed ends the run as done.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The edits a batch landing no commit left kept are dropped.",
     },
     {
@@ -101,11 +125,15 @@ export const changeRepeat = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What that batch said is the last thing the report says.",
+      statement: "What a batch ending the run as done said is the last thing the report says.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A run whose first batch landed nothing is refused rather than answered as done.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That holds whether the first batch had nothing left or was refused.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -11,6 +11,7 @@ import type { Given } from "akasha/command/modules/calling/calling.module.code.t
 import { nothing } from "akasha/command/modules/change-running/change-running.module.test-fixtures.ts"
 import { piping } from "akasha/command/modules/piping/piping.module.test-fixtures.ts"
 import {
+  type Batch,
   changeRepeat,
   clearing,
   cliAt,
@@ -74,14 +75,24 @@ function givenAt(root: string): Given {
 
 const DROPS = ["change", "drop"]
 
-function landing(commits: readonly string[], reached: string[][] = []): Running {
+const LEFT_NOTHING: Batch = { code: 0, out: [NOTHING_LEFT], err: [] }
+
+const CHECKED_OUT = "a check refused the landing"
+
+const CHECK_REFUSED: Batch = { code: 3, out: [], err: [CHECKED_OUT] }
+
+function landing(
+  commits: readonly string[],
+  reached: string[][] = [],
+  end = LEFT_NOTHING
+): Running {
   let at = 0
   return (argv, given) => {
     reached.push([...argv, given])
     if (argv[1] === "drop") return { code: 0, out: ["these edits are gone"], err: [] }
     const one = commits[at]
     at += 1
-    if (one === undefined) return { code: 1, out: [], err: [NOTHING_LEFT] }
+    if (one === undefined) return end
     return { code: 0, out: ["landed a/b.ts", `committed as ${one}`], err: [] }
   }
 }
@@ -238,7 +249,7 @@ test("every batch is handed the arguments the call was piped, unchanged", async 
   expect(reached[1]).toEqual(["change", "apply", "wide", ASKED])
 })
 
-test("the edits a refused batch left are dropped", () => {
+test("the edits a batch landing no commit left are dropped", () => {
   const reached: string[][] = []
 
   repeating(landing(["aaa"], reached), "wide", ASKED)
@@ -269,11 +280,29 @@ test("a batch that landed a commit is followed by another batch", () => {
   expect(said.report[1]).toBe("batch 2 committed as bbb")
 })
 
-test("what the batch ending the run said is the last the report says", () => {
+test("a batch leaving nothing after batches landed ends the run as done", () => {
   const said = repeating(landing(["aaa"]), "wide", ASKED)
 
+  expect(said.code).toBe(0)
+  expect(said.refusals).toEqual([])
   expect(said.report).toContain("1 batch(es) landed, and then:")
   expect(said.report.at(-1)).toBe(NOTHING_LEFT)
+})
+
+test("a batch refused after batches landed refuses the run and names both", () => {
+  const said = repeating(landing(["aaa", "bbb"], [], CHECK_REFUSED), "wide", ASKED)
+
+  expect(said.code).toBe(3)
+  expect(said.report).toEqual(["batch 1 committed as aaa", "batch 2 committed as bbb"])
+  expect(said.refusals).toEqual(["2 batch(es) landed, and then:", CHECKED_OUT])
+})
+
+test("a batch refused after batches landed still has its edits dropped", () => {
+  const reached: string[][] = []
+
+  repeating(landing(["aaa"], reached, CHECK_REFUSED), "wide", ASKED)
+
+  expect(reached.at(-1)).toEqual([...DROPS, "all: true\n"])
 })
 
 test("a run whose first batch landed nothing is refused", () => {
@@ -282,6 +311,14 @@ test("a run whose first batch landed nothing is refused", () => {
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
   expect(said.refusals).toEqual([NOTHING_LEFT])
+})
+
+test("a run whose first batch was refused is refused with that batch's code", () => {
+  const said = repeating(landing([], [], CHECK_REFUSED), "wide", ASKED)
+
+  expect(said.code).toBe(3)
+  expect(said.report).toEqual([])
+  expect(said.refusals).toEqual([CHECKED_OUT])
 })
 
 test("no line a batch printed of what it wrote is carried into the report", () => {

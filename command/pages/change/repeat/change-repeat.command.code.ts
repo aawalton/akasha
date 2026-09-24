@@ -9,6 +9,7 @@ import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { change } from "akasha/command/argument/pages/change.argument.ts"
 import {
+  answeredWith,
   answering,
   DATA,
   refusedBy,
@@ -156,7 +157,8 @@ export function repeating(
       const why = [...saidBy(batch), ...droppedBy(running)]
       if (landed.length === 0) return refusedBy([...opening, ...why], batch.code || 1)
       const closing = `${String(landed.length)} ${AND_THEN}`
-      return told([...opening, ...landed, closing, ...why])
+      if (batch.code === 0) return told([...opening, ...landed, closing, ...why])
+      return answeredWith([...opening, ...landed], [closing, ...why], batch.code)
     }
     landed.push(`batch ${String(landed.length + 1)} committed as ${commit}`)
   }
