@@ -10,13 +10,16 @@ export const audhdalanApiSubscribe = {
   urlPath: "api/subscribe",
   decisions: [
     {
-      decisionKind: "decision-kind/constraint",
-      statement:
-        "Nothing renders an `audhdalan-subscriber` page's body out of the fields the form gives.",
+      decisionKind: "decision-kind/departure",
+      statement: "An address a reader gives is kept as a subscriber page.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An address a reader gives is kept as a subscriber page.",
+      decisionKind: "decision-kind/departure",
+      statement: "An address already kept is answered as kept, and nothing is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The route's log names neither an address nor the slug made from that address.",
     },
     {
       decisionKind: "decision-kind/departure",
