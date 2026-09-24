@@ -4,5 +4,5 @@ export const atlasApp = {
   id: "01a0673a-bc3a-7000-b348-2c5b74b7e901",
   type: "page-type/domain",
   slug: "atlas-app",
-  definition: "the reader for the places held in collections",
+  definition: "the program for the places in collections",
 } as const satisfies Domain
