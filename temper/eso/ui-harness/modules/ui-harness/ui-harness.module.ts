@@ -81,6 +81,14 @@ export const uiHarness = {
       statement: "A caller hands the control templates over before loading what uses them.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game's own Lua asks whether a control it names is made yet.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name the game's own Lua or a control would hold is never answered with a stub.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "Handing templates over a second time leaves the ones handed over before.",
     },
