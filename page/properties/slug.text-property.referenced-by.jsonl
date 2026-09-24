@@ -210,6 +210,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/skill/properties/companion-skill-line.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/alliance.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/trait/properties/companion-metric.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/weapon-role/properties/weapon-skill-line.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/effect/temper-buff-major/properties/major-buff.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/effect/temper-buff-minor/properties/minor-buff.relation-property.types.ts"}

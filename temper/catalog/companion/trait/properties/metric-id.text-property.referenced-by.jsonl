@@ -1,10 +1,6 @@
 {"propertySlug":"import","fileName":"metric-id.text-property.types.ts","path":"temper/catalog/companion/skill/properties/effect-formula.record-property.types.ts"}
-{"propertySlug":"import","fileName":"metric-id.text-property.types.ts","path":"temper/catalog/companion/trait/temper-companion-trait.page-type.types.ts"}
 {"propertySlug":"import","fileName":"metric-id.text-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.types.ts"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-formula.record-property.ts","id":"01a06196-0379-794b-ab04-2e9ba72de0d9"}
-{"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","id":"01a06197-3a24-7e28-90dd-a1debfd59c2a"}
-{"propertySlug":"page-property","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.ts","id":"01a05fcf-2469-73b4-a32a-44ca09660ace"}
-{"propertySlug":"page-property","path":"temper/catalog/companion/trait/temper-companion-trait.page-type.ts","id":"01a05fce-1854-7c89-a767-43b54ae4cefa"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
 {"propertySlug":"page-property","path":"temper/catalog/thing/properties/effects.page-property-entry.ts","id":"01a05fb0-3ceb-742c-998f-6122c9954a30"}
 {"propertySlug":"page-property","path":"temper/catalog/thing/properties/quality-values.page-property-entry.ts","id":"01a05fb0-3cee-76c4-aa3f-972874e23447"}

@@ -20,5 +20,10 @@ export const companionSkillReading = {
       statement:
         "An effect drops the id its own row carries, which names the row and nothing more.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An effect names its metric by the slug of the metric's page rather than its address.",
+    },
   ],
 } as const satisfies Module

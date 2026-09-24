@@ -19,6 +19,8 @@ function rowIn(said: unknown): unknown {
   delete held.id
   const named = held.effect
   if (typeof named === "string") held.effect = slugOf(named)
+  const metric = held.metricId
+  if (typeof metric === "string") held.metricId = slugOf(metric)
   return held
 }
 

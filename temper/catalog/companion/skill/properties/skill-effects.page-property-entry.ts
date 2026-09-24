@@ -35,7 +35,7 @@ export const skillEffects = {
     { pageProperty: "boolean-property/initial-tick", required: false, many: false },
     { pageProperty: "number-property/interval", required: false, many: false },
     { pageProperty: "number-property/max-occurrences", required: false, many: false },
-    { pageProperty: "text-property/metric-id", required: false, many: false },
+    { pageProperty: "relation-property/companion-metric", required: false, many: false },
     { pageProperty: "text-property/modifier-type", required: false, many: false },
     { pageProperty: "text-property/synergy-name", required: false, many: false },
     { pageProperty: "text-property/resource", required: false, many: false },

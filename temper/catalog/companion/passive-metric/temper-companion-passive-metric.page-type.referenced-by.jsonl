@@ -16,3 +16,4 @@
 {"propertySlug":"import","fileName":"temper-companion-passive-metric.page-type.types.ts","path":"temper/catalog/companion/passive-metric/pages/companion-ultimate-generation.temper-companion-passive-metric.ts"}
 {"propertySlug":"import","fileName":"temper-companion-passive-metric.page-type.types.ts","path":"temper/catalog/companion/passive-metric/pages/companion-weapon-damage.temper-companion-passive-metric.ts"}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}
+{"propertySlug":"target-page-type","path":"temper/catalog/companion/trait/properties/companion-metric.relation-property.ts","id":"01a0d3d2-e04b-7a25-bebc-6c7c9d72dad7"}

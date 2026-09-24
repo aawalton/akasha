@@ -40,6 +40,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"unit","unique":null,"uniquePropertySlug":null,"slug":"collection-unit","propertySlug":"unit","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"readout","unique":null,"uniquePropertySlug":null,"slug":"color-from","propertySlug":"color-from","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-eso-companion","unique":null,"uniquePropertySlug":null,"slug":"companion-id","propertySlug":"companion-id","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-passive-metric","unique":null,"uniquePropertySlug":null,"slug":"companion-metric","propertySlug":"metric-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-skill-line","unique":null,"uniquePropertySlug":null,"slug":"companion-skill-line","propertySlug":"skill-line-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-completion-category","unique":null,"uniquePropertySlug":null,"slug":"completion-card","propertySlug":"completion-card","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-completion-category","unique":null,"uniquePropertySlug":null,"slug":"completion-category-parent","propertySlug":"parent","fileName":null,"folderName":null}

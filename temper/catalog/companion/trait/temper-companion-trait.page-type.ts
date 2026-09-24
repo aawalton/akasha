@@ -8,12 +8,13 @@ export const temperCompanionTrait = {
   extends: ["page-type/temper-companion-thing"],
   parts: [
     "boolean-property/is-reduction",
+    "relation-property/companion-metric",
     "text-property/metric-id",
     "text-property/trait-effect-type",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
-    { pageProperty: "text-property/metric-id", required: false, many: false },
+    { pageProperty: "relation-property/companion-metric", required: false, many: false },
     { pageProperty: "text-property/trait-effect-type", required: false, many: false },
     { pageProperty: "boolean-property/is-reduction", required: true, many: false },
   ],
