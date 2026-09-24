@@ -3,6 +3,9 @@ import {
   constantsBody,
   engineConstantsIn,
 } from "akasha/temper/eso/constant/modules/engine-constants-reading/engine-constants-reading.module.code.ts"
+import { z } from "zod"
+
+const VERSIONED_SCHEMA = z.object({ apiVersion: z.number() })
 
 const CAPTURE = `TemperCatalog_SavedVariables =
 {
@@ -80,6 +83,6 @@ describe("engineConstantsIn", () => {
     if (held === undefined) throw new Error("the capture read as nothing")
     const body = constantsBody(held)
     expect(body.endsWith("}\n")).toBe(true)
-    expect(JSON.parse(body).apiVersion).toBe(101050)
+    expect(VERSIONED_SCHEMA.parse(JSON.parse(body)).apiVersion).toBe(101050)
   })
 })

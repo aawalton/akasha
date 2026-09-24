@@ -6,6 +6,9 @@ import {
   returnKindOf,
   returnsBody,
 } from "akasha/temper/eso/return/modules/engine-returns-reading/engine-returns-reading.module.code.ts"
+import { z } from "zod"
+
+const VERSIONED_SCHEMA = z.object({ apiVersion: z.number() })
 
 const DOC = `h1. ESO UI Documentation for API Version 101050
 
@@ -113,6 +116,6 @@ describe("returnsBody", () => {
   test("writes a body ending in one newline", () => {
     const body = returnsBody(engineReturnsIn(DOC))
     expect(body.endsWith("}\n")).toBe(true)
-    expect(JSON.parse(body).apiVersion).toBe(101050)
+    expect(VERSIONED_SCHEMA.parse(JSON.parse(body)).apiVersion).toBe(101050)
   })
 })

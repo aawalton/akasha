@@ -1,3 +1,4 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   parseFunctions,
   parseObjects,
@@ -45,8 +46,7 @@ export function returnKindOf(type: string): ReturnKind {
 }
 
 export function apiVersionIn(doc: string): number {
-  const said = HEADING.exec(doc)
-  return Number(said?.[1] ?? NO_VERSION)
+  return Number(firstCapture(HEADING.exec(doc)) ?? NO_VERSION)
 }
 
 export function engineReturnsIn(doc: string): EngineReturns {
