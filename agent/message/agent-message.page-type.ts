@@ -28,6 +28,7 @@ export const agentMessage = {
     "module/agent-message-sending",
     "module/agent-message-agent-id",
     "module/agent-message-agent-tools",
+    "module/agent-message-attached-images",
     "module/agent-message-console-stdout-guard",
     "module/agent-message-delivery-witness",
     "module/agent-message-mcp",

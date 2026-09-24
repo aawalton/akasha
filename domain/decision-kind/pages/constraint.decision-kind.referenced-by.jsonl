@@ -14,6 +14,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/modules/links/hook-links.module.ts","id":"01a08dc1-ffb8-707b-b5d8-3633bf16ddae"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.ts","id":"01a0d48a-ca74-7d30-b9a7-0c5cef8978ac"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/shell-calls/shell-calls.module.ts","id":"01a04eab-4522-7000-9e89-8627b48fbcc5"}
+{"propertySlug":"decision-kind","path":"agent/message/modules/attached-images/agent-message-attached-images.module.ts","id":"01a0d4a1-3f26-7853-9819-ff4b38e9cfec"}
 {"propertySlug":"decision-kind","path":"agent/message/properties/agent-message-from.text-property.ts","id":"01a06818-107b-7001-9459-e63f4dbdd555"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/credential-push/model-account-credential-push.module.ts","id":"01a0637b-78bb-72fd-8486-f9d3a8ac23e5"}
 {"propertySlug":"decision-kind","path":"agent/model/account/modules/health/model-account-health.module.ts","id":"01a06869-4fee-7000-9180-62f07f2844dc"}
