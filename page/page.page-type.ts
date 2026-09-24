@@ -216,6 +216,11 @@ export const page = {
       statement:
         "The screen, chip, row and card any page falls back to are held beside this page type.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The screen, row and card any page falls back to draw its title in the color its page type names.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

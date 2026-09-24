@@ -106,6 +106,7 @@
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/page-card-notes/page-card-notes.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/page-cover/page-cover.module.code.tsx"}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/page-default-content/page-default-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/page-table-header/page-table-header.module.code.tsx"}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"page/ui/component/modules/property-visibility-picker-rows/property-visibility-picker-rows.module.code.tsx"}

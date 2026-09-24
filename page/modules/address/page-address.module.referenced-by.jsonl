@@ -85,6 +85,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/component/modules/relation-display/relation-display.module.test.ts"}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/component/modules/title-color/title-color.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.test.ts"}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.code.ts"}

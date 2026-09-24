@@ -18,6 +18,7 @@ import { PageActionsMenu } from "akasha/page/ui/component/modules/page-actions-m
 import type { PageCardProps } from "akasha/page/ui/component/modules/page-card/page-card.module.code.tsx"
 import { PageCardCover } from "akasha/page/ui/component/modules/page-card-cover/page-card-cover.module.code.tsx"
 import { PageCardProperties } from "akasha/page/ui/component/modules/page-card-properties/page-card-properties.module.code.tsx"
+import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 import { useOverflowFade } from "akasha/page/ui/component/modules/use-overflow-fade/use-overflow-fade.module.code.ts"
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { CheckCircle2, Circle } from "lucide-react"
@@ -65,6 +66,7 @@ export function Drawing({
   )
   const showCompletionToggle = Boolean(onComplete) && completion != null
   const isFavorite = data?.favoritedAt != null
+  const titleColor = titleColorClass(definitions ?? [], data)
 
   const titleLinkFade = useOverflowFade<HTMLSpanElement>(displayTitle)
   const staticTitleFade = useOverflowFade<HTMLSpanElement>(displayTitle)
@@ -102,6 +104,7 @@ export function Drawing({
             <CardTitle
               className={cn(
                 "min-w-0 flex-1 flex-nowrap overflow-hidden font-medium text-md",
+                titleColor,
                 isCompleted && showCompletionToggle && "line-through opacity-60"
               )}
             >

@@ -14,6 +14,7 @@ import {
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { IconPicker } from "akasha/design/interface/pattern/modules/icon-picker/icon-picker.module.code.tsx"
 import { Icon } from "akasha/design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx"
+import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { BlockEditor } from "akasha/page/ui/block-editor/modules/block-editor/block-editor.module.code.tsx"
 import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
@@ -29,6 +30,7 @@ import {
 } from "akasha/page/ui/component/modules/page-detail-sections/page-detail-sections.module.code.tsx"
 import { PageDetailSubpages } from "akasha/page/ui/component/modules/page-detail-subpages/page-detail-subpages.module.code.tsx"
 import { RecordPropertyBadge } from "akasha/page/ui/component/modules/record-property-badge/record-property-badge.module.code.tsx"
+import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 import { usePageDefaultContent } from "akasha/page/ui/component/modules/use-page-default-content/use-page-default-content.module.code.ts"
 import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import { SupabasePageResolverProvider } from "akasha/page/ui/supabase/modules/page-resolver-provider/page-resolver-provider.module.code.tsx"
@@ -69,6 +71,7 @@ export function PageDefaultContent({
     allDefinitions,
   } = usePageDefaultContent({ pageTypeSlug, id })
   const editing = useAppEditing()
+  const titleClasses = cn(PAGE_TITLE_CLASSES, titleColorClass(allDefinitions, data))
 
   return (
     <PageLayout loading={isLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
@@ -96,12 +99,10 @@ export function PageDefaultContent({
                     onChange={handleTitleChange}
                     placeholder="Untitled Page"
                     validate={(v) => (v.trim().length === 0 ? "Title is required" : null)}
-                    className={PAGE_TITLE_CLASSES}
+                    className={titleClasses}
                   />
                 ) : (
-                  <h1 className={PAGE_TITLE_CLASSES}>
-                    {expandDateMentions(String(data.title ?? ""))}
-                  </h1>
+                  <h1 className={titleClasses}>{expandDateMentions(String(data.title ?? ""))}</h1>
                 )}
                 {editing && targetSlug != null && (
                   <div className="ml-auto">

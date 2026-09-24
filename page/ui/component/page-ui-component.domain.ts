@@ -119,6 +119,7 @@ export const pageUiComponent = {
     "module/sortable-navs",
     "module/synthetic-config",
     "module/timeline-picker",
+    "module/title-color",
     "module/use-app-nav-items",
     "module/use-board-view-wiring",
     "module/use-calendar-view-wiring",

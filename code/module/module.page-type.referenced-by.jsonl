@@ -2349,6 +2349,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/sortable-navs/sortable-navs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/synthetic-config/synthetic-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/timeline-picker/timeline-picker.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/title-color/title-color.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-board-view-wiring/use-board-view-wiring.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/use-calendar-view-wiring/use-calendar-view-wiring.module.ts"}

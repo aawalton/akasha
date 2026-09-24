@@ -9,6 +9,7 @@ import { orderTableColumns } from "akasha/page/ui/component/modules/card-propert
 import { PageActionsMenu } from "akasha/page/ui/component/modules/page-actions-menu/page-actions-menu.module.code.tsx"
 import type { PageRowCellsProps } from "akasha/page/ui/component/modules/page-row-cells/page-row-cells.module.code.tsx"
 import { PropertyBadge } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
+import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 import { CheckCircle2, Circle } from "lucide-react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
@@ -33,6 +34,7 @@ export function Drawing({
   const isCompleted = completion != null && readsAsDone(completion, data)
   const showCompletionToggle = Boolean(onComplete) && completion != null
   const showActions = onToggleFavorite != null || onDelete != null
+  const titleColor = titleColorClass(definitions, data) ?? "text-primary"
 
   return (
     <>
@@ -40,7 +42,7 @@ export function Drawing({
         col.isTitle ? (
           <TableCell
             key={col.id}
-            className="overflow-hidden text-left font-medium font-sans text-primary"
+            className={cn("overflow-hidden text-left font-medium font-sans", titleColor)}
           >
             <span className="flex min-w-0 items-center gap-2">
               {showCompletionToggle && (

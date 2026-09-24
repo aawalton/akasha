@@ -48,6 +48,7 @@ export type PropertyDefinition = {
   readonly parent?: boolean
   readonly colorRule?: ColorRule
   readonly defaultValue?: ReadonlyJSONValue
+  readonly colorsTitle?: boolean
 }
 
 export type PageTypePropertiesMap = ReadonlyMap<string, readonly PropertyDefinition[]>
