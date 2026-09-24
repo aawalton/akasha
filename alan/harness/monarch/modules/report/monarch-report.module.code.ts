@@ -148,7 +148,7 @@ function ambiguousBlock(
   out.push("")
   out.push(
     `  AMBIGUOUS — ${entries.length}. Nothing fires on these and nothing is guessed between the ` +
-      "candidates; they fall through to semantic review."
+      "candidates; they are left to a person."
   )
   for (const { row, decision } of entries.slice(0, limit)) {
     if (decision.kind !== "ambiguous") continue

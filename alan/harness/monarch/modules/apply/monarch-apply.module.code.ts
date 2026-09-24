@@ -63,8 +63,8 @@ function categoryFrom(rule: Rule, row: HistoryRow, decision: Decision): string {
     case "ambiguous":
       throw new Error(
         `rule "${rule.name}" found transaction ${row.monarchId} ambiguous — ${decision.why}: ` +
-          `${decision.candidates.join(", ")}. Alan ruled that these fall through to semantic ` +
-          "review rather than being guessed between, so this path will not settle it."
+          `${decision.candidates.join(", ")}. Alan ruled that these are left to a person ` +
+          "rather than guessed between, so this path will not settle it."
       )
     default:
       return assertNever(decision)
