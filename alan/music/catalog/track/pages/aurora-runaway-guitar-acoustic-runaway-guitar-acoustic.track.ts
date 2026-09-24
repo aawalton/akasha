@@ -15,7 +15,7 @@ export const auroraRunawayGuitarAcousticRunawayGuitarAcoustic = {
   title: "Runaway - Guitar Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "runawayguitaracoustic|1WgXqy2Dd70QQOU7Ay074N|259799",
   song: "song/aurora-runaway",
   carriedBy: [

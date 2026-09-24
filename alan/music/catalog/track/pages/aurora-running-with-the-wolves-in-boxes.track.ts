@@ -12,7 +12,7 @@ export const auroraRunningWithTheWolvesInBoxes = {
   title: "In Boxes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "inboxes|1WgXqy2Dd70QQOU7Ay074N|203666",
   song: "song/aurora-in-boxes",
   carriedBy: [

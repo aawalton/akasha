@@ -12,7 +12,7 @@ export const auroraADifferentKindOfHumanStepIiADifferentKindOfHuman = {
   title: "A Different Kind Of Human",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "adifferentkindofhuman|1WgXqy2Dd70QQOU7Ay074N|241105",
   song: "song/aurora-a-different-kind-of-human",
   carriedBy: [

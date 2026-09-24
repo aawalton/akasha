@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveIntoYouLive = {
   title: "into you - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "intoyoulive|66CXWjxzNUsdJxJ2JdwvnR|179231",
   song: "song/ariana-grande-into-you",
   carriedBy: [

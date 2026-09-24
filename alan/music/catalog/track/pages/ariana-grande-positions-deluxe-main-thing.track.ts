@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeMainThing = {
   title: "main thing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "mainthing|66CXWjxzNUsdJxJ2JdwvnR|129080",
   song: "song/ariana-grande-main-thing",
   carriedBy: [

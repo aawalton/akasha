@@ -12,7 +12,7 @@ export const billieEilishBoredBored = {
   title: "Bored",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "bored|6qqNVTkY8uBg9cP3Jd7DAH|180933",
   song: "song/billie-eilish-bored",
   carriedBy: [

@@ -12,10 +12,7 @@ export const auroraWhatHappenedToTheHeartDeluxeDreamsFeatNicoleZignago = {
   title: "Dreams (feat. Nicole Zignago)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "3wvB1waB73AEUljz3Gl5Ph", artistName: "nic" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "nic" }],
   trackKey: "dreamsfeatnicolezignago|1WgXqy2Dd70QQOU7Ay074N,3wvB1waB73AEUljz3Gl5Ph|264120",
   song: "song/aurora-dreams",
   carriedBy: [

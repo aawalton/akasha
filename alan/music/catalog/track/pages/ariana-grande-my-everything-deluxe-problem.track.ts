@@ -12,10 +12,7 @@ export const arianaGrandeMyEverythingDeluxeProblem = {
   title: "Problem",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "5yG7ZAZafVaAlMTeBybKAL", artistName: "Iggy Azalea" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Iggy Azalea" }],
   trackKey: "problem|5yG7ZAZafVaAlMTeBybKAL,66CXWjxzNUsdJxJ2JdwvnR|193920",
   song: "song/ariana-grande-problem",
   carriedBy: [

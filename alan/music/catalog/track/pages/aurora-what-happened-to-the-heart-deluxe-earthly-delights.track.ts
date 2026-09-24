@@ -15,7 +15,7 @@ export const auroraWhatHappenedToTheHeartDeluxeEarthlyDelights = {
   title: "Earthly Delights",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "earthlydelights|1WgXqy2Dd70QQOU7Ay074N|201200",
   song: "song/aurora-earthly-delights",
   carriedBy: [

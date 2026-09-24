@@ -12,10 +12,7 @@ export const auroraASoulWithNoKingRemixFeatNatureASoulWithNoKingRemixFeatNature 
   title: "A Soul With No King - Remix (feat. NATURE)",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "1clB4n7uMUiSx5ZZ0FQoM1", artistName: "NATURE" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "NATURE" }],
   trackKey: "asoulwithnokingremixfeatnature|1WgXqy2Dd70QQOU7Ay074N,1clB4n7uMUiSx5ZZ0FQoM1|314933",
   song: "song/aurora-a-soul-with-no-king",
   carriedBy: [

@@ -15,10 +15,7 @@ export const arianaGrandeYesAndJonasBlueRemixYesAndJonasBlueRemix = {
   title: "yes, and? - Jonas Blue Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "1HBjj22wzbscIZ9sEb5dyf", artistName: "Jonas Blue" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Jonas Blue" }],
   trackKey: "yesandjonasblueremix|1HBjj22wzbscIZ9sEb5dyf,66CXWjxzNUsdJxJ2JdwvnR|212903",
   song: "song/ariana-grande-yes-and",
   carriedBy: [

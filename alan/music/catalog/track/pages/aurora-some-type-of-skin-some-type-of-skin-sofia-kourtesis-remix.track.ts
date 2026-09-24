@@ -12,10 +12,7 @@ export const auroraSomeTypeOfSkinSomeTypeOfSkinSofiaKourtesisRemix = {
   title: "Some Type of Skin - Sofia Kourtesis Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "7wXTWO45lqpUejDkike0Gf", artistName: "Sofia Kourtesis" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Sofia Kourtesis" }],
   trackKey:
     "sometypeofskinsofiakourtesisremix|1WgXqy2Dd70QQOU7Ay074N,7wXTWO45lqpUejDkike0Gf|204693",
   song: "song/aurora-some-type-of-skin",

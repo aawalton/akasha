@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveNoTearsLeftToCryLive = {
   title: "no tears left to cry - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "notearslefttocrylive|66CXWjxzNUsdJxJ2JdwvnR|233416",
   song: "song/ariana-grande-no-tears-left-to-cry",
   carriedBy: [

@@ -16,10 +16,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDefyingGravity = {
   title: "Defying Gravity",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artist: "artist/cynthia-erivo" }, { artist: "artist/ariana-grande" }],
   trackKey: "defyinggravity|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|459766",
   song: "song/ariana-grande-defying-gravity",
   carriedBy: [

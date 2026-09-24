@@ -12,7 +12,7 @@ export const arianaGrandeSweetenerREM = {
   title: "R.E.M",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "rem|66CXWjxzNUsdJxJ2JdwvnR|245666",
   song: "song/ariana-grande-r-e-m",
   carriedBy: [

@@ -12,10 +12,7 @@ export const arianaGrandeMyEverythingDeluxeBeMyBaby = {
   title: "Be My Baby",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "2LZDXcxJWgsJfKXZv9a5eG", artistName: "Cashmere Cat" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Cashmere Cat" }],
   trackKey: "bemybaby|2LZDXcxJWgsJfKXZv9a5eG,66CXWjxzNUsdJxJ2JdwvnR|217053",
   song: "song/ariana-grande-be-my-baby",
   carriedBy: [

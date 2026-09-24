@@ -12,7 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionDaydreamin = {
   title: "Daydreamin'",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "daydreamin|66CXWjxzNUsdJxJ2JdwvnR|211287",
   song: "song/ariana-grande-daydreamin",
   carriedBy: [

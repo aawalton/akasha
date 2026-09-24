@@ -12,10 +12,7 @@ export const arianaGrandeIntoYou3lauRemixIntoYou3lauRemix = {
   title: "Into You - 3LAU Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4YLQaW1UU3mrVetC8gNkg5", artistName: "3LAU" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "3LAU" }],
   trackKey: "intoyou3lauremix|4YLQaW1UU3mrVetC8gNkg5,66CXWjxzNUsdJxJ2JdwvnR|197146",
   song: "song/ariana-grande-into-you",
   carriedBy: [

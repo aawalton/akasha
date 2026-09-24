@@ -15,10 +15,7 @@ export const arianaGrandeYesAndRemixesYesAndTheBlessedMadonnasGodsquadMix = {
   title: "yes, and? - The Blessed Madonna’s Godsquad Mix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4TvhRzxIL1le2PWCeUqxQw", artistName: "The Blessed Madonna" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "The Blessed Madonna" }],
   trackKey:
     "yesandtheblessedmadonnasgodsquadmix|4TvhRzxIL1le2PWCeUqxQw,66CXWjxzNUsdJxJ2JdwvnR|301982",
   song: "song/ariana-grande-yes-and",

@@ -12,7 +12,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeConqueror = {
   title: "Conqueror",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "conqueror|1WgXqy2Dd70QQOU7Ay074N|207506",
   song: "song/aurora-conqueror",
   carriedBy: [

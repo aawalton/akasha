@@ -12,10 +12,7 @@ export const arianaGrandeMyEverythingDeluxeHandsOnMe = {
   title: "Hands On Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "5dHt1vcEm9qb8fCyLcB3HL", artistName: "A$AP Ferg" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "A$AP Ferg" }],
   trackKey: "handsonme|5dHt1vcEm9qb8fCyLcB3HL,66CXWjxzNUsdJxJ2JdwvnR|192226",
   song: "song/ariana-grande-hands-on-me",
   carriedBy: [

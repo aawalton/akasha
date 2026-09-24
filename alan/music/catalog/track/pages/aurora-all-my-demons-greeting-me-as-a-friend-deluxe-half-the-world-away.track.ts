@@ -15,7 +15,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeHalfTheWorldAway = {
   title: "Half the World Away",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "halftheworldaway|1WgXqy2Dd70QQOU7Ay074N|198133",
   song: "song/aurora-half-the-world-away",
   carriedBy: [

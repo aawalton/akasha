@@ -12,10 +12,7 @@ export const auroraStarvationAnnaRemixStarvationAnnaRemix = {
   title: "Starvation (ANNA Remix)",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "3wkaDi2HJV3eCaBJ4iH6om", artistName: "ANNA" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "ANNA" }],
   trackKey: "starvationannaremix|1WgXqy2Dd70QQOU7Ay074N,3wkaDi2HJV3eCaBJ4iH6om|213986",
   song: "song/aurora-starvation",
   carriedBy: [

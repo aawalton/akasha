@@ -12,10 +12,7 @@ export const arianaGrandeMetHimLastNightMetHimLastNight = {
   title: "Met Him Last Night",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "6S2OmqARrzebs0tKUEyXyp", artistName: "Demi Lovato" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artistName: "Demi Lovato" }, { artist: "artist/ariana-grande" }],
   trackKey: "methimlastnight|66CXWjxzNUsdJxJ2JdwvnR,6S2OmqARrzebs0tKUEyXyp|204631",
   song: "song/ariana-grande-met-him-last-night",
   carriedBy: [

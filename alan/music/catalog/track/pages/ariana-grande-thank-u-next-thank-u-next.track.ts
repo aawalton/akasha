@@ -12,7 +12,7 @@ export const arianaGrandeThankUNextThankUNext = {
   title: "thank u, next",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "thankunext|66CXWjxzNUsdJxJ2JdwvnR|207320",
   song: "song/ariana-grande-thank-u-next",
   carriedBy: [

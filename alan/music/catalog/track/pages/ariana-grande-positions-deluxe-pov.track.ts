@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxePov = {
   title: "pov",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "pov|66CXWjxzNUsdJxJ2JdwvnR|201882",
   song: "song/ariana-grande-pov",
   carriedBy: [

@@ -15,7 +15,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoGoodDeed = {
   title: "No Good Deed",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
+  trackArtist: [{ artist: "artist/cynthia-erivo" }],
   trackKey: "nogooddeed|46UMQ0cW8ToR8egkBRwAxZ|230250",
   song: "song/ariana-grande-no-good-deed",
   carriedBy: [

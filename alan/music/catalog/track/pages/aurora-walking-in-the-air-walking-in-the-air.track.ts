@@ -12,7 +12,7 @@ export const auroraWalkingInTheAirWalkingInTheAir = {
   title: "Walking In The Air",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "walkingintheair|1WgXqy2Dd70QQOU7Ay074N|209053",
   song: "song/aurora-walking-in-the-air",
   carriedBy: [

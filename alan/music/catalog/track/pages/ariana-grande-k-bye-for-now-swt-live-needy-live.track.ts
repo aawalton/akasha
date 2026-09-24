@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveNeedyLive = {
   title: "needy - live",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "needylive|66CXWjxzNUsdJxJ2JdwvnR|174294",
   song: "song/ariana-grande-needy",
   carriedBy: [

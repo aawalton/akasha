@@ -14,7 +14,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   title: "Hampstead - instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "hampsteadinstrumental|66CXWjxzNUsdJxJ2JdwvnR|216264",
   song: "song/ariana-grande-hampstead",
   carriedBy: [

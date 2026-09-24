@@ -12,10 +12,7 @@ export const auroraAppleTreeGeorgiaRemixAppleTreeGeorgiaRemix = {
   title: "Apple Tree - Georgia Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "06knYh538h5SI7OAEF8ek3", artistName: "Georgia" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Georgia" }],
   trackKey: "appletreegeorgiaremix|06knYh538h5SI7OAEF8ek3,1WgXqy2Dd70QQOU7Ay074N|263411",
   song: "song/aurora-apple-tree",
   carriedBy: [

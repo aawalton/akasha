@@ -12,7 +12,7 @@ export const arianaGrandeSweetenerBreathin = {
   title: "breathin",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "breathin|66CXWjxzNUsdJxJ2JdwvnR|198160",
   song: "song/ariana-grande-breathin",
   carriedBy: [

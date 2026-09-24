@@ -12,10 +12,7 @@ export const arianaGrandeSantaCanTYouHearMeLiveSantaCantYouHearMeLive = {
   title: "Santa, Can’t You Hear Me - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "3BmGtnKgCSGYIUhmivXKWX", artistName: "Kelly Clarkson" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artist: "artist/kelly-clarkson" }, { artist: "artist/ariana-grande" }],
   trackKey: "santacantyouhearmelive|3BmGtnKgCSGYIUhmivXKWX,66CXWjxzNUsdJxJ2JdwvnR|225578",
   song: "song/kelly-clarkson-santa-cant-you-hear-me",
   carriedBy: [

@@ -12,7 +12,7 @@ export const arianaGrandePositions3435 = {
   title: "34+35",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "3435|66CXWjxzNUsdJxJ2JdwvnR|173710",
   song: "song/ariana-grande-34-35",
   carriedBy: [

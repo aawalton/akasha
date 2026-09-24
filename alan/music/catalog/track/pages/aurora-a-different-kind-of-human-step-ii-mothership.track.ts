@@ -12,7 +12,7 @@ export const auroraADifferentKindOfHumanStepIiMothership = {
   title: "Mothership",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "mothership|1WgXqy2Dd70QQOU7Ay074N|136822",
   song: "song/aurora-mothership",
   carriedBy: [

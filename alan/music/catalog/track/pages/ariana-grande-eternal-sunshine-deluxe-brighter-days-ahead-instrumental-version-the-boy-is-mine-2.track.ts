@@ -14,7 +14,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   title: "the boy is mine - instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "theboyismineinstrumental|66CXWjxzNUsdJxJ2JdwvnR|173639",
   song: "song/ariana-grande-the-boy-is-mine",
   carriedBy: [

@@ -15,7 +15,7 @@ export const auroraADifferentKindOfHumanStepIiDanceOnTheMoon = {
   title: "Dance On The Moon",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "danceonthemoon|1WgXqy2Dd70QQOU7Ay074N|216294",
   song: "song/aurora-dance-on-the-moon",
   carriedBy: [

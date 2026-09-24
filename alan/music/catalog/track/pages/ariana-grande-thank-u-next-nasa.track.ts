@@ -12,7 +12,7 @@ export const arianaGrandeThankUNextNasa = {
   title: "NASA",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "nasa|66CXWjxzNUsdJxJ2JdwvnR|182000",
   song: "song/ariana-grande-nasa",
   carriedBy: [

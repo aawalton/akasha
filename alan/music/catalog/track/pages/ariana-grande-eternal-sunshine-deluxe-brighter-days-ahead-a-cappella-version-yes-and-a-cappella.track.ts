@@ -15,7 +15,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionY
   title: "yes, and? - a cappella",
   trackType: "a-cappella",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "yesandacappella|66CXWjxzNUsdJxJ2JdwvnR|196651",
   song: "song/ariana-grande-yes-and",
   carriedBy: [

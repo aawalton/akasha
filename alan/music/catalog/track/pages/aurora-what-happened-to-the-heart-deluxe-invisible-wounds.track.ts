@@ -15,7 +15,7 @@ export const auroraWhatHappenedToTheHeartDeluxeInvisibleWounds = {
   title: "Invisible Wounds",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "invisiblewounds|1WgXqy2Dd70QQOU7Ay074N|299306",
   song: "song/aurora-invisible-wounds",
   carriedBy: [

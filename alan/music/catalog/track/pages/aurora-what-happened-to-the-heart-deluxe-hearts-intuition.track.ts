@@ -12,7 +12,7 @@ export const auroraWhatHappenedToTheHeartDeluxeHeartsIntuition = {
   title: "Hearts Intuition",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "heartsintuition|1WgXqy2Dd70QQOU7Ay074N|201413",
   song: "song/aurora-hearts-intuition",
   carriedBy: [

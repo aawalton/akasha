@@ -15,7 +15,7 @@ export const auroraADifferentKindOfHumanStepIiSoullessCreatures = {
   title: "Soulless Creatures",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "soullesscreatures|1WgXqy2Dd70QQOU7Ay074N|302045",
   song: "song/aurora-soulless-creatures",
   carriedBy: [

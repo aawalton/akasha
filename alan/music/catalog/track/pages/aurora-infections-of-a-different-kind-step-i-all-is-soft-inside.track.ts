@@ -16,7 +16,7 @@ export const auroraInfectionsOfADifferentKindStepIAllIsSoftInside = {
   title: "All Is Soft Inside",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "allissoftinside|1WgXqy2Dd70QQOU7Ay074N|308943",
   song: "song/aurora-all-is-soft-inside",
   carriedBy: [

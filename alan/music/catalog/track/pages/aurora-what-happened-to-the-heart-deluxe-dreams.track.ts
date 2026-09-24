@@ -15,7 +15,7 @@ export const auroraWhatHappenedToTheHeartDeluxeDreams = {
   title: "Dreams",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "dreams|1WgXqy2Dd70QQOU7Ay074N|264093",
   song: "song/aurora-dreams",
   carriedBy: [

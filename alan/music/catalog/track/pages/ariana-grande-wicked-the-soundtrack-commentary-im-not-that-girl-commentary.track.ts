@@ -13,10 +13,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirlCommentary = 
   title: "I’m Not That Girl - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2NqTD8XByzWPCUQQmza0xP", artistName: "Jon Chu" },
-    { externalId: "1e6BRnFiiwNZl04xu1yqmi", artistName: "Stephen Oremus" },
-  ],
+  trackArtist: [{ artistName: "Jon Chu" }, { artistName: "Stephen Oremus" }],
   trackKey: "imnotthatgirlcommentary|1e6BRnFiiwNZl04xu1yqmi,2NqTD8XByzWPCUQQmza0xP|73031",
   song: "song/ariana-grande-im-not-that-girl-commentary",
   carriedBy: [

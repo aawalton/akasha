@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveMakeUpLive = {
   title: "make up - live",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "makeuplive|66CXWjxzNUsdJxJ2JdwvnR|138358",
   song: "song/ariana-grande-make-up",
   carriedBy: [

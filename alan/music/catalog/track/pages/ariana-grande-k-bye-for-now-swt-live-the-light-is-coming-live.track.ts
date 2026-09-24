@@ -12,10 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveTheLightIsComingLive = {
   title: "the light is coming - live",
   trackType: "live",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Nicki Minaj" }],
   trackKey: "thelightiscominglive|0hCNtLu0JehylgoiP8L4Gh,66CXWjxzNUsdJxJ2JdwvnR|130071",
   song: "song/ariana-grande-the-light-is-coming",
   carriedBy: [

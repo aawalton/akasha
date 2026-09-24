@@ -12,10 +12,7 @@ export const auroraParamourFeatAuroraParamourFeatAurora = {
   title: "PARAMOUR (feat. AURORA)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7gXb99Sf9nNmpNYeAgIQFG", artistName: "Sub Urban" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-  ],
+  trackArtist: [{ artistName: "Sub Urban" }, { artist: "artist/aurora" }],
   trackKey: "paramourfeataurora|1WgXqy2Dd70QQOU7Ay074N,7gXb99Sf9nNmpNYeAgIQFG|168433",
   song: "song/aurora-paramour",
   carriedBy: [

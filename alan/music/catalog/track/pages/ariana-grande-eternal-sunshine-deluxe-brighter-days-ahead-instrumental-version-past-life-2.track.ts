@@ -14,7 +14,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   title: "past life - instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "pastlifeinstrumental|66CXWjxzNUsdJxJ2JdwvnR|215834",
   song: "song/ariana-grande-past-life",
   carriedBy: [

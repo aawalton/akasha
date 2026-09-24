@@ -12,7 +12,7 @@ export const auroraStjernestVStjernestV = {
   title: "Stjernestøv",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "stjernestv|1WgXqy2Dd70QQOU7Ay074N|198045",
   song: "song/aurora-stjernest-v",
   carriedBy: [

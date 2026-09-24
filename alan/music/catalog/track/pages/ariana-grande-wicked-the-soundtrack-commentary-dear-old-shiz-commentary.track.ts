@@ -13,7 +13,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDearOldShizCommentary = {
   title: "Dear Old Shiz - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "dearoldshizcommentary|66CXWjxzNUsdJxJ2JdwvnR|41303",
   song: "song/ariana-grande-dear-old-shiz-commentary",
   carriedBy: [

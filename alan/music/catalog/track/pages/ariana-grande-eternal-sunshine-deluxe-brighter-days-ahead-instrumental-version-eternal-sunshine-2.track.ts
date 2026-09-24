@@ -15,7 +15,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     title: "eternal sunshine - instrumental",
     trackType: "instrumental",
     explicit: false,
-    trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: "artist/ariana-grande" }],
     trackKey: "eternalsunshineinstrumental|66CXWjxzNUsdJxJ2JdwvnR|210200",
     song: "song/ariana-grande-eternal-sunshine",
     carriedBy: [

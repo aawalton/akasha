@@ -12,10 +12,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackConcertIntro = {
   title: "Concert Intro",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "33FyliUEEegVPPrsOaLsn4", artistName: "Vincent Diamante" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Vincent Diamante" }],
   trackKey: "concertintro|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|67000",
   song: "song/aurora-concert-intro",
   carriedBy: [

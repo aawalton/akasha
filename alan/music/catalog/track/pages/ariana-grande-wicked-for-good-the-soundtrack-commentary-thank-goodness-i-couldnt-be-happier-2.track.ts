@@ -16,9 +16,9 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "3eLZo1bSslvsu0zNhtmMM4", artistName: "Wicked Movie Cast" },
-    { externalId: "5IaJcuBeBkVqhGAzxMciwu", artistName: "Michelle Yeoh" },
+    { artist: "artist/ariana-grande" },
+    { artist: "artist/wicked-movie-cast" },
+    { artistName: "Michelle Yeoh" },
   ],
   trackKey:
     "thankgoodnessicouldntbehappier|3eLZo1bSslvsu0zNhtmMM4,5IaJcuBeBkVqhGAzxMciwu,66CXWjxzNUsdJxJ2JdwvnR|322866",

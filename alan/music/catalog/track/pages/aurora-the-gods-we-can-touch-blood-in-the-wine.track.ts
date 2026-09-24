@@ -12,7 +12,7 @@ export const auroraTheGodsWeCanTouchBloodInTheWine = {
   title: "Blood In The Wine",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "bloodinthewine|1WgXqy2Dd70QQOU7Ay074N|209960",
   song: "song/aurora-blood-in-the-wine",
   carriedBy: [

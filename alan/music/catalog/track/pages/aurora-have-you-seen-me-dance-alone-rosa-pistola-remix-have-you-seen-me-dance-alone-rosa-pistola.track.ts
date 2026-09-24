@@ -13,10 +13,10 @@ export const auroraHaveYouSeenMeDanceAloneRosaPistolaRemixHaveYouSeenMeDanceAlon
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "5r0BuurxKQugj8cjHiO8pY", artistName: "TOMORA" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "45F5Ue9KSHAtp7aE85zlsW", artistName: "Tom Rowlands" },
-    { externalId: "06fEHseCklFEuDgM5dccHX", artistName: "Rosa Pistola" },
+    { artistName: "TOMORA" },
+    { artist: "artist/aurora" },
+    { artistName: "Tom Rowlands" },
+    { artistName: "Rosa Pistola" },
   ],
   trackKey:
     "haveyouseenmedancealonerosapistolaremix|06fEHseCklFEuDgM5dccHX,1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|243851",

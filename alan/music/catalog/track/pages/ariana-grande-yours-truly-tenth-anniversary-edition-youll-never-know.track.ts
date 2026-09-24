@@ -15,7 +15,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionYoullNeverKnow = {
   title: "You’ll Never Know",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "youllneverknow|66CXWjxzNUsdJxJ2JdwvnR|214280",
   song: "song/ariana-grande-you-ll-never-know",
   carriedBy: [

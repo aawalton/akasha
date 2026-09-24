@@ -12,10 +12,7 @@ export const arianaGrandePositionsDeluxeMotiveWithDojaCat = {
   title: "motive (with Doja Cat)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "5cj0lLjcoR7YOSnhnX0Po5", artistName: "Doja Cat" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Doja Cat" }],
   trackKey: "motivewithdojacat|5cj0lLjcoR7YOSnhnX0Po5,66CXWjxzNUsdJxJ2JdwvnR|167989",
   song: "song/ariana-grande-motive",
   carriedBy: [

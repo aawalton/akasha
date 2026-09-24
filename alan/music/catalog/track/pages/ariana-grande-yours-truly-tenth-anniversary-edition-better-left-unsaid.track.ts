@@ -12,7 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBetterLeftUnsaid = {
   title: "Better Left Unsaid",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "betterleftunsaid|66CXWjxzNUsdJxJ2JdwvnR|212838",
   song: "song/ariana-grande-better-left-unsaid",
   carriedBy: [

@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeJustLikeMagic = {
   title: "just like magic",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "justlikemagic|66CXWjxzNUsdJxJ2JdwvnR|149900",
   song: "song/ariana-grande-just-like-magic",
   carriedBy: [

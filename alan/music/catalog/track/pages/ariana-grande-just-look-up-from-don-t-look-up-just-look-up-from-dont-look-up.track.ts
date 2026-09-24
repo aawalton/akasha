@@ -12,10 +12,7 @@ export const arianaGrandeJustLookUpFromDonTLookUpJustLookUpFromDontLookUp = {
   title: "Just Look Up (From Don’t Look Up)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0fA0VVWsXO9YnASrzqfmYu", artistName: "Kid Cudi" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Kid Cudi" }],
   trackKey: "justlookupfromdontlookup|0fA0VVWsXO9YnASrzqfmYu,66CXWjxzNUsdJxJ2JdwvnR|201667",
   song: "song/ariana-grande-just-look-up-from-dont-look-up",
   carriedBy: [

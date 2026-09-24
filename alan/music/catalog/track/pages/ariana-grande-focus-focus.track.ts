@@ -12,7 +12,7 @@ export const arianaGrandeFocusFocus = {
   title: "Focus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "focus|66CXWjxzNUsdJxJ2JdwvnR|211360",
   song: "song/ariana-grande-focus",
   carriedBy: [

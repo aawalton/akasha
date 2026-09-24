@@ -12,7 +12,7 @@ export const auroraTheGodsWeCanTouchTheForbiddenFruitsOfEden = {
   title: "The Forbidden Fruits Of Eden",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "theforbiddenfruitsofeden|1WgXqy2Dd70QQOU7Ay074N|40453",
   song: "song/aurora-the-forbidden-fruits-of-eden",
   carriedBy: [

@@ -15,7 +15,7 @@ export const auroraWhatHappenedToTheHeartDeluxeTheBlade = {
   title: "The Blade",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "theblade|1WgXqy2Dd70QQOU7Ay074N|273213",
   song: "song/aurora-the-blade",
   carriedBy: [

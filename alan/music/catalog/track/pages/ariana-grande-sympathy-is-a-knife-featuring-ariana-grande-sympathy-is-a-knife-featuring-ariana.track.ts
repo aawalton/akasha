@@ -12,10 +12,7 @@ export const arianaGrandeSympathyIsAKnifeFeaturingArianaGrandeSympathyIsAKnifeFe
   title: "Sympathy is a knife featuring ariana grande",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "25uiPmTg16RbhZWAqwLBy5", artistName: "Charli xcx" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artistName: "Charli xcx" }, { artist: "artist/ariana-grande" }],
   trackKey:
     "sympathyisaknifefeaturingarianagrande|25uiPmTg16RbhZWAqwLBy5,66CXWjxzNUsdJxJ2JdwvnR|154126",
   song: "song/ariana-grande-sympathy-is-a-knife-featuring-ariana-grande",

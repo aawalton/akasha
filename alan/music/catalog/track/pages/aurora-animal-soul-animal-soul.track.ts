@@ -12,7 +12,7 @@ export const auroraAnimalSoulAnimalSoul = {
   title: "Animal Soul",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "animalsoul|1WgXqy2Dd70QQOU7Ay074N|182200",
   song: "song/aurora-animal-soul",
   carriedBy: [

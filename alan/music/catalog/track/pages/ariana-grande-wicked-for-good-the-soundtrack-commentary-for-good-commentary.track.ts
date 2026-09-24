@@ -14,10 +14,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGoodCommentary =
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
-    { externalId: "6VAUVq50O85s387FLQJi2B", artistName: "Jon M. Chu" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
+    { artistName: "Stephen Schwartz" },
+    { artistName: "Jon M. Chu" },
+    { artist: "artist/ariana-grande" },
+    { artist: "artist/cynthia-erivo" },
   ],
   trackKey:
     "forgoodcommentary|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,6VAUVq50O85s387FLQJi2B,7daPb40K64rRtF36wd3ZOk|138064",

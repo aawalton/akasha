@@ -15,7 +15,7 @@ export const auroraWhatHappenedToTheHeartDeluxeStarvation = {
   title: "Starvation",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "starvation|1WgXqy2Dd70QQOU7Ay074N|207613",
   song: "song/aurora-starvation",
   carriedBy: [

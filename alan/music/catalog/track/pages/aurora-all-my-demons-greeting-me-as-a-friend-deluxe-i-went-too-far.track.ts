@@ -12,7 +12,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeIWentTooFar = {
   title: "I Went Too Far",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "iwenttoofar|1WgXqy2Dd70QQOU7Ay074N|207853",
   song: "song/aurora-i-went-too-far",
   carriedBy: [

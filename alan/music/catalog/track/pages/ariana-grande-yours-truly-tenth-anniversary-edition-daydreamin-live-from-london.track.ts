@@ -12,7 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionDaydreaminLiveFromLond
   title: "Daydreamin' - Live from London",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "daydreaminlivefromlondon|66CXWjxzNUsdJxJ2JdwvnR|210300",
   song: "song/ariana-grande-daydreamin",
   carriedBy: [

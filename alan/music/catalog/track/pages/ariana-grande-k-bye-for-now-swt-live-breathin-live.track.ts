@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveBreathinLive = {
   title: "breathin - live",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "breathinlive|66CXWjxzNUsdJxJ2JdwvnR|208294",
   song: "song/ariana-grande-breathin",
   carriedBy: [

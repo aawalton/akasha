@@ -12,10 +12,7 @@ export const auroraToBeLovedToBeLoved = {
   title: "To Be Loved",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-  ],
+  trackArtist: [{ artistName: "Askjell" }, { artist: "artist/aurora" }],
   trackKey: "tobeloved|1WgXqy2Dd70QQOU7Ay074N,3NABmtfO8G8s96WFGhbR7F|228594",
   song: "song/aurora-to-be-loved",
   carriedBy: [

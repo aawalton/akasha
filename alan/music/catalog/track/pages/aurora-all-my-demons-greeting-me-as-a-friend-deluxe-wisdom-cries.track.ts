@@ -12,7 +12,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeWisdomCries = {
   title: "Wisdom Cries",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "wisdomcries|1WgXqy2Dd70QQOU7Ay074N|247106",
   song: "song/aurora-wisdom-cries",
   carriedBy: [

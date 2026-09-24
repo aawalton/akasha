@@ -15,10 +15,7 @@ export const auroraForgottenLoveClaptoneExtendedRemixForgottenLoveClaptoneExtend
   title: "Forgotten Love - Claptone Extended Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "4mncDFjVLUa3s025Tct3Ry", artistName: "Claptone" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Claptone" }],
   trackKey:
     "forgottenloveclaptoneextendedremix|1WgXqy2Dd70QQOU7Ay074N,4mncDFjVLUa3s025Tct3Ry|404383",
   song: "song/aurora-forgotten-love",

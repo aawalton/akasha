@@ -12,10 +12,7 @@ export const auroraBringBackTheColorFeatAuroraBringBackTheColorFeatAurora = {
   title: "BRING BACK THE COLOR (feat. AURORA)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jNDKefhfSbLR9sFvcPLHo", artistName: "San Holo" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-  ],
+  trackArtist: [{ artistName: "San Holo" }, { artist: "artist/aurora" }],
   trackKey: "bringbackthecolorfeataurora|0jNDKefhfSbLR9sFvcPLHo,1WgXqy2Dd70QQOU7Ay074N|168545",
   song: "song/aurora-bring-back-the-color",
   carriedBy: [

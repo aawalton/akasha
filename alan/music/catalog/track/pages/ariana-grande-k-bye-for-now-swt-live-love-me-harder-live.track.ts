@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveLoveMeHarderLive = {
   title: "love me harder - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "lovemeharderlive|66CXWjxzNUsdJxJ2JdwvnR|83784",
   song: "song/ariana-grande-love-me-harder",
   carriedBy: [

@@ -16,7 +16,7 @@ export const arianaGrandeWickedTheSoundtrackASentimentalMan = {
   title: "A Sentimental Man",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0O1n2TpXR4XizmHi7aY0l8", artistName: "Jeff Goldblum" }],
+  trackArtist: [{ artist: "artist/jeff-goldblum" }],
   trackKey: "asentimentalman|0O1n2TpXR4XizmHi7aY0l8|132621",
   song: "song/ariana-grande-a-sentimental-man",
   carriedBy: [

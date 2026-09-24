@@ -15,7 +15,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   title: "twilight zone - instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "twilightzoneinstrumental|66CXWjxzNUsdJxJ2JdwvnR|198320",
   song: "song/ariana-grande-twilight-zone",
   carriedBy: [

@@ -12,7 +12,7 @@ export const arianaGrandeYoursTrulyLovinIt = {
   title: "Lovin' It",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "lovinit|66CXWjxzNUsdJxJ2JdwvnR|180693",
   song: "song/ariana-grande-lovin-it",
   carriedBy: [

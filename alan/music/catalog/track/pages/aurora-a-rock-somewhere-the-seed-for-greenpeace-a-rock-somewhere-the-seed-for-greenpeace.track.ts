@@ -12,10 +12,7 @@ export const auroraARockSomewhereTheSeedForGreenpeaceARockSomewhereTheSeedForGre
   title: "A Rock Somewhere / The Seed - For Greenpeace",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0QWrMNukfcVOmgEU0FEDyD", artistName: "Jacob Collier" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-  ],
+  trackArtist: [{ artistName: "Jacob Collier" }, { artist: "artist/aurora" }],
   trackKey:
     "arocksomewheretheseedforgreenpeace|0QWrMNukfcVOmgEU0FEDyD,1WgXqy2Dd70QQOU7Ay074N|358246",
   song: "song/aurora-a-rock-somewhere-the-seed-for-greenpeace",

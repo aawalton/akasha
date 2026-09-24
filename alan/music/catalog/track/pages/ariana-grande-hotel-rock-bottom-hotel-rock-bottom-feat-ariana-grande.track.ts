@@ -12,10 +12,7 @@ export const arianaGrandeHotelRockBottomHotelRockBottomFeatArianaGrande = {
   title: "Hotel Rock Bottom (feat. Ariana Grande)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "31hoObE1mECmBt2P64uqLK", artistName: "Frankie Grande" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artistName: "Frankie Grande" }, { artist: "artist/ariana-grande" }],
   trackKey: "hotelrockbottomfeatarianagrande|31hoObE1mECmBt2P64uqLK,66CXWjxzNUsdJxJ2JdwvnR|195705",
   song: "song/ariana-grande-hotel-rock-bottom",
   carriedBy: [

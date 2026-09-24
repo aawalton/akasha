@@ -13,10 +13,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLifeCommenta
   title: "Dancing Through Life - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2Je7IdIHe8UvZbLXdapQ26", artistName: "Jonathan Bailey" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artist: "artist/jonathan-bailey" }, { artist: "artist/ariana-grande" }],
   trackKey: "dancingthroughlifecommentary|2Je7IdIHe8UvZbLXdapQ26,66CXWjxzNUsdJxJ2JdwvnR|84815",
   song: "song/ariana-grande-dancing-through-life-commentary",
   carriedBy: [

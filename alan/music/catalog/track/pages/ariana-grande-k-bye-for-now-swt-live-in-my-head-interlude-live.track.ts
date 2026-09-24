@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveInMyHeadInterludeLive = {
   title: "in my head interlude - live",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "inmyheadinterludelive|66CXWjxzNUsdJxJ2JdwvnR|150000",
   song: "song/ariana-grande-in-my-head-interlude",
   carriedBy: [

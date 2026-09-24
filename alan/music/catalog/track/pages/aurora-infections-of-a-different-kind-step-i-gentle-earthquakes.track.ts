@@ -15,7 +15,7 @@ export const auroraInfectionsOfADifferentKindStepIGentleEarthquakes = {
   title: "Gentle Earthquakes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "gentleearthquakes|1WgXqy2Dd70QQOU7Ay074N|227328",
   song: "song/aurora-gentle-earthquakes",
   carriedBy: [

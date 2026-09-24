@@ -13,10 +13,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheGirlInTheBubbleC
   title: "The Girl in the Bubble - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "6VAUVq50O85s387FLQJi2B", artistName: "Jon M. Chu" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Jon M. Chu" }],
   trackKey: "thegirlinthebubblecommentary|66CXWjxzNUsdJxJ2JdwvnR,6VAUVq50O85s387FLQJi2B|68483",
   song: "song/ariana-grande-the-girl-in-the-bubble-commentary",
   carriedBy: [

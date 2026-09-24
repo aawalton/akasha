@@ -16,7 +16,7 @@ export const auroraToBeAlrightToBeAlright = {
   title: "To Be Alright",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "tobealright|1WgXqy2Dd70QQOU7Ay074N|245640",
   song: "song/aurora-to-be-alright",
   carriedBy: [

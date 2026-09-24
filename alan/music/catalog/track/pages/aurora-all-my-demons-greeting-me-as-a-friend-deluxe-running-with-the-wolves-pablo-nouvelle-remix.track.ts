@@ -12,10 +12,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunningWithTheWolvesPablo
   title: "Running with the Wolves - Pablo Nouvelle Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "2OIJq28O1lXrZ2x3NGSk8P", artistName: "Pablo Nouvelle" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Pablo Nouvelle" }],
   trackKey:
     "runningwiththewolvespablonouvelleremix|1WgXqy2Dd70QQOU7Ay074N,2OIJq28O1lXrZ2x3NGSk8P|230266",
   song: "song/aurora-running-with-the-wolves",

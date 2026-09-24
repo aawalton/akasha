@@ -17,7 +17,7 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLove = {
   title: "Exist for Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "existforlove|1WgXqy2Dd70QQOU7Ay074N|252716",
   song: "song/aurora-exist-for-love",
   carriedBy: [

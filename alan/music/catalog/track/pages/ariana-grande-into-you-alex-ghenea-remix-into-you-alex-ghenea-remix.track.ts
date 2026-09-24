@@ -13,9 +13,9 @@ export const arianaGrandeIntoYouAlexGheneaRemixIntoYouAlexGheneaRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4LLpKhyESsyAXpc4laK94U", artistName: "Mac Miller" },
-    { externalId: "1mGISDumAyOoK6epKA8gq1", artistName: "Alex Ghenea" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Mac Miller" },
+    { artistName: "Alex Ghenea" },
   ],
   trackKey:
     "intoyoualexghenearemix|1mGISDumAyOoK6epKA8gq1,4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|218160",

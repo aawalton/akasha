@@ -14,7 +14,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   title: "dandelion - instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "dandelioninstrumental|66CXWjxzNUsdJxJ2JdwvnR|204815",
   song: "song/ariana-grande-dandelion",
   carriedBy: [

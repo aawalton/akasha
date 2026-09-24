@@ -13,9 +13,9 @@ export const auroraSofiaSofia = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" },
-    { externalId: "5jOiYJPp5e84cnK2KO1aNz", artistName: "Iris Caltwait" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
+    { artistName: "Askjell" },
+    { artistName: "Iris Caltwait" },
+    { artist: "artist/aurora" },
   ],
   trackKey: "sofia|1WgXqy2Dd70QQOU7Ay074N,3NABmtfO8G8s96WFGhbR7F,5jOiYJPp5e84cnK2KO1aNz|437317",
   song: "song/aurora-sofia",

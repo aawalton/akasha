@@ -12,10 +12,7 @@ export const auroraDaydreamerKdaLondonDubDaydreamerKdaLondonDub = {
   title: "Daydreamer - KDA London Dub",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "3EK3opK9Hp93HJjBPupzfg", artistName: "KDA" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "KDA" }],
   trackKey: "daydreamerkdalondondub|1WgXqy2Dd70QQOU7Ay074N,3EK3opK9Hp93HJjBPupzfg|326773",
   song: "song/aurora-daydreamer-kda-london-dub",
   carriedBy: [

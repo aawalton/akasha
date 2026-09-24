@@ -12,7 +12,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeNatureBoyAcoustic = {
   title: "Nature Boy - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "natureboyacoustic|1WgXqy2Dd70QQOU7Ay074N|179960",
   song: "song/aurora-nature-boy",
   carriedBy: [

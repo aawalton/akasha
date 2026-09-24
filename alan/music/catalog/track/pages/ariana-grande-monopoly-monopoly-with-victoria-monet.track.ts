@@ -12,10 +12,7 @@ export const arianaGrandeMonopolyMonopolyWithVictoriaMonet = {
   title: "MONOPOLY (with Victoria Monét)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "63XBtGSEZINSyXylZxEUbv", artistName: "Victoria Monét" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Victoria Monét" }],
   trackKey: "monopolywithvictoriamonet|63XBtGSEZINSyXylZxEUbv,66CXWjxzNUsdJxJ2JdwvnR|158586",
   song: "song/ariana-grande-monopoly",
   carriedBy: [

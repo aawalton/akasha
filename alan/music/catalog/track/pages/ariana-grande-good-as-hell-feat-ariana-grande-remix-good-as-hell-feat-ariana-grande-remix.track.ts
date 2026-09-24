@@ -12,10 +12,7 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHellFeatArianaGran
   title: "Good as Hell (feat. Ariana Grande) - Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "56oDRnqbIiwx4mymNEv7dS", artistName: "Lizzo" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artistName: "Lizzo" }, { artist: "artist/ariana-grande" }],
   trackKey: "goodashellfeatarianagranderemix|56oDRnqbIiwx4mymNEv7dS,66CXWjxzNUsdJxJ2JdwvnR|159011",
   song: "song/ariana-grande-good-as-hell",
   carriedBy: [

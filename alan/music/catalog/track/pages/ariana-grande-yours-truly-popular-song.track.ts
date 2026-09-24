@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyPopularSong = {
   title: "Popular Song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5MmVJVhhYKQ86izuGHzJYA", artistName: "MIKA" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artistName: "MIKA" }, { artist: "artist/ariana-grande" }],
   trackKey: "popularsong|5MmVJVhhYKQ86izuGHzJYA,66CXWjxzNUsdJxJ2JdwvnR|200213",
   song: "song/ariana-grande-popular-song",
   carriedBy: [

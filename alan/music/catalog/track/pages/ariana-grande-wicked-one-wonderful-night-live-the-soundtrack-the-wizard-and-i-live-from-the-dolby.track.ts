@@ -13,10 +13,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackTheWizardAndILi
   title: "The Wizard And I - Live from the Dolby Theatre",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-    { externalId: "0O1n2TpXR4XizmHi7aY0l8", artistName: "Jeff Goldblum" },
-  ],
+  trackArtist: [{ artist: "artist/cynthia-erivo" }, { artist: "artist/jeff-goldblum" }],
   trackKey:
     "thewizardandilivefromthedolbytheatre|0O1n2TpXR4XizmHi7aY0l8,46UMQ0cW8ToR8egkBRwAxZ|353015",
   song: "song/ariana-grande-the-wizard-and-i",

@@ -12,10 +12,7 @@ export const auroraForgottenLoveClaptoneRemixForgottenLoveClaptoneRemix = {
   title: "Forgotten Love - Claptone Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "4mncDFjVLUa3s025Tct3Ry", artistName: "Claptone" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Claptone" }],
   trackKey: "forgottenloveclaptoneremix|1WgXqy2Dd70QQOU7Ay074N,4mncDFjVLUa3s025Tct3Ry|183435",
   song: "song/aurora-forgotten-love",
   carriedBy: [

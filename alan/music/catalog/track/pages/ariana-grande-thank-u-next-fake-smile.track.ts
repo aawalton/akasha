@@ -12,7 +12,7 @@ export const arianaGrandeThankUNextFakeSmile = {
   title: "fake smile",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "fakesmile|66CXWjxzNUsdJxJ2JdwvnR|208880",
   song: "song/ariana-grande-fake-smile",
   carriedBy: [

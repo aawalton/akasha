@@ -12,7 +12,7 @@ export const arianaGrandeThankUNextImagine = {
   title: "imagine",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "imagine|66CXWjxzNUsdJxJ2JdwvnR|212266",
   song: "song/ariana-grande-imagine",
   carriedBy: [

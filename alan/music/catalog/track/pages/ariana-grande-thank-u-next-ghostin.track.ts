@@ -12,7 +12,7 @@ export const arianaGrandeThankUNextGhostin = {
   title: "ghostin",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "ghostin|66CXWjxzNUsdJxJ2JdwvnR|271466",
   song: "song/ariana-grande-ghostin",
   carriedBy: [

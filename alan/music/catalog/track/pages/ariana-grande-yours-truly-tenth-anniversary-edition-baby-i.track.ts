@@ -12,7 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBabyI = {
   title: "Baby I",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "babyi|66CXWjxzNUsdJxJ2JdwvnR|197602",
   song: "song/ariana-grande-baby-i",
   carriedBy: [

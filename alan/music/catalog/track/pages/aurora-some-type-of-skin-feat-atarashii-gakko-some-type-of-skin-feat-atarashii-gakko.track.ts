@@ -15,10 +15,7 @@ export const auroraSomeTypeOfSkinFeatAtarashiiGakkoSomeTypeOfSkinFeatAtarashiiGa
   title: "Some Type Of Skin (feat. ATARASHII GAKKO!)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "4OfU76YhPU04wlmbVFFgTJ", artistName: "ATARASHII GAKKO!" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "ATARASHII GAKKO!" }],
   trackKey: "sometypeofskinfeatatarashiigakko|1WgXqy2Dd70QQOU7Ay074N,4OfU76YhPU04wlmbVFFgTJ|216160",
   song: "song/aurora-some-type-of-skin",
   carriedBy: [

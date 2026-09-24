@@ -12,7 +12,7 @@ export const auroraToBeLovedTheFirstGoodbye = {
   title: "The First Goodbye",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
+  trackArtist: [{ artistName: "Askjell" }],
   trackKey: "thefirstgoodbye|3NABmtfO8G8s96WFGhbR7F|210779",
   song: "song/aurora-the-first-goodbye",
   carriedBy: [

@@ -12,10 +12,7 @@ export const auroraATemporaryHighKitoRemixATemporaryHighKitoRemix = {
   title: "A Temporary High - Kito Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "3FLUBwpAnaIlIKeaBfsxFe", artistName: "Kito" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Kito" }],
   trackKey: "atemporaryhighkitoremix|1WgXqy2Dd70QQOU7Ay074N,3FLUBwpAnaIlIKeaBfsxFe|186920",
   song: "song/aurora-a-temporary-high",
   carriedBy: [

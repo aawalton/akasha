@@ -12,7 +12,7 @@ export const auroraToBeLovedHalfEmptyButHappy = {
   title: "Half Empty But Happy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
+  trackArtist: [{ artistName: "Askjell" }],
   trackKey: "halfemptybuthappy|3NABmtfO8G8s96WFGhbR7F|243602",
   song: "song/aurora-half-empty-but-happy",
   carriedBy: [

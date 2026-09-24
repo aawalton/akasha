@@ -12,7 +12,7 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesPositionsLiveFromV
   title: "positions - live from Vevo",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "positionslivefromvevo|66CXWjxzNUsdJxJ2JdwvnR|261121",
   song: "song/ariana-grande-positions",
   carriedBy: [

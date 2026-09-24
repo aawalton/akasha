@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveFakeSmileLive = {
   title: "fake smile - live",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "fakesmilelive|66CXWjxzNUsdJxJ2JdwvnR|205586",
   song: "song/ariana-grande-fake-smile",
   carriedBy: [

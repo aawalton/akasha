@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveGetWellSoonLive = {
   title: "get well soon - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "getwellsoonlive|66CXWjxzNUsdJxJ2JdwvnR|207000",
   song: "song/ariana-grande-get-well-soon",
   carriedBy: [

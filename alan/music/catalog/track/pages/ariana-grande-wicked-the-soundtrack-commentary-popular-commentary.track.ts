@@ -13,10 +13,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryPopularCommentary = {
   title: "Popular - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Stephen Schwartz" }],
   trackKey: "popularcommentary|66CXWjxzNUsdJxJ2JdwvnR,7daPb40K64rRtF36wd3ZOk|71687",
   song: "song/ariana-grande-popular-commentary",
   carriedBy: [

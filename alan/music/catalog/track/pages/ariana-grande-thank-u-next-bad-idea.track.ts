@@ -12,7 +12,7 @@ export const arianaGrandeThankUNextBadIdea = {
   title: "bad idea",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "badidea|66CXWjxzNUsdJxJ2JdwvnR|267106",
   song: "song/ariana-grande-bad-idea",
   carriedBy: [

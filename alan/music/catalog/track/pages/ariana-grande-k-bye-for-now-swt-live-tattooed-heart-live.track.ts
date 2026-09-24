@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveTattooedHeartLive = {
   title: "tattooed heart - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "tattooedheartlive|66CXWjxzNUsdJxJ2JdwvnR|203336",
   song: "song/ariana-grande-tattooed-heart",
   carriedBy: [

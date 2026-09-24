@@ -16,7 +16,7 @@ export const auroraADifferentKindOfHumanStepIiAppleTree = {
   title: "Apple Tree",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "appletree|1WgXqy2Dd70QQOU7Ay074N|188102",
   song: "song/aurora-apple-tree",
   carriedBy: [

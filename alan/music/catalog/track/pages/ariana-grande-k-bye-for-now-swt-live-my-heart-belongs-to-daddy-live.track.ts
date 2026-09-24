@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveMyHeartBelongsToDaddyLive = {
   title: "my heart belongs to daddy - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "myheartbelongstodaddylive|66CXWjxzNUsdJxJ2JdwvnR|107321",
   song: "song/ariana-grande-my-heart-belongs-to-daddy",
   carriedBy: [

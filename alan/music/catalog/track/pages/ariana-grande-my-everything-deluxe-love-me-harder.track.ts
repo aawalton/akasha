@@ -12,10 +12,7 @@ export const arianaGrandeMyEverythingDeluxeLoveMeHarder = {
   title: "Love Me Harder",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "1Xyo4u8uXC1ZmMpatF05PJ", artistName: "The Weeknd" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "The Weeknd" }],
   trackKey: "lovemeharder|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|236133",
   song: "song/ariana-grande-love-me-harder",
   carriedBy: [

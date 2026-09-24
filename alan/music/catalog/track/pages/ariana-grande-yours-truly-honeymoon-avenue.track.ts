@@ -12,7 +12,7 @@ export const arianaGrandeYoursTrulyHoneymoonAvenue = {
   title: "Honeymoon Avenue",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "honeymoonavenue|66CXWjxzNUsdJxJ2JdwvnR|339733",
   song: "song/ariana-grande-honeymoon-avenue",
   carriedBy: [

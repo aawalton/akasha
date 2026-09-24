@@ -16,7 +16,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadACappellaVersionW
   title: "warm",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "warm|66CXWjxzNUsdJxJ2JdwvnR|201905",
   song: "song/ariana-grande-warm",
   carriedBy: [

@@ -12,7 +12,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackWolfwalkersTheme = 
   title: "WolfWalkers Theme",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
+  trackArtist: [{ artistName: "Bruno Coulais" }],
   trackKey: "wolfwalkerstheme|5kjb55jtwPnbYXXDvP4x7R|84773",
   song: "song/aurora-wolfwalkers-theme",
   carriedBy: [

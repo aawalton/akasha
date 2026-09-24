@@ -13,7 +13,7 @@ export const arianaGrandePetalHateThatIMadeYouLoveMe = {
   title: "hate that i made you love me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "hatethatimadeyouloveme|66CXWjxzNUsdJxJ2JdwvnR|197949",
   song: "song/ariana-grande-hate-that-i-made-you-love-me",
   carriedBy: [

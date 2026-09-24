@@ -16,10 +16,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryTheWizardAndI = {
   title: "The Wizard And I",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-    { externalId: "5IaJcuBeBkVqhGAzxMciwu", artistName: "Michelle Yeoh" },
-  ],
+  trackArtist: [{ artist: "artist/cynthia-erivo" }, { artistName: "Michelle Yeoh" }],
   trackKey: "thewizardandi|46UMQ0cW8ToR8egkBRwAxZ,5IaJcuBeBkVqhGAzxMciwu|336858",
   song: "song/ariana-grande-the-wizard-and-i",
   carriedBy: [

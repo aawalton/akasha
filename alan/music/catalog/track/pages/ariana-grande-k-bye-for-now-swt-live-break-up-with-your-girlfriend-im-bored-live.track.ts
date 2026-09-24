@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveBreakUpWithYourGirlfriendImBoredLive =
   title: "break up with your girlfriend, i'm bored - live",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "breakupwithyourgirlfriendimboredlive|66CXWjxzNUsdJxJ2JdwvnR|223872",
   song: "song/ariana-grande-break-up-with-your-girlfriend-i-m-bored",
   carriedBy: [

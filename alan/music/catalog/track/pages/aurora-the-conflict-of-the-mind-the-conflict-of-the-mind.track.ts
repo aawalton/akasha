@@ -12,7 +12,7 @@ export const auroraTheConflictOfTheMindTheConflictOfTheMind = {
   title: "The Conflict of the Mind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "theconflictofthemind|1WgXqy2Dd70QQOU7Ay074N|255800",
   song: "song/aurora-the-conflict-of-the-mind",
   carriedBy: [

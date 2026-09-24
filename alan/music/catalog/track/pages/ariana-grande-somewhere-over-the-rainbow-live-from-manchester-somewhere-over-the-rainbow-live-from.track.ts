@@ -13,7 +13,7 @@ export const arianaGrandeSomewhereOverTheRainbowLiveFromManchesterSomewhereOverT
     title: "Somewhere Over The Rainbow - Live From Manchester",
     trackType: "live",
     explicit: false,
-    trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: "artist/ariana-grande" }],
     trackKey: "somewhereovertherainbowlivefrommanchester|66CXWjxzNUsdJxJ2JdwvnR|272026",
     song: "song/ariana-grande-somewhere-over-the-rainbow",
     carriedBy: [

@@ -12,10 +12,7 @@ export const arianaGrandeStuckWithUStuckWithUWithJustinBieber = {
   title: "Stuck with U (with Justin Bieber)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "1uNFoZAHBGtllmzznpCI3s", artistName: "Justin Bieber" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Justin Bieber" }],
   trackKey: "stuckwithuwithjustinbieber|1uNFoZAHBGtllmzznpCI3s,66CXWjxzNUsdJxJ2JdwvnR|228482",
   song: "song/ariana-grande-stuck-with-u",
   carriedBy: [

@@ -15,10 +15,7 @@ export const billieEilishBurnWithVinceStaplesBurnWithVinceStaples = {
   title: "&burn (with Vince Staples)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "68kEuyFKyqrdQQLLsmiatm", artistName: "Vince Staples" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "Vince Staples" }],
   trackKey: "burnwithvincestaples|68kEuyFKyqrdQQLLsmiatm,6qqNVTkY8uBg9cP3Jd7DAH|179015",
   song: "song/billie-eilish-burn",
   carriedBy: [

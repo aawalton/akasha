@@ -12,7 +12,7 @@ export const auroraTheGodsWeCanTouchADangerousThing = {
   title: "A Dangerous Thing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "adangerousthing|1WgXqy2Dd70QQOU7Ay074N|215573",
   song: "song/aurora-a-dangerous-thing",
   carriedBy: [

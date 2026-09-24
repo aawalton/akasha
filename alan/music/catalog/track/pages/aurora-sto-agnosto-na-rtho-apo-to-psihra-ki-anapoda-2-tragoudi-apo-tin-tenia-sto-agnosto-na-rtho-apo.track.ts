@@ -15,10 +15,7 @@ export const auroraStoAgnostoNaRthoApoToPsihraKiAnapoda2TragoudiApoTinTeniaStoAg
     'Sto agnosto na \'rtho - Apo to "Psihra Ki Anapoda - Ta Tragoudia 2"/Tragoudi apo tin Tenia',
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4huNtMLF5FVeov9mFg6qWn", artistName: "Sia Koskina" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-  ],
+  trackArtist: [{ artistName: "Sia Koskina" }, { artist: "artist/aurora" }],
   trackKey:
     "stoagnostonarthoapotopsihrakianapodatatragoudia2tragoudiapotintenia|1WgXqy2Dd70QQOU7Ay074N,4huNtMLF5FVeov9mFg6qWn|194866",
   song: "song/aurora-sto-agnosto-na-rtho-apo-to-psihra-ki-anapoda-ta-tragoudia-2-tragoudi-apo-tin-tenia",

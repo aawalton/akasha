@@ -15,7 +15,7 @@ export const auroraInfectionsOfADifferentKindStepIForgottenLove = {
   title: "Forgotten Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "forgottenlove|1WgXqy2Dd70QQOU7Ay074N|206469",
   song: "song/aurora-forgotten-love",
   carriedBy: [

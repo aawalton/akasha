@@ -12,10 +12,7 @@ export const auroraSouthernStarFeatAuroraSouthernStarFeatAurora = {
   title: "Southern Star (feat. AURORA)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3jzXlBF2157k4exx7idecs", artistName: "Leif Vollebekk" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-  ],
+  trackArtist: [{ artistName: "Leif Vollebekk" }, { artist: "artist/aurora" }],
   trackKey: "southernstarfeataurora|1WgXqy2Dd70QQOU7Ay074N,3jzXlBF2157k4exx7idecs|304760",
   song: "song/aurora-southern-star",
   carriedBy: [

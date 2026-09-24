@@ -12,10 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveRightThereLive = {
   title: "right there - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0c173mlxpT3dSFRgMO8XPh", artistName: "Big Sean" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Big Sean" }],
   trackKey: "righttherelive|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|99405",
   song: "song/ariana-grande-right-there",
   carriedBy: [

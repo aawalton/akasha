@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLive7RingsLive = {
   title: "7 rings - live",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "7ringslive|66CXWjxzNUsdJxJ2JdwvnR|226849",
   song: "song/ariana-grande-7-rings",
   carriedBy: [

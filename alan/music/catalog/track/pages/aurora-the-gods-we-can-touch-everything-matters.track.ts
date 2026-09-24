@@ -12,10 +12,7 @@ export const auroraTheGodsWeCanTouchEverythingMatters = {
   title: "Everything Matters",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "6e3pZKXUxrPfnUPJ960Hd9", artistName: "Pomme" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Pomme" }],
   trackKey: "everythingmatters|1WgXqy2Dd70QQOU7Ay074N,6e3pZKXUxrPfnUPJ960Hd9|213906",
   song: "song/aurora-everything-matters",
   carriedBy: [

@@ -16,7 +16,7 @@ export const auroraADifferentKindOfHumanStepIiDaydreamer = {
   title: "Daydreamer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "daydreamer|1WgXqy2Dd70QQOU7Ay074N|219057",
   song: "song/aurora-daydreamer",
   carriedBy: [

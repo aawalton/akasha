@@ -12,7 +12,7 @@ export const arianaGrandeSweetenerGoodnightNGo = {
   title: "goodnight n go",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "goodnightngo|66CXWjxzNUsdJxJ2JdwvnR|189506",
   song: "song/ariana-grande-goodnight-n-go",
   carriedBy: [

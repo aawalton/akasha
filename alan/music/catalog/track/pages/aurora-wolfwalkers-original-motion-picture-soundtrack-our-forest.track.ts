@@ -12,7 +12,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackOurForest = {
   title: "Our Forest",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
+  trackArtist: [{ artistName: "Bruno Coulais" }],
   trackKey: "ourforest|5kjb55jtwPnbYXXDvP4x7R|264160",
   song: "song/aurora-our-forest",
   carriedBy: [

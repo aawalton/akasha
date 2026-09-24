@@ -12,7 +12,7 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveWeCantBeFriends
   title: "we can’t be friends (wait for your love) - live version",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "wecantbefriendswaitforyourloveliveversion|66CXWjxzNUsdJxJ2JdwvnR|204069",
   song: "song/ariana-grande-we-can-t-be-friends-wait-for-your-love",
   carriedBy: [

@@ -13,9 +13,9 @@ export const arianaGrandeSideToSideRemixesSideToSidePhantomsRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
-    { externalId: "1bJJlRHoc1UVeqzxcrPLIw", artistName: "Phantoms" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Nicki Minaj" },
+    { artistName: "Phantoms" },
   ],
   trackKey:
     "sidetosidephantomsremix|0hCNtLu0JehylgoiP8L4Gh,1bJJlRHoc1UVeqzxcrPLIw,66CXWjxzNUsdJxJ2JdwvnR|256560",

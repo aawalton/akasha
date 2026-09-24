@@ -16,7 +16,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryPopular = {
   title: "Popular",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "popular|66CXWjxzNUsdJxJ2JdwvnR|241501",
   song: "song/ariana-grande-popular",
   carriedBy: [

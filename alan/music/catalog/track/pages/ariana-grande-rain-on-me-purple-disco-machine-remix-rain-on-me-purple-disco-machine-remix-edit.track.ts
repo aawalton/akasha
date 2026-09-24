@@ -13,9 +13,9 @@ export const arianaGrandeRainOnMePurpleDiscoMachineRemixRainOnMePurpleDiscoMachi
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "1HY2Jd0NmPuamShAr6KMms", artistName: "Lady Gaga" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "2WBJQGf1bT1kxuoqziH5g4", artistName: "Purple Disco Machine" },
+    { artistName: "Lady Gaga" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Purple Disco Machine" },
   ],
   trackKey:
     "rainonmepurplediscomachineremixedit|1HY2Jd0NmPuamShAr6KMms,2WBJQGf1bT1kxuoqziH5g4,66CXWjxzNUsdJxJ2JdwvnR|238048",

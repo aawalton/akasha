@@ -12,10 +12,7 @@ export const arianaGrandeSweetenerTheLightIsComingFeatNickiMinaj = {
   title: "the light is coming (feat. Nicki Minaj)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Nicki Minaj" }],
   trackKey: "thelightiscomingfeatnickiminaj|0hCNtLu0JehylgoiP8L4Gh,66CXWjxzNUsdJxJ2JdwvnR|228373",
   song: "song/ariana-grande-the-light-is-coming",
   carriedBy: [

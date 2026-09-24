@@ -14,9 +14,9 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOneShortDayCommentary = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
-    { externalId: "1e6BRnFiiwNZl04xu1yqmi", artistName: "Stephen Oremus" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
+    { artistName: "Stephen Schwartz" },
+    { artistName: "Stephen Oremus" },
+    { artist: "artist/cynthia-erivo" },
   ],
   trackKey:
     "oneshortdaycommentary|1e6BRnFiiwNZl04xu1yqmi,46UMQ0cW8ToR8egkBRwAxZ,7daPb40K64rRtF36wd3ZOk|147480",

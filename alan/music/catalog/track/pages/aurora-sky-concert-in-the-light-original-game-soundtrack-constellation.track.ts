@@ -12,10 +12,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackConstellation = {
   title: "Constellation",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "33FyliUEEegVPPrsOaLsn4", artistName: "Vincent Diamante" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Vincent Diamante" }],
   trackKey: "constellation|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|89000",
   song: "song/aurora-constellation",
   carriedBy: [

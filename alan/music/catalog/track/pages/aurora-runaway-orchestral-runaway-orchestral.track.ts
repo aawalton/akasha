@@ -12,7 +12,7 @@ export const auroraRunawayOrchestralRunawayOrchestral = {
   title: "Runaway - Orchestral",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "runawayorchestral|1WgXqy2Dd70QQOU7Ay074N|248117",
   song: "song/aurora-runaway-orchestral",
   carriedBy: [

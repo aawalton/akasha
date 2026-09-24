@@ -15,10 +15,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryForGood = {
   title: "For Good",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artist: "artist/cynthia-erivo" }, { artist: "artist/ariana-grande" }],
   trackKey: "forgood|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|377098",
   song: "song/ariana-grande-for-good",
   carriedBy: [

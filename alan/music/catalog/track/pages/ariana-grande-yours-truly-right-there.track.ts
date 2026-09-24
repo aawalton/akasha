@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyRightThere = {
   title: "Right There",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0c173mlxpT3dSFRgMO8XPh", artistName: "Big Sean" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Big Sean" }],
   trackKey: "rightthere|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|247080",
   song: "song/ariana-grande-right-there",
   carriedBy: [

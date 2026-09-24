@@ -15,7 +15,7 @@ export const auroraWhatHappenedToTheHeartDeluxeWhenTheDarkDressesLightly = {
   title: "When The Dark Dresses Lightly",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "whenthedarkdresseslightly|1WgXqy2Dd70QQOU7Ay074N|214800",
   song: "song/aurora-when-the-dark-dresses-lightly",
   carriedBy: [

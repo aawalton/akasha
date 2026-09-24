@@ -12,7 +12,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackAllIsSoftInsideIntr
   title: "All Is Soft Inside Intro",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "allissoftinsideintro|1WgXqy2Dd70QQOU7Ay074N|29000",
   song: "song/aurora-all-is-soft-inside-intro",
   carriedBy: [

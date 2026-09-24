@@ -12,7 +12,7 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesPovLiveFromVevo = 
   title: "pov - live from Vevo",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "povlivefromvevo|66CXWjxzNUsdJxJ2JdwvnR|195291",
   song: "song/ariana-grande-pov",
   carriedBy: [

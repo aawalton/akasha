@@ -12,7 +12,7 @@ export const auroraWhatHappenedToTheHeartDeluxeTheWeightOfMissing = {
   title: "The Weight Of Missing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "theweightofmissing|1WgXqy2Dd70QQOU7Ay074N|394826",
   song: "song/aurora-the-weight-of-missing",
   carriedBy: [

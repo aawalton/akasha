@@ -16,9 +16,9 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryWonderful = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0O1n2TpXR4XizmHi7aY0l8", artistName: "Jeff Goldblum" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
+    { artist: "artist/jeff-goldblum" },
+    { artist: "artist/ariana-grande" },
+    { artist: "artist/cynthia-erivo" },
   ],
   trackKey: "wonderful|0O1n2TpXR4XizmHi7aY0l8,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|285456",
   song: "song/ariana-grande-wonderful",

@@ -12,7 +12,7 @@ export const arianaGrandeThankUNextBreakUpWithYourGirlfriendImBored = {
   title: "break up with your girlfriend, i'm bored",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "breakupwithyourgirlfriendimbored|66CXWjxzNUsdJxJ2JdwvnR|190440",
   song: "song/ariana-grande-break-up-with-your-girlfriend-i-m-bored",
   carriedBy: [

@@ -15,7 +15,7 @@ export const auroraInfectionsOfADifferentKindStepIChurchyard = {
   title: "Churchyard",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "churchyard|1WgXqy2Dd70QQOU7Ay074N|226009",
   song: "song/aurora-churchyard",
   carriedBy: [

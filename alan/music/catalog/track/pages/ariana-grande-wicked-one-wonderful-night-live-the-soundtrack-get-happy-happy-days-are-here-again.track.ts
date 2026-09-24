@@ -13,10 +13,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackGetHappyHappyDa
   title: "Get Happy / Happy Days Are Here Again - Live from the Dolby Theatre",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artist: "artist/cynthia-erivo" }, { artist: "artist/ariana-grande" }],
   trackKey:
     "gethappyhappydaysarehereagainlivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|199290",
   song: "song/ariana-grande-get-happy-happy-days-are-here-again",

@@ -12,7 +12,7 @@ export const arianaGrandeMyEverythingDeluxeOnly1 = {
   title: "Only 1",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "only1|66CXWjxzNUsdJxJ2JdwvnR|193986",
   song: "song/ariana-grande-only-1",
   carriedBy: [

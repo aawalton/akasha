@@ -13,10 +13,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrackCommen
   title: "Ozdust Duet (Bonus Track) - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artist: "artist/cynthia-erivo" }],
   trackKey: "ozdustduetbonustrackcommentary|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|88320",
   song: "song/ariana-grande-ozdust-duet-bonus-track-commentary",
   carriedBy: [

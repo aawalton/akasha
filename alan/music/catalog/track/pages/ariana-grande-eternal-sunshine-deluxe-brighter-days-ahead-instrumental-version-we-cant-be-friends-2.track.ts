@@ -16,7 +16,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     title: "we can't be friends (wait for your love) - instrumental",
     trackType: "instrumental",
     explicit: false,
-    trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: "artist/ariana-grande" }],
     trackKey: "wecantbefriendswaitforyourloveinstrumental|66CXWjxzNUsdJxJ2JdwvnR|228639",
     song: "song/ariana-grande-we-can-t-be-friends-wait-for-your-love",
     carriedBy: [

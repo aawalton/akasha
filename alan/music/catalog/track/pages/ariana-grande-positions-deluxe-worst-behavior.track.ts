@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeWorstBehavior = {
   title: "worst behavior",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "worstbehavior|66CXWjxzNUsdJxJ2JdwvnR|124281",
   song: "song/ariana-grande-worst-behavior",
   carriedBy: [

@@ -12,7 +12,7 @@ export const arianaGrandeThankUNext7Rings = {
   title: "7 rings",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "7rings|66CXWjxzNUsdJxJ2JdwvnR|178626",
   song: "song/ariana-grande-7-rings",
   carriedBy: [

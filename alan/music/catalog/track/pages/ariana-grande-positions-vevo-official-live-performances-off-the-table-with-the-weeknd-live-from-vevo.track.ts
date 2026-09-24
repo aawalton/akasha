@@ -13,10 +13,7 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesOffTheTableWithThe
     title: "off the table (with The Weeknd) - live from Vevo",
     trackType: "live",
     explicit: false,
-    trackArtist: [
-      { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-      { externalId: "1Xyo4u8uXC1ZmMpatF05PJ", artistName: "The Weeknd" },
-    ],
+    trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "The Weeknd" }],
     trackKey:
       "offthetablewiththeweekndlivefromvevo|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|250132",
     song: "song/ariana-grande-off-the-table",

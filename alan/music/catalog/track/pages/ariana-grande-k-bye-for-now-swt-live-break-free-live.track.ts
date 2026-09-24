@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveBreakFreeLive = {
   title: "break free - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "breakfreelive|66CXWjxzNUsdJxJ2JdwvnR|151583",
   song: "song/ariana-grande-break-free",
   carriedBy: [

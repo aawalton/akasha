@@ -15,7 +15,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryImNotThatGirlRepris
   title: "I’m Not That Girl (Reprise)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "imnotthatgirlreprise|66CXWjxzNUsdJxJ2JdwvnR|130546",
   song: "song/ariana-grande-i-m-not-that-girl",
   carriedBy: [

@@ -15,10 +15,7 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveDjBorisRemix 
   title: "Exist for Love - DJ Boris Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "0CwEv3FWLZi5UomNNYUn0u", artistName: "DJ Boris" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "DJ Boris" }],
   trackKey: "existforlovedjborisremix|0CwEv3FWLZi5UomNNYUn0u,1WgXqy2Dd70QQOU7Ay074N|236320",
   song: "song/aurora-exist-for-love",
   carriedBy: [

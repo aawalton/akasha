@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveREMLive = {
   title: "r.e.m - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "remlive|66CXWjxzNUsdJxJ2JdwvnR|177912",
   song: "song/ariana-grande-r-e-m",
   carriedBy: [

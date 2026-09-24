@@ -13,7 +13,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryCommentary = {
   title: "Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" }],
+  trackArtist: [{ artistName: "Stephen Schwartz" }],
   trackKey: "commentary|7daPb40K64rRtF36wd3ZOk|33902",
   song: "song/ariana-grande-commentary",
   carriedBy: [

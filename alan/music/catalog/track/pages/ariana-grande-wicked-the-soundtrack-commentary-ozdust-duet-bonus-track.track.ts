@@ -16,7 +16,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryOzdustDuetBonusTrack = {
   title: "Ozdust Duet - Bonus Track",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0bVjGR347nlhO79Z3i881P", artistName: "The Wicked Orchestra" }],
+  trackArtist: [{ artist: "artist/the-wicked-orchestra" }],
   trackKey: "ozdustduetbonustrack|0bVjGR347nlhO79Z3i881P|131863",
   song: "song/ariana-grande-ozdust-duet-bonus-track",
   carriedBy: [

@@ -16,7 +16,7 @@ export const auroraInfectionsOfADifferentKindStepIQueendom = {
   title: "Queendom",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "queendom|1WgXqy2Dd70QQOU7Ay074N|206640",
   song: "song/aurora-queendom",
   carriedBy: [

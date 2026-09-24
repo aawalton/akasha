@@ -15,10 +15,7 @@ export const auroraWhatHappenedToTheHeartDeluxeMyNameFeatAneBrun = {
   title: "My Name (feat. Ane Brun)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "2L3kwZFd16zjHz9a5kEPAm", artistName: "Ane Brun" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Ane Brun" }],
   trackKey: "mynamefeatanebrun|1WgXqy2Dd70QQOU7Ay074N,2L3kwZFd16zjHz9a5kEPAm|199586",
   song: "song/aurora-my-name",
   carriedBy: [

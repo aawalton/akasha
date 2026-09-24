@@ -12,7 +12,7 @@ export const auroraTheGodsWeCanTouchTheInnocent = {
   title: "The Innocent",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "theinnocent|1WgXqy2Dd70QQOU7Ay074N|207453",
   song: "song/aurora-the-innocent",
   carriedBy: [

@@ -13,7 +13,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackPopularLiveFrom
   title: "Popular - Live from the Dolby Theatre",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "popularlivefromthedolbytheatre|66CXWjxzNUsdJxJ2JdwvnR|354873",
   song: "song/ariana-grande-popular",
   carriedBy: [

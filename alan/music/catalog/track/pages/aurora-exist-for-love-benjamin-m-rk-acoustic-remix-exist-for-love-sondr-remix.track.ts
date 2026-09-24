@@ -15,10 +15,7 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveSondrRemix = 
   title: "Exist for Love - Sondr Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "4hbnUamwrCHpv4wQTwvCIc", artistName: "Sondr" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Sondr" }],
   trackKey: "existforlovesondrremix|1WgXqy2Dd70QQOU7Ay074N,4hbnUamwrCHpv4wQTwvCIc|258306",
   song: "song/aurora-exist-for-love",
   carriedBy: [

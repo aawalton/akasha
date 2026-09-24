@@ -12,7 +12,7 @@ export const arianaGrandeGoodAsHellFeatArianaGrandeRemixGoodAsHell = {
   title: "Good as Hell",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "56oDRnqbIiwx4mymNEv7dS", artistName: "Lizzo" }],
+  trackArtist: [{ artistName: "Lizzo" }],
   trackKey: "goodashell|56oDRnqbIiwx4mymNEv7dS|159735",
   song: "song/ariana-grande-good-as-hell",
   carriedBy: [

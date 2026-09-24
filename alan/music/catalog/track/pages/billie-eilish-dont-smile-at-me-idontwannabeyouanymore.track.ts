@@ -12,7 +12,7 @@ export const billieEilishDontSmileAtMeIdontwannabeyouanymore = {
   title: "idontwannabeyouanymore",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "idontwannabeyouanymore|6qqNVTkY8uBg9cP3Jd7DAH|203569",
   song: "song/billie-eilish-idontwannabeyouanymore",
   carriedBy: [

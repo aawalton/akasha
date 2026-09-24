@@ -16,7 +16,7 @@ export const auroraForTheHumansWhoTakeLongWalksInTheForestLittleBoyInTheGrass = 
   title: "Little Boy in the Grass",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "littleboyinthegrass|1WgXqy2Dd70QQOU7Ay074N|256480",
   song: "song/aurora-little-boy-in-the-grass",
   carriedBy: [

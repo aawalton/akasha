@@ -12,10 +12,7 @@ export const arianaGrandePositionsDeluxeSafetyNetFeatTyDollaIgn = {
   title: "safety net (feat. Ty Dolla $ign)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "7c0XG5cIJTrrAgEC3ULPiq", artistName: "Ty Dolla $ign" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Ty Dolla $ign" }],
   trackKey: "safetynetfeattydollaign|66CXWjxzNUsdJxJ2JdwvnR,7c0XG5cIJTrrAgEC3ULPiq|208457",
   song: "song/ariana-grande-safety-net",
   carriedBy: [

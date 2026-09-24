@@ -12,7 +12,7 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesMyHairLiveFromVevo
   title: "my hair - live from Vevo",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "myhairlivefromvevo|66CXWjxzNUsdJxJ2JdwvnR|194344",
   song: "song/ariana-grande-my-hair",
   carriedBy: [

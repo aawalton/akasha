@@ -15,7 +15,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     title: "bye - instrumental",
     trackType: "instrumental",
     explicit: false,
-    trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: "artist/ariana-grande" }],
     trackKey: "byeinstrumental|66CXWjxzNUsdJxJ2JdwvnR|164927",
     song: "song/ariana-grande-bye",
     carriedBy: [

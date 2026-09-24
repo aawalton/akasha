@@ -12,10 +12,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheLightBeyond = {
   title: "The Light Beyond",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "33FyliUEEegVPPrsOaLsn4", artistName: "Vincent Diamante" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Vincent Diamante" }],
   trackKey: "thelightbeyond|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|201000",
   song: "song/aurora-the-light-beyond",
   carriedBy: [

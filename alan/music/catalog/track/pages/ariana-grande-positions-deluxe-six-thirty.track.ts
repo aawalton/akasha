@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeSixThirty = {
   title: "six thirty",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "sixthirty|66CXWjxzNUsdJxJ2JdwvnR|183874",
   song: "song/ariana-grande-six-thirty",
   carriedBy: [

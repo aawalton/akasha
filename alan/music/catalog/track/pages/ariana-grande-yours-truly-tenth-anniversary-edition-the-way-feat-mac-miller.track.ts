@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWayFeatMacMiller = 
   title: "The Way (feat. Mac Miller)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4LLpKhyESsyAXpc4laK94U", artistName: "Mac Miller" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Mac Miller" }],
   trackKey: "thewayfeatmacmiller|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|227033",
   song: "song/ariana-grande-the-way",
   carriedBy: [

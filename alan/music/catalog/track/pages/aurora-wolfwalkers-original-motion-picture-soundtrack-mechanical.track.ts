@@ -12,7 +12,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMechanical = {
   title: "Mechanical",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
+  trackArtist: [{ artistName: "Bruno Coulais" }],
   trackKey: "mechanical|5kjb55jtwPnbYXXDvP4x7R|98346",
   song: "song/aurora-mechanical",
   carriedBy: [

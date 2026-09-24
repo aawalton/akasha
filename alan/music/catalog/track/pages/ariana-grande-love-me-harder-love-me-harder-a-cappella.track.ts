@@ -12,10 +12,7 @@ export const arianaGrandeLoveMeHarderLoveMeHarderACappella = {
   title: "Love Me Harder - A Cappella",
   trackType: "a-cappella",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "1Xyo4u8uXC1ZmMpatF05PJ", artistName: "The Weeknd" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "The Weeknd" }],
   trackKey: "lovemeharderacappella|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|233663",
   song: "song/ariana-grande-love-me-harder",
   carriedBy: [

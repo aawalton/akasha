@@ -15,7 +15,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeBlackWaterLilies = {
   title: "Black Water Lilies",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "blackwaterlilies|1WgXqy2Dd70QQOU7Ay074N|282840",
   song: "song/aurora-black-water-lilies",
   carriedBy: [

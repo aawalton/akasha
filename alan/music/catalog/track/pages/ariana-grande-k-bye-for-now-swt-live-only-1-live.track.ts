@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveOnly1Live = {
   title: "only 1 - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "only1live|66CXWjxzNUsdJxJ2JdwvnR|162875",
   song: "song/ariana-grande-only-1",
   carriedBy: [

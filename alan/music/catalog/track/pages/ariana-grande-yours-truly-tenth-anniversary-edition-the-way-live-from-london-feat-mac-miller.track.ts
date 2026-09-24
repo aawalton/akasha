@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWayLiveFromLondonFe
   title: "The Way - Live from London (feat. Mac Miller)",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4LLpKhyESsyAXpc4laK94U", artistName: "Mac Miller" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Mac Miller" }],
   trackKey:
     "thewaylivefromlondonfeatmacmiller|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|213694",
   song: "song/ariana-grande-the-way",

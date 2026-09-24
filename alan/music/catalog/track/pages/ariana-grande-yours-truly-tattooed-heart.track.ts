@@ -12,7 +12,7 @@ export const arianaGrandeYoursTrulyTattooedHeart = {
   title: "Tattooed Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "tattooedheart|66CXWjxzNUsdJxJ2JdwvnR|194706",
   song: "song/ariana-grande-tattooed-heart",
   carriedBy: [

@@ -12,7 +12,7 @@ export const auroraAwakeningAwakening = {
   title: "Awakening",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "awakening|1WgXqy2Dd70QQOU7Ay074N|220981",
   song: "song/aurora-awakening",
   carriedBy: [

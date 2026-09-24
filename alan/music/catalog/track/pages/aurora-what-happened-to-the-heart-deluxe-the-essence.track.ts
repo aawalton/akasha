@@ -15,7 +15,7 @@ export const auroraWhatHappenedToTheHeartDeluxeTheEssence = {
   title: "The Essence",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "theessence|1WgXqy2Dd70QQOU7Ay074N|189600",
   song: "song/aurora-the-essence",
   carriedBy: [

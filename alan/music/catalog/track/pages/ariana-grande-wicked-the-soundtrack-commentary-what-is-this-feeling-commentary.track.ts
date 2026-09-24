@@ -13,10 +13,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryWhatIsThisFeelingCommentar
   title: "What Is This Feeling? - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artist: "artist/cynthia-erivo" }],
   trackKey: "whatisthisfeelingcommentary|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|55463",
   song: "song/ariana-grande-what-is-this-feeling-commentary",
   carriedBy: [

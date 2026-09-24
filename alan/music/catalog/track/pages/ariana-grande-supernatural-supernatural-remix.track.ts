@@ -12,10 +12,7 @@ export const arianaGrandeSupernaturalSupernaturalRemix = {
   title: "supernatural - remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "3WGpXCj9YhhfX11TToZcXP", artistName: "Troye Sivan" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Troye Sivan" }],
   trackKey: "supernaturalremix|3WGpXCj9YhhfX11TToZcXP,66CXWjxzNUsdJxJ2JdwvnR|163381",
   song: "song/ariana-grande-supernatural",
   carriedBy: [

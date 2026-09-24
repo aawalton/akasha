@@ -12,7 +12,7 @@ export const billieEilishComeOutAndPlayComeOutAndPlay = {
   title: "come out and play",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "comeoutandplay|6qqNVTkY8uBg9cP3Jd7DAH|210375",
   song: "song/billie-eilish-come-out-and-play",
   carriedBy: [

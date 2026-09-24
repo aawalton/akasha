@@ -13,7 +13,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryNoOneMournsTheWickedCommen
   title: "No One Mourns the Wicked - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "noonemournsthewickedcommentary|66CXWjxzNUsdJxJ2JdwvnR|55703",
   song: "song/ariana-grande-no-one-mourns-the-wicked-commentary",
   carriedBy: [

@@ -13,10 +13,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryImNotThatGirlRepris
   title: "I’m Not That Girl (Reprise) - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Stephen Schwartz" }],
   trackKey: "imnotthatgirlreprisecommentary|66CXWjxzNUsdJxJ2JdwvnR,7daPb40K64rRtF36wd3ZOk|67448",
   song: "song/ariana-grande-im-not-that-girl-commentary",
   carriedBy: [

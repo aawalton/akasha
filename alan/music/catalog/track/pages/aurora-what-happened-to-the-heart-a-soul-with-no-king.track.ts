@@ -15,7 +15,7 @@ export const auroraWhatHappenedToTheHeartASoulWithNoKing = {
   title: "A Soul With No King",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "asoulwithnoking|1WgXqy2Dd70QQOU7Ay074N|264453",
   song: "song/aurora-a-soul-with-no-king",
   carriedBy: [

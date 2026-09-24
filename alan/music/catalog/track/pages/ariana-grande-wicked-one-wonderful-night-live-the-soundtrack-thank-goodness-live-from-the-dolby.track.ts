@@ -13,7 +13,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackThankGoodnessLi
   title: "Thank Goodness - Live from the Dolby Theatre",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "thankgoodnesslivefromthedolbytheatre|66CXWjxzNUsdJxJ2JdwvnR|240800",
   song: "song/ariana-grande-thank-goodness",
   carriedBy: [

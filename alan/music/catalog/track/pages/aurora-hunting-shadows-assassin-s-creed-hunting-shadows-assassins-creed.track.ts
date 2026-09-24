@@ -12,10 +12,7 @@ export const auroraHuntingShadowsAssassinSCreedHuntingShadowsAssassinsCreed = {
   title: "Hunting Shadows (Assassin's Creed)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "5ct8AlcDgWMp4O25vbcjpC", artistName: "Assassin's Creed" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Assassin's Creed" }],
   trackKey: "huntingshadowsassassinscreed|1WgXqy2Dd70QQOU7Ay074N,5ct8AlcDgWMp4O25vbcjpC|176586",
   song: "song/aurora-hunting-shadows-assassins-creed",
   carriedBy: [

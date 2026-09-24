@@ -13,7 +13,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
   title: "March of the Witch Hunters - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0yF5IqIHlPDti2mfZtHe3K", artistName: "Ethan Slater" }],
+  trackArtist: [{ artistName: "Ethan Slater" }],
   trackKey: "marchofthewitchhunterscommentary|0yF5IqIHlPDti2mfZtHe3K|60440",
   song: "song/ariana-grande-march-of-the-witch-hunters-commentary",
   carriedBy: [

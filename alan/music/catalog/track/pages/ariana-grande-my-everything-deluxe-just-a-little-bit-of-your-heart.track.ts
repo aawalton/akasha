@@ -12,7 +12,7 @@ export const arianaGrandeMyEverythingDeluxeJustALittleBitOfYourHeart = {
   title: "Just A Little Bit Of Your Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "justalittlebitofyourheart|66CXWjxzNUsdJxJ2JdwvnR|232586",
   song: "song/ariana-grande-just-a-little-bit-of-your-heart",
   carriedBy: [

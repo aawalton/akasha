@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeWestSide = {
   title: "west side",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "westside|66CXWjxzNUsdJxJ2JdwvnR|132278",
   song: "song/ariana-grande-west-side",
   carriedBy: [

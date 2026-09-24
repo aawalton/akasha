@@ -12,7 +12,7 @@ export const auroraIntoTheUnknownIntoTheUnknown = {
   title: "Into the Unknown",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "intotheunknown|1WgXqy2Dd70QQOU7Ay074N|199960",
   song: "song/aurora-into-the-unknown",
   carriedBy: [

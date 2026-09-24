@@ -12,10 +12,7 @@ export const auroraMechuleDogruKarlarUlkesi2MechuleDogruKarlarUlkesi2 = {
   title: "Meçhule Doğru - Karlar Ülkesi 2",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6zLutmgjmoKvrsH5hyqNz1", artistName: "Begüm Günceler" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-  ],
+  trackArtist: [{ artistName: "Begüm Günceler" }, { artist: "artist/aurora" }],
   trackKey: "mechuledogrukarlarulkesi2|1WgXqy2Dd70QQOU7Ay074N,6zLutmgjmoKvrsH5hyqNz1|194866",
   song: "song/aurora-mechule-dogru-karlar-ulkesi-2",
   carriedBy: [

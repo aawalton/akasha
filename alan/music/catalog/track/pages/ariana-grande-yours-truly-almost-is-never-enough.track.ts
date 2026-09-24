@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyAlmostIsNeverEnough = {
   title: "Almost Is Never Enough",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "2Rf4X6m0oayCJhaJ5K63GQ", artistName: "Nathan Sykes" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Nathan Sykes" }],
   trackKey: "almostisneverenough|2Rf4X6m0oayCJhaJ5K63GQ,66CXWjxzNUsdJxJ2JdwvnR|327773",
   song: "song/ariana-grande-almost-is-never-enough",
   carriedBy: [

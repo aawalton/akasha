@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveBadIdeaLive = {
   title: "bad idea - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "badidealive|66CXWjxzNUsdJxJ2JdwvnR|212163",
   song: "song/ariana-grande-bad-idea",
   carriedBy: [

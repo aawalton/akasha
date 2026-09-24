@@ -12,10 +12,7 @@ export const arianaGrandeSweetenerBlazedFeatPharrellWilliams = {
   title: "blazed (feat. Pharrell Williams)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "2RdwBSPQiwcmiDo9kixcl8", artistName: "Pharrell Williams" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Pharrell Williams" }],
   trackKey: "blazedfeatpharrellwilliams|2RdwBSPQiwcmiDo9kixcl8,66CXWjxzNUsdJxJ2JdwvnR|196360",
   song: "song/ariana-grande-blazed",
   carriedBy: [

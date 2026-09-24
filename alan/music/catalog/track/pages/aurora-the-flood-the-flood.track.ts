@@ -15,7 +15,7 @@ export const auroraTheFloodTheFlood = {
   title: "The Flood",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "theflood|1WgXqy2Dd70QQOU7Ay074N|269720",
   song: "song/aurora-the-flood",
   carriedBy: [

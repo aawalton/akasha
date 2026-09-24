@@ -12,7 +12,7 @@ export const arianaGrandeSweetenerGodIsAWoman = {
   title: "God is a woman",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "godisawoman|66CXWjxzNUsdJxJ2JdwvnR|197546",
   song: "song/ariana-grande-god-is-a-woman",
   carriedBy: [

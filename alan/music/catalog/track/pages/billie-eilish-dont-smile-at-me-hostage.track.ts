@@ -12,7 +12,7 @@ export const billieEilishDontSmileAtMeHostage = {
   title: "hostage",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "hostage|6qqNVTkY8uBg9cP3Jd7DAH|229425",
   song: "song/billie-eilish-hostage",
   carriedBy: [

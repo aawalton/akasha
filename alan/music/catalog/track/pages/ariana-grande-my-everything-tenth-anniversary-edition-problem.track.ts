@@ -15,10 +15,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionProblem = {
   title: "Problem",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "5yG7ZAZafVaAlMTeBybKAL", artistName: "Iggy Azalea" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Iggy Azalea" }],
   trackKey: "problem|5yG7ZAZafVaAlMTeBybKAL,66CXWjxzNUsdJxJ2JdwvnR|193993",
   song: "song/ariana-grande-problem",
   carriedBy: [

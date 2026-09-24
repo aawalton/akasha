@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeMyHair = {
   title: "my hair",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "myhair|66CXWjxzNUsdJxJ2JdwvnR|158436",
   song: "song/ariana-grande-my-hair",
   carriedBy: [

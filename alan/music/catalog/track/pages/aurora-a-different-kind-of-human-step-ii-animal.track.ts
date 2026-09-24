@@ -12,7 +12,7 @@ export const auroraADifferentKindOfHumanStepIiAnimal = {
   title: "Animal",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "animal|1WgXqy2Dd70QQOU7Ay074N|215400",
   song: "song/aurora-animal",
   carriedBy: [

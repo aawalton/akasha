@@ -13,7 +13,7 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveDontWannaBreakU
     title: "don’t wanna break up again - live version",
     trackType: "live",
     explicit: true,
-    trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: "artist/ariana-grande" }],
     trackKey: "dontwannabreakupagainliveversion|66CXWjxzNUsdJxJ2JdwvnR|174251",
     song: "song/ariana-grande-don-t-wanna-break-up-again",
     carriedBy: [

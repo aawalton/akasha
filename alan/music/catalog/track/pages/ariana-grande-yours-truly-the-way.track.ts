@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyTheWay = {
   title: "The Way",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4LLpKhyESsyAXpc4laK94U", artistName: "Mac Miller" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Mac Miller" }],
   trackKey: "theway|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|227026",
   song: "song/ariana-grande-the-way",
   carriedBy: [

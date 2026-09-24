@@ -15,10 +15,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryMarchOfTheWitchHunt
   title: "March of the Witch Hunters",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3eLZo1bSslvsu0zNhtmMM4", artistName: "Wicked Movie Cast" },
-    { externalId: "0yF5IqIHlPDti2mfZtHe3K", artistName: "Ethan Slater" },
-  ],
+  trackArtist: [{ artist: "artist/wicked-movie-cast" }, { artistName: "Ethan Slater" }],
   trackKey: "marchofthewitchhunters|0yF5IqIHlPDti2mfZtHe3K,3eLZo1bSslvsu0zNhtmMM4|156209",
   song: "song/ariana-grande-march-of-the-witch-hunters",
   carriedBy: [

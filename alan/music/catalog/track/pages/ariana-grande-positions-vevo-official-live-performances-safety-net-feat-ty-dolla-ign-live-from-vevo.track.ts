@@ -13,10 +13,7 @@ export const arianaGrandePositionsVevoOfficialLivePerformancesSafetyNetFeatTyDol
     title: "safety net (feat. Ty Dolla $ign) - live from Vevo",
     trackType: "live",
     explicit: false,
-    trackArtist: [
-      { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-      { externalId: "7c0XG5cIJTrrAgEC3ULPiq", artistName: "Ty Dolla $ign" },
-    ],
+    trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Ty Dolla $ign" }],
     trackKey:
       "safetynetfeattydollaignlivefromvevo|66CXWjxzNUsdJxJ2JdwvnR,7c0XG5cIJTrrAgEC3ULPiq|211921",
     song: "song/ariana-grande-safety-net",

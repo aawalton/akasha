@@ -12,10 +12,7 @@ export const arianaGrandeSweetenerBorderlineFeatMissyElliott = {
   title: "borderline (feat. Missy Elliott)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "2wIVse2owClT7go1WT98tk", artistName: "Missy Elliott" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Missy Elliott" }],
   trackKey: "borderlinefeatmissyelliott|2wIVse2owClT7go1WT98tk,66CXWjxzNUsdJxJ2JdwvnR|177533",
   song: "song/ariana-grande-borderline",
   carriedBy: [

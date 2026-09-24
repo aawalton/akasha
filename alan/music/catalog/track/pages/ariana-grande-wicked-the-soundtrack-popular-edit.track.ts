@@ -12,7 +12,7 @@ export const arianaGrandeWickedTheSoundtrackPopularEdit = {
   title: "Popular - Edit",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "popularedit|66CXWjxzNUsdJxJ2JdwvnR|173915",
   song: "song/ariana-grande-popular",
   carriedBy: [

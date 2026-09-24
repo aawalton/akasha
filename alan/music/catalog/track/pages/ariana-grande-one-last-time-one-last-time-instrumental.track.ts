@@ -12,7 +12,7 @@ export const arianaGrandeOneLastTimeOneLastTimeInstrumental = {
   title: "One Last Time - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "onelasttimeinstrumental|66CXWjxzNUsdJxJ2JdwvnR|198886",
   song: "song/ariana-grande-one-last-time",
   carriedBy: [

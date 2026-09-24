@@ -15,7 +15,7 @@ export const auroraInfectionsOfADifferentKindStepISoftUniverse = {
   title: "Soft Universe",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "softuniverse|1WgXqy2Dd70QQOU7Ay074N|239533",
   song: "song/aurora-soft-universe",
   carriedBy: [

@@ -12,7 +12,7 @@ export const auroraTheConflictOfTheMindYourBlood = {
   title: "Your Blood",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "yourblood|1WgXqy2Dd70QQOU7Ay074N|248266",
   song: "song/aurora-your-blood",
   carriedBy: [

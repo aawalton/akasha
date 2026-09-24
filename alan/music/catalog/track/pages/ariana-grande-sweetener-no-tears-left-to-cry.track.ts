@@ -12,7 +12,7 @@ export const arianaGrandeSweetenerNoTearsLeftToCry = {
   title: "no tears left to cry",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "notearslefttocry|66CXWjxzNUsdJxJ2JdwvnR|205920",
   song: "song/ariana-grande-no-tears-left-to-cry",
   carriedBy: [

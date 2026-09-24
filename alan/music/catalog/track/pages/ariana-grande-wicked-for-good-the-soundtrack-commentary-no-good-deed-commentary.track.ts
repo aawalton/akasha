@@ -14,10 +14,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoGoodDeedCommentar
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "6VAUVq50O85s387FLQJi2B", artistName: "Jon M. Chu" },
-    { externalId: "1e6BRnFiiwNZl04xu1yqmi", artistName: "Stephen Oremus" },
-    { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
+    { artistName: "Jon M. Chu" },
+    { artistName: "Stephen Oremus" },
+    { artistName: "Stephen Schwartz" },
+    { artist: "artist/cynthia-erivo" },
   ],
   trackKey:
     "nogooddeedcommentary|1e6BRnFiiwNZl04xu1yqmi,46UMQ0cW8ToR8egkBRwAxZ,6VAUVq50O85s387FLQJi2B,7daPb40K64rRtF36wd3ZOk|101110",

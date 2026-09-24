@@ -12,7 +12,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheSeedIntro = {
   title: "The Seed Intro",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "theseedintro|1WgXqy2Dd70QQOU7Ay074N|25000",
   song: "song/aurora-the-seed-intro",
   carriedBy: [

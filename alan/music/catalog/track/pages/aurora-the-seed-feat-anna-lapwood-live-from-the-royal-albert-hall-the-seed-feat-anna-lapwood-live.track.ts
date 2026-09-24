@@ -12,10 +12,7 @@ export const auroraTheSeedFeatAnnaLapwoodLiveFromTheRoyalAlbertHallTheSeedFeatAn
   title: "The Seed (feat. Anna Lapwood) - Live from the Royal Albert Hall",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "0e2JUvil990IURjsq2PmqP", artistName: "Anna Lapwood" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Anna Lapwood" }],
   trackKey:
     "theseedfeatannalapwoodlivefromtheroyalalberthall|0e2JUvil990IURjsq2PmqP,1WgXqy2Dd70QQOU7Ay074N|314960",
   song: "song/aurora-the-seed",

@@ -13,9 +13,9 @@ export const arianaGrandeSideToSideRemixesSideToSideSlushiiRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0hCNtLu0JehylgoiP8L4Gh", artistName: "Nicki Minaj" },
-    { externalId: "41rVuRHYAiH7ltBTHVR9We", artistName: "Slushii" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Nicki Minaj" },
+    { artistName: "Slushii" },
   ],
   trackKey:
     "sidetosideslushiiremix|0hCNtLu0JehylgoiP8L4Gh,41rVuRHYAiH7ltBTHVR9We,66CXWjxzNUsdJxJ2JdwvnR|202440",

@@ -12,7 +12,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackMyLittleWolf = {
   title: "My Little Wolf",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
+  trackArtist: [{ artistName: "Bruno Coulais" }],
   trackKey: "mylittlewolf|5kjb55jtwPnbYXXDvP4x7R|141813",
   song: "song/aurora-my-little-wolf",
   carriedBy: [

@@ -12,7 +12,7 @@ export const arianaGrandePetalWarningSignsInterlude = {
   title: "warning signs (interlude)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "warningsignsinterlude|66CXWjxzNUsdJxJ2JdwvnR|77342",
   song: "song/ariana-grande-warning-signs-interlude",
   carriedBy: [

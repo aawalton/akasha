@@ -12,10 +12,7 @@ export const auroraCureForMeFeatSilvanaEstradaLiveCureForMeFeatSilvanaEstradaLiv
   title: "Cure For Me (feat. Silvana Estrada) - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "72VywtXEoONiBLNu3ibGI7", artistName: "Silvana Estrada" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Silvana Estrada" }],
   trackKey: "cureformefeatsilvanaestradalive|1WgXqy2Dd70QQOU7Ay074N,72VywtXEoONiBLNu3ibGI7|231285",
   song: "song/aurora-cure-for-me",
   carriedBy: [

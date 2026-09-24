@@ -12,7 +12,7 @@ export const arianaGrandeSweetenerRaindropsAnAngelCried = {
   title: "raindrops (an angel cried)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "raindropsanangelcried|66CXWjxzNUsdJxJ2JdwvnR|37640",
   song: "song/ariana-grande-raindrops-an-angel-cried",
   carriedBy: [

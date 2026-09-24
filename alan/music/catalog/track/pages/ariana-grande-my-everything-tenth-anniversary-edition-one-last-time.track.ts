@@ -15,7 +15,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionOneLastTime = {
   title: "One Last Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "onelasttime|66CXWjxzNUsdJxJ2JdwvnR|197278",
   song: "song/ariana-grande-one-last-time",
   carriedBy: [

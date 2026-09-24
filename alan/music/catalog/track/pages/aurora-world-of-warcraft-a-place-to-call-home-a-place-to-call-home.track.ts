@@ -13,10 +13,10 @@ export const auroraWorldOfWarcraftAPlaceToCallHomeAPlaceToCallHome = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "5ZU7xWKgKq5T47aBVHBeMs", artistName: "Brendon Williams" },
-    { externalId: "2dlo6TFsxQawXjxytNerod", artistName: "World of Warcraft" },
-    { externalId: "6UJ3pPsN7xzsz0Cneucy59", artistName: "Blizzard Entertainment" },
+    { artist: "artist/aurora" },
+    { artistName: "Brendon Williams" },
+    { artistName: "World of Warcraft" },
+    { artistName: "Blizzard Entertainment" },
   ],
   trackKey:
     "aplacetocallhome|1WgXqy2Dd70QQOU7Ay074N,2dlo6TFsxQawXjxytNerod,5ZU7xWKgKq5T47aBVHBeMs,6UJ3pPsN7xzsz0Cneucy59|131978",

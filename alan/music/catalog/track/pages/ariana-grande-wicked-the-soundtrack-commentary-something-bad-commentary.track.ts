@@ -13,10 +13,7 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBadCommentary = {
   title: "Something Bad - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2NqTD8XByzWPCUQQmza0xP", artistName: "Jon Chu" },
-    { externalId: "0pHTIdyC4DAsoMhpSufQaz", artistName: "Peter Dinklage" },
-  ],
+  trackArtist: [{ artistName: "Jon Chu" }, { artist: "artist/peter-dinklage" }],
   trackKey: "somethingbadcommentary|0pHTIdyC4DAsoMhpSufQaz,2NqTD8XByzWPCUQQmza0xP|80063",
   song: "song/ariana-grande-something-bad-commentary",
   carriedBy: [

@@ -12,7 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionBabyILiveFromLondon = 
   title: "Baby I - Live from London",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "babyilivefromlondon|66CXWjxzNUsdJxJ2JdwvnR|197304",
   song: "song/ariana-grande-baby-i",
   carriedBy: [

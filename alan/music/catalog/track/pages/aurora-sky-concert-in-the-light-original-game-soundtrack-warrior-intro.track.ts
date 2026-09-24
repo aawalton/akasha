@@ -12,7 +12,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackWarriorIntro = {
   title: "Warrior Intro",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "warriorintro|1WgXqy2Dd70QQOU7Ay074N|30000",
   song: "song/aurora-warrior-intro",
   carriedBy: [

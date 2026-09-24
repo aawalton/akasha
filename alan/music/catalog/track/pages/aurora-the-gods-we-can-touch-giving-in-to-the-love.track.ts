@@ -12,7 +12,7 @@ export const auroraTheGodsWeCanTouchGivingInToTheLove = {
   title: "Giving In To The Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "givingintothelove|1WgXqy2Dd70QQOU7Ay074N|181333",
   song: "song/aurora-giving-in-to-the-love",
   carriedBy: [

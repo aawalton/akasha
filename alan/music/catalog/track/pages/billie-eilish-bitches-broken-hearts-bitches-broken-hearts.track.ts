@@ -12,7 +12,7 @@ export const billieEilishBitchesBrokenHeartsBitchesBrokenHearts = {
   title: "bitches broken hearts",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "bitchesbrokenhearts|6qqNVTkY8uBg9cP3Jd7DAH|176471",
   song: "song/billie-eilish-bitches-broken-hearts",
   carriedBy: [

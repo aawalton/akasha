@@ -12,7 +12,7 @@ export const arianaGrandeSweetenerEverytime = {
   title: "everytime",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "everytime|66CXWjxzNUsdJxJ2JdwvnR|172106",
   song: "song/ariana-grande-everytime",
   carriedBy: [

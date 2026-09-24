@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveDangerousWomanLive = {
   title: "dangerous woman - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "dangerouswomanlive|66CXWjxzNUsdJxJ2JdwvnR|233446",
   song: "song/ariana-grande-dangerous-woman",
   carriedBy: [

@@ -14,7 +14,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   title: "Saturn Returns Interlude - instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "saturnreturnsinterludeinstrumental|66CXWjxzNUsdJxJ2JdwvnR|37195",
   song: "song/ariana-grande-saturn-returns-interlude",
   carriedBy: [

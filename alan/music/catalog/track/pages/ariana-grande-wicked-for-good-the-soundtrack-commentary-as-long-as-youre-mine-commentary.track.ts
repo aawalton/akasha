@@ -13,7 +13,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryAsLongAsYoureMineCo
   title: "As Long As You’re Mine - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2Je7IdIHe8UvZbLXdapQ26", artistName: "Jonathan Bailey" }],
+  trackArtist: [{ artist: "artist/jonathan-bailey" }],
   trackKey: "aslongasyoureminecommentary|2Je7IdIHe8UvZbLXdapQ26|64960",
   song: "song/ariana-grande-as-long-as-youre-mine-commentary",
   carriedBy: [

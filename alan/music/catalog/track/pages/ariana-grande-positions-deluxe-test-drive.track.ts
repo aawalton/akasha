@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeTestDrive = {
   title: "test drive",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "testdrive|66CXWjxzNUsdJxJ2JdwvnR|122174",
   song: "song/ariana-grande-test-drive",
   carriedBy: [

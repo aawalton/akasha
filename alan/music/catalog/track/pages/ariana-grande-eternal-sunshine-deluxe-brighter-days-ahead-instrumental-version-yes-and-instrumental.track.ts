@@ -16,7 +16,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
     title: "yes, and? - instrumental",
     trackType: "instrumental",
     explicit: false,
-    trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+    trackArtist: [{ artist: "artist/ariana-grande" }],
     trackKey: "yesandinstrumental|66CXWjxzNUsdJxJ2JdwvnR|214994",
     song: "song/ariana-grande-yes-and",
     carriedBy: [

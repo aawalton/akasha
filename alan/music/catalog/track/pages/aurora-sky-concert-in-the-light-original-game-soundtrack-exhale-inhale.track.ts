@@ -15,7 +15,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackExhaleInhale = {
   title: "Exhale Inhale",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "exhaleinhale|1WgXqy2Dd70QQOU7Ay074N|212626",
   song: "song/aurora-exhale-inhale",
   carriedBy: [

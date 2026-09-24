@@ -13,9 +13,9 @@ export const arianaGrandeRainOnMeRalphiRosarioRemixRainOnMeRalphiRosarioRemixEdi
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "1HY2Jd0NmPuamShAr6KMms", artistName: "Lady Gaga" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0c5584rnmlOvkMpJtpBLTh", artistName: "Ralphi Rosario" },
+    { artistName: "Lady Gaga" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Ralphi Rosario" },
   ],
   trackKey:
     "rainonmeralphirosarioremixedit|0c5584rnmlOvkMpJtpBLTh,1HY2Jd0NmPuamShAr6KMms,66CXWjxzNUsdJxJ2JdwvnR|238080",

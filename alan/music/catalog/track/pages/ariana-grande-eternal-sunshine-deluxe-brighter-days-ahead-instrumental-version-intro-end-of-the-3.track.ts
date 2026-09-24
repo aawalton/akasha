@@ -14,7 +14,7 @@ export const arianaGrandeEternalSunshineDeluxeBrighterDaysAheadInstrumentalVersi
   title: "intro (end of the world) - instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "introendoftheworldinstrumental|66CXWjxzNUsdJxJ2JdwvnR|92400",
   song: "song/ariana-grande-intro-end-of-the-world",
   carriedBy: [

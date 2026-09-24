@@ -12,7 +12,7 @@ export const auroraThroughTheEyesOfAChildFromAdolescenceThroughTheEyesOfAChildFr
   title: "Through the Eyes of a Child - From Adolescence",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "throughtheeyesofachildfromadolescence|1WgXqy2Dd70QQOU7Ay074N|274413",
   song: "song/aurora-through-the-eyes-of-a-child-from-adolescence",
   carriedBy: [

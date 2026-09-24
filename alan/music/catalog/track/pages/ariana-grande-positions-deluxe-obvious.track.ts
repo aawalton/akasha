@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeObvious = {
   title: "obvious",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "obvious|66CXWjxzNUsdJxJ2JdwvnR|146958",
   song: "song/ariana-grande-obvious",
   carriedBy: [

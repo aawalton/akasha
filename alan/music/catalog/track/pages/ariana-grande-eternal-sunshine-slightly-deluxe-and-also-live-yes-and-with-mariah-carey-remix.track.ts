@@ -16,10 +16,7 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveYesAndWithMaria
   title: "yes, and? (with Mariah Carey) - Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4iHNK0tOyZPYnBU7nGAgpQ", artistName: "Mariah Carey" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Mariah Carey" }],
   trackKey: "yesandwithmariahcareyremix|4iHNK0tOyZPYnBU7nGAgpQ,66CXWjxzNUsdJxJ2JdwvnR|214994",
   song: "song/ariana-grande-yes-and",
   carriedBy: [

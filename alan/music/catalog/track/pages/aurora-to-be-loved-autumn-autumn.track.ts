@@ -12,7 +12,7 @@ export const auroraToBeLovedAutumnAutumn = {
   title: "Autumn, Autumn",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" }],
+  trackArtist: [{ artistName: "Askjell" }],
   trackKey: "autumnautumn|3NABmtfO8G8s96WFGhbR7F|293304",
   song: "song/aurora-autumn-autumn",
   carriedBy: [

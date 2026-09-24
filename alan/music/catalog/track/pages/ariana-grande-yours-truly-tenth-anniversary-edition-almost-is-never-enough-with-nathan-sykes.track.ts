@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionAlmostIsNeverEnoughWit
   title: "Almost Is Never Enough (with Nathan Sykes)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "2Rf4X6m0oayCJhaJ5K63GQ", artistName: "Nathan Sykes" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Nathan Sykes" }],
   trackKey:
     "almostisneverenoughwithnathansykes|2Rf4X6m0oayCJhaJ5K63GQ,66CXWjxzNUsdJxJ2JdwvnR|327775",
   song: "song/ariana-grande-almost-is-never-enough",

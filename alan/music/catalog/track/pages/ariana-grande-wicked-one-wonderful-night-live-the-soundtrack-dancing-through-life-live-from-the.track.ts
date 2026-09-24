@@ -14,9 +14,9 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackDancingThroughL
   trackType: "live",
   explicit: false,
   trackArtist: [
-    { externalId: "7znzgTbLilllmlnY4CzazN", artistName: "Bowen Yang" },
-    { externalId: "0yF5IqIHlPDti2mfZtHe3K", artistName: "Ethan Slater" },
-    { externalId: "6uGIoRQUqP4ncxyg6HksA1", artistName: "Marissa Bode" },
+    { artistName: "Bowen Yang" },
+    { artistName: "Ethan Slater" },
+    { artistName: "Marissa Bode" },
   ],
   trackKey:
     "dancingthroughlifelivefromthedolbytheatre|0yF5IqIHlPDti2mfZtHe3K,6uGIoRQUqP4ncxyg6HksA1,7znzgTbLilllmlnY4CzazN|358056",

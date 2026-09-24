@@ -12,7 +12,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackThisIsIntolerable =
   title: "This Is Intolerable",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
+  trackArtist: [{ artistName: "Bruno Coulais" }],
   trackKey: "thisisintolerable|5kjb55jtwPnbYXXDvP4x7R|217840",
   song: "song/aurora-this-is-intolerable",
   carriedBy: [

@@ -17,9 +17,9 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveTheBoyIsMineWit
   trackType: "remix",
   explicit: true,
   trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "05oH07COxkXKIMt6mIPRee", artistName: "Brandy" },
-    { externalId: "6nzxy2wXs6tLgzEtqOkEi2", artistName: "Monica" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Brandy" },
+    { artistName: "Monica" },
   ],
   trackKey:
     "theboyisminewithbrandymonicaremix|05oH07COxkXKIMt6mIPRee,66CXWjxzNUsdJxJ2JdwvnR,6nzxy2wXs6tLgzEtqOkEi2|213384",

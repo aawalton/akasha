@@ -14,9 +14,9 @@ export const auroraComeCloserTheThing = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "5r0BuurxKQugj8cjHiO8pY", artistName: "TOMORA" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "45F5Ue9KSHAtp7aE85zlsW", artistName: "Tom Rowlands" },
+    { artistName: "TOMORA" },
+    { artist: "artist/aurora" },
+    { artistName: "Tom Rowlands" },
   ],
   trackKey: "thething|1WgXqy2Dd70QQOU7Ay074N,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|338120",
   song: "song/aurora-the-thing",

@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveGoodnightNGoLive = {
   title: "goodnight n go - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "goodnightngolive|66CXWjxzNUsdJxJ2JdwvnR|188787",
   song: "song/ariana-grande-goodnight-n-go",
   carriedBy: [

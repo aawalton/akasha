@@ -12,10 +12,7 @@ export const auroraQueendomRemixesQueendomSisterBlissRemix = {
   title: "Queendom - Sister Bliss Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "4tc9NREea7ncB7JzqdBsj5", artistName: "Sister Bliss" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Sister Bliss" }],
   trackKey: "queendomsisterblissremix|1WgXqy2Dd70QQOU7Ay074N,4tc9NREea7ncB7JzqdBsj5|378560",
   song: "song/aurora-queendom",
   carriedBy: [

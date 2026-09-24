@@ -12,7 +12,7 @@ export const arianaGrandeMyEverythingDeluxeWhyTry = {
   title: "Why Try",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "whytry|66CXWjxzNUsdJxJ2JdwvnR|211880",
   song: "song/ariana-grande-why-try",
   carriedBy: [

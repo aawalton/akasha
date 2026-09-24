@@ -12,7 +12,7 @@ export const arianaGrandeThankUNextInMyHead = {
   title: "in my head",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "inmyhead|66CXWjxzNUsdJxJ2JdwvnR|222946",
   song: "song/ariana-grande-in-my-head",
   carriedBy: [

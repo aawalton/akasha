@@ -13,9 +13,9 @@ export const arianaGrandeItWasAMaskedChristmasItWasAMaskedChristmasFeatArianaGra
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "7mAcgRMD6EfCKHO6cIkDOP", artistName: "Jimmy Fallon" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "181bsRPaVXVlUKXrxwZfHK", artistName: "Megan Thee Stallion" },
+    { artistName: "Jimmy Fallon" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Megan Thee Stallion" },
   ],
   trackKey:
     "itwasamaskedchristmasfeatarianagrandemegantheestallion|181bsRPaVXVlUKXrxwZfHK,66CXWjxzNUsdJxJ2JdwvnR,7mAcgRMD6EfCKHO6cIkDOP|180909",

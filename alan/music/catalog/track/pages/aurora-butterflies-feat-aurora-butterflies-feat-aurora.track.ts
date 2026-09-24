@@ -12,10 +12,7 @@ export const auroraButterfliesFeatAuroraButterfliesFeatAurora = {
   title: "Butterflies (feat. AURORA)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2txHhyCwHjUEpJjWrEyqyX", artistName: "Tom Odell" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-  ],
+  trackArtist: [{ artistName: "Tom Odell" }, { artist: "artist/aurora" }],
   trackKey: "butterfliesfeataurora|1WgXqy2Dd70QQOU7Ay074N,2txHhyCwHjUEpJjWrEyqyX|130666",
   song: "song/aurora-butterflies",
   carriedBy: [

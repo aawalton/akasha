@@ -16,10 +16,10 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWicked 
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "3eLZo1bSslvsu0zNhtmMM4", artistName: "Wicked Movie Cast" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-    { externalId: "5IaJcuBeBkVqhGAzxMciwu", artistName: "Michelle Yeoh" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
+    { artist: "artist/wicked-movie-cast" },
+    { artist: "artist/cynthia-erivo" },
+    { artistName: "Michelle Yeoh" },
+    { artist: "artist/ariana-grande" },
   ],
   trackKey:
     "everydaymorewicked|3eLZo1bSslvsu0zNhtmMM4,46UMQ0cW8ToR8egkBRwAxZ,5IaJcuBeBkVqhGAzxMciwu,66CXWjxzNUsdJxJ2JdwvnR|288766",

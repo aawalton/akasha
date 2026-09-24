@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveRaindropsAnAngelCriedLive = {
   title: "raindrops (an angel cried) - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "raindropsanangelcriedlive|66CXWjxzNUsdJxJ2JdwvnR|43251",
   song: "song/ariana-grande-raindrops-an-angel-cried",
   carriedBy: [

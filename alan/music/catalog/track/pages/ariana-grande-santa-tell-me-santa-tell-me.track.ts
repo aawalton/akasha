@@ -12,7 +12,7 @@ export const arianaGrandeSantaTellMeSantaTellMe = {
   title: "Santa Tell Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "santatellme|66CXWjxzNUsdJxJ2JdwvnR|204093",
   song: "song/ariana-grande-santa-tell-me",
   carriedBy: [

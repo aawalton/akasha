@@ -12,7 +12,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeThroughTheEyesOfAChild = 
   title: "Through the Eyes of a Child",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "throughtheeyesofachild|1WgXqy2Dd70QQOU7Ay074N|274413",
   song: "song/aurora-through-the-eyes-of-a-child",
   carriedBy: [

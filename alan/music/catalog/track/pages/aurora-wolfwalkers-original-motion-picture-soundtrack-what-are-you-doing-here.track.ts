@@ -12,7 +12,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackWhatAreYouDoingHere
   title: "What Are You Doing Here?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
+  trackArtist: [{ artistName: "Bruno Coulais" }],
   trackKey: "whatareyoudoinghere|5kjb55jtwPnbYXXDvP4x7R|152626",
   song: "song/aurora-what-are-you-doing-here",
   carriedBy: [

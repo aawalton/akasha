@@ -12,10 +12,7 @@ export const auroraIWentTooFarMkRemixRadioVersionIWentTooFarMkRemixRadioVersion 
   title: "I Went Too Far - MK Remix (Radio Version)",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "1yqxFtPHKcGcv6SXZNdyT9", artistName: "MK" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "MK" }],
   trackKey: "iwenttoofarmkremixradioversion|1WgXqy2Dd70QQOU7Ay074N,1yqxFtPHKcGcv6SXZNdyT9|237070",
   song: "song/aurora-i-went-too-far",
   carriedBy: [

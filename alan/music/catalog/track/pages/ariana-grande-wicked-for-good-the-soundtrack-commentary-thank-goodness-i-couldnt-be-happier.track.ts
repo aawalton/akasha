@@ -13,7 +13,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryThankGoodnessICould
   title: "Thank Goodness / I Couldn’t Be Happier - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "thankgoodnessicouldntbehappiercommentary|66CXWjxzNUsdJxJ2JdwvnR|33609",
   song: "song/ariana-grande-thank-goodness-i-couldnt-be-happier-commentary",
   carriedBy: [

@@ -12,7 +12,7 @@ export const billieEilishDontSmileAtMeCopycat = {
   title: "COPYCAT",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" }],
+  trackArtist: [{ artist: "artist/billie-eilish" }],
   trackKey: "copycat|6qqNVTkY8uBg9cP3Jd7DAH|194711",
   song: "song/billie-eilish-copycat",
   carriedBy: [

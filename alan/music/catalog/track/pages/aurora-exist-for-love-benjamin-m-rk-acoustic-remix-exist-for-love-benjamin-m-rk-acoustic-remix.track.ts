@@ -12,10 +12,7 @@ export const auroraExistForLoveBenjaminMRkAcousticRemixExistForLoveBenjaminMRkAc
   title: "Exist for Love - Benjamin Mørk Acoustic Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "2fC3X6tyQk1zYIDjwSYxE6", artistName: "Benjamin Mørk" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Benjamin Mørk" }],
   trackKey:
     "existforlovebenjaminmrkacousticremix|1WgXqy2Dd70QQOU7Ay074N,2fC3X6tyQk1zYIDjwSYxE6|271613",
   song: "song/aurora-exist-for-love",

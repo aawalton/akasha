@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionPopularSongMikaArianaG
   title: "Popular Song (MIKA & Ariana Grande)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5MmVJVhhYKQ86izuGHzJYA", artistName: "MIKA" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artistName: "MIKA" }, { artist: "artist/ariana-grande" }],
   trackKey: "popularsongmikaarianagrande|5MmVJVhhYKQ86izuGHzJYA,66CXWjxzNUsdJxJ2JdwvnR|200201",
   song: "song/ariana-grande-popular-song-mika-ariana-grande",
   carriedBy: [

@@ -12,10 +12,7 @@ export const arianaGrandePositionsDeluxeOffTheTableWithTheWeeknd = {
   title: "off the table (with The Weeknd)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "1Xyo4u8uXC1ZmMpatF05PJ", artistName: "The Weeknd" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "The Weeknd" }],
   trackKey: "offthetablewiththeweeknd|1Xyo4u8uXC1ZmMpatF05PJ,66CXWjxzNUsdJxJ2JdwvnR|239949",
   song: "song/ariana-grande-off-the-table",
   carriedBy: [

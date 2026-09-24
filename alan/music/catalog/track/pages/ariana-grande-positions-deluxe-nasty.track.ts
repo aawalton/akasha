@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeNasty = {
   title: "nasty",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "nasty|66CXWjxzNUsdJxJ2JdwvnR|200732",
   song: "song/ariana-grande-nasty",
   carriedBy: [

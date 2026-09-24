@@ -12,7 +12,7 @@ export const arianaGrandeMyEverythingDeluxeYouDontKnowMe = {
   title: "You Don't Know Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "youdontknowme|66CXWjxzNUsdJxJ2JdwvnR|233720",
   song: "song/ariana-grande-you-don-t-know-me",
   carriedBy: [

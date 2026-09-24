@@ -12,10 +12,7 @@ export const auroraTheRiverAskjellRemixTheRiverAskjellRemix = {
   title: "The River - Askjell Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "3NABmtfO8G8s96WFGhbR7F", artistName: "Askjell" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Askjell" }],
   trackKey: "theriveraskjellremix|1WgXqy2Dd70QQOU7Ay074N,3NABmtfO8G8s96WFGhbR7F|208002",
   song: "song/aurora-the-river",
   carriedBy: [

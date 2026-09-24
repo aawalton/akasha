@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionRightThereLiveFromLond
   title: "Right There - Live from London (feat. Big Sean)",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0c173mlxpT3dSFRgMO8XPh", artistName: "Big Sean" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Big Sean" }],
   trackKey:
     "righttherelivefromlondonfeatbigsean|0c173mlxpT3dSFRgMO8XPh,66CXWjxzNUsdJxJ2JdwvnR|196927",
   song: "song/ariana-grande-right-there",

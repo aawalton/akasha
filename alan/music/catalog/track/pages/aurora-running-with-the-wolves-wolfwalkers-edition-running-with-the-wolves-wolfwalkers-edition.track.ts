@@ -12,7 +12,7 @@ export const auroraRunningWithTheWolvesWolfwalkersEditionRunningWithTheWolvesWol
   title: "Running with the Wolves - Wolfwalkers Edition",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "runningwiththewolveswolfwalkersedition|1WgXqy2Dd70QQOU7Ay074N|166546",
   song: "song/aurora-running-with-the-wolves-wolfwalkers-edition",
   carriedBy: [

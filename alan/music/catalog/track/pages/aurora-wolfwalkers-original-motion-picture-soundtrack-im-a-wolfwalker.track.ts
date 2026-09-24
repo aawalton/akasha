@@ -12,7 +12,7 @@ export const auroraWolfwalkersOriginalMotionPictureSoundtrackImAWolfwalker = {
   title: "I'm a WolfWalker",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5kjb55jtwPnbYXXDvP4x7R", artistName: "Bruno Coulais" }],
+  trackArtist: [{ artistName: "Bruno Coulais" }],
   trackKey: "imawolfwalker|5kjb55jtwPnbYXXDvP4x7R|127733",
   song: "song/aurora-im-a-wolfwalker",
   carriedBy: [

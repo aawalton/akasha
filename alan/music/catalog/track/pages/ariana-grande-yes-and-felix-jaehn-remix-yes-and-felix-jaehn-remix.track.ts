@@ -15,10 +15,7 @@ export const arianaGrandeYesAndFelixJaehnRemixYesAndFelixJaehnRemix = {
   title: "yes, and? - Felix Jaehn Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4bL2B6hmLlMWnUEZnorEtG", artistName: "felix jaehn" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "felix jaehn" }],
   trackKey: "yesandfelixjaehnremix|4bL2B6hmLlMWnUEZnorEtG,66CXWjxzNUsdJxJ2JdwvnR|235390",
   song: "song/ariana-grande-yes-and",
   carriedBy: [

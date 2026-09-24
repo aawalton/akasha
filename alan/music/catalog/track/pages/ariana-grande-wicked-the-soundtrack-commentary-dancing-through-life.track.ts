@@ -17,11 +17,11 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDancingThroughLife = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "2Je7IdIHe8UvZbLXdapQ26", artistName: "Jonathan Bailey" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "0yF5IqIHlPDti2mfZtHe3K", artistName: "Ethan Slater" },
-    { externalId: "6uGIoRQUqP4ncxyg6HksA1", artistName: "Marissa Bode" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
+    { artist: "artist/jonathan-bailey" },
+    { artist: "artist/ariana-grande" },
+    { artistName: "Ethan Slater" },
+    { artistName: "Marissa Bode" },
+    { artist: "artist/cynthia-erivo" },
   ],
   trackKey:
     "dancingthroughlife|0yF5IqIHlPDti2mfZtHe3K,2Je7IdIHe8UvZbLXdapQ26,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,6uGIoRQUqP4ncxyg6HksA1|587364",

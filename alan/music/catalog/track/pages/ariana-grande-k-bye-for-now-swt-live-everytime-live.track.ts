@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveEverytimeLive = {
   title: "everytime - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "everytimelive|66CXWjxzNUsdJxJ2JdwvnR|131928",
   song: "song/ariana-grande-everytime",
   carriedBy: [

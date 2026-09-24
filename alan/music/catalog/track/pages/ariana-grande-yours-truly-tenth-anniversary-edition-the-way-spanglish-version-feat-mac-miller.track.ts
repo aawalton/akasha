@@ -12,10 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionTheWaySpanglishVersion
   title: "The Way - Spanglish Version (feat. Mac Miller)",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "4LLpKhyESsyAXpc4laK94U", artistName: "Mac Miller" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Mac Miller" }],
   trackKey:
     "thewayspanglishversionfeatmacmiller|4LLpKhyESsyAXpc4laK94U,66CXWjxzNUsdJxJ2JdwvnR|226838",
   song: "song/ariana-grande-the-way",

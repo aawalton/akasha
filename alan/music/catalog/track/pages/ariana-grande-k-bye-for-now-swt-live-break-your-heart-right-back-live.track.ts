@@ -12,10 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveBreakYourHeartRightBackLive = {
   title: "break your heart right back - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "73sIBHcqh3Z3NyqHKZ7FOL", artistName: "Childish Gambino" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Childish Gambino" }],
   trackKey: "breakyourheartrightbacklive|66CXWjxzNUsdJxJ2JdwvnR,73sIBHcqh3Z3NyqHKZ7FOL|134875",
   song: "song/ariana-grande-break-your-heart-right-back",
   carriedBy: [

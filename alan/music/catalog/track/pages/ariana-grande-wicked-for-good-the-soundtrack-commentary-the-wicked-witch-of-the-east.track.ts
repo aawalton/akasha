@@ -16,9 +16,9 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryTheWickedWitchOfThe
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "6uGIoRQUqP4ncxyg6HksA1", artistName: "Marissa Bode" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-    { externalId: "0yF5IqIHlPDti2mfZtHe3K", artistName: "Ethan Slater" },
+    { artistName: "Marissa Bode" },
+    { artist: "artist/cynthia-erivo" },
+    { artistName: "Ethan Slater" },
   ],
   trackKey:
     "thewickedwitchoftheeast|0yF5IqIHlPDti2mfZtHe3K,46UMQ0cW8ToR8egkBRwAxZ,6uGIoRQUqP4ncxyg6HksA1|203330",

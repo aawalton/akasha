@@ -12,7 +12,7 @@ export const arianaGrandeEternalSunshineSlightlyDeluxeAndAlsoLiveYesAndLiveVersi
   title: "yes, and? - live version",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "yesandliveversion|66CXWjxzNUsdJxJ2JdwvnR|199448",
   song: "song/ariana-grande-yes-and",
   carriedBy: [

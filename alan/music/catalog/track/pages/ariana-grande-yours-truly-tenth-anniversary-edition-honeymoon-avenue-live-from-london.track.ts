@@ -12,7 +12,7 @@ export const arianaGrandeYoursTrulyTenthAnniversaryEditionHoneymoonAvenueLiveFro
   title: "Honeymoon Avenue - Live from London",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "honeymoonavenuelivefromlondon|66CXWjxzNUsdJxJ2JdwvnR|295544",
   song: "song/ariana-grande-honeymoon-avenue",
   carriedBy: [

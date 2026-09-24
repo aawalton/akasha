@@ -12,10 +12,7 @@ export const billieEilishCopycatSofiTukkerRemixCopycatSofiTukkerRemix = {
   title: "COPYCAT - Sofi Tukker Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "586uxXMyD5ObPuzjtrzO1Q", artistName: "SOFI TUKKER" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "SOFI TUKKER" }],
   trackKey: "copycatsofitukkerremix|586uxXMyD5ObPuzjtrzO1Q,6qqNVTkY8uBg9cP3Jd7DAH|198684",
   song: "song/billie-eilish-copycat",
   carriedBy: [

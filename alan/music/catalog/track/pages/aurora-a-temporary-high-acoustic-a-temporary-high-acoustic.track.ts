@@ -12,7 +12,7 @@ export const auroraATemporaryHighAcousticATemporaryHighAcoustic = {
   title: "A Temporary High - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "atemporaryhighacoustic|1WgXqy2Dd70QQOU7Ay074N|169946",
   song: "song/aurora-a-temporary-high",
   carriedBy: [

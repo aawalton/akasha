@@ -12,7 +12,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackRunawayIntro = {
   title: "Runaway Intro",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "runawayintro|1WgXqy2Dd70QQOU7Ay074N|27000",
   song: "song/aurora-runaway-intro",
   carriedBy: [

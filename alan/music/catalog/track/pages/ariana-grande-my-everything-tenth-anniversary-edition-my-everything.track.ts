@@ -12,7 +12,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionMyEverything = {
   title: "My Everything",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "myeverything|66CXWjxzNUsdJxJ2JdwvnR|168478",
   song: "song/ariana-grande-my-everything",
   carriedBy: [

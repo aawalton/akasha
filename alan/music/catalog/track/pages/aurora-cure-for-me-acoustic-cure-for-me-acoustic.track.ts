@@ -12,7 +12,7 @@ export const auroraCureForMeAcousticCureForMeAcoustic = {
   title: "Cure for Me - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "cureformeacoustic|1WgXqy2Dd70QQOU7Ay074N|213373",
   song: "song/aurora-cure-for-me",
   carriedBy: [

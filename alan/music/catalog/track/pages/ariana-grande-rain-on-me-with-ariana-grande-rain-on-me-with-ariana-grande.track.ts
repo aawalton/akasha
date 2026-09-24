@@ -12,10 +12,7 @@ export const arianaGrandeRainOnMeWithArianaGrandeRainOnMeWithArianaGrande = {
   title: "Rain On Me (with Ariana Grande)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1HY2Jd0NmPuamShAr6KMms", artistName: "Lady Gaga" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-  ],
+  trackArtist: [{ artistName: "Lady Gaga" }, { artist: "artist/ariana-grande" }],
   trackKey: "rainonmewitharianagrande|1HY2Jd0NmPuamShAr6KMms,66CXWjxzNUsdJxJ2JdwvnR|182200",
   song: "song/ariana-grande-rain-on-me",
   carriedBy: [

@@ -17,9 +17,9 @@ export const arianaGrandeWickedTheSoundtrackCommentaryDearOldShiz = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "3eLZo1bSslvsu0zNhtmMM4", artistName: "Wicked Movie Cast" },
-    { externalId: "32zfWhZAXwCpm5edh16fqj", artistName: "Shiz University Choir" },
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
+    { artist: "artist/wicked-movie-cast" },
+    { artistName: "Shiz University Choir" },
+    { artist: "artist/ariana-grande" },
   ],
   trackKey:
     "dearoldshiz|32zfWhZAXwCpm5edh16fqj,3eLZo1bSslvsu0zNhtmMM4,66CXWjxzNUsdJxJ2JdwvnR|71734",

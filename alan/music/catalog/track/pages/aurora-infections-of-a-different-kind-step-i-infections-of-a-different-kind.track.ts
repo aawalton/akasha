@@ -15,7 +15,7 @@ export const auroraInfectionsOfADifferentKindStepIInfectionsOfADifferentKind = {
   title: "Infections Of A Different Kind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "infectionsofadifferentkind|1WgXqy2Dd70QQOU7Ay074N|326909",
   song: "song/aurora-infections-of-a-different-kind",
   carriedBy: [

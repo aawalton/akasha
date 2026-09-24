@@ -18,7 +18,7 @@ export const auroraADifferentKindOfHumanStepIiTheSeed = {
   title: "The Seed",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "theseed|1WgXqy2Dd70QQOU7Ay074N|266969",
   song: "song/aurora-the-seed",
   carriedBy: [

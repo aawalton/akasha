@@ -15,10 +15,10 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackForGoodLiveFrom
     trackType: "live",
     explicit: false,
     trackArtist: [
-      { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-      { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-      { externalId: "73Np75Wv2tju61Eo9Zw4IR", artistName: "Idina Menzel" },
-      { externalId: "3DgcBA7P0ji5co7Z1Gfp2Q", artistName: "Kristin Chenoweth" },
+      { artist: "artist/cynthia-erivo" },
+      { artist: "artist/ariana-grande" },
+      { artistName: "Idina Menzel" },
+      { artistName: "Kristin Chenoweth" },
     ],
     trackKey:
       "forgoodlivefromthegershwintheatre|3DgcBA7P0ji5co7Z1Gfp2Q,46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR,73Np75Wv2tju61Eo9Zw4IR|271695",

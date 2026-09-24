@@ -13,10 +13,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryEveryDayMoreWickedC
   title: "Every Day More Wicked - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6VAUVq50O85s387FLQJi2B", artistName: "Jon M. Chu" },
-    { externalId: "7daPb40K64rRtF36wd3ZOk", artistName: "Stephen Schwartz" },
-  ],
+  trackArtist: [{ artistName: "Jon M. Chu" }, { artistName: "Stephen Schwartz" }],
   trackKey: "everydaymorewickedcommentary|6VAUVq50O85s387FLQJi2B,7daPb40K64rRtF36wd3ZOk|47529",
   song: "song/ariana-grande-every-day-more-wicked-commentary",
   carriedBy: [

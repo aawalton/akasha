@@ -14,10 +14,10 @@ export const auroraSomewhereElseSaluteRemixSomewhereElseSaluteRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "5r0BuurxKQugj8cjHiO8pY", artistName: "TOMORA" },
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "45F5Ue9KSHAtp7aE85zlsW", artistName: "Tom Rowlands" },
-    { externalId: "1np8xozf7ATJZDi9JX8Dx5", artistName: "salute" },
+    { artistName: "TOMORA" },
+    { artist: "artist/aurora" },
+    { artistName: "Tom Rowlands" },
+    { artistName: "salute" },
   ],
   trackKey:
     "somewhereelsesaluteremix|1WgXqy2Dd70QQOU7Ay074N,1np8xozf7ATJZDi9JX8Dx5,45F5Ue9KSHAtp7aE85zlsW,5r0BuurxKQugj8cjHiO8pY|362699",

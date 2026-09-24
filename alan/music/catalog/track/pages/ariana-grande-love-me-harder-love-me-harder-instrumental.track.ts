@@ -12,7 +12,7 @@ export const arianaGrandeLoveMeHarderLoveMeHarderInstrumental = {
   title: "Love Me Harder - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "lovemeharderinstrumental|66CXWjxzNUsdJxJ2JdwvnR|236034",
   song: "song/ariana-grande-love-me-harder",
   carriedBy: [

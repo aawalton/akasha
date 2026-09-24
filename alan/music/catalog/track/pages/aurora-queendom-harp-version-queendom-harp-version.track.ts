@@ -12,7 +12,7 @@ export const auroraQueendomHarpVersionQueendomHarpVersion = {
   title: "Queendom - Harp Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "queendomharpversion|1WgXqy2Dd70QQOU7Ay074N|232586",
   song: "song/aurora-queendom",
   carriedBy: [

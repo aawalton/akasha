@@ -12,7 +12,7 @@ export const arianaGrandePetalPetal = {
   title: "petal",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "petal|66CXWjxzNUsdJxJ2JdwvnR|184248",
   song: "song/ariana-grande-petal",
   carriedBy: [

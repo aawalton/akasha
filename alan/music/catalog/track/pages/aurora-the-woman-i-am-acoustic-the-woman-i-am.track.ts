@@ -12,7 +12,7 @@ export const auroraTheWomanIAmAcousticTheWomanIAm = {
   title: "The Woman I Am",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "thewomaniam|1WgXqy2Dd70QQOU7Ay074N|193240",
   song: "song/aurora-the-woman-i-am",
   carriedBy: [

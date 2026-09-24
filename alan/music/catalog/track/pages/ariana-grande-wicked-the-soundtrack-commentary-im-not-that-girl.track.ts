@@ -16,7 +16,7 @@ export const arianaGrandeWickedTheSoundtrackCommentaryImNotThatGirl = {
   title: "I’m Not That Girl",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
+  trackArtist: [{ artist: "artist/cynthia-erivo" }],
   trackKey: "imnotthatgirl|46UMQ0cW8ToR8egkBRwAxZ|237043",
   song: "song/ariana-grande-i-m-not-that-girl",
   carriedBy: [

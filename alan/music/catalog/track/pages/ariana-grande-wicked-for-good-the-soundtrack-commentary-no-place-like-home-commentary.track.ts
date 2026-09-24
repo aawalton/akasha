@@ -13,7 +13,7 @@ export const arianaGrandeWickedForGoodTheSoundtrackCommentaryNoPlaceLikeHomeComm
   title: "No Place Like Home - Commentary",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" }],
+  trackArtist: [{ artist: "artist/cynthia-erivo" }],
   trackKey: "noplacelikehomecommentary|46UMQ0cW8ToR8egkBRwAxZ|41861",
   song: "song/ariana-grande-no-place-like-home-commentary",
   carriedBy: [

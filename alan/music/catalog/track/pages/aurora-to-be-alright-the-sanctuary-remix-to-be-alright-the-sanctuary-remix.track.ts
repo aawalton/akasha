@@ -12,10 +12,7 @@ export const auroraToBeAlrightTheSanctuaryRemixToBeAlrightTheSanctuaryRemix = {
   title: "To Be Alright - The Sanctuary Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "3c7DW1zmCGBdgHy8HllzV2", artistName: "The Sanctuary" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "The Sanctuary" }],
   trackKey: "tobealrightthesanctuaryremix|1WgXqy2Dd70QQOU7Ay074N,3c7DW1zmCGBdgHy8HllzV2|226449",
   song: "song/aurora-to-be-alright",
   carriedBy: [

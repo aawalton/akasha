@@ -12,7 +12,7 @@ export const arianaGrandeYesAndYesAndSpedUp = {
   title: "yes, and? - sped up",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "yesandspedup|66CXWjxzNUsdJxJ2JdwvnR|193867",
   song: "song/ariana-grande-yes-and",
   carriedBy: [

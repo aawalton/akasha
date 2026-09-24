@@ -16,10 +16,7 @@ export const arianaGrandeWickedTheSoundtrackCommentarySomethingBad = {
   title: "Something Bad",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0pHTIdyC4DAsoMhpSufQaz", artistName: "Peter Dinklage" },
-    { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-  ],
+  trackArtist: [{ artist: "artist/peter-dinklage" }, { artist: "artist/cynthia-erivo" }],
   trackKey: "somethingbad|0pHTIdyC4DAsoMhpSufQaz,46UMQ0cW8ToR8egkBRwAxZ|108300",
   song: "song/ariana-grande-something-bad",
   carriedBy: [

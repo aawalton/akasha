@@ -12,10 +12,7 @@ export const arianaGrandeMyEverythingDeluxeBreakYourHeartRightBack = {
   title: "Break Your Heart Right Back",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "73sIBHcqh3Z3NyqHKZ7FOL", artistName: "Childish Gambino" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Childish Gambino" }],
   trackKey: "breakyourheartrightback|66CXWjxzNUsdJxJ2JdwvnR,73sIBHcqh3Z3NyqHKZ7FOL|253386",
   song: "song/ariana-grande-break-your-heart-right-back",
   carriedBy: [

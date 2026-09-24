@@ -15,10 +15,7 @@ export const auroraCureForMeCureForMeVintageCultureRemix = {
   title: "Cure For Me - Vintage Culture Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "28uJnu5EsrGml2tBd7y8ts", artistName: "Vintage Culture" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Vintage Culture" }],
   trackKey: "cureformevintagecultureremix|1WgXqy2Dd70QQOU7Ay074N,28uJnu5EsrGml2tBd7y8ts|210080",
   song: "song/aurora-cure-for-me",
   carriedBy: [

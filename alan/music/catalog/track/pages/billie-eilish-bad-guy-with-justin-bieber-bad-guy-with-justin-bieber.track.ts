@@ -12,10 +12,7 @@ export const billieEilishBadGuyWithJustinBieberBadGuyWithJustinBieber = {
   title: "bad guy (with Justin Bieber)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6qqNVTkY8uBg9cP3Jd7DAH", artistName: "Billie Eilish" },
-    { externalId: "1uNFoZAHBGtllmzznpCI3s", artistName: "Justin Bieber" },
-  ],
+  trackArtist: [{ artist: "artist/billie-eilish" }, { artistName: "Justin Bieber" }],
   trackKey: "badguywithjustinbieber|1uNFoZAHBGtllmzznpCI3s,6qqNVTkY8uBg9cP3Jd7DAH|194839",
   song: "song/billie-eilish-bad-guy",
   carriedBy: [

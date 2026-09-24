@@ -15,7 +15,7 @@ export const auroraInfectionsOfADifferentKindStepIItHappenedQuiet = {
   title: "It Happened Quiet",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "ithappenedquiet|1WgXqy2Dd70QQOU7Ay074N|249107",
   song: "song/aurora-it-happened-quiet",
   carriedBy: [

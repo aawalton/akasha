@@ -12,7 +12,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionTooClose = {
   title: "Too Close",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "tooclose|66CXWjxzNUsdJxJ2JdwvnR|215810",
   song: "song/ariana-grande-too-close",
   carriedBy: [

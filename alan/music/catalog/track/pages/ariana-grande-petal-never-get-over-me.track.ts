@@ -12,7 +12,7 @@ export const arianaGrandePetalNeverGetOverMe = {
   title: "never get over me",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "nevergetoverme|66CXWjxzNUsdJxJ2JdwvnR|228857",
   song: "song/ariana-grande-never-get-over-me",
   carriedBy: [

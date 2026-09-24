@@ -12,7 +12,7 @@ export const arianaGrandeKByeForNowSwtLiveYoullNeverKnowLive = {
   title: "you'll never know - live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "youllneverknowlive|66CXWjxzNUsdJxJ2JdwvnR|81401",
   song: "song/ariana-grande-you-ll-never-know",
   carriedBy: [

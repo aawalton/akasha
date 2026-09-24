@@ -12,7 +12,7 @@ export const auroraMidasTouchMidasTouch = {
   title: "Midas Touch",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "midastouch|1WgXqy2Dd70QQOU7Ay074N|161666",
   song: "song/aurora-midas-touch",
   carriedBy: [

@@ -13,7 +13,7 @@ export const arianaGrandePetalKissMe = {
   title: "kiss me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "kissme|66CXWjxzNUsdJxJ2JdwvnR|219584",
   song: "song/ariana-grande-kiss-me",
   carriedBy: [

@@ -12,7 +12,7 @@ export const arianaGrandeThankUNextBloodline = {
   title: "bloodline",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "bloodline|66CXWjxzNUsdJxJ2JdwvnR|216893",
   song: "song/ariana-grande-bloodline",
   carriedBy: [

@@ -20,7 +20,7 @@ export const auroraAllMyDemonsGreetingMeAsAFriendDeluxeRunaway = {
   title: "Runaway",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" }],
+  trackArtist: [{ artist: "artist/aurora" }],
   trackKey: "runaway|1WgXqy2Dd70QQOU7Ay074N|248826",
   song: "song/aurora-runaway",
   carriedBy: [

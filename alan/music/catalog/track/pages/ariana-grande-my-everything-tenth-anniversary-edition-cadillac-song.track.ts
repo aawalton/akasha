@@ -12,7 +12,7 @@ export const arianaGrandeMyEverythingTenthAnniversaryEditionCadillacSong = {
   title: "Cadillac Song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "cadillacsong|66CXWjxzNUsdJxJ2JdwvnR|172452",
   song: "song/ariana-grande-cadillac-song",
   carriedBy: [

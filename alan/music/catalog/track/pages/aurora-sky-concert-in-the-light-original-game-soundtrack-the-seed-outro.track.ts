@@ -12,10 +12,7 @@ export const auroraSkyConcertInTheLightOriginalGameSoundtrackTheSeedOutro = {
   title: "The Seed Outro",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1WgXqy2Dd70QQOU7Ay074N", artistName: "AURORA" },
-    { externalId: "33FyliUEEegVPPrsOaLsn4", artistName: "Vincent Diamante" },
-  ],
+  trackArtist: [{ artist: "artist/aurora" }, { artistName: "Vincent Diamante" }],
   trackKey: "theseedoutro|1WgXqy2Dd70QQOU7Ay074N,33FyliUEEegVPPrsOaLsn4|95000",
   song: "song/aurora-the-seed-outro",
   carriedBy: [

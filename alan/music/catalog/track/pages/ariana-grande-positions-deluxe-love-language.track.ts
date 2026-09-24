@@ -12,7 +12,7 @@ export const arianaGrandePositionsDeluxeLoveLanguage = {
   title: "love language",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "lovelanguage|66CXWjxzNUsdJxJ2JdwvnR|179860",
   song: "song/ariana-grande-love-language",
   carriedBy: [

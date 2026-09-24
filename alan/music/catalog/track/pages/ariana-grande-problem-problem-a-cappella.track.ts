@@ -12,10 +12,7 @@ export const arianaGrandeProblemProblemACappella = {
   title: "Problem - A Cappella",
   trackType: "a-cappella",
   explicit: false,
-  trackArtist: [
-    { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    { externalId: "5yG7ZAZafVaAlMTeBybKAL", artistName: "Iggy Azalea" },
-  ],
+  trackArtist: [{ artist: "artist/ariana-grande" }, { artistName: "Iggy Azalea" }],
   trackKey: "problemacappella|5yG7ZAZafVaAlMTeBybKAL,66CXWjxzNUsdJxJ2JdwvnR|191468",
   song: "song/ariana-grande-problem",
   carriedBy: [

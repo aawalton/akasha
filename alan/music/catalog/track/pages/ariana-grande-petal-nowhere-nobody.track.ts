@@ -12,7 +12,7 @@ export const arianaGrandePetalNowhereNobody = {
   title: "nowhere, nobody",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" }],
+  trackArtist: [{ artist: "artist/ariana-grande" }],
   trackKey: "nowherenobody|66CXWjxzNUsdJxJ2JdwvnR|172001",
   song: "song/ariana-grande-nowhere-nobody",
   carriedBy: [

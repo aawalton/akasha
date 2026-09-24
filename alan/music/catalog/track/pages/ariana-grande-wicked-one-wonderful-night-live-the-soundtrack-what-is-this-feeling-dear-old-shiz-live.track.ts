@@ -14,10 +14,7 @@ export const arianaGrandeWickedOneWonderfulNightLiveTheSoundtrackWhatIsThisFeeli
     title: "What Is This Feeling? / Dear Old Shiz - Live from the Dolby Theatre",
     trackType: "live",
     explicit: false,
-    trackArtist: [
-      { externalId: "46UMQ0cW8ToR8egkBRwAxZ", artistName: "Cynthia Erivo" },
-      { externalId: "66CXWjxzNUsdJxJ2JdwvnR", artistName: "Ariana Grande" },
-    ],
+    trackArtist: [{ artist: "artist/cynthia-erivo" }, { artist: "artist/ariana-grande" }],
     trackKey:
       "whatisthisfeelingdearoldshizlivefromthedolbytheatre|46UMQ0cW8ToR8egkBRwAxZ,66CXWjxzNUsdJxJ2JdwvnR|262449",
     song: "song/ariana-grande-what-is-this-feeling-dear-old-shiz",
