@@ -234,7 +234,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/tree-searching/tree-searching.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/value-carrying/value-carrying.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/modules/value-removing/value-removing.module.code.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/runner/change-runner.page-type.type-generator.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/runner/change-generators/addressing/change-runner-addressing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/runner/modules/change-loading/change-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/runner/modules/change-loading/change-loading.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"}

@@ -103,6 +103,18 @@ function writtenOver(root: string, kept: readonly Kept[]): Typed {
   return { edits, said }
 }
 
+export function typedWith(change: Change, slug: string, generating: Generating): Typed {
+  const cast = shadowFor(change)
+  if ("refused" in cast) return NOTHING_TYPED
+  const kept: Kept[] = []
+  for (const one of generating(change.root, cast.shadow, change)) {
+    const was = textOf(change.after(one.path))
+    if (was === one.content) continue
+    kept.push({ path: one.path, slug, body: BYTES.encode(one.content), was })
+  }
+  return writtenOver(change.root, kept)
+}
+
 export function typedOver(
   change: Change,
   shadow: Shadow,

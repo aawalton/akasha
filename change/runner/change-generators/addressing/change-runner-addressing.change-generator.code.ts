@@ -4,6 +4,10 @@ import { importedFrom, saidAs } from "akasha/page/modules/body/page-body.module.
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import {
+  type Typed,
+  typedWith,
+} from "akasha/page/type/modules/type-generating/type-generating.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -103,7 +107,11 @@ export function couldTurn(change: Change): boolean {
   return false
 }
 
-export function generateTypes(_root: string, shadow: Shadow, change: Change): readonly Adding[] {
+export function generateChange(change: Change): Typed {
+  return typedWith(change, "change-runner-addressing", generateTypes)
+}
+
+function generateTypes(_root: string, shadow: Shadow, change: Change): readonly Adding[] {
   const written: Adding[] = []
   const textAt = (path: string): string | null => textOf(change.after(path))
   for (const listed of shadow.index.everyOfType(RUNNER)) {

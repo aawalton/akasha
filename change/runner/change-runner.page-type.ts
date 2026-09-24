@@ -9,6 +9,7 @@ export const changeRunner = {
     "change-runner/agent-change-running",
     "change-runner/mechanical-change-running",
     "change-runner/test-change-running",
+    "change-generator/change-runner-addressing",
     "file-property/addressed",
     "module/change-loading",
     "relation-property/runner-reached",
@@ -18,7 +19,7 @@ export const changeRunner = {
     { pageProperty: "file-property/addressed", required: true, many: false },
     { pageProperty: "relation-property/runner-reached", required: true, many: false },
   ],
-  typeGenerator: "ts",
+
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -36,7 +37,7 @@ export const changeRunner = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The map beside a runner is written by the generator this page type states.",
+      statement: "The map beside a runner is written by the change generator this page type names.",
     },
     {
       decisionKind: "decision-kind/departure",

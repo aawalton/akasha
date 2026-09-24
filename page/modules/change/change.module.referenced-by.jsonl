@@ -8,7 +8,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.test.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts"}
-{"propertySlug":"import","fileName":"change.module.code.ts","path":"change/runner/change-runner.page-type.type-generator.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"change/runner/change-generators/addressing/change-runner-addressing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.check.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/change-is-reached-through-a-runner/change-is-reached-through-a-runner.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.decision.code.ts"}
