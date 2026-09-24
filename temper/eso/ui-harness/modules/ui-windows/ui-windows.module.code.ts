@@ -163,6 +163,18 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     `
   ),
   ownWindow(
+    "addon-packs",
+    "Temper",
+    "TemperAddons",
+    `
+      SCENE_MANAGER:CallWhen("gameMenuInGame", SCENE_SHOWN, function()
+        local entry = ZO_GameMenu_InGame.gameMenu.headerControls[GetString(SI_GAME_MENU_ADDONS)]
+        entry:GetTree():SelectNode(entry)
+      end)
+      SCENE_MANAGER:Show("gameMenuInGame")
+    `
+  ),
+  ownWindow(
     "notifications",
     "Temper",
     "ZO_Notifications",
