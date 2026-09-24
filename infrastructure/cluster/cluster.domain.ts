@@ -61,19 +61,5 @@ export const cluster = {
       decisionKind: "decision-kind/departure",
       statement: "A workload names the class of node the workload runs on.",
     },
-
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The machines people use day to day run Linux and are nodes in the cluster.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The work a person did on a cluster machine under Windows is work that person can still do.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Work stops on a machine the moment a person starts using that machine.",
-    },
   ],
 } as const satisfies Domain
