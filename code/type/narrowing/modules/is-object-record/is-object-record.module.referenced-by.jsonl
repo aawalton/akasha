@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"code/type/narrowing/modules/as-object-record/as-object-record.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-loading/synth-loading.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.code.ts"}
-{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-config/characters-config.module.code.ts"}
 {"propertySlug":"import","fileName":"is-object-record.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.code.ts"}

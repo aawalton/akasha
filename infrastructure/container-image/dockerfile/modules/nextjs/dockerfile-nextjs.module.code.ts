@@ -8,24 +8,30 @@ import type {
   DockerfileExtensions,
   ServiceConfig,
 } from "akasha/infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.code.ts"
-import { collectExecutedDeps } from "akasha/infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"
+import {
+  collectExecutedDeps,
+  type Seen,
+} from "akasha/infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"
 import { HEADER } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
+
+const PATCHES = "patches"
 
 export function generateNextjsDockerfile(
   appName: string,
   config: ServiceConfig,
-  ext: DockerfileExtensions
+  ext: DockerfileExtensions,
+  seen: Seen
 ): string {
   const appDir = config.dir
   const skipDefaultArgs = ext.no_default_build_args === true
 
-  const depDirs = collectExecutedDeps(appDir)
+  const depDirs = collectExecutedDeps(appDir, seen)
 
   const runtimeAlias = ext.runtime_stage_alias ?? "runtime"
   const lines: string[] = []
 
   lines.push(...emitBuilderPreamble(ext))
-  lines.push(...emitPackageJsonCopies(ext))
+  lines.push(...emitPackageJsonCopies(ext, seen.under(PATCHES).length > 0))
   lines.push(...emitWorkspaceInstall(ext))
   lines.push(...emitSourceCopies(depDirs, appDir, appName, ext))
 

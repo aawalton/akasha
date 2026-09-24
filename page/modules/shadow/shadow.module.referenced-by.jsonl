@@ -178,6 +178,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test.ts"}

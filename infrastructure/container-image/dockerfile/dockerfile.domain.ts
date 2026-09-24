@@ -14,7 +14,7 @@ export const dockerfile = {
     "module/dockerfile-nextjs",
     "module/dockerfile-services",
     "module/dockerfile-tool-image",
-    "module/dockerfile-writing",
+    "change-generator/dockerfile-writing",
     "page-type/built-image",
   ],
 } as const satisfies Domain

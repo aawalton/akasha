@@ -6,7 +6,12 @@ export const pagePropertyTyping = {
   slug: "page-property-typing",
   definition: "the type each page property states, written beside that property",
   code: "ts",
+  runsAfter: ["change-generator/value-minting"],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A property the change adds is typed once its id is minted.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "Every page property stating a type file has that file written.",

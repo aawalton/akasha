@@ -3,4 +3,5 @@
 {"propertySlug":"loaded-by","path":"code/container-recipe/container-recipe.page-type.ts","id":"01a06815-9efd-7003-8c8e-4c03b44672b2"}
 {"propertySlug":"parts","path":"code/module-property-group/module-property-group.page-type.ts","id":"01a087b6-ed4d-74ed-b30f-7c9dd49d73c0"}
 {"propertySlug":"runs-after","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.ts","id":"01a0a682-3acc-7b55-b488-e7b96ed58cac"}
+{"propertySlug":"runs-after","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.ts","id":"01a06865-abff-7009-bb75-4f5d740fd537"}
 {"propertySlug":"runs-after","path":"page/index/modules/carrying/index-carrying.change-generator.ts","id":"01a09b7d-f088-7d22-88c5-53f5c0901921"}

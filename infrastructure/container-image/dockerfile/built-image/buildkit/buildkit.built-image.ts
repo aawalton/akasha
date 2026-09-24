@@ -7,5 +7,6 @@ export const buildkit = {
   definition: "the image building container images",
   kind: "tool-image",
   folder: "infrastructure/container-image/dockerfile",
+  dockerfile: "dockerfile",
   extensions: "json",
 } as const satisfies BuiltImage

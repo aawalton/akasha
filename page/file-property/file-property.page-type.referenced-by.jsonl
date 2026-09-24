@@ -93,6 +93,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"domain/plain-language/parser-model/properties/relation-weights.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"domain/plain-language/parser-model/properties/word-pieces.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"domain/properties/typescript-config.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-dockerfile.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/properties/image-extensions.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/inference/generation/audio/properties/audio-bytes.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"infrastructure/inference/generation/image/properties/image-bytes.file-property.ts"}

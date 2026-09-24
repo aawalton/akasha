@@ -1,7 +1,4 @@
-import { existsSync } from "node:fs"
-import { join } from "node:path"
 import type { DockerfileExtensions } from "akasha/infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.code.ts"
-import { ROOT } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
 
 export function emitBuilderPreamble(ext: DockerfileExtensions): readonly string[] {
   const lines: string[] = []
@@ -24,7 +21,10 @@ export function emitBuilderPreamble(ext: DockerfileExtensions): readonly string[
   return lines
 }
 
-export function emitPackageJsonCopies(ext: DockerfileExtensions): readonly string[] {
+export function emitPackageJsonCopies(
+  ext: DockerfileExtensions,
+  patched: boolean
+): readonly string[] {
   const lines: string[] = []
   lines.push("# Copy lockfile and base tsconfig")
   lines.push("COPY bun.lock ./")
@@ -42,7 +42,7 @@ export function emitPackageJsonCopies(ext: DockerfileExtensions): readonly strin
     }
   }
 
-  if (existsSync(join(ROOT, "patches"))) {
+  if (patched) {
     lines.push("COPY patches ./patches")
   }
   lines.push("")

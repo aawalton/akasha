@@ -7,6 +7,7 @@ export const ci = {
   definition: "the image running a pipeline's own steps",
   kind: "tool-image",
   folder: "infrastructure/container-image/dockerfile",
+  dockerfile: "dockerfile",
   extensions: "json",
   repository: "cluster/ci",
 } as const satisfies BuiltImage

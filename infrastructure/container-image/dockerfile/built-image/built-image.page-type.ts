@@ -11,6 +11,7 @@ export const builtImage = {
     "built-image/bun-git",
     "built-image/ci",
     "built-image/kubectl",
+    "file-property/image-dockerfile",
     "file-property/image-extensions",
     "module-property-group/extending",
     "select-property/image-kind",
@@ -21,6 +22,7 @@ export const builtImage = {
   properties: [
     { pageProperty: "select-property/image-kind", required: true, many: false },
     { pageProperty: "text-property/image-folder", required: true, many: false },
+    { pageProperty: "file-property/image-dockerfile", required: true, many: false },
     { pageProperty: "file-property/image-extensions", required: false, many: false },
     { pageProperty: "text-property/image-repository", required: false, many: false },
     { pageProperty: "module-property-group/extending", required: false, many: false },
@@ -29,7 +31,7 @@ export const builtImage = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An image's Dockerfile is written from the image's stated values rather than kept.",
+        "An image's Dockerfile is written from the image's stated values and kept beside its page.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -7,5 +7,6 @@ export const bunGit = {
   definition: "the image with bun beside git",
   kind: "tool-image",
   folder: "infrastructure/container-image/dockerfile",
+  dockerfile: "dockerfile",
   extensions: "json",
 } as const satisfies BuiltImage

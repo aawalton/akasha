@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/operation/rotate-age-key/rotate-age-key.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/operation/rotate-cf-token/rotate-cf-token.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/cluster/operation/rotate-ssh-key/rotate-ssh-key.shell-script.scripting.code.ts"}
+{"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/inference/generation/upscale/run/upscale-run.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/inference/generation/upscale/srpo/upscale-srpo.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"property-file.module.code.ts","path":"infrastructure/inference/generation/upscale/up/upscale-up.shell-script.scripting.code.ts"}

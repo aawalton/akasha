@@ -128,6 +128,9 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts"}

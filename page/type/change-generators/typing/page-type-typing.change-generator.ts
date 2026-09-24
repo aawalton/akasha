@@ -6,7 +6,12 @@ export const pageTypeTyping = {
   slug: "page-type-typing",
   definition: "the type, schema and shapes each page type states, written beside that page type",
   code: "ts",
+  runsAfter: ["change-generator/value-minting"],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type or property the change adds is typed once its id is minted.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "Every page type stating a type, schema or shapes file has that file written.",

@@ -1,20 +1,21 @@
-import { existsSync } from "node:fs"
-import { join } from "node:path"
 import {
   type DockerfileExtensions,
   type ServiceConfig,
   systemPackagesLine,
 } from "akasha/infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.code.ts"
-import { collectExecutedDeps } from "akasha/infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"
 import {
-  HEADER,
-  ROOT,
-} from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
+  collectExecutedDeps,
+  type Seen,
+} from "akasha/infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"
+import { HEADER } from "akasha/infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.code.ts"
+
+const PATCHES = "patches"
 
 export function generateBunServiceDockerfile(
   appName: string,
   config: ServiceConfig,
-  ext: DockerfileExtensions
+  ext: DockerfileExtensions,
+  seen: Seen
 ): string {
   const appDir = config.dir
 
@@ -22,16 +23,16 @@ export function generateBunServiceDockerfile(
     return generateSingleStageBunService(appName, config, ext)
   }
 
-  const depDirs = collectExecutedDeps(appDir)
+  const depDirs = collectExecutedDeps(appDir, seen)
 
-  return generateWorkspaceBunService(appName, config, ext, depDirs)
+  return generateWorkspaceBunService(config, ext, depDirs, seen.under(PATCHES).length > 0)
 }
 
 function generateWorkspaceBunService(
-  _appName: string,
   config: ServiceConfig,
   ext: DockerfileExtensions,
-  depDirs: readonly string[]
+  depDirs: readonly string[],
+  patched: boolean
 ): string {
   const appDir = config.dir
   const lines: string[] = []
@@ -56,7 +57,7 @@ function generateWorkspaceBunService(
 
   lines.push("# Copy the root manifest")
   lines.push("COPY --link package.json ./")
-  if (existsSync(join(ROOT, "patches"))) {
+  if (patched) {
     lines.push("COPY --link patches ./patches")
   }
   lines.push("")

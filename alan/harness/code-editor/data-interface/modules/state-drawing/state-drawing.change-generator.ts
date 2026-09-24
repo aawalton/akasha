@@ -8,6 +8,7 @@ export const stateDrawing = {
   code: "ts",
   runsAfter: [
     "change-generator/change-runner-addressing",
+    "change-generator/dockerfile-writing",
     "change-generator/game-panel-drawing",
     "change-generator/group-writing",
     "change-generator/lockfile-making",

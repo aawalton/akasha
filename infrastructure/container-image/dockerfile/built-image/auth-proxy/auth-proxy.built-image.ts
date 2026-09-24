@@ -7,6 +7,7 @@ export const authProxy = {
   definition: "the authenticating proxy's image",
   kind: "bun-service",
   folder: "infrastructure/network/auth-proxy",
+  dockerfile: "dockerfile",
   extensions: "json",
   repository: "infra/auth-proxy",
 } as const satisfies BuiltImage

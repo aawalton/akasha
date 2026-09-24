@@ -1753,7 +1753,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/container-image/dockerfile/modules/nextjs/dockerfile-nextjs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/container-image/dockerfile/modules/tool-image/dockerfile-tool-image.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/container-image/modules/image-publishing/image-publishing.module.ts"}

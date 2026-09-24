@@ -24,7 +24,7 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"design/language/lua-compiler/modules/visit-variable-declaration/visit-variable-declaration.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"design/language/lua-compiler/modules/visitors-binary-expression/visitors-binary-expression.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.code.ts"}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.code.ts"}
+{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"infrastructure/inference/generation/wan/modules/extend-graph/wan-extend-graph.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"page/access/modules/answer-write/answer-write.module.code.ts"}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"page/core/property-type/modules/block-markers/block-markers.module.code.ts"}

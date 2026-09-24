@@ -2678,13 +2678,14 @@
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/buildkit/buildkit.manifest.ts","id":"01a07383-de17-7590-8580-ccd38e33ccd8"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/container-image.domain.ts","id":"01a0675b-16dc-759d-9b19-cf1118f36276"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/built-image/built-image.page-type.ts","id":"01a08193-c20c-7525-aced-8d801a2e9cd6"}
+{"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/built-image/properties/image-dockerfile.file-property.ts","id":"01a0d580-9637-7929-a257-b95b33f2ea5b"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/built-image/properties/image-repository.text-property.ts","id":"01a08d9f-90c7-73d8-85fa-29e1f90a26a9"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/modules/builder/dockerfile-builder.module.ts","id":"01a06865-abff-7005-b853-662b71046aba"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/modules/extensions/dockerfile-extensions.module.ts","id":"01a06865-abff-7002-982c-70fcb1c90980"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.ts","id":"01a06865-abff-7004-9336-61c7231edee3"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/modules/nextjs/dockerfile-nextjs.module.ts","id":"01a06865-abff-7007-901d-2dddbd9755b3"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/modules/services/dockerfile-services.module.ts","id":"01a06865-abff-7001-8a02-c6bde79c5252"}
-{"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.module.ts","id":"01a06865-abff-7009-bb75-4f5d740fd537"}
+{"propertySlug":"decision-kind","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.ts","id":"01a06865-abff-7009-bb75-4f5d740fd537"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/modules/image-build/image-build.module.ts","id":"01a08de8-a521-7517-beff-3c12047e76f9"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/modules/image-inputs/image-inputs.module.ts","id":"01a08da2-9e44-7155-8ecf-d7ded3c83ef1"}
 {"propertySlug":"decision-kind","path":"infrastructure/container-image/modules/image-publishing/image-publishing.module.ts","id":"01a08da4-6ca4-798c-84fd-af4b515703c5"}

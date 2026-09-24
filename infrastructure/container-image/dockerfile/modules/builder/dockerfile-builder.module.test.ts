@@ -5,11 +5,11 @@ import {
 } from "akasha/infrastructure/container-image/dockerfile/modules/builder/dockerfile-builder.module.code.ts"
 
 test("the image installs against the root manifest the checkout carries", () => {
-  expect(emitPackageJsonCopies({})).toContain("COPY package.json ./")
+  expect(emitPackageJsonCopies({}, false)).toContain("COPY package.json ./")
 })
 
 test("a manifest is copied once", () => {
-  const lines = emitPackageJsonCopies({})
+  const lines = emitPackageJsonCopies({}, true)
   expect(lines.filter((one) => one === "COPY package.json ./")).toHaveLength(1)
 })
 
