@@ -6,4 +6,5 @@ export const theTowerHollowCantor01 = {
   slug: "the-tower-hollow-cantor-01",
   title: "Hollow Cantor",
   story: "story-played/the-tower",
+  place: "place/the-tower-floor-03",
 } as const satisfies CharacterOther
