@@ -22,7 +22,7 @@ export const emailInbound = {
       statement: "Every judgement here is made from headers alone.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The channel addresses a decision reads are reached from akasha.",
     },
     {
