@@ -2,6 +2,7 @@ import {
   appsAmong,
   judgedFor,
 } from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts"
+import { browserRefusalsFor } from "akasha/check/code/pages/typecheck/typecheck.check-code.decision.code.ts"
 import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
@@ -12,12 +13,16 @@ export async function routerAppCompiles(root: string): Promise<readonly Judged[]
   const index = commit.index
   const apps = appsAmong(index.everyOfType(routerApp.slug).map((one) => one.path))
   const manifests = [...new Set([...index.manifestsBeside(index.fileKeysAt()), ...commit.paths])]
-  return await judgedFor(apps, {
-    root: commit.root,
-    paths: commit.paths,
-    changed: [],
-    read: commit.read,
-    laid: commit.bytes,
-    placed: placingOver(manifests, commit.read),
-  })
+  const [judged, browser] = await Promise.all([
+    judgedFor(apps, {
+      root: commit.root,
+      paths: commit.paths,
+      changed: [],
+      read: commit.read,
+      laid: commit.bytes,
+      placed: placingOver(manifests, commit.read),
+    }),
+    browserRefusalsFor(commit.root, commit.paths, commit.read, index),
+  ])
+  return [...judged, ...browser]
 }

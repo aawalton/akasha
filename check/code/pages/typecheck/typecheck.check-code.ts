@@ -5,7 +5,7 @@ export const typecheck = {
   type: "page-type/check-code",
   slug: "typecheck",
   definition: "the check refusing TypeScript that does not compile",
-  parts: ["module/page-narrowing"],
+  parts: ["module/page-narrowing", "module/browser-reach"],
   runsOnChange: true,
   runsOnDeploy: true,
   runsOnAudit: true,
@@ -51,7 +51,30 @@ export const typecheck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A router app's files are compiled by `router-app-compiles` rather than here.",
+      statement: "Code built for a runtime with no browser is judged without the browser.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The program built here compiles against the ESNext library alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file a browser alone runs is compiled by `router-app-compiles` rather than here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file a browser runs as well is compiled here and by `router-app-compiles` both.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which files a browser alone runs is worked out by `browser-reach`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A program holding the browser's library is refused against the config it was built from.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -116,7 +139,11 @@ export const typecheck = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The settings name every ambient type the packages folder has.",
+      statement: "An ambient type bringing in the browser's library is left out of the settings.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The settings name every other ambient type the packages folder has.",
     },
     {
       decisionKind: "decision-kind/constraint",

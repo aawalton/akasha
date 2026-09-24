@@ -151,6 +151,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"check/modules/audit-asking/audit-asking.module.code.ts","typed":false,"deferred":false}

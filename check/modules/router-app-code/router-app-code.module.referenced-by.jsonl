@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"router-app-code.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.check.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-app-code.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-app-code.module.code.ts","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"router-app-code.module.code.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-app-code.module.code.ts","path":"check/modules/router-app-code/router-app-code.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-app-code.module.code.ts","path":"check/modules/router-app-code/router-app-code.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-app-code.module.test-fixtures.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.audit.test.ts","typed":false,"deferred":false}

@@ -33,8 +33,13 @@ export const codeTyping = {
         "A global under a name the browser also declares collides rather than replacing that declaration.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Code built for a runtime with no browser is judged without the browser.",
+      decisionKind: "decision-kind/departure",
+      statement: "The full ESNext library carries the browser's library.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Whether a file compiles is judged by `typecheck` rather than by a program built here.",
     },
     {
       decisionKind: "decision-kind/departure",

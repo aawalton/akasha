@@ -7,6 +7,7 @@ import {
 } from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts"
 import { mintingIn } from "akasha/check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"
 import {
+  browserRefusalsOver,
   builtFrom,
   reachedBy,
 } from "akasha/check/code/pages/typecheck/typecheck.check-code.decision.code.ts"
@@ -51,12 +52,20 @@ function layingOf(change: Change, shadow: Shadow): Laying {
   }
 }
 
-async function refusalsOver(given: Change, shadow: Shadow): Promise<readonly Judged[]> {
-  const change = holdingOver(given)
+async function appsJudged(change: Change, shadow: Shadow): Promise<readonly Judged[]> {
   const reached = [...change.changed, ...reachedBy(change, shadow)]
   const apps = appsReached(reached, appsFor(shadow))
   if (apps.length === 0) return []
   return await judgedFor(apps, layingOf(change, shadow))
+}
+
+async function refusalsOver(given: Change, shadow: Shadow): Promise<readonly Judged[]> {
+  const change = holdingOver(given)
+  const [apps, browser] = await Promise.all([
+    appsJudged(change, shadow),
+    browserRefusalsOver(change, shadow),
+  ])
+  return [...apps, ...browser]
 }
 
 export const routerAppCompiles = inputAsync(TAKEN, refusalsOver)

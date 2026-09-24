@@ -105,6 +105,28 @@ export const routerAppCompiles = {
       statement:
         "A page being created is compiled against its type less the properties a generator fills.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every file a browser runs is compiled here as well, in one program of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which files a browser runs is worked out by `browser-reach`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That program is built as `typecheck` builds its own, with the browser's library.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A file importing a router app's generated route types is left to that app's program.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That program judges the files a change reaches, and an audit's judges every file.",
+    },
   ],
   check: { maxCpuSeconds: 120 },
   audit: { maxCpuSeconds: 300 },

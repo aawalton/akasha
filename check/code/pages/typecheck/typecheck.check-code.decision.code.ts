@@ -1,5 +1,10 @@
-import { existsSync, readdirSync } from "node:fs"
-import { dirname, join, resolve } from "node:path"
+import { existsSync, readdirSync, readFileSync } from "node:fs"
+import { basename, dirname, join, resolve } from "node:path"
+import {
+  type Reach,
+  type Split,
+  splitOver,
+} from "akasha/check/code/pages/typecheck/modules/browser-reach/browser-reach.module.code.ts"
 import {
   type Minting,
   mintingIn,
@@ -57,6 +62,33 @@ const SETTINGS = {
   target: "esnext",
   jsx: "react-jsx",
 } as const
+
+const BROWSER_LIBRARY = "lib.dom.d.ts"
+
+const BRINGS_THE_BROWSER = /<reference\s+lib=["']dom["']/
+
+const TYPES_ENTRY = "index.d.ts"
+
+const BROUGHT =
+  "the program judging code run outside a browser holds the browser's library, which a declaration it reached brought in"
+
+type World = {
+  readonly lib: readonly string[]
+  readonly bare: boolean
+  readonly judges: (split: Split) => (path: string) => boolean
+}
+
+const PLAIN: World = {
+  lib: ["esnext"],
+  bare: true,
+  judges: (split) => (one) => !split.apart.has(one),
+}
+
+const BROWSER: World = {
+  lib: ["dom", "dom.iterable", "esnext"],
+  bare: false,
+  judges: (split) => (one) => split.browser.has(one),
+}
 
 export type Found = {
   readonly path: string
@@ -145,13 +177,26 @@ function bodiesOver(
   }
 }
 
-export function typesIn(root: string): readonly string[] {
-  const at = join(root, PACKAGES_AT, TYPES_IN)
-  return existsSync(at) ? readdirSync(at).sort() : []
+function bringsTheBrowser(at: string): boolean {
+  const entry = join(at, TYPES_ENTRY)
+  return existsSync(entry) && BRINGS_THE_BROWSER.test(readFileSync(entry, "utf8"))
 }
 
-export function configOf(root: string, named: readonly string[], whole = false): string {
-  const compilerOptions = { ...SETTINGS, skipLibCheck: !whole, types: typesIn(root) }
+export function typesIn(root: string, bare = false): readonly string[] {
+  const at = join(root, PACKAGES_AT, TYPES_IN)
+  if (!existsSync(at)) return []
+  const found = readdirSync(at).sort()
+  return bare ? found.filter((one) => !bringsTheBrowser(join(at, one))) : found
+}
+
+export function configOf(
+  root: string,
+  named: readonly string[],
+  whole = false,
+  world: World = PLAIN
+): string {
+  const types = typesIn(root, world.bare)
+  const compilerOptions = { ...SETTINGS, skipLibCheck: !whole, lib: world.lib, types }
   return JSON.stringify({ compilerOptions, files: named })
 }
 
@@ -222,10 +267,11 @@ async function foundOver(
   named: readonly string[],
   read: (name: string) => string | undefined,
   placed: Placing,
-  whole: boolean
+  whole: boolean,
+  world: World
 ): Promise<readonly Found[]> {
   const at = join(root, CONFIG_NAME)
-  const config = configOf(root, named, whole)
+  const config = configOf(root, named, whole, world)
   const readFile = servingOf(root, at, config, read, placed)
   const api = new API({
     cwd: root,
@@ -247,18 +293,37 @@ async function foundOver(
       found.push(foundOf(root, said, placed))
     for (const said of await program.getSemanticDiagnostics(files))
       found.push(foundOf(root, said, placed))
+    if (!world.bare) return found
+    const held = await program.getSourceFileNames()
+    if (held.some((one) => basename(one) === BROWSER_LIBRARY)) {
+      found.push({ path: CONFIG_NAME, reason: BROUGHT })
+    }
     return found
   } finally {
     await api.close()
   }
 }
 
-async function foundIn(given: Change, shadow: Shadow, whole: boolean): Promise<readonly Found[]> {
+function reachIn(change: Change, index: Answering): Reach {
+  return {
+    index,
+    holds: (one) => change.after(one) !== null,
+    textAt: (one) => textOf(change.after(one)),
+  }
+}
+
+async function foundIn(
+  given: Change,
+  shadow: Shadow,
+  whole: boolean,
+  world: World
+): Promise<readonly Found[]> {
   const change = holdingOver(given)
   const reached = rootsOf(change, shadow)
   if (reached.length === 0) return []
   const claimed = claimedIn(change, shadow.index)
-  const named = reached.filter((one) => !claimed(one))
+  const judges = world.judges(splitOver(reached, reachIn(change, shadow.index)))
+  const named = reached.filter((one) => !claimed(one) && judges(one))
   if (named.length === 0) return []
   const root = resolve(change.root)
   const beside = shadow.index.manifestsBeside(shadow.index.fileKeysAt())
@@ -270,24 +335,27 @@ async function foundIn(given: Change, shadow: Shadow, whole: boolean): Promise<r
     const text = now(rel)
     return text === null ? null : minting(rel, text)
   }
-  return await foundOver(root, named, bodiesOver(root, minted, placed), placed, whole)
+  return await foundOver(root, named, bodiesOver(root, minted, placed), placed, whole, world)
 }
 
 async function foundFor(
   root: string,
   paths: readonly string[],
   read: Reader,
-  index: Answering
+  index: Answering,
+  world: World
 ): Promise<readonly Found[]> {
   const reached = rootsIn([...reachingOver(paths, [read], index)].sort(), read)
   if (reached.length === 0) return []
   const claimed = claimingOver(paths, read, index)
-  const named = reached.filter((one) => !claimed(one))
+  const reach = { index, holds: (one: string) => read(one) !== null, textAt: read }
+  const judges = world.judges(splitOver(reached, reach))
+  const named = reached.filter((one) => !claimed(one) && judges(one))
   if (named.length === 0) return []
   const at = resolve(root)
   const manifests = [...new Set([...index.manifestsBeside(index.fileKeysAt()), ...paths])]
   const placed = placingOver(manifests, read)
-  return await foundOver(at, named, bodiesOver(at, read, placed), placed, true)
+  return await foundOver(at, named, bodiesOver(at, read, placed), placed, true, world)
 }
 
 function judgedOver(found: readonly Found[], held: ReadonlySet<string>): readonly Judged[] {
@@ -309,7 +377,7 @@ export async function refusalsOver(
   shadow: Shadow,
   whole = false
 ): Promise<readonly Judged[]> {
-  return judgedOver(await foundIn(change, shadow, whole), new Set(change.changed))
+  return judgedOver(await foundIn(change, shadow, whole, PLAIN), new Set(change.changed))
 }
 
 export async function refusalsFor(
@@ -318,5 +386,21 @@ export async function refusalsFor(
   read: (path: string) => string | null,
   index: Answering
 ): Promise<readonly Judged[]> {
-  return judgedOver(await foundFor(root, paths, read, index), new Set(paths))
+  return judgedOver(await foundFor(root, paths, read, index, PLAIN), new Set(paths))
+}
+
+export async function browserRefusalsOver(
+  change: Change,
+  shadow: Shadow
+): Promise<readonly Judged[]> {
+  return judgedOver(await foundIn(change, shadow, false, BROWSER), new Set(change.changed))
+}
+
+export async function browserRefusalsFor(
+  root: string,
+  paths: readonly string[],
+  read: (path: string) => string | null,
+  index: Answering
+): Promise<readonly Judged[]> {
+  return judgedOver(await foundFor(root, paths, read, index, BROWSER), new Set(paths))
 }

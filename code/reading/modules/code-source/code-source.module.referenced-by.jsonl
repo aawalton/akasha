@@ -106,6 +106,7 @@
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/page-named-as-stated/page-named-as-stated.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/popover-keeps-its-viewport-cap/popover-keeps-its-viewport-cap.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"check/modules/router-app-code/router-app-code.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-source.module.code.ts","path":"code/path/modules/code-runtime-path/code-runtime-path.module.code.ts","typed":false,"deferred":false}

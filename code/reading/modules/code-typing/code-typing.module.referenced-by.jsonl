@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.audit.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"code/reading/modules/code-naming/code-naming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"code/reading/modules/code-naming/code-naming.module.test-fixtures.ts","typed":false,"deferred":false}

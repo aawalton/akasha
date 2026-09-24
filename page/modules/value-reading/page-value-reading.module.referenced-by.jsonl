@@ -182,6 +182,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/relation-resolves/relation-resolves.check-code.decision.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/modules/audit-commit/audit-commit.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"check/modules/change-walking/change-walking.module.code.ts","typed":false,"deferred":false}

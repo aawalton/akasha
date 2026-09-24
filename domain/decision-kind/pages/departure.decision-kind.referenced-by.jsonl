@@ -1615,6 +1615,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/swift-parses/swift-parses.check-code.ts","id":"01a0d58c-dd89-71ff-aa5d-ad876fa7323c"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts","id":"01a0b7c9-d8d8-78e8-bb82-9ac8ee8f4e4b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/tests-pass.check-code.ts","id":"01a04eb6-9214-7000-be71-821a1a582fbe"}
+{"propertySlug":"decision-kind","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.ts","id":"01a0d5a4-47e9-7295-bef2-6c5f53adcb9c"}
 {"propertySlug":"decision-kind","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.ts","id":"01a0b840-0db7-7493-9be4-67c2dc2b3a46"}
 {"propertySlug":"decision-kind","path":"check/code/pages/typecheck/typecheck.check-code.ts","id":"01a04bcb-dff4-761a-856e-407fb6934b44"}
 {"propertySlug":"decision-kind","path":"check/code/pages/view-names-a-declared-key/view-names-a-declared-key.check-code.ts","id":"01a0c570-c14d-7bbc-9008-feed418845bb"}
