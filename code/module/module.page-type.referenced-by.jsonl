@@ -2324,6 +2324,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-prose/reader-prose.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-sentence-layout/reader-sentence-layout.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reader-typography/reader-typography.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/reading-progress-bar/reading-progress-bar.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/record-property-badge/record-property-badge.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/relation-display/relation-display.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/component/modules/relation-filter-inputs/relation-filter-inputs.module.ts","typed":true,"deferred":false}

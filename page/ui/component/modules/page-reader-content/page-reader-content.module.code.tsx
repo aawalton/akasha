@@ -20,7 +20,6 @@ import {
 import {
   type ReaderNeighborLink,
   ReaderPager,
-  ReadingProgressBar,
 } from "akasha/page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx"
 import { useReaderPageSource } from "akasha/page/ui/component/modules/reader-page-source/reader-page-source.module.code.tsx"
 import {
@@ -28,6 +27,7 @@ import {
   ReaderProseStatic,
 } from "akasha/page/ui/component/modules/reader-prose-body/reader-prose-body.module.code.tsx"
 import { READER_PROSE_TYPOGRAPHY } from "akasha/page/ui/component/modules/reader-typography/reader-typography.module.code.ts"
+import { ReadingProgressBar } from "akasha/page/ui/component/modules/reading-progress-bar/reading-progress-bar.module.code.tsx"
 import { useReadEndOnScroll } from "akasha/page/ui/component/modules/use-read-end-on-scroll/use-read-end-on-scroll.module.code.ts"
 import { useReaderProgressWriter } from "akasha/page/ui/component/modules/use-reader-progress-writer/use-reader-progress-writer.module.code.ts"
 import { useRestoreReadPosition } from "akasha/page/ui/component/modules/use-restore-read-position/use-restore-read-position.module.code.ts"
