@@ -246,7 +246,7 @@
         "patterns-gestalt"
       ],
       "title": "Advisory editor roster",
-      "description": "Adopted advisory-editor lenses for this game (author/editors architecture, #15266). the-violet-hour is prose/dialogue-driven (chapterProse-shaped), so it adopts the FULL SIX lenses. On GM-fleet revival, spawn one awen-editor--the-violet-hour-<lens> resident seat per lens listed in bands, alongside the awen-gm seat. Advisory only — never a gate, never authoritative; the author incorporates or declines at her discretion. Each editor seat inherits its control-precedence discipline (principal messages preempt the loop; a STOP is honored before the next turn) from the awen-editor helper row it loads."
+      "description": "The lenses this game's editors review on. For every drafted turn the game master spawns one editor subagent per lens here, in parallel, each in fresh context. Each returns one message of findings, each finding with its verbatim span; findings without verbatim spans are noise. Editors advise and the game master decides, taking or declining each finding at its discretion; editors never gate, and the loop never stalls the player. the-violet-hour is prose- and dialogue-driven, so it takes all six lenses."
     }
   ],
   "systemVoice": "mute",
@@ -389,13 +389,13 @@
       },
       {
         "id": "request-reviews",
-        "detail": "--no-action explicitly marks the actionless turn so the facts seat distinguishes 'no action this turn' from 'author forgot'.",
-        "requirement": "Fan the draft out to all six advisory editor seats (non-interactive: there is no player action). Await their findings."
+        "detail": "--no-action explicitly marks the actionless turn so the facts editor distinguishes 'no action this turn' from 'author forgot'.",
+        "requirement": "Spawn one editor subagent per lens in `game:editor-roster`, in parallel, each in fresh context, on the draft turn (non-interactive: there is no player action). Take their findings."
       },
       {
         "id": "incorporate",
         "detail": "Ungated advisory doctrine, #15266.",
-        "requirement": "Incorporate or decline each advisory finding at the author's own discretion, then re-commit the draft if it changed. Advisory means advisory — the editors never gate and never record a verdict."
+        "requirement": "Incorporate or decline each finding at your discretion, then re-commit the draft if it changed. Editors advise: they never gate and never record a verdict."
       },
       {
         "id": "publish",
