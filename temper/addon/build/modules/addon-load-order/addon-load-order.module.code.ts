@@ -20,8 +20,11 @@ import {
   addonBindingsPathIn,
   namedFilePathOrNull,
 } from "akasha/temper/addon/build/modules/addon-metadata-files/addon-metadata-files.module.code.ts"
+import { z } from "zod"
 
 const BUILD_ID_FILE = "build-id.lua"
+
+const BUNDLE_NAMING = z.looseObject({ luaCompiler: z.looseObject({ luaBundle: z.string() }) })
 
 export const DIST_UNDER = "dist"
 
@@ -45,11 +48,8 @@ const SAID_BY_CI = "CI_COMMIT_SHA"
 
 function luaBundleAt(tsconfigPath: string): string | null {
   try {
-    const said = JSON.parse(readFileSync(tsconfigPath, "utf-8")) as {
-      luaCompiler?: { luaBundle?: unknown }
-    }
-    const found = said.luaCompiler?.luaBundle
-    return typeof found === "string" ? found : null
+    const said = BUNDLE_NAMING.safeParse(JSON.parse(readFileSync(tsconfigPath, "utf-8")))
+    return said.success ? said.data.luaCompiler.luaBundle : null
   } catch {
     return null
   }

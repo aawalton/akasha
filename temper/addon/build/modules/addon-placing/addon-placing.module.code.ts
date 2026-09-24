@@ -1,6 +1,7 @@
 import { createHash } from "node:crypto"
 import { cpSync, existsSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join, relative } from "node:path"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { addonManifestSchema } from "akasha/temper/addon/build/resolve/modules/addon-json/addon-json.module.code.ts"
 import { addonManifestPathIn } from "akasha/temper/addon/build/resolve/modules/addon-manifest-file/addon-manifest-file.module.code.ts"
 import { listAllAddons } from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
@@ -87,9 +88,8 @@ function versionIn(dir: string, name: string): number | undefined {
     const path = join(dir, `${name}${extension}`)
     if (!existsSync(path)) continue
     try {
-      const found = ADDON_VERSION_RE.exec(readFileSync(path, "utf-8"))
-      const captured = found?.[1]
-      if (captured === undefined) continue
+      const captured = firstCapture(ADDON_VERSION_RE.exec(readFileSync(path, "utf-8")))
+      if (captured === null) continue
       return Number.parseInt(captured, 10)
     } catch {}
   }
@@ -108,16 +108,15 @@ function saidOfForeign(version: number | undefined, asked: readonly number[]): s
 function carriedAcross(root: string, addonDir: string): readonly string[] {
   const path = addonManifestPathIn(root, addonDir)
   if (path === null) return []
-  let raw: unknown
+  let parsed: ReturnType<typeof PRESERVE_SCHEMA.safeParse>
   try {
-    raw = JSON.parse(readFileSync(path, "utf-8"))
+    parsed = PRESERVE_SCHEMA.safeParse(JSON.parse(readFileSync(path, "utf-8")))
   } catch (thrown) {
     throw new Error(
       `${path} went unread, and it is what names the files carried across the replacement, so ` +
         `placing now would take them away rather than carry them — ${saidShort(thrown)}`
     )
   }
-  const parsed = PRESERVE_SCHEMA.safeParse(raw)
   if (!parsed.success) {
     throw new Error(
       `${path} states no readable \`additionalLuaFiles\`, and that is what names the files ` +

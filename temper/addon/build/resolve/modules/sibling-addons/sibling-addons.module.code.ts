@@ -33,13 +33,12 @@ export function assertSafeSiblingName(name: string): undefined {
 export function readSiblingAddonNames(root: string, addonDir: string): readonly string[] {
   const path = addonManifestPathIn(root, addonDir)
   if (path === null) return []
-  let raw: unknown
+  let parsed: ReturnType<typeof siblingNamesSchema.safeParse>
   try {
-    raw = JSON.parse(readFileSync(path, "utf-8"))
+    parsed = siblingNamesSchema.safeParse(JSON.parse(readFileSync(path, "utf-8")))
   } catch {
     return []
   }
-  const parsed = siblingNamesSchema.safeParse(raw)
   if (!parsed.success) return []
   const names = parsed.data.siblingAddons ?? []
   for (const name of names) assertSafeSiblingName(name)
@@ -50,13 +49,12 @@ export function siblingManifestsIn(root: string, addonDir: string): ReadonlyMap<
   const found = new Map<string, string>()
   const path = addonFilePathIn(root, addonDir, SIBLING_MANIFEST)
   if (path === null) return found
-  let raw: unknown
+  let parsed: ReturnType<typeof siblingManifestSchema.safeParse>
   try {
-    raw = JSON.parse(readFileSync(path, "utf-8"))
+    parsed = siblingManifestSchema.safeParse(JSON.parse(readFileSync(path, "utf-8")))
   } catch {
     return found
   }
-  const parsed = siblingManifestSchema.safeParse(raw)
   if (!parsed.success) return found
   for (const [name, body] of Object.entries(parsed.data)) {
     assertSafeSiblingName(name)
