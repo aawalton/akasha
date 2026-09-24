@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/modules/bun-calls/bun-calls.module.code.ts"}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/modules/git-calls/git-calls.module.code.ts"}
+{"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.code.ts"}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"agent/hook/modules/shell-calls/shell-calls.module.test.ts"}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"check/code/pages/no-refused-syntax/syntax-rule/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.code.ts"}
 {"propertySlug":"import","fileName":"shell-calls.module.code.ts","path":"check/code/pages/no-refused-syntax/syntax-rule/no-libc-by-name/no-libc-by-name.syntax-rule.code.ts"}

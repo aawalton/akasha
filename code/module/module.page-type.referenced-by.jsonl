@@ -62,6 +62,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/git-calls/git-calls.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/links/hook-links.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/path-showing/path-showing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/settling/settling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/shell-calls/shell-calls.module.ts"}

@@ -45,6 +45,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/modules/dispatch/hook-dispatch.module.ts","id":"01a08dc2-4dc4-71fe-8902-22e28eec31e2"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/git-calls/git-calls.module.ts","id":"01a04e16-d380-7000-aca5-c084a6730236"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/links/hook-links.module.ts","id":"01a08dc1-ffb8-707b-b5d8-3633bf16ddae"}
+{"propertySlug":"decision-kind","path":"agent/hook/modules/lore-shell-reach/lore-shell-reach.module.ts","id":"01a0d48a-ca74-7d30-b9a7-0c5cef8978ac"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/path-showing/path-showing.module.ts","id":"01a04f6a-0db6-72c2-9b05-8e1a84ed9649"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/settling/settling.module.ts","id":"01a04eb3-0e17-7660-850e-4311257ed9fa"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/shell-calls/shell-calls.module.ts","id":"01a04eab-4522-7000-9e89-8627b48fbcc5"}

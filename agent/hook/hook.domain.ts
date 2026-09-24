@@ -16,6 +16,7 @@ export const hook = {
     "module/hook-answer",
     "module/hook-dispatch",
     "module/hook-links",
+    "module/lore-shell-reach",
     "module/path-showing",
     "module/settling",
     "module/shell-calls",
