@@ -179,7 +179,6 @@ const TARGETS: Readonly<Record<string, string | readonly string[]>> = {
   "noted-slugs": "domain",
   "either-slug": ["domain", "note"],
   "gone-slugs": "note",
-  "page-type-slug": "page-type",
   "case-page": "domain",
 }
 
@@ -188,7 +187,6 @@ const ROW_FIELDS: Readonly<Record<string, readonly string[]>> = { cases: ["case-
 const ADMITTING: Readonly<Record<string, readonly string[]>> = {
   domain: ["domain", "module"],
   note: ["note"],
-  "page-type": ["page-type"],
 }
 
 const MORTAL: ReadonlySet<string> = new Set(["note"])
@@ -203,7 +201,6 @@ const KEYED: Readonly<Record<string, string>> = {
   heldSlugs: "held-slugs",
   holds: "holds",
   inner: "inner",
-  pageTypeSlug: "page-type-slug",
   casePage: "case-page",
 }
 
