@@ -19,10 +19,6 @@ export const jewelryEnchantsData = {
       decisionKind: "decision-kind/constraint",
       statement: "A glyph's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A glyph moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["TEMPER_JEWELRY_ENCHANTS_BY_ID"],
 } as const satisfies Module

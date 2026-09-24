@@ -11,9 +11,5 @@ export const setsData116 = {
       decisionKind: "decision-kind/constraint",
       statement: "The sets are named here in the order the gathered table answers its ids in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A set moved to another place breaks every build hash saved.",
-    },
   ],
 } as const satisfies Module

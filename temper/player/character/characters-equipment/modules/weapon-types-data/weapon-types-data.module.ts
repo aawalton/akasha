@@ -17,10 +17,6 @@ export const weaponTypesData = {
       statement: "A weapon's place in this table is the index a build hash has.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A weapon moved to another place breaks every build hash saved.",
-    },
-    {
       decisionKind: "decision-kind/upkeep",
       statement: "The generator writes this table outside akasha.",
     },

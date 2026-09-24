@@ -15,10 +15,6 @@ export const setsAll = {
       decisionKind: "decision-kind/constraint",
       statement: "The no-set sentinel is the first row this table answers.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A set moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["SETS_ALL_ROWS"],
 } as const satisfies Module

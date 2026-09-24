@@ -16,10 +16,6 @@ export const armorWeights = {
       statement: "A weight's place in this table is the index a build hash has.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A weight moved to another place breaks every build hash saved.",
-    },
-    {
       decisionKind: "decision-kind/upkeep",
       statement: "The key order of this table is the wire order.",
     },
