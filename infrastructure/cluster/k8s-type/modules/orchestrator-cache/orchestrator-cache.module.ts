@@ -6,6 +6,7 @@ export const orchestratorCache = {
   slug: "orchestrator-cache",
   definition: "the init containers and sidecar filling a web app's checkout and its build",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -50,6 +51,27 @@ export const orchestratorCache = {
       decisionKind: "decision-kind/departure",
       statement:
         "A writer in the pod that must keep what it writes reaches the pages service over HTTP.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pod builds where the build beside the server is of another commit than the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pod builds where the build beside the server names no commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pod whose build is of the checkout's commit starts on that build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pod builds as a web app's deploy builds, and the build names its commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every checkout and every build on a cache is made holding the cache's one lock.",
     },
   ],
 } as const satisfies Module

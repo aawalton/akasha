@@ -39,6 +39,49 @@ function commitHere(): string {
   return sha
 }
 
+const CACHE_LOCK = `${ORCHESTRATOR_CACHE_MOUNT_PATH}/.init-lock`
+const LOCK_WAIT_SECONDS = 900
+const NEXT_BUILD_AT = "build.next"
+const PRIOR_BUILD_AT = "build.old"
+const BUILDER_AT = "node_modules/.bin/react-router"
+
+export const BUILD_STAMP = ".built-from"
+export const SERVED_BUILD_AT = "build"
+
+export function holdingCacheLock(who: string, body: readonly string[]): readonly string[] {
+  return [
+    `LOCK="${CACHE_LOCK}"`,
+    'touch "$LOCK"',
+    "(",
+    "  attempts=0",
+    "  until flock -n 9; do",
+    "    attempts=$((attempts+1))",
+    `    if [ "$attempts" -ge ${LOCK_WAIT_SECONDS} ]; then`,
+    `      echo "${who}: timed out waiting for lock after \${attempts}s" >&2`,
+    "      exit 1",
+    "    fi",
+    "    sleep 1",
+    "  done",
+    ...body.map((line) => `  ${line}`),
+    ') 9>"$LOCK"',
+  ]
+}
+
+export function webBuildSteps(packagePath: string, sha: string): readonly string[] {
+  return [
+    `cd ${ORCHESTRATOR_CACHE_REPO_PATH}`,
+    "bun install --frozen-lockfile",
+    `cd ${orchestratorCacheEntrypointPath(packagePath)}`,
+    `rm -rf ${NEXT_BUILD_AT} ${PRIOR_BUILD_AT}`,
+    `BUILD_DIRECTORY=${NEXT_BUILD_AT} ${ORCHESTRATOR_CACHE_REPO_PATH}/${BUILDER_AT} build`,
+    `printf %s ${sha} > ${NEXT_BUILD_AT}/${BUILD_STAMP}`,
+    `mkdir -p ${SERVED_BUILD_AT}`,
+    `mv ${SERVED_BUILD_AT} ${PRIOR_BUILD_AT}`,
+    `mv ${NEXT_BUILD_AT} ${SERVED_BUILD_AT}`,
+    `rm -rf ${PRIOR_BUILD_AT}`,
+  ]
+}
+
 export function orchestratorCacheInitContainer(opts: {
   gitAccessTokenRef: GitAccessTokenRef
   location: CacheLocation
@@ -49,44 +92,33 @@ export function orchestratorCacheInitContainer(opts: {
   const script = [
     "set -e",
     `mkdir -p ${ORCHESTRATOR_CACHE_MOUNT_PATH}`,
-    `LOCK="${ORCHESTRATOR_CACHE_MOUNT_PATH}/.init-lock"`,
-    'touch "$LOCK"',
-    "(",
-    "  attempts=0",
-    "  until flock -n 9; do",
-    "    attempts=$((attempts+1))",
-    '    if [ "$attempts" -ge 60 ]; then',
-    '      echo "init-code: timed out waiting for lock after ${attempts}s" >&2',
-    "      exit 1",
-    "    fi",
-    "    sleep 1",
-    "  done",
-    `  rm -f ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/index.lock`,
-    `  if git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD >/dev/null 2>&1; then`,
-    `    WANT=$(printf %s "${opts.location.cloneOriginUrl}" | sed "s|^.*@||")`,
-    `    HAVE=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} config --get remote.origin.url 2>/dev/null | sed "s|^.*@||")`,
-    `    if [ "$HAVE" != "$WANT" ]; then`,
-    `      echo "init-code: origin is $HAVE but this pod is for $WANT — repointing"`,
-    `      git -C ${ORCHESTRATOR_CACHE_REPO_PATH} remote set-url origin "${opts.location.cloneOriginUrl}"`,
-    `    fi`,
-    `    echo "init-code: ${ORCHESTRATOR_CACHE_REPO_PATH} already cloned, fetching origin and resetting to ${commit}"`,
-    `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} fetch origin --prune`,
-    `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} reset --hard ${commit}`,
-    `    echo "init-code: source-sync to ${commit} complete"`,
-    "  else",
-    `    if [ -e ${ORCHESTRATOR_CACHE_REPO_PATH} ]; then`,
-    `      echo "init-code: ${ORCHESTRATOR_CACHE_REPO_PATH} exists but HEAD is unreadable — wiping partial state"`,
-    `      rm -rf ${ORCHESTRATOR_CACHE_REPO_PATH}`,
-    "    fi",
-    `    echo "init-code: cloning monorepo into ${ORCHESTRATOR_CACHE_REPO_PATH}"`,
-    `    git clone --branch main "${opts.location.cloneOriginUrl}" ${ORCHESTRATOR_CACHE_REPO_PATH}`,
-    `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} reset --hard ${commit}`,
-    `    echo "init-code: clone complete at ${commit}"`,
-    "  fi",
-    `  echo "init-code: running bun install --frozen-lockfile"`,
-    `  cd ${ORCHESTRATOR_CACHE_REPO_PATH} && bun install --frozen-lockfile`,
-    `  echo "init-code: bun install complete"`,
-    ') 9>"$LOCK"',
+    ...holdingCacheLock("init-code", [
+      `rm -f ${ORCHESTRATOR_CACHE_REPO_PATH}/.git/index.lock`,
+      `if git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD >/dev/null 2>&1; then`,
+      `  WANT=$(printf %s "${opts.location.cloneOriginUrl}" | sed "s|^.*@||")`,
+      `  HAVE=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} config --get remote.origin.url 2>/dev/null | sed "s|^.*@||")`,
+      `  if [ "$HAVE" != "$WANT" ]; then`,
+      `    echo "init-code: origin is $HAVE but this pod is for $WANT — repointing"`,
+      `    git -C ${ORCHESTRATOR_CACHE_REPO_PATH} remote set-url origin "${opts.location.cloneOriginUrl}"`,
+      `  fi`,
+      `  echo "init-code: ${ORCHESTRATOR_CACHE_REPO_PATH} already cloned, fetching origin and resetting to ${commit}"`,
+      `  git -C ${ORCHESTRATOR_CACHE_REPO_PATH} fetch origin --prune`,
+      `  git -C ${ORCHESTRATOR_CACHE_REPO_PATH} reset --hard ${commit}`,
+      `  echo "init-code: source-sync to ${commit} complete"`,
+      "else",
+      `  if [ -e ${ORCHESTRATOR_CACHE_REPO_PATH} ]; then`,
+      `    echo "init-code: ${ORCHESTRATOR_CACHE_REPO_PATH} exists but HEAD is unreadable — wiping partial state"`,
+      `    rm -rf ${ORCHESTRATOR_CACHE_REPO_PATH}`,
+      "  fi",
+      `  echo "init-code: cloning monorepo into ${ORCHESTRATOR_CACHE_REPO_PATH}"`,
+      `  git clone --branch main "${opts.location.cloneOriginUrl}" ${ORCHESTRATOR_CACHE_REPO_PATH}`,
+      `  git -C ${ORCHESTRATOR_CACHE_REPO_PATH} reset --hard ${commit}`,
+      `  echo "init-code: clone complete at ${commit}"`,
+      "fi",
+      `echo "init-code: running bun install --frozen-lockfile"`,
+      `cd ${ORCHESTRATOR_CACHE_REPO_PATH} && bun install --frozen-lockfile`,
+      `echo "init-code: bun install complete"`,
+    ]),
   ].join("\n")
 
   return {
@@ -124,17 +156,22 @@ export function orchestratorCacheInitContainer(opts: {
 export function webBuildInitContainer(opts: { packagePath: string; secretName: string }): object {
   const script = [
     "set -e",
-    `cd ${orchestratorCacheEntrypointPath(opts.packagePath)}`,
-    "if [ -f build/server/index.js ]; then",
-    '  echo "init-build: a build is beside the server already"',
-    "  exit 0",
-    "fi",
-    `NEXT_PUBLIC_BUILD_SHA=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD)`,
-    "VITE_BUILD_SHA=$NEXT_PUBLIC_BUILD_SHA",
-    "export NEXT_PUBLIC_BUILD_SHA VITE_BUILD_SHA",
-    `echo "init-build: building ${opts.packagePath} at $NEXT_PUBLIC_BUILD_SHA"`,
-    `${ORCHESTRATOR_CACHE_REPO_PATH}/node_modules/.bin/react-router build`,
-    'echo "init-build: build complete"',
+    ...holdingCacheLock("init-build", [
+      `cd ${orchestratorCacheEntrypointPath(opts.packagePath)}`,
+      `CHECKED_OUT=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD)`,
+      `BUILT_FROM=$(cat ${SERVED_BUILD_AT}/${BUILD_STAMP} 2>/dev/null || true)`,
+      `if [ -f ${SERVED_BUILD_AT}/server/index.js ] && [ "$BUILT_FROM" = "$CHECKED_OUT" ]; then`,
+      '  echo "init-build: the build beside the server is of $CHECKED_OUT already"',
+      "  exit 0",
+      "fi",
+      'echo "init-build: the build beside the server is of ${BUILT_FROM:-nothing}, the checkout is of $CHECKED_OUT"',
+      "NEXT_PUBLIC_BUILD_SHA=$CHECKED_OUT",
+      "VITE_BUILD_SHA=$CHECKED_OUT",
+      "export NEXT_PUBLIC_BUILD_SHA VITE_BUILD_SHA",
+      `echo "init-build: building ${opts.packagePath} at $CHECKED_OUT"`,
+      ...webBuildSteps(opts.packagePath, '"$CHECKED_OUT"'),
+      'echo "init-build: build complete"',
+    ]),
   ].join("\n")
 
   return {

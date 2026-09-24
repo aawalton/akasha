@@ -194,6 +194,12 @@ test("the scratch a build failed in is swept before the next build", () => {
   )
 })
 
+test("a build is made holding the lock every checkout on the cache holds", () => {
+  const script = scriptFor()
+  expect(script).toContain('LOCK="/app/.init-lock"')
+  expect(script.indexOf("flock -n 9")).toBeLessThan(script.indexOf("bun install"))
+})
+
 test("a build runs its install from the checkout rather than from the package", () => {
   const target = buildTargetOf(plan(pod(SERVING)))
   expect(buildScript(target as NonNullable<typeof target>, SHA, [])).toContain(
