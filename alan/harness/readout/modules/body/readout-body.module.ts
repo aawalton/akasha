@@ -20,10 +20,7 @@ export const readoutBody = {
       decisionKind: "decision-kind/stopgap",
       statement: "One reading is carried at the top of the body rather than under its own name.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A body has as many readings as the group drawing the readings holds.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches the store.",
