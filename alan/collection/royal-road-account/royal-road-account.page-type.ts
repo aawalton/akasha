@@ -32,11 +32,11 @@ export const royalRoadAccount = {
         "An account is reached by its slug rather than by the address that account signs in as.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The sync signs in as no account and reads only the pages open to anyone.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The address an account signs in as is in the cluster's secrets too.",
     },
   ],
