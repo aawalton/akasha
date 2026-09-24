@@ -8,7 +8,6 @@ export const dateNightTheReadingRoom = {
   unit: "unit/words",
   externalId: "playtest-date-night-10",
   gameEngine: "awen",
-  coordinatorAgent: "awen-gm--playtest-date-night-10",
   controlledEntityKind: "single",
   mechanicsWeight: "zero",
   resolution: "none",
