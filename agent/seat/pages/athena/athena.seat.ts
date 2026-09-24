@@ -5,7 +5,7 @@ export const athena = {
   type: "page-type/seat",
   slug: "athena",
   persona: "persona/athena",
-  assignmentSlug: "namespace/agent",
+  assignmentSlug: "initiative/athena-interactive-seat-pages",
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
