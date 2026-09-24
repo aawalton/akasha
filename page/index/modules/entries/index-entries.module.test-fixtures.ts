@@ -14,7 +14,10 @@ import {
 import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
 import type { Shape } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { lineFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  slugOf,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { id as idPage } from "akasha/page/properties/id.text-property.ts"
 import { slug as slugPage } from "akasha/page/properties/slug.text-property.ts"
 import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
@@ -23,6 +26,7 @@ import {
   bodyOf as shapesBodyOf,
   shapesFiledAt,
 } from "akasha/page/type/page-property/modules/property-shape/property-shape.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const A = "01a04b79-0000-7000-8000-00000000000a"
 export const B = "01a04b79-0000-7000-8000-00000000000b"
@@ -38,7 +42,7 @@ export type Kept = Map<string, string[]>
 export function propertyKind(kept: Kept, pageTypeSlug: string): undefined {
   const typed = JSON.stringify({
     path: `${pageTypeSlug}.${PAGE_TYPE}.ts`,
-    value: { pageTypeSlug: PAGE_TYPE, slug: pageTypeSlug, extends: [PAGE_PROPERTY] },
+    value: { type: `${pageType.slug}/${PAGE_TYPE}`, slug: pageTypeSlug, extends: [PAGE_PROPERTY] },
   })
   const held = kept.get(PAGE_TYPE) ?? []
   if (!held.includes(typed)) kept.set(PAGE_TYPE, [...held, typed])
@@ -50,7 +54,7 @@ export function shaping(
   slug: string,
   said: Record<string, unknown> = {}
 ): undefined {
-  const value = { pageTypeSlug, slug, ...said }
+  const value = { type: `${pageType.slug}/${pageTypeSlug}`, slug, ...said }
   const line = JSON.stringify({ path: `${slug}.${pageTypeSlug}.ts`, value })
   kept.set(pageTypeSlug, [...(kept.get(pageTypeSlug) ?? []), line])
   propertyKind(kept, pageTypeSlug)
@@ -103,7 +107,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   const kept = new Map<string, string[]>()
   const page = (at: string, value: Record<string, unknown>): undefined => {
     writeFileSync(join(repo, at), `export const it = ${JSON.stringify(value)} as const\n`)
-    const type = String(value["pageTypeSlug"])
+    const type = slugOf(String(value["type"]))
     kept.set(type, [...(kept.get(type) ?? []), JSON.stringify({ path: at, value })])
   }
   const filed = (at: string, line: string): undefined => {
@@ -111,19 +115,19 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   }
   page("domain.page-type.ts", {
     id: "1",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "domain",
     extends: ["page"],
   })
   page("module.page-type.ts", {
     id: "2",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "module",
     extends: ["domain"],
   })
   page("parts.record-property.ts", {
     id: "3",
-    pageTypeSlug: "record-property",
+    type: `${pageType.slug}/record-property`,
     slug: "parts",
     properties: [{ pagePropertySlug: "page-property/part-slugs", required: true, many: true }],
   })
@@ -131,7 +135,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   filed("page-type/page-type/slug/module.jsonl", '{"path":"module.page-type.ts","id":"2"}')
   page("either.one-of-property.ts", {
     id: "4",
-    pageTypeSlug: "one-of-property",
+    type: `${pageType.slug}/one-of-property`,
     slug: "either",
     propertySlug: "either",
     members: [`${relationProperty.slug}/${pageDomain.slug}`, "relation-property/note-slug"],
@@ -261,7 +265,13 @@ export function declaring(
 }
 
 function manifest(slug: string, fileName: string): Value {
-  return { id: slug, pageTypeSlug: "file-property", slug, propertySlug: "manifest", fileName }
+  return {
+    id: slug,
+    type: `${pageType.slug}/file-property`,
+    slug,
+    propertySlug: "manifest",
+    fileName,
+  }
 }
 
 export const HELD_PAGE = "deep/a.held-type.ts"
@@ -275,9 +285,9 @@ export function claimingBeside(
   withheld: UncommittedBy = NOTHING_WITHHELD
 ): readonly string[] {
   const types: readonly Value[] = [
-    { id: "1", pageTypeSlug: "page-type", slug: "held-type", properties: [said] },
+    { id: "1", type: `${pageType.slug}/${pageType.slug}`, slug: "held-type", properties: [said] },
   ]
-  const value: Value = { id: A, pageTypeSlug: "held-type", slug: "a" }
+  const value: Value = { id: A, type: "page-type/held-type", slug: "a" }
   return claimsOf(value, `/repo/${HELD_PAGE}`, "/repo", filed, sidecarsIn(types), withheld, there)
 }
 
@@ -285,31 +295,37 @@ export function withholding(propertySlug: string): UncommittedBy {
   return new Map([["held-type", new Set([propertySlug])]])
 }
 
+const FILE_PROPERTY_TYPE = `${pageType.slug}/file-property`
+
+const TEXT_PROPERTY_TYPE = `${pageType.slug}/text-property`
+
+const PAGE_TYPE_TYPE = `${pageType.slug}/${pageType.slug}`
+
 export const SHARED_NAME: readonly Value[] = [
-  { id: "1", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
-  { id: "2", pageTypeSlug: "text-property", slug: "location-notes", propertySlug: "notes" },
+  { id: "1", type: FILE_PROPERTY_TYPE, slug: "notes", propertySlug: "notes" },
+  { id: "2", type: TEXT_PROPERTY_TYPE, slug: "location-notes", propertySlug: "notes" },
   {
     id: "3",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_TYPE,
     slug: "review-session",
     properties: [{ pagePropertySlug: "notes" }],
   },
   {
     id: "4",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_TYPE,
     slug: "location",
     properties: [{ pagePropertySlug: "location-notes" }],
   },
 ]
 
 export const TWO_ABOVE: readonly Value[] = [
-  { id: "1", pageTypeSlug: "file-property", slug: "alpha", propertySlug: "alpha" },
-  { id: "2", pageTypeSlug: "file-property", slug: "beta", propertySlug: "beta" },
-  { id: "3", pageTypeSlug: "page-type", slug: "one", properties: [{ pagePropertySlug: "alpha" }] },
-  { id: "4", pageTypeSlug: "page-type", slug: "two", properties: [{ pagePropertySlug: "beta" }] },
+  { id: "1", type: FILE_PROPERTY_TYPE, slug: "alpha", propertySlug: "alpha" },
+  { id: "2", type: FILE_PROPERTY_TYPE, slug: "beta", propertySlug: "beta" },
+  { id: "3", type: PAGE_TYPE_TYPE, slug: "one", properties: [{ pagePropertySlug: "alpha" }] },
+  { id: "4", type: PAGE_TYPE_TYPE, slug: "two", properties: [{ pagePropertySlug: "beta" }] },
   {
     id: "5",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_TYPE,
     slug: "both",
     extends: ["page-type/one", "page-type/two"],
   },
@@ -320,20 +336,20 @@ export const NEARER: readonly Value[] = [
   manifest("far-manifest", "far.json"),
   {
     id: "a",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_TYPE,
     slug: "far",
     properties: [{ pagePropertySlug: "file-property/far-manifest" }],
   },
   {
     id: "b",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_TYPE,
     slug: "near",
     properties: [{ pagePropertySlug: "file-property/near-manifest" }],
   },
-  { id: "c", pageTypeSlug: "page-type", slug: "mid", extends: ["page-type/far"] },
+  { id: "c", type: PAGE_TYPE_TYPE, slug: "mid", extends: ["page-type/far"] },
   {
     id: "d",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_TYPE,
     slug: "leaf",
     extends: ["page-type/near", "page-type/mid"],
   },
@@ -344,19 +360,19 @@ export const EQUALLY_NEAR: readonly Value[] = [
   manifest("second-manifest", "second.json"),
   {
     id: "a",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_TYPE,
     slug: "first-parent",
     properties: [{ pagePropertySlug: "file-property/first-manifest" }],
   },
   {
     id: "b",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_TYPE,
     slug: "second-parent",
     properties: [{ pagePropertySlug: "file-property/second-manifest" }],
   },
   {
     id: "c",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_TYPE,
     slug: "leaf",
     extends: ["page-type/first-parent", "page-type/second-parent"],
   },

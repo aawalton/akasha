@@ -41,21 +41,30 @@ const FILE_PROPERTY_GROUP_AT = `${pageType.slug}/${filePropertyGroup.slug}` as c
 
 const MODULE_AT = `${pageType.slug}/${module.slug}` as const
 
+const PAGE_TYPE_AT = `${pageType.slug}/${pageType.slug}` as const
+
+const FILE_PROPERTY_TYPE = `${pageType.slug}/file-property`
+
+const TEXT_PROPERTY_TYPE = `${pageType.slug}/text-property`
+
 test("the properties held in a file are the ones the file shape is", () => {
   const values = [
-    { id: "1", pageTypeSlug: "file-property", slug: "code", propertySlug: "code" },
-    { id: "2", pageTypeSlug: "relation-property", slug: "part-slugs", propertySlug: "part-slugs" },
-    { id: "3", pageTypeSlug: "domain", slug: "code" },
+    { id: "1", type: FILE_PROPERTY_TYPE, slug: "code", propertySlug: "code" },
+    {
+      id: "2",
+      type: `${pageType.slug}/relation-property`,
+      slug: "part-slugs",
+      propertySlug: "part-slugs",
+    },
+    { id: "3", type: DOMAIN_AT, slug: "code" },
   ]
 
   expect([...fileKeysIn(values)]).toEqual([["code", null]])
 })
 
 test("a file property is filed under the key a page carries rather than under its own slug", () => {
-  const values = [
-    { id: "1", pageTypeSlug: "file-property", slug: "ambient-types", propertySlug: "d" },
-  ]
-  const value = { id: A, pageTypeSlug: "type-declaration", slug: "a", d: "ts" }
+  const values = [{ id: "1", type: FILE_PROPERTY_TYPE, slug: "ambient-types", propertySlug: "d" }]
+  const value = { id: A, type: `${pageType.slug}/type-declaration`, slug: "a", d: "ts" }
 
   expect([...fileKeysIn(values)]).toEqual([["d", null]])
   expect(
@@ -149,14 +158,19 @@ test("a stated file name holds a property in a file whatever page type the prope
 const EXTENDING = [
   {
     id: "1",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_AT,
     slug: "code-file-property",
     extends: [FILE_PROPERTY_AT],
   },
-  { id: "2", pageTypeSlug: codeFileProperty.slug, slug: lua.slug, propertySlug: lua.propertySlug },
+  {
+    id: "2",
+    type: `${pageType.slug}/${codeFileProperty.slug}`,
+    slug: lua.slug,
+    propertySlug: lua.propertySlug,
+  },
   {
     id: "3",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_AT,
     slug: "lua-module",
     properties: [{ pagePropertySlug: `${codeFileProperty.slug}/${lua.slug}` }],
   },
@@ -181,16 +195,16 @@ test("a file property is answered under the page type declaring it and under no 
 
 test("a page type carries what every page type above it declares", () => {
   const values = [
-    { id: "1", pageTypeSlug: "file-property", slug: "code", propertySlug: "code" },
+    { id: "1", type: FILE_PROPERTY_TYPE, slug: "code", propertySlug: "code" },
     {
       id: "2",
-      pageTypeSlug: "page-type",
+      type: PAGE_TYPE_AT,
       slug: "module",
       extends: [DOMAIN_AT],
       properties: [{ pagePropertySlug: "code" }],
     },
-    { id: "3", pageTypeSlug: "page-type", slug: "domain", properties: [] },
-    { id: "4", pageTypeSlug: "page-type", slug: "index", extends: [MODULE_AT] },
+    { id: "3", type: PAGE_TYPE_AT, slug: "domain", properties: [] },
+    { id: "4", type: PAGE_TYPE_AT, slug: "index", extends: [MODULE_AT] },
   ]
 
   const said = filePropertiesIn(values)
@@ -201,11 +215,11 @@ test("a page type carries what every page type above it declares", () => {
 
 test("a bare declaration name two page properties carry declares neither", () => {
   const values = [
-    { id: "1", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
-    { id: "2", pageTypeSlug: "text-property", slug: "notes", propertySlug: "notes" },
+    { id: "1", type: FILE_PROPERTY_TYPE, slug: "notes", propertySlug: "notes" },
+    { id: "2", type: TEXT_PROPERTY_TYPE, slug: "notes", propertySlug: "notes" },
     {
       id: "3",
-      pageTypeSlug: "page-type",
+      type: PAGE_TYPE_AT,
       slug: "review-session",
       properties: [{ pagePropertySlug: "notes" }],
     },
@@ -216,11 +230,11 @@ test("a bare declaration name two page properties carry declares neither", () =>
 
 test("a declaration naming its page property outright reaches it though the bare name is shared", () => {
   const values = [
-    { id: "1", pageTypeSlug: "file-property", slug: "notes", propertySlug: "notes" },
-    { id: "2", pageTypeSlug: "text-property", slug: "notes", propertySlug: "notes" },
+    { id: "1", type: FILE_PROPERTY_TYPE, slug: "notes", propertySlug: "notes" },
+    { id: "2", type: TEXT_PROPERTY_TYPE, slug: "notes", propertySlug: "notes" },
     {
       id: "3",
-      pageTypeSlug: "page-type",
+      type: PAGE_TYPE_AT,
       slug: "review-session",
       properties: [{ pagePropertySlug: "file-property/notes" }],
     },
@@ -234,7 +248,7 @@ test("a page type the change carries reaches the page properties the index carri
   const left = [
     {
       id: "9",
-      pageTypeSlug: "page-type",
+      type: PAGE_TYPE_AT,
       slug: "module",
       properties: [{ pagePropertySlug: "code" }, { pagePropertySlug: "part-slugs" }],
     },
@@ -276,13 +290,13 @@ test("a property two page types equally near declare is taken from the last one 
 })
 
 const GROUPED = [
-  { id: "1", pageTypeSlug: "file-property", slug: "code", propertySlug: "code" },
-  { id: "2", pageTypeSlug: "file-property", slug: "test", propertySlug: "test" },
-  { id: "3", pageTypeSlug: fileProperty.slug, slug: logs.slug, propertySlug: logs.propertySlug },
-  { id: "4", pageTypeSlug: "page-type", slug: "file-property-group", properties: [] },
+  { id: "1", type: FILE_PROPERTY_TYPE, slug: "code", propertySlug: "code" },
+  { id: "2", type: FILE_PROPERTY_TYPE, slug: "test", propertySlug: "test" },
+  { id: "3", type: FILE_PROPERTY_AT, slug: logs.slug, propertySlug: logs.propertySlug },
+  { id: "4", type: PAGE_TYPE_AT, slug: "file-property-group", properties: [] },
   {
     id: "5",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_AT,
     slug: "module-property-group",
     extends: [FILE_PROPERTY_GROUP_AT],
     properties: [
@@ -293,13 +307,13 @@ const GROUPED = [
   },
   {
     id: "6",
-    pageTypeSlug: modulePropertyGroup.slug,
+    type: `${pageType.slug}/${modulePropertyGroup.slug}`,
     slug: audit.slug,
     propertySlug: audit.propertySlug,
   },
   {
     id: "7",
-    pageTypeSlug: "page-type",
+    type: PAGE_TYPE_AT,
     slug: "check-code",
     properties: [{ pageProperty: `${modulePropertyGroup.slug}/${audit.slug}` }],
   },

@@ -24,6 +24,7 @@ import {
 import { readingAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { lineFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { pagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -246,7 +247,7 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
   }
   const page = (at: string, value: Record<string, unknown>): undefined => {
     writeFileSync(join(repo, at), `export const it = ${JSON.stringify(value)} as const\n`)
-    const type = String(value["pageTypeSlug"])
+    const type = slugOf(String(value["type"]))
     kept.set(type, [...(kept.get(type) ?? []), JSON.stringify({ path: at, value })])
     filed(
       `page-type/${type}/slug/${String(value["slug"])}.jsonl`,
@@ -255,21 +256,21 @@ function entryShapes(): { readonly root: string; readonly repo: string } {
   }
   page("cases.page-property-entry.ts", {
     id: "1",
-    pageTypeSlug: "page-property-entry",
+    type: `${pageType.slug}/${pagePropertyEntry.slug}`,
     slug: "cases",
     propertySlug: "cases",
     properties: [{ pagePropertySlug: "relation-property/noted-page" }],
   })
   page("logs.page-property-entry.ts", {
     id: "2",
-    pageTypeSlug: "page-property-entry",
+    type: `${pageType.slug}/${pagePropertyEntry.slug}`,
     slug: "logs",
     propertySlug: "logs",
     properties: [{ pagePropertySlug: "text-property/log-text" }],
   })
   page("cased.page-type.ts", {
     id: "3",
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug: "cased",
     properties: [
       { pagePropertySlug: `${pagePropertyEntry.slug}/${cases.slug}` },
@@ -303,31 +304,35 @@ function oneOfRecords(): { readonly root: string; readonly repo: string } {
   }
   const page = (at: string, value: Record<string, unknown>): undefined => {
     writeFileSync(join(repo, at), `export const it = ${JSON.stringify(value)} as const\n`)
-    const type = String(value["pageTypeSlug"])
+    const type = slugOf(String(value["type"]))
     kept.set(type, [...(kept.get(type) ?? []), JSON.stringify({ path: at, value })])
     filed(
       `page-type/${type}/slug/${String(value["slug"])}.jsonl`,
       JSON.stringify({ path: at, id: value["id"] })
     )
   }
-  page("holder.page-type.ts", { id: "1", pageTypeSlug: "page-type", slug: "holder" })
+  page("holder.page-type.ts", {
+    id: "1",
+    type: `${pageType.slug}/${pageType.slug}`,
+    slug: "holder",
+  })
   page("one-held.record-property.ts", {
     id: "2",
-    pageTypeSlug: "record-property",
+    type: `${pageType.slug}/record-property`,
     slug: "one-held",
     propertySlug: "one-held",
     properties: [{ pageProperty: "relation-property/part-slugs" }],
   })
   page("many-held.record-property.ts", {
     id: "3",
-    pageTypeSlug: "record-property",
+    type: `${pageType.slug}/record-property`,
     slug: "many-held",
     propertySlug: "many-held",
     properties: [{ pageProperty: "relation-property/note-slug" }],
   })
   page("holds.one-of-property.ts", {
     id: "4",
-    pageTypeSlug: "one-of-property",
+    type: `${pageType.slug}/one-of-property`,
     slug: "holds",
     propertySlug: "holds",
     members: ["record-property/one-held", "record-property/many-held"],
