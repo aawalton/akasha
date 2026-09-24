@@ -1,16 +1,14 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
-import { BUN_RUNTIME_IMAGE } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
 import { gitTransportJanitor as page } from "akasha/infrastructure/git-transport/janitor/git-transport-janitor.manifest.ts"
 import {
   JANITOR_LABELS,
   NAMESPACE,
 } from "akasha/infrastructure/git-transport/modules/transport-naming/transport-naming.module.code.ts"
+import { gitTransportJanitor } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/git-transport-janitor/git-transport-janitor.service-cluster.ts"
 
-const JANITOR_NAME = "git-transport-janitor"
 const REPOSITORIES = "/data/git/repositories"
-const SCHEDULE = "*/15 * * * *"
 const STALE_MINUTES = 180
 const HEADROOM_KIB = 524288
 
@@ -47,10 +45,14 @@ done`
 function janitorCronjobYaml(): string {
   return synthOne(NAMESPACE, "janitor-cronjob", {
     apiVersion: "batch/v1",
-    kind: "CronJob",
-    metadata: { name: JANITOR_NAME, namespace: NAMESPACE, labels: JANITOR_LABELS },
+    kind: gitTransportJanitor.resourceKind,
+    metadata: {
+      name: gitTransportJanitor.resourceName,
+      namespace: gitTransportJanitor.namespace,
+      labels: JANITOR_LABELS,
+    },
     spec: {
-      schedule: SCHEDULE,
+      schedule: gitTransportJanitor.schedule,
       concurrencyPolicy: "Forbid",
       successfulJobsHistoryLimit: 1,
       failedJobsHistoryLimit: 3,
@@ -66,7 +68,7 @@ function janitorCronjobYaml(): string {
               containers: [
                 {
                   name: "sweep",
-                  image: BUN_RUNTIME_IMAGE,
+                  image: gitTransportJanitor.image,
                   imagePullPolicy: "IfNotPresent",
                   command: ["sh", "-c", SWEEP],
                   volumeMounts: [{ name: "data", mountPath: REPOSITORIES }],
