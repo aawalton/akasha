@@ -71,10 +71,7 @@ export const alanHarness = {
       decisionKind: "decision-kind/departure",
       statement: "Alan's harness has a footprint in several products.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Everything in Alan's harness changes without a deploy.",
-    },
+
     {
       decisionKind: "decision-kind/gap",
       statement: "A deploy to Alan's harness adds only the things there to change.",
