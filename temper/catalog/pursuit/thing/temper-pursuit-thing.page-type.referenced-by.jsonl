@@ -4,6 +4,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-cadwell-level/temper-cadwell-level.page-type.ts","id":"01a0616b-2cde-7001-a076-c5cb204d81f9"}
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.ts","id":"01a06165-ae0e-7003-b36d-6529ae625fb0"}
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.ts","id":"01a0616b-2cdf-7001-a24c-0dd3c96e1a6e"}
+{"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.ts","id":"01a0d5da-b5a2-7415-b3cf-1d2a75865e0e"}
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-collection.page-type.ts","id":"01a06343-f9f7-7005-838d-006a4cec0e4f"}
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-recipe-list/temper-recipe-list.page-type.ts","id":"01a0626e-c112-7de5-8901-fc3087a26629"}
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/temper-research-line/temper-research-line.page-type.ts","id":"01a0616b-2cdf-7005-a903-e1d072da4881"}
@@ -14,6 +15,7 @@
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-cadwell-level/temper-cadwell-level.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-collection.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/temper-recipe-list.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-pursuit-thing.page-type.types.ts","path":"temper/catalog/pursuit/temper-research-line/temper-research-line.page-type.types.ts","typed":true,"deferred":false}

@@ -212,6 +212,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievement-category-parent.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/antiquity-set.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectible-category-parent.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-collection.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-research-line/properties/research-line-craft.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/line/properties/skill-line-category.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/line/properties/skill-line-class.relation-property.ts","typed":true,"deferred":false}

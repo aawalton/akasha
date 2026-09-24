@@ -1,0 +1,45 @@
+import type { PagePropertyEntry } from "akasha/page/property-entry/page-property-entry.page-type.types.ts"
+
+export const loreBookPositions = {
+  id: "01a0d5da-b5a0-7698-881c-f03669ba8a86",
+  type: "page-type/page-property-entry",
+  slug: "lore-book-positions",
+  propertySlug: "positions",
+  definition: "the places on the maps an Eidetic Memory book may be read, one place to a line",
+  properties: [
+    { pageProperty: "number-property/lore-pin-map-id", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-map-x", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-map-y", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-zone-map-id", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-zone-x", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-zone-y", required: false, many: false },
+    { pageProperty: "boolean-property/lore-pin-dungeon", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-location-detail", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-mn", required: false, many: false },
+    { pageProperty: "boolean-property/lore-pin-fp", required: false, many: false },
+    { pageProperty: "boolean-property/lore-pin-qc", required: false, many: false },
+    { pageProperty: "boolean-property/lore-pin-qp", required: false, many: false },
+    { pageProperty: "boolean-property/lore-pin-l", required: false, many: false },
+    { pageProperty: "boolean-property/lore-pin-r", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-x", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-y", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-z", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-pnx", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-pny", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-zt", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-i", required: false, many: false },
+    { pageProperty: "number-property/lore-pin-sm", required: false, many: false },
+    { pageProperty: "record-property/lore-pin-alternate", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The places are kept in the order the LoreBooks table lists them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place states only the fields the LoreBooks table gives that place.",
+    },
+  ],
+  types: "ts",
+} as const satisfies PagePropertyEntry

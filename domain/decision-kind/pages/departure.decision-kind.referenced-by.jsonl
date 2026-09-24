@@ -4826,6 +4826,10 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-collectible-category/temper-collectible-category.page-type.ts","id":"01a06165-ae0e-7003-b36d-6529ae625fb0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.ts","id":"01a0616b-2cdf-7001-a24c-0dd3c96e1a6e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-lore-collection/properties/books.page-property-entry.ts","id":"01a06343-f9f7-7004-8521-33a45a47b9b8"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-map-counts.record-property.ts","id":"01a0d5da-b5a0-70eb-85fd-477dda5232c9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-positions.page-property-entry.ts","id":"01a0d5da-b5a0-7698-881c-f03669ba8a86"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/shalidor-pins.page-property-entry.ts","id":"01a0d5da-b5a2-7df6-bea4-f4298e874e9d"}
+{"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.ts","id":"01a0d5da-b5a2-7415-b3cf-1d2a75865e0e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-collection.page-type.ts","id":"01a06343-f9f7-7005-838d-006a4cec0e4f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
 {"propertySlug":"decision-kind","path":"temper/catalog/pursuit/temper-recipe-list/properties/recipes.page-property-entry.ts","id":"01a0626e-c112-752c-87ea-5aac4c49e0ee"}

@@ -25,6 +25,7 @@
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"items","propertySlug":"items","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"listens","propertySlug":"listens","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"location-traces","propertySlug":"location-traces","fileName":null,"folderName":null}
+{"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lore-book-positions","propertySlug":"positions","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mechanic-readings","propertySlug":"mechanic-readings","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"notifications","propertySlug":"notifications","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"passive-effects","propertySlug":"passive-effects","fileName":null,"folderName":null}
@@ -38,6 +39,7 @@
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"recipes","propertySlug":"recipes","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"references","propertySlug":"references","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"sessions","propertySlug":"sessions","fileName":null,"folderName":null}
+{"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"shalidor-pins","propertySlug":"shalidor-pins","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"signature-scripts","propertySlug":"signature-scripts","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"skill-effects","propertySlug":"skill-effects","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"stacks","propertySlug":"stacks","fileName":null,"folderName":null}

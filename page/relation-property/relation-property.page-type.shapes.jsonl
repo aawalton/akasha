@@ -114,6 +114,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"loaded-by","propertySlug":"loaded-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"log-source","unique":null,"uniquePropertySlug":null,"slug":"log-source","propertySlug":"source","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"page","unique":null,"uniquePropertySlug":null,"slug":"lore-about","propertySlug":"about","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-lore-collection","unique":null,"uniquePropertySlug":null,"slug":"lore-book-collection","propertySlug":"collection","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"lore-disclosure","unique":null,"uniquePropertySlug":null,"slug":"lore-disclosure","propertySlug":"lore-disclosure","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-buff-major","unique":null,"uniquePropertySlug":null,"slug":"major-buff","propertySlug":"major-buff","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"merged-into","propertySlug":"merged-into","fileName":null,"folderName":null}

@@ -7,16 +7,26 @@ export const temperLoreCollection = {
   definition: "a grouping of the game's lore library books",
   extends: ["page-type/temper-pursuit-thing"],
   parts: [
-    "number-property/book-index",
     "number-property/eso-collection-index",
     "number-property/eso-lore-category-id",
     "page-property-entry/books",
     "text-property/book-name",
+    "page-type/temper-lore-book",
+    "number-property/eso-lore-collection-id",
+    "text-property/lore-collection-description",
+    "text-property/lore-collection-gamepad-icon",
+    "boolean-property/lore-collection-hidden",
+    "number-property/lore-collection-book-total",
   ],
   properties: [
     { pageProperty: "number-property/eso-lore-category-id", required: true, many: false },
-    { pageProperty: "number-property/eso-collection-index", required: true, many: false },
-    { pageProperty: "page-property-entry/books", required: true, many: false },
+    { pageProperty: "number-property/eso-collection-index", required: false, many: false },
+    { pageProperty: "number-property/eso-lore-collection-id", required: false, many: false },
+    { pageProperty: "text-property/lore-collection-description", required: false, many: false },
+    { pageProperty: "text-property/lore-collection-gamepad-icon", required: false, many: false },
+    { pageProperty: "boolean-property/lore-collection-hidden", required: false, many: false },
+    { pageProperty: "number-property/lore-collection-book-total", required: false, many: false },
+    { pageProperty: "page-property-entry/books", required: false, many: false },
   ],
   decisions: [
     {
@@ -27,6 +37,14 @@ export const temperLoreCollection = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Shalidor's Library is lore category 1.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A collection states its lore library entry only where the lore library has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A collection the lore library lacks has no number in its lore category.",
     },
   ],
   types: "ts",

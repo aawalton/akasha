@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"lore-pin-fp.boolean-property.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-positions.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore-pin-fp.boolean-property.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-pin-alternate.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-positions.page-property-entry.ts","id":"01a0d5da-b5a0-7698-881c-f03669ba8a86"}
+{"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-pin-alternate.record-property.ts","id":"01a0d5da-b5a1-72f0-b11a-97c3bde56dcd"}
+{"propertySlug":"parts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.ts","id":"01a0d5da-b5a2-7415-b3cf-1d2a75865e0e"}

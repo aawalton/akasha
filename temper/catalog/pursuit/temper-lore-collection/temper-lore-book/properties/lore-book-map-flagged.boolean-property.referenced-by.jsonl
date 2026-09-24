@@ -1,0 +1,3 @@
+{"propertySlug":"import","fileName":"lore-book-map-flagged.boolean-property.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-map-counts.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-map-counts.record-property.ts","id":"01a0d5da-b5a0-70eb-85fd-477dda5232c9"}
+{"propertySlug":"parts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.ts","id":"01a0d5da-b5a2-7415-b3cf-1d2a75865e0e"}

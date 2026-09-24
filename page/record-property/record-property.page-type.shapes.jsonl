@@ -35,6 +35,8 @@
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"list-members","propertySlug":"members","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"location-conditions","propertySlug":"conditions","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"location-things","propertySlug":"things","fileName":null,"folderName":null}
+{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lore-book-map-counts","propertySlug":"map-counts","fileName":null,"folderName":null}
+{"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lore-pin-alternate","propertySlug":"alternate","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"many-declaration","propertySlug":"many-declaration","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"map-positions","propertySlug":"map-positions","fileName":null,"folderName":null}
 {"pageTypeSlug":"record-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"matches","propertySlug":"matches","fileName":null,"folderName":null}
