@@ -11,7 +11,7 @@ export const ruleTreasuresSell = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasures",
-  displayOrder: 71,
+  displayOrder: 72,
   action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

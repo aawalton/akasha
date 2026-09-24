@@ -9,7 +9,7 @@ export const rule263273e9 = {
   destination: "house-storage:4677",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/scrolls",
-  displayOrder: 35,
+  displayOrder: 36,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-01T22:02:02.448Z",

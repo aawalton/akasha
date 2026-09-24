@@ -11,7 +11,7 @@ export const rule8f35e006 = {
   destination: "bank",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/potions",
-  displayOrder: 17,
+  displayOrder: 18,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-07-05T13:20:46.391Z",

@@ -11,7 +11,7 @@ export const rulePotionsNormalSell = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/potions",
-  displayOrder: 72,
+  displayOrder: 73,
   action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

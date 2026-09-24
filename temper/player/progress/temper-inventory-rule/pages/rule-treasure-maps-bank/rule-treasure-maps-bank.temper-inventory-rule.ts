@@ -11,7 +11,7 @@ export const ruleTreasureMapsBank = {
   destination: "bank",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasure-maps",
-  displayOrder: 51,
+  displayOrder: 52,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

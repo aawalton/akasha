@@ -11,7 +11,7 @@ export const ruleHolidayWritsBank = {
   destination: "guild-bank:Walton Mountain",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/holiday-writs",
-  displayOrder: 47,
+  displayOrder: 48,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-07-05T12:14:14.074Z",

@@ -12,7 +12,7 @@ export const ruleResearchByPriority = {
   destination: "character:by-priority",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/equipment",
-  displayOrder: 42,
+  displayOrder: 43,
   action: "temper-item-action/research",
   active: true,
   updatedAt: "2026-05-04T16:05:00.238Z",

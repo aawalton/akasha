@@ -11,7 +11,7 @@ export const ruleAcb23368 = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/recipe-fragments",
-  displayOrder: 27,
+  displayOrder: 28,
   action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-05-07T22:10:37.410Z",

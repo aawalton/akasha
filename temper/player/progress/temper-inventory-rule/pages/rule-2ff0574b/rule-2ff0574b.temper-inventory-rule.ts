@@ -7,7 +7,7 @@ export const rule2ff0574b = {
   destination: "character:8796093022338107",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasure-maps",
-  displayOrder: 50,
+  displayOrder: 51,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T20:15:45.094Z",

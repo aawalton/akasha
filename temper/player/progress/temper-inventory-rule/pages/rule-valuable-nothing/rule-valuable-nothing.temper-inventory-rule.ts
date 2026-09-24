@@ -12,7 +12,7 @@ export const ruleValuableNothing = {
   destination: "character:8796093022338107",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/all",
-  displayOrder: 41,
+  displayOrder: 42,
   action: "temper-item-action/list",
   active: true,
   updatedAt: "2026-06-02T20:49:37.762Z",

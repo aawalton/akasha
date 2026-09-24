@@ -11,7 +11,7 @@ export const ruleDeconstructStolen = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/equipment",
-  displayOrder: 54,
+  displayOrder: 55,
   action: "temper-item-action/fence-launder",
   active: true,
   updatedAt: "2026-09-21T22:15:47.448Z",

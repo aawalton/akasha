@@ -11,7 +11,7 @@ export const ruleWorthlessDestroy = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/all",
-  displayOrder: 77,
+  displayOrder: 78,
   action: "temper-item-action/destroy",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

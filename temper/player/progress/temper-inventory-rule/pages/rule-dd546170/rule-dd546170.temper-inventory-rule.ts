@@ -11,7 +11,7 @@ export const ruleDd546170 = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/style-pages",
-  displayOrder: 28,
+  displayOrder: 29,
   action: "temper-item-action/destroy",
   active: true,
   updatedAt: "2026-06-02T20:49:28.795Z",

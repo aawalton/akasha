@@ -12,7 +12,7 @@ export const ruleDf7b2fe2 = {
   destination: "character:8796093022338107",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/style-pages",
-  displayOrder: 29,
+  displayOrder: 30,
   action: "temper-item-action/list",
   active: true,
   updatedAt: "2026-06-02T20:49:29.157Z",

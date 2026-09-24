@@ -11,7 +11,7 @@ export const ruleF48e4c64 = {
   destination: "house-storage:4674",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/poisons",
-  displayOrder: 22,
+  displayOrder: 23,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-01T12:18:15.614Z",

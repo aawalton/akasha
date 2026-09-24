@@ -11,7 +11,7 @@ export const rule778017a4 = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/furnishings",
-  displayOrder: 37,
+  displayOrder: 38,
   action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-06-02T20:49:29.524Z",

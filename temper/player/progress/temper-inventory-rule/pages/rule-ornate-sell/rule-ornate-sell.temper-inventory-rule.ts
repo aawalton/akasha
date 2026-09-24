@@ -11,7 +11,7 @@ export const ruleOrnateSell = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/equipment",
-  displayOrder: 43,
+  displayOrder: 44,
   action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

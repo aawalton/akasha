@@ -10,7 +10,7 @@ export const rule26fb56ce = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/lockpicks",
-  displayOrder: 36,
+  displayOrder: 37,
   action: "temper-item-action/fence-launder",
   active: true,
   updatedAt: "2026-05-31T18:39:21.682Z",

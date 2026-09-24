@@ -10,7 +10,7 @@ export const ruleD5eaa312 = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/drink",
-  displayOrder: 82,
+  displayOrder: 83,
   action: "temper-item-action/destroy",
   active: true,
   updatedAt: "2026-07-05T13:32:43.468Z",

@@ -11,7 +11,7 @@ export const ruleTrophiesBank = {
   destination: "bank",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/trophies",
-  displayOrder: 64,
+  displayOrder: 65,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

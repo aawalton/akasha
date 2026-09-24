@@ -11,7 +11,7 @@ export const ruleTreasuresEpicBank = {
   destination: "bank",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasures",
-  displayOrder: 62,
+  displayOrder: 63,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

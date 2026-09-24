@@ -11,7 +11,7 @@ export const ruleMasterWritsBank = {
   destination: "bank",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/master-writs",
-  displayOrder: 48,
+  displayOrder: 49,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

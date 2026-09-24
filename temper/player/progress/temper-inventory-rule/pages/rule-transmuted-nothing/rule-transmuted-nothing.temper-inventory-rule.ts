@@ -11,7 +11,7 @@ export const ruleTransmutedNothing = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/equipment",
-  displayOrder: 25,
+  displayOrder: 26,
   action: "temper-item-action/nothing",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

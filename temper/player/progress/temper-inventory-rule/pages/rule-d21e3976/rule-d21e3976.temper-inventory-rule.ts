@@ -11,7 +11,7 @@ export const ruleD21e3976 = {
   destination: "house-storage:4675",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/drink",
-  displayOrder: 16,
+  displayOrder: 17,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-01T12:11:49.762Z",

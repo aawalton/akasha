@@ -12,7 +12,7 @@ export const ruleFc1c9638 = {
   destination: "character:8796093022338107",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/recipes",
-  displayOrder: 70,
+  displayOrder: 71,
   action: "temper-item-action/list",
   active: true,
   updatedAt: "2026-06-02T20:49:37.020Z",

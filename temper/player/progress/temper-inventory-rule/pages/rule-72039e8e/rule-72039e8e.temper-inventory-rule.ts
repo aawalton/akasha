@@ -8,7 +8,7 @@ export const rule72039e8e = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/scrolls",
-  displayOrder: 32,
+  displayOrder: 33,
   action: "temper-item-action/fence-launder",
   active: true,
   updatedAt: "2026-06-01T22:02:01.494Z",

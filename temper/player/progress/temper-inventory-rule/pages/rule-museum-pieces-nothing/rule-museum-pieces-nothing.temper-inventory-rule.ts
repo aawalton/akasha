@@ -10,7 +10,7 @@ export const ruleMuseumPiecesNothing = {
   goal: "temper-rule-goal/task",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/museum-pieces",
-  displayOrder: 53,
+  displayOrder: 54,
   action: "temper-item-action/nothing",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

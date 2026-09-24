@@ -10,7 +10,7 @@ export const ruleQuestItemsNothing = {
   goal: "temper-rule-goal/task",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/quest-items",
-  displayOrder: 56,
+  displayOrder: 57,
   action: "temper-item-action/nothing",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

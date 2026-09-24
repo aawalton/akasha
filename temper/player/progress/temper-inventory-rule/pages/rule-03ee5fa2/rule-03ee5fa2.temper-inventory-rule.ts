@@ -8,7 +8,7 @@ export const rule03ee5fa2 = {
   destination: "house-storage:4680",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/knowledge-collectibles",
-  displayOrder: 30,
+  displayOrder: 31,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-01T12:53:34.875Z",

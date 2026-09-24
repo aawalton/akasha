@@ -10,7 +10,7 @@ export const ruleTrashSell = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/trash",
-  displayOrder: 66,
+  displayOrder: 67,
   action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

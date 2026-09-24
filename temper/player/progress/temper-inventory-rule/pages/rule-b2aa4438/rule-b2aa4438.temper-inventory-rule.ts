@@ -11,7 +11,7 @@ export const ruleB2aa4438 = {
   destination: "house-storage:4674",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/potions",
-  displayOrder: 21,
+  displayOrder: 22,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-01T12:18:15.323Z",

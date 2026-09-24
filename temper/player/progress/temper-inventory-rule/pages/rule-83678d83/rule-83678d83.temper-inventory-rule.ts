@@ -8,7 +8,7 @@ export const rule83678d83 = {
   conditions: "jsonl",
   stockScope: "any-character",
   accountPage: "temper-account/alanarre",
-  displayOrder: 84,
+  displayOrder: 16,
   action: "temper-item-action/stock",
   active: false,
   updatedAt: "2026-09-24T18:02:34.195Z",

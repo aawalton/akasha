@@ -11,7 +11,7 @@ export const ruleTasksStolen = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/tasks",
-  displayOrder: 46,
+  displayOrder: 47,
   action: "temper-item-action/fence-launder",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",
