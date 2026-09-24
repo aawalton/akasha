@@ -18,7 +18,7 @@ export const styles = {
       statement: "A path in a stylesheet is a specifier a bundler resolves rather than a place.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A change moving what such a specifier reaches repoints that specifier.",
     },
   ],
