@@ -4,6 +4,6 @@ export const anime = {
   id: "01a0673a-bc3a-7001-b382-d105cf5b01d6",
   type: "page-type/domain",
   slug: "anime",
-  definition: "the series and films Alan is working through",
+  definition: "animated stories from Asia",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "anime" }],
 } as const satisfies Domain
