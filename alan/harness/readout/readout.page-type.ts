@@ -151,8 +151,17 @@ export const readout = {
       statement: "A readout answering nothing keeps the reading it last took.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The label and the unit a tile draws for a readout are stated on the readout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every feed sends each readout's label, and the unit where one is stated, beside its reading.",
+    },
+    {
       decisionKind: "decision-kind/gap",
-      statement: "Everything a readout shows is stated on the readout.",
+      statement: "Every word a countdown draws for a readout is stated on the readout.",
     },
     {
       decisionKind: "decision-kind/departure",
