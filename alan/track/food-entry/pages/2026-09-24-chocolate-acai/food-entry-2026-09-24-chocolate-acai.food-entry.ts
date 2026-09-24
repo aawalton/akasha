@@ -7,5 +7,5 @@ export const foodEntry20260924ChocolateAcai = {
   title: "Chocolate Acai",
   happenedAt: "2026-09-24T20:33:24.223Z",
   plantGrams: 10,
-  estimatedCalories: 150,
+  estimatedCalories: 420,
 } as const satisfies FoodEntry
