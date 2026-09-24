@@ -127,7 +127,7 @@ export const inventoryRuleCalling = {
         "A category rule write lands as page files, since a category rule is a page already.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The rule store this module reads through is in akasha.",
     },
     {
