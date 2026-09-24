@@ -46,11 +46,11 @@ const GAME_ADDON = "ZO_Ingame"
 
 const PLAYER_ACTIVATED = "EVENT_PLAYER_ACTIVATED"
 
+const ADDON_LOADED = "EVENT_ADD_ON_LOADED"
+
 const FIRST_ACTIVATION = true
 
 const ACTIVATED = "IsPlayerActivated = function() return true end"
-
-const TEMPER_NAMES_UNSTUBBED = '__eso_leave_unstubbed("^Temper")'
 
 const PER_CHUNK = 40
 
@@ -206,10 +206,9 @@ async function loadAddon(
   built: string,
   addon: string,
   declaring: Declaring,
-  loaded: Set<string>
+  loaded: string[]
 ): Promise<void> {
-  if (loaded.has(addon)) return
-  loaded.add(addon)
+  if (loaded.includes(addon)) return
   const manifest = readFileSync(join(built, `${addon}.txt`), "utf8")
   for (const dependency of dependenciesIn(manifest)) {
     const beside = join(dirname(built), dependency)
@@ -217,6 +216,7 @@ async function loadAddon(
       await loadAddon(harness, beside, dependency, declaring, loaded)
     }
   }
+  if (loaded.includes(addon)) return
   for (const one of manifestEntries(manifest)) {
     const at = join(built, one.rel)
     if (!existsSync(at)) continue
@@ -225,6 +225,23 @@ async function loadAddon(
     else if (one.rel === `${addon}.lua`) await harness.loadBundle(text)
     else await harness.load(text, one.rel)
   }
+  loaded.push(addon)
+}
+
+async function raisedOrRefused(
+  harness: UiHarness,
+  refused: string[],
+  named: string,
+  event: string,
+  ...args: readonly unknown[]
+): Promise<void> {
+  try {
+    await harness.raise(event, ...args)
+  } catch (thrown) {
+    const why = (thrown instanceof Error ? thrown.message : String(thrown)).split("\n")[0]
+    refused.push(`${named}: ${why}`)
+  }
+  await settled(harness)
 }
 
 export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
@@ -275,31 +292,20 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
       }
       await declareDocument(harness, text, declaring)
     }
-    try {
-      await harness.raise("EVENT_ADD_ON_LOADED", GAME_ADDON)
-    } catch (thrown) {
-      const why = (thrown instanceof Error ? thrown.message : String(thrown)).split("\n")[0]
-      refused.push(`${GAME_ADDON} loaded: ${why}`)
+    await harness.load(ACCOUNT_WIDE)
+    const loaded: string[] = []
+    await loadAddon(harness, dirname(bundleAt), asked.addon, declaring, loaded)
+    for (const source of seeded) await harness.load(source)
+    await harness.load("return __ui_play_as()")
+    for (const addon of [GAME_ADDON, ...loaded]) {
+      await raisedOrRefused(harness, refused, `${addon} loaded`, ADDON_LOADED, addon)
     }
-    await settled(harness)
     for (const name of asked.shows) {
       await harness.load(`return __ui_show(${JSON.stringify(name)})`)
     }
     await settled(harness)
-    await harness.load(ACCOUNT_WIDE)
-    await harness.load(TEMPER_NAMES_UNSTUBBED)
-    await loadAddon(harness, dirname(bundleAt), asked.addon, declaring, new Set())
-    for (const source of seeded) await harness.load(source)
-    await harness.load("return __ui_play_as()")
-    await settled(harness)
     await harness.load(ACTIVATED)
-    try {
-      await harness.raise(PLAYER_ACTIVATED, FIRST_ACTIVATION)
-    } catch (thrown) {
-      const why = (thrown instanceof Error ? thrown.message : String(thrown)).split("\n")[0]
-      refused.push(`${PLAYER_ACTIVATED}: ${why}`)
-    }
-    await settled(harness)
+    await raisedOrRefused(harness, refused, PLAYER_ACTIVATED, PLAYER_ACTIVATED, FIRST_ACTIVATION)
     return { harness, builtAt: builtAtCommit(asked.root), templates, refused }
   } catch (thrown) {
     await harness.close()

@@ -41,8 +41,15 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The game's interface is announced loaded once its files have loaded, as the game does.",
+      statement: "The game's interface is announced loaded once every addon's files have loaded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A player's saved variables are loaded before the game's interface is announced.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each addon is announced loaded after that, in the order its files loaded.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -65,7 +72,8 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A window of the game's own that a caller names is shown before the addon.",
+      statement:
+        "A window of the game's own that a caller names is shown once every addon is loaded.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,10 +88,7 @@ export const uiStaging = {
       statement:
         "A dependency with no build beside the addon is passed over, as one not installed.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A Temper name nothing defines answers nothing, as it would in the game.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A document of the addon's builds its windows where it falls in that order.",
@@ -95,7 +100,7 @@ export const uiStaging = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "What was called for later runs once the game has loaded, once shown, and once the addon is up.",
+        "What was called for later runs after each announcement, once shown, and once activated.",
     },
     {
       decisionKind: "decision-kind/departure",
