@@ -370,7 +370,7 @@
       },
       {
         "id": "update-state",
-        "requirement": "Update display state (litrpg shape) — HUD pools, sheet, beat log with system windows for mechanical events."
+        "requirement": "Update display state (litrpg shape) — HUD pools, sheet."
       },
       {
         "id": "update-continuity",
@@ -386,8 +386,8 @@
       },
       {
         "id": "channel-separation",
-        "detail": "System beats MUST be {id, turn, type: system, title, lines?} — the renderer reads title+lines and ignores text (a text-only system beat renders as an EMPTY card); a missing turn stamp mints a spurious NEWEST divider. Narrative recap beats never enter the log — prose owns the story. Turns never end with a prompt line (\"What do you do?\" etc.) — the action bar IS the affordance; end on the fiction.",
-        "requirement": "Prose carries narrative ONLY — no bracketed system windows in turn text; all mechanics land as beat-log system cards. Prose may narrate the EXPERIENCE of a readout but never restates its text verbatim."
+        "detail": "Narrative recap beats never enter the log — prose owns the story. Turns never end with a prompt line (\"What do you do?\" etc.) — the action bar IS the affordance; end on the fiction.",
+        "requirement": "A System window is written into the turn's prose as a ::: block where it happens, per the WINDOW BLOCK band of doctrine:channel-separation; no beat-log system card is written. Prose may narrate the EXPERIENCE of a readout but never restates its text verbatim."
       },
       {
         "id": "state-sweep-notes",
