@@ -8,6 +8,10 @@ import {
 
 const KIND = "file-kind-domain"
 
+const PURPOSE = "file-purpose"
+
+const TESTS: ReadonlySet<string> = new Set(["test-ts", "test-tsx"])
+
 const SLUG = "slug"
 
 const PATTERNS = "namePatterns"
@@ -74,6 +78,18 @@ let kinds: Told | null = null
 function kindsHeld(): Told {
   kinds ??= toldBy(rootOf(HERE), KIND)
   return kinds
+}
+
+let purposes: Told | null = null
+
+function purposesHeld(): Told {
+  purposes ??= toldBy(rootOf(HERE), PURPOSE)
+  return purposes
+}
+
+export function testNamed(path: string): boolean {
+  const purpose = namedIn(purposesHeld(), posix.basename(path))
+  return purpose !== null && TESTS.has(purpose)
 }
 
 export function typeScripted(path: string): boolean {

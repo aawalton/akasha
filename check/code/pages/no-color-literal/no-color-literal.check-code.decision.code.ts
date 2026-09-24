@@ -4,6 +4,7 @@ import {
   PAGES,
   styleNamed,
 } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import { testNamed } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { heldPerShadow, type Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -85,7 +86,7 @@ export function judgedAt(passing: Passing, path: string): boolean {
   if (path.startsWith(passing.palette)) return false
   if (path.startsWith(passing.home)) return false
   const base = path.slice(path.lastIndexOf("/") + 1)
-  if (base.includes(".test.") || base.includes(".generated.")) return false
+  if (testNamed(base) || base.includes(".generated.")) return false
   return !path.split("/").includes(GENERATED)
 }
 

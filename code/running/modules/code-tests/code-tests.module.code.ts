@@ -1,5 +1,6 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
+import { testNamed } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { test as testFile } from "akasha/code/module/properties/test.code-file-property.ts"
 import {
   type Bodies,
@@ -24,11 +25,11 @@ import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.co
 
 const TS = ".ts"
 
-const TEST = "test"
+const TEST = testFile.propertySlug
 
 const CODE = "code"
 
-const HELD: readonly string[] = ["ts", "tsx"]
+const HELD: readonly string[] = testFile.extensions
 
 const SUFFIXES: readonly string[] = HELD.map((one) => `.${TEST}.${one}`)
 
@@ -127,10 +128,6 @@ export function alreadyRunning(): boolean {
 
 export function measuring(): boolean {
   return optionalEnv(MEASURING) === MARK
-}
-
-function testNamed(path: string): boolean {
-  return SUFFIXES.some((one) => path.endsWith(one))
 }
 
 function testsIn(absolute: string): readonly string[] {

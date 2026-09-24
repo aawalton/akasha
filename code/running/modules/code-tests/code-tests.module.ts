@@ -328,7 +328,11 @@ export const codeTests = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A test is written in `.ts` or in `.tsx`.",
+      statement: "A test file is a file whose name a test's file purpose matches.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The endings a test beside a page may take are read off the test property's page.",
     },
     {
       decisionKind: "decision-kind/departure",

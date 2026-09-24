@@ -1,3 +1,4 @@
+import { testNamed } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 import { sharedBuildFiles } from "akasha/code/ios-app/modules/shared-build-files/shared-build-files.module.code.ts"
 import { folderOf } from "akasha/code/path/modules/between/code-path-between.module.code.ts"
 import {
@@ -87,10 +88,8 @@ export function besideThe(tracked: readonly string[], pagePath: string): readonl
   return underFolder(tracked, folderOf(pagePath))
 }
 
-const TEST_HELD = ".test.ts"
-
 export function testWrittenForAPage(path: string): boolean {
-  return path.endsWith(TEST_HELD)
+  return testNamed(path)
 }
 
 export function carriedOver(

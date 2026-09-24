@@ -4,7 +4,7 @@ export const fileKind = {
   id: "01a06553-a9b6-77a7-a681-f8ecbf29a0b3",
   type: "page-type/module",
   slug: "file-kind",
-  definition: "the kind of file a path's own name says the file is",
+  definition: "the kind and the purpose of a file a path's own name says",
   code: "ts",
   decisions: [
     {
@@ -40,6 +40,14 @@ export const fileKind = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A name no pattern matches says no kind rather than a kind meaning unknown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The purposes are the file purpose pages the index names, read as the kinds are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path of the purpose `test-ts` or `test-tsx` is a test.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -1,11 +1,14 @@
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-class/no-class.check-code.audit.code.ts"}
+{"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-color-literal/no-color-literal.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/no-unused-exports/no-unused-exports.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/modules/audit-commit/audit-commit.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"check/modules/change-walking/change-walking.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"code/reading/modules/code-typing/code-typing.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"code/running/modules/code-format/code-format.module.code.ts"}
+{"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"code/running/modules/code-tests/code-tests.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"page/index/ast-hash/index-ast-hash.index.code.ts"}
 {"propertySlug":"parts","path":"code/body/code-body.domain.ts","id":"01a09b2c-cc50-7f0f-838d-abfa522d31e4"}
