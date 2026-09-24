@@ -6,4 +6,7 @@ export const astraRealtimePagesForWeb = {
   slug: "astra-realtime-pages-for-web",
   domain: "page-type/page",
   persona: "persona/astra",
+  intentStack: [
+    { statement: "A browser is pushed each change to a page or list it shows, and to no other." },
+  ],
 } as const satisfies Initiative
