@@ -28,7 +28,7 @@ function pageOfCode(at: string): string {
   return at.endsWith(CODE_ENDING) ? `${at.slice(0, -CODE_ENDING.length)}.ts` : at
 }
 
-const REPLACING: readonly string[] = ["startup", "clear", "compact"]
+const REPLACING: readonly string[] = ["startup", "clear", "compact", "fork"]
 
 export const KEPT_FOR = 24 * 60 * 60 * 1000
 
@@ -50,6 +50,11 @@ export const SCOPE: readonly string[] = [
   "and the bodies do not. A reading is of the bodies. One left behind would lock the agent out",
   "of the page it can no longer quote, which costs more than reading that page again. A page an",
   "agent must hold again is read with `--full`, which passes the record over.",
+  "",
+  "A FORK IS ONE OF THEM TOO. A fork may start from an earlier message than the end of the",
+  "transcript it forks, as `--fork-session` with `--resume-session-at` does, so the forked",
+  "session need not hold a body the record says it holds. The fork keeps the seat's",
+  `\`${NAMED}\`, so the session it came from loses its readings as well, and reads again.`,
   "",
   "WHAT IS TAKEN AWAY:",
   "  every reading in the file beside the page of the agent whose context went.",

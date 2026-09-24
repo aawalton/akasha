@@ -27,6 +27,15 @@ export const clearReadsOnContextReplaced = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A fork replaces the context.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A fork may start from an earlier message than the end of the transcript it forks.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A startup clears the record.",
     },
     {
@@ -36,6 +45,15 @@ export const clearReadsOnContextReplaced = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A compaction clears the record.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fork clears the forking agent's record.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The session a fork came from shares that agent's record, so that session reads again too.",
     },
     {
       decisionKind: "decision-kind/departure",

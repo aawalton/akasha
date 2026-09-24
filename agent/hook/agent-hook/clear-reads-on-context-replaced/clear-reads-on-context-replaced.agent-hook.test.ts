@@ -35,7 +35,7 @@ import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts
 
 const SCRIPT = join(import.meta.dir, "clear-reads-on-context-replaced.agent-hook.code.ts")
 
-const REPLACING: readonly string[] = ["startup", "clear", "compact"]
+const REPLACING: readonly string[] = ["startup", "clear", "compact", "fork"]
 
 const KEEPING: readonly string[] = ["resume", "", "other", "Startup", "compaction", "session"]
 
@@ -168,6 +168,13 @@ test("a resumed seat keeps its subagents' records too", () => {
   const root = seated()
   expect(took(cleared(root, ONE, "resume"))).toBe(false)
   for (const one of SEATED) expect(oidHeld(root, one)).toBe(one)
+})
+
+test("a fork takes the forking agent's record and no other agent's", () => {
+  const root = seated()
+  expect(took(cleared(root, ONE, "fork"))).toBe(true)
+  expect(oidHeld(root, ONE)).toBeNull()
+  for (const said of [...UNDER_ONE, TWO, UNDER_OTHER]) expect(oidHeld(root, said)).toBe(said)
 })
 
 test("another agent's readings remain through a source that clears nothing", () => {
