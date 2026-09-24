@@ -218,12 +218,17 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"code/type-declaration/properties/source-version.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"command/properties/command-max-wall-seconds.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"design/game/drive/properties/octalysis-number.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/max-cpu-millicores.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/min-cpu-millicores.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/min-memory-mb.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/cpu/limit/properties/cpu-share.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/cost.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/cpu-score.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/gpu-score.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/hdd.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/computer/properties/ssd.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/properties/unit-max-memory-mb.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/memory/limit/properties/kill-memory-mb.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/service/akasha-service/properties/cooldown-seconds.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/container-port.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/replicas.number-property.ts","typed":true,"deferred":false}

@@ -97,4 +97,5 @@ export const memoryLimit = {
       statement: "A memory ceiling too low raises the processor time the same run is judged by.",
     },
   ],
+  parts: ["number-property/kill-memory-mb"],
 } as const satisfies Domain

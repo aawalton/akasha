@@ -39,6 +39,7 @@ export const provisionedFile = {
     "provisioned-file/logind-idle-action",
     "provisioned-file/walton-realtime-priority",
     "text-property/masked-units",
+    "number-property/unit-max-memory-mb",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -50,6 +51,8 @@ export const provisionedFile = {
     { pageProperty: "module-property-group/filling", required: false, many: false },
     { pageProperty: "number-property/cpu-share", required: false, many: false },
     { pageProperty: "text-property/masked-units", required: false, many: true, maxCount: null },
+    { pageProperty: "number-property/kill-memory-mb", required: false, many: false },
+    { pageProperty: "number-property/unit-max-memory-mb", required: false, many: false },
   ],
   decisions: [
     {

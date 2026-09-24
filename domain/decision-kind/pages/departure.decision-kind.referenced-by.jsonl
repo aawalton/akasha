@@ -2664,6 +2664,9 @@
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env-value.text-property.ts","id":"01a0c68d-86eb-7607-8c2f-47b1f35b592c"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env.one-of-property.ts","id":"01a0c68d-ed1f-76c5-9578-efb260f5d56b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/manifest-code.code-file-property.ts","id":"01a06da1-b338-79a7-bbb9-a0ac5a5a7170"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/max-cpu-millicores.number-property.ts","id":"01a0d5a5-6667-7e8f-95cc-3b74b26568a6"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/min-cpu-millicores.number-property.ts","id":"01a0d5a5-6668-7886-a2e2-069f8b744207"}
+{"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/min-memory-mb.number-property.ts","id":"01a0d5a5-6668-7dea-a63c-dd5cc63900d4"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/secret-build-env.record-property.ts","id":"01a0c68d-cc69-78aa-9654-3b0eee768f10"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/manifest/properties/stated-build-env.record-property.ts","id":"01a0c68d-b3c4-7c67-859b-6fe33468563b"}
 {"propertySlug":"decision-kind","path":"infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.ts","id":"01a08d87-c786-760e-992f-c710e3d37ad9"}
@@ -2820,6 +2823,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-memory/tmux-scope-memory.provisioned-file.ts","id":"01a0b731-ec1a-7ecb-9116-b0acbb609736"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/tmux-scope-slice/tmux-scope-slice.provisioned-file.ts","id":"01a0927d-1cbd-780f-aff8-2bacc9b0c011"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/walton-realtime-priority/walton-realtime-priority.provisioned-file.ts","id":"01a0d463-e5c1-748a-89fe-3987418eb528"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/properties/unit-max-memory-mb.number-property.ts","id":"01a0d5a5-6668-7635-9c7e-ee047d406248"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioning.domain.ts","id":"01a06861-49aa-7cbb-bded-bbd1af45e1b4"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/scripts/akasha-launcher/akasha-launcher.shell-script.ts","id":"01a07352-c56d-7d59-981a-3d7fa93e062d"}
@@ -2833,6 +2837,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/memory/kind/pages/swap.memory-kind.ts","id":"01a09131-faa7-77ff-af26-eb9b9e2b59a6"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/kind/pages/virtual.memory-kind.ts","id":"01a09131-7243-719c-8edc-d76d9fb9b86b"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/limit/memory-limit.domain.ts","id":"01a09115-8c65-76a6-bdc1-cfddcc4acd88"}
+{"propertySlug":"decision-kind","path":"infrastructure/memory/limit/properties/kill-memory-mb.number-property.ts","id":"01a0d5a5-6668-718b-be30-fd774c599619"}
 {"propertySlug":"decision-kind","path":"infrastructure/memory/memory.domain.ts","id":"01a09115-c783-7db5-b3bb-5b8349b6b51d"}
 {"propertySlug":"decision-kind","path":"infrastructure/modules/calls/infrastructure-calls.module.ts","id":"01a0953e-1dc9-7000-bf51-cd67b1cd4894"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/auth-proxy/auth-proxy.domain.ts","id":"01a06864-a443-7933-9156-35c26aacdfcf"}

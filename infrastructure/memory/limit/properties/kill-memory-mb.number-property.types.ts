@@ -1,0 +1,1 @@
+export type KillMemoryMb = number

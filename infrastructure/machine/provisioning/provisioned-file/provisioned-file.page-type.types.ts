@@ -7,6 +7,8 @@ import type { MaskedUnits } from "akasha/infrastructure/machine/provisioning/pro
 import type { OnlyOn } from "akasha/infrastructure/machine/provisioning/provisioned-file/properties/only-on.select-property.types.ts"
 import type { PlacedBy } from "akasha/infrastructure/machine/provisioning/provisioned-file/properties/placed-by.select-property.types.ts"
 import type { ReloadWith } from "akasha/infrastructure/machine/provisioning/provisioned-file/properties/reload-with.text-property.types.ts"
+import type { UnitMaxMemoryMb } from "akasha/infrastructure/machine/provisioning/provisioned-file/properties/unit-max-memory-mb.number-property.types.ts"
+import type { KillMemoryMb } from "akasha/infrastructure/memory/limit/properties/kill-memory-mb.number-property.types.ts"
 
 export type ProvisionedFile = Domain & {
   content: Content
@@ -17,4 +19,6 @@ export type ProvisionedFile = Domain & {
   filling?: Filling
   cpuShare?: CpuShare
   maskedUnits?: MaskedUnits
+  killMemoryMb?: KillMemoryMb
+  maxMemoryMb?: UnitMaxMemoryMb
 }

@@ -18,6 +18,9 @@ export const manifest = {
     "record-property/stated-build-env",
     "text-property/build-env-name",
     "text-property/build-env-value",
+    "number-property/min-cpu-millicores",
+    "number-property/max-cpu-millicores",
+    "number-property/min-memory-mb",
   ],
   extends: ["page-type/domain"],
   allowsTmpPaths: true,
@@ -25,6 +28,10 @@ export const manifest = {
     { pageProperty: "code-file-property/manifest-code", required: true, many: false },
     { pageProperty: "build-folder-property/generated-directory", required: false, many: false },
     { pageProperty: "one-of-property/build-env", required: false, many: true, maxCount: null },
+    { pageProperty: "number-property/kill-memory-mb", required: false, many: false },
+    { pageProperty: "number-property/min-cpu-millicores", required: false, many: false },
+    { pageProperty: "number-property/max-cpu-millicores", required: false, many: false },
+    { pageProperty: "number-property/min-memory-mb", required: false, many: false },
   ],
   decisions: [
     {
