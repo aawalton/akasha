@@ -137,6 +137,7 @@ export const pageService = {
     "module/page-shaping",
     "module/page-writing",
     "module/pages-foldered",
+    "module/reads-keeping",
     "module/where-testing",
   ],
 } as const satisfies ServiceWorkstation

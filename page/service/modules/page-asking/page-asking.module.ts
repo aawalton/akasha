@@ -227,5 +227,9 @@ export const pageAsking = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An answer carries what each calculation worked out for it read, where any read.",
+    },
   ],
 } as const satisfies Module

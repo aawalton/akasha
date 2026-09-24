@@ -71,6 +71,10 @@ const ASKED_BY_NAME = "askedByName"
 
 const BESIDE_THE_PAGE: ReadonlySet<string> = new Set([COMPUTED, FILE_PROPERTY])
 
+export type Reads = ReadonlyMap<string, ReadonlySet<string>>
+
+const placedAt = new WeakMap<Computed, string>()
+
 export type Testing = (value: Value) => boolean
 
 export type Named = Map<string, ReadonlyMap<string, Value>>
@@ -158,14 +162,16 @@ function computedFor(root: string, carried: readonly Carried[]): readonly Comput
           }
         : loaded.work
     const reached = page === undefined ? null : slugAt(page.value, TARGET_PAGE_TYPE)
-    found.push({
+    const made: Computed = {
       slug: one.propertySlug,
       key: one.key,
       holds: page === undefined ? "" : (textAt(page.value, "holds") ?? ""),
       ...(reached === null ? {} : { reaches: { slug: reached, kinds: kindsUnder(reached, root) } }),
       ...(page?.value[ASKED_BY_NAME] === true ? { askedByName: true } : {}),
       work: held,
-    })
+    }
+    if (page !== undefined) placedAt.set(made, page.path)
+    found.push(made)
   }
   return found
 }
@@ -178,13 +184,16 @@ export type Counting = {
 export type Counted = {
   readonly rows: readonly Valued[]
   readonly dark: ReadonlyMap<string, string>
+  readonly read: Reads
 }
+
+type Placing = Reaching & { readonly pathAt: (said: string) => string | null }
 
 function reachingIn(
   root: string,
   own: ReadonlyMap<string, Subject>,
   named: ReadonlyMap<string, string>
-): Reaching {
+): Placing {
   const reading = readingIn(root)
   const carried = new Map<string, readonly Computed[]>()
   const valued = new Map<string, ReadonlyMap<string, Value>>()
@@ -241,12 +250,23 @@ function reachingIn(
       if (listed === null) continue
       const subject = filed(listed.path)
       if (subject === null) continue
-      found.push({ slug: textAt(subject.value, "slug") ?? listed.path, subject })
+      found.push({ slug: listed.path, subject })
     }
     return found
   }
 
-  return { subjectAt, namingAt, fileAt: fileOver(root) }
+  const pathAt = (said: string): string | null => {
+    if (own.has(said)) return said
+    const at = named.get(said)
+    if (at !== undefined) return at
+    if (partedIn(said) !== null) return said
+    const cut = said.indexOf(SLASH)
+    if (cut === -1) return null
+    const listed = listedAt(reading, said.slice(0, cut), said.slice(cut + 1))
+    return listed.length === 1 ? (listed[0]?.path ?? null) : null
+  }
+
+  return { subjectAt, namingAt, fileAt: fileOver(root), pathAt }
 }
 
 function runOf(at: string, from: number, upTo: number): Uint8Array {
@@ -276,7 +296,7 @@ export function computedOver(
   taken: readonly Valued[]
 ): Counted {
   if (counting.every((one) => one.computed.length === 0)) {
-    return { rows: taken, dark: new Map() }
+    return { rows: taken, dark: new Map(), read: new Map() }
   }
   const subjects = new Map<string, Subject>()
   const named = new Map<string, string>()
@@ -289,15 +309,30 @@ export function computedOver(
     const slug = textAt(one.row.value, "slug")
     if (slug !== null && !named.has(slug)) named.set(slug, one.row.path)
   }
-  const computing = computingOver(reachingIn(root, subjects, named))
+  const placing = reachingIn(root, subjects, named)
+  const computing = computingOver(placing)
+  const computedAt = new Map(counting.map((one) => [one.row.path, one.computed]))
   const dark = new Map<string, string>()
+  const read = new Map<string, Set<string>>()
   const rows = taken.map((one) => {
     const worked = computing.workedAt(one.path)
     if (worked === null) return one
     for (const [key, why] of worked.dark) if (!dark.has(key)) dark.set(key, why)
+    for (const property of computedAt.get(one.path) ?? []) {
+      const at = placedAt.get(property)
+      const reading = worked.read.get(property.key)
+      if (at === undefined || reading === undefined) continue
+      const into = read.get(at) ?? new Set<string>()
+      read.set(at, into)
+      for (const said of reading.pages) {
+        const path = placing.pathAt(said)
+        if (path !== null) into.add(path)
+      }
+      for (const file of reading.files) into.add(file)
+    }
     return { path: one.path, value: worked.value as Value }
   })
-  return { rows, dark }
+  return { rows, dark, read }
 }
 
 export function computedInto(root: string, counting: readonly Counting[]): Counted {

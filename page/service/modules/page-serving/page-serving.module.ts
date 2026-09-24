@@ -191,6 +191,10 @@ export const pageServing = {
       statement: "What a stream follows is handed in by POST at a path of its own.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "What the calculations an answer worked out read is kept before that answer goes.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here listens.",
     },

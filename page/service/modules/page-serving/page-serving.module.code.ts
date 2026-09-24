@@ -31,6 +31,7 @@ import type {
   Put,
   Writer,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import { keptReads } from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 
 export const ASK_AT = "/ask"
 
@@ -190,6 +191,7 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   if ("refused" in read) return said({ refused: read.refused }, 400)
   const answered = asking(given.root, read.query)
   if ("refused" in answered) return said({ refused: answered.refused }, 400)
+  if (answered.read !== undefined) keptReads(given.root, answered.read)
   const within = answeringWithin(read.query, answered, given.answeredAtMost)
   if ("refused" in within) return said({ refused: within.refused }, 400)
   return new Response(within.said, {

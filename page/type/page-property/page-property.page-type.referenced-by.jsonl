@@ -118,6 +118,8 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/service-workstation/properties/wants.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/service/akasha-service/web-app/properties/service-clusters.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/code-file-property/properties/fixed-export.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/computed-property/properties/read-files.text-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/computed-property/properties/read-folders.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/file-property/properties/extensions.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"}

@@ -274,6 +274,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/page-appending/page-appending.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/reads-keeping/reads-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}

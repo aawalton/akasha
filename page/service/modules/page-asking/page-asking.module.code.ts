@@ -16,6 +16,7 @@ import {
   computedInto,
   computedOver,
   gatheredFor,
+  type Reads,
   type Testing,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import {
@@ -45,7 +46,7 @@ export type Query = {
 export type Row = Readonly<Record<string, unknown>>
 
 export type Asked =
-  | { readonly rows: readonly Row[]; readonly n: number }
+  | { readonly rows: readonly Row[]; readonly n: number; readonly read?: Reads }
   | { readonly refused: string }
 
 export function askedFor(query: Query): readonly (readonly [string, string])[] {
@@ -148,8 +149,9 @@ function takenIn(query: Query, sorted: readonly Valued[]): readonly Valued[] {
   return limit === undefined ? sorted.slice(from) : sorted.slice(from, from + limit)
 }
 
-function answering(query: Query, taken: readonly Valued[], n: number): Asked {
-  return { rows: taken.map((one) => rowOf(one.value, query.keys)), n }
+function answering(query: Query, taken: readonly Valued[], n: number, read?: Reads): Asked {
+  const rows = taken.map((one) => rowOf(one.value, query.keys))
+  return read === undefined || read.size === 0 ? { rows, n } : { rows, n, read }
 }
 
 const ANSWERED_AT_MOST = 64_000_000
@@ -182,7 +184,7 @@ function countedFirst(root: string, query: Query, counting: readonly Counting[])
   if (darkened !== null) return { refused: darkened }
   const held = counted.rows.filter((one) => narrows(one.value, query.where))
   const sorted = orderedIn(query, held)
-  return answering(query, takenIn(query, sorted), sorted.length)
+  return answering(query, takenIn(query, sorted), sorted.length, counted.read)
 }
 
 function narrowedFirst(
@@ -199,7 +201,7 @@ function narrowedFirst(
   const counted = computedOver(root, counting, taken)
   const darkened = unlit(query, counted.dark)
   if (darkened !== null) return { refused: darkened }
-  return answering(query, counted.rows, sorted.length)
+  return answering(query, counted.rows, sorted.length, counted.read)
 }
 
 export function asking(root: string, query: Query): Asked {

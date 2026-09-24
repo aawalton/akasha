@@ -215,6 +215,32 @@ test("a calculation reaches a page of another page type by its page type and its
   expect(said.get("one")?.["loaded"]).toBe(360)
 })
 
+test("what a calculation read is answered under its computed property's page", () => {
+  const root = scratch.rootFor("akasha-kinds-")
+  worlded(root)
+  propertied(root, "number-property", "weight", { max: null })
+  typed(root, "lifter", [], [{ pagePropertySlug: WEIGHT_AT, required: false }])
+  calculated(
+    root,
+    "loaded",
+    "number",
+    'export function work(page, reach) { const one = reach.target("lifter/alan"); return one === null ? null : one.weight * (page.count ?? 0) }'
+  )
+  typed(
+    root,
+    "lifted",
+    ["held"],
+    [{ pagePropertySlug: "computed-property/loaded", required: false }]
+  )
+  const alan = filed(root, "lifter", "alan", { weight: 180 })
+  filed(root, "lifted", "one", { count: 2 })
+  const counted = computedInto(root, gatheredFor(root, "held", carriedFor(root, "held")))
+  const read = [...counted.read.entries()]
+  expect(read.length).toBe(1)
+  expect(read[0]?.[0]).toContain("loaded")
+  expect([...(read[0]?.[1] ?? [])]).toEqual([alan])
+})
+
 test("a calculation sums over every page naming the page being worked out", () => {
   const root = scratch.rootFor("akasha-kinds-")
   worlded(root)

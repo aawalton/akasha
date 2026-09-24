@@ -19,7 +19,12 @@ export const computedProperty = {
   slug: "computed-property",
   definition: "a page property a function works out from the page",
   extends: ["page-type/page-property"],
-  parts: ["boolean-property/asked-by-name", "select-property/holds"],
+  parts: [
+    "boolean-property/asked-by-name",
+    "select-property/holds",
+    "text-property/read-files",
+    "text-property/read-folders",
+  ],
   properties: [
     { pageProperty: "select-property/holds", required: true, many: false },
     { pageProperty: "code-file-property/code", required: true, many: false },
@@ -29,6 +34,20 @@ export const computedProperty = {
     { pageProperty: "relation-property/target-page-type", required: false, many: false },
     { pageProperty: "one-of-property/properties", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/asked-by-name", required: false, many: false },
+    {
+      pageProperty: "text-property/read-files",
+      required: false,
+      many: true,
+      maxCount: null,
+      uncommitted: true,
+    },
+    {
+      pageProperty: "text-property/read-folders",
+      required: false,
+      many: true,
+      maxCount: null,
+      uncommitted: true,
+    },
   ],
   decisions: [
     {
@@ -82,6 +101,15 @@ export const computedProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A file that is not there is answered as nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a calculation reads is kept on its computed property, outside the commit.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "A change to anything a computed property reads is a change to each page it is on.",
     },
     {
       decisionKind: "decision-kind/departure",

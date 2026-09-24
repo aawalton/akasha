@@ -2164,6 +2164,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/page-shaping/page-shaping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/page-writing/page-writing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/pages-foldered/pages-foldered.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/reads-keeping/reads-keeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/service/modules/where-testing/where-testing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/type/modules/declared-properties/declared-properties.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/type/modules/descent/page-type-descent.module.ts"}

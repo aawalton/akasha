@@ -142,6 +142,15 @@ export const kindsGathering = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The pages and files each calculation read are answered under its computed property's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page a calculation read is answered as the path that page is filed at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A file a calculation reaches is read off the disk, at a path from the root or whole.",
     },
     {
