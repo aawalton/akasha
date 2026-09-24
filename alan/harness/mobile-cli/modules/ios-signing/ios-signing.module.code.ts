@@ -25,8 +25,8 @@ const CONCURRENT_BUILD_MUTATION_REMEDIATION =
   "two `akasha deploy` builds raced on the shared mac checkout (Package.swift regenerated " +
   "mid-archive, or a shared DerivedData build.db hit a concurrent-access I/O error) — the " +
   "mac build mutex now serializes builds, so simply re-run: the retry runs alone under the " +
-  "lock. If it recurs, a prior build likely left a stale lock — check " +
-  "$HOME/.appstoreconnect/deploy-testflight.lock on the mac (a live-pid holder is a real " +
+  "lock. If it recurs, a prior build likely left a stale lock — check the lock the app's " +
+  "page names as its `mac-build-lock-dir` on the mac (a live-pid holder is a real " +
   "concurrent build; a dead-pid holder is auto-stolen) and confirm mac disk health."
 
 const ASC_PROFILE_REMEDIATION =
