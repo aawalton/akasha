@@ -203,17 +203,17 @@ test("a readout joining the group reaches the tile without this route changing",
   ANSWERED.readouts = [
     ...IN_THE_GROUP,
     {
-      slug: "upkeep-plants",
-      label: "Plants",
+      slug: "upkeep-steps",
+      label: "Steps",
       place: 4,
       scale: `${readoutScale.slug}/${safetyLevel.slug}`,
-      wireKey: "plants",
+      wireKey: "steps",
       groups: [GROUP_AT],
     },
   ]
   const stoplights = await drawn()
   expect(stoplights.length).toBe(5)
-  expect(stoplights.map((one) => one.habit)).toContain("plants")
+  expect(stoplights.map((one) => one.habit)).toContain("steps")
 })
 
 test("a readout the group does not name is left off the tile", async () => {
