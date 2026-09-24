@@ -10,8 +10,8 @@ export const rule83678d83 = {
   accountPage: "temper-account/alanarre",
   displayOrder: 16,
   action: "temper-item-action/stock",
-  active: false,
-  updatedAt: "2026-09-24T18:02:34.195Z",
+  active: true,
+  updatedAt: "2026-09-24T18:02:42.659Z",
   destinationChain: "jsonl",
   categoryId: "temper-item-category-tree/drink",
 } as const satisfies TemperInventoryRule
