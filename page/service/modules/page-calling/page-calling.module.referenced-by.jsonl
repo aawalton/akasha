@@ -38,8 +38,6 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/routes/claude-usage/claude-usage.route.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/web/routes/wallpaper/wallpaper.route.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"check/modules/audit-recording/audit-recording.module.code.ts"}
-{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/alan/picture/alan-picture.command.code.ts"}
-{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/alan/picture/alan-picture.command.test.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/deploy/deploy.command.test.ts"}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"}

@@ -11,7 +11,6 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/alan/elaine/alan-elaine.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.ts"}
-{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/alan/picture/alan-picture.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/alan/tracking/alan-tracking.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/audit/audit.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.ts"}
