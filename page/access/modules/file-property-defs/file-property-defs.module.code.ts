@@ -18,17 +18,18 @@ import { z } from "zod"
 
 const PAGE_TYPE = "page-type"
 
-const KEYED = "shape:"
+const SHAPES = "shapes"
 
 const asked = new Map<string, Promise<Shape | null>>()
 
-const followed = new Set<string>()
+let followed = false
 
 const following = createChangeFollowing({
   open: () => streamOver((signal) => eventsOpened(signal)),
   send: async (body) => (await followSent(body)).ok,
   pushed: (one) => {
-    for (const key of one.keys) if (key.startsWith(KEYED)) asked.delete(key.slice(KEYED.length))
+    if (one.slug === undefined) asked.clear()
+    else asked.delete(one.slug)
     return undefined
   },
   caughtUp: () => {
@@ -37,15 +38,11 @@ const following = createChangeFollowing({
   },
 })
 
-function followedOnce(pageTypeSlug: string): undefined {
-  if (typeof document !== "undefined" || followed.has(pageTypeSlug)) return undefined
-  followed.add(pageTypeSlug)
+function followedOnce(): undefined {
+  if (typeof document !== "undefined" || followed) return undefined
+  followed = true
   following.start()
-  return following.follow(`${KEYED}${pageTypeSlug}`, {
-    pageTypeSlug: PAGE_TYPE,
-    by: "slug",
-    values: [pageTypeSlug],
-  })
+  return following.follow(SHAPES, { pageTypeSlug: PAGE_TYPE })
 }
 
 async function read(pageTypeSlug: string): Promise<Shape | null> {
@@ -59,7 +56,7 @@ async function read(pageTypeSlug: string): Promise<Shape | null> {
 }
 
 export async function shapeAsked(pageTypeSlug: string): Promise<Shape | null> {
-  followedOnce(pageTypeSlug)
+  followedOnce()
   const asking = asked.get(pageTypeSlug)
   if (asking !== undefined) return asking
   const started = read(pageTypeSlug)

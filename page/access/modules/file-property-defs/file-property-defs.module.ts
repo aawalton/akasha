@@ -38,6 +38,15 @@ export const filePropertyDefs = {
       statement: "Only a server follows the page types whose shapes it holds.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A server follows every page type as one list rather than one page type at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change naming no page type drops every shape held.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "A browser drops a shape it holds when a change to that page type is pushed.",
     },
