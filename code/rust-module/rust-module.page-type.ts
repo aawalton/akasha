@@ -33,7 +33,7 @@ export const rustModule = {
       statement: "A page's slug is too widely unique to be the name Cargo reads.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every Rust module states the name Cargo reads.",
     },
   ],
