@@ -12,6 +12,9 @@ export const inboxesFindings = {
   scale: "readout-scale/daily-inbox",
   groups: ["readout-group/inboxes"],
   wireKey: "findings",
+  countedOn: "eso-day",
+  countedFrom: "number-property/inbox-findings",
+  countName: "finding count",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
