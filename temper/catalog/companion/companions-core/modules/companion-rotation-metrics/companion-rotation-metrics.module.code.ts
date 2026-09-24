@@ -49,8 +49,6 @@ export function computeDpsMetrics(
   build: CompanionState,
   cycleDuration: number
 ): readonly RotationMetricEntry[] {
-  if (rotation.dps <= 0 && rotation.hps <= 0) return []
-
   const entries: RotationMetricEntry[] = []
 
   let damageBuffMultiplier = 1
@@ -149,64 +147,31 @@ export function computeDpsMetrics(
   const rawDotDps = rotation.dotDamage / cycleDuration
   const buffedDirectDps = rawDirectDps * totalDpsMultiplier
   const buffedDotDps = rawDotDps * totalDpsMultiplier
-
-  if (buffedDirectDps > 0) {
-    entries.push({ metricId: "companion-dps-direct", value: buffedDirectDps })
-  }
-
-  if (buffedDotDps > 0) {
-    entries.push({ metricId: "companion-dps-dot", value: buffedDotDps })
-  }
-
   const buffedTotalDps = rotation.dps * totalDpsMultiplier
   const rawSingleTargetDps = rotation.singleTargetDamage / cycleDuration
   const buffedSingleTargetDps = rawSingleTargetDps * totalDpsMultiplier
   const targetCount = rotation.config.targetCount
 
-  if (buffedTotalDps > 0) {
-    entries.push({ metricId: "companion-dps-total", value: buffedTotalDps })
-  }
+  entries.push(
+    { metricId: "companion-dps-direct", value: buffedDirectDps },
+    { metricId: "companion-dps-dot", value: buffedDotDps },
+    { metricId: "companion-dps-total", value: buffedTotalDps },
+    { metricId: "companion-dps-single-target", value: buffedSingleTargetDps }
+  )
 
-  if (buffedSingleTargetDps > 0) {
-    entries.push({ metricId: "companion-dps-single-target", value: buffedSingleTargetDps })
-  }
-
-  if (targetCount > 1 && buffedTotalDps > 0) {
+  if (targetCount > 1) {
     entries.push({ metricId: "companion-dps-aoe", value: buffedTotalDps / targetCount })
   }
 
-  const directHps = rotation.directHealing / cycleDuration
-  const hotHps = rotation.hotHealing / cycleDuration
-
-  if (directHps > 0) {
-    entries.push({ metricId: "companion-hps-direct", value: directHps })
-  }
-
-  if (hotHps > 0) {
-    entries.push({ metricId: "companion-hps-hot", value: hotHps })
-  }
-
-  if (rotation.allySps > 0) {
-    entries.push({ metricId: "companion-hps-shield", value: rotation.allySps })
-  }
-
-  const hpsTotal = rotation.allyHps + rotation.allySps
-  if (hpsTotal > 0) {
-    entries.push({ metricId: "companion-hps-total", value: hpsTotal })
-  }
-
-  if (rotation.selfSps > 0) {
-    entries.push({ metricId: "companion-sps-self", value: rotation.selfSps })
-  }
-
-  if (rotation.allySps > 0) {
-    entries.push({ metricId: "companion-sps-ally", value: rotation.allySps })
-  }
-
-  const spsTotal = rotation.selfSps + rotation.allySps
-  if (spsTotal > 0) {
-    entries.push({ metricId: "companion-sps-total", value: spsTotal })
-  }
+  entries.push(
+    { metricId: "companion-hps-direct", value: rotation.directHealing / cycleDuration },
+    { metricId: "companion-hps-hot", value: rotation.hotHealing / cycleDuration },
+    { metricId: "companion-hps-shield", value: rotation.allySps },
+    { metricId: "companion-hps-total", value: rotation.allyHps + rotation.allySps },
+    { metricId: "companion-sps-self", value: rotation.selfSps },
+    { metricId: "companion-sps-ally", value: rotation.allySps },
+    { metricId: "companion-sps-total", value: rotation.selfSps + rotation.allySps }
+  )
 
   return entries
 }

@@ -17,6 +17,11 @@ export const companionStatsCalculatorImpl = {
       statement: "Formula metrics are evaluated in topological order of their metric references.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A rotation metric takes its value from the rotation rather than from its formula.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement: "Six rotation metric ids are held out of the display pass by a hardcoded set.",
     },

@@ -82,11 +82,6 @@ export function calculateCompanionStatsWithBaseline(
     (metric) => extractMetricReferences(metric.formula)
   )
 
-  for (const metric of sortedFormulaMetrics) {
-    const value = evaluateFormula(metric.formula, metricValues, sources)
-    metricValues.set(metric.id, value)
-  }
-
   const rotationMetricIds = new Set<CompanionMetricId>([
     "companion-dps-total",
     "companion-hps-total",
@@ -95,6 +90,12 @@ export function calculateCompanionStatsWithBaseline(
     "companion-support-score",
     "companion-score",
   ])
+
+  for (const metric of sortedFormulaMetrics) {
+    if (rotationMetricIds.has(metric.id)) continue
+    const value = evaluateFormula(metric.formula, metricValues, sources)
+    metricValues.set(metric.id, value)
+  }
 
   for (const metric of sortedFormulaMetrics) {
     if (rotationMetricIds.has(metric.id)) continue
@@ -138,7 +139,12 @@ export function calculateCompanionStatsWithBaseline(
   })
 
   const dpsEntries = computeDpsMetrics(rotation, metricValues, build, rotationConfig.cycleDuration)
-  mergeRotationMetrics(dpsEntries, metrics, metricValues)
+  for (const entry of dpsEntries) metricValues.set(entry.metricId, entry.value)
+  mergeRotationMetrics(
+    dpsEntries.filter((entry) => entry.value > 0),
+    metrics,
+    metricValues
+  )
 
   const tpsEntries = computeTpsMetrics(rotation, metricValues)
   mergeRotationMetrics(tpsEntries, metrics, metricValues)
@@ -151,7 +157,11 @@ export function calculateCompanionStatsWithBaseline(
 
   const targetCount = build.target.targetCount ?? 1
   if (build.companion.baseRoles.includes("dps") && targetCount > 1) {
-    metricValues.set("companion-dps-total", metricValues.get("companion-dps-aoe") ?? 0)
+    const aoeDps = metricValues.get("companion-dps-aoe")
+    if (aoeDps === undefined) {
+      throw new Error("companion-dps-aoe has no value for a build hitting more than one target")
+    }
+    metricValues.set("companion-dps-total", aoeDps)
   }
 
   const scoreMetric = companionMetrics.data["companion-score"]

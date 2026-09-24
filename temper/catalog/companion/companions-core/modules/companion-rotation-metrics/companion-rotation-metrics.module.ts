@@ -17,6 +17,11 @@ export const companionRotationMetrics = {
       statement: "The light-attack skill id is skipped in both the dps and the tps pass.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every dps, hps and sps metric worked out from a rotation is stated, a zero included.",
+    },
+    {
       decisionKind: "decision-kind/gap",
       statement:
         "A missing metric value falls back to a hardcoded two thousand or thirty thousand.",
