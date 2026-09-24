@@ -17,13 +17,19 @@ const SOURCE_URL = "https://plus.thegreatcourses.com/allprograms"
 const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 
+const STYLE_BLOCK = /<style\b[^>]*>[\s\S]*?<\/style\s*>/gi
+
+function withoutStyleBlocks(html: string): string {
+  return html.replace(STYLE_BLOCK, "")
+}
+
 async function fetchHtml(url: string): Promise<JSDOM> {
   const response = await fetch(url, { headers: { "User-Agent": USER_AGENT } })
   if (!response.ok) {
     throw new Error(`Failed to fetch ${url}: ${response.status} ${response.statusText}`)
   }
   const landed = response.url === "" ? url : response.url
-  const html = await response.text()
+  const html = withoutStyleBlocks(await response.text())
   const virtualConsole = new VirtualConsole()
   virtualConsole.on("error", () => {})
   virtualConsole.on("warn", () => {})

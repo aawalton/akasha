@@ -20,5 +20,13 @@ export const catalogue = {
       decisionKind: "decision-kind/departure",
       statement: "A course is identified by the last segment of its own URL.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The listing's style blocks are taken out before the listing is parsed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What is read off the listing is its elements, so its styling is read by nothing.",
+    },
   ],
 } as const satisfies Module
