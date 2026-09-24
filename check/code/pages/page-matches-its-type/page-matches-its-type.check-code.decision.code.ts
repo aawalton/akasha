@@ -28,7 +28,7 @@ const PAGE_TYPE = "page-type"
 const NOTHING: ReadonlySet<string> = new Set()
 
 export const STATES_NO_PAGE_TYPE =
-  "states no `page-type-slug`, and what a page carries is read from the page type it states"
+  "states no `type`, and what a page carries is read from the page type it states"
 
 function pagesHeldOver(index: Answering): Answering {
   const held = new Map<string, Value | null>()
@@ -70,7 +70,7 @@ function reasonsAt(
   const { over, carriedBy, formatting, beside } = judging
   const value = valueIn(text)
   if (value === null) return []
-  const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
+  const pageTypeSlug = slugAt(value, "type")
   if (pageTypeSlug === null) return [STATES_NO_PAGE_TYPE]
   const declared = carriedBy(pageTypeSlug)
   if (declared.length === 0) return []

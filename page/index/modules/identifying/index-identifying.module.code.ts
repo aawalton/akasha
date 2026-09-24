@@ -43,7 +43,7 @@ export function identifiedIn(
 ): Identified | null {
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
-  const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
+  const pageTypeSlug = slugAt(value, "type")
   if (id === null || slug === null || pageTypeSlug === null) return null
   const stated: Stated[] = []
   for (const [propertySlug, one] of identifying(pageTypeSlug)) {

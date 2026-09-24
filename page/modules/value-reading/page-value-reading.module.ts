@@ -23,10 +23,7 @@ export const pageValueReading = {
       decisionKind: "decision-kind/departure",
       statement: "Such a list is read here for the pages of one page type alone where asked.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Which page type a value is, is read here under either key a value states it as.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
