@@ -35,7 +35,7 @@ export interface SignedInSession {
   readonly teardown: () => Promise<void>
 }
 
-type Cookie = Parameters<BrowserContext["addCookies"]>[0][number]
+export type Cookie = Parameters<BrowserContext["addCookies"]>[0][number]
 
 type SameSite = "Strict" | "Lax" | "None"
 
@@ -183,7 +183,7 @@ async function cookiesLanded(peripheral: Peripheral, code: string): Promise<read
   return held
 }
 
-async function cookiesFor(origin: string): Promise<readonly Cookie[]> {
+export async function signedInCookies(origin: string): Promise<readonly Cookie[]> {
   const root = rootIn(process.env, process.cwd())
   const contributor = contributorSigningIn()
   const peripheral = peripheralAt(origin)
@@ -198,7 +198,7 @@ async function cookiesFor(origin: string): Promise<readonly Cookie[]> {
 }
 
 export async function createSignedInSession(origin: string): Promise<SignedInSession> {
-  const cookies = await cookiesFor(origin)
+  const cookies = await signedInCookies(origin)
 
   const browser = await chromium.launch({
     headless: true,

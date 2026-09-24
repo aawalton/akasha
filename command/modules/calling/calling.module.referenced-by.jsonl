@@ -57,6 +57,7 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/audit/audit.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts"}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/browser/sign-in/browser-sign-in.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.code.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.test.ts"}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/change/apply/change-apply.command.code.ts"}
