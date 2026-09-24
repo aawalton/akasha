@@ -16,7 +16,6 @@ export const temperCharacter = {
     "page-type/temper-character-thing",
     "page-type/temper-companion-progress",
     "page-type/temper-mine",
-    "page-type/temper-player",
     "page-type/temper-skill-bar",
     "page-type/temper-skill-point",
     "page-type/temper-weapon-bar",

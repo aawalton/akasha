@@ -7,7 +7,6 @@
 {"propertySlug":"extends-type","path":"temper/player/character/temper-build-version/temper-build-version.page-type.ts","id":"019dbb6c-51c0-7b3c-b483-0a739f32d9fb"}
 {"propertySlug":"extends-type","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.ts","id":"01a05fcd-f54b-7497-b549-b7f8ef55b323"}
 {"propertySlug":"extends-type","path":"temper/player/character/temper-mine/temper-mine.page-type.ts","id":"01a05fcd-f557-7231-b2a4-ecded061b740"}
-{"propertySlug":"extends-type","path":"temper/player/character/temper-player/temper-player.page-type.ts","id":"01a05fcd-f558-7259-93c1-1504762aa59c"}
 {"propertySlug":"extends-type","path":"temper/player/character/temper-skill-bar/temper-skill-bar.page-type.ts","id":"01a05fcd-f558-70b6-8f78-cec3aed405a1"}
 {"propertySlug":"extends-type","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.ts","id":"01a05fcd-f559-75c5-bd78-0041c552d484"}
 {"propertySlug":"extends-type","path":"temper/player/character/temper-weapon-bar/temper-weapon-bar.page-type.ts","id":"01a05fcd-f559-7417-aa6b-791718b82ebc"}
@@ -20,7 +19,6 @@
 {"propertySlug":"import","fileName":"temper-character-thing.page-type.types.ts","path":"temper/player/character/temper-build-version/temper-build-version.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-character-thing.page-type.types.ts","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-character-thing.page-type.types.ts","path":"temper/player/character/temper-mine/temper-mine.page-type.types.ts"}
-{"propertySlug":"import","fileName":"temper-character-thing.page-type.types.ts","path":"temper/player/character/temper-player/temper-player.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-character-thing.page-type.types.ts","path":"temper/player/character/temper-skill-bar/temper-skill-bar.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-character-thing.page-type.types.ts","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.types.ts"}
 {"propertySlug":"import","fileName":"temper-character-thing.page-type.types.ts","path":"temper/player/character/temper-weapon-bar/temper-weapon-bar.page-type.types.ts"}

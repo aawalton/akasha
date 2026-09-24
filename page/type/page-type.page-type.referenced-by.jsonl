@@ -675,7 +675,6 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-build-version/temper-build-version.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-mine/temper-mine.page-type.ts"}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-player/temper-player.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-skill-bar/temper-skill-bar.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-weapon-bar/temper-weapon-bar.page-type.ts"}
