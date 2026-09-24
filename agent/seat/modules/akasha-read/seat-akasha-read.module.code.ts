@@ -32,7 +32,7 @@ function saidAsText(held: unknown): string | null {
 const STATED: Readonly<Record<string, string>> = {
   id: "id",
   slug: "slug",
-  "page-type-slug": "pageTypeSlug",
+  "page-type-slug": "type",
   "persona-slug": "persona",
   "domain-slug": "assignmentSlug",
   "role-slug": "role",
@@ -51,14 +51,10 @@ const TITLE = "title"
 
 const SLUG = "slug"
 
-const PAGE_TYPE = "type"
-
-const WAS_PAGE_TYPE = "pageTypeSlug"
-
 export function underOldKeys(held: Record<string, unknown>): Record<string, unknown> {
   const values: Record<string, unknown> = {}
   for (const [key, from] of Object.entries(STATED)) {
-    const said = from === WAS_PAGE_TYPE ? (held[PAGE_TYPE] ?? held[from]) : held[from]
+    const said = held[from]
     if (said === undefined || said === null || said === "") continue
     values[key] = typeof said === "string" && BARED.includes(key) ? slugOf(said) : said
   }
