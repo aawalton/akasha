@@ -54,6 +54,7 @@ import {
   toldNothing,
 } from "akasha/command/pages/music/capture/music-capture.command.test-fixtures.ts"
 import { statesVersionSeven } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
+import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
 test("a track Spotify names no id for is read as no play", () => {
   expect(providerTrackIn({ id: null, name: "One" })).toBe(null)
@@ -228,6 +229,7 @@ test("an append keeps every byte already there and adds a line for each row", ()
 })
 
 test("what is filed is read off Alan's own listens and heard tracks", () => {
+  expect(valueAt(`${FILED_DAY}.ts`, ROOT)).not.toHaveProperty("listens")
   const filed = filedIn(ROOT)
   if ("refused" in filed) throw new Error(`what is filed went unread — ${filed.refused}`)
   expect(filed.heardPage).toBe(ledgerPage())

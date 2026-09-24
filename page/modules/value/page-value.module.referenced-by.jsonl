@@ -53,6 +53,7 @@
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/change/repeat/change-repeat.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/model-account/disable/model-account-disable.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/model-account/re-enable/model-account-re-enable.command.code.ts"}
+{"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/music/capture/music-capture.command.test.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/music/next/music-next.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
 {"propertySlug":"import","fileName":"page-value.module.code.ts","path":"command/pages/request/modules/reaching/request-reaching.module.code.ts"}
