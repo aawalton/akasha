@@ -1,17 +1,17 @@
-import { finalizeInteractiveExit } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
-import type { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
-import { buildLoopState } from "akasha/agent/seat/supervisor/supervisor-loop/modules/state/supervisor-loop-state.module.code.ts"
 import {
   acquireIterationChild,
   assembleIterationProcess,
   openIteration,
-} from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"
-import type { RunInteractiveSeams } from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"
+import type { RunInteractiveSeams } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.code.ts"
 import {
   settleIterationExit,
   wireIteration,
-} from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
-import { dispatchPostExitOutcome } from "akasha/agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"
+import { dispatchPostExitOutcome } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-iteration-outcome/supervisor-iteration-outcome.module.code.ts"
+import { buildLoopState } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-loop-state/supervisor-loop-state.module.code.ts"
+import { finalizeInteractiveExit } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
+import type { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import type { SeatResume } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
 import { decideBootResume } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
 import {

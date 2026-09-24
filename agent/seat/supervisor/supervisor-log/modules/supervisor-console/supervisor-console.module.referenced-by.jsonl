@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/model/gateway/modules/gateway-entry/gateway-entry.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.test.ts"}
-{"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor/supervisor.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-console.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-terminal/supervisor-terminal.module.code.ts"}

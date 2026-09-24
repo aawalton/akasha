@@ -2,11 +2,11 @@
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-cleanup/supervisor-agent-cleanup.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-iteration/supervisor-interactive-iteration.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive/supervisor-interactive.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor/supervisor.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/procs/supervisor-shutdown-procs.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-state.module.code.ts","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"}

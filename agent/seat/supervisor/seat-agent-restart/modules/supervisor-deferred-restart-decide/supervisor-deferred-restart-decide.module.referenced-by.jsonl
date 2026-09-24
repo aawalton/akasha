@@ -1,8 +1,8 @@
 {"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-deferred-restart-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-restart/seat-agent-restart.domain.ts","id":"01a09c71-bd3a-7e1d-80f8-17fd6319d823"}

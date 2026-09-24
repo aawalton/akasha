@@ -1,8 +1,8 @@
+{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-exit-decide/supervisor-child-exit-decide.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-wire/supervisor-interactive-wire.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-child-exit-decide.module.code.ts","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-types/supervisor-types.module.code.ts"}

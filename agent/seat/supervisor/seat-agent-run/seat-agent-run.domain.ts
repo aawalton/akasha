@@ -1,9 +1,9 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 
-export const supervisorLoop = {
+export const seatAgentRun = {
   id: "01a09c67-78aa-706e-8909-443bee147ea1",
   type: "page-type/domain",
-  slug: "supervisor-loop",
+  slug: "seat-agent-run",
   definition: "a seat's run as repeated children, one child at a time",
   parts: [
     "module/supervisor-interactive",
