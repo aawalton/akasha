@@ -244,16 +244,15 @@ test("a listen appended to a day already filed keeps every row that day held", (
   expect(now.split("\n").length).toBe(was.split("\n").length + 1)
 })
 
-test("a day page a run would leave as it is is not written again", () => {
-  const paths = pathsOf(changesOver("2026-08-21T12:00:00.000Z"))
-  expect(paths).not.toContain(`${FILED_DAY}.ts`)
-  expect(paths).toContain(`${FILED_DAY}.listens.jsonl`)
-})
-
-test("a day page gaining its listens keeps every property that day held", () => {
-  const page = bodyAt(changesOver("2026-09-02T12:00:00.000Z"), `${PROBE_DAY}.ts`)
-  expect(page).toContain('listens: "jsonl"')
-  expect(page).toContain('sessions: "jsonl"')
+test("a run writes no day page and only appends listens beside it", () => {
+  for (const [at, day] of [
+    ["2026-08-21T12:00:00.000Z", FILED_DAY],
+    ["2026-09-02T12:00:00.000Z", PROBE_DAY],
+  ] as const) {
+    const paths = pathsOf(changesOver(at))
+    expect(paths).not.toContain(`${day}.ts`)
+    expect(paths).toContain(`${day}.listens.jsonl`)
+  }
 })
 
 test("a heard track appended keeps every track the ledger already named", () => {
@@ -262,10 +261,10 @@ test("a heard track appended keeps every track the ledger already named", () => 
   expect(now.startsWith(readFileSync(join(ROOT, beside), "utf8"))).toBe(true)
 })
 
-test("a listen lands beside the page the day it names already has", () => {
-  const paths = pathsOf(changesOver("2026-09-02T12:00:00.000Z"))
-  expect(paths).toContain(`${PROBE_DAY}.ts`)
-  expect(paths).toContain(`${PROBE_DAY}.listens.jsonl`)
+test("a listen starting a day's rows hands in no body it read", () => {
+  expect(oldAt(changesOver("2026-09-02T12:00:00.000Z"), `${PROBE_DAY}.listens.jsonl`)).toBe(
+    undefined
+  )
 })
 
 test("a day with no page of its own is refused rather than given one", () => {
@@ -373,13 +372,6 @@ test("a run that wrote twice names both in order", async () => {
 test("an append hands in the body on disk it was composed against", () => {
   const at = `${FILED_DAY}.listens.jsonl`
   const changes = changesOver("2026-08-21T12:00:00.000Z")
-
-  expect(oldAt(changes, at)).toBe(readFileSync(join(ROOT, at), "utf8"))
-})
-
-test("a day page composed from the values that day holds hands in the body on disk", () => {
-  const at = `${PROBE_DAY}.ts`
-  const changes = changesOver("2026-09-02T12:00:00.000Z")
 
   expect(oldAt(changes, at)).toBe(readFileSync(join(ROOT, at), "utf8"))
 })

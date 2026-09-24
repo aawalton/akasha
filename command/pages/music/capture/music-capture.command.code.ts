@@ -42,12 +42,12 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { entriesAt } from "akasha/page/modules/entries/page-entries.module.code.ts"
+import { filed } from "akasha/page/modules/file-body/page-file-body.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   textIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 
 const DAY = "day"
 
@@ -268,7 +268,8 @@ export function filedIn(root: string): Filed | { readonly refused: string } {
   const playKeys = new Set<string>()
   let newestPlayedAt: string | null = null
   for (const day of valuesOfType(root, DAY)) {
-    if (day.value[LISTENS] !== JSONL) continue
+    const beside = besideAt(day.path, LISTENS, JSONL)
+    if (beside === null || !filed(root, beside)) continue
     const held = entriesAt(root, day.path, LISTENS, JSONL)
     if ("refused" in held) return held
     for (const one of held.entries) {
@@ -299,25 +300,25 @@ function bodied(path: string, text: string, old?: string): Asked {
 
 function appendedBeside(
   root: string,
-  filed: string,
+  pagePath: string,
   propertySlug: string,
   rows: readonly Value[]
 ): Asked | { readonly refused: string } {
-  const at = besideAt(filed, propertySlug, JSONL)
+  const at = besideAt(pagePath, propertySlug, JSONL)
   if (at === null) {
     return {
-      refused: `'${filed}' is no page file, so its \`${propertySlug}\` has no name beside it`,
+      refused: `'${pagePath}' is no page file, so its \`${propertySlug}\` has no name beside it`,
     }
   }
   const was = textAt(join(root, at))
   return bodied(at, appendedOnto(was, rows), was ?? undefined)
 }
 
-function dayValuesIn(root: string): ReadonlyMap<string, Value> {
-  const held = new Map<string, Value>()
+function dayPagesIn(root: string): ReadonlyMap<string, string> {
+  const held = new Map<string, string>()
   for (const one of valuesOfType(root, DAY)) {
     const slug = textIn(one.value, "slug")
-    if (slug !== null) held.set(slug, one.value)
+    if (slug !== null) held.set(slug, one.path)
   }
   return held
 }
@@ -337,22 +338,11 @@ export function changesFor(
     if ("refused" in edit) return edit
     changes.push(edit)
   }
-  const days = dayValuesIn(root)
+  const days = dayPagesIn(root)
   for (const day of [...planned.listens.keys()].sort()) {
-    const slug = `${DAY}-${day}`
-    const was = days.get(slug)
-    if (was === undefined) return { refused: unfiled(day) }
-    const composed = composedFor(root, {
-      pageTypeSlug: DAY,
-      slug,
-      values: { ...was, [LISTENS]: JSONL },
-    })
-    if ("refused" in composed) return composed
-    const held = textAt(join(root, composed.put.path))
-    if (held !== composed.put.content) {
-      changes.push(bodied(composed.put.path, composed.put.content, held ?? undefined))
-    }
-    const edit = appendedBeside(root, composed.put.path, LISTENS, planned.listens.get(day) ?? [])
+    const dayPage = days.get(`${DAY}-${day}`)
+    if (dayPage === undefined) return { refused: unfiled(day) }
+    const edit = appendedBeside(root, dayPage, LISTENS, planned.listens.get(day) ?? [])
     if ("refused" in edit) return edit
     changes.push(edit)
   }
@@ -403,14 +393,14 @@ async function captured(
   const read = takenFor(argv, given.calledAs, page, [json])
   if ("refused" in read) return refusedBy(read.refused)
   const held = read.taken
-  const filed = filedIn(given.root)
-  if ("refused" in filed) return refused(filed.refused, DATA)
-  const played = await plays(askingFor(filed.ledger))
-  const planned = plannedOver(played.items, filed.ledger)
+  const found = filedIn(given.root)
+  if ("refused" in found) return refused(found.refused, DATA)
+  const played = await plays(askingFor(found.ledger))
+  const planned = plannedOver(played.items, found.ledger)
   if (planned.recorded === 0) {
     return told(held.json ? [jsonOf(planned)] : [...rowsOf(planned), NOTHING_NEW])
   }
-  const changes = changesFor(given.root, filed.heardPage, planned)
+  const changes = changesFor(given.root, found.heardPage, planned)
   if ("refused" in changes) return refused(changes.refused, DATA)
   const landed = await landing(given.root, changes, messageFor(planned), { done })
   const wrote = "refusals" in landed ? [] : landed.landed.map((one) => `wrote ${one}`)

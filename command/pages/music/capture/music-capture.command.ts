@@ -82,11 +82,7 @@ export const musicCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A day page written again hands in the body its values were composed from.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A day page a run would leave as it is is not written again.",
+      statement: "A run writes no day page and only appends listens beside it.",
     },
     {
       decisionKind: "decision-kind/constraint",

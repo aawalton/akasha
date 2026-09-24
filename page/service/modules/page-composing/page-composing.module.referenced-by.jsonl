@@ -20,7 +20,6 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/game/settle/game-settle.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/game/unpack/game-unpack.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"}
-{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/capture/music-capture.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/heard-tracks/music-heard-tracks.command.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
