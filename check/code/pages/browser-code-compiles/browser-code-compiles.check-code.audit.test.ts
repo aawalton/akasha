@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { routerAppCompiles } from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.audit.code.ts"
+import { browserCodeCompiles } from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.audit.code.ts"
 import { appStaged } from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.test-fixtures.ts"
 import {
   BREAKS,
@@ -18,7 +18,7 @@ const WAITS = 60_000
 test(
   "an audit compiles every router app and refuses nothing where each compiles",
   async () => {
-    expect(await routerAppCompiles(tracked(appStaged()))).toEqual([])
+    expect(await browserCodeCompiles(tracked(appStaged()))).toEqual([])
   },
   WAITS
 )
@@ -26,7 +26,7 @@ test(
 test(
   "an audit refuses a route that does not compile in its router app",
   async () => {
-    const said = await routerAppCompiles(tracked(appStaged({ [ROUTE_AT]: BREAKS })))
+    const said = await browserCodeCompiles(tracked(appStaged({ [ROUTE_AT]: BREAKS })))
     expect(said.map((one) => one.path)).toEqual([ROUTE_AT])
   },
   WAITS

@@ -8,7 +8,7 @@ import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts
 import { placingOver } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
 import { routerApp } from "akasha/code/router-app/router-app.page-type.ts"
 
-export async function routerAppCompiles(root: string): Promise<readonly Judged[]> {
+export async function browserCodeCompiles(root: string): Promise<readonly Judged[]> {
   const commit = commitIn(root)
   const index = commit.index
   const apps = appsAmong(index.everyOfType(routerApp.slug).map((one) => one.path))

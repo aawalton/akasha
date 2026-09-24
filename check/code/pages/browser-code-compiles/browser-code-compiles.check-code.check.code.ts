@@ -68,4 +68,4 @@ async function refusalsOver(given: Change, shadow: Shadow): Promise<readonly Jud
   return [...apps, ...browser]
 }
 
-export const routerAppCompiles = inputAsync(TAKEN, refusalsOver)
+export const browserCodeCompiles = inputAsync(TAKEN, refusalsOver)
