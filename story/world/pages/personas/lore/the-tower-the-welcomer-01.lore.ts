@@ -9,12 +9,9 @@ export const theTowerTheWelcomer01 = {
   about: "character-other/the-tower-the-welcomer-01",
   loreDisclosure: "lore-disclosure/game-master",
   facts: [
-    "The Welcomer is a slight, cold predator wearing a kind climber's face.",
-    "The Welcomer wears a face its prey wants to trust.",
-    "The Welcomer's kind face is a woven image, so a blow at it lands on light.",
-    "The Welcomer offers aid and rest, and strikes from arm's reach once it is trusted.",
-    "Real flame throws a heat-warped shadow off the Welcomer's true body; its glamour's is cold.",
-    "Shown for what it is, the Welcomer's true cold form is frail and unarmoured.",
-    "The Welcomer strikes when its aid is taken, when someone moves deeper, or when it is shown up.",
+    "The Welcomer that hunted the Hall of Welcome is dead, snuffed out by fire.",
+    "The Welcomer's kind are slight, cold predators that kill from arm's reach.",
+    "The true cold form of the Welcomer's kind is frail and unarmoured.",
+    "With the haven dead, the Welcomer's kind have no woven face to wear.",
   ],
 } as const satisfies Lore
