@@ -1,5 +1,5 @@
 import { posix } from "node:path"
-import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { rootIn } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   textAt,
@@ -76,14 +76,14 @@ const HERE = import.meta.dir
 let kinds: Told | null = null
 
 function kindsHeld(): Told {
-  kinds ??= toldBy(rootOf(HERE), KIND)
+  kinds ??= toldBy(rootIn(process.env, HERE), KIND)
   return kinds
 }
 
 let purposes: Told | null = null
 
 function purposesHeld(): Told {
-  purposes ??= toldBy(rootOf(HERE), PURPOSE)
+  purposes ??= toldBy(rootIn(process.env, HERE), PURPOSE)
   return purposes
 }
 

@@ -22,7 +22,8 @@ export const fileKind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The kinds are read from the checkout this code sits in, once in a process.",
+      statement:
+        "The kinds are read once in a process, from the checkout AKASHA_ROOT names or this code's own.",
     },
     {
       decisionKind: "decision-kind/departure",
