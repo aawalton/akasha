@@ -20,7 +20,12 @@ export const routeTypegen = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That folder links every file of the tree but the app's files the change has.",
+      statement: "That folder links every file the tree lists but the app's files the change has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change's tree is listed through the shadow, and an audit's is what git carries.",
     },
     {
       decisionKind: "decision-kind/departure",

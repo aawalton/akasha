@@ -1,16 +1,19 @@
 import { afterAll, expect, test } from "bun:test"
-import { existsSync } from "node:fs"
+import { existsSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { typegenOf } from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.code.ts"
+import {
+  typegenOf,
+  typesUnder,
+} from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.code.ts"
 import {
   ADDED_AT,
   ADDED_BREAKS,
   APP,
-  laidOver,
   scratch,
   TABLE_ADDING,
   TABLE_AT,
   TABLE_UNREAD,
+  treeOver,
   written,
 } from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
 
@@ -22,16 +25,22 @@ const ONE_TYPES = "routes/one/+types/one.route.code.ts"
 
 const TWO_TYPES = "routes/two/+types/two.route.code.ts"
 
+const UNLISTED_AT = "held/unlisted.ts"
+
 test(
-  "route types are written outside the tree, and the tree is left as it was",
+  "route types are written outside the tree, from only the files the tree lists",
   () => {
     const root = written()
-    const made = typegenOf(root, APP, [], laidOver(root, {}))
+    writeFileSync(join(root, UNLISTED_AT), "export const unlisted = 1\n")
+    const made = typegenOf(treeOver(root, {}), APP)
+    const into = made.types.slice(0, -typesUnder(APP).length)
     try {
       expect(made.failed).toBeNull()
       expect(made.types.startsWith(`${root}/`)).toBe(false)
       expect(existsSync(join(made.types, ONE_TYPES))).toBe(true)
       expect(existsSync(join(root, APP, ".react-router"))).toBe(false)
+      expect(existsSync(join(into, TABLE_AT))).toBe(true)
+      expect(existsSync(join(into, UNLISTED_AT))).toBe(false)
     } finally {
       made.sweep()
     }
@@ -45,7 +54,7 @@ test(
   () => {
     const root = written()
     const over = { [TABLE_AT]: TABLE_ADDING, [ADDED_AT]: ADDED_BREAKS }
-    const made = typegenOf(root, APP, Object.keys(over), laidOver(root, over))
+    const made = typegenOf(treeOver(root, over), APP)
     try {
       expect(made.failed).toBeNull()
       expect(existsSync(join(made.types, TWO_TYPES))).toBe(true)
@@ -62,7 +71,7 @@ test(
   () => {
     const root = written()
     const over = { [TABLE_AT]: TABLE_UNREAD }
-    const made = typegenOf(root, APP, Object.keys(over), laidOver(root, over))
+    const made = typegenOf(treeOver(root, over), APP)
     try {
       expect(made.failed).not.toBeNull()
       expect(made.failed ?? "").not.toContain("akasha-route-typegen-")

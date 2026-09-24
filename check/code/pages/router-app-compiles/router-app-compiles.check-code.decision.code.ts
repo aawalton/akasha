@@ -300,7 +300,7 @@ export async function judgedFor(apps: readonly string[], lay: Laying): Promise<r
   try {
     for (const app of apps) {
       if (lay.read(join(app, compileConfig.fileName)) === null) continue
-      const one = typegenOf(lay.root, app, lay.changed, lay.laid)
+      const one = typegenOf(lay, app)
       made.push(one)
       if (one.failed === null) {
         generated.push({ app, types: one.types })

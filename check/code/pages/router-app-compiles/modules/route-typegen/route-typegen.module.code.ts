@@ -7,14 +7,12 @@ import {
   symlinkSync,
   writeFileSync,
 } from "node:fs"
-import { dirname, join } from "node:path"
+import { basename, dirname, join } from "node:path"
 import { routeTypesDirectory } from "akasha/code/router-app/properties/route-types-directory.build-folder-property.ts"
 import { endingOf, ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { SCRATCH_AT } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
 const PREFIX = "akasha-route-typegen-"
-
-const GIT = ".git"
 
 const TYPES = "types"
 
@@ -56,24 +54,48 @@ function foldersOf(app: string, own: readonly string[]): ReadonlySet<string> {
   return held
 }
 
-function namesAt(root: string, folder: string): readonly string[] {
-  const at = join(root, folder)
-  return existsSync(at) ? readdirSync(at).sort() : []
+function namesIn(paths: readonly string[]): ReadonlyMap<string, readonly string[]> {
+  const held = new Map<string, Set<string>>()
+  for (const one of paths) {
+    let at = one
+    while (at !== HERE && at !== TOP) {
+      const up = dirname(at)
+      const above = up === HERE ? TOP : up
+      const kept = held.get(above)
+      if (kept === undefined) held.set(above, new Set<string>([basename(at)]))
+      else if (kept.has(basename(at))) break
+      else kept.add(basename(at))
+      at = above
+    }
+  }
+  return new Map([...held].map(([at, names]) => [at, [...names].sort()]))
 }
 
-function linked(
-  root: string,
-  into: string,
-  folder: string,
-  folders: ReadonlySet<string>,
-  left: ReadonlySet<string>
-): undefined {
-  mkdirSync(join(into, folder), { recursive: true })
-  for (const name of namesAt(root, folder)) {
+type Linking = {
+  readonly root: string
+  readonly into: string
+  readonly names: ReadonlyMap<string, readonly string[]>
+  readonly folders: ReadonlySet<string>
+  readonly left: ReadonlySet<string>
+}
+
+function linked(linking: Linking, folder: string): undefined {
+  mkdirSync(join(linking.into, folder), { recursive: true })
+  for (const name of linking.names.get(folder) ?? []) {
     const path = folder === TOP ? name : `${folder}/${name}`
-    if (path === GIT || left.has(path)) continue
-    if (folders.has(path)) linked(root, into, path, folders, left)
-    else symlinkSync(join(root, path), join(into, path))
+    if (linking.left.has(path)) continue
+    if (linking.folders.has(path)) linked(linking, path)
+    else symlinkSync(join(linking.root, path), join(linking.into, path))
+  }
+}
+
+function vendored(linking: Linking): undefined {
+  const at = join(linking.root, PACKAGES)
+  if (!existsSync(at)) return
+  mkdirSync(join(linking.into, PACKAGES), { recursive: true })
+  for (const name of readdirSync(at).sort()) {
+    const path = join(PACKAGES, name)
+    if (!linking.left.has(path)) symlinkSync(join(at, name), join(linking.into, path))
   }
 }
 
@@ -86,22 +108,27 @@ function written(into: string, own: readonly string[], laid: Laid): undefined {
   }
 }
 
-export function typegenOf(
-  root: string,
-  app: string,
-  changed: readonly string[],
-  laid: Laid
-): Typegen {
+export type Tree = {
+  readonly root: string
+  readonly paths: readonly string[]
+  readonly changed: readonly string[]
+  readonly laid: Laid
+}
+
+export function typegenOf(tree: Tree, app: string): Typegen {
+  const root = tree.root
   const into = mkdtempSync(join(SCRATCH_AT, PREFIX))
   const sweep = (): undefined => {
     rmSync(into, { recursive: true, force: true })
   }
   try {
-    const own = changed.filter((one) => one.startsWith(`${app}/`))
-    const left = new Set([...own, join(app, routeTypesDirectory.folderName), BUNDLED])
-    const folders = new Set([...foldersOf(app, own), PACKAGES])
-    linked(root, into, TOP, folders, left)
-    written(into, own, laid)
+    const own = tree.changed.filter((one) => one.startsWith(`${app}/`))
+    const left = new Set([...own, join(app, routeTypesDirectory.folderName), PACKAGES, BUNDLED])
+    const folders = foldersOf(app, own)
+    const linking = { root, into, names: namesIn(tree.paths), folders, left }
+    linked(linking, TOP)
+    vendored(linking)
+    written(into, own, tree.laid)
     const done = ran([join(root, RUNNER), TYPEGEN], { cwd: join(into, app), timeout: WAITED })
     const said = `${endingOf(done.code, done.signal)} — ${done.err.trim()}`
     const failed = done.code === 0 ? null : said.replaceAll(into, root)

@@ -1,6 +1,9 @@
 import { existsSync, mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Laid } from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.code.ts"
+import type {
+  Laid,
+  Tree,
+} from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 
@@ -107,4 +110,13 @@ export function laidOver(root: string, over: Readonly<Record<string, string | nu
     const at = join(root, path)
     return existsSync(at) ? readFileSync(at) : null
   }
+}
+
+export function treeOver(root: string, over: Readonly<Record<string, string | null>>): Tree {
+  const paths = new Set<string>(Object.keys(APP_FILES))
+  for (const [at, body] of Object.entries(over)) {
+    if (body === null) paths.delete(at)
+    else paths.add(at)
+  }
+  return { root, paths: [...paths].sort(), changed: Object.keys(over), laid: laidOver(root, over) }
 }
