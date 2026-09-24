@@ -26,6 +26,7 @@ export const host = {
     "text-property/login-user",
     "text-property/key-path",
     "text-property/host-home",
+    "text-property/conda-script",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -33,6 +34,7 @@ export const host = {
     { pageProperty: "text-property/login-user", required: false, many: false },
     { pageProperty: "text-property/key-path", required: false, many: false },
     { pageProperty: "text-property/host-home", required: false, many: false },
+    { pageProperty: "text-property/conda-script", required: false, many: false },
   ],
   decisions: [
     {

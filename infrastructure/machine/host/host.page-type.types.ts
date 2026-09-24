@@ -1,4 +1,5 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+import type { CondaScript } from "akasha/infrastructure/machine/host/properties/conda-script.text-property.types.ts"
 import type { HostAddress } from "akasha/infrastructure/machine/host/properties/host-address.text-property.types.ts"
 import type { HostHome } from "akasha/infrastructure/machine/host/properties/host-home.text-property.types.ts"
 import type { KeyPath } from "akasha/infrastructure/machine/host/properties/key-path.text-property.types.ts"
@@ -11,4 +12,5 @@ export type Host = Domain & {
   loginUser?: LoginUser
   keyPath?: KeyPath
   home?: HostHome
+  condaScript?: CondaScript
 }

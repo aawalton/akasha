@@ -10,6 +10,7 @@ export const macbook = {
   loginUser: "walton",
   keyPath: "~/.ssh/id_ed25519",
   home: "/Users/walton",
+  condaScript: "/opt/homebrew/Caskroom/miniforge/base/etc/profile.d/conda.sh",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

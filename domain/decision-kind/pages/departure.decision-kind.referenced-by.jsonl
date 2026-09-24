@@ -2805,6 +2805,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/machine/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/host/modules/hosts-entering/hosts-entering.module.ts","id":"01a0c97f-c3e5-7a4f-a97f-73954818b58a"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/host/pages/macbook.host.ts","id":"01a06590-e94f-7756-9d6b-824b7b6c9549"}
+{"propertySlug":"decision-kind","path":"infrastructure/machine/host/properties/conda-script.text-property.ts","id":"01a0d5a0-bb51-78fd-a57b-609654f351d7"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/host/properties/key-path.text-property.ts","id":"01a0d59f-36dc-7516-a519-93195d0c3092"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/background-slice-share/background-slice-share.provisioned-file.ts","id":"01a0930e-6612-7563-a508-b6695086c8cb"}
 {"propertySlug":"decision-kind","path":"infrastructure/machine/provisioning/provisioned-file/pages/kde-power-profile/kde-power-profile.provisioned-file.ts","id":"01a0d389-f516-7750-9d77-3f9f8a2ca27c"}
