@@ -58,5 +58,4 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/service-workstations/wandering-inn-sync/wandering-inn-sync.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"temper/economy/trading/pricing/service-workstations/ttc-client/ttc-client.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"temper/watcher/temper-watcher.service-workstation.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-web-app-reads-a-page-type-shape-from-the-workstation-page-service.finding.ts","id":"01a0c60e-c783-712f-af09-0d1068447fe1"}
 {"propertySlug":"parts","path":"infrastructure/service/service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
