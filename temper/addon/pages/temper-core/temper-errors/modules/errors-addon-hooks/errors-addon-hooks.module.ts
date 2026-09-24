@@ -4,7 +4,7 @@ export const errorsAddonHooks = {
   id: "01a060d8-091a-7436-a0ac-00c5553d0e0b",
   type: "page-type/module",
   slug: "errors-addon-hooks",
-  definition: "listening for the game's Lua error and low memory announcements",
+  definition: "listening for the game's Lua error announcements",
   code: "ts",
   decisions: [
     {
@@ -22,6 +22,10 @@ export const errorsAddonHooks = {
     {
       decisionKind: "decision-kind/constraint",
       statement: "The game announces a Lua error to every listener registered for that event.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game has no event announcing that Lua is low on memory.",
     },
   ],
 } as const satisfies Module

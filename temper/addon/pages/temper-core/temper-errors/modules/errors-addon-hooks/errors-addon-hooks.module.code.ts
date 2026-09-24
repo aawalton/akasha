@@ -6,9 +6,7 @@ import { captureError } from "akasha/temper/addon/pages/temper-core/temper-error
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const PRE_INIT_LUA_ERROR_NS = `${ADDON_NAME}_PreInitLuaError`
-const PRE_INIT_LOW_MEMORY_NS = `${ADDON_NAME}_PreInitLowMemory`
 const LIVE_LUA_ERROR_NS = `${ADDON_NAME}_LuaError`
-const LIVE_LOW_MEMORY_NS = `${ADDON_NAME}_LowMemory`
 
 interface BufferedRaw {
   eventCode: number
@@ -38,12 +36,10 @@ function captureOne(
 
 export function registerPreInitHooks(): undefined {
   EVENT_MANAGER.RegisterForEvent(PRE_INIT_LUA_ERROR_NS, EVENT_LUA_ERROR, bufferOne)
-  EVENT_MANAGER.RegisterForEvent(PRE_INIT_LOW_MEMORY_NS, EVENT_LUA_LOW_MEMORY, bufferOne)
 }
 
 export function unregisterPreInitHooks(): undefined {
   EVENT_MANAGER.UnregisterForEvent(PRE_INIT_LUA_ERROR_NS, EVENT_LUA_ERROR)
-  EVENT_MANAGER.UnregisterForEvent(PRE_INIT_LOW_MEMORY_NS, EVENT_LUA_LOW_MEMORY)
 }
 
 export function flushBuffered(): undefined {
@@ -55,5 +51,4 @@ export function flushBuffered(): undefined {
 
 export function registerErrorHooks(): undefined {
   EVENT_MANAGER.RegisterForEvent(LIVE_LUA_ERROR_NS, EVENT_LUA_ERROR, captureOne)
-  EVENT_MANAGER.RegisterForEvent(LIVE_LOW_MEMORY_NS, EVENT_LUA_LOW_MEMORY, captureOne)
 }

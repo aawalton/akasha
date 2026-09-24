@@ -23,5 +23,5 @@ interface EventManager {
 
 declare const EVENT_MANAGER: EventManager
 declare const EVENT_QUEST_CONDITION_UPDATE: number
-declare const EVENT_LUA_LOW_MEMORY: number
+
 declare const EVENT_ACTION_SLOTS_FULL_UPDATE: number
