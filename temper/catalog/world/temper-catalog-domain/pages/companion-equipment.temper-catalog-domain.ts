@@ -8,7 +8,7 @@ export const companionEquipment = {
   icon: "file-text",
   apiVersion: "eso.live.12.0.8.3288357",
   manifestApiVersion: 101050,
-  capturedAt: "2026-09-24T20:12:36.218Z",
+  capturedAt: "2026-09-24T22:10:58.069Z",
   generatorRanForVersion: "eso.live.11.3.6.3240040",
   generatorRanForManifestApiVersion: 101049,
   dormant: true,
