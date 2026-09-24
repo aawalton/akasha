@@ -12,13 +12,13 @@ import {
 import type { SubmitPlayerAction } from "akasha/story/ui/modules/system-choice-card/system-choice-card.module.code.tsx"
 import { Fragment, useMemo } from "react"
 
-const PLAY_IS_OVER = "This play is over, so nothing sent here reaches the game."
+const NO_GAME_MASTER = "No game master is listening to this game, so nothing sent here reaches it."
 
 const TURN_LINK =
   "font-mono text-tertiary text-xs underline-offset-2 hover:text-accent hover:underline"
 
 const refusePlayerAction: SubmitPlayerAction = () =>
-  Promise.resolve({ ok: false, error: PLAY_IS_OVER })
+  Promise.resolve({ ok: false, error: NO_GAME_MASTER })
 
 export function PlayedChannel({
   turns,
@@ -27,7 +27,9 @@ export function PlayedChannel({
   titles,
   pastTurns,
   gameExternalId,
+  submitPlayerAction,
 }: PanelRun) {
+  const submit = submitPlayerAction ?? refusePlayerAction
   const rows = useMemo(() => {
     const options: ProseRenderOptions = {
       ...(titles === undefined ? {} : { titles }),
@@ -50,7 +52,7 @@ export function PlayedChannel({
               showTitle={row.showTitle}
               muted={row.muted}
               gameExternalId={gameExternalId}
-              submitPlayerAction={refusePlayerAction}
+              submitPlayerAction={submit}
               signedOutNotice={null}
             />
             {href === undefined || !row.showTitle ? null : (
@@ -66,7 +68,7 @@ export function PlayedChannel({
           beats={beats}
           marksNewest={false}
           gameExternalId={gameExternalId}
-          submitPlayerAction={refusePlayerAction}
+          submitPlayerAction={submit}
           signedOutNotice={null}
         />
       )}

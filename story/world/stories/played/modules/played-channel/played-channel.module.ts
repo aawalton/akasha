@@ -34,7 +34,11 @@ export const playedChannel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A choice confirmed here is refused, because the play these turns are of is over.",
+      statement: "A choice confirmed here reaches the game master where the game names one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A choice confirmed here is refused where the game names no game master.",
     },
     {
       decisionKind: "decision-kind/absence",

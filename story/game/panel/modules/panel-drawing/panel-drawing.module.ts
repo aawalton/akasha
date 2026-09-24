@@ -23,5 +23,10 @@ export const panelDrawing = {
       decisionKind: "decision-kind/departure",
       statement: "What a panel is handed is the state of the game and the run of the story.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A panel is handed what sends the game a choice, where the game has a game master.",
+    },
   ],
 } as const satisfies Module

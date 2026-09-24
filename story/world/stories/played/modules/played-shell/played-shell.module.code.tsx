@@ -26,6 +26,7 @@ import { gameTurn } from "akasha/story/game/turn/game-turn.page-type.ts"
 import { stateOf } from "akasha/story/game/turn/modules/turn-state/turn-state.module.code.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
 import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
+import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import { useGameBeside } from "akasha/story/world/stories/played/modules/game-beside/game-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
@@ -180,8 +181,9 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
       titles: runIsTurns ? TURN_TITLES : modules.chapterProse?.titles,
       pastTurns: modules.chapterProse?.pastTurns,
       gameExternalId: externalId,
+      submitPlayerAction: coordinatorAgent === undefined ? undefined : sendAction,
     }),
-    [envelope, modules, hrefById, tail, externalId, runIsTurns]
+    [envelope, modules, hrefById, tail, externalId, runIsTurns, coordinatorAgent]
   )
 
   if (chapters.isLoading || turns.isLoading || gameTurns.isLoading) return null
