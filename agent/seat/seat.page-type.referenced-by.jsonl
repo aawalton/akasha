@@ -15,7 +15,6 @@
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/olwen/olwen.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/ryn/ryn.seat.ts"}
 {"propertySlug":"import","fileName":"seat.page-type.types.ts","path":"agent/seat/pages/thea/thea.seat.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/the-no-page-refusal-reads-two-index-entries-and-asserts-more-than-it-read.finding.ts","id":"01a09635-8758-7ba1-be72-bdf7c15420bf"}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/athena-interactive-seat-pages.initiative.ts","id":"01a0d3df-f4af-7a95-9f4c-1225394968c2"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
 {"propertySlug":"target-page-type","path":"agent/message/properties/agent-message-to.relation-property.ts","id":"01a06818-107b-7000-9af9-d98a9e34ceed"}
