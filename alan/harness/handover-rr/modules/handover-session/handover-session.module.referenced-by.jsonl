@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"infrastructure/network/auth-proxy/modules/proxy-reading/proxy-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"product/archive-of-worlds/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"}
+{"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"product/smilingjenny/web/routes/_app-layout.tsx"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/.server/answer-ask/answer-ask.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts"}
 {"propertySlug":"import","fileName":"handover-session.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}

@@ -18,12 +18,13 @@ export const meta: Route.MetaFunction = () => [
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useDocumentNonce()
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         <Meta />
         <Links />
+        <script src="/sidebar-boot.js" nonce={nonce} suppressHydrationWarning />
       </head>
       <body className="font-sans antialiased">
         <SurfaceProvider level={0} background={false}>

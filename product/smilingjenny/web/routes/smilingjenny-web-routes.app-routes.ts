@@ -5,6 +5,7 @@ export const smilingjennyWebRoutes = {
   type: "page-type/app-routes",
   slug: "smilingjenny-web-routes",
   definition: "the routes Jenny's site serves",
+  appLayout: "tsx",
   parts: [
     "route/jenny-api-errors",
     "route/jenny-api-health",

@@ -1,5 +1,8 @@
+import {
+  PageLayout,
+  PageTitle,
+} from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { requireJenny } from "akasha/product/smilingjenny/web/.server/jenny-session/jenny-session.module.code.ts"
-import { Shell } from "akasha/product/smilingjenny/web/modules/jenny-shell/jenny-shell.module.code.tsx"
 import { data } from "react-router"
 
 export async function loader({ request }: { request: Request }) {
@@ -9,11 +12,16 @@ export async function loader({ request }: { request: Request }) {
 
 export default function Home() {
   return (
-    <Shell title="Signed in">
-      <p className="text-base text-secondary">
-        This site carries the sign-in the tiles are placed behind, and the readings those tiles
-        draw. There is nothing else on it to look at.
-      </p>
-    </Shell>
+    <PageLayout>
+      <PageLayout.Header>
+        <PageTitle>Signed in</PageTitle>
+      </PageLayout.Header>
+      <PageLayout.Content>
+        <p className="text-base text-secondary">
+          This site carries the sign-in the tiles are placed behind, and the readings those tiles
+          draw. There is nothing else on it to look at.
+        </p>
+      </PageLayout.Content>
+    </PageLayout>
   )
 }

@@ -1724,6 +1724,7 @@
 {"propertySlug":"decision-kind","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.ts","id":"01a0c4f6-195d-79ef-8c03-3aa9a4c2c2a3"}
 {"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/movement/movement.module.ts","id":"01a0ba9a-9aa0-7d5a-a08f-4fd31546c134"}
 {"propertySlug":"decision-kind","path":"product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.ts","id":"01a0ba94-259d-76eb-abb6-1b5550909276"}
+{"propertySlug":"decision-kind","path":"product/smilingjenny/web/modules/jenny-app-shell/jenny-app-shell.module.ts","id":"01a06558-c2cc-700a-89e3-27c5e622acc4"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/wandering-inn-wiki.domain.ts","id":"01a0b79b-285f-7808-bb33-c1a4368acf58"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.ts","id":"01a0c5ec-1abc-79c2-a38d-b2db427f7588"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-app-shell/innworld-app-shell.module.ts","id":"01a0c65b-6a5f-75c7-91b0-1543f3362467"}

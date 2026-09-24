@@ -2480,10 +2480,10 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/kofi/stripe/modules/verify-stripe-signature/verify-stripe-signature.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/.server/jenny-ring-credential/jenny-ring-credential.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/.server/jenny-session/jenny-session.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-app-shell/jenny-app-shell.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-capacitor-bridge/jenny-capacitor-bridge.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-push-registration-sync/jenny-push-registration-sync.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-shell/jenny-shell.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-app-shell/innworld-app-shell.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.ts"}
