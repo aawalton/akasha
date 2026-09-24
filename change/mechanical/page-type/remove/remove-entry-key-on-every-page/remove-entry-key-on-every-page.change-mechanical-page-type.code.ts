@@ -11,8 +11,11 @@ import {
 } from "akasha/change/modules/entry-rewriting/entry-rewriting.module.code.ts"
 import { keysGoingInEntries } from "akasha/change/modules/json-entries/json-entries.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { z } from "zod"
 
 const LINE = "\n"
+
+const ENTRY = z.record(z.string(), z.unknown())
 
 export type Asked = EntryAsked & {
   readonly field: string
@@ -22,7 +25,9 @@ export type Asked = EntryAsked & {
 function unkeptIn(at: string, text: string, field: string, kept: string): string | null {
   for (const line of text.split(LINE)) {
     if (line.trim() === "") continue
-    const entry = JSON.parse(line) as Readonly<Record<string, unknown>>
+    const read = ENTRY.safeParse(JSON.parse(line))
+    if (!read.success) continue
+    const entry = read.data
     if (!(field in entry)) continue
     if (JSON.stringify(entry[kept]) === JSON.stringify(entry[field])) continue
     return `\`${at}\` has an entry whose \`${kept}\` does not hold the \`${field}\` it states`

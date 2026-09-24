@@ -13,6 +13,7 @@ import {
 } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const COMPUTED = "computed-property"
 
@@ -27,7 +28,11 @@ const SLUG = "slug"
 const WORK_FROM =
   /import type \{[^}]*\} from "akasha\/page\/computed-property\/computed-property\.page-type\.ts"/
 
-const WORKED = /export const work: Work<\s*([\w]+)\s*,\s*([^<>]+?)\s*>/d
+const WORKED = /export const work: Work<\s*([\w]+)\s*,\s*([^<>]+?)\s*>/
+
+const WORKED_SAID = z.tuple([z.string(), z.string(), z.string()])
+
+const DRAWN_SAID = z.tuple([z.string()])
 
 export type Asked = {
   readonly under?: string
@@ -41,12 +46,11 @@ type Worked = {
 }
 
 function workedIn(text: string): Worked | null {
-  const found = WORKED.exec(text)
-  if (found === null) return null
-  const held = found[2]
-  const span = found.indices?.[2]
-  if (held === undefined || span === undefined) return null
-  return { from: span[0] - found.index, held, said: found[0], upto: span[1] - found.index }
+  const found = WORKED_SAID.safeParse(WORKED.exec(text))
+  if (!found.success) return null
+  const [said, , held] = found.data
+  const from = said.lastIndexOf(held)
+  return { from, held, said, upto: from + held.length }
 }
 
 function calculationsIn(world: World, under: string | undefined): readonly string[] {
@@ -76,8 +80,9 @@ function editsFor(world: World, at: string): readonly FileChange[] | string | nu
   if (worked === null) return `\`${code}\` exports no calculation this change reads`
   const named = typedAs(slug)
   if (worked.held === named) return null
-  const drawn = WORK_FROM.exec(text)
-  if (drawn === null) return `\`${code}\` takes the calculation shape from nowhere`
+  const drawnSaid = DRAWN_SAID.safeParse(WORK_FROM.exec(text))
+  if (!drawnSaid.success) return `\`${code}\` takes the calculation shape from nowhere`
+  const drawn = drawnSaid.data
   return [
     {
       kind: "replace",

@@ -9,6 +9,7 @@ import {
   refusalOf,
   worldOf,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 
 const AT = "held/one.page-type.ts"
 
@@ -60,8 +61,8 @@ test("text that parses as no record is refused before the body is read", () => {
 
 test("that refusal shows one record rather than describing the form", () => {
   const said = addPropertyRecord(worldOf({}), { at: AT, key: KEY, record: "argument: onto" })
-  const shown = /`(\{[^`]*\})`/.exec(String(refusalOf(said)))?.[1]
-  expect(shown === undefined ? null : recordIn(shown)).not.toBe(null)
+  const shown = firstCapture(/`(\{[^`]*\})`/.exec(String(refusalOf(said))))
+  expect(shown === null ? null : recordIn(shown)).not.toBe(null)
 })
 
 test("a key spelled with quotes it does not need is refused", () => {
@@ -153,7 +154,7 @@ test("a list written on one line gains its record on that line", () => {
 
 test("a list written on one line gains no second key", () => {
   const { world, said } = answering(bodied(`  properties: [${SLUG}],`))
-  expect(bodyOf(said, world.base).match(/properties:/g)?.length).toBe(1)
+  expect(bodyOf(said, world.base).split("properties:").length - 1).toBe(1)
 })
 
 test("the change is reached through its own runner", () => {
