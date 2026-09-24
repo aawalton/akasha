@@ -47,10 +47,6 @@ export const temperCharactersCaptureAddon = {
       statement: "A place in these tables is the number a saved build hash has.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "An entry moved to another place misreads every build hash already saved.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "These tables are committed source, compiled into whichever add-on imports them.",
     },
