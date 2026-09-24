@@ -110,51 +110,40 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A closure file the checkout holds other bytes for than that commit refuses the build.",
+      statement: "A bundle is built from the commit's code, checked out apart from the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "One git question answers both a landing under the build and an uncommitted edit.",
+      statement: "That checkout holds only the kinds of file the bundler reads.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A closure file the commit holds nowhere and the checkout holds untracked refuses too.",
+      statement: "That checkout is kept and moved to each commit a deploy builds.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That question is asked after the build, because only a build knows what it read.",
+      statement: "Nothing but a deploy moves that checkout or writes into it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What the checkout moved from that commit is handed in rather than asked here.",
+      statement: "A move writes over whatever else that checkout holds.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The answer is one answer for every service, so the caller asks it once.",
+      statement: "The packages are reached there through a link to the checkout's own.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Each build narrows that answer to its own closure, so a refusal names its own files.",
+      statement: "A landing during a build changes nothing that build reads.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refusal names up to twelve of those files and counts the rest.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Nothing builds a second time, so a build ends rather than chasing a moving HEAD.",
+      statement: "The caller checks the commit out once for every service it bundles.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
         "A record missing the running code refuses rather than passing on a closure of nothing.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing writes the commit out as files, so no bundle is built from a checkout.",
     },
     {
       decisionKind: "decision-kind/constraint",

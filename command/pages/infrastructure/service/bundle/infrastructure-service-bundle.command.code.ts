@@ -15,7 +15,7 @@ import { infrastructureServiceBundle as page } from "akasha/command/pages/infras
 import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import {
   bundledFor,
-  movedFrom,
+  checkedOut,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts"
 import { homeAt } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"
 
@@ -40,9 +40,9 @@ export async function infrastructureServiceBundle(
 
   return await answering(async () => {
     const commit = headOf(given.root)
-    const moved = movedFrom(given.root, commit)
-    if ("refused" in moved) return refused(moved.refused, DATA)
-    const made = await bundledFor(given.root, slug, home, commit, moved.moved)
+    const checked = checkedOut(given.root, commit)
+    if ("refused" in checked) return refused(checked.refused, OPERATIONAL)
+    const made = await bundledFor(given.root, slug, home, commit, checked.tree)
     if ("unnamed" in made) return refused(made.unnamed, INPUT)
     if ("refused" in made) return refused(made.refused, DATA)
     return told([

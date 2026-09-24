@@ -38,7 +38,7 @@ export const infrastructureServiceBundle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A checkout holding other bytes than that commit for what was read is refused.",
+      statement: "The bundle is built from that commit's code checked out apart from the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -19,11 +19,11 @@ import {
   bundleAt,
   bundledFor,
   bundledTeller,
+  checkedOut,
   launchedCommitIn,
   launchedFromBundle,
-  movedFrom,
   saidOfUnbuilt,
-  saidOfUnmoved,
+  saidOfUnchecked,
   startedFromBundle,
   TELLER_STEM,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts"
@@ -121,11 +121,11 @@ async function bundlesBuilt(
 ): Promise<Bundled> {
   const bundles = new Map<string, string>()
   const said: string[] = []
-  const moved = movedFrom(root, commit)
-  if ("refused" in moved) return { refused: saidOfUnmoved(commit, moved.refused) }
+  const checked = checkedOut(root, commit)
+  if ("refused" in checked) return { refused: saidOfUnchecked(commit, checked.refused) }
   const run = runOf(root, TELLER)
   if ("refused" in run) return { refused: saidOfUnbuilt(TELLER_STEM, run.refused) }
-  const teller = await bundledTeller(root, join(root, run.path), home, commit, moved.moved)
+  const teller = await bundledTeller(root, join(root, run.path), home, commit, checked.tree)
   if (!("built" in teller)) {
     const why = "unnamed" in teller ? teller.unnamed : teller.refused
     return { refused: saidOfUnbuilt(TELLER_STEM, why) }
@@ -134,7 +134,7 @@ async function bundlesBuilt(
   said.push(`bundled\t${TELLER_STEM}\t${teller.built.at}`)
   for (const slug of launchedFromBundle(root)) {
     if (leftAlone.has(slug)) continue
-    const made = await bundledFor(root, slug, home, commit, moved.moved)
+    const made = await bundledFor(root, slug, home, commit, checked.tree)
     if (!("built" in made)) {
       return { refused: saidOfUnbuilt(slug, "unnamed" in made ? made.unnamed : made.refused) }
     }

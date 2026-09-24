@@ -1,11 +1,7 @@
 import { Buffer } from "node:buffer"
-import { existsSync, readdirSync, readFileSync, rmSync, statSync } from "node:fs"
+import { existsSync, readdirSync, readFileSync, rmSync, statSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
-import {
-  PORCELAIN_STATUS_ARGS,
-  parsePorcelainStatusZ,
-} from "akasha/git/modules/porcelain-status/porcelain-status.module.code.ts"
-import { told as gitTold } from "akasha/git/modules/running/git-running.module.code.ts"
+import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import { bundleCommitIn } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.code.ts"
 import {
   SERVICE_SUFFIX,
@@ -50,13 +46,11 @@ const READ_BY_BUNDLER = /\.(ts|tsx|js|jsx|mjs|cjs|json)$/
 
 const RECORDER = "service-bundling-closure"
 
-const UNTRACKED = "?"
+const TREE = join(STUBS, "tree")
 
-const UNTRACKED_ALL = "--untracked-files=all"
+const NODE_MODULES = "node_modules"
 
-const APART = "\0"
-
-const NAMED_AT_MOST = 12
+const CODE: readonly string[] = ["*.ts", "*.tsx", "*.js", "*.jsx", "*.mjs", "*.cjs", "*.json"]
 
 export const TELLER_STEM = TELLING_TEMPLATE.slice(0, -SERVICE_SUFFIX.length)
 
@@ -80,7 +74,7 @@ export type Built = {
   readonly removed: readonly string[]
 }
 
-export type Moved = { readonly moved: ReadonlySet<string> } | { readonly refused: string }
+export type Checked = { readonly tree: string } | { readonly refused: string }
 
 export type Swept = {
   readonly kept: readonly string[]
@@ -136,21 +130,8 @@ function saidOfUnread(slug: string, running: string): string {
   )
 }
 
-function saidOfDrift(slug: string, commit: string, drifted: readonly string[]): string {
-  const named = drifted.slice(0, NAMED_AT_MOST)
-  const rest = drifted.length - named.length
-  const more = rest === 0 ? "" : `, and ${rest} more`
-  return (
-    `\`${slug}\` would be filed under ${commit}, and the checkout holds other bytes than that ` +
-    `commit's for ${drifted.length} file(s) the bundler read: ${named.join(", ")}${more}`
-  )
-}
-
-export function saidOfUnmoved(commit: string, why: string): string {
-  return (
-    `no bundle is to be built, because how the checkout differs from ${commit} is not known — ` +
-    why
-  )
+export function saidOfUnchecked(commit: string, why: string): string {
+  return `no bundle is to be built, because ${commit} could not be checked out to build from — ${why}`
 }
 
 function stubAt(slug: string): string {
@@ -229,22 +210,23 @@ function closureIn(root: string, read: readonly string[]): ReadonlySet<string> {
   return took
 }
 
-export function movedFrom(root: string, commit: string): Moved {
-  const changed = gitTold(root, ["diff", "--name-only", "-z", commit])
-  if (changed === null) {
-    return { refused: `git said nothing of how the checkout differs from ${commit}` }
-  }
-  const status = gitTold(root, [...PORCELAIN_STATUS_ARGS, UNTRACKED_ALL])
-  if (status === null) return { refused: "git said nothing of what the checkout holds untracked" }
-  const read = parsePorcelainStatusZ(status)
-  if (!read.ok) return { refused: read.error }
-  const moved = new Set(changed.split(APART).filter((one) => one !== ""))
-  for (const one of read.entries) if (one.index === UNTRACKED) moved.add(one.path)
-  return { moved }
+function treeMade(root: string, commit: string, at: string): undefined {
+  rmSync(at, { recursive: true, force: true })
+  gitSaid(root, ["worktree", "prune"])
+  gitSaid(root, ["worktree", "add", "--detach", "--no-checkout", at, commit])
+  gitSaid(at, ["sparse-checkout", "set", "--no-cone", ...CODE])
 }
 
-function driftedIn(moved: ReadonlySet<string>, closure: ReadonlySet<string>): readonly string[] {
-  return [...closure].filter((one) => moved.has(one)).sort()
+export function checkedOut(root: string, commit: string, at: string = TREE): Checked {
+  try {
+    if (!existsSync(join(at, ".git"))) treeMade(root, commit, at)
+    gitSaid(at, ["checkout", "--detach", "--force", commit])
+    const modules = join(at, NODE_MODULES)
+    if (!existsSync(modules)) symlinkSync(join(root, NODE_MODULES), modules)
+    return { tree: at }
+  } catch (thrown) {
+    return { refused: whyOf(thrown) }
+  }
 }
 
 function bundlesIn(at: string): readonly string[] {
@@ -334,22 +316,22 @@ async function bundledFrom(
   running: string,
   home: string,
   commit: string,
-  moved: ReadonlySet<string>,
+  tree: string,
   runs: string = RUNS,
   takes: string = ""
 ): Promise<Made> {
+  const under = root.endsWith("/") ? root : `${root}/`
+  const inTree = running.startsWith(under) ? join(tree, running.slice(under.length)) : running
   const stub = stubAt(slug)
-  await Bun.write(stub, stubFor(running, runs, takes))
+  await Bun.write(stub, stubFor(inTree, runs, takes))
   const began = Bun.nanoseconds()
-  const made = await textOf(stub, root)
+  const made = await textOf(stub, tree)
   const seconds = (Bun.nanoseconds() - began) / NANOS
   if ("refused" in made) return { refused: `\`${slug}\` would not bundle — ${made.refused}` }
-  if (!made.read.includes(running)) {
-    return { refused: saidOfUnread(slug, running) }
+  if (!made.read.includes(inTree)) {
+    return { refused: saidOfUnread(slug, inTree) }
   }
-  const closure = closureIn(root, made.read)
-  const drifted = driftedIn(moved, closure)
-  if (drifted.length > 0) return { refused: saidOfDrift(slug, commit, drifted) }
+  const closure = closureIn(tree, made.read)
   const at = bundleAt(home, slug, commit)
   await Bun.write(at, made.text)
   const swept = sweptOf(home, slug, bundleName(commit))
@@ -363,11 +345,11 @@ export async function bundledFor(
   slug: string,
   home: string,
   commit: string,
-  moved: ReadonlySet<string>
+  tree: string
 ): Promise<Made> {
   const reached = runningIn(root, slug)
   if (!("running" in reached)) return reached
-  return bundledFrom(root, slug, reached.running, home, commit, moved)
+  return bundledFrom(root, slug, reached.running, home, commit, tree)
 }
 
 export async function bundledTeller(
@@ -375,7 +357,7 @@ export async function bundledTeller(
   running: string,
   home: string,
   commit: string,
-  moved: ReadonlySet<string>
+  tree: string
 ): Promise<Made> {
-  return bundledFrom(root, TELLER_STEM, running, home, commit, moved, TELLER_RUNS, TELLER_TAKES)
+  return bundledFrom(root, TELLER_STEM, running, home, commit, tree, TELLER_RUNS, TELLER_TAKES)
 }
