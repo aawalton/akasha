@@ -93,6 +93,10 @@ const DRAWN = "component-property-group"
 
 const DRAWS = "Drawing"
 
+const FORMULA = "formula"
+
+const WORKS = "worked"
+
 const SLUG = "slug"
 
 const LOADED_BY = "loadedBy"
@@ -280,6 +284,7 @@ export function groupsSparing(index: Answering): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const one of groupsIn(index)) found.set(one.slug, WRITES)
   for (const slug of drawnGroupsIn(index)) found.set(slug, DRAWS)
+  found.set(FORMULA, WORKS)
   return found
 }
 
