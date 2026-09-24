@@ -4,7 +4,6 @@ import { dumbbell } from "akasha/alan/value/health/fitness/strength/exercise/imp
 import { strengthExerciseImplement } from "akasha/alan/value/health/fitness/strength/exercise/implement/strength-exercise-implement.page-type.ts"
 import {
   coveredBy,
-  easedTo,
   type Kit,
   kitIn,
   loadsFor,
@@ -32,14 +31,4 @@ test("the loads are read off the kit covering the movement", () => {
   expect(loadsFor(KIT, dumbbell.slug)).toEqual([3, 5, 8, 10, 15, 20, 25, 30])
   expect(topLoadFor(KIT, dumbbell.slug)).toBe(30)
   expect(topLoadFor(KIT, barbell.slug)).toBe(null)
-})
-
-test("a load asked for by a target is the heaviest load at or under that target", () => {
-  expect(easedTo(DUMBBELLS.loads, 15)).toBe(15)
-  expect(easedTo(DUMBBELLS.loads, 12)).toBe(10)
-})
-
-test("a target under every load Alan owns is answered with the lightest he owns", () => {
-  expect(easedTo(DUMBBELLS.loads, 1)).toBe(3)
-  expect(easedTo([], 15)).toBe(null)
 })

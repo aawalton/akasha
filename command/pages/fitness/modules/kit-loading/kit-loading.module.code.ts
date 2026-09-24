@@ -34,9 +34,3 @@ export function topLoadFor(kit: readonly Kit[], implement: string): number | nul
   const loads = loadsFor(kit, implement)
   return loads.length === 0 ? null : Math.max(...loads)
 }
-
-export function easedTo(loads: readonly number[], target: number): number | null {
-  if (loads.length === 0) return null
-  const under = loads.filter((one) => one <= target)
-  return under.length === 0 ? Math.min(...loads) : Math.max(...under)
-}

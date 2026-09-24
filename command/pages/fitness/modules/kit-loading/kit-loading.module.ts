@@ -14,11 +14,7 @@ export const kitLoading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A load asked for by a target is the heaviest load at or under that target.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A target under every load Alan owns is answered with the lightest he owns.",
+      statement: "The top load for a movement is the heaviest the kit covering it offers.",
     },
   ],
 } as const satisfies Module

@@ -23,7 +23,7 @@ import {
   KIT_TYPE,
   type Kit,
   kitIn,
-  loadsFor,
+  topLoadFor,
 } from "akasha/command/pages/fitness/modules/kit-loading/kit-loading.module.code.ts"
 import {
   dayOf,
@@ -222,8 +222,7 @@ export function offerOf(
   )[0]
   if (best === undefined) return null
   const mark = marks.get(best.one.slug) ?? null
-  const loads = best.one.implement === null ? [] : loadsFor(kit, best.one.implement)
-  const top = loads.length === 0 ? null : Math.max(...loads)
+  const top = best.one.implement === null ? null : topLoadFor(kit, best.one.implement)
   const atKitCeiling = mark?.weight != null && top !== null && mark.weight >= top
   const climb = climbOf(mark, atKitCeiling, bounds.repsCap)
   const work = {
