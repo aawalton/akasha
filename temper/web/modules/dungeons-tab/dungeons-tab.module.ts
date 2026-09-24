@@ -6,4 +6,10 @@ export const dungeonsTab = {
   slug: "dungeons-tab",
   definition: "the dungeons tab of the catalog",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tab reads the dungeon and quest giver pages, and changes as they do.",
+    },
+  ],
 } as const satisfies Module

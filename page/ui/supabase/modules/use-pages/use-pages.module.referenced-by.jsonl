@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/use-account-address/use-account-address.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/use-player/use-player.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts","typed":false,"deferred":false}

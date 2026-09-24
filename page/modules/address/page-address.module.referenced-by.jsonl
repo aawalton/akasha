@@ -139,6 +139,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/web/modules/temper-app-id/temper-app-id.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/web/routes/landing/landing.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"temper/web/routes/methodology/methodology.route.code.tsx","typed":false,"deferred":false}
