@@ -21,6 +21,7 @@ import {
   pageFilingFrom,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import { formatReaching } from "akasha/page/name-format/modules/format-reaching/format-reaching.module.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const AT = "akasha/held.module.code.ts"
 
@@ -44,7 +45,7 @@ export const PAGE_AT = pathFor("domain", "held")
 
 export const PAGE_TEXT =
   'export const held = { id: "01a0927a-1000-7001-8000-000000000001",' +
-  ' pageTypeSlug: "domain", slug: "held" }\nexport const spare = 2\n'
+  ' type: "page-type/domain", slug: "held" }\nexport const spare = 2\n'
 
 export const BESIDE_AT = "akasha/held.domain.uncommitted.ts"
 
@@ -99,7 +100,7 @@ export const SLUGGED_AT = "akasha/carried-file.module.ts"
 
 export const SLUGGED_TEXT =
   'export const carriedFile = { id: "01a0927a-1000-7001-8000-000000000003",' +
-  ' pageTypeSlug: "module", slug: "carried-file" }\nexport const spare = 2\n'
+  ' type: "page-type/module", slug: "carried-file" }\nexport const spare = 2\n'
 
 export const DRAWING_AT = "akasha/held.page-type.page-component.code.tsx"
 
@@ -135,7 +136,7 @@ const LUA_PAGE_AT = "akasha/held.lualib-helper.ts"
 
 const LUA_PAGE_TEXT =
   'export const held = { id: "01a0927a-1000-7001-8000-000000000002",' +
-  ' pageTypeSlug: "lualib-helper", slug: "held", luaExport: "__TS__Held" }\n'
+  ' type: "page-type/lualib-helper", slug: "held", luaExport: "__TS__Held" }\n'
 
 export const LUA_TEXT =
   "export function __TS__Held(): number {\n  return 1\n}\n\nexport const spare = 2\n"
@@ -203,9 +204,12 @@ export function lualibPaged(root: string): undefined {
 
 export function grouped(root: string): undefined {
   const filing = pageFilingFrom(root, MINTED_FROM)
-  const group = filing(GROUP, GROUP_SLUG, GROUP_PAGE_AT, { pageTypeSlug: GROUP, slug: GROUP_SLUG })
+  const group = filing(GROUP, GROUP_SLUG, GROUP_PAGE_AT, {
+    type: `${pageType.slug}/${GROUP}`,
+    slug: GROUP_SLUG,
+  })
   const writer = filing(WRITER, WRITER_SLUG, WRITER_PAGE_AT, {
-    pageTypeSlug: WRITER,
+    type: `${pageType.slug}/${WRITER}`,
     slug: WRITER_SLUG,
     propertySlug: WRITER_SLUG,
   })
@@ -215,7 +219,7 @@ export function grouped(root: string): undefined {
 export function drawingGrouped(root: string): undefined {
   const filing = pageFilingFrom(root, MINTED_FROM)
   filing(DRAWING_GROUP, DRAWING_SLUG, DRAWING_PAGE_AT, {
-    pageTypeSlug: DRAWING_GROUP,
+    type: `${pageType.slug}/${DRAWING_GROUP}`,
     slug: DRAWING_SLUG,
   })
 }

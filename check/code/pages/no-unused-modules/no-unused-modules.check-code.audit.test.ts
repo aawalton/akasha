@@ -21,7 +21,7 @@ const READER_AT = "akasha/modules/reader/reader.module.code.ts"
 
 const PAGE_TEXT =
   'export const held = { id: "01a0c660-9eed-7009-8000-000000000001",' +
-  ' pageTypeSlug: "module", slug: "held" }\n'
+  ' type: "page-type/module", slug: "held" }\n'
 
 function rooted(): string {
   const root = scratch.rootFor("akasha-unused-modules-audit-")

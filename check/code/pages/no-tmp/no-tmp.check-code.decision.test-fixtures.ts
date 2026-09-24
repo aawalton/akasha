@@ -33,7 +33,7 @@ export function rooted(
   listedFiled(root, MODULE, "held", [{ path: PAGE_AT, id: HELD_ID }])
   claiming(root, PAGE_AT, HELD_ID)
   const said = allows ? ", allowsTmpPaths: true" : ""
-  const stated = `id: ${JSON.stringify(HELD_ID)}, pageTypeSlug: ${JSON.stringify(MODULE)}`
+  const stated = `id: ${JSON.stringify(HELD_ID)}, type: ${JSON.stringify(`page-type/${MODULE}`)}`
   writing(root, PAGE_AT, `export const held = { ${stated}, slug: "held"${said} }\n`)
   for (const [path, body] of Object.entries(files)) writing(root, path, body)
   return root

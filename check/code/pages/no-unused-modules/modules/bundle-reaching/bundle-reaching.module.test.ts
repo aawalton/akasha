@@ -29,7 +29,7 @@ const APART_AT = "akasha/modules/held-apart/held-apart.module.code.ts"
 
 const ADDON_TEXT =
   'export const heldAddon = { id: "01a0c660-9eed-7006-8000-000000000001",' +
-  ' pageTypeSlug: "temper-addon", slug: "held-addon", bundleEntry: "module/held-entry" }\n'
+  ' type: "page-type/temper-addon", slug: "held-addon", bundleEntry: "module/held-entry" }\n'
 
 const ENTRY_TEXT = 'import "../held-part/held-part.module.code.ts"\n\nexport const heldEntry = 1\n'
 

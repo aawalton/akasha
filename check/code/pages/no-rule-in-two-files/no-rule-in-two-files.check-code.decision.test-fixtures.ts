@@ -83,7 +83,7 @@ export function rooted(): string {
 }
 
 export function pageText(slug: string, last: string): string {
-  const held = `id: "${ID}${last}", slug: "${slug}", pageTypeSlug: "module", code: "ts"`
+  const held = `id: "${ID}${last}", slug: "${slug}", type: "page-type/module", code: "ts"`
   return `export const it = { ${held} }\n`
 }
 

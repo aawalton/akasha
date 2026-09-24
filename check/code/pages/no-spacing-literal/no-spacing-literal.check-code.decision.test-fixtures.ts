@@ -45,7 +45,7 @@ function paged(root: string, slug: string, id: string): undefined {
   writing(
     root,
     path,
-    `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(COMPONENT)},` +
+    `export const held = { id: ${JSON.stringify(id)}, type: ${JSON.stringify(`page-type/${COMPONENT}`)},` +
       ` slug: ${JSON.stringify(slug)}, swift: "swift" }\n`
   )
 }
