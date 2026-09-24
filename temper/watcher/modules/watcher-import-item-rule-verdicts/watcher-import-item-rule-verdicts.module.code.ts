@@ -4,13 +4,14 @@ import {
 } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { isJson } from "akasha/code/type/narrowing/modules/is-json/is-json.module.code.ts"
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
-import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
+import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import { upsertItemRuleByItemId } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { ACCOUNT_PAGE_TYPE } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import {
   log,
   logError,
@@ -21,8 +22,6 @@ import {
   signedInUserId,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import { z } from "zod"
-
-const TEMPER_PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
 const INVENTORY_SAVED_VARIABLES_GLOBAL = "TemperInventory_SavedVariables"
 
@@ -102,14 +101,14 @@ export type VerdictSettingsStore = {
 
 async function settingsBlobOf(userId: string): Promise<Record<string, unknown> | null> {
   const asked = await askComposed({
-    "page-type": TEMPER_PLAYER_PAGE_TYPE_SLUG,
-    where: { title: { is: userId } },
+    "page-type": ACCOUNT_PAGE_TYPE,
+    where: { key: { is: userId } },
     keys: ["slug", SETTINGS],
     files: [SETTINGS],
     limit: 1,
   })
   if (!asked.ok) {
-    throw new Error(`the ${TEMPER_PLAYER_PAGE_TYPE_SLUG} page went unread — ${asked.why}`)
+    throw new Error(`the ${ACCOUNT_PAGE_TYPE} page went unread — ${asked.why}`)
   }
   const row = asked.answer.rows[0]
   if (row === undefined) return null
@@ -118,13 +117,13 @@ async function settingsBlobOf(userId: string): Promise<Record<string, unknown> |
   if (held === ENDING) {
     throw new Error(
       `\`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of the file ` +
-        `beside the player page, so what is already set went unread`
+        `beside the account page, so what is already set went unread`
     )
   }
   return asRecordOrEmpty(JSON.parse(held))
 }
 
-function temperPlayerSettingsStore(): VerdictSettingsStore {
+function accountSettingsStore(): VerdictSettingsStore {
   return {
     read: async (userId) => {
       const blob = await settingsBlobOf(userId)
@@ -133,15 +132,18 @@ function temperPlayerSettingsStore(): VerdictSettingsStore {
     },
     write: async (userId, inventory) => {
       const blob = await settingsBlobOf(userId)
-      if (blob === null) {
-        throw new Error(`no ${TEMPER_PLAYER_PAGE_TYPE_SLUG} page carries title='${userId}'`)
+      const patched =
+        blob === null
+          ? null
+          : await patchPage({
+              pageTypeSlug: ACCOUNT_PAGE_TYPE,
+              where: [{ key: "key", eq: userId }],
+              set: { [SETTINGS]: ENDING },
+              bodies: { [SETTINGS]: JSON.stringify({ ...blob, inventory }, null, INDENT) },
+            })
+      if (patched === null) {
+        throw new Error(`no ${ACCOUNT_PAGE_TYPE} page has the key ${userId}`)
       }
-      await upsertPage({
-        pageTypeSlug: TEMPER_PLAYER_PAGE_TYPE_SLUG,
-        where: [{ key: "title", eq: userId }],
-        set: { title: userId, [SETTINGS]: ENDING },
-        bodies: { [SETTINGS]: JSON.stringify({ ...blob, inventory }, null, INDENT) },
-      })
     },
   }
 }
@@ -166,7 +168,7 @@ export async function runImportItemRuleVerdicts(
   content: string,
   userSource: VerdictUserSource,
   logger: VerdictImportLog = WATCHER_VERDICT_LOG,
-  store: VerdictSettingsStore = temperPlayerSettingsStore()
+  store: VerdictSettingsStore = accountSettingsStore()
 ): Promise<void> {
   const { found, mutations } = extractPendingSettingsMutations(content)
   if (mutations.length === 0) {
@@ -177,7 +179,7 @@ export async function runImportItemRuleVerdicts(
   const userId = await userSource.userId()
   const current = await store.read(userId)
   if (!current.present) {
-    reportOutcome(logger, found, 0, "no temper-player page for this user")
+    reportOutcome(logger, found, 0, `no ${ACCOUNT_PAGE_TYPE} page for this user`)
     return
   }
 

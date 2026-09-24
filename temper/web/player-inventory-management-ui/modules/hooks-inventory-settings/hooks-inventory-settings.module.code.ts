@@ -6,13 +6,14 @@ import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.modul
 import { listenerSet } from "akasha/design/interface/primitive/modules/listener-set/listener-set.module.code.ts"
 import { useSingleFlight } from "akasha/design/interface/primitive/modules/use-single-flight/use-single-flight.module.code.ts"
 import { deletePages } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
+import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
-import { upsertPage, upsertPages } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
+import { upsertPages } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { useOptimisticDeletePages } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-pages/use-optimistic-delete-pages.module.code.ts"
-import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
+import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { useOptimisticUpsertPages } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-upsert-pages/use-optimistic-upsert-pages.module.code.ts"
 import {
   type BackpackSettings,
@@ -35,10 +36,9 @@ import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,
 } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import { ACCOUNT_PAGE_TYPE } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
-
-const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
 const RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
 
@@ -63,8 +63,8 @@ const ENDING = "json"
 
 async function settingsBodyOf(userId: string): Promise<SettingsBlob> {
   const asked = await askComposed({
-    "page-type": PLAYER_PAGE_TYPE_SLUG,
-    where: { title: { is: userId } },
+    "page-type": ACCOUNT_PAGE_TYPE,
+    where: { key: { is: userId } },
     keys: ["slug", SETTINGS],
     files: [SETTINGS],
   })
@@ -76,7 +76,7 @@ async function settingsBodyOf(userId: string): Promise<SettingsBlob> {
   }
   if (held === ENDING) {
     throw new Error(
-      `\`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of the file beside the player page, so what is already set went unread. Nothing has been written.`
+      `\`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of the file beside the account page, so what is already set went unread. Nothing has been written.`
     )
   }
   return parseSettingsBlob(JSON.parse(held))
@@ -132,25 +132,30 @@ export function useSettingsBlob() {
     })()
   }, [userId])
 
-  const runUpsert = useOptimisticUpsertPage((args) => upsertPage(args))
+  const runPatch = useOptimisticPatchPage((args) => patchPage(args))
 
   const rawWrite = useCallback(
     async (next: SettingsBlob) => {
       if (userId == null) return
       if (!state.isRead) {
         throw new Error(
-          "the settings beside the player page have not been read yet, so writing now would put this over them"
+          "the settings beside the account page have not been read yet, so writing now would put this over them"
         )
       }
-      await runUpsert({
-        pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-        where: [{ key: "title", eq: userId }],
-        set: { title: userId, [SETTINGS]: ENDING },
+      const patched = await runPatch({
+        pageTypeSlug: ACCOUNT_PAGE_TYPE,
+        where: [{ key: "key", eq: userId }],
+        set: { [SETTINGS]: ENDING },
         bodies: { [SETTINGS]: JSON.stringify(next) },
       })
+      if (patched === null) {
+        throw new Error(
+          `no ${ACCOUNT_PAGE_TYPE} page has the key ${userId}, so these settings have nowhere to be written`
+        )
+      }
       holdSettings({ blob: next, isRead: true, error: null })
     },
-    [runUpsert, userId, state.isRead]
+    [runPatch, userId, state.isRead]
   )
 
   const write = useSingleFlight(rawWrite)

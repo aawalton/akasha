@@ -244,7 +244,7 @@ test("no page for the user leaves the settings unwritten and reports an error", 
   )
   expect(written).toEqual([])
   expect(lines).toEqual([
-    "ERROR Item-rule verdicts: materialized 0/1 queued verdict(s) into settings.inventory — no temper-player page for this user.",
+    "ERROR Item-rule verdicts: materialized 0/1 queued verdict(s) into settings.inventory — no temper-account page for this user.",
   ])
 })
 

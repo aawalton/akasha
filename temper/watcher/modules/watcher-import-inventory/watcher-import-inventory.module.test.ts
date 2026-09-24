@@ -30,8 +30,7 @@ const scanFiled = async () => ({ outcome: "landed" as const, at: "def5678" })
 
 const asked = async () => ({ rows: [{ settings: {}, slug: ACCOUNT_SLUG }], n: 1 })
 
-const playerUnread = async (query: { readonly pageTypeSlug: string }) =>
-  query.pageTypeSlug === "temper-player" ? { refused: "the pages answered nothing" } : asked()
+const accountUnread = async () => ({ refused: "the pages answered nothing" })
 
 const NET_WORTH: NetWorthResult = {
   itemValue: 500,
@@ -300,7 +299,7 @@ test("a filing refused ends the import and names the hour the reading was for", 
   )
 })
 
-test("an import whose player page went unread says the managed guild banks are unknown", async () => {
+test("an import whose account page went unread says the inventory has nowhere to land", async () => {
   const run = runImportInventory(
     ONE_LOCATION_LUA,
     ACCOUNT_UNASKED,
@@ -309,13 +308,42 @@ test("an import whose player page went unread says the managed guild banks are u
       say: () => undefined,
       now: () => 0,
       mint: () => "id-1",
-      ask: playerUnread,
+      ask: accountUnread,
       land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
     }
   )
   await expect(run).rejects.toThrow(
-    "the player page went unread, so which guild banks are managed is unknown — the pages answered nothing"
+    "page went unread, so this inventory has nowhere to land — the pages answered nothing"
   )
+})
+
+test("the managed guild banks are read off the account page's settings", async () => {
+  const said: string[] = []
+  const managing = async () => ({
+    rows: [
+      {
+        settings: { "managed-guild-banks": { managedGuildBanks: ["char-1"] } },
+        slug: ACCOUNT_SLUG,
+      },
+    ],
+    n: 1,
+  })
+  await runImportInventory(
+    ONE_LOCATION_LUA,
+    ACCOUNT_UNASKED,
+    { userId: "account-1" },
+    {
+      say: (line) => {
+        said.push(line)
+      },
+      now: () => 0,
+      mint: () => "id-1",
+      ask: managing,
+      land: async () => ({ outcome: "landed" as const, at: "abc1234" }),
+      file: scanFiled,
+    }
+  )
+  expect(said.join("\n")).not.toContain("Excluded from net worth")
 })
 
 test("an import with no signed-in account is refused, naming what the session said", async () => {
@@ -364,7 +392,7 @@ test("a scan stating no capture moment takes the moment given in", () => {
   expect(scanTimestampOf(inventory, 42)).toBe(42)
 })
 
-test("a player page that went unread makes no fresh id and files no reading", async () => {
+test("an account page that went unread makes no fresh id and files no reading", async () => {
   const minted: string[] = []
   const landed: unknown[] = []
   const run = runImportInventory(
@@ -378,14 +406,14 @@ test("a player page that went unread makes no fresh id and files no reading", as
         minted.push("id-1")
         return "id-1"
       },
-      ask: playerUnread,
+      ask: accountUnread,
       land: async (values) => {
         landed.push(values)
         return { outcome: "landed" as const, at: "abc1234" }
       },
     }
   )
-  await expect(run).rejects.toThrow("the player page went unread")
+  await expect(run).rejects.toThrow("page went unread")
   expect(minted).toEqual([])
   expect(landed).toEqual([])
 })

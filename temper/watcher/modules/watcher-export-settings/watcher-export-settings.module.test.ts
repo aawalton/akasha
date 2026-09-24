@@ -348,7 +348,7 @@ const A_BODY = JSON.stringify({
   nobodyAsked: true,
 })
 
-test("the settings read are the ones the file beside the player page holds", () => {
+test("the settings read are the ones the file beside the account page holds", () => {
   expect(settingsIn(A_BODY, ["inventory", "logging"])).toEqual({
     inventory: { version: 2, rules: [] },
     logging: { actionReports: "minimal" },
@@ -359,7 +359,7 @@ test("a settings type nobody asked for is left out", () => {
   expect(settingsIn(A_BODY, ["logging"])).toEqual({ logging: { actionReports: "minimal" } })
 })
 
-test("no file beside the player page is no settings", () => {
+test("no file beside the account page is no settings", () => {
   expect(settingsIn(null, ["logging"])).toEqual({})
   expect(settingsIn("", ["logging"])).toEqual({})
 })

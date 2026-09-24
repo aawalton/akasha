@@ -2,7 +2,8 @@ import { isJson } from "akasha/code/type/narrowing/modules/is-json/is-json.modul
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { deletePages } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
-import { upsertPage, upsertPages } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
+import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
+import { upsertPages } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { AutomationSettingsShape } from "akasha/temper/items/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
@@ -15,9 +16,10 @@ import { createDefaultRuleSettings } from "akasha/temper/items/rules/core/module
 import { InventoryRuleSettingsShape } from "akasha/temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { writesFor } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
-import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
-
-const PLAYER_PAGE_TYPE_SLUG = "temper-player"
+import {
+  ACCOUNT_PAGE_TYPE,
+  accountAddressOf,
+} from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 
 const RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
 
@@ -35,7 +37,7 @@ const ENDING = "json"
 
 type SliceKey = "inventory" | "automation"
 
-interface PlayerPage {
+interface AccountPage {
   readonly name: string
   readonly settings: Record<string, unknown>
 }
@@ -55,14 +57,14 @@ export function parseSettings(value: unknown, caller: string): Record<string, un
   if (typeof value !== "string") {
     throw new Error(
       `${caller}: \`${SETTINGS}\` came back as a ${typeof value} rather than the body of the ` +
-        `file beside the player page, so what is already set went unread and none of it is ` +
+        `file beside the account page, so what is already set went unread and none of it is ` +
         `written back`
     )
   }
   if (value === ENDING) {
     throw new Error(
       `${caller}: \`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of ` +
-        `the file beside the player page, so what is already set went unread`
+        `the file beside the account page, so what is already set went unread`
     )
   }
   let held: unknown
@@ -71,39 +73,39 @@ export function parseSettings(value: unknown, caller: string): Record<string, un
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     throw new Error(
-      `${caller}: the settings beside the ${PLAYER_PAGE_TYPE_SLUG} page hold ` +
+      `${caller}: the settings beside the ${ACCOUNT_PAGE_TYPE} page hold ` +
         `${value.length} byte(s) that are not valid JSON, so a write now would go over every ` +
         `other setting, and what is already set stays: ${why}`
     )
   }
   if (!isPlainObject(held)) {
     throw new Error(
-      `${caller}: the settings beside the ${PLAYER_PAGE_TYPE_SLUG} page hold no JSON object, so ` +
+      `${caller}: the settings beside the ${ACCOUNT_PAGE_TYPE} page hold no JSON object, so ` +
         `a write now would go over every other setting, and what is already set stays`
     )
   }
   return held
 }
 
-async function readPlayerPage(accountUserId: string, caller: string): Promise<PlayerPage> {
+async function readAccountPage(accountUserId: string, caller: string): Promise<AccountPage> {
   const asked = await askComposed({
-    "page-type": PLAYER_PAGE_TYPE_SLUG,
-    where: { title: { is: accountUserId } },
+    "page-type": ACCOUNT_PAGE_TYPE,
+    where: { key: { is: accountUserId } },
     keys: ["slug", SETTINGS],
     files: [SETTINGS],
     limit: 1,
   })
   if (!asked.ok) {
-    throw new Error(`${caller}: ${PLAYER_PAGE_TYPE_SLUG} went unread — ${asked.why}`)
+    throw new Error(`${caller}: ${ACCOUNT_PAGE_TYPE} went unread — ${asked.why}`)
   }
   const row = asked.answer.rows[0]
   if (row === undefined) {
-    throw new Error(`${caller}: no ${PLAYER_PAGE_TYPE_SLUG} page carries title='${accountUserId}'`)
+    throw new Error(`${caller}: no ${ACCOUNT_PAGE_TYPE} page has the key ${accountUserId}`)
   }
   const name = row.values.slug
   if (typeof name !== "string" || name === "") {
     throw new Error(
-      `${caller}: the ${PLAYER_PAGE_TYPE_SLUG} page carrying title='${accountUserId}' states no name of its own`
+      `${caller}: the ${ACCOUNT_PAGE_TYPE} page with the key ${accountUserId} states no name of its own`
     )
   }
   return { name, settings: parseSettings(row.values[SETTINGS], caller) }
@@ -113,7 +115,7 @@ async function readSettings(
   accountUserId: string,
   caller: string
 ): Promise<Record<string, unknown>> {
-  return (await readPlayerPage(accountUserId, caller)).settings
+  return (await readAccountPage(accountUserId, caller)).settings
 }
 
 async function writeSlice(
@@ -122,15 +124,20 @@ async function writeSlice(
   next: unknown,
   caller: string
 ): Promise<undefined> {
-  const player = await readPlayerPage(accountUserId, caller)
-  await upsertPage({
-    pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-    where: [{ key: "title", eq: accountUserId }],
-    set: { title: accountUserId, [SETTINGS]: ENDING },
+  const account = await readAccountPage(accountUserId, caller)
+  const patched = await patchPage({
+    pageTypeSlug: ACCOUNT_PAGE_TYPE,
+    where: [{ key: "slug", eq: account.name }],
+    set: { [SETTINGS]: ENDING },
     bodies: {
-      [SETTINGS]: JSON.stringify({ ...player.settings, [sliceKey]: next }, null, INDENT),
+      [SETTINGS]: JSON.stringify({ ...account.settings, [sliceKey]: next }, null, INDENT),
     },
   })
+  if (patched === null) {
+    throw new Error(
+      `${caller}: the ${ACCOUNT_PAGE_TYPE} page ${account.name} went between reading and writing, so nothing was written`
+    )
+  }
   return undefined
 }
 
@@ -151,7 +158,7 @@ export function inventorySliceIn(
   if (slice === undefined || slice === null) return {}
   if (!isPlainObject(slice)) {
     throw new Error(
-      `${caller}: the \`${INVENTORY_SLICE}\` settings beside the ${PLAYER_PAGE_TYPE_SLUG} page ` +
+      `${caller}: the \`${INVENTORY_SLICE}\` settings beside the ${ACCOUNT_PAGE_TYPE} page ` +
         `are a ${typeof slice} rather than an object, so a write now would go over what they ` +
         `hold, and what is already set stays`
     )

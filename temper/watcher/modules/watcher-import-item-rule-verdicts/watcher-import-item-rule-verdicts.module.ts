@@ -48,6 +48,14 @@ export const watcherImportItemRuleVerdicts = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The settings blob is the file beside the account page whose key is the user id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write patches that account page and never creates one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The settings blob is asked for under `files`.",
     },
     {

@@ -9,7 +9,7 @@ export const temperPagesResolver = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The seven temper page types are named here rather than worked out.",
+      statement: "The six temper page types are named here rather than worked out.",
     },
     {
       decisionKind: "decision-kind/departure",

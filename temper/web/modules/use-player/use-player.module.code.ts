@@ -4,15 +4,12 @@ import { parseString } from "akasha/code/type/narrowing/modules/parse-string/par
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
-import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
-import { useOptimisticUpsertPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-upsert-page/use-optimistic-upsert-page.module.code.ts"
+import { ACCOUNT_PAGE_TYPE } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import type { ProfileMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { useCallback, useMemo } from "react"
-
-const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
 interface PlayerRow {
   id: string
@@ -44,7 +41,7 @@ function mapPlayerRow(row: Record<string, unknown> | undefined): PlayerRow | und
   if (!row) return undefined
   return {
     id: parseString(row.id),
-    userId: parseString(row.title),
+    userId: parseString(row.key),
     handle: stringIn(row.handle),
     profileMetadata: parseProfileMetadata(row),
   }
@@ -53,12 +50,10 @@ function mapPlayerRow(row: Record<string, unknown> | undefined): PlayerRow | und
 export function usePlayer() {
   const userId = useUserId()
   const { rows, isLoading } = usePages({
-    pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-    where:
-      userId != null ? [{ key: "title", eq: userId }] : [{ key: "title", eq: NEVER_MATCH_VALUE }],
+    pageTypeSlug: ACCOUNT_PAGE_TYPE,
+    where: userId != null ? [{ key: "key", eq: userId }] : [{ key: "key", eq: NEVER_MATCH_VALUE }],
     limit: 1,
   })
-  const runUpsert = useOptimisticUpsertPage((args) => upsertPage(args))
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))
 
   const player = useMemo(() => mapPlayerRow(rows[0]), [rows])
@@ -68,41 +63,26 @@ export function usePlayer() {
   const setHandle = useCallback(
     async (newHandle: string | null) => {
       if (userId == null) return
-      await runUpsert({
-        pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-        where: [{ key: "title", eq: userId }],
-        set: {
-          title: userId,
-          handle: newHandle,
-        },
+      await runPatch({
+        pageTypeSlug: ACCOUNT_PAGE_TYPE,
+        where: [{ key: "key", eq: userId }],
+        set: { handle: newHandle },
       })
     },
-    [runUpsert, userId]
+    [runPatch, userId]
   )
 
   const updateProfileMeta = useCallback(
     async (meta: Partial<ProfileMetadata>) => {
       if (userId == null) return
       const next = { ...profileMetadata, ...meta }
-      if (player) {
-        await runPatch({
-          pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-          where: [{ key: "title", eq: userId }],
-          set: pricingValues(next),
-        })
-      } else {
-        await runUpsert({
-          pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-          where: [{ key: "title", eq: userId }],
-          set: {
-            title: userId,
-            handle,
-            ...pricingValues(next),
-          },
-        })
-      }
+      await runPatch({
+        pageTypeSlug: ACCOUNT_PAGE_TYPE,
+        where: [{ key: "key", eq: userId }],
+        set: pricingValues(next),
+      })
     },
-    [runPatch, runUpsert, userId, player, handle, profileMetadata]
+    [runPatch, userId, profileMetadata]
   )
 
   return {
@@ -118,8 +98,8 @@ export function usePlayer() {
 
 export function usePlayerByUserId(userId: string) {
   const { rows } = usePages({
-    pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-    where: [{ key: "title", eq: userId }],
+    pageTypeSlug: ACCOUNT_PAGE_TYPE,
+    where: [{ key: "key", eq: userId }],
     limit: 1,
   })
   const player = useMemo(() => mapPlayerRow(rows[0]), [rows])

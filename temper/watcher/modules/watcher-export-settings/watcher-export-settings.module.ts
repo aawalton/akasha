@@ -10,7 +10,8 @@ export const watcherExportSettings = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every setting type is read from the player page in one read.",
+      statement:
+        "Every setting type is read in one read from the account page whose key is the user id.",
     },
     {
       decisionKind: "decision-kind/departure",

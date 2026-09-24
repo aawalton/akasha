@@ -19,7 +19,6 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
   const character = useAllPages({ pageTypeSlug: "temper-account-character" })
   const companion = useAllPages({ pageTypeSlug: "temper-companion-progress" })
   const completedTask = useAllPages({ pageTypeSlug: "temper-completed-task" })
-  const player = useAllPages({ pageTypeSlug: "temper-player" })
   const task = useAllPages({ pageTypeSlug: "temper-task" })
 
   const pages = useMemo(
@@ -29,7 +28,6 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
       ...character.pages,
       ...companion.pages,
       ...completedTask.pages,
-      ...player.pages,
       ...task.pages,
     ],
     [
@@ -38,7 +36,6 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
       character.pages,
       companion.pages,
       completedTask.pages,
-      player.pages,
       task.pages,
     ]
   )
@@ -50,7 +47,6 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
     character.isLoading ||
     companion.isLoading ||
     completedTask.isLoading ||
-    player.isLoading ||
     task.isLoading
 
   return { pages, pageTypes: pageTypes.pages, isLoading }

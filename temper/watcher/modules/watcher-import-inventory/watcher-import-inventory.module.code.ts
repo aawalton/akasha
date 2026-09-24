@@ -35,8 +35,6 @@ import {
   userIdFor,
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
-const PLAYER_PAGE_TYPE_SLUG = "temper-player"
-
 const NO_REPLACEMENT_PRICING =
   "No crown consumable pricing available — skipping replacement cost enrichment."
 
@@ -214,24 +212,14 @@ export async function runImportInventory(
       `the ${ACCOUNT_PAGE_TYPE_SLUG} page went unread, so this inventory has nowhere to land — ${accountAsked.refused}`
     )
   }
-  const accountSlug = accountAsked.rows[0]?.slug
+  const account = accountAsked.rows[0]
+  const accountSlug = account?.slug
   if (typeof accountSlug !== "string") {
     throw new Error(`the ${ACCOUNT_PAGE_TYPE_SLUG} page for ${userId} states no slug`)
   }
   const accountPage = addressOfSlug(accountSlug)
 
-  const asked = await ask({
-    pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-    where: { accountPage: { is: accountPage } },
-    limit: 1,
-  })
-  if ("refused" in asked) {
-    throw new Error(
-      `the player page went unread, so which guild banks are managed is unknown — ${asked.refused}`
-    )
-  }
-
-  const managed = readManagedGuildBanks(asked.rows[0]?.settings)
+  const managed = readManagedGuildBanks(account?.settings)
   const { inventory: owned, excluded } = partitionUnmanagedGuildBanks(inventory, managed)
   const netWorth = computeNetWorth(owned, GOLD_ONLY_RATES)
 

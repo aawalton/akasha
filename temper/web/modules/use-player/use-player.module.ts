@@ -9,11 +9,11 @@ export const usePlayer = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A player row is keyed by the user id its title has.",
+      statement: "A player row is the account page whose key is the user id.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A player with no row yet is written by upsert rather than patch.",
+      statement: "A write patches that account page and never creates one.",
     },
     {
       decisionKind: "decision-kind/absence",

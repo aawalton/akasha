@@ -26,7 +26,11 @@ export const inventorySettingsAccess = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A player is found by the account the title has.",
+      statement: "The settings are the file beside the account page whose key is the user id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write patches that account page and never creates one.",
     },
     {
       decisionKind: "decision-kind/departure",

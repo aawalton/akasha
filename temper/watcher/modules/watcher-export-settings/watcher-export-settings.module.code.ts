@@ -19,7 +19,10 @@ import { rulesToInventoryConfig } from "akasha/temper/items/rules/core/modules/i
 import type { InventoryTimestamps } from "akasha/temper/items/rules/core/modules/inventory-settings-types/inventory-settings-types.module.code.ts"
 import { ruleFingerprint } from "akasha/temper/items/rules/core/modules/rule-fingerprint/rule-fingerprint.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
-import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
+import {
+  ACCOUNT_PAGE_TYPE,
+  accountAddressOf,
+} from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 import type {
   ReadFiles,
@@ -69,8 +72,6 @@ import {
 } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
 const TEMPER_INVENTORY_SIBLINGS = ["db", "version"] as const
-
-const TEMPER_PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
 const TEMPER_INVENTORY_RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
 
@@ -137,7 +138,7 @@ async function settingsBodyOf(
 ): Promise<string | null> {
   const beside = await besidePathsFor(
     pages,
-    TEMPER_PLAYER_PAGE_TYPE_SLUG,
+    ACCOUNT_PAGE_TYPE,
     [slug],
     SETTINGS_PROPERTY,
     SETTINGS_ENDING
@@ -147,7 +148,7 @@ async function settingsBodyOf(
   const found = await files([path])
   if (!found.ok) {
     throw new Error(
-      `the settings file beside ${TEMPER_PLAYER_PAGE_TYPE_SLUG}/${slug} went unread: ${found.why}`
+      `the settings file beside ${ACCOUNT_PAGE_TYPE}/${slug} went unread: ${found.why}`
     )
   }
   return contentIn(found.bodies, path)
@@ -161,7 +162,7 @@ export function settingsIn(body: string | null, types: readonly string[]): Recor
   } catch (err) {
     const why = err instanceof Error ? err.message : String(err)
     throw new Error(
-      `the settings beside the ${TEMPER_PLAYER_PAGE_TYPE_SLUG} page hold ${body.length} byte(s) that are not valid JSON: ${why}`
+      `the settings beside the ${ACCOUNT_PAGE_TYPE} page hold ${body.length} byte(s) that are not valid JSON: ${why}`
     )
   }
   const settings = asRecord(read)
@@ -178,8 +179,8 @@ async function readSettings(
   types: readonly string[]
 ): Promise<Record<string, unknown>> {
   const page = await getPage({
-    pageTypeSlug: TEMPER_PLAYER_PAGE_TYPE_SLUG,
-    where: [{ key: "title", eq: userId }],
+    pageTypeSlug: ACCOUNT_PAGE_TYPE,
+    where: [{ key: "key", eq: userId }],
   })
   const slug = page?.slug
   if (typeof slug !== "string") return {}
