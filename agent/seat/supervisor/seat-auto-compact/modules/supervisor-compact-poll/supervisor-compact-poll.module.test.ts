@@ -1,15 +1,5 @@
 import { expect, test } from "bun:test"
-import type { IdleObservation } from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import { autoCompactPoll } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"
-
-const QUIET: IdleObservation = {
-  inFlight: 0,
-  busyChildren: 0,
-  inFlightDispatchChildren: 0,
-  claudePresent: true,
-}
-
-const BUSY: IdleObservation = { ...QUIET, inFlight: 1 }
 
 function pollOver(opts: {
   tokens: number | null
@@ -21,14 +11,12 @@ function pollOver(opts: {
 }): ReturnType<typeof autoCompactPoll> {
   return autoCompactPoll({
     getAgentId: () => "agent-1",
-    getClaudePid: () => 1,
-    getProxyPort: () => 1,
     log: () => undefined,
     readTokens: () => opts.tokens,
     readCeiling: () => (opts.ceiling === undefined ? 350_000 : opts.ceiling),
     readCompacting: () => opts.compacting ?? false,
+    readIdle: () => opts.idle ?? true,
     readSeatName: () => "thea",
-    observe: () => Promise.resolve(opts.idle === false ? BUSY : QUIET),
     sendLine: (seatName, line) => {
       opts.asks.push(`${seatName}:${line}`)
       return Promise.resolve(opts.sent ?? true)
@@ -93,14 +81,12 @@ test("a supervisor with no agent asks nothing", async () => {
   const asks: string[] = []
   const poll = autoCompactPoll({
     getAgentId: () => null,
-    getClaudePid: () => 1,
-    getProxyPort: () => 1,
     log: () => undefined,
     readTokens: () => 400_000,
     readCeiling: () => 350_000,
     readCompacting: () => false,
+    readIdle: () => true,
     readSeatName: () => "thea",
-    observe: () => Promise.resolve(QUIET),
     sendLine: (seatName, line) => {
       asks.push(`${seatName}:${line}`)
       return Promise.resolve(true)

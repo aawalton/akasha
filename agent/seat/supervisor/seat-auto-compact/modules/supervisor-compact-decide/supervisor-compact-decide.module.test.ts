@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  betweenTurns,
   type CompactObservation,
   shouldCompact,
   stillAsked,
@@ -66,4 +67,20 @@ test("a context that was not read holds the ask", () => {
 
 test("a seat never asked holds no ask", () => {
   expect(stillAsked(false, null, COMPACT_AT_TOKENS)).toBe(false)
+})
+
+test("a seat between turns with nothing being sent is idle", () => {
+  expect(betweenTurns({ activeTurn: false, sendInFlight: false })).toBe(true)
+})
+
+test("a seat mid-turn is not idle", () => {
+  expect(betweenTurns({ activeTurn: true, sendInFlight: false })).toBe(false)
+})
+
+test("a seat whose turn was never read is not idle", () => {
+  expect(betweenTurns({ activeTurn: undefined, sendInFlight: false })).toBe(false)
+})
+
+test("a seat with a send in flight is not idle", () => {
+  expect(betweenTurns({ activeTurn: false, sendInFlight: true })).toBe(false)
 })

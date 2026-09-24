@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.test.ts"}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts"}
 {"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-child-spawn/supervisor-child-spawn.module.code.ts"}
+{"propertySlug":"import","fileName":"turn-working.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts","id":"01a0658d-c92f-7071-838b-e88aa8479137"}

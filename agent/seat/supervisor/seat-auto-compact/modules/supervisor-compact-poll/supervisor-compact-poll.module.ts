@@ -18,7 +18,12 @@ export const supervisorCompactPoll = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat is judged idle by the reading a restart between turns is judged by.",
+      statement: "A seat is judged idle by its turn rather than by its processes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat waiting only on a live shell or a live subagent is idle enough to compact.",
     },
     {
       decisionKind: "decision-kind/departure",

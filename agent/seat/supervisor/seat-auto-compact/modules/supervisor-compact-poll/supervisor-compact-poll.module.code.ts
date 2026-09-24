@@ -2,12 +2,9 @@ import { sendLineToSeatPane } from "akasha/agent/seat/launching/modules/launch-s
 import { readSeatConditions } from "akasha/agent/seat/launching/modules/seat-conditions-reading/seat-conditions-reading.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { pendingOf } from "akasha/agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"
+import { workingOf } from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import {
-  type IdleObservation,
-  preservingRestartVerdict,
-} from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
-import { observeIdle } from "akasha/agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
-import {
+  betweenTurns,
   shouldCompact,
   stillAsked,
   worthProbing,
@@ -41,31 +38,29 @@ function compactingOf(agentId: string): boolean {
   return pendingOf(agentId).compacting?.value === true
 }
 
+function idleOf(agentId: string): boolean {
+  return betweenTurns({
+    activeTurn: workingOf(agentId).activeTurn,
+    sendInFlight: pendingOf(agentId)["send-in-flight"]?.value === true,
+  })
+}
+
 export function autoCompactPoll(args: {
   getAgentId: () => string | null
-  getClaudePid: () => number | null
-  getProxyPort: () => number | null
   log: (line: string) => void
   readTokens?: (agentId: string) => number | null
   readCeiling?: () => number | null
   readCompacting?: (agentId: string) => boolean
+  readIdle?: (agentId: string) => boolean
   readSeatName?: (agentId: string) => string | null
   sendLine?: (seatName: string, line: string) => Promise<boolean>
-  observe?: () => Promise<IdleObservation>
 }): HeartbeatPoll {
   const readTokens = args.readTokens ?? tokensOf
   const readCeiling = args.readCeiling ?? ceilingNow
   const readCompacting = args.readCompacting ?? compactingOf
+  const readIdle = args.readIdle ?? idleOf
   const readSeatName = args.readSeatName ?? seatNameForAgent
   const sendLine = args.sendLine ?? sendLineToSeatPane
-  const observe =
-    args.observe ??
-    (() =>
-      observeIdle({
-        getClaudePid: args.getClaudePid,
-        getProxyPort: args.getProxyPort,
-        getAgentId: args.getAgentId,
-      }))
   let asked = false
   let beatInFlight = false
 
@@ -83,8 +78,8 @@ export function autoCompactPoll(args: {
       asked = stillAsked(asked, contextTokens, ceiling)
       const compacting = readCompacting(agentId)
       if (!worthProbing({ compacting, contextTokens, ceiling }, asked)) return
-      const verdict = preservingRestartVerdict(await observe())
-      if (!shouldCompact({ idle: verdict.idle, compacting, contextTokens, ceiling }, asked)) return
+      const idle = readIdle(agentId)
+      if (!shouldCompact({ idle, compacting, contextTokens, ceiling }, asked)) return
       const seatName = readSeatName(agentId)
       if (seatName === null) return
       asked = await sendLine(seatName, COMPACT_LINE)

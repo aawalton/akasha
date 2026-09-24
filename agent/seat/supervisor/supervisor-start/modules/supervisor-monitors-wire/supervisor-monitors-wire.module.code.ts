@@ -62,12 +62,7 @@ export function startPerAgentMonitors(args: {
         getClaudePid: () => SUPERVISOR_RESTART_STATE.getClaudePid(),
         log,
       }),
-      autoCompactPoll({
-        getAgentId: args.getAgentId,
-        getClaudePid: () => SUPERVISOR_RESTART_STATE.getClaudePid(),
-        getProxyPort: () => getOAuthProxyHandle()?.port ?? null,
-        log,
-      }),
+      autoCompactPoll({ getAgentId: args.getAgentId, log }),
     ],
   })
 

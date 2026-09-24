@@ -3,6 +3,4 @@
 {"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-probe/supervisor-deferred-restart-probe.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-idle-decide.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.test.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-idleness/seat-agent-idleness.domain.ts","id":"01a09c74-522d-7dde-b3a8-be37b2fa1151"}

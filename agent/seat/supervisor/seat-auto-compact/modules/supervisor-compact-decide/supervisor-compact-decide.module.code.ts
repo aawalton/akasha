@@ -7,6 +7,15 @@ export type CompactObservation = {
 
 export type CompactReading = Omit<CompactObservation, "idle">
 
+export type CompactTurn = {
+  readonly activeTurn: boolean | undefined
+  readonly sendInFlight: boolean
+}
+
+export function betweenTurns(turn: CompactTurn): boolean {
+  return turn.activeTurn === false && !turn.sendInFlight
+}
+
 function pastCompactCeiling(contextTokens: number | null, ceiling: number | null): boolean {
   return contextTokens !== null && ceiling !== null && contextTokens >= ceiling
 }

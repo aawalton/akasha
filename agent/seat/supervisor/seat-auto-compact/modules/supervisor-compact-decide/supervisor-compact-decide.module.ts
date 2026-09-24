@@ -42,5 +42,13 @@ export const supervisorCompactDecide = {
       decisionKind: "decision-kind/departure",
       statement: "A ceiling that could not be read asks no seat to compact.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat is idle where its turn has ended and nothing is being sent to it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat whose turn was never read is not idle.",
+    },
   ],
 } as const satisfies Module
