@@ -1,4 +1,5 @@
-import { emailGoogle } from "akasha/alan/google/email/modules/email-operations/email-operations.module.code.ts"
+import { makeGmailClient } from "akasha/alan/google/email/modules/gmail-client/gmail-client.module.code.ts"
+import { listDrafts } from "akasha/alan/google/email/modules/gmail-drafts/gmail-drafts.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { max } from "akasha/command/argument/pages/max.argument.ts"
 import {
@@ -14,8 +15,6 @@ export function emailDraftList(argv: readonly string[], given: Given): Promise<A
   const read = takenFor(argv, given.calledAs, page, [max])
   if ("refused" in read) return Promise.resolve(refusedBy(read.refused, INPUT))
   return answering(async () => {
-    const google = await emailGoogle()
-    const client = await google.makeGmailClient()
-    return asIndentedJson(await google.listDrafts(client, read.taken.max))
+    return asIndentedJson(await listDrafts(await makeGmailClient(), read.taken.max))
   })
 }

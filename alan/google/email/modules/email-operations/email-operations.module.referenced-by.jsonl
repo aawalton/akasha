@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"email-operations.module.code.ts","path":"command/pages/email/attachment/list/email-attachment-list.command.code.ts"}
 {"propertySlug":"import","fileName":"email-operations.module.code.ts","path":"command/pages/email/attachment/show/email-attachment-show.command.code.ts"}
 {"propertySlug":"import","fileName":"email-operations.module.code.ts","path":"command/pages/email/draft/create/email-draft-create.command.code.ts"}
-{"propertySlug":"import","fileName":"email-operations.module.code.ts","path":"command/pages/email/draft/list/email-draft-list.command.code.ts"}
 {"propertySlug":"import","fileName":"email-operations.module.code.ts","path":"command/pages/email/message/archive/email-message-archive.command.code.ts"}
 {"propertySlug":"import","fileName":"email-operations.module.code.ts","path":"command/pages/email/message/modify-label/email-message-modify-label.command.code.ts"}
 {"propertySlug":"import","fileName":"email-operations.module.code.ts","path":"command/pages/email/message/send/email-message-send.command.code.ts"}
