@@ -119,7 +119,7 @@ function dashboardsConfigmapYaml(data: Readonly<Record<string, string>>): string
 function deploymentYaml(dashboards: Readonly<Record<string, string>>): string {
   return synthOne(NAMESPACE, "deployment", {
     apiVersion: "apps/v1",
-    kind: "Deployment",
+    kind: grafana.resourceKind,
     metadata: {
       name: grafana.resourceName,
       namespace: NAMESPACE,

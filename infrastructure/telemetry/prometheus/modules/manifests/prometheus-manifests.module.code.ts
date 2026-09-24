@@ -7,10 +7,10 @@ import {
   capabilitySelector,
   HOSTNAME_KEY,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { prometheus } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/prometheus/prometheus.service-cluster.ts"
 import {
   BUSYBOX_IMAGE,
   NAMESPACE,
-  PROMETHEUS_IMAGE,
   PROMETHEUS_LABELS,
   PROMETHEUS_SELECTOR_LABELS,
 } from "akasha/infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.code.ts"
@@ -168,14 +168,14 @@ export function prometheusServiceYaml(): string {
 export function prometheusDeploymentYaml(): string {
   return synthOne(NAMESPACE, "prometheus-deployment", {
     apiVersion: "apps/v1",
-    kind: "Deployment",
+    kind: prometheus.resourceKind,
     metadata: {
-      name: "prometheus",
-      namespace: NAMESPACE,
+      name: prometheus.resourceName,
+      namespace: prometheus.namespace,
       labels: PROMETHEUS_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: prometheus.replicas,
       strategy: { type: "Recreate" },
       selector: { matchLabels: PROMETHEUS_SELECTOR_LABELS },
       template: {
@@ -202,7 +202,7 @@ export function prometheusDeploymentYaml(): string {
           containers: [
             {
               name: "prometheus",
-              image: PROMETHEUS_IMAGE,
+              image: prometheus.image,
               args: [
                 "--config.file=/etc/prometheus/prometheus.yml",
                 "--storage.tsdb.path=/prometheus",
@@ -213,7 +213,7 @@ export function prometheusDeploymentYaml(): string {
                 "--web.console.templates=/usr/share/prometheus/consoles",
                 "--enable-feature=promql-experimental-functions",
               ],
-              ports: [{ name: "http", containerPort: 9090 }],
+              ports: [{ name: "http", containerPort: prometheus.containerPort }],
               resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
@@ -223,12 +223,12 @@ export function prometheusDeploymentYaml(): string {
                 readOnlyRootFilesystem: true,
               },
               livenessProbe: {
-                httpGet: { path: "/-/healthy", port: 9090 },
+                httpGet: { path: "/-/healthy", port: prometheus.containerPort },
                 initialDelaySeconds: 60,
                 periodSeconds: 15,
               },
               readinessProbe: {
-                httpGet: { path: "/-/ready", port: 9090 },
+                httpGet: { path: "/-/ready", port: prometheus.containerPort },
                 initialDelaySeconds: 30,
                 periodSeconds: 5,
               },

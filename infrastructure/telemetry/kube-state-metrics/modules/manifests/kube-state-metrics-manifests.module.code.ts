@@ -4,9 +4,9 @@ import {
 } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { capabilitySelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
+import { kubeStateMetrics } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/kube-state-metrics/kube-state-metrics.service-cluster.ts"
 import { kubeStateMetrics as page } from "akasha/infrastructure/telemetry/kube-state-metrics/kube-state-metrics.manifest.ts"
 import {
-  KUBE_STATE_METRICS_IMAGE,
   KUBE_STATE_METRICS_LABELS,
   KUBE_STATE_METRICS_SELECTOR_LABELS,
   NAMESPACE,
@@ -132,14 +132,14 @@ export function kubeStateMetricsRbacYaml(): string {
 export function kubeStateMetricsDeploymentYaml(): string {
   return synthOne(NAMESPACE, "kube-state-metrics-deployment", {
     apiVersion: "apps/v1",
-    kind: "Deployment",
+    kind: kubeStateMetrics.resourceKind,
     metadata: {
-      name: "kube-state-metrics",
-      namespace: NAMESPACE,
+      name: kubeStateMetrics.resourceName,
+      namespace: kubeStateMetrics.namespace,
       labels: KUBE_STATE_METRICS_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: kubeStateMetrics.replicas,
       strategy: { type: "Recreate" },
       selector: { matchLabels: KUBE_STATE_METRICS_SELECTOR_LABELS },
       template: {
@@ -150,9 +150,9 @@ export function kubeStateMetricsDeploymentYaml(): string {
           containers: [
             {
               name: "kube-state-metrics",
-              image: KUBE_STATE_METRICS_IMAGE,
+              image: kubeStateMetrics.image,
               ports: [
-                { name: "http-metrics", containerPort: 8080 },
+                { name: "http-metrics", containerPort: kubeStateMetrics.containerPort },
                 { name: "telemetry", containerPort: 8081 },
               ],
               resources: resourcesOf(page),
@@ -164,7 +164,7 @@ export function kubeStateMetricsDeploymentYaml(): string {
                 readOnlyRootFilesystem: true,
               },
               livenessProbe: {
-                httpGet: { path: "/healthz", port: 8080 },
+                httpGet: { path: "/healthz", port: kubeStateMetrics.containerPort },
                 initialDelaySeconds: 5,
                 periodSeconds: 10,
               },

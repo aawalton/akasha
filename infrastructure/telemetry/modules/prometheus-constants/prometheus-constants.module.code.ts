@@ -2,18 +2,14 @@ import {
   kubernetesLabels,
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
+import { prometheus } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/prometheus/prometheus.service-cluster.ts"
 
-export const NAMESPACE = "prometheus"
+export const NAMESPACE = prometheus.namespace
 export const KUBE_SYSTEM_NAMESPACE = "kube-system"
 
 const PART_OF = "monitoring"
 const MANAGED_BY = "bootstrap"
 
-export const PROMETHEUS_IMAGE = "prom/prometheus:v2.54.1"
-export const KUBE_STATE_METRICS_IMAGE =
-  "registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.13.0"
-export const NODE_EXPORTER_IMAGE = "prom/node-exporter:v1.8.2"
-export const DCGM_EXPORTER_IMAGE = "nvcr.io/nvidia/k8s/dcgm-exporter:4.2.3-4.1.3-ubuntu22.04"
 export const BUSYBOX_IMAGE = "busybox:1.36"
 
 export const NAMESPACE_LABELS = kubernetesLabels({

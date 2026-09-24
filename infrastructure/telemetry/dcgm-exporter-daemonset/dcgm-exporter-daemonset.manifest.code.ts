@@ -1,8 +1,8 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
+import { dcgmExporterDaemonset } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/dcgm-exporter-daemonset/dcgm-exporter-daemonset.service-cluster.ts"
 import { dcgmExporterDaemonset as page } from "akasha/infrastructure/telemetry/dcgm-exporter-daemonset/dcgm-exporter-daemonset.manifest.ts"
 import {
-  DCGM_EXPORTER_IMAGE,
   DCGM_EXPORTER_LABELS,
   DCGM_EXPORTER_SELECTOR_LABELS,
   KUBE_SYSTEM_NAMESPACE,
@@ -11,10 +11,10 @@ import {
 function dcgmExporterDaemonsetYaml(): string {
   return synthOne(KUBE_SYSTEM_NAMESPACE, "dcgm-exporter-daemonset", {
     apiVersion: "apps/v1",
-    kind: "DaemonSet",
+    kind: dcgmExporterDaemonset.resourceKind,
     metadata: {
-      name: "dcgm-exporter",
-      namespace: KUBE_SYSTEM_NAMESPACE,
+      name: dcgmExporterDaemonset.resourceName,
+      namespace: dcgmExporterDaemonset.namespace,
       labels: DCGM_EXPORTER_LABELS,
     },
     spec: {
@@ -31,8 +31,14 @@ function dcgmExporterDaemonsetYaml(): string {
           containers: [
             {
               name: "dcgm-exporter",
-              image: DCGM_EXPORTER_IMAGE,
-              ports: [{ name: "metrics", containerPort: 9400, hostPort: 9400 }],
+              image: dcgmExporterDaemonset.image,
+              ports: [
+                {
+                  name: "metrics",
+                  containerPort: dcgmExporterDaemonset.containerPort,
+                  hostPort: dcgmExporterDaemonset.containerPort,
+                },
+              ],
               env: [
                 { name: "NVIDIA_VISIBLE_DEVICES", value: "all" },
                 { name: "NVIDIA_DRIVER_CAPABILITIES", value: "all" },

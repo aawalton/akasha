@@ -1,8 +1,8 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
+import { nodeExporterDaemonset } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/node-exporter-daemonset/node-exporter-daemonset.service-cluster.ts"
 import {
   KUBE_SYSTEM_NAMESPACE,
-  NODE_EXPORTER_IMAGE,
   NODE_EXPORTER_LABELS,
   NODE_EXPORTER_SELECTOR_LABELS,
 } from "akasha/infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.code.ts"
@@ -39,10 +39,10 @@ done`
 function nodeExporterDaemonsetYaml(): string {
   return synthOne(KUBE_SYSTEM_NAMESPACE, "node-exporter-daemonset", {
     apiVersion: "apps/v1",
-    kind: "DaemonSet",
+    kind: nodeExporterDaemonset.resourceKind,
     metadata: {
-      name: "node-exporter",
-      namespace: KUBE_SYSTEM_NAMESPACE,
+      name: nodeExporterDaemonset.resourceName,
+      namespace: nodeExporterDaemonset.namespace,
       labels: NODE_EXPORTER_LABELS,
     },
     spec: {
@@ -59,16 +59,22 @@ function nodeExporterDaemonsetYaml(): string {
           containers: [
             {
               name: "node-exporter",
-              image: NODE_EXPORTER_IMAGE,
+              image: nodeExporterDaemonset.image,
               args: [
                 "--path.procfs=/host/proc",
                 "--path.sysfs=/host/sys",
                 "--path.rootfs=/host/root",
                 "--collector.filesystem.mount-points-exclude=^/(dev|proc|sys|var/lib/docker/.+|var/lib/kubelet/.+)($|/)",
                 `--collector.textfile.directory=${TEXTFILE_DIR}`,
-                "--web.listen-address=:9100",
+                `--web.listen-address=:${nodeExporterDaemonset.containerPort}`,
               ],
-              ports: [{ name: "metrics", containerPort: 9100, hostPort: 9100 }],
+              ports: [
+                {
+                  name: "metrics",
+                  containerPort: nodeExporterDaemonset.containerPort,
+                  hostPort: nodeExporterDaemonset.containerPort,
+                },
+              ],
               resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
