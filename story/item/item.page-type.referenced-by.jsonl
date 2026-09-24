@@ -3,7 +3,9 @@
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-bowl-fragment.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-burning-anger.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-charcoaled-timber.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-cistern-flood.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-clouded-lens.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-corroded-spiral-stair.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-counterweight-colossus-stone-and-iron-arm.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-counterweight-colossus-stone-and-iron-body.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-drifted-ash.item.ts"}
@@ -17,14 +19,17 @@
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-host-trueform-grey-claws.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-host-trueform-grey-flesh.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-leech-glut-cold-mouths.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-loose-walkway-slabs.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-plinth-golem-slag-hide.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-plinth-golem-slag-limb.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-reclaimed-den-metal.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-river-stone.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-rusted-bracket-spikes.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-snapped-cold-iron-blade.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-stalker-eye-lens.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-stalker-hide-cloak.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-stalker-hide.item.ts"}
+{"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-submerged-platform.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-the-host-01-intimate-counter.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-the-host-01-skin-of-warm-light.item.ts"}
 {"propertySlug":"import","fileName":"item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-the-host-trueform-02-grey-claws.item.ts"}
