@@ -62,9 +62,15 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/swift/swift.temper-jewelry-trait.ts","id":"019e5b97-6d95-75b3-a895-c8f82be3f293"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/triune.temper-jewelry-trait.ts","id":"019e5b97-6d96-7db5-902b-64e6d928282a"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/crushing/crushing.temper-weapon-enchant.ts","id":"019e5c0d-dcf2-7ea9-8369-59125d45ba78"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/crushing/grades/weapon-enchant-crushing-superior-penetration-physical.temper-gear-grade.ts","id":"01a0d3e7-9635-77c1-8c1e-47fc5e6f51b5"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/crushing/grades/weapon-enchant-crushing-superior-penetration-spell.temper-gear-grade.ts","id":"01a0d3e7-9ef0-7af4-8680-dc710ccb4c4e"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/weapon-damage/grades/weapon-enchant-weapon-damage-superior-power-spell.temper-gear-grade.ts","id":"01a0d3e8-0388-7202-8a0b-c6cb2ff41a55"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/weapon-damage/grades/weapon-enchant-weapon-damage-superior-power-weapon.temper-gear-grade.ts","id":"01a0d3e7-fa57-7e2f-b505-ee75a7a060fa"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/weapon-damage/weapon-damage.temper-weapon-enchant.ts","id":"019e5c0d-dce7-7d85-8573-0a1869cbe34c"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/charged/charged.temper-weapon-trait.ts","id":"019e5b8b-e53c-79f0-81dc-92d792e3fb6f"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/charged/grades/weapon-trait-charged-superior.temper-gear-grade.ts","id":"01a0d3e8-401b-7bac-aecb-144fb1ad8661"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/decisive/decisive.temper-weapon-trait.ts","id":"019e5b8b-e540-7c05-bac0-3b47430a460f"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/decisive/grades/weapon-trait-decisive-superior.temper-gear-grade.ts","id":"01a0d3e8-70b3-7ba5-9fb9-16597fb82c55"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/defending/defending.temper-weapon-trait.ts","id":"019e5b8b-e543-76d9-9b56-a31dc1c69412"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/infused/infused.temper-weapon-trait.ts","id":"019e5b8b-e545-787d-9a0a-68e27557df53"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/nirnhoned/nirnhoned.temper-weapon-trait.ts","id":"019e5b8b-e547-7d4a-8306-4568b26afcec"}

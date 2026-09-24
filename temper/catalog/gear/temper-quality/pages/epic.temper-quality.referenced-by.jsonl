@@ -63,9 +63,15 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/swift/swift.temper-jewelry-trait.ts","id":"019e5b97-6d95-75b3-a895-c8f82be3f293"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/triune.temper-jewelry-trait.ts","id":"019e5b97-6d96-7db5-902b-64e6d928282a"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/crushing/crushing.temper-weapon-enchant.ts","id":"019e5c0d-dcf2-7ea9-8369-59125d45ba78"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/crushing/grades/weapon-enchant-crushing-epic-penetration-physical.temper-gear-grade.ts","id":"01a0d3e7-41ec-7f1e-988b-748812f7d142"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/crushing/grades/weapon-enchant-crushing-epic-penetration-spell.temper-gear-grade.ts","id":"01a0d3e7-5e65-7254-ac1f-b7443017a468"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/weapon-damage/grades/weapon-enchant-weapon-damage-epic-power-spell.temper-gear-grade.ts","id":"01a0d3e7-c2ca-7d0b-9a69-3220c7f56f4d"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/weapon-damage/grades/weapon-enchant-weapon-damage-epic-power-weapon.temper-gear-grade.ts","id":"01a0d3e7-b9ce-71a9-a99c-8404daab3a6c"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/weapon-damage/weapon-damage.temper-weapon-enchant.ts","id":"019e5c0d-dce7-7d85-8573-0a1869cbe34c"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/charged/charged.temper-weapon-trait.ts","id":"019e5b8b-e53c-79f0-81dc-92d792e3fb6f"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/charged/grades/weapon-trait-charged-epic.temper-gear-grade.ts","id":"01a0d3e8-2856-7ea5-a869-42c01394456a"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/decisive/decisive.temper-weapon-trait.ts","id":"019e5b8b-e540-7c05-bac0-3b47430a460f"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/decisive/grades/weapon-trait-decisive-epic.temper-gear-grade.ts","id":"01a0d3e8-5a22-748b-977c-987d22172848"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/defending/defending.temper-weapon-trait.ts","id":"019e5b8b-e543-76d9-9b56-a31dc1c69412"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/infused/infused.temper-weapon-trait.ts","id":"019e5b8b-e545-787d-9a0a-68e27557df53"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/nirnhoned/nirnhoned.temper-weapon-trait.ts","id":"019e5b8b-e547-7d4a-8306-4568b26afcec"}
