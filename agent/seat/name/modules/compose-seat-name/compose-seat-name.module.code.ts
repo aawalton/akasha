@@ -1,4 +1,7 @@
-import { personaIsDefault } from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
+import {
+  gameAt,
+  personaIsDefault,
+} from "akasha/agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"
 import { stated } from "akasha/code/type/narrowing/modules/stated/stated.module.code.ts"
 import {
   answeredByOf,
@@ -67,7 +70,7 @@ function spelling(seat: NameableSeat, root: string): readonly (string | null)[] 
     return [domain]
   }
   if (seat.principal === "alan" && persona !== null && !personaIsDefault(root, persona)) {
-    return [persona]
+    return domain !== null && gameAt(root, domain) !== null ? [persona, role, domain] : [persona]
   }
   return [domain, role, stated(seat.flex)]
 }

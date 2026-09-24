@@ -6,6 +6,7 @@ export const composeSeatName = {
   slug: "compose-seat-name",
   definition: "the name a seat goes by, spelled from the attributes the seat has",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -13,7 +14,13 @@ export const composeSeatName = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat of Alan's is named for its persona where that persona is not the default.",
+      statement:
+        "A seat of Alan's whose domain is a game is named for its persona, its role and that game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Any other seat of Alan's is named for its persona where that persona is not the default.",
     },
     {
       decisionKind: "decision-kind/departure",

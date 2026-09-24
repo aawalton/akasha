@@ -53,6 +53,7 @@
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-fa8824f81a1481b8.image.ts","id":"01a0c5f3-7a98-7a8b-a63d-af5b7b24e2e7"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-fe432f8d17190781.image.ts","id":"01a0c5f3-6911-7f68-9f44-20f3f8775ca6"}
 {"propertySlug":"image-persona","path":"infrastructure/inference/generation/image/pages/image-febe85bb2b75dc5c.image.ts","id":"01a0c5f3-6910-70e8-8664-fc0093ca6a70"}
+{"propertySlug":"import","fileName":"iris.persona.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts"}
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/iris-l1.persona-wallpaper-notification.ts","id":"019f0f60-1883-72e0-951f-586c605bd2b1"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-06-24.persona-craft-day.ts","id":"019f15d6-a625-703b-8657-f89479c8e7f7"}
