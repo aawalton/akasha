@@ -60,6 +60,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/file/rename-pages/rename-pages.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/page-type/change-property-on-page-type/change-property-on-page-type.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.code.ts"}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/change-page-page-type/change-page-page-type.change-mechanical.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/remove/remove-file-page/remove-file-page.change-mechanical-file.code.ts"}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"change/mechanical/file/rename/rename-file-page/rename-file-page.change-mechanical.code.ts"}

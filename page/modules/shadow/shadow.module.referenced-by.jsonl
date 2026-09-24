@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/runner/change-runner.page-type.type-generator.ts"}

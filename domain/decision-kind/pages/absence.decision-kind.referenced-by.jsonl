@@ -600,6 +600,7 @@
 {"propertySlug":"decision-kind","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.ts","id":"01a0828f-8c20-74d5-b11c-d220948452b4"}
 {"propertySlug":"decision-kind","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts","id":"01a095a8-fcf7-7a63-8a11-80ee5c1a3025"}
 {"propertySlug":"decision-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
+{"propertySlug":"decision-kind","path":"change/generator/modules/change-generating/change-generating.module.ts","id":"01a0d4dd-b151-7c71-ac4c-0aca0b91216e"}
 {"propertySlug":"decision-kind","path":"change/kind/pages/change-mechanical.change-kind.ts","id":"01a05df1-e262-72e3-8f24-d6e5e4ed122d"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts","id":"01a08174-b09a-7bbd-acf1-6892ecfb3575"}
 {"propertySlug":"decision-kind","path":"change/mechanical/file-content/add/add-property-record/add-property-record.change-mechanical-file-content.ts","id":"01a081d9-419a-72bf-ae0b-5318df5fce07"}

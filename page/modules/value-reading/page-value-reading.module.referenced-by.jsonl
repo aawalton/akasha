@@ -93,6 +93,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.test.ts"}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.code.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/file-content/change/change-domain-parent/change-domain-parent.change-mechanical-file-content.test.ts"}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.test.ts"}

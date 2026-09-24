@@ -10,7 +10,7 @@ export const changeGenerator = {
     { partOfSpeech: "part-of-speech/noun", spelling: "change generators" },
   ],
   extends: ["page-type/module"],
-  parts: ["multi-relation-property/runs-after"],
+  parts: ["module/change-generating", "multi-relation-property/runs-after"],
   properties: [
     {
       pageProperty: "multi-relation-property/runs-after",

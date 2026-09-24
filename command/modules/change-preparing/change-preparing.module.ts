@@ -74,6 +74,15 @@ export const changePreparing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The change generator pages add their edits after those five and before the index answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change generator that refused refuses the change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page's group writes that page's file on the one landing.",
     },
     {
