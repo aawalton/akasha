@@ -4,6 +4,7 @@ import { createPage } from "akasha/page/access/modules/create/create.module.code
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { companionWeaponTypes } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionValuesOf } from "akasha/temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts"
@@ -46,6 +47,7 @@ export async function importCompanionFromHash(
     return { result: { error: "create-failed", message: noAccountPageWhy(userId) }, headers }
   }
 
+  await loadCompanionCatalog()
   const buildState = decodeCompanion(hash)
   if (!buildState) {
     return { result: { error: "invalid-hash" }, headers }

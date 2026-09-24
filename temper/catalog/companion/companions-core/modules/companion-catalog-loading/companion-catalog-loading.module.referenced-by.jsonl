@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"companion-catalog-loading.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog-loading.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-catalog-loading.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog-loading.module.code.ts","path":"temper/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog-loading.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}

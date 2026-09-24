@@ -25,6 +25,10 @@ export const companionImport = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The companion catalogue is read before a hash is decoded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A hash the reader already has gives back the build already filed.",
     },
     {
