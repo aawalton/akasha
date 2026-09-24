@@ -75,6 +75,27 @@ test("a function using variable returns says so", () => {
   expect(found?.hasVariableReturns).toBe(true)
 })
 
+test("a function marked private or protected is read, and says so", () => {
+  const dump = [
+    "h2. Game API",
+    "* GetOpen()",
+    "** _Returns:_ *bool* _open_",
+    "* GetHidden *private* (*integer* _group_)",
+    "** _Returns:_ *integer* _count_",
+    "* SetGuarded *protected* ()",
+    "",
+    "h2. Object API",
+  ].join("\n")
+  const found = parseFunctions(dump)
+  expect(found.map((one) => [one.name, one.access])).toEqual([
+    ["GetOpen", undefined],
+    ["GetHidden", "private"],
+    ["SetGuarded", "protected"],
+  ])
+  expect(found[0]?.returns).toEqual([{ name: "open", type: "boolean" }])
+  expect(found[1]?.returns).toEqual([{ name: "count", type: "number" }])
+})
+
 test("a documented type outside the map is answered as the dump spells it", () => {
   const dump = ["h2. Game API", "* GetThing(*Widget* _w_)", "", "h2. Object API"].join("\n")
   expect(parseFunctions(dump)[0]?.params[0]?.type).toBe("Widget")

@@ -56,6 +56,14 @@ export const esoDocTokens = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A function the dump marks private or protected is read, carrying that mark.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Only the game's own interface calls a private function.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An enum with no values is no enum.",
     },
     {

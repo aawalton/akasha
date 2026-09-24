@@ -108,6 +108,7 @@ export interface ParsedEnum {
 
 export interface ParsedFunction {
   name: string
+  access?: string
   params: Array<{ name: string; type: string; isOptional: boolean }>
   returns: Array<{ name: string; type: string }>
   hasVariableReturns: boolean
@@ -201,6 +202,8 @@ export function parseEnums(content: string): ParsedEnum[] {
   return enums
 }
 
+const FUNCTION_LINE = /^\*\s+(\w+)(?:\s+\*([a-z-]+)\*)?\s*\((.*)\)$/
+
 export function parseFunctions(content: string): ParsedFunction[] {
   const functions: ParsedFunction[] = []
 
@@ -220,18 +223,18 @@ export function parseFunctions(content: string): ParsedFunction[] {
   let hasVariableReturns = false
 
   for (const line of sectionLines) {
-    const funcMatch = parseMatch2(line, /^\*\s+(\w+)\((.*)\)$/)
+    const funcMatch = FUNCTION_LINE.exec(line)
     if (funcMatch) {
       if (currentFunc) {
         currentFunc.hasVariableReturns = hasVariableReturns
         functions.push(currentFunc)
       }
 
-      const funcName = funcMatch[0]
-      const paramsStr = funcMatch[1]
+      const [, funcName = "", access, paramsStr = ""] = funcMatch
 
       currentFunc = {
         name: funcName,
+        ...(access === undefined ? {} : { access }),
         params: [],
         returns: [],
         hasVariableReturns: false,

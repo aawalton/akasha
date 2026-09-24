@@ -232,7 +232,7 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
   const selected = selectOptIn(
     {
       enums: parseEnums(doc),
-      functions: parseFunctions(doc),
+      functions: parseFunctions(doc).filter((one) => one.access === undefined),
       events: parseEvents(doc),
       objects: parseObjects(doc),
     },

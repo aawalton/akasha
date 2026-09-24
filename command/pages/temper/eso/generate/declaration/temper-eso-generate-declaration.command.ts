@@ -19,6 +19,11 @@ export const temperEsoGenerateDeclaration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A function the documentation marks private or protected is declared for no addon.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An enum a kept token names is kept.",
     },
     {

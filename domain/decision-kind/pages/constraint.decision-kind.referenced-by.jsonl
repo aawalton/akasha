@@ -1080,6 +1080,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.ts","id":"01a0cafe-77ad-7be1-b57d-13ea2f9ec1ed"}
 {"propertySlug":"decision-kind","path":"temper/eso/constant/temper-eso-constant.domain.ts","id":"01a0cac4-be34-72eb-b6bf-8acc883ca004"}
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-declaration-narrowing/eso-declaration-narrowing.module.ts","id":"01a0ca7d-ccfa-7d68-ad8a-cc8ae5982e94"}
+{"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-doc-tokens/eso-doc-tokens.module.ts","id":"01a0673e-3ddf-7001-acad-9b0751ef4567"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/eso-sandbox-prelude/eso-sandbox-prelude.lua-module.ts","id":"01a06059-2490-71da-a837-990f36920c7e"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
 {"propertySlug":"decision-kind","path":"temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.ts","id":"01a0d3c6-faa9-7055-a0c7-5406e809aa28"}
