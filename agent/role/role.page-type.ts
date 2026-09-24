@@ -23,6 +23,7 @@ export const role = {
     "role/recorder",
     "role/scenewright",
     "role/worker",
+    "role/world-builder",
   ],
   properties: [{ pageProperty: "boolean-property/on-call", required: true, many: false }],
   directives: [

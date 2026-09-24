@@ -11,5 +11,6 @@
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/recorder.role.ts"}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/scenewright.role.ts"}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/worker.role.ts"}
+{"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/world-builder.role.ts"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
 {"propertySlug":"target-page-type","path":"agent/seat/properties/role.relation-property.ts","id":"01a05035-2609-769e-8bce-5f13a7ed3df4"}
