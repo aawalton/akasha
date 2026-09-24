@@ -1236,6 +1236,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-finishing/landing-finishing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-reading/landing-reading.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-reworking/landing-reworking.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing-saying/landing-saying.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/landing/landing.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"command/modules/leveling/command-leveling.module.ts"}

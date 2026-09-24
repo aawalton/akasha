@@ -14,6 +14,8 @@
 {"propertySlug":"import","fileName":"property-carrying.module.code.ts","path":"command/modules/change-freshness/change-freshness.module.code.ts"}
 {"propertySlug":"import","fileName":"property-carrying.module.code.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts"}
 {"propertySlug":"import","fileName":"property-carrying.module.code.ts","path":"command/modules/change-preparing/change-preparing.module.code.ts"}
+{"propertySlug":"import","fileName":"property-carrying.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.code.ts"}
+{"propertySlug":"import","fileName":"property-carrying.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.test.ts"}
 {"propertySlug":"import","fileName":"property-carrying.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
 {"propertySlug":"import","fileName":"property-carrying.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"property-carrying.module.code.ts","path":"domain/context/warrant/file-itself/file-itself.context-warrant.code.ts"}

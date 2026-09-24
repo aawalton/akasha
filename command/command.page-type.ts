@@ -58,6 +58,7 @@ export const command = {
     "module/landing-change-composing",
     "module/landing-finishing",
     "module/landing-reading",
+    "module/landing-reworking",
     "module/landing-saying",
     "module/long-body",
     "module/mechanical-filing",

@@ -25,6 +25,10 @@ export const AGAIN_WORKED =
   " and another landing has moved it since. No edit is kept for such a path, so there is nothing" +
   " to drop — apply again, and it is worked out afresh against the commit at HEAD."
 
+export function workedOnly(refusals: readonly string[]): boolean {
+  return refusals.length === 2 && refusals[1] === AGAIN_WORKED
+}
+
 function sameBytes(one: Uint8Array | null, two: Uint8Array | null): boolean {
   if (one === null || two === null) return one === two
   return Buffer.from(one).equals(Buffer.from(two))

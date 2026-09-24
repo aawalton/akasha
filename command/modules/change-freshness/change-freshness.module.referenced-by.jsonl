@@ -8,5 +8,7 @@
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.test.ts"}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/change-freshness/change-freshness.module.test.ts"}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.code.ts"}
+{"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.code.ts"}
+{"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.test.ts"}
 {"propertySlug":"import","fileName":"change-freshness.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

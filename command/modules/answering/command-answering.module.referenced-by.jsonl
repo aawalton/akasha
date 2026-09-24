@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/cli/cli.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/cli/cli.module.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/draft-keeping/draft-keeping.module.code.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/mechanical-filing/mechanical-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/modules/page-answering/page-answering.module.code.ts"}

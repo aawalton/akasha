@@ -267,6 +267,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing-reading/landing-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing-reading/landing-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing-reworking/landing-reworking.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/modules/landing/landing.module.test.ts"}

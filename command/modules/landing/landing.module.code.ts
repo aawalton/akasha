@@ -114,7 +114,7 @@ type Held = {
   readonly untracked: readonly string[]
 }
 
-const AGAIN_WRITTEN =
+export const AGAIN_WRITTEN =
   "nothing was written — the edits kept do not rebase, and reading those bodies again does not" +
   " move them. Each line above names one path whose body moved, and every path named there has" +
   " an edit kept, so a drop naming those paths with an `at:` line each takes their edits away" +
