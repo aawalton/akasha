@@ -6,6 +6,7 @@ export const playedChannel = {
   slug: "played-channel",
   definition: "the run play left a story, its turns of prose and the beats under them",
   code: "tsx",
+  test: "tsx",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
