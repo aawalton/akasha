@@ -39,8 +39,17 @@ export const uiPicture = {
       statement: "A font's size and weight are read off the name the control was given.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The game's own typefaces ship inside the client, so a near one is used instead.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Text is set in the game's own typeface where a caller says which file is behind it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A face with no file behind it is set in a near typeface instead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A face is known by the name the game gives it or by the file it is.",
     },
     {
       decisionKind: "decision-kind/departure",

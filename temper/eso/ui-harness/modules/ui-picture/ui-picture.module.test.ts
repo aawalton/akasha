@@ -170,6 +170,38 @@ describe("pictureHtml", () => {
     expect(html).toContain("text-shadow:1px 1px 0 rgba(0, 0, 0, 0.95)")
   })
 
+  test("sets text in the game's own typeface where a caller says which file is behind it", () => {
+    const html = pictureHtml(
+      control({
+        controlType: CT_LABEL,
+        width: 10,
+        height: 10,
+        text: "Temper",
+        font: "$(BOLD_FONT)|18",
+      }),
+      { fontAt: () => "data:font/otf;base64,AA" }
+    )
+    expect(html).toContain(
+      "@font-face{font-family:'eso-BOLD_FONT';src:url(\"data:font/otf;base64,AA\");}"
+    )
+    expect(html).toContain("font-family:'eso-BOLD_FONT', ")
+    expect(html).toContain("font-weight:400")
+  })
+
+  test("weighs a face named by its file as the game's names for it are weighed", () => {
+    const html = pictureHtml(
+      control({
+        controlType: CT_LABEL,
+        width: 10,
+        height: 10,
+        text: "Temper",
+        font: "EsoUI/Common/Fonts/Univers67.slug|20|soft-shadow-thick",
+      })
+    )
+    expect(html).toContain("font-weight:700")
+    expect(html).toContain("font-size:20px")
+  })
+
   test("leaves out a hidden control and everything under it", () => {
     const html = pictureHtml(
       control({

@@ -1,4 +1,5 @@
 export async function paintArt(): Promise<number> {
+  await document.fonts.ready
   const whole = 255
   const segments = 8
   const quarter = Math.PI / 2

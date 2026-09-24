@@ -50,18 +50,32 @@ const DEFAULT_FAMILY =
 
 const SERIF_FAMILY = "'Liberation Serif', Georgia, serif"
 
+const BOLD = 700
+
+const MEDIUM = 500
+
+const HANDWRITTEN_FAMILY = "'URW Chancery L', 'Apple Chancery', cursive"
+
 const FONT_WEIGHTS: Readonly<Record<string, number>> = {
-  BOLD_FONT: 700,
-  GAMEPAD_BOLD_FONT: 700,
-  STONE_TABLET_FONT: 700,
-  MEDIUM_FONT: 500,
-  GAMEPAD_MEDIUM_FONT: 500,
+  BOLD_FONT: BOLD,
+  GAMEPAD_BOLD_FONT: BOLD,
+  STONE_TABLET_FONT: BOLD,
+  MEDIUM_FONT: MEDIUM,
+  GAMEPAD_MEDIUM_FONT: MEDIUM,
+  univers67: BOLD,
+  ftn87: BOLD,
+  "trajanpro-regular": BOLD,
+  univers57: MEDIUM,
+  ftn57: MEDIUM,
 }
 
 const FONT_FAMILIES: Readonly<Record<string, string>> = {
   ANTIQUE_FONT: SERIF_FAMILY,
   STONE_TABLET_FONT: SERIF_FAMILY,
-  HANDWRITTEN_FONT: "'URW Chancery L', 'Apple Chancery', cursive",
+  HANDWRITTEN_FONT: HANDWRITTEN_FAMILY,
+  proseantiquepsmt: SERIF_FAMILY,
+  "trajanpro-regular": SERIF_FAMILY,
+  handwritten_bold: HANDWRITTEN_FAMILY,
 }
 
 const FONT_SHADOWS: Readonly<Record<string, string>> = {
@@ -73,6 +87,8 @@ const FONT_SHADOWS: Readonly<Record<string, string>> = {
 }
 
 const FONT_NAMED = /\$\(([A-Z_0-9]+)\)/
+
+const FONT_FILE = /([^/\\]+)\.(?:slug|otf|ttf)$/i
 
 const START = "flex-start"
 
@@ -104,6 +120,7 @@ export type UiPictureOptions = {
   readonly whole?: boolean
   readonly origin?: { readonly left: number; readonly top: number }
   readonly textureAt?: (texture: string) => string | null
+  readonly fontAt?: (face: string) => string | null
 }
 
 type FontFace = {
@@ -173,18 +190,42 @@ function asCss(color: UiColor): string {
   return `rgba(${Math.round(red * FULL)}, ${Math.round(green * FULL)}, ${Math.round(blue * FULL)}, ${opacity})`
 }
 
-function fontOf(font: string | undefined): FontFace {
+function faceKey(face: string): string {
+  const named = FONT_NAMED.exec(face)
+  if (named !== null) return named[1] ?? ""
+  return FONT_FILE.exec(face)?.[1]?.toLowerCase() ?? ""
+}
+
+function faceOf(font: string | undefined): string {
+  return (font ?? "").split("|")[0] ?? ""
+}
+
+function facesCss(shown: readonly UiControl[], options: UiPictureOptions): string {
+  const faces = new Map<string, string>()
+  for (const one of shown) {
+    const face = faceOf(one.font)
+    const at = face === "" ? null : (options.fontAt?.(face) ?? null)
+    if (at !== null) faces.set(faceKey(face), at)
+  }
+  return [...faces]
+    .map(([key, at]) => `@font-face{font-family:'eso-${key}';src:url("${at}");}`)
+    .join("\n")
+}
+
+function fontOf(font: string | undefined, options: UiPictureOptions): FontFace {
   const parts = (font ?? "").split("|")
-  const matched = FONT_NAMED.exec(parts[0] ?? "")
-  const key = matched === null ? "" : (matched[1] ?? "")
+  const face = parts[0] ?? ""
+  const key = faceKey(face)
+  const own = face === "" ? null : (options.fontAt?.(face) ?? null)
   const size = Number(parts[1])
   const shadows = parts
     .slice(2)
     .map((one) => FONT_SHADOWS[one] ?? "")
     .filter((one) => one !== "")
+  const near = FONT_FAMILIES[key] ?? DEFAULT_FAMILY
   return {
-    family: FONT_FAMILIES[key] ?? DEFAULT_FAMILY,
-    weight: FONT_WEIGHTS[key] ?? 400,
+    family: own === null ? near : `'eso-${key}', ${near}`,
+    weight: own === null ? (FONT_WEIGHTS[key] ?? 400) : 400,
     size: Number.isFinite(size) && size > 0 ? size : DEFAULT_FONT_SIZE,
     shadow: shadows.join(", "),
   }
@@ -277,7 +318,7 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
     return `<div class="c"${told} style="${place}${fade}background:${middle};${edge}"></div>`
   }
   if (one.controlType === CT_LABEL || one.controlType === CT_BUTTON) {
-    const face = fontOf(one.font)
+    const face = fontOf(one.font, options)
     const ink = asCss(one.color ?? INK)
     const shadow = face.shadow === "" ? "" : `text-shadow:${face.shadow};`
     const framed =
@@ -312,13 +353,13 @@ function boxHtml(one: UiControl, options: UiPictureOptions): string {
 }
 
 export function pictureHtml(root: UiControl, options: UiPictureOptions = {}): string {
-  const body = shownIn(root)
-    .map((one) => boxHtml(one, options))
-    .join("\n")
+  const shown = shownIn(root)
+  const body = shown.map((one) => boxHtml(one, options)).join("\n")
   const behind = options.backdrop ?? DEFAULT_BACKDROP
   return [
     "<!doctype html>",
     '<html lang="en"><head><meta charset="utf-8"><title>eso ui</title><style>',
+    facesCss(shown, options),
     `html,body{margin:0;padding:0;background:${behind};}`,
     ".c{position:absolute;box-sizing:border-box;overflow:hidden;white-space:pre;}",
     "</style></head><body>",

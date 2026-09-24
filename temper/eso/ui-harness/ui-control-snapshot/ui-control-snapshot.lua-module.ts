@@ -17,6 +17,10 @@ export const uiControlSnapshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A font a control names is carried as that font's face, size and effect.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A snapshot naming no control is of the screen.",
     },
     {

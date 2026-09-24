@@ -5,6 +5,15 @@ local insert = table.insert
 
 local place = _G.__ui_place
 
+local function fontText(said)
+  local named = _G.__ui_font
+  if type(said) ~= "string" or named == nil then return said end
+  local face, size, effect = named(said)
+  if face == nil then return said end
+  if effect == nil or effect == "" then return face .. "|" .. tostring(size) end
+  return face .. "|" .. tostring(size) .. "|" .. effect
+end
+
 local function snapshotOf(control)
   local left, top, width, height = place(control)
   local children = {}
@@ -34,7 +43,7 @@ local function snapshotOf(control)
     height = height,
     alpha = control.uiAlpha,
     text = control.uiText,
-    font = control.uiFont,
+    font = fontText(control.uiFont),
     alignH = control.uiAlignH,
     alignV = control.uiAlignV,
     texture = control.uiTexture,

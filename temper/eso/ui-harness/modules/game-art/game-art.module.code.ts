@@ -4,6 +4,7 @@ import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts
 import {
   esoArtDir,
   esoClientDir,
+  esouiSourceDir,
 } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 import {
   type ArchiveRead,
@@ -11,10 +12,19 @@ import {
   openGameArchive,
 } from "akasha/temper/eso/ui-harness/modules/game-archive/game-archive.module.code.ts"
 import { oodleUnpack } from "akasha/temper/eso/ui-harness/modules/oodle-decoding/oodle-decoding.module.code.ts"
+import { gameFontStrings } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 
 export type ArtAt = (texture: string) => string | null
 
 const PICTURES = "png"
+
+const TYPEFACES = "fonts"
+
+const FACE_KINDS: readonly string[] = ["otf", "ttf"]
+
+const PLACEHOLDER = /\$\(([A-Za-z0-9_]+)\)/g
+
+const SLUG = /\.slug$/i
 
 function drawn(read: ArchiveRead, texture: string, picture: string): boolean {
   const stored = read(texture)
@@ -27,24 +37,68 @@ function drawn(read: ArchiveRead, texture: string, picture: string): boolean {
   return done.code === 0 && existsSync(picture)
 }
 
-export async function gameArt(): Promise<ArtAt> {
+function copied(read: ArchiveRead, path: string, kept: string): boolean {
+  const stored = read(path)
+  if (stored === null) return false
+  mkdirSync(dirname(kept), { recursive: true })
+  writeFileSync(kept, stored)
+  return true
+}
+
+type Opened = { readonly art: string; readonly read: () => ArchiveRead }
+
+async function opened(): Promise<Opened | null> {
   const client = esoClientDir()
-  if (!existsSync(client)) return () => null
+  if (!existsSync(client)) return null
   const art = esoArtDir()
   const unpack = await oodleUnpack(art)
   let read: ArchiveRead | undefined
-  const answered = new Map<string, string | null>()
-  return (texture) => {
-    const held = answered.get(texture)
-    if (held !== undefined) return held
-    const picture = join(art, PICTURES, `${archiveName(texture).replace(/\.dds$/, "")}.png`)
-    let found = existsSync(picture)
-    if (!found) {
+  return {
+    art,
+    read: () => {
       read ??= openGameArchive(client, unpack)
-      found = drawn(read, texture, picture)
-    }
-    const url = found ? `data:image/png;base64,${readFileSync(picture).toString("base64")}` : null
-    answered.set(texture, url)
-    return url
+      return read
+    },
   }
+}
+
+function remembered(answer: ArtAt): ArtAt {
+  const answered = new Map<string, string | null>()
+  return (named) => {
+    const held = answered.get(named)
+    if (held !== undefined) return held
+    const found = answer(named)
+    answered.set(named, found)
+    return found
+  }
+}
+
+function keptAt(kept: string, made: () => boolean, type: string): string | null {
+  if (!existsSync(kept) && !made()) return null
+  return `data:${type};base64,${readFileSync(kept).toString("base64")}`
+}
+
+export async function gameArt(): Promise<ArtAt> {
+  const archive = await opened()
+  if (archive === null) return () => null
+  return remembered((texture) => {
+    const picture = join(archive.art, PICTURES, `${archiveName(texture).replace(/\.dds$/, "")}.png`)
+    return keptAt(picture, () => drawn(archive.read(), texture, picture), "image/png")
+  })
+}
+
+export async function gameTypefaces(): Promise<ArtAt> {
+  const archive = await opened()
+  if (archive === null) return () => null
+  const strings = gameFontStrings(esouiSourceDir())
+  return remembered((face) => {
+    const path = face.replace(PLACEHOLDER, (whole, key: string) => strings[key] ?? whole)
+    for (const kind of FACE_KINDS) {
+      const named = path.replace(SLUG, `.${kind}`)
+      const kept = join(archive.art, TYPEFACES, archiveName(named))
+      const found = keptAt(kept, () => copied(archive.read(), named, kept), `font/${kind}`)
+      if (found !== null) return found
+    }
+    return null
+  })
 }

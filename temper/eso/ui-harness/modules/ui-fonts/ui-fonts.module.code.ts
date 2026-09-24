@@ -51,8 +51,12 @@ export function fontsIn(
   return found
 }
 
+export function gameFontStrings(root: string): Readonly<Record<string, string>> {
+  return fontStrings(textsAt(root, STRINGS_AT))
+}
+
 export function gameFonts(root: string): Readonly<Record<string, GameFont>> {
-  return fontsIn(textsAt(root, FONTS_AT), fontStrings(textsAt(root, STRINGS_AT)))
+  return fontsIn(textsAt(root, FONTS_AT), gameFontStrings(root))
 }
 
 export function fontsLua(fonts: Readonly<Record<string, GameFont>>): string {

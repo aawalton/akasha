@@ -23,6 +23,19 @@ export const gameArt = {
     {
       decisionKind: "decision-kind/constraint",
       statement:
+        "The game ships each face it names as a slug file beside an OpenType or TrueType one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A typeface is the OpenType or TrueType file beside the face the game names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A face named by placeholder is looked up in the game's own font strings first.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
         "The game's art is Alan's own install's, so it is used locally and never published.",
     },
     {
