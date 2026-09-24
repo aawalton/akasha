@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsSpotifySessionsIBetMyLifeLiveFromSpotif
   title: "I Bet My Life - Live From Spotify London",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "ibetmylifelivefromspotifylondon|53XhwfbYqKCa1cC15pYq2q|228340",
   song: "song/imagine-dragons-i-bet-my-life",
   carriedBy: [

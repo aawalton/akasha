@@ -12,7 +12,7 @@ export const coldplayMoonMusicFullMoonEditionManInTheMoon = {
   title: "Man in The Moon",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "maninthemoon|4gzpq5DPGxSnKTe4SA8HAU|234600",
   song: "song/coldplay-man-in-the-moon",
   carriedBy: [

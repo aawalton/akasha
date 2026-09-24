@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveInVegasLonelyLiveInVegas = {
   title: "Lonely - Live in Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "lonelyliveinvegas|53XhwfbYqKCa1cC15pYq2q|298326",
   song: "song/imagine-dragons-lonely",
   carriedBy: [

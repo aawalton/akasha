@@ -12,7 +12,7 @@ export const coldplayLive2003ShiverLiveInSydney = {
   title: "Shiver - Live in Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "shiverliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|325733",
   song: "song/coldplay-shiver",
   carriedBy: [

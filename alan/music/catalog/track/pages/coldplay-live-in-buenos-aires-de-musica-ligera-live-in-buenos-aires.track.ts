@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresDeMusicaLigeraLiveInBuenosAires = {
   title: "De Música Ligera - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "demusicaligeraliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|369306",
   song: "song/coldplay-de-musica-ligera",
   carriedBy: [

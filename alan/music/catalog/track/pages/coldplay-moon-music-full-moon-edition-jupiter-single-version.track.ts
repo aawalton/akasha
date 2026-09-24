@@ -12,7 +12,7 @@ export const coldplayMoonMusicFullMoonEditionJupiterSingleVersion = {
   title: "Jupiter - Single Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "jupitersingleversion|4gzpq5DPGxSnKTe4SA8HAU|173250",
   song: "song/coldplay-jupiter",
   carriedBy: [

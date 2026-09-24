@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresUpUpLiveInBuenosAires = {
   title: "Up&Up - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "upupliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|525706",
   song: "song/coldplay-up-up",
   carriedBy: [

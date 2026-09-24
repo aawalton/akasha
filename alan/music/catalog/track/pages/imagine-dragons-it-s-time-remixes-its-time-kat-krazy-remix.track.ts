@@ -15,7 +15,7 @@ export const imagineDragonsItSTimeRemixesItsTimeKatKrazyRemix = {
   title: "It's Time - Kat Krazy Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "itstimekatkrazyremix|53XhwfbYqKCa1cC15pYq2q|208013",
   song: "song/imagine-dragons-it-s-time",
   carriedBy: [

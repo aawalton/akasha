@@ -12,7 +12,7 @@ export const imagineDragonsEvolveYesterday = {
   title: "Yesterday",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "yesterday|53XhwfbYqKCa1cC15pYq2q|205113",
   song: "song/imagine-dragons-yesterday",
   carriedBy: [

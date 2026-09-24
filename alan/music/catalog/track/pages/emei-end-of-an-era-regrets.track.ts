@@ -12,7 +12,7 @@ export const emeiEndOfAnEraRegrets = {
   title: "Regrets",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "regrets|7E2aQQjErJocovYFjYLzWU|122253",
   song: "song/emei-regrets",
   carriedBy: [

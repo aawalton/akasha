@@ -15,7 +15,7 @@ export const coldplayProspektSMarchLoversInJapanOsakaSunMix = {
   title: "Lovers in Japan - Osaka Sun Mix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "loversinjapanosakasunmix|4gzpq5DPGxSnKTe4SA8HAU|238240",
   song: "song/coldplay-lovers-in-japan",
   carriedBy: [

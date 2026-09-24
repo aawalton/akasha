@@ -12,10 +12,7 @@ export const coldplayPrincessOfChinaParadiseTiestoRemix = {
   title: "Paradise - Tiësto Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "2o5jDhtHVPhrJdv3cEQ99Z", artistName: "Tiësto" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Tiësto" }],
   trackKey: "paradisetiestoremix|2o5jDhtHVPhrJdv3cEQ99Z,4gzpq5DPGxSnKTe4SA8HAU|286346",
   song: "song/coldplay-paradise",
   carriedBy: [

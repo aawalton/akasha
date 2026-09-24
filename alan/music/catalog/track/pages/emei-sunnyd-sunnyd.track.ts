@@ -12,10 +12,7 @@ export const emeiSunnydSunnyd = {
   title: "SUNNYD",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" },
-    { externalId: "0vqJkZ0RpLZixt3lTmD8vP", artistName: "Whethan" },
-  ],
+  trackArtist: [{ artist: "artist/emei" }, { artistName: "Whethan" }],
   trackKey: "sunnyd|0vqJkZ0RpLZixt3lTmD8vP,7E2aQQjErJocovYFjYLzWU|126674",
   song: "song/emei-sunnyd",
   carriedBy: [

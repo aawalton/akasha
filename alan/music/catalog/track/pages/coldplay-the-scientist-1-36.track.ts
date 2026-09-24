@@ -12,7 +12,7 @@ export const coldplayTheScientist136 = {
   title: "1.36",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "136|4gzpq5DPGxSnKTe4SA8HAU|125506",
   song: "song/coldplay-1-36",
   carriedBy: [

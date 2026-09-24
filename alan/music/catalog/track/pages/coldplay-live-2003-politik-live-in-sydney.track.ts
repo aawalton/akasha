@@ -12,7 +12,7 @@ export const coldplayLive2003PolitikLiveInSydney = {
   title: "Politik - Live in Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "politikliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|396466",
   song: "song/coldplay-politik",
   carriedBy: [

@@ -15,10 +15,7 @@ export const coldplayMoonMusicFullMoonEditionMoonMusic = {
   title: "MOON MUSiC",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "7yxi31szvlbwvKq9dYOmFI", artistName: "Jon Hopkins" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Jon Hopkins" }],
   trackKey: "moonmusic|4gzpq5DPGxSnKTe4SA8HAU,7yxi31szvlbwvKq9dYOmFI|276476",
   song: "song/coldplay-moon-music",
   carriedBy: [

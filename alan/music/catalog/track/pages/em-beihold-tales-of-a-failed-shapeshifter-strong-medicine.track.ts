@@ -12,7 +12,7 @@ export const emBeiholdTalesOfAFailedShapeshifterStrongMedicine = {
   title: "Strong Medicine",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "strongmedicine|7o2ZQYM7nTsaVdkXY38UAA|189624",
   song: "song/em-beihold-strong-medicine",
   carriedBy: [

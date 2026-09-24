@@ -12,7 +12,7 @@ export const emBeiholdInfraredCalculated = {
   title: "Calculated",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "calculated|7o2ZQYM7nTsaVdkXY38UAA|239576",
   song: "song/em-beihold-calculated",
   carriedBy: [

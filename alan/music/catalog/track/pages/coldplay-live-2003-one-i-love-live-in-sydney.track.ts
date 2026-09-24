@@ -12,7 +12,7 @@ export const coldplayLive2003OneILoveLiveInSydney = {
   title: "One I Love - Live in Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "oneiloveliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|308426",
   song: "song/coldplay-one-i-love",
   carriedBy: [

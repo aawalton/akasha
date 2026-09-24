@@ -12,7 +12,7 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIiLiveAtTheO2London = {
   title: "Life in Technicolor ii - Live at the O2, London",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "lifeintechnicoloriiliveattheo2london|4gzpq5DPGxSnKTe4SA8HAU|216813",
   song: "song/coldplay-life-in-technicolor-ii",
   carriedBy: [

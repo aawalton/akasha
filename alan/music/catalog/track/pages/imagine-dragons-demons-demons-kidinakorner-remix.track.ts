@@ -13,10 +13,10 @@ export const imagineDragonsDemonsDemonsKidinakornerRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "0vjlH9sbJOZyhDjhvajQpY", artistName: "Alex Da Kid" },
-    { externalId: "4XcwuarQvItfOFjloYb5kw", artistName: "Jayson DeZuzio" },
-    { externalId: "6se7gLvI94GpX7A0g94tV7", artistName: "Hygrade" },
+    { artist: "artist/imagine-dragons" },
+    { artistName: "Alex Da Kid" },
+    { artistName: "Jayson DeZuzio" },
+    { artistName: "Hygrade" },
   ],
   trackKey:
     "demonskidinakornerremix|0vjlH9sbJOZyhDjhvajQpY,4XcwuarQvItfOFjloYb5kw,53XhwfbYqKCa1cC15pYq2q,6se7gLvI94GpX7A0g94tV7|199680",

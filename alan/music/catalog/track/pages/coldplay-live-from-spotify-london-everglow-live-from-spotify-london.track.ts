@@ -12,7 +12,7 @@ export const coldplayLiveFromSpotifyLondonEverglowLiveFromSpotifyLondon = {
   title: "Everglow - Live from Spotify London",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "everglowlivefromspotifylondon|4gzpq5DPGxSnKTe4SA8HAU|255853",
   song: "song/coldplay-everglow",
   carriedBy: [

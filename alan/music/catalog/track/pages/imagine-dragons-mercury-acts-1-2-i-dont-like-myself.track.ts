@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12IDontLikeMyself = {
   title: "I Don't Like Myself",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "idontlikemyself|53XhwfbYqKCa1cC15pYq2q|185495",
   song: "song/imagine-dragons-i-don-t-like-myself",
   carriedBy: [

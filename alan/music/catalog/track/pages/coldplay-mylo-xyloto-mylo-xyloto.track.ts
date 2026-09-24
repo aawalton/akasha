@@ -12,7 +12,7 @@ export const coldplayMyloXylotoMyloXyloto = {
   title: "Mylo Xyloto",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "myloxyloto|4gzpq5DPGxSnKTe4SA8HAU|42106",
   song: "song/coldplay-mylo-xyloto",
   carriedBy: [

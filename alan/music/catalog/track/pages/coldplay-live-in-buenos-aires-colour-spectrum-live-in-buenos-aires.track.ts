@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresColourSpectrumLiveInBuenosAires = {
   title: "Colour Spectrum - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "colourspectrumliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|117760",
   song: "song/coldplay-colour-spectrum",
   carriedBy: [

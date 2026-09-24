@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresVivaLaVidaLiveInBuenosAires = {
   title: "Viva La Vida - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "vivalavidaliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|251066",
   song: "song/coldplay-viva-la-vida",
   carriedBy: [

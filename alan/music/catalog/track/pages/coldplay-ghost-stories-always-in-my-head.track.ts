@@ -12,7 +12,7 @@ export const coldplayGhostStoriesAlwaysInMyHead = {
   title: "Always in My Head",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "alwaysinmyhead|4gzpq5DPGxSnKTe4SA8HAU|216626",
   song: "song/coldplay-always-in-my-head",
   carriedBy: [

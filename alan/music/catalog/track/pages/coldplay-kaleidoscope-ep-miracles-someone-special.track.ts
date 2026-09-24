@@ -12,10 +12,7 @@ export const coldplayKaleidoscopeEpMiraclesSomeoneSpecial = {
   title: "Miracles (Someone Special)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "0c173mlxpT3dSFRgMO8XPh", artistName: "Big Sean" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Big Sean" }],
   trackKey: "miraclessomeonespecial|0c173mlxpT3dSFRgMO8XPh,4gzpq5DPGxSnKTe4SA8HAU|276906",
   song: "song/coldplay-miracles-someone-special",
   carriedBy: [

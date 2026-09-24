@@ -12,7 +12,7 @@ export const emBeiholdTalesOfAFailedShapeshifterSoup = {
   title: "Soup!",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "soup|7o2ZQYM7nTsaVdkXY38UAA|104324",
   song: "song/em-beihold-soup",
   carriedBy: [

@@ -13,9 +13,9 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDimitriVeg
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "73jBynjsVtofjRpdpRAJGk", artistName: "Dimitri Vegas & Like Mike" },
+    { artistName: "The Chainsmokers" },
+    { artist: "artist/coldplay" },
+    { artistName: "Dimitri Vegas & Like Mike" },
   ],
   trackKey:
     "somethingjustlikethisdimitrivegaslikemikeremix|4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp,73jBynjsVtofjRpdpRAJGk|230573",

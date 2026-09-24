@@ -12,7 +12,7 @@ export const emBeiholdNumbLittleBugPianoVersionNumbLittleBugPianoVersion = {
   title: "Numb Little Bug - Piano Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "numblittlebugpianoversion|7o2ZQYM7nTsaVdkXY38UAA|165320",
   song: "song/em-beihold-numb-little-bug",
   carriedBy: [

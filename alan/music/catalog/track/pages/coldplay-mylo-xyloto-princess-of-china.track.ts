@@ -12,10 +12,7 @@ export const coldplayMyloXylotoPrincessOfChina = {
   title: "Princess of China",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "5pKCCKE2ajJHZ9KAiaK11H", artistName: "Rihanna" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Rihanna" }],
   trackKey: "princessofchina|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|239215",
   song: "song/coldplay-princess-of-china",
   carriedBy: [

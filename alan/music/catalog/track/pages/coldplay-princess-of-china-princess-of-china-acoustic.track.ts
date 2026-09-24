@@ -12,10 +12,7 @@ export const coldplayPrincessOfChinaPrincessOfChinaAcoustic = {
   title: "Princess of China - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "5pKCCKE2ajJHZ9KAiaK11H", artistName: "Rihanna" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Rihanna" }],
   trackKey: "princessofchinaacoustic|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|206693",
   song: "song/coldplay-princess-of-china",
   carriedBy: [

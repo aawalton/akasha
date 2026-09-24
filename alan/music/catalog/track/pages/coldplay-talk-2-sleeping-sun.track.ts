@@ -12,7 +12,7 @@ export const coldplayTalk2SleepingSun = {
   title: "Sleeping Sun",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "sleepingsun|4gzpq5DPGxSnKTe4SA8HAU|191360",
   song: "song/coldplay-sleeping-sun",
   carriedBy: [

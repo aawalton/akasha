@@ -12,10 +12,7 @@ export const emBeiholdDriveByLoversDriveByLovers = {
   title: "Drive by Lovers",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2Jb7lQunEGJej2qvtcBIiI", artistName: "Peachy King" },
-    { externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" },
-  ],
+  trackArtist: [{ artistName: "Peachy King" }, { artist: "artist/em-beihold" }],
   trackKey: "drivebylovers|2Jb7lQunEGJej2qvtcBIiI,7o2ZQYM7nTsaVdkXY38UAA|211100",
   song: "song/em-beihold-drive-by-lovers",
   carriedBy: [

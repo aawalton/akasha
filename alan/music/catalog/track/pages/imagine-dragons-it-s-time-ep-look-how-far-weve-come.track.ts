@@ -12,7 +12,7 @@ export const imagineDragonsItSTimeEpLookHowFarWeveCome = {
   title: "Look How Far We've Come",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "lookhowfarwevecome|53XhwfbYqKCa1cC15pYq2q|247973",
   song: "song/imagine-dragons-look-how-far-we-ve-come",
   carriedBy: [

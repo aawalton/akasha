@@ -12,7 +12,7 @@ export const coldplayMyloXylotoEveryTeardropIsAWaterfall = {
   title: "Every Teardrop Is a Waterfall",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "everyteardropisawaterfall|4gzpq5DPGxSnKTe4SA8HAU|240796",
   song: "song/coldplay-every-teardrop-is-a-waterfall",
   carriedBy: [

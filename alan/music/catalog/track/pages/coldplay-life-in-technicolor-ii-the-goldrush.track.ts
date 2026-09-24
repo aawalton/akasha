@@ -12,7 +12,7 @@ export const coldplayLifeInTechnicolorIiTheGoldrush = {
   title: "The Goldrush",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "thegoldrush|4gzpq5DPGxSnKTe4SA8HAU|149253",
   song: "song/coldplay-the-goldrush",
   carriedBy: [

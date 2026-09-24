@@ -12,10 +12,7 @@ export const coldplayHigherPowerAlyxAnderRemixHigherPowerAlyxAnderRemix = {
   title: "Higher Power - Alyx Ander Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "4gxmaAX3cWO9PUVmEYVAhd", artistName: "Alyx Ander" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Alyx Ander" }],
   trackKey: "higherpoweralyxanderremix|4gxmaAX3cWO9PUVmEYVAhd,4gzpq5DPGxSnKTe4SA8HAU|153629",
   song: "song/coldplay-higher-power",
   carriedBy: [

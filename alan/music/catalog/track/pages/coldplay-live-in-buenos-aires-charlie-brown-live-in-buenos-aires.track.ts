@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresCharlieBrownLiveInBuenosAires = {
   title: "Charlie Brown - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "charliebrownliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|284426",
   song: "song/coldplay-charlie-brown",
   carriedBy: [

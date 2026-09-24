@@ -12,7 +12,7 @@ export const coldplayGhostStoriesLive2014MagicLiveAtTheEnmoreTheatreSydney = {
   title: "Magic - Live at the Enmore Theatre, Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "magicliveattheenmoretheatresydney|4gzpq5DPGxSnKTe4SA8HAU|292146",
   song: "song/coldplay-magic",
   carriedBy: [

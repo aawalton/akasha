@@ -12,7 +12,7 @@ export const imagineDragonsEvolveThunder = {
   title: "Thunder",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "thunder|53XhwfbYqKCa1cC15pYq2q|187146",
   song: "song/imagine-dragons-thunder",
   carriedBy: [

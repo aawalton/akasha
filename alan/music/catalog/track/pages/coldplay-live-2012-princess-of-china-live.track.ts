@@ -12,7 +12,7 @@ export const coldplayLive2012PrincessOfChinaLive = {
   title: "Princess of China - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "princessofchinalive|4gzpq5DPGxSnKTe4SA8HAU|228960",
   song: "song/coldplay-princess-of-china",
   carriedBy: [

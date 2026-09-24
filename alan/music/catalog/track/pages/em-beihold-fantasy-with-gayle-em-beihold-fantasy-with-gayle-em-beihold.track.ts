@@ -13,9 +13,9 @@ export const emBeiholdFantasyWithGayleEmBeiholdFantasyWithGayleEmBeihold = {
   trackType: "studio",
   explicit: true,
   trackArtist: [
-    { externalId: "79AyR6ATpj2LTPxfb6FX50", artistName: "Lauren Spencer Smith" },
-    { externalId: "2VSHKHBTiXWplO8lxcnUC9", artistName: "GAYLE" },
-    { externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" },
+    { artistName: "Lauren Spencer Smith" },
+    { artistName: "GAYLE" },
+    { artist: "artist/em-beihold" },
   ],
   trackKey:
     "fantasywithgayleembeihold|2VSHKHBTiXWplO8lxcnUC9,79AyR6ATpj2LTPxfb6FX50,7o2ZQYM7nTsaVdkXY38UAA|175090",

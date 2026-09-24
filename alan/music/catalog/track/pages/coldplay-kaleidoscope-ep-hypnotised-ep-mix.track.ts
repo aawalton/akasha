@@ -12,7 +12,7 @@ export const coldplayKaleidoscopeEpHypnotisedEpMix = {
   title: "Hypnotised - EP Mix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "hypnotisedepmix|4gzpq5DPGxSnKTe4SA8HAU|391413",
   song: "song/coldplay-hypnotised",
   carriedBy: [

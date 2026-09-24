@@ -12,7 +12,7 @@ export const coldplayGhostStoriesMidnight = {
   title: "Midnight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "midnight|4gzpq5DPGxSnKTe4SA8HAU|294666",
   song: "song/coldplay-midnight",
   carriedBy: [

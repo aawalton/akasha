@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresASkyFullOfStarsLiveInBuenosAires = {
   title: "A Sky Full of Stars - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "askyfullofstarsliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|276360",
   song: "song/coldplay-a-sky-full-of-stars",
   carriedBy: [

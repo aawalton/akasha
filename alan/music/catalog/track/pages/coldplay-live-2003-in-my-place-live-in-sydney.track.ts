@@ -12,7 +12,7 @@ export const coldplayLive2003InMyPlaceLiveInSydney = {
   title: "In My Place - Live in Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "inmyplaceliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|253106",
   song: "song/coldplay-in-my-place",
   carriedBy: [

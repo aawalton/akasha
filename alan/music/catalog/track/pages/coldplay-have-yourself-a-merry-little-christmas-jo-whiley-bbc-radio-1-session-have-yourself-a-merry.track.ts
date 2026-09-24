@@ -14,7 +14,7 @@ export const coldplayHaveYourselfAMerryLittleChristmasJoWhileyBbcRadio1SessionHa
   title: "Have Yourself a Merry Little Christmas - Jo Whiley, BBC Radio 1 Session",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey:
     "haveyourselfamerrylittlechristmasjowhileybbcradio1session|4gzpq5DPGxSnKTe4SA8HAU|139208",
   song: "song/coldplay-have-yourself-a-merry-little-christmas",

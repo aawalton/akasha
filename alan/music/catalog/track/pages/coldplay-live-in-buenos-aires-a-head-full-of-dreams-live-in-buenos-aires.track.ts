@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresAHeadFullOfDreamsLiveInBuenosAires = {
   title: "A Head Full of Dreams - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "aheadfullofdreamsliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|299120",
   song: "song/coldplay-a-head-full-of-dreams",
   carriedBy: [

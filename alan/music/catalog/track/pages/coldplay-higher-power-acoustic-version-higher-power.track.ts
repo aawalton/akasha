@@ -16,7 +16,7 @@ export const coldplayHigherPowerAcousticVersionHigherPower = {
   title: "Higher Power",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "higherpower|4gzpq5DPGxSnKTe4SA8HAU|211294",
   song: "song/coldplay-higher-power",
   carriedBy: [

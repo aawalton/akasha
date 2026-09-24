@@ -12,10 +12,7 @@ export const coldplayTrueLoveDavideRossiRemixTrueLoveDavideRossiRemix = {
   title: "True Love - Davide Rossi Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3n5USfahZSYCaiIYW58Mmy", artistName: "Davide Rossi" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Davide Rossi" }],
   trackKey: "truelovedaviderossiremix|3n5USfahZSYCaiIYW58Mmy,4gzpq5DPGxSnKTe4SA8HAU|281750",
   song: "song/coldplay-true-love",
   carriedBy: [

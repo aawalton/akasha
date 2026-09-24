@@ -12,7 +12,7 @@ export const emBeiholdEggInTheBackseatEggInTheBackseat = {
   title: "Egg in the Backseat",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "egginthebackseat|7o2ZQYM7nTsaVdkXY38UAA|145234",
   song: "song/em-beihold-egg-in-the-backseat",
   carriedBy: [

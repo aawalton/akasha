@@ -12,10 +12,7 @@ export const imagineDragonsBelieverKaskadeRemixBelieverKaskadeRemix = {
   title: "Believer - Kaskade Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "6TQj5BFPooTa08A7pk8AQ1", artistName: "Kaskade" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Kaskade" }],
   trackKey: "believerkaskaderemix|53XhwfbYqKCa1cC15pYq2q,6TQj5BFPooTa08A7pk8AQ1|190893",
   song: "song/imagine-dragons-believer",
   carriedBy: [

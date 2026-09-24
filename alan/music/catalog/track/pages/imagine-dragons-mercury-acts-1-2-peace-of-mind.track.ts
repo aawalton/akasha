@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12PeaceOfMind = {
   title: "Peace Of Mind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "peaceofmind|53XhwfbYqKCa1cC15pYq2q|173928",
   song: "song/imagine-dragons-peace-of-mind",
   carriedBy: [

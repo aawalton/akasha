@@ -12,7 +12,7 @@ export const coldplayMyloXylotoDontLetItBreakYourHeart = {
   title: "Don't Let It Break Your Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "dontletitbreakyourheart|4gzpq5DPGxSnKTe4SA8HAU|234106",
   song: "song/coldplay-dont-let-it-break-your-heart",
   carriedBy: [

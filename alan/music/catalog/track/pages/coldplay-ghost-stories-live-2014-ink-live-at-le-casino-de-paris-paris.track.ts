@@ -12,7 +12,7 @@ export const coldplayGhostStoriesLive2014InkLiveAtLeCasinoDeParisParis = {
   title: "Ink - Live at Le Casino De Paris, Paris",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "inkliveatlecasinodeparisparis|4gzpq5DPGxSnKTe4SA8HAU|249360",
   song: "song/coldplay-ink",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayXYTilKingdomCome = {
   title: "Til Kingdom Come",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "tilkingdomcome|4gzpq5DPGxSnKTe4SA8HAU|250668",
   song: "song/coldplay-til-kingdom-come",
   carriedBy: [

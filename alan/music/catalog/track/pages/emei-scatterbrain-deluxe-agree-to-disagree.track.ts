@@ -12,7 +12,7 @@ export const emeiScatterbrainDeluxeAgreeToDisagree = {
   title: "Agree to Disagree",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "agreetodisagree|7E2aQQjErJocovYFjYLzWU|142307",
   song: "song/emei-agree-to-disagree",
   carriedBy: [

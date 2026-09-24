@@ -12,10 +12,7 @@ export const imagineDragonsBirdsBirdsFeatElisa = {
   title: "Birds (feat. Elisa)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "2ARH58Hit3yC6ziGdhma23", artistName: "Elisa" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Elisa" }],
   trackKey: "birdsfeatelisa|2ARH58Hit3yC6ziGdhma23,53XhwfbYqKCa1cC15pYq2q|219434",
   song: "song/imagine-dragons-birds",
   carriedBy: [

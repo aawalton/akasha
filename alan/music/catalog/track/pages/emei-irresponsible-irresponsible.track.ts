@@ -16,7 +16,7 @@ export const emeiIrresponsibleIrresponsible = {
   title: "Irresponsible",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "irresponsible|7E2aQQjErJocovYFjYLzWU|124751",
   song: "song/emei-irresponsible",
   carriedBy: [

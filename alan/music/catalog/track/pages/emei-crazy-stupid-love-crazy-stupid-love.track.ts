@@ -12,7 +12,7 @@ export const emeiCrazyStupidLoveCrazyStupidLove = {
   title: "Crazy Stupid Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "crazystupidlove|7E2aQQjErJocovYFjYLzWU|156333",
   song: "song/emei-crazy-stupid-love",
   carriedBy: [

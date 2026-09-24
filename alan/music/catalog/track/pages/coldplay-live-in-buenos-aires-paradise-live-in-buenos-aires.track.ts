@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresParadiseLiveInBuenosAires = {
   title: "Paradise - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "paradiseliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|419373",
   song: "song/coldplay-paradise",
   carriedBy: [

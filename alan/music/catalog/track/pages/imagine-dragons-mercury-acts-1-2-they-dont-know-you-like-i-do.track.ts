@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12TheyDontKnowYouLikeIDo = {
   title: "They Don't Know You Like I Do",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "theydontknowyoulikeido|53XhwfbYqKCa1cC15pYq2q|257875",
   song: "song/imagine-dragons-they-don-t-know-you-like-i-do",
   carriedBy: [

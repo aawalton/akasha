@@ -12,7 +12,7 @@ export const coldplaySpotifySinglesDayNNiteSpotifySingles = {
   title: "Day ‘n’ Nite - Spotify Singles",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "daynnitespotifysingles|4gzpq5DPGxSnKTe4SA8HAU|258862",
   song: "song/coldplay-day-n-nite-spotify-singles",
   carriedBy: [

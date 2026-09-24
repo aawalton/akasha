@@ -12,7 +12,7 @@ export const coldplayLostLostLiveAtTheUnitedCenterChicagoIl = {
   title: "Lost@ - Live at the United Center, Chicago, IL",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "lostliveattheunitedcenterchicagoil|4gzpq5DPGxSnKTe4SA8HAU|235773",
   song: "song/coldplay-lost",
   carriedBy: [

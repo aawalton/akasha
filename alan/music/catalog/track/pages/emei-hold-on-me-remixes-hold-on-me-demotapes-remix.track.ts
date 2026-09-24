@@ -12,11 +12,7 @@ export const emeiHoldOnMeRemixesHoldOnMeDemotapesRemix = {
   title: "Hold On Me - demotapes Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "5jAMCwdNHWr7JThxtMuEyy", artistName: "NOTD" },
-    { externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" },
-    { externalId: "7J3jiKIiROsYOlJeEml34X", artistName: "demotapes" },
-  ],
+  trackArtist: [{ artistName: "NOTD" }, { artist: "artist/emei" }, { artistName: "demotapes" }],
   trackKey:
     "holdonmedemotapesremix|5jAMCwdNHWr7JThxtMuEyy,7E2aQQjErJocovYFjYLzWU,7J3jiKIiROsYOlJeEml34X|146250",
   song: "song/emei-hold-on-me",

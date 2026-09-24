@@ -12,10 +12,7 @@ export const imagineDragonsGoldJorgenOdegardRemixGoldJorgenOdegardRemix = {
   title: "Gold - Jorgen Odegard Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "7CqltXhCBv0seWSgUsJcPV", artistName: "Jorgen Odegard" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Jorgen Odegard" }],
   trackKey: "goldjorgenodegardremix|53XhwfbYqKCa1cC15pYq2q,7CqltXhCBv0seWSgUsJcPV|246880",
   song: "song/imagine-dragons-gold",
   carriedBy: [

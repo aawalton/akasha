@@ -12,7 +12,7 @@ export const coldplayLive2012FixYouLive = {
   title: "Fix You - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "fixyoulive|4gzpq5DPGxSnKTe4SA8HAU|300653",
   song: "song/coldplay-fix-you",
   carriedBy: [

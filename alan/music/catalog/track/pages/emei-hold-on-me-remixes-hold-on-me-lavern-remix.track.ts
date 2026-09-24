@@ -12,11 +12,7 @@ export const emeiHoldOnMeRemixesHoldOnMeLavernRemix = {
   title: "Hold On Me - Lavern Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "5jAMCwdNHWr7JThxtMuEyy", artistName: "NOTD" },
-    { externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" },
-    { externalId: "03y4yOxhLk6MDJ1bV424uO", artistName: "Lavern" },
-  ],
+  trackArtist: [{ artistName: "NOTD" }, { artist: "artist/emei" }, { artistName: "Lavern" }],
   trackKey:
     "holdonmelavernremix|03y4yOxhLk6MDJ1bV424uO,5jAMCwdNHWr7JThxtMuEyy,7E2aQQjErJocovYFjYLzWU|138461",
   song: "song/emei-hold-on-me",

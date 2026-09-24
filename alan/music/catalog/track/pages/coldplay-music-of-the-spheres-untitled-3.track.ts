@@ -13,9 +13,9 @@ export const coldplayMusicOfTheSpheresUntitled3 = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "0FPWyyf6MD4QZTj3aypD3O", artistName: "We Are KING" },
-    { externalId: "0QWrMNukfcVOmgEU0FEDyD", artistName: "Jacob Collier" },
+    { artist: "artist/coldplay" },
+    { artistName: "We Are KING" },
+    { artistName: "Jacob Collier" },
   ],
   trackKey: "|0FPWyyf6MD4QZTj3aypD3O,0QWrMNukfcVOmgEU0FEDyD,4gzpq5DPGxSnKTe4SA8HAU|188966",
   song: "song/coldplay-untitled-3",

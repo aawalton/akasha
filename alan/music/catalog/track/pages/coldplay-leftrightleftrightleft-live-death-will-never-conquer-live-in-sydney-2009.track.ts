@@ -12,7 +12,7 @@ export const coldplayLeftrightleftrightleftLiveDeathWillNeverConquerLiveInSydney
   title: "Death Will Never Conquer - Live in Sydney, 2009",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "deathwillneverconquerliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|99306",
   song: "song/coldplay-death-will-never-conquer",
   carriedBy: [

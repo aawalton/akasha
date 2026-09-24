@@ -12,10 +12,7 @@ export const coldplayMidnightRemixesMidnightJonHopkinsRemix = {
   title: "Midnight - Jon Hopkins Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "7yxi31szvlbwvKq9dYOmFI", artistName: "Jon Hopkins" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Jon Hopkins" }],
   trackKey: "midnightjonhopkinsremix|4gzpq5DPGxSnKTe4SA8HAU,7yxi31szvlbwvKq9dYOmFI|605739",
   song: "song/coldplay-midnight",
   carriedBy: [

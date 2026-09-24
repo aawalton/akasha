@@ -12,7 +12,7 @@ export const coldplayLeftrightleftrightleftLiveGlassOfWaterLiveInSydney2009 = {
   title: "Glass of Water - Live in Sydney, 2009",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "glassofwaterliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|284240",
   song: "song/coldplay-glass-of-water",
   carriedBy: [

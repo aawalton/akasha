@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveInVegasWhateverItTakesLiveInVegas =
   title: "Whatever It Takes - Live in Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "whateverittakesliveinvegas|53XhwfbYqKCa1cC15pYq2q|323653",
   song: "song/imagine-dragons-whatever-it-takes",
   carriedBy: [

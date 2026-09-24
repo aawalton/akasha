@@ -15,7 +15,7 @@ export const imagineDragonsLoveOfMineNightVisionsDemoLoveOfMineNightVisionsDemo 
   title: "Love Of Mine - Night Visions Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "loveofminenightvisionsdemo|53XhwfbYqKCa1cC15pYq2q|249995",
   song: "song/imagine-dragons-love-of-mine",
   carriedBy: [

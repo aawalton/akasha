@@ -13,9 +13,9 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisDonDiabloR
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "1l2ekx5skC4gJH8djERwh1", artistName: "Don Diablo" },
+    { artistName: "The Chainsmokers" },
+    { artist: "artist/coldplay" },
+    { artistName: "Don Diablo" },
   ],
   trackKey:
     "somethingjustlikethisdondiabloremix|1l2ekx5skC4gJH8djERwh1,4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|230853",

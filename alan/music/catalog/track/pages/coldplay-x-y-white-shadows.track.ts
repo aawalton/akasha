@@ -12,7 +12,7 @@ export const coldplayXYWhiteShadows = {
   title: "White Shadows",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "whiteshadows|4gzpq5DPGxSnKTe4SA8HAU|328219",
   song: "song/coldplay-white-shadows",
   carriedBy: [

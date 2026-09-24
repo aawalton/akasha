@@ -12,7 +12,7 @@ export const emeiEndOfAnEraFerrisBueller = {
   title: "Ferris Bueller",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "ferrisbueller|7E2aQQjErJocovYFjYLzWU|117240",
   song: "song/emei-ferris-bueller",
   carriedBy: [

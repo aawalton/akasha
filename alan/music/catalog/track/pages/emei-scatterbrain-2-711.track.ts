@@ -12,7 +12,7 @@ export const emeiScatterbrain2711 = {
   title: "711",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "711|7E2aQQjErJocovYFjYLzWU|149125",
   song: "song/emei-711",
   carriedBy: [

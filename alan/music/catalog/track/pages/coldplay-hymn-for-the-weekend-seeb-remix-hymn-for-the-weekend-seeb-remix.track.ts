@@ -12,10 +12,7 @@ export const coldplayHymnForTheWeekendSeebRemixHymnForTheWeekendSeebRemix = {
   title: "Hymn for the Weekend - Seeb Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "5iNrZmtVMtYev5M9yoWpEq", artistName: "Seeb" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Seeb" }],
   trackKey: "hymnfortheweekendseebremix|4gzpq5DPGxSnKTe4SA8HAU,5iNrZmtVMtYev5M9yoWpEq|212647",
   song: "song/coldplay-hymn-for-the-weekend",
   carriedBy: [

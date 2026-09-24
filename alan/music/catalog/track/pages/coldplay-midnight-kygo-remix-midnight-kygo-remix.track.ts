@@ -12,10 +12,7 @@ export const coldplayMidnightKygoRemixMidnightKygoRemix = {
   title: "Midnight - Kygo Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Kygo" }],
   trackKey: "midnightkygoremix|23fqKkggKUBHNkbKtXEls4,4gzpq5DPGxSnKTe4SA8HAU|316347",
   song: "song/coldplay-midnight",
   carriedBy: [

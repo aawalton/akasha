@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveInVegasRadioactiveLiveInVegas = {
   title: "Radioactive - Live in Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "radioactiveliveinvegas|53XhwfbYqKCa1cC15pYq2q|327895",
   song: "song/imagine-dragons-radioactive",
   carriedBy: [

@@ -12,7 +12,7 @@ export const emeiDistractedDistracted = {
   title: "Distracted",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "distracted|7E2aQQjErJocovYFjYLzWU|160800",
   song: "song/emei-distracted",
   carriedBy: [

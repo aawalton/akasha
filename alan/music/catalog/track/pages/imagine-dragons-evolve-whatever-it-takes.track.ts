@@ -12,7 +12,7 @@ export const imagineDragonsEvolveWhateverItTakes = {
   title: "Whatever It Takes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "whateverittakes|53XhwfbYqKCa1cC15pYq2q|201240",
   song: "song/imagine-dragons-whatever-it-takes",
   carriedBy: [

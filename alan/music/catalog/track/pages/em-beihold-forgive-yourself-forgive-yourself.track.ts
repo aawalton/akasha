@@ -12,7 +12,7 @@ export const emBeiholdForgiveYourselfForgiveYourself = {
   title: "Forgive Yourself",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "forgiveyourself|7o2ZQYM7nTsaVdkXY38UAA|193742",
   song: "song/em-beihold-forgive-yourself",
   carriedBy: [

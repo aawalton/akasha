@@ -12,7 +12,7 @@ export const coldplayMyloXylotoUFO = {
   title: "U.F.O.",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "ufo|4gzpq5DPGxSnKTe4SA8HAU|137819",
   song: "song/coldplay-u-f-o",
   carriedBy: [

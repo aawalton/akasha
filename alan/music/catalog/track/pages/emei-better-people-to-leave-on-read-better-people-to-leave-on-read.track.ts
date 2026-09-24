@@ -12,7 +12,7 @@ export const emeiBetterPeopleToLeaveOnReadBetterPeopleToLeaveOnRead = {
   title: "Better People To Leave On Read",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "betterpeopletoleaveonread|7E2aQQjErJocovYFjYLzWU|131344",
   song: "song/emei-better-people-to-leave-on-read",
   carriedBy: [

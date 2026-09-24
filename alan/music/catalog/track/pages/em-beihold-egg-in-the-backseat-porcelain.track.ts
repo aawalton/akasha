@@ -12,7 +12,7 @@ export const emBeiholdEggInTheBackseatPorcelain = {
   title: "Porcelain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "porcelain|7o2ZQYM7nTsaVdkXY38UAA|149100",
   song: "song/em-beihold-porcelain",
   carriedBy: [

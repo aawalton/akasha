@@ -12,7 +12,7 @@ export const imagineDragonsEvolveStartOver = {
   title: "Start Over",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "startover|53XhwfbYqKCa1cC15pYq2q|186080",
   song: "song/imagine-dragons-start-over",
   carriedBy: [

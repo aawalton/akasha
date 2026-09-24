@@ -12,7 +12,7 @@ export const coldplayTalk2Gravity = {
   title: "Gravity",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "gravity|4gzpq5DPGxSnKTe4SA8HAU|380946",
   song: "song/coldplay-gravity",
   carriedBy: [

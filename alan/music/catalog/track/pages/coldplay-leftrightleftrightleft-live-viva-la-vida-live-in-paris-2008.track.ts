@@ -12,7 +12,7 @@ export const coldplayLeftrightleftrightleftLiveVivaLaVidaLiveInParis2008 = {
   title: "Viva La Vida - Live in Paris, 2008",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "vivalavidaliveinparis2008|4gzpq5DPGxSnKTe4SA8HAU|324133",
   song: "song/coldplay-viva-la-vida",
   carriedBy: [

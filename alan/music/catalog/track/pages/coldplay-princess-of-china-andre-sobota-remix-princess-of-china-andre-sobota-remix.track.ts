@@ -13,9 +13,9 @@ export const coldplayPrincessOfChinaAndreSobotaRemixPrincessOfChinaAndreSobotaRe
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "5pKCCKE2ajJHZ9KAiaK11H", artistName: "Rihanna" },
-    { externalId: "0Tdo9YdoMdoj41B2KNTywZ", artistName: "André Sobota" },
+    { artist: "artist/coldplay" },
+    { artistName: "Rihanna" },
+    { artistName: "André Sobota" },
   ],
   trackKey:
     "princessofchinaandresobotaremix|0Tdo9YdoMdoj41B2KNTywZ,4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|303984",

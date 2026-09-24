@@ -12,7 +12,7 @@ export const emBeiholdInfraredChildOfTheMoon = {
   title: "Child of the Moon",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "childofthemoon|7o2ZQYM7nTsaVdkXY38UAA|146340",
   song: "song/em-beihold-child-of-the-moon",
   carriedBy: [

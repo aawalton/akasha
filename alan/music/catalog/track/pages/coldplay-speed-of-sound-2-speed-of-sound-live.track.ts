@@ -12,7 +12,7 @@ export const coldplaySpeedOfSound2SpeedOfSoundLive = {
   title: "Speed of Sound - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "speedofsoundlive|4gzpq5DPGxSnKTe4SA8HAU|284998",
   song: "song/coldplay-speed-of-sound",
   carriedBy: [

@@ -12,7 +12,7 @@ export const emBeiholdScaredOfTheDarkHotGoblin = {
   title: "Hot Goblin",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "hotgoblin|7o2ZQYM7nTsaVdkXY38UAA|158167",
   song: "song/em-beihold-hot-goblin",
   carriedBy: [

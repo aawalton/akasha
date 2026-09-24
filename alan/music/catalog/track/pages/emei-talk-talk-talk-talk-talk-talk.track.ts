@@ -13,7 +13,7 @@ export const emeiTalkTalkTalkTalkTalkTalk = {
   title: "Talk Talk Talk",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "talktalktalk|7E2aQQjErJocovYFjYLzWU|195946",
   song: "song/emei-talk-talk-talk",
   carriedBy: [

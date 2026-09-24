@@ -12,10 +12,7 @@ export const coldplayWishIWasHereWishIWasHere = {
   title: "Wish I Was Here",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6G7OerKc3eBO9sVkRNopFC", artistName: "Cat Power" },
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-  ],
+  trackArtist: [{ artistName: "Cat Power" }, { artist: "artist/coldplay" }],
   trackKey: "wishiwashere|4gzpq5DPGxSnKTe4SA8HAU,6G7OerKc3eBO9sVkRNopFC|190893",
   song: "song/coldplay-wish-i-was-here",
   carriedBy: [

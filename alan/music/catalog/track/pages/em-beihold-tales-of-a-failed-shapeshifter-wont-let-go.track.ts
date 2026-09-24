@@ -12,7 +12,7 @@ export const emBeiholdTalesOfAFailedShapeshifterWontLetGo = {
   title: "Won’t Let Go",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "wontletgo|7o2ZQYM7nTsaVdkXY38UAA|197633",
   song: "song/em-beihold-won-t-let-go",
   carriedBy: [

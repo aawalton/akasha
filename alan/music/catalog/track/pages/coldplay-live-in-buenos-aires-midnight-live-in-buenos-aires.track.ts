@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresMidnightLiveInBuenosAires = {
   title: "Midnight - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "midnightliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|105680",
   song: "song/coldplay-midnight",
   carriedBy: [

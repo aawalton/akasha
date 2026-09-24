@@ -12,7 +12,7 @@ export const coldplayXYTalk = {
   title: "Talk",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "talk|4gzpq5DPGxSnKTe4SA8HAU|311291",
   song: "song/coldplay-talk",
   carriedBy: [

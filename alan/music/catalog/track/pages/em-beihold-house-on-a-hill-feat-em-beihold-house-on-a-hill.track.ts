@@ -12,7 +12,7 @@ export const emBeiholdHouseOnAHillFeatEmBeiholdHouseOnAHill = {
   title: "House on a Hill",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2FLqlgckDKdmpBrvLAT5BM", artistName: "Eric Nam" }],
+  trackArtist: [{ artistName: "Eric Nam" }],
   trackKey: "houseonahill|2FLqlgckDKdmpBrvLAT5BM|198973",
   song: "song/em-beihold-house-on-a-hill",
   carriedBy: [

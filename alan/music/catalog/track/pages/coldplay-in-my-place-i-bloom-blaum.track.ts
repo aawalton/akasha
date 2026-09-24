@@ -12,7 +12,7 @@ export const coldplayInMyPlaceIBloomBlaum = {
   title: "I Bloom Blaum",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "ibloomblaum|4gzpq5DPGxSnKTe4SA8HAU|131093",
   song: "song/coldplay-i-bloom-blaum",
   carriedBy: [

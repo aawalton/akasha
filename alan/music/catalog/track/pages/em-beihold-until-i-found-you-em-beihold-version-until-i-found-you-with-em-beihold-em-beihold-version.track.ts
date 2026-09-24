@@ -12,10 +12,7 @@ export const emBeiholdUntilIFoundYouEmBeiholdVersionUntilIFoundYouWithEmBeiholdE
   title: "Until I Found You (with Em Beihold) - Em Beihold Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "5XKFrudbV4IiuE5WuTPRmT", artistName: "Stephen Sanchez" },
-    { externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" },
-  ],
+  trackArtist: [{ artistName: "Stephen Sanchez" }, { artist: "artist/em-beihold" }],
   trackKey:
     "untilifoundyouwithembeiholdembeiholdversion|5XKFrudbV4IiuE5WuTPRmT,7o2ZQYM7nTsaVdkXY38UAA|176440",
   song: "song/em-beihold-until-i-found-you",

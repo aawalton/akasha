@@ -12,11 +12,7 @@ export const coldplayMyUniverseSugaSRemixMyUniverseSugasRemix = {
   title: "My Universe - SUGA's Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3Nrfpe0tUJi4K4DXYWgMUX", artistName: "BTS" },
-    { externalId: "0ebNdVaOfp6N0oZ1guIxM8", artistName: "SUGA" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "BTS" }, { artistName: "SUGA" }],
   trackKey:
     "myuniversesugasremix|0ebNdVaOfp6N0oZ1guIxM8,3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU|188234",
   song: "song/coldplay-my-universe",

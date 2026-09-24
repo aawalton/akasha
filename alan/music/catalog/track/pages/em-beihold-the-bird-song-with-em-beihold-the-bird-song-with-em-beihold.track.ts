@@ -12,10 +12,7 @@ export const emBeiholdTheBirdSongWithEmBeiholdTheBirdSongWithEmBeihold = {
   title: "The Bird Song (with Em Beihold)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "6fU24B4K9kWmFt5WTwwsLF", artistName: "Noah Floersch" },
-    { externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" },
-  ],
+  trackArtist: [{ artistName: "Noah Floersch" }, { artist: "artist/em-beihold" }],
   trackKey: "thebirdsongwithembeihold|6fU24B4K9kWmFt5WTwwsLF,7o2ZQYM7nTsaVdkXY38UAA|233087",
   song: "song/em-beihold-the-bird-song",
   carriedBy: [

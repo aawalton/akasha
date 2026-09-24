@@ -16,7 +16,7 @@ export const emeiScatterbrain2Scatterbrain = {
   title: "Scatterbrain",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "scatterbrain|7E2aQQjErJocovYFjYLzWU|129938",
   song: "song/emei-scatterbrain",
   carriedBy: [

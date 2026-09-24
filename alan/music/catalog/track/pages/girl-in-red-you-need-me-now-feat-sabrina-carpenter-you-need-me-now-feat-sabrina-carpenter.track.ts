@@ -12,10 +12,7 @@ export const girlInRedYouNeedMeNowFeatSabrinaCarpenterYouNeedMeNowFeatSabrinaCar
   title: "You Need Me Now? (feat. Sabrina Carpenter)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "3uwAm6vQy7kWPS2bciKWx9", artistName: "girl in red" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artist: "artist/girl-in-red" }, { artist: "artist/sabrina-carpenter" }],
   trackKey: "youneedmenowfeatsabrinacarpenter|3uwAm6vQy7kWPS2bciKWx9,74KM79TiuVKeVCqs8QtB0B|186377",
   song: "song/girl-in-red-you-need-me-now",
   carriedBy: [

@@ -12,7 +12,7 @@ export const emeiScatterbrainDeluxeHumanBeingDemo = {
   title: "Human Being - Demo",
   trackType: "demo",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "humanbeingdemo|7E2aQQjErJocovYFjYLzWU|119900",
   song: "song/emei-human-being",
   carriedBy: [

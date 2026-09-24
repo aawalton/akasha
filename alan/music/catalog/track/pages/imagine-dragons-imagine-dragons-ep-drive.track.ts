@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsEpDrive = {
   title: "Drive",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "drive|53XhwfbYqKCa1cC15pYq2q|272040",
   song: "song/imagine-dragons-drive",
   carriedBy: [

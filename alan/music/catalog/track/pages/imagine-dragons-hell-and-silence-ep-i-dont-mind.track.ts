@@ -12,7 +12,7 @@ export const imagineDragonsHellAndSilenceEpIDontMind = {
   title: "I Don't Mind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "idontmind|53XhwfbYqKCa1cC15pYq2q|198146",
   song: "song/imagine-dragons-i-don-t-mind",
   carriedBy: [

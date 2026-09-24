@@ -12,7 +12,7 @@ export const emBeiholdInfraredThrownToTheWolves = {
   title: "Thrown To The Wolves",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "throwntothewolves|7o2ZQYM7nTsaVdkXY38UAA|194812",
   song: "song/em-beihold-thrown-to-the-wolves",
   carriedBy: [

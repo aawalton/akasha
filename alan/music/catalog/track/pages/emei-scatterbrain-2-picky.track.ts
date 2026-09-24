@@ -12,7 +12,7 @@ export const emeiScatterbrain2Picky = {
   title: "Picky",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "picky|7E2aQQjErJocovYFjYLzWU|140937",
   song: "song/emei-picky",
   carriedBy: [

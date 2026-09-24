@@ -12,7 +12,7 @@ export const coldplayShiverForYou = {
   title: "For You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "foryou|4gzpq5DPGxSnKTe4SA8HAU|343906",
   song: "song/coldplay-for-you",
   carriedBy: [

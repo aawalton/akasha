@@ -12,7 +12,7 @@ export const emBeiholdGroundhogDayGroundhogDay = {
   title: "Groundhog Day",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "groundhogday|7o2ZQYM7nTsaVdkXY38UAA|173619",
   song: "song/em-beihold-groundhog-day",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsLoomDontForgetMe = {
   title: "Don’t Forget Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "dontforgetme|53XhwfbYqKCa1cC15pYq2q|178480",
   song: "song/imagine-dragons-don-t-forget-me",
   carriedBy: [

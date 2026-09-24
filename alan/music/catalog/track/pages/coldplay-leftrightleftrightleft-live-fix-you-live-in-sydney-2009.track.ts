@@ -12,7 +12,7 @@ export const coldplayLeftrightleftrightleftLiveFixYouLiveInSydney2009 = {
   title: "Fix You - Live in Sydney, 2009",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "fixyouliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|338640",
   song: "song/coldplay-fix-you",
   carriedBy: [

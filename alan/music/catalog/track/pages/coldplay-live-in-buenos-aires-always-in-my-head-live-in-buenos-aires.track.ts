@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresAlwaysInMyHeadLiveInBuenosAires = {
   title: "Always in My Head - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "alwaysinmyheadliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|221200",
   song: "song/coldplay-always-in-my-head",
   carriedBy: [

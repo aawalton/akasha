@@ -12,7 +12,7 @@ export const coldplayLeftrightleftrightleftLiveStrawberrySwingLiveInMadrid2008 =
   title: "Strawberry Swing - Live in Madrid, 2008",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "strawberryswingliveinmadrid2008|4gzpq5DPGxSnKTe4SA8HAU|256440",
   song: "song/coldplay-strawberry-swing",
   carriedBy: [

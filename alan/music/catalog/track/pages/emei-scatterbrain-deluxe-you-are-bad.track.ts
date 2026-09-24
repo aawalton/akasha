@@ -12,7 +12,7 @@ export const emeiScatterbrainDeluxeYouAreBad = {
   title: "You Are Bad",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "youarebad|7E2aQQjErJocovYFjYLzWU|138714",
   song: "song/emei-you-are-bad",
   carriedBy: [

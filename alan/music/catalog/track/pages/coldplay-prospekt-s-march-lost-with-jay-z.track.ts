@@ -15,7 +15,7 @@ export const coldplayProspektSMarchLostWithJayZ = {
   title: "Lost+ (with Jay-Z)",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "lostwithjayz|4gzpq5DPGxSnKTe4SA8HAU|256908",
   song: "song/coldplay-lost",
   carriedBy: [

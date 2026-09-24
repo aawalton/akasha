@@ -15,10 +15,7 @@ export const coldplayPrincessOfChinaPrincessOfChinaRadioEdit = {
   title: "Princess of China - Radio Edit",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "5pKCCKE2ajJHZ9KAiaK11H", artistName: "Rihanna" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Rihanna" }],
   trackKey: "princessofchinaradioedit|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|217575",
   song: "song/coldplay-princess-of-china",
   carriedBy: [

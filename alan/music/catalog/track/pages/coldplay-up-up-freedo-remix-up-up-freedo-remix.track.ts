@@ -12,10 +12,7 @@ export const coldplayUpUpFreedoRemixUpUpFreedoRemix = {
   title: "Up&Up - Freedo Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "2b6Cbp1cgD0hwisrGbKsZJ", artistName: "Freedo" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Freedo" }],
   trackKey: "upupfreedoremix|2b6Cbp1cgD0hwisrGbKsZJ,4gzpq5DPGxSnKTe4SA8HAU|210294",
   song: "song/coldplay-up-up",
   carriedBy: [

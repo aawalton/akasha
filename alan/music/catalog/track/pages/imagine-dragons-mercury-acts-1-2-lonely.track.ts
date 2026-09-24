@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12Lonely = {
   title: "Lonely",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "lonely|53XhwfbYqKCa1cC15pYq2q|159851",
   song: "song/imagine-dragons-lonely",
   carriedBy: [

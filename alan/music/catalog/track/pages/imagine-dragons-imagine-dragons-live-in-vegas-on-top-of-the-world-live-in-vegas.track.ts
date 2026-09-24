@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveInVegasOnTopOfTheWorldLiveInVegas =
   title: "On Top of the World - Live in Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "ontopoftheworldliveinvegas|53XhwfbYqKCa1cC15pYq2q|227851",
   song: "song/imagine-dragons-on-top-of-the-world",
   carriedBy: [

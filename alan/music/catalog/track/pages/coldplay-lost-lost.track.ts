@@ -12,7 +12,7 @@ export const coldplayLostLost = {
   title: "Lost!",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "lost|4gzpq5DPGxSnKTe4SA8HAU|235053",
   song: "song/coldplay-lost",
   carriedBy: [

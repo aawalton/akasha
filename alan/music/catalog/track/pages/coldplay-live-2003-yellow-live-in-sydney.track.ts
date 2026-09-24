@@ -12,7 +12,7 @@ export const coldplayLive2003YellowLiveInSydney = {
   title: "Yellow - Live in Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "yellowliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|336666",
   song: "song/coldplay-yellow",
   carriedBy: [

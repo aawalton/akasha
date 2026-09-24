@@ -12,7 +12,7 @@ export const ejaeTimeAfterTimeTimeAfterTime = {
   title: "Time After Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0RMJOzHDhAKY1o2j0W0vxY", artistName: "EJAE" }],
+  trackArtist: [{ artist: "artist/ejae" }],
   trackKey: "timeaftertime|0RMJOzHDhAKY1o2j0W0vxY|168298",
   song: "song/ejae-time-after-time",
   carriedBy: [

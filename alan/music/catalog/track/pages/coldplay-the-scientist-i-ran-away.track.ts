@@ -12,7 +12,7 @@ export const coldplayTheScientistIRanAway = {
   title: "I Ran Away",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "iranaway|4gzpq5DPGxSnKTe4SA8HAU|266866",
   song: "song/coldplay-i-ran-away",
   carriedBy: [

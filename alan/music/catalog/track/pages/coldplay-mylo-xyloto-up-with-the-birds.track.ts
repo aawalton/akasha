@@ -12,7 +12,7 @@ export const coldplayMyloXylotoUpWithTheBirds = {
   title: "Up with the Birds",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "upwiththebirds|4gzpq5DPGxSnKTe4SA8HAU|225653",
   song: "song/coldplay-up-with-the-birds",
   carriedBy: [

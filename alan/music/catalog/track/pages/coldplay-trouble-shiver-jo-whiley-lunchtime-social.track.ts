@@ -12,7 +12,7 @@ export const coldplayTroubleShiverJoWhileyLunchtimeSocial = {
   title: "Shiver (Jo Whiley Lunchtime Social)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "shiverjowhileylunchtimesocial|4gzpq5DPGxSnKTe4SA8HAU|261360",
   song: "song/coldplay-shiver-jo-whiley-lunchtime-social",
   carriedBy: [

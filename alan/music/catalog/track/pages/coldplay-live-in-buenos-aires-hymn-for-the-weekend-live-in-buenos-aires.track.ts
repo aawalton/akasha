@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresHymnForTheWeekendLiveInBuenosAires = {
   title: "Hymn for the Weekend - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "hymnfortheweekendliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|302946",
   song: "song/coldplay-hymn-for-the-weekend",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12Younger = {
   title: "Younger",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "younger|53XhwfbYqKCa1cC15pYq2q|191936",
   song: "song/imagine-dragons-younger",
   carriedBy: [

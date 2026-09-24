@@ -15,7 +15,7 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsYes = {
   title: "Yes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "yes|4gzpq5DPGxSnKTe4SA8HAU|426653",
   song: "song/coldplay-yes",
   carriedBy: [

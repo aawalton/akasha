@@ -12,10 +12,7 @@ export const coldplayMyUniverseMyUniverseSupernova7Mix = {
   title: "My Universe - Supernova 7 Mix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3Nrfpe0tUJi4K4DXYWgMUX", artistName: "BTS" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "BTS" }],
   trackKey: "myuniversesupernova7mix|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU|279317",
   song: "song/coldplay-my-universe",
   carriedBy: [

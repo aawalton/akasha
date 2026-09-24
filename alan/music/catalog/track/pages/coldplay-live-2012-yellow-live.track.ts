@@ -12,7 +12,7 @@ export const coldplayLive2012YellowLive = {
   title: "Yellow - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "yellowlive|4gzpq5DPGxSnKTe4SA8HAU|411973",
   song: "song/coldplay-yellow",
   carriedBy: [

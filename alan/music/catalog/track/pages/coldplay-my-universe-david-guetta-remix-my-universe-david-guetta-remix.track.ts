@@ -13,9 +13,9 @@ export const coldplayMyUniverseDavidGuettaRemixMyUniverseDavidGuettaRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3Nrfpe0tUJi4K4DXYWgMUX", artistName: "BTS" },
-    { externalId: "1Cs0zKBU1kc0i8ypK3B9ai", artistName: "David Guetta" },
+    { artist: "artist/coldplay" },
+    { artistName: "BTS" },
+    { artistName: "David Guetta" },
   ],
   trackKey:
     "myuniversedavidguettaremix|1Cs0zKBU1kc0i8ypK3B9ai,3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU|199135",

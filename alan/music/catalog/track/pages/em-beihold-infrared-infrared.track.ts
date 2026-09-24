@@ -12,7 +12,7 @@ export const emBeiholdInfraredInfrared = {
   title: "Infrared",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "infrared|7o2ZQYM7nTsaVdkXY38UAA|225189",
   song: "song/em-beihold-infrared",
   carriedBy: [

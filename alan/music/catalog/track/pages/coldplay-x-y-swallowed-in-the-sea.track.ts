@@ -12,7 +12,7 @@ export const coldplayXYSwallowedInTheSea = {
   title: "Swallowed in the Sea",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "swallowedinthesea|4gzpq5DPGxSnKTe4SA8HAU|239001",
   song: "song/coldplay-swallowed-in-the-sea",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12Crushed = {
   title: "Crushed",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "crushed|53XhwfbYqKCa1cC15pYq2q|188942",
   song: "song/imagine-dragons-crushed",
   carriedBy: [

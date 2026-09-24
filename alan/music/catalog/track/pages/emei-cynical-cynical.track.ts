@@ -12,7 +12,7 @@ export const emeiCynicalCynical = {
   title: "Cynical",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "cynical|7E2aQQjErJocovYFjYLzWU|134582",
   song: "song/emei-cynical",
   carriedBy: [

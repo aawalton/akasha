@@ -12,7 +12,7 @@ export const emeiRabbithole2ThePart = {
   title: "THE PART",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "thepart|7E2aQQjErJocovYFjYLzWU|164525",
   song: "song/emei-the-part",
   carriedBy: [

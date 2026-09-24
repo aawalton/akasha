@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveInVegasNextToMeAcousticLiveInVegas 
   title: "Next to Me (Acoustic) - Live in Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "nexttomeacousticliveinvegas|53XhwfbYqKCa1cC15pYq2q|234171",
   song: "song/imagine-dragons-next-to-me",
   carriedBy: [

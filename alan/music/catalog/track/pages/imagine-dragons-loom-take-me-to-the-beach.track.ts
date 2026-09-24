@@ -12,7 +12,7 @@ export const imagineDragonsLoomTakeMeToTheBeach = {
   title: "Take Me to the Beach",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "takemetothebeach|53XhwfbYqKCa1cC15pYq2q|167080",
   song: "song/imagine-dragons-take-me-to-the-beach",
   carriedBy: [

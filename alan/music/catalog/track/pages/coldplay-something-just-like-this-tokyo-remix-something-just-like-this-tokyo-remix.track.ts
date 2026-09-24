@@ -12,10 +12,7 @@ export const coldplaySomethingJustLikeThisTokyoRemixSomethingJustLikeThisTokyoRe
   title: "Something Just Like This - Tokyo Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "The Chainsmokers" }],
   trackKey: "somethingjustlikethistokyoremix|4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|272986",
   song: "song/coldplay-something-just-like-this",
   carriedBy: [

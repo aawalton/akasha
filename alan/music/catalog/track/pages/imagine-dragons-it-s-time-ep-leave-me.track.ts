@@ -12,7 +12,7 @@ export const imagineDragonsItSTimeEpLeaveMe = {
   title: "Leave Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "leaveme|53XhwfbYqKCa1cC15pYq2q|211333",
   song: "song/imagine-dragons-leave-me",
   carriedBy: [

@@ -13,10 +13,10 @@ export const coldplayMidnightRemixesMidnightGiorgioMoroderRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "6bCstT28hps6jk7uaROYJA", artistName: "Geoff Swan" },
-    { externalId: "6jU2Tt13MmXYk0ZBv1KmfO", artistName: "Giorgio Moroder" },
-    { externalId: "6RqI7khBhEoxvoarTF71d1", artistName: "Spike" },
+    { artist: "artist/coldplay" },
+    { artistName: "Geoff Swan" },
+    { artistName: "Giorgio Moroder" },
+    { artistName: "Spike" },
   ],
   trackKey:
     "midnightgiorgiomoroderremix|4gzpq5DPGxSnKTe4SA8HAU,6RqI7khBhEoxvoarTF71d1,6bCstT28hps6jk7uaROYJA,6jU2Tt13MmXYk0ZBv1KmfO|517745",

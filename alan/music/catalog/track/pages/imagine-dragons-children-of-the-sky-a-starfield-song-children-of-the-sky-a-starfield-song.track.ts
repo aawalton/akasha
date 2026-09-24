@@ -12,7 +12,7 @@ export const imagineDragonsChildrenOfTheSkyAStarfieldSongChildrenOfTheSkyAStarfi
   title: "Children of the Sky (a Starfield song)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "childrenoftheskyastarfieldsong|53XhwfbYqKCa1cC15pYq2q|207611",
   song: "song/imagine-dragons-children-of-the-sky-a-starfield-song",
   carriedBy: [

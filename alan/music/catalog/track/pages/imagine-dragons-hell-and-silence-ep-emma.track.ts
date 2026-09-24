@@ -12,7 +12,7 @@ export const imagineDragonsHellAndSilenceEpEmma = {
   title: "Emma",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "emma|53XhwfbYqKCa1cC15pYq2q|212946",
   song: "song/imagine-dragons-emma",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12ItsOk = {
   title: "It's Ok",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "itsok|53XhwfbYqKCa1cC15pYq2q|202497",
   song: "song/imagine-dragons-it-s-ok",
   carriedBy: [

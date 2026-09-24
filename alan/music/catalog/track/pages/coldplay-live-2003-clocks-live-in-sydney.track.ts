@@ -12,7 +12,7 @@ export const coldplayLive2003ClocksLiveInSydney = {
   title: "Clocks - Live in Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "clocksliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|332426",
   song: "song/coldplay-clocks",
   carriedBy: [

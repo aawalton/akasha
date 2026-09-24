@@ -12,7 +12,7 @@ export const coldplaySpeedOfSoundThingsIDontUnderstand = {
   title: "Things I Don't Understand",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "thingsidontunderstand|4gzpq5DPGxSnKTe4SA8HAU|295626",
   song: "song/coldplay-things-i-dont-understand",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayMusicOfTheSpheresHumankind = {
   title: "Humankind",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "humankind|4gzpq5DPGxSnKTe4SA8HAU|266705",
   song: "song/coldplay-humankind",
   carriedBy: [

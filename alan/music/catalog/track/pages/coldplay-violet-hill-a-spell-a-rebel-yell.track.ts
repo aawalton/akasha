@@ -12,7 +12,7 @@ export const coldplayVioletHillASpellARebelYell = {
   title: "A Spell a Rebel Yell",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "aspellarebelyell|4gzpq5DPGxSnKTe4SA8HAU|168253",
   song: "song/coldplay-a-spell-a-rebel-yell",
   carriedBy: [

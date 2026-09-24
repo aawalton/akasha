@@ -12,7 +12,7 @@ export const coldplayParachutesWeNeverChange = {
   title: "We Never Change",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "weneverchange|4gzpq5DPGxSnKTe4SA8HAU|249400",
   song: "song/coldplay-we-never-change",
   carriedBy: [

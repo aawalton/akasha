@@ -12,7 +12,7 @@ export const imagineDragonsEvolveDancingInTheDark = {
   title: "Dancing In The Dark",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "dancinginthedark|53XhwfbYqKCa1cC15pYq2q|233933",
   song: "song/imagine-dragons-dancing-in-the-dark",
   carriedBy: [

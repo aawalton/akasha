@@ -15,10 +15,7 @@ export const coldplayMoonMusicFullMoonEditionGoodFeelings = {
   title: "GOOD FEELiNGS",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3ZpEKRjHaHANcpk10u6Ntq", artistName: "Ayra Starr" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Ayra Starr" }],
   trackKey: "goodfeelings|3ZpEKRjHaHANcpk10u6Ntq,4gzpq5DPGxSnKTe4SA8HAU|217380",
   song: "song/coldplay-good-feelings",
   carriedBy: [

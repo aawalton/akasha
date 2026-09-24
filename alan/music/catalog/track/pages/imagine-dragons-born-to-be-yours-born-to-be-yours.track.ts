@@ -12,10 +12,7 @@ export const imagineDragonsBornToBeYoursBornToBeYours = {
   title: "Born To Be Yours",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-  ],
+  trackArtist: [{ artistName: "Kygo" }, { artist: "artist/imagine-dragons" }],
   trackKey: "borntobeyours|23fqKkggKUBHNkbKtXEls4,53XhwfbYqKCa1cC15pYq2q|193320",
   song: "song/imagine-dragons-born-to-be-yours",
   carriedBy: [

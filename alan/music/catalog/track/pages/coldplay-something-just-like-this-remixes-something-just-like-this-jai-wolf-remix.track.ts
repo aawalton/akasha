@@ -13,9 +13,9 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisJaiWolfRem
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "24V5UY0nChKpnb1TBPJhCw", artistName: "Jai Wolf" },
+    { artistName: "The Chainsmokers" },
+    { artist: "artist/coldplay" },
+    { artistName: "Jai Wolf" },
   ],
   trackKey:
     "somethingjustlikethisjaiwolfremix|24V5UY0nChKpnb1TBPJhCw,4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|176813",

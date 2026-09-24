@@ -15,7 +15,7 @@ export const coldplayProspektSMarchPostcardsFromFarAway = {
   title: "Postcards from Far Away",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "postcardsfromfaraway|4gzpq5DPGxSnKTe4SA8HAU|48128",
   song: "song/coldplay-postcards-from-far-away",
   carriedBy: [

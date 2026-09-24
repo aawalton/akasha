@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12OneDay = {
   title: "One Day",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "oneday|53XhwfbYqKCa1cC15pYq2q|151337",
   song: "song/imagine-dragons-one-day",
   carriedBy: [

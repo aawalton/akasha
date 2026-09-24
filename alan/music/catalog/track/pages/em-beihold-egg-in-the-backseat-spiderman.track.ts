@@ -12,7 +12,7 @@ export const emBeiholdEggInTheBackseatSpiderman = {
   title: "Spiderman",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "spiderman|7o2ZQYM7nTsaVdkXY38UAA|180661",
   song: "song/em-beihold-spiderman",
   carriedBy: [

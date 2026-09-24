@@ -12,7 +12,7 @@ export const coldplayLeftrightleftrightleftLiveClocksLiveInMadrid2008 = {
   title: "Clocks - Live in Madrid, 2008",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "clocksliveinmadrid2008|4gzpq5DPGxSnKTe4SA8HAU|280346",
   song: "song/coldplay-clocks",
   carriedBy: [

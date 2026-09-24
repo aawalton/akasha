@@ -12,10 +12,7 @@ export const emeiStereoStereo = {
   title: "Stereo",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4Q6nIcaBED8qUel8bBx6Cr", artistName: "Jax Jones" },
-    { externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" },
-  ],
+  trackArtist: [{ artistName: "Jax Jones" }, { artist: "artist/emei" }],
   trackKey: "stereo|4Q6nIcaBED8qUel8bBx6Cr,7E2aQQjErJocovYFjYLzWU|147451",
   song: "song/emei-stereo",
   carriedBy: [

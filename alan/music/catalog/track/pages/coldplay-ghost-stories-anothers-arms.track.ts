@@ -12,7 +12,7 @@ export const coldplayGhostStoriesAnothersArms = {
   title: "Another's Arms",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "anothersarms|4gzpq5DPGxSnKTe4SA8HAU|234413",
   song: "song/coldplay-anothers-arms",
   carriedBy: [

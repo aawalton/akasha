@@ -12,7 +12,7 @@ export const imagineDragonsBirdsBirds = {
   title: "Birds",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "birds|53XhwfbYqKCa1cC15pYq2q|219440",
   song: "song/imagine-dragons-birds",
   carriedBy: [

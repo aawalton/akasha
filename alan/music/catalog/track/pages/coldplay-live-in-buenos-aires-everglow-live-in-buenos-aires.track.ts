@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresEverglowLiveInBuenosAires = {
   title: "Everglow - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "everglowliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|295373",
   song: "song/coldplay-everglow",
   carriedBy: [

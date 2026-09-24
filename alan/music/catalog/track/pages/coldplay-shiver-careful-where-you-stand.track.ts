@@ -12,7 +12,7 @@ export const coldplayShiverCarefulWhereYouStand = {
   title: "Careful Where You Stand",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "carefulwhereyoustand|4gzpq5DPGxSnKTe4SA8HAU|285026",
   song: "song/coldplay-careful-where-you-stand",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsIBetMyLifeRemixesIBetMyLifeBastilleRemix = {
   title: "I Bet My Life - Bastille Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "ibetmylifebastilleremix|53XhwfbYqKCa1cC15pYq2q|236493",
   song: "song/imagine-dragons-i-bet-my-life",
   carriedBy: [

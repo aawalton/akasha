@@ -12,10 +12,7 @@ export const emeiHoldOnMeFeatEmeiHoldOnMeFeatEmei = {
   title: "Hold On Me (feat. Emei)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5jAMCwdNHWr7JThxtMuEyy", artistName: "NOTD" },
-    { externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" },
-  ],
+  trackArtist: [{ artistName: "NOTD" }, { artist: "artist/emei" }],
   trackKey: "holdonmefeatemei|5jAMCwdNHWr7JThxtMuEyy,7E2aQQjErJocovYFjYLzWU|149569",
   song: "song/emei-hold-on-me",
   carriedBy: [

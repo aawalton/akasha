@@ -12,7 +12,7 @@ export const coldplayLive2012GodPutASmileUponYourFaceLive = {
   title: "God Put a Smile upon Your Face - Live",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "godputasmileuponyourfacelive|4gzpq5DPGxSnKTe4SA8HAU|321973",
   song: "song/coldplay-god-put-a-smile-upon-your-face",
   carriedBy: [

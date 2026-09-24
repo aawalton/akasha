@@ -15,7 +15,7 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLifeInTechnicolor = {
   title: "Life in Technicolor",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "lifeintechnicolor|4gzpq5DPGxSnKTe4SA8HAU|149133",
   song: "song/coldplay-life-in-technicolor",
   carriedBy: [

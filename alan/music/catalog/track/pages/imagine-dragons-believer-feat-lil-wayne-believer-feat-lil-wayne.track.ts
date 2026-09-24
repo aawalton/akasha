@@ -12,10 +12,7 @@ export const imagineDragonsBelieverFeatLilWayneBelieverFeatLilWayne = {
   title: "Believer (feat. Lil Wayne)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "55Aa2cqylxrFIXC767Z865", artistName: "Lil Wayne" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "Lil Wayne" }],
   trackKey: "believerfeatlilwayne|53XhwfbYqKCa1cC15pYq2q,55Aa2cqylxrFIXC767Z865|219705",
   song: "song/imagine-dragons-believer",
   carriedBy: [

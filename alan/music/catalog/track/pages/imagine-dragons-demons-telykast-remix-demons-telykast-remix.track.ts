@@ -15,10 +15,7 @@ export const imagineDragonsDemonsTelykastRemixDemonsTelykastRemix = {
   title: "Demons - TELYKast Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "7vWC03wqXwUqjPON8hc1tz", artistName: "TELYKAST" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "TELYKAST" }],
   trackKey: "demonstelykastremix|53XhwfbYqKCa1cC15pYq2q,7vWC03wqXwUqjPON8hc1tz|176128",
   song: "song/imagine-dragons-demons",
   carriedBy: [

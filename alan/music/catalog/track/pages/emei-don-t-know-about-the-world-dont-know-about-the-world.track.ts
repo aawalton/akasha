@@ -16,7 +16,7 @@ export const emeiDonTKnowAboutTheWorldDontKnowAboutTheWorld = {
   title: "Don't Know About The World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "dontknowabouttheworld|7E2aQQjErJocovYFjYLzWU|143696",
   song: "song/emei-dont-know-about-the-world",
   carriedBy: [

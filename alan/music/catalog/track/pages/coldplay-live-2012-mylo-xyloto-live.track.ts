@@ -12,7 +12,7 @@ export const coldplayLive2012MyloXylotoLive = {
   title: "Mylo Xyloto - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "myloxylotolive|4gzpq5DPGxSnKTe4SA8HAU|57618",
   song: "song/coldplay-mylo-xyloto",
   carriedBy: [

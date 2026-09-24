@@ -13,10 +13,10 @@ export const ejaeDnaMoreThanAGameFifaWorldCup2026tmDnaMoreThanAGame = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "3EA9hVIzKfFiQI0Kikz2wo", artistName: "Andrea Bocelli" },
-    { externalId: "1Cs0zKBU1kc0i8ypK3B9ai", artistName: "David Guetta" },
-    { externalId: "0RMJOzHDhAKY1o2j0W0vxY", artistName: "EJAE" },
-    { externalId: "181bsRPaVXVlUKXrxwZfHK", artistName: "Megan Thee Stallion" },
+    { artistName: "Andrea Bocelli" },
+    { artistName: "David Guetta" },
+    { artist: "artist/ejae" },
+    { artistName: "Megan Thee Stallion" },
   ],
   trackKey:
     "dnamorethanagame|0RMJOzHDhAKY1o2j0W0vxY,181bsRPaVXVlUKXrxwZfHK,1Cs0zKBU1kc0i8ypK3B9ai,3EA9hVIzKfFiQI0Kikz2wo|176855",

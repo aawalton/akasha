@@ -12,7 +12,7 @@ export const coldplayLive2003GodPutASmileUponYourFaceLiveInSydney = {
   title: "God Put a Smile upon Your Face - Live in Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "godputasmileuponyourfaceliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|296760",
   song: "song/coldplay-god-put-a-smile-upon-your-face",
   carriedBy: [

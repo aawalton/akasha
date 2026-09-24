@@ -12,10 +12,7 @@ export const coldplayOrphansMuziRemixOrphansMuziRemix = {
   title: "Orphans - Muzi Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "4fd3n8zcAmsG2up1QWDNj5", artistName: "Muzi" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Muzi" }],
   trackKey: "orphansmuziremix|4fd3n8zcAmsG2up1QWDNj5,4gzpq5DPGxSnKTe4SA8HAU|221160",
   song: "song/coldplay-orphans",
   carriedBy: [

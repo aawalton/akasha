@@ -12,7 +12,7 @@ export const coldplayTheBlueRoomBiggerStronger = {
   title: "Bigger Stronger",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "biggerstronger|4gzpq5DPGxSnKTe4SA8HAU|289133",
   song: "song/coldplay-bigger-stronger",
   carriedBy: [

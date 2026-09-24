@@ -15,7 +15,7 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLost = {
   title: "Lost!",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "lost|4gzpq5DPGxSnKTe4SA8HAU|236213",
   song: "song/coldplay-lost",
   carriedBy: [

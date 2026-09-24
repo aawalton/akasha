@@ -12,10 +12,7 @@ export const coldplaySomethingJustLikeThisSomethingJustLikeThis = {
   title: "Something Just Like This",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-  ],
+  trackArtist: [{ artistName: "The Chainsmokers" }, { artist: "artist/coldplay" }],
   trackKey: "somethingjustlikethis|4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|247626",
   song: "song/coldplay-something-just-like-this",
   carriedBy: [

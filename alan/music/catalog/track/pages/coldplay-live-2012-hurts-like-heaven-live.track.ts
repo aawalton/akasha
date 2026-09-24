@@ -12,7 +12,7 @@ export const coldplayLive2012HurtsLikeHeavenLive = {
   title: "Hurts Like Heaven - Live",
   trackType: "live",
   explicit: true,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "hurtslikeheavenlive|4gzpq5DPGxSnKTe4SA8HAU|256333",
   song: "song/coldplay-hurts-like-heaven",
   carriedBy: [

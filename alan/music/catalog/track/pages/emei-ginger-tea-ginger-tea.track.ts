@@ -12,7 +12,7 @@ export const emeiGingerTeaGingerTea = {
   title: "Ginger Tea",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "gingertea|7E2aQQjErJocovYFjYLzWU|157226",
   song: "song/emei-ginger-tea",
   carriedBy: [

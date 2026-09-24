@@ -12,7 +12,7 @@ export const coldplayTheHardestPartTheHardestPart = {
   title: "The Hardest Part",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "thehardestpart|4gzpq5DPGxSnKTe4SA8HAU|262880",
   song: "song/coldplay-the-hardest-part",
   carriedBy: [

@@ -12,10 +12,7 @@ export const ejaeMadeMyNightFeatEjaeMadeMyNightFeatEjae = {
   title: "Made My Night (feat. EJAE)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4SpbR6yFEvexJuaBpgAU5p", artistName: "LE SSERAFIM" },
-    { externalId: "0RMJOzHDhAKY1o2j0W0vxY", artistName: "EJAE" },
-  ],
+  trackArtist: [{ artistName: "LE SSERAFIM" }, { artist: "artist/ejae" }],
   trackKey: "mademynightfeatejae|0RMJOzHDhAKY1o2j0W0vxY,4SpbR6yFEvexJuaBpgAU5p|127666",
   song: "song/ejae-made-my-night",
   carriedBy: [

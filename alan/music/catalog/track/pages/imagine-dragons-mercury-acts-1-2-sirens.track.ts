@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12Sirens = {
   title: "Sirens",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "sirens|53XhwfbYqKCa1cC15pYq2q|155312",
   song: "song/imagine-dragons-sirens",
   carriedBy: [

@@ -12,10 +12,7 @@ export const imagineDragonsBonesTwocolorsRemixBonesTwocolorsRemix = {
   title: "Bones - twocolors Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "7ACEUD7UsmmXrnj4OLt8f9", artistName: "twocolors" },
-  ],
+  trackArtist: [{ artist: "artist/imagine-dragons" }, { artistName: "twocolors" }],
   trackKey: "bonestwocolorsremix|53XhwfbYqKCa1cC15pYq2q,7ACEUD7UsmmXrnj4OLt8f9|256092",
   song: "song/imagine-dragons-bones",
   carriedBy: [

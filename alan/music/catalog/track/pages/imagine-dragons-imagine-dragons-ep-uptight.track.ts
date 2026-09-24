@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsEpUptight = {
   title: "Uptight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "uptight|53XhwfbYqKCa1cC15pYq2q|223133",
   song: "song/imagine-dragons-uptight",
   carriedBy: [

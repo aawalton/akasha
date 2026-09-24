@@ -12,7 +12,7 @@ export const coldplayGhostStoriesLive2014MidnightLiveAtTheRoyalAlbertHallLondon 
   title: "Midnight - Live at the Royal Albert Hall, London",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "midnightliveattheroyalalberthalllondon|4gzpq5DPGxSnKTe4SA8HAU|288666",
   song: "song/coldplay-midnight",
   carriedBy: [

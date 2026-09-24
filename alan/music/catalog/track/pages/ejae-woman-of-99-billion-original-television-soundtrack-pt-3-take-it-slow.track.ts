@@ -12,7 +12,7 @@ export const ejaeWomanOf99BillionOriginalTelevisionSoundtrackPt3TakeItSlow = {
   title: "Take it slow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0RMJOzHDhAKY1o2j0W0vxY", artistName: "EJAE" }],
+  trackArtist: [{ artist: "artist/ejae" }],
   trackKey: "takeitslow|0RMJOzHDhAKY1o2j0W0vxY|226475",
   song: "song/ejae-take-it-slow",
   carriedBy: [

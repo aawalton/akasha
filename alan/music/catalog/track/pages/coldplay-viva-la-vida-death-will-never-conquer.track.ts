@@ -12,7 +12,7 @@ export const coldplayVivaLaVidaDeathWillNeverConquer = {
   title: "Death Will Never Conquer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "deathwillneverconquer|4gzpq5DPGxSnKTe4SA8HAU|77853",
   song: "song/coldplay-death-will-never-conquer",
   carriedBy: [

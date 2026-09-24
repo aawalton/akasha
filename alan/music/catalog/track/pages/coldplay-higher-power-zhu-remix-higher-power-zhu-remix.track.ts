@@ -12,10 +12,7 @@ export const coldplayHigherPowerZhuRemixHigherPowerZhuRemix = {
   title: "Higher Power - ZHU Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "28j8lBWDdDSHSSt5oPlsX2", artistName: "ZHU" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "ZHU" }],
   trackKey: "higherpowerzhuremix|28j8lBWDdDSHSSt5oPlsX2,4gzpq5DPGxSnKTe4SA8HAU|286093",
   song: "song/coldplay-higher-power",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayGhostStoriesInk = {
   title: "Ink",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "ink|4gzpq5DPGxSnKTe4SA8HAU|228373",
   song: "song/coldplay-ink",
   carriedBy: [

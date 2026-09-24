@@ -12,7 +12,7 @@ export const emBeiholdMaybeLifeIsGoodMaybeLifeIsGood = {
   title: "Maybe Life Is Good",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "maybelifeisgood|7o2ZQYM7nTsaVdkXY38UAA|190853",
   song: "song/em-beihold-maybe-life-is-good",
   carriedBy: [

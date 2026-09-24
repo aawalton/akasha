@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveInVegasLasVegasOurHomeLiveInVegas =
   title: "Las Vegas, Our Home - Live in Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "lasvegasourhomeliveinvegas|53XhwfbYqKCa1cC15pYq2q|75983",
   song: "song/imagine-dragons-las-vegas-our-home",
   carriedBy: [

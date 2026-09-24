@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresAmorArgentinaLiveInBuenosAires = {
   title: "Amor Argentina - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "amorargentinaliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|316200",
   song: "song/coldplay-amor-argentina",
   carriedBy: [

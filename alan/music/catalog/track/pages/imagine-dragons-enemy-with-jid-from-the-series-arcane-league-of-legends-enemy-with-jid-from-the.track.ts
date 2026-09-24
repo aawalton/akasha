@@ -16,10 +16,10 @@ export const imagineDragonsEnemyWithJidFromTheSeriesArcaneLeagueOfLegendsEnemyWi
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "6U3ybJ9UHNKEdsH7ktGBZ7", artistName: "JID" },
-    { externalId: "57nPqD7z62gDdq37US9XJR", artistName: "Arcane" },
-    { externalId: "47mIJdHORyRerp4os813jD", artistName: "League of Legends" },
+    { artist: "artist/imagine-dragons" },
+    { artistName: "JID" },
+    { artistName: "Arcane" },
+    { artistName: "League of Legends" },
   ],
   trackKey:
     "enemywithjidfromtheseriesarcaneleagueoflegends|47mIJdHORyRerp4os813jD,53XhwfbYqKCa1cC15pYq2q,57nPqD7z62gDdq37US9XJR,6U3ybJ9UHNKEdsH7ktGBZ7|173381",

@@ -12,7 +12,7 @@ export const coldplayTheBlueRoomSuchARush = {
   title: "Such a Rush",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "sucharush|4gzpq5DPGxSnKTe4SA8HAU|297733",
   song: "song/coldplay-such-a-rush",
   carriedBy: [

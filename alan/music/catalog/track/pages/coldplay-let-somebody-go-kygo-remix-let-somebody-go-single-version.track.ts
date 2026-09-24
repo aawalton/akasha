@@ -16,10 +16,7 @@ export const coldplayLetSomebodyGoKygoRemixLetSomebodyGoSingleVersion = {
   title: "Let Somebody Go - Single Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "0C8ZW7ezQVs4URX5aX7Kqx", artistName: "Selena Gomez" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Selena Gomez" }],
   trackKey: "letsomebodygosingleversion|0C8ZW7ezQVs4URX5aX7Kqx,4gzpq5DPGxSnKTe4SA8HAU|212949",
   song: "song/coldplay-let-somebody-go",
   carriedBy: [

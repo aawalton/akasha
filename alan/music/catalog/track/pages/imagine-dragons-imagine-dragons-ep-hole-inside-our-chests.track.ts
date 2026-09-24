@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsEpHoleInsideOurChests = {
   title: "Hole Inside Our Chests",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "holeinsideourchests|53XhwfbYqKCa1cC15pYq2q|158506",
   song: "song/imagine-dragons-hole-inside-our-chests",
   carriedBy: [

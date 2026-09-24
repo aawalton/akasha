@@ -12,11 +12,7 @@ export const coldplayMyUniverseGalantisRemixMyUniverseGalantisRemix = {
   title: "My Universe - Galantis Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3Nrfpe0tUJi4K4DXYWgMUX", artistName: "BTS" },
-    { externalId: "4sTQVOfp9vEMCemLw50sbu", artistName: "Galantis" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "BTS" }, { artistName: "Galantis" }],
   trackKey:
     "myuniversegalantisremix|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU,4sTQVOfp9vEMCemLw50sbu|224908",
   song: "song/coldplay-my-universe",

@@ -12,7 +12,7 @@ export const imagineDragonsLiveAtAllsaintsStudiosHandInMyPocketLiveAcousticCover
   title: "Hand In My Pocket - Live/Acoustic Cover",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "handinmypocketliveacousticcover|53XhwfbYqKCa1cC15pYq2q|185500",
   song: "song/imagine-dragons-hand-in-my-pocket",
   carriedBy: [

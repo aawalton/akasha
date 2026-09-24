@@ -12,7 +12,7 @@ export const emeiNightAtTheOperaSimpleRequest = {
   title: "Simple Request",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "simplerequest|7E2aQQjErJocovYFjYLzWU|229185",
   song: "song/emei-simple-request",
   carriedBy: [

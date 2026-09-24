@@ -12,7 +12,7 @@ export const ejaeDinnerMateOriginalTelevisionSoundtrackPt5MidnightCinderellaInst
   title: "Midnight Cinderella - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "0RMJOzHDhAKY1o2j0W0vxY", artistName: "EJAE" }],
+  trackArtist: [{ artist: "artist/ejae" }],
   trackKey: "midnightcinderellainstrumental|0RMJOzHDhAKY1o2j0W0vxY|230360",
   song: "song/ejae-midnight-cinderella",
   carriedBy: [

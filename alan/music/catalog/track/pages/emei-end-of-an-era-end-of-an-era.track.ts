@@ -12,7 +12,7 @@ export const emeiEndOfAnEraEndOfAnEra = {
   title: "End of an Era",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "endofanera|7E2aQQjErJocovYFjYLzWU|133985",
   song: "song/emei-end-of-an-era",
   carriedBy: [

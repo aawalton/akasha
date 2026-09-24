@@ -17,7 +17,7 @@ export const emei9LivesRabbithole = {
   title: "RABBITHOLE",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "rabbithole|7E2aQQjErJocovYFjYLzWU|141443",
   song: "song/emei-rabbithole",
   carriedBy: [

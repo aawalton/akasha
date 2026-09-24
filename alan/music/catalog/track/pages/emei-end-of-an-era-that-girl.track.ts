@@ -12,7 +12,7 @@ export const emeiEndOfAnEraThatGirl = {
   title: "That Girl",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "thatgirl|7E2aQQjErJocovYFjYLzWU|140426",
   song: "song/emei-that-girl",
   carriedBy: [

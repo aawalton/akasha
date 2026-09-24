@@ -12,7 +12,7 @@ export const coldplayKaleidoscopeEpALIENS = {
   title: "A L I E N S",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "aliens|4gzpq5DPGxSnKTe4SA8HAU|282426",
   song: "song/coldplay-a-l-i-e-n-s",
   carriedBy: [

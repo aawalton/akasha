@@ -12,7 +12,7 @@ export const emeiBacktrackBacktrack = {
   title: "Backtrack",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "backtrack|7E2aQQjErJocovYFjYLzWU|158840",
   song: "song/emei-backtrack",
   carriedBy: [

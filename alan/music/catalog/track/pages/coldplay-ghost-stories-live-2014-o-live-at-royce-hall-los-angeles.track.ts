@@ -12,7 +12,7 @@ export const coldplayGhostStoriesLive2014OLiveAtRoyceHallLosAngeles = {
   title: "O - Live at Royce Hall, Los Angeles",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "oliveatroycehalllosangeles|4gzpq5DPGxSnKTe4SA8HAU|336066",
   song: "song/coldplay-o",
   carriedBy: [

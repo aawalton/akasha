@@ -15,7 +15,7 @@ export const imagineDragonsItSTimePassionPitRemixItsTimePassionPitRemix = {
   title: "It's Time - Passion Pit Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "itstimepassionpitremix|53XhwfbYqKCa1cC15pYq2q|271373",
   song: "song/imagine-dragons-it-s-time",
   carriedBy: [

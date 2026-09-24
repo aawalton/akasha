@@ -13,9 +13,9 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisR3habRemix
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "6cEuCEZu7PAE9ZSzLLc2oQ", artistName: "R3HAB" },
+    { artistName: "The Chainsmokers" },
+    { artist: "artist/coldplay" },
+    { artistName: "R3HAB" },
   ],
   trackKey:
     "somethingjustlikethisr3habremix|4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp,6cEuCEZu7PAE9ZSzLLc2oQ|162880",

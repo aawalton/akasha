@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveInVegasIBetMyLifeAcousticLiveInVega
   title: "I Bet My Life (Acoustic) - Live in Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "ibetmylifeacousticliveinvegas|53XhwfbYqKCa1cC15pYq2q|225660",
   song: "song/imagine-dragons-i-bet-my-life",
   carriedBy: [

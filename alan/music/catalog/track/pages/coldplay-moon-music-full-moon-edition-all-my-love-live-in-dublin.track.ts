@@ -12,7 +12,7 @@ export const coldplayMoonMusicFullMoonEditionAllMyLoveLiveInDublin = {
   title: "All My Love - Live in Dublin",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "allmyloveliveindublin|4gzpq5DPGxSnKTe4SA8HAU|246321",
   song: "song/coldplay-all-my-love",
   carriedBy: [

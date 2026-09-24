@@ -12,7 +12,7 @@ export const coldplayLive2012UpInFlamesLive = {
   title: "Up in Flames - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "upinflameslive|4gzpq5DPGxSnKTe4SA8HAU|197840",
   song: "song/coldplay-up-in-flames",
   carriedBy: [

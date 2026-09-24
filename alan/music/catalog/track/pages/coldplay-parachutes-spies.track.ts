@@ -12,7 +12,7 @@ export const coldplayParachutesSpies = {
   title: "Spies",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "spies|4gzpq5DPGxSnKTe4SA8HAU|318773",
   song: "song/coldplay-spies",
   carriedBy: [

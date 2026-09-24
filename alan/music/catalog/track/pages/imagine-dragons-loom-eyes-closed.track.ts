@@ -12,7 +12,7 @@ export const imagineDragonsLoomEyesClosed = {
   title: "Eyes Closed",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "eyesclosed|53XhwfbYqKCa1cC15pYq2q|200026",
   song: "song/imagine-dragons-eyes-closed",
   carriedBy: [

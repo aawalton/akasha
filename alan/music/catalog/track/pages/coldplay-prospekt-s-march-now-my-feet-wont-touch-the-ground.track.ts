@@ -15,7 +15,7 @@ export const coldplayProspektSMarchNowMyFeetWontTouchTheGround = {
   title: "Now My Feet Won't Touch the Ground",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "nowmyfeetwonttouchtheground|4gzpq5DPGxSnKTe4SA8HAU|147521",
   song: "song/coldplay-now-my-feet-wont-touch-the-ground",
   carriedBy: [

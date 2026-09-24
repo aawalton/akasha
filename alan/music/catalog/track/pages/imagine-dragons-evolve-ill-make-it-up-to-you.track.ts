@@ -12,7 +12,7 @@ export const imagineDragonsEvolveIllMakeItUpToYou = {
   title: "I’ll Make It Up To You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "illmakeituptoyou|53XhwfbYqKCa1cC15pYq2q|262600",
   song: "song/imagine-dragons-i-ll-make-it-up-to-you",
   carriedBy: [

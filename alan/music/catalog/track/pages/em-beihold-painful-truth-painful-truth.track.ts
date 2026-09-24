@@ -12,7 +12,7 @@ export const emBeiholdPainfulTruthPainfulTruth = {
   title: "Painful Truth",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "painfultruth|7o2ZQYM7nTsaVdkXY38UAA|208867",
   song: "song/em-beihold-painful-truth",
   carriedBy: [

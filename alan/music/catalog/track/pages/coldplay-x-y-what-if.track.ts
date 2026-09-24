@@ -12,7 +12,7 @@ export const coldplayXYWhatIf = {
   title: "What If",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "whatif|4gzpq5DPGxSnKTe4SA8HAU|298519",
   song: "song/coldplay-what-if",
   carriedBy: [

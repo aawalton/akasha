@@ -16,7 +16,7 @@ export const coldplayVioletHillVioletHill = {
   title: "Violet Hill",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "violethill|4gzpq5DPGxSnKTe4SA8HAU|222653",
   song: "song/coldplay-violet-hill",
   carriedBy: [

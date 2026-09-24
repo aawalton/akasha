@@ -16,9 +16,9 @@ export const coldplayLetSomebodyGoKygoRemixLetSomebodyGoKygoRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "0C8ZW7ezQVs4URX5aX7Kqx", artistName: "Selena Gomez" },
-    { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },
+    { artist: "artist/coldplay" },
+    { artistName: "Selena Gomez" },
+    { artistName: "Kygo" },
   ],
   trackKey:
     "letsomebodygokygoremix|0C8ZW7ezQVs4URX5aX7Kqx,23fqKkggKUBHNkbKtXEls4,4gzpq5DPGxSnKTe4SA8HAU|197267",

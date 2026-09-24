@@ -13,9 +13,9 @@ export const imagineDragonsEnemyFromTheSeriesArcaneLeagueOfLegendsEnemyFromTheSe
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" },
-    { externalId: "57nPqD7z62gDdq37US9XJR", artistName: "Arcane" },
-    { externalId: "47mIJdHORyRerp4os813jD", artistName: "League of Legends" },
+    { artist: "artist/imagine-dragons" },
+    { artistName: "Arcane" },
+    { artistName: "League of Legends" },
   ],
   trackKey:
     "enemyfromtheseriesarcaneleagueoflegends|47mIJdHORyRerp4os813jD,53XhwfbYqKCa1cC15pYq2q,57nPqD7z62gDdq37US9XJR|173381",

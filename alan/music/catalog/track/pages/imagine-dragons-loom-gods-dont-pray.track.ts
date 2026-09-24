@@ -12,7 +12,7 @@ export const imagineDragonsLoomGodsDontPray = {
   title: "Gods Don’t Pray",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "godsdontpray|53XhwfbYqKCa1cC15pYq2q|169893",
   song: "song/imagine-dragons-gods-don-t-pray",
   carriedBy: [

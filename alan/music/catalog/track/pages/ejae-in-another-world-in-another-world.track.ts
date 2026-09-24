@@ -12,7 +12,7 @@ export const ejaeInAnotherWorldInAnotherWorld = {
   title: "In Another World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0RMJOzHDhAKY1o2j0W0vxY", artistName: "EJAE" }],
+  trackArtist: [{ artist: "artist/ejae" }],
   trackKey: "inanotherworld|0RMJOzHDhAKY1o2j0W0vxY|175531",
   song: "song/ejae-in-another-world",
   carriedBy: [

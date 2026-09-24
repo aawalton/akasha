@@ -12,7 +12,7 @@ export const imagineDragonsItSTimeRemixesItsTimeStungunJailbreaksRemix = {
   title: "It's Time - StunGun & JailBreaks Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "itstimestungunjailbreaksremix|53XhwfbYqKCa1cC15pYq2q|306160",
   song: "song/imagine-dragons-it-s-time",
   carriedBy: [

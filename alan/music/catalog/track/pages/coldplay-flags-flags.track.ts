@@ -12,7 +12,7 @@ export const coldplayFlagsFlags = {
   title: "Flags",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "flags|4gzpq5DPGxSnKTe4SA8HAU|216493",
   song: "song/coldplay-flags",
   carriedBy: [

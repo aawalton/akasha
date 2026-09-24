@@ -12,7 +12,7 @@ export const coldplayUpUpUpUp = {
   title: "Up&Up",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "upup|4gzpq5DPGxSnKTe4SA8HAU|238093",
   song: "song/coldplay-up-up",
   carriedBy: [

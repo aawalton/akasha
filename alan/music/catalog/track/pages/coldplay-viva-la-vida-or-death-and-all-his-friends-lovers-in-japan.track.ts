@@ -15,7 +15,7 @@ export const coldplayVivaLaVidaOrDeathAndAllHisFriendsLoversInJapan = {
   title: "Lovers in Japan",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "loversinjapan|4gzpq5DPGxSnKTe4SA8HAU|411013",
   song: "song/coldplay-lovers-in-japan",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayXYLow = {
   title: "Low",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "low|4gzpq5DPGxSnKTe4SA8HAU|332104",
   song: "song/coldplay-low",
   carriedBy: [

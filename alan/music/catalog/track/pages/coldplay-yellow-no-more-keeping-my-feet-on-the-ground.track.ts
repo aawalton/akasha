@@ -12,7 +12,7 @@ export const coldplayYellowNoMoreKeepingMyFeetOnTheGround = {
   title: "No More Keeping My Feet on the Ground",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "nomorekeepingmyfeetontheground|4gzpq5DPGxSnKTe4SA8HAU|271173",
   song: "song/coldplay-no-more-keeping-my-feet-on-the-ground",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayMoonMusicFullMoonEditionTheKarateKid = {
   title: "The Karate Kid",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "thekaratekid|4gzpq5DPGxSnKTe4SA8HAU|175466",
   song: "song/coldplay-the-karate-kid",
   carriedBy: [

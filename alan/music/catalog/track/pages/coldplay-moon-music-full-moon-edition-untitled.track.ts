@@ -15,7 +15,7 @@ export const coldplayMoonMusicFullMoonEditionUntitled = {
   title: "🌈",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "|4gzpq5DPGxSnKTe4SA8HAU|369598",
   song: "song/coldplay-untitled-7",
   carriedBy: [

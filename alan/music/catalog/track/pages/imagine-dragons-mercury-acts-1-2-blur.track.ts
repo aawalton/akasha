@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12Blur = {
   title: "Blur",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "blur|53XhwfbYqKCa1cC15pYq2q|175663",
   song: "song/imagine-dragons-blur",
   carriedBy: [

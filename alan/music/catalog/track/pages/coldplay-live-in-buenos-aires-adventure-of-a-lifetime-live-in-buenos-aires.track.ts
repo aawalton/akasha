@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresAdventureOfALifetimeLiveInBuenosAires = {
   title: "Adventure of a Lifetime - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "adventureofalifetimeliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|306546",
   song: "song/coldplay-adventure-of-a-lifetime",
   carriedBy: [

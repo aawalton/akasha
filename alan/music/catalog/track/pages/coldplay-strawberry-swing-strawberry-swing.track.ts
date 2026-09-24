@@ -16,7 +16,7 @@ export const coldplayStrawberrySwingStrawberrySwing = {
   title: "Strawberry Swing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "strawberryswing|4gzpq5DPGxSnKTe4SA8HAU|249666",
   song: "song/coldplay-strawberry-swing",
   carriedBy: [

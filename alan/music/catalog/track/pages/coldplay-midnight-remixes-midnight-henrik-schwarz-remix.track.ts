@@ -12,10 +12,7 @@ export const coldplayMidnightRemixesMidnightHenrikSchwarzRemix = {
   title: "Midnight - Henrik Schwarz Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "1ooAqaFu4Ac3BO2HpL4V2R", artistName: "Henrik Schwarz" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Henrik Schwarz" }],
   trackKey: "midnighthenrikschwarzremix|1ooAqaFu4Ac3BO2HpL4V2R,4gzpq5DPGxSnKTe4SA8HAU|521627",
   song: "song/coldplay-midnight",
   carriedBy: [

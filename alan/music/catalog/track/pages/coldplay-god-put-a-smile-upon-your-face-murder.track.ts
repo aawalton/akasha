@@ -12,7 +12,7 @@ export const coldplayGodPutASmileUponYourFaceMurder = {
   title: "Murder",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "murder|4gzpq5DPGxSnKTe4SA8HAU|334879",
   song: "song/coldplay-murder",
   carriedBy: [

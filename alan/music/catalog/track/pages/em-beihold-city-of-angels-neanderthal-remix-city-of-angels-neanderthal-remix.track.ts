@@ -12,10 +12,7 @@ export const emBeiholdCityOfAngelsNeanderthalRemixCityOfAngelsNeanderthalRemix =
   title: "City of Angels - Neanderthal Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" },
-    { externalId: "7AV66Eu1XevhHitr3MEama", artistName: "Neanderthal" },
-  ],
+  trackArtist: [{ artist: "artist/em-beihold" }, { artistName: "Neanderthal" }],
   trackKey: "cityofangelsneanderthalremix|7AV66Eu1XevhHitr3MEama,7o2ZQYM7nTsaVdkXY38UAA|210000",
   song: "song/em-beihold-city-of-angels",
   carriedBy: [

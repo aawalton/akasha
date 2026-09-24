@@ -12,7 +12,7 @@ export const coldplayMyloXylotoMMIX = {
   title: "M.M.I.X.",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "mmix|4gzpq5DPGxSnKTe4SA8HAU|48466",
   song: "song/coldplay-m-m-i-x",
   carriedBy: [

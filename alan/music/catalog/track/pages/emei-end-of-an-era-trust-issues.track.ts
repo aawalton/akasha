@@ -12,7 +12,7 @@ export const emeiEndOfAnEraTrustIssues = {
   title: "Trust Issues",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "trustissues|7E2aQQjErJocovYFjYLzWU|140880",
   song: "song/emei-trust-issues",
   carriedBy: [

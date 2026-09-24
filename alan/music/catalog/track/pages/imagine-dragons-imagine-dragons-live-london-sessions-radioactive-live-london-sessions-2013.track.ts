@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsRadioactiveLiveLondon
   title: "Radioactive - Live London Sessions / 2013",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "radioactivelivelondonsessions2013|53XhwfbYqKCa1cC15pYq2q|270160",
   song: "song/imagine-dragons-radioactive",
   carriedBy: [

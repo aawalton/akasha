@@ -12,7 +12,7 @@ export const coldplayLifeInTechnicolorIiLifeInTechnicolorIi = {
   title: "Life in Technicolor ii",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "lifeintechnicolorii|4gzpq5DPGxSnKTe4SA8HAU|247293",
   song: "song/coldplay-life-in-technicolor-ii",
   carriedBy: [

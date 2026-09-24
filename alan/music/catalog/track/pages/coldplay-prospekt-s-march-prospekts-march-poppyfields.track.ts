@@ -15,7 +15,7 @@ export const coldplayProspektSMarchProspektsMarchPoppyfields = {
   title: "Prospekt's March / Poppyfields",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "prospektsmarchpoppyfields|4gzpq5DPGxSnKTe4SA8HAU|219231",
   song: "song/coldplay-prospekts-march-poppyfields",
   carriedBy: [

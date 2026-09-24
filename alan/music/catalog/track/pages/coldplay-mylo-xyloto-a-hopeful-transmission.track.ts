@@ -12,7 +12,7 @@ export const coldplayMyloXylotoAHopefulTransmission = {
   title: "A Hopeful Transmission",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "ahopefultransmission|4gzpq5DPGxSnKTe4SA8HAU|33000",
   song: "song/coldplay-a-hopeful-transmission",
   carriedBy: [

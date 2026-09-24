@@ -12,7 +12,7 @@ export const imagineDragonsLoomInYourCorner = {
   title: "In Your Corner",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "inyourcorner|53XhwfbYqKCa1cC15pYq2q|239893",
   song: "song/imagine-dragons-in-your-corner",
   carriedBy: [

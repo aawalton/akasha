@@ -12,7 +12,7 @@ export const emeiLoveMeNotLoveMeNot = {
   title: "Love Me Not",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "lovemenot|7E2aQQjErJocovYFjYLzWU|140355",
   song: "song/emei-love-me-not",
   carriedBy: [

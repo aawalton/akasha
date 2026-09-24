@@ -12,10 +12,7 @@ export const coldplayMyUniverseMyUniverseAcousticVersion = {
   title: "My Universe - Acoustic Version",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3Nrfpe0tUJi4K4DXYWgMUX", artistName: "BTS" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "BTS" }],
   trackKey: "myuniverseacousticversion|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU|223268",
   song: "song/coldplay-my-universe",
   carriedBy: [

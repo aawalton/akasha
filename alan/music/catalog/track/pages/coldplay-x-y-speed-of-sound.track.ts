@@ -12,7 +12,7 @@ export const coldplayXYSpeedOfSound = {
   title: "Speed of Sound",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "speedofsound|4gzpq5DPGxSnKTe4SA8HAU|287906",
   song: "song/coldplay-speed-of-sound",
   carriedBy: [

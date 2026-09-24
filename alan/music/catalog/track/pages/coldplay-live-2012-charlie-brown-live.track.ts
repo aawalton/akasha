@@ -12,7 +12,7 @@ export const coldplayLive2012CharlieBrownLive = {
   title: "Charlie Brown - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "charliebrownlive|4gzpq5DPGxSnKTe4SA8HAU|300746",
   song: "song/coldplay-charlie-brown",
   carriedBy: [

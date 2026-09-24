@@ -12,7 +12,7 @@ export const imagineDragonsEvolveIDontKnowWhy = {
   title: "I Don’t Know Why",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "idontknowwhy|53XhwfbYqKCa1cC15pYq2q|190120",
   song: "song/imagine-dragons-i-don-t-know-why",
   carriedBy: [

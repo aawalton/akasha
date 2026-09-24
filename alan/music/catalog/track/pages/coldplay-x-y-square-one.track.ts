@@ -12,7 +12,7 @@ export const coldplayXYSquareOne = {
   title: "Square One",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "squareone|4gzpq5DPGxSnKTe4SA8HAU|287634",
   song: "song/coldplay-square-one",
   carriedBy: [

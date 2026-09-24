@@ -12,7 +12,7 @@ export const emBeiholdTalesOfAFailedShapeshifterExorcism = {
   title: "Exorcism",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "exorcism|7o2ZQYM7nTsaVdkXY38UAA|169637",
   song: "song/em-beihold-exorcism",
   carriedBy: [

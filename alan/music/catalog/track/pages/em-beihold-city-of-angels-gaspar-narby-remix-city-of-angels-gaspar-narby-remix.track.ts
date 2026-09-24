@@ -12,10 +12,7 @@ export const emBeiholdCityOfAngelsGasparNarbyRemixCityOfAngelsGasparNarbyRemix =
   title: "City of Angels - Gaspar Narby Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" },
-    { externalId: "2j4vLZ1ZNKpYCPhk98FR2s", artistName: "Gaspar Narby" },
-  ],
+  trackArtist: [{ artist: "artist/em-beihold" }, { artistName: "Gaspar Narby" }],
   trackKey: "cityofangelsgasparnarbyremix|2j4vLZ1ZNKpYCPhk98FR2s,7o2ZQYM7nTsaVdkXY38UAA|214500",
   song: "song/em-beihold-city-of-angels",
   carriedBy: [

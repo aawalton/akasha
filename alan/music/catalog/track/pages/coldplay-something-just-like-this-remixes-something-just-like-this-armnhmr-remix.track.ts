@@ -13,9 +13,9 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisArmnhmrRem
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "0P2bZXPyjHYRW4guHVAFl1", artistName: "ARMNHMR" },
+    { artistName: "The Chainsmokers" },
+    { artist: "artist/coldplay" },
+    { artistName: "ARMNHMR" },
   ],
   trackKey:
     "somethingjustlikethisarmnhmrremix|0P2bZXPyjHYRW4guHVAFl1,4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|224320",

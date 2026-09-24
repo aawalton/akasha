@@ -12,7 +12,7 @@ export const coldplayXYAMessage = {
   title: "A Message",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "amessage|4gzpq5DPGxSnKTe4SA8HAU|285345",
   song: "song/coldplay-a-message",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsILoveYouAllTheTimePlayItForwardCampaignILoveYouAllThe
   title: "I Love You All the Time (Play It Forward Campaign)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "iloveyouallthetimeplayitforwardcampaign|53XhwfbYqKCa1cC15pYq2q|187243",
   song: "song/imagine-dragons-i-love-you-all-the-time-play-it-forward-campaign",
   carriedBy: [

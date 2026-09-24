@@ -16,7 +16,7 @@ export const imagineDragonsNightVisionsAmsterdam = {
   title: "Amsterdam",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "amsterdam|53XhwfbYqKCa1cC15pYq2q|241426",
   song: "song/imagine-dragons-amsterdam",
   carriedBy: [

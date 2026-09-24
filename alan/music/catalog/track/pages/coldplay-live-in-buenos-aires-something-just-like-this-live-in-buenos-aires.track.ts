@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresSomethingJustLikeThisLiveInBuenosAires = {
   title: "Something Just like This - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "somethingjustlikethisliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|244240",
   song: "song/coldplay-something-just-like-this",
   carriedBy: [

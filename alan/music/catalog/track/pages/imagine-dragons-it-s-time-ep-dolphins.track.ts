@@ -12,7 +12,7 @@ export const imagineDragonsItSTimeEpDolphins = {
   title: "Dolphins",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "dolphins|53XhwfbYqKCa1cC15pYq2q|212666",
   song: "song/imagine-dragons-dolphins",
   carriedBy: [

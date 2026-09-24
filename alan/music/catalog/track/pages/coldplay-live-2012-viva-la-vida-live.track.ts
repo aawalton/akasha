@@ -12,7 +12,7 @@ export const coldplayLive2012VivaLaVidaLive = {
   title: "Viva La Vida - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "vivalavidalive|4gzpq5DPGxSnKTe4SA8HAU|298333",
   song: "song/coldplay-viva-la-vida",
   carriedBy: [

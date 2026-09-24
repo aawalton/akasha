@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12Sharks = {
   title: "Sharks",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "sharks|53XhwfbYqKCa1cC15pYq2q|190883",
   song: "song/imagine-dragons-sharks",
   carriedBy: [

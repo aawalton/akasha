@@ -12,7 +12,7 @@ export const imagineDragonsHellAndSilenceEpAllEyes = {
   title: "All Eyes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "alleyes|53XhwfbYqKCa1cC15pYq2q|179200",
   song: "song/imagine-dragons-all-eyes",
   carriedBy: [

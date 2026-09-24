@@ -12,10 +12,7 @@ export const coldplayPrincessOfChinaPrincessOfChinaInvisibleMenRemix = {
   title: "Princess of China - Invisible Men Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "5pKCCKE2ajJHZ9KAiaK11H", artistName: "Rihanna" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "Rihanna" }],
   trackKey: "princessofchinainvisiblemenremix|4gzpq5DPGxSnKTe4SA8HAU,5pKCCKE2ajJHZ9KAiaK11H|226626",
   song: "song/coldplay-princess-of-china",
   carriedBy: [

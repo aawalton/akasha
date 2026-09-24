@@ -12,7 +12,7 @@ export const imagineDragonsLoomKid = {
   title: "Kid",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "kid|53XhwfbYqKCa1cC15pYq2q|159786",
   song: "song/imagine-dragons-kid",
   carriedBy: [

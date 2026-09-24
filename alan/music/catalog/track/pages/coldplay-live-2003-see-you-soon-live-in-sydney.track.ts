@@ -12,7 +12,7 @@ export const coldplayLive2003SeeYouSoonLiveInSydney = {
   title: "See You Soon - Live in Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "seeyousoonliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|209106",
   song: "song/coldplay-see-you-soon",
   carriedBy: [

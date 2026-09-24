@@ -15,7 +15,7 @@ export const imagineDragonsFollowYouCutthroatCutthroat = {
   title: "Cutthroat",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "cutthroat|53XhwfbYqKCa1cC15pYq2q|169741",
   song: "song/imagine-dragons-cutthroat",
   carriedBy: [

@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveInVegasImSoSorryLiveInVegas = {
   title: "I'm So Sorry - Live in Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "imsosorryliveinvegas|53XhwfbYqKCa1cC15pYq2q|282208",
   song: "song/imagine-dragons-i-m-so-sorry",
   carriedBy: [

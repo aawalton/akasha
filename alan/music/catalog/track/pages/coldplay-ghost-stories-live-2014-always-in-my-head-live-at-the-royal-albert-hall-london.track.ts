@@ -12,7 +12,7 @@ export const coldplayGhostStoriesLive2014AlwaysInMyHeadLiveAtTheRoyalAlbertHallL
   title: "Always in My Head - Live at the Royal Albert Hall, London",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "alwaysinmyheadliveattheroyalalberthalllondon|4gzpq5DPGxSnKTe4SA8HAU|237266",
   song: "song/coldplay-always-in-my-head",
   carriedBy: [

@@ -13,9 +13,9 @@ export const emBeiholdPhonePhone = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0xRXCcSX89eobfrshSVdyu", artistName: "MEDUZA" },
-    { externalId: "04uu8U3I1h26Fp2NBkPTRZ", artistName: "Sam Tompkins" },
-    { externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" },
+    { artistName: "MEDUZA" },
+    { artistName: "Sam Tompkins" },
+    { artist: "artist/em-beihold" },
   ],
   trackKey: "phone|04uu8U3I1h26Fp2NBkPTRZ,0xRXCcSX89eobfrshSVdyu,7o2ZQYM7nTsaVdkXY38UAA|155076",
   song: "song/em-beihold-phone",

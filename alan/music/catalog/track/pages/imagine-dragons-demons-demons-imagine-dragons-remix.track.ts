@@ -12,7 +12,7 @@ export const imagineDragonsDemonsDemonsImagineDragonsRemix = {
   title: "Demons - Imagine Dragons Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "demonsimaginedragonsremix|53XhwfbYqKCa1cC15pYq2q|196946",
   song: "song/imagine-dragons-demons",
   carriedBy: [

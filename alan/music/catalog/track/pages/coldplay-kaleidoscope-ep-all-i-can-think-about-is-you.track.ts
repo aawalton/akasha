@@ -12,7 +12,7 @@ export const coldplayKaleidoscopeEpAllICanThinkAboutIsYou = {
   title: "All I Can Think About Is You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "allicanthinkaboutisyou|4gzpq5DPGxSnKTe4SA8HAU|274586",
   song: "song/coldplay-all-i-can-think-about-is-you",
   carriedBy: [

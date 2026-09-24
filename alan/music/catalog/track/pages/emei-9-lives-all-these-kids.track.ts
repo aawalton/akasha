@@ -16,7 +16,7 @@ export const emei9LivesAllTheseKids = {
   title: "ALL THESE KIDS",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "allthesekids|7E2aQQjErJocovYFjYLzWU|117091",
   song: "song/emei-all-these-kids",
   carriedBy: [

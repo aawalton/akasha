@@ -12,7 +12,7 @@ export const coldplayMusicOfTheSpheresUntitled4 = {
   title: "🌎",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "|4gzpq5DPGxSnKTe4SA8HAU|21388",
   song: "song/coldplay-untitled-8",
   carriedBy: [

@@ -13,7 +13,7 @@ export const emeiNightAtTheOperaNoah = {
   title: "Noah",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "noah|7E2aQQjErJocovYFjYLzWU|159929",
   song: "song/emei-noah",
   carriedBy: [

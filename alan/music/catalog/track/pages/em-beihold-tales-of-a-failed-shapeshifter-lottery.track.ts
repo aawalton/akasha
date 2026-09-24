@@ -12,7 +12,7 @@ export const emBeiholdTalesOfAFailedShapeshifterLottery = {
   title: "Lottery",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "lottery|7o2ZQYM7nTsaVdkXY38UAA|169181",
   song: "song/em-beihold-lottery",
   carriedBy: [

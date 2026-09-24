@@ -12,7 +12,7 @@ export const coldplayTalkTalkJunkieXlRemix = {
   title: "Talk - Junkie XL Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "talkjunkiexlremix|4gzpq5DPGxSnKTe4SA8HAU|702866",
   song: "song/coldplay-talk",
   carriedBy: [

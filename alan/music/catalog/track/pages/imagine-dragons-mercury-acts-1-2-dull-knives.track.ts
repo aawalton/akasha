@@ -12,7 +12,7 @@ export const imagineDragonsMercuryActs12DullKnives = {
   title: "Dull Knives",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "dullknives|53XhwfbYqKCa1cC15pYq2q|213481",
   song: "song/imagine-dragons-dull-knives",
   carriedBy: [

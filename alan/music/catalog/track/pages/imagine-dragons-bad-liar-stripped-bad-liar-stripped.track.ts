@@ -12,7 +12,7 @@ export const imagineDragonsBadLiarStrippedBadLiarStripped = {
   title: "Bad Liar – Stripped",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "badliarstripped|53XhwfbYqKCa1cC15pYq2q|253227",
   song: "song/imagine-dragons-bad-liar",
   carriedBy: [

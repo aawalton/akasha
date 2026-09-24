@@ -13,7 +13,7 @@ export const emeiNightAtTheOperaWhatsThePoint = {
   title: "What's the Point!",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "7E2aQQjErJocovYFjYLzWU", artistName: "Emei" }],
+  trackArtist: [{ artist: "artist/emei" }],
   trackKey: "whatsthepoint|7E2aQQjErJocovYFjYLzWU|163754",
   song: "song/emei-whats-the-point",
   carriedBy: [

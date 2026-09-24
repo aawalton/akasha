@@ -13,9 +13,9 @@ export const coldplayLetSomebodyGoOfenbachRemixLetSomebodyGoOfenbachRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "0C8ZW7ezQVs4URX5aX7Kqx", artistName: "Selena Gomez" },
-    { externalId: "4AKwRarlmsUlLjIwt38NLw", artistName: "Ofenbach" },
+    { artist: "artist/coldplay" },
+    { artistName: "Selena Gomez" },
+    { artistName: "Ofenbach" },
   ],
   trackKey:
     "letsomebodygoofenbachremix|0C8ZW7ezQVs4URX5aX7Kqx,4AKwRarlmsUlLjIwt38NLw,4gzpq5DPGxSnKTe4SA8HAU|194487",

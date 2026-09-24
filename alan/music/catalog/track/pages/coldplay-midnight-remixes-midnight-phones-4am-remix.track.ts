@@ -13,9 +13,9 @@ export const coldplayMidnightRemixesMidnightPhones4amRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3ziQfZn3PliWCCN8HgDPpS", artistName: "Matt Wiggins" },
-    { externalId: "04ouBKIoUizgF9j6v6TWR8", artistName: "Paul Epworth" },
+    { artist: "artist/coldplay" },
+    { artistName: "Matt Wiggins" },
+    { artistName: "Paul Epworth" },
   ],
   trackKey:
     "midnightphones4amremix|04ouBKIoUizgF9j6v6TWR8,3ziQfZn3PliWCCN8HgDPpS,4gzpq5DPGxSnKTe4SA8HAU|656171",

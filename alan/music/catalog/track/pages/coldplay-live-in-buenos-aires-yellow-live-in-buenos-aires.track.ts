@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresYellowLiveInBuenosAires = {
   title: "Yellow - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "yellowliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|350466",
   song: "song/coldplay-yellow",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayLive2003EverythingsNotLostLiveInSydney = {
   title: "Everything's Not Lost - Live in Sydney",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "everythingsnotlostliveinsydney|4gzpq5DPGxSnKTe4SA8HAU|527826",
   song: "song/coldplay-everythings-not-lost",
   carriedBy: [

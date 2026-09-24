@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresEveryTeardropIsAWaterfallLiveInBuenosAires
   title: "Every Teardrop Is a Waterfall - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "everyteardropisawaterfallliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|244306",
   song: "song/coldplay-every-teardrop-is-a-waterfall",
   carriedBy: [

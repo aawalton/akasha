@@ -15,7 +15,7 @@ export const coldplayMoonMusicFeelslikeimfallinginlove = {
   title: "feelslikeimfallinginlove",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "feelslikeimfallinginlove|4gzpq5DPGxSnKTe4SA8HAU|236230",
   song: "song/coldplay-feelslikeimfallinginlove",
   carriedBy: [

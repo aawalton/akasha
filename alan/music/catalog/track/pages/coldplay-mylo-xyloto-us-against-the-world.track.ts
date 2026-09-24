@@ -12,7 +12,7 @@ export const coldplayMyloXylotoUsAgainstTheWorld = {
   title: "Us Against the World",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "usagainsttheworld|4gzpq5DPGxSnKTe4SA8HAU|239767",
   song: "song/coldplay-us-against-the-world",
   carriedBy: [

@@ -12,7 +12,7 @@ export const coldplayTheHardestPartHowYouSeeTheWorldLiveFromEarlsCourt = {
   title: "How You See the World - Live from Earls Court",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "howyouseetheworldlivefromearlscourt|4gzpq5DPGxSnKTe4SA8HAU|256626",
   song: "song/coldplay-how-you-see-the-world",
   carriedBy: [

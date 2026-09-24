@@ -12,10 +12,7 @@ export const coldplayMyUniverse2MyUniverseInstrumental = {
   title: "My Universe - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "3Nrfpe0tUJi4K4DXYWgMUX", artistName: "BTS" },
-  ],
+  trackArtist: [{ artist: "artist/coldplay" }, { artistName: "BTS" }],
   trackKey: "myuniverseinstrumental|3Nrfpe0tUJi4K4DXYWgMUX,4gzpq5DPGxSnKTe4SA8HAU|228000",
   song: "song/coldplay-my-universe",
   carriedBy: [

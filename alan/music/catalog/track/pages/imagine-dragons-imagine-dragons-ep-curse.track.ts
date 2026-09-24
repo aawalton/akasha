@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsEpCurse = {
   title: "Curse",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "curse|53XhwfbYqKCa1cC15pYq2q|225933",
   song: "song/imagine-dragons-curse",
   carriedBy: [

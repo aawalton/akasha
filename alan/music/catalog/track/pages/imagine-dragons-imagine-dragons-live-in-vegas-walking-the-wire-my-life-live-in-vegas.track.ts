@@ -12,7 +12,7 @@ export const imagineDragonsImagineDragonsLiveInVegasWalkingTheWireMyLifeLiveInVe
   title: "Walking the Wire / My Life - Live in Vegas",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "walkingthewiremylifeliveinvegas|53XhwfbYqKCa1cC15pYq2q|392099",
   song: "song/imagine-dragons-walking-the-wire-my-life",
   carriedBy: [

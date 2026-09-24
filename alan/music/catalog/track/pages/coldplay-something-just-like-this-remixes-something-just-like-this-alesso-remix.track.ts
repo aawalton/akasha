@@ -13,9 +13,9 @@ export const coldplaySomethingJustLikeThisRemixesSomethingJustLikeThisAlessoRemi
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "69GGBxA162lTqCwzJG5jLp", artistName: "The Chainsmokers" },
-    { externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" },
-    { externalId: "4AVFqumd2ogHFlRbKIjp1t", artistName: "Alesso" },
+    { artistName: "The Chainsmokers" },
+    { artist: "artist/coldplay" },
+    { artistName: "Alesso" },
   ],
   trackKey:
     "somethingjustlikethisalessoremix|4AVFqumd2ogHFlRbKIjp1t,4gzpq5DPGxSnKTe4SA8HAU,69GGBxA162lTqCwzJG5jLp|252933",

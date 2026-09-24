@@ -13,7 +13,7 @@ export const coldplayLeftrightleftrightleftLiveTheHardestPartPostcardsFromFarAwa
     title: "The Hardest Part / Postcards from Far Away - Live in Sydney, 2009",
     trackType: "live",
     explicit: false,
-    trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+    trackArtist: [{ artist: "artist/coldplay" }],
     trackKey: "thehardestpartpostcardsfromfarawayliveinsydney2009|4gzpq5DPGxSnKTe4SA8HAU|255213",
     song: "song/coldplay-the-hardest-part-postcards-from-far-away",
     carriedBy: [

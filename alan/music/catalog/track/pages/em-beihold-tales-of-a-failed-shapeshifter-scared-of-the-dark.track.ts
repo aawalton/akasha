@@ -12,7 +12,7 @@ export const emBeiholdTalesOfAFailedShapeshifterScaredOfTheDark = {
   title: "Scared of the Dark",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "scaredofthedark|7o2ZQYM7nTsaVdkXY38UAA|177975",
   song: "song/em-beihold-scared-of-the-dark",
   carriedBy: [

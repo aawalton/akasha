@@ -15,7 +15,7 @@ export const imagineDragonsImagineDragonsLiveLondonSessionsItsTimeLiveLondonSess
   title: "It's Time - Live London Sessions / 2013",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "53XhwfbYqKCa1cC15pYq2q", artistName: "Imagine Dragons" }],
+  trackArtist: [{ artist: "artist/imagine-dragons" }],
   trackKey: "itstimelivelondonsessions2013|53XhwfbYqKCa1cC15pYq2q|249880",
   song: "song/imagine-dragons-it-s-time",
   carriedBy: [

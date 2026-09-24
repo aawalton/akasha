@@ -15,7 +15,7 @@ export const coldplayProspektSMarchGlassOfWater = {
   title: "Glass of Water",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "glassofwater|4gzpq5DPGxSnKTe4SA8HAU|284905",
   song: "song/coldplay-glass-of-water",
   carriedBy: [

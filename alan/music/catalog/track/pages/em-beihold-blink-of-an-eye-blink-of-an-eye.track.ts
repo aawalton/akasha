@@ -12,7 +12,7 @@ export const emBeiholdBlinkOfAnEyeBlinkOfAnEye = {
   title: "Blink Of An Eye",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "7o2ZQYM7nTsaVdkXY38UAA", artistName: "Em Beihold" }],
+  trackArtist: [{ artist: "artist/em-beihold" }],
   trackKey: "blinkofaneye|7o2ZQYM7nTsaVdkXY38UAA|196953",
   song: "song/em-beihold-blink-of-an-eye",
   carriedBy: [

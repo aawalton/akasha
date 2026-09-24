@@ -12,7 +12,7 @@ export const coldplayLiveInBuenosAiresTheScientistLiveInBuenosAires = {
   title: "The Scientist - Live in Buenos Aires",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "4gzpq5DPGxSnKTe4SA8HAU", artistName: "Coldplay" }],
+  trackArtist: [{ artist: "artist/coldplay" }],
   trackKey: "thescientistliveinbuenosaires|4gzpq5DPGxSnKTe4SA8HAU|388600",
   song: "song/coldplay-the-scientist",
   carriedBy: [
