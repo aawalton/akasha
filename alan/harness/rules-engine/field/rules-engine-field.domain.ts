@@ -125,7 +125,7 @@ export const rulesEngineField = {
       statement: "A normalizer is a list of patterns.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A normalizer's pattern names one value.",
     },
     {
