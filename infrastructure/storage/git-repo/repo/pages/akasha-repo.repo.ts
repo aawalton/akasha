@@ -46,17 +46,6 @@ export const akashaRepo = {
   directives: [
     {
       directiveKind: "directive-kind/rule",
-      name: "Atomic Commit",
-      act: "Stage and commit in one command, naming the paths that commit is for.",
-      warrant:
-        "The checkout is shared by every child agent, so anything staged and not committed is swept up.",
-      aids: [
-        "Never reach for `-a` to make it one command.",
-        "Name the files, never a directory that may grow.",
-      ],
-    },
-    {
-      directiveKind: "directive-kind/rule",
       name: "Right Version",
       act: "Check a claim about a file against the version it was made about, not the one on disk now.",
       warrant: "A file has no time, so the wrong version answers as confidently as the right one.",
