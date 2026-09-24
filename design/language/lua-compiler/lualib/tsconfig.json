@@ -6,10 +6,13 @@
     "moduleResolution": "Node",
     "module": "esnext",
     "skipLibCheck": true,
-    "strict": true
+    "strict": true,
+    "noEmit": true,
+    "allowImportingTsExtensions": true
   },
   "luaCompiler": {
-    "luaLibImport": "none"
+    "luaLibImport": "none",
+    "noEmitLua": false
   },
   "include": [
     "../lualib-helper/**/*.lualib-helper.code.ts",
