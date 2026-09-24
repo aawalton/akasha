@@ -38,7 +38,9 @@ export async function changePropertyRecordField(
 ): Promise<Answer> {
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no field is stated`)
-  return (await reach(world, CHANGE_PROPERTY_RECORD_FIELD, given)).said
+  const record = read.known.slugOfKeyIn(read.value, given.key)
+  const declared = record !== null && read.known.fieldOfKey(record, given.field) !== null
+  return (await reach(world, CHANGE_PROPERTY_RECORD_FIELD, { ...given, declared })).said
 }
 
 export type Asked = Readonly<Record<string, string>>

@@ -9,6 +9,7 @@ import { NOTHING_OVER, type World } from "akasha/change/modules/shadow/change-sh
 import { running } from "akasha/change/runner/pages/test-change-running/test-change-running.change-runner.code.ts"
 import {
   bodyOf,
+  knownOf,
   worldFor,
 } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -42,6 +43,16 @@ function worldTold(): World {
   return worldFor(PAGE, BODY, running)
 }
 
+function worldDeclaring(fields: readonly string[]): World {
+  const known = knownOf({
+    admitting: (one) => [one],
+    slugOfKeyIn: (_value, key) => (key === "decisions" ? "decisions" : null),
+    fieldOfKey: (_record, key) => (fields.includes(key) ? key : null),
+  })
+  const index = { knownIn: () => known, pageByPath: () => PAGE, valuesByPath: () => new Map() }
+  return { ...worldTold(), index: index as never }
+}
+
 const ASKED = {
   at: AT,
   key: "decisions",
@@ -56,6 +67,36 @@ test("one field of the record a match names is stated anew", async () => {
 
   expect(said.refused).toBeNull()
   expect(bodyOf(said, () => BODY)).toContain(`decisionKind: "gap"`)
+})
+
+test("a declared field the record does not state is added to that record", async () => {
+  const asked = { ...ASKED, field: "workingMemory", to: "what it holds" }
+
+  const said = await changePropertyRecordField(worldDeclaring(["workingMemory"]), asked)
+
+  expect(said.refused).toBeNull()
+  expect(bodyOf(said, () => BODY)).toBe(
+    BODY.replace(
+      `      statement: "the first",\n`,
+      `      statement: "the first",\n      workingMemory: "what it holds",\n`
+    )
+  )
+})
+
+test("a field the record does not state is refused where its record property does not declare it", async () => {
+  const asked = { ...ASKED, field: "workingMemory", to: "what it holds" }
+
+  const said = await changePropertyRecordField(worldDeclaring([]), asked)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain("that record states no text under `workingMemory`")
+})
+
+test("a declared field the record states already is stated anew rather than added", async () => {
+  const said = await changePropertyRecordField(worldDeclaring(["decisionKind"]), ASKED)
+
+  expect(said.refused).toBeNull()
+  expect(bodyOf(said, () => BODY)).toBe(BODY.replace(`"departure"`, `"gap"`))
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {

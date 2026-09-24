@@ -4,7 +4,9 @@ import {
   spliced,
   stating,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { withField } from "akasha/change/modules/literal-splicing/literal-splicing.module.code.ts"
 import {
+  keyOf,
   listIn,
   matchingIn,
   recordsIn,
@@ -21,7 +23,17 @@ export type Named = {
   readonly field: string
 }
 
-export function fieldRestated(path: string, text: string, named: Named, to: string): Said {
+function statesKey(record: ts.ObjectLiteralExpression, key: string): boolean {
+  return record.properties.some((each) => ts.isPropertyAssignment(each) && keyOf(each) === key)
+}
+
+export function fieldRestated(
+  path: string,
+  text: string,
+  named: Named,
+  to: string,
+  declared: boolean
+): Said {
   const source = parsedAs(path, text)
   const list = listIn(source, named.key)
   if (list === null || recordsIn(list).length === 0) {
@@ -40,7 +52,11 @@ export function fieldRestated(path: string, text: string, named: Named, to: stri
   }
   const held = textsOf(one).get(named.field)
   if (held === undefined) {
-    return refusing(`that record states no text under \`${named.field}\``)
+    if (!declared || statesKey(one, named.field)) {
+      return refusing(`that record states no text under \`${named.field}\``)
+    }
+    const put = `${named.field}: ${JSON.stringify(to)}`
+    return stating(spliced(path, text, withField(text, source, one, put)))
   }
   if (held.text === to) {
     return refusing(`\`${to}\` is what \`${named.field}\` states already`)
@@ -52,10 +68,11 @@ export function fieldRestated(path: string, text: string, named: Named, to: stri
 export type Given = Named & {
   readonly at: string
   readonly to: string
+  readonly declared: boolean
 }
 
 export function runChange(world: World, given: Given): Said {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is restated`)
-  return fieldRestated(given.at, text, given, given.to)
+  return fieldRestated(given.at, text, given, given.to, given.declared)
 }

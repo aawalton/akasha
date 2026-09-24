@@ -64,6 +64,24 @@ export function withProperty(
   return { from: ended, to: ended, put: `,\n${indent}${put}` }
 }
 
+export function withField(
+  text: string,
+  source: ts.SourceFile,
+  record: ts.ObjectLiteralExpression,
+  put: string
+): Splice {
+  const last = record.properties[record.properties.length - 1]
+  if (last === undefined) {
+    const opened = record.getStart(source) + 1
+    return { from: opened, to: opened, put: ` ${put} ` }
+  }
+  const started = last.getStart(source)
+  const indent = text.slice(text.lastIndexOf("\n", started) + 1, started)
+  const ended = last.getEnd()
+  if (indent.trim() !== "") return { from: ended, to: ended, put: `, ${put}` }
+  return { from: ended, to: ended, put: `,\n${indent}${put}` }
+}
+
 export function without(
   text: string,
   source: ts.SourceFile,

@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import type { Splice } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
+  withField,
   without,
   withProperty,
   withRecord,
@@ -8,6 +9,7 @@ import {
 } from "akasha/change/modules/literal-splicing/literal-splicing.module.code.ts"
 import { listIn, literalIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import ts from "typescript"
 
 const AT = "one/held.module.ts"
 
@@ -106,6 +108,24 @@ function propertyPut(text: string, put: string, after: string | undefined): stri
   return owner === null ? "" : splicedInto(text, withProperty(text, source, owner, put, after))
 }
 
+const FIELDS = [
+  "export const held = {",
+  "  properties: [",
+  "    {",
+  '      held: "one",',
+  "    },",
+  "  ],",
+  "} as const satisfies Module",
+  "",
+].join("\n")
+
+function fieldPut(text: string, key: string, put: string): string {
+  const source = parsedAs(AT, text)
+  const record = listIn(source, key)?.elements[0]
+  if (record === undefined || !ts.isObjectLiteralExpression(record)) return ""
+  return splicedInto(text, withField(text, source, record, put))
+}
+
 function valueGone(text: string, key: string, at: number): string {
   const source = parsedAs(AT, text)
   const list = listIn(source, key)
@@ -200,4 +220,14 @@ test("a list written on one line gains its record on that line", () => {
 
 test("a record put into a list holding none falls just inside the bracket", () => {
   expect(recordPut(EMPTY, "partSlugs", "{ held: true }")).toContain("partSlugs: [{ held: true }],")
+})
+
+test("a field put into a record falls after its last field, with that field's indent", () => {
+  expect(fieldPut(FIELDS, "properties", 'kept: "two"')).toBe(
+    FIELDS.replace('      held: "one",\n', '      held: "one",\n      kept: "two",\n')
+  )
+})
+
+test("a record written on one line gains its field on that line", () => {
+  expect(fieldPut(RECORDS, "properties", 'kept: "two"')).toContain('{ held: "one", kept: "two" },')
 })

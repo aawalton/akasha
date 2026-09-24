@@ -31,6 +31,20 @@ export const changePropertyRecordField = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here works out a body of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A declared field a record does not state is added to that record.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A field is declared where the record property's page names that field among its properties.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A field no record property declares is refused where the record does not state that field.",
+    },
   ],
   changeKind: "change-kind/change-restated",
   maxCpuSeconds: 30,

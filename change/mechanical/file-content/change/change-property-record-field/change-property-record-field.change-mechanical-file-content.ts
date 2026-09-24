@@ -37,7 +37,8 @@ export const changePropertyRecordField = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A record stating no text under the field worked is refused.",
+      statement:
+        "A declared field a record does not state is added after the last field that record has.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -47,6 +48,19 @@ export const changePropertyRecordField = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field a record does not state is refused where that field is not declared.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A field a record states as other than text is refused rather than added a second time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether the field is declared is handed in rather than worked out here.",
     },
   ],
   changeKind: "change-kind/change-mechanical",

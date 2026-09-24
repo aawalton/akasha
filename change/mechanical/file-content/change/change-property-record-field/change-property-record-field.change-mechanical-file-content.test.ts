@@ -39,7 +39,11 @@ function named(where: string, is: string, field: string): Named {
 }
 
 function ranOn(one: Named, to: string): Answer {
-  return fieldRestated(AT, BODY, one, to)
+  return fieldRestated(AT, BODY, one, to, false)
+}
+
+function addedOn(one: Named, to: string): Answer {
+  return fieldRestated(AT, BODY, one, to, true)
 }
 
 function textOn(one: Named, to: string): string {
@@ -78,14 +82,14 @@ test("a record is named by any field of its own", () => {
 })
 
 test("a key holding no record is refused", () => {
-  const said = fieldRestated(AT, BODY, { ...named("a", "b", "c"), key: "partSlugs" }, "x")
+  const said = fieldRestated(AT, BODY, { ...named("a", "b", "c"), key: "partSlugs" }, "x", true)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${AT}\` states no records under \`partSlugs\``)
 })
 
 test("a key the page states nothing under is refused", () => {
-  const said = fieldRestated(AT, BODY, { ...named("a", "b", "c"), key: "directives" }, "x")
+  const said = fieldRestated(AT, BODY, { ...named("a", "b", "c"), key: "directives" }, "x", true)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${AT}\` states no records under \`directives\``)
@@ -107,11 +111,42 @@ test("text more than one record states is refused, and the refusal says how many
   )
 })
 
-test("a record stating no text under the field worked is refused", () => {
+test("a record stating no text under a field its record property does not declare is refused", () => {
   const said = ranOn(named("statement", "the first", "definition"), "x")
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("that record states no text under `definition`")
+})
+
+test("a declared field a record does not state is added after that record's last field", () => {
+  const said = bodyOf(
+    addedOn(named("statement", "the first", "definition"), "what it is"),
+    (asked) => (asked === AT ? BODY : null)
+  )
+
+  expect(said).toBe(
+    BODY.replace(
+      `      workingMemory: "what the first held",\n`,
+      `      workingMemory: "what the first held",\n      definition: "what it is",\n`
+    )
+  )
+})
+
+test("a declared field a record states as other than text is refused rather than added again", () => {
+  const body = BODY.replace(`statement: "the first",`, `statement: "the first",\n      held: true,`)
+
+  const said = fieldRestated(AT, body, named("statement", "the first", "held"), "x", true)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("that record states no text under `held`")
+})
+
+test("a declared field a record states already is restated rather than added", () => {
+  const said = bodyOf(addedOn(named("statement", "the first", "workingMemory"), "now"), (asked) =>
+    asked === AT ? BODY : null
+  )
+
+  expect(said).toBe(BODY.replace(`"what the first held"`, `"now"`))
 })
 
 test("a field stating what was asked for already is refused", () => {

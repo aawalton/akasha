@@ -93,5 +93,13 @@ export const literalSplicing = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges whether an edit is wanted.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field put into a record falls after the last field that record has.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A record written on one line gains its field on that line.",
+    },
   ],
 } as const satisfies Module
