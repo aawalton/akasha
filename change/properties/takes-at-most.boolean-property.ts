@@ -19,6 +19,15 @@ export const takesAtMost = {
       decisionKind: "decision-kind/departure",
       statement: "A run handed no ceiling acts on every page the change reaches.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A change saying true answers no edit rather than a refusal where nothing is left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal from such a change means a run was blocked rather than done.",
+    },
   ],
   types: "ts",
 } as const satisfies BooleanProperty

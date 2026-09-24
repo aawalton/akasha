@@ -142,20 +142,21 @@ test("a page already sitting where that page lands is read over", async () => {
   expect(came).toContain(NAMER_PAGE)
 })
 
-test("a call carrying no page at all is refused, saying both counts", async () => {
+test("a call carrying no page at all answers no edit, saying both counts", async () => {
   const world = worldIn(repo())
   const first = await runChange(world, GIVEN)
   const next = await runChange(worldOver(world, first), GIVEN)
 
   expect(next.edits).toEqual([])
-  expect(next.refused ?? "").toContain("carried 0, passed over ")
+  expect(next.refused).toBeNull()
+  expect(next.told?.[0] ?? "").toContain("carried 0, passed over ")
 })
 
 test("a page stating nothing at the property is passed over and counted", async () => {
   const said = await runChange(worldIn(repo()), { ...GIVEN, by: "part-slug" })
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toMatch(/carried 0, passed over [1-9]/)
+  expect(said.told?.[0] ?? "").toMatch(/carried 0, passed over [1-9]/)
 })
 
 test("a value that is no page type and slug parted by a slash is refused", async () => {

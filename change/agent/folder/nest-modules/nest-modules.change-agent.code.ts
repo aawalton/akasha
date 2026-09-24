@@ -5,8 +5,13 @@ import {
   type Answer,
   gathered,
   refusing,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import {
+  NOTHING_OVER,
+  reach,
+  type World,
+} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 
 const AT_MOST = "at-most"
@@ -47,7 +52,9 @@ export async function nestModules(world: World, given: NestModulesAsked): Promis
     seen = moved.world
   }
   if (said.length === 0) {
-    return refusing(`every module's folder sits under a \`${MODULES}\` folder already`)
+    return telling(NOTHING_OVER, [
+      `every module's folder sits under a \`${MODULES}\` folder already`,
+    ])
   }
   return gathered(said)
 }

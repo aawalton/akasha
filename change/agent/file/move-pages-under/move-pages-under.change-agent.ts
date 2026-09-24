@@ -54,7 +54,7 @@ export const movePagesUnder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refusal carrying no page says how many were carried and how many passed over.",
+      statement: "A call carrying no page says how many were carried and how many passed over.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -106,7 +106,7 @@ export const movePagesUnder = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A call carrying no page at all is refused.",
+      statement: "A call carrying no page at all answers no edit.",
     },
     {
       decisionKind: "decision-kind/departure",

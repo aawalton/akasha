@@ -70,7 +70,7 @@ export const movePages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A call carrying no page at all is refused.",
+      statement: "A call carrying no page at all answers no edit and says why.",
     },
     {
       decisionKind: "decision-kind/departure",

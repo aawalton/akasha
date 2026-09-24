@@ -38,7 +38,7 @@ export const nestModules = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run carrying no folder is refused.",
+      statement: "A run carrying no folder answers no edit and says why.",
     },
     {
       decisionKind: "decision-kind/departure",

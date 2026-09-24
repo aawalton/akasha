@@ -6,8 +6,13 @@ import {
   gathered,
   missing,
   refusing,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import {
+  NOTHING_OVER,
+  reach,
+  type World,
+} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
@@ -74,7 +79,7 @@ export async function movePages(
     carried.push(carrying.said)
     seen = carrying.world
   }
-  if (carried.length === 0) return refusing(NONE_LEFT)
+  if (carried.length === 0) return telling(NOTHING_OVER, [NONE_LEFT])
   return gathered(carried)
 }
 

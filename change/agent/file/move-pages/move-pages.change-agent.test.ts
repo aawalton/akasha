@@ -176,13 +176,14 @@ test("a line whose page is gone and already sits where that line lands is read o
   expect([...came].sort()).toEqual(BORNE_FILES)
 })
 
-test("a call carrying no page at all is refused", async () => {
+test("a call carrying no page at all answers no edit and says why", async () => {
   const world = worldIn(repo())
   const first = await runChange(world, { moved: BOTH })
   const next = await runChange(worldOver(world, first), { moved: BOTH })
 
   expect(next.edits).toEqual([])
-  expect(next.refused ?? "").toContain("sitting where that line lands already")
+  expect(next.refused).toBeNull()
+  expect(next.told?.[0] ?? "").toContain("sitting where that line lands already")
 })
 
 test("a count that is no whole number above nothing is refused", async () => {

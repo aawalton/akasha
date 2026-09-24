@@ -6,8 +6,13 @@ import {
   gathered,
   missing,
   refusing,
+  telling,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import {
+  NOTHING_OVER,
+  reach,
+  type World,
+} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { atMostIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -140,7 +145,7 @@ async function carriedIn(world: World, found: Found, atMost: number | null): Pro
     held.push(carrying.said)
     seen = carrying.world
   }
-  if (held.length === 0) return refusing(nothingIn(found.over))
+  if (held.length === 0) return telling(NOTHING_OVER, [nothingIn(found.over)])
   return gathered(held)
 }
 
