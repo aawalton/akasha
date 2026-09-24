@@ -17,6 +17,10 @@ export const clusterApiReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The credentials orphan-resource-listing reaches the cluster with are read here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A value set empty is read as a value not set.",
     },
     {

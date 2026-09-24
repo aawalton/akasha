@@ -1,11 +1,5 @@
-import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
-
-const TOKEN_ENV = "PIPELINE_SA_TOKEN"
-
-const API_BASE_ENV = "K8S_API_BASE"
-
-const CA_CERT_ENV = "K8S_CA_CERT_B64"
+import { clusterCredentials } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/cluster-api-reaching/cluster-api-reaching.module.code.ts"
 
 const MANAGED_BY_LABEL = "app.kubernetes.io/managed-by"
 
@@ -18,33 +12,6 @@ export interface LiveResource {
   readonly namespace: string
   readonly name: string
   readonly managedBy: string | null
-}
-
-interface ClusterConfig {
-  readonly token: string
-  readonly apiBase: string
-  readonly caCert: string | undefined
-}
-
-let held: ClusterConfig | null = null
-
-function required(name: string): string {
-  const value = optionalEnv(name)
-  if (value === undefined) {
-    throw new Error(`${name} is not set, and the cluster is not reachable without it`)
-  }
-  return value
-}
-
-function clusterConfig(): ClusterConfig {
-  if (held !== null) return held
-  const caCertB64 = optionalEnv(CA_CERT_ENV)
-  held = {
-    token: required(TOKEN_ENV),
-    apiBase: required(API_BASE_ENV).replace(/\/+$/, ""),
-    caCert: caCertB64 === undefined ? undefined : Buffer.from(caCertB64, "base64").toString("utf8"),
-  }
-  return held
 }
 
 function listPath(namespace: string, kind: AuditedKind): string {
@@ -69,7 +36,7 @@ export async function listLive(
   kind: AuditedKind,
   deadlineMs: number
 ): Promise<readonly LiveResource[]> {
-  const config = clusterConfig()
+  const credentials = clusterCredentials()
   const left = deadlineMs - Date.now()
   if (left <= 0) {
     throw new Error(
@@ -78,10 +45,10 @@ export async function listLive(
   }
   let answer: Response
   try {
-    answer = await fetch(`${config.apiBase}${listPath(namespace, kind)}`, {
-      headers: { Authorization: `Bearer ${config.token}`, Accept: "application/json" },
+    answer = await fetch(`${credentials.apiBase}${listPath(namespace, kind)}`, {
+      headers: { Authorization: `Bearer ${credentials.saToken}`, Accept: "application/json" },
       signal: AbortSignal.timeout(left),
-      ...(config.caCert === undefined ? {} : { tls: { ca: config.caCert } }),
+      ...(credentials.caCert === undefined ? {} : { tls: { ca: credentials.caCert } }),
     } as RequestInit)
   } catch (err) {
     throw new Error(
