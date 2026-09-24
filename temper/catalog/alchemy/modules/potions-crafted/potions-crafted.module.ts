@@ -11,9 +11,5 @@ export const potionsCrafted = {
       decisionKind: "decision-kind/constraint",
       statement: "A crafted potion's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A crafted potion moved to another place breaks every build hash saved.",
-    },
   ],
 } as const satisfies Module

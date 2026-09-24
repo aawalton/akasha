@@ -11,10 +11,6 @@ export const potionSource = {
       decisionKind: "decision-kind/constraint",
       statement: "A potion's place in this table is the index a build hash has.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A potion moved to another place breaks every build hash saved.",
-    },
   ],
   hashIndexed: ["POTIONS"],
 } as const satisfies Module
