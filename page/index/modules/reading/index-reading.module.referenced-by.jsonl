@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/model/test/modules/running/model-test-running.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/modules/page-reading/agent-page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/modules/read-record/read-record.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"}

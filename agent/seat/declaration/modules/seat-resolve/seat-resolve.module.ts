@@ -18,6 +18,10 @@ export const seatResolve = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A game is found in the domain slot the way a domain is, after every domain.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slot stated twice is refused.",
     },
     {

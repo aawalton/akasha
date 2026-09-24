@@ -17,6 +17,8 @@ import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import { akasha as akashaPersona } from "akasha/persona/pages/akasha/akasha.persona.ts"
 import { athena } from "akasha/persona/pages/athena/athena.persona.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
+import { game } from "akasha/story/game/game.page-type.ts"
+import { theTower } from "akasha/story/game/pages/the-tower/the-tower.game.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -164,6 +166,16 @@ test("a seat short of a domain is addressed as nothing", () => {
   expect(addressFor(short("domain"), NO_PAGE, ROOT, false)).toBeNull()
 })
 
+const THE_TOWER_GAME = `${game.slug}/${theTower.slug}` as const
+
+test("a game's slug is addressed under the game page type", () => {
+  expect(assignmentAddressOf(theTower.slug, ROOT)).toBe(THE_TOWER_GAME)
+  expect(assignmentAddressOf(THE_TOWER_GAME, ROOT)).toBe(THE_TOWER_GAME)
+  expect(seatBody({ ...WHOLE, domain: theTower.slug }, "x", ROOT)).toContain(
+    `assignmentSlug: "${THE_TOWER_GAME}"`
+  )
+})
+
 test("a slug no page type carries is addressed as a domain", () => {
   expect(assignmentAddressOf("nothing-carries-this-slug", ROOT)).toBe(
     "domain/nothing-carries-this-slug"
@@ -176,7 +188,13 @@ test("a person is known from the pages rather than from a list written here", ()
 })
 
 test("the kinds an assignment is looked for under open with the preferred order", () => {
-  expect(assignedKinds(ROOT).slice(0, 4)).toEqual(["domain", "person", "persona", "initiative"])
+  expect(assignedKinds(ROOT).slice(0, 5)).toEqual([
+    "domain",
+    "person",
+    "persona",
+    "initiative",
+    "game",
+  ])
 })
 
 test("every kind an assignment is looked for under is named once", () => {

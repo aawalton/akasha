@@ -6,6 +6,10 @@ import {
 } from "akasha/agent/modules/attributes/agent-attributes.module.code.ts"
 import { seat as seatPageType } from "akasha/agent/seat/seat.page-type.ts"
 import { domainsRead } from "akasha/domain/modules/reading/domain-reading.module.code.ts"
+import {
+  listedAt,
+  slugsOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   personaAt,
@@ -14,8 +18,24 @@ import {
 
 const DOMAIN_SLUG_KEY = "slug"
 
+export const GAME = "game"
+
 export interface Found {
   readonly slugs: ReadonlyMap<string, string>
+}
+
+export function gameAt(root: string, slug: string): string | null {
+  return listedAt(root, GAME, slug)[0]?.path ?? null
+}
+
+export function gamesFound(root: string, slugs: Map<string, string> = new Map()): Found {
+  for (const slug of slugsOfType(root, GAME)) {
+    const at = gameAt(root, slug)
+    if (at === null) continue
+    slugs.set(`${GAME}/${slug}`, at)
+    if (!slugs.has(slug)) slugs.set(slug, at)
+  }
+  return { slugs }
 }
 
 export function scan(root: string): Found {
@@ -24,7 +44,7 @@ export function scan(root: string): Found {
     slugs.set(one.address, one.relPath)
     if (!slugs.has(one.slug)) slugs.set(one.slug, one.relPath)
   }
-  return { slugs }
+  return gamesFound(root, slugs)
 }
 
 const SLOT_OF: Readonly<Record<string, AttributeKey>> = {
