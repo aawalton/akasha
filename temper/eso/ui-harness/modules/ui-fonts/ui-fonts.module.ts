@@ -28,5 +28,23 @@ export const uiFonts = {
       decisionKind: "decision-kind/departure",
       statement: "A document the clone does not hold is passed over rather than refusing the read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A face's advances and line are read from its own OpenType tables, with no package between.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A face's line is its ascender less its descender, with its line gap added, in its own units.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A face is known by its file's name, lowercased and without its extension.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder holding no faces answers none rather than refusing the read.",
+    },
   ],
 } as const satisfies Module
