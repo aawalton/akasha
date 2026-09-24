@@ -144,15 +144,6 @@ export function asLibCustomMenuHandleOpt(value: unknown): LibCustomMenuHandleOpt
   return value as LibCustomMenuHandleOpt
 }
 
-export interface SearchUiKeyboardHandle {
-  IsShown: (this: SearchUiKeyboardHandle) => boolean
-  HideUI: (this: SearchUiKeyboardHandle) => void
-}
-export type SearchUiKeyboardOpt = SearchUiKeyboardHandle | undefined
-export function asSearchUiKeyboardOpt(value: unknown): SearchUiKeyboardOpt {
-  return value as SearchUiKeyboardOpt
-}
-
 export type DebugGetAllDataSvOpt =
   | { [api: number]: { running?: boolean; finished?: boolean } }
   | undefined

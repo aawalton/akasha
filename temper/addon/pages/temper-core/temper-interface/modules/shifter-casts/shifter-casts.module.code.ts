@@ -35,12 +35,6 @@ export function asControl(value: unknown): Control {
   return value as Control
 }
 
-export type GlobalTable = Record<string, unknown>
-
-export function asGlobalTable(value: unknown): GlobalTable {
-  return value as GlobalTable
-}
-
 export type UnknownArray = unknown[]
 
 export function asUnknownArray(value: unknown): UnknownArray {

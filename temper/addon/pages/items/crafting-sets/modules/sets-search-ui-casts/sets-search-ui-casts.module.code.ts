@@ -48,11 +48,6 @@ export function asSetsCopyDialogData(value: unknown): SetsCopyDialogData {
   return value as SetsCopyDialogData
 }
 
-export type VoidThunk = (this: void) => void
-export function asVoidThunk(value: unknown): VoidThunk {
-  return value as VoidThunk
-}
-
 export type VoidVarargsHandler = (this: void, ...a: unknown[]) => void
 export function asVoidVarargsHandler(value: unknown): VoidVarargsHandler {
   return value as VoidVarargsHandler
