@@ -25,8 +25,14 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/stamina/grades/armor-enchant-stamina-epic.temper-gear-grade.ts","id":"01a0d3e8-20f6-7cc5-b361-e25df139d42d"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/stamina/stamina.temper-armor-enchant.ts","id":"01a05fd4-d96c-7e66-8940-ca31af8c2c46"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/divines/divines.temper-armor-trait.ts","id":"01a05fb2-1bcd-7a96-a41e-bbf2b55ec3ec"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/divines/grades/armor-trait-divines-epic.temper-gear-grade.ts","id":"01a0d3e8-7159-79ef-9d0e-777cc9ed3914"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/impenetrable/grades/armor-trait-impenetrable-epic.temper-gear-grade.ts","id":"01a0d3e8-9934-79ca-a16a-f1bad53c8db4"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/impenetrable/impenetrable.temper-armor-trait.ts","id":"01a05fb2-1bce-7f82-b0f1-3b03e5065b7b"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/infused/grades/armor-trait-infused-epic.temper-gear-grade.ts","id":"01a0d3e8-cb36-752c-8c0c-e7f4a394f004"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/infused/infused.temper-armor-trait.ts","id":"01a05fb2-1bcf-740b-839d-2f0819a8a7ad"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/grades/armor-trait-invigorating-epic-health-recovery.temper-gear-grade.ts","id":"01a0d3e8-fc80-7e27-9066-c48b64c77b7e"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/grades/armor-trait-invigorating-epic-magicka-recovery.temper-gear-grade.ts","id":"01a0d3e9-055b-72ed-ac23-18fed37c8253"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/grades/armor-trait-invigorating-epic-stamina-recovery.temper-gear-grade.ts","id":"01a0d3e9-0e6f-79e2-9698-4d267f8b966e"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/invigorating/invigorating.temper-armor-trait.ts","id":"01a05fb2-1bcf-73a5-a7c0-c033d122331e"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/nirnhoned/nirnhoned.temper-armor-trait.ts","id":"01a05fb2-1bd0-79e8-a878-97f1cb25677d"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/reinforced/reinforced.temper-armor-trait.ts","id":"01a05fb2-1bd1-7dba-b5ac-0f28ecbae701"}
