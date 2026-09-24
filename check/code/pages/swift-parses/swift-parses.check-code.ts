@@ -63,7 +63,6 @@ export const swiftParses = {
       decisionKind: "decision-kind/departure",
       statement: "A refusal names the file, the line and the column the parser faulted.",
     },
-
     {
       decisionKind: "decision-kind/absence",
       statement: "Swift a shell script writes out of a heredoc is not judged here.",
@@ -79,6 +78,11 @@ export const swiftParses = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The workstation's brew formulae carry the parser.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The image an audit runs in carries the parser out of the Swift toolchain for Linux.",
     },
     {
       decisionKind: "decision-kind/departure",
