@@ -5,6 +5,7 @@ export const zerithVar = {
   type: "page-type/temper-companion-progress",
   slug: "zerith-var",
   title: "Zerith-var",
+  completion: "json",
   companionId: "temper-eso-companion/zerith-var",
   accountPage: "temper-account/alanarre",
 } as const satisfies TemperCompanionProgress
