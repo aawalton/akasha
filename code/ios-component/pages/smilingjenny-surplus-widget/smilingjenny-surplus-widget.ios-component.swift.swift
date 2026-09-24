@@ -68,7 +68,8 @@ struct SurplusHomeView: View {
             reading: surplus?.figure(asOf: entry.date),
             caption: surplusCaption(entry.state),
             nextTier: shown?.nextTier,
-            progress: shown?.progress
+            progress: shown?.progress,
+            noSignal: surplusNoSignal(entry.state)
         )
     }
 }
