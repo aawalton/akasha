@@ -1,5 +1,11 @@
 import SwiftUI
 
+// THE WORD A FEED SENDS AS `readingHeld` FOR A READOUT NOTHING COULD BE READ FOR.
+//
+// The key is read as text rather than as a closed set of words, so a word a later feed learns
+// fails no tile's whole decode on a phone older than that word.
+let NO_READING_HELD = "none"
+
 // A READING NOTHING COULD BE TAKEN FOR IS DRAWN AS NO SIGNAL RATHER THAN AS A ZERO.
 //
 // One mark says it for a whole tile and for a single light inside a group, so the two read as
