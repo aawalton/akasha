@@ -7,6 +7,7 @@ import {
   type Said,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const MOVE_FILE_PAGE = `${changeMechanical.slug}/${moveFileOfAnyKind.slug}` as const
 
@@ -20,6 +21,11 @@ export type MovePageAsked = {
 }
 
 export async function movePage(world: World, given: MovePageAsked): Promise<Said> {
+  if (partedIn(given.to) !== null) {
+    return refusing(
+      `\`${given.to}\` is a file rather than a folder, and a move keeps a page's name`
+    )
+  }
   if (dirname(given.at) === given.to) {
     return refusing(`\`${given.to}\` is the folder the page already sits in`)
   }

@@ -68,6 +68,13 @@ test("the folder a page already sits in is refused rather than carried", async (
   expect(said.refused ?? "").toMatch(/already sits in/)
 })
 
+test("a page file named where a folder belongs is refused rather than made a folder", async () => {
+  const said = await movePage(worldIn(indexedRepo()), { at: HELD_PAGE, to: MOVED_PAGE })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/a file rather than a folder/)
+})
+
 test("a path naming no page is refused and answers no edit", async () => {
   const said = await movePage(worldIn(indexedRepo()), {
     at: "akasha/one/nobody.module.ts",

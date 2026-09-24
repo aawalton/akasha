@@ -28,6 +28,10 @@ export const movePage = {
       statement: "A folder already with a body at a path the move would write is refused.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A page file named where the folder belongs is refused.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here changes the data a page states.",
     },
