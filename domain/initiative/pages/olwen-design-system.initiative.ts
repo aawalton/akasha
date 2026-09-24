@@ -6,5 +6,10 @@ export const olwenDesignSystem = {
   slug: "olwen-design-system",
   domain: "domain/design-interface-system",
   persona: "persona/olwen",
-  intentStack: [],
+  intentStack: [
+    {
+      statement:
+        "A wiki page lists its properties the way a Notion page does, each under its kind's icon.",
+    },
+  ],
 } as const satisfies Initiative
