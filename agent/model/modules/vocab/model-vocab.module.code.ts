@@ -10,7 +10,7 @@ export type ModelSpec = {
 
 const WIRE_BY_LOGICAL = {
   fable: "claude-fable-5",
-  opus: "claude-opus-5-5",
+  opus: "claude-opus-5",
   sonnet: "claude-sonnet-5",
   haiku: "claude-haiku-4-5",
 } as const satisfies Record<LogicalModel, string>
@@ -22,10 +22,7 @@ const EXTENDED_CAPABLE_BY_LOGICAL = {
   haiku: false,
 } as const satisfies Record<LogicalModel, boolean>
 
-const RETIRED_WIRES: ReadonlyArray<readonly [string, LogicalModel]> = [
-  ["claude-opus-4-8", "opus"],
-  ["claude-opus-5", "opus"],
-]
+const RETIRED_WIRES: ReadonlyArray<readonly [string, LogicalModel]> = [["claude-opus-4-8", "opus"]]
 
 const LOGICAL_BY_WIRE: ReadonlyMap<string, LogicalModel> = new Map([
   ...RETIRED_WIRES,
