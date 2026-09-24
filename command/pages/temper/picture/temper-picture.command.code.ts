@@ -6,6 +6,7 @@ import { pictureSubject } from "akasha/command/argument/pages/picture-subject.ar
 import { refusedBy, told } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { temperPicture as page } from "akasha/command/pages/temper/picture/temper-picture.command.ts"
+import { gameArt } from "akasha/temper/eso/ui-harness/modules/game-art/game-art.module.code.ts"
 import { takePicture } from "akasha/temper/eso/ui-harness/modules/ui-picture/ui-picture.module.code.ts"
 import {
   settled,
@@ -62,7 +63,7 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
       return refusedBy(["the screen is nowhere, so there is nothing to picture"])
     }
     await mkdir(dirname(written), { recursive: true })
-    const box = await takePicture(scene, written, { whole: true })
+    const box = await takePicture(scene, written, { whole: true, textureAt: await gameArt() })
     return told([
       written,
       `${Math.round(box.width)} by ${Math.round(box.height)}, built at ${staged.builtAt}`,

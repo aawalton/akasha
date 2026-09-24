@@ -59,6 +59,10 @@ export const temperPicture = {
       statement: "The harness is closed whether the picture was written or thrown.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A texture is drawn with the game's own art where the workstation has the game.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges what the picture shows.",
     },

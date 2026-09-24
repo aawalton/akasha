@@ -31,6 +31,15 @@ export const esoPaths = {
       statement: "An unset home directory is refused rather than answered as the root.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The game's client is answered from the Steam library the game installs into.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Art taken out of the game is kept in the user's cache, never in the game's install.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a directory.",
     },

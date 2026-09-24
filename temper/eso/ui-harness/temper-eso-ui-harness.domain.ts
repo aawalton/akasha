@@ -27,6 +27,9 @@ export const temperEsoUiHarness = {
     "module/ui-windows",
     "module/game-names",
     "lua-module/ui-addon-model",
+    "module/game-archive",
+    "module/game-art",
+    "module/oodle-decoding",
   ],
   decisions: [
     {

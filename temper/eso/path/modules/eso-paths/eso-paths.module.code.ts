@@ -65,6 +65,25 @@ export function esouiDocPath(opts?: PathOpts): string {
   return `${esouiDir(opts)}/ESOUIDocumentation.txt`
 }
 
+const CLIENT_UNDER_STEAM = "steamapps/common/Zenimax Online/The Elder Scrolls Online/game/client"
+
+export function esoClientDir(opts?: PathOpts): string {
+  const said = resolved(opts)
+  const named = stated(said.env, "ESO_CLIENT_DIR")
+  if (named !== undefined) return named
+  if (said.platform === WINDOWS) return `C:/Program Files (x86)/Steam/${CLIENT_UNDER_STEAM}`
+  return `${demanded(said.env, "HOME")}/.steam/steam/${CLIENT_UNDER_STEAM}`
+}
+
+export function esoArtDir(opts?: PathOpts): string {
+  const said = resolved(opts)
+  const named = stated(said.env, "ESO_ART_DIR")
+  if (named !== undefined) return named
+  if (said.platform === WINDOWS) return `${homeOf(said)}/AppData/Local/akasha/eso-art`
+  const cache = stated(said.env, "XDG_CACHE_HOME") ?? `${homeOf(said)}/.cache`
+  return `${cache}/akasha/eso-art`
+}
+
 export function addonUpstreamDir(opts?: PathOpts): string {
   const said = resolved(opts)
   const named = stated(said.env, "ESO_UPSTREAM_DIR")

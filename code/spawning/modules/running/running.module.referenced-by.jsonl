@@ -113,6 +113,8 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon/build/modules/addon-load-order/addon-load-order.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/catalog/upstream-data/modules/libsets-upstream-fetch/libsets-upstream-fetch.module.code.ts"}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/eso/ui-harness/modules/game-art/game-art.module.code.ts"}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/eso/ui-harness/modules/oodle-decoding/oodle-decoding.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/watcher/modules/watcher-unit/watcher-unit.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/watcher/modules/watcher-updating/watcher-updating.module.code.ts"}
 {"propertySlug":"import","fileName":"running.module.test-fixtures.ts","path":"code/spawning/modules/running/running.module.test.ts"}
