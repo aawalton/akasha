@@ -9,7 +9,6 @@ export const googleEmail = {
     "module/compose-input-from-arguments",
     "module/email-command-reading",
     "module/email-message-fetching",
-    "module/email-operations",
     "module/email-shapes",
     "module/forwarded-message",
     "module/gmail-attachments",

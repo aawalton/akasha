@@ -586,7 +586,6 @@
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/compose-input-from-arguments/compose-input-from-arguments.module.ts","id":"01a0658e-2bf5-7000-bebe-fd0c97b225b3"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.ts","id":"01a06810-cf11-7676-b503-15195a7cff5b"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/email-message-fetching/email-message-fetching.module.ts","id":"01a07253-d962-737b-8253-aa8fc539d58e"}
-{"propertySlug":"decision-kind","path":"alan/google/email/modules/email-operations/email-operations.module.ts","id":"01a0658e-2bf5-7001-a81d-b52dcc937d44"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/forwarded-message/forwarded-message.module.ts","id":"01a0657c-604c-7002-a940-7c5975e0d53e"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/gmail-attachments/gmail-attachments.module.ts","id":"01a05c0e-3730-7187-8180-c05ac035233c"}
 {"propertySlug":"decision-kind","path":"alan/google/email/modules/gmail-credentials/gmail-credentials.module.ts","id":"01a05c0e-372d-7c91-883b-7354c1a663a1"}
