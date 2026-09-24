@@ -7,9 +7,11 @@ import {
   stillAsked,
   worthProbing,
 } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.code.ts"
-import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
+import {
+  type IdleObservation,
+  preservingRestartVerdict,
+} from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import { observeIdle } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
-import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import type { HeartbeatPoll } from "akasha/agent/seat/supervisor/supervisor-ticking/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
 import { contextTokensOf } from "akasha/agent/seat/usage/seat-usage.module.code.ts"
 
@@ -43,7 +45,6 @@ export function autoCompactPoll(args: {
   getAgentId: () => string | null
   getClaudePid: () => number | null
   getProxyPort: () => number | null
-  idleRule: IdleRuleSource
   log: (line: string) => void
   readTokens?: (agentId: string) => number | null
   readCeiling?: () => number | null
@@ -64,7 +65,6 @@ export function autoCompactPoll(args: {
         getClaudePid: args.getClaudePid,
         getProxyPort: args.getProxyPort,
         getAgentId: args.getAgentId,
-        idleRule: args.idleRule,
       }))
   let asked = false
   let beatInFlight = false
@@ -83,7 +83,7 @@ export function autoCompactPoll(args: {
       asked = stillAsked(asked, contextTokens, ceiling)
       const compacting = readCompacting(agentId)
       if (!worthProbing({ compacting, contextTokens, ceiling }, asked)) return
-      const { value: verdict } = await args.idleRule.preservingRestart(await observe())
+      const verdict = preservingRestartVerdict(await observe())
       if (!shouldCompact({ idle: verdict.idle, compacting, contextTokens, ceiling }, asked)) return
       const seatName = readSeatName(agentId)
       if (seatName === null) return

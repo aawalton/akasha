@@ -100,3 +100,21 @@ export function resolvePreCliffOverrideMs(raw: string | undefined): number {
   if (!Number.isFinite(parsed) || parsed < 0) return EDGE_CONNECTION_CLIFF_OVERRIDE_MS
   return Math.floor(parsed)
 }
+
+export type DeferredRestartWindows = {
+  readonly maxDeferMs: number
+  readonly staleWedgeMs: number
+  readonly preCliffOverrideMs: number
+}
+
+export function resolveDeferredRestartWindows(raw: {
+  readonly maxDeferMs: string | undefined
+  readonly staleWedgeMs: string | undefined
+  readonly preCliffOverrideMs: string | undefined
+}): DeferredRestartWindows {
+  return {
+    maxDeferMs: resolveMaxDeferMs(raw.maxDeferMs),
+    staleWedgeMs: resolveStaleWedgeMs(raw.staleWedgeMs),
+    preCliffOverrideMs: resolvePreCliffOverrideMs(raw.preCliffOverrideMs),
+  }
+}

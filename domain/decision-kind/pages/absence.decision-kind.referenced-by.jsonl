@@ -191,7 +191,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.ts","id":"01a0683e-3dbe-7017-8a20-75a3afbbc779"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.ts","id":"01a06838-5a84-7000-a52b-bc6acad18e78"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.ts","id":"01a06871-3115-7002-a786-a3fb7a53c159"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.ts","id":"01a06871-3115-7003-9d59-97c04e3f8140"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.ts","id":"01a06838-5a84-7007-ad97-0d2824c6293d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.ts","id":"01a0686a-7a57-7a62-bfba-385af928123a"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.ts","id":"01a06871-3115-7007-ad27-cd0693dae709"}

@@ -8,20 +8,15 @@ const OBS = {
   claudePresent: true,
 }
 
-const answering = (idle: boolean, reason: string) => ({
-  preservingRestart: async () => ({ value: { idle, reason }, notice: null }),
-  pastCliff: async () => ({ value: { idle, reason }, notice: null }),
-  busyReason: async () => ({ value: reason, notice: null }),
-  ignoredMcpCmdlines: async () => ({ value: [], notice: null }),
+test("an idle observation is answered idle", async () => {
+  const held = await readIdleBounded({ observe: async () => OBS, tickMs: 1_000 })
+  expect(held).toEqual({ idle: true, reason: "idle", obs: OBS })
 })
 
-test("an observation the rule reads as idle is answered idle", async () => {
-  const held = await readIdleBounded({
-    observe: async () => OBS,
-    idleRule: answering(true, "idle") as never,
-    tickMs: 1_000,
-  })
-  expect(held).toEqual({ idle: true, reason: "idle", obs: OBS })
+test("a busy observation is answered busy with its reason", async () => {
+  const busy = { ...OBS, inFlight: 2 }
+  const held = await readIdleBounded({ observe: async () => busy, tickMs: 1_000 })
+  expect(held).toEqual({ idle: false, reason: "inFlight=2", obs: busy })
 })
 
 test("a probe that faults reads busy rather than idle", async () => {
@@ -29,31 +24,12 @@ test("a probe that faults reads busy rather than idle", async () => {
     observe: async () => {
       throw new Error("unreadable")
     },
-    idleRule: answering(true, "idle") as never,
     tickMs: 1_000,
   })
   expect(held).toEqual({ idle: false, reason: "probe-error", obs: null })
 })
 
 test("a probe past its tick reads busy rather than holding the tick open", async () => {
-  const held = await readIdleBounded({
-    observe: () => new Promise(() => {}),
-    idleRule: answering(true, "idle") as never,
-    tickMs: 5,
-  })
+  const held = await readIdleBounded({ observe: () => new Promise(() => {}), tickMs: 5 })
   expect(held).toEqual({ idle: false, reason: "probe-timeout", obs: null })
-})
-
-test("a rule that faults reads busy rather than idle", async () => {
-  const held = await readIdleBounded({
-    observe: async () => OBS,
-    idleRule: {
-      preservingRestart: async () => {
-        throw new Error("unreachable")
-      },
-    } as never,
-    tickMs: 1_000,
-  })
-  expect(held.idle).toBe(false)
-  expect(held.reason).toBe("probe-error")
 })

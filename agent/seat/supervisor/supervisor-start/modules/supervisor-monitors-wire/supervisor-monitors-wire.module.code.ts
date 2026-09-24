@@ -4,7 +4,7 @@ import { startProxyLivenessMonitor } from "akasha/agent/seat/model-gateway/modul
 import { handleProxyVersionUpdate } from "akasha/agent/seat/model-gateway/modules/supervisor-gateway-version/supervisor-gateway-version.module.code.ts"
 import { autoCompactPoll } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"
 import { pollAgentAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
-import { LIVE_IDLE_RULE } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import {
   getAgentActionHandler,
@@ -67,7 +67,6 @@ export function startPerAgentMonitors(args: {
         getAgentId: args.getAgentId,
         getClaudePid: () => SUPERVISOR_RESTART_STATE.getClaudePid(),
         getProxyPort: () => getOAuthProxyHandle()?.port ?? null,
-        idleRule: LIVE_IDLE_RULE,
         log,
       }),
     ],

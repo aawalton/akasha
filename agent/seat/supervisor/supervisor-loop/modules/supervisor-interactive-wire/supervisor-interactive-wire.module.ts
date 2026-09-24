@@ -10,10 +10,6 @@ export const supervisorInteractiveWire = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pre-cliff monitor is not started where the cliff age could not be read.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A proxy swap clears the requested action before the swap is triggered.",
     },
     {

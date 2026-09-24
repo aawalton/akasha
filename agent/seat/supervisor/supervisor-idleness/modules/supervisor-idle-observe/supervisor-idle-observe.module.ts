@@ -23,14 +23,7 @@ export const supervisorIdleObserve = {
       decisionKind: "decision-kind/departure",
       statement: "Child pids come from the children file of every thread under the Claude pid.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The rule is asked once for every cmdline.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Answers are read back by position.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A Claude pid with no /proc entry reads as absent with null busy children.",

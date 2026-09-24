@@ -1,5 +1,3 @@
-{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-resume-asks.module.code.ts","path":"agent/seat/supervisor/supervisor-loop/modules/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-agent-restart/seat-agent-restart.domain.ts","id":"01a09c71-bd3a-7e1d-80f8-17fd6319d823"}

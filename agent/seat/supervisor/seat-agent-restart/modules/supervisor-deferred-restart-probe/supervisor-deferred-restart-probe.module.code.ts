@@ -1,5 +1,7 @@
-import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
-import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import {
+  type IdleObservation,
+  preservingRestartVerdict,
+} from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export interface BoundedIdleReading {
@@ -10,7 +12,6 @@ export interface BoundedIdleReading {
 
 export async function readIdleBounded(opts: {
   observe: () => Promise<IdleObservation>
-  idleRule: IdleRuleSource
   tickMs: number
 }): Promise<BoundedIdleReading> {
   let deadlineId: ReturnType<typeof setTimeout> | undefined
@@ -25,10 +26,7 @@ export async function readIdleBounded(opts: {
     return await Promise.race([
       opts
         .observe()
-        .then(async (obs) => {
-          const { value } = await opts.idleRule.preservingRestart(obs)
-          return { idle: value.idle, reason: value.reason, obs }
-        })
+        .then((obs) => ({ ...preservingRestartVerdict(obs), obs }))
         .catch(() => ({ idle: false, reason: "probe-error", obs: null })),
       deadline,
     ])

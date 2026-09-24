@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { autoCompactPoll } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"
 import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
-import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 
 const QUIET: IdleObservation = {
   inFlight: 0,
@@ -10,14 +9,7 @@ const QUIET: IdleObservation = {
   claudePresent: true,
 }
 
-function ruleSaying(idle: boolean): IdleRuleSource {
-  const verdict = Promise.resolve({ value: { idle, reason: idle ? "idle" : "busy" }, notice: null })
-  return {
-    ignoredMcpCmdlines: () => Promise.resolve({ value: [], notice: null }),
-    preservingRestart: () => verdict,
-    pastCliff: () => verdict,
-  }
-}
+const BUSY: IdleObservation = { ...QUIET, inFlight: 1 }
 
 function pollOver(opts: {
   tokens: number | null
@@ -31,13 +23,12 @@ function pollOver(opts: {
     getAgentId: () => "agent-1",
     getClaudePid: () => 1,
     getProxyPort: () => 1,
-    idleRule: ruleSaying(opts.idle ?? true),
     log: () => undefined,
     readTokens: () => opts.tokens,
     readCeiling: () => (opts.ceiling === undefined ? 350_000 : opts.ceiling),
     readCompacting: () => opts.compacting ?? false,
     readSeatName: () => "thea",
-    observe: () => Promise.resolve(QUIET),
+    observe: () => Promise.resolve(opts.idle === false ? BUSY : QUIET),
     sendLine: (seatName, line) => {
       opts.asks.push(`${seatName}:${line}`)
       return Promise.resolve(opts.sent ?? true)
@@ -104,7 +95,6 @@ test("a supervisor with no agent asks nothing", async () => {
     getAgentId: () => null,
     getClaudePid: () => 1,
     getProxyPort: () => 1,
-    idleRule: ruleSaying(true),
     log: () => undefined,
     readTokens: () => 400_000,
     readCeiling: () => 350_000,

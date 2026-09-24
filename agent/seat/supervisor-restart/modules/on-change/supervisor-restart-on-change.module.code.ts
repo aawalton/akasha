@@ -1,3 +1,4 @@
+import { resolveMaxDeferMs } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 import { buildReExecArgv } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-args/supervisor-args.module.code.ts"
 import {
   LOG,
@@ -66,21 +67,10 @@ export async function handleVersionUpdate(
     console.log(
       `${LOG} Self-heal: bun install succeeded; deferring re-exec until agent idle (or max-defer ceiling)`
     )
-    const { value: windows, notice } = await SUPERVISOR_RESTART_STATE.deferredRestartRule.windows({
-      maxDeferMs: SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_DEFER_MS),
-      staleWedgeMs: undefined,
-      preCliffOverrideMs: undefined,
-    })
-    if (windows === null) {
-      SUPERVISOR_RESTART_STATE.reExecScheduled = false
-      console.error(
-        `${LOG} Self-heal: re-exec NOT armed — the max-defer ceiling could not be read, so ` +
-          `nothing would bound the deferral: ${notice ?? "no reason given"}`
-      )
-      return
-    }
     SUPERVISOR_RESTART_STATE.deferredReExecGate = SUPERVISOR_RESTART_STATE.armReExecGate({
-      maxDeferMs: windows.maxDeferMs,
+      maxDeferMs: resolveMaxDeferMs(
+        SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_DEFER_MS)
+      ),
       onIdle: async () => {
         SUPERVISOR_RESTART_STATE.deferredReExecGate = null
         const delayMs = computeReExecJitterMs(

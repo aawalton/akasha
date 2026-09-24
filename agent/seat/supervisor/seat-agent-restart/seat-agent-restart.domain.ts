@@ -10,7 +10,6 @@ export const seatAgentRestart = {
     "module/supervisor-deferred-restart-decide",
     "module/supervisor-deferred-restart-log",
     "module/supervisor-deferred-restart-probe",
-    "module/supervisor-deferred-restart-rule",
     "module/supervisor-precliff-restart",
     "module/supervisor-precliff-restart-decide",
     "module/agent-restart-notice-decide",

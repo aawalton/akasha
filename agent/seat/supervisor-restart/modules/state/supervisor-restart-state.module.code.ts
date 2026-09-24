@@ -1,6 +1,5 @@
 import { armDeferredRestart } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
-import type { DeferredRestartRuleSource } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
-import { LIVE_IDLE_RULE } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 import { isProcessAlive } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.code.ts"
 import { getInheritedClaude } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-state/supervisor-state.module.code.ts"
@@ -23,21 +22,6 @@ function inheritedClaudePid(): number | null {
 export const SUPERVISOR_SCRIPT = process.argv[1] ?? ""
 export const ORIGINAL_ARGV = process.argv.slice(2)
 
-function refuseUnwiredRestartRule(which: string): never {
-  throw new Error(
-    `supervisor-restart-state: the ${which} was reached before \`setRestartIdleProbe\` wired one. ` +
-      "Either this path should not be deciding, or the composition root has not run — a " +
-      "supervisor that guessed a re-exec window here would act on the fleet with confidence " +
-      "it had not earned."
-  )
-}
-
-const UNWIRED_DEFERRED_RESTART_RULE: DeferredRestartRuleSource = {
-  constants: () => refuseUnwiredRestartRule("deferred-restart rule"),
-  decide: () => refuseUnwiredRestartRule("deferred-restart rule"),
-  windows: () => refuseUnwiredRestartRule("deferred-restart rule"),
-}
-
 export type ArmReExecGate = (opts: { onIdle: () => void; maxDeferMs: number }) => {
   cancel: () => void
 }
@@ -48,8 +32,6 @@ const defaultArmReExecGate: ArmReExecGate = (opts) =>
     getProxyPort: SUPERVISOR_RESTART_STATE.getGatewayPort,
     getAgentId: () => SUPERVISOR_RESTART_STATE.currentAgentId,
     onIdle: opts.onIdle,
-    idleRule: LIVE_IDLE_RULE,
-    deferredRestartRule: SUPERVISOR_RESTART_STATE.deferredRestartRule,
     maxDeferMs: opts.maxDeferMs,
     log: (line) => console.log(`${LOG} Supervisor restart ${line}`),
   })
@@ -69,7 +51,6 @@ export const SUPERVISOR_RESTART_STATE: {
   getClaudePid: () => number | null
   getGatewayPort: () => number | null
   deferredReExecGate: { cancel: () => void } | null
-  deferredRestartRule: DeferredRestartRuleSource
   armReExecGate: ArmReExecGate
   killSelf: (signal: NodeJS.Signals) => boolean
   scheduleReExec: (cb: () => void, delayMs: number) => void
@@ -86,7 +67,6 @@ export const SUPERVISOR_RESTART_STATE: {
   getClaudePid: inheritedClaudePid,
   getGatewayPort: () => null,
   deferredReExecGate: null,
-  deferredRestartRule: UNWIRED_DEFERRED_RESTART_RULE,
   armReExecGate: defaultArmReExecGate,
   killSelf: (sig) => process.kill(process.pid, sig),
   scheduleReExec: defaultScheduleReExec,
@@ -128,9 +108,7 @@ export function getGatewayOwnerAgentIdForRestart(): string | null {
 export function setRestartIdleProbe(opts: {
   getClaudePid: () => number | null
   getProxyPort: () => number | null
-  deferredRestartRule: DeferredRestartRuleSource
 }): undefined {
   SUPERVISOR_RESTART_STATE.getClaudePid = opts.getClaudePid
   SUPERVISOR_RESTART_STATE.getGatewayPort = opts.getProxyPort
-  SUPERVISOR_RESTART_STATE.deferredRestartRule = opts.deferredRestartRule
 }

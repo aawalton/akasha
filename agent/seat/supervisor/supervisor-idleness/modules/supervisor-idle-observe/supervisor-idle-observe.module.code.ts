@@ -3,11 +3,11 @@ import { principalSeatIdOf } from "akasha/agent/seat/declaration/modules/seat-pr
 import { akashaSeatsThatExist } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { agentPresence } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
-import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
-import type {
-  BusyChildDetail,
-  IdleRuleSource,
-} from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+import {
+  type BusyChildDetail,
+  type IdleObservation,
+  isIgnoredMcpChildCmdline,
+} from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 const INFLIGHT_FETCH_TIMEOUT_MS = 1_000
@@ -77,14 +77,10 @@ function readChildPids(claudePid: number): readonly string[] | null {
   }
 }
 
-async function scanBusyChildren(
-  claudePid: number,
-  idleRule: IdleRuleSource
-): Promise<readonly { pid: string; cmdline: string }[] | null> {
+function scanBusyChildren(claudePid: number): readonly { pid: string; cmdline: string }[] | null {
   const childPids = readChildPids(claudePid)
   if (childPids == null) return null
   const busy: Array<{ pid: string; cmdline: string }> = []
-  const asked: Array<{ pid: string; cmdline: string }> = []
   for (const childPid of childPids) {
     let cmdline: string
     try {
@@ -93,38 +89,28 @@ async function scanBusyChildren(
       busy.push({ pid: childPid, cmdline: "<unreadable>" })
       continue
     }
-    asked.push({ pid: childPid, cmdline })
-  }
-  if (asked.length > 0) {
-    const { value: ignored } = await idleRule.ignoredMcpCmdlines(asked.map((c) => c.cmdline))
-    asked.forEach((child, at) => {
-      if (ignored[at] !== true) busy.push(child)
-    })
+    if (!isIgnoredMcpChildCmdline(cmdline)) busy.push({ pid: childPid, cmdline })
   }
   return busy
 }
 
-async function observeClaude(
-  claudePid: number | null,
-  idleRule: IdleRuleSource
-): Promise<{
+function observeClaude(claudePid: number | null): {
   claudePresent: boolean
   busyChildren: number | null
-}> {
+} {
   if (claudePid == null || !existsSync(`/proc/${claudePid}`)) {
     return { claudePresent: false, busyChildren: null }
   }
-  const busy = await scanBusyChildren(claudePid, idleRule)
+  const busy = scanBusyChildren(claudePid)
   return { claudePresent: true, busyChildren: busy == null ? null : busy.length }
 }
 
 export async function observeBusyChildDetails(
   claudePid: number | null,
-  idleRule: IdleRuleSource,
   now: () => number = Date.now
 ): Promise<readonly BusyChildDetail[]> {
   if (claudePid == null) return []
-  const busy = await scanBusyChildren(claudePid, idleRule)
+  const busy = scanBusyChildren(claudePid)
   if (busy == null) return []
   return busy.map(({ pid, cmdline }) => {
     const st = statSync(`/proc/${pid}`, { throwIfNoEntry: false })
@@ -141,10 +127,9 @@ export async function observeIdle(opts: {
   getClaudePid: () => number | null
   getProxyPort: () => number | null
   getAgentId: () => string | null
-  idleRule: IdleRuleSource
 }): Promise<IdleObservation> {
   const inFlight = await fetchInFlight(opts.getProxyPort())
-  const { claudePresent, busyChildren } = await observeClaude(opts.getClaudePid(), opts.idleRule)
+  const { claudePresent, busyChildren } = observeClaude(opts.getClaudePid())
   const inFlightDispatchChildren = observeInFlightDispatchChildren(opts.getAgentId())
   return { inFlight, busyChildren, inFlightDispatchChildren, claudePresent }
 }

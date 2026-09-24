@@ -1,4 +1,3 @@
-import { LIVE_DEFERRED_RESTART_RULE } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
 import { finalizeInteractiveExit } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"
 import type { buildAgentLogRedirect } from "akasha/agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"
 import { buildLoopState } from "akasha/agent/seat/supervisor/supervisor-loop/modules/state/supervisor-loop-state.module.code.ts"
@@ -60,7 +59,6 @@ export async function runInteractive(
   setRestartIdleProbe({
     getClaudePid: () => agentProc?.proc?.pid ?? null,
     getProxyPort: () => proxy.port,
-    deferredRestartRule: LIVE_DEFERRED_RESTART_RULE,
   })
 
   let agentId: string | null = boot.agentId

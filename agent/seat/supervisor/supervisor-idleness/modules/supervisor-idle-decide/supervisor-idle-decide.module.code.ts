@@ -5,6 +5,10 @@ export type IdleObservation = {
   claudePresent: boolean
 }
 
+export type IdleVerdict = { readonly idle: boolean; readonly reason: string }
+
+export type BusyChildDetail = { pid: string; cmdline: string; ageMs: number | null }
+
 export function isIdleForPreservingRestart(obs: IdleObservation): boolean {
   return obs.inFlight === 0 && obs.busyChildren === 0 && obs.claudePresent
 }
@@ -23,6 +27,17 @@ export function preservingRestartBusyReason(
     parts.push(`busyChildren=${obs.busyChildren ?? "unread"}`)
   if (!obs.claudePresent) parts.push("claude-absent")
   return parts.length === 0 ? "idle" : parts.join(", ")
+}
+
+export function preservingRestartVerdict(obs: IdleObservation): IdleVerdict {
+  return { idle: isIdleForPreservingRestart(obs), reason: preservingRestartBusyReason(obs) }
+}
+
+export function pastCliffVerdict(obs: IdleObservation): IdleVerdict {
+  return {
+    idle: isIdleForPreservingRestartPastCliff(obs),
+    reason: preservingRestartBusyReason(obs, { ignoreBusyChildren: true }),
+  }
 }
 
 const MCP_CHILD_CMDLINE_MARKERS = [

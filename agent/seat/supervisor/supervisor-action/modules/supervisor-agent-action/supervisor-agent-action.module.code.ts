@@ -1,5 +1,5 @@
 import { armDeferredRestart } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
-import type { DeferredRestartRuleSource } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+
 import { buildIdleGateArm } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-arm/supervisor-agent-action-arm.module.code.ts"
 import {
   clearBeforeSigterm,
@@ -10,7 +10,7 @@ import type {
   AgentActionSubsystem,
   PendingAgentAction,
 } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
-import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
+
 import { LOG } from "akasha/agent/seat/supervisor/supervisor-process/modules/supervisor-config/supervisor-config.module.code.ts"
 
 export function buildAgentActionSubsystem(opts: {
@@ -21,8 +21,6 @@ export function buildAgentActionSubsystem(opts: {
   log: (line: string) => void
   onProxySwap: () => Promise<void>
   armDeferred?: typeof armDeferredRestart
-  idleRule: IdleRuleSource
-  deferredRestartRule: DeferredRestartRuleSource
   clearAction?: (agentId: string) => Promise<void>
 }): AgentActionSubsystem {
   const { killProc, getAgentId, log, onProxySwap } = opts
@@ -63,8 +61,6 @@ export function buildAgentActionSubsystem(opts: {
     getClaudePid: opts.getClaudePid,
     getProxyPort: opts.getProxyPort,
     getAgentId,
-    idleRule: opts.idleRule,
-    deferredRestartRule: opts.deferredRestartRule,
     log,
   })
 

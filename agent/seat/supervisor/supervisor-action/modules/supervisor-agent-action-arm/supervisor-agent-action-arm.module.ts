@@ -9,10 +9,6 @@ export const supervisorAgentActionArm = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A gate whose defer windows could not be read is not armed.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A gate already armed is not armed a second time.",
     },
     {

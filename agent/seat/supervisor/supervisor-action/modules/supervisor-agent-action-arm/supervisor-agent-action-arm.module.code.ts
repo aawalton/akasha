@@ -1,10 +1,9 @@
 import type { armDeferredRestart } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart/supervisor-deferred-restart.module.code.ts"
-import type {
-  DeferredRestartRuleSource,
-  DeferredRestartWindows,
-} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-rule/supervisor-deferred-restart-rule.module.code.ts"
+import {
+  type DeferredRestartWindows,
+  resolveDeferredRestartWindows,
+} from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-deferred-restart-decide/supervisor-deferred-restart-decide.module.code.ts"
 import { readProcessStartMs } from "akasha/agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart/supervisor-precliff-restart.module.code.ts"
-import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 
 export interface IdleGateConfig {
@@ -31,8 +30,6 @@ export function buildIdleGateArm(opts: {
   getClaudePid: () => number
   getProxyPort: () => number
   getAgentId: () => string | null
-  idleRule: IdleRuleSource
-  deferredRestartRule: DeferredRestartRuleSource
   log: (line: string) => void
 }): IdleGateArm {
   const { deferredRestart, log } = opts
@@ -44,7 +41,7 @@ export function buildIdleGateArm(opts: {
     if (deferredRestart.cancel !== null || idleGateArming) return null
     idleGateArming = true
     try {
-      const { value: windows, notice } = await opts.deferredRestartRule.windows({
+      const windows = resolveDeferredRestartWindows({
         maxDeferMs: SHAPE.string().optional().parse(process.env.SUPERVISOR_REEXEC_MAX_DEFER_MS),
         staleWedgeMs: SHAPE.string()
           .optional()
@@ -53,13 +50,6 @@ export function buildIdleGateArm(opts: {
           .optional()
           .parse(process.env.SUPERVISOR_PRECLIFF_OVERRIDE_MS),
       })
-      if (windows === null) {
-        log(
-          `Idle gate NOT armed for agent ${opts.getAgentId()} — the defer windows could not be read, ` +
-            `so nothing would bound the arm: ${notice ?? "no reason given"}`
-        )
-        return null
-      }
       const cfg = build(windows)
       const { cancel } = opts.armDeferred({
         getClaudePid: opts.getClaudePid,
@@ -71,8 +61,6 @@ export function buildIdleGateArm(opts: {
         staleWedgeMs: cfg.staleWedgeMs,
         armedAtMs: cfg.armedAtMs ?? Date.now(),
         pastCliffOverride: cfg.pastCliffOverride,
-        idleRule: opts.idleRule,
-        deferredRestartRule: opts.deferredRestartRule,
         log,
       })
       deferredRestart.cancel = cancel

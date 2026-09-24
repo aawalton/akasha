@@ -5,9 +5,5 @@ export const supervisorIdleness = {
   type: "page-type/domain",
   slug: "supervisor-idleness",
   definition: "whether the agent in a seat is doing nothing",
-  parts: [
-    "module/supervisor-idle-decide",
-    "module/supervisor-idle-observe",
-    "module/supervisor-idle-rule",
-  ],
+  parts: ["module/supervisor-idle-decide", "module/supervisor-idle-observe"],
 } as const satisfies Domain
