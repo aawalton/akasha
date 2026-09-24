@@ -4,6 +4,6 @@ export const supervisorLimitResumeAnswer = {
   id: "01a0687b-aa86-7000-a100-4389f0f21022",
   type: "page-type/module",
   slug: "supervisor-limit-resume-answer",
-  definition: "the verdict on whether a rate-limited seat resumes",
+  definition: "whether a rate-limited seat resumes, with the nudge it is resumed by",
   code: "ts",
 } as const satisfies Module

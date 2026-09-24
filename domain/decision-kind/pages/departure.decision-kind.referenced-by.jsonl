@@ -2,9 +2,6 @@
 {"propertySlug":"decision-kind","path":"agent/claude-code/app/claude-code-app.domain.ts","id":"01a0ca92-e69a-7119-b0d8-cbe2aad57593"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/modules/claude-launch-args/claude-launch-args.module.ts","id":"01a0695a-d2ea-7745-a7c8-079b5840aab1"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/decide/claude-code-remote-control-decide.module.ts","id":"01a0686d-9d5e-7006-ba17-a047d0b1fdbc"}
-{"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/degraded-decide/claude-code-remote-control-degraded-decide.module.ts","id":"01a0686d-9d5e-7002-ae93-c2861807113f"}
-{"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/degraded-state/claude-code-remote-control-degraded-state.module.ts","id":"01a0686d-9d5e-7001-9ae5-1b049c3d76dc"}
-{"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/degraded-thresholds/claude-code-remote-control-degraded-thresholds.module.ts","id":"01a0686d-9d5e-7000-9ba6-012f0d13fc71"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/modules/env/claude-code-remote-control-env.module.ts","id":"01a06876-abda-700a-9970-c937e1deae9a"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/registration-account/claude-code-remote-control-registration-account.domain.ts","id":"01a0ca81-1571-7e92-8c72-1283dae8a068"}
 {"propertySlug":"decision-kind","path":"agent/claude-code/remote-control/registration-credential/modules/oauth-health-lines/oauth-health-lines.module.ts","id":"01a069c1-1f42-7000-8bec-ad0f2db95abc"}
@@ -387,10 +384,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/restart.supervisor-action.ts","id":"01a05edb-0c01-7f85-8584-5aee4a6704cb"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/swap-gateway.supervisor-action.ts","id":"01a05ede-80cc-7266-b628-6fc355977249"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.ts","id":"01a0683e-3dbe-7017-8a20-75a3afbbc779"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.ts","id":"01a0683e-3dbe-7018-abd0-c37a4ad97b28"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rules/supervisor-decide-rules.module.ts","id":"01a0683e-3dbe-7019-8211-ebbf510abf12"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide/supervisor-decide.module.ts","id":"01a06938-eca6-7c73-bee3-f66766ef7dfc"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.ts","id":"01a06838-5a84-7007-ad97-0d2824c6293d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.ts","id":"01a0683e-3dbe-7015-b25d-4d947ec851f0"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.ts","id":"01a0686a-7a57-7a62-bfba-385af928123a"}
@@ -400,7 +393,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-process/modules/supervisor-exec/supervisor-exec.module.ts","id":"01a0683e-3dbe-7020-aab5-a279b45af99d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-decide/supervisor-limit-resume-decide.module.ts","id":"01a0686d-9d5e-7003-85f7-c26e7d26b125"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts","id":"01a06838-5a84-7006-be45-2e23ffbbeeca"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-uncertain-wait-decide/supervisor-uncertain-wait-decide.module.ts","id":"01a0686d-9d5e-7005-9d03-50cd047c0404"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-resuming/modules/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.ts","id":"01a0686d-9d5e-7004-9169-e4d983fea9db"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts","id":"01a06838-5a84-7002-b23a-fa3c1a68a559"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.ts","id":"01a0687e-533c-7000-b149-004c8b1c0b5f"}
@@ -1994,7 +1986,6 @@
 {"propertySlug":"decision-kind","path":"command/modules/answering/command-answering.module.ts","id":"01a07c6e-41a7-7d0a-8e45-27f5fb2e74f2"}
 {"propertySlug":"decision-kind","path":"command/modules/apply-running/apply-running.module.ts","id":"01a081bf-3b4f-7261-8bf7-fae03d26357a"}
 {"propertySlug":"decision-kind","path":"command/modules/applying/applying.module.ts","id":"01a0644c-3f10-7a2e-9c31-6b0e5d4a7f21"}
-{"propertySlug":"decision-kind","path":"command/modules/argument-narrowing/argument-narrowing.module.ts","id":"01a069da-b9b3-7c68-b5aa-1d269342aa9e"}
 {"propertySlug":"decision-kind","path":"command/modules/argument-reading/argument-reading.module.ts","id":"01a077ef-5905-7fba-b8f0-ebffbf6d80d8"}
 {"propertySlug":"decision-kind","path":"command/modules/audit-answering/audit-answering.module.ts","id":"01a09240-d563-7000-8504-881721a6fe23"}
 {"propertySlug":"decision-kind","path":"command/modules/beside-sweeping/beside-sweeping.module.ts","id":"01a09497-3f38-7f42-8d3d-b4b296f80bea"}

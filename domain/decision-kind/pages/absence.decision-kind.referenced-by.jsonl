@@ -194,7 +194,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.ts","id":"01a0683e-3dbe-7000-8023-4fb6336e3734"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.ts","id":"01a0683e-3dbe-7003-8c74-a74611900fdd"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.ts","id":"01a0683e-3dbe-7007-9a41-f9ef0fcef896"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.ts","id":"01a0683e-3dbe-7017-8a20-75a3afbbc779"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.ts","id":"01a06838-5a84-7007-ad97-0d2824c6293d"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-log/modules/sweeping/supervisor-log-sweeping.module.ts","id":"01a0686a-7a57-7a62-bfba-385af928123a"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-shutdown/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts","id":"01a06838-5a84-7002-b23a-fa3c1a68a559"}

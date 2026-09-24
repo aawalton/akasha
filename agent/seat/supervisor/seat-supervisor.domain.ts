@@ -13,7 +13,6 @@ export const seatSupervisor = {
     "domain/seat-claude-code-setup",
     "domain/supervisor-start",
     "domain/seat-agent-start",
-    "domain/supervisor-deciding",
     "domain/seat-agent-idleness",
     "domain/supervisor-log",
     "domain/seat-agent-run",

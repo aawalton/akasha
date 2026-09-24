@@ -17,7 +17,6 @@ export const command = {
     "module/answer-bytes",
     "module/apply-running",
     "module/applying",
-    "module/argument-narrowing",
     "module/argument-reading",
     "module/audit-answering",
     "module/beside-sweeping",

@@ -11,7 +11,6 @@ export const supervisorResuming = {
     "module/supervisor-limit-resume-decide",
     "module/supervisor-limit-resume-effects",
     "module/supervisor-limit-resume-send",
-    "module/supervisor-uncertain-wait-decide",
     "module/supervisor-wait-resume",
     "module/supervisor-wait-resume-answer",
     "module/supervisor-wait-resume-decide",
