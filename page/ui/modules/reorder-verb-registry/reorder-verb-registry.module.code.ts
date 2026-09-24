@@ -10,10 +10,6 @@ export type ReorderVerbHandler = (ctx: ReorderVerbContext) => void | Promise<voi
 
 const handlersByVerbId = new Map<string, ReorderVerbHandler>()
 
-export function registerReorderVerb(verbId: string, handler: ReorderVerbHandler): undefined {
-  handlersByVerbId.set(verbId, handler)
-}
-
 export function getReorderVerb(verbId: string): ReorderVerbHandler | undefined {
   return handlersByVerbId.get(verbId)
 }
