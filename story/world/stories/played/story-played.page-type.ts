@@ -8,12 +8,6 @@ export const storyPlayed = {
   pluralSlug: "stories",
   extends: ["page-type/story"],
   runsTabooCheck: false,
-  detailConfig: {
-    header: {
-      showCover: true,
-      fields: [],
-    },
-  },
   parts: [
     "file-property/prose",
     "module/game-beside",

@@ -21,7 +21,11 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A story with no turn and no chapter of its own draws nothing at all.",
+      statement: "A story with no turn and no chapter of its own draws its title alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The title and its menu span the same width and edges as the run and its panels.",
     },
     {
       decisionKind: "decision-kind/departure",

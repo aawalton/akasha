@@ -1,6 +1,7 @@
 "use client"
 
 import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import {
@@ -179,7 +180,17 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   )
 
   if (chapters.isLoading || turns.isLoading || gameTurns.isLoading) return null
-  if (tail.drawn.length === 0) return null
+
+  const titleRow = (
+    <PageTitleRow
+      pageTypeSlug={pageTypeSlug}
+      id={id}
+      title={title}
+      isFavorite={data.favoritedAt != null}
+    />
+  )
+
+  if (tail.drawn.length === 0) return <div className={NARROW_PAGE}>{titleRow}</div>
 
   const drawnAside = shownIn(shown, ASIDE)
   const drawnRun = shownIn(shown, RUN)
@@ -188,6 +199,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
 
   return (
     <div className={hasPanels ? WIDE_PAGE : NARROW_PAGE}>
+      {titleRow}
       {beside.kind === "unread" ? <p className={NOTE_LINE}>{GAME_UNREAD}</p> : null}
       {hasPanels ? <AwenStatusDrawer statusPanels={panels} /> : null}
       <PlayedPanels shown={shownIn(shown, ABOVE)} envelope={envelope} run={panelRun} />

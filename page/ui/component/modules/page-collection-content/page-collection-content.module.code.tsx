@@ -33,6 +33,27 @@ import type { ReactNode } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"
 
+export function PageTitleRow({
+  pageTypeSlug,
+  id,
+  title,
+  isFavorite,
+}: {
+  pageTypeSlug: PageTypeSlug
+  id: string
+  title: string
+  isFavorite: boolean
+}) {
+  return (
+    <div className="flex items-start justify-between gap-2">
+      <h1 className="font-semibold text-2xl text-primary leading-tight">
+        {expandDateMentions(title)}
+      </h1>
+      <PageDetailHeaderMenu pageTypeSlug={pageTypeSlug} pageId={id} isFavorite={isFavorite} />
+    </div>
+  )
+}
+
 interface PageCollectionContentProps {
   pageTypeSlug: PageTypeSlug
   id: string
@@ -104,16 +125,12 @@ export function PageCollectionContent({
               }
             />
           )}
-          <div className="flex items-start justify-between gap-2">
-            <h1 className="font-semibold text-2xl text-primary leading-tight">
-              {expandDateMentions(title)}
-            </h1>
-            <PageDetailHeaderMenu
-              pageTypeSlug={pageTypeSlug}
-              pageId={id}
-              isFavorite={data.favoritedAt != null}
-            />
-          </div>
+          <PageTitleRow
+            pageTypeSlug={pageTypeSlug}
+            id={id}
+            title={title}
+            isFavorite={data.favoritedAt != null}
+          />
           {headerFields.length > 0 && (
             <div className="flex flex-col gap-2">
               {headerFields.map((def) => (
