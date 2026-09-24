@@ -1,8 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   anyLiveShell,
-  anyWorking,
-  anyWorkingRead,
   interruptedIn,
   keptWorkingIn,
   scanRecords,
@@ -38,17 +36,6 @@ const SHELL_DONE =
 
 const AGENT_DONE =
   '{"type":"user","message":{"role":"user","content":"<task-notification>\\n<task-id>a0720858045309f22</task-id>\\n<status>completed</status>\\n</task-notification>"}}'
-
-test("a seat is working where its last answer did not end the turn", () => {
-  expect(anyWorking({ activeTurn: true })).toBe(true)
-  expect(anyWorking({ activeTurn: false })).toBe(false)
-})
-
-test("unread is not off", () => {
-  expect(anyWorkingRead({})).toBe(false)
-  expect(anyWorking({})).toBe(false)
-  expect(anyWorkingRead({ activeTurn: false })).toBe(true)
-})
 
 test("an answer ending the turn is told from one part way through", () => {
   expect(turnEnded({ kind: "assistant", stopReason: "end_turn" })).toBe(true)

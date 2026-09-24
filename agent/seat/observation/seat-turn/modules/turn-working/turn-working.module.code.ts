@@ -2,6 +2,7 @@ import { closeSync, openSync, readSync, statSync } from "node:fs"
 import { akashaObservedOf } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
 import { keepBesideUnder } from "akasha/agent/seat/modules/beside/seat-beside.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
+import type { TurnWorking } from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
 
 const WORKING_KEY = "turn-working"
 
@@ -27,12 +28,6 @@ const TASK_ID_TO = "</task-id>"
 
 const LINE_END = 10
 
-export interface TurnWorking {
-  readonly activeTurn?: boolean
-  readonly scannedTo?: number
-  readonly openShells?: readonly string[]
-}
-
 export interface Answer {
   readonly kind: string
   readonly stopReason: string | null
@@ -48,14 +43,6 @@ export function turnEnded(answer: Answer): boolean {
   if (answer.interrupted === true) return true
   if (answer.kind === COMPACTION_ENDED) return true
   return answer.kind === ANSWER_RECORD && answer.stopReason === ANSWER_ENDED
-}
-
-export function anyWorking(working: TurnWorking): boolean {
-  return working.activeTurn === true
-}
-
-export function anyWorkingRead(working: TurnWorking): boolean {
-  return working.activeTurn !== undefined
 }
 
 export function anyLiveShell(working: TurnWorking): boolean {

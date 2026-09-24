@@ -4,8 +4,8 @@ import { colorOfState } from "akasha/agent/seat/observation/seat-turn/modules/co
 import {
   SEAT_TURN_STATES,
   type SeatTurnState,
-  seatTurnStateOf,
-} from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
+} from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
+import { seatTurnStateOf } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
 
 export interface SeatHolding {
   readonly initiative: string | null

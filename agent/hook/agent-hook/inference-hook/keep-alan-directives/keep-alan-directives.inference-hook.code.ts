@@ -30,9 +30,9 @@ import { subagentBriefKept } from "akasha/agent/model/test/pages/subagent-brief-
 import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.module.code.ts"
 import { lastAskedIn, lastSaidIn } from "akasha/agent/modules/last-said/last-said.module.code.ts"
 import { seatIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import type { TurnWorking } from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
 import {
   anyLiveShell,
-  type TurnWorking,
   workingOf,
 } from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"

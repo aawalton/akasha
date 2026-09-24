@@ -1,9 +1,11 @@
 import { expect, test } from "bun:test"
 import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
 import {
+  anyWorking,
+  anyWorkingRead,
   readSeatTurn,
   type SeatTurnRecords,
-} from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
+} from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
 
 const AT = Date.parse("2026-09-04T00:00:00.000Z")
 
@@ -20,6 +22,17 @@ function kept(over: Partial<SeatTurnRecords> = {}): SeatTurnRecords {
     ...over,
   }
 }
+
+test("a seat is working where its last answer did not end the turn", () => {
+  expect(anyWorking({ activeTurn: true })).toBe(true)
+  expect(anyWorking({ activeTurn: false })).toBe(false)
+})
+
+test("unread is not off", () => {
+  expect(anyWorkingRead({})).toBe(false)
+  expect(anyWorking({})).toBe(false)
+  expect(anyWorkingRead({ activeTurn: false })).toBe(true)
+})
 
 test("a seat holding no record at all is stopped", () => {
   const read = readSeatTurn({

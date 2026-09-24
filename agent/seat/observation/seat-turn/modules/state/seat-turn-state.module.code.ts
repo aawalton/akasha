@@ -1,63 +1,13 @@
 import { attributesOf } from "akasha/agent/modules/attributes/agent-attributes.module.code.ts"
 import { roleIsOnCall } from "akasha/agent/seat/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"
 import { agentPresence } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
-import type { SeatPresence } from "akasha/agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.code.ts"
+import { pendingOf } from "akasha/agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"
 import {
-  anyPendingRead,
-  pendingOf,
-  pendingOn,
-  type TurnPending,
-} from "akasha/agent/seat/observation/seat-turn/modules/pending/seat-turn-pending.module.code.ts"
-import {
-  anyWorking,
-  anyWorkingRead,
-  type TurnWorking,
-  workingOf,
-} from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
-
-export const SEAT_TURN_STATES = ["working", "idle-pending", "ready", "idle", "stopped"] as const
-
-export type SeatTurnState = (typeof SEAT_TURN_STATES)[number]
-
-export interface SeatTurnRecords {
-  readonly presence: SeatPresence
-  readonly pending: TurnPending
-  readonly working: TurnWorking
-  readonly onCallRole: boolean
-}
-
-export interface SeatTurnReading {
-  readonly state: SeatTurnState
-  readonly waitingOn: string | null
-}
-
-const NO_TURN_TAKEN: SeatTurnState = "stopped"
-
-const GONE: SeatPresence = "absent"
-
-const SENT_TO_IT = "work sent to it"
-
-function idleIn(kept: SeatTurnRecords): SeatTurnReading {
-  if (kept.onCallRole) return { state: "ready", waitingOn: SENT_TO_IT }
-  return { state: "idle", waitingOn: null }
-}
-
-function tookATurn(kept: SeatTurnRecords): boolean {
-  return anyPendingRead(kept.pending) || anyWorkingRead(kept.working)
-}
-
-export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
-  if (!tookATurn(kept)) return { state: NO_TURN_TAKEN, waitingOn: null }
-  if (kept.presence === GONE) return { state: "stopped", waitingOn: null }
-  if (anyWorking(kept.working)) return { state: "working", waitingOn: null }
-  if (anyPendingRead(kept.pending)) {
-    const on = pendingOn(kept.pending)
-    if (on.length === 0) return idleIn(kept)
-    if (kept.onCallRole) return { state: "ready", waitingOn: on.join(", ") }
-    return { state: "idle-pending", waitingOn: on.join(", ") }
-  }
-  return idleIn(kept)
-}
+  readSeatTurn,
+  type SeatTurnReading,
+  type SeatTurnRecords,
+} from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
+import { workingOf } from "akasha/agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"
 
 function seatTurnRecordsOf(agent: string): SeatTurnRecords {
   return {

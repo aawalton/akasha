@@ -8,11 +8,11 @@ import {
   readSeatForest,
 } from "akasha/agent/seat/fleet/modules/seat-forest/seat-forest.module.code.ts"
 import { colorOfState } from "akasha/agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.code.ts"
-import {
-  type SeatTurnReading,
-  type SeatTurnState,
-  seatTurnStateOf,
-} from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
+import type {
+  SeatTurnReading,
+  SeatTurnState,
+} from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
+import { seatTurnStateOf } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
 
 export type ForestSeat = ForestRow & {
   readonly state: SeatTurnState

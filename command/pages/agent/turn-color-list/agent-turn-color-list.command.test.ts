@@ -5,7 +5,7 @@ import {
   colorIn,
   WORKING_PAGE,
 } from "akasha/agent/seat/observation/seat-turn/modules/color/seat-turn-color.module.test-fixtures.ts"
-import type { SeatTurnState } from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
+import type { SeatTurnState } from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
 import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 import { turnState } from "akasha/command/argument/pages/turn-state.argument.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"

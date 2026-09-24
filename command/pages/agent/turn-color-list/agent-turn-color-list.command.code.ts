@@ -3,7 +3,7 @@ import { colorOfState } from "akasha/agent/seat/observation/seat-turn/modules/co
 import {
   SEAT_TURN_STATES,
   type SeatTurnState,
-} from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
+} from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { agent as agentArgument } from "akasha/command/argument/pages/agent.argument.ts"
 import { turnState } from "akasha/command/argument/pages/turn-state.argument.ts"

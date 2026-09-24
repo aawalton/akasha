@@ -1,33 +1,16 @@
 import { akashaObservedOf } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
 import { keepBesideUnder } from "akasha/agent/seat/modules/beside/seat-beside.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
+import {
+  type PendingRecord,
+  TURN_PENDING_COMPONENTS,
+  type TurnPending,
+  type TurnPendingComponent,
+} from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 
 const PENDING_KEY = "turn-pending"
-
-const TURN_PENDING_COMPONENTS = [
-  "compacting",
-  "live-shell",
-  "live-subagent",
-  "send-in-flight",
-] as const
-
-export type TurnPendingComponent = (typeof TURN_PENDING_COMPONENTS)[number]
-
-export interface PendingRecord {
-  readonly value: boolean
-}
-
-export type TurnPending = Partial<Record<TurnPendingComponent, PendingRecord>>
-
-export function pendingOn(pending: TurnPending): readonly TurnPendingComponent[] {
-  return TURN_PENDING_COMPONENTS.filter((one) => pending[one]?.value === true)
-}
-
-export function anyPendingRead(pending: TurnPending): boolean {
-  return TURN_PENDING_COMPONENTS.some((one) => pending[one] !== undefined)
-}
 
 export function pendingOf(agent: string): TurnPending {
   if (agent === "") return {}

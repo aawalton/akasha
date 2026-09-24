@@ -11,7 +11,7 @@ import {
   SEAT_TURN_STATES,
   type SeatTurnReading,
   type SeatTurnState,
-} from "akasha/agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"
+} from "akasha/agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 
 const ASTRA: ForestRow = {
