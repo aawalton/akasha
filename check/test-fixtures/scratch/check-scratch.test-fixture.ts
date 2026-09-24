@@ -108,8 +108,7 @@ export const checkScratch = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Typing a page type writes a body stating that page type's `id` and `pageTypeSlug`.",
+      statement: "Typing a page type writes a body stating that page type's `id` and `type`.",
     },
     {
       decisionKind: "decision-kind/departure",

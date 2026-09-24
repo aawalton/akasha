@@ -20,6 +20,8 @@ import {
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pagePageType } from "akasha/page/properties/page-page-type.relation-property.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -70,7 +72,7 @@ export function typed(
   writeFileSync(
     join(root, path),
     `export const held = { id: ${JSON.stringify(`id-${slug}`)},` +
-      ` pageTypeSlug: ${JSON.stringify(PAGE_TYPE)}, slug: ${JSON.stringify(slug)},` +
+      ` type: ${JSON.stringify(`${pageType.slug}/${PAGE_TYPE}`)}, slug: ${JSON.stringify(slug)},` +
       `${loader} extends: ${said}, properties: [${declared(declares)}] }\n`
   )
   valueAlsoFiled(root, PAGE_TYPE, [
@@ -78,7 +80,7 @@ export function typed(
       path,
       value: {
         id: `id-${slug}`,
-        pageTypeSlug: PAGE_TYPE,
+        type: `${pageType.slug}/${PAGE_TYPE}`,
         slug,
         extends: above === null ? [] : [`${PAGE_TYPE}/${above}`],
         properties: declares.map((one) => ({ pagePropertySlug: one })),
@@ -122,6 +124,11 @@ function identifying(root: string): undefined {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: PAGE_TYPE,
   })
+  declaring(root, pagePageType.slug, {
+    pageTypeSlug: "relation-property",
+    targetPageTypeSlug: PAGE_TYPE,
+    propertySlug: pagePageType.propertySlug,
+  })
   declaring(root, EXTENDS_TYPE, {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: PAGE_TYPE,
@@ -131,7 +138,7 @@ function identifying(root: string): undefined {
 
 export function founded(root: string): undefined {
   identifying(root)
-  typed(root, PAGE, null, [ID, SLUG, "page-type-slug"])
+  typed(root, PAGE, null, [ID, SLUG, "page-type-slug", pagePageType.slug])
 }
 
 export function relating(root: string): undefined {
@@ -144,7 +151,7 @@ export function relating(root: string): undefined {
   writeFileSync(
     join(root, path),
     `export const held = { id: ${JSON.stringify(id)},` +
-      ` pageTypeSlug: ${JSON.stringify(GRAPH_EDGE)}, slug: ${JSON.stringify(relation.slug)},` +
+      ` type: ${JSON.stringify(`${pageType.slug}/${GRAPH_EDGE}`)}, slug: ${JSON.stringify(relation.slug)},` +
       ` attributes: ${JSON.stringify(relation.attributes)} }\n`
   )
 }
@@ -166,7 +173,7 @@ export function carrying(
       path,
       value: {
         id: `id-${slug}`,
-        pageTypeSlug: PAGE_TYPE,
+        type: `${pageType.slug}/${PAGE_TYPE}`,
         slug,
         extends: above === null ? [] : [`${PAGE_TYPE}/${above}`],
         properties: declares.map((one) => ({ pagePropertySlug: one })),
@@ -185,7 +192,7 @@ export function claiming(root: string, page: string, id: string): undefined {
   writeFileSync(
     join(root, page),
     `export const held = { id: ${JSON.stringify(id)},` +
-      ` pageTypeSlug: ${JSON.stringify(said.pageType)}, slug: ${JSON.stringify(said.slug)} }\n`
+      ` type: ${JSON.stringify(`${pageType.slug}/${said.pageType}`)}, slug: ${JSON.stringify(said.slug)} }\n`
   )
 }
 
