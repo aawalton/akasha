@@ -206,6 +206,27 @@ function hookTooltipControls(
 }
 lib.HookTooltipControls = hookTooltipControls
 
+function registerCustomTooltipHook(
+  this: void,
+  tooltipCtrlName: string,
+  addonName: string
+): boolean {
+  if (tooltipCtrlName === "" || addonName === "") {
+    return false
+  }
+  const ttCtrl = GetControl(tooltipCtrlName)
+  if (!hookCustomTooltipControlChecks(ttCtrl)) {
+    return false
+  }
+  const needed = asUnknownArray(lib.customTooltipHooks.needed)
+  needed[needed.length] = { tooltipCtrlName, addonName }
+  if (lib.customTooltipHooks.eventPlayerActivatedCalled) {
+    hookTooltipControls(true, ttCtrl)
+  }
+  return true
+}
+lib.RegisterCustomTooltipHook = registerCustomTooltipHook
+
 asHooksCountView(lib.customTooltipHooks).hooksCount = customAddonTooltipControlHooksCount
 
 function onPlayerActivatedTooltips(this: void): undefined {

@@ -23,6 +23,14 @@ export const setsTipHooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An add-on names a tooltip control to be hooked, and only a tooltip is taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tooltip named once the player is active is hooked at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Gamepad and keyboard tooltips are hooked by different means.",
     },
   ],
