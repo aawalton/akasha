@@ -136,6 +136,12 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     "TemperAddonMenuSettingsWindow",
     'SLASH_COMMANDS["/temperhud"]()'
   ),
+  ownWindow(
+    "interface-settings",
+    "Temper",
+    "TemperAddonMenuSettingsWindow",
+    'SLASH_COMMANDS["/temperinterface"]()'
+  ),
   ownWindow("task-hud", "TemperCharacters", "TemperTaskHUD_v2", SHOWS_HUD),
   ownWindow("minimap", "TemperWorld", "ZO_WorldMap", SHOWS_HUD),
   ownWindow(
