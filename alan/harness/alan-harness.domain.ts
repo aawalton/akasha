@@ -95,7 +95,11 @@ export const alanHarness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Alan's code editor status line shows workstation load, Claude usage and four readout groups.",
+        "Alan's code editor status line shows workstation load, Claude usage and three stoplight sections.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The code editor draws luck in the attributes section, and no widget does.",
     },
     {
       decisionKind: "decision-kind/departure",
