@@ -270,7 +270,7 @@
         "patterns-gestalt"
       ],
       "title": "Advisory editor roster",
-      "description": "Adopted advisory-editor lenses for this game (author/editors architecture, #15266). On GM-fleet revival, spawn one awen-editor--<base>-<lens> resident seat per lens listed in bands, alongside the resolver/loremaker/turn-gate seats. Advisory only — never a gate, never authoritative: live games get advisory reviewers and Alan is the final reader. Applicability rule (data-driven): prose/dialogue-driven (chapterProse-shaped) adopts the full six lenses; mechanics-driven low-dialogue (beatLog-shaped, no chapterProse) adopts facts + the three cross-turn patterns sub-lenses."
+      "description": "The lenses this game's editors review on. For every drafted turn the game master spawns one editor subagent per lens here, in parallel, each in fresh context. Each returns one message of findings, each finding with its verbatim span; findings without verbatim spans are noise. Editors advise and the game master decides, taking or declining each finding at its discretion; editors never gate, and the loop never stalls the player. A prose- and dialogue-driven game takes all six lenses; a mechanics-driven, low-dialogue game takes facts and the three cross-turn patterns sub-lenses."
     }
   ],
   "tallyCatalog": {
