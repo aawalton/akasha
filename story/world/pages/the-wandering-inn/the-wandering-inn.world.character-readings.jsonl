@@ -11,28 +11,28 @@
 {"id":"01a063d6-4a4b-7bc7-9e94-b5884cb2d64b","readingSlug":"3-users-connected-none","readingName":"3 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-73fa-bc72-749784382c2c","readingSlug":"4-users-connected-none","readingName":"4 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-7380-8cd9-4d3366e56a4d","readingSlug":"5-users-connected-none","readingName":"5 Users Connected","readingKind":"none"}
-{"id":"01a063d6-4a4b-7045-a4e0-d219857f5aa7","readingSlug":"50fiftycents-ridley-wallis","readingName":"50fiftyCents","readingKind":"character","character":"ridley-wallis"}
+{"id":"01a063d6-4a4b-7045-a4e0-d219857f5aa7","readingSlug":"50fiftycents-ridley-wallis","readingName":"50fiftyCents","readingKind":"character","character":"world-character/ridley-wallis"}
 {"id":"01a063d6-4a4b-75e4-a207-04baa68c61be","readingSlug":"6-users-connected-none","readingName":"6 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-7e08-b4d0-e3c58f64311e","readingSlug":"7-users-connected-none","readingName":"7 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-75b8-85c3-cee56809266a","readingSlug":"8-users-connected-none","readingName":"8 Users Connected","readingKind":"none"}
 {"id":"01a063d6-4a4b-7f3b-9af5-951a6cbb05c9","readingSlug":"9-users-connected-none","readingName":"9 Users Connected","readingKind":"none"}
-{"id":"01a063d6-4a4b-73f0-b930-4df48c0ea9e3","readingSlug":"america-group-richard-davenport","readingName":"America Group","readingKind":"character","character":"richard-davenport"}
-{"id":"01a063d6-4a4b-7d4c-af2d-4663c7630f54","readingSlug":"asdf-asdf","readingName":"asdf","readingKind":"character","character":"asdf"}
-{"id":"01a063d6-4a4b-78df-af1c-9bf7a66afdaa","readingSlug":"ayan-thompson-green","readingName":"ayan","readingKind":"character","character":"thompson-green"}
-{"id":"01a063d6-4a4b-7b8e-a9bb-631d394b668f","readingSlug":"batman-ryoka-griffin","readingName":"batman","readingKind":"character","character":"ryoka-griffin"}
-{"id":"01a063d6-4a4b-7dc0-ac64-dca55fcdbc2e","readingSlug":"blackmage-aaron-vanwell","readingName":"BlackMage","readingKind":"character","character":"aaron-vanwell"}
-{"id":"01a063d6-4a4b-7d72-b8a8-9d6ed9a176a9","readingSlug":"humble-actor-cara-o-sullivan","readingName":"Humble Actor","readingKind":"character","character":"cara-o-sullivan"}
-{"id":"01a063d6-4a4b-70b2-930c-81e4d73d7d62","readingSlug":"kent-scott-kent-scott","readingName":"Kent Scott","readingKind":"character","character":"kent-scott"}
-{"id":"01a063d6-4a4b-7712-95b0-e2069a1b230e","readingSlug":"kent-scott-yazdil","readingName":"Kent Scott","readingKind":"character","character":"yazdil"}
-{"id":"01a063d6-4a4b-7121-ae89-b4a068a69a9f","readingSlug":"level-12-warrior-level-12-warrior","readingName":"Level 12 Warrior","readingKind":"character","character":"level-12-warrior"}
-{"id":"01a063d6-4a4b-79a8-9029-639dd562df43","readingSlug":"loran-grimnar-loran-grimnar","readingName":"Loran Grimnar","readingKind":"character","character":"loran-grimnar"}
-{"id":"01a063d6-4a4b-7af3-8bc6-f9f5fbc61bba","readingSlug":"plusone-caren-glover","readingName":"plusOne","readingKind":"character","character":"caren-glover"}
+{"id":"01a063d6-4a4b-73f0-b930-4df48c0ea9e3","readingSlug":"america-group-richard-davenport","readingName":"America Group","readingKind":"character","character":"world-character/richard-davenport"}
+{"id":"01a063d6-4a4b-7d4c-af2d-4663c7630f54","readingSlug":"asdf-asdf","readingName":"asdf","readingKind":"character","character":"world-character/asdf"}
+{"id":"01a063d6-4a4b-78df-af1c-9bf7a66afdaa","readingSlug":"ayan-thompson-green","readingName":"ayan","readingKind":"character","character":"world-character/thompson-green"}
+{"id":"01a063d6-4a4b-7b8e-a9bb-631d394b668f","readingSlug":"batman-ryoka-griffin","readingName":"batman","readingKind":"character","character":"world-character/ryoka-griffin"}
+{"id":"01a063d6-4a4b-7dc0-ac64-dca55fcdbc2e","readingSlug":"blackmage-aaron-vanwell","readingName":"BlackMage","readingKind":"character","character":"world-character/aaron-vanwell"}
+{"id":"01a063d6-4a4b-7d72-b8a8-9d6ed9a176a9","readingSlug":"humble-actor-cara-o-sullivan","readingName":"Humble Actor","readingKind":"character","character":"world-character/cara-o-sullivan"}
+{"id":"01a063d6-4a4b-70b2-930c-81e4d73d7d62","readingSlug":"kent-scott-kent-scott","readingName":"Kent Scott","readingKind":"character","character":"world-character/kent-scott"}
+{"id":"01a063d6-4a4b-7712-95b0-e2069a1b230e","readingSlug":"kent-scott-yazdil","readingName":"Kent Scott","readingKind":"character","character":"world-character/yazdil"}
+{"id":"01a063d6-4a4b-7121-ae89-b4a068a69a9f","readingSlug":"level-12-warrior-level-12-warrior","readingName":"Level 12 Warrior","readingKind":"character","character":"world-character/level-12-warrior"}
+{"id":"01a063d6-4a4b-79a8-9029-639dd562df43","readingSlug":"loran-grimnar-loran-grimnar","readingName":"Loran Grimnar","readingKind":"character","character":"world-character/loran-grimnar"}
+{"id":"01a063d6-4a4b-7af3-8bc6-f9f5fbc61bba","readingSlug":"plusone-caren-glover","readingName":"plusOne","readingKind":"character","character":"world-character/caren-glover"}
 {"id":"01a063d6-4a4b-7af5-808a-9401b7d3b063","readingSlug":"prophet-unsure","readingName":"Prophet","readingKind":"unsure"}
-{"id":"01a063d6-4a4b-786c-8ddf-b51c9555119d","readingSlug":"rose-rose-cinevoy","readingName":"Rose","readingKind":"character","character":"rose-cinevoy"}
-{"id":"01a063d6-4a4b-7835-b487-97db6076be63","readingSlug":"s-s","readingName":"s","readingKind":"character","character":"s"}
-{"id":"01a063d6-4a4b-71be-826d-672b1ad09724","readingSlug":"squirtle344-squirtle344","readingName":"Squirtle344","readingKind":"character","character":"squirtle344"}
-{"id":"01a063d6-4a4b-7818-a80e-518f308aaa0f","readingSlug":"strider-479-zara-walker","readingName":"strider_479","readingKind":"character","character":"zara-walker"}
-{"id":"01a063d6-4a4b-77d6-bfea-99b5aafa757e","readingSlug":"twintrouble-53-flos-reimarch","readingName":"twinTrouble_53","readingKind":"character","character":"flos-reimarch"}
+{"id":"01a063d6-4a4b-786c-8ddf-b51c9555119d","readingSlug":"rose-rose-cinevoy","readingName":"Rose","readingKind":"character","character":"world-character/rose-cinevoy"}
+{"id":"01a063d6-4a4b-7835-b487-97db6076be63","readingSlug":"s-s","readingName":"s","readingKind":"character","character":"world-character/s"}
+{"id":"01a063d6-4a4b-71be-826d-672b1ad09724","readingSlug":"squirtle344-squirtle344","readingName":"Squirtle344","readingKind":"character","character":"world-character/squirtle344"}
+{"id":"01a063d6-4a4b-7818-a80e-518f308aaa0f","readingSlug":"strider-479-zara-walker","readingName":"strider_479","readingKind":"character","character":"world-character/zara-walker"}
+{"id":"01a063d6-4a4b-77d6-bfea-99b5aafa757e","readingSlug":"twintrouble-53-flos-reimarch","readingName":"twinTrouble_53","readingKind":"character","character":"world-character/flos-reimarch"}
 {"id":"01a063d6-4a4b-7936-9a7b-d157c416872b","readingSlug":"twintrouble-53-unsure","readingName":"twinTrouble_53","readingKind":"unsure"}
 {"id":"01a063d6-4a4b-7b42-80c3-cd6fe0729287","readingSlug":"user-50fiftycents-has-disconnected-none","readingName":"User 50fiftyCents has disconnected.","readingKind":"none"}
 {"id":"01a063d6-4a4b-7156-b230-0275b6050af5","readingSlug":"user-america-group-has-disconnected-none","readingName":"User America Group has disconnected.","readingKind":"none"}
@@ -54,4 +54,4 @@
 {"id":"01a063d6-4a4b-7f36-ac67-c2da45adef39","readingSlug":"user-squirtle344-has-disconnected-none","readingName":"User Squirtle344 has disconnected.","readingKind":"none"}
 {"id":"01a063d6-4a4b-72d6-af36-aa62f68cd6a5","readingSlug":"user-strider-479-has-disconnected-none","readingName":"User strider_479 has disconnected.","readingKind":"none"}
 {"id":"01a063d6-4a4b-7d41-a963-d9d0ac598c68","readingSlug":"user-twintrouble-53-has-disconnected-none","readingName":"User twinTrouble_53 has disconnected.","readingKind":"none"}
-{"id":"01a063d6-4a4b-7e94-a9c4-2de39661ef81","readingSlug":"伶央-伶央","readingName":"伶央","readingKind":"character","character":"lingyang"}
+{"id":"01a063d6-4a4b-7e94-a9c4-2de39661ef81","readingSlug":"伶央-伶央","readingName":"伶央","readingKind":"character","character":"world-character/lingyang"}
