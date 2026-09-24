@@ -21,4 +21,6 @@ export const alanarre = {
   transmuteCrystalAmount: 1249,
   transmuteCrystalCap: 3000,
   data: "json",
+  completionVisibility: "private",
+  settings: "json",
 } as const satisfies TemperAccount

@@ -103,7 +103,7 @@
 {"propertySlug":"name-format","path":"temper/player/character/skill-activation/properties/damage-type.text-property.ts","id":"01a05fcd-f549-776e-8c14-650e3911df93"}
 {"propertySlug":"name-format","path":"temper/player/character/skill-activation/properties/scaling-kind.text-property.ts","id":"01a05fcd-f549-7dc9-9a01-64ab56ce9e42"}
 {"propertySlug":"name-format","path":"temper/player/character/skill-activation/properties/scaling-stat.text-property.ts","id":"01a05fcd-f54a-75a0-bc25-2cecd3de2578"}
-{"propertySlug":"name-format","path":"temper/player/character/temper-player/properties/completion-visibility.text-property.ts","id":"01a05fcd-f557-7c35-987a-480c078751bb"}
+{"propertySlug":"name-format","path":"temper/player/character/temper-account/properties/completion-visibility.text-property.ts","id":"01a05fcd-f557-7c35-987a-480c078751bb"}
 {"propertySlug":"name-format","path":"temper/player/progress/temper-activity-category/properties/badge-variant.text-property.ts","id":"01a05fc9-9a00-724c-8bd4-be27362863ab"}
 {"propertySlug":"name-format","path":"temper/player/progress/temper-completion-category/properties/tab.text-property.ts","id":"01a05fcb-d656-76c2-a3f2-90971971c3c3"}
 {"propertySlug":"name-format","path":"temper/player/progress/temper-metric-tree/properties/node-type.text-property.ts","id":"01a05fcb-d655-73ba-a6da-f60c6c48e6b4"}
