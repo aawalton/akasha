@@ -57,7 +57,6 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.ts"}
-{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/rewrite-account-page-values/rewrite-account-page-values.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts"}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts"}
 {"propertySlug":"parts","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}

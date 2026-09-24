@@ -1338,7 +1338,6 @@
 {"propertySlug":"decision-kind","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.ts","id":"01a081b9-ad8c-70a8-ab31-382461b45312"}
 {"propertySlug":"decision-kind","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.ts","id":"01a08287-d90b-7f07-9a9e-bf6209c40126"}
 {"propertySlug":"decision-kind","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.ts","id":"01a0828f-8c20-74d5-b11c-d220948452b4"}
-{"propertySlug":"decision-kind","path":"change/agent/page-type/rewrite-account-page-values/rewrite-account-page-values.change-agent.ts","id":"01a0d425-7b40-764e-9b26-d0087252cc22"}
 {"propertySlug":"decision-kind","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts","id":"01a095a8-fcf7-7a63-8a11-80ee5c1a3025"}
 {"propertySlug":"decision-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
 {"propertySlug":"decision-kind","path":"change/change.page-type.ts","id":"01a05df1-e261-76a1-ad1e-0db3d857450e"}
