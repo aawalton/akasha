@@ -32,6 +32,10 @@ export const temperPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What opening the window called for later has run before the picture is taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The window a call names says which addon comes up and what opens that window.",
     },
     {

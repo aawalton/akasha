@@ -7,7 +7,10 @@ import { refusedBy, told } from "akasha/command/modules/answering/command-answer
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { temperPicture as page } from "akasha/command/pages/temper/picture/temper-picture.command.ts"
 import { takePicture } from "akasha/temper/eso/ui-harness/modules/ui-picture/ui-picture.module.code.ts"
-import { stageUiHarness } from "akasha/temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts"
+import {
+  settled,
+  stageUiHarness,
+} from "akasha/temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts"
 import {
   uiWindowNamed,
   uiWindowSlugs,
@@ -47,6 +50,7 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
   })
   try {
     await staged.harness.load(window.opens)
+    await settled(staged.harness)
     const snapshot = await staged.harness.snapshot(window.control)
     if (snapshot === null) {
       return refusedBy([
