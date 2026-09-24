@@ -1,8 +1,8 @@
 {"id":"01a06168-62b1-703d-895d-fd45ad4f079e","esoAntiquityId":40,"antiquityName":"Ancestral Nord: Legs","esoAntiquitySetId":0,"totalLoreEntries":1}
 {"id":"01a06168-62b1-7b83-9b4f-eb13903d6d54","esoAntiquityId":42,"antiquityName":"Ancestral Nord: Shields","esoAntiquitySetId":0,"totalLoreEntries":1}
-{"id":"01a06168-62b1-72ac-aeac-6aa59595117b","esoAntiquityId":63,"antiquityName":"Aligned Dwarven Plates","esoAntiquitySetId":6,"totalLoreEntries":1}
+{"id":"01a06168-62b1-72ac-aeac-6aa59595117b","esoAntiquityId":63,"antiquityName":"Aligned Dwarven Plates","esoAntiquitySetId":6,"set":"temper-antiquity-set/antiquity-set-6","totalLoreEntries":1}
 {"id":"01a06168-62b1-7a97-83c2-0f3adc4af80b","esoAntiquityId":85,"antiquityName":"Antique Map of Eastmarch","esoAntiquitySetId":0,"totalLoreEntries":3}
-{"id":"01a06168-62b1-70dd-a9bc-c56fc2b2a990","esoAntiquityId":116,"antiquityName":"Snowy Sabre Cat Fur Strip","esoAntiquitySetId":9,"totalLoreEntries":3}
+{"id":"01a06168-62b1-70dd-a9bc-c56fc2b2a990","esoAntiquityId":116,"antiquityName":"Snowy Sabre Cat Fur Strip","esoAntiquitySetId":9,"set":"temper-antiquity-set/antiquity-set-9","totalLoreEntries":3}
 {"id":"01a06168-62b1-7e6a-a42b-bc36a8ae0883","esoAntiquityId":174,"antiquityName":"Nord Copper Shield Boss","esoAntiquitySetId":0,"totalLoreEntries":3}
 {"id":"01a06168-62b1-7204-8529-c7c63caf332b","esoAntiquityId":175,"antiquityName":"Wolf-head Brooch","esoAntiquitySetId":0,"totalLoreEntries":3}
 {"id":"01a06168-62b1-7612-9a6e-2c903d59382e","esoAntiquityId":176,"antiquityName":"Royal Ivory Hilt","esoAntiquitySetId":0,"totalLoreEntries":1}

@@ -11,6 +11,7 @@ export const temperAntiquityCategory = {
     "number-property/eso-antiquity-id",
     "number-property/total-lore-entries",
     "page-property-entry/antiquities",
+    "relation-property/antiquity-set",
     "text-property/antiquity-name",
   ],
   properties: [

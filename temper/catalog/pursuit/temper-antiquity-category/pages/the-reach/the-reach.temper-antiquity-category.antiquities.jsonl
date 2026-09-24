@@ -12,15 +12,15 @@
 {"id":"01a06168-62b2-7ff2-a290-6d57460b6857","esoAntiquityId":327,"antiquityName":"Ancestral Reach: Shoulders","esoAntiquitySetId":0,"totalLoreEntries":1}
 {"id":"01a06168-62b2-7e9d-b565-47c20bbf4043","esoAntiquityId":328,"antiquityName":"Ancestral Reach: Staves","esoAntiquitySetId":0,"totalLoreEntries":1}
 {"id":"01a06168-62b2-7280-b34e-9313c8520540","esoAntiquityId":329,"antiquityName":"Ancestral Reach: Swords","esoAntiquitySetId":0,"totalLoreEntries":1}
-{"id":"01a06168-62b2-77fd-986e-0bd9ab926ef7","esoAntiquityId":335,"antiquityName":"Pale Order's Golden Band","esoAntiquitySetId":15,"totalLoreEntries":3}
-{"id":"01a06168-62b2-70fb-b70c-58b6ed8dc61f","esoAntiquityId":340,"antiquityName":"Silver Strand of Syrabane","esoAntiquitySetId":16,"totalLoreEntries":3}
-{"id":"01a06168-62b2-7983-86b9-c33dc63ec62c","esoAntiquityId":345,"antiquityName":"Thin Dwarven Hinges","esoAntiquitySetId":17,"totalLoreEntries":1}
-{"id":"01a06168-62b2-7f4b-aef5-d3c7e98a5968","esoAntiquityId":346,"antiquityName":"Sloped Dwarven Stalks","esoAntiquitySetId":17,"totalLoreEntries":1}
-{"id":"01a06168-62b2-734d-be4f-ad14d071c54d","esoAntiquityId":347,"antiquityName":"Golden Dwarven Thorax","esoAntiquitySetId":17,"totalLoreEntries":1}
-{"id":"01a06168-62b2-7117-b70b-e2b5536e4ea7","esoAntiquityId":348,"antiquityName":"Dwarven Internal Machinery","esoAntiquitySetId":17,"totalLoreEntries":1}
-{"id":"01a06168-62b2-7aac-887a-23ff699d8de5","esoAntiquityId":349,"antiquityName":"Faceted Dwarven Wings","esoAntiquitySetId":17,"totalLoreEntries":1}
-{"id":"01a06168-62b2-76ae-b269-721249be6d2d","esoAntiquityId":350,"antiquityName":"Dwarven Segmented Legs","esoAntiquitySetId":17,"totalLoreEntries":1}
-{"id":"01a06168-62b2-7bd1-a9af-19249ae3ce8b","esoAntiquityId":351,"antiquityName":"Dwarven Scarab Head","esoAntiquitySetId":17,"totalLoreEntries":1}
+{"id":"01a06168-62b2-77fd-986e-0bd9ab926ef7","esoAntiquityId":335,"antiquityName":"Pale Order's Golden Band","esoAntiquitySetId":15,"set":"temper-antiquity-set/antiquity-set-15","totalLoreEntries":3}
+{"id":"01a06168-62b2-70fb-b70c-58b6ed8dc61f","esoAntiquityId":340,"antiquityName":"Silver Strand of Syrabane","esoAntiquitySetId":16,"set":"temper-antiquity-set/antiquity-set-16","totalLoreEntries":3}
+{"id":"01a06168-62b2-7983-86b9-c33dc63ec62c","esoAntiquityId":345,"antiquityName":"Thin Dwarven Hinges","esoAntiquitySetId":17,"set":"temper-antiquity-set/antiquity-set-17","totalLoreEntries":1}
+{"id":"01a06168-62b2-7f4b-aef5-d3c7e98a5968","esoAntiquityId":346,"antiquityName":"Sloped Dwarven Stalks","esoAntiquitySetId":17,"set":"temper-antiquity-set/antiquity-set-17","totalLoreEntries":1}
+{"id":"01a06168-62b2-734d-be4f-ad14d071c54d","esoAntiquityId":347,"antiquityName":"Golden Dwarven Thorax","esoAntiquitySetId":17,"set":"temper-antiquity-set/antiquity-set-17","totalLoreEntries":1}
+{"id":"01a06168-62b2-7117-b70b-e2b5536e4ea7","esoAntiquityId":348,"antiquityName":"Dwarven Internal Machinery","esoAntiquitySetId":17,"set":"temper-antiquity-set/antiquity-set-17","totalLoreEntries":1}
+{"id":"01a06168-62b2-7aac-887a-23ff699d8de5","esoAntiquityId":349,"antiquityName":"Faceted Dwarven Wings","esoAntiquitySetId":17,"set":"temper-antiquity-set/antiquity-set-17","totalLoreEntries":1}
+{"id":"01a06168-62b2-76ae-b269-721249be6d2d","esoAntiquityId":350,"antiquityName":"Dwarven Segmented Legs","esoAntiquitySetId":17,"set":"temper-antiquity-set/antiquity-set-17","totalLoreEntries":1}
+{"id":"01a06168-62b2-7bd1-a9af-19249ae3ce8b","esoAntiquityId":351,"antiquityName":"Dwarven Scarab Head","esoAntiquitySetId":17,"set":"temper-antiquity-set/antiquity-set-17","totalLoreEntries":1}
 {"id":"01a06168-62b2-7171-81bd-baa6825fd1e4","esoAntiquityId":352,"antiquityName":"Arkthzand Insight Vertex Shroud","esoAntiquitySetId":0,"totalLoreEntries":1}
 {"id":"01a06168-62b2-72aa-a608-841f353a4874","esoAntiquityId":353,"antiquityName":"Red Eagle Cave Painting","esoAntiquitySetId":0,"totalLoreEntries":3}
 {"id":"01a06168-62b2-79f4-be17-bf01c56867f7","esoAntiquityId":354,"antiquityName":"Vampiric Stained Glass","esoAntiquitySetId":0,"totalLoreEntries":3}

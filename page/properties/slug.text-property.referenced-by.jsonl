@@ -261,6 +261,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-trait/properties/weapon-trait.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/gear/thing/properties/debuff-id.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievement-category-parent.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/pursuit/temper-antiquity-category/properties/antiquity-set.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/pursuit/temper-collectible-category/properties/collectible-category-parent.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/pursuit/temper-research-line/properties/research-line-craft.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/skill/line/properties/skill-line-category.relation-property.types.ts","typed":true,"deferred":false}

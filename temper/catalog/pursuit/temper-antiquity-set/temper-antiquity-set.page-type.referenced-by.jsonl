@@ -58,3 +58,4 @@
 {"propertySlug":"import","fileName":"temper-antiquity-set.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-set/pages/antiquity-set-8/antiquity-set-8.temper-antiquity-set.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-antiquity-set.page-type.types.ts","path":"temper/catalog/pursuit/temper-antiquity-set/pages/antiquity-set-9/antiquity-set-9.temper-antiquity-set.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
+{"propertySlug":"target-page-type","path":"temper/catalog/pursuit/temper-antiquity-category/properties/antiquity-set.relation-property.ts","id":"01a0d5cf-fa9e-7e4c-9f8f-ccc20e484d78"}

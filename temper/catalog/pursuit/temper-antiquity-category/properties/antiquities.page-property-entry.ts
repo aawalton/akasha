@@ -10,6 +10,7 @@ export const antiquities = {
     { pageProperty: "number-property/eso-antiquity-id", required: true, many: false },
     { pageProperty: "text-property/antiquity-name", required: true, many: false },
     { pageProperty: "number-property/eso-antiquity-set-id", required: true, many: false },
+    { pageProperty: "relation-property/antiquity-set", required: false, many: false },
     { pageProperty: "number-property/total-lore-entries", required: true, many: false },
   ],
   decisions: [
