@@ -2709,6 +2709,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/cpu/kind/pages/throttled.cpu-kind.ts","id":"01a0918b-bdc8-77e7-834a-16d48b13473c"}
 {"propertySlug":"decision-kind","path":"infrastructure/cpu/kind/pages/utilization.cpu-kind.ts","id":"01a0918b-7688-7fb8-a940-bbcdee460ae4"}
 {"propertySlug":"decision-kind","path":"infrastructure/cpu/limit/cpu-limit.domain.ts","id":"01a09185-b1c1-72a5-80f6-cd1ba1a44dd6"}
+{"propertySlug":"decision-kind","path":"infrastructure/cpu/limit/properties/cpu-share.number-property.ts","id":"01a0d5a4-0c8c-708b-a9db-f61bee1c7566"}
 {"propertySlug":"decision-kind","path":"infrastructure/eso-rig/entrypoint/eso-rig-entrypoint.shell-script.ts","id":"01a06866-58f8-7ecd-b4cb-5a4541c4ce02"}
 {"propertySlug":"decision-kind","path":"infrastructure/eso-rig/eso-rig.domain.ts","id":"01a06866-58f8-7e5f-853a-325ce7e59667"}
 {"propertySlug":"decision-kind","path":"infrastructure/eso-rig/image/eso-rig-image.container-recipe.ts","id":"01a06866-58f8-7e1d-aa92-5be1e93a86f2"}

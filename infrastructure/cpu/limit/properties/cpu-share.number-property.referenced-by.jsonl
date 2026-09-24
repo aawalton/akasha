@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"cpu-share.number-property.ts","path":"agent/seat/launching/seat-launching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cpu-share.number-property.types.ts","path":"agent/seat/seat.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"cpu-share.number-property.types.ts","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
+{"propertySlug":"page-property","path":"infrastructure/machine/provisioning/provisioned-file/provisioned-file.page-type.ts","id":"01a06861-49aa-70de-9ba6-733c82989f81"}
+{"propertySlug":"parts","path":"infrastructure/cpu/limit/cpu-limit.domain.ts","id":"01a09185-b1c1-72a5-80f6-cd1ba1a44dd6"}

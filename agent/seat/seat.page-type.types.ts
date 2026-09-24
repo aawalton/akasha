@@ -21,6 +21,7 @@ import type { TranscriptPath } from "akasha/agent/seat/properties/transcript-pat
 import type { TurnPending } from "akasha/agent/seat/properties/turn-pending.record-property.types.ts"
 import type { TurnWorking } from "akasha/agent/seat/properties/turn-working.record-property.types.ts"
 import type { WorkingColor } from "akasha/agent/seat/properties/working-color.computed-property.types.ts"
+import type { CpuShare } from "akasha/infrastructure/cpu/limit/properties/cpu-share.number-property.types.ts"
 
 export type Seat = Agent & {
   persona: SeatPersona
@@ -45,4 +46,5 @@ export type Seat = Agent & {
   subagentRefusals?: SubagentRefusals
   workingColor?: WorkingColor
   conversation?: Conversation
+  cpuShare?: CpuShare
 }

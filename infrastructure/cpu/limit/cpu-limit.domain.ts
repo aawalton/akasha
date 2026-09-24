@@ -65,4 +65,5 @@ export const cpuLimit = {
         "A processor ceiling drives down what a run spends rather than keeping the host safe from that run.",
     },
   ],
+  parts: ["number-property/cpu-share"],
 } as const satisfies Domain

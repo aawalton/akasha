@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-principal/seat-principal.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/launching/seat-launching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"agent/seat/modules/beside/seat-beside.module.code.ts","typed":false,"deferred":false}

@@ -190,6 +190,12 @@ export const seat = {
     },
     { pageProperty: "computed-property/working-color", required: false, many: false },
     { pageProperty: "computed-property/conversation", required: false, many: false },
+    {
+      pageProperty: "number-property/cpu-share",
+      required: false,
+      many: false,
+      default: "100",
+    },
   ],
   titleColoredBy: "computed-property/working-color",
   loadedBy: "module/agent-stated",

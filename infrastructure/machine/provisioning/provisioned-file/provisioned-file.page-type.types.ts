@@ -1,4 +1,5 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+import type { CpuShare } from "akasha/infrastructure/cpu/limit/properties/cpu-share.number-property.types.ts"
 import type { Content } from "akasha/infrastructure/machine/provisioning/provisioned-file/properties/content.file-property.types.ts"
 import type { Filling } from "akasha/infrastructure/machine/provisioning/provisioned-file/properties/filling.module-property-group.ts"
 import type { InstallPath } from "akasha/infrastructure/machine/provisioning/provisioned-file/properties/install-path.text-property.types.ts"
@@ -14,5 +15,6 @@ export type ProvisionedFile = Domain & {
   installPath?: InstallPath
   reloadWith?: ReloadWith
   filling?: Filling
+  cpuShare?: CpuShare
   maskedUnits?: MaskedUnits
 }

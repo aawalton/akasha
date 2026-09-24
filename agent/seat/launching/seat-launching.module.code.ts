@@ -4,7 +4,10 @@ import {
   supervisorRel,
 } from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
 import { sessionHeld } from "akasha/agent/seat/modules/tmux-session/tmux-session.module.code.ts"
+import { seat } from "akasha/agent/seat/seat.page-type.ts"
+import { cpuShare } from "akasha/infrastructure/cpu/limit/properties/cpu-share.number-property.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TMUX_HISTORY_LIMIT = "50000"
@@ -21,7 +24,14 @@ const HEADLESS_FLAG = "--headless"
 
 const SCOPE_COMMAND = "systemd-run"
 
-const SEAT_SHARE = 100
+function seatShare(): number {
+  for (const one of seat.properties) {
+    if (slugOf(one.pageProperty) === cpuShare.slug && "default" in one) return Number(one.default)
+  }
+  throw new Error(`the seat page type states no default \`${cpuShare.slug}\``)
+}
+
+const SEAT_SHARE = seatShare()
 
 const SEAT_TASKS = 2000
 

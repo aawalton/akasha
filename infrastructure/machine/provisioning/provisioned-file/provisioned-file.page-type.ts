@@ -48,6 +48,7 @@ export const provisionedFile = {
     { pageProperty: "text-property/install-path", required: false, many: false },
     { pageProperty: "text-property/reload-with", required: false, many: false },
     { pageProperty: "module-property-group/filling", required: false, many: false },
+    { pageProperty: "number-property/cpu-share", required: false, many: false },
     { pageProperty: "text-property/masked-units", required: false, many: true, maxCount: null },
   ],
   decisions: [
