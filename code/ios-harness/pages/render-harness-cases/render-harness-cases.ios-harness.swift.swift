@@ -86,10 +86,15 @@ func cases(now: Date) -> [RenderCase] {
     let heldSevenDayBack = ms(26 * 3600 + 60)
     let heldSevenDayEnds = ms(152 * 3600 + 60)
 
+    // THE WORDS ARE THE ONES THE FOUR CLAUDE USAGE READOUTS' PAGES STATE.
     func claude(fiveHourBackAt: String) -> String {
         """
         {"avgUsedPct":76,"fiveHourBackAt":\(fiveHourBackAt),\
-        "sevenDayBackAt":\(heldSevenDayBack),"sevenDayEndsAt":\(heldSevenDayEnds),"tier":"yellow"}
+        "sevenDayBackAt":\(heldSevenDayBack),"sevenDayEndsAt":\(heldSevenDayEnds),"tier":"yellow",\
+        "readouts":{"five-hour-back":{"label":"5h back","unit":"hours"},\
+        "weekly-back":{"label":"7d back","unit":"hours"},\
+        "weekly-ends":{"label":"7d ends","unit":"hours"},\
+        "weekly-usage":{"label":"Weekly Usage","unit":"%"}}}
         """
     }
 

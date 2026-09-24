@@ -4,6 +4,7 @@ import WidgetKit
 private struct ClaudeUsageRing: View {
     let percent: Int?
     let ringColor: Color
+    let words: ReadoutWords?
 
     var body: some View {
         Ring(
@@ -17,7 +18,7 @@ private struct ClaudeUsageRing: View {
             lineCap: .round,
             caption: RingCaption(
                 spacing: SPACING_2,
-                text: "Weekly Usage",
+                text: words?.label,
                 font: .system(size: 13, weight: .medium),
                 style: AnyShapeStyle(Color(.secondaryLabel))
             )
@@ -26,8 +27,8 @@ private struct ClaudeUsageRing: View {
                 Text(percent.map { "\($0)" } ?? "—")
                     .font(.system(size: 42, weight: .bold, design: .rounded))
                     .foregroundStyle(Color(.label))
-                if percent != nil {
-                    Text("%")
+                if percent != nil, let unit = words?.unit {
+                    Text(unit)
                         .font(.system(size: 16, weight: .semibold, design: .rounded))
                         .foregroundStyle(Color(.secondaryLabel))
                 }
@@ -44,15 +45,15 @@ private struct ClaudeUsageRows: View {
 
     var body: some View {
         Grid(alignment: .leading, horizontalSpacing: SPACING_2, verticalSpacing: SPACING_2) {
-            row("5h back", usage?.fiveHourBackAt)
-            row("7d back", usage?.sevenDayBackAt)
-            row("7d ends", usage?.sevenDayEndsAt)
+            row(ClaudeUsage.FIVE_HOUR_BACK, usage?.fiveHourBackAt)
+            row(ClaudeUsage.WEEKLY_BACK, usage?.sevenDayBackAt)
+            row(ClaudeUsage.WEEKLY_ENDS, usage?.sevenDayEndsAt)
         }
     }
 
-    private func row(_ label: String, _ instant: Int?) -> some View {
+    private func row(_ wireKey: String, _ instant: Int?) -> some View {
         GridRow {
-            Text(label)
+            Text(usage?.readouts[wireKey]?.label ?? "")
                 .font(.system(size: 13, weight: .medium))
                 .foregroundStyle(Color(.secondaryLabel))
             Text(usage == nil ? "—" : ClaudeUsage.countdown(to: instant))
@@ -108,7 +109,8 @@ struct ClaudeUsageHomeView: View {
     private var ring: some View {
         ClaudeUsageRing(
             percent: usage?.avgUsedPct,
-            ringColor: usage?.tier.fill ?? Color(.systemGray3)
+            ringColor: usage?.tier.fill ?? Color(.systemGray3),
+            words: usage?.readouts[ClaudeUsage.WEEKLY_USAGE]
         )
     }
 }

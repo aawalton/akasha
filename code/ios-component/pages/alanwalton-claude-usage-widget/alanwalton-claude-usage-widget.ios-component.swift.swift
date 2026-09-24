@@ -12,7 +12,13 @@ enum ClaudeUsageFeed: WidgetFeed {
             fiveHourBackAt: msFromNow(47 * 60),
             sevenDayBackAt: msFromNow(26 * 3600),
             sevenDayEndsAt: msFromNow(31 * 3600),
-            tier: .yellow
+            tier: .yellow,
+            readouts: [
+                ClaudeUsage.WEEKLY_USAGE: ReadoutWords(label: "Weekly Usage", unit: "%"),
+                ClaudeUsage.FIVE_HOUR_BACK: ReadoutWords(label: "5h back", unit: "hours"),
+                ClaudeUsage.WEEKLY_BACK: ReadoutWords(label: "7d back", unit: "hours"),
+                ClaudeUsage.WEEKLY_ENDS: ReadoutWords(label: "7d ends", unit: "hours"),
+            ]
         )
     }
 }

@@ -1828,6 +1828,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-app/scripts/build-stamp/build-stamp.shell-script.ts","id":"01a05934-fe0c-75ac-a104-88e6686eb2af"}
 {"propertySlug":"decision-kind","path":"code/ios-app/scripts/write-capacitor-config/write-capacitor-config.shell-script.ts","id":"01a05934-fe0e-7785-bb6a-bdfc081e0a63"}
 {"propertySlug":"decision-kind","path":"code/ios-component/ios-component.page-type.ts","id":"01a05472-ab84-78cc-8758-9f95622d1b04"}
+{"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-claude-usage-view/alanwalton-claude-usage-view.ios-component.ts","id":"01a05835-69d9-7bdc-8a4e-5c99b08be34b"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-claude-usage-widget/alanwalton-claude-usage-widget.ios-component.ts","id":"01a05835-69da-7412-b864-9a97dd228bc6"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-cost-widget/alanwalton-cost-widget.ios-component.ts","id":"01a08bb4-3dee-7e6f-8126-950faba3221d"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/alanwalton-device-secret-reader/alanwalton-device-secret-reader.ios-component.ts","id":"01a05835-69d8-7c13-a335-3861228c1176"}

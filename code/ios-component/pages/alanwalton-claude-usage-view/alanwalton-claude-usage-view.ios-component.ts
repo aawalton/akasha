@@ -6,4 +6,14 @@ export const alanwaltonClaudeUsageView = {
   slug: "alanwalton-claude-usage-view",
   definition: "the drawing of a Claude account usage reading",
   swift: "swift",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each word drawn beside a figure is the one the feed sends for that readout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A figure sent with no words is drawn with none.",
+    },
+  ],
 } as const satisfies IosComponent
