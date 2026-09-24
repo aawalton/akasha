@@ -2,9 +2,9 @@ import { expect, test } from "bun:test"
 import type {
   ImportOutcome,
   ImportRunDeps,
-} from "akasha/alan/harness/health-sample-import/modules/health-import-run/health-import-run.module.code.ts"
-import { MAX_IMPORT_BATCH } from "akasha/alan/harness/health-sample-import/modules/health-import-run/health-import-run.module.code.ts"
-import { NO_LOWER_BOUND } from "akasha/alan/harness/health-sample-import/modules/health-import-run/health-import-run.module.test-fixtures.ts"
+} from "akasha/alan/harness/health-sample/import/modules/health-import-run/health-import-run.module.code.ts"
+import { MAX_IMPORT_BATCH } from "akasha/alan/harness/health-sample/import/modules/health-import-run/health-import-run.module.code.ts"
+import { NO_LOWER_BOUND } from "akasha/alan/harness/health-sample/import/modules/health-import-run/health-import-run.module.test-fixtures.ts"
 import { batch as batchArgument } from "akasha/command/argument/pages/batch.argument.ts"
 import { firstDay } from "akasha/command/argument/pages/first-day.argument.ts"
 import {

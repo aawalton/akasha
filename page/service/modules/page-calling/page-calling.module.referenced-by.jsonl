@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/code-editor/window/modules/window-page-sweeping/window-page-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/cost/modules/stoplight/cost-stoplight.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/health-sample/access/modules/sample-upsert/sample-upsert.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/location-trace-access/modules/trace-insert/trace-insert.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/readout/modules/relay/readout-relay.module.code.ts","typed":false,"deferred":false}

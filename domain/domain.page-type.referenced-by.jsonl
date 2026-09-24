@@ -226,9 +226,10 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/errors-core/errors-core.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/geo-io/geo-io.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/handover-rr/handover-rr.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample-access/health-sample-access.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample-day/health-sample-day.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample-import/health-sample-import.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample/access/health-sample-access.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample/day/health-sample-day.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample/health-sample.domain.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/health-sample/import/health-sample-import.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/imessage/imessage.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/inbox/inbox.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"alan/harness/location-trace-access/location-trace-access.domain.ts","typed":true,"deferred":false}

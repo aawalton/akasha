@@ -2,8 +2,8 @@
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/alan-readout/modules/day-readout-watching/day-readout-watching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/attribute/modules/attributes-reading/attributes-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/day-boundary/modules/eso-day/eso-day.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/health-sample-day/modules/opening-window/opening-window.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/health-sample/access/modules/sample-upsert/sample-upsert.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/health-sample/day/modules/opening-window/opening-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/inbox/modules/count-tick/inbox-count-tick.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-day.module.code.ts","path":"alan/harness/inbox/modules/reading/inbox-reading.module.code.ts","typed":false,"deferred":false}

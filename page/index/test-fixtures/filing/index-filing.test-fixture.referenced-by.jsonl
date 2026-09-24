@@ -9,7 +9,7 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"alan/harness/health-sample-day/modules/opening-window/opening-window.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"alan/harness/health-sample/day/modules/opening-window/opening-window.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"alan/track/daily/modules/day-opening/day-opening.module.test.ts","typed":false,"deferred":false}

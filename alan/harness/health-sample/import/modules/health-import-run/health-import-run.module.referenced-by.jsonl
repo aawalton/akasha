@@ -1,0 +1,8 @@
+{"propertySlug":"import","fileName":"health-import-run.module.code.ts","path":"alan/harness/health-sample/import/modules/health-import-reading/health-import-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"health-import-run.module.code.ts","path":"alan/harness/health-sample/import/modules/health-import-run/health-import-run.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-import-run.module.code.ts","path":"command/pages/track/health-import/track-health-import.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-import-run.module.code.ts","path":"command/pages/track/health-import/track-health-import.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-import-run.module.code.ts","path":"command/pages/track/health-import/track-health-import.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"health-import-run.module.test-fixtures.ts","path":"alan/harness/health-sample/import/modules/health-import-run/health-import-run.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"health-import-run.module.test-fixtures.ts","path":"command/pages/track/health-import/track-health-import.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"alan/harness/health-sample/import/health-sample-import.domain.ts","id":"01a05c14-b11a-7006-9c17-e67776ab45af"}

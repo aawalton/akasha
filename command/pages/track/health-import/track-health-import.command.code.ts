@@ -1,14 +1,14 @@
-import { upsertHealthSamples } from "akasha/alan/harness/health-sample-access/modules/sample-upsert/sample-upsert.module.code.ts"
-import { streamExportLines } from "akasha/alan/harness/health-sample-import/modules/export-fetching/export-fetching.module.code.ts"
-import { buildFetchScript } from "akasha/alan/harness/health-sample-import/modules/health-export/health-export.module.code.ts"
-import { IMPORT_METRICS } from "akasha/alan/harness/health-sample-import/modules/health-import/health-import.module.code.ts"
-import { importReading } from "akasha/alan/harness/health-sample-import/modules/health-import-reading/health-import-reading.module.code.ts"
+import { upsertHealthSamples } from "akasha/alan/harness/health-sample/access/modules/sample-upsert/sample-upsert.module.code.ts"
+import { streamExportLines } from "akasha/alan/harness/health-sample/import/modules/export-fetching/export-fetching.module.code.ts"
+import { buildFetchScript } from "akasha/alan/harness/health-sample/import/modules/health-export/health-export.module.code.ts"
+import { IMPORT_METRICS } from "akasha/alan/harness/health-sample/import/modules/health-import/health-import.module.code.ts"
+import { importReading } from "akasha/alan/harness/health-sample/import/modules/health-import-reading/health-import-reading.module.code.ts"
 import {
   type ImportOutcome,
   type ImportRunDeps,
   MAX_IMPORT_BATCH,
   runHealthImport,
-} from "akasha/alan/harness/health-sample-import/modules/health-import-run/health-import-run.module.code.ts"
+} from "akasha/alan/harness/health-sample/import/modules/health-import-run/health-import-run.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { batch as batchArgument } from "akasha/command/argument/pages/batch.argument.ts"
 import { firstDay } from "akasha/command/argument/pages/first-day.argument.ts"

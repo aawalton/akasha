@@ -116,7 +116,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.ts","id":"01a06848-a27e-756a-aff3-a0c8f31695cb"}
 {"propertySlug":"decision-kind","path":"alan/harness/day-boundary/modules/us-zone-offset/us-zone-offset.computed-property-module.ts","id":"01a05c77-31e6-7877-b124-3f103fd4ac3d"}
 {"propertySlug":"decision-kind","path":"alan/harness/email-routing/email-routing.domain.ts","id":"01a0a134-8b3b-73ff-8e4a-6023f834c680"}
-{"propertySlug":"decision-kind","path":"alan/harness/health-sample-day/modules/active-calories/active-calories.module.ts","id":"01a05bc7-9129-7009-bcbc-7874a1897c8b"}
+{"propertySlug":"decision-kind","path":"alan/harness/health-sample/day/modules/active-calories/active-calories.module.ts","id":"01a05bc7-9129-7009-bcbc-7874a1897c8b"}
 {"propertySlug":"decision-kind","path":"alan/harness/imessage/modules/message-lines/message-lines.module.ts","id":"01a0657e-795c-7000-8a91-fdebae0f4233"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/count-polling/inbox-count-polling.module.ts","id":"01a069b6-bb6b-7e55-a1b8-4f2824914c87"}
 {"propertySlug":"decision-kind","path":"alan/harness/inbox/modules/count-watch/inbox-count-watch.module.ts","id":"01a079de-6d8f-7a3c-b51f-9a53ca155b81"}

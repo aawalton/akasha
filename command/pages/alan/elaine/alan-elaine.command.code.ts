@@ -1,9 +1,9 @@
-import { fetchHealthExport } from "akasha/alan/harness/health-sample-import/modules/export-fetching/export-fetching.module.code.ts"
+import { fetchHealthExport } from "akasha/alan/harness/health-sample/import/modules/export-fetching/export-fetching.module.code.ts"
 import {
   formatSnapshot,
   SNAPSHOT_METRICS,
   summarizeSnapshot,
-} from "akasha/alan/harness/health-sample-import/modules/health-snapshot/health-snapshot.module.code.ts"
+} from "akasha/alan/harness/health-sample/import/modules/health-snapshot/health-snapshot.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { days as daysArgument } from "akasha/command/argument/pages/days.argument.ts"
 import { json } from "akasha/command/argument/pages/json.argument.ts"
