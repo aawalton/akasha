@@ -237,7 +237,7 @@
     {
       "id": "intent-rubric",
       "bands": [
-        "**A creature's intent is rolled, not judged.** A strike a creature makes takes the intent `game-mechanic/creature-intent` answers from its INTELLECT with `--dice 1d10`, unless the encounter's page sets that strike's intent. No entity page carries an intent.",
+        "**A creature's intent is rolled, not judged.** A strike a creature makes takes the intent `game-mechanic/creature-intent` answers from its INTELLECT with `--dice 1d10`. No entity page carries an intent.",
         "0–2: vague/generic (\"I attack\").",
         "3–5: clear, specific, plausible.",
         "6–8: clever, grounded in the fiction/physics, exploits a real opening.",
