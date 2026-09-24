@@ -237,6 +237,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/properties/name-patterns.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/route/properties/url-path.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/rust-module/properties/rust-module-name.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/stylesheet/properties/stylesheet-color-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/type-declaration/properties/written-by.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"code/workspace/properties/tool-reached.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"command/argument/properties/argument-default.text-property.ts"}

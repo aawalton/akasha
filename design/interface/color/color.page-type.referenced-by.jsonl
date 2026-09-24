@@ -26,4 +26,5 @@
 {"propertySlug":"target-page-type","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.ts","id":"01a06d7a-e9f9-7644-9ee4-9ddcf6b723ba"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/readout-color.relation-property.ts","id":"01a0cb2c-aa72-7eb6-8cb5-e5600d14d04f"}
 {"propertySlug":"target-page-type","path":"alan/value/properties/value-color.relation-property.ts","id":"01a06d7a-e9f7-7f1b-b0c4-15f3742e8352"}
+{"propertySlug":"target-page-type","path":"code/stylesheet/properties/stylesheet-color.relation-property.ts","id":"01a0d58f-e044-7401-9ebe-ec348f69d852"}
 {"propertySlug":"target-page-type","path":"page/select-property/properties/select-option-color.relation-property.ts","id":"01a0c532-3208-72dc-b206-6ba84b69e302"}

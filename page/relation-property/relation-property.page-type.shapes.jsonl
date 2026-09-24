@@ -204,6 +204,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"spelling-scope","propertySlug":"scope","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat-mode","unique":null,"uniquePropertySlug":null,"slug":"start-mode","propertySlug":"start-mode","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"phrase-kind","unique":null,"uniquePropertySlug":null,"slug":"start-symbol","propertySlug":"start-symbol","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"color","unique":null,"uniquePropertySlug":null,"slug":"stylesheet-color","propertySlug":"color","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"subagent-kind","unique":null,"uniquePropertySlug":null,"slug":"subagent-kind","propertySlug":"subagent-kind","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-design-entry","unique":null,"uniquePropertySlug":null,"slug":"superseded-entry","propertySlug":"supersedes","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"game-lore-entry","unique":null,"uniquePropertySlug":null,"slug":"superseded-lore","propertySlug":"supersedes","fileName":null,"folderName":null}

@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"alan/music/catalog/track/properties/carried-by.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"alan/music/catalog/track/properties/track-artist.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"alan/track/daily/day/properties/persona-messages.record-property.ts"}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"code/stylesheet/properties/stylesheet-colors.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"code/type-declaration/properties/generated.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"command/properties/command-arguments.record-property.ts"}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"design/game/drive/properties/octalysis.record-property.ts"}

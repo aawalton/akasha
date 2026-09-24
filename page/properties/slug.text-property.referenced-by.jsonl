@@ -101,6 +101,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"code/ios-app/properties/sync-script.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"code/ios-program/properties/components.multi-relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"code/rust-crate/properties/rust-modules.multi-relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"code/stylesheet/properties/stylesheet-color.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"command/argument/properties/argument.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"command/properties/not-with.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"command/properties/one-of.relation-property.types.ts"}

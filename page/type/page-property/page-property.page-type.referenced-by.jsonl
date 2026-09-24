@@ -81,6 +81,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/module/properties/reached-by-path.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/properties/name-patterns.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/rust-crate/properties/rust-modules.multi-relation-property.types.ts"}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/stylesheet/properties/stylesheet-colors.record-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"code/workspace/properties/tool-reached.text-property.types.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"command/modules/install-linking/install-linking.module.test.ts"}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"command/pages/infrastructure/provisioned-file-install/infrastructure-provisioned-file-install.command.test.ts"}

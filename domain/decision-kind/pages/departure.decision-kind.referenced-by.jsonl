@@ -1960,6 +1960,7 @@
 {"propertySlug":"decision-kind","path":"code/stylesheet/modules/source-globbing/source-globbing.change-generator.ts","id":"01a08293-ce34-754b-8be5-2829fd5fb36e"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/properties/reached.file-property.ts","id":"01a0be69-6956-778e-b4d2-535b2dc1b146"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/properties/styles.file-property.ts","id":"01a05b01-48b2-7b95-9b72-f48b799f4e5c"}
+{"propertySlug":"decision-kind","path":"code/stylesheet/properties/stylesheet-colors.record-property.ts","id":"01a0d58f-e044-7855-8409-2f54825f72de"}
 {"propertySlug":"decision-kind","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
 {"propertySlug":"decision-kind","path":"code/terminal/code-terminal.domain.ts","id":"01a0d3dd-91b9-7ba1-9e27-e649e1127230"}
 {"propertySlug":"decision-kind","path":"code/type-declaration/properties/ambient-types.file-property.ts","id":"01a0605a-98f3-7ddc-b839-afde87fe7bbf"}

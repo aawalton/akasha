@@ -13,6 +13,7 @@
 {"propertySlug":"name-format","path":"alan/harness/readout/widget/properties/families.text-property.ts","id":"01a05480-1c89-7261-a8c7-0538e7ae019b"}
 {"propertySlug":"name-format","path":"alan/track/daily/day/properties/to-do-slug.text-property.ts","id":"01a05fd8-c30f-7596-9f3a-87a4dbea614a"}
 {"propertySlug":"name-format","path":"alan/value/health/fitness/strength/log/properties/session-slug.text-property.ts","id":"01a06580-66fd-7412-a20a-d678614e0121"}
+{"propertySlug":"name-format","path":"code/stylesheet/properties/stylesheet-color-name.text-property.ts","id":"01a0d58f-e043-7ada-bcb3-2cb8b31b1116"}
 {"propertySlug":"name-format","path":"command/properties/level-name.text-property.ts","id":"01a093f5-ae9f-72c3-876a-43c8d863335d"}
 {"propertySlug":"name-format","path":"domain/properties/tunnel-route-name.text-property.ts","id":"01a0c68b-a04d-775e-bddf-207adf6b99e0"}
 {"propertySlug":"name-format","path":"graph/predicate/properties/attribute-value.text-property.ts","id":"01a0aa5f-7cce-7766-8bca-9d4677a026ea"}
