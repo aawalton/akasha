@@ -3,8 +3,21 @@ import type { AppliedMove } from "akasha/alan/chess/modules/game-loop/chess-game
 import type { Playing } from "akasha/command/pages/chess/play/chess-play.command.code.ts"
 import { playing } from "akasha/command/pages/chess/play/chess-play.command.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { z } from "zod"
 
 const CALLED = "akasha chess play"
+
+const ENVELOPE_SAID = z.strictObject({
+  slug: z.string(),
+  band: z.number(),
+  color: z.string(),
+  result: z.string(),
+  winner: z.string().nullable(),
+  outcome: z.string(),
+  endReason: z.string(),
+  ply: z.number(),
+  wrote: z.array(z.string()),
+})
 
 const PLAYED_AT = "2026-09-14T00:00:00.000Z"
 
@@ -147,7 +160,7 @@ test("the json answer carries how the game went and what was written", async () 
   const fake = fakeFor()
   const said = await playing(["--json"], fake.ports, CALLED)
   expect(said.code).toBe(0)
-  expect(JSON.parse(said.report.join("\n"))).toEqual({
+  expect(ENVELOPE_SAID.parse(JSON.parse(said.report.join("\n")))).toEqual({
     slug: SLUG,
     band: 1500,
     color: "white",
