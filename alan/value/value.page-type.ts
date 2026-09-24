@@ -69,7 +69,7 @@ export const value = {
       statement: "A value takes no reading of its own.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing draws a value.",
     },
   ],
