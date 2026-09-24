@@ -25,6 +25,7 @@ const LUA = "lua"
 const MODEL_SLUGS: readonly string[] = [
   "ui-place-model",
   "ui-control-model",
+  "ui-control-snapshot",
   "ui-event-model",
   "ui-text-model",
   "ui-scene-model",

@@ -44,10 +44,7 @@ export const uiControlModel = {
       decisionKind: "decision-kind/departure",
       statement: "A caller outside the sandbox runs a handler by naming the control and the event.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A snapshot carries the controls under one control as a tree.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A name read off a control starting with a capital is read as a method.",
@@ -57,11 +54,7 @@ export const uiControlModel = {
       statement:
         "A method the model lacks is counted and answers with the control, so one load finds them all.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A snapshot carries the colors, the insets and the edge texture a control was given.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A color given as anything but numbers leaves the control without a color.",
@@ -151,6 +144,11 @@ export const uiControlModel = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A name another control holds already is left alone rather than built twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A declared window that raises while built is kept as unmade, and the rest are built.",
     },
     {
       decisionKind: "decision-kind/departure",

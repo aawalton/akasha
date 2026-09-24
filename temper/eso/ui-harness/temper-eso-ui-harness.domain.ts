@@ -9,6 +9,7 @@ export const temperEsoUiHarness = {
     "module/game-manifest",
     "lua-module/ui-place-model",
     "lua-module/ui-control-model",
+    "lua-module/ui-control-snapshot",
     "lua-module/ui-event-model",
     "lua-module/ui-scene-model",
     "lua-module/ui-text-model",

@@ -361,62 +361,16 @@ function _G.CreateControlFromVirtual(name, parent, virtual, suffix)
   return WindowManager:CreateControlFromVirtual(name, parent, virtual, suffix)
 end
 
-local function snapshotOf(control)
-  local left, top, width, height = place(control)
-  local children = {}
-  for _, child in ipairs(control.uiChildren) do
-    insert(children, snapshotOf(child))
-  end
-  local anchors = {}
-  for _, anchor in ipairs(control.uiAnchors) do
-    insert(anchors, {
-      point = anchor.point,
-      relativeTo = anchor.relativeTo ~= nil and anchor.relativeTo:GetName() or nil,
-      relativePoint = anchor.relativePoint,
-      offsetX = anchor.offsetX,
-      offsetY = anchor.offsetY,
-    })
-  end
-  local handlers = {}
-  for event in pairs(control.uiHandlers) do insert(handlers, event) end
-  return {
-    name = control.uiName,
-    controlType = control.uiType,
-    virtual = control.uiVirtual,
-    hidden = control.uiHidden,
-    left = left,
-    top = top,
-    width = width,
-    height = height,
-    alpha = control.uiAlpha,
-    text = control.uiText,
-    font = control.uiFont,
-    alignH = control.uiAlignH,
-    alignV = control.uiAlignV,
-    texture = control.uiTexture,
-    color = control.uiColor,
-    centerColor = control.uiCenterColor,
-    edgeColor = control.uiEdgeColor,
-    edgeTexture = control.uiEdgeTexture,
-    insets = control.uiInsets,
-    anchors = anchors,
-    handlers = handlers,
-    children = children,
-  }
-end
-
-function _G.__ui_snapshot(name)
-  local control = name == nil and _G.GuiRoot or named[name]
-  if control == nil then return nil end
-  return snapshotOf(control)
-end
+function _G.__ui_control(name) return named[name] end
 
 function _G.__ui_declare(given)
   local count = 0
   for name, spec in pairs(given) do
     if named[name] == nil then
-      dress(birth(name, _G.GuiRoot, spec.controlType, nil), spec)
-      count = count + 1
+      local ok, thrown = xpcall(function()
+        dress(birth(name, _G.GuiRoot, spec.controlType, nil), spec)
+      end, traced)
+      if ok then count = count + 1 else unmade[name] = tostring(thrown) end
     end
   end
   return count
