@@ -2956,7 +2956,7 @@
           "abilityIndex": 3,
           "morph1": {
             "name": "Echoing Vigor",
-            "rank": 1
+            "rank": 2
           }
         }
       },
@@ -3157,7 +3157,7 @@
           "atMorph": true,
           "morph2": {
             "name": "Sated Fury",
-            "rank": 2
+            "rank": 3
           },
           "currentMorph": 2,
           "isUltimate": false,
@@ -12985,7 +12985,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-22"
+    "date": "2026-09-24"
   },
   "dailyWritStates": {
     "completed": {
@@ -13006,7 +13006,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-22"
+    "date": "2026-09-24"
   },
   "motifKnowledge": {
     "4": {
