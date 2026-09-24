@@ -60,12 +60,12 @@ export const typecheck = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A file a browser alone runs is compiled by `router-app-compiles` rather than here.",
+        "A file a browser alone runs is compiled by `browser-code-compiles` rather than here.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A file a browser runs as well is compiled here and by `router-app-compiles` both.",
+        "A file a browser runs as well is compiled here and by `browser-code-compiles` both.",
     },
     {
       decisionKind: "decision-kind/departure",

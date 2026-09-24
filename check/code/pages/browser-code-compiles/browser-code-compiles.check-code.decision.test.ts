@@ -1,5 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  appOf,
+  appsAmong,
+  appsReached,
+  judgedFor,
+} from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.code.ts"
+import { layingOver } from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.test-fixtures.ts"
+import {
   ADDED_AT,
   ADDED_BREAKS,
   APP,
@@ -11,14 +18,7 @@ import {
   TABLE_AT,
   TABLE_UNREAD,
   written,
-} from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
-import {
-  appOf,
-  appsAmong,
-  appsReached,
-  judgedFor,
-} from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts"
-import { layingOver } from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.test-fixtures.ts"
+} from "akasha/check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

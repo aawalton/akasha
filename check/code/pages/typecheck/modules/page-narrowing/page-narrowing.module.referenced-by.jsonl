@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"page-narrowing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-narrowing.module.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.check.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-narrowing.module.code.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-narrowing.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"check/code/pages/typecheck/typecheck.check-code.ts","id":"01a04bcb-dff4-761a-856e-407fb6934b44"}

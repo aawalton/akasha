@@ -1,4 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
+import { routerAppCompiles } from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.check.code.ts"
+import {
+  APART_AT,
+  appStaged,
+} from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.test-fixtures.ts"
 import {
   BREAKS,
   CONFIG_AT,
@@ -7,12 +12,7 @@ import {
   SHARED_AT,
   SHARING,
   scratch,
-} from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
-import { routerAppCompiles } from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts"
-import {
-  APART_AT,
-  appStaged,
-} from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.test-fixtures.ts"
+} from "akasha/check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
 import {
   change,
   scratch as staging,

@@ -4,7 +4,7 @@ import { join } from "node:path"
 import {
   typegenOf,
   typesUnder,
-} from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.code.ts"
+} from "akasha/check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.code.ts"
 import {
   ADDED_AT,
   ADDED_BREAKS,
@@ -15,7 +15,7 @@ import {
   TABLE_UNREAD,
   treeOver,
   written,
-} from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
+} from "akasha/check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

@@ -1491,6 +1491,8 @@
 {"propertySlug":"decision-kind","path":"change/test-fixtures/shadow-world/shadow-world.test-fixture.ts","id":"01a0a22a-719b-7c23-993c-0df7b2eb43dd"}
 {"propertySlug":"decision-kind","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}
 {"propertySlug":"decision-kind","path":"check/code/check-code.page-type.ts","id":"01a04bc4-7e86-7beb-8dfb-3666785dd3d5"}
+{"propertySlug":"decision-kind","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.ts","id":"01a0d460-edb7-74c0-ab5c-ba4029cf7b17"}
+{"propertySlug":"decision-kind","path":"check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.ts","id":"01a0d460-0e6c-7895-abaa-f432fc55957f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.ts","id":"01a08dbe-1652-7000-bba4-cd7488c7a8ec"}
 {"propertySlug":"decision-kind","path":"check/code/pages/calculation-imports-only-types/calculation-imports-only-types.check-code.ts","id":"01a07222-b261-7961-a84e-6a8e0c0e5ed3"}
 {"propertySlug":"decision-kind","path":"check/code/pages/change-is-reached-through-a-runner/change-is-reached-through-a-runner.check-code.ts","id":"01a09bac-a3ec-74c7-8af0-d1eee1c41021"}
@@ -1609,8 +1611,6 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/repository-is-written-by-a-change/repository-is-written-by-a-change.check-code.ts","id":"01a08299-65c2-7c83-9d05-8a3e841dfe48"}
 {"propertySlug":"decision-kind","path":"check/code/pages/require-import-extension/require-import-extension.check-code.ts","id":"01a04bcb-c714-7fdf-aa64-e2ff68d4f69b"}
 {"propertySlug":"decision-kind","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.ts","id":"01a058ff-fbf9-76dc-8437-ad9a61e75657"}
-{"propertySlug":"decision-kind","path":"check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.ts","id":"01a0d460-0e6c-7895-abaa-f432fc55957f"}
-{"propertySlug":"decision-kind","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.ts","id":"01a0d460-edb7-74c0-ab5c-ba4029cf7b17"}
 {"propertySlug":"decision-kind","path":"check/code/pages/shell-clean/shell-clean.check-code.ts","id":"01a05991-d997-76f5-a619-6ddb7444c34f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/swift-parses/swift-parses.check-code.ts","id":"01a0d58c-dd89-71ff-aa5d-ad876fa7323c"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts","id":"01a0b7c9-d8d8-78e8-bb82-9ac8ee8f4e4b"}

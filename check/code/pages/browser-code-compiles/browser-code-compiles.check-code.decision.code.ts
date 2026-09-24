@@ -5,7 +5,7 @@ import {
   type Typegen,
   typegenOf,
   typesUnder,
-} from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.code.ts"
+} from "akasha/check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.code.ts"
 import {
   declarationOver,
   everyStylesheetOut,
@@ -22,7 +22,7 @@ import { routeTable } from "akasha/code/router-app/properties/route-table.code-f
 import { routeTypesDirectory } from "akasha/code/router-app/properties/route-types-directory.build-folder-property.ts"
 import { API } from "typescript-7/unstable/async"
 
-const COMPILED_AT = "tsconfig.router-app-compiles.json"
+const COMPILED_AT = "tsconfig.browser-code-compiles.json"
 
 const PACKAGES = "node_modules"
 

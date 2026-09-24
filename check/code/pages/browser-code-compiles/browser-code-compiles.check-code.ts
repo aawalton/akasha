@@ -1,10 +1,10 @@
 import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
-export const routerAppCompiles = {
+export const browserCodeCompiles = {
   id: "01a0d460-edb7-74c0-ab5c-ba4029cf7b17",
   type: "page-type/check-code",
-  slug: "router-app-compiles",
-  definition: "the check refusing a change a router app does not compile under",
+  slug: "browser-code-compiles",
+  definition: "the check refusing a change the code a browser runs does not compile under",
   parts: ["module/route-typegen"],
   runsOnChange: true,
   runsOnDeploy: true,

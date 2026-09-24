@@ -1,11 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
+import { routerAppCompiles } from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.audit.code.ts"
+import { appStaged } from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.test-fixtures.ts"
 import {
   BREAKS,
   ROUTE_AT,
   scratch,
-} from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
-import { routerAppCompiles } from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.audit.code.ts"
-import { appStaged } from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.test-fixtures.ts"
+} from "akasha/check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
 import { tracked } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratch as staging } from "akasha/check/test-fixtures/staging/check-staging.test-fixture.code.ts"
 

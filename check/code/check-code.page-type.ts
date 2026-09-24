@@ -72,7 +72,7 @@ export const checkCode = {
     "check-code/repository-is-written-by-a-change",
     "check-code/require-import-extension",
     "check-code/restatement-narrows-something",
-    "check-code/router-app-compiles",
+    "check-code/browser-code-compiles",
     "check-code/shell-clean",
 
     "check-code/tests-pass",

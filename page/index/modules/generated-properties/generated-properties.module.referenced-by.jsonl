@@ -1,5 +1,5 @@
+{"propertySlug":"import","fileName":"generated-properties.module.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.check.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"generated-properties.module.code.ts","path":"check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"generated-properties.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"generated-properties.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"generated-properties.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"generated-properties.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts","typed":true,"deferred":false}

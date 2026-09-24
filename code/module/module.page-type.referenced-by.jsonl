@@ -904,6 +904,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/value-spelling/value-spelling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/runner/change-runner.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/runner/modules/change-loading/change-loading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/file-length/modules/length-ceiling/length-ceiling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/folder-matches-a-shape/modules/collection-parts/collection-parts.module.ts","typed":true,"deferred":false}
@@ -925,7 +926,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/no-unused-modules/modules/slug-spelling/slug-spelling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.ts","typed":true,"deferred":false}

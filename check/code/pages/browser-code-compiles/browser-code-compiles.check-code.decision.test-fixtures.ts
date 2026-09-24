@@ -1,10 +1,10 @@
+import type { Laying } from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.code.ts"
 import {
   APP,
   APP_FILES,
   laidOver,
   linkedPackages,
-} from "akasha/check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
-import type { Laying } from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts"
+} from "akasha/check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.test-fixtures.ts"
 import {
   bodied,
   named,

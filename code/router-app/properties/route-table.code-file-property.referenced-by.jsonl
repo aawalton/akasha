@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"route-table.code-file-property.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"route-table.code-file-property.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route-table.code-file-property.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route-table.code-file-property.ts","path":"page/modules/reference-reading/page-reference-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route-table.code-file-property.types.ts","path":"code/router-app/router-app.page-type.types.ts","typed":true,"deferred":false}

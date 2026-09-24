@@ -4,7 +4,7 @@ import {
   appsReached,
   judgedFor,
   type Laying,
-} from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts"
+} from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.code.ts"
 import { mintingIn } from "akasha/check/code/pages/typecheck/modules/page-narrowing/page-narrowing.module.code.ts"
 import {
   browserRefusalsOver,

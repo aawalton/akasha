@@ -1,7 +1,7 @@
 import {
   appsAmong,
   judgedFor,
-} from "akasha/check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts"
+} from "akasha/check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.code.ts"
 import { browserRefusalsFor } from "akasha/check/code/pages/typecheck/typecheck.check-code.decision.code.ts"
 import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"

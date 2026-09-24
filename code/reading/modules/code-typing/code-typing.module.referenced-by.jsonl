@@ -8,14 +8,14 @@
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"change/modules/property-signature-renaming/property-signature-renaming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"change/modules/slug-renaming/slug-renaming.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.audit.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.check.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.audit.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/global-declared-once/global-declared-once.check-code.check.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/global-is-set-before-it-is-read/global-is-set-before-it-is-read.check-code.check.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/no-global-in-a-module/no-global-in-a-module.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/no-unused-modules/modules/bundle-reaching/bundle-reaching.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.audit.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/typecheck/modules/browser-reach/browser-reach.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/typecheck/modules/stylesheet-declaring/stylesheet-declaring.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-typing.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts","typed":false,"deferred":false}

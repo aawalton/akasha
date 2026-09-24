@@ -6,6 +6,8 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/modules/shadow/change-shadow.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/runner/change-generators/addressing/change-runner-addressing.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.check.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.check.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/calculation-imports-only-types/calculation-imports-only-types.check-code.check.test.ts","typed":false,"deferred":false}
@@ -132,8 +134,6 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/require-import-extension/require-import-extension.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.test.ts","typed":false,"deferred":false}

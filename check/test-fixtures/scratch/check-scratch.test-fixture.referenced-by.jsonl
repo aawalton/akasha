@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.audit.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.audit.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/calculation-imports-only-types/calculation-imports-only-types.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/change-reaches-its-own-target-type/change-reaches-its-own-target-type.check-code.audit.test.ts","typed":false,"deferred":false}
@@ -131,7 +132,6 @@
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/restatement-narrows-something/restatement-narrows-something.check-code.decision.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/router-app-compiles/router-app-compiles.check-code.audit.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"check-scratch.test-fixture.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.audit.test.ts","typed":false,"deferred":false}

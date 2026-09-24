@@ -195,6 +195,7 @@
 {"propertySlug":"decision-kind","path":"change/modules/import-lines/import-lines.module.ts","id":"01a08cda-348f-7c87-89fb-04be4a6a3124"}
 {"propertySlug":"decision-kind","path":"change/modules/name-binding/name-binding.module.ts","id":"01a0a67e-333d-7266-bf7a-3c5e63cb0dfb"}
 {"propertySlug":"decision-kind","path":"change/modules/slug-renaming/slug-renaming.module.ts","id":"01a09c61-7a20-7e53-a461-78bf666a426e"}
+{"propertySlug":"decision-kind","path":"check/code/pages/browser-code-compiles/modules/route-typegen/route-typegen.module.ts","id":"01a0d460-0e6c-7895-abaa-f432fc55957f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/browser-code-reads-the-environment-by-a-name/browser-code-reads-the-environment-by-a-name.check-code.ts","id":"01a08dbe-1652-7000-bba4-cd7488c7a8ec"}
 {"propertySlug":"decision-kind","path":"check/code/pages/client-reaches-a-server-module-through-a-route/client-reaches-a-server-module-through-a-route.check-code.ts","id":"01a0826b-f1ac-77a7-8379-299804f515d2"}
 {"propertySlug":"decision-kind","path":"check/code/pages/file-length/file-length.check-code.ts","id":"01a04bcb-c6e7-7e01-9b01-3cad38df56be"}
@@ -219,7 +220,6 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.check-code.ts","id":"01a04ef8-1a07-722c-a247-40e6a9069ce4"}
 {"propertySlug":"decision-kind","path":"check/code/pages/relation-resolves/relation-resolves.check-code.ts","id":"01a04d99-71ca-7e06-9f74-3a462cb7d4fb"}
 {"propertySlug":"decision-kind","path":"check/code/pages/require-import-extension/require-import-extension.check-code.ts","id":"01a04bcb-c714-7fdf-aa64-e2ff68d4f69b"}
-{"propertySlug":"decision-kind","path":"check/code/pages/router-app-compiles/modules/route-typegen/route-typegen.module.ts","id":"01a0d460-0e6c-7895-abaa-f432fc55957f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/shell-clean/shell-clean.check-code.ts","id":"01a05991-d997-76f5-a619-6ddb7444c34f"}
 {"propertySlug":"decision-kind","path":"check/code/pages/swift-parses/swift-parses.check-code.ts","id":"01a0d58c-dd89-71ff-aa5d-ad876fa7323c"}
 {"propertySlug":"decision-kind","path":"check/code/pages/tests-pass/tests-pass.check-code.ts","id":"01a04eb6-9214-7000-be71-821a1a582fbe"}
