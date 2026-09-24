@@ -4,7 +4,7 @@ export const attributeReadout = {
   id: "01a08bad-e763-7a0b-968c-2dfedc23ba69",
   type: "page-type/domain",
   slug: "attribute-readout",
-  definition: "the reading each attribute's points are shown as",
+  definition: "an attribute's readout",
   parts: [
     "readout/attribute-charisma",
     "readout/attribute-constitution",
