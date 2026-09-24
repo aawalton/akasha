@@ -6,12 +6,14 @@ export const inventoryTypes = {
   slug: "inventory-types",
   definition: "what an inventory has and the item numbers the game gives",
   code: "ts",
-  test: "ts",
   decisions: [
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "Temper Items compiles this module into the game, which holds no zod.",
+    },
+    {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An inventory's shape and the zod shape in this module's code are held equal at typecheck.",
+      statement: "The zod shape of an inventory is held in `inventory-database-shape`.",
     },
     {
       decisionKind: "decision-kind/departure",

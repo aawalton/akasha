@@ -147,6 +147,14 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A size or an offset given as a name is the number the game's Lua holds under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That name is looked up as the control is made, once the game's Lua has set it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The handler for being made is run once the control's own controls are there.",
     },
     {

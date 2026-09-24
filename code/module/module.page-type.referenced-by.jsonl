@@ -5248,6 +5248,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-craft-bag-types/inventory-craft-bag-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-currencies/inventory-currencies.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-display-value/inventory-display-value.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.ts","typed":true,"deferred":false}

@@ -1,9 +1,21 @@
+export type Measure = number | string
+
+const NAMED_VALUE = /^-?[A-Za-z_][A-Za-z0-9_]*$/
+
+export function measureOf(text: string | null): Measure | undefined {
+  if (text === null) return undefined
+  const worked = Number(text)
+  if (Number.isFinite(worked)) return worked
+  const said = text.trim()
+  return NAMED_VALUE.test(said) ? said : undefined
+}
+
 export type VirtualAnchor = {
   readonly point: number
   readonly relativeTo?: string
   readonly relativePoint: number
-  readonly offsetX: number
-  readonly offsetY: number
+  readonly offsetX: Measure
+  readonly offsetY: Measure
 }
 
 export type VirtualNode = {
@@ -13,8 +25,8 @@ export type VirtualNode = {
   readonly alpha?: number
   readonly mouseEnabled?: boolean
   readonly resizeToFit?: boolean
-  readonly width?: number
-  readonly height?: number
+  readonly width?: Measure
+  readonly height?: Measure
   readonly font?: string
   readonly text?: string
   readonly alignH?: number

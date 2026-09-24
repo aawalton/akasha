@@ -5174,6 +5174,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-player-equipment-constants-data/eso-player-equipment-constants-data.module.ts","id":"01a060d9-498b-744f-8dc9-b2222b4f4b29"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","id":"01a0612e-28d6-7df8-bb5c-419ce436eb8f"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.ts","id":"01a0d5b6-43b6-77aa-8216-966a0d5e77c2"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-types/inventory-types.module.ts","id":"01a060c5-3c23-76ec-aa93-fa279ae67a96"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/item-link-parser/item-link-parser.module.ts","id":"01a060bf-747c-74be-8914-30e2ea6cabe8"}

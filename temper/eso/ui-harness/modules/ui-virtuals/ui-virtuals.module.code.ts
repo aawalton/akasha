@@ -1,5 +1,6 @@
 import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
 import {
+  measureOf,
   merged,
   type VirtualAnchor,
   type VirtualNode,
@@ -157,8 +158,8 @@ function anchorsIn(element: Element): readonly VirtualAnchor[] {
       point,
       relativeTo: relative === null ? undefined : relative,
       relativePoint: pointOf(child.getAttribute("relativePoint"), point),
-      offsetX: numberOr(child.getAttribute("offsetX"), 0),
-      offsetY: numberOr(child.getAttribute("offsetY"), 0),
+      offsetX: measureOf(child.getAttribute("offsetX")) ?? 0,
+      offsetY: measureOf(child.getAttribute("offsetY")) ?? 0,
     })
   }
   return found
@@ -233,8 +234,8 @@ function nodeOf(element: Element): VirtualNode {
     alpha: maybeNumber(element.getAttribute("alpha")),
     mouseEnabled: maybeBoolean(element.getAttribute("mouseEnabled")),
     resizeToFit: maybeBoolean(element.getAttribute("resizeToFitDescendents")),
-    width: dimensions === null ? undefined : maybeNumber(dimensions.getAttribute("x")),
-    height: dimensions === null ? undefined : maybeNumber(dimensions.getAttribute("y")),
+    width: dimensions === null ? undefined : measureOf(dimensions.getAttribute("x")),
+    height: dimensions === null ? undefined : measureOf(dimensions.getAttribute("y")),
     font: font === null ? undefined : font,
     text: text === null ? undefined : text,
     alignH: alignH === null ? undefined : ALIGNMENTS[alignH.trim()],
@@ -279,7 +280,7 @@ function luaText(text: string): string {
 function luaAnchor(anchor: VirtualAnchor): string {
   const towards =
     anchor.relativeTo === undefined ? "" : `relativeTo = ${luaText(anchor.relativeTo)}, `
-  return `{ point = ${anchor.point}, ${towards}relativePoint = ${anchor.relativePoint}, offsetX = ${anchor.offsetX}, offsetY = ${anchor.offsetY} }`
+  return `{ point = ${anchor.point}, ${towards}relativePoint = ${anchor.relativePoint}, offsetX = ${JSON.stringify(anchor.offsetX)}, offsetY = ${JSON.stringify(anchor.offsetY)} }`
 }
 
 function luaArt(node: VirtualNode): readonly string[] {
@@ -306,8 +307,8 @@ function luaNode(node: VirtualNode): string {
   if (node.alpha !== undefined) parts.push(`alpha = ${node.alpha}`)
   if (node.mouseEnabled !== undefined) parts.push(`mouseEnabled = ${node.mouseEnabled}`)
   if (node.resizeToFit !== undefined) parts.push(`resizeToFit = ${node.resizeToFit}`)
-  if (node.width !== undefined) parts.push(`width = ${node.width}`)
-  if (node.height !== undefined) parts.push(`height = ${node.height}`)
+  if (node.width !== undefined) parts.push(`width = ${JSON.stringify(node.width)}`)
+  if (node.height !== undefined) parts.push(`height = ${JSON.stringify(node.height)}`)
   if (node.font !== undefined) parts.push(`font = ${luaText(node.font)}`)
   if (node.text !== undefined) parts.push(`text = ${luaText(node.text)}`)
   if (node.alignH !== undefined) parts.push(`alignH = ${node.alignH}`)

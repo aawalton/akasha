@@ -4,10 +4,8 @@ import {
   readPages,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import { computeItemStock } from "akasha/temper/items/core/modules/compute-item-stock/compute-item-stock.module.code.ts"
-import {
-  type InventoryDatabase,
-  inventoryDatabaseSchema,
-} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { inventoryDatabaseSchema } from "akasha/temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { InventoryRuleSettingsShape } from "akasha/temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {

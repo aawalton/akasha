@@ -5,10 +5,8 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
-import {
-  type InventoryDatabase,
-  inventoryDatabaseSchema,
-} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { inventoryDatabaseSchema } from "akasha/temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.code.ts"
+import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { z } from "zod"
 
 const ACCOUNT_PAGE_TYPE = "temper-account"

@@ -277,6 +277,21 @@ describe("virtualsLua", () => {
     )
   })
 
+  test("keeps a size or an offset the document gives as a name, for the sandbox to look up", () => {
+    const named = `<GuiXml><Controls>
+      <Control name="TemperNamed" virtual="true">
+        <Dimensions x="200" y="ZO_ROW_HEIGHT" />
+        <Anchor point="LEFT" offsetX="-ZO_INDENT" />
+      </Control>
+    </Controls></GuiXml>`
+    const table = virtualsFrom([named])
+    expect(table.TemperNamed?.height).toBe("ZO_ROW_HEIGHT")
+    expect(table.TemperNamed?.anchors[0]?.offsetX).toBe("-ZO_INDENT")
+    const chunk = virtualsLua(table, 10)[0]
+    expect(chunk).toContain('height = "ZO_ROW_HEIGHT"')
+    expect(chunk).toContain('offsetX = "-ZO_INDENT"')
+  })
+
   test("breaks the templates into batches of the size it is given", () => {
     expect(virtualsLua(virtualsFrom([INHERITING]), 1)).toHaveLength(2)
   })

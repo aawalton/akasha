@@ -99,5 +99,9 @@ export const uiVirtuals = {
       decisionKind: "decision-kind/departure",
       statement: "Whether a control grows to fit what it holds is read as the document says it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A size or an offset the document gives as a name is kept as that name.",
+    },
   ],
 } as const satisfies Module

@@ -93,6 +93,14 @@ local function declaredText(text)
   return _G.GetString(number)
 end
 
+local function measure(value)
+  if type(value) ~= "string" then return value end
+  local sign, name = 1, value
+  if string.sub(value, 1, 1) == "-" then sign, name = -1, string.sub(value, 2) end
+  local held = rawget(_G, name)
+  return type(held) == "number" and sign * held or 0
+end
+
 local function childHeld(name, parent)
   local held = named[resolved(name, parent)]
   local above = held ~= nil and held.uiParent or nil
@@ -109,8 +117,8 @@ dress = function(control, spec)
   if spec.alpha ~= nil then control:SetAlpha(spec.alpha) end
   if spec.mouseEnabled ~= nil then control:SetMouseEnabled(spec.mouseEnabled) end
   if spec.resizeToFit ~= nil then control:SetResizeToFitDescendents(spec.resizeToFit) end
-  if spec.width ~= nil then control.uiWidth = spec.width end
-  if spec.height ~= nil then control.uiHeight = spec.height end
+  if spec.width ~= nil then control.uiWidth = measure(spec.width) end
+  if spec.height ~= nil then control.uiHeight = measure(spec.height) end
   if spec.font ~= nil then control.uiFont = spec.font end
   if spec.text ~= nil then control.uiText = declaredText(spec.text) end
   if spec.alignH ~= nil then control.uiAlignH = spec.alignH end
@@ -132,7 +140,8 @@ dress = function(control, spec)
       if anchor.relativeTo ~= nil then
         to = named[resolved(anchor.relativeTo, control.uiParent)] or to
       end
-      control:SetAnchor(anchor.point, to, anchor.relativePoint, anchor.offsetX, anchor.offsetY)
+      local x, y = measure(anchor.offsetX), measure(anchor.offsetY)
+      control:SetAnchor(anchor.point, to, anchor.relativePoint, x, y)
     end
   end
   if spec.children ~= nil then
