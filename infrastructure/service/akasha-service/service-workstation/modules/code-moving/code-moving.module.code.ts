@@ -1,4 +1,5 @@
 import { readFileSync } from "node:fs"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { RESTART_EXIT } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
 
 export type Moved = {
@@ -18,7 +19,7 @@ const UNIT = ".service"
 const EXEC = "ExecStart="
 
 export function bundleCommitIn(path: string): string | null {
-  return BUNDLE.exec(path)?.[1] ?? null
+  return firstCapture(BUNDLE.exec(path))
 }
 
 export function unitBeside(at: string): string {
