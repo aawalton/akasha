@@ -49,6 +49,7 @@ export const readout = {
     "text-property/unit",
     "text-property/wire-key",
     "relation-property/readout-color",
+    "select-property/counted-on",
   ],
   extends: ["page-type/domain"],
   properties: [
@@ -100,6 +101,7 @@ export const readout = {
       uncommitted: true,
     },
     { pageProperty: "relation-property/readout-color", required: false, many: false },
+    { pageProperty: "select-property/counted-on", required: false, many: false },
   ],
   decisions: [
     {

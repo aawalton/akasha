@@ -1,5 +1,6 @@
 import type { Attribute } from "akasha/alan/harness/readout/properties/attribute.relation-property.types.ts"
 import type { ColorFrom } from "akasha/alan/harness/readout/properties/color-from.relation-property.types.ts"
+import type { CountedOn } from "akasha/alan/harness/readout/properties/counted-on.select-property.types.ts"
 import type { DrawnAs } from "akasha/alan/harness/readout/properties/drawn-as.select-property.types.ts"
 import type { Groups } from "akasha/alan/harness/readout/properties/groups.multi-relation-property.types.ts"
 import type { Label } from "akasha/alan/harness/readout/properties/label.text-property.types.ts"
@@ -37,4 +38,5 @@ export type Readout = Domain & {
   lastValueAt?: LastValueAt
   lastValueFallsPerHour?: LastValueFallsPerHour
   color?: ReadoutColor
+  countedOn?: CountedOn
 }

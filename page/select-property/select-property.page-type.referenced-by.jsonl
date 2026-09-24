@@ -33,6 +33,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/monarch/category-rule/properties/match-key.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/monarch/category/properties/category-group-type.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/monarch/month/properties/category-source.select-property.ts"}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/readout/properties/counted-on.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/harness/readout/properties/drawn-as.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/reading/book-series/properties/maturity-rating.select-property.ts"}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"alan/library/reading/gbww-reading/properties/gbww-edition-marker.select-property.ts"}
