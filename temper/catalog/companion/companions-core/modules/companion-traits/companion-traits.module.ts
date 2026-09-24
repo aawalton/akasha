@@ -17,14 +17,7 @@ export const companionTraits = {
       statement:
         "These bytes are the last good build rather than the table the generator emits today.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The generator reads a field the trait pages no longer have.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A regeneration today zeroes the effect type on every trait.",
-    },
+
     {
       decisionKind: "decision-kind/constraint",
       statement: "A trait's place in this table is the index a build hash has.",
