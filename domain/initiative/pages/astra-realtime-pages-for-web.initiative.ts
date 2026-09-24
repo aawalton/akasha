@@ -11,6 +11,10 @@ export const astraRealtimePagesForWeb = {
       statement:
         "Every piece of data a web app shows is updated as soon as it changes, with no refresh.",
     },
+    {
+      statement:
+        "Every visitor is pushed each change to a value that visitor can see, signed in or not.",
+    },
     { statement: "Every piece of data a web app shows is a page or a page's property." },
     {
       statement:
