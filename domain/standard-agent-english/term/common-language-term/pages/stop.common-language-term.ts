@@ -8,5 +8,6 @@ export const stop = {
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "stop" },
     { partOfSpeech: "part-of-speech/noun", spelling: "stops" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "stopped" },
   ],
 } as const satisfies CommonLanguageTerm
