@@ -364,6 +364,9 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.ts","id":"01a06876-abda-700e-b7c6-fdaa53c08fc1"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-agent/supervisor-spawn-agent.module.ts","id":"01a06876-abda-7017-a0af-8bbe92c1bb1b"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.ts","id":"01a06876-abda-7019-8297-ce5c6eed4030"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.ts","id":"01a0c57e-03dc-7717-9ac2-10dfd4ab8a6f"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.ts","id":"01a0c57f-1c55-7ed6-9031-b6487631c187"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-auto-compact/seat-auto-compact.domain.ts","id":"01a0c57d-e680-71fb-8cf9-90460d5d30a7"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.ts","id":"01a0683e-3dbe-7000-8023-4fb6336e3734"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.ts","id":"01a0683e-3dbe-7003-8c74-a74611900fdd"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.ts","id":"01a0683e-3dbe-7012-8f94-55170087009a"}
@@ -378,9 +381,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/restart.supervisor-action.ts","id":"01a05edb-0c01-7f85-8584-5aee4a6704cb"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/pages/swap-gateway.supervisor-action.ts","id":"01a05ede-80cc-7266-b628-6fc355977249"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-action/supervisor-action.page-type.ts","id":"01a05ecf-9a12-7710-b385-fd3a09307d1d"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-decide/supervisor-compact-decide.module.ts","id":"01a0c57e-03dc-7717-9ac2-10dfd4ab8a6f"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.ts","id":"01a0c57f-1c55-7ed6-9031-b6487631c187"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-compacting/supervisor-compacting.domain.ts","id":"01a0c57d-e680-71fb-8cf9-90460d5d30a7"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.ts","id":"01a0683e-3dbe-700b-947c-d3d4194c1ae8"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.ts","id":"01a0683e-3dbe-7017-8a20-75a3afbbc779"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.ts","id":"01a0683e-3dbe-7018-abd0-c37a4ad97b28"}

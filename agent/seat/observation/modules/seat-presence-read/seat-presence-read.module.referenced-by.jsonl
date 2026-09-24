@@ -21,8 +21,8 @@
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-interactive-spawn/supervisor-interactive-spawn.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-defaults/supervisor-seat-defaults.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-log/modules/supervisor-console/supervisor-console.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-presence-read.module.code.ts","path":"agent/seat/supervisor/supervisor-start/modules/seat-supervisor-claim/seat-supervisor-claim.module.code.ts"}

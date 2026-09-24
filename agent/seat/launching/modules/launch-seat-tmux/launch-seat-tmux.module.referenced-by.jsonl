@@ -4,5 +4,5 @@
 {"propertySlug":"import","fileName":"launch-seat-tmux.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts"}
 {"propertySlug":"import","fileName":"launch-seat-tmux.module.code.ts","path":"agent/seat/reviving/modules/seat-resume/seat-resume.module.code.ts"}
 {"propertySlug":"import","fileName":"launch-seat-tmux.module.code.ts","path":"agent/seat/stopping/modules/stop-seat/stop-seat.module.code.ts"}
-{"propertySlug":"import","fileName":"launch-seat-tmux.module.code.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
+{"propertySlug":"import","fileName":"launch-seat-tmux.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/launching/seat-launching.module.ts","id":"01a05d8f-50d9-7000-8a2a-2bc819c63d01"}

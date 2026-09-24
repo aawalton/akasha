@@ -336,6 +336,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-seat-spawn-decisions/supervisor-seat-spawn-decisions.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-agent/supervisor-spawn-agent.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-spawn-settings/supervisor-spawn-settings.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-account-config/supervisor-account-config.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.ts"}
@@ -347,8 +349,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action/supervisor-agent-action.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-decide/supervisor-compact-decide.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-ask-rule/supervisor-ask-rule.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-payload/supervisor-decide-payload.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/supervisor/supervisor-deciding/modules/supervisor-decide-rule-inputs/supervisor-decide-rule-inputs.module.ts"}

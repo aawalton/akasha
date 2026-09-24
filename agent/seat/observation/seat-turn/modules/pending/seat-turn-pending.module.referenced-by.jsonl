@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"seat-turn-pending.module.code.ts","path":"agent/hook/agent-hook/state-compacting/state-compacting.agent-hook.code.ts"}
 {"propertySlug":"import","fileName":"seat-turn-pending.module.code.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-turn-pending.module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-maintaining/pending-maintaining.module.code.ts"}
-{"propertySlug":"import","fileName":"seat-turn-pending.module.code.ts","path":"agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-turn-pending.module.code.ts","path":"agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts","id":"01a0658d-c92f-7071-838b-e88aa8479137"}

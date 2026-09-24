@@ -4,7 +4,7 @@ import {
   shouldCompact,
   stillAsked,
   worthProbing,
-} from "akasha/agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-decide/supervisor-compact-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.code.ts"
 
 const COMPACT_AT_TOKENS = 350_000
 

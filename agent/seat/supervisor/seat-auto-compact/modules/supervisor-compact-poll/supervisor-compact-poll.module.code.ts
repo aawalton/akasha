@@ -6,7 +6,7 @@ import {
   shouldCompact,
   stillAsked,
   worthProbing,
-} from "akasha/agent/seat/supervisor/supervisor-compacting/modules/supervisor-compact-decide/supervisor-compact-decide.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-decide/supervisor-compact-decide.module.code.ts"
 import type { IdleObservation } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.code.ts"
 import { observeIdle } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.code.ts"
 import type { IdleRuleSource } from "akasha/agent/seat/supervisor/supervisor-idleness/modules/supervisor-idle-rule/supervisor-idle-rule.module.code.ts"
