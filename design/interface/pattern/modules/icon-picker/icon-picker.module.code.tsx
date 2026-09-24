@@ -13,7 +13,6 @@ import type { IconName } from "akasha/page/core/generated/modules/icon-search-in
 import { resolveIconName, searchIcons } from "akasha/page/core/modules/icon/icon.module.code.ts"
 import { ChevronLeft, ChevronRight, Search } from "lucide-react"
 import { useCallback, useMemo, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const ICONS_PER_PAGE = 36
 

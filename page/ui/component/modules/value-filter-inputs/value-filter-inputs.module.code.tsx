@@ -15,7 +15,6 @@ import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pa
 import type { PageFilterDimension } from "akasha/page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.code.ts"
 import { Check, ChevronDown } from "lucide-react"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function toStringArray(value: ReadonlyJSONValue | undefined): readonly string[] {
   if (!Array.isArray(value)) return []

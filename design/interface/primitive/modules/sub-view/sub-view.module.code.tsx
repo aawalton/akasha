@@ -4,7 +4,6 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { ChevronLeft } from "lucide-react"
 import type { ReactNode } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function SubView({
   title,

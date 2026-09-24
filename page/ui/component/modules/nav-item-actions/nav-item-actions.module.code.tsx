@@ -10,7 +10,6 @@ import { deletePage } from "akasha/page/access/modules/deleting/deleting.module.
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useOptimisticDeletePage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-delete-page/use-optimistic-delete-page.module.code.ts"
 import { MoreHorizontal, Trash2 } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const NAV_SLUG = "nav"
 

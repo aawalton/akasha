@@ -5,7 +5,6 @@ import { Separator } from "akasha/design/interface/primitive/modules/separator/s
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { useId, useState } from "react"
 import { z } from "zod"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const ErrorBodySchema = z.object({ error: z.string() }).partial()
 

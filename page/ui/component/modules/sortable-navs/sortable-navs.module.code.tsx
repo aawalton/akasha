@@ -32,7 +32,6 @@ import {
   usePagesUIRouter,
 } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function SortableNavItem({
   id,

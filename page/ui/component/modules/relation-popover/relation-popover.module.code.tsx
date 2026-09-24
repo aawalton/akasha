@@ -15,7 +15,6 @@ import type { PageResolverValue } from "akasha/page/ui/context/modules/page-reso
 import { useRelationPicker } from "akasha/page/ui/context/modules/relation-picker-context/relation-picker-context.module.code.tsx"
 import { Plus, X } from "lucide-react"
 import { useMemo, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const SEARCH_DEBOUNCE_MS = 200
 

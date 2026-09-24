@@ -7,7 +7,6 @@ import {
 import { HorizontalScrollFade } from "akasha/design/interface/primitive/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
 import type { VariantProps } from "class-variance-authority"
 import type * as React from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 type BadgeVariant = NonNullable<VariantProps<typeof badgeVariants>["variant"]>
 

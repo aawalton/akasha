@@ -12,7 +12,6 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type { InventoryLeafNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface ValueExplanationData {
   itemName: string

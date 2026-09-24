@@ -6,7 +6,6 @@ import {
 } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import * as React from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface InputBadgeProps {
   value: string

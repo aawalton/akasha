@@ -21,7 +21,6 @@ import {
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import { useCraftBagAccess } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useCallback, useEffect, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const HANDLE_REGEX = /^[a-zA-Z0-9][a-zA-Z0-9-]*[a-zA-Z0-9]$/
 

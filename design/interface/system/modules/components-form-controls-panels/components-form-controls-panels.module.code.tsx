@@ -16,7 +16,6 @@ import {
   ToggleGroupItem,
 } from "akasha/design/interface/primitive/modules/toggle-group/toggle-group.module.code.tsx"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function CheckboxPanel() {
   return (

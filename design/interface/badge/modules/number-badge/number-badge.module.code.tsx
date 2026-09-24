@@ -8,7 +8,6 @@ import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { useNumberDraft } from "akasha/design/interface/primitive/modules/use-number-draft/use-number-draft.module.code.ts"
 import * as React from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface NumberBadgeProps {
   value: number

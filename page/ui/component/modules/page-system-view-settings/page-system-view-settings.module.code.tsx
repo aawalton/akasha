@@ -39,7 +39,6 @@ import {
   Settings2,
 } from "lucide-react"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function SettingsMenuButton({
   icon: Icon,

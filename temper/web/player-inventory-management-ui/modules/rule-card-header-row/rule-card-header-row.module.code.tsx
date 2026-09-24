@@ -11,7 +11,6 @@ import {
 } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ChevronDown, EllipsisVertical, Info } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface RuleCardHeaderRowProps {
   rule: CategoryRule

@@ -36,7 +36,6 @@ import { Check, ChevronDown, ChevronRight, X } from "lucide-react"
 import type * as React from "react"
 import type { ReactNode } from "react"
 import { useMemo, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function FilterableSelectTrigger({
   className,

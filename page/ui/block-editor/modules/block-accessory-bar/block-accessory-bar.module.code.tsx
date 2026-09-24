@@ -14,7 +14,6 @@ import {
   Trash2,
 } from "lucide-react"
 import { createPortal } from "react-dom"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface BlockAccessoryBarProps {
   readonly inset: number

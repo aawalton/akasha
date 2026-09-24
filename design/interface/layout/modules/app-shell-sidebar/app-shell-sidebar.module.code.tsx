@@ -20,7 +20,6 @@ import {
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { PanelLeftClose, PanelLeftOpen } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface AppShellSidebarProps {
   config: AppNavConfig

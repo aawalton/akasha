@@ -17,7 +17,6 @@ import {
   DrawerTitle,
 } from "akasha/design/interface/primitive/modules/drawer/drawer.module.code.tsx"
 import { ChevronRightIcon } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface AppShellMoreDrawerProps {
   open: boolean

@@ -8,7 +8,6 @@ import { getScribedSkillName } from "akasha/temper/player/character/skill/module
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { Plus } from "lucide-react"
 import { useMemo } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface ScribedSkillItemProps {
   skill: ScribedSkill

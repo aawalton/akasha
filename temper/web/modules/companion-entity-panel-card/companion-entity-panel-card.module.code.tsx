@@ -25,7 +25,6 @@ import type { CompanionId } from "akasha/temper/catalog/companion/companions-cor
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { Search, Trophy } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface CompanionPlanBuild {
   id: string

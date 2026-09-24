@@ -6,7 +6,6 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import type { PropertyVisibilityOption } from "akasha/page/ui/component/modules/property-visibility-picker-helpers/property-visibility-picker-helpers.module.code.ts"
 import { GripVertical } from "lucide-react"
 import type { CSSProperties, HTMLAttributes } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface PropertyRowProps {
   option: PropertyVisibilityOption

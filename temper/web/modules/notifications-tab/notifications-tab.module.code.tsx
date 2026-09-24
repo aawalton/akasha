@@ -31,7 +31,6 @@ import {
 } from "akasha/temper/web/modules/player-settings/player-settings.module.code.ts"
 import { useBackpackSettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useEffect, useMemo, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 type ConfirmActionItem = BadgeToggleGroupItem & { value: DestructiveAction }
 const CONFIRM_ACTION_ITEMS: ConfirmActionItem[] = DESTRUCTIVE_ACTIONS.map((a) => ({

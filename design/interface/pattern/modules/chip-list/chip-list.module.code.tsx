@@ -11,7 +11,6 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { ReactElement, ReactNode } from "react"
 import React from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface ChipListProps {
   maxChips?: number

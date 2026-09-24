@@ -18,7 +18,6 @@ import { Card } from "akasha/design/interface/primitive/modules/card/card.module
 import { Search } from "lucide-react"
 import { useState } from "react"
 import { Link } from "react-router"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function meta() {
   return [{ title: "Search places — Atlas" }]

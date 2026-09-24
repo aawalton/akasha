@@ -31,7 +31,6 @@ import {
 } from "akasha/page/ui/component/modules/page-table-shared/page-table-shared.module.code.ts"
 import { tableMinWidthPx } from "akasha/page/ui/component/modules/page-table-widths/page-table-widths.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useRef, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface SortableColumnHeaderProps {
   column: PageTableColumn

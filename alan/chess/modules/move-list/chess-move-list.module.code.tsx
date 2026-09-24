@@ -1,7 +1,6 @@
 "use client"
 import type { ChessMoveListEntry } from "akasha/alan/chess/modules/state/chess-state.module.code.ts"
 import { useEffect, useRef } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface ChessMoveListProps {
   readonly moves: readonly ChessMoveListEntry[]

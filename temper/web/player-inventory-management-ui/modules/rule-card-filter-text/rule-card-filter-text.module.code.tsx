@@ -7,7 +7,6 @@ import {
 } from "akasha/design/interface/primitive/modules/hover-card/hover-card.module.code.tsx"
 import { Info } from "lucide-react"
 import * as React from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function ItemNameSyntaxHelp() {
   return (

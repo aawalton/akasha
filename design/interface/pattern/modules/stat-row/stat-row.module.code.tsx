@@ -1,6 +1,5 @@
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import type { ElementType, ReactNode } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface StatRowProps {
   label: ReactNode

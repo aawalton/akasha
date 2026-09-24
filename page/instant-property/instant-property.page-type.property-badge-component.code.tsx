@@ -20,7 +20,6 @@ import {
 } from "akasha/page/core/schema/modules/property-config-schemas/property-config-schemas.module.code.ts"
 import type { PropertyBadgeProps } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function getInstantFormat(definition: PropertyDefinition): InstantFormat {
   const config: InstantConfig = parseConfig(instantConfigSchema, definition.config, {

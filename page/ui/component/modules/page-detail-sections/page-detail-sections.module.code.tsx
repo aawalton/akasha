@@ -7,7 +7,6 @@ import {
 } from "akasha/design/interface/primitive/modules/collapsible/collapsible.module.code.tsx"
 import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import type { ReactNode } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const HEADING_TAGS = ["h2", "h3", "h4", "h5", "h6"] as const
 type HeadingTag = (typeof HEADING_TAGS)[number]

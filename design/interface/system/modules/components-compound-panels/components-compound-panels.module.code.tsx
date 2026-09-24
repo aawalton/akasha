@@ -48,7 +48,6 @@ import {
 } from "lucide-react"
 import { useState } from "react"
 import type { DateRange } from "react-day-picker"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function FieldPanel() {
   return (

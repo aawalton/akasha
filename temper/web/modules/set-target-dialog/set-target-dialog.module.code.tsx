@@ -9,7 +9,6 @@ import {
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import { AlertTriangle } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface SetTargetEntity {
   entityId: string

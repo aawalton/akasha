@@ -1,7 +1,6 @@
 import { useSidebarState } from "akasha/design/interface/layout/modules/use-sidebar-state/use-sidebar-state.module.code.ts"
 import { LogIn, LogOut } from "lucide-react"
 import { Link } from "react-router"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function AuthFooter({ signedIn }: { signedIn: boolean }) {
   const { effectiveIsCollapsed } = useSidebarState()

@@ -29,7 +29,6 @@ import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-ty
 import { RuleNotesDialog } from "akasha/temper/web/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"
 import { EllipsisVertical, Info, ShoppingCart } from "lucide-react"
 import { memo, useEffect, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface BuyRuleCardProps {
   rule: BuyRule

@@ -18,7 +18,6 @@ import {
 } from "akasha/design/interface/primitive/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
 import type * as React from "react"
 import { useEffect, useRef, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function CommandPalette() {
   const [open, setOpen] = useState(false)

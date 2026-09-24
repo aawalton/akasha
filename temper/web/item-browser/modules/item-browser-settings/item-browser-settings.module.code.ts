@@ -8,7 +8,6 @@ import {
 } from "akasha/temper/web/item-browser/modules/item-browser-state/item-browser-state.module.code.ts"
 import { refreshCollections } from "akasha/temper/web/item-browser/modules/item-browser-tab/item-browser-tab.module.code.ts"
 import { hookExternalTooltips } from "akasha/temper/web/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.code.ts"
-import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 import "akasha/temper/addon/type/temper-helpers-global/temper-helpers-global.type-declaration.d.ts"
 import "akasha/temper/addon/type/lib-multi-account-sets/lib-multi-account-sets.type-declaration.d.ts"

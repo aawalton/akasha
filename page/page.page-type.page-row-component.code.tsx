@@ -12,7 +12,6 @@ import type { PageRowCellsProps } from "akasha/page/ui/component/modules/page-ro
 import { PropertyBadge } from "akasha/page/ui/component/modules/property-badge/property-badge.module.code.tsx"
 import { titleColorClass } from "akasha/page/ui/component/modules/title-color/title-color.module.code.ts"
 import { CheckCircle2, Circle } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function Drawing({
   data,

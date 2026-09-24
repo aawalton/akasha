@@ -73,5 +73,4 @@
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/catalog/world/lorebook/modules/lorebooks-pins-tooltips/lorebooks-pins-tooltips.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"craft-decl-controls.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-global/item-browser-global.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/temper-addon-items.temper-addon.ts","id":"01a06258-b537-7b6c-9b09-2f3e886fedeb"}

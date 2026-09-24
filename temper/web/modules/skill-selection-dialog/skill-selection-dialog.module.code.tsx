@@ -25,7 +25,6 @@ import type { CategoryData } from "akasha/temper/player/skill-morph/modules/skil
 import { SkillCollapsibleCard } from "akasha/temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
 import { Check, ChevronRight, ChevronsDown, ChevronsUp } from "lucide-react"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface SkillSelectionDialogProps {
   open: boolean

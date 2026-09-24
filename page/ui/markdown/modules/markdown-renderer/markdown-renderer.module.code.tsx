@@ -14,7 +14,6 @@ import { useMemo } from "react"
 import type { Components } from "react-markdown"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function spaceYForDepth(depthAttr: string | null): string {
   switch (depthAttr) {

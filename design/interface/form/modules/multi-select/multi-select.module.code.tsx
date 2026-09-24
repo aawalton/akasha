@@ -11,7 +11,6 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { CheckIcon, ChevronDownIcon, SearchIcon } from "lucide-react"
 import type * as React from "react"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface MultiSelectItem {
   value: string

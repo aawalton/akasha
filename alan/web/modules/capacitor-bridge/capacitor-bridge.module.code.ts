@@ -1,5 +1,3 @@
-import "akasha/code/editor/extension/vscode-api/vscode-api.type-declaration.d.ts"
-
 export interface PluginListenerHandle {
   remove: () => Promise<void>
 }

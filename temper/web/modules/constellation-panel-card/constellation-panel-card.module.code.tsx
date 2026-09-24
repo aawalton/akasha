@@ -11,7 +11,6 @@ import {
 import { StarSelectionDialog } from "akasha/temper/web/modules/star-selection-dialog/star-selection-dialog.module.code.tsx"
 import { Hammer, Plus, Shield, Swords } from "lucide-react"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface ConstellationPanelCardProps {
   constellation: "warfare" | "fitness" | "craft"

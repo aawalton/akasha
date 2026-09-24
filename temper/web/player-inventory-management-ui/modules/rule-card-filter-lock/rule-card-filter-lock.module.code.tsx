@@ -10,7 +10,6 @@ import {
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { Lock } from "lucide-react"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function FilterLock({ reason }: { reason: string }) {
   const [open, setOpen] = useState(false)

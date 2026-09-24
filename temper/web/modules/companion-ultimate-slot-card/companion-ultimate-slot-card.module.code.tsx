@@ -8,7 +8,6 @@ import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/com
 import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
 import { Plus, X } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface CompanionUltimateSlotCardProps {
   ultimate: CompanionSkillTemplate | undefined

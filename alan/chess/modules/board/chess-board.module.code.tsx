@@ -32,7 +32,6 @@ import {
   useState,
 } from "react"
 import { z } from "zod"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 

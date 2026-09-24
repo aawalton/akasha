@@ -7,7 +7,6 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { SkillCollapsibleCard } from "akasha/temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
 import { Plus, X } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface SkillSlotCardProps {
   skill: Skill | undefined

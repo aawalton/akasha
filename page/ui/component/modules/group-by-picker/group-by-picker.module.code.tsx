@@ -19,7 +19,6 @@ import {
   type GroupGranularity,
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { X } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const GRANULARITY_LABELS: Record<GroupGranularity, string> = {
   none: "Day",

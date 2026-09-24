@@ -20,7 +20,6 @@ import {
 } from "akasha/temper/web/modules/temper-app-id/temper-app-id.module.code.ts"
 import { LogOut } from "lucide-react"
 import { useMemo } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function isAuthRoute(pathname: string): boolean {
   return (

@@ -8,7 +8,6 @@ import { getEsoIconUrl } from "akasha/temper/player/character/formula-framework/
 import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { getSkillLineName } from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import { Plus, X } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface UltimateSlotCardProps {
   ultimate: Skill | undefined

@@ -23,7 +23,6 @@ import { RuleBulkActionBadge } from "akasha/temper/web/player-inventory-manageme
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import { Plus } from "lucide-react"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface ItemRulesPanelProps {
   itemRules: readonly ItemRule[]

@@ -13,7 +13,6 @@ import {
   readChapterCount,
 } from "akasha/story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts"
 import { Fragment, useCallback, useMemo } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const DOM_ID_PREFIX = "story-read-chapter-"
 

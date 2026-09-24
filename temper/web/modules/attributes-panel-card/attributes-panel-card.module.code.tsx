@@ -7,7 +7,6 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
 import { Maximize2 } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 type AttributeKey = "magicka" | "health" | "stamina"
 

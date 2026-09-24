@@ -3,7 +3,6 @@
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { Lock, X } from "lucide-react"
 import type * as React from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface FilterGroupProps {
   label: string

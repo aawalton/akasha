@@ -7,7 +7,6 @@ import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module
 import { formatPlayerChoiceAction } from "akasha/story/engine/core/modules/choice-action/choice-action.module.code.ts"
 import type { SystemChoice } from "akasha/story/engine/core/modules/system-window-schema/system-window-schema.module.code.ts"
 import { type ReactNode, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export type PlayerActionInput = {
   gameExternalId: string

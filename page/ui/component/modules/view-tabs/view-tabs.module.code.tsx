@@ -34,7 +34,6 @@ import {
 import type { ViewCallbacks } from "akasha/page/ui/modules/view-callbacks/view-callbacks.module.code.ts"
 import { Ellipsis } from "lucide-react"
 import { type CSSProperties, useCallback, useEffect, useRef, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const FULL_TAB_W = 140
 const ICON_TAB_W = 36

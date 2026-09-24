@@ -8,7 +8,6 @@ import {
 } from "akasha/design/interface/primitive/modules/collapsible/collapsible.module.code.tsx"
 import { ChevronDownIcon } from "lucide-react"
 import type { ReactNode } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface CollapsibleGroupSectionProps {
   groupKey: string

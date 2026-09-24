@@ -18,7 +18,6 @@ import { isSetsAllId } from "akasha/temper/player/character/characters-equipment
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import { FilterableSelectDialog } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { useMemo, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface BulkSetEditTagProps {
   currentValue: SetsAllId

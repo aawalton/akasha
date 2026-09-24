@@ -1,7 +1,6 @@
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import type { ClientStoryChapter } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function StorySoFar({
   chapters,

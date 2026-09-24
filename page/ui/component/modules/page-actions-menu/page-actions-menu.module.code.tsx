@@ -9,7 +9,6 @@ import {
   DropdownMenuTrigger,
 } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import { EllipsisVertical } from "lucide-react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface PageActionsMenuProps {
   href?: string

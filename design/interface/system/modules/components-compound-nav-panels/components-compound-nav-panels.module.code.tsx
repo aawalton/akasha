@@ -34,7 +34,6 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useState } from "react"
 import { useForm } from "react-hook-form"
 import { toast } from "sonner"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export function SidebarNavGroupPanel() {

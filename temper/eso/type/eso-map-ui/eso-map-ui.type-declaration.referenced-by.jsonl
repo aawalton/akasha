@@ -94,8 +94,5 @@
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-settings/skyshards-pc-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-state/skyshards-pc-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/catalog/world/skyshard/modules/skyshards-pc-tooltip/skyshards-pc-tooltip.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-item-link/item-browser-item-link.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-state/item-browser-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-tab/item-browser-tab.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-map-ui.type-declaration.d.ts","path":"temper/web/item-browser/modules/item-browser-types/item-browser-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/type/temper-eso-type.domain.ts","id":"01a0608f-b078-7ec9-8793-92de8b04a299"}

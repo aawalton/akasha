@@ -18,7 +18,6 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const SORT_OPTIONS: SortOption[] = [
   { value: "name", label: "Name", defaultDirection: "asc" },

@@ -9,7 +9,6 @@ import {
 } from "akasha/design/interface/primitive/modules/sheet/sheet.module.code.tsx"
 import { Menu } from "lucide-react"
 import { type ReactNode, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export function AwenStatusDrawer({ statusPanels }: { statusPanels: ReactNode }) {
   const [open, setOpen] = useState(false)

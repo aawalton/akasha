@@ -24,7 +24,6 @@ import {
 import { ChevronDown } from "lucide-react"
 import type * as React from "react"
 import { useEffect, useLayoutEffect, useRef, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface PanelCardProps extends Omit<React.ComponentProps<"div">, "title" | "id" | "ref"> {
   id: string

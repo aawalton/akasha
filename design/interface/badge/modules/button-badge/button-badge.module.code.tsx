@@ -7,7 +7,6 @@ import {
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import type { VariantProps } from "class-variance-authority"
 import type * as React from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 function chainSuppressDoubleClickSelect<E extends Element>(
   consumerOnMouseDown: React.MouseEventHandler<E> | undefined

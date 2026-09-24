@@ -34,7 +34,6 @@ import { useRestoreReadPosition } from "akasha/page/ui/component/modules/use-res
 import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { type ReactNode, useCallback, useEffect, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const READER_VIRTUALIZE_THRESHOLD = 24_000
 

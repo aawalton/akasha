@@ -16,7 +16,6 @@ import type { QuickAddConfig } from "akasha/page/core/schema/modules/quick-add/q
 import { QuickAddForm } from "akasha/page/ui/component/modules/quick-add-form/quick-add-form.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const FORM_ID = "quick-add-form"
 

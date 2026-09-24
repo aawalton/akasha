@@ -11,7 +11,6 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { CheckIcon, ChevronDownIcon, SearchIcon, XIcon } from "lucide-react"
 import type * as React from "react"
 import { useEffect, useRef, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 export interface SearchMultiSelectItem {

@@ -15,7 +15,6 @@ import type { InventoryRulesHandlers } from "akasha/temper/web/player-inventory-
 import { ItemSearchDialog } from "akasha/temper/web/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.code.tsx"
 import { Plus } from "lucide-react"
 import { useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 interface BuyRulesPanelProps {
   buyRules: readonly BuyRule[]

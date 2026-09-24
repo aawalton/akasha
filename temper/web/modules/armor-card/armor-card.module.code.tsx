@@ -48,7 +48,6 @@ import {
   SetSelectDialog,
 } from "akasha/temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx"
 import { useMemo, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 export interface ArmorUpdateParams {
   set?: SetsAllId

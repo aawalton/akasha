@@ -23,7 +23,6 @@ import { RuleCard } from "akasha/temper/web/player-inventory-management-ui/modul
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import { Plus } from "lucide-react"
 import { useCallback, useState } from "react"
-import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
 const EMPTY_AFFECTED_ITEMS: AffectedItem[] = []
 
