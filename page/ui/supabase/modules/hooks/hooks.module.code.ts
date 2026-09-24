@@ -9,13 +9,14 @@ import {
 } from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import {
+  useAcquireShapes,
   useAcquireSlug,
-  useAcquireSlugs,
   usePipelineLive,
 } from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
 import {
   collectRelatedIds,
   RELATED_IDS_PER_PROPERTY_CAP,
+  type RelatedIdGroup,
   type RelationSpec,
 } from "akasha/page/ui/supabase/modules/collect-related-ids/collect-related-ids.module.code.ts"
 import {
@@ -26,6 +27,11 @@ import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import {
+  namedShapeDescriptor,
+  type ShapeDescriptor,
+  slugShapeDescriptor,
+} from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import {
   createIdSuffixPipeline,
   type IdSuffixResult,
@@ -118,6 +124,13 @@ export function useAllPages({ pageTypeSlug }: { pageTypeSlug: string }): {
   return { pages, isLoading: isLoading || hasMore, isDegraded, error }
 }
 
+const NAMED_AT_MOST = 100
+
+function shapeReading(group: RelatedIdGroup): ShapeDescriptor {
+  if (group.values.length > NAMED_AT_MOST) return slugShapeDescriptor(group.pageTypeSlug)
+  return namedShapeDescriptor(group.pageTypeSlug, { by: group.by, values: group.values })
+}
+
 export function useRelatedPages({
   definitions,
   pages,
@@ -144,8 +157,8 @@ export function useRelatedPages({
     [pages, specs]
   )
   const groupsKey = useMemo(() => JSON.stringify(groups), [groups])
-  const targetSlugs = useMemo(() => groups.map((one) => one.pageTypeSlug), [groups])
-  useAcquireSlugs(targetSlugs)
+  const shapes = useMemo(() => groups.map(shapeReading), [groups])
+  useAcquireShapes(shapes)
   const { snapshot } = usePipelineLive(
     (collection) => createRelatedPipeline(collection, groups),
     groupsKey,

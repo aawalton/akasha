@@ -215,6 +215,37 @@ export function useAcquireFilteredStream(descriptor: ShapeDescriptor | undefined
   return { ready, degraded: false, error }
 }
 
+export function useAcquireShapes(descriptors: readonly ShapeDescriptor[]): undefined {
+  const depsKey = JSON.stringify(descriptors)
+  const latest = useRef(descriptors)
+  latest.current = descriptors
+  useEffect(() => {
+    const held = depsKey === "" ? [] : latest.current
+    if (held.length === 0) return
+    let acquired = false
+    let cancelled = false
+    void (async () => {
+      const store = await awaitPagesStoreReady()
+      if (cancelled) return
+      for (const one of held) store.acquireFilteredStream(one)
+      acquired = true
+    })()
+    return () => {
+      cancelled = true
+      if (!acquired) return
+      void (async () => {
+        try {
+          const store = await getPagesStore()
+          for (const one of held) store.releaseFilteredStream(one.shapeKey)
+        } catch (err) {
+          console.error("[pages-cache] releaseFilteredStream (multi) failed", err)
+        }
+      })()
+    }
+  }, [depsKey])
+  return undefined
+}
+
 export interface PipelineLiveResult<R> {
   readonly snapshot: R | null
   readonly error: Error | null

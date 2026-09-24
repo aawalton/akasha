@@ -41,6 +41,7 @@ import {
 } from "akasha/page/ui-store/collection/modules/persistence/persistence.module.code.ts"
 import {
   isDefinitionTierSlug,
+  type NamedPages,
   type ShapeDescriptor,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
@@ -236,7 +237,10 @@ export function createPagesStore(
     return attachEmpty(pageTypeSlug)
   }
 
-  const attachFileBacked = (pageTypeSlug: string): (() => undefined) | null => {
+  const attachFileBacked = (
+    pageTypeSlug: string,
+    named: NamedPages | undefined
+  ): (() => undefined) | null => {
     if (fetchImpl === null) return null
     return attachFetch(
       {
@@ -249,20 +253,21 @@ export function createPagesStore(
         readingAgain,
       },
       pageTypeSlug,
-      fileBacking.carry?.[pageTypeSlug] ?? []
+      fileBacking.carry?.[pageTypeSlug] ?? [],
+      named
     )
   }
 
   const attach = (descriptor: ShapeDescriptor): (() => undefined) | null => {
     if (!signedIn) return null
-    const { pageTypeSlug, shapeKey } = descriptor
+    const { pageTypeSlug, shapeKey, named } = descriptor
     if (pageTypeSlug === undefined) return attachEmpty(shapeKey)
     askRoster()
     const backing = backingOf(pageTypeSlug)
-    if (backing === "file") return attachFileBacked(pageTypeSlug)
+    if (backing === "file") return attachFileBacked(pageTypeSlug, named)
     if (backing === "unknown") return attachUnbacked(pageTypeSlug)
 
-    const named: string = pageTypeSlug
+    const typed: string = pageTypeSlug
     let current: (() => undefined) | null = null
     let settled = false
     const wake = (): undefined => {
@@ -271,11 +276,11 @@ export function createPagesStore(
     rosterWaiting.add(wake)
     function reconsider(): undefined {
       if (settled) return
-      const decided: PageTypeBacking | null = backingOf(named)
+      const decided: PageTypeBacking | null = backingOf(typed)
       if (decided === null) return
       settled = true
       rosterWaiting.delete(wake)
-      current = decided === "file" ? attachFileBacked(named) : attachUnbacked(named)
+      current = decided === "file" ? attachFileBacked(typed, named) : attachUnbacked(typed)
     }
     return () => {
       settled = true

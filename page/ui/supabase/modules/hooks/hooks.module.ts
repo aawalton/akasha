@@ -28,8 +28,16 @@ export const hooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The pages the relations name are acquired into the store before they are read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "The page types the relations reach are acquired into the store before they are read.",
+        "A page type a relation names a hundred pages of or fewer is read for those alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type a relation names more pages of is read whole.",
     },
     {
       decisionKind: "decision-kind/departure",

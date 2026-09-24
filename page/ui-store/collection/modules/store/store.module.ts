@@ -28,5 +28,13 @@ export const store = {
       decisionKind: "decision-kind/departure",
       statement: "A page type no site named that way is read without any of those keys.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape naming pages by id or by slug reads those pages alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape naming pages is a shape apart from the whole page type's.",
+    },
   ],
 } as const satisfies Module

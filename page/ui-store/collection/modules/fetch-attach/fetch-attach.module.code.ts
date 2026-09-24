@@ -1,5 +1,9 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
+import {
+  type NamedPages,
+  namedShapeKey,
+} from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PagesSyncController } from "akasha/page/ui-store/collection/modules/sync-controller/sync-controller.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { PageRowSchema } from "akasha/page/ui-store/realtime/modules/payload-translator/payload-translator.module.code.ts"
@@ -29,10 +33,16 @@ export interface FetchPlan {
   readonly deletes: readonly string[]
 }
 
-function filePagesPath(pageTypeSlug: string, carry: readonly string[] = []): string {
+export function filePagesPath(
+  pageTypeSlug: string,
+  carry: readonly string[] = [],
+  named: NamedPages | undefined = undefined
+): string {
   const at = `/api/pages/${encodeURIComponent(pageTypeSlug)}`
-  if (carry.length === 0) return at
-  return `${at}?carry=${encodeURIComponent(carry.join(","))}`
+  const asked: string[] = []
+  if (carry.length > 0) asked.push(`carry=${encodeURIComponent(carry.join(","))}`)
+  if (named !== undefined) asked.push(`${named.by}=${encodeURIComponent(named.values.join(","))}`)
+  return asked.length === 0 ? at : `${at}?${asked.join("&")}`
 }
 
 function canonicalJson(value: unknown): string {
@@ -101,10 +111,11 @@ function planFetchedRows(
 export function attachFetch(
   deps: FetchAttachDeps,
   pageTypeSlug: string,
-  carry: readonly string[] = []
+  carry: readonly string[] = [],
+  named: NamedPages | undefined = undefined
 ): () => undefined {
-  const shapeKey = pageTypeSlug
-  const at = filePagesPath(pageTypeSlug, carry)
+  const shapeKey = named === undefined ? pageTypeSlug : namedShapeKey(pageTypeSlug, named)
+  const at = filePagesPath(pageTypeSlug, carry, named)
   let stopped = false
   let timer: ReturnType<typeof setTimeout> | null = null
 
