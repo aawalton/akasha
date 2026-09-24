@@ -51,7 +51,7 @@ export function CompanionManagementPanelCard({
     setIsDeleting(true)
     try {
       await deleteBuild()
-      router.push("/companion-builds")
+      router.push("/companion-build")
     } catch (error) {
       toast.error(error instanceof Error ? error.message : "Failed to delete companion")
       setIsDeleting(false)

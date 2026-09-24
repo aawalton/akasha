@@ -48,7 +48,7 @@ export function CompanionEditorHeader({
     <div className="flex items-center justify-between gap-4">
       <div className="flex min-w-0 items-center gap-4">
         <Button variant="tertiary" size="icon-sm" asChild className="min-[584px]:hidden">
-          <Link href="/companion-builds">
+          <Link href="/companion-build">
             <ChevronLeft className="h-4 w-4" />
           </Link>
         </Button>

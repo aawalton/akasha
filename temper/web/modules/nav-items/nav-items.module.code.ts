@@ -33,14 +33,14 @@ export const PRIMARY_NAV_ITEMS: AppNavItem[] = [
     id: "characters",
     label: "Character Builds",
     shortLabel: "Character Builds",
-    href: "/character-builds",
+    href: "/character-build",
     icon: Swords,
   },
   {
     id: "companions",
     label: "Companion Builds",
     shortLabel: "Companion Builds",
-    href: "/companion-builds",
+    href: "/companion-build",
     icon: Handshake,
   },
   {

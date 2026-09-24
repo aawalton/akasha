@@ -40,7 +40,7 @@ export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
     <PanelCard
       id="recent-companions"
       title={
-        <Link href="/companion-builds" className="hover:text-accent">
+        <Link href="/companion-build" className="hover:text-accent">
           Companion Builds
         </Link>
       }

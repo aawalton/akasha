@@ -52,7 +52,7 @@ export function CharacterManagementPanelCard({
     setIsDeleting(true)
     try {
       await deleteBuild()
-      router.push("/character-builds")
+      router.push("/character-build")
     } catch (error) {
       toast.error(error instanceof Error ? error.message : "Failed to delete character")
       setIsDeleting(false)

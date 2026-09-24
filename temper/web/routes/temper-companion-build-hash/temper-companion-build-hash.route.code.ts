@@ -24,7 +24,7 @@ export async function loader({
       redirectUrl.searchParams.set("next", returnUrl)
       return redirectingWith(importHeaders, redirectUrl.toString())
     }
-    const failureUrl = new URL("/companion-builds", origin)
+    const failureUrl = new URL("/companion-build", origin)
     failureUrl.searchParams.set("error", result.error)
     return redirectingWith(importHeaders, failureUrl.toString())
   }

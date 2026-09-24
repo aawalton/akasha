@@ -48,7 +48,7 @@ export function RecentCharactersCard({ builds }: RecentCharactersCardProps) {
     <PanelCard
       id="recent-characters"
       title={
-        <Link href="/character-builds" className="hover:text-accent">
+        <Link href="/character-build" className="hover:text-accent">
           Character Builds
         </Link>
       }

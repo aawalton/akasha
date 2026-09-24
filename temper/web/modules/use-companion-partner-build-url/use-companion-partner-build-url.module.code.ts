@@ -36,7 +36,7 @@ export function useCompanionPartnerBuildUrl(
 
   const browseHref =
     visibility === "live" || visibility === "target"
-      ? `/companion-builds?tab=browse&companion=${companionId}`
+      ? `/companion-build?tab=browse&companion=${companionId}`
       : undefined
 
   return { partnerBuildUrl, browseHref }

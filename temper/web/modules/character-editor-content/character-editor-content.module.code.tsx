@@ -153,7 +153,7 @@ export function CharacterEditorContent({ initialTab }: BuildEditorContentProps) 
 
   const browseHref =
     visibility === "live" || visibility === "target"
-      ? `/character-builds?tab=browse&class=${build.character.class}`
+      ? `/character-build?tab=browse&class=${build.character.class}`
       : undefined
 
   const partnerBuildUrl = usePartnerBuildUrl(
