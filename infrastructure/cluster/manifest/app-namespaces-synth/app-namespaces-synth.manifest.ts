@@ -27,9 +27,5 @@ export const appNamespacesSynth = {
       decisionKind: "decision-kind/constraint",
       statement: "A namespace named nowhere here is on the cluster until a hand deletes it.",
     },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No workload reads the `collections-secrets` Secret.",
-    },
   ],
 } as const satisfies Manifest
