@@ -14,6 +14,7 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -45,7 +46,12 @@ const ownBody = bodyAt(OWN_CODE, OWN_BODY)
 
 const shorthandRepo = (): string =>
   indexedRepo({
-    [SHORT_PAGE]: bodyOf({ id: idOf("f"), pageTypeSlug: "module", slug: "short", code: "ts" }),
+    [SHORT_PAGE]: bodyOf({
+      id: idOf("f"),
+      type: `${pageType.slug}/module`,
+      slug: "short",
+      code: "ts",
+    }),
     [SHORT_CODE]: SHORT_BODY,
   })
 

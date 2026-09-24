@@ -12,7 +12,7 @@ const BODY = `import type { Module } from "@akasha/code/module"
 
 export const kept = {
   id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
-  pageTypeSlug: "module",
+  type: "page-type/module",
   slug: "kept",
   code: "ts",
   partSlugs: ["module/one"],

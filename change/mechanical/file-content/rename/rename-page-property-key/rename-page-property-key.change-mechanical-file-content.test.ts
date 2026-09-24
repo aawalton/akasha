@@ -16,7 +16,7 @@ const RECORDS = `import type { Kept } from "./kept.page-type.ts"
 
 export const held = {
   id: "01a072c8-f35d-7ffc-afc3-75b72460b060",
-  pageTypeSlug: "kept",
+  type: "page-type/kept",
   slug: "held",
   personaSlug: "outside",
   personaMessages: [

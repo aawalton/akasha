@@ -12,7 +12,7 @@ const OPENING = `import type { BookSection } from "../../book-section.page-type.
 
 export const kept = {
   id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
-  pageTypeSlug: "book-section",
+  type: "page-type/book-section",
   slug: "kept",
 `
 
