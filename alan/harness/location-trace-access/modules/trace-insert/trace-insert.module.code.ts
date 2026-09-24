@@ -69,25 +69,25 @@ export function traceRowsIn(day: string): string {
 
 const TRACE_ROW = z.record(z.string(), z.unknown())
 
-function valuesOf(line: string, path: string): Value {
-  let held: Value | null
-  try {
-    held = TRACE_ROW.safeParse(JSON.parse(line)).data ?? null
-  } catch {
-    throw new Error(`insertLocationTraces: ${path} carries a line that is not JSON`)
-  }
-  if (held === null) {
-    throw new Error(`insertLocationTraces: ${path} carries a line that is not a row`)
-  }
-  return held
-}
-
 function identityOf(values: Value): string {
   return traceIdentity({
     deviceId: textAt(values, "deviceId") ?? "",
     clientSeq: numberAt(values, "clientSeq") ?? Number.NaN,
     capturedAt: textAt(values, "capturedAt") ?? "",
   })
+}
+
+function identityIn(line: string, path: string): string | null {
+  try {
+    const held = TRACE_ROW.safeParse(JSON.parse(line)).data
+    if (held === undefined) throw new Error("the line is JSON but no row")
+    return identityOf(held)
+  } catch (err) {
+    console.warn(
+      `insertLocationTraces: ${path} carries a line that names no trace, kept as it is — ${String(err)}: ${line}`
+    )
+    return null
+  }
 }
 
 function put(row: Record<string, unknown>, key: string, held: unknown): undefined {
@@ -121,7 +121,10 @@ export function rowOf(trace: LocationTraceInsert, id: string): string {
 export function mergedInto(read: readonly string[], held: Held, path: string): Merged {
   const lines = [...read]
   const filed = new Set<string>()
-  for (const line of lines) filed.add(identityOf(valuesOf(line, path)))
+  for (const line of lines) {
+    const identity = identityIn(line, path)
+    if (identity !== null) filed.add(identity)
+  }
   let inserted = 0
   for (const [identity, trace] of held) {
     if (filed.has(identity)) continue

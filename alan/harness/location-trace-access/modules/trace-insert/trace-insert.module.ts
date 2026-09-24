@@ -27,6 +27,14 @@ export const traceInsert = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A line already on the rows that names no trace is kept as it is and logged.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a line refuses no trace filed beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A batch with no trace is answered with a count of zero and no write.",
     },
     {

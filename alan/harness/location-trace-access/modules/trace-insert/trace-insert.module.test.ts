@@ -174,6 +174,15 @@ test("a trace already filed is left as it is rather than filed a second time", (
   expect(again.lines).toEqual(first.lines)
 })
 
+test("a line already there that names no trace is kept and blocks no trace", () => {
+  const path = traceRowsIn(LATER_DAY)
+  const one = traceOf(1, AFTER_THE_TURN)
+  const merged = mergedInto(["{ not json", "[1, 2]"], [[traceIdentity(one), one]], path)
+  expect(merged.inserted).toBe(1)
+  expect(merged.lines.slice(0, 2)).toEqual(["{ not json", "[1, 2]"])
+  expect(parseRow(merged.lines, 2)["clientSeq"]).toBe(1)
+})
+
 test("a trace is told apart by its device, its sequence and the instant it was captured", () => {
   const path = traceRowsIn(LATER_DAY)
   const one = traceOf(1, AFTER_THE_TURN)
