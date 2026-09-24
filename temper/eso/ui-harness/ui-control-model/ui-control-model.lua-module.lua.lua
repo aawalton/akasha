@@ -77,6 +77,12 @@ end
 local birth
 local dress
 
+local function childHeld(name, parent)
+  local held = named[resolved(name, parent)]
+  if held ~= nil and held.uiParent == parent then return held end
+  return nil
+end
+
 dress = function(control, spec)
   if spec == nil then return control end
   if spec.hidden ~= nil then control:SetHidden(spec.hidden) end
@@ -104,7 +110,8 @@ dress = function(control, spec)
   end
   if spec.children ~= nil then
     for _, child in ipairs(spec.children) do
-      dress(birth(child.name, control, child.controlType, nil), child)
+      local held = childHeld(child.name, control)
+      dress(held or birth(child.name, control, child.controlType, nil), child)
     end
   end
   if spec.handlers ~= nil then

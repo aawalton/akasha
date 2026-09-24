@@ -135,6 +135,11 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A child that control already holds under the template's name is dressed again, not made twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A control the game makes that an addon extends is made here under the screen.",
     },
     {
