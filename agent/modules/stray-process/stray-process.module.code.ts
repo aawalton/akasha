@@ -12,6 +12,7 @@ import {
   type Read,
   readFor,
 } from "akasha/agent/subagent/modules/liveness/subagent-liveness.module.code.ts"
+import { z } from "zod"
 
 export type Stray = {
   readonly pid: number
@@ -46,8 +47,10 @@ const REQUOTED = `'"'"'`
 
 const EXPORTED = new RegExp(`export ${ACTING_NAMED}=(${REQUOTED}|${QUOTE})(${SPELLED})\\1\\n`)
 
+const EXPORT_MATCH = z.tuple([z.string(), z.string(), z.string()])
+
 export function actingNamedOn(cmdline: string): string | null {
-  return EXPORTED.exec(cmdline)?.[2] ?? null
+  return EXPORT_MATCH.safeParse(EXPORTED.exec(cmdline)).data?.[2] ?? null
 }
 
 export function actingOf(entry: ProcLivenessEntry): string | null {

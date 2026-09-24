@@ -148,7 +148,7 @@ export function homeAt(): string | null {
   return optionalEnv("HOME") ?? null
 }
 
-export function unreadIn(held: unknown): readonly string[] {
+export function parseUnread(held: unknown): readonly string[] {
   if (!Array.isArray(held)) return NONE
   return held.filter((one): one is string => typeof one === "string").sort()
 }
@@ -158,7 +158,7 @@ export function keptRead(home: string | null): readonly string[] {
   const at = keptAt(home)
   if (!existsSync(at)) return NONE
   try {
-    return unreadIn(JSON.parse(readFileSync(at, "utf8")))
+    return parseUnread(JSON.parse(readFileSync(at, "utf8")))
   } catch {
     return NONE
   }

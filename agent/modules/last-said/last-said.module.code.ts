@@ -1,3 +1,5 @@
+import { z } from "zod"
+
 const ASSISTANT = "assistant"
 
 const USER = "user"
@@ -18,18 +20,17 @@ const TYPE = "type"
 
 const TEXT = "text"
 
-type Held = Record<string, unknown>
+const HELD = z.record(z.string(), z.unknown())
+
+type Held = z.infer<typeof HELD>
 
 function heldIn(line: string): Held | null {
   if (line.trim() === "") return null
-  let parsed: unknown
   try {
-    parsed = JSON.parse(line)
+    return HELD.safeParse(JSON.parse(line)).data ?? null
   } catch {
     return null
   }
-  if (parsed === null || typeof parsed !== "object" || Array.isArray(parsed)) return null
-  return parsed as Held
 }
 
 function heldAt(held: Held, key: string): Held | null {

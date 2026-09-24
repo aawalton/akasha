@@ -115,7 +115,7 @@ function withReach(said: Reading, through: number | null): Reading {
   return through === null ? said : { ...said, readThrough: through }
 }
 
-function readingOf(value: unknown): Reading | null {
+function parseReading(value: unknown): Reading | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null
   const held = value as {
     path?: unknown
@@ -137,7 +137,7 @@ function readingOf(value: unknown): Reading | null {
 function lineOf(line: string): Reading | null {
   if (line.trim() === "") return null
   try {
-    return readingOf(JSON.parse(line) as unknown)
+    return parseReading(JSON.parse(line))
   } catch {
     return null
   }
