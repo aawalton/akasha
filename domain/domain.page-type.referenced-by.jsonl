@@ -649,6 +649,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/declaration/temper-eso-declaration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/path/temper-eso-path.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/return/temper-eso-return.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/saved-variable/saved-vars-migration/temper-saved-vars-migration.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/saved-variable/temper-saved-variable.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"temper/eso/temper-eso.domain.ts"}

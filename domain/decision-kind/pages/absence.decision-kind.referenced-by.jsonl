@@ -1980,6 +1980,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/modules/lua-protocol/lua-protocol.module.ts","id":"01a06059-2491-7831-9607-9a067a9a884b"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
 {"propertySlug":"decision-kind","path":"temper/eso/path/modules/eso-paths/eso-paths.module.ts","id":"01a06050-639f-7d76-bfda-f105e8a7cd3e"}
+{"propertySlug":"decision-kind","path":"temper/eso/return/modules/engine-returns/engine-returns.data-table.ts","id":"01a0d3c5-5ecf-731e-8aac-e6d41396fb48"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.ts","id":"01a06053-3635-7645-b6ba-ffae9f98d01e"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/modules/bundle-member-saved-vars/bundle-member-saved-vars.module.ts","id":"01a06072-5abd-75b9-b1b8-07150462637e"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-blocks/saved-vars-blocks.module.ts","id":"01a06072-5abc-7ca4-972f-214d6d6ef964"}

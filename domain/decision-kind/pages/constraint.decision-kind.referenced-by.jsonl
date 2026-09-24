@@ -1071,6 +1071,8 @@
 {"propertySlug":"decision-kind","path":"temper/eso/declaration/modules/eso-declaration-narrowing/eso-declaration-narrowing.module.ts","id":"01a0ca7d-ccfa-7d68-ad8a-cc8ae5982e94"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/eso-sandbox-prelude/eso-sandbox-prelude.lua-module.ts","id":"01a06059-2490-71da-a837-990f36920c7e"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}
+{"propertySlug":"decision-kind","path":"temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.ts","id":"01a0d3c6-faa9-7055-a0c7-5406e809aa28"}
+{"propertySlug":"decision-kind","path":"temper/eso/return/temper-eso-return.domain.ts","id":"01a0d3c5-26b3-7e9b-a4cc-6e4b1be2fbe7"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/account-wide/account-wide.module.ts","id":"01a06053-3636-700a-9f99-a7c1b8442ab7"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-array/lua-array.module.ts","id":"01a06053-3636-7157-ade2-a72c0d19b41c"}
 {"propertySlug":"decision-kind","path":"temper/eso/saved-variable/modules/lua-parser/lua-parser.module.ts","id":"01a06053-3635-710f-8f31-18095cf8a395"}
