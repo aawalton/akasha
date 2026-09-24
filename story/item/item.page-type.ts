@@ -20,6 +20,13 @@ export const item = {
     { pageProperty: "relation-property/item-character", required: true, many: false },
     { pageProperty: "relation-property/item-slot", required: false, many: false },
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What covers a creature and what a creature strikes with are items the creature has.",
+    },
+  ],
   directives: [
     {
       directiveKind: "directive-kind/rule",
