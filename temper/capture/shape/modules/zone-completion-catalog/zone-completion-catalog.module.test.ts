@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import type { ZoneCompletionCatalogZone } from "akasha/temper/capture/shape/modules/zone-completion-catalog/zone-completion-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
@@ -24,7 +25,11 @@ const zoneCompletionCatalogZoneSchema = z
 
 const zoneCompletionCatalogSchema = z.record(z.number(), zoneCompletionCatalogZoneSchema)
 
-assertSchemaMatchesPayload<
-  typeof zoneCompletionCatalogSchema,
-  Record<number, ZoneCompletionCatalogZone>
->()
+test("the zone completion catalog schema infers exactly the zone completion catalog shape", () => {
+  expect(
+    assertSchemaMatchesPayload<
+      typeof zoneCompletionCatalogSchema,
+      Record<number, ZoneCompletionCatalogZone>
+    >()
+  ).toBeUndefined()
+})
