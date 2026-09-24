@@ -10,6 +10,7 @@ import { readOwnTranscriptTail } from "akasha/agent/modules/io-probe/io-probe.mo
 import { seatIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { transcriptRecordOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
+import { z } from "zod"
 
 const HOOK = "name-session"
 
@@ -77,21 +78,26 @@ export function namingLines(name: string, session: string): string {
   ].join("\n")
 }
 
+const NAME_LINE = z.looseObject({
+  type: z.literal(NAMES),
+  sessionId: z.string(),
+  agentName: z.string(),
+})
+
+type NameLine = z.infer<typeof NAME_LINE>
+
 export function nameInTail(tail: string, session: string): string | null {
   let found: string | null = null
   for (const line of tail.split("\n")) {
     if (!line.startsWith("{")) continue
-    let held: unknown
+    let held: NameLine | undefined
     try {
-      held = JSON.parse(line)
+      held = NAME_LINE.safeParse(JSON.parse(line)).data
     } catch {
       continue
     }
-    if (held === null || typeof held !== "object" || Array.isArray(held)) continue
-    const one = held as Record<string, unknown>
-    if (one["type"] !== NAMES || one["sessionId"] !== session) continue
-    const named = one["agentName"]
-    if (typeof named === "string") found = named
+    if (held === undefined || held.sessionId !== session) continue
+    found = held.agentName
   }
   return found
 }

@@ -16,8 +16,20 @@ import {
   SUBAGENT_MARK,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { z } from "zod"
 
 const SCRIPT = join(import.meta.dir, "name-subagent.agent-hook.code.ts")
+
+const REWRITE = z.strictObject({
+  hookSpecificOutput: z.strictObject({
+    hookEventName: z.string(),
+    updatedInput: z.strictObject({ command: z.string() }),
+  }),
+})
+
+function commandIn(out: string): string {
+  return REWRITE.parse(JSON.parse(out)).hookSpecificOutput.updatedInput.command
+}
 
 const SEAT = "01a04fc3-fa00-7000-bbc9-a79135819969"
 
@@ -138,7 +150,7 @@ test("a payload carrying no tool input at all is left as it is", () => {
 test("a call a subagent makes is answered with the input it is to run with", () => {
   const said = answerFor(SEATED, JSON.stringify(payloadOf({ agent_id: SUB })))
   expect(said.code).toBe(ASIDE)
-  expect(JSON.parse(said.out)).toEqual({
+  expect(REWRITE.parse(JSON.parse(said.out))).toEqual({
     hookSpecificOutput: {
       hookEventName: "PreToolUse",
       updatedInput: { command: exporting(UNDER, RUNS) },
@@ -174,7 +186,7 @@ test("this hook refuses nothing, whatever it is handed", () => {
 test("the judgement this hook exports names a subagent's call as a run of the hook does", () => {
   const said = judgedFor(payloadOf({ agent_id: SUB }), SEATED)
 
-  expect(JSON.parse(said.out).hookSpecificOutput.updatedInput.command).toBe(exporting(UNDER, RUNS))
+  expect(commandIn(said.out)).toBe(exporting(UNDER, RUNS))
 })
 
 test("the judgement this hook exports leaves a seat's own call alone", () => {
@@ -193,7 +205,7 @@ test("the hook run as the harness runs it hands the named call back", () => {
   const said = ranWith(JSON.stringify(payloadOf({ agent_id: SUB })), SEATED)
   expect(said.code).toBe(ASIDE)
   expect(said.err).toBe("")
-  expect(JSON.parse(said.out).hookSpecificOutput.updatedInput.command).toBe(exporting(UNDER, RUNS))
+  expect(commandIn(said.out)).toBe(exporting(UNDER, RUNS))
 })
 
 test("the hook run as the harness runs it says nothing of a seat's own call", () => {

@@ -12,6 +12,16 @@ import {
 import { ASIDE } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { SEAT_NAMED } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
+import { z } from "zod"
+
+const NAME_LINE = z.strictObject({ type: z.string(), agentName: z.string(), sessionId: z.string() })
+
+const TITLE_LINE = z.strictObject({
+  type: z.string(),
+  customTitle: z.string(),
+  sessionId: z.string(),
+})
 
 const SCRIPT = join(import.meta.dir, "name-session.agent-hook.code.ts")
 
@@ -51,8 +61,8 @@ function ranWith(
   seat: string | null
 ): { readonly code: number; readonly out: string; readonly err: string } {
   const env: Record<string, string> = {
-    PATH: process.env["PATH"] ?? "",
-    HOME: process.env["HOME"] ?? "",
+    PATH: optionalEnv("PATH") ?? "",
+    HOME: optionalEnv("HOME") ?? "",
   }
   if (seat !== null) env[SEAT_NAMED] = seat
   return ran(["bun", SCRIPT], { stdin: Buffer.from(raw), env })
@@ -60,12 +70,12 @@ function ranWith(
 
 test("a name is written in the two shapes the harness itself writes", () => {
   const lines = namingLines(NAME, SESSION).split("\n")
-  expect(JSON.parse(lines[0] ?? "")).toEqual({
+  expect(NAME_LINE.parse(JSON.parse(lines[0] ?? ""))).toEqual({
     type: "agent-name",
     agentName: NAME,
     sessionId: SESSION,
   })
-  expect(JSON.parse(lines[1] ?? "")).toEqual({
+  expect(TITLE_LINE.parse(JSON.parse(lines[1] ?? ""))).toEqual({
     type: "custom-title",
     customTitle: NAME,
     sessionId: SESSION,
