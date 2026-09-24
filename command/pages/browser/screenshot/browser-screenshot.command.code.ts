@@ -106,22 +106,22 @@ function waited(ms: number): Promise<undefined> {
   })
 }
 
+async function clickedClosed(tab: Session["page"]): Promise<number> {
+  let count = 0
+  for (const panel of await tab.$$(CLOSED_PANEL)) {
+    const measured = await panel.evaluate((drawn, inert) => drawn.closest(inert) !== null, MEASURED)
+    if (measured) continue
+    const trigger = await panel.$(PANEL_TRIGGER)
+    if (trigger === null) continue
+    await trigger.dispatchEvent("click")
+    count += 1
+  }
+  return count
+}
+
 async function opened(tab: Session["page"]): Promise<undefined> {
-  const where = { closed: CLOSED_PANEL, trigger: PANEL_TRIGGER, measured: MEASURED }
   for (let round = 0; round < PANEL_ROUNDS; round += 1) {
-    const clicked = await tab
-      .evaluate((said: typeof where) => {
-        let count = 0
-        for (const panel of document.querySelectorAll<HTMLElement>(said.closed)) {
-          if (panel.closest(said.measured) !== null) continue
-          const trigger = panel.querySelector<HTMLElement>(said.trigger)
-          if (trigger === null) continue
-          trigger.click()
-          count += 1
-        }
-        return count
-      }, where)
-      .catch(() => 0)
+    const clicked = await clickedClosed(tab).catch(() => 0)
     if (clicked === 0) break
     await waited(PANEL_SETTLE_MS)
   }
