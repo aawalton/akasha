@@ -42,7 +42,7 @@ function facedIn(shape: Shape, value: Value, written: string | null): Shape {
 }
 
 export function shapedIn(value: Value): Shape | null {
-  const pageTypeSlug = slugAt(value, "type") ?? slugAt(value, "pageTypeSlug")
+  const pageTypeSlug = slugAt(value, "type")
   const slug = textAt(value, "slug")
   const propertySlug = textAt(value, "propertySlug")
   if (pageTypeSlug === null || slug === null || propertySlug === null) return null
