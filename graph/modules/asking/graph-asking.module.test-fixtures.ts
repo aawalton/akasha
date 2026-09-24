@@ -19,6 +19,7 @@ import {
 } from "akasha/page/modules/referencing/page-referencing.module.code.ts"
 import { bodyOf } from "akasha/page/modules/referencing/page-referencing.module.test-fixtures.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const GRAPH_EDGE = "graph-edge"
 
@@ -198,7 +199,7 @@ function edged(
 ): undefined {
   paged(root, EDGE_AT, {
     id: EDGE_ID,
-    pageTypeSlug: GRAPH_EDGE,
+    type: `${pageType.slug}/${GRAPH_EDGE}`,
     slug: kind,
     definition: "an edge kind a test invented",
     ...held,
@@ -209,7 +210,7 @@ function edged(
 function pageTyped(root: string): undefined {
   paged(root, PAGE_TYPE_AT, {
     id: PAGE_TYPE_ID,
-    pageTypeSlug: PAGE_TYPE,
+    type: `${pageType.slug}/${PAGE_TYPE}`,
     slug: PAGE,
     definition: "a page type a test invented",
   })
@@ -222,7 +223,7 @@ export function relationWorld(lines: number, pagesExist = true): string {
   pageTyped(root)
   paged(root, TARGET_AT, {
     id: TARGET_ID,
-    pageTypeSlug: PAGE,
+    type: `${pageType.slug}/${PAGE}`,
     slug: TARGET,
     definition: "a page a test invented",
   })
@@ -284,7 +285,7 @@ export function loadingWorld(loadedBy: string | null, typeExists = true): string
   const root = worldFor()
   paged(root, TYPE_AT, {
     id: TYPE_ID,
-    pageTypeSlug: PAGE_TYPE,
+    type: `${pageType.slug}/${PAGE_TYPE}`,
     slug: HELD_TYPE,
     definition: "a page type a test invented",
     ...(loadedBy === null ? {} : { loadedBy }),
@@ -293,7 +294,7 @@ export function loadingWorld(loadedBy: string | null, typeExists = true): string
   importsFiled(root, LOADED_AT, [SOURCE_AT])
   paged(root, LOADER_AT, {
     id: LOADER_ID,
-    pageTypeSlug: MODULE,
+    type: `${pageType.slug}/${MODULE}`,
     slug: HELD_LOADER,
     definition: "a module a test invented",
     code: "ts",
@@ -302,7 +303,7 @@ export function loadingWorld(loadedBy: string | null, typeExists = true): string
     path: LOADER_AT,
     id: LOADER_ID,
   })
-  paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
+  paged(root, LOADED_AT, { id: LOADED_ID, type: "page-type/held-type", slug: LOADED })
   filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
   filed(root, `path/${LOADED_CODE_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
   return root
@@ -313,7 +314,7 @@ export function loaderWorld(names = true): string {
   edged(root, RELATION, { attributes: [`${GRAPH_ATTRIBUTE}/${PROPERTY}`] }, true)
   paged(root, TYPE_AT, {
     id: TYPE_ID,
-    pageTypeSlug: PAGE_TYPE,
+    type: `${pageType.slug}/${PAGE_TYPE}`,
     slug: HELD_TYPE,
     definition: "a page type a test invented",
     loadedBy: `${MODULE}/${HELD_LOADER}`,
@@ -323,7 +324,7 @@ export function loaderWorld(names = true): string {
   filed(root, TYPE_FILED_AT, { path: TYPE_AT, id: TYPE_ID })
   paged(root, LOADER_AT, {
     id: LOADER_ID,
-    pageTypeSlug: MODULE,
+    type: `${pageType.slug}/${MODULE}`,
     slug: HELD_LOADER,
     definition: "a module a test invented",
     code: "ts",
@@ -335,19 +336,19 @@ export function loaderWorld(names = true): string {
   })
   paged(root, MODULE_TYPE_AT, {
     id: MODULE_TYPE_ID,
-    pageTypeSlug: PAGE_TYPE,
+    type: `${pageType.slug}/${PAGE_TYPE}`,
     slug: MODULE,
     definition: "a page type a test invented",
   })
   filed(root, MODULE_FILED_AT, { path: MODULE_TYPE_AT, id: MODULE_TYPE_ID })
-  paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
+  paged(root, LOADED_AT, { id: LOADED_ID, type: "page-type/held-type", slug: LOADED })
   filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
   filed(root, `page-type/${HELD_TYPE}/slug/${LOADED}.jsonl`, {
     path: LOADED_AT,
     id: LOADED_ID,
   })
   linesFiled(root, `value/${HELD_TYPE}.jsonl`, [
-    { path: LOADED_AT, value: { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED } },
+    { path: LOADED_AT, value: { id: LOADED_ID, type: "page-type/held-type", slug: LOADED } },
   ])
   if (names) {
     besideAdded(root, LOADER_AT, [
