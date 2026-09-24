@@ -12,62 +12,37 @@ import {
   TabsList,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
+import {
+  metaOf,
+  SITE_DOCUMENT,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { List } from "lucide-react"
 
-export function meta() {
-  return [{ title: "Principles" }]
+const WEB_APP = namedAs("web-app", alanwaltonWeb.slug, null)
+
+const READ = [SITE_DOCUMENT]
+
+export async function loader() {
+  return { document: await siteDocumentAt(WEB_APP, "principles") }
 }
 
-const PRINCIPLES = [
-  {
-    number: 1,
-    name: "Judgment",
-    tagline:
-      "Always use good judgment. If something seems wrong, dig deeper. First research, then ask, never guess.",
-    body: "Rules are guidelines, not constraints — apply them in service of their intent. Decisions fall into three tiers: mechanical decisions (deterministic inputs, fixed outputs) get automated; editorial decisions (approach selection, framing, model selection) get agent judgment; high-stakes or user-intent decisions (scope, priority, design direction) get escalated to the user. When facing an unknown, research first — can it be answered by reading code, checking infrastructure, or tracing data flows? If not, ask the user. Genuine ambiguity requires user input; never assume. The distinction between researchable and genuine ambiguity is itself a judgment call.",
-  },
-  {
-    number: 2,
-    name: "Quality",
-    tagline:
-      "Pull on every loose thread. Make the parts people can't see beautiful. Beauty requires clarity and clarity brings success.",
-    body: "Internal elegance is a standard, not an absence of mess. Clean logic, precise naming, and deliberate structure are the goal — the code should communicate intent so clearly that the reader never has to guess. Fix known issues adjacent to your current work rather than scoping around them. When you leave an area better than you found it, that is craftsmanship.",
-  },
-  {
-    number: 3,
-    name: "Architecture",
-    tagline:
-      "First make the change easy, then make the easy change. If something is hard, take a broader perspective to understand why.",
-    body: "Difficulty is information about the architecture — when something resists change, zoom out to understand why before pushing through. When a change is hard, first restructure so the desired change becomes straightforward. This separates risk: preparatory restructuring preserves behavior while reorganizing; the actual change is then a simple, obvious edit — two safe steps instead of one risky leap.",
-  },
-  {
-    number: 4,
-    name: "Complexity",
-    tagline:
-      "Build deep modules with shallow interfaces. Scale is limited primarily by the ability to manage complexity. Every abstraction should make life easier, not harder. Be generous with what you consume, but strict with what you produce.",
-    body: "Modules should encapsulate significant complexity behind small interfaces — push complexity into the module, not the caller. A function requiring many parameters, or an agent requiring a paragraph of setup in its spawn prompt, has an interface that is too shallow. On the communication boundary: accept varied inputs, tolerate ambiguity, interpret charitably; produce precise formats, all required fields, consistent structure. This asymmetry makes inter-agent communication robust.",
-  },
-  {
-    number: 5,
-    name: "Consistency",
-    tagline:
-      "Solve problems using the most reliable technique that solves the problem. Types are better than tests. Automated tests are better than manual tests. Scripts are better than agents. Code is better than docs.",
-    body: "Each level of the hierarchy eliminates an entire class of failure mode: types rule out type errors before the code runs; tests catch logic errors before deployment; scripts remove non-determinism from processes entirely. The hierarchy is about narrowing the space where things can go wrong. Judgment still applies — if a type-level enforcement would be convoluted and a test expresses the invariant more clearly, use the test. Code is the source of truth; docs drift.",
-  },
-  {
-    number: 6,
-    name: "Safety",
-    tagline:
-      "Every step works. Every step compiles. Nothing breaks. Use safe refactor patterns even for local changes. If something goes wrong, investigate, and make sure that type of failure never happens again.",
-    body: "Work in safe refactor patterns — no broken intermediate states, even for speed. Named patterns: Expand-contract (add new interface alongside old, migrate callers, remove old), Extract-then-modify (extract function/component, update references, then modify), Add-before-remove (add new column/field/route, update code, then remove old). When failures occur, trace root causes and add structural prevention — types, tests, process gates — so the same class of failure cannot recur.",
-  },
-] as const
+type PrinciplesLoaderData = Awaited<ReturnType<typeof loader>>
 
-export default function PrinciplesRoute() {
+export function meta({ data }: { data: PrinciplesLoaderData | undefined }) {
+  return metaOf(data?.document, null)
+}
+
+export default function PrinciplesRoute({ loaderData }: { loaderData: PrinciplesLoaderData }) {
+  useLoaderFollowing(READ)
+  const { document } = loaderData
   return (
     <PageLayout>
       <PageLayout.Header>
-        <PageTitle>Principles</PageTitle>
+        <PageTitle>{document.title}</PageTitle>
       </PageLayout.Header>
 
       <Tabs defaultValue="all">
@@ -81,15 +56,15 @@ export default function PrinciplesRoute() {
           <TabsContent value="all">
             <PageTabHeader title="All Principles" />
             <ResponsiveColumns>
-              {PRINCIPLES.map((p) => (
-                <PanelCard
-                  key={p.number}
-                  id={`principle-${p.number}`}
-                  title={`${p.number}. ${p.name}`}
-                >
+              {document.sections.map((section) => (
+                <PanelCard key={section.anchor} id={section.anchor} title={section.title}>
                   <div className="space-y-3">
-                    <Heading variant="subsection-accent">{p.tagline}</Heading>
-                    <p className="text-secondary text-sm">{p.body}</p>
+                    {section.lead === null ? null : (
+                      <Heading variant="subsection-accent">{section.lead}</Heading>
+                    )}
+                    {section.text === null ? null : (
+                      <p className="text-secondary text-sm">{section.text}</p>
+                    )}
                   </div>
                 </PanelCard>
               ))}

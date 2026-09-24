@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"site-document.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-about.site-document.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"site-document.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-contact.site-document.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"site-document.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-landing.site-document.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"site-document.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-principles.site-document.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"site-document.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-privacy.site-document.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"site-document.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-services.site-document.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"site-document.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-web-sms.site-document.ts","typed":true,"deferred":false}
