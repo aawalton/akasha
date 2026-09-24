@@ -235,7 +235,6 @@ export const temperWeb = {
     "module/pack-upgrades-panel-card",
     "module/panel-card-skeleton",
     "module/passive-skills-panel-card",
-    "module/path-tracker",
     "module/plan-tab",
     "module/player-settings",
     "module/poi-progress-panel-card",

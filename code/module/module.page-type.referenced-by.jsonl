@@ -6380,7 +6380,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/pack-upgrades-panel-card/pack-upgrades-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/panel-card-skeleton/panel-card-skeleton.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/path-tracker/path-tracker.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/plan-tab/plan-tab.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/player-settings/player-settings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/poi-progress-panel-card/poi-progress-panel-card.module.ts","typed":true,"deferred":false}
