@@ -21,7 +21,7 @@ export const wholeNumberIn = {
       statement: "Digits running past the largest number there is are no whole number.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Digits naming a number past the last exact one are answered rounded.",
     },
   ],
