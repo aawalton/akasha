@@ -6,7 +6,7 @@ export const weeklyUsage = {
   slug: "weekly-usage",
   definition: "how much of the weekly Claude allowance the pool has spent",
   label: "Weekly Usage",
-  unit: "percent",
+  unit: "%",
   place: 1,
   drawnAs: "number",
   colorFrom: "readout/weekly-ends",
