@@ -11,4 +11,5 @@ export const irisWorldBuilderTheTower = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "4ae98dba-d913-42b5-b3aa-88e9877da71d",
 } as const satisfies Seat
