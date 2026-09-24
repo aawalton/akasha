@@ -22,5 +22,4 @@ export const companionTraits = {
       statement: "A trait moved to another place breaks every build hash saved.",
     },
   ],
-  hashIndexed: ["COMPANION_TRAIT_DATA"],
 } as const satisfies Module
