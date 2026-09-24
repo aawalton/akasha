@@ -1,7 +1,6 @@
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import { PROMOTED_COLUMN_KEYS } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import type { JsonPatch } from "akasha/page/access/modules/types/types.module.code.ts"
-import { asJson } from "akasha/page/core/modules/as-json/as-json.module.code.ts"
 import type { RowOverlay } from "akasha/page/ui-store/optimistic/modules/plan/plan.module.code.ts"
 import { z } from "zod"
 
@@ -30,15 +29,15 @@ const CAMEL_TO_SNAKE: Record<string, string> = {
 }
 
 export function buildPatchPlan(args: {
-  readonly set: Record<string, unknown>
+  readonly set: Record<string, Json>
   readonly patch?: JsonPatch | undefined
 }): {
   readonly patchPromoted: PromotedColumnPatch
-  readonly patchAttributes: Record<string, unknown>
+  readonly patchAttributes: Record<string, Json>
   readonly patchAttributesPatch: JsonPatch | undefined
 } {
-  const promotedRaw: Record<string, unknown> = {}
-  const patchAttributes: Record<string, unknown> = {}
+  const promotedRaw: Record<string, Json> = {}
+  const patchAttributes: Record<string, Json> = {}
   for (const [k, v] of Object.entries(args.set)) {
     if (PROMOTED_COLUMN_KEYS.has(k)) {
       const snake = CAMEL_TO_SNAKE[k] ?? k
@@ -57,13 +56,11 @@ export function buildPatchPlan(args: {
 
 export function buildOverlay(triple: {
   readonly patchPromoted: PromotedColumnPatch
-  readonly patchAttributes: Record<string, unknown>
+  readonly patchAttributes: Record<string, Json>
   readonly patchAttributesPatch: JsonPatch | undefined
 }): RowOverlay {
-  const attributes: Record<string, Json> = {}
-  for (const [k, v] of Object.entries(triple.patchAttributes)) attributes[k] = asJson(v)
   return {
-    attributes,
+    attributes: { ...triple.patchAttributes },
     attributesPatch: triple.patchAttributesPatch,
     promoted: triple.patchPromoted,
   }
