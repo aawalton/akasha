@@ -4,7 +4,7 @@ export const errorsClient = {
   id: "01a05c89-6033-7676-ba14-f9bfd36ca899",
   type: "page-type/domain",
   slug: "errors-client",
-  definition: "an error caught in a browser sent to the site that served it",
+  definition: "how errors in a browser are handled",
   parts: [
     "module/error-capture-installer",
     "module/error-reporting",
