@@ -35,5 +35,6 @@ export const athenaInteractiveSeatPages = {
         "A seat's page shows each new message and change of working color live, with no refresh.",
     },
     { statement: "A seat's page is laid out for a phone first and works as well on a desktop." },
+    { statement: "The page service answers a seat's conversation as a value of that seat." },
   ],
 } as const satisfies Initiative
