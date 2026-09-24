@@ -94,6 +94,10 @@ export const pageFileName = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A form that is not lower letters and digits is refused rather than put together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The section `uncommitted` is reserved.",
     },
     {

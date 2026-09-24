@@ -174,7 +174,7 @@ export function secretNamed(path: string): boolean {
 }
 
 export function besideAt(path: string, propertySlug: string, held: string): string | null {
-  if (!path.endsWith(TS)) return null
+  if (!path.endsWith(TS) || !HELD_PART.test(held)) return null
   return `${path.slice(0, -TS.length)}.${propertySlug}.${held}`
 }
 

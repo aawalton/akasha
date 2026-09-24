@@ -133,6 +133,7 @@ test("what a property holds names the end, so a property need not be TypeScript"
 
 test("a path that is no TypeScript file is refused rather than answered", () => {
   expect(besideAt("one/notes.txt", "code", "ts")).toBeNull()
+  expect(besideAt("one/a.check.ts", "code", "t.s")).toBeNull()
 })
 
 test("what besideAt puts together, heldIn takes apart again", () => {
