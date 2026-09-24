@@ -45,6 +45,16 @@ export const changePropertyRecordField = {
       statement:
         "A field no record property declares is refused where the record does not state that field.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The kind a declared field holds is read from the page type its property descends from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A field whose property descends from no boolean or number property is handed no kind.",
+    },
   ],
   changeKind: "change-kind/change-restated",
   maxCpuSeconds: 30,

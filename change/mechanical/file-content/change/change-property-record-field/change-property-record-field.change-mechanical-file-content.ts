@@ -55,12 +55,55 @@ export const changePropertyRecordField = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A field a record states as other than text is refused rather than added a second time.",
+      statement: "A field a record states already is restated rather than added a second time.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "Whether the field is declared is handed in rather than worked out here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field holding text, a boolean, a number or null is restated.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field holding a list or a record is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The value handed in is spelled as the kind the field's property holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The kind the field's property holds is handed in rather than worked out here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field handed no kind holds text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value that does not spell as that kind is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field holding a kind other than the kind its value is spelled as is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field holding null is restated as any kind.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No value handed in is spelled as null.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value the field states already is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the field's value is replaced, and the rest of its line is kept.",
     },
   ],
   changeKind: "change-kind/change-mechanical",

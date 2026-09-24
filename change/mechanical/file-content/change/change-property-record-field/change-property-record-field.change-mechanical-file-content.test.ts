@@ -111,11 +111,11 @@ test("text more than one record states is refused, and the refusal says how many
   )
 })
 
-test("a record stating no text under a field its record property does not declare is refused", () => {
+test("a record stating nothing under a field its record property does not declare is refused", () => {
   const said = ranOn(named("statement", "the first", "definition"), "x")
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("that record states no text under `definition`")
+  expect(said.refused).toBe("that record states nothing under `definition`")
 })
 
 test("a declared field a record does not state is added after that record's last field", () => {
@@ -132,13 +132,29 @@ test("a declared field a record does not state is added after that record's last
   )
 })
 
-test("a declared field a record states as other than text is refused rather than added again", () => {
+test("a field holding a boolean is not restated as text", () => {
   const body = BODY.replace(`statement: "the first",`, `statement: "the first",\n      held: true,`)
 
   const said = fieldRestated(AT, body, named("statement", "the first", "held"), "x", true)
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe("that record states no text under `held`")
+  expect(said.refused).toBe(
+    "`held` holds a boolean, and `x` is spelled as text, so nothing is restated"
+  )
+})
+
+test("a field holding a list is refused", () => {
+  const body = BODY.replace(
+    `statement: "the first",`,
+    `statement: "the first",\n      aids: ["a"],`
+  )
+
+  const said = fieldRestated(AT, body, named("statement", "the first", "aids"), "x", true)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe(
+    "`aids` in that record holds no text, boolean, number or null, so nothing is restated"
+  )
 })
 
 test("a declared field a record states already is restated rather than added", () => {
@@ -160,4 +176,78 @@ test("the text is written back quoted", () => {
   const said = textOn(named("statement", "the first", "workingMemory"), 'has "quotes"')
 
   expect(said).toContain(`workingMemory: "has \\"quotes\\"",`)
+})
+
+const TYPE_AT = "akasha/held/kept.page-type.ts"
+
+const TYPE_BODY = `import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const kept = {
+  id: "01a072c8-f35d-7ffc-afc3-75b72460b05a",
+  type: "page-type/page-type",
+  slug: "kept",
+  properties: [
+    { pageProperty: "text-property/kept-titles", required: false, many: false },
+    { pageProperty: "multi-relation-property/kept-parts", required: false, many: true, maxCount: 3 },
+    { pageProperty: "multi-relation-property/kept-links", required: false, many: true, maxCount: null },
+  ],
+} as const satisfies PageType
+`
+
+const TITLES = "text-property/kept-titles"
+
+const PARTS = "multi-relation-property/kept-parts"
+
+const LINKS = "multi-relation-property/kept-links"
+
+function declaration(is: string, field: string): Named {
+  return { key: "properties", where: "pageProperty", is, field }
+}
+
+function typeRestated(one: Named, to: string, holds?: string): Answer {
+  return fieldRestated(TYPE_AT, TYPE_BODY, one, to, true, holds)
+}
+
+function typeTextOn(one: Named, to: string, holds?: string): string {
+  return bodyOf(typeRestated(one, to, holds), (asked) => (asked === TYPE_AT ? TYPE_BODY : null))
+}
+
+test("a boolean in a page type's declaration is restated as a boolean", () => {
+  const said = typeTextOn(declaration(TITLES, "required"), "true", "boolean")
+
+  expect(said).toBe(
+    TYPE_BODY.replace(`"${TITLES}", required: false,`, `"${TITLES}", required: true,`)
+  )
+})
+
+test("a number in a declaration is restated as a number", () => {
+  const said = typeTextOn(declaration(PARTS, "maxCount"), "12", "number")
+
+  expect(said).toBe(TYPE_BODY.replace(`maxCount: 3 }`, `maxCount: 12 }`))
+})
+
+test("a field holding null is restated as the kind its property holds", () => {
+  const said = typeTextOn(declaration(LINKS, "maxCount"), "5", "number")
+
+  expect(said).toBe(TYPE_BODY.replace(`maxCount: null }`, `maxCount: 5 }`))
+})
+
+test("a value that does not spell as the kind the field's property holds is refused", () => {
+  const said = typeRestated(declaration(TITLES, "required"), "yes", "boolean")
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`yes` is no boolean, so `required` is not restated")
+})
+
+test("a boolean the field states already is refused", () => {
+  const said = typeRestated(declaration(TITLES, "required"), "false", "boolean")
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`false` is what `required` states already")
+})
+
+test("text in a declaration is still restated as text", () => {
+  const said = typeTextOn(declaration(TITLES, "pageProperty"), "text-property/kept-names")
+
+  expect(said).toBe(TYPE_BODY.replace(`"${TITLES}"`, `"text-property/kept-names"`))
 })

@@ -137,5 +137,10 @@ export const pageKnowing = {
       statement:
         "A field that record property declares as holding one value is refused as no list field.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a record field holds is read from the page type of the property that field names.",
+    },
   ],
 } as const satisfies Module

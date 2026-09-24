@@ -49,9 +49,59 @@ function worldDeclaring(fields: readonly string[]): World {
     slugOfKeyIn: (_value, key) => (key === "decisions" ? "decisions" : null),
     fieldOfKey: (_record, key) => (fields.includes(key) ? key : null),
   })
-  const index = { knownIn: () => known, pageByPath: () => PAGE, valuesByPath: () => new Map() }
+  const index = {
+    knownIn: () => known,
+    pageByPath: () => PAGE,
+    valuesByPath: () => new Map(),
+    kindsUnder: () => new Set<string>(),
+    pageAt: () => null,
+  }
   return { ...worldTold(), index: index as never }
 }
+
+const TYPE_BODY = `import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
+
+export const held = {
+  id: "${ID}",
+  type: "page-type/kept-type",
+  slug: "held",
+  properties: [{ pageProperty: "text-property/kept-titles", required: false, many: false }],
+} as const satisfies PageType
+`
+
+const TYPE_PAGE = { id: ID, type: "page-type/kept-type", slug: "held" } as Value
+
+function worldTyped(): World {
+  const known = knownOf({
+    admitting: (one) => [one],
+    slugOfKeyIn: (_value, key) => (key === "properties" ? "properties" : null),
+    fieldOfKey: (_record, key) => (key === "required" ? "required" : null),
+  })
+  const index = {
+    knownIn: () => known,
+    pageByPath: () => TYPE_PAGE,
+    valuesByPath: () => new Map(),
+    kindsUnder: (kind: string) => new Set([kind]),
+    pageAt: (kind: string, slug: string) =>
+      kind === "boolean-property" && slug === "required" ? TYPE_PAGE : null,
+  }
+  return { ...worldFor(TYPE_PAGE, TYPE_BODY, running), index: index as never }
+}
+
+test("a field whose property is a boolean property is restated as a boolean", async () => {
+  const asked = {
+    at: "page/held/held.page-type.ts",
+    key: "properties",
+    where: "pageProperty",
+    is: "text-property/kept-titles",
+    field: "required",
+    to: "true",
+  }
+
+  const said = await changePropertyRecordField(worldTyped(), asked)
+
+  expect(bodyOf(said, () => TYPE_BODY)).toBe(TYPE_BODY.replace("required: false", "required: true"))
+})
 
 const ASKED = {
   at: AT,
@@ -89,7 +139,7 @@ test("a field the record does not state is refused where its record property doe
   const said = await changePropertyRecordField(worldDeclaring([]), asked)
 
   expect(said.edits).toEqual([])
-  expect(said.refused ?? "").toContain("that record states no text under `workingMemory`")
+  expect(said.refused ?? "").toContain("that record states nothing under `workingMemory`")
 })
 
 test("a declared field the record states already is stated anew rather than added", async () => {

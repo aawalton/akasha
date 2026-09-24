@@ -6,13 +6,11 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { withField } from "akasha/change/modules/literal-splicing/literal-splicing.module.code.ts"
 import {
-  keyOf,
-  listIn,
-  matchingIn,
-  recordsIn,
-  textsOf,
+  assignedIn,
+  recordMatchedIn,
 } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { spelledAs } from "akasha/change/modules/value-spelling/value-spelling.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import ts from "typescript"
 
@@ -23,8 +21,39 @@ export type Named = {
   readonly field: string
 }
 
-function statesKey(record: ts.ObjectLiteralExpression, key: string): boolean {
-  return record.properties.some((each) => ts.isPropertyAssignment(each) && keyOf(each) === key)
+const TEXT = "text"
+
+const BOOLEAN = "boolean"
+
+const NUMBER = "number"
+
+const NULL = "null"
+
+const SAID_AS: Readonly<Record<string, string>> = {
+  [TEXT]: "text",
+  [BOOLEAN]: "a boolean",
+  [NUMBER]: "a number",
+}
+
+function kindOf(held: ts.Expression): string | null {
+  if (ts.isStringLiteral(held) || ts.isNoSubstitutionTemplateLiteral(held)) return TEXT
+  if (held.kind === ts.SyntaxKind.TrueKeyword || held.kind === ts.SyntaxKind.FalseKeyword) {
+    return BOOLEAN
+  }
+  if (held.kind === ts.SyntaxKind.NullKeyword) return NULL
+  if (ts.isNumericLiteral(held)) return NUMBER
+  const negative =
+    ts.isPrefixUnaryExpression(held) &&
+    held.operator === ts.SyntaxKind.MinusToken &&
+    ts.isNumericLiteral(held.operand)
+  return negative ? NUMBER : null
+}
+
+function statedAs(held: ts.Expression, source: ts.SourceFile): string {
+  if (ts.isStringLiteral(held) || ts.isNoSubstitutionTemplateLiteral(held)) {
+    return JSON.stringify(held.text)
+  }
+  return held.getText(source)
 }
 
 export function fieldRestated(
@@ -32,36 +61,38 @@ export function fieldRestated(
   text: string,
   named: Named,
   to: string,
-  declared: boolean
+  declared: boolean,
+  holds?: string
 ): Said {
   const source = parsedAs(path, text)
-  const list = listIn(source, named.key)
-  if (list === null || recordsIn(list).length === 0) {
-    return refusing(`\`${path}\` states no records under \`${named.key}\``)
+  const matched = recordMatchedIn(path, source, named.key, named.where, named.is)
+  if ("refused" in matched) return refusing(matched.refused)
+  const put = spelledAs(to, holds)
+  if (put === null) {
+    return refusing(`\`${to}\` is no ${holds}, so \`${named.field}\` is not restated`)
   }
-  const found = matchingIn(list, named.where, named.is)
-  const at = found[0]
-  const one = at === undefined ? undefined : list.elements[at]
-  if (one === undefined || !ts.isObjectLiteralExpression(one)) {
-    return refusing(`no record under \`${named.key}\` states that text under \`${named.where}\``)
+  const one = assignedIn(matched.record, named.field)
+  if (one === null) {
+    if (!declared) return refusing(`that record states nothing under \`${named.field}\``)
+    const field = `${named.field}: ${put}`
+    return stating(spliced(path, text, withField(text, source, matched.record, field)))
   }
-  if (found.length > 1) {
+  const held = one.initializer
+  const kind = kindOf(held)
+  if (kind === null) {
     return refusing(
-      `${found.length} records under \`${named.key}\` state that text under \`${named.where}\`, and one change works one`
+      `\`${named.field}\` in that record holds no text, boolean, number or null, so nothing is restated`
     )
   }
-  const held = textsOf(one).get(named.field)
-  if (held === undefined) {
-    if (!declared || statesKey(one, named.field)) {
-      return refusing(`that record states no text under \`${named.field}\``)
-    }
-    const put = `${named.field}: ${JSON.stringify(to)}`
-    return stating(spliced(path, text, withField(text, source, one, put)))
+  const spelled = holds === BOOLEAN || holds === NUMBER ? holds : TEXT
+  if (kind !== NULL && kind !== spelled) {
+    return refusing(
+      `\`${named.field}\` holds ${SAID_AS[kind]}, and \`${to}\` is spelled as ${SAID_AS[spelled]}, so nothing is restated`
+    )
   }
-  if (held.text === to) {
+  if (statedAs(held, source) === put) {
     return refusing(`\`${to}\` is what \`${named.field}\` states already`)
   }
-  const put = JSON.stringify(to)
   return stating(spliced(path, text, { from: held.getStart(source), to: held.getEnd(), put }))
 }
 
@@ -69,10 +100,11 @@ export type Given = Named & {
   readonly at: string
   readonly to: string
   readonly declared: boolean
+  readonly holds?: string
 }
 
 export function runChange(world: World, given: Given): Said {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is restated`)
-  return fieldRestated(given.at, text, given, given.to, given.declared)
+  return fieldRestated(given.at, text, given, given.to, given.declared, given.holds)
 }

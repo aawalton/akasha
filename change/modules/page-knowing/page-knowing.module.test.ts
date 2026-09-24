@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import {
   addressedIn,
   afterIn,
+  fieldHoldsIn,
   namersIn,
   pageIn,
   readFor,
@@ -222,4 +223,26 @@ test("a type the index cannot read answers no key for a slug", () => {
 
 test("a page saying no page type answers no key for a slug", () => {
   expect(spelledIn(worldDeclaring(DECLARED), { slug: "one" }, "transcript-path")).toBeNull()
+})
+
+function worldDefining(kind: string, slug: string): World {
+  return {
+    ...worldDeclaring(null),
+    index: {
+      kindsUnder: (under: string) => new Set([under]),
+      pageAt: (asked: string, named: string) => (asked === kind && named === slug ? SEAT : null),
+    } as never,
+  }
+}
+
+test("a field whose property is a boolean property holds a boolean", () => {
+  expect(fieldHoldsIn(worldDefining("boolean-property", "required"), "required")).toBe("boolean")
+})
+
+test("a field whose property is a number property holds a number", () => {
+  expect(fieldHoldsIn(worldDefining("number-property", "max-count"), "max-count")).toBe("number")
+})
+
+test("a field whose property is neither holds nothing this names", () => {
+  expect(fieldHoldsIn(worldDefining("text-property", "statement"), "statement")).toBeNull()
 })

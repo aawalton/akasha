@@ -159,6 +159,19 @@ function heldAs(world: World, pageTypeSlug: string): string | null {
   return null
 }
 
+function definedUnder(world: World, kind: string, propertySlug: string): boolean {
+  for (const one of world.index.kindsUnder(kind)) {
+    if (world.index.pageAt(one, propertySlug) !== null) return true
+  }
+  return false
+}
+
+export function fieldHoldsIn(world: World, propertySlug: string): string | null {
+  if (definedUnder(world, BOOLEAN_PROPERTY, propertySlug)) return BOOLEAN
+  if (definedUnder(world, NUMBER_PROPERTY, propertySlug)) return NUMBER
+  return null
+}
+
 const RECORD_PROPERTY = "record-property"
 
 export type ListField =

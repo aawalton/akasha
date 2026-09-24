@@ -5,7 +5,10 @@ import {
   missing,
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { readFor } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
+import {
+  fieldHoldsIn,
+  readFor,
+} from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const CHANGE_PROPERTY_RECORD_FIELD =
@@ -39,8 +42,11 @@ export async function changePropertyRecordField(
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no field is stated`)
   const record = read.known.slugOfKeyIn(read.value, given.key)
-  const declared = record !== null && read.known.fieldOfKey(record, given.field) !== null
-  return (await reach(world, CHANGE_PROPERTY_RECORD_FIELD, { ...given, declared })).said
+  const property = record === null ? null : read.known.fieldOfKey(record, given.field)
+  const holds = property === null ? null : fieldHoldsIn(world, property)
+  const asked = { ...given, declared: property !== null }
+  const handed = holds === null ? asked : { ...asked, holds }
+  return (await reach(world, CHANGE_PROPERTY_RECORD_FIELD, handed)).said
 }
 
 export type Asked = Readonly<Record<string, string>>
