@@ -24,6 +24,7 @@ import {
   NOTHING,
   processorsFor,
 } from "akasha/code/spawning/modules/running/running.module.test-fixtures.ts"
+import { requireEnv } from "akasha/code/type/narrowing/modules/require-env/require-env.module.code.ts"
 
 const CODE = `${import.meta.dir}/running.module.code.ts`
 
@@ -140,7 +141,7 @@ test("a program is looked for on the path the run itself will have", () => {
   chmodSync(shadowing, 0o755)
   try {
     const done = ran(["id"], {
-      env: { ...process.env, PATH: `${at}:${String(process.env.PATH)}` },
+      env: { ...process.env, PATH: `${at}:${requireEnv("PATH")}` },
       metered: true,
     })
     expect(done.out).toBe("shadowed\n")

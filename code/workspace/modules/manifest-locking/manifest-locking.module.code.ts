@@ -20,6 +20,7 @@ import {
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
+import { calledIn } from "akasha/code/workspace/modules/package-manifest/package-manifest.module.code.ts"
 import { argvFor } from "akasha/git/modules/running/git-running.module.code.ts"
 
 const MANIFEST = "package.json"
@@ -210,10 +211,7 @@ function lockAt(root: string): Uint8Array | null {
 
 function namedAt(at: string): string | null {
   try {
-    const held: unknown = JSON.parse(readFileSync(join(at, MANIFEST), "utf8"))
-    if (typeof held !== "object" || held === null || !("name" in held)) return null
-    const name = held.name
-    return typeof name === "string" ? name : null
+    return calledIn(readFileSync(join(at, MANIFEST), "utf8"))
   } catch {
     return null
   }

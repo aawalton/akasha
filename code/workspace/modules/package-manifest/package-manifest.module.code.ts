@@ -1,4 +1,5 @@
 import { join } from "node:path"
+import { z } from "zod"
 
 const NAME = "name"
 
@@ -16,15 +17,14 @@ function specifierFor(named: string, key: string): string | null {
   return `${named}${PARTED_BY}${key.slice(OPENING.length)}`
 }
 
+const OBJECT_SAID = z.record(z.string(), z.unknown())
+
 export function objectIn(text: string): Record<string, unknown> | null {
-  let read: unknown
   try {
-    read = JSON.parse(text)
+    return OBJECT_SAID.safeParse(JSON.parse(text)).data ?? null
   } catch {
     return null
   }
-  if (read === null || typeof read !== "object") return null
-  return read as Record<string, unknown>
 }
 
 export function calledIn(text: string | null): string | null {

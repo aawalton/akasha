@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"package-manifest.module.code.ts","path":"check/code/pages/tests-pass/modules/run-naming/run-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"package-manifest.module.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"package-manifest.module.code.ts","path":"code/reading/modules/code-typing/code-typing.module.code.ts"}
+{"propertySlug":"import","fileName":"package-manifest.module.code.ts","path":"code/workspace/modules/manifest-locking/manifest-locking.module.code.ts"}
 {"propertySlug":"import","fileName":"package-manifest.module.code.ts","path":"code/workspace/modules/package-manifest/package-manifest.module.test.ts"}
 {"propertySlug":"import","fileName":"package-manifest.module.code.ts","path":"page/index/modules/package-reaching/package-reaching.module.code.ts"}
 {"propertySlug":"parts","path":"code/workspace/workspace.page-type.ts","id":"01a06cbb-60a1-7163-bbdd-7ba51e6b3ed6"}
