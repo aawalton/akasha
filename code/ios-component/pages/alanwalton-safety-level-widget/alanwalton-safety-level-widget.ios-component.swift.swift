@@ -30,11 +30,8 @@ struct SafetyLevelHomeView: View {
                     .containerBackground(for: .widget) { Color(.systemBackground) }
             }
         }
-        .widgetURL(
-            URL(
-                string:
-                    "capacitor://localhost/nav/tracking-690c624f?tab=019edbf5-d4ea-7380-a6be-bc7496dbb24c#widget=alanwalton-safety-level"
-            )
+        .widgetTapLink(
+            "capacitor://localhost/nav/tracking-690c624f?tab=019edbf5-d4ea-7380-a6be-bc7496dbb24c#widget=alanwalton-safety-level"
         )
     }
 
