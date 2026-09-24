@@ -2893,7 +2893,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-telling/service-telling.module.ts","id":"01a0c995-1c76-7a32-9357-a382d356cdac"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.ts","id":"01a0821e-fce6-7373-89a1-600a7260bb4f"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.ts","id":"01a08c77-e4ed-7a27-8a82-acaacd3068bd"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/tick-deadline/tick-deadline.module.ts","id":"01a06885-0bab-7000-97bd-58c9925eb768"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/tick-ratchet/tick-ratchet.module.ts","id":"01a06885-0bab-7001-9235-a701e25dd098"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.ts","id":"01a0686a-7a57-7c23-b825-02e6e8625bad"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.ts","id":"01a05a56-b9f1-77a4-8a3d-6e0424952002"}

@@ -33,7 +33,6 @@ export const serviceWorkstation = {
     "module/service-running",
     "module/service-watching",
     "module/service-wellness",
-    "module/tick-deadline",
     "module/tick-ratchet",
     "module/tick-sleeping",
     "module/unit-writing",

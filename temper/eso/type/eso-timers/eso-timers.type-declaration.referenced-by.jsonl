@@ -113,7 +113,6 @@
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"infrastructure/inference/pool/modules/port-readiness/port-readiness.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"infrastructure/service/cluster/modules/cluster-api-reaching/cluster-api-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"infrastructure/service/workstation/modules/file-following/file-following.module.code.ts"}
-{"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"infrastructure/service/workstation/modules/tick-deadline/tick-deadline.module.test.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/query/modules/store-reaching/store-reaching.module.code.ts"}
 {"propertySlug":"import","fileName":"eso-timers.type-declaration.d.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts"}

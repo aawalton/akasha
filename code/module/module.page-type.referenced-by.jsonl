@@ -1890,7 +1890,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-telling/service-telling.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-watching/service-watching.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/service-wellness/service-wellness.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/tick-deadline/tick-deadline.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/tick-ratchet/tick-ratchet.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/tick-sleeping/tick-sleeping.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.ts"}
