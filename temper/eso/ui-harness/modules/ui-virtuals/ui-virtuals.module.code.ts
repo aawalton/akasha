@@ -92,6 +92,7 @@ export type VirtualNode = {
   readonly anchors: readonly VirtualAnchor[]
   readonly handlers: Readonly<Record<string, string>>
   readonly children: readonly VirtualNode[]
+  readonly inherits?: readonly string[]
 }
 
 export type VirtualTable = Readonly<Record<string, VirtualNode>>
@@ -217,6 +218,24 @@ function nodeOf(element: Element): VirtualNode {
     anchors: anchorsIn(element),
     handlers: handlersIn(element),
     children: holder === null ? [] : [...holder.children].map((child) => nodeOf(child as Element)),
+    inherits: inheritedBy(element),
+  }
+}
+
+type BaseOf = (name: string) => VirtualNode | undefined
+
+function withBases(node: VirtualNode, baseOf: BaseOf): VirtualNode {
+  if (node.children.length === 0) return node
+  return {
+    ...node,
+    children: node.children.map((child) => {
+      let made = withBases(child, baseOf)
+      for (const from of child.inherits ?? []) {
+        const base = baseOf(from)
+        if (base !== undefined) made = merged(base, made)
+      }
+      return made
+    }),
   }
 }
 
@@ -367,7 +386,7 @@ export function declaredFrom(documents: readonly string[], virtuals: VirtualTabl
       if (element.getAttribute("virtual") === "true") continue
       const name = element.getAttribute("name")
       if (name === null || name === "") continue
-      let made = nodeOf(element)
+      let made = withBases(nodeOf(element), (from) => virtuals[from])
       for (const from of inheritedBy(element)) {
         const base = virtuals[from]
         if (base !== undefined) made = merged(base, made)
@@ -399,7 +418,7 @@ export function virtualsFrom(documents: readonly string[]): VirtualTable {
     const own = raw.get(name)
     if (own === undefined || working.has(name)) return own
     working.add(name)
-    let made = own
+    let made = withBases(own, settle)
     for (const from of inherits.get(name) ?? []) {
       const base = settle(from)
       if (base !== undefined) made = merged(base, made)

@@ -105,6 +105,19 @@ describe("virtualsFrom", () => {
     expect(over?.children.map((one) => one.text)).toEqual(["from the base", "its own"])
   })
 
+  test("gives a control nested in a template the templates that control inherits", () => {
+    const nested = `<GuiXml><Controls>
+      <Control name="TemperHeader" virtual="true">
+        <Controls><Label name="$(parent)Name" text="header" /></Controls>
+      </Control>
+      <Control name="TemperList" virtual="true">
+        <Controls><Control name="$(parent)Sort" inherits="TemperHeader" /></Controls>
+      </Control>
+    </Controls></GuiXml>`
+    const sort = virtualsFrom([nested]).TemperList?.children[0]
+    expect(sort?.children.map((one) => one.text)).toEqual(["header"])
+  })
+
   test("keeps what a template overrides and what the template leaves alone", () => {
     const over = virtualsFrom([INHERITING]).TemperOver
     expect(over?.width).toBe(30)
