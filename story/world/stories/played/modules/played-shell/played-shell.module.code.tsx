@@ -8,6 +8,7 @@ import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import { readPagesAgain } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { ChapterProseTitles } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
 import { gameEntity } from "akasha/story/game/entity/game-entity.page-type.ts"
@@ -77,6 +78,17 @@ const SLUG_KEY = "slug"
 const ONE = 1
 
 const TURN_TITLES: ChapterProseTitles = "hidden"
+
+const READ_AGAIN_WHILE_AWAITED = [
+  PLAYED_TURN_PAGE_TYPE_SLUG,
+  gameTurn.slug,
+  gameEntity.slug,
+  gameQuest.slug,
+] as const
+
+function readTurnsAgain(): undefined {
+  for (const slug of READ_AGAIN_WHILE_AWAITED) void readPagesAgain(slug)
+}
 
 function textIn(value: unknown): string {
   return typeof value === "string" ? value : ""
@@ -206,7 +218,11 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
 
   const bar =
     externalId === undefined || coordinatorAgent === undefined ? null : (
-      <ActionBar gameExternalId={externalId} />
+      <ActionBar
+        gameExternalId={externalId}
+        turnsSeen={turns.rows.length}
+        readTurnsAgain={readTurnsAgain}
+      />
     )
 
   if (tail.drawn.length === 0) {

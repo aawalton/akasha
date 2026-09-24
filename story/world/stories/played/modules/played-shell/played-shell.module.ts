@@ -53,6 +53,11 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "While a turn is awaited the story's turns and its game's turns, entities and quests are read again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Where a panel is drawn is the place that panel's own page names.",
     },
     {

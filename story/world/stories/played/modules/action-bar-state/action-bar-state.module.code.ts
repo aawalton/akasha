@@ -19,6 +19,27 @@ export type Echo = {
 
 export type Sending = "none" | "arm" | "send"
 
+export type TurnAwaited = { readonly turnsAt: number; readonly at: number } | null
+
+export const TURN_AWAITED_MS = 600_000
+
+const ACTION = "action"
+
+export function awaitsTurn(sent: readonly { readonly kind: ActionBarMessageKind }[]): boolean {
+  return sent.some((one) => one.kind === ACTION)
+}
+
+export function turnAwaited(
+  awaited: TurnAwaited,
+  turnsSeen: number,
+  now: number,
+  waiting: boolean
+): TurnAwaited {
+  if (waiting) return { turnsAt: turnsSeen, at: now }
+  if (awaited === null) return null
+  return turnsSeen > awaited.turnsAt || now - awaited.at > TURN_AWAITED_MS ? null : awaited
+}
+
 export function echoOf(key: string, text: string, sentAt: number): Echo {
   return { key, text, kind: classifyActionBarMessage(text), id: null, sentAt }
 }
@@ -36,8 +57,14 @@ export function echoDropped(echoes: readonly Echo[], key: string): readonly Echo
   return echoes.filter((echo) => echo.key !== key)
 }
 
-export function echoesSettled(echoes: readonly Echo[], askedAt: number): readonly Echo[] {
-  const kept = echoes.filter((echo) => echo.id === null || echo.sentAt > askedAt)
+export function echoesSettled(
+  echoes: readonly Echo[],
+  askedAt: number,
+  awaiting: boolean
+): readonly Echo[] {
+  const kept = echoes.filter(
+    (echo) => echo.id === null || echo.sentAt > askedAt || (awaiting && echo.kind === ACTION)
+  )
   return kept.length === echoes.length ? echoes : kept
 }
 

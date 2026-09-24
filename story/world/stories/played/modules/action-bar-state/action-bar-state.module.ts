@@ -18,6 +18,22 @@ export const actionBarState = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An action's echo stays while the turn answering it is awaited.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn is awaited from an action sent or waiting until the story has more turns.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Feedback awaits no turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn stops being awaited ten minutes after the last action was seen waiting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An echo whose send failed goes at once.",
     },
     {

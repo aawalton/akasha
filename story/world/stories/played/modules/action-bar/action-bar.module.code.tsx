@@ -12,6 +12,7 @@ import {
 } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import {
   armedAfterTyping,
+  awaitsTurn,
   type Echo,
   echoDropped,
   echoesSettled,
@@ -20,8 +21,10 @@ import {
   echoWritten,
   type PendingAction,
   sendingFor,
+  type TurnAwaited,
+  turnAwaited,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
-import { type FormEvent, useCallback, useEffect, useState } from "react"
+import { type FormEvent, useCallback, useEffect, useRef, useState } from "react"
 
 const POLL_MS = 5000
 
@@ -62,7 +65,15 @@ function SignedOutNotice() {
   )
 }
 
-export function ActionBar({ gameExternalId }: { gameExternalId: string }) {
+export function ActionBar({
+  gameExternalId,
+  turnsSeen,
+  readTurnsAgain,
+}: {
+  gameExternalId: string
+  turnsSeen: number
+  readTurnsAgain: () => undefined
+}) {
   const userId = useUserId()
   const keyboardInset = useKeyboardInset()
   const [pending, setPending] = useState<readonly PendingAction[]>([])
@@ -72,23 +83,42 @@ export function ActionBar({ gameExternalId }: { gameExternalId: string }) {
   const [sending, setSending] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [signedOut, setSignedOut] = useState(false)
+  const awaited = useRef<TurnAwaited>(null)
+  const lastAskedAt = useRef(0)
+  const turns = useRef(turnsSeen)
+  turns.current = turnsSeen
+  const readAgain = useRef(readTurnsAgain)
+  readAgain.current = readTurnsAgain
+
+  const settle = useCallback((waiting: boolean, askedAt: number) => {
+    awaited.current = turnAwaited(awaited.current, turns.current, Date.now(), waiting)
+    const awaiting = awaited.current !== null
+    setEchoes((held) => echoesSettled(held, askedAt, awaiting))
+  }, [])
 
   const refresh = useCallback(async () => {
     const askedAt = Date.now()
     const read = await readPending(gameExternalId)
     if (read === null) return
+    lastAskedAt.current = askedAt
     setPending(read)
-    setEchoes((held) => echoesSettled(held, askedAt))
-  }, [gameExternalId])
+    settle(awaitsTurn(read), askedAt)
+  }, [gameExternalId, settle])
 
   useEffect(() => {
     if (userId === null) return
     void refresh()
     const every = window.setInterval(() => {
+      if (awaited.current !== null) readAgain.current()
       void refresh()
     }, POLL_MS)
     return () => window.clearInterval(every)
   }, [userId, refresh])
+
+  useEffect(() => {
+    void turnsSeen
+    settle(false, lastAskedAt.current)
+  }, [turnsSeen, settle])
 
   function onType(typed: string) {
     setText(typed)
@@ -112,10 +142,14 @@ export function ActionBar({ gameExternalId }: { gameExternalId: string }) {
     setError(null)
     setSignedOut(false)
     setText("")
-    setEchoes((held) => [...held, echoOf(key, typed, Date.now())])
+    const echo = echoOf(key, typed, Date.now())
+    setEchoes((held) => [...held, echo])
     const sent = await sendAction({ gameExternalId, text: typed })
     if (sent.ok) {
       setEchoes((held) => echoWritten(held, key, sent.id, Date.now()))
+      if (awaitsTurn([echo])) {
+        awaited.current = turnAwaited(awaited.current, turns.current, Date.now(), true)
+      }
       void refresh()
     } else {
       setEchoes((held) => echoDropped(held, key))
