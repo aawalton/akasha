@@ -35,10 +35,6 @@ export const royalRoadAccount = {
       decisionKind: "decision-kind/departure",
       statement: "The sync signs in as no account and reads only the pages open to anyone.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The address an account signs in as is in the cluster's secrets too.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
