@@ -20,8 +20,11 @@ import {
   ACCOUNT_PAGE_TYPE,
   accountAddressOf,
 } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
+import { z } from "zod"
 
 const RULE_PAGE_TYPE_SLUG = "temper-inventory-rule"
+
+const SETTINGS_BLOB = z.record(z.string(), z.unknown())
 
 const RULES_AT_MOST = 500
 
@@ -67,9 +70,9 @@ export function parseSettings(value: unknown, caller: string): Record<string, un
         `the file beside the account page, so what is already set went unread`
     )
   }
-  let held: unknown
+  let held: ReturnType<typeof SETTINGS_BLOB.safeParse>
   try {
-    held = JSON.parse(value)
+    held = SETTINGS_BLOB.safeParse(JSON.parse(value))
   } catch (thrown) {
     const why = thrown instanceof Error ? thrown.message : String(thrown)
     throw new Error(
@@ -78,13 +81,13 @@ export function parseSettings(value: unknown, caller: string): Record<string, un
         `other setting, and what is already set stays: ${why}`
     )
   }
-  if (!isPlainObject(held)) {
+  if (!held.success) {
     throw new Error(
       `${caller}: the settings beside the ${ACCOUNT_PAGE_TYPE} page hold no JSON object, so ` +
         `a write now would go over every other setting, and what is already set stays`
     )
   }
-  return held
+  return held.data
 }
 
 async function readAccountPage(accountUserId: string, caller: string): Promise<AccountPage> {
