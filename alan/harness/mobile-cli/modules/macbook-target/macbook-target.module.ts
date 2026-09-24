@@ -9,11 +9,7 @@ export const macbookTarget = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The host is the fixed address 100.64.0.2 rather than a resolvable name.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The key path is held with its leading tilde unexpanded.",
+      statement: "The user, the address and the key path are read from the macbook's host page.",
     },
     {
       decisionKind: "decision-kind/absence",
