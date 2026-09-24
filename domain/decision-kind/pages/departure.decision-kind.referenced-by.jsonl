@@ -3466,7 +3466,6 @@
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/entity-traits.record-property.ts","id":"01a0c637-533c-7d20-91d2-bcd683e32b4e"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/equipment-slot.text-property.ts","id":"01a0c63a-0f6e-740e-8eb1-719fb7926587"}
 {"propertySlug":"decision-kind","path":"story/game/entity/properties/reveal-gate.number-property.ts","id":"01a0c63d-bf33-7fc8-a461-91fda80ddb15"}
-{"propertySlug":"decision-kind","path":"story/game/entity/properties/typical-intent.number-property.ts","id":"01a0c63e-93fb-7a9d-97cd-4e1aa7b4623d"}
 {"propertySlug":"decision-kind","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"decision-kind","path":"story/game/location/game-location.page-type.ts","id":"01a0c642-a40f-7f5e-8d0d-b1f9226535ca"}
 {"propertySlug":"decision-kind","path":"story/game/location/properties/location-conditions.record-property.ts","id":"01a0c645-074c-72ea-9eb7-28ffdb438ce9"}

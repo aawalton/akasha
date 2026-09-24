@@ -1,7 +1,6 @@
 import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { AttributeScores } from "akasha/story/game/entity/properties/attribute-scores.record-property.types.ts"
-import type { BaseDamage } from "akasha/story/game/entity/properties/base-damage.number-property.types.ts"
 import type { EntityAffinities } from "akasha/story/game/entity/properties/entity-affinities.record-property.types.ts"
 import type { EntityBonds } from "akasha/story/game/entity/properties/entity-bonds.record-property.types.ts"
 import type { EntityClass } from "akasha/story/game/entity/properties/entity-class.text-property.types.ts"
@@ -13,7 +12,6 @@ import type { EntitySkills } from "akasha/story/game/entity/properties/entity-sk
 import type { EntityTitles } from "akasha/story/game/entity/properties/entity-titles.record-property.types.ts"
 import type { EntityTraits } from "akasha/story/game/entity/properties/entity-traits.record-property.types.ts"
 import type { RevealGate } from "akasha/story/game/entity/properties/reveal-gate.number-property.types.ts"
-import type { TypicalIntent } from "akasha/story/game/entity/properties/typical-intent.number-property.types.ts"
 import type { UnspentAttributePoints } from "akasha/story/game/entity/properties/unspent-attribute-points.number-property.types.ts"
 import type { HoldingGame } from "akasha/story/game/properties/holding-game.relation-property.types.ts"
 import type { ListedNote } from "akasha/story/game/properties/listed-note.text-property.types.ts"
@@ -34,7 +32,5 @@ export type GameEntity = Page & {
   revealGate?: RevealGate
   note?: ListedNote
   dice?: EntityDice
-  baseDamage?: BaseDamage
-  typicalIntent?: TypicalIntent
   unspentAttributePoints?: UnspentAttributePoints
 }
