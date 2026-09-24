@@ -25,8 +25,17 @@ export const uiAnimationModel = {
       statement: "No animation changes a control, so a control shows as its last setting left it.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No animation template a document declares is read, so a timeline starts empty.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A timeline made from one a document declares holds an animation of each kind declared.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each animation of such a timeline is on the control the timeline was made for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A timeline made from one no document declares starts empty.",
     },
     {
       decisionKind: "decision-kind/departure",

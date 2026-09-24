@@ -16,6 +16,10 @@ import {
 import type { UiHarness } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import { openUiHarness } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import {
+  timelinesIn,
+  timelinesLua,
+} from "akasha/temper/eso/ui-harness/modules/ui-timelines/ui-timelines.module.code.ts"
+import {
   declaredFrom,
   declaredLua,
   virtualsFrom,
@@ -167,6 +171,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
   try {
     const templates = await harness.templates(chunks)
     await harness.load(`return ${fontsLua(gameFonts(esoui))}`)
+    await harness.load(`return ${timelinesLua(timelinesIn(documents))}`)
     const refused: string[] = []
     for (const file of gameFiles(esoui)) {
       const text = readFileSync(file.at, "utf8")

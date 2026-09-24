@@ -18,8 +18,10 @@ end
 local Animation = setmetatable({}, { __index = unmodelledAs })
 local Timeline = setmetatable({}, { __index = unmodelledAs })
 
-local function animationOn(control)
-  return setmetatable({ uiControl = control }, { __index = Animation })
+local declared = {}
+
+local function animationOn(control, kind)
+  return setmetatable({ uiControl = control, uiKind = kind }, { __index = Animation })
 end
 
 function Animation:GetAnimatedControl() return self.uiControl end
@@ -36,8 +38,8 @@ local function finished(self, progress)
   return self
 end
 
-function Timeline:InsertAnimation(_, control)
-  local made = animationOn(control)
+function Timeline:InsertAnimation(kind, control)
+  local made = animationOn(control, kind)
   insert(self.uiAnimations, made)
   return made
 end
@@ -67,7 +69,11 @@ function Timeline:Stop() return self end
 local AnimationManager = {}
 
 function AnimationManager:CreateTimeline() return timeline() end
-function AnimationManager:CreateTimelineFromVirtual() return timeline() end
+function AnimationManager:CreateTimelineFromVirtual(name, control)
+  local made = timeline()
+  for _, kind in ipairs(declared[name] or {}) do made:InsertAnimation(kind, control) end
+  return made
+end
 function AnimationManager:CreateSimpleAnimation(_, control)
   local made = timeline()
   return made:InsertAnimation(nil, control), made
@@ -76,3 +82,12 @@ end
 _G.ANIMATION_MANAGER = AnimationManager
 
 function _G.GetAnimationManager() return AnimationManager end
+
+function _G.__ui_timelines(given)
+  local count = 0
+  for name, kinds in pairs(given) do
+    declared[name] = kinds
+    count = count + 1
+  end
+  return count
+end

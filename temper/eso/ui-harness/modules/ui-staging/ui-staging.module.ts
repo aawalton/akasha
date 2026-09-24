@@ -43,6 +43,11 @@ export const uiStaging = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The timelines every document declares are handed over before the game's Lua loads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A game file the sandbox refuses is named and passed over, so the addon still comes up.",
     },
     {

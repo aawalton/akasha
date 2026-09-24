@@ -21,6 +21,7 @@ export const temperEsoUiHarness = {
     "module/ui-inheritance",
     "module/ui-picture",
     "module/ui-staging",
+    "module/ui-timelines",
     "module/ui-virtuals",
     "module/ui-windows",
   ],
