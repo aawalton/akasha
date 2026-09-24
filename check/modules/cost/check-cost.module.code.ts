@@ -7,6 +7,7 @@ import { exclusively } from "akasha/file/modules/exclusive/exclusive.module.code
 import { nodeNamed } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { uncommittedPartAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
+import { z } from "zod"
 
 const ENTRIES = "entries"
 
@@ -42,6 +43,10 @@ const STAT_LEAF = "stat"
 
 const READINGS_AT_MOST = 3
 
+const DIGITS = /(\d+)/
+
+const COUNT_SAID = z.tuple([z.string(), z.coerce.number().int()])
+
 export type Cost = {
   readonly runId: string
   readonly ranAt: string
@@ -62,6 +67,18 @@ export type Cost = {
   readonly unrun?: boolean
   readonly node?: string
 }
+
+export const COST_ROW = z.looseObject({
+  runId: z.string().nullable().optional(),
+  phase: z.string().optional(),
+  ran: z.string().optional(),
+  ranAt: z.string().optional(),
+  wallMs: z.number().optional(),
+  cpuSeconds: z.number().optional(),
+  childCpuSeconds: z.number().optional(),
+  peakMeasured: z.boolean().optional(),
+  peakAddedBytes: z.number().optional(),
+})
 
 function nodeSaid(): { readonly node?: string } {
   const said = nodeNamed()
@@ -97,8 +114,8 @@ function childSecondsIn(stat: string): number {
 function bytesIn(status: string, named: string): number {
   for (const line of status.split("\n")) {
     if (!line.startsWith(`${named}:`)) continue
-    const found = /(\d+)/.exec(line)
-    return found === null ? 0 : Number(found[1]) * KIB
+    const found = COUNT_SAID.safeParse(DIGITS.exec(line))
+    return found.success ? found.data[1] * KIB : 0
   }
   return 0
 }
@@ -170,8 +187,8 @@ function marksNow(): { readonly peak: number; readonly resident: number } {
 function countIn(io: string, named: string): number {
   for (const line of io.split("\n")) {
     if (!line.startsWith(`${named}:`)) continue
-    const found = /(\d+)/.exec(line)
-    return found === null ? 0 : Number(found[1])
+    const found = COUNT_SAID.safeParse(DIGITS.exec(line))
+    return found.success ? found.data[1] : 0
   }
   return 0
 }

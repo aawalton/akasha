@@ -41,6 +41,10 @@ export const checkCost = {
       statement: "A reader of these lines takes every field it reads by name.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A line read back is parsed against the shape a line is written in.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "The processor a node carries is read nowhere here.",
     },

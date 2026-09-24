@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { COST_ROW } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import { columnsOf } from "akasha/command/pages/measure/modules/checkout-counting/checkout-counting.module.code.ts"
 import {
   everyOfType,
@@ -11,6 +12,7 @@ import {
   numberAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { z } from "zod"
 
 const CHECKED = "check-code"
 
@@ -43,6 +45,8 @@ const NONE_SAID = "24h"
 const COUNTED = /^\d+$/
 
 const PERIODED = /^(\d+)([mhd])$/
+
+const PERIOD_SAID = z.tuple([z.string(), z.coerce.number().int(), z.string()])
 
 const MINUTE_MS = 60000
 
@@ -191,17 +195,16 @@ function rowsIn(body: string): readonly string[] {
 }
 
 function runIn(row: string): Run | null {
-  const one = JSON.parse(row) as Record<string, unknown>
-  if (one["wallMs"] === undefined) return null
-  const said = one["runId"]
+  const one = COST_ROW.parse(JSON.parse(row))
+  if (one.wallMs === undefined) return null
   return {
-    runId: typeof said === "string" && said !== "" ? said : null,
-    phase: String(one["phase"] ?? ""),
-    ran: String(one["ran"] ?? ""),
-    ranAt: Date.parse(String(one["ranAt"] ?? "")),
-    cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
-    wall: Number(one["wallMs"] ?? 0) / A_THOUSAND,
-    mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
+    runId: one.runId || null,
+    phase: one.phase ?? "",
+    ran: one.ran ?? "",
+    ranAt: Date.parse(one.ranAt ?? ""),
+    cpu: (one.cpuSeconds ?? 0) + (one.childCpuSeconds ?? 0),
+    wall: one.wallMs / A_THOUSAND,
+    mem: one.peakMeasured === true ? (one.peakAddedBytes ?? 0) : null,
   }
 }
 
@@ -240,12 +243,12 @@ function refusing(why: string): Chose {
 }
 
 function periodIn(said: string): Chose {
-  const found = PERIODED.exec(said)
-  const span = found === null ? null : spanOf(found[2] ?? "")
-  if (found === null || span === null) {
+  const found = PERIOD_SAID.safeParse(PERIODED.exec(said))
+  const span = found.success ? spanOf(found.data[2]) : null
+  if (!found.success || span === null) {
     return refusing(`\`${said}\` is neither a count of runs nor a period`)
   }
-  const ms = Number(found[1] ?? "0") * span
+  const ms = found.data[1] * span
   if (ms === 0) return refusing(`\`${LAST} ${said}\` names a period of no length`)
   return { chosen: { by: "period", ms, said }, refusals: [] }
 }

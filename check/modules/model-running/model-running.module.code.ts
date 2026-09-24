@@ -16,6 +16,7 @@ import { exportedAs } from "akasha/page/modules/export-name/page-export-name.mod
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import { z } from "zod"
 
 const CHECK_MODEL_TYPE = "01a05911-aa15-776e-9726-ed4131cd6b51"
 
@@ -28,6 +29,8 @@ const CODE = "code"
 const TS = "ts"
 
 const loadFrom = createRequire(import.meta.url)
+
+const ANSWERED = z.looseObject({ answers: z.array(z.string()) })
 
 export type Asked = {
   readonly statement: string
@@ -103,16 +106,11 @@ function askedOf(
     cwd: root,
   })
   if (said.code !== 0) return null
-  let held: unknown
   try {
-    held = JSON.parse(said.out)
+    return ANSWERED.safeParse(JSON.parse(said.out)).data?.answers ?? null
   } catch {
     return null
   }
-  const answers =
-    typeof held === "object" && held !== null ? (held as { answers?: unknown }).answers : undefined
-  if (!Array.isArray(answers) || answers.some((one) => typeof one !== "string")) return null
-  return answers as readonly string[]
 }
 
 function counted(many: number): string {

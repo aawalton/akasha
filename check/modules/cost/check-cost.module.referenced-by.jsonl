@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/audit-verdict/audit-verdict.module.test.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/checking/checking.module.code.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/cost/check-cost.module.test.ts"}
+{"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/measuring/check-measuring.module.code.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/run-ceiling/run-ceiling.module.code.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"check/modules/run-ceiling/run-ceiling.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"check-cost.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts"}
