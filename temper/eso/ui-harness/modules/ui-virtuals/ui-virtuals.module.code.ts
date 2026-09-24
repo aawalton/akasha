@@ -226,6 +226,30 @@ function inheritedBy(element: Element): readonly string[] {
   return named.split(/\s+/).filter((one) => one !== "")
 }
 
+function mergedChildren(
+  base: readonly VirtualNode[],
+  over: readonly VirtualNode[]
+): readonly VirtualNode[] {
+  const out: VirtualNode[] = []
+  const taken = new Set<string>()
+  for (const one of base) {
+    const name = one.name
+    const sameName = name === undefined ? undefined : over.find((other) => other.name === name)
+    if (sameName === undefined) {
+      out.push(one)
+      continue
+    }
+    if (name !== undefined) taken.add(name)
+    out.push(merged(one, sameName))
+  }
+  for (const one of over) {
+    const name = one.name
+    if (name !== undefined && taken.has(name)) continue
+    out.push(one)
+  }
+  return out
+}
+
 function merged(base: VirtualNode, over: VirtualNode): VirtualNode {
   return {
     controlType: over.controlType,
@@ -246,7 +270,7 @@ function merged(base: VirtualNode, over: VirtualNode): VirtualNode {
     anchorFill: over.anchorFill || base.anchorFill,
     anchors: over.anchors.length === 0 ? base.anchors : over.anchors,
     handlers: { ...base.handlers, ...over.handlers },
-    children: [...base.children, ...over.children],
+    children: mergedChildren(base.children, over.children),
   }
 }
 
