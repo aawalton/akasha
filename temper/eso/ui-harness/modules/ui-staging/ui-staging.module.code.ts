@@ -14,7 +14,9 @@ import {
 } from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
 import { namesUnstubbedLua } from "akasha/temper/eso/ui-harness/modules/game-names/game-names.module.code.ts"
 import {
+  fontsIn,
   fontsLua,
+  gameFontStrings,
   gameFonts,
 } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 import type { UiHarness } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
@@ -166,14 +168,19 @@ function documentsFor(root: string): readonly string[] {
   return at.map((one) => readFileSync(one, "utf8"))
 }
 
-type Virtuals = ReturnType<typeof virtualsFrom>
+type Declaring = {
+  readonly virtuals: ReturnType<typeof virtualsFrom>
+  readonly strings: Readonly<Record<string, string>>
+}
 
 async function declareDocument(
   harness: UiHarness,
   text: string,
-  virtuals: Virtuals
+  declaring: Declaring
 ): Promise<void> {
-  const declared = declaredFrom([text], virtuals)
+  const fonts = fontsIn([text], declaring.strings)
+  if (Object.keys(fonts).length > 0) await harness.load(`return ${fontsLua(fonts)}`)
+  const declared = declaredFrom([text], declaring.virtuals)
   for (const chunk of declaredLua(declared, Object.keys(declared), PER_CHUNK)) {
     await harness.load(`return ${chunk}`)
   }
@@ -196,7 +203,7 @@ async function loadAddon(
   harness: UiHarness,
   built: string,
   addon: string,
-  virtuals: Virtuals,
+  declaring: Declaring,
   loaded: Set<string>
 ): Promise<void> {
   if (loaded.has(addon)) return
@@ -205,14 +212,14 @@ async function loadAddon(
   for (const dependency of dependenciesIn(manifest)) {
     const beside = join(dirname(built), dependency)
     if (existsSync(join(beside, `${dependency}.txt`))) {
-      await loadAddon(harness, beside, dependency, virtuals, loaded)
+      await loadAddon(harness, beside, dependency, declaring, loaded)
     }
   }
   for (const one of manifestEntries(manifest)) {
     const at = join(built, one.rel)
     if (!existsSync(at)) continue
     const text = readFileSync(at, "utf8")
-    if (one.kind === "xml") await declareDocument(harness, text, virtuals)
+    if (one.kind === "xml") await declareDocument(harness, text, declaring)
     else if (one.rel === `${addon}.lua`) await harness.loadBundle(text)
     else await harness.load(text, one.rel)
   }
@@ -241,6 +248,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
   const virtuals = virtualsFrom(documents)
   const chunks = virtualsLua(virtuals, PER_CHUNK)
   const esoui = esouiSourceDir()
+  const declaring: Declaring = { virtuals, strings: gameFontStrings(esoui) }
   const harness = await openUiHarness()
   try {
     const templates = await harness.templates(chunks)
@@ -263,7 +271,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
         }
         continue
       }
-      await declareDocument(harness, text, virtuals)
+      await declareDocument(harness, text, declaring)
     }
     try {
       await harness.raise("EVENT_ADD_ON_LOADED", GAME_ADDON)
@@ -278,7 +286,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await settled(harness)
     await harness.load(ACCOUNT_WIDE)
     await harness.load(TEMPER_NAMES_UNSTUBBED)
-    await loadAddon(harness, dirname(bundleAt), asked.addon, virtuals, new Set())
+    await loadAddon(harness, dirname(bundleAt), asked.addon, declaring, new Set())
     for (const source of seeded) await harness.load(source)
     await harness.load("return __ui_play_as()")
     await settled(harness)

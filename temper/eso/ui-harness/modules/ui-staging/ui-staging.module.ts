@@ -90,6 +90,10 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The fonts a document declares are made as that document is declared.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "What was called for later runs once the game has loaded, once shown, and once the addon is up.",
     },
