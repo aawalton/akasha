@@ -200,6 +200,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/properties/script-id.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/properties/focus-script-id.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/skill/temper-scribed-skill/properties/grimoire-id.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/thing/properties/effect-metric.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/thing/properties/quality.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/thing/properties/skill-line.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/catalog/thing/properties/skill-type.relation-property.ts"}

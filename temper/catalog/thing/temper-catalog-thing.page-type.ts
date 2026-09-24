@@ -17,6 +17,7 @@ export const temperCatalogThing = {
     "number-property/value-per-ability",
     "number-property/value-per-piece",
     "page-property-entry/effects",
+    "relation-property/effect-metric",
     "text-property/achievement-name",
     "text-property/armor-weight",
     "text-property/effect",

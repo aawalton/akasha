@@ -1,1 +1,1 @@
-{"id":"01a05fd1-d18b-7914-bda7-8f18858b8ed7","metricId":"stamina-maximum","type":"integer","value":1500}
+{"id":"01a05fd1-d18b-7914-bda7-8f18858b8ed7","metricId":"temper-metric-tree/metric-stamina-maximum","type":"integer","value":1500}

@@ -1,1 +1,1 @@
-{"id":"01a05fd8-a3b9-72b8-aa5f-31cbfbebe6b2","metricId":"critical-rating","type":"integer","value":789}
+{"id":"01a05fd8-a3b9-72b8-aa5f-31cbfbebe6b2","metricId":"temper-metric-tree/metric-critical-rating","type":"integer","value":789}

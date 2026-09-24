@@ -7,7 +7,7 @@ export const effects = {
   propertySlug: "effects",
   definition: "what a thing does, one effect to a line",
   properties: [
-    { pageProperty: "text-property/metric-id", required: false, many: false },
+    { pageProperty: "relation-property/effect-metric", required: false, many: false },
     { pageProperty: "text-property/effect-type", required: false, many: false },
     { pageProperty: "number-property/effect-value", required: false, many: false },
     { pageProperty: "number-property/effect-seconds", required: false, many: false },

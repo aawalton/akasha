@@ -303,4 +303,5 @@
 {"propertySlug":"import","fileName":"temper-metric-tree.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/pages/subcategory-ultimate.temper-metric-tree.ts"}
 {"propertySlug":"parts","path":"temper/player/progress/temper-progress.domain.ts","id":"01a05fac-7582-726f-ac10-d5261c7e1f65"}
 {"propertySlug":"target-page-type","path":"temper/catalog/gear/grade/properties/grade-metric.relation-property.ts","id":"01a0d3e2-9891-7087-bb1d-2fd35c9c6d82"}
+{"propertySlug":"target-page-type","path":"temper/catalog/thing/properties/effect-metric.relation-property.ts","id":"01a0d3fb-ee3d-7a22-b414-2c3736bcc96a"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/temper-metric-tree/properties/metric-tree-parent.relation-property.ts","id":"01a0cade-0463-70a3-964b-14162e508635"}

@@ -1,1 +1,1 @@
-{"id":"01a05fe6-c3d3-7673-876c-ecf24a2569d9","metricId":"critical-damage","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/warden-animal-companions","valuePerAbility":0.05}
+{"id":"01a05fe6-c3d3-7673-876c-ecf24a2569d9","metricId":"temper-metric-tree/metric-critical-damage","type":"slotted-ability-scaling","skillLineId":"temper-skill-line/warden-animal-companions","valuePerAbility":0.05}
