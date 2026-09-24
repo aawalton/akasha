@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import type {
   TributePatronCatalogCard,
   TributePatronCatalogEntry,
@@ -21,9 +22,19 @@ const tributePatronCatalogEntrySchema = z
   })
   .strict()
 
-assertSchemaMatchesPayload<typeof tributePatronCatalogCardSchema, TributePatronCatalogCard>()
-assertSchemaMatchesPayload<typeof tributePatronCatalogEntrySchema, TributePatronCatalogEntry>()
-
 const tributeCatalogSchema = z.record(z.coerce.number(), tributePatronCatalogEntrySchema)
 
-export type TributeCatalog = z.infer<typeof tributeCatalogSchema>
+test("each tribute catalog schema infers exactly its level of the tribute catalog shape", () => {
+  expect(
+    assertSchemaMatchesPayload<typeof tributePatronCatalogCardSchema, TributePatronCatalogCard>()
+  ).toBeUndefined()
+  expect(
+    assertSchemaMatchesPayload<typeof tributePatronCatalogEntrySchema, TributePatronCatalogEntry>()
+  ).toBeUndefined()
+  expect(
+    assertSchemaMatchesPayload<
+      typeof tributeCatalogSchema,
+      Record<number, TributePatronCatalogEntry>
+    >()
+  ).toBeUndefined()
+})

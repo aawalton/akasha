@@ -5,11 +5,7 @@ export const temperGameCatalogCaptureHost = {
   type: "page-type/domain",
   slug: "temper-game-catalog-capture-host",
   definition: "the zod schemas reading every game catalog a capture addon saved",
-  parts: [
-    "module/antiquity-lore-catalog-schema",
-    "module/lore-library-catalog-schema",
-    "module/tribute-catalog-schema",
-  ],
+  parts: ["module/antiquity-lore-catalog-schema", "module/lore-library-catalog-schema"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

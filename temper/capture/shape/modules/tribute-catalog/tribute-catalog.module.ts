@@ -6,4 +6,23 @@ export const tributeCatalog = {
   slug: "tribute-catalog",
   definition: "the Tales of Tribute patrons the game lists and the cards each patron brings",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A patron has the cards that patron gives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A card names its base form and its upgraded form.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A catalog key arrives as text and is coerced to a number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each level is checked against a zod schema in this module's test.",
+    },
+  ],
 } as const satisfies Module
