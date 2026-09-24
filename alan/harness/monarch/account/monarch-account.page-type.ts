@@ -45,10 +45,6 @@ export const monarchAccount = {
       statement:
         "An account named by digits alone takes `account-` ahead of those digits for its slug.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A transaction whose account has no page is dropped by the sync without a word.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
