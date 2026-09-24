@@ -17,6 +17,11 @@ export const audhdalanSubscriber = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "An address whose fold names no page, or another address's page, is slugged from its hash.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The same address given again reaches the subscriber already filed here.",
     },
     {
