@@ -6,4 +6,10 @@ export const keyboardShortcutsData = {
   slug: "keyboard-shortcuts-data",
   definition: "every keyboard shortcut Temper answers, grouped by where it acts",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The shortcuts are listed in code, beside the code that binds them.",
+    },
+  ],
 } as const satisfies Module
