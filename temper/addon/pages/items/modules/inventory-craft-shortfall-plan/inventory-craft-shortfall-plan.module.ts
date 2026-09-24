@@ -62,5 +62,19 @@ export const inventoryCraftShortfallPlan = {
       decisionKind: "decision-kind/departure",
       statement: "A station is served by the one resolver naming its craft, and by nothing else.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Of several ways to craft, the one whose materials cost least per craft is chosen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A way with any material unpriced ranks after every way with all its materials priced.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "With no way priced, the first found is crafted and said to be unpriced.",
+    },
   ],
 } as const satisfies Module

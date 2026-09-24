@@ -5,7 +5,12 @@ import type {
   CraftShortfallResolver,
   Takes,
 } from "akasha/temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.code.ts"
-import { yieldPassive } from "akasha/temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.code.ts"
+import {
+  cheapestOption,
+  type PricedOption,
+  yieldPassive,
+} from "akasha/temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.code.ts"
+import { lookupTtcPricing } from "akasha/temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts"
 import { REAGENT_TRAITS } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-alchemy-solver/inventory-writ-crafting-alchemy-solver.module.code.ts"
 import { findItemInBags } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-enchanting/inventory-writ-crafting-enchanting.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -92,12 +97,14 @@ function candidateFor(
   ranked: RankedSolvent,
   have: number,
   reagents: readonly OnHand[],
-  itemLink: string
+  itemLink: string,
+  note: string | undefined
 ): CraftCandidate {
   const ids = [ranked.solvent.id]
   for (const one of reagents) ids.push(one.id)
   return {
     made: itemLink,
+    ...(note === undefined ? {} : { note }),
     passives: [
       { passive: SOLVENT_PROFICIENCY, have, need: ranked.rank },
       yieldPassive(AL_POTION_4X),
@@ -139,34 +146,55 @@ function candidateFor(
   }
 }
 
-function matchingReagents(
+interface Combination {
+  readonly reagents: OnHand[]
+  readonly itemLink: string
+}
+
+function combinationsMaking(
   this: void,
   solvent: OnHand,
   reagents: readonly OnHand[],
   thirdSlot: boolean,
   takes: Takes
-): { readonly reagents: OnHand[]; readonly itemLink: string } | undefined {
+): Combination[] {
+  const found: Combination[] = []
   const n = reagents.length
   for (let i = 0; i < n; i++) {
     for (let j = i + 1; j < n; j++) {
       const pair = [reagents[i], reagents[j]].filter((one): one is OnHand => one !== undefined)
       const link = resultOf(solvent, pair)
-      if (link !== "" && takes(link)) return { reagents: pair, itemLink: link }
-    }
-  }
-  if (!thirdSlot) return undefined
-  for (let i = 0; i < n; i++) {
-    for (let j = i + 1; j < n; j++) {
+      if (link !== "" && takes(link)) found.push({ reagents: pair, itemLink: link })
+      if (!thirdSlot) continue
       for (let k = j + 1; k < n; k++) {
         const three = [reagents[i], reagents[j], reagents[k]].filter(
           (one): one is OnHand => one !== undefined
         )
-        const link = resultOf(solvent, three)
-        if (link !== "" && takes(link)) return { reagents: three, itemLink: link }
+        const tripleLink = resultOf(solvent, three)
+        if (tripleLink !== "" && takes(tripleLink)) {
+          found.push({ reagents: three, itemLink: tripleLink })
+        }
       }
     }
   }
-  return undefined
+  return found
+}
+
+function unitPrice(this: void, reagent: OnHand): number | undefined {
+  return lookupTtcPricing(GetItemLink(reagent.bag, reagent.slot, LINK_STYLE_BRACKETS)).marketValue
+}
+
+function pricedCombinations(
+  this: void,
+  found: readonly Combination[]
+): PricedOption<Combination>[] {
+  const priced: PricedOption<Combination>[] = []
+  for (const one of found) {
+    const unitPrices: (number | undefined)[] = []
+    for (const reagent of one.reagents) unitPrices.push(unitPrice(reagent))
+    priced.push({ option: one, unitPrices })
+  }
+  return priced
 }
 
 function findCombination(this: void, takes: Takes): CraftFound {
@@ -179,11 +207,15 @@ function findCombination(this: void, takes: Takes): CraftFound {
   const have = GetNonCombatBonus(NON_COMBAT_BONUS_ALCHEMY_LEVEL)
   const thirdSlot = GetNonCombatBonus(NON_COMBAT_BONUS_ALCHEMY_THIRD_SLOT) > 0
   for (const ranked of solvents) {
-    const match = matchingReagents(ranked.solvent, reagents, thirdSlot, takes)
-    if (match !== undefined) {
+    const found = combinationsMaking(ranked.solvent, reagents, thirdSlot, takes)
+    const chosen = cheapestOption(pricedCombinations(found))
+    if (chosen !== undefined) {
+      const note = chosen.priced
+        ? undefined
+        : "no reagent combination had Tamriel Trade Centre prices, so the first found was used"
       return {
         kind: "found",
-        candidate: candidateFor(ranked, have, match.reagents, match.itemLink),
+        candidate: candidateFor(ranked, have, chosen.option.reagents, chosen.option.itemLink, note),
       }
     }
   }

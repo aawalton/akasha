@@ -10,7 +10,21 @@ export const inventoryCraftShortfallAlchemy = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The combination crafted is the first on hand whose result the rule takes.",
+      statement: "Of the combinations whose result the rule takes, the cheapest reagents win.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A combination's cost is its reagents' Tamriel Trade Centre prices, one of each.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The solvent is left out of a combination's cost, since every combination uses it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reagent's price is TTC's suggested price, or its sale average where none is given.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -24,8 +38,7 @@ export const inventoryCraftShortfallAlchemy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Two reagents are tried before three, and three only with the third slot unlocked.",
+      statement: "Three reagents are weighed only with the third slot unlocked.",
     },
     {
       decisionKind: "decision-kind/departure",

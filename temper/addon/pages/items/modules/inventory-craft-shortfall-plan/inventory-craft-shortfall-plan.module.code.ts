@@ -79,6 +79,45 @@ export function passiveRefusal(ruleName: string, unmet: PassiveNeed): string {
   return `${ruleName}: crafted nothing, since ${unmet.passive} is rank ${unmet.have} and the craft needs rank ${unmet.need}`
 }
 
+export interface PricedOption<T> {
+  readonly option: T
+  readonly unitPrices: readonly (number | undefined)[]
+}
+
+export interface Cheapest<T> {
+  readonly option: T
+  readonly priced: boolean
+}
+
+function costOf(unitPrices: readonly (number | undefined)[]): number | undefined {
+  let cost = 0
+  for (const price of unitPrices) {
+    if (price === undefined) return undefined
+    cost += price
+  }
+  return cost
+}
+
+export function cheapestOption<T>(options: readonly PricedOption<T>[]): Cheapest<T> | undefined {
+  let best: PricedOption<T> | undefined
+  let bestCost = 0
+  let firstUnpriced: PricedOption<T> | undefined
+  for (const one of options) {
+    const cost = costOf(one.unitPrices)
+    if (cost === undefined) {
+      if (firstUnpriced === undefined) firstUnpriced = one
+      continue
+    }
+    if (best === undefined || cost < bestCost) {
+      best = one
+      bestCost = cost
+    }
+  }
+  if (best !== undefined) return { option: best.option, priced: true }
+  if (firstUnpriced !== undefined) return { option: firstUnpriced.option, priced: false }
+  return undefined
+}
+
 export function resolverForStation<R extends CraftMakes>(
   resolvers: readonly R[],
   stationType: number

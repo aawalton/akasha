@@ -44,6 +44,7 @@ export type Takes = (this: void, itemLink: string) => boolean
 
 export interface CraftCandidate {
   readonly made: string
+  readonly note?: string
   readonly passives: readonly PassiveNeed[]
   readonly yieldPerCraft: (this: void) => number
   readonly maxCrafts: (this: void) => number
@@ -192,8 +193,9 @@ function craftForRule(
         clearWritCraftQueue()
         return
       }
+      const note = candidate.note === undefined ? "" : `; ${candidate.note}`
       say(
-        `${name}: crafting ${candidate.made} ${crafts} time(s) toward ${target}, with ${held} held`
+        `${name}: crafting ${candidate.made} ${crafts} time(s) toward ${target}, with ${held} held${note}`
       )
       candidate.craft(crafts)
     },

@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  cheapestOption,
   countsTowardHeld,
   craftMakesCategory,
   craftShortfallTarget,
@@ -121,6 +122,33 @@ test("a refusal names the rule, the passive, the rank held and the rank needed",
   expect(said).toContain("rule 83678d83")
   expect(said).toContain("Brewer is rank 2")
   expect(said).toContain("needs rank 3")
+})
+
+test("the cheapest priced combination wins, and one with an unpriced reagent ranks after it", () => {
+  const chosen = cheapestOption([
+    { option: "columbine+mountain-flower+bugloss", unitPrices: [300, 120, 90] },
+    { option: "unpriced+cheap", unitPrices: [undefined, 1] },
+    { option: "dragonthorn+bugloss+columbine", unitPrices: [40, 90, 300] },
+    { option: "blessed-thistle+bugloss+columbine", unitPrices: [30, 90, 300] },
+  ])
+  expect(chosen).toEqual({ option: "blessed-thistle+bugloss+columbine", priced: true })
+})
+
+test("a tie keeps the combination found first", () => {
+  const chosen = cheapestOption([
+    { option: "first", unitPrices: [10, 10] },
+    { option: "second", unitPrices: [5, 15] },
+  ])
+  expect(chosen?.option).toBe("first")
+})
+
+test("with no combination priced, the first found is chosen and said to be unpriced", () => {
+  const chosen = cheapestOption([
+    { option: "first", unitPrices: [undefined, 10] },
+    { option: "second", unitPrices: [5, undefined] },
+  ])
+  expect(chosen).toEqual({ option: "first", priced: false })
+  expect(cheapestOption([])).toBe(undefined)
 })
 
 test("a station is served by the one resolver naming its craft", () => {
