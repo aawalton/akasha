@@ -79,6 +79,12 @@ export const serviceCluster = {
       many: true,
       maxCount: null,
     },
+    {
+      pageProperty: "boolean-property/well",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   decisions: [
     {
