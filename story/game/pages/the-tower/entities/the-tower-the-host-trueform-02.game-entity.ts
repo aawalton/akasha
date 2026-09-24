@@ -8,6 +8,5 @@ export const theTowerTheHostTrueform02 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Haven-predator (unmasked)",
-  dice: "game-mechanic/one-d-twenty",
   note: "engine: VIT8(104)+MIGHT2(26) = 130 HP. physDef (13+17)/2+1 = 16. physAtk 13*1.5+17+5 = 41.5. Init 16+17 = 33 (acts before Alan's 26 — the core of the threat). 1d20 Wild Variance = real spike risk both ways.",
 } as const satisfies GameEntity

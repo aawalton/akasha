@@ -25,7 +25,6 @@ export const theTower = {
     "game-mechanic/phys-def",
     "game-mechanic/stam-max",
     "game-mechanic/attack-resolution",
-    "game-mechanic/one-d-twenty",
     "game-mechanic/two-d-ten",
     "game-mechanic/ment-atk",
     "game-mechanic/ment-attack",

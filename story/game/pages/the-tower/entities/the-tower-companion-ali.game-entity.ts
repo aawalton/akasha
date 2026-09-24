@@ -9,7 +9,6 @@ export const theTowerCompanionAli = {
   kind: "ally",
   class:
     "Lorebinder (tentative) — support/utility caster-analyst; learns fast, buffs, debuffs, and turns knowledge into leverage",
-  dice: "game-mechanic/two-d-ten",
   unspentAttributePoints: 0,
   note: "Tentative. Ali is a SECOND mind — but where Alan is a glass cannon who reads weaknesses, Ali is a sturdier scholar who APPLIES knowledge: skills, support effects, identifying the unknown. The Learn axis embodied. Calibrate against the real persona.",
 } as const satisfies GameEntity

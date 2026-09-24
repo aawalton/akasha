@@ -8,6 +8,5 @@ export const theTowerTheWelcomersPair01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Glamour-predator (pair)",
-  dice: "game-mechanic/two-d-ten",
   note: "engine (each): VIT8(64)+MIGHT2(18) = 82 HP. physDef 11. physAtk 30.5. Init 27 each. TWO of them = the floor-5 threat step-up; the danger is the flank + the trust, not a HP wall.",
 } as const satisfies GameEntity

@@ -8,6 +8,5 @@ export const theTowerPlinthGolem01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Stone Warden",
-  dice: "game-mechanic/two-d-ten",
   note: "computed by engine: VIT8(112)+MIGHT2(30) = 142 HP. physDef (14+5)/2+5 = 14.5. physAtk 33.5. The HP is a wall unless you hit the keystone.",
 } as const satisfies GameEntity

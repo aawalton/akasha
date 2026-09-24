@@ -57,6 +57,5 @@ export const theTowerAlan = {
         "Novice: a spinning 360 sweep that neutralizes flank attempts (no exposed back) and bashes anything that enters the circle. Sustained by stamina. COMPOSES with Ember Channel (Ember run along the chain adds a x1.4 burning edge to its strikes -- a separate application, not part of the skill). Composes with the Force sense (passive: feeling the core's stored torque ride the spin steadies control, t81).",
     },
   ],
-  dice: "game-mechanic/one-d-twenty",
-  note: "Glass cannon of a MIND. Fragile body, peak analysis, swingy fate (1d20), roaring-when-regulated charisma. D&D scale: 10 = average adult, 18 = human peak. — No class yet. None is the ordinary base state (not an error); a class is shaped by what you do. Display shows 'None', flat, no warning framing.",
+  note: "Glass cannon of a MIND. Fragile body, peak analysis, roaring-when-regulated charisma. D&D scale: 10 = average adult, 18 = human peak. — No class yet. None is the ordinary base state (not an error); a class is shaped by what you do. Display shows 'None', flat, no warning framing.",
 } as const satisfies GameEntity

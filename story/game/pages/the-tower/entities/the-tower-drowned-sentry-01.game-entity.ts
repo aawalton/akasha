@@ -8,6 +8,5 @@ export const theTowerDrownedSentry01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Waterlogged Husk",
-  dice: "game-mechanic/two-d-ten",
   note: "computed by engine: VIT8(88)+MIGHT2(24) = 112 HP. High HP + high frontal mitigation = a slog if read wrong; fast if read right.",
 } as const satisfies GameEntity

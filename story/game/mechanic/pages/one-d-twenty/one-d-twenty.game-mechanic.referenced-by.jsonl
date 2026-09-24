@@ -1,8 +1,4 @@
 {"propertySlug":"entity-dice","path":"story/game/pages/harem-hotel/entities/harem-hotel-alan.game-entity.ts","id":"01a0c662-f92c-763d-a838-e4bf42f057b7"}
 {"propertySlug":"entity-dice","path":"story/game/pages/harem-hotel/entities/harem-hotel-aria.game-entity.ts","id":"01a0c662-f994-76e1-95eb-4d4e16c0a470"}
-{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-alan.game-entity.ts","id":"01a0c68f-545d-7db4-b0c9-a404b66be267"}
-{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-host-trueform.game-entity.ts","id":"01a0c662-ce2b-757d-86b6-623768d16be3"}
-{"propertySlug":"entity-dice","path":"story/game/pages/the-tower/entities/the-tower-the-host-trueform-02.game-entity.ts","id":"01a0c662-ce1a-75ce-b1ca-93bfaabe3eec"}
 {"propertySlug":"game-mechanics","path":"story/game/pages/harem-hotel/harem-hotel.game.ts","id":"01a0673f-a3d6-7001-854b-30d81fd19b31"}
-{"propertySlug":"game-mechanics","path":"story/game/pages/the-tower/the-tower.game.ts","id":"01a0673f-a3d7-7000-afc1-88181be588cb"}
 {"propertySlug":"parts","path":"story/game/mechanic/game-mechanic.page-type.ts","id":"01a0c454-ce61-7e73-8b14-29b03bd0d245"}
