@@ -4,7 +4,7 @@ export const supervisorIdleDecide = {
   id: "01a06838-5a84-7000-a52b-bc6acad18e78",
   type: "page-type/module",
   slug: "supervisor-idle-decide",
-  definition: "whether the agent in a seat is doing nothing at this moment",
+  definition: "whether a seat's agent is working",
   code: "ts",
   test: "ts",
   decisions: [
