@@ -70,7 +70,16 @@ export const changeFreshness = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refusal over such a body says to apply again rather than to drop an edit.",
+      statement:
+        "An apply stale only over bodies a machine generates works those bodies out again and lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An apply works them out again at most five times before refusing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal after that says to apply again rather than to drop an edit.",
     },
     {
       decisionKind: "decision-kind/departure",

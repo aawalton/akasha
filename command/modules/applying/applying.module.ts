@@ -69,6 +69,10 @@ export const applying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An apply stating a read is landed once rather than worked out again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A read older than HEAD catches every move the commit at HEAD catches.",
     },
     {
