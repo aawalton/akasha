@@ -1,8 +1,10 @@
 import { createHash } from "node:crypto"
+import { z } from "zod"
 
 const HERE = "story/game/game-mechanic/modules/dice-rolling"
 const DIGEST = "sha256"
 const SAID = /^([1-9][0-9]*)d([1-9][0-9]*)$/
+const HANDFUL = z.tuple([z.string(), z.coerce.number(), z.coerce.number()])
 const WORD_BYTES = 4
 const WORDS = 8
 const SPAN = 2 ** 32
@@ -28,10 +30,9 @@ function wordsFrom(seed: string, round: number): readonly number[] {
 }
 
 export function facesFrom(seed: string, said: string): Shown {
-  const found = SAID.exec(said)
-  if (found === null) return { refused: `\`${said}\` is no handful of dice, ${HERE}` }
-  const count = Number(found[1])
-  const sides = Number(found[2])
+  const found = HANDFUL.safeParse(SAID.exec(said))
+  if (!found.success) return { refused: `\`${said}\` is no handful of dice, ${HERE}` }
+  const [, count, sides] = found.data
   if (!(count >= LEAST_DICE && count <= MOST_DICE)) {
     return { refused: `${count} dice is more than the ${MOST_DICE} rolled at once, ${HERE}` }
   }

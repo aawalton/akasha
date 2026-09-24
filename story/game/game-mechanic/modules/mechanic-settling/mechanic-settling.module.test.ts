@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { gameMechanic } from "akasha/story/game/game-mechanic/game-mechanic.page-type.ts"
-import { lineOf } from "akasha/story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
+import {
+  lineOf,
+  runIn,
+} from "akasha/story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 import {
   type Asking,
   gameAt,
@@ -67,7 +70,7 @@ test("a game that is no page has no run before", () => {
 test("the run before is read off the file beside that run's page", () => {
   const before = lastRunAt(ROOT, GAME)
   if (before === null) throw new Error("the tower has runs")
-  expect(JSON.parse(before)).toHaveProperty("mechanic")
+  expect(runIn(before)).toHaveProperty("mechanic")
 })
 
 test("the numbers a turn settles come from the mechanic the game names", async () => {

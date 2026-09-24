@@ -55,7 +55,10 @@ export function followingOn(line: string | null): string | null {
 }
 
 export function runIn(line: string): MechanicRun | null {
-  const held: unknown = JSON.parse(line)
+  return parseRun(JSON.parse(line))
+}
+
+function parseRun(held: unknown): MechanicRun | null {
   if (!isRecord(held)) return null
   const turn = held["turn"]
   const mechanic = held["mechanic"]

@@ -1,12 +1,15 @@
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import {
   type SystemWindow,
   SystemWindowSchema,
 } from "akasha/story/engine/core/modules/system-window-schema/system-window-schema.module.code.ts"
+import { z } from "zod"
 
 const OPENING = /^:::([a-z][a-z0-9-]*)$/
 const CLOSING = ":::"
 const FIELD = /^([a-z]+):\s*(.*)$/
+const FIELD_SAID = z.tuple([z.string(), z.string(), z.string()])
 const LINES = "; "
 const MARK = ": "
 const NOT_FOUND = -1
@@ -30,10 +33,10 @@ export type ProseWindowSegment =
   | { readonly kind: "window"; readonly window: WrittenWindow }
 
 function fieldInto(window: WrittenWindow, line: string): undefined {
-  const field = FIELD.exec(line)
-  if (field === null) return
-  const key = field[1]
-  const said = (field[2] ?? "").trim()
+  const field = FIELD_SAID.safeParse(FIELD.exec(line))
+  if (!field.success) return
+  const [, key, value] = field.data
+  const said = value.trim()
   if (said === "") return
   if (key === "level") {
     const level = asNumber(said)
@@ -58,11 +61,11 @@ export function proseWindowSegmentsIn(text: string): readonly ProseWindowSegment
   }
   for (const line of text.split("\n")) {
     const trimmed = line.trim()
-    const opening = OPENING.exec(trimmed)
+    const opening = firstCapture(OPENING.exec(trimmed))
     if (opening !== null) {
       shut()
       flushProse()
-      open = { kind: opening[1] ?? "" }
+      open = { kind: opening }
     } else if (trimmed === CLOSING) {
       shut()
     } else if (open === null) {
