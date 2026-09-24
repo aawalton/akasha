@@ -157,6 +157,7 @@ export const COMPANION_METRICS_01 = {
     id: "companion-hps-total",
     name: "Healing Per Second",
     valueType: "integer",
+    valueSource: "rotation",
     formula: {
       type: "add",
       operands: [
@@ -198,6 +199,7 @@ export const COMPANION_METRICS_01 = {
     id: "companion-score",
     name: "Score",
     valueType: "integer",
+    valueSource: "rotation",
     formula: {
       type: "role-sum",
       operands: [

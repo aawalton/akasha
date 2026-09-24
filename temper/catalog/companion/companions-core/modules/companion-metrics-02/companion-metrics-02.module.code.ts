@@ -10,6 +10,7 @@ export const COMPANION_METRICS_02 = {
     id: "companion-sps-total",
     name: "Shielding Per Second",
     valueType: "integer",
+    valueSource: "rotation",
     formula: {
       type: "add",
       operands: [
@@ -27,6 +28,7 @@ export const COMPANION_METRICS_02 = {
     id: "companion-support-score",
     name: "Support Score",
     valueType: "integer",
+    valueSource: "rotation",
     formula: {
       type: "add",
       operands: [
@@ -123,6 +125,7 @@ export const COMPANION_METRICS_02 = {
     id: "companion-tps-total",
     name: "Toughness Per Second",
     valueType: "integer",
+    valueSource: "rotation",
     formula: {
       type: "add",
       operands: [

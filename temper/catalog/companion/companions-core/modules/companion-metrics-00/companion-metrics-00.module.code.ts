@@ -118,6 +118,7 @@ export const COMPANION_METRICS_00 = {
     id: "companion-dps-total",
     name: "Damage Per Second",
     valueType: "integer",
+    valueSource: "rotation",
     formula: {
       type: "add",
       operands: [

@@ -55,6 +55,7 @@ interface CompanionMetricBase {
   name: string
   effectType?: "fractional-change" | "integer"
   formula?: CompanionFormulaNode
+  valueSource?: "rotation"
 }
 
 interface CompanionMetricRating extends CompanionMetricBase {

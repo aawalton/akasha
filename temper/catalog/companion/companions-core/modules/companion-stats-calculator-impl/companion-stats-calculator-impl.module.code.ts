@@ -82,23 +82,14 @@ export function calculateCompanionStatsWithBaseline(
     (metric) => extractMetricReferences(metric.formula)
   )
 
-  const rotationMetricIds = new Set<CompanionMetricId>([
-    "companion-dps-total",
-    "companion-hps-total",
-    "companion-sps-total",
-    "companion-tps-total",
-    "companion-support-score",
-    "companion-score",
-  ])
-
   for (const metric of sortedFormulaMetrics) {
-    if (rotationMetricIds.has(metric.id)) continue
+    if (metric.valueSource === "rotation") continue
     const value = evaluateFormula(metric.id, metric.formula, metricValues, sources)
     metricValues.set(metric.id, value)
   }
 
   for (const metric of sortedFormulaMetrics) {
-    if (rotationMetricIds.has(metric.id)) continue
+    if (metric.valueSource === "rotation") continue
 
     const value = metricValues.get(metric.id) ?? 0
 
