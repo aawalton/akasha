@@ -113,7 +113,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-empty-heredoc-probe-is-answered-by-change-draft-and-acted-on-by-change-apply.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-engine-removes-an-emptied-folder-and-refuses-the-agent-who-asks-it-to.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-folder-shape-check-looks-only-where-two-pages-sit.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-git-hooks-guard-outside-the-repository-and-the-others-do-not.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-hold-a-landing-takes-is-not-spent-in-git.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-home-summary-card-reads-every-completion-body-to-show-nineteen-counts.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/the-landing-lock-race-starves-the-unluckiest-caller-under-saturation.finding.ts"}

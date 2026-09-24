@@ -1,6 +1,5 @@
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-forked-session-keeps-the-whole-read-record.finding.ts","id":"01a094fc-832a-796b-a2ce-07af3cfb4e68"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-scratch-script-carries-every-guarded-call-past-every-hook.finding.ts","id":"01a076dd-7f97-774a-991d-50a92cd4d22b"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/the-git-hooks-guard-outside-the-repository-and-the-others-do-not.finding.ts","id":"01a05f45-b27b-74eb-a431-0d00b7b9fb8a"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-shell-write-guard-reads-only-what-a-program-spells.finding.ts","id":"01a0c5fb-9c2e-737f-aa20-953640b06a2b"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/the-shell-write-hook-reads-text-that-is-not-shell-as-shell.finding.ts","id":"01a06cf7-51d4-7000-9125-07804c6337ce"}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
