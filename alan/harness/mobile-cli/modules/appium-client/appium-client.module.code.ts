@@ -1,8 +1,9 @@
 import { OperationalError } from "akasha/alan/harness/errors-core/modules/exit-code/exit-code.module.code.ts"
 import { z } from "zod"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+import { macbook } from "akasha/infrastructure/machine/host/pages/macbook.host.ts"
 
-export const APPIUM_BASE = "http://100.64.0.2:4723"
+export const APPIUM_BASE = `http://${macbook.address}:4723`
 
 const ELEMENT_KEY = "element-6066-11e4-a52e-4f735466cecf"
 
