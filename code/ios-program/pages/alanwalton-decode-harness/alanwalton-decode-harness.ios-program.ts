@@ -34,6 +34,7 @@ export const alanwaltonDecodeHarness = {
     "ios-component/timeline-checks",
     "ios-component/cost-ring",
     "ios-component/widget-tap-link",
+    "ios-component/alanwalton-categorize-checks",
   ],
   decisions: [
     {

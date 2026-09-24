@@ -296,6 +296,8 @@ for (name, held, saw) in TimelineChecks.run() { check(name, held, saw) }
 
 for (name, held, saw) in FreshnessChecks.run() { check(name, held, saw) }
 
+for (name, held, saw) in CategorizeChecks.run() { check(name, held, saw) }
+
 check(
     "an upkeep circle saying it falls with the clock decodes with its rate",
     fallingUpkeep(FallingChecks.FALLS)?.fallsPerHour == 1,
