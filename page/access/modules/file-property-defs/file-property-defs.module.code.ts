@@ -39,7 +39,7 @@ const following = createChangeFollowing({
 })
 
 function followedOnce(): undefined {
-  if (typeof document !== "undefined" || followed) return undefined
+  if ("document" in globalThis || followed) return undefined
   followed = true
   following.start()
   return following.follow(SHAPES, { pageTypeSlug: PAGE_TYPE })
