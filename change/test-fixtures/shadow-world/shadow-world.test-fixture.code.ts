@@ -161,10 +161,26 @@ export async function withheldExactly(now: string, want: string): Promise<undefi
   expect(said.world.textOf(GENERATED_AT)).toBe(want)
 }
 
-export async function answeredOf(now: string, at: string): Promise<number> {
-  const said = await reachingOver(at, now)
-  expect(said.said.refused).toBeNull()
-  return said.said.edits.length
+function addingTo(path: string, body: string): Reaching {
+  return (_world, at) => {
+    if (at === CHANGE_IMPORTS) {
+      return Promise.resolve(stating([{ kind: "add", path, content: body }]))
+    }
+    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+  }
+}
+
+async function addingOver(path: string, body: string): Promise<Reached> {
+  const ledger = ledgerAt(rootThatFormats(), () => null, addingTo(path, body))
+  return await reach(ledger, CHANGE_IMPORTS as never, {})
+}
+
+export async function answeredOf(now: string, at: string): Promise<readonly number[]> {
+  const replaced = await reachingOver(at, now)
+  const added = await addingOver(at, now)
+  expect(replaced.said.refused).toBeNull()
+  expect(added.said.refused).toBeNull()
+  return [replaced.said.edits.length, added.said.edits.length]
 }
 
 export type Adding = {

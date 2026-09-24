@@ -264,6 +264,22 @@ export const changeShadow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An add, a replace and an append onto a generated body are each withheld.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A remove and a move naming a generated body are answered rather than withheld.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Whether a machine writes a path an agent names is answered here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That answer names the code to change where a group writes the file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A body carried onto the world rather than answered is formatted as an authored body is.",
     },

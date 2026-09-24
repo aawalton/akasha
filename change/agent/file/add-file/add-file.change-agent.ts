@@ -37,6 +37,14 @@ export const addFile = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A path naming a file a machine writes is refused rather than written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal names the code to change where a group writes the file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The index files a page this change writes.",
     },
     {

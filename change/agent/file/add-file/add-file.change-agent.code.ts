@@ -5,7 +5,11 @@ import {
   missing,
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import {
+  machineWrites,
+  reach,
+  type World,
+} from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 
 const AT = "at"
 
@@ -24,6 +28,8 @@ export async function addFileCommand(world: World, given: Asked): Promise<Answer
   if (at === undefined) return refusing(missing(AT))
   const body = given[BODY]
   if (body === undefined) return refusing(missing(BODY))
+  const written = machineWrites(world, at)
+  if (written !== null) return refusing(written)
   const carried = { at, body, id: given[ID], old: given[OLD] }
   return (await reach(world, ADD_FILE_OF_ANY_KIND, carried)).said
 }

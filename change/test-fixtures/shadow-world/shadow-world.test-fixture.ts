@@ -39,6 +39,11 @@ export const shadowWorld = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A replace and an add onto one path are each reached here, and their edits counted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reach gathering what it was asked is built here rather than by each test.",
     },
     {

@@ -1,5 +1,7 @@
 import {
+  type Adding,
   type Answer,
+  type Appending,
   type Bodies,
   type BodyOf,
   type FileChange,
@@ -7,6 +9,7 @@ import {
   type Held,
   notText,
   pathsIn,
+  type Replacing,
   type Replayed,
   refusing,
   replayed,
@@ -30,6 +33,7 @@ import {
   type Carried,
   type Facing,
   generatedIn,
+  writerAt,
 } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -56,6 +60,14 @@ const PROPERTY = "-property"
 const TYPE_STATED = /^\s*type: "([^"]*)"/m
 
 const TYPE_SLUG_STATED = /^\s*pageTypeSlug: "([^"]*)"/m
+
+const BY_MACHINE = "` is a file a machine writes rather than an agent"
+
+const WHAT_WRITES = ", so change what writes it rather than the file"
+
+const BODY_IN = " — change `bodyIn` in `"
+
+const ON_THE_LANDING = "` instead, and the group writes this file on the landing"
 
 export type Reaching = (world: World, at: string, given: unknown) => Promise<Answer>
 
@@ -148,11 +160,23 @@ function tidied(world: World, path: string): World {
   return carrying(world, said)
 }
 
+function writesBody(one: FileChange): one is Adding | Appending | Replacing {
+  return one.kind === "add" || one.kind === "replace" || one.kind === "append"
+}
+
+export function machineWrites(world: World, at: string): string | null {
+  const facing = facingHeld(world)
+  if (!generatedIn(facing, at)) return null
+  const beside = writerAt(facing, at)
+  if (beside === null) return "`" + at + BY_MACHINE + WHAT_WRITES
+  return "`" + at + BY_MACHINE + BODY_IN + beside + ON_THE_LANDING
+}
+
 function withheld(world: World, facing: Facing, said: Answer): Reached {
   const held: FileChange[] = []
   const sown: string[] = []
   for (const one of said.edits) {
-    if (one.kind !== "replace" && one.kind !== "append") held.push(one)
+    if (!writesBody(one)) held.push(one)
     else if (generatedIn(facing, one.path)) sown.push(one.path)
     else held.push(one)
   }
