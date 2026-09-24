@@ -7,7 +7,7 @@ export const bolstered = {
   key: "bolstered",
   title: "Bolstered",
   description: "Reduces companion damage taken",
-  metricId: "companion-damage-taken",
+  metricId: "temper-companion-passive-metric/companion-damage-taken",
   effectType: "fractional-change",
   isReduction: true,
   qualityValues: "jsonl",

@@ -7,7 +7,7 @@ export const shattering = {
   key: "shattering",
   title: "Shattering",
   description: "Increases companion Penetration",
-  metricId: "companion-penetration",
+  metricId: "temper-companion-passive-metric/companion-penetration",
   effectType: "integer",
   isReduction: false,
   qualityValues: "jsonl",

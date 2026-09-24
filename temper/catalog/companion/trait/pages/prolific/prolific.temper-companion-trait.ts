@@ -7,7 +7,7 @@ export const prolific = {
   key: "prolific",
   title: "Prolific",
   description: "Increases companion Ultimate generation",
-  metricId: "companion-ultimate-generation",
+  metricId: "temper-companion-passive-metric/companion-ultimate-generation",
   effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",

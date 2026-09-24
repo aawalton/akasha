@@ -7,7 +7,7 @@ export const aggressive = {
   key: "aggressive",
   title: "Aggressive",
   description: "Increases companion damage done",
-  metricId: "companion-damage-done",
+  metricId: "temper-companion-passive-metric/companion-damage-done",
   effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",

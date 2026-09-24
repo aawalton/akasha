@@ -7,7 +7,7 @@ export const vigorous = {
   key: "vigorous",
   title: "Vigorous",
   description: "Increases companion Maximum Health",
-  metricId: "companion-health-maximum",
+  metricId: "temper-companion-passive-metric/companion-health-maximum",
   effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",

@@ -7,7 +7,7 @@ export const quickened = {
   key: "quickened",
   title: "Quickened",
   description: "Reduces companion ability cooldowns",
-  metricId: "companion-ability-cooldown",
+  metricId: "temper-companion-passive-metric/companion-ability-cooldown",
   effectType: "fractional-change",
   isReduction: true,
   qualityValues: "jsonl",

@@ -7,7 +7,7 @@ export const focused = {
   key: "focused",
   title: "Focused",
   description: "Increases companion Critical Strike rating",
-  metricId: "companion-critical-chance",
+  metricId: "temper-companion-passive-metric/companion-critical-chance",
   effectType: "integer",
   isReduction: false,
   qualityValues: "jsonl",

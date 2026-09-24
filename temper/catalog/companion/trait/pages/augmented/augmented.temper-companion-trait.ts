@@ -7,7 +7,7 @@ export const augmented = {
   key: "augmented",
   title: "Augmented",
   description: "Increases duration of all companion buffs and debuffs",
-  metricId: "companion-buff-duration",
+  metricId: "temper-companion-passive-metric/companion-buff-duration",
   effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",

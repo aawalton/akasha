@@ -7,7 +7,7 @@ export const soothing = {
   key: "soothing",
   title: "Soothing",
   description: "Increases companion healing done",
-  metricId: "companion-healing-done",
+  metricId: "temper-companion-passive-metric/companion-healing-done",
   effectType: "fractional-change",
   isReduction: false,
   qualityValues: "jsonl",
