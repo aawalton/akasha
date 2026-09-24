@@ -230,6 +230,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"graph/modules/asking/graph-asking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-config/tunnel-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/cluster/operation/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.code.ts","typed":false,"deferred":false}

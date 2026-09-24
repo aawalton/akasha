@@ -8,6 +8,7 @@ export const k8sType = {
   parts: [
     "module/cdk8s-synth",
     "module/config-checksum",
+    "module/container-resources",
     "module/hostnames",
     "module/hostnames-ci-enrollment",
     "module/k8s-namespace",

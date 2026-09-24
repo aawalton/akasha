@@ -6,6 +6,10 @@ export const alanwaltonAtlas = {
   slug: "alanwalton-atlas",
   definition: "the deployment and service drawing Alan's map and taking in his phone's locations",
   code: "ts",
+  minCpuMillicores: 100,
+  maxCpuMillicores: 500,
+  minMemoryMb: 512,
+  killMemoryMb: 512,
   generatedDirectory: true,
   decisions: [
     {

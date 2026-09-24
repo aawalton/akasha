@@ -47,6 +47,7 @@
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/cluster/operation/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/cluster/operation/create-tunnel/create-tunnel.shell-script.scripting.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"infrastructure/cluster/operation/deploy-functions/deploy-functions.shell-script.scripting.test.ts","typed":false,"deferred":false}

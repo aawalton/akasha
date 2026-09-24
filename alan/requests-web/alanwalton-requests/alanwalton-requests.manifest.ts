@@ -6,6 +6,10 @@ export const alanwaltonRequests = {
   slug: "alanwalton-requests",
   definition: "the deployment and service drawing the Requests site",
   code: "ts",
+  minCpuMillicores: 100,
+  maxCpuMillicores: 500,
+  minMemoryMb: 512,
+  killMemoryMb: 512,
   generatedDirectory: true,
   decisions: [
     {

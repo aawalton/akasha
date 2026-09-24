@@ -6,6 +6,10 @@ export const alanwaltonWeb = {
   slug: "alanwalton-web",
   definition: "the deployment and service running Alan's command center",
   code: "ts",
+  minCpuMillicores: 100,
+  maxCpuMillicores: 500,
+  minMemoryMb: 1024,
+  killMemoryMb: 1024,
   generatedDirectory: true,
   decisions: [
     {

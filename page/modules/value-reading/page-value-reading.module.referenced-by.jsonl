@@ -269,6 +269,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-discovery/synth-discovery.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/writing/dockerfile-writing.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.code.ts","typed":false,"deferred":false}

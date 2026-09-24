@@ -1715,6 +1715,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-running/synth-running.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/hostnames-ci-enrollment/hostnames-ci-enrollment.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.ts","typed":true,"deferred":false}

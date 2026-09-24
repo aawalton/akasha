@@ -1,4 +1,6 @@
+import { alanwaltonAtlas as page } from "akasha/alan/atlas-web/alanwalton-atlas/alanwalton-atlas.manifest.ts"
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import {
   orchestratorCacheChownInitContainer,
@@ -89,10 +91,7 @@ function deploymentYaml(): string {
                 { name: "PAGE_WRITER", value: "atlas-web" },
               ],
               volumeMounts: orchestratorCacheVolumeMounts(),
-              resources: {
-                requests: { cpu: "100m", memory: "512Mi" },
-                limits: { cpu: "500m", memory: "512Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 1000,

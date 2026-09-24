@@ -1,4 +1,6 @@
+import { alanwaltonWeb as page } from "akasha/alan/web/alanwalton-web/alanwalton-web.manifest.ts"
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { workloadClassMemberSelector } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { webServiceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.code.ts"
 import { synthWebDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
@@ -98,10 +100,7 @@ function webDeploymentYaml(): string {
                 },
               ],
               volumeMounts: orchestratorCacheVolumeMounts(),
-              resources: {
-                requests: { cpu: "100m", memory: "1Gi" },
-                limits: { cpu: "500m", memory: "1Gi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 1000,

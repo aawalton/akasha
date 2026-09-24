@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"domain/modules/rows/domain-rows.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/bootstrap-namespace/bootstrap-namespace.shell-script.scripting.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-shape.module.code.ts","path":"infrastructure/cluster/operation/create-tunnel/create-tunnel.shell-script.scripting.code.ts","typed":true,"deferred":false}
