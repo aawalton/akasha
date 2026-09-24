@@ -11,7 +11,6 @@ export const codeReading = {
     "module/code-rule",
     "module/code-source",
     "module/code-specifier",
-    "module/code-tokens",
     "module/code-typing",
     "module/typing-keeping",
     "module/value-inserting",

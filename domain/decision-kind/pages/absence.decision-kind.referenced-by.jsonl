@@ -1032,7 +1032,6 @@
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-rule/code-rule.module.ts","id":"01a04ea7-b2ea-74df-8173-b596f1d191cc"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-source/code-source.module.ts","id":"01a05026-bc17-76c6-8a84-242b988bdd57"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-specifier/code-specifier.module.ts","id":"01a04ea7-b2ea-711c-8256-13b0697772b3"}
-{"propertySlug":"decision-kind","path":"code/reading/modules/code-tokens/code-tokens.module.ts","id":"01a06558-3a63-729e-8295-2e17302585fe"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-typing/code-typing.module.ts","id":"01a058ec-4a71-7000-9c3e-6b1f0a2d4e55"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/typing-keeping/typing-keeping.module.ts","id":"01a06364-1679-7d55-a520-c4515ba15f89"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/value-inserting/value-inserting.module.ts","id":"01a07be9-0fe1-71dc-a802-443ecc56fe31"}
