@@ -1,5 +1,7 @@
 import {
   type Asked,
+  ranAwaited as awaiting,
+  type Said,
   said as saying,
 } from "akasha/code/spawning/modules/running/running.module.code.ts"
 
@@ -29,4 +31,12 @@ export function told(root: string, argv: readonly string[], wanted: Wanted = {})
   } catch {
     return null
   }
+}
+
+export async function ranAwaited(
+  root: string,
+  argv: readonly string[],
+  wanted: Wanted = {}
+): Promise<Said> {
+  return await awaiting(argvFor(root, argv), askedFor(wanted))
 }

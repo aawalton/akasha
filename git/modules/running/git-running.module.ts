@@ -35,6 +35,15 @@ export const gitRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A command git could not run is answered as data where the code and both streams were asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller that must not hold its event loop awaits git.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A ceiling is stated in milliseconds by a caller that wants a ceiling.",
     },
     {

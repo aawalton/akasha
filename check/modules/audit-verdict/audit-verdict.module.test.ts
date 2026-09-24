@@ -21,7 +21,7 @@ import {
 } from "akasha/check/modules/cost/check-cost.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
-import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
+import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
 import { z } from "zod"
 
 const scratch = scratchWorld()
@@ -65,17 +65,17 @@ function rowOf(verdict: Verdict): z.infer<typeof LOGGED_ROW> {
   return LOGGED_ROW.parse(JSON.parse(loggedLine(COST, verdict)))
 }
 
-async function repoOf(commits: number): Promise<{ root: string; made: readonly string[] }> {
+function repoOf(commits: number): { root: string; made: readonly string[] } {
   const root = scratch.rootFor("akasha-audit-verdict-")
-  await runGit(["init", "-q", "-b", "main"], root)
-  await runGit(["config", "user.email", "verdict@example.com"], root)
-  await runGit(["config", "user.name", "verdict"], root)
+  gitSaid(root, ["init", "-q", "-b", "main"])
+  gitSaid(root, ["config", "user.email", "verdict@example.com"])
+  gitSaid(root, ["config", "user.name", "verdict"])
   const made: string[] = []
   for (let at = 0; at < commits; at += 1) {
     writeFileSync(join(root, "one.txt"), `${at}\n`, "utf8")
-    await runGit(["add", "one.txt"], root)
-    await runGit(["commit", "-q", "-m", `${at}`], root)
-    made.push((await runGit(["rev-parse", "HEAD"], root)).stdout)
+    gitSaid(root, ["add", "one.txt"])
+    gitSaid(root, ["commit", "-q", "-m", `${at}`])
+    made.push(gitSaid(root, ["rev-parse", "HEAD"]).trim())
   }
   return { root, made }
 }
@@ -123,7 +123,7 @@ test("a verdict is measured where the check ran, whatever that check refused", (
 })
 
 test("a commit is at or after itself and at or after every commit it descends from", async () => {
-  const { root, made } = await repoOf(3)
+  const { root, made } = repoOf(3)
   const [first, , last] = made
   expect(await atOrAfter(root, last ?? "", last ?? "")).toBe(true)
   expect(await atOrAfter(root, first ?? "", last ?? "")).toBe(true)
@@ -131,7 +131,7 @@ test("a commit is at or after itself and at or after every commit it descends fr
 })
 
 test("a clean verdict answers for the commit it ran at and every ancestor of it", async () => {
-  const { root, made } = await repoOf(2)
+  const { root, made } = repoOf(2)
   const [first, last] = made
   const held = { ...CLEAN, commit: last ?? "" }
   expect(await cleanAt(root, held, first ?? "")).toBe(true)
@@ -140,7 +140,7 @@ test("a clean verdict answers for the commit it ran at and every ancestor of it"
 })
 
 test("a verdict that refused answers for no commit at all", async () => {
-  const { root, made } = await repoOf(1)
+  const { root, made } = repoOf(1)
   const [only] = made
   const held = { ...CLEAN, commit: only ?? "", refusals: ["one refused"] }
   expect(await cleanAt(root, held, only ?? "")).toBe(false)

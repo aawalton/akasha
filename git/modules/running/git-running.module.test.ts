@@ -4,6 +4,7 @@ import { join } from "node:path"
 import {
   argvFor,
   askedFor,
+  ranAwaited,
   said,
   told,
 } from "akasha/git/modules/running/git-running.module.code.ts"
@@ -61,4 +62,16 @@ test("a command git could not run answers nothing where a caller asked to be tol
 
 test("both doors answer alike where git ran", () => {
   expect(told(ROOT, ["rev-parse", "HEAD"])).toBe(said(ROOT, ["rev-parse", "HEAD"]))
+})
+
+test("an awaited run answers the code and the text git left, unchanged", async () => {
+  const held = await ranAwaited(ROOT, ["rev-parse", "HEAD"])
+  expect(held.code).toBe(0)
+  expect(held.out).toBe(said(ROOT, ["rev-parse", "HEAD"]))
+})
+
+test("an awaited run git could not run answers its code and stream rather than throwing", async () => {
+  const held = await ranAwaited(ROOT, ["cat-file", "-p", "nothingstandshere"])
+  expect(held.code).not.toBe(0)
+  expect(held.err).toContain("nothingstandshere")
 })
