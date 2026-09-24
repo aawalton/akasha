@@ -55,6 +55,16 @@ export const temperEsoUiHarness = {
       statement: "A picture here is worked out from the controls rather than rendered by the game.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A feature is seen against the game's own interface, in the game's own art and type.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's art and type are read from Alan's own install and are never published.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The game's matrix and scene-graph Lua declares typed structures, so never loads.",
     },

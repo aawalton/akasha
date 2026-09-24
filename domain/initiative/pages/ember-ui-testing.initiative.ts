@@ -6,9 +6,4 @@ export const emberUiTesting = {
   slug: "ember-ui-testing",
   domain: "domain/temper",
   persona: "persona/ember",
-  intentStack: [
-    {
-      statement: "A feature is seen against the game's own interface rather than against nothing.",
-    },
-  ],
 } as const satisfies Initiative
