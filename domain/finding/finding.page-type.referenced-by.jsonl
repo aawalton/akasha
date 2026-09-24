@@ -45,7 +45,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-refused-apply-leaves-edits-that-make-the-redraft-refuse-for-the-wrong-reason.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-relation-target-read-by-bare-slug-answers-for-the-other-property-of-that-name.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-relation-value-is-resolved-as-an-address-and-written-as-the-spelling-handed-in.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rename-misses-a-page-named-through-an-ambiguous-record-key.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rename-voids-the-lint-exemption-keyed-to-the-folder-it-moves.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-renamed-page-keeps-the-old-name-inside-its-uncommitted-sidecar.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-repeat-run-ends-the-same-way-whether-the-change-had-nothing-left-or-a-batch-was-refused.finding.ts"}
