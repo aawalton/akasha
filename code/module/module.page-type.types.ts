@@ -7,6 +7,7 @@ import type { Test } from "akasha/code/module/properties/test.code-file-property
 import type { TestFixtures } from "akasha/code/module/properties/test-fixtures.code-file-property.types.ts"
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
 import type { AllowsTmpPaths } from "akasha/page/type/properties/allows-tmp-paths.boolean-property.types.ts"
+import type { HashIndexed } from "akasha/temper/player/character/build/build-hash/properties/hash-indexed.text-property.types.ts"
 
 export type Module = Domain & {
   code: Code
@@ -17,4 +18,5 @@ export type Module = Domain & {
   pageBodyReaders?: PageBodyReaders
   reachedByPath?: ReachedByPath
   runsInABrowser?: RunsInABrowser
+  hashIndexed?: HashIndexed
 }

@@ -35,6 +35,7 @@ export const module = {
     },
     { pageProperty: "text-property/reached-by-path", required: false, many: true, maxCount: null },
     { pageProperty: "boolean-property/runs-in-a-browser", required: false, many: false },
+    { pageProperty: "text-property/hash-indexed", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {

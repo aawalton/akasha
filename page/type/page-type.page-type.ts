@@ -119,6 +119,7 @@ export const pageType = {
       maxCount: null,
     },
     { pageProperty: "relation-property/title-colored-by", required: false, many: false },
+    { pageProperty: "text-property/hash-indexed", required: false, many: true, maxCount: null },
   ],
 
   decisions: [

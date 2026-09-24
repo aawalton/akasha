@@ -5400,6 +5400,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/build/bit-codec/temper-bit-codec.domain.ts","id":"01a060af-255f-7995-9b3e-b6dcbaae7cd7"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.ts","id":"01a062e7-4dbf-7cf4-a91c-960bc8977ebf"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-codec/temper-build-codec.domain.ts","id":"01a062e7-4dd4-7379-91b1-47690a52822a"}
+{"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/properties/hash-indexed.text-property.ts","id":"01a0d5be-2064-7ee6-b753-68438fdbc94c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/temper-build-hash.domain.ts","id":"01a062c4-7811-7457-9a0e-87d4906e32a4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-hash/test-fixtures/build-hash-test-utils/build-hash-test-utils.test-fixture.ts","id":"01a08ed5-cc31-7873-bde1-0132ef1d98b5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.ts","id":"01a0609f-53f9-741e-ad0d-f6c482c8057e"}

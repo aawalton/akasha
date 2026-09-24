@@ -24,6 +24,7 @@ import type { Sequence } from "akasha/page/type/properties/sequence.record-prope
 import type { Shapes } from "akasha/page/type/properties/shapes.file-property.types.ts"
 import type { TitleColoredBy } from "akasha/page/type/properties/title-colored-by.relation-property.types.ts"
 import type { Types } from "akasha/page/type/properties/types.file-property.types.ts"
+import type { HashIndexed } from "akasha/temper/player/character/build/build-hash/properties/hash-indexed.text-property.types.ts"
 
 export type PageType = Domain & {
   extends: ExtendsType
@@ -51,4 +52,5 @@ export type PageType = Domain & {
   values?: SelectValues
   optionColors?: SelectOptionColors
   titleColoredBy?: TitleColoredBy
+  hashIndexed?: HashIndexed
 }

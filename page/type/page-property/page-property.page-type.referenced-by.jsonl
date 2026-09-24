@@ -200,6 +200,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-grimoire/properties/focus-scripts.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/thing/properties/effect-weapon-types.text-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/build/build-hash/properties/hash-indexed.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/companion-build/properties/base-roles.select-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.multi-relation-property.types.ts","typed":true,"deferred":false}
