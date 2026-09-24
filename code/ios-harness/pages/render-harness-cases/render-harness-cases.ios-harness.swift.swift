@@ -195,6 +195,21 @@ func cases(now: Date) -> [RenderCase] {
                 widget: tile.widget, familySource: tile.family, body: "", refused: true))
     }
 
+    // ONE LIGHT NOTHING COULD BE READ FOR, SENT THE WAY THE FEED SENDS ONE.
+    let upkeepNoSignal = """
+        {"stoplights":[\
+        {"habit":"plants","tier":"green","reading":"180","nextTier":"blue","progress":0.125,\
+        "label":"Plants","figureOffScale":true},\
+        {"habit":"sleep","tier":"black","reading":"","readingHeld":"none",\
+        "label":"Sleep","figureOffScale":true},\
+        {"habit":"surplus","tier":"yellow","reading":"-2.5","nextTier":"green","progress":0.375,\
+        "label":"Surplus","figureOffScale":true}]}
+        """
+    all.append(
+        RenderCase(
+            name: "upkeep-stoplights-small-no-signal", widget: "UpkeepStoplightsWidget",
+            familySource: "systemSmall", body: upkeepNoSignal))
+
     // THE ONE PICTURE THAT HOLDS ALL FOURTEEN, AT THE WIDTH A LOCK SCREEN GIVES IT.
     //
     // No widget family is this shape, so the size is named on the case. The readings are the
