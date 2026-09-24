@@ -29,7 +29,7 @@ export const movement = {
       statement: "An event of any other kind is passed over with a reason rather than refused.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A dispute names no address, so a disputed charge is passed over.",
     },
     {
