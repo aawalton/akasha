@@ -109,7 +109,8 @@ struct UpkeepHomeView: View {
                     nextTier: shown.nextTier,
                     progress: shown.progress,
                     label: $0.label ?? $0.habit,
-                    figureOffScale: $0.figureOffScale ?? false
+                    figureOffScale: $0.figureOffScale ?? false,
+                    noSignal: $0.noSignal
                 )
             }
         }
