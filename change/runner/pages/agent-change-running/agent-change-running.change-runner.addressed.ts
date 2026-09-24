@@ -116,9 +116,6 @@ export type Changes = {
   "change-agent/point-book-links-at-sections": Parameters<
     typeof import("akasha/change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/point-track-credits-at-artists": Parameters<
-    typeof import("akasha/change/agent/file-content/point-track-credits-at-artists/point-track-credits-at-artists.change-agent.code.ts")["runChange"]
-  >[1]
   "change-agent/qualify-relation-by-key-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/qualify-relation-by-key-on-every-page/qualify-relation-by-key-on-every-page.change-agent.code.ts")["runChange"]
   >[1]

@@ -1289,7 +1289,6 @@
 {"propertySlug":"decision-kind","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.ts","id":"01a09523-3d2f-7e8b-885b-e4fc2e8a3222"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.ts","id":"01a0c4bb-3270-7b2a-89ee-8fd6574e53c2"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.ts","id":"01a0c51c-4184-74e1-bdcc-12ed5a5f6bf5"}
-{"propertySlug":"decision-kind","path":"change/agent/file-content/point-track-credits-at-artists/point-track-credits-at-artists.change-agent.ts","id":"01a0d4fe-26d1-7d82-81dc-134ed1bbde05"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.ts","id":"01a081ee-d2ea-7846-af0b-049ae0500371"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.ts","id":"01a07944-9ee0-7f93-a8d0-b0e845bdd929"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.ts","id":"01a095d5-f114-71cc-888d-338de89fc74b"}

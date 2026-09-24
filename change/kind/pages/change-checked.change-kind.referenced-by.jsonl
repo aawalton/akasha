@@ -6,7 +6,6 @@
 {"propertySlug":"change-kind","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.ts","id":"01a0879d-8148-79b2-b976-efaa5137360f"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.ts","id":"01a0c4bb-3270-7b2a-89ee-8fd6574e53c2"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.ts","id":"01a0c51c-4184-74e1-bdcc-12ed5a5f6bf5"}
-{"propertySlug":"change-kind","path":"change/agent/file-content/point-track-credits-at-artists/point-track-credits-at-artists.change-agent.ts","id":"01a0d4fe-26d1-7d82-81dc-134ed1bbde05"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.ts","id":"01a07944-9ee0-7f93-a8d0-b0e845bdd929"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.ts","id":"01a095d5-f114-71cc-888d-338de89fc74b"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.ts","id":"01a07718-c9b6-7d80-aebd-b1155f08ab77"}

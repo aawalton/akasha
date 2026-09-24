@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.test.ts"}
-{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/point-track-credits-at-artists/point-track-credits-at-artists.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/remove-unused-export-keywords/remove-unused-export-keywords.change-agent.test.ts"}

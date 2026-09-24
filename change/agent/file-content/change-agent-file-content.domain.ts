@@ -27,6 +27,5 @@ export const changeAgentFileContent = {
     "change-agent/point-book-links-at-sections",
     "change-agent/add-property-to-pages",
     "change-agent/rename-spellings",
-    "change-agent/point-track-credits-at-artists",
   ],
 } as const satisfies Domain

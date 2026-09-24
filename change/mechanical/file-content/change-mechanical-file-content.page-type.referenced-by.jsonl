@@ -20,7 +20,6 @@
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/point-book-links-at-sections/point-book-links-at-sections.change-agent.code.ts"}
-{"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/point-track-credits-at-artists/point-track-credits-at-artists.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-record/remove-property-record.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"change-mechanical-file-content.page-type.ts","path":"change/agent/file-content/remove-property-value/remove-property-value.change-agent.code.ts"}

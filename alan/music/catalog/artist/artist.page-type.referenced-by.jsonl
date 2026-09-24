@@ -5,8 +5,6 @@
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"alan/music/choosing/modules/track-picking/track-picking.module.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"alan/music/choosing/modules/ungraded-picking/ungraded-picking.module.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"alan/music/choosing/modules/unheard-picking/unheard-picking.module.test.ts"}
-{"propertySlug":"import","fileName":"artist.page-type.ts","path":"change/agent/file-content/point-track-credits-at-artists/point-track-credits-at-artists.change-agent.code.ts"}
-{"propertySlug":"import","fileName":"artist.page-type.ts","path":"change/agent/file-content/point-track-credits-at-artists/point-track-credits-at-artists.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"change/modules/page-editing/page-editing.module.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.test.ts"}
 {"propertySlug":"import","fileName":"artist.page-type.ts","path":"command/pages/music/heard-tracks/music-heard-tracks.command.test.ts"}
