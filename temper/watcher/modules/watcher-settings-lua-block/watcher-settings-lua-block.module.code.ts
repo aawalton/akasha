@@ -1,3 +1,5 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+
 const DEFAULT_INDENT = "            "
 
 const LONG_BRACKET = /\[(=*)\[/y
@@ -47,9 +49,9 @@ function stringEnd(text: string, open: number): number {
 
 function commentEnd(text: string, dashes: number): number {
   LONG_BRACKET.lastIndex = dashes + 2
-  const opened = LONG_BRACKET.exec(text)
-  if (opened !== null) {
-    const close = `]${opened[1] ?? ""}]`
+  const equals = firstCapture(LONG_BRACKET.exec(text))
+  if (equals !== null) {
+    const close = `]${equals}]`
     const at = text.indexOf(close, LONG_BRACKET.lastIndex)
     return at === -1 ? text.length : at + close.length
   }

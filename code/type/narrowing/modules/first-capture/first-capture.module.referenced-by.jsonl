@@ -36,4 +36,7 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"page/command/modules/icon-index-rendering/icon-index-rendering.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"page/modules/export-name/modules/export-naming/export-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"page/modules/file-name/page-file-name.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-main/watcher-main.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"temper/watcher/modules/watcher-settings-lua-block/watcher-settings-lua-block.module.code.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

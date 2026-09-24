@@ -1,3 +1,4 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { getPage } from "akasha/page/access/modules/get/get.module.code.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
@@ -42,8 +43,8 @@ const TARGET_BUILDS_BLOCK = new RegExp(`\\["${TARGET_BUILDS_KEY}"\\]\\s*=\\s*\\{
 const NUMBERED_STRING_ENTRY = /\[(\d+)\]\s*=\s*"([^"]+)"/g
 
 export function readTargetBuilds(content: string): Record<number, string> {
-  const body = TARGET_BUILDS_BLOCK.exec(content)?.[1]
-  if (body === undefined) return {}
+  const body = firstCapture(TARGET_BUILDS_BLOCK.exec(content))
+  if (body === null) return {}
   const found: Record<number, string> = {}
   for (const [, numKey, value] of body.matchAll(NUMBERED_STRING_ENTRY)) {
     if (numKey === undefined || value === undefined) continue

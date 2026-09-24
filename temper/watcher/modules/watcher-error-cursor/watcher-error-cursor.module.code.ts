@@ -16,13 +16,12 @@ export function unreadCursorWhy(path: string): string {
 }
 
 export function parseErrorCursor(path: string, raw: string): ReadonlyMap<string, number> {
-  let parsed: unknown
+  let read: ReturnType<typeof CURSOR_SHAPE.safeParse>
   try {
-    parsed = JSON.parse(raw)
+    read = CURSOR_SHAPE.safeParse(JSON.parse(raw))
   } catch {
     throw new Error(unreadCursorWhy(path))
   }
-  const read = CURSOR_SHAPE.safeParse(parsed)
   if (!read.success) throw new Error(unreadCursorWhy(path))
   return new Map(Object.entries(read.data))
 }

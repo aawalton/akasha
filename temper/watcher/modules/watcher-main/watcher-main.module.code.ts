@@ -1,5 +1,6 @@
 import { existsSync, unwatchFile, watchFile } from "node:fs"
 import { basename } from "node:path"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import {
   buildConfig as buildConfigFromDisk,
@@ -88,8 +89,8 @@ export interface WatchingFiles {
 export type WatcherStart = WatchingFiles | ExitWanted
 
 export function watchedLabel(fileName: string): string {
-  const said = WATCHED_NAME.exec(fileName)?.[1]
-  if (said === undefined) return fileName
+  const said = firstCapture(WATCHED_NAME.exec(fileName))
+  if (said === null) return fileName
   return said === "" ? ROOT_LABEL : said
 }
 
