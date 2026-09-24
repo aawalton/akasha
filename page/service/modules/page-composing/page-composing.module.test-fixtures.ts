@@ -125,7 +125,6 @@ export const heldThing = {
 
 export const ROOT: string = indexedRepo({
   ...under("", [
-    aProperty("01", "page-type-slug", "text-property"),
     aProperty("02", "type", "text-property"),
     aProperty("03", "title", "text-property"),
     aProperty("04", "remark", "text-property"),
@@ -152,7 +151,6 @@ export const ROOT: string = indexedRepo({
       extends: [PAGE_AT],
       types: "ts",
       properties: [
-        declares("page-type-slug"),
         declares("type"),
         declares("title"),
         declares("remark"),
