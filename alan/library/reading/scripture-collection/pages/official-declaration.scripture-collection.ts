@@ -5,7 +5,11 @@ export const officialDeclaration = {
   type: "page-type/scripture-collection",
   slug: "official-declaration",
   title: "Official Declaration",
+  partOfCollections: ["scripture-collection/doctrine-and-covenants"],
   position: 2,
+  ownLength: 0,
+  ownProgress: 0,
   unit: "unit/words",
+  status: "not-started",
   externalId: "officialdeclaration",
 } as const satisfies ScriptureCollection
