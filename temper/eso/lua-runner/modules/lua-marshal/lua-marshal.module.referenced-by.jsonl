@@ -2,5 +2,6 @@
 {"propertySlug":"import","fileName":"lua-marshal.module.code.ts","path":"temper/eso/lua-runner/modules/lua-marshal/lua-marshal.module.test.ts"}
 {"propertySlug":"import","fileName":"lua-marshal.module.code.ts","path":"temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-marshal.module.code.ts","path":"temper/eso/return/modules/engine-returns-seeding/engine-returns-seeding.module.code.ts"}
+{"propertySlug":"import","fileName":"lua-marshal.module.code.ts","path":"temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"}
 {"propertySlug":"import","fileName":"lua-marshal.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"}
 {"propertySlug":"parts","path":"temper/eso/lua-runner/temper-lua-runner.domain.ts","id":"01a06059-248e-7afb-9115-253f8636048f"}

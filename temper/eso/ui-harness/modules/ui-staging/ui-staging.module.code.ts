@@ -9,6 +9,10 @@ import {
   esouiSourceDir,
 } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 import { gameFiles } from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
+import {
+  fontsLua,
+  gameFonts,
+} from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 import type { UiHarness } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import { openUiHarness } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
 import {
@@ -162,6 +166,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
   const harness = await openUiHarness()
   try {
     const templates = await harness.templates(chunks)
+    await harness.load(`return ${fontsLua(gameFonts(esoui))}`)
     const refused: string[] = []
     for (const file of gameFiles(esoui)) {
       const text = readFileSync(file.at, "utf8")

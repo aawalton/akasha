@@ -26,6 +26,7 @@ const MODEL_SLUGS: readonly string[] = [
   "ui-place-model",
   "ui-control-model",
   "ui-control-snapshot",
+  "ui-font-model",
   "ui-event-model",
   "ui-text-model",
   "ui-scene-model",

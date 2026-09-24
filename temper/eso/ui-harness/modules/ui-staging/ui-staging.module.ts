@@ -38,6 +38,11 @@ export const uiStaging = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The game's fonts are made before its Lua loads, as the game's font program loads first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A game file the sandbox refuses is named and passed over, so the addon still comes up.",
     },
     {
