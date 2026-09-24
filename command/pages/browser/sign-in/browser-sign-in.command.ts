@@ -22,7 +22,7 @@ export const browserSignIn = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A handover code is spent by its first use and dies thirty seconds after minting.",
+      statement: "A code a driver echoes can be taken again until thirty seconds after minting.",
     },
     {
       decisionKind: "decision-kind/departure",
