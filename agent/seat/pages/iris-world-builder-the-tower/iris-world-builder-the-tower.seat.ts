@@ -9,6 +9,6 @@ export const irisWorldBuilderTheTower = {
   role: "role/world-builder",
   person: "person/alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
 } as const satisfies Seat
