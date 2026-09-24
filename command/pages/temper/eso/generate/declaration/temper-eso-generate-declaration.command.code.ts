@@ -67,6 +67,8 @@ import {
   objectGroups,
 } from "akasha/temper/eso/declaration/modules/eso-declaration-text/eso-declaration-text.module.code.ts"
 import {
+  nameFaultIn,
+  namesWritten,
   parseEnums,
   parseEvents,
   parseFunctions,
@@ -244,6 +246,16 @@ async function generated(done: string[], taken: Taken, given: Given): Promise<An
     return refused(
       `${docPath} states ${String(faults.length)} type(s) no declaration may carry, ` +
         `among them ${faults.slice(0, NAMED_FIRST).join(", ")}. A type is written into a ` +
+        "declaration whole, so nothing was written.",
+      DATA
+    )
+  }
+
+  const misnamed = [...new Set(namesWritten(selected).flatMap((one) => nameFaultIn(one) ?? []))]
+  if (misnamed.length > 0) {
+    return refused(
+      `${docPath} states ${String(misnamed.length)} name(s) no declaration may be written under, ` +
+        `among them ${misnamed.sort().slice(0, NAMED_FIRST).join(", ")}. A name is written into a ` +
         "declaration whole, so nothing was written.",
       DATA
     )

@@ -93,6 +93,14 @@ export const temperEsoGenerateDeclaration = {
       statement: "No type reaches a declaration unjudged.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A name no declaration may be written under refuses the call as such a type does.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No name reaches a declaration unjudged.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A name the checkout declares already is declared no second time here.",
     },

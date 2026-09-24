@@ -50,9 +50,17 @@ export const esoDocTokens = {
       statement: "A name is captured as a run of word characters, which admits a leading digit.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
-        "Whether a name may be written into a declaration is answered, as it is for a type.",
+        "Whether a name may be written into a declaration is answered here, as it is for a type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name that is no identifier is answered as a fault naming that name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The names weighed are the ones a declaration is written under.",
     },
     {
       decisionKind: "decision-kind/departure",

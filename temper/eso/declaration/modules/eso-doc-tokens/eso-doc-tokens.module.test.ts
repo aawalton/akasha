@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import {
+  nameFaultIn,
+  namesWritten,
   parseEnums,
   parseEvents,
   parseFunctions,
@@ -32,6 +34,66 @@ test("a type carrying a quote or a brace is answered as a fault", () => {
 test("a type the documentation states as nothing at all is answered as a fault", () => {
   expect(typeFaultIn("")).toContain("is no type name")
   expect(typeFaultIn(" | undefined")).toContain("is no type name")
+})
+
+test("a name that is an identifier may be written into a declaration", () => {
+  expect(nameFaultIn("GetUnitName")).toBeNull()
+  expect(nameFaultIn("ABILITY_TYPE_HEAL")).toBeNull()
+  expect(nameFaultIn("_unit$2")).toBeNull()
+})
+
+test("a name opening on a digit is answered as a fault naming that name", () => {
+  const said = nameFaultIn("2ndSlot")
+  expect(said).toContain("is no identifier")
+  expect(said).toContain("2ndSlot")
+})
+
+test("a name that is nothing at all is answered as a fault", () => {
+  expect(nameFaultIn("")).toContain("is no identifier")
+})
+
+test("every name a declaration is written under is weighed, and an event's parameters are not", () => {
+  const names = namesWritten({
+    enums: [{ name: "AbilityType", values: ["ABILITY_TYPE_HEAL"] }],
+    functions: [
+      {
+        name: "GetThing",
+        params: [{ name: "slot", type: "number", isOptional: false }],
+        returns: [{ name: "count", type: "number" }],
+        hasVariableReturns: false,
+      },
+    ],
+    events: [{ name: "EVENT_ONE", params: [{ name: "unwritten", type: "number" }] }],
+    objects: [
+      {
+        name: "Button",
+        inheritsFrom: ["Control"],
+        methods: [
+          {
+            name: "GetState",
+            params: [{ name: "which", type: "number", isOptional: false }],
+            returns: [{ name: "state", type: "number" }],
+            hasVariableReturns: false,
+          },
+        ],
+      },
+    ],
+  })
+  expect([...names].sort()).toEqual(
+    [
+      "ABILITY_TYPE_HEAL",
+      "AbilityType",
+      "Button",
+      "Control",
+      "EVENT_ONE",
+      "GetState",
+      "GetThing",
+      "count",
+      "slot",
+      "state",
+      "which",
+    ].sort()
+  )
 })
 
 const ENUM_DUMP = [

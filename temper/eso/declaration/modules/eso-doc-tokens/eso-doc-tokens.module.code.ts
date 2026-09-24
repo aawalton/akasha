@@ -164,6 +164,37 @@ export function typeFaultIn(held: string): string | null {
   return `\`${held}\` is no type name, so a declaration carrying it would carry whatever it spells`
 }
 
+export function nameFaultIn(held: string): string | null {
+  if (NAMED_TYPE.test(held)) return null
+  return `\`${held}\` is no identifier, so a declaration written under it would not be TypeScript`
+}
+
+interface Tokens {
+  readonly functions: readonly ParsedFunction[]
+  readonly objects: readonly ParsedObject[]
+  readonly events: readonly ParsedEvent[]
+  readonly enums: readonly ParsedEnum[]
+}
+
+export function namesWritten(tokens: Tokens): readonly string[] {
+  const said = (one: { readonly name: string }): string => one.name
+  const signed = (one: ParsedObjectMethod): readonly string[] => [
+    one.name,
+    ...one.params.map(said),
+    ...one.returns.map(said),
+  ]
+  return [
+    ...tokens.enums.flatMap((one) => [one.name, ...one.values]),
+    ...tokens.functions.flatMap(signed),
+    ...tokens.events.map(said),
+    ...tokens.objects.flatMap((one) => [
+      one.name,
+      ...one.inheritsFrom,
+      ...one.methods.flatMap(signed),
+    ]),
+  ]
+}
+
 export function parseEnums(content: string): ParsedEnum[] {
   const enums: ParsedEnum[] = []
   const lines = content.split("\n")

@@ -23,7 +23,7 @@ export const temperEsoDeclaration = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name the dump describes is carried through unjudged.",
+      statement: "A name the dump describes is judged before a declaration is written under it.",
     },
     {
       decisionKind: "decision-kind/departure",
