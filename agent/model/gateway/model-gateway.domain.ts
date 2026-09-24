@@ -4,7 +4,7 @@ export const modelGateway = {
   id: "01a06227-7bc1-72a3-8056-41b5ba88f99d",
   type: "page-type/domain",
   slug: "model-gateway",
-  definition: "how an agent session calls a model",
+  definition: "how an agent calls a model",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "model gateway" },
     { partOfSpeech: "part-of-speech/noun", spelling: "model gateways" },

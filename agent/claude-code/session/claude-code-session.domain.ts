@@ -4,7 +4,7 @@ export const claudeCodeSession = {
   id: "01a0c9aa-9160-7910-b58e-7182271d836f",
   type: "page-type/domain",
   slug: "claude-code-session",
-  definition: "an agent session in Claude Code",
+  definition: "an agent's work written to a file",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code session" },
     { partOfSpeech: "part-of-speech/noun", spelling: "Claude Code sessions" },
@@ -25,6 +25,10 @@ export const claudeCodeSession = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A session is one agent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A session the agent takes up again is the same session rather than a second one.",
     },
     {
       decisionKind: "decision-kind/departure",
