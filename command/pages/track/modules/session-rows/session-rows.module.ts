@@ -69,6 +69,10 @@ export const sessionRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A day holding a row that will not read is refused rather than read as no rows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An activity is read from the index rather than from the text of its page.",
     },
     {

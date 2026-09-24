@@ -41,6 +41,7 @@ import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/pag
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 
 import { composedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { z } from "zod"
 
 const NAMED = [
   jsonArgument,
@@ -110,12 +111,16 @@ type Landed =
   | { readonly ok: true; readonly at: string }
   | { readonly ok: false; readonly why: string }
 
+const CLOCK_SAID = z.tuple([
+  z.string(),
+  z.coerce.number().int().max(23),
+  z.coerce.number().int().max(59),
+])
+
 export function wallClockIn(raw: string): WallClock | null {
-  const match = TIME_PATTERN.exec(raw)
-  if (match === null) return null
-  const hh = Number(match[1])
-  const mm = Number(match[2])
-  if (!Number.isInteger(hh) || !Number.isInteger(mm) || hh > 23 || mm > 59) return null
+  const found = CLOCK_SAID.safeParse(TIME_PATTERN.exec(raw)).data
+  if (found === undefined) return null
+  const [, hh, mm] = found
   return { hh, mm }
 }
 

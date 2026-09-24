@@ -6,10 +6,12 @@ import {
   namesNoDay,
   readMountainWallTime,
 } from "akasha/alan/harness/day-boundary/modules/mountain-wall/mountain-wall.module.code.ts"
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { at } from "akasha/command/argument/pages/at.argument.ts"
 import { id } from "akasha/command/argument/pages/id.argument.ts"
 import { last } from "akasha/command/argument/pages/last.argument.ts"
 import { open } from "akasha/command/argument/pages/open.argument.ts"
+import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   type ActivityDifficulty,
   difficultyForTitle,
@@ -27,6 +29,7 @@ import {
   textIn,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { padTwo } from "akasha/text/writing/modules/pad-two/pad-two.module.code.ts"
+import { z } from "zod"
 
 export type LevelsReading =
   | { readonly read: "levels"; readonly levels: { safetyLevel?: string; difficultyLevel?: string } }
@@ -105,16 +108,23 @@ function pathsFor(root: string, day: string): { path: string; page: string } {
   }
 }
 
+const ROW_SAID = z.looseObject({
+  id: z.string(),
+  title: z.string(),
+  startedAt: z.string(),
+  dailyTracking: z.string(),
+  endedAt: z.string().optional(),
+})
+
 function idIn(said: string): string | null {
-  const found = /id:\s*"([0-9a-f-]{36})"/.exec(said)
-  return found === null ? null : (found[1] ?? null)
+  return firstCapture(/id:\s*"([0-9a-f-]{36})"/.exec(said))
 }
 
 function rowsIn(said: string): Row[] {
   return said
     .split("\n")
     .filter((one) => one.trim() !== "")
-    .map((one) => JSON.parse(one) as Row)
+    .map((one) => ROW_SAID.parse(JSON.parse(one)))
 }
 
 export function linesOf(rows: readonly Row[]): string {
@@ -142,11 +152,17 @@ export function heldFor(root: string, day: string): Held | string {
   }
   const carried = idIn(pageSaid)
   if (carried === null) return `the day page for ${day} carries no id, so no row can name it`
-  let rows: Row[] = []
+  let rowsSaid: string
   try {
-    rows = rowsIn(readFileSync(path, "utf8"))
+    rowsSaid = readFileSync(path, "utf8")
   } catch {
-    rows = []
+    rowsSaid = ""
+  }
+  let rows: Row[]
+  try {
+    rows = rowsIn(rowsSaid)
+  } catch (thrown) {
+    return `the rows ${path} holds for ${day} would not read, so nothing acts on them: ${whyOf(thrown)}`
   }
   return { day, path, page: carried, pageAt: page, pageSaid, rows }
 }
