@@ -9,6 +9,6 @@ export type RustCrate = Domain & {
   cargoManifest: CargoManifest
   modules?: RustModules
   cargoBuildScript?: CargoBuildScript
-  icon?: CrateIcon
+  crateIcon?: CrateIcon
   gitIgnore?: GitIgnore
 }

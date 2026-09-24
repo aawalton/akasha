@@ -14,7 +14,6 @@ export const locationCollection = {
       required: false,
       many: false,
     },
-    { pageProperty: "text-property/icon", required: false, many: false },
   ],
   decisions: [
     {

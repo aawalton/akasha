@@ -1,3 +1,4 @@
+import type { Icon } from "akasha/page/properties/icon.text-property.types.ts"
 import type { Id } from "akasha/page/properties/id.text-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { EquipType } from "akasha/temper/catalog/companion/thing/properties/equip-type.number-property.types.ts"
@@ -33,7 +34,6 @@ import type { TraitType } from "akasha/temper/player/character/temper-mine/prope
 import type { WeaponPower } from "akasha/temper/player/character/temper-mine/properties/weapon-power.number-property.types.ts"
 import type { WeaponType } from "akasha/temper/player/character/temper-mine/properties/weapon-type.number-property.types.ts"
 import type { ItemName } from "akasha/temper/player/holdings/temper-sale/properties/item-name.text-property.types.ts"
-import type { Icon } from "akasha/temper/thing/properties/icon.text-property.types.ts"
 
 export type Items = "jsonl"
 

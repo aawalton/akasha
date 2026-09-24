@@ -6,8 +6,8 @@ import type { NavParent } from "akasha/page/nav/properties/nav-parent.relation-p
 import type { NavPlace } from "akasha/page/nav/properties/nav-place.number-property.types.ts"
 import type { ShowCountBadge } from "akasha/page/nav/properties/show-count-badge.boolean-property.types.ts"
 import type { Page } from "akasha/page/page.page-type.types.ts"
+import type { Icon } from "akasha/page/properties/icon.text-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
-import type { Icon } from "akasha/temper/thing/properties/icon.text-property.types.ts"
 
 export type Nav = Page & {
   title: Title

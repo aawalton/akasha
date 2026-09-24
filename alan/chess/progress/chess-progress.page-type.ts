@@ -23,7 +23,6 @@ export const chessProgress = {
     { pageProperty: "select-property/mastery-level", required: false, many: false },
     { pageProperty: "calendar-date-property/last-reviewed", required: false, many: false },
     { pageProperty: "boolean-property/active-drill", required: false, many: false },
-    { pageProperty: "text-property/icon", required: false, many: false },
   ],
   decisions: [
     {

@@ -33,7 +33,7 @@ PLIST="ios/App/App/Info.plist"
 APPDELEGATE="ios/App/App/AppDelegate.swift"
 CONFIG="ios/App/App/capacitor.config.json"
 APPICONSET="ios/App/App/Assets.xcassets/AppIcon.appiconset"
-ICON_CARRIER="$PACKAGE/alanwalton.ios-app.icon.json"
+ICON_CARRIER="$PACKAGE/alanwalton.ios-app.app-icon.json"
 # The icon is decoded into a directory of this run's own, and that directory is
 # taken away when the run ends — after the app-icon script below has copied the
 # icon out of it, and on a run that refuses as well as on one that finishes.

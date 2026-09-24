@@ -13,6 +13,7 @@ export const page = {
     { pageProperty: "text-property/slug", required: true, many: false },
     { pageProperty: "text-property/title", required: false, many: false },
     { pageProperty: "text-property/description", required: false, many: false },
+    { pageProperty: "text-property/icon", required: false, many: false },
     { pageProperty: "relation-property/cover", required: false, many: false },
     {
       pageProperty: "file-property/entries",
@@ -124,6 +125,7 @@ export const page = {
     "service-workstation/sweep-cost-records",
     "relation-property/cover",
     "text-property/description",
+    "text-property/icon",
     "text-property/id",
     "text-property/slug",
     "text-property/title",

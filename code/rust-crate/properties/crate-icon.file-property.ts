@@ -4,7 +4,7 @@ export const crateIcon = {
   id: "01a0693a-5bbe-7c76-b5ef-d2e85fbec62f",
   type: "page-type/file-property",
   slug: "crate-icon",
-  propertySlug: "icon",
+  propertySlug: "crate-icon",
   definition: "a crate's icon picture, carried as text beside the crate's page",
   extensions: ["json"],
   decisions: [

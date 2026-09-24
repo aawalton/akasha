@@ -35,7 +35,7 @@ export type IosApp = Domain &
     developmentTeam: DevelopmentTeam
     displayName: DisplayName
     gitIgnore: GitIgnore
-    icon?: AppIcon
+    appIcon?: AppIcon
     iconDrawing?: IconDrawing
     macBuildLockDir?: MacBuildLockDir
     macBuildNumberFile?: MacBuildNumberFile

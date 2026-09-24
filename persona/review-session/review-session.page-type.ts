@@ -12,7 +12,6 @@ export const reviewSession = {
     { pageProperty: "relation-property/session-persona", required: true, many: false },
     { pageProperty: "calendar-date-property/date", required: true, many: false },
     { pageProperty: "file-property/review-session-notes", required: true, many: false },
-    { pageProperty: "text-property/icon", required: false, many: false },
   ],
   decisions: [
     {

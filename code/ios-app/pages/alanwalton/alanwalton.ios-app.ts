@@ -15,7 +15,7 @@ export const alanwalton = {
   developmentTeam: "M6AN6NM6FL",
   displayName: "alanwalton",
   gitIgnore: "gitignore",
-  icon: "json",
+  appIcon: "json",
   iconDrawing: "svg",
   macBuildLockDir: "$HOME/.appstoreconnect/deploy-testflight.lock",
   macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number",

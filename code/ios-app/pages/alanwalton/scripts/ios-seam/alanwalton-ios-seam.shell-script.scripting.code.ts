@@ -31,7 +31,7 @@ const RUNNING = "alanwalton-app"
 
 const SHELL = "shell"
 
-const ICON = "icon"
+const ICON = "app-icon"
 
 const INFO_PLIST = "info-plist"
 

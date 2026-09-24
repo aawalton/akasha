@@ -27,7 +27,7 @@ const CODE = "code"
 
 const RUST = "rust"
 
-const ICON = "icon"
+const ICON = "crate-icon"
 
 const MANIFEST = "cargo-manifest"
 
@@ -114,7 +114,7 @@ function rustStage(folder: string, copies: readonly Copied[]): readonly string[]
     `# The crate is held as pages under ${folder}. These COPY lines are`,
     "# the seam rust-crate calls for: each module is copied to the name Cargo reads, which",
     "# is the `moduleName` its page states. The icon comes from icon-builder, which writes",
-    "# the bytes the crate's `icon` property carries to the name include_bytes! reads.",
+    "# the bytes the crate's `crate-icon` property carries to the name include_bytes! reads.",
     ...copies.map(copyLine),
     "COPY --from=icon-builder /out ./assets",
     "RUN mkdir -p .cargo && \\",

@@ -10,7 +10,6 @@ export const sessionActivity = {
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "number-property/default-difficulty", required: true, many: false },
-    { pageProperty: "text-property/icon", required: false, many: false },
   ],
   decisions: [
     {

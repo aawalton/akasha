@@ -3150,6 +3150,7 @@
 {"propertySlug":"decision-kind","path":"page/process-property/process-property.page-type.ts","id":"01a05406-9bc6-71c5-8fcf-b15b97d86578"}
 {"propertySlug":"decision-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
 {"propertySlug":"decision-kind","path":"page/properties/grade.grade-property.ts","id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
+{"propertySlug":"decision-kind","path":"page/properties/icon.text-property.ts","id":"01a05fac-7584-7877-a778-efd8ee361ce1"}
 {"propertySlug":"decision-kind","path":"page/properties/id.text-property.ts","id":"01a049b9-856c-7ee7-b958-f63eead00582"}
 {"propertySlug":"decision-kind","path":"page/properties/priority.select-property.ts","id":"01a0c537-0fde-7c44-baa5-1aa0541d3b1a"}
 {"propertySlug":"decision-kind","path":"page/properties/referenced-by.file-property.ts","id":"01a0a2e9-c513-7eed-aa47-3b272814218c"}

@@ -326,6 +326,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/named-folder-property/properties/folder-name.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/nav/properties/back-href.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/description.text-property.ts"}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/icon.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/slug.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"page/properties/title.text-property.ts"}
@@ -613,7 +614,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/thing/properties/node-id.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/category.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/eso-character-id.text-property.ts"}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/icon.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/key.text-property.ts"}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/thing/properties/zone-name.text-property.ts"}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

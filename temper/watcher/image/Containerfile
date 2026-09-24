@@ -5,8 +5,8 @@ WORKDIR /icon
 # the carrier states, and carried-file refuses where the sha256 it states is not what
 # came out, which fails this RUN rather than baking a wrong icon.
 COPY code/body/modules/carried-file/carried-file.module.code.ts ./carried-file.ts
-COPY temper/watcher/watcher-tray/watcher-tray.rust-crate.icon.json ./carrier.json
-RUN mkdir -p /out && bun -e 'const { carriedIn } = await import("./carried-file.ts"); const one = carriedIn(await Bun.file("carrier.json").text(), "watcher-tray.rust-crate.icon.json"); await Bun.write("/out/" + one.name, one.bytes)'
+COPY temper/watcher/watcher-tray/watcher-tray.rust-crate.crate-icon.json ./carrier.json
+RUN mkdir -p /out && bun -e 'const { carriedIn } = await import("./carried-file.ts"); const one = carriedIn(await Bun.file("carrier.json").text(), "watcher-tray.rust-crate.crate-icon.json"); await Bun.write("/out/" + one.name, one.bytes)'
 
 FROM rust:1.95-alpine3.23 AS rust-builder
 ARG COMMIT_SHA
@@ -17,7 +17,7 @@ WORKDIR /build
 # The crate is held as pages under temper/watcher/watcher-tray. These COPY lines are
 # the seam rust-crate calls for: each module is copied to the name Cargo reads, which
 # is the `moduleName` its page states. The icon comes from icon-builder, which writes
-# the bytes the crate's `icon` property carries to the name include_bytes! reads.
+# the bytes the crate's `crate-icon` property carries to the name include_bytes! reads.
 COPY temper/watcher/watcher-tray/Cargo.toml ./Cargo.toml
 COPY temper/watcher/watcher-tray/build.rs ./build.rs
 COPY temper/watcher/watcher-tray/main/watcher-tray-main.rust-module.rust.rs ./src/main.rs

@@ -7,7 +7,6 @@ import type { Page } from "akasha/page/page.page-type.types.ts"
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { Category } from "akasha/temper/thing/properties/category.text-property.types.ts"
-import type { Icon } from "akasha/temper/thing/properties/icon.text-property.types.ts"
 
 export type ChessProgress = Page & {
   title: Title
@@ -18,5 +17,4 @@ export type ChessProgress = Page & {
   masteryLevel?: MasteryLevel
   lastReviewed?: LastReviewed
   activeDrill?: ActiveDrill
-  icon?: Icon
 }

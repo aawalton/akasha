@@ -1,10 +1,6 @@
-{"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"alan/chess/progress/chess-progress.page-type.types.ts"}
-{"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"alan/collection/place/location-collection/location-collection.page-type.types.ts"}
 {"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"alan/self/identity-statement/identity-statement.page-type.types.ts"}
-{"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"alan/track/session-activity/session-activity.page-type.types.ts"}
 {"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"page/nav/nav.page-type.types.ts"}
-{"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"persona/craft-day/persona-craft-day.page-type.types.ts"}
-{"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"persona/review-session/review-session.page-type.types.ts"}
+{"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"page/page.page-type.types.ts"}
 {"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.types.ts"}
 {"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.types.ts"}
 {"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.types.ts"}
@@ -16,14 +12,9 @@
 {"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.types.ts"}
 {"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.types.ts"}
 {"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.types.ts"}
-{"propertySlug":"import","fileName":"icon.text-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts"}
-{"propertySlug":"page-property","path":"alan/chess/progress/chess-progress.page-type.ts","id":"01a06582-bd62-702f-92a4-3fd313251ee2"}
-{"propertySlug":"page-property","path":"alan/collection/place/location-collection/location-collection.page-type.ts","id":"01a06589-d12e-7daf-abd1-8fb5c89e9127"}
 {"propertySlug":"page-property","path":"alan/self/identity-statement/identity-statement.page-type.ts","id":"01a0658a-739f-7d92-aed5-20be788a960f"}
-{"propertySlug":"page-property","path":"alan/track/session-activity/session-activity.page-type.ts","id":"01a06589-d117-759e-b934-fd346ffba4fd"}
 {"propertySlug":"page-property","path":"page/nav/nav.page-type.ts","id":"01a0680e-5e00-7007-a253-4c7d9b1a5108"}
-{"propertySlug":"page-property","path":"persona/craft-day/persona-craft-day.page-type.ts","id":"01a0655b-4a9b-700e-86cf-9bc6a7104f89"}
-{"propertySlug":"page-property","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
+{"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts","id":"01a05fd1-d432-7a5c-af26-2d6a3db12c15"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts","id":"01a05fd1-d434-76cd-b1db-563c237e6de6"}
@@ -35,5 +26,4 @@
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts","id":"01a05fca-cb8a-72ce-84c1-1585368027e5"}
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.ts","id":"01a05fc4-7a8e-7cdd-859d-6e17f19d2d93"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-mine/properties/items.page-property-entry.ts","id":"01a05fcd-f550-7cd2-9e3a-e8c18d91b7a8"}
-{"propertySlug":"page-property","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
-{"propertySlug":"parts","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
+{"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
