@@ -12,6 +12,9 @@ export const inboxesTemperTasks = {
   scale: "readout-scale/daily-inbox",
   groups: ["readout-group/inboxes"],
   wireKey: "temperTasks",
+  countedOn: "eso-day",
+  countedFrom: "number-property/inbox-temper-tasks",
+  countName: "game task count",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
