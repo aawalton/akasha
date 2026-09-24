@@ -6,6 +6,7 @@ import {
   keepVerdicts,
   LOOKED_AT,
   looked,
+  lookedBeside,
   WELL,
 } from "akasha/infrastructure/service/workstation/modules/service-wellness/service-wellness.module.code.ts"
 import { uncommittedAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -116,6 +117,22 @@ test("the moment moves on every look, whether or not any verdict changed", () =>
   expect(looked(root, [MENDED, WATCHING], LATER, "held-watcher")).toEqual([])
   expect(uncommittedIn(root, WATCHER)).toEqual({ [WELL]: true, [LOOKED_AT]: LATER })
   expect(statSync(besideAt(root, PAGE)).mtimeMs).toBe(beat)
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a look whose own page is not among the services it looked at leaves its moment there all the same", () => {
+  const root = rooted()
+  expect(lookedBeside(root, [BROKE], AT, WATCHER)).toEqual(["held-service"])
+  expect(uncommittedIn(root, WATCHER)).toEqual({ [LOOKED_AT]: AT })
+  expect(uncommittedIn(root, PAGE)).toEqual({ [WELL]: false })
+  rmSync(root, { recursive: true, force: true })
+})
+
+test("a look handed no page of its own leaves the verdicts and no moment", () => {
+  const root = rooted()
+  lookedBeside(root, [MENDED], AT, null)
+  expect(uncommittedIn(root, WATCHER)).toBe(null)
+  expect(uncommittedIn(root, PAGE)).toEqual({ [WELL]: true })
   rmSync(root, { recursive: true, force: true })
 })
 

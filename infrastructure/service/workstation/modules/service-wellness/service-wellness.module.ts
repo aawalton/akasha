@@ -57,6 +57,15 @@ export const serviceWellness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A verdict is kept for any kind of service, needing only the page and whether the service is broken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A look's own page may be among the services looked at or apart from them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A look finding its own page nowhere leaves no moment rather than leaving a moment.",
     },
     {
