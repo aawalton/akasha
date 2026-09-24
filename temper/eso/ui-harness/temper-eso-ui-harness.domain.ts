@@ -45,5 +45,10 @@ export const temperEsoUiHarness = {
       decisionKind: "decision-kind/constraint",
       statement: "The game's matrix and scene-graph Lua declares typed structures, so never loads.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The console voice chat manager calls an engine function the running game on a computer lacks.",
+    },
   ],
 } as const satisfies Domain
