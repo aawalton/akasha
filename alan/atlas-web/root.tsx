@@ -14,15 +14,7 @@ import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surfa
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
-import {
-  data,
-  isRouteErrorResponse,
-  Links,
-  Meta,
-  Outlet,
-  Scripts,
-  ScrollRestoration,
-} from "react-router"
+import { isRouteErrorResponse, Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/alan/atlas-web/look/alan-atlas-web-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
@@ -38,10 +30,8 @@ export const meta: Route.MetaFunction = () => [
   { name: "description", content: "Atlas" },
 ]
 
-export async function loader({ request, context }: Route.LoaderArgs) {
-  const bounce = await handoverGuard(ATLAS_SITE, request, GUARD)
-  if (bounce !== null) return bounce
-  return data({ nonce: context.nonce })
+export function loader({ request }: Route.LoaderArgs) {
+  return handoverGuard(ATLAS_SITE, request, GUARD)
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
