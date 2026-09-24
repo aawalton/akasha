@@ -199,11 +199,11 @@ export const readout = {
       statement: "A feed sending no reading is the single feed a readout refuses.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The store answers with numbers.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every color is worked out outside the store.",
     },
     {
