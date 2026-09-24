@@ -16,9 +16,9 @@
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/landing/landing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/landing/landing.module.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts"}
-{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.code.ts"}
-{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test.ts"}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/commit-surface/commit-surface.module.code.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/entries/index-entries.module.test.ts"}
 {"propertySlug":"import","fileName":"index-surface.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts"}

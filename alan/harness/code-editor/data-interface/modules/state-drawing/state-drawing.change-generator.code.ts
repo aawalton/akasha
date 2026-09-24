@@ -206,7 +206,7 @@ export function stateAt(slug: string): string {
   return `${INTERFACES_AT}/${slug}/${slug}${STATE_TAIL}`
 }
 
-export function drawnFor(change: Change): Drawn {
+export function generateChange(change: Change): Drawn {
   try {
     const turned = turnedIn(change)
     if (turned.size === 0) return NOTHING_DRAWN

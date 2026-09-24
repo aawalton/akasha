@@ -54,7 +54,7 @@ export function carriedOver(change: Change, shadow: Shadow): Carried {
   return { edits, said: [] }
 }
 
-export function filingsFor(change: Change): Carried {
+export function generateChange(change: Change): Carried {
   try {
     const cast = shadowFor(change)
     if ("refused" in cast) return NOTHING_CARRIED

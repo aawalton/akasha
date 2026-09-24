@@ -12,7 +12,7 @@ import {
   LINE,
   shadowOf,
   worldOf,
-} from "akasha/page/index/modules/carrying/index-carrying.module.test-fixtures.ts"
+} from "akasha/page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts"
 
 const scratch = scratchWorld()
 

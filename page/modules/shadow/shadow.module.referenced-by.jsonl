@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.code.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"alan/harness/readout/modules/group-serving/readout-group-serving.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/generator/modules/change-generating/change-generating.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.test.ts"}
@@ -175,9 +175,9 @@
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"design/interface/badge/modules/color-badge-variant/color-badge-variant.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"graph/predicate/modules/closure/graph-predicate-closure.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"infrastructure/container-image/dockerfile/modules/imports/dockerfile-imports.module.code.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.code.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts"}
+{"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts"}
 {"propertySlug":"import","fileName":"shadow.module.code.ts","path":"page/index/modules/generator-turning/generator-turning.module.code.ts"}

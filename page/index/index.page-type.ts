@@ -22,7 +22,7 @@ export const index = {
     "module/generated-properties",
     "module/index-answering",
     "module/index-building",
-    "module/index-carrying",
+    "change-generator/index-carrying",
     "module/index-entries",
     "test-fixture/index-filing",
     "module/index-identities",

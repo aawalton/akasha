@@ -2,7 +2,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"alan/track/modules/landing/track-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.code.ts"}
@@ -286,7 +286,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"command/pages/change/subagent/modules/subagent-edits-acting/subagent-edits-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"domain/context/modules/warranting/warranting.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"git/modules/holding/holding.module.test.ts"}
-{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.code.ts"}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/index/modules/generator-turning/generator-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/modules/export-name/modules/export-naming/export-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts"}

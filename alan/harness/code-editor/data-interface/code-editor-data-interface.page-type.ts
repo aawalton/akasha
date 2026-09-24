@@ -31,7 +31,7 @@ export const codeEditorDataInterface = {
     "module/page-type-rows",
     "module/service-tree-assemble",
     "module/state-cooldown",
-    "module/state-drawing",
+    "change-generator/state-drawing",
     "module/state-reading",
     "module/state-writing",
     "module/status-bar-composing",

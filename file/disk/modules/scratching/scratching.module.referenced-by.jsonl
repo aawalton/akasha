@@ -35,7 +35,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/google/email/modules/email-command-reading/email-command-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"alan/harness/health-sample-day/modules/opening-window/opening-window.module.test.ts"}
@@ -250,7 +250,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/answering/index-answering.module.test.ts"}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.test.ts"}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/commit-surface/commit-surface.module.test.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/modules/generated-properties/generated-properties.module.test.ts"}

@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"}
-{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/tree-turning/tree-turning.module.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"change/runner/change-generators/addressing/change-runner-addressing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"check/code/pages/index-answers-are-level-with-the-change/index-answers-are-level-with-the-change.check-code.decision.code.ts"}
@@ -21,7 +21,7 @@
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"command/modules/edits-landing/edits-landing.module.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"command/modules/landing/landing.module.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts"}
-{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.code.ts"}
+{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/modules/shadow/shadow.module.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts"}

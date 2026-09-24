@@ -3,7 +3,7 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import {
   carriedOver,
   heldByGit,
-} from "akasha/page/index/modules/carrying/index-carrying.module.code.ts"
+} from "akasha/page/index/modules/carrying/index-carrying.change-generator.code.ts"
 import {
   AT,
   AWAY_AT,
@@ -11,7 +11,7 @@ import {
   LINE,
   shadowOf,
   worldOf,
-} from "akasha/page/index/modules/carrying/index-carrying.module.test-fixtures.ts"
+} from "akasha/page/index/modules/carrying/index-carrying.change-generator.test-fixtures.ts"
 import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 

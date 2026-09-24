@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/domain-row-filing/domain-row-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"}
-{"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"}
-{"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.test.ts"}
+{"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.test.ts"}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"change/agent/file/move-file/move-file.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"change/agent/folder/move-folder/move-folder.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"landing-change-composing.module.code.ts","path":"change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"}

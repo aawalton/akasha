@@ -1,11 +1,18 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ChangeGenerator } from "akasha/change/generator/change-generator.page-type.types.ts"
 
 export const stateDrawing = {
   id: "01a0a682-3acc-7b55-b488-e7b96ed58cac",
-  type: "page-type/module",
+  type: "page-type/change-generator",
   slug: "state-drawing",
   definition: "the pictures a landing carries, drawn from the change rather than from the disk",
   code: "ts",
+  runsAfter: [
+    "change-generator/group-writing",
+    "change-generator/lockfile-making",
+    "change-generator/source-globbing",
+    "change-generator/spacing-stepping",
+    "change-generator/value-minting",
+  ],
   test: "ts",
   decisions: [
     {
@@ -50,4 +57,4 @@ export const stateDrawing = {
       statement: "A picture here is made by reading every page of many page types.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ChangeGenerator

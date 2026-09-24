@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"command-tree.code-editor-data-interface.d.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"command-tree.code-editor-data-interface.d.ts","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"command-tree.code-editor-data-interface.d.ts","path":"code/editor/extension/modules/command-tree-panel/command-tree-panel.module.code.ts"}
 {"propertySlug":"import","fileName":"command-tree.code-editor-data-interface.d.ts","path":"code/editor/extension/modules/command-tree-reading/command-tree-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"command-tree.code-editor-data-interface.d.ts","path":"code/editor/extension/modules/command-tree-view/command-tree-view.module.code.ts"}

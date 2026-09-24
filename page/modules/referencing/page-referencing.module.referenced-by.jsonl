@@ -5,7 +5,7 @@
 {"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"command/modules/landing-change-composing/landing-change-composing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"command/pages/index/refresh/index-refresh.command.code.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"graph/modules/asking/graph-asking.module.test-fixtures.ts"}
-{"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"page/index/modules/carrying/index-carrying.module.code.ts"}
+{"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"page/index/modules/carrying/index-carrying.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"page/index/modules/indexing/indexing.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-referencing.module.code.ts","path":"page/index/modules/reading/index-reading.module.test-fixtures.ts"}

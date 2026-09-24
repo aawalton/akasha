@@ -291,7 +291,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/page-type-rows/page-type-rows.module.ts","id":"01a0d441-f596-777b-8f53-9333dfa98adf"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.ts","id":"01a09bb0-6ca4-76db-b1d3-1c5357bd4f81"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-cooldown/state-cooldown.module.ts","id":"01a0725a-758c-7335-9600-2a7c8c1391a4"}
-{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.ts","id":"01a0a682-3acc-7b55-b488-e7b96ed58cac"}
+{"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.ts","id":"01a0a682-3acc-7b55-b488-e7b96ed58cac"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.ts","id":"01a072b8-a766-7b44-b1e8-c0c04920e385"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/state-writing/state-writing.module.ts","id":"01a09ca3-cbe9-7489-b97b-135b73b4be8a"}
 {"propertySlug":"decision-kind","path":"alan/harness/code-editor/data-interface/modules/status-bar-composing/status-bar-composing.module.ts","id":"01a0789c-53c4-7eae-9e56-7aa7e07e6e06"}
@@ -1579,7 +1579,7 @@
 {"propertySlug":"decision-kind","path":"page/index/modules/beside-declaring/beside-declaring.module.ts","id":"01a0a5b6-b8e0-7795-a6eb-c2223e6dd24f"}
 {"propertySlug":"decision-kind","path":"page/index/modules/beside-turning/beside-turning.module.ts","id":"01a079a7-c9d9-7936-a9d3-e002d3f8e708"}
 {"propertySlug":"decision-kind","path":"page/index/modules/building/index-building.module.ts","id":"01a0a120-e0b6-7e06-a347-7282763bf802"}
-{"propertySlug":"decision-kind","path":"page/index/modules/carrying/index-carrying.module.ts","id":"01a09b7d-f088-7d22-88c5-53f5c0901921"}
+{"propertySlug":"decision-kind","path":"page/index/modules/carrying/index-carrying.change-generator.ts","id":"01a09b7d-f088-7d22-88c5-53f5c0901921"}
 {"propertySlug":"decision-kind","path":"page/index/modules/commit-surface/commit-surface.module.ts","id":"01a0cab0-a954-7000-805e-8ab8a807b335"}
 {"propertySlug":"decision-kind","path":"page/index/modules/extension-carrying/extension-carrying.module.ts","id":"01a09147-a806-78c9-8f27-bf82ebbd41f2"}
 {"propertySlug":"decision-kind","path":"page/index/modules/file-appending/file-appending.module.ts","id":"01a09279-a78b-7751-be07-d9dfc607cbc3"}

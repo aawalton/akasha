@@ -10,7 +10,7 @@ import {
   assembleServiceTree,
   type ServiceNode,
 } from "akasha/alan/harness/code-editor/data-interface/modules/service-tree-assemble/service-tree-assemble.module.code.ts"
-import { wholePath } from "akasha/alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"
+import { wholePath } from "akasha/alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.code.ts"
 import {
   type Node,
   treeIn,

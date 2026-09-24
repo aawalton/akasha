@@ -1,11 +1,18 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { ChangeGenerator } from "akasha/change/generator/change-generator.page-type.types.ts"
 
 export const indexCarrying = {
   id: "01a09b7d-f088-7d22-88c5-53f5c0901921",
-  type: "page-type/module",
+  type: "page-type/change-generator",
   slug: "index-carrying",
   definition: "the index files a change carries among its own file changes",
   code: "ts",
+  runsAfter: [
+    "change-generator/group-writing",
+    "change-generator/lockfile-making",
+    "change-generator/source-globbing",
+    "change-generator/spacing-stepping",
+    "change-generator/value-minting",
+  ],
   test: "ts",
   testFixtures: "ts",
   decisions: [
@@ -88,4 +95,4 @@ export const indexCarrying = {
       statement: "Nothing here writes a file.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ChangeGenerator

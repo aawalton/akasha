@@ -1,4 +1,3 @@
-import { drawnFor } from "akasha/alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.module.code.ts"
 import { generatedOver } from "akasha/change/generator/modules/change-generating/change-generating.module.code.ts"
 import {
   type Adding,
@@ -19,7 +18,7 @@ import {
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import type { FileMove } from "akasha/command/modules/path-moving/path-moving.module.code.ts"
 import { bodyAt } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
-import { filingsFor } from "akasha/page/index/modules/carrying/index-carrying.module.code.ts"
+
 import {
   type Facing,
   facingIn,
@@ -157,10 +156,8 @@ export function preparing(
   if (generated.refused.length > 0) return { refusals: generated.refused, code: DATA }
   const made = [...early, ...generated.edits]
   const whole = made.length === 0 ? change : changeOf(root, base, [...rows, ...made])
-  const carried = filingsFor(whole)
-  const drawn = drawnFor(whole)
   const cast = shadowFor(whole)
-  const added = [...made, ...carried.edits, ...drawn.edits]
+  const added = made
   return {
     formatting,
     authored: rows,
@@ -171,8 +168,6 @@ export function preparing(
       ...typed.said,
 
       ...generated.said,
-      ...carried.said,
-      ...drawn.said,
     ],
     over: added.length === 0 ? change : null,
   }
