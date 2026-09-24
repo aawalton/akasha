@@ -111,6 +111,18 @@ export const pageComputing = {
       statement: "No answer is kept past the working the answer was worked in.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A working says each page, naming and file every computed key's reach answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a key reads through another computed key counts as read by that key too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page a reach names counts as read even where no page answers.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads the formula language.",
     },

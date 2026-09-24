@@ -235,6 +235,62 @@ describe("a file a reach names", () => {
   })
 })
 
+describe("what a calculation read", () => {
+  test("a working says each page and file a key's reach answered", () => {
+    const source: Source = {
+      ...sourceOf({
+        one: page("1", { points: 3 }, []),
+        two: page("2", {}, [
+          held("borrowed", "number", (_own, reach) => {
+            reach.file("/notes.txt")
+            reach.target<Held>("gone")
+            return (reach.target<Held>("one")?.["points"] as number | undefined) ?? 0
+          }),
+          held("plain", "number", () => 1),
+        ]),
+      }),
+      fileAt: () => null,
+    }
+    const working = computingOver(source).workedAt("two")
+    expect(working?.read.get("borrowed")).toEqual({
+      pages: ["gone", "one"],
+      namings: [],
+      files: ["/notes.txt"],
+    })
+    expect(working?.read.get("plain")).toEqual({ pages: [], namings: [], files: [] })
+  })
+
+  test("what another key read counts as read by the key reading it", () => {
+    const source = sourceOf({
+      one: page("1", {}, [
+        held("far", "number", (_own, reach) => (reach.target<Held>("far-off") === null ? 1 : 2)),
+      ]),
+      two: page("2", {}, [
+        held("near", "number", (_own, reach) => reach.target<Held>("one")?.["far"] as number),
+        held("again", "number", (own) => own["near"] as number),
+      ]),
+    })
+    const working = computingOver(source).workedAt("two")
+    expect(working?.read.get("near")?.pages).toEqual(["far-off", "one"])
+    expect(working?.read.get("again")?.pages).toEqual(["far-off", "one"])
+  })
+
+  test("a naming reach counts the naming and each page it answered", () => {
+    const source: Source = {
+      ...sourceOf({
+        day: page("1", {}, [held("sets", "number", (_own, reach) => reach.naming("day").length)]),
+      }),
+      namingAt: () => [{ slug: "set/a", subject: page("9", {}, []) }],
+    }
+    const working = computingOver(source).workedAt("day")
+    expect(working?.read.get("sets")).toEqual({
+      pages: ["set/a"],
+      namings: [{ named: "1", under: "day" }],
+      files: [],
+    })
+  })
+})
+
 const TINT: Reaches = { slug: "tint", kinds: new Set(["tint", "deep-tint"]) }
 
 function reaching(slug: string, work: Computed["work"]): Computed {

@@ -38,9 +38,27 @@ export type Source = {
   readonly fileAt?: (path: string) => Filed | null
 }
 
+export type Naming = {
+  readonly named: string
+  readonly under: string
+}
+
+export type Reading = {
+  readonly pages: readonly string[]
+  readonly namings: readonly Naming[]
+  readonly files: readonly string[]
+}
+
 export type Working = {
   readonly value: Held
   readonly dark: ReadonlyMap<string, string>
+  readonly read: ReadonlyMap<string, Reading>
+}
+
+type Heard = {
+  readonly pages: Set<string>
+  readonly namings: Map<string, Naming>
+  readonly files: Set<string>
 }
 
 export type Computing = {
@@ -93,12 +111,45 @@ function presentIn(value: Held): Held {
   return held
 }
 
+function readingOf(one: Heard | undefined): Reading {
+  if (one === undefined) return { pages: [], namings: [], files: [] }
+  return {
+    pages: [...one.pages].sort(),
+    namings: [...one.namings.values()],
+    files: [...one.files].sort(),
+  }
+}
+
 export function computingOver(source: Source): Computing {
   const answers = new Map<string, Answer>()
   const views = new Map<string, Held>()
   const settled = new Map<string, Working>()
   const frames: string[] = []
   const walking: Subject[] = []
+  const heard = new Map<string, Heard>()
+
+  const heardAt = (frame: string): Heard => {
+    const already = heard.get(frame)
+    if (already !== undefined) return already
+    const fresh: Heard = { pages: new Set(), namings: new Map(), files: new Set() }
+    heard.set(frame, fresh)
+    return fresh
+  }
+
+  const hearing = (): Heard | null => {
+    const frame = frames[frames.length - 1]
+    return frame === undefined ? null : heardAt(frame)
+  }
+
+  const carried = (frame: string): undefined => {
+    const into = hearing()
+    const from = heard.get(frame)
+    if (into === null || from === undefined || into === from) return undefined
+    for (const one of from.pages) into.pages.add(one)
+    for (const [key, one] of from.namings) into.namings.set(key, one)
+    for (const one of from.files) into.files.add(one)
+    return undefined
+  }
 
   const namingFault = (one: Computed, held: string): string | null => {
     const reaches = one.reaches
@@ -115,6 +166,7 @@ export function computingOver(source: Source): Computing {
     const frame = `${subject.id}#${one.slug}`
     const already = answers.get(frame)
     if (already !== undefined) {
+      carried(frame)
       if ("fault" in already) throw new Error(already.fault)
       return already.held
     }
@@ -125,6 +177,7 @@ export function computingOver(source: Source): Computing {
     }
     frames.push(frame)
     walking.push(subject)
+    heardAt(frame)
     try {
       const shaped = shapeFault(one)
       if (shaped !== null) throw new Error(shaped)
@@ -155,6 +208,7 @@ export function computingOver(source: Source): Computing {
     } finally {
       walking.pop()
       frames.pop()
+      carried(frame)
     }
   }
 
@@ -175,6 +229,7 @@ export function computingOver(source: Source): Computing {
 
   const reach: Reach = {
     target: <Found>(slug: string): Found | null => {
+      hearing()?.pages.add(slug)
       const subject = source.subjectAt(slug)
       if (subject === null) return null
       return viewOf(subject) as Found
@@ -182,11 +237,19 @@ export function computingOver(source: Source): Computing {
     naming: <Found>(propertySlug: string): readonly Found[] => {
       const here = walking[walking.length - 1]
       if (here === undefined) return []
+      const into = hearing()
+      into?.namings.set(`${here.id}#${propertySlug}`, { named: here.id, under: propertySlug })
       const namingAt = source.namingAt
       if (namingAt === undefined) return []
-      return namingAt(here.id, propertySlug).map((one) => viewOf(one.subject) as Found)
+      return namingAt(here.id, propertySlug).map((one) => {
+        into?.pages.add(one.slug)
+        return viewOf(one.subject) as Found
+      })
     },
-    file: (path: string): Filed | null => source.fileAt?.(path) ?? null,
+    file: (path: string): Filed | null => {
+      hearing()?.files.add(path)
+      return source.fileAt?.(path) ?? null
+    },
   }
 
   const workedAt = (slug: string): Working | null => {
@@ -197,6 +260,7 @@ export function computingOver(source: Source): Computing {
     const view = viewOf(subject)
     const value: Held = { ...subject.value }
     const dark = new Map<string, string>()
+    const read = new Map<string, Reading>()
     for (const one of subject.computed) {
       try {
         const held = view[one.key]
@@ -204,8 +268,9 @@ export function computingOver(source: Source): Computing {
       } catch (thrown) {
         dark.set(one.key, saidBy(thrown))
       }
+      read.set(one.key, readingOf(heard.get(`${subject.id}#${one.slug}`)))
     }
-    const working: Working = { value, dark }
+    const working: Working = { value, dark, read }
     settled.set(slug, working)
     return working
   }
