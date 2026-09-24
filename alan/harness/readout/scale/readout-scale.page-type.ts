@@ -20,7 +20,6 @@ export const readoutScale = {
     "readout-scale/green-day-units",
     "readout-scale/live-count",
     "readout-scale/lowest-inbox-count",
-    "readout-scale/plant-grams",
     "readout-scale/safety-level",
     "readout-scale/sleep-hours",
     "readout-scale/surplus-hours",
