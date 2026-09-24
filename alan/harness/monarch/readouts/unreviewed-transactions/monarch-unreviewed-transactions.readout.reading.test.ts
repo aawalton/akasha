@@ -1,5 +1,6 @@
 import { afterEach, describe, expect, mock, spyOn, test } from "bun:test"
 import { fetchRingCountsFromMonarch } from "akasha/alan/harness/monarch/readouts/unreviewed-transactions/monarch-unreviewed-transactions.readout.reading.code.ts"
+import { z } from "zod"
 
 const COOKIE = "sessionid=abc; csrftoken=tok-123; theme=dark"
 
@@ -16,6 +17,11 @@ type Sent = {
 
 type FetchStub = (asked: string | URL | Request, sent?: RequestInit) => Promise<Response>
 
+const POSTED = z.looseObject({
+  query: z.string(),
+  variables: z.looseObject({ backlog: z.record(z.string(), z.unknown()) }),
+})
+
 const SENT: Sent[] = []
 
 function stubbing(stub: FetchStub): undefined {
@@ -28,10 +34,7 @@ function counted(unreviewed: number): unknown {
 
 function answering(body: unknown, init: ResponseInit = {}): undefined {
   stubbing(async (url, sent = {}) => {
-    const posted = JSON.parse(String(sent.body)) as {
-      query: string
-      variables: { backlog: Record<string, unknown> }
-    }
+    const posted = POSTED.parse(JSON.parse(String(sent.body)))
     SENT.push({
       url: String(url),
       method: sent.method,
@@ -219,7 +222,7 @@ describe("Nothing is counted that is not shown.", () => {
   test("one count is asked for and one comes back", async () => {
     answering(counted(2))
     await fetchRingCountsFromMonarch(COOKIE, NOW)
-    expect(onlyCall().query.match(/totalCount/g)).toHaveLength(1)
+    expect(onlyCall().query.split("totalCount").length - 1).toBe(1)
   })
 
   test("the ring query is posted to Monarch's graphql endpoint", async () => {
