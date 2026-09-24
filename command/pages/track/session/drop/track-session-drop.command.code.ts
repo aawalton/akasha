@@ -33,7 +33,6 @@ export async function trackSessionDrop(argv: readonly string[], given: Given): P
   const before = place > 0 ? standing.rows[place - 1] : undefined
   standing.rows.splice(place, 1)
   if (standing.mend && before !== undefined) {
-    delete before.endTime
     if (found.endedAt === undefined) delete before.endedAt
     else before.endedAt = found.endedAt
   }

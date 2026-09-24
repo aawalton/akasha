@@ -37,8 +37,6 @@ function rowsOf(): Row[] {
     {
       id: SLEPT,
       title: "Slept",
-      startTime: "2026-09-01T06:00:00.000Z",
-      endTime: "2026-09-01T14:00:00.000Z",
       startedAt: "2026-09-01T06:00:00.000Z",
       endedAt: "2026-09-01T14:00:00.000Z",
       dailyTracking: HELD,
@@ -46,19 +44,11 @@ function rowsOf(): Row[] {
     {
       id: WROTE,
       title: "Wrote",
-      startTime: "2026-09-01T14:00:00.000Z",
-      endTime: "2026-09-01T16:00:00.000Z",
       startedAt: "2026-09-01T14:00:00.000Z",
       endedAt: "2026-09-01T16:00:00.000Z",
       dailyTracking: HELD,
     },
-    {
-      id: WALKED,
-      title: "Walked",
-      startTime: "2026-09-01T16:00:00.000Z",
-      startedAt: "2026-09-01T16:00:00.000Z",
-      dailyTracking: HELD,
-    },
+    { id: WALKED, title: "Walked", startedAt: "2026-09-01T16:00:00.000Z", dailyTracking: HELD },
   ]
 }
 

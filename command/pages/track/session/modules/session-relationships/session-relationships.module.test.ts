@@ -197,7 +197,7 @@ test("a title tags on top of what the row already carried", () => {
 })
 
 test("the relationships a row carries are read off it", () => {
-  const row = { id: "a", title: "t", startTime: "s", startedAt: "s", dailyTracking: "d" }
+  const row = { id: "a", title: "t", startedAt: "s", dailyTracking: "d" }
   expect(carriedIn(row)).toEqual([])
   expect(carriedIn({ ...row, relationships: [JENNIFER, 3] })).toEqual([JENNIFER])
 })

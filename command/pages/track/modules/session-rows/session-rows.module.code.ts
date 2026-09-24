@@ -57,8 +57,6 @@ const ADDRESSED_BY = `by ${id.said}, by ${at.said}, by ${open.said} or by ${last
 const KEYS = [
   "id",
   "title",
-  "startTime",
-  "endTime",
   "startedAt",
   "endedAt",
   "dailyTracking",

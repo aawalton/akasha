@@ -12,16 +12,12 @@ export const sessions = {
     "number-property/capacity-rate",
     "relation-property/daily-tracking",
     "text-property/difficulty-level",
-    "text-property/end-time",
     "multi-relation-property/relationships",
     "relation-property/session-owner",
-    "text-property/start-time",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "text-property/start-time", required: false, many: false },
-    { pageProperty: "text-property/end-time", required: false, many: false },
-    { pageProperty: "instant-property/started-at", required: false, many: false },
+    { pageProperty: "instant-property/started-at", required: true, many: false },
     { pageProperty: "instant-property/ended-at", required: false, many: false },
     { pageProperty: "relation-property/daily-tracking", required: true, many: false },
     { pageProperty: "text-property/safety-level", required: false, many: false },
@@ -66,13 +62,13 @@ export const sessions = {
       statement: "A row is spelled as the file spells the row.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The two times a stretch has are instants, whose slugs close with `-at`.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement:
-        "The commands opening and reading a stretch spell these keys, so a rename reaches them.",
+        "Commands opening and reading a stretch spell `startedAt` and `endedAt`, so a rename reaches them.",
     },
   ],
   types: "ts",
