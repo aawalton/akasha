@@ -21,6 +21,10 @@ export const athenaInteractiveSeatPages = {
     { statement: "A browser is pushed each change to a page or list it shows, and to no other." },
     {
       statement:
+        "A reader holding a page type's shape drops it when a change to that page type is pushed.",
+    },
+    {
+      statement:
         "A seat's page shows each new message and change of working color live, with no refresh.",
     },
     { statement: "A seat's page is laid out for a phone first and works as well on a desktop." },
