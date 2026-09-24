@@ -290,12 +290,12 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/turn/properties/pool-most.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/turn/properties/pool-now.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/game/turn/properties/turn-number.number-property.ts"}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/lore/place/properties/place-depth.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/attunement/properties/attunement-counter.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/attunement/rank/properties/attunement-rank-cap.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/metric/properties/metric-max-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/metric/properties/metric-min-value.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/mechanic/metric/properties/metric-value.number-property.ts"}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/place/properties/place-depth.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/builds/properties/build-level.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/characters/properties/event-count.number-property.ts"}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/characters/properties/first-chapter.number-property.ts"}

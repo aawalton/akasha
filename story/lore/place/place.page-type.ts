@@ -6,7 +6,7 @@ export const place = {
   slug: "place",
   definition: "somewhere in a world",
   pluralSlug: "places",
-  extends: ["page-type/page"],
+  extends: ["page-type/lore"],
   parts: [
     "relation-property/place-within",
     "number-property/place-depth",
@@ -15,8 +15,6 @@ export const place = {
     "text-property/place-exit-way",
   ],
   properties: [
-    { pageProperty: "text-property/title", required: true, many: false },
-    { pageProperty: "relation-property/world", required: true, many: false },
     { pageProperty: "relation-property/place-within", required: false, many: false },
     { pageProperty: "number-property/place-depth", required: false, many: false },
     { pageProperty: "record-property/place-exits", required: false, many: true, maxCount: null },
@@ -25,6 +23,14 @@ export const place = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A place inside another place is a place.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place is known to whoever its lore-disclosure names, with the facts it states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fact about a place known to fewer than the place is on a lore page about it.",
     },
   ],
   types: "ts",

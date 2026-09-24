@@ -10,5 +10,5 @@ export type Lore = Page & {
   world: World
   about?: LoreAbout
   loreDisclosure: LoreDisclosure
-  facts: LoreFacts
+  facts?: LoreFacts
 }

@@ -8,6 +8,7 @@ export const lore = {
   pluralSlug: "lore",
   extends: ["page-type/page"],
   parts: [
+    "page-type/place",
     "relation-property/lore-about",
     "relation-property/lore-disclosure",
     "text-property/lore-facts",
@@ -17,7 +18,7 @@ export const lore = {
     { pageProperty: "relation-property/world", required: true, many: false },
     { pageProperty: "relation-property/lore-about", required: false, many: false },
     { pageProperty: "relation-property/lore-disclosure", required: true, many: false },
-    { pageProperty: "text-property/lore-facts", required: true, many: true, maxCount: null },
+    { pageProperty: "text-property/lore-facts", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {

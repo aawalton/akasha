@@ -1,3 +1,5 @@
+{"propertySlug":"extends-type","path":"story/lore/place/place.page-type.ts","id":"01a0d42e-f05d-7b7a-b366-dceb25db06b5"}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/lore/place/place.page-type.types.ts"}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/personas/lore/death-loop.lore.ts"}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/personas/lore/the-false-haven.lore.ts"}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}

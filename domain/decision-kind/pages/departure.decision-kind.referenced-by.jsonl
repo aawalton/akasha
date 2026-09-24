@@ -3565,13 +3565,13 @@
 {"propertySlug":"decision-kind","path":"story/item/properties/item-slot.relation-property.ts","id":"01a0ca45-cc74-7097-84c6-4205dbdaeff1"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
 {"propertySlug":"decision-kind","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
+{"propertySlug":"decision-kind","path":"story/lore/place/place.page-type.ts","id":"01a0d42e-f05d-7b7a-b366-dceb25db06b5"}
+{"propertySlug":"decision-kind","path":"story/lore/place/properties/place-depth.number-property.ts","id":"01a0d42e-fdd4-7681-86a9-535b7194e760"}
+{"propertySlug":"decision-kind","path":"story/lore/place/properties/place-exits.record-property.ts","id":"01a0d42f-0689-7bf1-96eb-c0c92d2ccd82"}
 {"propertySlug":"decision-kind","path":"story/lore/properties/lore-about.relation-property.ts","id":"01a0d426-439c-7d51-9d3c-9df614dce06f"}
 {"propertySlug":"decision-kind","path":"story/mechanic/element/element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"decision-kind","path":"story/mechanic/metric/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
 {"propertySlug":"decision-kind","path":"story/narrative-production/narrative-production.domain.ts","id":"01a0673a-bc3a-7002-900d-98d54a36587e"}
-{"propertySlug":"decision-kind","path":"story/place/place.page-type.ts","id":"01a0d42e-f05d-7b7a-b366-dceb25db06b5"}
-{"propertySlug":"decision-kind","path":"story/place/properties/place-depth.number-property.ts","id":"01a0d42e-fdd4-7681-86a9-535b7194e760"}
-{"propertySlug":"decision-kind","path":"story/place/properties/place-exits.record-property.ts","id":"01a0d42f-0689-7bf1-96eb-c0c92d2ccd82"}
 {"propertySlug":"decision-kind","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
 {"propertySlug":"decision-kind","path":"story/world/builds/story-build.page-type.ts","id":"01a06578-d638-74fa-9fea-d5dfb9cf10ec"}
