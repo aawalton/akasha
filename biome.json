@@ -46,6 +46,7 @@
         "useIterableCallbackReturn": "off",
         "noDocumentCookie": "off",
         "noTemplateCurlyInString": "off",
+        "noApproximativeNumericConstant": "off",
         "noCatchAssign": "error",
         "noConfusingLabels": "error",
         "noConfusingVoidType": "error",
@@ -160,23 +161,6 @@
                 }
               }
             }
-          }
-        }
-      }
-    },
-    {
-      "includes": [
-        "temper/*-addon/src/**/data/**",
-        "temper/catalog/world/lorebook/modules/lorebooks-book-data*/**",
-        "temper/catalog/world/lorebook/modules/lorebooks-library-data*/**",
-        "temper/catalog/world/lorebook/modules/lorebooks-shalidor-locations*/**",
-        "temper/addon/pages/world/collections/modules/treasure-pins-data*/**",
-        "temper/addon/pages/world/**"
-      ],
-      "linter": {
-        "rules": {
-          "suspicious": {
-            "noApproximativeNumericConstant": "off"
           }
         }
       }
