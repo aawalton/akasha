@@ -8,12 +8,5 @@ export const theTowerAshling01 = {
   world: "world/personas",
   about: "character-other/the-tower-ashling-01",
   loreDisclosure: "lore-disclosure/game-master",
-  facts: [
-    "The Ashling is loose ash held together around one bright core at its chest.",
-    "The Ashling's core is the only solid thing in it.",
-    "Blows that scatter the Ashling's ash do it little harm.",
-    "A strike on the Ashling's core kills it.",
-    "Water smothers the Ashling's core and finishes it.",
-    "The Ashling is dead, its core cracked; only its grey ash heap remains.",
-  ],
+  facts: ["The Ashling is dead, its core cracked; only its grey ash heap remains."],
 } as const satisfies Lore
