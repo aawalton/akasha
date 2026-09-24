@@ -68,6 +68,10 @@
       "truth"
     ],
     "ActivateSkillLinesInAllocationRequest": [],
+    "ActivateSynergy": [],
+    "ActivateSynergyAtIndex": [
+      "number"
+    ],
     "AddActiveChangeToAllocationRequest": [],
     "AddActivityFinderSetSearchEntry": [],
     "AddActivityFinderSpecificSearchEntry": [],
@@ -90,6 +94,7 @@
     "AddMapPin": [],
     "AddMapQuestPins": [],
     "AddMapZoneStoryPins": [],
+    "AddOutfitSlotPreviewElementToPreviewCollection": [],
     "AddPartialPendingNarrationText": [],
     "AddPassiveChangeToAllocationRequest": [],
     "AddPendingGuildRank": [],
@@ -169,11 +174,13 @@
     "AreUserAddOnsSupported": [
       "truth"
     ],
+    "AscendStop": [],
     "AssignCampaignToPlayer": [],
     "AssignTargetMarkerToReticleTarget": [],
     "AssistedQuestPinForTracked": [
       "number"
     ],
+    "AttemptForceLock": [],
     "BCP47StringForZoOfficialLanguage": [
       "word"
     ],
@@ -185,6 +192,7 @@
     "BestowActivityTypeGatingQuest": [],
     "BestowSubclassingQuest": [],
     "BindItem": [],
+    "BindKeyToAction": [],
     "BitAnd": [
       "number"
     ],
@@ -507,6 +515,8 @@
     "CancelRequestJournalQuestConditionAssistance": [],
     "CancelSkillPointAllocationRequest": [],
     "CancelSmithingTraitResearch": [],
+    "CancelSoulGemResurrection": [],
+    "CancelTaskbarWindowFlash": [],
     "CancelTradingHouseListing": [],
     "CancelTradingHouseListingByItemUniqueId": [],
     "CastGroupVote": [],
@@ -613,6 +623,7 @@
     ],
     "ClearEsoPlusFreeTrialNotification": [],
     "ClearExpiringMarketCurrencyNotification": [],
+    "ClearGameCameraPreferredTarget": [],
     "ClearGuildHasNewApplicationsNotification": [],
     "ClearGuildHistoryCache": [
       "truth"
@@ -633,6 +644,7 @@
     "ClearSCTSlotExcludedSourceTypes": [],
     "ClearSCTSlotExcludedTargetTypes": [],
     "ClearSessionIgnores": [],
+    "ClearSlot": [],
     "ClearSynergyPriorityOverride": [],
     "ClearTrackedPromotionalEventActivity": [],
     "ClearTrackedTimedActivity": [],
@@ -685,12 +697,27 @@
       "number"
     ],
     "CopyHousePermissions": [],
+    "CouldAcquireMarketProduct": [
+      "number"
+    ],
+    "CouldGiftMarketProduct": [
+      "number"
+    ],
+    "CouldPurchaseMarketProduct": [
+      "number"
+    ],
     "CraftAlchemyItem": [],
     "CraftEnchantingItem": [],
     "CraftProvisionerItem": [],
     "CraftSmithingItem": [],
     "CreateBackgroundListFilter": [
       "number"
+    ],
+    "CreateCrownCrateSpecificParticleEffect": [
+      "nothing"
+    ],
+    "CreateCrownCrateTierSpecificParticleEffect": [
+      "nothing"
     ],
     "CreateDefaultActionBind": [],
     "CreateGuildHistoryRequest": [
@@ -705,6 +732,7 @@
     "CreateNewSCTSlot": [
       "number"
     ],
+    "CycleGameCameraPreferredEnemyTarget": [],
     "DeactivateSkillLinesInAllocationRequest": [],
     "DeclineActivityFindReplacementNotification": [],
     "DeclineAgentChat": [],
@@ -728,6 +756,9 @@
     "DeleteGift": [],
     "DeleteMail": [],
     "DeleteSavedVariablesForAddonIndex": [],
+    "DeleteWorldParticleEffect": [],
+    "DescendStart": [],
+    "DescendStop": [],
     "DestroyAllJunk": [],
     "DestroyBackgroundListFilter": [],
     "DestroyGuildHistoryRequest": [
@@ -747,6 +778,8 @@
       "truth"
     ],
     "DisablePreviewMode": [],
+    "DisableShareFeatures": [],
+    "Disconnect": [],
     "DisplayBankUpgrade": [],
     "DoAllValidLevelUpRewardChoicesHaveSelections": [
       "truth"
@@ -1002,8 +1035,15 @@
     "DoesMarketProductCategoryOrSubcategoriesContainFilteredProducts": [
       "truth"
     ],
+    "DoesMarketProductContainDLC": [
+      "truth"
+    ],
     "DoesMarketProductMatchFilter": [
       "truth"
+    ],
+    "DoesMarketProductPassPurchasableReqList": [
+      "truth",
+      "number"
     ],
     "DoesObjectiveExist": [
       "truth"
@@ -1112,6 +1152,7 @@
     ],
     "DumpGuildHistoryChunkInformation": [],
     "EnablePreviewMode": [],
+    "EnableShareFeatures": [],
     "EnchantItem": [],
     "EndCurrentItemPreview": [],
     "EndHeraldryCustomization": [],
@@ -1138,6 +1179,8 @@
     "FlagMarketAnnouncementSeen": [],
     "FlagPromotionalEventPersonalCampaignAnnouncementSeen": [],
     "FlashHealthWarningStage": [],
+    "FlashTaskbarWindow": [],
+    "ForceCancelMounted": [],
     "ForceShowTutorial": [],
     "FormatAchievementLinkTimestamp": [
       "word",
@@ -1157,6 +1200,11 @@
       "word",
       "number"
     ],
+    "GameCameraGamepadZoomDown": [],
+    "GameCameraGamepadZoomUp": [],
+    "GameCameraInteractStart": [],
+    "GameCameraMouseFreeLookStart": [],
+    "GameCameraMouseFreeLookStop": [],
     "GemifyItem": [],
     "GenerateAvAObjectiveConditionTooltipLine": [
       "word",
@@ -6513,14 +6561,55 @@
     "GetMarketCurrencyTypeFromCurrencyType": [
       "number"
     ],
+    "GetMarketProductAnnounceSortOrder": [
+      "number"
+    ],
     "GetMarketProductAssociatedAchievementId": [
       "number"
+    ],
+    "GetMarketProductBundleInspectChildProductsAsList": [
+      "truth"
+    ],
+    "GetMarketProductCategoryInfo": [
+      "word",
+      "number",
+      "number",
+      "word",
+      "word",
+      "word"
     ],
     "GetMarketProductChapterUpgradeId": [
       "number"
     ],
+    "GetMarketProductChildId": [
+      "number"
+    ],
+    "GetMarketProductClaimGiftNoticeInfo": [
+      "word",
+      "nothing",
+      "nothing"
+    ],
+    "GetMarketProductCollectibleId": [
+      "number"
+    ],
+    "GetMarketProductCollectibleInfo": [
+      "number",
+      "word",
+      "word",
+      "number",
+      "word",
+      "truth",
+      "truth",
+      "word"
+    ],
     "GetMarketProductCollectiblePreviewActionDisplayName": [
       "word"
+    ],
+    "GetMarketProductCompleteErrorStringId": [
+      "number"
+    ],
+    "GetMarketProductCrownCrateId": [
+      "number"
     ],
     "GetMarketProductCrownCrateRewardInfo": [
       "word",
@@ -6535,10 +6624,85 @@
     "GetMarketProductCurrencyType": [
       "number"
     ],
+    "GetMarketProductDescription": [
+      "word"
+    ],
     "GetMarketProductDisplayName": [
       "word"
     ],
+    "GetMarketProductDisplayQuality": [
+      "number"
+    ],
+    "GetMarketProductEligibilityErrorStringIds": [
+      "number"
+    ],
+    "GetMarketProductEndTimeString": [
+      "word"
+    ],
+    "GetMarketProductFacadeChildId": [
+      "number"
+    ],
+    "GetMarketProductFurnitureDataId": [
+      "number"
+    ],
+    "GetMarketProductHouseId": [
+      "number"
+    ],
+    "GetMarketProductHouseTemplateId": [
+      "number"
+    ],
+    "GetMarketProductIcon": [
+      "word"
+    ],
+    "GetMarketProductInfo": [
+      "word",
+      "word",
+      "word",
+      "truth",
+      "truth"
+    ],
+    "GetMarketProductInstantUnlockId": [
+      "number"
+    ],
+    "GetMarketProductInstantUnlockType": [
+      "number"
+    ],
+    "GetMarketProductItemInfo": [
+      "number",
+      "word",
+      "word",
+      "number",
+      "number",
+      "number"
+    ],
+    "GetMarketProductItemLink": [
+      "word"
+    ],
+    "GetMarketProductItemRewardListId": [
+      "number"
+    ],
+    "GetMarketProductLTOTimeLeftInSeconds": [
+      "number"
+    ],
     "GetMarketProductMaxGiftQuantity": [
+      "number"
+    ],
+    "GetMarketProductNumBundledProducts": [
+      "number"
+    ],
+    "GetMarketProductNumChildren": [
+      "number"
+    ],
+    "GetMarketProductNumCollectibles": [
+      "number"
+    ],
+    "GetMarketProductNumFacadeChildren": [
+      "number"
+    ],
+    "GetMarketProductOpenMarketBehavior": [
+      "number"
+    ],
+    "GetMarketProductOpenMarketBehaviorReferenceData": [
       "number"
     ],
     "GetMarketProductPresentationIds": [
@@ -6547,6 +6711,27 @@
     ],
     "GetMarketProductPreviewVariationDisplayName": [
       "word"
+    ],
+    "GetMarketProductPricingByPresentation": [
+      "number",
+      "nothing",
+      "nothing",
+      "number",
+      "nothing"
+    ],
+    "GetMarketProductSaleTimeLeftInSeconds": [
+      "number"
+    ],
+    "GetMarketProductStackCount": [
+      "number"
+    ],
+    "GetMarketProductSubCategoryInfo": [
+      "word",
+      "number",
+      "truth"
+    ],
+    "GetMarketProductType": [
+      "number"
     ],
     "GetMarketProductUnlockNotificationProductId": [
       "number"
@@ -6562,6 +6747,9 @@
       "nothing"
     ],
     "GetMarketProductsForItem": [
+      "number"
+    ],
+    "GetMarketState": [
       "number"
     ],
     "GetMatchTradingHouseItemNamesResult": [
@@ -7402,6 +7590,9 @@
       "number"
     ],
     "GetNumMaps": [
+      "number"
+    ],
+    "GetNumMarketProductCategories": [
       "number"
     ],
     "GetNumMarketProductCollectiblePreviewActions": [
@@ -8912,6 +9103,9 @@
     "GetSharedQuickChatIcon": [
       "word"
     ],
+    "GetShowHiddenGearFromActivePreviewRules": [
+      "truth"
+    ],
     "GetSkillAbilityCharacterLevelNeededToUnlock": [
       "number"
     ],
@@ -9258,6 +9452,9 @@
     ],
     "GetSoulGemItemInfo": [
       "number",
+      "number"
+    ],
+    "GetSpaceNeededToAcquireMarketProduct": [
       "number"
     ],
     "GetSpecializedCollectibleType": [
@@ -10104,6 +10301,9 @@
     "GetUISystemAssociatedWithHelpEntry": [
       "number"
     ],
+    "GetURLTextByType": [
+      "word"
+    ],
     "GetUniqueNameForCharacter": [
       "word"
     ],
@@ -10749,6 +10949,7 @@
     "HousingEditorCanSelectTargettedFurniture": [
       "truth"
     ],
+    "HousingEditorClearPreviewMarketProductTransform": [],
     "HousingEditorClipLineSegmentToViewFrustum": [
       "number",
       "number",
@@ -10774,6 +10975,7 @@
     ],
     "HousingEditorEndCurrentPreview": [],
     "HousingEditorEndLocalPlayerPairedFurnitureInteraction": [],
+    "HousingEditorEndMarketProductPlacementPreview": [],
     "HousingEditorGetFurnitureLocalBounds": [
       "number",
       "number",
@@ -10992,6 +11194,9 @@
     "HousingEditorRequestKickOccupant": [
       "number"
     ],
+    "HousingEditorRequestMarketProductPlacementPreview": [
+      "number"
+    ],
     "HousingEditorRequestModeChange": [
       "number"
     ],
@@ -11035,6 +11240,7 @@
       "number"
     ],
     "HousingEditorRotateSelectedObject": [],
+    "HousingEditorSavePreviewMarketProductTransform": [],
     "HousingEditorSelectFurnitureById": [
       "number"
     ],
@@ -11086,6 +11292,7 @@
     "ImproveSmithingItem": [],
     "InitializePendingDyes": [],
     "InitializePendingGuildRanks": [],
+    "InitiateConfirmUseInventoryItem": [],
     "InsertActionLayerByName": [],
     "InsertNamedActionLayerAbove": [],
     "InviteToTributeByDisplayName": [],
@@ -11958,6 +12165,9 @@
     "IsKeyCodeMouseKey": [
       "truth"
     ],
+    "IsKeyDown": [
+      "truth"
+    ],
     "IsKeyboardHelpOption": [
       "truth"
     ],
@@ -12022,6 +12232,18 @@
       "truth"
     ],
     "IsMapLocationVisible": [
+      "truth"
+    ],
+    "IsMarketProductFeatured": [
+      "truth"
+    ],
+    "IsMarketProductGiftable": [
+      "truth"
+    ],
+    "IsMarketProductNew": [
+      "truth"
+    ],
+    "IsMarketProductPurchased": [
       "truth"
     ],
     "IsMaxTelvarStoneMultiplierThreshold": [
@@ -12528,6 +12750,7 @@
       "truth"
     ],
     "JoinRespawnQueue": [],
+    "JumpAscendStart": [],
     "JumpToFriend": [],
     "JumpToGroupLeader": [],
     "JumpToGroupMember": [],
@@ -12537,6 +12760,10 @@
     "LaunderItem": [],
     "LeaveBattleground": [],
     "LeaveCampaignQueue": [],
+    "LeftAndRightMouseDownInWorld": [],
+    "LeftAndRightMouseUpInWorld": [],
+    "LeftMouseDownInWorld": [],
+    "LeftMouseUpInWorld": [],
     "LocaleAwareToLower": [
       "word"
     ],
@@ -12566,14 +12793,63 @@
     "MeetsAntiquitySkillRequirementsForScrying": [
       "truth"
     ],
+    "MoveBackwardStart": [],
+    "MoveBackwardStop": [],
+    "MoveForwardStart": [],
+    "MoveForwardStop": [],
     "NotifyThatFollowerFinishedFragmentTransition": [],
     "NumberToId64": [
       "number",
       "truth"
     ],
     "OnMapUpdateComplete": [],
+    "OnMarketClose": [],
+    "OnMarketPurchaseMoreCrowns": [],
     "OnSelectedDigToolChanged": [],
+    "OnSlotDown": [],
+    "OnSlotDownAndUp": [],
+    "OnSlotUp": [],
+    "OnSpecialMoveKeyDown": [],
+    "OnSpecialMoveKeyPressed": [],
+    "OnSpecialMoveKeyUp": [],
+    "OnWeaponSwap": [],
+    "OnWeaponSwapToSet1": [],
+    "OnWeaponSwapToSet2": [],
+    "OpenChapterUpgradeURL": [],
+    "OpenMarket": [],
+    "OpenURLByType": [],
+    "PerformAttack": [],
+    "PerformInterrupt": [],
+    "PickupAbility": [],
+    "PickupAbilityById": [],
+    "PickupAbilityBySkillLine": [],
+    "PickupAction": [],
+    "PickupChampionSkillById": [],
+    "PickupCollectible": [],
+    "PickupCompanionAbilityById": [],
+    "PickupCraftedAbility": [],
+    "PickupCraftedAbilityScript": [],
+    "PickupEmoteById": [],
+    "PickupEquippedItem": [],
+    "PickupInventoryItem": [],
+    "PickupQuestItem": [],
+    "PickupQuestTool": [],
+    "PickupQuickChatById": [],
+    "PickupStoreBuybackItem": [],
+    "PickupStoreItem": [],
+    "PickupTradeItem": [],
+    "PickupVengeancePerk": [],
     "PingMap": [],
+    "PlaceInActionBar": [],
+    "PlaceInAttachmentSlot": [],
+    "PlaceInEquipSlot": [],
+    "PlaceInInventory": [],
+    "PlaceInStoreWindow": [],
+    "PlaceInTradeWindow": [],
+    "PlaceInTradingHouse": [],
+    "PlaceInTransfer": [],
+    "PlaceInUnitFrame": [],
+    "PlaceInWorldLeftClick": [],
     "PlainStringFind": [
       "truth",
       "number",
@@ -12581,6 +12857,7 @@
     ],
     "PlayCrownCrateSpecificParticleSoundAndVibration": [],
     "PlayCrownCrateTierSpecificParticleSoundAndVibration": [],
+    "PlayDefaultQuickChat": [],
     "PlayEmoteByIndex": [],
     "PlayGiftClaimFanfare": [],
     "PlayGiftThankedFanfare": [],
@@ -12593,17 +12870,25 @@
       "truth"
     ],
     "PopActionLayer": [],
+    "PrepareAttack": [],
     "PrepareChampionPurchaseRequest": [],
     "PrepareConsumeAttunableStationsMessage": [],
     "PrepareDeconstructMessage": [],
     "PrepareSkillPointAllocationRequest": [],
+    "PreviewCollectible": [],
+    "PreviewCollectibleAction": [],
+    "PreviewCollectibleAsFurniture": [],
     "PreviewCraftItem": [],
     "PreviewDyeStamp": [],
     "PreviewDyeStampByItemLink": [],
+    "PreviewFurnitureMarketProduct": [],
     "PreviewInventoryItem": [],
     "PreviewInventoryItemCollectibleAction": [],
     "PreviewItemLink": [],
+    "PreviewMarketProduct": [],
+    "PreviewMarketProductCollectibleAction": [],
     "PreviewPlacedFurniture": [],
+    "PreviewProvisionerItemAsFurniture": [],
     "PreviewReward": [],
     "PreviewRewardCollectibleAction": [],
     "PreviewStoreEntry": [],
@@ -12628,6 +12913,9 @@
     "QueryRaidLeaderboardData": [
       "number"
     ],
+    "QuerySkuCatalog": [
+      "number"
+    ],
     "QueryTributeLeaderboardData": [
       "number"
     ],
@@ -12639,6 +12927,12 @@
     ],
     "QueueMoneyAttachment": [],
     "Quit": [],
+    "RandomDiceRoll": [
+      "number"
+    ],
+    "RandomRangeRoll": [
+      "number"
+    ],
     "ReadLoreBook": [
       "word",
       "number",
@@ -12658,6 +12952,7 @@
     "RejectFriendRequest": [],
     "RejectGuildInvite": [],
     "Release": [],
+    "ReleaseGameCameraSiegeControlled": [],
     "ReleaseInteractionKeepForGuild": [],
     "ReleaseKeepForGuild": [],
     "ReleaseParsedPerkAvailabilityForCurrentSeason": [],
@@ -12741,17 +13036,20 @@
     ],
     "RequestJumpToHouse": [],
     "RequestJumpToHousePreviewWithTemplate": [],
+    "RequestJumpToIntroGameplayExperience": [],
     "RequestJumpToTimedActivityMenuAssistanceInfo": [],
     "RequestLoadDeferredSetting": [],
     "RequestMarketAnnouncement": [],
     "RequestMoreGuildHistoryEvents": [
       "number"
     ],
+    "RequestMoveItem": [],
     "RequestOfflineGuildMembers": [],
     "RequestOpenHouseStore": [],
     "RequestOpenMailbox": [],
     "RequestOpenTamrielTome": [],
     "RequestOpenUnsafeURL": [],
+    "RequestOverlandDifficultyChange": [],
     "RequestParsedPerkAvailabilityForCurrentSeason": [],
     "RequestPostItemOnTradingHouse": [],
     "RequestPurchaseMarketProduct": [],
@@ -12794,6 +13092,7 @@
     "RequestUpdateCurrentHouseFavoriteStatus": [],
     "RequestUpdateHouseToursListing": [],
     "RequestUpdateHouseToursListingFavoriteStatusByIndex": [],
+    "RerollEndlessDungeonBuffSelection": [],
     "RerollTimedActivity": [
       "number"
     ],
@@ -12827,12 +13126,18 @@
     "ResetVideoCancelConfirmation": [],
     "RespawnAtForwardCamp": [],
     "RespawnAtKeep": [],
+    "RespondToConfirmUseInventoryItemRequest": [],
+    "RespondToDestroyRequest": [],
     "RespondToSendPartiallyOwnedGift": [],
     "RestoreArmoryBuild": [],
     "ReturnGift": [],
     "ReturnMail": [],
     "RevertToSavedHeraldry": [],
     "Revive": [],
+    "RightMouseDownInWorld": [],
+    "RightMouseUpInWorld": [],
+    "RollDodgeStart": [],
+    "RollDodgeStop": [],
     "SaveArmoryBuild": [],
     "SaveGuildRecruitmentPendingChanges": [
       "number"
@@ -12844,8 +13149,12 @@
     "ScryForAntiquity": [],
     "SelectChatterOption": [],
     "SelectGuildBank": [],
+    "SelectLastSlottedItem": [],
     "SelectPlayerStatus": [],
     "SelectSkillBuild": [],
+    "SelectSlotAbility": [],
+    "SelectSlotItem": [],
+    "SelectSlotSimpleAction": [],
     "SelectTitle": [],
     "SelectTradingHouseGuildId": [
       "truth"
@@ -12855,6 +13164,7 @@
     "SendAllCachedSettingMessages": [],
     "SendAttributePointAllocationRequest": [],
     "SendChampionPurchaseRequest": [],
+    "SendChatMessage": [],
     "SendConsumeAttunableStationsMessage": [
       "truth"
     ],
@@ -12866,6 +13176,7 @@
     "SendLeaderToFollowerSync": [],
     "SendMail": [],
     "SendOutfitChangeRequest": [],
+    "SendPlayerStuck": [],
     "SendPledgeOfMaraResponse": [],
     "SendSkillPointAllocationRequest": [],
     "Set3DRenderSpaceToCurrentCamera": [],
@@ -13081,6 +13392,8 @@
     "SetSessionIgnore": [],
     "SetSetting": [],
     "SetShouldRenderWorld": [],
+    "SetShowHiddenGearOnActivePreviewRules": [],
+    "SetSpectatorCameraEnabled": [],
     "SetSpectatorCameraTargetIndex": [],
     "SetSynergyPriorityOverride": [],
     "SetTamrielTomesEndOfSeasonRecapSeen": [],
@@ -13101,6 +13414,9 @@
     "SetTutorialSeen": [],
     "SetVeteranDifficulty": [],
     "SetVideoCancelAllOnCancelAny": [],
+    "SetWorldParticleEffectOrientation": [],
+    "SetWorldParticleEffectPosition": [],
+    "SetWorldParticleEffectScale": [],
     "SetupDyeStampPreview": [],
     "ShareQuest": [],
     "ShouldAbilityShowAsUsableWithDuration": [
@@ -13131,6 +13447,12 @@
       "truth"
     ],
     "ShouldMapShowPriorityFastTravelOnly": [
+      "truth"
+    ],
+    "ShouldMarketProductShowClaimGiftNotice": [
+      "truth"
+    ],
+    "ShouldOpenURLTypeInOverlay": [
       "truth"
     ],
     "ShouldPromotionalEventCampaignBeVisible": [
@@ -13175,6 +13497,14 @@
     "ShowMarketAndSearch": [],
     "ShowMarketProduct": [],
     "ShowMouse": [],
+    "ShowPlatformESOChapterUpgradeUI": [],
+    "ShowPlatformESOCrownPacksUI": [],
+    "ShowPlatformESOPlusSubscriptionUI": [],
+    "ShowPlatformESOVOAdditionalContentUI": [],
+    "ShowPlatformStoreUI": [],
+    "SiegeWeaponFire": [],
+    "SiegeWeaponPackUp": [],
+    "SiegeWeaponRelease": [],
     "SlotSkillAbilityInSlot": [],
     "SpectatorCameraTargetNext": [],
     "SpectatorCameraTargetPrev": [],
@@ -13189,7 +13519,9 @@
     "StartAntiquitySearch": [],
     "StartAttributeRespecFromUI": [],
     "StartBackgroundListFilter": [],
+    "StartBlock": [],
     "StartCollectibleSearch": [],
+    "StartCommandPet": [],
     "StartConsolidatedSmithingItemSetSearch": [],
     "StartDyesSearch": [],
     "StartHelpSearch": [],
@@ -13197,11 +13529,27 @@
     "StartMapPinAnimation": [
       "truth"
     ],
+    "StartMouseSiegeWeaponAim": [],
+    "StartSettingChamber": [
+      "truth"
+    ],
     "StartSkillRespecFromUI": [],
+    "StartSoulGemResurrection": [],
+    "StartWorldEffectOnPlayer": [],
+    "StartWorldParticleEffect": [],
     "StopAllMovement": [],
+    "StopBlock": [],
+    "StopCommandPet": [],
     "StopMapPinAnimation": [],
+    "StopMouseSiegeWeaponAim": [],
+    "StopSettingChamber": [],
+    "StopWorldParticleEffect": [],
     "StowAllFurnitureItems": [],
     "StowAllVirtualItems": [],
+    "StrafeLeftStart": [],
+    "StrafeLeftStop": [],
+    "StrafeRightStart": [],
+    "StrafeRightStop": [],
     "StringToId64": [
       "number"
     ],
@@ -13217,10 +13565,14 @@
     "TakeMailAttachedMoney": [],
     "TakeMailAttachments": [],
     "TakeScreenshot": [],
+    "ToggleAutoRun": [],
     "ToggleFullScreen": [],
     "ToggleGameCameraFirstPerson": [],
+    "ToggleGameCameraPadlockTarget": [],
+    "ToggleMount": [],
     "TogglePlayerWield": [],
     "ToggleShowIngameGui": [],
+    "ToggleWalk": [],
     "TrackNextActivityForZoneStory": [
       "truth"
     ],
@@ -13273,7 +13625,13 @@
     "TryPurchaseTamrielTomePremiumPlus": [],
     "TryRedeemCachesForTomePoints": [],
     "TrySkipCurrentTributeTutorialStep": [],
+    "TurnLeftStart": [],
+    "TurnLeftStop": [],
+    "TurnRightStart": [],
+    "TurnRightStop": [],
     "UnassignCampaignForPlayer": [],
+    "UnbindAllKeysFromAction": [],
+    "UnbindKeyFromAction": [],
     "UndecorateDisplayName": [
       "word"
     ],
@@ -13282,8 +13640,12 @@
     "UnregisterForAssignedCampaignData": [],
     "UpdateGroupFinderFilterOptions": [],
     "UpdateGroupFinderUserTypeGroupListingOptions": [],
+    "UpdateMarketDisplayGroup": [],
+    "UpdatePlayerPresenceInformation": [],
+    "UpdatePlayerPresenceName": [],
     "UpdateSelectedLFGRole": [],
     "UseCollectible": [],
+    "UseItem": [],
     "UseMountAsPassenger": [],
     "UseQuestItem": [],
     "UseQuestTool": [],
