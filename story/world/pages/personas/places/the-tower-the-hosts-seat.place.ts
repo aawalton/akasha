@@ -10,9 +10,9 @@ export const theTowerTheHostsSeat = {
   within: "place/the-tower-floor-05",
   depth: 5,
   description:
-    "The gold gathers itself for one last, best lie: a high-backed chair at the head of the long table, and in it the Host — the gracious one, hands folded, smiling like he has all the time in the world and is pleased you came so far. This is the loom of the whole haven. When you raise a weapon he does not flinch — he MULTIPLIES: five of him around the table, then seven, every one identical, every one casting a shadow, every one warm, every one reflected, every one saying come, sit, you've earned it. Strike the wrong one and the others are still smiling while you bleed. And the note said it: kill it twice.",
+    "The head of the den, where the Host's high-backed chair lies smashed to splinters in the muck. Beside the wreck the Host's true form lies dead, lean and grey. A sheer drop the haven hid is torn across the floor between the wreck and a plain stair climbing into the dark, and on the stair's side of the drop the midden has been burned to char. In the dark past the wreck, a wounded, wrong-jointed cold creature drags itself over the stone.",
   exits: [
-    { way: "the real ascending stair ahead (on clearing)" },
+    { way: "the plain ascending stair, across the drop" },
     { to: "place/the-tower-the-deep-den", way: "the den behind" },
   ],
   facts: [
