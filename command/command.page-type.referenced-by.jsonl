@@ -301,5 +301,4 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/topic-words/track-topic-words.command.ts"}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/track/weight/track-weight.command.ts"}
 {"propertySlug":"page-domain","path":"domain/finding/pages/a-file-whose-line-is-longer-than-one-answer-can-never-be-changed.finding.ts","id":"01a0c4e9-2d27-7869-875f-da980362ba09"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/the-hold-a-landing-takes-is-not-spent-in-git.finding.ts","id":"01a0bb11-bffd-740a-8467-754f56109d76"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
