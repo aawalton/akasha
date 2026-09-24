@@ -362,6 +362,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/shell/terminal/shell-terminal.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/spawning/code-spawning.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/stylesheet/stylesheet.page-type.types.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/terminal/code-terminal.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type-declaration/type-declaration.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type/import/type-import.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/type/narrowing/type-narrowing.domain.ts"}

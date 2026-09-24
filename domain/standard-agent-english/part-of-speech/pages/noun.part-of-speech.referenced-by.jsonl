@@ -18,6 +18,7 @@
 {"propertySlug":"part-of-speech","path":"agent/model/model.domain.ts","id":"01a0535c-f2cf-7edc-8a2e-f495d1255183"}
 {"propertySlug":"part-of-speech","path":"agent/model/provider/pages/anthropic/anthropic.model-provider.ts","id":"01a0a217-368a-7225-a40c-e59231bfb52b"}
 {"propertySlug":"part-of-speech","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"part-of-speech","path":"agent/seat/pty/pty.domain.ts","id":"01a0932f-f8ee-7c96-8069-edc7cda2dc6d"}
 {"propertySlug":"part-of-speech","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"part-of-speech","path":"agent/session/agent-session.domain.ts","id":"01a0c9ae-c6f4-7f63-9f96-c0cd1f7d3b0d"}
 {"propertySlug":"part-of-speech","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
@@ -91,6 +92,7 @@
 {"propertySlug":"part-of-speech","path":"code/route/route.page-type.ts","id":"01a071dc-83c4-7030-b380-57eb6c741b5b"}
 {"propertySlug":"part-of-speech","path":"code/shell/shell.domain.ts","id":"01a05d9b-277a-7000-be3d-95c4cf94638d"}
 {"propertySlug":"part-of-speech","path":"code/stylesheet/stylesheet.page-type.ts","id":"01a05b01-48b1-72b3-961d-f31190becdc7"}
+{"propertySlug":"part-of-speech","path":"code/terminal/code-terminal.domain.ts","id":"01a0d3dd-91b9-7ba1-9e27-e649e1127230"}
 {"propertySlug":"part-of-speech","path":"code/type/type.domain.ts","id":"01a049e9-651c-7006-896c-2bffa71e2d0a"}
 {"propertySlug":"part-of-speech","path":"code/workspace/workspace.page-type.ts","id":"01a06cbb-60a1-7163-bbdd-7ba51e6b3ed6"}
 {"propertySlug":"part-of-speech","path":"command/argument/argument.page-type.ts","id":"01a093fd-9102-76e8-958e-03d34cd41e25"}
