@@ -3,8 +3,8 @@ import {
   computeMcpConfigContent,
   type McpServerConfig,
 } from "akasha/agent/claude-code/modules/claude-launch-args/claude-launch-args.module.code.ts"
-import { planDisableReconcile } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
-import { getMcpServerRegistry } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/mcp-registry/mcp-registry.module.code.ts"
+import { planDisableReconcile } from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/mcp-disable-reconcile/mcp-disable-reconcile.module.code.ts"
+import { getMcpServerRegistry } from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/mcp-registry/mcp-registry.module.code.ts"
 
 const LOG = "[supervisor-mcp]"
 

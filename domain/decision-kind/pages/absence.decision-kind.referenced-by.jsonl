@@ -183,6 +183,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/stopping/seat-stopping.module.ts","id":"01a05d02-889b-7880-9ab9-c72cdc79dc5c"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-decide/supervisor-idle-decide.module.ts","id":"01a06838-5a84-7000-a52b-bc6acad18e78"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-idleness/modules/supervisor-idle-observe/supervisor-idle-observe.module.ts","id":"01a06871-3115-7002-a786-a3fb7a53c159"}
+{"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-mcp/modules/browser-reaping/browser-reaping.module.ts","id":"01a0a0f4-a63b-7e62-b70f-6eaed2299de7"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-restart/modules/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts","id":"01a06838-5a84-7003-a0ce-e7e92276f897"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive-seams/supervisor-interactive-seams.module.ts","id":"01a06871-3115-7007-ad27-cd0693dae709"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/seat-agent-run/modules/supervisor-interactive/supervisor-interactive.module.ts","id":"01a06871-3115-700a-b93f-c32bdd8735c6"}
@@ -202,7 +203,6 @@
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts","id":"01a06838-5a84-7002-b23a-fa3c1a68a559"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.ts","id":"01a06871-3115-7001-910f-b7d9676eca90"}
 {"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-tick-saying/supervisor-tick-saying.module.ts","id":"01a08e28-7d11-7673-83b4-5b56092efa4c"}
-{"propertySlug":"decision-kind","path":"agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.ts","id":"01a0a0f4-a63b-7e62-b70f-6eaed2299de7"}
 {"propertySlug":"decision-kind","path":"agent/seat/turn-state/pages/idle/pending/idle-pending.seat-turn-state.ts","id":"01a06925-c777-7370-8dce-f74809dc4569"}
 {"propertySlug":"decision-kind","path":"agent/seat/turn-state/seat-turn-state.page-type.ts","id":"01a06924-e882-736f-8cac-465ef2b5d799"}
 {"propertySlug":"decision-kind","path":"agent/service-workstations/sweep-stray-processes/sweep-stray-processes.service-workstation.ts","id":"01a09cee-2585-7d35-b95e-24ea1f6ace82"}

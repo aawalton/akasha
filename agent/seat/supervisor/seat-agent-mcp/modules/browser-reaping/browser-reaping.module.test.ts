@@ -6,7 +6,7 @@ import {
   nextWatch,
   servesABrowser,
   untouchedFor,
-} from "akasha/agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.code.ts"
+} from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/browser-reaping/browser-reaping.module.code.ts"
 
 const SERVER = "node /home/one/.npm/_npx/aa/node_modules/.bin/playwright-mcp --headless"
 const WRAPPED = "npm exec @playwright/mcp@0.0.76 --headless"

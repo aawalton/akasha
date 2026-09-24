@@ -1,1 +1,1 @@
-{"path":"agent/seat/supervisor/supervisor-tooling/modules/supervisor-mcp/supervisor-mcp.module.code.ts","name":"reconcileDisabledMcpServers"}
+{"path":"agent/seat/supervisor/seat-agent-mcp/modules/supervisor-mcp/supervisor-mcp.module.code.ts","name":"reconcileDisabledMcpServers"}

@@ -160,6 +160,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/reviving/seat-reviving.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor-restart/supervisor-restart.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-idleness/seat-agent-idleness.domain.ts"}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-mcp/seat-agent-mcp.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-restart/seat-agent-restart.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-run/seat-agent-run.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/seat-agent-start/seat-agent-start.domain.ts"}
@@ -172,7 +173,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-start/supervisor-start.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-stop/supervisor-stop.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-timer/supervisor-timer.domain.ts"}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/supervisor/supervisor-tooling/supervisor-tooling.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/seat/turn-state/seat-turn-state.page-type.types.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/session/agent-session.domain.ts"}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"agent/settings/agent-settings.page-type.types.ts"}

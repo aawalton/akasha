@@ -7,12 +7,12 @@ import {
   getAgentActionHandler,
   getOAuthProxyHandle,
 } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
+import { browserReapPoll } from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/browser-reaping/browser-reaping.module.code.ts"
 import { autoCompactPoll } from "akasha/agent/seat/supervisor/seat-auto-compact/modules/supervisor-compact-poll/supervisor-compact-poll.module.code.ts"
 import { startLimitResumeMonitor } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts"
 import { startWaitResumeMonitor } from "akasha/agent/seat/supervisor/seat-work-restart/modules/supervisor-wait-resume/supervisor-wait-resume.module.code.ts"
 import { pollAgentAction } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.code.ts"
 import { buildHeartbeatMonitor } from "akasha/agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat/supervisor-heartbeat.module.code.ts"
-import { browserReapPoll } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.code.ts"
 import { handleVersionUpdate } from "akasha/agent/seat/supervisor-restart/modules/on-change/supervisor-restart-on-change.module.code.ts"
 import {
   SUPERVISOR_RESTART_STATE,

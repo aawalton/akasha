@@ -30,7 +30,7 @@ export const seatSupervisor = {
     "domain/seat-work-restart",
     "domain/supervisor-stop",
     "domain/supervisor-timer",
-    "domain/supervisor-tooling",
+    "domain/seat-agent-mcp",
     "page-type/supervisor-action",
     "domain/seat-auto-compact",
   ],

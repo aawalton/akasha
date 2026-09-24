@@ -4,6 +4,7 @@ import type { SeatResume } from "akasha/agent/seat/supervisor/modules/supervisor
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import { setOAuthProxyHandle } from "akasha/agent/seat/supervisor/modules/supervisor-state/supervisor-state.module.code.ts"
 import type { AgentProcess } from "akasha/agent/seat/supervisor/modules/supervisor-types/supervisor-types.module.code.ts"
+import { resolveMcpConfig } from "akasha/agent/seat/supervisor/seat-agent-mcp/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 import type { CarriedAgentName } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-carry/supervisor-rebind-carry.module.code.ts"
 import type { ClearRebindDeps } from "akasha/agent/seat/supervisor/seat-agent-run/modules/supervisor-rebind-deps/supervisor-rebind-deps.module.code.ts"
 import type { spawnClaudeChild } from "akasha/agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"
@@ -29,7 +30,6 @@ import type {
   InteractiveSessionBoot,
 } from "akasha/agent/seat/supervisor/supervisor-start/modules/supervisor-interactive-boot-contract/supervisor-interactive-boot-contract.module.code.ts"
 import { armForceExitTimer } from "akasha/agent/seat/supervisor/supervisor-stop/modules/supervisor-lifecycle/supervisor-lifecycle.module.code.ts"
-import { resolveMcpConfig } from "akasha/agent/seat/supervisor/supervisor-tooling/modules/supervisor-mcp/supervisor-mcp.module.code.ts"
 import { isPendingReExec } from "akasha/agent/seat/supervisor-restart/modules/state/supervisor-restart-state.module.code.ts"
 
 export type SeatSpawnDecider = (

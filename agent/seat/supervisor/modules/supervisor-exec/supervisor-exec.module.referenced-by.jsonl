@@ -2,6 +2,6 @@
 {"propertySlug":"import","fileName":"supervisor-exec.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-exec.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-handoff-env/supervisor-handoff-env.module.test.ts"}
 {"propertySlug":"import","fileName":"supervisor-exec.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-reexec/supervisor-reexec.module.code.ts"}
+{"propertySlug":"import","fileName":"supervisor-exec.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/browser-reaping/browser-reaping.module.code.ts"}
 {"propertySlug":"import","fileName":"supervisor-exec.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-adopt/supervisor-adopt.module.code.ts"}
-{"propertySlug":"import","fileName":"supervisor-exec.module.code.ts","path":"agent/seat/supervisor/supervisor-tooling/modules/browser-reaping/browser-reaping.module.code.ts"}
 {"propertySlug":"parts","path":"agent/seat/supervisor/seat-supervisor.domain.ts","id":"01a08859-4c01-7bf5-9ebc-b39e6b3406fa"}
