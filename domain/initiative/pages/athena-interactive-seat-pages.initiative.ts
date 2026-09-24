@@ -7,10 +7,6 @@ export const athenaInteractiveSeatPages = {
   domain: "page-type/seat",
   persona: "persona/athena",
   intentStack: [
-    {
-      statement:
-        "Alan attaches an image to a message from a seat's page, from his photos or from the camera.",
-    },
     { statement: "A browser is pushed each change to a page or list it shows, and to no other." },
     {
       statement:
