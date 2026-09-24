@@ -8,6 +8,5 @@ export const theTowerAshling01 = {
   game: "game/the-tower",
   kind: "enemy",
   class: "Ember-thing",
-  typicalIntent: 2,
   note: "computed by engine: VIT8+MIGHT2 = 54 HP",
 } as const satisfies GameEntity

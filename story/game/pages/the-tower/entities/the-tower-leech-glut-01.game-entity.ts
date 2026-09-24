@@ -9,6 +9,5 @@ export const theTowerLeechGlut01 = {
   kind: "enemy",
   class: "Leech-swarm",
   dice: "game-mechanic/two-d-ten",
-  typicalIntent: 3,
   note: "computed by engine: VIT8(64)+MIGHT2(10) = 74 HP. Low effective threat IF stranded; lethal IF fought on its terms in the water.",
 } as const satisfies GameEntity
