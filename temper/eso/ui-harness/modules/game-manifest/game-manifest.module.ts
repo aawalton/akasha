@@ -18,6 +18,11 @@ export const gameManifest = {
       statement: "The manifests walked are those of the ingame program and what it depends on.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The ingame strings program is walked first, as the game's libraries depend on it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No file of the pregame or the internal program is listed here.",
     },

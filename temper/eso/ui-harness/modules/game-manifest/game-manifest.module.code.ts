@@ -3,6 +3,7 @@ import { join } from "node:path"
 import { esouiSourceDir } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 
 const INGAME_PROGRAM: readonly string[] = [
+  "ingamelocalization",
   "libraries",
   "common",
   "appandingame",
