@@ -132,18 +132,7 @@ export const codeEditor = {
       decisionKind: "decision-kind/departure",
       statement: "A terminal the seat menu opens does nothing but attach to a seat.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Changing where a seat runs leaves the agent in that seat untouched.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Running a seat interactively gives the seat a terminal Alan can watch.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Running a seat headless takes the seat's terminal away.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Stopping a seat ends the agent in the seat.",
@@ -209,7 +198,7 @@ export const codeEditor = {
       statement: "The item is offered on every initiative and refuses where the seat is away.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every act the seat menu names is offered in the seat menu.",
     },
   ],
