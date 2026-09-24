@@ -6,7 +6,7 @@ export const modelVersion = {
   slug: "model-version",
   definition: "one model of a family, run with one context window",
   extends: ["page-type/page"],
-  parts: ["text-property/model-id"],
+  parts: ["module/model-version-naming", "text-property/model-id"],
   properties: [
     { pageProperty: "text-property/model-id", required: true, many: false },
     { pageProperty: "relation-property/model-family", required: true, many: false },

@@ -171,6 +171,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/test/model-test.page-type.types.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/test/modules/running/model-test-running.module.ts"}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/model/version/modules/naming/model-version-naming.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/acting-agent/acting-agent.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/attributes/agent-attributes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/modules/io-probe/io-probe.module.ts"}

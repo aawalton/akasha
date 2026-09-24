@@ -200,6 +200,7 @@
 {"propertySlug":"decision-kind","path":"agent/model/test/properties/case-page.text-property.ts","id":"01a05f8d-eaa0-7000-8c49-cf81f87d38a4"}
 {"propertySlug":"decision-kind","path":"agent/model/test/properties/positives.file-property.ts","id":"01a09b6d-4cdf-710e-83a5-07fa06d93f60"}
 {"propertySlug":"decision-kind","path":"agent/model/version/model-version.page-type.ts","id":"01a0d4b7-ebed-7a27-8b91-440087702aa8"}
+{"propertySlug":"decision-kind","path":"agent/model/version/modules/naming/model-version-naming.module.ts","id":"01a0d4b9-5e46-7619-a287-8ee15cf54a61"}
 {"propertySlug":"decision-kind","path":"agent/model/version/properties/model-id.text-property.ts","id":"01a0d4b7-a4c5-7084-a641-ef2f0894a8b9"}
 {"propertySlug":"decision-kind","path":"agent/modules/attributes/agent-attributes.module.ts","id":"01a06949-b281-754d-abc3-b81859567424"}
 {"propertySlug":"decision-kind","path":"agent/modules/last-said/last-said.module.ts","id":"01a090d4-50b9-79cc-b9d3-8a5af408eacc"}

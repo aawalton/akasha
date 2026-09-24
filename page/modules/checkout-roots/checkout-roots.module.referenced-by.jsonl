@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/gateway/modules/gateway-tree-version/gateway-tree-version.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/gateway/modules/provider-upstream/provider-upstream.module.test.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/provider/modules/reading/model-provider-reading.module.test.ts"}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/model/version/modules/naming/model-version-naming.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/declaration/modules/seat-args/seat-args.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/declaration/modules/seat-initiative/seat-initiative.module.code.ts"}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/declaration/modules/seat-role-on-call/seat-role-on-call.module.code.ts"}
