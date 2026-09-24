@@ -63,10 +63,6 @@ export function releasesOf(value: Value): readonly string[] {
   return slugsUnder(value[PART_OF], UNDER)
 }
 
-export function releaseOf(value: Value): string | null {
-  return releasesOf(value)[0] ?? null
-}
-
 export function carriedIdsIn(value: Value): readonly string[] {
   const held: string[] = []
   for (const one of recordsIn(value[CARRIED_BY])) {

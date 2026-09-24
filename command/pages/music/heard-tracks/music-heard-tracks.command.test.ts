@@ -4,7 +4,6 @@ import { sylviaDaley } from "akasha/alan/music/catalog/artist/pages/sylvia-daley
 import {
   heardBy,
   messageOf,
-  releaseOf,
   releasesOf,
   rowsOf,
   valuesHeard,
@@ -41,12 +40,12 @@ function spotifyId(said: string): { readonly carriedBy: readonly unknown[] } {
 }
 
 test("a track names the release carrying it", () => {
-  expect(releaseOf(ON_PIXIE)).toBe("sylvia-daley-pixie")
+  expect(releasesOf(ON_PIXIE)).toEqual(["sylvia-daley-pixie"])
 })
 
 test("a track carried by no release names none", () => {
-  expect(releaseOf({})).toBeNull()
-  expect(releaseOf({ partOfCollections: [ARTIST_AT] })).toBeNull()
+  expect(releasesOf({})).toEqual([])
+  expect(releasesOf({ partOfCollections: [ARTIST_AT] })).toEqual([])
 })
 
 test("a track names every release carrying it", () => {
