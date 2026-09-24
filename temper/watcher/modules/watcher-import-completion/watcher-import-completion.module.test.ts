@@ -136,7 +136,7 @@ function toldTheEnding(writes: readonly UpsertArgs[]): UpsertArgs[] {
 test("stored counts higher than the incoming ones reach the files unlowered", async () => {
   const it = seat(
     {
-      "temper-account": [{ id: "acc1", slug: "the-account", title: "user-1" }],
+      "temper-account": [{ id: "acc1", slug: "the-account", key: "user-1" }],
       "temper-account-character": [{ id: "ch1", slug: "vex", esoCharacterId: "111" }],
       "temper-companion-progress": [{ id: "co1", slug: "bastian", companionId: "bastian" }],
     },
@@ -158,7 +158,7 @@ test("no completion body reaches the set an upsert carries", async () => {
   const it = seat()
   await runImportCompletion(WITH_STORED, it.deps)
   expect(sets(it.writes)).toEqual([
-    '{"title":"user-1"}',
+    '{"key":"user-1"}',
     '{"completion":"json"}',
     '{"accountPage":"user-1","esoCharacterId":"111","title":"Vex","displayOrder":2}',
     '{"completion":"json"}',
@@ -205,8 +205,8 @@ test("account, then characters, then companions is the order the pages are read 
   expect(it.reads).toEqual([
     {
       pageTypeSlug: "temper-account",
-      where: [{ key: "title", eq: "user-1" }],
-      select: ["id", "slug", "title"],
+      where: [{ key: "key", eq: "user-1" }],
+      select: ["id", "slug"],
       limit: 1,
     },
     {
@@ -271,7 +271,7 @@ test("the caller may hand in what names the signed-in user", async () => {
     signedInUserId: async () => "user-2",
   })
   expect(outcome.accountPageId).toBe("page-temper-account")
-  expect(sets(it.writes)[0]).toBe('{"title":"user-2"}')
+  expect(sets(it.writes)[0]).toBe('{"key":"user-2"}')
 })
 
 test("every merge that held a field back names its subject in the outcome", async () => {

@@ -51,7 +51,7 @@ async function readSource(pageTypeSlug: string, userId: string): Promise<Watcher
 async function readAccountInventory(userId: string): Promise<WatcherSyncSourceCounts> {
   const held = await getPage({
     pageTypeSlug: "temper-account",
-    where: [{ key: "title", eq: userId }],
+    where: [{ key: "key", eq: userId }],
     select: ["updatedAt", "capturedAt"],
   })
   const contact = held?.updatedAt

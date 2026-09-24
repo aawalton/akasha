@@ -13,7 +13,7 @@ export const hooksInventory = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The account is the one whose page is titled with the signed-in user.",
+      statement: "The account is the one whose page is keyed with the signed-in user.",
     },
     {
       decisionKind: "decision-kind/departure",

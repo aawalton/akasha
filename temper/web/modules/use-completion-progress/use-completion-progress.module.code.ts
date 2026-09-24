@@ -34,7 +34,7 @@ const CHARACTER_TYPE = "temper-account-character"
 const COMPANION_TYPE = "temper-companion-progress"
 const ACCOUNT_TYPE = "temper-account"
 const OWNER_KEY = "accountPage"
-const ACCOUNT_OWNER_KEY = "title"
+const ACCOUNT_OWNER_KEY = "key"
 
 interface CompletionProgressData {
   accountProgress: AccountProgressData

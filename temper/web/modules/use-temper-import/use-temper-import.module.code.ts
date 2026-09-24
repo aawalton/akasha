@@ -115,9 +115,9 @@ export function useTemperImport() {
       }
 
       try {
-        const accountRows = await rowsWithCompletion("temper-account", { title: { is: userId } }, [
+        const accountRows = await rowsWithCompletion("temper-account", { key: { is: userId } }, [
           "slug",
-          "title",
+          "key",
         ])
         const characterRows = await rowsWithCompletion(
           "temper-account-character",
@@ -139,9 +139,9 @@ export function useTemperImport() {
         )
         await runUpsertRef.current({
           pageTypeSlug: "temper-account",
-          where: [{ key: "title", eq: userId }],
+          where: [{ key: "key", eq: userId }],
           set: {
-            title: userId,
+            key: userId,
             ...(mergedAccount === undefined ? {} : { completion: ENDING }),
           },
           ...(mergedAccount === undefined

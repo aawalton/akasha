@@ -76,7 +76,7 @@ export const PAGE_INVENTORY_ROWS: InventoryRowReader = {
   latestReading: async (userId) => {
     const { rows } = await getPages({
       pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
-      where: [{ key: "title", eq: userId }],
+      where: [{ key: "key", eq: userId }],
       select: ACCOUNT_KEYS,
       limit: 1,
     })

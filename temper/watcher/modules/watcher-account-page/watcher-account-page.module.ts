@@ -10,7 +10,7 @@ export const watcherAccountPage = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An account page is found by its title rather than by its id.",
+      statement: "An account page is found by its key rather than by its id.",
     },
     {
       decisionKind: "decision-kind/departure",

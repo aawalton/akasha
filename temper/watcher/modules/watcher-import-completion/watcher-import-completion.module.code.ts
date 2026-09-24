@@ -280,14 +280,14 @@ export async function runImportCompletion(
   report("--- Account ---")
   const accountRead = await read({
     pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
-    where: [{ key: "title", eq: userId }],
-    select: ["id", "slug", "title"],
+    where: [{ key: "key", eq: userId }],
+    select: ["id", "slug"],
     limit: 1,
   })
   const accountRow = await upsert({
     pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
-    where: [{ key: "title", eq: userId }],
-    set: { title: userId },
+    where: [{ key: "key", eq: userId }],
+    set: { key: userId },
     select: ["id", "slug"],
   })
   const accountPageId = accountRow.id

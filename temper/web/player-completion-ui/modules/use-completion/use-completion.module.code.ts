@@ -199,8 +199,7 @@ export function useAccountCompletionByUser(userId: string) {
 function useAccountCompletionByUserInternal(userId: string | null) {
   const { rows, isLoading, error } = usePages({
     pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
-    where:
-      userId != null ? [{ key: "title", eq: userId }] : [{ key: "title", eq: NEVER_MATCH_VALUE }],
+    where: userId != null ? [{ key: "key", eq: userId }] : [{ key: "key", eq: NEVER_MATCH_VALUE }],
     limit: 1,
   })
 

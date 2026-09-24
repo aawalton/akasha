@@ -231,8 +231,8 @@ test("the account page is upserted before any character page", async () => {
   expect(seen).toEqual([
     {
       pageTypeSlug: "temper-account",
-      where: [{ key: "title", eq: "@alan" }],
-      set: { title: "@alan" },
+      where: [{ key: "key", eq: "@alan" }],
+      set: { key: "@alan" },
       select: ["id"],
     },
     {

@@ -241,7 +241,7 @@ export async function runImportInventory(
 
   const accountAsked = await ask({
     pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
-    where: { title: { is: userId } },
+    where: { key: { is: userId } },
     limit: 1,
   })
   if ("refused" in accountAsked) {

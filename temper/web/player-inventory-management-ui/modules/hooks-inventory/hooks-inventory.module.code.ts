@@ -30,7 +30,7 @@ const NOTHING_LANDED: Held = { inventory: null, capturedAt: null, isRead: true, 
 async function readingOf(userId: string): Promise<Held> {
   const asked = await askComposed({
     "page-type": ACCOUNT_PAGE_TYPE_SLUG,
-    where: { title: { is: userId } },
+    where: { key: { is: userId } },
     keys: ["slug", CAPTURED_AT, DATA],
     files: [DATA],
   })

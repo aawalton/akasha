@@ -14,14 +14,14 @@ function answering(id: unknown): { upsert: AccountPageUpsert; seen: unknown[] } 
   return { upsert, seen }
 }
 
-test("an account page is found by its title and made where absent", async () => {
+test("an account page is found by its key and made where absent", async () => {
   const { upsert, seen } = answering("page-1")
   expect(await resolveAccountPageId("@alan", upsert)).toBe("page-1")
   expect(seen).toEqual([
     {
       pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
-      where: [{ key: "title", eq: "@alan" }],
-      set: { title: "@alan" },
+      where: [{ key: "key", eq: "@alan" }],
+      set: { key: "@alan" },
       select: ["id"],
     },
   ])

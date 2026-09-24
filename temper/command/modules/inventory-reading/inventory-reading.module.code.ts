@@ -10,7 +10,7 @@ import { z } from "zod"
 
 const ACCOUNT_PAGE_TYPE = "temper-account"
 
-const ACCOUNT_KEYS = ["slug", "id", "title", "captured-at", "total-value"]
+const ACCOUNT_KEYS = ["slug", "id", "key", "captured-at", "total-value"]
 
 const INVENTORY_HEADER_SHAPE = z
   .object({
@@ -26,7 +26,7 @@ export type InventoryHeader = z.infer<typeof INVENTORY_HEADER_SHAPE>
 export async function accountInventory(accountUserId: string): Promise<InventoryHeader | null> {
   const asked = await askComposed({
     "page-type": ACCOUNT_PAGE_TYPE,
-    where: { title: { is: accountUserId } },
+    where: { key: { is: accountUserId } },
     keys: ACCOUNT_KEYS,
     limit: 1,
   })
