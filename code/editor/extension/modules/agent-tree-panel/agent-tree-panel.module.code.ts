@@ -5,7 +5,6 @@ import {
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import { countRows } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { openAgentPage } from "akasha/code/editor/extension/modules/agent-page-opening/agent-page-opening.module.code.ts"
-import type { AgentNode } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
 import {
   createAgentDecorationProvider,
   createAgentTree,
@@ -69,29 +68,13 @@ type Drawing = {
   readonly trigger: string
 }
 
-function asNode(row: AgentTreeRow): AgentNode {
-  return {
-    id: row.key,
-    name: row.label,
-    kind: row.kind,
-    place: row.place ?? undefined,
-    live: row.live,
-    state: row.state ?? undefined,
-    waitingOn: row.waitingOn ?? undefined,
-    color: row.color ?? undefined,
-    at: row.at ?? undefined,
-    stopped: row.stopped,
-    children: row.children.map(asNode),
-  }
-}
-
 export async function activate(context: vscode.ExtensionContext): Promise<undefined> {
   setOutput(vscode.window.createOutputChannel("Ops: Agent Tree"))
   context.subscriptions.push(output)
   setColumns(createColumnMemory(context.globalState))
 
   const tree = createAgentTree()
-  const view = vscode.window.createTreeView<AgentNode>(VIEW_ID, {
+  const view = vscode.window.createTreeView<AgentTreeRow>(VIEW_ID, {
     treeDataProvider: tree.provider,
     showCollapseAll: true,
     showExpandAll: true,
@@ -131,7 +114,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     const ids = tabInstanceIds()
     const seats = seatsByName(forest)
     const tabs: SeatTabState[] = []
-    const behind = new Map<number, AgentNode>()
+    const behind = new Map<number, AgentTreeRow>()
     for (const { name, terminal } of seatTerminals) {
       const instanceId = ids.get(terminal)
       if (instanceId === undefined) {
@@ -141,7 +124,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
       if (seat === undefined) {
         continue
       }
-      tabs.push({ instanceId, live: seat.live, place: seat.place })
+      tabs.push({ instanceId, live: seat.live, place: seat.place ?? undefined })
       behind.set(instanceId, seat)
     }
     setSeatTabs(behind)
@@ -155,7 +138,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
 
   const drawOnce = async (held: AgentTreeState, trigger: string): Promise<undefined> => {
     try {
-      const roots = held.roots.map(asNode)
+      const roots = held.roots
       setForest(roots)
       tree.replace(roots)
       running = held.runningCount

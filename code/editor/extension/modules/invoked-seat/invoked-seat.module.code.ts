@@ -1,11 +1,12 @@
-import type {
-  AgentNode,
-  SeatClick,
-} from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
+import type { SeatClick } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
 import { seatTabs } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
-import { SEAT_MODE_SCHEMA } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
+import {
+  SEAT_MODE_SCHEMA,
+  type SeatMode,
+} from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 import * as vscode from "vscode"
 import { z } from "zod"
+import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 const SEAT_CLICK_SCHEMA = z.looseObject({ id: z.string().min(1), name: z.string().min(1) })
 
@@ -14,24 +15,38 @@ export function parseSeatClick(clicked: unknown): SeatClick | undefined {
   return parsed.success ? { id: parsed.data.id, name: parsed.data.name } : undefined
 }
 
-const TOGGLE_TARGET_SCHEMA = z.object({
-  id: z.string().min(1),
-  name: z.string(),
+const SEAT_ROW_SCHEMA = z.looseObject({
+  key: z.string().min(1),
+  label: z.string(),
   kind: z.literal("seat"),
   live: z.boolean(),
   place: SEAT_MODE_SCHEMA,
 })
 
-export type ToggleTarget = z.infer<typeof TOGGLE_TARGET_SCHEMA>
+export interface ToggleTarget {
+  readonly id: string
+  readonly name: string
+  readonly kind: "seat"
+  readonly live: boolean
+  readonly place: SeatMode
+}
 
 function asToggleTarget(value: unknown): ToggleTarget | undefined {
-  const parsed = TOGGLE_TARGET_SCHEMA.safeParse(value)
-  return parsed.success ? parsed.data : undefined
+  const parsed = SEAT_ROW_SCHEMA.safeParse(value)
+  return parsed.success
+    ? {
+        id: parsed.data.key,
+        name: parsed.data.label,
+        kind: parsed.data.kind,
+        live: parsed.data.live,
+        place: parsed.data.place,
+      }
+    : undefined
 }
 
 const TERMINAL_SCHEME = "vscode-terminal"
 
-function seatForTab(value: unknown): AgentNode | undefined {
+function seatForTab(value: unknown): AgentTreeRow | undefined {
   if (!(value instanceof vscode.Uri) || value.scheme !== TERMINAL_SCHEME) {
     return undefined
   }

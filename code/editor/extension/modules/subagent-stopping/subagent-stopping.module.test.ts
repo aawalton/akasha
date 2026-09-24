@@ -14,7 +14,13 @@ const { confirmSubagentStop, invokedSubagent, pageNameOf, stopCall, subagentCont
 
 const AT = "/repo/agent/subagent/pages/amy-a70d67f8ee96115ae/amy-a70d67f8ee96115ae.subagent.ts"
 
-const ROW = { id: "a70d67f8ee96115ae", name: "general-purpose", kind: "subagent", at: AT }
+const ROW = {
+  key: "a70d67f8ee96115ae",
+  label: "general-purpose",
+  kind: "subagent",
+  at: AT,
+  stopped: false,
+}
 
 test("a running subagent's context value says so", () => {
   expect(subagentContextValue(false)).toBe("subagent.running")
@@ -33,7 +39,9 @@ test("a seat row is no target", () => {
 })
 
 test("the top row is no target", () => {
-  expect(invokedSubagent({ id: "root", name: "agents", kind: "root" })).toBeUndefined()
+  expect(
+    invokedSubagent({ key: "root", label: "agents", kind: "root", at: null, stopped: false })
+  ).toBeUndefined()
 })
 
 test("the page name is read off the page the row names", () => {
@@ -42,7 +50,7 @@ test("the page name is read off the page the row names", () => {
 })
 
 test("a row naming no page names no page name", () => {
-  const target = invokedSubagent({ ...ROW, at: undefined })
+  const target = invokedSubagent({ ...ROW, at: null })
   expect(target === undefined ? "no target" : pageNameOf(target)).toBeUndefined()
 })
 

@@ -1,6 +1,6 @@
 import { expect, mock, test } from "bun:test"
-import type { AgentNode } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
 import type * as vscode from "vscode"
+import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 type Held = Record<string, unknown>
 
@@ -57,17 +57,22 @@ const NEVER_CANCELLED: vscode.CancellationToken = {
   onCancellationRequested: () => ({ dispose: () => undefined }),
 }
 
-const seat = (over: Partial<AgentNode>): AgentNode => ({
-  id: "s1",
-  name: "nimue",
+const seat = (over: Partial<AgentTreeRow>): AgentTreeRow => ({
+  key: "s1",
+  label: "nimue",
+  at: null,
+  color: null,
   kind: "seat",
-  place: "interactive",
   live: true,
+  stopped: false,
+  place: "interactive",
+  state: null,
+  waitingOn: null,
   children: [],
   ...over,
 })
 
-async function decorationOf(node: AgentNode): Promise<{
+async function decorationOf(node: AgentTreeRow): Promise<{
   readonly path: string
   readonly said: string | undefined
   readonly color: string | undefined
@@ -77,10 +82,10 @@ async function decorationOf(node: AgentNode): Promise<{
   const item = await tree.provider.getTreeItem(node)
   tree.dispose()
   const uri = item.resourceUri
-  if (uri === undefined) throw new Error(`${node.name} took no resource uri`)
+  if (uri === undefined) throw new Error(`${node.label} took no resource uri`)
   expect(uri.scheme).toBe(AGENT_SCHEME)
   const drawn = await createAgentDecorationProvider().provideFileDecoration(uri, NEVER_CANCELLED)
-  if (drawn === undefined || drawn === null) throw new Error(`${node.name} took no decoration`)
+  if (drawn === undefined || drawn === null) throw new Error(`${node.label} took no decoration`)
   return { path: uri.path, said: drawn.tooltip, color: drawn.color?.id }
 }
 
@@ -110,7 +115,7 @@ test("a running seat's row is drawn in the color its turn state names and says n
 
 test("a subagent's row is drawn in its color and says it is a subagent", async () => {
   expect(
-    await decorationOf(seat({ id: "t1", name: "writing", kind: "subagent", color: "blue" }))
+    await decorationOf(seat({ key: "t1", label: "writing", kind: "subagent", color: "blue" }))
   ).toEqual({
     path: "/subagent/blue/t1",
     said: "Subagent",

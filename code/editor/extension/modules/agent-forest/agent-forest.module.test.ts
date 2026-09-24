@@ -23,8 +23,8 @@ describe("the seats a forest hangs together", () => {
       NO_SUBAGENTS,
       NO_PLACES
     )
-    expect(roots.map((r) => r.name)).toEqual(["parent"])
-    expect(roots[0]?.children.map((c) => c.name)).toEqual(["child"])
+    expect(roots.map((r) => r.label)).toEqual(["parent"])
+    expect(roots[0]?.children.map((c) => c.label)).toEqual(["child"])
   })
 
   test("a seat answering to Alan is a root however it names its parent", () => {
@@ -34,17 +34,17 @@ describe("the seats a forest hangs together", () => {
       NO_SUBAGENTS,
       NO_PLACES
     )
-    expect(roots.map((r) => r.name)).toEqual(["child", "parent"])
+    expect(roots.map((r) => r.label)).toEqual(["child", "parent"])
   })
 
   test("a seat naming a parent no row answers to is a root", () => {
     const roots = assembleForest([row("c", "child", "gone")], live("c"), NO_SUBAGENTS, NO_PLACES)
-    expect(roots.map((r) => r.name)).toEqual(["child"])
+    expect(roots.map((r) => r.label)).toEqual(["child"])
   })
 
   test("a seat naming itself as its parent is a root rather than its own child", () => {
     const roots = assembleForest([row("c", "child", "c")], live("c"), NO_SUBAGENTS, NO_PLACES)
-    expect(roots.map((r) => r.name)).toEqual(["child"])
+    expect(roots.map((r) => r.label)).toEqual(["child"])
     expect(roots[0]?.children).toEqual([])
   })
 
@@ -65,14 +65,14 @@ describe("the seats a forest hangs together", () => {
       NO_SUBAGENTS,
       NO_PLACES
     )
-    expect(roots.map((r) => r.name)).toEqual(["parent"])
+    expect(roots.map((r) => r.label)).toEqual(["parent"])
     expect(roots[0]?.live).toBe(false)
     expect(roots[0]?.children.map((c) => c.live)).toEqual([true])
   })
 
   test("a seat naming no name is drawn under its id", () => {
     const roots = assembleForest([row("s1", null, null)], live("s1"), NO_SUBAGENTS, NO_PLACES)
-    expect(roots[0]?.name).toBe("s1")
+    expect(roots[0]?.label).toBe("s1")
   })
 
   test("a seat whose place no row states is headless", () => {
@@ -103,7 +103,7 @@ describe("the subagents a seat carries", () => {
     const roots = withSubagent("ag1", new Map([[subagentKey("ember", "ag1"), "/repo/at.ts"]]))
     const drawn = roots[0]?.children[0]
     expect(drawn?.kind).toBe("subagent")
-    expect(drawn?.name).toBe("writing")
+    expect(drawn?.label).toBe("writing")
     expect(drawn?.live).toBe(true)
     expect(drawn?.state).toBe("working")
     expect(drawn?.color).toBe("ops.color.blue")
@@ -112,12 +112,12 @@ describe("the subagents a seat carries", () => {
 
   test("a subagent naming no id it runs under names no page", () => {
     const roots = withSubagent(null, new Map([[subagentKey("ember", "ag1"), "/repo/at.ts"]]))
-    expect(roots[0]?.children[0]?.at).toBeUndefined()
+    expect(roots[0]?.children[0]?.at).toBeNull()
   })
 
   test("a subagent akasha holds no page for names none", () => {
     const roots = withSubagent("ag2", new Map([[subagentKey("ember", "ag1"), "/repo/at.ts"]]))
-    expect(roots[0]?.children[0]?.at).toBeUndefined()
+    expect(roots[0]?.children[0]?.at).toBeNull()
   })
 
   test("the subagents come after the seats under one parent", () => {
@@ -127,7 +127,7 @@ describe("the subagents a seat carries", () => {
       new Map([["p", [subagent("t1", "aaa", [], null)]]]),
       NO_PLACES
     )
-    expect(roots[0]?.children.map((c) => c.name)).toEqual(["zeta", "aaa"])
+    expect(roots[0]?.children.map((c) => c.label)).toEqual(["zeta", "aaa"])
   })
 })
 
@@ -153,7 +153,7 @@ describe("what a joined answer and a drawn forest are counted as", () => {
       undefined,
       null
     )
-    expect(roots[0]?.at).toBeUndefined()
+    expect(roots[0]?.at).toBeNull()
   })
 
   test("the rows and the running ones are counted apart", () => {

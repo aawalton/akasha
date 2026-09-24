@@ -886,7 +886,6 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/activation/activation.module.ts","id":"01a064e4-627c-7eb1-ba44-da0dfc4df542"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-forest/agent-forest.module.ts","id":"01a0686b-bfe9-798c-9d61-ea31258cd97c"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-page-opening/agent-page-opening.module.ts","id":"01a0686b-bfe9-782e-86e6-c23e6ef21f33"}
-{"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-row/agent-row.module.ts","id":"01a0686b-bfe9-7005-a82e-21c216ec82ea"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-tree-drawing/agent-tree-drawing.module.ts","id":"01a0686b-bfe9-706d-8295-b8bf933d18de"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-tree-ids/agent-tree-ids.module.ts","id":"01a064d3-f9f8-7c48-8cd9-1747ef827506"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.ts","id":"01a0686b-bfe9-784a-84aa-10a105843c4e"}

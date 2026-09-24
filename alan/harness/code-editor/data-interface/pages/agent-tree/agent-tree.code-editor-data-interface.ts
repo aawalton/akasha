@@ -7,4 +7,14 @@ export const agentTree = {
   definition: "the rows the agents panel draws",
   d: "ts",
   cooldownMilliseconds: 1000,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row is the top row, a seat, or a subagent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row's children are rows of any kind.",
+    },
+  ],
 } as const satisfies CodeEditorDataInterface

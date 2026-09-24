@@ -31,7 +31,7 @@ export const agentTreePanel = {
 
     {
       decisionKind: "decision-kind/departure",
-      statement: "A row is spelled for the panel from the row the file has.",
+      statement: "A row is drawn as the file has that row rather than spelled again.",
     },
     {
       decisionKind: "decision-kind/departure",

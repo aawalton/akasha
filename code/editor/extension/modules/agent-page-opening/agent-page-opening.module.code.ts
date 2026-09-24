@@ -5,7 +5,7 @@ import { z } from "zod"
 const OPEN_COMMAND = "vscode.open"
 
 const PAGE_ROW_SCHEMA = z.looseObject({
-  name: z.string().min(1),
+  label: z.string().min(1),
   at: z.string().min(1),
 })
 
@@ -16,7 +16,7 @@ export interface PageRow {
 
 function pageRowIn(invoked: unknown): PageRow | undefined {
   const parsed = PAGE_ROW_SCHEMA.safeParse(invoked)
-  return parsed.success ? { name: parsed.data.name, at: parsed.data.at } : undefined
+  return parsed.success ? { name: parsed.data.label, at: parsed.data.at } : undefined
 }
 
 export async function openAgentPage(invoked: unknown): Promise<undefined> {

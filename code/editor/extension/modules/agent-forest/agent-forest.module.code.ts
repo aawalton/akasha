@@ -1,7 +1,7 @@
 import * as path from "node:path"
-import type { AgentNode } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
 import type { SeatMode } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 export const ALAN = "alan"
 
@@ -29,7 +29,7 @@ export function subagentKey(seatName: string, own: string): string {
   return `${seatName}${APART}${own}`
 }
 
-export function countRunning(nodes: readonly AgentNode[]): number {
+export function countRunning(nodes: readonly AgentTreeRow[]): number {
   let total = 0
   for (const node of nodes) {
     if (node.live) {
@@ -40,7 +40,7 @@ export function countRunning(nodes: readonly AgentNode[]): number {
   return total
 }
 
-export function countRows(nodes: readonly AgentNode[]): number {
+export function countRows(nodes: readonly AgentTreeRow[]): number {
   let total = 0
   for (const node of nodes) {
     total += 1 + countRows(node.children)
@@ -50,31 +50,33 @@ export function countRows(nodes: readonly AgentNode[]): number {
 
 const NO_PAGES: AgentPages = { bySubagent: new Map() }
 
-function holdsSomethingRunning(node: AgentNode): boolean {
+function holdsSomethingRunning(node: AgentTreeRow): boolean {
   return node.live || node.children.some(holdsSomethingRunning)
 }
 
-function sortByName(nodes: readonly AgentNode[]): readonly AgentNode[] {
-  return [...nodes].sort((a, b) => a.name.localeCompare(b.name))
+function sortByName(nodes: readonly AgentTreeRow[]): readonly AgentTreeRow[] {
+  return [...nodes].sort((a, b) => a.label.localeCompare(b.label))
 }
 
-function toAgentNode(
+function subagentRow(
   node: SubagentNode,
   drawnWorking: string | undefined,
   seatName: string,
   pages: AgentPages
-): AgentNode {
+): AgentTreeRow {
   const key = node.agentId === null ? null : subagentKey(seatName, node.agentId)
   return {
-    id: node.key,
-    name: node.label,
+    key: node.key,
+    label: node.label,
+    at: key === null ? null : (pages.bySubagent.get(key) ?? null),
+    color: drawnWorking ?? null,
     kind: "subagent",
     live: true,
-    state: WORKING,
-    color: drawnWorking,
-    at: key === null ? undefined : pages.bySubagent.get(key),
     stopped: key !== null && pages.stopped?.has(key) === true,
-    children: node.children.map((child) => toAgentNode(child, drawnWorking, seatName, pages)),
+    place: null,
+    state: WORKING,
+    waitingOn: null,
+    children: node.children.map((child) => subagentRow(child, drawnWorking, seatName, pages)),
   }
 }
 
@@ -86,7 +88,7 @@ export function assembleForest(
   drawnWorking?: string,
   repo?: string | null,
   pages: AgentPages = NO_PAGES
-): readonly AgentNode[] {
+): readonly AgentTreeRow[] {
   const present = new Set(rows.map((r) => r.id))
   const childrenByParent = new Map<string, SeatRow[]>()
   const roots: SeatRow[] = []
@@ -104,7 +106,7 @@ export function assembleForest(
     }
   }
 
-  const build = (row: SeatRow, visited: ReadonlySet<string>): AgentNode => {
+  const build = (row: SeatRow, visited: ReadonlySet<string>): AgentTreeRow => {
     const seen = new Set(visited).add(row.id)
     const seats = (childrenByParent.get(row.id) ?? [])
       .filter((c) => !seen.has(c.id))
@@ -112,21 +114,19 @@ export function assembleForest(
       .filter(holdsSomethingRunning)
     const name = row.name ?? row.id
     const subagents = (subagentsBySeat.get(row.id) ?? []).map((one) =>
-      toAgentNode(one, drawnWorking, name, pages)
+      subagentRow(one, drawnWorking, name, pages)
     )
     return {
-      id: row.id,
-      name,
+      key: row.id,
+      label: name,
+      at: row.at === null || repo === null || repo === undefined ? null : path.join(repo, row.at),
+      color: row.color,
       kind: "seat",
       live: liveIds.has(row.id),
+      stopped: false,
       place: places.get(row.id) ?? "headless",
-      state: row.state ?? undefined,
-      waitingOn: row.waitingOn ?? undefined,
-      color: row.color ?? undefined,
-      at:
-        row.at === null || repo === null || repo === undefined
-          ? undefined
-          : path.join(repo, row.at),
+      state: row.state,
+      waitingOn: row.waitingOn,
       children: [...sortByName(seats), ...subagents],
     }
   }

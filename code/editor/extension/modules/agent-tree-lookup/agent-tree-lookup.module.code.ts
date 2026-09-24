@@ -1,8 +1,8 @@
-import type { AgentNode } from "akasha/code/editor/extension/modules/agent-row/agent-row.module.code.ts"
 import {
   SEAT_MODE_SCHEMA,
   type SeatMode,
 } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
+import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 export function readSeatPlaces(rows: readonly HarnessRow[]): ReadonlyMap<string, SeatMode> {
   const places = new Map<string, SeatMode>()
@@ -13,12 +13,12 @@ export function readSeatPlaces(rows: readonly HarnessRow[]): ReadonlyMap<string,
   return places
 }
 
-export function seatsByName(roots: readonly AgentNode[]): ReadonlyMap<string, AgentNode> {
-  const found = new Map<string, AgentNode>()
-  const walk = (nodes: readonly AgentNode[]): undefined => {
+export function seatsByName(roots: readonly AgentTreeRow[]): ReadonlyMap<string, AgentTreeRow> {
+  const found = new Map<string, AgentTreeRow>()
+  const walk = (nodes: readonly AgentTreeRow[]): undefined => {
     for (const node of nodes) {
       if (node.kind === "seat") {
-        found.set(node.name, node)
+        found.set(node.label, node)
       }
       walk(node.children)
     }
@@ -28,14 +28,14 @@ export function seatsByName(roots: readonly AgentNode[]): ReadonlyMap<string, Ag
   return found
 }
 
-export function ancestorNames(roots: readonly AgentNode[], id: string): readonly string[] {
+export function ancestorNames(roots: readonly AgentTreeRow[], id: string): readonly string[] {
   const found: string[] = []
-  const walk = (node: AgentNode, trail: readonly string[]): boolean => {
-    if (node.id === id) {
+  const walk = (node: AgentTreeRow, trail: readonly string[]): boolean => {
+    if (node.key === id) {
       found.push(...trail)
       return true
     }
-    const below = [node.name, ...trail]
+    const below = [node.label, ...trail]
     for (const child of node.children) {
       if (walk(child, below)) {
         return true

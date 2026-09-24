@@ -57,36 +57,6 @@ export function workTreeLine(root: string): string {
   return JSON.stringify({ roots } satisfies WorkTreeState)
 }
 
-type AgentNodeIn = {
-  readonly id: string
-  readonly name: string
-  readonly kind: string
-  readonly place?: string
-  readonly live: boolean
-  readonly state?: string
-  readonly waitingOn?: string
-  readonly color?: string
-  readonly at?: string
-  readonly stopped?: boolean
-  readonly children: readonly AgentNodeIn[]
-}
-
-function agentRow(node: AgentNodeIn): AgentTreeRow {
-  return {
-    key: node.id,
-    label: node.name,
-    at: node.at ?? null,
-    color: node.color ?? null,
-    kind: node.kind === "subagent" ? "subagent" : "seat",
-    live: node.live,
-    stopped: node.stopped === true,
-    place: node.place === "interactive" || node.place === "headless" ? node.place : null,
-    state: node.state ?? null,
-    waitingOn: node.waitingOn ?? null,
-    children: node.children.map(agentRow),
-  }
-}
-
 function subagentsBySeat(
   pages: readonly SubagentPage[],
   rows: readonly ForestSeat[]
@@ -140,7 +110,7 @@ export function agentTreeLine(root: string): string {
       place: null,
       state: null,
       waitingOn: null,
-      children: under.map((node) => agentRow(node as AgentNodeIn)),
+      children: under,
     },
   ]
   return JSON.stringify({

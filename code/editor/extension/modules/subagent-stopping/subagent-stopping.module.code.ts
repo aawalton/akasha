@@ -21,23 +21,35 @@ export function subagentContextValue(stopped: boolean): string {
   return `${SUBAGENT}.${stopped ? "stopped" : "running"}`
 }
 
-const TARGET_SCHEMA = z.object({
-  id: z.string().min(1),
-  name: z.string().min(1),
+const SUBAGENT_ROW_SCHEMA = z.looseObject({
+  key: z.string().min(1),
+  label: z.string().min(1),
   kind: z.literal(SUBAGENT),
-  at: z.string().min(1).optional(),
-  stopped: z.boolean().optional(),
+  at: z.string().min(1).nullable(),
+  stopped: z.boolean(),
 })
 
-export type SubagentTarget = z.infer<typeof TARGET_SCHEMA>
+export interface SubagentTarget {
+  readonly id: string
+  readonly name: string
+  readonly at: string | null
+  readonly stopped: boolean
+}
 
 export function invokedSubagent(value: unknown): SubagentTarget | undefined {
-  const parsed = TARGET_SCHEMA.safeParse(value)
-  return parsed.success ? parsed.data : undefined
+  const parsed = SUBAGENT_ROW_SCHEMA.safeParse(value)
+  return parsed.success
+    ? {
+        id: parsed.data.key,
+        name: parsed.data.label,
+        at: parsed.data.at,
+        stopped: parsed.data.stopped,
+      }
+    : undefined
 }
 
 export function pageNameOf(target: SubagentTarget): string | undefined {
-  if (target.at === undefined) return undefined
+  if (target.at === null) return undefined
   const parted = partedIn(target.at)
   return parted !== null && parted.pageType === SUBAGENT ? parted.slug : undefined
 }
