@@ -10,7 +10,6 @@ export const temperCompanionTrait = {
     "page-type/temper-companion-trait-grade",
     "boolean-property/is-reduction",
     "relation-property/companion-metric",
-    "text-property/metric-id",
     "text-property/trait-effect-type",
   ],
   properties: [

@@ -8,7 +8,7 @@ export const effectFormula = {
   definition: "how an effect works out the number it has",
   properties: [
     { pageProperty: "text-property/formula-kind", required: false, many: false },
-    { pageProperty: "text-property/metric-id", required: false, many: false },
+    { pageProperty: "relation-property/companion-metric", required: false, many: false },
     { pageProperty: "number-property/coefficient", required: false, many: false },
     { pageProperty: "text-property/coefficient-type", required: false, many: false },
     { pageProperty: "number-property/formula-percent", required: false, many: false },

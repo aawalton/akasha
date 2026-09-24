@@ -25,5 +25,9 @@ export const companionSkillReading = {
       statement:
         "An effect names its metric by the slug of the metric's page rather than its address.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An effect's formula names its metric the same way.",
+    },
   ],
 } as const satisfies Module

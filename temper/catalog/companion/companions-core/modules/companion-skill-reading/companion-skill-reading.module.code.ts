@@ -21,6 +21,8 @@ function rowIn(said: unknown): unknown {
   if (typeof named === "string") held.effect = slugOf(named)
   const metric = held.metricId
   if (typeof metric === "string") held.metricId = slugOf(metric)
+  const formula = held.formula
+  if (formula !== null && typeof formula === "object") held.formula = rowIn(formula)
   return held
 }
 
