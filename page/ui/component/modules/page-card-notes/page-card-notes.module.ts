@@ -6,4 +6,11 @@ export const pageCardNotes = {
   slug: "page-card-notes",
   definition: "the notes a page card shows, edited in the card itself",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A card's notes are the value its listing row holds rather than a page read again.",
+    },
+  ],
 } as const satisfies Module

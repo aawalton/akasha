@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/cache/modules/use-core-definitions-ready/use-core-definitions-ready.module.code.ts"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"}
-{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/supabase/modules/use-page/use-page.module.code.ts"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/supabase/mutation/modules/apply-prediction/apply-prediction.module.code.ts"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx"}

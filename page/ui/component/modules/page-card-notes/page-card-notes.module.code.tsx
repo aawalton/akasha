@@ -6,7 +6,6 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { BlockEditor } from "akasha/page/ui/block-editor/modules/block-editor/block-editor.module.code.tsx"
 import { MarkdownPropertyBadge } from "akasha/page/ui/component/modules/markdown-property-badge/markdown-property-badge.module.code.tsx"
-import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
 interface PageCardNotesProps {
@@ -25,10 +24,7 @@ export function PageCardNotes({
   onNotesChange,
 }: PageCardNotesProps) {
   const surface = useSurface()
-  const isContent = property.storage === "content"
-  const { page } = usePage({ pageTypeSlug, id: pageId, includeContentOnDemand: isContent })
-  const fetched = page?.properties[property.id]
-  const value = fetched !== undefined ? fetched : lightValue
+  const value = lightValue
   return (
     <div
       className={cn(

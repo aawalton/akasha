@@ -9,7 +9,6 @@ export const pageUiSupabase = {
     "domain/page-ui-supabase-mutation",
     "module/apply-client-view-filters",
     "module/collect-related-ids",
-    "module/compose-content-tier-page",
     "module/group-by-hooks",
     "module/hooks",
     "module/hooks-view-query",

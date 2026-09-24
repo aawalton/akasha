@@ -1,158 +1,53 @@
 "use client"
 
-import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
-import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { useQuery } from "akasha/page/ui/cache/modules/use-query/use-query.module.code.ts"
-import { composeContentTierPage } from "akasha/page/ui/supabase/modules/compose-content-tier-page/compose-content-tier-page.module.code.ts"
+import {
+  useAcquireFilteredStream,
+  usePipelineLive,
+} from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
 import {
   type PageWithProperties,
   toPageWithProperties,
 } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
-import type { PageWatch } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
-import { FILE_BACKING_POLL_MS } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
+import { namedShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import {
-  getContentPersistence,
-  getPagesStore,
-} from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
+  createRegularPipeline,
+  type RegularResult,
+} from "akasha/page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"
+import type { UsePagesOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { useEffect, useMemo, useRef, useState } from "react"
-import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+import { useMemo } from "react"
 
 export function usePage({
   pageTypeSlug,
   id,
-  includeContentOnDemand = false,
-  largeKeys,
 }: {
   pageTypeSlug: PageTypeSlug
   id: string | undefined
-  includeContentOnDemand?: boolean
-  largeKeys?: readonly string[]
 }): {
   page: PageWithProperties | null
   isLoading: boolean
 } {
-  const where = useMemo<PageWhere>(() => [{ key: "id", eq: id ?? NEVER_MATCH_VALUE }], [id])
-  const result = useQuery({ pageTypeSlug, where, limit: 1 })
-  const mirrorRow = result.rows[0] ?? null
-  const onDemandResult = useOnDemandPageById({
-    pageTypeSlug,
-    id,
-    enabled: includeContentOnDemand,
-    includeContent: includeContentOnDemand,
-    convergenceSignal: useConvergenceSignal(includeContentOnDemand, pageTypeSlug, id),
-    largeKeys,
-  })
-  const mirrorPage = mirrorRow !== null ? toPageWithProperties(mirrorRow) : null
-
-  if (includeContentOnDemand) {
-    const page = composeContentTierPage(onDemandResult.page, mirrorPage)
-    const isLoading =
-      id != null && (onDemandResult.isLoading || (page === null && result.isLoading))
-    return { page, isLoading }
-  }
-
-  const isLoading = id != null && result.isLoading
-  return { page: mirrorPage, isLoading }
-}
-
-function useConvergenceSignal(
-  enabled: boolean,
-  pageTypeSlug: PageTypeSlug,
-  id: string | undefined
-): string | undefined {
-  const [poll, setPoll] = useState(0)
-  useEffect(() => {
-    if (!enabled || id == null) return
-    let watch: PageWatch | null = null
-    let dropped = false
-    const again = (): undefined => {
-      setPoll((n) => n + 1)
-      return undefined
-    }
-    void getPagesStore().then((store) => {
-      if (!dropped) watch = store.watchPage(pageTypeSlug, id, again)
-    })
-    const timer = setInterval(() => {
-      if (watch?.live() !== true) again()
-    }, FILE_BACKING_POLL_MS)
-    return () => {
-      dropped = true
-      clearInterval(timer)
-      watch?.release()
-    }
-  }, [enabled, pageTypeSlug, id])
-  return `poll:${poll}`
-}
-
-function useOnDemandPageById({
-  pageTypeSlug,
-  id,
-  enabled,
-  includeContent,
-  convergenceSignal,
-  largeKeys,
-}: {
-  pageTypeSlug: PageTypeSlug
-  id: string | undefined
-  enabled: boolean
-  includeContent: boolean
-  convergenceSignal: string | undefined
-  largeKeys: readonly string[] | undefined
-}): { page: PageWithProperties | null; isLoading: boolean } {
-  const [page, setPage] = useState<PageWithProperties | null>(null)
-  const [isLoading, setIsLoading] = useState(false)
-  const reqRef = useRef(0)
-  const loadedIdRef = useRef<string | undefined>(undefined)
-  const named = useMemo(
-    () => (largeKeys === undefined || largeKeys.length === 0 ? undefined : ["id", ...largeKeys]),
-    [largeKeys]
+  const shape = useMemo(
+    () => (id == null ? undefined : namedShapeDescriptor(pageTypeSlug, { by: "id", values: [id] })),
+    [pageTypeSlug, id]
   )
-  useEffect(() => {
-    const reqId = ++reqRef.current
-    if (!enabled || id == null) {
-      loadedIdRef.current = undefined
-      setPage(null)
-      setIsLoading(false)
-      return
-    }
-    if (loadedIdRef.current !== id) setIsLoading(true)
-    const port = getContentPersistence()
-    void (async () => {
-      const args = {
-        pageTypeSlug,
-        where: [{ key: "id", eq: id }] satisfies PageWhere,
-        limit: 1,
-        includeContent,
-        ...(named === undefined ? {} : { select: named }),
-      }
-      if (port === null) {
-        const result = await getPages(args)
-        if (reqId !== reqRef.current) return
-        const first = result.rows[0]
-        setPage(first !== undefined ? toPageWithProperties(first) : null)
-        loadedIdRef.current = id
-        setIsLoading(false)
-        return
-      }
-      try {
-        const result = await getPages(args)
-        if (reqId !== reqRef.current) return
-        const first = result.rows[0]
-        if (first !== undefined) port.savePages([first])
-        setPage(first !== undefined ? toPageWithProperties(first) : null)
-        loadedIdRef.current = id
-        setIsLoading(false)
-      } catch {
-        const cached = await port.loadPages([id]).catch(() => [] as const)
-        if (reqId !== reqRef.current) return
-        const first = cached[0]
-        setPage(first !== undefined ? toPageWithProperties(first) : null)
-        loadedIdRef.current = id
-        setIsLoading(false)
-      }
-    })()
-  }, [pageTypeSlug, id, enabled, includeContent, convergenceSignal, named])
+  const acquire = useAcquireFilteredStream(shape)
+  const options = useMemo<UsePagesOptions>(
+    () => ({ pageTypeSlug, where: [{ key: "id", eq: id ?? NEVER_MATCH_VALUE }], limit: 1 }),
+    [pageTypeSlug, id]
+  )
+  const { snapshot } = usePipelineLive<RegularResult>(
+    (collection) => createRegularPipeline(collection, options),
+    JSON.stringify(options),
+    true
+  )
+  const row = snapshot?.rows[0]
+  const page = useMemo(
+    () => (row === undefined ? null : toPageWithProperties(flattenRow(row))),
+    [row]
+  )
+  const isLoading = id != null && page === null && (snapshot === null || !acquire.ready)
   return { page, isLoading }
 }

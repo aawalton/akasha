@@ -1,5 +1,3 @@
-import type { PageTypeDataJSON } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
-
 const NON_EMPTY_CONTENT_KEYS_ATTR = "nonEmptyContentKeys"
 
 export function pageHasNonEmptyContentKey(
@@ -8,11 +6,4 @@ export function pageHasNonEmptyContentKey(
 ): boolean {
   const raw = page[NON_EMPTY_CONTENT_KEYS_ATTR]
   return Array.isArray(raw) && raw.includes(key)
-}
-
-export function bodyPropertyIsContentTier(pageTypeData: PageTypeDataJSON): boolean {
-  const bodyPropertyId = pageTypeData.detailConfig?.bodyPropertyId
-  if (bodyPropertyId == null) return false
-  const def = pageTypeData.propertyDefinitions.find((d) => d.id === bodyPropertyId)
-  return def?.storage === "content"
 }

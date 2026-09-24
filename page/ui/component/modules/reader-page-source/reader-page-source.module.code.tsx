@@ -24,7 +24,6 @@ export interface ReaderPageSource {
   readonly useReaderPage: (args: {
     pageTypeSlug: PageTypeSlug
     id: string | undefined
-    includeContentOnDemand: boolean
   }) => ReturnType<typeof usePage>
   readonly useReaderUserId: () => ReturnType<typeof useUserId>
   readonly useReaderSetProperty: () => ReturnType<typeof useSetPropertyOptimistic>

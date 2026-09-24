@@ -3287,6 +3287,7 @@
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/create-override/create-override.module.ts","id":"01a0c539-b9c3-7a0e-a228-f58993cf903e"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/drawings-found/drawings-found.module.ts","id":"01a0a065-7b7d-75b8-95b0-3acd9a5dcade"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/page-badge/page-badge.module.ts","id":"01a0a0ee-a089-744e-97de-3252e3e662e7"}
+{"propertySlug":"decision-kind","path":"page/ui/component/modules/page-card-notes/page-card-notes.module.ts","id":"01a06257-46e6-787e-98f6-69ce573b0fa8"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/page-card/page-card.module.ts","id":"01a06257-46e9-7c06-a8f0-6a18df5082fb"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/page-collection-content/page-collection-content.module.ts","id":"01a0625a-e4aa-7edf-a962-1513ae4bfd35"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/page-cover/page-cover.module.ts","id":"01a0617e-0d2d-7009-84e0-cb261f506633"}

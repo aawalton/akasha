@@ -43,7 +43,6 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/modules/hooks/hooks.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/modules/use-page/use-page.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/modules/use-pages/use-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/modules/use-referrers/use-referrers.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/ui/supabase/modules/use-subpages/use-subpages.module.code.ts"}
