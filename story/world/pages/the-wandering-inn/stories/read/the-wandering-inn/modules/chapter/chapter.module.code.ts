@@ -1,3 +1,5 @@
+import { z } from "zod"
+
 export const STORY_SLUG = "the-wandering-inn"
 export const STORY_PAGE_TYPE = "story-read"
 export const CHAPTER_PAGE_TYPE = "story-chapter-read"
@@ -7,6 +9,7 @@ const POSITION_DIGITS = 4
 
 const TRAILING_NAV_RE = /\n[^\S\n]*(?:Previous Chapter(?:\s*Next Chapter)?|Next Chapter)\s*$/
 const DATED_URL_RE = /\/(\d{4})\/(\d{2})\/(\d{2})\//
+const DATED_SAID = z.tuple([z.string(), z.string(), z.string(), z.string()])
 const SITE_SUFFIX_RE = /\s*-\s*The Wandering Inn\s*$/
 const PATRON_TITLE_PREFIX = "Patron Early Access"
 
@@ -16,9 +19,9 @@ export function strippedOfTrailingNav(text: string): string {
 }
 
 export function publishedDayOf(url: string): string | null {
-  const dated = DATED_URL_RE.exec(url)
-  if (dated === null) return null
-  const [, year, month, day] = dated
+  const dated = DATED_SAID.safeParse(DATED_URL_RE.exec(url))
+  if (!dated.success) return null
+  const [, year, month, day] = dated.data
   const stated = `${year}-${month}-${day}`
   const instant = new Date(stated)
   if (Number.isNaN(instant.getTime())) return null

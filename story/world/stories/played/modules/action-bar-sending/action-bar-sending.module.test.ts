@@ -5,6 +5,9 @@ import {
   readPending,
   sendAction,
 } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
+import { z } from "zod"
+
+const ACTION_SENT = z.strictObject({ gameExternalId: z.string(), text: z.string() })
 
 type Asked = { readonly input: string; readonly init: RequestInit | undefined }
 
@@ -24,7 +27,7 @@ test("an action is posted to the action bar route as typed", async () => {
   expect(await sendAction(ACTION, fetching)).toEqual({ ok: true, id: "agent-message-1" })
   expect(asked[0]?.input).toBe(ACTION_BAR_AT)
   expect(asked[0]?.init?.method).toBe("POST")
-  expect(JSON.parse(String(asked[0]?.init?.body))).toEqual(ACTION)
+  expect(ACTION_SENT.parse(JSON.parse(String(asked[0]?.init?.body)))).toEqual(ACTION)
 })
 
 test("an answer saying the caller is not signed in reads as signed out", async () => {

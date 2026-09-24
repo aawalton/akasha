@@ -60,20 +60,17 @@ function bodyIn(values: Record<string, unknown>, key: string, ending: string): s
   return held === undefined || held === ending ? null : held
 }
 
-function jsonIn(body: string | null): unknown {
-  if (body === null) return null
-  try {
-    return JSON.parse(body)
-  } catch {
-    return null
-  }
-}
-
 function displayIn(
   body: string | null,
   gameEngine: string | undefined
 ): ResolvedGameDisplay | null {
-  const read = GameDisplayConfigSchema.safeParse(jsonIn(body))
+  if (body === null) return null
+  let read: ReturnType<typeof GameDisplayConfigSchema.safeParse>
+  try {
+    read = GameDisplayConfigSchema.safeParse(JSON.parse(body))
+  } catch {
+    return null
+  }
   return read.success ? resolveGameDisplay(read.data, gameEngine) : null
 }
 

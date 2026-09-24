@@ -20,6 +20,7 @@ import { theWanderingInn as wanderingInnRead } from "akasha/story/world/pages/th
 import { theWanderingInn as wanderingInnWorld } from "akasha/story/world/pages/the-wandering-inn/the-wandering-inn.world.ts"
 import { storyRead } from "akasha/story/world/stories/read/story-read.page-type.ts"
 import { world } from "akasha/story/world/world.page-type.ts"
+import { z } from "zod"
 
 const PAGE_TYPE = "page-type"
 const CHARACTER_PAGE_TYPE = "world-character"
@@ -86,6 +87,8 @@ function textOf(held: unknown): string | null {
 }
 
 type Said = Readonly<Record<string, unknown>>
+
+const READING_FILE = z.record(z.string(), z.unknown())
 
 function saidAt(held: unknown): Said | null {
   if (held === null || typeof held !== "object" || Array.isArray(held)) return null
@@ -181,7 +184,12 @@ function readingsUnder(dir: string, chapters: ReadonlyMap<string, Chapter>): Rea
     .filter((name) => name.endsWith(JSON_ENDING) && NUMBERED.test(name))
     .sort((one, two) => Number.parseInt(one, 10) - Number.parseInt(two, 10))
   for (const name of names) {
-    const read = JSON.parse(readFileSync(join(dir, name), "utf8")) as Said
+    const reading = READING_FILE.safeParse(JSON.parse(readFileSync(join(dir, name), "utf8")))
+    if (!reading.success) {
+      filesPassed += 1
+      continue
+    }
+    const read = reading.data
     const label = textOf(read["chapter"])
     const chapter = label === null ? undefined : chapters.get(label)
     if (chapter === undefined) {

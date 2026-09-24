@@ -1,5 +1,5 @@
 import { existsSync, readdirSync } from "node:fs"
-import { dirname, join, sep } from "node:path"
+import { dirname, join, matchesGlob, sep } from "node:path"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
@@ -11,7 +11,6 @@ import {
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { loreDisclosure } from "akasha/story/lore/properties/lore-disclosure.relation-property.ts"
 import { worldBuilder } from "akasha/story/lore-disclosure/pages/world-builder.lore-disclosure.ts"
-import { Glob } from "bun"
 
 const SLASH = "/"
 
@@ -118,8 +117,9 @@ function aboveOf(at: string): readonly string[] {
 
 export function globReach(pattern: string, root: string, withheld: readonly string[]): Globbed {
   if (withheld.length === 0) return null
-  const glob = new Glob(pattern)
   const held = [...tailsUnder(fixedOf(pattern), withheld), ...copiesOf(root, withheld)]
-  if (held.some((one) => glob.match(one))) return "file"
-  return held.some((one) => aboveOf(one).some((above) => glob.match(above))) ? "folder" : null
+  if (held.some((one) => matchesGlob(one, pattern))) return "file"
+  return held.some((one) => aboveOf(one).some((above) => matchesGlob(above, pattern)))
+    ? "folder"
+    : null
 }
