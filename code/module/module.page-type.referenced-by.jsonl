@@ -2171,6 +2171,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/collection/modules/acquire/acquire.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/collection/modules/change-following/change-following.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/collection/modules/content-persistence/content-persistence.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/collection/modules/event-source-stream/event-source-stream.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/collection/modules/file-backing/file-backing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui-store/collection/modules/identity-change/identity-change.module.ts","typed":true,"deferred":false}

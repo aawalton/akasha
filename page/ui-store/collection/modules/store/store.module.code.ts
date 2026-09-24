@@ -21,6 +21,7 @@ import {
   followedOf,
   type PageWatch,
 } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import { streamAt } from "akasha/page/ui-store/collection/modules/event-source-stream/event-source-stream.module.code.ts"
 import {
   attachFetch,
   type FetchImpl,
@@ -138,7 +139,7 @@ export function createPagesStore(
     fileBacking.fetchImpl ??
     (typeof globalThis.fetch === "function" ? (input, init) => globalThis.fetch(input, init) : null)
   const pollMs = fileBacking.pollMs ?? FILE_BACKING_POLL_MS
-  const following = createStoreFollowing(readingAgain, fetchImpl)
+  const following = createStoreFollowing(readingAgain, fetchImpl, streamAt)
   const readRoster: RosterReader | null =
     fileBacking.roster ?? (fetchImpl === null ? null : rosterOverFetch(fetchImpl))
 

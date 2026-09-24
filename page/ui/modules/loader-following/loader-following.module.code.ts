@@ -1,9 +1,7 @@
 "use client"
 
-import {
-  createChangeFollowing,
-  streamAt,
-} from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import { createChangeFollowing } from "akasha/page/ui-store/collection/modules/change-following/change-following.module.code.ts"
+import { streamAt } from "akasha/page/ui-store/collection/modules/event-source-stream/event-source-stream.module.code.ts"
 import { useEffect, useRef } from "react"
 import { useRevalidator } from "react-router"
 

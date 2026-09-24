@@ -70,23 +70,6 @@ export interface StoreFollowing {
   readonly watchPage: (pageTypeSlug: string, id: string, told: () => undefined) => PageWatch
 }
 
-export function streamAt(at: string): StreamLike {
-  const source = new EventSource(at)
-  return {
-    on: (name, heard) => {
-      source.addEventListener(name, (event) => {
-        heard(event instanceof MessageEvent ? event.data : undefined)
-      })
-      return undefined
-    },
-    closed: () => source.readyState === EventSource.CLOSED,
-    close: () => {
-      source.close()
-      return undefined
-    },
-  }
-}
-
 const STREAM_SAID = z.looseObject({ stream: z.string().min(1) })
 
 const PUSHED_SAID = z.looseObject({
@@ -270,7 +253,7 @@ function owe(owed: Owed, ids: readonly string[] | undefined): undefined {
 export function createStoreFollowing(
   readingAgain: ReadonlyMap<string, ReadAgain>,
   fetchImpl: FetchImpl | null,
-  open: (at: string) => StreamLike = streamAt,
+  open: (at: string) => StreamLike,
   canStream: boolean = typeof EventSource === "function"
 ): StoreFollowing {
   const heardBy = new Map<string, Set<() => undefined>>()

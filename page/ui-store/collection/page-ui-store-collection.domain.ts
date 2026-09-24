@@ -18,5 +18,6 @@ export const pageUiStoreCollection = {
     "module/shape-descriptor",
     "module/store",
     "module/sync-controller",
+    "module/event-source-stream",
   ],
 } as const satisfies Domain
