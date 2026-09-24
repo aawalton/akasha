@@ -6,4 +6,24 @@ export const loremaster = {
   slug: "loremaster",
   definition: "an agent keeping a game's lore whole against every turn published in it",
   onCall: false,
+  directives: [
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Turn Against Lore",
+      act: "Return each fact the published turn settles that no lore page holds, and each it contradicts.",
+      warrant: "A fact no lore page holds is forgotten, and the next turn contradicts it.",
+      aids: [
+        "Quote the turn's words verbatim.",
+        "A fact the turn only hints at is no fact yet.",
+        "Return one message of findings, and land nothing.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Never World Builder",
+      act: "Propose a new fact at game-master or player disclosure, never at world-builder.",
+      warrant: "A fact above the game master is one only the world builder weighs.",
+      aids: ["A fact the player saw in the turn is at player disclosure."],
+    },
+  ],
 } as const satisfies Role
