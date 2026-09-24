@@ -17,10 +17,7 @@ export const esoDay = {
       statement:
         "A window's bounds are each worked out against the offset those bounds themselves land in.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A day that will not parse answers with a window of no length at the epoch.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Two days are differenced as calendar days rather than as elapsed hours.",
@@ -34,8 +31,12 @@ export const esoDay = {
       statement: "The reset an instant is counted from is the start of that instant's day window.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A day that will not parse is refused rather than answered with an epoch window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day is refused unless it is a real date written YYYY-MM-DD.",
     },
   ],
 } as const satisfies Module
