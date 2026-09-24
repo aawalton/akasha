@@ -32,11 +32,11 @@ export const propertySlug = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A key drops the words its declarer's name already says.",
+      statement: "A property slug drops the words its declarer's name already says.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A qualifier only the slug's wider scope needed is not carried into the key.",
+      statement: "A qualifier only the page's slug needed is not carried into the property slug.",
     },
   ],
   types: "ts",
