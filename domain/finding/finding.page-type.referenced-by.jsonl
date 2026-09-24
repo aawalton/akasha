@@ -23,7 +23,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-type-slug-borrowed-as-a-test-fixture-outlives-the-page-type.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-property-carried-only-in-an-entries-sidecar-is-invisible-to-a-page-survey.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-record-field-holding-a-boolean-is-restated-by-no-change.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-refused-apply-leaves-edits-that-make-the-redraft-refuse-for-the-wrong-reason.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-relation-target-read-by-bare-slug-answers-for-the-other-property-of-that-name.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rename-voids-the-lint-exemption-keyed-to-the-folder-it-moves.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-renamed-page-keeps-the-old-name-inside-its-uncommitted-sidecar.finding.ts"}
