@@ -5,9 +5,7 @@ import {
   type CatalogSong,
   type CatalogTrack,
   isLiked,
-  selectNextArtist,
   selectNextExploration,
-  selectNextTrack,
 } from "akasha/alan/music/choosing/modules/music-exploration/music-exploration.module.code.ts"
 import { gradeProperty } from "akasha/page/grade-property/grade-property.page-type.ts"
 
@@ -38,6 +36,18 @@ function catalog(
   return { artists, songs, tracks }
 }
 
+function trackOffered(held: Catalog): string | null {
+  const answer = selectNextExploration(held)
+  if (answer.kind === "track-in-liked-artist") return answer.track.slug
+  if (answer.kind === "new-artist") return answer.firstTrack.slug
+  return null
+}
+
+function artistOffered(held: Catalog): string | null {
+  const answer = selectNextExploration(held)
+  return answer.kind === "new-artist" ? answer.artist.slug : null
+}
+
 describe("isLiked", () => {
   test("likes B- and everything above it", () => {
     expect(isLiked("B-")).toBe(true)
@@ -61,8 +71,8 @@ describe("isLiked", () => {
   })
 })
 
-describe("selectNextTrack", () => {
-  test("offers the ungraded track that comes first by title", () => {
+describe("the track offered", () => {
+  test("is the ungraded track that comes first by title", () => {
     const held = catalog(
       [artist("queen")],
       [
@@ -70,7 +80,7 @@ describe("selectNextTrack", () => {
         track("queen-one", "queen", { title: "Any Way You Like It" }),
       ]
     )
-    expect(selectNextTrack(held, "queen")?.slug).toBe("queen-one")
+    expect(trackOffered(held)).toBe("queen-one")
   })
 
   test("settles a shared title by slug", () => {
@@ -78,7 +88,7 @@ describe("selectNextTrack", () => {
       [artist("queen")],
       [track("queen-b", "queen", { title: "One" }), track("queen-a", "queen", { title: "One" })]
     )
-    expect(selectNextTrack(held, "queen")?.slug).toBe("queen-a")
+    expect(trackOffered(held)).toBe("queen-a")
   })
 
   test("skips a track Alan has already graded", () => {
@@ -89,10 +99,10 @@ describe("selectNextTrack", () => {
         track("queen-two", "queen", { title: "Bicycle Race" }),
       ]
     )
-    expect(selectNextTrack(held, "queen")?.slug).toBe("queen-two")
+    expect(trackOffered(held)).toBe("queen-two")
   })
 
-  test("offers a track whatever kind of recording it is", () => {
+  test("is offered whatever kind of recording it is", () => {
     const held = catalog(
       [artist("queen")],
       [
@@ -100,22 +110,22 @@ describe("selectNextTrack", () => {
         track("queen-two", "queen", { title: "B Studio" }),
       ]
     )
-    expect(selectNextTrack(held, "queen")?.slug).toBe("queen-one")
+    expect(trackOffered(held)).toBe("queen-one")
   })
 
-  test("offers nothing where every track is graded", () => {
+  test("is nothing where every track is graded", () => {
     const held = catalog(
-      [artist("queen")],
+      [artist("queen", { grade: "A" })],
       [track("queen-one", "queen", { title: "One", grade: "C" })]
     )
-    expect(selectNextTrack(held, "queen")).toBeNull()
+    expect(trackOffered(held)).toBeNull()
   })
 
-  test("offers nothing where the artist has no track at all", () => {
-    expect(selectNextTrack(catalog([artist("queen")]), "queen")).toBeNull()
+  test("is nothing where the artist has no track at all", () => {
+    expect(trackOffered(catalog([artist("queen")]))).toBeNull()
   })
 
-  test("offers one track where two share a normalised title", () => {
+  test("is one track where two share a normalised title", () => {
     const held = catalog(
       [artist("queen")],
       [
@@ -124,18 +134,18 @@ describe("selectNextTrack", () => {
         track("queen-two", "queen", { title: "Zed" }),
       ]
     )
-    expect(selectNextTrack(held, "queen")?.slug).toBe("queen-one")
+    expect(trackOffered(held)).toBe("queen-one")
     const graded = catalog(held.artists, [
       track("queen-one", "queen", { title: "Under Pressure" }),
       track("queen-one-2", "queen", { title: "under, pressure!", grade: "A" }),
       track("queen-two", "queen", { title: "Zed" }),
     ])
-    expect(selectNextTrack(graded, "queen")?.slug).toBe("queen-two")
+    expect(trackOffered(graded)).toBe("queen-two")
   })
 
   test("keeps the studio recording on offer where Alan graded the live one down", () => {
     const held = catalog(
-      [artist("queen")],
+      [artist("queen", { grade: "A" })],
       [
         track("queen-studio", "queen", { title: "Popular", song: "queen-popular" }),
         track("queen-live", "queen", {
@@ -146,26 +156,28 @@ describe("selectNextTrack", () => {
       ],
       [song("queen-popular", "queen")]
     )
-    expect(selectNextTrack(held, "queen")?.slug).toBe("queen-studio")
+    expect(trackOffered(held)).toBe("queen-studio")
   })
 
-  test("offers only a track of the artist named", () => {
+  test("is a track of the artist that track names", () => {
     const held = catalog(
       [artist("queen"), artist("bowie")],
       [track("bowie-one", "bowie", { title: "Heroes" })]
     )
-    expect(selectNextTrack(held, "queen")).toBeNull()
-    expect(selectNextTrack(held, "bowie")?.slug).toBe("bowie-one")
+    const answer = selectNextExploration(held)
+    if (answer.kind !== "new-artist") throw new Error("no artist was offered")
+    expect(answer.artist.slug).toBe("bowie")
+    expect(answer.firstTrack.slug).toBe("bowie-one")
   })
 })
 
-describe("selectNextArtist", () => {
-  test("offers nothing where every artist is graded", () => {
+describe("the new artist offered", () => {
+  test("is nothing where every artist is graded", () => {
     const held = catalog(
-      [artist("queen", { grade: "A" })],
+      [artist("queen", { grade: "F" })],
       [track("queen-one", "queen", { title: "One" })]
     )
-    expect(selectNextArtist(held)).toBeNull()
+    expect(artistOffered(held)).toBeNull()
   })
 
   test("counts an artist holding a graded track as no longer new", () => {
@@ -177,7 +189,7 @@ describe("selectNextArtist", () => {
         track("bowie-one", "bowie", { title: "Heroes" }),
       ]
     )
-    expect(selectNextArtist(held)?.slug).toBe("bowie")
+    expect(artistOffered(held)).toBe("bowie")
   })
 
   test("counts an artist holding only a song as still new", () => {
@@ -186,23 +198,23 @@ describe("selectNextArtist", () => {
       [track("queen-two", "queen", { title: "Two" })],
       [song("queen-one", "queen")]
     )
-    expect(selectNextArtist(held)?.slug).toBe("queen")
+    expect(artistOffered(held)).toBe("queen")
   })
 
-  test("offers nothing where the new artist has no track left to offer", () => {
+  test("is nothing where the new artist has no track left to offer", () => {
     const held = catalog([artist("queen")], [])
-    expect(selectNextArtist(held)).toBeNull()
+    expect(artistOffered(held)).toBeNull()
   })
 
-  test("offers the first new artist by title where none is loved", () => {
+  test("is the first new artist by title where none is loved", () => {
     const held = catalog(
       [artist("zed", { title: "Zed" }), artist("abe", { title: "Abe" })],
       [track("zed-one", "zed", { title: "One" }), track("abe-one", "abe", { title: "One" })]
     )
-    expect(selectNextArtist(held)?.slug).toBe("abe")
+    expect(artistOffered(held)).toBe("abe")
   })
 
-  test("prefers the new artist whose genres are most like a loved artist's", () => {
+  test("is the new artist whose genres are most like a loved artist's", () => {
     const held = catalog(
       [
         artist("loved", { title: "Loved", grade: "A", genre: ["indie", "folk"] }),
@@ -210,12 +222,12 @@ describe("selectNextArtist", () => {
         artist("abe", { title: "Abe", genre: ["metal"] }),
       ],
       [
-        track("loved-one", "loved", { title: "One" }),
+        track("loved-one", "loved", { title: "One", grade: "A" }),
         track("zed-one", "zed", { title: "One" }),
         track("abe-one", "abe", { title: "One" }),
       ]
     )
-    expect(selectNextArtist(held)?.slug).toBe("zed")
+    expect(artistOffered(held)).toBe("zed")
   })
 
   test("settles a likeness tie by how many loved genres the artist names", () => {
@@ -227,13 +239,13 @@ describe("selectNextArtist", () => {
         artist("abe", { title: "Abe", genre: ["indie", "metal"] }),
       ],
       [
-        track("lovedone-one", "lovedone", { title: "One" }),
-        track("lovedtwo-one", "lovedtwo", { title: "One" }),
+        track("lovedone-one", "lovedone", { title: "One", grade: "A" }),
+        track("lovedtwo-one", "lovedtwo", { title: "One", grade: "A" }),
         track("zed-one", "zed", { title: "One" }),
         track("abe-one", "abe", { title: "One" }),
       ]
     )
-    expect(selectNextArtist(held)?.slug).toBe("zed")
+    expect(artistOffered(held)).toBe("zed")
   })
 })
 

@@ -106,10 +106,6 @@ function trackFrom(kept: Kept, artistSlug: string): CatalogTrack | null {
   return null
 }
 
-export function selectNextTrack(catalog: Catalog, artistSlug: string): CatalogTrack | null {
-  return trackFrom(keptIn(catalog), artistSlug)
-}
-
 function tracksOf(kept: Kept, artist: CatalogArtist): readonly CatalogTrack[] {
   return kept.tracks.get(artist.slug) ?? []
 }
@@ -183,10 +179,6 @@ function artistFrom(catalog: Catalog, kept: Kept): CatalogArtist | null {
   })
 
   return scored[0]?.artist ?? null
-}
-
-export function selectNextArtist(catalog: Catalog): CatalogArtist | null {
-  return artistFrom(catalog, keptIn(catalog))
 }
 
 export function selectNextExploration(catalog: Catalog): Exploration {
