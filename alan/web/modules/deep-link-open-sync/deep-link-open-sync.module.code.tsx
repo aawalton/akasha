@@ -1,6 +1,9 @@
 "use client"
 
-import { widgetTapped } from "akasha/alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.code.ts"
+import {
+  widgetTapId,
+  widgetTapped,
+} from "akasha/alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.code.ts"
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import {
   getApp,
@@ -46,12 +49,15 @@ export function DeepLinkOpenSync() {
 
     let carried: string | null = null
     let launchRepeat: string | null = null
+    const countedTaps = new Set<string>()
 
     const route = (url: string | null | undefined, source: string) => {
       if (url == null) return
-      const repeats = url === launchRepeat
+      const tap = widgetTapId(url)
+      const repeats = tap === null ? url === launchRepeat : countedTaps.has(tap)
       launchRepeat = null
       carried = url
+      if (tap !== null) countedTaps.add(tap)
       if (!repeats) countTap(url)
       const path = decideOpenUrlRoute(url)
       if (path == null) {

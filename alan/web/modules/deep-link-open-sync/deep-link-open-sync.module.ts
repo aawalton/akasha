@@ -41,9 +41,13 @@ export const deepLinkOpenSync = {
       statement: "One link arriving twice is taken as two identical links arriving.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A delivery naming a tap already counted counts nothing.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
-        "The delivery after the launch link is counted as no tap where the two links match.",
+        "A delivery naming no tap after the launch link is counted as no tap where the two links match.",
     },
     {
       decisionKind: "decision-kind/departure",

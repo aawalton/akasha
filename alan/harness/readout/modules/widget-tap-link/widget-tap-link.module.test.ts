@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { widgetTapped } from "akasha/alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.code.ts"
+import {
+  widgetTapId,
+  widgetTapped,
+} from "akasha/alan/harness/readout/modules/widget-tap-link/widget-tap-link.module.code.ts"
 
 test("a link names its widget in the fragment", () => {
   expect(widgetTapped("capacitor://monarch-relay#widget=alanwalton-categorize")).toBe(
@@ -31,4 +34,27 @@ test("text that is no link names no widget", () => {
   expect(widgetTapped("not a url")).toBe(null)
   expect(widgetTapped(null)).toBe(null)
   expect(widgetTapped(7)).toBe(null)
+})
+
+test("a link names its tap beside its widget in the fragment", () => {
+  const link =
+    "alanwalton://localhost/nav/tracking-690c624f?tab=20f5f031#widget=alanwalton-surplus&tap=5f0c3a7e-9d1b-4c2a-8e6f-0b1d2c3e4f5a"
+  expect(widgetTapped(link)).toBe("alanwalton-surplus")
+  expect(widgetTapId(link)).toBe("5f0c3a7e-9d1b-4c2a-8e6f-0b1d2c3e4f5a")
+})
+
+test("two taps on one widget name two taps", () => {
+  const link = "alanwalton://monarch-relay#widget=alanwalton-categorize"
+  expect(widgetTapId(`${link}&tap=a`)).not.toBe(widgetTapId(`${link}&tap=b`))
+})
+
+test("a link naming no tap names none", () => {
+  expect(widgetTapId("capacitor://monarch-relay#widget=alanwalton-categorize")).toBe(null)
+  expect(widgetTapId("capacitor://monarch-relay#widget=alanwalton-categorize&tap=")).toBe(null)
+  expect(widgetTapId("capacitor://localhost/nav/tasks-a7242626?tap=a#widget=x")).toBe(null)
+})
+
+test("text that is no link names no tap", () => {
+  expect(widgetTapId("not a url")).toBe(null)
+  expect(widgetTapId(null)).toBe(null)
 })

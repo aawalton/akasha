@@ -1,6 +1,7 @@
 const WIDGET = "widget"
+const TAP = "tap"
 
-export function widgetTapped(rawUrl: unknown): string | null {
+function fragmentNamed(rawUrl: unknown, key: string): string | null {
   if (typeof rawUrl !== "string") return null
   let parsed: URL
   try {
@@ -8,6 +9,14 @@ export function widgetTapped(rawUrl: unknown): string | null {
   } catch {
     return null
   }
-  const named = new URLSearchParams(parsed.hash.slice(1)).get(WIDGET)
+  const named = new URLSearchParams(parsed.hash.slice(1)).get(key)
   return named === null || named === "" ? null : named
+}
+
+export function widgetTapped(rawUrl: unknown): string | null {
+  return fragmentNamed(rawUrl, WIDGET)
+}
+
+export function widgetTapId(rawUrl: unknown): string | null {
+  return fragmentNamed(rawUrl, TAP)
 }
