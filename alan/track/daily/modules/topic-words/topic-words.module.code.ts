@@ -7,7 +7,7 @@ import {
   writeIntelligenceTopics,
   writeWisdomWords,
 } from "akasha/alan/track/daily/modules/write-daily-points/write-daily-points.module.code.ts"
-import { runGit } from "akasha/git/modules/answering/git-answering.module.code.ts"
+import { ranAwaited } from "akasha/git/modules/running/git-running.module.code.ts"
 import { everyOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   AKASHA,
@@ -97,23 +97,20 @@ export async function commitsOn(
     throw new Error(`the commits landing on ${dayStr} cannot be asked for: ${window.refused}`)
   }
   const last = new Date(Date.parse(window.to) - 1000)
-  const asked = await runGit(
-    [
-      "log",
-      "--no-merges",
-      "--format=%H",
-      `--since=${window.from}`,
-      `--until=${last.toISOString()}`,
-      "HEAD",
-      "--",
-      pathspec,
-    ],
-    rootFor(roots, AKASHA)
-  )
-  if (!asked.ok) {
-    throw new Error(`the commits on ${dayStr} did not come back: ${asked.stderr}`)
+  const asked = await ranAwaited(rootFor(roots, AKASHA), [
+    "log",
+    "--no-merges",
+    "--format=%H",
+    `--since=${window.from}`,
+    `--until=${last.toISOString()}`,
+    "HEAD",
+    "--",
+    pathspec,
+  ])
+  if (asked.code !== 0) {
+    throw new Error(`the commits on ${dayStr} did not come back: ${asked.err.trim()}`)
   }
-  return asked.stdout.split("\n").filter((line) => line !== "")
+  return asked.out.split("\n").filter((line) => line !== "")
 }
 
 export async function wordsAddedInCommit(
@@ -121,14 +118,20 @@ export async function wordsAddedInCommit(
   sha: string,
   pathspec: string
 ): Promise<number> {
-  const asked = await runGit(
-    ["show", "--format=", "--unified=0", "--no-color", "--find-renames", sha, "--", pathspec],
-    root
-  )
-  if (!asked.ok) {
-    throw new Error(`the diff of ${sha} did not come back: ${asked.stderr}`)
+  const asked = await ranAwaited(root, [
+    "show",
+    "--format=",
+    "--unified=0",
+    "--no-color",
+    "--find-renames",
+    sha,
+    "--",
+    pathspec,
+  ])
+  if (asked.code !== 0) {
+    throw new Error(`the diff of ${sha} did not come back: ${asked.err.trim()}`)
   }
-  return wordsAddedInDiff(asked.stdout)
+  return wordsAddedInDiff(asked.out)
 }
 
 export async function countWordsForDay(
@@ -160,24 +163,21 @@ export async function topicsUpdatedInCommit(
   sha: string,
   pathspec: string
 ): Promise<ReadonlySet<string>> {
-  const asked = await runGit(
-    [
-      "show",
-      "--format=",
-      "--name-only",
-      "--no-color",
-      "--find-renames",
-      "--diff-filter=AM",
-      sha,
-      "--",
-      pathspec,
-    ],
-    root
-  )
-  if (!asked.ok) {
-    throw new Error(`the files ${sha} changed did not come back: ${asked.stderr}`)
+  const asked = await ranAwaited(root, [
+    "show",
+    "--format=",
+    "--name-only",
+    "--no-color",
+    "--find-renames",
+    "--diff-filter=AM",
+    sha,
+    "--",
+    pathspec,
+  ])
+  if (asked.code !== 0) {
+    throw new Error(`the files ${sha} changed did not come back: ${asked.err.trim()}`)
   }
-  return topicsIn(asked.stdout.split("\n"))
+  return topicsIn(asked.out.split("\n"))
 }
 
 export async function countTopicsForDay(
