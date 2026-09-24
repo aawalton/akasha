@@ -15,7 +15,6 @@ export const theTowerCounterweightColossus01 = {
     "A solid hit on the Colossus's pawl unwinds the whole counterweight through it and tears it apart.",
     "Reading the Colossus's pawl takes intellect and placing a blow on it finesse, never might.",
     "The Colossus's pawl cannot be read in the dark.",
-    "A slab driven up hard against the Colossus over-tensions its chain and bares the pawl.",
-    "The Colossus wakes when someone nears the exit-stair or the gantry, or strikes it.",
+    "The Colossus lies in pieces on the Headworks' gantry, its winding-drum torn out.",
   ],
 } as const satisfies Lore
