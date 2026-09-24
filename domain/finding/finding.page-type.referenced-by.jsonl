@@ -49,7 +49,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rename-voids-the-lint-exemption-keyed-to-the-folder-it-moves.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-renamed-page-keeps-the-old-name-inside-its-uncommitted-sidecar.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-repeat-run-ends-the-same-way-whether-the-change-had-nothing-left-or-a-batch-was-refused.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-resumed-subagent-runs-before-its-page-lands-and-the-refusal-reads-as-permanent.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-retirement-orphans-prose-and-the-repair-is-a-rewrite-not-a-repoint.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-rolling-writer-appends-into-a-part-name-already-taken-rather-than-refusing.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-scope-cpu-weight-drop-in-loses-to-the-foreground-booster.finding.ts"}
