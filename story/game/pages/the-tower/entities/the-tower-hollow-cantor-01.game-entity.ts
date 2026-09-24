@@ -9,7 +9,6 @@ export const theTowerHollowCantor01 = {
   kind: "enemy",
   class: "Sound-wraith",
   dice: "game-mechanic/two-d-ten",
-  baseDamage: 14,
   typicalIntent: 6,
   note: "computed by engine: VIT8(56)+MIGHT2(8) = 64 HP, but HP is nearly irrelevant — you win by killing the PLATES, not the wraith. focusMax 72, mentDef 26.5.",
 } as const satisfies GameEntity
