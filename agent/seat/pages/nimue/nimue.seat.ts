@@ -9,7 +9,7 @@ export const nimue = {
   role: "role/definer",
   person: "person/alan",
   startMode: "interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "aawalton",
   claudeCodeSessionUuid: "e47623bc-bfdf-4266-8dac-dcff7ba5fedb",
 } as const satisfies Seat
