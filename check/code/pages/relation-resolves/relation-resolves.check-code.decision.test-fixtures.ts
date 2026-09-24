@@ -15,6 +15,7 @@ import {
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
+import { pagePageType } from "akasha/page/properties/page-page-type.relation-property.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 export const A = "akasha/t/a.note.ts"
@@ -59,10 +60,11 @@ const TYPES: readonly (readonly [string, string | null, boolean])[] = [
 const SCHEMA: Record<string, Record<string, string | null>> = {
   id: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: "page" },
   slug: { pageTypeSlug: "text-property", targetPageTypeSlug: null, unique: "page-type" },
-  "page-type-slug": {
+  [pagePageType.slug]: {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: "page-type",
     unique: null,
+    propertySlug: pagePageType.propertySlug,
   },
   "domain-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "domain", unique: null },
   "spark-slug": { pageTypeSlug: "relation-property", targetPageTypeSlug: "spark", unique: null },
@@ -101,7 +103,7 @@ export function stating(
 ): string {
   const read = pageTypeSlug.endsWith("-property") ? `, propertySlug: "${slug}"` : ""
   const said = namedAs(PAGE_TYPE, pageTypeSlug, null)
-  return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${said}"${read}${stated} }\n`
+  return `export const it = { id: "${id}", slug: "${slug}", type: "${said}"${read}${stated} }\n`
 }
 
 function valued(
@@ -111,7 +113,7 @@ function valued(
   more: Readonly<Record<string, unknown>> = {}
 ): Record<string, unknown> {
   const read = pageTypeSlug.endsWith("-property") ? { propertySlug: slug } : {}
-  return { id, slug, pageTypeSlug: namedAs(PAGE_TYPE, pageTypeSlug, null), ...read, ...more }
+  return { id, slug, type: namedAs(PAGE_TYPE, pageTypeSlug, null), ...read, ...more }
 }
 
 function saying(more: Readonly<Record<string, unknown>>): string {
@@ -171,7 +173,8 @@ export function rooted(carrying: boolean = true): string {
     filing(root, path, id, "page-type", slug, { extends: said, ...dies, ...holds })
   }
   for (const [slug, shape] of Object.entries(SCHEMA)) {
-    shapeAdded(root, String(shape.pageTypeSlug), slug, [{ ...shape, slug, propertySlug: slug }])
+    const propertySlug = shape.propertySlug ?? slug
+    shapeAdded(root, String(shape.pageTypeSlug), slug, [{ ...shape, slug, propertySlug }])
   }
   filing(root, M, M_ID, "record-property", "marks", {
     properties: [{ pagePropertySlug: "domain-slug" }],

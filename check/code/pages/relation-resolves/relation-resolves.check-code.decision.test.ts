@@ -36,8 +36,11 @@ import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { type Shadow, shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
+
+const NOTE_AT = `${pageType.slug}/note` as const
 
 function knowing(shadow: Shadow): Shaped {
   return shadow.index.knownIn()
@@ -100,7 +103,7 @@ test("the page type a page states is a relation like any other", () => {
   expect(judged(over(root, [A], bodies))).toEqual([
     {
       path: A,
-      reason: "states `page-type-slug`, and no `page-type` carries the slug `typo`",
+      reason: "states `page-page-type`, and no `page-type` carries the slug `typo`",
     },
   ])
 })
@@ -214,7 +217,7 @@ test("the edges into a page taken away are read as the change found them", () =>
 
 test("a refusal is laid on the page that names, and one is raised for each name", () => {
   const shadow = shadowAt(rooted())
-  const value = { pageTypeSlug: "page-type/note", partSlugs: ["domain/gone", "domain/away"] }
+  const value = { type: NOTE_AT, partSlugs: ["domain/gone", "domain/away"] }
   expect(dangling(shadow, value).map((one) => one.reason)).toEqual([
     "states `part-slugs`, and no `domain` carries the slug `gone`",
     "states `part-slugs`, and no `domain` carries the slug `away`",
@@ -223,7 +226,7 @@ test("a refusal is laid on the page that names, and one is raised for each name"
 
 test("a relation nested in a record is judged, and the refusal names the record and the field", () => {
   const shadow = shadowAt(rooted())
-  const value = { pageTypeSlug: "page-type/note", marks: [{ domainSlug: "domain/gone" }] }
+  const value = { type: NOTE_AT, marks: [{ domainSlug: "domain/gone" }] }
   expect(dangling(shadow, value).map((one) => one.reason)).toEqual([
     "states `marks domain-slug`, and no `domain` carries the slug `gone`",
   ])
@@ -232,7 +235,7 @@ test("a relation nested in a record is judged, and the refusal names the record 
 test("one name repeated across a record's entries is judged once", () => {
   const shadow = shadowAt(rooted())
   const value = {
-    pageTypeSlug: "page-type/note",
+    type: NOTE_AT,
     marks: [{ domainSlug: "domain/gone" }, { domainSlug: "domain/gone" }],
   }
   expect(dangling(shadow, value).map((one) => one.reason)).toEqual([
@@ -243,7 +246,7 @@ test("one name repeated across a record's entries is judged once", () => {
 test("a field the record does not declare, and a record deeper than one, are left alone", () => {
   const shadow = shadowAt(rooted())
   const value = {
-    pageTypeSlug: "page-type/note",
+    type: NOTE_AT,
     marks: [{ partSlugs: ["gone"], deeper: [{ domainSlug: "domain/gone" }] }],
   }
   expect(dangling(shadow, value)).toEqual([])
