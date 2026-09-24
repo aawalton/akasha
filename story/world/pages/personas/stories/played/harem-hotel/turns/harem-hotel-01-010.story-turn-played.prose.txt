@@ -2,11 +2,20 @@ For a moment neither of you moves — her forehead against yours, the made room 
 
 Then, past her shoulder, the pale letters come. The same frost-color, the same flat hand, as indifferent to the moment as it was to your name in the dark:
 
-{{system}}
+:::quest-complete
+name: Closeness
+note: close the distance between you
+:::
 
-{{system}}
+:::quest-complete
+name: The Kiss
+note: kiss her
+:::
 
-{{system}}
+:::quest-offer
+name: The Night
+note: take her to bed
+:::
 
 No ceremony to it — it states what you crossed and what the crossing paid you, the way a ledger states a sum, and goes quiet. You let the letters go. She is warm against you, real in a way the pane will never be, and nothing it could tally is worth the turn of your head from that.
 
@@ -76,9 +85,15 @@ Afterward she stays exactly where she is, still astride you, her weight loose an
 
 And in the dark past her bare shoulder, the letters come one last time.
 
-{{system}}
+:::quest-complete
+name: The Night
+note: take her to bed
+:::
 
-{{system}}
+:::quest-complete
+name: Fully Hers
+note: give yourself to her fully
+:::
 
 THE LINK
 Talent — first activation.
