@@ -16,6 +16,7 @@
 {"propertySlug":"part-of-speech","path":"person/pages/lizzy/lizzy.person.ts","id":"01a053fe-00f2-7cf3-92bc-694ea856500c"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-proper-noun-clause.construction.ts","id":"01a0d484-35d6-7cef-acb4-ad2d3941c10c"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/possessive-proper-noun-owning-a-proper-noun.construction.ts","id":"01a0d571-c630-72ee-ab3f-54b0ffd7ff2b"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/possessive-proper-noun.construction.ts","id":"01a0d484-15a4-77a3-860d-faf2687ae60a"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/proper-noun-alone.construction.ts","id":"01a0d483-f77d-7276-9b1f-c25fde355365"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/proper-noun-with-a-noun-run.construction.ts","id":"01a0d484-0a9e-7ca8-99aa-f79fb48fe022"}
