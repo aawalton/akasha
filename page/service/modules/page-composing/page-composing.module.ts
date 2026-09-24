@@ -40,11 +40,19 @@ export const pageComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The keys are written in the order the keys are declared.",
+      statement: "A new page has its keys written in the order the keys are declared.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The type deepest in the descent declares first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page already there keeps the order its keys have.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key the page lacked is placed by the order the keys are declared.",
     },
     {
       decisionKind: "decision-kind/departure",

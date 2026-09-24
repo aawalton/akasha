@@ -27,6 +27,7 @@ import {
   HELD_CRATE_ID,
   HELD_THING_BODY,
   HELD_THING_ID,
+  keysIn,
   PAST_THE_LENGTH,
   pageTypeAt,
   pathIn,
@@ -157,9 +158,11 @@ test("a merge keeps every key the caller does not name", () => {
   expect(content).toContain(HELD_THING_ID)
 })
 
-test("a merge keeps a value held in a file beside the page as the extension it states", () => {
-  const said = composing({ ...A_HELD_FIGURE, values: { title: "x" } })
+test("a page keeps its key order, a key it lacked is placed as declared, a file its extension", () => {
+  const said = composing({ ...A_HELD_FIGURE, values: { remark: "x" } })
   expect(bodyIn(said)).toContain('portrait: "md"')
+  const put = ["id", "pageTypeSlug", "type", "slug", "title", "remark", "portrait", "rounds"]
+  expect(keysIn(said)).toEqual(put)
 })
 
 test("an ending naming a file is no refusal", () => {

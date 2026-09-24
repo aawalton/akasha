@@ -103,6 +103,16 @@ export function orderedIn(carried: readonly Carried[]): readonly Carried[] {
   return [...held.values()].reverse().flat()
 }
 
+function keptOrderIn(declared: readonly string[], had: readonly string[]): string[] {
+  const placed = had.filter((one) => declared.includes(one))
+  for (const [at, one] of declared.entries()) {
+    if (placed.includes(one)) continue
+    const before = at === 0 ? -1 : placed.indexOf(declared[at - 1] ?? "")
+    placed.splice(before + 1, 0, one)
+  }
+  return placed
+}
+
 const PAGES = "pages"
 
 const PARTED_BY = "/"
@@ -116,6 +126,10 @@ const SHOWN = 40
 const RUN_OF_SPACE = /\s+/g
 
 const BYTES = new TextEncoder()
+
+const PAGE_ENDING = ".ts"
+
+const UNTAKEN = "is no ending a file beside a page takes"
 
 const EVERY_PAGE = "page"
 
@@ -219,9 +233,11 @@ export function endingRefused(
   if (typeof held !== "string") {
     return `${names}, and this write hands over a ${typeof held} rather than an ending. ${instead}`
   }
-  const beside = besideAt(at, propertySlug, held)
-  if (beside === null) return null
-  const why = endingWhy(held, beside.slice(beside.lastIndexOf(PARTED_BY) + 1))
+  if (!at.endsWith(PAGE_ENDING)) return null
+  const stem = at.slice(at.lastIndexOf(PARTED_BY) + 1, -PAGE_ENDING.length)
+  const why =
+    endingWhy(held, `${stem}.${propertySlug}.${held}`) ??
+    (besideAt(at, propertySlug, held) === null ? UNTAKEN : null)
   if (why === null) return null
   return `${names}, and this write hands over ${shownAs(held)}, which ${why}. ${instead}`
 }
@@ -321,11 +337,12 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   if (inside[ID] === undefined && wasId !== undefined) inside[ID] = wasId
   inside[TYPE] = namedAs(PAGE_TYPE, named.pageTypeSlug, null)
   inside[SLUG] = named.slug
+  const declared = carried.filter((one) => !one.uncommitted).map((one) => one.key)
   const content = bodyOf({
     pageTypeSlug: named.pageTypeSlug,
     slug: named.slug,
     importFrom: importedFrom(typesAt ?? typeAt),
-    keys: carried.filter((one) => !one.uncommitted).map((one) => one.key),
+    keys: was === null ? declared : keptOrderIn(declared, Object.keys(was)),
     values: inside,
   })
   const kept = Object.keys(outside).length === 0 ? null : { path: at, values: outside }

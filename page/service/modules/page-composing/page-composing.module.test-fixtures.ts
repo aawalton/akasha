@@ -222,6 +222,10 @@ export function bodyIn(said: Folded): string {
   return "puts" in said ? (said.puts[0]?.content ?? "") : ""
 }
 
+export function keysIn(said: Folded): readonly (string | undefined)[] {
+  return [...bodyIn(said).matchAll(/^ {2}(\w+):/gm)].map((one) => one[1])
+}
+
 export function pathIn(said: Folded): string {
   return "puts" in said ? (said.puts[0]?.path ?? "") : ""
 }
