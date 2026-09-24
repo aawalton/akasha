@@ -94,7 +94,7 @@ export const releaseSyncing = {
       statement: "Spotify answers an album read with the first fifty tracks that album carries.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A release of more than fifty tracks is filed with every track it carries.",
     },
     {
