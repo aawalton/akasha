@@ -42,7 +42,7 @@ export const bashEnv = {
       statement: "A shell reaches this script by a link outside every checkout.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "The credentials file's name is worked out here rather than read off the account's page.",
     },
