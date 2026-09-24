@@ -6,4 +6,19 @@ export const achievementCatalog = {
   slug: "achievement-catalog",
   definition: "the achievements the game lists, held under categories and subcategories",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A category has sub categories that have achievements.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A general sub category is optional on a category.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An entry says whether the achievement is earned per character.",
+    },
+  ],
 } as const satisfies Module

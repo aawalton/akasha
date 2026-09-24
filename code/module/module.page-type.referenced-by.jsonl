@@ -4713,7 +4713,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/tribute-catalog-capture/tribute-catalog-capture.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/weapon-type-constants/weapon-type-constants.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-host/modules/achievement-catalog-schema/achievement-catalog-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-host/modules/antiquity-lore-catalog-schema/antiquity-lore-catalog-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-host/modules/cadwell-catalog-schema/cadwell-catalog-schema.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-host/modules/collectibles-catalog-schema/collectibles-catalog-schema.module.ts"}
