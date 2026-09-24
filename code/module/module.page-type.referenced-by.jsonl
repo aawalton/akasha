@@ -743,7 +743,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/harness/web-static-asset/modules/serve-static/serve-static.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/chapter-choosing/chapter-choosing.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/offline-reading/offline-reading.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/resume-chapter/resume-chapter.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/shapes/reading-shapes.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/library/reading/modules/story-catalog/story-catalog.module.ts"}

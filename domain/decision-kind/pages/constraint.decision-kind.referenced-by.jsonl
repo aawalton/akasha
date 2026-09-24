@@ -149,7 +149,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-ticking/surplus-fall-ticking.module.ts","id":"01a0697e-ded3-7147-92a2-3c8650eaf635"}
 {"propertySlug":"decision-kind","path":"alan/harness/surplus/modules/fall-tier/surplus-fall-tier.module.ts","id":"01a0697e-ded3-7adb-9d6e-f852cfc9ffd7"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-page-answer/.server/answer-page-types/answer-page-types.module.ts","id":"01a0640f-8510-78d4-a12e-20e2f4f3927a"}
-{"propertySlug":"decision-kind","path":"alan/library/reading/modules/offline-reading/offline-reading.module.ts","id":"01a0657b-06ac-7293-a09b-01ff92f25730"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.ts","id":"01a06262-ff4c-7001-86ff-443d16400dc0"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/lrclib-client/lrclib-client.module.ts","id":"01a06262-ff4c-7004-99a6-b15f63fddbd0"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/musicbrainz-client/musicbrainz-client.module.ts","id":"01a06262-ff4c-7000-b193-5ca094701486"}

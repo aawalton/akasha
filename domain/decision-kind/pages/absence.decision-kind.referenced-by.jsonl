@@ -444,7 +444,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/voice-core/modules/speech/speech.module.ts","id":"01a05b55-e06e-713c-ae5c-d556cabac43e"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/book/properties/page-count.number-property.ts","id":"01a06741-dd0f-7005-b740-1e4345152777"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}
-{"propertySlug":"decision-kind","path":"alan/library/reading/modules/offline-reading/offline-reading.module.ts","id":"01a0657b-06ac-7293-a09b-01ff92f25730"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/modules/shapes/reading-shapes.module.ts","id":"01a0657b-06a7-7ae0-baf9-5cce272d89ba"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-held/catalogue-held.module.ts","id":"01a09c06-fd09-7448-ae50-64aed341cbb5"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.ts","id":"01a06262-ff4c-7001-86ff-443d16400dc0"}

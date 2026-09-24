@@ -1012,7 +1012,6 @@
 {"propertySlug":"decision-kind","path":"alan/library/reading/book/properties/rating.number-property.ts","id":"01a06741-dd0f-7004-9b9b-26579c448c7b"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/gbww-reading/gbww-reading.page-type.ts","id":"01a0659f-93da-7019-b3d4-198e7acfbd4c"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/gbww-reading/properties/gbww-edition-marker.select-property.ts","id":"01a0659f-93da-7017-ae3f-0e9294f8b40f"}
-{"propertySlug":"decision-kind","path":"alan/library/reading/modules/offline-reading/offline-reading.module.ts","id":"01a0657b-06ac-7293-a09b-01ff92f25730"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/modules/shapes/reading-shapes.module.ts","id":"01a0657b-06a7-7ae0-baf9-5cce272d89ba"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/scripture-collection/scripture-collection.page-type.ts","id":"01a06807-be66-7003-aba8-347b1f0d9f84"}
 {"propertySlug":"decision-kind","path":"alan/library/reading/scripture-passage/properties/scripture-book.text-property.ts","id":"01a0658d-fe50-7003-842b-538187e1ae93"}

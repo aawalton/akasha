@@ -8,7 +8,6 @@ export const reading = {
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "readings" }],
   parts: [
     "module/chapter-choosing",
-    "module/offline-reading",
     "module/reading-shapes",
     "module/resume-chapter",
     "module/story-catalog",
