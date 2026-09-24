@@ -5,6 +5,7 @@ export const emailAddressProperty = {
   type: "page-type/page-type",
   slug: "email-address-property",
   definition: "a page property with an email address",
+  icon: "at-sign",
   extends: ["page-type/page-property"],
   decisions: [
     {

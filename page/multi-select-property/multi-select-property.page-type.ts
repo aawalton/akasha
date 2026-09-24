@@ -5,6 +5,7 @@ export const multiSelectProperty = {
   type: "page-type/page-type",
   slug: "multi-select-property",
   definition: "a page property with many of a set of values the property states",
+  icon: "list",
   extends: ["page-type/select-property"],
   decisions: [
     {

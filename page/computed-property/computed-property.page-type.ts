@@ -19,6 +19,7 @@ export const computedProperty = {
   type: "page-type/page-type",
   slug: "computed-property",
   definition: "a page property a function works out from the page",
+  icon: "sigma",
   extends: ["page-type/page-property"],
   parts: [
     "boolean-property/asked-by-name",

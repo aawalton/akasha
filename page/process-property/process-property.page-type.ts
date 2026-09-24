@@ -5,6 +5,7 @@ export const processProperty = {
   type: "page-type/page-type",
   slug: "process-property",
   definition: "a page property with a run of a program",
+  icon: "cpu",
   extends: ["page-type/page-property"],
   decisions: [
     {

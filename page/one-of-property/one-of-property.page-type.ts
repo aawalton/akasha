@@ -5,6 +5,7 @@ export const oneOfProperty = {
   type: "page-type/page-type",
   slug: "one-of-property",
   definition: "a page property with a value one of its members has",
+  icon: "split",
   parts: ["multi-relation-property/members"],
   extends: ["page-type/page-property"],
   properties: [

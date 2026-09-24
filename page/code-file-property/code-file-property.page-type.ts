@@ -5,6 +5,7 @@ export const codeFileProperty = {
   type: "page-type/page-type",
   slug: "code-file-property",
   definition: "a page property held in a file something runs",
+  icon: "file-code",
   parts: [
     "number-property/max-cpu-seconds",
     "number-property/max-memory-mb",

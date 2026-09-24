@@ -7,6 +7,7 @@ export const pageProperty = {
   type: "page-type/page-type",
   slug: "page-property",
   definition: "a value a page carries",
+  icon: "text-align-start",
   pluralSlug: "properties",
   parts: [
     "boolean-property/holds-bytes",

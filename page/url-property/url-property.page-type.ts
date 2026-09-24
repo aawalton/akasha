@@ -5,6 +5,7 @@ export const urlProperty = {
   type: "page-type/page-type",
   slug: "url-property",
   definition: "a page property with a web address",
+  icon: "link",
   extends: ["page-type/page-property"],
   properties: [{ pageProperty: "number-property/max-length", required: true, many: false }],
   decisions: [

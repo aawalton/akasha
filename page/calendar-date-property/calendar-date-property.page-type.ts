@@ -5,6 +5,7 @@ export const calendarDateProperty = {
   type: "page-type/page-type",
   slug: "calendar-date-property",
   definition: "a page property with a day",
+  icon: "calendar",
   extends: ["page-type/page-property"],
   decisions: [
     {

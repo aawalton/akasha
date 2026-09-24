@@ -5,6 +5,7 @@ export const relationProperty = {
   type: "page-type/page-type",
   slug: "relation-property",
   definition: "a page property naming another page",
+  icon: "arrow-up-right",
   parts: ["relation-property/target-page-type"],
   extends: ["page-type/page-property"],
   properties: [{ pageProperty: "relation-property/target-page-type", required: true, many: false }],

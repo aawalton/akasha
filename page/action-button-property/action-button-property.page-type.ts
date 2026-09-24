@@ -5,6 +5,7 @@ export const actionButtonProperty = {
   type: "page-type/page-type",
   slug: "action-button-property",
   definition: "a page property drawn as a button running a verb over the page",
+  icon: "mouse-pointer-click",
   extends: ["page-type/page-property"],
   parts: ["text-property/action-button-verb"],
   properties: [{ pageProperty: "text-property/action-button-verb", required: true, many: false }],

@@ -5,6 +5,7 @@ export const phoneNumberProperty = {
   type: "page-type/page-type",
   slug: "phone-number-property",
   definition: "a page property with a telephone number",
+  icon: "phone",
   extends: ["page-type/page-property"],
   decisions: [
     {

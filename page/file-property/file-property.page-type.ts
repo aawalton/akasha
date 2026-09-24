@@ -5,6 +5,7 @@ export const fileProperty = {
   type: "page-type/page-type",
   slug: "file-property",
   definition: "a page property held in its own file",
+  icon: "paperclip",
   parts: [
     "boolean-property/append-only",
     "boolean-property/generated",

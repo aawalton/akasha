@@ -5,6 +5,7 @@ export const numberProperty = {
   type: "page-type/page-type",
   slug: "number-property",
   definition: "a page property with a number",
+  icon: "hash",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "number" },
     { partOfSpeech: "part-of-speech/noun", spelling: "numbers" },

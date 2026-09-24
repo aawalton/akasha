@@ -5,6 +5,7 @@ export const selectProperty = {
   type: "page-type/page-type",
   slug: "select-property",
   definition: "a page property with one of a set of values the property states",
+  icon: "circle-chevron-down",
   parts: [
     "record-property/select-option-colors",
     "relation-property/select-option-color",

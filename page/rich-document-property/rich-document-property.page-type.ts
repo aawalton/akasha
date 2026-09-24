@@ -5,6 +5,7 @@ export const richDocumentProperty = {
   type: "page-type/page-type",
   slug: "rich-document-property",
   definition: "a page property holding a document written as a tree of blocks",
+  icon: "file-text",
   extends: ["page-type/page-property"],
   decisions: [
     {

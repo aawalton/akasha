@@ -5,6 +5,7 @@ export const recordProperty = {
   type: "page-type/page-type",
   slug: "record-property",
   definition: "a page property holding named fields",
+  icon: "braces",
   extends: ["page-type/page-property"],
   properties: [
     { pageProperty: "one-of-property/properties", required: true, many: true, maxCount: null },

@@ -5,6 +5,7 @@ export const rruleProperty = {
   type: "page-type/page-type",
   slug: "rrule-property",
   definition: "a page property holding a recurrence rule and that rule's starting point",
+  icon: "repeat",
   extends: ["page-type/page-property"],
   decisions: [
     {

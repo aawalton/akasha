@@ -5,6 +5,7 @@ export const booleanProperty = {
   type: "page-type/page-type",
   slug: "boolean-property",
   definition: "a page property holding true or false",
+  icon: "square-check",
   extends: ["page-type/page-property"],
   types: "ts",
   schema: "jsonl",

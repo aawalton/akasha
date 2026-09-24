@@ -5,6 +5,7 @@ export const instantProperty = {
   type: "page-type/page-type",
   slug: "instant-property",
   definition: "a page property with a single point in time",
+  icon: "clock",
   extends: ["page-type/page-property"],
   decisions: [
     {
