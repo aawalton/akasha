@@ -19,6 +19,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { icon } from "akasha/page/properties/icon.text-property.ts"
 import {
   carriedFor,
   type Named,
@@ -49,6 +50,8 @@ const ASKED_BY_NAME = "askedByName"
 
 const TITLE_COLORED_BY = camelizeKey(titleColoredBy.propertySlug)
 
+const ICON = camelizeKey(icon.propertySlug)
+
 export type Declared = {
   readonly key: string
   readonly type: string
@@ -66,6 +69,7 @@ export type Declared = {
   readonly mayBeGone: boolean
   readonly verbId: string | null
   readonly colorsTitle: boolean
+  readonly icon: string | null
   readonly askedByName?: boolean
 }
 
@@ -134,6 +138,11 @@ function statedBy(climbed: readonly Value[], key: string): unknown {
   return null
 }
 
+function iconIn(climbed: readonly Value[]): string | null {
+  const named = statedBy(climbed, ICON)
+  return typeof named === "string" && named !== "" ? named : null
+}
+
 function declaredOf(
   one: Stating,
   page: Value | undefined,
@@ -162,6 +171,7 @@ function declaredOf(
     mayBeGone: !one.required,
     verbId: page === undefined ? null : textAt(page, VERB_ID),
     colorsTitle,
+    icon: iconIn(climbed),
     ...(page?.[ASKED_BY_NAME] === true ? { askedByName: true } : {}),
   }
 }

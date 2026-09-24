@@ -21,6 +21,7 @@ const WORKED: Declared = {
   mayBeGone: true,
   verbId: null,
   colorsTitle: false,
+  icon: "sigma",
 }
 
 const DRAWN = [
@@ -104,6 +105,14 @@ test("a computed property naming no page type to reach is drawn as its own chain
 
 test("a property its page type names to color titles is said to color them", () => {
   expect(definitionOf({ ...WORKED, colorsTitle: true }).colorsTitle).toBe(true)
+})
+
+test("a computed property reaching a page type keeps its own kind's icon", () => {
+  expect(definitionOf({ ...WORKED, targetSlug: "tint" }).icon).toBe("sigma")
+})
+
+test("a declaration naming no icon gives a definition with none", () => {
+  expect(definitionOf({ ...WORKED, icon: null })).not.toHaveProperty("icon")
 })
 
 test("a property its page type names nowhere says nothing of titles", () => {

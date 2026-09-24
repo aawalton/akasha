@@ -96,6 +96,10 @@ export const filePropertyDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A definition has the icon of the page type its property is, however it is drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A definition says it is answered only when asked by name where its property says so.",
     },

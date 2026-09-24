@@ -190,6 +190,7 @@ export function definitionOf(one: Declared): PropertyDefinition {
     pageId: one.pageId,
     ...(stated ? { config } : {}),
     ...(one.colorsTitle ? { colorsTitle: true } : {}),
+    ...(one.icon === null ? {} : { icon: one.icon }),
     ...(one.askedByName === true ? { askedByName: true } : {}),
   }
 }

@@ -23,6 +23,7 @@ export type PropertyDefinition = {
   isRequired?: boolean
   unique?: boolean
   colorsTitle?: boolean
+  icon?: string
   askedByName?: boolean
 }
 

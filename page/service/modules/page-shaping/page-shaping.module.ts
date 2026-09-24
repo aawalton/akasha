@@ -84,6 +84,10 @@ export const pageShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration has the icon the nearest page type its property is names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A page type naming no property to color titles takes the one the nearest page type above it names.",
     },

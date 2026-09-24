@@ -81,6 +81,14 @@ test("a page type nothing above names a title color for has none", () => {
   expect(titleColorFor(climbedInTypes, "tied")).toBeNull()
 })
 
+test("a declaration has the icon its property's own page type names", () => {
+  expect(declaredAt("domain", "decisions")?.icon).toBe("braces")
+})
+
+test("a declaration whose page type names no icon has the one the type above it names", () => {
+  expect(declaredAt("decision-kind", "slug")?.icon).toBe("text-align-start")
+})
+
 test("a declaration colors a title only where its page type names it", () => {
   expect(declaredAt("domain", "decisions")?.colorsTitle).toBe(false)
 })
