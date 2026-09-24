@@ -16,7 +16,7 @@ export const companionRotationState = {
       statement: "An ultimate with no stated cost is treated as costing one hundred.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "Ground-targeted healing counts fully toward self healing and toward ally healing.",
     },
