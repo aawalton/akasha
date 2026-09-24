@@ -217,6 +217,7 @@ export function executeBankDeposits(
             alreadyDispatched,
             tierCap,
             tierAccountWideCount,
+            handOff: 0,
           })
         } else {
           const alreadyAtDest = bankCountItemInStorage(ctx, itemId)

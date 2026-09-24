@@ -63,6 +63,7 @@ function stockSurplus(
     alreadyDispatched: 0,
     tierCap: undefined,
     tierAccountWideCount: 0,
+    handOff: 0,
   })
 }
 

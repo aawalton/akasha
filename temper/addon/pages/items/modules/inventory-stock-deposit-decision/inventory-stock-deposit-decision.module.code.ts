@@ -5,6 +5,7 @@ export interface StockTierDepositInput {
   readonly alreadyDispatched: number
   readonly tierCap: number | undefined
   readonly tierAccountWideCount: number
+  readonly handOff: number
 }
 
 export function computeStockTierDeposit(input: StockTierDepositInput): number {
@@ -13,7 +14,7 @@ export function computeStockTierDeposit(input: StockTierDepositInput): number {
   if (input.tierCap !== undefined) {
     const capRemaining = Math.max(
       0,
-      input.tierCap - input.tierAccountWideCount - input.alreadyDispatched
+      input.tierCap + input.handOff - input.tierAccountWideCount - input.alreadyDispatched
     )
     allowed = Math.min(allowed, capRemaining)
   }
