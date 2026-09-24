@@ -23,6 +23,7 @@
 {"propertySlug":"part-of-speech","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"part-of-speech","path":"alan/anime/anime.domain.ts","id":"01a0673a-bc3a-7001-b382-d105cf5b01d6"}
 {"propertySlug":"part-of-speech","path":"alan/attribute/attribute.page-type.ts","id":"01a06841-a0fd-7d6d-83ba-fed205a8f26a"}
+{"propertySlug":"part-of-speech","path":"alan/book/pages/learn-everything/topic/learn-everything-topic.page-type.ts","id":"01a0659f-93da-7011-b26e-605cb6f32b8f"}
 {"propertySlug":"part-of-speech","path":"alan/car-research/car/car.page-type.ts","id":"01a065a0-0000-7000-8000-000000000401"}
 {"propertySlug":"part-of-speech","path":"alan/chess/chess.domain.ts","id":"01a05be1-cb07-74d3-b8ca-8a6e71097f9b"}
 {"propertySlug":"part-of-speech","path":"alan/collection/collection.page-type.ts","id":"01a063de-2c60-7006-8395-50a12e499f8e"}

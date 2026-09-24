@@ -5,6 +5,20 @@ export const learnEverythingTopic = {
   type: "page-type/page-type",
   slug: "learn-everything-topic",
   definition: "a subject in the map of all there is to know",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "learn everything topic" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "learn everything topics" },
+    {
+      partOfSpeech: "part-of-speech/noun",
+      spelling: "topic",
+      scope: "page-type/learn-everything-topic",
+    },
+    {
+      partOfSpeech: "part-of-speech/noun",
+      spelling: "topics",
+      scope: "page-type/learn-everything-topic",
+    },
+  ],
   extends: ["page-type/page"],
   parts: [
     "calendar-date-property/topic-scored-on",
