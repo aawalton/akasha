@@ -78,11 +78,15 @@ export function markShapeReady(reg: AcquireRegistry, shapeKey: string): undefine
   for (const resolve of resolvers) resolve()
 }
 
+function seededCovers(reg: AcquireRegistry, entry: ShapeAcquisition | undefined): boolean {
+  return reg.seededReady && entry?.descriptor.named === undefined
+}
+
 export function markSeededReady(reg: AcquireRegistry): undefined {
   if (reg.seededReady) return
   reg.seededReady = true
   for (const entry of reg.shapes.values()) {
-    if (entry.readyResolvers.length === 0) continue
+    if (entry.readyResolvers.length === 0 || !seededCovers(reg, entry)) continue
     const resolvers = entry.readyResolvers
     entry.readyResolvers = []
     for (const resolve of resolvers) resolve()
@@ -90,13 +94,14 @@ export function markSeededReady(reg: AcquireRegistry): undefined {
 }
 
 export function isShapeReady(reg: AcquireRegistry, shapeKey: string): boolean {
-  if (reg.seededReady) return true
-  return reg.shapes.get(shapeKey)?.ready ?? false
+  const entry = reg.shapes.get(shapeKey)
+  if (seededCovers(reg, entry)) return true
+  return entry?.ready ?? false
 }
 
 export function whenShapeReady(reg: AcquireRegistry, shapeKey: string): Promise<void> {
-  if (reg.seededReady) return Promise.resolve()
   const entry = reg.shapes.get(shapeKey)
+  if (seededCovers(reg, entry)) return Promise.resolve()
   if (entry === undefined || entry.ready) return Promise.resolve()
   return new Promise<void>((resolve) => {
     entry.readyResolvers = [

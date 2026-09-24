@@ -6,4 +6,14 @@ export const acquire = {
   slug: "acquire",
   definition: "the record of which shapes and slugs are asked for and which are ready",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shape naming pages is ready only once its own answer arrives.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Rows kept from an earlier visit make every other shape ready at once.",
+    },
+  ],
 } as const satisfies Module
