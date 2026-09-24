@@ -87,10 +87,16 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/harmony/harmony.temper-jewelry-trait.ts","id":"019e5b97-6d8a-77b7-8303-2086b16d9817"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/healthy/grades/jewelry-trait-healthy-epic.temper-gear-grade.ts","id":"01a0d3e9-c49b-789e-b5ef-776915329b93"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/healthy/healthy.temper-jewelry-trait.ts","id":"019e5b97-6d8c-7e89-9ce9-e8824281f2c5"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/infused/grades/jewelry-trait-infused-epic.temper-gear-grade.ts","id":"01a0d3ea-2f9c-7960-bccf-3ad1bad7e4e5"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/infused/infused.temper-jewelry-trait.ts","id":"019e5b97-6d8f-7b57-8e9e-8816c82ecefd"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/protective/grades/jewelry-trait-protective-epic.temper-gear-grade.ts","id":"01a0d3ea-60ec-7552-867d-ae0f0617d189"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/protective/protective.temper-jewelry-trait.ts","id":"019e5b97-6d92-72c7-9fd1-340ac0828a70"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/robust/grades/jewelry-trait-robust-epic.temper-gear-grade.ts","id":"01a0d3ea-9280-718b-933a-83f7199f9eee"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/robust/robust.temper-jewelry-trait.ts","id":"019e5b97-6d93-7d2a-a0f9-b218db3d4370"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/swift/grades/jewelry-trait-swift-epic.temper-gear-grade.ts","id":"01a0d3ea-c3cb-7b77-9cbf-b795a8649efe"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/swift/swift.temper-jewelry-trait.ts","id":"019e5b97-6d95-75b3-a895-c8f82be3f293"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/grades/jewelry-trait-triune-epic-health-maximum.temper-gear-grade.ts","id":"01a0d3ea-f8ba-7357-9006-ff5b0f092334"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/grades/jewelry-trait-triune-epic-magicka-maximum.temper-gear-grade.ts","id":"01a0d3eb-23e5-78d8-baa5-15a9ccd87cb2"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/triune/triune.temper-jewelry-trait.ts","id":"019e5b97-6d96-7db5-902b-64e6d928282a"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/crushing/crushing.temper-weapon-enchant.ts","id":"019e5c0d-dcf2-7ea9-8369-59125d45ba78"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-enchant/pages/crushing/grades/weapon-enchant-crushing-epic-penetration-physical.temper-gear-grade.ts","id":"01a0d3e7-41ec-7f1e-988b-748812f7d142"}

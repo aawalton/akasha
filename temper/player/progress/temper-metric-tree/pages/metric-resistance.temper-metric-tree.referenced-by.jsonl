@@ -23,6 +23,11 @@
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/frost-resist/grades/jewelry-enchant-frost-resist-legendary.temper-gear-grade.ts","id":"01a0d3e9-05f2-744b-b675-394e87d6c211"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/frost-resist/grades/jewelry-enchant-frost-resist-normal.temper-gear-grade.ts","id":"01a0d3e8-f4f9-73d8-bf86-54348006e64c"}
 {"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-enchant/pages/frost-resist/grades/jewelry-enchant-frost-resist-superior.temper-gear-grade.ts","id":"01a0d3e8-fd20-7b14-8bd4-6ac6d5c9c023"}
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/protective/grades/jewelry-trait-protective-epic.temper-gear-grade.ts","id":"01a0d3ea-60ec-7552-867d-ae0f0617d189"}
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/protective/grades/jewelry-trait-protective-fine.temper-gear-grade.ts","id":"01a0d3ea-698e-769a-8864-085c5e21172d"}
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/protective/grades/jewelry-trait-protective-legendary.temper-gear-grade.ts","id":"01a0d3ea-89e2-7d57-8f1e-f8b5028e5c1b"}
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/protective/grades/jewelry-trait-protective-normal.temper-gear-grade.ts","id":"01a0d3ea-7032-7d86-bba0-317e83c7ecee"}
+{"propertySlug":"grade-metric","path":"temper/catalog/gear/temper-jewelry-trait/pages/protective/grades/jewelry-trait-protective-superior.temper-gear-grade.ts","id":"01a0d3ea-818e-7048-9b6f-2b83126cd17a"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-resistance-generic.temper-metric-tree.ts","id":"019e2fcd-5a21-7a3c-80ca-f24530e79cb9"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-resistance-physical.temper-metric-tree.ts","id":"019e2fcd-5a22-7eca-b412-e966c5ab0a2b"}
 {"propertySlug":"metric-tree-parent","path":"temper/player/progress/temper-metric-tree/pages/metric-resistance-spell.temper-metric-tree.ts","id":"019e2fcd-5a27-7b25-bbf6-b8fbcbde819e"}
