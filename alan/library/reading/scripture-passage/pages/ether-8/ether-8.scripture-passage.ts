@@ -5,6 +5,7 @@ export const ether8 = {
   type: "page-type/scripture-passage",
   slug: "ether-8",
   title: "Ether 8",
+  partOfCollections: ["scripture-collection/ether"],
   book: "Ether",
   translation: "book-of-mormon",
   position: 221,

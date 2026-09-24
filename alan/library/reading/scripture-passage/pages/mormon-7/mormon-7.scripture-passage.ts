@@ -5,6 +5,7 @@ export const mormon7 = {
   type: "page-type/scripture-passage",
   slug: "mormon-7",
   title: "Mormon 7",
+  partOfCollections: ["scripture-collection/mormon"],
   book: "Mormon",
   translation: "book-of-mormon",
   position: 211,

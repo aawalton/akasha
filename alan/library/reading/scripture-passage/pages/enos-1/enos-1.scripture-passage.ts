@@ -5,6 +5,7 @@ export const enos1 = {
   type: "page-type/scripture-passage",
   slug: "enos-1",
   title: "Enos 1",
+  partOfCollections: ["scripture-collection/enos"],
   book: "Enos",
   translation: "book-of-mormon",
   position: 62,

@@ -5,6 +5,7 @@ export const jarom1 = {
   type: "page-type/scripture-passage",
   slug: "jarom-1",
   title: "Jarom 1",
+  partOfCollections: ["scripture-collection/jarom"],
   book: "Jarom",
   translation: "book-of-mormon",
   position: 63,

@@ -5,6 +5,7 @@ export const scripturePassage1Nephi2 = {
   type: "page-type/scripture-passage",
   slug: "scripture-passage-1-nephi-2",
   title: "1 Nephi 2",
+  partOfCollections: ["scripture-collection/scripture-collection-1-nephi"],
   book: "1 Nephi",
   translation: "book-of-mormon",
   position: 1,

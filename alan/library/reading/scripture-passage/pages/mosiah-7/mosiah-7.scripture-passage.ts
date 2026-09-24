@@ -5,6 +5,7 @@ export const mosiah7 = {
   type: "page-type/scripture-passage",
   slug: "mosiah-7",
   title: "Mosiah 7",
+  partOfCollections: ["scripture-collection/mosiah"],
   book: "Mosiah",
   translation: "book-of-mormon",
   position: 72,

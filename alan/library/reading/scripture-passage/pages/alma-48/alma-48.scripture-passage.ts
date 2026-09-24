@@ -5,6 +5,7 @@ export const alma48 = {
   type: "page-type/scripture-passage",
   slug: "alma-48",
   title: "Alma 48",
+  partOfCollections: ["scripture-collection/alma"],
   book: "Alma",
   translation: "book-of-mormon",
   position: 142,

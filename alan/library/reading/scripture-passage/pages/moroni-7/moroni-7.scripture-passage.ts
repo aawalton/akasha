@@ -5,6 +5,7 @@ export const moroni7 = {
   type: "page-type/scripture-passage",
   slug: "moroni-7",
   title: "Moroni 7",
+  partOfCollections: ["scripture-collection/moroni"],
   book: "Moroni",
   translation: "book-of-mormon",
   position: 235,

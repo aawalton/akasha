@@ -5,6 +5,7 @@ export const jacob2 = {
   type: "page-type/scripture-passage",
   slug: "jacob-2",
   title: "Jacob 2",
+  partOfCollections: ["scripture-collection/jacob"],
   book: "Jacob",
   translation: "book-of-mormon",
   position: 56,

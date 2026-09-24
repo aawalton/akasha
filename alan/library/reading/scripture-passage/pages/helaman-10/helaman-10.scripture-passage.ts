@@ -5,6 +5,7 @@ export const helaman10 = {
   type: "page-type/scripture-passage",
   slug: "helaman-10",
   title: "Helaman 10",
+  partOfCollections: ["scripture-collection/helaman"],
   book: "Helaman",
   translation: "book-of-mormon",
   position: 167,
