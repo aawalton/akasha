@@ -40,6 +40,7 @@ export const agent = {
     "page-type/role",
     "page-type/seat",
     "page-type/subagent",
+    "relation-property/assignment-game",
     "relation-property/principal-seat-name",
     "service-workstation/sweep-stray-processes",
     "service-workstation/sweep-subagent-pages",

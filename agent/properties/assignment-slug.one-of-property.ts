@@ -5,12 +5,16 @@ export const assignmentSlug = {
   type: "page-type/one-of-property",
   slug: "assignment-slug",
   propertySlug: "assignment-slug",
-  definition: "the domain or initiative whose work a seat answers to",
-  members: ["relation-property/page-domain", "relation-property/initiative"],
+  definition: "the domain, initiative or game whose work a seat answers to",
+  members: [
+    "relation-property/page-domain",
+    "relation-property/initiative",
+    "relation-property/assignment-game",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An assignment naming no page type is looked for under both members.",
+      statement: "An assignment naming no page type is looked for under every member.",
     },
     {
       decisionKind: "decision-kind/departure",

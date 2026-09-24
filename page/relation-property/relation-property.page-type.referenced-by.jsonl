@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/message/properties/agent-message-to.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/model/account/properties/provider.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/model/test/properties/model-family.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/properties/assignment-game.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/properties/principal-seat-name.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/log-day/properties/log-source.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/person.relation-property.ts"}

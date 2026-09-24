@@ -18,4 +18,5 @@
 {"propertySlug":"import","fileName":"game.page-type.types.ts","path":"story/game/pages/the-tower/the-tower.game.ts"}
 {"propertySlug":"import","fileName":"game.page-type.types.ts","path":"story/game/pages/the-violet-hour/the-violet-hour.game.ts"}
 {"propertySlug":"parts","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
+{"propertySlug":"target-page-type","path":"agent/properties/assignment-game.relation-property.ts","id":"01a0d483-495d-76a8-914a-46aea985626c"}
 {"propertySlug":"target-page-type","path":"story/game/properties/holding-game.relation-property.ts","id":"01a0c632-2e35-7453-98a5-6717ddf25829"}
