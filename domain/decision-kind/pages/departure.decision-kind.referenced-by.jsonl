@@ -937,6 +937,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/readout-enabled.boolean-property.ts","id":"01a063bd-a526-7356-a7bd-00f589dcdc18"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/properties/wire-key.text-property.ts","id":"01a05446-e768-7d56-aeef-7ab30139e500"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
+{"propertySlug":"decision-kind","path":"alan/harness/readout/scale/pages/gap-count.readout-scale.ts","id":"01a0d4e6-eace-79d8-bdb3-75e175ebd6d7"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/scale/pages/surplus-hours.readout-scale.ts","id":"01a05fc3-145a-7dca-83d9-5316786fa83c"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/scale/readout-scale.page-type.ts","id":"01a05446-e75f-756a-b8d9-4288a350957f"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/stoplight/stoplight.domain.ts","id":"01a0655b-9cdc-7c65-845c-0fcbf73b73dc"}

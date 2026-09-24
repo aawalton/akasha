@@ -17,6 +17,7 @@ export const readoutScale = {
     "readout-scale/backlog-count",
     "readout-scale/capacity-hours",
     "readout-scale/daily-inbox",
+    "readout-scale/gap-count",
     "readout-scale/green-day-units",
     "readout-scale/live-count",
     "readout-scale/lowest-inbox-count",

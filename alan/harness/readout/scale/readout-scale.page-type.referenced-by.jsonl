@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/backlog-count.readout-scale.ts"}
 {"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/capacity-hours.readout-scale.ts"}
 {"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/daily-inbox.readout-scale.ts"}
+{"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/gap-count.readout-scale.ts"}
 {"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/green-day-units.readout-scale.ts"}
 {"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/live-count.readout-scale.ts"}
 {"propertySlug":"import","fileName":"readout-scale.page-type.types.ts","path":"alan/harness/readout/scale/pages/lowest-inbox-count.readout-scale.ts"}
