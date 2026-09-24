@@ -12,10 +12,6 @@ export const esoAntiquitySetId = {
       decisionKind: "decision-kind/departure",
       statement: "A lead set is numbered apart from the item set an item belongs to.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing refuses an antiquity row stating `eso-set-id`.",
-    },
   ],
   types: "ts",
 } as const satisfies NumberProperty
