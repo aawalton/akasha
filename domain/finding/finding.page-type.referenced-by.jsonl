@@ -3,7 +3,6 @@
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-file-whose-line-is-longer-than-one-answer-can-never-be-changed.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-landing-files-no-index-entry-for-a-page-it-only-made-referenced.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-reaches-the-running-machine-before-the-code-that-reads-it-does.finding.ts"}
-{"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-page-type-slug-borrowed-as-a-test-fixture-outlives-the-page-type.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-shape-memo-with-no-invalidation-breaks-only-the-readers-that-straddle-a-rename.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/a-web-app-reads-a-page-type-shape-from-the-workstation-page-service.finding.ts"}
 {"propertySlug":"import","fileName":"finding.page-type.types.ts","path":"domain/finding/pages/an-error-page-renders-with-no-nonce-so-its-own-scripts-are-blocked.finding.ts"}

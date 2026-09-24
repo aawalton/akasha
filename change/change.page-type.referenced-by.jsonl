@@ -3,6 +3,5 @@
 {"propertySlug":"extends-type","path":"change/mechanical/change-mechanical.page-type.ts","id":"01a078e8-e0c0-7001-9d36-808d02d6c285"}
 {"propertySlug":"import","fileName":"change.page-type.types.ts","path":"change/agent/change-agent.page-type.types.ts"}
 {"propertySlug":"import","fileName":"change.page-type.types.ts","path":"change/mechanical/change-mechanical.page-type.types.ts"}
-{"propertySlug":"page-domain","path":"domain/finding/pages/a-page-type-slug-borrowed-as-a-test-fixture-outlives-the-page-type.finding.ts","id":"01a0c4e7-139b-79a7-ab5e-b08e8234f35e"}
 {"propertySlug":"parts","path":"akasha.domain.ts","id":"01a049e9-651c-7000-b6c1-0d4d87c8b4c5"}
 {"propertySlug":"runner-reached","path":"change/runner/pages/test-change-running/test-change-running.change-runner.ts","id":"01a09ba5-d4ae-7f8d-a772-923fd8403538"}
