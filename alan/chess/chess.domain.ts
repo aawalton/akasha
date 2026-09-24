@@ -4,7 +4,7 @@ export const chess = {
   id: "01a05be1-cb07-74d3-b8ca-8a6e71097f9b",
   type: "page-type/domain",
   slug: "chess",
-  definition: "a chess engine spoken to as a program, and a game played out through it",
+  definition: "chess against a program",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "chess" }],
   parts: [
     "module/chess-board",
