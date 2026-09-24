@@ -6,7 +6,10 @@ Then the letters.
 
 They assemble in the air a foot off your face, pale and frameless, a pane the frost-color of a cold window, text writing itself across it in a hand that is not a hand. It does not ask. Something passes over you — through you — a cool flat attention laid down your whole length like a tailor's tape, and the pane fills as it reads.
 
-{{system}}
+:::status-assessment
+name: None
+level: 1
+:::
 
 It gives you back to yourself in a column of quiet facts, and you find you can read them untaught — where you are strong, where you are thin. Low on the pane, one line where a value should sit stays blank. Not zero, not hidden behind anything — the line simply has nothing in it. Set apart from the rest, two facts that are not about you: the name of the place — the Harem Hotel — and its floor, and the floor is the first.
 

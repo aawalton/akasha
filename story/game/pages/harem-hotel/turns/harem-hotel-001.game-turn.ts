@@ -6,5 +6,4 @@ export const haremHotel001 = {
   slug: "harem-hotel-001",
   game: "game/harem-hotel",
   number: 1,
-  windows: [{ kind: "status-assessment", name: "None", level: 1 }],
 } as const satisfies GameTurn
