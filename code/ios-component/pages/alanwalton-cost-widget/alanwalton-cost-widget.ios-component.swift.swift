@@ -50,7 +50,8 @@ struct CostHomeView: View {
             nextTier: cost?.nextTier,
             progress: cost?.progress,
             until: CostCountdown.reaching(cost?.coloredWith, entry.date),
-            countdown: countdown
+            countdown: countdown,
+            noSignal: costNoSignal(entry.state)
         )
     }
 }

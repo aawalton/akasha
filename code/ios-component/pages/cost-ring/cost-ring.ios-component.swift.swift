@@ -104,3 +104,8 @@ func costCaption(_ state: FeedState<CostResponse>) -> String? {
     guard case .loaded(let payload) = state else { return nil }
     return payload.cost?.label
 }
+
+func costNoSignal(_ state: FeedState<CostResponse>) -> Bool {
+    guard case .loaded(let payload) = state else { return false }
+    return payload.cost?.noSignal ?? false
+}
