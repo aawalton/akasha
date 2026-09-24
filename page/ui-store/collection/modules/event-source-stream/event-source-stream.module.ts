@@ -6,7 +6,6 @@ export const eventSourceStream = {
   slug: "event-source-stream",
   definition: "the stream of named events a browser's event source opens",
   code: "ts",
-  runsInABrowser: true,
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
