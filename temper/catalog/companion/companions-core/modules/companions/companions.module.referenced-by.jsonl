@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts"}
+{"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.test.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/watcher/modules/watcher-import-completion/watcher-import-completion.module.code.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/web/.server/companion-import/companion-import.module.code.ts"}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/web/modules/companion-actions/companion-actions.module.code.ts"}

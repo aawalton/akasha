@@ -55,6 +55,14 @@ export const watcherImportCompanions = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A progress page names its companion by the address of the companion's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A progress page takes the companion's id as its slug and its name as its title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page here is written by `upsertPage` unless the caller states another writer.",
     },
     {

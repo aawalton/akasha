@@ -1,5 +1,6 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { upsertPage } from "akasha/page/access/modules/upsert/upsert.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { loadCompanionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts"
 import { companionRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-roles/companion-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
@@ -8,6 +9,7 @@ import {
   companions,
   getCompanionIdByDefId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 import { readFirstAccountWide } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import {
@@ -164,14 +166,15 @@ async function writeCompanionProgressPages(
   await resolveAccountPageId(userId, upsert)
   const accountPage = await addressOf(userId)
 
-  for (const companionId of COMPANION_IDS_WITH_DEF_ID) {
+  for (const id of COMPANION_IDS_WITH_DEF_ID) {
+    const companionId = namedAs(temperEsoCompanion.slug, id, null)
     await upsert({
       pageTypeSlug: COMPANION_PROGRESS_PAGE_TYPE_SLUG,
       where: [
         { key: "accountPage", eq: accountPage },
         { key: "companionId", eq: companionId },
       ],
-      set: { accountPage, companionId },
+      set: { slug: id, title: companions.data[id].name, accountPage, companionId },
       select: ["id"],
     })
   }

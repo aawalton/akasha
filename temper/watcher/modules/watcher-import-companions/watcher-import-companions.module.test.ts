@@ -1,8 +1,11 @@
 import { expect, test } from "bun:test"
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { createNewCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
+import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
 import {
   COMPANION_IDS_WITH_DEF_ID,
   type CompanionImportPorts,
@@ -238,11 +241,36 @@ test("one run writes the account page and then a progress page per companion", a
     "temper-account",
     ...COMPANION_IDS_WITH_DEF_ID.map(() => "temper-companion-progress"),
   ])
-  expect(writes.slice(1).map(companionIdOf)).toEqual([...COMPANION_IDS_WITH_DEF_ID])
   for (const write of writes.slice(1)) {
     expect(asRecord(write.set)?.accountPage).toBe(ADDRESS)
     expect(write.where).toContainEqual({ key: "accountPage", eq: ADDRESS })
   }
+})
+
+test("a progress page names its companion by the address of the companion's page", async () => {
+  const { ports, writes } = recordingPorts()
+  await runImportCompanions(THREE_ENTRY_FILE, noSupabase(), { userId: "alan" }, ports)
+  const addresses = COMPANION_IDS_WITH_DEF_ID.map((id) =>
+    namedAs(temperEsoCompanion.slug, id, null)
+  )
+  expect(writes.slice(1).map(companionIdOf)).toEqual(addresses)
+  expect(writes.slice(1).map((write) => write.where)).toEqual(
+    addresses.map((address) => [
+      { key: "accountPage", eq: ADDRESS },
+      { key: "companionId", eq: address },
+    ])
+  )
+})
+
+test("a progress page takes the companion's id as its slug and its name as its title", async () => {
+  const { ports, writes } = recordingPorts()
+  await runImportCompanions(THREE_ENTRY_FILE, noSupabase(), { userId: "alan" }, ports)
+  expect(writes.slice(1).map((write) => asRecord(write.set)?.slug)).toEqual([
+    ...COMPANION_IDS_WITH_DEF_ID,
+  ])
+  expect(writes.slice(1).map((write) => asRecord(write.set)?.title)).toEqual(
+    COMPANION_IDS_WITH_DEF_ID.map((id) => companions.data[id].name)
+  )
 })
 
 test("a file naming no companion the game knows writes nothing and reports nothing", async () => {
