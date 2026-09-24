@@ -17,5 +17,8 @@ export const emberUiTesting = {
       statement:
         "An in-game window is made in the web's visual language, and every exception is stated.",
     },
+    {
+      statement: "Every Temper window is framed the same way.",
+    },
   ],
 } as const satisfies Initiative
