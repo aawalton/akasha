@@ -24,6 +24,12 @@ export function gapRowsAt(): string {
   return ROWS_AT
 }
 
+export function gapCountIn(root: string): number {
+  const was = textOf(diskAt(root, ROWS_AT))
+  if (was === null) return gapsIn(root).length
+  return was.split("\n").filter((line) => line !== "").length
+}
+
 function heldIn(body: string): Map<string, Gapped[]> {
   const held = new Map<string, Gapped[]>()
   for (const line of body.split("\n")) {

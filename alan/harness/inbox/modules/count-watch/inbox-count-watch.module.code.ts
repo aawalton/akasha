@@ -1,4 +1,5 @@
-import { join } from "node:path"
+import { dirname, join } from "node:path"
+import { gapRowsAt } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
 import { getEsoDayStr } from "akasha/alan/harness/day-boundary/modules/eso-day/eso-day.module.code.ts"
 import {
   pollTaskCounts,
@@ -57,12 +58,17 @@ export const NO_SITE_NAMED =
 export type WatchLogger = (level: "INFO" | "ERROR", message: string) => void
 
 export function countsSaid(day: string, counts: TaskCounts): string {
-  return `day=${day} tasks=${counts.tasks} temperTasks=${counts.temperTasks} findings=${counts.findings}`
+  return (
+    `day=${day} tasks=${counts.tasks} temperTasks=${counts.temperTasks} ` +
+    `findings=${counts.findings} gaps=${counts.gaps}`
+  )
 }
 
 export function foldersFollowedIn(root: string): ReadonlySet<string> {
   const folders = new Set<string>(
-    [TO_DOS_AT, TEMPER_TASKS_AT, FINDINGS_AT, FINDING_TYPE_AT].map((at) => join(root, at))
+    [TO_DOS_AT, TEMPER_TASKS_AT, FINDINGS_AT, FINDING_TYPE_AT, dirname(gapRowsAt())].map((at) =>
+      join(root, at)
+    )
   )
   for (const slug of COUNTED_TYPES) {
     const pages = everyOfType(root, slug).map((one) => join(root, one.path))
@@ -80,7 +86,12 @@ export async function carryCounts(
   counts: TaskCounts
 ): Promise<undefined> {
   await persistInboxCounts(
-    { tasks: counts.tasks, temperTasks: counts.temperTasks, findings: counts.findings },
+    {
+      tasks: counts.tasks,
+      temperTasks: counts.temperTasks,
+      findings: counts.findings,
+      gaps: counts.gaps,
+    },
     day,
     now
   )

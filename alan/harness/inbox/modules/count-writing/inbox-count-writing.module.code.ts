@@ -35,8 +35,9 @@ function buildAttrs(
     const count = counts[key]
     const countAttr = COUNT_ATTR[key]
     const clearedAttr = CLEARED_ATTR[key]
-    if (count === undefined || countAttr === undefined || clearedAttr === undefined) continue
+    if (count === undefined || countAttr === undefined) continue
     attrs[countAttr] = count
+    if (clearedAttr === undefined) continue
     attrs[clearedAttr] = truthy(row?.[clearedAttr]) || count === 0
   }
   return attrs

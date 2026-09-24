@@ -41,7 +41,11 @@ export const inboxCountPolling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The three counts read from the checkout are taken together on their own.",
+      statement: "The gaps are counted as the gaps panel counts them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The four counts read from the checkout are taken together on their own.",
     },
     {
       decisionKind: "decision-kind/constraint",

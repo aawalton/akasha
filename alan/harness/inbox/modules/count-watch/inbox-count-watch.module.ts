@@ -4,7 +4,7 @@ export const inboxCountWatch = {
   id: "01a079de-6d8f-7a3c-b51f-9a53ca155b81",
   type: "page-type/module",
   slug: "inbox-count-watch",
-  definition: "the task and finding counts kept current as pages land",
+  definition: "the task, finding and gap counts kept current as pages land",
   code: "ts",
   decisions: [
     {
@@ -88,6 +88,10 @@ export const inboxCountWatch = {
       decisionKind: "decision-kind/departure",
       statement:
         "The folder holding the finding page type is followed, so a findings folder coming back is seen.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder holding the filed gap rows is followed, so a gap landing is seen.",
     },
   ],
 } as const satisfies Module

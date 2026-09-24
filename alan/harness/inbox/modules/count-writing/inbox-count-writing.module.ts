@@ -36,6 +36,10 @@ export const inboxCountWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An inbox with no clearing key is written its count alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A day already marked cleared keeps that mark however high the count climbs after.",
     },

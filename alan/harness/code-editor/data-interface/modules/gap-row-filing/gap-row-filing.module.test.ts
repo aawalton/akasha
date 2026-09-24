@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
+  gapCountIn,
   gapRowsAt,
   gapsKept,
 } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
@@ -81,4 +82,20 @@ test("a page the change takes away loses its rows", () => {
   const said = gapsKept(changeOn(root, [ONE_AT], {}), readingIn(root))
 
   expect(said.gaps).toEqual([])
+})
+
+test("the gaps counted are the rows filed", () => {
+  const root = scratch.rootFor("akasha-gap-rows-")
+  filed(root, [
+    { at: ONE_AT, domain: "thing/one", place: 1, said: "the first gap" },
+    { at: TWO_AT, domain: "thing/two", place: 1, said: "the second gap" },
+  ])
+
+  expect(gapCountIn(root)).toBe(2)
+})
+
+test("a repository with no row filed counts the gaps its pages state", () => {
+  const root = scratch.rootFor("akasha-gap-rows-")
+
+  expect(gapCountIn(root)).toBe(0)
 })

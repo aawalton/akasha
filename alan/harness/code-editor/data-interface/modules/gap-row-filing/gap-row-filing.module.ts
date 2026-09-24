@@ -34,6 +34,11 @@ export const gapRowFiling = {
       statement: "A page stating no gap holds no row, so a page is read by the gaps it states.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The gaps counted are the rows filed, so the count is the one the gaps panel hangs.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file.",
     },
