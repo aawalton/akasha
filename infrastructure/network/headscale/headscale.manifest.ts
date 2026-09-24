@@ -12,6 +12,9 @@ export const headscale = {
     "module/certificate-rolling",
   ],
   code: "ts",
+  minCpuMillicores: 50,
+  minMemoryMb: 256,
+  killMemoryMb: 256,
   generatedDirectory: true,
   decisions: [
     {

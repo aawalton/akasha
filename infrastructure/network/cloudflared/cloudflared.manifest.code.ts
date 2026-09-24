@@ -1,5 +1,6 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
 import { configChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/config-checksum/config-checksum.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import {
   HOSTNAME_KEY,
   workloadClassMemberSelector,
@@ -7,6 +8,7 @@ import {
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { placedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
 import { tunnelConfigData } from "akasha/infrastructure/cluster/manifest/modules/tunnel-config/tunnel-config.module.code.ts"
+import { cloudflared as page } from "akasha/infrastructure/network/cloudflared/cloudflared.manifest.ts"
 import { cloudflared } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/cloudflared/cloudflared.service-cluster.ts"
 
 const NAMESPACE = cloudflared.namespace
@@ -98,10 +100,7 @@ function deploymentYaml(data: Readonly<Record<string, string>>): string {
                 { name: "config", mountPath: "/etc/cloudflared/config", readOnly: true },
                 { name: "creds", mountPath: "/etc/cloudflared/creds", readOnly: true },
               ],
-              resources: {
-                requests: { cpu: "30m", memory: "256Mi" },
-                limits: { memory: "256Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 65532,

@@ -2,6 +2,12 @@
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"alan/requests-web/alanwalton-requests/alanwalton-requests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"alan/web/alanwalton-web/alanwalton-web.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/network/ddns-headscale/ddns-headscale.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/network/headscale/headscale.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"product/smilingjenny/web/manifests/smilingjenny-web-manifests.manifest.code.ts","typed":false,"deferred":false}

@@ -2,12 +2,14 @@ import {
   synthMulti,
   synthOne,
 } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { HOSTNAME_KEY } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import {
   kubernetesLabels,
   selectorOf,
 } from "akasha/infrastructure/cluster/k8s-type/modules/labels/labels.module.code.ts"
+import { tailnetEgress as page } from "akasha/infrastructure/network/tailnet-egress/tailnet-egress.manifest.ts"
 import { tailnetEgress } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/tailnet-egress/tailnet-egress.service-cluster.ts"
 
 const NAMESPACE = tailnetEgress.namespace
@@ -134,10 +136,7 @@ function deploymentYaml(): string {
                 { name: "tmp", mountPath: "/tmp" },
                 { name: "run", mountPath: "/run" },
               ],
-              resources: {
-                requests: { cpu: "50m", memory: "512Mi" },
-                limits: { memory: "512Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsUser: 0,
                 readOnlyRootFilesystem: true,

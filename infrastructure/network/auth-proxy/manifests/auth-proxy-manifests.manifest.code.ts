@@ -1,4 +1,5 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import {
   HOSTNAME_KEY,
   workloadClassMemberSelector,
@@ -6,6 +7,7 @@ import {
 import { synthNamespaceDeploymentService } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
 import { authProxy as authProxyImage } from "akasha/infrastructure/container-image/dockerfile/built-image/auth-proxy/auth-proxy.built-image.ts"
 import { refOf } from "akasha/infrastructure/container-image/modules/image-ref/image-ref.module.code.ts"
+import { authProxyManifests as page } from "akasha/infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.ts"
 import { authProxy } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/auth-proxy/auth-proxy.service-cluster.ts"
 
 const NAMESPACE = authProxy.namespace
@@ -99,10 +101,7 @@ function deploymentYaml(): string {
               ],
               envFrom: [{ secretRef: { name: SECRETS_NAME } }],
               volumeMounts: [{ name: "tmp", mountPath: "/tmp" }],
-              resources: {
-                requests: { cpu: "50m", memory: "2Gi" },
-                limits: { cpu: "500m", memory: "2Gi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 1000,

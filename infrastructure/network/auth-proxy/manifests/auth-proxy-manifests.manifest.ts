@@ -6,6 +6,10 @@ export const authProxyManifests = {
   slug: "auth-proxy-manifests",
   definition: "the namespace, the deployment reading a request's session and the way in to it",
   code: "ts",
+  minCpuMillicores: 50,
+  maxCpuMillicores: 500,
+  minMemoryMb: 2048,
+  killMemoryMb: 2048,
   generatedDirectory: true,
   decisions: [
     {

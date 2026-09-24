@@ -37,6 +37,7 @@ COPY --link git/modules/capping ./git/modules/capping
 COPY --link git/modules/dir ./git/modules/dir
 COPY --link infrastructure/cluster/k8s-type/manifest ./infrastructure/cluster/k8s-type/manifest
 COPY --link infrastructure/cluster/k8s-type/modules/cdk8s-synth ./infrastructure/cluster/k8s-type/modules/cdk8s-synth
+COPY --link infrastructure/cluster/k8s-type/modules/container-resources ./infrastructure/cluster/k8s-type/modules/container-resources
 COPY --link infrastructure/cluster/k8s-type/modules/hostnames ./infrastructure/cluster/k8s-type/modules/hostnames
 COPY --link infrastructure/cluster/k8s-type/modules/k8s-namespace ./infrastructure/cluster/k8s-type/modules/k8s-namespace
 COPY --link infrastructure/cluster/k8s-type/modules/manifest-composing ./infrastructure/cluster/k8s-type/modules/manifest-composing
@@ -89,6 +90,7 @@ COPY --link --from=build /workspace/git/modules/capping ./git/modules/capping
 COPY --link --from=build /workspace/git/modules/dir ./git/modules/dir
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/manifest ./infrastructure/cluster/k8s-type/manifest
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/modules/cdk8s-synth ./infrastructure/cluster/k8s-type/modules/cdk8s-synth
+COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/modules/container-resources ./infrastructure/cluster/k8s-type/modules/container-resources
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/modules/hostnames ./infrastructure/cluster/k8s-type/modules/hostnames
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/modules/k8s-namespace ./infrastructure/cluster/k8s-type/modules/k8s-namespace
 COPY --link --from=build /workspace/infrastructure/cluster/k8s-type/modules/manifest-composing ./infrastructure/cluster/k8s-type/modules/manifest-composing

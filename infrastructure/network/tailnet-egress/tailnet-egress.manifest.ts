@@ -7,6 +7,9 @@ export const tailnetEgress = {
   definition:
     "the deployment, service and policies of the proxy carrying traffic out over the private network",
   code: "ts",
+  minCpuMillicores: 50,
+  minMemoryMb: 512,
+  killMemoryMb: 512,
   generatedDirectory: true,
   decisions: [
     {

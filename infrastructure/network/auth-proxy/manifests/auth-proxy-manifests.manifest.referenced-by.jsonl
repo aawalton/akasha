@@ -1,2 +1,3 @@
+{"propertySlug":"import","fileName":"auth-proxy-manifests.manifest.ts","path":"infrastructure/network/auth-proxy/manifests/auth-proxy-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/network/auth-proxy/auth-proxy.domain.ts","id":"01a06864-a443-7933-9156-35c26aacdfcf"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/auth-proxy/auth-proxy.service-cluster.ts","id":"01a06863-8e7c-7a70-a620-0a4edd125d51"}

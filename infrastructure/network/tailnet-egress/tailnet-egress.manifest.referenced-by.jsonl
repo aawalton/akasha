@@ -1,2 +1,3 @@
+{"propertySlug":"import","fileName":"tailnet-egress.manifest.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/network/network.domain.ts","id":"01a0658b-0f02-7e55-94d1-d612c0ed6115"}
 {"propertySlug":"service-manifest","path":"infrastructure/service/akasha-service/service-cluster/pages/tailnet-egress/tailnet-egress.service-cluster.ts","id":"01a06812-2381-7f3f-ab43-4484649e98c0"}

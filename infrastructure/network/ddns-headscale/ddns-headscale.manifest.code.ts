@@ -1,5 +1,7 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import { synthNamespaceCronjob } from "akasha/infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.code.ts"
+import { ddnsHeadscale as page } from "akasha/infrastructure/network/ddns-headscale/ddns-headscale.manifest.ts"
 import { ddnsHeadscale } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/ddns-headscale/ddns-headscale.service-cluster.ts"
 
 const NAMESPACE = ddnsHeadscale.namespace
@@ -128,10 +130,7 @@ function cronjobYaml(): string {
                     },
                   ],
                   command: ["/bin/sh", "-c", DDNS_SCRIPT],
-                  resources: {
-                    requests: { cpu: "10m", memory: "64Mi" },
-                    limits: { memory: "64Mi" },
-                  },
+                  resources: resourcesOf(page),
                   securityContext: {
                     runAsNonRoot: true,
                     runAsUser: 1000,

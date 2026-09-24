@@ -1,10 +1,12 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import {
   NAMESPACE,
   SUBNET_ROUTER_LABELS,
   SUBNET_ROUTER_SELECTOR_LABELS,
   TAILSCALE_IMAGE,
 } from "akasha/infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts"
+import { talosSubnetRouter as page } from "akasha/infrastructure/network/talos-subnet-router/talos-subnet-router.manifest.ts"
 
 function subnetRouterDeploymentYaml(): string {
   return synthOne(NAMESPACE, "subnet-router-deployment", {
@@ -54,10 +56,7 @@ function subnetRouterDeploymentYaml(): string {
                 { name: "tmp", mountPath: "/tmp" },
                 { name: "run", mountPath: "/run" },
               ],
-              resources: {
-                requests: { cpu: "50m", memory: "1Gi" },
-                limits: { memory: "1Gi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsUser: 0,
                 readOnlyRootFilesystem: true,

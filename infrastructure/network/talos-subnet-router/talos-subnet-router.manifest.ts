@@ -6,5 +6,8 @@ export const talosSubnetRouter = {
   slug: "talos-subnet-router",
   definition: "the deployment carrying private network traffic to the cluster nodes' addresses",
   code: "ts",
+  minCpuMillicores: 50,
+  minMemoryMb: 1024,
+  killMemoryMb: 1024,
   generatedDirectory: true,
 } as const satisfies Manifest

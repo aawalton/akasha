@@ -6,6 +6,9 @@ export const cloudflared = {
   slug: "cloudflared",
   definition: "the namespace, config and deployment with the tunnel traffic takes to the cluster",
   code: "ts",
+  minCpuMillicores: 30,
+  minMemoryMb: 256,
+  killMemoryMb: 256,
   generatedDirectory: true,
   decisions: [
     {

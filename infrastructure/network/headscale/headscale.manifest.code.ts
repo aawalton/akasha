@@ -1,10 +1,12 @@
 import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesOf } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
 import {
   HOSTNAME_KEY,
   workloadClassMemberSelector,
 } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
 import { mintedSecretChecksum } from "akasha/infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts"
+import { headscale as page } from "akasha/infrastructure/network/headscale/headscale.manifest.ts"
 import {
   type CertificateRolled,
   certificateRollingYaml,
@@ -145,10 +147,7 @@ function statefulsetYaml(): string {
                 { name: "data", mountPath: "/var/lib/headscale" },
                 { name: "run", mountPath: "/var/run/headscale" },
               ],
-              resources: {
-                requests: { cpu: "50m", memory: "256Mi" },
-                limits: { memory: "256Mi" },
-              },
+              resources: resourcesOf(page),
               securityContext: {
                 runAsNonRoot: true,
                 runAsUser: 1000,
