@@ -10,7 +10,7 @@ import {
   retryWithBackoff,
   toError,
 } from "akasha/alan/collection/great-courses/modules/sync-outcome/sync-outcome.module.code.ts"
-import { JSDOM, VirtualConsole } from "jsdom"
+import { type Document, Window } from "happy-dom"
 
 const SOURCE_URL = "https://plus.thegreatcourses.com/allprograms"
 
@@ -23,22 +23,26 @@ function withoutStyleBlocks(html: string): string {
   return html.replace(STYLE_BLOCK, "")
 }
 
-async function fetchHtml(url: string): Promise<JSDOM> {
+async function fetchHtml(url: string): Promise<Window> {
   const response = await fetch(url, { headers: { "User-Agent": USER_AGENT } })
   if (!response.ok) {
     throw new Error(`Failed to fetch ${url}: ${response.status} ${response.statusText}`)
   }
   const landed = response.url === "" ? url : response.url
   const html = withoutStyleBlocks(await response.text())
-  const virtualConsole = new VirtualConsole()
-  virtualConsole.on("error", () => {})
-  virtualConsole.on("warn", () => {})
-  virtualConsole.on("info", () => {})
-  virtualConsole.on("log", () => {})
-  return new JSDOM(html, { url: landed, runScripts: "outside-only", virtualConsole })
+  const window = new Window({
+    url: landed,
+    settings: {
+      disableJavaScriptFileLoading: true,
+      disableCSSFileLoading: true,
+      navigation: { disableChildFrameNavigation: true, disableChildPageNavigation: true },
+    },
+  })
+  window.document.write(html)
+  return window
 }
 
-async function getCatalog(url: string): Promise<JSDOM> {
+async function getCatalog(url: string): Promise<Window> {
   return retryWithBackoff(() => fetchHtml(url)).catch((thrown) => {
     const err = toError(thrown)
     logError("Catalog fetch", "getCatalog", err, classifyError(err), { url })
@@ -62,15 +66,14 @@ export function extractExternalIdFromUrl(courseUrl: string): string {
   }
 }
 
-function getCourseList(dom: JSDOM): CourseList {
+function getCourseList(document: Document): CourseList {
   try {
-    const document = dom.window.document
     const courses: Course[] = []
 
     const courseList = document.querySelector(".course-list")
     if (!courseList) throw new Error("Could not find course list container")
 
-    const here = new URL(dom.window.document.URL)
+    const here = new URL(document.URL)
 
     for (const link of courseList.querySelectorAll("a")) {
       const href = link.getAttribute("href")
@@ -93,9 +96,8 @@ function getCourseList(dom: JSDOM): CourseList {
   }
 }
 
-function getSubjects(dom: JSDOM): SubjectList {
+function getSubjects(document: Document): SubjectList {
   try {
-    const document = dom.window.document
     const here = new URL(document.URL)
     const subjects: Subject[] = []
 
@@ -143,12 +145,15 @@ export async function getCatalogData(): Promise<{
 }> {
   console.log("Fetching Great Courses catalog...")
   const catalog = await getCatalog(SOURCE_URL)
+  try {
+    console.log("Parsing course list...")
+    const courses = getCourseList(catalog.document)
 
-  console.log("Parsing course list...")
-  const courses = getCourseList(catalog)
+    console.log("Parsing subjects...")
+    const subjects = getSubjects(catalog.document)
 
-  console.log("Parsing subjects...")
-  const subjects = getSubjects(catalog)
-
-  return { courses, subjects }
+    return { courses, subjects }
+  } finally {
+    await catalog.happyDOM.close()
+  }
 }
