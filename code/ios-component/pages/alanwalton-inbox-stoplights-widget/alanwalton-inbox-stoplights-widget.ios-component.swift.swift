@@ -8,6 +8,7 @@ struct InboxStoplight: Decodable, Hashable {
     let nextTier: Tier?
     let progress: Double?
     let label: String?
+    var unit: String? = nil
     var figureOffScale: Bool? = nil
 }
 
@@ -36,20 +37,13 @@ struct InboxStoplightsResponse: Decodable {
     }
 }
 
-private let INBOX_LABEL: [String: String] = [
-    "email": "Email",
-    "tasks": "Tasks",
-    "temperTasks": "Temper",
-    "findings": "Findings",
-]
-
 private let INBOX_PREVIEW: [(
-    inbox: String, tier: Tier, reading: String, nextTier: Tier?, progress: Double?
+    inbox: String, tier: Tier, reading: String, nextTier: Tier?, progress: Double?, label: String
 )] = [
-    ("email", .blue, "0", nil, nil),
-    ("tasks", .yellow, "4", .blue, 0.5555555555555556),
-    ("temperTasks", .red, "23", .yellow, 0.8444444444444444),
-    ("findings", .yellow, "3", .blue, 0.7777777777777778),
+    ("email", .blue, "0", nil, nil, "Email"),
+    ("tasks", .yellow, "4", .blue, 0.5555555555555556, "Tasks"),
+    ("temperTasks", .red, "23", .yellow, 0.8444444444444444, "Temper"),
+    ("findings", .yellow, "3", .blue, 0.7777777777777778, "Findings"),
 ]
 
 enum InboxStoplightsFeed: WidgetFeed {
@@ -63,7 +57,7 @@ enum InboxStoplightsFeed: WidgetFeed {
                 reading: $0.reading,
                 nextTier: $0.nextTier,
                 progress: $0.progress,
-                label: nil,
+                label: $0.label,
                 figureOffScale: true
             )
         }
@@ -101,7 +95,7 @@ struct InboxHomeView: View {
                     reading: $0.reading,
                     nextTier: $0.nextTier,
                     progress: $0.progress,
-                    label: INBOX_LABEL[$0.inbox] ?? $0.inbox,
+                    label: $0.label ?? $0.inbox,
                     figureOffScale: $0.figureOffScale ?? false
                 )
             }

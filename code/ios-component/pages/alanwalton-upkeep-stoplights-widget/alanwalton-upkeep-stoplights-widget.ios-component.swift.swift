@@ -8,6 +8,7 @@ struct UpkeepStoplight: Decodable, Hashable {
     let nextTier: Tier?
     let progress: Double?
     let label: String?
+    var unit: String? = nil
     var figureOffScale: Bool? = nil
     var takenAt: String? = nil
     var fallsPerHour: Double? = nil

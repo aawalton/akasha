@@ -95,14 +95,14 @@ func cases(now: Date) -> [RenderCase] {
 
     let inbox = """
         {"stoplights":[\
-        {"inbox":"email","tier":"black","reading":"3.0k","nextTier":null,"progress":null,\
-        "figureOffScale":true},\
-        {"inbox":"tasks","tier":"blue","reading":"0","nextTier":null,"progress":null,\
-        "figureOffScale":true},\
-        {"inbox":"temperTasks","tier":"red","reading":"23","nextTier":"yellow",\
-        "progress":0.8444444444444444,"figureOffScale":true},\
-        {"inbox":"findings","tier":"yellow","reading":"3","nextTier":"blue",\
-        "progress":0.7777777777777778,"figureOffScale":true}]}
+        {"inbox":"email","label":"Email","unit":"messages","tier":"black","reading":"3.0k",\
+        "nextTier":null,"progress":null,"figureOffScale":true},\
+        {"inbox":"tasks","label":"Tasks","unit":"tasks","tier":"blue","reading":"0",\
+        "nextTier":null,"progress":null,"figureOffScale":true},\
+        {"inbox":"temperTasks","label":"Temper","unit":"tasks","tier":"red","reading":"23",\
+        "nextTier":"yellow","progress":0.8444444444444444,"figureOffScale":true},\
+        {"inbox":"findings","label":"Findings","unit":"findings","tier":"yellow","reading":"3",\
+        "nextTier":"blue","progress":0.7777777777777778,"figureOffScale":true}]}
         """
     let upkeep = """
         {"stoplights":[\
