@@ -9,6 +9,7 @@ import {
   esouiSourceDir,
 } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 import { gameFiles } from "akasha/temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts"
+import { namesUnstubbedLua } from "akasha/temper/eso/ui-harness/modules/game-names/game-names.module.code.ts"
 import {
   fontsLua,
   gameFonts,
@@ -183,8 +184,12 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     await harness.load(`return ${fontsLua(gameFonts(esoui))}`)
     await harness.load(`return ${timelinesLua(timelinesIn(documents))}`)
     const refused: string[] = []
-    for (const file of gameFiles(esoui)) {
-      const text = readFileSync(file.at, "utf8")
+    const files = gameFiles(esoui).map((file) => ({ ...file, text: readFileSync(file.at, "utf8") }))
+    await harness.load(
+      namesUnstubbedLua(files.filter((one) => one.kind === "lua").map((one) => one.text))
+    )
+    for (const file of files) {
+      const text = file.text
       if (file.kind === "lua") {
         const named = relative(esoui, file.at)
         try {

@@ -1090,6 +1090,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-options-menu/eso-options-menu.type-declaration.ts","id":"01a06259-bfbb-741e-b9cc-630b4b8a9583"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/game-manifest/game-manifest.module.ts","id":"01a0d3dc-3ae8-7d3d-93a9-04391f4ae73c"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/game-names/game-names.module.ts","id":"01a0d444-aa26-706c-bbd0-cd323b7fba4d"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.ts","id":"01a0c97e-4173-73b6-a373-3a2f933756b3"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-inheritance/ui-inheritance.module.ts","id":"01a0d3e7-657e-7545-90cc-7aa7f90b052a"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts","id":"01a0c9dd-cc82-7f73-b0c4-69cb07323425"}

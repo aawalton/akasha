@@ -37,6 +37,10 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every global the game's Lua defines is left unstubbed before any of it loads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The game's fonts are made before its Lua loads, as the game's font program loads first.",
     },

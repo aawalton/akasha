@@ -25,6 +25,7 @@ export const temperEsoUiHarness = {
     "module/ui-timelines",
     "module/ui-virtuals",
     "module/ui-windows",
+    "module/game-names",
   ],
   decisions: [
     {
