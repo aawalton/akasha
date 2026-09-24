@@ -6,4 +6,9 @@ export const emberUiTesting = {
   slug: "ember-ui-testing",
   domain: "domain/temper",
   persona: "persona/ember",
+  intentStack: [
+    {
+      statement: "Every window Temper shows in the game can be pictured.",
+    },
+  ],
 } as const satisfies Initiative
