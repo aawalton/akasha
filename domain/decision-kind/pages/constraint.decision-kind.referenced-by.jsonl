@@ -76,6 +76,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/log-day/modules/log-day-writing/log-day-writing.module.ts","id":"01a06a06-5c03-75e8-ac45-a622024f1f89"}
 {"propertySlug":"decision-kind","path":"agent/seat/modules/akasha-history/seat-akasha-history.module.ts","id":"01a06949-b281-7b6f-900b-fa221e76dbd9"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/spawn-guard/spawn-guard.module.ts","id":"01a0695a-d2ea-7bcd-b07f-19486629a01c"}
+{"propertySlug":"decision-kind","path":"agent/seat/properties/working-color.computed-property.ts","id":"01a0d418-de99-707f-a82d-2e055619cb91"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/seat-reviving.domain.ts","id":"01a09c38-82db-7a28-8f18-09c4621a8dce"}
 {"propertySlug":"decision-kind","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
 {"propertySlug":"decision-kind","path":"agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.ts","id":"01a071f5-4e4d-79a8-aff6-911818ba3e7e"}

@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/requested-action.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/role.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/seat-persona.relation-property.types.ts"}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/properties/working-color.computed-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"agent/subagent/properties/subagent-kind.relation-property.types.ts"}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"alan/authoring/book-record/properties/record-book.relation-property.types.ts"}

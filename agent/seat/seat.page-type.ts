@@ -83,6 +83,7 @@ export const seat = {
     "text-property/start-mode",
     "text-property/transcript-path",
     "module/tmux-session",
+    "computed-property/working-color",
   ],
   properties: [
     {
@@ -173,7 +174,9 @@ export const seat = {
       uncommitted: true,
       default: "txt",
     },
+    { pageProperty: "computed-property/working-color", required: false, many: false },
   ],
+  titleColoredBy: "computed-property/working-color",
   loadedBy: "module/agent-stated",
   decisions: [
     {

@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/observation/seat-turn/modules/state/seat-turn-state.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-working/turn-working.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/observation/seat-turn/seat-pending/modules/pending-from-files/pending-from-files.module.code.ts"}
+{"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"agent/seat/properties/working-color.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.code.ts"}
 {"propertySlug":"import","fileName":"seat-turn-reading.computed-property-module.code.ts","path":"command/pages/agent/turn-color-list/agent-turn-color-list.command.test.ts"}
 {"propertySlug":"parts","path":"agent/seat/observation/seat-turn/seat-turn.domain.ts","id":"01a0658d-c92f-7071-838b-e88aa8479137"}

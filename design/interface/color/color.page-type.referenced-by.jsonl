@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/text.color.ts"}
 {"propertySlug":"import","fileName":"color.page-type.types.ts","path":"design/interface/color/pages/yellow.color.ts"}
 {"propertySlug":"parts","path":"design/interface/design-interface.domain.ts","id":"01a08d8d-8ba8-7079-a696-0ed96689e240"}
+{"propertySlug":"target-page-type","path":"agent/seat/properties/working-color.computed-property.ts","id":"01a0d418-de99-707f-a82d-2e055619cb91"}
 {"propertySlug":"target-page-type","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.ts","id":"01a06d7a-e9f9-7644-9ee4-9ddcf6b723ba"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/properties/readout-color.relation-property.ts","id":"01a0cb2c-aa72-7eb6-8cb5-e5600d14d04f"}
 {"propertySlug":"target-page-type","path":"alan/value/properties/value-color.relation-property.ts","id":"01a06d7a-e9f7-7f1b-b0c4-15f3742e8352"}

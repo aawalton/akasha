@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/observation/seat-turn/modules/reading/seat-turn-reading.computed-property-module.test.ts"}
+{"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/properties/working-color.computed-property.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/reviving/modules/seat-relaunch-target/seat-relaunch-target.module.code.ts"}
 {"propertySlug":"import","fileName":"seat-proc-key.module.code.ts","path":"agent/seat/stopping/modules/absent-sweeping/absent-sweeping.module.code.ts"}

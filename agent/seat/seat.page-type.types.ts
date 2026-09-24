@@ -19,6 +19,7 @@ import type { SupervisorProcess } from "akasha/agent/seat/properties/supervisor-
 import type { TranscriptPath } from "akasha/agent/seat/properties/transcript-path.text-property.types.ts"
 import type { TurnPending } from "akasha/agent/seat/properties/turn-pending.record-property.types.ts"
 import type { TurnWorking } from "akasha/agent/seat/properties/turn-working.record-property.types.ts"
+import type { WorkingColor } from "akasha/agent/seat/properties/working-color.computed-property.types.ts"
 
 export type Seat = Agent & {
   persona: SeatPersona
@@ -41,4 +42,5 @@ export type Seat = Agent & {
   subagentEdits?: SubagentEdits
   subagentReads?: SubagentReads
   subagentRefusals?: SubagentRefusals
+  workingColor?: WorkingColor
 }

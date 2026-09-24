@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"working-color.computed-property.code.ts","path":"agent/seat/properties/working-color.computed-property.test.ts"}
+{"propertySlug":"import","fileName":"working-color.computed-property.types.ts","path":"agent/seat/properties/working-color.computed-property.code.ts"}
+{"propertySlug":"import","fileName":"working-color.computed-property.types.ts","path":"agent/seat/seat.page-type.types.ts"}
+{"propertySlug":"page-property","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
+{"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
+{"propertySlug":"title-colored-by","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

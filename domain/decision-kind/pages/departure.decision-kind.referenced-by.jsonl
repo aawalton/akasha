@@ -317,6 +317,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/properties/subagent-refusals.file-property.ts","id":"01a08d62-5be7-74d0-8fa3-63a8fc24f035"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/transcript-path.text-property.ts","id":"01a053f0-366d-7612-bbb6-6be4383f12b7"}
 {"propertySlug":"decision-kind","path":"agent/seat/properties/turn-working.record-property.ts","id":"01a06c75-5eab-7ec2-b8c4-b25cdb0803ce"}
+{"propertySlug":"decision-kind","path":"agent/seat/properties/working-color.computed-property.ts","id":"01a0d418-de99-707f-a82d-2e055619cb91"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.ts","id":"01a0695a-d2ea-735a-9483-a00a8cf935b6"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/modules/seat-coming-back/seat-coming-back.module.ts","id":"01a0a502-1586-777f-84c7-0d2a1f147ede"}
 {"propertySlug":"decision-kind","path":"agent/seat/reviving/modules/seat-recovery/seat-recovery.module.ts","id":"01a0687e-5361-7000-b809-2c591fc15c79"}
