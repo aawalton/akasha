@@ -22,6 +22,7 @@ export type PropertyDefinition = {
   indexName?: string
   isRequired?: boolean
   unique?: boolean
+  colorsTitle?: boolean
 }
 
 export type GetPropertyDefinitionsArgs = { pageTypeSlug: string }

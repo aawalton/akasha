@@ -150,6 +150,7 @@ export function definitionOf(one: Declared): PropertyDefinition {
     ...(one.fields.length === 0 ? {} : { fields: one.fields.map(definitionOf) }),
     pageId: one.pageId,
     ...(stated ? { config } : {}),
+    ...(one.colorsTitle ? { colorsTitle: true } : {}),
   }
 }
 

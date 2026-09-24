@@ -76,6 +76,15 @@ export const pageShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration says whether its page type names it to color the titles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page type naming no property to color titles takes the one the nearest page type above it names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The page types above a page type are read as one closure the graph answers.",
     },
     {

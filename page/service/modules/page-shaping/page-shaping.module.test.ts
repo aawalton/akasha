@@ -1,6 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
-import { ownerFor } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
+import {
+  ownerFor,
+  titleColorFor,
+} from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import {
   climbedInRepo,
   climbedInTypes,
@@ -60,4 +63,24 @@ test("a field of a field is declared as nothing", () => {
 
 test("a property holding no named fields declares no field", () => {
   expect(declaredAt("decision-kind", "slug")?.fields).toEqual([])
+})
+
+test("a page type names the property its own page says colors its titles", () => {
+  expect(titleColorFor(climbedInTypes, "stated-two")).toBe("computed-property/tint")
+})
+
+test("a page type naming none takes the one the page type above it names", () => {
+  expect(titleColorFor(climbedInTypes, "stated")).toBe("computed-property/tint")
+})
+
+test("a page type's own title color wins over the one above it", () => {
+  expect(titleColorFor(climbedInTypes, "recolored")).toBe("computed-property/hue")
+})
+
+test("a page type nothing above names a title color for has none", () => {
+  expect(titleColorFor(climbedInTypes, "tied")).toBeNull()
+})
+
+test("a declaration colors a title only where its page type names it", () => {
+  expect(declaredAt("domain", "decisions")?.colorsTitle).toBe(false)
 })

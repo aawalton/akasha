@@ -78,5 +78,9 @@ export const filePropertyDefs = {
       decisionKind: "decision-kind/departure",
       statement: "A computed property naming a page type to reach is drawn as a relation is.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A definition says it colors the titles only where its page type names it to.",
+    },
   ],
 } as const satisfies Module

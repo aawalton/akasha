@@ -18,13 +18,20 @@ const TREE = "akasha"
 
 const heldId = (one: string): string => `01a04a4a-0009-7000-8000-00000000000${one}`
 
-function typed(one: string, slug: string, above: readonly string[], owner?: string): Named {
+function typed(
+  one: string,
+  slug: string,
+  above: readonly string[],
+  owner?: string,
+  titleColoredBy?: string
+): Named {
   return thePage({
     id: heldId(one),
     pageTypeSlug: "page-type",
     slug,
     extends: above.map((held) => `page-type/${held}`),
     ...(owner === undefined ? {} : { owner }),
+    ...(titleColoredBy === undefined ? {} : { titleColoredBy }),
   })
 }
 
@@ -47,13 +54,14 @@ const HELD: readonly Named[] = [
   typed("5", "tied-second", [], "second-owner"),
   typed("6", "stated", ["stated-one", "stated-two"]),
   typed("7", "stated-one", []),
-  typed("8", "stated-two", [], "account-page"),
+  typed("8", "stated-two", [], "account-page", "computed-property/tint"),
   typed("9", "nearer", ["nearer-close", "nearer-apart"]),
   typed("a", "nearer-close", ["nearer-distant"]),
   typed("b", "nearer-apart", [], "apart-owner"),
   typed("c", "nearer-distant", [], "distant-owner"),
   typed("d", "missing", ["missing-there", "nothing-holds-this"]),
   typed("e", "missing-there", [], "there-owner"),
+  typed("f", "recolored", ["stated"], undefined, "computed-property/hue"),
 ]
 
 const root = rootOf(import.meta.dir)

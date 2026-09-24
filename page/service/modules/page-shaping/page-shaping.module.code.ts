@@ -18,12 +18,14 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
 import {
   carriedFor,
   type Named,
   pagesOfType,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import { titleColoredBy } from "akasha/page/type/properties/title-colored-by.relation-property.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -43,6 +45,8 @@ const DECLARED = "properties"
 
 const SAID = "pageProperty"
 
+const TITLE_COLORED_BY = camelizeKey(titleColoredBy.propertySlug)
+
 export type Declared = {
   readonly key: string
   readonly type: string
@@ -59,6 +63,7 @@ export type Declared = {
   readonly slugProperty: string | null
   readonly mayBeGone: boolean
   readonly verbId: string | null
+  readonly colorsTitle: boolean
 }
 
 export type Shape = {
@@ -133,7 +138,8 @@ function declaredOf(
   drawnBy: readonly string[],
   memberDrawnBy: readonly (readonly string[])[],
   climbed: readonly Value[],
-  fields: readonly Declared[] = []
+  fields: readonly Declared[] = [],
+  colorsTitle = false
 ): Declared {
   return {
     key: one.propertySlug,
@@ -152,6 +158,7 @@ function declaredOf(
     slugProperty: one.propertySlug,
     mayBeGone: !one.required,
     verbId: page === undefined ? null : textAt(page, VERB_ID),
+    colorsTitle,
   }
 }
 
@@ -198,12 +205,21 @@ export function ownerFor(climb: Climbing, pageTypeSlug: string): string | null {
   return null
 }
 
+export function titleColorFor(climb: Climbing, pageTypeSlug: string): string | null {
+  for (const one of climb(pageTypeSlug)) {
+    const named = textAt(one, TITLE_COLORED_BY)
+    if (named !== null && named !== "") return named
+  }
+  return null
+}
+
 export function shaping(root: string, pageTypeSlug: string): Shaped {
   if (listedAt(root, PAGE_TYPE, pageTypeSlug).length === 0) return { shape: null }
   try {
     const named: Named = new Map()
     const climb = climbing(root)
     const own = pagesOfType(root, named, PAGE_TYPE).get(pageTypeSlug)
+    const colored = titleColorFor(climb, pageTypeSlug)
     const declarations = carriedFor(root, pageTypeSlug).map((one) => {
       const page = pagesOfType(root, named, one.pageTypeSlug).get(one.pagePropertySlug)
       return declaredOf(
@@ -213,7 +229,8 @@ export function shaping(root: string, pageTypeSlug: string): Shaped {
         drawnFor(climb, one.pageTypeSlug),
         memberTypesIn(page).map((slug) => drawnFor(climb, slug)),
         climb(one.pageTypeSlug),
-        fieldsIn(root, named, climb, page, pageTypeSlug)
+        fieldsIn(root, named, climb, page, pageTypeSlug),
+        colored === `${one.pageTypeSlug}${PARTED_BY}${one.pagePropertySlug}`
       )
     })
     return {

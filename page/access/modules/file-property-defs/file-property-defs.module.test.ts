@@ -20,6 +20,7 @@ const WORKED: Declared = {
   slugProperty: "worked-tint",
   mayBeGone: true,
   verbId: null,
+  colorsTitle: false,
 }
 
 const DRAWN = [
@@ -99,4 +100,12 @@ test("a computed property naming no page type to reach is drawn as its own chain
   const drawn = definitionOf(WORKED)
   expect(drawn.type).toBe("text")
   expect(drawn.drawnBy).toEqual(["computed-property", "page-property"])
+})
+
+test("a property its page type names to color titles is said to color them", () => {
+  expect(definitionOf({ ...WORKED, colorsTitle: true }).colorsTitle).toBe(true)
+})
+
+test("a property its page type names nowhere says nothing of titles", () => {
+  expect(definitionOf(WORKED)).not.toHaveProperty("colorsTitle")
 })
