@@ -12,7 +12,7 @@ export const dungeonChampionSavedVars = {
       statement: "Settings once kept under a character name are moved to the account id once.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Reading the settings before the settings are brought up throws.",
     },
   ],
