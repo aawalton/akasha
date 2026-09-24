@@ -9,7 +9,8 @@ export const transportNaming = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A name is spelled here once and every resource takes the name from here.",
+      statement:
+        "A name is read here from the cluster service's page, and every resource takes it from here.",
     },
     {
       decisionKind: "decision-kind/departure",

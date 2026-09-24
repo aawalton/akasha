@@ -10,7 +10,6 @@ import {
   orchestratorCacheVolumes,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
 import {
-  BUN_RUNTIME_IMAGE,
   CONTAINER_TMP_PATH,
   GIT_TRANSPORT_CACHE,
   ORCHESTRATOR_CACHE_REPO_PATH,
@@ -23,6 +22,7 @@ import {
   RESOURCE_LABELS,
   SELECTOR_LABELS,
 } from "akasha/infrastructure/git-transport/modules/transport-naming/transport-naming.module.code.ts"
+import { gitTransport } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/git-transport/git-transport.service-cluster.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -68,14 +68,14 @@ export function deploymentYaml(): string {
 
   return synthOne(NAMESPACE, "deployment", {
     apiVersion: "apps/v1",
-    kind: "Deployment",
+    kind: gitTransport.resourceKind,
     metadata: {
       name: APP_NAME,
       namespace: NAMESPACE,
       labels: RESOURCE_LABELS,
     },
     spec: {
-      replicas: 1,
+      replicas: gitTransport.replicas,
       strategy: {
         type: "Recreate",
       },
@@ -94,7 +94,7 @@ export function deploymentYaml(): string {
           initContainers: [
             {
               name: "init-bare-repo",
-              image: BUN_RUNTIME_IMAGE,
+              image: gitTransport.image,
               imagePullPolicy: "IfNotPresent",
               command: ["sh", "-c", INIT_BARE_REPO_SCRIPT],
               env: [{ name: "HOME", value: CONTAINER_TMP_PATH }],
@@ -116,20 +116,20 @@ export function deploymentYaml(): string {
           containers: [
             {
               name: APP_NAME,
-              image: BUN_RUNTIME_IMAGE,
+              image: gitTransport.image,
               imagePullPolicy: "IfNotPresent",
               workingDir: ORCHESTRATOR_CACHE_REPO_PATH,
               command: ["bun", "--watch", servingAt()],
               ports: [
                 {
                   name: "http",
-                  containerPort: 3000,
+                  containerPort: gitTransport.containerPort,
                   protocol: "TCP",
                 },
               ],
               env: [
-                { name: "PORT", value: "3000" },
-                { name: "GIT_TRANSPORT_PORT", value: "3000" },
+                { name: "PORT", value: `${gitTransport.containerPort}` },
+                { name: "GIT_TRANSPORT_PORT", value: `${gitTransport.containerPort}` },
                 {
                   name: "GIT_TRANSPORT_CLONE_URL",
                   value: "http://git-transport.git.svc.cluster.local:3000",

@@ -8,6 +8,7 @@ import {
   RESOURCE_LABELS,
   SELECTOR_LABELS,
 } from "akasha/infrastructure/git-transport/modules/transport-naming/transport-naming.module.code.ts"
+import { gitTransport } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/git-transport/git-transport.service-cluster.ts"
 
 function pvYaml(): string {
   return synthOne(NAMESPACE, "data-pv", {
@@ -64,7 +65,7 @@ function serviceYaml(): string {
         {
           name: "http",
           port: 3000,
-          targetPort: 3000,
+          targetPort: gitTransport.containerPort,
           protocol: "TCP",
         },
       ],

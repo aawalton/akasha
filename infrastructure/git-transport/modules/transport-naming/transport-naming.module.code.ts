@@ -1,5 +1,7 @@
-export const NAMESPACE = "git"
-export const APP_NAME = "git-transport"
+import { gitTransport } from "akasha/infrastructure/service/akasha-service/service-cluster/pages/git-transport/git-transport.service-cluster.ts"
+
+export const NAMESPACE = gitTransport.namespace
+export const APP_NAME = gitTransport.resourceName
 const INSTANCE_NAME = "git"
 const COMPONENT = "git-server"
 const PART_OF = "git"
