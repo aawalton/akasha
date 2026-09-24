@@ -8,7 +8,7 @@ export const haremHotel = {
   unit: "unit/words",
   externalId: "harem-hotel",
   gameEngine: "awen",
-  coordinatorAgent: "awen-gm--harem-hotel",
+  coordinatorAgent: "iris-game-master-harem-hotel",
   controlledEntityKind: "single",
   mechanicsWeight: "heavy",
   resolution: "formula",
