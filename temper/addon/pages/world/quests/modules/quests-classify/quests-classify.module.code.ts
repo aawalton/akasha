@@ -2,6 +2,7 @@ import { ADDON_NAME } from "akasha/temper/addon/pages/world/modules/world-names/
 import type { ChatterOptionKind } from "akasha/temper/addon/pages/world/quests/modules/quests-decide/quests-decide.module.code.ts"
 import { luaStringContains } from "akasha/temper/addon/shared/narrow/modules/lua-string-contains/lua-string-contains.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-03/eso-functions-03.type-declaration.d.ts"
@@ -82,8 +83,8 @@ export function classifyOptionType(optionType: number, textLower: string): Chatt
 }
 
 function isMadGodsBargainActive(): boolean {
-  const count = GetNumJournalQuests()
-  for (let i = 1; i <= count; i++) {
+  for (let i = 1; i <= MAX_JOURNAL_QUESTS; i++) {
+    if (!IsValidQuestIndex(i)) continue
     if (string.lower(GetJournalQuestName(i)) === MAD_GODS_BARGAIN_NAME) return true
   }
   return false
