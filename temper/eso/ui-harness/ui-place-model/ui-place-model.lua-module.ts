@@ -35,7 +35,7 @@ export const uiPlaceModel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An anchor to a table that is no control is answered with the screen's own corner.",
+        "An anchor to anything that is no control is answered with the screen's own corner.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -239,7 +239,7 @@ end
 function Control:SetAnchor(point, relativeTo, relativePoint, offsetX, offsetY, constrains)
   insert(self.uiAnchors, {
     point = asNumber(point, ANCHOR_POINTS.TOPLEFT),
-    relativeTo = relativeTo or self.uiParent,
+    relativeTo = type(relativeTo) == "table" and relativeTo or self.uiParent,
     relativePoint = asNumber(relativePoint, asNumber(point, ANCHOR_POINTS.TOPLEFT)),
     offsetX = asNumber(offsetX, 0),
     offsetY = asNumber(offsetY, 0),

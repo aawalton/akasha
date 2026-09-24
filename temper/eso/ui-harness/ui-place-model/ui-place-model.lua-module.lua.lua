@@ -22,7 +22,7 @@ local function fractionOf(point)
 end
 
 local function known(control)
-  return control ~= nil and rawget(control, "uiAnchors") ~= nil
+  return type(control) == "table" and rawget(control, "uiAnchors") ~= nil
 end
 
 local function spotOf(control, anchor)
