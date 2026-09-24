@@ -174,7 +174,7 @@ const controlShape: z.ZodType<UiControl> = z.lazy(() =>
 
 export type UiHarness = {
   readonly seed: (name: string, value: unknown) => undefined
-  readonly load: (source: string) => Promise<unknown>
+  readonly load: (source: string, named?: string) => Promise<unknown>
   readonly loadBundle: (source: string) => Promise<unknown>
   readonly templates: (chunks: readonly string[]) => Promise<number>
   readonly snapshot: (name?: string) => Promise<UiControl | null>
@@ -201,8 +201,8 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
     seed(name, value): undefined {
       return vm.setGlobal(name, value)
     },
-    async load(source): Promise<unknown> {
-      return vm.doString(source)
+    async load(source, named): Promise<unknown> {
+      return vm.doString(source, named)
     },
     async loadBundle(source): Promise<unknown> {
       return vm.doString(reachableBundle(source))

@@ -49,7 +49,7 @@ export const ESO_BANNED_GLOBALS: readonly string[] = [
 
 export type SandboxedLuaVm = {
   readonly setGlobal: (name: string, value: unknown) => undefined
-  readonly doString: (source: string) => Promise<unknown>
+  readonly doString: (source: string, named?: string) => Promise<unknown>
   readonly close: () => Promise<void>
 }
 
@@ -89,9 +89,10 @@ export async function makeSandboxedLuaVm(
       }
       return undefined
     },
-    async doString(source): Promise<unknown> {
+    async doString(source, named = "bundle"): Promise<unknown> {
       await flushSeeds()
-      return luaVm.run(`return __eso_run(${luaLongStringLiteral(source)}, "bundle")`)
+      const chunk = luaStringLiteral(named)
+      return luaVm.run(`return __eso_run(${luaLongStringLiteral(source)}, ${chunk})`)
     },
     async close(): Promise<void> {
       await luaVm.close()

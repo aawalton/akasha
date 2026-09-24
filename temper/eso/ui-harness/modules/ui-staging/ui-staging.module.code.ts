@@ -1,5 +1,5 @@
 import { existsSync, readdirSync, readFileSync, statSync } from "node:fs"
-import { join } from "node:path"
+import { join, relative } from "node:path"
 import {
   stampIn,
   treeIn,
@@ -171,10 +171,12 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
     for (const file of gameFiles(esoui)) {
       const text = readFileSync(file.at, "utf8")
       if (file.kind === "lua") {
+        const named = relative(esoui, file.at)
         try {
-          await harness.load(text)
-        } catch {
-          refused.push(file.at)
+          await harness.load(text, named)
+        } catch (thrown) {
+          const why = (thrown instanceof Error ? thrown.message : String(thrown)).split("\n")[0]
+          refused.push(`${named}: ${why}`)
         }
         continue
       }
