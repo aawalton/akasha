@@ -4,7 +4,7 @@ export const agentTool = {
   id: "01a0c9c6-00a0-70ba-b6e7-287a93b83d07",
   type: "page-type/domain",
   slug: "agent-tool",
-  definition: "an act an agent calls by name",
+  definition: "what an agent calls by name",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "agent tool" },
     { partOfSpeech: "part-of-speech/noun", spelling: "agent tools" },
