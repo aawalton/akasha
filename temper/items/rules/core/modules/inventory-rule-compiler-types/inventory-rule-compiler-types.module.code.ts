@@ -109,6 +109,7 @@ export interface CompiledOrderedRule extends ResolvedEntry {
   stackFullness?: "full" | "partial"
   potionEffects?: readonly string[]
   potionEffectsMode?: "all" | "any"
+  craftShortfall?: true
 }
 
 export const IMPLICIT_TERMINAL_COMPILED_RULE: CompiledOrderedRule = {

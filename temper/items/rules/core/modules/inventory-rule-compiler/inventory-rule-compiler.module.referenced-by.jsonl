@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/command/modules/inventory-config-divergence/inventory-config-divergence.module.code.ts"}
+{"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.test.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/matcher/test-fixtures/compile-rules/compile-rules.test-fixture.code.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-chain/inventory-management-plan-chain.module.test.ts"}
 {"propertySlug":"import","fileName":"inventory-rule-compiler.module.code.ts","path":"temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"}

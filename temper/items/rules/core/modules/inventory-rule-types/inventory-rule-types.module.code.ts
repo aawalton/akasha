@@ -93,6 +93,7 @@ export interface CategoryRule {
   notes?: string | null
   destination?: MoveToDestination
   stockScope?: StockScope
+  craftShortfall?: boolean
   destinationChain?: DestinationChain
   updatedAt?: number
   conditions?: {

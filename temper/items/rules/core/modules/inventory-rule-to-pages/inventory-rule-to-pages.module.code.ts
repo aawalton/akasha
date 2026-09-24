@@ -88,6 +88,7 @@ export function pageFromRule(
     ...(rule.locked === undefined ? {} : { locked: rule.locked }),
     ...(rule.destination === undefined ? {} : { destination: rule.destination }),
     ...(rule.stockScope === undefined ? {} : { stockScope: rule.stockScope }),
+    ...(rule.craftShortfall === undefined ? {} : { craftShortfall: rule.craftShortfall }),
   }
   return { page, conditions: conditionsOf(rule), chain: chainOf(rule) }
 }

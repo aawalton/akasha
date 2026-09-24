@@ -85,6 +85,14 @@ test("a chain leg says only what that leg carries", () => {
   ])
 })
 
+test("a rule crafting its shortfall says so on its page, and one saying nothing says nothing", () => {
+  expect(pageFromRule({ ...RULE, craftShortfall: true }, ACCOUNT, 0).page.craftShortfall).toBe(true)
+  expect(pageFromRule({ ...RULE, craftShortfall: false }, ACCOUNT, 0).page.craftShortfall).toBe(
+    false
+  )
+  expect("craftShortfall" in pageFromRule(RULE, ACCOUNT, 0).page).toBe(false)
+})
+
 test("a rule saying nothing about being switched on is written as switched on", () => {
   const bare: CategoryRule = { id: "a", categoryId: "weapons", action: "sell" }
   expect(pageFromRule(bare, ACCOUNT, 0).page.active).toBe(true)
@@ -121,6 +129,7 @@ test("a rule written out and read back is the rule it was", () => {
     goal: "use",
     locked: true,
     stockScope: "any-character",
+    craftShortfall: true,
     conditions: { targetQuantity: 1000000 },
     destinationChain: [{ destination: "bank" }],
   }

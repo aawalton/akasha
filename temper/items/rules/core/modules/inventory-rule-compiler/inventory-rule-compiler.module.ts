@@ -6,10 +6,15 @@ export const inventoryRuleCompiler = {
   slug: "inventory-rule-compiler",
   definition: "an item rule turned into the compiled form the game addon and the web matcher read",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "A rule compiles to one ordered entry.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a stocking rule saying it crafts its shortfall compiles as crafting it.",
     },
     {
       decisionKind: "decision-kind/constraint",
