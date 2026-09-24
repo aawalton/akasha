@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/person.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/requested-action.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/role.relation-property.ts"}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/seat-model.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/properties/seat-persona.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/seat/turn-state/properties/turn-state-color.relation-property.ts"}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/subagent/properties/subagent-kind.relation-property.ts"}

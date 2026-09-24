@@ -26,5 +26,13 @@ export const seatUsage = {
       decisionKind: "decision-kind/departure",
       statement: "An empty string is no reading.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat keeps the model version its model id names rather than the id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A model id no model version states is not kept.",
+    },
   ],
 } as const satisfies Module

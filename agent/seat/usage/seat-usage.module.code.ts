@@ -1,3 +1,4 @@
+import { modelVersionOf } from "akasha/agent/model/version/modules/naming/model-version-naming.module.code.ts"
 import {
   keepSeatRecord,
   type SeatRecord,
@@ -35,7 +36,8 @@ export function usageIn(stated: unknown): UsageReading {
 
 export function keepSeatUsage(agent: string, reading: UsageReading, at?: number): undefined {
   const now = at ?? Date.now()
-  if (reading.model !== null) keepSeatRecord(agent, MODEL_KEY, reading.model, now)
+  const version = reading.model === null ? null : modelVersionOf(reading.model)
+  if (version !== null) keepSeatRecord(agent, MODEL_KEY, version, now)
   if (reading.contextTokens !== null)
     keepSeatRecord(agent, CONTEXT_TOKENS_KEY, reading.contextTokens, now)
 }

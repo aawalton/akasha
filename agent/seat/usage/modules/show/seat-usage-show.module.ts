@@ -6,4 +6,10 @@ export const seatUsageShow = {
   slug: "seat-usage-show",
   definition: "this seat's model and context-token reading, written out as a JSON line",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The model is written out as the id its model version states.",
+    },
+  ],
 } as const satisfies Module

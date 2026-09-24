@@ -11,6 +11,7 @@ export const subagentKind = {
     "subagent-kind/explore",
     "subagent-kind/general-purpose",
     "text-property/dispatched-as",
+    "text-property/model",
   ],
   properties: [
     { pageProperty: "text-property/dispatched-as", required: true, many: false },

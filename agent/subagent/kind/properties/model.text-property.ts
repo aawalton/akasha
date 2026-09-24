@@ -5,7 +5,7 @@ export const model = {
   type: "page-type/text-property",
   slug: "model",
   propertySlug: "model",
-  definition: "the model answering in a seat",
+  definition: "the model family a kind's subagents answer on",
   maxLength: 40,
   nameFormat: null,
   types: "ts",

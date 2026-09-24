@@ -1,5 +1,0 @@
-{"propertySlug":"import","fileName":"model.text-property.types.ts","path":"agent/seat/seat.page-type.types.ts"}
-{"propertySlug":"import","fileName":"model.text-property.types.ts","path":"agent/subagent/kind/subagent-kind.page-type.types.ts"}
-{"propertySlug":"page-property","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}
-{"propertySlug":"page-property","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
-{"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

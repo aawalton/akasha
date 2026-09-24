@@ -1,3 +1,4 @@
+import { modelIdOf } from "akasha/agent/model/version/modules/naming/model-version-naming.module.code.ts"
 import { contextTokensOf, modelOf } from "akasha/agent/seat/usage/seat-usage.module.code.ts"
 
 function usageLineFor(agent: string): string {
@@ -7,7 +8,7 @@ function usageLineFor(agent: string): string {
   const read = tokens?.at ?? model?.at ?? null
   return `${JSON.stringify({
     agent_id: agent,
-    model: model?.value ?? null,
+    model: model === null ? null : modelIdOf(model.value),
     context_tokens: tokens === null ? null : Number(tokens.value),
     read_at: read === null ? null : new Date(read).toISOString(),
   })}\n`
