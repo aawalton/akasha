@@ -102,10 +102,7 @@ export const iosApp = {
       statement:
         "The config Capacitor reads is made at the tree root from the config beside the page.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every script an app's manifest names exists in akasha.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Every program an app builds is signed for the one team the app names.",
