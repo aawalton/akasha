@@ -5,6 +5,7 @@ export const philippians4 = {
   type: "page-type/scripture-passage",
   slug: "philippians-4",
   title: "Philippians 4",
+  partOfCollections: ["scripture-collection/philippians"],
   book: "Philippians",
   position: 4,
   ownLength: 0,

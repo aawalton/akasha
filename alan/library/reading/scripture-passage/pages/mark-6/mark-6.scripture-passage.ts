@@ -5,6 +5,7 @@ export const mark6 = {
   type: "page-type/scripture-passage",
   slug: "mark-6",
   title: "Mark 6",
+  partOfCollections: ["scripture-collection/mark"],
   book: "Mark",
   position: 6,
   ownLength: 0,

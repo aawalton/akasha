@@ -5,6 +5,7 @@ export const philemon1 = {
   type: "page-type/scripture-passage",
   slug: "philemon-1",
   title: "Philemon 1",
+  partOfCollections: ["scripture-collection/philemon"],
   book: "Philemon",
   position: 1,
   ownLength: 0,

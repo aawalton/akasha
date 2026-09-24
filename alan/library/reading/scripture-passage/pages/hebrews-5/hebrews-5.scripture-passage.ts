@@ -5,6 +5,7 @@ export const hebrews5 = {
   type: "page-type/scripture-passage",
   slug: "hebrews-5",
   title: "Hebrews 5",
+  partOfCollections: ["scripture-collection/hebrews"],
   book: "Hebrews",
   position: 5,
   ownLength: 0,

@@ -5,6 +5,7 @@ export const scripturePassage2Corinthians12 = {
   type: "page-type/scripture-passage",
   slug: "scripture-passage-2-corinthians-12",
   title: "2 Corinthians 12",
+  partOfCollections: ["scripture-collection/scripture-collection-2-corinthians"],
   book: "2 Corinthians",
   position: 12,
   ownLength: 0,

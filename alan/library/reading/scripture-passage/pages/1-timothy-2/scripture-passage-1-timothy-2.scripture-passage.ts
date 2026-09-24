@@ -5,6 +5,7 @@ export const scripturePassage1Timothy2 = {
   type: "page-type/scripture-passage",
   slug: "scripture-passage-1-timothy-2",
   title: "1 Timothy 2",
+  partOfCollections: ["scripture-collection/scripture-collection-1-timothy"],
   book: "1 Timothy",
   position: 2,
   ownLength: 0,

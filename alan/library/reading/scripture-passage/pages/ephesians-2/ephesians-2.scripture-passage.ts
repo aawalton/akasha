@@ -5,6 +5,7 @@ export const ephesians2 = {
   type: "page-type/scripture-passage",
   slug: "ephesians-2",
   title: "Ephesians 2",
+  partOfCollections: ["scripture-collection/ephesians"],
   book: "Ephesians",
   position: 2,
   ownLength: 0,

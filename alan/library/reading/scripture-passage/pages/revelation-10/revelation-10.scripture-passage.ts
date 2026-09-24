@@ -5,6 +5,7 @@ export const revelation10 = {
   type: "page-type/scripture-passage",
   slug: "revelation-10",
   title: "Revelation 10",
+  partOfCollections: ["scripture-collection/revelation"],
   book: "Revelation",
   position: 10,
   ownLength: 0,

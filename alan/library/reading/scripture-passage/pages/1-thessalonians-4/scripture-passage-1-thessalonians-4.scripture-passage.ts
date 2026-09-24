@@ -5,6 +5,7 @@ export const scripturePassage1Thessalonians4 = {
   type: "page-type/scripture-passage",
   slug: "scripture-passage-1-thessalonians-4",
   title: "1 Thessalonians 4",
+  partOfCollections: ["scripture-collection/scripture-collection-1-thessalonians"],
   book: "1 Thessalonians",
   position: 4,
   ownLength: 0,

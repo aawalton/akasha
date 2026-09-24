@@ -5,6 +5,7 @@ export const james2 = {
   type: "page-type/scripture-passage",
   slug: "james-2",
   title: "James 2",
+  partOfCollections: ["scripture-collection/james"],
   book: "James",
   position: 2,
   ownLength: 0,

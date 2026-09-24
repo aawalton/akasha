@@ -5,6 +5,7 @@ export const luke18 = {
   type: "page-type/scripture-passage",
   slug: "luke-18",
   title: "Luke 18",
+  partOfCollections: ["scripture-collection/luke"],
   book: "Luke",
   position: 18,
   ownLength: 0,

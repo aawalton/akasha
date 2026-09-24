@@ -5,6 +5,7 @@ export const scripturePassage2Peter2 = {
   type: "page-type/scripture-passage",
   slug: "scripture-passage-2-peter-2",
   title: "2 Peter 2",
+  partOfCollections: ["scripture-collection/scripture-collection-2-peter"],
   book: "2 Peter",
   position: 2,
   ownLength: 0,

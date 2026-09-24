@@ -5,6 +5,7 @@ export const matthew6 = {
   type: "page-type/scripture-passage",
   slug: "matthew-6",
   title: "Matthew 6",
+  partOfCollections: ["scripture-collection/matthew"],
   book: "Matthew",
   position: 6,
   ownLength: 0,

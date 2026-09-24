@@ -5,6 +5,7 @@ export const acts2 = {
   type: "page-type/scripture-passage",
   slug: "acts-2",
   title: "Acts 2",
+  partOfCollections: ["scripture-collection/acts"],
   book: "Acts",
   position: 2,
   ownLength: 0,

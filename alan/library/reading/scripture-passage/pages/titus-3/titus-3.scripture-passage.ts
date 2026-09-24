@@ -5,6 +5,7 @@ export const titus3 = {
   type: "page-type/scripture-passage",
   slug: "titus-3",
   title: "Titus 3",
+  partOfCollections: ["scripture-collection/titus"],
   book: "Titus",
   position: 3,
   ownLength: 0,

@@ -5,6 +5,7 @@ export const romans11 = {
   type: "page-type/scripture-passage",
   slug: "romans-11",
   title: "Romans 11",
+  partOfCollections: ["scripture-collection/romans"],
   book: "Romans",
   position: 11,
   ownLength: 0,

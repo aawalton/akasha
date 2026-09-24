@@ -5,6 +5,7 @@ export const galatians1 = {
   type: "page-type/scripture-passage",
   slug: "galatians-1",
   title: "Galatians 1",
+  partOfCollections: ["scripture-collection/galatians"],
   book: "Galatians",
   position: 1,
   ownLength: 0,

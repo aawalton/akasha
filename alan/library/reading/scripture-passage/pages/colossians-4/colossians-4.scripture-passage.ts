@@ -5,6 +5,7 @@ export const colossians4 = {
   type: "page-type/scripture-passage",
   slug: "colossians-4",
   title: "Colossians 4",
+  partOfCollections: ["scripture-collection/colossians"],
   book: "Colossians",
   position: 4,
   ownLength: 0,
