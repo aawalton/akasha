@@ -7,6 +7,7 @@ import type {
   Fetcher,
   Sleeper,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import {
   DEVICE_SECRET_HEADER,
   generateDeviceSecret,
@@ -32,7 +33,7 @@ function presenting(secret: string | null): Request {
 function pageFor(secret: string, over: Record<string, string> = {}) {
   return {
     id: "01a05b39-f50c-7841-a154-33ae8bc93e0a",
-    pageTypeSlug: "device-secret",
+    type: `${pageType.slug}/device-secret`,
     slug: "alan-a1b2c3d4-e5f6-47b8-9c0d-1e2f3a4b5c6d",
     userId: ALAN_ACCOUNT,
     deviceId: A_DEVICE,

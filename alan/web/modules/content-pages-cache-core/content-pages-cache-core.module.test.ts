@@ -22,7 +22,7 @@ const CHAPTER_IN_THE_STORE: Readonly<Record<string, unknown>> = {
   icon: null,
   userId: "01a0655d-daa6-7fdf-b1e7-000000000002",
   pageTypeId: "01a0655d-daa6-7fdf-b1e7-000000000003",
-  pageTypeSlug: "story-chapter-wandering-inn",
+  type: "page-type/story-chapter-wandering-inn",
   uniqueKey: null,
 }
 

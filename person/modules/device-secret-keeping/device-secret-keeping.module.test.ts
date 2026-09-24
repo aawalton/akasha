@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 import {
   DEVICE_SECRET_PAGE_TYPE,
   deviceSecretHashesEqual,
@@ -61,7 +62,7 @@ function storeLike(byType: Rows): Fetcher {
 function pageFor(secret: string, over: Partial<Record<string, string>> = {}) {
   return {
     id: AN_ID,
-    pageTypeSlug: DEVICE_SECRET_PAGE_TYPE,
+    type: `${pageType.slug}/${DEVICE_SECRET_PAGE_TYPE}`,
     slug: deviceSecretSlug("alan", A_DEVICE),
     userId: ALAN_ACCOUNT,
     deviceId: A_DEVICE,
@@ -214,7 +215,7 @@ test("a caller presenting a secret a contributor's page represents is read to th
   const secret = generateDeviceSecret()
   const page = {
     id: AN_ID,
-    pageTypeSlug: DEVICE_SECRET_PAGE_TYPE,
+    type: `${pageType.slug}/${DEVICE_SECRET_PAGE_TYPE}`,
     slug: deviceSecretSlug("alan", A_DEVICE),
     contributor: ALAN_CONTRIBUTOR,
     deviceId: A_DEVICE,
@@ -249,7 +250,7 @@ test("a secret whose page names neither an account nor a contributor opens nothi
   const secret = generateDeviceSecret()
   const page = {
     id: AN_ID,
-    pageTypeSlug: DEVICE_SECRET_PAGE_TYPE,
+    type: `${pageType.slug}/${DEVICE_SECRET_PAGE_TYPE}`,
     slug: deviceSecretSlug("alan", A_DEVICE),
     deviceId: A_DEVICE,
     secretHash: hashDeviceSecret(secret),

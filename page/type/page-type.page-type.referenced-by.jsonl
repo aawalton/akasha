@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/harness/readout/modules/reading/readout-reading.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/music/catalog/modules/song-filing/song-filing.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"alan/web/.server/device-secret-context/device-secret-context.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file-content/add-property-record/add-property-record.change-agent.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.test.ts"}
@@ -96,6 +97,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/service/modules/page-shaping/page-shaping.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/page-property/modules/property-shape/property-shape.module.test.ts"}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"person/modules/device-secret-keeping/device-secret-keeping.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.test.ts"}
 {"propertySlug":"import","fileName":"page-type.page-type.type-generator.ts","path":"page/type/page-property/page-property.page-type.type-generator.ts"}

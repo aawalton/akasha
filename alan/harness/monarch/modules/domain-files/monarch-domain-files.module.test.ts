@@ -7,7 +7,6 @@ import { TYPES_AT } from "akasha/alan/harness/monarch/modules/domain-files/monar
 
 const ACCOUNT: Readonly<Record<string, unknown>> = {
   id: "01a06559-5ea7-7001-9e34-1d903a67d968",
-  pageTypeSlug: "monarch-account",
   type: "monarch-account",
   slug: "account-1350-e-apple-ave-provo-ut-84604",
   title: "1350 E Apple Ave Provo UT 84604",
@@ -41,7 +40,6 @@ test("the whole body is composed rather than a line of that body patched", () =>
     "",
     "export const account1350EAppleAveProvoUt84604 = {",
     '  id: "01a06559-5ea7-7001-9e34-1d903a67d968",',
-    '  pageTypeSlug: "monarch-account",',
     '  type: "monarch-account",',
     '  slug: "account-1350-e-apple-ave-provo-ut-84604",',
     '  title: "1350 E Apple Ave Provo UT 84604",',
@@ -67,12 +65,10 @@ test("the keys a page states are stated in one settled order", () => {
     quantity: 12.5,
     title: "VTSAX",
     type: "monarch-holding",
-    pageTypeSlug: "monarch-holding",
     account: "account-0981",
   })
   expect(keysIn(said)).toEqual([
     "id",
-    "pageTypeSlug",
     "type",
     "slug",
     "title",
