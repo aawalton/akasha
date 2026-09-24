@@ -2853,6 +2853,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/network/certificate/certificate.domain.ts","id":"01a0658b-0f02-7cc7-a170-0193d5a4bc1d"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/cloudflared/cloudflared.manifest.ts","id":"01a07387-a874-7d57-b61a-8779992b0fe9"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/headscale/headscale.manifest.ts","id":"01a0738c-9157-7c4c-906c-8ff65da0976d"}
+{"propertySlug":"decision-kind","path":"infrastructure/network/headscale/modules/certificate-rolling/certificate-rolling.module.ts","id":"01a0d5aa-d50a-72b9-ae1f-efccf11ac492"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/network.domain.ts","id":"01a0658b-0f02-7e55-94d1-d612c0ed6115"}
 {"propertySlug":"decision-kind","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.ts","id":"01a0738e-d1b0-7ee3-877d-2bfed39ea842"}
 {"propertySlug":"decision-kind","path":"infrastructure/node/node.domain.ts","id":"01a0675b-16f6-70fc-b7f0-5a700f512e86"}

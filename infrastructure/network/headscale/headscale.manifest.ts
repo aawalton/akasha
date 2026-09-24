@@ -6,7 +6,11 @@ export const headscale = {
   slug: "headscale",
   definition:
     "the workload, service and policies running the server that admits machines to the private network",
-  parts: ["module/headscale-configmaps", "module/headscale-network-policies"],
+  parts: [
+    "module/headscale-configmaps",
+    "module/headscale-network-policies",
+    "module/certificate-rolling",
+  ],
   code: "ts",
   generatedDirectory: true,
   decisions: [

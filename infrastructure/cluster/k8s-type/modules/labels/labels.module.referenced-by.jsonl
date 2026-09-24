@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/cluster/manifest/metallb-synth/metallb-synth.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/network/headscale/modules/certificate-rolling/certificate-rolling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"labels.module.code.ts","path":"infrastructure/telemetry/modules/prometheus-constants/prometheus-constants.module.code.ts","typed":false,"deferred":false}

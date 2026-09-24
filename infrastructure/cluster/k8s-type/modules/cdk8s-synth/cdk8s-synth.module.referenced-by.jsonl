@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/ddns-headscale/ddns-headscale.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/headscale/headscale.manifest.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/headscale/modules/certificate-rolling/certificate-rolling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/headscale/modules/network-policies/headscale-network-policies.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cdk8s-synth.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts","typed":false,"deferred":false}

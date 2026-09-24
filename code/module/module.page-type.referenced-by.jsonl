@@ -1842,6 +1842,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/auth-proxy/modules/proxy/proxy.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/auth-proxy/modules/route-map-core/route-map-core.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/auth-proxy/modules/server/auth-proxy-server.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/headscale/modules/certificate-rolling/certificate-rolling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/headscale/modules/configmaps/headscale-configmaps.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/headscale/modules/network-policies/headscale-network-policies.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/network/modules/headscale-constants/headscale-constants.module.ts","typed":true,"deferred":false}
