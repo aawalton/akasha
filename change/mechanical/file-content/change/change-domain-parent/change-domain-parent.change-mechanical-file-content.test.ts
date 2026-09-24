@@ -55,21 +55,21 @@ const LISTED: Readonly<Record<string, string>> = {
 
 const PARENT: Value = {
   id: PACKAGE,
-  pageTypeSlug: "workspace-package",
+  type: "page-type/workspace-package",
   slug: "imessage",
   parts: [HOST_AT, PAGE_AT],
 }
 
 const BARE: Value = {
   id: PACKAGE,
-  pageTypeSlug: "workspace-package",
+  type: "page-type/workspace-package",
   slug: "imessage",
   parts: [HOST_AT],
 }
 
 const EMPTY: Value = {
   id: NAMESPACE,
-  pageTypeSlug: "namespace",
+  type: `page-type/${namespace.slug}`,
   slug: "imessage",
 }
 
@@ -163,7 +163,13 @@ test("a parent stating no parts gains the list rather than being refused", async
 const NAMESPACES = new Map<string, Value>([
   [
     "command-system/namespaces/pages/other.namespace.ts",
-    { id: NAMESPACE, pageTypeSlug: "namespace", slug: "other", parts: [], definition: "one" },
+    {
+      id: NAMESPACE,
+      type: `page-type/${namespace.slug}`,
+      slug: "other",
+      parts: [],
+      definition: "one",
+    },
   ],
 ])
 
@@ -229,7 +235,7 @@ test("a parent whose parts do not spell the page is refused", async () => {
 
 const TWICE: Value = {
   id: PACKAGE,
-  pageTypeSlug: "workspace-package",
+  type: "page-type/workspace-package",
   slug: "imessage",
   parts: [PAGE_AT, COMMAND],
 }
