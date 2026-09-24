@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import type {
   LoreLibraryCatalogBook,
   LoreLibraryCatalogCategory,
@@ -26,10 +27,22 @@ const loreLibraryCategorySchema = z
   })
   .strict()
 
-assertSchemaMatchesPayload<typeof loreLibraryBookSchema, LoreLibraryCatalogBook>()
-assertSchemaMatchesPayload<typeof loreLibraryCollectionSchema, LoreLibraryCatalogCollection>()
-assertSchemaMatchesPayload<typeof loreLibraryCategorySchema, LoreLibraryCatalogCategory>()
-
 const loreLibraryCatalogSchema = z.record(z.coerce.number(), loreLibraryCategorySchema)
 
-export type LoreLibraryCatalog = z.infer<typeof loreLibraryCatalogSchema>
+test("each lore library catalog schema infers exactly its level of the lore library catalog shape", () => {
+  expect(
+    assertSchemaMatchesPayload<typeof loreLibraryBookSchema, LoreLibraryCatalogBook>()
+  ).toBeUndefined()
+  expect(
+    assertSchemaMatchesPayload<typeof loreLibraryCollectionSchema, LoreLibraryCatalogCollection>()
+  ).toBeUndefined()
+  expect(
+    assertSchemaMatchesPayload<typeof loreLibraryCategorySchema, LoreLibraryCatalogCategory>()
+  ).toBeUndefined()
+  expect(
+    assertSchemaMatchesPayload<
+      typeof loreLibraryCatalogSchema,
+      Record<number, LoreLibraryCatalogCategory>
+    >()
+  ).toBeUndefined()
+})

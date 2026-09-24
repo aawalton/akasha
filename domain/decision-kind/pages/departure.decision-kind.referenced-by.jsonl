@@ -4577,7 +4577,6 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/weapon-type-constants/weapon-type-constants.module.ts","id":"01a06127-664b-74e0-9590-d80f5209e436"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/zone-completion-catalog-capture/zone-completion-catalog-capture.module.ts","id":"01a060e2-3186-7265-a0dc-af76d21939e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/temper-game-catalog-capture-addon.domain.ts","id":"01a060e2-3185-7405-a79e-40fe38c8220f"}
-{"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-host/modules/lore-library-catalog-schema/lore-library-catalog-schema.module.ts","id":"01a06076-5ea6-7a4a-ba5c-9b141b2fa0e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-host/temper-game-catalog-capture-host.domain.ts","id":"01a06084-d418-72e5-b162-3bb5b84f91b3"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/modules/sales-descriptor/sales-descriptor.module.ts","id":"01a0608a-15b3-7c39-bcf3-50e4681cd98f"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/modules/sales-payload/sales-payload.module.ts","id":"01a0608a-15b3-7095-b65b-bb44a69a01c0"}
@@ -4590,6 +4589,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/engine-globals-catalog/engine-globals-catalog.module.ts","id":"01a0ca9b-a3a0-7ec2-86bc-abbb99ef6d88"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/interface-color-catalog/interface-color-catalog.module.ts","id":"01a0d3f5-9078-73ed-8bca-db2004eeec48"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/interface-string-catalog/interface-string-catalog.module.ts","id":"01a0d415-b913-7f5a-8c9e-4d9aef5b8f80"}
+{"propertySlug":"decision-kind","path":"temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.ts","id":"01a0604d-239f-785b-a09c-fcdf56dbb060"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/poi-catalog/poi-catalog.module.ts","id":"01a0604d-239f-7a9e-93f5-6776a2876885"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/recipe-catalog/recipe-catalog.module.ts","id":"01a0604d-23a0-7cb1-93da-f155d5f49f5b"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/trait-research-catalog/trait-research-catalog.module.ts","id":"01a0604d-23a1-7d86-bd37-fe6a4b83b186"}
