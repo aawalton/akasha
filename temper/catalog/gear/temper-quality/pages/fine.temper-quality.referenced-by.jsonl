@@ -10,8 +10,11 @@
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/prolific/prolific.temper-companion-trait.ts","id":"01a05fce-c4b0-7db1-b613-848e703bbfc8"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/quickened/grades/companion-trait-quickened-fine.temper-companion-trait-grade.ts","id":"01a0d3e8-3a23-7859-af3a-8fa2818708e2"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/quickened/quickened.temper-companion-trait.ts","id":"01a05fce-c4b0-72a1-9c7b-e63389b0f298"}
+{"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/shattering/grades/companion-trait-shattering-fine.temper-companion-trait-grade.ts","id":"01a0d3e8-8b0c-7824-8e14-0d0cf4466fc9"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/shattering/shattering.temper-companion-trait.ts","id":"01a05fce-c4b0-75e4-8085-89376ec1cdf3"}
+{"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/soothing/grades/companion-trait-soothing-fine.temper-companion-trait-grade.ts","id":"01a0d3e8-b54f-78e6-a57a-860be5ad1b0a"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/soothing/soothing.temper-companion-trait.ts","id":"01a05fce-c4b1-7c18-9828-60ac8b4aafa2"}
+{"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/vigorous/grades/companion-trait-vigorous-fine.temper-companion-trait-grade.ts","id":"01a0d3e8-e98c-71ce-a8dd-0b71094f637c"}
 {"propertySlug":"quality","path":"temper/catalog/companion/trait/pages/vigorous/vigorous.temper-companion-trait.ts","id":"01a05fce-c4b1-7ee6-a23d-dede085d0557"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/health/grades/armor-enchant-health-fine.temper-gear-grade.ts","id":"01a0d3e7-26a0-7b2c-971c-3bcfc8f0f355"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-enchant/pages/health/health.temper-armor-enchant.ts","id":"01a05fd4-d96a-7f26-be77-be4206893578"}
@@ -65,7 +68,10 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/shock-resist/shock-resist.temper-jewelry-enchant.ts","id":"019e5c85-d955-74d8-9a9a-3e66c22bcecb"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/stamina-recovery/stamina-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d946-7a55-8269-7417f599aa31"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/arcane/arcane.temper-jewelry-trait.ts","id":"019e5b97-6d83-7436-af5e-2eba1e7e972e"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/arcane/grades/jewelry-trait-arcane-fine.temper-gear-grade.ts","id":"01a0d3e9-4084-74ca-a09f-38a5438a6638"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/bloodthirsty/bloodthirsty.temper-jewelry-trait.ts","id":"019e5b97-6d87-7ebe-8b8a-90f7afd5b457"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/bloodthirsty/grades/jewelry-trait-bloodthirsty-fine.temper-gear-grade.ts","id":"01a0d3e9-69ca-741e-ab0c-78dbd8b9d650"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/harmony/grades/jewelry-trait-harmony-fine.temper-gear-grade.ts","id":"01a0d3e9-9e8e-7817-8494-ac753108fd2b"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/harmony/harmony.temper-jewelry-trait.ts","id":"019e5b97-6d8a-77b7-8303-2086b16d9817"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/healthy/healthy.temper-jewelry-trait.ts","id":"019e5b97-6d8c-7e89-9ce9-e8824281f2c5"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-trait/pages/infused/infused.temper-jewelry-trait.ts","id":"019e5b97-6d8f-7b57-8e9e-8816c82ecefd"}
