@@ -2322,6 +2322,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.ts","id":"01a0603c-c1cd-7bf8-b51c-c43b2e4bb128"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.ts","id":"01a0603c-c1cd-7290-b641-179d70de4bc2"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/error-list/temper-error-list.command.ts","id":"01a0603c-c1cd-7e91-9eb8-0b6cf8d8b9e5"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.ts","id":"01a0d42e-c218-7a8e-b751-a43195410e2c"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts","id":"01a0685d-f8fa-7913-8b39-8d1f9f835d34"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts","id":"01a0685d-f8fa-7c84-afa7-42c2af785557"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts","id":"01a0685d-f8fa-7dc8-bf64-5a62864e6dbb"}
@@ -2329,6 +2330,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts","id":"01a0cac9-1200-767b-9b5c-42427171acb4"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts","id":"01a0685d-f8fa-7755-9f01-412ee9b28025"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts","id":"01a0685d-f8fa-75a7-b5b7-54361655f76a"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/modules/capture-text/capture-text.module.ts","id":"01a0d42f-27cb-7900-9c8f-34da29febeb8"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.ts","id":"01a0d3c8-0151-7c39-8927-103cdb98713e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.ts","id":"01a0d418-8dda-7e16-8eab-f943e204c1ee"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts","id":"01a0603c-c1ce-749d-a434-9035b90e6e37"}

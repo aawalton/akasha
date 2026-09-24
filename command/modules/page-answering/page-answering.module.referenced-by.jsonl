@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/modules/page-answering/page-answering.module.test.ts"}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/seat/transcript-follow/seat-transcript-follow.command.code.ts"}
+{"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts"}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"page-answering.module.code.ts","path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"}

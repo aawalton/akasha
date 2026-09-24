@@ -19,25 +19,25 @@ import {
   answeredByPage,
   type Taking,
 } from "akasha/command/modules/page-answering/page-answering.module.code.ts"
+import { temperEsoGenerateAnswers as page } from "akasha/command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.ts"
 import { captureTextAt } from "akasha/command/pages/temper/eso/generate/modules/capture-text/capture-text.module.code.ts"
-import { temperEsoGenerateStrings as page } from "akasha/command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { resolveSavedVariablesPath } from "akasha/temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.code.ts"
 import {
-  engineStringsIn,
-  stringsBody,
-} from "akasha/temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.code.ts"
-import { STRINGS_AT } from "akasha/temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.code.ts"
+  answersBody,
+  engineAnswersIn,
+} from "akasha/temper/eso/return/modules/engine-answers-reading/engine-answers-reading.module.code.ts"
+import { ANSWERS_AT } from "akasha/temper/eso/return/modules/engine-answers-seeding/engine-answers-seeding.module.code.ts"
 
 const NAMED = [codeRootArgument, savedVariablesFileArgument] as const
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const MESSAGE = "Write the text of the game's interface strings from the game's capture"
+const MESSAGE = "Write what the running game answered its functions from the game's capture"
 
 type Taken = Taking<typeof page, typeof NAMED>
 
-async function stringsWritten(taken: Taken, given: Given): Promise<Answer> {
+async function answersWritten(taken: Taken, given: Given): Promise<Answer> {
   const named = taken.codeRoot ?? codeRoot()
   let root: string
   try {
@@ -52,36 +52,36 @@ async function stringsWritten(taken: Taken, given: Given): Promise<Answer> {
     return refused(`\`${from}\` is no file this can read, so there is no capture to write`, DATA)
   }
 
-  const held = engineStringsIn(capture)
-  const count = held === undefined ? 0 : Object.keys(held.strings).length
+  const held = engineAnswersIn(capture)
+  const count = held === undefined ? 0 : Object.keys(held.answers).length
   if (held === undefined || count === 0) {
     return refused(
-      `\`${from}\` carries no interface strings, so the table was left as it is` +
+      `\`${from}\` carries no answers, so the table was left as it is` +
         " — the game collects them when it next reloads",
       DATA
     )
   }
 
-  const body = stringsBody(held)
+  const body = answersBody(held)
   const said = `read from ${from} at API version ${String(held.apiVersion)}`
-  if ((await captureTextAt(join(root, STRINGS_AT))) === body) {
-    return told([`\`${STRINGS_AT}\` already holds what the capture says, so nothing landed`, said])
+  if ((await captureTextAt(join(root, ANSWERS_AT))) === body) {
+    return told([`\`${ANSWERS_AT}\` already holds what the capture says, so nothing landed`, said])
   }
 
-  const asked: readonly Asking[] = [{ at: PUT, given: { at: STRINGS_AT, body } }]
+  const asked: readonly Asking[] = [{ at: PUT, given: { at: ANSWERS_AT, body } }]
   const landed = await runMechanicalChange(root, asked, MESSAGE, { writer: given.calledAs })
   if ("refusals" in landed) {
-    return refused(`the strings were not landed — ${landed.refusals.join("; ")}`, OPERATIONAL)
+    return refused(`the answers were not landed — ${landed.refusals.join("; ")}`, OPERATIONAL)
   }
   if (landed.landed.length === 0) {
     return refused(
-      `\`${STRINGS_AT}\` differs from the capture and nothing landed — ${landed.said.join("; ")}`,
+      `\`${ANSWERS_AT}\` differs from the capture and nothing landed — ${landed.said.join("; ")}`,
       OPERATIONAL
     )
   }
-  return told([`${String(count)} string(s) landed in \`${STRINGS_AT}\``, said])
+  return told([`${String(count)} function(s) landed in \`${ANSWERS_AT}\``, said])
 }
 
-export function temperEsoGenerateStrings(argv: readonly string[], given: Given): Promise<Answer> {
-  return answeredByPage(argv, given.calledAs, page, NAMED, (taken) => stringsWritten(taken, given))
+export function temperEsoGenerateAnswers(argv: readonly string[], given: Given): Promise<Answer> {
+  return answeredByPage(argv, given.calledAs, page, NAMED, (taken) => answersWritten(taken, given))
 }

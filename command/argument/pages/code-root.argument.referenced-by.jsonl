@@ -8,6 +8,7 @@
 {"propertySlug":"argument","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.ts","id":"01a0603c-c1cd-7635-b045-738c4497daa8"}
 {"propertySlug":"argument","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.ts","id":"01a0603c-c1cd-7bf8-b51c-c43b2e4bb128"}
 {"propertySlug":"argument","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.ts","id":"01a0603c-c1cd-7290-b641-179d70de4bc2"}
+{"propertySlug":"argument","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.ts","id":"01a0d42e-c218-7a8e-b751-a43195410e2c"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts","id":"01a0685d-f8fa-7913-8b39-8d1f9f835d34"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.ts","id":"01a0685d-f8fa-7c84-afa7-42c2af785557"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.ts","id":"01a0685d-f8fa-7dc8-bf64-5a62864e6dbb"}
@@ -29,6 +30,7 @@
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/community/addon-install/temper-community-addon-install.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/community/addon-list/temper-community-addon-list.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"}
+{"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"code-root.argument.ts","path":"command/pages/temper/eso/generate/colon-method/temper-eso-generate-colon-method.command.code.ts"}

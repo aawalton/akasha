@@ -80,6 +80,7 @@
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/fold-songs/music-fold-songs.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/import-artist/music-import-artist.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/music/rate/music-rate.command.code.ts"}
+{"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.code.ts"}
 {"propertySlug":"import","fileName":"change-mechanical.page-type.ts","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.code.ts"}

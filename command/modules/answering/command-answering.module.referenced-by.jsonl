@@ -356,6 +356,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/community/addon-update/temper-community-addon-update.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.test.ts"}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.code.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.test.ts"}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts"}

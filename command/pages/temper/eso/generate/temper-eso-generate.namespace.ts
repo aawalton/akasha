@@ -6,6 +6,7 @@ export const temperEsoGenerate = {
   slug: "temper-eso-generate",
   definition: "what is written out from the game's own files",
   parts: [
+    "command/temper-eso-generate-answers",
     "command/temper-eso-generate-base-game-global",
     "command/temper-eso-generate-chatter-name",
     "command/temper-eso-generate-colon-method",
@@ -15,6 +16,7 @@ export const temperEsoGenerate = {
     "command/temper-eso-generate-hud-scene-catalog",
     "command/temper-eso-generate-returns",
     "command/temper-eso-generate-strings",
+    "module/capture-text",
   ],
   name: "generate",
 } as const satisfies Namespace
