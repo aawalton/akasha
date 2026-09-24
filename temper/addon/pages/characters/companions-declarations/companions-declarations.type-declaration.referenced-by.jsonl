@@ -3,9 +3,4 @@
 {"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-interaction-handlers/companion-qol-interaction-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-rapport/companion-qol-rapport.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companion-qol-settings-menu/companion-qol-settings-menu.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-apply-build/companions-apply-build.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-equipment-panel/companions-equipment-panel.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"companions-declarations.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}

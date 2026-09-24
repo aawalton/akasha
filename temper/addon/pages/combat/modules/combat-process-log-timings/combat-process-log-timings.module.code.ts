@@ -38,7 +38,6 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export function processLogSkillTimings(fight: CmxFight, logline: CoreLogLine): undefined {
   if (!isSkillTimingsLogLine(logline)) {

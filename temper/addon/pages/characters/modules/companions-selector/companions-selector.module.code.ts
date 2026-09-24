@@ -32,8 +32,6 @@ import {
   type SavedCompanionEquipmentSlot,
 } from "akasha/temper/addon/pages/characters/modules/companions-saved-variables/companions-saved-variables.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-addon-constants/completion-addon-constants.module.code.ts"
-import "akasha/temper/addon/pages/characters/companions-declarations/companions-declarations.type-declaration.d.ts"
-import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 export const DROPDOWN_HEIGHT = 30
 const DROPDOWN_WIDTH = 200

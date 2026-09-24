@@ -23,11 +23,9 @@ import { getActiveHotbarCategory } from "akasha/temper/addon/pages/combat/module
 import { resolveStackLabels } from "akasha/temper/addon/pages/combat/modules/combat-action-stack-labels/combat-action-stack-labels.module.code.ts"
 import type { Action } from "akasha/temper/addon/pages/combat/modules/combat-action-types/combat-action-types.module.code.ts"
 import type { BarSettings } from "akasha/temper/addon/pages/combat/modules/combat-actions-saved-variables/combat-actions-saved-variables.module.code.ts"
-import "akasha/temper/addon/pages/items/crafting-station/potion-decl-controls/potion-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-interface-extra-4/eso-interface-extra-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 

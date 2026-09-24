@@ -1,8 +1,4 @@
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-task-hud/characters-task-hud.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/characters/modules/characters-window/characters-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-log-update/combat-ui-log-update.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-log-window/combat-ui-log-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-objects-02.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts","typed":false,"deferred":false}

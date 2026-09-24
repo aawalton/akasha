@@ -9,7 +9,6 @@ import { optionalNumberValue } from "akasha/temper/addon/pages/combat/modules/co
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 export type ChatReportData = (CurrentData & { units: Record<number, UnitEntry> }) | CmxFight
 
