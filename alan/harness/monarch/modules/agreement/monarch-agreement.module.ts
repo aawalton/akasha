@@ -41,10 +41,7 @@ export const monarchAgreement = {
       statement:
         "Nothing here files a record of a disagreement or keeps this module's last answer.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A disagreement reaches somebody who can act on that disagreement.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Parting is left non-zero.",
