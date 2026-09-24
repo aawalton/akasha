@@ -4,7 +4,7 @@ export const codeEditor = {
   id: "01a0658a-e55d-7059-8f58-e3521a432370",
   type: "page-type/domain",
   slug: "code-editor",
-  definition: "a workbench of files, groups, panels and terminals",
+  definition: "the program where Alan manages agents",
   parts: [
     "domain/code-editor-group-layout",
     "page-type/code-editor-data-interface",
