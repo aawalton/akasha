@@ -107,7 +107,6 @@
 {"propertySlug":"decision-kind","path":"change/runner/change-runner.page-type.ts","id":"01a077c2-3a15-7c14-8900-ecb0624ff450"}
 {"propertySlug":"decision-kind","path":"change/runner/modules/change-loading/change-loading.module.ts","id":"01a08161-d992-7ad5-b5f9-6397f53d2002"}
 {"propertySlug":"decision-kind","path":"change/runner/properties/addressed.file-property.ts","id":"01a077c9-302e-73d9-ab09-7e86e4854566"}
-{"propertySlug":"decision-kind","path":"check/code/check-code.page-type.ts","id":"01a04bc4-7e86-7beb-8dfb-3666785dd3d5"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.ts","id":"01a0827e-df53-7d03-80a4-b3305001f92e"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.ts","id":"01a09c58-2398-7392-b878-1c1491cab780"}
 {"propertySlug":"decision-kind","path":"code/file-kind-domain/file-kind-domain.page-type.ts","id":"01a06837-0535-70c2-9917-d332b4b6a505"}

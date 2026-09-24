@@ -193,10 +193,6 @@ export const checkCode = {
         "A check reads the tree through the overlay, which reads it through the module that reads trees.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every check listing a folder lists it through the overlay.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "The overlay's listing is reached from the shadow a check is handed.",
     },
@@ -222,10 +218,6 @@ export const checkCode = {
       decisionKind: "decision-kind/departure",
       statement:
         "The shadow's listing, its holding and its page reading are the reaches a check may make.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A check's decision is handed the shadow wherever that decision lists.",
     },
   ],
   directives: [
