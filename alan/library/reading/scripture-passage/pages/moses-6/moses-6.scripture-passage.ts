@@ -5,6 +5,7 @@ export const moses6 = {
   type: "page-type/scripture-passage",
   slug: "moses-6",
   title: "Moses 6",
+  partOfCollections: ["scripture-collection/moses"],
   book: "Moses",
   position: 6,
   ownLength: 0,

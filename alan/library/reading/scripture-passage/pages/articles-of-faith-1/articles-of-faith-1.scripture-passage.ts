@@ -5,6 +5,7 @@ export const articlesOfFaith1 = {
   type: "page-type/scripture-passage",
   slug: "articles-of-faith-1",
   title: "Articles of Faith 1",
+  partOfCollections: ["scripture-collection/articles-of-faith"],
   book: "Articles of Faith",
   position: 1,
   ownLength: 0,

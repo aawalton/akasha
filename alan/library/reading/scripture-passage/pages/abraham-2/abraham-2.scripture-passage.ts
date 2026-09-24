@@ -5,6 +5,7 @@ export const abraham2 = {
   type: "page-type/scripture-passage",
   slug: "abraham-2",
   title: "Abraham 2",
+  partOfCollections: ["scripture-collection/abraham"],
   book: "Abraham",
   position: 2,
   ownLength: 0,

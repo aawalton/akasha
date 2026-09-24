@@ -5,6 +5,7 @@ export const moses8 = {
   type: "page-type/scripture-passage",
   slug: "moses-8",
   title: "Moses 8",
+  partOfCollections: ["scripture-collection/moses"],
   book: "Moses",
   position: 8,
   ownLength: 0,

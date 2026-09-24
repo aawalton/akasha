@@ -5,6 +5,7 @@ export const josephSmithHistory1 = {
   type: "page-type/scripture-passage",
   slug: "joseph-smith-history-1",
   title: "Joseph Smith--History 1",
+  partOfCollections: ["scripture-collection/joseph-smith-history"],
   book: "Joseph Smith--History",
   position: 1,
   ownLength: 0,
