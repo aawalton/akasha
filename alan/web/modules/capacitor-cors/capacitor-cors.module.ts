@@ -36,16 +36,6 @@ export const capacitorCors = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A header one answer states wins over a cross-origin header, and that over a carried one.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A header picked up part way through a request is carried by every answer after it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
         "A route doing its work in its action still answers a preflight through its loader.",
     },
     {
