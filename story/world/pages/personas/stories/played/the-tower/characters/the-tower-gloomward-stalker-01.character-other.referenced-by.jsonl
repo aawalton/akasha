@@ -1,5 +1,6 @@
 {"propertySlug":"encounter-characters","path":"story/game/pages/the-tower/encounters/the-tower-gloomward-stalker-01.game-encounter.ts","id":"01a0c664-93b9-73dd-a1ef-49659a34231d"}
 {"propertySlug":"item-character","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-gloomward-stalker-claws.item.ts","id":"01a0d3d0-c825-7675-afbc-0a58a6db1579"}
+{"propertySlug":"lore-about","path":"story/world/pages/personas/lore/the-tower-gloomward-stalker-01.lore.ts","id":"01a0d450-1e9e-7f44-ac75-7b6c6203956b"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-finesse/pages/the-tower-gloomward-stalker-01.tower-finesse.ts","id":"01a0ca30-e305-769d-85b5-2a08e6b5df7e"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-intellect/pages/the-tower-gloomward-stalker-01.tower-intellect.ts","id":"01a0ca31-0452-71df-be22-1f1437bb5802"}
 {"propertySlug":"metric-of-character","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-luck/pages/the-tower-gloomward-stalker-01.tower-luck.ts","id":"01a0ca31-4592-72af-b58a-8be091e094ba"}
