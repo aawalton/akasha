@@ -21,6 +21,7 @@ import { statedIn } from "akasha/change/modules/page-literal/page-literal.module
 import {
   carrying,
   holdingIn,
+  listingIn,
   type World,
 } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { slugRenamed } from "akasha/change/modules/slug-renaming/slug-renaming.module.code.ts"
@@ -30,7 +31,6 @@ import { reachesIn } from "akasha/code/workspace/modules/package-manifest/packag
 import type { Beside as Sidecar } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import { importingOf } from "akasha/page/index/modules/path-naming/path-naming.module.code.ts"
 import type { Shaped } from "akasha/page/index/modules/reaching/reaching.module.code.ts"
-import { filesIn } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
 import { namedAs, slugIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { spellingsIn } from "akasha/page/modules/export-name/modules/export-spelling/export-spelling.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
@@ -171,7 +171,7 @@ function underIn(
   moved: ReadonlySet<string>
 ): readonly Move[] {
   const paths = [...new Set([...world.under(from), ...(world.claimed?.(from) ?? [])])].sort()
-  const folders = foldersUnder(world.root, from, to, held.slug, given.to, paths)
+  const folders = foldersUnder(listingIn(world), from, to, held.slug, given.to, paths)
   const opening = `${held.slug}.${held.pageTypeSlug}.`
   const found: Move[] = []
   for (const path of paths) {
@@ -201,19 +201,19 @@ export function tailOf(slug: string, named: string, to: string): string | null {
 
 function foldedAs(world: World, held: Held, given: Asked, folder: string): string {
   if (held.pageTypeSlug === PAGE_TYPE) return basename(folder)
-  const above = namesAbove(world.root, folder, folder, given.to)
+  const above = namesAbove(listingIn(world), folder, folder, given.to)
   return strippedOf(given.to, above) ?? folderFor(held.pageTypeSlug, given.to)
 }
 
 function namesFolder(world: World, held: Held, folder: string): boolean {
-  const above = namesAbove(world.root, folder, folder, held.slug)
+  const above = namesAbove(listingIn(world), folder, folder, held.slug)
   return strippedOf(held.slug, above) === basename(folder)
 }
 
 function landingIn(world: World, held: Held, given: Asked): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
-  const owns = ownsIn(filesIn(world.root, folder), held) || namesFolder(world, held, folder)
+  const owns = ownsIn(listingIn(world)(folder), held) || namesFolder(world, held, folder)
   if (!owns) return join(folder, name)
   return join(dirname(folder), foldedAs(world, held, given, folder), name)
 }

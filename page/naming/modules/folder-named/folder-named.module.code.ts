@@ -1,10 +1,11 @@
 import { basename, dirname, join } from "node:path"
-import { filesIn } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const UNDER = "/"
 
 const HERE = "."
+
+export type Listing = (folder: string) => readonly string[]
 
 export function openingWith(named: string, above: readonly string[]): string | null {
   for (const one of above) {
@@ -31,14 +32,14 @@ function namingIn(files: readonly string[]): string | null {
 }
 
 export function namesAbove(
-  root: string,
+  listed: Listing,
   folder: string,
   from: string,
   to: string
 ): readonly string[] {
   let at = dirname(folder)
   while (at !== "" && at !== HERE) {
-    const said = at === from ? to : namingIn(filesIn(root, at))
+    const said = at === from ? to : namingIn(listed(at))
     if (said !== null) return [said]
     at = dirname(at)
   }
@@ -58,7 +59,7 @@ function underFolders(paths: readonly string[], from: string): readonly string[]
 }
 
 export function foldersUnder(
-  root: string,
+  listed: Listing,
   from: string,
   to: string,
   was: string,
@@ -68,9 +69,9 @@ export function foldersUnder(
   const found = new Map<string, string>([[from, to]])
   for (const folder of underFolders(paths, from)) {
     const above = found.get(dirname(folder)) ?? dirname(folder)
-    const named = namingIn(filesIn(root, folder))
-    const before = named === null ? null : strippedOf(named, namesAbove(root, folder, from, was))
-    const after = named === null ? null : strippedOf(named, namesAbove(root, folder, from, now))
+    const named = namingIn(listed(folder))
+    const before = named === null ? null : strippedOf(named, namesAbove(listed, folder, from, was))
+    const after = named === null ? null : strippedOf(named, namesAbove(listed, folder, from, now))
     const takes = before === basename(folder) && after !== null ? after : basename(folder)
     found.set(folder, join(above, takes))
   }

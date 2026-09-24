@@ -3111,6 +3111,7 @@
 {"propertySlug":"decision-kind","path":"page/naming/folding/modules/dash-between-words/dash-between-words.module.ts","id":"01a08e73-15cd-74c8-9abf-c1974f4b4e89"}
 {"propertySlug":"decision-kind","path":"page/naming/folding/modules/dash-each-capital/dash-each-capital.module.ts","id":"01a08e73-15cb-748d-bb35-86c2741dbde0"}
 {"propertySlug":"decision-kind","path":"page/naming/folding/naming-folding.domain.ts","id":"01a08e6f-55be-71c8-8946-b4047f5a9d4c"}
+{"propertySlug":"decision-kind","path":"page/naming/modules/folder-named/folder-named.module.ts","id":"01a0a30c-d773-7c2d-812f-6f616bead399"}
 {"propertySlug":"decision-kind","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts","id":"01a05c53-bc6b-7dba-8a4d-0388f0ff1db2"}
 {"propertySlug":"decision-kind","path":"page/naming/naming.domain.ts","id":"01a05341-b9a9-7d68-88b3-142e3e3ecd4d"}
 {"propertySlug":"decision-kind","path":"page/nav/nav.page-type.ts","id":"01a0680e-5e00-7007-a253-4c7d9b1a5108"}

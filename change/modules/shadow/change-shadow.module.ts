@@ -232,6 +232,16 @@ export const changeShadow = {
 
     {
       decisionKind: "decision-kind/departure",
+      statement: "A world lists the files a folder holds itself.",
+    },
+
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those files are read from the commit's tree with the answers gathered laid over.",
+    },
+
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Carrying a world onto an answer is one act.",
     },
     {

@@ -16,6 +16,7 @@ import {
   type Naming,
   namesOver,
   treeClaimed,
+  treeFiles,
   treeTracked,
   treeUnder,
   treeUnentered,
@@ -184,6 +185,10 @@ export async function reach(world: World, at: Reaches, given: unknown): Promise<
 
 export function holdingIn(world: World): (path: string) => boolean {
   return (path) => world.textOf(path) !== null
+}
+
+export function listingIn(world: World): (folder: string) => readonly string[] {
+  return (folder) => treeFiles(world.root, folder, world.over)
 }
 
 function bytesOf(body: Held | null): Uint8Array | null {

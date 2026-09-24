@@ -37,6 +37,7 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/file-carrying/file-carrying.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/page-claiming/page-claiming.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/page-knowing/page-knowing.module.test.ts"}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/page-renaming/page-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/page-type-renaming/page-type-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.test.ts"}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"change/modules/shadow/change-shadow.module.test.ts"}

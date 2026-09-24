@@ -1,9 +1,7 @@
-{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"change/modules/shadow-tree/change-shadow-tree.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"check/code/pages/command-is-named-by-its-place-in-the-tree/command-is-named-by-its-place-in-the-tree.check-code.decision.code.ts"}
 {"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"check/code/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/index/modules/keeping/index-keeping.module.code.ts"}
 {"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.test.ts"}
-{"propertySlug":"import","fileName":"tree-reading.module.code.ts","path":"page/naming/modules/folder-named/folder-named.module.code.ts"}
 {"propertySlug":"parts","path":"page/index/index.page-type.ts","id":"01a04ef3-160f-7849-949b-629de4915d07"}

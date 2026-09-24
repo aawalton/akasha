@@ -6,6 +6,7 @@ export const pageRenaming = {
   slug: "page-renaming",
   definition: "the edits renaming a page and carrying its files to where its new slug says",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -39,6 +40,14 @@ export const pageRenaming = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A file in a folder the page claims is taken with the page as any other file is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The files a folder holds are read through the world the rename is handed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rename sees a folder where an edit kept before it moved that folder.",
     },
     {
       decisionKind: "decision-kind/departure",

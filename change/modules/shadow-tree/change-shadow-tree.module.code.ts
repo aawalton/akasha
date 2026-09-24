@@ -9,7 +9,10 @@ import {
   type Paging,
   pagingOf,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
-import { walkedUnder } from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
+import {
+  filesIn,
+  walkedUnder,
+} from "akasha/page/index/modules/tree-reading/tree-reading.module.code.ts"
 import { VENDOR_ROOT } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import {
   partedIn,
@@ -82,6 +85,10 @@ export function treeUnder(
   const claimed = claimingIn(index, laidOver(over.edits))
   const had = filesThere(root, folder, (path) => claimed(relative(root, path)) === null)
   return underOver(had, over, folder)
+}
+
+export function treeFiles(root: string, folder: string, over: Answer): readonly string[] {
+  return underOver(filesIn(root, folder), over, folder).filter((one) => dirname(one) === folder)
 }
 
 export type Unentered = {

@@ -6,4 +6,10 @@ export const folderNamed = {
   slug: "folder-named",
   definition: "the name a folder takes under the page above it",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The files a folder holds are read through the listing the caller hands in.",
+    },
+  ],
 } as const satisfies Module

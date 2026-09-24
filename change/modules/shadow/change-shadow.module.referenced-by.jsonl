@@ -260,6 +260,7 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-property-splicing/page-property-splicing.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-property-splicing/page-property-splicing.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.code.ts"}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-renaming/page-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-type-renaming/page-type-renaming.module.code.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-type-renaming/page-type-renaming.module.test.ts"}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/page-type-restating/page-type-restating.module.code.ts"}
