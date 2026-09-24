@@ -978,6 +978,9 @@
 {"propertySlug":"decision-kind","path":"code/editor/extension/status-bar/status-bar.domain.ts","id":"01a06811-01d3-7007-b8c1-0a172fb4f158"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-api/vscode-api.type-declaration.ts","id":"01a0680b-7175-7001-8191-14c34a59562f"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/vscode-stub/vscode-stub.javascript-module.ts","id":"01a06957-955c-7cf6-9b2b-b7ef62ac9c75"}
+{"propertySlug":"decision-kind","path":"code/file-kind-domain/file-kind-domain.page-type.ts","id":"01a06837-0535-70c2-9917-d332b4b6a505"}
+{"propertySlug":"decision-kind","path":"code/file-kind-domain/pages/image.file-kind-domain.ts","id":"01a0d58a-70ad-7bbc-84d9-161e8b519c5f"}
+{"propertySlug":"decision-kind","path":"code/file-kind-domain/pages/js.file-kind-domain.ts","id":"01a0d58a-70ad-7d6b-88a5-8e5b98d72892"}
 {"propertySlug":"decision-kind","path":"code/ios-app/modules/app-building/app-building.module.ts","id":"01a059b8-3354-76d3-b596-b5329132b15d"}
 {"propertySlug":"decision-kind","path":"code/ios-app/modules/decode-harness-script/decode-harness-script.module.ts","id":"01a0910c-50a4-7b5a-8f18-530ddf42c6ea"}
 {"propertySlug":"decision-kind","path":"code/ios-app/modules/shared-build-files/shared-build-files.module.ts","id":"01a08d67-2fb9-78c4-b9ea-4808b713a611"}

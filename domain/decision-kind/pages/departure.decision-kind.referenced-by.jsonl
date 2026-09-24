@@ -1796,6 +1796,11 @@
 {"propertySlug":"decision-kind","path":"code/eso-interface/eso-interface.page-type.ts","id":"01a06036-9b76-7bf2-b21b-2f45a8b14ac4"}
 {"propertySlug":"decision-kind","path":"code/eso-interface/properties/loaded-as.text-property.ts","id":"01a061c5-760e-7c2b-8bed-7804c4b4226d"}
 {"propertySlug":"decision-kind","path":"code/file-kind-domain/file-kind-domain.page-type.ts","id":"01a06837-0535-70c2-9917-d332b4b6a505"}
+{"propertySlug":"decision-kind","path":"code/file-kind-domain/pages/sh.file-kind-domain.ts","id":"01a0d58a-70ad-7cc6-b369-54e78a963e81"}
+{"propertySlug":"decision-kind","path":"code/file-kind-domain/pages/sops-config.file-kind-domain.ts","id":"01a0d58a-70ad-7523-899b-45f6263a1bc6"}
+{"propertySlug":"decision-kind","path":"code/file-kind-domain/pages/sops-secret.file-kind-domain.ts","id":"01a0d58a-70ad-7176-964c-e4a3de48186c"}
+{"propertySlug":"decision-kind","path":"code/file-kind-domain/pages/systemd-unit.file-kind-domain.ts","id":"01a0d58a-70ad-7f72-8fe9-f19815341cd2"}
+{"propertySlug":"decision-kind","path":"code/file-kind-domain/pages/yml.file-kind-domain.ts","id":"01a0d58a-70ae-7658-9b3d-4ddbd0953090"}
 {"propertySlug":"decision-kind","path":"code/file-purpose/file-purpose.page-type.ts","id":"01a06837-0535-7469-ab8e-6bda76b453a7"}
 {"propertySlug":"decision-kind","path":"code/file-purpose/pages/test-tsx.file-purpose.ts","id":"01a06860-a0ef-7699-bc5d-c45850b551d2"}
 {"propertySlug":"decision-kind","path":"code/flag/flag.page-type.ts","id":"01a06835-e289-76ca-8e3e-0ef012ffdf1a"}

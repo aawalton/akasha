@@ -32,52 +32,12 @@ export const fileKind = {
       statement: "A name no rule reaches says no kind rather than a kind meaning unknown.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "A sops secret is not yaml.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A sops secret's keys are sops's own and its values are ciphertext.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The sops config is sops's own rules rather than a secret.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A jsonl file is one JSON value to a line.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Bash is a kind of sh.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Yml and yaml are one language under two endings.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A systemd timer stands on the service that timer starts.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A dot-name ending `ignore` has the path patterns a tool leaves alone.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here opens the file the path names.",
     },
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here says whether a kind is text or bytes.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here says which module system loads a JavaScript file.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "Nothing here tells an icon or a texture from a photograph.",
     },
   ],
 } as const satisfies Module
