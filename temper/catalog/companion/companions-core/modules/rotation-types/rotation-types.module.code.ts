@@ -50,15 +50,6 @@ export const ULTIMATE_GENERATION_WINDOW_DURATION = 8
 
 export const ULTIMATE_GENERATION_RATE = 3
 
-interface SkillUsageEvent {
-  time: number
-  skillId: RotationSkillId
-  category: RotationCategory
-  isCrit?: boolean
-  lightAttackHealBuffs?: readonly LightAttackHealBuff[]
-  lightAttackDamageMult?: number
-}
-
 export interface SkillUsageSummary {
   skillId: RotationSkillId
   usageCount: number
@@ -76,7 +67,6 @@ export interface DamageBreakdown {
 
 export interface RotationResult {
   config: RotationConfig
-  timeline: readonly SkillUsageEvent[]
   skillSummaries: readonly SkillUsageSummary[]
   dps: number
   directDamage: number

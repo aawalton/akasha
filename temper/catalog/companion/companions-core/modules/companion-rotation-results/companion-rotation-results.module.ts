@@ -12,7 +12,6 @@ export const companionRotationResults = {
       statement:
         "Damage is totalled from extracted formula components rather than from timeline events.",
     },
-    { decisionKind: "decision-kind/gap", statement: "The returned timeline is always empty." },
     {
       decisionKind: "decision-kind/constraint",
       statement: "Uptime past the end of the cycle is trimmed off before the ratio is taken.",

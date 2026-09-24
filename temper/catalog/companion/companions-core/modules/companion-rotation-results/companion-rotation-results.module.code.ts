@@ -15,7 +15,6 @@ import type { DamageType } from "akasha/temper/catalog/skill-kind/modules/skill-
 export function createEmptyResult(config: RotationConfig): RotationResult {
   return {
     config,
-    timeline: [],
     skillSummaries: [],
     dps: 0,
     directDamage: 0,
@@ -263,7 +262,6 @@ export function calculateResults(
 
   return {
     config,
-    timeline: [],
     skillSummaries,
     dps: totalDamage / config.cycleDuration,
     directDamage: totalDirectDamage,
