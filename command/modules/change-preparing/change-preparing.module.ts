@@ -200,6 +200,15 @@ export const changePreparing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Drawing the pictures inside the hold would keep every other landing waiting.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing overlapping another can write back a picture drawn before the other landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The face saying which paths a machine writes is built here before the hold is taken.",
     },
