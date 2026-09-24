@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/properties/reads.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/properties/refusals.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/seat/log-day/properties/lines.file-property.ts"}
+{"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/seat/properties/conversation.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/seat/properties/subagent-edits.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/seat/properties/subagent-reads.file-property.ts"}
 {"propertySlug":"import","fileName":"file-property.page-type.types.ts","path":"agent/seat/properties/subagent-refusals.file-property.ts"}

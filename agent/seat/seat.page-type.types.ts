@@ -1,6 +1,7 @@
 import type { Agent } from "akasha/agent/agent.page-type.types.ts"
 import type { ClaudeCodeSessionUuid } from "akasha/agent/seat/properties/claude-code-session-uuid.text-property.types.ts"
 import type { ContextTokens } from "akasha/agent/seat/properties/context-tokens.number-property.types.ts"
+import type { Conversation } from "akasha/agent/seat/properties/conversation.file-property.types.ts"
 import type { Mode } from "akasha/agent/seat/properties/mode.text-property.types.ts"
 import type { Model } from "akasha/agent/seat/properties/model.text-property.types.ts"
 import type { OnCall } from "akasha/agent/seat/properties/on-call.boolean-property.types.ts"
@@ -43,4 +44,5 @@ export type Seat = Agent & {
   subagentReads?: SubagentReads
   subagentRefusals?: SubagentRefusals
   workingColor?: WorkingColor
+  conversation?: Conversation
 }

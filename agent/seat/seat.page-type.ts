@@ -28,6 +28,7 @@ export const seat = {
 
     "domain/seat-observation",
     "domain/seat-reviving",
+    "file-property/conversation",
     "domain/seat-supervisor",
     "domain/supervisor-restart",
     "file-property/subagent-edits",
@@ -175,6 +176,13 @@ export const seat = {
       default: "txt",
     },
     { pageProperty: "computed-property/working-color", required: false, many: false },
+    {
+      pageProperty: "file-property/conversation",
+      required: false,
+      many: false,
+      uncommitted: true,
+      default: "jsonl",
+    },
   ],
   titleColoredBy: "computed-property/working-color",
   loadedBy: "module/agent-stated",
