@@ -1,7 +1,0 @@
-## Rule
-
-THE TOWER ESCALATES. Every floor is measured on two counts and should advance on both, and may regress on neither. NOVELTY: each floor opens a tactical demand no earlier floor made — the first was a chokepoint, then water, then acoustics, then dark and height and timing, then trust and verification. MAGNITUDE: later floors are genuinely bigger and harder rather than only different — more rooms and more interacting systems; a mechanic that evolves across the floor rather than one static gimmick; a threat shape that varies from a single warden to a coordinated pair to a staged multi-phase boss; and lethality that grows with the player's own power, so a later boss carries a real risk of killing rather than a longer bar.
-
-## Implications
-
-The seductive default is scout, then light or solve, then one boss undone by its readable weakness. That was right for the first four floors and is to be broken deliberately from the fifth: multi-phase bosses, puzzles of identification rather than placement, encounters with more than one threat, climaxes carried by the floor itself, staged objectives. Reading beating brute force stays the spine; the shape around it keeps changing. Every floor's lethality is calibrated against the player's sheet as it stands when the floor is written, and every escalation is verified against the mechanics rather than asserted in prose. Each floor leaves the next a clear step: what demand is still unused, and where the size should go.
