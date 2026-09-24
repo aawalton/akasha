@@ -5,5 +5,6 @@
 {"propertySlug":"import","fileName":"page-stem.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-stem.module.code.ts","path":"command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-stem.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-stem.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-stem.module.code.ts","path":"product/kofi/feature-request/modules/naming/feature-request-naming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/naming/named-for/named-for.domain.ts","id":"01a05c53-bc6a-7abd-bdd4-f484ded3d33b"}

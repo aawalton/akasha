@@ -6,6 +6,7 @@ export const audhdalanApiSubscribe = {
   slug: "audhdalan-api-subscribe",
   definition: "where a reader gives an address to hear more",
   code: "ts",
+  test: "ts",
   urlPath: "api/subscribe",
   decisions: [
     {
