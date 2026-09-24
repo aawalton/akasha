@@ -1269,6 +1269,7 @@
 {"propertySlug":"decision-kind","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.ts","id":"01a07995-6678-72d8-97ab-a78b836b2f8d"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.ts","id":"01a07932-2568-7c41-8097-885a9fc34263"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.ts","id":"01a081db-f317-7907-8d05-07fbaed64a3d"}
+{"propertySlug":"decision-kind","path":"change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.ts","id":"01a0d5c2-d5fe-7a78-b594-4228e72d99a5"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.ts","id":"01a0c4da-fa68-7796-ad07-59a919549f57"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.ts","id":"01a0879d-8148-79b2-b976-efaa5137360f"}
 {"propertySlug":"decision-kind","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.ts","id":"01a09523-3d2f-7e8b-885b-e4fc2e8a3222"}
@@ -1418,6 +1419,7 @@
 {"propertySlug":"decision-kind","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.ts","id":"01a09c40-46df-7fc1-aa5e-e1da32da2123"}
 {"propertySlug":"decision-kind","path":"change/mode/change-mode.page-type.ts","id":"01a07c24-30e1-7802-88da-aa05d0b289dd"}
 {"propertySlug":"decision-kind","path":"change/modules/address-restating/address-restating.module.ts","id":"01a09c32-ce10-789c-bc0c-792c98ca95e4"}
+{"propertySlug":"decision-kind","path":"change/modules/ambient-reaching/ambient-reaching.module.ts","id":"01a0d5c2-d5fe-740e-83ca-37572a2af88f"}
 {"propertySlug":"decision-kind","path":"change/modules/answer/change-answer.module.ts","id":"01a07721-531c-732a-a072-2842893f0584"}
 {"propertySlug":"decision-kind","path":"change/modules/code-export-carrying/code-export-carrying.module.ts","id":"01a09c3d-8d88-7d7f-9070-14c87fa1b4b2"}
 {"propertySlug":"decision-kind","path":"change/modules/code-export-repointing/code-export-repointing.module.ts","id":"01a0b795-3ef9-7cd7-bd07-ddeb56621fcf"}

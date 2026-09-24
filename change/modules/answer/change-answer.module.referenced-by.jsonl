@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-answer.module.code.ts","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.code.ts","typed":false,"deferred":false}

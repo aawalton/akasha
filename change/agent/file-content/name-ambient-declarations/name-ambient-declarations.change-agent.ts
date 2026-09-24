@@ -56,6 +56,7 @@ export const nameAmbientDeclarations = {
       statement:
         "The import added names one declaration file rather than a glob over declarations.",
     },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A file already naming that declaration has nothing added.",

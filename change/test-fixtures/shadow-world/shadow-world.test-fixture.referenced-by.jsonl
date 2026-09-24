@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shadow-world.test-fixture.code.ts","path":"change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.test.ts","typed":false,"deferred":false}

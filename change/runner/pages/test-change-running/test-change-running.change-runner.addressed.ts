@@ -80,6 +80,9 @@ export type Changes = {
   "change-agent/divide-page-property": Parameters<
     typeof import("akasha/change/agent/file/divide-page-property/divide-page-property.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/drop-declaration-imports": Parameters<
+    typeof import("akasha/change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/gather-merging-declarations": Parameters<
     typeof import("akasha/change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.code.ts")["runChange"]
   >[1]

@@ -2,6 +2,7 @@
 {"propertySlug":"change-kind","path":"change/agent/file-content/add-property-values/add-property-values.change-agent.ts","id":"01a08881-c01c-75fd-94e8-42afd3afb064"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/change-domain-parent/change-domain-parent.change-agent.ts","id":"01a0795e-9c4f-7299-9238-117baca6b57e"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.ts","id":"01a07932-2568-7c41-8097-885a9fc34263"}
+{"propertySlug":"change-kind","path":"change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.ts","id":"01a0d5c2-d5fe-7a78-b594-4228e72d99a5"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.ts","id":"01a0c4da-fa68-7796-ad07-59a919549f57"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.ts","id":"01a0879d-8148-79b2-b976-efaa5137360f"}
 {"propertySlug":"change-kind","path":"change/agent/file-content/name-ambient-declarations/name-ambient-declarations.change-agent.ts","id":"01a0c4bb-3270-7b2a-89ee-8fd6574e53c2"}

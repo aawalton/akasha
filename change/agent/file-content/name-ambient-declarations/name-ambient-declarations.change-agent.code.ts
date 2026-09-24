@@ -1,4 +1,13 @@
 import {
+  type Declaring,
+  declaringIn,
+  namesAt,
+  namesIn,
+  PARTED,
+  type Reaching,
+  UNDER,
+} from "akasha/change/modules/ambient-reaching/ambient-reaching.module.code.ts"
+import {
   type Answer,
   type FileChange,
   missing,
@@ -11,18 +20,9 @@ import {
 import { openedIn } from "akasha/change/modules/import-lines/import-lines.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { leftAloneIn } from "akasha/change/modules/value-carrying/value-carrying.module.code.ts"
-import {
-  bindingOf,
-  declaredIn,
-  globallyReached,
-  identifiersIn,
-  referencing,
-  typeParameterOf,
-} from "akasha/code/reading/modules/code-binding/code-binding.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { specifiersIn } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 import { typed } from "akasha/code/reading/modules/code-typing/code-typing.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const AT = "at"
 
@@ -30,35 +30,7 @@ const MOST = "most"
 
 const BUT = "but"
 
-const AMBIENT = "ambient-types"
-
-const SECTION = "d"
-
-const HELD = "ts"
-
-const UNDER = "akasha"
-
-const PARTED = "/"
-
 const DECLARED = ".d.ts"
-
-export function declaringIn(world: World): ReadonlyMap<string, readonly string[]> {
-  const found = new Map<string, string[]>()
-  const carried = world.index.carryingOf(AMBIENT)
-  if ("refused" in carried) return found
-  for (const listed of carried.carrying) {
-    const at = besideAt(listed.path, SECTION, HELD)
-    if (at === null) continue
-    const text = world.textOf(at)
-    if (text === null) continue
-    for (const name of declaredIn(parsedAs(at, text)).keys()) {
-      const held = found.get(name)
-      if (held === undefined) found.set(name, [at])
-      else held.push(at)
-    }
-  }
-  return found
-}
 
 function sharedWith(one: string, two: string): number {
   const said = one.split(PARTED)
@@ -81,29 +53,12 @@ function closestTo(path: string, held: readonly string[]): string {
   return best
 }
 
-function namesIn(
-  declaring: ReadonlyMap<string, readonly string[]>,
-  at: string,
-  text: string
-): readonly string[] {
-  const found = new Set<string>()
-  for (const one of identifiersIn(parsedAs(at, text))) {
-    if (!declaring.has(one.text)) continue
-    if (!globallyReached(one)) {
-      if (!referencing(one)) continue
-      if (bindingOf(one) !== null || typeParameterOf(one) !== null) continue
-    }
-    found.add(one.text)
-  }
-  return [...found]
-}
-
 export function wantedIn(
   world: World,
-  declaring: ReadonlyMap<string, readonly string[]>,
+  declaring: Declaring,
   path: string,
   text: string,
-  reaching: Map<string, readonly string[]> = new Map()
+  reaching: Reaching = new Map()
 ): readonly string[] {
   const already = new Set(specifiersIn(path, text))
   const found = new Set<string>()
@@ -115,13 +70,7 @@ export function wantedIn(
     const at = closestTo(path, held)
     if (found.has(at)) continue
     found.add(at)
-    let names = reaching.get(at)
-    if (names === undefined) {
-      const body = world.textOf(at)
-      names = body === null ? [] : namesIn(declaring, at, body)
-      reaching.set(at, names)
-    }
-    rest.push(...names)
+    rest.push(...namesAt(world, declaring, at, reaching))
   }
   return [...found]
     .map((one) => `${UNDER}${PARTED}${one}`)
@@ -131,9 +80,9 @@ export function wantedIn(
 
 function namedIn(
   world: World,
-  declaring: ReadonlyMap<string, readonly string[]>,
+  declaring: Declaring,
   path: string,
-  reaching: Map<string, readonly string[]>
+  reaching: Reaching
 ): readonly FileChange[] {
   const text = world.textOf(path)
   if (text === null) return []

@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-agent.page-type.types.ts","path":"change/agent/file-content/move-property-value/move-property-value.change-agent.ts","typed":true,"deferred":false}

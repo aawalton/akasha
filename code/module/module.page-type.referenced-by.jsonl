@@ -855,6 +855,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/generator/change-generator.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/generator/modules/change-generating/change-generating.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/address-restating/address-restating.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/ambient-reaching/ambient-reaching.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/answer/change-answer.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.ts","typed":true,"deferred":false}

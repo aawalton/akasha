@@ -18,6 +18,8 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/change-page-page-property/change-page-page-property.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/change-property-record-field/change-property-record-field.change-agent.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/drop-declaration-imports/drop-declaration-imports.change-agent.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/gather-merging-declarations/gather-merging-declarations.change-agent.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/agent/file-content/move-code-export/move-code-export.change-agent.code.ts","typed":false,"deferred":false}
@@ -249,6 +251,7 @@
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/mechanical/prose/change-prose-pattern/change-prose-pattern.change-mechanical.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/address-restating/address-restating.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/address-restating/address-restating.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/ambient-reaching/ambient-reaching.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-carrying/code-export-carrying.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-shadow.module.code.ts","path":"change/modules/code-export-repointing/code-export-repointing.module.code.ts","typed":true,"deferred":false}
