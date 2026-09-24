@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-BUNDLE_ID="${1:-com.alanwalton.app}"
+BUNDLE_ID="${1:-${NATIVE_SHELL_BUNDLE_ID:?is unset and no bundle was named. The ios-app page states bundle-id, so name it first or export it. This script states no value of its own to fall back to.}}"
 TS="$(date -u +%Y%m%dT%H%M%SZ)"
 OUTPUT_PATH="${2:-./device-console-$TS.log}"
 
