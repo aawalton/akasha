@@ -5,6 +5,7 @@ export const azandar = {
   type: "page-type/temper-companion-progress",
   slug: "azandar",
   title: "Azandar",
+  completion: "json",
   companionId: "temper-eso-companion/azandar",
   accountPage: "temper-account/alanarre",
 } as const satisfies TemperCompanionProgress
