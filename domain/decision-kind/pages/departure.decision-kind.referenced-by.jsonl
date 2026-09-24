@@ -292,6 +292,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/name/modules/spawn-guard/spawn-guard.module.ts","id":"01a0695a-d2ea-7bcd-b07f-19486629a01c"}
 {"propertySlug":"decision-kind","path":"agent/seat/name/seat-name.domain.ts","id":"01a09c43-0bf5-7991-a2dc-650268201505"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/idle-live-seat/idle-live-seat.list.ts","id":"01a06862-a02e-7ce3-acaa-c4e902ab9c81"}
+{"propertySlug":"decision-kind","path":"agent/seat/observation/modules/conversation-shaping/conversation-shaping.module.ts","id":"01a0d430-41e2-7f5f-8d4b-4cbbcd9ae52c"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.ts","id":"01a06949-b281-7a43-b380-0b524b851f09"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/modules/seat-proc-key/seat-proc-key.module.ts","id":"01a068a4-60f0-7000-bffe-694978e0a342"}
 {"propertySlug":"decision-kind","path":"agent/seat/observation/seat-observation.domain.ts","id":"01a0658d-c92f-76f2-abb0-efb387b6515b"}
