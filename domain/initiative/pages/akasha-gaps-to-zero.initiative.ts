@@ -10,7 +10,7 @@ export const akashaGapsToZero = {
     {
       statement: "No gap decision is left.",
       workingMemory:
-        "First run under way: 110 of 1076 gaps judged, 16 settled, 94 kept for Alan. Panel order is listed by walking assembleGapTree; the kept list is kept in the seat's scratchpad as kept.tsv.",
+        "First run done: 32 settled, 1049 left. Second run with Alan starts at the top of the Gaps panel. Panel order is listed by walking assembleGapTree. About 200 left are one hazard: a table entry moved breaks every build hash saved.",
     },
   ],
   constraints: [
