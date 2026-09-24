@@ -1,5 +1,9 @@
 import { readdirSync, statSync } from "node:fs"
 import { join, sep } from "node:path"
+import {
+  testNamed,
+  typeScripted,
+} from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
 
 const OTHER_PACKAGES = "node_modules"
 
@@ -41,9 +45,9 @@ function isMachineWritten(relPath: string): boolean {
 }
 
 function isAddonOwnTypeScript(relPath: string): boolean {
-  if (!relPath.endsWith(".ts") && !relPath.endsWith(".tsx")) return false
+  if (!typeScripted(relPath)) return false
   if (relPath.endsWith(".d.ts")) return false
-  if (/\.test\.tsx?$/.test(relPath)) return false
+  if (testNamed(relPath)) return false
   if (/\.module\.code\.tsx?$/.test(relPath)) return true
   if (isMachineWritten(relPath)) return true
   return relPath.split(sep).includes(LAYOUT_OUTSIDE_AKASHA)

@@ -18,4 +18,5 @@
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"graph/modules/asking/graph-asking.module.code.ts"}
 {"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"page/index/ast-hash/index-ast-hash.index.code.ts"}
+{"propertySlug":"import","fileName":"file-kind.module.code.ts","path":"temper/addon/build/deploy-check/modules/addon-source-files/addon-source-files.module.code.ts"}
 {"propertySlug":"parts","path":"code/body/code-body.domain.ts","id":"01a09b2c-cc50-7f0f-838d-abfa522d31e4"}
