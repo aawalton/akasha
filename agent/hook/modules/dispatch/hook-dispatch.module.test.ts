@@ -1,8 +1,9 @@
 import { afterAll, describe, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { REFUSED } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
+import { ASIDE, REFUSED } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import {
+  answerFor,
   asideOf,
   eventsIn,
   heldFor,
@@ -16,6 +17,7 @@ import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.mod
 import { readingEnded } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import { readingFrom } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { indexAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 const OVER_BASH = "made-up/hooks/over-bash/over-bash.agent-hook.ts"
@@ -145,6 +147,25 @@ describe("hooksIn", () => {
     })
     writeFileSync(join(root, HELD_AT), pageOf("changed on disk"))
     expect(hooksIn(root).map((one) => one.value["slug"])).toEqual(["changed on disk"])
+  })
+})
+
+describe("answerFor", () => {
+  test("passes a call where the index names no hook, and says why", async () => {
+    const root = repoWith({
+      [indexAt(PAGE_TYPE, "module", "slug", "held.jsonl")]:
+        `{"path":"${HELD_AT}","id":"${HELD_ID}"}\n`,
+      [HELD_AT]: pageOf("held"),
+    })
+    const reading = readingFrom(root, "HEAD")
+    expect(reading).not.toBeNull()
+    const said = await answerFor(root, reading ?? readingIn(root), {
+      hook_event_name: "PreToolUse",
+    })
+    expect(said.code).toBe(ASIDE)
+    expect(said.out).toBe("")
+    expect(said.err).toContain(`names no \`${HOOK_TYPE}\``)
+    readingEnded()
   })
 })
 

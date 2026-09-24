@@ -215,7 +215,7 @@ function costKept(root: string, page: string, cost: Cost): undefined {
   } catch {}
 }
 
-async function answerFor(
+export async function answerFor(
   root: string,
   reading: Reading,
   payload: Record<string, unknown>
