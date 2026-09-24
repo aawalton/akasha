@@ -173,3 +173,8 @@ func surplusCaption(_ state: FeedState<SurplusResponse>) -> String? {
     guard case .loaded(let payload) = state else { return nil }
     return payload.surplus?.label
 }
+
+func surplusNoSignal(_ state: FeedState<SurplusResponse>) -> Bool {
+    guard case .loaded(let payload) = state else { return false }
+    return payload.surplus?.noSignal ?? false
+}
