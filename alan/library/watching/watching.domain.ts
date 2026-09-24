@@ -45,9 +45,5 @@ export const watching = {
       decisionKind: "decision-kind/departure",
       statement: "The provider's answers and Alan's records sit on the one page.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Nothing here records that Alan watched a show or a film this domain has.",
-    },
   ],
 } as const satisfies Domain
