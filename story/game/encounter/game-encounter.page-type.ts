@@ -14,7 +14,7 @@ export const gameEncounter = {
     { pageProperty: "text-property/listed-note", required: false, many: false },
     { pageProperty: "relation-property/encounter-location", required: true, many: false },
     {
-      pageProperty: "multi-relation-property/encounter-entities",
+      pageProperty: "multi-relation-property/encounter-characters",
       required: false,
       many: true,
       maxCount: null,
@@ -52,7 +52,7 @@ export const gameEncounter = {
   schema: "jsonl",
   parts: [
     "relation-property/encounter-location",
-    "multi-relation-property/encounter-entities",
+    "multi-relation-property/encounter-characters",
     "text-property/readable-trait",
     "text-property/encounter-trigger",
     "number-property/experience-reward",

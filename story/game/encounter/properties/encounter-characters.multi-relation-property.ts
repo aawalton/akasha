@@ -1,9 +1,9 @@
 import type { MultiRelationProperty } from "akasha/page/multi-relation-property/multi-relation-property.page-type.types.ts"
 
-export const encounterEntities = {
+export const encounterCharacters = {
   id: "01a0c647-77ab-7f56-928d-9a09312c406d",
   type: "page-type/multi-relation-property",
-  slug: "encounter-entities",
+  slug: "encounter-characters",
   propertySlug: "characters",
   definition: "who or what an encounter puts in front of the player",
   targetPageType: "page-type/character",
