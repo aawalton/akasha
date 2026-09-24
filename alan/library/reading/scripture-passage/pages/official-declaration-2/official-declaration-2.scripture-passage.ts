@@ -5,6 +5,7 @@ export const officialDeclaration2 = {
   type: "page-type/scripture-passage",
   slug: "official-declaration-2",
   title: "Official Declaration 2",
+  partOfCollections: ["scripture-collection/official-declaration"],
   book: "Official Declaration",
   position: 2,
   ownLength: 0,

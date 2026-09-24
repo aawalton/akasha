@@ -5,6 +5,7 @@ export const sections42 = {
   type: "page-type/scripture-passage",
   slug: "sections-42",
   title: "Sections 42",
+  partOfCollections: ["scripture-collection/sections"],
   book: "Sections",
   position: 42,
   ownLength: 0,
