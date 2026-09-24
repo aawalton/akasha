@@ -16,10 +16,7 @@ export const actionBar = {
       statement:
         "The actions waiting are asked for every five seconds while a player is signed in.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The story's turns are read again every five seconds while a turn is awaited.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "An action that failed to send is put back on the line with the error above it.",

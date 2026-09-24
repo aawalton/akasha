@@ -12,5 +12,4 @@
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"page/ui/supabase/mutation/modules/use-optimistic-create-page/use-optimistic-create-page.module.code.ts"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx"}
 {"propertySlug":"import","fileName":"singleton.module.code.ts","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx"}
-{"propertySlug":"import","fileName":"singleton.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"}
 {"propertySlug":"parts","path":"page/ui-store/page-ui-store.domain.ts","id":"01a05b69-455c-7bbd-8f3b-b2c3946559fc"}

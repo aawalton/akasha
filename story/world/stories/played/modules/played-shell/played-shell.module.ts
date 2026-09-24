@@ -54,7 +54,7 @@ export const playedShell = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "While a turn is awaited the story's turns and its game's turns, entities and quests are read again.",
+        "A turn arrives as the store is pushed the story's turns and its game's turns, entities and quests.",
     },
     {
       decisionKind: "decision-kind/departure",

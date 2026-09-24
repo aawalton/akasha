@@ -68,11 +68,9 @@ function SignedOutNotice() {
 export function ActionBar({
   gameExternalId,
   turnsSeen,
-  readTurnsAgain,
 }: {
   gameExternalId: string
   turnsSeen: number
-  readTurnsAgain: () => undefined
 }) {
   const userId = useUserId()
   const keyboardInset = useKeyboardInset()
@@ -87,8 +85,6 @@ export function ActionBar({
   const lastAskedAt = useRef(0)
   const turns = useRef(turnsSeen)
   turns.current = turnsSeen
-  const readAgain = useRef(readTurnsAgain)
-  readAgain.current = readTurnsAgain
 
   const settle = useCallback((waiting: boolean, askedAt: number) => {
     awaited.current = turnAwaited(awaited.current, turns.current, Date.now(), waiting)
@@ -109,7 +105,6 @@ export function ActionBar({
     if (userId === null) return
     void refresh()
     const every = window.setInterval(() => {
-      if (awaited.current !== null) readAgain.current()
       void refresh()
     }, POLL_MS)
     return () => window.clearInterval(every)
