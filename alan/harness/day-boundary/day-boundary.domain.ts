@@ -4,7 +4,7 @@ export const dayBoundary = {
   id: "01a05c77-31e4-7f97-8fe6-c273915285af",
   type: "page-type/domain",
   slug: "day-boundary",
-  definition: "which day an instant falls on, where a day does not start at midnight",
+  definition: "when Alan's day starts",
   parts: [
     "module/day-string",
     "module/eso-day",
