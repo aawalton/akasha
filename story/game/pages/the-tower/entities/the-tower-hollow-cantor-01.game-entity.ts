@@ -6,5 +6,4 @@ export const theTowerHollowCantor01 = {
   slug: "the-tower-hollow-cantor-01",
   title: "Hollow Cantor",
   game: "game/the-tower",
-  note: "computed by engine: VIT8(56)+MIGHT2(8) = 64 HP, but HP is nearly irrelevant — you win by killing the PLATES, not the wraith. focusMax 72, mentDef 26.5.",
 } as const satisfies GameEntity

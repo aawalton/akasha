@@ -6,5 +6,4 @@ export const theTowerAshling01 = {
   slug: "the-tower-ashling-01",
   title: "Ashling",
   game: "game/the-tower",
-  note: "computed by engine: VIT8+MIGHT2 = 54 HP",
 } as const satisfies GameEntity

@@ -6,5 +6,4 @@ export const theTowerGloomwardStalker01 = {
   slug: "the-tower-gloomward-stalker-01",
   title: "Gloomward Stalker",
   game: "game/the-tower",
-  note: "computed by engine: VIT8(72)+MIGHT2(26) = 98 HP. physDef 12.5, physAtk 39.5, Init 32. HP is moderate — the threat is the dark + the ambush, not the HP wall.",
 } as const satisfies GameEntity
