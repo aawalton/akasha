@@ -8,5 +8,6 @@ export const commonLanguageTermDo = {
   spellings: [
     { partOfSpeech: "part-of-speech/present-participle", spelling: "doing" },
     { partOfSpeech: "part-of-speech/verb", spelling: "do" },
+    { partOfSpeech: "part-of-speech/verb", spelling: "does" },
   ],
 } as const satisfies CommonLanguageTerm
