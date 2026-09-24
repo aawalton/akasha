@@ -13,6 +13,7 @@ import {
 } from "akasha/check/test-fixtures/scratch/check-scratch.test-fixture.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ADDRESS = "email-address-property"
 
@@ -43,7 +44,7 @@ function rooted(): string {
 }
 
 function bodyFor(kind: string, stated: Record<string, unknown>): string {
-  return `export const one = ${JSON.stringify({ id: ONE, pageTypeSlug: kind, slug: "one", ...stated })}\n`
+  return `export const one = ${JSON.stringify({ id: ONE, type: `${pageType.slug}/${kind}`, slug: "one", ...stated })}\n`
 }
 
 function judged(root: string, kind: string, stated: Record<string, unknown>): readonly Judged[] {

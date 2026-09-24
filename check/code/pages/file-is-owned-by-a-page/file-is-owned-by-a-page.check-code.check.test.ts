@@ -25,7 +25,7 @@ const GIVEN = "akasha/four/ca.crt"
 
 const PAGE_BODY = `export const two = {
   id: "01a0a5b0-0000-7000-8000-00000000000a",
-  pageTypeSlug: "module",
+  type: "page-type/module",
   slug: "two",
   definition: "a page a change adds beside the file it claims",
   code: "ts",

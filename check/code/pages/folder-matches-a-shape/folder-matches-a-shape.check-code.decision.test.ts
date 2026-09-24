@@ -30,6 +30,7 @@ import { domain } from "akasha/domain/domain.page-type.ts"
 import type { FoldersBy } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { type Held, heldIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 const ROOT = "/repo"
 
@@ -69,12 +70,14 @@ function claimed(value: Value): readonly string[] {
 
 test("a page stating a folder property claims the folder that property names", () => {
   expect(
-    claimed({ pageTypeSlug: "manifest", slug: "one-manifests", generatedDirectory: true })
+    claimed({ type: `${pageType.slug}/manifest`, slug: "one-manifests", generatedDirectory: true })
   ).toEqual([MANIFEST_AT, GENERATED_AT])
 })
 
 test("a page stating no folder property claims its own file and nothing beside it", () => {
-  expect(claimed({ pageTypeSlug: "manifest", slug: "one-manifests" })).toEqual([MANIFEST_AT])
+  expect(claimed({ type: `${pageType.slug}/manifest`, slug: "one-manifests" })).toEqual([
+    MANIFEST_AT,
+  ])
 })
 
 const MY_STRATEGY = "alan/book/my-strategy"
@@ -90,14 +93,17 @@ const SECTION_TYPES = new Set<string>(["alan-book", "book-section"])
 const SECTION_FILES = new Set<string>(["chapter-text"])
 
 const SCOPED = new Map<string, Value>([
-  [MY_MATH_AT, { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: [MATH] }],
+  [
+    MY_MATH_AT,
+    { type: `${pageType.slug}/book-section`, slug: "beginnings", partOfCollections: [MATH] },
+  ],
   [
     `${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`,
-    { pageTypeSlug: "book-section", slug: "beginnings", partOfCollections: [BOOK] },
+    { type: `${pageType.slug}/book-section`, slug: "beginnings", partOfCollections: [BOOK] },
   ],
   [
     `${MY_STRATEGY_SECTIONS}/two.book-section.ts`,
-    { pageTypeSlug: "book-section", slug: "two", partOfCollections: [BOOK] },
+    { type: `${pageType.slug}/book-section`, slug: "two", partOfCollections: [BOOK] },
   ],
 ])
 
@@ -142,7 +148,10 @@ test("that shape still refuses a section the index cannot reach by path", () => 
 const HOLDER_AT = `${MY_STRATEGY_SECTIONS}/beginnings.book-section.ts`
 
 const HOLDING = new Map<string, Value>([
-  [HOLDER_AT, { pageTypeSlug: "book-section", slug: "beginnings", parts: ["book-section/two"] }],
+  [
+    HOLDER_AT,
+    { type: `${pageType.slug}/book-section`, slug: "beginnings", parts: ["book-section/two"] },
+  ],
 ])
 
 test("the page in a folder is read by its path, so a scoped page states its slug and parts", () => {
@@ -162,8 +171,8 @@ const ROOT_DOMAIN = "akasha.domain.ts"
 const ROOT_WORKSPACE = "akasha-workspace.workspace.ts"
 
 const ROOTED = new Map<string, Value>([
-  [ROOT_DOMAIN, { pageTypeSlug: "domain", slug: "akasha", parts: ["domain/agents"] }],
-  [ROOT_WORKSPACE, { pageTypeSlug: "workspace", slug: "akasha-workspace" }],
+  [ROOT_DOMAIN, { type: `${pageType.slug}/domain`, slug: "akasha", parts: ["domain/agents"] }],
+  [ROOT_WORKSPACE, { type: `${pageType.slug}/workspace`, slug: "akasha-workspace" }],
 ])
 
 test("a workspace beside a domain answers for the domain and for what that domain declares", () => {
@@ -187,7 +196,7 @@ const PAIRED_DOMAIN = "seat/seat.domain.ts"
 
 test("a page beside a domain of its own slug answers for neither", () => {
   const holds = holdingOver(
-    { pageByPath: () => ({ pageTypeSlug: "page-type", slug: "seat" }) },
+    { pageByPath: () => ({ type: `${pageType.slug}/${pageType.slug}`, slug: "seat" }) },
     { at: () => [PAIRED_TYPE, PAIRED_DOMAIN], foldersIn: () => [] },
     new Set<string>(["domain", "page-type"]),
     new Set<string>()
@@ -201,7 +210,7 @@ const CHAPTER_AT = "story/world/pages/ember/stories/read/dawn/chapters/one.story
 const DEPARTURE_AT = `${decisionKind.slug}/${departure.slug}` as const
 
 const CHAPTER: Value = {
-  pageTypeSlug: "story-chapter-read",
+  type: `${pageType.slug}/story-chapter-read`,
   slug: "one",
   title: "Chapter 1",
   story: "story-read/dawn",
@@ -211,7 +220,11 @@ const CHAPTER: Value = {
 
 test("a page answers with every value on it reading as a page type slug and a slug", () => {
   const addressing = addressingOver({ pageByPath: () => CHAPTER })
-  expect(addressing(CHAPTER_AT)).toEqual(["story-read/dawn", DEPARTURE_AT])
+  expect(addressing(CHAPTER_AT)).toEqual([
+    `${pageType.slug}/story-chapter-read`,
+    "story-read/dawn",
+    DEPARTURE_AT,
+  ])
 })
 
 test("a page the index reaches by no path answers with no address", () => {

@@ -38,7 +38,7 @@ function rooted(): string {
 }
 
 function heldFor(slug: string, stated: Record<string, unknown>): Record<string, unknown> {
-  return { id: ONE, pageTypeSlug: HELD, slug, ...stated }
+  return { id: ONE, type: "page-type/held", slug, ...stated }
 }
 
 function holding(

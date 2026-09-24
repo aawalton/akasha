@@ -88,14 +88,19 @@ function linkedFiled(root: string): undefined {
   valueAlsoFiled(root, PACKAGE, [
     {
       path: LINKED_PAGE,
-      value: { id: PACKAGE_ID, pageTypeSlug: PACKAGE, slug: EXTENSION, linkedAt: LINKED_TO },
+      value: {
+        id: PACKAGE_ID,
+        type: "page-type/workspace-package",
+        slug: EXTENSION,
+        linkedAt: LINKED_TO,
+      },
     },
   ])
 }
 
 const LINKED_BODY = `export const it = ${JSON.stringify({
   id: PACKAGE_ID,
-  pageTypeSlug: PACKAGE,
+  type: "page-type/workspace-package",
   slug: EXTENSION,
   linkedAt: LINKED_TO,
 })} as const\n`

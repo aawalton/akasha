@@ -60,9 +60,19 @@ const ABOVE: readonly (readonly [string, string])[] = [
 ]
 
 const CARRIED: readonly Value[] = [
-  { pageTypeSlug: FILE_PROPERTY, slug: "patch", propertySlug: "patch", runsFileLength: false },
-  { pageTypeSlug: FILE_PROPERTY, slug: "notes", propertySlug: "notes" },
-  { pageTypeSlug: DRAFTED, slug: "sketch", propertySlug: "sketch", runsFileLength: false },
+  {
+    type: `${pageType.slug}/${FILE_PROPERTY}`,
+    slug: "patch",
+    propertySlug: "patch",
+    runsFileLength: false,
+  },
+  { type: `${pageType.slug}/${FILE_PROPERTY}`, slug: "notes", propertySlug: "notes" },
+  {
+    type: "page-type/drafted-file-property",
+    slug: "sketch",
+    propertySlug: "sketch",
+    runsFileLength: false,
+  },
 ]
 
 function bodyAt(root: string, at: string, value: Value): undefined {
@@ -75,7 +85,7 @@ function alsoSeeded(root: string): undefined {
   const filing = pageFilingFrom(root, STEM)
   const held = new Map<string, string>()
   for (const [slug, above] of ABOVE) {
-    const value = { pageTypeSlug: PAGE_TYPE, slug, extends: [above] }
+    const value = { type: `${pageType.slug}/${PAGE_TYPE}`, slug, extends: [above] }
     const at = `akasha/${slug}.page-type.ts`
     const id = filing(PAGE_TYPE, slug, at, value)
     held.set(slug, id)
@@ -84,7 +94,7 @@ function alsoSeeded(root: string): undefined {
     if (over !== undefined) relationFiled(root, over, EXTENDS_TYPE, id, [{ path: at }])
   }
   for (const value of CARRIED) {
-    const kind = String(value["pageTypeSlug"])
+    const kind = slugOf(String(value["type"]))
     const slug = String(value["slug"])
     shapeAdded(root, kind, slug, [
       { pageTypeSlug: kind, targetPageTypeSlug: null, unique: null, slug, propertySlug: slug },
@@ -115,7 +125,12 @@ export function seeded(value: Value): string {
       fileName: LOCKFILE,
     },
   ])
-  const lockfile = { id: PROPERTY_ID, pageTypeSlug: FILE_PROPERTY, slug: "lockfile", ...value }
+  const lockfile = {
+    id: PROPERTY_ID,
+    type: `${pageType.slug}/${FILE_PROPERTY}`,
+    slug: "lockfile",
+    ...value,
+  }
   valueAlsoFiled(root, FILE_PROPERTY, [{ path: PROPERTY_AT, value: lockfile }])
   bodyAt(root, PROPERTY_AT, lockfile)
   besideFiled(root, DRAFTED, "sketchbook", SKETCH_AT, SKETCH_ID)
@@ -131,7 +146,7 @@ export function seeded(value: Value): string {
   ])
   const sketchbook = {
     id: SKETCH_ID,
-    pageTypeSlug: DRAFTED,
+    type: `${pageType.slug}/${DRAFTED}`,
     slug: "sketchbook",
     ...value,
     fileName: SKETCHBOOK,
@@ -140,12 +155,15 @@ export function seeded(value: Value): string {
   bodyAt(root, SKETCH_AT, sketchbook)
   listedFiled(root, PAGE_TYPE, WORKSPACE, [{ path: TYPE_AT, id: TYPE_ID }])
   valueAlsoFiled(root, PAGE_TYPE, [
-    { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: PAGE_TYPE, slug: WORKSPACE } },
+    {
+      path: TYPE_AT,
+      value: { id: TYPE_ID, type: `${pageType.slug}/${PAGE_TYPE}`, slug: WORKSPACE },
+    },
   ])
   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   listedFiled(root, WORKSPACE, "one", [{ path: OWNER_AT, id: OWNER_ID }])
   valueAlsoFiled(root, WORKSPACE, [
-    { path: OWNER_AT, value: { id: OWNER_ID, pageTypeSlug: WORKSPACE, slug: "one" } },
+    { path: OWNER_AT, value: { id: OWNER_ID, type: `${pageType.slug}/${WORKSPACE}`, slug: "one" } },
   ])
   alsoSeeded(root)
   return root

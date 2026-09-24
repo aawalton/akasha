@@ -47,7 +47,7 @@ function rooted(at: string): string {
 
 function namespaceBody(): Uint8Array {
   return new TextEncoder().encode(
-    `export const warbling = { id: ${JSON.stringify(NS)}, pageTypeSlug: "namespace", ` +
+    `export const warbling = { id: ${JSON.stringify(NS)}, type: "page-type/namespace", ` +
       `slug: "warbling", parts: ["command/warbling-humming"] }\n`
   )
 }
@@ -94,14 +94,14 @@ function bare(): string {
 function arriving(): Change {
   return landing(bare(), {
     [UNDER]: BYTES.encode(
-      `export const held = { id: ${JSON.stringify(CMD)}, pageTypeSlug: "command", ` +
+      `export const held = { id: ${JSON.stringify(CMD)}, type: "page-type/command", ` +
         `slug: "warbling-humming", parts: ["module/trilling"] }\n`
     ),
     [CMD_CODE]: BYTES.encode(
       `import { trilling } from "akasha/${MOD_CODE}"\nexport const said = trilling\n`
     ),
     [MOD_AT]: BYTES.encode(
-      `export const held = { id: ${JSON.stringify(MOD)}, pageTypeSlug: "module", slug: "trilling" }\n`
+      `export const held = { id: ${JSON.stringify(MOD)}, type: "page-type/module", slug: "trilling" }\n`
     ),
     [MOD_CODE]: BYTES.encode(`export function trilling(): string {\n  return "trilling"\n}\n`),
   })

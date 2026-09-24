@@ -52,7 +52,7 @@ function rooted(): string {
 function body(kind: string, slug: string, id: string, parts?: readonly string[]): Uint8Array {
   const said = parts === undefined ? "" : `, partSlugs: ${JSON.stringify(parts)}`
   return new TextEncoder().encode(
-    `export const held = { id: ${JSON.stringify(id)}, pageTypeSlug: ${JSON.stringify(kind)}, ` +
+    `export const held = { id: ${JSON.stringify(id)}, type: ${JSON.stringify(`page-type/${kind}`)}, ` +
       `slug: ${JSON.stringify(slug)}${said} }\n`
   )
 }
@@ -279,7 +279,7 @@ test("a page of a page type the change itself adds is judged too", () => {
   const said = judged(
     landing(root, {
       "akasha/module.page-type.ts": new TextEncoder().encode(
-        `export const held = { id: ${JSON.stringify(NEW)}, pageTypeSlug: "page-type", ` +
+        `export const held = { id: ${JSON.stringify(NEW)}, type: "page-type/page-type", ` +
           `slug: "module", extends: ["${pageType.slug}/${domain.slug}"] }\n`
       ),
       [pathFor("module", "held")]: body("module", "held", ONE),
