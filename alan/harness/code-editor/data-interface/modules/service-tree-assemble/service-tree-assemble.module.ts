@@ -63,10 +63,7 @@ export const serviceTreeAssemble = {
       decisionKind: "decision-kind/gap",
       statement: "Every kind of service publishes whether that service is well.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The panel says whether the verdicts the panel draws are current.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here walks the file system.",
