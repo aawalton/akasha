@@ -7,7 +7,6 @@ export const changeAgentFileContent = {
   definition: "a change an agent reaches acting on what a file has",
   parts: [
     "change-agent/add-property-record",
-    "change-agent/add-property-value",
     "change-agent/add-property-values",
     "change-agent/append-lines",
     "change-agent/append-lines-from",

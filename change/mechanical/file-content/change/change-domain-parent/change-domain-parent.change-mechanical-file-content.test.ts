@@ -188,7 +188,7 @@ test("a page no page names among its parts is refused", async () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toBe(
-    `no page names \`${PAGE_AT}\` among its parts, so \`add-property-value\` puts it under one`
+    `no page names \`${PAGE_AT}\` among its parts, so \`add-property-values\` puts it under one`
   )
 })
 

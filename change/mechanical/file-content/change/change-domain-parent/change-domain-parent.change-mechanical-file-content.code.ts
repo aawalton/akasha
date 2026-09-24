@@ -60,7 +60,7 @@ export function parentOf(world: World, known: Shaped, of: Placed, named: string)
   const first = namers[0]
   if (first === undefined) {
     return {
-      refused: `no page names \`${named}\` among its parts, so \`add-property-value\` puts it under one`,
+      refused: `no page names \`${named}\` among its parts, so \`add-property-values\` puts it under one`,
     }
   }
   if (namers.length > ONE) {

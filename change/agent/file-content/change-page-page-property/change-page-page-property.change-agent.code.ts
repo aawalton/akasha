@@ -40,7 +40,7 @@ export async function changePageProperty(
   const text = world.textOf(given.at)
   if (text !== null && manyIn(parsedAs(given.at, text), given.key)) {
     return refusing(
-      `\`${given.key}\` holds many values, which \`add-property-value\` and \`remove-property-value\` change`
+      `\`${given.key}\` holds many values, which \`add-property-values\` and \`remove-property-value\` change`
     )
   }
   if (targetsIn(read.known, read.value, given.key).length > 0) {
