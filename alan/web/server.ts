@@ -26,7 +26,7 @@ const serverBuild = asServerBuild(await import(join(BUILD_DIR, "server", "index.
 
 const SERVING: RouterAppServing = {
   clientDir: CLIENT_DIR,
-  csp: { mediaSrc: ["blob:"] },
+  csp: { mediaSrc: ["blob:"], imgSrc: ["blob:"] },
   whoIsReading: async (request) => ({ user: await signedInAs(request) }),
   routes: createRequestHandler(serverBuild, "production"),
 }
