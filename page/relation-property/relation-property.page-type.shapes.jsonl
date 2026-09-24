@@ -12,7 +12,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-armor-slot","unique":null,"uniquePropertySlug":null,"slug":"armor-slot","propertySlug":"armor-slot","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-armor-trait","unique":null,"uniquePropertySlug":null,"slug":"armor-trait","propertySlug":"armor-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"artist","unique":null,"uniquePropertySlug":null,"slug":"artist","propertySlug":"artist","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"game","unique":null,"uniquePropertySlug":null,"slug":"assignment-game","propertySlug":"game","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"story-game","unique":null,"uniquePropertySlug":null,"slug":"assignment-game","propertySlug":"game","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attribute","unique":null,"uniquePropertySlug":null,"slug":"attribute","propertySlug":"attribute","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"character","unique":null,"uniquePropertySlug":null,"slug":"attunement-character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"element","unique":null,"uniquePropertySlug":null,"slug":"attunement-element","propertySlug":"element","fileName":null,"folderName":null}
@@ -90,7 +90,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-catalog-thing","unique":null,"uniquePropertySlug":null,"slug":"graded-thing","propertySlug":"thing","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-grimoire","unique":null,"uniquePropertySlug":null,"slug":"grimoire-id","propertySlug":"grimoire-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"heard-source","unique":null,"uniquePropertySlug":null,"slug":"heard-source","propertySlug":"heard-source","fileName":null,"folderName":null}
-{"pageTypeSlug":"relation-property","targetPageTypeSlug":"game","unique":null,"uniquePropertySlug":null,"slug":"holding-game","propertySlug":"game","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"story-game","unique":null,"uniquePropertySlug":null,"slug":"holding-game","propertySlug":"game","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"value","unique":null,"uniquePropertySlug":null,"slug":"identity-statement-value","propertySlug":"identity-statement-value","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"image-persona","propertySlug":"persona","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"host","unique":null,"uniquePropertySlug":null,"slug":"inference-host","propertySlug":"host","fileName":null,"folderName":null}

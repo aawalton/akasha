@@ -1,11 +1,11 @@
-import type { GameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.types.ts"
+import type { GameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.types.ts"
 
 export const haremHotelRoll010 = {
   id: "01a0c958-b8ec-775b-99bb-d264cc2382e8",
   type: "page-type/game-mechanic-run",
   slug: "harem-hotel-roll-010",
   title: "alan-t18-hold-and-keystone",
-  game: "game/harem-hotel",
+  game: "story-game/harem-hotel",
   turn: 18,
   said: "alan-t18-hold-and-keystone",
   seed: "d36dad50f490877be6379fd60066f782",

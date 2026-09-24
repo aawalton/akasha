@@ -26,7 +26,7 @@ import { putting } from "akasha/page/service/modules/page-putting/page-putting.m
 import type {
   Bonus,
   MechanicRun,
-} from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
+} from "akasha/story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
 import {
   gameAt,
   gameSlugIn,
@@ -34,8 +34,8 @@ import {
   runsIn,
   runsUnder,
   settledBy,
-} from "akasha/story/game/mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"
-import { pagedRun } from "akasha/story/game/mechanic-run/modules/run-paging/run-paging.module.code.ts"
+} from "akasha/story/game/game-mechanic/modules/mechanic-settling/mechanic-settling.module.code.ts"
+import { pagedRun } from "akasha/story/game/game-mechanic-run/modules/run-paging/run-paging.module.code.ts"
 
 const NAMED = [
   gameArgument,

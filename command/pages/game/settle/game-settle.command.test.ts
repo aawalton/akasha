@@ -10,15 +10,15 @@ import {
   taken,
 } from "akasha/command/pages/game/settle/game-settle.command.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { game } from "akasha/story/game/game.page-type.ts"
-import { gameMechanic } from "akasha/story/game/mechanic/game-mechanic.page-type.ts"
-import type { MechanicRun } from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
-import { attributeCheck } from "akasha/story/game/mechanic/pages/attribute-check/attribute-check.game-mechanic.ts"
-import { theTower } from "akasha/story/game/pages/the-tower/the-tower.game.ts"
+import { gameMechanic } from "akasha/story/game/game-mechanic/game-mechanic.page-type.ts"
+import type { MechanicRun } from "akasha/story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
+import { attributeCheck } from "akasha/story/game/game-mechanic/pages/attribute-check/attribute-check.game-mechanic.ts"
+import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
+import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 
 const CALLED = "akasha game settle"
 
-const GAME = namedAs(game.slug, theTower.slug, null)
+const GAME = namedAs(storyGame.slug, theTower.slug, null)
 
 const CHECK = namedAs(gameMechanic.slug, attributeCheck.slug, null)
 

@@ -18,7 +18,7 @@ import {
 
 const DOMAIN_SLUG_KEY = "slug"
 
-export const GAME = "game"
+export const GAME = "story-game"
 
 export interface Found {
   readonly slugs: ReadonlyMap<string, string>

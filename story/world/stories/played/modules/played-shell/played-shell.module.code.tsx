@@ -11,20 +11,20 @@ import {
 
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { ChapterProseTitles } from "akasha/story/engine/core/modules/game-schema/game-schema.module.code.ts"
-import { gameEntity } from "akasha/story/game/entity/game-entity.page-type.ts"
-import { game } from "akasha/story/game/game.page-type.ts"
-import type { PanelRun } from "akasha/story/game/panel/modules/panel-drawing/panel-drawing.module.code.ts"
+import { gameEntity } from "akasha/story/game/game-entity/game-entity.page-type.ts"
+import type { PanelRun } from "akasha/story/game/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
   shownIn,
   usePanelsDrawn,
-} from "akasha/story/game/panel/modules/panel-loading/panel-loading.module.code.ts"
-import { above } from "akasha/story/game/panel/panel-place/pages/above.panel-place.ts"
-import { aside } from "akasha/story/game/panel/panel-place/pages/aside.panel-place.ts"
-import { run } from "akasha/story/game/panel/panel-place/pages/run.panel-place.ts"
-import { panelPlace } from "akasha/story/game/panel/panel-place/panel-place.page-type.ts"
-import { gameQuest } from "akasha/story/game/quest/game-quest.page-type.ts"
-import { gameTurn } from "akasha/story/game/turn/game-turn.page-type.ts"
-import { stateOf } from "akasha/story/game/turn/modules/turn-state/turn-state.module.code.ts"
+} from "akasha/story/game/game-panel/modules/panel-loading/panel-loading.module.code.ts"
+import { above } from "akasha/story/game/game-panel/panel-place/pages/above.panel-place.ts"
+import { aside } from "akasha/story/game/game-panel/panel-place/pages/aside.panel-place.ts"
+import { run } from "akasha/story/game/game-panel/panel-place/pages/run.panel-place.ts"
+import { panelPlace } from "akasha/story/game/game-panel/panel-place/panel-place.page-type.ts"
+import { gameQuest } from "akasha/story/game/game-quest/game-quest.page-type.ts"
+import { gameTurn } from "akasha/story/game/game-turn/game-turn.page-type.ts"
+import { stateOf } from "akasha/story/game/game-turn/modules/turn-state/turn-state.module.code.ts"
+import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
 import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/action-bar.module.code.tsx"
 import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
@@ -95,7 +95,7 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const title = textIn(data.title)
   const slug = textIn(data.slug)
   const storyAddress = namedAs(pageTypeSlug, slug, null)
-  const gameAddress = namedAs(game.slug, slug, null)
+  const gameAddress = namedAs(storyGame.slug, slug, null)
 
   const chapterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({

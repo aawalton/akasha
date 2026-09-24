@@ -1,11 +1,11 @@
-import type { GameEntity } from "akasha/story/game/entity/game-entity.page-type.types.ts"
+import type { GameEntity } from "akasha/story/game/game-entity/game-entity.page-type.types.ts"
 
 export const theTowerAlan = {
   id: "01a0c68f-545d-7db4-b0c9-a404b66be267",
   type: "page-type/game-entity",
   slug: "the-tower-alan",
   title: "Alan",
-  game: "game/the-tower",
+  game: "story-game/the-tower",
   skills: [
     {
       name: "Ember Channel",

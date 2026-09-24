@@ -1,11 +1,11 @@
-import type { GameLoreEntry } from "akasha/story/game/lore-entry/game-lore-entry.page-type.types.ts"
+import type { GameLoreEntry } from "akasha/story/game/game-lore-entry/game-lore-entry.page-type.types.ts"
 
 export const haremHotelTl09 = {
   id: "01a0c94e-bebe-7ce2-8cb7-f7d0c5e42618",
   type: "page-type/game-lore-entry",
   slug: "harem-hotel-tl-09",
   title: "Aria",
-  game: "game/harem-hotel",
+  game: "story-game/harem-hotel",
   kind: "timeline",
   subject: "aria",
   said: "Alan and Aria sleep together; she takes him astride, seating him deep and insisting on a slow, deliberate pace — her first time wanting to make anything last.",

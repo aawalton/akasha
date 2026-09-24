@@ -1,11 +1,11 @@
-import type { GameLoreEntry } from "akasha/story/game/lore-entry/game-lore-entry.page-type.types.ts"
+import type { GameLoreEntry } from "akasha/story/game/game-lore-entry/game-lore-entry.page-type.types.ts"
 
 export const haremHotelTl19c = {
   id: "01a0c94e-bca0-79db-b127-54491621b8e4",
   type: "page-type/game-lore-entry",
   slug: "harem-hotel-tl-19c",
   title: "The Doorward",
-  game: "game/harem-hotel",
+  game: "story-game/harem-hotel",
   kind: "timeline",
   subject: "the-doorward",
   said: "First setback. Alan makes the guarded door his ground (the Doorward cannot leave it) and works the same bait, meaning to swing the cracked side back into Aria's reach. But the Doorward has learned — it holds the cracked side to the wall and gives Aria only warded shoulder. Her seam-strike finds nothing to open; claws skid off the hard mass, no purchase, and she pulls back clean before the arm comes round. No crack this pass. It draws square to the door, cracked side to the wall, and holds — watching for what they try next. The repeat tactic is spent; a new angle is needed.",

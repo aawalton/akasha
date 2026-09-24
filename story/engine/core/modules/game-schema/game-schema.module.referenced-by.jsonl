@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/game/panel/modules/panel-drawing/panel-drawing.module.code.ts"}
-{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/game/panel/modules/pool-panel/pool-panel.module.code.tsx"}
+{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/game/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/game/game-panel/modules/pool-panel/pool-panel.module.code.tsx"}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/alert-sound/alert-sound.module.code.ts"}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts"}
 {"propertySlug":"import","fileName":"game-schema.module.code.ts","path":"story/ui/modules/hud-panel/hud-panel.module.code.tsx"}

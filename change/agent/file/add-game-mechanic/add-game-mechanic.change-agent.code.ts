@@ -19,9 +19,9 @@ import {
 } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
-import { game } from "akasha/story/game/game.page-type.ts"
-import { gameMechanic } from "akasha/story/game/mechanic/game-mechanic.page-type.ts"
+import { gameMechanic } from "akasha/story/game/game-mechanic/game-mechanic.page-type.ts"
 import { gameMechanics } from "akasha/story/game/properties/game-mechanics.multi-relation-property.ts"
+import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 
 const HERE = "change/agent/file/add-game-mechanic"
 const GAME = "game"
@@ -117,7 +117,7 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (definition === undefined) return refusing(missing(DEFINITION))
   const code = given[CODE]
   if (code === undefined) return refusing(missing(CODE))
-  const played = world.index.listedAt(game.slug, named)[0]
+  const played = world.index.listedAt(storyGame.slug, named)[0]
   if (played === undefined) return refusing(`\`${named}\` names no game, ${HERE}`)
   const placed = placedFor(world, slug)
   if (placed === null) return refusing(`\`${gameMechanic.slug}\` names no page type, ${HERE}`)

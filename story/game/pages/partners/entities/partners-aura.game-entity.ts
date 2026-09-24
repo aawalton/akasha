@@ -1,11 +1,11 @@
-import type { GameEntity } from "akasha/story/game/entity/game-entity.page-type.types.ts"
+import type { GameEntity } from "akasha/story/game/game-entity/game-entity.page-type.types.ts"
 
 export const partnersAura = {
   id: "01a0c663-0c5b-731b-a6c1-d61446748ecf",
   type: "page-type/game-entity",
   slug: "partners-aura",
   title: "Aura",
-  game: "game/partners",
+  game: "story-game/partners",
   kind: "partner",
   level: 4,
   skills: [

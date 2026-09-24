@@ -20,7 +20,7 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/personas/places/the-tower-threshold-landing.place.ts"}
 {"propertySlug":"parts","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"target-page-type","path":"story/character/properties/character-place.relation-property.ts","id":"01a0d43f-8e7c-7f57-8ab2-ee210ac0f257"}
-{"propertySlug":"target-page-type","path":"story/game/encounter/properties/encounter-location.relation-property.ts","id":"01a0c647-490d-7091-a8dc-abdae9f40279"}
+{"propertySlug":"target-page-type","path":"story/game/game-encounter/properties/encounter-location.relation-property.ts","id":"01a0c647-490d-7091-a8dc-abdae9f40279"}
 {"propertySlug":"target-page-type","path":"story/item/properties/item-place.relation-property.ts","id":"01a0d435-8b07-7b3c-95a7-8e2626e6ae38"}
 {"propertySlug":"target-page-type","path":"story/lore/place/properties/place-exit-to.relation-property.ts","id":"01a0d42f-0d04-7c2f-89be-4acc677086c6"}
 {"propertySlug":"target-page-type","path":"story/lore/place/properties/place-within.relation-property.ts","id":"01a0d42e-f4fd-7cd3-9844-8ecb11ed1377"}

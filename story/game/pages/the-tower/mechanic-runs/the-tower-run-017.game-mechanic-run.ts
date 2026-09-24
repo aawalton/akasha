@@ -1,11 +1,11 @@
-import type { GameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.types.ts"
+import type { GameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.types.ts"
 
 export const theTowerRun017 = {
   id: "01a0c958-d228-7db6-8d46-93bcdf4640ef",
   type: "page-type/game-mechanic-run",
   slug: "the-tower-run-017",
   title: "Ember Channel invoke, larger heated area. Focus 96->80 (-16, double the tip-only…",
-  game: "game/the-tower",
+  game: "story-game/the-tower",
   turn: 16,
   mechanic: "game-mechanic/attribute-check",
   said: "Ember Channel invoke, larger heated area. Focus 96->80 (-16, double the tip-only -8). INT-informed: more mass resists the cold longer (~4-5 breaths vs 1-2) but the flood still quenches it. Skill USE = proficiency tick.",

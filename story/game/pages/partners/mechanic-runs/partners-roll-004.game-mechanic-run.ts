@@ -1,11 +1,11 @@
-import type { GameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.types.ts"
+import type { GameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.types.ts"
 
 export const partnersRoll004 = {
   id: "01a0c957-fe14-7cbb-87d5-b0b2606e178e",
   type: "page-type/game-mechanic-run",
   slug: "partners-roll-004",
   title: "Appraisal — the crossing coin",
-  game: "game/partners",
+  game: "story-game/partners",
   turn: 2,
   said: "Appraisal — the crossing coin",
   seed: "3ea2c8cdd8c1669286de555fa00722d6",

@@ -59,8 +59,8 @@
 {"propertySlug":"decision-kind","path":"person/person.page-type.ts","id":"01a053e0-6cf7-7062-90af-db1def200572"}
 {"propertySlug":"decision-kind","path":"persona/craft-day/properties/green-day.number-property.ts","id":"01a0655b-4a9b-7008-9a0b-56117a559064"}
 {"propertySlug":"decision-kind","path":"persona/properties/mobile-wallpaper.relation-property.ts","id":"01a0c61d-f8be-7dee-97dc-2a9bb1313d4f"}
-{"propertySlug":"decision-kind","path":"story/game/entity/properties/reveal-gate.number-property.ts","id":"01a0c63d-bf33-7fc8-a461-91fda80ddb15"}
-{"propertySlug":"decision-kind","path":"story/game/lore-entry/properties/lore-subject.text-property.ts","id":"01a0c949-d283-74c2-86bb-6ca1d8350a74"}
+{"propertySlug":"decision-kind","path":"story/game/game-entity/properties/reveal-gate.number-property.ts","id":"01a0c63d-bf33-7fc8-a461-91fda80ddb15"}
+{"propertySlug":"decision-kind","path":"story/game/game-lore-entry/properties/lore-subject.text-property.ts","id":"01a0c949-d283-74c2-86bb-6ca1d8350a74"}
 {"propertySlug":"decision-kind","path":"story/game/properties/rulebook.file-property.ts","id":"01a0673c-8e0e-7012-9530-56ad5cd13631"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-runtime/data-encode-runtime.module.ts","id":"01a06061-96a0-7c1f-a7ed-6104c85448b3"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/alchemy-station-declarations/alchemy-station-declarations.type-declaration.ts","id":"01a0620a-a167-700f-b76f-c3f7f43297aa"}

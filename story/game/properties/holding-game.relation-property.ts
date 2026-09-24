@@ -6,7 +6,7 @@ export const holdingGame = {
   slug: "holding-game",
   propertySlug: "game",
   definition: "the game whose world holds this",
-  targetPageType: "page-type/game",
+  targetPageType: "page-type/story-game",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

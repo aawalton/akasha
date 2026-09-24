@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/game/panel/modules/panel-drawing/panel-drawing.module.code.ts"}
+{"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/game/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/client-envelope/client-envelope.module.code.ts"}
 {"propertySlug":"import","fileName":"client-story-session.module.code.ts","path":"story/ui/modules/client-session/client-session.module.code.ts"}

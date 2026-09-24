@@ -1,11 +1,11 @@
-import type { GameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.types.ts"
+import type { GameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.types.ts"
 
 export const partnersRoll002 = {
   id: "01a0c957-fdcd-78eb-9e86-b3f75fad52af",
   type: "page-type/game-mechanic-run",
   slug: "partners-roll-002",
   title: "knock at Hearthholt — arrival staging (1-2 waiting at the gate / 3-4 lantern on…",
-  game: "game/partners",
+  game: "story-game/partners",
   turn: 3,
   said: "knock at Hearthholt — arrival staging (1-2 waiting at the gate / 3-4 lantern on the switchbacks behind him / 5-6 arrives just after the knock)",
   seed: "bc7569742d05d4476a83f0556d72ba0b",

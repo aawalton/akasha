@@ -1,4 +1,4 @@
 {"propertySlug":"import","fileName":"mechanics-weight.select-property.ts","path":"story/game/properties/mechanics-weight.select-property.types.ts"}
-{"propertySlug":"import","fileName":"mechanics-weight.select-property.types.ts","path":"story/game/game.page-type.types.ts"}
-{"propertySlug":"page-property","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
-{"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
+{"propertySlug":"import","fileName":"mechanics-weight.select-property.types.ts","path":"story/game/story-game.page-type.types.ts"}
+{"propertySlug":"page-property","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
+{"propertySlug":"parts","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}

@@ -1,5 +1,5 @@
-{"propertySlug":"import","fileName":"source-turn.number-property.types.ts","path":"story/game/lore-entry/game-lore-entry.page-type.types.ts"}
-{"propertySlug":"import","fileName":"source-turn.number-property.types.ts","path":"story/game/mechanic-run/game-mechanic-run.page-type.types.ts"}
-{"propertySlug":"page-property","path":"story/game/lore-entry/game-lore-entry.page-type.ts","id":"01a0c949-5c56-7f25-8eb3-0c04a8c40172"}
-{"propertySlug":"page-property","path":"story/game/mechanic-run/game-mechanic-run.page-type.ts","id":"01a0c951-6739-72ed-a7e2-63f36a4d5cbe"}
-{"propertySlug":"parts","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
+{"propertySlug":"import","fileName":"source-turn.number-property.types.ts","path":"story/game/game-lore-entry/game-lore-entry.page-type.types.ts"}
+{"propertySlug":"import","fileName":"source-turn.number-property.types.ts","path":"story/game/game-mechanic-run/game-mechanic-run.page-type.types.ts"}
+{"propertySlug":"page-property","path":"story/game/game-lore-entry/game-lore-entry.page-type.ts","id":"01a0c949-5c56-7f25-8eb3-0c04a8c40172"}
+{"propertySlug":"page-property","path":"story/game/game-mechanic-run/game-mechanic-run.page-type.ts","id":"01a0c951-6739-72ed-a7e2-63f36a4d5cbe"}
+{"propertySlug":"parts","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}

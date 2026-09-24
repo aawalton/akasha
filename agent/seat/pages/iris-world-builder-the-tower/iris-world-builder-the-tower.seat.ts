@@ -5,7 +5,7 @@ export const irisWorldBuilderTheTower = {
   type: "page-type/seat",
   slug: "iris-world-builder-the-tower",
   persona: "persona/iris",
-  assignmentSlug: "game/the-tower",
+  assignmentSlug: "story-game/the-tower",
   role: "role/world-builder",
   person: "person/alan",
   startMode: "seat-mode/interactive",

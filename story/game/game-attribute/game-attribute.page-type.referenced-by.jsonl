@@ -1,0 +1,15 @@
+{"propertySlug":"import","fileName":"game-attribute.page-type.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.test.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/game-attribute/pages/finesse.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/game-attribute/pages/intellect.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/game-attribute/pages/luck.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/game-attribute/pages/might.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/game-attribute/pages/perception.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/game-attribute/pages/presence.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/game-attribute/pages/vitality.game-attribute.ts"}
+{"propertySlug":"import","fileName":"game-attribute.page-type.types.ts","path":"story/game/game-attribute/pages/will.game-attribute.ts"}
+{"propertySlug":"parts","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
+{"propertySlug":"target-page-type","path":"story/game/game-entity/properties/bond-attribute.relation-property.ts","id":"01a0c63b-e1cd-757e-86a7-98e40979de8e"}
+{"propertySlug":"target-page-type","path":"story/game/game-entity/properties/bound-attribute.relation-property.ts","id":"01a0c63b-f68f-7f34-9544-b056e963056e"}
+{"propertySlug":"target-page-type","path":"story/game/game-entity/properties/scaled-by.relation-property.ts","id":"01a0c63a-55ba-71ac-9d92-d2f141974869"}
+{"propertySlug":"target-page-type","path":"story/game/game-entity/properties/scored-attribute.relation-property.ts","id":"01a0c634-90e3-71d8-b791-bc240838dd53"}
+{"propertySlug":"target-page-type","path":"story/game/properties/game-attributes.multi-relation-property.ts","id":"01a0c48b-86e0-7f2b-8243-18250c6f5d6d"}

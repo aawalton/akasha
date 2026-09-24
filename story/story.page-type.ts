@@ -15,7 +15,7 @@ export const story = {
     "domain/story-engine",
     "domain/ui",
     "domain/world-lore",
-    "page-type/game",
+    "page-type/story-game",
     "page-type/chapter",
     "page-type/character",
     "page-type/mechanic",

@@ -1,7 +1,7 @@
 "use client"
 
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import type { PanelRun } from "akasha/story/game/panel/modules/panel-drawing/panel-drawing.module.code.ts"
+import type { PanelRun } from "akasha/story/game/game-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import { ChapterProse } from "akasha/story/ui/modules/chapter-prose/chapter-prose.module.code.tsx"
 import { NarrativeLog } from "akasha/story/ui/modules/narrative-log/narrative-log.module.code.tsx"
 import { NewestDivider } from "akasha/story/ui/modules/newest-divider/newest-divider.module.code.tsx"

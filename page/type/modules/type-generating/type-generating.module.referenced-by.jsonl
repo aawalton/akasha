@@ -2,6 +2,6 @@
 {"propertySlug":"import","fileName":"type-generating.module.code.ts","path":"page/type/change-generators/typing/page-type-typing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"type-generating.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}
 {"propertySlug":"import","fileName":"type-generating.module.code.ts","path":"page/type/page-property/change-generators/typing/page-property-typing.change-generator.code.ts"}
-{"propertySlug":"import","fileName":"type-generating.module.code.ts","path":"story/game/panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"type-generating.module.code.ts","path":"story/game/game-panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts"}
 {"propertySlug":"import","fileName":"type-generating.module.test-fixtures.ts","path":"page/type/modules/type-generating/type-generating.module.test.ts"}
 {"propertySlug":"parts","path":"page/type/page-type.page-type.ts","id":"01a049ae-fe2c-7343-8ab6-f94d8927164a"}

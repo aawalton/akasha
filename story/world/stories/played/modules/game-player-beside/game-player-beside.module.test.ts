@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { theTower } from "akasha/story/game/pages/the-tower/the-tower.game.ts"
+import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
 import {
   type Played,
   playerIn,

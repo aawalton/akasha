@@ -26,7 +26,7 @@ const DOMAIN = "domain"
 
 const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 
-const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative", "game"]
+const PREFERRED: readonly string[] = [DOMAIN, PERSON, "persona", "initiative", "story-game"]
 
 const ASSIGNMENT = "assignmentSlug"
 

@@ -28,7 +28,7 @@ import {
   type Naming,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { putting } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
-import { game } from "akasha/story/game/game.page-type.ts"
+import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 
 const NAMED = [gameArgument, ledgerArgument] as const
 
@@ -60,7 +60,7 @@ export function taken(argv: readonly string[], calledAs: string): Read {
 function foundIn(root: string, said: string): Found | null {
   const named = addressIn(said)
   const slug = named.kind === "qualified" ? named.slug : said
-  const listed = listedAt(root, game.slug, slug)[0]
+  const listed = listedAt(root, storyGame.slug, slug)[0]
   if (listed === undefined) return null
   return { at: listed.path, slug }
 }

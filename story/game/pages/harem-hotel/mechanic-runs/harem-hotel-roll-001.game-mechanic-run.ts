@@ -1,11 +1,11 @@
-import type { GameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.types.ts"
+import type { GameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.types.ts"
 
 export const haremHotelRoll001 = {
   id: "01a0c958-b748-75cc-a734-a7f32a9e8bf3",
   type: "page-type/game-mechanic-run",
   slug: "harem-hotel-roll-001",
   title: "Alan distraction+reposition maneuver (draw aggro, dodge, turn Doorward off Aria)",
-  game: "game/harem-hotel",
+  game: "story-game/harem-hotel",
   turn: 14,
   said: "Alan distraction+reposition maneuver (draw aggro, dodge, turn Doorward off Aria)",
   seed: "4dd798c1c1b3562e29e39fd7670627c7",

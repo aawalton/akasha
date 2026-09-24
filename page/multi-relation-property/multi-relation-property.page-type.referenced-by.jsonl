@@ -30,7 +30,7 @@
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"persona/craft-day/properties/personas-crafted.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"persona/properties/cover-images.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"persona/properties/wallpaper-images.multi-relation-property.ts"}
-{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/game/encounter/properties/encounter-characters.multi-relation-property.ts"}
+{"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/game/game-encounter/properties/encounter-characters.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/game/properties/game-attributes.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/game/properties/game-mechanics.multi-relation-property.ts"}
 {"propertySlug":"import","fileName":"multi-relation-property.page-type.types.ts","path":"story/game/properties/game-panels.multi-relation-property.ts"}

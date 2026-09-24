@@ -23,7 +23,7 @@ import { ACTION_BAR_SENDER } from "akasha/story/engine/core/modules/action-bar-m
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
-const GAME = "game"
+const GAME = "story-game"
 
 const GAME_MASTER = "game-master"
 

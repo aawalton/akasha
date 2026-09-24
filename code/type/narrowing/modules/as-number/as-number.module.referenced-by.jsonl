@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"as-number.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts"}
 {"propertySlug":"import","fileName":"as-number.module.code.ts","path":"story/engine/core/modules/prose-windows/prose-windows.module.code.ts"}
-{"propertySlug":"import","fileName":"as-number.module.code.ts","path":"story/game/turn/modules/turn-state/turn-state.module.code.ts"}
+{"propertySlug":"import","fileName":"as-number.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.code.ts"}
 {"propertySlug":"import","fileName":"as-number.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts"}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

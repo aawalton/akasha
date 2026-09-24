@@ -12,13 +12,13 @@ import {
   titleOf,
 } from "akasha/command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { gameDesignEntry } from "akasha/story/game/design-entry/game-design-entry.page-type.ts"
-import { game } from "akasha/story/game/game.page-type.ts"
-import { gameMechanic } from "akasha/story/game/mechanic/game-mechanic.page-type.ts"
-import { attackResolution } from "akasha/story/game/mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts"
-import { theTower } from "akasha/story/game/pages/the-tower/the-tower.game.ts"
+import { gameDesignEntry } from "akasha/story/game/game-design-entry/game-design-entry.page-type.ts"
+import { gameMechanic } from "akasha/story/game/game-mechanic/game-mechanic.page-type.ts"
+import { attackResolution } from "akasha/story/game/game-mechanic/pages/attack-resolution/attack-resolution.game-mechanic.ts"
+import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
+import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 
-const SAID = namedAs(game.slug, theTower.slug, null)
+const SAID = namedAs(storyGame.slug, theTower.slug, null)
 
 const RAN = namedAs(gameMechanic.slug, attackResolution.slug, null)
 

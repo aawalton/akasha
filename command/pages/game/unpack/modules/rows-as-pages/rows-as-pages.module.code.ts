@@ -2,18 +2,18 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
-import { gameDesignEntry } from "akasha/story/game/design-entry/game-design-entry.page-type.ts"
-import { game } from "akasha/story/game/game.page-type.ts"
-import { gameLoreEntry } from "akasha/story/game/lore-entry/game-lore-entry.page-type.ts"
-import { runIn } from "akasha/story/game/mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
-import { gameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.ts"
+import { gameDesignEntry } from "akasha/story/game/game-design-entry/game-design-entry.page-type.ts"
+import { gameLoreEntry } from "akasha/story/game/game-lore-entry/game-lore-entry.page-type.ts"
+import { runIn } from "akasha/story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
+import { gameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.ts"
 import {
   countedAt,
   pagedRun,
   pathOf,
   runSlugIn,
   shortOf,
-} from "akasha/story/game/mechanic-run/modules/run-paging/run-paging.module.code.ts"
+} from "akasha/story/game/game-mechanic-run/modules/run-paging/run-paging.module.code.ts"
+import { storyGame } from "akasha/story/game/story-game.page-type.ts"
 
 const BREAK = "\n"
 const HASH = "#"
@@ -166,7 +166,7 @@ export function designRowed({ gameSlug, folder, row }: Rowing): Made {
     path: pathOf(folder, slug, gameDesignEntry.slug),
     values: {
       title: titleOf(textIn(row[SUBJECT_KEY]) ?? external),
-      game: namedAs(game.slug, gameSlug, null),
+      game: namedAs(storyGame.slug, gameSlug, null),
       kind,
       ...(source === null ? {} : { source }),
       ...(supersedes === null
@@ -211,7 +211,7 @@ export function loreRowed({ gameSlug, folder, row }: Rowing): Made {
     path: pathOf(folder, slug, gameLoreEntry.slug),
     values: {
       title: titleOf(subject),
-      game: namedAs(game.slug, gameSlug, null),
+      game: namedAs(storyGame.slug, gameSlug, null),
       kind,
       subject,
       said,
@@ -260,7 +260,7 @@ export function rollRowed({ gameSlug, folder, row, at }: Rowing): Made {
     path: pathOf(folder, slug, gameMechanicRun.slug),
     values: {
       title: shortOf(label ?? `${ROLL} ${countedAt(at)}`, SHOWN),
-      game: namedAs(game.slug, gameSlug, null),
+      game: namedAs(storyGame.slug, gameSlug, null),
       ...(turn === null ? {} : { turn }),
       ...(label === null ? {} : { said: shortOf(label, SAID_HOLDS) }),
       ...(seed === null ? {} : { seed }),

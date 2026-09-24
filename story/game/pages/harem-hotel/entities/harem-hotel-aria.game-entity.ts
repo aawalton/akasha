@@ -1,11 +1,11 @@
-import type { GameEntity } from "akasha/story/game/entity/game-entity.page-type.types.ts"
+import type { GameEntity } from "akasha/story/game/game-entity/game-entity.page-type.types.ts"
 
 export const haremHotelAria = {
   id: "01a0c662-f994-76e1-95eb-4d4e16c0a470",
   type: "page-type/game-entity",
   slug: "harem-hotel-aria",
   title: "Aria",
-  game: "game/harem-hotel",
+  game: "story-game/harem-hotel",
   kind: "companion",
   class: "Storyteller",
   level: 2,

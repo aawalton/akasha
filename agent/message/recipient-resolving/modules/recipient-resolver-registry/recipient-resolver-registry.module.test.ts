@@ -8,7 +8,7 @@ import { ruleMatches } from "akasha/agent/message/recipient-resolving/modules/se
 import { handlerSeatName } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { ACTION_BAR_SENDER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-import { theTower } from "akasha/story/game/pages/the-tower/the-tower.game.ts"
+import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
 
 const ROOT = rootOf(import.meta.dir)
 

@@ -1,10 +1,10 @@
-import type { GameTurn } from "akasha/story/game/turn/game-turn.page-type.types.ts"
+import type { GameTurn } from "akasha/story/game/game-turn/game-turn.page-type.types.ts"
 
 export const partners032 = {
   id: "01a0c6ab-6c80-7bd5-acc7-7d9e4fff7c31",
   type: "page-type/game-turn",
   slug: "partners-032",
-  game: "game/partners",
+  game: "story-game/partners",
   number: 32,
   pools: [
     { name: "hp", now: 22, most: 22 },

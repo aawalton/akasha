@@ -1,11 +1,11 @@
-import type { GameEntity } from "akasha/story/game/entity/game-entity.page-type.types.ts"
+import type { GameEntity } from "akasha/story/game/game-entity/game-entity.page-type.types.ts"
 
 export const partnersIiPartnersHollowbeast = {
   id: "01a0c663-206d-722c-bbe8-8bb0ba861557",
   type: "page-type/game-entity",
   slug: "partners-ii-partners-hollowbeast",
   title: "Hollowbeast",
-  game: "game/partners-ii",
+  game: "story-game/partners-ii",
   kind: "creature",
   level: 1,
   skills: [

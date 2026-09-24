@@ -1,11 +1,11 @@
-import type { GameLoreEntry } from "akasha/story/game/lore-entry/game-lore-entry.page-type.types.ts"
+import type { GameLoreEntry } from "akasha/story/game/game-lore-entry/game-lore-entry.page-type.types.ts"
 
 export const haremHotelEntAlanAttire = {
   id: "01a0c94e-c18e-7e74-9a59-964b890e8db3",
   type: "page-type/game-lore-entry",
   slug: "harem-hotel-ent-alan-attire",
   title: "Alan",
-  game: "game/harem-hotel",
+  game: "story-game/harem-hotel",
   kind: "entity",
   subject: "alan",
   said: "The only garment ever named on Alan is a shirt — Aria opened its front and drew it off him during the night (turn-10), dropping it on the floor of his suite. No lower-body clothing, footwear, or other garment has been described, and turn-1 does not detail what he woke in. His skin bears no markings, unlike Aria's silver tracery.",

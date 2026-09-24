@@ -25,5 +25,5 @@
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/modules/shadow/shadow.module.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"body-text.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts"}
-{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"story/game/panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts"}
+{"propertySlug":"import","fileName":"body-text.module.code.ts","path":"story/game/game-panel/change-generators/drawing/game-panel-drawing.change-generator.code.ts"}
 {"propertySlug":"parts","path":"code/body/code-body.domain.ts","id":"01a09b2c-cc50-7f0f-838d-abfa522d31e4"}

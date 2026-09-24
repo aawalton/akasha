@@ -6,6 +6,6 @@ export const assignmentGame = {
   slug: "assignment-game",
   propertySlug: "game",
   definition: "a slug naming a game",
-  targetPageType: "page-type/game",
+  targetPageType: "page-type/story-game",
   types: "ts",
 } as const satisfies RelationProperty

@@ -60,8 +60,8 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"product/kofi/feature-request/modules/listing/feature-request-listing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.test.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/game/turn/modules/turn-state/turn-state.module.code.ts"}
-{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/game/turn/modules/turn-state/turn-state.module.test.ts"}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.code.ts"}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.test.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.test.ts"}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts"}

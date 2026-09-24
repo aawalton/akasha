@@ -124,6 +124,7 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/config.common-language-term.ts","id":"01a0d43d-8075-7001-a749-5e6b600b1cdc"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/course.common-language-term.ts","id":"01a0d492-524b-7a32-960a-4b70d5e68b26"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/credential.common-language-term.ts","id":"01a0caa2-abce-7bb2-b985-38526c85b709"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/game.common-language-term.ts","id":"01a0d4ed-d01a-7f62-9103-80f3cee65429"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/life.common-language-term.ts","id":"01a0d47f-d333-7180-93d1-0645e1ddfa4b"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/move.common-language-term.ts","id":"01a0ca15-5378-78c7-b077-83840e5a64d6"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/name.common-language-term.ts","id":"01a0c933-cff5-7569-80c5-d7484baa2dfb"}
@@ -182,7 +183,7 @@
 {"propertySlug":"part-of-speech","path":"product/kofi/contributor/contributor.page-type.ts","id":"01a0ba90-5086-7a55-b63d-5bf48f551250"}
 {"propertySlug":"part-of-speech","path":"product/product.domain.ts","id":"01a0826b-97bb-7e70-8730-ba2745b92e2b"}
 {"propertySlug":"part-of-speech","path":"story/engine/doctrine/doctrine.page-type.ts","id":"01a0826f-8d12-7268-918c-0b3a3574d5f6"}
-{"propertySlug":"part-of-speech","path":"story/game/game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
+{"propertySlug":"part-of-speech","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"part-of-speech","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"part-of-speech","path":"story/world/mechanics/ability/ability.domain.ts","id":"01a0675b-16d3-7c80-b453-27e91b39430f"}
 {"propertySlug":"part-of-speech","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}

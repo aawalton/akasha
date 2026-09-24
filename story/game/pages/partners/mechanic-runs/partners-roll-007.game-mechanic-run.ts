@@ -1,11 +1,11 @@
-import type { GameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.types.ts"
+import type { GameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.types.ts"
 
 export const partnersRoll007 = {
   id: "01a0c957-fe87-72f3-ae2e-3cbc72128e42",
   type: "page-type/game-mechanic-run",
   slug: "partners-roll-007",
   title: "Amy receives Alan's early near-invitation to stay — natural warmth (Presence) ca…",
-  game: "game/partners",
+  game: "story-game/partners",
   turn: 5,
   said: "Amy receives Alan's early near-invitation to stay — natural warmth (Presence) carrying a forward question; easy TN 8",
   seed: "9b6c0a92dd107d2fc68103a120e27c59",

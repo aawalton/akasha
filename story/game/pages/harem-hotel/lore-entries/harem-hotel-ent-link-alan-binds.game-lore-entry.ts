@@ -1,11 +1,11 @@
-import type { GameLoreEntry } from "akasha/story/game/lore-entry/game-lore-entry.page-type.types.ts"
+import type { GameLoreEntry } from "akasha/story/game/game-lore-entry/game-lore-entry.page-type.types.ts"
 
 export const haremHotelEntLinkAlanBinds = {
   id: "01a0c94e-bcc9-7a9d-b186-9a0ef1da4fa7",
   type: "page-type/game-lore-entry",
   slug: "harem-hotel-ent-link-alan-binds",
   title: "The Link",
-  game: "game/harem-hotel",
+  game: "story-game/harem-hotel",
   kind: "entity",
   subject: "the-link",
   said: "Alan's LINK binding takes Aria's plain, unarguable force — the way the whole night bends itself around her without her seeming to ask it to.",

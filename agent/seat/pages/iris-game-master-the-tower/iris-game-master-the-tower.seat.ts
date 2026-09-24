@@ -5,7 +5,7 @@ export const irisGameMasterTheTower = {
   type: "page-type/seat",
   slug: "iris-game-master-the-tower",
   persona: "persona/iris",
-  assignmentSlug: "game/the-tower",
+  assignmentSlug: "story-game/the-tower",
   role: "role/game-master",
   person: "person/alan",
   startMode: "seat-mode/interactive",

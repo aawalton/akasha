@@ -1,11 +1,11 @@
-import type { GameLoreEntry } from "akasha/story/game/lore-entry/game-lore-entry.page-type.types.ts"
+import type { GameLoreEntry } from "akasha/story/game/game-lore-entry/game-lore-entry.page-type.types.ts"
 
 export const haremHotelTl01 = {
   id: "01a0c94e-bf1f-7164-aece-e7788c55e57c",
   type: "page-type/game-lore-entry",
   slug: "harem-hotel-tl-01",
   title: "Alan",
-  game: "game/harem-hotel",
+  game: "story-game/harem-hotel",
   kind: "timeline",
   subject: "alan",
   said: "Alan comes into being at the bottom of the Harem Hotel with no memory of arriving; the System pane measures his soul and goes still.",

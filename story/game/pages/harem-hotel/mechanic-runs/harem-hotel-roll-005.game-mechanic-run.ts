@@ -1,11 +1,11 @@
-import type { GameMechanicRun } from "akasha/story/game/mechanic-run/game-mechanic-run.page-type.types.ts"
+import type { GameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.types.ts"
 
 export const haremHotelRoll005 = {
   id: "01a0c958-b820-7f24-a562-f403d7cdcd0c",
   type: "page-type/game-mechanic-run",
   slug: "harem-hotel-roll-005",
   title: "aria-t16-followup-seam",
-  game: "game/harem-hotel",
+  game: "story-game/harem-hotel",
   turn: 16,
   said: "aria-t16-followup-seam",
   seed: "e6ce57ae4dd9397a364eb7ea6a704e46",

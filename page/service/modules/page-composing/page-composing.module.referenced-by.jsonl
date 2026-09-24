@@ -40,7 +40,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-putting/page-putting.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"}
-{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"story/game/mechanic-run/modules/run-paging/run-paging.module.code.ts"}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"story/game/game-mechanic-run/modules/run-paging/run-paging.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts"}
 {"propertySlug":"import","fileName":"page-composing.module.test-fixtures.ts","path":"page/service/modules/page-composing/page-composing.module.test.ts"}

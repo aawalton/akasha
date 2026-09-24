@@ -11,7 +11,7 @@ import { awenEngineImprovements } from "akasha/domain/initiative/pages/awen-engi
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { awen } from "akasha/persona/pages/awen/awen.persona.ts"
 import { iris } from "akasha/persona/pages/iris/iris.persona.ts"
-import { theTower } from "akasha/story/game/pages/the-tower/the-tower.game.ts"
+import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
