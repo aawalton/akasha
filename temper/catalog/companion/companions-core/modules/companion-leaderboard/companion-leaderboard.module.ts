@@ -17,7 +17,7 @@ export const companionLeaderboard = {
       statement: "A build ranks only when its visibility is public.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Target filters apply only to combinations that include the damage role.",
     },
   ],
