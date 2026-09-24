@@ -93,6 +93,10 @@ export const trackFood = {
       statement:
         "The photo a call names is landed as an image page, and the entry's cover reaches that image.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A photo landed here is titled with the food's name.",
+    },
   ],
   name: "food",
   arguments: [

@@ -285,7 +285,12 @@ async function logged(read: Logged, given: Given, kept: Kept): Promise<Answer> {
   let cover: string | null = null
   if (bytes !== null) {
     try {
-      const picture = await landImage(imageDeps(IMAGE_WRITER), bytes, {}, kept.done)
+      const picture = await landImage(
+        imageDeps(IMAGE_WRITER),
+        bytes,
+        { title: read.title },
+        kept.done
+      )
       cover = namedAs(IMAGE_PAGE_TYPE_SLUG, picture.slug, null)
       const patched = await landFoodEntry(root, slug, { ...values, cover })
       if (!patched.ok) throw new Error(patched.why)
