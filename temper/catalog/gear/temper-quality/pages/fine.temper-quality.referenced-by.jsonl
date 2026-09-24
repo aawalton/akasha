@@ -33,11 +33,17 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/training/training.temper-armor-trait.ts","id":"01a05fb2-1bd1-76b9-a51c-6834aa119055"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-armor-trait/pages/well-fitted/well-fitted.temper-armor-trait.ts","id":"01a05fb2-1bd1-73f9-bcca-bd39fc693315"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bashing/bashing.temper-jewelry-enchant.ts","id":"019e5c85-d95d-7f46-b068-c3b9e8d6ab01"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bashing/grades/jewelry-enchant-bashing-fine.temper-gear-grade.ts","id":"01a0d3e7-2ced-7bba-981f-7fc3eaebed5c"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bracing/bracing.temper-jewelry-enchant.ts","id":"019e5c85-d960-73f9-8cea-07b3219c1425"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bracing/grades/jewelry-enchant-bracing-fine.temper-gear-grade.ts","id":"01a0d3e7-5fc1-75f7-9e5b-655bb5901f0e"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/decrease-physical-harm/decrease-physical-harm.temper-jewelry-enchant.ts","id":"019e5c85-d95a-7784-a28f-1fd9cfff52da"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/decrease-physical-harm/grades/jewelry-enchant-decrease-physical-harm-fine.temper-gear-grade.ts","id":"01a0d3e7-8ac4-77b1-86a1-619efa92a6f8"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/decrease-spell-harm/decrease-spell-harm.temper-jewelry-enchant.ts","id":"019e5c85-d95c-73c8-bb14-91cea6c435c1"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/decrease-spell-harm/grades/jewelry-enchant-decrease-spell-harm-fine.temper-gear-grade.ts","id":"01a0d3e7-c2cd-7b33-b60d-4e2eca2eb993"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/disease-resist/disease-resist.temper-jewelry-enchant.ts","id":"019e5c85-d958-7929-b633-93f9969ac5f2"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/disease-resist/grades/jewelry-enchant-disease-resist-fine.temper-gear-grade.ts","id":"01a0d3e7-f8d2-7107-afee-ed671a47bae4"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/flame-resist/flame-resist.temper-jewelry-enchant.ts","id":"019e5c85-d952-75c2-8e1c-23698b58c47c"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/flame-resist/grades/jewelry-enchant-flame-resist-fine.temper-gear-grade.ts","id":"01a0d3e8-2e42-7422-9608-0ffa24696350"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/frost-resist/frost-resist.temper-jewelry-enchant.ts","id":"019e5c85-d953-7c74-99c6-3940984cf7de"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/health-recovery/health-recovery.temper-jewelry-enchant.ts","id":"019e5c85-d949-7117-b9fc-f50cc02b56ed"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-jewelry-enchant/pages/increase-magical-harm/increase-magical-harm.temper-jewelry-enchant.ts","id":"019e5c85-d942-701a-886b-f0e90fb4751f"}
