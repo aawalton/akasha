@@ -68,8 +68,7 @@ export const uiControlModel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A size, an alpha, a scale or an offset given as anything but a number is not taken.",
+      statement: "A size, an alpha, a scale or an offset is taken only as a finite number.",
     },
     {
       decisionKind: "decision-kind/departure",

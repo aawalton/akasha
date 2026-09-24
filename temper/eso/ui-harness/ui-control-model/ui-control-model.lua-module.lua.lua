@@ -154,9 +154,12 @@ function Control:IsControlHidden()
   return false
 end
 
+local huge = math.huge
+
 local function asNumber(value, fallback)
-  if type(value) == "number" then return value end
-  return fallback
+  if type(value) ~= "number" then return fallback end
+  if value ~= value or value == huge or value == -huge then return fallback end
+  return value
 end
 
 function Control:SetAlpha(alpha) self.uiAlpha = asNumber(alpha, 1) end
