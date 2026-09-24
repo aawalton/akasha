@@ -61,6 +61,9 @@ local function num_fn() return 0 end
 local function pair_stub_fn() return make_stub(), make_stub() end
 local multi_apis = { ZO_ChatSystem_GetEventCategoryMappings = pair_stub_fn }
 
+local STEPPING = "^GetNext%w+Iter$"
+local function ended_fn() return nil end
+
 local numeric_constants = {
   ITEM_FUNCTIONAL_QUALITY_MIN_VALUE = 1,
   ITEM_FUNCTIONAL_QUALITY_MAX_VALUE = 5,
@@ -81,6 +84,7 @@ local function make_env()
       if numeric_fn_apis[key] then return num_fn end
       if multi_apis[key] then return multi_apis[key] end
       if numeric_constants[key] ~= nil then return numeric_constants[key] end
+      if type(key) == "string" and key:match(STEPPING) then return ended_fn end
       __eso_stubbed[key] = (__eso_stubbed[key] or 0) + 1
       local made = make_stub()
       _rawset(t, key, made)

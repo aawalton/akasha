@@ -75,6 +75,16 @@ export const esoSandboxPrelude = {
         "A name answered with a stub is never nothing, so a loop ending on nothing never ends.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's Lua loops over engine functions named `GetNext…Iter` that the documentation never names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A name of that shape nothing defines answers a function giving back nothing, so the loop ends.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "Lua that runs past a deadline is stopped and refused rather than left running.",
     },
