@@ -238,7 +238,8 @@ test("what a calculation read is answered under its computed property's page", (
   const read = [...counted.read.entries()]
   expect(read.length).toBe(1)
   expect(read[0]?.[0]).toContain("loaded")
-  expect([...(read[0]?.[1] ?? [])]).toEqual([alan])
+  expect([...(read[0]?.[1].files ?? [])]).toEqual([alan])
+  expect(read[0]?.[1].folders.size).toBe(0)
 })
 
 test("a calculation sums over every page naming the page being worked out", () => {

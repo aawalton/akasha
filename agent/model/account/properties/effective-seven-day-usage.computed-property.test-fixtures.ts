@@ -2,7 +2,12 @@ import type { ModelAccount } from "akasha/agent/model/account/model-account.page
 import { ANTHROPIC } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import type { Reach } from "akasha/page/computed-property/computed-property.page-type.ts"
 
-export const REACH: Reach = { target: () => null, naming: () => [], file: () => null }
+export const REACH: Reach = {
+  target: () => null,
+  naming: () => [],
+  file: () => null,
+  folder: () => null,
+}
 
 const BASE: ModelAccount = {
   id: "one",

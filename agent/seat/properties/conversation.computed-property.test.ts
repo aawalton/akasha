@@ -15,6 +15,7 @@ const REACH: Reach = {
   naming: () => [],
   file: (path) =>
     path === PATH ? { size: BYTES.length, read: (from, upTo) => BYTES.slice(from, upTo) } : null,
+  folder: () => null,
 }
 
 test("a seat's conversation is read from the transcript its path names", () => {

@@ -36,6 +36,7 @@ export type Source = {
   readonly subjectAt: (slug: string) => Subject | null
   readonly namingAt?: (id: string, propertySlug: string) => readonly Named[]
   readonly fileAt?: (path: string) => Filed | null
+  readonly folderAt?: (path: string) => readonly string[] | null
 }
 
 export type Naming = {
@@ -47,6 +48,7 @@ export type Reading = {
   readonly pages: readonly string[]
   readonly namings: readonly Naming[]
   readonly files: readonly string[]
+  readonly folders: readonly string[]
 }
 
 export type Working = {
@@ -59,6 +61,7 @@ type Heard = {
   readonly pages: Set<string>
   readonly namings: Map<string, Naming>
   readonly files: Set<string>
+  readonly folders: Set<string>
 }
 
 export type Computing = {
@@ -112,11 +115,12 @@ function presentIn(value: Held): Held {
 }
 
 function readingOf(one: Heard | undefined): Reading {
-  if (one === undefined) return { pages: [], namings: [], files: [] }
+  if (one === undefined) return { pages: [], namings: [], files: [], folders: [] }
   return {
     pages: [...one.pages].sort(),
     namings: [...one.namings.values()],
     files: [...one.files].sort(),
+    folders: [...one.folders].sort(),
   }
 }
 
@@ -131,7 +135,12 @@ export function computingOver(source: Source): Computing {
   const heardAt = (frame: string): Heard => {
     const already = heard.get(frame)
     if (already !== undefined) return already
-    const fresh: Heard = { pages: new Set(), namings: new Map(), files: new Set() }
+    const fresh: Heard = {
+      pages: new Set(),
+      namings: new Map(),
+      files: new Set(),
+      folders: new Set(),
+    }
     heard.set(frame, fresh)
     return fresh
   }
@@ -148,6 +157,7 @@ export function computingOver(source: Source): Computing {
     for (const one of from.pages) into.pages.add(one)
     for (const [key, one] of from.namings) into.namings.set(key, one)
     for (const one of from.files) into.files.add(one)
+    for (const one of from.folders) into.folders.add(one)
     return undefined
   }
 
@@ -249,6 +259,10 @@ export function computingOver(source: Source): Computing {
     file: (path: string): Filed | null => {
       hearing()?.files.add(path)
       return source.fileAt?.(path) ?? null
+    },
+    folder: (path: string): readonly string[] | null => {
+      hearing()?.folders.add(path)
+      return source.folderAt?.(path) ?? null
     },
   }
 

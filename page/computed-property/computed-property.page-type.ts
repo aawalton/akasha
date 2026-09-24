@@ -9,6 +9,7 @@ export type Reach = {
   target: <Held>(slug: string) => Held | null
   naming: <Held>(propertySlug: string) => readonly Held[]
   file: (path: string) => Filed | null
+  folder: (path: string) => readonly string[] | null
 }
 
 export type Work<Page, Held> = (page: Page, reach: Reach) => Held | null
@@ -101,6 +102,15 @@ export const computedProperty = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A file that is not there is answered as nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A reach names a folder by its path and answers the sorted names that folder holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder that is not there is answered as nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

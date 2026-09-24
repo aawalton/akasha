@@ -49,14 +49,17 @@ function same(one: readonly string[], two: readonly string[]): boolean {
 }
 
 export function keptReads(root: string, read: Reads): undefined {
-  for (const [at, files] of read) {
+  for (const [at, one] of read) {
     try {
       const before = keptIn(uncommittedIn(root, at))
-      const after = foldedReads([...before.files, ...files], before.folders)
+      const after = foldedReads(
+        [...before.files, ...one.files],
+        [...before.folders, ...one.folders]
+      )
       if (same(after.files, before.files) && same(after.folders, before.folders)) continue
       changeUncommitted(root, at, (held) => {
         const now = keptIn(held)
-        const folded = foldedReads([...now.files, ...files], now.folders)
+        const folded = foldedReads([...now.files, ...one.files], [...now.folders, ...one.folders])
         return { ...(held ?? {}), [FILES]: folded.files, [FOLDERS]: folded.folders }
       })
     } catch (thrown) {

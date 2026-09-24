@@ -24,6 +24,7 @@ const REACH = {
   target: (slug: string) => PAGES[slug] ?? null,
   naming: () => [],
   file: () => null,
+  folder: () => null,
 } as Reach
 
 const HELD = "803755-43274178"
@@ -103,7 +104,12 @@ test("each kept component is read under the name the seat's page keeps it by", (
 })
 
 test("a turn state whose page names no color draws nothing", () => {
-  const bare = { target: () => null, naming: () => [], file: () => null } as Reach
+  const bare = {
+    target: () => null,
+    naming: () => [],
+    file: () => null,
+    folder: () => null,
+  } as Reach
 
   expect(work({ supervisorProcess: HELD, turnWorking: { activeTurn: true } }, bare)).toBeNull()
 })

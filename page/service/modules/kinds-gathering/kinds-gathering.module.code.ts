@@ -1,4 +1,4 @@
-import { closeSync, openSync, readFileSync, readSync, statSync } from "node:fs"
+import { closeSync, openSync, readdirSync, readFileSync, readSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
 import type { Filed } from "akasha/page/computed-property/computed-property.page-type.ts"
 import {
@@ -71,7 +71,12 @@ const ASKED_BY_NAME = "askedByName"
 
 const BESIDE_THE_PAGE: ReadonlySet<string> = new Set([COMPUTED, FILE_PROPERTY])
 
-export type Reads = ReadonlyMap<string, ReadonlySet<string>>
+export type Read = {
+  readonly files: ReadonlySet<string>
+  readonly folders: ReadonlySet<string>
+}
+
+export type Reads = ReadonlyMap<string, Read>
 
 const placedAt = new WeakMap<Computed, string>()
 
@@ -266,7 +271,18 @@ function reachingIn(
     return listed.length === 1 ? (listed[0]?.path ?? null) : null
   }
 
-  return { subjectAt, namingAt, fileAt: fileOver(root), pathAt }
+  return { subjectAt, namingAt, fileAt: fileOver(root), folderAt: folderOver(root), pathAt }
+}
+
+function folderOver(root: string): (path: string) => readonly string[] | null {
+  return (path) => {
+    const at = isAbsolute(path) ? path : join(root, path)
+    try {
+      return readdirSync(at).sort()
+    } catch {
+      return null
+    }
+  }
 }
 
 function runOf(at: string, from: number, upTo: number): Uint8Array {
@@ -313,7 +329,7 @@ export function computedOver(
   const computing = computingOver(placing)
   const computedAt = new Map(counting.map((one) => [one.row.path, one.computed]))
   const dark = new Map<string, string>()
-  const read = new Map<string, Set<string>>()
+  const read = new Map<string, { readonly files: Set<string>; readonly folders: Set<string> }>()
   const rows = taken.map((one) => {
     const worked = computing.workedAt(one.path)
     if (worked === null) return one
@@ -322,13 +338,14 @@ export function computedOver(
       const at = placedAt.get(property)
       const reading = worked.read.get(property.key)
       if (at === undefined || reading === undefined) continue
-      const into = read.get(at) ?? new Set<string>()
+      const into = read.get(at) ?? { files: new Set<string>(), folders: new Set<string>() }
       read.set(at, into)
       for (const said of reading.pages) {
         const path = placing.pathAt(said)
-        if (path !== null) into.add(path)
+        if (path !== null) into.files.add(path)
       }
-      for (const file of reading.files) into.add(file)
+      for (const file of reading.files) into.files.add(file)
+      for (const folder of reading.folders) into.folders.add(folder)
     }
     return { path: one.path, value: worked.value as Value }
   })

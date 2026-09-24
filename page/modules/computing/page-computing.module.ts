@@ -112,7 +112,8 @@ export const pageComputing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A working says each page, naming and file every computed key's reach answered.",
+      statement:
+        "A working says each page, naming, file and folder every computed key's reach answered.",
     },
     {
       decisionKind: "decision-kind/departure",

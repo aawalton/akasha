@@ -142,7 +142,7 @@ export const kindsGathering = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The pages and files each calculation read are answered under its computed property's page.",
+        "The pages, files and folders each calculation read are answered under its computed property's page.",
     },
     {
       decisionKind: "decision-kind/departure",

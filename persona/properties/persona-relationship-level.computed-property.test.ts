@@ -17,6 +17,7 @@ const REACH = {
   },
   naming: () => [],
   file: () => null,
+  folder: () => null,
 } as Reach
 
 test("a persona short of the first rung is level 0", () => {

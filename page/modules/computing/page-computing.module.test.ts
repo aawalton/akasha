@@ -243,6 +243,7 @@ describe("what a calculation read", () => {
         two: page("2", {}, [
           held("borrowed", "number", (_own, reach) => {
             reach.file("/notes.txt")
+            reach.folder("/logs")
             reach.target<Held>("gone")
             return (reach.target<Held>("one")?.["points"] as number | undefined) ?? 0
           }),
@@ -256,8 +257,14 @@ describe("what a calculation read", () => {
       pages: ["gone", "one"],
       namings: [],
       files: ["/notes.txt"],
+      folders: ["/logs"],
     })
-    expect(working?.read.get("plain")).toEqual({ pages: [], namings: [], files: [] })
+    expect(working?.read.get("plain")).toEqual({
+      pages: [],
+      namings: [],
+      files: [],
+      folders: [],
+    })
   })
 
   test("what another key read counts as read by the key reading it", () => {
@@ -287,6 +294,7 @@ describe("what a calculation read", () => {
       pages: ["set/a"],
       namings: [{ named: "1", under: "day" }],
       files: [],
+      folders: [],
     })
   })
 })
