@@ -11,7 +11,7 @@ export const possessiveNounRun = {
     "part-of-speech/possessive-clitic",
     "phrase-kind/noun-group",
   ],
-  admits: ["Alan's mailbox", "page's data", "show's episodes"],
+  admits: ["page's data", "show's episodes"],
   refuses: ["Alan's", "'s mailbox", "the shape of a page's data"],
   decisions: [
     {

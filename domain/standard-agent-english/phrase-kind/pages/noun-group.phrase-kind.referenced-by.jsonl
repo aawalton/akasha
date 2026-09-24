@@ -7,6 +7,7 @@
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-past-participle-and-a-preposition-phrase.construction.ts","id":"01a0c96f-bee9-7f1f-8d2c-d4d536dcb41c"}
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-past-participle.construction.ts","id":"01a0c96f-a254-7982-aacd-b072d43b1006"}
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-preposition-phrase.construction.ts","id":"01a0c593-5e0a-7a00-be0b-096d9a7ee6bb"}
+{"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-proper-noun-clause.construction.ts","id":"01a0d484-35d6-7cef-acb4-ad2d3941c10c"}
 {"propertySlug":"phrase-kind","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-relative-clause.construction.ts","id":"01a0d429-c1c7-72c4-8331-62f1feb4cd39"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-alone.construction.ts","id":"01a0c57f-2d90-7475-a1a4-587ac08f0ec0"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-group-with-a-determiner.construction.ts","id":"01a0c58c-287b-70be-abf3-05d84f4c124b"}
@@ -14,3 +15,4 @@
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/noun-run-with-a-clause.construction.ts","id":"01a0c67a-50ad-7181-9d2e-827c9c7d8f18"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/possessive-noun-run-with-a-determiner.construction.ts","id":"01a0c932-0974-771f-b07a-c900f1a63592"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/possessive-noun-run.construction.ts","id":"01a0c931-ef71-74f5-adf2-95deb30632f0"}
+{"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/possessive-proper-noun.construction.ts","id":"01a0d484-15a4-77a3-860d-faf2687ae60a"}

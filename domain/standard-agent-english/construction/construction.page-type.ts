@@ -38,6 +38,10 @@ export const construction = {
     "construction/verb-with-a-preposition-phrase",
     "construction/subordinating-conjunction-with-a-clause",
     "construction/noun-run-with-a-relative-clause",
+    "construction/proper-noun-alone",
+    "construction/proper-noun-with-a-noun-run",
+    "construction/possessive-proper-noun",
+    "construction/noun-run-with-a-proper-noun-clause",
   ],
   extends: ["page-type/domain"],
   properties: [
