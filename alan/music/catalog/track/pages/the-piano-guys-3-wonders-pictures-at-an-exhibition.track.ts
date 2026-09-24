@@ -12,7 +12,7 @@ export const thePianoGuys3WondersPicturesAtAnExhibition = {
   title: "Pictures at an Exhibition",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "picturesatanexhibition|0jW6R8CVyVohuUJVcuweDI|242280",
   song: "song/the-piano-guys-pictures-at-an-exhibition",
   carriedBy: [

@@ -12,7 +12,7 @@ export const zaraLarsson1CarryYouHome = {
   title: "Carry You Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "carryyouhome|1Xylc3o4UrD53lo9CvFvVg|254528",
   song: "song/zara-larsson-carry-you-home",
   carriedBy: [

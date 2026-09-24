@@ -15,10 +15,7 @@ export const zaraLarssonCrushGirlsTripCrushGirlsTrip = {
   title: "Crush - Girls Trip",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "0phkgcpVchB7IJFJ7KcSP1", artistName: "Eli" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Eli" }],
   trackKey: "crushgirlstrip|0phkgcpVchB7IJFJ7KcSP1,1Xylc3o4UrD53lo9CvFvVg|201146",
   song: "song/zara-larsson-crush-girls-trip",
   carriedBy: [

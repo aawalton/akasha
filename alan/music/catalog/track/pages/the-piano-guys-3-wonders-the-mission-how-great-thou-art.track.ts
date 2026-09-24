@@ -12,7 +12,7 @@ export const thePianoGuys3WondersTheMissionHowGreatThouArt = {
   title: "The Mission / How Great Thou Art",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "themissionhowgreatthouart|0jW6R8CVyVohuUJVcuweDI|186573",
   song: "song/the-piano-guys-the-mission-how-great-thou-art",
   carriedBy: [

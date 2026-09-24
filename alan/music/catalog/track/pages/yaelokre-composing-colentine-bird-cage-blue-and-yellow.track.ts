@@ -16,7 +16,7 @@ export const yaelokreComposingColentineBirdCageBlueAndYellow = {
   title: "Bird cage blue and yellow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "birdcageblueandyellow|3rRyfgGByetsaaujkjQ7rY|194478",
   song: "song/yaelokre-bird-cage-blue-and-yellow",
   carriedBy: [

@@ -12,7 +12,7 @@ export const zaraLarssonSoGoodFuneral = {
   title: "Funeral",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "funeral|1Xylc3o4UrD53lo9CvFvVg|215640",
   song: "song/zara-larsson-funeral",
   carriedBy: [

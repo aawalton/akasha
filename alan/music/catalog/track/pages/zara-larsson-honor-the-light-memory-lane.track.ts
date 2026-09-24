@@ -12,7 +12,7 @@ export const zaraLarssonHonorTheLightMemoryLane = {
   title: "Memory Lane",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "memorylane|1Xylc3o4UrD53lo9CvFvVg|192133",
   song: "song/zara-larsson-memory-lane",
   carriedBy: [

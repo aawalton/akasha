@@ -15,7 +15,7 @@ export const zaraLarssonMidnightSun3TheAmbition = {
   title: "The Ambition",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "theambition|1Xylc3o4UrD53lo9CvFvVg|214705",
   song: "song/zara-larsson-the-ambition",
   carriedBy: [

@@ -12,7 +12,7 @@ export const vinnyMarchiBushwickBelleRecordareNuestroBaile = {
   title: "Recordaré Nuestro Baile",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "recordarenuestrobaile|5USAMqcbMAzF3HBmeD5pJF|220119",
   song: "song/vinny-marchi-recordare-nuestro-baile",
   carriedBy: [

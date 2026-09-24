@@ -12,7 +12,7 @@ export const zaraLarssonDonTWorryBoutMeDontWorryBoutMe = {
   title: "Don't Worry Bout Me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "dontworryboutme|1Xylc3o4UrD53lo9CvFvVg|208811",
   song: "song/zara-larsson-don-t-worry-bout-me",
   carriedBy: [

@@ -15,7 +15,7 @@ export const zaraLarssonPosterGirlRuinMyLife = {
   title: "Ruin My Life",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "ruinmylife|1Xylc3o4UrD53lo9CvFvVg|190051",
   song: "song/zara-larsson-ruin-my-life",
   carriedBy: [

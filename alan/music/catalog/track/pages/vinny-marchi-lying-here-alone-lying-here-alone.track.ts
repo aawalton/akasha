@@ -12,7 +12,7 @@ export const vinnyMarchiLyingHereAloneLyingHereAlone = {
   title: "LYING HERE ALONE",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "lyingherealone|5USAMqcbMAzF3HBmeD5pJF|160431",
   song: "song/vinny-marchi-lying-here-alone",
   carriedBy: [

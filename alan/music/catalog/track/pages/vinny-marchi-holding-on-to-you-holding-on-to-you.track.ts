@@ -12,7 +12,7 @@ export const vinnyMarchiHoldingOnToYouHoldingOnToYou = {
   title: "holding on to you",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "holdingontoyou|5USAMqcbMAzF3HBmeD5pJF|172874",
   song: "song/vinny-marchi-holding-on-to-you",
   carriedBy: [

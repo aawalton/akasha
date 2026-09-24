@@ -12,10 +12,7 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeDiamondPistolsRemix
   title: "Don't Worry Bout Me - Diamond Pistols Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1OzGBMZ8rp73R6DWx0IUr5", artistName: "Diamond Pistols" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Diamond Pistols" }],
   trackKey:
     "dontworryboutmediamondpistolsremix|1OzGBMZ8rp73R6DWx0IUr5,1Xylc3o4UrD53lo9CvFvVg|240000",
   song: "song/zara-larsson-don-t-worry-bout-me",

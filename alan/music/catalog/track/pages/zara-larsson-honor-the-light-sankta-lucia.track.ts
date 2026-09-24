@@ -12,7 +12,7 @@ export const zaraLarssonHonorTheLightSanktaLucia = {
   title: "Sankta Lucia",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "sanktalucia|1Xylc3o4UrD53lo9CvFvVg|82533",
   song: "song/zara-larsson-sankta-lucia",
   carriedBy: [

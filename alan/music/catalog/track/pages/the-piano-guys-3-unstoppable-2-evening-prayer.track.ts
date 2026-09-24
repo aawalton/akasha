@@ -16,7 +16,7 @@ export const thePianoGuys3Unstoppable2EveningPrayer = {
   title: "Evening Prayer",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "eveningprayer|0jW6R8CVyVohuUJVcuweDI|98659",
   song: "song/the-piano-guys-evening-prayer",
   carriedBy: [

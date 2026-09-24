@@ -12,7 +12,7 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2PreludeMyLittleGi
   title: "Prelude (My Little Girl)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
+  trackArtist: [{ artistName: "Jon Schmidt" }],
   trackKey: "preludemylittlegirl|2YQ4MY2VwOMv43C0GemUY5|267128",
   song: "song/the-piano-guys-prelude-my-little-girl",
   carriedBy: [

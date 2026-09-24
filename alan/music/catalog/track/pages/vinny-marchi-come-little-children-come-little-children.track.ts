@@ -12,10 +12,7 @@ export const vinnyMarchiComeLittleChildrenComeLittleChildren = {
   title: "Come Little Children",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0Sl22kYbJDXJoZvmOKe4XQ", artistName: "Ebucs" },
-    { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
-  ],
+  trackArtist: [{ artistName: "Ebucs" }, { artist: "artist/vinny-marchi" }],
   trackKey: "comelittlechildren|0Sl22kYbJDXJoZvmOKe4XQ,5USAMqcbMAzF3HBmeD5pJF|154485",
   song: "song/vinny-marchi-come-little-children",
   carriedBy: [

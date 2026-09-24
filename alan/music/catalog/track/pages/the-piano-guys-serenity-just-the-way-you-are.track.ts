@@ -12,7 +12,7 @@ export const thePianoGuysSerenityJustTheWayYouAre = {
   title: "Just the Way You Are",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "justthewayyouare|0jW6R8CVyVohuUJVcuweDI|262240",
   song: "song/the-piano-guys-just-the-way-you-are",
   carriedBy: [

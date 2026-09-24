@@ -12,10 +12,7 @@ export const zaraLarssonOnlyYouRemixesOnlyYouHitimpulseRemix = {
   title: "Only You - Hitimpulse Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "2dMO34aTE4wTRQZkgDehMF", artistName: "Hitimpulse" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Hitimpulse" }],
   trackKey: "onlyyouhitimpulseremix|1Xylc3o4UrD53lo9CvFvVg,2dMO34aTE4wTRQZkgDehMF|219495",
   song: "song/zara-larsson-only-you",
   carriedBy: [

@@ -12,7 +12,7 @@ export const vinnyMarchiLifelineLifeline = {
   title: "LIFELINE",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "lifeline|5USAMqcbMAzF3HBmeD5pJF|204286",
   song: "song/vinny-marchi-lifeline",
   carriedBy: [

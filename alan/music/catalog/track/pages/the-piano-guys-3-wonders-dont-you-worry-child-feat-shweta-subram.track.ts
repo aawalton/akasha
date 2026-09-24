@@ -12,10 +12,7 @@ export const thePianoGuys3WondersDontYouWorryChildFeatShwetaSubram = {
   title: "Don't You Worry Child (feat. Shweta Subram)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "4dyQjiS1hL6towoj5SgUSB", artistName: "Shweta Subram" },
-  ],
+  trackArtist: [{ artist: "artist/the-piano-guys" }, { artistName: "Shweta Subram" }],
   trackKey:
     "dontyouworrychildfeatshwetasubram|0jW6R8CVyVohuUJVcuweDI,4dyQjiS1hL6towoj5SgUSB|243413",
   song: "song/the-piano-guys-dont-you-worry-child",

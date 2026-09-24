@@ -12,10 +12,7 @@ export const yaelokreForewordKamahalan = {
   title: "Kamahalan",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" },
-    { externalId: "5nS4Ohh7IG844fp1Eu1GMI", artistName: "Keath Ósk" },
-  ],
+  trackArtist: [{ artist: "artist/yaelokre" }, { artistName: "Keath Ósk" }],
   trackKey: "kamahalan|3rRyfgGByetsaaujkjQ7rY,5nS4Ohh7IG844fp1Eu1GMI|187240",
   song: "song/yaelokre-kamahalan",
   carriedBy: [

@@ -12,7 +12,7 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol2ToTheSummit = {
   title: "To The Summit",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
+  trackArtist: [{ artistName: "Jon Schmidt" }],
   trackKey: "tothesummit|2YQ4MY2VwOMv43C0GemUY5|306964",
   song: "song/the-piano-guys-to-the-summit",
   carriedBy: [

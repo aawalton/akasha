@@ -12,7 +12,7 @@ export const vinnyMarchiLockedDownLockedDown = {
   title: "LOCKED DOWN",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "lockeddown|5USAMqcbMAzF3HBmeD5pJF|143187",
   song: "song/vinny-marchi-locked-down",
   carriedBy: [

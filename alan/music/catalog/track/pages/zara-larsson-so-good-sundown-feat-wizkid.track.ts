@@ -12,10 +12,7 @@ export const zaraLarssonSoGoodSundownFeatWizkid = {
   title: "Sundown (feat. Wizkid)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "3tVQdUvClmAT7URs9V3rsp", artistName: "Wizkid" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Wizkid" }],
   trackKey: "sundownfeatwizkid|1Xylc3o4UrD53lo9CvFvVg,3tVQdUvClmAT7URs9V3rsp|205780",
   song: "song/zara-larsson-sundown",
   carriedBy: [

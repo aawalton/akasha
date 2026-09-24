@@ -15,10 +15,7 @@ export const zaraLarssonEndOfTimeSpinallRemixEndOfTimeSpinallRemix = {
   title: "End Of Time - SPINALL Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "2NtQA3PY9chI8l65ejZLTP", artistName: "SPINALL" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "SPINALL" }],
   trackKey: "endoftimespinallremix|1Xylc3o4UrD53lo9CvFvVg,2NtQA3PY9chI8l65ejZLTP|221265",
   song: "song/zara-larsson-end-of-time",
   carriedBy: [

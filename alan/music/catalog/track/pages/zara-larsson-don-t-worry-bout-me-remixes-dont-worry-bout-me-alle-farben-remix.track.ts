@@ -12,10 +12,7 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeAlleFarbenRemix = {
   title: "Don't Worry Bout Me - Alle Farben Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "61ipISvUVa5LkJlKZnm3Oo", artistName: "Alle Farben" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Alle Farben" }],
   trackKey: "dontworryboutmeallefarbenremix|1Xylc3o4UrD53lo9CvFvVg,61ipISvUVa5LkJlKZnm3Oo|171913",
   song: "song/zara-larsson-don-t-worry-bout-me",
   carriedBy: [

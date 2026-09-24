@@ -12,7 +12,7 @@ export const thePianoGuysSerenityYouSay = {
   title: "You Say",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "yousay|0jW6R8CVyVohuUJVcuweDI|310533",
   song: "song/the-piano-guys-you-say",
   carriedBy: [

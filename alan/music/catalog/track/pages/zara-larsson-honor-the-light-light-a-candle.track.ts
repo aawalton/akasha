@@ -12,7 +12,7 @@ export const zaraLarssonHonorTheLightLightACandle = {
   title: "Light A Candle",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "lightacandle|1Xylc3o4UrD53lo9CvFvVg|190733",
   song: "song/zara-larsson-light-a-candle",
   carriedBy: [

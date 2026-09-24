@@ -12,7 +12,7 @@ export const zaraLarssonSpotifySinglesSoGoodRecordedAtSpotifyStudiosNyc = {
   title: "So Good - Recorded at Spotify Studios NYC",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "sogoodrecordedatspotifystudiosnyc|1Xylc3o4UrD53lo9CvFvVg|161447",
   song: "song/zara-larsson-so-good-recorded-at-spotify-studios-nyc",
   carriedBy: [

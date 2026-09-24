@@ -12,10 +12,7 @@ export const zaraLarssonMemoryLaneMemoryLaneFastBoyRemix = {
   title: "Memory Lane - FAST BOY Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "56Qz2XwGj7FxnNKrfkWjnb", artistName: "FAST BOY" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "FAST BOY" }],
   trackKey: "memorylanefastboyremix|1Xylc3o4UrD53lo9CvFvVg,56Qz2XwGj7FxnNKrfkWjnb|134704",
   song: "song/zara-larsson-memory-lane",
   carriedBy: [

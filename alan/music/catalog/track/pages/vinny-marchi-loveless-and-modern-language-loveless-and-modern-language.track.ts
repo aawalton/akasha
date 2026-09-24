@@ -12,7 +12,7 @@ export const vinnyMarchiLovelessAndModernLanguageLovelessAndModernLanguage = {
   title: "Loveless and Modern Language",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "lovelessandmodernlanguage|5USAMqcbMAzF3HBmeD5pJF|219536",
   song: "song/vinny-marchi-loveless-and-modern-language",
   carriedBy: [

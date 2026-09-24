@@ -12,10 +12,7 @@ export const zaraLarssonMidnightSun2MidnightSun = {
   title: "Midnight Sun",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "7tjVFCxJdwT4NdrTmjyjQ6", artistName: "Muni Long" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Muni Long" }],
   trackKey: "midnightsun|1Xylc3o4UrD53lo9CvFvVg,7tjVFCxJdwT4NdrTmjyjQ6|226094",
   song: "song/zara-larsson-midnight-sun",
   carriedBy: [

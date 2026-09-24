@@ -12,7 +12,7 @@ export const yaelokreKamahalanKamahalan = {
   title: "Kamahalan",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "kamahalan|3rRyfgGByetsaaujkjQ7rY|148238",
   song: "song/yaelokre-kamahalan",
   carriedBy: [

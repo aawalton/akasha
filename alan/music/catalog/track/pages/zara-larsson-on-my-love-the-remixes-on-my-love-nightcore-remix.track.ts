@@ -12,10 +12,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveNightcoreRemix = {
   title: "On My Love - Nightcore Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1Cs0zKBU1kc0i8ypK3B9ai", artistName: "David Guetta" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "David Guetta" }],
   trackKey: "onmylovenightcoreremix|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg|208050",
   song: "song/zara-larsson-on-my-love",
   carriedBy: [

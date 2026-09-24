@@ -12,7 +12,7 @@ export const vinnyMarchiCouldICallYouMineCraftCouldICallYouMineCraft = {
   title: "Could I Call You Mine (Craft)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "couldicallyouminecraft|5USAMqcbMAzF3HBmeD5pJF|189178",
   song: "song/vinny-marchi-could-i-call-you-mine",
   carriedBy: [

@@ -12,10 +12,7 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveSpedUp = {
   title: "On My Love - Sped Up",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1Cs0zKBU1kc0i8ypK3B9ai", artistName: "David Guetta" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "David Guetta" }],
   trackKey: "onmylovespedup|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg|195047",
   song: "song/zara-larsson-on-my-love",
   carriedBy: [

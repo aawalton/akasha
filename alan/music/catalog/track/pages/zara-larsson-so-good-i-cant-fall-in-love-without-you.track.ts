@@ -12,7 +12,7 @@ export const zaraLarssonSoGoodICantFallInLoveWithoutYou = {
   title: "I Can't Fall in Love Without You",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "icantfallinlovewithoutyou|1Xylc3o4UrD53lo9CvFvVg|177844",
   song: "song/zara-larsson-i-can-t-fall-in-love-without-you",
   carriedBy: [

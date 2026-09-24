@@ -12,7 +12,7 @@ export const thePianoGuys3UnchartedUncharted = {
   title: "Uncharted",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "uncharted|0jW6R8CVyVohuUJVcuweDI|212125",
   song: "song/the-piano-guys-uncharted",
   carriedBy: [

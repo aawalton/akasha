@@ -12,7 +12,7 @@ export const thePianoGuysSerenityBringHimHome = {
   title: "Bring Him Home",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "bringhimhome|0jW6R8CVyVohuUJVcuweDI|255306",
   song: "song/the-piano-guys-bring-him-home",
   carriedBy: [

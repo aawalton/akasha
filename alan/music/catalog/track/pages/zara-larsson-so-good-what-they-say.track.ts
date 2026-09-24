@@ -12,7 +12,7 @@ export const zaraLarssonSoGoodWhatTheySay = {
   title: "What They Say",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "whattheysay|1Xylc3o4UrD53lo9CvFvVg|218953",
   song: "song/zara-larsson-what-they-say",
   carriedBy: [

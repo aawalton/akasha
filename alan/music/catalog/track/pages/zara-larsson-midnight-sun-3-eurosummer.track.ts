@@ -15,7 +15,7 @@ export const zaraLarssonMidnightSun3Eurosummer = {
   title: "Eurosummer",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "eurosummer|1Xylc3o4UrD53lo9CvFvVg|172864",
   song: "song/zara-larsson-euro-summer",
   carriedBy: [

@@ -12,10 +12,7 @@ export const zaraLarssonMidnightSunGirlsTripMidnightSunGirlsTrip = {
   title: "Midnight Sun - Girls Trip",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "78rUTD7y6Cy67W1RVzYs7t", artistName: "PinkPantheress" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "PinkPantheress" }],
   trackKey: "midnightsungirlstrip|1Xylc3o4UrD53lo9CvFvVg,78rUTD7y6Cy67W1RVzYs7t|171736",
   song: "song/zara-larsson-midnight-sun-girls-trip",
   carriedBy: [

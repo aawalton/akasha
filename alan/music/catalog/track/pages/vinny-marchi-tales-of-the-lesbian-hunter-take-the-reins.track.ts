@@ -12,7 +12,7 @@ export const vinnyMarchiTalesOfTheLesbianHunterTakeTheReins = {
   title: "Take The Reins",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "takethereins|5USAMqcbMAzF3HBmeD5pJF|160125",
   song: "song/vinny-marchi-take-the-reins",
   carriedBy: [

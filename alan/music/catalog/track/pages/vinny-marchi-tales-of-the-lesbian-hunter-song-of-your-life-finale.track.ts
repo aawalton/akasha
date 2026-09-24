@@ -12,7 +12,7 @@ export const vinnyMarchiTalesOfTheLesbianHunterSongOfYourLifeFinale = {
   title: "Song of Your Life (Finale)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "songofyourlifefinale|5USAMqcbMAzF3HBmeD5pJF|284223",
   song: "song/vinny-marchi-song-of-your-life-finale",
   carriedBy: [

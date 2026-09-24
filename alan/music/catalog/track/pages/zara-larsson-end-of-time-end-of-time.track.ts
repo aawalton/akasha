@@ -12,7 +12,7 @@ export const zaraLarssonEndOfTimeEndOfTime = {
   title: "End Of Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "endoftime|1Xylc3o4UrD53lo9CvFvVg|182493",
   song: "song/zara-larsson-end-of-time",
   carriedBy: [

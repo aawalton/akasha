@@ -12,7 +12,7 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeSpedUp = {
   title: "End Of Time - Sped Up",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "endoftimespedup|1Xylc3o4UrD53lo9CvFvVg|183571",
   song: "song/zara-larsson-end-of-time",
   carriedBy: [

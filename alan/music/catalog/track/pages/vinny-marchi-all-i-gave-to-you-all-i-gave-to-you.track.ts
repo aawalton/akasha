@@ -12,7 +12,7 @@ export const vinnyMarchiAllIGaveToYouAllIGaveToYou = {
   title: "all i gave to you",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "alligavetoyou|5USAMqcbMAzF3HBmeD5pJF|205612",
   song: "song/vinny-marchi-all-i-gave-to-you",
   carriedBy: [

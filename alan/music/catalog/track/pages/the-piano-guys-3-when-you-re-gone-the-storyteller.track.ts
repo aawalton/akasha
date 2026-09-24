@@ -15,7 +15,7 @@ export const thePianoGuys3WhenYouReGoneTheStoryteller = {
   title: "The Storyteller",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "thestoryteller|0jW6R8CVyVohuUJVcuweDI|280714",
   song: "song/the-piano-guys-the-storyteller",
   carriedBy: [

@@ -12,10 +12,7 @@ export const zaraLarssonMidnightSunGirlsTripBlueMoonGirlsTrip = {
   title: "Blue Moon - Girls Trip",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "0cGUm45nv7Z6M6qdXYQGTX", artistName: "Kehlani" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Kehlani" }],
   trackKey: "bluemoongirlstrip|0cGUm45nv7Z6M6qdXYQGTX,1Xylc3o4UrD53lo9CvFvVg|192723",
   song: "song/zara-larsson-blue-moon-girls-trip",
   carriedBy: [

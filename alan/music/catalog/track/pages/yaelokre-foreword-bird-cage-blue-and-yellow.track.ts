@@ -12,10 +12,7 @@ export const yaelokreForewordBirdCageBlueAndYellow = {
   title: "Bird cage blue and yellow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" },
-    { externalId: "5nS4Ohh7IG844fp1Eu1GMI", artistName: "Keath Ósk" },
-  ],
+  trackArtist: [{ artist: "artist/yaelokre" }, { artistName: "Keath Ósk" }],
   trackKey: "birdcageblueandyellow|3rRyfgGByetsaaujkjQ7rY,5nS4Ohh7IG844fp1Eu1GMI|123786",
   song: "song/yaelokre-bird-cage-blue-and-yellow",
   carriedBy: [

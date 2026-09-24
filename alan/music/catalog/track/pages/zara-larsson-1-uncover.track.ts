@@ -12,7 +12,7 @@ export const zaraLarsson1Uncover = {
   title: "Uncover",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "uncover|1Xylc3o4UrD53lo9CvFvVg|214583",
   song: "song/zara-larsson-uncover",
   carriedBy: [

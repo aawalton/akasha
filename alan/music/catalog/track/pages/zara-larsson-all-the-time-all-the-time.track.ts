@@ -12,7 +12,7 @@ export const zaraLarssonAllTheTimeAllTheTime = {
   title: "All the Time",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "allthetime|1Xylc3o4UrD53lo9CvFvVg|228112",
   song: "song/zara-larsson-all-the-time",
   carriedBy: [

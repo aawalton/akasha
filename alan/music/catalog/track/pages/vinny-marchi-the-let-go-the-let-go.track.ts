@@ -12,7 +12,7 @@ export const vinnyMarchiTheLetGoTheLetGo = {
   title: "The Let Go",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "theletgo|5USAMqcbMAzF3HBmeD5pJF|201238",
   song: "song/vinny-marchi-the-let-go",
   carriedBy: [

@@ -15,7 +15,7 @@ export const zaraLarssonMidnightSun3SaturnsReturn = {
   title: "Saturn's Return",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "saturnsreturn|1Xylc3o4UrD53lo9CvFvVg|227445",
   song: "song/zara-larsson-saturn-s-return",
   carriedBy: [

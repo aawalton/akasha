@@ -15,10 +15,7 @@ export const zaraLarssonGirlsGirlGirlsTripGirlsGirlGirlsTrip = {
   title: "Girl's Girl - Girls Trip",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "0AqlFI0tz2DsEoJlKSIiT9", artistName: "Emilia" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Emilia" }],
   trackKey: "girlsgirlgirlstrip|0AqlFI0tz2DsEoJlKSIiT9,1Xylc3o4UrD53lo9CvFvVg|195913",
   song: "song/zara-larsson-girls-girl-girls-trip",
   carriedBy: [

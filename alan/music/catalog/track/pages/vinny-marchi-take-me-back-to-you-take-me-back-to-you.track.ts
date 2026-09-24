@@ -12,7 +12,7 @@ export const vinnyMarchiTakeMeBackToYouTakeMeBackToYou = {
   title: "Take Me Back To You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "takemebacktoyou|5USAMqcbMAzF3HBmeD5pJF|173134",
   song: "song/vinny-marchi-take-me-back-to-you",
   carriedBy: [

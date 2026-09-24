@@ -13,9 +13,9 @@ export const zaraLarssonMidnightSunGirlsTripPrettyUglyGirlsTrip = {
   trackType: "studio",
   explicit: true,
   trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "39af15p0feaAOdL9DTRj3m", artistName: "JT" },
-    { externalId: "4TfgyYjNRfHUdPJSQGUke0", artistName: "Margo XS" },
+    { artist: "artist/zara-larsson" },
+    { artistName: "JT" },
+    { artistName: "Margo XS" },
   ],
   trackKey:
     "prettyuglygirlstrip|1Xylc3o4UrD53lo9CvFvVg,39af15p0feaAOdL9DTRj3m,4TfgyYjNRfHUdPJSQGUke0|148962",

@@ -12,7 +12,7 @@ export const vinnyMarchiBushwickBelleDowntown = {
   title: "Downtown",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "downtown|5USAMqcbMAzF3HBmeD5pJF|204137",
   song: "song/vinny-marchi-downtown",
   carriedBy: [

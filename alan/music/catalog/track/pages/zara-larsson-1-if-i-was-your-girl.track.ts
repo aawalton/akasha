@@ -12,7 +12,7 @@ export const zaraLarsson1IfIWasYourGirl = {
   title: "If I Was Your Girl",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "ifiwasyourgirl|1Xylc3o4UrD53lo9CvFvVg|159768",
   song: "song/zara-larsson-if-i-was-your-girl",
   carriedBy: [

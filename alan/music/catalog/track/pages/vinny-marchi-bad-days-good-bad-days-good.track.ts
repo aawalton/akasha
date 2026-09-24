@@ -12,10 +12,7 @@ export const vinnyMarchiBadDaysGoodBadDaysGood = {
   title: "Bad Days Good",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
-    { externalId: "64ADBorxGiCOn7wiXxQfYB", artistName: "Jason Juliano" },
-  ],
+  trackArtist: [{ artist: "artist/vinny-marchi" }, { artistName: "Jason Juliano" }],
   trackKey: "baddaysgood|5USAMqcbMAzF3HBmeD5pJF,64ADBorxGiCOn7wiXxQfYB|159000",
   song: "song/vinny-marchi-bad-days-good",
   carriedBy: [

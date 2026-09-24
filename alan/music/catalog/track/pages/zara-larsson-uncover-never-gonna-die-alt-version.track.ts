@@ -12,7 +12,7 @@ export const zaraLarssonUncoverNeverGonnaDieAltVersion = {
   title: "Never Gonna Die - Alt Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "nevergonnadiealtversion|1Xylc3o4UrD53lo9CvFvVg|220457",
   song: "song/zara-larsson-never-gonna-die",
   carriedBy: [

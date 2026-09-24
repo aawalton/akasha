@@ -12,7 +12,7 @@ export const vinnyMarchi20162016 = {
   title: "2016",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "2016|5USAMqcbMAzF3HBmeD5pJF|162127",
   song: "song/vinny-marchi-2016",
   carriedBy: [

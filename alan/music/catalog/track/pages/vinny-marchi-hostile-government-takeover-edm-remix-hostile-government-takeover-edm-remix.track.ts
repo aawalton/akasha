@@ -12,10 +12,7 @@ export const vinnyMarchiHostileGovernmentTakeoverEdmRemixHostileGovernmentTakeov
   title: "Hostile Government Takeover - EDM Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "5HIe287SJPUFnR5TNjmhk5", artistName: "AGiftFromTodd" },
-    { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
-  ],
+  trackArtist: [{ artistName: "AGiftFromTodd" }, { artist: "artist/vinny-marchi" }],
   trackKey:
     "hostilegovernmenttakeoveredmremix|5HIe287SJPUFnR5TNjmhk5,5USAMqcbMAzF3HBmeD5pJF|159416",
   song: "song/vinny-marchi-hostile-government-takeover",

@@ -12,10 +12,7 @@ export const zaraLarssonAllTheTimeDonDiabloRemixAllTheTimeDonDiabloRemix = {
   title: "All the Time - Don Diablo Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1l2ekx5skC4gJH8djERwh1", artistName: "Don Diablo" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Don Diablo" }],
   trackKey: "allthetimedondiabloremix|1Xylc3o4UrD53lo9CvFvVg,1l2ekx5skC4gJH8djERwh1|176616",
   song: "song/zara-larsson-all-the-time",
   carriedBy: [

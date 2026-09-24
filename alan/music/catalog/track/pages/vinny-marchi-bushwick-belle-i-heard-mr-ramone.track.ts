@@ -12,7 +12,7 @@ export const vinnyMarchiBushwickBelleIHeardMrRamone = {
   title: "I Heard Mr. Ramone",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "iheardmrramone|5USAMqcbMAzF3HBmeD5pJF|211025",
   song: "song/vinny-marchi-i-heard-mr-ramone",
   carriedBy: [

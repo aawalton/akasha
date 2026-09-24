@@ -12,10 +12,7 @@ export const yaelokreForewordHoldingOutForAHeroCover = {
   title: "Holding Out for a Hero - cover",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" },
-    { externalId: "5nS4Ohh7IG844fp1Eu1GMI", artistName: "Keath Ósk" },
-  ],
+  trackArtist: [{ artist: "artist/yaelokre" }, { artistName: "Keath Ósk" }],
   trackKey: "holdingoutforaherocover|3rRyfgGByetsaaujkjQ7rY,5nS4Ohh7IG844fp1Eu1GMI|192878",
   song: "song/yaelokre-holding-out-for-a-hero-cover",
   carriedBy: [

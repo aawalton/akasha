@@ -12,7 +12,7 @@ export const zaraLarssonHonorTheLightSilentNight = {
   title: "Silent Night",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "silentnight|1Xylc3o4UrD53lo9CvFvVg|102066",
   song: "song/celtic-woman-silent-night",
   carriedBy: [

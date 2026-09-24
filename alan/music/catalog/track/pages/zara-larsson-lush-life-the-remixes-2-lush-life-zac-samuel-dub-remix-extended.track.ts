@@ -12,10 +12,7 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeZacSamuelDubRemixExtended = {
   title: "Lush Life - Zac Samuel Dub Remix [Extended]",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "3imlibJrwqYv8gqII7u4r0", artistName: "Zac Samuel" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Zac Samuel" }],
   trackKey:
     "lushlifezacsamueldubremixextended|1Xylc3o4UrD53lo9CvFvVg,3imlibJrwqYv8gqII7u4r0|300166",
   song: "song/zara-larsson-lush-life",

@@ -15,10 +15,7 @@ export const zaraLarssonLushLifeTheRemixes2LushLifeFrenchBraidsRemixExtended = {
   title: "Lush Life - French Braids Remix [Extended]",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "5y8mGL7UFApHn1BotAfcj1", artistName: "French Braids" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "French Braids" }],
   trackKey:
     "lushlifefrenchbraidsremixextended|1Xylc3o4UrD53lo9CvFvVg,5y8mGL7UFApHn1BotAfcj1|204450",
   song: "song/zara-larsson-lush-life",

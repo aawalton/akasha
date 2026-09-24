@@ -12,7 +12,7 @@ export const vinnyMarchiGodIMissYourEyesGodIMissYourEyes = {
   title: "god i miss your eyes",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "godimissyoureyes|5USAMqcbMAzF3HBmeD5pJF|227487",
   song: "song/vinny-marchi-god-i-miss-your-eyes",
   carriedBy: [

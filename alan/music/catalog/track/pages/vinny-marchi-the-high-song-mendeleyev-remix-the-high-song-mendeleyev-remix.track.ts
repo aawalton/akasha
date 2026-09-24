@@ -12,10 +12,7 @@ export const vinnyMarchiTheHighSongMendeleyevRemixTheHighSongMendeleyevRemix = {
   title: "The High Song - Mendeleyev Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
-    { externalId: "0FKcwtkjwm5zCD72XpSYox", artistName: "Mendeleyev" },
-  ],
+  trackArtist: [{ artist: "artist/vinny-marchi" }, { artistName: "Mendeleyev" }],
   trackKey: "thehighsongmendeleyevremix|0FKcwtkjwm5zCD72XpSYox,5USAMqcbMAzF3HBmeD5pJF|138833",
   song: "song/vinny-marchi-the-high-song",
   carriedBy: [

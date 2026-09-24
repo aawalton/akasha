@@ -15,7 +15,7 @@ export const vinnyMarchiJonnyRifePulledAKnifeJonnyRifePulledAKnife = {
   title: "Jonny Rife Pulled a Knife",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "jonnyrifepulledaknife|5USAMqcbMAzF3HBmeD5pJF|181000",
   song: "song/vinny-marchi-jonny-rife-pulled-a-knife",
   carriedBy: [

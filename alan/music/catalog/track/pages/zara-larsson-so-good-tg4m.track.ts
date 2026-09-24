@@ -12,7 +12,7 @@ export const zaraLarssonSoGoodTg4m = {
   title: "TG4M",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "tg4m|1Xylc3o4UrD53lo9CvFvVg|172896",
   song: "song/zara-larsson-tg4m",
   carriedBy: [

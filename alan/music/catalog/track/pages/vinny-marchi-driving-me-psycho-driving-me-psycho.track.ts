@@ -12,7 +12,7 @@ export const vinnyMarchiDrivingMePsychoDrivingMePsycho = {
   title: "DRIVING ME PSYCHO",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "drivingmepsycho|5USAMqcbMAzF3HBmeD5pJF|208361",
   song: "song/vinny-marchi-driving-me-psycho",
   carriedBy: [

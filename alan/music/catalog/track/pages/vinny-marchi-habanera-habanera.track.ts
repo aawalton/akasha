@@ -12,7 +12,7 @@ export const vinnyMarchiHabaneraHabanera = {
   title: "Habanera",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "habanera|5USAMqcbMAzF3HBmeD5pJF|130823",
   song: "song/vinny-marchi-habanera",
   carriedBy: [

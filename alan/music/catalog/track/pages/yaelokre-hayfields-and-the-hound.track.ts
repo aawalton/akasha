@@ -12,7 +12,7 @@ export const yaelokreHayfieldsAndTheHound = {
   title: "And the Hound",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "andthehound|3rRyfgGByetsaaujkjQ7rY|203355",
   song: "song/yaelokre-and-the-hound",
   carriedBy: [

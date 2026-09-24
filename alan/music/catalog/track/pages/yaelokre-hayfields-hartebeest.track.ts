@@ -12,7 +12,7 @@ export const yaelokreHayfieldsHartebeest = {
   title: "Hartebeest",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "hartebeest|3rRyfgGByetsaaujkjQ7rY|254608",
   song: "song/yaelokre-hartebeest",
   carriedBy: [

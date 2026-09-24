@@ -12,7 +12,7 @@ export const zaraLarssonMidnightSunMoreMidnightSunSuperLoud = {
   title: "Midnight Sun - Super Loud",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "midnightsunsuperloud|1Xylc3o4UrD53lo9CvFvVg|190728",
   song: "song/zara-larsson-midnight-sun-super-loud",
   carriedBy: [

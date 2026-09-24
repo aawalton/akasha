@@ -12,7 +12,7 @@ export const zaraLarssonMidnightSunBundleMidnightSunLive = {
   title: "Midnight Sun - Live",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "midnightsunlive|1Xylc3o4UrD53lo9CvFvVg|238807",
   song: "song/zara-larsson-midnight-sun",
   carriedBy: [

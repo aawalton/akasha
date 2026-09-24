@@ -15,7 +15,7 @@ export const zaraLarssonPosterGirlSummerEditionWow = {
   title: "WOW",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "wow|1Xylc3o4UrD53lo9CvFvVg|179091",
   song: "song/zara-larsson-wow",
   carriedBy: [

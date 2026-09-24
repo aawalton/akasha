@@ -12,7 +12,7 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1CherishedMoments 
   title: "Cherished Moments",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
+  trackArtist: [{ artistName: "Jon Schmidt" }],
   trackKey: "cherishedmoments|2YQ4MY2VwOMv43C0GemUY5|278438",
   song: "song/the-piano-guys-cherished-moments",
   carriedBy: [

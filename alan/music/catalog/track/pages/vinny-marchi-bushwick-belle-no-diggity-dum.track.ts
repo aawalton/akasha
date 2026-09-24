@@ -12,10 +12,7 @@ export const vinnyMarchiBushwickBelleNoDiggityDum = {
   title: "No Diggity Dum",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
-    { externalId: "0ZM2ioGGBOZ3NPTSUbuimj", artistName: "Bobby Bass" },
-  ],
+  trackArtist: [{ artist: "artist/vinny-marchi" }, { artistName: "Bobby Bass" }],
   trackKey: "nodiggitydum|0ZM2ioGGBOZ3NPTSUbuimj,5USAMqcbMAzF3HBmeD5pJF|187890",
   song: "song/vinny-marchi-no-diggity-dum",
   carriedBy: [

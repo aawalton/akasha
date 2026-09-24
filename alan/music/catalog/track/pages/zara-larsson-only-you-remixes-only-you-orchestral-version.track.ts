@@ -12,7 +12,7 @@ export const zaraLarssonOnlyYouRemixesOnlyYouOrchestralVersion = {
   title: "Only You - Orchestral Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "onlyyouorchestralversion|1Xylc3o4UrD53lo9CvFvVg|227389",
   song: "song/zara-larsson-only-you",
   carriedBy: [

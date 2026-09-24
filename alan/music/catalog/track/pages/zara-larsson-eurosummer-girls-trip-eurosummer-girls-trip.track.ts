@@ -15,10 +15,7 @@ export const zaraLarssonEurosummerGirlsTripEurosummerGirlsTrip = {
   title: "Eurosummer - Girls Trip",
   trackType: "studio",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "0EmeFodog0BfCgMzAIvKQp", artistName: "Shakira" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Shakira" }],
   trackKey: "eurosummergirlstrip|0EmeFodog0BfCgMzAIvKQp,1Xylc3o4UrD53lo9CvFvVg|170346",
   song: "song/zara-larsson-eurosummer-girls-trip",
   carriedBy: [

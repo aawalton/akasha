@@ -12,7 +12,7 @@ export const vinnyMarchiSugarStarsLoveTheFriendYouBuried = {
   title: "love, the friend you buried",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "lovethefriendyouburied|5USAMqcbMAzF3HBmeD5pJF|198748",
   song: "song/vinny-marchi-love-the-friend-you-buried",
   carriedBy: [

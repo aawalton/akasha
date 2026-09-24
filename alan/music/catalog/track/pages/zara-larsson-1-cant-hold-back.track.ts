@@ -12,7 +12,7 @@ export const zaraLarsson1CantHoldBack = {
   title: "Can't Hold Back",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "cantholdback|1Xylc3o4UrD53lo9CvFvVg|220819",
   song: "song/zara-larsson-can-t-hold-back",
   carriedBy: [

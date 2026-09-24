@@ -12,7 +12,7 @@ export const yaelokreComposingColentineKidLeveret = {
   title: "Kid & Leveret",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "kidleveret|3rRyfgGByetsaaujkjQ7rY|313405",
   song: "song/yaelokre-kid-leveret",
   carriedBy: [

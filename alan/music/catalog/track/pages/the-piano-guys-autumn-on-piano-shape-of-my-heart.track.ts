@@ -17,7 +17,7 @@ export const thePianoGuysAutumnOnPianoShapeOfMyHeart = {
   title: "Shape Of My Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "shapeofmyheart|0jW6R8CVyVohuUJVcuweDI|305618",
   song: "song/the-piano-guys-shape-of-my-heart",
   carriedBy: [

@@ -16,9 +16,9 @@ export const zaraLarssonMidnightSunGirlsTripTheAmbitionGirlsTrip = {
   trackType: "studio",
   explicit: true,
   trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "2kRfqPViCqYdSGhYSM9R0Q", artistName: "Madison Beer" },
-    { externalId: "6kf69CwzgodrETRgzcjX95", artistName: "BAMBII" },
+    { artist: "artist/zara-larsson" },
+    { artistName: "Madison Beer" },
+    { artistName: "BAMBII" },
   ],
   trackKey:
     "theambitiongirlstrip|1Xylc3o4UrD53lo9CvFvVg,2kRfqPViCqYdSGhYSM9R0Q,6kf69CwzgodrETRgzcjX95|195523",

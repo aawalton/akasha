@@ -15,10 +15,7 @@ export const zaraLarssonOnMyLoveExtendedVersionOnMyLoveExtendedVersion = {
   title: "On My Love - Extended Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1Cs0zKBU1kc0i8ypK3B9ai", artistName: "David Guetta" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "David Guetta" }],
   trackKey: "onmyloveextendedversion|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg|286829",
   song: "song/zara-larsson-on-my-love",
   carriedBy: [

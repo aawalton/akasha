@@ -12,10 +12,7 @@ export const vinnyMarchiAveMariaAveMaria = {
   title: "Ave Maria",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "2p0UyoPfYfI76PCStuXfOP", artistName: "Franz Schubert" },
-    { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
-  ],
+  trackArtist: [{ artistName: "Franz Schubert" }, { artist: "artist/vinny-marchi" }],
   trackKey: "avemaria|2p0UyoPfYfI76PCStuXfOP,5USAMqcbMAzF3HBmeD5pJF|236010",
   song: "song/vinny-marchi-ave-maria",
   carriedBy: [

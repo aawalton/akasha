@@ -12,7 +12,7 @@ export const vinnyMarchiSugarStarsYouDontKnowMe = {
   title: "you don't know me!!",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "youdontknowme|5USAMqcbMAzF3HBmeD5pJF|185002",
   song: "song/vinny-marchi-you-dont-know-me",
   carriedBy: [

@@ -15,10 +15,7 @@ export const zaraLarssonINeedLoveFeatTrevorDanielINeedLoveFeatTrevorDaniel = {
   title: "I Need Love (feat. Trevor Daniel)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "7uaIm6Pw7xplS8Dy06V6pT", artistName: "Trevor Daniel" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Trevor Daniel" }],
   trackKey: "ineedlovefeattrevordaniel|1Xylc3o4UrD53lo9CvFvVg,7uaIm6Pw7xplS8Dy06V6pT|186408",
   song: "song/zara-larsson-i-need-love",
   carriedBy: [

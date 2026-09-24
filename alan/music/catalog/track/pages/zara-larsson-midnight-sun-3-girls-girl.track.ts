@@ -15,7 +15,7 @@ export const zaraLarssonMidnightSun3GirlsGirl = {
   title: "Girl's Girl",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "girlsgirl|1Xylc3o4UrD53lo9CvFvVg|178241",
   song: "song/zara-larsson-girl-s-girl",
   carriedBy: [

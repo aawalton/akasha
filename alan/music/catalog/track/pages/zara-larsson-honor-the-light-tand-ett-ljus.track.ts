@@ -12,7 +12,7 @@ export const zaraLarssonHonorTheLightTandEttLjus = {
   title: "Tänd Ett Ljus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "tandettljus|1Xylc3o4UrD53lo9CvFvVg|190466",
   song: "song/zara-larsson-tand-ett-ljus",
   carriedBy: [

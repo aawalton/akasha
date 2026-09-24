@@ -15,7 +15,7 @@ export const zaraLarssonPosterGirlINeedLove = {
   title: "I Need Love",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "ineedlove|1Xylc3o4UrD53lo9CvFvVg|182143",
   song: "song/zara-larsson-i-need-love",
   carriedBy: [

@@ -17,7 +17,7 @@ export const thePianoGuys3Unstoppable2Enchanted = {
   title: "Enchanted",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "enchanted|0jW6R8CVyVohuUJVcuweDI|298998",
   song: "song/the-piano-guys-enchanted",
   carriedBy: [

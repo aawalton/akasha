@@ -12,7 +12,7 @@ export const thePianoGuysSerenityThinkingOutLoud = {
   title: "Thinking Out Loud",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "thinkingoutloud|0jW6R8CVyVohuUJVcuweDI|232640",
   song: "song/the-piano-guys-thinking-out-loud",
   carriedBy: [

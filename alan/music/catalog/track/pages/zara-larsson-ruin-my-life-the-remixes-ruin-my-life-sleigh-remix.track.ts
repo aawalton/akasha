@@ -12,7 +12,7 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeSleighRemix = {
   title: "Ruin My Life - Sleigh Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "ruinmylifesleighremix|1Xylc3o4UrD53lo9CvFvVg|191035",
   song: "song/zara-larsson-ruin-my-life",
   carriedBy: [

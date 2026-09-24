@@ -18,7 +18,7 @@ export const zaraLarssonCrushPrettyUgly = {
   title: "Pretty Ugly",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "prettyugly|1Xylc3o4UrD53lo9CvFvVg|158696",
   song: "song/zara-larsson-pretty-ugly",
   carriedBy: [

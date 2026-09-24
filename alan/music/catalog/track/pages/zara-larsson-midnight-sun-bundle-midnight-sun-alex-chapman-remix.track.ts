@@ -12,10 +12,7 @@ export const zaraLarssonMidnightSunBundleMidnightSunAlexChapmanRemix = {
   title: "Midnight Sun - Alex Chapman Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "3c8wfedCs5BJGHcFyusyeh", artistName: "Alex Chapman" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Alex Chapman" }],
   trackKey: "midnightsunalexchapmanremix|1Xylc3o4UrD53lo9CvFvVg,3c8wfedCs5BJGHcFyusyeh|193743",
   song: "song/zara-larsson-midnight-sun",
   carriedBy: [

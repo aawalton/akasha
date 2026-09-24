@@ -12,7 +12,7 @@ export const vinnyMarchiSoldierPoetKingSoldierPoetKing = {
   title: "Soldier, Poet, King",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "soldierpoetking|5USAMqcbMAzF3HBmeD5pJF|168226",
   song: "song/vinny-marchi-soldier-poet-king",
   carriedBy: [

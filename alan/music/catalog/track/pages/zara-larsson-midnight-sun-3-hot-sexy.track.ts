@@ -15,7 +15,7 @@ export const zaraLarssonMidnightSun3HotSexy = {
   title: "Hot & Sexy",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "hotsexy|1Xylc3o4UrD53lo9CvFvVg|189351",
   song: "song/zara-larsson-hot-sexy",
   carriedBy: [

@@ -12,7 +12,7 @@ export const zaraLarssonVenusNoneOfTheseGuys = {
   title: "None Of These Guys",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "noneoftheseguys|1Xylc3o4UrD53lo9CvFvVg|162446",
   song: "song/zara-larsson-none-of-these-guys",
   carriedBy: [

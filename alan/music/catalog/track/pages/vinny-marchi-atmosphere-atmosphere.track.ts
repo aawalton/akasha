@@ -12,7 +12,7 @@ export const vinnyMarchiAtmosphereAtmosphere = {
   title: "Atmosphere",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "atmosphere|5USAMqcbMAzF3HBmeD5pJF|204911",
   song: "song/vinny-marchi-atmosphere",
   carriedBy: [

@@ -12,7 +12,7 @@ export const zaraLarssonPosterGirlSummerEditionLastSummer = {
   title: "Last Summer",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "lastsummer|1Xylc3o4UrD53lo9CvFvVg|175244",
   song: "song/zara-larsson-last-summer",
   carriedBy: [

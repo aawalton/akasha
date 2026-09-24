@@ -12,7 +12,7 @@ export const vinnyMarchiMyJollySailorBoldMyJollySailorBold = {
   title: "My Jolly Sailor Bold",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "myjollysailorbold|5USAMqcbMAzF3HBmeD5pJF|216260",
   song: "song/vinny-marchi-my-jolly-sailor-bold",
   carriedBy: [

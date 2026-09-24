@@ -12,7 +12,7 @@ export const thePianoGuysRelaxingPianoUnsungHero = {
   title: "Unsung Hero",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "unsunghero|0jW6R8CVyVohuUJVcuweDI|224560",
   song: "song/the-piano-guys-unsung-hero",
   carriedBy: [

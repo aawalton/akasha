@@ -12,7 +12,7 @@ export const vinnyMarchiSugarStarsStarlight = {
   title: "Starlight",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "starlight|5USAMqcbMAzF3HBmeD5pJF|215769",
   song: "song/vinny-marchi-starlight",
   carriedBy: [

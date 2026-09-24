@@ -13,11 +13,11 @@ export const thePianoGuys3WayfaringStrangerWayfaringStranger = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "1U5zgr455OGyIkLNXvDdrf", artistName: "Traditional" },
-    { externalId: "1GRl6sRyLg9ToOohIE2wW5", artistName: "The Tabernacle Choir at Temple Square" },
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "2Zpql3RdMQjunbDKk1bIiz", artistName: "Mack Wilberg" },
-    { externalId: "4kAIRZipPTtTbZBTudxcEA", artistName: "Orchestra at Temple Square" },
+    { artistName: "Traditional" },
+    { artist: "artist/the-tabernacle-choir-at-temple-square" },
+    { artist: "artist/the-piano-guys" },
+    { artistName: "Mack Wilberg" },
+    { artistName: "Orchestra at Temple Square" },
   ],
   trackKey:
     "wayfaringstranger|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5,1U5zgr455OGyIkLNXvDdrf,2Zpql3RdMQjunbDKk1bIiz,4kAIRZipPTtTbZBTudxcEA|232685",

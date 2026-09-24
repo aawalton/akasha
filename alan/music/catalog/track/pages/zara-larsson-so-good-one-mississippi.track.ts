@@ -12,7 +12,7 @@ export const zaraLarssonSoGoodOneMississippi = {
   title: "One Mississippi",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "onemississippi|1Xylc3o4UrD53lo9CvFvVg|187970",
   song: "song/zara-larsson-one-mississippi",
   carriedBy: [

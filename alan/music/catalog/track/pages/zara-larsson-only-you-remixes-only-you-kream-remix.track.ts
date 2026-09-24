@@ -12,10 +12,7 @@ export const zaraLarssonOnlyYouRemixesOnlyYouKreamRemix = {
   title: "Only You - KREAM Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "0DdDnziut7wOo6cAYWVZC5", artistName: "KREAM" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "KREAM" }],
   trackKey: "onlyyoukreamremix|0DdDnziut7wOo6cAYWVZC5,1Xylc3o4UrD53lo9CvFvVg|207373",
   song: "song/zara-larsson-only-you",
   carriedBy: [

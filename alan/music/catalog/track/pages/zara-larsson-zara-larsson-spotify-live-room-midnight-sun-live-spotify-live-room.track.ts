@@ -12,7 +12,7 @@ export const zaraLarssonZaraLarssonSpotifyLiveRoomMidnightSunLiveSpotifyLiveRoom
   title: "Midnight Sun (Live) - Spotify Live Room",
   trackType: "live",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "midnightsunlivespotifyliveroom|1Xylc3o4UrD53lo9CvFvVg|196540",
   song: "song/zara-larsson-midnight-sun",
   carriedBy: [

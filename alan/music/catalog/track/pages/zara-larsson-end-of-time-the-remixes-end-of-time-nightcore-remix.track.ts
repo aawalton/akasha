@@ -12,7 +12,7 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeNightcoreRemix = {
   title: "End Of Time - Nightcore Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "endoftimenightcoreremix|1Xylc3o4UrD53lo9CvFvVg|195793",
   song: "song/zara-larsson-end-of-time",
   carriedBy: [

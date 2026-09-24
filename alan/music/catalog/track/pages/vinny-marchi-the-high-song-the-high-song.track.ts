@@ -12,7 +12,7 @@ export const vinnyMarchiTheHighSongTheHighSong = {
   title: "The High Song",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "thehighsong|5USAMqcbMAzF3HBmeD5pJF|149506",
   song: "song/vinny-marchi-the-high-song",
   carriedBy: [

@@ -15,10 +15,7 @@ export const zaraLarssonEndOfTimeJustinCarusoRemixEndOfTimeJustinCarusoRemix = {
   title: "End Of Time - Justin Caruso Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1NyxTiCivDmzgFWYD1V01m", artistName: "Justin Caruso" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Justin Caruso" }],
   trackKey: "endoftimejustincarusoremix|1NyxTiCivDmzgFWYD1V01m,1Xylc3o4UrD53lo9CvFvVg|152720",
   song: "song/zara-larsson-end-of-time",
   carriedBy: [

@@ -16,9 +16,9 @@ export const zaraLarssonMidnightSunGirlsTripSaturnsReturnGirlsTrip = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "3gfV2LBMvIE9gjpvowt11B", artistName: "Malibu" },
-    { externalId: "2s2ztYpVGqV3BWDbAcd35h", artistName: "Helena Gao" },
+    { artist: "artist/zara-larsson" },
+    { artistName: "Malibu" },
+    { artistName: "Helena Gao" },
   ],
   trackKey:
     "saturnsreturngirlstrip|1Xylc3o4UrD53lo9CvFvVg,2s2ztYpVGqV3BWDbAcd35h,3gfV2LBMvIE9gjpvowt11B|377507",

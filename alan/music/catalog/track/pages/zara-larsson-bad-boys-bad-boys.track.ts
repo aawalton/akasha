@@ -12,7 +12,7 @@ export const zaraLarssonBadBoysBadBoys = {
   title: "Bad Boys",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "badboys|1Xylc3o4UrD53lo9CvFvVg|129213",
   song: "song/zara-larsson-bad-boys",
   carriedBy: [

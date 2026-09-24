@@ -12,7 +12,7 @@ export const thePianoGuys3YesterdayYesterday = {
   title: "Yesterday",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "yesterday|0jW6R8CVyVohuUJVcuweDI|208312",
   song: "song/the-piano-guys-yesterday",
   carriedBy: [

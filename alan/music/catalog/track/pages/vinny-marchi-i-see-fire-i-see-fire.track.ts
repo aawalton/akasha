@@ -12,10 +12,7 @@ export const vinnyMarchiISeeFireISeeFire = {
   title: "I See Fire",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
-    { externalId: "0ZM2ioGGBOZ3NPTSUbuimj", artistName: "Bobby Bass" },
-  ],
+  trackArtist: [{ artist: "artist/vinny-marchi" }, { artistName: "Bobby Bass" }],
   trackKey: "iseefire|0ZM2ioGGBOZ3NPTSUbuimj,5USAMqcbMAzF3HBmeD5pJF|233453",
   song: "song/vinny-marchi-i-see-fire",
   carriedBy: [

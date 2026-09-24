@@ -19,7 +19,7 @@ export const thePianoGuys3Unstoppable2NeverGonnaGiveYouUp = {
   title: "Never Gonna Give You Up",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "nevergonnagiveyouup|0jW6R8CVyVohuUJVcuweDI|182631",
   song: "song/the-piano-guys-never-gonna-give-you-up",
   carriedBy: [

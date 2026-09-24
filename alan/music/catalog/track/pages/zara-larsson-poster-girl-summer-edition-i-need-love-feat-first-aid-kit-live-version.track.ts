@@ -12,10 +12,7 @@ export const zaraLarssonPosterGirlSummerEditionINeedLoveFeatFirstAidKitLiveVersi
   title: "I Need Love (feat. First Aid Kit) - Live Version",
   trackType: "live",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "21egYD1eInY6bGFcniCRT1", artistName: "First Aid Kit" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "First Aid Kit" }],
   trackKey:
     "ineedlovefeatfirstaidkitliveversion|1Xylc3o4UrD53lo9CvFvVg,21egYD1eInY6bGFcniCRT1|200992",
   song: "song/zara-larsson-i-need-love",

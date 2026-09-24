@@ -15,10 +15,7 @@ export const zaraLarssonPosterGirlSummerEditionRightHereAlokRemix = {
   title: "Right Here - Alok Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "0NGAZxHanS9e0iNHpR8f2W", artistName: "Alok" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Alok" }],
   trackKey: "rightherealokremix|0NGAZxHanS9e0iNHpR8f2W,1Xylc3o4UrD53lo9CvFvVg|155000",
   song: "song/zara-larsson-right-here",
   carriedBy: [

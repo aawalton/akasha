@@ -12,7 +12,7 @@ export const zaraLarssonMidnightSunMoreMidnightSunInstrumental = {
   title: "Midnight Sun - Instrumental",
   trackType: "instrumental",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "midnightsuninstrumental|1Xylc3o4UrD53lo9CvFvVg|184572",
   song: "song/zara-larsson-midnight-sun",
   carriedBy: [

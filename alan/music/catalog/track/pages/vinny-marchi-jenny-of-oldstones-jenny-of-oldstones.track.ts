@@ -13,9 +13,9 @@ export const vinnyMarchiJennyOfOldstonesJennyOfOldstones = {
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "10WKlp1bjWxC1IWbpX4Q6l", artistName: "Topher Ngo" },
-    { externalId: "0ZM2ioGGBOZ3NPTSUbuimj", artistName: "Bobby Bass" },
-    { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
+    { artistName: "Topher Ngo" },
+    { artistName: "Bobby Bass" },
+    { artist: "artist/vinny-marchi" },
   ],
   trackKey:
     "jennyofoldstones|0ZM2ioGGBOZ3NPTSUbuimj,10WKlp1bjWxC1IWbpX4Q6l,5USAMqcbMAzF3HBmeD5pJF|169984",

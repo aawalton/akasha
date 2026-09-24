@@ -12,10 +12,7 @@ export const zaraLarssonAinTMyFaultFeatLilYachtyRemixAintMyFaultFeatLilYachtyRem
   title: "Ain't My Fault (feat. Lil Yachty) - Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "6icQOAFXDZKsumw3YXyusw", artistName: "Lil Yachty" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Lil Yachty" }],
   trackKey: "aintmyfaultfeatlilyachtyremix|1Xylc3o4UrD53lo9CvFvVg,6icQOAFXDZKsumw3YXyusw|238360",
   song: "song/zara-larsson-ain-t-my-fault",
   carriedBy: [

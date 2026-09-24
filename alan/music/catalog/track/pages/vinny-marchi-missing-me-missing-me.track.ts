@@ -12,7 +12,7 @@ export const vinnyMarchiMissingMeMissingMe = {
   title: "missing me.",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "missingme|5USAMqcbMAzF3HBmeD5pJF|198520",
   song: "song/vinny-marchi-missing-me",
   carriedBy: [

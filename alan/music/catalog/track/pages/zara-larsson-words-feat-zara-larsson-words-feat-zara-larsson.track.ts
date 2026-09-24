@@ -12,10 +12,7 @@ export const zaraLarssonWordsFeatZaraLarssonWordsFeatZaraLarsson = {
   title: "Words (feat. Zara Larsson)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "4AVFqumd2ogHFlRbKIjp1t", artistName: "Alesso" },
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-  ],
+  trackArtist: [{ artistName: "Alesso" }, { artist: "artist/zara-larsson" }],
   trackKey: "wordsfeatzaralarsson|1Xylc3o4UrD53lo9CvFvVg,4AVFqumd2ogHFlRbKIjp1t|142677",
   song: "song/zara-larsson-words",
   carriedBy: [

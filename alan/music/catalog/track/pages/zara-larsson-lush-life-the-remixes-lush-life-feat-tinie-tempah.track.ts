@@ -12,10 +12,7 @@ export const zaraLarssonLushLifeTheRemixesLushLifeFeatTinieTempah = {
   title: "Lush Life (feat. Tinie Tempah)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "0Tob4H0FLtEONHU1MjpUEp", artistName: "Tinie Tempah" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Tinie Tempah" }],
   trackKey: "lushlifefeattinietempah|0Tob4H0FLtEONHU1MjpUEp,1Xylc3o4UrD53lo9CvFvVg|201032",
   song: "song/zara-larsson-lush-life",
   carriedBy: [

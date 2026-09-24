@@ -12,7 +12,7 @@ export const vinnyMarchiBushwickBelleIfYouFall = {
   title: "If You Fall",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "ifyoufall|5USAMqcbMAzF3HBmeD5pJF|218135",
   song: "song/vinny-marchi-if-you-fall",
   carriedBy: [

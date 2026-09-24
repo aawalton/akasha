@@ -12,7 +12,7 @@ export const vinnyMarchiLeaveThisPartyLeaveThisParty = {
   title: "Leave This Party",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "leavethisparty|5USAMqcbMAzF3HBmeD5pJF|239475",
   song: "song/vinny-marchi-leave-this-party",
   carriedBy: [

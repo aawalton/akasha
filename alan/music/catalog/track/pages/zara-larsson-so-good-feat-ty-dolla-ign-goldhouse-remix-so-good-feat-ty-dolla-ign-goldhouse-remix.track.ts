@@ -13,9 +13,9 @@ export const zaraLarssonSoGoodFeatTyDollaIgnGoldhouseRemixSoGoodFeatTyDollaIgnGo
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "7c0XG5cIJTrrAgEC3ULPiq", artistName: "Ty Dolla $ign" },
-    { externalId: "670UISOh9XV1zlq5z5IfoY", artistName: "GOLDHOUSE" },
+    { artist: "artist/zara-larsson" },
+    { artistName: "Ty Dolla $ign" },
+    { artistName: "GOLDHOUSE" },
   ],
   trackKey:
     "sogoodfeattydollaigngoldhouseremix|1Xylc3o4UrD53lo9CvFvVg,670UISOh9XV1zlq5z5IfoY,7c0XG5cIJTrrAgEC3ULPiq|205795",

@@ -16,7 +16,7 @@ export const yaelokreComposingColentineMyFarewellsToTheFields = {
   title: "My farewells to the fields",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "myfarewellstothefields|3rRyfgGByetsaaujkjQ7rY|124250",
   song: "song/yaelokre-my-farewells-to-the-fields",
   carriedBy: [

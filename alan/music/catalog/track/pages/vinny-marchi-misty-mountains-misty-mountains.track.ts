@@ -12,10 +12,7 @@ export const vinnyMarchiMistyMountainsMistyMountains = {
   title: "Misty Mountains",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" },
-    { externalId: "7fLnGsF79xujfrOZmPMuEG", artistName: "Mia Asano" },
-  ],
+  trackArtist: [{ artist: "artist/vinny-marchi" }, { artistName: "Mia Asano" }],
   trackKey: "mistymountains|5USAMqcbMAzF3HBmeD5pJF,7fLnGsF79xujfrOZmPMuEG|189180",
   song: "song/vinny-marchi-misty-mountains",
   carriedBy: [

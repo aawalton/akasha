@@ -12,7 +12,7 @@ export const zaraLarsson1SkippinABeat = {
   title: "Skippin A Beat",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "skippinabeat|1Xylc3o4UrD53lo9CvFvVg|163861",
   song: "song/zara-larsson-skippin-a-beat",
   carriedBy: [

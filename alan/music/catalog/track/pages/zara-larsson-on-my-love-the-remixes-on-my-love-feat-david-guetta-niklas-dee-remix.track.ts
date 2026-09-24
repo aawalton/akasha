@@ -13,9 +13,9 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFeatDavidGuettaNiklasDeeRemix 
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1ZPGzmbFTn8GRjqTqnLiFE", artistName: "Niklas Dee" },
-    { externalId: "1Cs0zKBU1kc0i8ypK3B9ai", artistName: "David Guetta" },
+    { artist: "artist/zara-larsson" },
+    { artistName: "Niklas Dee" },
+    { artistName: "David Guetta" },
   ],
   trackKey:
     "onmylovefeatdavidguettaniklasdeeremix|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg,1ZPGzmbFTn8GRjqTqnLiFE|172137",

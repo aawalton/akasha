@@ -12,7 +12,7 @@ export const vinnyMarchiReasonToLetGoReasonToLetGo = {
   title: "reason to let go",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "reasontoletgo|5USAMqcbMAzF3HBmeD5pJF|211470",
   song: "song/vinny-marchi-reason-to-let-go",
   carriedBy: [

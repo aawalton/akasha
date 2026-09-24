@@ -15,10 +15,7 @@ export const zaraLarssonHotSexyGirlsTripHotSexyGirlsTrip = {
   title: "Hot & Sexy - Girls Trip",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "3SozjO3Lat463tQICI9LcE", artistName: "Tyla" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Tyla" }],
   trackKey: "hotsexygirlstrip|1Xylc3o4UrD53lo9CvFvVg,3SozjO3Lat463tQICI9LcE|206118",
   song: "song/zara-larsson-hot-sexy-girls-trip",
   carriedBy: [

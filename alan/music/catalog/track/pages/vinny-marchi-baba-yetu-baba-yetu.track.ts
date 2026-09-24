@@ -12,7 +12,7 @@ export const vinnyMarchiBabaYetuBabaYetu = {
   title: "Baba Yetu",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "babayetu|5USAMqcbMAzF3HBmeD5pJF|216455",
   song: "song/vinny-marchi-baba-yetu",
   carriedBy: [

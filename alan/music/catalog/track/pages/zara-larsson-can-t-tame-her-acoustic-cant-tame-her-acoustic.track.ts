@@ -15,7 +15,7 @@ export const zaraLarssonCanTTameHerAcousticCantTameHerAcoustic = {
   title: "Can't Tame Her - Acoustic",
   trackType: "acoustic",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "canttameheracoustic|1Xylc3o4UrD53lo9CvFvVg|210000",
   song: "song/zara-larsson-can-t-tame-her",
   carriedBy: [

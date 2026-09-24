@@ -12,10 +12,7 @@ export const yaelokreForewordNeathTheGroveIsAHeart = {
   title: "Neath the grove is a heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" },
-    { externalId: "5nS4Ohh7IG844fp1Eu1GMI", artistName: "Keath Ósk" },
-  ],
+  trackArtist: [{ artist: "artist/yaelokre" }, { artistName: "Keath Ósk" }],
   trackKey: "neaththegroveisaheart|3rRyfgGByetsaaujkjQ7rY,5nS4Ohh7IG844fp1Eu1GMI|235320",
   song: "song/yaelokre-neath-the-grove-is-a-heart",
   carriedBy: [

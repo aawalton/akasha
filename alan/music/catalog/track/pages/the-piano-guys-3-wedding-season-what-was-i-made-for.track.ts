@@ -16,7 +16,7 @@ export const thePianoGuys3WeddingSeasonWhatWasIMadeFor = {
   title: "What Was I Made For?",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "whatwasimadefor|0jW6R8CVyVohuUJVcuweDI|250837",
   song: "song/billie-eilish-what-was-i-made-for",
   carriedBy: [

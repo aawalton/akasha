@@ -12,10 +12,7 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeRudimentalRemix = {
   title: "Don't Worry Bout Me - Rudimental Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "4WN5naL3ofxrVBgFpguzKo", artistName: "Rudimental" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Rudimental" }],
   trackKey: "dontworryboutmerudimentalremix|1Xylc3o4UrD53lo9CvFvVg,4WN5naL3ofxrVBgFpguzKo|193137",
   song: "song/zara-larsson-don-t-worry-bout-me",
   carriedBy: [

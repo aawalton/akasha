@@ -12,7 +12,7 @@ export const zaraLarssonInvisibleFromTheNetflixFilmKlausInvisibleFromTheNetflixF
   title: "Invisible - from the Netflix Film Klaus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "invisiblefromthenetflixfilmklaus|1Xylc3o4UrD53lo9CvFvVg|173975",
   song: "song/zara-larsson-invisible-from-the-netflix-film-klaus",
   carriedBy: [

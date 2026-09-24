@@ -12,10 +12,7 @@ export const zaraLarssonABrandNewDayBtsWorldOriginalSoundtrackPt2ABrandNewDayBts
   title: "A Brand New Day - BTS World Original Soundtrack (Pt. 2)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3Nrfpe0tUJi4K4DXYWgMUX", artistName: "BTS" },
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-  ],
+  trackArtist: [{ artistName: "BTS" }, { artist: "artist/zara-larsson" }],
   trackKey:
     "abrandnewdaybtsworldoriginalsoundtrackpt2|1Xylc3o4UrD53lo9CvFvVg,3Nrfpe0tUJi4K4DXYWgMUX|205019",
   song: "song/zara-larsson-a-brand-new-day-bts-world-original-soundtrack-pt-2",

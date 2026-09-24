@@ -12,7 +12,7 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheLesbianHunterVsTheSadSadAlphaM
   title: "The Lesbian Hunter vs The Sad Sad Alpha Man",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "thelesbianhuntervsthesadsadalphaman|5USAMqcbMAzF3HBmeD5pJF|150090",
   song: "song/vinny-marchi-the-lesbian-hunter-vs-the-sad-sad-alpha-man",
   carriedBy: [

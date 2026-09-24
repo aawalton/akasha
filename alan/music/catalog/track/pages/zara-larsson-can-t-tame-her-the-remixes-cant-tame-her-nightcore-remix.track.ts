@@ -12,7 +12,7 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerNightcoreRemix = {
   title: "Can't Tame Her - Nightcore Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "canttamehernightcoreremix|1Xylc3o4UrD53lo9CvFvVg|186392",
   song: "song/zara-larsson-can-t-tame-her",
   carriedBy: [

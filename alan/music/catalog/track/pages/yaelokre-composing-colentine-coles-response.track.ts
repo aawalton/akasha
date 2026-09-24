@@ -12,7 +12,7 @@ export const yaelokreComposingColentineColesResponse = {
   title: "Cole's Response",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "colesresponse|3rRyfgGByetsaaujkjQ7rY|128985",
   song: "song/yaelokre-coles-response",
   carriedBy: [

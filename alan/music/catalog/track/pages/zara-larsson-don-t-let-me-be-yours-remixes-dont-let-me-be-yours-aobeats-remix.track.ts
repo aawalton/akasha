@@ -12,10 +12,7 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursAobeatsRemix = {
   title: "Don't Let Me Be Yours - AObeats Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "2tfyKNBwTB41ArvliXX1zA", artistName: "AOBeats" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "AOBeats" }],
   trackKey: "dontletmebeyoursaobeatsremix|1Xylc3o4UrD53lo9CvFvVg,2tfyKNBwTB41ArvliXX1zA|251009",
   song: "song/zara-larsson-don-t-let-me-be-yours",
   carriedBy: [

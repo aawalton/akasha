@@ -12,7 +12,7 @@ export const vinnyMarchiBushwickBelleAroundWeGo = {
   title: "Around We Go",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "aroundwego|5USAMqcbMAzF3HBmeD5pJF|173423",
   song: "song/vinny-marchi-around-we-go",
   carriedBy: [

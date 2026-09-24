@@ -12,10 +12,7 @@ export const zaraLarssonAmmunitionDennisRemixAmmunitionDennisRemix = {
   title: "Ammunition - DENNIS Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "6xlRSRMLgZbsSNd0BMobwy", artistName: "DENNIS" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "DENNIS" }],
   trackKey: "ammunitiondennisremix|1Xylc3o4UrD53lo9CvFvVg,6xlRSRMLgZbsSNd0BMobwy|138965",
   song: "song/zara-larsson-ammunition",
   carriedBy: [

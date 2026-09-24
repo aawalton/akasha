@@ -15,7 +15,7 @@ export const zaraLarssonLushLifeRetroVersionLushLifeRetroVersion = {
   title: "Lush Life - Retro Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "lushliferetroversion|1Xylc3o4UrD53lo9CvFvVg|193853",
   song: "song/zara-larsson-lush-life",
   carriedBy: [

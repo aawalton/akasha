@@ -12,7 +12,7 @@ export const yaelokreComposingColentineHearken = {
   title: "Hearken",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "hearken|3rRyfgGByetsaaujkjQ7rY|371671",
   song: "song/yaelokre-hearken",
   carriedBy: [

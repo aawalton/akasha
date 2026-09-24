@@ -15,7 +15,7 @@ export const vinnyMarchiTalesOfTheLesbianHunterTheTaleOfTheLesbianHunter = {
   title: "The Tale of the Lesbian Hunter",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "thetaleofthelesbianhunter|5USAMqcbMAzF3HBmeD5pJF|139026",
   song: "song/vinny-marchi-the-tale-of-the-lesbian-hunter",
   carriedBy: [

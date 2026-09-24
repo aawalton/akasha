@@ -12,7 +12,7 @@ export const vinnyMarchiForgetMyPhoneForgetMyPhone = {
   title: "Forget My Phone",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "forgetmyphone|5USAMqcbMAzF3HBmeD5pJF|155704",
   song: "song/vinny-marchi-forget-my-phone",
   carriedBy: [

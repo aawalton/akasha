@@ -12,10 +12,7 @@ export const zaraLarssonSoGoodNeverForgetYou = {
   title: "Never Forget You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "7uMh23xWiuR7zsNkuNcm2G", artistName: "MNEK" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "MNEK" }],
   trackKey: "neverforgetyou|1Xylc3o4UrD53lo9CvFvVg,7uMh23xWiuR7zsNkuNcm2G|212574",
   song: "song/zara-larsson-never-forget-you",
   carriedBy: [

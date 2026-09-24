@@ -12,10 +12,7 @@ export const zaraLarssonStatesideZaraLarssonStatesideZaraLarsson = {
   title: "Stateside + Zara Larsson",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "78rUTD7y6Cy67W1RVzYs7t", artistName: "PinkPantheress" },
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-  ],
+  trackArtist: [{ artistName: "PinkPantheress" }, { artist: "artist/zara-larsson" }],
   trackKey: "statesidezaralarsson|1Xylc3o4UrD53lo9CvFvVg,78rUTD7y6Cy67W1RVzYs7t|184761",
   song: "song/zara-larsson-stateside-zara-larsson",
   carriedBy: [

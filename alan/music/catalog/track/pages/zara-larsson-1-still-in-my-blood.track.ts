@@ -12,7 +12,7 @@ export const zaraLarsson1StillInMyBlood = {
   title: "Still In My Blood",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "stillinmyblood|1Xylc3o4UrD53lo9CvFvVg|191378",
   song: "song/zara-larsson-still-in-my-blood",
   carriedBy: [

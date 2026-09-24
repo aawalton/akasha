@@ -12,10 +12,7 @@ export const zaraLarssonSheDidItAgainFeatZaraLarssonSheDidItAgainFeatZaraLarsson
   title: "SHE DID IT AGAIN (feat. Zara Larsson)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "3SozjO3Lat463tQICI9LcE", artistName: "Tyla" },
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-  ],
+  trackArtist: [{ artistName: "Tyla" }, { artist: "artist/zara-larsson" }],
   trackKey: "shediditagainfeatzaralarsson|1Xylc3o4UrD53lo9CvFvVg,3SozjO3Lat463tQICI9LcE|213241",
   song: "song/zara-larsson-she-did-it-again",
   carriedBy: [

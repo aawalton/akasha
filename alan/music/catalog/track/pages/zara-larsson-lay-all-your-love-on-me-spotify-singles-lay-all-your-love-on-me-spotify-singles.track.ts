@@ -12,7 +12,7 @@ export const zaraLarssonLayAllYourLoveOnMeSpotifySinglesLayAllYourLoveOnMeSpotif
   title: "Lay All Your Love On Me - Spotify Singles",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "layallyourloveonmespotifysingles|1Xylc3o4UrD53lo9CvFvVg|161125",
   song: "song/zara-larsson-lay-all-your-love-on-me-spotify-singles",
   carriedBy: [

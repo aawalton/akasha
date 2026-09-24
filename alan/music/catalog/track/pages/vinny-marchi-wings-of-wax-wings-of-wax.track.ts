@@ -12,7 +12,7 @@ export const vinnyMarchiWingsOfWaxWingsOfWax = {
   title: "Wings of Wax",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "wingsofwax|5USAMqcbMAzF3HBmeD5pJF|228914",
   song: "song/vinny-marchi-wings-of-wax",
   carriedBy: [

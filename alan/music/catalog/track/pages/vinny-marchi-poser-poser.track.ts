@@ -12,7 +12,7 @@ export const vinnyMarchiPoserPoser = {
   title: "POSER",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "poser|5USAMqcbMAzF3HBmeD5pJF|163808",
   song: "song/vinny-marchi-poser",
   carriedBy: [

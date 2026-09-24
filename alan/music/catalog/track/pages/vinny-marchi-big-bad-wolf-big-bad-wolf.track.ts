@@ -12,7 +12,7 @@ export const vinnyMarchiBigBadWolfBigBadWolf = {
   title: "Big Bad Wolf",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "bigbadwolf|5USAMqcbMAzF3HBmeD5pJF|141152",
   song: "song/vinny-marchi-big-bad-wolf",
   carriedBy: [

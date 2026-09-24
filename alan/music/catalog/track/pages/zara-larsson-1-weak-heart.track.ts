@@ -12,7 +12,7 @@ export const zaraLarsson1WeakHeart = {
   title: "Weak Heart",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "weakheart|1Xylc3o4UrD53lo9CvFvVg|179938",
   song: "song/zara-larsson-weak-heart",
   carriedBy: [

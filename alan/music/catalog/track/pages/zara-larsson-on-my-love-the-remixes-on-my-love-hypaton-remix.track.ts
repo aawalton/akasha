@@ -13,9 +13,9 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveHypatonRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1Cs0zKBU1kc0i8ypK3B9ai", artistName: "David Guetta" },
-    { externalId: "5GYaRwCWwhU6SIQrQ5G3b7", artistName: "Hypaton" },
+    { artist: "artist/zara-larsson" },
+    { artistName: "David Guetta" },
+    { artistName: "Hypaton" },
   ],
   trackKey:
     "onmylovehypatonremix|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg,5GYaRwCWwhU6SIQrQ5G3b7|191250",

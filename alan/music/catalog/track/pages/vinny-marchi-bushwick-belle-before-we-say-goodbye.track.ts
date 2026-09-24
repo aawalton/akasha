@@ -12,7 +12,7 @@ export const vinnyMarchiBushwickBelleBeforeWeSayGoodbye = {
   title: "Before We Say Goodbye",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "beforewesaygoodbye|5USAMqcbMAzF3HBmeD5pJF|132057",
   song: "song/vinny-marchi-before-we-say-goodbye",
   carriedBy: [

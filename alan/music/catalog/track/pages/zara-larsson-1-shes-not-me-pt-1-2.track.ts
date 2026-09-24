@@ -12,7 +12,7 @@ export const zaraLarsson1ShesNotMePt12 = {
   title: "She's Not Me, Pt. 1 & 2",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "shesnotmept12|1Xylc3o4UrD53lo9CvFvVg|333254",
   song: "song/zara-larsson-shes-not-me-pt-1-2",
   carriedBy: [

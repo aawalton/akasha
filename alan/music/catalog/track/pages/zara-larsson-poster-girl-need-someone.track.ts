@@ -15,7 +15,7 @@ export const zaraLarssonPosterGirlNeedSomeone = {
   title: "Need Someone",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "needsomeone|1Xylc3o4UrD53lo9CvFvVg|177361",
   song: "song/zara-larsson-need-someone",
   carriedBy: [

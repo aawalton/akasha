@@ -12,7 +12,7 @@ export const vinnyMarchiPoserRemasteredDrivingMePsychoRemastered = {
   title: "DRIVING ME PSYCHO - remastered",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "drivingmepsychoremastered|5USAMqcbMAzF3HBmeD5pJF|208361",
   song: "song/vinny-marchi-driving-me-psycho",
   carriedBy: [

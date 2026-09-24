@@ -16,7 +16,7 @@ export const thePianoGuys3Unstoppable2WhenYoureGone = {
   title: "When You're Gone",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "whenyouregone|0jW6R8CVyVohuUJVcuweDI|180000",
   song: "song/the-piano-guys-when-youre-gone",
   carriedBy: [

@@ -15,7 +15,7 @@ export const zaraLarssonPosterGirlLoveMeLand = {
   title: "Love Me Land",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "lovemeland|1Xylc3o4UrD53lo9CvFvVg|160316",
   song: "song/zara-larsson-love-me-land",
   carriedBy: [

@@ -13,9 +13,9 @@ export const zaraLarssonOnMyLoveTheRemixesOnMyLoveFelixJaehnRemix = {
   trackType: "remix",
   explicit: false,
   trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1Cs0zKBU1kc0i8ypK3B9ai", artistName: "David Guetta" },
-    { externalId: "4bL2B6hmLlMWnUEZnorEtG", artistName: "felix jaehn" },
+    { artist: "artist/zara-larsson" },
+    { artistName: "David Guetta" },
+    { artistName: "felix jaehn" },
   ],
   trackKey:
     "onmylovefelixjaehnremix|1Cs0zKBU1kc0i8ypK3B9ai,1Xylc3o4UrD53lo9CvFvVg,4bL2B6hmLlMWnUEZnorEtG|210000",

@@ -12,7 +12,7 @@ export const vinnyMarchiPoserRemasteredTakeMeBackToYouRemastered = {
   title: "Take Me Back To You - remastered",
   trackType: "remaster",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "takemebacktoyouremastered|5USAMqcbMAzF3HBmeD5pJF|173134",
   song: "song/vinny-marchi-take-me-back-to-you",
   carriedBy: [

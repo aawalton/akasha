@@ -12,7 +12,7 @@ export const zaraLarssonSoGoodAintMyFault = {
   title: "Ain't My Fault",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "aintmyfault|1Xylc3o4UrD53lo9CvFvVg|224457",
   song: "song/zara-larsson-ain-t-my-fault",
   carriedBy: [

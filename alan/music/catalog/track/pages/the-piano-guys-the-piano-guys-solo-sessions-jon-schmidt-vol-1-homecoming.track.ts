@@ -12,7 +12,7 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Homecoming = {
   title: "Homecoming",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
+  trackArtist: [{ artistName: "Jon Schmidt" }],
   trackKey: "homecoming|2YQ4MY2VwOMv43C0GemUY5|163603",
   song: "song/the-piano-guys-homecoming",
   carriedBy: [

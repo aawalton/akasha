@@ -12,7 +12,7 @@ export const zaraLarssonBadBoysBadBoysDoItYourselfVersion = {
   title: "Bad Boys - Do It Yourself Version",
   trackType: "version",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "badboysdoityourselfversion|1Xylc3o4UrD53lo9CvFvVg|129346",
   song: "song/zara-larsson-bad-boys",
   carriedBy: [

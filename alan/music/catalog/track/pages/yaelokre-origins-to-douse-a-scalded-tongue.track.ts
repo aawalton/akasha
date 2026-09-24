@@ -12,7 +12,7 @@ export const yaelokreOriginsToDouseAScaldedTongue = {
   title: "To douse a scalded tongue",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "todouseascaldedtongue|3rRyfgGByetsaaujkjQ7rY|163514",
   song: "song/yaelokre-to-douse-a-scalded-tongue",
   carriedBy: [

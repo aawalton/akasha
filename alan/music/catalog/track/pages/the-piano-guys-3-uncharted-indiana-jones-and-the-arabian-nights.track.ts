@@ -12,7 +12,7 @@ export const thePianoGuys3UnchartedIndianaJonesAndTheArabianNights = {
   title: "Indiana Jones and the Arabian Nights",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "indianajonesandthearabiannights|0jW6R8CVyVohuUJVcuweDI|206312",
   song: "song/the-piano-guys-indiana-jones-and-the-arabian-nights",
   carriedBy: [

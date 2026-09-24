@@ -15,7 +15,7 @@ export const zaraLarssonPosterGirlFff = {
   title: "FFF",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "fff|1Xylc3o4UrD53lo9CvFvVg|212581",
   song: "song/zara-larsson-fff",
   carriedBy: [

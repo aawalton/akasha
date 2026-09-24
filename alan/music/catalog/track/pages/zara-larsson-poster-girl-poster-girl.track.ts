@@ -15,7 +15,7 @@ export const zaraLarssonPosterGirlPosterGirl = {
   title: "Poster Girl",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "postergirl|1Xylc3o4UrD53lo9CvFvVg|177054",
   song: "song/zara-larsson-poster-girl",
   carriedBy: [

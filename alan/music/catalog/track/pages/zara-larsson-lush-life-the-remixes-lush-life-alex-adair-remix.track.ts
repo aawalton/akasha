@@ -12,10 +12,7 @@ export const zaraLarssonLushLifeTheRemixesLushLifeAlexAdairRemix = {
   title: "Lush Life - Alex Adair Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "1mrrvBvbrm28iYaPlJ9mG5", artistName: "Alex Adair" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Alex Adair" }],
   trackKey: "lushlifealexadairremix|1Xylc3o4UrD53lo9CvFvVg,1mrrvBvbrm28iYaPlJ9mG5|214491",
   song: "song/zara-larsson-lush-life",
   carriedBy: [

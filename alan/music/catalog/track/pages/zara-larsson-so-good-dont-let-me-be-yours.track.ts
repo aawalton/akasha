@@ -12,7 +12,7 @@ export const zaraLarssonSoGoodDontLetMeBeYours = {
   title: "Don't Let Me Be Yours",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "dontletmebeyours|1Xylc3o4UrD53lo9CvFvVg|199043",
   song: "song/zara-larsson-don-t-let-me-be-yours",
   carriedBy: [

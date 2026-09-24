@@ -15,7 +15,7 @@ export const vinnyMarchiDidnTComeAllThisWayDidntComeAllThisWay = {
   title: "Didn't Come All This Way",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "didntcomeallthisway|5USAMqcbMAzF3HBmeD5pJF|153846",
   song: "song/vinny-marchi-didnt-come-all-this-way",
   carriedBy: [

@@ -12,7 +12,7 @@ export const zaraLarssonSoGoodIWouldLike = {
   title: "I Would Like",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "iwouldlike|1Xylc3o4UrD53lo9CvFvVg|224576",
   song: "song/zara-larsson-i-would-like",
   carriedBy: [

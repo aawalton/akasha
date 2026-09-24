@@ -16,7 +16,7 @@ export const zaraLarssonCrushCrush = {
   title: "Crush",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "crush|1Xylc3o4UrD53lo9CvFvVg|177118",
   song: "song/zara-larsson-crush",
   carriedBy: [

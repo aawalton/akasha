@@ -15,7 +15,7 @@ export const zaraLarssonPosterGirlRightHere = {
   title: "Right Here",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "righthere|1Xylc3o4UrD53lo9CvFvVg|226237",
   song: "song/zara-larsson-right-here",
   carriedBy: [

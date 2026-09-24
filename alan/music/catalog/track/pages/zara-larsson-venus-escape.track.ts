@@ -12,7 +12,7 @@ export const zaraLarssonVenusEscape = {
   title: "Escape",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "escape|1Xylc3o4UrD53lo9CvFvVg|194727",
   song: "song/zara-larsson-escape",
   carriedBy: [

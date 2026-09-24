@@ -12,7 +12,7 @@ export const vinnyMarchiSugarStarsFutureMe = {
   title: "future me",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "futureme|5USAMqcbMAzF3HBmeD5pJF|200625",
   song: "song/vinny-marchi-future-me",
   carriedBy: [

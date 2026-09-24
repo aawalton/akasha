@@ -12,7 +12,7 @@ export const zaraLarssonVenusTheHealing = {
   title: "The Healing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "thehealing|1Xylc3o4UrD53lo9CvFvVg|190967",
   song: "song/zara-larsson-the-healing",
   carriedBy: [

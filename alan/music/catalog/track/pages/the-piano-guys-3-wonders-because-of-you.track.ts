@@ -12,7 +12,7 @@ export const thePianoGuys3WondersBecauseOfYou = {
   title: "Because of You",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "becauseofyou|0jW6R8CVyVohuUJVcuweDI|242853",
   song: "song/the-piano-guys-because-of-you",
   carriedBy: [

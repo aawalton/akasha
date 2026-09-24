@@ -12,10 +12,7 @@ export const zaraLarssonIWouldLikeGorgonCityRemixIWouldLikeGorgonCityRemix = {
   title: "I Would Like - Gorgon City Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "4VNQWV2y1E97Eqo2D5UTjx", artistName: "Gorgon City" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Gorgon City" }],
   trackKey: "iwouldlikegorgoncityremix|1Xylc3o4UrD53lo9CvFvVg,4VNQWV2y1E97Eqo2D5UTjx|263655",
   song: "song/zara-larsson-i-would-like",
   carriedBy: [

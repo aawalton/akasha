@@ -12,11 +12,7 @@ export const zaraLarssonLikeItIsLikeItIs = {
   title: "Like It Is",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "23fqKkggKUBHNkbKtXEls4", artistName: "Kygo" },
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "5LHRHt1k9lMyONurDHEdrp", artistName: "Tyga" },
-  ],
+  trackArtist: [{ artistName: "Kygo" }, { artist: "artist/zara-larsson" }, { artistName: "Tyga" }],
   trackKey: "likeitis|1Xylc3o4UrD53lo9CvFvVg,23fqKkggKUBHNkbKtXEls4,5LHRHt1k9lMyONurDHEdrp|183067",
   song: "song/zara-larsson-like-it-is",
   carriedBy: [

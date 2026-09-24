@@ -12,10 +12,7 @@ export const zaraLarssonDonTWorryBoutMeRemixesDontWorryBoutMeFutoseRemixRadioEdi
   title: "Don't Worry Bout Me - Futosé Remix (Radio Edit)",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "6FeeyXqknRHo5IhqaqKe4L", artistName: "Futosé" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Futosé" }],
   trackKey:
     "dontworryboutmefutoseremixradioedit|1Xylc3o4UrD53lo9CvFvVg,6FeeyXqknRHo5IhqaqKe4L|223402",
   song: "song/zara-larsson-don-t-worry-bout-me",

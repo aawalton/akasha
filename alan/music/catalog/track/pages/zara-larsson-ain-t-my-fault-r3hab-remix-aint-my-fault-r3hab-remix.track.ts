@@ -12,10 +12,7 @@ export const zaraLarssonAinTMyFaultR3habRemixAintMyFaultR3habRemix = {
   title: "Ain't My Fault - R3hab Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "6cEuCEZu7PAE9ZSzLLc2oQ", artistName: "R3HAB" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "R3HAB" }],
   trackKey: "aintmyfaultr3habremix|1Xylc3o4UrD53lo9CvFvVg,6cEuCEZu7PAE9ZSzLLc2oQ|158772",
   song: "song/zara-larsson-ain-t-my-fault",
   carriedBy: [

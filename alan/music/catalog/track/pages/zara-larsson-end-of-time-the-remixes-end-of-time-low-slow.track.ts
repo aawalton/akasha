@@ -12,7 +12,7 @@ export const zaraLarssonEndOfTimeTheRemixesEndOfTimeLowSlow = {
   title: "End Of Time - Low & Slow",
   trackType: "studio",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "endoftimelowslow|1Xylc3o4UrD53lo9CvFvVg|236000",
   song: "song/zara-larsson-end-of-time-low-slow",
   carriedBy: [

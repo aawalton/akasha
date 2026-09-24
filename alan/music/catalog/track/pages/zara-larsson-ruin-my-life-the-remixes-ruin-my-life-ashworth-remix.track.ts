@@ -12,10 +12,7 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeAshworthRemix = {
   title: "Ruin My Life - Ashworth Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "3pcGjcfEW3YD2Hfk6tDR5S", artistName: "Ashworth" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Ashworth" }],
   trackKey: "ruinmylifeashworthremix|1Xylc3o4UrD53lo9CvFvVg,3pcGjcfEW3YD2Hfk6tDR5S|191108",
   song: "song/zara-larsson-ruin-my-life",
   carriedBy: [

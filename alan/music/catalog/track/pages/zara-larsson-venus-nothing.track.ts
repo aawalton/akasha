@@ -12,7 +12,7 @@ export const zaraLarssonVenusNothing = {
   title: "Nothing",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "nothing|1Xylc3o4UrD53lo9CvFvVg|167446",
   song: "song/zara-larsson-nothing",
   carriedBy: [

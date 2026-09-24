@@ -12,7 +12,7 @@ export const vinnyMarchiSugarStarsAstrology = {
   title: "astrology",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "astrology|5USAMqcbMAzF3HBmeD5pJF|201663",
   song: "song/vinny-marchi-astrology",
   carriedBy: [

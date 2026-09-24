@@ -12,7 +12,7 @@ export const zaraLarssonSoGoodLushLife = {
   title: "Lush Life",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "lushlife|1Xylc3o4UrD53lo9CvFvVg|200646",
   song: "song/zara-larsson-lush-life",
   carriedBy: [

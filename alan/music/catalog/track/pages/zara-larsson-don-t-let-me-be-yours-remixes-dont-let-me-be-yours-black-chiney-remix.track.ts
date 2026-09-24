@@ -12,10 +12,7 @@ export const zaraLarssonDonTLetMeBeYoursRemixesDontLetMeBeYoursBlackChineyRemix 
   title: "Don't Let Me Be Yours - Black Chiney Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "3sKnxPwlgaR3gWa8Cz4WrE", artistName: "Black Chiney" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Black Chiney" }],
   trackKey: "dontletmebeyoursblackchineyremix|1Xylc3o4UrD53lo9CvFvVg,3sKnxPwlgaR3gWa8Cz4WrE|205777",
   song: "song/zara-larsson-don-t-let-me-be-yours",
   carriedBy: [

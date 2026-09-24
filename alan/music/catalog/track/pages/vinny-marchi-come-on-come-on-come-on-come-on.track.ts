@@ -12,7 +12,7 @@ export const vinnyMarchiComeOnComeOnComeOnComeOn = {
   title: "Come On! Come On!",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "comeoncomeon|5USAMqcbMAzF3HBmeD5pJF|148925",
   song: "song/vinny-marchi-come-on-come-on",
   carriedBy: [

@@ -12,7 +12,7 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifePianoVersion = {
   title: "Ruin My Life - Piano Version",
   trackType: "version",
   explicit: true,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "ruinmylifepianoversion|1Xylc3o4UrD53lo9CvFvVg|190080",
   song: "song/zara-larsson-ruin-my-life",
   carriedBy: [

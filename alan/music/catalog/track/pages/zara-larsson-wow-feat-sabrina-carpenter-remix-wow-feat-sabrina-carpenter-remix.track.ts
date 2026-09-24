@@ -12,10 +12,7 @@ export const zaraLarssonWowFeatSabrinaCarpenterRemixWowFeatSabrinaCarpenterRemix
   title: "WOW (feat. Sabrina Carpenter) - Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "74KM79TiuVKeVCqs8QtB0B", artistName: "Sabrina Carpenter" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artist: "artist/sabrina-carpenter" }],
   trackKey: "wowfeatsabrinacarpenterremix|1Xylc3o4UrD53lo9CvFvVg,74KM79TiuVKeVCqs8QtB0B|179652",
   song: "song/zara-larsson-wow",
   carriedBy: [

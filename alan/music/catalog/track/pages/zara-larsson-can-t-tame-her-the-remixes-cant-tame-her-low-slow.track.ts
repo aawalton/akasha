@@ -12,7 +12,7 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerLowSlow = {
   title: "Can't Tame Her - Low & Slow",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "canttameherlowslow|1Xylc3o4UrD53lo9CvFvVg|224917",
   song: "song/zara-larsson-cant-tame-her-low-slow",
   carriedBy: [

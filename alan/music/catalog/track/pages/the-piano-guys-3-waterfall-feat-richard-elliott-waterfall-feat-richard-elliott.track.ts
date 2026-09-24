@@ -13,9 +13,9 @@ export const thePianoGuys3WaterfallFeatRichardElliottWaterfallFeatRichardElliott
   trackType: "studio",
   explicit: false,
   trackArtist: [
-    { externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" },
-    { externalId: "1GRl6sRyLg9ToOohIE2wW5", artistName: "The Tabernacle Choir at Temple Square" },
-    { externalId: "50Bzsa2Le4qOPs6lrfKuzY", artistName: "Richard Elliott" },
+    { artist: "artist/the-piano-guys" },
+    { artist: "artist/the-tabernacle-choir-at-temple-square" },
+    { artistName: "Richard Elliott" },
   ],
   trackKey:
     "waterfallfeatrichardelliott|0jW6R8CVyVohuUJVcuweDI,1GRl6sRyLg9ToOohIE2wW5,50Bzsa2Le4qOPs6lrfKuzY|187296",

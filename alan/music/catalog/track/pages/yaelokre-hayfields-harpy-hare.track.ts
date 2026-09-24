@@ -12,7 +12,7 @@ export const yaelokreHayfieldsHarpyHare = {
   title: "Harpy Hare",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "3rRyfgGByetsaaujkjQ7rY", artistName: "Yaelokre" }],
+  trackArtist: [{ artist: "artist/yaelokre" }],
   trackKey: "harpyhare|3rRyfgGByetsaaujkjQ7rY|180922",
   song: "song/yaelokre-harpy-hare",
   carriedBy: [

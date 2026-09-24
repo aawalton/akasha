@@ -15,10 +15,7 @@ export const zaraLarssonEndOfTimeKungsRemixEndOfTimeKungsRemix = {
   title: "End Of Time - Kungs Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "7keGfmQR4X5w0two1xKZ7d", artistName: "Kungs" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Kungs" }],
   trackKey: "endoftimekungsremix|1Xylc3o4UrD53lo9CvFvVg,7keGfmQR4X5w0two1xKZ7d|154890",
   song: "song/zara-larsson-end-of-time",
   carriedBy: [

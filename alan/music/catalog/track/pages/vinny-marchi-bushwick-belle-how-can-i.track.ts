@@ -12,7 +12,7 @@ export const vinnyMarchiBushwickBelleHowCanI = {
   title: "How Can I",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "howcani|5USAMqcbMAzF3HBmeD5pJF|217245",
   song: "song/vinny-marchi-how-can-i",
   carriedBy: [

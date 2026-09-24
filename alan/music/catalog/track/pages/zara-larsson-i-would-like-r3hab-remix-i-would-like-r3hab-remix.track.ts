@@ -12,10 +12,7 @@ export const zaraLarssonIWouldLikeR3habRemixIWouldLikeR3habRemix = {
   title: "I Would Like - R3hab Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "6cEuCEZu7PAE9ZSzLLc2oQ", artistName: "R3HAB" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "R3HAB" }],
   trackKey: "iwouldliker3habremix|1Xylc3o4UrD53lo9CvFvVg,6cEuCEZu7PAE9ZSzLLc2oQ|146999",
   song: "song/zara-larsson-i-would-like",
   carriedBy: [

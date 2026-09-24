@@ -12,7 +12,7 @@ export const thePianoGuys3WondersBatmanEvolution = {
   title: "Batman Evolution",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "batmanevolution|0jW6R8CVyVohuUJVcuweDI|249546",
   song: "song/the-piano-guys-batman-evolution",
   carriedBy: [

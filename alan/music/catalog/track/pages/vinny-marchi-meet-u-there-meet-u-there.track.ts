@@ -12,7 +12,7 @@ export const vinnyMarchiMeetUThereMeetUThere = {
   title: "meet U there",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "5USAMqcbMAzF3HBmeD5pJF", artistName: "Vinny Marchi" }],
+  trackArtist: [{ artist: "artist/vinny-marchi" }],
   trackKey: "meetuthere|5USAMqcbMAzF3HBmeD5pJF|168000",
   song: "song/vinny-marchi-meet-u-there",
   carriedBy: [

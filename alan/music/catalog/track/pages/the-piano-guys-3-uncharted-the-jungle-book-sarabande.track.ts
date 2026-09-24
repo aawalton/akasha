@@ -12,7 +12,7 @@ export const thePianoGuys3UnchartedTheJungleBookSarabande = {
   title: "The Jungle Book / Sarabande",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "thejunglebooksarabande|0jW6R8CVyVohuUJVcuweDI|222125",
   song: "song/the-piano-guys-the-jungle-book-sarabande",
   carriedBy: [

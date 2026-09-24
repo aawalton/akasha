@@ -15,10 +15,7 @@ export const zaraLarssonMorningBillenTedRemixMorningBillenTedRemix = {
   title: "Morning - Billen Ted Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "5PoZtBo8xZKqPWlZrIDq82", artistName: "Billen Ted" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Billen Ted" }],
   trackKey: "morningbillentedremix|1Xylc3o4UrD53lo9CvFvVg,5PoZtBo8xZKqPWlZrIDq82|146904",
   song: "song/zara-larsson-morning",
   carriedBy: [

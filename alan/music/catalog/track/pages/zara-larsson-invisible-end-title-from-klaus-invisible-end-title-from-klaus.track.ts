@@ -12,7 +12,7 @@ export const zaraLarssonInvisibleEndTitleFromKlausInvisibleEndTitleFromKlaus = {
   title: "Invisible - End Title from Klaus",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "invisibleendtitlefromklaus|1Xylc3o4UrD53lo9CvFvVg|171716",
   song: "song/zara-larsson-invisible-end-title-from-klaus",
   carriedBy: [

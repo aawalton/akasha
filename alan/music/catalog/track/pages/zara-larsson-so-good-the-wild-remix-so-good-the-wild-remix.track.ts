@@ -12,10 +12,7 @@ export const zaraLarssonSoGoodTheWildRemixSoGoodTheWildRemix = {
   title: "So Good - The Wild Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "74lRkEloOvori8dZJjNEjd", artistName: "The Wild" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "The Wild" }],
   trackKey: "sogoodthewildremix|1Xylc3o4UrD53lo9CvFvVg,74lRkEloOvori8dZJjNEjd|225453",
   song: "song/zara-larsson-so-good",
   carriedBy: [

@@ -12,7 +12,7 @@ export const thePianoGuysThePianoGuysSoloSessionsJonSchmidtVol1Solace = {
   title: "Solace",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "2YQ4MY2VwOMv43C0GemUY5", artistName: "Jon Schmidt" }],
+  trackArtist: [{ artistName: "Jon Schmidt" }],
   trackKey: "solace|2YQ4MY2VwOMv43C0GemUY5|229615",
   song: "song/the-piano-guys-solace",
   carriedBy: [

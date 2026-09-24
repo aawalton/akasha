@@ -12,7 +12,7 @@ export const thePianoGuys3WondersAntsMarchingOdeToJoy = {
   title: "Ants Marching / Ode to Joy",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "0jW6R8CVyVohuUJVcuweDI", artistName: "The Piano Guys" }],
+  trackArtist: [{ artist: "artist/the-piano-guys" }],
   trackKey: "antsmarchingodetojoy|0jW6R8CVyVohuUJVcuweDI|169653",
   song: "song/the-piano-guys-ants-marching-ode-to-joy",
   carriedBy: [

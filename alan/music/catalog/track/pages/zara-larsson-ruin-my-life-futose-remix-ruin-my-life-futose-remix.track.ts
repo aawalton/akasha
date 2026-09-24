@@ -15,10 +15,7 @@ export const zaraLarssonRuinMyLifeFutoseRemixRuinMyLifeFutoseRemix = {
   title: "Ruin My Life - Futosé Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "6FeeyXqknRHo5IhqaqKe4L", artistName: "Futosé" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Futosé" }],
   trackKey: "ruinmylifefutoseremix|1Xylc3o4UrD53lo9CvFvVg,6FeeyXqknRHo5IhqaqKe4L|284890",
   song: "song/zara-larsson-ruin-my-life",
   carriedBy: [

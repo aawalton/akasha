@@ -15,10 +15,7 @@ export const zaraLarssonCanTTameHerTheRemixesCantTameHerVizeRemix = {
   title: "Can't Tame Her - VIZE Remix",
   trackType: "remix",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "09agIJMxCD2k87ys9Al0f0", artistName: "VIZE" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "VIZE" }],
   trackKey: "canttamehervizeremix|09agIJMxCD2k87ys9Al0f0,1Xylc3o4UrD53lo9CvFvVg|173333",
   song: "song/zara-larsson-can-t-tame-her",
   carriedBy: [

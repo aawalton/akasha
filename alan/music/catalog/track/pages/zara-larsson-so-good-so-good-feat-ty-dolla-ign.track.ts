@@ -12,10 +12,7 @@ export const zaraLarssonSoGoodSoGoodFeatTyDollaIgn = {
   title: "So Good (feat. Ty Dolla $ign)",
   trackType: "studio",
   explicit: false,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "7c0XG5cIJTrrAgEC3ULPiq", artistName: "Ty Dolla $ign" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Ty Dolla $ign" }],
   trackKey: "sogoodfeattydollaign|1Xylc3o4UrD53lo9CvFvVg,7c0XG5cIJTrrAgEC3ULPiq|166765",
   song: "song/zara-larsson-so-good",
   carriedBy: [

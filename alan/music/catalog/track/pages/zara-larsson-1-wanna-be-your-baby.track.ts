@@ -12,7 +12,7 @@ export const zaraLarsson1WannaBeYourBaby = {
   title: "Wanna Be Your Baby",
   trackType: "studio",
   explicit: false,
-  trackArtist: [{ externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" }],
+  trackArtist: [{ artist: "artist/zara-larsson" }],
   trackKey: "wannabeyourbaby|1Xylc3o4UrD53lo9CvFvVg|184847",
   song: "song/zara-larsson-wanna-be-your-baby",
   carriedBy: [

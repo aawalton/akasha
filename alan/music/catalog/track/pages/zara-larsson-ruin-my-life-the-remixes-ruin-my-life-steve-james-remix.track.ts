@@ -12,10 +12,7 @@ export const zaraLarssonRuinMyLifeTheRemixesRuinMyLifeSteveJamesRemix = {
   title: "Ruin My Life - Steve James Remix",
   trackType: "remix",
   explicit: true,
-  trackArtist: [
-    { externalId: "1Xylc3o4UrD53lo9CvFvVg", artistName: "Zara Larsson" },
-    { externalId: "2rYFy6vVM1YiECVIAHaJBY", artistName: "Steve James" },
-  ],
+  trackArtist: [{ artist: "artist/zara-larsson" }, { artistName: "Steve James" }],
   trackKey: "ruinmylifestevejamesremix|1Xylc3o4UrD53lo9CvFvVg,2rYFy6vVM1YiECVIAHaJBY|177096",
   song: "song/zara-larsson-ruin-my-life",
   carriedBy: [
