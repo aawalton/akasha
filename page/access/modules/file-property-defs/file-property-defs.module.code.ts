@@ -37,17 +37,15 @@ const following = createChangeFollowing({
   },
 })
 
-function keyOf(pageTypeSlug: string): string {
-  if (!followed.has(pageTypeSlug)) {
-    followed.add(pageTypeSlug)
-    following.start()
-    following.follow(`${KEYED}${pageTypeSlug}`, {
-      pageTypeSlug: PAGE_TYPE,
-      by: "slug",
-      values: [pageTypeSlug],
-    })
-  }
-  return `${KEYED}${pageTypeSlug}`
+function followedOnce(pageTypeSlug: string): undefined {
+  if (followed.has(pageTypeSlug)) return undefined
+  followed.add(pageTypeSlug)
+  following.start()
+  return following.follow(`${KEYED}${pageTypeSlug}`, {
+    pageTypeSlug: PAGE_TYPE,
+    by: "slug",
+    values: [pageTypeSlug],
+  })
 }
 
 async function read(pageTypeSlug: string): Promise<Shape | null> {
@@ -61,9 +59,9 @@ async function read(pageTypeSlug: string): Promise<Shape | null> {
 }
 
 export async function shapeAsked(pageTypeSlug: string): Promise<Shape | null> {
-  const key = keyOf(pageTypeSlug)
+  followedOnce(pageTypeSlug)
   const asking = asked.get(pageTypeSlug)
-  if (asking !== undefined && following.live(key)) return asking
+  if (asking !== undefined) return asking
   const started = read(pageTypeSlug)
   asked.set(pageTypeSlug, started)
   started.catch(() => {
