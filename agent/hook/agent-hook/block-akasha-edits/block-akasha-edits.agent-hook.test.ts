@@ -256,7 +256,7 @@ test("the hook prints its scope when it is asked", () => {
   expect(done.out).toContain("NOT REACHED")
 })
 
-test("a payload this cannot read judges nothing and exits so the dispatch refuses", () => {
+test("a payload this cannot read judges nothing and exits so the dispatch passes", () => {
   for (const one of ["{", "[]", "null", '"held"', "12"]) {
     const done = ran(["bun", SCRIPT], { stdin: Buffer.from(one) })
     expect(done.code).toBe(UNREADABLE)

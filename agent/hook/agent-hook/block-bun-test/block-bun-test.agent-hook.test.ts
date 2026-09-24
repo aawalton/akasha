@@ -179,10 +179,10 @@ test("the hook stands aside on stdin for an act it does not name", () => {
   expect(done.out).toBe("")
 })
 
-test("a payload that will not parse judges nothing and exits so the dispatch refuses", () => {
+test("a payload that will not parse judges nothing and exits so the dispatch passes", () => {
   const done = ran(["bun", SCRIPT], { stdin: Buffer.from("{") })
   expect(done.code).toBe(5)
-  expect(done.err).toContain("the dispatch refuses the call")
+  expect(done.err).toContain("the dispatch passes the call")
   expect(done.err).not.toContain("the call was not refused")
 })
 

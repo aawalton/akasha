@@ -40,7 +40,7 @@ export const blockMemoryWrites = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A payload this cannot read judges nothing and exits so the dispatch refuses.",
+      statement: "A payload this cannot read judges nothing and exits so the dispatch passes.",
     },
     {
       decisionKind: "decision-kind/constraint",

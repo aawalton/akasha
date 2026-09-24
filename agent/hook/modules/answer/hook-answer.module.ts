@@ -34,11 +34,15 @@ export const hookAnswer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Exiting 5 refuses the call, because the dispatch refuses any exit but 0 or 2.",
+      statement: "Exiting 5 passes the call, because the dispatch refuses on 2 alone.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What is said of a payload that will not read says the call is refused.",
+      statement: "What is said of a payload that will not read says the call is passed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call passed unjudged says why to standard error and exits 0.",
     },
     {
       decisionKind: "decision-kind/departure",

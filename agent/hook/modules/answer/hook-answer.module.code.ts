@@ -32,7 +32,7 @@ export function passing(why: string): Answer {
 export function unreadable(hook: string, why: string): Answer {
   return {
     out: "",
-    err: `${hook}: ${why}, so nothing was judged and the dispatch refuses the call`,
+    err: `${hook}: ${why}, so nothing was judged and the dispatch passes the call`,
     code: UNREADABLE,
   }
 }

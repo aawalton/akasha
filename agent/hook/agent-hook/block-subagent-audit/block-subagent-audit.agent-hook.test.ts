@@ -136,7 +136,7 @@ test("a call carrying no command is let through", () => {
   expect(answerFor(JSON.stringify({ agent_id: OWN, tool_input: {} })).code).toBe(ASIDE)
 })
 
-test("a payload this cannot read judges nothing and exits so the dispatch refuses", () => {
+test("a payload this cannot read judges nothing and exits so the dispatch passes", () => {
   for (const one of ["{not json", "", "[]", "null", '"held"', "12"]) {
     expect(answerFor(one).code).toBe(UNREADABLE)
     expect(answerFor(one).out).toBe("")

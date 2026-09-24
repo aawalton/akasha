@@ -4,6 +4,7 @@ import {
   inputIn,
   judgingCommandHook,
   LET_THROUGH,
+  passing,
   payloadIn,
   REFUSED,
   refusing,
@@ -33,11 +34,18 @@ test("a payload carrying no call is stood aside from", () => {
   expect(judged({ tool_name: "Bash" })).toEqual(LET_THROUGH)
 })
 
-test("what is said of an unreadable payload says the dispatch refuses the call", () => {
+test("what is said of an unreadable payload says the dispatch passes the call", () => {
   const held = unreadable(HOOK, "the hook payload would not read")
   expect(held.code).toBe(UNREADABLE)
-  expect(held.err).toContain("the dispatch refuses the call")
+  expect(held.err).toContain("the dispatch passes the call")
   expect(held.err).not.toContain("the call was not refused")
+  expect(held.out).toBe("")
+})
+
+test("a call passed unjudged says why to standard error and its code is 0", () => {
+  const held = passing("nothing judged this call")
+  expect(held.code).toBe(ASIDE)
+  expect(held.err).toBe("nothing judged this call")
   expect(held.out).toBe("")
 })
 
