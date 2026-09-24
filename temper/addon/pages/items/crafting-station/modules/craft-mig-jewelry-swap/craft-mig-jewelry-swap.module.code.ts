@@ -2,6 +2,7 @@ import type { StoredTraitItem } from "akasha/temper/addon/pages/items/crafting-s
 import { getTrait } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-validation/craft-validation.module.code.ts"
 import { nilCheck } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox-additions/eso-sandbox-additions.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"

@@ -70,8 +70,6 @@ declare const collectgarbage: ((this: void, opt?: "collect") => void) &
 
 declare function error(this: void, message: unknown, level?: number): never
 
-declare const expat: unknown
-
 declare function getfenv(
   this: void,
   f?: ((this: void, ...args: unknown[]) => unknown) | number
@@ -79,14 +77,10 @@ declare function getfenv(
 
 declare function getmetatable<T>(this: void, object: T): LuaMetatable<T> | undefined
 
-declare function hpairs<T>(this: void, t: T): LuaIterable<LuaMultiReturn<[unknown, unknown]>>
-
 declare function ipairs<T>(
   this: void,
   t: Record<number, T>
 ): LuaIterable<LuaMultiReturn<[number, NonNullable<T>]>>
-
-declare function istable(this: void, v: unknown): v is Record<string, unknown>
 
 declare function loadstring(
   this: void,
@@ -175,14 +169,12 @@ declare function xpcall<R, E>(
 
 interface LuaCoroutineLibrary {
   create: (this: void, f: (this: void, ...args: unknown[]) => unknown) => LuaThread
-  getname: (this: void, co: LuaThread) => string
   resume: (
     this: void,
     co: LuaThread,
     ...val: unknown[]
   ) => LuaMultiReturn<[true, ...unknown[]] | [false, string]>
   running: (this: void) => LuaThread | undefined
-  setname: (this: void, co: LuaThread, name: string) => void
   status: (this: void, co: LuaThread) => "running" | "suspended" | "normal" | "dead"
   wrap: (
     this: void,
@@ -237,11 +229,9 @@ declare const math: {
 
 interface LuaOsLibrary {
   clock: (this: void) => number
-  clockpersecond: (this: void) => number
   date: ((this: void, format?: string, time?: number) => string) &
     ((this: void, format: "*t", time?: number) => EsoLuaDateInfoResult)
   difftime: (this: void, t2: number, t1: number) => number
-  rawclock: (this: void) => number
   time: ((this: void) => number) & ((this: void, table: EsoLuaDateInfo) => number)
 }
 
@@ -283,22 +273,6 @@ interface LuaTableLibrary {
   maxn: (this: void, table: object) => number
   remove: <T>(this: void, list: T[], pos?: number) => T | undefined
   sort: <T>(this: void, list: T[], comp?: (this: void, a: T, b: T) => boolean) => void
-  unpack: (<T extends unknown[]>(this: void, list: T) => LuaMultiReturn<T>) &
-    (<T>(this: void, list: T[], i: number, j?: number) => LuaMultiReturn<T[]>)
 }
 
 declare const table: LuaTableLibrary
-
-declare const utf8: {
-  char: (this: void, ...codepoints: number[]) => string
-  charpattern: string
-  codes: (this: void, s: string) => LuaIterable<LuaMultiReturn<[number, number]>>
-  codepoint: (this: void, s: string, i?: number, j?: number) => LuaMultiReturn<number[]>
-  len: (
-    this: void,
-    s: string,
-    i?: number,
-    j?: number
-  ) => LuaMultiReturn<[number] | [undefined, number]>
-  offset: (this: void, s: string, n: number, i?: number) => number | undefined
-}

@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"alan/harness/code-editor/data-interface/tree-row/tree-row.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"code/editor/extension/vscode-api/vscode-api.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"code/router-app/vite-client/vite-client.type-declaration.ts"}
+{"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/eso-sandbox-additions/eso-sandbox-additions.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/language-extensions/language-extensions.type-declaration.ts"}
 {"propertySlug":"import","fileName":"type-declaration.page-type.types.ts","path":"design/language/lua-compiler/lualib/lua-class/lua-class.type-declaration.ts"}

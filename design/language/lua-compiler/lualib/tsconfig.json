@@ -17,6 +17,7 @@
   "include": [
     "../lualib-helper/**/*.lualib-helper.code.ts",
     "../eso-sandbox/eso-sandbox.type-declaration.d.ts",
+    "../eso-sandbox-additions/eso-sandbox-additions.type-declaration.d.ts",
     "../language-extensions/language-extensions.type-declaration.d.ts",
     "lua-class/lua-class.type-declaration.d.ts",
     "../performance-global/performance-global.type-declaration.d.ts",

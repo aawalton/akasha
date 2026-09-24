@@ -20,6 +20,7 @@ import {
   PIN_TOOLTIP_CREATOR,
   PIN_TOOLTIP_SUPRES,
 } from "akasha/temper/addon/pages/world/navigation/modules/map-pins-tooltips/map-pins-tooltips.module.code.ts"
+import "akasha/design/language/lua-compiler/eso-sandbox-additions/eso-sandbox-additions.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-chat/eso-chat.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"

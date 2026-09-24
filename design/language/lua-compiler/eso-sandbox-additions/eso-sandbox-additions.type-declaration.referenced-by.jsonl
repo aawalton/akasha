@@ -1,0 +1,11 @@
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/sparse-array-spread/sparse-array-spread.lualib-helper.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"design/language/lua-compiler/lualib-helper/unpack/unpack.lualib-helper.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-categories/combat-categories.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-character-panel/craft-character-panel.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-mig-studies-shape/craft-mig-studies-shape.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-player-state/craft-player-state.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"}
+{"propertySlug":"import","fileName":"eso-sandbox-additions.type-declaration.d.ts","path":"temper/addon/pages/world/navigation/modules/map-pins-on-load/map-pins-on-load.module.code.ts"}
+{"propertySlug":"parts","path":"design/language/lua-compiler/lua-compiler.domain.ts","id":"01a06759-2aa6-7004-8e68-88c34898e172"}

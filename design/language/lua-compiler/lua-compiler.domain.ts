@@ -153,6 +153,7 @@ export const luaCompiler = {
     "module/workspace-source",
     "page-type/lualib-helper",
     "type-declaration/eso-sandbox",
+    "type-declaration/eso-sandbox-additions",
     "type-declaration/language-extensions",
     "type-declaration/performance-global",
     "type-declaration/sparse-array",
