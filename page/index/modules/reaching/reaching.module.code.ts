@@ -43,7 +43,7 @@ const SLUG = "slug"
 
 const EXTENDS = "extends"
 
-const FILED_AS_IDENTITY = new Set(["id", "slug", "pageTypeSlug", "type"])
+const FILED_AS_IDENTITY = new Set(["id", "slug", "type"])
 
 export type Wanted = string | readonly string[] | null
 
