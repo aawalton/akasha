@@ -6,4 +6,15 @@ export const poiCatalog = {
   slug: "poi-catalog",
   definition: "the points of interest a zone holds and what kind each one is",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A zone has the points of interest found in that zone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A zone key and a point of interest key are both numbers.",
+    },
+  ],
 } as const satisfies Module

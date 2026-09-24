@@ -1,3 +1,4 @@
+import { expect, test } from "bun:test"
 import type { PoiCatalogZone } from "akasha/temper/capture/shape/modules/poi-catalog/poi-catalog.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
@@ -18,4 +19,8 @@ const poiCatalogZoneSchema = z
 
 const poiCatalogSchema = z.record(z.number(), poiCatalogZoneSchema)
 
-assertSchemaMatchesPayload<typeof poiCatalogSchema, Record<number, PoiCatalogZone>>()
+test("the points of interest catalog schema infers exactly the points of interest catalog shape", () => {
+  expect(
+    assertSchemaMatchesPayload<typeof poiCatalogSchema, Record<number, PoiCatalogZone>>()
+  ).toBeUndefined()
+})
