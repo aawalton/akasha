@@ -61,6 +61,24 @@ test("a title gives capacity back only where it names a rest as a word of its ow
   expect(recoveryFor(undefined)).toBe(0)
 })
 
+test("a title naming one rest gives back that rest's rate", () => {
+  expect(recoveryFor("Pod")).toBe(3)
+})
+
+test("a title naming several rests gives back the sum of their rates", () => {
+  expect(recoveryFor("bath and breathing")).toBe(4)
+  expect(recoveryFor("Rest + Pod")).toBe(4)
+})
+
+test("a rest the title names twice is counted once", () => {
+  expect(recoveryFor("Pod + pod")).toBe(3)
+  expect(recoveryFor("Bath + Breathing + bath")).toBe(4)
+})
+
+test("a title naming no rest gives nothing back", () => {
+  expect(recoveryFor("Projects + Eat")).toBe(0)
+})
+
 test("a stretch costs capacity by how far its difficulty ran past its safety", () => {
   expect(costFor("3", "2")).toBe(0)
   expect(costFor("3", "3")).toBe(1)

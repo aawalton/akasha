@@ -53,8 +53,9 @@ function holdsWord(text: string, word: string): boolean {
 
 export function recoveryFor(title: unknown): number {
   if (typeof title !== "string") return 0
-  for (const [word, gives] of GIVES_BACK) if (holdsWord(title, word)) return gives
-  return 0
+  let held = 0
+  for (const [word, gives] of GIVES_BACK) if (holdsWord(title, word)) held += gives
+  return held
 }
 
 export function costFor(safetyLevel: unknown, difficultyLevel: unknown): number {
