@@ -10,7 +10,7 @@ export const theTowerShaftMidSlabs = {
   within: "place/the-tower-floor-04",
   depth: 4,
   description:
-    "The middle of the shaft, where the wall-stair gives out entirely and the only footing is the moving slabs. They rise and sink on their slow beat, passing each other in the dark; crossing means a sequence of timed leaps. This is the Stalker's killing ground — open dark, moving footing, a long fall on every side. The slabs pass close to the central chain here: a single great counterweight-chain runs floor-to-ceiling through the shaft's heart, taut and humming with tension.",
+    "The middle of the shaft, where the wall-stair gives out entirely and the only footing is the slabs, hanging still in the dark at the heights where they stopped; crossing means a sequence of leaps between them. Open dark and a long fall on every side, and nothing hunting in it now that the Stalker is dead. The slabs hang close to the central chain here: a single great counterweight-chain running through the shaft's heart, slack now.",
   exits: [
     { to: "place/the-tower-shaft-base-flights", way: "down to the broken flights" },
     { to: "place/the-tower-shaft-headworks", way: "up to the headworks at the shaft's top" },
