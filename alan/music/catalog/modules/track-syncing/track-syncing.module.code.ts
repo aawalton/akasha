@@ -106,7 +106,7 @@ export type Tracked = {
 
 export type Editing = (pageTypeSlug: string, slug: string, values: Value) => Asking
 
-export function artistsFiledIn(root: string): ReadonlyMap<string, string> {
+function artistsFiledIn(root: string): ReadonlyMap<string, string> {
   const bySpotify = new Map<string, string>()
   for (const one of valuesOfType(root, ARTIST)) {
     const slug = textIn(one.value, "slug")
