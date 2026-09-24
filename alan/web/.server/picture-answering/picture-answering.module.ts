@@ -27,7 +27,7 @@ export const pictureAnswering = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The handler is told by a message naming that image's slug rather than handed the bytes.",
+        "The handler is told by a message naming that image's slug and where its bytes are kept.",
     },
     {
       decisionKind: "decision-kind/departure",

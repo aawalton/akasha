@@ -18,7 +18,13 @@ export const agentMessageAttachedImages = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each line tells the agent to bring the image here and read the file it lands in.",
+      statement:
+        "Each line tells the agent to Read the image's bytes where the checkout keeps them.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "The line names the checkout as `~/repos/akasha` rather than as the path it is at.",
     },
     {
       decisionKind: "decision-kind/constraint",

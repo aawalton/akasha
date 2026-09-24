@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  type Attaching,
   attachedLine,
   imagesOut,
   isImageSlug,
@@ -10,6 +11,14 @@ const ONE = "image-0123456789abcdef"
 
 const TWO = "image-fedcba9876543210"
 
+function keptAs(image: string): Attaching {
+  return { image, bytesAt: `pictures/${image.slice(6)}/${image}.image.bytes.uncommitted.jpg` }
+}
+
+const KEPT_ONE = keptAs(ONE)
+
+const KEPT_TWO = keptAs(TWO)
+
 test("an image page's slug is told from anything else", () => {
   expect(isImageSlug(ONE)).toBe(true)
   expect(isImageSlug("image-0123")).toBe(false)
@@ -17,13 +26,17 @@ test("an image page's slug is told from anything else", () => {
   expect(isImageSlug("../image-0123456789abcdef")).toBe(false)
 })
 
-test("each image is a line after the words, telling the agent how to see it", () => {
-  expect(withImages("look", [ONE, TWO])).toBe(`look\n\n${attachedLine(ONE)}\n${attachedLine(TWO)}`)
-  expect(attachedLine(ONE)).toContain(`akasha alan picture ${ONE}`)
+test("each image is a line after the words, naming the bytes for the agent to Read", () => {
+  expect(withImages("look", [KEPT_ONE, KEPT_TWO])).toBe(
+    `look\n\n${attachedLine(KEPT_ONE)}\n${attachedLine(KEPT_TWO)}`
+  )
+  expect(attachedLine(KEPT_ONE)).toBe(
+    `[attached ${ONE}: Read ~/repos/akasha/pictures/0123456789abcdef/${ONE}.image.bytes.uncommitted.jpg]`
+  )
 })
 
 test("a message with no words carries its image lines alone", () => {
-  expect(withImages("", [ONE])).toBe(attachedLine(ONE))
+  expect(withImages("", [KEPT_ONE])).toBe(attachedLine(KEPT_ONE))
 })
 
 test("a message with no images is its words", () => {
@@ -31,12 +44,15 @@ test("a message with no images is its words", () => {
 })
 
 test("the image lines come back out as a count", () => {
-  expect(imagesOut(withImages("look\nhere", [ONE, TWO]))).toEqual({ text: "look\nhere", images: 2 })
-  expect(imagesOut(withImages("", [ONE]))).toEqual({ text: "", images: 1 })
+  expect(imagesOut(withImages("look\nhere", [KEPT_ONE, KEPT_TWO]))).toEqual({
+    text: "look\nhere",
+    images: 2,
+  })
+  expect(imagesOut(withImages("", [KEPT_ONE]))).toEqual({ text: "", images: 1 })
   expect(imagesOut("look")).toEqual({ text: "look", images: 0 })
 })
 
-test("a line naming one slug and bringing another is left as words", () => {
-  const crossed = `[attached ${ONE}: run \`akasha alan picture ${TWO}\`, then Read the path it names]`
+test("a line naming one slug and the bytes of another is left as words", () => {
+  const crossed = attachedLine({ image: ONE, bytesAt: KEPT_TWO.bytesAt })
   expect(imagesOut(crossed)).toEqual({ text: crossed, images: 0 })
 })

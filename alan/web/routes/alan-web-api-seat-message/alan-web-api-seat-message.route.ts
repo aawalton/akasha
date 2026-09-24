@@ -35,6 +35,10 @@ export const alanWebApiSeatMessage = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A message names where each image it attaches keeps its bytes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A message attaching an image no page keeps is refused and writes nothing.",
     },
     {

@@ -23,6 +23,10 @@ const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
 
 const ID = "image-0123456789abcdef"
 
+const BYTES_AT = `pictures/0123456789abcdef/${ID}.image.bytes.uncommitted.jpg`
+
+const KEPT = { image: ID, bytesAt: BYTES_AT }
+
 const AT = "2026-09-13T20:11:04.000Z"
 
 const JPEG = new Uint8Array([0xff, 0xd8, 0xff, 0xe0, 0x00, 0x10, 0x4a, 0x46, 0x49, 0x46])
@@ -57,7 +61,7 @@ function effectsWith(over: Partial<PictureEffects> = {}) {
     enrol: async () => ({ ok: true, personSlug: "alan" }),
     keep: async (bytes) => {
       kept.push({ id: ID, bytes })
-      return ID
+      return KEPT
     },
     deliver: async (to, body) => {
       delivered.push({ to, body })
@@ -161,7 +165,7 @@ test("an account no person states is refused", async () => {
   expect(kept).toEqual([])
 })
 
-test("the picture is landed as an image and the person's seat is told its slug", async () => {
+test("the picture is landed as an image and the person's seat is told where its bytes are", async () => {
   const { effects, kept, delivered, settled } = effectsWith()
   const answered = await answerPicture(asked(JPEG), effects)
   expect(answered.status).toBe(200)
@@ -170,8 +174,8 @@ test("the picture is landed as an image and the person's seat is told its slug",
   expect(kept[0]?.id).toBe(ID)
   expect(Array.from(kept[0]?.bytes ?? [])).toEqual(Array.from(JPEG))
   await settled()
-  expect(delivered).toEqual([{ to: "alan", body: pictureBody("alan", ID, AT) }])
-  expect(delivered[0]?.body).toContain(`akasha alan picture ${ID}`)
+  expect(delivered).toEqual([{ to: "alan", body: pictureBody("alan", KEPT, AT) }])
+  expect(delivered[0]?.body).toContain(`[attached ${ID}: Read ~/repos/akasha/${BYTES_AT}]`)
 })
 
 test("the answer comes back before the message is written", async () => {
@@ -222,9 +226,9 @@ test("a message that did not land is recorded, naming the id and how to reach th
   await answerPicture(asked(JPEG), effects)
   await settled()
   expect(recorded).toHaveLength(1)
-  expect(recorded[0]).toBe(unannouncedWhy("alan", ID, "no seat holds the name `alan`"))
+  expect(recorded[0]).toBe(unannouncedWhy("alan", KEPT, "no seat holds the name `alan`"))
   expect(recorded[0]).toContain(ID)
-  expect(recorded[0]).toContain(`akasha alan picture ${ID}`)
+  expect(recorded[0]).toContain(`~/repos/akasha/${BYTES_AT}`)
 })
 
 test("a deliver that threw is recorded rather than lost", async () => {
@@ -239,7 +243,7 @@ test("a deliver that threw is recorded rather than lost", async () => {
       },
     },
     "alan",
-    ID,
+    KEPT,
     "a body"
   )
   expect(recorded[0]).toContain("the page store dropped the call")
@@ -255,7 +259,7 @@ test("a record that threw does not throw out of the announcement", async () => {
       },
     },
     "alan",
-    ID,
+    KEPT,
     "a body"
   )
 })

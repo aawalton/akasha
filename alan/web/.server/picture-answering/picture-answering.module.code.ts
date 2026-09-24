@@ -1,3 +1,8 @@
+import {
+  type Attaching,
+  checkoutPath,
+  withImages,
+} from "akasha/agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.code.ts"
 import { messageNamed } from "akasha/agent/message/modules/naming/agent-message-naming.module.code.ts"
 import {
   type SignedIn,
@@ -64,7 +69,7 @@ export type SigningIn = (request: Request) => Promise<SignedIn | null>
 
 export type Enrolling = (whom: Whom) => Promise<Enrolment>
 
-export type Keeping = (bytes: Uint8Array<ArrayBuffer>) => Promise<string>
+export type Keeping = (bytes: Uint8Array<ArrayBuffer>) => Promise<Attaching>
 
 export type Delivering = (to: string, body: string) => Promise<string | null>
 
@@ -92,12 +97,8 @@ function mediaTypeOf(request: Request): string {
   return (said.split(";")[0] ?? "").trim().toLowerCase()
 }
 
-export function pictureBody(to: string, id: string, at: string): string {
-  return (
-    `A picture from the phone of ${to} arrived at ${at}.\n` +
-    `Run \`akasha alan picture ${id}\` to bring the picture to this machine, ` +
-    "then read the file that command names."
-  )
+export function pictureBody(to: string, kept: Attaching, at: string): string {
+  return withImages(`A picture from the phone of ${to} arrived at ${at}.`, [kept])
 }
 
 export async function deliverToSeat(
@@ -150,18 +151,18 @@ async function recordUnannounced(why: string): Promise<void> {
   })
 }
 
-export function unannouncedWhy(to: string, id: string, refused: string): string {
+export function unannouncedWhy(to: string, kept: Attaching, refused: string): string {
   return (
-    `a picture was kept as ${id} for the ${to} seat and the message announcing it did not land, ` +
+    `a picture was kept as ${kept.image} for the ${to} seat and the message announcing it did not land, ` +
     `so nothing has told that seat the picture is there — ${refused}. ` +
-    `\`akasha alan picture ${id}\` still brings the picture down.`
+    `The picture is at \`${checkoutPath(kept.bytesAt)}\`.`
   )
 }
 
 export async function announcePicture(
   effects: Pick<PictureEffects, "deliver" | "record">,
   to: string,
-  id: string,
+  kept: Attaching,
   body: string
 ): Promise<void> {
   let refused: string | null
@@ -171,7 +172,7 @@ export async function announcePicture(
     refused = saidBy(thrown)
   }
   if (refused === null) return
-  const why = unannouncedWhy(to, id, refused)
+  const why = unannouncedWhy(to, kept, refused)
   try {
     await effects.record(why)
   } catch (thrown) {
@@ -179,9 +180,9 @@ export async function announcePicture(
   }
 }
 
-async function kept(bytes: Uint8Array<ArrayBuffer>): Promise<string> {
+async function imageKept(bytes: Uint8Array<ArrayBuffer>): Promise<Attaching> {
   const landed = await landImage(imageDeps(WRITER), bytes, {}, [])
-  return landed.slug
+  return { image: landed.slug, bytesAt: landed.at }
 }
 
 function defaultEffects(): PictureEffects {
@@ -189,7 +190,7 @@ function defaultEffects(): PictureEffects {
     admit: (request) => resolveDeviceSecretContext(request),
     signedIn: (request) => signedInAs(request),
     enrol: (whom) => personSlugFor(whom),
-    keep: kept,
+    keep: imageKept,
     deliver: (to, body) => deliverToSeat(to, body),
     record: (why) => recordUnannounced(why),
     detach: (work) => {
@@ -255,15 +256,16 @@ export async function answerPicture(
     )
   }
   const to = enrolled.personSlug
-  let id: string
+  let kept: Attaching
   try {
-    id = await effects.keep(bytes)
+    kept = await effects.keep(bytes)
   } catch (thrown) {
     return answer(
       { ok: false, error: `The picture was not kept: ${saidBy(thrown)}`, retryable: true },
       503
     )
   }
-  effects.detach(announcePicture(effects, to, id, pictureBody(to, id, effects.now().toISOString())))
-  return answer({ ok: true, id, to }, 200)
+  const announcement = pictureBody(to, kept, effects.now().toISOString())
+  effects.detach(announcePicture(effects, to, kept, announcement))
+  return answer({ ok: true, id: kept.image, to }, 200)
 }

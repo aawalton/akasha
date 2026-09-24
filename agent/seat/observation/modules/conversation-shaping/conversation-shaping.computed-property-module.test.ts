@@ -99,7 +99,8 @@ test("a message Alan sent a seat is the person's, with no wrapper", () => {
 
 test("the images Alan attached to a message are counted rather than shown as words", () => {
   const image = "image-0123456789abcdef"
-  const said = `<channel source="messages" sender="alan" message_id="m">\n${withImages("look", [image])}\n</channel>`
+  const bytesAt = `pictures/0123456789abcdef/${image}.image.bytes.uncommitted.jpg`
+  const said = `<channel source="messages" sender="alan" message_id="m">\n${withImages("look", [{ image, bytesAt }])}\n</channel>`
   const line = JSON.stringify({ type: "user", timestamp: "t", message: { content: said } })
   expect(shapedLine(line)).toEqual({
     entries: [{ kind: "person", text: "look", images: 1, at: "t" }],
