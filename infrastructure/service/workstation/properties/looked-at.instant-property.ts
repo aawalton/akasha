@@ -5,15 +5,15 @@ export const lookedAt = {
   type: "page-type/instant-property",
   slug: "looked-at",
   propertySlug: "looked-at",
-  definition: "when this service last looked at the health of every workstation service",
+  definition: "when this service last looked at the health of every service it watches",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One service does the looking.",
+      statement: "One service looks at the workstation services and one at the cluster services.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "That service alone states the moment.",
+      statement: "The service that looked alone states the moment of that look.",
     },
     {
       decisionKind: "decision-kind/departure",

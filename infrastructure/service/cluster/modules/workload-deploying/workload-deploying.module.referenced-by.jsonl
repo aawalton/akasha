@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/job/modules/cluster-running/cluster-running.module.test-fixtures.ts"}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/cluster/modules/cluster-health/cluster-health.module.code.ts"}
+{"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/cluster/modules/cluster-watching/cluster-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.test.ts"}
 {"propertySlug":"import","fileName":"workload-deploying.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"}

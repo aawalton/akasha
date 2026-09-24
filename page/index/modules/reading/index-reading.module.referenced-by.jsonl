@@ -256,6 +256,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/machine/provisioning/scripts/ci-cost-snapshot/ci-cost-snapshot.shell-script.scripting.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster/modules/cluster-health/cluster-health.module.code.ts"}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster/modules/cluster-watching/cluster-watching.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-building/web-app-building.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster/modules/web-app-reading/web-app-reading.module.code.ts"}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/cluster/modules/workload-applying/workload-applying.module.code.ts"}

@@ -41,6 +41,7 @@
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"code/shell-script/service-workstations/repos-empty-dir-purge/repos-empty-dir-purge.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/cluster/manifest/service-workstations/orphaned-resources-sweep/orphaned-resources-sweep.service-workstation.ts"}
+{"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/cluster/service-workstations/cluster-watching/cluster-watching.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/modules/unit-writing/unit-writing.module.code.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/cluster-deploying/cluster-deploying.service-workstation.ts"}
 {"propertySlug":"import","fileName":"service-workstation.page-type.types.ts","path":"infrastructure/service/workstation/pages/container-recipe-deploying/container-recipe-deploying.service-workstation.ts"}
