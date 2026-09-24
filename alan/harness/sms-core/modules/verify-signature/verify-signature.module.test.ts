@@ -3,7 +3,7 @@ import { verifyTelnyxSignature } from "akasha/alan/harness/sms-core/modules/veri
 import { bytesToBase64 } from "akasha/alan/harness/sms-core/modules/verify-signature/verify-signature.module.test-fixtures.ts"
 
 async function keypair(): Promise<{ privateKey: CryptoKey; publicKeyBase64: string }> {
-  const generated = await crypto.subtle.generateKey({ name: "Ed25519" }, true, ["sign", "verify"])
+  const generated = await crypto.subtle.generateKey("Ed25519", true, ["sign", "verify"])
   if (!("privateKey" in generated)) throw new Error("expected a CryptoKeyPair")
   const rawPublic = new Uint8Array(await crypto.subtle.exportKey("raw", generated.publicKey))
   return { privateKey: generated.privateKey, publicKeyBase64: bytesToBase64(rawPublic) }
