@@ -264,6 +264,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/smilingjenny-categorize-widget/smilingjenny-categorize-widget.ios-component.ts","id":"01a05835-69dd-7f14-b49e-39b86f2cb6ab"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/smilingjenny-widget-feed/smilingjenny-widget-feed.ios-component.ts","id":"01a05835-69dc-778f-bb4b-dd897c3cb3e7"}
 {"propertySlug":"decision-kind","path":"code/ios-component/pages/timeline-checks/timeline-checks.ios-component.ts","id":"01a08c75-6675-73c2-b0e1-37744996eaaf"}
+{"propertySlug":"decision-kind","path":"code/ios-component/pages/widget-tap-link/widget-tap-link.ios-component.ts","id":"01a0d505-14ca-7e0b-878b-a75d1d4532a5"}
 {"propertySlug":"decision-kind","path":"code/ios-harness/pages/render-harness-cases-cost/render-harness-cases-cost.ios-harness.ts","id":"01a08c83-ffd7-7522-a7f2-606479a6ddb9"}
 {"propertySlug":"decision-kind","path":"code/ios-program/ios-program.page-type.ts","id":"01a05901-26b3-7d1b-aec6-3b467f5f5b8d"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-naming/code-naming.module.ts","id":"01a08cc7-f1c9-7e9b-9ff6-01abb5cea0cc"}

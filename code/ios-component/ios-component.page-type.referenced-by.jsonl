@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/surplus-ring/surplus-ring.ios-component.ts"}
 {"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/tier/tier.ios-component.ts"}
 {"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/timeline-checks/timeline-checks.ios-component.ts"}
+{"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/widget-tap-link/widget-tap-link.ios-component.ts"}
 {"propertySlug":"parts","path":"code/code.domain.ts","id":"01a04a26-9105-7002-aa57-d2c5a03907ce"}
 {"propertySlug":"target-page-type","path":"alan/harness/readout/widget/properties/component.relation-property.ts","id":"01a05480-1c87-7234-89bb-4e8776905c5c"}
 {"propertySlug":"target-page-type","path":"code/ios-program/properties/components.multi-relation-property.ts","id":"01a05821-5723-7bc2-86dc-1b02cd1edded"}

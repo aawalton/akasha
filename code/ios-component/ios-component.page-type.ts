@@ -43,6 +43,7 @@ export const iosComponent = {
     "ios-component/timeline-checks",
     "ios-component/alanwalton-stoplights-activity",
     "ios-component/alanwalton-stoplights-content",
+    "ios-component/widget-tap-link",
   ],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "code-file-property/swift", required: true, many: false }],

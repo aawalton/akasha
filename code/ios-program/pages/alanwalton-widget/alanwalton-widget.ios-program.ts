@@ -31,6 +31,7 @@ export const alanwaltonWidget = {
     "ios-component/spacing",
     "ios-component/surplus-ring",
     "ios-component/tier",
+    "ios-component/widget-tap-link",
     "ios-component/alanwalton-stoplights-activity",
     "ios-component/alanwalton-stoplights-content",
   ],
