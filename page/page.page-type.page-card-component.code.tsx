@@ -162,7 +162,9 @@ export function Drawing({
       {}
       {notesSlot != null && notesSlot}
       {}
-      <CardContent className={cn("flex flex-1 flex-col space-y-4", isWide && "-mx-3 -mb-3")}>
+      <CardContent
+        className={cn("flex flex-1 flex-col space-y-4 empty:hidden", isWide && "-mx-3 -mb-3")}
+      >
         <PageCardProperties
           definitions={definitions}
           data={data}
