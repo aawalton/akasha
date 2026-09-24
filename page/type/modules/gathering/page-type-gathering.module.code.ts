@@ -18,8 +18,6 @@ const SLUG = "slug"
 
 const TYPE = "type"
 
-const TYPE_SLUG = "pageTypeSlug"
-
 function gatheredIn(reading: Reading): ReadonlySet<string> {
   const seen = new Set<string>([PAGE_TYPE])
   for (;;) {
@@ -61,7 +59,7 @@ export function typesAmong(
 ): ReadonlyMap<string, Value> {
   const found = new Map<string, Value>()
   for (const value of values) {
-    const said = slugAt(value, TYPE) ?? slugAt(value, TYPE_SLUG)
+    const said = slugAt(value, TYPE)
     if (said === null || !among.has(said)) continue
     const slug = textAt(value, SLUG)
     if (slug !== null) found.set(slug, value)
