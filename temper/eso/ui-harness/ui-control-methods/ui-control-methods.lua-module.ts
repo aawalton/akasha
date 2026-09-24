@@ -9,6 +9,14 @@ export const uiControlMethods = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A control shown or hidden runs its handlers for being shown or hidden.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Setting a control to the state it is in already runs nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "This is loaded after the control model, whose controls it gives methods to.",
     },
     {

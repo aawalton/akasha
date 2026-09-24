@@ -14,7 +14,23 @@ local ANCHOR_CONSTRAINTS = {
   ANCHOR_CONSTRAINS_XY = _G.ANCHOR_CONSTRAINS_XY,
 }
 
-function Control:SetHidden(hidden) self.uiHidden = hidden and true or false end
+local function told(control, event)
+  local named = {}
+  for key in pairs(control.uiHandlers) do
+    if string.sub(key, 1, #event + 1) == event .. ":" then insert(named, key) end
+  end
+  table.sort(named)
+  local unnamed = control.uiHandlers[event]
+  if unnamed ~= nil then unnamed(control) end
+  for _, key in ipairs(named) do control.uiHandlers[key](control) end
+end
+
+function Control:SetHidden(hidden)
+  local was = self.uiHidden
+  self.uiHidden = hidden and true or false
+  if was == self.uiHidden then return end
+  told(self, self.uiHidden and "OnHide" or "OnShow")
+end
 function Control:IsControlHidden() return self.uiHidden end
 function Control:IsHidden()
   local at = self
