@@ -30895,7 +30895,7 @@
       }
     },
     "4588": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -79628,12 +79628,12 @@
     },
     "854": {
       "name": "Prowler's Talisman",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 1,
       "subcategoryName": "Mythics",
       "pieces": {
         "1": {
           "name": "Prowler's Talisman",
-          "unlocked": false
+          "unlocked": true
         }
       },
       "categoryName": "Miscellaneous",
