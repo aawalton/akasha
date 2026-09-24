@@ -75,7 +75,7 @@ const PAIR_TEST = "akasha/five/pair.module.test.ts"
 const SPARE: Readonly<Record<string, string>> = {
   [SPARE_PAGE]: pageOf({
     id: idOf("d"),
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "spare",
     definition: "a page importing the page held",
     code: "ts",
@@ -83,7 +83,7 @@ const SPARE: Readonly<Record<string, string>> = {
   [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
   [NOTER_PAGE]: pageOf({
     id: idOf("0"),
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "noter",
     definition: "a page naming the page held by a relation that is no containment",
     note: "held",
@@ -93,7 +93,7 @@ const SPARE: Readonly<Record<string, string>> = {
 const PAIR: Readonly<Record<string, string>> = {
   [PAIR_PAGE]: pageOf({
     id: idOf("d"),
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "pair",
     definition: "a page whose test imports the code beside that page",
     code: "ts",
@@ -105,7 +105,7 @@ const PAIR: Readonly<Record<string, string>> = {
 
 const CHILD = pageOf({
   id: idOf("d"),
-  pageTypeSlug: "module",
+  type: `${pageType.slug}/module`,
   slug: "child",
   definition: "a page its parent names in parts",
 })
@@ -117,7 +117,7 @@ function worldIn(root: string, reaching: Reaching = running): World {
 function noting(slug: string, id: string, named: string): string {
   return pageOf({
     id,
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug,
     definition: "a page naming the child by a relation that is no containment",
     note: named,
@@ -130,7 +130,7 @@ function keptRepo(): string {
     [`akasha/${NOTES[0]}`]: bodyOf(NOTES[1]),
     [KEPT_TYPE]: bodyOf({
       id: idOf("e"),
-      pageTypeSlug: "page-type",
+      type: `${pageType.slug}/${pageType.slug}`,
       slug: "kept",
       extendsSlug: [PAGE_AT],
       properties: [
@@ -143,7 +143,7 @@ function keptRepo(): string {
         },
       ],
     }),
-    [KEPT_PAGE]: pageOf({ id: idOf("f"), pageTypeSlug: "kept", slug: "one" }),
+    [KEPT_PAGE]: pageOf({ id: idOf("f"), type: "page-type/kept", slug: "one" }),
     [KEPT_NOTES]: '{"held":1}\n',
   })
 }
@@ -151,7 +151,7 @@ function keptRepo(): string {
 function naming(slug: string, id: string, named: string): string {
   return pageOf({
     id,
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug,
     definition: "a page naming the child in parts",
     parts: [named],

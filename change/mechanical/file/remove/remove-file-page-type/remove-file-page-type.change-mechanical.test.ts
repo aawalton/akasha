@@ -22,7 +22,7 @@ const KEPT_TYPE = "akasha/kept.page-type.ts"
 
 const TYPE = bodyOf({
   id: idOf("e"),
-  pageTypeSlug: "page-type",
+  type: `${pageType.slug}/${pageType.slug}`,
   slug: "kept",
   extendsSlug: [PAGE_AT],
 })

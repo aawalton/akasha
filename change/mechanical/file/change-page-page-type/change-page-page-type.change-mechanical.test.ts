@@ -51,7 +51,7 @@ const ONE_BODY = `import type { Kept } from "../kept.page-type.ts"
 
 export const one = {
   id: "${idOf("1")}",
-  pageTypeSlug: "kept",
+  type: "page-type/kept",
   slug: "one",
   code: "ts",
   routes: "ts",
@@ -62,7 +62,7 @@ export const one = {
 function typeBody(slug: string, at: string): string {
   return bodyOf({
     id: idOf(at),
-    pageTypeSlug: "page-type",
+    type: `${pageType.slug}/${pageType.slug}`,
     slug,
     pluralSlug: `${slug}s`,
     extendsSlug: [PAGE_AT],
@@ -79,7 +79,7 @@ function repoIn(): string {
     [SPARE_TYPE]: typeBody("spare", "f"),
     [ROUTES_TYPE]: pageOf({
       id: idOf("g"),
-      pageTypeSlug: "file-property",
+      type: `${pageType.slug}/file-property`,
       slug: "routes",
       propertySlug: "routes",
       fileName: "routes.ts",
@@ -106,7 +106,7 @@ test("the page type a page states is restated in the body", async () => {
   const said = await runChange(world, { at: ONE_PAGE, to: SPARE_TYPE })
   const body = bodiesIn(said, world.base).get(ONE_MOVED) ?? ""
 
-  expect(body).toContain(`pageTypeSlug: "page-type/spare"`)
+  expect(body).toContain(`type: "page-type/spare"`)
   expect(body).toContain("satisfies Spare")
   expect(body).toContain(`from "akasha/${SPARE_TYPE}"`)
 })

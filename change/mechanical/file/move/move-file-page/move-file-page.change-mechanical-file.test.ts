@@ -25,6 +25,7 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -127,7 +128,7 @@ function folderingPage(routes: boolean): Readonly<Record<string, string>> {
   return {
     [FOLDER_PAGE]: pageOf({
       id: idOf("e"),
-      pageTypeSlug: MODULE,
+      type: `${pageType.slug}/${MODULE}`,
       slug: "foldered",
       definition: "a page claiming a folder of its own",
       code: "ts",
@@ -179,7 +180,7 @@ test("a file the page claims and no body sits at is passed over", async () => {
   const root = indexedRepo({
     [BARE_PAGE]: pageOf({
       id: idOf("d"),
-      pageTypeSlug: "module",
+      type: `${pageType.slug}/module`,
       slug: "bare",
       definition: "a page claiming a file no body sits at",
       code: "ts",

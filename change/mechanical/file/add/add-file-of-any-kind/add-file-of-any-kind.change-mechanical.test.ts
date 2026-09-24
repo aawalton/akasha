@@ -28,9 +28,9 @@ const PLAIN = "akasha/one/notes.md"
 
 const MINTED = /id: "[0-9a-f]{8}-[0-9a-f]{4}-7[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}"/
 
-const PAGE_BODY = 'export const one = { pageTypeSlug: "held", slug: "one" } as const\n'
+const PAGE_BODY = 'export const one = { type: "page-type/held", slug: "one" } as const\n'
 
-const STATED = 'export const one = { id: "held", pageTypeSlug: "held", slug: "one" } as const\n'
+const STATED = 'export const one = { id: "held", type: "page-type/held", slug: "one" } as const\n'
 
 const UNDER = new Set(["text-property"])
 
@@ -121,7 +121,7 @@ test("a body already stating an id refuses an id handed in beside that body", ()
 })
 
 test("an id a caller states goes in rather than one worked out", () => {
-  expect(String(idFilled(AT, PAGE_BODY, "held"))).toContain('{ id: "held", pageTypeSlug: "held"')
+  expect(String(idFilled(AT, PAGE_BODY, "held"))).toContain('{ id: "held", type: "page-type/held"')
 })
 
 test("a body declaring no literal is refused rather than written without an id", () => {

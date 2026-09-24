@@ -13,6 +13,7 @@ import {
   scratch,
   textIn,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
 afterAll(scratch.sweep)
 
@@ -27,12 +28,12 @@ const DEEP_PAGE = `${FROM}/deep/gamma.module.ts`
 const OUTER_PAGE = "akasha/five/outer.module.ts"
 
 const pageBody = (slug: string, id: string): string =>
-  pageOf({ id, pageTypeSlug: "module", slug, definition: "a page a folder holds" })
+  pageOf({ id, type: `${pageType.slug}/module`, slug, definition: "a page a folder holds" })
 
 const HELD: Readonly<Record<string, string>> = {
   [ALPHA_PAGE]: pageOf({
     id: "01a04a4a-0003-7000-8000-000000000001",
-    pageTypeSlug: "module",
+    type: `${pageType.slug}/module`,
     slug: "alpha",
     definition: "a page a folder holds",
     code: "ts",
