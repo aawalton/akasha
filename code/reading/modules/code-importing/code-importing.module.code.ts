@@ -26,11 +26,3 @@ export function importingIn(
   }
   return found
 }
-
-export function importsIn(
-  body: string,
-  path: string,
-  naming: Naming = NAMING_NONE
-): readonly string[] {
-  return importingIn(body, path, naming).map((one) => one.at)
-}

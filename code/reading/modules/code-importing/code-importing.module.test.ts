@@ -1,12 +1,14 @@
 import { expect, test } from "bun:test"
-import {
-  importingIn,
-  importsIn,
-} from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
+import { importingIn } from "akasha/code/reading/modules/code-importing/code-importing.module.code.ts"
+import type { Naming } from "akasha/code/reading/modules/code-specifier/code-specifier.module.code.ts"
 
 const READING = "akasha/pages-system/index/index-reading/index-reading.module.code.ts"
 
 const NAMING = new Map([["@akasha/index", READING]])
+
+function importsIn(body: string, path: string, naming?: Naming): readonly string[] {
+  return importingIn(body, path, naming).map((one) => one.at)
+}
 
 test("a relative specifier imports the path it reaches", () => {
   const body = 'import { one } from "../one.module.code.ts"\nexport * from "./two.module.code.ts"\n'
@@ -65,11 +67,4 @@ test("an import says whether that import is read as the file loads or only later
     { at: "akasha/one.ts", typed: false, deferred: false },
     { at: "akasha/two.ts", typed: false, deferred: true },
   ])
-})
-
-test("what a body imports is what it names a type and what it names code together", () => {
-  const body = 'import type { One } from "./one.ts"\nimport { two } from "./two.ts"\n'
-  const at = "akasha/a.module.code.ts"
-
-  expect(importsIn(body, at)).toEqual(importingIn(body, at).map((one) => one.at))
 })
