@@ -5,11 +5,11 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsThePrayer 
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-the-prayer",
   ownLength: 4.3231,
-  ownProgress: 0,
+  ownProgress: 4.3231,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Prayer",
   trackType: "studio",

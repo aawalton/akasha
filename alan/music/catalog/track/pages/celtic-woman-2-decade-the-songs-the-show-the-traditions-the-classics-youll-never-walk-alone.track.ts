@@ -5,11 +5,11 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsYoullNever
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-youll-never-walk-alone",
   ownLength: 3.968,
-  ownProgress: 0,
+  ownProgress: 3.968,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "You'll Never Walk Alone",
   trackType: "studio",

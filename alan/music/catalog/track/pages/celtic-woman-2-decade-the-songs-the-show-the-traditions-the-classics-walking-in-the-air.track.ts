@@ -5,11 +5,11 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsWalkingInT
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-walking-in-the-air",
   ownLength: 3.4882166666666667,
-  ownProgress: 0,
+  ownProgress: 3.4882166666666667,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Walking in the Air",
   trackType: "studio",

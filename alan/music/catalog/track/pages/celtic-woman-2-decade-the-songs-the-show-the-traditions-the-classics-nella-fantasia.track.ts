@@ -5,11 +5,11 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsNellaFanta
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-nella-fantasia",
   ownLength: 3.668433333333333,
-  ownProgress: 0,
+  ownProgress: 3.668433333333333,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Nella Fantasia",
   trackType: "studio",

@@ -5,11 +5,11 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsVivaldisRa
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-vivaldis-rain",
   ownLength: 2.19755,
-  ownProgress: 0,
+  ownProgress: 2.19755,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "Vivaldi's Rain",
   trackType: "studio",

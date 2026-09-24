@@ -5,11 +5,11 @@ export const celticWoman2DecadeTheSongsTheShowTheTraditionsTheClassicsTheLostRos
   type: "page-type/track",
   slug: "celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics-the-lost-rose-fantasia",
   ownLength: 2.2937666666666665,
-  ownProgress: 0,
+  ownProgress: 2.2937666666666665,
   partOfCollections: [
     "release/celtic-woman-2-decade-the-songs-the-show-the-traditions-the-classics",
   ],
-  status: "not-started",
+  status: "completed",
   unit: "unit/minutes",
   title: "The Lost Rose Fantasia",
   trackType: "studio",
