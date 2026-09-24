@@ -120,10 +120,6 @@ export function declaring(root: string, slug: string, shape: Shape): undefined {
 function identifying(root: string): undefined {
   declaring(root, ID, { pageTypeSlug: "text-property", unique: PAGE })
   declaring(root, SLUG, { pageTypeSlug: "text-property", unique: PAGE_TYPE })
-  declaring(root, "page-type-slug", {
-    pageTypeSlug: "relation-property",
-    targetPageTypeSlug: PAGE_TYPE,
-  })
   declaring(root, pagePageType.slug, {
     pageTypeSlug: "relation-property",
     targetPageTypeSlug: PAGE_TYPE,
@@ -138,7 +134,7 @@ function identifying(root: string): undefined {
 
 export function founded(root: string): undefined {
   identifying(root)
-  typed(root, PAGE, null, [ID, SLUG, "page-type-slug", pagePageType.slug])
+  typed(root, PAGE, null, [ID, SLUG, pagePageType.slug])
 }
 
 export function relating(root: string): undefined {
