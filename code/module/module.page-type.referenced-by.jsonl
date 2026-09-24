@@ -1724,7 +1724,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/hostnames-ci-enrollment/hostnames-ci-enrollment.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.ts"}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-secret-env/k8s-secret-env.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/k8s-web-service/k8s-web-service.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/labels/labels.module.ts"}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/cluster/k8s-type/modules/manifest-composing/manifest-composing.module.ts"}

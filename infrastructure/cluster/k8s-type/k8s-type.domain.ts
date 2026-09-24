@@ -11,7 +11,6 @@ export const k8sType = {
     "module/hostnames",
     "module/hostnames-ci-enrollment",
     "module/k8s-namespace",
-    "module/k8s-secret-env",
     "module/k8s-web-service",
     "module/labels",
     "module/manifest-composing",
