@@ -1,3 +1,5 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+
 const CPU_LINE = /^cpu\s+(.*)$/m
 
 const COUNTED_FIELDS = 8
@@ -14,9 +16,9 @@ export type ProcessorTimes = {
 }
 
 export function processorTimesIn(stat: string): ProcessorTimes | null {
-  const matched = CPU_LINE.exec(stat)
-  if (matched === null) return null
-  const fields = (matched[1] ?? "").trim().split(/\s+/).slice(0, COUNTED_FIELDS).map(Number)
+  const said = firstCapture(CPU_LINE.exec(stat))
+  if (said === null) return null
+  const fields = said.trim().split(/\s+/).slice(0, COUNTED_FIELDS).map(Number)
   if (fields.length <= IOWAIT || fields.some((one) => !Number.isFinite(one))) return null
   const total = fields.reduce((sum, one) => sum + one, 0)
   const idle = (fields[IDLE] ?? 0) + (fields[IOWAIT] ?? 0)

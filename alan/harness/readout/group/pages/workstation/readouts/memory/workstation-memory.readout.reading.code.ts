@@ -1,3 +1,5 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
+
 const MEM_AVAILABLE = "MemAvailable"
 
 const KB_A_GB = 1024 * 1024
@@ -5,9 +7,8 @@ const KB_A_GB = 1024 * 1024
 const TENTHS = 10
 
 function kilobytesOf(meminfo: string, name: string): number | null {
-  const matched = new RegExp(`^${name}:\\s+(\\d+)\\s+kB`, "m").exec(meminfo)
-  const said = matched?.[1]
-  if (said === undefined) return null
+  const said = firstCapture(new RegExp(`^${name}:\\s+(\\d+)\\s+kB`, "m").exec(meminfo))
+  if (said === null) return null
   const read = Number.parseInt(said, 10)
   return Number.isFinite(read) ? read : null
 }
