@@ -34,6 +34,11 @@ export const gameArt = {
       statement: "A face named by placeholder is looked up in the game's own font strings first.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every face the game's font strings name can be kept in the cache at once, before any is drawn.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement:
         "The game's art is Alan's own install's, so it is used locally and never published.",

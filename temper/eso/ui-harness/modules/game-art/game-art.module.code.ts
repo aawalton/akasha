@@ -12,13 +12,14 @@ import {
   openGameArchive,
 } from "akasha/temper/eso/ui-harness/modules/game-archive/game-archive.module.code.ts"
 import { oodleUnpack } from "akasha/temper/eso/ui-harness/modules/oodle-decoding/oodle-decoding.module.code.ts"
-import { gameFontStrings } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
+import {
+  FACES_UNDER,
+  gameFontStrings,
+} from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 
 export type ArtAt = (texture: string) => string | null
 
 const PICTURES = "png"
-
-const TYPEFACES = "fonts"
 
 const FACE_KINDS: readonly string[] = ["otf", "ttf"]
 
@@ -95,10 +96,18 @@ export async function gameTypefaces(): Promise<ArtAt> {
     const path = face.replace(PLACEHOLDER, (whole, key: string) => strings[key] ?? whole)
     for (const kind of FACE_KINDS) {
       const named = path.replace(SLUG, `.${kind}`)
-      const kept = join(archive.art, TYPEFACES, archiveName(named))
+      const kept = join(archive.art, FACES_UNDER, archiveName(named))
       const found = keptAt(kept, () => copied(archive.read(), named, kept), `font/${kind}`)
       if (found !== null) return found
     }
     return null
   })
+}
+
+export async function keepGameTypefaces(): Promise<undefined> {
+  const kept = await gameTypefaces()
+  for (const face of Object.values(gameFontStrings(esouiSourceDir()))) {
+    if (SLUG.test(face)) kept(face)
+  }
+  return undefined
 }

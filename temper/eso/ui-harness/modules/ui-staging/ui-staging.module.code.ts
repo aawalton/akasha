@@ -15,6 +15,7 @@ import {
   playerAnswersLua,
   playerAnswersSource,
 } from "akasha/temper/eso/return/modules/player-answers-seeding/player-answers-seeding.module.code.ts"
+import { keepGameTypefaces } from "akasha/temper/eso/ui-harness/modules/game-art/game-art.module.code.ts"
 import {
   gameFiles,
   manifestEntries,
@@ -284,6 +285,7 @@ export async function stageUiHarness(asked: StagingAsked): Promise<Staged> {
   const chunks = virtualsLua(virtuals, PER_CHUNK)
   const esoui = esouiSourceDir()
   const declaring: Declaring = { virtuals, strings: gameFontStrings(esoui) }
+  await keepGameTypefaces()
   const harness = await openUiHarness()
   try {
     const templates = await harness.templates(chunks)

@@ -63,6 +63,11 @@ export const uiStaging = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Every face the game's font strings name is kept in the art cache before the harness is opened.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The timelines every document declares are handed over before the game's Lua loads.",
     },
     {
