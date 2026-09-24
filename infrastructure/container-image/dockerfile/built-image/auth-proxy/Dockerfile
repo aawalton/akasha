@@ -49,6 +49,7 @@ COPY --link infrastructure/container-image/modules/image-ref ./infrastructure/co
 COPY --link infrastructure/memory/limit/properties ./infrastructure/memory/limit/properties
 COPY --link infrastructure/service/akasha-service ./infrastructure/service/akasha-service
 COPY --link page ./page
+COPY --link temper/player/character/build/build-hash/properties ./temper/player/character/build/build-hash/properties
 COPY --link text/writing/modules/name-drawing ./text/writing/modules/name-drawing
 COPY --link infrastructure/network/auth-proxy ./infrastructure/network/auth-proxy
 
@@ -102,6 +103,7 @@ COPY --link --from=build /workspace/infrastructure/container-image/modules/image
 COPY --link --from=build /workspace/infrastructure/memory/limit/properties ./infrastructure/memory/limit/properties
 COPY --link --from=build /workspace/infrastructure/service/akasha-service ./infrastructure/service/akasha-service
 COPY --link --from=build /workspace/page ./page
+COPY --link --from=build /workspace/temper/player/character/build/build-hash/properties ./temper/player/character/build/build-hash/properties
 COPY --link --from=build /workspace/text/writing/modules/name-drawing ./text/writing/modules/name-drawing
 COPY --link --from=build /workspace/infrastructure/network/auth-proxy ./infrastructure/network/auth-proxy
 
