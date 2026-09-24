@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/authors.nav.ts"}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/books.nav.ts"}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/requests.nav.ts"}
+{"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/seats.nav.ts"}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/series.nav.ts"}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/tasks.nav.ts"}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/temper-characters.nav.ts"}
