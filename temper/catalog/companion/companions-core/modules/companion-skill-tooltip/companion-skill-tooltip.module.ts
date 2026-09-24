@@ -16,7 +16,7 @@ export const companionSkillTooltip = {
       statement: "Formula effects are collected in the order the skill declares.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The primary targeting is the first effect with a target.",
     },
   ],
