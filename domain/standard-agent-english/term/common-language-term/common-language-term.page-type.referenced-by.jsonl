@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/eat.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/endure.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/every.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/feel.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/find.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/from.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/game.common-language-term.ts","typed":true,"deferred":false}
@@ -74,6 +75,7 @@
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/read.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/restart.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/run.common-language-term.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/safe.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/sell.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/send.common-language-term.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"common-language-term.page-type.types.ts","path":"domain/standard-agent-english/term/common-language-term/pages/set.common-language-term.ts","typed":true,"deferred":false}
