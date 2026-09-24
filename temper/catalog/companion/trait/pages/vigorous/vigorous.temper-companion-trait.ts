@@ -10,4 +10,5 @@ export const vigorous = {
   metricId: "temper-companion-passive-metric/companion-health-maximum",
   effectType: "fractional-change",
   isReduction: false,
+  hashPlace: 9,
 } as const satisfies TemperCompanionTrait

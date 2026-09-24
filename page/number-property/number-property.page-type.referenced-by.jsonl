@@ -344,6 +344,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/properties/value-num.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/eso-companion-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/thing/properties/equip-type.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/trait/properties/hash-place.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/effect/temper-curse/properties/eso-curse-ids.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/effect/temper-target-armor/properties/armor.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/effect/temper-vampire-stage/properties/eso-vampire-stage-id.number-property.ts","typed":true,"deferred":false}

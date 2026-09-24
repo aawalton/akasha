@@ -11,13 +11,16 @@ export const temperCompanionTrait = {
     "boolean-property/is-reduction",
     "relation-property/companion-metric",
     "text-property/trait-effect-type",
+    "number-property/hash-place",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "relation-property/companion-metric", required: false, many: false },
     { pageProperty: "text-property/trait-effect-type", required: false, many: false },
     { pageProperty: "boolean-property/is-reduction", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

@@ -7,4 +7,5 @@ export const noTrait = {
   key: "no-trait",
   title: "No Trait",
   isReduction: false,
+  hashPlace: 0,
 } as const satisfies TemperCompanionTrait

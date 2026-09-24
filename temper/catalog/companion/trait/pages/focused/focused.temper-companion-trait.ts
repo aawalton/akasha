@@ -10,4 +10,5 @@ export const focused = {
   metricId: "temper-companion-passive-metric/companion-critical-chance",
   effectType: "integer",
   isReduction: false,
+  hashPlace: 4,
 } as const satisfies TemperCompanionTrait

@@ -10,4 +10,5 @@ export const soothing = {
   metricId: "temper-companion-passive-metric/companion-healing-done",
   effectType: "fractional-change",
   isReduction: false,
+  hashPlace: 8,
 } as const satisfies TemperCompanionTrait

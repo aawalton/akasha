@@ -10,4 +10,5 @@ export const shattering = {
   metricId: "temper-companion-passive-metric/companion-penetration",
   effectType: "integer",
   isReduction: false,
+  hashPlace: 7,
 } as const satisfies TemperCompanionTrait

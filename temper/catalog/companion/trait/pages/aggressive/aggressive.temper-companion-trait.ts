@@ -10,4 +10,5 @@ export const aggressive = {
   metricId: "temper-companion-passive-metric/companion-damage-done",
   effectType: "fractional-change",
   isReduction: false,
+  hashPlace: 1,
 } as const satisfies TemperCompanionTrait

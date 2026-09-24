@@ -10,4 +10,5 @@ export const augmented = {
   metricId: "temper-companion-passive-metric/companion-buff-duration",
   effectType: "fractional-change",
   isReduction: false,
+  hashPlace: 2,
 } as const satisfies TemperCompanionTrait
