@@ -42,5 +42,19 @@ export const routeTypegen = {
       decisionKind: "decision-kind/constraint",
       statement: "The typegen reads every route file its table names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That folder holds a packages folder of its own, whose entries link the tree's.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A config the typegen bundles into a linked packages folder is not found in a pod.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The configs a typegen bundles stay in that folder, so no two typegens share them.",
+    },
   ],
 } as const satisfies Module

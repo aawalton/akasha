@@ -22,7 +22,11 @@ const HERE = "."
 
 const TOP = ""
 
-const RUNNER = join("node_modules", ".bin", "react-router")
+const PACKAGES = "node_modules"
+
+const BUNDLED = join(PACKAGES, ".vite-temp")
+
+const RUNNER = join(PACKAGES, ".bin", "react-router")
 
 const TYPEGEN = "typegen"
 
@@ -94,8 +98,9 @@ export function typegenOf(
   }
   try {
     const own = changed.filter((one) => one.startsWith(`${app}/`))
-    const left = new Set([...own, join(app, routeTypesDirectory.folderName)])
-    linked(root, into, TOP, foldersOf(app, own), left)
+    const left = new Set([...own, join(app, routeTypesDirectory.folderName), BUNDLED])
+    const folders = new Set([...foldersOf(app, own), PACKAGES])
+    linked(root, into, TOP, folders, left)
     written(into, own, laid)
     const done = ran([join(root, RUNNER), TYPEGEN], { cwd: join(into, app), timeout: WAITED })
     const said = `${endingOf(done.code, done.signal)} — ${done.err.trim()}`
