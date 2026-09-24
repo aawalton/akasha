@@ -10,6 +10,7 @@ export const metricItem = {
     "relation-property/metric-of-item",
     "page-type/tower-item-attack",
     "page-type/tower-item-defence",
+    "page-type/tower-item-damage",
   ],
   properties: [{ pageProperty: "relation-property/metric-of-item", required: true, many: false }],
   types: "ts",

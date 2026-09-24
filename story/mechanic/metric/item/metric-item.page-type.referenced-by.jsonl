@@ -1,5 +1,7 @@
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-item-attack/tower-item-attack.page-type.ts","id":"01a0ca4d-7cbb-7525-bb4e-6f8865212c7f"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-item-damage/tower-item-damage.page-type.ts","id":"01a0d3db-a090-77c7-8594-385d07210f90"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-item-defence/tower-item-defence.page-type.ts","id":"01a0ca4d-8df4-723b-8872-08aa0a5614c0"}
 {"propertySlug":"import","fileName":"metric-item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-item-attack/tower-item-attack.page-type.types.ts"}
+{"propertySlug":"import","fileName":"metric-item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-item-damage/tower-item-damage.page-type.types.ts"}
 {"propertySlug":"import","fileName":"metric-item.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-item-defence/tower-item-defence.page-type.types.ts"}
 {"propertySlug":"parts","path":"story/mechanic/metric/metric.page-type.ts","id":"01a0ca08-5607-7cf7-8091-650c47a04416"}
