@@ -4,7 +4,7 @@ export const emailWatch = {
   id: "01a06596-a92e-7000-b678-5d6232425a71",
   type: "page-type/domain",
   slug: "email-watch",
-  definition: "what becomes of a message that arrives in Alan's inbox",
+  definition: "how a new email in Alan's inbox is handled",
   parts: [
     "module/email-rule-deciding",
     "module/email-rule-reading",
