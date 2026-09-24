@@ -14,7 +14,6 @@ export const seatConditions = {
     "number-property/subagent-spawn-depth",
     "number-property/tool-timeout",
     "text-property/effort-level",
-    "text-property/fallback-model",
     "text-property/seat-conditions-model",
     "text-property/subagent-model",
     "number-property/idle-compact-window",
@@ -27,7 +26,6 @@ export const seatConditions = {
       default: "opus",
     },
     { pageProperty: "text-property/subagent-model", required: false, many: false },
-    { pageProperty: "text-property/fallback-model", required: false, many: false },
     {
       pageProperty: "number-property/auto-compact-window",
       required: false,

@@ -6,7 +6,6 @@ export const seatConditionsCurrent = {
   slug: "seat-conditions-current",
   model: "opus",
   subagentModel: "none",
-  fallbackModel: "fable",
   autoCompactWindow: 1000000,
   effortLevel: "none",
   subagentSpawnDepth: 5,

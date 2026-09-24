@@ -12,7 +12,6 @@ const PAGE_TYPE = "seat-conditions"
 const KEYS = [
   "model",
   "subagentModel",
-  "fallbackModel",
   "autoCompactWindow",
   "idleCompactWindow",
   "effortLevel",
@@ -28,7 +27,6 @@ type Held = Readonly<Record<string, unknown>>
 export interface SeatConditions {
   readonly model: string | null
   readonly subagentModel: string | null
-  readonly fallbackModel: string | null
   readonly autoCompactWindow: string | null
   readonly idleCompactWindow: string | null
   readonly effortLevel: string | null
@@ -82,7 +80,6 @@ export function readSeatConditions(): SeatConditions {
   return {
     model: stated(row, "model"),
     subagentModel: stated(row, "subagentModel"),
-    fallbackModel: stated(row, "fallbackModel"),
     autoCompactWindow: stated(row, "autoCompactWindow"),
     idleCompactWindow: stated(row, "idleCompactWindow"),
     effortLevel: stated(row, "effortLevel"),
