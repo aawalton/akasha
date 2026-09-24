@@ -696,7 +696,18 @@
     "ConvertMouseButtonToKeyCode": [
       "number"
     ],
+    "ConvertRGBToHSL": [
+      "number",
+      "number",
+      "number"
+    ],
+    "ConvertRGBToHSV": [
+      "number",
+      "number",
+      "number"
+    ],
     "CopyHousePermissions": [],
+    "CopyToClipboard": [],
     "CouldAcquireMarketProduct": [
       "number"
     ],
@@ -720,6 +731,9 @@
       "nothing"
     ],
     "CreateDefaultActionBind": [],
+    "CreateFont": [
+      "thing"
+    ],
     "CreateGuildHistoryRequest": [
       "number"
     ],
@@ -1162,6 +1176,9 @@
     "EndPendingInteraction": [],
     "EndRestyling": [],
     "EquipOutfit": [],
+    "EscapeMarkup": [
+      "word"
+    ],
     "ExecuteChatCommand": [],
     "ExecuteTradingHouseSearch": [],
     "ExitInstanceImmediately": [],
@@ -1794,6 +1811,9 @@
     "GetAddCurrencyRewardInfo": [
       "number"
     ],
+    "GetAddOnManager": [
+      "thing"
+    ],
     "GetAddTitleRewardTitleInfo": [
       "word",
       "truth"
@@ -1934,6 +1954,9 @@
     ],
     "GetAmountSoulGemWouldChargeItem": [
       "number"
+    ],
+    "GetAnimationManager": [
+      "thing"
     ],
     "GetAntiquityCategoryGamepadIcon": [
       "word"
@@ -2321,6 +2344,11 @@
       "number",
       "truth",
       "truth"
+    ],
+    "GetCameraForward": [
+      "number",
+      "number",
+      "number"
     ],
     "GetCampaignAbdicationStatus": [
       "number",
@@ -3047,6 +3075,13 @@
     ],
     "GetConsolidatedSmithingItemSetSearchResult": [
       "number"
+    ],
+    "GetControlCreatingSourceCallSiteInfo": [
+      "word",
+      "number"
+    ],
+    "GetControlCreatingSourceName": [
+      "word"
     ],
     "GetCostToCraftAlchemyItem": [
       "number"
@@ -3979,6 +4014,9 @@
       "number",
       "number",
       "number"
+    ],
+    "GetFontStyleString": [
+      "word"
     ],
     "GetFormattedTime": [
       "number"
@@ -5177,6 +5215,9 @@
       "number",
       "number",
       "number",
+      "number"
+    ],
+    "GetInterfaceVerticalFieldOfView": [
       "number"
     ],
     "GetIntroGameplayExperienceData": [
@@ -6857,6 +6898,12 @@
       "number",
       "number"
     ],
+    "GetMinUICanvasHeight": [
+      "number"
+    ],
+    "GetMinUICanvasWidth": [
+      "number"
+    ],
     "GetMinimumRapport": [
       "number"
     ],
@@ -7265,6 +7312,12 @@
       "number"
     ],
     "GetNumConsolidatedSmithingSets": [
+      "number"
+    ],
+    "GetNumControlCreatingSourceCallSites": [
+      "number"
+    ],
+    "GetNumControlCreatingSources": [
       "number"
     ],
     "GetNumCraftedAbilities": [
@@ -8984,6 +9037,45 @@
     "GetScriptIdAtSlotIndexForCraftedAbility": [
       "number"
     ],
+    "GetScriptProfilerCFunctionInfo": [
+      "word"
+    ],
+    "GetScriptProfilerClosureInfo": [
+      "word",
+      "word",
+      "number"
+    ],
+    "GetScriptProfilerFrameNumRecords": [
+      "number"
+    ],
+    "GetScriptProfilerGarbageCollectionInfo": [
+      "number"
+    ],
+    "GetScriptProfilerNumCFunctions": [
+      "number"
+    ],
+    "GetScriptProfilerNumClosures": [
+      "number"
+    ],
+    "GetScriptProfilerNumFrames": [
+      "number"
+    ],
+    "GetScriptProfilerNumGarbageCollectionTypes": [
+      "number"
+    ],
+    "GetScriptProfilerNumUserEvents": [
+      "number"
+    ],
+    "GetScriptProfilerRecordInfo": [
+      "number",
+      "number",
+      "number",
+      "nothing",
+      "number"
+    ],
+    "GetScriptProfilerUserEventInfo": [
+      "word"
+    ],
     "GetScriptedEventInviteIdFromIndex": [
       "number"
     ],
@@ -10295,6 +10387,16 @@
     "GetTutorialType": [
       "nothing"
     ],
+    "GetUICustomScale": [
+      "number"
+    ],
+    "GetUIGlobalScale": [
+      "number"
+    ],
+    "GetUIMouseDeltas": [
+      "number",
+      "number"
+    ],
     "GetUIPlatform": [
       "number"
     ],
@@ -10564,6 +10666,9 @@
     ],
     "GetWeaponSwapUnlockedLevel": [
       "number"
+    ],
+    "GetWindowManager": [
+      "thing"
     ],
     "GetWorldDimensionsOfViewFrustumAtDepth": [
       "number",
@@ -12430,6 +12535,9 @@
     "IsScribingEnabled": [
       "truth"
     ],
+    "IsScriptProfilerEnabled": [
+      "truth"
+    ],
     "IsScryingInProgress": [
       "truth"
     ],
@@ -12770,6 +12878,9 @@
     "LocaleAwareToUpper": [
       "word"
     ],
+    "LocalizeString": [
+      "word"
+    ],
     "LockCameraRotation": [],
     "Logout": [],
     "LootAll": [],
@@ -12791,6 +12902,12 @@
       "number"
     ],
     "MeetsAntiquitySkillRequirementsForScrying": [
+      "truth"
+    ],
+    "MouseIsInside": [
+      "truth"
+    ],
+    "MouseIsOver": [
       "truth"
     ],
     "MoveBackwardStart": [],
@@ -12941,6 +13058,8 @@
     "ReadMail": [
       "word"
     ],
+    "RecordScriptProfilerUserEvent": [],
+    "RedirectTexture": [],
     "RedoLastHousingEditorCommand": [],
     "RefreshCardsInCrownCrateNPCsHand": [],
     "RefreshSettings": [],
@@ -13312,6 +13431,7 @@
     "SetHousingPrimaryHouse": [],
     "SetIgnoreNote": [],
     "SetInteractionUsingInteractCamera": [],
+    "SetInterfaceVerticalFieldOfView": [],
     "SetItemIsJunk": [],
     "SetItemIsPlayerLocked": [],
     "SetMapFloor": [
@@ -13530,6 +13650,7 @@
       "truth"
     ],
     "StartMouseSiegeWeaponAim": [],
+    "StartScriptProfiler": [],
     "StartSettingChamber": [
       "truth"
     ],
@@ -13542,6 +13663,7 @@
     "StopCommandPet": [],
     "StopMapPinAnimation": [],
     "StopMouseSiegeWeaponAim": [],
+    "StopScriptProfiler": [],
     "StopSettingChamber": [],
     "StopWorldParticleEffect": [],
     "StowAllFurnitureItems": [],
