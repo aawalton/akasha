@@ -8,6 +8,7 @@ import {
   LET_THROUGH,
   parseHookPayload,
   parseRefusal,
+  passing,
   refusing,
   rewriting,
   said,
@@ -136,12 +137,13 @@ export function reasonIn(given: Ran): string {
   }
 }
 
-export function judgedOf(slug: string, answered: Ran): Answer | null {
-  if (answered.code === BLOCKED) return refusing(reasonIn(answered))
-  if (answered.code === ASIDE) return null
-  return refusing(
-    `${HOOK}: \`${slug}\` exited ${answered.code} — ${answered.err.trim()}, judging nothing`
-  )
+export function judgedOf(answered: Ran): Answer | null {
+  return answered.code === BLOCKED ? refusing(reasonIn(answered)) : null
+}
+
+export function asideOf(slug: string, answered: Ran): string | null {
+  if (answered.code === ASIDE || answered.code === BLOCKED) return null
+  return `${HOOK}: \`${slug}\` exited ${answered.code} — ${answered.err.trim()}, judging nothing`
 }
 
 async function ranAt(at: string, payload: string): Promise<Ran> {
@@ -220,36 +222,41 @@ async function answerFor(
 ): Promise<Answer> {
   const listed = hooksIn(reading)
   if (listed.length === 0) {
-    return refusing(`${HOOK}: the index names no \`${PAGE_TYPE}\`, so nothing judged this call`)
+    return passing(`${HOOK}: the index names no \`${PAGE_TYPE}\`, so nothing judged this call`)
   }
   linksMade(root, eventsIn(listed))
   const event = textAt(payload, EVENT)
   if (event === null) {
-    return refusing(`${HOOK}: the payload names no \`${EVENT}\`, so nothing judged this call`)
+    return passing(`${HOOK}: the payload names no \`${EVENT}\`, so nothing judged this call`)
   }
   let carried = payload
   let rewrote = false
+  const aside: string[] = []
   const runId = Bun.randomUUIDv7()
   let before = opening()
   for (const one of heldFor(listed, event, textAt(payload, TOOL))) {
     if (reading.read(one.at) === null) {
-      return refusing(`${HOOK}: \`${one.slug}\` names \`${one.at}\`, and nothing is there to run`)
+      aside.push(`${HOOK}: \`${one.slug}\` names \`${one.at}\`, and nothing is there to run`)
+      continue
     }
     const answered = await answeredAt(root, one.at, carried)
     const after = closing()
     const refusals = answered.code === BLOCKED ? 1 : 0
     costKept(root, one.page, costOf(before, after, runId, event, one.slug, 0, refusals))
     before = after
-    const judged = judgedOf(one.slug, answered)
+    const judged = judgedOf(answered)
     if (judged !== null) return judged
+    const unjudged = asideOf(one.slug, answered)
+    if (unjudged !== null) aside.push(unjudged)
     const anew = inputAnew(answered.out)
     if (anew !== null) {
       carried = { ...carried, [INPUT]: anew }
       rewrote = true
     }
   }
-  if (!rewrote) return LET_THROUGH
-  return rewriting(event, carried[INPUT] as Record<string, unknown>)
+  const why = aside.join("\n")
+  if (!rewrote) return why === "" ? LET_THROUGH : passing(why)
+  return { ...rewriting(event, carried[INPUT] as Record<string, unknown>), err: why }
 }
 
 function readingOver(root: string, base: string | null): Reading {
@@ -271,14 +278,14 @@ export async function ran(root: string | null = null, base: string | null = null
     payload = null
   }
   if (payload === null) {
-    return said(refusing(`${HOOK}: the payload would not read, so nothing judged this call`))
+    return said(passing(`${HOOK}: the payload would not read, so nothing judged this call`))
   }
   try {
     const at = root ?? rootOf(realpathSync(import.meta.path))
     return said(await answerFor(at, readingOver(at, base), payload))
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
-    return said(refusing(`${HOOK}: ${why}, so nothing judged this call`))
+    return said(passing(`${HOOK}: ${why}, so nothing judged this call`))
   }
 }
 

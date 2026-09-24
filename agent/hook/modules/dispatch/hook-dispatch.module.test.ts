@@ -3,6 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { REFUSED } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import {
+  asideOf,
   eventsIn,
   heldFor,
   hooksIn,
@@ -149,27 +150,33 @@ describe("hooksIn", () => {
 
 describe("judgedOf", () => {
   test("answers nothing for a hook that judged and let the call through", () => {
-    expect(judgedOf("over-bash", { code: 0, out: "", err: "" })).toBe(null)
+    expect(judgedOf({ code: 0, out: "", err: "" })).toBe(null)
   })
 
   test("answers the refusal a hook that refused carried", () => {
     const out = JSON.stringify({ decision: "block", reason: "because" })
-    const said = judgedOf("over-bash", { code: 2, out, err: "" })
+    const said = judgedOf({ code: 2, out, err: "" })
     expect(said?.code).toBe(REFUSED)
     expect(said?.err).toBe("because")
   })
 
-  test("a hook exiting neither let-through nor refused refuses the call it judged", () => {
-    const said = judgedOf("over-bash", { code: 5, out: "", err: "the payload would not parse\n" })
-    expect(said?.code).toBe(REFUSED)
-    expect(said?.err).toContain("`over-bash` exited 5")
-    expect(said?.err).toContain("the payload would not parse")
-    expect(said?.err).toContain("judging nothing")
+  test("every exit code but refused passes, whatever the hook wrote", () => {
+    for (const code of [0, 1, 3, 5, 127, -1]) {
+      expect(judgedOf({ code, out: "", err: "" })).toBe(null)
+    }
+  })
+})
+
+describe("asideOf", () => {
+  test("says why a hook exiting neither let-through nor refused judged nothing", () => {
+    const why = asideOf("over-bash", { code: 5, out: "", err: "the payload would not parse\n" })
+    expect(why).toContain("`over-bash` exited 5")
+    expect(why).toContain("the payload would not parse")
+    expect(why).toContain("judging nothing")
   })
 
-  test("every exit code but let-through refuses, whatever the hook wrote", () => {
-    for (const code of [1, 3, 5, 127, -1]) {
-      expect(judgedOf("over-bash", { code, out: "", err: "" })?.code).toBe(REFUSED)
-    }
+  test("says nothing of a hook that let the call through or refused it", () => {
+    expect(asideOf("over-bash", { code: 0, out: "", err: "" })).toBe(null)
+    expect(asideOf("over-bash", { code: 2, out: "", err: "no" })).toBe(null)
   })
 })

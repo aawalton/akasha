@@ -102,8 +102,8 @@ export const agentHook = {
     },
 
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A call nothing could judge is refused rather than passed.",
+      decisionKind: "decision-kind/departure",
+      statement: "A call nothing could judge is passed rather than refused.",
     },
   ],
   directives: [

@@ -60,7 +60,7 @@ export const hookDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A hook exiting neither let-through nor refused refuses the call it judged.",
+      statement: "A hook exiting neither let-through nor refused passes the call it judged.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -68,15 +68,23 @@ export const hookDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A run this cannot make sense of refuses the call rather than letting it through.",
+      statement: "A run this cannot make sense of lets the call through rather than refusing it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A payload naming no event refuses the call.",
+      statement: "An index naming no hook lets the call through.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A hook whose code is not there refuses the call.",
+      statement: "A payload naming no event lets the call through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hook whose code is not there is passed over and the rest of the hooks run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Why a call went unjudged is written to standard error.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -142,7 +150,7 @@ export const hookDispatch = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A judgement that threw refuses the call that hook judged rather than ending the dispatch.",
+        "A judgement that threw passes the call that hook judged rather than ending the dispatch.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -151,7 +159,7 @@ export const hookDispatch = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A judgement answering what this cannot read refuses the call that hook judged.",
+      statement: "A judgement answering what this cannot read passes the call that hook judged.",
     },
   ],
 } as const satisfies Module

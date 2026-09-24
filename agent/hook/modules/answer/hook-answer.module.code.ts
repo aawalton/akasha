@@ -25,6 +25,10 @@ export type Answer = {
 
 export const LET_THROUGH: Answer = { out: "", err: "", code: ASIDE }
 
+export function passing(why: string): Answer {
+  return { out: "", err: why, code: ASIDE }
+}
+
 export function unreadable(hook: string, why: string): Answer {
   return {
     out: "",
