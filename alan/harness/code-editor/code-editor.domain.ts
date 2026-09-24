@@ -5,6 +5,10 @@ export const codeEditor = {
   type: "page-type/domain",
   slug: "code-editor",
   definition: "the program where Alan manages agents",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "code editor" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "code editors" },
+  ],
   parts: [
     "domain/code-editor-group-layout",
     "page-type/code-editor-data-interface",

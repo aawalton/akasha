@@ -5,6 +5,10 @@ export const codeEditorGroup = {
   type: "page-type/page-type",
   slug: "code-editor-group",
   definition: "a container of tabs, one of which is showing",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "code editor group" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "code editor groups" },
+  ],
   extends: ["page-type/page"],
   parts: ["page-type/code-editor-group-tab"],
   mortal: true,
