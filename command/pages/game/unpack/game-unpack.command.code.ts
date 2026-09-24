@@ -4,7 +4,6 @@ import {
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { game as gameArgument } from "akasha/command/argument/pages/game.argument.ts"
 import { ledger as ledgerArgument } from "akasha/command/argument/pages/ledger.argument.ts"
@@ -29,8 +28,11 @@ import {
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { putting } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { storyGame } from "akasha/story/game/story-game.page-type.ts"
+import { z } from "zod"
 
 const NAMED = [gameArgument, ledgerArgument] as const
+
+const ROW_SAID = z.record(z.string(), z.unknown())
 
 const JSONL = "jsonl"
 const UTF8 = "utf8"
@@ -100,8 +102,13 @@ async function unpacked(
   const folder = folderFor(found.at, ledger.under)
   const naming: Naming[] = []
   for (const line of rowsIn(readFileSync(at, UTF8))) {
-    const row: unknown = JSON.parse(line)
-    if (!isRecord(row)) return refused(`a row of \`${beside}\` is no record`, DATA)
+    let row: Record<string, unknown> | undefined
+    try {
+      row = ROW_SAID.safeParse(JSON.parse(line)).data
+    } catch {
+      return refused(`a row of \`${beside}\` is no JSON`, DATA)
+    }
+    if (row === undefined) return refused(`a row of \`${beside}\` is no record`, DATA)
     const one = ledger.rowed({ gameSlug: found.slug, folder, row, at: naming.length + FIRST_ROW })
     if ("refused" in one) return refused(one.refused, DATA)
     naming.push(one)

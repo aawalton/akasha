@@ -1,3 +1,4 @@
+import { firstCapture } from "akasha/code/type/narrowing/modules/first-capture/first-capture.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
@@ -101,8 +102,8 @@ export function numberIn(held: unknown): number | null {
   if (typeof held === "number") return Number.isFinite(held) ? held : null
   const said = textIn(held)
   if (said === null) return null
-  const found = A_NUMBER.exec(said)
-  return found === null ? null : Number(found[1])
+  const found = firstCapture(A_NUMBER.exec(said))
+  return found === null ? null : Number(found)
 }
 
 function saidOf(held: unknown): string {

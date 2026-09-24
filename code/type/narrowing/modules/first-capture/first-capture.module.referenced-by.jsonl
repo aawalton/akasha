@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"code/process/modules/port-holding/port-holding.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"command/modules/fault-saying/fault-saying.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"command/pages/deploy/modules/bundle-publishing/deploy-bundle-publishing.module.code.ts"}
+{"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"command/pages/game/unpack/modules/rows-as-pages/rows-as-pages.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"domain/plain-language/modules/word-tokenizing/word-tokenizing.module.code.ts"}
 {"propertySlug":"import","fileName":"first-capture.module.code.ts","path":"infrastructure/inference/generation/upscale/modules/cluster/upscale-cluster.module.code.ts"}
