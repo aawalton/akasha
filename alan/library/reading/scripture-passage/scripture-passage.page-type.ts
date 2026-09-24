@@ -33,7 +33,7 @@ export const scripturePassage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A passage sits in the folder named for the book of scripture the passage is in.",
+      statement: "A passage sits in a folder of its own named for the passage's title.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -43,10 +43,6 @@ export const scripturePassage = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A passage takes its unit from its kind rather than stating a unit of its own.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The collection a passage is part of is no page.",
     },
   ],
   types: "ts",
