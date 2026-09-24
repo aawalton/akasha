@@ -8,7 +8,7 @@ export const theTower = {
   unit: "unit/words",
   externalId: "the-tower",
   gameEngine: "awen",
-  coordinatorAgent: "awen-gm--the-tower",
+  coordinatorAgent: "iris-game-master-the-tower",
   controlledEntityKind: "single",
   mechanicsWeight: "heavy",
   resolution: "formula",
