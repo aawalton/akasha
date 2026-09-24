@@ -127,36 +127,6 @@ export function pathsIn(root: string, folder: string): readonly string[] {
   return under.toSorted()
 }
 
-const TYPED = "--type-add"
-
-const OF_KIND = "collected"
-
-function typing(kinds: readonly string[]): readonly string[] {
-  const said: string[] = []
-  for (const one of kinds) said.push(TYPED, `${OF_KIND}:${one}`)
-  for (const one of APART) said.push(GLOBBED, `!**/${one}/`)
-  return [...said, "-t", OF_KIND]
-}
-
-function ranTyped(
-  root: string,
-  taking: readonly string[],
-  kinds: readonly string[]
-): readonly string[] {
-  const done = ran([rgPath, ...taking, ...typing(kinds), root])
-  return foundIn(done.out, done.code, done.err, root)
-}
-
-export function pathsTyped(
-  root: string,
-  kinds: readonly string[],
-  threads: number | null = null
-): readonly string[] {
-  if (kinds.length === 0) return []
-  const held = [...LISTED, ...threading(threads)]
-  return bothWays((said) => ranTyped(root, [...held, ...said], kinds)).toSorted()
-}
-
 function overlaid(over: Answer, found: readonly string[]): readonly string[] {
   const held = new Set(found)
   for (const one of over.edits) {

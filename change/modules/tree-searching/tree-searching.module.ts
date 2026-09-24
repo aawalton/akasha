@@ -135,24 +135,6 @@ export const treeSearching = {
       statement: "A listing names no kind, and a file the repository ignores is left unlisted.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A listing narrowed to kinds leaves out a file the repository ignores all the same.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A kind is named to such a listing as a type rather than as a glob.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "A glob would take precedence over what the repository ignores, and a type does not.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A listing narrowed to no kind lists nothing rather than everything.",
-    },
-    {
       decisionKind: "decision-kind/absence",
       statement: "No index is read to say which paths are there.",
     },
