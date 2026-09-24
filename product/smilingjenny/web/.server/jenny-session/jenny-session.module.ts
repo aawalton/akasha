@@ -13,7 +13,8 @@ export const jennySession = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A contributor is Jenny where the person naming that contributor is Jenny.",
+      statement:
+        "A contributor is let in where the person naming that contributor is Jenny or Alan.",
     },
     {
       decisionKind: "decision-kind/departure",

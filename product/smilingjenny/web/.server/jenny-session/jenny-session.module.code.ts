@@ -3,7 +3,7 @@ import { personSlugForContributor } from "akasha/person/modules/enrolment/person
 import { JENNY_SITE } from "akasha/product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.code.ts"
 import { redirect } from "react-router"
 
-const JENNY = "jenny"
+const ADMITTED: ReadonlySet<string> = new Set(["jenny", "alan"])
 
 export type SignedIn = { contributor: string; headers: Headers }
 
@@ -21,7 +21,7 @@ async function reading(request: Request, read: SessionReader): Promise<Reading> 
   const contributor = await read(request)
   if (contributor === null) return { admitted: false, aStranger: true }
   const reached = await personSlugForContributor(contributor)
-  if (!reached.ok || reached.personSlug !== JENNY) {
+  if (!reached.ok || !ADMITTED.has(reached.personSlug)) {
     return { admitted: false, aStranger: false }
   }
   return { admitted: true, signedIn: { contributor, headers: new Headers() } }
