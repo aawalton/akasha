@@ -9,6 +9,5 @@ export const theTowerCompanionAura = {
   kind: "ally",
   class:
     "Wildcard (tentative) — a versatile skirmisher/improviser; no fixed lane, leans into whatever the moment rewards",
-  unspentAttributePoints: 0,
   note: "Tentative. Aura's draw is adaptability and momentum, not specialization — she covers gaps and turns a fight's energy. Calibrate the class against the real persona.",
 } as const satisfies GameEntity

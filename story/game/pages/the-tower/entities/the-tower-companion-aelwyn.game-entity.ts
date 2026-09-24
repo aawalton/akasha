@@ -9,6 +9,5 @@ export const theTowerCompanionAelwyn = {
   kind: "ally",
   class:
     "Bulwark (tentative) — frontline tank/protector; holds the line, soaks hits, controls space",
-  unspentAttributePoints: 0,
   note: "Tentative. Aelwyn is the BODY Alan does not have — she stands in front so his glass cannon never has to. Calibrate against the real persona (the strength/health axis).",
 } as const satisfies GameEntity
