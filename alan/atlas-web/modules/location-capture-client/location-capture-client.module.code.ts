@@ -100,7 +100,12 @@ async function handleLocation(loc: PluginLocation): Promise<void> {
       clientSeq: state.seq,
       nowMs: Date.now(),
     })
-    if (point === null) return
+    if (point === null) {
+      console.warn(
+        `[atlas/web/location-capture] refused a location with no place on Earth: ${JSON.stringify(loc)}`
+      )
+      return
+    }
     const p = await prefs()
     state = { ...state, buffer: addPoint(state.buffer, point), seq: nextSeq(state.seq) }
     await persistBuffer(p, state.buffer)

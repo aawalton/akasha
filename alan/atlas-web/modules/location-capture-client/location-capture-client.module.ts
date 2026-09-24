@@ -9,6 +9,10 @@ export const locationCaptureClient = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A location the plugin reports off the globe is logged whole and never buffered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A saved buffer starts capture with every valid point it holds.",
     },
     {
