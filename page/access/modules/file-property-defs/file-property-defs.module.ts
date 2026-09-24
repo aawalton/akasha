@@ -47,8 +47,9 @@ export const filePropertyDefs = {
       statement: "A change naming no page type drops every shape held.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A browser drops a shape it holds when a change to that page type is pushed.",
+      decisionKind: "decision-kind/absence",
+      statement:
+        "No browser holds a shape here, since a browser reads page types through its store.",
     },
     {
       decisionKind: "decision-kind/departure",

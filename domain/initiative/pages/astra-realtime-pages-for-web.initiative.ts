@@ -12,9 +12,5 @@ export const astraRealtimePagesForWeb = {
         "Every piece of data a web app shows is updated as soon as it changes, with no refresh.",
     },
     { statement: "Every piece of data a web app shows is a page or a page's property." },
-    {
-      statement:
-        "A reader holding a page type's shape drops it when a change to that page type is pushed.",
-    },
   ],
 } as const satisfies Initiative
