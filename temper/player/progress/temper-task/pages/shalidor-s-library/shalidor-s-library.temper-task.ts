@@ -15,7 +15,7 @@ export const shalidorSLibrary = {
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
   scope: "next_character",
-  priority: "p3",
+  priority: "p4",
   effectiveCharacter: "temper-account-character/nirayicel",
   lastCompletedAt: "2026-09-22T22:43:04.058Z",
   progress: "jsonl",
