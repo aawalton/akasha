@@ -5,6 +5,7 @@ import {
   indexedRepo,
   pageOf,
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
 import {
   type Folded,
@@ -91,17 +92,17 @@ function declares(pageProperty: string, rest: Held = {}): Held {
 }
 
 function aProperty(one: string, slug: string, shape: string, rest: Held = {}): Held {
-  return { id: seed(one), pageTypeSlug: shape, type: shape, slug, propertySlug: slug, ...rest }
+  return { id: seed(one), type: shape, slug, propertySlug: slug, ...rest }
 }
 
 function aType(one: string, slug: string, rest: Held): Held {
-  return { id: seed(one), pageTypeSlug: "page-type", type: "page-type", slug, ...rest }
+  return { id: seed(one), type: "page-type", slug, ...rest }
 }
 
 function under(folder: string, values: readonly Held[]): Readonly<Record<string, string>> {
   const found: Record<string, string> = {}
   for (const one of values) {
-    found[`akasha/${folder}${String(one.slug)}.${String(one.pageTypeSlug)}.ts`] = pageOf(one)
+    found[`akasha/${folder}${String(one.slug)}.${slugOf(String(one.type))}.ts`] = pageOf(one)
   }
   return found
 }
@@ -115,7 +116,6 @@ export const HELD_THING_BODY = `import type { Thing } from "akasha/${THING_TYPES
 export const heldThing = {
   id: "${HELD_THING_ID}",
   slug: "held-thing",
-  pageTypeSlug: "thing",
   type: "page-type/thing",
   title: "the name it already has",
   remark: "what was already noted",
@@ -141,7 +141,6 @@ export const ROOT: string = indexedRepo({
     }),
     {
       id: idOf("1"),
-      pageTypeSlug: "page-type",
       type: "page-type",
       slug: "page",
       extends: [],
@@ -193,7 +192,6 @@ export const ROOT: string = indexedRepo({
   ...under("crate/pages/", [
     {
       id: HELD_CRATE_ID,
-      pageTypeSlug: "crate",
       type: "crate",
       slug: "held-crate",
       title: "a crate",
@@ -202,7 +200,6 @@ export const ROOT: string = indexedRepo({
   ...under("figure/pages/held-figure/", [
     {
       id: seed("21"),
-      pageTypeSlug: "figure",
       type: "figure",
       slug: "held-figure",
       title: "a figure",

@@ -153,7 +153,6 @@ test("a merge keeps every key the caller does not name", () => {
   expect(content).toContain('remark: "what was already noted"')
   expect(content).toContain('caption: "what it is shown as"')
   expect(content).toContain('slug: "held-thing"')
-  expect(content).toContain('pageTypeSlug: "thing"')
   expect(content).toContain('type: "page-type/thing"')
   expect(content).toContain(HELD_THING_ID)
 })
@@ -161,7 +160,7 @@ test("a merge keeps every key the caller does not name", () => {
 test("a page keeps its key order, a key it lacked is placed as declared, a file its extension", () => {
   const said = composing({ ...A_HELD_FIGURE, values: { remark: "x" } })
   expect(bodyIn(said)).toContain('portrait: "md"')
-  const put = ["id", "pageTypeSlug", "type", "slug", "title", "remark", "portrait", "rounds"]
+  const put = ["id", "type", "slug", "title", "remark", "portrait", "rounds"]
   expect(keysIn(said)).toEqual(put)
 })
 
