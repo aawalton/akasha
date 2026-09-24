@@ -1127,13 +1127,13 @@
     "FastTravelToNode": [],
     "FinalizePartialPendingNarrationText": [],
     "FindActionSlotMatchingItem": [
-      "number"
+      "nothing"
     ],
     "FindActionSlotMatchingSimpleAction": [
-      "number"
+      "nothing"
     ],
     "FindFirstEmptySlotInBag": [
-      "number"
+      "nothing"
     ],
     "FlagMarketAnnouncementSeen": [],
     "FlagPromotionalEventPersonalCampaignAnnouncementSeen": [],
@@ -1207,22 +1207,22 @@
       "number"
     ],
     "GetAbilityAngleDistance": [
-      "number"
+      "nothing"
     ],
     "GetAbilityBaseCostInfo": [
-      "number",
-      "number",
-      "truth"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetAbilityBuffType": [
       "number"
     ],
     "GetAbilityCastInfo": [
-      "truth",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetAbilityCooldown": [
-      "number"
+      "nothing"
     ],
     "GetAbilityCost": [
       "number"
@@ -1244,7 +1244,7 @@
       "word"
     ],
     "GetAbilityDuration": [
-      "number"
+      "nothing"
     ],
     "GetAbilityEffectDescription": [
       "word"
@@ -1257,7 +1257,7 @@
       "truth"
     ],
     "GetAbilityFrequencyMS": [
-      "number"
+      "nothing"
     ],
     "GetAbilityFxOverrideProgressionId": [
       "number"
@@ -1317,7 +1317,7 @@
       "number"
     ],
     "GetAbilityProgressionRankFromAbilityId": [
-      "number"
+      "nothing"
     ],
     "GetAbilityProgressionXPInfo": [
       "number",
@@ -1334,11 +1334,11 @@
       "truth"
     ],
     "GetAbilityRadius": [
-      "number"
+      "nothing"
     ],
     "GetAbilityRange": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetAbilityRoles": [
       "truth",
@@ -1346,7 +1346,7 @@
       "truth"
     ],
     "GetAbilityTargetDescription": [
-      "word"
+      "nothing"
     ],
     "GetAbilityUpgradeLines": [
       "word",
@@ -1460,7 +1460,7 @@
     ],
     "GetAchievementsSearchResult": [
       "number",
-      "number",
+      "nothing",
       "number"
     ],
     "GetActionBarLockedReason": [
@@ -1481,9 +1481,9 @@
       "number"
     ],
     "GetActionIndicesFromName": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetActionInfo": [
       "word",
@@ -1517,7 +1517,7 @@
       "word"
     ],
     "GetActiveActionLayerIndex": [
-      "number"
+      "nothing"
     ],
     "GetActiveAnnouncementMarketProductListingsForHouseTemplate": [
       "number",
@@ -1634,7 +1634,7 @@
       "word"
     ],
     "GetActiveSpectacleEventQuestIndex": [
-      "number"
+      "nothing"
     ],
     "GetActiveTamrielTomeSeasonDefId": [
       "number"
@@ -1669,7 +1669,7 @@
       "number"
     ],
     "GetActivityFindReplacementNotificationInfo": [
-      "number"
+      "nothing"
     ],
     "GetActivityFinderStatus": [
       "number"
@@ -1775,8 +1775,8 @@
     ],
     "GetAdvancedStatValue": [
       "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetAdvancedStatsCategoryId": [
       "number"
@@ -1832,11 +1832,11 @@
       "number"
     ],
     "GetAlchemyItemTraits": [
-      "word",
-      "word",
-      "word",
-      "word",
-      "word"
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetAlchemyResultInspiration": [
       "number"
@@ -1845,7 +1845,7 @@
       "number"
     ],
     "GetAlchemyResultingItemIdIfKnown": [
-      "number"
+      "nothing"
     ],
     "GetAlchemyResultingItemInfo": [
       "word",
@@ -1871,9 +1871,9 @@
       "number"
     ],
     "GetAllianceLockPendingNotificationInfo": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetAllianceName": [
       "word"
@@ -1983,7 +1983,7 @@
       "number"
     ],
     "GetArmoryBuildEquippedOutfitIndex": [
-      "number"
+      "nothing"
     ],
     "GetArmoryBuildIconIndex": [
       "number"
@@ -2041,7 +2041,7 @@
       "number"
     ],
     "GetAssignedSlotFromSkillAbility": [
-      "number"
+      "nothing"
     ],
     "GetAssociatedAchievementIdForZoneCompletionType": [
       "number"
@@ -2078,7 +2078,7 @@
       "number"
     ],
     "GetAutoMapNavigationCommonZoomOutMapIndex": [
-      "number"
+      "nothing"
     ],
     "GetAutoMapNavigationNormalizedPositionForCurrentMap": [
       "number",
@@ -2126,7 +2126,7 @@
       "number"
     ],
     "GetBagForCollectible": [
-      "number"
+      "nothing"
     ],
     "GetBagSize": [
       "number"
@@ -2194,7 +2194,7 @@
       "number"
     ],
     "GetBattlegroundTeamByIndex": [
-      "number"
+      "nothing"
     ],
     "GetBattlegroundTeamName": [
       "word"
@@ -2203,9 +2203,9 @@
       "number"
     ],
     "GetBindingIndicesFromKeys": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetBookMediumFontInfo": [
       "word",
@@ -2317,10 +2317,10 @@
       "number"
     ],
     "GetCampaignKeyForNextLowLevelPlayerCampaign": [
-      "number"
+      "nothing"
     ],
     "GetCampaignKeyForNextReturningPlayerCampaign": [
-      "number"
+      "nothing"
     ],
     "GetCampaignLeaderboardEntryInfo": [
       "truth",
@@ -2433,22 +2433,22 @@
       "number"
     ],
     "GetCategoryIndicesFromMarketProductPresentation": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetCategoryInfoFromAchievementId": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetCategoryInfoFromCollectibleCategoryId": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetCategoryInfoFromCollectibleId": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetChallengeLeaderboardEntryInfo": [
       "number",
@@ -2690,7 +2690,7 @@
       "number"
     ],
     "GetClassIndexById": [
-      "number"
+      "nothing"
     ],
     "GetClassInfo": [
       "number",
@@ -2793,8 +2793,8 @@
       "word"
     ],
     "GetCollectibleHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetCollectibleHideMode": [
       "number"
@@ -2818,7 +2818,7 @@
       "number"
     ],
     "GetCollectibleIdFromLink": [
-      "number"
+      "nothing"
     ],
     "GetCollectibleIdFromType": [
       "number"
@@ -2860,13 +2860,13 @@
       "word"
     ],
     "GetCollectiblePlayerFxOverrideAbilityType": [
-      "number"
+      "nothing"
     ],
     "GetCollectiblePlayerFxOverrideType": [
-      "number"
+      "nothing"
     ],
     "GetCollectiblePlayerFxWhileHarvestingType": [
-      "number"
+      "nothing"
     ],
     "GetCollectiblePreviewActionDisplayName": [
       "word"
@@ -2911,7 +2911,7 @@
     ],
     "GetCollectiblesSearchResult": [
       "number",
-      "number",
+      "nothing",
       "number"
     ],
     "GetCombinationCollectibleComponentId": [
@@ -2979,7 +2979,7 @@
       "number"
     ],
     "GetCompanionUnitTagByGroupUnitTag": [
-      "word"
+      "nothing"
     ],
     "GetCompletedQuestInfo": [
       "word",
@@ -3229,7 +3229,7 @@
       "number"
     ],
     "GetCurrentBattlegroundRoundIndex": [
-      "number"
+      "nothing"
     ],
     "GetCurrentBattlegroundRoundMaxActiveSequencedObjectives": [
       "number"
@@ -3238,7 +3238,7 @@
       "number"
     ],
     "GetCurrentBattlegroundRoundResult": [
-      "number"
+      "nothing"
     ],
     "GetCurrentBattlegroundRoundsWonByTeam": [
       "number"
@@ -3247,7 +3247,7 @@
       "number"
     ],
     "GetCurrentBattlegroundShutdownTimer": [
-      "number"
+      "nothing"
     ],
     "GetCurrentBattlegroundState": [
       "number"
@@ -3309,7 +3309,7 @@
       "number"
     ],
     "GetCurrentHouseTourListingFurnitureCount": [
-      "number"
+      "nothing"
     ],
     "GetCurrentHouseTourListingHouseId": [
       "number"
@@ -3338,7 +3338,7 @@
       "number"
     ],
     "GetCurrentMapIndex": [
-      "number"
+      "nothing"
     ],
     "GetCurrentMapZoneIndex": [
       "number"
@@ -3350,16 +3350,16 @@
       "number"
     ],
     "GetCurrentRaidDeaths": [
-      "number"
+      "nothing"
     ],
     "GetCurrentRaidLifeScoreBonus": [
-      "number"
+      "nothing"
     ],
     "GetCurrentRaidScore": [
       "number"
     ],
     "GetCurrentRaidStartingReviveCounters": [
-      "number"
+      "nothing"
     ],
     "GetCurrentRecipeIngredientCount": [
       "number"
@@ -3374,8 +3374,8 @@
       "number"
     ],
     "GetCurrentSubZonePOIIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetCurrentSynergyInfo": [
       "truth",
@@ -3385,7 +3385,7 @@
       "number"
     ],
     "GetCurrentTitleIndex": [
-      "number"
+      "nothing"
     ],
     "GetCurrentTradingHouseGuildDetails": [
       "number",
@@ -3416,44 +3416,44 @@
       "number"
     ],
     "GetCursorAbilityId": [
-      "number"
+      "nothing"
     ],
     "GetCursorBagId": [
-      "number"
+      "nothing"
     ],
     "GetCursorChampionSkillId": [
-      "number"
+      "nothing"
     ],
     "GetCursorCollectibleId": [
-      "number"
+      "nothing"
     ],
     "GetCursorContentType": [
       "number"
     ],
     "GetCursorCraftedAbilityId": [
-      "number"
+      "nothing"
     ],
     "GetCursorCraftedAbilityScriptId": [
-      "number"
+      "nothing"
     ],
     "GetCursorEmoteId": [
-      "number"
+      "nothing"
     ],
     "GetCursorQuestItemId": [
-      "number"
+      "nothing"
     ],
     "GetCursorQuickChatId": [
-      "number"
+      "nothing"
     ],
     "GetCursorSlotIndex": [
-      "number"
+      "nothing"
     ],
     "GetCursorVengeancePerkData": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetCyrodiilMapIndex": [
-      "number"
+      "nothing"
     ],
     "GetDaedricArtifactDisplayName": [
       "word"
@@ -3462,7 +3462,7 @@
       "number"
     ],
     "GetDailyLoginClaimableRewardIndex": [
-      "number"
+      "nothing"
     ],
     "GetDailyLoginNumRewardsClaimedInMonth": [
       "number"
@@ -3668,10 +3668,10 @@
       "word"
     ],
     "GetEmoteCollectibleId": [
-      "number"
+      "nothing"
     ],
     "GetEmoteIndex": [
-      "number"
+      "nothing"
     ],
     "GetEmoteInfo": [
       "word",
@@ -3821,7 +3821,7 @@
       "truth"
     ],
     "GetEquippedOutfitIndex": [
-      "number"
+      "nothing"
     ],
     "GetErrorString": [
       "word"
@@ -3830,12 +3830,12 @@
       "number"
     ],
     "GetEsoPlusSubscriptionBenefitsInfoHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetEsoPlusSubscriptionLapsedBenefitsInfoHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetExpectedGroupElectionResult": [
       "number"
@@ -3869,7 +3869,7 @@
       "number",
       "number",
       "word",
-      "word",
+      "nothing",
       "number",
       "truth",
       "truth"
@@ -3878,7 +3878,7 @@
       "number"
     ],
     "GetFastTravelNodeMapPriority": [
-      "number"
+      "nothing"
     ],
     "GetFastTravelNodeOutboundOnlyInfo": [
       "truth",
@@ -3892,7 +3892,7 @@
       "number"
     ],
     "GetFeedbackIdByIndex": [
-      "number"
+      "nothing"
     ],
     "GetFeedbackType": [
       "number"
@@ -3911,19 +3911,19 @@
       "number"
     ],
     "GetFirstFreeValidSlotForItem": [
-      "number"
+      "nothing"
     ],
     "GetFirstFreeValidSlotForSimpleAction": [
-      "number"
+      "nothing"
     ],
     "GetFirstFreeValidSlotForSkillAbility": [
-      "number"
+      "nothing"
     ],
     "GetFirstKnownItemStyleId": [
-      "number"
+      "nothing"
     ],
     "GetFishingLure": [
-      "number"
+      "nothing"
     ],
     "GetFishingLureInfo": [
       "word",
@@ -3994,7 +3994,7 @@
     ],
     "GetFurnitureCategoryInfo": [
       "word",
-      "number",
+      "nothing",
       "truth",
       "number"
     ],
@@ -4007,12 +4007,12 @@
       "word"
     ],
     "GetFurnitureDataCategoryInfo": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetFurnitureDataInfo": [
-      "number",
-      "number",
+      "nothing",
+      "nothing",
       "number",
       "number"
     ],
@@ -4029,13 +4029,13 @@
       "number"
     ],
     "GetGameCameraInteractableActionInfo": [
-      "word",
-      "word",
+      "nothing",
+      "nothing",
       "truth",
       "truth",
       "number",
-      "number",
-      "word",
+      "nothing",
+      "nothing",
       "truth"
     ],
     "GetGameCameraInteractableInfo": [
@@ -4053,7 +4053,7 @@
       "number"
     ],
     "GetGameCameraNonInteractableName": [
-      "word"
+      "nothing"
     ],
     "GetGameCameraPickpocketingBonusInfo": [
       "truth",
@@ -4081,9 +4081,9 @@
       "number"
     ],
     "GetGamepadIconPathForKeyCode": [
-      "word",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetGamepadLeftStickDeltaX": [
       "number"
@@ -4180,19 +4180,19 @@
       "number"
     ],
     "GetGiftingAccountLockedHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetGiftingGracePeriodTime": [
       "number"
     ],
     "GetGiftingGraceStartedHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetGiftingUnlockedHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetGlobalTimeOfDay": [
       "number",
@@ -4206,7 +4206,7 @@
       "number"
     ],
     "GetGroundTargetingError": [
-      "number"
+      "nothing"
     ],
     "GetGroupAddOnDataBroadcastCooldownRemainingMS": [
       "number"
@@ -4215,7 +4215,7 @@
       "number",
       "number",
       "word",
-      "word"
+      "nothing"
     ],
     "GetGroupElectionUnreadyUnitTags": [
       "word"
@@ -4400,10 +4400,10 @@
       "number"
     ],
     "GetGroupUnitTagByCompanionUnitTag": [
-      "word"
+      "nothing"
     ],
     "GetGroupUnitTagByIndex": [
-      "word"
+      "nothing"
     ],
     "GetGuiHidden": [
       "truth"
@@ -4526,21 +4526,21 @@
       "number"
     ],
     "GetGuildHistoryEventCategoryAndIndex": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetGuildHistoryEventId": [
       "number"
     ],
     "GetGuildHistoryEventIndex": [
-      "number"
+      "nothing"
     ],
     "GetGuildHistoryEventIndicesForTimeRange": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetGuildHistoryEventRangeIndexForEventId": [
-      "number"
+      "nothing"
     ],
     "GetGuildHistoryEventRangeInfo": [
       "number",
@@ -4570,7 +4570,7 @@
       "number",
       "word",
       "word",
-      "number"
+      "nothing"
     ],
     "GetGuildHistoryTraderEventInfo": [
       "number",
@@ -4588,7 +4588,7 @@
       "number"
     ],
     "GetGuildIndex": [
-      "number"
+      "nothing"
     ],
     "GetGuildInfo": [
       "number",
@@ -4614,7 +4614,7 @@
       "word"
     ],
     "GetGuildKioskAttribute": [
-      "word"
+      "nothing"
     ],
     "GetGuildKioskCycleTimes": [
       "number",
@@ -4654,7 +4654,7 @@
       "number"
     ],
     "GetGuildMemberIndexFromDisplayName": [
-      "number"
+      "nothing"
     ],
     "GetGuildMemberInfo": [
       "word",
@@ -4676,7 +4676,7 @@
       "word"
     ],
     "GetGuildOwnedKioskInfo": [
-      "word"
+      "nothing"
     ],
     "GetGuildPermissionDependency": [
       "number"
@@ -4700,7 +4700,7 @@
       "number"
     ],
     "GetGuildRankIndex": [
-      "number"
+      "nothing"
     ],
     "GetGuildRankLargeIcon": [
       "word"
@@ -4801,21 +4801,21 @@
       "word"
     ],
     "GetHelpDefIndicesFromHelpDefId": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetHelpId": [
-      "number"
+      "nothing"
     ],
     "GetHelpIndicesFromHelpLink": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetHelpInfo": [
       "word",
       "word",
       "word",
-      "word",
+      "nothing",
       "word",
       "word",
       "number"
@@ -4866,7 +4866,7 @@
       "number"
     ],
     "GetHeraldryGuildBankedMoney": [
-      "number"
+      "nothing"
     ],
     "GetHeraldryGuildFinderBackgroundCategoryIcon": [
       "word"
@@ -4939,7 +4939,7 @@
       "truth"
     ],
     "GetHotbarForCollectibleCategoryId": [
-      "number"
+      "nothing"
     ],
     "GetHouseCategoryType": [
       "number"
@@ -4954,7 +4954,7 @@
       "number"
     ],
     "GetHouseFurnitureCount": [
-      "number"
+      "nothing"
     ],
     "GetHouseOccupantName": [
       "word",
@@ -4974,7 +4974,7 @@
       "number"
     ],
     "GetHouseToursListingFurnitureCountByIndex": [
-      "number"
+      "nothing"
     ],
     "GetHouseToursListingHouseIdByIndex": [
       "number"
@@ -5042,7 +5042,7 @@
       "number"
     ],
     "GetImperialCityMapIndex": [
-      "number"
+      "nothing"
     ],
     "GetImperialStyleId": [
       "number"
@@ -5098,8 +5098,8 @@
       "number"
     ],
     "GetInstanceKickTime": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetInstantUnlockRewardCategory": [
       "number"
@@ -5132,9 +5132,9 @@
       "number"
     ],
     "GetIntroGameplayExperienceData": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetIntroGameplayExperienceDescription": [
       "word"
@@ -5213,9 +5213,9 @@
     "GetItemCraftingInfo": [
       "number",
       "number",
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetItemCreatorName": [
       "word"
@@ -5247,8 +5247,8 @@
       "number"
     ],
     "GetItemGlyphMinLevels": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetItemId": [
       "number"
@@ -5265,7 +5265,7 @@
       "number"
     ],
     "GetItemInstanceId": [
-      "number"
+      "nothing"
     ],
     "GetItemLaunderPrice": [
       "number"
@@ -5292,7 +5292,7 @@
       "number"
     ],
     "GetItemLinkBookTitle": [
-      "word"
+      "nothing"
     ],
     "GetItemLinkCombinationDescription": [
       "word"
@@ -5350,8 +5350,8 @@
       "number"
     ],
     "GetItemLinkEnchantingRuneName": [
-      "truth",
-      "word"
+      "nothing",
+      "nothing"
     ],
     "GetItemLinkEquipType": [
       "number"
@@ -5379,12 +5379,12 @@
       "number"
     ],
     "GetItemLinkGlyphMinLevels": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetItemLinkGrantedRecipeIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetItemLinkIcon": [
       "word"
@@ -5464,8 +5464,8 @@
       "word"
     ],
     "GetItemLinkReagentTraitInfo": [
-      "truth",
-      "word"
+      "nothing",
+      "nothing"
     ],
     "GetItemLinkRecipeCraftingSkillType": [
       "number"
@@ -5588,7 +5588,7 @@
       "number"
     ],
     "GetItemReconstructionCurrencyOptionCost": [
-      "number"
+      "nothing"
     ],
     "GetItemReconstructionCurrencyOptionType": [
       "number"
@@ -5725,7 +5725,7 @@
       "number"
     ],
     "GetItemUniqueId": [
-      "number"
+      "nothing"
     ],
     "GetItemUniqueIdFromFurnitureId": [
       "number"
@@ -5824,7 +5824,7 @@
       "word",
       "truth",
       "number",
-      "number"
+      "nothing"
     ],
     "GetJournalQuestRewardItemId": [
       "number"
@@ -5842,7 +5842,7 @@
     ],
     "GetJournalQuestStepInfo": [
       "word",
-      "number",
+      "nothing",
       "number",
       "word",
       "number"
@@ -5884,7 +5884,7 @@
       "number"
     ],
     "GetKeepFastTravelInteraction": [
-      "number"
+      "nothing"
     ],
     "GetKeepHasResourcesForTravel": [
       "truth"
@@ -5995,9 +5995,9 @@
       "word"
     ],
     "GetKeyboardIconPathForKeyCode": [
-      "word",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetKeyboardLayout": [
       "word"
@@ -6022,7 +6022,7 @@
       "number",
       "number",
       "number",
-      "word"
+      "nothing"
     ],
     "GetKillingAttackerBattlegroundTeam": [
       "number"
@@ -6042,9 +6042,9 @@
       "number"
     ],
     "GetKioskGuildInfo": [
-      "number",
-      "number",
-      "number",
+      "nothing",
+      "nothing",
+      "nothing",
       "number"
     ],
     "GetKioskPurchaseCost": [
@@ -6185,8 +6185,8 @@
       "number"
     ],
     "GetLevelUpHelpIndicesForLevel": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetLevelUpTextureLayerRevealAnimation": [
       "number"
@@ -6201,10 +6201,10 @@
       "number"
     ],
     "GetLocalPlayerDaedricArtifactId": [
-      "number"
+      "nothing"
     ],
     "GetLocalPlayerGroupUnitTag": [
-      "word"
+      "nothing"
     ],
     "GetLocalTimeOfDay": [
       "number",
@@ -6273,19 +6273,19 @@
       "number"
     ],
     "GetLoreBookCategoryIndexFromCategoryId": [
-      "number"
+      "nothing"
     ],
     "GetLoreBookCollectionIndicesFromCollectionId": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetLoreBookCollectionLinkedAchievement": [
       "number"
     ],
     "GetLoreBookIndicesFromBookId": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetLoreBookInfo": [
       "word",
@@ -6297,8 +6297,8 @@
       "word"
     ],
     "GetLoreBookOverrideImageFromBookId": [
-      "word",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetLoreBookTitleFromLink": [
       "word"
@@ -6349,7 +6349,7 @@
       "number",
       "number",
       "number",
-      "number",
+      "nothing",
       "number",
       "number"
     ],
@@ -6385,7 +6385,7 @@
       "number"
     ],
     "GetMapCustomMaxZoom": [
-      "number"
+      "nothing"
     ],
     "GetMapFilterType": [
       "number"
@@ -6401,10 +6401,10 @@
       "number"
     ],
     "GetMapIndexById": [
-      "number"
+      "nothing"
     ],
     "GetMapIndexByZoneId": [
-      "number"
+      "nothing"
     ],
     "GetMapInfoById": [
       "word",
@@ -6507,8 +6507,8 @@
       "word"
     ],
     "GetMarketAnnouncementHelpLinkIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetMarketCurrencyTypeFromCurrencyType": [
       "number"
@@ -6558,8 +6558,8 @@
       "number"
     ],
     "GetMarketProductUnlockedHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetMarketProductsForItem": [
       "number"
@@ -6682,16 +6682,16 @@
       "number"
     ],
     "GetMouseIconPathForKeyCode": [
-      "word",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetMouseOverDiggingActiveSkill": [
-      "number"
+      "nothing"
     ],
     "GetMundusStoneHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetMundusWarningLevel": [
       "number"
@@ -6720,20 +6720,20 @@
       "number"
     ],
     "GetNewestAndOldestRedactedGuildHistoryEventIds": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetNextAbilityMechanicFlag": [
-      "number"
+      "nothing"
     ],
     "GetNextAchievementInLine": [
       "number"
     ],
     "GetNextActiveArtificialEffectId": [
-      "number"
+      "nothing"
     ],
     "GetNextAntiquityId": [
-      "number"
+      "nothing"
     ],
     "GetNextBackpackUpgradePrice": [
       "number"
@@ -6742,96 +6742,96 @@
       "number"
     ],
     "GetNextBattlegroundCumulativeMedalId": [
-      "number"
+      "nothing"
     ],
     "GetNextBattlegroundLeaderboardType": [
-      "number"
+      "nothing"
     ],
     "GetNextCompletedQuestId": [
-      "number"
+      "nothing"
     ],
     "GetNextDirtyBlacklistCollectibleId": [
-      "number"
+      "nothing"
     ],
     "GetNextDirtyUnlockStateCollectibleId": [
-      "number"
+      "nothing"
     ],
     "GetNextDirtyUnlockedConsolidatedSmithingItemSetId": [
-      "number"
+      "nothing"
     ],
     "GetNextEndlessDungeonLifetimeVerseAbilityAndStackCount": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetNextEndlessDungeonVisionAbilityAndStackCount": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetNextForwardCampRespawnTime": [
       "number"
     ],
     "GetNextFurnitureVaultSlotId": [
-      "number"
+      "nothing"
     ],
     "GetNextGiftId": [
-      "number"
+      "nothing"
     ],
     "GetNextGroupListingApplicationCharacterId": [
-      "number"
+      "nothing"
     ],
     "GetNextGuildBankSlotId": [
-      "number"
+      "nothing"
     ],
     "GetNextItemSetCollectionId": [
-      "number"
+      "nothing"
     ],
     "GetNextKnownRecipeForCraftingStation": [
-      "number"
+      "nothing"
     ],
     "GetNextLeaderboardScoreNotificationId": [
-      "number"
+      "nothing"
     ],
     "GetNextLevelUpRewardMilestoneLevel": [
-      "number"
+      "nothing"
     ],
     "GetNextMailId": [
-      "number"
+      "nothing"
     ],
     "GetNextOwnedCrownCrateId": [
-      "number"
+      "nothing"
     ],
     "GetNextPathedHousingFurnitureId": [
-      "number"
+      "nothing"
     ],
     "GetNextPendingRumorId": [
-      "number"
+      "nothing"
     ],
     "GetNextPlacedHousingFurnitureId": [
-      "number"
+      "nothing"
     ],
     "GetNextRaidLeaderboardId": [
-      "number"
+      "nothing"
     ],
     "GetNextScoreboardEntryMedalId": [
-      "number"
+      "nothing"
     ],
     "GetNextTributeLeaderboardType": [
-      "number"
+      "nothing"
     ],
     "GetNextValidGuildMailId": [
-      "number"
+      "nothing"
     ],
     "GetNextValidGuildMailIdForGuild": [
-      "number"
+      "nothing"
     ],
     "GetNextVirtualBagSlotId": [
-      "number"
+      "nothing"
     ],
     "GetNextWorldEventInstanceId": [
-      "number"
+      "nothing"
     ],
     "GetNextZoneStoryZoneId": [
-      "number"
+      "nothing"
     ],
     "GetNonCombatBonus": [
       "number"
@@ -6996,7 +6996,7 @@
       "number"
     ],
     "GetNumChampionXPInChampionPoint": [
-      "number"
+      "nothing"
     ],
     "GetNumChapterBasicRewards": [
       "number"
@@ -7143,10 +7143,10 @@
       "number"
     ],
     "GetNumExperiencePointsInCompanionLevel": [
-      "number"
+      "nothing"
     ],
     "GetNumExperiencePointsInLevel": [
-      "number"
+      "nothing"
     ],
     "GetNumExpiringMarketCurrencyInfos": [
       "number"
@@ -7414,7 +7414,7 @@
       "number"
     ],
     "GetNumMatchTradingHouseItemNamesResults": [
-      "number"
+      "nothing"
     ],
     "GetNumNewCollectibles": [
       "number"
@@ -7837,10 +7837,10 @@
       "word"
     ],
     "GetOldestGuildHistoryEventIndexForUpToDateEventsWithoutGaps": [
-      "number"
+      "nothing"
     ],
     "GetOnSaleCrownCrateId": [
-      "number"
+      "nothing"
     ],
     "GetOpeningCinematicVideoDataId": [
       "number"
@@ -7865,34 +7865,34 @@
     ],
     "GetOutfitSlotInfo": [
       "number",
-      "number",
+      "nothing",
       "number",
       "number",
       "number"
     ],
     "GetOutfitSlotInfoForOutfitSlotInPreviewCollection": [
       "number",
-      "number",
+      "nothing",
       "number",
       "number",
       "number"
     ],
     "GetOutfitSlotsForCurrentlyHeldWeapons": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetOutfitSlotsForEquippedWeapons": [
-      "number",
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetOutfitStyleCost": [
       "number",
       "truth"
     ],
     "GetOutfitStyleFreeConversionCollectibleId": [
-      "number"
+      "nothing"
     ],
     "GetOutfitStyleItemMaterialName": [
       "word"
@@ -8008,7 +8008,7 @@
       "number"
     ],
     "GetPendingLevelUpRewardLevel": [
-      "number"
+      "nothing"
     ],
     "GetPendingResurrectInfo": [
       "word",
@@ -8043,7 +8043,7 @@
       "word"
     ],
     "GetPlacedFurnitureParent": [
-      "number"
+      "nothing"
     ],
     "GetPlacedFurniturePreviewVariationDisplayName": [
       "word"
@@ -8192,7 +8192,7 @@
       "number"
     ],
     "GetProgressionSkillProgressionIndex": [
-      "number"
+      "nothing"
     ],
     "GetProgressionSkillProgressionName": [
       "word"
@@ -8274,15 +8274,15 @@
       "number"
     ],
     "GetQuestConditionMasterWritInfo": [
-      "number",
-      "number",
-      "number",
-      "number",
-      "number",
-      "number",
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetQuestConditionQuestItemId": [
       "number"
@@ -8412,7 +8412,7 @@
       "number"
     ],
     "GetRaidReviveCountersRemaining": [
-      "number"
+      "nothing"
     ],
     "GetRaidTargetTime": [
       "number"
@@ -8465,9 +8465,9 @@
       "number"
     ],
     "GetRecipeInfoFromItemId": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetRecipeIngredientItemInfo": [
       "word",
@@ -8515,7 +8515,7 @@
       "number"
     ],
     "GetReferenceTrackIndex": [
-      "number"
+      "nothing"
     ],
     "GetRemainingCooldownForRoleSwapMs": [
       "number"
@@ -8562,7 +8562,7 @@
       "number"
     ],
     "GetReturningPlayerDailyLoginClaimableRewardIndex": [
-      "number"
+      "nothing"
     ],
     "GetReturningPlayerDailyLoginRewardInfo": [
       "number",
@@ -8583,7 +8583,7 @@
     ],
     "GetRewardListEntryInfo": [
       "number",
-      "number",
+      "nothing",
       "number"
     ],
     "GetRewardListIdFromReward": [
@@ -8605,8 +8605,8 @@
       "number"
     ],
     "GetRewardTrackInfinitelyRepeatableRewardClaimedState": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetRewardTrackRewardClaimedState": [
       "truth",
@@ -8617,7 +8617,7 @@
       "truth"
     ],
     "GetRewardType": [
-      "number"
+      "nothing"
     ],
     "GetRidingStats": [
       "number",
@@ -8658,16 +8658,16 @@
       "number"
     ],
     "GetRunesForItemIdIfKnown": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetRunestoneSoundInfo": [
       "word",
       "number"
     ],
     "GetRunestoneTranslatedName": [
-      "word"
+      "nothing"
     ],
     "GetSCTCloudAnimationOverlapPercent": [
       "number"
@@ -8852,19 +8852,19 @@
       "number"
     ],
     "GetSelectedDiggingActiveSkill": [
-      "number"
+      "nothing"
     ],
     "GetSelectedGuildBankId": [
-      "number"
+      "nothing"
     ],
     "GetSelectedLFGRole": [
       "number"
     ],
     "GetSelectedTradingHouseGuildId": [
-      "number"
+      "nothing"
     ],
     "GetSelectionCampaignAllianceLockConflictingCharacterName": [
-      "word"
+      "nothing"
     ],
     "GetSelectionCampaignAllianceLockReason": [
       "number"
@@ -8935,7 +8935,7 @@
       "truth",
       "truth",
       "truth",
-      "number",
+      "nothing",
       "number"
     ],
     "GetSkillAbilityLineRankNeededToUnlock": [
@@ -8944,11 +8944,11 @@
     "GetSkillAbilityNextUpgradeInfo": [
       "word",
       "word",
-      "number"
+      "nothing"
     ],
     "GetSkillAbilityUpgradeInfo": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetSkillBuildEntryInfo": [
       "number",
@@ -9028,8 +9028,8 @@
       "number"
     ],
     "GetSkillLineRankXPExtents": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetSkillLineUnlockTextById": [
       "word"
@@ -9106,10 +9106,10 @@
       "number"
     ],
     "GetSlotItemCount": [
-      "number"
+      "nothing"
     ],
     "GetSlotItemDisplayQuality": [
-      "number"
+      "nothing"
     ],
     "GetSlotItemLink": [
       "word"
@@ -9178,13 +9178,13 @@
       "number"
     ],
     "GetSmithingPatternInfoForItemId": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetSmithingPatternInfoForItemSet": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetSmithingPatternMaterialItemInfo": [
       "word",
@@ -9207,7 +9207,7 @@
       "word"
     ],
     "GetSmithingRefinedItemId": [
-      "number"
+      "nothing"
     ],
     "GetSmithingRefinementMaxRawMaterial": [
       "number"
@@ -9232,14 +9232,14 @@
       "truth"
     ],
     "GetSmithingResearchLineTraitTimes": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetSmithingStationItemSetIdFromItem": [
       "number"
     ],
     "GetSmithingTraitItemInfo": [
-      "number",
+      "nothing",
       "word",
       "word",
       "number",
@@ -9368,8 +9368,8 @@
       "number"
     ],
     "GetSubclassingHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetSubclassingQuestId": [
       "number"
@@ -9445,7 +9445,7 @@
       "number"
     ],
     "GetTelvarStoneMultiplierThresholdIndex": [
-      "number"
+      "nothing"
     ],
     "GetTelvarStonePercentLossOnNonPvpDeath": [
       "number"
@@ -9648,7 +9648,7 @@
       "number"
     ],
     "GetTrackedTimedActivityInfo": [
-      "number",
+      "nothing",
       "number"
     ],
     "GetTrackedZoneStoryActivityInfo": [
@@ -9665,8 +9665,8 @@
       "word"
     ],
     "GetTradeItemBagAndSlot": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetTradeItemBoPTimeRemainingSeconds": [
       "number"
@@ -10059,7 +10059,7 @@
       "number"
     ],
     "GetTributeRemainingTimeForTurn": [
-      "number"
+      "nothing"
     ],
     "GetTributeRequiredCollectibleId": [
       "number"
@@ -10089,14 +10089,14 @@
       "number"
     ],
     "GetTutorialLinkedHelpInfo": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetTutorialTrigger": [
-      "number"
+      "nothing"
     ],
     "GetTutorialType": [
-      "number"
+      "nothing"
     ],
     "GetUIPlatform": [
       "number"
@@ -10117,9 +10117,9 @@
       "number"
     ],
     "GetUnitAttributeVisualizerEffectInfo": [
-      "number",
-      "number",
-      "number"
+      "nothing",
+      "nothing",
+      "nothing"
     ],
     "GetUnitAvARank": [
       "number",
@@ -10129,7 +10129,7 @@
       "number"
     ],
     "GetUnitBankAccessBag": [
-      "number"
+      "nothing"
     ],
     "GetUnitBattleLevel": [
       "number"
@@ -10216,7 +10216,7 @@
       "number"
     ],
     "GetUnitPowerInfo": [
-      "number",
+      "nothing",
       "number",
       "number",
       "number"
@@ -10278,7 +10278,7 @@
       "word"
     ],
     "GetUnitZoneIndex": [
-      "number"
+      "nothing"
     ],
     "GetUniversalStyleId": [
       "number"
@@ -10290,14 +10290,14 @@
       "number"
     ],
     "GetUpcomingLevelUpRewardLevel": [
-      "number"
+      "nothing"
     ],
     "GetUpdatedRecipeIndices": [
       "number",
       "number"
     ],
     "GetUpgradeSkillHighestRankAvailableAtSkillLineRank": [
-      "number"
+      "nothing"
     ],
     "GetValidItemStyleId": [
       "number"
@@ -10442,7 +10442,7 @@
       "number"
     ],
     "GetZoneIndexByMapId": [
-      "number"
+      "nothing"
     ],
     "GetZoneNameById": [
       "word"
@@ -10454,8 +10454,8 @@
       "number"
     ],
     "GetZoneStoriesHelpIndices": [
-      "number",
-      "number"
+      "nothing",
+      "nothing"
     ],
     "GetZoneStoryActivityNameByActivityId": [
       "word"
@@ -10500,7 +10500,7 @@
       "truth"
     ],
     "GuildFinderRequestSearch": [
-      "number"
+      "nothing"
     ],
     "GuildInvite": [
       "truth"
@@ -10868,7 +10868,7 @@
       "number"
     ],
     "HousingEditorGetSelectedFurnitureId": [
-      "number"
+      "nothing"
     ],
     "HousingEditorGetSelectedFurniturePathConformToGround": [
       "truth"
@@ -10920,7 +10920,7 @@
     ],
     "HousingEditorGetTargetInfo": [
       "number",
-      "number"
+      "nothing"
     ],
     "HousingEditorHasSelectablePathNode": [
       "truth"
@@ -11093,7 +11093,7 @@
       "truth"
     ],
     "IsAbilityDurationToggled": [
-      "truth"
+      "nothing"
     ],
     "IsAbilityPassive": [
       "truth"
@@ -12558,7 +12558,7 @@
     "MarkEULAAsViewed": [],
     "MarkPromotionalEventPersonalCampaignLeaveIntroPromptShown": [],
     "MatchTradingHouseItemNames": [
-      "number"
+      "nothing"
     ],
     "MeetsAntiquityRequirementsForScrying": [
       "number"
@@ -12652,7 +12652,7 @@
     "RefreshSettings": [],
     "RegisterForAssignedCampaignData": [],
     "RegisterForGroupAddOnDataBroadcastAuthKey": [
-      "number",
+      "nothing",
       "word"
     ],
     "RejectFriendRequest": [],
@@ -12720,7 +12720,7 @@
     "RequestExpiringMarketCurrencyInfo": [],
     "RequestFriend": [],
     "RequestGroupFinderSearch": [
-      "number"
+      "nothing"
     ],
     "RequestGuildFinderAccountApplications": [
       "truth"
@@ -12732,12 +12732,12 @@
       "number"
     ],
     "RequestHouseToursSearch": [
-      "number"
+      "nothing"
     ],
     "RequestItemReconstruction": [],
     "RequestItemTraitChange": [],
     "RequestJournalQuestConditionAssistance": [
-      "number"
+      "nothing"
     ],
     "RequestJumpToHouse": [],
     "RequestJumpToHousePreviewWithTemplate": [],
@@ -13295,7 +13295,7 @@
       "truth"
     ],
     "WasRaidSuccessful": [
-      "truth"
+      "nothing"
     ],
     "WhatIsVisualSlotShowing": [
       "number"
@@ -13322,7 +13322,7 @@
     ],
     "WouldProcessMapClick": [
       "truth",
-      "number"
+      "nothing"
     ],
     "ZoGetOfficialGameLanguage": [
       "number"
