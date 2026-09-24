@@ -4,8 +4,9 @@ export const googleDrive = {
   id: "01a05bec-fc09-7a61-8e09-909bc24a66c2",
   type: "page-type/domain",
   slug: "google-drive",
-  definition: "reading a file out of Alan's Google Drive",
+  definition: "the files in Alan's Google Drive",
   parts: [
+    "domain/google-drive-service",
     "module/drive-auth",
     "module/drive-client",
     "module/drive-credentials",
@@ -15,7 +16,7 @@ export const googleDrive = {
   decisions: [
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here writes to Drive.",
+      statement: "Nothing here writes to Google Drive.",
     },
   ],
 } as const satisfies Domain
