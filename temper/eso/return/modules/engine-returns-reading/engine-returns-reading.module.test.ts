@@ -45,9 +45,10 @@ describe("returnKindOf", () => {
     expect(returnKindOf("number")).toBe("number")
   })
 
-  test("keeps the kind a return that may be absent has when it is there", () => {
-    expect(returnKindOf("string | undefined")).toBe("word")
-    expect(returnKindOf("boolean | undefined")).toBe("truth")
+  test("names nothing for a return that may be absent, because a stepping function ends that way", () => {
+    expect(returnKindOf("string | undefined")).toBe("nothing")
+    expect(returnKindOf("number | undefined")).toBe("nothing")
+    expect(returnKindOf("Id64 | undefined")).toBe("nothing")
   })
 })
 
@@ -67,7 +68,7 @@ describe("engineReturnsIn", () => {
   })
 
   test("keeps every return in the order the documentation names them", () => {
-    expect(engineReturnsIn(DOC).returns.GetItemOwner).toEqual(["nothing", "word"])
+    expect(engineReturnsIn(DOC).returns.GetItemOwner).toEqual(["nothing", "nothing"])
     expect(engineReturnsIn(DOC).returns.GetItemType).toEqual(["number", "number"])
   })
 

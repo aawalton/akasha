@@ -10,6 +10,8 @@ export type ReturnKind = "number" | "word" | "truth" | "nothing"
 
 const NUMBER: ReturnKind = "number"
 
+const NOTHING: ReturnKind = "nothing"
+
 const KINDS: Readonly<Record<string, ReturnKind>> = {
   boolean: "truth",
   string: "word",
@@ -23,8 +25,8 @@ export interface EngineReturns {
 }
 
 export function returnKindOf(type: string): ReturnKind {
-  const bare = type.endsWith(OR_NOTHING) ? type.slice(0, -OR_NOTHING.length) : type
-  return KINDS[bare] ?? NUMBER
+  if (type.endsWith(OR_NOTHING)) return NOTHING
+  return KINDS[type] ?? NUMBER
 }
 
 export function apiVersionIn(doc: string): number {

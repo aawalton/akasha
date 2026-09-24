@@ -22,7 +22,8 @@ export const engineReturnsReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A return that may be absent keeps the kind it has when it is there.",
+      statement:
+        "A return that may be absent is nothing, because a stepping function ends that way.",
     },
     {
       decisionKind: "decision-kind/departure",
