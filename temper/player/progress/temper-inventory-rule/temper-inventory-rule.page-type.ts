@@ -13,6 +13,7 @@ export const temperInventoryRule = {
     "page-property-entry/destination-chain",
     "relation-property/from-template",
     "text-property/char-eligibility",
+    "boolean-property/craft-shortfall",
   ],
   properties: [
     { pageProperty: "relation-property/account-page", required: true, many: false },
@@ -24,6 +25,7 @@ export const temperInventoryRule = {
     { pageProperty: "relation-property/from-template", required: false, many: false },
     { pageProperty: "page-property-entry/destination-chain", required: false, many: false },
     { pageProperty: "relation-property/item-category", required: true, many: false },
+    { pageProperty: "boolean-property/craft-shortfall", required: false, many: false },
   ],
   decisions: [
     {
