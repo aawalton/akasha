@@ -175,7 +175,7 @@ export const day = {
       many: false,
       default: "jsonl",
     },
-    { pageProperty: "page-property-entry/listens", required: false, many: false },
+    { pageProperty: "page-property-entry/listens", required: false, many: false, default: "jsonl" },
     { pageProperty: "number-property/lowest-email-inbox-count", required: false, many: false },
     {
       pageProperty: "page-property-entry/location-traces",
