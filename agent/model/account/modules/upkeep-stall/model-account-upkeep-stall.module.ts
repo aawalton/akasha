@@ -4,7 +4,7 @@ export const modelAccountUpkeepStall = {
   id: "01a0686a-6c02-7000-aab4-ab51e35ecc88",
   type: "page-type/module",
   slug: "model-account-upkeep-stall",
-  definition: "how far behind the upkeep an account has fallen",
+  definition: "whether code writes a new credential and new values for a model account in time",
   code: "ts",
   test: "ts",
   decisions: [
