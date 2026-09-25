@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"max-level.computed-property.code.ts","path":"story/world/characters/properties/max-level.computed-property.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"max-level.computed-property.types.ts","path":"story/world/characters/properties/max-level.computed-property.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"max-level.computed-property.types.ts","path":"story/world/characters/world-character.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
+{"propertySlug":"parts","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}

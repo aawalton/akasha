@@ -5,7 +5,7 @@ import type { CharacterClaims } from "akasha/story/world/characters/properties/c
 import type { EventCount } from "akasha/story/world/characters/properties/event-count.number-property.types.ts"
 import type { FirstChapter } from "akasha/story/world/characters/properties/first-chapter.number-property.types.ts"
 import type { LastChapter } from "akasha/story/world/characters/properties/last-chapter.number-property.types.ts"
-import type { MaxLevel } from "akasha/story/world/characters/properties/max-level.number-property.types.ts"
+import type { MaxLevel } from "akasha/story/world/characters/properties/max-level.computed-property.types.ts"
 import type { MergedInto } from "akasha/story/world/characters/properties/merged-into.relation-property.types.ts"
 import type { AppearanceCount } from "akasha/story/world/properties/appearance-count.number-property.types.ts"
 import type { World } from "akasha/story/world/stories/played/properties/world.relation-property.types.ts"
