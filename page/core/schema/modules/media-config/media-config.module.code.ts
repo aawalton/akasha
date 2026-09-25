@@ -26,5 +26,3 @@ export const mediaConfigSchema = z
     image: imageMediaConfigSchema.optional(),
   })
   .strict()
-
-export type MediaConfig = z.infer<typeof mediaConfigSchema>

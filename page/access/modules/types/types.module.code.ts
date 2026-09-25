@@ -26,6 +26,4 @@ export type JsonPatchOp =
   | { op: "remove"; path: string }
 export type JsonPatch = readonly JsonPatchOp[]
 
-export type Value = string | number | boolean | readonly string[]
-
 export type QueryRow = { readonly at?: string; readonly values: Record<string, unknown> }
