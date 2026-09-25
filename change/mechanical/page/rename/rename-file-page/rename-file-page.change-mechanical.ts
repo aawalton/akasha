@@ -169,7 +169,7 @@ export const renameFilePage = {
       statement: "Every part of such a file that is there is moved rather than the first alone.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "One module reads the files beside a page both here and in the move of a page.",
     },
     {

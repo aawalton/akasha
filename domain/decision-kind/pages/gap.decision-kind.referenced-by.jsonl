@@ -16,7 +16,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/readout/readout.page-type.ts","id":"01a05446-e760-7cb2-848b-4fcfc7ed45d4"}
 {"propertySlug":"decision-kind","path":"alan/harness/stoplight/alan-harness-stoplight.domain.ts","id":"01a0655b-9cdd-7169-bede-e916a8a6bd42"}
 {"propertySlug":"decision-kind","path":"alan/web/modules/content-pages-fs/content-pages-fs.module.ts","id":"01a0655d-daa6-7fba-9667-d8a69380ce58"}
-{"propertySlug":"decision-kind","path":"change/mechanical/page/rename/rename-file-page/rename-file-page.change-mechanical.ts","id":"01a08239-8d1d-7b49-a5c2-fc039de37378"}
 {"propertySlug":"decision-kind","path":"check/code/pages/no-unparsed-boundary-read/no-unparsed-boundary-read.check-code.ts","id":"01a0827e-df53-7d03-80a4-b3305001f92e"}
 {"propertySlug":"decision-kind","path":"code/editor/extension/modules/seat-terminal-open-line/seat-terminal-open-line.module.ts","id":"01a09c58-2398-7392-b878-1c1491cab780"}
 {"propertySlug":"decision-kind","path":"code/ios-program/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts","id":"01a0590a-0b37-799f-8e3f-cb30189db988"}
