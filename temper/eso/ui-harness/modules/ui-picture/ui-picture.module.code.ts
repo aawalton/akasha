@@ -28,6 +28,8 @@ const CT_BUTTON = DRAWN.CT_BUTTON
 
 const CT_BACKDROP = DRAWN.CT_BACKDROP
 
+const CT_EDITBOX = DRAWN.CT_EDITBOX
+
 const SCREEN_WIDTH = 1920
 
 const SCREEN_HEIGHT = 1080
@@ -306,7 +308,11 @@ function boxHtml(one: Shown, options: UiPictureOptions): string {
       wide > 0 ? `box-shadow:inset 0 0 0 ${wide}px ${asCss(one.edgeColor ?? UNTINTED)};` : ""
     return `<div class="c"${told} style="${place}${fade}background:${middle};${edge}"></div>`
   }
-  if (one.controlType === CT_LABEL || one.controlType === CT_BUTTON) {
+  if (
+    one.controlType === CT_LABEL ||
+    one.controlType === CT_BUTTON ||
+    one.controlType === CT_EDITBOX
+  ) {
     const face = fontOf(one.font, options)
     const ink = asCss(one.color ?? INK)
     const shadow = face.shadow === "" ? "" : `text-shadow:${face.shadow};`

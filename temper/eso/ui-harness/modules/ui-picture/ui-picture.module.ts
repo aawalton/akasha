@@ -131,6 +131,10 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An edit box is drawn with the text it holds, as a label is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A link or an underline the markup wraps is drawn as the words it wraps.",
     },
     {
