@@ -186,7 +186,7 @@ export const page = {
       statement: "Loading a page's file declares that page's value and runs no code.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A page file that runs code beyond the value declaration does not land.",
     },
     {
