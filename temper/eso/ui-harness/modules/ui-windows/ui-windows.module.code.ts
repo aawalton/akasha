@@ -245,6 +245,29 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     `
   ),
   ownWindow(
+    "location-tooltip-gamepad",
+    "TemperItems",
+    "ZO_GamepadTooltipTopLevelLeftTooltipContainer",
+    `
+      local tooltip = GAMEPAD_TOOLTIPS:GetTooltip(GAMEPAD_LEFT_TOOLTIP)
+      local function temperLine(control)
+        if control:GetType() == CT_LABEL and not control:IsHidden()
+          and string.find(tostring(control:GetText()), " x %d") then return true end
+        for at = 1, control:GetNumChildren() do
+          if temperLine(control:GetChild(at)) then return true end
+        end
+        return false
+      end
+      for slot = 0, GetBagSize(BAG_BACKPACK) - 1 do
+        if HasItemInSlot(BAG_BACKPACK, slot)
+          and pcall(GAMEPAD_TOOLTIPS.LayoutBagItem, GAMEPAD_TOOLTIPS, GAMEPAD_LEFT_TOOLTIP, BAG_BACKPACK, slot)
+          and temperLine(tooltip) then break end
+      end
+      ZO_GamepadTooltipTopLevel:SetHidden(false)
+      GAMEPAD_TOOLTIPS:GetTooltipContainer(GAMEPAD_LEFT_TOOLTIP):SetHidden(false)
+    `
+  ),
+  ownWindow(
     "guild-sales",
     "TemperItems",
     "TemperItemsSalesHistoryStatusWindow",

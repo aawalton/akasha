@@ -61,6 +61,10 @@ export const uiWindows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A gamepad tooltip is laid out through the game's own gamepad tooltips.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A window seeds its own addon's saved variables unless it says otherwise.",
     },
     {
