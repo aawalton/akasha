@@ -44,15 +44,13 @@ const READOUT_GROUP = "01a05446-e75e-7657-acda-566edc2b182e"
 
 const CLAUDE_ACCOUNT = "01a054d8-1d38-788f-a073-7cf3603acd3f"
 
-const INBOX_GROUP = "inboxes"
+const INBOX_SECTION = "inbox"
 
-const UPKEEP_GROUP = "upkeep"
+const UPKEEP_SECTION = "upkeep"
 
-const ATTRIBUTES_GROUP = "attributes"
+const ATTRIBUTES_SECTION = "attributes"
 
-const LUCK_GROUP = "luck"
-
-const WORKSTATION_GROUP = "workstation"
+const WORKSTATION_SECTION = "workstation"
 
 const PROCESSOR_KEY = "processor"
 
@@ -62,7 +60,14 @@ const WIRE_KEY = "wireKey"
 
 const WIRE_KEY_NAME = "wireKeyName"
 
-const GROUPS: readonly string[] = [INBOX_GROUP, UPKEEP_GROUP, ATTRIBUTES_GROUP, LUCK_GROUP]
+const STATUS_BAR_SECTION = "statusBarSection"
+
+type Group = {
+  readonly slug: string
+  readonly section: string
+  readonly wireKeyName: string | null
+  readonly figureOffScale: boolean
+}
 
 type Held = {
   readonly at: string
@@ -91,50 +96,51 @@ export function watchedFoldersIn(root: string): readonly string[] {
   return [...found].sort()
 }
 
-function stoplightsByGroup(
-  root: string,
-  rows: readonly Values[]
-): ReadonlyMap<string, readonly Stoplight[]> {
+function rungsByScale(root: string): ReadonlyMap<string, readonly Rung[]> {
   const rungsBy = new Map<string, readonly Rung[]>()
   for (const one of heldOfType(root, READOUT_SCALE)) {
     const slug = textAt(one.values, "slug")
     if (slug !== null) rungsBy.set(slug, rungsIn(one.values))
   }
-
-  const offScale = new Set<string>()
-  const keyNames = new Map<string, string>()
-  for (const one of heldOfType(root, READOUT_GROUP)) {
-    const slug = textAt(one.values, "slug")
-    if (slug === null) continue
-    if (one.values.figureOffScale === true) offScale.add(slug)
-    const wireKeyName = textAt(one.values, WIRE_KEY_NAME)
-    if (wireKeyName !== null) keyNames.set(slug, wireKeyName)
-  }
-
-  const held = new Map<string, readonly Stoplight[]>()
-  for (const groupSlug of GROUPS) {
-    const wireKeyName = keyNames.get(groupSlug)
-    if (wireKeyName === undefined) continue
-    const figureOffScale = offScale.has(groupSlug)
-    const found: Stoplight[] = []
-    for (const row of inPlaceOrder(rows.filter((one) => namesGroup(one, groupSlug)))) {
-      if (stilled(row)) continue
-      const named = textAt(row, "scale")
-      const scaleSlug = named === null ? null : slugOf(named)
-      const rungs = scaleSlug === null ? [] : (rungsBy.get(scaleSlug) ?? [])
-      const one = stoplightWith(row, rungs, wireKeyName, readingHeldOn)
-      if (one !== null) found.push(figureOffScale ? { ...one, figureOffScale } : one)
-    }
-    held.set(groupSlug, found)
-  }
-  return held
+  return rungsBy
 }
 
-function sectionOf(
-  held: ReadonlyMap<string, readonly Stoplight[]>,
-  groupSlugs: readonly string[]
-): StatusBarStoplights | null {
-  const stoplights = groupSlugs.flatMap((groupSlug) => held.get(groupSlug) ?? [])
+function groupsIn(root: string): readonly Group[] {
+  const groups: Group[] = []
+  for (const one of heldOfType(root, READOUT_GROUP)) {
+    const slug = textAt(one.values, "slug")
+    const section = textAt(one.values, STATUS_BAR_SECTION)
+    if (slug === null || section === null) continue
+    groups.push({
+      slug,
+      section,
+      wireKeyName: textAt(one.values, WIRE_KEY_NAME),
+      figureOffScale: one.values.figureOffScale === true,
+    })
+  }
+  return groups.sort((one, two) => one.slug.localeCompare(two.slug))
+}
+
+function stoplightsIn(
+  group: Group,
+  rows: readonly Values[],
+  rungsBy: ReadonlyMap<string, readonly Rung[]>
+): readonly Stoplight[] {
+  const { wireKeyName, figureOffScale } = group
+  if (wireKeyName === null) return []
+  const found: Stoplight[] = []
+  for (const row of inPlaceOrder(rows.filter((one) => namesGroup(one, group.slug)))) {
+    if (stilled(row)) continue
+    const named = textAt(row, "scale")
+    const scaleSlug = named === null ? null : slugOf(named)
+    const rungs = scaleSlug === null ? [] : (rungsBy.get(scaleSlug) ?? [])
+    const one = stoplightWith(row, rungs, wireKeyName, readingHeldOn)
+    if (one !== null) found.push(figureOffScale ? { ...one, figureOffScale } : one)
+  }
+  return found
+}
+
+function sectionOf(stoplights: readonly Stoplight[]): StatusBarStoplights | null {
   if (stoplights.length === 0) return null
   return { glyphs: glyphsOf(stoplights), legend: legendOf(stoplights) }
 }
@@ -146,8 +152,7 @@ function figureHeldOn(rows: readonly Values[], wireKey: string): number | null {
   return held.held === "fresh" ? held.value : null
 }
 
-function workstationNow(rows: readonly Values[]): WorkstationReading | null {
-  const here = rows.filter((one) => namesGroup(one, WORKSTATION_GROUP))
+function workstationNow(here: readonly Values[]): WorkstationReading | null {
   return workstationReadingOf(figureHeldOn(here, PROCESSOR_KEY), figureHeldOn(here, MEMORY_KEY))
 }
 
@@ -162,12 +167,19 @@ function usageNow(): UsageReading | null {
 
 export function statusBarLine(root: string): string {
   const rows = heldOfType(root, READOUT).map((one) => one.values)
-  const held = stoplightsByGroup(root, rows)
+  const groups = groupsIn(root)
+  const rungsBy = rungsByScale(root)
+  const inSection = (section: string): readonly Group[] =>
+    groups.filter((one) => one.section === section)
+  const drawn = (section: string): StatusBarStoplights | null =>
+    sectionOf(inSection(section).flatMap((group) => stoplightsIn(group, rows, rungsBy)))
+  const working = inSection(WORKSTATION_SECTION)
+  const workstationRows = rows.filter((row) => working.some((one) => namesGroup(row, one.slug)))
   return JSON.stringify({
-    workstation: workstationNow(rows),
+    workstation: workstationNow(workstationRows),
     usage: usageNow(),
-    inbox: sectionOf(held, [INBOX_GROUP]),
-    upkeep: sectionOf(held, [UPKEEP_GROUP]),
-    attributes: sectionOf(held, [ATTRIBUTES_GROUP, LUCK_GROUP]),
+    inbox: drawn(INBOX_SECTION),
+    upkeep: drawn(UPKEEP_SECTION),
+    attributes: drawn(ATTRIBUTES_SECTION),
   } satisfies StatusBarState)
 }

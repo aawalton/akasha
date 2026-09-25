@@ -26,6 +26,10 @@ export const statusBarComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each section draws the groups whose pages state that section.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A readout's reading is read off the file beside that readout's page.",
     },
     {
