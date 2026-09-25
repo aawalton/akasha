@@ -25,17 +25,5 @@ export const watcherPricingTables = {
       decisionKind: "decision-kind/departure",
       statement: "A caller may hand in the log the words go to.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The rates come from the currency price lookup the pricing package has.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The costs come from the crown consumable price lookup that package has.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A crown consumable with no price is left out rather than valued at nothing.",
-    },
   ],
 } as const satisfies Module
