@@ -9,7 +9,6 @@ export const temperWatcherEnrolment = {
   parts: [
     "instant-property/token-created-at",
     "instant-property/token-last-used-at",
-    "text-property/last-run-outcome",
     "text-property/token",
     "text-property/token-hash",
     "text-property/token-name",
@@ -25,12 +24,6 @@ export const temperWatcherEnrolment = {
     { pageProperty: "text-property/token", required: false, many: false, secret: true },
     {
       pageProperty: "instant-property/token-last-used-at",
-      required: false,
-      many: false,
-      uncommitted: true,
-    },
-    {
-      pageProperty: "text-property/last-run-outcome",
       required: false,
       many: false,
       uncommitted: true,

@@ -1,4 +1,3 @@
-import type { LastRunOutcome } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/last-run-outcome.text-property.types.ts"
 import type { ReportedAt } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/reported-at.instant-property.types.ts"
 import type { Token } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/token.text-property.types.ts"
 import type { TokenCreatedAt } from "akasha/temper/player/progress/temper-watcher-enrolment/properties/token-created-at.instant-property.types.ts"
@@ -17,7 +16,6 @@ export type TemperWatcherEnrolment = TemperProgressThing & {
   tokenCreatedAt: TokenCreatedAt
   token?: Token
   tokenLastUsedAt?: TokenLastUsedAt
-  lastRunOutcome?: LastRunOutcome
   watcherVersion?: WatcherVersion
   reportedAt?: ReportedAt
   operations?: WatcherOperations

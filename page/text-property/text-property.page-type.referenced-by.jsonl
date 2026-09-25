@@ -618,7 +618,6 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/properties/full-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/condition-value.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/destination.text-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/last-run-outcome.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-hash.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/properties/token.text-property.ts","typed":true,"deferred":false}
