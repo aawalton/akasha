@@ -5,6 +5,10 @@ export const modelFamily = {
   type: "page-type/page-type",
   slug: "model-family",
   definition: "a set of model versions under a name",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "model family" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "model families" },
+  ],
   parts: [
     "model-family/fable",
     "model-family/haiku",
