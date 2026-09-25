@@ -4,7 +4,8 @@ export const oauthHealthLines = {
   id: "01a069c1-1f42-7000-8bec-ad0f2db95abc",
   type: "page-type/module",
   slug: "oauth-health-lines",
-  definition: "the console lines saying an account's OAuth refresh went terminal or came back",
+  definition:
+    "the messages a process writes when a registration account's credential failure starts or stops",
   code: "ts",
   decisions: [
     {
