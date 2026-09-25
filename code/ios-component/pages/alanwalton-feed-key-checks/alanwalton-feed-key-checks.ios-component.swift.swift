@@ -29,6 +29,50 @@ enum FeedKeyChecks {
         return (try? JSONDecoder().decode(CostResponse.self, from: sent))?.cost
     }
 
+    static let SAFE =
+        #"{"stoplights":[{"habit":"safety","label":"Safety","unit":"levels","tier":"yellow","#
+        + #""reading":"2.5","nextTier":"green","progress":0.5,"figureOffScale":true}]}"#
+
+    static func safety() -> FeedState<SafetyLevelResponse> {
+        guard let payload = try? JSONDecoder().decode(SafetyLevelResponse.self, from: Data(SAFE.utf8))
+        else { return .neverLoaded }
+        return .loaded(payload)
+    }
+
+    static func freshness(_ body: String) -> FreshnessReadout? {
+        try? JSONDecoder().decode(FreshnessReadout.self, from: Data(body.utf8))
+    }
+
+    // THE FRESHNESS TILE READS THE PHONE'S OWN STORE, SO ITS BODY IS THE ONE A HARNESS HANDS IT.
+    static func tiles() -> [(String, Bool, String)] {
+        let safe = safetyReading(safety())
+        let fresh = freshness(
+            #"{"stalestSecondsAgo":2730,"stalestName":"attribute-stoplights","tiles":8}"#)
+        let neverRead = freshness(#"{"stalestSecondsAgo":null,"stalestName":null,"tiles":0}"#)
+        return [
+            (
+                "a safety level with a reading decodes to its figure, its color and its caption",
+                safe?.reading == "2.5" && safe?.tier == .yellow && safe?.nextTier == .green
+                    && safe?.progress == 0.5 && safe?.unit == "levels"
+                    && safe?.figureOffScale == true && safetyCaption(safety()) == "Safety"
+                    && !safetyNoSignal(safety()),
+                String(describing: safe)
+            ),
+            (
+                "a freshness body decodes to its age, its name and its count",
+                fresh?.stalestSecondsAgo == 2730 && fresh?.stalestName == "attribute-stoplights"
+                    && fresh?.tiles == 8,
+                String(describing: fresh)
+            ),
+            (
+                "a freshness body no feed has answered decodes with no age and no name",
+                neverRead != nil && neverRead?.stalestSecondsAgo == nil
+                    && neverRead?.stalestName == nil && neverRead?.tiles == 0,
+                String(describing: neverRead)
+            ),
+        ]
+    }
+
     static func run() -> [(String, Bool, String)] {
         let attribute = (try? JSONDecoder().decode(
             AttributeStoplightsResponse.self, from: falling("attribute")))?.stoplights.first

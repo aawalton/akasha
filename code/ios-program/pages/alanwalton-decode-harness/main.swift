@@ -317,6 +317,8 @@ check(
 
 for (name, held, saw) in FeedKeyChecks.run() { check(name, held, saw) }
 
+for (name, held, saw) in FeedKeyChecks.tiles() { check(name, held, saw) }
+
 // A LIGHT NOTHING COULD BE READ FOR IS SENT BLACK, WITH AN EMPTY FIGURE AND `readingHeld`.
 func unheldBody(_ key: String, held: String = NO_READING_HELD) -> String {
     #"{"stoplights":[{"\#(key)":"sleep","label":"Sleep","tier":"black","reading":"","readingHeld":"\#(held)"}]}"#

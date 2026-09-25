@@ -4,7 +4,7 @@ export const alanwaltonFeedKeyChecks = {
   id: "01a0d965-d94e-71b0-8b7f-7373442b9763",
   type: "page-type/ios-component",
   slug: "alanwalton-feed-key-checks",
-  definition: "what holds Alan's tiles to every key their feeds send",
+  definition: "what holds Alan's tiles to every key of the bodies they are handed",
   swift: "swift",
   decisions: [
     {
