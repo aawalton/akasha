@@ -30,7 +30,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/modules/deploy-choosing/deploy-choosing.module.ts","id":"01a09574-737c-78fd-b3ed-fc94c505577b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
-{"propertySlug":"decision-kind","path":"page/access/modules/capture-error/capture-error.module.ts","id":"01a05bd6-c529-7e1b-b455-c42e0f069da5"}
 {"propertySlug":"decision-kind","path":"page/build-folder-property/build-folder-property.page-type.ts","id":"01a081cd-5b5f-731e-95ed-0ea5ee3b352b"}
 {"propertySlug":"decision-kind","path":"page/core/property-type/modules/rrule-wording/rrule-wording.module.ts","id":"01a0c4f9-83fa-7dde-aee6-9ce457c3ea99"}
 {"propertySlug":"decision-kind","path":"page/file-property/file-property.page-type.ts","id":"01a04dff-9d7d-7487-9a08-2485e897542f"}

@@ -68,8 +68,8 @@ export const captureError = {
       statement: "A refusal from the pages is thrown rather than swallowed.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Two captures of one error arriving together leave the count short.",
+      decisionKind: "decision-kind/departure",
+      statement: "Two captures of one error arriving together are each counted.",
     },
   ],
 } as const satisfies Module
