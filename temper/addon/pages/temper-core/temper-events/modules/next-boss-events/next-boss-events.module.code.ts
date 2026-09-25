@@ -19,6 +19,7 @@ import {
   ZONE_IC_B,
 } from "akasha/temper/addon/pages/temper-core/temper-events/modules/next-boss-constants/next-boss-constants.module.code.ts"
 import { ICT } from "akasha/temper/addon/pages/temper-core/temper-events/modules/next-boss-state/next-boss-state.module.code.ts"
+import { colorTextsUnder } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-events/next-boss-declarations/next-boss-declarations.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -91,6 +92,7 @@ ICT.enable = function (this: void): undefined {
   EVENT_MANAGER.RegisterForEvent(ICT.name, EVENT_RETICLE_TARGET_CHANGED, ICT.onMonsterReticle)
   EVENT_MANAGER.RegisterForUpdate(UPDATE_LOOP_NAME, 1000, ICT.updateTimers)
   TemperNextBossTimeTable.SetWidth(tonumber(GetString(SI_TEMPER_NEXTBOSS_GUI_WIDTH)) ?? 0)
+  colorTextsUnder(TemperNextBossTimeTable)
   ICT.showTimetable()
   ICT.restoreTimers()
   ICT.running = true

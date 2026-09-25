@@ -24,5 +24,14 @@ export const nextBossLayout = {
       decisionKind: "decision-kind/departure",
       statement: "Dragging the window calls back into the tracker so the place is kept.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The timetable names districts as shadowed body text and times as shadowed numbers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The map labels sit in the game's own map scene, so they keep the game's font.",
+    },
   ],
 } as const satisfies EsoInterface
