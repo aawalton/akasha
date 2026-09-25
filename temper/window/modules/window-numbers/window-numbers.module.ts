@@ -42,6 +42,10 @@ export const windowNumbers = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A span measured in parts of a second is seconds to two decimals, then an s.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A rate such as frames a second or a delay is a count with its unit after a space.",
     },

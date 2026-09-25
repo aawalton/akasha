@@ -82,6 +82,10 @@ export function formatDuration(seconds: number): string {
   return `${twoDigits(minutes)}:${twoDigits(secs)}`
 }
 
+export function formatSeconds(seconds: number): string {
+  return `${trimmedZeros(string.format("%.2f", math.max(0, seconds)))} s`
+}
+
 export function formatRate(value: number, unit: string): string {
   return `${formatCount(math.max(0, value))} ${unit}`
 }

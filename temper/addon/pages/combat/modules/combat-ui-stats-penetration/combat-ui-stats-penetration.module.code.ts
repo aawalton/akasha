@@ -16,6 +16,10 @@ import {
   optionalNumberValue,
   type StatFormatEntry,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import {
+  formatCount,
+  formatPercent,
+} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-report/combat-string-ids-report.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
@@ -118,11 +122,10 @@ export function updatePenetrationRows(
       tooltiplines.push(string.format("<%s%2d.2k: %5.1f%%", color, penetration, sumdamageRatio))
     }
 
-    const averagePenetration = string.format(
-      "%d",
+    const averagePenetration = formatCount(
       zo_max(zo_round(effectiveSum / totalDamage), numberValue(avgvalues[`avg${statId}`]))
     )
-    const overPenetrationRatio = string.format("%.1f%%", (100 * overpen) / totalDamage)
+    const overPenetrationRatio = formatPercent(overpen / totalDamage)
 
     tooltiplines.push(" ")
     tooltiplines.push(
@@ -137,7 +140,7 @@ export function updatePenetrationRows(
 
     setChildText(row5, "Label", text5)
     setChildText(row5, "Value", averagePenetration)
-    setChildText(row5, "Value2", tostring(maxvalue))
+    setChildText(row5, "Value2", formatCount(maxvalue))
 
     const text6 = ZO_CachedStrFormat("<<1>>:", GetString(stringKey, 6))
 
@@ -159,10 +162,8 @@ export function updatePenetrationRows(
         optionalNumberValue(stats[`avg${dataKey}`]) ??
         0
 
-      const maxvalueText =
-        displayformat != null ? string.format(displayformat, maxvalue7) : tostring(maxvalue7)
-      const avgvalueText =
-        displayformat != null ? string.format(displayformat, avgvalue7) : tostring(avgvalue7)
+      const maxvalueText = (displayformat ?? formatCount)(maxvalue7)
+      const avgvalueText = (displayformat ?? formatCount)(avgvalue7)
 
       setChildText(row7, "Label", text7)
       setChildText(row7, "Value", avgvalueText)

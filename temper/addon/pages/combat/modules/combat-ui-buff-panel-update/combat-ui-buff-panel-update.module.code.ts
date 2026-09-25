@@ -13,6 +13,8 @@ import {
   effectColor,
   getBuffData,
   getTotalUnitTime,
+  pairedCounts,
+  pairedUptimes,
   type RowAnchor,
   updateBuffPanelLegacy,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
@@ -63,9 +65,6 @@ function addBuffPanelRow(
 ): LuaMultiReturn<[RowAnchor, BuffRowControl]> {
   const hideGroupValues =
     rowdata.count === rowdata.groupCount && rowdata.uptimeRatio === rowdata.groupUptimeRatio
-
-  const countFormat = hideGroupValues ? "%d" : "%d/%d"
-  const uptimeFormat = hideGroupValues ? "%d" : "%d/%d"
 
   const bars = panel.bars ?? []
   panel.bars = bars
@@ -124,12 +123,10 @@ function addBuffPanelRow(
   playerBarControl?.SetCenterColor(...rowdata.color)
   row
     .GetNamedChild<LabelControl>("Count")
-    ?.SetText(string.format(countFormat, rowdata.count, rowdata.groupCount))
+    ?.SetText(pairedCounts(rowdata.count, rowdata.groupCount, hideGroupValues))
   row
     .GetNamedChild<LabelControl>("Uptime")
-    ?.SetText(
-      string.format(uptimeFormat, rowdata.uptimeRatio * 100, rowdata.groupUptimeRatio * 100)
-    )
+    ?.SetText(pairedUptimes(rowdata.uptimeRatio, rowdata.groupUptimeRatio, hideGroupValues))
 
   row.GetNamedChild("IndicatorSwitch")?.SetHidden(!rowdata.hasDetails)
 

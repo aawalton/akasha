@@ -27,6 +27,7 @@ import {
   getUiSelectionData,
   type UISelections,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -44,6 +45,17 @@ export interface BuffRowControl extends SelectionRowControl {
 }
 
 export type RowAnchor = [number, Control, number, number, number]
+
+const PERCENT = 100
+
+export function pairedCounts(this: void, mine: number, group: number, mineOnly: boolean): string {
+  if (mineOnly) return formatCount(math.floor(mine))
+  return `${formatCount(math.floor(mine))}/${formatCount(math.floor(group))}`
+}
+
+export function pairedUptimes(this: void, mine: number, group: number, mineOnly: boolean): string {
+  return pairedCounts(mine * PERCENT, group * PERCENT, mineOnly)
+}
 
 export function effectColor(
   this: void,
@@ -248,9 +260,6 @@ export function updateBuffPanelLegacy(this: void, panel: BarsPanelControl): unde
 
     const hideGroupValues = count === groupCount && uptimeRatio === groupUptimeRatio
 
-    const countFormat = hideGroupValues ? "%d" : "%d/%d"
-    const uptimeFormat = hideGroupValues ? "%.0f" : "%.0f/%.0f"
-
     const bars = panel.bars ?? []
     panel.bars = bars
     const rowId = bars.length + 1
@@ -285,10 +294,12 @@ export function updateBuffPanelLegacy(this: void, panel: BarsPanelControl): unde
     const playerBarControl = row.GetNamedChild<BackdropControl>("PlayerBar")
     playerBarControl?.SetWidth(maxwidth * uptimeRatio)
     playerBarControl?.SetCenterColor(...color)
-    row.GetNamedChild<LabelControl>("Count")?.SetText(string.format(countFormat, count, groupCount))
+    row
+      .GetNamedChild<LabelControl>("Count")
+      ?.SetText(pairedCounts(count, groupCount, hideGroupValues))
     row
       .GetNamedChild<LabelControl>("Uptime")
-      ?.SetText(string.format(uptimeFormat, uptimeRatio * 100, groupUptimeRatio * 100))
+      ?.SetText(pairedUptimes(uptimeRatio, groupUptimeRatio, hideGroupValues))
 
     currentanchor = [TOPLEFT, row, BOTTOMLEFT, 0, getDx()]
 

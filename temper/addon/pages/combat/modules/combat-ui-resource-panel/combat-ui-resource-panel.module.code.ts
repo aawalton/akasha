@@ -20,6 +20,7 @@ import {
   getFightData,
   getSelections,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
+import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-05/eso-enums-05.type-declaration.d.ts"
@@ -96,8 +97,8 @@ function updateResourceBars(
     const barControl = row.GetNamedChild<BackdropControl>("Bar")
     barControl?.SetWidth(maxwidth * ratio)
     barControl?.SetCenterColor(...color)
-    row.GetNamedChild<LabelControl>("Count")?.SetText(tostring(count))
-    row.GetNamedChild<LabelControl>("Rate")?.SetText(string.format("%.0f", rate))
+    row.GetNamedChild<LabelControl>("Count")?.SetText(formatCount(count ?? 0))
+    row.GetNamedChild<LabelControl>("Rate")?.SetText(formatCount(rate))
 
     currentanchor = [TOPLEFT, row, BOTTOMLEFT, 0, getDx()]
 

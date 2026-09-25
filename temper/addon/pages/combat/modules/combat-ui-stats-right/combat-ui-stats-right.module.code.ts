@@ -23,6 +23,7 @@ import {
   getUiSelectionData,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import {
+  asStatCount,
   COUNT_STRINGS,
   optionalNumberValue,
   POWER_TYPE_LABELS,
@@ -30,6 +31,10 @@ import {
   STAT_KEYS_LEGACY,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 import { updatePenetrationRows } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts"
+import {
+  formatCount,
+  formatDecimal,
+} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox-additions/eso-sandbox-additions.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-report/combat-string-ids-report.type-declaration.d.ts"
@@ -77,20 +82,20 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
 
   const magickacontrol = panel.GetNamedChild("ResourceMagicka")
   if (magickacontrol != null) {
-    setChildText(magickacontrol, "Value", string.format("%.0f", magicka.gainRate ?? 0))
-    setChildText(magickacontrol, "Value2", string.format("%.0f", magicka.drainRate ?? 0))
+    setChildText(magickacontrol, "Value", formatCount(magicka.gainRate ?? 0))
+    setChildText(magickacontrol, "Value2", formatCount(magicka.drainRate ?? 0))
   }
 
   const staminacontrol = panel.GetNamedChild("ResourceStamina")
   if (staminacontrol != null) {
-    setChildText(staminacontrol, "Value", string.format("%.0f", stamina.gainRate ?? 0))
-    setChildText(staminacontrol, "Value2", string.format("%.0f", stamina.drainRate ?? 0))
+    setChildText(staminacontrol, "Value", formatCount(stamina.gainRate ?? 0))
+    setChildText(staminacontrol, "Value2", formatCount(stamina.drainRate ?? 0))
   }
 
   const ultimatecontrol = panel.GetNamedChild("ResourceUltimate")
   if (ultimatecontrol != null) {
-    setChildText(ultimatecontrol, "Value", string.format("%.2f", ultimate.gainRate ?? 0))
-    setChildText(ultimatecontrol, "Value2", string.format("%.2f", ultimate.drainRate ?? 0))
+    setChildText(ultimatecontrol, "Value", formatDecimal(ultimate.gainRate ?? 0))
+    setChildText(ultimatecontrol, "Value2", formatDecimal(ultimate.drainRate ?? 0))
   }
 
   const stringKey = `SI_TEMPER_COMBAT_STATS${POWER_TYPE_LABELS[powerType] ?? ""}`
@@ -129,8 +134,7 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
       if (dataKey === COMBAT_MECHANIC_FLAGS_HEALTH && i === 4) {
         maxvalueNum = maxvalueNum / 68
       }
-      const maxvalueText =
-        displayformat != null ? string.format(displayformat, maxvalueNum) : tostring(maxvalueNum)
+      const maxvalueText = (displayformat ?? asStatCount)(maxvalueNum)
 
       let avgvalue: number | string | undefined =
         statData?.[avgkey] ??
@@ -153,9 +157,7 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
         if (convert != null && convert !== false) {
           avgvalue = GetCriticalStrikeChance(avgvalue)
         }
-        if (displayformat != null) {
-          avgvalue = string.format(displayformat, avgvalue)
-        }
+        avgvalue = (displayformat ?? asStatCount)(avgvalue)
       }
 
       if (i === 4 && powerType !== COMBAT_MECHANIC_FLAGS_HEALTH) {
@@ -221,8 +223,7 @@ export function updateFightStatsPanelRight(this: void, panel: Control): undefine
             tooltiplines.push(string.format("<%s%2d%%: %5.1f%%", color, crit, sumdamageRatio))
           }
 
-          avgvalue = string.format(
-            displayformat ?? "",
+          avgvalue = (displayformat ?? asStatCount)(
             zo_max(effectiveSum / totalDamage, numberValue(avgvalues[`avg${dataKey}`]))
           )
 

@@ -15,6 +15,11 @@ import {
   resizeLiveReport,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"
 import { colorTextsUnder } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  formatCount,
+  formatDuration,
+  formatPercent,
+} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-panels/combat-controls-panels.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-ui-live-report-declarations/combat-ui-live-report-declarations.type-declaration.d.ts"
@@ -131,53 +136,27 @@ export function updateLiveReport(data?: CurrentData): undefined {
     groupSDPS = data.bossDPSOutGroup ?? 0
   }
 
-  let dpsString: string | number
-  let hpsString: string | number
-  let dpsInString: string | number
-  let sdpsString: string | number
-  const maxtime = zo_roundToNearest(zo_max(dpstime, hpstime), 0.1)
-  const timeString = string.format("%d:%04.1f", maxtime / 60, maxtime % 60)
+  const timeString = formatDuration(zo_max(dpstime, hpstime))
 
-  if (db.recordgrp === true && (groupDPSOut > 0 || groupDPSIn > 0 || groupHPSOut > 0)) {
-    let dpsratio = 0
-    let hpsratio = 0
-    let idpsratio = 0
-    let sdpsratio = 0
-    if (groupDPSOut > 0) {
-      dpsratio = zo_floor((dpsOut / groupDPSOut) * 1000) / 10
-    }
-    if (groupDPSIn > 0) {
-      idpsratio = zo_floor((dpsIn / groupDPSIn) * 1000) / 10
-    }
-    if (groupSDPS > 0) {
-      sdpsratio = zo_floor((sdps / groupSDPS) * 1000) / 10
-    }
-    if (groupHPSOut > 0) {
-      hpsratio = zo_floor((hpsOut / groupHPSOut) * 1000) / 10
-    }
+  const withGroup = db.recordgrp === true && (groupDPSOut > 0 || groupDPSIn > 0 || groupHPSOut > 0)
 
-    dpsString = zo_strformat(GetString(SI_TEMPER_COMBAT_SHOW_XPS), dpsOut, groupDPSOut, dpsratio)
-    dpsInString = zo_strformat(GetString(SI_TEMPER_COMBAT_SHOW_XPS), dpsIn, groupDPSIn, idpsratio)
-    hpsString = zo_strformat(GetString(SI_TEMPER_COMBAT_SHOW_XPS), hpsOut, groupHPSOut, hpsratio)
-    sdpsString = zo_strformat(GetString(SI_TEMPER_COMBAT_SHOW_XPS), sdps, groupSDPS, sdpsratio)
-  } else {
-    dpsString = dpsOut
-    dpsInString = dpsIn
-    hpsString = hpsOut
-    sdpsString = sdps
+  const figure = (mine: number, group: number): string => {
+    if (!withGroup) return formatCount(mine)
+    const share = group > 0 ? mine / group : 0
+    return `${formatCount(mine)} / ${formatCount(group)} (${formatPercent(share)})`
   }
 
-  const setLabel = (blockName: string, text: string | number): undefined => {
+  const setLabel = (blockName: string, text: string): undefined => {
     namedChild<LabelControl>(namedChild(livereport, blockName), "Label").SetText(text)
     return undefined
   }
 
-  setLabel("DamageOutSingle", sdpsString)
-  setLabel("DamageOut", dpsString)
-  setLabel("HealOut", hpsString)
-  setLabel("HealOutAbsolute", hpsaOut)
-  setLabel("DamageIn", dpsInString)
-  setLabel("HealIn", hpsIn)
+  setLabel("DamageOutSingle", figure(sdps, groupSDPS))
+  setLabel("DamageOut", figure(dpsOut, groupDPSOut))
+  setLabel("HealOut", figure(hpsOut, groupHPSOut))
+  setLabel("HealOutAbsolute", formatCount(hpsaOut))
+  setLabel("DamageIn", figure(dpsIn, groupDPSIn))
+  setLabel("HealIn", formatCount(hpsIn))
   setLabel("Time", timeString)
   return undefined
 }

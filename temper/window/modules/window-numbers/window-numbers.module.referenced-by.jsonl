@@ -1,5 +1,13 @@
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-analysis/combat-analysis.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-fight-list/combat-ui-fight-list.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-info-left/combat-ui-info-left.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-penetration/combat-ui-stats-penetration.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-numbers.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts","typed":false,"deferred":false}

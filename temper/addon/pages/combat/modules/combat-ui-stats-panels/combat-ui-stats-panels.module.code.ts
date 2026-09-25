@@ -71,30 +71,48 @@ export const STAT_KEYS_LEGACY: Record<number, string> = {
   [LIBCOMBAT_STAT_CRITICALRESISTANCE]: "critres",
 }
 
-export type StatFormatEntry = [dataKey: number, displayformat: string, convert?: boolean | string]
+export type StatFormatter = (this: void, value: number) => string
+
+export function asStatCount(this: void, value: number): string {
+  return formatCount(value)
+}
+
+export function asStatPercent(this: void, value: number): string {
+  return formatPercent(value / PERCENT)
+}
+
+function asStatBonus(this: void, value: number): string {
+  return `+${formatPercent(value / PERCENT)}`
+}
+
+export type StatFormatEntry = [
+  dataKey: number,
+  displayformat: StatFormatter,
+  convert?: boolean | string,
+]
 
 export const STAT_FORMAT: Record<number, StatFormatEntry[]> = {
   [COMBAT_MECHANIC_FLAGS_MAGICKA]: [
-    [LIBCOMBAT_STAT_MAXMAGICKA, "%d"],
-    [LIBCOMBAT_STAT_SPELLPOWER, "%d"],
-    [LIBCOMBAT_STAT_SPELLCRIT, "%.1f%%", true],
-    [LIBCOMBAT_STAT_SPELLCRITBONUS, "%.1f%%"],
-    [LIBCOMBAT_STAT_SPELLPENETRATION, "%d"],
-    [LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE, "+%.1f%%"],
+    [LIBCOMBAT_STAT_MAXMAGICKA, asStatCount],
+    [LIBCOMBAT_STAT_SPELLPOWER, asStatCount],
+    [LIBCOMBAT_STAT_SPELLCRIT, asStatPercent, true],
+    [LIBCOMBAT_STAT_SPELLCRITBONUS, asStatPercent],
+    [LIBCOMBAT_STAT_SPELLPENETRATION, asStatCount],
+    [LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE, asStatBonus],
   ],
   [COMBAT_MECHANIC_FLAGS_STAMINA]: [
-    [LIBCOMBAT_STAT_MAXSTAMINA, "%d"],
-    [LIBCOMBAT_STAT_WEAPONPOWER, "%d"],
-    [LIBCOMBAT_STAT_WEAPONCRIT, "%.1f%%", true],
-    [LIBCOMBAT_STAT_WEAPONCRITBONUS, "%.1f%%"],
-    [LIBCOMBAT_STAT_WEAPONPENETRATION, "%d"],
-    [LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE, "+%.1f%%"],
+    [LIBCOMBAT_STAT_MAXSTAMINA, asStatCount],
+    [LIBCOMBAT_STAT_WEAPONPOWER, asStatCount],
+    [LIBCOMBAT_STAT_WEAPONCRIT, asStatPercent, true],
+    [LIBCOMBAT_STAT_WEAPONCRITBONUS, asStatPercent],
+    [LIBCOMBAT_STAT_WEAPONPENETRATION, asStatCount],
+    [LIBCOMBAT_STAT_STATUS_EFFECT_CHANCE, asStatBonus],
   ],
   [COMBAT_MECHANIC_FLAGS_HEALTH]: [
-    [LIBCOMBAT_STAT_MAXHEALTH, "%d"],
-    [LIBCOMBAT_STAT_PHYSICALRESISTANCE, "%d"],
-    [LIBCOMBAT_STAT_SPELLRESISTANCE, "%d"],
-    [LIBCOMBAT_STAT_CRITICALRESISTANCE, "%d", "%.1f%%"],
+    [LIBCOMBAT_STAT_MAXHEALTH, asStatCount],
+    [LIBCOMBAT_STAT_PHYSICALRESISTANCE, asStatCount],
+    [LIBCOMBAT_STAT_SPELLRESISTANCE, asStatCount],
+    [LIBCOMBAT_STAT_CRITICALRESISTANCE, asStatCount, "%.1f%%"],
   ],
 }
 

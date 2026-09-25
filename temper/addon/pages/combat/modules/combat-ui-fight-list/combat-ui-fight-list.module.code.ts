@@ -33,6 +33,10 @@ import {
   type UpdatableControl,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import { DPS_STRINGS } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
+import {
+  formatCount,
+  formatDuration,
+} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-ui-state-declarations/combat-ui-state-declarations.type-declaration.d.ts"
@@ -173,20 +177,17 @@ function updateFightListPanel(
       issaved && "stringlog" in fight && fight.stringlog != null ? fight.stringlog : fight.log
     const logState = fightlog === true || (typeof fightlog === "object" && fightlog.length > 0)
 
-    let activetime = 1
     const category = db.FightReport.category
+    const activetime =
+      category === "healingOut" || category === "healingIn"
+        ? (fight.hpstime ?? 1)
+        : (fight.dpstime ?? 1)
 
-    if (category === "healingOut" || category === "healingIn") {
-      activetime = zo_roundToNearest(fight.hpstime ?? 1, 0.1)
-    } else {
-      activetime = zo_roundToNearest(fight.dpstime ?? 1, 0.1)
-    }
-
-    const durationstring = string.format("%d:%04.1f", activetime / 60, activetime % 60)
+    const durationstring = formatDuration(activetime)
 
     const dpsKey = DPS_STRINGS[db.FightReport.category]
     const dpsRaw = fight.calculated?.[dpsKey] ?? fight[dpsKey] ?? 0
-    const dps = zo_round(typeof dpsRaw === "number" ? dpsRaw : 0)
+    const dps = typeof dpsRaw === "number" ? dpsRaw : 0
 
     const row = GetControl<FightListRowControl>(rowBaseName, id)
     if (row == null) {
@@ -210,7 +211,7 @@ function updateFightListPanel(
 
     row.GetNamedChild<LabelControl>("Time")?.SetText(timestring)
     row.GetNamedChild<LabelControl>("Duration")?.SetText(durationstring)
-    row.GetNamedChild<LabelControl>("DPS")?.SetText(tostring(dps))
+    row.GetNamedChild<LabelControl>("DPS")?.SetText(formatCount(dps))
 
     const buttonControl = row.GetNamedChild("Buttons")
     const deleteLogControl = buttonControl?.GetNamedChild<ButtonControl>("DeleteLog")

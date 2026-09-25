@@ -64,6 +64,7 @@ import {
   processQuickslotEvents,
 } from "akasha/temper/addon/pages/combat/modules/combat-process-log-timings/combat-process-log-timings.module.code.ts"
 import { getDb } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
+import { formatPercent } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-title/combat-controls-title.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids/combat-string-ids.type-declaration.d.ts"
@@ -285,7 +286,7 @@ function calculateChunk(fight: CmxFight): undefined {
 
   db.chunksize = newchunksize
   const progress = iend / logdata.length
-  fightlabel.SetText(string.format("%s (%.1f%%)", GetString(SI_TEMPER_COMBAT_CALC), 100 * progress))
+  fightlabel.SetText(`${GetString(SI_TEMPER_COMBAT_CALC)} (${formatPercent(progress)})`)
 
   titleBar.SetValue(progress)
   return undefined
