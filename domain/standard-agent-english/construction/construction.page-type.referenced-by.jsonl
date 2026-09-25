@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/bare-noun.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle-and-a-preposition-phrase.construction.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle-and-a-preposition.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-present-participle.construction.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"construction.page-type.types.ts","path":"domain/standard-agent-english/construction/pages/degree-adverb-with-an-adjective-and-a-clause.construction.ts","typed":true,"deferred":false}
