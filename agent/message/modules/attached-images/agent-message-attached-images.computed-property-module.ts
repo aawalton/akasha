@@ -4,7 +4,7 @@ export const agentMessageAttachedImages = {
   id: "01a0d4a1-3f26-7853-9819-ff4b38e9cfec",
   type: "page-type/computed-property-module",
   slug: "agent-message-attached-images",
-  definition: "the lines a message body carries naming the images attached to it",
+  definition: "the text in a message body for each image the message has",
   code: "ts",
   test: "ts",
   decisions: [
