@@ -4,7 +4,7 @@ export const pageUiStoreCollection = {
   id: "01a071cd-798c-75bd-88c7-7e266f938b90",
   type: "page-type/domain",
   slug: "page-ui-store-collection",
-  definition: "the rows a store keeps for a page type",
+  definition: "the pages a browser keeps for a page type",
   parts: [
     "module/acquire",
     "module/change-following",
