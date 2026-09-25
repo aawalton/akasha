@@ -122,7 +122,13 @@ function text(bytes: Uint8Array | null): string | null {
 
 function table(named: readonly (readonly [number, string])[]): Stored {
   const written = signed(fileTable(named))
-  return { id: 0, size: written.length, packing: ZLIB, bytes: deflateSync(written) }
+  return {
+    id: 0,
+    group: 0x80000001,
+    size: written.length,
+    packing: ZLIB,
+    bytes: deflateSync(written),
+  }
 }
 
 test("a file is read by the path the interface names it by", () => {

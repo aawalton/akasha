@@ -64,7 +64,7 @@ const PLACE_RECORD = 20
 
 const NAME_RECORD = 16
 
-const FILE_TABLE_IDS: readonly number[] = [0, 0xffffff]
+const FILE_TABLE_KEYS: readonly string[] = ["0:2147483649", "16777215:0"]
 
 const FILE_TABLE_MARK = "ZOSFT"
 
@@ -163,7 +163,9 @@ export function archiveName(path: string): string {
 
 export function archiveOf(manifest: Buffer, readAt: ReadAt, unpack: Unpack): ArchiveRead {
   const plain = new Map<number, ArchiveEntry>()
+  const keyed = new Map<string, ArchiveEntry>()
   for (const entry of entriesIn(manifest)) {
+    keyed.set(`${entry.id}:${entry.group}`, entry)
     if ((entry.group & ~FLAG) === 0) plain.set(entry.id, entry)
   }
   function stored(entry: ArchiveEntry): Uint8Array | null {
@@ -174,7 +176,7 @@ export function archiveOf(manifest: Buffer, readAt: ReadAt, unpack: Unpack): Arc
     if (OODLE.has(entry.packing)) return payloadOf(unpack(packed, entry.size))
     throw new Error(`the archive packs a file a way nothing here unpacks (${entry.packing})`)
   }
-  const table = FILE_TABLE_IDS.map((id) => plain.get(id)).find((one) => one !== undefined)
+  const table = FILE_TABLE_KEYS.map((key) => keyed.get(key)).find((one) => one !== undefined)
   const held = table === undefined ? null : stored(table)
   if (held === null) throw new Error("the archive holds no file table")
   const names = namesIn(Buffer.from(held))

@@ -27,7 +27,8 @@ export const gameArchive = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The client keeps its names under the first id, and the depot under the last.",
+      statement:
+        "The client keeps its names apart under the first id, and the depot under the last.",
     },
     {
       decisionKind: "decision-kind/constraint",
