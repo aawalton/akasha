@@ -87,10 +87,7 @@ export const subagent = {
       decisionKind: "decision-kind/departure",
       statement: "A subagent whose page comes back out of history takes those readings back.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A page for a subagent that is no longer running goes.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
