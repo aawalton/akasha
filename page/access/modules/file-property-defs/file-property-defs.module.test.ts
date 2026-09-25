@@ -103,6 +103,11 @@ test("a computed property naming no page type to reach is drawn as its own chain
   expect(drawn.drawnBy).toEqual(["computed-property", "page-property"])
 })
 
+test("a computed property holding a number is drawn as a number is", () => {
+  expect(definitionOf({ ...WORKED, holds: "number" }).type).toBe("number")
+  expect(definitionOf({ ...WORKED, holds: "text" }).type).toBe("text")
+})
+
 test("a property its page type names to color titles is said to color them", () => {
   expect(definitionOf({ ...WORKED, colorsTitle: true }).colorsTitle).toBe(true)
 })

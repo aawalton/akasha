@@ -193,8 +193,11 @@ function drawnAs(one: Declared): readonly string[] {
   return [RELATION, ...one.drawnBy.filter((slug) => slug !== RELATION)]
 }
 
+const NUMBER = "number"
+
 function typeOf(one: Declared): string {
   if (one.type === COMPUTED && one.targetSlug !== null) return renderedType(RELATION)
+  if (one.type === COMPUTED && one.holds === NUMBER) return NUMBER
   return renderedType(one.type)
 }
 

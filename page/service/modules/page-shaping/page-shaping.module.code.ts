@@ -48,6 +48,8 @@ const SAID = "pageProperty"
 
 const ASKED_BY_NAME = "askedByName"
 
+const HOLDS = "holds"
+
 const TITLE_COLORED_BY = camelizeKey(titleColoredBy.propertySlug)
 
 const ICON = camelizeKey(icon.propertySlug)
@@ -71,6 +73,7 @@ export type Declared = {
   readonly colorsTitle: boolean
   readonly icon: string | null
   readonly askedByName?: boolean
+  readonly holds?: string
 }
 
 export type Shape = {
@@ -173,6 +176,7 @@ function declaredOf(
     colorsTitle,
     icon: iconIn(climbed),
     ...(page?.[ASKED_BY_NAME] === true ? { askedByName: true } : {}),
+    ...(typeof page?.[HOLDS] === "string" ? { holds: page[HOLDS] } : {}),
   }
 }
 

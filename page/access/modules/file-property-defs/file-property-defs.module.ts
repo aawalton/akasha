@@ -114,6 +114,10 @@ export const filePropertyDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A computed property holding a number is drawn and sorted as a number is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A definition says it colors the titles only where its page type names it to.",
     },
     {

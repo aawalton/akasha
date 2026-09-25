@@ -84,6 +84,10 @@ export const pageShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A declaration has the kind a computed property states it holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A declaration has the icon the nearest page type its property is names.",
     },
     {
