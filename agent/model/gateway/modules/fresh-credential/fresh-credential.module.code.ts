@@ -25,16 +25,24 @@ export function behindLine(logPrefix: string, account: string, expiresAt: number
   return `${logPrefix} ${account} expires at ${at}, inside the reader's buffer — the upkeep is behind`
 }
 
+export type Expiry = "expired" | "behind" | "fresh"
+
+export function expiryAt(expiresAt: number, now: number): Expiry {
+  if (expiresAt <= now) return "expired"
+  if (expiresAt < now + REFRESH_BUFFER_MS) return "behind"
+  return "fresh"
+}
+
 export function freshCredentialIn(seams: FreshCredentialSeams): FreshCredential {
   return async function freshCredentialFor(account) {
     const held = await seams.credentialByAccount(account, seams.logPrefix)
     if (held === null) return null
-    const now = seams.now()
-    if (held.expiresAt <= now) {
+    const expiry = expiryAt(held.expiresAt, seams.now())
+    if (expiry === "expired") {
       seams.warned(expiredLine(seams.logPrefix, account, held.expiresAt))
       return null
     }
-    if (held.expiresAt < now + REFRESH_BUFFER_MS) {
+    if (expiry === "behind") {
       seams.warned(behindLine(seams.logPrefix, account, held.expiresAt))
     }
     return held

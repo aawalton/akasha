@@ -3,6 +3,7 @@ import type { OAuthCredential } from "akasha/agent/model/account/modules/oauth-t
 import {
   behindLine,
   expiredLine,
+  expiryAt,
   type FreshCredentialSeams,
   freshCredentialIn,
 } from "akasha/agent/model/gateway/modules/fresh-credential/fresh-credential.module.code.ts"
@@ -140,6 +141,21 @@ test("no token value reaches a line written here", async () => {
   expect(rig.warnings.length).toBe(1)
   expect(rig.warnings[0]?.includes(held.accessToken)).toBe(false)
   expect(rig.warnings[0]?.includes(held.refreshToken)).toBe(false)
+})
+
+test("an expiry at or behind the moment read is judged expired", () => {
+  expect(expiryAt(NOW, NOW)).toBe("expired")
+  expect(expiryAt(NOW - 1, NOW)).toBe("expired")
+})
+
+test("an expiry inside the refresh buffer is judged behind", () => {
+  expect(expiryAt(NOW + 1, NOW)).toBe("behind")
+  expect(expiryAt(NOW + BUFFER_MS - 1, NOW)).toBe("behind")
+})
+
+test("an expiry at or beyond the edge of the refresh buffer is judged fresh", () => {
+  expect(expiryAt(NOW + BUFFER_MS, NOW)).toBe("fresh")
+  expect(expiryAt(NOW + BUFFER_MS * 2, NOW)).toBe("fresh")
 })
 
 test("every line written here opens with the log prefix", async () => {
