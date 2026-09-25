@@ -4,7 +4,7 @@ export const checkoutShellReach = {
   id: "01a0d962-3123-75e8-aa0f-ed8bf842f3a7",
   type: "page-type/module",
   slug: "checkout-shell-reach",
-  definition: "whether a shell command shows the body of a file in the akasha folder",
+  definition: "whether the text a shell runs shows the body of a file in the akasha folder",
   code: "ts",
   test: "ts",
   decisions: [
