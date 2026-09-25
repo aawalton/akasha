@@ -5,7 +5,7 @@ export const logSource = {
   type: "page-type/relation-property",
   slug: "log-source",
   propertySlug: "source",
-  definition: "the stream writing a day of lines",
+  definition: "the process that writes a log",
   targetPageType: "page-type/log-source",
   types: "ts",
 } as const satisfies RelationProperty
