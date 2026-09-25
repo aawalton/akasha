@@ -87,12 +87,7 @@ export function buildAccountSummary(
     },
     "grand-master-stations": {
       count: grandMasterStations
-        ? Object.values(grandMasterStations).reduce((sum, entry) => {
-            const raw = entry.unlocked
-            if (Array.isArray(raw)) return sum + raw.length
-            if (typeof raw === "object" && raw !== null) return sum + Object.keys(raw).length
-            return sum
-          }, 0)
+        ? Object.values(grandMasterStations).reduce((sum, entry) => sum + entry.unlocked.length, 0)
         : 0,
       total: TOTAL_GRAND_MASTER_STATIONS * 4,
     },

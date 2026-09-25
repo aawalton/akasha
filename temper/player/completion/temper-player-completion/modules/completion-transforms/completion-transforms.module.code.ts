@@ -34,7 +34,7 @@ const MAX_PACK_UPGRADES = 8
 const STORAGE_PET_BONUS = 5
 const STORAGE_PET_COLLECTIBLE_IDS = [4739, 5851, 4731]
 
-export interface CompletionTransformResult {
+interface CompletionTransformResult {
   characters: readonly CompletionCharacter[]
   progress: readonly CharacterSkillLineProgress[]
   morphProgress: readonly CharacterSkillMorphProgress[]
@@ -49,17 +49,7 @@ export interface CompletionTransformResult {
 }
 
 function storagePetBonusFor(accountCollectibles: readonly number[] | undefined): number {
-  const held = new Set<number>()
-  if (accountCollectibles) {
-    const ids = Array.isArray(accountCollectibles)
-      ? accountCollectibles
-      : typeof accountCollectibles === "object"
-        ? Object.values(accountCollectibles)
-        : []
-    for (const id of ids) {
-      if (typeof id === "number") held.add(id)
-    }
-  }
+  const held = new Set(accountCollectibles)
   let bonus = 0
   for (const petId of STORAGE_PET_COLLECTIBLE_IDS) {
     if (held.has(petId)) bonus += STORAGE_PET_BONUS

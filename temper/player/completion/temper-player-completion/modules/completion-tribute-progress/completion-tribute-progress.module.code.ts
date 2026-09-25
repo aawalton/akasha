@@ -23,19 +23,8 @@ function upgradedCardIndexes(
   completion: AccountCompletion | null | undefined
 ): Map<number, Set<number>> {
   const upgraded = new Map<number, Set<number>>()
-  const raw = completion?.tributeCardUpgrades
-  if (!raw || typeof raw !== "object") return upgraded
-  for (const [patronKey, cardIndices] of Object.entries(raw)) {
-    const indexes = new Set<number>()
-    const values = Array.isArray(cardIndices)
-      ? cardIndices
-      : typeof cardIndices === "object" && cardIndices !== null
-        ? Object.values(cardIndices)
-        : []
-    for (const index of values) {
-      if (typeof index === "number") indexes.add(index)
-    }
-    if (indexes.size > 0) upgraded.set(Number(patronKey), indexes)
+  for (const [patronKey, cardIndices] of Object.entries(completion?.tributeCardUpgrades ?? {})) {
+    if (cardIndices.length > 0) upgraded.set(Number(patronKey), new Set(cardIndices))
   }
   return upgraded
 }

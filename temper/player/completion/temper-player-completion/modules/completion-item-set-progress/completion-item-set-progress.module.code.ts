@@ -131,12 +131,7 @@ function groupSetsByCategory(
     }
 
     if (addonProgress) {
-      const rawPieces = addonProgress.pieces
-      const pieces: ItemSetPieceProgress[] = Array.isArray(rawPieces)
-        ? rawPieces
-        : rawPieces
-          ? Object.values(rawPieces)
-          : []
+      const pieces: ItemSetPieceProgress[] = addonProgress.pieces ?? []
 
       list.push({
         esoSetId: set.esoSetId,

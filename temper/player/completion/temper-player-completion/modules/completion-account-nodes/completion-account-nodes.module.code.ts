@@ -151,12 +151,6 @@ export function accountTributeNodes(
 
 const GRAND_MASTER_FALLBACK_LABELS = ["Blacksmithing", "Clothier", "Jewelrycrafting", "Woodworking"]
 
-function unlockedStationCount(raw: unknown): number {
-  if (Array.isArray(raw)) return raw.length
-  if (typeof raw === "object" && raw !== null) return Object.keys(raw).length
-  return 0
-}
-
 export function grandMasterStationNodes(
   stations: Record<number, { name: string; unlocked: number[] }> | undefined
 ): readonly ProgressLeaf[] {
@@ -172,7 +166,7 @@ export function grandMasterStationNodes(
     .map(([key, entry]) => ({
       key,
       label: entry.name,
-      count: unlockedStationCount(entry.unlocked),
+      count: entry.unlocked.length,
       total: TOTAL_GRAND_MASTER_STATIONS,
     }))
     .sort((a, b) => a.label.localeCompare(b.label))
