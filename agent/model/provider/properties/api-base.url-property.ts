@@ -5,7 +5,7 @@ export const apiBase = {
   type: "page-type/url-property",
   slug: "api-base",
   propertySlug: "api-base",
-  definition: "where a request to a provider is sent",
+  definition: "where code sends messages to a model provider",
   maxLength: 200,
   types: "ts",
 } as const satisfies UrlProperty
