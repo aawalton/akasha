@@ -5,7 +5,7 @@ export const seatName = {
   type: "page-type/text-property",
   slug: "seat-name",
   propertySlug: "seat-name",
-  definition: "the name of the seat whose processes wrote a day of lines",
+  definition: "the name of the seat of a log",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [
