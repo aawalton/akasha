@@ -5,7 +5,7 @@ export const scopes = {
   type: "page-type/text-property",
   slug: "scopes",
   propertySlug: "scopes",
-  definition: "a permission the account's token was granted",
+  definition: "a thing a model account can do with its credentials",
   maxLength: 100,
   nameFormat: null,
   decisions: [
