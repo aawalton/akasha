@@ -12,7 +12,9 @@ const GENERATED = "generated"
 const GENERATED_SUFFIX = ".generated.yaml"
 const NAMESPACE_KIND = "Namespace"
 const ROLLED_OUT: ReadonlySet<string> = new Set(["Deployment", "StatefulSet", "DaemonSet"])
+const DEPLOYMENT = "Deployment"
 const ROLLOUT_WAIT = "5m"
+const UNTIL_PROGRESS_STOPS = "0s"
 const ASKING_WAIT = "1s"
 const KIND_AT = "kind:"
 const METADATA_AT = "metadata:"
@@ -288,6 +290,10 @@ export function applyOf(plan: Plan, manifest: Manifest): readonly string[] {
   return ["apply", "--server-side", "--force-conflicts", ...placedIn(plan, manifest), "-f", "-"]
 }
 
+export function rolloutWaitFor(kind: string): string {
+  return kind === DEPLOYMENT ? UNTIL_PROGRESS_STOPS : ROLLOUT_WAIT
+}
+
 export function rolloutOf(plan: Plan): readonly string[] | null {
   const workload = plan.workload
   if (workload === null) return null
@@ -299,7 +305,7 @@ export function rolloutOf(plan: Plan): readonly string[] | null {
     "-n",
     workload.namespace,
     "--timeout",
-    ROLLOUT_WAIT,
+    rolloutWaitFor(workload.kind),
   ]
 }
 

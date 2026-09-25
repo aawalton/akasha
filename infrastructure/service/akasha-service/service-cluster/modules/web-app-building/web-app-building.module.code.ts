@@ -13,6 +13,7 @@ import {
   carries,
   type Plan,
   type Ran,
+  rolloutWaitFor,
   runKubectl,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 import { valueByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -35,7 +36,6 @@ const SYNC_CONTAINER = "code-sync"
 const REPO_PATH = "/app/repo"
 const FETCHED = "FETCH_HEAD"
 const GOING = "\t"
-const ROLLOUT_WAIT = "5m"
 const SYNC_ATTEMPTS = 4
 const SYNC_PAUSE = 3
 const TAIL = 6
@@ -384,7 +384,7 @@ export function buildInPod(
     "-n",
     target.namespace,
     "--timeout",
-    ROLLOUT_WAIT,
+    rolloutWaitFor(target.kind),
   ])
   ran.push(waited)
   if (waited.code !== 0) {

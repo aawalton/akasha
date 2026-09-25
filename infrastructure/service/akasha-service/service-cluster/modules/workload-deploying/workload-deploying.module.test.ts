@@ -152,6 +152,20 @@ test("a workload carrying a pod template is waited on", () => {
   expect(rolloutOf(plan)?.[2]).toBe("deployment/web")
 })
 
+test("a deployment is waited on until the cluster says its progress stopped", () => {
+  const plan = { workload: WEB, synthPath: SYNTH_AT, manifests: [] }
+  expect(rolloutOf(plan)?.at(-1)).toBe("0s")
+})
+
+test("a workload that states no progress deadline is waited on for five minutes", () => {
+  const plan = {
+    workload: { kind: "StatefulSet", name: "web", namespace: "one" },
+    synthPath: SYNTH_AT,
+    manifests: [],
+  }
+  expect(rolloutOf(plan)?.at(-1)).toBe("5m")
+})
+
 test("a workload carrying no pod template is waited on by nothing", () => {
   const plan = {
     workload: { kind: "ConfigMap", name: "web", namespace: "one" },

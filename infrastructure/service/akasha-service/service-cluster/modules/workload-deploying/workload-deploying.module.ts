@@ -53,6 +53,15 @@ export const workloadDeploying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A deployment is waited on until the cluster says its rollout stopped making progress.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A workload the cluster judges no progress of is waited on for five minutes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A kubectl that refuses stops the apply where the apply is.",
     },
     {
