@@ -9,7 +9,6 @@ export const indexPageProperty = {
   name: "page-property",
   code: "ts",
   test: "ts",
-  tracked: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

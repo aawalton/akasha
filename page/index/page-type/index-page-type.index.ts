@@ -8,7 +8,6 @@ export const indexPageType = {
   name: "page-type",
   code: "ts",
   test: "ts",
-  tracked: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",

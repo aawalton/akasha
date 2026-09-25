@@ -8,7 +8,6 @@ export const indexAstHash = {
   name: "ast-hash",
   code: "ts",
   test: "ts",
-  tracked: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
