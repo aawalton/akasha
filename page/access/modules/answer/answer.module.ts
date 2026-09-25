@@ -94,6 +94,10 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The definitions of every page type listed are asked for at once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A row of any other page type has no property definition.",
     },
     {

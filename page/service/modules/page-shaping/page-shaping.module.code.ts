@@ -227,11 +227,40 @@ export function titleColorFor(climb: Climbing, pageTypeSlug: string): string | n
   return null
 }
 
+export type ShapedEvery =
+  | { readonly shapes: Readonly<Record<string, Shape | null>> }
+  | { readonly refused: string }
+
+function remembered(climb: Climbing): Climbing {
+  const held = new Map<string, readonly Value[]>()
+  return (pageTypeSlug) => {
+    const had = held.get(pageTypeSlug)
+    if (had !== undefined) return had
+    const climbed = climb(pageTypeSlug)
+    held.set(pageTypeSlug, climbed)
+    return climbed
+  }
+}
+
 export function shaping(root: string, pageTypeSlug: string): Shaped {
+  return shapedWithin(root, new Map(), remembered(climbing(root)), pageTypeSlug)
+}
+
+export function shapingEvery(root: string, pageTypeSlugs: readonly string[]): ShapedEvery {
+  const named: Named = new Map()
+  const climb = remembered(climbing(root))
+  const shapes: Record<string, Shape | null> = {}
+  for (const pageTypeSlug of pageTypeSlugs) {
+    const shaped = shapedWithin(root, named, climb, pageTypeSlug)
+    if ("refused" in shaped) return { refused: `${pageTypeSlug}: ${shaped.refused}` }
+    shapes[pageTypeSlug] = shaped.shape
+  }
+  return { shapes }
+}
+
+function shapedWithin(root: string, named: Named, climb: Climbing, pageTypeSlug: string): Shaped {
   if (listedAt(root, PAGE_TYPE, pageTypeSlug).length === 0) return { shape: null }
   try {
-    const named: Named = new Map()
-    const climb = climbing(root)
     const own = pagesOfType(root, named, PAGE_TYPE).get(pageTypeSlug)
     const colored = titleColorFor(climb, pageTypeSlug)
     const declarations = carriedFor(root, pageTypeSlug).map((one) => {

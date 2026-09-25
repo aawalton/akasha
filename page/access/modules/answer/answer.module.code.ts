@@ -22,8 +22,6 @@ import type { Test } from "akasha/page/service/modules/where-testing/where-testi
 
 const LISTING_CEILING = 5_000
 
-const DEFINITIONS_AT_ONCE = 4
-
 const PAGE_TYPE = "page-type"
 
 const NO_DEFINITIONS: readonly PropertyDefinition[] = []
@@ -223,16 +221,11 @@ export async function withDefinitions(
   rows: readonly RawPageRow[],
   definitionsFor: PagesDeps["definitionsFor"]
 ): Promise<readonly RawPageRow[]> {
-  const out: RawPageRow[] = []
-  for (let at = 0; at < rows.length; at += DEFINITIONS_AT_ONCE) {
-    const batch = rows.slice(at, at + DEFINITIONS_AT_ONCE)
-    const every = await Promise.all(batch.map((row) => definitionsOr(row.slug, definitionsFor)))
-    batch.forEach((row, which) => {
-      const defs = every[which]
-      out.push(defs === null || defs === undefined ? row : carrying(row, defs))
-    })
-  }
-  return out
+  const every = await Promise.all(rows.map((row) => definitionsOr(row.slug, definitionsFor)))
+  return rows.map((row, which) => {
+    const defs = every[which]
+    return defs === null || defs === undefined ? row : carrying(row, defs)
+  })
 }
 
 export async function answerPages(

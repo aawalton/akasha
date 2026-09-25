@@ -8,6 +8,7 @@ import {
   eventsOpened,
   followSent,
   shapeFor,
+  shapesFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import type {
   Declared,
@@ -45,14 +46,44 @@ function followedOnce(): undefined {
   return following.follow(SHAPES, { pageTypeSlug: PAGE_TYPE })
 }
 
-async function read(pageTypeSlug: string): Promise<Shape | null> {
+function unshaped(pageTypeSlug: string, refused: string): Error {
+  return new Error(
+    `shapeAsked(${pageTypeSlug}): the pages answered no shape, so this reader holds no property definitions to report; an empty list would read as a page type that declares nothing (${refused})`
+  )
+}
+
+async function readAlone(pageTypeSlug: string): Promise<Shape | null> {
   const got = await shapeFor(pageTypeSlug)
-  if ("refused" in got) {
-    throw new Error(
-      `shapeAsked(${pageTypeSlug}): the pages answered no shape, so this reader holds no property definitions to report; an empty list would read as a page type that declares nothing (${got.refused})`
-    )
-  }
+  if ("refused" in got) throw unshaped(pageTypeSlug, got.refused)
   return got.shape
+}
+
+type Waiting = {
+  readonly settle: (shape: Shape | null) => void
+  readonly fail: (why: unknown) => void
+}
+
+const waiting = new Map<string, Waiting>()
+
+async function flushed(): Promise<void> {
+  const taken = new Map(waiting)
+  waiting.clear()
+  const slugs = [...taken.keys()]
+  const got = slugs.length === 1 ? null : await shapesFor(slugs)
+  for (const [pageTypeSlug, one] of taken) {
+    if (got !== null && "shapes" in got) {
+      one.settle(got.shapes[pageTypeSlug] ?? null)
+      continue
+    }
+    readAlone(pageTypeSlug).then(one.settle, one.fail)
+  }
+}
+
+function read(pageTypeSlug: string): Promise<Shape | null> {
+  return new Promise((settle, fail) => {
+    if (waiting.size === 0) queueMicrotask(() => void flushed())
+    waiting.set(pageTypeSlug, { settle, fail })
+  })
 }
 
 export async function shapeAsked(pageTypeSlug: string): Promise<Shape | null> {

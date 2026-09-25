@@ -16,7 +16,10 @@ import type {
   Read,
   Asked as Sought,
 } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
-import type { Shaped } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
+import type {
+  Shaped,
+  ShapedEvery,
+} from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import type {
   Kept,
   Put,
@@ -52,6 +55,8 @@ const OVER_THE_TAILNET = "http://page-forwarder.page-forwarder.svc.cluster.local
 const IN_A_BROWSER = "/api"
 
 const ASK_CEILING_MS = 5000
+
+const SHAPES_CEILING_MS = 30000
 
 const WRITE_CEILING_MS = 30000
 
@@ -217,6 +222,29 @@ export async function shapeFor(
     return { refused: "the pages answered a shape that states no page type" }
   }
   return held.said as Shaped
+}
+
+export async function shapesFor(
+  pageTypeSlugs: readonly string[],
+  fetcher: Fetcher = fetchThrough,
+  naps: Sleeper = sleep
+): Promise<ShapedEvery> {
+  const held = await sentTo(SHAPE_AT, { pageTypeSlugs }, SHAPES_CEILING_MS, fetcher, naps)
+  if ("refused" in held) return held
+  const shapes = objectIn(objectIn(held.said)?.shapes)
+  if (shapes === null) return { refused: "the pages answered shapes holding no shapes" }
+  for (const pageTypeSlug of pageTypeSlugs) {
+    const shape = shapes[pageTypeSlug]
+    if (shape === undefined) {
+      return { refused: `the pages answered shapes holding none for \`${pageTypeSlug}\`` }
+    }
+    if (shape !== null && objectIn(shape) === null) {
+      return {
+        refused: `the pages answered a shape for \`${pageTypeSlug}\` that states no page type`,
+      }
+    }
+  }
+  return held.said as ShapedEvery
 }
 
 export async function readingFor(

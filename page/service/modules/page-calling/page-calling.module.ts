@@ -106,6 +106,14 @@ export const pageCalling = {
       statement: "A shape answered as no page type is refused rather than read on.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The shapes of many page types are asked for through this module as one question.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Shapes answered without one of the page types asked for are refused.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here opens a page's file.",
     },

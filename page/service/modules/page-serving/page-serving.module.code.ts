@@ -28,7 +28,10 @@ import {
 } from "akasha/page/service/modules/page-incrementing/page-incrementing.module.code.ts"
 import { placing } from "akasha/page/service/modules/page-placing/page-placing.module.code.ts"
 import { reading } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
-import { shaping } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
+import {
+  shaping,
+  shapingEvery,
+} from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import type {
   Asked,
   Kept,
@@ -62,11 +65,24 @@ export type Serving = {
   readonly following?: Following
 }
 
-export type Shaping = { readonly pageTypeSlug: string } | { readonly refused: string }
+export type Shaping =
+  | { readonly pageTypeSlug: string }
+  | { readonly pageTypeSlugs: readonly string[] }
+  | { readonly refused: string }
 
 function shapeIn(given: unknown): Shaping {
   const held = objectIn(given)
   if (held === null) return { refused: "a shape is asked for by a JSON object" }
+  const pageTypeSlugs = held.pageTypeSlugs
+  if (pageTypeSlugs !== undefined) {
+    if (
+      !Array.isArray(pageTypeSlugs) ||
+      !pageTypeSlugs.every((one): one is string => typeof one === "string" && one !== "")
+    ) {
+      return { refused: "shapes name their page types as a list of slugs under `pageTypeSlugs`" }
+    }
+    return { pageTypeSlugs }
+  }
   const pageTypeSlug = held.pageTypeSlug
   if (typeof pageTypeSlug !== "string" || pageTypeSlug === "") {
     return { refused: "a shape names a page type as `pageTypeSlug`" }
@@ -151,6 +167,11 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   if (at === SHAPE_AT) {
     const sought = shapeIn(body)
     if ("refused" in sought) return said({ refused: sought.refused }, 400)
+    if ("pageTypeSlugs" in sought) {
+      const every = shapingEvery(given.root, sought.pageTypeSlugs)
+      if ("refused" in every) return said({ refused: every.refused }, 400)
+      return said(every, 200)
+    }
     const found = shaping(given.root, sought.pageTypeSlug)
     if ("refused" in found) return said({ refused: found.refused }, 400)
     return said(found, 200)

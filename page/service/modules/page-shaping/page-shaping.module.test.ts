@@ -1,7 +1,10 @@
 import { afterAll, expect, test } from "bun:test"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratch } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import {
   ownerFor,
+  shaping,
+  shapingEvery,
   titleColorFor,
 } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import {
@@ -91,4 +94,17 @@ test("a declaration whose page type names no icon has the one the type above it 
 
 test("a declaration colors a title only where its page type names it", () => {
   expect(declaredAt("domain", "decisions")?.colorsTitle).toBe(false)
+})
+
+test("page types shaped together are shaped as each is shaped alone", () => {
+  const root = rootOf(import.meta.dir)
+  const slugs = ["domain", "decision-kind", "no-such-page-type"]
+  const together = shapingEvery(root, slugs)
+  if ("refused" in together) throw new Error(together.refused)
+  for (const slug of slugs) {
+    const alone = shaping(root, slug)
+    if ("refused" in alone) throw new Error(alone.refused)
+    expect(together.shapes[slug]).toEqual(alone.shape)
+  }
+  expect(together.shapes["no-such-page-type"]).toBeNull()
 })

@@ -168,6 +168,10 @@ export const pageServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The shapes of many page types are asked for at that path in one question.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A file is asked for at a path of its own.",
     },
     {

@@ -57,6 +57,14 @@ export const filePropertyDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The shapes asked for at one moment are asked of the pages as one question.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question for many shapes that is refused is asked again one shape at a time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A shape has the property naming the account a page belongs to.",
     },
     {

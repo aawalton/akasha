@@ -100,6 +100,14 @@ export const pageShaping = {
       statement: "No climb over what a page type extends is walked here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Many page types are shaped in one answer, over one reading of the pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page types above a page type are read once for each answer.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes.",
     },

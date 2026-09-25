@@ -16,6 +16,7 @@ import {
   READ_AT as READS,
   refusedIn,
   type Sleeper,
+  shapesFor,
   WRITE_AT as WRITES,
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
@@ -318,4 +319,23 @@ test("an increment that answers nothing is sent once rather than tried again", a
   const said = await incrementingFor(AN_INCREMENT, held.fetcher)
   expect(held.spent()).toBe(1)
   expect("refused" in said && said.refused).toContain("counted twice")
+})
+
+test("the shapes of many page types are asked for in one question and carried back", async () => {
+  const held = counting(answering(200, { shapes: { nav: null, role: { pageType: "role" } } }))
+  const said = await shapesFor(["nav", "role"], held.fetcher, neverNaps)
+  expect(held.spent()).toBe(1)
+  const shapes = "shapes" in said ? said.shapes : {}
+  expect(Object.keys(shapes)).toEqual(["nav", "role"])
+  expect(shapes.nav).toBeNull()
+  expect(shapes.role?.pageType).toBe("role")
+})
+
+test("shapes answered without a page type asked for are refused", async () => {
+  const said = await shapesFor(
+    ["nav", "role"],
+    answering(200, { shapes: { nav: null } }),
+    neverNaps
+  )
+  expect("refused" in said && said.refused).toContain("`role`")
 })
