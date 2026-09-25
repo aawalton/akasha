@@ -29,6 +29,10 @@ export const atlasTrip = {
       statement: "A collection nothing names says so rather than drawing an empty list.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The trip is drawn again as soon as a collection or a location changes.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No map is drawn here, and the map route draws every location instead.",
     },

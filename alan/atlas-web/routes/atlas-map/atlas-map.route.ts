@@ -16,5 +16,9 @@ export const atlasMap = {
       decisionKind: "decision-kind/departure",
       statement: "A build with no basemap url draws the locations without a basemap.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pins are drawn again as soon as a location changes.",
+    },
   ],
 } as const satisfies Route

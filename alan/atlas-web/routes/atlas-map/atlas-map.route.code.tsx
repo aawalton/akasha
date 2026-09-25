@@ -5,10 +5,15 @@ import {
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { data } from "react-router"
 import { z } from "zod"
 
 const BasemapUrlSchema = z.string().url()
+
+const LOCATION = "location"
+
+const READ = [LOCATION]
 
 export function meta() {
   return [{ title: "Map · Atlas" }]
@@ -16,7 +21,7 @@ export function meta() {
 
 export async function loader() {
   const rows = await collectPages({
-    pageTypeSlug: "location",
+    pageTypeSlug: LOCATION,
     pageSize: 1000,
   })
   const pins = toPins(rows)
@@ -30,6 +35,7 @@ export async function loader() {
 type MapLoaderData = Awaited<ReturnType<typeof loader>>["data"]
 
 export default function MapRoute({ loaderData }: { loaderData: MapLoaderData }) {
+  useLoaderFollowing(READ)
   const { pins, basemapUrl } = loaderData
   return (
     <PageLayout>

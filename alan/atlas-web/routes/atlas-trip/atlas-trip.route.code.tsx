@@ -18,6 +18,7 @@ import { getPageByIdSuffix, getPages } from "akasha/page/access/modules/get/get.
 import type { PageOrder, PageSelect } from "akasha/page/access/modules/types/types.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import {
   buildPageHref,
   parsePageHrefParam,
@@ -28,6 +29,8 @@ import { data, Link } from "react-router"
 const COLLECTION_SLUG = "location-collection"
 
 const STOP_SLUG = "location"
+
+const READ = [COLLECTION_SLUG, STOP_SLUG]
 
 const STOPS_LIMIT = 1000
 
@@ -123,6 +126,7 @@ export function meta({ data: loaderData }: { data: TripLoaderData | undefined })
 }
 
 export default function TripRoute({ loaderData }: { loaderData: TripLoaderData }) {
+  useLoaderFollowing(READ)
   const { tripTitle, stops, stopCount } = loaderData
   return (
     <PageLayout>
