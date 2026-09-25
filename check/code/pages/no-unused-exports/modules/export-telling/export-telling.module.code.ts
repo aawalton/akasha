@@ -81,13 +81,19 @@ function typeNamed(node: ts.Identifier): boolean {
   return ts.isExpressionWithTypeArguments(up) && up.expression === node
 }
 
+function declaredType(node: ts.Node): string | null {
+  if (ts.isTypeAliasDeclaration(node) || ts.isInterfaceDeclaration(node)) return node.name.text
+  return null
+}
+
 export function typesNamedWithin(path: string, text: string): ReadonlySet<string> {
   const found = new Set<string>()
-  const walk = (node: ts.Node): undefined => {
-    if (ts.isIdentifier(node) && typeNamed(node)) found.add(node.text)
-    ts.forEachChild(node, walk)
+  const walk = (node: ts.Node, within: string | null): undefined => {
+    if (ts.isIdentifier(node) && typeNamed(node) && node.text !== within) found.add(node.text)
+    const inside = declaredType(node) ?? within
+    ts.forEachChild(node, (one) => walk(one, inside))
     return undefined
   }
-  walk(parsedAs(path, text))
+  walk(parsedAs(path, text), null)
   return found
 }

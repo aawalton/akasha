@@ -73,3 +73,9 @@ test("a type is named where a type names it rather than where a value of its nam
 
   expect([...typesNamedWithin(AT, text)].sort()).toEqual(["Base", "Spare"])
 })
+
+test("a type naming itself is not named by that", () => {
+  const text = "type Held = number | readonly Held[]\n\ntype Spare = Held\n"
+
+  expect([...typesNamedWithin(AT, text)]).toEqual(["Held"])
+})

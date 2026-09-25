@@ -34,6 +34,10 @@ export const exportTelling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A type's references to itself do not name it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A value sharing a type's name names that value rather than the type.",
     },
     {
