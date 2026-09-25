@@ -4,6 +4,6 @@ export const seatNameable = {
   id: "01a0695a-d2ea-7510-85f4-fde662d33433",
   type: "page-type/module",
   slug: "seat-nameable",
-  definition: "the persona, domain, role, flex and principal from which a seat's name is spelled",
+  definition: "what a seat's name is made from",
   code: "ts",
 } as const satisfies Module
