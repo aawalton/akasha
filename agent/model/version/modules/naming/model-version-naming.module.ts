@@ -4,7 +4,7 @@ export const modelVersionNaming = {
   id: "01a0d4b9-5e46-7619-a287-8ee15cf54a61",
   type: "page-type/module",
   slug: "model-version-naming",
-  definition: "the model version an id names, and the id and title a model version states",
+  definition: "the model version an id matches and the values a model version has",
   code: "ts",
   test: "ts",
   decisions: [
