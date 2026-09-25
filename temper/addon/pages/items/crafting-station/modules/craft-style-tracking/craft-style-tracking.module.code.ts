@@ -83,7 +83,6 @@ export function setAllStyles(): undefined {
   if (TemperItemsCrafting_Style_Window.IsHidden()) {
     TemperItemsCrafting_StylePanelScrollChildStyles.SetHidden(false)
     TemperItemsCrafting_StylePanelScrollChildSets.SetHidden(true)
-    TemperItemsCrafting_StyleHeader.SetText("TemperItemsCrafting Styles")
     CALLBACK_MANAGER.FireCallbacks(CB_CONTROL_SHOW, TemperItemsCrafting_Style_Window)
   } else {
     TemperItemsCrafting_Style_Window.SetHidden(true)

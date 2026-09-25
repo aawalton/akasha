@@ -102,6 +102,7 @@
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-tracking/craft-style-tracking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-ui-updates/craft-ui-updates.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-utilities/craft-utilities.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-xml-handlers/craft-xml-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-handlers/crafting-events-handlers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-ui.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-events/crafting-events.module.code.ts","typed":false,"deferred":false}

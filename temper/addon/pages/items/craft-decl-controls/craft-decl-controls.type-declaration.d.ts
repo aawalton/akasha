@@ -177,8 +177,6 @@ declare const TemperItemsCrafting_StylePanelScrollChildStyles: TemperItemsCrafti
 
 declare const TemperItemsCrafting_StylePanelScrollChildSets: TemperItemsCraftingControl
 
-declare const TemperItemsCrafting_StyleHeader: LabelControl
-
 declare const TemperItemsCrafting_StyleHideButton: TemperItemsCraftingButton
 
 declare const TemperItemsCrafting_StyleHideCrownButton: TemperItemsCraftingButton

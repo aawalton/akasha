@@ -2,6 +2,7 @@ import * as Options from "akasha/temper/addon/pages/items/crafting-station/modul
 import * as ResearchGrid from "akasha/temper/addon/pages/items/crafting-station/modules/craft-research-grid/craft-research-grid.module.code.ts"
 import * as RuneCrafting from "akasha/temper/addon/pages/items/crafting-station/modules/craft-rune-crafting/craft-rune-crafting.module.code.ts"
 import { styleInitialize } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts"
+import { frameCraftWindows } from "akasha/temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
 
 import { runeShowMode } from "akasha/temper/addon/pages/items/crafting-station/modules/rune-mode/rune-mode.module.code.ts"
@@ -138,6 +139,7 @@ export function panelInitialize(): undefined {
   TemperItemsCrafting_PanelButtonCraftedSets.SetText(STATE.Loc.set)
   TemperItemsCrafting_CharacterPanelHeader.SetText(STATE.Loc.chars)
 
+  frameCraftWindows()
   TemperItemsCrafting_Style_Window.SetAnchor(
     TOPLEFT,
     GuiRoot,

@@ -90,6 +90,7 @@ export const craftingStation = {
     "module/craft-tooltip-handler",
     "module/craft-tooltips",
     "module/craft-ui-updates",
+    "module/craft-window-frames",
     "module/craft-utilities",
     "module/craft-validation",
     "module/craft-xml-handlers",
