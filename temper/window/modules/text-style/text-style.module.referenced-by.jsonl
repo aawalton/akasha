@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/modules/trading-browse-window-rows/trading-browse-window-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/modules/trading-sell-helper/trading-sell-helper.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-bar/hud-addon-bar.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-entry/hud-addon-entry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts","typed":false,"deferred":false}

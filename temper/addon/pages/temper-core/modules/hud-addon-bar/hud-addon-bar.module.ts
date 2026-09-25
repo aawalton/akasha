@@ -23,5 +23,9 @@ export const hudAddonBar = {
       decisionKind: "decision-kind/departure",
       statement: "A cell stating no color is drawn in the secondary text color.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cell is set as a shadowed number, since every field the bar has is a figure.",
+    },
   ],
 } as const satisfies Module

@@ -9,6 +9,10 @@ import {
   paintSurface,
   type SurfaceLevel,
 } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import {
+  colorText,
+  styleTextOverPlay,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 
 const HUD_CONTAINER_NAME = "TemperHudBar"
@@ -36,9 +40,7 @@ function makeLabel(id: string): LabelControl {
     throw new Error("Temper HUD label created before the bar was built")
   }
   const label = WINDOW_MANAGER.CreateControl(`${LABEL_NAME_PREFIX}${id}`, container, CT_LABEL)
-  label.SetFont("ZoFontWinT2")
-  label.SetColor(TEXT_SECONDARY[0], TEXT_SECONDARY[1], TEXT_SECONDARY[2], 1)
-  return label
+  return colorText(styleTextOverPlay(label, "number"), TEXT_SECONDARY)
 }
 
 function reflow(): undefined {
