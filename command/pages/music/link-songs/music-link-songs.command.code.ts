@@ -40,12 +40,12 @@ const SONG = "song"
 
 const NAMED = [json, trackLimit] as const
 
-export type Taken = {
+type Taken = {
   readonly json: boolean
   readonly limit: number | null
 }
 
-export type Counted = {
+type Counted = {
   readonly tracks: number
   readonly linked: number
   readonly relinked: number
@@ -55,7 +55,7 @@ export type Counted = {
   readonly unmatched: number
 }
 
-export type Linking = { readonly counts: Counted; readonly changes: readonly Asking[] }
+type Linking = { readonly counts: Counted; readonly changes: readonly Asking[] }
 
 function taken(argv: readonly string[], calledAs: string): Taken | { readonly refused: string } {
   const read = takenFor(argv, calledAs, page, NAMED)

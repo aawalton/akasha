@@ -29,7 +29,7 @@ import {
   parseLokiPositiveInt,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/loki-log-fetching/loki-log-fetching.module.code.ts"
 
-export type Read =
+type Read =
   | {
       readonly pod: string
       readonly namespace: string

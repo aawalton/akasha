@@ -51,9 +51,9 @@ const A_SECOND = 1000
 
 const PAGES = [seat, afterExchange, waitSeconds]
 
-export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-export interface Exchange {
+interface Exchange {
   readonly uuid: string
   readonly said: string
   readonly replied: string
@@ -64,9 +64,9 @@ export interface Scanned {
   readonly text: string
 }
 
-export type Where = () => string | null
+type Where = () => string | null
 
-export type Reading = (from: number, upTo: number) => Scanned | null
+type Reading = (from: number, upTo: number) => Scanned | null
 
 type Held = Record<string, unknown>
 

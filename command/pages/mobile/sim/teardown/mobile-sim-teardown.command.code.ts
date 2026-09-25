@@ -15,7 +15,7 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mobileSimTeardown as page } from "akasha/command/pages/mobile/sim/teardown/mobile-sim-teardown.command.ts"
 
-export type Read = {
+type Read = {
   readonly stopAppium: boolean
 }
 

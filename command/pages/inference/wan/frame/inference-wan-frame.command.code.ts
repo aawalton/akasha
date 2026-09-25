@@ -32,7 +32,7 @@ function wrongIn(taken: Taken): readonly string[] {
   return [`\`${fpsArgument.said}\` is one frame a second or more`]
 }
 
-export type Framing = (done: string[], taken: Taken, given: Given) => Promise<Answer>
+type Framing = (done: string[], taken: Taken, given: Given) => Promise<Answer>
 
 async function framesIn(outDir: string): Promise<number> {
   return (await readdir(outDir)).filter((one) => FRAME_PATTERN.test(one)).length

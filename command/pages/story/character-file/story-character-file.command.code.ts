@@ -24,9 +24,9 @@ const NAMED = [readingsDirArgument, batchArgument] as const
 
 const BLANK = `\`${readingsDirArgument.said}\` names no folder`
 
-export type Taken = { readonly dir: string; readonly batch: number }
+type Taken = { readonly dir: string; readonly batch: number }
 
-export type Reading = Taken | { readonly refused: string }
+type Reading = Taken | { readonly refused: string }
 
 function taken(argv: readonly string[], calledAs: string): Reading {
   const read = takenFor(argv, calledAs, page, NAMED)

@@ -81,9 +81,9 @@ async function fetched(
   return { icons }
 }
 
-export type Making = (at: string) => undefined
+type Making = (at: string) => undefined
 
-export type Writing = (at: string, body: string) => undefined
+type Writing = (at: string, body: string) => undefined
 
 export type Staging = {
   readonly making: Making

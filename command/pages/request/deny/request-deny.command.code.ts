@@ -190,7 +190,7 @@ async function stated(
   return told([...saidFor(asked, giving, landed.commit)])
 }
 
-export type Denying = (done: string[], asked: Asked, given: Given) => Promise<Answer>
+type Denying = (done: string[], asked: Asked, given: Given) => Promise<Answer>
 
 async function denied(done: string[], asked: Asked, given: Given): Promise<Answer> {
   const root = resolve(given.root)

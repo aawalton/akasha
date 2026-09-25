@@ -26,7 +26,7 @@ export type Named = {
   readonly canonicalName: string
 }
 
-export type Writing = (done: string[], named: Named) => Promise<Answer>
+type Writing = (done: string[], named: Named) => Promise<Answer>
 
 async function written(done: string[], named: Named): Promise<Answer> {
   const made = await writeLoadOrder(named.root, named.dir, named.canonicalName, done)

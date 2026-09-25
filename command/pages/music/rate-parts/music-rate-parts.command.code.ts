@@ -68,7 +68,7 @@ export type Counted = {
   readonly shared: number
 }
 
-export type Chosen = {
+type Chosen = {
   readonly counts: Counted
   readonly taking: readonly Part[]
   readonly naming: readonly string[]

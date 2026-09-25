@@ -149,19 +149,19 @@ export function planSaid(plan: ManagementPlan): readonly string[] {
   return lines
 }
 
-export interface UndecidedStack {
+interface UndecidedStack {
   readonly itemId: number
   readonly itemName: string
   readonly units: number
   readonly missingSignals: readonly string[]
 }
 
-export interface UnmappedReport {
+interface UnmappedReport {
   readonly unreached: readonly TakenStack[]
   readonly undecided: readonly UndecidedStack[]
 }
 
-export interface OutcomeForItem {
+interface OutcomeForItem {
   readonly itemId: number
   readonly itemName: string
   readonly units: number

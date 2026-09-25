@@ -6,7 +6,7 @@ import {
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { bytesAt } from "akasha/command/modules/body-reaching/body-reaching.module.code.ts"
 
-export type Aimed = {
+type Aimed = {
   readonly absolute: string
 }
 

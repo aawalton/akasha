@@ -50,7 +50,7 @@ export type Named = {
   readonly sideFile: string | undefined
 }
 
-export type Writing = (done: string[], named: Named) => Answer
+type Writing = (done: string[], named: Named) => Answer
 
 function written(done: string[], named: Named): Answer {
   const sideFilePath = resolveSideFilePath(named.sideFile)

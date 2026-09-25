@@ -41,7 +41,7 @@ type Roll = {
   graded: number
 }
 
-export type ArtistRow = {
+type ArtistRow = {
   readonly slug: string
   readonly title: string
   readonly status: Status | null
@@ -52,7 +52,7 @@ export type ArtistRow = {
   readonly graded: number
 }
 
-export type Rung = {
+type Rung = {
   readonly grade: Grade | typeof NONE
   readonly artists: number
 }
@@ -169,7 +169,7 @@ function share(part: number, whole: number): string {
   return whole === 0 ? "-" : `${Math.round((part / whole) * 100)}%`
 }
 
-export type Wearing = (grade: Grade, said: string) => string
+type Wearing = (grade: Grade, said: string) => string
 
 export const bare: Wearing = (_grade, said) => said
 

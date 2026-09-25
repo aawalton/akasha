@@ -47,7 +47,7 @@ export function readGenerate(argv: readonly string[], calledAs: string): Read<Ta
   return takenFor(argv, calledAs, page, PAGES)
 }
 
-export type Making = (taken: Taken, given: Given, done: string[]) => Promise<Answer>
+type Making = (taken: Taken, given: Given, done: string[]) => Promise<Answer>
 
 export async function inferenceWanGenerate(
   argv: readonly string[],

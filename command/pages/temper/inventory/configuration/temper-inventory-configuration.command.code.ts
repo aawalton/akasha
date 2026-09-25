@@ -51,7 +51,7 @@ type CompiledInventoryConfig = {
 
 type Weighed = { readonly divergence: Divergence } | { readonly unread: string }
 
-export type Reading = Section | { readonly refused: readonly string[] }
+type Reading = Section | { readonly refused: readonly string[] }
 
 export function sectionIn(said: string): Reading {
   if (!SECTIONS.includes(said as Section)) {

@@ -11,7 +11,7 @@ import { systemctl } from "akasha/infrastructure/service/akasha-service/service-
 import { readFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import { installedUnitName } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
 
-export type Named = {
+type Named = {
   readonly workstationService: string
 }
 

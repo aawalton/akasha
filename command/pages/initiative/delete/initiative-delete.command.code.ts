@@ -67,9 +67,9 @@ export function namedSaid(one: Named): string {
   return `\`${one.path}\` still names it as its \`${one.propertySlug}\``
 }
 
-export type Reassigned = { readonly path: string; readonly to: string }
+type Reassigned = { readonly path: string; readonly to: string }
 
-export type Reassigning = {
+type Reassigning = {
   readonly reassigned: readonly Reassigned[]
   readonly left: readonly Named[]
 }
@@ -174,7 +174,7 @@ async function away(
   return told([...saidFor(slug, split, landed.commit)])
 }
 
-export type Taking = (done: string[], named: string, given: Given) => Promise<Answer>
+type Taking = (done: string[], named: string, given: Given) => Promise<Answer>
 
 async function takenAway(done: string[], named: string, given: Given): Promise<Answer> {
   const root = resolve(given.root)

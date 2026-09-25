@@ -30,7 +30,7 @@ const WALKED_PAST: ReadonlySet<string> = new Set(["node_modules", "dist", "targe
 
 const UNDER = "/"
 
-export interface Reading {
+interface Reading {
   readonly runs: readonly Run[]
   readonly unread: readonly string[]
   readonly torn: readonly string[]

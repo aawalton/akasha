@@ -36,12 +36,12 @@ const MAIN = "origin/main"
 
 const SHORT_SHA = 12
 
-export type Read = {
+type Read = {
   readonly app: MobileApp
   readonly json: boolean
 }
 
-export type Comparing = (done: string[], read: Read) => Promise<Answer>
+type Comparing = (done: string[], read: Read) => Promise<Answer>
 
 async function compared(done: string[], read: Read): Promise<Answer> {
   const repoRoot = resolveRepoRoot(codeRoot())

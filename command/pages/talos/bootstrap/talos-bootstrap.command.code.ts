@@ -14,7 +14,7 @@ import { talosBootstrap as page } from "akasha/command/pages/talos/bootstrap/tal
 import { clusterTalosconfigPath } from "akasha/infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/modules/talosctl/talosctl.module.code.ts"
 
-export type Named = { readonly ip: string; readonly cluster: string }
+type Named = { readonly ip: string; readonly cluster: string }
 
 async function bootstrapping(read: Named, given: Given): Promise<Answer> {
   const cluster = read.cluster

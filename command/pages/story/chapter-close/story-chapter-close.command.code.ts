@@ -57,11 +57,11 @@ const POSITION = "position"
 const A_NOT_SLUG = /[^a-z0-9]+/g
 const AN_EDGE_DASH = /^-|-$/g
 
-export type Taken = { readonly story: string; readonly through: number; readonly title: string }
+type Taken = { readonly story: string; readonly through: number; readonly title: string }
 
-export type Read = Taken | { readonly refused: string }
+type Read = Taken | { readonly refused: string }
 
-export type Turn = { readonly at: string; readonly position: number }
+type Turn = { readonly at: string; readonly position: number }
 
 export function taken(argv: readonly string[], calledAs: string): Read {
   const read = takenFor(argv, calledAs, page, NAMED)
@@ -78,7 +78,7 @@ export function taken(argv: readonly string[], calledAs: string): Read {
   return { story, through, title }
 }
 
-export function slugOf(title: string): string {
+function slugOf(title: string): string {
   return title.toLowerCase().replace(A_NOT_SLUG, "-").replace(AN_EDGE_DASH, "")
 }
 

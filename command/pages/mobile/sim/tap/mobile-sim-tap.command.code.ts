@@ -20,7 +20,7 @@ import { mobileSimTap as page } from "akasha/command/pages/mobile/sim/tap/mobile
 
 const BY_CSS = "css selector"
 
-export type Reading<T> = T | { readonly refused: readonly string[] }
+type Reading<T> = T | { readonly refused: readonly string[] }
 
 export type Read = { readonly selector: string } | { readonly x: number; readonly y: number }
 
@@ -41,7 +41,7 @@ function pointedAt(
   return { x: across, y: down }
 }
 
-export type Tapping = (done: string[], read: Read) => Promise<Answer>
+type Tapping = (done: string[], read: Read) => Promise<Answer>
 
 export type Touching = {
   readonly state: (done: string[]) => Promise<SimSessionState>

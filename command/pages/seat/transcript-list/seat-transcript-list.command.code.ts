@@ -12,7 +12,7 @@ import { seatTranscriptList as page } from "akasha/command/pages/seat/transcript
 
 const TRANSCRIPT_KEY = "transcript-path"
 
-export interface SeatTranscript {
+interface SeatTranscript {
   readonly agentId: string
   readonly seatName: string
   readonly transcriptPath: string
@@ -20,7 +20,7 @@ export interface SeatTranscript {
 
 export type Held = { readonly value: string } | null
 
-export type Reading = (agentId: string, key: string) => Held
+type Reading = (agentId: string, key: string) => Held
 
 export function transcriptsOver(
   seats: Iterable<readonly [string, string]>,

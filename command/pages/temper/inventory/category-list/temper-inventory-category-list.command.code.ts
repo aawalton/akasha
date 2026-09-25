@@ -24,7 +24,7 @@ const HEADER = "[TemperItems] Categories:"
 
 const INDENT = "  "
 
-export interface CategoryRow {
+interface CategoryRow {
   readonly id: string
   readonly name: string
   readonly parent: string | null

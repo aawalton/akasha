@@ -41,9 +41,9 @@ export type Seated = {
   readonly running: boolean
 }
 
-export type Seating = (root: string, name: string) => Seated | null
+type Seating = (root: string, name: string) => Seated | null
 
-export type Reached = { readonly name: string; readonly at: string } | { readonly refused: string }
+type Reached = { readonly name: string; readonly at: string } | { readonly refused: string }
 
 function noInitiative(slug: string): string {
   return `\`${slug}\` names no initiative, so there is nothing to assign`

@@ -112,16 +112,16 @@ const REACHING: Reach = {
   searchLyrics,
 }
 
-export type Taken = {
+type Taken = {
   readonly name: string | null
   readonly mbid: string | null
   readonly limit: number | null
   readonly json: boolean
 }
 
-export type Reading = Taken | { readonly refused: string }
+type Reading = Taken | { readonly refused: string }
 
-export type Imported = {
+type Imported = {
   readonly mbid: string
   readonly artistName: string
   readonly artistSlug: string
@@ -226,7 +226,7 @@ function joinedIn(
   return edited(composed.put)
 }
 
-export type Asked = {
+type Asked = {
   readonly slug: string
   readonly fields: SongFields
   readonly title: string

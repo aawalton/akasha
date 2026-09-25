@@ -56,7 +56,7 @@ const UTF8 = "utf8"
 
 const JSONL = ".jsonl"
 
-export type Taken = { readonly category: number | null } | { readonly refused: string }
+type Taken = { readonly category: number | null } | { readonly refused: string }
 
 export function taken(argv: readonly string[], calledAs: string): Taken {
   const read = takenFor(argv, calledAs, page, NAMED)

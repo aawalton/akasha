@@ -11,13 +11,13 @@ const HEADING: readonly string[] = ["type", "files", "lines"]
 
 const UNREAD = "these were not read, and count no lines:"
 
-export interface FileType {
+interface FileType {
   readonly type: string
   readonly files: number
   readonly lines: number
 }
 
-export interface Counts {
+interface Counts {
   readonly types: readonly FileType[]
   readonly files: number
   readonly lines: number

@@ -83,7 +83,7 @@ export type Read = {
   readonly title: string | undefined
 }
 
-export type Traced =
+type Traced =
   | { readonly entries: readonly unknown[] }
   | { readonly missing: true }
   | { readonly quiet: true }

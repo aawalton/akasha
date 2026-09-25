@@ -16,7 +16,7 @@ export function wrongIn(asked: Asked): readonly string[] {
   return asked.slug.trim() === "" ? [NO_SLUG] : []
 }
 
-export type Reached = {
+type Reached = {
   readonly at: string
   readonly standing: string | null
 }

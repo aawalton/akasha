@@ -27,7 +27,7 @@ const REJECTED_INPUTS = 2
 
 const PAGES = [floorArgument, framesDirArgument, referenceArgument]
 
-export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
 function wrongIn(taken: Taken): readonly string[] {
   const said = taken.floor

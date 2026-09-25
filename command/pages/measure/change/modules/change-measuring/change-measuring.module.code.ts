@@ -49,7 +49,7 @@ export function pagesIn(root: string): readonly string[] {
   return listedAt(root, COMMAND, APPLY_SLUG).map((one) => one.path)
 }
 
-export interface Reading {
+interface Reading {
   readonly runs: readonly Run[]
   readonly unread: readonly string[]
   readonly torn: readonly string[]

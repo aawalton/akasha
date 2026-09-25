@@ -31,7 +31,7 @@ export type Read = {
   readonly stepMs: number
 }
 
-export type Dragging = (done: string[], read: Read) => Promise<Answer>
+type Dragging = (done: string[], read: Read) => Promise<Answer>
 
 export type Pressing = {
   readonly state: (done: string[]) => Promise<SimSessionState>

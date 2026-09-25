@@ -38,7 +38,7 @@ const DD = "dd"
 
 const METHODS = [AUTO, KEXEC, DD] as const
 
-export type Method = (typeof METHODS)[number]
+type Method = (typeof METHODS)[number]
 
 const MAINTENANCE_PORT = 50000
 
@@ -63,7 +63,7 @@ function methodIn(said: string | undefined): Method | null {
   return null
 }
 
-export type Urls = {
+type Urls = {
   readonly raw: string
   readonly kernel: string
   readonly initramfs: string

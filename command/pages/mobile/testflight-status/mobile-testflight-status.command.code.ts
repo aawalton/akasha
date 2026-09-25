@@ -30,7 +30,7 @@ const A_SECOND = 1_000
 
 const A_MINUTE = 60_000
 
-export type Read = {
+type Read = {
   readonly app: MobileApp
   readonly wait: boolean
 }

@@ -105,7 +105,7 @@ function ownSeatIn(agentId: string, seatAt: SeatAt): readonly string[] | null {
   return at === null ? null : [at]
 }
 
-export type Target = {
+type Target = {
   readonly named: string
   readonly absolute: string
 }

@@ -33,7 +33,7 @@ const STAGGER_MS = 1_000
 
 const ACK_TIMEOUT_MS = 30_000
 
-export type Taken = {
+type Taken = {
   readonly seat?: string
   readonly fleet: boolean
   readonly json: boolean
@@ -41,7 +41,7 @@ export type Taken = {
 
 export type Outcome = "swapped" | "no-live-proxy" | "timeout"
 
-export type Held = { readonly agentId: string; readonly status: Outcome }
+type Held = { readonly agentId: string; readonly status: Outcome }
 
 export function askedSaid(agentId: string): string {
   return `${agentId} holds the ask to swap its gateway, so that gateway swaps whatever follows`

@@ -8,7 +8,7 @@ import {
   tooWide,
 } from "akasha/command/modules/long-body/long-body.module.code.ts"
 
-export type Longing = {
+type Longing = {
   readonly calledAs: string
   readonly named: string
   readonly text: string
@@ -16,7 +16,7 @@ export type Longing = {
   readonly budget: number
 }
 
-export type Longed = {
+type Longed = {
   readonly lines: readonly string[]
   readonly run: Run | null
   readonly refusal: string | null

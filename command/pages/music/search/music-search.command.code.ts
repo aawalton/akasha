@@ -23,7 +23,7 @@ const MAX_FETCH = 10
 
 const NAMED = [artistArgument, json, limitArgument, queryArgument]
 
-export type SearchEnvelope = {
+type SearchEnvelope = {
   readonly query: string
   readonly artist: string | null
   readonly candidates: readonly TrackCandidate[]

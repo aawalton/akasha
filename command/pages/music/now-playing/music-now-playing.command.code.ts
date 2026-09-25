@@ -16,7 +16,7 @@ const NO_DEVICE = "No active Spotify device"
 
 const NOTHING = "(nothing)"
 
-export type NowPlayingItem = {
+type NowPlayingItem = {
   readonly name: string
   readonly uri: string
   readonly id: string | null
@@ -35,7 +35,7 @@ export type NowPlayingCurrent = {
   readonly progress_ms?: number | null
 }
 
-export type NowPlayingTrack = {
+type NowPlayingTrack = {
   readonly name: string
   readonly uri: string
   readonly id: string | null

@@ -29,7 +29,7 @@ const FROM_NAMED = "TELNYX_FROM_NUMBER"
 
 const BODY = filing(textArgument.said)
 
-export type Reading<T> = T | { readonly refused: readonly string[] }
+type Reading<T> = T | { readonly refused: readonly string[] }
 
 function bodyIn(root: string, said: string | undefined, path: string | undefined): Reading<string> {
   const held = filledIn(root, said, path, BODY)
@@ -70,7 +70,7 @@ export type Named = {
   readonly json: boolean
 }
 
-export type Reaching = (asked: TelnyxSendRequest) => Promise<Response>
+type Reaching = (asked: TelnyxSendRequest) => Promise<Response>
 
 async function reached(asked: TelnyxSendRequest): Promise<Response> {
   return await fetch(asked.url, {
@@ -110,7 +110,7 @@ async function sent(done: string[], named: Named, reaching: Reaching): Promise<A
   return told([`sent\t${named.to}\t${answered.id}`])
 }
 
-export type Sending = (done: string[], named: Named, reaching: Reaching) => Promise<Answer>
+type Sending = (done: string[], named: Named, reaching: Reaching) => Promise<Answer>
 
 export async function sentBy(
   named: Named,

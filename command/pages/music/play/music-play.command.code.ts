@@ -81,7 +81,7 @@ const PLAYING: Playing = {
   startResumePlayback,
 }
 
-export type PlayEnvelope = {
+type PlayEnvelope = {
   readonly query: string | null
   readonly track: ResolvedTrack
   readonly deviceId: string | null

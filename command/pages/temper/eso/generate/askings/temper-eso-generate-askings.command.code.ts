@@ -26,7 +26,7 @@ import {
 } from "akasha/temper/capture/player-answer/modules/player-askings-reading/player-askings-reading.module.code.ts"
 import { esouiDocPath } from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
 
-export const ASKINGS_AT =
+const ASKINGS_AT =
   "temper/capture/player-answer/modules/player-askings/player-askings.data-table.code.ts"
 
 const NAMED = [codeRootArgument] as const

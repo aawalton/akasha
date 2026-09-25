@@ -24,7 +24,7 @@ import {
   treeLaidDown,
 } from "akasha/infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts"
 
-export type Read = {
+type Read = {
   readonly root: string
   readonly commit: string
   readonly app: string
@@ -32,7 +32,7 @@ export type Read = {
   readonly json: boolean
 }
 
-export type Bootstrapping = (done: string[], read: Read) => Promise<Answer>
+type Bootstrapping = (done: string[], read: Read) => Promise<Answer>
 
 async function bootstrapped(done: string[], read: Read): Promise<Answer> {
   const treePath = treeLaidDown(read.root, read.commit)

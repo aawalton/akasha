@@ -15,7 +15,7 @@ const TRANSCRIPT_SUFFIX = ".jsonl"
 
 const STAMP_LENGTH = 8
 
-export interface Rates {
+interface Rates {
   readonly input: number
   readonly write5m: number
   readonly write1h: number
@@ -23,7 +23,7 @@ export interface Rates {
   readonly output: number
 }
 
-export interface Tokens {
+interface Tokens {
   readonly input: number
   readonly write5m: number
   readonly write1h: number
@@ -32,7 +32,7 @@ export interface Tokens {
   readonly calls: number
 }
 
-export interface Counted {
+interface Counted {
   readonly byModel: ReadonlyMap<string, Tokens>
   readonly unpriced: readonly string[]
   readonly files: number

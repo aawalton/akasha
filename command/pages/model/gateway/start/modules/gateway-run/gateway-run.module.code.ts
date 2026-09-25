@@ -28,7 +28,7 @@ export type Asked = {
   readonly budgetMs: number
 }
 
-export type Spawned = {
+type Spawned = {
   readonly pid: number | undefined
   readonly outOf: () => ReadableStream<Uint8Array> | undefined
   readonly loosed: () => undefined
@@ -47,7 +47,7 @@ export type RunSeams = {
   readonly logDirFor: (agentId: string) => string
 }
 
-export type Started = {
+type Started = {
   readonly entry: string
   readonly agentId: string
   readonly pid: number

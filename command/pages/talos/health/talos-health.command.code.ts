@@ -16,7 +16,7 @@ import { talosHealth as page } from "akasha/command/pages/talos/health/talos-hea
 import { clusterTalosconfigPath } from "akasha/infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts"
 import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/modules/talosctl/talosctl.module.code.ts"
 
-export type Named = {
+type Named = {
   readonly ip: string
   readonly cluster: string
   readonly controlPlanes: readonly string[]

@@ -24,7 +24,7 @@ const PIPED = "-"
 
 const BY_CSS = "css selector"
 
-export type Reading<T> = T | { readonly refused: readonly string[] }
+type Reading<T> = T | { readonly refused: readonly string[] }
 
 export type Read = {
   readonly text: string

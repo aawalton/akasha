@@ -14,7 +14,7 @@ import type { Answer, Given } from "akasha/command/modules/calling/calling.modul
 import { mobileSimScreenshot as page } from "akasha/command/pages/mobile/sim/screenshot/mobile-sim-screenshot.command.ts"
 import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
-export type Read = {
+type Read = {
   readonly output: string
 }
 
@@ -22,7 +22,7 @@ export function pathIn(said: string | undefined, nowMs: number): string {
   return said ?? join(SCRATCH_AT, `mobile-sim-${nowMs}.png`)
 }
 
-export type Picturing = (done: string[], read: Read) => Promise<Answer>
+type Picturing = (done: string[], read: Read) => Promise<Answer>
 
 async function pictured(done: string[], read: Read): Promise<Answer> {
   const state = await driving(done)

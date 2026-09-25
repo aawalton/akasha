@@ -48,7 +48,7 @@ type TopTrack = {
   readonly artists?: readonly { readonly name: string }[]
 }
 
-export type Listening = {
+type Listening = {
   readonly window: TimeRange
   readonly limit: number
   readonly currentlyPlaying: Playing | null

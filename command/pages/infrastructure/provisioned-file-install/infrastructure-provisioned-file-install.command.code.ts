@@ -93,41 +93,41 @@ export type Placing = {
   readonly reload: string | null
 }
 
-export type Masking = {
+type Masking = {
   readonly page: string
   readonly unit: string
 }
 
-export type Weighing = {
+type Weighing = {
   readonly placings: readonly Placing[]
   readonly wrong: readonly string[]
   readonly maskings: readonly Masking[]
 }
 
-export type Masked = {
+type Masked = {
   readonly masking: Masking
   readonly already: boolean
   readonly saying: string
 }
 
-export type Standing = {
+type Standing = {
   readonly placing: Placing
   readonly already: boolean
   readonly saying: string
 }
 
-export type Stood = {
+type Stood = {
   readonly standings: readonly Standing[]
   readonly wrong: readonly string[]
 }
 
-export type Entering = {
+type Entering = {
   readonly entry: Entry
   readonly already: boolean
   readonly saying: string
 }
 
-export type Entered = {
+type Entered = {
   readonly enterings: readonly Entering[]
   readonly wrong: readonly string[]
 }
@@ -139,9 +139,9 @@ export type Ran = {
 
 export type Running = (argv: readonly string[]) => Ran
 
-export type Saying = (said: string) => undefined
+type Saying = (said: string) => undefined
 
-export type Done = {
+type Done = {
   readonly did: readonly string[]
   readonly refused: readonly string[]
 }

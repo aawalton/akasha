@@ -10,7 +10,7 @@ type Aimed = {
   readonly absolute: string
 }
 
-export type Barred<T extends Aimed> = {
+type Barred<T extends Aimed> = {
   readonly kept: readonly T[]
   readonly refusal: string | null
 }

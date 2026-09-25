@@ -4,9 +4,9 @@ import type {
   ShalidorDataTable,
 } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-types/lorebooks-types.module.code.ts"
 
-export type Row = Readonly<Record<string, unknown>>
+type Row = Readonly<Record<string, unknown>>
 
-export const PLACE_KEYS: Readonly<Record<string, string>> = {
+const PLACE_KEYS: Readonly<Record<string, string>> = {
   pm: "mapId",
   px: "mapX",
   py: "mapY",

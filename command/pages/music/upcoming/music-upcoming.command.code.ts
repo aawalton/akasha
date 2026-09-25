@@ -16,7 +16,7 @@ const NOTHING = "(nothing)"
 
 const NONE_QUEUED = "(nothing queued)"
 
-export type QueuedTrack = {
+type QueuedTrack = {
   readonly name: string
   readonly uri: string
   readonly id: string | null

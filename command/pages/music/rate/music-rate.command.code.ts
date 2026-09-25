@@ -141,7 +141,7 @@ const INSIGHTS_FILING: Filing = { said: insights.said, file: insightsFile.said, 
 
 export const WRITE = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-export type Taken = {
+type Taken = {
   readonly target: string
   readonly slug: string | null
   readonly justPlayed: boolean
@@ -151,7 +151,7 @@ export type Taken = {
   readonly json: boolean
 }
 
-export type Reading = Taken | { readonly refused: readonly string[] }
+type Reading = Taken | { readonly refused: readonly string[] }
 
 function strayedIn(target: string, prose: ReadonlyMap<string, string>): readonly string[] {
   const said: string[] = []

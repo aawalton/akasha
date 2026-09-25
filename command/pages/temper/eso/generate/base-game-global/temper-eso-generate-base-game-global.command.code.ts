@@ -50,7 +50,7 @@ const OWNER_ID = "01a06287-7841-7e04-b566-2bb1b434877d"
 
 type Taken = Taking<typeof page, typeof NAMED>
 
-export type Staging = Generating<Taken>
+type Staging = Generating<Taken>
 
 export async function staging(
   argv: readonly string[],

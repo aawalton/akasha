@@ -53,7 +53,7 @@ const KEPT_FOR_CLOSING = 800
 
 const ARGUMENTS = [pattern, within, glob, fileType, contextLines, filesOnly, ignoreCase] as const
 
-export type Asked = {
+type Asked = {
   readonly pattern: string
   readonly within: readonly string[]
   readonly globs: readonly string[]

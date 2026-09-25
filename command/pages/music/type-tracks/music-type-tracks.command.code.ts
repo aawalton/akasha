@@ -29,15 +29,15 @@ const TRACK_TYPE = "trackType"
 
 const NAMED = [json, limit] as const
 
-export type Taken = { readonly json: boolean; readonly limit: number | null }
+type Taken = { readonly json: boolean; readonly limit: number | null }
 
-export type Counted = {
+type Counted = {
   readonly tracks: number
   readonly typed: number
   readonly left: number
 }
 
-export type Typing = { readonly counts: Counted; readonly changes: readonly Asking[] }
+type Typing = { readonly counts: Counted; readonly changes: readonly Asking[] }
 
 export function taken(
   argv: readonly string[],

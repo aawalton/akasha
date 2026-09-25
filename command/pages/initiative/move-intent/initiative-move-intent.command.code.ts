@@ -82,7 +82,7 @@ async function placed(
   return told([...saidFor(asked, landed.commit)])
 }
 
-export type Carrying = (done: string[], asked: Asked, given: Given) => Promise<Answer>
+type Carrying = (done: string[], asked: Asked, given: Given) => Promise<Answer>
 
 async function carried(done: string[], asked: Asked, given: Given): Promise<Answer> {
   const root = resolve(given.root)

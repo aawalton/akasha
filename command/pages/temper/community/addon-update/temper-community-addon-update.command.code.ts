@@ -39,7 +39,7 @@ const NAMED = [json, codeRoot, addonsDirArgument, force, onlyArgument]
 
 const SPACES = 2
 
-export type Outcome = {
+type Outcome = {
   readonly dir: string
   readonly action: "updated" | "failed"
   readonly from: string | undefined
@@ -58,7 +58,7 @@ function dirsByUid(selected: readonly PlannedAddon[]): ReadonlyMap<string, strin
   return found
 }
 
-export type Saying = (dir: string, addonsPath: string) => string
+type Saying = (dir: string, addonsPath: string) => string
 
 export function amongDone(
   group: readonly PlannedAddon[],

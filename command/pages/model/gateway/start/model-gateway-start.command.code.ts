@@ -31,7 +31,7 @@ const MS = 1000
 
 const HIGHEST_PORT = 65535
 
-export type Taken = {
+type Taken = {
   readonly agentId?: string
   readonly gatewayLogDir?: string
   readonly gatewayPort?: number

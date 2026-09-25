@@ -20,7 +20,7 @@ const TS = "ts"
 
 const MEASURED = "measured"
 
-export type Measuring = (root: string) => Promise<readonly string[]>
+type Measuring = (root: string) => Promise<readonly string[]>
 
 export function thereAre(there: readonly string[]): string {
   return `the performances there are ${namesDrawn(there)}`

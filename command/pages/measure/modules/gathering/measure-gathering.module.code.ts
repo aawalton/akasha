@@ -20,7 +20,7 @@ import {
 
 const ENTRIES = "entries"
 
-export interface Gathered {
+interface Gathered {
   readonly runs: readonly Run[]
   readonly unread: readonly string[]
   readonly torn: readonly string[]

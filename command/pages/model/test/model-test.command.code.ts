@@ -24,7 +24,7 @@ const UNREACHED = "unreached"
 
 const SAID = 40
 
-export type Shown = {
+type Shown = {
   readonly json: boolean
   readonly broken: boolean
   readonly show: boolean

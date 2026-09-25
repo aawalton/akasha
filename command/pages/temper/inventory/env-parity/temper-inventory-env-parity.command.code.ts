@@ -44,14 +44,14 @@ const EXPLAIN_SIDE = "explain"
 
 const PLAN_SIDE = "plan"
 
-export interface Side {
+interface Side {
   readonly kind: string
   readonly action: string | null
   readonly destination: string | null
   readonly detail: string
 }
 
-export interface EnvParityRow {
+interface EnvParityRow {
   readonly itemId: number
   readonly itemName: string
   readonly stacks: number

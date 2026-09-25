@@ -63,7 +63,7 @@ export function slotFrom(held: ReadonlyMap<string, number>, asked: number | null
   return asked
 }
 
-export type Filing = (done: string[], read: Asked, given: Given) => Promise<Answer>
+type Filing = (done: string[], read: Asked, given: Given) => Promise<Answer>
 
 async function filedPage(done: string[], read: Asked, given: Given): Promise<Answer> {
   const held = aliasIndexesIn(given.root)

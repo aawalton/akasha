@@ -25,7 +25,7 @@ export function madeSaid(folder: string): string {
   return `the folder ${folder} was not there before this, and this made it`
 }
 
-export type Fetching = (done: string[], read: Named, given: Given) => Promise<Answer>
+type Fetching = (done: string[], read: Named, given: Given) => Promise<Answer>
 
 async function fetched(done: string[], read: Named, given: Given): Promise<Answer> {
   const cluster = read.cluster

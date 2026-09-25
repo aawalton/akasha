@@ -53,7 +53,7 @@ const TAKE = `${changeMechanical.slug}/${removeFileOfAnyKind.slug}` as const
 
 const NAMED = [json] as const
 
-export type Taken = { readonly json: boolean }
+type Taken = { readonly json: boolean }
 
 export type Held = {
   readonly slug: string
@@ -65,7 +65,7 @@ export type Held = {
   readonly value: Value
 }
 
-export type Counted = {
+type Counted = {
   readonly songs: number
   readonly groups: number
   readonly folded: number
@@ -74,7 +74,7 @@ export type Counted = {
   readonly held: number
 }
 
-export type Folding = {
+type Folding = {
   readonly counts: Counted
   readonly changes: readonly Asking[]
   readonly held: readonly string[]

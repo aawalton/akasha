@@ -26,7 +26,7 @@ export type Named = {
   readonly canonicalName: string
 }
 
-export type Copying = (done: string[], named: Named) => Promise<Answer>
+type Copying = (done: string[], named: Named) => Promise<Answer>
 
 async function copied(done: string[], named: Named): Promise<Answer> {
   const made = await copyAddonMetadata(named.root, named.dir, named.canonicalName, done)

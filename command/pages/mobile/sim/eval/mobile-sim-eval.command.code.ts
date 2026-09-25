@@ -18,9 +18,9 @@ const PIPED = "-"
 
 const INDENT = 2
 
-export type Reading<T> = T | { readonly refused: readonly string[] }
+type Reading<T> = T | { readonly refused: readonly string[] }
 
-export type Read = {
+type Read = {
   readonly script: string
 }
 
@@ -42,7 +42,7 @@ export function scriptIn(said: string, piping: Piping = inputIn): Reading<Read> 
   return { script: body }
 }
 
-export type Evaluating = (done: string[], read: Read) => Promise<Answer>
+type Evaluating = (done: string[], read: Read) => Promise<Answer>
 
 export type Running = {
   readonly state: (done: string[]) => Promise<SimSessionState>

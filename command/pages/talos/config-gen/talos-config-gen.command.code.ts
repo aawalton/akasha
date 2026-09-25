@@ -32,7 +32,7 @@ import type {
 
 const SCHEMATIC_ENV = "TALOS_SCHEMATIC_ID"
 
-export type Named = { readonly node: string; readonly output?: string }
+type Named = { readonly node: string; readonly output?: string }
 
 function schematicSaid(): string {
   return optionalEnv(SCHEMATIC_ENV) ?? PLACEHOLDER_SCHEMATIC_ID

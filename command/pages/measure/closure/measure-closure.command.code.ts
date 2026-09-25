@@ -45,7 +45,7 @@ const A_THOUSAND = 1000
 
 const HEADED: readonly string[] = ["seeds", "nodes", "edges", "cpu", "wall", "mem"]
 
-export type Spent = {
+type Spent = {
   readonly cpuSeconds: number
   readonly wallSeconds: number
   readonly bytes: number | null

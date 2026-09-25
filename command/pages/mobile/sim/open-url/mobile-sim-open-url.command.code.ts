@@ -22,14 +22,14 @@ import { mobileSimOpenUrl as page } from "akasha/command/pages/mobile/sim/open-u
 
 const TAKES = [app, udidArgument, route, kbDebug]
 
-export type Read = {
+type Read = {
   readonly app: MobileApp
   readonly route: string
   readonly kbDebug: boolean
   readonly udid: string | undefined
 }
 
-export type Routing = (done: string[], read: Read) => Promise<Answer>
+type Routing = (done: string[], read: Read) => Promise<Answer>
 
 async function opened(done: string[], read: Read): Promise<Answer> {
   const base = await ensureAppium(done)

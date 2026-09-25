@@ -51,7 +51,7 @@ const QUEUEING: Queueing = {
   addToQueue,
 }
 
-export type QueueEnvelope = {
+type QueueEnvelope = {
   readonly queries: readonly string[]
   readonly tracks: readonly ResolvedTrack[]
   readonly deviceId: string | null

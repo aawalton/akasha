@@ -53,7 +53,7 @@ export interface StackReading {
   readonly resolvedAt: number
 }
 
-export interface RecordParityRow {
+interface RecordParityRow {
   readonly itemId: number
   readonly itemName: string
   readonly stacks: number

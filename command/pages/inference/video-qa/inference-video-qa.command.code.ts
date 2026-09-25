@@ -79,7 +79,7 @@ async function urlsIn(dir: string, wanted: number): Promise<readonly string[]> {
   return urls
 }
 
-export type Read = {
+type Read = {
   readonly checklist: string
   readonly frames: number
   readonly fps: number | undefined
@@ -89,7 +89,7 @@ export type Read = {
   readonly commandLine: string
 }
 
-export type Asking = (done: string[], read: Read) => Promise<Answer>
+type Asking = (done: string[], read: Read) => Promise<Answer>
 
 export function decodedSaid(videoPath: string): string {
   return (

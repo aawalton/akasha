@@ -25,9 +25,9 @@ const SHORT_SHA = 12
 
 const LEAST_BUILD = 1
 
-export type Reading<T> = T | { readonly refused: readonly string[] }
+type Reading<T> = T | { readonly refused: readonly string[] }
 
-export type Read = {
+type Read = {
   readonly appSlug: string
   readonly fingerprint: CutFingerprint
 }

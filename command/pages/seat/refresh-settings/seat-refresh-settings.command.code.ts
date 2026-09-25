@@ -34,7 +34,7 @@ const NOTHING_LIVE =
   "no running process names a spawned settings file, which on this workstation means the scan " +
   "found nothing rather than that the fleet is empty"
 
-export type Outcome = "refreshed" | "unchanged" | "unreadable"
+type Outcome = "refreshed" | "unchanged" | "unreadable"
 
 export type Row = {
   readonly path: string

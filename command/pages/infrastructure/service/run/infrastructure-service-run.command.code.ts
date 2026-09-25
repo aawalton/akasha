@@ -20,9 +20,9 @@ import {
 import { reachedFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.code.ts"
 import { SERVICE_SUFFIX } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
 
-export type Running = (done: string[]) => void | Promise<void>
+type Running = (done: string[]) => void | Promise<void>
 
-export type Calling = (done: string[], slug: string, running: Running) => Promise<Answer>
+type Calling = (done: string[], slug: string, running: Running) => Promise<Answer>
 
 async function called(done: string[], slug: string, running: Running): Promise<Answer> {
   allowedThrough()
@@ -38,7 +38,7 @@ export async function calledBy(
   return await answering(async (done) => await calling(done, slug, running))
 }
 
-export type Stating = (unit: string) => UnitState | undefined
+type Stating = (unit: string) => UnitState | undefined
 
 function besideIt(unit: string, slug: string): string {
   return (

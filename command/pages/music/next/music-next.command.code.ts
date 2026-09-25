@@ -54,7 +54,7 @@ type Named = {
   readonly title: string
 }
 
-export type Selection = {
+type Selection = {
   readonly kind: Exploration["kind"]
   readonly artist?: Named
   readonly track?: Named
@@ -110,7 +110,7 @@ function songIn(held: Held): CatalogSong {
   }
 }
 
-export type Carriage = {
+type Carriage = {
   readonly artist: string
   readonly spotifyId: string
 }

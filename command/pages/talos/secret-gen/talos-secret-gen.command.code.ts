@@ -20,7 +20,7 @@ import { runTalosctl } from "akasha/infrastructure/cluster/provisioning/talos/mo
 
 export type Named = { readonly cluster: string; readonly force: boolean }
 
-export type Generating = (done: string[], read: Named) => Promise<Answer>
+type Generating = (done: string[], read: Named) => Promise<Answer>
 
 async function generated(done: string[], read: Named): Promise<Answer> {
   const destPath = clusterSecretsSopsPath()

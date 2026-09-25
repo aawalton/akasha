@@ -65,7 +65,7 @@ async function stated(
   return told([...saidFor(asked, landed.commit)])
 }
 
-export type Publishing = (done: string[], asked: Asked, given: Given) => Promise<Answer>
+type Publishing = (done: string[], asked: Asked, given: Given) => Promise<Answer>
 
 async function published(done: string[], asked: Asked, given: Given): Promise<Answer> {
   const root = resolve(given.root)

@@ -131,7 +131,7 @@ export const LANDED: Applied = {
 
 type Reached = { readonly asked: readonly Asking[]; readonly said: string }
 
-export type Reach = { readonly landing: Landing; readonly reached: Reached[] }
+type Reach = { readonly landing: Landing; readonly reached: Reached[] }
 
 export function reaching(answer: Applied | Refused = LANDED): Reach {
   const reached: Reached[] = []

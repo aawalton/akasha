@@ -33,7 +33,7 @@ export type Drawn = {
   readonly attributeSlug: string
 }
 
-export type Read = {
+type Read = {
   readonly measured: readonly Measured[]
   readonly unread: readonly string[]
 }

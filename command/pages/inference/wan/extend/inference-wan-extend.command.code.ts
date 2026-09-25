@@ -49,7 +49,7 @@ export function readExtend(argv: readonly string[], calledAs: string): Read<Take
   return takenFor(argv, calledAs, page, PAGES)
 }
 
-export type Making = (taken: Taken, given: Given, done: string[]) => Promise<Answer>
+type Making = (taken: Taken, given: Given, done: string[]) => Promise<Answer>
 
 export async function inferenceWanExtend(
   argv: readonly string[],

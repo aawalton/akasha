@@ -74,9 +74,9 @@ const PAGES = [
   widthArgument,
 ]
 
-export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
+type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
-export type Read = { readonly taken: Taken } | { readonly refused: readonly string[] }
+type Read = { readonly taken: Taken } | { readonly refused: readonly string[] }
 
 const PROMPT = filing(renderPrompt.said)
 

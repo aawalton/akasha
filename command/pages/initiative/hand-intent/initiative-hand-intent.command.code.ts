@@ -34,7 +34,7 @@ const STATEMENT = "statement"
 const NO_STATEMENT =
   "the statement said is empty, and an intent is named by the statement it states"
 
-export type Asked = {
+type Asked = {
   readonly from: string
   readonly statement: string
   readonly to: string
@@ -103,7 +103,7 @@ async function overTo(
   return told([...saidFor(asked, landed.commit)])
 }
 
-export type Handing = (done: string[], asked: Asked, given: Given) => Promise<Answer>
+type Handing = (done: string[], asked: Asked, given: Given) => Promise<Answer>
 
 async function handed(done: string[], asked: Asked, given: Given): Promise<Answer> {
   const root = resolve(given.root)

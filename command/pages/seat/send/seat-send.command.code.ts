@@ -20,12 +20,11 @@ import { seatSend as page } from "akasha/command/pages/seat/send/seat-send.comma
 
 const BODY_FILING: Filing = { said: "--body", file: "--body-file", whole: true }
 
-export const NO_SENDER =
-  "`AGENT_ID` names no seat, so there is no seat to send as, and nothing was sent"
+const NO_SENDER = "`AGENT_ID` names no seat, so there is no seat to send as, and nothing was sent"
 
 const NO_BODY = "a message says something, and this names no `--body` or `--body-file`"
 
-export type SeatNaming = (agentId: string) => string | null
+type SeatNaming = (agentId: string) => string | null
 
 export function senderIn(
   agentId: string | undefined,
@@ -38,7 +37,7 @@ export function senderIn(
   return above === null ? null : naming(above)
 }
 
-export type Stated = {
+type Stated = {
   readonly to: string
   readonly from: string
   readonly body: string

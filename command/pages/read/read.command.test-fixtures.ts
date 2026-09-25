@@ -100,14 +100,14 @@ export function argued(argv: readonly string[]): Answer {
   return read(argv, givenFor(rootWith([])))
 }
 
-export type Rooted = { readonly root: string; readonly said: Answer }
+type Rooted = { readonly root: string; readonly said: Answer }
 
 export function bareRead(at: string | null): Rooted {
   const root = seatRoot()
   return { root, said: read([], givenFor(root), at === null ? seatless : seatedAt(at)) }
 }
 
-export type Besided = Rooted & { readonly asked: () => number }
+type Besided = Rooted & { readonly asked: () => number }
 
 export function besideSeat(): Besided {
   const root = rootWith([
@@ -127,7 +127,7 @@ export function binRead(bytes: readonly number[]): Rooted {
   return { root, said: read(["--file-path", BIN], givenFor(root)) }
 }
 
-export type Overflowed = Rooted & {
+type Overflowed = Rooted & {
   readonly left: readonly string[]
   readonly returned: readonly string[]
 }
@@ -145,7 +145,7 @@ export function restOfMany(): Overflowed {
   return { root, said, left, returned: wholeIn(said.report) }
 }
 
-export type Moved = { readonly said: Answer; readonly held: Reading | null; readonly now: string }
+type Moved = { readonly said: Answer; readonly held: Reading | null; readonly now: string }
 
 export function movedAfterCommit(): Moved {
   const root = heldRoot(lettered(80))
@@ -172,7 +172,7 @@ export const WAITED = 400
 
 const AT_ONCE = 0
 
-export type Waited = Rooted & { readonly spent: number }
+type Waited = Rooted & { readonly spent: number }
 
 export function waitedOut(): Waited {
   const root = heldRoot()
@@ -182,7 +182,7 @@ export function waitedOut(): Waited {
   return { root, said, spent: Date.now() - at }
 }
 
-export type Landed = {
+type Landed = {
   readonly before: boolean
   readonly after: boolean
   readonly spent: number
@@ -318,7 +318,7 @@ export function everyPaged(): readonly string[] {
   return namingPages().filter((one) => one !== "--file-path")
 }
 
-export type Ceilinged = {
+type Ceilinged = {
   readonly first: Answer
   readonly second: Answer
   readonly both: readonly string[]
@@ -333,7 +333,7 @@ export function ceilinged(): Ceilinged {
   return { first, second, both: [...first.report, ...second.report], left }
 }
 
-export type Priced = {
+type Priced = {
   readonly said: Answer
   readonly call: string
 }

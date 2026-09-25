@@ -20,18 +20,18 @@ const HEADING: readonly string[] = ["type", "pages", "page lines", "properties",
 
 const UNREAD = "these were not read, and count no lines:"
 
-export interface Tally {
+interface Tally {
   readonly files: number
   readonly lines: number
 }
 
-export interface Counted {
+interface Counted {
   readonly type: string
   readonly pages: Tally
   readonly properties: Tally
 }
 
-export interface Counts {
+interface Counts {
   readonly types: readonly Counted[]
   readonly pages: Tally
   readonly properties: Tally

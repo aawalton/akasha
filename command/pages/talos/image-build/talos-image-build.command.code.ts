@@ -29,7 +29,7 @@ import type {
   NodeIntent,
 } from "akasha/infrastructure/cluster/provisioning/talos/modules/schema/schema.module.code.ts"
 
-export type Named = { readonly node: string; readonly download?: string }
+type Named = { readonly node: string; readonly download?: string }
 
 async function fetched(
   url: string

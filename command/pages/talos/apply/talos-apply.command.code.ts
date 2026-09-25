@@ -40,13 +40,13 @@ const CONTROL_PLANE = "controlplane"
 
 const WORKER = "worker"
 
-export type Named = {
+type Named = {
   readonly node: string
   readonly ip: string
   readonly cluster?: string
 }
 
-export type Registering = (yaml: string) => Promise<string>
+type Registering = (yaml: string) => Promise<string>
 
 export type Running = (call: { readonly args: readonly string[] }) => Promise<unknown>
 

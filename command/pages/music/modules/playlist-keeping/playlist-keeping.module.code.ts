@@ -45,7 +45,7 @@ export type Reach = {
 
 export const REACHING: Reach = { heldTracks, addTracks, removeTracks, putTracks }
 
-export type Named = {
+type Named = {
   readonly id: string
   readonly link: string | null
 }
@@ -61,7 +61,7 @@ export type Kept = {
   readonly ordered: number
 }
 
-export type Picking = (
+type Picking = (
   tracks: readonly Value[],
   releases: readonly Value[],
   followed: ReadonlySet<string>

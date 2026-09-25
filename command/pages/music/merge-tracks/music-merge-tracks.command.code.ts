@@ -53,7 +53,7 @@ export type Held = {
   readonly value: Value
 }
 
-export type Counted = {
+type Counted = {
   readonly tracks: number
   readonly keys: number
   readonly groups: number
@@ -62,7 +62,7 @@ export type Counted = {
   readonly skipped: number
 }
 
-export type Merging = { readonly counts: Counted; readonly changes: readonly Asking[] }
+type Merging = { readonly counts: Counted; readonly changes: readonly Asking[] }
 
 export function orderedBySlug(group: readonly Held[]): readonly Held[] {
   return [...group].toSorted((mine, theirs) =>

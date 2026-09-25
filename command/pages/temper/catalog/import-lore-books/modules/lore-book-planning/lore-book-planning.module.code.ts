@@ -17,7 +17,7 @@ export type Sources = {
   readonly captured: readonly LoreCategoryEntry[]
 }
 
-export type PlannedBook = {
+type PlannedBook = {
   readonly slug: string
   readonly values: Readonly<Record<string, unknown>>
 }
