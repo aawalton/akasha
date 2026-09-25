@@ -28,6 +28,10 @@ export const temperWindow = {
       decisionKind: "decision-kind/departure",
       statement: "What Temper shows over play, with no title and nothing to close, has no frame.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Text Temper shows over play has a shadow.",
+    },
 
     {
       decisionKind: "decision-kind/gap",
