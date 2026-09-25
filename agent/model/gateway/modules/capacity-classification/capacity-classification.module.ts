@@ -4,7 +4,7 @@ export const capacityClassification = {
   id: "01a0623c-6939-7dce-a9f7-3cfecdd8823a",
   type: "page-type/module",
   slug: "capacity-classification",
-  definition: "what a 429 from upstream says about capacity",
+  definition: "what an error from Anthropic shows about a model account's budget",
   code: "ts",
   test: "ts",
   decisions: [
