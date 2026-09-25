@@ -4,7 +4,7 @@ export const keepalive = {
   id: "01a06227-7bc1-7404-94dc-9da2da8daa1c",
   type: "page-type/module",
   slug: "keepalive",
-  definition: "a comment sent down a quiet stream so the reader knows it is still there",
+  definition: "the text a model gateway sends to an agent where a model sends no text for a time",
   code: "ts",
   test: "ts",
   decisions: [
