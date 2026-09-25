@@ -16,7 +16,6 @@ import { JP } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-d
 import { PL } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-drop-name-names-pl/sets-drop-name-names-pl.module.code.ts"
 import { RU } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-drop-name-names-ru/sets-drop-name-names-ru.module.code.ts"
 import { ZH } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-drop-name-names-zh/sets-drop-name-names-zh.module.code.ts"
-import { checkIfPTSAPIVersionIsLive } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-drop-name-shared-text/sets-drop-name-shared-text.module.code.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
 lib.dropMechanicIdToName = {
@@ -28,6 +27,4 @@ lib.dropMechanicIdToName = {
   [LANG_RU]: RU,
   [LANG_JP]: JP,
   [LANG_ZH]: ZH,
-}
-if (checkIfPTSAPIVersionIsLive()) {
 }

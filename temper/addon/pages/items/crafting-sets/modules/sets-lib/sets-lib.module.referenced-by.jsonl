@@ -46,9 +46,7 @@
 {"propertySlug":"import","fileName":"sets-lib.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-dungeon-finder/sets-debug-dungeon-finder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-lib.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-scan-report/sets-debug-scan-report.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-lib.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-drop-name-install-names/sets-drop-name-install-names.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"sets-lib.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-drop-name-shared-text/sets-drop-name-shared-text.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-lib.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-drop-tip-install-tooltips/sets-drop-tip-install-tooltips.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"sets-lib.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-drop-tip-shared-text/sets-drop-tip-shared-text.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-lib.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-kbf-dlc-filter/sets-kbf-dlc-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-lib.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-kbf-drop-filters/sets-kbf-drop-filters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-lib.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-kbf-favorites-filter/sets-kbf-favorites-filter.module.code.ts","typed":false,"deferred":false}

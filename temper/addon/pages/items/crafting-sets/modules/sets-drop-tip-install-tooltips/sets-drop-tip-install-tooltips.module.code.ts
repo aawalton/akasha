@@ -8,7 +8,7 @@ import {
   LANG_RU,
   LANG_ZH,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-drop-tip-language-codes/sets-drop-tip-language-codes.module.code.ts"
-import { checkIfPTSAPIVersionIsLive } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-drop-tip-shared-text/sets-drop-tip-shared-text.module.code.ts"
+
 import { DE } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-drop-tip-tooltips-de/sets-drop-tip-tooltips-de.module.code.ts"
 import { EN } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-drop-tip-tooltips-en/sets-drop-tip-tooltips-en.module.code.ts"
 import { ES } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-drop-tip-tooltips-es/sets-drop-tip-tooltips-es.module.code.ts"
@@ -28,6 +28,4 @@ lib.dropMechanicIdToNameTooltip = {
   [LANG_RU]: RU,
   [LANG_JP]: JP,
   [LANG_ZH]: ZH,
-}
-if (checkIfPTSAPIVersionIsLive()) {
 }

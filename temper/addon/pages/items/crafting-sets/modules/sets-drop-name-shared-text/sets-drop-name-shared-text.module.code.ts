@@ -1,8 +1,5 @@
-import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-lib-sets-strings/eso-lib-sets-strings.type-declaration.d.ts"
-
-export const checkIfPTSAPIVersionIsLive = lib.checkIfPTSAPIVersionIsLive
 
 export const zogcn = GetCollectibleName
 
