@@ -270,12 +270,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-dropdown-class-search/scrollable-menu-dropdown-class-search.module.ts","id":"01a06275-c448-784f-b2c1-a28462d70542"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/world/collections/modules/treasure-api/treasure-api.module.ts","id":"01a061d5-d0c0-73e1-8312-b0bc2d8d34a1"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
-{"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
-{"propertySlug":"decision-kind","path":"temper/items/core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-market-value-filter/search-market-value-filter.module.ts","id":"01a0613a-e0aa-7ec9-8d23-f17ea1e32d8e"}
 {"propertySlug":"decision-kind","path":"temper/items/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.ts","id":"01a06038-b7a4-79d6-aa24-39870ef827c8"}
-{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.ts","id":"01a060d9-44ca-7f34-b2bb-07aab8837d17"}
-{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.ts","id":"01a06100-3bed-7b56-8709-2a82c720204e"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.ts","id":"01a072ae-f698-75c0-bcb4-f2b491d93e68"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts","id":"01a068e2-226a-7523-928d-85398937e67c"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.ts","id":"01a072b6-0546-7d78-8e19-d3cb86901c69"}

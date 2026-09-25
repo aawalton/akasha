@@ -16,9 +16,5 @@ export const inventoryCurrencyData = {
       decisionKind: "decision-kind/constraint",
       statement: "The order of this table is the order a balance summary lists currencies in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A currency moved to another place reorders every balance summary shown.",
-    },
   ],
 } as const satisfies Module

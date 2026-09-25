@@ -15,9 +15,5 @@ export const locationTypeData = {
       decisionKind: "decision-kind/constraint",
       statement: "The order of this table is the order a reading shows locations in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A location type moved to another place reorders every inventory shown.",
-    },
   ],
 } as const satisfies Module

@@ -19,9 +19,5 @@ export const comparisonOpData = {
       decisionKind: "decision-kind/constraint",
       statement: "An operator's place in this table is the order the operators are offered in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "An operator moved to another place changes which operator an agent meets first.",
-    },
   ],
 } as const satisfies Module

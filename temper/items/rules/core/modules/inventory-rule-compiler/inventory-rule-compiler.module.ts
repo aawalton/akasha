@@ -20,9 +20,5 @@ export const inventoryRuleCompiler = {
       decisionKind: "decision-kind/constraint",
       statement: "A compiled rule's place in the list is the order the rules are tried in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A rule moved to another place changes which rule an item matches first.",
-    },
   ],
 } as const satisfies Module
