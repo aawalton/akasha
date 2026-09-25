@@ -16,7 +16,7 @@ export const storyEngine = {
       statement: "No deployed code names one story or one world.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every word a game master is served changes without a deploy.",
     },
   ],

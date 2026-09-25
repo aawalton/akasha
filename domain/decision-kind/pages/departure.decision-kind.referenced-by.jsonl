@@ -3584,6 +3584,7 @@
 {"propertySlug":"decision-kind","path":"story/engine/doctrine/properties/doctrine-version.number-property.ts","id":"01a06590-c57a-7735-8352-d549372de788"}
 {"propertySlug":"decision-kind","path":"story/engine/doctrine/properties/policies.file-property.ts","id":"01a06590-c57a-759d-9dcc-73c83dba1a1a"}
 {"propertySlug":"decision-kind","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
+{"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
 {"propertySlug":"decision-kind","path":"story/game/game-attribute/game-attribute.page-type.ts","id":"01a0c489-28b0-7100-a172-6999668e415c"}
 {"propertySlug":"decision-kind","path":"story/game/game-design-entry/game-design-entry.page-type.ts","id":"01a0c93c-f844-73b7-a9c9-68ff736436d1"}
 {"propertySlug":"decision-kind","path":"story/game/game-design-entry/properties/design-note.file-property.ts","id":"01a0c93e-712d-7182-aebc-49d4265cf68a"}
