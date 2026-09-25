@@ -4,7 +4,7 @@ export const procScan = {
   id: "01a0695a-d2ea-7a46-91a8-5f8779a67282",
   type: "page-type/module",
   slug: "proc-scan",
-  definition: "every process under /proc with an AGENT_ID, with its command line and its parent",
+  definition: "every process that has an agent id",
   code: "ts",
   decisions: [
     {
