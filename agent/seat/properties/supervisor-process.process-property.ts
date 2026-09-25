@@ -5,6 +5,6 @@ export const supervisorProcess = {
   type: "page-type/process-property",
   slug: "supervisor-process",
   propertySlug: "supervisor-process",
-  definition: "the process keeping a seat filled",
+  definition: "the process of a seat's supervisor",
   types: "ts",
 } as const satisfies ProcessProperty
