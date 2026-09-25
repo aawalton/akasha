@@ -23,14 +23,6 @@ export const TEMPER_WEB_CACHE: CacheLocation = {
     "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
 } as const
 
-export const SMILINGJENNY_WEB_CACHE: CacheLocation = {
-  backing: "hostPath",
-  hostPath: "/var/smilingjenny-web-cache",
-  hostPathType: "DirectoryOrCreate",
-  cloneOriginUrl:
-    "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git",
-} as const
-
 export const INNWORLD_WEB_CACHE: CacheLocation = {
   backing: "hostPath",
   hostPath: "/var/innworld-web-cache",

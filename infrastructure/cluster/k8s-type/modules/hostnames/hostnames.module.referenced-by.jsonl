@@ -20,7 +20,6 @@
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/telemetry/kube-state-metrics/modules/manifests/kube-state-metrics-manifests.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"infrastructure/telemetry/prometheus/modules/manifests/prometheus-manifests.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"product/smilingjenny/web/manifests/smilingjenny-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"product/wandering-inn-wiki/web/manifests/wandering-inn-wiki-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"hostnames.module.code.ts","path":"temper/web/manifests/temper-web-manifests.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/cluster/k8s-type/k8s-type.domain.ts","id":"01a06735-dd9c-700c-89ca-ed7f38cab9b1"}

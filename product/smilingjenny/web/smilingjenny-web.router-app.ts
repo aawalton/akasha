@@ -26,7 +26,6 @@ export const smilingjennyWeb = {
   bundleDirectory: true,
   parts: [
     "app-routes/smilingjenny-web-routes",
-    "manifest/smilingjenny-web-manifests",
     "module/jenny-capacitor-bridge",
     "module/jenny-handover-site",
     "module/jenny-push-registration-sync",
