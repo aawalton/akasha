@@ -6,6 +6,7 @@ import {
 import { colorTextsUnder } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import { fontOf, sizeOf } from "akasha/temper/window/modules/type-scale/type-scale.module.code.ts"
 import { styleControlsUnder } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
@@ -18,17 +19,19 @@ export interface WindowFrame {
 
 const PADDING = 24
 
-const TITLE_GAP = 16
+const TITLE_GAP = spaceOf("3")
 
-const TITLE_SIZE = sizeOf("lg")
+const TITLE_ROW = sizeOf("2xl")
 
 export const FRAME_PADDING = PADDING
 
-export const FRAME_TOP = PADDING + TITLE_SIZE + TITLE_GAP
+export const FRAME_TOP = PADDING + TITLE_ROW + TITLE_GAP
 
 const TITLE_FONT = fontOf("lg", 600)
 
 const CLOSE_SIZE = 16
+
+const CLOSE_TOP = PADDING + (TITLE_ROW - CLOSE_SIZE) / 2
 
 const ACTION_GAP = 12
 
@@ -66,7 +69,7 @@ function paintWindow(window: TopLevelWindow): undefined {
 function drawClose(window: TopLevelWindow, onClose: (this: void) => undefined): undefined {
   const close = WINDOW_MANAGER.CreateControl("$(parent)FrameClose", window, CT_BUTTON)
   close.SetDimensions(CLOSE_SIZE, CLOSE_SIZE)
-  close.SetAnchor(TOPRIGHT, window, TOPRIGHT, -PADDING, PADDING)
+  close.SetAnchor(TOPRIGHT, window, TOPRIGHT, -PADDING, CLOSE_TOP)
   close.SetNormalTexture(CLOSE_TEXTURE)
   close.SetMouseOverTexture(CLOSE_TEXTURE_OVER)
   close.SetPressedTexture(CLOSE_TEXTURE_DOWN)
@@ -95,6 +98,8 @@ export function frameWindow(
   header.SetHeight(FRAME_TOP)
   const title = WINDOW_MANAGER.CreateControl("$(parent)FrameTitle", window, CT_LABEL)
   title.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, PADDING)
+  title.SetHeight(TITLE_ROW)
+  title.SetVerticalAlignment(TEXT_ALIGN_CENTER)
   title.SetFont(TITLE_FONT)
   const [red, green, blue] = TEXT_PRIMARY
   title.SetColor(red, green, blue, OPAQUE)
@@ -102,7 +107,7 @@ export function frameWindow(
   if (onClose !== undefined) drawClose(window, onClose)
   const actions = WINDOW_MANAGER.CreateControl("$(parent)FrameActions", window, CT_CONTROL)
   const actionsEnd = onClose === undefined ? PADDING : PADDING + CLOSE_SIZE + ACTION_GAP
-  actions.SetDimensions(0, TITLE_SIZE)
+  actions.SetDimensions(0, TITLE_ROW)
   actions.SetAnchor(TOPRIGHT, window, TOPRIGHT, -actionsEnd, PADDING)
   const body = WINDOW_MANAGER.CreateControl("$(parent)FrameBody", window, CT_CONTROL)
   body.SetAnchor(TOPLEFT, window, TOPLEFT, PADDING, FRAME_TOP)
