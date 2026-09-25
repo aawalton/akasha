@@ -22,8 +22,6 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 
-export type SkillMorphEnrichmentEntry = MorphSuggestionEntry
-
 const VAMPIRE_LINE_ID = 51
 const WEREWOLF_LINE_ID = 50
 

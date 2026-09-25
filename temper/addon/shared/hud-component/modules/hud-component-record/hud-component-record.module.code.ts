@@ -26,7 +26,6 @@ const SOURCE_REF_SCHEMA = z
     line: z.number().int().positive(),
   })
   .strict()
-export type SourceRef = z.infer<typeof SOURCE_REF_SCHEMA>
 
 const HUD_COMPONENT_RECORD_SCHEMA = z
   .object({
@@ -46,4 +45,3 @@ const HUD_COMPONENT_RECORD_SCHEMA = z
 export type HudComponentRecord = z.infer<typeof HUD_COMPONENT_RECORD_SCHEMA>
 
 export const HUD_SCENE_CATALOG_SCHEMA = z.array(HUD_COMPONENT_RECORD_SCHEMA).readonly()
-export type HudSceneCatalog = readonly HudComponentRecord[]

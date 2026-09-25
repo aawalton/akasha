@@ -1,5 +1,4 @@
 import type { DataMiningPayload } from "akasha/temper/capture/datamining/modules/datamining-payload/datamining-payload.module.code.ts"
-import { savedVariablesRootSchema as captureRootSchema } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { luaArrayOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-array/lua-array.module.code.ts"
 import { assertSchemaMatchesPayload } from "akasha/temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.code.ts"
 import { z } from "zod"
@@ -95,7 +94,3 @@ const dataminingAccountWideSchema = z
   .strict()
 
 assertSchemaMatchesPayload<typeof dataminingAccountWideSchema, DataMiningPayload>()
-
-const rootSchema = captureRootSchema(dataminingAccountWideSchema)
-
-export type SavedVariablesRoot = z.infer<typeof rootSchema>

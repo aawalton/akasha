@@ -59,4 +59,3 @@ const ACCOUNT_WIDE = z
 export const AUTO_QUEST_SAVED_VARIABLES = savedVariablesRootSchema(ACCOUNT_WIDE)
 
 export type AutoQuestTraceEntry = z.infer<typeof AUTO_QUEST_TRACE_ENTRY>
-export type AutoQuestSavedVariables = z.infer<typeof AUTO_QUEST_SAVED_VARIABLES>

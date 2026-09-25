@@ -34,5 +34,3 @@ const accountWideSchema = z
 assertSchemaMatchesPayload<typeof accountWideSchema, ErrorsPayload>()
 
 export const rootSchema = captureRootSchema(accountWideSchema)
-
-export type SavedVariablesRoot = z.infer<typeof rootSchema>
