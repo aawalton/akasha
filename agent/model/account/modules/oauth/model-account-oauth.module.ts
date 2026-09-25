@@ -201,22 +201,7 @@ export const modelAccountOauth = {
       decisionKind: "decision-kind/departure",
       statement: "A skip has the whole seconds left rounded up.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A refresh outcome that worked has the credential the refresh answered with.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A refresh outcome that failed says whether the failure is terminal.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A refresh outcome that failed names the sort of failure.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A refresh outcome that failed may have the status the refresh met.",
-    },
+
     {
       decisionKind: "decision-kind/constraint",
       statement: "Every instant this module works from is handed in by the caller.",
@@ -254,26 +239,21 @@ export const modelAccountOauth = {
       statement: "Nothing here reads a second account to answer about the account asked about.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A `Retry-After` holding an HTTP date backs off the default instead.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A skip reason is prose rather than a code a caller branches on.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "An account met by a rate limit waits five minutes even where `Retry-After` says a shorter wait.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A usage window's utilization is unbounded above.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A refresh outcome is declared here while the token refresh sits outside this module.",
     },
   ],
 } as const satisfies Module

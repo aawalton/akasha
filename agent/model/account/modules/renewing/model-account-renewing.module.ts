@@ -62,6 +62,22 @@ export const modelAccountRenewing = {
         "The scopes and the plan and the band are read off the page rather than off the response.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A refresh outcome that worked has the credential the refresh answered with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refresh outcome that failed says whether the failure is terminal.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refresh outcome that failed names the sort of failure.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refresh outcome that failed may have the status the refresh met.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "The repository root reaches this module as a parameter.",
     },

@@ -2,7 +2,7 @@ import {
   instantOf,
   type Marks,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
-import type { RefreshOutcome } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
+import type { RefreshOutcome } from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
 
 const TERMINAL_AT = "terminalAt"
 

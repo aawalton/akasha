@@ -13,7 +13,6 @@ import {
   REFRESH_BUFFER_MS,
   REPOLL_BREAKER_MS,
   REPOLL_MIN_INTERVAL_MS,
-  type RefreshOutcome,
   recordRepollAttempt,
   recordUsageRateLimited,
   UPKEEP_PERIOD_MS,
@@ -54,6 +53,7 @@ import {
   USAGE_REALISTIC,
   WORKED,
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.test-fixtures.ts"
+import type { RefreshOutcome } from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
 
 test("the wire endpoints are the constants this module names", () => {
   expect(OAUTH_TOKEN_URL).toBe("https://platform.claude.com/v1/oauth/token")

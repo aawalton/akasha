@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { RefreshOutcome } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
+import type { RefreshOutcome } from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
 import type {
   OAuthProxy,
   StartOAuthProxyOptions,

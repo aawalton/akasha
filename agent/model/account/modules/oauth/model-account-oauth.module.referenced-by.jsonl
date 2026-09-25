@@ -1,7 +1,5 @@
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/account-upkeep-running/account-upkeep-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/credential-file/model-account-credential-file.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/health/model-account-health.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/health/model-account-health.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/identity/model-account-identity.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/marking/model-account-marking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/oauth/model-account-oauth.module.test-fixtures.ts","typed":false,"deferred":false}
@@ -11,8 +9,6 @@
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/upkeep-stall/model-account-upkeep-stall.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/fresh-credential/fresh-credential.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-oauth.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-oauth.module.test-fixtures.ts","path":"agent/model/account/modules/oauth/model-account-oauth.module.test.ts","typed":false,"deferred":false}

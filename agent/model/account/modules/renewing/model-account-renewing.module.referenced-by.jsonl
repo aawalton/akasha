@@ -1,2 +1,8 @@
+{"propertySlug":"import","fileName":"model-account-renewing.module.code.ts","path":"agent/model/account/modules/health/model-account-health.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-account-renewing.module.code.ts","path":"agent/model/account/modules/health/model-account-health.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-account-renewing.module.code.ts","path":"agent/model/account/modules/oauth/model-account-oauth.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-account-renewing.module.code.ts","path":"agent/model/account/modules/oauth/model-account-oauth.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"model-account-renewing.module.code.ts","path":"agent/model/account/modules/upkeep/model-account-upkeep.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-account-renewing.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"model-account-renewing.module.code.ts","path":"agent/model/gateway/modules/gateway-start/gateway-start.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/account/model-account.page-type.ts","id":"01a054d8-1d38-788f-a073-7cf3603acd3f"}

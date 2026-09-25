@@ -8,13 +8,13 @@ import {
   OAUTH_TOKEN_RESPONSE_SCHEMA,
   OAUTH_TOKEN_URL,
   REFRESH_BUFFER_MS,
-  type RefreshOutcome,
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
 import {
   credentialIn,
   type SecretsRead,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
 import { credentialOf } from "akasha/agent/model/gateway/modules/oauth-effects/oauth-effects.module.code.ts"
+import type { OAuthCredential } from "akasha/agent/model/gateway/modules/oauth-types/oauth-types.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import type { PageOf } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -41,6 +41,18 @@ export type Doors = {
   readonly now: () => number
   readonly warned: (line: string) => undefined
 }
+
+export type RefreshOutcome =
+  | { readonly ok: true; readonly credential: OAuthCredential }
+  | {
+      readonly ok: false
+      readonly terminal: boolean
+      readonly reason: "no-credential" | "http-error" | "exception"
+      readonly status?: number
+      readonly code?: string | null
+      readonly description?: string | null
+      readonly error?: unknown
+    }
 
 export async function renewedIn(args: {
   readonly root: string

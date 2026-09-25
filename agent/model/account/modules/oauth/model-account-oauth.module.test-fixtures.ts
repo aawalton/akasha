@@ -4,10 +4,10 @@ import {
   INITIAL_REPOLL_GATE_STATE,
   REPOLL_BREAKER_MS,
   REPOLL_MIN_INTERVAL_MS,
-  type RefreshOutcome,
   type RepollDecision,
   type RepollGateState,
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
+import type { RefreshOutcome } from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
 
 export type Same<A, B> =
   (<T>() => T extends A ? 1 : 2) extends <T>() => T extends B ? 1 : 2 ? true : false

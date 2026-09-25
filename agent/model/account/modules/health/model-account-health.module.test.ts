@@ -8,7 +8,7 @@ import {
   terminalHealthMarks,
   windowTriggerMarks,
 } from "akasha/agent/model/account/modules/health/model-account-health.module.code.ts"
-import type { RefreshOutcome } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
+import type { RefreshOutcome } from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
 
 const NOW = 1_700_000_000_000
 

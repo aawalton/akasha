@@ -15,7 +15,6 @@ import {
   usageFrom,
 } from "akasha/agent/model/account/modules/marking/model-account-marking.module.code.ts"
 import {
-  type RefreshOutcome,
   UPKEEP_RENEWAL_MARGIN_MS,
   USAGE_URL,
 } from "akasha/agent/model/account/modules/oauth/model-account-oauth.module.code.ts"
@@ -25,7 +24,10 @@ import {
   everyAccountSlugOfIn,
   type SecretsRead,
 } from "akasha/agent/model/account/modules/reading/model-account-reading.module.code.ts"
-import { renewedIn } from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
+import {
+  type RefreshOutcome,
+  renewedIn,
+} from "akasha/agent/model/account/modules/renewing/model-account-renewing.module.code.ts"
 import {
   markedOn,
   type UsageRead,
