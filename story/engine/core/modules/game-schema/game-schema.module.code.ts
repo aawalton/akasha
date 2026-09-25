@@ -2,45 +2,6 @@ import type { FrameConfig } from "akasha/page/core/schema/modules/detail-config/
 import { RevealKeySchema } from "akasha/story/engine/core/modules/revealed/revealed.module.code.ts"
 import { z } from "zod"
 
-const MECHANICS_WEIGHTS = ["zero", "light", "medium", "heavy"] as const
-const MechanicsWeightSchema = z.enum(MECHANICS_WEIGHTS)
-export type MechanicsWeight = z.infer<typeof MechanicsWeightSchema>
-
-const CONTROLLED_ENTITY_KINDS = ["single", "party", "dungeon", "nation"] as const
-const ControlledEntityKindSchema = z.enum(CONTROLLED_ENTITY_KINDS)
-export type ControlledEntityKind = z.infer<typeof ControlledEntityKindSchema>
-
-const RESOLUTIONS = ["none", "dice", "formula", "resource", "hybrid"] as const
-const ResolutionSchema = z.enum(RESOLUTIONS)
-export type Resolution = z.infer<typeof ResolutionSchema>
-
-const GAME_GENRES = [
-  "narrative",
-  "litrpg",
-  "ttrpg",
-  "cultivation",
-  "dungeon-core",
-  "civilization",
-  "superhero",
-  "progression",
-  "dark",
-  "adventure",
-] as const
-const GameGenreSchema = z.enum(GAME_GENRES)
-export type GameGenre = z.infer<typeof GameGenreSchema>
-
-const GameRulebookSchema = z
-  .object({
-    systemType: z.string().optional(),
-    summary: z.string().optional(),
-    attributes: z.array(z.unknown()).optional(),
-    progression: z.string().optional(),
-    turnScale: z.string().optional(),
-    goal: z.string().optional(),
-  })
-  .passthrough()
-export type GameRulebook = z.infer<typeof GameRulebookSchema>
-
 const POOL_BAR_COLORS = ["red", "blue", "green"] as const
 const PoolBarColorSchema = z.enum(POOL_BAR_COLORS)
 export type PoolBarColor = z.infer<typeof PoolBarColorSchema>
@@ -57,11 +18,9 @@ export type PoolPresentation = z.infer<typeof PoolPresentationSchema>
 
 const STORY_SO_FAR_SOURCES = ["turns", "stateLedger"] as const
 const StorySoFarSourceSchema = z.enum(STORY_SO_FAR_SOURCES)
-export type StorySoFarSource = z.infer<typeof StorySoFarSourceSchema>
 
 const CHAPTER_PROSE_HISTORY_SCOPES = ["session", "full"] as const
 const ChapterProseHistorySchema = z.enum(CHAPTER_PROSE_HISTORY_SCOPES)
-export type ChapterProseHistory = z.infer<typeof ChapterProseHistorySchema>
 
 const CHAPTER_PROSE_TITLES = ["shown", "hidden"] as const
 const ChapterProseTitlesSchema = z.enum(CHAPTER_PROSE_TITLES)
@@ -159,6 +118,3 @@ export function resolveAlertPrefs(alerts: GameAlerts | undefined): ResolvedAlert
     desktop: alerts?.desktop ?? true,
   }
 }
-
-const GameConfigSchema = z.object({}).passthrough()
-export type GameConfig = z.infer<typeof GameConfigSchema>
