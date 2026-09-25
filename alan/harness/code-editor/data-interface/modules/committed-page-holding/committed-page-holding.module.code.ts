@@ -9,6 +9,7 @@ import {
   type Spellings,
 } from "akasha/domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.code.ts"
 import type { Rule } from "akasha/domain/plain-language/standard-agent-english/modules/phrase-parsing/phrase-parsing.module.code.ts"
+import { told } from "akasha/git/modules/running/git-running.module.code.ts"
 import { pageTypesIn } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
   everyOfType,
@@ -18,10 +19,17 @@ import {
   valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { INDEX_AT } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  recordsIn,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 
 const PAGE_TYPE = "page-type"
+
+const SPELLINGS = "spellings"
 
 type Gaps = ReturnType<typeof gapsOn>
 
@@ -70,61 +78,152 @@ type Valued = readonly [string, Page, Value]
 type Round = {
   readonly commit: string
   readonly reading: Reading
-  readonly seen: Map<string, Page>
-  readonly listed: Map<string, readonly Valued[]>
+  readonly whole: boolean
+  readonly seen: Set<string>
+  pruned: boolean
+}
+
+type Inputs = {
+  readonly rules: readonly Rule[]
+  readonly spellings: Spellings
+  readonly kinds: ReadonlySet<string>
+  readonly said: string
+}
+
+const INDEXED = `${INDEX_AT}/`
+
+const TYPE_LISTS = ["page-type", "page-property"]
+
+const EVERY_TYPE = ""
+
+function typeListedAt(path: string): string | null {
+  const [top, pageTypeSlug] = path.slice(INDEXED.length).split("/")
+  if (top === undefined || !TYPE_LISTS.includes(top)) return null
+  return pageTypeSlug ?? EVERY_TYPE
+}
+
+function statesSpellings(value: Value | null): boolean {
+  return value !== null && recordsIn(value[SPELLINGS]).length > 0
 }
 
 export function holdingOver(root: string, commitOf: () => string): Holding {
   const held = new Map<string, Page>()
-  let judgedWith: string | null = null
+  const listed = new Map<string, readonly string[]>()
+  let inputs: Inputs | null = null
+  let inputsMoved = true
   let round: Round | null = null
+
+  const changedBetween = (from: string, to: string): readonly string[] | null => {
+    if (from === "" || to === "") return null
+    if (told(root, ["merge-base", "--is-ancestor", from, to]) === null) return null
+    const said = told(root, ["diff", "--name-only", "--no-renames", "-z", from, to])
+    return said === null ? null : said.split("\0").filter((one) => one !== "")
+  }
+
+  const readAt = (reading: Reading, path: string): Page | null => {
+    const body = reading.read(path)
+    if (body === null) return null
+    return { hash: hashOf(body), value: valueByPath(reading, path), gaps: null, refused: null }
+  }
+
+  const moves = (reading: Reading, path: string, value: Value | null): boolean => {
+    const pageType = partedIn(path)?.pageType
+    if (pageType === PAGE_TYPE || pageType === typeSlugOf(reading, CONSTRUCTION_TYPE)) return true
+    return statesSpellings(value)
+  }
+
+  const takeChanged = (reading: Reading, changed: readonly string[]): undefined => {
+    for (const path of changed) {
+      if (path.startsWith(INDEXED)) {
+        const pageType = typeListedAt(path)
+        if (pageType === EVERY_TYPE) listed.clear()
+        else if (pageType !== null) listed.delete(pageType)
+        continue
+      }
+      const was = held.get(path)
+      const now = readAt(reading, path)
+      if (moves(reading, path, was?.value ?? null) || moves(reading, path, now?.value ?? null)) {
+        inputsMoved = true
+      }
+      if (now === null) held.delete(path)
+      else held.set(path, now)
+    }
+    return undefined
+  }
 
   const roundNow = (): Round => {
     const commit = commitOf()
     if (round !== null && round.commit === commit) return round
-    round = { commit, reading: readingIn(root), seen: new Map(), listed: new Map() }
+    const reading = readingIn(root)
+    const changed = round === null ? null : changedBetween(round.commit, commit)
+    if (changed === null) {
+      listed.clear()
+      inputsMoved = true
+    } else {
+      takeChanged(reading, changed)
+    }
+    round = { commit, reading, whole: changed === null, seen: new Set(), pruned: false }
     return round
   }
 
-  const pageIn = (at: Round, path: string): Page => {
-    const already = at.seen.get(path)
-    if (already !== undefined) return already
-    const hash = hashOf(at.reading.read(path))
+  const pageIn = (at: Round, path: string): Page | null => {
     const prior = held.get(path)
-    const page =
-      prior !== undefined && prior.hash === hash
-        ? prior
-        : { hash, value: valueByPath(at.reading, path), gaps: null, refused: null }
-    held.set(path, page)
-    at.seen.set(path, page)
-    return page
+    if (!at.whole || at.seen.has(path)) return prior ?? null
+    at.seen.add(path)
+    const now = readAt(at.reading, path)
+    if (now === null) {
+      held.delete(path)
+      return null
+    }
+    if (prior !== undefined && prior.hash === now.hash) return prior
+    held.set(path, now)
+    return now
   }
 
-  const valuesOf = (at: Round, pageTypeSlug: string): readonly Valued[] => {
-    const already = at.listed.get(pageTypeSlug)
+  const pathsOf = (at: Round, pageTypeSlug: string): readonly string[] => {
+    const already = listed.get(pageTypeSlug)
     if (already !== undefined) return already
-    const made = everyOfType(at.reading, pageTypeSlug).flatMap((one): Valued[] => {
-      const page = pageIn(at, one.path)
-      return page.value === null ? [] : [[one.path, page, page.value]]
-    })
-    at.listed.set(pageTypeSlug, made)
+    const made = everyOfType(at.reading, pageTypeSlug).map((one) => one.path)
+    listed.set(pageTypeSlug, made)
     return made
   }
 
-  const refused = (): readonly Judged[] => {
-    const at = roundNow()
+  const valuesOf = (at: Round, pageTypeSlug: string): readonly Valued[] =>
+    pathsOf(at, pageTypeSlug).flatMap((path): Valued[] => {
+      const page = pageIn(at, path) ?? (at.whole ? null : readTaken(at, path))
+      return page === null || page.value === null ? [] : [[path, page, page.value]]
+    })
+
+  const readTaken = (at: Round, path: string): Page | null => {
+    const now = readAt(at.reading, path)
+    if (now !== null) held.set(path, now)
+    return now
+  }
+
+  const inputsNow = (at: Round): Inputs => {
+    if (inputs !== null && !inputsMoved) return inputs
     const every = [...pageTypesIn(at.reading)].flatMap((one) => valuesOf(at, one))
-    for (const path of [...held.keys()]) if (!at.seen.has(path)) held.delete(path)
+    if (at.whole && !at.pruned) {
+      for (const path of [...held.keys()]) if (!at.seen.has(path)) held.delete(path)
+      at.pruned = true
+    }
     const rules = rulesOf(
       valuesOf(at, typeSlugOf(at.reading, CONSTRUCTION_TYPE)).map((one) => one[2])
     )
     const spellings = lexiconOf(every.map((one) => one[2]))
     const kinds = kindsUnder(typeSlugOf(at.reading, DOMAIN_TYPE), at.reading)
     const said = inputsSaid(rules, spellings, kinds)
-    if (said !== judgedWith) {
+    if (inputs === null || said !== inputs.said) {
       for (const page of held.values()) page.refused = null
-      judgedWith = said
     }
+    inputs = { rules, spellings, kinds, said }
+    inputsMoved = false
+    return inputs
+  }
+
+  const refused = (): readonly Judged[] => {
+    const at = roundNow()
+    const { rules, spellings, kinds } = inputsNow(at)
     const found: Judged[] = []
     for (const kind of kinds) {
       for (const [path, page, value] of valuesOf(at, kind)) {
