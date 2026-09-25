@@ -30,6 +30,7 @@ import {
   type WindowFrame,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 import { drawPanel } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/guild-history/sales-history-controls/sales-history-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
@@ -74,7 +75,7 @@ const STATUS_TITLE = "Guild History Status"
 
 const LIST_WIDTH = 250
 
-const LIST_GAP = 5
+const LIST_GAP = spaceOf("1")
 
 const LISTS_HEIGHT = 387
 
