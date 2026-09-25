@@ -14,7 +14,7 @@ export const lorebooksLibraryData01 = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "This set is the add-on's own source rather than anything akasha derives.",
+      statement: "This set is written by `lore-book-writing` from the lore book pages.",
     },
   ],
 } as const satisfies Module

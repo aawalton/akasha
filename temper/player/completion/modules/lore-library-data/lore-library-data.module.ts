@@ -9,7 +9,7 @@ export const loreLibraryData = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is captured from the game rather than written by hand.",
+      statement: "This table is written by `lore-book-writing` from the lore book pages.",
     },
     {
       decisionKind: "decision-kind/constraint",
