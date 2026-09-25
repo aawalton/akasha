@@ -4,7 +4,7 @@ export const track = {
   id: "01a062dc-1b7f-7bbe-a348-b71f1bbf4c9c",
   type: "page-type/domain",
   slug: "track",
-  definition: "what is measured about Alan",
+  definition: "how Alan measures his life",
   parts: [
     "domain/track-daily",
     "module/track-landing",
