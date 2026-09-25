@@ -87,11 +87,7 @@ export const packageReaching = {
       decisionKind: "decision-kind/departure",
       statement: "An importer the change already has is left out of that answer.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A specifier a manifest reaches anew answers with the importers that already name the specifier.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "No specifier is resolved through `node_modules`.",
