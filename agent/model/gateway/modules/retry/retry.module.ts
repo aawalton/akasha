@@ -4,7 +4,7 @@ export const retry = {
   id: "01a06255-4c6e-7515-882a-618e9bffc960",
   type: "page-type/module",
   slug: "retry",
-  definition: "an upstream connection break either side of the first chunk of a response",
+  definition: "how code handles a network failure when a model gateway calls a model",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
