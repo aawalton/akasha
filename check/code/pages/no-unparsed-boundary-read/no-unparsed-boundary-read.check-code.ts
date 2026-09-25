@@ -61,10 +61,6 @@ export const noUnparsedBoundaryRead = {
         "Folding this check into `no-refused-syntax` takes every site repaired and this page taken away.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every site the rule names is repaired.",
-    },
-    {
       decisionKind: "decision-kind/departure",
       statement: "A parse outside the block the read sits in is not seen.",
     },
