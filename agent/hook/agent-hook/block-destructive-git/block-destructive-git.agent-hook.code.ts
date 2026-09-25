@@ -73,6 +73,14 @@ const OVER_ACTS = new Map<string, readonly string[]>([
     ["`git checkout` writes the working tree over uncommitted work.", SHARED, ...PUT_BACK],
   ],
   [
+    "switch",
+    [
+      "`git switch` moves this checkout to another branch, and writes the files on disk over uncommitted work.",
+      SHARED,
+      ...PUT_BACK,
+    ],
+  ],
+  [
     "restore",
     ["`git restore` writes the working tree over uncommitted work.", SHARED, ...PUT_BACK],
   ],
@@ -149,14 +157,21 @@ const DELETED = [
   ...NONE,
 ]
 
+const REMOVED = [
+  "`git worktree remove --force` deletes a checkout along with the uncommitted work in it.",
+  "Without `--force`, `git worktree remove` refuses a checkout holding changes.",
+  ...NONE,
+]
+
 export const SCOPE: readonly string[] = [
-  `${HOOK} refuses eleven git acts, and two flagged forms of two more.`,
-  "  stash reset rebase checkout restore clean rm",
+  `${HOOK} refuses twelve git acts, and three flagged forms of three more.`,
+  "  stash reset rebase checkout switch restore clean rm",
   "  update-index checkout-index read-tree — three plumbing acts `akasha git restore` answers",
   "  push, in every form this reads — `akasha git push` is the route that is not refused",
   "  commit --amend",
   "  push --force / -f / --force-with-lease / --force-if-includes",
   "  branch -D / branch --delete --force",
+  "  worktree remove --force / -f — a plain `worktree remove` refuses a checkout holding changes",
   "",
   "EVERY `push` IS REFUSED, NOT ONLY A FORCED ONE, and `akasha git push` answers in its place.",
   "The widening was added on 2026-09-03 for the akasha migration, after two pushes carried",
@@ -175,9 +190,10 @@ export const SCOPE: readonly string[] = [
   "",
   "WHERE THE LIST COMES FROM: nowhere.",
   "Git names its acts exactly and classifies none of them by this hazard.",
-  "All seven acts sit in `list-mainporcelain`, beside status, log, diff and grep.",
-  "`list-worktree` holds two of the seven, plus two acts that destroy nothing.",
-  "Five of the seven sit in no attribute group at all.",
+  "All eight acts sit in `list-mainporcelain`, beside status, log, diff and grep.",
+  "`list-worktree` holds two of the eight, plus two acts that destroy nothing.",
+  "`list-history` holds three of the eight, beside commit, merge and tag.",
+  "Three of the eight sit in no attribute group at all.",
   "Refusing a whole group would refuse ordinary reading.",
   "The hazard also sits under the act rather than at it:",
   "  `worktree list` reads and `worktree remove --force` destroys",
@@ -200,8 +216,8 @@ export const SCOPE: readonly string[] = [
   ...READ_AS_BASH,
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
-  "  git worktree remove --force   removes a worktree holding uncommitted work",
-  "  git update-ref, symbolic-ref, switch, revert, apply, reflog expire, gc",
+  "  a forced worktree remove whose force is bundled with another short flag, as `-ff` is",
+  "  git update-ref, symbolic-ref, revert, apply, reflog expire, gc",
   "  any act reached through an alias — `git undo` carries the act `undo`",
   "  a git call carrying no act — bare `git`, or global flags alone",
   "  a git call another program builds — `xargs git`, `make`, a script file",
@@ -235,6 +251,10 @@ function deletedIn(rest: readonly string[]): boolean {
   return rest.includes("--delete") && (rest.includes("--force") || rest.includes("-f"))
 }
 
+function removedIn(rest: readonly string[]): boolean {
+  return rest[0] === "remove" && (rest.includes("--force") || rest.includes("-f"))
+}
+
 export function refusalFor(call: GitCall): string | null {
   const over = OVER_ACTS.get(call.act)
   if (over !== undefined) return toldOf(HOOK, over)
@@ -242,6 +262,7 @@ export function refusalFor(call: GitCall): string | null {
   if (call.act === "push" && forcedIn(call.rest)) return toldOf(HOOK, FORCED)
   if (call.act === "push") return toldOf(HOOK, PUSHED)
   if (call.act === "branch" && deletedIn(call.rest)) return toldOf(HOOK, DELETED)
+  if (call.act === "worktree" && removedIn(call.rest)) return toldOf(HOOK, REMOVED)
   return null
 }
 

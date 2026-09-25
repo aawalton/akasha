@@ -30,6 +30,7 @@ const ACTS = [
   "reset",
   "rebase",
   "checkout",
+  "switch",
   "restore",
   "clean",
   "rm",
@@ -92,7 +93,7 @@ test("each plumbing act says what the call would write over", () => {
 })
 
 test("a refusal over a body says the worktree is shared, not that the file is akasha's", () => {
-  for (const command of ["git checkout -- one.ts", "git restore one.ts"]) {
+  for (const command of ["git checkout -- one.ts", "git restore one.ts", "git switch main"]) {
     expect(refusalIn(command)).toContain("This worktree is shared")
   }
 })
@@ -185,6 +186,15 @@ test("a forced branch delete is refused, and a plain one is not", () => {
   expect(refusalIn("git branch one")).toBeNull()
 })
 
+test("a forced worktree remove is refused, and a plain one is not", () => {
+  for (const flag of ["--force", "-f"]) {
+    expect(refusalIn(`git worktree remove ${flag} one`)).toContain("deletes a checkout")
+  }
+  expect(refusalIn("git worktree remove one --force")).not.toBeNull()
+  expect(refusalIn("git worktree remove one")).toBeNull()
+  expect(refusalIn("git worktree add -f one")).toBeNull()
+})
+
 test("a read is stood aside from", () => {
   for (const command of [
     "git status",
@@ -274,7 +284,7 @@ test("the scope says what it does not reach", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("NOT REACHED")
   expect(said).toContain("is NOT a finding that it is safe")
-  expect(said).toContain("git worktree remove --force")
+  expect(said).toContain("worktree remove --force / -f")
   expect(said).toContain("git update-ref")
 })
 
