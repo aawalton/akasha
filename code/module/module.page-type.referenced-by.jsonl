@@ -3845,6 +3845,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-comboboxes/housing-comboboxes.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-constants/housing-constants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-context-menu/housing-context-menu.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-control-style/housing-control-style.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-dropdowns/housing-dropdowns.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-favorites-helpers/housing-favorites-helpers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/temper-core/temper-housing/modules/housing-favorites-render/housing-favorites-render.module.ts","typed":true,"deferred":false}

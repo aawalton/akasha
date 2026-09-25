@@ -3,6 +3,7 @@ import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import { styleHousingControls } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-control-style/housing-control-style.module.code.ts"
 import { showHousingListState } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-list-state/housing-list-state.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { VisitCard } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
@@ -219,6 +220,7 @@ function refreshVisitCards(this: void): undefined {
     }
     vc.scrollPanel.SetDimensions(houseTravel.config.size.width - 10, receivedCards.length * 25)
     showHousingListState(vc.scrollControl, receivedCards.length, NO_CARD)
+    styleHousingControls()
     houseTravel.VCBdOnMouseEnter(asVcIndex(houseTravel.addonState.highlightedVisitCard))
   } else {
   }

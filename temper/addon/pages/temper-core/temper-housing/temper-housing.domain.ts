@@ -16,6 +16,7 @@ export const temperHousing = {
     "module/housing-comboboxes",
     "module/housing-constants",
     "module/housing-context-menu",
+    "module/housing-control-style",
     "module/housing-dropdowns",
     "module/housing-favorites-helpers",
     "module/housing-favorites-render",

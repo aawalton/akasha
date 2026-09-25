@@ -42,6 +42,7 @@ import {
   SAVED_VARS_VERSION,
   SLASH_CMD,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-constants/housing-constants.module.code.ts"
+import { styleHousingControls } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-control-style/housing-control-style.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import type { SavedVars } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-types/housing-types.module.code.ts"
 import { registerUiStrings } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-ui-strings/housing-ui-strings.module.code.ts"
@@ -192,6 +193,7 @@ function houseTravelOnInitialize(this: void): undefined {
   buildVcTab()
   buildMyHousesTab()
   buildLibraryTab()
+  styleHousingControls()
 
   houseTravel.addonState.selectedTab = houseTravel.savedVars.defaultTab
   houseTravel.TabOnMouseExit(houseTravel.addonState.selectedTab)

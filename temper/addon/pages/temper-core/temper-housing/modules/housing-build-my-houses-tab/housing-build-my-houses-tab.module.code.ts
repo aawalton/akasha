@@ -11,6 +11,7 @@ import {
   asTreeNode,
   controlsTree,
 } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-build-casts/housing-build-casts.module.code.ts"
+import { styleHousingControls } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-control-style/housing-control-style.module.code.ts"
 import { showHousingListState } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-list-state/housing-list-state.module.code.ts"
 import { houseTravel } from "akasha/temper/addon/pages/temper-core/temper-housing/modules/housing-state/housing-state.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-housing/housing-declarations/housing-declarations.type-declaration.d.ts"
@@ -23,6 +24,7 @@ function showsWhenEmpty(this: void, area: Control): undefined {
   houseTravel.UpdateMyHouses = function (this: void): undefined {
     listed()
     showHousingListState(area, houseTravel.GetNumPurchasedHouses(), NO_HOUSE)
+    styleHousingControls()
     return undefined
   }
   return undefined
