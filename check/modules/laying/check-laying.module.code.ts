@@ -36,6 +36,9 @@ const CODE = ".code.ts"
 
 const IMPORTED = /(?:\bfrom\s*|\bimport\s*\(\s*|\bimport\s+)["']([^"']+)["']/g
 
+const TYPED =
+  /\b(?:import|export)\s+type\s+(?:\{[^}]*\}|\*(?:\s+as\s+[\w$]+)?|[\w$]+)\s*from\s*["'][^"']+["']/g
+
 const TEXT = new TextDecoder()
 
 function typesOf(pages: readonly string[]): ReadonlySet<string> {
@@ -102,13 +105,18 @@ function importsOf(path: string, body: string): readonly string[] {
   return found
 }
 
-function walked(starts: string[], bodyOf: Bodying): ReadonlyMap<string, readonly string[]> {
+function walked(
+  starts: string[],
+  bodyOf: Bodying,
+  typed: boolean
+): ReadonlyMap<string, readonly string[]> {
   const held = new Map<string, readonly string[]>()
   for (let at = starts.pop(); at !== undefined; at = starts.pop()) {
     if (held.has(at)) continue
     const body = bodyOf(at)
     if (body === null) continue
-    const named = importsOf(at, TEXT.decode(body))
+    const text = TEXT.decode(body)
+    const named = importsOf(at, typed ? text : text.replace(TYPED, ""))
     held.set(at, named)
     starts.push(...named)
   }
@@ -162,7 +170,7 @@ export function altersChecks(change: Change, pages: readonly string[]): boolean 
   const touched = touchedIn(change)
   const types = typesOf(pages)
   for (const one of touched) if (checkFile(one, types)) return true
-  const held = walked(startsIn(change.root, pages, touched), bodyOver(change, touched))
+  const held = walked(startsIn(change.root, pages, touched), bodyOver(change, touched), false)
   return reaching(held, touched).size > 0
 }
 
@@ -170,7 +178,7 @@ export function laidOut(change: Change, pages: readonly string[]): Laid {
   const touched = touchedIn(change)
   const types = typesOf(pages)
   const bodyOf = bodyOver(change, touched)
-  const held = walked(startsIn(change.root, pages, touched), bodyOf)
+  const held = walked(startsIn(change.root, pages, touched), bodyOf, true)
   const from = mkdtempSync(join(SCRATCH_AT, LAID))
   const swept = (): undefined => {
     rmSync(from, { recursive: true, force: true })

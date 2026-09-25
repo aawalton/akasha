@@ -45,6 +45,17 @@ test("a file a check reaches only through another file alters the checks", () =>
   expect(altersChecks(arriving(root, { [DEEPER]: "" }), [PAGE])).toBe(true)
 })
 
+test("a file a check reaches only through imports naming types does not alter the checks", () => {
+  const root = rooted()
+  writeFileSync(
+    join(root, CODE),
+    `import type { Said } from "./helper.ts"\nexport type { Deeper } from "./deeper.ts"\nexport const said: Said = "one"\n`
+  )
+  writeFileSync(join(root, DEEPER), `export type Deeper = string\n`)
+  expect(altersChecks(arriving(root, { [HELPER]: "" }), [PAGE])).toBe(false)
+  expect(altersChecks(arriving(root, { [DEEPER]: "" }), [PAGE])).toBe(false)
+})
+
 test("a change taking away a file a check imports alters the checks", () => {
   const root = rooted()
   const left = arriving(root, {})

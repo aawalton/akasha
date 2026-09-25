@@ -20,11 +20,11 @@ export const checkLaying = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The imports that answer whether a change alters the checks are the imports laid out.",
+        "An import naming only types is passed over in asking whether a change alters the checks.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An import naming only types is followed as any other import is.",
+      statement: "An import naming only types is followed in laying the checks out.",
     },
     {
       decisionKind: "decision-kind/departure",
