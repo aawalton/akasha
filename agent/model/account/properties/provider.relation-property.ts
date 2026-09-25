@@ -5,7 +5,7 @@ export const provider = {
   type: "page-type/relation-property",
   slug: "provider",
   propertySlug: "provider",
-  definition: "an account's provider",
+  definition: "the company that runs the models a model account calls",
   targetPageType: "page-type/model-provider",
   types: "ts",
 } as const satisfies RelationProperty
