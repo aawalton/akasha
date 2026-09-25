@@ -361,7 +361,7 @@ export const seat = {
       statement: "A command sends a message from one seat to another seat.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing outside akasha defines a seat.",
     },
     {
