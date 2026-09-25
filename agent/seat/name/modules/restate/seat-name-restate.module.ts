@@ -4,6 +4,6 @@ export const seatNameRestate = {
   id: "01a06983-278f-7baa-bea1-b6acc672aeb1",
   type: "page-type/module",
   slug: "seat-name-restate",
-  definition: "a seat's name rebound to another one",
+  definition: "how code changes a seat's name",
   code: "ts",
 } as const satisfies Module
