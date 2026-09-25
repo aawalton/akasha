@@ -13,7 +13,7 @@ export const temperTaskProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A line is labelled by that line's one text field.",
+      statement: "A line is labelled by the title of the page that line's one relation names.",
     },
     {
       decisionKind: "decision-kind/departure",

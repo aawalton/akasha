@@ -16,7 +16,6 @@ export const temperTask = {
     "number-property/progress-total",
     "relation-property/effective-character",
     "temper-task-progress/progress",
-    "text-property/character-name",
   ],
   properties: [
     { pageProperty: "relation-property/account-page", required: true, many: false },

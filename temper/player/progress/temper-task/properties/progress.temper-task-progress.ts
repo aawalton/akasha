@@ -7,8 +7,7 @@ export const progress = {
   propertySlug: "progress",
   definition: "how far a task has come, one character to a line",
   properties: [
-    { pageProperty: "relation-property/character", required: false, many: false },
-    { pageProperty: "text-property/character-name", required: false, many: false },
+    { pageProperty: "relation-property/character", required: true, many: false },
     { pageProperty: "number-property/progress-total", required: true, many: false },
     { pageProperty: "number-property/progress-current", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
@@ -19,8 +18,13 @@ export const progress = {
       statement: "The totals a task states are the totals of these lines added up.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A line names a character by name rather than by a relation to that character.",
+      decisionKind: "decision-kind/departure",
+      statement: "A line names its character by a relation to that character's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character's name is read from that character's page rather than kept on a line.",
     },
   ],
   types: "ts",
