@@ -1761,7 +1761,7 @@
 											horizontalAlignment="LEFT" verticalAlignment="CENTER">
 
 											<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="4" offsetY="0" />
-											<Dimensions x="176" y="20" />
+											<Dimensions x="172" y="20" />
 
 										</Label>
 
@@ -1778,7 +1778,7 @@
 											text="SI_TEMPER_COMBAT_UPTIME" horizontalAlignment="CENTER" verticalAlignment="CENTER">
 
 											<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Count" offsetX="2" offsetY="0" />
-											<Dimensions x="58" y="20" />
+											<Dimensions x="62" y="20" />
 											<OnInitialized>self.tooltip = {SI_TEMPER_COMBAT_UPTIME_TT}</OnInitialized>
 
 										</Label>
@@ -1867,7 +1867,7 @@
 									horizontalAlignment="LEFT">
 
 									<Anchor point="BOTTOMLEFT" offsetX="1" offsetY="0" />
-									<Dimensions x="152" y="20" />
+									<Dimensions x="149" y="20" />
 
 								</Label>
 
@@ -1893,7 +1893,7 @@
 									text="SI_TEMPER_COMBAT_PERCENT" horizontalAlignment="CENTER">
 
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Total" offsetX="4" offsetY="0" />
-									<Dimensions x="45" y="20" />
+									<Dimensions x="48" y="20" />
 
 								</Label>
 
@@ -1949,7 +1949,7 @@
 									horizontalAlignment="LEFT">
 
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="2" offsetY="0" />
-									<Dimensions x="182" y="20" />
+									<Dimensions x="151" y="20" />
 
 								</Label>
 
@@ -1957,7 +1957,7 @@
 									text="SI_TEMPER_COMBAT_PERCENT" horizontalAlignment="CENTER">
 
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Name" offsetX="2" offsetY="0" />
-									<Dimensions x="38" y="20" />
+									<Dimensions x="48" y="20" />
 
 								</Label>
 
@@ -2001,7 +2001,7 @@
 									text="SI_TEMPER_COMBAT_CRITS_PER" horizontalAlignment="RIGHT">
 
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Hits" offsetX="2" offsetY="0" />
-									<Dimensions x="35" y="20" />
+									<Dimensions x="56" y="20" />
 
 								</Label>
 
@@ -2348,14 +2348,14 @@
 
 							<Anchor point="LEFT" offsetX="4" />
 
-							<Dimensions x="276" y="20" />
+							<Dimensions y="20" />
 
 						</Label>
 
 						<Label name="$(parent)ESOVersion" inherits="TemperCombat_StatRowLabel" text="" horizontalAlignment="RIGHT">
 
 							<Anchor point="RIGHT" offsetX="-4" />
-							<Dimensions x="276" y="20" />
+							<Dimensions y="20" />
 
 						</Label>
 
