@@ -4,7 +4,7 @@ export const stateSubagent = {
   id: "01a0598f-18de-7467-a5af-de60b85fefd7",
   type: "page-type/agent-hook",
   slug: "state-subagent",
-  definition: "a subagent's page, put up when it starts and taken away when it stops",
+  definition: "the hook that keeps a page for each subagent that runs",
   code: "ts",
   test: "ts",
   runsAt: ["SubagentStart", "SubagentStop"],
