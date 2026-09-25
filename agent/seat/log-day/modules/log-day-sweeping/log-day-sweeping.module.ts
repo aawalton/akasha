@@ -68,5 +68,9 @@ export const logDaySweeping = {
       decisionKind: "decision-kind/departure",
       statement: "The days are what the index answers rather than a folder listed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A day is swept alike whatever source wrote that day.",
+    },
   ],
 } as const satisfies Module
