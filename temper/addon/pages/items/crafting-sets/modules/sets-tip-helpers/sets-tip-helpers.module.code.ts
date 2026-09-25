@@ -320,13 +320,13 @@ function buildSetTypeInfo(
   this: void,
   setData: { setType?: number; setId?: number; classId?: number; [key: string]: unknown },
   buildTextures?: boolean
-): LuaMultiReturn<[string, string | undefined]> {
+): LuaMultiReturn<[string | undefined, string | undefined]> {
   const buildTexturesResolved = buildTextures ?? false
   const setType = asNumberOpt(setData["setType"])
   if (setType === undefined) {
-    return $multi(asPresent<string>(undefined), undefined)
+    return $multi(undefined, undefined)
   }
-  const setTypeName = asPresent(lib.GetSetTypeName(setType))
+  const setTypeName = lib.GetSetTypeName(setType)
   let setTypeTexture: string | undefined
   if (STATE.tooltipTextures === true || buildTexturesResolved === true) {
     if (setData["isVeteran"] !== undefined) {

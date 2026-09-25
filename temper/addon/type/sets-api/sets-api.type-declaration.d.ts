@@ -603,7 +603,7 @@ interface SetsApi {
     this: void,
     setData: { setType?: number; setId?: number; classId?: number; [key: string]: unknown },
     withTexture?: boolean
-  ) => LuaMultiReturn<[string, string | undefined]>
+  ) => LuaMultiReturn<[string | undefined, string | undefined]>
   BuildSetDataText: (
     this: void,
     setData: { [key: string]: unknown },

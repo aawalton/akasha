@@ -38,14 +38,16 @@ export function buildSetTypeFilter(this: void, ctx: FilterBuildContext): undefin
   for (const [setType, isValid] of pairs(lib.allowedSetTypes)) {
     if (isValid === true) {
       const [setTypeName, setTypeTexture] = buildSetTypeInfo({ setType }, true)
-      let setTypeNameStr = setTypeName
-      if (setTypeTexture !== undefined) {
-        setTypeNameStr = zoitf(setTypeTexture, 24, 24, setTypeName, undefined)
+      if (setTypeName !== undefined) {
+        let setTypeNameStr = setTypeName
+        if (setTypeTexture !== undefined) {
+          setTypeNameStr = zoitf(setTypeTexture, 24, 24, setTypeName, undefined)
+        }
+        const entry = setTypeDropdown.CreateItemEntry(setTypeNameStr)
+        entry.filterType = setType
+        entry.nameClean = setTypeName
+        setTypeDropdown.AddItem(entry, ZO_COMBOBOX_SUPPRESS_UPDATE)
       }
-      const entry = setTypeDropdown.CreateItemEntry(setTypeNameStr)
-      entry.filterType = setType
-      entry.nameClean = setTypeName
-      setTypeDropdown.AddItem(entry, ZO_COMBOBOX_SUPPRESS_UPDATE)
     }
   }
   sortFilterComboBox(setTypeDropdown, "nameClean")
