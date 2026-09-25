@@ -1,4 +1,3 @@
-import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import {
   readFiles,
   readPages,
@@ -37,8 +36,11 @@ import {
   rotatesOverCharacters,
   type TaskFacts,
 } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
+import { z } from "zod"
 
 const CHARACTER_TYPE = "temper-account-character"
+
+const COMPLETION_BODY = z.record(z.string(), z.unknown())
 
 const ACCOUNT_TYPE = "temper-account"
 
@@ -88,15 +90,12 @@ export function unreadCompletionWhy(path: string): string {
 
 export function completionIn<T>(path: string, text: string | null): T | null {
   if (text === null || text.trim() === "") return null
-  let parsed: unknown
   try {
-    parsed = JSON.parse(text)
+    const completion: unknown = COMPLETION_BODY.parse(JSON.parse(text))
+    return completion as T
   } catch {
     throw new Error(unreadCompletionWhy(path))
   }
-  const completion = asRecord(parsed)
-  if (completion === undefined) throw new Error(unreadCompletionWhy(path))
-  return completion as T
 }
 
 function textOf(row: Row, key: string): string {
