@@ -6,7 +6,7 @@ export const ryn = {
   slug: "ryn",
   persona: "persona/ryn",
   assignmentSlug: "initiative/ryn-standard-agent-english",
-  role: "role/definer",
+  role: "role/interviewer",
   person: "person/alan",
   startMode: "seat-mode/interactive",
   onCall: true,
