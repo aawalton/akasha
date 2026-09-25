@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"alan/atlas-web/alanwalton-atlas/alanwalton-atlas.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"alan/requests-web/alanwalton-requests/alanwalton-requests.manifest.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"alan/web/alanwalton-web/alanwalton-web.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/container-image/buildkit-prune/buildkit-prune.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"container-resources.module.code.ts","path":"infrastructure/container-image/buildkit/buildkit.manifest.code.ts","typed":false,"deferred":false}

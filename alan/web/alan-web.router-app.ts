@@ -43,7 +43,6 @@ export const alanWeb = {
   bundleDirectory: true,
   parts: [
     "app-routes/alan-web-routes",
-    "manifest/alanwalton-web",
     "module/alan-answer-page-types",
     "module/alan-answer-page-write",
     "module/alan-answer-pages",
