@@ -4,7 +4,7 @@ export const seatAnswering = {
   id: "01a06867-7fc9-7004-a4e4-ce9bc9ecc0fd",
   type: "page-type/module",
   slug: "seat-answering",
-  definition: "the rule binding who a seat answers as to who a seat answers to",
+  definition: "how code matches the persona of a seat to the person of the seat",
   code: "ts",
   test: "ts",
   decisions: [
