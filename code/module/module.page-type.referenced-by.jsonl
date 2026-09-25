@@ -6031,6 +6031,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-prune-characters/completion-prune-characters.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-comparison-op/modules/comparison-op-pages/comparison-op-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages-1/rule-template-pages-1.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-pages-2/rule-template-pages-2.module.ts","typed":true,"deferred":false}

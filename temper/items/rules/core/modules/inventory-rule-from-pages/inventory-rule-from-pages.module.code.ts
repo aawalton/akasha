@@ -1,3 +1,4 @@
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   conditionsTaken,
@@ -11,6 +12,7 @@ import type {
   MoveToDestination,
   StockScope,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { COMPARISON_OP_PAGES } from "akasha/temper/player/progress/temper-comparison-op/modules/comparison-op-pages/comparison-op-pages.module.code.ts"
 import { z } from "zod"
 
 export interface RulePage {
@@ -54,6 +56,10 @@ export interface HeldRule {
 }
 
 const SLUG_PREFIX = "rule-"
+
+const COMPARISON_OP = "temper-comparison-op"
+
+const OP_ENDING = "Op"
 
 function keyOf(slug: string): string {
   const [head, ...rest] = slug.split("-")
@@ -107,6 +113,16 @@ function spelt(value: string, slug: string): unknown {
   return read.held
 }
 
+function comparedBy(value: string, slug: string): string {
+  const op = COMPARISON_OP_PAGES.find(
+    (one) => namedAs(COMPARISON_OP, one.slug, null) === value || one.key === value
+  )
+  if (op === undefined) {
+    throw unread(slug, `a comparison holds \`${value}\`, which names no ${COMPARISON_OP} page`)
+  }
+  return op.key
+}
+
 function epochOf(instant: string): number {
   const at = Date.parse(instant)
   if (Number.isNaN(at)) throw new Error(`inventoryRuleFromPages: \`${instant}\` is no instant`)
@@ -124,7 +140,10 @@ export function conditionsOf(
   if (entries.length === 0) return undefined
   const held: Record<string, unknown> = {}
   for (const entry of entries) {
-    held[keyOf(slugOf(entry.conditionField))] = spelt(entry.conditionValue, slug)
+    const key = keyOf(slugOf(entry.conditionField))
+    held[key] = key.endsWith(OP_ENDING)
+      ? comparedBy(entry.conditionValue, slug)
+      : spelt(entry.conditionValue, slug)
   }
   const read = conditionsTaken(held)
   if ("wrong" in read) {

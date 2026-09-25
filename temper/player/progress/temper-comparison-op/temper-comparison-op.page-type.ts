@@ -6,6 +6,7 @@ export const temperComparisonOp = {
   slug: "temper-comparison-op",
   definition: "a way of comparing a number an item rule reads",
   extends: ["page-type/temper-progress-thing"],
+  parts: ["module/comparison-op-pages"],
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
   decisions: [
     {

@@ -40,6 +40,14 @@ export const inventoryRuleFromPages = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A comparison is read as the key of the comparison op page it names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A comparison naming no comparison op page stops the read naming the rule.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "What that read yields is held against the shape a condition declares before it reaches a rule.",
     },

@@ -14,6 +14,8 @@ import type { CategoryRule } from "akasha/temper/items/rules/core/modules/invent
 import { requiredCurseState } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-curse-state.temper-character-condition-field.ts"
 import { requiredSkillLines } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-skill-lines.temper-character-condition-field.ts"
 import { temperCharacterConditionField } from "akasha/temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts"
+import { atLeast } from "akasha/temper/player/progress/temper-comparison-op/pages/at-least.temper-comparison-op.ts"
+import { temperComparisonOp } from "akasha/temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts"
 import { maxQuality } from "akasha/temper/player/progress/temper-condition-field/pages/max-quality.temper-condition-field.ts"
 import { temperConditionField } from "akasha/temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts"
 
@@ -97,6 +99,28 @@ test("a condition key is written by the page type and slug naming the field", ()
   expect(held.conditions).toEqual([
     { conditionField: `${temperConditionField.slug}/${maxQuality.slug}`, conditionValue: "1" },
   ])
+})
+
+test("a comparison is written as the comparison op page it names", () => {
+  const held = pageFromRule({ ...RULE, conditions: { qualityOp: ">=" } }, ACCOUNT, 0, WRITTEN_AT)
+  expect(held.conditions?.[0]?.conditionValue).toBe(`${temperComparisonOp.slug}/${atLeast.slug}`)
+})
+
+test("a comparison naming no comparison op page is refused, and the rule is not written", () => {
+  const conditions = {}
+  Object.assign(conditions, { qualityOp: "~" })
+  const odd: CategoryRule = { ...RULE, conditions }
+  expect(() => pageFromRule(odd, ACCOUNT, 0, WRITTEN_AT)).toThrow(
+    /`rule-gold-stock` compares `qualityOp` by "~", which no temper-comparison-op page is/
+  )
+})
+
+test("a rule comparing numbers is the rule it was once written out and read back", () => {
+  const rule: CategoryRule = {
+    ...RULE,
+    conditions: { maxQuality: 3, qualityOp: "<", marketValue: 500, marketValueOp: "<=" },
+  }
+  expect(rulesFromPages(pagesFromRules([rule], ACCOUNT, WRITTEN_AT))[0]).toEqual(rule)
 })
 
 test("text no JSON reader would take is written as the text it is", () => {

@@ -52,9 +52,15 @@ export const inventoryRuleToPages = {
       statement:
         "A leg's character test is written one test to a record, naming its field and skill lines as pages.",
     },
+
     {
       decisionKind: "decision-kind/departure",
-      statement: "A field or a skill line that names no page is refused by the write of the page.",
+      statement: "A comparison is written as the comparison op page whose key the rule holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A comparison no comparison op page has as its key is refused, and the rule is not written.",
     },
     {
       decisionKind: "decision-kind/departure",

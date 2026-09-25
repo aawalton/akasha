@@ -11,6 +11,7 @@ import type {
   CategoryRule,
   CharEligibility,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { COMPARISON_OP_PAGES } from "akasha/temper/player/progress/temper-comparison-op/modules/comparison-op-pages/comparison-op-pages.module.code.ts"
 
 const SLUG_PREFIX = "rule-"
 
@@ -25,6 +26,10 @@ const ITEM_CATEGORY = "temper-item-category-tree"
 const CHARACTER_CONDITION_FIELD = "temper-character-condition-field"
 
 const SKILL_LINE = "temper-skill-line"
+
+const COMPARISON_OP = "temper-comparison-op"
+
+const OP_ENDING = "Op"
 
 function slugOf(key: string): string {
   let out = ""
@@ -47,6 +52,17 @@ export function instantOf(at: number): string {
   return new Date(at).toISOString()
 }
 
+function comparisonOf(rule: CategoryRule, key: string, value: unknown): string {
+  const op = COMPARISON_OP_PAGES.find((one) => one.key === value)
+  if (op === undefined) {
+    throw new Error(
+      `inventoryRuleToPages: rule \`${SLUG_PREFIX}${rule.id}\` compares \`${key}\` by ` +
+        `${JSON.stringify(value)}, which no ${COMPARISON_OP} page is, and the rule is not written`
+    )
+  }
+  return namedAs(COMPARISON_OP, op.slug, null)
+}
+
 function conditionsOf(rule: CategoryRule): readonly ConditionEntry[] {
   const held = rule.conditions
   if (held === undefined) return []
@@ -55,7 +71,7 @@ function conditionsOf(rule: CategoryRule): readonly ConditionEntry[] {
     if (value === undefined) continue
     out.push({
       conditionField: namedAs(CONDITION_FIELD, slugOf(key), null),
-      conditionValue: spelling(value),
+      conditionValue: key.endsWith(OP_ENDING) ? comparisonOf(rule, key, value) : spelling(value),
     })
   }
   return out

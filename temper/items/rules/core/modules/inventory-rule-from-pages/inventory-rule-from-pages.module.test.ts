@@ -15,6 +15,8 @@ import { canLevelMorphs } from "akasha/temper/player/progress/temper-character-c
 import { requiredCurseState } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-curse-state.temper-character-condition-field.ts"
 import { requiredSkillLines } from "akasha/temper/player/progress/temper-character-condition-field/pages/required-skill-lines.temper-character-condition-field.ts"
 import { temperCharacterConditionField } from "akasha/temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts"
+import { atLeast } from "akasha/temper/player/progress/temper-comparison-op/pages/at-least.temper-comparison-op.ts"
+import { temperComparisonOp } from "akasha/temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts"
 import { sell } from "akasha/temper/player/progress/temper-item-action/pages/sell.temper-item-action.ts"
 import { stock } from "akasha/temper/player/progress/temper-item-action/pages/stock.temper-item-action.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
@@ -70,6 +72,29 @@ test("a condition field is read under the key the engine reads", () => {
     conditions: [{ conditionField: "max-quality", conditionValue: "1" }],
   })
   expect(held.conditions).toEqual({ maxQuality: 1 })
+})
+
+test("a comparison naming a comparison op page is read as the operator the engine reads", () => {
+  const held = ruleFromPage({
+    page: PAGE,
+    conditions: [
+      { conditionField: "max-quality", conditionValue: "3" },
+      {
+        conditionField: "quality-op",
+        conditionValue: `${temperComparisonOp.slug}/${atLeast.slug}`,
+      },
+    ],
+  })
+  expect(held.conditions).toEqual({ maxQuality: 3, qualityOp: ">=" })
+})
+
+test("a comparison naming no comparison op page stops the read", () => {
+  expect(() =>
+    ruleFromPage({
+      page: PAGE,
+      conditions: [{ conditionField: "quality-op", conditionValue: "~" }],
+    })
+  ).toThrow("a comparison holds `~`, which names no temper-comparison-op page")
 })
 
 test("a condition value that is JSON is read as JSON", () => {
