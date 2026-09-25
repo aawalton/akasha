@@ -55,6 +55,7 @@ export const provisionedFile = {
     { pageProperty: "number-property/kill-memory-mb", required: false, many: false },
     { pageProperty: "number-property/unit-max-memory-mb", required: false, many: false },
   ],
+  bodyPropertyId: "content",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

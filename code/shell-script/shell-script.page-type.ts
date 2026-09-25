@@ -23,6 +23,7 @@ export const shellScript = {
     { pageProperty: "text-property/install-path", required: false, many: false },
     { pageProperty: "select-property/only-on", required: false, many: false },
   ],
+  bodyPropertyId: "shell",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
