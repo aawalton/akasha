@@ -261,10 +261,14 @@ export const seatTurn = {
     },
     { decisionKind: "decision-kind/gap", statement: "Every error turn end is reported." },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An overloaded seat is nudged until the seat works again.",
     },
-    { decisionKind: "decision-kind/gap", statement: "A seat waits longer after each nudge." },
+    { decisionKind: "decision-kind/departure", statement: "A seat waits longer after each nudge." },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The wait after a nudge stops growing at thirty minutes.",
+    },
 
     { decisionKind: "decision-kind/departure", statement: "A working seat is drawn in green." },
     { decisionKind: "decision-kind/departure", statement: "An idle seat is drawn in yellow." },
