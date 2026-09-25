@@ -4,7 +4,7 @@ export const fileSystem = {
   id: "01a05c4c-9440-7c8e-bb95-ba621d52090a",
   type: "page-type/domain",
   slug: "file-system",
-  definition: "how a file lands whole and how a path spelled from home is spelled in full",
+  definition: "how code uses a file on a machine",
   parts: [
     "module/anything-there",
     "module/atomic-write",
