@@ -114,7 +114,7 @@ export const shellCalls = {
       statement: "A shell marks no word as a word that runs the call behind that word.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every hook cuts a command line the same way without saying how twice.",
     },
     {
