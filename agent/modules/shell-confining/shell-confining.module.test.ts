@@ -358,6 +358,26 @@ test("every seat's call reaches no bus and nothing of the runtime folder but log
   expect(handed.includes("--tmpfs\n/run/dbus\n")).toBe(existsSync("/run/dbus"))
 })
 
+test("every seat's call reaches no tmux server, under /tmp or under TMUX_TMPDIR", () => {
+  const held = heldAnew()
+  const uid = process.getuid?.() ?? 0
+  const elsewhere = SCRATCH.rootFor("shell-confining-tmux-")
+  const sockets = join(elsewhere, `tmux-${uid}`)
+  mkdirSync(sockets)
+
+  confining(held, agentsLine(held, "true"), SCRIPT, {
+    TMUX_TMPDIR: elsewhere,
+    TMUX: `${sockets}/default,1,0`,
+    TMUX_PANE: "%1",
+  })
+
+  const handed = bwrapHanded(held) ?? ""
+  expect(handed).toContain(`--tmpfs\n${sockets}\n`)
+
+  expect(handed).toContain("--unsetenv\nTMUX\n")
+  expect(handed).toContain("--unsetenv\nTMUX_PANE\n")
+})
+
 test("a game master's akasha call alone on the line still runs outside", () => {
   const held = heldOverLore()
 

@@ -67,9 +67,12 @@ export const shellConfinement = {
         "An agent's call sees no runtime folder but the supervisors' logs, read-only, and the ssh socket.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "No agent's call reaches a tmux server under /tmp or under `TMUX_TMPDIR`.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement:
-        "Nothing hides the tmux server from a seat but a game master's, and tmux runs a command outside.",
+      statement: "A tmux server given a socket path of its own elsewhere is not hidden.",
     },
     {
       decisionKind: "decision-kind/departure",

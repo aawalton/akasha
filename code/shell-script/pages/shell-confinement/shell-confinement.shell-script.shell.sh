@@ -15,7 +15,8 @@
 #
 # NO CALL INSIDE REACHES THE USER'S SESSION. The runtime folder is emptied but for the
 # supervisors' logs, read-only, and the ssh agent's socket, and the system bus's folder is emptied,
-# so no bus, no service manager and no other session's socket runs a command outside.
+# so no bus, no service manager and no other session's socket runs a command outside. Every tmux
+# server's sockets are emptied too, under /tmp and under `TMUX_TMPDIR`.
 #
 # A GAME MASTER'S CALL IS HIDDEN MORE, as `withheld-hiding` prints for the seat `AGENT_ID` names:
 # each withheld page reads as the refusal, and the git store, the Claude folders, the whole runtime
@@ -67,7 +68,7 @@ for at in "$root" "$HOME/.local/bin" "$HOME/.local/state/akasha" "$HOME/.bun/bin
   fi
 done
 
-session=(--unsetenv DBUS_SESSION_BUS_ADDRESS --unsetenv DBUS_SYSTEM_BUS_ADDRESS)
+session=(--unsetenv DBUS_SESSION_BUS_ADDRESS --unsetenv DBUS_SYSTEM_BUS_ADDRESS --unsetenv TMUX --unsetenv TMUX_PANE)
 if [[ -d $runtime ]]; then
   session+=(--perms 0700 --tmpfs "$runtime")
   if [[ -d $runtime/akasha ]]; then
@@ -80,4 +81,9 @@ fi
 if [[ -d /run/dbus ]]; then
   session+=(--tmpfs /run/dbus)
 fi
+for at in "/tmp/tmux-$UID" ${TMUX_TMPDIR:+"$TMUX_TMPDIR/tmux-$UID"}; do
+  if [[ -d $at ]]; then
+    session+=(--tmpfs "$at")
+  fi
+done
 exec bwrap --dev-bind / / "${kept[@]}" "${session[@]}" "${hidden[@]}" -- bash -c "$handed"
