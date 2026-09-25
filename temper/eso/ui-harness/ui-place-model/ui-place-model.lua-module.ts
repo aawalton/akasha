@@ -58,8 +58,17 @@ export const uiPlaceModel = {
         "A label naming no font is measured as ZoFontGame, whose face is the game's fallback.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Text is measured with the kerning the game gives each pair of characters.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "The game's own slug faces hold no kerning, so the game draws its own faces unkerned.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The slug faces Temper ships hold the kerning of their GPOS tables.",
     },
     {
       decisionKind: "decision-kind/gap",
