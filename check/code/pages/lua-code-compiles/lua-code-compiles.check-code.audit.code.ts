@@ -1,9 +1,20 @@
-import { judgedAcross } from "akasha/check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.code.ts"
+import {
+  addonsJudged,
+  judgedAcross,
+} from "akasha/check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.code.ts"
+import {
+  addonsIn,
+  type Tree,
+} from "akasha/check/code/pages/lua-code-compiles/modules/addon-programs/addon-programs.module.code.ts"
 import { commitIn } from "akasha/check/modules/audit-commit/audit-commit.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { librariesIn } from "akasha/code/lua-runtime-library/modules/config-claiming/config-claiming.module.code.ts"
 
 export function luaCodeCompiles(root: string): readonly Judged[] {
   const commit = commitIn(root)
-  return judgedAcross(librariesIn([], commit.read, commit.index), commit.paths, commit.bytes)
+  const tree: Tree = { index: commit.index, listed: () => commit.paths, read: commit.read }
+  return [
+    ...judgedAcross(librariesIn([], commit.read, commit.index), commit.paths, commit.bytes),
+    ...addonsJudged(addonsIn(tree), tree, commit.bytes),
+  ]
 }

@@ -1,10 +1,23 @@
-import { mkdirSync, symlinkSync } from "node:fs"
-import { basename, join } from "node:path"
+import { existsSync, mkdirSync, readdirSync, symlinkSync, writeFileSync } from "node:fs"
+import { basename, dirname, join } from "node:path"
+import {
+  type Addon,
+  addonsIn,
+  BASE,
+  programOf,
+  reachedAmong,
+  settingsOf,
+  type Tree,
+} from "akasha/check/code/pages/lua-code-compiles/modules/addon-programs/addon-programs.module.code.ts"
+import { reachedBy } from "akasha/check/code/pages/typecheck/typecheck.check-code.decision.code.ts"
 import {
   type Mirror,
   mirroredOf,
 } from "akasha/check/modules/change-mirror/change-mirror.module.code.ts"
-import { textNamed } from "akasha/check/modules/change-walking/change-walking.module.code.ts"
+import {
+  holdingOver,
+  textNamed,
+} from "akasha/check/modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import {
@@ -15,12 +28,19 @@ import {
 } from "akasha/code/lua-runtime-library/modules/config-claiming/config-claiming.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import {
+  compilerCommand,
+  compilerRoot,
+} from "akasha/temper/addon/build/modules/lua-build-command/lua-build-command.module.code.ts"
 import { z } from "zod"
 
 const COMPILER = "typescript/lib/tsc.js"
 
 const ARGV: readonly string[] = ["--noEmit", "--pretty", "false", "--project"]
+
+const NO_LUA: readonly string[] = ["--noEmitLua", "true", "--pretty", "false"]
 
 const JUDGED: ReadonlySet<number> = new Set([0, 1, 2])
 
@@ -30,15 +50,21 @@ const PACKAGES = "node_modules"
 
 const PACKAGE = "akasha"
 
-const PLACED = /^(.+)\((\d+),(\d+)\): error TS(\d+): (.*)$/
+const SETTINGS_HELD = ".lua-code-compiles"
 
-const UNPLACED = /^error TS(\d+): (.*)$/
+const SETTINGS_ENDING = ".tsconfig.json"
+
+const MANIFESTS: readonly string[] = ["/addon.json", ".addon-manifest.json"]
+
+const PLACED = /^(.+)\((\d+),(\d+)\): error TS(\w+): (.*)$/
+
+const UNPLACED = /^error TS(\w+): (.*)$/
 
 const COUNTED = z.coerce.number().int()
 
-const PLACED_SAID = z.tuple([z.string(), z.string(), COUNTED, COUNTED, COUNTED, z.string()])
+const PLACED_SAID = z.tuple([z.string(), z.string(), COUNTED, COUNTED, z.string(), z.string()])
 
-const UNPLACED_SAID = z.tuple([z.string(), COUNTED, z.string()])
+const UNPLACED_SAID = z.tuple([z.string(), z.string(), z.string()])
 
 const FOLLOWS = " "
 
@@ -54,11 +80,11 @@ export type Found = {
   readonly path: string | null
   readonly line: number
   readonly column: number
-  readonly code: number
+  readonly code: string
   readonly said: string
 }
 
-export type Compiled = {
+type Compiled = {
   readonly found: readonly Found[]
   readonly failed: string | null
 }
@@ -66,11 +92,21 @@ export type Compiled = {
 type Held = {
   readonly path: string
   readonly reason: string
-  readonly configs: string[]
+  readonly under: string[]
+}
+
+type Entered = {
+  readonly addon: Addon
+  readonly entry: string
 }
 
 export function builtFrom(path: string): boolean {
-  return textNamed(path) || CONFIGS.includes(basename(path))
+  return (
+    textNamed(path) ||
+    CONFIGS.includes(basename(path)) ||
+    path === BASE ||
+    MANIFESTS.some((one) => path.endsWith(one))
+  )
 }
 
 function lineOf(line: string): Found | null {
@@ -109,10 +145,8 @@ function compilerAt(): string | null {
   }
 }
 
-export function compiledOver(root: string, config: string): Compiled {
-  const at = compilerAt()
-  if (at === null) return { found: [], failed: `no compiler resolves as \`${COMPILER}\`` }
-  const done = ran([process.execPath, at, ...ARGV, config], { cwd: root, timeout: WAITED_AT_MOST })
+function compiledBy(root: string, argv: readonly string[]): Compiled {
+  const done = ran(argv, { cwd: root, timeout: WAITED_AT_MOST })
   const why = `${done.out}${done.err}`.trim().slice(0, SAID_AT_MOST)
   if (!JUDGED.has(done.code))
     return { found: [], failed: `the compiler exited ${done.code} — ${why}` }
@@ -123,23 +157,35 @@ export function compiledOver(root: string, config: string): Compiled {
   return { found, failed: null }
 }
 
+function compiledOver(root: string, config: string): Compiled {
+  const at = compilerAt()
+  if (at === null) return { found: [], failed: `no compiler resolves as \`${COMPILER}\`` }
+  return compiledBy(root, [process.execPath, at, ...ARGV, config])
+}
+
 function outsideOf(said: string, root: string): string {
   return said.replaceAll(`${root}/`, "").replaceAll(root, MIRROR)
 }
 
-export function reasonOf(one: Found): string {
+function reasonOf(one: Found): string {
   return `TS${one.code} at line ${one.line}, column ${one.column} — ${one.said}`
 }
 
-function mirroring(library: Library, listed: readonly string[], bytes: Bytes): Mirror {
-  const named = [
-    ...library.configs.map((one) => one.at),
-    ...listed.filter((one) => claims(library, one)),
-  ]
-  const mirror = mirroredOf(named, bytes)
+function packagesLinked(root: string): undefined {
+  const into = join(root, PACKAGES)
+  mkdirSync(into, { recursive: true })
+  symlinkSync(root, join(into, PACKAGE))
+  const from = join(codeRoot(), PACKAGES)
+  if (!existsSync(from)) return
+  for (const name of readdirSync(from)) {
+    if (name !== PACKAGE) symlinkSync(join(from, name), join(into, name))
+  }
+}
+
+function mirroredWith(paths: readonly string[], bytes: Bytes): Mirror {
+  const mirror = mirroredOf(paths, bytes)
   try {
-    mkdirSync(join(mirror.root, PACKAGES), { recursive: true })
-    symlinkSync(mirror.root, join(mirror.root, PACKAGES, PACKAGE))
+    packagesLinked(mirror.root)
   } catch (thrown) {
     mirror.sweep()
     throw thrown
@@ -147,20 +193,36 @@ function mirroring(library: Library, listed: readonly string[], bytes: Bytes): M
   return mirror
 }
 
+function mirroring(library: Library, listed: readonly string[], bytes: Bytes): Mirror {
+  const named = [
+    ...library.configs.map((one) => one.at),
+    ...listed.filter((one) => claims(library, one)),
+  ]
+  return mirroredWith(named, bytes)
+}
+
 function heldInto(
   said: Map<string, Held>,
-  config: string,
+  under: string,
+  unplaced: string,
   compiled: Compiled,
   root: string
 ): undefined {
   for (const one of compiled.found) {
-    const path = one.path === null ? config : outsideOf(one.path, root)
+    const path = one.path === null ? unplaced : outsideOf(one.path, root)
     const reason = outsideOf(reasonOf(one), root)
     const key = `${path}\n${reason}`
     const held = said.get(key)
-    if (held === undefined) said.set(key, { path, reason, configs: [config] })
-    else held.configs.push(config)
+    if (held === undefined) said.set(key, { path, reason, under: [under] })
+    else held.under.push(under)
   }
+}
+
+function heldOf(said: ReadonlyMap<string, Held>): readonly Judged[] {
+  return [...said.values()].map((one) => ({
+    path: one.path,
+    reason: `${one.reason} — under ${one.under.join(" and ")}`,
+  }))
 }
 
 function judgedIn(
@@ -174,7 +236,7 @@ function judgedIn(
   try {
     for (const config of library.configs) {
       const compiled = compiledOver(mirror.root, join(mirror.root, config.at))
-      if (compiled.failed === null) heldInto(said, config.at, compiled, mirror.root)
+      if (compiled.failed === null) heldInto(said, config.at, config.at, compiled, mirror.root)
       else {
         const reason = `${outsideOf(compiled.failed, mirror.root)}. ${UNLOOKED}`
         failed.push({ path: config.at, reason, threw: true })
@@ -197,11 +259,57 @@ export function judgedAcross(
     if (library.configs.length === 0) continue
     failed.push(...judgedIn(library, listed, bytes, said))
   }
-  const found = [...said.values()].map((one) => ({
-    path: one.path,
-    reason: `${one.reason} — under ${one.configs.join(" and ")}`,
-  }))
-  return [...found, ...failed]
+  return [...heldOf(said), ...failed]
+}
+
+function unentered(one: Addon): Judged {
+  const why =
+    one.entry === null ? "no module page carries that slug" : `\`${one.entry}\` is not there`
+  return {
+    path: one.page,
+    reason: `this names \`${one.entrySlug ?? ""}\` as its bundle entry, and ${why}, so nothing of it was compiled`,
+  }
+}
+
+function compiledAs(root: string, one: Entered): Compiled {
+  const config = join(root, SETTINGS_HELD, `${one.addon.name}${SETTINGS_ENDING}`)
+  mkdirSync(dirname(config), { recursive: true })
+  writeFileSync(config, settingsOf(root, one.addon, one.entry))
+  return compiledBy(root, compilerCommand(compilerRoot(), config, NO_LUA))
+}
+
+export function addonsJudged(
+  addons: readonly Addon[],
+  tree: Tree,
+  bytes: Bytes
+): readonly Judged[] {
+  const failed: Judged[] = []
+  const entered: Entered[] = []
+  for (const one of addons) {
+    if (one.entrySlug === null) continue
+    if (one.entry !== null && tree.read(one.entry) !== null) {
+      entered.push({ addon: one, entry: one.entry })
+    } else failed.push(unentered(one))
+  }
+  if (entered.length === 0) return failed
+  const paths = new Set([BASE])
+  for (const one of entered) for (const at of programOf(one.addon, tree)) paths.add(at)
+  const said = new Map<string, Held>()
+  const mirror = mirroredWith([...paths], bytes)
+  try {
+    for (const one of entered) {
+      const compiled = compiledAs(mirror.root, one)
+      const { name, page } = one.addon
+      if (compiled.failed === null) heldInto(said, name, page, compiled, mirror.root)
+      else {
+        const reason = `${outsideOf(compiled.failed, mirror.root)}. ${UNLOOKED}`
+        failed.push({ path: page, reason, threw: true })
+      }
+    }
+  } finally {
+    mirror.sweep()
+  }
+  return [...heldOf(said), ...failed]
 }
 
 export function reachedOver(
@@ -213,9 +321,18 @@ export function reachedOver(
   return libraries.filter((one) => paths.some((at) => reaches(one, at)))
 }
 
-export function refusalsOver(change: Change, shadow: Shadow): readonly Judged[] {
+function addonsReached(change: Change, shadow: Shadow, tree: Tree): readonly Addon[] {
+  const every = addonsIn(tree)
+  if (every.length === 0) return []
+  return reachedAmong(every, [...change.changed, ...reachedBy(change, shadow)])
+}
+
+export function refusalsOver(given: Change, shadow: Shadow): readonly Judged[] {
+  const change = holdingOver(given)
   const read = (path: string): string | null => textOf(change.after(path))
+  const tree: Tree = { index: shadow.index, listed: () => shadow.listed(), read }
   const reached = reachedOver(librariesIn(change.changed, read, shadow.index), change.changed)
-  if (reached.length === 0) return []
-  return judgedAcross(reached, shadow.listed(), change.after)
+  const libraries = reached.length === 0 ? [] : judgedAcross(reached, tree.listed(), change.after)
+  const addons = addonsReached(change, shadow, tree)
+  return [...libraries, ...addonsJudged(addons, tree, change.after)]
 }

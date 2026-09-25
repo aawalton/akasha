@@ -3,7 +3,10 @@ import { dirname, join, relative } from "node:path"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const GAME_MANIFEST_NAME = "addon.json"
 
@@ -13,15 +16,27 @@ const TEMPER_ADDON = "temper-addon"
 
 const OUTSIDE = ".."
 
+function besidePage(page: string, value: Value, propertySlug: string): string | null {
+  const held = textAt(value, exportedAs(propertySlug))
+  return held === null ? null : besideAt(page, propertySlug, held)
+}
+
+export function manifestBeside(
+  page: string,
+  value: Value,
+  holds: (path: string) => boolean
+): string | null {
+  const game = join(dirname(page), GAME_MANIFEST_NAME)
+  return holds(game) ? game : besidePage(page, value, ADDON_MANIFEST)
+}
+
 export function addonFilePathIn(root: string, dir: string, propertySlug: string): string | null {
   const rel = relative(root, dir)
   if (rel === "" || rel === OUTSIDE || rel.startsWith(`${OUTSIDE}/`)) return null
-  const key = exportedAs(propertySlug)
   const found: string[] = []
   for (const one of valuesOfType(root, TEMPER_ADDON)) {
     if (dirname(one.path) !== rel) continue
-    const held = textAt(one.value, key)
-    const made = held === null ? null : besideAt(one.path, propertySlug, held)
+    const made = besidePage(one.path, one.value, propertySlug)
     if (made !== null) found.push(made)
   }
   found.sort()

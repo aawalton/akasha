@@ -1531,6 +1531,7 @@
 {"propertySlug":"decision-kind","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.ts","id":"01a05424-3456-7724-8023-7e085329bffc"}
 {"propertySlug":"decision-kind","path":"check/code/pages/lint-clean/lint-clean.check-code.ts","id":"01a04eec-d235-7000-9f19-d65076b0c634"}
 {"propertySlug":"decision-kind","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.ts","id":"01a0d459-d5bc-71c9-b017-1f958fd74948"}
+{"propertySlug":"decision-kind","path":"check/code/pages/lua-code-compiles/modules/addon-programs/addon-programs.module.ts","id":"01a0d8bf-6d99-7c82-8985-693487ba77e6"}
 {"propertySlug":"decision-kind","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.ts","id":"01a05d75-de6d-726c-b07d-520ab5bfd098"}
 {"propertySlug":"decision-kind","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.ts","id":"01a0597b-d723-72c8-ab64-118c9e5eb650"}
 {"propertySlug":"decision-kind","path":"check/code/pages/module-sits-under-a-modules-folder/module-sits-under-a-modules-folder.check-code.ts","id":"01a095ee-d67a-7507-8e3e-82b54865302b"}

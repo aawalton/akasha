@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"addon-programs.module.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.audit.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-programs.module.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"addon-programs.module.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"addon-programs.module.code.ts","path":"check/code/pages/lua-code-compiles/modules/addon-programs/addon-programs.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.ts","id":"01a0d459-d5bc-71c9-b017-1f958fd74948"}

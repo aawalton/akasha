@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"check/code/pages/lua-code-compiles/modules/addon-programs/addon-programs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"command/pages/temper/addon/global-name-dependent/temper-addon-global-name-dependent.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-dependency-cycle/check-addon-dependency-cycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"addon-manifest-file.module.code.ts","path":"temper/addon/build/deploy-check/modules/check-addon-dependency-floor/check-addon-dependency-floor.module.code.ts","typed":false,"deferred":false}

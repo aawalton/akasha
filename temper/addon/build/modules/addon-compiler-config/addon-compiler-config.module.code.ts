@@ -41,19 +41,28 @@ const MANIFEST_NAMING = addonManifestSchema
 
 type AddonManifest = z.infer<typeof MANIFEST_NAMING>
 
-function addonManifestIn(root: string, dir: string): AddonManifest | null {
-  const path = addonManifestPathIn(root, dir)
-  if (path === null) return null
+type ManifestOf = (dir: string) => AddonManifest | null
+
+export function manifestIn(text: string): AddonManifest | null {
   try {
-    const parsed = MANIFEST_NAMING.safeParse(JSON.parse(readFileSync(path, "utf-8")))
+    const parsed = MANIFEST_NAMING.safeParse(JSON.parse(text))
     return parsed.success ? parsed.data : null
   } catch {
     return null
   }
 }
 
-function dependedOnIn(root: string, dir: string): readonly string[] {
-  const said = addonManifestIn(root, dir)
+function addonManifestIn(root: string, dir: string): AddonManifest | null {
+  const path = addonManifestPathIn(root, dir)
+  if (path === null) return null
+  try {
+    return manifestIn(readFileSync(path, "utf-8"))
+  } catch {
+    return null
+  }
+}
+
+function dependedOn(said: AddonManifest | null): readonly string[] {
   if (said === null) return []
   const named = [...(said.dependsOn ?? []), ...(said.optionalDependsOn ?? [])]
   return named.map((one) => (one.split(VERSION_MARK)[0] ?? "").trim()).filter((one) => one !== "")
@@ -63,6 +72,14 @@ type Reached = {
   readonly valueAt: ReadonlyMap<string, Value>
   readonly namedAt: ReadonlyMap<string, string>
   readonly declaring: readonly string[]
+  readonly manifestOf: ManifestOf
+}
+
+type Addons = {
+  readonly root: string
+  readonly addons: readonly { readonly path: string; readonly value: Value }[]
+  readonly declarations: readonly string[]
+  readonly manifestOf: ManifestOf
 }
 
 const reachedHeld = new Map<string, Reached>()
@@ -74,53 +91,61 @@ function addonHolds(addonUnder: ReadonlySet<string>, folder: string): boolean {
   return false
 }
 
-function reachedIn(repoRoot: string): Reached {
-  const held = reachedHeld.get(repoRoot)
-  if (held !== undefined) return held
+export function reachedOver(given: Addons): Reached {
   const valueAt = new Map<string, Value>()
   const namedAt = new Map<string, string>()
   const addonUnder = new Set<string>()
-  for (const one of valuesOfType(repoRoot, TEMPER_ADDON_TYPE)) {
+  for (const one of given.addons) {
     const folder = dirname(one.path)
-    const dir = join(repoRoot, folder)
+    const dir = join(given.root, folder)
     if (valueAt.has(dir)) continue
     valueAt.set(dir, one.value)
     addonUnder.add(folder)
-    const named = addonManifestIn(repoRoot, dir)?.name
+    const named = given.manifestOf(dir)?.name
     if (named !== undefined && !namedAt.has(named)) namedAt.set(named, dir)
   }
   const declaring = new Set<string>()
-  for (const one of valuesOfType(repoRoot, DECLARATION_TYPE)) {
-    const folder = dirname(dirname(one.path))
+  for (const path of given.declarations) {
+    const folder = dirname(dirname(path))
     if (!folder.startsWith(TEMPER_HEAD)) continue
     if (addonHolds(addonUnder, folder)) continue
-    declaring.add(join(repoRoot, folder))
+    declaring.add(join(given.root, folder))
   }
-  const made: Reached = { valueAt, namedAt, declaring: [...declaring].sort() }
+  return { valueAt, namedAt, declaring: [...declaring].sort(), manifestOf: given.manifestOf }
+}
+
+function reachedIn(repoRoot: string): Reached {
+  const held = reachedHeld.get(repoRoot)
+  if (held !== undefined) return held
+  const made = reachedOver({
+    root: repoRoot,
+    addons: valuesOfType(repoRoot, TEMPER_ADDON_TYPE),
+    declarations: valuesOfType(repoRoot, DECLARATION_TYPE).map((one) => one.path),
+    manifestOf: (dir) => addonManifestIn(repoRoot, dir),
+  })
   reachedHeld.set(repoRoot, made)
   return made
 }
 
-function addonDirsByName(repoRoot: string): ReadonlyMap<string, string> {
-  return reachedIn(repoRoot).namedAt
-}
-
-export function reachedAddonDirs(repoRoot: string, addonDir: string): readonly string[] {
-  const byName = addonDirsByName(repoRoot)
+export function dirsReachedIn(reached: Reached, addonDir: string): readonly string[] {
   const found = new Set<string>()
   const asked = new Set<string>()
-  const owed = [...dependedOnIn(repoRoot, addonDir)]
+  const owed = [...dependedOn(reached.manifestOf(addonDir))]
   for (;;) {
     const name = owed.pop()
     if (name === undefined) break
     if (asked.has(name)) continue
     asked.add(name)
-    const dir = byName.get(name)
+    const dir = reached.namedAt.get(name)
     if (dir === undefined || dir === addonDir) continue
     found.add(dir)
-    owed.push(...dependedOnIn(repoRoot, dir))
+    owed.push(...dependedOn(reached.manifestOf(dir)))
   }
   return [...found].sort()
+}
+
+export function reachedAddonDirs(repoRoot: string, addonDir: string): readonly string[] {
+  return dirsReachedIn(reachedIn(repoRoot), addonDir)
 }
 
 export function declaringDirs(repoRoot: string): readonly string[] {
@@ -135,7 +160,10 @@ export type TemperAddonPage = {
 }
 
 export function readTemperAddonPage(repoRoot: string, dir: string): TemperAddonPage | null {
-  const value = reachedIn(repoRoot).valueAt.get(dir)
+  return addonPageOf(reachedIn(repoRoot).valueAt.get(dir))
+}
+
+export function addonPageOf(value: Value | undefined): TemperAddonPage | null {
   if (value === undefined) return null
   const slug = value.slug
   if (typeof slug !== "string") return null
@@ -151,15 +179,19 @@ export function readTemperAddonPage(repoRoot: string, dir: string): TemperAddonP
   }
 }
 
-function slugBareOf(slug: string): string {
+export function bareSlugOf(slug: string): string {
   const mark = slug.lastIndexOf("/")
   return mark === -1 ? slug : slug.slice(mark + 1)
 }
 
+export function entryCodeAt(modulePage: string, bare: string): string {
+  return join(dirname(modulePage), `${bare}${CODE_SUFFIX}`)
+}
+
 export function bundleEntryPathIn(repoRoot: string, entrySlug: string): string {
-  const bare = slugBareOf(entrySlug)
+  const bare = bareSlugOf(entrySlug)
   const page = valuedAt(repoRoot, MODULE_TYPE, bare)
-  return join(repoRoot, dirname(page.path), `${bare}${CODE_SUFFIX}`)
+  return join(repoRoot, entryCodeAt(page.path, bare))
 }
 
 export type CompilerConfigAsked = {
@@ -169,6 +201,19 @@ export type CompilerConfigAsked = {
   readonly entryPath: string
   readonly reachedDirs: readonly string[]
   readonly declaringDirs: readonly string[]
+}
+
+export function includedFor(
+  addonDir: string,
+  reachedDirs: readonly string[],
+  declaringDirs: readonly string[]
+): readonly string[] {
+  return [
+    join(addonDir, CODE_UNDER),
+    join(addonDir, OWN_DECLARATIONS_UNDER),
+    ...reachedDirs.map((one) => join(one, OWN_DECLARATIONS_UNDER)),
+    ...declaringDirs.map((one) => join(one, DECLARATIONS_UNDER)),
+  ]
 }
 
 export function compilerConfigBody(asked: CompilerConfigAsked): string {
@@ -197,12 +242,7 @@ export function compilerConfigBody(asked: CompilerConfigAsked): string {
       noResolvePaths: [],
       noImplicitSelf: true,
     },
-    include: [
-      join(asked.addonDir, CODE_UNDER),
-      join(asked.addonDir, OWN_DECLARATIONS_UNDER),
-      ...asked.reachedDirs.map((one) => join(one, OWN_DECLARATIONS_UNDER)),
-      ...asked.declaringDirs.map((one) => join(one, DECLARATIONS_UNDER)),
-    ],
+    include: includedFor(asked.addonDir, asked.reachedDirs, asked.declaringDirs),
   }
   return `${JSON.stringify(body, null, 2)}\n`
 }

@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"typecheck.check-code.check.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.check.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.audit.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.code.ts","path":"check/code/pages/browser-code-compiles/browser-code-compiles.check-code.check.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"typecheck.check-code.decision.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.audit.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.check.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"typecheck.check-code.decision.code.ts","path":"check/code/pages/typecheck/typecheck.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
