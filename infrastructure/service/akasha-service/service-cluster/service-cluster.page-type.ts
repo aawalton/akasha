@@ -155,7 +155,16 @@ export const serviceCluster = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "The manifests a cluster service is applied as are emitted from its own page.",
+      statement:
+        "A cluster service a web app names is applied as manifests emitted from its own page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cluster service no web app names is applied from its own manifest page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Cluster services no web app names share no shape a page could state.",
     },
     {
       decisionKind: "decision-kind/departure",
