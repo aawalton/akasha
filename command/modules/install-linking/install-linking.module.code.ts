@@ -1,5 +1,5 @@
-import { lstatSync, mkdirSync, readlinkSync, rmSync, symlinkSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { lstatSync, mkdirSync, readlinkSync, realpathSync, rmSync, symlinkSync } from "node:fs"
+import { dirname, join, resolve } from "node:path"
 import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.code.ts"
 import {
   atHome,
@@ -12,6 +12,7 @@ import {
   type Valued,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
 const INSTALLED_AT = "installPath"
@@ -33,6 +34,8 @@ const DARWIN = "darwin"
 const UNDER_HOME = "~/"
 
 const A_FILE = "file"
+
+const LAUNCHER = "akasha-launcher"
 
 type Kind = {
   readonly pageTypeSlug: string
@@ -116,8 +119,36 @@ function placedTo(root: string, placing: Placing): string | null {
   return `linked ${placing.at} to ${placing.file}`
 }
 
+function realOf(path: string): string {
+  try {
+    return realpathSync(path)
+  } catch {
+    return resolve(path)
+  }
+}
+
+function elsewhereOf(root: string, placings: readonly Placing[]): string | null {
+  const launcher = placings.find((one) => partedIn(one.page)?.slug === LAUNCHER)
+  if (launcher === undefined) return null
+  const held = lstatSync(launcher.at, { throwIfNoEntry: false })
+  if (held === undefined || !held.isSymbolicLink()) return null
+  const runs = realOf(resolve(dirname(launcher.at), readlinkSync(launcher.at)))
+  const here = realOf(root)
+  if (runs.startsWith(`${here}/`)) return null
+  return (
+    `nothing is linked from ${root}, because the launcher at ${launcher.at} runs ${runs},` +
+    " and only the checkout this machine runs places links"
+  )
+}
+
+export function ranElsewhere(root: string, home: string, on: string = machineNow()): string | null {
+  return elsewhereOf(root, weighedIn(root, home, on).placings)
+}
+
 export function linkedInPlace(root: string, home: string, on: string = machineNow()): Linking {
   const weighed = weighedIn(root, home, on)
+  const elsewhere = elsewhereOf(root, weighed.placings)
+  if (elsewhere !== null) return { said: [elsewhere], wrong: [] }
   const said: string[] = []
   const wrong: string[] = [...weighed.wrong]
   for (const one of weighed.placings) {

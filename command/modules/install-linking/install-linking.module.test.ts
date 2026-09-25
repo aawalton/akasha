@@ -243,6 +243,38 @@ test("two pages naming one link place that link once", () => {
   expect(weighedIn(root, outside(), HERE).placings).toHaveLength(1)
 })
 
+test("a checkout the machine's launcher does not run links nothing into the home", () => {
+  const root = worldOf(
+    scriptOf(LAUNCHER, { installPath: "~/bin/akasha" }),
+    placedOf("two", { installPath: "~/.held", placedBy: "link" })
+  )
+  const home = outside()
+  const runs = outside()
+  mkdirSync(join(home, "bin"), { recursive: true })
+  symlinkSync(join(runs, "launcher.sh"), join(home, "bin/akasha"))
+
+  const said = linkedInPlace(root, home, HERE)
+
+  expect(said.wrong).toEqual([])
+  expect(said.said.join("")).toContain("only the checkout this machine runs places links")
+  expect(readlinkSync(join(home, "bin/akasha"))).toBe(join(runs, "launcher.sh"))
+  expect(existsSync(join(home, ".held"))).toBe(false)
+})
+
+test("the checkout the machine's launcher runs places its links", () => {
+  const root = worldOf(
+    scriptOf(LAUNCHER, { installPath: "~/bin/akasha" }),
+    placedOf("two", { installPath: "~/.held", placedBy: "link" })
+  )
+  const home = outside()
+  linkedInPlace(root, home, HERE)
+
+  const said = linkedInPlace(root, home, HERE)
+
+  expect(said).toEqual({ said: [], wrong: [] })
+  expect(readlinkSync(join(home, ".held"))).toBe(readsAs(root, PLACED, CONTENT, "two"))
+})
+
 test("a repository with no index has nothing weighed", () => {
   expect(weighedIn(outside(), outside(), HERE)).toEqual({ placings: [], wrong: [] })
 })

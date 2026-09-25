@@ -37,6 +37,11 @@ export const landingFinishing = {
       decisionKind: "decision-kind/departure",
       statement: "A link that could not be placed is answered rather than refusing the landing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A checkout the machine's launcher does not run links no folder and places no file.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

@@ -61,6 +61,18 @@ export const installLinking = {
       statement: "The path a link is placed at is read off the page rather than off a table here.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the checkout the machine's launcher runs places links into the home.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other checkout links nothing and says which checkout the launcher runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A home with no launcher linked yet takes its links from the checkout landing.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a file inside the repository.",
     },
