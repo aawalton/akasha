@@ -50,7 +50,8 @@ export const blockTypecheck = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A check reporting success over no file reads exactly like a check that passed.",
+      statement:
+        "That run's only error is the empty `files` list, so no fault in the code draws an error.",
     },
     {
       decisionKind: "decision-kind/absence",

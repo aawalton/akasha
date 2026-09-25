@@ -54,7 +54,7 @@ test("the refusal says why a root tsc is empty rather than merely discouraged", 
   const said = judged("tsc --noEmit") ?? ""
   expect(said).toContain('"files": []')
   expect(said).toContain("compiles no file")
-  expect(said).toContain("exits 0")
+  expect(said).toContain("exits 2")
 })
 
 test("tsc reached by a path is the same call", () => {
