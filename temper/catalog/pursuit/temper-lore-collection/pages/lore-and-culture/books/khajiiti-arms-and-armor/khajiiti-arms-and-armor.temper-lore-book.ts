@@ -1,0 +1,30 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const khajiitiArmsAndArmor = {
+  id: "01a0d5f3-3fda-7186-9bfa-4c218bdd7669",
+  type: "page-type/temper-lore-book",
+  slug: "khajiiti-arms-and-armor",
+  title: "Khajiiti Arms and Armor",
+  collection: "temper-lore-collection/lore-and-culture",
+  esoBookId: 1482,
+  bookIndex: 60,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 7 },
+    { mapId: 9, mapCount: 6 },
+    { mapId: 10, mapCount: 6 },
+    { mapId: 12, mapCount: 4 },
+    { mapId: 13, mapCount: 17 },
+    { mapId: 16, mapCount: 7 },
+    { mapId: 26, mapCount: 4 },
+    { mapId: 27, mapCount: 11 },
+    { mapId: 125, mapCount: 3 },
+    { mapId: 143, mapCount: 6 },
+    { mapId: 255, mapCount: 26 },
+    { mapId: 660, mapCount: 7 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 8 },
+    { mapId: 1126, mapCount: 3 },
+  ],
+} as const satisfies TemperLoreBook

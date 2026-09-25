@@ -1,0 +1,31 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const nchunaksFireAndFaith = {
+  id: "01a0d5f3-3fdb-7bdb-a3b4-3f191ab372d7",
+  type: "page-type/temper-lore-book",
+  slug: "nchunaks-fire-and-faith",
+  title: "Nchunak's Fire and Faith",
+  collection: "temper-lore-collection/lore-and-culture",
+  esoBookId: 1158,
+  bookIndex: 50,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 7, mapCount: 11 },
+    { mapId: 10, mapCount: 10 },
+    { mapId: 13, mapCount: 2 },
+    { mapId: 16, mapCount: 9 },
+    { mapId: 20, mapCount: 17 },
+    { mapId: 26, mapCount: 7 },
+    { mapId: 27, mapCount: 5 },
+    { mapId: 30, mapCount: 1 },
+    { mapId: 125, mapCount: 4 },
+    { mapId: 143, mapCount: 5 },
+    { mapId: 255, mapCount: 36 },
+    { mapId: 256, mapCount: 16 },
+    { mapId: 660, mapCount: 16 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 4 },
+    { mapId: 1126, mapCount: 9 },
+  ],
+} as const satisfies TemperLoreBook

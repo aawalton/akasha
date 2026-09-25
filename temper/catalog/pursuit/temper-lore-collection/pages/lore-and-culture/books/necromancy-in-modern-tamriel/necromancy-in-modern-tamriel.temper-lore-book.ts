@@ -1,0 +1,32 @@
+import type { TemperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.types.ts"
+
+export const necromancyInModernTamriel = {
+  id: "01a0d5f3-3fdb-7aa1-80ee-dda91712f5f0",
+  type: "page-type/temper-lore-book",
+  slug: "necromancy-in-modern-tamriel",
+  title: "Necromancy in Modern Tamriel",
+  collection: "temper-lore-collection/lore-and-culture",
+  esoBookId: 1478,
+  bookIndex: 58,
+  charted: true,
+  onBookshelves: true,
+  mapCounts: [
+    { mapId: 1, mapCount: 20 },
+    { mapId: 7, mapCount: 18 },
+    { mapId: 10, mapCount: 8 },
+    { mapId: 13, mapCount: 13 },
+    { mapId: 16, mapCount: 6 },
+    { mapId: 26, mapCount: 4 },
+    { mapId: 27, mapCount: 8 },
+    { mapId: 74, mapCount: 18 },
+    { mapId: 75, mapCount: 2 },
+    { mapId: 125, mapCount: 1 },
+    { mapId: 143, mapCount: 49 },
+    { mapId: 255, mapCount: 18 },
+    { mapId: 258, mapCount: 7 },
+    { mapId: 660, mapCount: 5 },
+    { mapId: 667, mapCount: 1 },
+    { mapId: 1060, mapCount: 2 },
+    { mapId: 1126, mapCount: 11 },
+  ],
+} as const satisfies TemperLoreBook
