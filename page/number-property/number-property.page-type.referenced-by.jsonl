@@ -432,6 +432,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/thing/properties/quality-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/thing/properties/value-per-ability.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/thing/properties/value-per-piece.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/item-browser-source/properties/item-browser-source-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/eso-achievement-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-x.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-y.number-property.ts","typed":true,"deferred":false}

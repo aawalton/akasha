@@ -16,6 +16,7 @@ export const temperWorld = {
     "page-type/temper-race",
     "page-type/temper-source-category",
     "page-type/temper-world-zone",
+    "page-type/temper-item-browser-source",
     "page-type/temper-zone",
     "domain/temper-skyshard",
     "domain/temper-lost-treasure",

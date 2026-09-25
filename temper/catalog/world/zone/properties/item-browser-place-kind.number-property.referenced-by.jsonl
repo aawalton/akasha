@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"item-browser-place-kind.number-property.types.ts","path":"temper/catalog/world/item-browser-source/temper-item-browser-source.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-browser-place-kind.number-property.types.ts","path":"temper/catalog/world/zone/temper-world-zone.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/catalog/world/item-browser-source/temper-item-browser-source.page-type.ts","id":"01a0d9dc-c559-7c66-9c85-d9eef5ed493b"}
 {"propertySlug":"page-property","path":"temper/catalog/world/zone/temper-world-zone.page-type.ts","id":"01a06167-3f9b-700d-bf56-54687a9f3c3a"}
 {"propertySlug":"parts","path":"temper/catalog/world/zone/temper-world-zone.page-type.ts","id":"01a06167-3f9b-700d-bf56-54687a9f3c3a"}
