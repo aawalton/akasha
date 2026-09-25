@@ -4,7 +4,7 @@ export const anthropicErrorEnvelope = {
   id: "01a06299-3f11-7a04-9c62-5d0b8e41f7a2",
   type: "page-type/module",
   slug: "anthropic-error-envelope",
-  definition: "the error shape upstream wraps around a failure",
+  definition: "the shape of an error message from Anthropic",
   code: "ts",
   test: "ts",
   decisions: [
