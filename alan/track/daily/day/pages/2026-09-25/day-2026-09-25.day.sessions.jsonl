@@ -1,3 +1,4 @@
 {"id":"01a0d691-35ca-73a5-826f-5fea277ba5ec","title":"Sleep","startedAt":"2026-09-25T03:15:00.000Z","dailyTracking":"01a0d801-f045-7000-83f2-7e8d028f90ed","endedAt":"2026-09-25T10:30:00.000Z","safetyLevel":"3","difficultyLevel":"0"}
-{"id":"01a0d81e-adb5-7537-a803-372af2f832c1","title":"Read","startedAt":"2026-09-25T10:30:00.000Z","dailyTracking":"01a0d801-f045-7000-83f2-7e8d028f90ed","safetyLevel":"3","difficultyLevel":"1","endedAt":"2026-09-25T11:05:00.000Z"}
-{"id":"01a0d83f-01e4-7909-b16c-d27b0d59f1fb","title":"Read + Pod","startedAt":"2026-09-25T11:05:00.000Z","dailyTracking":"01a0d801-f045-7000-83f2-7e8d028f90ed","safetyLevel":"3","difficultyLevel":"1"}
+{"id":"01a0d81e-adb5-7537-a803-372af2f832c1","title":"Read","startedAt":"2026-09-25T10:30:00.000Z","dailyTracking":"01a0d801-f045-7000-83f2-7e8d028f90ed","endedAt":"2026-09-25T11:05:00.000Z","safetyLevel":"3","difficultyLevel":"1"}
+{"id":"01a0d83f-01e4-7909-b16c-d27b0d59f1fb","title":"Read + Pod","startedAt":"2026-09-25T11:05:00.000Z","dailyTracking":"01a0d801-f045-7000-83f2-7e8d028f90ed","safetyLevel":"3","difficultyLevel":"1","endedAt":"2026-09-25T12:00:00.000Z"}
+{"id":"01a0d871-1443-7cda-93fb-65e57f279828","title":"Walk","startedAt":"2026-09-25T12:00:00.000Z","dailyTracking":"01a0d801-f045-7000-83f2-7e8d028f90ed","safetyLevel":"3","difficultyLevel":"1"}
