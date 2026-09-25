@@ -6,6 +6,7 @@ export const modelVersionNaming = {
   slug: "model-version-naming",
   definition: "the model version an id names, and the id and title a model version states",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
