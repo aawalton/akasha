@@ -280,33 +280,28 @@ export const accountWalk = {
       statement: "No answer here is built from a body this module invented.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "`tools/lib/model-gateway/pick-pipeline.ts` leaves the usage read's rejection unhandled.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every line written here goes to the console rather than to a seam.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A 502 answered for a transport error has no body naming the failure.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A request replayed at the same account is added to the trail a second time.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The loop is bounded by the accounts filed rather than by a ceiling of its own.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A body already sent upstream is sent again without asking whether the second send is safe.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A request rebuilt for a fast-mode replay has no body of its own.",
     },
   ],
