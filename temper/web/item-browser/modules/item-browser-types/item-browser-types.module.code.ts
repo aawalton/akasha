@@ -7,6 +7,15 @@ import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
+export interface ItemBrowserRow {
+  readonly id: number
+  readonly flags: number
+  readonly sources: ReadonlyArray<number | readonly number[]>
+  readonly places: readonly number[]
+  readonly ext?: number
+  readonly alt?: string
+}
+
 export interface EntryData {
   type: number
   name: string

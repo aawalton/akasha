@@ -1,5 +1,7 @@
 import { addPropertyToPages } from "akasha/change/mechanical/file-content/add/add-property-to-pages/add-property-to-pages.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { changeMechanicalPageType } from "akasha/change/mechanical/page-type/change-mechanical-page-type.page-type.ts"
+import { removePropertyFromEveryPage } from "akasha/change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
@@ -9,8 +11,11 @@ import {
   type Source,
   sourcesSaid,
 } from "akasha/temper/catalog/gear/temper-set/modules/set-tables-writing/set-tables-writing.module.code.ts"
+import { temperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.ts"
 
 const PUT = `${changeMechanicalFileContent.slug}/${addPropertyToPages.slug}` as const
+
+const TAKE_OFF = `${changeMechanicalPageType.slug}/${removePropertyFromEveryPage.slug}` as const
 
 const PLACED_AFTER = "esoSetId"
 
@@ -157,13 +162,15 @@ function pieceFacts(upstream: Upstream, esoSetId: number): PageValue {
   return facts
 }
 
-function placesOf(row: Row, upstream: Upstream): readonly number[] {
-  const places = new Set<number>()
+function placesOf(row: Row, upstream: Upstream): readonly number[] | undefined {
+  const places: number[] = []
   for (const source of row.sources) {
-    const kind = typeof source === "number" ? upstream.placeKinds[source] : undefined
-    if (kind !== undefined) places.add(kind)
+    if (typeof source !== "number") continue
+    const kind = upstream.placeKinds[source]
+    if (kind === undefined) return undefined
+    places.push(kind)
   }
-  return [...places].sort((one, other) => one - other)
+  return places
 }
 
 function rowFacts(row: Row, upstream: Upstream, before: PageValue): PageValue | string {
@@ -176,6 +183,7 @@ function rowFacts(row: Row, upstream: Upstream, before: PageValue): PageValue | 
   const facts: Record<string, unknown> = { itemBrowserItemId: row.id, itemBrowserSources: sources }
   if (kinds.length > 0) facts.itemBrowserKinds = kinds.sort()
   const places = placesOf(row, upstream)
+  if (places === undefined) return `row ${String(row.id)} drops in a place of no kind`
   if (places.length > 0) facts.itemBrowserPlaceKinds = places
   if (row.alt !== undefined) facts.itemBrowserSubname = row.alt
   if ((row.flags & MANUAL_STYLE_MARK) !== 0 && row.ext !== undefined) {
@@ -202,20 +210,33 @@ function setOfEachItem(setData: Readonly<Record<string, unknown>>): ReadonlyMap<
   return found
 }
 
-function askingsFor(added: ReadonlyMap<string, Readonly<Record<string, unknown>>>): Asking[] {
+function askingsFor(
+  added: ReadonlyMap<string, Readonly<Record<string, unknown>>>,
+  pages: ReadonlyMap<string, PageValue>
+): Asking[] {
   const keys = new Set<string>()
   for (const facts of added.values()) for (const key of Object.keys(facts)) keys.add(key)
-  return [...keys].sort().map((key) => ({
-    at: PUT,
-    given: {
-      key,
-      valued: [...added]
-        .filter(([, facts]) => facts[key] !== undefined)
-        .map(([path, facts]) => ({ path, value: JSON.stringify(facts[key]) }))
-        .sort((one, other) => one.path.localeCompare(other.path)),
-      after: PLACED_AFTER,
-    },
-  }))
+  const askings: Asking[] = []
+  for (const key of [...keys].sort()) {
+    const said = (path: string): string | undefined => {
+      const carried = added.get(path)?.[key]
+      const held = carried ?? pages.get(path)?.[key]
+      return held === undefined ? undefined : JSON.stringify(held)
+    }
+    const differs = [...added.keys()].some(
+      (path) => said(path) !== JSON.stringify(pages.get(path)?.[key] ?? null)
+    )
+    if (!differs) continue
+    const stated = [...pages.values()].some((value) => value[key] !== undefined)
+    if (stated) askings.push({ at: TAKE_OFF, given: { pageType: temperSet.slug, key } })
+    const valued = [...pages.keys()]
+      .map((path) => ({ path, value: said(path) }))
+      .filter((one): one is { path: string; value: string } => one.value !== undefined)
+      .filter((one) => stated || added.get(one.path)?.[key] !== undefined)
+      .sort((one, other) => one.path.localeCompare(other.path))
+    askings.push({ at: PUT, given: { key, valued, after: PLACED_AFTER } })
+  }
+  return askings
 }
 
 export function carriedOver(
@@ -252,7 +273,7 @@ export function carriedOver(
     else added.set(page.path, { ...added.get(page.path), ...facts })
   }
   return {
-    askings: askingsFor(added),
+    askings: askingsFor(added, pages),
     faults,
     rowsUnpaged: rowsUnpaged.sort((one, other) => one - other),
   }

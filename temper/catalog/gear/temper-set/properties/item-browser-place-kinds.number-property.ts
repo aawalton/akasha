@@ -12,6 +12,18 @@ export const itemBrowserPlaceKinds = {
       decisionKind: "decision-kind/departure",
       statement: "A kind is the number the item browser's drop filter picks it with, less three.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each kind is the kind of the place at the same position among the sources.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A narrower place written after a colon takes no kind here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A place has one kind, whichever set names it.",
+    },
   ],
   types: "ts",
 } as const satisfies NumberProperty
