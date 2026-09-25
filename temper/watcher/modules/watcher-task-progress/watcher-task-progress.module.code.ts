@@ -23,6 +23,7 @@ export type TaskFacts = {
   readonly scope?: string
   readonly completionCardId?: string
   readonly completionItemPath?: readonly string[]
+  readonly character?: string
 }
 
 const ROTATING_SCOPES: readonly string[] = ["next_character", "all_characters"]
@@ -128,7 +129,7 @@ export function refreshedFor(
 ): Refreshed | null {
   const key = pathKeyFor(task)
   if (key === null) return null
-  const reading = materializeCrossCharacterProgress(index, key)
+  const reading = materializeCrossCharacterProgress(index, key, task.character)
   if (reading === null) return null
   const rows = rowsFrom(task.slug, reading, idsByCharacter(rowsIn(held)), characters, mint)
   if (rows.length === 0) return null

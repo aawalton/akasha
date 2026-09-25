@@ -1,6 +1,7 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { joinPath } from "akasha/code/type/narrowing/modules/join-path/join-path.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.code.ts"
 import type { AccountCheckerInput } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import { COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"
 import {
@@ -20,6 +21,7 @@ export type SlimCrossCharacterProgress = {
   current: number
   total: number
   effectiveCharacterId?: string
+  account?: true
   entries: Record<string, ScalarProgress>
 }
 
@@ -123,6 +125,21 @@ export function buildCrossCharacterCompletionIndex(
     }
   }
 
+  if (roster.length === 0) return { characters, paths }
+
+  for (const cardId of asCardIds(Object.keys(ACCOUNT_COMPLETION_CARD_CHECKERS))) {
+    for (const path of pathsFor(cardId, [], named)) {
+      const progress = resolveTaskProgress(cardId, path, null, account)
+      if (progress === undefined) continue
+      paths[joinPath(cardId, path)] = {
+        current: progress.current,
+        total: progress.total,
+        account: true,
+        entries: {},
+      }
+    }
+  }
+
   return { characters, paths }
 }
 
@@ -138,14 +155,16 @@ function parseSlimProgress(value: unknown): SlimCrossCharacterProgress | null {
     entries[characterId] = { current: raw.current, total: raw.total }
   }
 
+  const account = value.account === true ? { account: true as const } : {}
   return typeof value.effectiveCharacterId === "string"
     ? {
         current: value.current,
         total: value.total,
         effectiveCharacterId: value.effectiveCharacterId,
+        ...account,
         entries,
       }
-    : { current: value.current, total: value.total, entries }
+    : { current: value.current, total: value.total, ...account, entries }
 }
 
 function parseCharacterMeta(value: unknown): { label: string; sortOrder: number } | null {
@@ -154,9 +173,29 @@ function parseCharacterMeta(value: unknown): { label: string; sortOrder: number 
   return { label: value.label, sortOrder: value.sortOrder }
 }
 
+function accountReading(
+  slim: SlimCrossCharacterProgress,
+  characters: Readonly<Record<string, unknown>>,
+  named: string | undefined
+): CrossCharacterReading {
+  const totals = { progressCurrent: slim.current, progressTotal: slim.total }
+  if (named === undefined) return { ...totals, rows: [] }
+  const meta = parseCharacterMeta(characters[named])
+  const row = {
+    characterId: named,
+    progressCurrent: slim.current,
+    progressTotal: slim.total,
+    displayOrder: meta === null ? Number.MAX_SAFE_INTEGER : meta.sortOrder,
+  }
+  return slim.current < slim.total
+    ? { ...totals, effectiveCharacterId: named, rows: [row] }
+    : { ...totals, rows: [row] }
+}
+
 export function materializeCrossCharacterProgress(
   index: unknown,
-  pathKey: string
+  pathKey: string,
+  accountCharacter?: string
 ): CrossCharacterReading | null {
   if (!isRecord(index)) return null
   const { characters, paths } = index
@@ -164,6 +203,7 @@ export function materializeCrossCharacterProgress(
 
   const slim = parseSlimProgress(paths[pathKey])
   if (slim === null) return null
+  if (slim.account === true) return accountReading(slim, characters, accountCharacter)
 
   const labelled: { label: string; row: CrossCharacterRow }[] = []
   for (const [characterId, entry] of Object.entries(slim.entries)) {

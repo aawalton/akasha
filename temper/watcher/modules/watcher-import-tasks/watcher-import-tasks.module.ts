@@ -110,5 +110,9 @@ export const watcherImportTasks = {
       decisionKind: "decision-kind/departure",
       statement: "A recomputation that fails is reported rather than stopping the import.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The recomputation is handed the character a task names, as that page's slug.",
+    },
   ],
 } as const satisfies Module

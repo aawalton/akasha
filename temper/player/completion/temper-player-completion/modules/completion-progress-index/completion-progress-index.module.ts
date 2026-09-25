@@ -34,5 +34,17 @@ export const completionProgressIndex = {
       decisionKind: "decision-kind/absence",
       statement: "A row has no link.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An account card is counted once for the roster and on no character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An account card is read back as one row, on the character the caller names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A roster with no character carries no account card.",
+    },
   ],
 } as const satisfies Module

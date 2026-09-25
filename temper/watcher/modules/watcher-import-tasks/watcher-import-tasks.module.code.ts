@@ -40,9 +40,9 @@ const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 
 export type TaskPage = Row & { id: string; slug: string }
 
-export type AccountAddressOf = (userId: string) => Promise<string>
+type AccountAddressOf = (userId: string) => Promise<string>
 
-export interface ImportTasksSeams {
+interface ImportTasksSeams {
   readonly now?: () => Date
   readonly ask?: typeof askingFor
   readonly addressOf?: AccountAddressOf
@@ -70,7 +70,7 @@ export type CompletionOutcome =
   | { readonly action: "completed"; readonly nextDue: string | null }
   | { readonly action: "skip"; readonly reason: string }
 
-export type ClearOutcome =
+type ClearOutcome =
   | { readonly action: "cleared" }
   | { readonly action: "skip"; readonly reason: string }
 
@@ -221,7 +221,10 @@ async function refreshedOrSaid(
 
 function taskFactsOf(task: TaskPage): TaskFacts {
   const scope = asText(task.scope)
-  const named: TaskFacts = scope === undefined ? { slug: task.slug } : { slug: task.slug, scope }
+  const character = asText(task.character)
+  const scoped: TaskFacts = scope === undefined ? { slug: task.slug } : { slug: task.slug, scope }
+  const named: TaskFacts =
+    character === undefined ? scoped : { ...scoped, character: slugOf(character) }
   const card = cardOf(task)
   if (card === undefined) return named
   const held = task.completionItemPath

@@ -172,6 +172,29 @@ test("a task the index names no character for falls to nobody", () => {
   expect(done?.effectiveCharacter).toBe(null)
 })
 
+const ACCOUNT_INDEX = {
+  characters: INDEX.characters,
+  paths: { "antiquity-lore": { current: 2, total: 4, account: true, entries: {} } },
+}
+
+const LORE = { slug: "antiquity-lore", completionCardId: "antiquity-lore", character: "c1" }
+
+test("an account card's count is written once, on the character the task names", () => {
+  const done = refreshedFor(LORE, ACCOUNT_INDEX, "", KNOWN, () => "minted")
+  const rows = done?.rows ?? []
+  expect(rows.map((one) => one.character)).toEqual(["temper-account-character/c1"])
+  expect(rows.reduce((sum, one) => sum + one.progressCurrent, 0)).toBe(2)
+  expect(rows.reduce((sum, one) => sum + one.progressTotal, 0)).toBe(4)
+  expect(done?.progressCurrent).toBe(2)
+  expect(done?.progressTotal).toBe(4)
+  expect(done?.effectiveCharacter).toBe("c1")
+})
+
+test("an account card on a task naming no character writes nothing", () => {
+  const unnamed = { slug: LORE.slug, completionCardId: LORE.completionCardId }
+  expect(refreshedFor(unnamed, ACCOUNT_INDEX, "", KNOWN)).toBe(null)
+})
+
 test("rows come back in the order the reading gave them", () => {
   const done = refreshedFor(WRITS, INDEX, HELD, KNOWN, () => "minted")
   expect(done?.rows.map((one) => one.character)).toEqual([

@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { erinSolstice } from "akasha/temper/player/character/temper-account-character/pages/erin-solstice/erin-solstice.temper-account-character.ts"
 import { completionCardAddress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-page/completion-card-page.module.test-fixtures.ts"
 import {
   applyCompletion,
@@ -365,6 +366,25 @@ test("the recomputation is handed every task and what it landed is reported", as
     { slug: "one-off-task", completionCardId: "daily-writs" },
   ])
   expect(said[said.length - 1]).toContain("3 progress file(s) landed")
+})
+
+test("a task naming a character hands that character's slug to the recomputation", async () => {
+  const handed: unknown[] = []
+  await runImportTasks(
+    buildLua([]),
+    NO_CLIENT,
+    landing({
+      userId: "u1",
+      ask: asking([{ ...CARD_TASK, character: `temper-account-character/${erinSolstice.slug}` }]),
+      refreshProgress: async (_forUser, tasks) => {
+        handed.push(...tasks)
+        return 0
+      },
+    })
+  )
+  expect(handed).toEqual([
+    { slug: "one-off-task", completionCardId: "daily-writs", character: erinSolstice.slug },
+  ])
 })
 
 test("a task naming no card is handed over with its slug alone", async () => {

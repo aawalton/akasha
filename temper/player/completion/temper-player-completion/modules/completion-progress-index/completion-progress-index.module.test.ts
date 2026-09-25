@@ -130,6 +130,56 @@ describe("buildCrossCharacterCompletionIndex", () => {
   })
 })
 
+const BANKED = {
+  ...EMPTY_ACCOUNT,
+  account: { achievements: {}, bankUpgrade: { current: 3, max: 5 } },
+}
+
+const THREE = [
+  mkRosterEntry("c1", "Alpha", 1, CHAR_EMPTY),
+  mkRosterEntry("c2", "Beta", 2, CHAR_EMPTY),
+  mkRosterEntry("c3", "Gamma", 3, CHAR_EMPTY),
+]
+
+describe("buildCrossCharacterCompletionIndex / account cards", () => {
+  test("an account card is counted once for the whole roster, on no character", () => {
+    expect(buildCrossCharacterCompletionIndex(THREE, BANKED).paths["bank-upgrades"]).toEqual({
+      current: 3,
+      total: 5,
+      account: true,
+      entries: {},
+    })
+  })
+
+  test("an account card the account has not measured is left out", () => {
+    expect(buildCrossCharacterCompletionIndex(THREE, EMPTY_ACCOUNT).paths["bank-upgrades"]).toBe(
+      undefined
+    )
+  })
+
+  test("a roster with no character carries no account card", () => {
+    expect(buildCrossCharacterCompletionIndex([], BANKED).paths["bank-upgrades"]).toBeUndefined()
+  })
+
+  test("an account card reads back as one line on the character a task names", () => {
+    const index = buildCrossCharacterCompletionIndex(THREE, BANKED)
+    const reading = materializeCrossCharacterProgress(index, "bank-upgrades", "c2")
+    expect(reading).toEqual({
+      progressCurrent: 3,
+      progressTotal: 5,
+      effectiveCharacterId: "c2",
+      rows: [{ characterId: "c2", progressCurrent: 3, progressTotal: 5, displayOrder: 2 }],
+    })
+    const summed = (reading?.rows ?? []).reduce((sum, one) => sum + one.progressTotal, 0)
+    expect(summed).toBe(5)
+  })
+
+  test("an account card read for no character carries no line", () => {
+    const index = buildCrossCharacterCompletionIndex(THREE, BANKED)
+    expect(materializeCrossCharacterProgress(index, "bank-upgrades")?.rows).toEqual([])
+  })
+})
+
 describe("materializeCrossCharacterProgress", () => {
   test("reads a built index back as the roster total and its per-character rows", () => {
     const roster = [

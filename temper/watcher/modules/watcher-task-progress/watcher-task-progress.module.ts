@@ -61,6 +61,14 @@ export const watcherTaskProgress = {
       statement: "The lines are ordered as the reading ordered them.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An account card's count is one line, on the character the task names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An account card on a task naming no character writes no line.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads or writes a file.",
     },

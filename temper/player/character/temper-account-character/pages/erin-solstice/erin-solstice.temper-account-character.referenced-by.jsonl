@@ -19,3 +19,4 @@
 {"propertySlug":"effective-character","path":"temper/player/progress/temper-task/pages/lorebooks/lorebooks.temper-task.ts","id":"019e2215-efc0-78bd-8676-b89e52598dd4"}
 {"propertySlug":"effective-character","path":"temper/player/progress/temper-task/pages/manage-guild-sales/manage-guild-sales.temper-task.ts","id":"019db533-f381-758e-8b24-0a120b8857e8"}
 {"propertySlug":"effective-character","path":"temper/player/progress/temper-task/pages/vateshran-hollows-weekly-leaderboard/vateshran-hollows-weekly-leaderboard.temper-task.ts","id":"019db533-f381-7537-ae93-c60ca6656758"}
+{"propertySlug":"import","fileName":"erin-solstice.temper-account-character.ts","path":"temper/watcher/modules/watcher-import-tasks/watcher-import-tasks.module.test.ts","typed":false,"deferred":false}
