@@ -65,10 +65,6 @@ export const subagent = {
       statement: "A subagent's page is there while the subagent runs.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A subagent's page goes when the subagent returns.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
       statement:
         "A page waits on what its subagent left running rather than on that subagent returning.",
@@ -125,10 +121,6 @@ export const subagent = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing tells a subagent its page is back but a call that stops being refused.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A subagent at work with no page is found by nothing.",
     },
     {
       decisionKind: "decision-kind/departure",
