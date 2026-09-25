@@ -102,23 +102,7 @@ export const messageHandler = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A request whose url will not parse throws out of this handler unanswered.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A POST body reaching the queue is a whole buffer rather than a stream.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The pipeline the queue runs is wired by the caller rather than named here.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement: "A 502 answered here names no reason a client could read.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The slot is handed on without the observer inside the slot being ended.",
     },
   ],
 } as const satisfies Module
