@@ -22,6 +22,7 @@ import {
   claimantBelow,
   claimantClosing,
   claimantNamed,
+  foldersClaiming,
   GROUP_MEMBERS,
   GROUP_OWN,
   groupClaiming,
@@ -402,4 +403,16 @@ test("a file closing that way is claimed by no page above the folder holding it"
 
 test("a file closing with an extension no page type declares is claimed by nothing", () => {
   expect(claimantClosing("deep/one.txt")).toBeNull()
+})
+
+test("a folder whose property falls under a build folder property is claimed as built", () => {
+  expect(foldersClaiming({ routeTypes: true })).toEqual([
+    { at: "deep/.react-router", key: "routeTypes", built: true },
+  ])
+})
+
+test("a folder whose property is a plain folder property is claimed as not built", () => {
+  expect(foldersClaiming({ icons: true })).toEqual([
+    { at: "deep/Icons", key: "icons", built: false },
+  ])
 })

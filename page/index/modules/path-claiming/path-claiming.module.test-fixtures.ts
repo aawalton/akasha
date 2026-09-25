@@ -1,3 +1,4 @@
+import { buildFolderProperty } from "akasha/page/build-folder-property/build-folder-property.page-type.ts"
 import { sidecarsIn } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import { GROUPING } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.test-fixtures.ts"
 import type {
@@ -6,8 +7,10 @@ import type {
   FoldersBy,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
+  type ClaimedFolder,
   claimantOf,
   claimsOf,
+  foldersClaimedIn,
   type IsThere,
   type Paging,
 } from "akasha/page/index/modules/path-claiming/path-claiming.module.code.ts"
@@ -65,4 +68,28 @@ const ENDED: ExtensionsBy = new Map([["temper-addon", new Map([["addon-dds-file"
 
 export function claimantClosing(path: string): string | null {
   return claimantOf(paging, path, NO_KINDS, NO_FILED, FOLDERED, ENDED)
+}
+
+const BUILT_KIND = "route-folder-property"
+
+const BUILT_KINDS: ReadonlySet<string> = new Set([buildFolderProperty.slug, BUILT_KIND])
+
+const BOTH: FoldersBy = new Map([
+  [
+    "temper-addon",
+    new Map([
+      ["route-types", { folderName: ".react-router", pageTypeSlug: BUILT_KIND }],
+      ["icons", { folderName: "Icons", pageTypeSlug: "named-folder-property" }],
+    ]),
+  ],
+])
+
+const under = (slug: string): ReadonlySet<string> =>
+  slug === buildFolderProperty.slug ? BUILT_KINDS : new Set([slug])
+
+export function foldersClaiming(
+  stated: Readonly<Record<string, boolean>>
+): readonly ClaimedFolder[] {
+  const value = { id: "1", type: `${pageType.slug}/temper-addon`, slug: "a", ...stated }
+  return foldersClaimedIn(value, `/repo/${ADDON}`, "/repo", BOTH, under)
 }

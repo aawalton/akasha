@@ -1,4 +1,5 @@
 import { dirname, isAbsolute, join, relative } from "node:path"
+import { buildFolderProperty } from "akasha/page/build-folder-property/build-folder-property.page-type.ts"
 import type {
   Beside,
   SidecarsBy,
@@ -96,23 +97,53 @@ export function pathsOf(
 
 const NO_FOLDERS: FoldersBy = new Map()
 
-function foldersClaimedIn(
+type FolderNamed = {
+  readonly at: string
+  readonly key: string
+  readonly pageTypeSlug: string
+}
+
+function foldersNamedIn(
   value: Value,
   path: string,
   repo: string,
   folders: FoldersBy
-): readonly string[] {
+): readonly FolderNamed[] {
   const carried = folders.get(typeIn(value) ?? "")
   if (carried === undefined) return []
   const own = under(repo, path)
-  const found: string[] = []
+  const found: FolderNamed[] = []
   for (const [key, held] of Object.entries(value)) {
     if (held !== true) continue
     const folder = carried.get(inLowerKebabCase(key))
     if (folder === undefined) continue
-    found.push(join(dirname(own), folder.folderName))
+    const at = join(dirname(own), folder.folderName)
+    found.push({ at, key, pageTypeSlug: folder.pageTypeSlug })
   }
   return found
+}
+
+export type ClaimedFolder = {
+  readonly at: string
+  readonly key: string
+  readonly built: boolean
+}
+
+export type KindsUnder = (slug: string) => ReadonlySet<string>
+
+export function foldersClaimedIn(
+  value: Value,
+  path: string,
+  repo: string,
+  folders: FoldersBy,
+  kindsUnder: KindsUnder
+): readonly ClaimedFolder[] {
+  const built = kindsUnder(buildFolderProperty.slug)
+  return foldersNamedIn(value, path, repo, folders).map((one) => ({
+    at: one.at,
+    key: one.key,
+    built: built.has(one.pageTypeSlug),
+  }))
 }
 
 function besidesOf(own: string, slug: string, beside: Beside, there: IsThere): readonly string[] {
@@ -134,7 +165,8 @@ export function claimsOf(
   folders: FoldersBy = NO_FOLDERS
 ): readonly string[] {
   const claimed = filesClaimedIn(value, path, repo, fileProperties, withheld, there)
-  const found = [...claimed.map((one) => one.at), ...foldersClaimedIn(value, path, repo, folders)]
+  const named = foldersNamedIn(value, path, repo, folders)
+  const found = [...claimed.map((one) => one.at), ...named.map((one) => one.at)]
   const own = under(repo, path)
   const pageTypeSlug = typeIn(value) ?? ""
   const carried = fileProperties.get(pageTypeSlug)

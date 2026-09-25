@@ -151,8 +151,9 @@ export const pathClaiming = {
       statement: "A page claims a folder whether or not that folder is there.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A folder a build writes is told apart here from a folder that is not.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A folder is claimed as built where its property's type falls under a build folder property.",
     },
     {
       decisionKind: "decision-kind/departure",
