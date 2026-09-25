@@ -11,6 +11,7 @@ import {
   changedAmong,
   notPutUpAt,
   plannedEvery,
+  restartedAmong,
   sharedUnitsIn,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts"
 import { TELLING_TEMPLATE } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
@@ -172,4 +173,21 @@ test("the teller keeps the bundle its template names where its closure did not c
   const running = bundleHolding(TELLER_STEM, WAS, "one\n")
   const sorted = bundlingAmong(new Map([[TELLER_STEM, CLOSURE]]), STAGED, changing())
   expect([...sorted.kept]).toEqual([[TELLER_STEM, running]])
+})
+
+test("a service bundled again with other bytes is restarted though the deploy named it nowhere", () => {
+  unitNaming("rebuilt-moved", WAS)
+  bundleHolding("rebuilt-moved", WAS, "one\n")
+  const fresh = bundleHolding("rebuilt-moved", NOW, "two\n")
+  const bundles = new Map([["rebuilt-moved", fresh]])
+  const found = restartedAmong(new Set(), new Set(["rebuilt-moved"]), bundles, STAGED)
+  expect([...found]).toEqual(["rebuilt-moved"])
+})
+
+test("a service bundled again with the bytes it runs now is restarted by nothing", () => {
+  unitNaming("rebuilt-same", WAS)
+  bundleHolding("rebuilt-same", WAS, "one\n")
+  const fresh = bundleHolding("rebuilt-same", NOW, "one\n")
+  const bundles = new Map([["rebuilt-same", fresh]])
+  expect([...restartedAmong(new Set(), new Set(["rebuilt-same"]), bundles, STAGED)]).toEqual([])
 })

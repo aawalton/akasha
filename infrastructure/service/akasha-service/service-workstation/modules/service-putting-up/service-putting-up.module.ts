@@ -161,5 +161,10 @@ export const servicePuttingUp = {
       statement:
         "A service whose new bundle holds the bytes of the bundle its unit names is restarted by nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A service bundled again into other bytes is restarted, whether or not the deploy named it.",
+    },
   ],
 } as const satisfies Module

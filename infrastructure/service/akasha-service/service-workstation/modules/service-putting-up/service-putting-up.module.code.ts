@@ -115,6 +115,15 @@ export function changedAmong(
   return found
 }
 
+export function restartedAmong(
+  restarting: ReadonlySet<string>,
+  again: ReadonlySet<string>,
+  bundles: ReadonlyMap<string, string>,
+  home: string
+): ReadonlySet<string> {
+  return changedAmong(new Set([...restarting, ...again]), bundles, home)
+}
+
 export type Since = (was: string) => readonly string[] | null
 
 export type Bundling = {
@@ -153,7 +162,11 @@ export function bundlingAmong(
 }
 
 export type Bundled =
-  | { readonly bundles: ReadonlyMap<string, string>; readonly said: readonly string[] }
+  | {
+      readonly bundles: ReadonlyMap<string, string>
+      readonly again: ReadonlySet<string>
+      readonly said: readonly string[]
+    }
   | Refused
 
 function changedOrNull(root: string, was: string, commit: string): readonly string[] | null {
@@ -210,7 +223,8 @@ async function bundlesBuilt(
     said.push(`kept\t${slug}\t${at}`)
   }
   const wanted = [...sorted.again].filter((slug) => !leftAlone.has(slug))
-  if (wanted.length === 0) return { bundles, said }
+  const again = new Set(wanted)
+  if (wanted.length === 0) return { bundles, again, said }
   const checked = checkedOut(root, commit)
   if ("refused" in checked) return { refused: saidOfUnchecked(commit, checked.refused) }
   for (const slug of wanted) {
@@ -221,7 +235,7 @@ async function bundlesBuilt(
     bundles.set(slug, made.built.at)
     said.push(`bundled\t${slug}\t${made.built.at}`)
   }
-  return { bundles, said }
+  return { bundles, again, said }
 }
 
 export function plannedEvery(
@@ -264,7 +278,7 @@ export async function putUpEvery(
   const built = await bundlesBuilt(root, home, commit, leftAlone)
   if ("refused" in built) return refusedBy([built.refused], OPERATIONAL)
 
-  const changed = changedAmong(restarting, built.bundles, home)
+  const changed = restartedAmong(restarting, built.again, built.bundles, home)
   const planned = plannedEvery(root, changed, codeAt, built.bundles, leftAlone)
   if (!("plan" in planned)) return planned
 
