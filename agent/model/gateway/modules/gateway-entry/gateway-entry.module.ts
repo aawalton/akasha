@@ -83,7 +83,7 @@ export const gatewayEntry = {
       statement: "No transport row is written by the gateway this entry starts.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The port is printed by a call that need not have drained before the exit.",
     },
   ],
