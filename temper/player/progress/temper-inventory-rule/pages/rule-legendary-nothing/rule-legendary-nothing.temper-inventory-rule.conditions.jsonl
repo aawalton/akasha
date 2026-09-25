@@ -1,2 +1,2 @@
 {"id":"01a0963e-d8e4-76cf-994f-ecada460afb3","conditionField":"temper-condition-field/max-quality","conditionValue":"5"}
-{"id":"01a0963e-d8e4-764b-895d-0173c871f406","conditionField":"temper-condition-field/quality-op","conditionValue":">="}
+{"id":"01a0963e-d8e4-764b-895d-0173c871f406","conditionField":"temper-condition-field/quality-op","conditionValue":"temper-comparison-op/at-least"}

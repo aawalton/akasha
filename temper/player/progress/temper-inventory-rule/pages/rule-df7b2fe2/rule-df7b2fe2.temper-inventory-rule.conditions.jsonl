@@ -1,4 +1,4 @@
 {"id":"01a0d495-6f5f-7918-8b47-873e78b92632","conditionField":"temper-condition-field/can-unlock","conditionValue":"cannot-unlock"}
 {"id":"01a0d495-6f5f-7a82-8d20-b4ca15292c20","conditionField":"temper-condition-field/can-list-at-guild-trader","conditionValue":"can-list-at-guild-trader"}
 {"id":"01a0d495-6f5f-74eb-b327-c64258b124ed","conditionField":"temper-condition-field/market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a0d495-6f5f-7c72-87cf-3ca545ef9cc4","conditionField":"temper-condition-field/market-value-op","conditionValue":">="}
+{"id":"01a0d495-6f5f-7c72-87cf-3ca545ef9cc4","conditionField":"temper-condition-field/market-value-op","conditionValue":"temper-comparison-op/at-least"}

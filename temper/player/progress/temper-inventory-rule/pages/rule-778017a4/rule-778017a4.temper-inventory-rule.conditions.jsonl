@@ -1,4 +1,4 @@
 {"id":"01a0d495-6f5f-7168-9726-3b9369121e5e","conditionField":"temper-condition-field/max-quality","conditionValue":"4"}
 {"id":"01a0d495-6f5f-78a5-b9b6-d43b192e4f30","conditionField":"temper-condition-field/can-sell","conditionValue":"can-sell"}
 {"id":"01a0d495-6f5f-7d87-9ee7-65f43870938c","conditionField":"temper-condition-field/market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a0d495-6f5f-74a9-b1c6-06423b7f2204","conditionField":"temper-condition-field/market-value-op","conditionValue":"<"}
+{"id":"01a0d495-6f5f-74a9-b1c6-06423b7f2204","conditionField":"temper-condition-field/market-value-op","conditionValue":"temper-comparison-op/less-than"}
