@@ -31,6 +31,14 @@ export const playerAnswersSeeding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An answer about what the player was doing as the capture ran is not handed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The functions the player's game answered are named in the sandbox.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Answers kept by a capture of no version read here are not read.",
     },
     {

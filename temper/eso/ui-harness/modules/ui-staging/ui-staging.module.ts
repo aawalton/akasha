@@ -146,12 +146,12 @@ export const uiStaging = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Who the player is answers from the seeded files rather than from a character.",
+      statement: "Who the player is answers from what the player's own game answered.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The character the addon reads is the harness rather than a character the player has.",
+        "Where the game answered none, the account is the seeded files' and the character the harness.",
     },
     {
       decisionKind: "decision-kind/constraint",

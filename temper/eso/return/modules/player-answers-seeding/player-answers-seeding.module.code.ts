@@ -80,10 +80,31 @@ function answerLua(one: EngineAnswer): string {
   return typeof one === "string" ? luaStringLiteral(one) : String(one)
 }
 
+const OF_THE_MOMENT: ReadonlySet<string> = new Set([
+  "CanReplayLastInteractVO",
+  "GetInteractionType",
+  "HasActiveEditControl",
+  "IsGameCameraInteractableUnitMonster",
+  "IsGameCameraUIModeActive",
+  "IsInteractVOPlaying",
+  "IsInteracting",
+  "IsInteractingWithMyAssistant",
+  "IsInteractionCameraActive",
+  "IsInteractionUsingInteractCamera",
+  "IsPlayerInteractingWithObject",
+  "IsReticleHidden",
+])
+
+const OPEN_NOW = /^Is[A-Za-z]*Open$/
+
+function ofTheMoment(name: string): boolean {
+  return OF_THE_MOMENT.has(name) || OPEN_NOW.test(name)
+}
+
 function keyLua(key: string, named: Readonly<Record<string, readonly EngineAnswer[]>>): string {
-  const rows = Object.keys(named).map(
-    (name) => `[${luaStringLiteral(name)}]={${(named[name] ?? []).map(answerLua).join(",")}}`
-  )
+  const rows = Object.keys(named)
+    .filter((name) => !ofTheMoment(name))
+    .map((name) => `[${luaStringLiteral(name)}]={${(named[name] ?? []).map(answerLua).join(",")}}`)
   return `[${luaStringLiteral(key)}]={${rows.join(",")}}`
 }
 
@@ -105,7 +126,9 @@ for key, named in pairs(__ui_player_answers_held or {}) do
 end
 __ui_player_answers_held = nil
 local count = 0
+__ui_player_answered = {}
 for name, byKey in pairs(byName) do
+  __ui_player_answered[name] = true
   local was = _G[name]
   _G[name] = function(...)
     local joined, key = pcall(table.concat, { ... }, ",")

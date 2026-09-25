@@ -73,6 +73,13 @@ test("the answers go over in pieces, each set in place only once all have gone o
   expect(chunks[3]).toContain("_G[name] = function(...)")
 })
 
+test("an answer about what the player was doing as the capture ran is not handed over", () => {
+  const held = { "": { GetChatFontSize: [16], IsBankOpen: [true], IsInteracting: [true] } }
+  expect(playerAnswersLua(held, 1)[1]).toBe(
+    '__ui_player_answers({[""]={["GetChatFontSize"]={16}}})'
+  )
+})
+
 const HELD = 'TemperPlayerAnswers_SavedVariables={["Default"]={}}'
 
 test("the answers are taken from between the tables around them", () => {

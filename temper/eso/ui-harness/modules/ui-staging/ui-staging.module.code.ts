@@ -100,13 +100,14 @@ function __ui_account_wide(saved)
 end
 
 function __ui_play_as()
+  local answered = __ui_player_answered or {}
   local found = __ui_accounts()
   local named = found[1] or "@harness"
-  GetDisplayName = function() return named end
-  GetUnitName = function() return "Harness" end
-  GetCurrentCharacterId = function() return "0" end
-  GetWorldName = function() return "Harness" end
-  return named
+  if not answered.GetDisplayName then GetDisplayName = function() return named end end
+  if not answered.GetUnitName then GetUnitName = function() return "Harness" end end
+  if not answered.GetCurrentCharacterId then GetCurrentCharacterId = function() return "0" end end
+  if not answered.GetWorldName then GetWorldName = function() return "Harness" end end
+  return GetDisplayName()
 end
 `
 
