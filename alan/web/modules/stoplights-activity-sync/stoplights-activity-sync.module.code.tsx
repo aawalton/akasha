@@ -32,9 +32,9 @@ export function contentIn(
   if (upkeepRows == null || inboxesRows == null || attributesRows == null) return null
   return contentOf(
     [
-      { rows: upkeepRows, wireKeyName: upkeep.wireKeyName },
-      { rows: inboxesRows, wireKeyName: inboxes.wireKeyName },
-      { rows: attributesRows, wireKeyName: attributes.wireKeyName },
+      { slug: upkeep.slug, rows: upkeepRows, wireKeyName: upkeep.wireKeyName },
+      { slug: inboxes.slug, rows: inboxesRows, wireKeyName: inboxes.wireKeyName },
+      { slug: attributes.slug, rows: attributesRows, wireKeyName: attributes.wireKeyName },
     ],
     takenAt
   )

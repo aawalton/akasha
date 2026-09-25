@@ -4,7 +4,9 @@ import {
   type ActivityRows,
   contentOf,
   readingSaid,
+  stoplightsCounted,
   stoplightsIn,
+  stoplightsOf,
 } from "akasha/alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.code.ts"
 
 test("a row is read under the wire key its own group names", () => {
@@ -84,11 +86,11 @@ function grouped(
   upkeep: ActivityRows,
   inboxes: ActivityRows,
   attributes: ActivityRows
-): readonly [ActivityGroup, ActivityGroup, ActivityGroup] {
+): readonly ActivityGroup[] {
   return [
-    { rows: upkeep, wireKeyName: "habit" },
-    { rows: inboxes, wireKeyName: "inbox" },
-    { rows: attributes, wireKeyName: "attribute" },
+    { slug: "upkeep", rows: upkeep, wireKeyName: "habit" },
+    { slug: "inboxes", rows: inboxes, wireKeyName: "inbox" },
+    { slug: "attributes", rows: attributes, wireKeyName: "attribute" },
   ]
 }
 
@@ -102,11 +104,20 @@ test("each group is read under the wire key name handed in beside it and kept ap
     "2026-09-19T17:00:00Z"
   )
   expect([
-    content.upkeep[0]?.key,
-    content.inboxes[0]?.key,
-    content.attributes[0]?.key,
+    stoplightsOf(content, "upkeep")[0]?.key,
+    stoplightsOf(content, "inboxes")[0]?.key,
+    stoplightsOf(content, "attributes")[0]?.key,
     content.takenAt,
   ]).toEqual(["sleep", "email", "strength", "2026-09-19T17:00:00Z"])
+})
+
+test("each group is carried under the slug its own page has rather than one kept here", () => {
+  const content = contentOf(
+    [{ slug: "a-group-named-only-here", rows: [{ ring: "x", tier: "red" }], wireKeyName: "ring" }],
+    "2026-09-19T17:00:00Z"
+  )
+  expect(Object.keys(content).sort()).toEqual(["a-group-named-only-here", "takenAt"])
+  expect(stoplightsCounted(content)).toBe(1)
 })
 
 test("two readings taken at different moments say the same thing", () => {
@@ -134,12 +145,8 @@ test("a color that moved says something else", () => {
 
 test("a group's rows are read under the name handed in rather than under a name kept here", () => {
   const content = contentOf(
-    [
-      { rows: [{ ring: "sleep", tier: "red" }], wireKeyName: "ring" },
-      { rows: [], wireKeyName: "inbox" },
-      { rows: [], wireKeyName: "attribute" },
-    ],
+    [{ slug: "upkeep", rows: [{ ring: "sleep", tier: "red" }], wireKeyName: "ring" }],
     "2026-09-19T17:00:00Z"
   )
-  expect(content.upkeep[0]?.key).toBe("sleep")
+  expect(stoplightsOf(content, "upkeep")[0]?.key).toBe("sleep")
 })

@@ -10,7 +10,7 @@ export const stoplightsActivityContent = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The three groups are in one order, which the lock screen draws them in.",
+      statement: "Each group is carried under the slug its own page has.",
     },
     {
       decisionKind: "decision-kind/departure",

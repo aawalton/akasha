@@ -18,6 +18,10 @@ export const stoplightsActivityPushing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The groups pushed are the ones whose page names this module.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The pages are reached at the loopback this workstation's own service binds.",
     },
     {

@@ -8,14 +8,20 @@ import {
   onTheWorkstation,
   pruneDeviceToken,
 } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"
-import { servedInGroup } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import { stoplightsActivityPushing } from "akasha/alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.ts"
 import {
-  ACTIVITY_GROUPS,
+  groupsServedBy,
+  servedInGroup,
+} from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import {
   type ActivityGroup,
   contentOf,
   readingSaid,
   type StoplightsContent,
+  stoplightsCounted,
 } from "akasha/alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.code.ts"
+import { module } from "akasha/code/module/module.page-type.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { LIVE_ACTIVITY } from "akasha/person/modules/device-token-registration/device-token-registration.module.code.ts"
 
 const ACTIVITY_LOG = "stoplights-activity:"
@@ -26,19 +32,16 @@ export interface ActivityPushState {
 
 const NO_NAME = ""
 
-async function groupNow(groupSlug: string): Promise<ActivityGroup> {
-  const served = await servedInGroup(groupSlug, undefined, onTheWorkstation)
-  return { rows: served.stoplights, wireKeyName: served.wireKeyName ?? NO_NAME }
+const SERVED_BY = namedAs(module.slug, stoplightsActivityPushing.slug, null)
+
+async function groupNow(slug: string): Promise<ActivityGroup> {
+  const served = await servedInGroup(slug, undefined, onTheWorkstation)
+  return { slug, rows: served.stoplights, wireKeyName: served.wireKeyName ?? NO_NAME }
 }
 
 async function contentNow(takenAt: string): Promise<StoplightsContent> {
-  const [upkeep, inboxes, attributes] = ACTIVITY_GROUPS
-  const groups = await Promise.all([groupNow(upkeep), groupNow(inboxes), groupNow(attributes)])
-  return contentOf(groups, takenAt)
-}
-
-function stoplightsIn(content: StoplightsContent): number {
-  return content.upkeep.length + content.inboxes.length + content.attributes.length
+  const slugs = await groupsServedBy(SERVED_BY, onTheWorkstation)
+  return contentOf(await Promise.all(slugs.map(groupNow)), takenAt)
 }
 
 export function activityPayload(content: StoplightsContent, atSeconds: number): ApnsPayload {
@@ -91,7 +94,7 @@ export async function pushStoplightsActivity(
       } else {
         reached = true
         done.push(
-          `a reading of ${stoplightsIn(content)} stoplights, drawn on a lock screen on ${token.bundleId}`
+          `a reading of ${stoplightsCounted(content)} stoplights, drawn on a lock screen on ${token.bundleId}`
         )
         console.log(`${ACTIVITY_LOG} pushed a reading to ${token.bundleId}`)
       }

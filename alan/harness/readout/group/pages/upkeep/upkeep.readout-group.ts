@@ -7,5 +7,5 @@ export const upkeep = {
   definition: "whether the daily keeping of Alan and his surroundings is holding",
   figureOffScale: true,
   wireKeyName: "habit",
-  servedBy: ["route/habit-stoplights", "route/jenny-upkeep"],
+  servedBy: ["route/habit-stoplights", "route/jenny-upkeep", "module/stoplights-activity-pushing"],
 } as const satisfies ReadoutGroup

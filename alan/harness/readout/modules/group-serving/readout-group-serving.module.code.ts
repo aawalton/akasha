@@ -255,7 +255,10 @@ export async function wordsInGroup(groupSlug: string, fetcher?: Fetcher): Promis
   return words
 }
 
-export async function groupServedBy(servedBy: string, fetcher?: Fetcher): Promise<string | null> {
+export async function groupsServedBy(
+  servedBy: string,
+  fetcher?: Fetcher
+): Promise<readonly string[]> {
   const asked = await askingFor(
     {
       pageTypeSlug: READOUT_GROUP,
@@ -263,8 +266,15 @@ export async function groupServedBy(servedBy: string, fetcher?: Fetcher): Promis
     },
     fetcher
   )
-  if ("refused" in asked) return null
-  return stated(asked.rows[0]?.slug) ?? null
+  if ("refused" in asked) return []
+  return asked.rows.flatMap((row) => {
+    const slug = stated(row.slug)
+    return slug === undefined ? [] : [slug]
+  })
+}
+
+export async function groupServedBy(servedBy: string, fetcher?: Fetcher): Promise<string | null> {
+  return (await groupsServedBy(servedBy, fetcher))[0] ?? null
 }
 
 export async function answerStoplightsAdmittedBy(

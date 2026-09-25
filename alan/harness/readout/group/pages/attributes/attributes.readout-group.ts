@@ -7,5 +7,5 @@ export const attributes = {
   definition: "the attributes Alan's daily upkeep habits earned on a day",
   figureOffScale: true,
   wireKeyName: "attribute",
-  servedBy: ["route/attribute-stoplights"],
+  servedBy: ["route/attribute-stoplights", "module/stoplights-activity-pushing"],
 } as const satisfies ReadoutGroup
