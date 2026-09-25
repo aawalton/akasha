@@ -2,6 +2,10 @@ import { asLsmCastThisVoidAUnknownUnknown } from "akasha/temper/addon/pages/temp
 import { asLsmConstants } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-casts-4/scrollable-menu-casts-4.module.code.ts"
 
 import { lib } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-state/scrollable-menu-state.module.code.ts"
+import {
+  colorOf,
+  fontNameOf,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/scrollable-menu-game-shapes/scrollable-menu-game-shapes.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/scrollable-menu-library-shapes/scrollable-menu-library-shapes.type-declaration.d.ts"
@@ -121,27 +125,22 @@ const DEFAULT_SPACING = 0
 const WITHOUT_ICON_LABEL_DEFAULT_OFFSETX = 4
 
 const FONTS = {
-  DEFAULT_FONT: "ZoFontGame",
-  HeaderFontTitle: "ZoFontHeader3",
-  HeaderFontSubtitle: "ZoFontHeader2",
-  HeaderCollapsedTitle: "ZoFontGamepad18",
+  DEFAULT_FONT: fontNameOf("body"),
+  HeaderFontTitle: fontNameOf("heading"),
+  HeaderFontSubtitle: fontNameOf("muted"),
+  HeaderCollapsedTitle: fontNameOf("label"),
 }
 constants.fonts = FONTS
 
-const [headerR, headerG, headerB, headerA] = GetInterfaceColor(
-  INTERFACE_COLOR_TYPE_TEXT_COLORS,
-  INTERFACE_TEXT_COLOR_SELECTED
-)
-const [normalR, normalG, normalB, normalA] = GetInterfaceColor(
-  INTERFACE_COLOR_TYPE_TEXT_COLORS,
-  INTERFACE_TEXT_COLOR_NORMAL
-)
 const [hiR, hiG, hiB, hiA] = GetInterfaceColor(
   INTERFACE_COLOR_TYPE_TEXT_COLORS,
   INTERFACE_TEXT_COLOR_CONTEXT_HIGHLIGHT
 )
-const HEADER_TEXT_COLOR = ZO_ColorDef.New(headerR, headerG, headerB, headerA)
-const DEFAULT_TEXT_COLOR = ZO_ColorDef.New(normalR, normalG, normalB, normalA)
+const OPAQUE = 1
+const [headerR, headerG, headerB] = colorOf("label")
+const [normalR, normalG, normalB] = colorOf("body")
+const HEADER_TEXT_COLOR = ZO_ColorDef.New(headerR, headerG, headerB, OPAQUE)
+const DEFAULT_TEXT_COLOR = ZO_ColorDef.New(normalR, normalG, normalB, OPAQUE)
 const DEFAULT_TEXT_HIGHLIGHT = ZO_ColorDef.New(hiR, hiG, hiB, hiA)
 const COLORS = {
   HEADER_TEXT_COLOR,

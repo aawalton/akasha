@@ -9,7 +9,11 @@ export const scrollableMenuConstantsCore = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Interface colours are read from the running game at load time.",
+      statement: "The highlight color is read from the running game at load time.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A menu's rows, headers and titles take Temper's type and text colors.",
     },
     {
       decisionKind: "decision-kind/departure",
