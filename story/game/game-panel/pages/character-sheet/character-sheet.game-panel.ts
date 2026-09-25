@@ -47,10 +47,5 @@ export const characterSheet = {
       statement:
         "A part of the sheet already opened says it holds none yet rather than going away.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "An affinity's tier is fused into its name, so no reader can tell a promotion apart.",
-    },
   ],
 } as const satisfies GamePanel
