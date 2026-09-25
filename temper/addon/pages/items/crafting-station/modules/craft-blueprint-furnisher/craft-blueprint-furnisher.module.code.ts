@@ -11,6 +11,10 @@ import {
   toChat,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
+import {
+  colorOf,
+  fontPathOf,
+} from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -60,13 +64,14 @@ export function getBlueprintChild(id: number): CsBlueprintButton {
     )
     created.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 22)
     created.SetDimensions(508, 22)
-    created.SetFont("TemperItemsCraftingFont")
+    created.SetFont(fontPathOf("body"))
     created.SetHidden(true)
     created.EnableMouseButton(1, false)
     created.EnableMouseButton(2, true)
     created.EnableMouseButton(3, true)
     created.SetClickSound("Click")
-    created.SetMouseOverFontColor(1, 0.66, 0.2, 1)
+    const [red, green, blue] = colorOf("body")
+    created.SetMouseOverFontColor(red, green, blue, 1)
     created.SetHorizontalAlignment(0)
     created.SetVerticalAlignment(1)
     created.SetHandler("OnMouseEnter", () => {

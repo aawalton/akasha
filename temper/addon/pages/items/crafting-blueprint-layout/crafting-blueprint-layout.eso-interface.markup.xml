@@ -151,14 +151,14 @@
                   <Dimensions x="235" y="36"/>
                   <Edge edgeSize="1"/>
                 </Backdrop>
-                <Button name="TemperItemsCrafting_BlueprintHideKnownButton" clickSound="Click" verticalAlignment="1" font="TemperItemsCraftingFont">
-                  <FontColors normalColor="E8DFAF"/>
+                <Button name="TemperItemsCrafting_BlueprintHideKnownButton" clickSound="Click" verticalAlignment="1" font="TemperFontBody">
+                  <FontColors normalColor="D7D7D7"/>
                   <Anchor point="LEFT" relativePoint="LEFT" offsetY="-10" relativeTo="$(parent)Toggles"/>
                   <Dimensions y="22" x="235"/>
                   <OnClicked>TemperItemsCrafting.HideKnownBlueprints()</OnClicked>
                 </Button>
-                <Button name="TemperItemsCrafting_BlueprintHideUnknownButton" clickSound="Click" verticalAlignment="1" font="TemperItemsCraftingFont">
-                  <FontColors normalColor="E8DFAF"/>
+                <Button name="TemperItemsCrafting_BlueprintHideUnknownButton" clickSound="Click" verticalAlignment="1" font="TemperFontBody">
+                  <FontColors normalColor="D7D7D7"/>
                   <Anchor point="LEFT" relativePoint="LEFT" offsetY="8" relativeTo="$(parent)Toggles"/>
                   <Dimensions y="22" x="235"/>
                   <OnClicked>TemperItemsCrafting.HideUnknownBlueprints()</OnClicked>
@@ -177,13 +177,13 @@
                 </Control>
               </Controls>
             </Backdrop>
-            <Label name="$(parent)Headline" text="" font="ZoFontGame" color="FFAA33">
+            <Label name="$(parent)Headline" text="" font="TemperFontHeading">
               <Anchor point="2" relativePoint="2" relativeTo="$(parent)TopSection" offsetX="10"/>
             </Label>
-            <Label name="$(parent)Info" text="" font="TemperItemsCraftingFont" color="E8DFAF">
+            <Label name="$(parent)Info" text="" font="TemperFontMuted">
               <Anchor point="2" relativePoint="8" relativeTo="$(parent)Headline" offsetX="10"/>
             </Label>
-            <EditBox name="$(parent)Search" font="ZoFontGame" color="E8DFAF" maxInputCharacters="50" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
+            <EditBox name="$(parent)Search" font="TemperFontBody" color="D7D7D7" maxInputCharacters="50" inherits="ZO_DefaultEditForBackdrop ZO_EditDefaultText">
               <Anchor point="8" relativePoint="8" relativeTo="$(parent)TopSection" offsetX="-10"/>
               <Dimensions x="125" y="24"/>
               <Controls>
