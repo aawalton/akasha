@@ -5,7 +5,7 @@ export const conversationSender = {
   type: "page-type/text-property",
   slug: "conversation-sender",
   propertySlug: "sender",
-  definition: "who sent a message that reached a seat",
+  definition: "the name of someone that sends a message to a seat",
   maxLength: 100,
   nameFormat: null,
   types: "ts",
