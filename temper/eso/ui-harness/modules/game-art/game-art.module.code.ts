@@ -18,9 +18,17 @@ import {
 import { oodleUnpack } from "akasha/temper/eso/ui-harness/modules/oodle-decoding/oodle-decoding.module.code.ts"
 import {
   FACES_UNDER,
+  fontStrings,
   gameFontStrings,
   TEMPER_FACES_UNDER,
 } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
+
+const PATHS_AT = "ingame/globals/paths.xml"
+
+function gamePathStrings(): Readonly<Record<string, string>> {
+  const at = join(esouiSourceDir(), PATHS_AT)
+  return existsSync(at) ? fontStrings([readFileSync(at, "utf8")]) : {}
+}
 
 type ArtAt = (texture: string) => string | null
 
@@ -116,7 +124,9 @@ function addonArt(texture: string): string | null {
 
 export async function gameArt(): Promise<ArtAt> {
   const archive = await opened()
-  return remembered((texture) => {
+  const paths = gamePathStrings()
+  return remembered((said) => {
+    const texture = said.replace(PLACEHOLDER, (whole, key: string) => paths[key] ?? whole)
     const own = addonArt(texture)
     if (own !== null) return own
     if (archive === null) return null

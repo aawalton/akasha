@@ -60,6 +60,10 @@ export const gameArt = {
       statement: "A texture the archive lacks, or that will not convert, answers nothing.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A texture named by placeholder is looked up in the game's own path strings.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No test here reads the game's install.",
     },

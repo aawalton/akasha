@@ -73,7 +73,7 @@ export async function temperPicture(argv: readonly string[], given: Given): Prom
       screen: { left: 0, top: 0, width: scene.width, height: scene.height },
       textureAt: (texture) => {
         const found = art(texture)
-        if (found === null) lacking.add(texture)
+        if (found === null && texture.trim() !== "") lacking.add(texture)
         return found
       },
       fontAt: await gameTypefaces(),
