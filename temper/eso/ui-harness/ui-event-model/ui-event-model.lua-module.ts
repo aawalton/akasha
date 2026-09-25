@@ -30,6 +30,16 @@ export const uiEventModel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A callback that starts waiting during a raise is first reached by the next raise.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Waiting on an event already waited on under the same name takes nothing and answers false.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A callback that throws is run past, and the first throw is raised once all ran.",
     },
     {

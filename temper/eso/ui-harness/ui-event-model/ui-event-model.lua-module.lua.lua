@@ -18,6 +18,9 @@ function EventManager:RegisterForEvent(namespace, event, callback)
     held = {}
     byEvent[event] = held
   end
+  for _, one in ipairs(held) do
+    if one.namespace == namespace then return false end
+  end
   insert(held, { namespace = namespace, callback = callback })
   return true
 end
@@ -88,7 +91,9 @@ function _G.__ui_raise(event, ...)
   if held == nil then return 0 end
   local ran = 0
   local failed = nil
-  for _, one in ipairs(held) do
+  local waiting = {}
+  for at, one in ipairs(held) do waiting[at] = one end
+  for _, one in ipairs(waiting) do
     local ok, thrown = pcall(one.callback, event, ...)
     ran = ran + 1
     if not ok and failed == nil then failed = thrown end
