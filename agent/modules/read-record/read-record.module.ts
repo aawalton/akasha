@@ -4,7 +4,7 @@ export const readRecord = {
   id: "01a04e96-c80a-79ef-819f-a455a96a0e54",
   type: "page-type/module",
   slug: "read-record",
-  definition: "what an agent has read, kept beside that agent's page and answered in a file read",
+  definition: "how code keeps the paths an agent reads",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
