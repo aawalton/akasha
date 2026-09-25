@@ -22,5 +22,10 @@ export const scrollableMenuControls = {
       statement:
         "Dividers and header rules are 1px lines in the fourth surface's gray, not game art.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The submenu arrow, the filter's reset, the header's collapse and the sort buttons are lucide icons.",
+    },
   ],
 } as const satisfies EsoInterface

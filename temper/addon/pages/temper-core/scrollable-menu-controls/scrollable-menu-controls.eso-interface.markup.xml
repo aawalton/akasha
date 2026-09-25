@@ -292,9 +292,8 @@
 					<Anchor point="TOPLEFT" relativeTo="$(parent)IconContainer" relativePoint="TOPRIGHT" offsetX="1" />
 					<Anchor point="RIGHT" offsetX="-25" />
 				</Label>
-				<Texture name="$(parent)Arrow" textureFile="EsoUI/Art/Miscellaneous/colorPicker_slider_vertical.dds">
-					<TextureCoords left="0" right="0.5" top="0" bottom="1"/>
-					<Dimensions x="16"  y="20"/>
+				<Texture name="$(parent)Arrow" textureFile="Temper/bin/textures/chevron-right.dds">
+					<Dimensions x="16"  y="16"/>
 					<Anchor point="LEFT" relativeTo="$(parent)Label" relativePoint="RIGHT" offsetY="1"/>
 				</Texture>
 			</Controls>
@@ -520,9 +519,9 @@
 									<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="2" offsetY="4" />
 
 									<Textures
-											normal="esoui/art/buttons/scrollbox_uparrow_up.dds"
-											pressed="esoui/art/buttons/scrollbox_uparrow_down.dds"
-											mouseOver="esoui/art/buttons/scrollbox_uparrow_over.dds"
+											normal="Temper/bin/textures/arrow-up.dds"
+											pressed="Temper/bin/textures/arrow-up.dds"
+											mouseOver="Temper/bin/textures/arrow-up.dds"
 									/>
 
 									<OnMouseEnter>
@@ -542,9 +541,9 @@
 									<Anchor point="BOTTOMLEFT" relativeTo="$(parent)" relativePoint="BOTTOMLEFT" offsetX="2" offsetY="-4" />
 
 									<Textures
-											normal="esoui/art/buttons/scrollbox_downarrow_up.dds"
-											pressed="esoui/art/buttons/scrollbox_downarrow_down.dds"
-											mouseOver="esoui/art/buttons/scrollbox_downarrow_over.dds"
+											normal="Temper/bin/textures/arrow-down.dds"
+											pressed="Temper/bin/textures/arrow-down.dds"
+											mouseOver="Temper/bin/textures/arrow-down.dds"
 									/>
 
 									<OnMouseEnter>
@@ -567,13 +566,13 @@
 							<Dimensions y="37"/>
 							<Controls>
 								<Button name="$(parent)Reset" excludeFromResizeToFitExtents="true" inherits="ZO_ButtonBehaviorClickSound">
-									<Dimensions x="32" y="32" />
-									<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="-5" offsetY="0" />
+									<Dimensions x="16" y="16" />
+									<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="4" offsetY="8" />
 
 									<Textures
-										normal="EsoUI/Art/Help/help_tabIcon_feedback_up.dds"
-										pressed="EsoUI/Art/Help/help_tabIcon_feedback_down.dds"
-										mouseOver="EsoUI/Art/Help/help_tabIcon_feedback_over.dds"
+										normal="Temper/bin/textures/rotate-ccw.dds"
+										pressed="Temper/bin/textures/rotate-ccw.dds"
+										mouseOver="Temper/bin/textures/rotate-ccw.dds"
 									/>
 
 									<OnMouseEnter>
@@ -600,7 +599,7 @@
 									</OnInitialized>
 					
 									<Dimensions y="32"/>
-									<Anchor point="TOPLEFT" relativeTo="$(parent)Reset" relativePoint="TOPRIGHT" offsetX="ZO_SCROLLABLE_COMBO_BOX_LIST_PADDING_Y"/>
+									<Anchor point="TOPLEFT" relativeTo="$(parent)Reset" relativePoint="TOPRIGHT" offsetX="8" offsetY="-8"/>
 									<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)" relativePoint="BOTTOMRIGHT" offsetX="-ZO_SCROLLABLE_COMBO_BOX_LIST_PADDING_Y" offsetY="-ZO_SCROLLABLE_COMBO_BOX_LIST_PADDING_Y"/>
 									
 									<Controls>
@@ -670,13 +669,13 @@
 							</OnInitialized>
 
 							<Textures
-								normal="EsoUI/Art/Buttons/large_uparrow_up.dds"
-								mouseOver="EsoUI/Art/Buttons/large_uparrow_over.dds"
-								disabled="EsoUI/Art/Buttons/large_uparrow_disabled.dds"
+								normal="Temper/bin/textures/chevron-up.dds"
+								mouseOver="Temper/bin/textures/chevron-up.dds"
+								disabled="Temper/bin/textures/chevron-up.dds"
 
-								pressed="EsoUI/Art/Buttons/large_downarrow_up.dds"
-								pressedMouseOver="EsoUI/Art/Buttons/large_downarrow_over.dds"
-								disabledPressed="EsoUI/Art/Buttons/large_downarrow_disabled.dds"
+								pressed="Temper/bin/textures/chevron-down.dds"
+								pressedMouseOver="Temper/bin/textures/chevron-down.dds"
+								disabledPressed="Temper/bin/textures/chevron-down.dds"
 							/>
 
 							<OnMouseEnter>
