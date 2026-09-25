@@ -5,3 +5,4 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-dd546170/rule-dd546170.temper-inventory-rule.ts","id":"01a0728b-2e7c-7157-b63e-c4943089e6b1"}
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-worthless-destroy/rule-worthless-destroy.temper-inventory-rule.ts","id":"01a0728b-8ec3-7fdb-ad57-ed1a0510afb2"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/worthless-destroy/worthless-destroy.temper-rule-template.ts","id":"019e3104-262e-7641-92a5-c6fd26067689"}
+{"propertySlug":"import","fileName":"destroy.temper-item-action.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts","typed":false,"deferred":false}

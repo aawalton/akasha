@@ -6,6 +6,7 @@ export const temperItemAction = {
   slug: "temper-item-action",
   definition: "a thing an item rule does to an item the rule matches",
   extends: ["page-type/temper-progress-thing"],
+  parts: ["module/item-action-pages"],
   properties: [{ pageProperty: "text-property/description", required: true, many: false }],
   decisions: [
     {

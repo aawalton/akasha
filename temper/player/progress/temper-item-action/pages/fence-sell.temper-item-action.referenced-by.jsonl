@@ -1,2 +1,3 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-treasures-stolen-fence/rule-treasures-stolen-fence.temper-inventory-rule.ts","id":"01a0728b-8ec1-7536-8fc5-234be5e73ba0"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/treasures-stolen-fence/treasures-stolen-fence.temper-rule-template.ts","id":"019e3104-2626-7e2a-8df5-d83385768ba5"}
+{"propertySlug":"import","fileName":"fence-sell.temper-item-action.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts","typed":false,"deferred":false}

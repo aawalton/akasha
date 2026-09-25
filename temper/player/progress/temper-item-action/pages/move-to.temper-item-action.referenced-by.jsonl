@@ -40,3 +40,4 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/treasure-maps-bank/treasure-maps-bank.temper-rule-template.ts","id":"019e3104-2618-7f6b-9442-fb9a11ef7939"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/treasures-epic-bank/treasures-epic-bank.temper-rule-template.ts","id":"019e3104-2620-7fe8-87df-816b5a447437"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/trophies-bank/trophies-bank.temper-rule-template.ts","id":"019e3104-2621-7ca2-8422-38d1ebaf66d8"}
+{"propertySlug":"import","fileName":"move-to.temper-item-action.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts","typed":false,"deferred":false}

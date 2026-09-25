@@ -1,2 +1,3 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-research-by-priority/rule-research-by-priority.temper-inventory-rule.ts","id":"01a0728b-6d6e-7d08-943c-060decea6265"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/research-by-priority/research-by-priority.temper-rule-template.ts","id":"019e3104-2612-7978-b397-84d0e1644a40"}
+{"propertySlug":"import","fileName":"research.temper-item-action.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts","typed":false,"deferred":false}

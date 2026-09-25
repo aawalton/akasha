@@ -9,7 +9,7 @@ export const inventoryRuleTypes = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An action a rule may give an item is named once here.",
+      statement: "The actions a rule may give an item are the slugs of the item action pages.",
     },
     {
       decisionKind: "decision-kind/departure",

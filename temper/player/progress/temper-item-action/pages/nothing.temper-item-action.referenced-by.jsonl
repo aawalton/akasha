@@ -15,3 +15,4 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/reconstructed-nothing/reconstructed-nothing.temper-rule-template.ts","id":"019e3104-260d-7216-94db-9f9abfd643f3"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/transmuted-nothing/transmuted-nothing.temper-rule-template.ts","id":"019e3104-260e-71a0-aa4a-5d2e9e076fca"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/valuable-nothing/valuable-nothing.temper-rule-template.ts","id":"019e3104-2611-7048-800c-d9e518987d2d"}
+{"propertySlug":"import","fileName":"nothing.temper-item-action.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts","typed":false,"deferred":false}

@@ -6070,6 +6070,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-prune-characters/completion-prune-characters.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/character-skill-morph-transform/character-skill-morph-transform.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.ts","typed":true,"deferred":false}

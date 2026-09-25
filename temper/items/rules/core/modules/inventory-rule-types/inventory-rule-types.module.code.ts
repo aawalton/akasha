@@ -5,6 +5,7 @@ import type { ComparisonOpId } from "akasha/temper/items/rules/core/modules/comp
 import type { RequiredCurseStateCondition } from "akasha/temper/items/rules/core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import type { RequiredSkillLinesCondition } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import type { RuleConstantKey } from "akasha/temper/items/rules/core/modules/rule-constants/rule-constants.module.code.ts"
+import { ITEM_ACTION_PAGES } from "akasha/temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts"
 
 const BANKABLE_CURRENCY_KEYS = ["gold", "alliancePoints", "telvarStones", "writVouchers"] as const
 type BankableCurrencyKey = (typeof BANKABLE_CURRENCY_KEYS)[number]
@@ -50,28 +51,9 @@ export type DestinationCategory =
   | "guild-bank"
   | "housing-storage"
 
-export const ITEM_ACTION_VALUES = [
-  "nothing",
-  "lock",
-  "unlock",
-  "move-to",
-  "stock",
-  "character-equip",
-  "companion-equip",
-  "deconstruct",
-  "refine",
-  "destroy",
-  "fence-launder",
-  "fence-sell",
-  "list",
-  "mail",
-  "research",
-  "sell",
-  "use",
-  "open",
-] as const
+export type ItemAction = (typeof ITEM_ACTION_PAGES)[number]["slug"]
 
-export type ItemAction = (typeof ITEM_ACTION_VALUES)[number]
+export const ITEM_ACTION_VALUES: readonly ItemAction[] = ITEM_ACTION_PAGES.map((one) => one.slug)
 
 export function isMoveLikeAction(action: ItemAction): boolean {
   return (

@@ -4,3 +4,4 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/equipment-deconstruct/equipment-deconstruct.temper-rule-template.ts","id":"019e3104-261c-7239-bced-7a7c2ac03bce"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/glyphs-deconstruct/glyphs-deconstruct.temper-rule-template.ts","id":"019e3104-261c-7f8f-9381-55d36b62a9c8"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/inspire-current/inspire-current.temper-rule-template.ts","id":"019e3104-2614-7fae-9ee7-2ef21026f460"}
+{"propertySlug":"import","fileName":"deconstruct.temper-item-action.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts","typed":false,"deferred":false}

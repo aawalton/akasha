@@ -1,2 +1,3 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-inventory-rule/pages/rule-containers-open/rule-containers-open.temper-inventory-rule.ts","id":"01a0728b-10d1-7698-84e8-76571fa43054"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/containers-open/containers-open.temper-rule-template.ts","id":"019e3104-2608-73dd-9d1c-a7890d444f99"}
+{"propertySlug":"import","fileName":"open.temper-item-action.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts","typed":false,"deferred":false}

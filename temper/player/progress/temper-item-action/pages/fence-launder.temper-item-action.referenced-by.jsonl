@@ -14,3 +14,4 @@
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/tasks-stolen/tasks-stolen.temper-rule-template.ts","id":"019e3104-2615-7cda-ba54-233e6c758ff2"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/treasures-epic-stolen/treasures-epic-stolen.temper-rule-template.ts","id":"019e3104-261f-7668-98d5-65fc2dc8d58a"}
 {"propertySlug":"action","path":"temper/player/progress/temper-rule-template/pages/unlock-stolen/unlock-stolen.temper-rule-template.ts","id":"019e3104-260f-720f-a4f3-f1fd9c5c717e"}
+{"propertySlug":"import","fileName":"fence-launder.temper-item-action.ts","path":"temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts","typed":false,"deferred":false}
