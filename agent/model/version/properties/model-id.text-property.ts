@@ -5,7 +5,7 @@ export const modelId = {
   type: "page-type/text-property",
   slug: "model-id",
   propertySlug: "model-id",
-  definition: "the id Claude Code states for the model it runs",
+  definition: "the id a program uses for a model version",
   maxLength: 100,
   nameFormat: null,
   decisions: [
