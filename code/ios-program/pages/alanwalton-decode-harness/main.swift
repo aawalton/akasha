@@ -10,63 +10,7 @@ func check(_ name: String, _ passed: Bool, _ detail: String) {
     if !passed { failures += 1 }
 }
 
-func decodeUsage(_ json: String) throws -> ClaudeUsage {
-    try JSONDecoder().decode(ClaudeUsage.self, from: Data(json.utf8))
-}
-
-func threw(_ json: String) -> Bool {
-    do {
-        _ = try decodeUsage(json)
-        return false
-    } catch {
-        return true
-    }
-}
-
-let oldShape = #"{"avgUsedPct":54,"nextResetHours":94,"tier":"blue"}"#
-check("a body of the old shape is rejected", threw(oldShape), "the cached pre-change body")
-
-let newShape = #"""
-{"avgUsedPct":54,"fiveHourBackAt":null,"sevenDayBackAt":1754236799832,"sevenDayEndsAt":1754496000655,"tier":"blue"}
-"""#
-do {
-    let usage = try decodeUsage(newShape)
-    let ok =
-        usage.avgUsedPct == 54
-        && usage.fiveHourBackAt == nil
-        && usage.sevenDayBackAt == 1_754_236_799_832
-        && usage.sevenDayEndsAt == 1_754_496_000_655
-        && usage.tier == .blue
-    check("a well-formed body decodes to its values", ok, "\(usage)")
-} catch {
-    check("a well-formed body decodes to its values", false, "threw: \(error)")
-}
-
-let badType = #"""
-{"avgUsedPct":"fifty-four","fiveHourBackAt":null,"sevenDayBackAt":null,"sevenDayEndsAt":null,"tier":"blue"}
-"""#
-check("a non-integer avgUsedPct is rejected", threw(badType), "threw before this change too")
-
-let reference = Date(timeIntervalSince1970: 1_785_000_000)
-func countdown(secondsFromNow: Double) -> String {
-    let instant = Int((reference.timeIntervalSince1970 + secondsFromNow) * 1000)
-    return ClaudeUsage.countdown(to: instant, from: reference)
-}
-
-let spellings: [(String, String, String)] = [
-    ("a null row reads none", ClaudeUsage.countdown(to: nil, from: reference), "none"),
-    ("an instant already passed reads none", countdown(secondsFromNow: -1), "none"),
-    ("an instant exactly now reads none", countdown(secondsFromNow: 0), "none"),
-    ("26 hours reads 26h", countdown(secondsFromNow: 26 * 3600), "26h"),
-    ("one hour exactly reads 1h", countdown(secondsFromNow: 3600), "1h"),
-    ("just under an hour falls to minutes", countdown(secondsFromNow: 3599), "59m"),
-    ("47 minutes reads 47m", countdown(secondsFromNow: 47 * 60), "47m"),
-    ("just under a minute floors UP to 1m", countdown(secondsFromNow: 59), "1m"),
-    ("one second still reads 1m", countdown(secondsFromNow: 1), "1m"),
-]
-for (name, got, want) in spellings {
-    check(name, got == want, "got \(got), want \(want)")
-}
+for (name, held, saw) in ClaudeUsageChecks.run() { check(name, held, saw) }
 
 private func acceptInt(_ body: Data) -> Int? {
     Int(String(data: body, encoding: .utf8) ?? "")

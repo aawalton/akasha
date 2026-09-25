@@ -46,6 +46,7 @@ export const iosComponent = {
     "ios-component/widget-tap-link",
     "ios-component/alanwalton-categorize-checks",
     "ios-component/alanwalton-feed-key-checks",
+    "ios-component/alanwalton-claude-usage-checks",
   ],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "code-file-property/swift", required: true, many: false }],

@@ -51,12 +51,14 @@ private struct ClaudeUsageRows: View {
         }
     }
 
+    // A TILE HOLDING NO BODY HAS NO READOUT'S WORDS, SO ITS ROWS DRAW NOTHING.
     private func row(_ wireKey: String, _ instant: Int?) -> some View {
-        GridRow {
-            Text(usage?.readouts[wireKey]?.label ?? "")
+        let words = usage?.readouts[wireKey]
+        return GridRow {
+            Text(words?.label ?? "")
                 .font(.system(size: 13, weight: .medium))
                 .foregroundStyle(Color(.secondaryLabel))
-            Text(usage == nil ? "—" : ClaudeUsage.countdown(to: instant))
+            Text(usage == nil ? "" : ClaudeUsage.countdown(to: instant, in: words))
                 .font(.system(size: 15, weight: .semibold, design: .rounded))
                 .foregroundStyle(Color(.label))
                 .lineLimit(1)

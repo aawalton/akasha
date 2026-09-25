@@ -101,9 +101,10 @@ func cases(now: Date) -> [RenderCase] {
         """
         {"avgUsedPct":76,"fiveHourBackAt":\(fiveHourBackAt),\
         "sevenDayBackAt":\(heldSevenDayBack),"sevenDayEndsAt":\(heldSevenDayEnds),"tier":"yellow",\
-        "readouts":{"five-hour-back":{"label":"5h back","unit":"hours"},\
-        "weekly-back":{"label":"7d back","unit":"hours"},\
-        "weekly-ends":{"label":"7d ends","unit":"hours"},\
+        "readouts":{\
+        "five-hour-back":{"label":"5h back","unit":"h","noneLeftWords":"none","minuteUnit":"m"},\
+        "weekly-back":{"label":"7d back","unit":"h","noneLeftWords":"none","minuteUnit":"m"},\
+        "weekly-ends":{"label":"7d ends","unit":"h","noneLeftWords":"none","minuteUnit":"m"},\
         "weekly-usage":{"label":"Weekly Usage","unit":"%"}}}
         """
     }

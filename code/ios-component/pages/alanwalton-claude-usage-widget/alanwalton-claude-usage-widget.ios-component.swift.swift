@@ -15,9 +15,12 @@ enum ClaudeUsageFeed: WidgetFeed {
             tier: .yellow,
             readouts: [
                 ClaudeUsage.WEEKLY_USAGE: ReadoutWords(label: "Weekly Usage", unit: "%"),
-                ClaudeUsage.FIVE_HOUR_BACK: ReadoutWords(label: "5h back", unit: "hours"),
-                ClaudeUsage.WEEKLY_BACK: ReadoutWords(label: "7d back", unit: "hours"),
-                ClaudeUsage.WEEKLY_ENDS: ReadoutWords(label: "7d ends", unit: "hours"),
+                ClaudeUsage.FIVE_HOUR_BACK: ReadoutWords(
+                    label: "5h back", unit: "h", noneLeftWords: "none", minuteUnit: "m"),
+                ClaudeUsage.WEEKLY_BACK: ReadoutWords(
+                    label: "7d back", unit: "h", noneLeftWords: "none", minuteUnit: "m"),
+                ClaudeUsage.WEEKLY_ENDS: ReadoutWords(
+                    label: "7d ends", unit: "h", noneLeftWords: "none", minuteUnit: "m"),
             ]
         )
     }

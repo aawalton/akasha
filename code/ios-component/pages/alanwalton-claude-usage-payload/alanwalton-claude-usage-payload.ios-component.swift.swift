@@ -1,9 +1,14 @@
 import Foundation
 
 // THE WORDS A READOUT'S PAGE STATES, SENT UNDER THAT READOUT'S WIRE KEY.
+//
+// A countdown draws its hours followed by `unit`, its minutes followed by `minuteUnit`, and
+// `noneLeftWords` where no window is ahead.
 struct ReadoutWords: Decodable, Equatable {
     let label: String?
     let unit: String?
+    var noneLeftWords: String? = nil
+    var minuteUnit: String? = nil
 }
 
 struct ClaudeUsage {
@@ -43,13 +48,19 @@ extension ClaudeUsage {
     static let WEEKLY_ENDS = "weekly-ends"
 }
 
+// A COUNTDOWN DRAWS ONLY THE WORDS ITS READOUT'S PAGE STATES.
+//
+// A readout sent no words has its count drawn bare, and nothing drawn where none is left.
 extension ClaudeUsage {
-    static func countdown(to instant: Int?, from now: Date = Date()) -> String {
-        guard let instant else { return "none" }
+    static func countdown(to instant: Int?, from now: Date = Date(), in words: ReadoutWords?)
+        -> String
+    {
+        let noneLeft = words?.noneLeftWords ?? ""
+        guard let instant else { return noneLeft }
         let remaining = Double(instant) / 1000 - now.timeIntervalSince1970
-        guard remaining > 0 else { return "none" }
+        guard remaining > 0 else { return noneLeft }
         let hours = Int(remaining / 3600)
-        if hours >= 1 { return "\(hours)h" }
-        return "\(max(1, Int(remaining / 60)))m"
+        if hours >= 1 { return "\(hours)\(words?.unit ?? "")" }
+        return "\(max(1, Int(remaining / 60)))\(words?.minuteUnit ?? "")"
     }
 }

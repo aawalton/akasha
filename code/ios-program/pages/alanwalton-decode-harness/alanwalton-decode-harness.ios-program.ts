@@ -36,5 +36,6 @@ export const alanwaltonDecodeHarness = {
     "ios-component/widget-tap-link",
     "ios-component/alanwalton-categorize-checks",
     "ios-component/alanwalton-feed-key-checks",
+    "ios-component/alanwalton-claude-usage-checks",
   ],
 } as const satisfies IosProgram

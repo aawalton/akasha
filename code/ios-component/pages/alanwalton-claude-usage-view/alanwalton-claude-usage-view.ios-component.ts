@@ -15,5 +15,13 @@ export const alanwaltonClaudeUsageView = {
       decisionKind: "decision-kind/departure",
       statement: "A figure sent with no words is drawn with none.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A countdown's units and none-left words are the ones the feed sends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A countdown row draws nothing while the tile holds no body.",
+    },
   ],
 } as const satisfies IosComponent
