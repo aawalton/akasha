@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import { emptySkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
-import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import {
+  type CharacterCompletion,
+  characterCompletionSchema,
+} from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import {
   bodyOfRows,
   unpagedWhy,
@@ -135,19 +138,32 @@ function progressRun(completion: string | null): {
 }
 
 test("a completion file holding no JSON object refuses and names the file", () => {
-  expect(() => completionIn(CHARACTER_COMPLETION, "{ not json")).toThrow(
+  expect(() => completionIn(CHARACTER_COMPLETION, "{ not json", characterCompletionSchema)).toThrow(
     unreadCompletionWhy(CHARACTER_COMPLETION)
   )
-  expect(() => completionIn(CHARACTER_COMPLETION, "[1,2]")).toThrow(
+  expect(() => completionIn(CHARACTER_COMPLETION, "[1,2]", characterCompletionSchema)).toThrow(
     unreadCompletionWhy(CHARACTER_COMPLETION)
   )
 })
 
+test("a completion file the completion record does not describe refuses and names the file", () => {
+  expect(() =>
+    completionIn(CHARACTER_COMPLETION, '{"level":"fifty"}', characterCompletionSchema)
+  ).toThrow(unreadCompletionWhy(CHARACTER_COMPLETION))
+  expect(() =>
+    completionIn(CHARACTER_COMPLETION, '{"questsDone":3}', characterCompletionSchema)
+  ).toThrow(unreadCompletionWhy(CHARACTER_COMPLETION))
+})
+
 test("a character with no completion file beside it counts as having no completion", () => {
-  expect(completionIn<Record<string, number>>(CHARACTER_COMPLETION, null)).toBe(null)
-  expect(completionIn<Record<string, number>>(CHARACTER_COMPLETION, "")).toBe(null)
-  const read = completionIn<Record<string, number>>(CHARACTER_COMPLETION, '{"questsDone":3}')
-  expect(read).toEqual({ questsDone: 3 })
+  expect(completionIn(CHARACTER_COMPLETION, null, characterCompletionSchema)).toBe(null)
+  expect(completionIn(CHARACTER_COMPLETION, "", characterCompletionSchema)).toBe(null)
+  const read = completionIn(
+    CHARACTER_COMPLETION,
+    '{"level":50,"quests":{"1":7,"2":9}}',
+    characterCompletionSchema
+  )
+  expect(read).toEqual({ level: 50, quests: [7, 9] })
 })
 
 test("a run that refuses leaves every progress file as it was", async () => {

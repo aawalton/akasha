@@ -38,7 +38,8 @@ export const watcherTaskProgressLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A completion file holding no JSON object refuses the recomputation.",
+      statement:
+        "A completion file the completion record's schema refuses refuses the recomputation.",
     },
     {
       decisionKind: "decision-kind/departure",

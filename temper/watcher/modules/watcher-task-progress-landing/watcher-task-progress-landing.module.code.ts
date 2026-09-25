@@ -5,9 +5,10 @@ import {
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import type { Row } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { askingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
-import type {
-  AccountCompletion,
-  CharacterCompletion,
+import {
+  accountCompletionSchema,
+  type CharacterCompletion,
+  characterCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { applyCompletionOverrides } from "akasha/temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
 import { isUnmeasuredCard } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"
@@ -41,11 +42,9 @@ import {
   rotatesOverCharacters,
   type TaskFacts,
 } from "akasha/temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts"
-import { z } from "zod"
+import type { z } from "zod"
 
 const CHARACTER_TYPE = "temper-account-character"
-
-const COMPLETION_BODY = z.record(z.string(), z.unknown())
 
 const ACCOUNT_TYPE = "temper-account"
 
@@ -90,14 +89,13 @@ function readyFor(deps: ProgressDeps = {}): ProgressReady {
 }
 
 export function unreadCompletionWhy(path: string): string {
-  return `the completion file at ${path} holds no JSON object, so the character it belongs to would drop out of the progress rows this run commits`
+  return `the completion file at ${path} holds no completion, so the character it belongs to would drop out of the progress rows this run commits`
 }
 
-export function completionIn<T>(path: string, text: string | null): T | null {
+export function completionIn<T>(path: string, text: string | null, shape: z.ZodType<T>): T | null {
   if (text === null || text.trim() === "") return null
   try {
-    const completion: unknown = COMPLETION_BODY.parse(JSON.parse(text))
-    return completion as T
+    return shape.parse(JSON.parse(text))
   } catch {
     throw new Error(unreadCompletionWhy(path))
   }
@@ -163,7 +161,8 @@ async function askedRows(ready: ProgressReady, pageTypeSlug: string, accountPage
 async function heldBeside<T>(
   ready: ProgressReady,
   pageTypeSlug: string,
-  slugs: readonly string[]
+  slugs: readonly string[],
+  shape: z.ZodType<T>
 ): Promise<ReadonlyMap<string, T | null>> {
   const held = new Map<string, T | null>()
   if (slugs.length === 0) return held
@@ -177,7 +176,7 @@ async function heldBeside<T>(
   const found = await ready.files([...beside.values()])
   if (!found.ok) throw new Error(`the ${pageTypeSlug} completion went unread — ${found.why}`)
   for (const [slug, path] of beside) {
-    held.set(slug, completionIn<T>(path, contentIn(found.bodies, path)))
+    held.set(slug, completionIn(path, contentIn(found.bodies, path), shape))
   }
   return held
 }
@@ -238,11 +237,11 @@ async function catalogsFor(ready: ProgressReady): Promise<CompletionCatalogs> {
 async function indexFor(ready: ProgressReady, accountPage: string, named: readonly NamedPath[]) {
   const characters = await askedRows(ready, CHARACTER_TYPE, accountPage)
   const slugs = characters.map((row) => textOf(row, "slug")).filter((one) => one !== "")
-  const completions = await heldBeside<CharacterCompletion>(ready, CHARACTER_TYPE, slugs)
+  const completions = await heldBeside(ready, CHARACTER_TYPE, slugs, characterCompletionSchema)
   const floors = await floorsBySlug(ready, accountPage)
   const accounts = await askedRows(ready, ACCOUNT_TYPE, accountPage)
   const accountSlugs = accounts.map((row) => textOf(row, "slug")).filter((one) => one !== "")
-  const held = await heldBeside<AccountCompletion>(ready, ACCOUNT_TYPE, accountSlugs)
+  const held = await heldBeside(ready, ACCOUNT_TYPE, accountSlugs, accountCompletionSchema)
   const account = accountSlugs[0] === undefined ? null : (held.get(accountSlugs[0]) ?? null)
   const lifted = overridden(completions, floors)
   const index = buildCrossCharacterCompletionIndex(
