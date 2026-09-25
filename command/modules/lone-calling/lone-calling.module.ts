@@ -63,10 +63,7 @@ export const loneCalling = {
       statement:
         "Standard input is not judged, and a pipe into a call is refused as part of the command.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A shell built to look like an agent's own shell is told apart from that shell.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads or writes a page.",
