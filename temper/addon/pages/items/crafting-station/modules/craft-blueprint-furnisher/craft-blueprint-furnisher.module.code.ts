@@ -15,6 +15,7 @@ import {
   colorOf,
   fontPathOf,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -26,6 +27,14 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const WM = WINDOW_MANAGER
 
 const BLUEPRINT_LIMIT = 500
+
+const ROW_HEIGHT = 22
+
+const LIST_INSET = spaceOf("1")
+
+function listHeight(rows: number): number {
+  return rows * ROW_HEIGHT + LIST_INSET * 2
+}
 
 export interface CsBlueprintButtonData {
   link: string
@@ -62,8 +71,8 @@ export function getBlueprintChild(id: number): CsBlueprintButton {
         CT_BUTTON
       )
     )
-    created.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 22)
-    created.SetDimensions(508, 22)
+    created.SetAnchor(3, undefined, 3, spaceOf("2"), LIST_INSET + (id - 1) * ROW_HEIGHT)
+    created.SetDimensions(508, ROW_HEIGHT)
     created.SetFont(fontPathOf("body"))
     created.SetHidden(true)
     created.EnableMouseButton(1, false)
@@ -87,7 +96,7 @@ export function getBlueprintChild(id: number): CsBlueprintButton {
   } else {
     const [hasAnchor] = btn.GetAnchor(0)
     if (hasAnchor === false) {
-      btn.SetAnchor(3, undefined, 3, 8, 5 + (id - 1) * 22)
+      btn.SetAnchor(3, undefined, 3, spaceOf("2"), LIST_INSET + (id - 1) * ROW_HEIGHT)
     }
   }
   return btn
@@ -181,7 +190,7 @@ export function blueprintShowCategory(list?: number): undefined {
       }
     }
   }
-  TemperItemsCrafting_BlueprintPanelScrollChild.SetHeight(inc * 22 - 13)
+  TemperItemsCrafting_BlueprintPanelScrollChild.SetHeight(listHeight(inc - 1))
   TemperItemsCrafting_BlueprintHeadline.SetText(
     zo_strformat("<<C:1>>", GetString("SI_RECIPECRAFTINGSYSTEM", listIndex))
   )
@@ -228,7 +237,7 @@ export function blueprintSearch(): undefined {
         }
       }
     }
-    TemperItemsCrafting_BlueprintPanelScrollChild.SetHeight(inc * 22 - 13)
+    TemperItemsCrafting_BlueprintPanelScrollChild.SetHeight(listHeight(inc - 1))
     TemperItemsCrafting_BlueprintHeadline.SetText(STATE.Loc.searchfor)
     TemperItemsCrafting_BlueprintInfo.SetText(`${search} (${inc - 1})`)
   }
