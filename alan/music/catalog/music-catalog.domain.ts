@@ -4,7 +4,7 @@ export const musicCatalog = {
   id: "01a06238-8d2c-7f24-81f1-c8b7232268d3",
   type: "page-type/domain",
   slug: "music-catalog",
-  definition: "the songs and the artists who made them",
+  definition: "songs and their artists",
   parts: [
     "module/catalogue-held",
     "module/lrclib-client",
