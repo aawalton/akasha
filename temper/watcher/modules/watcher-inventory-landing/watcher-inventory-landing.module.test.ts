@@ -267,6 +267,17 @@ test("every row file lands beside the account page in one write", async () => {
   ])
 })
 
+test("the write states the commit the account page was read at", async () => {
+  const sent: (string | null | undefined)[] = []
+  const write: WriteFiles = async (_puts, _writer, _message, _fetcher, _rest, read) => {
+    sent.push(read)
+    return { ok: true, at: "c2" }
+  }
+  const deps = { readPages: accountFound, writeFiles: write, upsert: upsertNothing }
+  await landAccountInventory(VALUES, () => "id-1", deps)
+  expect(sent).toEqual(["c1"])
+})
+
 test("a second reading writes the same paths again rather than being left alone", async () => {
   const paths: string[][] = []
   const write: WriteFiles = async (puts) => {

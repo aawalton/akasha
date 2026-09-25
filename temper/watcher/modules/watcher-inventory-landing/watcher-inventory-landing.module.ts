@@ -18,6 +18,10 @@ export const watcherInventoryLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That write states the commit the account page was read at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The account page is told which row files it carries once those files landed.",
     },
     {

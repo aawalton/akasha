@@ -373,7 +373,8 @@ export async function landAccountInventory(
     if (dataPath === null) return { outcome: "refused", why: unplaced }
     puts.push({ path: dataPath, content: JSON.stringify(values.inventory) })
 
-    const landing = await write(puts, PAGE_LANDING_WRITER, inventoryCommitMessage(values))
+    const message = inventoryCommitMessage(values)
+    const landing = await write(puts, PAGE_LANDING_WRITER, message, undefined, undefined, found.at)
     if (!landing.ok) return { outcome: "again", why: landing.why }
 
     await upsert({
