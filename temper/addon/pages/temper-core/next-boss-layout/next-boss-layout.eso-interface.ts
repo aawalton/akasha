@@ -31,6 +31,10 @@ export const nextBossLayout = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The timetable has no backdrop, and its text is padded as a stat row is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The map labels sit in the game's own map scene, so they keep the game's font.",
     },
   ],
