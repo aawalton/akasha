@@ -23,19 +23,31 @@ export type ModelUnavailableRebindArgs = {
   getFreshToken: (account: string) => Promise<OAuthCredential | null>
   markDisabled: (account: string, reason: string, logPrefix: string) => Promise<undefined>
   clearDisabled: (account: string, logPrefix: string) => Promise<undefined>
+  said?: (line: string) => undefined
+  warned?: (line: string) => undefined
+}
+
+function consoleSaid(line: string): undefined {
+  console.log(line)
+}
+
+function consoleWarned(line: string): undefined {
+  console.error(line)
 }
 
 export async function attemptModelUnavailableRebind(
   args: ModelUnavailableRebindArgs
 ): Promise<RebindOutcome> {
   const { currentAccount, trail, tried, method, pathname, logPrefix } = args
+  const said = args.said ?? consoleSaid
+  const warned = args.warned ?? consoleWarned
   const peeked = await peekResponse(args.res)
   const answered = (): RebindOutcome => answeredFrom(peeked)
   const trailSaid = trail.join("→")
 
   const classification = classifyModelUnavailable(MODEL_UNAVAILABLE_STATUS, peeked.bodyText)
   if (!classification.matched) {
-    console.error(
+    warned(
       `${logPrefix} upstream-terminal-error ${method} ${pathname} account=${trailSaid} status=404 rebind=none-unmatched`
     )
     return answered()
@@ -48,13 +60,13 @@ export async function attemptModelUnavailableRebind(
   )
   if (decision.action === "global-unmark") {
     await args.clearDisabled(decision.firstAccount, logPrefix)
-    console.error(
+    warned(
       `${logPrefix} upstream-terminal-error ${method} ${pathname} account=${trailSaid} status=404 rebind=global-unmarked unmarked=${decision.firstAccount} reason=${classification.reason}`
     )
     return answered()
   }
 
-  console.log(
+  said(
     `${logPrefix} 404 not_found observed account=${currentAccount}; disable+rebind reason=${classification.reason}`
   )
   await args.markDisabled(currentAccount, `model_unavailable: ${classification.reason}`, logPrefix)
@@ -63,7 +75,7 @@ export async function attemptModelUnavailableRebind(
   const nextAccount = await args.pickAccount(tried)
   if (nextAccount === null || tried.has(nextAccount)) {
     const reason = nextAccount === null ? "no-viable-account" : "looped"
-    console.error(
+    warned(
       `${logPrefix} upstream-terminal-error ${method} ${pathname} account=${trailSaid} status=404 rebind=${reason} disabled=true`
     )
     return answered()
@@ -71,7 +83,7 @@ export async function attemptModelUnavailableRebind(
 
   const nextCred = await args.getFreshToken(nextAccount)
   if (nextCred === null) {
-    console.error(
+    warned(
       `${logPrefix} upstream-terminal-error ${method} ${pathname} account=${trailSaid}→${nextAccount} status=404 rebind=no-fresh-token disabled=true`
     )
     return answered()

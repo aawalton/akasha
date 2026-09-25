@@ -111,25 +111,15 @@ export const modelUnavailableRebind = {
       statement: "Nothing here reads a clock.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "`tools/lib/model-gateway/model-unavailable-rebind.ts` takes a `logRes` that file never calls.",
+      decisionKind: "decision-kind/departure",
+      statement: "Every line written here goes to a seam the caller may hand in.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The `logRes` seam that old file took is carried nowhere here.",
+      decisionKind: "decision-kind/departure",
+      statement: "A line whose seam the caller did not hand in goes to the console.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "`tools/lib/model-gateway/model-unavailable-rebind.ts` reads 404 rather than the response's status.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every line written here goes to the console rather than to a seam.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A reason is matched as whole text rather than by any shape within the reason.",
     },
   ],

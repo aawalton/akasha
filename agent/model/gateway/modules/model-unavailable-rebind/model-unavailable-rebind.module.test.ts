@@ -185,3 +185,22 @@ test("the accounts already tried are kept from the choice", async () => {
   )
   expect([...(excluded ?? new Set<string>())].sort()).toEqual(["alpha", "beta"])
 })
+
+test("every line goes to the seams the caller hands in rather than to the console", async () => {
+  const said: string[] = []
+  const warned: string[] = []
+  const seams = {
+    said: (line: string): undefined => {
+      said.push(line)
+    },
+    warned: (line: string): undefined => {
+      warned.push(line)
+    },
+  }
+  await attemptModelUnavailableRebind(argsFor(seams))
+  await attemptModelUnavailableRebind(argsFor({ ...seams, pickAccount: async () => null }))
+  expect(said.join("\n")).toContain("disable+rebind reason=model: claude-opus-5")
+  expect(warned.join("\n")).toContain("rebind=no-viable-account disabled=true")
+  expect(LOGS.output).toEqual([])
+  expect(LOGS.error).toEqual([])
+})
