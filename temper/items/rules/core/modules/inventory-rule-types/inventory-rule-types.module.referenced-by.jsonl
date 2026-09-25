@@ -101,9 +101,6 @@
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-fingerprint/rule-fingerprint.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-item-name-filter/rule-item-name-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-template-table-01/rule-template-table-01.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-template-table-02/rule-template-table-02.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/rule-template-table/rule-template-table.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/stack-fullness-filter/stack-fullness-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts","typed":true,"deferred":false}
