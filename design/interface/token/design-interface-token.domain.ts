@@ -4,7 +4,7 @@ export const designInterfaceToken = {
   id: "01a05c97-52ff-77b0-98f7-72e4e4e986e4",
   type: "page-type/domain",
   slug: "design-interface-token",
-  definition: "the colors an interface is drawn in, each held as an sRGB tuple",
+  definition: "the named values an interface uses",
   parts: [
     "module/semantic-color",
     "module/color-shape",
@@ -15,6 +15,10 @@ export const designInterfaceToken = {
     {
       decisionKind: "decision-kind/departure",
       statement: "Every color here is mirrored by a custom property `tokens.css` declares.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A color here is held as an sRGB tuple.",
     },
     {
       decisionKind: "decision-kind/departure",
