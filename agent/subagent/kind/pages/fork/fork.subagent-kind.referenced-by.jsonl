@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-a0eaf255f7dc26dd8/akasha-a0eaf255f7dc26dd8.subagent.ts","id":"01a0d94a-c3fb-7fa2-affe-2068339722cf"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-a72f7aaab55b64157/akasha-a72f7aaab55b64157.subagent.ts","id":"01a0d92a-20e6-72f8-b682-9606f91f193a"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-ab7b64503bd3d1d71/akasha-ab7b64503bd3d1d71.subagent.ts","id":"01a0d936-1a6c-7552-8a6a-71856d5eec9b"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/akasha-ad13645628b0de727/akasha-ad13645628b0de727.subagent.ts","id":"01a0d92a-474d-74bf-9ed7-b33410c60213"}
