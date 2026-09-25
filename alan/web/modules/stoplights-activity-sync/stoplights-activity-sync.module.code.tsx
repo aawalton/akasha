@@ -1,5 +1,8 @@
 "use client"
 
+import { attributes } from "akasha/alan/harness/readout/group/pages/attributes/attributes.readout-group.ts"
+import { inboxes } from "akasha/alan/harness/readout/group/pages/inboxes/inboxes.readout-group.ts"
+import { upkeep } from "akasha/alan/harness/readout/group/pages/upkeep/upkeep.readout-group.ts"
 import {
   type ActivityRows,
   contentOf,
@@ -25,9 +28,16 @@ export function contentIn(
   groups: readonly (ActivityRows | null)[],
   takenAt: string
 ): StoplightsContent | null {
-  const [upkeep, inboxes, attributes] = groups
-  if (upkeep == null || inboxes == null || attributes == null) return null
-  return contentOf([upkeep, inboxes, attributes], takenAt)
+  const [upkeepRows, inboxesRows, attributesRows] = groups
+  if (upkeepRows == null || inboxesRows == null || attributesRows == null) return null
+  return contentOf(
+    [
+      { rows: upkeepRows, wireKeyName: upkeep.wireKeyName },
+      { rows: inboxesRows, wireKeyName: inboxes.wireKeyName },
+      { rows: attributesRows, wireKeyName: attributes.wireKeyName },
+    ],
+    takenAt
+  )
 }
 
 async function rowsIn(at: string): Promise<ActivityRows | null> {

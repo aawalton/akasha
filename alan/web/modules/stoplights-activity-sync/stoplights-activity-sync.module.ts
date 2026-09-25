@@ -14,6 +14,11 @@ export const stoplightsActivitySync = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Each feed's rows are read under the wire key name its group's page states, taken in at build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A feed that answered nothing leaves the activity as it was.",
     },
     {

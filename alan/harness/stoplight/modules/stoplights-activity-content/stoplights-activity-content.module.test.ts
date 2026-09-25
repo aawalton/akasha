@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
 import {
+  type ActivityGroup,
+  type ActivityRows,
   contentOf,
   readingSaid,
   stoplightsIn,
@@ -78,13 +80,25 @@ test("a progress that is no finite number is carried as nothing", () => {
   ).toBe(null)
 })
 
-test("each group is read under its own wire key and kept apart", () => {
+function grouped(
+  upkeep: ActivityRows,
+  inboxes: ActivityRows,
+  attributes: ActivityRows
+): readonly [ActivityGroup, ActivityGroup, ActivityGroup] {
+  return [
+    { rows: upkeep, wireKeyName: "habit" },
+    { rows: inboxes, wireKeyName: "inbox" },
+    { rows: attributes, wireKeyName: "attribute" },
+  ]
+}
+
+test("each group is read under the wire key name handed in beside it and kept apart", () => {
   const content = contentOf(
-    [
+    grouped(
       [{ habit: "sleep", tier: "red" }],
       [{ inbox: "email", tier: "blue" }],
-      [{ attribute: "strength", tier: "green" }],
-    ],
+      [{ attribute: "strength", tier: "green" }]
+    ),
     "2026-09-19T17:00:00Z"
   )
   expect([
@@ -96,18 +110,36 @@ test("each group is read under its own wire key and kept apart", () => {
 })
 
 test("two readings taken at different moments say the same thing", () => {
-  const rows = [
+  const groups = grouped(
     [{ habit: "sleep", tier: "red" }],
     [{ inbox: "email", tier: "blue" }],
-    [{ attribute: "strength", tier: "green" }],
-  ] as const
-  expect(readingSaid(contentOf(rows, "2026-09-19T17:00:00Z"))).toBe(
-    readingSaid(contentOf(rows, "2026-09-19T18:00:00Z"))
+    [{ attribute: "strength", tier: "green" }]
+  )
+  expect(readingSaid(contentOf(groups, "2026-09-19T17:00:00Z"))).toBe(
+    readingSaid(contentOf(groups, "2026-09-19T18:00:00Z"))
   )
 })
 
 test("a color that moved says something else", () => {
-  const before = contentOf([[{ habit: "sleep", tier: "red" }], [], []], "2026-09-19T17:00:00Z")
-  const after = contentOf([[{ habit: "sleep", tier: "green" }], [], []], "2026-09-19T17:00:00Z")
+  const before = contentOf(
+    grouped([{ habit: "sleep", tier: "red" }], [], []),
+    "2026-09-19T17:00:00Z"
+  )
+  const after = contentOf(
+    grouped([{ habit: "sleep", tier: "green" }], [], []),
+    "2026-09-19T17:00:00Z"
+  )
   expect(readingSaid(before)).not.toBe(readingSaid(after))
+})
+
+test("a group's rows are read under the name handed in rather than under a name kept here", () => {
+  const content = contentOf(
+    [
+      { rows: [{ ring: "sleep", tier: "red" }], wireKeyName: "ring" },
+      { rows: [], wireKeyName: "inbox" },
+      { rows: [], wireKeyName: "attribute" },
+    ],
+    "2026-09-19T17:00:00Z"
+  )
+  expect(content.upkeep[0]?.key).toBe("sleep")
 })

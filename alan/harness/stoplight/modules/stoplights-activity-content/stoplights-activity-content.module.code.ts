@@ -1,12 +1,13 @@
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 
-export const ACTIVITY_GROUPS = [
-  { group: "upkeep", wireKey: "habit" },
-  { group: "inboxes", wireKey: "inbox" },
-  { group: "attributes", wireKey: "attribute" },
-] as const
+export const ACTIVITY_GROUPS = ["upkeep", "inboxes", "attributes"] as const
 
 export type ActivityRows = readonly Readonly<Record<string, unknown>>[]
+
+export interface ActivityGroup {
+  readonly rows: ActivityRows
+  readonly wireKeyName: string
+}
 
 export interface ActivityStoplight {
   readonly key: string
@@ -49,13 +50,14 @@ export function stoplightsIn(rows: ActivityRows, wireKey: string): readonly Acti
 }
 
 export function contentOf(
-  groups: readonly [ActivityRows, ActivityRows, ActivityRows],
+  groups: readonly [ActivityGroup, ActivityGroup, ActivityGroup],
   takenAt: string
 ): StoplightsContent {
+  const [upkeep, inboxes, attributes] = groups
   return {
-    upkeep: stoplightsIn(groups[0], ACTIVITY_GROUPS[0].wireKey),
-    inboxes: stoplightsIn(groups[1], ACTIVITY_GROUPS[1].wireKey),
-    attributes: stoplightsIn(groups[2], ACTIVITY_GROUPS[2].wireKey),
+    upkeep: stoplightsIn(upkeep.rows, upkeep.wireKeyName),
+    inboxes: stoplightsIn(inboxes.rows, inboxes.wireKeyName),
+    attributes: stoplightsIn(attributes.rows, attributes.wireKeyName),
     takenAt,
   }
 }

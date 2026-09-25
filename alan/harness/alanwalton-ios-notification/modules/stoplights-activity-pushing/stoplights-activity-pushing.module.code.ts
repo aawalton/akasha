@@ -8,10 +8,10 @@ import {
   onTheWorkstation,
   pruneDeviceToken,
 } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts"
-import { stoplightsInGroup } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
+import { servedInGroup } from "akasha/alan/harness/readout/modules/group-serving/readout-group-serving.module.code.ts"
 import {
   ACTIVITY_GROUPS,
-  type ActivityRows,
+  type ActivityGroup,
   contentOf,
   readingSaid,
   type StoplightsContent,
@@ -24,13 +24,17 @@ export interface ActivityPushState {
   pushed: string | null
 }
 
+const NO_NAME = ""
+
+async function groupNow(groupSlug: string): Promise<ActivityGroup> {
+  const served = await servedInGroup(groupSlug, undefined, onTheWorkstation)
+  return { rows: served.stoplights, wireKeyName: served.wireKeyName ?? NO_NAME }
+}
+
 async function contentNow(takenAt: string): Promise<StoplightsContent> {
-  const [upkeep, inboxes, attributes] = await Promise.all(
-    ACTIVITY_GROUPS.map(
-      (one) => stoplightsInGroup(one.group, undefined, onTheWorkstation) as Promise<ActivityRows>
-    )
-  )
-  return contentOf([upkeep ?? [], inboxes ?? [], attributes ?? []], takenAt)
+  const [upkeep, inboxes, attributes] = ACTIVITY_GROUPS
+  const groups = await Promise.all([groupNow(upkeep), groupNow(inboxes), groupNow(attributes)])
+  return contentOf(groups, takenAt)
 }
 
 function stoplightsIn(content: StoplightsContent): number {

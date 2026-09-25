@@ -18,6 +18,11 @@ export const stoplightsActivityContent = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A group's rows are read under the wire key name handed in beside them rather than one kept here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stoplight with no label of its own is labelled by its key.",
     },
     {

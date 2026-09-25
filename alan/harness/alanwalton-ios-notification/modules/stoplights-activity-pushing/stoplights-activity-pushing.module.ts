@@ -14,6 +14,10 @@ export const stoplightsActivityPushing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each group's rows are read under the wire key name that group's page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The pages are reached at the loopback this workstation's own service binds.",
     },
     {
