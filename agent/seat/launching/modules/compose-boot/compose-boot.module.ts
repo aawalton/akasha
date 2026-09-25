@@ -4,8 +4,7 @@ export const composeBoot = {
   id: "01a069c8-f654-7765-bacf-c9f586d7aa13",
   type: "page-type/module",
   slug: "compose-boot",
-  definition:
-    "a seat's system prompt: who it is, and the read that loads everything it is bound to",
+  definition: "how code writes the message a new seat reads",
   code: "ts",
   decisions: [
     {
