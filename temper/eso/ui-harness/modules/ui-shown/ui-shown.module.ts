@@ -50,5 +50,10 @@ export const uiShown = {
       decisionKind: "decision-kind/departure",
       statement: "The windows on the screen are drawn one whole window after another.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Windows are drawn by tier, then layer, then level, and in the order made at a tie.",
+    },
   ],
 } as const satisfies Module

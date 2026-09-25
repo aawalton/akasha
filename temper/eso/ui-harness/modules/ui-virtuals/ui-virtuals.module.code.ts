@@ -118,6 +118,15 @@ function maybeNumber(text: string | null): number | undefined {
   return Number.isFinite(worked) ? worked : undefined
 }
 
+const DRAW_NUMBER = /^\d+$/
+
+function drawNamed(text: string | null, prefix: string): Measure | undefined {
+  if (text === null) return undefined
+  const said = text.trim()
+  if (DRAW_NUMBER.test(said)) return Number(said)
+  return `${prefix}${said.toUpperCase()}`
+}
+
 function maybeBoolean(text: string | null): boolean | undefined {
   if (text === null) return undefined
   return text === "true"
@@ -266,6 +275,9 @@ function nodeOf(element: Element): VirtualNode {
     alpha: maybeNumber(element.getAttribute("alpha")),
     mouseEnabled: maybeBoolean(element.getAttribute("mouseEnabled")),
     resizeToFit: maybeBoolean(element.getAttribute("resizeToFitDescendents")),
+    drawTier: drawNamed(element.getAttribute("tier"), "DT_"),
+    drawLayer: drawNamed(element.getAttribute("layer"), "DL_"),
+    drawLevel: measureOf(element.getAttribute("level")),
     width: dimensions === null ? undefined : measureOf(dimensions.getAttribute("x")),
     height: dimensions === null ? undefined : measureOf(dimensions.getAttribute("y")),
     font: font === null ? undefined : font,

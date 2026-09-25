@@ -119,6 +119,9 @@ dress = function(control, spec)
   if spec.alpha ~= nil then control:SetAlpha(spec.alpha) end
   if spec.mouseEnabled ~= nil then control:SetMouseEnabled(spec.mouseEnabled) end
   if spec.resizeToFit ~= nil then control:SetResizeToFitDescendents(spec.resizeToFit) end
+  if spec.drawTier ~= nil then control.uiTier = measure(spec.drawTier) end
+  if spec.drawLayer ~= nil then control.uiLayer = measure(spec.drawLayer) end
+  if spec.drawLevel ~= nil then control.uiLevel = measure(spec.drawLevel) end
   if spec.width ~= nil then control.uiWidth = measure(spec.width) end
   if spec.height ~= nil then control.uiHeight = measure(spec.height) end
   if spec.font ~= nil then control.uiFont = spec.font end
@@ -403,5 +406,8 @@ function _G.__ui_fire(name, event, ...)
   local handler = control.uiHandlers[event]
   if handler == nil then return false end
   handler(control, ...)
+  if event == "OnMouseUp" and _G.__ui_raise ~= nil then
+    _G.__ui_raise(_G.EVENT_GLOBAL_MOUSE_UP, (...))
+  end
   return true
 end

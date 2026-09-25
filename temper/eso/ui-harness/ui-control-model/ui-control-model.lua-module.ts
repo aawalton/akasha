@@ -49,6 +49,10 @@ export const uiControlModel = {
       decisionKind: "decision-kind/departure",
       statement: "A caller outside the sandbox runs a handler by naming the control and the event.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A mouse-up a caller runs is heard by the whole screen after the control.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

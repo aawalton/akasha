@@ -50,8 +50,30 @@ function drawnBefore(first: Ordered, second: Ordered): number {
   )
 }
 
+function windowRanks(root: UiControl): readonly number[] {
+  const order = root.children.map((one, at) => ({
+    at,
+    tier: one.drawTier ?? 0,
+    layer: one.drawLayer ?? CONTROLS_LAYER,
+    level: one.drawLevel ?? 0,
+  }))
+  order.sort(
+    (first, second) =>
+      first.tier - second.tier ||
+      first.layer - second.layer ||
+      first.level - second.level ||
+      first.at - second.at
+  )
+  const ranks: number[] = []
+  order.forEach((one, rank) => {
+    ranks[one.at] = rank + 1
+  })
+  return ranks
+}
+
 export function shownIn(root: UiControl): readonly Shown[] {
   const ordered: Ordered[] = []
+  const ranks = windowRanks(root)
   function walk(
     one: UiControl,
     window: number,
@@ -73,7 +95,7 @@ export function shownIn(root: UiControl): readonly Shown[] {
     if (kept !== null) ordered.push({ ...own, one: kept, window, at: ordered.length })
     const under = clipUnder(one, clip)
     one.children.forEach((child, index) => {
-      walk(child, top ? index + 1 : window, own, alpha, under)
+      walk(child, top ? (ranks[index] ?? index + 1) : window, own, alpha, under)
     })
     return undefined
   }

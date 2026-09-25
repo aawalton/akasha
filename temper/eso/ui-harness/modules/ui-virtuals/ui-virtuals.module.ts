@@ -111,5 +111,9 @@ export const uiVirtuals = {
       decisionKind: "decision-kind/departure",
       statement: "A size or an offset the document gives as a name is kept as that name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tier or a layer written as a word is kept as the name the game holds for it.",
+    },
   ],
 } as const satisfies Module

@@ -26,6 +26,9 @@ export type VirtualNode = {
   readonly alpha?: number
   readonly mouseEnabled?: boolean
   readonly resizeToFit?: boolean
+  readonly drawTier?: Measure
+  readonly drawLayer?: Measure
+  readonly drawLevel?: Measure
   readonly width?: Measure
   readonly height?: Measure
   readonly font?: string
@@ -107,6 +110,9 @@ export function merged(base: VirtualNode, over: VirtualNode): VirtualNode {
     alpha: over.alpha ?? base.alpha,
     mouseEnabled: over.mouseEnabled ?? base.mouseEnabled,
     resizeToFit: over.resizeToFit ?? base.resizeToFit,
+    drawTier: over.drawTier ?? base.drawTier,
+    drawLayer: over.drawLayer ?? base.drawLayer,
+    drawLevel: over.drawLevel ?? base.drawLevel,
     width: over.width ?? base.width,
     height: over.height ?? base.height,
     font: over.font ?? base.font,
