@@ -5,7 +5,7 @@ export const agentMessageBody = {
   type: "page-type/text-property",
   slug: "agent-message-body",
   propertySlug: "body",
-  definition: "the words a message carries",
+  definition: "the words of a message",
   maxLength: 20000,
   nameFormat: null,
   decisions: [
