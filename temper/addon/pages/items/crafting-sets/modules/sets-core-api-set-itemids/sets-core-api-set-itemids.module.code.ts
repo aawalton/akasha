@@ -14,16 +14,19 @@ import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-
 
 const libSlots = asLibSlots(lib)
 
+type FilterValue = number | number[]
+type EnchantFilterValue = FilterValue | string
+
 type GetSetItemIdsFilteredFn = (
   this: void,
   returnSingleItemId: boolean | undefined,
   setId: number | undefined,
   allSetItemIds: { [itemId: number]: number } | undefined,
-  equipType?: number,
-  traitType?: number,
-  enchantSearchCategoryType?: number | string,
-  armorType?: number,
-  weaponType?: number
+  equipType?: FilterValue,
+  traitType?: FilterValue,
+  enchantSearchCategoryType?: EnchantFilterValue,
+  armorType?: FilterValue,
+  weaponType?: FilterValue
 ) => LuaMultiReturn<
   [{ [itemId: number]: number } | number | undefined, { [key: string]: unknown } | undefined]
 >
@@ -48,11 +51,11 @@ function getSetItemIds(
   this: void,
   setId: number | undefined,
   isNoESOSetId: boolean | undefined,
-  equipType?: number,
-  traitType?: number,
-  enchantSearchCategoryType?: number | string,
-  armorType?: number,
-  weaponType?: number
+  equipType?: FilterValue,
+  traitType?: FilterValue,
+  enchantSearchCategoryType?: EnchantFilterValue,
+  armorType?: FilterValue,
+  weaponType?: FilterValue
 ): LuaMultiReturn<
   [{ [itemId: number]: number } | undefined, { [key: string]: unknown } | undefined]
 > {
@@ -107,11 +110,11 @@ function getSetItemId(
   this: void,
   setId: number | undefined,
   isNoESOSetId?: boolean,
-  equipType?: number,
-  traitType?: number,
-  enchantSearchCategoryType?: number | string,
-  armorType?: number,
-  weaponType?: number
+  equipType?: FilterValue,
+  traitType?: FilterValue,
+  enchantSearchCategoryType?: EnchantFilterValue,
+  armorType?: FilterValue,
+  weaponType?: FilterValue
 ): number | undefined {
   const [setItemIds] = getSetItemIds(setId, isNoESOSetId)
   if (setItemIds === undefined) {
@@ -136,11 +139,11 @@ function getSetFirstItemId(
   this: void,
   setId: number | undefined,
   isNoESOSetId?: boolean,
-  equipType?: number,
-  traitType?: number,
-  enchantSearchCategoryType?: number | string,
-  armorType?: number,
-  weaponType?: number
+  equipType?: FilterValue,
+  traitType?: FilterValue,
+  enchantSearchCategoryType?: EnchantFilterValue,
+  armorType?: FilterValue,
+  weaponType?: FilterValue
 ): number | undefined {
   return getSetItemId(
     setId,

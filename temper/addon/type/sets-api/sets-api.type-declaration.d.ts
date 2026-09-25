@@ -182,21 +182,21 @@ interface SetsApi {
     this: void,
     setId: number | undefined,
     isNoESOSetId?: boolean,
-    equipType?: number,
-    traitType?: number,
-    enchantSearchCategoryType?: number | string,
-    armorType?: number,
-    weaponType?: number
+    equipType?: number | number[],
+    traitType?: number | number[],
+    enchantSearchCategoryType?: number | number[] | string,
+    armorType?: number | number[],
+    weaponType?: number | number[]
   ) => number | undefined
   GetSetFirstItemId: (
     this: void,
     setId: number | undefined,
     isNoESOSetId?: boolean,
-    equipType?: number,
-    traitType?: number,
-    enchantSearchCategoryType?: number | string,
-    armorType?: number,
-    weaponType?: number
+    equipType?: number | number[],
+    traitType?: number | number[],
+    enchantSearchCategoryType?: number | number[] | string,
+    armorType?: number | number[],
+    weaponType?: number | number[]
   ) => number | undefined
 
   GetSetName: (this: void, setId: number | undefined, lang?: string) => unknown
@@ -462,11 +462,11 @@ interface SetsApi {
     returnSingleItemId: boolean | undefined,
     setId: number | undefined,
     allSetItemIds: { [itemId: number]: number } | undefined,
-    equipType?: number,
-    traitType?: number,
-    enchantSearchCategoryType?: number | string,
-    armorType?: number,
-    weaponType?: number
+    equipType?: number | number[],
+    traitType?: number | number[],
+    enchantSearchCategoryType?: number | number[] | string,
+    armorType?: number | number[],
+    weaponType?: number | number[]
   ) => LuaMultiReturn<
     [{ [itemId: number]: number } | number | undefined, { [key: string]: unknown } | undefined]
   >
@@ -491,11 +491,11 @@ interface SetsApi {
     this: void,
     setId: number | undefined,
     isNoESOSetId?: boolean,
-    equipType?: number,
-    traitType?: number,
-    enchantSearchCategoryType?: number | string,
-    armorType?: number,
-    weaponType?: number
+    equipType?: number | number[],
+    traitType?: number | number[],
+    enchantSearchCategoryType?: number | number[] | string,
+    armorType?: number | number[],
+    weaponType?: number | number[]
   ) => LuaMultiReturn<
     [{ [itemId: number]: number } | undefined, { [key: string]: unknown } | undefined]
   >
