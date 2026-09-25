@@ -43,6 +43,13 @@
     "bin/textures/double_large_rightarrow_up.dds",
     "bin/textures/double_large_rightarrow_down.dds",
     "bin/textures/double_large_rightarrow_over.dds",
-    "bin/textures/double_large_rightarrow_disabled.dds"
+    "bin/textures/double_large_rightarrow_disabled.dds",
+    "bin/fonts/Geist-Regular.slug",
+    "bin/fonts/Geist-Medium.slug",
+    "bin/fonts/Geist-SemiBold.slug",
+    "bin/fonts/Geist-Bold.slug",
+    "bin/fonts/GeistMono-Regular.slug",
+    "bin/fonts/GeistMono-Medium.slug",
+    "bin/fonts/OFL.txt"
   ]
 }

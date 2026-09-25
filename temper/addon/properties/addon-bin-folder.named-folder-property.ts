@@ -5,7 +5,17 @@ export const addonBinFolder = {
   type: "page-type/named-folder-property",
   slug: "addon-bin-folder",
   propertySlug: "addon-bin-folder",
-  definition: "the textures an add-on keeps under a folder named bin",
+  definition: "the textures and fonts an add-on keeps under a folder named bin",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A font is kept in the game's own font format, converted by the game's own tool.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A font ships with its license beside it.",
+    },
+  ],
   folderName: "bin",
   holdsBytes: true,
   runsFileLength: false,
