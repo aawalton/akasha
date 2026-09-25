@@ -150,4 +150,10 @@
 {"propertySlug":"import","fileName":"temper-world-skyshard.page-type.types.ts","path":"temper/catalog/world/zone/pages/stros-mkai/skyshards/stros-mkai-407-1.temper-world-skyshard.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-skyshard.page-type.types.ts","path":"temper/catalog/world/zone/pages/stros-mkai/skyshards/stros-mkai-407-2.temper-world-skyshard.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-skyshard.page-type.types.ts","path":"temper/catalog/world/zone/pages/stros-mkai/skyshards/stros-mkai-407-3.temper-world-skyshard.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-skyshard.page-type.types.ts","path":"temper/catalog/world/zone/pages/the-deadlands/skyshards/the-deadlands-3140-1.temper-world-skyshard.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-skyshard.page-type.types.ts","path":"temper/catalog/world/zone/pages/the-deadlands/skyshards/the-deadlands-3140-2.temper-world-skyshard.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-skyshard.page-type.types.ts","path":"temper/catalog/world/zone/pages/the-deadlands/skyshards/the-deadlands-3140-3.temper-world-skyshard.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-skyshard.page-type.types.ts","path":"temper/catalog/world/zone/pages/the-deadlands/skyshards/the-deadlands-3140-4.temper-world-skyshard.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-skyshard.page-type.types.ts","path":"temper/catalog/world/zone/pages/the-deadlands/skyshards/the-deadlands-3140-5.temper-world-skyshard.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-skyshard.page-type.types.ts","path":"temper/catalog/world/zone/pages/the-deadlands/skyshards/the-deadlands-3140-6.temper-world-skyshard.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/skyshard/temper-skyshard.domain.ts","id":"01a061a8-9c6d-7ae0-b6d1-1fa0685e81a5"}
