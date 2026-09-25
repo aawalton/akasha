@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"web-app.page-type.ts","path":"page/ui-store/collection/modules/fetch-attach/fetch-attach.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app.page-type.ts","path":"product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app.page-type.ts","path":"product/smilingjenny/web/modules/jenny-app-id/jenny-app-id.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-app.page-type.ts","path":"product/wandering-inn-wiki/web/modules/innworld-app-id/innworld-app-id.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app.page-type.ts","path":"temper/web/modules/temper-app-id/temper-app-id.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/pages/alanwalton-atlas-web.web-app.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-app.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/pages/alanwalton-requests-web.web-app.ts","typed":true,"deferred":false}

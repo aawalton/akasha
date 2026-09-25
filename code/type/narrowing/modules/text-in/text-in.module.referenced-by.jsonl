@@ -22,6 +22,7 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/kofi/stripe/modules/movement/movement.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts","typed":false,"deferred":false}

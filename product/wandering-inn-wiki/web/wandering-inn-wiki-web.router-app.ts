@@ -27,9 +27,11 @@ export const wanderingInnWikiWeb = {
   parts: [
     "app-routes/wandering-inn-wiki-web-routes",
     "manifest/wandering-inn-wiki-web-manifests",
+    "module/innworld-app-id",
     "module/innworld-app-shell",
     "module/innworld-reader",
     "module/innworld-reading",
+    "module/innworld-shelves",
     "module/innworld-visitor",
     "stylesheet/wandering-inn-wiki-web-look",
   ],
@@ -37,7 +39,8 @@ export const wanderingInnWikiWeb = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This site serves the pages of one world and no other page akasha holds.",
+      statement:
+        "This site serves the pages of one world and its own nav items, and no other page akasha holds.",
     },
     {
       decisionKind: "decision-kind/departure",

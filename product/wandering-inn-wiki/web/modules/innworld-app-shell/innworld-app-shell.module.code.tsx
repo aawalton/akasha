@@ -7,193 +7,82 @@ import type {
   AppNavConfig,
   AppNavItem,
 } from "akasha/design/interface/layout/modules/nav-types/nav-types.module.code.ts"
-import type { ShownType } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
+import { SortableNavs } from "akasha/page/ui/component/modules/sortable-navs/sortable-navs.module.code.tsx"
+import { useAppNavItems } from "akasha/page/ui/component/modules/use-app-nav-items/use-app-nav-items.module.code.tsx"
 import {
-  Award,
-  BookOpen,
-  Brain,
-  CalendarClock,
-  ChefHat,
-  Church,
-  Dna,
-  Flame,
-  Gem,
-  Gift,
-  Globe,
-  Handshake,
-  HeartPulse,
-  Home,
-  type LucideIcon,
-  Music,
-  Package,
-  PawPrint,
-  Scroll,
-  Shield,
-  Skull,
-  Sparkle,
-  Sparkles,
-  Stamp,
-  Sun,
-  Sword,
-  Users,
-  Wand2,
-} from "lucide-react"
+  INNWORLD_APP,
+  INNWORLD_APP_ID,
+} from "akasha/product/wandering-inn-wiki/web/modules/innworld-app-id/innworld-app-id.module.code.ts"
 import { useMemo } from "react"
 
 const BRAND = "INNWORLD"
 
-const HOME: AppNavItem = { id: "home", label: "Home", shortLabel: "Home", href: "/", icon: Home }
+const NO_CODED_ITEMS: readonly AppNavItem[] = []
 
-type PlannedType = { readonly slug: string; readonly icon: LucideIcon; readonly label?: string }
-
-type PlannedGroup = {
-  readonly group: string
-  readonly icon: LucideIcon
-  readonly under: readonly PlannedType[]
-}
-
-const PLANNED: readonly (PlannedGroup | PlannedType)[] = [
-  { slug: "world-character", icon: Users },
-  { slug: "world-class", icon: Shield },
-  { slug: "world-skill", icon: Sparkles },
-  { slug: "world-spell", icon: Wand2 },
-  {
-    group: "Powers",
-    icon: Flame,
-    under: [
-      { slug: "world-miracle", icon: Sun },
-      { slug: "world-song", icon: Music },
-      { slug: "world-legacy", icon: Dna },
-      { slug: "world-boon", icon: Gift },
-      { slug: "world-carried-memory", icon: Brain },
-    ],
-  },
-  {
-    group: "Marks",
-    icon: Stamp,
-    under: [
-      { slug: "world-condition", icon: HeartPulse },
-      { slug: "world-title", icon: Award },
-      { slug: "world-curse", icon: Skull },
-      { slug: "world-reputation", icon: Handshake },
-      { slug: "world-aspect", icon: Gem },
-    ],
-  },
-  {
-    group: "Things",
-    icon: Package,
-    under: [
-      { slug: "world-item", icon: Sword },
-      { slug: "world-enchantment", icon: Sparkle },
-      { slug: "world-recipe", icon: ChefHat },
-    ],
-  },
-  {
-    group: "World",
-    icon: Globe,
-    under: [
-      { slug: "named-event", icon: CalendarClock },
-      { slug: "world-quest", icon: Scroll },
-      { slug: "world-species", icon: PawPrint },
-      { slug: "world-religion", icon: Church },
-      { slug: "world", icon: BookOpen, label: "The Wandering Inn" },
-    ],
-  },
-]
-
-export type Shelved = {
-  readonly held: ShownType
-  readonly label: string
-  readonly icon: LucideIcon
-}
-
-export type Shelf =
-  | { readonly heading: null; readonly under: readonly Shelved[] }
-  | { readonly heading: string; readonly icon: LucideIcon; readonly under: readonly Shelved[] }
-
-function takeOf(planned: PlannedType, left: Map<string, ShownType>): Shelved | null {
-  const held = left.get(planned.slug)
-  if (held === undefined) return null
-  left.delete(planned.slug)
-  return { held, label: planned.label ?? held.name, icon: planned.icon }
-}
-
-export function shelvesOf(shownTypes: readonly ShownType[]): readonly Shelf[] {
-  const left = new Map(shownTypes.map((one) => [one.slug, one]))
-  const shelves: Shelf[] = []
-  const loose: Shelved[] = []
-  const flush = () => {
-    if (loose.length === 0) return
-    shelves.push({ heading: null, under: [...loose] })
-    loose.length = 0
-  }
-  for (const planned of PLANNED) {
-    if ("group" in planned) {
-      const under = planned.under
-        .map((one) => takeOf(one, left))
-        .filter((one): one is Shelved => one !== null)
-      if (under.length === 0) continue
-      flush()
-      shelves.push({ heading: planned.group, icon: planned.icon, under })
-      continue
-    }
-    const alone = takeOf(planned, left)
-    if (alone !== null) loose.push(alone)
-  }
-  for (const one of left.values()) loose.push({ held: one, label: one.name, icon: BookOpen })
-  flush()
-  return shelves
-}
-
-function itemOf(one: Shelved): AppNavItem {
-  return {
-    id: one.held.slug,
-    label: one.label,
-    shortLabel: one.label,
-    href: `/${one.held.slug}`,
-    icon: one.icon,
-  }
-}
-
-function navItemsOf(shownTypes: readonly ShownType[]): readonly AppNavItem[] {
-  const items: AppNavItem[] = [HOME]
-  for (const shelf of shelvesOf(shownTypes)) {
-    if (shelf.heading === null) {
-      for (const one of shelf.under) items.push(itemOf(one))
-      continue
-    }
-    items.push({
-      id: shelf.heading,
-      label: shelf.heading,
-      shortLabel: shelf.heading,
-      icon: shelf.icon,
-      children: shelf.under.map(itemOf),
-    })
-  }
-  return items
-}
-
-export function AppShell({
-  shownTypes,
-  children,
-}: {
-  shownTypes: readonly ShownType[]
+interface AppShellProps {
   children: React.ReactNode
-}) {
+  ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
+}
+
+function AppShellInner({ children, ssrNavItems }: AppShellProps) {
+  const {
+    items,
+    bottomSections,
+    onReorder,
+    onSetParent,
+    dynamicItemIds,
+    rootItemIds,
+    childItemIds,
+    childrenByParentId,
+    navReady,
+  } = useAppNavItems({
+    appId: INNWORLD_APP_ID,
+    app: INNWORLD_APP,
+    primaryItems: NO_CODED_ITEMS,
+    initialRows: ssrNavItems ?? undefined,
+  })
+
   const config = useMemo<AppNavConfig>(
     () => ({
-      primaryItems: navItemsOf(shownTypes),
-      bottomSections: [],
+      primaryItems: items,
+      bottomSections,
       brandLabel: BRAND,
       bottomNavMaxItems: 5,
-      navReady: true,
+      navReady,
+      renderPrimaryItems: (primary, renderItem) => (
+        <SortableNavs
+          items={primary}
+          dynamicItemIds={dynamicItemIds}
+          onReorder={onReorder}
+          onSetParent={onSetParent}
+          rootItemIds={rootItemIds}
+          childItemIds={childItemIds}
+          childrenByParentId={childrenByParentId}
+          renderItem={renderItem}
+        />
+      ),
     }),
-    [shownTypes]
+    [
+      items,
+      bottomSections,
+      navReady,
+      dynamicItemIds,
+      onReorder,
+      onSetParent,
+      rootItemIds,
+      childItemIds,
+      childrenByParentId,
+    ]
   )
+
+  return <SharedAppShell config={config}>{children}</SharedAppShell>
+}
+
+export function AppShell(props: AppShellProps) {
   return (
     <LayoutRouterAdapter>
       <PagesUIRouterAdapter>
-        <SharedAppShell config={config}>{children}</SharedAppShell>
+        <AppShellInner {...props} />
       </PagesUIRouterAdapter>
     </LayoutRouterAdapter>
   )

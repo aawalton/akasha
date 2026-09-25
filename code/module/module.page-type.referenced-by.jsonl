@@ -2512,9 +2512,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-capacitor-bridge/jenny-capacitor-bridge.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/smilingjenny/web/modules/jenny-push-registration-sync/jenny-push-registration-sync.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-app-id/innworld-app-id.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-app-shell/innworld-app-shell.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"product/wandering-inn-wiki/web/modules/innworld-visitor/innworld-visitor.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/action-bar-message/action-bar-message.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/engine/core/modules/beat-schema/beat-schema.module.ts","typed":true,"deferred":false}

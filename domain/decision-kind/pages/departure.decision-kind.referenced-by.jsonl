@@ -3565,6 +3565,7 @@
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-app-shell/innworld-app-shell.module.ts","id":"01a0c65b-6a5f-75c7-91b0-1543f3362467"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-reader/innworld-reader.module.ts","id":"01a0c5fb-f556-72d8-af41-7464e370af1a"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.ts","id":"01a0c61a-8975-7295-9bd9-dd7c9e8d99c7"}
+{"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-shelves/innworld-shelves.module.ts","id":"01a0d929-ff30-731e-a86a-0d028fda7fc1"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-visitor/innworld-visitor.module.ts","id":"01a0c66a-55f9-793b-99d9-b3d8617e6db8"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/routes/innworld-home/innworld-home.route.ts","id":"01a0c5e6-86e5-7522-b845-c975565ebb58"}
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/routes/innworld-page-listing/innworld-page-listing.route.ts","id":"01a0c5fc-31a5-75df-9ea9-6a8ef459b23f"}

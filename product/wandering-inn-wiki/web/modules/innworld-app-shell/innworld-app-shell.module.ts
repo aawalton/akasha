@@ -13,30 +13,16 @@ export const innworldAppShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sidebar names every page type this wiki reaches.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No nav page is read, since the reader of this site reaches none.",
-    },
-
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page type the sidebar names wears an icon, since none states one.",
+      statement: "The sidebar names the nav items naming this site, and no item is written here.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A heading gathers the page types few readers come for, and the heading is no link.",
+        "A section gathers the page types few readers come for, and the section is no link.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Which heading a page type sits under is settled here rather than on that page type.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page type under no heading here is drawn at the foot rather than left out.",
+      statement: "Which section a page type sits under is settled on the nav items.",
     },
   ],
 } as const satisfies Module
