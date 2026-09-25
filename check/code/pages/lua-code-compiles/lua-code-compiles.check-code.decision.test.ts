@@ -4,7 +4,7 @@ import {
   foundIn,
   judgedAcross,
   reachedOver,
-} from "akasha/check/code/pages/lua-runtime-library-compiles/lua-runtime-library-compiles.check-code.decision.code.ts"
+} from "akasha/check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.code.ts"
 import {
   ALONE,
   BROKEN,
@@ -19,7 +19,7 @@ import {
   scratch,
   TWO,
   TWO_BODY,
-} from "akasha/check/code/pages/lua-runtime-library-compiles/lua-runtime-library-compiles.check-code.decision.test-fixtures.ts"
+} from "akasha/check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.test-fixtures.ts"
 
 afterAll(scratch.sweep)
 

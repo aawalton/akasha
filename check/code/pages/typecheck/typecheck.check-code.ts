@@ -139,7 +139,7 @@ export const typecheck = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A lua runtime library's files are compiled by `lua-runtime-library-compiles` rather than here.",
+        "A lua runtime library's files are compiled by `lua-code-compiles` rather than here.",
     },
     {
       decisionKind: "decision-kind/departure",

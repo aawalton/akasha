@@ -79,7 +79,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/introduced-property-is-a-part/introduced-property-is-a-part.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/key-names-one-property/key-names-one-property.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/lua-runtime-library-compiles/lua-runtime-library-compiles.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/code/pages/module-sits-under-a-modules-folder/module-sits-under-a-modules-folder.check-code.decision.test-fixtures.ts","typed":false,"deferred":false}

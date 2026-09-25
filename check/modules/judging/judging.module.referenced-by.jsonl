@@ -81,8 +81,8 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.check.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.check.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.decision.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/lua-runtime-library-compiles/lua-runtime-library-compiles.check-code.audit.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/lua-runtime-library-compiles/lua-runtime-library-compiles.check-code.decision.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.audit.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.audit.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.check.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"check/code/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.check-code.check.test.ts","typed":true,"deferred":false}

@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"change-mirror.module.code.ts","path":"check/code/pages/lint-clean/lint-clean.check-code.check.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"change-mirror.module.code.ts","path":"check/code/pages/lua-runtime-library-compiles/lua-runtime-library-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-mirror.module.code.ts","path":"check/code/pages/lua-code-compiles/lua-code-compiles.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mirror.module.code.ts","path":"check/code/pages/shell-clean/shell-clean.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mirror.module.code.ts","path":"check/code/pages/swift-parses/swift-parses.check-code.decision.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-mirror.module.code.ts","path":"check/modules/change-mirror/change-mirror.module.test.ts","typed":false,"deferred":false}

@@ -1,9 +1,9 @@
 import type { CheckCode } from "akasha/check/code/check-code.page-type.types.ts"
 
-export const luaRuntimeLibraryCompiles = {
+export const luaCodeCompiles = {
   id: "01a0d459-d5bc-71c9-b017-1f958fd74948",
   type: "page-type/check-code",
-  slug: "lua-runtime-library-compiles",
+  slug: "lua-code-compiles",
   definition: "the check refusing a lua runtime library whose configs do not compile",
   runsOnChange: true,
   runsOnDeploy: true,
