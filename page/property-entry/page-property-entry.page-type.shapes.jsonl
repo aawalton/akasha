@@ -20,7 +20,7 @@
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"effects","propertySlug":"effects","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"health-samples","propertySlug":"health-samples","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"icons","propertySlug":"icons","fileName":null,"folderName":null}
-{"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"items","propertySlug":"items","fileName":null,"folderName":null}
+{"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"items","propertySlug":"items","fileName":null,"folderName":null,"writtenBy":"mine-row-landing"}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"listens","propertySlug":"listens","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"location-traces","propertySlug":"location-traces","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"lore-book-positions","propertySlug":"positions","fileName":null,"folderName":null}
@@ -32,7 +32,7 @@
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"pois","propertySlug":"pois","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"processed-messages","propertySlug":"processed-messages","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"puzzles","propertySlug":"puzzles","fileName":null,"folderName":null}
-{"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"quests","propertySlug":"quests","fileName":null,"folderName":null}
+{"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"quests","propertySlug":"quests","fileName":null,"folderName":null,"writtenBy":"mine-row-landing"}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"reading-locations","propertySlug":"locations","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"readings","propertySlug":"readings","fileName":null,"folderName":null}
 {"pageTypeSlug":"page-property-entry","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"recipes","propertySlug":"recipes","fileName":null,"folderName":null}

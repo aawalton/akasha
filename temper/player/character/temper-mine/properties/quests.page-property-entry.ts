@@ -6,6 +6,7 @@ export const quests = {
   slug: "quests",
   propertySlug: "quests",
   definition: "every quest a sweep read out of the game, one quest to a line",
+  writtenBy: "module/mine-row-landing",
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "instant-property/mined-at", required: true, many: false },

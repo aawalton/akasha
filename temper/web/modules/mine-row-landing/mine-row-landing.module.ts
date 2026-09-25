@@ -80,10 +80,9 @@ export const mineRowLanding = {
       decisionKind: "decision-kind/departure",
       statement: "Every write puts the spans, so a write landing over another write is refused.",
     },
-
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Every writer of the mine's parts writes their spans as well.",
+      decisionKind: "decision-kind/departure",
+      statement: "`landMineRows` is the only writer of the mine's item and quest parts.",
     },
   ],
 } as const satisfies Module

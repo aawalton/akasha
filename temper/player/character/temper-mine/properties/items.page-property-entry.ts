@@ -6,6 +6,7 @@ export const items = {
   slug: "items",
   propertySlug: "items",
   definition: "every item a sweep read out of the game, one item to a line",
+  writtenBy: "module/mine-row-landing",
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "text-property/item-name", required: false, many: false },

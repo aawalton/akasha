@@ -1,3 +1,5 @@
+{"propertySlug":"entry-written-by","path":"temper/player/character/temper-mine/properties/items.page-property-entry.ts","id":"01a05fcd-f550-7cd2-9e3a-e8c18d91b7a8"}
+{"propertySlug":"entry-written-by","path":"temper/player/character/temper-mine/properties/quests.page-property-entry.ts","id":"01a05fcd-f553-7ed3-91d3-7f2ba2527f00"}
 {"propertySlug":"import","fileName":"mine-row-landing.module.code.ts","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mine-row-landing.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mine-row-landing.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.code.ts","typed":false,"deferred":false}
