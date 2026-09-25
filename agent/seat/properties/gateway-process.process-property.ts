@@ -5,6 +5,6 @@ export const gatewayProcess = {
   type: "page-type/process-property",
   slug: "gateway-process",
   propertySlug: "process",
-  definition: "the process serving a seat its model calls",
+  definition: "the process that calls the model for a seat",
   types: "ts",
 } as const satisfies ProcessProperty
