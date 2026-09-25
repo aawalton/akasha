@@ -36,12 +36,14 @@ export function buildAccountPicker(
   oauth: OAuthEffects,
   doors: PickerDoors = DOORS
 ): PickAccount {
-  let inflight: Promise<PickResult | null> | null = null
+  const inflight = new Map<string, Promise<PickResult | null>>()
   let before: string | null = null
 
   return async function pickAccount(exclude) {
-    if (inflight !== null) return inflight
     const excludes = excludesFrom(exclude)
+    const key = JSON.stringify([...excludes].sort())
+    const held = inflight.get(key)
+    if (held !== undefined) return held
     const work: Promise<PickResult | null> = (async () => {
       const picked = await oauth.getBestCredential(logPrefix, excludes)
       if (picked === null) return null
@@ -52,9 +54,9 @@ export function buildAccountPicker(
       }
       return { account }
     })().finally(() => {
-      if (inflight === work) inflight = null
+      if (inflight.get(key) === work) inflight.delete(key)
     })
-    inflight = work
+    inflight.set(key, work)
     return work
   }
 }

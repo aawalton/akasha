@@ -34,7 +34,12 @@ export const accountPicker = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A pick asked for while a pick is in flight is answered by the pick in flight.",
+      statement:
+        "A pick asked for while a pick with the same excludes is in flight is answered by the pick in flight.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pick whose excludes differ from every pick in flight is a pick of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -93,19 +98,15 @@ export const accountPicker = {
       statement: "Nothing here answers the token the chosen account has.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A pick in flight answers a caller whose excludes that pick never read.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The account picked before is remembered through a pick that answered nothing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here picks again when the account picked is refused upstream.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The log prefix is handed in once while the effects take that prefix each call.",
     },
   ],

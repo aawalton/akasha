@@ -133,14 +133,24 @@ test("the account picked before is remembered through a pick that answered nothi
   expect(one.lines).toEqual([`${PREFIX} bind account=aine`])
 })
 
-test("a pick asked for while a pick is in flight is answered by the pick in flight", async () => {
+test("a pick asked for while a pick with the same excludes is in flight is answered by the pick in flight", async () => {
+  const one = asked([pickOf("ctw"), pickOf("zed")])
+  const pick = buildAccountPicker(PREFIX, one.effects, one.doors)
+  const first = pick("aine")
+  const second = pick(new Set(["aine"]))
+  expect(await second).toEqual({ account: "ctw" })
+  expect(await first).toEqual({ account: "ctw" })
+  expect(one.seen.length).toBe(1)
+})
+
+test("a pick whose excludes differ from the pick in flight's is a pick of its own", async () => {
   const one = asked([pickOf("aine"), pickOf("ctw")])
   const pick = buildAccountPicker(PREFIX, one.effects, one.doors)
   const first = pick()
   const second = pick("aine")
-  expect(await second).toEqual({ account: "aine" })
   expect(await first).toEqual({ account: "aine" })
-  expect(one.seen.length).toBe(1)
+  expect(await second).toEqual({ account: "ctw" })
+  expect([...(one.seen[1] ?? new Set())]).toEqual(["aine"])
 })
 
 test("the pick in flight is let go once that pick settles", async () => {
