@@ -1,23 +1,14 @@
 import { createHash } from "node:crypto"
 import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { synthOne } from "akasha/infrastructure/cluster/k8s-type/modules/cdk8s-synth/cdk8s-synth.module.code.ts"
+import { resourcesIn } from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
+import type { WorkloadClass } from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
 import {
-  type Resources,
-  resourcesIn,
-} from "akasha/infrastructure/cluster/k8s-type/modules/container-resources/container-resources.module.code.ts"
-import {
-  type WorkloadClass,
-  workloadClassMemberSelector,
-} from "akasha/infrastructure/cluster/k8s-type/modules/hostnames/hostnames.module.code.ts"
-import { namespaceYaml } from "akasha/infrastructure/cluster/k8s-type/modules/k8s-namespace/k8s-namespace.module.code.ts"
-import { orchestratorCacheEntrypointPath } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-helpers/orchestrator-cache-helpers.module.code.ts"
-import {
-  CONTAINER_TMP_PATH,
-  CONTAINER_TMP_VOLUME,
-  ORCHESTRATOR_CACHE_REPO_PATH,
-} from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
-import { COMMIT_PLACEHOLDER } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
+  type CodeSync,
+  type Env,
+  manifestsOf,
+  type Stated,
+} from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-writing/workload-writing.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -42,20 +33,6 @@ const MANIFESTS = "manifests"
 
 const DEPLOYMENT = "Deployment"
 
-const CHECKSUM = "checksum/secrets"
-
-const COMPONENT = "frontend"
-
-const MANAGED_BY = "deploy-script"
-
-const TMP_SIZE = "1Gi"
-
-const RUN_AS = 1000
-
-const STOP_SECONDS = "5"
-
-const TIMEOUT_SECONDS = 5
-
 const TAGGED = /:[^/]+$/
 
 const WORKLOAD_CLASSES: readonly WorkloadClass[] = [
@@ -70,144 +47,12 @@ const WORKLOAD_CLASSES: readonly WorkloadClass[] = [
 
 const TURNS_UNDER = ["infrastructure/service/akasha-service/", "infrastructure/cluster/k8s-type/"]
 
-export type Env =
-  | { readonly name: string; readonly value: string }
-  | {
-      readonly name: string
-      readonly valueFrom: { readonly secretKeyRef: { readonly name: string; readonly key: string } }
-    }
-
-export type Stated = {
-  readonly image: string
-  readonly namespace: string
-  readonly resourceName: string
-  readonly replicas: number
-  readonly containerPort: number
-  readonly workloadClass: WorkloadClass
-  readonly probePath: string
-  readonly instance: string
-  readonly ownsNamespace: boolean
-  readonly sourceDirectory: string
-  readonly secretResource: string
-  readonly secretChecksum: string
-  readonly env: readonly Env[]
-  readonly resources: Resources
-}
-
 export type Written = {
   readonly edits: readonly (Adding | Replacing)[]
   readonly said: readonly string[]
 }
 
 const NOTHING_WRITTEN: Written = { edits: [], said: [] }
-
-type Labels = Readonly<Record<string, string>>
-
-type Probe = {
-  readonly httpGet: { readonly path: string; readonly port: number }
-  readonly initialDelaySeconds: number
-  readonly periodSeconds: number
-  readonly failureThreshold: number
-  readonly timeoutSeconds: number
-}
-
-function labelsOf(stated: Stated): Labels {
-  return {
-    "app.kubernetes.io/name": stated.resourceName,
-    "app.kubernetes.io/instance": stated.instance,
-    "app.kubernetes.io/component": COMPONENT,
-    "app.kubernetes.io/part-of": stated.namespace,
-    "app.kubernetes.io/managed-by": MANAGED_BY,
-  }
-}
-
-function selectorOf(stated: Stated): Labels {
-  return {
-    "app.kubernetes.io/name": stated.resourceName,
-    "app.kubernetes.io/instance": stated.instance,
-  }
-}
-
-function probeOf(stated: Stated, delay: number, period: number, failures: number): Probe {
-  return {
-    httpGet: { path: stated.probePath, port: stated.containerPort },
-    initialDelaySeconds: delay,
-    periodSeconds: period,
-    failureThreshold: failures,
-    timeoutSeconds: TIMEOUT_SECONDS,
-  }
-}
-
-function deploymentOf(stated: Stated): string {
-  const labels = labelsOf(stated)
-  return synthOne(stated.namespace, "deployment", {
-    apiVersion: "apps/v1",
-    kind: DEPLOYMENT,
-    metadata: { name: stated.resourceName, namespace: stated.namespace, labels },
-    spec: {
-      replicas: stated.replicas,
-      strategy: { type: "RollingUpdate", rollingUpdate: { maxSurge: 1, maxUnavailable: 0 } },
-      selector: { matchLabels: selectorOf(stated) },
-      template: {
-        metadata: { annotations: { [CHECKSUM]: stated.secretChecksum }, labels },
-        spec: {
-          nodeSelector: workloadClassMemberSelector(stated.workloadClass),
-          containers: [
-            {
-              name: stated.resourceName,
-              image: `${stated.image}:${COMMIT_PLACEHOLDER}`,
-              imagePullPolicy: "IfNotPresent",
-              workingDir: orchestratorCacheEntrypointPath(stated.sourceDirectory),
-              command: ["bun", "run", "server.ts"],
-              ports: [{ containerPort: stated.containerPort, protocol: "TCP" }],
-              envFrom: [{ secretRef: { name: stated.secretResource } }],
-              env: [
-                { name: "NODE_ENV", value: "production" },
-                { name: "AKASHA_ROOT", value: ORCHESTRATOR_CACHE_REPO_PATH },
-                { name: "HOST", value: "0.0.0.0" },
-                { name: "PORT", value: `${stated.containerPort}` },
-                ...stated.env,
-              ],
-              volumeMounts: [{ name: CONTAINER_TMP_VOLUME, mountPath: CONTAINER_TMP_PATH }],
-              resources: stated.resources,
-              securityContext: {
-                runAsNonRoot: true,
-                runAsUser: RUN_AS,
-                readOnlyRootFilesystem: true,
-                allowPrivilegeEscalation: false,
-                capabilities: { drop: ["ALL"] },
-              },
-              livenessProbe: probeOf(stated, 15, 10, 6),
-              readinessProbe: probeOf(stated, 5, 5, 12),
-              lifecycle: { preStop: { exec: { command: ["sleep", STOP_SECONDS] } } },
-            },
-          ],
-          volumes: [{ name: CONTAINER_TMP_VOLUME, emptyDir: { sizeLimit: TMP_SIZE } }],
-        },
-      },
-    },
-  })
-}
-
-function serviceOf(stated: Stated): string {
-  return synthOne(stated.namespace, "service", {
-    apiVersion: "v1",
-    kind: "Service",
-    metadata: { name: stated.resourceName, namespace: stated.namespace, labels: labelsOf(stated) },
-    spec: {
-      type: "ClusterIP",
-      selector: selectorOf(stated),
-      ports: [{ port: stated.containerPort, targetPort: stated.containerPort, protocol: "TCP" }],
-    },
-  })
-}
-
-export function manifestsOf(stated: Stated): string {
-  const opened = stated.ownsNamespace
-    ? [namespaceYaml(stated.namespace, { "kubernetes.io/metadata.name": stated.namespace })]
-    : []
-  return [...opened, deploymentOf(stated), serviceOf(stated)].join("---\n")
-}
 
 export function secretChecksumOf(sealed: ReadonlyMap<string, string>): string {
   const summed = [...sealed.entries()].sort((one, other) => one[0].localeCompare(other[0]))
@@ -231,6 +76,16 @@ function envIn(value: Value): readonly Env[] {
     found.push({ name, valueFrom: { secretKeyRef: { name: resource, key } } })
   }
   return found
+}
+
+function codeSyncIn(value: Value): CodeSync | null {
+  const held = recordsIn(value.codeSync)[0]
+  if (held === undefined) return null
+  const cachePath = textAt(held, "cachePath")
+  const minMemoryMb = numberAt(held, "minMemoryMb")
+  const killMemoryMb = numberAt(held, "killMemoryMb")
+  if (cachePath === null || minMemoryMb === null || killMemoryMb === null) return null
+  return { cachePath, minMemoryMb, killMemoryMb }
 }
 
 function workloadClassIn(value: Value): WorkloadClass | null {
@@ -274,7 +129,9 @@ function statedFor(change: Change, shadow: Shadow, value: Value): Found {
     }
   }
   const image = textAt(value, "image")
-  if (image === null || TAGGED.test(image)) {
+  const codeSync = codeSyncIn(value)
+  if (image === null) return { missing: `\`${slug}\` states no image` }
+  if (codeSync === null && TAGGED.test(image)) {
     return {
       missing: `\`${slug}\` states no image repository without a tag, the tag being the deploy's`,
     }
@@ -328,6 +185,7 @@ function statedFor(change: Change, shadow: Shadow, value: Value): Found {
       secretChecksum: secretChecksumOf(sealed),
       env: envIn(value),
       resources: resourcesIn(value),
+      codeSync,
     },
   }
 }

@@ -76,6 +76,7 @@ export const serviceCluster = {
     "change-generator/manifests-writing",
     "record-property/code-sync",
     "text-property/code-cache-path",
+    "module/workload-writing",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },

@@ -1541,6 +1541,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.ts","id":"01a05af7-5996-7000-9cf8-b27923a0672b"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.ts","id":"01a08ce6-65f4-7bdd-adf3-0187b1b35936"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.ts","id":"01a05af7-5996-7001-8793-177eb8ddfa66"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-writing/workload-writing.module.ts","id":"01a0d96d-1ec7-7e4c-a8c6-48a00560c8be"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/alanwalton-atlas/alanwalton-atlas.service-cluster.ts","id":"01a05b26-f8b6-718d-afa7-a3c62e0a1196"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/eso-rig/eso-rig.service-cluster.ts","id":"01a06866-58f8-774b-9824-ef1ea3f4ea3d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/loki/loki.service-cluster.ts","id":"01a06816-68b2-782a-9997-af90e9fdae8a"}

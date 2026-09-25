@@ -45,6 +45,15 @@ export const manifestsWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A cluster service keeping a checkout runs its page's image as stated and builds in its pod.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A checkout is reset to the checkout placeholder, which a deploy fills.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every page and body is read through the change rather than off the disk.",
     },
     {

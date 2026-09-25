@@ -5,6 +5,9 @@ export interface CacheLocation {
   readonly cloneOriginUrl: string
 }
 
+export const GIT_TRANSPORT_CLONE_URL =
+  "http://x-access-token:${GIT_ACCESS_TOKEN}@git-transport.git.svc.cluster.local:3000/alan/akasha.git"
+
 export const GIT_TRANSPORT_CACHE: CacheLocation = {
   backing: "emptyDir",
   hostPath: "/mnt/git-transport-cache",

@@ -3,7 +3,7 @@
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/network/cloudflared/cloudflared.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/network/headscale/headscale.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/network/tailnet-egress/tailnet-egress.manifest.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-writing/workload-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/storage/container-registry/registry/registry.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/telemetry/grafana/grafana.manifest.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"k8s-namespace.module.code.ts","path":"infrastructure/telemetry/prometheus/prometheus.manifest.code.ts","typed":false,"deferred":false}
