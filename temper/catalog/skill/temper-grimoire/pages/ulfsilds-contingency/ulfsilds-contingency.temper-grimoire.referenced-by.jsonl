@@ -7,3 +7,4 @@
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-ulfsilds-contingency-knockback.temper-scribed-skill.ts","id":"019e6471-15e9-7e6a-906e-d1ca3aa09f67"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-ulfsilds-contingency-magic-damage.temper-scribed-skill.ts","id":"019e6471-15ea-7cd5-8416-881cddc7705b"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-ulfsilds-contingency-shock-damage.temper-scribed-skill.ts","id":"019e6471-15eb-7cd9-9934-644683af8f97"}
+{"propertySlug":"import","fileName":"ulfsilds-contingency.temper-grimoire.affix-scripts.jsonl","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts","typed":false,"deferred":false}

@@ -6,3 +6,4 @@
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-shield-throw-physical-damage.temper-scribed-skill.ts","id":"019e6471-15b8-733c-8cc1-104429b13d0d"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-shield-throw-pull.temper-scribed-skill.ts","id":"019e6471-15b9-7250-bfc8-4eba81eef89d"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-shield-throw-taunt.temper-scribed-skill.ts","id":"019e6471-15ba-71eb-b259-a3fcda755d40"}
+{"propertySlug":"import","fileName":"shield-throw.temper-grimoire.affix-scripts.jsonl","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts","typed":false,"deferred":false}

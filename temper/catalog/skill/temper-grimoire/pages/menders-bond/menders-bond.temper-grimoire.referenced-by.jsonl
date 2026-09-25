@@ -5,3 +5,4 @@
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-menders-bond-magic-damage.temper-scribed-skill.ts","id":"019e6471-15b0-7bf4-85d7-2a2cbd4b66b5"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-menders-bond-mitigation.temper-scribed-skill.ts","id":"019e6471-15b1-7af7-91cb-9a1f93da475b"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-menders-bond-restore-resources.temper-scribed-skill.ts","id":"019e6471-15b2-7aab-b278-4d90fd0cb75e"}
+{"propertySlug":"import","fileName":"menders-bond.temper-grimoire.affix-scripts.jsonl","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts","typed":false,"deferred":false}

@@ -6,3 +6,4 @@
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-traveling-knife-poison-damage.temper-scribed-skill.ts","id":"019e6471-15e1-7592-997b-0d4aeb5252ad"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-traveling-knife-pull.temper-scribed-skill.ts","id":"019e6471-15e2-7420-a2ef-ab24fa489416"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-traveling-knife-stun.temper-scribed-skill.ts","id":"019e6471-15e3-75cb-8962-44bbb56c3b86"}
+{"propertySlug":"import","fileName":"traveling-knife.temper-grimoire.affix-scripts.jsonl","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts","typed":false,"deferred":false}

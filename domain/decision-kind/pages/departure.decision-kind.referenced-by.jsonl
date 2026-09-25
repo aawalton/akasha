@@ -4904,6 +4904,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-affix-script/modules/affix-script-pages/affix-script-pages.module.ts","id":"01a0d8a3-d5ac-798a-b287-7cde5870ec37"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-affix-script/properties/applied-debuffs.multi-relation-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-affix-script/properties/granted-buffs.one-of-property.ts","id":"01a0d893-0d21-7323-85a9-1c2a83fc8477"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.ts","id":"01a0d8d6-bfb1-7643-9c74-a5008642408e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.multi-relation-property.ts","id":"01a05fca-cb88-7387-b51b-731bff669c39"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-script/properties/slot-type.select-property.ts","id":"01a0cb51-43bc-7ff6-9fdc-0477fff8a78d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-catalog.domain.ts","id":"01a05fac-7580-7d88-a660-0f4eff1ab95e"}

@@ -7,6 +7,7 @@ export const temperGrimoire = {
   definition: "a book holding the skill a character scribes",
   extends: ["page-type/temper-scribing-thing"],
   parts: [
+    "module/grimoire-affix-rows",
     "page-property-entry/affix-scripts",
     "page-property-entry/signature-scripts",
     "text-property/ability-icon",

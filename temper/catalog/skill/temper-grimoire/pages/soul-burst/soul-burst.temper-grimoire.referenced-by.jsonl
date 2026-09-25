@@ -9,3 +9,4 @@
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-soul-burst-physical-damage.temper-scribed-skill.ts","id":"019e6471-15ca-77cf-8414-54c4f1ecbd9a"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-soul-burst-pull.temper-scribed-skill.ts","id":"019e6471-15cb-7739-bb78-95e8311f0e04"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-soul-burst-shock-damage.temper-scribed-skill.ts","id":"019e6471-15cc-7744-a5d0-5839f283cf0f"}
+{"propertySlug":"import","fileName":"soul-burst.temper-grimoire.affix-scripts.jsonl","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts","typed":false,"deferred":false}

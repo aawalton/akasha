@@ -6,3 +6,4 @@
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-vault-physical-damage.temper-scribed-skill.ts","id":"019e6471-15f1-73b1-a7e2-6a13bb1bdb88"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-vault-poison-damage.temper-scribed-skill.ts","id":"019e6471-15f2-7166-97a0-626767b001d8"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-vault-taunt.temper-scribed-skill.ts","id":"019e6471-15f2-7ff2-bfbd-1577e214d57f"}
+{"propertySlug":"import","fileName":"vault.temper-grimoire.affix-scripts.jsonl","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts","typed":false,"deferred":false}

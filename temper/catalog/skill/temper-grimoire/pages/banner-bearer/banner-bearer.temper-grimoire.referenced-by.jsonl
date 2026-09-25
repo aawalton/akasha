@@ -6,3 +6,4 @@
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-banner-bearer-physical-damage.temper-scribed-skill.ts","id":"019e6471-159d-7dc5-b1b0-e2a913419032"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-banner-bearer-restore-resources.temper-scribed-skill.ts","id":"019e6471-159f-7589-8387-0ebe410bb8a3"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-banner-bearer-shock-damage.temper-scribed-skill.ts","id":"019e6471-15a0-7bcb-b4de-3195f0ff0fd4"}
+{"propertySlug":"import","fileName":"banner-bearer.temper-grimoire.affix-scripts.jsonl","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts","typed":false,"deferred":false}

@@ -6,3 +6,4 @@
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-torchbearer-knockback.temper-scribed-skill.ts","id":"019e6471-15d2-723a-8f9d-d9a283ec54e4"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-torchbearer-physical-damage.temper-scribed-skill.ts","id":"019e6471-15d3-72b1-a018-b801c227b835"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-torchbearer-stun.temper-scribed-skill.ts","id":"019e6471-15d4-715d-92f9-31e7853df28e"}
+{"propertySlug":"import","fileName":"torchbearer.temper-grimoire.affix-scripts.jsonl","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts","typed":false,"deferred":false}

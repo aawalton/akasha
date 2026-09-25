@@ -7,3 +7,4 @@
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-elemental-explosion-shock-damage.temper-scribed-skill.ts","id":"019e6471-15aa-752b-890d-0c2ed21df9b4"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-elemental-explosion-stun.temper-scribed-skill.ts","id":"019e6471-15ab-7473-89e0-d26cf9c1486e"}
 {"propertySlug":"grimoire-id","path":"temper/catalog/skill/temper-scribed-skill/pages/scribed-elemental-explosion-trauma.temper-scribed-skill.ts","id":"019e6471-15ac-73f1-aff3-6dae761ad6e7"}
+{"propertySlug":"import","fileName":"elemental-explosion.temper-grimoire.affix-scripts.jsonl","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.code.ts","typed":false,"deferred":false}
