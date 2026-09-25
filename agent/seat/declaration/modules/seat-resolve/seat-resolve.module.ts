@@ -34,6 +34,10 @@ export const seatResolve = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A default naming a page by its address is read as the slug that address names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slot nobody stated takes its default, and a slot with no default stays unsaid.",
     },
     {

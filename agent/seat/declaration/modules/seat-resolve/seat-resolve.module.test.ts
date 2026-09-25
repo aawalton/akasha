@@ -13,6 +13,7 @@ import { role as seatRole } from "akasha/agent/seat/properties/role.relation-pro
 import { seatPersona } from "akasha/agent/seat/properties/seat-persona.relation-property.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
 import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
 
@@ -23,7 +24,7 @@ const UNDECLARED = ""
 function declaredDefault(property: string): string {
   const stated = seat.properties.find((one) => one.pageProperty === property)
   if (stated === undefined || !("default" in stated)) return UNDECLARED
-  return stated.default
+  return slugOf(String(stated.default))
 }
 
 const PERSONA = declaredDefault(`${relationProperty.slug}/${seatPersona.slug}`)
@@ -38,6 +39,11 @@ test("the seat page type declares a persona and a role for a seat that states ne
 test("a default is read under the slug of the property declaring it", () => {
   expect(defaultFor("persona", ROOT)).toBe(PERSONA)
   expect(defaultFor("role", ROOT)).toBe(ROLE)
+})
+
+test("a default stated as a page's address is read as the slug that address names", () => {
+  expect(defaultFor("persona", ROOT)).not.toContain("/")
+  expect(defaultFor("role", ROOT)).not.toContain("/")
 })
 
 test("every slot the seat page type gives a default is a slot a default is taken for", () => {

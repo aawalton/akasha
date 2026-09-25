@@ -31,7 +31,7 @@ function defaultPersona(): string | null {
   for (const one of seat.properties) {
     if (slugOf(one.pageProperty) !== PERSONA_SLUG_PROPERTY) continue
     const value: unknown = "default" in one ? one.default : undefined
-    return typeof value === "string" ? value : null
+    return typeof value === "string" ? slugOf(value) : null
   }
   return null
 }

@@ -62,7 +62,7 @@ function statedDefaults(root: string): ReadonlyMap<string, string> {
   for (const one of seatPageType.properties) {
     const slot = SLOT_OF[slugOf(one.pageProperty)]
     const value = "default" in one ? one.default : undefined
-    if (slot !== undefined && typeof value === "string") made.set(slot, value)
+    if (slot !== undefined && typeof value === "string") made.set(slot, slugOf(value))
   }
   defaults.set(root, made)
   return made
