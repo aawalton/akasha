@@ -41,10 +41,10 @@
 									<Anchor point="LEFT" offsetY="-2" />
 
 									<Textures
-										normal="TemperCombat/icons/leftarrowup.dds"
-										pressed="TemperCombat/icons/leftarrowdown.dds"
-										mouseOver="TemperCombat/icons/leftarrowover.dds"
-										disabled="TemperCombat/icons/leftarrowdisabled.dds"
+										normal="TemperCombat/art/leftarrowup.dds"
+										pressed="TemperCombat/art/leftarrowover.dds"
+										mouseOver="TemperCombat/art/leftarrowover.dds"
+										disabled="TemperCombat/art/leftarrowdisabled.dds"
 									/>
 
 									<OnInitialized>
@@ -59,10 +59,10 @@
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Previous" offsetX="4" />
 
 									<Textures
-										normal="TemperCombat/icons/rightarrowup.dds"
-										pressed="TemperCombat/icons/rightarrowdown.dds"
-										mouseOver="TemperCombat/icons/rightarrowover.dds"
-										disabled="TemperCombat/icons/rightarrowdisabled.dds"
+										normal="TemperCombat/art/rightarrowup.dds"
+										pressed="TemperCombat/art/rightarrowover.dds"
+										mouseOver="TemperCombat/art/rightarrowover.dds"
+										disabled="TemperCombat/art/rightarrowdisabled.dds"
 									/>
 
 									<OnInitialized>
@@ -77,10 +77,10 @@
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Next" offsetX="4" />
 
 									<Textures
-										normal="TemperCombat/icons/endarrowup.dds"
-										pressed="TemperCombat/icons/endarrowdown.dds"
-										mouseOver="TemperCombat/icons/endarrowover.dds"
-										disabled="TemperCombat/icons/endarrowdisabled.dds"
+										normal="TemperCombat/art/endarrowup.dds"
+										pressed="TemperCombat/art/endarrowover.dds"
+										mouseOver="TemperCombat/art/endarrowover.dds"
+										disabled="TemperCombat/art/endarrowdisabled.dds"
 									/>
 
 									<OnInitialized>
@@ -94,10 +94,10 @@
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Last" offsetX="4" />
 
 									<Textures
-										normal="TemperCombat/icons/loadiconup.dds"
-										pressed="TemperCombat/icons/loadicondown.dds"
-										mouseOver="TemperCombat/icons/loadiconover.dds"
-										disabled="TemperCombat/icons/loadicondisabled.dds"
+										normal="TemperCombat/art/loadiconup.dds"
+										pressed="TemperCombat/art/loadiconover.dds"
+										mouseOver="TemperCombat/art/loadiconover.dds"
+										disabled="TemperCombat/art/loadicondisabled.dds"
 									/>
 
 									<OnInitialized>
@@ -111,10 +111,10 @@
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Load" offsetX="4" />
 
 									<Textures
-										normal="TemperCombat/icons/saveiconup.dds"
-										pressed="TemperCombat/icons/saveicondown.dds"
-										mouseOver="TemperCombat/icons/saveiconover.dds"
-										disabled="TemperCombat/icons/saveicondisabled.dds"
+										normal="TemperCombat/art/saveiconup.dds"
+										pressed="TemperCombat/art/saveiconover.dds"
+										mouseOver="TemperCombat/art/saveiconover.dds"
+										disabled="TemperCombat/art/saveicondisabled.dds"
 									/>
 
 									<OnInitialized>
@@ -128,10 +128,10 @@
 									<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Save" offsetX="4" />
 
 									<Textures
-										normal="TemperCombat/icons/deleteicon2up.dds"
-										pressed="TemperCombat/icons/deleteicon2down.dds"
-										mouseOver="TemperCombat/icons/deleteicon2over.dds"
-										disabled="TemperCombat/icons/deleteicon2disabled.dds"
+										normal="TemperCombat/art/deleteicon2up.dds"
+										pressed="TemperCombat/art/deleteicon2over.dds"
+										mouseOver="TemperCombat/art/deleteicon2over.dds"
+										disabled="TemperCombat/art/deleteicon2disabled.dds"
 									/>
 
 									<OnInitialized>
@@ -828,7 +828,7 @@
 													<OnInitialized>
 														self.tooltip = {SI_TEMPER_COMBAT_GOTO_PREVIOUS}
 														self.func = -1
-														self.texture = "TemperCombat/icons/leftarrowover.dds"
+														self.texture = "TemperCombat/art/leftarrowover.dds"
 													</OnInitialized>
 												</Control>
 
@@ -895,7 +895,7 @@
 													<OnInitialized>
 														self.tooltip = {SI_TEMPER_COMBAT_GOTO_NEXT}
 														self.func = 1
-														self.texture = "TemperCombat/icons/rightarrowover.dds"
+														self.texture = "TemperCombat/art/rightarrowover.dds"
 													</OnInitialized>
 												</Control>
 
