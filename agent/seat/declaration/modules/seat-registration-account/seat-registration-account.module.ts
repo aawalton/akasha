@@ -4,7 +4,7 @@ export const seatRegistrationAccount = {
   id: "01a06949-b281-7f25-beab-a1bc8f5ade76",
   type: "page-type/module",
   slug: "seat-registration-account",
-  definition: "the account a seat is enrolled under, read from its page",
+  definition: "how code reads the model account of a seat",
   code: "ts",
   decisions: [
     {
