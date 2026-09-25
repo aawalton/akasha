@@ -18,5 +18,6 @@
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-task-landing/watcher-task-landing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-task-landing/watcher-task-landing.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"watcher-page-landing.module.code.ts","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-page-landing.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/watcher/temper-watcher.service-workstation.ts","id":"01a06039-9c8b-7942-a8fc-234055602831"}

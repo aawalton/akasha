@@ -12,4 +12,6 @@
 {"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"page/service/modules/kept-rows/kept-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"page/service/modules/page-appending/page-appending.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"entry-ceiling.module.code.ts","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
