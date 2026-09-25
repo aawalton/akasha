@@ -21,7 +21,7 @@ const SLUG = "slug"
 
 const SCOPED = "page-property"
 
-function scopeKeysIn(pages: readonly PageWithProperties[]): ReadonlyMap<string, string> {
+export function scopeKeysIn(pages: readonly PageWithProperties[]): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   for (const page of pages) {
     const pageTypeSlug = textAt(page, SLUG)
@@ -35,7 +35,7 @@ function scopeKeysIn(pages: readonly PageWithProperties[]): ReadonlyMap<string, 
   return found
 }
 
-function addressOf(
+export function addressOf(
   page: PageWithProperties,
   slugById: ReadonlyMap<string, string>,
   scopeKeys: ReadonlyMap<string, string>

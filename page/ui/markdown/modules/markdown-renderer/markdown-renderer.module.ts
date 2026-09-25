@@ -16,5 +16,9 @@ export const markdownRenderer = {
       decisionKind: "decision-kind/departure",
       statement: "A link naming a page no reader has found yet is drawn as its words alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A link finds its page by the address the page resolver keys that page by.",
+    },
   ],
 } as const satisfies Module

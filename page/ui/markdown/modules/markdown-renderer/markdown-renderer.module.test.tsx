@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { bookSection } from "akasha/alan/collection/reading/book-section/book-section.page-type.ts"
 import {
   MarkdownRenderer,
   pageNamedIn,
@@ -16,12 +17,55 @@ const LEVEL_AT = `${TOPIC}/${LEVEL}`
 
 const LEVEL_ID = "01a0657d-b91d-7600-a17e-e29618171ec3"
 
+const BOOK = "my-strategy"
+
+const OTHER_BOOK = "my-math"
+
+const SECTION = "book-chapter-010-what-sorts-a-channel"
+
+const SECTION_AT = `${bookSection.slug}/${BOOK}/${SECTION}`
+
+const SECTION_ID = "01a0658d-fe50-7001-976d-0000aaaa0001"
+
+const OTHER_SECTION_ID = "01a0658d-fe50-7001-976d-0000bbbb0002"
+
+const SECTION_TYPE_ROW = asPageRow({
+  id: bookSection.id,
+  slug: bookSection.slug,
+  pageTypeSlug: "page-type",
+  properties: bookSection.properties,
+})
+
+function sectionRow(id: string, book: string) {
+  return asPageRow({
+    id,
+    slug: SECTION,
+    title: SECTION,
+    pageTypeSlug: bookSection.slug,
+    sectionOf: `book/${book}`,
+  })
+}
+
 function drawn(content: string): Document {
   return new JSDOM(renderToStaticMarkup(<MarkdownRenderer content={content} />)).window.document
 }
 
 test("a page type and a slug name a page", () => {
-  expect(pageNamedIn(LEVEL_AT)).toEqual({ pageTypeSlug: TOPIC, slug: LEVEL })
+  expect(pageNamedIn(LEVEL_AT)).toEqual({ pageTypeSlug: TOPIC, scope: null, slug: LEVEL })
+})
+
+test("a page type, a scope and a slug name a page", () => {
+  expect(pageNamedIn(SECTION_AT)).toEqual({
+    pageTypeSlug: bookSection.slug,
+    scope: BOOK,
+    slug: SECTION,
+  })
+})
+
+test("an address past three parts, or with a part that is no slug, names no page", () => {
+  expect(pageNamedIn(`${SECTION_AT}/more`)).toBe(null)
+  expect(pageNamedIn(`${bookSection.slug}/My-Strategy/${SECTION}`)).toBe(null)
+  expect(pageNamedIn(`${bookSection.slug}//${SECTION}`)).toBe(null)
 })
 
 test("a web address names no page, however its slashes fall", () => {
@@ -51,14 +95,39 @@ test("an address that names no page type draws no page link", () => {
 })
 
 test("a page found by its address is read where every other page of its type is read", () => {
-  const row = asPageRow({ id: LEVEL_ID, slug: LEVEL, title: "Safety Level" })
-  expect(readingHrefOf({ pageTypeSlug: TOPIC, slug: LEVEL }, [row])).toBe(
+  const row = asPageRow({ id: LEVEL_ID, slug: LEVEL, title: "Safety Level", pageTypeSlug: TOPIC })
+  expect(readingHrefOf({ pageTypeSlug: TOPIC, scope: null, slug: LEVEL }, [row])).toBe(
     `/${TOPIC}/${LEVEL}-18171ec3`
   )
 })
 
 test("an address no page answers has nowhere to be read", () => {
-  expect(readingHrefOf({ pageTypeSlug: TOPIC, slug: LEVEL }, [])).toBe(null)
+  expect(readingHrefOf({ pageTypeSlug: TOPIC, scope: null, slug: LEVEL }, [])).toBe(null)
+})
+
+test("a scoped page is read where its own scope says, though another scope shares its slug", () => {
+  const rows = [
+    SECTION_TYPE_ROW,
+    sectionRow(OTHER_SECTION_ID, OTHER_BOOK),
+    sectionRow(SECTION_ID, BOOK),
+  ]
+  expect(readingHrefOf({ pageTypeSlug: bookSection.slug, scope: BOOK, slug: SECTION }, rows)).toBe(
+    `/${bookSection.slug}/${SECTION}-aaaa0001`
+  )
+})
+
+test("a scoped page is not found before its page type says what scopes it", () => {
+  const rows = [sectionRow(SECTION_ID, BOOK)]
+  expect(readingHrefOf({ pageTypeSlug: bookSection.slug, scope: BOOK, slug: SECTION }, rows)).toBe(
+    null
+  )
+})
+
+test("an address naming no scope finds no page whose slug is scoped", () => {
+  const rows = [SECTION_TYPE_ROW, sectionRow(SECTION_ID, BOOK)]
+  expect(readingHrefOf({ pageTypeSlug: bookSection.slug, scope: null, slug: SECTION }, rows)).toBe(
+    null
+  )
 })
 
 test("a web link opens where it pointed, in a tab of its own", () => {
@@ -71,4 +140,10 @@ test("a page link is never drawn at its address, so no broken link shows before 
   const document = drawn(`[the levels](${LEVEL_AT})`)
   expect(document.querySelector("a")).toBe(null)
   expect(document.body.textContent).toContain("the levels")
+})
+
+test("a scoped page link is never drawn at its address either", () => {
+  const document = drawn(`[the channel](${SECTION_AT})`)
+  expect(document.querySelector("a")).toBe(null)
+  expect(document.body.textContent).toContain("the channel")
 })
