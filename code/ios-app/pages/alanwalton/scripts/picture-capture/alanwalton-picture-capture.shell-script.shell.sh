@@ -106,7 +106,7 @@ final class PictureCaptureViewController: UIViewController, AVCapturePhotoCaptur
     /// Why a press could not take a picture just now, in words Alan reads on the phone.
     var whyNotReady: String {
         if denied {
-            return "Camera access is off for alanwalton. Allow it under Settings, Privacy & Security, Camera, then press again."
+            return "Camera access is off for this app. Allow it under Settings, Privacy & Security, Camera, then press again."
         }
         if interrupted { return "The camera is in use elsewhere. Press again once it is free." }
         return "The camera is still starting. Press again in a moment."
