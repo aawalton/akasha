@@ -195,8 +195,13 @@ export const blockCombinedAkashaCalls = {
       statement: "No approved form has shell structure.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "`akasha` reached under another name is judged as `akasha` named outright is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A call this hook never finds is judged when it runs, against the command the shell was handed.",
     },
   ],
 } as const satisfies AgentHook
