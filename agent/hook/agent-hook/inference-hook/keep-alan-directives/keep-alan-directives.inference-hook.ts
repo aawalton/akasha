@@ -79,10 +79,7 @@ export const keepAlanDirectives = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges a tool call.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A turn held open twice running says so to the person.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:
