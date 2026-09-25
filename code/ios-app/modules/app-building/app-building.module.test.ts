@@ -5,6 +5,8 @@ import { alanwalton } from "akasha/code/ios-app/pages/alanwalton/alanwalton.ios-
 import { smilingjenny } from "akasha/code/ios-app/pages/smilingjenny/smilingjenny.ios-app.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import { listedFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 
 const root = rootOf(import.meta.dir)
@@ -44,6 +46,15 @@ test("an app naming no build script is refused rather than walked to", () => {
   const held = planFor(namingNoBuildScript(), "quiet")
   expect("refused" in held).toBe(true)
   expect("refused" in held ? held.refused.join(" ") : "").toContain("build-script")
+})
+
+test("an app is planned from the pages handed in rather than from the checkout", () => {
+  const held = planFor(readingNone(), "alanwalton")
+  expect("refused" in held ? held.refused.join(" ") : "").toContain("alanwalton")
+})
+
+test("the pages a commit holds plan the app that commit holds", () => {
+  expect(planFor(pagesAt(root, "HEAD"), "alanwalton")).toEqual(planned("alanwalton"))
 })
 
 test("both apps are built by the one script sitting above them", () => {

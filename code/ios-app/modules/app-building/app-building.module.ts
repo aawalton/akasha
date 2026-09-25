@@ -48,5 +48,14 @@ export const appBuilding = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reaches a machine.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An app is planned from the pages handed in, which may be the pages a commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The akasha manifest is read from those pages too.",
+    },
   ],
 } as const satisfies Module
