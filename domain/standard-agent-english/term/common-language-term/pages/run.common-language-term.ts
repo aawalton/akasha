@@ -10,5 +10,6 @@ export const run = {
     { partOfSpeech: "part-of-speech/verb", spelling: "runs" },
     { partOfSpeech: "part-of-speech/noun", spelling: "run" },
     { partOfSpeech: "part-of-speech/noun", spelling: "runs" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "run" },
   ],
 } as const satisfies CommonLanguageTerm
