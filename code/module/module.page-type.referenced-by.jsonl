@@ -6352,7 +6352,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/player-settings/player-settings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/poi-progress-panel-card/poi-progress-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/potion-select-dialog/potion-select-dialog.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/pricing-post-answer/pricing-post-answer.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/quest-progress-panel-card/quest-progress-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/race-select-dialog/race-select-dialog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/recent-characters-card/recent-characters-card.module.ts","typed":true,"deferred":false}

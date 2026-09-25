@@ -64,6 +64,4 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/routes/api-watcher-upsert-listings/api-watcher-upsert-listings.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/routes/api-watcher-upsert-pricing-extract/api-watcher-upsert-pricing-extract.route.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/web/routes/api-watcher-upsert-pricing-snapshot/api-watcher-upsert-pricing-snapshot.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

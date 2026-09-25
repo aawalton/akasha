@@ -1,6 +1,5 @@
 {"propertySlug":"import","fileName":"watcher-token-check.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"watcher-token-check.module.code.ts","path":"temper/watcher/modules/watcher-worker/watcher-worker.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"watcher-token-check.module.code.ts","path":"temper/web/modules/pricing-post-answer/pricing-post-answer.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-token-check.module.code.ts","path":"temper/web/routes/api-watcher-upsert-listings/api-watcher-upsert-listings.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-token-check.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"watcher-token-check.module.code.ts","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.code.ts","typed":false,"deferred":false}

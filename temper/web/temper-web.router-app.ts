@@ -239,7 +239,6 @@ export const temperWeb = {
     "module/player-settings",
     "module/poi-progress-panel-card",
     "module/potion-select-dialog",
-    "module/pricing-post-answer",
     "module/quest-progress-panel-card",
     "module/race-select-dialog",
     "module/recent-characters-card",

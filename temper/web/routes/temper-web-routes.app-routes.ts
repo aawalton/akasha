@@ -21,8 +21,6 @@ export const temperWebRoutes = {
     "route/api-watcher-upsert-listings",
     "route/api-watcher-upsert-mined-items",
     "route/api-watcher-upsert-mined-quests",
-    "route/api-watcher-upsert-pricing-extract",
-    "route/api-watcher-upsert-pricing-snapshot",
     "route/api-watcher-version",
     "route/api-watcher-worker-download",
     "route/api-watcher-worker-version",
