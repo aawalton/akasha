@@ -6,6 +6,7 @@ import {
   heldIn,
   isSeatScope,
   opened,
+  paneScopeIn,
   seatScopeIn,
   turnedOn,
 } from "akasha/agent/seat/launching/modules/seat-grouping/seat-grouping.module.code.ts"
@@ -40,6 +41,19 @@ test("a group that is no seat's scope is left alone", () => {
   expect(seatScopeIn("0::/user.slice/app.slice/tmux-spawn-a.scope\n")).toBe(
     "/sys/fs/cgroup/user.slice/app.slice/tmux-spawn-a.scope"
   )
+})
+
+test("a pane's scope is named by its unit wherever it sits in the group", () => {
+  expect(paneScopeIn("0::/user.slice/seats.slice/tmux-spawn-a.scope\n")).toBe("tmux-spawn-a.scope")
+  expect(paneScopeIn("0::/user.slice/seats.slice/tmux-spawn-a.scope/agent\n")).toBe(
+    "tmux-spawn-a.scope"
+  )
+})
+
+test("a pane in no scope tmux made names no scope", () => {
+  expect(paneScopeIn("0::/user.slice/app.slice/tmux-seat-ember-7.scope\n")).toBe(null)
+  expect(paneScopeIn("0::/user.slice/app.slice/tmux-spawn-a\n")).toBe(null)
+  expect(paneScopeIn("")).toBe(null)
 })
 
 test("every process the scope held moves into one child of that scope", () => {

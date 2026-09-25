@@ -3,6 +3,7 @@ import {
   ptyProxyRel,
   supervisorRel,
 } from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
+import { paneScopeIn } from "akasha/agent/seat/launching/modules/seat-grouping/seat-grouping.module.code.ts"
 import { sessionHeld } from "akasha/agent/seat/modules/tmux-session/tmux-session.module.code.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { cpuShare } from "akasha/infrastructure/cpu/limit/properties/cpu-share.number-property.ts"
@@ -34,6 +35,8 @@ const SEAT_SHARE = seatShare()
 
 const SEAT_TASKS = 2000
 
+const TASKS_CAP = `TasksMax=${String(SEAT_TASKS)}`
+
 const SCOPE_FLAGS: readonly string[] = [
   "--user",
   "--scope",
@@ -42,7 +45,7 @@ const SCOPE_FLAGS: readonly string[] = [
   "-p",
   `CPUWeight=${String(SEAT_SHARE)}`,
   "-p",
-  `TasksMax=${String(SEAT_TASKS)}`,
+  TASKS_CAP,
 ]
 
 const SCRATCH_AT = "/var/tmp"
@@ -112,6 +115,10 @@ export function scopeArgv(unit: string): readonly string[] {
 
 export function scopeShell(unitExpansion: string): string {
   return [SCOPE_COMMAND, ...SCOPE_FLAGS, unitExpansion].join(" ")
+}
+
+export function paneCapArgv(scope: string): readonly string[] {
+  return ["systemctl", "--user", "set-property", "--runtime", scope, TASKS_CAP]
 }
 
 export function scopeUnitFor(name: string, at: number): string {
@@ -261,8 +268,31 @@ async function paneOf(how: Spawning, name: string): Promise<string | null> {
   return first === "" ? null : first
 }
 
+async function paneCapped(how: Spawning, name: string, pid: number): Promise<string | null> {
+  const group = await how.ran(["cat", `/proc/${String(pid)}/cgroup`])
+  const scope = group.code === 0 ? paneScopeIn(group.out) : null
+  if (scope === null) {
+    return (
+      `the pane of \`${name}\` sits in no scope tmux made ('${group.out || group.err}'), so ` +
+      `no \`${TASKS_CAP}\` reaches it`
+    )
+  }
+  const set = await how.ran(paneCapArgv(scope))
+  if (set.code === 0) return null
+  return (
+    `\`${scope}\` for \`${name}\` would not take \`${TASKS_CAP}\` ` +
+    `(exit ${String(set.code)}): ${set.err || set.out}`
+  )
+}
+
 export type Launching =
-  | { readonly launched: { readonly name: string; readonly pid: number } }
+  | {
+      readonly launched: {
+        readonly name: string
+        readonly pid: number
+        readonly uncapped: string | null
+      }
+    }
   | { readonly refused: string }
 
 export async function launching(
@@ -320,5 +350,5 @@ export async function launching(
     }
   }
 
-  return { launched: { name, pid } }
+  return { launched: { name, pid, uncapped: await paneCapped(how, name, pid) } }
 }

@@ -11,6 +11,8 @@ const CONTROL = "cgroup.subtree_control"
 
 const SCOPE = "tmux-spawn-"
 
+const UNIT = ".scope"
+
 const AGENT = "agent"
 
 const CPU = "cpu"
@@ -24,6 +26,12 @@ export function groupIn(text: string): string | null {
 
 export function isSeatScope(own: string): boolean {
   return (own.split("/").at(-1) ?? "").startsWith(SCOPE)
+}
+
+export function paneScopeIn(text: string): string | null {
+  const own = groupIn(text)
+  if (own === null) return null
+  return own.split("/").find((one) => one.startsWith(SCOPE) && one.endsWith(UNIT)) ?? null
 }
 
 export function seatScopeIn(text: string): string | null {

@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/launching/modules/seat-start/seat-start.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/launching/seat-launching.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/launching/seat-launching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/reviving/modules/resume-seat/resume-seat.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"agent/seat/reviving/modules/seat-reset/seat-reset.module.code.ts","typed":false,"deferred":false}
@@ -8,4 +9,5 @@
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-launchers/terminal-seat-launchers.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-stating/terminal-seat-stating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-launching.module.code.ts","path":"code/shell/terminal/modules/terminal-seat-stating/terminal-seat-stating.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-launching.module.test-fixtures.ts","path":"agent/seat/launching/seat-launching.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/seat/seat.page-type.ts","id":"01a05035-2609-7463-ba49-ccaf20f5c337"}

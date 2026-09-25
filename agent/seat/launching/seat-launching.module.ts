@@ -21,6 +21,7 @@ export const seatLaunching = {
   ],
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -66,8 +67,17 @@ export const seatLaunching = {
       statement: "That scope bounds how many tasks the tmux server under it may make.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The pane scope tmux makes for a seat bounds how many tasks that seat may make.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pane scope is given that bound once the seat has lived past its boot.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pane scope that would not take the bound is reported, and the launch is not refused.",
     },
     {
       decisionKind: "decision-kind/absence",
@@ -161,7 +171,7 @@ export const seatLaunching = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A launch onto a tmux server already up makes no scope, so no cap of its own reaches it.",
+        "A launch onto a tmux server already up makes no scope, so only the pane scope's cap reaches it.",
     },
     {
       decisionKind: "decision-kind/departure",

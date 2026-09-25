@@ -1,10 +1,5 @@
 import { expect, test } from "bun:test"
 import {
-  ptyProxyRel,
-  supervisorRel,
-} from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
-import {
-  type Answer,
   accountFor,
   envScrubArgv,
   envScrubShell,
@@ -12,9 +7,8 @@ import {
   launching,
   launchModeFlags,
   newSessionArgv,
+  paneCapArgv,
   pidIn,
-  type SeatLaunch,
-  type Spawning,
   scopeArgv,
   scopeShell,
   scopeUnitFor,
@@ -29,50 +23,17 @@ import {
   supervisorEntryShell,
   underScope,
 } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
-
-const ROOT = "/repos/akasha"
-
-const START_DIR = "/repos"
-
-const PROXY_AT = `${ROOT}/${ptyProxyRel()}`
-
-const SUPERVISOR_AT = `${ROOT}/${supervisorRel()}`
-
-const SECRETS_LINE =
-  'set -a; [ -f "$HOME/.secrets.env" ] && . "$HOME/.secrets.env"; set +a; exec "$@"'
-
-function asked(over: Partial<SeatLaunch> = {}): SeatLaunch {
-  return {
-    name: "athena",
-    agentId: "athena-a2de5a24130090204",
-    account: "aawalton",
-    prompt: "",
-    mode: "interactive",
-    ...over,
-  }
-}
-
-function answer(over: Partial<Answer> = {}): Answer {
-  return { code: 0, out: "", err: "", ...over }
-}
-
-function fake(
-  answers: (cmd: readonly string[]) => Answer,
-  held: readonly boolean[]
-): { readonly how: Spawning; readonly calls: readonly (readonly string[])[] } {
-  const calls: (readonly string[])[] = []
-  const heldAt = [...held]
-  const how: Spawning = {
-    ran: (cmd) => {
-      calls.push(cmd)
-      return Promise.resolve(answers(cmd))
-    },
-    held: () => Promise.resolve(heldAt.shift() ?? false),
-    at: () => 1700000000000,
-    settle: () => Promise.resolve(),
-  }
-  return { how, calls }
-}
+import {
+  answer,
+  asked,
+  fake,
+  launchedWith,
+  PROXY_AT,
+  ROOT,
+  SECRETS_LINE,
+  START_DIR,
+  SUPERVISOR_AT,
+} from "akasha/agent/seat/launching/seat-launching.module.test-fixtures.ts"
 
 test("the terminal's own tmux variables are scrubbed from what a seat inherits", () => {
   expect(envScrubArgv()).toEqual([
@@ -391,18 +352,75 @@ test("a name a live session already carries refuses the launch", async () => {
   expect(calls).toEqual([])
 })
 
-test("a launch onto a running server reports the pane pid", async () => {
+test("a pane's cap is set on its scope for this run of the manager alone", () => {
+  expect(paneCapArgv("tmux-spawn-a.scope")).toEqual([
+    "systemctl",
+    "--user",
+    "set-property",
+    "--runtime",
+    "tmux-spawn-a.scope",
+    "TasksMax=2000",
+  ])
+})
+
+test("a launch onto a running server caps the scope tmux made for the pane", async () => {
+  const { how, calls } = launchedWith(() => null)
+  const said = await launching(asked(), ROOT, how)
+  expect(said).toEqual({ launched: { name: "athena", pid: 4242, uncapped: null } })
+  expect(calls).toContainEqual(["cat", "/proc/4242/cgroup"])
+  expect(calls).toContainEqual(paneCapArgv("tmux-spawn-a.scope"))
+})
+
+test("a launch that begins the server caps the pane's scope as well", async () => {
+  const { how, calls } = launchedWith((cmd) =>
+    cmd[1] === "list-sessions" ? answer({ code: 1 }) : null
+  )
+  await launching(asked(), ROOT, how)
+  expect(calls).toContainEqual(paneCapArgv("tmux-spawn-a.scope"))
+})
+
+test("a cap the scope would not take is reported rather than refusing the launch", async () => {
+  const { how } = launchedWith((cmd) =>
+    cmd[0] === "systemctl" ? answer({ code: 1, err: "Access denied" }) : null
+  )
+  const said = await launching(asked(), ROOT, how)
+  expect(said).toEqual({
+    launched: { name: "athena", pid: 4242, uncapped: expect.stringContaining("Access denied") },
+  })
+})
+
+test("a pane in no scope tmux made is reported uncapped and nothing is set", async () => {
+  const { how, calls } = launchedWith((cmd) =>
+    cmd[0] === "cat" ? answer({ out: "0::/user.slice/app.slice/tmux-seat-athena-7.scope" }) : null
+  )
+  const said = await launching(asked(), ROOT, how)
+  expect(said).toEqual({
+    launched: {
+      name: "athena",
+      pid: 4242,
+      uncapped: expect.stringContaining("no scope tmux made"),
+    },
+  })
+  expect(calls.some((one) => one[0] === "systemctl")).toBe(false)
+})
+
+test("a seat that exited at boot is refused before its pane is capped", async () => {
   const { how, calls } = fake(
     (cmd) => {
-      if (cmd[1] === "list-sessions") return answer()
       if (cmd[1] === "list-panes") return answer({ out: "%7" })
       if (cmd[1] === "display-message") return answer({ out: "4242" })
       return answer()
     },
-    [false, true]
+    [false, false]
   )
+  await launching(asked(), ROOT, how)
+  expect(calls.some((one) => one[0] === "cat" || one[0] === "systemctl")).toBe(false)
+})
+
+test("a launch onto a running server reports the pane pid", async () => {
+  const { how, calls } = launchedWith(() => null)
   const said = await launching(asked(), ROOT, how)
-  expect(said).toEqual({ launched: { name: "athena", pid: 4242 } })
+  expect(said).toEqual({ launched: { name: "athena", pid: 4242, uncapped: null } })
   expect(calls.some((one) => one[0] === "systemd-run")).toBe(false)
   expect(calls).toContainEqual(["tmux", "set-option", "-w", "-t", "%7", "remain-on-exit", "on"])
 })

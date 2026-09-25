@@ -207,5 +207,8 @@ export async function launchSeatUnderTmux(opts: LaunchSeatOpts): Promise<LaunchS
 
   const begun = await launching(opts, akashaRoot())
   if ("refused" in begun) throw new Error(begun.refused)
+  if (begun.launched.uncapped !== null) {
+    process.stderr.write(`\`${name}\` is up with no cap on its tasks: ${begun.launched.uncapped}\n`)
+  }
   return { pid: begun.launched.pid }
 }

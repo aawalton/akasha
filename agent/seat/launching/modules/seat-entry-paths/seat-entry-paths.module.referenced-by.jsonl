@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/launching/seat-launching.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/launching/seat-launching.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/launching/seat-launching.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"agent/seat/supervisor-restart/modules/supervisor-file-version/supervisor-file-version.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-account-launchers/terminal-account-launchers.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"seat-entry-paths.module.code.ts","path":"code/shell/terminal/modules/terminal-entry-points/terminal-entry-points.module.code.ts","typed":false,"deferred":false}

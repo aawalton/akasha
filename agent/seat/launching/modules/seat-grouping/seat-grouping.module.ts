@@ -38,6 +38,10 @@ export const seatGrouping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A pane's scope is found above the child a seat's processes moved into.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Whether the controllers came on is read back rather than assumed.",
     },
     {
