@@ -276,7 +276,6 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-template-table-01/rule-template-table-01.module.ts","id":"01a06100-3bfc-7142-8fe2-abb5978a1b49"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-template-table-02/rule-template-table-02.module.ts","id":"01a06100-3bfd-794a-abcd-eb17b95c077c"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-template-table/rule-template-table.module.ts","id":"01a06100-3bfd-7c3a-a467-2c2131163905"}
-{"propertySlug":"decision-kind","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.ts","id":"01a06151-370a-75d2-9f60-78f57041397a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.ts","id":"01a06187-b3a2-76d2-b668-400fec70d2e3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree-data/metric-tree-data.module.ts","id":"01a06133-5f08-7ca8-bc0d-02aa20d2f63c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}

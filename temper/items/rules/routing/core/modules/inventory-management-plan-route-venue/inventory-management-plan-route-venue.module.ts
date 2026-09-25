@@ -11,10 +11,7 @@ export const inventoryManagementPlanRouteVenue = {
       decisionKind: "decision-kind/constraint",
       statement: "A venue's place in this list is the order the venues are visited in.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A venue moved to another place sends the player round in a different order.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A location the player cannot reach has no venue.",
