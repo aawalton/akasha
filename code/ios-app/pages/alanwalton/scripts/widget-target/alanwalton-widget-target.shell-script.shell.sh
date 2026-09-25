@@ -64,7 +64,7 @@ abort("App target not found in #{project_path}") unless app
 # profile) whenever the widget is embedded. An embedded .appex and its parent app must
 # sign with the SAME certificate; left on AUTOMATIC, the App resolves a personal-team
 # Apple Development cert (S9NDUWUN6S) during the archive while the widget signs iPhone
-# Distribution (M6AN6NM6FL) → "Embedded binary is not signed with the same certificate
+# Distribution on the app's own team → "Embedded binary is not signed with the same certificate
 # as the parent app" (#15097 dry-run). Both targets manual-distribution → one cert.
 app.build_configurations.each do |config|
   bs = config.build_settings
