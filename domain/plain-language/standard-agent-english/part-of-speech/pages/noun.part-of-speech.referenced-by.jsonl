@@ -202,6 +202,7 @@
 {"propertySlug":"part-of-speech","path":"graph/graph.domain.ts","id":"01a04fcf-588c-7772-afed-357ed2e459d4"}
 {"propertySlug":"part-of-speech","path":"infrastructure/cluster/cluster.domain.ts","id":"01a073f1-e67a-717a-9d6a-324244b75878"}
 {"propertySlug":"part-of-speech","path":"infrastructure/cluster/k8s-type/manifest/manifest.page-type.ts","id":"01a06da1-b337-78b9-8ad3-556e6b67058e"}
+{"propertySlug":"part-of-speech","path":"infrastructure/container-image/container-image.domain.ts","id":"01a0675b-16dc-759d-9b19-cf1118f36276"}
 {"propertySlug":"part-of-speech","path":"infrastructure/container-image/dockerfile/dockerfile.domain.ts","id":"01a06865-abff-7000-a441-7a4caa49c9d9"}
 {"propertySlug":"part-of-speech","path":"infrastructure/cpu/cpu.domain.ts","id":"01a09188-434b-7baf-af6f-d0957f02cb86"}
 {"propertySlug":"part-of-speech","path":"infrastructure/inference/generation/audio/audio.page-type.ts","id":"019f189b-018c-74b8-920b-845fe171aee7"}

@@ -5,6 +5,10 @@ export const containerImage = {
   type: "page-type/domain",
   slug: "container-image",
   definition: "a program built with every file that program uses",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "container image" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "container images" },
+  ],
   parts: [
     "domain/dockerfile",
     "manifest/buildkit",
