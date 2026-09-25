@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"live-build-id.text-property.types.ts","path":"temper/player/character/temper-account-character/temper-account-character.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"live-build-id.text-property.types.ts","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
+{"propertySlug":"page-property","path":"temper/player/character/temper-companion-progress/temper-companion-progress.page-type.ts","id":"01a05fcd-f54b-7497-b549-b7f8ef55b323"}
 {"propertySlug":"parts","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}

@@ -16,6 +16,7 @@ export const temperCompanionProgress = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "text-property/live-build-id", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",
