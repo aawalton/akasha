@@ -86,7 +86,7 @@ export const argumentReading = {
       statement: "Which arguments a change takes is answered by that change rather than here.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A body with the fence the caller picked ends at that line early.",
     },
   ],

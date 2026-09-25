@@ -66,7 +66,6 @@
 {"propertySlug":"decision-kind","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
 {"propertySlug":"decision-kind","path":"command/modules/answering/command-answering.module.ts","id":"01a07c6e-41a7-7d0a-8e45-27f5fb2e74f2"}
 {"propertySlug":"decision-kind","path":"command/modules/applying/applying.module.ts","id":"01a0644c-3f10-7a2e-9c31-6b0e5d4a7f21"}
-{"propertySlug":"decision-kind","path":"command/modules/argument-reading/argument-reading.module.ts","id":"01a077ef-5905-7fba-b8f0-ebffbf6d80d8"}
 {"propertySlug":"decision-kind","path":"command/modules/change-freshness/change-freshness.module.ts","id":"01a04faa-e70a-757d-a665-8e7b7bcfd14d"}
 {"propertySlug":"decision-kind","path":"command/modules/commit-attribution/commit-attribution.module.ts","id":"01a09c10-91c9-7a57-80f8-b3c2ffe0962c"}
 {"propertySlug":"decision-kind","path":"command/modules/declaring/command-declaring.module.ts","id":"01a06958-32a2-7c06-9b74-f48fe681a5bd"}
