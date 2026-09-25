@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"command/pages/deploy/modules/ios-installing/deploy-ios-installing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"infrastructure/container-image/modules/image-build/image-build.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.test.ts","typed":false,"deferred":false}

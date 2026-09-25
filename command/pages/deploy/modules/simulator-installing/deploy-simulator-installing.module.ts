@@ -14,6 +14,27 @@ export const deploySimulatorInstalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An app is built at the commit it is handed rather than from the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The app's page and every page it names are read from the pages that commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The files delivered are written out of that commit into a scratch folder first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That folder is taken away once the build has finished or thrown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build is stamped with that commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A workstation that is not a mac hands the build to a mac.",
     },
     {

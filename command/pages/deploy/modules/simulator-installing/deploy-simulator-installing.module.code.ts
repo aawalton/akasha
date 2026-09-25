@@ -18,6 +18,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 import { z } from "zod"
 
 const HOST_ENV = "AKASHA_MAC_HOST"
@@ -94,22 +95,17 @@ function delivered(
   return []
 }
 
-function stampOf(root: string, plan: Plan, run: Running): string | null {
-  const head = run(["git", "-C", root, "rev-parse", "HEAD"])
-  if (head.code !== 0) return null
-  const at = head.out.trim()
-  if (at === "") return null
-  const held = run([
-    "git",
-    "-C",
-    root,
-    "status",
-    "--porcelain",
-    "--",
-    ...plan.deliverPaths,
-    ...plan.deliverFiles,
-  ])
-  return held.out.trim() === "" ? at : `${at}-dirty`
+type Written = { readonly at: string } | { readonly refused: readonly string[] }
+
+function writtenOut(root: string, commit: string, plan: Plan, run: Running): Written {
+  const at = mkdtempSync(join(SCRATCH_AT, "akasha-ios-tree-"))
+  const paths = [...plan.deliverPaths, ...plan.deliverFiles, plan.buildScriptPath]
+  const archived = ["git", "-C", root, "archive", commit, ...paths].map(quoted).join(" ")
+  const made = run(["bash", "-o", "pipefail", "-c", `${archived} | tar -x -C ${quoted(at)}`])
+  if (made.code === 0) return { at }
+  rmSync(at, { recursive: true, force: true })
+  const why = `the files ${plan.appSlug} is built from could not be written out of ${commit}`
+  return { refused: [`${why} — ${made.out.trim()}`] }
 }
 
 function scriptOf(root: string, plan: Plan, stamp: string): string {
@@ -145,6 +141,7 @@ function built(script: string, host: string, run: Running, done: string[]): Ran 
 export function installedFrom(
   root: string,
   plan: Plan,
+  stamp: string,
   host: string,
   run: Running,
   done: string[]
@@ -155,16 +152,6 @@ export function installedFrom(
   ]
   const short = delivered(root, plan, host, run, done)
   if (short.length > 0) return answeredWith(report, short, OPERATIONAL)
-  const stamp = stampOf(root, plan, run)
-  if (stamp === null) {
-    return answeredWith(
-      report,
-      [
-        `the commit ${root} is at could not be read, and a build stamped with nothing cannot be told from a stale one`,
-      ],
-      OPERATIONAL
-    )
-  }
   const made = built(scriptOf(root, plan, stamp), host, run, done)
   report.push(made.out.trimEnd())
   const udid = installedUdid(made.out)
@@ -179,16 +166,29 @@ export function installedFrom(
   return told(report)
 }
 
-export function installedBy(root: string, plan: Plan, host: string, run: Running): Promise<Answer> {
-  return answering((done) => naming(done, installedFrom(root, plan, host, run, done)))
+export function installedBy(
+  root: string,
+  plan: Plan,
+  stamp: string,
+  host: string,
+  run: Running
+): Promise<Answer> {
+  return answering((done) => naming(done, installedFrom(root, plan, stamp, host, run, done)))
 }
 
 export async function installedOnSimulator(
   slug: string,
   given: Given,
+  commit: string,
   run: Running = ran
 ): Promise<Answer> {
-  const plan = planFor(given.root, slug)
+  const plan = planFor(pagesAt(given.root, commit), slug)
   if ("refused" in plan) return refusedBy([...plan.refused], DATA)
-  return await installedBy(given.root, plan, hostIn(), run)
+  const tree = writtenOut(given.root, commit, plan, run)
+  if ("refused" in tree) return refusedBy([...tree.refused], OPERATIONAL)
+  try {
+    return await installedBy(tree.at, plan, commit, hostIn(), run)
+  } finally {
+    rmSync(tree.at, { recursive: true, force: true })
+  }
 }

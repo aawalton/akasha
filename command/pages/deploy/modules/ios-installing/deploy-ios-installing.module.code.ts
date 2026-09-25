@@ -13,5 +13,5 @@ export async function iosAppInstalled(
   onDevice: boolean
 ): Promise<Answer> {
   if (onDevice) return await installedOnDevice(slug, appNamedIn(pagesAt(given.root, commit)))
-  return await installedOnSimulator(slug, given)
+  return await installedOnSimulator(slug, given, commit)
 }

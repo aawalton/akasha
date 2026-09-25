@@ -16,5 +16,9 @@ export const deployIosInstalling = {
       decisionKind: "decision-kind/departure",
       statement: "A phone install reads its app from the pages the deploy's commit holds.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A simulator install is built from the files the deploy's commit holds.",
+    },
   ],
 } as const satisfies Module
