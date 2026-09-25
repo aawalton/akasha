@@ -17,6 +17,10 @@ export const playerAnswersSeeding = {
       statement: "Only the answers' own table is taken out of that file.",
     },
     {
+      decisionKind: "decision-kind/constraint",
+      statement: "The game may write that file on one line, one table straight after another.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "The answers are read from the first account holding them, by sorted name.",
     },

@@ -108,6 +108,11 @@ test("a file holding no answers gives none", () => {
   expect(playerAnswersSource('TemperCatalog_SavedVariables={["a"]=1}\n')).toBeNull()
 })
 
+test("the answers are taken from a file written on one line", () => {
+  const file = `TemperCatalog_SavedVariables={["a"]={}}${HELD}TemperDataMining_SavedVariables={}`
+  expect(playerAnswersSource(file)).toBe(HELD)
+})
+
 test("a line inside a table is never read as a table of its own", () => {
   const file = `${HELD.replace("{}", '{\n  ["x"] = 1,\n}')}\nNext = {}\n`
   expect(playerAnswersSource(file)).toBe(`${HELD.replace("{}", '{\n  ["x"] = 1,\n}')}\n`)

@@ -13,7 +13,7 @@ export type PlayerAnswers = Readonly<
   Record<string, Readonly<Record<string, readonly EngineAnswer[]>>>
 >
 
-const TOP_LEVEL = /^[A-Za-z_][A-Za-z0-9_]*\s*=/gm
+const TOP_LEVEL = /(?:^|(?<=\}))[A-Za-z_][A-Za-z0-9_]*\s*=/gm
 
 export function playerAnswersSource(file: string): string | null {
   let from: number | null = null
