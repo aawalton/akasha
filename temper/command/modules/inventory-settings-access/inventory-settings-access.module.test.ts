@@ -38,14 +38,14 @@ test("the rules an earlier write left in the blob are taken out", () => {
   expect(out).toEqual({ version: 2 })
 })
 
-test("an item rule the write carries lands in the blob", () => {
+test("an item rule the write carries is left out, because an item rule is a page", () => {
   const out = besidePages({}, { version: 2, rules: [], itemRules: [ITEM_RULE] })
-  expect(out.itemRules).toEqual([ITEM_RULE])
+  expect(Object.hasOwn(out, "itemRules")).toBe(false)
 })
 
-test("a buy rule the write carries lands in the blob", () => {
+test("a buy rule the write carries is left out, because a buy rule is a page", () => {
   const out = besidePages({}, { version: 2, rules: [], buyRules: [BUY_RULE] })
-  expect(out.buyRules).toEqual([BUY_RULE])
+  expect(Object.hasOwn(out, "buyRules")).toBe(false)
 })
 
 test("a key the blob keeps that the write says nothing of stays", () => {
@@ -56,26 +56,24 @@ test("a key the blob keeps that the write says nothing of stays", () => {
   expect(out["managed-guild-banks"]).toEqual({ managedGuildBanks: ["g1"] })
 })
 
-test("a key the write carries as undefined leaves what the blob keeps", () => {
+test("the item rules and buy rules an earlier write left in the blob are taken out", () => {
   const out = besidePages(
-    { itemRules: [ITEM_RULE] },
-    { version: 2, rules: [], itemRules: undefined }
+    { version: 2, itemRules: [ITEM_RULE], buyRules: [BUY_RULE] },
+    { version: 2, rules: [] }
   )
-  expect(out.itemRules).toEqual([ITEM_RULE])
+  expect(out).toEqual({ version: 2 })
 })
 
 test("a key the write carries again is written over the one the blob keeps", () => {
-  const kept: Record<string, unknown> = { version: 1, itemRules: [] }
-  const next: InventoryRuleSettings = { version: 2, rules: [], itemRules: [ITEM_RULE] }
-  const out = besidePages(kept, next)
-  expect(out.version).toBe(2)
-  expect(out.itemRules).toEqual([ITEM_RULE])
+  const kept: Record<string, unknown> = { version: 1 }
+  const next: InventoryRuleSettings = { version: 2, rules: [] }
+  expect(besidePages(kept, next).version).toBe(2)
 })
 
 const WHOLE_BLOB = {
   safety: { confirmActions: ["sell", "destroy", "buy"], openCooldownProtection: true },
   logging: { perfTracing: "minimal", actionReports: "verbose" },
-  inventory: { version: 2, itemRules: [ITEM_RULE], buyRules: [BUY_RULE] },
+  inventory: { version: 2, "managed-guild-banks": { managedGuildBanks: ["g1"] } },
   automation: { characters: {}, companions: {} },
 }
 
@@ -92,8 +90,7 @@ test("every setting the blob holds survives the read, so a write carries the res
     version: 2,
     rules: [CATEGORY_RULE],
   })
-  expect(out.itemRules).toEqual([ITEM_RULE])
-  expect(out.buyRules).toEqual([BUY_RULE])
+  expect(out["managed-guild-banks"]).toEqual({ managedGuildBanks: ["g1"] })
 })
 
 test("a blob whose bytes are no JSON is refused rather than read as unset", () => {
@@ -127,11 +124,7 @@ test("an inventory setting that is not there reads as an empty one", () => {
 })
 
 test("the inventory setting the blob holds is carried through whole", () => {
-  expect(inventorySliceIn(WHOLE_BLOB, "x")).toEqual({
-    version: 2,
-    itemRules: [ITEM_RULE],
-    buyRules: [BUY_RULE],
-  })
+  expect(inventorySliceIn(WHOLE_BLOB, "x")).toEqual(WHOLE_BLOB.inventory)
 })
 
 test("an inventory setting that is no object is refused rather than read as unset", () => {

@@ -7,7 +7,11 @@ import { upsertPages } from "akasha/page/access/modules/upsert/upsert.module.cod
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { AutomationSettingsShape } from "akasha/temper/items/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
-import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
+import {
+  BUY_RULE_PAGE_TYPE,
+  buyRulesFromRows,
+  buyRuleWritesFor,
+} from "akasha/temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts"
 import {
   heldFromRows,
   rulesFromPages,
@@ -15,7 +19,16 @@ import {
 import { createDefaultRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import { InventoryRuleSettingsShape } from "akasha/temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
 import type { InventoryRuleSettings } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { writesFor } from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import {
+  type RuleWrites,
+  writesFor,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.code.ts"
+import {
+  ITEM_RULE_PAGE_TYPE,
+  itemRulesFromRows,
+  itemRuleWritesFor,
+  type PageRow,
+} from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
 import {
   ACCOUNT_PAGE_TYPE,
   accountAddressOf,
@@ -34,7 +47,7 @@ const SETTINGS = "settings"
 
 const INVENTORY_SLICE = "inventory"
 
-const RULES = "rules"
+const PAGE_KEYS: ReadonlySet<string> = new Set(["rules", "itemRules", "buyRules"])
 
 const ENDING = "json"
 
@@ -144,13 +157,33 @@ async function writeSlice(
   return undefined
 }
 
-async function readHeldRules(accountPage: string): Promise<readonly HeldRule[]> {
+async function rowsOf(pageTypeSlug: string, accountPage: string): Promise<readonly PageRow[]> {
   const { rows } = await getPages({
-    pageTypeSlug: RULE_PAGE_TYPE_SLUG,
+    pageTypeSlug,
     where: [{ key: "accountPage", eq: accountPage }],
     limit: RULES_AT_MOST,
   })
-  return heldFromRows(rows.map((row) => ({ ...row })))
+  return rows.map((row) => ({ ...row }))
+}
+
+async function landWrites(pageTypeSlug: string, writes: RuleWrites): Promise<undefined> {
+  if (writes.upserts.length > 0) {
+    await upsertPages({
+      pageTypeSlug,
+      items: writes.upserts.map((one) => ({
+        where: [{ key: "slug", eq: one.slug }],
+        set: one.values as Record<string, Json>,
+        clears: one.clears,
+      })),
+    })
+  }
+  if (writes.deletes.length > 0) {
+    await deletePages({
+      pageTypeSlug,
+      where: [{ key: "slug", in: [...writes.deletes] }],
+    })
+  }
+  return undefined
 }
 
 export function inventorySliceIn(
@@ -180,8 +213,19 @@ export async function readInventoryRuleSettings(
   accountUserId: string
 ): Promise<InventoryRuleSettings> {
   const slice = await readInventorySlice(accountUserId, "readInventoryRuleSettings")
-  const rules = rulesFromPages(await readHeldRules(await accountAddressOf(accountUserId)))
-  return InventoryRuleSettingsShape.parse({ ...createDefaultRuleSettings(), ...slice, rules })
+  const accountPage = await accountAddressOf(accountUserId)
+  const [ruleRows, itemRows, buyRows] = await Promise.all([
+    rowsOf(RULE_PAGE_TYPE_SLUG, accountPage),
+    rowsOf(ITEM_RULE_PAGE_TYPE, accountPage),
+    rowsOf(BUY_RULE_PAGE_TYPE, accountPage),
+  ])
+  return InventoryRuleSettingsShape.parse({
+    ...createDefaultRuleSettings(),
+    ...besidePages(slice, { version: 2, rules: [] }),
+    rules: rulesFromPages(heldFromRows(ruleRows)),
+    itemRules: itemRulesFromRows(itemRows),
+    buyRules: buyRulesFromRows(buyRows),
+  })
 }
 
 export function besidePages(
@@ -190,10 +234,10 @@ export function besidePages(
 ): Record<string, unknown> {
   const out: Record<string, unknown> = {}
   for (const [key, value] of Object.entries(kept)) {
-    if (key !== RULES) out[key] = value
+    if (!PAGE_KEYS.has(key)) out[key] = value
   }
   for (const [key, value] of Object.entries(next)) {
-    if (key === RULES) continue
+    if (PAGE_KEYS.has(key)) continue
     if (value !== undefined) out[key] = value
   }
   return out
@@ -207,24 +251,24 @@ export async function writeInventoryRuleSettings(
     throw new Error("writeInventoryRuleSettings: next is not JSON-serializable")
   }
   const accountPage = await accountAddressOf(accountUserId)
-  const held = await readHeldRules(accountPage)
-  const { upserts, deletes } = writesFor(next.rules, held, accountPage, Date.now())
-  if (upserts.length > 0) {
-    await upsertPages({
-      pageTypeSlug: RULE_PAGE_TYPE_SLUG,
-      items: upserts.map((one) => ({
-        where: [{ key: "slug", eq: one.slug }],
-        set: one.values as Record<string, Json>,
-        clears: one.clears,
-      })),
-    })
-  }
-  if (deletes.length > 0) {
-    await deletePages({
-      pageTypeSlug: RULE_PAGE_TYPE_SLUG,
-      where: [{ key: "slug", in: [...deletes] }],
-    })
-  }
+  const writtenAt = Date.now()
+  const [ruleRows, itemRows, buyRows] = await Promise.all([
+    rowsOf(RULE_PAGE_TYPE_SLUG, accountPage),
+    rowsOf(ITEM_RULE_PAGE_TYPE, accountPage),
+    rowsOf(BUY_RULE_PAGE_TYPE, accountPage),
+  ])
+  const ruleWrites = writesFor(next.rules, heldFromRows(ruleRows), accountPage, writtenAt)
+  const itemWrites =
+    next.itemRules === undefined
+      ? undefined
+      : itemRuleWritesFor(next.itemRules, itemRows, accountPage, writtenAt)
+  const buyWrites =
+    next.buyRules === undefined
+      ? undefined
+      : buyRuleWritesFor(next.buyRules, buyRows, accountPage, writtenAt)
+  await landWrites(RULE_PAGE_TYPE_SLUG, ruleWrites)
+  if (itemWrites !== undefined) await landWrites(ITEM_RULE_PAGE_TYPE, itemWrites)
+  if (buyWrites !== undefined) await landWrites(BUY_RULE_PAGE_TYPE, buyWrites)
   const kept = await readInventorySlice(accountUserId, "writeInventoryRuleSettings")
   await writeSlice(
     accountUserId,
