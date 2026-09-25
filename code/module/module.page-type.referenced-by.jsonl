@@ -2658,6 +2658,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest/eso-sandbox-manifest.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/population-bound/population-bound.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/repo-root/repo-root.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/sandbox-library-reading/sandbox-library-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.ts","typed":true,"deferred":false}

@@ -3,5 +3,6 @@
 {"propertySlug":"import","fileName":"catalog-file-paths.module.code.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-file-paths.module.code.ts","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-file-paths.module.code.ts","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"catalog-file-paths.module.code.ts","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"catalog-file-paths.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}

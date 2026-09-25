@@ -41,6 +41,7 @@
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"story/game/game-mechanic/modules/mechanic-running/mechanic-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"story/game/game-turn/modules/turn-state/turn-state.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/addon/build/deploy-check/modules/sandbox-library-reading/sandbox-library-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/addon/pages/temper-core/modules/hud-addon-hide-registry/hud-addon-hide-registry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"is-record.module.code.ts","path":"temper/eso/color/modules/engine-colors-reading/engine-colors-reading.module.code.ts","typed":false,"deferred":false}

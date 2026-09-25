@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"command/pages/temper/inventory/master/consumable-trace/temper-inventory-master-consumable-trace.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/addon/build/deploy-check/modules/sandbox-library-reading/sandbox-library-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/addon/pages/world/quests/modules/auto-quest-trace/auto-quest-trace.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/capture/completion-import/modules/completion-saved-variables-parser/completion-saved-variables-parser.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"account-wide.module.code.ts","path":"temper/capture/datamining/reader/modules/mined-data-parse/mined-data-parse.module.code.ts","typed":false,"deferred":false}

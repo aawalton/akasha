@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-root.module.code.ts","path":"command/pages/temper/upstream/data-port/temper-upstream-data-port.command.code.ts","typed":false,"deferred":false}

@@ -17,7 +17,7 @@ export interface EngineConstants {
   readonly unwritable: readonly string[]
 }
 
-function listed(held: unknown): readonly string[] {
+export function listed(held: unknown): readonly string[] {
   const every = Array.isArray(held) ? held : isRecord(held) ? Object.values(held) : []
   return every.filter((one): one is string => typeof one === "string").sort()
 }
@@ -32,7 +32,7 @@ function sortedNumbers(held: unknown): Record<string, number> {
   return out
 }
 
-function sortedWords(held: unknown): Record<string, string> {
+export function sortedWords(held: unknown): Record<string, string> {
   const out: Record<string, string> = {}
   if (!isRecord(held)) return out
   for (const name of Object.keys(held).sort()) {

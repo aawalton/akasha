@@ -2370,6 +2370,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts","id":"01a0685d-f8fa-75a7-b5b7-54361655f76a"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/modules/capture-text/capture-text.module.ts","id":"01a0d42f-27cb-7900-9c8f-34da29febeb8"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.ts","id":"01a0d3c8-0151-7c39-8927-103cdb98713e"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.ts","id":"01a0d8b3-a671-7854-9271-dd368db8e1d7"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.ts","id":"01a0d418-8dda-7e16-8eab-f943e204c1ee"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts","id":"01a0603c-c1ce-749d-a434-9035b90e6e37"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts","id":"01a0603c-c1ce-7042-a37c-880bfd4380f9"}
@@ -3757,6 +3758,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-base-game-string-ids/eso-base-game-string-ids.module.ts","id":"01a06372-72ff-7026-81c6-4b3dcc1fde65"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/eso-sandbox-globals/eso-sandbox-globals.module.ts","id":"01a06365-e827-7005-8d42-8950da32503e"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/population-bound/population-bound.module.ts","id":"01a06287-7841-72c9-bcad-ce7b9ecfcd04"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/sandbox-library-reading/sandbox-library-reading.module.ts","id":"01a0d8b3-a671-7c01-8350-dea07853dd82"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/sandbox-library/sandbox-library.data-table.ts","id":"01a0d8b3-a671-7b11-8a51-1b26ebc35e66"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/temper-addon-deploy-check.domain.ts","id":"01a06287-7841-7e04-b566-2bb1b434877d"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-bundling/addon-bundling.module.ts","id":"01a090c1-e5c7-7c8e-ba27-38a6f8c8a165"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.ts","id":"01a060ed-2e23-72af-af9e-fc35df5b70c3"}
