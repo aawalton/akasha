@@ -45,6 +45,10 @@ export const removeUnusedExportKeywords = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run handed a folder walks only the paths under that folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The files are walked in the order their paths sort.",
     },
     {

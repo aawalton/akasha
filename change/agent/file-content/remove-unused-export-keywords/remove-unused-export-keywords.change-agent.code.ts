@@ -31,6 +31,8 @@ const MOST = "most"
 
 const BUT = "but"
 
+const UNDER = "under"
+
 const KEYWORD = "export"
 
 function surplusIn(
@@ -58,7 +60,8 @@ function surplusIn(
 export async function removeUnusedExportKeywords(
   world: World,
   most: number,
-  but: ReadonlySet<string> = new Set()
+  but: ReadonlySet<string> = new Set(),
+  under = ""
 ): Promise<Answer> {
   const pageTypes = world.index.pageTypesIn()
   const groups = groupsSparing(world.index)
@@ -68,7 +71,7 @@ export async function removeUnusedExportKeywords(
   const answers: Answer[] = []
   for (const path of pathsNaming(world, [KEYWORD], TYPED_KINDS)) {
     if (answers.length >= most) break
-    if (!typed(path) || but.has(path)) continue
+    if (!path.startsWith(under) || !typed(path) || but.has(path)) continue
     const names = surplusIn(world, pageTypes, groups, loaders, reached, loadedExports, path)
     if (names.length === 0) continue
     answers.push((await reach(world, DROP, { at: path, names })).said)
@@ -78,11 +81,11 @@ export async function removeUnusedExportKeywords(
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [MOST, BUT]
+export const takes: readonly string[] = [MOST, BUT, UNDER]
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   for (const key of Object.keys(given)) {
-    if (key !== MOST && key !== BUT) return refusing(untaken(key, takes))
+    if (!takes.includes(key)) return refusing(untaken(key, takes))
   }
   const said = given[MOST]
   if (said === undefined) return refusing(missing(MOST))
@@ -90,5 +93,5 @@ export async function runChange(world: World, given: Asked): Promise<Answer> {
   if (!Number.isInteger(most) || most < 1) {
     return refusing(`\`${said}\` is no count of files to drop the keyword in`)
   }
-  return await removeUnusedExportKeywords(world, most, leftAloneIn(given[BUT]))
+  return await removeUnusedExportKeywords(world, most, leftAloneIn(given[BUT]), given[UNDER] ?? "")
 }

@@ -79,6 +79,15 @@ test("a path left alone keeps every keyword it has", async () => {
   expect((await removeUnusedExportKeywords(world, MOST, new Set([AT]))).edits).toEqual([])
 })
 
+test("a path outside the folder handed in keeps every keyword it has", async () => {
+  const world = worldOver({ [AT]: TEXT }, [])
+
+  expect((await removeUnusedExportKeywords(world, MOST, new Set(), "elsewhere/")).edits).toEqual([])
+  expect((await removeUnusedExportKeywords(world, MOST, new Set(), "akasha/")).edits).not.toEqual(
+    []
+  )
+})
+
 test("a value another file names keeps its keyword", async () => {
   const world = worldOver({ [AT]: TEXT, [READER]: READER_TEXT }, [READER])
 
