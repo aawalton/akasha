@@ -45,6 +45,12 @@ export const dallaResourceManagement = {
     },
     {
       statement:
+        "A run of a code file stops at the processor and memory ceilings its property states.",
+      workingMemory:
+        "A test file states 5 processor seconds and 512 MiB. check-measuring and checking read those ceilings only after a run, comparing what it spent and refusing it for going over. Nothing starts the run under a limit: no prlimit, RLIMIT_CPU or systemd-run is set anywhere, so a test that loops or balloons runs until something else ends it and is only then refused.",
+    },
+    {
+      statement:
         "`email-address-is-well-formed` runs under a processor ceiling matched to its cost.",
     },
     { statement: "`no-color-literal` runs under a processor ceiling matched to its cost." },

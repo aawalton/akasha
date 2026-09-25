@@ -24,11 +24,6 @@ export const codeFileProperty = {
       decisionKind: "decision-kind/departure",
       statement: "A property stating no ceiling holds no run.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A run of a code file property's file is stopped at the ceilings that property states.",
-    },
   ],
   types: "ts",
   schema: "jsonl",
