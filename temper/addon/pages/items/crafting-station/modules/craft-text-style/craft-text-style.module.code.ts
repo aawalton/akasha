@@ -21,6 +21,8 @@ const OVERLAY_LEVEL: SurfaceLevel = 1
 
 const FIT_PADDING = 8
 
+const UNFITTED_WIDTH = 1000
+
 function roleOf(this: void, control: Control): TextRole {
   const name = control.GetName()
   if (name.endsWith("Data")) return "heading"
@@ -65,6 +67,7 @@ export function styleCraftRows(this: void, root: Control): undefined {
 }
 
 export function fitButtonToText(this: void, button: ButtonControl): ButtonControl {
+  button.SetWidth(UNFITTED_WIDTH)
   button.SetWidth(button.GetLabelControl().GetTextWidth() + FIT_PADDING)
   return button
 }
