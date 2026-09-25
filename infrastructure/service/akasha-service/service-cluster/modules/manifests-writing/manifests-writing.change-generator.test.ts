@@ -6,6 +6,7 @@ import { commitHere } from "akasha/infrastructure/cluster/k8s-type/modules/orche
 import { secretChecksumOf } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/manifests-writing/manifests-writing.change-generator.code.ts"
 import { withCommit } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
 import synthArchive from "akasha/product/archive-of-worlds/web/manifests/archive-of-worlds-web-manifests.manifest.code.ts"
+import synthAudhdalan from "akasha/product/audhdalan/web/manifests/audhdalan-web-manifests.manifest.code.ts"
 import { parseAllDocuments } from "yaml"
 
 const PAGES_AT = "infrastructure/service/akasha-service/service-cluster/pages"
@@ -45,6 +46,10 @@ function emitted(synth: () => readonly { readonly yaml: string }[]): string {
 
 test("parity: archive-of-worlds-web is written as its manifest code emitted", () => {
   expect(comparable(writtenFor("archive-of-worlds-web"))).toEqual(comparable(emitted(synthArchive)))
+})
+
+test("parity: audhdalan-web is written as its manifest code emitted", () => {
+  expect(comparable(writtenFor("audhdalan-web"))).toEqual(comparable(emitted(synthAudhdalan)))
 })
 
 test("a sealed file changing changes the checksum, and the order they are read in does not", () => {
