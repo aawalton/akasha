@@ -61,7 +61,7 @@ export const captureError = {
       statement: "Nothing here decides whether an error is worth filing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A refusal from the pages is thrown rather than swallowed.",
     },
     {
