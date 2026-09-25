@@ -39,5 +39,7 @@ export function drawSurface(parent: Control, level: SurfaceLevel): BackdropContr
   paintSurface(backdrop, level)
   backdrop.SetEdgeColor(0, 0, 0, 0)
   backdrop.SetEdgeTexture(undefined, 1, 1, 1)
+  backdrop.SetDrawLayer(DL_BACKGROUND)
+  backdrop.SetDrawLevel(0)
   return backdrop
 }

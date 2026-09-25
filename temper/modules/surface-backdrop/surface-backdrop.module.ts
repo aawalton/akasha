@@ -28,5 +28,10 @@ export const surfaceBackdrop = {
       decisionKind: "decision-kind/absence",
       statement: "No edge is drawn here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A window's backdrop lies beneath every field and panel painted inside that window.",
+    },
   ],
 } as const satisfies Module
