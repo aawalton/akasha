@@ -4,7 +4,7 @@ export const seatForest = {
   id: "01a069bd-bdc5-755e-a5da-244f293078f7",
   type: "page-type/module",
   slug: "seat-forest",
-  definition: "every seat akasha holds, with each seat's principal and parent, as rows",
+  definition: "how code reads every seat with the seat or the person that starts the seat",
   code: "ts",
   decisions: [
     {
