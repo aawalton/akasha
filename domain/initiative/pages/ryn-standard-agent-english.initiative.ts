@@ -41,5 +41,6 @@ export const rynStandardAgentEnglish = {
     "A wording is never chosen for needing fewer new words or constructions.",
     "The next item is one thing the first definition the grammar refuses depends on, put to Alan as that case.",
     "Every turn opens with the definition the grammar refuses first and the words it waits on.",
+    "A large change is handed to a subagent, and a small change is landed directly.",
   ],
 } as const satisfies Initiative
