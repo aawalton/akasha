@@ -1372,6 +1372,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts","id":"01a0cac9-1200-767b-9b5c-42427171acb4"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts","id":"01a0685d-f8fa-7755-9f01-412ee9b28025"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts","id":"01a0685d-f8fa-75a7-b5b7-54361655f76a"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.ts","id":"01a0d8c6-4440-786b-95a7-90a22c558735"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.ts","id":"01a0d8b3-a671-7854-9271-dd368db8e1d7"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts","id":"01a0603c-c1ce-749d-a434-9035b90e6e37"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts","id":"01a0603c-c1cf-7f09-859a-70e4e6aaa5e3"}

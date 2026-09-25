@@ -2,11 +2,13 @@
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.ts","id":"01a0d42e-c218-7a8e-b751-a43195410e2c"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.ts","id":"01a0d3f9-447a-70e5-a076-3b6713b2e385"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts","id":"01a0cac9-1200-767b-9b5c-42427171acb4"}
+{"propertySlug":"argument","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.ts","id":"01a0d8c6-4440-786b-95a7-90a22c558735"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.ts","id":"01a0d8b3-a671-7854-9271-dd368db8e1d7"}
 {"propertySlug":"argument","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.ts","id":"01a0d418-8dda-7e16-8eab-f943e204c1ee"}
 {"propertySlug":"import","fileName":"saved-variables-file.argument.ts","path":"command/pages/temper/catalog/status/temper-catalog-status.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-file.argument.ts","path":"command/pages/temper/eso/generate/answers/temper-eso-generate-answers.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-file.argument.ts","path":"command/pages/temper/eso/generate/colors/temper-eso-generate-colors.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-file.argument.ts","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"saved-variables-file.argument.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-file.argument.ts","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"saved-variables-file.argument.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}

@@ -2369,6 +2369,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/constants/temper-eso-generate-constants.command.ts","id":"01a0cac9-1200-767b-9b5c-42427171acb4"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.ts","id":"01a0685d-f8fa-7755-9f01-412ee9b28025"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts","id":"01a0685d-f8fa-75a7-b5b7-54361655f76a"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.ts","id":"01a0d8c6-4440-786b-95a7-90a22c558735"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/modules/capture-text/capture-text.module.ts","id":"01a0d42f-27cb-7900-9c8f-34da29febeb8"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.ts","id":"01a0d3c8-0151-7c39-8927-103cdb98713e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.ts","id":"01a0d8b3-a671-7854-9271-dd368db8e1d7"}

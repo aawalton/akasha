@@ -372,6 +372,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}
