@@ -37,10 +37,4 @@ export const alanwaltonDecodeHarness = {
     "ios-component/alanwalton-categorize-checks",
     "ios-component/alanwalton-feed-key-checks",
   ],
-  decisions: [
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Every tile this program compiles has a decode assertion.",
-    },
-  ],
 } as const satisfies IosProgram
