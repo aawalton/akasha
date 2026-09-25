@@ -107,7 +107,7 @@ export const gitRestore = {
       statement: "No reading is forgotten.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Uncommitted drift goes without a git call that could take another agent's work.",
     },
     {
