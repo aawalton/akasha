@@ -37,17 +37,19 @@ export function readStamped(root: string, edits: readonly FileChange[]): readonl
 
 type ReadBy = { readonly reading: Reading; readonly readBy: string }
 
-function lineIn(line: string): ReadBy | null {
-  let value: unknown
-  try {
-    value = JSON.parse(line)
-  } catch {
-    return null
-  }
+function parseReadBy(value: unknown): ReadBy | null {
   const reading = parseReading(value)
   if (reading === null) return null
   const readBy = (value as { readBy?: unknown }).readBy
   return typeof readBy === "string" ? { reading, readBy } : null
+}
+
+function lineIn(line: string): ReadBy | null {
+  try {
+    return parseReadBy(JSON.parse(line))
+  } catch {
+    return null
+  }
 }
 
 function readByLeft(root: string, seatPage: string): ReadonlyMap<string, Reading[]> {
