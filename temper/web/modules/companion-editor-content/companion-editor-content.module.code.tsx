@@ -14,6 +14,7 @@ import {
   TabsList,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
@@ -95,7 +96,7 @@ export function CompanionEditorContent({ initialTab }: CompanionEditorContentPro
       const remixedBuild: CompanionState = { ...build, name: `${build.name} (Copy)` }
       const newBuildHash = encodeCompanion(remixedBuild)
       const newBuildMetadata = extractCompanionMetadata(remixedBuild)
-      const newId = crypto.randomUUID()
+      const newId = uuidVersion7()
       await remix({ sourceId: buildId, newId, newBuildHash, newBuildMetadata })
       router.push(`${companionUrl(toBuildId(newId), remixedBuild.name)}?tab=companion`)
     } catch (error) {

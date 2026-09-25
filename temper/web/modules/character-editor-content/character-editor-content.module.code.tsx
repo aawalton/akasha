@@ -11,6 +11,7 @@ import { FilterButton } from "akasha/design/interface/pattern/modules/filter-but
 import { SearchButton } from "akasha/design/interface/pattern/modules/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { Tabs } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { encodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { characterUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
@@ -75,7 +76,7 @@ export function CharacterEditorContent({ initialTab }: BuildEditorContentProps) 
       const remixedBuild = { ...build, name: `${build.name} (Copy)` }
       const newBuildHash = encodeBuild(remixedBuild)
       const newBuildMetadata = extractCharacterMetadata(remixedBuild)
-      const newId = crypto.randomUUID()
+      const newId = uuidVersion7()
       await remix({ sourceId: buildId, newId, newBuildHash, newBuildMetadata })
       router.push(`${characterUrl(toBuildId(newId), remixedBuild.name)}?tab=general`)
     } catch (error) {

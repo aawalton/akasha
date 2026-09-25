@@ -19,6 +19,10 @@
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/watcher/modules/watcher-task-progress/watcher-task-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/web/modules/character-editor-content/character-editor-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"uuid-version-7.module.code.ts","path":"temper/web/modules/companion-editor-content/companion-editor-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/id/id.domain.ts","id":"01a05c48-deeb-7011-83b1-73490aa9b3ca"}

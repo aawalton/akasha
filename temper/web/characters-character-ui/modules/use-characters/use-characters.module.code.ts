@@ -6,6 +6,7 @@ import { createPage } from "akasha/page/access/modules/create/create.module.code
 import { deletePage } from "akasha/page/access/modules/deleting/deleting.module.code.ts"
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { NEVER_MATCH_VALUE } from "akasha/page/access/modules/sentinels/sentinels.module.code.ts"
+import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
@@ -340,7 +341,7 @@ export function useNewCharacter() {
       const build = createNewCharacter()
       const buildHash = encodeBuild(build)
       const buildMetadata = extractCharacterMetadata(build)
-      const id = crypto.randomUUID()
+      const id = uuidVersion7()
       await createNew({ id, buildHash, buildMetadata })
       router.push(`${characterUrl(toBuildId(id), build.name)}?tab=character`)
     } catch (error) {
