@@ -25,7 +25,6 @@ export const audhdalanWeb = {
   bundleDirectory: true,
   parts: [
     "app-routes/audhdalan-web-routes",
-    "manifest/audhdalan-web-manifests",
     "module/deck-page-content",
     "module/resource-list",
     "module/subscribe-form",
