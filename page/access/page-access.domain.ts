@@ -4,7 +4,7 @@ export const pageAccess = {
   id: "01a05bd6-c533-7016-89de-5e52ec2cde2a",
   type: "page-type/domain",
   slug: "page-access",
-  definition: "reading and writing pages, in the store and in the tree",
+  definition: "how code reads and changes pages",
 
   parts: [
     "module/answer",
