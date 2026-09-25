@@ -5,7 +5,7 @@ export const grafana = {
   type: "page-type/nav",
   slug: "grafana",
   title: "Grafana",
-  icon: "BarChart3",
+  icon: "ChartColumn",
   navPlace: 1,
   app: "web-app/alanwalton-web",
   navParent: "nav/tech",
