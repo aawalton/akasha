@@ -1,10 +1,22 @@
 import { expect, test } from "bun:test"
 import {
   ANTHROPIC_ERROR_ENVELOPE_SCHEMA,
+  buildAnthropicErrorEnvelope,
   parseAnthropicErrorEnvelope,
 } from "akasha/agent/model/gateway/modules/anthropic-error-envelope/anthropic-error-envelope.module.code.ts"
 
 const ENVELOPE = '{"type":"error","error":{"type":"permission_error","message":"nope"}}'
+
+test("an envelope built from a type and a message is the shape upstream sends", () => {
+  expect(JSON.stringify(buildAnthropicErrorEnvelope("api_error", "went wrong"))).toBe(
+    '{"type":"error","error":{"type":"api_error","message":"went wrong"}}'
+  )
+})
+
+test("an envelope built here parses back to the type and message it was built from", () => {
+  const built = JSON.stringify(buildAnthropicErrorEnvelope("overloaded_error", "busy"))
+  expect(parseAnthropicErrorEnvelope(built)).toEqual({ type: "overloaded_error", message: "busy" })
+})
 
 test("an envelope names the error type upstream gave the failure", () => {
   expect(parseAnthropicErrorEnvelope(ENVELOPE)?.type).toBe("permission_error")

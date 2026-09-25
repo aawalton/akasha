@@ -37,6 +37,10 @@ export const anthropicErrorEnvelope = {
       statement: "A `__proto__` key in the parsed body reaches no prototype.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An envelope is built here from the error type and the message handed in.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here decides the meaning of a failure.",
     },

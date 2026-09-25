@@ -34,6 +34,10 @@ export const sseErrorFrame = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The JSON is the envelope `anthropic-error-envelope` builds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A newline in a message is escaped into the JSON rather than ending the frame.",
     },
     {

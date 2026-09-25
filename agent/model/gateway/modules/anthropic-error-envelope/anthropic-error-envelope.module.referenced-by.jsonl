@@ -3,4 +3,5 @@
 {"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/model-unavailable/model-unavailable.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/permission-denied/permission-denied.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/server-error/server-error.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"anthropic-error-envelope.module.code.ts","path":"agent/model/gateway/modules/sse-error-frame/sse-error-frame.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/gateway/model-gateway.domain.ts","id":"01a06227-7bc1-72a3-8056-41b5ba88f99d"}
