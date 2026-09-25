@@ -4,7 +4,8 @@ export const recipientResolverTick = {
   id: "01a0657d-a75e-7005-b58c-0987d7b7e34f",
   type: "page-type/module",
   slug: "recipient-resolver-tick",
-  definition: "a run over the armed specs, reviving each absent seat whose inbound work matches",
+  definition:
+    "a run where each seat with no agent is restarted for a message that matches the seat",
   code: "ts",
   decisions: [
     {
