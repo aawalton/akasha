@@ -5,6 +5,12 @@ import type { EsoItemIds } from "akasha/temper/catalog/gear/temper-set/propertie
 import type { EsoSetId } from "akasha/temper/catalog/gear/temper-set/properties/eso-set-id.number-property.types.ts"
 import type { EsoWeaponTypes } from "akasha/temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.types.ts"
 import type { Icons } from "akasha/temper/catalog/gear/temper-set/properties/icons.page-property-entry.types.ts"
+import type { ItemBrowserItemId } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-item-id.number-property.types.ts"
+import type { ItemBrowserKinds } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-kinds.text-property.types.ts"
+import type { ItemBrowserPlaceKinds } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-place-kinds.number-property.types.ts"
+import type { ItemBrowserSources } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-sources.text-property.types.ts"
+import type { ItemBrowserStyle } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-style.number-property.types.ts"
+import type { ItemBrowserSubname } from "akasha/temper/catalog/gear/temper-set/properties/item-browser-subname.text-property.types.ts"
 import type { SetCategory } from "akasha/temper/catalog/gear/temper-set/properties/set-category.relation-property.types.ts"
 import type { SetClassId } from "akasha/temper/catalog/gear/temper-set/properties/set-class-id.relation-property.types.ts"
 import type { SetDlcId } from "akasha/temper/catalog/gear/temper-set/properties/set-dlc-id.number-property.types.ts"
@@ -57,4 +63,10 @@ export type TemperSet = TemperCatalogThing & {
   setNameFr?: SetNameFr
   setNameRu?: SetNameRu
   setNameZh?: SetNameZh
+  itemBrowserItemId?: ItemBrowserItemId
+  itemBrowserKinds?: ItemBrowserKinds
+  itemBrowserSources?: ItemBrowserSources
+  itemBrowserPlaceKinds?: ItemBrowserPlaceKinds
+  itemBrowserSubname?: ItemBrowserSubname
+  itemBrowserStyle?: ItemBrowserStyle
 }

@@ -4854,6 +4854,10 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-item-ids.number-property.ts","id":"01a0d8bc-31d7-7971-97e8-a1610a7c1393"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.ts","id":"01a0d8bc-31d7-7264-be98-dfe8be6e90a0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/icon-slot.text-property.ts","id":"01a05fd1-d43b-783e-b447-1fb92ded8285"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/item-browser-item-id.number-property.ts","id":"01a0d8e1-f7c0-7396-9ce1-54a4aaf1376d"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/item-browser-kinds.text-property.ts","id":"01a0d8e1-f7c1-7b78-86c1-df981ef055de"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/item-browser-place-kinds.number-property.ts","id":"01a0d8e1-f7c1-7f6a-8317-7dba582be7cf"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/item-browser-sources.text-property.ts","id":"01a0d8e1-f7c1-73d7-bda0-c30dc885d934"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-de.text-property.ts","id":"01a0d8e1-0ebf-7c30-b4a8-0d201caf24b3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-drop-location-names-en.text-property.ts","id":"01a0d8e1-0ebf-7654-a560-4695cab04d3a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/set-drop-mechanics.number-property.ts","id":"01a0d8e1-0ebf-76c3-8e63-fb048d5d7c5f"}

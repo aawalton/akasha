@@ -39,6 +39,12 @@ export const temperSet = {
     "text-property/set-name-fr",
     "text-property/set-name-ru",
     "text-property/set-name-zh",
+    "number-property/item-browser-item-id",
+    "text-property/item-browser-kinds",
+    "text-property/item-browser-sources",
+    "number-property/item-browser-place-kinds",
+    "text-property/item-browser-subname",
+    "number-property/item-browser-style",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -89,6 +95,27 @@ export const temperSet = {
     { pageProperty: "text-property/set-name-fr", required: false, many: false },
     { pageProperty: "text-property/set-name-ru", required: false, many: false },
     { pageProperty: "text-property/set-name-zh", required: false, many: false },
+    { pageProperty: "number-property/item-browser-item-id", required: false, many: false },
+    {
+      pageProperty: "text-property/item-browser-kinds",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "text-property/item-browser-sources",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "number-property/item-browser-place-kinds",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    { pageProperty: "text-property/item-browser-subname", required: false, many: false },
+    { pageProperty: "number-property/item-browser-style", required: false, many: false },
   ],
   decisions: [
     {

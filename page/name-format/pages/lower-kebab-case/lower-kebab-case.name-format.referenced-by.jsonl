@@ -93,6 +93,7 @@
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-id.text-property.ts","id":"01a05fd1-d438-7e88-83de-053bfdab7fa7"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-family.text-property.ts","id":"01a05fd1-d43e-7028-aec5-acb72b595320"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
+{"propertySlug":"name-format","path":"temper/catalog/gear/temper-set/properties/item-browser-kinds.text-property.ts","id":"01a0d8e1-f7c1-7b78-86c1-df981ef055de"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/properties/skill-status.text-property.ts","id":"01a05fca-cb87-719f-b348-33ad77e63005"}
 {"propertySlug":"name-format","path":"temper/catalog/skill/temper-scribing-source/properties/script-type.text-property.ts","id":"01a05fca-cb86-7ada-8ab9-4822a45c4ebf"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/armor-weight.text-property.ts","id":"01a05fe0-8428-703e-953c-0bf31d04039f"}
