@@ -5,7 +5,6 @@
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"alan/track/daily/modules/day-stretches/day-stretches.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"alan/track/daily/modules/track-pages/track-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/access/modules/file-narrow/file-narrow.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/access/modules/file-property-defs/file-property-defs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/access/modules/file-rows/file-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/query/modules/store-spelling/store-spelling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"camelize-key.module.code.ts","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts","typed":false,"deferred":false}

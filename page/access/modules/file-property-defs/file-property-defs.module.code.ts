@@ -2,7 +2,7 @@ import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
 import type { PropertyDefinition } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import { streamOver } from "akasha/page/service/modules/events-reading/events-reading.module.code.ts"
 import {
   eventsOpened,
@@ -209,7 +209,7 @@ export function definitionOf(one: Declared): PropertyDefinition {
   if (one.verbId !== null) config.verbId = one.verbId
   const stated = Object.keys(config).length !== 0
   return {
-    id: camelizeKey(one.key),
+    id: foldedInLowerCamelCase(one.key),
     key: one.key,
     title: one.title,
     type: typeOf(one),
@@ -232,7 +232,7 @@ export async function filePropertyDefinitions(
   const taken = new Set<string>()
   const defs: PropertyDefinition[] = []
   for (const one of shape.declarations) {
-    const canonical = camelizeKey(one.key)
+    const canonical = foldedInLowerCamelCase(one.key)
     if (taken.has(canonical)) continue
     taken.add(canonical)
     defs.push(definitionOf(one))
