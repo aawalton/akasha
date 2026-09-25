@@ -19,7 +19,6 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
   const companionBuildVersion = useAllPages({ pageTypeSlug: "companion-build-version" })
   const character = useAllPages({ pageTypeSlug: "temper-account-character" })
   const companion = useAllPages({ pageTypeSlug: "temper-companion-progress" })
-  const completedTask = useAllPages({ pageTypeSlug: "temper-completed-task" })
   const task = useAllPages({ pageTypeSlug: "temper-task" })
 
   const pages = useMemo(
@@ -29,7 +28,6 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
       ...companionBuildVersion.pages,
       ...character.pages,
       ...companion.pages,
-      ...completedTask.pages,
       ...task.pages,
     ],
     [
@@ -38,7 +36,6 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
       companionBuildVersion.pages,
       character.pages,
       companion.pages,
-      completedTask.pages,
       task.pages,
     ]
   )
@@ -50,7 +47,6 @@ export function useTemperPagesResolver(): TemperPagesResolverData {
     companionBuildVersion.isLoading ||
     character.isLoading ||
     companion.isLoading ||
-    completedTask.isLoading ||
     task.isLoading
 
   return { pages, pageTypes: pageTypes.pages, isLoading }
