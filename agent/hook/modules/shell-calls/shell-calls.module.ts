@@ -26,6 +26,10 @@ export const shellCalls = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A tilde a quote keeps from the shell reaches a hook as a folder here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A newline parts two calls as a separator does.",
     },
     {

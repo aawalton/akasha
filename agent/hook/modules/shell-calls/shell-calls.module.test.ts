@@ -170,6 +170,15 @@ test("a variable the line never assigns is read as that variable", () => {
   expect(segmentsOf("${L} one")).toEqual(["${L} one"])
 })
 
+test("a tilde the shell expands is kept, and one a quote keeps from the shell names a folder here", () => {
+  expect(segmentsOf("touch ~/one ~")).toEqual(["touch ~/one ~"])
+  expect(segmentsOf("touch '~/one' \"~\"/two \\~/three ~'/four'")).toEqual([
+    "touch ./~/one ./~/two ./~/three ./~/four",
+  ])
+  expect(segmentsOf("echo > '~/one'")).toEqual(["echo >./~/one"])
+  expect(segmentsOf("O='~/one'; touch $O")).toEqual(["O=./~/one", "touch ./~/one"])
+})
+
 test("every call carries the words and bodies it is handed", () => {
   const [call] = callsIn("python3 <<'EOF'\nopen('akasha/one.ts','w')\nEOF")
   expect(call?.segment).toBe("python3 <<EOF")

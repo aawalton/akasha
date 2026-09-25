@@ -59,6 +59,12 @@ test("a path opening with a tilde names the home directory rather than a folder 
   expect(said("python3 -c \"open('~/held.txt','w')\"")).toBeNull()
 })
 
+test("a tilde a quote keeps from the shell names a folder here", () => {
+  expect(said("echo hi > '~/held.txt'")).toContain(INSIDE)
+  expect(said('touch "~"/held.txt')).toContain(INSIDE)
+  expect(said("touch \\~/held.txt")).toContain(INSIDE)
+})
+
 test("a later segment is judged as the first is", () => {
   expect(said("echo hi && cp /var/tmp/x akasha/held.domain.ts")).toContain(INSIDE)
 })

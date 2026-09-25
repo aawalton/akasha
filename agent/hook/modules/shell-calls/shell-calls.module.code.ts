@@ -34,6 +34,8 @@ const EXPANDED = /[$`]/
 
 const LINE = "\n"
 
+const HOME = /^~[\w.+-]*(?:\/|$)/
+
 type Runner = {
   readonly valued: readonly string[]
   readonly asking: readonly string[]
@@ -182,9 +184,8 @@ function partValue(part: WordPart, known: ReadonlyMap<string, string>): string {
 }
 
 function wordValue(word: Word, known: ReadonlyMap<string, string>): string {
-  const parts = word.parts
-  if (parts === undefined) return word.value
-  return parts.map((one) => partValue(one, known)).join("")
+  const value = word.parts?.map((one) => partValue(one, known)).join("") ?? word.value
+  return value.startsWith("~") && !HOME.test(word.text) ? `./${value}` : value
 }
 
 function saidOf(value: string): Said {

@@ -100,7 +100,7 @@ export const blockAkashaShellWrites = {
       statement: "A path opening with a tilde names the home directory rather than a folder here.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A tilde the shell would leave alone for being quoted names a folder here.",
     },
     {
