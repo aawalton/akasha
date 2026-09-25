@@ -62,11 +62,11 @@ export const observerSlot = {
       statement: "Nothing here reads or writes the disk.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A slot takes an observer already terminated.",
+      decisionKind: "decision-kind/departure",
+      statement: "A slot takes an observer already terminated, and ending it again writes nothing.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "An end that throws is left marked as run.",
     },
   ],
