@@ -268,7 +268,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.ts","id":"01a0640c-1e9b-77aa-9215-d1a1abde163f"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.ts","id":"01a0640c-1e9a-73f9-8755-c19243c58c9d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.ts","id":"01a0641c-83b4-7fba-b338-0d13a366420a"}
-{"propertySlug":"decision-kind","path":"temper/player/progress/temper-task/properties/character-sort-order.number-property.ts","id":"01a06959-98a7-75a1-b25b-ef19416fec86"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-watcher-enrolment/properties/last-run-outcome.text-property.ts","id":"01a05fd3-4362-7b80-9591-3e5f58ebfa66"}
 {"propertySlug":"decision-kind","path":"temper/temper.domain.ts","id":"01a05db7-8d7c-762b-a343-9535d258e0b5"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-dispatch-handling/watcher-dispatch-handling.module.ts","id":"01a063c7-b064-74a3-9ffc-0be1edaadd02"}

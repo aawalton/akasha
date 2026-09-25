@@ -11,7 +11,7 @@ export const temperTask = {
     "calendar-time-property/due-time",
     "instant-property/completed-at",
     "instant-property/last-completed-at",
-    "number-property/character-sort-order",
+    "computed-property/character-sort-order",
     "number-property/progress-current",
     "number-property/progress-total",
     "relation-property/effective-character",
@@ -28,7 +28,7 @@ export const temperTask = {
     { pageProperty: "temper-task-progress/progress", required: false, many: false },
     { pageProperty: "number-property/progress-total", required: false, many: false },
     { pageProperty: "number-property/progress-current", required: false, many: false },
-    { pageProperty: "number-property/character-sort-order", required: false, many: false },
+    { pageProperty: "computed-property/character-sort-order", required: false, many: false },
     {
       pageProperty: "boolean-property/pending-sync",
       required: false,

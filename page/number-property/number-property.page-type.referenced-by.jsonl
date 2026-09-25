@@ -508,7 +508,6 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/holdings/thing/properties/total-value.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-completion-override/properties/floor.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/target-quantity.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/character-sort-order.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/progress-current.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/player/progress/temper-task/properties/progress-total.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/thing/properties/display-order.number-property.ts","typed":true,"deferred":false}

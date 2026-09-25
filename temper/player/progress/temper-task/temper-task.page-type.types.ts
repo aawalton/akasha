@@ -1,5 +1,5 @@
 import type { Priority } from "akasha/page/properties/priority.select-property.types.ts"
-import type { CharacterSortOrder } from "akasha/temper/player/progress/temper-task/properties/character-sort-order.number-property.types.ts"
+import type { CharacterSortOrder } from "akasha/temper/player/progress/temper-task/properties/character-sort-order.computed-property.types.ts"
 import type { CompletedAt } from "akasha/temper/player/progress/temper-task/properties/completed-at.instant-property.types.ts"
 import type { DueTime } from "akasha/temper/player/progress/temper-task/properties/due-time.calendar-time-property.types.ts"
 import type { EffectiveCharacter } from "akasha/temper/player/progress/temper-task/properties/effective-character.relation-property.types.ts"

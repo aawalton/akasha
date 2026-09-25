@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"page-computing.module.code.ts","path":"page/modules/computing/page-computing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-computing.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-computing.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-computing.module.code.ts","path":"temper/player/progress/temper-task/properties/character-sort-order.computed-property.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
