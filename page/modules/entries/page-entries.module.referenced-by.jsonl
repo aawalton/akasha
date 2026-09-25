@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/modules/entry-writing/page-entry-writing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/modules/reference-filing/page-reference-filing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-entries.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entries.module.test-fixtures.ts","path":"page/modules/entry-landing/page-entry-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-entries.module.test-fixtures.ts","path":"page/modules/entry-queue/page-entry-queue.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

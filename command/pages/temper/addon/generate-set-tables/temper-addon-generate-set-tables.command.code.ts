@@ -24,6 +24,12 @@ import { temperAddonGenerateSetTables as page } from "akasha/command/pages/tempe
 import { valuesByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import {
+  keysIn,
+  SETS_ROWS_AT,
+  setRowsPagesIn,
+  setsRowsBody,
+} from "akasha/temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.code.ts"
+import {
   ITEM_ROWS_AT,
   itemRowsBody,
   SET_DATA_AT,
@@ -40,7 +46,8 @@ const NAMED = [codeRootArgument] as const
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const MESSAGE = "Write the sets addon's set tables and the item browser's rows from the set pages"
+const MESSAGE =
+  "Write the set tables of the sets addon, the item browser and character builds from the set pages"
 
 type Taken = Taking<typeof page, typeof NAMED>
 
@@ -79,10 +86,18 @@ async function written(taken: Taken, given: Given): Promise<Answer> {
   }
   const sets = setPagesOf(valuesByPath(root, temperSet.slug))
   if (sets.length === 0) return refused("no set page was found, so no table was written", DATA)
+  let rows: ReturnType<typeof setsRowsBody>
+  try {
+    rows = setsRowsBody(setRowsPagesIn(root), keysIn(root))
+  } catch (error) {
+    rows = { refused: error instanceof Error ? error.message : String(error) }
+  }
+  if ("refused" in rows) return refused(`no table was written — ${rows.refused}`, DATA)
   const bodies: readonly (readonly [string, string])[] = [
     [SET_INFO_AT, setInfoBody(sets, classIdsIn(root))],
     [SET_DATA_AT, setDataBody(sets, publicDungeonsIn(root))],
     [ITEM_ROWS_AT, itemRowsBody(sets)],
+    [SETS_ROWS_AT, rows.body],
   ]
   const asked: Asking[] = []
   for (const [at, body] of bodies) {
