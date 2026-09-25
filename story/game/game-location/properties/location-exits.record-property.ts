@@ -15,6 +15,11 @@ export const locationExits = {
       decisionKind: "decision-kind/departure",
       statement: "An exit to a location with no page yet names no location.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An exit reaching a location with a page names that location rather than describing it.",
+    },
   ],
   types: "ts",
 } as const satisfies RecordProperty
