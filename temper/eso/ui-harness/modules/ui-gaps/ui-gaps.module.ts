@@ -27,6 +27,11 @@ export const uiGaps = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "How far a control sits in from the edge of its holder is no gap between controls.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A distance at least the largest step places a column rather than parting two controls.",
     },
     {
