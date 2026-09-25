@@ -214,24 +214,24 @@ function refusing(
   return { slug, page, root, code, runsOn: EVERY_PHASE, isInput: null, run, audit: null }
 }
 
-function gatheredFrom(root: string, path: string, slug: string): Gathered | null {
+function gatheredFrom(root: string, from: string, path: string, slug: string): Gathered | null {
   const broken = (why: string, code: string | null = null): Gathered =>
     refusing(root, path, slug, code, why)
-  const stated = statedIn(join(root, path), slug, path)
+  const stated = statedIn(join(from, path), slug, path)
   if ("why" in stated) return broken(stated.why)
   const phases = phasesIn(stated.held)
   if (phases === null) {
     return broken(`${path} is a check page, and states no phase a runner can honour`)
   }
   const runsOn = judgingOn(stated.held, phases)
-  const beside = codeOf(root, path)
+  const beside = codeOf(from, path)
   if (beside === null) {
     if (runsOn.length === 0) return null
     return broken(`${path} is a check page stating a phase, and no code sits beside that page`)
   }
-  const run = runningIn<AnyRunning>(join(root, beside), slug, beside, path)
+  const run = runningIn<AnyRunning>(join(from, beside), slug, beside, path)
   if ("why" in run) return broken(run.why, beside)
-  const audit = auditingIfThere(root, path, slug)
+  const audit = auditingIfThere(from, path, slug)
   if ("why" in audit) return broken(audit.why, beside)
   return {
     slug,
@@ -259,20 +259,20 @@ function modelGathered(root: string, one: Judgement): Gathered {
 export function checkIn(root: string, slug: string): Gathered | null {
   for (const path of checkPagesIn(root)) {
     if (partedIn(path)?.slug !== slug) continue
-    return gatheredFrom(root, path, slug)
+    return gatheredFrom(root, root, path, slug)
   }
   for (const one of checkModelsIn(root)) if (one.slug === slug) return modelGathered(root, one)
   return null
 }
 
-export function checksIn(root: string): readonly Gathered[] {
+export function checksIn(root: string, from: string = root): readonly Gathered[] {
   const found: Gathered[] = []
   for (const path of checkPagesIn(root)) {
     const said = partedIn(path)
     if (said === null) {
       throw new Error(`${path} is a check page, and its name says no slug a runner can read`)
     }
-    const one = gatheredFrom(root, path, said.slug)
+    const one = gatheredFrom(root, from, path, said.slug)
     if (one !== null) found.push(one)
   }
   for (const one of checkModelsIn(root)) found.push(modelGathered(root, one))

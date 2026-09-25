@@ -88,7 +88,12 @@ export const checking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A check's code is loaded from the tree rather than from the change.",
+      statement: "A check's code is loaded from a tree on disk rather than from the change.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That tree is the root the checks are found under, unless the caller hands in another.",
     },
     {
       decisionKind: "decision-kind/departure",
