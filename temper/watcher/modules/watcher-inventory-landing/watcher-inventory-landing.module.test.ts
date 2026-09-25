@@ -24,7 +24,7 @@ import type {
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import { z } from "zod"
 
-const ACCOUNT_SLUG = "account-9ba554f7-cb18-48bb-a709-ec935a895ca7"
+const ACCOUNT_SLUG = "account-01a053fe-00ef-7d9b-9231-0340262cf86e"
 
 const PAGE_PATH = `temper/character/temper-account/pages/${ACCOUNT_SLUG}/${ACCOUNT_SLUG}.temper-account.ts`
 

@@ -11,7 +11,7 @@ const OTHER_SHA256 = "d9489116f7a295e1dc193d47b60e04f12c31e336e673a6b1638287da2d
 
 const ENROLMENT_ID = "019dd9b0-5ad8-7e95-9d8f-fccedf449adc"
 const ACCOUNT_PAGE = "temper-account/test-account"
-const USER_ID = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
+const USER_ID = "01a053fe-00ef-7d9b-9231-0340262cf86e"
 
 async function keyOfAlanarre(address: string): Promise<string> {
   if (address !== ACCOUNT_PAGE) throw new Error(`no account page at ${address}`)

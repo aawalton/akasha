@@ -16,7 +16,7 @@ import {
 import { asAccount } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { z } from "zod"
 
-const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
+const ALAN_ACCOUNT = "01a053fe-00ef-7d9b-9231-0340262cf86e"
 
 const A_DEVICE = "A1B2C3D4-E5F6-47B8-9C0D-1E2F3A4B5C6D"
 

@@ -20,7 +20,7 @@ import { z } from "zod"
 
 const CAPACITOR = "capacitor://localhost"
 
-const ALAN_ACCOUNT = "9ba554f7-cb18-48bb-a709-ec935a895ca7"
+const ALAN_ACCOUNT = "01a053fe-00ef-7d9b-9231-0340262cf86e"
 
 const ID = "image-0123456789abcdef"
 
