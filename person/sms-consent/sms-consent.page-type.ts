@@ -42,10 +42,6 @@ export const smsConsent = {
       statement:
         "A consent's slug is the page type slug, the digits of the number and the day the person agreed.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "The consents exist as pages under this type rather than as markdown.",
-    },
   ],
   types: "ts",
   schema: "jsonl",

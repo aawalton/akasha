@@ -6,6 +6,7 @@ export const alanWebApiSmsOptIn = {
   slug: "alan-web-api-sms-opt-in",
   definition: "the written consent a visitor gives to be texted",
   code: "ts",
+  test: "ts",
   urlPath: "api/sms/opt-in",
   decisions: [
     {

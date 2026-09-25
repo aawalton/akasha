@@ -45,6 +45,36 @@ function agentOf(request: Request): string | null {
   return said === undefined || said === "" ? null : said.slice(0, AGENT_HOLDS)
 }
 
+export type Consenting = {
+  readonly name: string
+  readonly e164: string
+  readonly submittedAt: string
+  readonly address: string | null
+  readonly agent: string | null
+}
+
+export type ConsentPage = {
+  readonly pageTypeSlug: string
+  readonly slug: string
+  readonly values: Readonly<Record<string, string | boolean>>
+}
+
+export function consentPageFor(given: Consenting): ConsentPage {
+  return {
+    pageTypeSlug: CONSENT_PAGE_TYPE_SLUG,
+    slug: consentNamed(given.e164, given.submittedAt),
+    values: {
+      title: given.name,
+      phone: given.e164,
+      consent: true,
+      consentTextVersion: CONSENT_TEXT_VERSION,
+      submittedAt: given.submittedAt,
+      ...(given.address === null ? {} : { ipAddress: given.address }),
+      ...(given.agent === null ? {} : { userAgent: given.agent }),
+    },
+  }
+}
+
 export async function loader({ request }: { request: Request }): Promise<Response> {
   const cors = capacitorCorsHeaders(request, CORS_METHODS)
   if (request.method === "OPTIONS") {
@@ -90,30 +120,17 @@ export async function action({ request }: { request: Request }): Promise<Respons
     )
   }
 
-  const submittedAt = new Date().toISOString()
-  const named = consentNamed(e164, submittedAt)
-  const address = addressOf(request)
-  const agent = agentOf(request)
+  const page = consentPageFor({
+    name,
+    e164,
+    submittedAt: new Date().toISOString(),
+    address: addressOf(request),
+    agent: agentOf(request),
+  })
   const wrote = await writingFor({
     writer: CONSENT_WRITER,
-    message: `the consent named \`${named}\` is written down`,
-    pages: [
-      {
-        pageTypeSlug: CONSENT_PAGE_TYPE_SLUG,
-        slug: named,
-        values: {
-          pageTypeSlug: CONSENT_PAGE_TYPE_SLUG,
-          slug: named,
-          title: name,
-          phone: e164,
-          consent: true,
-          consentTextVersion: CONSENT_TEXT_VERSION,
-          submittedAt,
-          ...(address === null ? {} : { ipAddress: address }),
-          ...(agent === null ? {} : { userAgent: agent }),
-        },
-      },
-    ],
+    message: `the consent named \`${page.slug}\` is written down`,
+    pages: [page],
   })
   if ("refused" in wrote) {
     return Response.json(
