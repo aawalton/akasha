@@ -177,7 +177,8 @@ function rowFacts(row: Row, upstream: Upstream, before: PageValue): PageValue | 
   const sources = sourcesSaid(row.sources)
   if (sources === undefined) return `row ${String(row.id)} holds places that cannot be written`
   const kinds = KEPT_MARKS.filter(([mark]) => (row.flags & mark) !== 0).map(([, kind]) => kind)
-  if ((row.flags & JEWELRY_MARK) !== 0 && (rowMarksOf(before) & JEWELRY_MARK) === 0) {
+  const derived = rowMarksOf({ ...before, itemBrowserKinds: undefined })
+  if ((row.flags & JEWELRY_MARK) !== 0 && (derived & JEWELRY_MARK) === 0) {
     kinds.push("jewelry")
   }
   const facts: Record<string, unknown> = { itemBrowserItemId: row.id, itemBrowserSources: sources }
