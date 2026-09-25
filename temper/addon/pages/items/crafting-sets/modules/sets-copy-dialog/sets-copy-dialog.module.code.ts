@@ -4,6 +4,7 @@ import {
   asStrRecord,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { strLensplit } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-copy-text-split/sets-copy-text-split.module.code.ts"
+import { frameWindow } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
 
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
@@ -28,21 +29,11 @@ const dialogName = `${string.upper(major)}_COPY_TEXT_DIALOG`
 
 const globalTable = asGlobalTable(globalThis)
 
-type ShowDialogWithTextParams = (
-  this: void,
-  name: string,
-  data?: SetsCopyDialogData,
-  textParams?: { [param: string]: string }
-) => void
+const DIALOG_CONTROL_NAME = "TemperItemsCraftingSetsCopyTextDialog"
 
-function asShowDialogWithTextParams(this: void, value: unknown): ShowDialogWithTextParams {
-  if (type(value) !== "function") {
-    error("TemperItemsCraftingSets: expected function, found " + type(value), 2)
-  }
-  return value as ShowDialogWithTextParams
-}
+const PAGE_BUTTON_HEIGHT = 32
 
-const showDialogWithTextParams = asShowDialogWithTextParams(ZO_Dialogs_ShowDialog)
+const ROW_GAP = 12
 
 asStrRecord(lib)["CopyDialog"] = {}
 
@@ -99,14 +90,10 @@ function changeCopyDialogPage(
 function setupDialog(
   this: void,
   self: SetsCopyDialog,
-  control: SetsCopyDialogControl,
+  _control: SetsCopyDialogControl,
   dialog: unknown,
   data: SetsCopyDialogData | undefined
 ): undefined {
-  const controlWidth = control.GetWidth() - 10
-  self.title.SetDimensionConstraints(controlWidth, 75, controlWidth, 75)
-  self.title.SetDimensions(controlWidth, 75)
-
   if (dialog === undefined || data === undefined) {
     return
   }
@@ -168,11 +155,29 @@ function updateEditAndButtons(this: void, self: SetsCopyDialog): undefined {
   }
 }
 
+function frameCopyDialog(this: void): undefined {
+  const window = WINDOW_MANAGER.GetControlByName<TopLevelWindow>(DIALOG_CONTROL_NAME)
+  if (window === undefined) return undefined
+  const { body } = frameWindow(window, "", () => {
+    lib.CopyDialog.Hide()
+    return undefined
+  })
+  const next = window.GetNamedChild("Next")
+  next?.ClearAnchors()
+  next?.SetAnchor(BOTTOMRIGHT, body, BOTTOMRIGHT, 0, 0)
+  const note = window.GetNamedChild("Note")
+  note?.ClearAnchors()
+  note?.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
+  note?.SetAnchor(BOTTOMRIGHT, body, BOTTOMRIGHT, 0, -(PAGE_BUTTON_HEIGHT + ROW_GAP))
+  return undefined
+}
+
 function createCopyTextDialog(this: void, control: SetsCopyDialogControl): SetsCopyDialog {
+  frameCopyDialog()
   const self: SetsCopyDialog = {
     control,
     dialogName,
-    title: control.GetNamedChild("Title"),
+    title: control.GetNamedChild("FrameTitle"),
     text: control.GetNamedChild("NoteEdit"),
     prevButton: control.GetNamedChild("Prev"),
     nextButton: control.GetNamedChild("Next"),
@@ -188,24 +193,6 @@ function createCopyTextDialog(this: void, control: SetsCopyDialogControl): SetsC
   }
   control._object = self
 
-  const dialogInfo: SetsCopyDialogInfo = {
-    customControl: control,
-    title: {
-      text: "Copy set '<<C:1>>'",
-    },
-    setup: (dialog: unknown, data: SetsCopyDialogData | undefined): undefined => {
-      setupDialog(self, control, dialog, data)
-    },
-    buttons: [
-      {
-        control: control.GetNamedChild("Close"),
-        text: SI_DIALOG_EXIT,
-        keybind: "DIALOG_NEGATIVE",
-      },
-    ],
-  }
-  ZO_Dialogs_RegisterCustomDialog(self.dialogName, dialogInfo)
-
   return self
 }
 
@@ -217,23 +204,21 @@ function onShow(this: SetsCopyDialog): undefined {
   updateEditAndButtons(this)
 }
 
-function show(
-  this: SetsCopyDialog,
-  dialogData?: SetsCopyDialogData,
-  textParams?: { [param: string]: string }
-): undefined {
+function show(this: SetsCopyDialog, dialogData?: SetsCopyDialogData): undefined {
   if (this.IsShown()) {
     return
   }
-  showDialogWithTextParams(this.dialogName, dialogData, textParams)
+  const setData = dialogData?.setData
+  const setName = setData?.nameClean ?? setData?.name
+  this.title.SetText(setName === undefined ? "Copy set" : `Copy set '${setName}'`)
+  setupDialog(this, this.control, true, dialogData)
+  this.control.SetHidden(false)
   this.OnShow()
 }
 
 function onHide(this: SetsCopyDialog): undefined {
-  this.title.SetText("")
   this.text.SetText("")
   this.textContent = undefined
-  ZO_Dialogs_ReleaseDialog(this.dialogName)
 }
 
 function hide(this: SetsCopyDialog): undefined {
