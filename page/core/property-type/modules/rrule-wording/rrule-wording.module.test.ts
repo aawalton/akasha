@@ -97,6 +97,32 @@ test("a monthly rule naming a numbered weekday over an interval says the interva
   expect(said("FREQ=MONTHLY;INTERVAL=2;BYDAY=1MO")).toBe("Every other month on the first Monday")
 })
 
+test("a monthly rule naming several numbered weekdays of one day says the numbers together", () => {
+  expect(said("FREQ=MONTHLY;BYDAY=2MO,4MO")).toBe("Second & fourth Monday")
+  expect(said("FREQ=MONTHLY;BYDAY=4MO,2MO")).toBe("Second & fourth Monday")
+  expect(said("FREQ=MONTHLY;BYDAY=-1MO,1MO,3MO")).toBe("First, third & last Monday")
+})
+
+test("a monthly rule naming numbered weekdays of different days says each with its number", () => {
+  expect(said("FREQ=MONTHLY;BYDAY=1MO,3FR")).toBe("First Monday & third Friday")
+  expect(said("FREQ=MONTHLY;BYDAY=3FR,1MO")).toBe("First Monday & third Friday")
+  expect(said("FREQ=MONTHLY;BYDAY=1FR,1MO")).toBe("First Monday & first Friday")
+})
+
+test("a monthly rule naming several numbered weekdays over an interval says the interval first", () => {
+  expect(said("FREQ=MONTHLY;INTERVAL=2;BYDAY=2MO,4MO")).toBe(
+    "Every other month on the second & fourth Monday"
+  )
+})
+
+test("a monthly rule naming several weekdays is not covered where one of them has no number", () => {
+  expect(said("FREQ=MONTHLY;BYDAY=MO,FR")).toBe("FREQ=MONTHLY;BYDAY=MO,FR")
+  expect(said("FREQ=MONTHLY;BYDAY=2MO,-2MO")).toBe("FREQ=MONTHLY;BYDAY=2MO,-2MO")
+  expect(said("FREQ=MONTHLY;BYDAY=2MO,4MO;BYSETPOS=1")).toBe(
+    "FREQ=MONTHLY;BYDAY=2MO,4MO;BYSETPOS=1"
+  )
+})
+
 test("a yearly rule reads as its interval", () => {
   expect(said("FREQ=YEARLY")).toBe("Yearly")
   expect(said("FREQ=YEARLY;INTERVAL=2")).toBe("Every other year")

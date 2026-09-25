@@ -68,6 +68,20 @@ export const rruleWording = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A monthly rule naming one weekday under several numbers says those numbers before the day once.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A monthly rule naming numbered weekdays of different days says each with its number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Numbered weekdays are said in the month's order, with the last one said last.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A number the rule carries on its position is read where the weekday carries none.",
     },
     {

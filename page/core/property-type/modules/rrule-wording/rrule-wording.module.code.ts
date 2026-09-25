@@ -190,24 +190,55 @@ function weeklyWording(parts: RuleParts): string | null {
   return `${cadence} on ${shortDaysWording(days)}`
 }
 
-function nthDayWording(parts: RuleParts, cadence: string): string | null {
+type NumberedDay = {
+  readonly day: number
+  readonly nth: number
+}
+
+function monthOrder(nth: number): number {
+  return nth < 0 ? 6 : nth
+}
+
+function numberedDaysOf(parts: RuleParts): readonly NumberedDay[] | null {
   if (parts.monthDays.length > 0) return null
-  if (parts.days.length !== 1) return null
-  const one = parts.days[0]
-  if (one === undefined) return null
-  let nth = one.nth
-  if (nth === null) {
-    if (parts.setPos.length !== 1) return null
-    nth = parts.setPos[0] ?? null
-  } else if (parts.setPos.length > 0) {
-    return null
+  const only = parts.days.length === 1 ? parts.days[0] : undefined
+  if (only !== undefined && only.nth === null) {
+    const nth = parts.setPos.length === 1 ? parts.setPos[0] : undefined
+    return nth === undefined ? null : [{ day: only.day, nth }]
   }
-  if (nth === null) return null
-  const word = NTH_WORDS[String(nth)]
-  const name = DAY_NAMES[one.day]
-  if (word === undefined || name === undefined) return null
-  if (parts.interval === 1) return `${word} ${name}`
-  return `${cadence} on the ${word.toLowerCase()} ${name}`
+  if (parts.setPos.length > 0) return null
+  const said = new Map<string, NumberedDay>()
+  for (const one of parts.days) {
+    if (one.nth === null) return null
+    said.set(`${one.nth}:${one.day}`, { day: one.day, nth: one.nth })
+  }
+  return [...said.values()].sort(
+    (left, right) => monthOrder(left.nth) - monthOrder(right.nth) || left.day - right.day
+  )
+}
+
+function numberedWording(days: readonly NumberedDay[]): string | null {
+  const said: string[] = []
+  for (const one of days) {
+    const word = NTH_WORDS[String(one.nth)]
+    if (word === undefined || DAY_NAMES[one.day] === undefined) return null
+    said.push(word.toLowerCase())
+  }
+  const first = days[0]
+  if (first === undefined) return null
+  if (days.every((one) => one.day === first.day)) {
+    return `${joinWording(said)} ${DAY_NAMES[first.day] ?? ""}`
+  }
+  return joinWording(days.map((one, at) => `${said[at] ?? ""} ${DAY_NAMES[one.day] ?? ""}`))
+}
+
+function nthDayWording(parts: RuleParts, cadence: string): string | null {
+  const days = numberedDaysOf(parts)
+  if (days === null) return null
+  const said = numberedWording(days)
+  if (said === null) return null
+  if (parts.interval === 1) return `${said.charAt(0).toUpperCase()}${said.slice(1)}`
+  return `${cadence} on the ${said}`
 }
 
 function monthlyWording(parts: RuleParts): string | null {
