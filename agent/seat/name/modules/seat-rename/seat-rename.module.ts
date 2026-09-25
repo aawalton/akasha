@@ -4,6 +4,6 @@ export const seatRename = {
   id: "01a0695a-d2ea-7e95-b05e-4a841606fc0e",
   type: "page-type/module",
   slug: "seat-rename",
-  definition: "a seat renamed to what its attributes now spell, with its session renamed after it",
+  definition: "how code changes a seat's name where the seat's attributes change",
   code: "ts",
 } as const satisfies Module
