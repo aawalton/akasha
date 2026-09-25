@@ -5,7 +5,7 @@ export const subagentReads = {
   type: "page-type/file-property",
   slug: "subagent-reads",
   propertySlug: "subagent-reads",
-  definition: "the readings a subagent under a seat had made when its page went",
+  definition: "the readings a seat keeps for a subagent that has no page",
   extensions: ["jsonl"],
   runsFileLength: false,
   generated: true,
