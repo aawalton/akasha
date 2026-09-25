@@ -4,7 +4,7 @@ export const memory = {
   id: "01a09115-c783-7db5-b3bb-5b8349b6b51d",
   type: "page-type/domain",
   slug: "memory",
-  definition: "where bytes live while a program holds them",
+  definition: "where a program keeps its values",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "memory" }],
   parts: ["domain/memory-limit", "page-type/memory-kind"],
   decisions: [
