@@ -15,5 +15,6 @@ export const autcon2026WhatsNext = {
     },
     { title: "Stay in Touch", description: "alan@audhdalan.com" },
   ],
+  image: "image/image-f849129a830f6990",
   imageCaption: "audhdalan.com",
 } as const satisfies Slide
