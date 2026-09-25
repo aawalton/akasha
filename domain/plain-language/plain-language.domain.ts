@@ -30,7 +30,7 @@ export const plainLanguage = {
       statement: "A trained model commits to one tree rather than ranking several trees.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A statement is read alone rather than beside the statements sharing its file.",
     },
   ],
