@@ -99,7 +99,7 @@ export interface DispatchOptions {
   readonly sourceMtimeMs?: number
 }
 
-export interface DispatchResult {
+interface DispatchResult {
   readonly ok: boolean
   readonly operations: readonly SyncOperation[]
   readonly writeBack: string | null

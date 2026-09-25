@@ -71,7 +71,7 @@ export interface Landing {
   readonly values: Readonly<Record<string, unknown>>
 }
 
-export interface Tally {
+interface Tally {
   readonly landed: Landing[]
   readonly seams: ReadySeams
   outcome?: CompletionOutcome

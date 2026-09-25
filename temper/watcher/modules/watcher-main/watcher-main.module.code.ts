@@ -48,7 +48,7 @@ const WATCHED_NAME = /^Temper(.*)\.lua$/
 
 const ROOT_LABEL = "Temper"
 
-export interface Logs {
+interface Logs {
   readonly log: (message: string) => undefined
   readonly logError: (message: string) => undefined
 }
@@ -57,9 +57,9 @@ export type OpenSession = () => Promise<SignedInReader>
 
 export type Dispatching = (ask: DispatchAsk) => Promise<DispatchAnswer>
 
-export type Reporting = (operations: readonly SyncOperation[]) => Promise<void>
+type Reporting = (operations: readonly SyncOperation[]) => Promise<void>
 
-export type MakeDispatchHandler = (args: DispatchHandlerArgs) => () => void
+type MakeDispatchHandler = (args: DispatchHandlerArgs) => () => void
 
 export type UpdateCheck =
   | { readonly kind: "update-available"; readonly version: string }
@@ -73,13 +73,13 @@ export interface Updating {
   readonly cleanupOldExe: () => undefined
 }
 
-export interface ExitWanted {
+interface ExitWanted {
   readonly kind: "exit"
   readonly code: number
   readonly reason: string
 }
 
-export interface WatchingFiles {
+interface WatchingFiles {
   readonly kind: "watching"
   readonly watching: readonly string[]
   readonly stop: () => undefined

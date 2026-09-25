@@ -20,9 +20,9 @@ export const ENROLMENT_PAGE_TYPE_SLUG = "temper-watcher-enrolment"
 
 export const ACCOUNT_KEY = "accountPage"
 
-export const VERSION_KEY = "watcherVersion"
+const VERSION_KEY = "watcherVersion"
 
-export const REPORTED_AT_KEY = "reportedAt"
+const REPORTED_AT_KEY = "reportedAt"
 
 export const OPERATIONS_KEY = "operations"
 
@@ -32,17 +32,17 @@ export const NO_ACCOUNT_MESSAGE =
 export const NO_ENROLMENT_MESSAGE =
   "Run outcome not reported — this account has no temper-watcher-enrolment page"
 
-export type AccountIdRead = () => Promise<string | null>
+type AccountIdRead = () => Promise<string | null>
 
 export type EnrolmentRead = typeof getPage
 
 export type EnrolmentWrite = typeof patchPageById
 
-export type ClockRead = () => Date
+type ClockRead = () => Date
 
-export type NoteWrite = (message: string) => void
+type NoteWrite = (message: string) => void
 
-export type AccountAddressOf = (userId: string) => Promise<string>
+type AccountAddressOf = (userId: string) => Promise<string>
 
 export type RunReportingSeams = {
   readonly accountId: AccountIdRead
@@ -91,7 +91,7 @@ function fitted(operation: SyncOperation): SyncOperation {
   return { ...operation, detail: detail.slice(0, most) }
 }
 
-export function reportFor(stored: unknown, operations: readonly SyncOperation[], at: Date): Report {
+function reportFor(stored: unknown, operations: readonly SyncOperation[], at: Date): Report {
   return REPORT.parse({
     [VERSION_KEY]: WATCHER_VERSION,
     [REPORTED_AT_KEY]: at.toISOString(),

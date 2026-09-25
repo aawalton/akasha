@@ -7,9 +7,9 @@ const MAX_LOG_BYTES = 1_000_000
 
 export const MAX_LOG_FILES = 3
 
-export type WorkerLogLevel = "INFO" | "ERROR"
+type WorkerLogLevel = "INFO" | "ERROR"
 
-export interface Rename {
+interface Rename {
   readonly from: string
   readonly to: string
 }

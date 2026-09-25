@@ -33,7 +33,7 @@ export function presentCatalogDomainKeys(present: readonly string[]): readonly D
   return CATALOG_DOMAIN_KEYS.filter((key) => held.has(key))
 }
 
-export type CatalogDomainPatch = (args: {
+type CatalogDomainPatch = (args: {
   pageTypeSlug: string
   where: readonly { key: string; eq: string }[]
   set: Record<string, string | number>
@@ -41,13 +41,13 @@ export type CatalogDomainPatch = (args: {
 
 const overPages: CatalogDomainPatch = (args) => patchPage(args)
 
-export interface ImportCatalogDeps {
+interface ImportCatalogDeps {
   readonly patch?: CatalogDomainPatch
   readonly now?: () => string
   readonly report?: (message: string) => void
 }
 
-export interface ImportCatalogOutcome {
+interface ImportCatalogOutcome {
   readonly changedSlugs: readonly string[]
   readonly absentSlugs: readonly string[]
   readonly skipped: string | undefined

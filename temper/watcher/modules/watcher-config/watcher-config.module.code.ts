@@ -21,7 +21,7 @@ export interface WatcherConfig {
   salesPath: string
 }
 
-export interface ConfigDirs {
+interface ConfigDirs {
   readonly savedVarsDir?: string
   readonly addonsDir?: string
 }

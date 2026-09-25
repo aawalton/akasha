@@ -37,38 +37,38 @@ const NO_STAR_PLACEHOLDERS = {
 
 const CHAMPION_POINT_TREES = Object.keys(NO_STAR_PLACEHOLDERS) as readonly ChampionPointTree[]
 
-export interface ParsedCharacterEntry {
+interface ParsedCharacterEntry {
   esoCharacterId: string
   characterName: string
   buildHash: string
 }
 
-export interface CharacterImportSkip {
+interface CharacterImportSkip {
   action: "skip"
   characterName: string
   reason: string
 }
 
-export interface CharacterImportUpsert {
+interface CharacterImportUpsert {
   action: "upsert"
   characterName: string
   esoCharacterId: string
   canonicalHash: string
 }
 
-export type CharacterImportAction = CharacterImportSkip | CharacterImportUpsert
+type CharacterImportAction = CharacterImportSkip | CharacterImportUpsert
 
-export interface CharacterImportPlan {
+interface CharacterImportPlan {
   actions: readonly CharacterImportAction[]
 }
 
 export type PageUpsert = typeof upsertPage
 
-export type ReportLine = (line: string) => void
+type ReportLine = (line: string) => void
 
-export type AccountAddressOf = (userId: string) => Promise<string>
+type AccountAddressOf = (userId: string) => Promise<string>
 
-export interface CharacterImportSeams {
+interface CharacterImportSeams {
   upsert?: PageUpsert
   report?: ReportLine
   addressOf?: AccountAddressOf

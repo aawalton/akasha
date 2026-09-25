@@ -17,13 +17,13 @@ export interface StableRead {
   snapshot: StatSnapshot
 }
 
-export interface StabilityOptions {
+interface StabilityOptions {
   pollMs?: number
   stablePolls?: number
   timeoutMs?: number
 }
 
-export interface StableReadDeps {
+interface StableReadDeps {
   readonly snapshotOf?: (path: string) => StatSnapshot | null
   readonly readFile?: (path: string) => string
   readonly sleep?: (ms: number) => Promise<void>

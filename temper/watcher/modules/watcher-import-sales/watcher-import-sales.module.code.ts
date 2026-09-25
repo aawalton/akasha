@@ -89,11 +89,11 @@ export type SalePageUpsert = typeof upsertPage
 
 export type GuildRead = typeof getPages
 
-export type ImportReport = (message: string) => void
+type ImportReport = (message: string) => void
 
-export type AccountAddressOf = (userId: string) => Promise<string>
+type AccountAddressOf = (userId: string) => Promise<string>
 
-export interface ImportSalesOptions {
+interface ImportSalesOptions {
   readonly userId?: string
   readonly upsert?: SalePageUpsert
   readonly read?: GuildRead

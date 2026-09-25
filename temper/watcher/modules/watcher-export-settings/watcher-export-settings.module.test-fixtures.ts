@@ -86,7 +86,7 @@ export const SETTINGS_WITHOUT_INVENTORY = {
   backpack: { bufferSlots: 5 },
 }
 
-export interface Recorded {
+interface Recorded {
   readonly said: string[]
   readonly written: { path: string; content: string }[]
 }

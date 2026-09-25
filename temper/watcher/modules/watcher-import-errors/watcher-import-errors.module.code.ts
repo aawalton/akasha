@@ -29,9 +29,9 @@ const HOUR_MS = 60 * 60 * 1000
 
 const UNJUDGED_VERDICT: EntryVerdict = { stale: false, triage: "unknown" }
 
-export type DeployedBuildIdFor = (folder: string) => Promise<string | undefined>
+type DeployedBuildIdFor = (folder: string) => Promise<string | undefined>
 
-export interface ImportErrorsOptions {
+interface ImportErrorsOptions {
   cursorPath?: string
   deployedFor?: DeployedBuildIdFor
   staleAfterHours?: number

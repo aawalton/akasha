@@ -52,9 +52,9 @@ const VERDICT_SCHEMA = z
 
 const OUTBOX_SCHEMA = luaArrayOrEmpty(z.unknown())
 
-export type ItemRuleVerdict = z.infer<typeof VERDICT_SCHEMA>
+type ItemRuleVerdict = z.infer<typeof VERDICT_SCHEMA>
 
-export type ParsedOutbox = {
+type ParsedOutbox = {
   readonly found: number
   readonly mutations: readonly ItemRuleVerdict[]
 }

@@ -13,7 +13,7 @@ export interface FileState {
   lastCompanionsConfigWriteBackHash: string | null
 }
 
-export type WatcherState = Record<FileType, FileState>
+type WatcherState = Record<FileType, FileState>
 
 export function initialFileState(): FileState {
   return {

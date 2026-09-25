@@ -25,26 +25,26 @@ export const EXPIRED_TOKEN_MESSAGE = "Invalid or expired watcher token"
 
 export type Fetching = (url: string, init: RequestInit) => Promise<Response>
 
-export type MinedBlockKey = "items" | "quests"
+type MinedBlockKey = "items" | "quests"
 
-export type ImportNoteLevel = "info" | "warning"
+type ImportNoteLevel = "info" | "warning"
 
-export interface ImportNote {
+interface ImportNote {
   readonly level: ImportNoteLevel
   readonly message: string
 }
 
-export interface BlockClearing {
+interface BlockClearing {
   readonly clear: boolean
   readonly notes: readonly ImportNote[]
 }
 
-export interface ImportDataMiningOptions {
+interface ImportDataMiningOptions {
   readonly fetching?: Fetching
   readonly retry?: UploadRetryOptions
 }
 
-export interface ImportDataMiningResult {
+interface ImportDataMiningResult {
   readonly content: string
   readonly modified: boolean
   readonly notes: readonly ImportNote[]

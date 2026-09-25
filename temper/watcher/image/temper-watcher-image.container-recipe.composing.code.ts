@@ -45,7 +45,7 @@ const CARRIED_AT = "./carried-file.ts"
 
 const CARRIER_AT = "carrier.json"
 
-export type Copied = {
+type Copied = {
   readonly from: string
   readonly to: string
 }

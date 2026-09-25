@@ -1,4 +1,4 @@
-export type PathOpts = {
+type PathOpts = {
   readonly platform?: string
   readonly env?: Readonly<Record<string, string | undefined>>
 }

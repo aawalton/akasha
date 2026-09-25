@@ -58,7 +58,7 @@ const SETTINGS = "settings"
 
 const INVENTORY_SETTINGS = "inventory"
 
-export function inventorySettingsIn(body: unknown): unknown {
+function inventorySettingsIn(body: unknown): unknown {
   if (typeof body !== "string" || body === "") return undefined
   const parsed = SETTINGS_BLOB.safeParse(JSON.parse(body))
   if (!parsed.success) return undefined
@@ -70,27 +70,27 @@ const EXCLUSION_LABELS = {
   "unclassifiable-location": "unreadable",
 } satisfies Record<ExclusionReason, string>
 
-export interface InventoryCounts {
+interface InventoryCounts {
   readonly locationCount: number
   readonly itemCount: number
 }
 
-export interface Filing {
+interface Filing {
   readonly outcome: string
   readonly at: string
 }
 
-export type AskForPages = (query: Query) => Promise<Asked>
+type AskForPages = (query: Query) => Promise<Asked>
 
-export type LandedReading =
+type LandedReading =
   | { readonly outcome: "landed" | "already"; readonly at: string }
   | { readonly outcome: "refused"; readonly why: string }
 
-export type LandReading = (values: ReadingValues, minted: () => string) => Promise<LandedReading>
+type LandReading = (values: ReadingValues, minted: () => string) => Promise<LandedReading>
 
-export type FileScan = (values: InventoryValues, minted: () => string) => Promise<LandedReading>
+type FileScan = (values: InventoryValues, minted: () => string) => Promise<LandedReading>
 
-export interface ImportInventoryTools {
+interface ImportInventoryTools {
   readonly say?: (line: string) => void
   readonly now?: () => number
   readonly mint?: () => string

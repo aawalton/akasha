@@ -1,19 +1,19 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { ALL_DESTRUCTIVE_ACTIONS } from "akasha/temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
 
-export type ActionReports = "none" | "minimal" | "verbose"
+type ActionReports = "none" | "minimal" | "verbose"
 
-export type PerfTracing = "none" | "minimal"
+type PerfTracing = "none" | "minimal"
 
-export type BankProfiler = "none" | "script"
+type BankProfiler = "none" | "script"
 
-export interface LoggingSettings {
+interface LoggingSettings {
   actionReports: ActionReports
   perfTracing: PerfTracing
   bankProfiler?: BankProfiler
 }
 
-export interface SafetySettings {
+interface SafetySettings {
   confirmActions: readonly string[]
   openCooldownProtection: boolean
 }

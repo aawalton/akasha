@@ -31,7 +31,7 @@ export function badGateway(): VersionResponseObservation {
   }
 }
 
-export interface SwapDeps {
+interface SwapDeps {
   readonly sourceRuntime: () => boolean
   readonly execPath: string
   readonly fetchBytes: FetchingBytes

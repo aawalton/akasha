@@ -29,7 +29,7 @@ export interface OperationTarget {
   readonly fileModifiedAt?: string
 }
 
-export interface Observed<T> {
+interface Observed<T> {
   readonly operation: SyncOperation
   readonly value: T | null
 }
@@ -62,7 +62,7 @@ export function skippedOperation(target: OperationTarget, detail: string): SyncO
   return { ...target, state: "skipped", ranAt: new Date().toISOString(), detail }
 }
 
-export interface ChainStep {
+interface ChainStep {
   readonly target: OperationTarget
   readonly run: () => Promise<unknown>
 }

@@ -82,7 +82,7 @@ export interface InventoryValues {
 
 export type InventoryPageUpsert = (args: UpsertPageArgs<Record<string, Json>>) => Promise<Page>
 
-export interface InventoryLandingDeps {
+interface InventoryLandingDeps {
   readonly readPages?: ReadPages
   readonly writeFiles?: WriteFiles
   readonly upsert?: InventoryPageUpsert

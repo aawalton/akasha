@@ -42,7 +42,7 @@ export const COMPANION_IDS_WITH_DEF_ID: readonly CompanionId[] = companions.list
 
 export type PageUpsert = typeof upsertPage
 
-export type AccountAddressOf = (userId: string) => Promise<string>
+type AccountAddressOf = (userId: string) => Promise<string>
 
 export type CompanionBuildFiler = (
   accountPage: string,
@@ -58,23 +58,23 @@ export interface CompanionImportPorts {
   readonly file?: CompanionBuildFiler
 }
 
-export interface CompanionHashEntry {
+interface CompanionHashEntry {
   readonly companionId: CompanionId
   readonly hash: string
 }
 
-export interface CompanionSavedVariables {
+interface CompanionSavedVariables {
   readonly entries: readonly CompanionHashEntry[]
   readonly unknownDefIds: readonly number[]
 }
 
-export interface CompanionImportSkip {
+interface CompanionImportSkip {
   readonly action: "skip"
   readonly companionName: string
   readonly reason: string
 }
 
-export interface CompanionImportCapture {
+interface CompanionImportCapture {
   readonly action: "capture"
   readonly companionId: CompanionId
   readonly companionName: string
@@ -82,9 +82,9 @@ export interface CompanionImportCapture {
   readonly build: CompanionState
 }
 
-export type CompanionImportAction = CompanionImportSkip | CompanionImportCapture
+type CompanionImportAction = CompanionImportSkip | CompanionImportCapture
 
-export interface CompanionImportPlan {
+interface CompanionImportPlan {
   readonly actions: readonly CompanionImportAction[]
 }
 

@@ -93,7 +93,7 @@ export function updatedAtSeconds(updatedAt: unknown, now: number): number {
   return Math.floor((millis === null ? now : millis) / MILLIS_IN_A_SECOND)
 }
 
-export interface CompanionTarget {
+interface CompanionTarget {
   readonly defId: number
   readonly buildHash: string
   readonly seconds: number
@@ -179,13 +179,13 @@ async function collectCompanionTargets(
   return targets
 }
 
-export interface ExportCompanionBuildsResult {
+interface ExportCompanionBuildsResult {
   readonly content: string
   readonly modified: boolean
   readonly companionsConfigSideFileHash: string | null
 }
 
-export interface ExportCompanionBuildsOptions {
+interface ExportCompanionBuildsOptions {
   readonly userId?: string
   readonly companionsConfigPath?: string
 }

@@ -60,7 +60,7 @@ export const NO_SIGNED_IN_USER =
 export const UNREADABLE_SAVED_VARIABLES =
   "the saved variables name no account, no characters and no companions, so the file is refused rather than read as an empty account"
 
-export interface CompletionRowsQuery {
+interface CompletionRowsQuery {
   readonly pageTypeSlug: string
   readonly where?: PageWhere
   readonly select?: PageSelect
@@ -73,13 +73,13 @@ export type CompletionPageRead = (
 
 export type CompletionPageUpsert = (args: UpsertPageArgs<Record<string, Json>>) => Promise<Page>
 
-export type SignedInUserId = () => Promise<string | undefined>
+type SignedInUserId = () => Promise<string | undefined>
 
-export type ReportLine = (message: string) => void
+type ReportLine = (message: string) => void
 
-export type CompanionIdByDefId = (defId: number) => string | undefined
+type CompanionIdByDefId = (defId: number) => string | undefined
 
-export interface ImportCompletionDeps {
+interface ImportCompletionDeps {
   readonly userId?: string
   readonly signedInUserId?: SignedInUserId
   readonly read?: CompletionPageRead
@@ -91,7 +91,7 @@ export interface ImportCompletionDeps {
   readonly companionIdByDefId?: CompanionIdByDefId
 }
 
-export interface ImportCompletionOutcome {
+interface ImportCompletionOutcome {
   readonly accountPageId: string
   readonly accountCompletionWritten: boolean
   readonly characterCount: number

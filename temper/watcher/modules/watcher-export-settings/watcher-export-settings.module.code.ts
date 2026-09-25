@@ -99,7 +99,7 @@ const ALL_SETTING_TYPES = [
 
 const NOTHING_TO_EXPORT = "No settings to export."
 
-export type Say = (message: string) => undefined
+type Say = (message: string) => undefined
 
 export interface ExportSettingsSeams {
   readonly say: Say
@@ -323,7 +323,7 @@ async function compileInventoryValues(
   }
 }
 
-export interface ExportSettingsResult {
+interface ExportSettingsResult {
   content: string
   modified: boolean
   inventoryConfigSideFileHash: string | null

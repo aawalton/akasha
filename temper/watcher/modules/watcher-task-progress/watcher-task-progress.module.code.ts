@@ -16,7 +16,7 @@ const PROGRESS_ROW = z.object({
   displayOrder: z.number(),
 })
 
-export type ProgressRow = Readonly<z.infer<typeof PROGRESS_ROW>>
+type ProgressRow = Readonly<z.infer<typeof PROGRESS_ROW>>
 
 export type TaskFacts = {
   readonly slug: string
@@ -32,7 +32,7 @@ export function rotatesOverCharacters(task: TaskFacts): boolean {
   return task.scope !== undefined && ROTATING_SCOPES.includes(task.scope)
 }
 
-export type Refreshed = {
+type Refreshed = {
   readonly slug: string
   readonly progressCurrent: number
   readonly progressTotal: number
@@ -40,7 +40,7 @@ export type Refreshed = {
   readonly rows: readonly ProgressRow[]
 }
 
-export type Minting = () => string
+type Minting = () => string
 
 export function pathKeyFor(task: TaskFacts): string | null {
   const card = task.completionCardId
@@ -63,14 +63,14 @@ export function rowsIn(text: string): readonly ProgressRow[] {
   return kept
 }
 
-export type Refusing = (said: string) => void
+type Refusing = (said: string) => void
 
-export type Characters = {
+type Characters = {
   readonly slugs: ReadonlySet<string>
   readonly refuse: Refusing
 }
 
-export function characterAddress(slug: string): string {
+function characterAddress(slug: string): string {
   return `${CHARACTER_TYPE}/${slug}`
 }
 

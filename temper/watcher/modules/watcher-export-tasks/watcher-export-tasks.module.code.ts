@@ -44,7 +44,7 @@ const ROWS_PER_READ = 1000
 
 const DEFAULT_SCOPE = "account"
 
-export interface TaskData {
+interface TaskData {
   readonly title: string
   readonly description: string | null
   readonly rrule: string | null
@@ -58,7 +58,7 @@ export interface TaskData {
   readonly completionItemPath: readonly (string | number)[] | null
 }
 
-export interface ExportTasksResult {
+interface ExportTasksResult {
   readonly content: string
   readonly modified: boolean
   readonly charactersConfigSideFileHash: string | null
@@ -70,13 +70,13 @@ export type PageGet = typeof getPages
 
 export type PagePatchById = typeof patchPageById
 
-export type CharacterPriorityCompile = typeof compileCharacterPriority
+type CharacterPriorityCompile = typeof compileCharacterPriority
 
-export type SideFileWrite = typeof writeSideFileIfChanged
+type SideFileWrite = typeof writeSideFileIfChanged
 
-export type ExportReport = (message: string) => void
+type ExportReport = (message: string) => void
 
-export type AccountAddressOf = (userId: string) => Promise<string>
+type AccountAddressOf = (userId: string) => Promise<string>
 
 export interface ExportTasksOptions {
   readonly userId?: string

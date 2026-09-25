@@ -34,7 +34,7 @@ const DATA_ENDING = "json"
 
 const ACCOUNT_KEYS = ["id", "slug"]
 
-export interface TargetBuildCharacter {
+interface TargetBuildCharacter {
   esoCharacterId: string
   targetBuildHash?: string
 }
@@ -159,7 +159,7 @@ export type InventoryReadFailure =
       readonly message: string
     }
 
-export type InventoryReadResult =
+type InventoryReadResult =
   | { readonly ok: true; readonly db: InventoryDatabase }
   | { readonly ok: false; readonly failure: InventoryReadFailure }
 

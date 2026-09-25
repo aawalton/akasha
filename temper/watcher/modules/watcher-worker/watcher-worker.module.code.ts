@@ -47,9 +47,9 @@ export function uploadQueue(): (run: () => Promise<void>) => undefined {
 
 export const NO_ACCOUNT_FOR_TOKEN = "the watcher token matched no enrolment naming an account"
 
-export type WatcherTokenRead = () => string
+type WatcherTokenRead = () => string
 
-export type WatcherTokenCheck = (token: unknown) => Promise<{ userId: string } | null>
+type WatcherTokenCheck = (token: unknown) => Promise<{ userId: string } | null>
 
 async function tokenSessionAnswer(
   readToken: WatcherTokenRead,
@@ -100,7 +100,7 @@ function reportingThrough(
 
 export const SESSION_NOT_OPEN = "the watcher session is not open yet"
 
-export interface SessionHold<Client> {
+interface SessionHold<Client> {
   readonly hold: (opening: () => Promise<Client>) => Promise<Client>
   readonly take: () => Client
 }

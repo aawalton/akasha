@@ -49,7 +49,7 @@ export const DEFAULT_PAGE_READER: PageReader = {
   },
 }
 
-export type CharacterWithBuilds = {
+type CharacterWithBuilds = {
   esoCharacterId: string
   sortOrder?: number
   targetBuildHash?: string

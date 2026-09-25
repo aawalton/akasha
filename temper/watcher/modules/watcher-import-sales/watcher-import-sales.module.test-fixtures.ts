@@ -29,7 +29,7 @@ import type {
 } from "akasha/temper/watcher/modules/watcher-import-sales/watcher-import-sales.module.code.ts"
 import type { SignedInReader } from "akasha/temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 
-export interface UpsertCall {
+interface UpsertCall {
   readonly pageTypeSlug: string
   readonly where: readonly unknown[]
   readonly set: Record<string, unknown>
@@ -204,7 +204,7 @@ export const saleSale7GuildStore = {
 } as const satisfies TemperSale
 `
 
-export interface PageServiceWorld {
+interface PageServiceWorld {
   readonly puts: readonly Put[]
   readonly upsert: SalePageUpsert
   readonly read: GuildRead

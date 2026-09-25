@@ -60,7 +60,7 @@ export const CONFIG = buildConfig({
   addonsDir: `${LIVE}/AddOns`,
 })
 
-export interface Said {
+interface Said {
   readonly info: string[]
   readonly error: string[]
 }
@@ -118,7 +118,7 @@ export function sessionOf(answers: readonly SignedInAnswer[]): OpenSession {
     })
 }
 
-export interface Started {
+interface Started {
   readonly said: Said
   readonly start: WatcherStart
 }
@@ -129,7 +129,7 @@ export async function startWith(over: Partial<WatcherStartOptions> = {}): Promis
   return { said, start }
 }
 
-export interface CountedChecks {
+interface CountedChecks {
   readonly started: Promise<WatcherStart>
   readonly checksSoFar: () => number
   readonly handler: () => DispatchHandlerArgs

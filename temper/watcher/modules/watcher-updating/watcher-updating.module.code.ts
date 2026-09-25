@@ -8,9 +8,9 @@ const BODY_SUMMARY_MAX = 200
 
 const WORKER_EXE_STEM = "temper-watcher-worker"
 
-export type CheckFailureReason = "unreachable" | "http-error" | "non-json" | "malformed-body"
+type CheckFailureReason = "unreachable" | "http-error" | "non-json" | "malformed-body"
 
-export type UpdateCheck =
+type UpdateCheck =
   | { readonly kind: "update-available"; readonly version: string }
   | { readonly kind: "up-to-date" }
   | { readonly kind: "check-failed"; readonly reason: CheckFailureReason; readonly detail: string }
@@ -66,14 +66,14 @@ function downloadUrl(serverUrl: string): string {
   return `${serverUrl}/api/watcher/worker/download`
 }
 
-export interface FetchedText {
+interface FetchedText {
   readonly ok: boolean
   readonly status: number
   readonly contentType: string
   readonly body: string
 }
 
-export interface FetchedBytes {
+interface FetchedBytes {
   readonly ok: boolean
   readonly status: number
   readonly body: Uint8Array
@@ -102,7 +102,7 @@ const bytesOverHttp: FetchingBytes = async (url) => {
   }
 }
 
-export interface VersionCheckDeps {
+interface VersionCheckDeps {
   readonly fetchText?: FetchingText
 }
 
@@ -130,7 +130,7 @@ export async function checkForUpdate(
   }
 }
 
-export interface ExeSwapPaths {
+interface ExeSwapPaths {
   readonly current: string
   readonly next: string
   readonly previous: string
@@ -164,7 +164,7 @@ function exitProcess(code: number): undefined {
   process.exit(code)
 }
 
-export interface ExeUpdateDeps {
+interface ExeUpdateDeps {
   readonly sourceRuntime?: () => boolean
   readonly execPath?: string
   readonly fetchBytes?: FetchingBytes
@@ -199,7 +199,7 @@ export async function performUpdate(
   return undefined
 }
 
-export interface ExeCleanupDeps {
+interface ExeCleanupDeps {
   readonly sourceRuntime?: () => boolean
   readonly execPath?: string
   readonly present?: (path: string) => boolean
@@ -223,7 +223,7 @@ export function cleanupOldExe(deps: ExeCleanupDeps = {}): undefined {
   return undefined
 }
 
-export interface HeadReading {
+interface HeadReading {
   readonly headSha?: (repoDir: string) => string | null
 }
 

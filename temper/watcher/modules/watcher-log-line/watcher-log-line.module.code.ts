@@ -4,7 +4,7 @@ export type LogSource = "watcher" | "tray"
 
 const LOG_LEVEL = z.enum(["INFO", "ERROR", "WARN"])
 
-export type LogLevel = z.infer<typeof LOG_LEVEL>
+type LogLevel = z.infer<typeof LOG_LEVEL>
 
 export type WatcherLogLine = {
   readonly timestamp: string

@@ -44,10 +44,7 @@ export const CHANGED_SINCE_STABLE_READ = "file changed since the stable read"
 
 type OperationTargets = typeof TARGET_OPERATIONS
 
-export type SideFileName = Extract<
-  OperationTargets[FileType],
-  { readonly sideFile: string }
->["sideFile"]
+type SideFileName = Extract<OperationTargets[FileType], { readonly sideFile: string }>["sideFile"]
 
 type ConfigPathKey = `${SideFileName}Path`
 
@@ -55,7 +52,7 @@ type AnswerHashKey = `${SideFileName}SideFileHash`
 
 type RememberedHashKey = `last${Capitalize<SideFileName>}WriteBackHash`
 
-export type SideFileConfig = Pick<WatcherConfig, ConfigPathKey>
+type SideFileConfig = Pick<WatcherConfig, ConfigPathKey>
 
 interface SideFileKeys {
   readonly configPath: ConfigPathKey
@@ -115,7 +112,7 @@ export type DispatchAnswer = {
   readonly error?: string
 } & Readonly<Record<AnswerHashKey, string | null>>
 
-export interface DispatchHandlerSeams {
+interface DispatchHandlerSeams {
   readonly now?: () => number
   readonly filePresent?: (path: string) => boolean
   readonly readWhenStable?: (path: string) => Promise<StableRead | null>

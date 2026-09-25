@@ -25,7 +25,7 @@ export type WriteFiles = typeof writeFiles
 
 export type Waiting = (ms: number) => Promise<undefined>
 
-export type LandedBody = { readonly path: string; readonly content: string | null }
+type LandedBody = { readonly path: string; readonly content: string | null }
 
 export type Landing = Awaited<ReturnType<WriteFiles>>
 
@@ -146,7 +146,7 @@ export function closingFor(pageTypeSlug: string): string {
   return `} as const satisfies ${typeNameFor(pageTypeSlug)}`
 }
 
-export type PageKey = readonly [string, string | number | boolean]
+type PageKey = readonly [string, string | number | boolean]
 
 export function pageBodyFor(
   folder: string,
@@ -204,7 +204,7 @@ export function insertedByInstant(
   return put
 }
 
-export type RowValue = readonly [string, unknown]
+type RowValue = readonly [string, unknown]
 
 export function jsonRowOf(keys: readonly RowValue[]): string {
   const out: Record<string, unknown> = {}

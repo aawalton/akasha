@@ -18,7 +18,7 @@ const FOLDER = "temper/player/progress/temper-task/pages"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
 
-export type TaskValues = Readonly<Record<string, string | number | boolean | null>>
+type TaskValues = Readonly<Record<string, string | number | boolean | null>>
 
 export function taskPagePath(slug: string): string {
   return pagePathIn(FOLDER, slug, TASK_PAGE_TYPE_SLUG)

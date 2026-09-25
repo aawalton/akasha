@@ -7,20 +7,20 @@ export interface CharacterMark {
   readonly characterId: string
 }
 
-export interface RollableTask {
+interface RollableTask {
   readonly taskId: string
   readonly scope: string | undefined
   readonly effectiveCharacterId: string | undefined
 }
 
-export interface RollInputs {
+interface RollInputs {
   readonly tasks: readonly RollableTask[]
   readonly completed: readonly CharacterMark[]
   readonly progressed: readonly CharacterMark[]
   readonly roster: readonly string[]
 }
 
-export interface RollVerdict {
+interface RollVerdict {
   readonly taskId: string
   readonly rolls: boolean
   readonly why: string

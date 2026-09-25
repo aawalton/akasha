@@ -70,7 +70,7 @@ export type ProgressDeps = {
   readonly report?: (message: string) => void
 }
 
-export type ProgressReady = {
+type ProgressReady = {
   readonly ask: typeof askingFor
   readonly pages: ReadPages
   readonly files: ReadFiles
