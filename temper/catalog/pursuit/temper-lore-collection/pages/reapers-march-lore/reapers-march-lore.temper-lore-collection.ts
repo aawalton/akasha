@@ -7,5 +7,10 @@ export const reapersMarchLore = {
   title: "Reaper's March Lore",
   esoLoreCategoryId: 1,
   esoCollectionIndex: 28,
+  esoLoreCollectionId: 39,
+  loreCollectionDescription: "A Mages Guild collection of books regarding Reaper's March.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_places.dds",
+  hidden: false,
+  bookTotal: 10,
   books: "jsonl",
 } as const satisfies TemperLoreCollection
