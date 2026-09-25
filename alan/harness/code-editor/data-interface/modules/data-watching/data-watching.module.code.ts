@@ -50,7 +50,7 @@ const SEAT_TYPE = "01a05035-2609-7463-ba49-ccaf20f5c337"
 const SUBAGENT_TYPE = "01a05978-f2e1-78e7-9017-ab14c5c1d79b"
 const TURN_STATE_TYPE = "01a06924-e882-736f-8cac-465ef2b5d799"
 const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
-const SERVICE = "service"
+const AKASHA_SERVICE_TYPE = "01a05a3c-caff-7656-b00d-cbde9f3cf324"
 const SIDECAR = ".uncommitted.ts"
 const SETTLE_MS = 25
 
@@ -92,7 +92,8 @@ function pageEnding(pageTypeSlug: string): string {
 }
 
 function serviceTypes(root: string): readonly string[] {
-  return [...kindsUnder(SERVICE, root)].filter((one) => one !== SERVICE)
+  const top = typeSlugOf(root, AKASHA_SERVICE_TYPE)
+  return [...kindsUnder(top, root)].filter((one) => one !== top)
 }
 
 function pagesOfTypes(root: string, pageTypeSlugs: readonly string[]): readonly string[] {

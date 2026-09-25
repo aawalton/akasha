@@ -6,6 +6,7 @@ export const dataWatching = {
   slug: "data-watching",
   definition: "the loop holding what the editor draws and writing it where the editor reads",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
