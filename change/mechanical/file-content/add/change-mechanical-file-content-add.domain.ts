@@ -4,7 +4,7 @@ export const changeMechanicalFileContentAdd = {
   id: "01a07cbf-ddf1-7510-8754-5aa087d7d8a0",
   type: "page-type/domain",
   slug: "change-mechanical-file-content-add",
-  definition: "a mechanical change adding to what a file holds",
+  definition: "a mechanical change that adds to a file's body",
   parts: [
     "change-mechanical-file-content/add-page-property",
     "change-mechanical-file-content/add-property-record",
