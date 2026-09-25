@@ -60,6 +60,16 @@ export const inventoryRuleToPages = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A skill line test naming a skill line no skill line page is is refused, and the rule is not written.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "A skill line is known by the skill line ids a browser holds rather than by the pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A comparison no comparison op page has as its key is refused, and the rule is not written.",
     },
     {

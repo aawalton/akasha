@@ -11,6 +11,7 @@ import type {
   CategoryRule,
   CharEligibility,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { COMPARISON_OP_PAGES } from "akasha/temper/player/progress/temper-comparison-op/modules/comparison-op-pages/comparison-op-pages.module.code.ts"
 
 const SLUG_PREFIX = "rule-"
@@ -30,6 +31,8 @@ const SKILL_LINE = "temper-skill-line"
 const COMPARISON_OP = "temper-comparison-op"
 
 const OP_ENDING = "Op"
+
+const KNOWN_SKILL_LINES: ReadonlySet<string> = new Set<string>(skillLines.ids)
 
 function slugOf(key: string): string {
   let out = ""
@@ -91,6 +94,13 @@ export function characterConditionsOf(
   const out: CharacterConditionEntry[] = []
   const lines = test.requiredSkillLines
   if (lines !== undefined) {
+    const unknown = lines.skillLineIds.find((id) => !KNOWN_SKILL_LINES.has(id))
+    if (unknown !== undefined) {
+      throw new Error(
+        `inventoryRuleToPages: a leg's skill line test names \`${unknown}\`, which no ` +
+          `${SKILL_LINE} page is, and the rule is not written`
+      )
+    }
     const skillLines = lines.skillLineIds.map((id) => namedAs(SKILL_LINE, id, null))
     out.push({
       ...testOf("requiredSkillLines", lines.mode),

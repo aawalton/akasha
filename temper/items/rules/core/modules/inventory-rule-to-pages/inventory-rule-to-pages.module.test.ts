@@ -227,6 +227,14 @@ test("a leg's character test is written one test to a record, naming field pages
   expect("charEligibility" in (held.chain?.[0] ?? {})).toBe(false)
 })
 
+test("a skill line test naming a skill line no page is is refused, and the rule is not written", () => {
+  expect(() =>
+    characterConditionsOf({
+      requiredSkillLines: { mode: "all-maxed", skillLineIds: ["no-such-line"] },
+    })
+  ).toThrow("names `no-such-line`, which no temper-skill-line page is")
+})
+
 test("a leg with no character test writes no record", () => {
   expect(characterConditionsOf(undefined)).toEqual([])
   expect(characterConditionsOf({})).toEqual([])

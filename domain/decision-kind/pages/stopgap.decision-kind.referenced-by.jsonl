@@ -79,6 +79,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-place-model/ui-place-model.lua-module.ts","id":"01a0c9f1-36c1-73df-8646-fa76a2dbda20"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-text-model/ui-text-model.lua-module.ts","id":"01a0c9f5-7be6-7247-880c-a8fde9d42eb2"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.ts","id":"01a072b6-0546-7d78-8e19-d3cb86901c69"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/data.file-property.ts","id":"01a0b725-59a6-7789-9477-41dbe92b0231"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule/properties/condition-value.text-property.ts","id":"01a05fd0-3aa5-7e12-bb0a-a40ab13f2405"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-pricing-tables/watcher-pricing-tables.module.ts","id":"01a06381-35cf-7f9a-8a86-81d472cd7c24"}
