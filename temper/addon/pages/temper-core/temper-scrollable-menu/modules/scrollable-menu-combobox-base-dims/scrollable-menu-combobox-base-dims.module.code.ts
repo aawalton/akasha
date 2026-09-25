@@ -93,7 +93,7 @@ const comboBox_base = asComboBoxBaseClass(classes.comboboxBaseClass)
 
 interface DropdownObjectShowLike {
   Show: (
-    this: void,
+    this: DropdownObjectShowLike,
     comboBox: unknown,
     sortedItems: unknown,
     containerMinWidth: unknown,

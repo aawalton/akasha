@@ -23,5 +23,9 @@ export const scrollableMenuComboboxBaseDims = {
       decisionKind: "decision-kind/departure",
       statement: "Showing a submenu hides the context menu unless that menu is already visible.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A menu shows its list by calling the list's own Show on the list.",
+    },
   ],
 } as const satisfies Module
