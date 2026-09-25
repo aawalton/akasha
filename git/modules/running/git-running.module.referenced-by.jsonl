@@ -69,6 +69,7 @@
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-running.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"page/index/modules/commit-surface/commit-surface.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"page/index/modules/reading/index-reading.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-running.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.code.ts","typed":false,"deferred":false}

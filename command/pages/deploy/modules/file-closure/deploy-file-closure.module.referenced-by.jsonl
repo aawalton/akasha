@@ -6,4 +6,5 @@
 {"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"infrastructure/service/akasha-service/modules/deploy-wanting/deploy-wanting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"deploy-file-closure.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/pages/deploy/deploy.command.ts","id":"01a05af7-5996-7002-bc83-446645b7de16"}

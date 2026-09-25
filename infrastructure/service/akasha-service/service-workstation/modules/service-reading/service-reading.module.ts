@@ -14,6 +14,11 @@ export const serviceReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Services are read from the pages the caller hands in, whether a checkout's or a commit's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slug no page is filed under is refused by name.",
     },
     {

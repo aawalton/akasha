@@ -91,11 +91,11 @@ import {
   servableNamed,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts"
 import {
+  provingAt,
   putUpEvery,
   restartingAt,
   sinceAt,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts"
-import { provingFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
 const PUT_UP = "deploy"
@@ -326,7 +326,7 @@ async function deployHeld(
   const built = narrowed === null ? closureFor(given.root, slug, read, commit) : unionOf(narrowed)
   const proving =
     read.kind === WORKSTATION_SERVICE && restarting !== null
-      ? provingFor(given.root, restarting)
+      ? provingAt(given.root, commit, restarting)
       : []
   const judged = await judgementOf(given.root, slug, was, commit, built, proving, closures)
   const noting = async (why: readonly string[]): Promise<readonly string[]> => [

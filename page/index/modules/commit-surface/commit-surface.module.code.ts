@@ -60,3 +60,13 @@ export function readingFrom(root: string, base: string): Reading | null {
     },
   }
 }
+
+export function saidOfNoPages(root: string, base: string): string {
+  return `${base} gives no index in ${root}, so no page can be read at it`
+}
+
+export function pagesAt(root: string, base: string): Reading {
+  const found = readingFrom(root, base)
+  if (found === null) throw new Error(saidOfNoPages(root, base))
+  return found
+}

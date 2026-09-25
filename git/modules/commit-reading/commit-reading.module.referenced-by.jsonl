@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"command/pages/git/restore/git-restore.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"git/modules/commit-reading/commit-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"page/index/modules/commit-surface/commit-surface.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"page/index/modules/commit-surface/commit-surface.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-reading.module.code.ts","path":"page/index/modules/tree-reading/tree-reading.module.code.ts","typed":false,"deferred":false}

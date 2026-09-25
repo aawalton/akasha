@@ -24,13 +24,19 @@ import { copiedIn } from "akasha/infrastructure/container-image/modules/image-in
 import { deployableNamed } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
 import { servableNamed } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts"
 import { runnerCodeIn } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
-import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import {
+  type Answering,
+  answeringOver,
+} from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 import type { Body } from "akasha/page/index/modules/package-reaching/package-reaching.module.code.ts"
 import { generatedAt } from "akasha/page/index/modules/property-carrying/property-carrying.module.code.ts"
 import {
   everyOfType,
+  valueByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading as Pages } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { shadowAt } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -87,8 +93,16 @@ export function readingOver(tracked: readonly string[], bodyAt: Body, index: Ans
   }
 }
 
-export function readingAt(root: string, commit: string): Reading {
-  return readingOver(trackedAt(root, commit), bodiesFrom(root, commit), shadowAt(root).index)
+export function indexOver(pages: Pages): Answering {
+  return answeringOver(pages, (path) => valueByPath(pages, path))
+}
+
+export function readingAt(
+  root: string,
+  commit: string,
+  pages: Pages = pagesAt(root, commit)
+): Reading {
+  return readingOver(trackedAt(root, commit), bodiesFrom(root, commit), indexOver(pages))
 }
 
 export function underFolder(tracked: readonly string[], folder: string): readonly string[] {
@@ -157,24 +171,29 @@ function iosSeeds(root: string): readonly string[] {
   return "why" in shared ? [] : shared.files
 }
 
-function everySeed(root: string, kind: string, tracked: readonly string[]): readonly string[] {
+function everySeed(
+  pages: string | Pages,
+  kind: string,
+  tracked: readonly string[]
+): readonly string[] {
   const found: string[] = []
-  for (const one of everyOfType(root, kind)) found.push(...besideThe(tracked, one.path))
+  for (const one of everyOfType(pages, kind)) found.push(...besideThe(tracked, one.path))
   return found
 }
 
-export function kindSeeds(root: string, kind: string): readonly string[] {
-  return kind === WORKSTATION_SERVICE ? runnerCodeIn(root) : []
+export function kindSeeds(pages: string | Pages, kind: string): readonly string[] {
+  return kind === WORKSTATION_SERVICE ? runnerCodeIn(pages) : []
 }
 
 function seedsFor(
   root: string,
   slug: string,
   read: Named,
-  tracked: readonly string[]
+  tracked: readonly string[],
+  pages: string | Pages = root
 ): readonly string[] {
-  const shared = kindSeeds(root, read.kind)
-  if (read.every === true) return [...everySeed(root, read.kind, tracked), ...shared]
+  const shared = kindSeeds(pages, read.kind)
+  if (read.every === true) return [...everySeed(pages, read.kind, tracked), ...shared]
   const beside = [...besideThe(tracked, read.pagePath), ...shared]
   if (read.kind === WEB_APP) return [...beside, ...webSeeds(root, slug, tracked)]
   if (read.kind === IOS_APP) return [...beside, ...iosSeeds(root)]
@@ -244,9 +263,10 @@ export function closureIn(
   reading: Reading,
   root: string,
   slug: string,
-  read: Named
+  read: Named,
+  pages: string | Pages = root
 ): ReadonlySet<string> {
-  const seeds = seedsFor(root, slug, read, reading.tracked)
+  const seeds = seedsFor(root, slug, read, reading.tracked, pages)
   return closureWithImages(reading, seeds, namedByPage(root), onwardOf(read.kind, root))
 }
 
@@ -255,12 +275,20 @@ export function closuresOf(
   kind: Named["kind"],
   commit: string
 ): ReadonlyMap<string, ReadonlySet<string>> {
-  const reading = readingAt(root, commit)
+  const pages = pagesAt(root, commit)
+  const reading = readingAt(root, commit, pages)
   const found = new Map<string, ReadonlySet<string>>()
-  for (const one of valuesOfType(root, kind)) {
+  for (const [slug, pagePath] of kindPagesIn(pages, kind)) {
+    found.set(slug, closureIn(reading, root, slug, { kind, pagePath }, pages))
+  }
+  return found
+}
+
+export function kindPagesIn(pages: string | Pages, kind: string): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const one of valuesOfType(pages, kind)) {
     const slug = textAt(one.value, "slug")
-    if (slug === null) continue
-    found.set(slug, closureIn(reading, root, slug, { kind, pagePath: one.path }))
+    if (slug !== null) found.set(slug, one.path)
   }
   return found
 }
@@ -327,7 +355,8 @@ export function closureFor(
   read: Named,
   commit: string
 ): ReadonlySet<string> {
-  return closureIn(readingAt(root, commit), root, slug, read)
+  const pages = pagesAt(root, commit)
+  return closureIn(readingAt(root, commit, pages), root, slug, read, pages)
 }
 
 const STYLED = ".css"

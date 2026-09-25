@@ -44,6 +44,14 @@ export const serviceBundling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That index is the one the caller hands in, which a deploy reads at its commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service's running code is looked for in the tree the bundle is built from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The entry handed to the bundler is a stub outside the repository rather than a file in it.",
     },

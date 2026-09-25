@@ -42,6 +42,10 @@ export const infrastructureServiceBundle = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The service page is found through the index that commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The answer names the file written, its size, and the seconds the build took.",
     },
     {

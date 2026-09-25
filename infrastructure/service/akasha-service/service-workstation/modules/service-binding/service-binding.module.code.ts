@@ -1,5 +1,8 @@
-import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import {
+  listedAt,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   numberAt,
@@ -14,23 +17,23 @@ const PORT = "port"
 
 const BINDS = "binds"
 
-export function pagePathFor(root: string, slug: string): string | null {
-  const one = listedAt(root, SERVICE_PAGE_TYPE, slug)[0]
+export function pagePathFor(pages: string | Reading, slug: string): string | null {
+  const one = listedAt(pages, SERVICE_PAGE_TYPE, slug)[0]
   return one === undefined ? null : one.path
 }
 
-function statedFor(root: string, slug: string): Value | null {
-  const path = pagePathFor(root, slug)
-  return path === null ? null : valueAt(path, root)
+function statedFor(pages: string | Reading, slug: string): Value | null {
+  const path = pagePathFor(pages, slug)
+  return path === null ? null : valueByPath(pages, path)
 }
 
-export function portFor(root: string, slug: string): number | null {
-  const value = statedFor(root, slug)
+export function portFor(pages: string | Reading, slug: string): number | null {
+  const value = statedFor(pages, slug)
   return value === null ? null : numberAt(value, PORT)
 }
 
-export function bindsFor(root: string, slug: string): readonly string[] {
-  const value = statedFor(root, slug)
+export function bindsFor(pages: string | Reading, slug: string): readonly string[] {
+  const value = statedFor(pages, slug)
   const stated = value === null ? null : textsAt(value, BINDS)
   return stated === null || stated.length === 0 ? [LOOPBACK] : stated
 }

@@ -22,10 +22,11 @@ import type { Systemd } from "akasha/infrastructure/service/akasha-service/servi
 import {
   everyOfType,
   listedAt,
+  valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   textAt,
   type Value,
@@ -82,13 +83,13 @@ export function systemdIn(value: Value): Systemd | undefined {
   return took as Systemd
 }
 
-export function runnerCodeIn(root: string): readonly string[] {
-  const run = runOf(root, RUNNER)
+export function runnerCodeIn(pages: string | Reading): readonly string[] {
+  const run = runOf(pages, RUNNER)
   return "refused" in run ? [] : [run.path]
 }
 
 function runsFrom(
-  root: string,
+  pages: string | Reading,
   value: Value,
   codeAt: string = "",
   bundles: ReadonlyMap<string, string> = new Map()
@@ -100,7 +101,7 @@ function runsFrom(
     if (!existsSync(bundle)) return { refused: saidOfNoBundle(slug, bundle) }
     return [startedFromBundle(bundle)]
   }
-  const said = commandOf(root, { code: RUNNER, arguments: [slug] }, codeAt)
+  const said = commandOf(pages, { code: RUNNER, arguments: [slug] }, codeAt)
   return "refused" in said ? said : [said.command]
 }
 
@@ -109,7 +110,7 @@ function refusedIn(held: readonly string[] | Refused | null): held is Refused {
 }
 
 export function serviceIn(
-  root: string,
+  pages: string | Reading,
   value: Value,
   codeAt: string = "",
   bundles: ReadonlyMap<string, string> = new Map()
@@ -117,7 +118,7 @@ export function serviceIn(
   const id = textAt(value, "id")
   const slug = textAt(value, "slug")
   const definition = textAt(value, "definition")
-  const runs = runsFrom(root, value, codeAt, bundles)
+  const runs = runsFrom(pages, value, codeAt, bundles)
   const enabled = value.enabled
   if (id === null || slug === null || definition === null || runs === null) return null
   if (refusedIn(runs)) return null
@@ -144,8 +145,8 @@ export function serviceIn(
   }
 }
 
-export function pagesOriginIn(root: string): string | undefined {
-  const port = portFor(root, PAGES_SLUG)
+export function pagesOriginIn(pages: string | Reading): string | undefined {
+  const port = portFor(pages, PAGES_SLUG)
   return port === null ? undefined : `http://${LOOPBACK}:${port}`
 }
 
@@ -154,47 +155,47 @@ export function pagesOriginHere(): string | undefined {
 }
 
 function serviceAt(
-  root: string,
+  pages: string | Reading,
   path: string,
   codeAt: string,
   bundles: ReadonlyMap<string, string>
 ): Service | string {
-  const value = valueAt(path, root)
+  const value = valueByPath(pages, path)
   if (value === null) return `${path} did not load, so the service it states is not read`
-  const runs = runsFrom(root, value, codeAt, bundles)
+  const runs = runsFrom(pages, value, codeAt, bundles)
   if (refusedIn(runs)) return `${path} states a start that will not compose — ${runs.refused}`
-  const service = serviceIn(root, value, codeAt, bundles)
+  const service = serviceIn(pages, value, codeAt, bundles)
   if (service === null) {
     return `${path} states no slug, definition, runs and enabled, so it is no workstation service`
   }
-  const pagesOrigin = pagesOriginIn(root)
+  const pagesOrigin = pagesOriginIn(pages)
   return { service, pagePath: path, ...(pagesOrigin === undefined ? {} : { pagesOrigin }) }
 }
 
 export function readFor(
-  root: string,
+  pages: string | Reading,
   slug: string,
   codeAt: string = "",
   bundles: ReadonlyMap<string, string> = new Map()
 ): Read {
-  const found = listedAt(root, SERVICE_PAGE_TYPE, slug)
+  const found = listedAt(pages, SERVICE_PAGE_TYPE, slug)
   const one = found[0]
   if (one === undefined) return { unnamed: `no ${SERVICE_PAGE_TYPE} is slugged \`${slug}\`` }
-  const read = serviceAt(root, one.path, codeAt, bundles)
+  const read = serviceAt(pages, one.path, codeAt, bundles)
   return typeof read === "string" ? { refused: read } : { services: [read] }
 }
 
 export function everyService(
-  root: string,
+  pages: string | Reading,
   codeAt: string = "",
   bundles: ReadonlyMap<string, string> = new Map()
 ): Every {
-  const found = [...everyOfType(root, SERVICE_PAGE_TYPE)].sort((a, b) =>
+  const found = [...everyOfType(pages, SERVICE_PAGE_TYPE)].sort((a, b) =>
     a.path < b.path ? -1 : a.path > b.path ? 1 : 0
   )
   const services: Service[] = []
   for (const one of found) {
-    const read = serviceAt(root, one.path, codeAt, bundles)
+    const read = serviceAt(pages, one.path, codeAt, bundles)
     if (typeof read === "string") return { refused: read }
     services.push(read)
   }

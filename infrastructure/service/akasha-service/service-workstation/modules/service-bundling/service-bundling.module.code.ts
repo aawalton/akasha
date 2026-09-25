@@ -11,6 +11,7 @@ import {
   listedAt,
   slugsOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { BunPlugin } from "bun"
 
@@ -142,14 +143,14 @@ export function stubFor(running: string, runs: string = RUNS, takes: string = ""
   return `import { ${runs} } from ${JSON.stringify(running)}\n\nawait ${runs}(${takes})\n`
 }
 
-function runningIn(root: string, slug: string): Reached {
-  const found = listedAt(root, SERVICE_PAGE_TYPE, slug)[0]
+function runningIn(pages: string | Reading, slug: string, tree: string): Reached {
+  const found = listedAt(pages, SERVICE_PAGE_TYPE, slug)[0]
   if (found === undefined) return { unnamed: noService(slug) }
   const beside = besideAt(found.path, RUNNING, TS)
   if (beside === null) {
     return { refused: `\`${slug}\` sits at \`${found.path}\`, which takes no code beside it` }
   }
-  const at = join(root, beside)
+  const at = join(tree, beside)
   if (!existsSync(at)) return { refused: `\`${slug}\` keeps no \`${RUNNING}.${TS}\` at \`${at}\`` }
   return { running: at }
 }
@@ -341,15 +342,15 @@ async function bundledFrom(
 }
 
 export async function bundledFor(
-  root: string,
+  pages: string | Reading,
   slug: string,
   home: string,
   commit: string,
   tree: string
 ): Promise<Made> {
-  const reached = runningIn(root, slug)
+  const reached = runningIn(pages, slug, tree)
   if (!("running" in reached)) return reached
-  return bundledFrom(root, slug, reached.running, home, commit, tree)
+  return bundledFrom(tree, slug, reached.running, home, commit, tree)
 }
 
 export async function bundledTeller(

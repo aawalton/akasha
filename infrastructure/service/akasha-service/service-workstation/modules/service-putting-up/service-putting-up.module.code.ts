@@ -42,11 +42,14 @@ import {
   systemctl,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"
 import { everyService } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
+import { provingFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.code.ts"
 import { serviceTelling } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-telling/service-telling.module.ts"
 import {
   TELLING_TEMPLATE,
   tellingUnitText,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 const TELLER = `${module.slug}/${serviceTelling.slug}` as const
 
@@ -61,19 +64,27 @@ type Planned = {
 }
 
 export function sharedUnitsIn(
-  root: string,
+  pages: string | Reading,
   codeAt: string = "",
   bundles: ReadonlyMap<string, string> = new Map()
 ): ReadonlyMap<string, string> | Refused {
   const bundle = bundles.get(TELLER_STEM)
   const said =
     bundle === undefined
-      ? commandOf(root, { code: TELLER, arguments: [THIS_UNIT] }, codeAt)
+      ? commandOf(pages, { code: TELLER, arguments: [THIS_UNIT] }, codeAt)
       : { command: `${startedFromBundle(bundle)} ${THIS_UNIT}` }
   if ("refused" in said) return said
-  const pagePath = pathOf(root, TELLER)
+  const pagePath = pathOf(pages, TELLER)
   if (typeof pagePath !== "string") return pagePath
   return new Map([[TELLING_TEMPLATE, tellingUnitText({ command: said.command, pagePath })]])
+}
+
+export function provingAt(
+  root: string,
+  commit: string,
+  restarting: ReadonlySet<string>
+): readonly string[] {
+  return provingFor(pagesAt(root, commit), restarting)
 }
 
 export function notPutUpAt(
@@ -208,24 +219,25 @@ function closuresAt(
 }
 
 async function bundledAt(
-  root: string,
+  pages: Reading,
   slug: string,
   home: string,
   commit: string,
   tree: string,
   teller: string
 ): Promise<Made> {
-  if (slug === TELLER_STEM) return await bundledTeller(root, join(root, teller), home, commit, tree)
-  return await bundledFor(root, slug, home, commit, tree)
+  if (slug === TELLER_STEM) return await bundledTeller(tree, join(tree, teller), home, commit, tree)
+  return await bundledFor(pages, slug, home, commit, tree)
 }
 
 async function bundlesBuilt(
   root: string,
+  pages: Reading,
   home: string,
   commit: string,
   leftAlone: ReadonlySet<string> = new Set()
 ): Promise<Bundled> {
-  const run = runOf(root, TELLER)
+  const run = runOf(pages, TELLER)
   if ("refused" in run) return { refused: saidOfUnbuilt(TELLER_STEM, run.refused) }
   const sorted = bundlingAmong(closuresAt(root, commit, run.path), home, sinceAt(root, commit))
   const bundles = new Map<string, string>()
@@ -241,7 +253,7 @@ async function bundlesBuilt(
   const checked = checkedOut(root, commit)
   if ("refused" in checked) return { refused: saidOfUnchecked(commit, checked.refused) }
   for (const slug of wanted) {
-    const made = await bundledAt(root, slug, home, commit, checked.tree, run.path)
+    const made = await bundledAt(pages, slug, home, commit, checked.tree, run.path)
     if (!("built" in made)) {
       return { refused: saidOfUnbuilt(slug, "unnamed" in made ? made.unnamed : made.refused) }
     }
@@ -252,19 +264,19 @@ async function bundlesBuilt(
 }
 
 export function plannedEvery(
-  root: string,
+  pages: string | Reading,
   restarting: ReadonlySet<string> = new Set(),
   codeAt: string = "",
   bundles: ReadonlyMap<string, string> = new Map(),
   leftAlone: ReadonlySet<string> = new Set()
 ): Planned | Answer {
-  const read = everyService(root, codeAt, bundles)
+  const read = everyService(pages, codeAt, bundles)
   if ("refused" in read) return refusedBy([read.refused], DATA)
 
   const home = homeAt()
   if (home === null) return refusedBy([NO_HOME], OPERATIONAL)
 
-  const shared = sharedUnitsIn(root, codeAt, bundles)
+  const shared = sharedUnitsIn(pages, codeAt, bundles)
   if ("refused" in shared) return refusedBy([shared.refused], DATA)
 
   const plan = planFor(read.services, ourInstalled(home), restarting, shared, leftAlone)
@@ -288,11 +300,12 @@ export async function putUpEvery(
   const home = homeAt()
   if (home === null) return refusedBy([NO_HOME], OPERATIONAL)
 
-  const built = await bundlesBuilt(root, home, commit, leftAlone)
+  const pages = pagesAt(root, commit)
+  const built = await bundlesBuilt(root, pages, home, commit, leftAlone)
   if ("refused" in built) return refusedBy([built.refused], OPERATIONAL)
 
   const changed = restartedAmong(restarting, built.again, built.bundles, home)
-  const planned = plannedEvery(root, changed, codeAt, built.bundles, leftAlone)
+  const planned = plannedEvery(pages, changed, codeAt, built.bundles, leftAlone)
   if (!("plan" in planned)) return planned
 
   const done = installing(planned.home, planned.plan, systemctl, up)

@@ -1,7 +1,16 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { dirname } from "node:path"
+import { dirname, join } from "node:path"
+import { module } from "akasha/code/module/module.page-type.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import { kindPagesIn } from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import {
+  PAGE_TYPE,
+  WORKSTATION_SERVICE,
+} from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { readingEnded } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
+import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
 import {
   TELLER_STEM,
   unitAt,
@@ -15,7 +24,11 @@ import {
   restartingAt,
   sharedUnitsIn,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts"
+import { serviceTelling } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-telling/service-telling.module.ts"
 import { TELLING_TEMPLATE } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { filedAt } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -208,4 +221,94 @@ test("a service that may restart is one the deploy touched or one it will bundle
   const touched = new Set(["touched-behind"])
   const found = restartingAt(touched, NOW, closures, changing("again/one.ts"), STAGED)
   expect([...found].sort()).toEqual(["bundled-again", "touched-behind"])
+})
+
+const scratch = scratchWorld()
+
+afterAll(() => {
+  readingEnded()
+  scratch.sweep()
+})
+
+const HELD = "held"
+
+const ARRIVED = "arrived"
+
+const SLUG = "slug"
+
+const ENDING = ".jsonl"
+
+function listing(kind: string, slug: string, path: string, id: string): readonly [string, string] {
+  const at = `${join(indexNamed(), filedAt(PAGE_TYPE, kind, SLUG, slug))}${ENDING}`
+  return [at, `${JSON.stringify({ path, id })}\n`]
+}
+
+function serviceFiles(slug: string, id: string): ReadonlyMap<string, string> {
+  const path = `services/${slug}/${slug}.${WORKSTATION_SERVICE}.ts`
+  const body =
+    `export const ${slug} = {\n` +
+    `  id: "${id}",\n` +
+    `  type: "${PAGE_TYPE}/${WORKSTATION_SERVICE}",\n` +
+    `  slug: "${slug}",\n` +
+    `  definition: "a service one commit holds",\n` +
+    "  enabled: true,\n" +
+    "} as const\n"
+  return new Map([listing(WORKSTATION_SERVICE, slug, path, id), [path, body]])
+}
+
+function tellerFiles(): ReadonlyMap<string, string> {
+  const path = `services/${serviceTelling.slug}/${serviceTelling.slug}.${module.slug}.ts`
+  return new Map([listing(module.slug, serviceTelling.slug, path, serviceTelling.id)])
+}
+
+function written(root: string, files: ReadonlyMap<string, string>): undefined {
+  for (const [path, body] of files) {
+    const at = join(root, path)
+    mkdirSync(dirname(at), { recursive: true })
+    writeFileSync(at, body)
+  }
+}
+
+function pinnedBehind(root: string): string {
+  git(root, ["init", "--quiet"])
+  git(root, ["config", "user.email", "held@nowhere"])
+  git(root, ["config", "user.name", "Held"])
+  written(
+    root,
+    new Map([...serviceFiles(HELD, "01a0a000-0000-7000-8000-000000000001"), ...tellerFiles()])
+  )
+  git(root, ["add", "-A"])
+  git(root, ["commit", "--quiet", "-m", HELD])
+  written(root, serviceFiles(ARRIVED, "01a0a000-0000-7000-8000-000000000002"))
+  return git(root, ["rev-parse", "HEAD"]).trim()
+}
+
+function bundlesUnder(at: string): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const slug of [HELD, ARRIVED, TELLER_STEM]) {
+    const bundle = join(at, slug, `${NOW}.js`)
+    mkdirSync(dirname(bundle), { recursive: true })
+    writeFileSync(bundle, slug)
+    found.set(slug, bundle)
+  }
+  return found
+}
+
+test("a service page the checkout holds and the pinned commit does not is no service the plan puts up", () => {
+  const root = scratch.rootFor("akasha-putting-up-pinned-")
+  const commit = pinnedBehind(root)
+  const bundles = bundlesUnder(scratch.rootFor("akasha-putting-up-bundles-"))
+  const checkout = plannedEvery(root, new Set(), "", bundles)
+  expect(checkout.report[0]).toBe(`${WORKSTATION_SERVICE}\t2 service(s)`)
+  const planned = plannedEvery(pagesAt(root, commit), new Set(), "", bundles)
+  expect(planned.report[0]).toBe(`${WORKSTATION_SERVICE}\t1 service(s)`)
+  expect(planned.report.filter((one) => one.includes(ARRIVED))).toEqual([])
+  expect(planned.report.some((one) => one.includes(HELD))).toBe(true)
+})
+
+test("a service page the checkout holds and the pinned commit does not is no service bundled", () => {
+  const root = scratch.rootFor("akasha-putting-up-closures-")
+  const commit = pinnedBehind(root)
+  expect([...kindPagesIn(root, WORKSTATION_SERVICE).keys()]).toEqual([ARRIVED, HELD])
+  expect([...kindPagesIn(pagesAt(root, commit), WORKSTATION_SERVICE).keys()]).toEqual([HELD])
 })

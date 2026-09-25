@@ -31,6 +31,11 @@ export const commitSurface = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A caller needing the pages at a commit that gives no reading is answered by a throw.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path the commit does not hold reads as nothing rather than as trouble.",
     },
     {

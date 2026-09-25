@@ -4,7 +4,11 @@ import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { readingEnded } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
 import { said as git } from "akasha/git/modules/running/git-running.module.code.ts"
-import { readingFrom } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import {
+  pagesAt,
+  readingFrom,
+  saidOfNoPages,
+} from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -81,5 +85,16 @@ test("a commit holding no index folder is answered no reading", () => {
 
 test("a name that is no commit is answered no reading", () => {
   expect(readingFrom(seeded(), "0".repeat(40))).toBeNull()
+  readingEnded()
+})
+
+test("the pages at a commit are the reading that commit gives", () => {
+  expect(pagesAt(seeded(), "HEAD").lines("held/slug/a.jsonl")).toEqual([ENTRY])
+  readingEnded()
+})
+
+test("the pages at a commit giving no reading are refused by a throw naming that commit", () => {
+  const root = repoWith({ "held/a.ts": "export const a = 1\n" })
+  expect(() => pagesAt(root, "HEAD")).toThrow(saidOfNoPages(root, "HEAD"))
   readingEnded()
 })

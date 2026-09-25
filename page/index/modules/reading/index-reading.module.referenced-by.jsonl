@@ -277,6 +277,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-binding/service-binding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-running/service-running.module.code.ts","typed":false,"deferred":false}

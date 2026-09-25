@@ -66,6 +66,15 @@ export const servicePuttingUp = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Which services are put up, and every page the plan reads, is read at that commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service page the checkout holds and that commit does not is put up by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A bundle that will not build refuses the whole call rather than leaving a unit naming it.",
     },
     {

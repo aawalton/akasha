@@ -18,6 +18,7 @@ import {
   checkedOut,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts"
 import { homeAt } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
 
 const NO_HOME = "no home directory is stated, so the bundle has nowhere to be written"
 
@@ -42,7 +43,7 @@ export async function infrastructureServiceBundle(
     const commit = headOf(given.root)
     const checked = checkedOut(given.root, commit)
     if ("refused" in checked) return refused(checked.refused, OPERATIONAL)
-    const made = await bundledFor(given.root, slug, home, commit, checked.tree)
+    const made = await bundledFor(pagesAt(given.root, commit), slug, home, commit, checked.tree)
     if ("unnamed" in made) return refused(made.unnamed, INPUT)
     if ("refused" in made) return refused(made.refused, DATA)
     return told([

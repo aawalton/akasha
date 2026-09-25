@@ -72,6 +72,14 @@ export const deployFileClosure = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which pages of a kind there are is read out of the index that commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The imports are followed through the index that commit holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The paths a container recipe copies out of its context are seeded here.",
     },
     {

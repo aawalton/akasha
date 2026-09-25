@@ -32,7 +32,7 @@
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"code/workspace/modules/manifest-finding/manifest-finding.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"command/modules/landing-entangling/landing-entangling.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"command/modules/value-minting/value-minting.change-generator.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"domain/context/warrant/domain-ancestors/domain-ancestors.context-warrant.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-answering.module.code.ts","path":"domain/plain-language/standard-agent-english/modules/grammar-reading/grammar-reading.module.code.ts","typed":true,"deferred":false}

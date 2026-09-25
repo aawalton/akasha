@@ -2,6 +2,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { checkoutAt } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-checkout/service-checkout.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { checkoutHere } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
@@ -30,10 +31,10 @@ export function noService(slug: string): string {
   return `no workstation service is slugged \`${slug}\``
 }
 
-export function provingFor(root: string, slugs: Iterable<string>): readonly string[] {
+export function provingFor(pages: string | Reading, slugs: Iterable<string>): readonly string[] {
   const found: string[] = []
   for (const slug of slugs) {
-    const page = listedAt(root, SERVICE_PAGE_TYPE, slug)[0]
+    const page = listedAt(pages, SERVICE_PAGE_TYPE, slug)[0]
     if (page === undefined) continue
     const beside = besideAt(page.path, PROVING, TS)
     if (beside !== null) found.push(beside)

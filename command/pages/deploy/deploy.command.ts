@@ -79,6 +79,11 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Which workstation services a deploy puts up, and each page it reads of them, is read at that commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A commit named on the call settles the commit a deploy is made at.",
     },
     {

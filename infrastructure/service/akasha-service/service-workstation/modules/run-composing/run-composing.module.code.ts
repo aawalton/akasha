@@ -6,6 +6,7 @@ import {
   listedFor,
   valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import { addressedIn, addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -28,19 +29,19 @@ export type Run = { readonly runner: string; readonly path: string }
 
 export type Composed = { readonly command: string } | Refused
 
-export function pathOf(root: string, named: string): string | Refused {
+export function pathOf(pages: string | Reading, named: string): string | Refused {
   const address = addressedIn(named)
   if ("refused" in address) return address
-  const one = listedFor(root, address)
+  const one = listedFor(pages, address)
   if (one === null) {
     return { refused: `\`${named}\` names no page, so no command can be composed naming it` }
   }
   return one.path
 }
 
-function typeValueOf(root: string, pageTypeSlug: string): Value | null {
-  const listed = listedAt(root, PAGE_TYPE, pageTypeSlug)[0]
-  return listed === undefined ? null : valueByPath(root, listed.path)
+function typeValueOf(pages: string | Reading, pageTypeSlug: string): Value | null {
+  const listed = listedAt(pages, PAGE_TYPE, pageTypeSlug)[0]
+  return listed === undefined ? null : valueByPath(pages, listed.path)
 }
 
 function requiredCodeIn(value: Value): readonly string[] {
@@ -57,8 +58,8 @@ function requiredCodeIn(value: Value): readonly string[] {
   return found
 }
 
-export function runPropertyOf(root: string, pageTypeSlug: string): string | Refused {
-  const value = typeValueOf(root, pageTypeSlug)
+export function runPropertyOf(pages: string | Reading, pageTypeSlug: string): string | Refused {
+  const value = typeValueOf(pages, pageTypeSlug)
   if (value === null) {
     return {
       refused: `\`${pageTypeSlug}\` is no page type, so nothing says which file its pages run`,
@@ -71,23 +72,23 @@ export function runPropertyOf(root: string, pageTypeSlug: string): string | Refu
       refused: `\`${pageTypeSlug}\` requires ${found.length} code files, and a run needs the one to run`,
     }
   }
-  const filed = shapeOf(root, one)
+  const filed = shapeOf(pages, one)
   if ("refused" in filed) {
     return { refused: `\`${one}\` states no property slug, so which file its pages run is unsaid` }
   }
   return filed.shape.propertySlug
 }
 
-export function runOf(root: string, named: string): Run | Refused {
+export function runOf(pages: string | Reading, named: string): Run | Refused {
   const address = addressIn(named)
   if (address.kind !== "qualified") {
     return { refused: `\`${named}\` names no page type, so which file it runs is not settled` }
   }
-  const page = pathOf(root, named)
+  const page = pathOf(pages, named)
   if (typeof page !== "string") return page
-  const propertySlug = runPropertyOf(root, address.pageTypeSlug)
+  const propertySlug = runPropertyOf(pages, address.pageTypeSlug)
   if (typeof propertySlug !== "string") return propertySlug
-  const held = valueByPath(root, page)?.[propertySlug]
+  const held = valueByPath(pages, page)?.[propertySlug]
   if (typeof held !== "string") {
     return { refused: `\`${named}\` states no \`${propertySlug}\`, so no file beside it is run` }
   }
@@ -107,14 +108,14 @@ export function saidOfUnheld(named: string, at: string): string {
   return `\`${named}\` would be run from ${at}, where no file is, so the tree is behind the pages`
 }
 
-export function commandOf(root: string, start: Start, codeAt: string = ""): Composed {
-  const run = runOf(root, start.code)
+export function commandOf(pages: string | Reading, start: Start, codeAt: string = ""): Composed {
+  const run = runOf(pages, start.code)
   if ("refused" in run) return run
   const runAt = codeAt === "" ? run.path : join(codeAt, run.path)
   if (codeAt !== "" && !existsSync(runAt)) return { refused: saidOfUnheld(start.code, runAt) }
   const words: string[] = [run.runner, runAt]
   for (const named of start.pages ?? []) {
-    const at = pathOf(root, named)
+    const at = pathOf(pages, named)
     if (typeof at !== "string") return at
     words.push(at)
   }
