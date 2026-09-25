@@ -22,6 +22,12 @@ export const vendoredWorkload = {
     { pageProperty: "text-property/resource-kind", required: true, many: false },
     { pageProperty: "text-property/namespace", required: true, many: false },
     { pageProperty: "text-property/resource-name", required: true, many: false },
+    {
+      pageProperty: "boolean-property/well",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   decisions: [
     {
