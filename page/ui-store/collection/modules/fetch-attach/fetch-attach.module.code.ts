@@ -14,6 +14,12 @@ import {
 
 export const FILE_BACKING_POLL_MS = 30_000
 
+const FIRST_RETRY_MS = 1_000
+
+export function retryAfter(missed: number, pollMs: number): number {
+  return Math.min(pollMs, FIRST_RETRY_MS * 2 ** Math.max(0, missed - 1))
+}
+
 export type FetchImpl = (input: string, init?: RequestInit) => Promise<Response>
 
 export type ReadAgain = (ids?: readonly string[]) => Promise<void>
@@ -154,7 +160,7 @@ export function attachFetch(
     return created
   }
 
-  const apply = (rows: readonly PageRow[], only: ReadonlySet<string> | null): undefined => {
+  const apply = (rows: readonly PageRow[], only: ReadonlySet<string> | null): boolean => {
     const set = shapeSet()
     const plan = planFetchedRows(rows, deliveredWithin(set, only), deps.getRow)
     try {
@@ -163,17 +169,18 @@ export function attachFetch(
       if (plan.deletes.length > 0) deps.controller.applyDeletes(plan.deletes)
     } catch (err: unknown) {
       console.error(`pages-ui-store: file-backed fold failed shape=${shapeKey}`, err)
-      return
+      return false
     }
     for (const row of rows) set.add(row.id)
     for (const id of plan.deletes) set.delete(id)
     deps.onShapeLive(shapeKey)
+    return true
   }
 
   const held = (): string =>
     `holding the ${deps.deliveredByShape.get(shapeKey)?.size ?? 0} row(s) already shown`
 
-  const poll = async (ids?: readonly string[]): Promise<void> => {
+  const poll = async (ids?: readonly string[]): Promise<boolean> => {
     const { at, only } = askingAgain(pageTypeSlug, carry, named, ids)
     let response: Response
     try {
@@ -184,14 +191,14 @@ export function attachFetch(
       if (!stopped) {
         console.warn(`pages-ui-store: file-backed fetch failed shape=${shapeKey} — ${held()}`, err)
       }
-      return
+      return false
     }
-    if (stopped) return
+    if (stopped) return false
     if (!response.ok) {
       console.warn(
         `pages-ui-store: file-backed fetch answered ${response.status} shape=${shapeKey} — ${held()}`
       )
-      return
+      return false
     }
     let body: unknown
     try {
@@ -203,15 +210,15 @@ export function attachFetch(
           err
         )
       }
-      return
+      return false
     }
-    if (stopped) return
+    if (stopped) return false
     const rows = readAnswerRows(body)
     if (rows === null) {
       console.warn(
         `pages-ui-store: file-backed answer did not match the page row shape shape=${shapeKey} — ${held()}`
       )
-      return
+      return false
     }
     const cut = readAnswerCut(body, rows.length)
     if (cut !== null) {
@@ -221,21 +228,26 @@ export function attachFetch(
         detail: `shape=${shapeKey} carried=${cut.carried} held=${cut.held}`,
       })
     }
-    apply(rows, only)
+    return apply(rows, only)
   }
 
-  let first = true
+  let read = false
+
+  let missed = 0
 
   const tick = (): undefined => {
-    const followed = !first && deps.followed?.(shapeKey) === true
-    first = false
-    void (followed ? Promise.resolve() : poll(undefined)).finally(() => {
+    const followed = read && deps.followed?.(shapeKey) === true
+    void (followed ? Promise.resolve(true) : poll(undefined)).then((answered) => {
       if (stopped) return
-      timer = setTimeout(tick, deps.pollMs)
+      if (answered) read = true
+      missed = answered ? 0 : missed + 1
+      timer = setTimeout(tick, read ? deps.pollMs : retryAfter(missed, deps.pollMs))
     })
   }
 
-  deps.readingAgain.set(shapeKey, poll)
+  deps.readingAgain.set(shapeKey, async (ids) => {
+    if (await poll(ids)) read = true
+  })
 
   tick()
 

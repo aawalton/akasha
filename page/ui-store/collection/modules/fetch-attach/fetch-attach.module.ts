@@ -12,5 +12,14 @@ export const fetchAttach = {
       decisionKind: "decision-kind/departure",
       statement: "A shape is read on attaching, and on a timer only while no stream follows it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A shape never yet read is read again within seconds, whether or not a stream follows it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The wait before each such read doubles, up to the timer's own wait.",
+    },
   ],
 } as const satisfies Module

@@ -7,6 +7,7 @@ import {
   deliveredWithin,
   filePagesPath,
   readAnswerRows,
+  retryAfter,
 } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 
 const ONE = {
@@ -72,4 +73,11 @@ test("only the pages asked for can leave the shape", () => {
 
 test("an answer holding one row this reader cannot read carries none of them", () => {
   expect(readAnswerRows({ rows: [ONE, { ...ONE, id: "not a uuid" }] })).toBe(null)
+})
+
+test("a shape never yet read is asked again within seconds, doubling up to the timer", () => {
+  expect(retryAfter(1, 30_000)).toBe(1_000)
+  expect(retryAfter(2, 30_000)).toBe(2_000)
+  expect(retryAfter(3, 30_000)).toBe(4_000)
+  expect(retryAfter(9, 30_000)).toBe(30_000)
 })
