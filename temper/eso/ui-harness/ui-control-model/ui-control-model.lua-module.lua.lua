@@ -140,6 +140,10 @@ dress = function(control, spec)
   if spec.padding ~= nil then
     control:SetResizeToFitPadding(measure(spec.padding[1]), measure(spec.padding[2]))
   end
+  if spec.constraints ~= nil then
+    local held = spec.constraints
+    control:SetDimensionConstraints(measure(held[1]), measure(held[2]), measure(held[3]), measure(held[4]))
+  end
   if spec.anchorFill then control:SetAnchorFill() end
   if spec.anchors ~= nil then
     for _, anchor in ipairs(spec.anchors) do

@@ -230,6 +230,14 @@ function paddingOf(element: Element): readonly Measure[] | undefined {
   return ["width", "height"].map((side) => measureOf(held.getAttribute(side)) ?? 0)
 }
 
+const CONSTRAINT_SIDES: readonly string[] = ["minX", "minY", "maxX", "maxY"]
+
+function constraintsOf(element: Element): readonly Measure[] | undefined {
+  const held = childNamed(element, "DimensionConstraints")
+  if (held === null) return undefined
+  return CONSTRAINT_SIDES.map((side) => measureOf(held.getAttribute(side)) ?? 0)
+}
+
 function nodeOf(element: Element): VirtualNode {
   const dimensions = childNamed(element, "Dimensions")
   const backdropCenter = childNamed(element, "CenterColor")
@@ -267,6 +275,7 @@ function nodeOf(element: Element): VirtualNode {
       backdropEdge === null ? hexColor(element.getAttribute("edgeColor")) : colorOf(backdropEdge),
     ...artOf(element),
     padding: paddingOf(element),
+    constraints: constraintsOf(element),
     anchorFill: childNamed(element, "AnchorFill") !== null,
     anchors: anchorsIn(element),
     handlers: handlersIn(element),

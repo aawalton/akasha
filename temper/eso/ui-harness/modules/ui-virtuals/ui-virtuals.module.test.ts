@@ -219,6 +219,20 @@ describe("virtualsFrom", () => {
     expect(virtualsLua(table, 10)[0]).toContain('padding = { 25, "ZO_TIP_PADDING" }')
   })
 
+  test("reads the least and greatest size a template holds a control to, as the game's tooltips write them", () => {
+    const tips = `<GuiXml><Controls>
+      <Tooltip name="TemperTipBase" virtual="true"><DimensionConstraints maxX="350" /></Tooltip>
+      <Tooltip name="TemperTip" virtual="true" inherits="TemperTipBase" />
+      <Tooltip name="TemperFixed" virtual="true">
+        <DimensionConstraints minX="416" maxX="ZO_TIP_WIDTH" />
+      </Tooltip>
+    </Controls></GuiXml>`
+    const table = virtualsFrom([tips])
+    expect(table.TemperTip?.constraints).toEqual([0, 0, 350, 0])
+    expect(table.TemperFixed?.constraints).toEqual([416, 0, "ZO_TIP_WIDTH", 0])
+    expect(virtualsLua(table, 10)[0]).toContain('constraints = { 416, 0, "ZO_TIP_WIDTH", 0 }')
+  })
+
   test("reads the wrap mode a label names by word, and its greatest line count", () => {
     const ellipsed = `<GuiXml><Controls>
       <Label name="TemperEllipsedBase" virtual="true" wrapMode="ELLIPSIS" maxLineCount="2" />

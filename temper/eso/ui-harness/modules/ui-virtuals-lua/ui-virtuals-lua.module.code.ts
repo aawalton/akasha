@@ -41,6 +41,10 @@ function luaArt(node: VirtualNode): readonly string[] {
   if (node.padding !== undefined) {
     parts.push(`padding = { ${node.padding.map((side) => JSON.stringify(side)).join(", ")} }`)
   }
+  if (node.constraints !== undefined) {
+    const sides = node.constraints.map((side) => JSON.stringify(side)).join(", ")
+    parts.push(`constraints = { ${sides} }`)
+  }
   return parts
 }
 

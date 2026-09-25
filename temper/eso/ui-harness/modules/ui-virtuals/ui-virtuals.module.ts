@@ -100,6 +100,11 @@ export const uiVirtuals = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The least and greatest size a template holds a control to are read as written, a side unstated as 0.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A size or an offset the document gives as a name is kept as that name.",
     },
   ],
