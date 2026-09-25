@@ -7,7 +7,7 @@ const serviceTreeRowFields = z.object({
   detail: z.string().nullable(),
 })
 
-type ServiceTreeRow = z.infer<typeof serviceTreeRowFields> & {
+export type ServiceTreeRow = z.infer<typeof serviceTreeRowFields> & {
   readonly children: readonly ServiceTreeRow[]
 }
 

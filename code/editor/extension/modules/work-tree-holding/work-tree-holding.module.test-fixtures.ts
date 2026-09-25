@@ -1,10 +1,10 @@
+import type { WorkTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.code.ts"
 import {
   type Holding,
   heldGone,
   heldWithout,
   intentLabelsIn,
 } from "akasha/code/editor/extension/modules/work-tree-holding/work-tree-holding.module.code.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
 export function rowOf(kind: WorkTreeRow["kind"], key: string, label: string): WorkTreeRow {
   return { kind, key, label, at: null, color: null, detail: null, note: null, children: [] }

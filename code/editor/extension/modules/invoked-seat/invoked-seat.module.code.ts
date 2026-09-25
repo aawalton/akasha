@@ -1,3 +1,4 @@
+import type { AgentTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
 import { seatTabs } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
 import {
   SEAT_MODE_SCHEMA,
@@ -5,7 +6,6 @@ import {
 } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 import * as vscode from "vscode"
 import { z } from "zod"
-import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 export interface SeatClick {
   readonly id: string

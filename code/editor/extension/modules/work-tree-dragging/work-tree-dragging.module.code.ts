@@ -1,3 +1,4 @@
+import type { WorkTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.code.ts"
 import {
   callHarness,
   LANDING_TIMEOUT_MS,
@@ -11,7 +12,6 @@ import { initiativeHandIntent } from "akasha/command/pages/initiative/hand-inten
 import { initiativeMoveIntent } from "akasha/command/pages/initiative/move-intent/initiative-move-intent.command.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import type * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
 export const DRAG_MIME = `application/vnd.code.tree.${VIEW_ID.toLowerCase()}`
 

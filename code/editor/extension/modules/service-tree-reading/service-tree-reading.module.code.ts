@@ -1,4 +1,4 @@
-import "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.d.ts"
+import type { ServiceTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.code.ts"
 
 export function countRows(nodes: readonly ServiceTreeRow[]): number {
   let total = 0

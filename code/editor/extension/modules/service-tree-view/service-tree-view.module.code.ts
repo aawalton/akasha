@@ -1,4 +1,5 @@
 import { relative } from "node:path"
+import type { ServiceTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.code.ts"
 import {
   filterTree,
   textMatches,
@@ -9,7 +10,6 @@ import {
   turnColorIn,
 } from "akasha/code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.d.ts"
 
 const SERVICE_SCHEME = "ops-service"
 

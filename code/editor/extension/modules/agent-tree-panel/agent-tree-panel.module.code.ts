@@ -4,6 +4,7 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
+  type AgentTreeRow,
   type AgentTreeState,
   agentTreeStateSchema,
 } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
@@ -61,7 +62,6 @@ import {
 } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import { stopSubagent } from "akasha/code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "agent-tree"
 const SLUG = "agent-tree"

@@ -1,6 +1,6 @@
 import { expect, mock, test } from "bun:test"
+import type { AgentTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
 import type * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 type Held = Record<string, unknown>
 

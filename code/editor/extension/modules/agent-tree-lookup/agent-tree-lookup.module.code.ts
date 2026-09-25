@@ -1,8 +1,8 @@
+import type { AgentTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
 import {
   SEAT_MODE_SCHEMA,
   type SeatMode,
 } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 export function readSeatPlaces(rows: readonly HarnessRow[]): ReadonlyMap<string, SeatMode> {
   const places = new Map<string, SeatMode>()

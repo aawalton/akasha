@@ -1,7 +1,7 @@
+import type { AgentTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
 import type { ColumnMemory } from "akasha/code/editor/extension/modules/column-memory/column-memory.module.code.ts"
 import type { SeatTerminal } from "akasha/code/editor/extension/modules/seat-terminals/seat-terminals.module.code.ts"
 import type * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 export let output: vscode.OutputChannel
 

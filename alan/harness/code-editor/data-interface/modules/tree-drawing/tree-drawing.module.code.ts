@@ -15,6 +15,18 @@ import {
   type Node,
   treeIn,
 } from "akasha/alan/harness/code-editor/data-interface/modules/work-tree-composing/work-tree-composing.module.code.ts"
+import type {
+  AgentTreeRow,
+  AgentTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
+import type {
+  ServiceTreeRow,
+  ServiceTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.code.ts"
+import type {
+  WorkTreeRow,
+  WorkTreeState,
+} from "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.code.ts"
 import {
   ALAN,
   assembleForest,
@@ -23,9 +35,6 @@ import {
 } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { readSeatPlaces } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.d.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
 function workRow(root: string, node: Node): WorkTreeRow {
   return {

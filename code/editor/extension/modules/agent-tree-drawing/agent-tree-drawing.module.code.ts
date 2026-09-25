@@ -1,3 +1,4 @@
+import type { AgentTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
 import type { SeatClick } from "akasha/code/editor/extension/modules/invoked-seat/invoked-seat.module.code.ts"
 import { seatContextValue } from "akasha/code/editor/extension/modules/seat-toggles/seat-toggles.module.code.ts"
 import { subagentContextValue } from "akasha/code/editor/extension/modules/subagent-stopping/subagent-stopping.module.code.ts"
@@ -11,7 +12,6 @@ import {
   turnStateSaid,
 } from "akasha/code/editor/extension/modules/turn-color-scheme/turn-color-scheme.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.d.ts"
 
 export const REVEAL_TERMINAL_COMMAND = "opsAgentTree.revealTerminal"
 

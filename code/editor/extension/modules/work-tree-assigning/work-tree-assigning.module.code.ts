@@ -1,4 +1,5 @@
 import { seatNameFor } from "akasha/agent/seat/name/modules/initiative-seat-name/initiative-seat-name.module.code.ts"
+import type { WorkTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.code.ts"
 import {
   callHarness,
   LANDING_TIMEOUT_MS,
@@ -11,7 +12,6 @@ import { initiativeGoneOf } from "akasha/code/editor/extension/modules/work-tree
 import { shownSaid } from "akasha/code/editor/extension/modules/work-tree-dragging/work-tree-dragging.module.code.ts"
 import { initiativeAssign } from "akasha/command/pages/initiative/assign/initiative-assign.command.ts"
 import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
 const ASSIGN_SLUG = initiativeAssign.slug
 

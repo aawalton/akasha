@@ -11,7 +11,7 @@ const agentTreeRowFields = z.object({
   waitingOn: z.string().nullable(),
 })
 
-type AgentTreeRow = z.infer<typeof agentTreeRowFields> & {
+export type AgentTreeRow = z.infer<typeof agentTreeRowFields> & {
   readonly children: readonly AgentTreeRow[]
 }
 

@@ -4,6 +4,7 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
+  type WorkTreeRow,
   type WorkTreeState,
   workTreeStateSchema,
 } from "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.code.ts"
@@ -54,7 +55,6 @@ import {
   createWorkTree,
 } from "akasha/code/editor/extension/modules/work-tree-view/work-tree-view.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.d.ts"
 
 const FEATURE = "work-tree"
 const SLUG = "work-tree"

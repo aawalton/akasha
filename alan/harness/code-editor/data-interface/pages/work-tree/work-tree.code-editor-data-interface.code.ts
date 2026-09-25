@@ -8,7 +8,7 @@ const workTreeRowFields = z.object({
   note: z.string().nullable(),
 })
 
-type WorkTreeRow = z.infer<typeof workTreeRowFields> & {
+export type WorkTreeRow = z.infer<typeof workTreeRowFields> & {
   readonly children: readonly WorkTreeRow[]
 }
 
