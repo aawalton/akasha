@@ -83,10 +83,3 @@ export function esoArtDir(opts?: PathOpts): string {
   const cache = stated(said.env, "XDG_CACHE_HOME") ?? `${homeOf(said)}/.cache`
   return `${cache}/akasha/eso-art`
 }
-
-export function addonUpstreamDir(opts?: PathOpts): string {
-  const said = resolved(opts)
-  const named = stated(said.env, "ESO_UPSTREAM_DIR")
-  if (named !== undefined) return named
-  return `${homeOf(said)}/eso-upstream`
-}

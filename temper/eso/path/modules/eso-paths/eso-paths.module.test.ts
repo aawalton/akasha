@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import {
-  addonUpstreamDir,
   esoArtDir,
   esoClientDir,
   esoLiveDirCandidates,
@@ -14,9 +13,6 @@ test("a directory named outright is taken over every other answer", () => {
     esoLiveDirCandidates({ platform: "linux", env: { ESO_LIVE_DIR: "/l", HOME: "/h" } })
   ).toEqual(["/l"])
   expect(esouiDir({ platform: "linux", env: { ESOUI_SRC_DIR: "/e", HOME: "/h" } })).toBe("/e")
-  expect(addonUpstreamDir({ platform: "linux", env: { ESO_UPSTREAM_DIR: "/u", HOME: "/h" } })).toBe(
-    "/u"
-  )
 })
 
 test("an empty name is no name", () => {
@@ -61,5 +57,5 @@ test("the art is kept in the cache rather than beside the game", () => {
 test("an unset home is refused rather than answered as the root", () => {
   expect(() => esoLiveDirCandidates({ platform: "linux", env: {} })).toThrow()
   expect(() => esouiDir({ platform: "linux", env: {} })).toThrow()
-  expect(() => addonUpstreamDir({ platform: "win32", env: {} })).toThrow()
+  expect(() => esouiDir({ platform: "win32", env: {} })).toThrow()
 })
