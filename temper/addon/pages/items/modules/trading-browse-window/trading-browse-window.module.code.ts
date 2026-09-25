@@ -75,7 +75,7 @@ const GROUP_GAP = 12
 const FILTER_ROW_HEIGHT = CONTROL_HEIGHT + PADDING_Y * 2
 const MAX_VISIBLE_ROWS = 50
 const INSET_X = FRAME_PADDING - PADDING_X
-const INSET_Y = FRAME_TOP - PADDING_Y
+const INSET_Y = FRAME_TOP
 const SCREEN_MARGIN = 80
 const PANEL_LEVEL = 2
 const NOT_SEARCHED = "Search all guilds to list what is for sale."
@@ -162,7 +162,7 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
   const barCap = GuiRoot.GetWidth() - SCREEN_MARGIN * 2 - INSET_X * 2
   const groups = buildFilterGroups(ctx, content)
   let rowX = 0
-  let rowY = 0
+  let rowY = -PADDING_Y
   let filterBarWidth = 0
   for (const group of groups) {
     const width = group.GetWidth()

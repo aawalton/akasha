@@ -30,7 +30,6 @@ import {
   CONTROL_HEIGHT,
   createBarButton,
   PADDING_X,
-  PADDING_Y,
 } from "akasha/temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.code.ts"
 import {
   styleText,
@@ -68,7 +67,7 @@ const LINE_GAP = 4
 const BUTTON_HEIGHT = CONTROL_HEIGHT
 const WINDOW_TITLE = "Sell Price"
 const INSET_X = FRAME_PADDING - PADDING_X
-const INSET_Y = FRAME_TOP - PADDING_Y
+const INSET_Y = FRAME_TOP
 const INVENTORY_WINDOW = "TemperItemsBrowser"
 const WINDOW_GAP = 8
 
@@ -208,7 +207,7 @@ function buildSellWindow(this: void): SellWidgets {
   content.SetAnchor(TOPLEFT, tlw, TOPLEFT, INSET_X, INSET_Y)
   content.SetAnchor(BOTTOMRIGHT, tlw, BOTTOMRIGHT, -INSET_X, 0)
 
-  let y = PADDING_Y
+  let y = 0
   const nameLabel = buildLine(content, "Name", y, "heading")
   y += LINE_HEIGHT + LINE_GAP
   const price = buildFigure(content, "Price", y, "Each")

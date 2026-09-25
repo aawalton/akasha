@@ -34,7 +34,7 @@ const BAR_LEVEL: SurfaceLevel = 1
 export const PADDING_X = spaceOf("2")
 export const PADDING_Y = 6
 export const CONTROL_HEIGHT = WEB_CONTROL_HEIGHT
-export const CONTROL_GAP = 6
+export const CONTROL_GAP = spaceOf("2")
 export const LABEL_GAP = 4
 
 const NAME_BOX_WIDTH = 140
