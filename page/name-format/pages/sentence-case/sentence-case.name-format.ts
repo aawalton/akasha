@@ -13,7 +13,7 @@ export const sentenceCase = {
       statement: "Only the opening capital and the single spaces parting the words are judged.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/constraint",
       statement: "A proper noun cannot be told from the name.",
     },
   ],

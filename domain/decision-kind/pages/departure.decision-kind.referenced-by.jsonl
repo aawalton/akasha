@@ -3181,6 +3181,7 @@
 {"propertySlug":"decision-kind","path":"page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.ts","id":"01a04eba-7459-71b8-9356-78cfec88c104"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/lower-uuid/lower-uuid.name-format.ts","id":"01a04eba-7459-7836-ab9f-30dd5c70d710"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/start-case/start-case.name-format.ts","id":"01a04fa6-4826-7edc-8fd9-a295ef73a31a"}
+{"propertySlug":"decision-kind","path":"page/name-format/pages/title-case/title-case.name-format.ts","id":"01a04eba-7459-7314-a8c6-dc565526fb11"}
 {"propertySlug":"decision-kind","path":"page/name-format/pages/upper-uuid/upper-uuid.name-format.ts","id":"01a04eba-7459-7c0d-8dee-2a96140424a2"}
 {"propertySlug":"decision-kind","path":"page/name-place/name-place.page-type.ts","id":"01a04fc9-2ad4-7896-ae44-4569ddae3f7e"}
 {"propertySlug":"decision-kind","path":"page/name-place/pages/component-identifier.name-place.ts","id":"01a04fc9-2ada-7231-b57f-de98579a51d4"}

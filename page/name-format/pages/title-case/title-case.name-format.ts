@@ -13,12 +13,12 @@ export const titleCase = {
       statement: "The first word and the last are taken as important.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/constraint",
       statement:
         "Which word between the first and the last is important cannot be read off the name.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A lower word between the first and the last is let through.",
     },
     {

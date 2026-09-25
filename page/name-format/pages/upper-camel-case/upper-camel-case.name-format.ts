@@ -13,7 +13,7 @@ export const upperCamelCase = {
       statement: "A capital opens a word and a word may be one letter.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/constraint",
       statement: "Whether an acronym is one word or many words cannot be read off the name.",
     },
   ],
