@@ -110,7 +110,7 @@ export const pendingMaintaining = {
       statement: "Nothing here decides whether a seat is pending.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A transcript folder appearing after this starts is followed by nothing here.",
     },
   ],
