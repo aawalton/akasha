@@ -120,11 +120,7 @@ export const commandAnswering = {
       statement: "A write made by something the work calls is the work's own write.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A work whose writes hide inside what it calls has its list checked as filled.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
+      decisionKind: "decision-kind/departure",
       statement: "Which work owes nothing is judged by reading it, command by command.",
     },
     {
