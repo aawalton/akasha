@@ -158,6 +158,8 @@ const RESEARCH = `
     if busy then return busy * 2, busy end
     return 0, 0
   end
+  GetNonCombatBonus = function() return 50 end
+  GetMaxSimultaneousSmithingResearch = function() return 3 end
   FormatTimeSeconds = function(seconds)
     local days = math.floor(seconds / 86400)
     local hours = math.floor(seconds % 86400 / 3600)
