@@ -13,11 +13,11 @@ export const changeMechanicalPageRename = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A file's rename is that file's move.",
+      statement: "A page's rename moves that page to where its new slug says.",
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here renames a file alone.",
+      statement: "Nothing here renames a file apart from the page that file sits beside.",
     },
   ],
 } as const satisfies Domain
