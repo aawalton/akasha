@@ -133,6 +133,7 @@ export const temperAddonCharacters = {
     "module/companions-target-build-input",
     "type-declaration/companions-declarations",
     "type-declaration/companions-saved-variables-declarations",
+    "module/characters-scribing-source-motif-styles",
   ],
   interfaces: ["eso-interface/skill-point-finder-layout"],
   decisions: [
