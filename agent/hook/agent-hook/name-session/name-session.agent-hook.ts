@@ -4,7 +4,7 @@ export const nameSession = {
   id: "01a0941d-27f4-781c-aadd-02f86d00139e",
   type: "page-type/agent-hook",
   slug: "name-session",
-  definition: "a naming of a seat's Claude Code session for that seat, as the session ends a turn",
+  definition: "the hook that writes a seat's name into the seat's Claude Code session",
   code: "ts",
   test: "ts",
   runsAt: ["Stop"],
