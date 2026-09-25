@@ -1,4 +1,4 @@
-export type StoreDiagnosticReason =
+type StoreDiagnosticReason =
   | "hydrate-overrun"
   | "view-read-throw"
   | "boot-gate-timeout"
@@ -8,13 +8,13 @@ export type StoreDiagnosticReason =
   | "definition-tier-empty"
   | "page-type-unbacked"
 
-export interface StoreDiagnostic {
+interface StoreDiagnostic {
   readonly reason: StoreDiagnosticReason
   readonly message: string
   readonly detail: string
 }
 
-export type StoreDiagnosticsSink = (diagnostic: StoreDiagnostic) => undefined
+type StoreDiagnosticsSink = (diagnostic: StoreDiagnostic) => undefined
 
 let sink: StoreDiagnosticsSink | null = null
 

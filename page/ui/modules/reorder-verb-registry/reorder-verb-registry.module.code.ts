@@ -1,4 +1,4 @@
-export interface ReorderVerbContext {
+interface ReorderVerbContext {
   readonly orderedIds: readonly string[]
   readonly fromIndex: number
   readonly toIndex: number
@@ -6,7 +6,7 @@ export interface ReorderVerbContext {
   readonly pageTypeSlug: string
 }
 
-export type ReorderVerbHandler = (ctx: ReorderVerbContext) => void | Promise<void>
+type ReorderVerbHandler = (ctx: ReorderVerbContext) => void | Promise<void>
 
 const handlersByVerbId = new Map<string, ReorderVerbHandler>()
 

@@ -179,7 +179,7 @@ export function useRelatedPages({
   )
 }
 
-export interface ViewsFound {
+interface ViewsFound {
   views: readonly PageWithProperties[]
   isLoading: boolean
 }

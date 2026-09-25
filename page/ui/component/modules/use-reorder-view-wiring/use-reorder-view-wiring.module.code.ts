@@ -1,7 +1,7 @@
 import { getReorderVerb } from "akasha/page/ui/modules/reorder-verb-registry/reorder-verb-registry.module.code.ts"
 import { useMemo } from "react"
 
-export interface ReorderCardsChange {
+interface ReorderCardsChange {
   readonly orderedIds: readonly string[]
   readonly fromIndex: number
   readonly toIndex: number

@@ -40,7 +40,7 @@ import {
 } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback, useMemo } from "react"
 
-export interface ViewTabContentData {
+interface ViewTabContentData {
   viewConfig: ViewDataJSON | undefined
   effectiveConfig: ViewDataJSON | undefined
   effectivePageTypeId: string | undefined

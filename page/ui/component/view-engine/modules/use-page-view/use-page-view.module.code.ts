@@ -28,7 +28,7 @@ import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-
 import { usePageResolverOptional } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 import { useCallback, useMemo, useRef } from "react"
 
-export interface UsePageViewProps {
+interface UsePageViewProps {
   pages: readonly PageRow[]
   properties: readonly PropertyDefinition[]
   viewConfig: ViewConfig

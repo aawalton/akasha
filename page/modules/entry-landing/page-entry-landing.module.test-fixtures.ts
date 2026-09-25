@@ -12,7 +12,7 @@ import {
 } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export type Landed = { readonly paths: readonly string[] } | { readonly refused: string }
+type Landed = { readonly paths: readonly string[] } | { readonly refused: string }
 
 function pastAt(
   root: string,

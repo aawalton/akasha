@@ -21,7 +21,7 @@ export type Filling = {
   readonly uncommitted: boolean
 }
 
-export type Filled = { readonly filling: Filling } | { readonly refused: string }
+type Filled = { readonly filling: Filling } | { readonly refused: string }
 
 export function bytesIn(text: string): number {
   return Buffer.byteLength(text, "utf8")

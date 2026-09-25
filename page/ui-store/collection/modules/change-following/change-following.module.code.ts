@@ -16,7 +16,7 @@ const RETRY_MS = 2_000
 
 const RETRY_CEILING_MS = 60_000
 
-export interface Followed {
+interface Followed {
   readonly pageTypeSlug: string
   readonly by?: "id" | "slug"
   readonly values?: readonly string[]
@@ -35,7 +35,7 @@ export interface StreamLike {
   readonly close: () => undefined
 }
 
-export interface ChangeFollowingDeps {
+interface ChangeFollowingDeps {
   readonly open: () => StreamLike
   readonly send: (body: unknown) => Promise<boolean>
   readonly pushed: (one: Pushed) => undefined
@@ -44,7 +44,7 @@ export interface ChangeFollowingDeps {
   readonly retryMs?: number
 }
 
-export interface ChangeFollowing {
+interface ChangeFollowing {
   readonly start: () => undefined
   readonly follow: (key: string, followed: Followed) => undefined
   readonly unfollow: (key: string) => undefined
@@ -62,7 +62,7 @@ export interface PageWatch {
   readonly release: () => undefined
 }
 
-export interface StoreFollowing {
+interface StoreFollowing {
   readonly follow: (key: string, followed: Followed) => undefined
   readonly unfollow: (key: string) => undefined
   readonly live: (key: string) => boolean

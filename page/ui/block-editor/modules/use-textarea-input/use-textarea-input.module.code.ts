@@ -10,7 +10,7 @@ import { detectMarkdownShorthand } from "akasha/page/core/property-type/modules/
 import type { BlockRowProps } from "akasha/page/ui/block-editor/modules/block-row/block-row.module.code.tsx"
 import { type Ref, useCallback, useRef } from "react"
 
-export interface TextareaInputApi {
+interface TextareaInputApi {
   readonly ref: Ref<HTMLTextAreaElement>
   readonly onChange: (e: React.ChangeEvent<HTMLTextAreaElement>) => void
   readonly onKeyDown: (e: React.KeyboardEvent<HTMLTextAreaElement>) => void

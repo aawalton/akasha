@@ -6,9 +6,9 @@ const UNNAMED = "message"
 
 const FAILED = "error"
 
-export type Opening = (signal: AbortSignal) => Promise<Response>
+type Opening = (signal: AbortSignal) => Promise<Response>
 
-export type Heard = { readonly name: string; readonly data: string }
+type Heard = { readonly name: string; readonly data: string }
 
 export function eventIn(block: string): Heard | null {
   let name = UNNAMED

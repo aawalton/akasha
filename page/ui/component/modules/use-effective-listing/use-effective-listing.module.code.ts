@@ -8,7 +8,7 @@ import { useDescendantListing } from "akasha/page/ui/component/modules/use-desce
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo } from "react"
 
-export interface EffectiveListing {
+interface EffectiveListing {
   effectiveConfig: ViewDataJSON
   spanDescendants: boolean
   descendantPages: readonly PageWithProperties[]

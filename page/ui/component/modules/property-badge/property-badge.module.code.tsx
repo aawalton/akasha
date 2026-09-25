@@ -18,7 +18,7 @@ import type { ComponentType } from "react"
 
 const FALLS_BACK_TO = "page-property"
 
-export type PropertyBadgeContext = "card" | "detail" | "row" | "title"
+type PropertyBadgeContext = "card" | "detail" | "row" | "title"
 
 export interface PropertyBadgeProps {
   property: PropertyDefinition

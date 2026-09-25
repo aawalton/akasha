@@ -15,7 +15,7 @@ function parseTimelineDateMs(value: ReadonlyJSONValue | undefined): number | nul
   return Number.isNaN(ms) ? null : ms
 }
 
-export interface TimelineRowInput {
+interface TimelineRowInput {
   id: string
   startMs: number | null
   endMs: number | null
@@ -33,7 +33,7 @@ export function rowsToTimelineInputs(
   }))
 }
 
-export interface TimelineBar {
+interface TimelineBar {
   id: string
   leftPct: number
   widthPct: number
@@ -42,19 +42,19 @@ export interface TimelineBar {
   isPoint: boolean
 }
 
-export interface TimelineTick {
+interface TimelineTick {
   ms: number
   leftPct: number
 }
 
-export interface TimelineLayout {
+interface TimelineLayout {
   domain: { minMs: number; maxMs: number } | null
   bars: readonly TimelineBar[]
   ticks: readonly TimelineTick[]
   undatedIds: readonly string[]
 }
 
-export interface BuildTimelineLayoutOptions {
+interface BuildTimelineLayoutOptions {
   minWidthPct?: number
   tickCount?: number
 }

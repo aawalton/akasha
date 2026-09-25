@@ -16,7 +16,7 @@ export interface PageTypeOption {
   name: string
 }
 
-export interface LayoutOption {
+interface LayoutOption {
   id: ViewLayout
   name: string
 }

@@ -11,7 +11,7 @@ import {
 } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import { useCallback, useMemo, useState } from "react"
 
-export interface ViewLocalConfigDefaults {
+interface ViewLocalConfigDefaults {
   defaultFilters?: readonly ViewFilter[]
   defaultSorts?: ViewConfig["sorts"]
   defaultGroupBy?: string

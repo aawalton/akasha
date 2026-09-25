@@ -15,7 +15,7 @@ import {
 } from "lucide-react"
 import { createPortal } from "react-dom"
 
-export interface BlockAccessoryBarProps {
+interface BlockAccessoryBarProps {
   readonly inset: number
   readonly onIndent: () => void
   readonly onOutdent: () => void

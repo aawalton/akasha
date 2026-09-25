@@ -13,15 +13,15 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 
 const UNKNOWN = "so what the page holds there is unknown rather than nothing"
 
-export type Filed = {
+type Filed = {
   readonly key: string
   readonly propertySlug: string
   readonly pageTypeSlug: string
 }
 
-export type Body = { readonly body: string } | { readonly refused: string }
+type Body = { readonly body: string } | { readonly refused: string }
 
-export type Bytes = { readonly bytes: Uint8Array<ArrayBuffer> } | { readonly refused: string }
+type Bytes = { readonly bytes: Uint8Array<ArrayBuffer> } | { readonly refused: string }
 
 export function filedAmong<T extends Filed>(declared: Iterable<T>): readonly T[] {
   const found: T[] = []

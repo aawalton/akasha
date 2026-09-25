@@ -16,7 +16,7 @@ interface UseCalendarViewWiringArgs {
   onCreatePage?: (seed?: Record<string, string | number | boolean | null>) => void | Promise<void>
 }
 
-export interface CalendarViewWiring {
+interface CalendarViewWiring {
   dateProperty: PropertyDefinition | undefined
   dateOptions: readonly { id: string; label: string }[]
   draggable: boolean

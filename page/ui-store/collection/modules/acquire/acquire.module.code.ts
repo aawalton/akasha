@@ -4,7 +4,7 @@ import {
   slugShapeDescriptor,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 
-export interface ShapeAcquisition {
+interface ShapeAcquisition {
   count: number
   stop: (() => undefined) | null
   ready: boolean

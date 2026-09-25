@@ -17,7 +17,7 @@ import {
 import type { UseViewQueryOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
 import { useMemo } from "react"
 
-export type UseViewQueryResult = {
+type UseViewQueryResult = {
   rows: readonly Page[]
   isLoading: boolean
   error: Error | null

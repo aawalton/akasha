@@ -30,7 +30,7 @@ export function selectVisibleCardProperties(
   return out
 }
 
-export type OrderedTableColumn =
+type OrderedTableColumn =
   | { id: string; isTitle: true }
   | { id: string; isTitle: false; def: PropertyDefinition }
 

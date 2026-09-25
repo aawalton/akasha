@@ -22,7 +22,7 @@ import type { useCalendarViewWiring } from "akasha/page/ui/component/modules/use
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 
-export interface PageSystemViewBodyProps
+interface PageSystemViewBodyProps
   extends Pick<
     PageSystemTabContentProps,
     | "serverGrouped"

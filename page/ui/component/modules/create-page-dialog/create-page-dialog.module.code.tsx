@@ -19,7 +19,7 @@ import { useState } from "react"
 
 const FORM_ID = "quick-add-form"
 
-export interface CreatePageDialogProps {
+interface CreatePageDialogProps {
   readonly open: boolean
   readonly onOpenChange: (open: boolean) => void
   readonly displayName: string

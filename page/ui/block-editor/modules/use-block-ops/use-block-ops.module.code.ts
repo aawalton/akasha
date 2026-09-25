@@ -19,7 +19,7 @@ import {
 import { type RefObject, useCallback } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
-export interface BlockOpsDeps {
+interface BlockOpsDeps {
   readonly docRef: RefObject<RichDocument>
   readonly commit: (op: EditorOp) => void
   readonly flushPendingText: () => void
@@ -29,7 +29,7 @@ export interface BlockOpsDeps {
   readonly isCollapsed: (id: string) => boolean
 }
 
-export interface BlockOpsApi {
+interface BlockOpsApi {
   readonly handleToggleTodo: (blockId: string) => void
   readonly handleTurnInto: (blockId: string, type: V1BlockType, level?: HeadingLevel) => void
   readonly handleMoveBlock: (blockId: string, direction: "up" | "down") => void

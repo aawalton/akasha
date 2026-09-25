@@ -28,7 +28,7 @@ export type Asked = {
   readonly at?: string
 }
 
-export type Body = {
+type Body = {
   readonly path: string
   readonly content: string | null
 }
@@ -41,12 +41,12 @@ export type Read =
     }
   | { readonly refused: string; readonly withheld?: true }
 
-export type Reading = {
+type Reading = {
   readonly root: string
   readonly asking?: string | null
 }
 
-export type Found = { readonly path: string }
+type Found = { readonly path: string }
 
 export type Placing = (root: string, pageTypeSlug: string, slug: string) => readonly Found[]
 
@@ -98,7 +98,7 @@ export function refusalIn(asked: Asked): string | null {
   return null
 }
 
-export type Placed =
+type Placed =
   | { readonly paths: readonly string[]; readonly unplaced: readonly string[] }
   | { readonly refused: string }
 

@@ -16,7 +16,7 @@ type GroupedViewResult = {
   totalCount: number | null
 }
 
-export type ViewQuerySelection = {
+type ViewQuerySelection = {
   pages: readonly PageWithProperties[]
   loadMore: (() => void) | undefined
   canLoadMore: boolean

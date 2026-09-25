@@ -14,7 +14,7 @@ import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"
 
-export interface ActiveQuickAddPageType {
+interface ActiveQuickAddPageType {
   readonly pageTypeSlug: string
   readonly pageTypeId: string
   readonly displayName: string

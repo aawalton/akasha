@@ -280,13 +280,13 @@ export async function readingFor(
   return held.said as Read
 }
 
-export type Asking = {
+type Asking = {
   readonly pageTypeSlug: string
   readonly slug: string
   readonly key: string
 }
 
-export type Fetched = { readonly bytes: Uint8Array<ArrayBuffer> } | { readonly refused: string }
+type Fetched = { readonly bytes: Uint8Array<ArrayBuffer> } | { readonly refused: string }
 
 async function refusalIn(answered: Response): Promise<string> {
   try {
@@ -338,7 +338,7 @@ export async function appendingFor(
   return held.said as Appended
 }
 
-export type Placing = {
+type Placing = {
   readonly pageTypeSlug: string
   readonly slug: string
   readonly key: string
@@ -346,7 +346,7 @@ export type Placing = {
   readonly bytes: Uint8Array
 }
 
-export type Placed = { readonly placed: string } | { readonly refused: string }
+type Placed = { readonly placed: string } | { readonly refused: string }
 
 const CHUNK = 0x8000
 

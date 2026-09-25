@@ -8,7 +8,7 @@ import ts from "typescript"
 
 const CODE = "code"
 
-export type Spelling = { readonly at: string; readonly of: string; readonly to: string }
+type Spelling = { readonly at: string; readonly of: string; readonly to: string }
 
 type Reading = (path: string) => string | null
 

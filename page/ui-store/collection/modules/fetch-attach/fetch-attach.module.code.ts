@@ -24,7 +24,7 @@ export type FetchImpl = (input: string, init?: RequestInit) => Promise<Response>
 
 export type ReadAgain = (ids?: readonly string[]) => Promise<void>
 
-export interface FetchAttachDeps {
+interface FetchAttachDeps {
   readonly controller: PagesSyncController
   readonly getRow: (id: string) => PageRow | undefined
   readonly deliveredByShape: Map<string, Set<string>>
@@ -35,7 +35,7 @@ export interface FetchAttachDeps {
   readonly followed?: (shapeKey: string) => boolean
 }
 
-export interface FetchPlan {
+interface FetchPlan {
   readonly inserts: readonly PageRow[]
   readonly updates: readonly PageRow[]
   readonly deletes: readonly string[]
@@ -53,7 +53,7 @@ export function filePagesPath(
   return asked.length === 0 ? at : `${at}?${asked.join("&")}`
 }
 
-export type Asking = {
+type Asking = {
   readonly at: string
   readonly only: ReadonlySet<string> | null
 }
@@ -92,7 +92,7 @@ function canonicalJson(value: unknown): string {
   return `{${parts.join(",")}}`
 }
 
-export interface AnswerReach {
+interface AnswerReach {
   readonly carried: number
   readonly held: number
 }

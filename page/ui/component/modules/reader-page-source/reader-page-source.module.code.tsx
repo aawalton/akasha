@@ -11,13 +11,13 @@ import { createContext, type ReactNode, useContext } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"
 
-export interface ReaderHeaderMenuProps {
+interface ReaderHeaderMenuProps {
   readonly pageTypeSlug: PageTypeSlug
   readonly pageId: string
   readonly isFavorite: boolean
 }
 
-export interface ReaderPageSource {
+interface ReaderPageSource {
   readonly useReaderPageType: (targetSlug: PageTypeSlug) => {
     readonly pageTypeData: ReturnType<typeof parsePageTypeData>
   }

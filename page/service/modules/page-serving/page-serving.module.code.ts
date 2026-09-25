@@ -79,7 +79,7 @@ export type Serving = {
   readonly following?: Following
 }
 
-export type Shaping =
+type Shaping =
   | { readonly pageTypeSlug: string }
   | { readonly pageTypeSlugs: readonly string[] }
   | { readonly refused: string }
@@ -104,7 +104,7 @@ function shapeIn(given: unknown): Shaping {
   return { pageTypeSlug }
 }
 
-export type Filed = { readonly named: FileNamed } | { readonly refused: string }
+type Filed = { readonly named: FileNamed } | { readonly refused: string }
 
 function fileIn(given: unknown): Filed {
   const held = objectIn(given)

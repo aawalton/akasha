@@ -11,13 +11,13 @@ export interface InlineCompletionSource {
   readonly frequency?: ReadonlyMap<string, number>
 }
 
-export interface UseInlineCompletionOptions {
+interface UseInlineCompletionOptions {
   readonly value: string
   readonly cursorPos: number
   readonly sources: readonly InlineCompletionSource[]
 }
 
-export interface UseInlineCompletionResult {
+interface UseInlineCompletionResult {
   readonly suggestion: string | null
   readonly accept: () => string
 }

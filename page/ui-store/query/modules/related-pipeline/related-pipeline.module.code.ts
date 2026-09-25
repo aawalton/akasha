@@ -16,7 +16,7 @@ export type RelatedNaming = {
   readonly values: readonly string[]
 }
 
-export interface RelatedPipeline {
+interface RelatedPipeline {
   readonly read: () => readonly PageRow[]
   readonly subscribe: (cb: () => undefined) => () => undefined
   readonly dispose: () => undefined

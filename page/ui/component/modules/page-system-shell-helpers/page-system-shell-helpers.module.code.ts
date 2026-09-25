@@ -1,4 +1,4 @@
-export interface ShellEmptyState {
+interface ShellEmptyState {
   showBareEmpty: boolean
   showEmptyViewState: boolean
 }

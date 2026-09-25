@@ -112,7 +112,7 @@ export function loreRepo(held: Scratch = scratch): string {
   return committedIn(loreWorld(held), { [A_PAGE]: "one", [LORE_AT]: SEALED })
 }
 
-export function askedBy(agentId: string, body: unknown, at: string): Request {
+function askedBy(agentId: string, body: unknown, at: string): Request {
   return new Request(`http://workstation${at}`, {
     method: "POST",
     body: JSON.stringify(body),

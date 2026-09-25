@@ -4,7 +4,7 @@ import { getPageGroupDefinition as coreGetPageGroupDefinition } from "akasha/pag
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { PageResolverValue } from "akasha/page/ui/context/modules/page-resolver-context/page-resolver-context.module.code.tsx"
 
-export interface PageGroupDefinition {
+interface PageGroupDefinition {
   getKey: (item: PageRow) => string
   getKeys?: (item: PageRow) => readonly string[]
   getLabel: (key: string) => string

@@ -9,14 +9,14 @@ import { type RefObject, useCallback, useEffect, useRef, useState } from "react"
 
 const PIN_THRESHOLD_PX = 120
 
-export interface UseFollowAnchorArgs {
+interface UseFollowAnchorArgs {
   readonly anchorRef: RefObject<HTMLElement | null>
   readonly renderTrigger: unknown
   readonly forcePinSignal?: unknown
   readonly mode: FrameFollowMode | null
 }
 
-export interface UseFollowAnchorResult {
+interface UseFollowAnchorResult {
   readonly showJumpToLatest: boolean
   readonly jumpToLatest: () => void
 }

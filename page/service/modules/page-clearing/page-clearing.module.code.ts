@@ -1,6 +1,6 @@
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 
-export type Clearing = {
+type Clearing = {
   readonly pageTypeSlug: string
   readonly values: Readonly<Record<string, unknown>>
   readonly clears?: readonly string[]

@@ -14,7 +14,7 @@ import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.modul
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 
-export interface PagesFilteredHrefs {
+interface PagesFilteredHrefs {
   buildRowHref: (row: PageRow) => string
   pageHrefById: (id: string, opts?: { targetPageTypeId?: string }) => string
   makeRelationHref: (rowId: string, rowHref: string) => (propertyId: string) => string

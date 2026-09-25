@@ -33,7 +33,7 @@ export interface RegularResult {
   readonly error: Error | null
 }
 
-export interface RegularPipeline {
+interface RegularPipeline {
   readonly read: () => RegularResult
   readonly subscribe: (cb: () => undefined) => () => undefined
   readonly dispose: () => undefined

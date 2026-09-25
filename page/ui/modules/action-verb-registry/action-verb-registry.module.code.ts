@@ -11,13 +11,13 @@ export interface ActionVerbContext {
 
 export type ActionVerbHandler = (ctx: ActionVerbContext) => void | Promise<void>
 
-export interface ActionPresentation {
+interface ActionPresentation {
   readonly label?: string
   readonly icon?: string
   readonly disabled?: boolean
 }
 
-export type ResolveActionPresentation = (ctx: ActionVerbContext) => ActionPresentation
+type ResolveActionPresentation = (ctx: ActionVerbContext) => ActionPresentation
 
 interface ActionVerbEntry {
   readonly handler: ActionVerbHandler

@@ -49,7 +49,7 @@ export interface ViewResult {
   readonly ensureHydratedUpTo: () => undefined
 }
 
-export interface ViewPipeline {
+interface ViewPipeline {
   readonly read: () => ViewResult
   readonly subscribe: (cb: () => undefined) => () => undefined
   readonly dispose: () => undefined

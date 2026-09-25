@@ -5,7 +5,7 @@ export interface PropertyVisibilityOption {
   label: string
 }
 
-export interface VisibilitySections {
+interface VisibilitySections {
   alwaysShow: readonly string[]
   hideWhenEmpty: readonly string[]
 }

@@ -1,6 +1,6 @@
 import type { FrameConfig } from "akasha/page/core/schema/modules/detail-config/detail-config.module.code.ts"
 
-export type FrameLoadScroll = NonNullable<NonNullable<FrameConfig["autoScroll"]>["loadScroll"]>
+type FrameLoadScroll = NonNullable<NonNullable<FrameConfig["autoScroll"]>["loadScroll"]>
 
 export function frameSupportsFocusMode(config: FrameConfig | undefined): boolean {
   return config?.focusMode === true

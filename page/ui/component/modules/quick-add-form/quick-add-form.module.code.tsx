@@ -20,7 +20,7 @@ import {
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { useMemo, useRef, useState } from "react"
 
-export interface QuickAddFormProps {
+interface QuickAddFormProps {
   readonly formId: string
   readonly quickAdd: QuickAddConfig
   readonly propertyDefinitions: readonly PropertyDefinition[]

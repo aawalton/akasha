@@ -2,7 +2,7 @@
 
 import { useCallback, useRef, useState } from "react"
 
-export interface BlockCollapseApi {
+interface BlockCollapseApi {
   readonly collapsed: ReadonlySet<string>
   readonly isCollapsed: (id: string) => boolean
   readonly toggleCollapse: (id: string) => void

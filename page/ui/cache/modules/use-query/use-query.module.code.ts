@@ -14,7 +14,7 @@ import {
 import type { UsePagesOptions } from "akasha/page/ui-store/sql/modules/options/options.module.code.ts"
 import { useMemo } from "react"
 
-export type UsePagesResult = {
+type UsePagesResult = {
   rows: readonly Page[]
   isLoading: boolean
   isDegraded: boolean

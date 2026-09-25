@@ -6,7 +6,7 @@ import {
 } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
 import { useMemo } from "react"
 
-export interface GalleryViewProps {
+interface GalleryViewProps {
   galleryCardSize?: GalleryCardSize
   galleryCoverSource?: string
   galleryCoverSourceOptions: readonly { id: string; label: string }[]

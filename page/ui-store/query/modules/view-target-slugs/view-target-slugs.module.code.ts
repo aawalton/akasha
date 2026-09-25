@@ -5,7 +5,7 @@ import type {
 import { collectResolutionTargetTypeIds } from "akasha/page/core/property-type/modules/resolution-target-types/resolution-target-types.module.code.ts"
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 
-export interface ViewTargetSlugs {
+interface ViewTargetSlugs {
   readonly gating: readonly string[]
   readonly display: readonly string[]
 }

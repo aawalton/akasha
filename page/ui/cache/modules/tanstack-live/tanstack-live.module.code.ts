@@ -12,13 +12,13 @@ import { useCallback, useEffect, useRef, useState, useSyncExternalStore } from "
 
 type PagesCollection = PagesStore["collection"]
 
-export interface LivePipeline<R> {
+interface LivePipeline<R> {
   readonly read: () => R
   readonly subscribe: (cb: () => undefined) => () => undefined
   readonly dispose: () => undefined
 }
 
-export interface AcquireResult {
+interface AcquireResult {
   readonly ready: boolean
   readonly degraded: boolean
   readonly error: Error | null
@@ -245,7 +245,7 @@ export function useAcquireShapes(descriptors: readonly ShapeDescriptor[]): undef
   return undefined
 }
 
-export interface PipelineLiveResult<R> {
+interface PipelineLiveResult<R> {
   readonly snapshot: R | null
   readonly error: Error | null
 }

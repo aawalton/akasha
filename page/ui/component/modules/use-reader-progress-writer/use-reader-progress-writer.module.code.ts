@@ -6,7 +6,7 @@ import type { ReaderPositionAnchor } from "akasha/page/ui/component/modules/read
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { type RefObject, useEffect, useRef } from "react"
 
-export interface ReaderProgressWriterArgs {
+interface ReaderProgressWriterArgs {
   readonly progressPropertyId: string | undefined
   readonly lengthPropertyId: string | undefined
   readonly wordCount: number | undefined

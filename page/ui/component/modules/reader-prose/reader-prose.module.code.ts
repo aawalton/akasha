@@ -49,7 +49,7 @@ export function parseProseBlocks(body: string): readonly ProseBlock[] {
   return blocks
 }
 
-export type InlineSegment =
+type InlineSegment =
   | { readonly kind: "text"; readonly text: string }
   | { readonly kind: "em"; readonly text: string }
 

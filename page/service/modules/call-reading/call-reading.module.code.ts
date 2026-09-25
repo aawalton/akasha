@@ -47,7 +47,7 @@ function boundRefused(at: string, name: string, bound: unknown): string | null {
   return typeof bound === "string" ? null : `${at} takes a string`
 }
 
-export type Took = { readonly test: Test } | { readonly refused: string }
+type Took = { readonly test: Test } | { readonly refused: string }
 
 function testIn(key: string, given: unknown): Took {
   const held = objectIn(given)
@@ -66,7 +66,7 @@ function testIn(key: string, given: unknown): Took {
   return { test: test as Test }
 }
 
-export type Read = { readonly query: Query } | { readonly refused: string }
+type Read = { readonly query: Query } | { readonly refused: string }
 
 export function queryIn(given: unknown): Read {
   const held = objectIn(given)
@@ -125,7 +125,7 @@ export function queryIn(given: unknown): Read {
   return { query }
 }
 
-export type Found = { readonly asked: Sought } | { readonly refused: string }
+type Found = { readonly asked: Sought } | { readonly refused: string }
 
 export function readIn(given: unknown): Found {
   const held = objectIn(given)
@@ -296,7 +296,7 @@ export function writeIn(given: unknown): Written {
   return { asked, pages, ...through }
 }
 
-export type Placement = { readonly placing: Placing } | { readonly refused: string }
+type Placement = { readonly placing: Placing } | { readonly refused: string }
 
 export function placeIn(given: unknown): Placement {
   const held = objectIn(given)
@@ -325,7 +325,7 @@ export function placeIn(given: unknown): Placement {
   return { placing: { pageTypeSlug, slug, key, ending, bytes } }
 }
 
-export type Taking = { readonly appending: Appending } | { readonly refused: string }
+type Taking = { readonly appending: Appending } | { readonly refused: string }
 
 function linesRefused(lines: readonly string[]): string | null {
   if (lines.length === 0) return "an append carries at least one line"

@@ -13,7 +13,7 @@ import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.modul
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback } from "react"
 
-export interface PagesFilteredMutations {
+interface PagesFilteredMutations {
   handleCreatePage: () => Promise<void>
   handlePropertyChange: (pageId: string, propId: string, value: unknown) => void
   handleIconChange: (pageId: string, icon: IconName) => void

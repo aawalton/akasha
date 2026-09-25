@@ -2,9 +2,9 @@
 
 import { createContext, useContext, useMemo } from "react"
 
-export type Creating = () => void | Promise<void>
+type Creating = () => void | Promise<void>
 
-export type CreateOverrides = Readonly<Record<string, Creating>>
+type CreateOverrides = Readonly<Record<string, Creating>>
 
 const NONE: CreateOverrides = {}
 

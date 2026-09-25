@@ -14,7 +14,7 @@ import {
 
 export type QueryRow = { readonly at?: string; readonly values: Record<string, unknown> }
 
-export type QueryAnswer = {
+type QueryAnswer = {
   readonly n: number
   readonly value: number | null
   readonly over: number | null

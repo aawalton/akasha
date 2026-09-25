@@ -10,7 +10,7 @@ import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { ReactElement } from "react"
 
-export interface BareListingCardContext {
+interface BareListingCardContext {
   readonly properties: readonly PropertyDefinition[]
   readonly pageTypeSlug: PageTypeSlug
   readonly visiblePropertyIds: readonly string[]

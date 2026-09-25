@@ -6,7 +6,7 @@ export type InteractionToken = {
   readonly startNow: number
 }
 
-export type PageCardPerfEntry = {
+type PageCardPerfEntry = {
   interactionId: string
   pageId: string
   propertyId: string
@@ -18,7 +18,7 @@ export type PageCardPerfEntry = {
   roundTripMs: number | null
 }
 
-export type PageCardPerf = {
+type PageCardPerf = {
   entries: ReadonlyArray<PageCardPerfEntry>
 }
 

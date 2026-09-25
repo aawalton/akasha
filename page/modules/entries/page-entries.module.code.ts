@@ -24,7 +24,7 @@ export type Entried = {
   readonly uncommitted: boolean
 }
 
-export type Rows = { readonly entries: readonly Value[] } | { readonly refused: string }
+type Rows = { readonly entries: readonly Value[] } | { readonly refused: string }
 
 export type Entrying = (pageTypeSlug: string) => boolean
 
@@ -96,9 +96,9 @@ export type Rowing = {
   readonly rows: readonly Value[]
 }
 
-export type Beside = (at: string) => string | null
+type Beside = (at: string) => string | null
 
-export type Noting = (said: string) => undefined
+type Noting = (said: string) => undefined
 
 export function rowsOver(
   page: string,
@@ -135,7 +135,7 @@ export function rowsOver(
   return found
 }
 
-export type Fallback = { readonly held: string }
+type Fallback = { readonly held: string }
 
 export function defaultedValue(
   root: string,

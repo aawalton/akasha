@@ -11,7 +11,7 @@ interface UseBoardViewWiringArgs {
   onPropertyPatch?: (pageId: string, propertyId: string, value: unknown) => void
 }
 
-export interface BoardViewWiring {
+interface BoardViewWiring {
   draggable: boolean
   onCardDrop: (pageId: string, toGroupKey: string) => void
 }

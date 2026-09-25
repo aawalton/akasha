@@ -109,7 +109,7 @@ function typesAtOf(path: string): string | null {
   return besideAt(path, SECTION, HOLDS)
 }
 
-export type Written = {
+type Written = {
   readonly held: string
   readonly imports: readonly string[]
   readonly row?: string
@@ -189,7 +189,7 @@ function oneOfIn(shadow: Shadow, value: Record<string, unknown>): Written | null
   return { held: held.join(" | "), imports }
 }
 
-export type Asked = {
+type Asked = {
   readonly at: string
   readonly kind: string
   readonly path: string

@@ -1,4 +1,4 @@
-export interface ComputePinnedInput {
+interface ComputePinnedInput {
   readonly scrollHeight: number
   readonly scrollY: number
   readonly innerHeight: number
@@ -15,7 +15,7 @@ export function computePinned({
   return distanceFromBottom <= threshold
 }
 
-export interface ComputeAnchorBelowViewportInput {
+interface ComputeAnchorBelowViewportInput {
   readonly anchorTop: number
   readonly innerHeight: number
   readonly threshold: number

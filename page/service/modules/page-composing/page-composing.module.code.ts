@@ -89,12 +89,12 @@ export type Put = {
   readonly content: string
 }
 
-export type Kept = {
+type Kept = {
   readonly path: string
   readonly values: Value
 }
 
-export type Composed =
+type Composed =
   | {
       readonly put: Put
       readonly kept: Kept | null

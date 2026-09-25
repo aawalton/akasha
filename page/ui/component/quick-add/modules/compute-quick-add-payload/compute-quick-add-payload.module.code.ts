@@ -13,7 +13,7 @@ function toJSONValue(v: unknown): ReadonlyJSONValue {
   return null
 }
 
-export interface QuickAddPayloadInput {
+interface QuickAddPayloadInput {
   readonly cleanTitle: string
   readonly notes: string
   readonly parsedBySigil: Readonly<Record<string, readonly string[]>>

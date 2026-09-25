@@ -2,7 +2,7 @@ import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page
 import type { ViewDataJSON } from "akasha/page/core/schema/modules/view-data/view-data.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
-export interface FlatQueryArgs {
+interface FlatQueryArgs {
   pageTypeId: string
   pageTypeSlug: PageTypeSlug
   viewConfig: ViewDataJSON

@@ -10,7 +10,7 @@ export const RELATED_IDS_PER_PROPERTY_CAP = 1000
 
 const EACH_WAY = ["id", "slug"] as const
 
-export type RelatedWay = (typeof EACH_WAY)[number]
+type RelatedWay = (typeof EACH_WAY)[number]
 
 export type RelationSpec = {
   readonly propertyId: string

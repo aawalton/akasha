@@ -11,12 +11,12 @@ const ID = "id"
 
 const JSONL = "jsonl"
 
-export type Put = {
+type Put = {
   readonly path: string
   readonly content: string
 }
 
-export type KeptRows =
+type KeptRows =
   | {
       readonly ending: string
       readonly puts: readonly Put[]
@@ -38,7 +38,7 @@ function rowsIdentified(key: string, given: readonly unknown[]): Rows {
   return { rows }
 }
 
-export type Keyed = {
+type Keyed = {
   readonly key: string
   readonly propertySlug: string
 }

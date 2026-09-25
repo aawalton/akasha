@@ -6,7 +6,7 @@ import {
 import { slugScopeExpr } from "akasha/page/ui-store/query/modules/regular-pipeline/regular-pipeline.module.code.ts"
 import { ID_SUFFIX_LENGTH } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 
-export interface IdSuffixOptions {
+interface IdSuffixOptions {
   readonly pageTypeSlug: string
   readonly idSuffix: string
 }
@@ -15,7 +15,7 @@ export interface IdSuffixResult {
   readonly rows: readonly PageRow[]
 }
 
-export interface IdSuffixPipeline {
+interface IdSuffixPipeline {
   readonly read: () => IdSuffixResult
   readonly subscribe: (cb: () => undefined) => () => undefined
   readonly dispose: () => undefined

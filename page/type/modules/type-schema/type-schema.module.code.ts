@@ -13,7 +13,7 @@ const HOLDS = "jsonl"
 
 const NAMES = "/"
 
-export type Carrying = {
+type Carrying = {
   readonly key: string
   readonly propertySlug: string
   readonly pagePropertySlug: string

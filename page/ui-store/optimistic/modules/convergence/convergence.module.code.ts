@@ -34,12 +34,12 @@ export class ConvergenceUnreached extends Error {
   }
 }
 
-export interface ConvergenceResult {
+interface ConvergenceResult {
   readonly generations: number
   readonly elapsedMs: number
 }
 
-export type WaitForTick = (generation: number) => Promise<void>
+type WaitForTick = (generation: number) => Promise<void>
 
 export interface ConvergenceOptions {
   readonly tickMs?: number

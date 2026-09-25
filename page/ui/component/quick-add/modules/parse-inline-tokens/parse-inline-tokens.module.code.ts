@@ -1,4 +1,4 @@
-export interface ParsedInlineTokens {
+interface ParsedInlineTokens {
   readonly cleanTitle: string
   readonly parsedBySigil: Readonly<Record<string, readonly string[]>>
 }

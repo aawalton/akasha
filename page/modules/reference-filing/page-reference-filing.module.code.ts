@@ -39,7 +39,7 @@ import {
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-export type Filed = {
+type Filed = {
   readonly entries: readonly Entry[]
   readonly refused: readonly string[]
 }
@@ -88,7 +88,7 @@ function reachingIn(value: Value, known: Shaped, rowing: readonly Rowing[]): rea
   return found
 }
 
-export type NamedOut = { readonly propertySlug: string; readonly path: string }
+type NamedOut = { readonly propertySlug: string; readonly path: string }
 
 export function namedOut(
   value: Value,

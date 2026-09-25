@@ -1,7 +1,7 @@
 const CHROME_TOGGLE_IGNORE_SELECTOR =
   "a, button, input, textarea, select, audio, [role=button], [data-chrome-toggle-ignore]"
 
-export interface ChromeToggleInput {
+interface ChromeToggleInput {
   readonly target: EventTarget | null
   readonly hasTextSelection: boolean
   readonly isDesktop: boolean

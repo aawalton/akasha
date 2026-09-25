@@ -24,7 +24,7 @@ export type Placing = {
   readonly bytes: Uint8Array
 }
 
-export type Placed = { readonly placed: string } | { readonly refused: string }
+type Placed = { readonly placed: string } | { readonly refused: string }
 
 export type Landing = {
   readonly write: (at: string, bytes: Uint8Array) => undefined

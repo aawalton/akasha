@@ -23,7 +23,7 @@ function continuationType(type: string): V1BlockType {
   }
 }
 
-export type EnterPlan =
+type EnterPlan =
   | { readonly kind: "exit" }
   | {
       readonly kind: "split"

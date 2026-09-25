@@ -2,7 +2,7 @@ export const PAGE_EXTENSION = "md"
 
 const DOT = "."
 
-export type PageName = {
+type PageName = {
   readonly stem: string
   readonly type: string
 }

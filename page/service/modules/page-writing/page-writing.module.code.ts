@@ -57,7 +57,7 @@ export type Wrote =
     }
   | { readonly refused: string }
 
-export type Writing = {
+type Writing = {
   readonly root: string
 }
 
@@ -238,16 +238,16 @@ export function batchIn<T extends Held>(
   return { batch: waiting.slice(0, taken), rest: waiting.slice(taken) }
 }
 
-export function freshRefusal(one: Fresh): string {
+function freshRefusal(one: Fresh): string {
   return `\`${one.pageTypeSlug}/${one.slug}\` is a page already, and a page written as new takes a slug no page of its type has`
 }
 
-export type Claimed<T> = {
+type Claimed<T> = {
   readonly landing: readonly T[]
   readonly refused: readonly (readonly [T, string])[]
 }
 
-export function claimedIn<T extends Held>(root: string, batch: readonly T[]): Claimed<T> {
+function claimedIn<T extends Held>(root: string, batch: readonly T[]): Claimed<T> {
   const named = new Set<string>()
   const put = new Set<string>()
   const landing: T[] = []
@@ -270,7 +270,7 @@ export function claimedIn<T extends Held>(root: string, batch: readonly T[]): Cl
   return { landing, refused }
 }
 
-export function unreadRefusal(paths: readonly string[]): string {
+function unreadRefusal(paths: readonly string[]): string {
   const named = paths.map((one) => `\`${one}\``).join(", ")
   return (
     `${named} holds a body already, and a write changing a body already there states the commit ` +

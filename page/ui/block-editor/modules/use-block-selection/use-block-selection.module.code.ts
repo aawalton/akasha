@@ -30,7 +30,7 @@ interface UseBlockSelectionArgs {
   isCollapsed: (id: string) => boolean
 }
 
-export interface BlockSelectionApi {
+interface BlockSelectionApi {
   readonly selection: BlockSelection | null
   readonly enterSelection: (blockId: string) => void
   readonly clearSelection: () => void

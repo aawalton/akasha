@@ -19,7 +19,7 @@ export type Queue = {
   readonly flushed: () => Promise<void>
 }
 
-export type Queued = { readonly queue: Queue } | { readonly refused: string }
+type Queued = { readonly queue: Queue } | { readonly refused: string }
 
 export function queueAt(
   root: string,

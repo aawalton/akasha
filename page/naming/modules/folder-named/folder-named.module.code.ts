@@ -5,7 +5,7 @@ const UNDER = "/"
 
 const HERE = "."
 
-export type Listing = (folder: string) => readonly string[]
+type Listing = (folder: string) => readonly string[]
 
 export function openingWith(named: string, above: readonly string[]): string | null {
   for (const one of above) {

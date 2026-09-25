@@ -6,7 +6,7 @@ import {
 } from "akasha/page/core/view/modules/notes/notes.module.code.ts"
 import { useMemo } from "react"
 
-export interface NotesViewProps {
+interface NotesViewProps {
   notesProperty?: PropertyDefinition
   notesPropertyOptions: readonly { id: string; label: string }[]
 }

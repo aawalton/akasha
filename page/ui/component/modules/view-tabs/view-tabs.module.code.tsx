@@ -73,7 +73,7 @@ function SortableViewTab({ view, viewCount, mode, callbacks }: SortableViewTabPr
   )
 }
 
-export type ViewTabMode = "full" | "icon" | "overflow"
+type ViewTabMode = "full" | "icon" | "overflow"
 
 function classifyViewTabs(
   orderedIds: readonly string[],

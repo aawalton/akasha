@@ -68,12 +68,12 @@ const SHADOWING = new Set([
   "WeakSet",
 ])
 
-export type Taken = {
+type Taken = {
   readonly typeName: string
   readonly at: string
 }
 
-export type Key = Taken & {
+type Key = Taken & {
   readonly key: string
   readonly optional: boolean
 }

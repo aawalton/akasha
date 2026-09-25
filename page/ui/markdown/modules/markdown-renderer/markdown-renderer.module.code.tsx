@@ -82,7 +82,7 @@ function PreBlock({ children }: { children?: ReactNode }) {
   )
 }
 
-export type PageNamed = {
+type PageNamed = {
   readonly pageTypeSlug: string
   readonly scope: string | null
   readonly slug: string

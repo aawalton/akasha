@@ -4,7 +4,7 @@ export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 
 export type Sleeper = (ms: number) => Promise<void>
 
-export type Reached<T> =
+type Reached<T> =
   | { readonly ok: true; readonly body: T }
   | { readonly ok: false; readonly why: string; readonly status?: number }
 

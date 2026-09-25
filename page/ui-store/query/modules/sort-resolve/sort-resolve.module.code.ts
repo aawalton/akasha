@@ -35,7 +35,7 @@ function noteUnacquiredTargetIfMissing(
   })
 }
 
-export type SortValue = number | string | boolean | null
+type SortValue = number | string | boolean | null
 
 function asSortValue(value: unknown): SortValue {
   return value as SortValue

@@ -25,7 +25,7 @@ export type Named = {
   readonly key: string
 }
 
-export type Filed =
+type Filed =
   | { readonly bytes: Uint8Array<ArrayBuffer>; readonly path: string }
   | { readonly refused: string; readonly withheld?: true }
 

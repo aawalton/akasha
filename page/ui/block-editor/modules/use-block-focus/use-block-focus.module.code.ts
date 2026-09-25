@@ -11,13 +11,13 @@ function caretOffset(caret: FocusCaret, length: number): number {
   return Math.min(Math.max(caret, 0), length)
 }
 
-export interface BlockFocusDeps {
+interface BlockFocusDeps {
   readonly doc: RichDocument
   readonly docRef: RefObject<RichDocument>
   readonly isCollapsed: (id: string) => boolean
 }
 
-export interface BlockFocusApi {
+interface BlockFocusApi {
   readonly setTextareaRef: (blockId: string) => (el: HTMLTextAreaElement | null) => void
   readonly requestFocus: (blockId: string, caret: FocusCaret) => void
   readonly focusBlock: (blockId: string, caret: FocusCaret) => void

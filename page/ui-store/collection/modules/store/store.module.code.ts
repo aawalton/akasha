@@ -60,14 +60,14 @@ const canUnref = (timer: unknown): timer is { readonly unref: () => undefined } 
   "unref" in timer &&
   typeof timer.unref === "function"
 
-export interface FileBackingOptions {
+interface FileBackingOptions {
   readonly fetchImpl?: FetchImpl
   readonly pollMs?: number
   readonly roster?: RosterReader
   readonly carry?: Readonly<Record<string, readonly string[]>>
 }
 
-export interface StoreAuthArgs {
+interface StoreAuthArgs {
   readonly jwt: string | null
   readonly owner?: string | null
   readonly refreshAuth?: () => undefined | Promise<void>

@@ -2,9 +2,9 @@ import type { RawPageRow } from "akasha/page/access/modules/raw-page-row/raw-pag
 
 export type PageRow = RawPageRow
 
-export type PageRecord = Readonly<Record<string, unknown>>
+type PageRecord = Readonly<Record<string, unknown>>
 
-export type PageRowList = readonly PageRow[]
+type PageRowList = readonly PageRow[]
 
 export function pageRowKey(row: PageRow): string {
   return row.id

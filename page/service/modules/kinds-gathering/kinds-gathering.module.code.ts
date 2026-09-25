@@ -71,7 +71,7 @@ const ASKED_BY_NAME = "askedByName"
 
 const BESIDE_THE_PAGE: ReadonlySet<string> = new Set([COMPUTED, FILE_PROPERTY])
 
-export type Read = {
+type Read = {
   readonly files: ReadonlySet<string>
   readonly folders: ReadonlySet<string>
 }
@@ -191,7 +191,7 @@ export type Counting = {
   readonly computed: readonly Computed[]
 }
 
-export type Counted = {
+type Counted = {
   readonly rows: readonly Valued[]
   readonly dark: ReadonlyMap<string, string>
   readonly read: Reads

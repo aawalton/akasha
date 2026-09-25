@@ -22,7 +22,7 @@ import { type RefObject, useCallback, useState } from "react"
 
 export type FocusCaret = "start" | "end" | number
 
-export interface BlockKeysDeps {
+interface BlockKeysDeps {
   readonly docRef: RefObject<RichDocument>
   readonly commit: (op: EditorOp) => void
   readonly flushPendingText: () => void
@@ -31,7 +31,7 @@ export interface BlockKeysDeps {
   readonly isCollapsed: (id: string) => boolean
 }
 
-export interface BlockKeysApi {
+interface BlockKeysApi {
   readonly slashBlockId: string | null
   readonly setSlashBlockId: (v: string | null) => void
   readonly handleEnter: (blockId: string, caret: number) => void

@@ -6,21 +6,21 @@ import {
   WRITE_CEILING_MS,
 } from "akasha/page/query/modules/store-reaching/store-reaching.module.code.ts"
 
-export type Fetcher = (url: string, init: RequestInit) => Promise<Response>
+type Fetcher = (url: string, init: RequestInit) => Promise<Response>
 
-export type Sleeper = (ms: number) => Promise<void>
+type Sleeper = (ms: number) => Promise<void>
 
-export type Written =
+type Written =
   | { readonly ok: true; readonly at: string }
   | { readonly ok: false; readonly why: string; readonly status?: number }
 
 export type Put = { readonly path: string; readonly content: string }
 
-export type Body = { readonly path: string; readonly content: string | null }
+type Body = { readonly path: string; readonly content: string | null }
 
-export type Named = { readonly pageTypeSlug: string; readonly slug: string }
+type Named = { readonly pageTypeSlug: string; readonly slug: string }
 
-export type Read = {
+type Read = {
   readonly at: string
   readonly bodies: readonly Body[]
   readonly unplaced: readonly string[]
@@ -88,7 +88,7 @@ export async function writeFiles(
   return landing(what, body, writer, fetcher, rest)
 }
 
-export type Naming = {
+type Naming = {
   readonly pageTypeSlug: string
   readonly slug: string
   readonly values: Readonly<Record<string, unknown>>

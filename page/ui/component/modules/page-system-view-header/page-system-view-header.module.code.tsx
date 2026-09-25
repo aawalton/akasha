@@ -17,7 +17,7 @@ import type { UsePageViewResult } from "akasha/page/ui/component/view-engine/mod
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { Dispatch, SetStateAction } from "react"
 
-export interface PageSystemViewHeaderProps
+interface PageSystemViewHeaderProps
   extends Pick<
       PageSystemTabContentProps,
       | "label"

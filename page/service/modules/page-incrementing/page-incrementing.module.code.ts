@@ -36,7 +36,7 @@ export type Incrementing = {
 
 export type Incremented = { readonly value: number | null } | { readonly refused: string }
 
-export type Taking = { readonly incrementing: Incrementing } | { readonly refused: string }
+type Taking = { readonly incrementing: Incrementing } | { readonly refused: string }
 
 function textIn(held: Value, key: string): string | null {
   const said = held[key]

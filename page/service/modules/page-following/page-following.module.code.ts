@@ -38,15 +38,15 @@ export const EVENTS_AT = "/events"
 
 export const FOLLOW_AT = "/follow"
 
-export const BEAT_MS = 5_000
+const BEAT_MS = 5_000
 
-export const SPACED_MS = 500
+const SPACED_MS = 500
 
 const PLANNED_AFTER_MS = 250
 
 const BY: ReadonlySet<string> = new Set(["id", "slug"])
 
-export type Follow = {
+type Follow = {
   readonly key: string
   readonly pageTypeSlug: string
   readonly by?: "id" | "slug"
@@ -54,7 +54,7 @@ export type Follow = {
   readonly where?: Where
 }
 
-export type Changed = {
+type Changed = {
   readonly pageTypeSlug: string
   readonly slug?: string
 }
@@ -115,7 +115,7 @@ function followIn(held: unknown): Follow | null {
   }
 }
 
-export type Asked =
+type Asked =
   | { readonly stream: string; readonly follows: readonly Follow[] }
   | { readonly refused: string }
 
@@ -173,7 +173,7 @@ function slugsFor(root: string, follow: Follow): ReadonlySet<string> | null {
   return slugs
 }
 
-export function heldFor(root: string, follow: Follow): Held {
+function heldFor(root: string, follow: Follow): Held {
   const kinds = kindsOf(root, follow.pageTypeSlug)
   const slugs = slugsFor(root, follow)
   const held = { key: follow.key, kinds, slugs }
@@ -210,14 +210,14 @@ export function eventSaid(name: string, body: unknown): string {
   return `event: ${name}\ndata: ${JSON.stringify(body)}\n\n`
 }
 
-export type Heard = {
+type Heard = {
   readonly folder: string
   readonly name: string | null
   readonly kind: string
   readonly slugs: ReadonlySet<string> | null
 }
 
-export type Planned = {
+type Planned = {
   readonly pages: ReadonlySet<string>
   readonly listed: ReadonlyMap<string, string>
   readonly read: readonly Heard[]
@@ -268,7 +268,7 @@ function keepsOf(root: string, reading: Reading, kind: string): readonly Keep[] 
   return found
 }
 
-export function plannedFor(root: string, helds: readonly Held[]): Planned {
+function plannedFor(root: string, helds: readonly Held[]): Planned {
   const pages = new Set<string>()
   const listed = new Map<string, string>()
   const read: Heard[] = []

@@ -129,7 +129,7 @@ function sortMergedPages(
   return indexed.map((x) => x.page)
 }
 
-export interface DescendantListingResult {
+interface DescendantListingResult {
   spanDescendants: boolean
   pages: readonly PageWithProperties[]
   isLoading: boolean
