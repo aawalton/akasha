@@ -5,6 +5,6 @@ export const liveSubagent = {
   type: "page-type/boolean-property",
   slug: "live-subagent",
   propertySlug: "live-subagent",
-  definition: "whether a subagent a seat dispatched has a turn still to come",
+  definition: "whether a seat has a subagent that runs",
   types: "ts",
 } as const satisfies BooleanProperty
