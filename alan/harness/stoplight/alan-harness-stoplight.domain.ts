@@ -9,10 +9,6 @@ export const alanHarnessStoplight = {
   decisions: [
     {
       decisionKind: "decision-kind/gap",
-      statement: "Every difference between two readouts is written on those readouts.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement: "No code names a readout or a readout group.",
     },
   ],
