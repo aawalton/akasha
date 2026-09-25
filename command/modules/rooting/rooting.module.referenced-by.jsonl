@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-akasha-edits/block-akasha-edits.agent-hook.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"agent/hook/agent-hook/block-biome/block-biome.agent-hook.test.ts","typed":false,"deferred":false}

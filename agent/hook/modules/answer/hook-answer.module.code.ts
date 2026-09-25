@@ -170,13 +170,3 @@ export async function ranAsJudged(
   if ("answer" in read) return said(read.answer)
   return said(await judged(read.payload))
 }
-
-export async function ranAsHook(
-  hook: string,
-  key: string,
-  scope: readonly string[],
-  at: string,
-  judging: (command: string, from: string, root: string) => string | null
-): Promise<number> {
-  return await ranAsJudged(hook, scope, judgingHook(hook, key, at, judging))
-}

@@ -4,15 +4,50 @@ export const blockAkashaReads = {
   id: "01a04eb3-0e18-748c-9e7f-ae84d9254e02",
   type: "page-type/agent-hook",
   slug: "block-akasha-reads",
-  definition: "a refusal of a Read landing inside this checkout, naming the akasha read",
+  definition:
+    "a refusal of a call showing a body inside this checkout, naming the akasha call instead",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
-  overTools: ["Read"],
+  overTools: ["Read", "Grep", "Bash"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The refusal names `akasha read`.",
+      statement: "A refusal names the akasha call that records what the call refused would show.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A whole file is named to `akasha read`, and lines matching a pattern to `akasha search`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every route a refusal names is itself let through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A Grep showing lines inside this checkout, or over a folder holding it, is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A Grep showing only paths or counts is let through, as `rg -l` is.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A Glob shows paths and no body, so no Glob is judged here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shell line is judged by checkout-shell-reach.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Git showing a checkout file at HEAD, in the index or on disk is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Git showing a commit's patch, or a file at an earlier revision, is let through.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,10 +88,6 @@ export const blockAkashaReads = {
     {
       decisionKind: "decision-kind/absence",
       statement: "A search is no read.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "A Grep or Glob answer is not refused here.",
     },
     {
       decisionKind: "decision-kind/gap",

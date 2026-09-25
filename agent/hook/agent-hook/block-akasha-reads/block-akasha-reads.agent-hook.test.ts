@@ -4,6 +4,7 @@ import { join } from "node:path"
 import {
   homeExpanded,
   imageBytesAt,
+  refusalFor,
   refusalIn,
   SCOPE,
 } from "akasha/agent/hook/agent-hook/block-akasha-reads/block-akasha-reads.agent-hook.code.ts"
@@ -176,8 +177,117 @@ test("the image page type declares the bytes it lets through", () => {
   )
 })
 
-test("what this does not reach is printed, and names Grep and Glob and the index", () => {
+test("what this does not reach is printed, and names Glob and the index", () => {
   expect(SCOPE.join("\n")).toContain("NOT REACHED")
-  expect(SCOPE.join("\n")).toContain("Grep and Glob")
+  expect(SCOPE.join("\n")).toContain("Glob")
   expect(SCOPE.join("\n")).toContain(INDEX_AT)
+})
+
+function called(tool: string, input: Record<string, unknown>, cwd: string) {
+  return { tool_name: tool, tool_input: input, cwd }
+}
+
+function grepped(root: string, input: Record<string, unknown>): string | null {
+  return refusalFor(called("Grep", { pattern: "needle", ...input }, root), root)
+}
+
+function ran(root: string, command: string, cwd: string = root): string | null {
+  return refusalFor(called("Bash", { command }, cwd), root)
+}
+
+test("a Read handed as a payload is judged as a Read path is", () => {
+  const root = worldAt()
+  const said = refusalFor(called("Read", { file_path: "one/held.ts" }, root), root)
+  expect(said).toContain("akasha read --file-path one/held.ts")
+})
+
+test("a Grep showing lines inside the checkout is refused and names the akasha search", () => {
+  const root = worldAt()
+  const said = grepped(root, { path: "one", output_mode: "content" })
+  expect(said).toContain("akasha search --pattern 'needle' --within one")
+  expect(grepped(root, { output_mode: "content" })).toContain("akasha search --pattern 'needle'")
+})
+
+test("a Grep over a folder holding the checkout searches the whole checkout", () => {
+  const root = worldAt()
+  const said = grepped(root, { path: join(root, ".."), output_mode: "content" })
+  expect(said).toContain("akasha search --pattern 'needle'\n")
+})
+
+test("a pattern holding a quote is quoted so the shell hands it on whole", () => {
+  const root = worldAt()
+  const said = refusalFor(called("Grep", { pattern: "it's", output_mode: "content" }, root), root)
+  expect(said).toContain("--pattern 'it'\\''s'")
+})
+
+test("a Grep showing only paths or counts, and a Glob, are let through", () => {
+  const root = worldAt()
+  expect(grepped(root, {})).toBeNull()
+  expect(grepped(root, { output_mode: "files_with_matches" })).toBeNull()
+  expect(grepped(root, { output_mode: "count" })).toBeNull()
+  expect(refusalFor(called("Glob", { pattern: "**/*.ts" }, root), root)).toBeNull()
+})
+
+test("a Grep outside the checkout, and one over the index, are let through", () => {
+  const root = worldAt()
+  mkdirSync(join(root, INDEX_AT), { recursive: true })
+  expect(grepped(root, { path: awayAt(), output_mode: "content" })).toBeNull()
+  expect(grepped(root, { path: INDEX_AT, output_mode: "content" })).toBeNull()
+})
+
+test("a shell read inside the checkout is refused, naming the akasha read and search", () => {
+  const root = worldAt()
+  const said = ran(root, "cat one/held.ts")
+  expect(said).toContain("akasha read --file-path one/held.ts")
+  expect(said).toContain("akasha search --pattern")
+  expect(ran(root, `head ${join(root, "one", "held.ts")}`, awayAt())).not.toBeNull()
+})
+
+test("a shell search inside the checkout is refused, naming the akasha search", () => {
+  const root = worldAt()
+  expect(ran(root, "rg needle one")).toContain("akasha search --pattern PATTERN --within one")
+  expect(ran(root, "grep -rn needle .")).toContain("akasha search --pattern PATTERN\n")
+  expect(ran(root, "git grep needle")).toContain("akasha search")
+})
+
+test("git showing a checkout file at HEAD or on disk is refused, naming the akasha read", () => {
+  const root = worldAt()
+  expect(ran(root, "git show HEAD:one/held.ts")).toContain("akasha read --file-path one/held.ts")
+  expect(ran(root, "git diff")).toContain("git diff --stat")
+})
+
+test("paths, counts, git's state and history, reads outside, and akasha's own calls pass", () => {
+  const root = worldAt()
+  const away = awayAt()
+  for (const said of [
+    "rg -l needle",
+    "grep -l needle one/held.ts",
+    "git grep -l needle",
+    "ls one",
+    "wc -l one/held.ts",
+    "git status",
+    "git log",
+    "git diff --stat",
+    `cat ${join(away, "held.ts")}`,
+    "cat /var/tmp/nothing-here.txt",
+    "akasha read --file-path one/held.ts",
+    "akasha search needle --within one",
+  ]) {
+    expect(ran(root, said)).toBeNull()
+  }
+})
+
+test("every route a refusal names is itself let through", () => {
+  const root = worldAt()
+  const refusals = [
+    ran(root, "cat one/held.ts"),
+    ran(root, "rg needle one"),
+    ran(root, "git diff"),
+    grepped(root, { path: "one", output_mode: "content" }),
+  ]
+  for (const said of refusals) {
+    const routes = (said ?? "").split("\n").filter((one) => one.startsWith("  akasha "))
+    expect(routes.length).toBeGreaterThan(0)
+    for (const one of routes) expect(ran(root, one.trim())).toBeNull()
+  }
 })
