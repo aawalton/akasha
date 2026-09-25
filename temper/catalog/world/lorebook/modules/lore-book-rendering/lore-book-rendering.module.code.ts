@@ -11,8 +11,8 @@ const IDENTIFIER = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 const DIGITS = /^\d+$/
 
 export function quoted(text: string): string {
-  const doubles = (text.match(/"/g) ?? []).length
-  const singles = (text.match(/'/g) ?? []).length
+  const doubles = text.split('"').length - 1
+  const singles = text.split("'").length - 1
   const quote = doubles > singles ? "'" : '"'
   let out = ""
   for (const one of text) {
