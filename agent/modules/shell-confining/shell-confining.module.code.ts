@@ -5,7 +5,7 @@ export const OUTSIDE = "out"
 
 export const INSIDE = "in"
 
-const LONE = /^akasha(?: +(?:[^\s'"`$;|&<>()\\]+|'[^']*'))*$/
+const LONE = /^akasha(?: +(?:[^\s'"`$;|&<>()\\]|'[^']*'|"[^"`$\\]*")+)*$/
 
 const OPENS_AKASHA = /^akasha\s/
 

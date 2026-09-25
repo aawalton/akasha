@@ -15,7 +15,12 @@ export const shellConfining = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A call alone on the line is `akasha` then bare words or single-quoted runs, and no more.",
+        "A call alone on the line is `akasha` then words of bare text and runs in quotes, and no more.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run in double quotes holding a `$`, a backtick or a backslash keeps a call inside.",
     },
     {
       decisionKind: "decision-kind/departure",

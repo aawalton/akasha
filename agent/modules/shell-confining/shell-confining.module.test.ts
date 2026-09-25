@@ -151,6 +151,39 @@ test("a call with anything else on the line runs inside", () => {
   }
 })
 
+test("a lone call whose arguments are plain quoted words runs outside", () => {
+  for (const command of [
+    'akasha search --pattern "elapsed ceiling" --within domain --files-only',
+    'akasha search --pattern "clock|four times" --within domain',
+    "akasha search --pattern 'clock|four times' --within domain",
+    'akasha search --pattern="a b;c&d" --within "agent/x (y)"',
+    `akasha search --pattern "it's" --within 'say "so"'`,
+    'akasha search --pattern ""',
+  ]) {
+    expect(runsOutside(lineOf(command))).toBe(true)
+  }
+})
+
+test("a lone call whose double quotes the shell would rewrite runs inside", () => {
+  for (const command of [
+    'akasha search --pattern "$HOME"',
+    'akasha search --pattern "a${HOME}b"',
+    'akasha search --pattern "$(touch a.ts)"',
+    'akasha search --pattern "`touch a.ts`"',
+    'akasha search --pattern "a\\nb"',
+    'akasha search --pattern "say \\"hi\\""',
+    'akasha search --pattern \\"hi\\"',
+    "akasha search --pattern \\'hi\\'",
+    'akasha search --pattern "open',
+    'akasha search --pattern "a" | cat',
+    'akasha search --pattern "a"; touch a.ts',
+    'akasha search --pattern "a" > a.ts',
+    `akasha search --pattern ${"a'b'\"c\"".repeat(4000)}$`,
+  ]) {
+    expect(runsOutside(lineOf(command))).toBe(false)
+  }
+})
+
 test("an assignment before akasha keeps the call inside", () => {
   expect(runsOutside(lineOf("AKASHA_ROOT=/var/tmp/x akasha change apply"))).toBe(false)
   expect(runsOutside(lineOf("PATH=/var/tmp/x akasha audit"))).toBe(false)
@@ -193,6 +226,23 @@ test("the script lets an akasha call alone on the line write the checkout", () =
 
   expect(existsSync(join(held.root, "by-akasha"))).toBe(true)
   expect(bwrapHanded(held)).toBeNull()
+})
+
+test("the script lets a lone akasha call with a double-quoted pattern write the checkout", () => {
+  const held = heldAnew()
+
+  confining(held, agentsLine(held, 'akasha search --pattern "clock|four times" --files-only'))
+
+  expect(existsSync(join(held.root, "by-akasha"))).toBe(true)
+  expect(bwrapHanded(held)).toBeNull()
+})
+
+test("the script keeps a lone akasha call with a substitution in double quotes inside", () => {
+  const held = heldAnew()
+
+  confining(held, agentsLine(held, 'akasha search --pattern "$(true)"'))
+
+  expect(bwrapHanded(held) ?? "").toContain(`--ro-bind\n${held.root}\n${held.root}\n`)
 })
 
 test("the script keeps an akasha call with more on the line inside, and says so", () => {
