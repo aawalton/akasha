@@ -14,6 +14,7 @@ import {
   refreshLiveReport,
   resizeLiveReport,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-live-refresh/combat-ui-live-refresh.module.code.ts"
+import { colorTextsUnder } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-panels/combat-controls-panels.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-ui-live-report-declarations/combat-ui-live-report-declarations.type-declaration.d.ts"
@@ -204,5 +205,6 @@ export function initLiveReport(): undefined {
   liveReport.SetMovable(!setLR.locked)
 
   bg.SetAlpha(setLR.bgalpha / 100)
+  colorTextsUnder(liveReport)
   return undefined
 }

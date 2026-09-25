@@ -3892,6 +3892,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/skill-point-finder-layout/skill-point-finder-layout.eso-interface.ts","id":"01a062e8-bed7-7011-a36b-31903e5d6972"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/temper-addon-characters.temper-addon.ts","id":"01a062d2-92a3-7000-a57a-3584d7763d6e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.ts","id":"01a08ed6-a208-7d96-96d8-75bf328401f1"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/combat/combat-live-report-layout/combat-live-report-layout.eso-interface.ts","id":"01a0617f-584c-7cd2-b0e8-32c2e517c3a9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.ts","id":"01a0d916-4e00-78d0-9f79-d16bd8db48b2"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-charset/data-encode-charset.module.ts","id":"01a06061-969f-7a3f-8f90-cd7a3e2551ba"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/combat/modules/data-encode-decoder/data-encode-decoder.module.ts","id":"01a06061-969f-7339-89aa-da319bf80d6b"}

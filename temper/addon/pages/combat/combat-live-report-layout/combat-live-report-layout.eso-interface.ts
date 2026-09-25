@@ -7,4 +7,10 @@ export const combatLiveReportLayout = {
   definition: "the small window shown while a fight is on",
   markup: "xml",
   loadedAs: "TemperCombat_LiveReport.xml",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every figure the live report shows is set as a shadowed number.",
+    },
+  ],
 } as const satisfies EsoInterface

@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/companions-panel/companions-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/characters/modules/companions-summary-panel/companions-summary-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-live-report/combat-ui-live-report.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-blueprint-furnisher/craft-blueprint-furnisher.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-recipe-cooking/craft-recipe-cooking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-style.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts","typed":false,"deferred":false}

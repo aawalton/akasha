@@ -37,7 +37,7 @@
 
 						</Texture>
 
-						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" text="0" horizontalAlignment="RIGHT"
+						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0" horizontalAlignment="RIGHT"
 							verticalAlignment="CENTER">
 							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" />
 							<Dimensions x="120" y="24" />
@@ -69,7 +69,7 @@
 
 						</Texture>
 
-						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" text="0" horizontalAlignment="RIGHT"
+						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0" horizontalAlignment="RIGHT"
 							verticalAlignment="CENTER">
 							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" />
 							<Dimensions x="120" y="24" />
@@ -101,7 +101,7 @@
 
 						</Texture>
 
-						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" text="0" horizontalAlignment="RIGHT"
+						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0" horizontalAlignment="RIGHT"
 							verticalAlignment="CENTER">
 							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="2" />
 							<Dimensions x="120" y="24" />
@@ -133,7 +133,7 @@
 
 						</Texture>
 
-						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" text="0" horizontalAlignment="RIGHT"
+						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0" horizontalAlignment="RIGHT"
 							verticalAlignment="CENTER">
 							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="2" />
 							<Dimensions x="55" y="24" />
@@ -165,7 +165,7 @@
 
 						</Texture>
 
-						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" text="0" horizontalAlignment="RIGHT"
+						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0" horizontalAlignment="RIGHT"
 							verticalAlignment="CENTER">
 							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" />
 							<Dimensions x="120" y="24" />
@@ -197,7 +197,7 @@
 
 						</Texture>
 
-						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" text="0" horizontalAlignment="RIGHT"
+						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0" horizontalAlignment="RIGHT"
 							verticalAlignment="CENTER">
 							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" offsetX="2" />
 							<Dimensions x="55" y="24" />
@@ -229,7 +229,7 @@
 
 						</Texture>
 
-						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" text="0:00.0"
+						<Label name="$(parent)Label" inherits="TemperCombat_ValueFontSmallControl" font="TemperFontNumberOverPlay" text="0:00.0"
 							horizontalAlignment="RIGHT" verticalAlignment="CENTER">
 							<Anchor point="LEFT" relativePoint="RIGHT" relativeTo="$(parent)Icon" />
 							<Dimensions x="38" y="24" />
