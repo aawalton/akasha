@@ -118,6 +118,8 @@ const MAIN_MARGIN_TOP = 37
 
 const ACTION_GAP = 8
 
+const TIME_WIDTH = 88
+
 const MAIN_CHROME: readonly string[] = [
   "BG",
   "Headline",
@@ -189,6 +191,7 @@ function restyleTextUnder(this: void, root: Control): undefined {
     if (child === undefined) continue
     const kind = child.GetType()
     if (kind === CT_LABEL) styleText(child as LabelControl, roleOf(child))
+    if (kind === CT_LABEL && child.GetName().endsWith("Time")) child.SetWidth(TIME_WIDTH)
     if (kind === CT_BUTTON) {
       const button = child as ButtonControl
       button.SetFont(fontPathOf(roleOf(child)))
