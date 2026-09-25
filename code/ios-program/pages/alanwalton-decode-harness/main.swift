@@ -315,26 +315,7 @@ check(
     fallingUpkeep(FallingChecks.SENT) != nil,
     "a key the upkeep tile reads nothing from")
 
-// A LIGHT FALLING WITH THE CLOCK IS SENT ITS MOMENT, ITS RATE AND THE RUNGS OF ITS SCALE.
-let FALLING_RUNGS = [Rung(at: 0, color: .green), Rung(at: 4, color: .blue)]
-
-let FALLING_KEYS =
-    #","takenAt":"\#(FallingChecks.TOOK_AT)","fallsPerHour":1,"#
-    + #""rungs":[{"at":0,"color":"green"},{"at":4,"color":"blue"}]"#
-
-func fallingBody(_ key: String) -> Data {
-    Data(
-        #"{"stoplights":[{"\#(key)":"sleep","label":"Sleep","tier":"green","reading":"2"\#(FALLING_KEYS)}]}"#
-            .utf8)
-}
-
-let fallingAttribute = (try? JSONDecoder().decode(
-    AttributeStoplightsResponse.self, from: fallingBody("attribute")))?.stoplights.first
-check(
-    "an attribute circle falling with the clock decodes its moment, its rate and its rungs",
-    fallingAttribute?.takenAt == FallingChecks.TOOK_AT && fallingAttribute?.fallsPerHour == 1
-        && fallingAttribute?.rungs == FALLING_RUNGS,
-    String(describing: fallingAttribute))
+for (name, held, saw) in FeedKeyChecks.run() { check(name, held, saw) }
 
 // A LIGHT NOTHING COULD BE READ FOR IS SENT BLACK, WITH AN EMPTY FIGURE AND `readingHeld`.
 func unheldBody(_ key: String, held: String = NO_READING_HELD) -> String {

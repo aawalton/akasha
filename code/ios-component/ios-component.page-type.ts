@@ -45,6 +45,7 @@ export const iosComponent = {
     "ios-component/alanwalton-stoplights-content",
     "ios-component/widget-tap-link",
     "ios-component/alanwalton-categorize-checks",
+    "ios-component/alanwalton-feed-key-checks",
   ],
   extends: ["page-type/domain"],
   properties: [{ pageProperty: "code-file-property/swift", required: true, many: false }],

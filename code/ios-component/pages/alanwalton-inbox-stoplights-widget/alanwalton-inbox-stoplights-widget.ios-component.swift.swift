@@ -10,6 +10,9 @@ struct InboxStoplight: Decodable, Hashable {
     let label: String?
     var unit: String? = nil
     var figureOffScale: Bool? = nil
+    var takenAt: String? = nil
+    var fallsPerHour: Double? = nil
+    var rungs: [Rung]? = nil
     var readingHeld: String? = nil
 
     var noSignal: Bool { readingHeld == NO_READING_HELD }

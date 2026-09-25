@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/alanwalton-claude-usage-widget/alanwalton-claude-usage-widget.ios-component.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/alanwalton-cost-widget/alanwalton-cost-widget.ios-component.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/alanwalton-device-secret-reader/alanwalton-device-secret-reader.ios-component.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/alanwalton-feed-key-checks/alanwalton-feed-key-checks.ios-component.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/alanwalton-inbox-stoplights-widget/alanwalton-inbox-stoplights-widget.ios-component.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/alanwalton-never-loaded-view/alanwalton-never-loaded-view.ios-component.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"ios-component.page-type.types.ts","path":"code/ios-component/pages/alanwalton-refused-view/alanwalton-refused-view.ios-component.ts","typed":true,"deferred":false}
