@@ -4,7 +4,7 @@ export const context = {
   id: "01a04f50-2a7e-7000-a43d-22ce4657c379",
   type: "page-type/domain",
   slug: "context",
-  definition: "what a change requires its writer to have read",
+  definition: "what an agent must read before a change",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "context" },
     { partOfSpeech: "part-of-speech/noun", spelling: "contexts" },
