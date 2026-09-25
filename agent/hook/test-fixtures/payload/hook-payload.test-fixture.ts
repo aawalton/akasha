@@ -4,7 +4,7 @@ export const hookPayload = {
   id: "01a04f4d-f0ea-791d-8bb4-ce41b59e46b1",
   type: "page-type/test-fixture",
   slug: "hook-payload",
-  definition: "a hook payload as the agent sends one, made so a test can hand it to a hook",
+  definition: "what a test sends a hook in place of Claude Code",
   code: "ts",
   decisions: [
     {
