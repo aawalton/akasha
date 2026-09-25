@@ -74,7 +74,11 @@ export const statusBarComposing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The workstation's load is each workstation readout's last reading, found by wire key.",
+        "The workstation's load is each workstation readout's last reading, under its wire key.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here names a readout's wire key.",
     },
   ],
 } as const satisfies Module

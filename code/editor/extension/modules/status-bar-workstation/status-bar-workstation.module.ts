@@ -4,8 +4,9 @@ export const statusBarWorkstation = {
   id: "01a0a06d-c7bc-75e2-b14d-994b4e770155",
   type: "page-type/module",
   slug: "status-bar-workstation",
-  definition: "the processor and memory figures the status bar draws of the workstation's load",
+  definition: "the figures the status bar draws of the workstation's load",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -13,11 +14,11 @@ export const statusBarWorkstation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The processor figure is a share and the memory figure an amount.",
+      statement: "Each figure is held under the wire key its readout states.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reading with neither figure is no reading rather than two figures of nothing.",
+      statement: "A reading with no figure is no reading rather than figures of nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -55,10 +55,6 @@ const ATTRIBUTES_SECTION = "attributes"
 
 const WORKSTATION_SECTION = "workstation"
 
-const PROCESSOR_KEY = "processor"
-
-const MEMORY_KEY = "memory"
-
 const WIRE_KEY = "wireKey"
 
 const WIRE_KEY_NAME = "wireKeyName"
@@ -148,15 +144,16 @@ function sectionOf(stoplights: readonly Stoplight[]): StatusBarStoplights | null
   return { glyphs: glyphsOf(stoplights), legend: legendOf(stoplights) }
 }
 
-function figureHeldOn(rows: readonly Values[], wireKey: string): number | null {
-  const row = rows.find((one) => !stilled(one) && textAt(one, WIRE_KEY) === wireKey)
-  if (row === undefined) return null
-  const held = readingHeldOn(row)
-  return held.held === "fresh" ? held.value : null
-}
-
-function workstationNow(here: readonly Values[]): WorkstationReading | null {
-  return workstationReadingOf(figureHeldOn(here, PROCESSOR_KEY), figureHeldOn(here, MEMORY_KEY))
+function figuresOn(rows: readonly Values[]): WorkstationReading {
+  const figures: Record<string, number | null> = {}
+  for (const row of inPlaceOrder(rows)) {
+    if (stilled(row)) continue
+    const wireKey = textAt(row, WIRE_KEY)
+    if (wireKey === null) continue
+    const held = readingHeldOn(row)
+    figures[wireKey] = held.held === "fresh" ? held.value : null
+  }
+  return figures
 }
 
 function usageNow(): UsageReading | null {
@@ -179,7 +176,7 @@ export function statusBarLine(root: string): string {
   const working = inSection(WORKSTATION_SECTION)
   const workstationRows = rows.filter((row) => working.some((one) => namesGroup(row, one.slug)))
   return JSON.stringify({
-    workstation: workstationNow(workstationRows),
+    workstation: workstationReadingOf(figuresOn(workstationRows)),
     usage: usageNow(),
     inbox: drawn(INBOX_SECTION),
     upkeep: drawn(UPKEEP_SECTION),

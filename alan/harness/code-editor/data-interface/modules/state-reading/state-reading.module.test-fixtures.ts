@@ -15,7 +15,7 @@ export const CAPTURED_STATES: Readonly<Record<string, string>> = {
   "service-tree":
     '{"roots":[{"kind":"root","key":"root","label":"services","at":null,"color":null,"detail":null,"children":[]}]}',
   "status-bar":
-    '{"workstation":{"processorPct":66,"memoryGb":88},"usage":{"sessionPct":38.54545454545455,"weeklyPct":25.818181818181817},"inbox":{"glyphs":"🔵🟡🔵🔵🟢⚫","legend":"Email 0 messages · Tasks 3 tasks · Temper 0 tasks · Findings 0 findings · Gaps 10 gaps · Refusals 11606 refusals"},"upkeep":{"glyphs":"🔵🔵🟢🟡","legend":"Safety 4 levels · Surplus 7.2 hours · Capacity 10 hours · Sleep 7.2 hours"},"attributes":{"glyphs":"⚫⚫⚫⚫⚫⚫⚫","legend":"STR 0 points · END 0.0 points · CON 0 points · WIS 0 points · INT 0 points · CHA 0 points · LCK 0 points"}}',
+    '{"workstation":{"processor":66,"memory":88},"usage":{"sessionPct":38.54545454545455,"weeklyPct":25.818181818181817},"inbox":{"glyphs":"🔵🟡🔵🔵🟢⚫","legend":"Email 0 messages · Tasks 3 tasks · Temper 0 tasks · Findings 0 findings · Gaps 10 gaps · Refusals 11606 refusals"},"upkeep":{"glyphs":"🔵🔵🟢🟡","legend":"Safety 4 levels · Surplus 7.2 hours · Capacity 10 hours · Sleep 7.2 hours"},"attributes":{"glyphs":"⚫⚫⚫⚫⚫⚫⚫","legend":"STR 0 points · END 0.0 points · CON 0 points · WIS 0 points · INT 0 points · CHA 0 points · LCK 0 points"}}',
   "terminal-tabs":
     '{"seatByShellPid":{"876856":"alan","3606469":"akasha"},"colorBySeat":{"akasha":"blue","alan":"green"}}',
   "work-tree":

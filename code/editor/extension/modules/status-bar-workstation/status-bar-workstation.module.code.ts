@@ -1,12 +1,5 @@
-export type WorkstationReading = {
-  readonly processorPct: number | null
-  readonly memoryGb: number | null
-}
+export type WorkstationReading = Readonly<Record<string, number | null>>
 
-export function workstationReadingOf(
-  processorPct: number | null,
-  memoryGb: number | null
-): WorkstationReading | null {
-  if (processorPct === null && memoryGb === null) return null
-  return { processorPct, memoryGb }
+export function workstationReadingOf(figures: WorkstationReading): WorkstationReading | null {
+  return Object.values(figures).some((one) => one !== null) ? figures : null
 }

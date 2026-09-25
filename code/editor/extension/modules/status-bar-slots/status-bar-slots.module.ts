@@ -45,6 +45,10 @@ export const statusBarSlots = {
       statement: "A figure carries the unit that figure counts in.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A workstation slot decodes its figure by the wire key its readout travels under.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a figure.",
     },

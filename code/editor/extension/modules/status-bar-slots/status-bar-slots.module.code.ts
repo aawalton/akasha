@@ -16,7 +16,7 @@ const RAW_SLOTS: readonly SlotDef[] = [
     priority: 0,
     label: "processor use",
     hex: SILVER_HEX,
-    read: (w) => formatPct(w.processorPct),
+    read: (w) => formatPct(w["processor"] ?? null),
   },
   {
     kind: "workstation",
@@ -24,7 +24,7 @@ const RAW_SLOTS: readonly SlotDef[] = [
     priority: 0,
     label: "memory available",
     hex: SILVER_HEX,
-    read: (w) => formatGb(w.memoryGb),
+    read: (w) => formatGb(w["memory"] ?? null),
   },
 
   { kind: "separator", id: "opsStatusBar.sep.workstationUsage", priority: 0 },
