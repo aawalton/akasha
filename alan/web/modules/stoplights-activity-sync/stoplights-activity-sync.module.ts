@@ -10,12 +10,11 @@ export const stoplightsActivitySync = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The three feeds are read together and handed over as one reading.",
+      statement: "The reading is the one the site's stoplights activity route answers, as it came.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Each feed's rows are read under the wire key name its group's page states, taken in at build.",
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here names a group or the key a group's rows travel under.",
     },
     {
       decisionKind: "decision-kind/departure",

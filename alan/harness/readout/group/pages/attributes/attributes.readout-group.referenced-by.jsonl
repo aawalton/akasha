@@ -5,7 +5,5 @@
 {"propertySlug":"groups","path":"alan/attribute/readout/attribute-strength/attribute-strength.readout.ts","id":"01a06838-9421-7f89-932a-569d681c18a4"}
 {"propertySlug":"groups","path":"alan/attribute/readout/attribute-wisdom/attribute-wisdom.readout.ts","id":"01a06838-94ae-75cc-850c-98f366cb8269"}
 {"propertySlug":"groups","path":"alan/harness/readout/widget/pages/alanwalton-attribute-stoplights.readout-widget.ts","id":"01a06858-8cfa-7178-8e79-50dece17aecf"}
-{"propertySlug":"import","fileName":"attributes.readout-group.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"attributes.readout-group.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"attributes.readout-group.ts","path":"alan/web/routes/attribute-stoplights/attribute-stoplights.route.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/group/readout-group.page-type.ts","id":"01a05446-e75e-7657-acda-566edc2b182e"}

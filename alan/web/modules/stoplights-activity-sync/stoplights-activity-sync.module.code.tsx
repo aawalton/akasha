@@ -1,13 +1,5 @@
 "use client"
 
-import { attributes } from "akasha/alan/harness/readout/group/pages/attributes/attributes.readout-group.ts"
-import { inboxes } from "akasha/alan/harness/readout/group/pages/inboxes/inboxes.readout-group.ts"
-import { upkeep } from "akasha/alan/harness/readout/group/pages/upkeep/upkeep.readout-group.ts"
-import {
-  type ActivityRows,
-  contentOf,
-  type StoplightsContent,
-} from "akasha/alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.code.ts"
 import { apiFetch } from "akasha/alan/web/modules/api-fetch/api-fetch.module.code.ts"
 import {
   getApp,
@@ -20,39 +12,23 @@ import { UserIdContext } from "akasha/page/ui/modules/use-user-id/use-user-id.mo
 import { useContext, useEffect } from "react"
 import { z } from "zod"
 
-const FEEDS = ["/api/habit-stoplights", "/api/inbox-stoplights", "/api/attribute-stoplights"]
+const FEED = "/api/stoplights-activity"
 
-const ANSWER = z.object({ stoplights: z.array(z.record(z.string(), z.unknown())) })
+const ANSWER = z.record(z.string(), z.unknown())
 
-export function contentIn(
-  groups: readonly (ActivityRows | null)[],
-  takenAt: string
-): StoplightsContent | null {
-  const [upkeepRows, inboxesRows, attributesRows] = groups
-  if (upkeepRows == null || inboxesRows == null || attributesRows == null) return null
-  return contentOf(
-    [
-      { slug: upkeep.slug, rows: upkeepRows, wireKeyName: upkeep.wireKeyName },
-      { slug: inboxes.slug, rows: inboxesRows, wireKeyName: inboxes.wireKeyName },
-      { slug: attributes.slug, rows: attributesRows, wireKeyName: attributes.wireKeyName },
-    ],
-    takenAt
-  )
+export function contentIn(body: unknown): string | null {
+  const said = ANSWER.safeParse(body)
+  return said.success ? JSON.stringify(said.data) : null
 }
 
-async function rowsIn(at: string): Promise<ActivityRows | null> {
+async function contentRead(): Promise<string | null> {
   try {
-    const answer = await apiFetch(at)
+    const answer = await apiFetch(FEED)
     if (!answer.ok) return null
-    const said = ANSWER.safeParse(await answer.json())
-    return said.success ? said.data.stoplights : null
+    return contentIn(await answer.json())
   } catch {
     return null
   }
-}
-
-async function contentRead(at: string): Promise<StoplightsContent | null> {
-  return contentIn(await Promise.all(FEEDS.map(rowsIn)), at)
 }
 
 export function StoplightsActivitySync() {
@@ -71,12 +47,12 @@ export function StoplightsActivitySync() {
       if (plugin == null) {
         throw new Error("the native shell carries no stoplights activity plugin")
       }
-      const content = await contentRead(new Date().toISOString())
+      const content = await contentRead()
       if (cancelled) return
       if (content === null) {
-        throw new Error("the stoplight feeds gave no reading, so no activity could start")
+        throw new Error("the stoplights feed gave no reading, so no activity could start")
       }
-      await plugin.start({ content: JSON.stringify(content) })
+      await plugin.start({ content })
     }
 
     void (async () => {

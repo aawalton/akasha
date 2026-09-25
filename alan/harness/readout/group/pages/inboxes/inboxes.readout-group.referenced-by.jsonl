@@ -5,7 +5,5 @@
 {"propertySlug":"groups","path":"alan/harness/inbox/readouts/inboxes-tasks/inboxes-tasks.readout.ts","id":"01a06230-b156-7d81-a78b-ca66f6f5da77"}
 {"propertySlug":"groups","path":"alan/harness/readout/widget/pages/alanwalton-inbox-stoplights.readout-widget.ts","id":"01a06420-b259-7991-800b-7019c1efb1c2"}
 {"propertySlug":"groups","path":"temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts","id":"01a0603b-d45a-7ff5-8a9e-03ecb545e854"}
-{"propertySlug":"import","fileName":"inboxes.readout-group.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"inboxes.readout-group.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.test.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"inboxes.readout-group.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/readout/group/readout-group.page-type.ts","id":"01a05446-e75e-7657-acda-566edc2b182e"}

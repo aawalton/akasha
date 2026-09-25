@@ -8,7 +8,11 @@ export const inboxes = {
   figureOffScale: true,
   wireKeyName: "inbox",
   statusBarSection: "inbox",
-  servedBy: ["route/inbox-stoplights", "module/stoplights-activity-pushing"],
+  servedBy: [
+    "route/inbox-stoplights",
+    "module/stoplights-activity-pushing",
+    "route/stoplights-activity",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

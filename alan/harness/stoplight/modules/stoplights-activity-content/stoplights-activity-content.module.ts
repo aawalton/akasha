@@ -32,7 +32,7 @@ export const stoplightsActivityContent = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Both the app handing a reading over and the workstation pushing one shape it here.",
+        "Both the route answering the app a reading and the workstation pushing one shape it here.",
     },
     {
       decisionKind: "decision-kind/absence",
