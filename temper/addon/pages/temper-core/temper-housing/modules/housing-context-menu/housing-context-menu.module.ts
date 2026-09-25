@@ -12,7 +12,7 @@ export const housingContextMenu = {
       statement: "The game's own context-menu function is wrapped rather than replaced.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The wrap is put on after a delay the game needs to build a context menu.",
     },
   ],
