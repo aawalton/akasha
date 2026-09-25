@@ -1,7 +1,6 @@
 import {
   asNumberOpt,
   asNumRecord,
-  asNumRecordOpt,
   asPresent,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import { getFirstEntryOfTable } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-helpers/sets-debug-debug-helpers.module.code.ts"
@@ -132,9 +131,7 @@ function getNewSetName(this: void, newSetId: number | undefined): string {
     if (itemIdsPreloaded[newSetId] === undefined) {
       return UNKNOWN_NAME
     }
-    itemId = asNumberOpt(
-      getFirstEntryOfTable(asNumRecordOpt(lib.DecompressSetIdItemIds(newSetId)), true)
-    )
+    itemId = asNumberOpt(getFirstEntryOfTable(lib.DecompressSetIdItemIds(newSetId), true))
   }
   if (itemId === undefined) {
     return UNKNOWN_NAME

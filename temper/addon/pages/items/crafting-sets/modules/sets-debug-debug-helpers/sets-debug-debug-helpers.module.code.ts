@@ -1,7 +1,5 @@
 import {
-  asNumber,
   asNumberArray,
-  asNumRecord,
   asNumRecordOpt,
   asPresent,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
@@ -33,9 +31,9 @@ import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-
 
 const tsort = table.sort
 
-function lengthOf(this: void, t: object): number {
+function lengthOf(this: void, t: { [k: number]: unknown }): number {
   let n = 0
-  for (const [k] of ipairs(asNumRecord(t))) {
+  for (const [k] of ipairs(t)) {
     n = k
   }
   return n
@@ -67,8 +65,8 @@ function myCombineNonContiguousTables(
   for (const sourceTable of sources) {
     if (sourceTable !== undefined) {
       for (const [key, data] of pairs(sourceTable)) {
-        if (dest[asNumber(key)] === undefined) {
-          dest[asNumber(key)] = data
+        if (dest[key] === undefined) {
+          dest[key] = data
         }
       }
     }
@@ -108,9 +106,9 @@ function checkForNewSetIds(
 
   for (const [setId, setItemIds] of pairs(tableToProcess)) {
     let doAddAsNew = false
-    if (blacklistedSetIds[asNumber(setId)] === undefined) {
+    if (blacklistedSetIds[setId] === undefined) {
       if (setItemIds !== undefined && setInfo !== undefined) {
-        if (setInfo[asNumber(setId)] === undefined) {
+        if (setInfo[setId] === undefined) {
           doAddAsNew = true
         } else {
           if (
@@ -126,10 +124,10 @@ function checkForNewSetIds(
           }
         }
         if (doAddAsNew === true) {
-          SCAN_STATE.newSetIdsFound.push(asNumber(setId))
+          SCAN_STATE.newSetIdsFound.push(setId)
         }
         if (runFuncForEachSetId === true) {
-          asPresent(funcToCallForEachSetId)(asNumber(setId))
+          asPresent(funcToCallForEachSetId)(setId)
         }
       }
     }
@@ -155,7 +153,7 @@ function checkForNewSetIds(
         tostring(apiVersion)
       )
       for (const [idx, newSetIdToCheck] of ipairs(newSetIdsFromSV)) {
-        if (type(newSetIdToCheck) === "number") {
+        if (typeof newSetIdToCheck === "number") {
           let addNow = true
           if (newSetIdToCheck !== undefined) {
             for (const [, newSetIdLoadedBefore] of ipairs(SCAN_STATE.newSetIdsFound)) {
@@ -166,9 +164,9 @@ function checkForNewSetIds(
             }
           }
           if (addNow === true && newSetIdToCheck !== undefined) {
-            SCAN_STATE.newSetIdsFound[idx - 1] = asNumber(newSetIdToCheck)
+            SCAN_STATE.newSetIdsFound[idx - 1] = newSetIdToCheck
             if (runFuncForEachSetId === true) {
-              asPresent(funcToCallForEachSetId)(asNumber(newSetIdToCheck))
+              asPresent(funcToCallForEachSetId)(newSetIdToCheck)
             }
           }
         }
@@ -209,7 +207,10 @@ function compressSetItemIdTable(this: void, toMinify: number[]): (number | strin
   if (numConsecutive > 0) {
     minifiedTable.push(tostring(toMinify[lastPosition - 1]) + "," + tostring(numConsecutive))
   } else {
-    minifiedTable.push(asPresent(toMinify[lastPosition - 1]))
+    const lastItemId = toMinify[lastPosition - 1]
+    if (lastItemId !== undefined) {
+      minifiedTable.push(lastItemId)
+    }
   }
   tsort(minifiedTable)
   return minifiedTable
@@ -238,10 +239,10 @@ function compressSetItemIdsNow(
   for (const [setId, setItemIdsOfSetId] of pairs(sourceTable)) {
     const helperTabNoGapIndex: number[] = []
     for (const [k] of pairs(setItemIdsOfSetId)) {
-      helperTabNoGapIndex.push(asNumber(k))
+      helperTabNoGapIndex.push(k)
     }
     tsort(asNumberArray(setItemIdsOfSetId))
-    compressed[asNumber(setId)] = compressSetItemIdTable(helperTabNoGapIndex)
+    compressed[setId] = compressSetItemIdTable(helperTabNoGapIndex)
   }
   d(
     ">>> " +

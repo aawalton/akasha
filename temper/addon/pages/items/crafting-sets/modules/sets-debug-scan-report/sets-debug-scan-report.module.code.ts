@@ -109,7 +109,7 @@ export function showSetCountsScanned(
             tostring(newSetId),
             tostring(newSetName)
           )
-          SCAN_STATE.newSetIdsFound[asNumber(idx) - 1] = newSetId
+          SCAN_STATE.newSetIdsFound[idx - 1] = newSetId
         }
       }
 

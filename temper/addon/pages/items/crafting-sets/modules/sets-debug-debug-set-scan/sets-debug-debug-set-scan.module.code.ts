@@ -1,7 +1,4 @@
-import {
-  asNumber,
-  asPresent,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asPresent } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asSetNamesTable,
   asSetNamesTableOpt,
@@ -60,7 +57,7 @@ function debugGetAllSetNames(this: void, noReloadInfo?: boolean): undefined {
       if (setsItemIds !== undefined) {
         for (const [itemIdToCheck] of pairs(setsItemIds)) {
           if (!setWasChecked && itemIdToCheck !== undefined) {
-            const [isSet, setNameRaw, setId] = isSetByItemId(asNumber(itemIdToCheck))
+            const [isSet, setNameRaw, setId] = isSetByItemId(itemIdToCheck)
             if (isSet && setId === setIdToCheck) {
               setWasChecked = true
 
@@ -69,7 +66,7 @@ function debugGetAllSetNames(this: void, noReloadInfo?: boolean): undefined {
                 const preloadedSetNames = asSetNamesTable(
                   lib.setDataPreloaded[SETS_TABLEKEY_SETNAMES]
                 )
-                const entry = preloadedSetNames[asNumber(setId)]
+                const entry = preloadedSetNames[setId]
                 setName =
                   (entry !== undefined ? entry[clientLang] : undefined) ??
                   (entry !== undefined ? entry[fallbackLang] : undefined) ??
@@ -83,16 +80,16 @@ function debugGetAllSetNames(this: void, noReloadInfo?: boolean): undefined {
                   lib.LoadSavedVariables()
                   svLoadedAlready = true
                 }
-                setIdsTable.push(asNumber(setId))
-                setNamesOfLangTable[asNumber(setId)] = setName
+                setIdsTable.push(setId)
+                setNamesOfLangTable[setId] = setName
                 setNamesAdded = setNamesAdded + 1
               }
             }
           }
         }
       }
-      if (asNumber(setIdToCheck) > maxSetIdChecked) {
-        maxSetIdChecked = asNumber(setIdToCheck)
+      if (setIdToCheck > maxSetIdChecked) {
+        maxSetIdChecked = setIdToCheck
       }
     }
   }

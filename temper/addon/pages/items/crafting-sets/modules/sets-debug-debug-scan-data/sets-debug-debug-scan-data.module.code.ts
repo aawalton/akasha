@@ -69,8 +69,8 @@ function getAllZoneInfo(this: void): { [lang: string]: { [zoneId: number]: strin
   )
   const maxZoneId = 2000
   const zoneData: { [lang: string]: { [zoneId: number]: string } } = {}
-  zoneData[clientLang] = {}
-  const zoneDataForLang = asPresent(zoneData[clientLang])
+  const zoneDataForLang: { [zoneId: number]: string } = {}
+  zoneData[clientLang] = zoneDataForLang
   const zoneIndex1ZoneId = GetZoneId(1)
   for (const zoneId of $range(1, maxZoneId, 1)) {
     const zi = GetZoneIndex(zoneId)
@@ -179,8 +179,8 @@ function getWayshrineNames(
   )
 
   const wsNames: { [lang: string]: { [nodeId: number]: string } } = {}
-  wsNames[clientLang] = {}
-  const wsNamesForLang = asPresent(wsNames[clientLang])
+  const wsNamesForLang: { [nodeId: number]: string } = {}
+  wsNames[clientLang] = wsNamesForLang
   for (const wsNodeId of $range(1, GetNumFastTravelNodes(), 1)) {
     const [, wsLocalizedName] = GetFastTravelNodeInfo(wsNodeId)
     if (wsLocalizedName !== undefined) {
@@ -247,7 +247,7 @@ function getMapNames(this: void, lang?: string): { [mapIndex: number]: string } 
   }
   const mapNames: { [mapIndex: number]: string } = {}
   for (const [zoneId, zoneNameLocalized] of pairs(zoneIdsLocalized)) {
-    const mapIndex = GetMapIndexByZoneId(asPresent(zoneId))
+    const mapIndex = GetMapIndexByZoneId(zoneId)
     if (mapIndex !== undefined) {
       const mapId = GetMapIdByIndex(mapIndex)
       const mapName = zocstrfor(UPPER_CASE_FIRST_FORMATTER, GetMapNameByIndex(mapIndex))

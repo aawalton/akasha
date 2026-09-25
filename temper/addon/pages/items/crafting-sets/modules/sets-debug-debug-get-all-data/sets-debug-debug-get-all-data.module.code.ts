@@ -1,8 +1,4 @@
-import {
-  asBooleanOpt,
-  asNumber,
-  asPresent,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
+import { asPresent } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-casts/sets-casts.module.code.ts"
 import {
   asDebugGetAllDataSV,
   asSetNamesTable,
@@ -32,11 +28,10 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
 function debugGetAllData(this: void, ...args: unknown[]): undefined {
-  const resetApiData = asBooleanOpt(args[0])
-  const noItemIds = asBooleanOpt(args[1])
-  const onlyNames = asBooleanOpt(args[2])
-  const resetApi = resetApiData ?? false
-  const noItems = noItemIds ?? false
+  const resetApi: unknown = args[0] ?? false
+  const noItems: unknown = args[1] ?? false
+  const onlyNamesArg = args[2]
+  const onlyNames = typeof onlyNamesArg === "boolean" ? onlyNamesArg : undefined
 
   let newRun = false
   let languageToScanNext: string | undefined
@@ -226,11 +221,10 @@ function debugBuildMixedSetNames(this: void): undefined {
       setIdsFound = setIdsFound + 1
       const setDataToCombineForLangKey = setDataToCombine[lang]
       if (setDataToCombineForLangKey !== undefined && setDataToCombineForLangKey !== "") {
-        const setIdNum = asNumber(tonumber(setId))
-        if (copyOfPreloadedSetNames[setIdNum] === undefined) {
-          copyOfPreloadedSetNames[setIdNum] = {}
+        if (copyOfPreloadedSetNames[setId] === undefined) {
+          copyOfPreloadedSetNames[setId] = {}
         }
-        copyOfPreloadedSetNames[setIdNum][lang] = setDataToCombineForLangKey
+        copyOfPreloadedSetNames[setId][lang] = setDataToCombineForLangKey
         setIdsChanged = setIdsChanged + 1
         setIdsChangedTotal = setIdsChangedTotal + setIdsChanged
       }
