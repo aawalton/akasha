@@ -71905,7 +71905,7 @@
       "name": "Nobility in Decay",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Necromancer",
-      "slotsUnlocked": 14,
+      "slotsUnlocked": 15,
       "totalSlots": 36,
       "pieces": [
         {
@@ -72050,7 +72050,7 @@
         },
         {
           "name": "Nobility in Decay Shield",
-          "unlocked": false
+          "unlocked": true
         }
       ]
     },
@@ -75174,7 +75174,7 @@
       "name": "Umbral Edge",
       "categoryName": "Infinite Archive",
       "subcategoryName": "Nightblade",
-      "slotsUnlocked": 14,
+      "slotsUnlocked": 15,
       "totalSlots": 36,
       "pieces": [
         {
@@ -75219,7 +75219,7 @@
         },
         {
           "name": "Umbral Edge Bracers",
-          "unlocked": false
+          "unlocked": true
         },
         {
           "name": "Umbral Edge Gauntlets",
@@ -88247,6 +88247,7 @@
     11727,
     11728,
     11729,
+    11730,
     11732,
     11734,
     11735,
