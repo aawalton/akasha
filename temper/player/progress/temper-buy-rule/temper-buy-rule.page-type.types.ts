@@ -1,5 +1,6 @@
 import type { ItemId } from "akasha/temper/catalog/thing/properties/item-id.number-property.types.ts"
 import type { ItemName } from "akasha/temper/player/holdings/temper-sale/properties/item-name.text-property.types.ts"
+import type { BuyTargetQuantity } from "akasha/temper/player/progress/temper-buy-rule/properties/buy-target-quantity.number-property.types.ts"
 import type { RuleLocked } from "akasha/temper/player/progress/temper-inventory-rule/properties/rule-locked.boolean-property.types.ts"
 import type { UpdatedAt } from "akasha/temper/player/progress/temper-inventory-rule/properties/updated-at.instant-property.types.ts"
 import type { Active } from "akasha/temper/player/progress/temper-rule/properties/active.boolean-property.types.ts"
@@ -17,4 +18,5 @@ export type TemperBuyRule = TemperProgressThing & {
   updatedAt: UpdatedAt
   locked?: RuleLocked
   goal?: Goal
+  targetQuantity: BuyTargetQuantity
 }

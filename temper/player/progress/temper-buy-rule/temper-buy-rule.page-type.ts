@@ -15,6 +15,7 @@ export const temperBuyRule = {
     { pageProperty: "instant-property/updated-at", required: true, many: false },
     { pageProperty: "boolean-property/rule-locked", required: false, many: false },
     { pageProperty: "relation-property/goal", required: false, many: false },
+    { pageProperty: "number-property/buy-target-quantity", required: true, many: false },
   ],
   decisions: [
     {
@@ -32,4 +33,5 @@ export const temperBuyRule = {
   ],
   types: "ts",
   schema: "jsonl",
+  parts: ["number-property/buy-target-quantity"],
 } as const satisfies PageType
