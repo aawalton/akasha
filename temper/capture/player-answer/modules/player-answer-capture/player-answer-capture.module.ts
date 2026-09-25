@@ -34,7 +34,11 @@ export const playerAnswerCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A function that raises, or answers nothing, is passed over.",
+      statement: "A function that raises is passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A function that answers nothing is kept as answering nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

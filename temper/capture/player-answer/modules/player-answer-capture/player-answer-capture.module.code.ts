@@ -244,7 +244,7 @@ export function capturePlayerAnswers(
       const held = answers[key] ?? {}
       for (const name of PLAYER_ASKINGS[asking.shape] ?? []) {
         const got = answersOf(name, asking.values)
-        if (got === undefined || got.every(emptyAnswer)) continue
+        if (got === undefined || (got.length > 0 && got.every(emptyAnswer))) continue
         held[name] = got
         answers[key] = held
       }
