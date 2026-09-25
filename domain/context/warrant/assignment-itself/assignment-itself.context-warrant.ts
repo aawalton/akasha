@@ -33,6 +33,10 @@ export const assignmentItself = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat stating an initiative warrants the initiative page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An assignment is looked up under the page type the assignment is stated under.",
     },
   ],

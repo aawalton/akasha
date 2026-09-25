@@ -68,10 +68,6 @@ export const requiredReading = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A seat assigned an initiative reads that initiative's type.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement: "A seat assigned an initiative reads the persona that initiative states.",
     },
     {

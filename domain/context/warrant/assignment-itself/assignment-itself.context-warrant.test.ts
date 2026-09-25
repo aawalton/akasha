@@ -14,6 +14,7 @@ import {
 import {
   ASSIGNMENT,
   assignmentItself,
+  KIND,
   WITHIN,
 } from "akasha/domain/context/warrant/assignment-itself/assignment-itself.context-warrant.code.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
@@ -24,6 +25,8 @@ const scratch = scratchWorld()
 afterAll(scratch.sweep)
 
 const AGENT = "01a0596c-0000-7000-8000-000000000003"
+
+const KIND_AT = "akasha/initiative/initiative.page-type.ts"
 
 test("a seat warrants the assignment it states", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
@@ -98,7 +101,7 @@ test("a seat stating an initiative warrants the domain that initiative names", (
   const domain = domainListed(root, "domain-system")
   const work = initiativeListed(root, "one-work", `domain: "domain/domain-system"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
-  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, domain.path])
+  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, domain.path, KIND_AT])
 })
 
 test("an initiative naming its domain under another page type warrants that page", () => {
@@ -106,7 +109,7 @@ test("an initiative naming its domain under another page type warrants that page
   const domain = typedListed(root, "workspace-package", "domain-system")
   const work = initiativeListed(root, "one-work", `domain: "workspace-package/domain-system"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
-  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, domain.path])
+  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, domain.path, KIND_AT])
 })
 
 test("the domain an initiative names says why it is owed", () => {
@@ -119,19 +122,36 @@ test("the domain an initiative names says why it is owed", () => {
   expect(held?.owed).toBe(WITHIN)
 })
 
-test("an initiative naming a domain that cannot be found warrants the initiative alone", () => {
+test("an initiative naming a domain that cannot be found warrants no domain", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
   const work = initiativeListed(root, "one-work", `domain: "domain/ghost"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
-  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path])
+  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, KIND_AT])
 })
 
-test("an initiative naming no domain warrants itself alone", () => {
+test("a seat stating an initiative warrants the initiative page type", () => {
+  const root = scratch.rootFor("akasha-assignment-itself-")
+  const work = initiativeListed(root, "one-work")
+  const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
+  const said = assignmentItself(root, at)
+  expect(pathsOf(said)).toEqual([work.path, KIND_AT])
+  expect(said[1]?.owed).toBe(KIND)
+})
+
+test("a seat stating a domain warrants no initiative page type", () => {
+  const root = scratch.rootFor("akasha-assignment-itself-")
+  initiativeListed(root, "one-work")
+  const held = domainListed(root, "akasha-system")
+  const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
+  expect(pathsOf(assignmentItself(root, at))).toEqual([held.path])
+})
+
+test("an initiative naming no domain warrants no domain", () => {
   const root = scratch.rootFor("akasha-assignment-itself-")
   domainListed(root, "domain-system")
   const work = initiativeListed(root, "one-work")
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-work"`)
-  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path])
+  expect(pathsOf(assignmentItself(root, at))).toEqual([work.path, KIND_AT])
 })
 
 test("an assignment not read is refused, and the refusal says why it is owed", () => {

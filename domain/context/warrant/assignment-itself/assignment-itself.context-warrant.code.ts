@@ -16,9 +16,14 @@ export const ASSIGNMENT =
 export const WITHIN =
   "A seat assigned an initiative answers for the domain that initiative names, and that domain is read before the seat is changed."
 
+export const KIND =
+  "A seat assigned an initiative answers to what an initiative is, and the initiative page type is read before the seat is changed."
+
 const DOMAIN_TYPE = "domain"
 
 const INITIATIVE_TYPE = "initiative"
+
+const PAGE_TYPE = "page-type"
 
 const KEY = "assignmentSlug"
 
@@ -38,10 +43,19 @@ function domainOf(root: string, path: string): readonly Warrant[] {
   return listed === null ? [] : warrantAt(root, listed.path, WITHIN)
 }
 
+function kindOf(root: string): readonly Warrant[] {
+  const listed = listedAt(root, PAGE_TYPE, INITIATIVE_TYPE)[0]
+  return listed === undefined ? [] : warrantAt(root, listed.path, KIND)
+}
+
 function initiativeOf(root: string, slug: string): readonly Warrant[] {
   const listed = listedAt(root, INITIATIVE_TYPE, slug)[0]
   if (listed === undefined) return []
-  return [...warrantAt(root, listed.path, ASSIGNMENT), ...domainOf(root, listed.path)]
+  return [
+    ...warrantAt(root, listed.path, ASSIGNMENT),
+    ...domainOf(root, listed.path),
+    ...kindOf(root),
+  ]
 }
 
 export function assignmentItself(root: string, path: string): readonly Warrant[] {
