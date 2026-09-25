@@ -1,6 +1,5 @@
 import { lstatSync } from "node:fs"
-import { homedir } from "node:os"
-import { basename, dirname, join, resolve } from "node:path"
+import { basename, dirname, join } from "node:path"
 import {
   guardedIn,
   SWEPT,
@@ -16,18 +15,18 @@ import {
   basenameOf,
   calledWords,
   callsIn,
-  segmentsOf,
   wordsOf,
 } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
+import {
+  hereOf,
+  type Move,
+  placedFrom,
+} from "akasha/agent/hook/modules/shell-moves/shell-moves.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { gitIgnoring } from "akasha/git/modules/pathspec/git-pathspec.module.code.ts"
 import { z } from "zod"
 
 const HOOK_NAME = "block-akasha-shell-writes"
-
-const HOME = "~"
-
-const HOME_IN = `${HOME}/`
 
 const DD = "dd"
 
@@ -111,6 +110,7 @@ export type Landing = {
   readonly at: string
   readonly how: string
   readonly keepingTheLink?: true
+  readonly moves?: readonly Move[]
 }
 
 function intoOf(words: readonly string[]): string | null {
@@ -206,44 +206,55 @@ function landingOn(at: string, how: string, kept: boolean): Landing {
   return { at, how }
 }
 
+function movedWith(landing: Landing, moves: readonly Move[]): Landing {
+  return moves.length === 0 ? landing : { ...landing, moves }
+}
+
 export function landingsIn(command: string): readonly Landing[] {
   const found: Landing[] = []
-  for (const segment of segmentsOf(command)) {
-    const words = calledWords(segment)
-    const first = words[0]
-    if (first !== undefined) {
-      const tool = basenameOf(first)
-      if (ONTO_THE_LAST.has(tool)) {
-        const into = intoOf(words)
-        const operands = operandsOf(words)
-        const last = into ?? (operands.length > 1 ? operands[operands.length - 1] : undefined)
-        if (last !== undefined && last !== "") {
-          const kept =
-            tool === LINKING &&
-            into === null &&
-            operands.length === TARGET_AND_LINK &&
-            keepsTheLink(words)
-          found.push(landingOn(last, tool, kept))
-        }
-      }
-      if (
-        ONTO_EVERY_ONE.has(tool) ||
-        TAKING_AWAY.has(tool) ||
-        MAKING.has(tool) ||
-        (IN_PLACE.has(tool) && editsInPlace(words))
-      ) {
-        const edited = IN_PLACE.has(tool) ? editedOf(words) : operandsOf(words)
-        for (const one of edited) found.push({ at: one, how: tool })
-      }
-      if (tool === DD) {
-        for (const word of words.slice(1)) {
-          const target = parseOutFile(word)
-          if (target !== null && target !== "") found.push({ at: target, how: tool })
-        }
+  for (const call of callsIn(command)) {
+    if (call.segment === "") continue
+    for (const one of landingsOf(call.segment)) found.push(movedWith(one, call.moves))
+  }
+  return found
+}
+
+function landingsOf(segment: string): readonly Landing[] {
+  const found: Landing[] = []
+  const words = calledWords(segment)
+  const first = words[0]
+  if (first !== undefined) {
+    const tool = basenameOf(first)
+    if (ONTO_THE_LAST.has(tool)) {
+      const into = intoOf(words)
+      const operands = operandsOf(words)
+      const last = into ?? (operands.length > 1 ? operands[operands.length - 1] : undefined)
+      if (last !== undefined && last !== "") {
+        const kept =
+          tool === LINKING &&
+          into === null &&
+          operands.length === TARGET_AND_LINK &&
+          keepsTheLink(words)
+        found.push(landingOn(last, tool, kept))
       }
     }
-    for (const target of redirectsIn(wordsOf(segment))) found.push({ at: target, how: REDIRECTED })
+    if (
+      ONTO_EVERY_ONE.has(tool) ||
+      TAKING_AWAY.has(tool) ||
+      MAKING.has(tool) ||
+      (IN_PLACE.has(tool) && editsInPlace(words))
+    ) {
+      const edited = IN_PLACE.has(tool) ? editedOf(words) : operandsOf(words)
+      for (const one of edited) found.push({ at: one, how: tool })
+    }
+    if (tool === DD) {
+      for (const word of words.slice(1)) {
+        const target = parseOutFile(word)
+        if (target !== null && target !== "") found.push({ at: target, how: tool })
+      }
+    }
   }
+  for (const target of redirectsIn(wordsOf(segment))) found.push({ at: target, how: REDIRECTED })
   return found
 }
 
@@ -254,7 +265,9 @@ function programLandingsIn(command: string): readonly Landing[] {
     if (head === undefined) continue
     const tool = basenameOf(head)
     if (!READING_A_PROGRAM.has(tool)) continue
-    for (const shown of pathsSpelledIn(call.handed)) found.push({ at: shown, how: tool })
+    for (const shown of pathsSpelledIn(call.handed)) {
+      found.push(movedWith({ at: shown, how: tool }, call.moves))
+    }
   }
   return found
 }
@@ -349,18 +362,12 @@ function judgedAtTheLink(landing: Landing): boolean {
   return TAKING_AWAY.has(landing.how) || landing.keepingTheLink === true
 }
 
-function atHome(shown: string): string {
-  if (shown === HOME) return homedir()
-  if (shown.startsWith(HOME_IN)) return join(homedir(), shown.slice(HOME_IN.length))
-  return shown
-}
-
-function spelledAt(from: string, shown: string): string {
-  return resolve(from, atHome(shown))
+export function spelledAt(from: string, landing: Landing): string {
+  return placedFrom(hereOf(landing.moves ?? [], from), landing.at)
 }
 
 function landedAt(from: string, landing: Landing): string {
-  const spelled = spelledAt(from, landing.at)
+  const spelled = spelledAt(from, landing)
   if (judgedAtTheLink(landing) && namesTheLink(landing.at)) {
     const atTheLink = join(settled(dirname(spelled)), basename(spelled))
     if (aLink(atTheLink)) return atTheLink
@@ -385,15 +392,15 @@ export function refusalFor(command: string, from: string, root: string): string 
   const landings = landingsIn(command)
   const programs = programLandingsIn(command)
   for (const landing of landings) {
-    const at = settled(spelledAt(from, landing.at))
+    const at = settled(spelledAt(from, landing))
     if (insideOf(guarded.index, at)) return refusing(landing.how, landing.at, true)
   }
   for (const landing of programs) {
-    const at = settled(spelledAt(from, landing.at))
+    const at = settled(spelledAt(from, landing))
     if (insideOf(guarded.index, at)) return refusingAProgram(landing.how, landing.at, true)
   }
   for (const landing of [...landings, ...programs]) {
-    const at = settled(spelledAt(from, landing.at))
+    const at = settled(spelledAt(from, landing))
     if (insideOf(guarded.git, at)) return refusingGit(landing.how, landing.at)
   }
   const judged: Judged[] = []
@@ -402,7 +409,7 @@ export function refusalFor(command: string, from: string, root: string): string 
     if (insideOf(guarded.pages, at)) judged.push({ landing, at, program: false })
   }
   for (const landing of programs) {
-    const at = settled(spelledAt(from, landing.at))
+    const at = settled(spelledAt(from, landing))
     if (insideOf(guarded.pages, at)) judged.push({ landing, at, program: true })
   }
   if (judged.length === 0) return null

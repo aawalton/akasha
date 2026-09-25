@@ -9,8 +9,33 @@ import {
   segmentsOf,
   wordsOf,
 } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
+import { hereOf } from "akasha/agent/hook/modules/shell-moves/shell-moves.module.code.ts"
 
 const marked = (words: readonly string[]): string => words.join(SPACE_IN_A_WORD)
+
+const heresOf = (command: string): readonly string[] =>
+  callsIn(command).map((one) => hereOf(one.moves, "/one"))
+
+test("a call carries every move before it on the line", () => {
+  expect(heresOf("cd /two && ls")).toEqual(["/one", "/two"])
+  expect(heresOf("cd two; cd ../three; ls")).toEqual(["/one", "/one/two", "/one/three"])
+  expect(heresOf("cd /two; cd -; ls")).toEqual(["/one", "/two", "/one"])
+  expect(heresOf("pushd /two; popd; ls")).toEqual(["/one", "/two", "/one"])
+  expect(heresOf("eval 'cd /two'; ls")).toEqual(["/one", "/one", "/two"])
+})
+
+test("a cd a subshell, a substitution, a pipeline or a handed script holds moves no call after it", () => {
+  expect(heresOf("(cd /two) && ls")).toEqual(["/one", "/one"])
+  expect(heresOf("(cd /two && ls)")).toEqual(["/one", "/two"])
+  expect(heresOf("X=$(cd /two) && ls")).toEqual(["/one", "/one", "/one"])
+  expect(heresOf("cd /two | cat; ls")).toEqual(["/one", "/one", "/one"])
+  expect(heresOf("bash -c 'cd /two'; ls")).toEqual(["/one", "/one", "/one"])
+  expect(heresOf("{ cd /two; }; ls")).toEqual(["/one", "/two"])
+})
+
+test("a cd to a folder the line does not spell moves nothing", () => {
+  expect(heresOf("cd /two && cd $(pwd)/x && ls")).toEqual(["/one", "/two", "/two", "/two"])
+})
 
 test("a line continuation is joined", () => {
   expect(segmentsOf("git \\\nreset --hard")).toEqual(["git reset --hard"])

@@ -1,4 +1,13 @@
 import {
+  apart,
+  type Move,
+  movesOf,
+} from "akasha/agent/hook/modules/shell-moves/shell-moves.module.code.ts"
+import {
+  RUNNING_ANOTHER,
+  type Runner,
+} from "akasha/agent/hook/modules/shell-prefixes/shell-prefixes.module.code.ts"
+import {
   type ArithmeticExpression,
   type AssignmentPrefix,
   type Command,
@@ -36,49 +45,6 @@ const LINE = "\n"
 
 const HOME = /^~[\w.+-]*(?:\/|$)/
 
-type Runner = {
-  readonly valued: readonly string[]
-  readonly asking: readonly string[]
-  readonly numbered: number
-}
-
-const PLAIN: Runner = { valued: [], asking: [], numbered: 0 }
-
-const RUNNING_ANOTHER: ReadonlyMap<string, Runner> = new Map<string, Runner>([
-  ["sudo", { valued: ["-u", "-g", "-p", "-C"], asking: ["-v", "-V", "-l"], numbered: 0 }],
-  ["doas", { valued: ["-u", "-C"], asking: ["-L"], numbered: 0 }],
-  [
-    "env",
-    {
-      valued: ["-u", "--unset", "-C", "--chdir", "-S", "--split-string"],
-      asking: [],
-      numbered: 0,
-    },
-  ],
-  ["command", { valued: [], asking: ["-v", "-V"], numbered: 0 }],
-  ["exec", { valued: ["-a"], asking: [], numbered: 0 }],
-  ["nohup", PLAIN],
-  ["setsid", PLAIN],
-  ["unbuffer", PLAIN],
-  ["nice", { valued: ["-n", "--adjustment"], asking: [], numbered: 0 }],
-  [
-    "ionice",
-    {
-      valued: ["-c", "--class", "-n", "--classdata", "-p", "--pid", "-P", "--pgid", "-u", "--uid"],
-      asking: [],
-      numbered: 0,
-    },
-  ],
-  ["chrt", { valued: ["-p", "--pid"], asking: [], numbered: 1 }],
-  ["taskset", { valued: ["-c", "--cpu-list", "-p", "--pid"], asking: [], numbered: 1 }],
-  ["timeout", { valued: ["-k", "--kill-after", "-s", "--signal"], asking: [], numbered: 1 }],
-  [
-    "stdbuf",
-    { valued: ["-i", "--input", "-o", "--output", "-e", "--error"], asking: [], numbered: 0 },
-  ],
-  ["time", { valued: ["-o", "--output", "-f", "--format"], asking: [], numbered: 0 }],
-])
-
 export const RUNS_ANOTHER: readonly string[] = [...RUNNING_ANOTHER.keys()]
 
 export const READ_AS_BASH: readonly string[] = [
@@ -88,7 +54,11 @@ export const READ_AS_BASH: readonly string[] = [
   "handed it. A line the parser cannot read whole is read again one line at a time.",
 ]
 
-type Call = { readonly segment: string; readonly handed: string }
+type Call = {
+  readonly segment: string
+  readonly handed: string
+  readonly moves: readonly Move[]
+}
 
 type Said = { readonly shown: string; readonly value: string }
 
@@ -96,6 +66,7 @@ type Reading = {
   readonly calls: Call[]
   readonly unread: string[]
   readonly known: Map<string, string>
+  readonly moves: Move[]
 }
 
 export function wordsOf(segment: string): readonly string[] {
@@ -216,10 +187,11 @@ function fedBy(redirects: readonly Redirect[]): readonly string[] {
     .map((one) => (one.operator === "<<<" ? (one.target?.value ?? "") : (one.content ?? "")))
 }
 
-function callOf(said: readonly Said[], redirects: readonly Redirect[]): Call {
+function callOf(said: readonly Said[], redirects: readonly Redirect[], moves: Move[]): Call {
   return {
     segment: said.map((one) => one.shown).join(" "),
     handed: [...said.map((one) => one.value), ...fedBy(redirects)].join("\n"),
+    moves: [...moves],
   }
 }
 
@@ -266,13 +238,18 @@ function commandRead(reading: Reading, command: Command): undefined {
   const kept = words.filter((one) => one.shown !== "")
   const called = kept.slice(kept.length - calledOf(kept.map((one) => one.shown)).length)
   const redirected = command.redirects.map((one) => redirectSaid(one, known))
-  reading.calls.push(callOf([...kept, ...redirected], command.redirects))
+  reading.calls.push(callOf([...kept, ...redirected], command.redirects, reading.moves))
   heldIn(reading, command)
   for (const one of command.prefix) if (one.value !== undefined) wordRead(reading, one.value)
   if (command.name !== undefined) wordRead(reading, command.name)
   for (const one of command.suffix) wordRead(reading, one)
   redirectsRead(reading, command.redirects)
-  for (const one of scriptHandedTo(called, command.redirects)) textRead(reading, one)
+  const values = called.map((one) => one.value)
+  for (const one of scriptHandedTo(called, command.redirects)) {
+    if (basenameOf(values[0] ?? "") === EVAL) textRead(reading, one)
+    else apart(reading.moves, () => textRead(reading, one))
+  }
+  reading.moves.push(...movesOf(values))
 }
 
 function redirectsRead(reading: Reading, redirects: readonly Redirect[]): undefined {
@@ -285,7 +262,7 @@ function redirectsRead(reading: Reading, redirects: readonly Redirect[]): undefi
 function besideRead(reading: Reading, redirects: readonly Redirect[]): undefined {
   if (redirects.length === 0) return
   const said = redirects.map((one) => redirectSaid(one, reading.known))
-  reading.calls.push(callOf(said, redirects))
+  reading.calls.push(callOf(said, redirects, reading.moves))
   redirectsRead(reading, redirects)
 }
 
@@ -296,9 +273,11 @@ function wordRead(reading: Reading, word: Word): undefined {
 function partRead(reading: Reading, part: WordPart): undefined {
   switch (part.type) {
     case "CommandExpansion":
-    case "ProcessSubstitution":
-      if (part.script !== undefined) scriptRead(reading, part.script)
+    case "ProcessSubstitution": {
+      const script = part.script
+      if (script !== undefined) apart(reading.moves, () => scriptRead(reading, script))
       return
+    }
     case "DoubleQuoted":
     case "LocaleString":
       for (const one of part.parts) partRead(reading, one)
@@ -345,9 +324,11 @@ function sumRead(reading: Reading, sum: ArithmeticExpression): undefined {
     case "ArithmeticWord":
       for (const one of sum.parts ?? []) partRead(reading, one)
       return
-    case "ArithmeticCommandExpansion":
-      if (sum.script !== undefined) scriptRead(reading, sum.script)
+    case "ArithmeticCommandExpansion": {
+      const script = sum.script
+      if (script !== undefined) apart(reading.moves, () => scriptRead(reading, script))
       return
+    }
     default:
       return
   }
@@ -391,6 +372,11 @@ function nodeRead(reading: Reading, node: Node): undefined {
       besideRead(reading, node.redirects)
       return
     case "Pipeline":
+      for (const one of node.commands) {
+        if (node.commands.length < 2) nodeRead(reading, one)
+        else apart(reading.moves, () => nodeRead(reading, one))
+      }
+      return
     case "AndOr":
       for (const one of node.commands) nodeRead(reading, one)
       return
@@ -398,6 +384,8 @@ function nodeRead(reading: Reading, node: Node): undefined {
       statementsRead(reading, node.commands)
       return
     case "Subshell":
+      apart(reading.moves, () => statementsRead(reading, node.body.commands))
+      return
     case "BraceGroup":
       statementsRead(reading, node.body.commands)
       return
@@ -451,15 +439,17 @@ function scriptRead(reading: Reading, script: ParsedScript): undefined {
 
 function textRead(reading: Reading, text: string): undefined {
   const before = reading.unread.length
+  const moved = reading.moves.length
   scriptRead(reading, parse(text))
   if (reading.unread.length === before) return
   const lines = text.split(LINE)
   if (lines.length < 2) return
+  reading.moves.splice(moved)
   for (const one of lines) textRead(reading, one)
 }
 
 function readingOf(command: string): Reading {
-  const reading: Reading = { calls: [], unread: [], known: new Map() }
+  const reading: Reading = { calls: [], unread: [], known: new Map(), moves: [] }
   textRead(reading, command)
   return reading
 }

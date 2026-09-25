@@ -27,6 +27,12 @@ test("a write landing outside those mounts is let through", () => {
   expect(refusalFor("echo hi > /var/tmp/one.txt", "/", HELD)).toBeNull()
 })
 
+test("a relative path after a cd is judged where the cd moved to", () => {
+  expect(refusalFor("cd /held && echo hi > one.txt", "/", HELD) ?? "").toContain("`/held`")
+  expect(refusalFor("cd /var/tmp && echo hi > one.txt", "/held", HELD)).toBeNull()
+  expect(refusalFor("(cd /var/tmp) && echo hi > one.txt", "/held", HELD) ?? "").toContain("`/held`")
+})
+
 test("a machine holding nothing in memory refuses nothing", () => {
   expect(refusalFor("echo hi > /held/one.txt", "/", [])).toBeNull()
 })

@@ -94,6 +94,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/path-showing/path-showing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/settling/settling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/shell-calls/shell-calls.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/shell-moves/shell-moves.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/hook/modules/shell-prefixes/shell-prefixes.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/message/modules/agent-id/agent-message-agent-id.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/message/modules/channel-delivery/agent-message-channel-delivery.module.ts","typed":true,"deferred":false}

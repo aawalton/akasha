@@ -101,6 +101,15 @@ export const blockAkashaShellWrites = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An absolute path is judged by itself, wherever the call runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A relative path is judged in the folder its call runs in, after every move on the line before it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path opening with a tilde names the home directory rather than a folder here.",
     },
     {

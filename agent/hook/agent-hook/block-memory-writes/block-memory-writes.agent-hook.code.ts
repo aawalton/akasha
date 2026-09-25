@@ -1,8 +1,8 @@
 import { readFileSync } from "node:fs"
-import { resolve } from "node:path"
 import {
   type Landing,
   landingsIn,
+  spelledAt,
 } from "akasha/agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
 import {
   type Answer,
@@ -68,7 +68,7 @@ function givesBack(landing: Landing): boolean {
 export function refusalFor(command: string, from: string, held: readonly string[]): string | null {
   for (const landing of landingsIn(command)) {
     if (givesBack(landing)) continue
-    const at = settled(resolve(from, landing.at))
+    const at = settled(spelledAt(from, landing))
     const mount = held.find((one) => insideOf(one, at))
     if (mount !== undefined) return refusing(landing.how, landing.at, mount)
   }

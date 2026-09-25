@@ -25,6 +25,8 @@ export const hook = {
     "test-fixture/hook-judging",
     "test-fixture/hook-payload",
     "module/dispatch-boot",
+    "module/shell-moves",
+    "module/shell-prefixes",
   ],
   decisions: [
     {

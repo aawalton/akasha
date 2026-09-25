@@ -35,6 +35,31 @@ export const REBUILD = "akasha index refresh"
 
 export const SWEEP = "akasha git sweep"
 
+export const INTERPRETED: readonly string[] = [
+  "node -e \"require('fs').writeFileSync('akasha/held.domain.ts','x')\"",
+  "bun run - <<'EOF'\nawait Bun.write('akasha/held.domain.ts','x')\nEOF",
+  "deno eval \"Deno.writeTextFileSync('akasha/held.domain.ts','x')\"",
+  "ruby -e \"File.write('akasha/held.domain.ts','x')\"",
+  "php -r \"file_put_contents('akasha/held.domain.ts','x');\"",
+]
+
+export const MOVED_OUT: readonly string[] = [
+  "cd /var/tmp && echo hi > akasha/held.domain.ts",
+  "cd /var/tmp && cp /var/tmp/x akasha/held.domain.ts",
+  "cd /var/tmp && python3 - <<'EOF'\nopen('akasha/held.domain.ts','w').write('x')\nEOF",
+  "python3 -c \"open('/var/tmp/held/one.ts','w')\"",
+]
+
+export const MOVED_IN: readonly string[] = [
+  `cd /var/tmp && cd ${ROOT} && echo hi > akasha/held.domain.ts`,
+  `cd /var/tmp && cd ${ROOT}/akasha && touch held.domain.ts`,
+  "cd akasha && touch held.domain.ts",
+  `cd /var/tmp && python3 -c "open('${ROOT}/akasha/held.domain.ts','w')"`,
+  "(cd /var/tmp) && touch akasha/held.domain.ts",
+  "cd $ELSEWHERE && touch akasha/held.domain.ts",
+  "cd /var/tmp; cd - && touch akasha/held.domain.ts",
+]
+
 export function said(command: string): string | null {
   const answer = judgedFor({ tool_input: { command }, cwd: ROOT })
   return answer.err === "" ? null : answer.err

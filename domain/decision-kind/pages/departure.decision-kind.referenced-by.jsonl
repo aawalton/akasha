@@ -51,6 +51,8 @@
 {"propertySlug":"decision-kind","path":"agent/hook/modules/path-showing/path-showing.module.ts","id":"01a04f6a-0db6-72c2-9b05-8e1a84ed9649"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/settling/settling.module.ts","id":"01a04eb3-0e17-7660-850e-4311257ed9fa"}
 {"propertySlug":"decision-kind","path":"agent/hook/modules/shell-calls/shell-calls.module.ts","id":"01a04eab-4522-7000-9e89-8627b48fbcc5"}
+{"propertySlug":"decision-kind","path":"agent/hook/modules/shell-moves/shell-moves.module.ts","id":"01a0daa1-79b5-75c5-bd83-26c128803c3a"}
+{"propertySlug":"decision-kind","path":"agent/hook/modules/shell-prefixes/shell-prefixes.module.ts","id":"01a0daa1-79b6-7a6d-a755-7246ed051ea3"}
 {"propertySlug":"decision-kind","path":"agent/hook/test-fixtures/judging/hook-judging.test-fixture.ts","id":"01a04f83-5df2-71b1-a666-6309398763b8"}
 {"propertySlug":"decision-kind","path":"agent/hook/test-fixtures/payload/hook-payload.test-fixture.ts","id":"01a04f4d-f0ea-791d-8bb4-ce41b59e46b1"}
 {"propertySlug":"decision-kind","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}

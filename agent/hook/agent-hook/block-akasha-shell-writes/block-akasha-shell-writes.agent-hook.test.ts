@@ -8,6 +8,9 @@ import {
 } from "akasha/agent/hook/agent-hook/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.code.ts"
 import {
   INSIDE,
+  INTERPRETED,
+  MOVED_IN,
+  MOVED_OUT,
   REBUILD,
   SWEEP,
   said,
@@ -232,17 +235,12 @@ test("a program carrying spaces is refused, the raw line being read for the path
 })
 
 test("every named interpreter is judged the same way", () => {
-  expect(said("node -e \"require('fs').writeFileSync('akasha/held.domain.ts','x')\"")).toContain(
-    INSIDE
-  )
-  expect(said("bun run - <<'EOF'\nawait Bun.write('akasha/held.domain.ts','x')\nEOF")).toContain(
-    INSIDE
-  )
-  expect(said("deno eval \"Deno.writeTextFileSync('akasha/held.domain.ts','x')\"")).toContain(
-    INSIDE
-  )
-  expect(said("ruby -e \"File.write('akasha/held.domain.ts','x')\"")).toContain(INSIDE)
-  expect(said("php -r \"file_put_contents('akasha/held.domain.ts','x');\"")).toContain(INSIDE)
+  for (const one of INTERPRETED) expect(said(one)).toContain(INSIDE)
+})
+
+test("a relative path is judged in the folder a cd on the line moved to", () => {
+  for (const one of MOVED_OUT) expect(said(one)).toBeNull()
+  for (const one of MOVED_IN) expect(said(one)).toContain(INSIDE)
 })
 
 test("a program is refused for naming the path rather than for what it does with it", () => {

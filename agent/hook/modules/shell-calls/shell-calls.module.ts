@@ -155,6 +155,19 @@ export const shellCalls = {
       statement: "A variable assignment before a call is stepped over.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A call carries every move before it on the line that moves its own shell.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A move a subshell, a substitution or a pipeline holds moves no call after it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A move in a script handed to a shell moves no call after it, and one `eval` runs does.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No tool a hook guards is named here.",
     },
