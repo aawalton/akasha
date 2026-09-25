@@ -7,7 +7,6 @@ export const temperCatalog = {
   definition: "the catalog holding the game's things for Temper",
   parts: [
     "command/temper-catalog-import-lore-books",
-    "command/temper-catalog-import-public-dungeons",
     "command/temper-catalog-invalidate",
     "command/temper-catalog-list",
     "command/temper-catalog-status",
