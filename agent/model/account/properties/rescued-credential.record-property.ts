@@ -6,6 +6,10 @@ export const rescuedCredential = {
   slug: "rescued-credential",
   propertySlug: "rescued-credential",
   definition: "a model account's new credentials no commit stores",
+  spellings: [
+    { partOfSpeech: "part-of-speech/noun", spelling: "rescued credential" },
+    { partOfSpeech: "part-of-speech/noun", spelling: "rescued credentials" },
+  ],
   properties: [
     { pageProperty: "text-property/rescued-access-token", required: true, many: false },
     { pageProperty: "text-property/rescued-refresh-token", required: true, many: false },
