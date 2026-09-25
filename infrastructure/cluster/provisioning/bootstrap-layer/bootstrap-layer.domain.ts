@@ -4,7 +4,7 @@ export const bootstrapLayer = {
   id: "01a0675b-16d6-7813-8ade-362de2107d1b",
   type: "page-type/domain",
   slug: "bootstrap-layer",
-  definition: "the ordered stages bringing up an empty cluster",
+  definition: "the steps a new cluster is made in",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
