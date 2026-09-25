@@ -1,4 +1,4 @@
-import { openSync, readFileSync, readSync } from "node:fs"
+import { existsSync, fstatSync, openSync, readFileSync, readSync } from "node:fs"
 import { join } from "node:path"
 import { inflateSync } from "node:zlib"
 
@@ -8,25 +8,47 @@ export type ArchiveRead = (path: string) => Uint8Array | null
 
 type ArchiveEntry = {
   readonly id: number
+  readonly group: number
   readonly size: number
   readonly packedSize: number
   readonly offset: number
   readonly packing: number
+  readonly archive: number
 }
 
 type Block = { readonly tables: readonly Buffer[]; readonly end: number }
 
-type ReadAt = (offset: number, size: number) => Uint8Array
+type ReadAt = (archive: number, offset: number, size: number) => Uint8Array | null
+
+type DataFile = { readonly handle: number; readonly size: number }
 
 const MANIFEST = "game.mnf"
 
-const DATA = "game0000.dat"
+const DATA = "game"
+
+const DEPOT = join("..", "..", "depot")
+
+const DEPOT_MANIFEST = "eso.mnf"
+
+const DEPOT_DATA = "eso"
+
+const DATA_DIGITS = 4
+
+const DATA_TAIL = ".dat"
 
 const MANIFEST_MARK = "MES2"
 
-const MANIFEST_HEADER = 18
+const ARCHIVES_AT = 6
 
-const SIZE_AT = 14
+const ARCHIVE_INDEX = 2
+
+const SIGNED_MARK = 0x3082
+
+const PACKING_AT = 18
+
+const ARCHIVE_AT = 16
+
+const FLAG = 0x80000000
 
 const BLOCK_HEADER = 18
 
@@ -42,11 +64,7 @@ const PLACE_RECORD = 20
 
 const NAME_RECORD = 16
 
-const PACKING_SHIFT = 16
-
-const BYTE = 0xff
-
-const FILE_TABLE_ID = 0
+const FILE_TABLE_IDS: readonly number[] = [0, 0xffffff]
 
 const FILE_TABLE_MARK = "ZOSFT"
 
@@ -78,16 +96,25 @@ function blockAt(bytes: Buffer, at: number, bigEndian: boolean): Block {
   return { tables, end: from }
 }
 
-function entriesIn(manifest: Buffer): readonly ArchiveEntry[] {
+function tablesAt(manifest: Buffer): number {
   if (manifest.toString("latin1", 0, WORD) !== MANIFEST_MARK) {
     throw new Error(`the manifest does not open with ${MANIFEST_MARK}`)
   }
-  if (manifest.readUInt32LE(SIZE_AT) !== manifest.length - MANIFEST_HEADER) {
+  const archives = manifest.readUInt16LE(ARCHIVES_AT)
+  const sizeAt = ARCHIVES_AT + ARCHIVE_INDEX + archives * ARCHIVE_INDEX + WORD
+  if (manifest.readUInt32LE(sizeAt) !== manifest.length - sizeAt - WORD) {
     throw new Error("the manifest's header does not state the manifest's size")
   }
+  const at = sizeAt + WORD
+  if (manifest.readUInt16BE(at + 2 * WORD) !== SIGNED_MARK) return at
+  const signature = at + 2 * WORD + manifest.readUInt32BE(at + WORD)
+  return signature + WORD + manifest.readUInt32BE(signature)
+}
+
+function entriesIn(manifest: Buffer): readonly ArchiveEntry[] {
   const [, ids = Buffer.alloc(0), places = Buffer.alloc(0)] = blockAt(
     manifest,
-    MANIFEST_HEADER,
+    tablesAt(manifest),
     true
   ).tables
   const entries: ArchiveEntry[] = []
@@ -95,10 +122,12 @@ function entriesIn(manifest: Buffer): readonly ArchiveEntry[] {
     const at = one * PLACE_RECORD
     entries.push({
       id: ids.readUInt32LE(one * ID_RECORD),
+      group: ids.readUInt32LE(one * ID_RECORD + WORD),
       size: places.readUInt32LE(at),
       packedSize: places.readUInt32LE(at + WORD),
       offset: places.readUInt32LE(at + 3 * WORD),
-      packing: (places.readUInt32LE(at + 4 * WORD) >>> PACKING_SHIFT) & BYTE,
+      packing: places.readUInt8(at + PACKING_AT),
+      archive: places.readUInt16LE(at + ARCHIVE_AT),
     })
   }
   return entries
@@ -133,21 +162,26 @@ export function archiveName(path: string): string {
 }
 
 export function archiveOf(manifest: Buffer, readAt: ReadAt, unpack: Unpack): ArchiveRead {
-  const entries = entriesIn(manifest)
-  function stored(entry: ArchiveEntry): Uint8Array {
-    const packed = readAt(entry.offset, entry.packedSize)
+  const plain = new Map<number, ArchiveEntry>()
+  for (const entry of entriesIn(manifest)) {
+    if ((entry.group & ~FLAG) === 0) plain.set(entry.id, entry)
+  }
+  function stored(entry: ArchiveEntry): Uint8Array | null {
+    const packed = readAt(entry.archive, entry.offset, entry.packedSize)
+    if (packed === null) return null
     if (entry.packing === UNPACKED) return payloadOf(packed)
     if (entry.packing === ZLIB) return payloadOf(inflateSync(packed))
     if (OODLE.has(entry.packing)) return payloadOf(unpack(packed, entry.size))
     throw new Error(`the archive packs a file a way nothing here unpacks (${entry.packing})`)
   }
-  const table = entries.find((one) => one.id === FILE_TABLE_ID)
-  if (table === undefined) throw new Error("the archive holds no file table")
-  const names = namesIn(Buffer.from(stored(table)))
+  const table = FILE_TABLE_IDS.map((id) => plain.get(id)).find((one) => one !== undefined)
+  const held = table === undefined ? null : stored(table)
+  if (held === null) throw new Error("the archive holds no file table")
+  const names = namesIn(Buffer.from(held))
   const named = new Map<string, ArchiveEntry>()
-  for (const entry of entries) {
-    const name = names.get(entry.id)
-    if (name !== undefined) named.set(name.toLowerCase(), entry)
+  for (const [id, name] of names) {
+    const entry = plain.get(id)
+    if (entry !== undefined) named.set(name.toLowerCase(), entry)
   }
   return (path) => {
     const entry = named.get(archiveName(path))
@@ -155,12 +189,34 @@ export function archiveOf(manifest: Buffer, readAt: ReadAt, unpack: Unpack): Arc
   }
 }
 
-export function openGameArchive(client: string, unpack: Unpack): ArchiveRead {
-  const data = openSync(join(client, DATA), "r")
-  const readAt: ReadAt = (offset, size) => {
+function archiveIn(dir: string, manifest: string, data: string, unpack: Unpack): ArchiveRead {
+  const opened = new Map<number, DataFile>()
+  const readAt: ReadAt = (archive, offset, size) => {
+    let file = opened.get(archive)
+    if (file === undefined) {
+      const index = String(archive).padStart(DATA_DIGITS, "0")
+      const handle = openSync(join(dir, `${data}${index}${DATA_TAIL}`), "r")
+      file = { handle, size: fstatSync(handle).size }
+      opened.set(archive, file)
+    }
+    if (offset + size > file.size) return null
     const packed = new Uint8Array(size)
-    readSync(data, packed, 0, size, offset)
+    readSync(file.handle, packed, 0, size, offset)
     return packed
   }
-  return archiveOf(readFileSync(join(client, MANIFEST)), readAt, unpack)
+  return archiveOf(readFileSync(join(dir, manifest)), readAt, unpack)
+}
+
+export function openGameArchive(client: string, unpack: Unpack): ArchiveRead {
+  const own = archiveIn(client, MANIFEST, DATA, unpack)
+  const depot = join(client, DEPOT)
+  let fromDepot: ArchiveRead | null | undefined
+  return (path) => {
+    const found = own(path)
+    if (found !== null) return found
+    fromDepot ??= existsSync(join(depot, DEPOT_MANIFEST))
+      ? archiveIn(depot, DEPOT_MANIFEST, DEPOT_DATA, unpack)
+      : null
+    return fromDepot === null ? null : fromDepot(path)
+  }
 }

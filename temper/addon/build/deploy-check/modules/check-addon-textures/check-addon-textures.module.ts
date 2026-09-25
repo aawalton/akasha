@@ -14,10 +14,7 @@ export const checkAddonTextures = {
       decisionKind: "decision-kind/departure",
       statement: "The game's texture is there where the game's archive or its own interface names it.",
     },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "The icons the game keeps in its depot archive are read by nothing here yet.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A game texture nothing confirms is listed as unconfirmed rather than missing.",

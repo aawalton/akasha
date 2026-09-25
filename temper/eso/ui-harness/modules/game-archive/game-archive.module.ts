@@ -11,11 +11,43 @@ export const gameArchive = {
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
-      statement: "The client's manifest places each file in the client's one data file.",
+      statement: "A manifest places each file in one of the data files its header lists.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The depot's manifest opens its tables with a certificate and a signature.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A manifest may record a file twice, and the later record is the one there now.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "The names of the files are a file of their own inside the archive.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The client keeps its names under the first id, and the depot under the last.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A name reaches only a file recorded with no group but the client's flag.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A data file the install left empty holds none of the files placed in it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file a data file does not hold answers nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path the client's archive lacks is looked for in the depot's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The depot's archive is opened only once a path is looked for there.",
     },
     {
       decisionKind: "decision-kind/constraint",
