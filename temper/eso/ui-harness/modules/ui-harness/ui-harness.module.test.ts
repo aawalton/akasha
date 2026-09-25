@@ -111,6 +111,33 @@ kerned:SetText("AVA")
 kerned:SetFont("Temper/bin/fonts/Geist-Regular.slug|${SIZE}")
 `
 
+const WRAPPED = `
+local page = WINDOW_MANAGER:CreateTopLevelWindow("TemperWrapped")
+page:SetDimensions(101, 400)
+local function worded(name, width)
+  local label = WINDOW_MANAGER:CreateControl(name, page, CT_LABEL)
+  label:SetFont("EsoUI/Common/Fonts/Univers57.otf|${SIZE}")
+  label:SetText("Probe Probe Probe")
+  label:SetWidth(width)
+  return label
+end
+worded("TemperWrappedTwo", 101)
+worded("TemperWrappedWord", 30):SetText("Probe")
+worded("TemperWrappedCapped", 101):SetMaxLineCount(1)
+local cut = worded("TemperWrappedCut", 101)
+cut:SetMaxLineCount(1)
+cut:SetWrapMode(TEXT_WRAP_MODE_ELLIPSIS)
+local spanning = worded("TemperWrappedSpanning", 0)
+spanning:SetAnchor(TOPLEFT, page, TOPLEFT, 0, 0)
+spanning:SetAnchor(TOPRIGHT, page, TOPRIGHT, 0, 0)
+`
+
+const PROBE = 2389
+
+const SPACE = 250
+
+const DOTS = 3 * SPACE
+
 const GEIST: Face = faceIn(
   readFileSync(join(akashaRoot(), TEMPER_FACES_UNDER, "Geist-Regular.ttf"))
 )
@@ -132,6 +159,7 @@ describe("ui-harness", () => {
     await harness.load(ADDON)
     await harness.load(HELD)
     await harness.load(MEASURED)
+    await harness.load(WRAPPED)
   })
 
   afterAll(async () => {
@@ -168,6 +196,36 @@ describe("ui-harness", () => {
     const window = await harness.snapshot("TemperProbeMeasuring")
     const kerned = window === null ? undefined : childNamed(window, "TemperProbeMeasuringKerned")
     expect(kerned?.width).toBeCloseTo((AVA_SHAPED * SIZE) / PER_EM)
+  })
+
+  test("a label's text wraps at the last space that fits, and its height grows by its lines", async () => {
+    const two = await harness.snapshot("TemperWrappedTwo")
+    expect(two?.width).toBe(101)
+    expect(two?.height).toBeCloseTo((2 * LINE * SIZE) / PER_EM)
+  })
+
+  test("a word wider than its label breaks at the last character that fits", async () => {
+    const word = await harness.snapshot("TemperWrappedWord")
+    expect(word?.height).toBeCloseTo((2 * LINE * SIZE) / PER_EM)
+  })
+
+  test("a label two anchors give a width wraps at that width", async () => {
+    const spanning = await harness.snapshot("TemperWrappedSpanning")
+    expect(spanning?.width).toBe(101)
+    expect(spanning?.height).toBeCloseTo((2 * LINE * SIZE) / PER_EM)
+  })
+
+  test("a label's lines stop at its greatest line count, the rest cut off", async () => {
+    const capped = await harness.snapshot("TemperWrappedCapped")
+    expect(capped?.height).toBeCloseTo((LINE * SIZE) / PER_EM)
+    const wide = await harness.load("return TemperWrappedCapped:GetTextWidth()")
+    expect(wide).toBeCloseTo(((2 * PROBE + SPACE) * SIZE) / PER_EM)
+  })
+
+  test("a label wrapping with an ellipsis ends its last line in one that fits", async () => {
+    const wide = await harness.load("return TemperWrappedCut:GetTextWidth()")
+    const shown = PROBE + SPACE + (PROBE - 2 * 500) + DOTS
+    expect(wide).toBeCloseTo((shown * SIZE) / PER_EM)
   })
 
   test("a label naming no font is measured as the game's own ZoFontGame", async () => {

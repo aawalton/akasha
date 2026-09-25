@@ -189,6 +189,8 @@ function Control:GetTextHeight()
   local _, tall = textSize(self)
   return tall
 end
+function Control:SetWrapMode(mode) self.uiWrapMode = mode end
+function Control:SetMaxLineCount(count) self.uiMaxLines = asNumber(count, 0) end
 function Control:SetFont(font) self.uiFont = asText(font) end
 function Control:GetFont() return self.uiFont or "" end
 local function asColor(r, g, b, a)

@@ -25,6 +25,14 @@ local CHARACTER = "[%z\1-\127\192-\255][\128-\191]*"
 
 local UNSTATED_FONT = "ZoFontGame"
 
+local SPACE = 32
+
+local LEEWAY = 1e-6
+
+local ELLIPSIS = "..."
+
+local ELLIPSIS_MODE = _G.TEXT_WRAP_MODE_ELLIPSIS
+
 local MARKUP = {
   { "|c%x%x%x%x%x%x", "" },
   { "|r", "" },
@@ -88,25 +96,78 @@ local function kerned(kerning, before, code)
   return row[kerning.seconds[code]] or 0
 end
 
-local function measured(control)
+local function stepOf(face, before, code)
+  return (face.advances[code] or face.missing) + kerned(face.kerning, before, code)
+end
+
+local function codesOf(line)
+  local codes = {}
+  for one in string.gmatch(line, CHARACTER) do codes[#codes + 1] = codeOf(one) end
+  return codes
+end
+
+local function widthOf(face, codes, from, to)
+  local wide, before = 0, nil
+  for at = from, to do
+    wide = wide + stepOf(face, before, codes[at])
+    before = codes[at]
+  end
+  return wide
+end
+
+local function laid(face, codes, limit, rows)
+  local from = 1
+  repeat
+    local wide, before, space, to = 0, nil, nil, #codes
+    for at = from, #codes do
+      local code = codes[at]
+      local step = stepOf(face, before, code)
+      if limit ~= nil and code ~= SPACE and at > from and wide + step > limit + LEEWAY then
+        to = (space ~= nil and space > from) and space - 1 or at - 1
+        break
+      end
+      if code == SPACE then space = at end
+      wide, before = wide + step, code
+    end
+    rows[#rows + 1] = { codes = codes, from = from, to = to }
+    from = to + 1
+    while to < #codes and codes[from] == SPACE do from = from + 1 end
+  until from > #codes
+end
+
+local function ellipsed(face, row, limit)
+  local dots = codesOf(ELLIPSIS)
+  local tail = widthOf(face, dots, 1, #dots)
+  local to = row.to
+  local function shown()
+    if to < row.from then return tail end
+    return widthOf(face, row.codes, row.from, to) + kerned(face.kerning, row.codes[to], dots[1]) + tail
+  end
+  while limit ~= nil and to >= row.from and shown() > limit + LEEWAY do to = to - 1 end
+  return shown()
+end
+
+local function measured(control, within)
   local text = control.uiText
   if type(text) ~= "string" or text == "" then return 0, 0 end
   for _, one in ipairs(MARKUP) do text = string.gsub(text, one[1], one[2]) end
   local face, size = faceOf(control)
-  local advances, missing, kerning = face.advances, face.missing, face.kerning
-  local widest, lines = 0, 0
-  for line in string.gmatch(text .. "\n", "(.-)\n") do
-    lines = lines + 1
-    local wide, before = 0, nil
-    for one in string.gmatch(line, CHARACTER) do
-      local code = codeOf(one)
-      wide = wide + (advances[code] or missing) + kerned(kerning, before, code)
-      before = code
+  local scale = size / face.perEm
+  local limit = (within ~= nil and within > 0) and within / scale or nil
+  local rows = {}
+  for line in string.gmatch(text .. "\n", "(.-)\n") do laid(face, codesOf(line), limit, rows) end
+  local kept, most = #rows, control.uiMaxLines
+  if most ~= nil and most > 0 and kept > most then kept = most end
+  local widest = 0
+  for at = 1, kept do
+    local row = rows[at]
+    local wide = widthOf(face, row.codes, row.from, row.to)
+    if at < #rows and at == kept and control.uiWrapMode == ELLIPSIS_MODE then
+      wide = ellipsed(face, row, limit)
     end
     if wide > widest then widest = wide end
   end
-  local scale = size / face.perEm
-  return widest * scale, lines * face.line * scale
+  return widest * scale, kept * face.line * scale
 end
 
 local function spanned(control, width, height)
@@ -126,11 +187,7 @@ end
 
 local function stated(control)
   local width, height = control.uiWidth, control.uiHeight
-  if control.uiType == CT_LABEL and (width == 0 or height == 0) then
-    local wide, tall = measured(control)
-    if width == 0 then width = wide end
-    if height == 0 then height = tall end
-  end
+  if control.uiType == CT_LABEL and width == 0 then width = measured(control) end
   if control.uiResizeToFit then width, height = spanned(control, width, height) end
   return width, height
 end
@@ -144,6 +201,12 @@ local function bounded(control, width, height)
   if minHeight > 0 and height < minHeight then height = minHeight end
   if maxHeight > 0 and height > maxHeight then height = maxHeight end
   return width, height
+end
+
+local function grown(control, width, height)
+  if control.uiType ~= CT_LABEL or control.uiHeight ~= 0 then return width, height end
+  local _, tall = measured(control, width)
+  return bounded(control, width, math.max(height, tall))
 end
 
 local function fractionOf(point)
@@ -184,7 +247,7 @@ placed = function(control)
   if first == nil then
     left, top = 0, 0
     if known(control.uiParent) then left, top = placed(control.uiParent) end
-    width, height = bounded(control, stated(control))
+    width, height = grown(control, bounded(control, stated(control)))
   else
     local one = spotOf(control, first)
     local second = control.uiAnchors[2]
@@ -193,10 +256,12 @@ placed = function(control)
     if two ~= nil and two.mineX ~= one.mineX then
       width = (two.atX - one.atX) / (two.mineX - one.mineX)
     end
-    if two ~= nil and two.mineY ~= one.mineY then
+    local anchoredTall = two ~= nil and two.mineY ~= one.mineY
+    if anchoredTall then
       height = (two.atY - one.atY) / (two.mineY - one.mineY)
     end
     width, height = bounded(control, width, height)
+    if not anchoredTall then width, height = grown(control, width, height) end
     left = one.atX - one.mineX * width
     top = one.atY - one.mineY * height
   end
@@ -223,4 +288,7 @@ local function place(control)
 end
 
 _G.__ui_place = place
-_G.__ui_text_size = measured
+_G.__ui_text_size = function(control)
+  local _, _, width = place(control)
+  return measured(control, width)
+end
