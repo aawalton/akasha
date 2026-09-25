@@ -46,8 +46,9 @@ export const blockDestructiveGit = {
       statement: "The list here is a sample rather than a set.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "One git call does not take away work another agent has not landed.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "No git call in an agent's shell writes the checkout or its .git, which bwrap keeps read-only.",
     },
   ],
 } as const satisfies AgentHook
