@@ -10,6 +10,7 @@ import {
   type Named as FileNamed,
   filing,
 } from "akasha/page/service/modules/file-answering/file-answering.module.code.ts"
+import { ownedRefused } from "akasha/page/service/modules/owned-puts/owned-puts.module.code.ts"
 import { appending } from "akasha/page/service/modules/page-appending/page-appending.module.code.ts"
 import {
   answeringWithin,
@@ -245,6 +246,12 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   if (at === WRITE_AT) {
     const read = writeIn(body)
     if ("refused" in read) return said({ refused: read.refused }, 400)
+    const reached = [
+      ...(read.asked.puts ?? []).map((one) => one.path),
+      ...(read.asked.removes ?? []),
+    ]
+    const owned = ownedRefused(given.root, reached, read.writtenBy ?? null)
+    if (owned !== null) return said({ refused: owned }, 400)
     const folded = foldedFor(given.root, read.pages)
     if ("refused" in folded) return refusedAs(folded)
     const wrote = await given.writer.writing(

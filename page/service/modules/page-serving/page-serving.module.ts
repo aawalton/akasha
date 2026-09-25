@@ -182,6 +182,11 @@ export const pageServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A write putting or taking away a part of an entry that names its writer, naming another, is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An answer to a write names the commit that write landed as.",
     },
     {

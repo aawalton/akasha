@@ -279,6 +279,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/naming/modules/folder-named/folder-named.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/follow-narrowing/follow-narrowing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/owned-puts/owned-puts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/page-following/page-following.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts","typed":false,"deferred":false}

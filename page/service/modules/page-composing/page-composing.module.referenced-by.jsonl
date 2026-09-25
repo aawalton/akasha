@@ -34,6 +34,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/call-reading/call-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/owned-puts/owned-puts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-calling/page-calling.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test.ts","typed":false,"deferred":false}
@@ -45,6 +46,7 @@
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.code.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.test-fixtures.ts","path":"page/modules/body-editing/page-body-editing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-composing.module.test-fixtures.ts","path":"page/service/modules/owned-puts/owned-puts.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.test-fixtures.ts","path":"page/service/modules/page-clearing/page-clearing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.test-fixtures.ts","path":"page/service/modules/page-composing/page-composing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-composing.module.test-fixtures.ts","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts","typed":false,"deferred":false}

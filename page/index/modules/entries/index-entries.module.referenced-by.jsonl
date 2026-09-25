@@ -46,6 +46,7 @@
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/modules/reference-filing/page-reference-filing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/service/modules/owned-puts/owned-puts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-entries.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.code.ts","typed":true,"deferred":false}
