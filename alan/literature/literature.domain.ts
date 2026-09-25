@@ -4,5 +4,5 @@ export const literature = {
   id: "01a0673a-bc3a-7007-989d-b40884013b2d",
   type: "page-type/domain",
   slug: "literature",
-  definition: "the great books Alan reads work by work",
+  definition: "the literature Alan reads",
 } as const satisfies Domain
