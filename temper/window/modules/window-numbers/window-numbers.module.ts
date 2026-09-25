@@ -46,6 +46,10 @@ export const windowNumbers = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A span counted in days is days, hours and minutes, each with its letter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A rate such as frames a second or a delay is a count with its unit after a space.",
     },

@@ -44,6 +44,10 @@ import {
 } from "akasha/temper/addon/pages/world/antiquities/modules/leads-zones/leads-zones.module.code.ts"
 import { requireNumericKey } from "akasha/temper/addon/shared/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
 import {
+  formatCount,
+  formatDaySpan,
+} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
+import {
   drawPanel,
   paintRowHover,
 } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
@@ -84,13 +88,6 @@ function getRowLabel(control: LeadsRowControl, suffix: string): LeadsRowLabel {
     throw new Error(string.format("TemperWorldLeads row label missing: %s", suffix))
   }
   return label
-}
-
-function formatExpiration(leadTimeLeft: number): string {
-  const days = math.floor(leadTimeLeft / 86400)
-  const hours = math.floor((leadTimeLeft - days * 86400) / 3600)
-  const minutes = math.floor((leadTimeLeft - days * 86400 - hours * 3600) / 60)
-  return string.format("%dd %dh %dm", days, hours, minutes)
 }
 
 leadsUnitList.New = function (this: UnitListClass): UnitList {
@@ -313,12 +310,12 @@ leadsUnitList.SetupUnitRow = function (
   lead.SetText(formatBegin + data.Lead + formatEnd)
   zone.SetText(formatBegin + data.Zone + formatEnd)
   location.SetText(formatBegin + data.Location + formatEnd)
-  diff.SetText(tostring(data.Diff))
-  lore.SetText(tostring(data.Lore))
-  dug.SetText(tostring(data.Dug))
+  diff.SetText(formatCount(data.Diff))
+  lore.SetText(formatCount(data.Lore))
+  dug.SetText(formatCount(data.Dug))
   set.SetText(formatBegin + data.Set + formatEnd)
   if (data.HaveLead) {
-    expiration.SetText(formatExpiration(data.Expiration))
+    expiration.SetText(formatDaySpan(data.Expiration))
   } else {
     expiration.SetText("")
   }

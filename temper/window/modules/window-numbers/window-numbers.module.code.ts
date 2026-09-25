@@ -82,6 +82,16 @@ export function formatDuration(seconds: number): string {
   return `${twoDigits(minutes)}:${twoDigits(secs)}`
 }
 
+const DAY = 86400
+
+export function formatDaySpan(seconds: number): string {
+  const whole = math.max(0, math.floor(seconds))
+  const days = math.floor(whole / DAY)
+  const hours = math.floor((whole % DAY) / HOUR)
+  const minutes = math.floor((whole % HOUR) / MINUTE)
+  return `${days}d ${hours}h ${minutes}m`
+}
+
 export function formatSeconds(seconds: number): string {
   return `${trimmedZeros(string.format("%.2f", math.max(0, seconds)))} s`
 }
