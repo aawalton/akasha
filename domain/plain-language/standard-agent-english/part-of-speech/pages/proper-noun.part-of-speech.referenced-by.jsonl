@@ -16,6 +16,7 @@
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/standard-agent-english.domain.ts","id":"01a07c58-7d63-7618-8189-1ea8ae48a1cb"}
 {"propertySlug":"part-of-speech","path":"domain/plain-language/standard-agent-english/term/common-language-term/pages/asia.common-language-term.ts","id":"01a0d48b-634a-760b-8c19-190e58e5f3e5"}
 {"propertySlug":"part-of-speech","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts","id":"01a06813-7b0e-79e0-ae0d-60b8f8c4a138"}
+{"propertySlug":"part-of-speech","path":"infrastructure/inference/comfy-ui/comfy-ui.domain.ts","id":"01a06810-0b68-7eaa-8bd1-c312063e493d"}
 {"propertySlug":"part-of-speech","path":"infrastructure/kubernetes/kubernetes.domain.ts","id":"01a0d962-8282-748b-9f5a-aff49b9c6b98"}
 {"propertySlug":"part-of-speech","path":"person/pages/alan/alan.person.ts","id":"01a053fe-00ef-7d9b-9231-0340262cf86e"}
 {"propertySlug":"part-of-speech","path":"person/pages/david/david.person.ts","id":"01a053fe-00f0-7112-a569-989bfe576b71"}

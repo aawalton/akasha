@@ -4,7 +4,8 @@ export const comfyUi = {
   id: "01a06810-0b68-7eaa-8bd1-c312063e493d",
   type: "page-type/domain",
   slug: "comfy-ui",
-  definition: "what ComfyUI is asked to run",
+  definition: "how code uses ComfyUI",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "ComfyUI" }],
   parts: ["domain/z-image-turbo", "module/comfy-graph"],
   decisions: [
     {
