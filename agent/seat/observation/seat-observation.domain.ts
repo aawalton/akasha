@@ -53,9 +53,5 @@ export const seatObservation = {
       decisionKind: "decision-kind/departure",
       statement: "An agent leaving a seat without being stopped made an unexpected stop.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A seat states whether an agent is present in the seat.",
-    },
   ],
 } as const satisfies Domain
