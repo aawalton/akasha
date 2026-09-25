@@ -11,14 +11,12 @@ import type {
   PageWhere,
 } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
-import { inLowerKebabCaseAcronymsWhole } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import type { Test } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
 export function declaredAs(key: string, definitions: readonly PropertyDefinition[]): string {
   const canonical = foldedInLowerCamelCase(key)
-  return definitions.some((one) => one.id === canonical)
-    ? canonical
-    : inLowerKebabCaseAcronymsWhole(key)
+  return definitions.some((one) => one.id === canonical) ? canonical : inLowerKebabCase(key)
 }
 
 export function fieldFor(key: string, definitions: readonly PropertyDefinition[]): string {

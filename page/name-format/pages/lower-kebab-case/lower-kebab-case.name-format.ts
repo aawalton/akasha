@@ -56,5 +56,13 @@ export const lowerKebabCase = {
       decisionKind: "decision-kind/departure",
       statement: "Only the first writer undoes lower camel case for every name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key naming an akasha property is written by the first writer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The second writer is kept for names another system spells.",
+    },
   ],
 } as const satisfies NameFormat

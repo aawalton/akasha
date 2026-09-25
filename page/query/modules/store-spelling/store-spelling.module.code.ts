@@ -1,5 +1,5 @@
 import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
-import { inLowerKebabCaseAcronymsWhole } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import type {
   Asked,
   ComposedQuery,
@@ -30,7 +30,7 @@ export function storeSpelled(query: ComposedQuery): ComposedQuery {
 export function bothSpellings(values: Record<string, unknown>): Record<string, unknown> {
   const held: Record<string, unknown> = { ...values }
   for (const [key, value] of Object.entries(values)) {
-    const kebab = inLowerKebabCaseAcronymsWhole(key)
+    const kebab = inLowerKebabCase(key)
     if (kebab !== key && !(kebab in held)) held[kebab] = value
   }
   return held

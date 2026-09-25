@@ -6,7 +6,7 @@ import { optionalEnv } from "akasha/code/type/narrowing/modules/require-env/requ
 import { ENTRY_CEILING } from "akasha/page/modules/entry-ceiling/entry-ceiling.module.code.ts"
 import { FIRST_PART } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { partAt } from "akasha/page/modules/file-parts/page-file-parts.module.code.ts"
-import { inLowerKebabCaseAcronymsWhole } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import {
   type Put,
   readFiles,
@@ -25,7 +25,7 @@ const GENERATION_WRITER = "inference-cli <inference-cli@alanwalton.com>"
 function rowValuesOf(properties: Readonly<Record<string, Json>>): Record<string, Json> {
   const values: Record<string, Json> = {}
   for (const [key, value] of Object.entries(properties)) {
-    values[inLowerKebabCaseAcronymsWhole(key)] = value
+    values[inLowerKebabCase(key)] = value
   }
   return values
 }

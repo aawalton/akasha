@@ -39,4 +39,12 @@ describe("the values an akasha page declares", () => {
     })
     expect(kebabisedRow({ "start-time": "a", id: "b" })).toEqual({ "start-time": "a", id: "b" })
   })
+
+  test("a one-letter word in a camel key stays a word of the property's slug", () => {
+    const values = valuesOfDeclared("x/x.check-code.ts", { namesAPropertyKey: true })
+    expect(values["names-a-property-key"]).toBe("true")
+    expect(kebabisedRow({ answersACheckoutRoot: true })).toEqual({
+      "answers-a-checkout-root": true,
+    })
+  })
 })

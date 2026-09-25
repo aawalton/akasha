@@ -69,6 +69,10 @@ test("a row answers under both spellings and neither overwrites the other", () =
   expect(bothSpellings({ valueSlug: "a", "value-slug": "z" })["value-slug"]).toBe("z")
 })
 
+test("a one-letter word in a store key stays a word of the kebab spelling", () => {
+  expect(bothSpellings({ runsInABrowser: true })["runs-in-a-browser"]).toBe(true)
+})
+
 test("a key no row carries is unfound, and an empty answer names none", () => {
   const rows = [{ values: { valueSlug: "a" } }]
   expect(unfoundIn({ "page-type": "t", keys: ["value-slug", "missing-one"] }, rows)).toEqual([
