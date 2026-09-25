@@ -4,7 +4,7 @@ export const gatewayEntry = {
   id: "01a06976-2384-7000-b7a0-ed0cadf58dad",
   type: "page-type/module",
   slug: "gateway-entry",
-  definition: "the answers to every seam a gateway process needs",
+  definition: "the file a model gateway process runs",
   code: "ts",
   test: "ts",
   decisions: [
