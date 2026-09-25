@@ -67,7 +67,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.ts","id":"01a09196-9c2c-732f-bd4f-d1f618fae23a"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.ts","id":"01a09240-5cd6-7be1-bda8-9fe3ca8d2fe3"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/service/bundle/infrastructure-service-bundle.command.ts","id":"01a0c9a3-8601-769d-b508-7d0d5b2ef40f"}
-{"propertySlug":"decision-kind","path":"command/pages/music/play/music-play.command.ts","id":"01a062f9-5ca9-7fc5-acba-8d513404a6f9"}
 {"propertySlug":"decision-kind","path":"command/pages/page/icon-search-index-generate/page-icon-search-index-generate.command.ts","id":"01a06862-06c8-7004-83db-2d1d50b06017"}
 {"propertySlug":"decision-kind","path":"command/pages/page/secret/set/page-secret-set.command.ts","id":"01a06812-3ce8-74c7-be81-2023948a44d9"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/base-game-global/temper-eso-generate-base-game-global.command.ts","id":"01a0685d-f8fa-7913-8b39-8d1f9f835d34"}

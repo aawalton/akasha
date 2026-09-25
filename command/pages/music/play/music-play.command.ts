@@ -49,7 +49,7 @@ export const musicPlay = {
       statement: "A call that started playback and then refused says playback started.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A play Spotify took but answered badly is said here to have not started.",
     },
     {
