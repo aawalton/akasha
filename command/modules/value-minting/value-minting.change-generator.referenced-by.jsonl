@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"value-minting.change-generator.code.ts","path":"command/modules/value-minting/value-minting.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-minting.change-generator.code.ts","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-minting.change-generator.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"value-minting.change-generator.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}
 {"propertySlug":"runs-after","path":"alan/harness/code-editor/data-interface/modules/state-drawing/state-drawing.change-generator.ts","id":"01a0a682-3acc-7b55-b488-e7b96ed58cac"}
 {"propertySlug":"runs-after","path":"change/runner/change-generators/addressing/change-runner-addressing.change-generator.ts","id":"01a0d4e9-ae65-7b67-a7d9-e3474ed7d005"}

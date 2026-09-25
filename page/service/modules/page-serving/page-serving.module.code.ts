@@ -34,6 +34,7 @@ import {
 } from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import type {
   Asked,
+  Fresh,
   Kept,
   Put,
   Writer,
@@ -116,11 +117,13 @@ export function foldedInto(
   kept: readonly Kept[],
   removes: readonly string[] = [],
   keptPuts: readonly Put[] = [],
-  keptRemoves: readonly string[] = []
+  keptRemoves: readonly string[] = [],
+  fresh: readonly Fresh[] = []
 ): Asked {
   const outside = keptPuts.length + keptRemoves.length
   if (puts.length === 0 && kept.length === 0 && removes.length === 0 && outside === 0) return asked
-  const put: Asked = { ...asked, puts: [...(asked.puts ?? []), ...puts] }
+  const claimed: Asked = fresh.length === 0 ? asked : { ...asked, fresh }
+  const put: Asked = { ...claimed, puts: [...(asked.puts ?? []), ...puts] }
   const held: Asked =
     removes.length === 0 ? put : { ...put, removes: [...(asked.removes ?? []), ...removes] }
   const keeping: Asked =
@@ -233,7 +236,8 @@ export async function answering(given: Serving, request: Request): Promise<Respo
         folded.kept,
         folded.removes,
         folded.keptPuts,
-        folded.keptRemoves
+        folded.keptRemoves,
+        folded.fresh
       )
     )
     if ("refused" in wrote) return said({ refused: wrote.refused }, 400)

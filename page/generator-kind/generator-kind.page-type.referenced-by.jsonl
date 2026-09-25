@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"generator-kind.page-type.ts","path":"check/test/fixture/declaring/declaring.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"generator-kind.page-type.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"generator-kind.page-type.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"generator-kind.page-type.types.ts","path":"page/generator-kind/pages/uuid-v7.generator-kind.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"target-page-type","path":"page/type/page-property/properties/generator.relation-property.ts","id":"01a04f17-5b7b-7835-87db-af7b36e912b5"}

@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/access/modules/capture-error/capture-error.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/index/modules/entries/index-entries.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/index/modules/property-shaping/property-shaping.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/message/properties/agent-message-to.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/model/account/properties/provider.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"agent/model/test/properties/model-family.relation-property.ts","typed":true,"deferred":false}

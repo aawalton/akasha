@@ -21,6 +21,7 @@ import {
 import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
 import { keptRowsIn } from "akasha/page/service/modules/kept-rows/kept-rows.module.code.ts"
 import { clearRefused } from "akasha/page/service/modules/page-clearing/page-clearing.module.code.ts"
+import type { Fresh } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { foldersHere } from "akasha/page/service/modules/pages-foldered/pages-foldered.module.code.ts"
 import {
   type Carried,
@@ -274,11 +275,6 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   }
   const listed = listedAt(root, named.pageTypeSlug, named.slug)
   const held = listed.length === 1 ? listed[0]?.path : undefined
-  if (named.fresh === true && listed.length > 0) {
-    return {
-      refused: `\`${named.pageTypeSlug}/${named.slug}\` is a page already, and a page written as new takes a slug no page of its type has`,
-    }
-  }
   const typing = valueAt(typeAt, root) ?? {}
   const typesAt = textAt(typing, TYPES) === HOLDS ? besideAt(typeAt, TYPES, HOLDS) : null
   const plural = textAt(typing, PLURAL_SLUG)
@@ -374,6 +370,7 @@ export type Folded =
       readonly removes: readonly string[]
       readonly keptPuts: readonly Put[]
       readonly keptRemoves: readonly string[]
+      readonly fresh: readonly Fresh[]
     }
   | { readonly refused: string }
 
@@ -383,10 +380,14 @@ export function foldedFor(root: string, named: readonly Naming[]): Folded {
   const removes: string[] = []
   const keptPuts: Put[] = []
   const keptRemoves: string[] = []
+  const fresh: Fresh[] = []
   const source = sourceFor(root)
   for (const one of named) {
     const composed = composedFor(root, one, source)
     if ("refused" in composed) return { refused: composed.refused }
+    if (one.fresh === true) {
+      fresh.push({ pageTypeSlug: one.pageTypeSlug, slug: one.slug, path: composed.put.path })
+    }
     puts.push(composed.put)
     for (const part of composed.parts) puts.push(part)
     for (const gone of composed.removes) removes.push(gone)
@@ -394,5 +395,5 @@ export function foldedFor(root: string, named: readonly Naming[]): Folded {
     keptPuts.push(...composed.keptPuts)
     keptRemoves.push(...composed.keptRemoves)
   }
-  return { puts, kept, removes, keptPuts, keptRemoves }
+  return { puts, kept, removes, keptPuts, keptRemoves, fresh }
 }

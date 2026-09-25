@@ -254,6 +254,11 @@ export function pathIn(said: Folded): string {
   return "puts" in said ? (said.puts[0]?.path ?? "") : ""
 }
 
+export function freshIn(said: Folded): readonly string[] {
+  if (!("fresh" in said)) return []
+  return said.fresh.map((one) => `${one.pageTypeSlug}/${one.slug} ${one.path}`)
+}
+
 export function refusalIn(said: Folded): string {
   return "refused" in said ? said.refused : ""
 }

@@ -51,6 +51,19 @@ export const pageWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page written as new is refused where its page type has a page at that slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That is judged as the batch lands, against the pages landed and the writes before it in the batch.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write refused that way is refused alone, and the rest of its batch lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A write may state the commit its bodies were read against.",
     },
     {

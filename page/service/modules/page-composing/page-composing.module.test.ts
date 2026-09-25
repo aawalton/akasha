@@ -26,6 +26,7 @@ import {
   carrying,
   composing,
   DEVICE_TOKENS_AT,
+  freshIn,
   HELD_CRATE_ID,
   HELD_THING_BODY,
   HELD_THING_ID,
@@ -148,8 +149,9 @@ test("a slug the name above it does not open is the folder whole", () => {
   expect(folderFor("seat", "seat-")).toBe("seat-")
 })
 
-test("a page written as new over a slug taken is refused", () => {
-  expect(refusalIn(composing(A_FRESH_CRATE))).toContain("a page already")
+test("only a new page names what it takes", () => {
+  const said = composing(A_FRESH_CRATE, A_NEW_THING)
+  expect(freshIn(said)).toEqual([`crate/held-crate ${pathIn(said)}`])
 })
 
 test("a merge keeps every key the caller does not name", () => {

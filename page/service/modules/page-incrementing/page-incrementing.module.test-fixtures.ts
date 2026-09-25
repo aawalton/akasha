@@ -16,7 +16,7 @@ export const BESIDE_AT = "akasha/counter/pages/held-counter.counter.uncommitted.
 
 const TYPES_AT = "akasha/counter/counter.page-type.types.ts"
 
-function aProperty(one: string, slug: string): [string, string] {
+export function aProperty(one: string, slug: string): [string, string] {
   const value = { id: seed(one), type: "text-property", slug, propertySlug: slug }
   return [`akasha/${slug}.text-property.ts`, pageOf(value)]
 }

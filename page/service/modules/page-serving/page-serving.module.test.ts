@@ -15,8 +15,11 @@ import {
   A_DEVICE_TOKEN,
   A_PAGE,
   AN_INSTANT,
+  aFreshCrate,
   asking,
   bodyOf,
+  CRATE_AT,
+  cratesRoot,
   GIVEN,
   over,
   refusalOf,
@@ -26,6 +29,7 @@ import {
   tightly,
   writing,
 } from "akasha/page/service/modules/page-serving/page-serving.module.test-fixtures.ts"
+import { writerFor } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 
 test("a question is answered with rows", async () => {
   const answered = await answering(GIVEN, asking({ pageTypeSlug: "decision-kind", keys: ["slug"] }))
@@ -316,4 +320,39 @@ test("a page a write has merging is composed over what the page already has", as
   const told = TOLD[TOLD.length - 1]
   expect(told?.puts?.[0]?.content).toContain('decisionGroup: "decision-group/intent"')
   expect(told?.puts?.[0]?.content).toContain(`definition: "${A_DEFINITION}"`)
+})
+
+test("two pages written as new under one slug arriving together land the first and refuse the second", async () => {
+  const root = cratesRoot()
+  const given = { root, writer: writerFor({ root }) }
+  const answered = await Promise.all(
+    ["the first", "the second"].map((title) =>
+      answering(given, writing({ pages: [aFreshCrate(title)] }))
+    )
+  )
+  expect(answered.map((one) => one.status)).toEqual([200, 400])
+  expect(await refusalOf(answered[1] ?? new Response())).toContain("is a page already")
+  expect(readFileSync(join(root, CRATE_AT), "utf8")).toContain('title: "the first"')
+})
+
+test("a page written as new after that slug landed is refused and leaves the page as it is", async () => {
+  const root = cratesRoot()
+  const given = { root, writer: writerFor({ root }) }
+  expect((await answering(given, writing({ pages: [aFreshCrate("the first")] }))).status).toBe(200)
+  const again = await answering(given, writing({ pages: [aFreshCrate("the second")] }))
+  expect(again.status).toBe(400)
+  expect(await refusalOf(again)).toContain("`crate/one-crate` is a page already")
+  expect(readFileSync(join(root, CRATE_AT), "utf8")).toContain('title: "the first"')
+})
+
+test("a write arriving beside a refused page written as new still lands", async () => {
+  const root = cratesRoot()
+  const given = { root, writer: writerFor({ root }) }
+  const other = { ...aFreshCrate("another"), slug: "two-crate" }
+  const answered = await Promise.all([
+    answering(given, writing({ pages: [aFreshCrate("the first")] })),
+    answering(given, writing({ pages: [aFreshCrate("the second")] })),
+    answering(given, writing({ pages: [other] })),
+  ])
+  expect(answered.map((one) => one.status)).toEqual([200, 400, 200])
 })

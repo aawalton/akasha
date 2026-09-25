@@ -172,6 +172,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/modules/value/page-value.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/service/modules/page-shaping/page-shaping.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts","typed":false,"deferred":false}

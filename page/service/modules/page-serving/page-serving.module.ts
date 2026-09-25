@@ -152,6 +152,15 @@ export const pageServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A page written as new is handed on to the writer naming the slug that page takes.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here judges whether a page written as new takes a slug already taken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page that will not compose refuses the write.",
     },
     {

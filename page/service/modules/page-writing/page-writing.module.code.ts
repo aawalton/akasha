@@ -9,6 +9,7 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
@@ -23,6 +24,12 @@ export type Kept = {
   readonly values: Value
 }
 
+export type Fresh = {
+  readonly pageTypeSlug: string
+  readonly slug: string
+  readonly path: string
+}
+
 export type Asked = {
   readonly writer: string
   readonly message: string
@@ -32,6 +39,7 @@ export type Asked = {
   readonly keptPuts?: readonly Put[]
   readonly keptRemoves?: readonly string[]
   readonly read?: string
+  readonly fresh?: readonly Fresh[]
 }
 
 export type Wrote =
@@ -217,6 +225,38 @@ export function batchIn<T extends Held>(
   return { batch: waiting.slice(0, taken), rest: waiting.slice(taken) }
 }
 
+export function freshRefusal(one: Fresh): string {
+  return `\`${one.pageTypeSlug}/${one.slug}\` is a page already, and a page written as new takes a slug no page of its type has`
+}
+
+export type Claimed<T> = {
+  readonly landing: readonly T[]
+  readonly refused: readonly (readonly [T, string])[]
+}
+
+export function claimedIn<T extends Held>(root: string, batch: readonly T[]): Claimed<T> {
+  const named = new Set<string>()
+  const put = new Set<string>()
+  const landing: T[] = []
+  const refused: (readonly [T, string])[] = []
+  for (const one of batch) {
+    const taken = (one.asked.fresh ?? []).find(
+      (fresh) =>
+        named.has(`${fresh.pageTypeSlug}/${fresh.slug}`) ||
+        put.has(fresh.path) ||
+        listedAt(root, fresh.pageTypeSlug, fresh.slug).length > 0
+    )
+    if (taken !== undefined) {
+      refused.push([one, freshRefusal(taken)])
+      continue
+    }
+    landing.push(one)
+    for (const fresh of one.asked.fresh ?? []) named.add(`${fresh.pageTypeSlug}/${fresh.slug}`)
+    for (const each of one.asked.puts ?? []) put.add(each.path)
+  }
+  return { landing, refused }
+}
+
 export function writerFor(given: Writing): Writer {
   let waiting: Waiting[] = []
   const acts: (() => Promise<unknown>)[] = []
@@ -230,11 +270,14 @@ export function writerFor(given: Writing): Writer {
       }
       const taken = batchIn(waiting)
       waiting = [...taken.rest]
+      const claimed = claimedIn(given.root, taken.batch)
+      for (const [one, refused] of claimed.refused) one.settle({ refused })
+      if (claimed.landing.length === 0) continue
       const wrote = await landedIn(
         given.root,
-        taken.batch.map((one) => one.asked)
+        claimed.landing.map((one) => one.asked)
       )
-      for (const one of taken.batch) one.settle(wrote)
+      for (const one of claimed.landing) one.settle(wrote)
     }
     running = false
     return undefined

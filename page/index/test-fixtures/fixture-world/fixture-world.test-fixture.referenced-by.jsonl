@@ -81,6 +81,7 @@
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-composing/page-composing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fixture-world.test-fixture.code.ts","path":"page/type/modules/gathering/page-type-gathering.module.test.ts","typed":false,"deferred":false}

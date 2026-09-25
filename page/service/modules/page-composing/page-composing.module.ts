@@ -273,12 +273,11 @@ export const pageComposing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A caller stating `fresh` writes a page only where no page of its type has that slug.",
+        "A page a caller states `fresh` for is handed on naming its page type, its slug and its path.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A page written as new over a slug already taken is refused rather than overwritten.",
+      statement: "Whether that slug is taken already is judged by the writer rather than here.",
     },
     {
       decisionKind: "decision-kind/absence",
