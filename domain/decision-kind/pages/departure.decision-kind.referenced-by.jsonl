@@ -947,6 +947,7 @@
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.ts","id":"01a0a065-0e31-7af0-bc57-e4bd83656aa1"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/pages/workstation/workstation.readout-group.ts","id":"01a0a064-b4d5-73e0-9265-d1b2c0d51ad4"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/properties/figure-off-scale.boolean-property.ts","id":"01a06559-e74c-7248-9e76-67d17dce9bc4"}
+{"propertySlug":"decision-kind","path":"alan/harness/readout/group/properties/wire-key-name.text-property.ts","id":"01a0d965-17dc-79ec-95f5-b109ab93b31d"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/group/readout-group.page-type.ts","id":"01a05446-e75e-7657-acda-566edc2b182e"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/asking/readout-asking.module.ts","id":"01a061c0-e7cc-7ec9-b512-033fcde733e7"}
 {"propertySlug":"decision-kind","path":"alan/harness/readout/modules/body/readout-body.module.ts","id":"01a05e63-1c18-7baa-a113-890ebfb04463"}

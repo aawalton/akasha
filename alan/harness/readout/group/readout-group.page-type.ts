@@ -18,9 +18,13 @@ export const readoutGroup = {
     "readout-group/upkeep",
     "readout-group/values",
     "readout-group/workstation",
+    "text-property/wire-key-name",
   ],
   extends: ["page-type/domain"],
-  properties: [{ pageProperty: "boolean-property/figure-off-scale", required: false, many: false }],
+  properties: [
+    { pageProperty: "boolean-property/figure-off-scale", required: false, many: false },
+    { pageProperty: "text-property/wire-key-name", required: false, many: false },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

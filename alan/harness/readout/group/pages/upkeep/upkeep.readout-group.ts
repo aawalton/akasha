@@ -6,4 +6,5 @@ export const upkeep = {
   slug: "upkeep",
   definition: "whether the daily keeping of Alan and his surroundings is holding",
   figureOffScale: true,
+  wireKeyName: "habit",
 } as const satisfies ReadoutGroup

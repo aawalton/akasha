@@ -6,6 +6,7 @@ export const safety = {
   slug: "safety",
   definition: "how safe things are where Alan is",
   figureOffScale: true,
+  wireKeyName: "habit",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

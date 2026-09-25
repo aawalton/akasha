@@ -6,6 +6,7 @@ export const inboxes = {
   slug: "inboxes",
   definition: "how far each of Alan's inboxes is from empty",
   figureOffScale: true,
+  wireKeyName: "inbox",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

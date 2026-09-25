@@ -5,6 +5,7 @@ export const surplus = {
   type: "page-type/readout-group",
   slug: "surplus",
   definition: "how much of Alan's night the day has left him",
+  wireKeyName: "habit",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

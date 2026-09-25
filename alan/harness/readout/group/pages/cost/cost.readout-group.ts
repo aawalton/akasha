@@ -5,6 +5,7 @@ export const cost = {
   type: "page-type/readout-group",
   slug: "cost",
   definition: "what the block Alan is in costs him for each hour it runs",
+  wireKeyName: "habit",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

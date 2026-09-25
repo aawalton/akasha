@@ -6,4 +6,5 @@ export const luck = {
   slug: "luck",
   definition: "how much Alan has risked being told no today",
   figureOffScale: true,
+  wireKeyName: "habit",
 } as const satisfies ReadoutGroup
