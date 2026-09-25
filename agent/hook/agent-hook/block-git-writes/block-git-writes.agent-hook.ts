@@ -134,7 +134,7 @@ export const blockGitWrites = {
       statement: "A hand-written commit does not leave the index stamp behind HEAD.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A read flag is taken as a flag rather than as another flag's value.",
     },
   ],

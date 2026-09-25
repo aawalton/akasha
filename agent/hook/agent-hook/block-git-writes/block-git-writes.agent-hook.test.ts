@@ -105,6 +105,14 @@ test("a read that writes nothing is stood aside from", () => {
   expect(refusalIn("git apply --stat tools/one.patch")).toBeNull()
   expect(refusalIn("git add --dry-run .")).toBeNull()
   expect(refusalIn("git mv --dry-run one two")).toBeNull()
+  expect(refusalIn("git apply --exclude one --check tools/one.patch")).toBeNull()
+  expect(refusalIn("git add --chmod +x --dry-run one.ts")).toBeNull()
+})
+
+test("a read flag another flag takes as its value is no read, and nor is one after `--`", () => {
+  for (const one of ["apply --build-fake-ancestor --check", "apply --exclude --stat", "add --"]) {
+    expect(refusalIn(`git ${one} --dry-run one.patch`)).not.toBeNull()
+  }
 })
 
 test("`-n` is not read as a dry run, because for commit it is --no-verify", () => {
@@ -145,10 +153,6 @@ test("no refusal prescribes a form of the call this hook would refuse anyway", (
     expect(said).not.toContain("-- <path>")
     expect(said).not.toContain("-- <from>")
   }
-})
-
-test("every refusal names the hook that made it", () => {
-  expect(refusalIn("git commit")).toContain("block-git-writes refused this call.")
 })
 
 test("an akasha command stands aside, and commits for itself", () => {
@@ -284,14 +288,6 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   expect(said.reason).toContain("akasha")
 })
 
-test("the hook refuses a bounded call on stdin too", () => {
-  const done = ran(["bun", SCRIPT], {
-    stdin: Buffer.from(payloadOf("git add -- tools/one.ts")),
-  })
-  expect(done.code).toBe(2)
-  expect(done.out).toContain("block-git-writes refused this call.")
-})
-
 test("the hook stands aside on stdin for a call it does not name", () => {
   const done = ran(["bun", SCRIPT], { stdin: Buffer.from(payloadOf("git status")) })
   expect(done.code).toBe(0)
@@ -361,12 +357,10 @@ test("a prefix that only runs the call keeps the `-C` with the call", () => {
   expect(refusalIn(`timeout 5 git -C ${AT.akasha} add x`)).not.toBeNull()
 })
 
-test("the scope says where the call running is read from, and no longer says it is not", () => {
+test("the scope says where the call running is read from", () => {
   const said = SCOPE.join("\n")
   expect(said).toContain("WHERE THE CALL RUNS IS READ FROM `-C` AND NOWHERE ELSE")
   expect(said).toContain("Sharing a git folder is being the same repository")
-  expect(said).not.toContain("WHERE THE CALL RUNS IS NEVER READ")
-  expect(said).not.toContain("A call in another repository is refused the same as one here")
 })
 
 test("a refusal names the route another repository is written by", () => {

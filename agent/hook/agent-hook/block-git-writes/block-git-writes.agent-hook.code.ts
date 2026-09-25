@@ -101,6 +101,16 @@ const READ_ONLY = new Map<string, readonly string[]>([
   ["am", []],
 ])
 
+const VALUED = new Map<string, readonly string[]>([
+  ["add", ["--chmod", "--pathspec-from-file", "-U", "--unified", "--inter-hunk-context"]],
+  [
+    "apply",
+    ["--exclude", "--include", "-p", "--build-fake-ancestor", "-C", "--whitespace", "--directory"],
+  ],
+])
+
+const PATHS_FOLLOW = "--"
+
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses five git acts: commit, add, mv, apply, am.`,
   "A call is let through where it carries a flag that writes nothing, and where `-C` names a",
@@ -119,8 +129,8 @@ export const SCOPE: readonly string[] = [
   "  apply --check, --stat, --numstat, --summary",
   "  `-n` is NOT read as a dry run — for `commit` it is `--no-verify`, which commits.",
   "  `commit` has no read let through. `git status` and `git diff --cached` say the same.",
-  "  A read flag is looked for word by word, so `git apply --build-fake-ancestor --check` is",
-  "    let through while git reads `--check` as that flag's value. That is a gap, not a rule.",
+  "  A read flag is a flag only where no flag before it takes it as a value and no `--` comes",
+  "    before it, so `git apply --build-fake-ancestor --check` and `git add -- --dry-run` write.",
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
   "  git stash pop, merge, pull, cherry-pick, revert, rebase — each writes tracked content",
@@ -236,11 +246,22 @@ function landsElsewhere(before: readonly string[]): boolean {
   return !isInside(here.top, there.top)
 }
 
+function readIn(call: GitCall): boolean {
+  const reads = READ_ONLY.get(call.act) ?? []
+  const valued = VALUED.get(call.act) ?? []
+  for (let at = 0; at < call.rest.length; at += 1) {
+    const word = call.rest[at] ?? ""
+    if (word === PATHS_FOLLOW) return false
+    if (valued.includes(word)) at += 1
+    else if (reads.includes(word)) return true
+  }
+  return false
+}
+
 export function refusalFor(call: GitCall): string | null {
   const over = OVER_ACTS.get(call.act)
   if (over === undefined) return null
-  const reads = READ_ONLY.get(call.act) ?? []
-  if (call.rest.some((word) => reads.includes(word))) return null
+  if (readIn(call)) return null
   if (landsElsewhere(call.before)) return null
   return toldOf(HOOK, over)
 }
