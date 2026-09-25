@@ -20,6 +20,7 @@ import { commitAt } from "akasha/command/pages/deploy/modules/commit-naming/depl
 import { DEPLOYED_COMMIT } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
 import { IN_CLUSTER } from "akasha/infrastructure/job/modules/run-in-cluster/run-in-cluster.module.code.ts"
 import { seededWorld } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.test-fixtures.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
 import {
   ASK_AT,
   type Fetcher,
@@ -113,6 +114,33 @@ test("a slug no app page of either kind carries is refused as the data's fault",
   expect(answer.refusals[0]).toContain("no-such-app-here")
   expect(answer.refusals[0]).toContain("web app")
   expect(answer.refusals[0]).toContain("ios app")
+})
+
+const FOUNDATION = "cluster-foundation"
+
+test("a page the checkout holds and the deploy's commit does not is put up by nothing", async () => {
+  const world = pastTheChecks()
+  valueAlsoFiled(world.root, FOUNDATION, [
+    {
+      path: `ground/arrived/arrived.${FOUNDATION}.ts`,
+      value: {
+        id: "01a0a600-0000-7000-8000-0000000000a1",
+        type: `page-type/${FOUNDATION}`,
+        slug: "arrived",
+        definition: "what arrived is built on",
+        manifest: [],
+      },
+    },
+  ])
+  const seen: string[] = []
+  const putting: PuttingUp = async (_read, slug) => {
+    seen.push(slug)
+    return await Promise.resolve({ report: [], refusals: [], code: OK })
+  }
+  const answer = await deploy(["arrived"], given(world.root), putting, noWait, world.kept)
+  expect(answer.code).toBe(DATA)
+  expect(answer.refusals[0]).toContain("no page of any kind a deploy puts up is named `arrived`")
+  expect(seen).toEqual([])
 })
 
 test("a checkout whose checks will not load puts nothing up", async () => {

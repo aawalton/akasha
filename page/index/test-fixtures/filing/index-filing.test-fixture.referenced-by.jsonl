@@ -69,6 +69,7 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/modules/value-minting/value-minting.change-generator.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/deploy/deploy.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"command/pages/deploy/modules/tree-sweeping/deploy-tree-sweeping.module.test.ts","typed":false,"deferred":false}

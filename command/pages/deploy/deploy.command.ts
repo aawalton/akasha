@@ -84,6 +84,14 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Which kind a slug names is read at the commit the call names or HEAD is at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page the checkout holds and that commit does not is put up by nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A commit named on the call settles the commit a deploy is made at.",
     },
     {
