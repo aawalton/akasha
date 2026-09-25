@@ -18,6 +18,7 @@ import {
   asSearchControlOpt,
   searchUI,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-state/sets-search-ui-shared-state.module.code.ts"
+import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import {
   drawPanel,
   paintRowHover,
@@ -367,7 +368,7 @@ listClass.UpdateCounter = function (this: SetsSearchUIList, scrollData: unknown[
   if (this.masterList === undefined || this.masterList.length === 0) {
     listCountAndTotal = "0 / 0"
   } else {
-    listCountAndTotal = string.format("%d / %d", scrollData.length, this.masterList.length)
+    listCountAndTotal = `${formatCount(scrollData.length)} / ${formatCount(this.masterList.length)}`
   }
   this._parentObject.counterControl.SetText(listCountAndTotal)
 }
