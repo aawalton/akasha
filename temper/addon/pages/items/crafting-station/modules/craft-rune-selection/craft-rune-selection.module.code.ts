@@ -12,6 +12,7 @@ import {
   fontPathOf,
   hexOf,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/craft-decl-controls/craft-decl-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
@@ -33,6 +34,20 @@ export interface SelectorButtonData {
 
 export interface SelectorButton extends ButtonControl {
   data: SelectorButtonData
+}
+
+const SLOT_WIDTH = 160
+
+const SLOT_HEIGHT = 30
+
+const SLOTS_TOP = 50
+
+function slotLeft(column: number): number {
+  return spaceOf("2") + (column - 1) * (SLOT_WIDTH + spaceOf("1"))
+}
+
+function slotTop(row: number): number {
+  return SLOTS_TOP + (row - 1) * SLOT_HEIGHT
 }
 
 function asSelectorButton(c: ButtonControl): SelectorButton {
@@ -109,8 +124,8 @@ export function runeShowSelection(): undefined {
           CT_BUTTON
         )
       )
-      btn.SetAnchor(3, undefined, 3, 8, 50 + (x - 1) * 30)
-      btn.SetDimensions(160, 30)
+      btn.SetAnchor(3, undefined, 3, slotLeft(1), slotTop(x))
+      btn.SetDimensions(SLOT_WIDTH, SLOT_HEIGHT)
       styleSelector(btn, color)
       btn.SetHorizontalAlignment(0)
       btn.SetVerticalAlignment(1)
@@ -168,8 +183,8 @@ export function runeShowSelection(): undefined {
           CT_BUTTON
         )
       )
-      btn.SetAnchor(3, undefined, 3, 170, 50 + (x - 1) * 30)
-      btn.SetDimensions(160, 30)
+      btn.SetAnchor(3, undefined, 3, slotLeft(2), slotTop(x))
+      btn.SetDimensions(SLOT_WIDTH, SLOT_HEIGHT)
       styleSelector(btn, color)
       btn.SetHorizontalAlignment(0)
       btn.SetVerticalAlignment(1)
@@ -228,8 +243,8 @@ export function runeShowSelection(): undefined {
           CT_BUTTON
         )
       )
-      btn.SetAnchor(3, undefined, 3, 332, 50 + (x - 1) * 30)
-      btn.SetDimensions(160, 30)
+      btn.SetAnchor(3, undefined, 3, slotLeft(3), slotTop(x))
+      btn.SetDimensions(SLOT_WIDTH, SLOT_HEIGHT)
       styleSelector(btn, color)
       btn.SetHorizontalAlignment(0)
       btn.SetVerticalAlignment(1)
