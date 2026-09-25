@@ -24,7 +24,7 @@ function shapeOf(world: World, given: EntryAsked): Declared | string {
   if (carried === null) return `\`${given.pageType}\` names no page type`
   const held = carried.find((one) => one.key === given.key)
   if (held === undefined) return `a \`${given.pageType}\` has no property under \`${given.key}\``
-  if (held.pageTypeSlug !== ENTRY_PROPERTY) {
+  if (!world.index.kindsUnder(ENTRY_PROPERTY).has(held.pageTypeSlug)) {
     return `\`${given.key}\` on a \`${given.pageType}\` keeps no entries beside the page`
   }
   return held

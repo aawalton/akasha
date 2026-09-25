@@ -19,6 +19,10 @@ export const entryRewriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A key whose property is of any kind under `page-property-entry` keeps entries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every file of entries beside a page is written, each part of it included.",
     },
     {

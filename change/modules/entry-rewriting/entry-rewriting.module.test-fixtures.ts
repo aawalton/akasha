@@ -39,10 +39,19 @@ function bodyOf(slug: string): string {
   return `export const ${slug} = {\n  slug: "${slug}",\n  spans: "jsonl",\n}\n`
 }
 
-export function weeksWith(files: Readonly<Record<string, string>>): World {
+export const ENTRY_KIND = "week-spans-entry"
+
+export function kindsUnder(of: string): ReadonlySet<string> {
+  return of === ENTRY.pageTypeSlug ? new Set([of, ENTRY_KIND]) : new Set([of])
+}
+
+export function weeksWith(
+  files: Readonly<Record<string, string>>,
+  kind: string = ENTRY.pageTypeSlug
+): World {
   const index = {
-    kindsUnder: (of: string) => new Set([of]),
-    propertiesIfNamed: (of: string) => (of === TYPE ? [ENTRY] : null),
+    kindsUnder,
+    propertiesIfNamed: (of: string) => (of === TYPE ? [{ ...ENTRY, pageTypeSlug: kind }] : null),
     valuesByPath: () => WEEKS,
   } as never
   const bodies = { [ONE_AT]: bodyOf("one"), [TWO_AT]: bodyOf("two"), ...files }

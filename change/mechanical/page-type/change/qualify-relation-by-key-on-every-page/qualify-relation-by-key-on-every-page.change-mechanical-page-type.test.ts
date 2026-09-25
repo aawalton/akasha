@@ -6,6 +6,10 @@ import {
 import { rowsOf } from "akasha/change/mechanical/page-type/change/qualify-relation-on-every-page/qualify-relation-on-every-page.change-mechanical-page-type.test-fixtures.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
+  ENTRY_KIND,
+  kindsUnder,
+} from "akasha/change/modules/entry-rewriting/entry-rewriting.module.test-fixtures.ts"
+import {
   bodiesIn,
   ledgerAt,
   type World,
@@ -73,10 +77,14 @@ function bodyOf(slug: string): string {
   return `export const ${slug} = {\n  slug: "${slug}",\n  conditions: "jsonl",\n}\n`
 }
 
-function worldFor(files: Files, collections: ReadonlyMap<string, Value> = COLLECTIONS): World {
+function worldFor(
+  files: Files,
+  collections: ReadonlyMap<string, Value> = COLLECTIONS,
+  entry: Declared = ENTRY
+): World {
   const index = {
-    kindsUnder: (of: string) => new Set([of]),
-    propertiesIfNamed: (of: string) => (of === TYPE ? [ENTRY] : of === TARGET ? [] : null),
+    kindsUnder,
+    propertiesIfNamed: (of: string) => (of === TYPE ? [entry] : of === TARGET ? [] : null),
     valuesByPath: (kind: string) => (kind === TYPE ? BOOKS : collections),
   } as never
   const bodies = { [ONE_AT]: bodyOf("one"), [TWO_AT]: bodyOf("two"), ...files }
@@ -205,6 +213,24 @@ test("a key keeping no entries beside the page is refused", () => {
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("a `book-section` has no property under `heldBy`")
+})
+
+test("a key whose property is a kind of entry property is written too", () => {
+  const rows = { [ONE_ROWS_AT]: rowsOf([{ collection: "songs" }]) }
+  const world = worldFor(rows, COLLECTIONS, { ...ENTRY, pageTypeSlug: ENTRY_KIND })
+
+  const said = qualifyRelationByKeyOnEveryPage(world, ASKED)
+
+  expect(said.refused).toBeNull()
+  expect(bodiesIn(said, world.base).get(ONE_ROWS_AT) ?? "").toBe(`{"collection":"${SONGS}"}\n`)
+})
+
+test("a key whose property keeps a file rather than entries is refused", () => {
+  const world = worldFor({}, COLLECTIONS, { ...ENTRY, pageTypeSlug: "file-property" })
+
+  const said = qualifyRelationByKeyOnEveryPage(world, ASKED)
+
+  expect(said.refused).toBe("`conditions` on a `book-section` keeps no entries beside the page")
 })
 
 test("a target the index does not name is refused", () => {

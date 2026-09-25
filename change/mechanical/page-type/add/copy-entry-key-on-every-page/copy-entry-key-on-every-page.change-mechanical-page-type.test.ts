@@ -5,6 +5,7 @@ import {
 } from "akasha/change/mechanical/page-type/add/copy-entry-key-on-every-page/copy-entry-key-on-every-page.change-mechanical-page-type.code.ts"
 import { pathsIn } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
+  ENTRY_KIND,
   ONE_ROWS_AT,
   PART_TWO_AT,
   TWO_ROWS_AT,
@@ -109,6 +110,21 @@ test("a key keeping no entries beside the page is refused", () => {
   const said = copyEntryKeyOnEveryPage(worldFor({}), { ...ASKED, key: "heldBy" })
 
   expect(said.refused).toBe("a `week` has no property under `heldBy`")
+})
+
+test("a key whose property is a kind of entry property is written too", () => {
+  const world = worldFor({ [ONE_ROWS_AT]: '{"opened":"x"}\n' }, ENTRY_KIND)
+
+  const said = copyEntryKeyOnEveryPage(world, ASKED)
+
+  expect(said.refused).toBeNull()
+  expect(bodiesIn(said, world.base).get(ONE_ROWS_AT) ?? "").toBe('{"opened":"x","openedAt":"x"}\n')
+})
+
+test("a key whose property keeps a file rather than entries is refused", () => {
+  const said = copyEntryKeyOnEveryPage(worldFor({}, "file-property"), ASKED)
+
+  expect(said.refused).toBe("`spans` on a `week` keeps no entries beside the page")
 })
 
 test("a page type the index does not name is refused", () => {

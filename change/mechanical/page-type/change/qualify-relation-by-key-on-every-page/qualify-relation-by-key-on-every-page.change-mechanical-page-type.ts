@@ -47,6 +47,10 @@ export const qualifyRelationByKeyOnEveryPage = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A key whose property is of any kind under `page-property-entry` keeps entries.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The field is a path of keys joined by dots, walked down each row.",
     },
     {
