@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
+import { rgPath } from "@vscode/ripgrep"
 import {
   blobIdOf,
   recordSightings,
@@ -33,8 +34,6 @@ import {
   withheldFor,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import { z } from "zod"
-
-const RIPGREP = "rg"
 
 const LINE_WIDTH = 400
 
@@ -174,7 +173,7 @@ function shownTaken(
 ): boolean {
   const held = tally.blocks.get(path)
   const last = held?.shown.at(-1)
-  const parted = last !== undefined && at > last + 1
+  const parted = taking.asked.around !== null && last !== undefined && at > last + 1
   const cost =
     widthOf(shown) + (held === undefined ? widthOf(path) : 0) + (parted ? widthOf(BREAK) : 0)
   if (tally.spent + cost > taking.budget) {
@@ -229,7 +228,7 @@ async function linesTaken(
 }
 
 async function gathered(taking: Taking): Promise<Gathered> {
-  const child = Bun.spawn([RIPGREP, ...ripgrepArguments(taking.asked)], {
+  const child = Bun.spawn([rgPath, ...ripgrepArguments(taking.asked)], {
     cwd: taking.root,
     stdin: "ignore",
     stdout: "pipe",

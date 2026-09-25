@@ -14,6 +14,16 @@ export const search = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The ripgrep a search runs is the one the repository's packages hold, whatever the shell finds first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Runs of lines apart in one file are parted by `--` where lines around a match are asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path a search is named is said from the repository root, and lands inside it.",
     },
     {

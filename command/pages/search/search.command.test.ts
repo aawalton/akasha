@@ -46,6 +46,7 @@ test("a search shows each line matched under its file's path, with its line numb
   expect(said.report).toContain(shownLine(2, "needle one\n", true))
   expect(said.report).toContain(shownLine(1, "needle two\n", true))
   expect(said.report.indexOf(A)).toBeLessThan(said.report.indexOf(B))
+  expect(said.report).not.toContain("--")
 })
 
 test("a file a search showed is recorded as seen in part, and no read", async () => {
@@ -130,6 +131,7 @@ test("a pattern ripgrep will not read is a fault of the input", async () => {
   const said = await searchWith(["needle(", "--files-only"], givenFor(world()), null)
   expect(said.code).toBe(INPUT)
   expect(said.refusals.join("\n")).toContain("ripgrep refused")
+  expect(said.refusals.join("\n")).toContain("regex parse error")
 })
 
 test("a search past one answer stops under its bytes and says how to narrow it", async () => {
