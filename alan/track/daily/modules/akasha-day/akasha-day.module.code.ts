@@ -9,7 +9,7 @@ import {
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { resolveRoots } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
-import { camelizeKey } from "akasha/page/naming/folding/modules/camelize-key/camelize-key.module.code.ts"
+import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-camel-case/lower-camel-case.name-format.code.ts"
 import {
   composedFor,
   type Put,
@@ -30,7 +30,7 @@ export function camelised(values: Values): Record<string, unknown> {
   const out: Record<string, unknown> = {}
   for (const [key, held] of Object.entries(values)) {
     if (held === null || held === undefined) continue
-    out[camelizeKey(key)] = held
+    out[foldedInLowerCamelCase(key)] = held
   }
   return out
 }
