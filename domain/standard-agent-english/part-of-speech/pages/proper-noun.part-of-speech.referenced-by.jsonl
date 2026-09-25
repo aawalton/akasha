@@ -11,6 +11,7 @@
 {"propertySlug":"part-of-speech","path":"alan/harness/imessage/service/imessage-service.domain.ts","id":"01a0d5b8-6728-78f1-856c-a52d8139ae13"}
 {"propertySlug":"part-of-speech","path":"alan/harness/monarch/service/monarch-service.domain.ts","id":"01a0d5bd-4128-7484-86a9-4748c66534e6"}
 {"propertySlug":"part-of-speech","path":"alan/music/spotify/service/spotify-service.domain.ts","id":"01a0d8a3-2da3-74fd-bd07-f7c4105dd5a3"}
+{"propertySlug":"part-of-speech","path":"code/lua/lua.domain.ts","id":"01a0d919-b77d-787e-bb05-6b624815a6ad"}
 {"propertySlug":"part-of-speech","path":"code/typescript/typescript.domain.ts","id":"01a0d8e8-b79a-7e44-8f8d-6f5c8f8590d5"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/asia.common-language-term.ts","id":"01a0d48b-634a-760b-8c19-190e58e5f3e5"}
 {"propertySlug":"part-of-speech","path":"person/pages/alan/alan.person.ts","id":"01a053fe-00ef-7d9b-9231-0340262cf86e"}

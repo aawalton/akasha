@@ -354,6 +354,7 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/javascript-module/javascript-module.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/lua-module/lua-module.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/lua-runtime-library/lua-runtime-library.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/lua/lua.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/module/module.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/path/code-path.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"code/process/code-process.domain.ts","typed":true,"deferred":false}
