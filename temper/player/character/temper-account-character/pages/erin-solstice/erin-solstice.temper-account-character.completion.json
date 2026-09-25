@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNILAAIBhxAlC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLREEx1sboAAALwAAGNNgAGyhDAAAAAAgjlEgFAGCATYAAAAaCACECgIJwg0AHQAjnVVqA4oAADJIBgjIhA4gQASCCc9HKBAAcoFYBA4y57GQzIsSZWPJllzJs7Po06te2fQo0qdTxVWR1a82ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAAFkx4EEmhDJZwRMYIIYwo2o82PCxWtczDEJPBJGkQA83M2tQ0818llAyA",
+  "buildHash": "ATQHNILAAIBhxAlC4RtQsBLULAS1CwEtItxbULcW1C3FtEFxbRBADUQXFtAGgCWgCgBLREEx1sboAAAZWAAzpNi8GyhDAAAAAAgjlEgFAGCATYAAAAaCACECgIJwg0AHQAjnVVqA4oAADJIBgjIhA4gQASCCc9HKBAAcoFYBA4y57GQzIsSZWPJllzJs7Po06te2fQo0qdTxVWR1a82ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4AFkx4EEmhDJZwRMYIIYwo2o82PCxWtczDEJPBJGkQA83M2tQ0818llAyA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -1973,6 +1973,7 @@
     6498,
     6499,
     6500,
+    6503,
     6504,
     6505,
     6506,
@@ -3720,7 +3721,7 @@
             "name": "Blade Cloak",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Deadly Cloak",
             "rank": 4
@@ -4338,7 +4339,7 @@
             "name": "Magma Armor",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "morph2": {
             "name": "Corrosive Armor",
             "rank": 4
@@ -17019,7 +17020,7 @@
     "groupDungeonTotal": 54,
     "tutorial": 0,
     "skyshardPoints": 193,
-    "unassigned": 249,
+    "unassigned": 245,
     "zoneQuestTotal": 165,
     "publicDungeons": {
       "EP4": 1,
@@ -26420,8 +26421,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-24"
+    "date": "2026-09-24",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
