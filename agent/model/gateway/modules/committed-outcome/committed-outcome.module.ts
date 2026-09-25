@@ -4,7 +4,7 @@ export const committedOutcome = {
   id: "01a0622f-4550-7f67-8307-16e48ffd8ea5",
   type: "page-type/module",
   slug: "committed-outcome",
-  definition: "what an already-committed response does with the status upstream finally returns",
+  definition: "the error type a model gateway sends in a message",
   code: "ts",
   test: "ts",
   decisions: [
