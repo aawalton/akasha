@@ -105,13 +105,14 @@ export const subagent = {
     },
 
     {
-      decisionKind: "decision-kind/gap",
-      statement: "A subagent begins a turn before the landing writing its page has gone.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A subagent's first turn waits for the landing writing its page to go or for the start's wait to end.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement:
-        "The stretch a subagent has no page for has run to minutes rather than to seconds.",
+        "The landings of a burst of starts go one at a time, so the last can outlast the start's wait.",
     },
     {
       decisionKind: "decision-kind/absence",
