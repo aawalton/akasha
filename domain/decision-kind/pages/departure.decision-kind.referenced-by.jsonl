@@ -2961,7 +2961,9 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/stated-runtime-env.record-property.ts","id":"01a0d5dd-3f42-7870-a29e-2742cdeb028d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/workload-class.select-property.ts","id":"01a0d5db-7609-762b-bbb3-3c592212a5db"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-inference/modules/inference-health/inference-health.module.ts","id":"01a0d973-be39-7b8a-926e-0ad22c1af875"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.ts","id":"01a090a6-f40b-7abe-a439-ebc9274ece2a"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-inference/modules/inference-watching/inference-watching.module.ts","id":"01a0d973-be39-74f3-add1-0acb74caf769"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-inference/properties/internal-port.number-property.ts","id":"01a09095-0971-7e89-b75c-e674e97797c4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-inference/properties/lifecycle.relation-property.ts","id":"01a09095-243b-7ce0-9a35-68fd9e450733"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-inference/properties/provision.relation-property.ts","id":"01a0909f-9ea9-7dba-b8c0-27d20e677a97"}

@@ -270,6 +270,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-applying/workload-applying.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-health/inference-health.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-binding/service-binding.module.code.ts","typed":false,"deferred":false}

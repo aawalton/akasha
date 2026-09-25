@@ -9,7 +9,10 @@ export const serviceInference = {
   extends: ["page-type/akasha-service"],
   parts: [
     "boolean-property/warm",
+    "module/inference-health",
     "module/inference-reading",
+    "module/inference-watching",
+    "service-workstation/inference-watching",
     "number-property/internal-port",
     "page-type/service-lifecycle",
     "relation-property/provision",

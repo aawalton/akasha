@@ -91,6 +91,10 @@ export const serviceWellness = {
       statement: "A look says each verdict it wrote, and why a service it found broken is broken.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A run writes each line it says to standard output, after the watcher's name.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here decides whether a service is well.",
     },

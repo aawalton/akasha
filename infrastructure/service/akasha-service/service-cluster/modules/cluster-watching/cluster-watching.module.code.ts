@@ -8,6 +8,7 @@ import { checkoutAt } from "akasha/infrastructure/service/akasha-service/service
 import {
   keepVerdicts,
   lookedBeside,
+  sayEach,
   sayingOf,
   watcherPageIn,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-wellness/service-wellness.module.code.ts"
@@ -40,7 +41,5 @@ export async function ticking(given: {
 }
 
 export async function runClusterWatching(): Promise<void> {
-  for (const line of await ticking({ root: checkoutAt(), now: new Date() })) {
-    process.stdout.write(`${SAID} ${line}\n`)
-  }
+  sayEach(SAID, await ticking({ root: checkoutAt(), now: new Date() }))
 }

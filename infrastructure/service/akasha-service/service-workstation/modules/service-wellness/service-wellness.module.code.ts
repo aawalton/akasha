@@ -69,3 +69,7 @@ export function sayingOf(
       one.broken === null ? `${one.slug} is well` : `${one.slug} is broken: ${one.broken}`
     )
 }
+
+export function sayEach(said: string, lines: readonly string[]): undefined {
+  for (const line of lines) process.stdout.write(`${said} ${line}\n`)
+}
