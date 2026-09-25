@@ -1,3 +1,4 @@
+import { join } from "node:path"
 import {
   type Gapped,
   gapsIn,
@@ -5,7 +6,7 @@ import {
 } from "akasha/alan/harness/code-editor/data-interface/modules/gap-tree-assemble/gap-tree-assemble.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { diskAt } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { textOnDisk } from "akasha/file/disk/modules/text-on-disk/text-on-disk.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageShaped, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -25,8 +26,12 @@ export function gapRowsAt(): string {
   return ROWS_AT
 }
 
+function filedIn(root: string): string | null {
+  return textOnDisk(join(root, ROWS_AT))
+}
+
 export function gapCountIn(root: string): number {
-  const was = textOf(diskAt(root, ROWS_AT))
+  const was = filedIn(root)
   if (was === null) return gapsIn(root).length
   return was.split("\n").filter((line) => line !== "").length
 }
@@ -78,8 +83,18 @@ function byRow(one: Gapped, two: Gapped): number {
   return one.place - two.place
 }
 
+const UNSHAPED: Gapped = { at: "", domain: "", place: 0, said: "" }
+
+export function gapRowsBodied(lines: readonly string[]): string {
+  return lines
+    .map((line) => ({ line, one: gappedLine(line) ?? UNSHAPED }))
+    .sort((one, two) => byRow(one.one, two.one))
+    .map((one) => `${one.line}\n`)
+    .join("")
+}
+
 export function gapsKept(change: Change, reading: Reading): Kept {
-  const was = textOf(diskAt(change.root, ROWS_AT))
+  const was = filedIn(change.root)
   const filed = was === null ? null : heldIn(was)
   const found = filed === null ? gapsIn(reading) : patched(filed, change)
   const gaps = [...found].sort(byRow)

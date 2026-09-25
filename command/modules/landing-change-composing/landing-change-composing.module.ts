@@ -79,6 +79,15 @@ export const landingChangeComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A landing folds a gap row into the rows the gaps picture is drawn from, by the whole row.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fold reaches a path the repository ignores as it reaches a committed one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The body a fold weighs its rows against is the first a row for that path names.",
     },
     {

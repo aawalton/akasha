@@ -35,6 +35,11 @@ export const gapRowFiling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A landing overlapping another keeps the rows the other filed rather than writing back what it read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page stating no gap holds no row, so a page is read by the gaps it states.",
     },
     {

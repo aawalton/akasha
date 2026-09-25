@@ -1,6 +1,10 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  gapRowsAt,
+  gapRowsBodied,
+} from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
+import {
   type Adding,
   type Appending,
   type Bringing,
@@ -148,7 +152,13 @@ const SHAPES: Rowing = {
     ),
 }
 
+const GAP_ROWS: Rowing = {
+  keyOf: (line) => line,
+  bodied: gapRowsBodied,
+}
+
 function rowingFor(path: string): Rowing | null {
+  if (path === gapRowsAt()) return GAP_ROWS
   if (referencesFiled(path)) return REFERENCES
   if (schemaFiled(path)) return SCHEMA
   return shapesFiled(path) ? SHAPES : null

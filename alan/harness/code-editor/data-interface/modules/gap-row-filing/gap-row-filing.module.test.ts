@@ -1,16 +1,25 @@
-import { expect, test } from "bun:test"
-import { mkdirSync, writeFileSync } from "node:fs"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   gapCountIn,
   gapRowsAt,
   gapsKept,
 } from "akasha/alan/harness/code-editor/data-interface/modules/gap-row-filing/gap-row-filing.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { Judging } from "akasha/check/modules/judging/judging.module.code.ts"
+import { landing } from "akasha/command/modules/landing/landing.module.code.ts"
+import {
+  scratch as repos,
+  repoWith,
+} from "akasha/command/modules/landing/landing.module.test-fixtures.ts"
 import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 
 const scratch = scratchWorld()
+
+afterAll(repos.sweep)
 
 const ONE_AT = "domain/one/pages/one.thing.ts"
 
@@ -101,6 +110,33 @@ test("the gaps counted are the rows filed", () => {
   ])
 
   expect(gapCountIn(root)).toBe(2)
+})
+
+const gapAt = (page: string, place: number): string =>
+  JSON.stringify({ at: `domain/${page}.thing.ts`, domain: `thing/${page}`, place, said: page })
+
+const bodyFor = (lines: readonly string[]): string => lines.map((one) => `${one}\n`).join("")
+
+test("a landing overlapping another keeps the rows the other filed rather than writing back what it read", async () => {
+  const was = bodyFor([gapAt("a", 1), gapAt("b", 1), gapAt("c", 1)])
+  const root = repoWith({ ".gitignore": "*.uncommitted.*\n", [gapRowsAt()]: was })
+  const overlapping: Judging = {
+    named: ["overlapping"],
+    checksFor: () => ["overlapping"],
+    over: async () => {
+      writeFileSync(join(root, gapRowsAt()), bodyFor([gapAt("a", 1), gapAt("c", 1)]))
+      return []
+    },
+  }
+  const mine = bodyFor([gapAt("a", 1), gapAt("a", 10), gapAt("a", 2), gapAt("b", 1), gapAt("c", 1)])
+  const rows: readonly FileChange[] = [
+    { kind: "replace", path: gapRowsAt(), contentFrom: was, contentTo: mine },
+  ]
+
+  expect("refusals" in (await landing(root, rows, "mine", overlapping))).toBe(false)
+  expect(readFileSync(join(root, gapRowsAt()), "utf8")).toBe(
+    bodyFor([gapAt("a", 1), gapAt("a", 2), gapAt("a", 10), gapAt("c", 1)])
+  )
 })
 
 test("a repository with no row filed counts the gaps its pages state", () => {

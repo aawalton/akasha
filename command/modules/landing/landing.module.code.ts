@@ -386,7 +386,9 @@ async function landingHeld(
         const held = asideFrom(root, split.uncommitted)
         const aside = asideOnto(root, [...held])
         try {
-          const rest = split.uncommitted.filter((one) => !held.has(one.path))
+          const rest = besideRebased(root, split.uncommitted, wasBeside).filter(
+            (one) => !held.has(one.path)
+          )
           const ignoredGone = wroteOnto(root, rest)
           const untracked = [...new Set([...aside.took, ...ignoredGone.took])].sort()
           aside.done()
