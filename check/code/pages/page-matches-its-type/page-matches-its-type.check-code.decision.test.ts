@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { seeded } from "akasha/check/code/pages/page-matches-its-type/modules/page-reasons/page-reasons.module.test-fixtures.ts"
 import {
+  HOLDS_MORE_THAN_DATA,
   refusalsOver,
   STATES_NO_PAGE_TYPE,
 } from "akasha/check/code/pages/page-matches-its-type/page-matches-its-type.check-code.decision.code.ts"
@@ -71,12 +72,27 @@ test("a page stating no page type is refused, and is not passed over", () => {
   expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: STATES_NO_PAGE_TYPE }])
 })
 
-test("a page whose body declares no page is passed over", () => {
-  expect(judgedOver({ [HELD_AT]: "export const held = 1\n" })).toEqual([])
+test("a page whose body declares no object is refused", () => {
+  expect(judgedOver({ [HELD_AT]: "export const held = 1\n" })).toEqual([
+    { path: HELD_AT, reason: HOLDS_MORE_THAN_DATA },
+  ])
 })
 
-test("a page whose body will not load is passed over", () => {
-  expect(judgedOver({ [HELD_AT]: "export const held = (\n" })).toEqual([])
+test("a page whose body will not load is refused rather than passed over", () => {
+  expect(judgedOver({ [HELD_AT]: "export const held = (\n" })).toEqual([
+    { path: HELD_AT, reason: HOLDS_MORE_THAN_DATA },
+  ])
+})
+
+test("a page whose value is made by running code is refused", () => {
+  const body = 'export const held = { id: "a", slug: ["held"].join("") }\n'
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: HOLDS_MORE_THAN_DATA }])
+})
+
+test("a page carrying code beside its value is refused", () => {
+  const body =
+    'export const held = { id: "a", slug: "held", type: "page-type/page-type" }\nexport function run() {}\n'
+  expect(judgedOver({ [HELD_AT]: body })).toEqual([{ path: HELD_AT, reason: HOLDS_MORE_THAN_DATA }])
 })
 
 test("a page whose page type declares nothing is passed over, as it was before", () => {

@@ -12,7 +12,7 @@ import { waitingProperties } from "akasha/page/index/modules/generated-propertie
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
-import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
+import { parsedIn, valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
   slugAt,
   type Value,
@@ -29,6 +29,9 @@ const NOTHING: ReadonlySet<string> = new Set()
 
 export const STATES_NO_PAGE_TYPE =
   "states no `type`, and what a page carries is read from the page type it states"
+
+export const HOLDS_MORE_THAN_DATA =
+  "is not one exported object of plain data, and a page file declares its value and runs no code"
 
 function pagesHeldOver(index: Answering): Answering {
   const held = new Map<string, Value | null>()
@@ -69,7 +72,7 @@ function reasonsAt(
 ): readonly string[] {
   const { over, carriedBy, formatting, beside } = judging
   const value = valueIn(text)
-  if (value === null) return []
+  if (value === null || parsedIn(text) === null) return [HOLDS_MORE_THAN_DATA]
   const pageTypeSlug = slugAt(value, "type")
   if (pageTypeSlug === null) return [STATES_NO_PAGE_TYPE]
   const declared = carriedBy(pageTypeSlug)
