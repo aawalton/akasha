@@ -15,7 +15,28 @@ export const watcherImportCatalog = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The account a capture is read for is the first the saved variables name.",
+      statement: "Every account the saved variables name is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every account captures the same game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A catalog domain page names no account.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each catalog domain page is given the newest capture holding that domain.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The newest capture has the highest manifestApiVersion, then the highest apiVersion by number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Of captures equally new, the first the saved variables name is taken.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -60,10 +81,6 @@ export const watcherImportCatalog = {
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here opens the saved-variables file.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A capture for a second account is read by nothing here.",
     },
   ],
 } as const satisfies Module

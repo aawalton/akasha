@@ -2,9 +2,11 @@ import { expect, test } from "bun:test"
 import {
   CATALOG_DOMAIN_PAGE_TYPE_SLUG,
   catalogDomainSlug,
+  isNewerCapture,
   NO_ACCOUNT_WIDE_TABLE,
   NO_CAPTURE_VERSION,
   NO_DOMAIN_PRESENT,
+  newestCaptureByDomain,
   presentCatalogDomainKeys,
   runImportCatalog,
 } from "akasha/temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts"
@@ -198,15 +200,93 @@ test("every page a run reaches is given the same three values", async () => {
   }
 })
 
-test("the first account of a capture holding two is the one read", async () => {
+test("every account of a capture holding two stamps the domains that account holds", async () => {
   const { calls, patch } = recorder((slug) => ({ id: slug }))
   const outcome = await runImportCatalog(TWO_ACCOUNTS, {
     patch,
     now: () => "2026-09-02T00:00:00.000Z",
     report: () => {},
   })
-  expect(outcome.changedSlugs).toEqual(["recipe"])
-  expect(calls[0]?.set.apiVersion).toBe("one")
+  expect(outcome.changedSlugs).toEqual(["recipe", "skill"])
+  expect(calls).toEqual([
+    {
+      slug: "recipe",
+      set: { apiVersion: "one", manifestApiVersion: 1, capturedAt: "2026-09-02T00:00:00.000Z" },
+    },
+    {
+      slug: "skill",
+      set: { apiVersion: "two", manifestApiVersion: 2, capturedAt: "2026-09-02T00:00:00.000Z" },
+    },
+  ])
+})
+
+function capturesOf(
+  accounts: readonly { account: string; apiVersion?: string; manifestApiVersion?: number }[]
+): string {
+  const tables = accounts.map((a) => {
+    const versions = [
+      a.apiVersion === undefined ? "" : `["apiVersion"] = "${a.apiVersion}",`,
+      a.manifestApiVersion === undefined ? "" : `["manifestApiVersion"] = ${a.manifestApiVersion},`,
+    ].join(" ")
+    return `["${a.account}"] = { ["$AccountWide"] = { ${versions} ["skillCatalog"] = { ["b"] = 2 }, }, },`
+  })
+  return `TemperCatalog_SavedVariables =\n{\n    ["Default"] =\n    {\n${tables.join("\n")}\n    },\n}\n`
+}
+
+async function skillStamp(content: string): Promise<Record<string, unknown> | undefined> {
+  const { calls, patch } = recorder((slug) => ({ id: slug }))
+  await runImportCatalog(content, {
+    patch,
+    now: () => "2026-09-02T00:00:00.000Z",
+    report: () => {},
+  })
+  return calls.find((c) => c.slug === "skill")?.set
+}
+
+test("a domain two accounts hold is given the newer capture whichever account comes first", async () => {
+  const older = { account: "@older", apiVersion: "eso.live.12.0.8.1", manifestApiVersion: 101049 }
+  const newer = { account: "@newer", apiVersion: "eso.live.12.0.9.1", manifestApiVersion: 101050 }
+  expect((await skillStamp(capturesOf([older, newer])))?.apiVersion).toBe("eso.live.12.0.9.1")
+  expect((await skillStamp(capturesOf([newer, older])))?.apiVersion).toBe("eso.live.12.0.9.1")
+})
+
+test("an account naming no version is passed over while another account stamps the page", async () => {
+  const set = await skillStamp(
+    capturesOf([
+      { account: "@unversioned" },
+      { account: "@versioned", apiVersion: "eso.live.12.0.8.3288357", manifestApiVersion: 101050 },
+    ])
+  )
+  expect(set?.apiVersion).toBe("eso.live.12.0.8.3288357")
+  expect(set?.manifestApiVersion).toBe(101050)
+})
+
+test("a higher manifestApiVersion is newer whatever the apiVersion says", () => {
+  expect(
+    isNewerCapture(
+      { apiVersion: "eso.live.12.0.1.1", manifestApiVersion: 101050 },
+      { apiVersion: "eso.live.12.0.9.9", manifestApiVersion: 101049 }
+    )
+  ).toBe(true)
+})
+
+test("under one manifestApiVersion the apiVersion is weighed by its numbers rather than its letters", () => {
+  const nine = { apiVersion: "eso.live.12.0.8.999", manifestApiVersion: 101050 }
+  const thousand = { apiVersion: "eso.live.12.0.8.1000", manifestApiVersion: 101050 }
+  expect(isNewerCapture(thousand, nine)).toBe(true)
+  expect(isNewerCapture(nine, thousand)).toBe(false)
+  expect(isNewerCapture(nine, nine)).toBe(false)
+})
+
+test("of captures equally new, the first the saved variables name is taken", () => {
+  const first = {
+    account: "@first",
+    apiVersion: "same",
+    manifestApiVersion: 1,
+    domainKeys: ["skillCatalog"] as const,
+  }
+  const second = { ...first, account: "@second" }
+  expect(newestCaptureByDomain([first, second])).toEqual([{ key: "skillCatalog", capture: first }])
 })
 
 test("a domain whose page came back empty is reported apart from the ones that changed", async () => {

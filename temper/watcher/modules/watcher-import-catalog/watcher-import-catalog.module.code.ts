@@ -3,7 +3,10 @@ import {
   CATALOG_DOMAIN_KEYS,
   type DomainKey,
 } from "akasha/temper/catalog/core/modules/domain-keys/domain-keys.module.code.ts"
-import { readAccountSummaries } from "akasha/temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
+import {
+  type AccountSummary,
+  readAccountSummaries,
+} from "akasha/temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
 
 export const CATALOG_DOMAIN_PAGE_TYPE_SLUG = "temper-catalog-domain"
@@ -51,6 +54,54 @@ export interface ImportCatalogOutcome {
   readonly skipped: string | undefined
 }
 
+interface CatalogCapture {
+  readonly account: string
+  readonly apiVersion: string
+  readonly manifestApiVersion: number
+  readonly domainKeys: readonly DomainKey[]
+}
+
+function versionedCapture(summary: AccountSummary): CatalogCapture | undefined {
+  const { account, apiVersion, manifestApiVersion } = summary
+  if (apiVersion === undefined || manifestApiVersion === undefined) return undefined
+  return {
+    account,
+    apiVersion,
+    manifestApiVersion,
+    domainKeys: presentCatalogDomainKeys(summary.presentDomainKeys),
+  }
+}
+
+const BUILD_ORDER = new Intl.Collator("en", { numeric: true })
+
+export function isNewerCapture(
+  candidate: Pick<CatalogCapture, "apiVersion" | "manifestApiVersion">,
+  held: Pick<CatalogCapture, "apiVersion" | "manifestApiVersion">
+): boolean {
+  if (candidate.manifestApiVersion !== held.manifestApiVersion) {
+    return candidate.manifestApiVersion > held.manifestApiVersion
+  }
+  return BUILD_ORDER.compare(candidate.apiVersion, held.apiVersion) > 0
+}
+
+interface DomainStamp {
+  readonly key: DomainKey
+  readonly capture: CatalogCapture
+}
+
+export function newestCaptureByDomain(captures: readonly CatalogCapture[]): readonly DomainStamp[] {
+  const stamps: DomainStamp[] = []
+  for (const key of CATALOG_DOMAIN_KEYS) {
+    let newest: CatalogCapture | undefined
+    for (const capture of captures) {
+      if (!capture.domainKeys.includes(key)) continue
+      if (newest === undefined || isNewerCapture(capture, newest)) newest = capture
+    }
+    if (newest !== undefined) stamps.push({ key, capture: newest })
+  }
+  return stamps
+}
+
 export async function runImportCatalog(
   content: string,
   deps: ImportCatalogDeps = {}
@@ -59,32 +110,35 @@ export async function runImportCatalog(
   const now = deps.now ?? (() => new Date().toISOString())
   const report = deps.report ?? log
 
-  const summary = readAccountSummaries(content)[0]
-  if (summary === undefined) {
+  const summaries = readAccountSummaries(content)
+  if (summaries.length === 0) {
     throw new Error(NO_ACCOUNT_WIDE_TABLE)
   }
 
-  const { apiVersion, manifestApiVersion } = summary
-  if (apiVersion === undefined || manifestApiVersion === undefined) {
+  const captures = summaries.flatMap((summary) => versionedCapture(summary) ?? [])
+  if (captures.length === 0) {
     report(NO_CAPTURE_VERSION)
     return { changedSlugs: [], absentSlugs: [], skipped: NO_CAPTURE_VERSION }
   }
 
-  const keys = presentCatalogDomainKeys(summary.presentDomainKeys)
-  if (keys.length === 0) {
+  const stamps = newestCaptureByDomain(captures)
+  if (stamps.length === 0) {
     report(NO_DOMAIN_PRESENT)
     return { changedSlugs: [], absentSlugs: [], skipped: NO_DOMAIN_PRESENT }
   }
 
   const capturedAt = now()
-  report(
-    `apiVersion=${apiVersion}, manifestApiVersion=${manifestApiVersion}, ${keys.length} catalog domain(s) present`
-  )
+  for (const capture of captures) {
+    report(
+      `${capture.account}: apiVersion=${capture.apiVersion}, manifestApiVersion=${capture.manifestApiVersion}, ${capture.domainKeys.length} catalog domain(s) present`
+    )
+  }
 
   const changedSlugs: string[] = []
   const absentSlugs: string[] = []
-  for (const key of keys) {
+  for (const { key, capture } of stamps) {
     const slug = catalogDomainSlug(key)
+    const { apiVersion, manifestApiVersion } = capture
     const row = await patch({
       pageTypeSlug: CATALOG_DOMAIN_PAGE_TYPE_SLUG,
       where: [{ key: "slug", eq: slug }],
@@ -96,7 +150,7 @@ export async function runImportCatalog(
       continue
     }
     changedSlugs.push(slug)
-    report(`${slug}: changed to apiVersion=${apiVersion}`)
+    report(`${slug}: changed to apiVersion=${apiVersion} from ${capture.account}`)
   }
 
   return { changedSlugs, absentSlugs, skipped: undefined }
