@@ -15,5 +15,9 @@ export const skillPointSources = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here counts the skill points a character has earned.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A public dungeon is read from its page rather than written here.",
+    },
   ],
 } as const satisfies Module

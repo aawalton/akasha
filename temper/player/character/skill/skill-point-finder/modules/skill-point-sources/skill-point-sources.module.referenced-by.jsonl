@@ -4,5 +4,4 @@
 {"propertySlug":"import","fileName":"skill-point-sources.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"skill-point-sources.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"skill-point-sources.module.code.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-zones/skill-point-finder-zones.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"skill-point-sources.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/skill/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}

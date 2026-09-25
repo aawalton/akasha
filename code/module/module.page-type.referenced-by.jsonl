@@ -5131,6 +5131,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-start/skyshards-start.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-types/skyshards-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/skyshard/modules/skyshards-ui-strings/skyshards-ui-strings.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/world/temper-public-dungeon/modules/public-dungeon-pages/public-dungeon-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/bank-profile-reading/bank-profile-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/bank-trace-reading/bank-trace-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/command/modules/eso-base-game-globals/eso-base-game-globals.module.ts","typed":true,"deferred":false}

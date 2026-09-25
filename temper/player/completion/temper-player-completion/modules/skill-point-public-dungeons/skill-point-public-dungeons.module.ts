@@ -8,39 +8,12 @@ export const skillPointPublicDungeons = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No page has a public dungeon.",
+      decisionKind: "decision-kind/departure",
+      statement: "A public dungeon's label is the title of its page.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A key here the skill point sources do not name is refused by the compiler.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A public dungeon the sources gain is refused here until it is given a label.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "`EveryPublicDungeonIsLabelled` has that second refusal.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Its default type argument is judged where it is declared rather than where it is read.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "Deleting that type takes the refusal away and nothing else fails.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The order these entries are written in is kept by hand rather than taken from the sources.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A source reordered elsewhere leaves these entries where they are and nothing refuses it.",
+      statement: "The public dungeons are in the order their pages give, as the sources are.",
     },
   ],
 } as const satisfies Module

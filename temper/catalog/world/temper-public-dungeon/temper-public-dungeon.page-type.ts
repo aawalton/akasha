@@ -6,7 +6,7 @@ export const temperPublicDungeon = {
   slug: "temper-public-dungeon",
   definition: "an open dungeon whose group event hands each character a skill point",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["text-property/zone-key"],
+  parts: ["module/public-dungeon-pages", "text-property/zone-key"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/eso-zone-id", required: true, many: false },

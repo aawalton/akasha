@@ -1,3 +1,5 @@
+import { PUBLIC_DUNGEON_PAGES } from "akasha/temper/catalog/world/temper-public-dungeon/modules/public-dungeon-pages/public-dungeon-pages.module.code.ts"
+
 export interface ZoneRaw {
   key: string
   quests: number[]
@@ -192,43 +194,9 @@ export const GROUP_DUNGEONS: GroupDungeonEntry[] = [
   { key: "BGF", id: 1552, zone: "SO", quest: 7323 },
 ]
 
-export const PUBLIC_DUNGEONS = [
-  { key: "AD1", id: 486, zone: "AD1", achievement: 468 },
-  { key: "AD2", id: 124, zone: "AD2", achievement: 470 },
-  { key: "AD3", id: 137, zone: "AD3", achievement: 445 },
-  { key: "AD4", id: 138, zone: "AD4", achievement: 460 },
-  { key: "AD5", id: 487, zone: "AD5", achievement: 469 },
-  { key: "DC1", id: 284, zone: "DC1", achievement: 380 },
-  { key: "DC2", id: 142, zone: "DC2", achievement: 714 },
-  { key: "DC3", id: 162, zone: "DC3", achievement: 713 },
-  { key: "DC4", id: 308, zone: "DC4", achievement: 707 },
-  { key: "DC5", id: 169, zone: "DC5", achievement: 708 },
-  { key: "EP1", id: 216, zone: "EP1", achievement: 379 },
-  { key: "EP2", id: 306, zone: "EP2", achievement: 388 },
-  { key: "EP3", id: 134, zone: "EP3", achievement: 372 },
-  { key: "EP4", id: 339, zone: "EP4", achievement: 381 },
-  { key: "EP5", id: 341, zone: "EP5", achievement: 371 },
-  { key: "CH", id: 557, zone: "CH", achievement: 874 },
-  { key: "VFW", id: 919, zone: "VV", achievement: 1855 },
-  { key: "VNC", id: 918, zone: "VV", achievement: 1846 },
-  { key: "WOO", id: 706, zone: "WR", achievement: 1238 },
-  { key: "WRK", id: 705, zone: "WR", achievement: 1235 },
-  { key: "SKW", id: 1020, zone: "SU", achievement: 2096 },
-  { key: "SSH", id: 1021, zone: "SU", achievement: 2095 },
-  { key: "RN", id: 1089, zone: "NE", achievement: 2444 },
-  { key: "OC", id: 1090, zone: "NE", achievement: 2445 },
-  { key: "LT", id: 1186, zone: "WS", achievement: 2714 },
-  { key: "NK", id: 1187, zone: "BGC", achievement: 2715 },
-  { key: "SH", id: 1260, zone: "BW", achievement: 2994 },
-  { key: "ZA", id: 1259, zone: "BW", achievement: 2995 },
-  { key: "GHB", id: 1338, zone: "HI", achievement: 3281 },
-  { key: "SCC", id: 1337, zone: "HI", achievement: 3283 },
-  { key: "GO", id: 1415, zone: "TP", achievement: 3658 },
-  { key: "TU", id: 1416, zone: "AP", achievement: 3657 },
-  { key: "LW", id: 1466, zone: "WW", achievement: 4000 },
-  { key: "SI", id: 1467, zone: "WW", achievement: 4002 },
-  { key: "DG", id: 1514, zone: "SO", achievement: 4264 },
-  { key: "CG", id: 1530, zone: "SO", achievement: 4471 },
-] as const satisfies readonly PublicDungeonEntry[]
-
-export type PublicDungeonKey = (typeof PUBLIC_DUNGEONS)[number]["key"]
+export const PUBLIC_DUNGEONS: readonly PublicDungeonEntry[] = PUBLIC_DUNGEON_PAGES.map((one) => ({
+  key: one.key,
+  id: one.esoZoneId,
+  zone: one.zoneKey,
+  achievement: one.esoAchievementId,
+}))
