@@ -16,6 +16,7 @@ import {
   getTooltipPDTotal,
   getTooltipZoneTotal,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-tooltips/skill-point-finder-tooltips.module.code.ts"
+import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -224,22 +225,32 @@ function rowFont(this: void, fontName: string): string {
   return `${requireOptions().Font.Fonts[fontName] ?? ""}|14`
 }
 
+function paintCell(this: void, label: LabelControl, data: ListLine, fontName: string): undefined {
+  if (data.header === true) {
+    styleText(label, "label")
+    return
+  }
+  styleText(label, "body")
+  label.SetFont(rowFont(fontName))
+  return
+}
+
 export function setupSqsItem(this: void, control: UspfRowControl, data: ListLine): undefined {
   control.data = data
   const zone = control.GetNamedChild<LabelControl>("_Zone")
   const ss = control.GetNamedChild<LabelControl>("_Skyshards")
   const quests = control.GetNamedChild<LabelControl>("_Quests")
-  const font = rowFont(data.header === true ? STATE.settings.title.font : STATE.settings.SQS.font)
+  const fontName = STATE.settings.SQS.font
   if (zone !== undefined) {
-    zone.SetFont(font)
+    paintCell(zone, data, fontName)
     zone.SetText(data.zone ?? "")
   }
   if (quests !== undefined) {
-    quests.SetFont(font)
+    paintCell(quests, data, fontName)
     quests.SetText(data.quests ?? "")
   }
   if (ss !== undefined) {
-    ss.SetFont(font)
+    paintCell(ss, data, fontName)
     ss.SetText(data.skyshards ?? "")
   }
 }
@@ -254,17 +265,16 @@ export function setupGdqItem(
   const zone = control.GetNamedChild<LabelControl>("_Zone")
   const progress = control.GetNamedChild<LabelControl>("_Progress")
   const dungeon = control.GetNamedChild<LabelControl>("_Dungeon")
-  const font = rowFont(data.header === true ? STATE.settings.title.font : entryFontName)
   if (zone !== undefined) {
-    zone.SetFont(font)
+    paintCell(zone, data, entryFontName)
     zone.SetText(data.zone ?? "")
   }
   if (dungeon !== undefined) {
-    dungeon.SetFont(font)
+    paintCell(dungeon, data, entryFontName)
     dungeon.SetText(data.dungeon ?? "")
   }
   if (progress !== undefined) {
-    progress.SetFont(font)
+    paintCell(progress, data, entryFontName)
     progress.SetText(data.progress ?? "")
   }
 }
@@ -273,13 +283,13 @@ export function setupGeneralItem(this: void, control: UspfRowControl, data: List
   control.data = data
   const source = control.GetNamedChild<LabelControl>("_Source")
   const progress = control.GetNamedChild<LabelControl>("_Progress")
-  const font = rowFont(data.header === true ? STATE.settings.title.font : STATE.settings.GSP.font)
+  const fontName = STATE.settings.GSP.font
   if (source !== undefined) {
-    source.SetFont(font)
+    paintCell(source, data, fontName)
     source.SetText(data.source ?? "")
   }
   if (progress !== undefined) {
-    progress.SetFont(font)
+    paintCell(progress, data, fontName)
     progress.SetText(data.progress ?? "")
   }
 }

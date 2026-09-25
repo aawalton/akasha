@@ -37,7 +37,6 @@ export interface FoliumOverride {
 }
 
 export interface Settings {
-  title: { font: string }
   GSP: GeneralColors
   SQS: QuestSkyshardColors
   GDQ: DungeonColors

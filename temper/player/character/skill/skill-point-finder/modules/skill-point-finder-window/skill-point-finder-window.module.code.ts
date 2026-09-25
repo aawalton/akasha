@@ -13,7 +13,6 @@ import {
 import { refreshData } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-points/skill-point-finder-points.module.code.ts"
 import {
   requireGui,
-  requireOptions,
   STATE,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-state/skill-point-finder-state.module.code.ts"
 import {
@@ -63,25 +62,6 @@ export function setupValues(this: void): undefined {
       304 +
       FRAME_PADDING
   )
-
-  const titleFont = requireOptions().Font.Fonts[STATE.settings.title.font] ?? ""
-  const smallFont = `${titleFont}|14`
-
-  TemperCharactersSkillPointFinder_GUI_Body_GSP.SetFont(`${titleFont}|16`)
-  TemperCharactersSkillPointFinder_GUI_Body_GSP_T.SetFont(smallFont)
-
-  TemperCharactersSkillPointFinder_GUI_Body_SQS.SetFont(`${titleFont}|16`)
-  TemperCharactersSkillPointFinder_GUI_Body_SQS_Z_T.SetFont(smallFont)
-  TemperCharactersSkillPointFinder_GUI_Body_SQS_SL_T.SetFont(smallFont)
-  TemperCharactersSkillPointFinder_GUI_Body_SQS_SS_T.SetFont(smallFont)
-
-  TemperCharactersSkillPointFinder_GUI_Body_GDQ.SetFont(`${titleFont}|16`)
-  TemperCharactersSkillPointFinder_GUI_Body_GDQ_T.SetFont(smallFont)
-
-  TemperCharactersSkillPointFinder_GUI_Body_PDGBE.SetFont(`${titleFont}|16`)
-  TemperCharactersSkillPointFinder_GUI_Body_PDGBE_T.SetFont(smallFont)
-
-  TemperCharactersSkillPointFinder_GUI_Footer_CharacterTotal.SetFont(`${titleFont}|24`)
 
   ZO_ScrollList_AddDataType<ListLine, UspfRowControl>(
     TemperCharactersSkillPointFinder_GUI_Body_SQS_ListHolder,

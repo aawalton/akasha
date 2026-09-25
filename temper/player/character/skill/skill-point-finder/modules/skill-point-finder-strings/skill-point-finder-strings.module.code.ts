@@ -5,9 +5,6 @@ export function registerStrings(this: void): undefined {
   const strings: Record<string, string> = {
     SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE: "Font Settings",
 
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE_HEADER: "Title/Footer Font",
-    SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE_DESC: "Set the table header and footer fonts.",
-
     SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_TITLE: "General Skill Points Font",
     SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_ROWS:
       "Set the General Skill Points table row font.",

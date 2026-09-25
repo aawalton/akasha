@@ -11,7 +11,6 @@ import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaratio
 
 function buildDefaultSettings(this: void): Settings {
   return {
-    title: { font: "ProseAntique" },
     GSP: {
       font: "Univers 57",
       doneColor: [1, 1, 1],

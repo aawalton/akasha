@@ -133,16 +133,6 @@ export function setupMenu(this: void, charId: string): undefined {
       name: `|cFF0000${GetString(SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE)}|r`,
       controls: [
         fontDropdown(
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE_HEADER,
-          SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_TITLE_DESC,
-          "full",
-          () => charSettings().title.font,
-          (font) => {
-            charSettings().title.font = font
-            STATE.settings.title.font = font
-          }
-        ),
-        fontDropdown(
           SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_TITLE,
           SI_TEMPER_SKILLPOINTFINDER_SETTINGS_FONT_GSP_ROWS,
           "half",
