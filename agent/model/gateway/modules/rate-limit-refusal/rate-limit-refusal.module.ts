@@ -85,12 +85,8 @@ export const rateLimitRefusal = {
       statement: "Nothing here writes a line.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "The message a client reads is written in English alone.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A reset far ahead is answered a wait no client is expected to honour.",
     },
   ],
 } as const satisfies Module
