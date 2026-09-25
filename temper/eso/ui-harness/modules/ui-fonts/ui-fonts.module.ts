@@ -35,6 +35,10 @@ export const uiFonts = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A face's kerning is read only where the game draws that face kerned.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A face's line is its ascender less its descender, with its line gap added, in its own units.",
     },
