@@ -8,6 +8,7 @@ import type { ProbePath } from "akasha/infrastructure/service/akasha-service/ser
 import type { Replicas } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/replicas.number-property.types.ts"
 import type { ResourceKind } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/resource-kind.text-property.types.ts"
 import type { ResourceName } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/resource-name.text-property.types.ts"
+import type { RuntimeEnv } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/runtime-env.one-of-property.types.ts"
 import type { Secrets } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/secrets.multi-relation-property.types.ts"
 import type { ServiceClusterConfig } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/service-cluster-config.file-property.types.ts"
 import type { ServiceClusterSchedule } from "akasha/infrastructure/service/akasha-service/service-cluster/properties/service-cluster-schedule.text-property.types.ts"
@@ -31,4 +32,5 @@ export type ServiceCluster = AkashaService & {
   workloadClass?: WorkloadClass
   ownsNamespace?: OwnsNamespace
   instanceLabel?: InstanceLabel
+  runtimeEnv?: RuntimeEnv
 }

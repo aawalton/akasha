@@ -304,6 +304,8 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/probe-path.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/resource-kind.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/resource-name.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env-name.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env-value.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-cluster/properties/service-cluster-schedule.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/python-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"infrastructure/service/akasha-service/service-inference/properties/runs.text-property.ts","typed":true,"deferred":false}

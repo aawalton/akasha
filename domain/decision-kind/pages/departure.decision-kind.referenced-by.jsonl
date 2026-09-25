@@ -2908,10 +2908,15 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/replicas.number-property.ts","id":"01a05b26-f8b6-7a90-82f8-63a141d99dab"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/resource-kind.text-property.ts","id":"01a05a41-58c4-774b-900e-126b3c832eb0"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/resource-name.text-property.ts","id":"01a05a41-58c5-7070-8223-2b245078d3b9"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env-name.text-property.ts","id":"01a0d5dd-3f40-7773-b267-d31556887adf"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env-secret.record-property.ts","id":"01a0d5dd-3f41-754b-956e-7374c84cce06"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env.one-of-property.ts","id":"01a0d5dd-3f41-7376-a101-938edc58da31"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/secret-runtime-env.record-property.ts","id":"01a0d5dd-3f42-73e0-a5fa-6adebc5c3add"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/secrets.multi-relation-property.ts","id":"01a081fd-c5ac-72ac-acff-a780301c30e4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-cluster-config.file-property.ts","id":"01a07c92-3daf-72f1-8010-749415723ba4"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-cluster-schedule.text-property.ts","id":"01a06587-c73c-74e9-8542-4de33139539f"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/service-manifest.multi-relation-property.ts","id":"01a07317-ae51-7f69-a24e-d94859315637"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/stated-runtime-env.record-property.ts","id":"01a0d5dd-3f42-7870-a29e-2742cdeb028d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/workload-class.select-property.ts","id":"01a0d5db-7609-762b-bbb3-3c592212a5db"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.ts","id":"01a090a6-f40b-7abe-a439-ebc9274ece2a"}

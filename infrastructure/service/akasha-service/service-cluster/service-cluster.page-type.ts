@@ -66,6 +66,12 @@ export const serviceCluster = {
     "select-property/workload-class",
     "boolean-property/owns-namespace",
     "text-property/instance-label",
+    "one-of-property/runtime-env",
+    "record-property/stated-runtime-env",
+    "record-property/secret-runtime-env",
+    "record-property/runtime-env-secret",
+    "text-property/runtime-env-name",
+    "text-property/runtime-env-value",
   ],
   properties: [
     { pageProperty: "text-property/resource-kind", required: true, many: false },
@@ -98,6 +104,7 @@ export const serviceCluster = {
     { pageProperty: "select-property/workload-class", required: false, many: false },
     { pageProperty: "boolean-property/owns-namespace", required: false, many: false },
     { pageProperty: "text-property/instance-label", required: false, many: false },
+    { pageProperty: "one-of-property/runtime-env", required: false, many: true, maxCount: null },
   ],
   decisions: [
     {

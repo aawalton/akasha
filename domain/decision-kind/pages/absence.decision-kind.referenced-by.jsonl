@@ -1521,6 +1521,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.ts","id":"01a05af7-5996-7001-8793-177eb8ddfa66"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/eso-rig/eso-rig.service-cluster.ts","id":"01a06866-58f8-774b-9824-ef1ea3f4ea3d"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/pages/loki/loki.service-cluster.ts","id":"01a06816-68b2-782a-9997-af90e9fdae8a"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/properties/runtime-env-value.text-property.ts","id":"01a0d5dd-3f41-7845-9fa2-a7038fc2cdc0"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-cluster/service-cluster.page-type.ts","id":"01a05a41-58c2-7cbb-bfed-c234697164e3"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-inference/modules/inference-reading/inference-reading.module.ts","id":"01a090a6-f40b-7abe-a439-ebc9274ece2a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-inference/properties/internal-port.number-property.ts","id":"01a09095-0971-7e89-b75c-e674e97797c4"}
