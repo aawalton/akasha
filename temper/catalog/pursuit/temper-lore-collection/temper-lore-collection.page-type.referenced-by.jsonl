@@ -35,6 +35,7 @@
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/tamriel-history/tamriel-history.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/the-rift-lore/the-rift-lore.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/the-trial-of-eyevea/the-trial-of-eyevea.temper-lore-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/trinimac-style/trinimac-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/xivkyn-style/xivkyn-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/yokudan-style/yokudan-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
