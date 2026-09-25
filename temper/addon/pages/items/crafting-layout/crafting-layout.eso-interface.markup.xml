@@ -73,7 +73,7 @@
         </Button>
         <Button name="$(parent)OptionButton" clickSound="Click">
           <Anchor point="8" relativePoint="2" relativeTo="$(parent)CloseButton" offsetX="-5"/>
-          <Dimensions y="35" x="35"/>
+          <Dimensions y="32" x="32"/>
           <Textures normal="esoui/art/chatwindow/chat_options_up.dds" pressed="esoui/art/chatwindow/chat_options_down.dds" mouseOver="esoui/art/chatwindow/chat_options_over.dds"/>
           <OnClicked>TemperItemsCrafting.OpenSettings()</OnClicked>
         </Button>
@@ -320,7 +320,7 @@
         </Button>	
         <Backdrop name="$(parent)FenceGold" centerColor="101010" edgeColor="202020">
           <Edge edgeSize="1"/>
-          <Anchor point="3" relativePoint="6" relativeTo="$(parent)Traitrow9" offsetY="10"/>
+          <Anchor point="3" relativePoint="6" relativeTo="$(parent)Traitrow9" offsetY="8"/>
           <Dimensions x="171" y="42"/>
           <Controls>
             <Button name="$(parent)Text" horizontalAlignment="1" verticalAlignment="1" font="TemperItemsCraftingFont">
@@ -333,7 +333,7 @@
         </Backdrop>
         <Button name="$(parent)12Hours" horizontalAlignment="1" verticalAlignment="1" font="TemperFontHeading">
           <FontColors normalColor="E8DFAF" mouseOverColor="FFAA33"/>
-          <Anchor point="3" relativePoint="6" relativeTo="$(parent)Traitrow18" offsetY="10"/>
+          <Anchor point="3" relativePoint="6" relativeTo="$(parent)Traitrow18" offsetY="8"/>
           <Dimensions x="85" y="37"/>
           <Controls>
             <Backdrop name="$(parent)BG" centerColor="101010" edgeColor="202020">
@@ -425,7 +425,7 @@
         </Button>
         <Button name="$(parent)ButtonCharacters" horizontalAlignment="1" verticalAlignment="1" font="TemperFontHeading" clickSound="Click">
           <FontColors normalColor="E8DFAF" mouseOverColor="FFAA33"/>
-          <Anchor point="6" relativePoint="12" relativeTo="$(parent)ButtonBlueprint" offsetX="10"/>
+          <Anchor point="6" relativePoint="12" relativeTo="$(parent)ButtonBlueprint" offsetX="8"/>
           <Dimensions x="344" y="49"/>
           <Controls>
             <Backdrop name="$(parent)BG" centerColor="101010" edgeColor="202020">
@@ -439,7 +439,7 @@
         </Button>
 		<Button name="$(parent)ButtonCraftedSets" horizontalAlignment="1" verticalAlignment="1" font="TemperFontHeading" clickSound="Click">
           <FontColors normalColor="E8DFAF" mouseOverColor="FFAA33"/>
-          <Anchor point="2" relativePoint="8" relativeTo="$(parent)ButtonCharacters" offsetY="6" offsetX="10"/>
+          <Anchor point="2" relativePoint="8" relativeTo="$(parent)ButtonCharacters" offsetY="6" offsetX="8"/>
           <Dimensions x="288" y="37"/>
           <Controls>
             <Backdrop name="$(parent)BG" centerColor="101010" edgeColor="202020">
@@ -816,7 +816,7 @@
         </Backdrop>
 		
         <Backdrop name="$(parent)Research1Header" centerColor="101010" edgeColor="202020">
-          <Anchor point="3" relativePoint="6" relativeTo="$(parent)Research2Window" offsetY="15"/>
+          <Anchor point="3" relativePoint="6" relativeTo="$(parent)Research2Window" offsetY="16"/>
           <Dimensions x="288" y="30"/>
           <Edge edgeSize="1"/>
           <Controls>
@@ -882,7 +882,7 @@
         </Backdrop>
 		
         <Backdrop name="$(parent)Research6Header" centerColor="101010" edgeColor="202020">
-          <Anchor point="3" relativePoint="6" relativeTo="$(parent)Research1Window" offsetY="15"/>
+          <Anchor point="3" relativePoint="6" relativeTo="$(parent)Research1Window" offsetY="16"/>
           <Dimensions x="288" y="30"/>
           <Edge edgeSize="1"/>
           <Controls>
