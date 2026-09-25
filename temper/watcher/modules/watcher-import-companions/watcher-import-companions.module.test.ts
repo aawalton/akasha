@@ -6,8 +6,10 @@ import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companio
 import { createNewCompanion } from "akasha/temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
+import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   COMPANION_IDS_WITH_DEF_ID,
+  type CompanionBuildFiler,
   type CompanionImportPorts,
   companionBuildName,
   type PageUpsert,
@@ -102,25 +104,35 @@ function refusingSupabase(message: string): SignedInReader {
   }
 }
 
-function recordingPorts(): {
+type Filing = { accountPage: string; hash: string; companionId: string; name: string }
+
+function recordingPorts(wrote = true): {
   ports: CompanionImportPorts
   reported: string[]
   warned: string[]
   writes: Record<string, unknown>[]
+  filings: Filing[]
 } {
   const reported: string[] = []
   const warned: string[] = []
   const writes: Record<string, unknown>[] = []
+  const filings: Filing[] = []
+  const file: CompanionBuildFiler = async (accountPage, hash, build) => {
+    filings.push({ accountPage, hash, companionId: build.companion.id, name: build.name })
+    return { buildId: buildId("build-1"), wrote }
+  }
   return {
     ports: {
       upsert: collectingUpsert(writes),
       report: (line) => reported.push(line),
       warn: (line) => warned.push(line),
       addressOf: async () => ADDRESS,
+      file,
     },
     reported,
     warned,
     writes,
+    filings,
   }
 }
 
@@ -218,7 +230,7 @@ test("the companions given a progress page are the ones the game names by defini
   ])
 })
 
-test("one run over three entries reports the same lines the legacy script reported", async () => {
+test("one run over three entries reports each companion and what it wrote", async () => {
   const { ports, reported, warned } = recordingPorts()
   await runImportCompanions(THREE_ENTRY_FILE, noSupabase(), { userId: "alan" }, ports)
   expect(warned).toEqual(["  Unknown companion ID 77, skipping"])
@@ -226,11 +238,45 @@ test("one run over three entries reports the same lines the legacy script report
     "Found 2 companion(s).\n",
     "Pre-created 8 companion pages\n",
     '  Bastian Hallix: failed to decode hash "nonsense", skipping',
-    `  Ember: captured hash ${EMBER_HASH}`,
+    `  Ember: hash ${EMBER_HASH} is now live build build-1`,
     "\n=== Summary ===",
     "  Captured: 1",
+    "  Written:  1",
     "  Skipped:  1",
   ])
+})
+
+test("each capture is filed under the account's address by its canonical hash", async () => {
+  const { ports, filings } = recordingPorts()
+  await runImportCompanions(THREE_ENTRY_FILE, noSupabase(), { userId: "alan" }, ports)
+  expect(
+    filings.map(({ accountPage, hash, companionId }) => [accountPage, hash, companionId])
+  ).toEqual([[ADDRESS, EMBER_HASH, "ember"]])
+  expect(filings[0]?.name.startsWith("Ember ")).toBe(true)
+})
+
+test("a capture already the live build is reported and counted as no write", async () => {
+  const { ports, reported } = recordingPorts(false)
+  await runImportCompanions(THREE_ENTRY_FILE, noSupabase(), { userId: "alan" }, ports)
+  expect(reported).toContain(`  Ember: hash ${EMBER_HASH} already was live build build-1`)
+  expect(reported).toContain("  Written:  0")
+})
+
+test("a capture whose filing fails is warned of and the run goes on", async () => {
+  const { ports, reported, warned } = recordingPorts()
+  const refusing: CompanionBuildFiler = async () => {
+    throw new Error("page-service is down")
+  }
+  await runImportCompanions(
+    THREE_ENTRY_FILE,
+    noSupabase(),
+    { userId: "alan" },
+    { ...ports, file: refusing }
+  )
+  expect(warned).toContain(
+    `  Ember: hash ${EMBER_HASH} reached no live build: page-service is down`
+  )
+  expect(reported).toContain("  Written:  0")
 })
 
 test("one run writes the account page and then a progress page per companion", async () => {

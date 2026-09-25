@@ -86,8 +86,25 @@ export const watcherImportCompanions = {
       statement: "Nothing here opens the saved-variables file.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "The canonical hash a build reads back as reaches no page.",
+      decisionKind: "decision-kind/departure",
+      statement: "The canonical hash a build reads back as is filed as the companion's live build.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A build is filed by `companion-build-filing` unless the caller states another filer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build is filed only after every progress page is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build that could not be filed is warned of, and the next companion is filed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The summary counts the captures that changed a companion's live build.",
     },
   ],
 } as const satisfies Module

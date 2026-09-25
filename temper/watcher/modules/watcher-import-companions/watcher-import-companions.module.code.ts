@@ -15,7 +15,14 @@ import {
   decodeCompanion,
   encodeCompanion,
 } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
-import { buildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import {
+  type FiledCompanionBuild,
+  fileLiveCompanionBuild,
+} from "akasha/temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts"
+import {
+  type BuildHash,
+  buildHash,
+} from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { accountAddressOf } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
 import { resolveAccountPageId } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import {
@@ -37,11 +44,18 @@ export type PageUpsert = typeof upsertPage
 
 export type AccountAddressOf = (userId: string) => Promise<string>
 
+export type CompanionBuildFiler = (
+  accountPage: string,
+  hash: BuildHash,
+  build: CompanionState
+) => Promise<FiledCompanionBuild>
+
 export interface CompanionImportPorts {
   readonly upsert?: PageUpsert
   readonly report?: (line: string) => void
   readonly warn?: (line: string) => void
   readonly addressOf?: AccountAddressOf
+  readonly file?: CompanionBuildFiler
 }
 
 export interface CompanionHashEntry {
@@ -65,6 +79,7 @@ export interface CompanionImportCapture {
   readonly companionId: CompanionId
   readonly companionName: string
   readonly canonicalHash: string
+  readonly build: CompanionState
 }
 
 export type CompanionImportAction = CompanionImportSkip | CompanionImportCapture
@@ -151,6 +166,7 @@ export function planCompanionImport(reading: CompanionSavedVariables): Companion
       companionId: entry.companionId,
       companionName,
       canonicalHash: encodeCompanion(decoded),
+      build: decoded,
     }
   })
 
@@ -161,7 +177,7 @@ async function writeCompanionProgressPages(
   userId: string,
   upsert: PageUpsert,
   addressOf: AccountAddressOf
-): Promise<void> {
+): Promise<string> {
   await resolveAccountPageId(userId, upsert)
   const accountPage = await addressOf(userId)
 
@@ -176,6 +192,27 @@ async function writeCompanionProgressPages(
       set: { ...named, accountPage },
       select: ["id"],
     })
+  }
+  return accountPage
+}
+
+async function fileCapture(
+  capture: CompanionImportCapture,
+  accountPage: string,
+  file: CompanionBuildFiler,
+  report: (line: string) => void,
+  warn: (line: string) => void
+): Promise<boolean> {
+  const hash = capture.canonicalHash
+  try {
+    const filed = await file(accountPage, buildHash(hash), capture.build)
+    const how = filed.wrote ? "is now" : "already was"
+    report(`  ${capture.companionName}: hash ${hash} ${how} live build ${filed.buildId}`)
+    return filed.wrote
+  } catch (e) {
+    const why = e instanceof Error ? e.message : String(e)
+    warn(`  ${capture.companionName}: hash ${hash} reached no live build: ${why}`)
+    return false
   }
 }
 
@@ -210,7 +247,11 @@ export async function runImportCompanions(
 
   const userId = await userIdFor(supabase, options.userId, "write these companions")
 
-  await writeCompanionProgressPages(userId, upsert, ports.addressOf ?? accountAddressOf)
+  const accountPage = await writeCompanionProgressPages(
+    userId,
+    upsert,
+    ports.addressOf ?? accountAddressOf
+  )
 
   report(`Pre-created ${COMPANION_IDS_WITH_DEF_ID.length} companion pages\n`)
 
@@ -218,11 +259,14 @@ export async function runImportCompanions(
     report(`  ${skip.companionName}: ${skip.reason}, skipping`)
   }
 
+  const file = ports.file ?? fileLiveCompanionBuild
+  let written = 0
   for (const capture of captures) {
-    report(`  ${capture.companionName}: captured hash ${capture.canonicalHash}`)
+    if (await fileCapture(capture, accountPage, file, report, warn)) written++
   }
 
   report(`\n=== Summary ===`)
   report(`  Captured: ${captures.length}`)
+  report(`  Written:  ${written}`)
   if (skips.length > 0) report(`  Skipped:  ${skips.length}`)
 }
