@@ -115,6 +115,7 @@ test("an awk reading akasha without writing it is let through", () => {
 
 test("an in-place edit outside the guarded roots is let through", () => {
   expect(said("perl -pi /var/tmp/edit.pl /var/tmp/x")).toBeNull()
+  expect(said("sed -i 's/a/b/' /var/tmp/x")).toBeNull()
 })
 
 test("a redirect is no operand of the call it is written beside", () => {

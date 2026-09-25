@@ -74,6 +74,10 @@ const CARRYING_A_VALUE = new Set(["S", "t"])
 
 const IN_PLACE = new Set(["sed", "perl", "ruby", "awk", "gawk", "mawk"])
 
+const SCRIPTING = new Set(["-e", "-E", "--expression", "-f", "--file"])
+
+const VALUED_IN_PLACE = new Set(["-v", "-F"])
+
 const IN_PLACE_LONG = "--in-place"
 
 const IN_PLACE_FLAG = /^-[0-9a-z]*i[0-9a-z.]*$/
@@ -142,6 +146,19 @@ function pastRedirects(words: readonly string[]): readonly string[] {
 
 function operandsOf(words: readonly string[]): readonly string[] {
   return pastRedirects(words.slice(1)).filter((one) => !one.startsWith("-"))
+}
+
+function editedOf(words: readonly string[]): readonly string[] {
+  const kept = pastRedirects(words.slice(1))
+  const found: string[] = []
+  let scripted = false
+  for (let at = 0; at < kept.length; at += 1) {
+    const one = kept[at] ?? ""
+    if (SCRIPTING.has(one)) scripted = true
+    if (SCRIPTING.has(one) || VALUED_IN_PLACE.has(one)) at += 1
+    else if (!one.startsWith("-")) found.push(one)
+  }
+  return scripted ? found : found.slice(1)
 }
 
 export function editsInPlace(words: readonly string[]): boolean {
@@ -215,7 +232,8 @@ export function landingsIn(command: string): readonly Landing[] {
         MAKING.has(tool) ||
         (IN_PLACE.has(tool) && editsInPlace(words))
       ) {
-        for (const one of operandsOf(words)) found.push({ at: one, how: tool })
+        const edited = IN_PLACE.has(tool) ? editedOf(words) : operandsOf(words)
+        for (const one of edited) found.push({ at: one, how: tool })
       }
       if (tool === DD) {
         for (const word of words.slice(1)) {

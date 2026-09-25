@@ -30,6 +30,10 @@ export const blockAkashaShellWrites = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The script such a tool is handed is no path that tool writes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A descriptor redirected onto another descriptor is no path.",
     },
     {
