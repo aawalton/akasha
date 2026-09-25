@@ -5,7 +5,7 @@ export const conversationImages = {
   type: "page-type/number-property",
   slug: "conversation-images",
   propertySlug: "images",
-  definition: "how many images a person attached to what that person said",
+  definition: "the number of images a person sends with the words",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty
