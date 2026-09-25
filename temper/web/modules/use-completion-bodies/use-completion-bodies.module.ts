@@ -26,6 +26,14 @@ export const useCompletionBodies = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A body is parsed with the schema the view hands in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A body the schema refuses is an error rather than a completion.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The rows a listing draws are read apart from the bodies those rows have.",
     },
     {

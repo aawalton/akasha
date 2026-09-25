@@ -2,29 +2,26 @@
 
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { useEffect, useState } from "react"
-import { z } from "zod"
+import type { z } from "zod"
 
 const COMPLETION = "completion"
 
-const COMPLETION_BODY = z.record(z.string(), z.unknown())
-
 const ENDING = "json"
 
-export type CompletionBodies = ReadonlyMap<string, unknown>
+const NOTHING: ReadonlyMap<string, never> = new Map<string, never>()
 
-const NOTHING: CompletionBodies = new Map()
-
-export interface CompletionBodiesResult {
-  bodies: CompletionBodies
+interface CompletionBodiesResult<Body> {
+  bodies: ReadonlyMap<string, Body>
   isLoading: boolean
   error: Error | null
 }
 
-async function bodiesOf(
+async function bodiesOf<Body>(
   pageTypeSlug: string,
   ownerKey: string,
-  ownerId: string
-): Promise<CompletionBodies> {
+  ownerId: string,
+  shape: z.ZodType<Body>
+): Promise<ReadonlyMap<string, Body>> {
   const asked = await askComposed({
     "page-type": pageTypeSlug,
     where: { [ownerKey]: { is: ownerId } },
@@ -33,7 +30,7 @@ async function bodiesOf(
   })
   if (!asked.ok) throw new Error(asked.why)
 
-  const held = new Map<string, unknown>()
+  const held = new Map<string, Body>()
   for (const row of asked.answer.rows) {
     const id = row.values.id
     const body = row.values[COMPLETION]
@@ -43,17 +40,24 @@ async function bodiesOf(
         `\`${COMPLETION}\` came back as the ending \`${ENDING}\` rather than the body of the file beside ${pageTypeSlug} ${id}, so the query did not name it under \`files\`.`
       )
     }
-    held.set(id, COMPLETION_BODY.parse(JSON.parse(body)))
+    const parsed = shape.safeParse(JSON.parse(body))
+    if (!parsed.success) {
+      throw new Error(
+        `the completion beside ${pageTypeSlug} ${id} is not a completion this view can read: ${parsed.error.message}`
+      )
+    }
+    held.set(id, parsed.data)
   }
   return held
 }
 
-export function useCompletionBodies(
+export function useCompletionBodies<Body>(
   pageTypeSlug: string,
   ownerKey: string,
-  ownerId: string | null
-): CompletionBodiesResult {
-  const [bodies, setBodies] = useState<CompletionBodies>(NOTHING)
+  ownerId: string | null,
+  shape: z.ZodType<Body>
+): CompletionBodiesResult<Body> {
+  const [bodies, setBodies] = useState<ReadonlyMap<string, Body>>(NOTHING)
   const [isLoading, setIsLoading] = useState(ownerId != null)
   const [error, setError] = useState<Error | null>(null)
 
@@ -69,7 +73,7 @@ export function useCompletionBodies(
     setError(null)
     void (async () => {
       try {
-        const held = await bodiesOf(pageTypeSlug, ownerKey, ownerId)
+        const held = await bodiesOf(pageTypeSlug, ownerKey, ownerId, shape)
         if (dropped) return
         setBodies(held)
         setIsLoading(false)
@@ -83,7 +87,7 @@ export function useCompletionBodies(
     return () => {
       dropped = true
     }
-  }, [pageTypeSlug, ownerKey, ownerId])
+  }, [pageTypeSlug, ownerKey, ownerId, shape])
 
   return { bodies, isLoading, error }
 }

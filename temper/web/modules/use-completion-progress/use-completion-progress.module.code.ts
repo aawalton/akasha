@@ -1,9 +1,9 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
-import type {
-  AccountCompletion,
-  CharacterCompletion,
-  CompanionCompletion,
+import {
+  accountCompletionSchema,
+  characterCompletionSchema,
+  companionCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type {
   AccountSummaryData,
@@ -64,9 +64,24 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
   const ownUserId = useUserId()
   const readerId = viewUserId ?? ownUserId
   const readerAccount = useAccountAddress(readerId)
-  const characterBodies = useCompletionBodies(CHARACTER_TYPE, OWNER_KEY, readerAccount.address)
-  const companionBodies = useCompletionBodies(COMPANION_TYPE, OWNER_KEY, readerAccount.address)
-  const accountBodies = useCompletionBodies(ACCOUNT_TYPE, ACCOUNT_OWNER_KEY, readerId)
+  const characterBodies = useCompletionBodies(
+    CHARACTER_TYPE,
+    OWNER_KEY,
+    readerAccount.address,
+    characterCompletionSchema
+  )
+  const companionBodies = useCompletionBodies(
+    COMPANION_TYPE,
+    OWNER_KEY,
+    readerAccount.address,
+    companionCompletionSchema
+  )
+  const accountBodies = useCompletionBodies(
+    ACCOUNT_TYPE,
+    ACCOUNT_OWNER_KEY,
+    readerId,
+    accountCompletionSchema
+  )
 
   const { characters: bareRows } = viewUserId != null ? viewCharacters : ownCharacters
   const { companions: bareCompanionRows } = viewUserId != null ? viewCompanions : ownCompanions
@@ -75,7 +90,7 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
     () =>
       bareRows.map((row) => ({
         ...row,
-        completion: (characterBodies.bodies.get(row.id) as CharacterCompletion | undefined) ?? null,
+        completion: characterBodies.bodies.get(row.id) ?? null,
       })),
     [bareRows, characterBodies.bodies]
   )
@@ -83,12 +98,12 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
     () =>
       bareCompanionRows.map((row) => ({
         ...row,
-        completion: (companionBodies.bodies.get(row.id) as CompanionCompletion | undefined) ?? null,
+        completion: companionBodies.bodies.get(row.id) ?? null,
       })),
     [bareCompanionRows, companionBodies.bodies]
   )
   const accountCompletion = useMemo(() => {
-    for (const body of accountBodies.bodies.values()) return body as AccountCompletion
+    for (const body of accountBodies.bodies.values()) return body
     return null
   }, [accountBodies.bodies])
 
