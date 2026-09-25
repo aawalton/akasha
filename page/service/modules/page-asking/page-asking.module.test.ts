@@ -355,3 +355,18 @@ test("a question refused answers no commit", () => {
   const asked = askingAt(root, { pageTypeSlug: "no-such-page-type-anywhere" })
   expect("refused" in asked && !("at" in asked)).toBe(true)
 })
+
+const GAP_AT = "domain/decision-kind/pages/gap.decision-kind.ts"
+
+test("a question matching a page withheld from the asker is refused whole", () => {
+  const asked = asking(root, { pageTypeSlug: "decision-kind", limit: 0 }, [GAP_AT])
+  expect("refused" in asked && asked.withheld).toBe(true)
+  expect("refused" in asked && asked.refused).toContain("Ask your game's world builder")
+})
+
+test("a question matching no withheld page is answered", () => {
+  const asked = asking(root, { pageTypeSlug: "decision-kind", where: { slug: { is: "upkeep" } } }, [
+    GAP_AT,
+  ])
+  expect(slugsOf(asked)).toEqual(["upkeep"])
+})

@@ -261,7 +261,8 @@ export async function answering(given: Serving, request: Request): Promise<Respo
   }
   const read = queryIn(body)
   if ("refused" in read) return said({ refused: read.refused }, 400)
-  const answered = askingAt(given.root, read.query)
+  const answered = askingAt(given.root, read.query, askerOf(request))
+  if ("refused" in answered && answered.withheld) return said({ refused: answered.refused }, 403)
   if ("refused" in answered) return refusedAs(answered)
   if (answered.read !== undefined) keptReads(given.root, answered.read)
   const within = answeringWithin(read.query, answered, given.answeredAtMost)

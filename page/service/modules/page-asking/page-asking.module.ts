@@ -257,6 +257,23 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A question for a game master's seat matching lore the world builder holds is refused whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page matching counts, so no count or skip lets that lore through.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That refusal is worded as the refusal of a game master's call reaching lore is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question narrowed past every withheld page is answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A question asked in the caller's own process reads no commit.",
     },
   ],

@@ -1,3 +1,4 @@
+import { join } from "node:path"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import {
   listedAt,
@@ -32,6 +33,11 @@ import {
   weigh,
 } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
+import {
+  WITHHELD,
+  withheldAt,
+  withheldFor,
+} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -57,7 +63,9 @@ export type Asked =
       readonly read?: Reads
       readonly at?: string
     }
-  | { readonly refused: string }
+  | { readonly refused: string; readonly withheld?: true }
+
+const LORE_REFUSED = WITHHELD.join("\n")
 
 export function askedFor(query: Query): readonly (readonly [string, string])[] {
   const wanted: (readonly [string, string])[] = []
@@ -195,12 +203,29 @@ export function answeringWithin(
   return { said: `{"rows":[${held.join(",")}],"n":${asked.n}${at}}` }
 }
 
-function countedFirst(root: string, query: Query, counting: readonly Counting[]): Faulted<Asked> {
+function loreRefused(
+  root: string,
+  sorted: readonly Valued[],
+  withheld: readonly string[]
+): Faulted<Asked> | null {
+  if (withheld.length === 0) return null
+  if (!sorted.some((one) => withheldAt(join(root, one.path), withheld))) return null
+  return { refused: LORE_REFUSED, withheld: true, fault: "caller" }
+}
+
+function countedFirst(
+  root: string,
+  query: Query,
+  counting: readonly Counting[],
+  withheld: readonly string[]
+): Faulted<Asked> {
   const counted = computedInto(root, counting)
   const darkened = unlit(query, counted.dark)
   if (darkened !== null) return { refused: darkened, fault: "service" }
   const held = counted.rows.filter((one) => narrows(one.value, query.where))
   const sorted = orderedIn(query, held)
+  const lore = loreRefused(root, sorted, withheld)
+  if (lore !== null) return lore
   return answering(query, takenIn(query, sorted), sorted.length, counted.read)
 }
 
@@ -208,11 +233,14 @@ function narrowedFirst(
   root: string,
   query: Query,
   counting: readonly Counting[],
-  working: boolean
+  working: boolean,
+  withheld: readonly string[]
 ): Faulted<Asked> {
   const rows = counting.map((one) => one.row)
   const held = rows.filter((one) => narrows(one.value, query.where))
   const sorted = orderedIn(query, held)
+  const lore = loreRefused(root, sorted, withheld)
+  if (lore !== null) return lore
   const taken = takenIn(query, sorted)
   if (!working) return answering(query, taken, sorted.length)
   const counted = computedOver(root, counting, taken)
@@ -221,7 +249,11 @@ function narrowedFirst(
   return answering(query, counted.rows, sorted.length, counted.read)
 }
 
-export function asking(root: string, query: Query): Faulted<Asked> {
+export function asking(
+  root: string,
+  query: Query,
+  withheld: readonly string[] = []
+): Faulted<Asked> {
   const { limit, offset } = query
   if (limit !== undefined && (!Number.isInteger(limit) || limit < 0)) {
     const refused = `a limit is a whole number that is not below nothing, and ${limit} is not`
@@ -258,15 +290,15 @@ export function asking(root: string, query: Query): Faulted<Asked> {
       const computed = one.computed.every(answered) ? one.computed : one.computed.filter(answered)
       return row === one.row && computed === one.computed ? one : { row, computed }
     })
-    if (narrowsOn(query, worked)) return countedFirst(root, query, counting)
-    return narrowedFirst(root, query, counting, carriesWorked(query, worked))
+    if (narrowsOn(query, worked)) return countedFirst(root, query, counting, withheld)
+    return narrowedFirst(root, query, counting, carriesWorked(query, worked), withheld)
   } catch (thrown) {
     return { refused: thrown instanceof Error ? thrown.message : String(thrown), fault: "service" }
   }
 }
 
-export function askingAt(root: string, query: Query): Faulted<Asked> {
+export function askingAt(root: string, query: Query, asker: string | null = null): Faulted<Asked> {
   const at = baseOf(root)
-  const asked = asking(root, query)
+  const asked = asking(root, query, withheldFor(root, asker))
   return "refused" in asked ? asked : { ...asked, at }
 }

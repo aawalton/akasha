@@ -96,7 +96,7 @@ export const pageServing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read withheld as lore is answered as forbidden, as a secret is.",
+      statement: "A read or a question withheld as lore is answered as forbidden, as a secret is.",
     },
     {
       decisionKind: "decision-kind/departure",
