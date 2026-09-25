@@ -23,6 +23,7 @@ import {
   SETTING,
   UNIT,
   UNIT_BUFF,
+  UNIT_POWER,
   ZONE,
   ZONE_INDEX,
 } from "akasha/temper/capture/player-answer/modules/player-asking-shapes/player-asking-shapes.module.code.ts"
@@ -73,6 +74,13 @@ const LOCATIONS: readonly string[] = [
   "CURRENCY_LOCATION_BANK",
   "CURRENCY_LOCATION_ACCOUNT",
   "CURRENCY_LOCATION_GUILD_BANK",
+]
+
+const POWERS: readonly string[] = [
+  "COMBAT_MECHANIC_FLAGS_HEALTH",
+  "COMBAT_MECHANIC_FLAGS_MAGICKA",
+  "COMBAT_MECHANIC_FLAGS_STAMINA",
+  "COMBAT_MECHANIC_FLAGS_ULTIMATE",
 ]
 
 const DEVICES: readonly string[] = [
@@ -253,8 +261,10 @@ function askingsNow(this: void): Asking[] {
     return undefined
   }
   add(NO_VALUES, [])
+  const powers = constantsOf(POWERS)
   for (const unit of UNITS) {
     add(UNIT, [unit])
+    for (const power of powers) add(UNIT_POWER, [unit, power])
     for (const buff of fromTo(FIRST, numberOf("GetNumBuffs", [unit]))) add(UNIT_BUFF, [unit, buff])
   }
   bagAskings(add)

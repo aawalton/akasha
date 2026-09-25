@@ -4,6 +4,8 @@ export const UNIT = "unitTag"
 
 export const UNIT_BUFF = "unitTag,buffIndex"
 
+export const UNIT_POWER = "unitTag,powerType"
+
 export const BAG = "bagId"
 
 export const BAG_SLOT = "bagId,slotIndex"
@@ -52,6 +54,7 @@ export const ASKED_SHAPES: readonly string[] = [
   NO_VALUES,
   UNIT,
   UNIT_BUFF,
+  UNIT_POWER,
   BAG,
   BAG_SLOT,
   ITEM_LINK,

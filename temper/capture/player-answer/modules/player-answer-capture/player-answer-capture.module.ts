@@ -34,6 +34,10 @@ export const playerAnswerCapture = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each unit is asked about its health, magicka, stamina and ultimate.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every setting id up to 127 is asked about under every setting system.",
     },
     {
