@@ -4,7 +4,7 @@ export const inferenceCommand = {
   id: "01a0685e-fd50-7e21-9c04-6b31a0f2c7de",
   type: "page-type/domain",
   slug: "inference-command",
-  definition: "what an agent runs by name over the models the inference hosts serve",
+  definition: "the commands an agent runs on the models",
   parts: ["module/inference-answering"],
   decisions: [
     {
