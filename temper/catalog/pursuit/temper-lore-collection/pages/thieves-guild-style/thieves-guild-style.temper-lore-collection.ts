@@ -1,0 +1,15 @@
+import type { TemperLoreCollection } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-collection.page-type.types.ts"
+
+export const thievesGuildStyle = {
+  id: "01a0d5e8-633e-75bd-a0c7-edc4d9d985fd",
+  type: "page-type/temper-lore-collection",
+  slug: "thieves-guild-style",
+  title: "Thieves Guild Style",
+  esoLoreCategoryId: 2,
+  esoCollectionIndex: 21,
+  esoLoreCollectionId: 100,
+  loreCollectionDescription: "These book fragments enable crafting in the Thieves Guild style.",
+  gamepadIcon: "/esoui/art/treeicons/gamepad/gp_lorelibrary_categoryicon_craftingstyle.dds",
+  hidden: false,
+  bookTotal: 14,
+} as const satisfies TemperLoreCollection
