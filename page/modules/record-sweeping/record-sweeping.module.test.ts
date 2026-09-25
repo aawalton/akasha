@@ -1,6 +1,9 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import { lines } from "akasha/agent/seat/log-day/properties/lines.file-property.ts"
 import { logs } from "akasha/code/module-property-group/properties/logs.file-property.ts"
+import { scratchWorld } from "akasha/file/disk/modules/scratching/scratching.module.code.ts"
 import { fileProperty } from "akasha/page/file-property/file-property.page-type.ts"
 import { filePropertyGroup } from "akasha/page/file-property-group/file-property-group.page-type.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -11,6 +14,7 @@ import {
   sectionsOfType,
   streamsIn,
   streamThere,
+  sweptStream,
 } from "akasha/page/modules/record-sweeping/record-sweeping.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
 import { entries } from "akasha/page/properties/entries.file-property.ts"
@@ -175,6 +179,22 @@ test("a page with no file beside it under a windowed property is no stream", () 
 
 test("the streams are what the pages derive rather than every file a listing names", () => {
   expect(streamsIn(READING, existing).length).toBe(2)
+})
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
+
+test("a stream whose first part alone is gone is swept and written again from the first part", () => {
+  const root = scratch.rootFor("akasha-record-sweeping-")
+  mkdirSync(join(root, "a"))
+  const second = join(root, "a/one.hook.entries.part2.uncommitted.jsonl")
+  const kept = rowAt("2026-09-13T00:00:00.000Z")
+  writeFileSync(second, `${rowAt("2026-09-01T00:00:00.000Z")}\n${kept}\n`)
+  const stream = { page: HOOK, section: "entries", hours: HOURS }
+  expect(sweptStream(root, stream, Date.parse("2026-09-13T12:00:00.000Z"))).toBe(1)
+  expect(readFileSync(join(root, "a/one.hook.entries.uncommitted.jsonl"), "utf8")).toBe(`${kept}\n`)
+  expect(existsSync(second)).toBe(false)
 })
 
 test("a line that ran before the cutoff is dropped and one that ran after is kept", () => {

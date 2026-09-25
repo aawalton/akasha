@@ -270,7 +270,7 @@ export function sweptStream(root: string, one: Stream, nowMs: number): number {
   const existing = existingIn(root)
   const parts = uncommittedPartsOf(one.page, one.section, HELD, existing)
   const first = parts[0]
-  if (first === undefined || !existing(first)) return 0
+  if (first === undefined || !parts.some((at) => existing(at))) return 0
   const cutoff = nowMs - one.hours * HOUR_MS
   return exclusively(
     join(root, first),
@@ -278,6 +278,7 @@ export function sweptStream(root: string, one: Stream, nowMs: number): number {
       const now = uncommittedPartsOf(one.page, one.section, HELD, existing)
       let text = ""
       for (const at of now) {
+        if (at === first && !existing(at)) continue
         try {
           text += readFileSync(join(root, at), "utf8")
         } catch {

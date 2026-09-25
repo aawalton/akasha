@@ -269,6 +269,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/modules/beside/page-beside.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/modules/entries/page-entries.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/modules/record-sweeping/record-sweeping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/modules/secret/page-secret.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/modules/shadow/shadow.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/modules/uncommitted/page-uncommitted.module.test.ts","typed":false,"deferred":false}

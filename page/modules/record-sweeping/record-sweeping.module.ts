@@ -90,13 +90,15 @@ export const recordSweeping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A stream is left as that stream is where a part of it is absent or will not read.",
+      statement: "A stream is left as that stream is where a part of it will not read.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "A stream whose first part alone is gone is swept by nothing while its writer still appends.",
+      decisionKind: "decision-kind/departure",
+      statement: "A first part that is gone is read as holding no line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stream whose first part alone is gone is written again from the first part up.",
     },
     {
       decisionKind: "decision-kind/departure",
