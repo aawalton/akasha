@@ -4,7 +4,7 @@ export const changeMechanicalFileContentChange = {
   id: "01a07cbf-eb60-7d05-bc64-0485666cca0f",
   type: "page-type/domain",
   slug: "change-mechanical-file-content-change",
-  definition: "a mechanical change restating what a file has",
+  definition: "a mechanical change that changes a file's body",
   parts: [
     "change-mechanical-file-content/change-domain-parent",
     "change-mechanical-file-content/change-file-content",
