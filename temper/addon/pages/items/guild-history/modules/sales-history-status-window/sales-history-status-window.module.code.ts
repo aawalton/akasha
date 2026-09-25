@@ -29,6 +29,7 @@ import {
   frameWindow,
   type WindowFrame,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
+import { drawPanel } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/addon/pages/items/guild-history/sales-history-controls/sales-history-controls.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
@@ -120,6 +121,8 @@ GuildHistoryStatusWindow.Initialize = function (this, historyAdapter, statusTool
   this.guildListControl = requireChild<Control>(control, "GuildList")
   frameStatusWindow(control, frame, this.guildListControl)
   this.categoryListControl = requireChild<Control>(control, "CategoryList")
+  drawPanel(control, "$(parent)GuildPanel", this.guildListControl, this.guildListControl)
+  drawPanel(control, "$(parent)CategoryPanel", this.categoryListControl, this.categoryListControl)
   this.selectionWidget = asSelectionWidgetClassRef(
     internal.class.GuildHistoryStatusSelectionWidget
   ).New(control, ROW_HEIGHT)

@@ -16,6 +16,11 @@ import {
   colorOf,
   colorText,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  clearBackdrop,
+  paintRowState,
+  type RowState,
+} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/temper/addon/pages/temper-core/temper-custom-menu/menu-decl/menu-decl.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-19/eso-enums-19.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -37,9 +42,7 @@ function asCacheStatusBarClass(value: unknown): CacheStatusBarClass {
 function asStatusWindowZoomRef(value: unknown): StatusWindowZoomRef {
   return value as StatusWindowZoomRef
 }
-function asZoTimeline(value: unknown): ZoTimeline {
-  return value as ZoTimeline
-}
+
 function asResetControlFn(value: unknown): ResetControlFn {
   return value as ResetControlFn
 }
@@ -55,19 +58,17 @@ export function initializeProgress(
   )
 }
 
+function restingState(this: void, rowControl: Control): RowState {
+  return ZO_ScrollList_GetData<RowEntry>(rowControl).selected ? "selected" : "rest"
+}
+
 export function initializeHighlight(rowControl: Control): undefined {
-  const highlight = requireChild<Control>(rowControl, "Highlight")
-  highlight.SetAlpha(0)
-  const animation = asZoTimeline(
-    ANIMATION_MANAGER.CreateTimelineFromVirtual("ShowOnMouseOverLabelAnimation", highlight)
-  )
-  highlight.animation = animation
-  animation.GetFirstAnimation().SetAlphaValues(0, 1)
+  const highlight = clearBackdrop(requireChild<BackdropControl>(rowControl, "Highlight"))
 
   rowControl.SetHandler(
     "OnMouseEnter",
     () => {
-      animation.PlayForward()
+      paintRowState(highlight, "hover")
     },
     "TemperItemsSalesHistory_Highlight"
   )
@@ -75,7 +76,7 @@ export function initializeHighlight(rowControl: Control): undefined {
   rowControl.SetHandler(
     "OnMouseExit",
     () => {
-      animation.PlayBackward()
+      paintRowState(highlight, restingState(rowControl))
     },
     "TemperItemsSalesHistory_Highlight"
   )
@@ -148,15 +149,11 @@ export function setProgress(rowControl: Control, entry: RowEntry): undefined {
 }
 
 export function setSelected(rowControl: Control, entry: RowEntry): undefined {
-  const minAlpha = entry.selected ? 0.5 : 0
-  const highlight = requireChild<Control>(rowControl, "Highlight")
-  highlight.SetAlpha(minAlpha)
-  asZoTimeline(highlight.animation).GetFirstAnimation().SetAlphaValues(minAlpha, 1)
+  const highlight = requireChild<BackdropControl>(rowControl, "Highlight")
+  paintRowState(highlight, entry.selected ? "selected" : "rest")
 }
 
 export function destroyRow(rowControl: Control): undefined {
-  const highlight = requireChild<Control>(rowControl, "Highlight")
-  const animation = asZoTimeline(highlight.animation)
-  animation.PlayFromEnd(animation.GetDuration())
+  paintRowState(requireChild<BackdropControl>(rowControl, "Highlight"), "rest")
   asResetControlFn(ZO_ObjectPool_DefaultResetControl)(rowControl)
 }
