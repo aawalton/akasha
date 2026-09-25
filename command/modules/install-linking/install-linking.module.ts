@@ -86,15 +86,12 @@ export const installLinking = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "A placing said anywhere, not only under the home, is made here.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A placing is made here whatever rights that placing needs.",
-    },
-    {
-      decisionKind: "decision-kind/gap",
       statement: "Which page types state a placing is read off the pages rather than a table here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A placing outside the home is made by `akasha infrastructure provisioned-file-install`.",
     },
   ],
 } as const satisfies Module
