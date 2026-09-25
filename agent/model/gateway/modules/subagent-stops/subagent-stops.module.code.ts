@@ -1,10 +1,8 @@
 import { join } from "node:path"
 import type { HeldSubagents } from "akasha/agent/model/gateway/modules/subagent-stop-refusal/subagent-stop-refusal.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
-import {
-  seatNamedIn,
-  takingDown,
-} from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
+import { seatNamedIn } from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
+import { takingDown } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
 import { subagentStopped } from "akasha/agent/subagent/properties/subagent-stopped.boolean-property.ts"
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import {

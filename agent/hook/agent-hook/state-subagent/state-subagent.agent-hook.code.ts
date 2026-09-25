@@ -4,9 +4,9 @@ import {
   SCOPE_FLAG,
 } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { seatIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
+import { seatNamedIn } from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
 import {
   puttingUp,
-  seatNamedIn,
   takingDown,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"

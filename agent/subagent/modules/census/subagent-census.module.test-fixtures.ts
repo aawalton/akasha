@@ -2,6 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { LOG_AT } from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import { bodyOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
+import { WRITING } from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
 import {
   pathOf,
   slugOf,
@@ -9,7 +10,6 @@ import {
 import {
   lineFor,
   TAKING,
-  WRITING,
 } from "akasha/agent/subagent/modules/presence/subagent-presence.module.code.ts"
 import { akasha } from "akasha/akasha.domain.ts"
 import { put } from "akasha/check/test/fixture/putting/putting.test-fixture.code.ts"

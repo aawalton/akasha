@@ -23,6 +23,7 @@ export const subagent = {
     "module/subagent-outliving",
     "module/subagent-page",
     "module/subagent-page-akasha",
+    "module/subagent-page-asking",
     "module/subagent-page-history",
     "module/subagent-page-naming",
     "module/subagent-pageless",

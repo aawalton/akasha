@@ -1,4 +1,5 @@
 import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.module.code.ts"
+import { presenceAt } from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
 import {
   type FileChange,
   leftAt,
@@ -21,11 +22,6 @@ import { whyOf } from "akasha/command/modules/fault-saying/fault-saying.module.c
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { offRepo, pathAt } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
-import {
-  indexThere,
-  listedAt,
-} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { counted } from "akasha/text/writing/modules/counted/counted.module.code.ts"
 
 export const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
@@ -45,24 +41,6 @@ const PAGE_LANDING =
   " put-back is retried by nothing, and a landing that ended before it could say why is" +
   " retried by nothing either. Say that you are refused to whoever dispatched" +
   " you rather than working around the refusal."
-
-const MODULE = "module"
-
-const PRESENCE = "subagent-presence"
-
-const CODE = "code"
-
-const TS = "ts"
-
-function presenceAt(root: string): string | null {
-  if (!indexThere(root)) return null
-  const page = listedAt(root, MODULE, PRESENCE)[0]
-  const at = page === undefined ? null : besideAt(page.path, CODE, TS)
-  if (at === null) {
-    throw new Error(`no \`${MODULE}\` is slugged \`${PRESENCE}\`, so no call would put a page up`)
-  }
-  return at
-}
 
 export function noPageSaid(root: string, agentId: string | null): string {
   if (agentId === null || seatAbove(agentId) === null || presenceAt(root) === null) return NO_PAGE

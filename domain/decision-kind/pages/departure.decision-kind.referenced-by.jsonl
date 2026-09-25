@@ -443,6 +443,7 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/naming/subagent-naming.module.ts","id":"01a06949-b281-7ea1-9435-503a9b97d864"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/outliving/subagent-outliving.module.ts","id":"01a08ccb-9a38-710f-a8a6-92cf91ee1cfc"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.ts","id":"01a06983-278f-7ed9-b96e-fe9e2e13c714"}
+{"propertySlug":"decision-kind","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.ts","id":"01a0d6cf-cc39-7c30-868c-f29c9adff316"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-history/subagent-page-history.module.ts","id":"01a072a4-24cb-708c-b671-ae3473e926d0"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","id":"01a095ed-9005-70e5-8d03-654f10141de7"}
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/page/subagent-page.module.ts","id":"01a06983-278f-74cd-aa22-89b32f80e5e4"}

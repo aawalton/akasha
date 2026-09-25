@@ -1,11 +1,7 @@
-import { closeSync, existsSync, mkdirSync, openSync } from "node:fs"
-import { dirname, join } from "node:path"
+import { existsSync } from "node:fs"
+import { join } from "node:path"
 import { akashaHolderPidOf } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
-import {
-  LOG_AT,
-  supervisorsRootDir,
-} from "akasha/agent/seat/supervisor/supervisor-log/modules/path/supervisor-log-path.module.code.ts"
 import { bodyOf } from "akasha/agent/subagent/modules/body/subagent-body.module.code.ts"
 import {
   landingAgain,
@@ -16,6 +12,10 @@ import {
   readOf,
 } from "akasha/agent/subagent/modules/liveness/subagent-liveness.module.code.ts"
 import { clientStartedAt } from "akasha/agent/subagent/modules/outliving/subagent-outliving.module.code.ts"
+import {
+  askingAt,
+  WRITING,
+} from "akasha/agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts"
 import { subagentPageInHistory } from "akasha/agent/subagent/modules/page-history/subagent-page-history.module.code.ts"
 import {
   agentIdOf,
@@ -46,24 +46,18 @@ import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number
 import { textAt } from "akasha/code/type/narrowing/modules/text-at/text-at.module.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { refusalsIn } from "akasha/command/modules/applying/applying.module.code.ts"
-import { listedById } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
-import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import {
   mergeUncommitted,
   uncommittedIn,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 
-export const WRITING = "write"
-
 export const TAKING = "take"
 
 const SWEEPING = "sweep"
 
 const CALLED_AS = "subagent-presence"
-
-const SEAT = "seat"
 
 const ASSIGNMENT = "assignmentSlug"
 
@@ -81,33 +75,11 @@ const STOPPED = subagentStopped.propertySlug
 
 const WENT: Went = { went: true }
 
-export function logPathOf(seatId: string, baseDir?: string): string {
-  return join(baseDir ?? supervisorsRootDir(), seatId, LOG_AT)
-}
-
-function loggingTo(seatId: string, baseDir: string | undefined): number | null {
-  const at = logPathOf(seatId, baseDir)
-  try {
-    mkdirSync(dirname(at), { recursive: true })
-    return openSync(at, "a")
-  } catch {
-    return null
-  }
-}
-
 export function assignedTo(root: string, seatName: string): string | null {
   const at = seatPageIn(root, seatName)
   if (at === null) return null
   const value = valueAt(at, root)
   return value === null ? null : textAt(value, ASSIGNMENT)
-}
-
-export function seatNamedIn(root: string, seatId: string): string | null {
-  const listed = listedById(root, seatId)
-  if (listed === null) return null
-  const named = partedIn(listed.path)
-  if (named === null || named.sections.length > 0 || named.pageType !== SEAT) return null
-  return named.slug
 }
 
 function wentBy(landed: Awaited<ReturnType<Landing>>, done: readonly string[] = []): Went {
@@ -252,17 +224,7 @@ export function asking(
   args: readonly string[],
   baseDir?: string
 ): undefined {
-  const fd = loggingTo(seatId, baseDir)
-  try {
-    Bun.spawn([process.execPath, import.meta.path, root, ...args], {
-      cwd: root,
-      stdin: "ignore",
-      stdout: fd ?? "ignore",
-      stderr: fd ?? "ignore",
-    }).unref()
-  } finally {
-    if (fd !== null) closeSync(fd)
-  }
+  askingAt(import.meta.path, root, seatId, args, baseDir)
 }
 
 export function puttingUp(

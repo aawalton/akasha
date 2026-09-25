@@ -414,6 +414,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/naming/subagent-naming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/outliving/subagent-outliving.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/page-akasha/subagent-page-akasha.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/page-history/subagent-page-history.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/subagent/modules/page/subagent-page.module.ts","typed":true,"deferred":false}

@@ -47,9 +47,9 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/body/subagent-body.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/census/subagent-census.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/presence/subagent-presence.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"agent/subagent/modules/recovering/subagent-recovering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/book/pages/learn-everything/modules/topic-tree/topic-tree.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"alan/collection/modules/sync-run-recording/sync-run-recording.module.code.ts","typed":false,"deferred":false}
@@ -143,7 +143,6 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/apply-running/apply-running.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/beside-sweeping/beside-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/calling/calling.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/change-acting/change-acting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/change-costing/change-costing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/cli/cli.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/modules/install-linking/install-linking.module.code.ts","typed":false,"deferred":false}
@@ -344,6 +343,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"agent/modules/read-record/read-record.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"agent/seat/stopping/seat-stopping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"agent/subagent/modules/census/subagent-census.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.test-fixtures.ts","path":"alan/harness/monarch/modules/reading/monarch-reading.module.test.ts","typed":false,"deferred":false}

@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"command/pages/agent/subagent-stop/agent-subagent-stop.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-presence.module.code.ts","path":"command/pages/agent/subagent-sweep/agent-subagent-sweep.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"subagent-presence.module.test-fixtures.ts","path":"agent/subagent/modules/page-asking/subagent-page-asking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-presence.module.test-fixtures.ts","path":"agent/subagent/modules/page/subagent-page.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-presence.module.test-fixtures.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent-presence.module.test-fixtures.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test.ts","typed":false,"deferred":false}
