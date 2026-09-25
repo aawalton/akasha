@@ -307,8 +307,12 @@ export const deploy = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A second deploy of a thing already being put up waits for the first to end.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A thing already being put up refuses a second deploy of that thing rather than waiting on it.",
+        "The deploys that waited through one deploy share one follow-up at the newest HEAD.",
     },
     {
       decisionKind: "decision-kind/departure",
