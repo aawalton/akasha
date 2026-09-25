@@ -119,7 +119,7 @@ export const modelAccountRenewing = {
       statement: "A renewed pair that reached no page is spent by the next renewal.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A write back that held and then reads back absent answers the endpoint's pair instead.",
     },
