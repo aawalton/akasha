@@ -44,9 +44,6 @@ function row(id: string, completion: CharacterCompletion | null): CompletionChar
     esoCharacterId: `eso-${id}`,
     title: id,
     completion,
-    createdAt: 0,
-    updatedAt: 0,
-    roles: [],
   }
 }
 

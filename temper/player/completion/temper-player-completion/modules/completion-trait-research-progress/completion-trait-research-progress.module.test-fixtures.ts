@@ -138,9 +138,6 @@ export function characterRow(
     id,
     esoCharacterId: `eso-${id}`,
     completion,
-    createdAt: 0,
-    updatedAt: 0,
-    roles: [],
   }
 }
 
