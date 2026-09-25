@@ -29,6 +29,7 @@ import {
   packedBundle,
 } from "akasha/temper/addon/build/modules/addon-bundling/addon-bundling.module.code.ts"
 import { compiledEveryAddon } from "akasha/temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts"
+import { z } from "zod"
 
 const PUSH_CEILING_MS = 5 * 60 * 1000
 
@@ -237,18 +238,13 @@ export function bundleHandedBack(made: Bundled): Published {
   return { lines: [...made.lines, said], refusals: [] }
 }
 
+const HANDED_SAID = z.tuple([z.string(), z.string(), z.string(), z.string(), z.string()])
+
 export function handedBackIn(said: readonly string[]): Bundled | null {
   for (const line of said) {
-    const found = HANDED_BACK.exec(line)
-    const [, pagePath, copyTo, contentHash, sourceHash] = found ?? []
-    if (
-      pagePath === undefined ||
-      copyTo === undefined ||
-      contentHash === undefined ||
-      sourceHash === undefined
-    ) {
-      continue
-    }
+    const found = HANDED_SAID.safeParse(HANDED_BACK.exec(line))
+    if (!found.success) continue
+    const [, pagePath, copyTo, contentHash, sourceHash] = found.data
     return { lines: [], refusals: [], placed: { pagePath, copyTo }, contentHash, sourceHash }
   }
   return null
