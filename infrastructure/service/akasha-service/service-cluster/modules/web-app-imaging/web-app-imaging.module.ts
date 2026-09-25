@@ -28,6 +28,15 @@ export const webAppImaging = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A manifest written before its commit exists names the commit placeholder as its tag.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A deploy puts the tag of the commit it deploys where the placeholder is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An image is built by the cluster's builder from the tree the commit tracks.",
     },
     {

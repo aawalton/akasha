@@ -63,6 +63,20 @@ export function webAppImage(name: string, sha: string = commitHere()): string {
   return refFor(`${WEB_APP_IMAGES}/${name}`, imageTagOf(sha))
 }
 
+export const COMMIT_PLACEHOLDER = "COMMIT"
+
+const PLACEHOLDER_AT = new RegExp(
+  `(${REGISTRY.replaceAll(".", "\\.")}/${WEB_APP_IMAGES}/[^\\s:"']+):${COMMIT_PLACEHOLDER}(?=["']?\\s*$)`,
+  "gm"
+)
+
+export function withCommit(yaml: string, sha: string): string {
+  return yaml.replace(
+    PLACEHOLDER_AT,
+    (_whole, repository: string) => `${repository}:${imageTagOf(sha)}`
+  )
+}
+
 export interface ImageTarget extends BuildTarget {
   readonly repository: string
   readonly tag: string

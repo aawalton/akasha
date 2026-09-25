@@ -4,12 +4,14 @@ import { join } from "node:path"
 import { said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { buildTargetOf } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.code.ts"
 import {
+  COMMIT_PLACEHOLDER,
   type ImageTarget,
   imageArgv,
   imageBuilt,
   imageTargetOf,
   webAppImage,
   webDockerfile,
+  withCommit,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
 import type { Plan } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
 
@@ -76,6 +78,17 @@ const TARGET: ImageTarget = {
 
 test("a web app's image is tagged with the commit it is built from", () => {
   expect(webAppImage("one-web", SHA)).toBe(IMAGED)
+})
+
+test("a written image naming the commit placeholder is given the deployed commit's tag", () => {
+  const written = `          image: ${webAppImage("one-web", COMMIT_PLACEHOLDER)}\n`
+  expect(written).toContain(":COMMIT\n")
+  expect(withCommit(written, SHA)).toBe(`          image: ${IMAGED}\n`)
+})
+
+test("an image outside the web app repository keeps its placeholder tag", () => {
+  const other = "          image: registry.registry.svc.cluster.local:5000/cluster/ci:COMMIT\n"
+  expect(withCommit(other, SHA)).toBe(other)
 })
 
 test("a workload running a web app's image is built into that image", () => {
