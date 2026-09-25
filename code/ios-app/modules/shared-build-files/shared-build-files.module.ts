@@ -6,6 +6,7 @@ export const sharedBuildFiles = {
   slug: "shared-build-files",
   definition: "the files of the pages every iOS app build compiles",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -31,6 +32,11 @@ export const sharedBuildFiles = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A file is named from the repository root.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The pages and files are read from the pages a caller hands in, a commit's or a checkout's.",
     },
     {
       decisionKind: "decision-kind/absence",

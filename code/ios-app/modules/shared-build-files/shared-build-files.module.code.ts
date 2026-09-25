@@ -8,7 +8,7 @@ import {
   valueByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   slugOf,
   type Value,
@@ -35,20 +35,22 @@ function namedIn(value: Value, pageTypeSlug: string): readonly string[] {
   return found
 }
 
-function typeValueOf(root: string, pageTypeSlug: string): Value | null {
-  const listed = listedAt(root, PAGE_TYPE, pageTypeSlug)
+type Pages = string | Reading
+
+function typeValueOf(pages: Pages, pageTypeSlug: string): Value | null {
+  const listed = listedAt(pages, PAGE_TYPE, pageTypeSlug)
   const path = listed.length === 1 ? (listed[0]?.path ?? null) : null
-  return path === null ? null : valueAt(path, root)
+  return path === null ? null : valueByPath(pages, path)
 }
 
 type Gathered = { readonly pages: readonly Valued[] } | { readonly why: string }
 
-function scriptsOf(root: string, named: readonly string[]): Gathered {
+function scriptsOf(pages: Pages, named: readonly string[]): Gathered {
   const found: Valued[] = []
   const missing: string[] = []
   for (const slug of named) {
-    const listed = listedAt(root, SCRIPT, slug)[0]
-    const value = listed === undefined ? null : valueByPath(root, listed.path)
+    const listed = listedAt(pages, SCRIPT, slug)[0]
+    const value = listed === undefined ? null : valueByPath(pages, listed.path)
     if (listed === undefined || value === null) missing.push(slug)
     else found.push({ path: listed.path, value })
   }
@@ -60,28 +62,34 @@ function scriptsOf(root: string, named: readonly string[]): Gathered {
   return { pages: found }
 }
 
-function sharedPages(root: string): Gathered {
-  const type = typeValueOf(root, APP)
+function sharedPages(pages: Pages): Gathered {
+  const type = typeValueOf(pages, APP)
   if (type === null) {
     return {
       why: `no page type in akasha is slugged ${APP}, so nothing names the scripts every build shares`,
     }
   }
-  const scripts = scriptsOf(root, namedIn(type, SCRIPT))
+  const scripts = scriptsOf(pages, namedIn(type, SCRIPT))
   if ("why" in scripts) return scripts
-  const pages: Valued[] = [...scripts.pages]
-  for (const pageTypeSlug of COMPILED) pages.push(...valuesOfType(root, pageTypeSlug))
-  return { pages }
+  const found: Valued[] = [...scripts.pages]
+  for (const pageTypeSlug of COMPILED) found.push(...valuesOfType(pages, pageTypeSlug))
+  return { pages: found }
 }
 
-export function sharedBuildFiles(root: string): Shared {
-  const gathered = sharedPages(root)
+function thereIn(pages: Pages): (at: string) => boolean {
+  if (typeof pages === "string") return (at) => existsSync(join(pages, at))
+  return (at) => pages.read(at) !== null
+}
+
+export function sharedBuildFiles(pages: Pages): Shared {
+  const gathered = sharedPages(pages)
   if ("why" in gathered) return gathered
-  const filed = filePropertiesAt(root)
-  const there = (at: string): boolean => existsSync(join(root, at))
+  const filed = filePropertiesAt(pages)
+  const there = thereIn(pages)
+  const repo = typeof pages === "string" ? pages : ""
   const found = new Set<string>()
   for (const one of gathered.pages) {
-    for (const at of pathsOf(one.value, one.path, root, filed, there)) {
+    for (const at of pathsOf(one.value, one.path, repo, filed, there)) {
       if (at !== one.path) found.add(at)
     }
   }

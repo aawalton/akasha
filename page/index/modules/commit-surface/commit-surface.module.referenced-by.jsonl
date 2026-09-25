@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"agent/hook/modules/dispatch/hook-dispatch.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"code/ios-app/modules/shared-build-files/shared-build-files.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"command/pages/deploy/deploy.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"commit-surface.module.code.ts","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.test.ts","typed":false,"deferred":false}

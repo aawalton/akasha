@@ -171,8 +171,8 @@ export function clusterSeeds(pages: string | Pages, slug: string): readonly stri
   return [read.servable.manifestPath, read.servable.synthPath]
 }
 
-function iosSeeds(root: string): readonly string[] {
-  const shared = sharedBuildFiles(root)
+function iosSeeds(pages: string | Pages): readonly string[] {
+  const shared = sharedBuildFiles(pages)
   return "why" in shared ? [] : shared.files
 }
 
@@ -201,7 +201,7 @@ function seedsFor(
   if (read.every === true) return [...everySeed(pages, read.kind, tracked), ...shared]
   const beside = [...besideThe(tracked, read.pagePath), ...shared]
   if (read.kind === WEB_APP) return [...beside, ...webSeeds(pages, slug, tracked)]
-  if (read.kind === IOS_APP) return [...beside, ...iosSeeds(root)]
+  if (read.kind === IOS_APP) return [...beside, ...iosSeeds(pages)]
   if (read.kind === CLUSTER_SERVICE) return [...beside, ...clusterSeeds(pages, slug)]
   return beside
 }
