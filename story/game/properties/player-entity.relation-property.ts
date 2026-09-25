@@ -12,10 +12,6 @@ export const playerEntity = {
       decisionKind: "decision-kind/departure",
       statement: "A game names the one the player runs rather than leaving it read off a kind.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "A game the player runs more than one of names each of them.",
-    },
   ],
   types: "ts",
 } as const satisfies RelationProperty

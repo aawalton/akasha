@@ -179,7 +179,6 @@
 {"propertySlug":"decision-kind","path":"story/game/game-entity/properties/established-turn.number-property.ts","id":"01a0c63c-5aeb-7de0-9471-3e3ffc821155"}
 {"propertySlug":"decision-kind","path":"story/game/game-location/properties/location-exits.text-property.ts","id":"01a0c644-3a81-7877-8cff-40282ead975d"}
 {"propertySlug":"decision-kind","path":"story/game/game-panel/pages/character-sheet/character-sheet.game-panel.ts","id":"01a0c4a2-c666-7d73-9def-422c118760d9"}
-{"propertySlug":"decision-kind","path":"story/game/properties/player-entity.relation-property.ts","id":"01a0c672-20f9-7a90-bb66-260cb787c093"}
 {"propertySlug":"decision-kind","path":"story/game/properties/resolution-mechanism.file-property.ts","id":"01a0673c-8e0e-7013-ae6f-047f588f0390"}
 {"propertySlug":"decision-kind","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/tower-element.page-type.ts","id":"01a0ca6d-e683-7fa9-8dc8-8be6325284d8"}
