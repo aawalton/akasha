@@ -4,7 +4,7 @@ export const pageStorage = {
   id: "01a06558-53dd-7ac7-8fdc-e45804c712aa",
   type: "page-type/domain",
   slug: "page-storage",
-  definition: "pages kept as files in a git repository",
+  definition: "how pages are kept in files that git keeps",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
