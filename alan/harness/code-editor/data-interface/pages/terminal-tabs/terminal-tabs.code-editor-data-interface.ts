@@ -6,5 +6,6 @@ export const terminalTabs = {
   slug: "terminal-tabs",
   definition: "the name and color each terminal tab draws",
   d: "ts",
+  code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

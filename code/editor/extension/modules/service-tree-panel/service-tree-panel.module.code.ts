@@ -3,6 +3,10 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import {
+  type ServiceTreeState,
+  serviceTreeStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import {
@@ -90,14 +94,14 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const refresh = (trigger: string): undefined => {
-    const state = readState<ServiceTreeState>(stateAt(akashaRoot(), SLUG))
+    const state = readState(stateAt(akashaRoot(), SLUG), serviceTreeStateSchema)
     if (state === null) {
       return undefined
     }
     return show(state, trigger)
   }
 
-  const reading = followState<ServiceTreeState>(akashaRoot(), SLUG, (state) =>
+  const reading = followState(akashaRoot(), SLUG, serviceTreeStateSchema, (state) =>
     show(state, "services")
   )
 

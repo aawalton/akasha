@@ -3,6 +3,10 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import {
+  type WorkTreeState,
+  workTreeStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.code.ts"
 import { seatsByName } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
 import { forest } from "akasha/code/editor/extension/modules/agent-tree-state/agent-tree-state.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
@@ -127,7 +131,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const refresh = (trigger: string): undefined => {
-    const held = readState<WorkTreeState>(stateAt(akashaRoot(), SLUG))
+    const held = readState(stateAt(akashaRoot(), SLUG), workTreeStateSchema)
     if (held === null) {
       return undefined
     }
@@ -201,7 +205,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  const reading = followState<WorkTreeState>(akashaRoot(), SLUG, (held) => draw(held, "work"))
+  const reading = followState(akashaRoot(), SLUG, workTreeStateSchema, (held) => draw(held, "work"))
 
   context.subscriptions.push(
     {

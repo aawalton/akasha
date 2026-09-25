@@ -3,6 +3,10 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import {
+  type AgentTreeState,
+  agentTreeStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
 import { countRows } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { openAgentPage } from "akasha/code/editor/extension/modules/agent-page-opening/agent-page-opening.module.code.ts"
 import {
@@ -185,7 +189,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   const draw = newestWins<Drawing>(({ held, trigger }) => drawOnce(held, trigger))
 
   const refresh = async (trigger: string): Promise<undefined> => {
-    const held = readState<AgentTreeState>(stateAt(akashaRoot(), SLUG))
+    const held = readState(stateAt(akashaRoot(), SLUG), agentTreeStateSchema)
     if (held === null) {
       return undefined
     }
@@ -193,7 +197,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     return undefined
   }
 
-  const reading = followState<AgentTreeState>(akashaRoot(), SLUG, (held) => {
+  const reading = followState(akashaRoot(), SLUG, agentTreeStateSchema, (held) => {
     void draw({ held, trigger: "fleet" })
     return undefined
   })

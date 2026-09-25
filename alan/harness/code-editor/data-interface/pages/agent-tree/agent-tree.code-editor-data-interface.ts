@@ -6,6 +6,7 @@ export const agentTree = {
   slug: "agent-tree",
   definition: "the rows the agents panel draws",
   d: "ts",
+  code: "ts",
   cooldownMilliseconds: 1000,
   decisions: [
     {

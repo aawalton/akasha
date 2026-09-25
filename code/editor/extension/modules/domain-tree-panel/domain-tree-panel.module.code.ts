@@ -3,6 +3,10 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import {
+  type DomainTreeState,
+  domainTreeStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.code.ts"
 import { countNodes } from "akasha/code/editor/extension/modules/champions-tree/champions-tree.module.code.ts"
 import {
   REFRESH_COMMAND,
@@ -98,14 +102,14 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const refresh = (trigger: string): undefined => {
-    const state = readState<DomainTreeState>(stateAt(akashaRoot(), SLUG))
+    const state = readState(stateAt(akashaRoot(), SLUG), domainTreeStateSchema)
     if (state === null) {
       return undefined
     }
     return show(state, trigger)
   }
 
-  const reading = followState<DomainTreeState>(akashaRoot(), SLUG, (state) =>
+  const reading = followState(akashaRoot(), SLUG, domainTreeStateSchema, (state) =>
     show(state, "domains")
   )
 

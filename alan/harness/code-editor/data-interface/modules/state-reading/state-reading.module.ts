@@ -7,7 +7,20 @@ export const stateReading = {
   definition: "how a part of the editor reads the file that part draws",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A part reads its file with the schema its data interface's code holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file the schema refuses is a read that failed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key the schema does not name is dropped rather than refused.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "The folder is watched rather than the file.",

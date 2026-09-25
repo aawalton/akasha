@@ -3,6 +3,10 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import {
+  type RefusalTreeState,
+  refusalTreeStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/refusal-tree/refusal-tree.code-editor-data-interface.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import {
@@ -93,14 +97,14 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const refresh = (trigger: string): undefined => {
-    const state = readState<RefusalTreeState>(stateAt(akashaRoot(), SLUG))
+    const state = readState(stateAt(akashaRoot(), SLUG), refusalTreeStateSchema)
     if (state === null) {
       return undefined
     }
     return show(state, trigger)
   }
 
-  const reading = followState<RefusalTreeState>(akashaRoot(), SLUG, (state) =>
+  const reading = followState(akashaRoot(), SLUG, refusalTreeStateSchema, (state) =>
     show(state, "refusals")
   )
 

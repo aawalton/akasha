@@ -6,12 +6,41 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import { CAPTURED_STATES } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.test-fixtures.ts"
+import { agentTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
+import { commandTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/command-tree/command-tree.code-editor-data-interface.code.ts"
+import { domainTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/domain-tree/domain-tree.code-editor-data-interface.code.ts"
+import { findingTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/finding-tree/finding-tree.code-editor-data-interface.code.ts"
+import { gapTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.code.ts"
+import { pageTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/page-tree/page-tree.code-editor-data-interface.code.ts"
+import { refusalTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/refusal-tree/refusal-tree.code-editor-data-interface.code.ts"
+import { serviceTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/service-tree/service-tree.code-editor-data-interface.code.ts"
+import { statusBarStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/status-bar/status-bar.code-editor-data-interface.code.ts"
+import { terminalTabsStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/terminal-tabs/terminal-tabs.code-editor-data-interface.code.ts"
+import { workTreeStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/work-tree/work-tree.code-editor-data-interface.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { z } from "zod"
 
 const PAGES_AT = "alan/harness/code-editor/data-interface/pages"
 const SCRATCH_AT = "alan/harness/code-editor/data-interface"
 const TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const SLUG = "work-tree"
+
+const ROOTS = z.object({ roots: z.array(z.object({ key: z.string() })) })
+
+const SHAPES: Readonly<Record<string, z.ZodType>> = {
+  "agent-tree": agentTreeStateSchema,
+  "command-tree": commandTreeStateSchema,
+  "domain-tree": domainTreeStateSchema,
+  "finding-tree": findingTreeStateSchema,
+  "gap-tree": gapTreeStateSchema,
+  "page-tree": pageTreeStateSchema,
+  "refusal-tree": refusalTreeStateSchema,
+  "service-tree": serviceTreeStateSchema,
+  "status-bar": statusBarStateSchema,
+  "terminal-tabs": terminalTabsStateSchema,
+  "work-tree": workTreeStateSchema,
+}
 
 const scratch = scratchWorld()
 
@@ -43,30 +72,44 @@ async function until(holds: () => boolean, ms = 2_000): Promise<boolean> {
   return holds()
 }
 
+test("every part's schema reads a state the service wrote", () => {
+  expect(Object.keys(CAPTURED_STATES).sort()).toEqual(Object.keys(SHAPES).sort())
+  for (const [slug, shape] of Object.entries(SHAPES)) {
+    serviceWrites(CAPTURED_STATES[slug] ?? "")
+    expect([slug, readState(at, shape) === null]).toEqual([slug, false])
+  }
+})
+
+test("a state of the wrong shape answers nothing", () => {
+  serviceWrites('{"roots":[{"key":"a","label":"A","at":null,"color":null}]}')
+  expect(readState(at, workTreeStateSchema)).toBe(null)
+  serviceWrites('{"seatByShellPid":{"1":7},"colorBySeat":{}}')
+  expect(readState(at, terminalTabsStateSchema)).toBe(null)
+})
+
 test("a file that is not there yet answers nothing", () => {
-  expect(readState(at)).toBe(null)
+  expect(readState(at, ROOTS)).toBe(null)
 })
 
 test("a file holding nothing answers nothing", () => {
   writeFileSync(at, "", "utf8")
-  expect(readState(at)).toBe(null)
+  expect(readState(at, ROOTS)).toBe(null)
 })
 
 test("a body that will not parse answers nothing rather than throwing", () => {
   writeFileSync(at, '{"roots": [', "utf8")
-  expect(readState(at)).toBe(null)
+  expect(readState(at, ROOTS)).toBe(null)
 })
 
 test("one document is read whole", () => {
   serviceWrites('{"roots":[{"key":"a","label":"A","at":null,"color":null}]}')
-  const held = readState<{ roots: readonly { key: string }[] }>(at)
-  expect(held?.roots[0]?.key).toBe("a")
+  expect(readState(at, ROOTS)?.roots[0]?.key).toBe("a")
 })
 
 test("what is there is drawn before any change arrives", () => {
   serviceWrites('{"roots":[{"key":"first"}]}')
   const seen: unknown[] = []
-  const reading = followState(root, SLUG, (held) => {
+  const reading = followState(root, SLUG, ROOTS, (held) => {
     seen.push(held)
     return undefined
   })
@@ -76,8 +119,8 @@ test("what is there is drawn before any change arrives", () => {
 
 test("a write the service makes is drawn", async () => {
   serviceWrites('{"roots":[{"key":"first"}]}')
-  const seen: { roots: { key: string }[] }[] = []
-  const reading = followState<{ roots: { key: string }[] }>(root, SLUG, (held) => {
+  const seen: z.infer<typeof ROOTS>[] = []
+  const reading = followState(root, SLUG, ROOTS, (held) => {
     seen.push(held)
     return undefined
   })
@@ -92,7 +135,7 @@ test("the same bytes written again are drawn no second time", async () => {
   const line = '{"roots":[{"key":"first"}]}'
   serviceWrites(line)
   const seen: unknown[] = []
-  const reading = followState(root, SLUG, (held) => {
+  const reading = followState(root, SLUG, ROOTS, (held) => {
     seen.push(held)
     return undefined
   })
@@ -104,8 +147,8 @@ test("the same bytes written again are drawn no second time", async () => {
 
 test("a body that will not parse leaves the last good read drawn", async () => {
   serviceWrites('{"roots":[{"key":"good"}]}')
-  const seen: { roots: { key: string }[] }[] = []
-  const reading = followState<{ roots: { key: string }[] }>(root, SLUG, (held) => {
+  const seen: z.infer<typeof ROOTS>[] = []
+  const reading = followState(root, SLUG, ROOTS, (held) => {
     seen.push(held)
     return undefined
   })
@@ -116,9 +159,23 @@ test("a body that will not parse leaves the last good read drawn", async () => {
   expect(seen[0]?.roots[0]?.key).toBe("good")
 })
 
+test("a body of the wrong shape leaves the last good read drawn", async () => {
+  serviceWrites('{"roots":[{"key":"good"}]}')
+  const seen: z.infer<typeof ROOTS>[] = []
+  const reading = followState(root, SLUG, ROOTS, (held) => {
+    seen.push(held)
+    return undefined
+  })
+  serviceWrites('{"roots":[{"key":7}]}')
+  await until(() => seen.length >= 2, 300)
+  reading.stop()
+  expect(seen.length).toBe(1)
+  expect(seen[0]?.roots[0]?.key).toBe("good")
+})
+
 test("a file that is not there yet draws nothing and does not throw", () => {
   const seen: unknown[] = []
-  const reading = followState(root, SLUG, (held) => {
+  const reading = followState(root, SLUG, ROOTS, (held) => {
     seen.push(held)
     return undefined
   })
@@ -130,11 +187,11 @@ test("two parts watching one folder are each told", async () => {
   serviceWrites('{"roots":[{"key":"first"}]}')
   const one: unknown[] = []
   const two: unknown[] = []
-  const readingOne = followState(root, SLUG, (held) => {
+  const readingOne = followState(root, SLUG, ROOTS, (held) => {
     one.push(held)
     return undefined
   })
-  const readingTwo = followState(root, SLUG, (held) => {
+  const readingTwo = followState(root, SLUG, ROOTS, (held) => {
     two.push(held)
     return undefined
   })
@@ -149,7 +206,7 @@ test("two parts watching one folder are each told", async () => {
 test("a part that stopped is told no more", async () => {
   serviceWrites('{"roots":[{"key":"first"}]}')
   const seen: unknown[] = []
-  const reading = followState(root, SLUG, (held) => {
+  const reading = followState(root, SLUG, ROOTS, (held) => {
     seen.push(held)
     return undefined
   })
@@ -163,7 +220,7 @@ test("a part is not redrawn when another part's file is written", async () => {
   serviceWrites('{"roots":[{"key":"work"}]}')
   writeFileSync(stateAt(root, "agent-tree"), '{"roots":[{"key":"agent"}]}\n', "utf8")
   const seen: unknown[] = []
-  const reading = followState(root, "agent-tree", (held) => {
+  const reading = followState(root, "agent-tree", ROOTS, (held) => {
     seen.push(held)
     return undefined
   })
@@ -176,8 +233,8 @@ test("a part is not redrawn when another part's file is written", async () => {
 
 test("a folder taken away and put back is followed again", async () => {
   serviceWrites('{"roots":[{"key":"first"}]}')
-  const seen: { roots: { key: string }[] }[] = []
-  const reading = followState<{ roots: { key: string }[] }>(root, SLUG, (held) => {
+  const seen: z.infer<typeof ROOTS>[] = []
+  const reading = followState(root, SLUG, ROOTS, (held) => {
     seen.push(held)
     return undefined
   })
@@ -192,8 +249,8 @@ test("a folder taken away and put back is followed again", async () => {
 
 test("a folder that is not there yet is followed once that folder arrives", async () => {
   const late = "status-bar"
-  const seen: { roots: { key: string }[] }[] = []
-  const reading = followState<{ roots: { key: string }[] }>(root, late, (held) => {
+  const seen: z.infer<typeof ROOTS>[] = []
+  const reading = followState(root, late, ROOTS, (held) => {
     seen.push(held)
     return undefined
   })

@@ -6,5 +6,6 @@ export const statusBar = {
   slug: "status-bar",
   definition: "the slots the status bar draws",
   d: "ts",
+  code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

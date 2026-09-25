@@ -2,6 +2,7 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import { terminalTabsStateSchema } from "akasha/alan/harness/code-editor/data-interface/pages/terminal-tabs/terminal-tabs.code-editor-data-interface.code.ts"
 import type { ColumnNumber } from "akasha/code/editor/extension/modules/editor-group/editor-group.module.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import {
@@ -12,7 +13,6 @@ import {
   tallyLine,
 } from "akasha/code/editor/extension/modules/terminal-pids/terminal-pids.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/terminal-tabs/terminal-tabs.code-editor-data-interface.d.ts"
 
 const TERMINAL_TABS = "terminal-tabs"
 
@@ -85,7 +85,7 @@ export async function readSeatTerminals(seatByShellPid: ReadonlyMap<number, stri
 }
 
 export function readSeatLookup(): ReadonlyMap<number, string> | null {
-  const held = readState<TerminalTabsState>(stateAt(akashaRoot(), TERMINAL_TABS))
+  const held = readState(stateAt(akashaRoot(), TERMINAL_TABS), terminalTabsStateSchema)
   if (held === null) {
     return null
   }

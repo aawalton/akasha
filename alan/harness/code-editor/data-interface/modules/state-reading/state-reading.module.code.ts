@@ -1,10 +1,9 @@
 import { type FSWatcher, readFileSync, watch } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
+import type { z } from "zod"
 
 const PAGES_AT = "alan/harness/code-editor/data-interface/pages"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
-const STATE = SHAPE.record(SHAPE.string(), SHAPE.unknown())
 
 type Reading = {
   readonly stop: () => undefined
@@ -14,22 +13,22 @@ export function stateAt(root: string, slug: string): string {
   return join(root, PAGES_AT, slug, `${slug}${STATE_TAIL}`)
 }
 
-export function readState<Held>(at: string): Held | null {
+export function readState<Held>(at: string, shape: z.ZodType<Held>): Held | null {
   let body: string
   try {
     body = readFileSync(at, "utf8")
   } catch {
     return null
   }
-  return parseState<Held>(body)
+  return parseState(body, shape)
 }
 
-function parseState<Held>(body: string): Held | null {
+function parseState<Held>(body: string, shape: z.ZodType<Held>): Held | null {
   const line = body.trimEnd()
   if (line === "") return null
   try {
-    const held: unknown = STATE.parse(JSON.parse(line))
-    return held as Held
+    const parsed = shape.safeParse(JSON.parse(line))
+    return parsed.success ? parsed.data : null
   } catch {
     return null
   }
@@ -39,7 +38,7 @@ type Listener = {
   readonly name: string
   readonly at: string
   lastBody: string | null
-  readonly draw: (held: unknown) => undefined
+  readonly drawn: (body: string) => boolean
 }
 
 const listeners = new Map<string, Set<Listener>>()
@@ -54,10 +53,7 @@ function tell(listener: Listener): undefined {
     return undefined
   }
   if (body === listener.lastBody) return undefined
-  const held = parseState<unknown>(body)
-  if (held === null) return undefined
-  listener.lastBody = body
-  listener.draw(held)
+  if (listener.drawn(body)) listener.lastBody = body
   return undefined
 }
 
@@ -106,6 +102,7 @@ function armAbove(folder: string): undefined {
 export function followState<Held>(
   root: string,
   slug: string,
+  shape: z.ZodType<Held>,
   draw: (held: Held) => undefined
 ): Reading {
   const at = stateAt(root, slug)
@@ -114,7 +111,12 @@ export function followState<Held>(
     name: basename(at),
     at,
     lastBody: null,
-    draw: draw as (held: unknown) => undefined,
+    drawn: (body) => {
+      const held = parseState(body, shape)
+      if (held === null) return false
+      draw(held)
+      return true
+    },
   }
   const here = listeners.get(folder) ?? new Set<Listener>()
   here.add(listener)

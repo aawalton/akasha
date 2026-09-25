@@ -4,6 +4,10 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
+  type CommandTreeState,
+  commandTreeStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/command-tree/command-tree.code-editor-data-interface.code.ts"
+import {
   REFRESH_COMMAND,
   VIEW_ID,
 } from "akasha/code/editor/extension/modules/command-tree-ids/command-tree-ids.module.code.ts"
@@ -101,14 +105,14 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const refresh = (trigger: string): undefined => {
-    const state = readState<CommandTreeState>(stateAt(akashaRoot(), SLUG))
+    const state = readState(stateAt(akashaRoot(), SLUG), commandTreeStateSchema)
     if (state === null) {
       return undefined
     }
     return show(state, trigger)
   }
 
-  const reading = followState<CommandTreeState>(akashaRoot(), SLUG, (state) =>
+  const reading = followState(akashaRoot(), SLUG, commandTreeStateSchema, (state) =>
     show(state, "commands")
   )
 

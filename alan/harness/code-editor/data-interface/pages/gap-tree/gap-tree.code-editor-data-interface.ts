@@ -6,5 +6,6 @@ export const gapTree = {
   slug: "gap-tree",
   definition: "the rows the gaps panel draws",
   d: "ts",
+  code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

@@ -1,4 +1,8 @@
 import { followState } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import {
+  type TerminalTabsState,
+  terminalTabsStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/terminal-tabs/terminal-tabs.code-editor-data-interface.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { newestWins } from "akasha/code/editor/extension/modules/newest-wins/newest-wins.module.code.ts"
 import {
@@ -17,7 +21,6 @@ import {
 } from "akasha/code/editor/extension/modules/terminal-pids/terminal-pids.module.code.ts"
 import { syncTerminal } from "akasha/code/editor/extension/modules/terminal-sync/terminal-sync.module.code.ts"
 import * as vscode from "vscode"
-import "akasha/alan/harness/code-editor/data-interface/pages/terminal-tabs/terminal-tabs.code-editor-data-interface.d.ts"
 
 const FEATURE = "terminal-rename"
 const SLUG = "terminal-tabs"
@@ -30,7 +33,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<void> 
   output = vscode.window.createOutputChannel("Ops")
   context.subscriptions.push(output)
 
-  const reading = followState<TerminalTabsState>(akashaRoot(), SLUG, (held) => {
+  const reading = followState(akashaRoot(), SLUG, terminalTabsStateSchema, (held) => {
     tabs = held
     void applyAll("tabs")
     return undefined

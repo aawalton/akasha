@@ -6,5 +6,6 @@ export const domainTree = {
   slug: "domain-tree",
   definition: "the rows the domains panel draws",
   d: "ts",
+  code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface

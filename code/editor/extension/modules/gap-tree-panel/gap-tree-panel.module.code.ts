@@ -4,6 +4,10 @@ import {
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
 import {
+  type GapTreeState,
+  gapTreeStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/gap-tree/gap-tree.code-editor-data-interface.code.ts"
+import {
   DELETE_COMMAND,
   REFRESH_COMMAND,
   VIEW_ID,
@@ -95,14 +99,16 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const refresh = (trigger: string): undefined => {
-    const state = readState<GapTreeState>(stateAt(akashaRoot(), SLUG))
+    const state = readState(stateAt(akashaRoot(), SLUG), gapTreeStateSchema)
     if (state === null) {
       return undefined
     }
     return show(state, trigger)
   }
 
-  const reading = followState<GapTreeState>(akashaRoot(), SLUG, (state) => show(state, "gaps"))
+  const reading = followState(akashaRoot(), SLUG, gapTreeStateSchema, (state) =>
+    show(state, "gaps")
+  )
 
   context.subscriptions.push(
     {

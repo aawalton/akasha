@@ -3,6 +3,10 @@ import {
   readState,
   stateAt,
 } from "akasha/alan/harness/code-editor/data-interface/modules/state-reading/state-reading.module.code.ts"
+import {
+  type StatusBarState,
+  statusBarStateSchema,
+} from "akasha/alan/harness/code-editor/data-interface/pages/status-bar/status-bar.code-editor-data-interface.code.ts"
 import { akashaRoot } from "akasha/code/editor/extension/modules/harness-call/harness-call.module.code.ts"
 import { recordObservation } from "akasha/code/editor/extension/modules/observation-store/observation-store.module.code.ts"
 import {
@@ -109,14 +113,16 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
   }
 
   const refresh = (trigger: string): undefined => {
-    const held = readState<StatusBarState>(stateAt(akashaRoot(), SLUG))
+    const held = readState(stateAt(akashaRoot(), SLUG), statusBarStateSchema)
     if (held === null) {
       return undefined
     }
     return draw(held, trigger)
   }
 
-  const reading = followState<StatusBarState>(akashaRoot(), SLUG, (held) => draw(held, "status"))
+  const reading = followState(akashaRoot(), SLUG, statusBarStateSchema, (held) =>
+    draw(held, "status")
+  )
 
   context.subscriptions.push(
     {

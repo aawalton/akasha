@@ -38,6 +38,7 @@ export const codeEditorDataInterface = {
     "module/state-writing",
     "module/status-bar-composing",
     "module/tree-drawing",
+    "module/tree-row-fields",
     "module/tree-turning",
     "number-property/cooldown-milliseconds",
     "service-workstation/code-editor-data-watcher",
@@ -61,6 +62,7 @@ export const codeEditorDataInterface = {
       uncommitted: true,
       default: "jsonl",
     },
+    { pageProperty: "code-file-property/code", required: false, many: false },
   ],
   decisions: [
     {

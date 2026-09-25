@@ -6,5 +6,6 @@ export const pageTree = {
   slug: "page-tree",
   definition: "the rows the page types panel draws",
   d: "ts",
+  code: "ts",
   cooldownMilliseconds: 1000,
 } as const satisfies CodeEditorDataInterface
