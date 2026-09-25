@@ -154,6 +154,14 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That refusal, and a question that throws, are refused as the service's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other question refused is refused as the caller's fault.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A question naming no darkened key is answered without the darkened keys.",
     },
     {

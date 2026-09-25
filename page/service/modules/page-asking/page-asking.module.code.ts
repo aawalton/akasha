@@ -20,6 +20,10 @@ import {
   type Reads,
   type Testing,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import type {
+  Faulted,
+  Refusal,
+} from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import {
   meets,
   narrows,
@@ -155,7 +159,12 @@ function takenIn(query: Query, sorted: readonly Valued[]): readonly Valued[] {
   return limit === undefined ? sorted.slice(from) : sorted.slice(from, from + limit)
 }
 
-function answering(query: Query, taken: readonly Valued[], n: number, read?: Reads): Asked {
+function answering(
+  query: Query,
+  taken: readonly Valued[],
+  n: number,
+  read?: Reads
+): Faulted<Asked> {
   const rows = taken.map((one) => rowOf(one.value, query.keys))
   return read === undefined || read.size === 0 ? { rows, n } : { rows, n, read }
 }
@@ -170,14 +179,15 @@ export function answeringWithin(
   query: Query,
   asked: { readonly rows: readonly Row[]; readonly n: number; readonly at?: string },
   ceiling: number = ANSWERED_AT_MOST
-): { readonly said: string } | { readonly refused: string } {
+): { readonly said: string } | Refusal {
   const held: string[] = []
   let carried = 0
   for (const row of asked.rows) {
     const one = JSON.stringify(row)
     carried += one.length
     if (carried > ceiling) {
-      return { refused: overflowing(query.pageTypeSlug, held.length, asked.n, ceiling) }
+      const refused = overflowing(query.pageTypeSlug, held.length, asked.n, ceiling)
+      return { refused, fault: "caller" }
     }
     held.push(one)
   }
@@ -185,10 +195,10 @@ export function answeringWithin(
   return { said: `{"rows":[${held.join(",")}],"n":${asked.n}${at}}` }
 }
 
-function countedFirst(root: string, query: Query, counting: readonly Counting[]): Asked {
+function countedFirst(root: string, query: Query, counting: readonly Counting[]): Faulted<Asked> {
   const counted = computedInto(root, counting)
   const darkened = unlit(query, counted.dark)
-  if (darkened !== null) return { refused: darkened }
+  if (darkened !== null) return { refused: darkened, fault: "service" }
   const held = counted.rows.filter((one) => narrows(one.value, query.where))
   const sorted = orderedIn(query, held)
   return answering(query, takenIn(query, sorted), sorted.length, counted.read)
@@ -199,7 +209,7 @@ function narrowedFirst(
   query: Query,
   counting: readonly Counting[],
   working: boolean
-): Asked {
+): Faulted<Asked> {
   const rows = counting.map((one) => one.row)
   const held = rows.filter((one) => narrows(one.value, query.where))
   const sorted = orderedIn(query, held)
@@ -207,29 +217,30 @@ function narrowedFirst(
   if (!working) return answering(query, taken, sorted.length)
   const counted = computedOver(root, counting, taken)
   const darkened = unlit(query, counted.dark)
-  if (darkened !== null) return { refused: darkened }
+  if (darkened !== null) return { refused: darkened, fault: "service" }
   return answering(query, counted.rows, sorted.length, counted.read)
 }
 
-export function asking(root: string, query: Query): Asked {
+export function asking(root: string, query: Query): Faulted<Asked> {
   const { limit, offset } = query
   if (limit !== undefined && (!Number.isInteger(limit) || limit < 0)) {
-    return { refused: `a limit is a whole number that is not below nothing, and ${limit} is not` }
+    const refused = `a limit is a whole number that is not below nothing, and ${limit} is not`
+    return { refused, fault: "caller" }
   }
   if (offset !== undefined && (!Number.isInteger(offset) || offset < 0)) {
-    return {
-      refused: `an offset is a whole number that is not below nothing, and ${offset} is not`,
-    }
+    const refused = `an offset is a whole number that is not below nothing, and ${offset} is not`
+    return { refused, fault: "caller" }
   }
   const unknown = unrun(query.where)
-  if (unknown !== null) return { refused: unknown }
+  if (unknown !== null) return { refused: unknown, fault: "caller" }
   if (listedAt(root, PAGE_TYPE, query.pageTypeSlug).length === 0) {
-    return { refused: `\`${query.pageTypeSlug}\` names no page type the index holds` }
+    const refused = `\`${query.pageTypeSlug}\` names no page type the index holds`
+    return { refused, fault: "caller" }
   }
   const reading = readingIn(root)
   const carried = carriedFor(reading, query.pageTypeSlug)
   const unnamed = unkeyed(query, carried)
-  if (unnamed !== null) return { refused: unnamed }
+  if (unnamed !== null) return { refused: unnamed, fault: "caller" }
   const named = new Set(askedFor(query).map(([key]) => key))
   const answered = (one: Computed): boolean => one.askedByName !== true || named.has(one.key)
   try {
@@ -250,11 +261,11 @@ export function asking(root: string, query: Query): Asked {
     if (narrowsOn(query, worked)) return countedFirst(root, query, counting)
     return narrowedFirst(root, query, counting, carriesWorked(query, worked))
   } catch (thrown) {
-    return { refused: thrown instanceof Error ? thrown.message : String(thrown) }
+    return { refused: thrown instanceof Error ? thrown.message : String(thrown), fault: "service" }
   }
 }
 
-export function askingAt(root: string, query: Query): Asked {
+export function askingAt(root: string, query: Query): Faulted<Asked> {
   const at = baseOf(root)
   const asked = asking(root, query)
   return "refused" in asked ? asked : { ...asked, at }

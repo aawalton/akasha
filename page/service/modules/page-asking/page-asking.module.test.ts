@@ -117,6 +117,7 @@ test("a calculation the page type named declares is worked out over a page of a 
 test("a name that is no page type is refused rather than answered empty", () => {
   const said = asking(root, { pageTypeSlug: "no-such-page-type-anywhere" })
   expect("refused" in said && said.refused).toContain("names no page type")
+  expect("refused" in said && said.fault).toBe("caller")
 })
 
 test("rows are ordered by the key the question sorts on", () => {
@@ -343,6 +344,11 @@ test("a question asked at the commit answers the commit its rows were read at", 
 test("an answer written out names the commit it was read at", () => {
   const said = answeringWithin({ pageTypeSlug: "a" }, { rows: [{ slug: "b" }], n: 1, at: "c" })
   expect("said" in said && JSON.parse(said.said)).toEqual({ rows: [{ slug: "b" }], n: 1, at: "c" })
+})
+
+test("an answer past what one answer carries is refused as the caller's fault", () => {
+  const said = answeringWithin({ pageTypeSlug: "a" }, { rows: [{ slug: "b" }], n: 1 }, 1)
+  expect("refused" in said && said.fault).toBe("caller")
 })
 
 test("a question refused answers no commit", () => {
