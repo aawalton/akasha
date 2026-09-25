@@ -104,7 +104,7 @@ export const houseTravel: HouseTravelHolder = asHouseTravelHolder({
     isMovable: true,
     isMouseEnabled: true,
     isClampedToScreen: true,
-    fonts: { header: "$(BOLD_FONT)|$(KB_20)soft-shadow-thick" },
+    fonts: { header: "$(BOLD_FONT)|$(KB_20)|soft-shadow-thick" },
     search: { max: 5, height: 25, width: 250, minChars: 2 },
     color: {
       default: { R: 0.85, G: 0.83, B: 0.7 },
@@ -139,7 +139,7 @@ export const houseTravel: HouseTravelHolder = asHouseTravelHolder({
     tabHeight: 40,
     tabWidth: 158,
     tabOffset: 4,
-    tabFont: "$(BOLD_FONT)|$(KB_20)soft-shadow-thick",
+    tabFont: "$(BOLD_FONT)|$(KB_20)|soft-shadow-thick",
     houseDebug: false,
   },
   constants: {
