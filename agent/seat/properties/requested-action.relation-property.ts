@@ -5,7 +5,7 @@ export const requestedAction = {
   type: "page-type/relation-property",
   slug: "requested-action",
   propertySlug: "action",
-  definition: "what a seat's supervisor has been asked to do",
+  definition: "what a seat's supervisor has to do",
   targetPageType: "page-type/supervisor-action",
   types: "ts",
 } as const satisfies RelationProperty
