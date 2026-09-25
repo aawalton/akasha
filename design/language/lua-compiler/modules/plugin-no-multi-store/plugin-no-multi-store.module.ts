@@ -6,4 +6,5 @@ export const pluginNoMultiStore = {
   slug: "plugin-no-multi-store",
   definition: "an error on a LuaMultiReturn call used outside destructuring or return",
   code: "ts",
+  reachedByPath: ["default"],
 } as const satisfies Module

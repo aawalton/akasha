@@ -6,4 +6,5 @@ export const pluginNoTruthyNumbers = {
   slug: "plugin-no-truthy-numbers",
   definition: "an error on a condition whose type is truthy in Lua but falsy in TypeScript",
   code: "ts",
+  reachedByPath: ["default"],
 } as const satisfies Module
