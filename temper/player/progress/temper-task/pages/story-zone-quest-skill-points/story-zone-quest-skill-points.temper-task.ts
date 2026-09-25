@@ -14,7 +14,7 @@ export const storyZoneQuestSkillPoints = {
   rruleAnchorFromCompletion: false,
   accountPage: "temper-account/alanarre",
   scope: "next_character",
-  priority: "p3",
+  priority: "p4",
   effectiveCharacter: "temper-account-character/maviola-el",
   lastCompletedAt: "2026-09-25T00:55:34.369Z",
   progress: "jsonl",
