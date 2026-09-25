@@ -24,6 +24,7 @@
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/stop.common-language-term.ts","id":"01a0d3ee-4609-79c9-8be8-f3c77f483337"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/stored.common-language-term.ts","id":"01a0c9b1-6dc0-7847-affd-01e139b4cc0d"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/summarize.common-language-term.ts","id":"01a0d448-7978-70f2-8ad1-416d1d55bdbf"}
+{"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/use.common-language-term.ts","id":"01a0d57a-2034-78a8-89c8-2193c67baae1"}
 {"propertySlug":"part-of-speech","path":"domain/standard-agent-english/term/common-language-term/pages/write.common-language-term.ts","id":"01a0d435-bdab-783b-b4e0-3afede58019f"}
 {"propertySlug":"parts","path":"domain/standard-agent-english/part-of-speech/part-of-speech.page-type.ts","id":"01a0c564-e79a-7e94-a65a-e5acd2dacc9f"}
 {"propertySlug":"written-from","path":"domain/standard-agent-english/construction/pages/be-verb-with-a-past-participle-and-a-manner-adverb.construction.ts","id":"01a0d8f4-3908-7119-bbaa-a40657c4b370"}

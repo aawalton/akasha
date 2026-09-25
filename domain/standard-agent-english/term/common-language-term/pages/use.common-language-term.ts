@@ -8,5 +8,6 @@ export const use = {
   spellings: [
     { partOfSpeech: "part-of-speech/verb", spelling: "use" },
     { partOfSpeech: "part-of-speech/verb", spelling: "uses" },
+    { partOfSpeech: "part-of-speech/past-participle", spelling: "used" },
   ],
 } as const satisfies CommonLanguageTerm
