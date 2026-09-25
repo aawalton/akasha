@@ -4,8 +4,7 @@ export const blockAkashaReads = {
   id: "01a04eb3-0e18-748c-9e7f-ae84d9254e02",
   type: "page-type/agent-hook",
   slug: "block-akasha-reads",
-  definition:
-    "a refusal of a call showing a body inside this checkout, naming the akasha call instead",
+  definition: "a refusal of an agent tool that shows a file in akasha",
   code: "ts",
   test: "ts",
   runsAt: ["PreToolUse"],
