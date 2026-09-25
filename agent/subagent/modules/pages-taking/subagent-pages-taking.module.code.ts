@@ -9,6 +9,7 @@ import {
 import { pathsUnder } from "akasha/agent/subagent/modules/page-naming/subagent-page-naming.module.code.ts"
 import { movedOnto } from "akasha/agent/subagent/modules/recovering/subagent-recovering.module.code.ts"
 import { partWay } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { headOf } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import { pagesOriginHere } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import { fileKeysAt } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
@@ -56,8 +57,10 @@ export async function tookUnder(
   why: string,
   done: string[] = [],
   sending: Sending = overHttp,
-  reading: Reading = readOf
+  reading: Reading = readOf,
+  heading: (at: string) => string = headOf
 ): Promise<Went> {
+  const read = heading(root)
   const paths = await notWorking(root, pathsUnder(root, seatName), reading)
   if (paths.length === 0) return WENT
   const seat = seatPageIn(root, seatName)
@@ -66,6 +69,7 @@ export async function tookUnder(
     writer: WRITER,
     message: `${seatName} ${why}, so the ${String(paths.length)} subagent page(s) under it go`,
     removes: paths,
+    read,
   })
   if ("refused" in wrote) return { why: [wrote.refused, ...partWay(done)].join(" ") }
   besideGone(root, paths)

@@ -45,6 +45,14 @@ export const subagentPagesTaking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A sweep states the commit the checkout was at before its pages were read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "How that commit is read is handed in rather than reached for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The origin that ask reaches is the origin a message send reaches.",
     },
     {

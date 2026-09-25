@@ -46,6 +46,10 @@ function pagesTaking(root: string, asked: Writing[]): Sending {
   }
 }
 
+const READ_AT = "a".repeat(40)
+
+const heading = (): string => READ_AT
+
 function pagesRefusing(why: string): Sending {
   return () => Promise.resolve({ refused: why })
 }
@@ -60,12 +64,12 @@ test("a sweep takes a page with edits waiting, moving them onto the seat", async
     writing(root, editsAt(at) ?? "", ROW)
     listedFiled(root, "subagent", slugOf("akasha", OWN), [{ path: at, id: AGENT }])
     const asked: Writing[] = []
-    expect(
-      await tookUnder(root, "akasha", "is gone", [], pagesTaking(root, asked), RETURNED)
-    ).toEqual(WENT)
+    const sending = pagesTaking(root, asked)
+    expect(await tookUnder(root, "akasha", "is gone", [], sending, RETURNED, heading)).toEqual(WENT)
     expect(asked.length).toBe(1)
     expect(asked[0]?.writer).toBe(WRITER)
     expect(asked[0]?.removes).toEqual([at])
+    expect(asked[0]?.read).toBe(READ_AT)
     expect(asked[0]?.message).toContain("akasha is gone")
     expect(existsSync(join(root, at))).toBe(false)
     const row = KEPT_ROW.parse(JSON.parse(keptBySeat(root).edits))
@@ -85,7 +89,8 @@ test("a sweep the pages refused leaves every page where that page is", async () 
       "is gone",
       [],
       pagesRefusing("the pages answered 500"),
-      RETURNED
+      RETURNED,
+      heading
     )
     expect("why" in went ? went.why : "").toContain("the pages answered 500")
     expect(existsSync(join(root, at))).toBe(true)
