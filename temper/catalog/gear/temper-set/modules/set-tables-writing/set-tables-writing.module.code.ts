@@ -37,6 +37,8 @@ const MONSTER_SLOTS: readonly string[] = ["EQUIP_TYPE_HEAD", "EQUIP_TYPE_SHOULDE
 
 const SHIELD = "WEAPONTYPE_SHIELD"
 
+const DUNGEON_KINDS: ReadonlySet<number> = new Set([3, 4, 5])
+
 export const ROW_MARKS = {
   crafted: 0x01,
   jewelry: 0x02,
@@ -183,8 +185,32 @@ function setsByConstant(pages: readonly SetPage[], key: string): readonly string
   })
 }
 
-export function setDataBody(pages: readonly SetPage[]): string {
+function zoneKindsOf(pages: readonly SetPage[]): ReadonlyMap<number, number> {
+  const found = new Map<number, number>()
+  for (const page of pages) {
+    const zones = (sourcesIn(stringsIn(page.value.itemBrowserSources)) ?? []).filter(
+      (one): one is number => typeof one === "number"
+    )
+    const kinds = numbersOf(page.value.itemBrowserPlaceKinds)
+    zones.forEach((zone, at) => {
+      const kind = kinds[at]
+      if (kind !== undefined && !found.has(zone)) found.set(zone, kind)
+    })
+  }
+  return new Map([...found].sort(([one], [other]) => one - other))
+}
+
+function zonesSaid(zones: readonly number[]): readonly string[] {
+  return [...new Set(zones)]
+    .sort((one, other) => one - other)
+    .map((zone) => `[${String(zone)}]: true,`)
+}
+
+export function setDataBody(pages: readonly SetPage[], publicDungeons: readonly number[]): string {
   const sets = pages.filter(filed)
+  const dungeons = [...zoneKindsOf(pages)]
+    .filter(([zone, kind]) => zone > 0 && DUNGEON_KINDS.has(kind))
+    .map(([zone]) => zone)
   const itemIds = sets
     .filter((page) => numbersOf(page.value.esoItemIds).length > 0)
     .map((page) => `[${String(page.esoSetId)}]: ${listed(numbersOf(page.value.esoItemIds))},`)
@@ -203,6 +229,8 @@ export function setDataBody(pages: readonly SetPage[]): string {
     ...bySetSaid("setsEquipTypes", setsByConstant(sets, "esoEquipTypes")),
     ...bySetSaid("setsWeaponTypes", setsByConstant(sets, "esoWeaponTypes")),
     ...bySetSaid("setsWithJewelry", jewelry),
+    ...bySetSaid("dungeonZoneIds", zonesSaid(dungeons)),
+    ...bySetSaid("publicDungeonZoneIds", zonesSaid(publicDungeons)),
     "}",
     "",
   ].join("\n")
@@ -271,7 +299,6 @@ function rowSaid(page: SetPage, id: number): string | undefined {
     `id: ${String(id)}`,
     `flags: ${String(marks)}`,
     `sources: ${JSON.stringify(sources).replaceAll(",", ", ")}`,
-    `places: ${listed(numbersOf(value.itemBrowserPlaceKinds))}`,
   ]
   const ext =
     (marks & ROW_MARKS.crafted) !== 0
@@ -297,6 +324,10 @@ export function itemRowsBody(pages: readonly SetPage[]): string {
     "export const ITEM_BROWSER_ROWS: readonly ItemBrowserRow[] = [",
     ...rows,
     "]",
+    "",
+    "export const ZONE_KINDS: { readonly [zoneId: number]: number | undefined } = {",
+    ...[...zoneKindsOf(pages)].map(([zone, kind]) => `  [${String(zone)}]: ${String(kind)},`),
+    "}",
     "",
   ].join("\n")
 }

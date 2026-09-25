@@ -33,5 +33,13 @@ export const setTablesWriting = {
       decisionKind: "decision-kind/departure",
       statement: "A crafted row's extra number is the traits its set needs.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A zone is a dungeon where a set page files it as a dungeon, trial or arena.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A zone is a public dungeon where a public dungeon page names it.",
+    },
   ],
 } as const satisfies Module

@@ -32,7 +32,7 @@ const WARLOCK: PageValue = {
   classId: WARDEN,
   itemBrowserItemId: 46177,
   itemBrowserSources: ["181:-203,-202", "3"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [3, 1],
 }
 
 const CRAFTED: PageValue = {
@@ -67,12 +67,14 @@ describe("setInfoBody", () => {
 
 describe("setDataBody", () => {
   test("names each set in every language and files it under its slots", () => {
-    const body = setDataBody(PAGES)
+    const body = setDataBody(PAGES, [124])
     expect(body).toContain('[19]: { de: "Gewänder des Hexers", en: "Vestments of the Warlock" },')
     expect(body).toContain("[19]: [43529, 43803],")
     expect(body).toContain("[EQUIP_TYPE_NECK]: { [19]: 1 },")
     expect(body).toContain("[ARMORTYPE_LIGHT]: { [19]: 1, [37]: 1 },")
     expect(body).toContain("  setsWithJewelry: {\n    [19]: 1,\n  },")
+    expect(body).toContain("  dungeonZoneIds: {\n    [181]: true,\n  },")
+    expect(body).toContain("  publicDungeonZoneIds: {\n    [124]: true,\n  },")
   })
 })
 
@@ -101,9 +103,8 @@ describe("sources", () => {
 describe("itemRowsBody", () => {
   test("draws a row for each set naming an item, with its traits as the crafted extra", () => {
     const body = itemRowsBody(PAGES)
-    expect(body).toContain("  { id: 46563, flags: 81, sources: [], places: [], ext: 2 },")
-    expect(body).toContain(
-      "  { id: 46177, flags: 0, sources: [181, [-203, -202], 3], places: [1] },"
-    )
+    expect(body).toContain("  { id: 46563, flags: 81, sources: [], ext: 2 },")
+    expect(body).toContain("  { id: 46177, flags: 0, sources: [181, [-203, -202], 3] },")
+    expect(body).toContain("  [3]: 1,\n  [181]: 3,\n}")
   })
 })

@@ -11,7 +11,6 @@ export interface ItemBrowserRow {
   readonly id: number
   readonly flags: number
   readonly sources: ReadonlyArray<number | readonly number[]>
-  readonly places: readonly number[]
   readonly ext?: number
   readonly alt?: string
 }
