@@ -35,6 +35,7 @@ import {
   optionalNumberValue,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
 import {
+  formatCompact,
   formatCount,
   formatPercent,
 } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
@@ -350,16 +351,16 @@ export function updateAbilityPanel(this: void, barsPanel: BarsPanelControl): und
     row.GetNamedChild("Bar")?.SetWidth(maxwidth * (ratio ?? 0))
 
     setChildText(row, "Fraction", ratio != null ? formatPercent(ratio) : "-")
-    setChildText(row, "PerSecond", dps != null ? formatCount(dps) : "-")
-    setChildText(row, "Total", total != null ? formatCount(total) : "-")
+    setChildText(row, "PerSecond", dps != null ? formatCompact(dps) : "-")
+    setChildText(row, "Total", total != null ? formatCompact(total) : "-")
     setChildText(row, "Crits", ratio1 != null ? formatCount(ratio1) : "-")
     setChildText(row, "Hits", `/${formatCount(ratio2 ?? 0)}`)
     setChildText(row, "CritRatio", critratio != null ? formatPercent(critratio / PERCENT) : "-")
-    setChildText(row, "Average", avg != null ? formatCount(avg) : "-")
+    setChildText(row, "Average", avg != null ? formatCompact(avg) : "-")
     setChildText(
       row,
       "MinMax",
-      typeof minmaxValue === "number" ? formatCount(minmaxValue) : minmaxValue
+      typeof minmaxValue === "number" ? formatCompact(minmaxValue) : minmaxValue
     )
 
     currentanchor = [TOPLEFT, row, BOTTOMLEFT, 0, getDx()]

@@ -21,8 +21,7 @@ import {
   getSelections,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import {
-  formatAbbreviated,
-  formatCount,
+  formatCompact,
   formatPercent,
 } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
@@ -161,8 +160,8 @@ export function updateUnitPanel(this: void, panel: BarsPanelControl): undefined 
 
     row.GetNamedChild("Bar")?.SetWidth(maxwidth * ratio)
 
-    setChildText(row, "PerSecond", formatCount(dps))
-    setChildText(row, "Total", formatAbbreviated(damage))
+    setChildText(row, "PerSecond", formatCompact(dps))
+    setChildText(row, "Total", formatCompact(damage))
     setChildText(row, "Fraction", formatPercent(ratio))
 
     currentanchor = [TOPLEFT, row, BOTTOMLEFT, 0, getDx()]
