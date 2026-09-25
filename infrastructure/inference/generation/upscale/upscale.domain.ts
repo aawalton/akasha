@@ -4,7 +4,7 @@ export const upscale = {
   id: "01a06815-9efd-7040-a13c-1048a109ba86",
   type: "page-type/domain",
   slug: "upscale",
-  definition: "an image remade at a higher resolution than its own",
+  definition: "a larger version of an image",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "upscale" }],
   parts: [
     "container-recipe/upscale-cluster-image",
