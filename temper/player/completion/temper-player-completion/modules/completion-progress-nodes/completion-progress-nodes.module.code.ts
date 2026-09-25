@@ -35,7 +35,7 @@ function sumOf(nodes: readonly ProgressNode[]): ItemProgress {
   return { current, total }
 }
 
-export function nodeProgress(node: ProgressNode): ItemProgress {
+function nodeProgress(node: ProgressNode): ItemProgress {
   if ("children" in node) return sumOf(node.children)
   return { current: node.count, total: node.total }
 }
