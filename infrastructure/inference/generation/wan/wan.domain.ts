@@ -4,7 +4,7 @@ export const wan = {
   id: "01a06815-9efd-7028-bfc6-b3c3933ac08c",
   type: "page-type/domain",
   slug: "wan",
-  definition: "video made from a still image by the Wan diffusion model",
+  definition: "how code makes a video from an image",
   spellings: [{ partOfSpeech: "part-of-speech/noun", spelling: "wan" }],
   parts: [
     "container-recipe/wan-image",
