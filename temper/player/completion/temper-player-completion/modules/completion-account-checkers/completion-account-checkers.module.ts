@@ -7,6 +7,7 @@ export const completionAccountCheckers = {
   definition: "what answers whether an account has finished each account-wide completion card",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
@@ -23,9 +24,12 @@ export const completionAccountCheckers = {
       statement: "Nothing captured counts antiquity leads.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The account quests, recipes, traits, points of interest and zone completion cards have a checker.",
+      decisionKind: "decision-kind/departure",
+      statement: "A card counted from every character is counted by the union its summary reads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A card no character was read for answers nothing rather than nought.",
     },
     {
       decisionKind: "decision-kind/gap",

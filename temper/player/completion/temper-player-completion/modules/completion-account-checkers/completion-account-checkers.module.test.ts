@@ -3,7 +3,12 @@ import { MAX_CHAMPION_POINTS } from "akasha/temper/catalog/champion-point/module
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.code.ts"
+import {
+  HELD,
+  summaryOf,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.test-fixtures.ts"
 import type { AccountCheckerInput } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
+import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { NO_COMPLETION_CATALOGS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import { resolveGenericCheckerProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import {
@@ -26,9 +31,49 @@ function account(overrides: Partial<AccountCompletion> = {}): AccountCheckerInpu
 
 describe("account cards", () => {
   test("an account card with no checker is still an account card", () => {
-    expect(isAccountCard("account-quests")).toBe(true)
+    expect(isAccountCard("antiquity-leads-motifs")).toBe(true)
     expect(isAccountCard("quests")).toBe(false)
-    expect(resolveGenericCheckerProgress("account-quests", [], {}, account())).toBeUndefined()
+    expect(
+      resolveGenericCheckerProgress("antiquity-leads-motifs", [], {}, account())
+    ).toBeUndefined()
+  })
+})
+
+const COUNTED_FROM_EVERY_CHARACTER: readonly AccountCardId[] = [
+  "account-points-of-interest",
+  "account-quests",
+  "account-recipes",
+  "account-trait-research",
+  "account-zone-completion",
+]
+
+describe("a card counted from every character", () => {
+  for (const card of COUNTED_FROM_EVERY_CHARACTER) {
+    test(`${card} counts what the summary counts`, () => {
+      const summary = summaryOf(HELD)[card]
+      expect(summary.total).toBeGreaterThan(0)
+      expect(resolveGenericCheckerProgress(card, [], null, HELD)).toEqual({
+        current: summary.count,
+        total: summary.total,
+      })
+    })
+  }
+
+  test("a quest one character finished counts for the account", () => {
+    expect(resolveGenericCheckerProgress("account-quests", [], null, HELD)).toEqual({
+      current: 2,
+      total: 2,
+    })
+    expect(ACCOUNT_COMPLETION_CARD_CHECKERS["account-quests"]?.isCardComplete(HELD)).toBe(true)
+    expect(
+      ACCOUNT_COMPLETION_CARD_CHECKERS["account-points-of-interest"]?.isCardComplete(HELD)
+    ).toBe(false)
+  })
+
+  test("a card no character was read for answers nothing", () => {
+    expect(
+      resolveGenericCheckerProgress("account-quests", [], null, { ...HELD, rows: [] })
+    ).toBeUndefined()
   })
 })
 
