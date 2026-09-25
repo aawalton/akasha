@@ -1,4 +1,7 @@
 import { expect, test } from "bun:test"
+import { modelVersion } from "akasha/agent/model/version/model-version.page-type.ts"
+import { claudeOpus55 } from "akasha/agent/model/version/pages/claude-opus-5-5.model-version.ts"
+import { claudeOpus551m } from "akasha/agent/model/version/pages/claude-opus-5-5-1m.model-version.ts"
 import {
   type Attribution,
   attributed,
@@ -10,7 +13,11 @@ import {
 
 const SESSION = "session_015hThfHxKwTU3dXSpN4iZBP"
 
-const HELD: Attribution = { model: "claude-opus-5[1m]", session: SESSION }
+const OPUS_EXTENDED = `${modelVersion.slug}/${claudeOpus551m.slug}`
+
+const OPUS = `${modelVersion.slug}/${claudeOpus55.slug}`
+
+const HELD: Attribution = { model: OPUS_EXTENDED, session: SESSION }
 
 const CO_AUTHORED = "Co-Authored-By: Claude Opus 5.5 (1M context) <noreply@anthropic.com>"
 
@@ -63,21 +70,24 @@ test("a commit no model is recorded for is co-authored as Claude", () => {
   )
 })
 
-test("a model this system knows nothing of is co-authored as Claude", () => {
-  expect(modelNamed("claude-something-else")).toBe("Claude")
+test("a model a seat records as a model version is named by that version's title", () => {
+  expect(modelNamed(OPUS_EXTENDED)).toBe("Claude Opus 5.5 (1M context)")
+  expect(modelNamed(OPUS)).toBe("Claude Opus 5.5")
 })
 
-test("a model is named as a reader reads it rather than as the id a seat records", () => {
-  expect(modelNamed("claude-opus-5[1m]")).toBe("Claude Opus 5.5 (1M context)")
-  expect(modelNamed("claude-sonnet-5")).toBe("Claude Sonnet 5")
-  expect(modelNamed("haiku")).toBe("Claude Haiku 4.5")
+test("a model version no page carries is co-authored as Claude", () => {
+  expect(modelNamed(`${modelVersion.slug}/claude-nothing-at-all`)).toBe("Claude")
+})
+
+test("a model named other than as a model version is co-authored as Claude", () => {
+  expect(modelNamed(claudeOpus551m.modelId)).toBe("Claude")
 })
 
 test("no session line is written where no session is known", () => {
-  expect(attributionLines({ model: "opus", session: null })).toEqual([
+  expect(attributionLines({ model: OPUS, session: null })).toEqual([
     "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
   ])
-  expect(attributed("the subject line", { model: "opus", session: null })).toBe(
+  expect(attributed("the subject line", { model: OPUS, session: null })).toBe(
     "the subject line\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>"
   )
 })
@@ -90,7 +100,7 @@ test("the session named is the one the seat page states", () => {
 })
 
 test("the model named is the one the seat page states", () => {
-  expect(attributionFrom({ model: "claude-opus-5[1m]" }).model).toBe("claude-opus-5[1m]")
+  expect(attributionFrom({ model: OPUS_EXTENDED }).model).toBe(OPUS_EXTENDED)
   expect(attributionFrom({ model: "" }).model).toBe(null)
   expect(attributionFrom(null).model).toBe(null)
 })

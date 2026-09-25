@@ -11,6 +11,8 @@ const MODEL_ID = "modelId"
 
 const SLUG = "slug"
 
+const TITLE = "title"
+
 const QUALIFIED_BY = "/"
 
 function firstText(root: string, key: string, is: string, wanted: string): string | null {
@@ -29,8 +31,17 @@ export function modelVersionOf(modelId: string, root: string = checkoutRoot()): 
   return slug === null ? null : `${PAGE_TYPE}${QUALIFIED_BY}${slug}`
 }
 
-export function modelIdOf(address: string, root: string = checkoutRoot()): string | null {
+function slugIn(address: string): string | null {
   const opening = `${PAGE_TYPE}${QUALIFIED_BY}`
-  if (!address.startsWith(opening)) return null
-  return firstText(root, SLUG, address.slice(opening.length), MODEL_ID)
+  return address.startsWith(opening) ? address.slice(opening.length) : null
+}
+
+export function modelIdOf(address: string, root: string = checkoutRoot()): string | null {
+  const slug = slugIn(address)
+  return slug === null ? null : firstText(root, SLUG, slug, MODEL_ID)
+}
+
+export function titleOf(address: string, root?: string): string | null {
+  const slug = slugIn(address)
+  return slug === null ? null : firstText(root ?? checkoutRoot(), SLUG, slug, TITLE)
 }

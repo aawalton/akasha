@@ -45,8 +45,12 @@ export const commitAttribution = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A model is named as Claude followed by the title its model version states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A model is named as a reader reads it, worked out from the id rather than listed.",
+        "The title is read off the model version's page rather than worked out from its slug.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -54,7 +58,11 @@ export const commitAttribution = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The model is read as the id a seat records rather than as a name for a reader.",
+      statement: "The model is read as the model version a seat records.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A model no model version's page carries is co-authored as Claude.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,4 +1,4 @@
-import { parseModel, toWireId } from "akasha/agent/model/modules/vocab/model-vocab.module.code.ts"
+import { titleOf } from "akasha/agent/model/version/modules/naming/model-version-naming.module.code.ts"
 import { writerIn } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { akashaBesideOf } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { seatAbove } from "akasha/agent/subagent/modules/naming/subagent-naming.module.code.ts"
@@ -15,10 +15,6 @@ const SESSION_UNDER = "https://claude.ai/code/"
 
 const ANY_MODEL = "Claude"
 
-const EXTENDED_SAID = " (1M context)"
-
-const NUMBERED = /^[0-9]+$/
-
 const MODEL = "model"
 
 export type Attribution = {
@@ -26,21 +22,9 @@ export type Attribution = {
   readonly session: string | null
 }
 
-function titledAs(wire: string): string {
-  const words: string[] = []
-  const numbers: string[] = []
-  for (const part of wire.split("-")) {
-    if (NUMBERED.test(part)) numbers.push(part)
-    else words.push(part.charAt(0).toUpperCase() + part.slice(1))
-  }
-  if (numbers.length > 0) words.push(numbers.join("."))
-  return words.join(" ")
-}
-
 export function modelNamed(model: string | null): string {
-  const spec = model === null ? null : parseModel(model)
-  if (spec === null) return ANY_MODEL
-  return `${titledAs(toWireId(spec.logical))}${spec.extended ? EXTENDED_SAID : ""}`
+  const title = model === null ? null : titleOf(model)
+  return title === null ? ANY_MODEL : `${ANY_MODEL} ${title}`
 }
 
 export function attributionLines(held: Attribution): readonly string[] {

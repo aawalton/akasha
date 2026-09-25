@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"model-version-naming.module.code.ts","path":"agent/seat/usage/modules/show/seat-usage-show.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"model-version-naming.module.code.ts","path":"agent/seat/usage/seat-usage.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"model-version-naming.module.code.ts","path":"command/modules/commit-attribution/commit-attribution.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/model/version/model-version.page-type.ts","id":"01a0d4b7-ebed-7a27-8b91-440087702aa8"}
