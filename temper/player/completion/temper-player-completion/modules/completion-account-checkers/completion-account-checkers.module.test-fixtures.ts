@@ -64,8 +64,64 @@ const GLENUMBRA = 3
 
 const DELVE = 1
 
+const ACHIEVEMENT_DONE = { completed: true, criteriaProgress: { completedSteps: 1, totalSteps: 1 } }
+
+const PATRON_COLLECTIBLE = 600
+
 export const CATALOGS: CompletionCatalogs = {
   ...NO_COMPLETION_CATALOGS,
+  achievementCategories: [
+    { slug: "account-invented", title: "Invented", category: "account", displayOrder: 0 },
+    {
+      slug: "account-invented-general",
+      title: "General",
+      category: "account",
+      displayOrder: 0,
+      parent: "account-invented",
+      achievements: [
+        { esoAchievementId: 1, name: "An Invented Deed", achievementPoints: 10, totalSteps: 1 },
+        { esoAchievementId: 2, name: "Another Invented Deed", achievementPoints: 5, totalSteps: 1 },
+      ],
+    },
+    { slug: "character-invented", title: "Invented", category: "character", displayOrder: 0 },
+    {
+      slug: "character-invented-general",
+      title: "General",
+      category: "character",
+      displayOrder: 0,
+      parent: "character-invented",
+      achievements: [
+        { esoAchievementId: 3, name: "A Deed of One Hero", achievementPoints: 20, totalSteps: 1 },
+      ],
+    },
+  ],
+  antiquityCategories: [
+    {
+      esoAntiquityCategoryId: 1,
+      title: "Invented Digs",
+      antiquities: [
+        { esoAntiquityId: 24, antiquityName: "An Invented Relic", totalLoreEntries: 3 },
+      ],
+    },
+  ],
+  collectibleCategories: [
+    {
+      slug: "invented-mounts",
+      title: "Mounts",
+      collectibles: [
+        { esoCollectibleId: 500, collectibleName: "An Invented Horse" },
+        { esoCollectibleId: 501, collectibleName: "Another Invented Horse" },
+      ],
+    },
+  ],
+  tributePatrons: [
+    {
+      title: "An Invented Patron",
+      esoPatronId: 7,
+      esoCollectibleId: PATRON_COLLECTIBLE,
+      cards: [{ cardIndex: 1, baseCardName: "A Card", upgradeCardName: "A Better Card" }],
+    },
+  ],
   craftTypes: CATALOG_CRAFT_TYPES,
   researchLines: CATALOG_RESEARCH_LINES,
   questZones: [
@@ -117,6 +173,7 @@ function row(id: string, completion: CharacterCompletion): CompletionCharacterRo
 
 export const ROWS: readonly CompletionCharacterRow[] = [
   row("durene", {
+    achievements: { 3: ACHIEVEMENT_DONE },
     quests: [900001],
     pointsOfInterest: { [GLENUMBRA]: [1] },
     zoneCompletion: { [GLENUMBRA]: { [DELVE]: [1] } },
@@ -141,7 +198,12 @@ export const ROWS: readonly CompletionCharacterRow[] = [
 ]
 
 export const HELD: AccountCheckerInput = {
-  account: { achievements: {} },
+  account: {
+    achievements: { 1: ACHIEVEMENT_DONE },
+    antiquityLore: { 24: 2 },
+    collectibles: [500, PATRON_COLLECTIBLE],
+    tributeCardUpgrades: { 7: [1] },
+  },
   rows: ROWS,
   catalogs: CATALOGS,
 }

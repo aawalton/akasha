@@ -33,9 +33,8 @@ export const completionAccountCheckers = {
     },
 
     {
-      decisionKind: "decision-kind/gap",
-      statement:
-        "The account achievements, antiquity lore, collectibles and Tales of Tribute cards have a checker.",
+      decisionKind: "decision-kind/departure",
+      statement: "A card counted against a catalog answers nothing where no catalog was handed in.",
     },
   ],
 } as const satisfies Module

@@ -8,7 +8,10 @@ import {
   summaryOf,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.test-fixtures.ts"
 import type { AccountCheckerInput } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
-import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import {
+  ACCOUNT_CARDS,
+  type AccountCardId,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { NO_COMPLETION_CATALOGS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import { resolveGenericCheckerProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
 import {
@@ -83,6 +86,54 @@ describe("a card counted from every character", () => {
     for (const card of COUNTED_FROM_EVERY_CHARACTER) {
       expect(resolveGenericCheckerProgress(card, [], null, { ...HELD, rows: [] })).toBeUndefined()
     }
+  })
+})
+
+const COUNTED_AGAINST_A_CATALOG: readonly AccountCardId[] = [
+  "account-achievements",
+  "antiquity-lore",
+  "collectibles",
+  "tales-of-tribute",
+]
+
+describe("a card counted against a catalog", () => {
+  for (const card of COUNTED_AGAINST_A_CATALOG) {
+    test(`${card} counts what the summary counts`, () => {
+      const summary = summaryOf(HELD)[card]
+      expect(summary.total).toBeGreaterThan(0)
+      expect(resolveGenericCheckerProgress(card, [], null, HELD)).toEqual({
+        current: summary.count,
+        total: summary.total,
+      })
+    })
+  }
+
+  test("an achievement one character earned counts for the account", () => {
+    expect(resolveGenericCheckerProgress("account-achievements", [], null, HELD)).toEqual({
+      current: 30,
+      total: 35,
+    })
+    expect(
+      resolveGenericCheckerProgress("account-achievements", [], null, { ...HELD, rows: [] })
+    ).toEqual({ current: 10, total: 15 })
+  })
+
+  test("a patron held with every card upgraded finishes the card", () => {
+    expect(ACCOUNT_COMPLETION_CARD_CHECKERS["tales-of-tribute"]?.isCardComplete(HELD)).toBe(true)
+    expect(ACCOUNT_COMPLETION_CARD_CHECKERS.collectibles?.isCardComplete(HELD)).toBe(false)
+  })
+
+  test("a card with no catalog answers nothing", () => {
+    const bare = { ...HELD, catalogs: NO_COMPLETION_CATALOGS }
+    for (const card of COUNTED_AGAINST_A_CATALOG) {
+      expect(resolveGenericCheckerProgress(card, [], null, bare)).toBeUndefined()
+    }
+  })
+
+  test("the antiquity leads are the only account cards with no checker", () => {
+    expect(
+      ACCOUNT_CARDS.map((card) => card.id).filter((id) => !(id in ACCOUNT_COMPLETION_CARD_CHECKERS))
+    ).toEqual(["antiquity-leads-legendary", "antiquity-leads-motifs"])
   })
 })
 

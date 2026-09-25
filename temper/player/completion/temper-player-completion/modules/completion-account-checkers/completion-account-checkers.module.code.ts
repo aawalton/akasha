@@ -13,12 +13,15 @@ import {
   transformAccountPoiUnion,
   transformAccountZoneCompletionUnion,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
+import { transformAccountAchievementProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
+import { transformAntiquityLoreProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import type {
   AccountCheckerInput,
   AccountCompletionCardChecker,
   ItemProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { transformCollectiblesProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
 import { transformItemSetProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
 import { transformPoiProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
@@ -33,6 +36,7 @@ import { transformRecipeProgress } from "akasha/temper/player/completion/temper-
 import { transformScribingProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-scribing-progress/completion-scribing-progress.module.code.ts"
 import { transformSubclassingSkillLineProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
 import { transformTraitResearchProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
+import { transformTributeProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
 import { transformZoneCompletionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
@@ -113,6 +117,15 @@ const grandMasterNodes = remembered((completion) =>
 export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
   Record<AccountCardId, AccountCompletionCardChecker>
 > = {
+  "account-achievements": countChecker(({ account, rows, catalogs }) => {
+    const progress = transformAccountAchievementProgress(
+      account,
+      rows,
+      catalogs.achievementCategories
+    )
+    return measured(progress.earnedPoints, progress.totalPoints)
+  }),
+
   "account-points-of-interest": countChecker(({ rows, catalogs }) => {
     const union = transformAccountPoiUnion(
       transformPoiProgress(rows, catalogs.poiZones),
@@ -152,6 +165,11 @@ export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
     return measured(union.completedCount, union.totalCount)
   }),
 
+  "antiquity-lore": countChecker(({ account, catalogs }) => {
+    const progress = transformAntiquityLoreProgress(account, catalogs.antiquityCategories)
+    return measured(progress.acquiredCount, progress.totalCount)
+  }),
+
   "bank-upgrades": countChecker(({ account }) => {
     const bank = account?.bankUpgrade
     return bank === undefined ? undefined : { current: bank.current, total: bank.max }
@@ -161,6 +179,11 @@ export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
     current: account?.championPointsEarned ?? 0,
     total: MAX_CHAMPION_POINTS,
   })),
+
+  collectibles: countChecker(({ account, catalogs }) => {
+    const progress = transformCollectiblesProgress(account, catalogs.collectibleCategories)
+    return measured(progress.unlockedCount, progress.totalCount)
+  }),
 
   "grand-master-stations": countChecker(({ account }) => progressAt(grandMasterNodes(account), [])),
 
@@ -178,4 +201,9 @@ export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
   "subclassing-skill-lines": nodeChecker(subclassingSkillLineNodes, ["Skill Line"]),
 
   "subclassing-skill-morphs": nodeChecker(subclassingSkillMorphNodes, ["Skill Line", "Skill"]),
+
+  "tales-of-tribute": countChecker(({ account, catalogs }) => {
+    const progress = transformTributeProgress(account, catalogs.tributePatrons)
+    return measured(progress.completedCount, progress.totalCount)
+  }),
 }
