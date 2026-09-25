@@ -65,11 +65,11 @@ export const argument = {
       statement: "An argument carrying a default is answered to every command taking it.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every argument a command takes is a page.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "A command's code reads its arguments through a type written from these pages.",
     },
     {
