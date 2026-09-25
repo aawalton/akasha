@@ -18,7 +18,7 @@ export const day20260925 = {
   lowestEmailInboxCount: 0,
   inboxFindings: 0,
   inboxFindingsClearedToday: true,
-  inboxGaps: 20,
+  inboxGaps: 18,
   inboxRefusals: 11614,
   sessions: "jsonl",
 } as const satisfies Day
