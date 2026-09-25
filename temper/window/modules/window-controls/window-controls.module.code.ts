@@ -221,7 +221,23 @@ export function styleField(edit: EditControl, level: SurfaceLevel): EditControl 
   if (parent !== undefined && parent.GetType() === CT_BACKDROP) {
     paintField(parent as BackdropControl, level)
   }
+  const own = backdropBehind(edit)
+  if (own !== undefined) paintField(own, level)
   return edit
+}
+
+function backdropBehind(control: Control): BackdropControl | undefined {
+  const behind = control.GetNamedChild("BG")
+  if (behind === undefined || behind.GetType() !== CT_BACKDROP) return undefined
+  return behind as BackdropControl
+}
+
+export function styleIconTab(tab: Control): Control {
+  if (STYLED.get(tab) === true) return tab
+  const behind = backdropBehind(tab)
+  if (behind !== undefined)
+    beneath(behind, BENEATH_LEVEL).SetCenterColor(CLEAR, CLEAR, CLEAR, CLEAR)
+  return styleTab(tab)
 }
 
 export function styleDropdown(container: Control, level: SurfaceLevel): Control {
@@ -282,6 +298,10 @@ export function styleControlsUnder(root: Control, level: SurfaceLevel): undefine
     }
     if (child.GetNamedChild("OpenDropdown") !== undefined) {
       styleDropdown(child, level)
+      continue
+    }
+    if (kind === CT_BUTTON && backdropBehind(child) !== undefined) {
+      styleIconTab(child)
       continue
     }
     styleControlsUnder(child, level)

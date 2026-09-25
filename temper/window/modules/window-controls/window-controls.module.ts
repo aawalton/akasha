@@ -46,6 +46,14 @@ export const windowControls = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A button holding only an icon over a backdrop of its own is a tab.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field's backdrop is its parent or a backdrop of its own named BG.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A field and a dropdown sit one surface level up, in body text, hint text dim.",
     },
     {
