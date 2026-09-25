@@ -17767,7 +17767,7 @@
       }
     },
     "2732": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -17781,7 +17781,7 @@
       }
     },
     "2734": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -17795,21 +17795,21 @@
       }
     },
     "2736": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
       }
     },
     "2737": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
       }
     },
     "2739": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -17828,7 +17828,7 @@
         "criteria": {
           "1": {
             "numRequired": 175,
-            "numCompleted": 0
+            "numCompleted": 76
           }
         },
         "completedSteps": 0,
@@ -17841,7 +17841,7 @@
         "criteria": {
           "1": {
             "numRequired": 100,
-            "numCompleted": 0
+            "numCompleted": 32
           }
         },
         "completedSteps": 0,
@@ -17856,7 +17856,7 @@
       }
     },
     "2744": {
-      "completed": false,
+      "completed": true,
       "criteriaProgress": {
         "completedSteps": 0,
         "totalSteps": 1
@@ -60462,7 +60462,7 @@
     },
     "494": {
       "name": "Vrol's Command",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 1,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60515,7 +60515,7 @@
         },
         "13": {
           "name": "Vrol's Sword",
-          "unlocked": false
+          "unlocked": true
         },
         "14": {
           "name": "Vrol's Battle Axe",
@@ -60559,7 +60559,7 @@
     },
     "495": {
       "name": "Perfected Vrol's Command",
-      "slotsUnlocked": 0,
+      "slotsUnlocked": 1,
       "subcategoryName": "Kyne's Aegis",
       "pieces": {
         "1": {
@@ -60612,7 +60612,7 @@
         },
         "13": {
           "name": "Vrol's Perfected Sword",
-          "unlocked": false
+          "unlocked": true
         },
         "14": {
           "name": "Vrol's Perfected Battle Axe",
@@ -85848,6 +85848,7 @@
     7226,
     7228,
     7229,
+    7234,
     7237,
     7238,
     7239,
@@ -86300,6 +86301,8 @@
     8123,
     8124,
     8125,
+    8151,
+    8152,
     8159,
     8168,
     8176,
