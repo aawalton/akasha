@@ -56,14 +56,7 @@ function openMapOfZoneId(
     if (isParentZoneIdResolved) {
       return undefined
     }
-    const isDungeonZoneId = lib.IsDungeonZoneId
-    const isDungeonZoneIdTrial = lib.IsDungeonZoneIdTrial
-    const isPublicDungeonZoneId = lib.IsPublicDungeonZoneId
-    if (
-      isDungeonZoneId(zoneId) === true ||
-      isDungeonZoneIdTrial(zoneId) === true ||
-      isPublicDungeonZoneId(zoneId) === true
-    ) {
+    if (lib.IsDungeonZoneId(zoneId) === true || lib.IsPublicDungeonZoneId(zoneId)) {
       const parentZoneId = GetParentZoneId(zoneId)
       if (parentZoneId !== undefined && parentZoneId !== zoneId) {
         openMapOfZoneId(parentZoneId, true)
@@ -118,9 +111,9 @@ function jumpToSetId(
   let jumpToNode = -1
   let setWayshrines: { [factionIndex: number]: number } | undefined
   if (lib.IsNoESOSet(setId)) {
-    setWayshrines = asFactionNumberMap(setInfoOfSet[SETS_TABLEKEY_WAYSHRINES])
-  } else {
     setWayshrines = asFactionNumberMap(asPresent(noSetIdSets[setId])[SETS_TABLEKEY_WAYSHRINES])
+  } else {
+    setWayshrines = asFactionNumberMap(setInfoOfSet[SETS_TABLEKEY_WAYSHRINES])
   }
   if (setWayshrines === undefined) {
     return false

@@ -6,6 +6,7 @@ export const setsCoreSetChecking = {
   slug: "sets-core-set-checking",
   definition: "whether a set id still exists in the game at the API version now running",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/constraint",

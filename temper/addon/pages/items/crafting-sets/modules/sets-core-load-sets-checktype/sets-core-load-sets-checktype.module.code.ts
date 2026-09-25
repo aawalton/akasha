@@ -175,6 +175,14 @@ export function checkSetTypeAndUpdateLibTablesAndCounters(
 
     const unPerfectedSetId = GetItemSetUnperfectedSetId(setId)
     if (unPerfectedSetId !== undefined && unPerfectedSetId > 0) {
+      const perfectedInfo = setInfo[setId]
+      if (perfectedInfo !== undefined) {
+        perfectedInfo["isPerfectedSet"] = SETS_SET_ITEMID_TABLE_VALUE_OK
+      }
+      const unPerfectedInfo = setInfo[unPerfectedSetId]
+      if (unPerfectedInfo !== undefined) {
+        unPerfectedInfo["perfectedSetId"] = setId
+      }
       const setIdZones = state.setId2ZoneIds[setId]
       const perfectedSetZoneId = setIdZones !== undefined ? setIdZones[1] : undefined
       const unPerfZones = state.setId2ZoneIds[unPerfectedSetId]

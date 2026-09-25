@@ -6,4 +6,10 @@ export const setsCoreApiWayshrines = {
   slug: "sets-core-api-wayshrines",
   definition: "the wayshrines a set is reached by, and the zone each wayshrine is in",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The zone a wayshrine is in is read off the game client at first asking.",
+    },
+  ],
 } as const satisfies Module

@@ -47,6 +47,7 @@ export const craftingSets = {
     "module/sets-core-api-set-type-checks",
     "module/sets-core-api-settype-predicates",
     "module/sets-core-api-wayshrines",
+    "module/sets-core-api-zones",
     "module/sets-core-casts",
     "module/sets-core-casts-tables",
     "module/sets-core-header",
@@ -65,7 +66,6 @@ export const craftingSets = {
     "module/sets-core-set-itemids-filtered",
     "module/sets-core-set-type-queries",
     "module/sets-core-textures",
-    "module/sets-data-casts",
     "module/sets-data-register-data",
     "module/sets-debug-casts",
     "module/sets-debug-debug-get-all-data",
@@ -254,7 +254,7 @@ export const craftingSets = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Set data is taken from the upstream library at a pinned commit.",
+      statement: "Set data is written from the set pages rather than taken from a library.",
     },
     {
       decisionKind: "decision-kind/departure",

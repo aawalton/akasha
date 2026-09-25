@@ -6,6 +6,7 @@ export const setsCoreApiNav = {
   slug: "sets-core-api-nav",
   definition: "the world map opened on a zone or wayshrine, or a set's wayshrine travelled to",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

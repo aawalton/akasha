@@ -3912,6 +3912,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-itemids/sets-core-api-set-itemids.module.ts","id":"01a06231-8f1d-7c99-9721-18a5a7b3181e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-type-checks/sets-core-api-set-type-checks.module.ts","id":"01a06231-8f1b-7ef7-8811-423001ce29a7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-settype-predicates/sets-core-api-settype-predicates.module.ts","id":"01a061fc-ceed-70bc-8b87-41bc7b863155"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-wayshrines/sets-core-api-wayshrines.module.ts","id":"01a0d8e1-1b2d-7349-ab33-12f0d20c1ce0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-zones/sets-core-api-zones.module.ts","id":"01a0d8fa-d068-753c-b7f2-eff94732d5fd"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.ts","id":"01a061fc-cee9-75c5-a75c-0036c8d4c7a8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-header/sets-core-header.module.ts","id":"01a061fc-cee9-7c71-8e92-91595a98f1d7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-itemid-decompress/sets-core-itemid-decompress.module.ts","id":"01a061fc-ceea-731b-8df7-55b760383102"}
@@ -3924,7 +3926,6 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-set-itemids-filtered/sets-core-set-itemids-filtered.module.ts","id":"01a061fc-ceec-7456-9d7d-84602a2f2336"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-set-type-queries/sets-core-set-type-queries.module.ts","id":"01a061fc-ceec-7138-838e-448841d39974"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-textures/sets-core-textures.module.ts","id":"01a061fc-ceea-7feb-ba96-4aea2c1aee0c"}
-{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-data-casts/sets-data-casts.module.ts","id":"01a061d7-7bcb-7e37-92dc-722706d00752"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-data-register-data/sets-data-register-data.module.ts","id":"01a061fc-cee8-7e0a-a57e-257c1300fc25"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-get-all-data/sets-debug-debug-get-all-data.module.ts","id":"01a0623c-2df8-7dd3-89c1-ace3a2cc6855"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-sets/modules/sets-debug-debug-helpers/sets-debug-debug-helpers.module.ts","id":"01a0623c-2df7-7868-8d71-09bd658923d5"}

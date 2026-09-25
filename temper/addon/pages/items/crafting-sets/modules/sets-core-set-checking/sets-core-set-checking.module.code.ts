@@ -49,6 +49,7 @@ function checkSet(
   }
   return $multi(isSet, setName, setId, numBonuses, numEquipped, maxEquipped)
 }
+asLibSlots(lib)["_checkSet"] = checkSet
 
 function getSetEquippedInfo(
   this: void,

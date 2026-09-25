@@ -33,6 +33,7 @@ import "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-api-ways
 import "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-api-dlc/sets-core-api-dlc.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-api-drop-mechanics/sets-core-api-drop-mechanics.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-api-drop-zones-sets/sets-core-api-drop-zones-sets.module.code.ts"
+import "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-api-zones/sets-core-api-zones.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-itemids/sets-core-api-set-itemids.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-names/sets-core-api-set-names.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-info/sets-core-api-set-info.module.code.ts"

@@ -17,5 +17,9 @@ export const setsCoreLoadSetsChecktype = {
       statement:
         "Perfected and non-perfected pairs are learned from the game rather than from the data.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A pair learned from the game is written into the set info of both its sets.",
+    },
   ],
 } as const satisfies Module

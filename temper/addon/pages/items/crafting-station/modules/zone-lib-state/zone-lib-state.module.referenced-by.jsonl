@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"zone-lib-state.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-zones/sets-core-api-zones.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"zone-lib-state.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-zones/sets-core-api-zones.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"zone-lib-state.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-autocompletion/zone-autocompletion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"zone-lib-state.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-data-init/zone-data-init.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"zone-lib-state.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/zone-dungeon-status/zone-dungeon-status.module.code.ts","typed":false,"deferred":false}

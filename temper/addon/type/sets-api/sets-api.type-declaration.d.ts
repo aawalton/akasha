@@ -47,7 +47,6 @@ interface SetsApi {
   IsClassSet: (this: void, setId: number | undefined, classId?: number) => boolean | undefined
 
   IsDungeonZoneId: (this: void, zoneId: number | undefined) => boolean | undefined
-  IsDungeonZoneIdTrial: (this: void, zoneId: number | undefined) => boolean | undefined
 }
 
 interface SetsApi {
@@ -390,7 +389,6 @@ interface SetsApi {
   setsOfNewerAPIVersion: number[]
   zoneIdsOfNewAPIVersionOnly: number[]
   noSetIdSets: { [setId: number]: { [key: string]: unknown } }
-  removeFutureSetData?: (this: void) => void
 
   scrollableMenu?: unknown
   customMenu?: unknown
@@ -447,13 +445,6 @@ interface SetsApi {
   ) => { [itemId: number]: number } | undefined
 
   IsSetCurrentlyActiveWithAPIVersion: (this: void, setId: number | undefined) => boolean
-
-  setItemCollectionZoneId2Category: { [zoneId: number]: number[] }
-  setItemCollectionCategory2ZoneId: { [categoryId: number]: number[] }
-  setItemCollectionParentCategories: {
-    [parentCategoryId: number]: { [categoryId: number]: unknown }
-  }
-  setItemCollectionCategories: { [categoryId: number]: unknown }
 
   LoadSets: (this: void) => void
 

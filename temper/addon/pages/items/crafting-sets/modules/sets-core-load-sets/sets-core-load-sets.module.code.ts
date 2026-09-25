@@ -6,10 +6,7 @@ import {
   asSetIdToStrRecord,
   asTypeToSetIdBoolMap,
 } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"
-import {
-  asSetItemCollectionZoneMapping,
-  asTypeToSetIdNumberMap,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
+import { asTypeToSetIdNumberMap } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import {
   checkSetTypeAndUpdateLibTablesAndCounters,
   type LoadSetsState,
@@ -17,7 +14,6 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import {
   SETS_SET_ITEMID_TABLE_VALUE_OK,
-  SETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING,
   SETS_TABLEKEY_SET_PROCS_ALLOWED_IN_PVP,
   SETS_TABLEKEY_SETS_ARMOR_TYPES,
   SETS_TABLEKEY_SETS_EQUIP_TYPES,
@@ -98,7 +94,6 @@ function loadSets(this: void): undefined {
   }
 
   buildEquipArmorWeaponJewelryTables(state)
-  buildSetItemCollectionTables()
 
   lib.dropZones = state.dropZones
   lib.setId2DropZones = state.setId2ZoneIds
@@ -172,38 +167,6 @@ function buildEquipArmorWeaponJewelryTables(this: void, _state: LoadSetsState): 
     weaponSets[setId] = true
     if (setIds[setId] !== undefined && isSetIdJewelry === SETS_SET_ITEMID_TABLE_VALUE_OK) {
       jewelrySets[setId] = true
-    }
-  }
-}
-
-function buildSetItemCollectionTables(this: void): undefined {
-  const preloaded = lib.setDataPreloaded
-  const preloadedSetItemCollectionMappingToZone = asSetItemCollectionZoneMapping(
-    preloaded[SETS_TABLEKEY_SET_ITEM_COLLECTIONS_ZONE_MAPPING]
-  )
-  lib.setItemCollectionZoneId2Category = {}
-  lib.setItemCollectionCategory2ZoneId = {}
-  lib.setItemCollectionParentCategories = {}
-  lib.setItemCollectionCategories = {}
-  for (const [, category2ZoneData] of ipairs(preloadedSetItemCollectionMappingToZone)) {
-    const parentCategoryId = category2ZoneData.parentCategory
-    const categoryId = category2ZoneData.category
-    if (parentCategoryId !== undefined) {
-      lib.setItemCollectionParentCategories[parentCategoryId] =
-        lib.setItemCollectionParentCategories[parentCategoryId] ?? {}
-      const parentCats = asNumKeyTable(lib.setItemCollectionParentCategories[parentCategoryId])
-      parentCats[categoryId] = category2ZoneData
-    }
-    lib.setItemCollectionCategories[categoryId] = category2ZoneData
-    if (category2ZoneData.zoneIds !== undefined) {
-      const zoneIdsOfCategory = lib.setItemCollectionCategory2ZoneId[categoryId] ?? []
-      lib.setItemCollectionCategory2ZoneId[categoryId] = zoneIdsOfCategory
-      for (const [, zoneId] of ipairs(category2ZoneData.zoneIds)) {
-        const categoriesOfZone = lib.setItemCollectionZoneId2Category[zoneId] ?? []
-        lib.setItemCollectionZoneId2Category[zoneId] = categoriesOfZone
-        categoriesOfZone.push(categoryId)
-        zoneIdsOfCategory.push(zoneId)
-      }
     }
   }
 }

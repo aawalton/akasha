@@ -1,18 +1,31 @@
 import { asIndexNumberMap } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts/sets-core-casts.module.code.ts"
-import { asWayshrine2ZoneOpt } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-casts-tables/sets-core-casts-tables.module.code.ts"
 import { safeReturnAPItable } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-core-helpers/sets-core-helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
-import {
-  SETS_TABLEKEY_WAYSHRINENODEID2ZONEID,
-  SETS_TABLEKEY_WAYSHRINES,
-} from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import { SETS_TABLEKEY_WAYSHRINES } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-const-base/sets-const-base.module.code.ts"
+import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 
 import { lib } from "akasha/temper/addon/pages/items/crafting-sets/modules/sets-lib/sets-lib.module.code.ts"
 
 type Wayshrine2Zone = { [wayshrineNodeId: number]: number | undefined }
-function getWayshrine2Zone(this: void): Wayshrine2Zone | undefined {
-  return asWayshrine2ZoneOpt(lib.setDataPreloaded[SETS_TABLEKEY_WAYSHRINENODEID2ZONEID])
+
+let wayshrine2ZoneHeld: Wayshrine2Zone | undefined
+
+function getWayshrine2Zone(this: void): Wayshrine2Zone {
+  if (wayshrine2ZoneHeld !== undefined) {
+    return wayshrine2ZoneHeld
+  }
+  const found: Wayshrine2Zone = {}
+  for (let nodeIndex = 1; nodeIndex <= GetNumFastTravelNodes(); nodeIndex++) {
+    const [zoneIndex] = GetFastTravelNodePOIIndicies(nodeIndex)
+    const zoneId = GetZoneId(zoneIndex)
+    if (zoneId > 0) {
+      found[nodeIndex] = zoneId
+    }
+  }
+  wayshrine2ZoneHeld = found
+  return found
 }
 
 function getWayshrineIds(
@@ -35,9 +48,6 @@ function getWayshrineIds(
   let wayshrineNodsId2ZoneId: Wayshrine2Zone | undefined
   if (withRelatedZoneIdsResolved) {
     const wayshrine2zone = getWayshrine2Zone()
-    if (wayshrine2zone === undefined) {
-      return $multi(undefined, undefined)
-    }
     wayshrineNodsId2ZoneId = {}
     const wayshrines = asIndexNumberMap(setData[SETS_TABLEKEY_WAYSHRINES])
     for (const [, wayshrineNodeId] of ipairs(wayshrines)) {
@@ -55,10 +65,6 @@ function getWayshrinesZoneId(this: void, wayshrineNodeId: number | undefined): n
   if (!lib.checkIfSetsAreLoadedProperly()) {
     return undefined
   }
-  const wayshrine2zone = getWayshrine2Zone()
-  if (wayshrine2zone === undefined) {
-    return undefined
-  }
-  return wayshrine2zone[wayshrineNodeId]
+  return getWayshrine2Zone()[wayshrineNodeId]
 }
 lib.GetWayshrinesZoneId = getWayshrinesZoneId

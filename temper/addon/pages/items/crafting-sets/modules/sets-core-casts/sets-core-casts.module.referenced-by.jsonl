@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-set-names/sets-core-api-set-names.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-settype-predicates/sets-core-api-settype-predicates.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-wayshrines/sets-core-api-wayshrines.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-api-zones/sets-core-api-zones.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-helpers/sets-core-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-init-search-ui/sets-core-init-search-ui.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-itemid-decompress/sets-core-itemid-decompress.module.code.ts","typed":false,"deferred":false}
@@ -24,6 +25,7 @@
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-perfected-sets/sets-core-perfected-sets.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-saved-variables/sets-core-saved-variables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-set-checking/sets-core-set-checking.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-set-checking/sets-core-set-checking.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-set-itemids-filtered/sets-core-set-itemids-filtered.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-core-casts.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-core-set-type-queries/sets-core-set-type-queries.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/addon/pages/items/crafting-sets/crafting-sets.domain.ts","id":"01a0c6a0-0160-75ed-ad0d-8f601468b4c5"}

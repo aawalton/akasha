@@ -9,11 +9,11 @@ export const setsDataRegisterData = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Data for sets of a newer API version is stripped when the live API is older.",
+      statement: "The set tables placed are the ones written from the set pages.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "The stripping is handed to the library as a function rather than run at load.",
+      decisionKind: "decision-kind/absence",
+      statement: "No set is held back as newer than the live game, since the pages follow it.",
     },
   ],
 } as const satisfies Module

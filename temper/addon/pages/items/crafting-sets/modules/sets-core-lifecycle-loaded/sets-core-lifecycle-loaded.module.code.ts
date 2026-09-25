@@ -72,9 +72,6 @@ function onLibraryLoaded(this: void, _event: number, name?: string): undefined {
     lib.setsScanning = true
     lib.fullyLoaded = false
   } else {
-    lib.removeFutureSetData?.()
-    lib.removeFutureSetData = undefined
-
     lib.LoadSets()
 
     lib.loadTooltipHooks()

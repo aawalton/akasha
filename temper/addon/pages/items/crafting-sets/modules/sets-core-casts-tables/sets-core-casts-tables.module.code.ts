@@ -104,27 +104,6 @@ export function asTrialSetEntryOpt(value: unknown): TrialSetEntryOpt {
   return value as TrialSetEntryOpt
 }
 
-export type Wayshrine2ZoneOpt =
-  | {
-      [wayshrineNodeId: number]: number | undefined
-    }
-  | undefined
-export function asWayshrine2ZoneOpt(value: unknown): Wayshrine2ZoneOpt {
-  return value as Wayshrine2ZoneOpt
-}
-
-export type SetItemCollectionZoneMapping = {
-  [idx: number]: {
-    parentCategory?: number
-    category: number
-    zoneIds?: { [idx: number]: number }
-    [k: string]: unknown
-  }
-}
-export function asSetItemCollectionZoneMapping(value: unknown): SetItemCollectionZoneMapping {
-  return value as SetItemCollectionZoneMapping
-}
-
 export type ScrollableMenuHandleOpt = { version?: string } | undefined
 export function asScrollableMenuHandleOpt(value: unknown): ScrollableMenuHandleOpt {
   return value as ScrollableMenuHandleOpt
