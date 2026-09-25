@@ -41,7 +41,12 @@ const NO_FILED: FilePropertiesBy = new Map()
 
 const NO_FOLDERED: FoldersBy = new Map()
 
-const FOLDERED: FoldersBy = new Map([["temper-addon", new Map([["icons", "Icons"]])]])
+const FOLDERED: FoldersBy = new Map([
+  [
+    "temper-addon",
+    new Map([["icons", { folderName: "Icons", pageTypeSlug: "named-folder-property" }]]),
+  ],
+])
 
 const NAMED: FilePropertiesBy = new Map([["temper-addon", new Map([["bindings", "Bindings.xml"]])]])
 

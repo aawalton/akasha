@@ -7,6 +7,7 @@ import {
   type ExtensionsBy,
   extensionPropertiesAt,
   type FilePropertiesBy,
+  type Folder,
   type FoldersBy,
   filePropertiesAt,
   folderPropertiesAt,
@@ -96,6 +97,10 @@ export function pathsOf(
 
 const NO_FOLDERS: FoldersBy = new Map()
 
+function folderNameOf(folder: Folder | string): string {
+  return typeof folder === "string" ? folder : folder.folderName
+}
+
 function foldersClaimedIn(
   value: Value,
   path: string,
@@ -108,9 +113,9 @@ function foldersClaimedIn(
   const found: string[] = []
   for (const [key, held] of Object.entries(value)) {
     if (held !== true) continue
-    const folderName = carried.get(inLowerKebabCase(key))
-    if (folderName === undefined) continue
-    found.push(join(dirname(own), folderName))
+    const folder = carried.get(inLowerKebabCase(key))
+    if (folder === undefined) continue
+    found.push(join(dirname(own), folderNameOf(folder)))
   }
   return found
 }
@@ -202,8 +207,8 @@ function namingOver(
     }
   }
   for (const [pageTypeSlug, carried] of folders) {
-    for (const folderName of carried.values()) {
-      if (folderName === null) continue
+    for (const folder of carried.values()) {
+      const folderName = folderNameOf(folder)
       held(folderName).add(pageTypeSlug)
       beneath(folderName).add(pageTypeSlug)
     }

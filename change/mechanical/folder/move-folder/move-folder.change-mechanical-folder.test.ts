@@ -44,6 +44,8 @@ const ROUTES = "routes"
 
 const ROUTES_AT = ".react-router"
 
+const ROUTES_FOLDER = { folderName: ROUTES_AT, pageTypeSlug: "build-folder-property" }
+
 const HELD: Readonly<Record<string, string>> = {
   [`${FROM}/alpha.module.ts`]: carriedPage("alpha", "01a04a4a-0002-7000-8000-000000000001"),
   [ALPHA_CODE]:
@@ -164,7 +166,7 @@ function claimingWorld(root: string): World {
   const world = worldIn(root)
   const face = {
     ...world.index,
-    folderPropertiesAt: () => new Map([[MODULE, new Map([[ROUTES, ROUTES_AT]])]]),
+    folderPropertiesAt: () => new Map([[MODULE, new Map([[ROUTES, ROUTES_FOLDER]])]]),
   }
   return {
     ...world,

@@ -74,6 +74,10 @@ export const indexEntries = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A folder name is answered with the page type of the property declaring it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A question answered from one reading alone is answered once for that reading and held.",
     },

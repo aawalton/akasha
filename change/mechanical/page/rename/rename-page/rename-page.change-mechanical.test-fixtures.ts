@@ -334,7 +334,13 @@ export function claimingAt(): Claiming {
   const world = worldIn(root, textIn(root))
   const face = {
     ...world.index,
-    folderPropertiesAt: () => new Map([["module", new Map([["routes", CLAIMED_AT]])]]),
+    folderPropertiesAt: () =>
+      new Map([
+        [
+          "module",
+          new Map([["routes", { folderName: CLAIMED_AT, pageTypeSlug: "build-folder-property" }]]),
+        ],
+      ]),
   }
   return {
     root,

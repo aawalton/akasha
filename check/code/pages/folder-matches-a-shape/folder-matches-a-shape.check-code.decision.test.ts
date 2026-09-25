@@ -48,7 +48,12 @@ test("a segment comes from the properties, so a property stated later is reached
 const MANIFEST_TYPES = new Set<string>(["manifest"])
 
 const FOLDER_PROPERTIES: FoldersBy = new Map([
-  ["manifest", new Map([["generated-directory", "generated"]])],
+  [
+    "manifest",
+    new Map([
+      ["generated-directory", { folderName: "generated", pageTypeSlug: "build-folder-property" }],
+    ]),
+  ],
 ])
 
 function paging(value: Value): Paged {

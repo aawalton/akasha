@@ -51,6 +51,8 @@ const ROUTES = "routes"
 
 const ROUTES_AT = ".react-router"
 
+const ROUTES_FOLDER = { folderName: ROUTES_AT, pageTypeSlug: "build-folder-property" }
+
 const CLAIMED = `${FROM}/${ROUTES_AT}`
 
 const ROUTES_AT_TYPES = `${CLAIMED}/types`
@@ -77,7 +79,7 @@ function indexIn(root: string): Answering {
 function faceIn(root: string): Answering {
   return {
     ...indexIn(root),
-    folderPropertiesAt: () => new Map([[MODULE, new Map([[ROUTES, ROUTES_AT]])]]),
+    folderPropertiesAt: () => new Map([[MODULE, new Map([[ROUTES, ROUTES_FOLDER]])]]),
   }
 }
 

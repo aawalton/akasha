@@ -42,9 +42,9 @@ export function foldersClaimedIn(world: World, at: string, value: Value): readon
   const found: string[] = []
   for (const [key, held] of Object.entries(value)) {
     if (held !== true) continue
-    const folderName = carried.get(inLowerKebabCase(key))
-    if (folderName === undefined) continue
-    const path = join(folder, folderName)
+    const named = carried.get(inLowerKebabCase(key))
+    if (named === undefined) continue
+    const path = join(folder, named.folderName)
     if (holdsFile(world, path)) found.push(path)
   }
   return [...new Set(found)].sort()

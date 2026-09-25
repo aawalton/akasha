@@ -166,7 +166,12 @@ export function fileKeysAt(given: string | Reading): ReadonlyMap<string, string 
 
 export type FilePropertiesBy = ReadonlyMap<string, ReadonlyMap<string, string | null>>
 
-export type FoldersBy = ReadonlyMap<string, ReadonlyMap<string, string>>
+export type Folder = {
+  readonly folderName: string
+  readonly pageTypeSlug: string
+}
+
+export type FoldersBy = ReadonlyMap<string, ReadonlyMap<string, Folder>>
 
 export type ExtensionsBy = ReadonlyMap<string, ReadonlyMap<string, string>>
 
@@ -264,7 +269,7 @@ function carriedBy(
   const grouped = reachingIn(above, GROUP)
   const filed = new Map<string, ReadonlyMap<string, string | null>>()
   const withheld = new Map<string, ReadonlySet<string>>()
-  const foldered = new Map<string, ReadonlyMap<string, string>>()
+  const foldered = new Map<string, ReadonlyMap<string, Folder>>()
   const ended = new Map<string, ReadonlyMap<string, string>>()
   const membered = new Map<string, ReadonlyMap<string, Member>>()
   const membersOf = (named: string): ReadonlyMap<string, Member> => {
@@ -283,12 +288,15 @@ function carriedBy(
   for (const slug of types.keys()) {
     const held = new Map<string, string | null>()
     const outside = new Set<string>()
-    const folders = new Map<string, string>()
+    const folders = new Map<string, Folder>()
     const endings = new Map<string, string>()
     for (const one of grouped(slug) ? [] : statedIn(slug, types, properties, bare, above)) {
       const hit = one.hit
       if (hit.folderName !== null && !folders.has(hit.propertySlug)) {
-        folders.set(hit.propertySlug, hit.folderName)
+        folders.set(hit.propertySlug, {
+          folderName: hit.folderName,
+          pageTypeSlug: hit.pageTypeSlug,
+        })
       }
       if (hit.extensionName !== undefined && !endings.has(hit.propertySlug)) {
         endings.set(hit.propertySlug, hit.extensionName)

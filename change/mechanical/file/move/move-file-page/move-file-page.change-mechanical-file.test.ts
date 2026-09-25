@@ -116,6 +116,8 @@ const MODULE = "module"
 
 const ROUTES_AT = ".react-router"
 
+const ROUTES_FOLDER = { folderName: ROUTES_AT, pageTypeSlug: "build-folder-property" }
+
 const FOLDER_PAGE = "akasha/seven/foldered.module.ts"
 
 const FOLDER_INTO = "akasha/carried/foldered.module.ts"
@@ -143,7 +145,7 @@ function folderingWorld(root: string, reached: string[] = []): World {
     ...world,
     index: {
       ...world.index,
-      folderPropertiesAt: () => new Map([[MODULE, new Map([["routes", ROUTES_AT]])]]),
+      folderPropertiesAt: () => new Map([[MODULE, new Map([["routes", ROUTES_FOLDER]])]]),
     },
   }
 }
