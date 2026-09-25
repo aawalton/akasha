@@ -31,5 +31,10 @@ export const temperWindow = {
       decisionKind: "decision-kind/gap",
       statement: "Every gap between controls is one of the web's spacing steps.",
     },
+    {
+      decisionKind: "decision-kind/gap",
+      statement:
+        "A dropdown, scroll bar, slider or text box keeps the game's behaviour and takes the web's look.",
+    },
   ],
 } as const satisfies Domain
