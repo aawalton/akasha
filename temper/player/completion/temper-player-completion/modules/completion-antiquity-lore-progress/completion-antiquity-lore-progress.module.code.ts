@@ -4,7 +4,7 @@ import type {
   AntiquityLoreCategoryProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
-export interface AntiquityCatalogAntiquity {
+interface AntiquityCatalogAntiquity {
   esoAntiquityId: number
   antiquityName: string
   set?: string

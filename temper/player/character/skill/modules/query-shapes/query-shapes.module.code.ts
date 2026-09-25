@@ -8,7 +8,7 @@ interface ArmorItemShape {
   weight: StandardArmorWeightId
 }
 
-export type ArmorSlotItemShape =
+type ArmorSlotItemShape =
   | { itemType: "armor"; data: ArmorItemShape }
   | { itemType: "empty"; data: null }
 
@@ -18,7 +18,7 @@ interface WeaponItemShape {
   type: WeaponTypeId
 }
 
-export type WeaponSlotItemShape =
+type WeaponSlotItemShape =
   | { itemType: "weapon"; data: WeaponItemShape }
   | { itemType: "shield"; data: unknown }
   | { itemType: "empty"; data: null }

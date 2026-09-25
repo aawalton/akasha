@@ -68,7 +68,7 @@ const ACHIEVEMENT_DONE = { completed: true, criteriaProgress: { completedSteps: 
 
 const PATRON_COLLECTIBLE = 600
 
-export const CATALOGS: CompletionCatalogs = {
+const CATALOGS: CompletionCatalogs = {
   ...NO_COMPLETION_CATALOGS,
   achievementCategories: [
     { slug: "account-invented", title: "Invented", category: "account", displayOrder: 0 },
@@ -171,7 +171,7 @@ function row(id: string, completion: CharacterCompletion): CompletionCharacterRo
   return { id, esoCharacterId: `eso-${id}`, title: id, completion }
 }
 
-export const ROWS: readonly CompletionCharacterRow[] = [
+const ROWS: readonly CompletionCharacterRow[] = [
   row("durene", {
     achievements: { 3: ACHIEVEMENT_DONE },
     quests: [900001],

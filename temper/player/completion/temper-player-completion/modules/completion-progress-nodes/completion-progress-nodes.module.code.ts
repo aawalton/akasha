@@ -10,7 +10,7 @@ export interface ProgressLeaf {
   total: number
 }
 
-export interface ProgressBranch {
+interface ProgressBranch {
   key: string
   label: string
   children: readonly ProgressNode[]

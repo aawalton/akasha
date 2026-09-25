@@ -7,7 +7,7 @@ import type {
 export const ACCOUNT_ACHIEVEMENTS_CARD_ID = "account-achievements"
 export const CHARACTER_ACHIEVEMENTS_CARD_ID = "character-achievements"
 
-export interface AchievementSubHeading {
+interface AchievementSubHeading {
   name: string
 }
 

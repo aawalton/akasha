@@ -5,12 +5,12 @@ import type {
   TraitResearchTraitEntry,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
-export interface TraitResearchUnionCatalogTrait {
+interface TraitResearchUnionCatalogTrait {
   traitIndex: number
   traitName: string
 }
 
-export interface TraitResearchUnionCatalogLine {
+interface TraitResearchUnionCatalogLine {
   slug: string
   title: string
   displayOrder: number
@@ -18,7 +18,7 @@ export interface TraitResearchUnionCatalogLine {
   traits: readonly TraitResearchUnionCatalogTrait[]
 }
 
-export interface TraitResearchUnionCatalogCraftType {
+interface TraitResearchUnionCatalogCraftType {
   slug: string
   title: string
   esoCraftTypeId: number

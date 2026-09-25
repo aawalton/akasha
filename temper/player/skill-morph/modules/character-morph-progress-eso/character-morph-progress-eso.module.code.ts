@@ -23,7 +23,7 @@ export interface ExpectedMorphableSkill {
   lineRankNeeded: number
 }
 
-export interface CharacterMorphProgressByEsoIdInput {
+interface CharacterMorphProgressByEsoIdInput {
   applicableEsoLineIds: ReadonlySet<number>
   expectedSkillsByEsoLineId: ReadonlyMap<number, ReadonlyArray<ExpectedMorphableSkill>>
   skillLineProgress: MorphSkillLineProgressMap | null | undefined

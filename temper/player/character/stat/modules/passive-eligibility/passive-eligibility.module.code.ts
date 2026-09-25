@@ -14,7 +14,7 @@ import { getWeaponSkillLineIdsForBar } from "akasha/temper/player/character/skil
 import type { CurseState } from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
 import type { TranslationContext } from "akasha/temper/player/character/stat/modules/pipeline-types/pipeline-types.module.code.ts"
 
-export interface PassiveEligibilityContext {
+interface PassiveEligibilityContext {
   raceId: CharacterState["character"]["race"]
   classId: CharacterState["character"]["class"]
   buildSkillLineIds: readonly SkillLineId[]

@@ -76,7 +76,7 @@ interface CharacterTotals {
   dailyWritsTotal: number
 }
 
-export interface CompletionProgressBundle {
+interface CompletionProgressBundle {
   characters: readonly CompletionCharacter[]
   characterAchievementProgress: readonly CharacterAchievementProgressResult[]
   cadwellProgress: readonly CharacterCadwellProgress[]

@@ -8,7 +8,7 @@ import {
   CUMULATIVE_CHARACTER_CARDS,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cumulative-cards/completion-cumulative-cards.module.code.ts"
 
-export interface ScopeRollup {
+interface ScopeRollup {
   readonly count: number
   readonly total: number
 }

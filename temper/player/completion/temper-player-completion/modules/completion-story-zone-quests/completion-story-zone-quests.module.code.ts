@@ -1,6 +1,6 @@
 import { SKILL_POINT_STORY_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 
-export interface OwedStoryZone {
+interface OwedStoryZone {
   readonly key: string
   readonly label: string
   readonly completedQuests: number

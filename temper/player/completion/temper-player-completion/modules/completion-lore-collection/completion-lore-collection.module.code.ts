@@ -1,4 +1,4 @@
-export interface LoreBookInput {
+interface LoreBookInput {
   bookIndex: number
   name: string
 }
@@ -9,7 +9,7 @@ export interface LoreCollectionInput {
   books: readonly LoreBookInput[]
 }
 
-export interface FirstIncompleteLoreCollection {
+interface FirstIncompleteLoreCollection {
   collectionName: string
   unreadBookNames: readonly string[]
   totalBooks: number

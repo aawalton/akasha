@@ -2,7 +2,7 @@ import { getDefIdByCompanionId } from "akasha/temper/catalog/companion/companion
 import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { rawRapportToCompanionTier } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 
-export interface ActionableCompanionQuest {
+interface ActionableCompanionQuest {
   companionId: string
   companionName: string
   questId: number

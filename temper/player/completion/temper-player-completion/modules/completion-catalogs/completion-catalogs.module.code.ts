@@ -12,7 +12,7 @@ import type {
 import type { TributePatronCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
 import type { ZoneCompletionCatalogZone } from "akasha/temper/player/completion/temper-player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
 
-export type CatalogRows = (pageType: string) => Promise<readonly Record<string, unknown>[]>
+type CatalogRows = (pageType: string) => Promise<readonly Record<string, unknown>[]>
 
 export interface CompletionCatalogs {
   achievementCategories: readonly AchievementCategoryCatalogEntry[]

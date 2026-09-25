@@ -1,4 +1,4 @@
-export interface LoreBookEntry {
+interface LoreBookEntry {
   readonly bookIndex: number
   readonly name: string
 }

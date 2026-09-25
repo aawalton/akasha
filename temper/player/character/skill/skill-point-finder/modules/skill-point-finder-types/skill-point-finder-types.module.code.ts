@@ -6,13 +6,13 @@ import type {
 
 export type Rgb = number[]
 
-export interface GeneralColors {
+interface GeneralColors {
   doneColor: Rgb
   needColor: Rgb
   progColor: Rgb
 }
 
-export interface QuestSkyshardColors {
+interface QuestSkyshardColors {
   doneColorSS: Rgb
   doneColorZQ: Rgb
   needColorSS: Rgb
@@ -22,13 +22,13 @@ export interface QuestSkyshardColors {
   sortCol: number
 }
 
-export interface DungeonColors {
+interface DungeonColors {
   doneColor: Rgb
   needColor: Rgb
   sortCol: number
 }
 
-export interface FoliumOverride {
+interface FoliumOverride {
   override: boolean
   charHasFD: boolean
 }
@@ -108,7 +108,7 @@ export interface GuiTables {
   CharacterTot: string
 }
 
-export interface SortOptions {
+interface SortOptions {
   SQS: Record<string, number>
   D: Record<string, number>
   Names_SQS: string[]

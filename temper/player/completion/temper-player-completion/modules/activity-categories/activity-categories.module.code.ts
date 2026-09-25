@@ -17,7 +17,7 @@ export type ActivityCategoryId =
   | "quests"
   | "trials"
 
-export interface ActivityCategoryTemplate {
+interface ActivityCategoryTemplate {
   id: string
   name: string
   badgeVariant: NonNullable<BadgeVariant>

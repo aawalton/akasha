@@ -5,7 +5,7 @@ import {
   morphableSkillsByLine,
 } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
-export type MorphRankMap = ReadonlyMap<string, ReadonlyMap<SkillLineId, number>>
+type MorphRankMap = ReadonlyMap<string, ReadonlyMap<SkillLineId, number>>
 
 export function buildMorphRankMap(
   morphProgress: readonly CharacterSkillMorphProgress[]

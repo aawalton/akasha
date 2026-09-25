@@ -1,4 +1,4 @@
-export interface ApplicableEsoSkillLineInput {
+interface ApplicableEsoSkillLineInput {
   esoClassId: number
   esoRaceId: number
   classLinesByEsoClassId: ReadonlyMap<number, readonly number[]>

@@ -1,6 +1,6 @@
 import type { AnyCompletionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-id/completion-card-id.module.code.ts"
 
-export type ResetBehavior = "resetting" | "cumulative"
+type ResetBehavior = "resetting" | "cumulative"
 
 const CARD_RESET_BEHAVIOR: Record<AnyCompletionCardId, ResetBehavior> = {
   "account-achievements": "cumulative",

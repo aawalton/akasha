@@ -16,7 +16,7 @@ export interface SubclassingSkillMorphProgressResult {
   totalMorphMax: number
 }
 
-export interface SubclassingMorphProgressInput {
+interface SubclassingMorphProgressInput {
   subclassingSkillLineProgress: MorphSkillLineProgressMap | null | undefined
 }
 

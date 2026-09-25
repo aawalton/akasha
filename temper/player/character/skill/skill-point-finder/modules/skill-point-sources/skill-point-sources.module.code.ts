@@ -1,6 +1,6 @@
 import { PUBLIC_DUNGEON_PAGES } from "akasha/temper/catalog/world/temper-public-dungeon/modules/public-dungeon-pages/public-dungeon-pages.module.code.ts"
 
-export interface ZoneRaw {
+interface ZoneRaw {
   key: string
   quests: number[]
 }

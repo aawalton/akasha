@@ -1,7 +1,7 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { deepForward } from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
 
-export type CompletionImportOutcome = "created" | "updated" | "unchanged" | "preserved"
+type CompletionImportOutcome = "created" | "updated" | "unchanged" | "preserved"
 
 export interface CompletionImportVerdict {
   readonly outcome: CompletionImportOutcome

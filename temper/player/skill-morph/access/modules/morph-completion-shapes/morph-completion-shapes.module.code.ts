@@ -11,7 +11,7 @@ export interface MorphCharacterRow {
   completion?: MorphCharacterCompletion | null
 }
 
-export interface MorphItemPickerLevel {
+interface MorphItemPickerLevel {
   label: string
   options: readonly { value: string | number; label: string }[]
 }

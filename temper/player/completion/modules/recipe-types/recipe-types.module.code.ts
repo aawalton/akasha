@@ -1,4 +1,4 @@
-export interface RecipeEntry {
+interface RecipeEntry {
   readonly itemId: number
   readonly name: string
 }

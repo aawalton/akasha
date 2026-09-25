@@ -9,7 +9,7 @@ const VARIANT_ORDER: Record<"base" | "morph1" | "morph2", number> = {
   morph2: 2,
 }
 
-export interface SkillMorphVariantInput {
+interface SkillMorphVariantInput {
   name: string
   rank: number | undefined
 }
@@ -24,11 +24,11 @@ export interface SkillMorphInput {
   isUltimate?: boolean
 }
 
-export interface MorphSkillLineInput {
+interface MorphSkillLineInput {
   skills?: Record<number, SkillMorphInput>
 }
 
-export interface PickRelevantSkillLineIdsInput {
+interface PickRelevantSkillLineIdsInput {
   taskItemPath?: readonly (string | number)[]
   skillLineKeys: Iterable<number>
   classLineEsoIds: ReadonlySet<number>
@@ -39,9 +39,9 @@ export interface PickRelevantSkillLineIdsInput {
 import { buildMorphEntry } from "akasha/temper/player/skill-morph/modules/build-morph-entry/build-morph-entry.module.code.ts"
 import type { ExpectedMorphableSkill } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 
-export type ExpectedMorphableSkillForSuggestion = ExpectedMorphableSkill
+type ExpectedMorphableSkillForSuggestion = ExpectedMorphableSkill
 
-export interface MorphSuggestionInput {
+interface MorphSuggestionInput {
   taskItemPath?: readonly (string | number)[]
   skillLineProgress: Record<number, MorphSkillLineInput | undefined>
   classLineEsoIds: ReadonlySet<number>
@@ -66,7 +66,7 @@ export interface MorphSuggestionEntry {
   abilityIndex: number
 }
 
-export interface MorphSuggestionResult {
+interface MorphSuggestionResult {
   suggestions: readonly MorphSuggestionEntry[] | undefined
   isComplete: boolean
 }

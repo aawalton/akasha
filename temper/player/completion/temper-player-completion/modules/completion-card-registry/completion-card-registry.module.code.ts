@@ -5,7 +5,7 @@ export type AccountCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.account)[num
 export type CharacterCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.characters)[number]["id"]
 export type CompanionCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.companions)[number]["id"]
 export type TaskCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.tasks)[number]["id"]
-export type CompletionCardId = AccountCardId | CharacterCardId | CompanionCardId | TaskCardId
+type CompletionCardId = AccountCardId | CharacterCardId | CompanionCardId | TaskCardId
 
 export interface CardDescriptor<T extends CompletionCardId> {
   id: T

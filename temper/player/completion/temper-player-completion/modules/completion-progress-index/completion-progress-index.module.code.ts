@@ -15,9 +15,9 @@ import {
   resolveNextCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
 
-export type ScalarProgress = { current: number; total: number }
+type ScalarProgress = { current: number; total: number }
 
-export type SlimCrossCharacterProgress = {
+type SlimCrossCharacterProgress = {
   current: number
   total: number
   effectiveCharacterId?: string
@@ -25,12 +25,12 @@ export type SlimCrossCharacterProgress = {
   entries: Record<string, ScalarProgress>
 }
 
-export type CrossCharacterCompletionIndex = {
+type CrossCharacterCompletionIndex = {
   characters: Record<string, { label: string; sortOrder: number }>
   paths: Record<string, SlimCrossCharacterProgress>
 }
 
-export type CrossCharacterRow = {
+type CrossCharacterRow = {
   characterId: string
   progressCurrent: number
   progressTotal: number

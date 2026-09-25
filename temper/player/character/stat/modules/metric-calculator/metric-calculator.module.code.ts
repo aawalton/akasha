@@ -19,7 +19,7 @@ import {
   metricsWithFormulas,
 } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 
-export interface CalculationResult {
+interface CalculationResult {
   sources: readonly EffectSource[]
   metrics: Partial<Record<MetricId, MetricValue>>
 }

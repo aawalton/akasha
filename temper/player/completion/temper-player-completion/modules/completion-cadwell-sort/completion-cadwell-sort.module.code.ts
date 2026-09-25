@@ -1,16 +1,16 @@
-export interface CadwellPOIInput {
+interface CadwellPOIInput {
   name: string
   order: number
   completed: boolean
 }
 
-export interface CadwellZoneInput {
+interface CadwellZoneInput {
   name: string
   order: number
   pois: Record<number, CadwellPOIInput>
 }
 
-export interface CadwellLevelInput {
+interface CadwellLevelInput {
   zones: Record<number, CadwellZoneInput>
 }
 
@@ -18,26 +18,26 @@ export interface CadwellProgressInput {
   levels: Record<number, CadwellLevelInput>
 }
 
-export interface SortedCadwellPOI {
+interface SortedCadwellPOI {
   id: number
   name: string
   order: number
   completed: boolean
 }
 
-export interface SortedCadwellZone {
+interface SortedCadwellZone {
   id: number
   name: string
   order: number
   pois: readonly SortedCadwellPOI[]
 }
 
-export interface SortedCadwellLevel {
+interface SortedCadwellLevel {
   id: number
   zones: readonly SortedCadwellZone[]
 }
 
-export interface FirstIncompleteCadwellZone {
+interface FirstIncompleteCadwellZone {
   levelId: number
   zoneId: number
   zoneName: string

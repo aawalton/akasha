@@ -9,7 +9,7 @@ import {
 } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
-export interface CharacterMorphProgressInput {
+interface CharacterMorphProgressInput {
   applicableLines: ReadonlySet<SkillLineId>
   skillLineProgress: MorphSkillLineProgressMap | null | undefined
 }

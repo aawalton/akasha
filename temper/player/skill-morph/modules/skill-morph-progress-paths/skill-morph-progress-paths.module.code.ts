@@ -22,7 +22,7 @@ function pointsFor(morph: MorphSkillProgress): number {
   )
 }
 
-export interface SkillMorphLineProgressInput {
+interface SkillMorphLineProgressInput {
   expectedSkillsForLine: ReadonlyArray<ExpectedMorphableSkill>
   lineSkills: Record<number, MorphSkillProgress> | undefined
 }
@@ -48,7 +48,7 @@ function resolveSkillMorphLineProgress(input: SkillMorphLineProgressInput): {
   return { current, total }
 }
 
-export interface SkillMorphSkillProgressInput {
+interface SkillMorphSkillProgressInput {
   expectedSkillsForLine: ReadonlyArray<ExpectedMorphableSkill>
   lineSkills: Record<number, MorphSkillProgress> | undefined
   skillBaseName: string
@@ -70,7 +70,7 @@ function resolveSkillMorphSkillProgress(
   return { current: 0, total: 12 }
 }
 
-export interface SkillMorphProgressByPathInput {
+interface SkillMorphProgressByPathInput {
   esoLineId: number
   skillBaseName?: string
   expectedSkillsForLine: ReadonlyArray<ExpectedMorphableSkill> | undefined
