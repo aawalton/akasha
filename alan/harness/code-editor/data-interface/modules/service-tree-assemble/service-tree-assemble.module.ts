@@ -62,7 +62,12 @@ export const serviceTreeAssemble = {
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "Every kind of service publishes whether that service is well.",
+      statement: "Every kind of service kept running publishes whether that service is well.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "A kind of service built and shipped rather than kept running publishes no `well`.",
     },
 
     {
