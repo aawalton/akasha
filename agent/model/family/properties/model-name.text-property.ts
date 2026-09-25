@@ -5,7 +5,7 @@ export const modelName = {
   type: "page-type/text-property",
   slug: "model-name",
   propertySlug: "name",
-  definition: "the name a call carries to reach this family's model",
+  definition: "the name of the current model version in a model family",
   maxLength: 100,
   nameFormat: null,
   decisions: [
