@@ -1,4 +1,6 @@
 import { lib } from "akasha/temper/addon/pages/temper-core/temper-scrollable-menu/modules/scrollable-menu-state/scrollable-menu-state.module.code.ts"
+import type { SurfaceLevel } from "akasha/temper/modules/surface-backdrop/surface-backdrop.module.code.ts"
+import { styleControlsUnder } from "akasha/temper/window/modules/window-controls/window-controls.module.code.ts"
 import {
   openedInTemperWindow,
   paintOpenList,
@@ -20,6 +22,8 @@ interface ShownMenu {
 
 const MENU_KINDS: readonly string[] = ["Menu", "ContextMenu", "SubMenu"]
 
+const HEADER_LEVEL: SurfaceLevel = 3
+
 function listOf(value: unknown): Control | undefined {
   return type(value) === "userdata" ? (value as Control) : undefined
 }
@@ -33,7 +37,10 @@ function openerOf(value: unknown): Control | undefined {
 function onShown(this: void, ...args: unknown[]): undefined {
   const list = listOf(args[0])
   if (list === undefined) return undefined
-  if (openedInTemperWindow(openerOf(args[1]))) paintOpenList(list)
+  if (!openedInTemperWindow(openerOf(args[1]))) return undefined
+  paintOpenList(list)
+  const header = list.GetNamedChild("Header")
+  if (header !== undefined) styleControlsUnder(header, HEADER_LEVEL)
   return undefined
 }
 

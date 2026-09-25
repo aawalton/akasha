@@ -19,5 +19,10 @@ export const scrollableMenuWebLook = {
       decisionKind: "decision-kind/departure",
       statement: "A menu gets the game's look back as it hides.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The search field and buttons in a Temper menu's header take the web's look for good.",
+    },
   ],
 } as const satisfies Module
