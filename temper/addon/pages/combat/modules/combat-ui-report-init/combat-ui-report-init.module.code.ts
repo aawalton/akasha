@@ -54,6 +54,10 @@ import {
   FRAME_TOP,
   frameWindow,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
+import {
+  clearBackdrop,
+  paintPanel,
+} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-ui-state-declarations/combat-ui-state-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
@@ -177,6 +181,10 @@ const PANEL_GAP = 4
 
 const INFO_ROW_HEIGHT = 24
 
+const SECTION_PANELS = ["_MainPanel", "_RightPanel", "_UnitPanel", "_AbilityPanel", "_InfoPanel"]
+
+const MAIN_PANEL_PAGES = ["FightStats", "CombatLog", "Graph"]
+
 function frameReport(
   this: void,
   report: TopLevelWindow,
@@ -196,6 +204,12 @@ function frameReport(
   infoRow.ClearAnchors()
   infoRow.SetAnchor(TOPLEFT, unitPanel, BOTTOMLEFT, 0, PANEL_GAP)
   infoRow.SetAnchor(BOTTOMRIGHT, body, BOTTOMRIGHT, 0, 0)
+  for (const name of SECTION_PANELS) {
+    paintPanel(namedChild<BackdropControl>(namedChild(report, name), "BG"))
+  }
+  for (const name of MAIN_PANEL_PAGES) {
+    clearBackdrop(namedChild<BackdropControl>(namedChild(mainPanel, name), "BG"))
+  }
   const [width, height] = report.GetDimensions()
   report.SetDimensions(
     width + (FRAME_PADDING - OLD_MARGIN) * 2,

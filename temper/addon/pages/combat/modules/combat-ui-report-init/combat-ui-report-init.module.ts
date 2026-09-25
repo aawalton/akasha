@@ -6,4 +6,11 @@ export const combatUiReportInit = {
   slug: "combat-ui-report-init",
   definition: "building the report window the first time it is opened",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each section of the report sits on a panel, and the pages inside one are cleared.",
+    },
+  ],
 } as const satisfies Module
