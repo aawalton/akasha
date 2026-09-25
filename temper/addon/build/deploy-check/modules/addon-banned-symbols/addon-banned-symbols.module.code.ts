@@ -51,7 +51,7 @@ function parseNextExec(re: RegExp, input: string): ParsedExec | null {
   return REGEX_EXEC_SCHEMA.parse(re.exec(input))
 }
 
-export type BannedFamily = "namespace-member-stripped" | "namespace-stripped" | "global-stripped"
+type BannedFamily = "namespace-member-stripped" | "namespace-stripped" | "global-stripped"
 
 export interface Issue {
   file: string

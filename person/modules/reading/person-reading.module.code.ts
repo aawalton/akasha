@@ -12,7 +12,7 @@ import {
 
 const PAGE_TYPE = "person"
 
-export interface Person {
+interface Person {
   readonly id: string
   readonly slug: string
   readonly path: string

@@ -1,7 +1,7 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { stripVersionSuffix } from "akasha/temper/addon/build/deploy-check/modules/addon-dependency-cycle/addon-dependency-cycle.module.code.ts"
 
-export type DependencyDirective = "dependsOn" | "optionalDependsOn"
+type DependencyDirective = "dependsOn" | "optionalDependsOn"
 
 export interface AddonFloorInput {
   readonly addonName: string
@@ -10,7 +10,7 @@ export interface AddonFloorInput {
   readonly optionalDependsOn: readonly string[]
 }
 
-export type DependencyToken =
+type DependencyToken =
   | { readonly kind: "bare"; readonly provider: string }
   | { readonly kind: "floor"; readonly provider: string; readonly floor: number }
   | {
@@ -20,14 +20,14 @@ export type DependencyToken =
       readonly reason: "comparator" | "version"
     }
 
-export type DependencyFloorEdgeStatus =
+type DependencyFloorEdgeStatus =
   | "satisfied"
   | "violated"
   | "unverifiable-external"
   | "unverifiable-constraint"
   | "no-floor"
 
-export type DependencyFloorEdge =
+type DependencyFloorEdge =
   | {
       readonly status: "satisfied"
       readonly consumer: string
@@ -71,7 +71,7 @@ export type DependencyFloorEdge =
       readonly raw: string
     }
 
-export interface DependencyFloorViolation {
+interface DependencyFloorViolation {
   readonly message: string
   readonly consumer: string
   readonly provider: string

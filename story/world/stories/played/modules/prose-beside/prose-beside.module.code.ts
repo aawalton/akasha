@@ -35,7 +35,7 @@ async function readPlayedProse(
   return held
 }
 
-export interface PlayedProse {
+interface PlayedProse {
   readonly prose: ReadonlyMap<string, string>
   readonly read: ReadonlySet<string>
 }

@@ -17,9 +17,9 @@ const COMPLETE = "complete"
 const ACTIVE = "active"
 const POINTS = "attrPoints"
 
-export type Numbers = Record<string, number>
+type Numbers = Record<string, number>
 
-export type Named = Record<string, unknown>
+type Named = Record<string, unknown>
 
 function saidIn(held: unknown): string | undefined {
   const said = textIn(held)?.trim()

@@ -69,7 +69,7 @@ function heldUnder(dir: string, under: string): readonly string[] {
   return out
 }
 
-export type MetadataCopied = {
+type MetadataCopied = {
   readonly distDir: string
   readonly manifestPath: string
   readonly luaCount: number

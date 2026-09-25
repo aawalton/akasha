@@ -28,7 +28,7 @@ const CHANNEL_MODULES: GameDisplayModules = {
   chapterProse: { titles: "shown", pastTurns: "muted" },
 }
 
-export interface ChannelSpan {
+interface ChannelSpan {
   readonly from: number
   readonly to: number
 }

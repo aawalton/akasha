@@ -23,7 +23,7 @@ const SANDBOX_LIBRARY_SCHEMA = z.object({
   members: z.record(z.string(), z.array(z.string())),
 })
 
-export type Written = {
+type Written = {
   readonly edits: readonly Replacing[]
   readonly said: readonly string[]
 }
@@ -67,7 +67,7 @@ export function couldTurn(change: Change): boolean {
   return change.changed.some((path) => path === TABLE_AT || path === MANIFEST_AT)
 }
 
-export function writtenOver(change: Change): Written {
+function writtenOver(change: Change): Written {
   const table = textOf(change.after(TABLE_AT))
   if (table === null) return NOTHING
   const was = textOf(change.after(MANIFEST_AT))

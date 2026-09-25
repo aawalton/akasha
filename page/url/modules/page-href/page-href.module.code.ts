@@ -5,19 +5,19 @@ export const ID_SUFFIX_LENGTH = 8
 const ID_SUFFIX_PATTERN = /^[0-9a-f]{8}$/
 const FALLBACK_SLUG = "untitled"
 
-export type PageHrefArgs = {
+type PageHrefArgs = {
   pageTypeSlug: PageTypeSlug
   slug: string | null | undefined
   fallbackSlugSource: string | null | undefined
   id: string
 }
 
-export type ParsedPageHrefParam = {
+type ParsedPageHrefParam = {
   slug: string | null
   idSuffix: string
 }
 
-export type PageLink = {
+type PageLink = {
   readonly href: string
   readonly title: string | null
 }

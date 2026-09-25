@@ -1,6 +1,6 @@
-export type Pool = "hp" | "focus" | "stamina"
+type Pool = "hp" | "focus" | "stamina"
 
-export type Element = {
+type Element = {
   readonly element: string
   readonly sense: string
   readonly matched: string

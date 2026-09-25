@@ -1,4 +1,4 @@
-export type Tier = {
+type Tier = {
   readonly rank: string
   readonly cap: number
 }

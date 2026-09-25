@@ -42,7 +42,7 @@ export type Asking = {
   readonly before: string | null
 }
 
-export type Settled = { readonly answered: MechanicRun } | { readonly refused: string }
+type Settled = { readonly answered: MechanicRun } | { readonly refused: string }
 
 type Thrown =
   | { readonly answered: { readonly dice: Dice; readonly roll: Rolled } }

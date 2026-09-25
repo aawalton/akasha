@@ -2,9 +2,9 @@ const FIRST_LEVEL = 1
 const LEVELS_PER_FLOOR = 1
 const POINTS_PER_LEVEL = 3
 
-export type Reading = { readonly floorsCleared: number }
+type Reading = { readonly floorsCleared: number }
 
-export type Levelled = {
+type Levelled = {
   readonly level: number
   readonly attributePoints: number
 }

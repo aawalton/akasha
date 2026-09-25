@@ -16,7 +16,7 @@ export const RevealedSheetSchema = z.object({
 })
 export type RevealedSheet = z.infer<typeof RevealedSheetSchema>
 
-export type RevealKey = keyof RevealedSheet & string
+type RevealKey = keyof RevealedSheet & string
 
 const REVEAL_UNIVERSE_KEY_SET = new Set<string>(Object.keys(RevealedSheetSchema.shape))
 export const REVEAL_UNIVERSE_KEYS: readonly RevealKey[] = Object.keys(

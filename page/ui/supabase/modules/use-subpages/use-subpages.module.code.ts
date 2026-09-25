@@ -14,7 +14,7 @@ export interface Subpage {
   sourcePageTypeSlug: string
 }
 
-export interface SubpageSpec {
+interface SubpageSpec {
   sourcePageTypeSlug: string
   propertyId: string
   kind: "relation" | "multi-relation"

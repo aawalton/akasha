@@ -14,7 +14,7 @@ const UNAUTHORIZED = 401
 
 export type Fetching = (input: string, init?: RequestInit) => Promise<Response>
 
-export type Sent =
+type Sent =
   | { readonly ok: true; readonly id: string }
   | { readonly ok: false; readonly error: string; readonly signedOut?: boolean }
 

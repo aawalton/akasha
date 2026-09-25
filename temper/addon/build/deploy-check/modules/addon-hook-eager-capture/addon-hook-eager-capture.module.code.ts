@@ -4,7 +4,7 @@ export function parseAddonSource(source: string, filePath: string): ts.SourceFil
   return ts.createSourceFile(filePath, source, ts.ScriptTarget.Latest, true)
 }
 
-export type ClosureSite =
+type ClosureSite =
   | { readonly kind: "hook-installer"; readonly name: string }
   | { readonly kind: "property"; readonly name: string }
   | { readonly kind: "bare" }

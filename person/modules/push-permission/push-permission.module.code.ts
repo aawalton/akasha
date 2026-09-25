@@ -1,8 +1,8 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 
-export type Permission = "prompt" | "prompt-with-rationale" | "granted" | "denied"
+type Permission = "prompt" | "prompt-with-rationale" | "granted" | "denied"
 
-export type RegisterAction = "register" | "request" | "degrade"
+type RegisterAction = "register" | "request" | "degrade"
 
 export function decidePermissionAction(receive: Permission): RegisterAction {
   switch (receive) {

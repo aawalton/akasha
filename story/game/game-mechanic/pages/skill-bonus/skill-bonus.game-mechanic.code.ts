@@ -3,12 +3,12 @@ import { placedAt } from "akasha/story/game/game-mechanic/modules/skill-rung/ski
 
 const HERE = "story/game/game-mechanic/pages/skill-bonus"
 
-export type Reading = {
+type Reading = {
   readonly skill: string
   readonly rank: string
 }
 
-export type Added = { readonly answered: Bonus } | { readonly refused: string }
+type Added = { readonly answered: Bonus } | { readonly refused: string }
 
 export function runMechanic(reading: Reading): Added {
   const placed = placedAt(reading.rank)

@@ -6,7 +6,7 @@ import {
 
 const PUBLISHED = "published"
 
-export type ListedRequest = {
+type ListedRequest = {
   readonly id: string
   readonly slug: string
   readonly title: string
@@ -15,7 +15,7 @@ export type ListedRequest = {
   readonly boosters: number
 }
 
-export type Listing = {
+type Listing = {
   readonly requests: readonly ListedRequest[]
 }
 

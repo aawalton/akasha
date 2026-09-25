@@ -164,7 +164,7 @@ function stringIdAssertionFor(file: string, distRoot: string | null): StringIdAs
 
 const CHECK_SCRIPT = import.meta.path
 
-export interface AddonSandboxLoadOptions {
+interface AddonSandboxLoadOptions {
   readonly singleFile: string | null
 }
 

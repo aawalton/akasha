@@ -2,7 +2,7 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 
 export const OWNERSHIP_MARKER_FILE = "build-id.lua"
 
-export type FolderProbe = {
+type FolderProbe = {
   readonly dirExists: boolean
   readonly markerPresent: boolean | undefined
 }
@@ -48,9 +48,9 @@ export function foreignCopySatisfies(
   return requiredFloors.every((floor) => floor <= foreignAddonVersion)
 }
 
-export type InstallAction = "install" | "skip" | "refuse"
+type InstallAction = "install" | "skip" | "refuse"
 
-export type InstallDecision = {
+type InstallDecision = {
   readonly action: InstallAction
   readonly reason: string
 }

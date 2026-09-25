@@ -76,7 +76,7 @@ export const GameDisplayConfigSchema = z
     alerts: GameAlertsSchema.optional(),
   })
   .strict()
-export type GameDisplayConfig = z.infer<typeof GameDisplayConfigSchema>
+type GameDisplayConfig = z.infer<typeof GameDisplayConfigSchema>
 
 export interface ResolvedGameDisplay {
   readonly modules: GameDisplayModules
@@ -108,7 +108,7 @@ export function resolveGameDisplay(
 
 const DEFAULT_ALERT_SOUND: AlertSound = "chime"
 
-export interface ResolvedAlertPrefs {
+interface ResolvedAlertPrefs {
   readonly sound: AlertSound
   readonly desktop: boolean
 }

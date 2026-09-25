@@ -13,7 +13,7 @@ export type Shelved = {
   readonly definition: string | null
 }
 
-export type Shelf = { readonly heading: string | null; readonly under: readonly Shelved[] }
+type Shelf = { readonly heading: string | null; readonly under: readonly Shelved[] }
 
 function placeOf(row: NavRow): number {
   const place = row["navPlace"]

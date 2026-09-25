@@ -12,7 +12,7 @@ export interface UsePagesSupabaseOptions {
   limit?: number
 }
 
-export interface UsePagesSupabaseResult {
+interface UsePagesSupabaseResult {
   rows: readonly Page[]
   isLoading: boolean
   isDegraded: boolean

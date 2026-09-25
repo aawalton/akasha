@@ -9,9 +9,9 @@ type Said = {
 
 type Claimed = { readonly characterClaims?: unknown }
 
-export const LEVEL = "level"
+const LEVEL = "level"
 
-export const ASSERTED = "asserted"
+const ASSERTED = "asserted"
 
 function levelIn(said: Said): number | null {
   if (said.claimField !== LEVEL || said.epistemic !== ASSERTED) return null

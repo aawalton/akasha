@@ -18,7 +18,7 @@ export function safeInternalPath(path: string): string | null {
   return path
 }
 
-export type SafeRedirectTargetArgs = {
+type SafeRedirectTargetArgs = {
   next: string | null
   allowedHosts: readonly string[]
 }

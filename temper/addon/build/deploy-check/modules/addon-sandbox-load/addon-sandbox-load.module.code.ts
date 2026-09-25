@@ -14,14 +14,14 @@ interface LoadOk {
   readonly bundle: string
 }
 
-export interface BundleSummary {
+interface BundleSummary {
   readonly byteLen: number
   readonly moduleEntryCount: number
   readonly hasFooterEntry: boolean
   readonly firstLine: string
 }
 
-export interface BundleDiagnostics extends BundleSummary {
+interface BundleDiagnostics extends BundleSummary {
   readonly mtimeIso: string
 }
 

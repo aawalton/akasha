@@ -17,7 +17,7 @@ export type Echo = {
   readonly sentAt: number
 }
 
-export type Sending = "none" | "arm" | "send"
+type Sending = "none" | "arm" | "send"
 
 export type TurnAwaited = { readonly turnsAt: number; readonly at: number } | null
 

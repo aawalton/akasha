@@ -73,7 +73,7 @@ export interface ListedChapter {
   readonly url: string
 }
 
-export interface ReadChapter {
+interface ReadChapter {
   readonly patronOnly: boolean
   readonly ogTitle: string
   readonly docTitle: string

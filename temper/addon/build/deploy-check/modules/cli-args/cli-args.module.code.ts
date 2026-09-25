@@ -2,7 +2,7 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
 import { suggestClosest } from "akasha/text/writing/modules/suggest-closest/suggest-closest.module.code.ts"
 
-export type FlagSpec =
+type FlagSpec =
   | { readonly kind: "boolean"; readonly default?: boolean }
   | { readonly kind: "string"; readonly default?: string; readonly required?: boolean }
   | { readonly kind: "number"; readonly default?: number; readonly required?: boolean }
@@ -26,11 +26,11 @@ type FlagValue<F extends FlagSpec> = F extends { kind: "boolean" }
                 ? readonly string[]
                 : never
 
-export type FlagsResult<F extends Record<string, FlagSpec>> = {
+type FlagsResult<F extends Record<string, FlagSpec>> = {
   readonly [K in keyof F]: FlagValue<F[K]>
 }
 
-export type ParsedArgs<F extends Record<string, FlagSpec>> = {
+type ParsedArgs<F extends Record<string, FlagSpec>> = {
   readonly flags: FlagsResult<F>
   readonly positionals: readonly string[]
   readonly raw: readonly string[]
@@ -42,7 +42,7 @@ function asFlagsResult<F extends Record<string, FlagSpec>>(
   return flags as FlagsResult<F>
 }
 
-export type ParseOptions = {
+type ParseOptions = {
   readonly passthrough?: boolean
 }
 

@@ -7,7 +7,7 @@ const PlayerChoiceActionSchema = z
     optionId: z.string().min(1),
   })
   .strict()
-export type PlayerChoiceAction = z.infer<typeof PlayerChoiceActionSchema>
+type PlayerChoiceAction = z.infer<typeof PlayerChoiceActionSchema>
 
 export function formatPlayerChoiceAction(action: PlayerChoiceAction, optionLabel: string): string {
   const { windowId, choiceId, optionId } = PlayerChoiceActionSchema.parse(action)

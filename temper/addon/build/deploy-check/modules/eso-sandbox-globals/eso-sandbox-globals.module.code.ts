@@ -8,7 +8,7 @@ const ESO_API_SEED: readonly string[] = [
   "zo_callLater",
 ]
 
-export type PermissiveStub = {
+type PermissiveStub = {
   (...args: readonly unknown[]): PermissiveStub
   new (...args: readonly unknown[]): PermissiveStub
   readonly [key: string]: PermissiveStub

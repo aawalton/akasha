@@ -30,7 +30,7 @@ export interface StoryLedger {
   readonly publishedState?: GameState | null
 }
 
-export interface EnvelopeInputs {
+interface EnvelopeInputs {
   readonly state: GameState | null
   readonly story: StoryLedger | null
   readonly actions?: readonly PendingActionInput[]

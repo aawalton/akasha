@@ -6,7 +6,7 @@ import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.mod
 import type { FileDetails } from "akasha/temper/addon/community/modules/esoui-catalog/esoui-catalog.module.code.ts"
 import extract from "extract-zip"
 
-export type InstallResult = {
+type InstallResult = {
   readonly installedDirs: readonly string[]
   readonly version: string
 }

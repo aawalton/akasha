@@ -22,7 +22,7 @@ function costOf(count: number): number {
   return band === undefined ? MOST_PER_COUNT : band.events
 }
 
-export type Reading = {
+type Reading = {
   readonly tier: string
   readonly count: number
   readonly pool: number
@@ -30,7 +30,7 @@ export type Reading = {
   readonly absorbed: boolean
 }
 
-export type Advanced = {
+type Advanced = {
   readonly tier: string
   readonly count: number
   readonly pool: number
@@ -39,7 +39,7 @@ export type Advanced = {
   readonly promoted: boolean
 }
 
-export type Ran = { readonly answered: Advanced } | { readonly refused: string }
+type Ran = { readonly answered: Advanced } | { readonly refused: string }
 
 export function runMechanic(reading: Reading): Ran {
   const at = tierIndexAt(reading.tier)

@@ -25,7 +25,7 @@ const COUNTER_KEY = "counter"
 
 export type Titled = { readonly values: Record<string, unknown> }
 
-export type Attuned = { readonly name: string; readonly value: number }
+type Attuned = { readonly name: string; readonly value: number }
 
 const NO_ATTUNEMENTS: readonly Attuned[] = []
 

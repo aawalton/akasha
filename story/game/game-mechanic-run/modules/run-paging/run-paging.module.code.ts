@@ -18,7 +18,7 @@ const MARK = "…"
 
 const A_RUN_OF_SPACE = /\s+/g
 
-export type Paging = {
+type Paging = {
   readonly gameSlug: string
   readonly folder: string
   readonly run: MechanicRun

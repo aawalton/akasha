@@ -4,12 +4,12 @@ import type {
   Summed,
 } from "akasha/story/game/game-mechanic/modules/linear-stat/linear-stat.module.code.ts"
 
-export type Facing = {
+type Facing = {
   readonly attacker: Sheet
   readonly defender: Sheet
 }
 
-export type Faced =
+type Faced =
   | { readonly answered: { readonly attackPower: number; readonly defense: number } }
   | { readonly refused: string }
 

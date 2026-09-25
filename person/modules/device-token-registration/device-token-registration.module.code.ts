@@ -28,7 +28,7 @@ export const ALERT = "alert"
 
 export const LIVE_ACTIVITY = "liveactivity"
 
-export interface DeviceTokenRegistration {
+interface DeviceTokenRegistration {
   readonly userId?: string
   readonly contributor?: string
   readonly deviceTokenRegistration: string
@@ -37,13 +37,13 @@ export interface DeviceTokenRegistration {
   readonly pushType?: string
 }
 
-export interface DeviceTokenReached {
+interface DeviceTokenReached {
   readonly deviceToken: string
   readonly bundleId: string
   readonly pushType: string
 }
 
-export type Reached =
+type Reached =
   | { readonly ok: true; readonly tokens: readonly DeviceTokenReached[] }
   | { readonly ok: false; readonly why: string }
 

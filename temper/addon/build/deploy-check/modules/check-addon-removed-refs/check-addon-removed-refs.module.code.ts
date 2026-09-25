@@ -17,7 +17,7 @@ import { renderPopulationBound } from "akasha/temper/addon/build/deploy-check/mo
 
 const GATE = "addon-removed-refs"
 
-export interface AddonRemovedRefsOptions {
+interface AddonRemovedRefsOptions {
   readonly singleFile: string | null
 }
 

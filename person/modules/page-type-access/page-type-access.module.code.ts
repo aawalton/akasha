@@ -28,7 +28,7 @@ export const DEEDS = {
 
 export type Deed = (typeof DEEDS)[keyof typeof DEEDS]
 
-export type Narrow = { readonly key: string; readonly is: string }
+type Narrow = { readonly key: string; readonly is: string }
 
 export type Grant = {
   readonly target: string
@@ -40,7 +40,7 @@ export type Reach =
   | { readonly permitted: false; readonly why: string }
   | { readonly permitted: true; readonly narrows: readonly Narrow[] | null }
 
-export type Granted =
+type Granted =
   | { readonly ok: true; readonly grants: readonly Grant[] }
   | { readonly ok: false; readonly why: string }
 

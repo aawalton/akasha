@@ -27,7 +27,7 @@ const DEPENDS_SCHEMA = addonManifestSchema
   .pick({ dependsOn: true, optionalDependsOn: true })
   .passthrough()
 
-export type Packed = {
+type Packed = {
   readonly archivePath: string | null
   readonly lines: readonly string[]
   readonly refusals: readonly string[]

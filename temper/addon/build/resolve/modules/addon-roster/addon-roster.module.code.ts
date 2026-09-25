@@ -21,7 +21,7 @@ export type AddonInfo = {
   readonly repoRelDir: string
 }
 
-export type ResolvedAddon = {
+type ResolvedAddon = {
   readonly dir: string
   readonly canonicalName: string
 }

@@ -28,7 +28,7 @@ export type WrittenWindow = {
   note?: string
 }
 
-export type ProseWindowSegment =
+type ProseWindowSegment =
   | { readonly kind: "prose"; readonly text: string }
   | { readonly kind: "window"; readonly window: WrittenWindow }
 

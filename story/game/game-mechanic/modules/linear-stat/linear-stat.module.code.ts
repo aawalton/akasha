@@ -1,8 +1,8 @@
 const HERE = "story/game/game-mechanic/modules/linear-stat"
 
-export type Rounding = "none" | "down" | "up" | "nearest"
+type Rounding = "none" | "down" | "up" | "nearest"
 
-export type Term = {
+type Term = {
   readonly of: string
   readonly by: number
 }
@@ -11,7 +11,7 @@ export type Sheet = Readonly<Record<string, number>>
 
 export type Reading = { readonly held: Sheet }
 
-export type Summing = {
+type Summing = {
   readonly terms: readonly Term[]
   readonly constant: number
   readonly rounding: Rounding

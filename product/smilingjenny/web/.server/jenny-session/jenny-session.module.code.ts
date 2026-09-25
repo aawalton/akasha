@@ -5,13 +5,13 @@ import { redirect } from "react-router"
 
 const ADMITTED: ReadonlySet<string> = new Set(["jenny", "alan"])
 
-export type SignedIn = { contributor: string; headers: Headers }
+type SignedIn = { contributor: string; headers: Headers }
 
-export type SessionReader = (request: Request) => Promise<string | null>
+type SessionReader = (request: Request) => Promise<string | null>
 
 const jennyReader: SessionReader = (request) => signedInAs(JENNY_SITE, request)
 
-export type Reading =
+type Reading =
   | { readonly admitted: true; readonly signedIn: SignedIn }
   | { readonly admitted: false; readonly aStranger: boolean }
 

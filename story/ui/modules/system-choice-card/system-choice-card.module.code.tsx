@@ -13,7 +13,7 @@ export type PlayerActionInput = {
   text: string
 }
 
-export type PlayerActionResult =
+type PlayerActionResult =
   | { readonly ok: true }
   | { readonly ok: false; readonly error: string; readonly signedOut?: boolean }
 

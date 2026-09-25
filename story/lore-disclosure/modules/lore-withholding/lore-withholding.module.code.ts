@@ -29,7 +29,7 @@ export const WITHHELD: readonly string[] = [
   "narrower path, one holding none.",
 ]
 
-export const NOTHING_READ =
+const NOTHING_READ =
   "a file this read names is lore the world builder holds, so nothing was read here and nothing is recorded."
 
 export const REFUSED_WHOLE: string = [NOTHING_READ, "", ...WITHHELD].join("\n")
@@ -79,7 +79,7 @@ function treesIn(root: string): readonly string[] {
     .map((one) => join(at, one.name))
 }
 
-export function copiesOf(root: string, withheld: readonly string[]): readonly string[] {
+function copiesOf(root: string, withheld: readonly string[]): readonly string[] {
   const found: string[] = []
   for (const tree of [root, ...treesIn(root)]) {
     for (const one of withheld) {

@@ -34,7 +34,7 @@ const ClientSkillSchema = z.object({
   score: z.number().optional(),
   note: z.string().optional(),
 })
-export type ClientSkill = z.infer<typeof ClientSkillSchema>
+type ClientSkill = z.infer<typeof ClientSkillSchema>
 
 const ClientAffinitySchema = z.object({
   name: z.string().optional(),
@@ -48,7 +48,7 @@ const ClientBondSchema = z.object({
   value: z.number().optional(),
   note: z.string().optional(),
 })
-export type ClientBond = z.infer<typeof ClientBondSchema>
+type ClientBond = z.infer<typeof ClientBondSchema>
 
 const ClientItemSchema = z.object({
   name: z.string().optional(),

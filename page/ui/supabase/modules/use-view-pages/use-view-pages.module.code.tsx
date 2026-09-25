@@ -11,7 +11,7 @@ import type {
 import { useViewQuery } from "akasha/page/ui/cache/modules/use-view-query/use-view-query.module.code.ts"
 import type { ShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 
-export type UseViewPagesSupabaseOptions = Omit<GetPagesForViewArgs, "cursor"> & {
+type UseViewPagesSupabaseOptions = Omit<GetPagesForViewArgs, "cursor"> & {
   pageTypeSlug?: string
   properties?: readonly PropertyDefinition[]
   propertiesByPageType?: PageTypePropertiesMap
@@ -24,7 +24,7 @@ export type UseViewPagesSupabaseOptions = Omit<GetPagesForViewArgs, "cursor"> & 
   displayTargetSlugs?: readonly string[]
 }
 
-export type UseViewPagesSupabaseResult = Pick<GetPagesForViewResult, "rows"> & {
+type UseViewPagesSupabaseResult = Pick<GetPagesForViewResult, "rows"> & {
   isLoading: boolean
   error: Error | null
   hasMore: boolean

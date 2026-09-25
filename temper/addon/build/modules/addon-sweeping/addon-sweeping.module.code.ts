@@ -11,9 +11,9 @@ import { readSiblingAddonNames } from "akasha/temper/addon/build/resolve/modules
 import { saidShort } from "akasha/temper/command/modules/flag-fault-stage/flag-fault-stage.module.code.ts"
 import { addonsDir } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
 
-export type SweepAction = "remove" | "keep"
+type SweepAction = "remove" | "keep"
 
-export type SweepDecision = {
+type SweepDecision = {
   readonly action: SweepAction
   readonly reason: string
 }
@@ -70,7 +70,7 @@ function ownershipOf(esoAddons: string, name: string): FolderOwnership {
   return decideFolderOwnership({ dirExists: true, markerPresent })
 }
 
-export type Swept = {
+type Swept = {
   readonly lines: readonly string[]
   readonly refusals: readonly string[]
 }

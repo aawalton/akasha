@@ -53,7 +53,7 @@ function isAddonOwnTypeScript(relPath: string): boolean {
   return relPath.split(sep).includes(LAYOUT_OUTSIDE_AKASHA)
 }
 
-export type AddonSourceFiles = {
+type AddonSourceFiles = {
   readonly code: readonly string[]
   readonly machineWritten: readonly string[]
 }
@@ -70,7 +70,7 @@ export function addonSourceFiles(addonDir: string): AddonSourceFiles {
   return { code, machineWritten }
 }
 
-export type AddonMarkupFiles = {
+type AddonMarkupFiles = {
   readonly own: readonly string[]
   readonly copies: readonly string[]
 }

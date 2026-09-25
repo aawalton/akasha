@@ -1,6 +1,6 @@
 import ts from "typescript"
 
-export interface ParsedAddonSource {
+interface ParsedAddonSource {
   readonly path: string
   readonly sf: ts.SourceFile
 }

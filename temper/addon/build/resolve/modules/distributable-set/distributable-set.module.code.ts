@@ -3,7 +3,7 @@ export type AddonDependencies = {
   readonly optionalDependsOn?: readonly string[]
 }
 
-export type DistributableSet = {
+type DistributableSet = {
   readonly included: readonly string[]
   readonly external: readonly string[]
 }

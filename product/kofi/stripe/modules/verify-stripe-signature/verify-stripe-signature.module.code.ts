@@ -1,8 +1,6 @@
-export type StripeSignatureResult =
-  | { readonly ok: true }
-  | { readonly ok: false; readonly reason: string }
+type StripeSignatureResult = { readonly ok: true } | { readonly ok: false; readonly reason: string }
 
-export interface VerifyStripeSignatureArgs {
+interface VerifyStripeSignatureArgs {
   readonly signingSecret: string
   readonly signatureHeader: string | null
   readonly rawBody: string

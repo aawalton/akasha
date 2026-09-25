@@ -101,7 +101,7 @@ function normalizeDependency(dep: string): string {
   return stripped === "0" ? name : `${name}${AT_LEAST}${stripped}`
 }
 
-export type ManifestAsked = {
+type ManifestAsked = {
   readonly metadataHeader: string
   readonly buildIdFile?: string
   readonly additionalLuaFiles: readonly string[]
@@ -226,7 +226,7 @@ export function buildIdLua(addonName: string, sha: string): string {
   return `TemperBuildIds = TemperBuildIds or {}\nTemperBuildIds["${addonName}"] = "${sha}"\n`
 }
 
-export type LoadOrderWritten = {
+type LoadOrderWritten = {
   readonly manifestPath: string
   readonly buildIdPath: string
   readonly luaCount: number

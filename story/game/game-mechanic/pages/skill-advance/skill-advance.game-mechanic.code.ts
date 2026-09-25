@@ -9,14 +9,14 @@ const FIRST_LEVEL = 1
 const ONE = 1
 const NONE = 0
 
-export type Reading = {
+type Reading = {
   readonly rank: string
   readonly level: number
   readonly demos: number
   readonly shown: string
 }
 
-export type Advanced = {
+type Advanced = {
   readonly rank: string
   readonly level: number
   readonly demos: number
@@ -24,7 +24,7 @@ export type Advanced = {
   readonly promoted: boolean
 }
 
-export type Ran = { readonly answered: Advanced } | { readonly refused: string }
+type Ran = { readonly answered: Advanced } | { readonly refused: string }
 
 export function runMechanic(reading: Reading): Ran {
   const placed = placedAt(reading.rank)

@@ -2,7 +2,7 @@ import { escapeRegExp } from "akasha/code/type/narrowing/modules/escape-reg-exp/
 import { stripXmlComments } from "akasha/code/type/narrowing/modules/strip-xml-comments/strip-xml-comments.module.code.ts"
 import ts from "typescript"
 
-export type OrphanReason = "undefined-symbol" | "onupdate-storm-vector"
+type OrphanReason = "undefined-symbol" | "onupdate-storm-vector"
 
 export interface OrphanFinding {
   readonly xmlPath: string
@@ -15,7 +15,7 @@ export interface OrphanFinding {
   readonly message: string
 }
 
-export interface InlineHandler {
+interface InlineHandler {
   readonly name: string
   readonly body: string
   readonly line: number
@@ -33,7 +33,7 @@ function propertyNameText(name: ts.PropertyName): string | undefined {
   return undefined
 }
 
-export interface SourceSymbols {
+interface SourceSymbols {
   readonly namespaces: readonly string[]
   readonly members: readonly string[]
 }
@@ -113,7 +113,7 @@ export function snippetOf(body: string): string {
   return flat.length > MAX_SNIPPET ? `${flat.slice(0, MAX_SNIPPET)}…` : flat
 }
 
-export interface DetectInput {
+interface DetectInput {
   readonly xmlPath: string
   readonly xml: string
   readonly namespaces: ReadonlySet<string>

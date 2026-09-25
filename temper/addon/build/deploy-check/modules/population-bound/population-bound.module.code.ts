@@ -1,4 +1,4 @@
-export type PopulationBound = {
+type PopulationBound = {
   readonly examined: number
   readonly declared: number
   readonly unit: string

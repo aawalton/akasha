@@ -1,12 +1,12 @@
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 
-export type Movement = {
+type Movement = {
   readonly chargeId: string
   readonly email: string
   readonly points: number
 }
 
-export type Read = { readonly movement: Movement } | { readonly passedOver: string }
+type Read = { readonly movement: Movement } | { readonly passedOver: string }
 
 const SUCCEEDED = "charge.succeeded"
 

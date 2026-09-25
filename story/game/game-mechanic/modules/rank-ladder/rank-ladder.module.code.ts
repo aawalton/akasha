@@ -1,8 +1,8 @@
 const HERE = "story/game/game-mechanic/modules/rank-ladder"
 
-export type Reading = { readonly rank: string }
+type Reading = { readonly rank: string }
 
-export type Climbed =
+type Climbed =
   | { readonly answered: { readonly rank: string; readonly topped: boolean } }
   | { readonly refused: string }
 

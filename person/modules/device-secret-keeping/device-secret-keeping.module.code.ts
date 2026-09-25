@@ -59,11 +59,11 @@ const NAMES_BOTH =
 const NAMES_NEITHER =
   "a device secret naming no account and no contributor is nobody's, so it opens nothing"
 
-export type Presented =
+type Presented =
   | { readonly ok: true; readonly secret: string }
   | { readonly ok: false; readonly reason: "absent" | "malformed" }
 
-export type DeviceSecretValues = {
+type DeviceSecretValues = {
   readonly userId: string | null
   readonly contributor: string | null
   readonly deviceId: string
@@ -71,18 +71,18 @@ export type DeviceSecretValues = {
   readonly revokedAt: string | null
 }
 
-export type DeviceSecretPage = DeviceSecretValues & {
+type DeviceSecretPage = DeviceSecretValues & {
   readonly id: string
   readonly slug: string
 }
 
-export type Whose = { readonly whom: Whom } | { readonly refused: string }
+type Whose = { readonly whom: Whom } | { readonly refused: string }
 
-export type Held =
+type Held =
   | { readonly has: boolean; readonly read: string | undefined }
   | { readonly unread: string }
 
-export type Found =
+type Found =
   | {
       readonly outcome: "found"
       readonly page: DeviceSecretPage
@@ -91,12 +91,12 @@ export type Found =
   | { readonly outcome: "none" }
   | { readonly outcome: "unread"; readonly why: string }
 
-export type Admitted =
+type Admitted =
   | { readonly outcome: "stands"; readonly whom: Whom; readonly slug: string }
   | { readonly outcome: "refused"; readonly why: string }
   | { readonly outcome: "unread"; readonly why: string }
 
-export type Minted =
+type Minted =
   | {
       readonly ok: true
       readonly secret: string
@@ -105,7 +105,7 @@ export type Minted =
     }
   | { readonly ok: false; readonly why: string }
 
-export type Revoked =
+type Revoked =
   | { readonly ok: true; readonly slug: string | null; readonly at: string | null }
   | { readonly ok: false; readonly why: string }
 
@@ -113,7 +113,7 @@ type Landed = { readonly ok: true; readonly at: string | null } | Extract<Minted
 
 type LastUseWritten = { readonly ok: true } | { readonly ok: false; readonly why: string }
 
-export type RecoveryCounted =
+type RecoveryCounted =
   | { readonly ok: true; readonly count: number }
   | { readonly ok: false; readonly why: string }
 

@@ -27,7 +27,7 @@ const COORDINATOR_AGENT_KEY = "coordinatorAgent"
 
 const DISPLAY_CONFIG_ENDING = "json"
 
-export interface GameBeside {
+interface GameBeside {
   readonly externalId: string | undefined
   readonly display: ResolvedGameDisplay | null
   readonly player: string | undefined
@@ -35,7 +35,7 @@ export interface GameBeside {
   readonly coordinatorAgent: string | undefined
 }
 
-export type GameBesideRead =
+type GameBesideRead =
   | { readonly kind: "waiting" }
   | { readonly kind: "read"; readonly beside: GameBeside }
   | { readonly kind: "none" }

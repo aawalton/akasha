@@ -17,7 +17,7 @@ export interface Referrer {
   viaPropertyTitle: string
 }
 
-export interface InboundSpec {
+interface InboundSpec {
   sourcePageTypeSlug: string
   propertyId: string
   propertyTitle: string

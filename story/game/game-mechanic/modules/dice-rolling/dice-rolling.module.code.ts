@@ -20,7 +20,7 @@ export type Dice = {
   readonly faces: readonly number[]
 }
 
-export type Shown = { readonly answered: Dice } | { readonly refused: string }
+type Shown = { readonly answered: Dice } | { readonly refused: string }
 
 function wordsFrom(seed: string, round: number): readonly number[] {
   const bytes = createHash(DIGEST).update(`${seed}/${round}`).digest()

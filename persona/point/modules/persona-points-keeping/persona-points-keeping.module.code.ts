@@ -11,7 +11,7 @@ const POINTS_TOTAL = "pointsTotal"
 
 const MESSAGES_TO_THE_POINT = 100
 
-export type Paged = { readonly path: string }
+type Paged = { readonly path: string }
 
 export function pointsIn(messages: number): number {
   return messages / MESSAGES_TO_THE_POINT

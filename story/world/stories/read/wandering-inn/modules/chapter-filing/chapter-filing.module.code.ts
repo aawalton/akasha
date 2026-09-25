@@ -84,7 +84,7 @@ export function filedChapterLinks(): ReadonlySet<string> {
   return links
 }
 
-export interface Filing {
+interface Filing {
   readonly position: number
   readonly title: string
   readonly url: string

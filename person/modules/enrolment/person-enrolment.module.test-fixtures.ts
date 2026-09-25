@@ -4,7 +4,7 @@ import type {
   Sleeper,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
-export interface Recording {
+interface Recording {
   readonly fetcher: Fetcher
   readonly sent: () => Record<string, unknown>
 }

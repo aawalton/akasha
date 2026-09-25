@@ -48,7 +48,7 @@ function isSingleDispatch(body: string, namespace: string): boolean {
   return namespaceRefCount(trimmed, namespace) === 1
 }
 
-export interface DispatchDetectInput {
+interface DispatchDetectInput {
   readonly xmlPath: string
   readonly xml: string
   readonly governed: ReadonlySet<string>

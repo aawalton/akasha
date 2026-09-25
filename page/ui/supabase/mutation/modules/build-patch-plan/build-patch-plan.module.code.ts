@@ -15,7 +15,7 @@ const PromotedColumnPatchSchema = z
   })
   .strict()
 
-export type PromotedColumnPatch = z.infer<typeof PromotedColumnPatchSchema>
+type PromotedColumnPatch = z.infer<typeof PromotedColumnPatchSchema>
 
 const CAMEL_TO_SNAKE: Record<string, string> = {
   id: "id",

@@ -19,7 +19,7 @@ const SHOWN = "Panel"
 
 const SCRIPT = "text/javascript"
 
-export type Drawn = (drawing: PanelDrawing) => ReactElement
+type Drawn = (drawing: PanelDrawing) => ReactElement
 
 export type Shown = {
   readonly slug: string

@@ -17,7 +17,7 @@ import { renderPopulationBound } from "akasha/temper/addon/build/deploy-check/mo
 
 const GATE = "addon-sandbox-safety"
 
-export interface AddonSandboxSafetyOptions {
+interface AddonSandboxSafetyOptions {
   readonly singleFile: string | null
 }
 

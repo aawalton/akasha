@@ -122,7 +122,7 @@ export async function personSlugForContributor(
   return { ok: true, personSlug: only }
 }
 
-export type Reaching =
+type Reaching =
   | { readonly ok: true; readonly account: string | null; readonly email: string | null }
   | { readonly ok: false; readonly unread: boolean; readonly why: string }
 

@@ -3,7 +3,7 @@ import { smilingjenny } from "akasha/code/ios-app/pages/smilingjenny/smilingjenn
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { jenny } from "akasha/person/pages/jenny/jenny.person.ts"
 
-export interface PushApp {
+interface PushApp {
   readonly bundleId: string
   readonly userId: string
 }

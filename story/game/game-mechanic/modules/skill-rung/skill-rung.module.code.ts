@@ -1,4 +1,4 @@
-export type Rung = {
+type Rung = {
   readonly rank: string
   readonly width: number | null
   readonly line: string
@@ -44,7 +44,7 @@ export const SKILL_RUNGS: readonly Rung[] = [
 
 export const SKILL_RANKS: readonly string[] = SKILL_RUNGS.map((one) => one.rank)
 
-export type Placed = {
+type Placed = {
   readonly at: number
   readonly rung: Rung
 }

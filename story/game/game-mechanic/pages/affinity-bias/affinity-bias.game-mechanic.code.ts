@@ -4,14 +4,12 @@ const HERE = "story/game/game-mechanic/pages/affinity-bias"
 const NONE = 0
 const FIRST_TIER_ADDS = 1
 
-export type Reading = {
+type Reading = {
   readonly tier: string
   readonly matched: boolean
 }
 
-export type Biased =
-  | { readonly answered: { readonly intent: number } }
-  | { readonly refused: string }
+type Biased = { readonly answered: { readonly intent: number } } | { readonly refused: string }
 
 export function runMechanic(reading: Reading): Biased {
   const at = tierIndexAt(reading.tier)

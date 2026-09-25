@@ -6,9 +6,9 @@ export type Rolled = {
   readonly fumble: boolean
 }
 
-export type Reading = { readonly faces: readonly number[] }
+type Reading = { readonly faces: readonly number[] }
 
-export type Read = { readonly answered: Rolled } | { readonly refused: string }
+type Read = { readonly answered: Rolled } | { readonly refused: string }
 
 export function readingBy(count: number, sides: number): (reading: Reading) => Read {
   return (reading) => {

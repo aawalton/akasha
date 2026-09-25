@@ -23,7 +23,7 @@ import { useCallback, useEffect, useRef, useState } from "react"
 
 const UNFOLLOWED: GameAlerts = { sound: "off", desktop: false }
 
-export interface ChapterAlerts {
+interface ChapterAlerts {
   readonly needsPermissionPrompt: boolean
   readonly enableAlerts: () => void
 }

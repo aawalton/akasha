@@ -6,7 +6,7 @@ import {
 } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
 import { personasStanding } from "akasha/persona/modules/reading/persona-reading.module.code.ts"
 
-export interface PersonaTarget {
+interface PersonaTarget {
   readonly id: string
   readonly slug: string
   readonly wakeSources: readonly CommsRule[]

@@ -7,18 +7,18 @@ export type Boost = {
   readonly points: number
 }
 
-export type Transaction = {
+type Transaction = {
   readonly at: string
   readonly points: number
 }
 
-export type Moved = {
+type Moved = {
   readonly boosts: readonly Boost[]
   readonly transaction: Transaction
   readonly balance: number
 }
 
-export type Moving = { readonly moved: Moved } | { readonly refused: string }
+type Moving = { readonly moved: Moved } | { readonly refused: string }
 
 function wholeAbove(points: number): boolean {
   return Number.isSafeInteger(points) && points > 0

@@ -1,4 +1,4 @@
-export type PageListingHrefArgs = {
+type PageListingHrefArgs = {
   slug: string
   query?: URLSearchParams | string
 }

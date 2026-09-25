@@ -44,7 +44,7 @@ const DEPS_SCHEMA = addonManifestSchema
   .partial()
   .passthrough()
 
-export type Placed = {
+type Placed = {
   readonly lines: readonly string[]
   readonly refusals: readonly string[]
 }

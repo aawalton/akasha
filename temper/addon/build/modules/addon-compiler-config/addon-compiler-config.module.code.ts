@@ -152,7 +152,7 @@ export function declaringDirs(repoRoot: string): readonly string[] {
   return reachedIn(repoRoot).declaring
 }
 
-export type TemperAddonPage = {
+type TemperAddonPage = {
   readonly slug: string
   readonly bundleEntry: string | null
   readonly bindings: string | null
@@ -194,7 +194,7 @@ export function bundleEntryPathIn(repoRoot: string, entrySlug: string): string {
   return join(repoRoot, entryCodeAt(page.path, bare))
 }
 
-export type CompilerConfigAsked = {
+type CompilerConfigAsked = {
   readonly repoRoot: string
   readonly addonDir: string
   readonly canonicalName: string

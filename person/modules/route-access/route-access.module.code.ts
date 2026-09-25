@@ -24,9 +24,9 @@ export const ROUTE_TARGETS = {
   READOUT_FEED: "readout-feed",
 } as const
 
-export type Decision = { readonly permitted: boolean; readonly why: string | null }
+type Decision = { readonly permitted: boolean; readonly why: string | null }
 
-export type Granted =
+type Granted =
   | { readonly ok: true; readonly targets: readonly string[] }
   | { readonly ok: false; readonly why: string }
 

@@ -15,7 +15,7 @@ const VALUE_KEY = "value"
 
 export type Counted = { readonly values: Record<string, unknown> }
 
-export type TowerCounts = {
+type TowerCounts = {
   readonly level: number | null
   readonly attributePoints: number | null
 }

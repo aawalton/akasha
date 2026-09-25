@@ -37,7 +37,7 @@ const PARTED_BY = "	"
 
 export class FilingRefused extends Error {}
 
-export type Chapter = { readonly slug: string; readonly position: number }
+type Chapter = { readonly slug: string; readonly position: number }
 
 function chaptersByTitle(root: string): ReadonlyMap<string, Chapter> {
   const asked = asking(root, {
@@ -71,7 +71,7 @@ function chaptersByTitle(root: string): ReadonlyMap<string, Chapter> {
   return held
 }
 
-export type Claim = {
+type Claim = {
   readonly chapterSlug: string
   readonly claimField: string
   readonly claimValue: string
@@ -157,7 +157,7 @@ function keyOf(claim: Claim): string {
   ].join(PARTED_BY)
 }
 
-export type Gathered = {
+type Gathered = {
   readonly slug: string
   title: string
   readonly claims: Map<string, Claim>
@@ -165,7 +165,7 @@ export type Gathered = {
   last: number | null
 }
 
-export type Reading = {
+type Reading = {
   readonly characters: ReadonlyMap<string, Gathered>
   readonly filesRead: number
   readonly filesPassed: number
@@ -301,7 +301,7 @@ async function landBatch(
   return "commit" in answer ? answer.commit : null
 }
 
-export type Filing = {
+type Filing = {
   readonly root: string
   readonly dir: string
   readonly batch: number

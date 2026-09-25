@@ -10,7 +10,7 @@ const GRAZE_SHORT_BY = -3
 const GRAZE_SCALE = 0.25
 const DAMAGE_FLOOR = 1
 
-export type Reading = {
+type Reading = {
   readonly attackPower: number
   readonly defense: number
   readonly baseDamage: number

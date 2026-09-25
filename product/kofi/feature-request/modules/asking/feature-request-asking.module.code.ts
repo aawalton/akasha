@@ -15,7 +15,7 @@ export const NOTHING_TO_DO = "this post says nothing to do"
 
 export const NO_POINTS = "how many points to commit is said as a number"
 
-export type Posting = {
+type Posting = {
   readonly product: string
   readonly contributor: string | null
 }

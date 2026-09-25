@@ -4,7 +4,7 @@ import {
   type ResolveOpts,
 } from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
 
-export type DeployableInfo = {
+type DeployableInfo = {
   readonly name: string
 }
 

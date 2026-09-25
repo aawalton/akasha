@@ -23,13 +23,13 @@ const NO_SLOT_NAMES: Record<string, string> = {}
 
 export type Filed = { readonly values: Record<string, unknown> }
 
-export type Worn = { readonly name: string }
+type Worn = { readonly name: string }
 
-export type Carried = { readonly name: string; readonly note?: string }
+type Carried = { readonly name: string; readonly note?: string }
 
-export type Had = { readonly worn: Record<string, Worn>; readonly carried: readonly Carried[] }
+type Had = { readonly worn: Record<string, Worn>; readonly carried: readonly Carried[] }
 
-export type Answered = { readonly had: Had | null }
+type Answered = { readonly had: Had | null }
 
 const NOTHING_HAD: Answered = { had: null }
 

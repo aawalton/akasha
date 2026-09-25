@@ -1,16 +1,16 @@
-export type KeychainDomain = "pinned" | "default" | "unsaid"
+type KeychainDomain = "pinned" | "default" | "unsaid"
 
 export type PeekProbe =
   | { readonly ok: true; readonly present: boolean; readonly domain: KeychainDomain }
   | { readonly ok: false }
 
-export type MintAction = "mint" | "skip"
+type MintAction = "mint" | "skip"
 
-export type RouteAnswer = { readonly held: boolean; readonly status: number }
+type RouteAnswer = { readonly held: boolean; readonly status: number }
 
 export type RouteRead = "admitted" | "refused" | "unanswered"
 
-export type RecoveryAction = "recover" | "hold"
+type RecoveryAction = "recover" | "hold"
 
 export const RECOVERY_SPAN = 86400000
 

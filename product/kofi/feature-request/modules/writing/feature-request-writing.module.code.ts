@@ -93,7 +93,7 @@ async function namesTaken(): Promise<
   return { taken }
 }
 
-export type Proposal = {
+type Proposal = {
   readonly product: string
   readonly contributor: string
   readonly ask: string
@@ -144,7 +144,7 @@ export async function proposedBy(given: Proposal): Promise<Landed> {
   return { slug }
 }
 
-export type Boosting = {
+type Boosting = {
   readonly product: string
   readonly contributor: string
   readonly request: string

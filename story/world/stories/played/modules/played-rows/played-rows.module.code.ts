@@ -27,12 +27,12 @@ const UNTITLED = "Untitled"
 
 const PROSE_ALONE: GameDisplayModules = { chapterProse: {} }
 
-export interface PlayedTail {
+interface PlayedTail {
   readonly drawn: readonly Page[]
   readonly earlier: number
 }
 
-export interface PlayedEnvelopeInputs {
+interface PlayedEnvelopeInputs {
   readonly title: string
   readonly modules: GameDisplayModules
   readonly turns: readonly ClientStoryTurn[]

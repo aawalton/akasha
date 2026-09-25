@@ -7,7 +7,7 @@ import {
 const BASE = 1
 const NO_GATE = 1
 
-export type Reading = {
+type Reading = {
   readonly attribute: number
   readonly difficulty: number
   readonly intent: number

@@ -8,7 +8,7 @@ const REGISTRATION_FNS: ReadonlySet<string> = new Set([
   "CreateControlFromVirtual",
 ])
 
-export type DependentKind =
+type DependentKind =
   | "ts-global-read"
   | "xml-handler-ref"
   | "xml-control-name"
@@ -17,7 +17,7 @@ export type DependentKind =
   | "xml-text-ref"
   | "lam-topology-binding"
 
-export interface DependentRef {
+interface DependentRef {
   readonly kind: DependentKind
   readonly file: string
   readonly line: number
@@ -25,7 +25,7 @@ export interface DependentRef {
   readonly detail: string
 }
 
-export type RenameVerdict = "rename-safe" | "keep-name-required"
+type RenameVerdict = "rename-safe" | "keep-name-required"
 
 export interface GlobalDependentReport {
   readonly global: string
@@ -39,7 +39,7 @@ export interface DependentSourceFile {
   readonly lang: "ts" | "xml"
 }
 
-export interface DependentScanInput {
+interface DependentScanInput {
   readonly global: string
   readonly files: readonly DependentSourceFile[]
 }

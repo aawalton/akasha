@@ -35,7 +35,7 @@ function trainingFor(tier: string | null, trained: boolean): number | null {
   return at === -1 ? null : SAME_ELEMENT + at
 }
 
-export type Reading = {
+type Reading = {
   readonly element: string
   readonly held: Sheet
   readonly intent: number

@@ -11,7 +11,7 @@ const REFUSED = "refused"
 const CODE = "code"
 const TS = "ts"
 
-export type Ran = { readonly answered: unknown } | { readonly refused: string }
+type Ran = { readonly answered: unknown } | { readonly refused: string }
 
 export function codeAt(root: string, address: string): string | null {
   const named = addressIn(address)
