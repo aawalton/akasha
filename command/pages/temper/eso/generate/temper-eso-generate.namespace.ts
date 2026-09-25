@@ -17,6 +17,7 @@ export const temperEsoGenerate = {
     "command/temper-eso-generate-item-sets",
     "command/temper-eso-generate-returns",
     "command/temper-eso-generate-sandbox-library",
+    "command/temper-eso-generate-set-carry-over",
     "command/temper-eso-generate-strings",
     "module/capture-text",
   ],

@@ -87,6 +87,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/eso/generate/set-carry-over/temper-eso-generate-set-carry-over.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":true,"deferred":false}
@@ -96,6 +97,7 @@
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"story/world/pages/the-wandering-inn/stories/read/the-wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mechanical-change-running.change-runner.code.ts","path":"temper/catalog/gear/temper-set/modules/set-carry-over/set-carry-over.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/capture/music-capture.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/import-artist/music-import-artist.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mechanical-change-running.change-runner.test-fixtures.ts","path":"command/pages/music/rate/music-rate.command.test-fixtures.ts","typed":false,"deferred":false}

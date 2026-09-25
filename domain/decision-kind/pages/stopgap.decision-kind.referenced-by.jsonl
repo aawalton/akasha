@@ -32,6 +32,7 @@
 {"propertySlug":"decision-kind","path":"command/modules/complexity-rowing/complexity-rowing.module.ts","id":"01a08ccb-ef46-7d67-8b4e-cc41cae3762e"}
 {"propertySlug":"decision-kind","path":"command/pages/read/modules/output-reaching/output-reaching.module.ts","id":"01a08fb0-4c21-7a4e-b2f6-9d4a71c3e8b5"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.ts","id":"01a0d5e2-67da-76e4-92d6-fa0cd8043288"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/set-carry-over/temper-eso-generate-set-carry-over.command.ts","id":"01a0d8ea-db08-73c9-a4e2-f852b881cb5d"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/reading/temper-inventory-reading.command.ts","id":"01a0603c-c1d9-7ef8-acb9-f19095076d6e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/record-parity/temper-inventory-record-parity.command.ts","id":"01a09f61-ca3e-75ea-9e65-23af74517db1"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/rule/show/temper-inventory-rule-show.command.ts","id":"01a0603c-c1d8-7a9c-b7d3-8fab0e6c8abf"}
@@ -69,6 +70,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/temper-core/temper-notification/notification-declarations/notification-declarations.type-declaration.ts","id":"01a0620a-a166-7152-bc6c-c9ce7bb3739c"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/engine-answer-catalog-capture/engine-answer-catalog-capture.module.ts","id":"01a0d42c-33d0-7ff4-8038-09dcb9eccb0b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-carry-over/set-carry-over.module.ts","id":"01a0d8ea-db08-7d5f-aed7-6844a42118f5"}
 {"propertySlug":"decision-kind","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.ts","id":"01a0680b-0616-7b70-8c7d-3bc79e3eec3b"}
 {"propertySlug":"decision-kind","path":"temper/economy/value/replacement-value/temper-replacement-value.domain.ts","id":"01a0b761-76a7-78cd-82a0-bfa7fa48f3b4"}
 {"propertySlug":"decision-kind","path":"temper/eso/lua-runner/eso-sandbox-prelude/eso-sandbox-prelude.lua-module.ts","id":"01a06059-2490-71da-a837-990f36920c7e"}

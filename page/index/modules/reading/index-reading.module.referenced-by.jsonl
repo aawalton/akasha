@@ -202,6 +202,7 @@
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/eso/generate/chatter-name/temper-eso-generate-chatter-name.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/temper/eso/generate/set-carry-over/temper-eso-generate-set-carry-over.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/track/food/track-food.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/track/modules/session-rows/session-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-reading.module.code.ts","path":"command/pages/track/session/modules/session-relationships/session-relationships.module.code.ts","typed":false,"deferred":false}

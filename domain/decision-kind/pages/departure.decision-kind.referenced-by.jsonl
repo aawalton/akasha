@@ -2373,6 +2373,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/modules/capture-text/capture-text.module.ts","id":"01a0d42f-27cb-7900-9c8f-34da29febeb8"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.ts","id":"01a0d3c8-0151-7c39-8927-103cdb98713e"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.ts","id":"01a0d8b3-a671-7854-9271-dd368db8e1d7"}
+{"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/set-carry-over/temper-eso-generate-set-carry-over.command.ts","id":"01a0d8ea-db08-73c9-a4e2-f852b881cb5d"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.ts","id":"01a0d418-8dda-7e16-8eab-f943e204c1ee"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts","id":"01a0603c-c1ce-749d-a434-9035b90e6e37"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts","id":"01a0603c-c1ce-7042-a37c-880bfd4380f9"}
@@ -4846,6 +4847,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.ts","id":"01a05fd1-d43d-7c95-8ac4-1739e09c409e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.ts","id":"01a05fd1-d435-7be6-b06d-cee7752f59c6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","id":"01a0d8c5-6849-7240-a278-39392a74c2a7"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-carry-over/set-carry-over.module.ts","id":"01a0d8ea-db08-7d5f-aed7-6844a42118f5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-tables-writing/set-tables-writing.module.ts","id":"01a0d8e5-f3dd-70e5-9079-f925ae959f72"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}

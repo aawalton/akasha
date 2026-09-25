@@ -375,6 +375,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/returns/temper-eso-generate-returns.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/sandbox-library/temper-eso-generate-sandbox-library.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/set-carry-over/temper-eso-generate-set-carry-over.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/eso/generate/strings/temper-eso-generate-strings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts","typed":false,"deferred":false}

@@ -1,3 +1,4 @@
 {"propertySlug":"import","fileName":"set-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"set-capture-reading.module.code.ts","path":"command/pages/temper/eso/generate/set-carry-over/temper-eso-generate-set-carry-over.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"set-capture-reading.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}
