@@ -1,6 +1,9 @@
 import type { ReadoutWords } from "akasha/alan/harness/readout/modules/body/readout-body.module.code.ts"
 import { READOUT_CACHE_CONTROL } from "akasha/alan/harness/readout/modules/credential/readout-credential.module.code.ts"
-import { stated } from "akasha/alan/harness/readout/modules/none-left/readout-none-left.module.code.ts"
+import {
+  noneLeftIn,
+  stated,
+} from "akasha/alan/harness/readout/modules/none-left/readout-none-left.module.code.ts"
 import {
   type HeldReading,
   noReading,
@@ -201,6 +204,16 @@ export async function stoplightsInGroup(
 
 export type WordsByWireKey = Readonly<Record<string, ReadoutWords>>
 
+function wordsServedOn(row: Values): ReadoutWords {
+  const noneLeftWords = noneLeftIn(row).words
+  const minuteUnit = stated(row.minuteUnit)
+  return {
+    ...wordsOn(row),
+    ...(noneLeftWords === undefined ? {} : { noneLeftWords }),
+    ...(minuteUnit === undefined ? {} : { minuteUnit }),
+  }
+}
+
 export async function wordsInGroup(groupSlug: string, fetcher?: Fetcher): Promise<WordsByWireKey> {
   const asked = await askingFor(
     {
@@ -215,7 +228,7 @@ export async function wordsInGroup(groupSlug: string, fetcher?: Fetcher): Promis
   for (const row of asked.rows) {
     if (stilled(row)) continue
     const wireKey = stated(row.wireKey)
-    if (wireKey !== undefined) words[wireKey] = wordsOn(row)
+    if (wireKey !== undefined) words[wireKey] = wordsServedOn(row)
   }
   return words
 }

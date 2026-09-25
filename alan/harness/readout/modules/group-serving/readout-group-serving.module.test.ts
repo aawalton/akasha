@@ -161,12 +161,12 @@ test("the unit answered is the one the readout's own page carries, where it carr
 
 test("the words of each readout the group admits are answered under its wire key", async () => {
   ANSWERED.readouts = [
-    READOUT_ROW,
-    OTHER_ROW,
+    { ...READOUT_ROW, noneLeftWords: "none", minuteUnit: "m" },
+    { ...OTHER_ROW, minuteUnit: "  " },
     { ...READOUT_ROW, slug: "stilled", wireKey: "stilled", enabled: false },
   ]
   expect(await wordsInGroup(GROUP)).toEqual({
-    safety: { label: "Safety", unit: "levels" },
+    safety: { label: "Safety", unit: "levels", noneLeftWords: "none", minuteUnit: "m" },
     surplus: { label: "Surplus" },
   })
 })

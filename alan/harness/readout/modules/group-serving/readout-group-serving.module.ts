@@ -40,6 +40,11 @@ export const readoutGroupServing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The words answered by wire key carry the words a countdown draws beside the label and unit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The key with the wire key is the key the caller names.",
     },
     {
