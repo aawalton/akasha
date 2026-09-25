@@ -24,6 +24,7 @@ export type QueryAnswer = {
   readonly faults: readonly string[]
   readonly omitted: readonly string[]
   readonly unfound: readonly string[]
+  readonly at?: string
 }
 
 export type Asked =
@@ -150,14 +151,17 @@ function groupedBy(
   }))
 }
 
-function answerIn(body: unknown): { rows: readonly Flat[]; n: number | null } | null {
+type Answered = { rows: readonly Flat[]; n: number | null; read: { at?: string } }
+
+function answerIn(body: unknown): Answered | null {
   if (typeof body !== "object" || body === null || !("rows" in body)) return null
   const rows = (body as { rows: unknown }).rows
   if (!Array.isArray(rows)) return null
   for (const one of rows) if (typeof one !== "object" || one === null) return null
   const said = (body as { n?: unknown }).n
   const counted = typeof said === "number" && Number.isInteger(said) && said >= 0 ? said : null
-  return { rows: rows as readonly Flat[], n: counted }
+  const at = (body as { at?: unknown }).at
+  return { rows: rows as readonly Flat[], n: counted, read: typeof at === "string" ? { at } : {} }
 }
 
 function projected(rows: readonly Flat[], keys: readonly string[] | undefined): readonly Flat[] {
@@ -226,6 +230,7 @@ export async function askComposed(
         faults: [],
         omitted: [],
         unfound: [],
+        ...said.read,
       },
     }
   }
@@ -254,6 +259,7 @@ export async function askComposed(
       faults: [],
       omitted: [],
       unfound: [],
+      ...said.read,
     },
   }
 }

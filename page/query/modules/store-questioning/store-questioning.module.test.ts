@@ -242,3 +242,27 @@ test("a sum under a grouping is taken for each group", async () => {
     { kind: "b", n: 1, value: 5 },
   ])
 })
+
+function answeringAt(rows: readonly Record<string, unknown>[], at: string): Fetcher {
+  return async () =>
+    new Response(JSON.stringify({ rows, n: rows.length, at }), {
+      headers: { "content-type": "application/json" },
+    })
+}
+
+test("the commit the store read the rows at is answered beside them", async () => {
+  const asked = await askComposed({ "page-type": "thing" }, answeringAt([{ a: 1 }], "r1"), noNap)
+  expect(asked.ok && asked.answer.at).toBe("r1")
+})
+
+test("a query run here answers the commit the store read the rows at", async () => {
+  const query: ComposedQuery = { "page-type": "thing", "count-by": ["kind"] }
+  const asked = await askComposed(query, answeringAt([{ kind: "a" }], "r2"), noNap)
+  expect(asked.ok && asked.answer.at).toBe("r2")
+})
+
+test("a store answering no commit has none answered", async () => {
+  const { fetcher } = recording([{ slug: "one" }])
+  const asked = await askComposed({ "page-type": "thing" }, fetcher, noNap)
+  expect(asked.ok && "at" in asked.answer).toBe(false)
+})

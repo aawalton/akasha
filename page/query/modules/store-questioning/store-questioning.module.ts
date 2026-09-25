@@ -51,6 +51,14 @@ export const storeQuestioning = {
       statement: "A row is answered under `values` though the store answers the row flat.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The commit the store read the rows at is answered as `at` beside them.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A store answering no commit has none answered.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No answered value is parsed again as JSON.",
     },
