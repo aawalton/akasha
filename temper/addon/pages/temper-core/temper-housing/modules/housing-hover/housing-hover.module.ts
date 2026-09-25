@@ -10,7 +10,11 @@ export const housingHover = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A row under the pointer is marked by a backdrop colour rather than by changed text.",
+        "A row under the pointer is marked by a backdrop color rather than by changed text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That color is the light window-rows gives a row pointed at.",
     },
   ],
 } as const satisfies Module
