@@ -4,7 +4,8 @@ export const deepseek = {
   id: "01a0a21a-3c53-76c5-b51f-a92017d82a1d",
   type: "page-type/model-provider",
   slug: "deepseek",
-  definition: "the provider that serves DeepSeek's models",
+  definition: "the external service that runs the models DeepSeek makes",
+  spellings: [{ partOfSpeech: "part-of-speech/proper-noun", spelling: "DeepSeek" }],
   apiBase: "https://api.deepseek.com/anthropic",
   providerModel: "deepseek-flash",
   decisions: [
