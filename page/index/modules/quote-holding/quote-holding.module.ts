@@ -32,10 +32,7 @@ export const quoteHolding = {
       decisionKind: "decision-kind/departure",
       statement: "A face that will not answer holds no words kept that way rather than refusing.",
     },
-    {
-      decisionKind: "decision-kind/gap",
-      statement: "Words a page states inside its own file are answered for nowhere here.",
-    },
+
     {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here reads a body.",

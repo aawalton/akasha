@@ -30,7 +30,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/storage/git-repo/repo/pages/akasha-repo.repo.ts","id":"01a06975-df76-7185-a7d4-ff026aece45c"}
 {"propertySlug":"decision-kind","path":"page/build-folder-property/build-folder-property.page-type.ts","id":"01a081cd-5b5f-731e-95ed-0ea5ee3b352b"}
 {"propertySlug":"decision-kind","path":"page/index/modules/path-claiming/path-claiming.module.ts","id":"01a08205-e6f0-73c3-9c32-f05a518dd3f3"}
-{"propertySlug":"decision-kind","path":"page/index/modules/quote-holding/quote-holding.module.ts","id":"01a0a582-6d44-7000-9ebd-3e0bec1aaca3"}
 {"propertySlug":"decision-kind","path":"page/index/properties/index-tracked.boolean-property.ts","id":"01a09b79-526b-785f-9360-742045f67544"}
 {"propertySlug":"decision-kind","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}
 {"propertySlug":"decision-kind","path":"page/nav/nav.page-type.ts","id":"01a0680e-5e00-7007-a253-4c7d9b1a5108"}
