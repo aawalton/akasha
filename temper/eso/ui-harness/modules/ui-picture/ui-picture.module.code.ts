@@ -11,14 +11,12 @@ import type {
   UiColor,
   UiControl,
 } from "akasha/temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts"
+import {
+  type Shown,
+  shownIn,
+  type UiRect,
+} from "akasha/temper/eso/ui-harness/modules/ui-shown/ui-shown.module.code.ts"
 import { chromium } from "playwright-core"
-
-type UiRect = {
-  readonly left: number
-  readonly top: number
-  readonly width: number
-  readonly height: number
-}
 
 const DRAWN = engineConstantsTable().numbers
 
@@ -29,8 +27,6 @@ const CT_TEXTURE = DRAWN.CT_TEXTURE
 const CT_BUTTON = DRAWN.CT_BUTTON
 
 const CT_BACKDROP = DRAWN.CT_BACKDROP
-
-const CT_SCROLL = DRAWN.CT_SCROLL
 
 const SCREEN_WIDTH = 1920
 
@@ -226,44 +222,6 @@ function fontOf(font: string | undefined, options: UiPictureOptions): FontFace {
     size: Number.isFinite(size) && size > 0 ? size : DEFAULT_FONT_SIZE,
     shadow: shadows.join(", "),
   }
-}
-
-type Shown = UiControl & { readonly clip?: UiRect }
-
-function clipUnder(one: UiControl, clip: UiRect | undefined): UiRect | undefined {
-  if (one.controlType !== CT_SCROLL) return clip
-  const own = { left: one.left, top: one.top, width: one.width, height: one.height }
-  if (clip === undefined) return own
-  const left = Math.max(own.left, clip.left)
-  const top = Math.max(own.top, clip.top)
-  const right = Math.min(own.left + own.width, clip.left + clip.width)
-  const bottom = Math.min(own.top + own.height, clip.top + clip.height)
-  return { left, top, width: Math.max(0, right - left), height: Math.max(0, bottom - top) }
-}
-
-function outside(one: UiControl, clip: UiRect): boolean {
-  return (
-    one.left >= clip.left + clip.width ||
-    one.top >= clip.top + clip.height ||
-    one.left + one.width <= clip.left ||
-    one.top + one.height <= clip.top
-  )
-}
-
-function shownIn(root: UiControl): readonly Shown[] {
-  const shown: Shown[] = []
-  function walk(one: UiControl, top: boolean, above: number, clip?: UiRect): undefined {
-    if (!top && one.hidden) return undefined
-    const alpha = one.alpha * above
-    if (alpha <= 0) return undefined
-    if (clip === undefined) shown.push({ ...one, alpha })
-    else if (!outside(one, clip)) shown.push({ ...one, alpha, clip })
-    const under = clipUnder(one, clip)
-    for (const child of one.children) walk(child, false, alpha, under)
-    return undefined
-  }
-  walk(root, true, 1)
-  return shown
 }
 
 function clipCss(one: Shown): string {

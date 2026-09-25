@@ -20,23 +20,7 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A hidden control and everything under that control are left out.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "The game fades a control by its own alpha times that of every control above it.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A control faded to nothing and everything under it are left out.",
-    },
-    {
-      decisionKind: "decision-kind/constraint",
-      statement: "The game cuts what a scroll area holds at the edges of that area.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A control lying wholly beyond the scroll areas holding it is left out.",
+      statement: "A picture draws the controls `ui-shown` gives, in the order it gives them.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -36,6 +36,10 @@ export const uiControlSnapshot = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A snapshot carries each control's own tier, layer and level.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A font a control names is carried as that font's face, size and effect.",
     },
     {

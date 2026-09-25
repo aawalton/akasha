@@ -5298,6 +5298,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-inheritance/ui-inheritance.module.ts","id":"01a0d3e7-657e-7545-90cc-7aa7f90b052a"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-kerning/ui-kerning.module.ts","id":"01a0d972-8c45-7a44-a4a2-e00cd5f65846"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-picture/ui-picture.module.ts","id":"01a0c9dd-cc82-7f73-b0c4-69cb07323425"}
+{"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-shown/ui-shown.module.ts","id":"01a0da0a-b61c-700e-b41b-a5009238b89e"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-staging/ui-staging.module.ts","id":"01a0ca65-211f-7d61-a848-1af03a21431c"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-timelines/ui-timelines.module.ts","id":"01a0d40e-43f3-7357-ba6e-fa8bcbec4c7e"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/modules/ui-virtuals-lua/ui-virtuals-lua.module.ts","id":"01a0d97d-36d3-7f75-ae72-44c6476e4633"}

@@ -183,6 +183,9 @@ export type UiControl = {
   readonly width: number
   readonly height: number
   readonly alpha: number
+  readonly drawTier?: number
+  readonly drawLayer?: number
+  readonly drawLevel?: number
   readonly text?: string
   readonly font?: string
   readonly alignH?: number
@@ -213,6 +216,9 @@ const controlShape: z.ZodType<UiControl> = z.lazy(() =>
     width: z.number(),
     height: z.number(),
     alpha: z.number(),
+    drawTier: z.number().optional(),
+    drawLayer: z.number().optional(),
+    drawLevel: z.number().optional(),
     text: z.string().optional(),
     font: z.string().optional(),
     alignH: z.number().optional(),
