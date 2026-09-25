@@ -6,4 +6,10 @@ export const definer = {
   slug: "definer",
   definition: "an agent settling with Alan what a domain is and becomes",
   onCall: false,
+  decisions: [
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A definer settles every domain it is handed.",
+    },
+  ],
 } as const satisfies Role
