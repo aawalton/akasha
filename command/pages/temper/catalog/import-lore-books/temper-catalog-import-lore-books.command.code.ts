@@ -16,6 +16,7 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { identifiedOver } from "akasha/command/modules/value-minting/value-minting.change-generator.code.ts"
 import {
   type Existing,
   type Plan,
@@ -98,14 +99,14 @@ export function withoutIds(text: string): string {
   return text.replace(MINTED, "{")
 }
 
+export function rewritten(held: string | null, one: Put): boolean {
+  if (held === null) return true
+  if (!one.path.endsWith(JSONL)) return held !== one.content
+  return withoutIds(held) !== withoutIds(one.content) || identifiedOver(held) !== null
+}
+
 function changedIn(root: string, puts: readonly Put[]): readonly Put[] {
-  return puts.filter((one) => {
-    const held = heldAt(root, one.path)
-    if (held === null) return true
-    return one.path.endsWith(JSONL)
-      ? withoutIds(held) !== withoutIds(one.content)
-      : held !== one.content
-  })
+  return puts.filter((one) => rewritten(heldAt(root, one.path), one))
 }
 
 type Composed = { readonly puts: readonly Put[] } | { readonly refused: string }

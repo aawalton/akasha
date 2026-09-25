@@ -23,6 +23,10 @@ export const temperCatalogImportLoreBooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file of rows any of which states no `id` is written again to be given ids.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A collection page already there keeps what it holds that this does not write.",
     },
     {

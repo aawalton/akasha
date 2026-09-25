@@ -1,13 +1,27 @@
 import { expect, test } from "bun:test"
 import {
   messageFor,
+  rewritten,
   taken,
   withoutIds,
 } from "akasha/command/pages/temper/catalog/import-lore-books/temper-catalog-import-lore-books.command.code.ts"
 
+const HELD_ROW = '{"id":"01a0d5e2-ca80-76d7-b046-d2ae292d450f","mapId":1}\n'
+
+const BARE_ROW = '{"mapId":1}\n'
+
+const POSITIONS = "a/one.temper-lore-book.positions.jsonl"
+
 test("a row differing only by the id minted for it is the same row", () => {
-  const held = '{"id":"01a0d5e2-ca80-76d7-b046-d2ae292d450f","mapId":1}\n'
-  expect(withoutIds(held)).toBe(withoutIds('{"mapId":1}\n'))
+  expect(withoutIds(HELD_ROW)).toBe(withoutIds(BARE_ROW))
+})
+
+test("rows held with their ids and composed the same again are not written again", () => {
+  expect(rewritten(HELD_ROW, { path: POSITIONS, content: BARE_ROW })).toBe(false)
+})
+
+test("rows held with no id are written again so they are given their ids", () => {
+  expect(rewritten(BARE_ROW, { path: POSITIONS, content: BARE_ROW })).toBe(true)
 })
 
 const CALLED = "akasha temper catalog import-lore-books"
