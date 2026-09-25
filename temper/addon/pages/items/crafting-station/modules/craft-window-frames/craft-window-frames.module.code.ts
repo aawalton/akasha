@@ -20,6 +20,10 @@ const RUNE_TITLE = "Enchanting"
 
 const RUNE_MARGIN = 11
 
+const COOK_TITLE = "Provisioning"
+
+const COOK_MARGIN = 10
+
 function frameCraftWindow(
   this: void,
   window: TopLevelWindow,
@@ -62,6 +66,10 @@ export function frameCraftWindows(this: void): undefined {
     RUNE_MARGIN,
     RUNE_TITLE
   )
+  const cookTop = GetControl(TemperItemsCrafting_Cook, "TopSection")
+  if (cookTop !== undefined) {
+    frameStationWindow(TemperItemsCrafting_Cook, cookTop, COOK_MARGIN, COOK_TITLE)
+  }
   frameCraftWindow(TemperItemsCrafting_Style_Window, TemperItemsCrafting_Style, STYLE_TITLE, () =>
     closeStyle()
   )
