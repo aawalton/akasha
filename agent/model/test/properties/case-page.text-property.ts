@@ -5,7 +5,7 @@ export const casePage = {
   type: "page-type/text-property",
   slug: "case-page",
   propertySlug: "page",
-  definition: "the name of a case's source page",
+  definition: "the name of a case's page",
   maxLength: 100,
   nameFormat: "name-format/lower-kebab-case",
   decisions: [
