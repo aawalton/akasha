@@ -20,6 +20,7 @@ import type {
   PointsData,
   QuestSkyshardRow,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
+import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
@@ -30,7 +31,9 @@ export function updateGuiTable(this: void, sVarPtsData: PointsData): undefined {
   const tots = requirePtsTots()
   const total = GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_TOTAL)
 
-  const unassigned = sVarPtsData.Unassigned !== undefined ? tostring(sVarPtsData.Unassigned) : "?"
+  const unassigned =
+    sVarPtsData.Unassigned !== undefined ? formatCount(sVarPtsData.Unassigned) : "?"
+  const outOf = (got: number, of: number): string => `${formatCount(got)}/${formatCount(of)}`
 
   const gsp: GeneralRow[] = [
     [
@@ -121,14 +124,14 @@ export function updateGuiTable(this: void, sVarPtsData: PointsData): undefined {
 
   STATE.GUI = {
     GSP: gsp,
-    GSP_T: `${total}: ${sVarPtsData.GenTot}/${tots.GenTot}`,
+    GSP_T: `${total}: ${outOf(sVarPtsData.GenTot, tots.GenTot)}`,
     SQS: sqs,
-    SQS_SL_T: `${sVarPtsData.ZQTot}/${tots.ZQTot}`,
-    SQS_SS_T: `${sVarPtsData.SSTot}/${tots.SSTot}`,
+    SQS_SL_T: outOf(sVarPtsData.ZQTot, tots.ZQTot),
+    SQS_SS_T: outOf(sVarPtsData.SSTot, tots.SSTot),
     GDQ: gdq,
-    GDQ_T: `${total}: ${sVarPtsData.GDTot}/${tots.GDTot}`,
+    GDQ_T: `${total}: ${outOf(sVarPtsData.GDTot, tots.GDTot)}`,
     PDGBE: pdgbe,
-    PDGBE_T: `${total}: ${sVarPtsData.PDTot}/${tots.PDTot}`,
-    CharacterTot: `${GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_CHAR_TOTAL)}: ${sVarPtsData.Tot}/${tots.Tot} (${unassigned} ${GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_UNASSIGNED)})`,
+    PDGBE_T: `${total}: ${outOf(sVarPtsData.PDTot, tots.PDTot)}`,
+    CharacterTot: `${GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_CHAR_TOTAL)}: ${outOf(sVarPtsData.Tot, tots.Tot)} (${unassigned} ${GetString(SI_TEMPER_SKILLPOINTFINDER_GUI_UNASSIGNED)})`,
   }
 }

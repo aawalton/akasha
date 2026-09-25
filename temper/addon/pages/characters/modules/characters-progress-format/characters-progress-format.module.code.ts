@@ -1,9 +1,11 @@
+import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
+
 export function progressSuffix(current: number, total: number): string {
-  return `(${current}/${total})`
+  return `(${formatCount(current)}/${formatCount(total)})`
 }
 
 export function countSuffix(count: number): string {
-  return `(${count})`
+  return `(${formatCount(count)})`
 }
 
 export function formatProgressCount(label: string, current: number, total: number): string {

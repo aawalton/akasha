@@ -19,6 +19,7 @@ import {
   styleText,
   type TextRole,
 } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/temper/eso/type/eso-addon-list/eso-addon-list.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-fonts/eso-fonts.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -66,7 +67,7 @@ function formatProgress(
   } else {
     color = colors.progress ?? colors.need
   }
-  return `${color}${current}/${total}|r`
+  return `${color}${formatCount(current)}/${formatCount(total)}|r`
 }
 
 function updateListData(this: void, control: Control, data: ListLine[]): undefined {

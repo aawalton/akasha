@@ -22,6 +22,7 @@ import {
   isSelectedCompanionActive,
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
@@ -164,11 +165,11 @@ export function refreshCompanionPanel(): undefined {
     state.nameValue.SetText(companionName)
 
     const [level, currentXp] = GetActiveCompanionLevelInfo()
-    state.levelValue.SetText(tostring(level))
+    state.levelValue.SetText(formatCount(level))
 
     const maxXp = GetNumExperiencePointsInCompanionLevel(level)
     if (maxXp !== undefined && maxXp > 0) {
-      state.xpValue.SetText(`${ZO_CommaDelimitNumber(currentXp)} / ${ZO_CommaDelimitNumber(maxXp)}`)
+      state.xpValue.SetText(`${formatCount(currentXp)} / ${formatCount(maxXp)}`)
     } else {
       state.xpValue.SetText("Max Level")
     }
