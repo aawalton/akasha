@@ -63,10 +63,6 @@ export const requiredReading = {
         "The reading a seat must do is worked out from the statements on its page rather than listed.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "No reading an agent needs falls outside the warrants.",
-    },
-    {
       decisionKind: "decision-kind/constraint",
       statement: "The tool definitions have context nobody here controls.",
     },
