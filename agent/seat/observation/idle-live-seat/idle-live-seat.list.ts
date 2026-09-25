@@ -4,7 +4,7 @@ export const idleLiveSeat = {
   id: "01a06862-a02e-7ce3-acaa-c4e902ab9c81",
   type: "page-type/list",
   slug: "idle-live-seat",
-  definition: "a seat whose process is live and whose work has stopped",
+  definition: "a seat with a process that does no work",
   members: [
     {
       memberName: "Task never ending",
