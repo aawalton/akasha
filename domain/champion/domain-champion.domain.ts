@@ -7,7 +7,7 @@ export const domainChampion = {
   definition: "a persona that champions a domain",
   decisions: [
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Every domain has a champion.",
     },
     {
