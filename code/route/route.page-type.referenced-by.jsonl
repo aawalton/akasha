@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/habit-stoplights/habit-stoplights.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/safety-level/safety-level.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/stoplights-activity/stoplights-activity.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"alan/web/routes/surplus/surplus.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"change/modules/page-knowing/page-knowing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.ts","path":"product/smilingjenny/web/routes/jenny-categorization/jenny-categorization.route.code.ts","typed":false,"deferred":false}
@@ -107,6 +108,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/pages-ready/pages-ready.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/readout-relay/readout-relay.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/safety-level/safety-level.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/stoplights-activity/stoplights-activity.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/surplus/surplus.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/wallpaper/wallpaper.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/widget-tap/widget-tap.route.ts","typed":true,"deferred":false}

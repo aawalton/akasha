@@ -5,5 +5,6 @@
 {"propertySlug":"import","fileName":"readout-guarding.module.code.ts","path":"alan/web/routes/habit-stoplights/habit-stoplights.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-guarding.module.code.ts","path":"alan/web/routes/inbox-stoplights/inbox-stoplights.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-guarding.module.code.ts","path":"alan/web/routes/safety-level/safety-level.route.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"readout-guarding.module.code.ts","path":"alan/web/routes/stoplights-activity/stoplights-activity.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"readout-guarding.module.code.ts","path":"alan/web/routes/surplus/surplus.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/web/alan-web.router-app.ts","id":"01a05bb1-0c04-751f-8f51-baadbd134cf6"}

@@ -22,6 +22,7 @@ import {
 } from "akasha/alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.code.ts"
 import { module } from "akasha/code/module/module.page-type.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import { LIVE_ACTIVITY } from "akasha/person/modules/device-token-registration/device-token-registration.module.code.ts"
 
 const ACTIVITY_LOG = "stoplights-activity:"
@@ -34,14 +35,18 @@ const NO_NAME = ""
 
 const SERVED_BY = namedAs(module.slug, stoplightsActivityPushing.slug, null)
 
-async function groupNow(slug: string): Promise<ActivityGroup> {
-  const served = await servedInGroup(slug, undefined, onTheWorkstation)
+async function groupNow(slug: string, fetcher?: Fetcher): Promise<ActivityGroup> {
+  const served = await servedInGroup(slug, undefined, fetcher)
   return { slug, rows: served.stoplights, wireKeyName: served.wireKeyName ?? NO_NAME }
 }
 
-async function contentNow(takenAt: string): Promise<StoplightsContent> {
-  const slugs = await groupsServedBy(SERVED_BY, onTheWorkstation)
-  return contentOf(await Promise.all(slugs.map(groupNow)), takenAt)
+export async function contentServedBy(
+  servedBy: string,
+  takenAt: string,
+  fetcher?: Fetcher
+): Promise<StoplightsContent> {
+  const slugs = await groupsServedBy(servedBy, fetcher)
+  return contentOf(await Promise.all(slugs.map((slug) => groupNow(slug, fetcher))), takenAt)
 }
 
 export function activityPayload(content: StoplightsContent, atSeconds: number): ApnsPayload {
@@ -66,7 +71,7 @@ export async function pushStoplightsActivity(
   const tokens = await listActivityTokens(args.userId)
   if (tokens.length === 0) return
 
-  const content = await contentNow(new Date().toISOString())
+  const content = await contentServedBy(SERVED_BY, new Date().toISOString(), onTheWorkstation)
   const said = readingSaid(content)
   if (said === args.state.pushed) return
 

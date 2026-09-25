@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"stoplights-activity-pushing.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-notifier-tick/push-notifier-tick.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"stoplights-activity-pushing.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"stoplights-activity-pushing.module.code.ts","path":"alan/web/routes/stoplights-activity/stoplights-activity.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"stoplights-activity-pushing.module.ts","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"alan/harness/alanwalton-ios-notification/alanwalton-ios-notification.domain.ts","id":"01a0675b-16d5-73ec-b556-2248facf0650"}
 {"propertySlug":"served-by","path":"alan/harness/readout/group/pages/attributes/attributes.readout-group.ts","id":"01a06838-93eb-7a05-b58a-95b892c0febf"}

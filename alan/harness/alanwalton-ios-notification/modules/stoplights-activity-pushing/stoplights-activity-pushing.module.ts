@@ -22,6 +22,10 @@ export const stoplightsActivityPushing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The reading of the groups a page names is shaped here for a route to answer too.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The pages are reached at the loopback this workstation's own service binds.",
     },
     {

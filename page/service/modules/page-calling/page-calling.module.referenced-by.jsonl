@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"agent/subagent/modules/pages-taking/subagent-pages-taking.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/push-device-tokens/push-device-tokens.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/alanwalton-ios-notification/modules/stoplights-activity-pushing/stoplights-activity-pushing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/better-auth-rr/modules/app-handover-session/app-handover-session.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-calling.module.code.ts","path":"alan/harness/better-auth-rr/modules/sign-in-reaching/sign-in-reaching.module.code.ts","typed":false,"deferred":false}
