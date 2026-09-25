@@ -89,8 +89,6 @@ export function configureContentPersistence(port: ContentPagePersistencePort | n
 }
 
 export interface ConfigurePagesStoreAuthArgs {
-  readonly supabaseUrl?: string
-  readonly supabaseAnonKey?: string
   readonly jwt: string | null
   readonly owner?: string | null
   readonly refreshAuth?: () => undefined | Promise<void>
