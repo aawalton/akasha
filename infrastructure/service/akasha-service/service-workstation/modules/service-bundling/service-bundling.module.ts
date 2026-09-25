@@ -183,7 +183,7 @@ export const serviceBundling = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A deploy builds the bundle of every service named here before any unit is written.",
+        "A deploy builds the bundle of each service here whose closure changed, before any unit is written.",
     },
     {
       decisionKind: "decision-kind/departure",

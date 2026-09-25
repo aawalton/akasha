@@ -9,6 +9,12 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
+import { changedBetween } from "akasha/command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts"
+import {
+  closuresOf,
+  readingAt,
+} from "akasha/command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts"
+import { WORKSTATION_SERVICE } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
 import {
   commandOf,
   pathOf,
@@ -21,7 +27,7 @@ import {
   bundledTeller,
   checkedOut,
   launchedCommitIn,
-  launchedFromBundle,
+  type Made,
   saidOfUnbuilt,
   saidOfUnchecked,
   startedFromBundle,
@@ -150,28 +156,65 @@ export type Bundled =
   | { readonly bundles: ReadonlyMap<string, string>; readonly said: readonly string[] }
   | Refused
 
+function changedOrNull(root: string, was: string, commit: string): readonly string[] | null {
+  try {
+    return changedBetween(root, was, commit)
+  } catch {
+    return null
+  }
+}
+
+function sinceAt(root: string, commit: string): Since {
+  const held = new Map<string, readonly string[] | null>()
+  return (was) => {
+    if (!held.has(was)) held.set(was, changedOrNull(root, was, commit))
+    return held.get(was) ?? null
+  }
+}
+
+function closuresAt(
+  root: string,
+  commit: string,
+  teller: string
+): ReadonlyMap<string, ReadonlySet<string>> {
+  const tellers = readingAt(root, commit).over([teller])
+  return new Map([[TELLER_STEM, tellers], ...closuresOf(root, WORKSTATION_SERVICE, commit)])
+}
+
+async function bundledAt(
+  root: string,
+  slug: string,
+  home: string,
+  commit: string,
+  tree: string,
+  teller: string
+): Promise<Made> {
+  if (slug === TELLER_STEM) return await bundledTeller(root, join(root, teller), home, commit, tree)
+  return await bundledFor(root, slug, home, commit, tree)
+}
+
 async function bundlesBuilt(
   root: string,
   home: string,
   commit: string,
   leftAlone: ReadonlySet<string> = new Set()
 ): Promise<Bundled> {
-  const bundles = new Map<string, string>()
-  const said: string[] = []
-  const checked = checkedOut(root, commit)
-  if ("refused" in checked) return { refused: saidOfUnchecked(commit, checked.refused) }
   const run = runOf(root, TELLER)
   if ("refused" in run) return { refused: saidOfUnbuilt(TELLER_STEM, run.refused) }
-  const teller = await bundledTeller(root, join(root, run.path), home, commit, checked.tree)
-  if (!("built" in teller)) {
-    const why = "unnamed" in teller ? teller.unnamed : teller.refused
-    return { refused: saidOfUnbuilt(TELLER_STEM, why) }
-  }
-  bundles.set(TELLER_STEM, teller.built.at)
-  said.push(`bundled\t${TELLER_STEM}\t${teller.built.at}`)
-  for (const slug of launchedFromBundle(root)) {
+  const sorted = bundlingAmong(closuresAt(root, commit, run.path), home, sinceAt(root, commit))
+  const bundles = new Map<string, string>()
+  const said: string[] = []
+  for (const [slug, at] of sorted.kept) {
     if (leftAlone.has(slug)) continue
-    const made = await bundledFor(root, slug, home, commit, checked.tree)
+    bundles.set(slug, at)
+    said.push(`kept\t${slug}\t${at}`)
+  }
+  const wanted = [...sorted.again].filter((slug) => !leftAlone.has(slug))
+  if (wanted.length === 0) return { bundles, said }
+  const checked = checkedOut(root, commit)
+  if ("refused" in checked) return { refused: saidOfUnchecked(commit, checked.refused) }
+  for (const slug of wanted) {
+    const made = await bundledAt(root, slug, home, commit, checked.tree, run.path)
     if (!("built" in made)) {
       return { refused: saidOfUnbuilt(slug, "unnamed" in made ? made.unnamed : made.refused) }
     }

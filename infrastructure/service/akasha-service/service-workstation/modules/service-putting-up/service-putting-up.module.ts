@@ -19,8 +19,33 @@ export const servicePuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every bundle this call builds is built before the plan is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "The bundle of every service that starts from one is built before the plan is read.",
+        "A service is bundled only where a file in its closure changed since its running bundle's commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other service keeps its running bundle, and its unit goes on naming it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service with no running bundle, or whose bundle file is missing, is bundled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A service whose running commit git cannot compare with the deploy's commit is bundled.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A service's closure is the one the deploy's file closure reads for its kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Where no bundle is to be built, no commit is checked out.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -50,6 +75,10 @@ export const servicePuttingUp = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The answer names each bundle built and the path that bundle was written to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The answer names each bundle kept and the path that bundle sits at.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -100,7 +129,11 @@ export const servicePuttingUp = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The teller's bundle is built by this call, before any unit is written.",
+      statement: "The teller is bundled or kept as a service is, before any unit is written.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The teller's closure is what the teller's own code imports.",
     },
     {
       decisionKind: "decision-kind/departure",
