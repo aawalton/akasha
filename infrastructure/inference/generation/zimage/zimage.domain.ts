@@ -4,7 +4,7 @@ export const zimage = {
   id: "01a06815-9efd-7032-89aa-a2f0ea5e1881",
   type: "page-type/domain",
   slug: "zimage",
-  definition: "images made from a prompt by the Z-Image diffusion model",
+  definition: "how code makes an image from text",
   parts: [
     "container-recipe/zimage-image",
     "module/zimage-explore-batch",
