@@ -20,7 +20,7 @@ export interface FilterEditorOption {
   readonly label: string
 }
 
-export type FilterEditorSpec =
+type FilterEditorSpec =
   | { readonly kind: "multiselect"; readonly options: readonly FilterEditorOption[] }
   | {
       readonly kind: "range"
@@ -63,7 +63,7 @@ export type ServerFilterField =
 
 export type ServerRangeField = "price" | "level"
 
-export interface TradingHouseSearchRequest {
+interface TradingHouseSearchRequest {
   addExactTerms: (field: ServerFilterField, values: readonly number[]) => void
   setRange: (field: ServerRangeField, min: number, max: number) => void
 }
@@ -104,7 +104,7 @@ export function createSearchRequestCollector(): SearchRequestCollector {
   }
 }
 
-export interface TemperFilter<V extends FilterValue> {
+interface TemperFilter<V extends FilterValue> {
   readonly id: FilterId
   readonly label: string
   readonly group: FilterGroup

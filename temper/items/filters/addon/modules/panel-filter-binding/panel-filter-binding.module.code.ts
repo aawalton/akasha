@@ -10,7 +10,7 @@ import type {
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 import "akasha/temper/addon/pages/items/crafting-station/writ-mark-decl-tracker/writ-mark-decl-tracker.type-declaration.d.ts"
 
-export type FactsSource = (this: void, slotData: InventoryRowSlotData) => ItemFacts | undefined
+type FactsSource = (this: void, slotData: InventoryRowSlotData) => ItemFacts | undefined
 
 export interface FilterController {
   setFilter: (id: FilterId, value: FilterValue) => void
@@ -20,11 +20,11 @@ export interface FilterController {
   refresh: () => void
 }
 
-export interface InventoryFilterController extends FilterController {
+interface InventoryFilterController extends FilterController {
   reinstallSurface: (inventoryType: number) => void
 }
 
-export interface FilterBindingConfig {
+interface FilterBindingConfig {
   readonly index: ReadonlyMap<FilterId, AnyTemperFilter>
   readonly factsSource: FactsSource
   readonly inventoryTypes: readonly number[]

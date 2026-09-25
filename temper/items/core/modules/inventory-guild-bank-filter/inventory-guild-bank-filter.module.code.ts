@@ -11,7 +11,7 @@ export interface ExcludedLocation {
   readonly reason: ExclusionReason
 }
 
-export interface ScopedInventory {
+interface ScopedInventory {
   readonly inventory: InventoryDatabase
   readonly excluded: readonly ExcludedLocation[]
 }

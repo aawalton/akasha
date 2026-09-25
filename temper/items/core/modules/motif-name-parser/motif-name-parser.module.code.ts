@@ -1,4 +1,4 @@
-export type MotifBookId = {
+type MotifBookId = {
   readonly styleId: number
   readonly chapterId: number | null
 }

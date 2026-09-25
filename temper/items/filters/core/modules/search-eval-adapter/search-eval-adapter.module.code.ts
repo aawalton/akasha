@@ -6,7 +6,7 @@ import type {
 } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-facts/item-facts.module.code.ts"
 
-export type PureFactsChecker = (
+type PureFactsChecker = (
   rule: CompiledOrderedRule,
   facts: ItemFacts,
   ctx: EvalContext

@@ -1,4 +1,4 @@
-export interface SignatureMatchTarget {
+interface SignatureMatchTarget {
   equipType: number
   traitType: number
   quality: number
@@ -6,7 +6,7 @@ export interface SignatureMatchTarget {
   weaponType?: number
 }
 
-export interface MatchableItem {
+interface MatchableItem {
   equipType?: number
   traitType?: number
   quality?: number

@@ -1,6 +1,6 @@
 import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 
-export interface BuyRuleEvaluation {
+interface BuyRuleEvaluation {
   rule: BuyRule
   currentTotal: number
   shortfall: number

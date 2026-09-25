@@ -71,12 +71,12 @@ const GROUP_LABELS: Record<FilterGroup, string> = {
   text: "Text",
 }
 
-export interface SurfaceAnchor {
+interface SurfaceAnchor {
   readonly isActive: (this: void) => boolean
   readonly anchorTargets: readonly string[]
 }
 
-export interface FilterBarConfig {
+interface FilterBarConfig {
   controller: FilterController
   loadPosition: (this: void) => WindowPosition | undefined
   savePosition: (this: void, position: WindowPosition) => undefined

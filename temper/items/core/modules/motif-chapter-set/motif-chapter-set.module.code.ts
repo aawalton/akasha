@@ -6,7 +6,7 @@ const CRAFTING_MOTIFS_CATEGORY_INDEX = 2
 const MASTER_ONLY_STYLE_IDS: readonly number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 29]
 const FULL_CHAPTER_SET: readonly number[] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
 
-export interface LoreLibraryCoords {
+interface LoreLibraryCoords {
   readonly collectionIndex: number
   readonly bookIndex: number
 }
