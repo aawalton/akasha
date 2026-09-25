@@ -63,6 +63,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-claude-config/supervisor-claude-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-usage-snapshot/supervisor-usage-snapshot.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/seat-work-restart/modules/supervisor-limit-resume/supervisor-limit-resume.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/service-workstations/sweep-subagent-pages/sweep-subagent-pages.service-workstation.running.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts","typed":false,"deferred":false}

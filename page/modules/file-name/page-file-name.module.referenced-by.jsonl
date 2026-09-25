@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/observation/seat-turn/modules/turn-refreshing/turn-refreshing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/supervisor/seat-agent-mcp/modules/mcp-registry/mcp-registry.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/supervisor/seat-agent-start/modules/supervisor-agent-settings/supervisor-agent-settings.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/seat/supervisor/supervisor-timer/modules/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/settings/modules/harness-settings-reading/harness-settings-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-file-name.module.code.ts","path":"agent/settings/pages/mcp-servers/mcp-servers.agent-settings.telling.code.ts","typed":false,"deferred":false}

@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"supervisor-action.page-type.ts","path":"agent/seat/supervisor/supervisor-action/modules/supervisor-poll-agent-action/supervisor-poll-agent-action.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"supervisor-action.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/pages/restart-now.supervisor-action.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"supervisor-action.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/pages/restart.supervisor-action.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"supervisor-action.page-type.types.ts","path":"agent/seat/supervisor/supervisor-action/pages/swap-gateway.supervisor-action.ts","typed":true,"deferred":false}

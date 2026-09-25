@@ -1,9 +1,16 @@
 import { LOG } from "akasha/agent/seat/supervisor/modules/supervisor-config/supervisor-config.module.code.ts"
 import { controlOf } from "akasha/agent/seat/supervisor/supervisor-action/modules/seat-control/seat-control.module.code.ts"
 import type { AgentActionEvent } from "akasha/agent/seat/supervisor/supervisor-action/modules/supervisor-agent-action-types/supervisor-agent-action-types.module.code.ts"
+import { restart } from "akasha/agent/seat/supervisor/supervisor-action/pages/restart.supervisor-action.ts"
+import { restartNow } from "akasha/agent/seat/supervisor/supervisor-action/pages/restart-now.supervisor-action.ts"
+import { swapGateway } from "akasha/agent/seat/supervisor/supervisor-action/pages/swap-gateway.supervisor-action.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
-const ACTIONS: readonly AgentActionEvent["action"][] = ["restart", "restart-now", "swap-gateway"]
+export const ACTIONS: readonly AgentActionEvent["action"][] = [
+  restart.slug,
+  restartNow.slug,
+  swapGateway.slug,
+]
 
 function actionOf(value: unknown): AgentActionEvent["action"] | null {
   if (typeof value !== "string") return null

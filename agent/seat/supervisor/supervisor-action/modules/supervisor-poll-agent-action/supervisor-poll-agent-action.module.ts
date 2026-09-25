@@ -6,14 +6,16 @@ export const supervisorPollAgentAction = {
   slug: "supervisor-poll-agent-action",
   definition: "reading the action a seat has been asked to take",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The actions a seat can be asked to take are spelled here.",
+      statement:
+        "The actions a seat can be asked to take are read from the supervisor-action pages.",
     },
     {
-      decisionKind: "decision-kind/gap",
-      statement: "Those actions are read from the pages of the supervisor-action page type.",
+      decisionKind: "decision-kind/departure",
+      statement: "Each action is named by the slug of the page imported for it.",
     },
   ],
 } as const satisfies Module
