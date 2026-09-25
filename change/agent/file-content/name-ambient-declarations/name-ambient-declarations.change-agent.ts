@@ -100,7 +100,7 @@ export const nameAmbientDeclarations = {
       statement: "A name no declaration declares is left alone.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement:
         "A declaration a file reaches through a specifier or `import.meta` is named by hand.",
     },
