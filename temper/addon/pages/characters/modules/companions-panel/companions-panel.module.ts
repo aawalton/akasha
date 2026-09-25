@@ -11,5 +11,10 @@ export const companionsPanel = {
       decisionKind: "decision-kind/departure",
       statement: "Live rows are hidden while no companion is summoned.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "With no companion chosen, or none captured, the panel says so through window-data-state.",
+    },
   ],
 } as const satisfies Module

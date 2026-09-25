@@ -22,18 +22,23 @@ import {
   isSelectedCompanionActive,
 } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
+import {
+  buildDataState,
+  type DataStateView,
+} from "akasha/temper/window/modules/window-data-state/window-data-state.module.code.ts"
 import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
-import { spaceOf } from "akasha/temper/window/modules/window-spacing/window-spacing.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 
 const ROW_HEIGHT = 28
 const ROW_SPACING = 4
 const KEY_WIDTH = 120
+const WINDOW_LEVEL = 1
+const CHOOSE_COMPANION = "Choose a companion above."
 
 interface CompanionPanelState {
   panel: Control
-  noCompanionLabel: LabelControl
+  emptyState: DataStateView
   dataContainer: Control
   nameValue: LabelControl
   levelKeyLabel: LabelControl
@@ -79,13 +84,10 @@ export function createCompanionPanel(parent: Control): Control {
   createCompanionDropdown(panel)
   const contentTop = DROPDOWN_HEIGHT + DROPDOWN_BOTTOM_MARGIN
 
-  const noCompanionLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)
-  noCompanionLabel.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, DROPDOWN_HEIGHT + spaceOf("6"))
-  noCompanionLabel.SetDimensions(400, 40)
-  styleText(noCompanionLabel, "muted")
-  noCompanionLabel.SetText("Summon a companion to view build details")
-  noCompanionLabel.SetHorizontalAlignment(TEXT_ALIGN_LEFT)
-  noCompanionLabel.SetHidden(true)
+  const emptyArea = WINDOW_MANAGER.CreateControl(undefined, panel, CT_CONTROL)
+  emptyArea.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop)
+  emptyArea.SetAnchor(BOTTOMRIGHT, panel, BOTTOMRIGHT, 0, 0)
+  const emptyState = buildDataState(emptyArea, { empty: CHOOSE_COMPANION, level: WINDOW_LEVEL })
 
   const dataContainer = WINDOW_MANAGER.CreateControl(undefined, panel, CT_CONTROL)
   dataContainer.SetAnchor(TOPLEFT, panel, TOPLEFT, 0, contentTop)
@@ -114,7 +116,7 @@ export function createCompanionPanel(parent: Control): Control {
 
   state = {
     panel,
-    noCompanionLabel,
+    emptyState,
     dataContainer,
     nameValue,
     levelKeyLabel,
@@ -149,14 +151,13 @@ export function refreshCompanionPanel(): undefined {
   const selectedCompanionId = getSelectedCompanionId()
 
   if (selectedCompanionId === undefined) {
-    state.noCompanionLabel.SetText("Select a companion from the dropdown")
-    state.noCompanionLabel.SetHidden(false)
+    state.emptyState.show("empty")
     state.dataContainer.SetHidden(true)
     return
   }
 
   if (isSelectedCompanionActive()) {
-    state.noCompanionLabel.SetHidden(true)
+    state.emptyState.show("loaded")
     state.dataContainer.SetHidden(false)
     setLiveRowsVisible(true)
 
@@ -183,7 +184,7 @@ export function refreshCompanionPanel(): undefined {
 
   const saved = getSavedCompanionBuild(selectedCompanionId)
   if (saved) {
-    state.noCompanionLabel.SetHidden(true)
+    state.emptyState.show("loaded")
     state.dataContainer.SetHidden(false)
     setLiveRowsVisible(false)
 
@@ -193,7 +194,6 @@ export function refreshCompanionPanel(): undefined {
   }
 
   const companionName = getCleanCompanionName(selectedCompanionId)
-  state.noCompanionLabel.SetText(`Summon ${companionName} to capture their build`)
-  state.noCompanionLabel.SetHidden(false)
+  state.emptyState.show("empty", `Summon ${companionName} to capture their build.`)
   state.dataContainer.SetHidden(true)
 }

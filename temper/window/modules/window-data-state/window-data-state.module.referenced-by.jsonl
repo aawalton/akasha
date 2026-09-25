@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"window-data-state.module.code.ts","path":"temper/addon/pages/characters/modules/characters-placeholder-panel/characters-placeholder-panel.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"window-data-state.module.code.ts","path":"temper/addon/pages/characters/modules/companions-panel/companions-panel.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-data-state.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-state/combat-ui-report-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-data-state.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-keyboard/sets-search-ui-list-keyboard.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-data-state.module.code.ts","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window-shared/sales-history-status-window-shared.module.code.ts","typed":true,"deferred":false}
