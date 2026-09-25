@@ -6,4 +6,10 @@ export const skillPointFinderWindow = {
   slug: "skill-point-finder-window",
   definition: "the skill point window opening and closing",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each section of the window, and the character total, sits on a panel.",
+    },
+  ],
 } as const satisfies Module

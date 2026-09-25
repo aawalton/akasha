@@ -13,11 +13,6 @@
 			<Dimensions x="400" y="18" />
 
 			<Controls>
-				<Texture name="$(parent)Bg" textureFile="EsoUI/Art/Miscellaneous/listItem_backdrop.dds" alpha="0.2">
-					<AnchorFill />
-					<TextureCoords left="0" right="1" top="0" bottom=".8125" />
-				</Texture>
-
 				<Label name="$(parent)_Source" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
 					<Dimensions x="200" y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
@@ -34,11 +29,6 @@
 		<Control name="TemperCharactersSkillPointFinder_SQSSTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="300" y="18" />
 			<Controls>
-				<Texture name="$(parent)Bg" textureFile="EsoUI/Art/Miscellaneous/listItem_backdrop.dds" alpha="0.2">
-					<AnchorFill />
-					<TextureCoords left="0" right="1" top="0" bottom=".8125" />
-				</Texture>
-
 				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
 					<Dimensions x="150" y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
@@ -62,11 +52,6 @@
 		<Control name="TemperCharactersSkillPointFinder_GDQTemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="350" y="18" />
 			<Controls>
-				<Texture name="$(parent)Bg" textureFile="EsoUI/Art/Miscellaneous/listItem_backdrop.dds" alpha="0.2">
-					<AnchorFill />
-					<TextureCoords left="0" right="1" top="0" bottom=".8125" />
-				</Texture>
-
 				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
 					<Dimensions x="125" y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
@@ -90,11 +75,6 @@
 		<Control name="TemperCharactersSkillPointFinder_PDGBETemplate" virtual="true" inherits="TemperCharactersSkillPointFinder_TooltipTarget">
 			<Dimensions x="400" y="18" />
 			<Controls>
-				<Texture name="$(parent)Bg" textureFile="EsoUI/Art/Miscellaneous/listItem_backdrop.dds" alpha="0.2">
-					<AnchorFill />
-					<TextureCoords left="0" right="1" top="0" bottom=".8125" />
-				</Texture>
-
 				<Label name="$(parent)_Zone" font="TemperFontBody" horizontalAlignment="CENTER" verticalAlignment="CENTER">
 					<Dimensions x="140" y="18" />
 					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" />
@@ -113,14 +93,7 @@
 			</Controls>
 		</Control>
 
-		<Control name="TemperCharactersSkillPointFinder_ListSeparator" virtual="true">
-			<Controls>
-				<Line name="$(parent)_Line" color="FFCCCCCC" thickness="2" pixelRoundingEnabled="true">
-					<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="3" offsetY="0" />
-					<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="-5" offsetY="0" />
-				</Line>
-			</Controls>
-		</Control>
+		<Control name="TemperCharactersSkillPointFinder_ListSeparator" virtual="true" />
 
 		<TopLevelControl name="TemperCharactersSkillPointFinder_GUI" mouseEnabled="true" movable="true" hidden="true" allowBringToTop="true" tier="HIGH">
 			<Dimensions x="1390" y="750" />
@@ -160,10 +133,6 @@
 							<Dimensions x="400" y="18" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
 						</Label>
-						<Backdrop name="$(parent)_BG_GSP" inherits="ZO_DefaultBackdrop" centerColor="FF000000">
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_GSP" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)_GSP_T" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="6" />
-						</Backdrop>
 
 						<Label name="$(parent)_SQS" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_SQS" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
 							<Dimensions x="300" y="24" />
@@ -186,10 +155,6 @@
 							<Dimensions x="75" y="18" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS_SL_T" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 						</Label>
-						<Backdrop name="$(parent)_BG_SQS" inherits="ZO_DefaultBackdrop" centerColor="FF000000">
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_SQS" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)_SQS_SS_T" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="6" />
-						</Backdrop>
 
 
 						<Label name="$(parent)_GDQ" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_GDQ" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
@@ -210,10 +175,6 @@
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)_GDQ2_ListHolder" relativePoint="BOTTOMRIGHT" offsetX="-16" offsetY="0" />
 						</Label>
 
-						<Backdrop name="$(parent)_BG_GDQ" inherits="ZO_DefaultBackdrop" centerColor="FF000000">
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_GDQ" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)_GDQ_T" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="6" />
-						</Backdrop>
 
 
 						<Label name="$(parent)_PDGBE" font="TemperFontLabel" text="SI_TEMPER_SKILLPOINTFINDER_GUI_PDB" horizontalAlignment="CENTER" verticalAlignment="BOTTOM">
@@ -229,10 +190,6 @@
 							<Dimensions x="400" y="18" />
 							<Anchor point="TOPLEFT" relativeTo="$(parent)_PDGBE_ListHolder" relativePoint="BOTTOMLEFT" offsetX="0" offsetY="0" />
 						</Label>
-						<Backdrop name="$(parent)_BG_PDGBE" inherits="ZO_DefaultBackdrop" centerColor="FF000000">
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_PDGBE" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)_PDGBE_T" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="6" />
-						</Backdrop>
 
 					</Controls>
 				</Control>
@@ -247,10 +204,7 @@
 							<Anchor point="TOPLEFT" relativeTo="$(parent)" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
 							<Anchor point="TOPRIGHT" relativeTo="$(parent)" relativePoint="TOPRIGHT" offsetX="0" offsetY="0" />
 						</Label>
-						<Backdrop name="$(parent)_BG_F" inherits="ZO_DefaultBackdrop" centerColor="FF000000">
-							<Anchor point="TOPLEFT" relativeTo="$(parent)_CharacterTotal" relativePoint="TOPLEFT" offsetX="0" offsetY="0" />
-							<Anchor point="BOTTOMRIGHT" relativeTo="$(parent)_CharacterTotal" relativePoint="BOTTOMRIGHT" offsetX="0" offsetY="0" />
-						</Backdrop>
+
 					</Controls>
 				</Control>
 			</Controls>

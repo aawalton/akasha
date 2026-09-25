@@ -20,6 +20,7 @@ import {
   FRAME_TOP,
   frameWindow,
 } from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
+import { drawPanel } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -50,6 +51,34 @@ export function setupValues(this: void): undefined {
   header.ClearAnchors()
   header.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
   header.SetAnchor(TOPRIGHT, body, TOPRIGHT, 0, 0)
+
+  const sections = TemperCharactersSkillPointFinder_GUI_Body
+  drawPanel(
+    sections,
+    "$(parent)_PanelGSP",
+    TemperCharactersSkillPointFinder_GUI_Body_GSP,
+    TemperCharactersSkillPointFinder_GUI_Body_GSP_T
+  )
+  drawPanel(
+    sections,
+    "$(parent)_PanelSQS",
+    TemperCharactersSkillPointFinder_GUI_Body_SQS,
+    TemperCharactersSkillPointFinder_GUI_Body_SQS_SS_T
+  )
+  drawPanel(
+    sections,
+    "$(parent)_PanelGDQ",
+    TemperCharactersSkillPointFinder_GUI_Body_GDQ,
+    TemperCharactersSkillPointFinder_GUI_Body_GDQ_T
+  )
+  drawPanel(
+    sections,
+    "$(parent)_PanelPDGBE",
+    TemperCharactersSkillPointFinder_GUI_Body_PDGBE,
+    TemperCharactersSkillPointFinder_GUI_Body_PDGBE_T
+  )
+  const total = TemperCharactersSkillPointFinder_GUI_Footer_CharacterTotal
+  drawPanel(TemperCharactersSkillPointFinder_GUI_Footer, "$(parent)_Panel", total, total)
 
   window.ClearAnchors()
   window.SetAnchor(CENTER, GuiRoot, CENTER, 0, 0)
