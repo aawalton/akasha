@@ -123,6 +123,27 @@ export const collection = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Everything Alan works through is a collection.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A work is one collection.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An instalment of a work is one collection.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shelf of works is one collection.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Which collection has which collection is the one edge collections are read along.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The parts of a collection are themselves collections.",
     },
     {

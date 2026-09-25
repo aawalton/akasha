@@ -15,7 +15,6 @@ export const alan = {
     "domain/chess",
     "domain/eso",
     "domain/google",
-    "domain/library",
     "domain/literature",
     "domain/medicine",
     "domain/music",

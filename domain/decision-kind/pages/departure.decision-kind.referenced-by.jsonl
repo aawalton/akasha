@@ -1022,7 +1022,6 @@
 {"propertySlug":"decision-kind","path":"alan/harness/web-static-asset/modules/build-directory/build-directory.module.ts","id":"01a08db3-6723-70df-8ccd-9abb25c56c16"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-static-asset/modules/serve-static/serve-static.module.ts","id":"01a05c48-deeb-7006-8e9c-b8c5539dd296"}
 {"propertySlug":"decision-kind","path":"alan/harness/web-static-asset/web-static-asset.domain.ts","id":"01a05c48-deeb-7005-87e8-e99206ff06ca"}
-{"propertySlug":"decision-kind","path":"alan/library/library.domain.ts","id":"01a06574-0291-7000-bfeb-0932b2156cac"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/artist/properties/artist-genre.text-property.ts","id":"01a06243-144b-7010-af12-3f9a28709cb9"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-held/catalogue-held.module.ts","id":"01a09c06-fd09-7448-ae50-64aed341cbb5"}
 {"propertySlug":"decision-kind","path":"alan/music/catalog/modules/catalogue-slug/catalogue-slug.module.ts","id":"01a06262-ff4c-7001-86ff-443d16400dc0"}

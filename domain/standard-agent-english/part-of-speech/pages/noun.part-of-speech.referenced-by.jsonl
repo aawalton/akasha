@@ -60,7 +60,6 @@
 {"propertySlug":"part-of-speech","path":"alan/harness/safety/safety.domain.ts","id":"01a05f42-92f5-7005-9a61-d2ed59cb2fac"}
 {"propertySlug":"part-of-speech","path":"alan/harness/sleep/sleep.domain.ts","id":"01a06220-ef8c-735b-b8a1-1cb4507d71b0"}
 {"propertySlug":"part-of-speech","path":"alan/harness/surplus/surplus.domain.ts","id":"01a05fc3-145a-7fb1-9715-e7a44e378f74"}
-{"propertySlug":"part-of-speech","path":"alan/library/library.domain.ts","id":"01a06574-0291-7000-bfeb-0932b2156cac"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/artist/artist.page-type.ts","id":"01a06243-144b-7013-99b2-e1b52805e43b"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/release/release.page-type.ts","id":"01a06769-ed1a-7000-825b-b75cf6badf16"}
 {"propertySlug":"part-of-speech","path":"alan/music/catalog/song/song.page-type.ts","id":"01a06243-144b-7012-9da5-a570a8174672"}
