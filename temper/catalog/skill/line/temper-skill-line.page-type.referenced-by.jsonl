@@ -139,3 +139,4 @@
 {"propertySlug":"import","fileName":"temper-skill-line.page-type.types.ts","path":"temper/catalog/skill/line/pages/world-werewolf.temper-skill-line.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
 {"propertySlug":"target-page-type","path":"temper/catalog/thing/properties/skill-line.relation-property.ts","id":"01a0cb21-70d9-7538-be2f-3fc1b1531dca"}
+{"propertySlug":"target-page-type","path":"temper/player/progress/temper-inventory-rule/properties/skill-lines.multi-relation-property.ts","id":"01a0d8a2-9a9e-7ccd-915e-4d09fa54b831"}

@@ -79,4 +79,5 @@
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-pin-alternate.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-positions.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"record-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/character-conditions.record-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

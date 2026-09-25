@@ -34,6 +34,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story","unique":null,"uniquePropertySlug":null,"slug":"chapter-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-account-character","unique":null,"uniquePropertySlug":null,"slug":"character","propertySlug":"character","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"character-build","unique":null,"uniquePropertySlug":null,"slug":"character-build-version-build","propertySlug":"build","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-character-condition-field","unique":null,"uniquePropertySlug":null,"slug":"character-condition-field","propertySlug":"character-condition-field","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"place","unique":null,"uniquePropertySlug":null,"slug":"character-place","propertySlug":"place","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"story","unique":null,"uniquePropertySlug":null,"slug":"character-story","propertySlug":"story","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"chess-game","unique":null,"uniquePropertySlug":null,"slug":"chess-game","propertySlug":"chess-game","fileName":null,"folderName":null}

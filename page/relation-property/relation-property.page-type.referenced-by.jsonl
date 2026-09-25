@@ -232,6 +232,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/currency-key.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/properties/item-category-parent.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-completion-category/properties/completion-category-parent.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/character-condition-field.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/properties/metric-tree-parent.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/action.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"temper/player/progress/temper-rule/properties/condition-field.relation-property.ts","typed":true,"deferred":false}

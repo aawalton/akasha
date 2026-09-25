@@ -40,6 +40,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"secret","unique":null,"uniquePropertySlug":null,"slug":"secrets","propertySlug":"secrets","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"service-cluster","unique":null,"uniquePropertySlug":null,"slug":"service-clusters","propertySlug":"service-clusters","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"manifest","unique":null,"uniquePropertySlug":null,"slug":"service-manifest","propertySlug":"manifest","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-skill-line","unique":null,"uniquePropertySlug":null,"slug":"skill-lines","propertySlug":"skill-lines","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"identity-statement","unique":null,"uniquePropertySlug":null,"slug":"sub-statements","propertySlug":"sub-statements","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"topic-parents","propertySlug":"parents","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"learn-everything-topic","unique":null,"uniquePropertySlug":null,"slug":"topic-part-of","propertySlug":"part-of","fileName":null,"folderName":null}

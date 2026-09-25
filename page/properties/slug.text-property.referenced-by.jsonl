@@ -301,6 +301,8 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/holdings/temper-item-category-tree/properties/item-category-parent.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-completion-category/properties/completion-category-parent.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/character-condition-field.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-inventory-rule/properties/skill-lines.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-metric-tree/properties/metric-tree-parent.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/action.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/player/progress/temper-rule/properties/condition-field.relation-property.types.ts","typed":true,"deferred":false}
