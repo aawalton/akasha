@@ -1,10 +1,10 @@
 import { expect, test } from "bun:test"
 import { join } from "node:path"
 import {
+  compilerIn,
   judgedFor,
   refusalIn,
   SCOPE,
-  tscIn,
 } from "akasha/agent/hook/agent-hook/block-typecheck/block-typecheck.agent-hook.code.ts"
 import { parseRefusal } from "akasha/agent/hook/modules/answer/hook-answer.module.code.ts"
 import { judging } from "akasha/agent/hook/test-fixtures/judging/hook-judging.test-fixture.code.ts"
@@ -144,9 +144,9 @@ test("a call stating no working directory is judged as though it ran here", () =
 })
 
 test("the head of a segment is what is read, so tsc as an argument is not a call", () => {
-  expect(tscIn("cat tsc.log")).toBe(false)
-  expect(tscIn("rg tsc akasha/")).toBe(false)
-  expect(tscIn("tsc")).toBe(true)
+  expect(compilerIn("cat tsc.log")).toBe(false)
+  expect(compilerIn("rg tsc akasha/")).toBe(false)
+  expect(compilerIn("tsc")).toBe(true)
 })
 
 test("the scope names the hole in this rule rather than hiding it", () => {
@@ -189,4 +189,79 @@ test("the hook prints its scope when it is asked", () => {
   const done = ran(["bun", SCRIPT, "--scope"], { stdin: Buffer.from("") })
   expect(done.code).toBe(0)
   expect(done.out).toContain("NOT REACHED")
+})
+
+test("a compiler under another name is refused as tsc is", () => {
+  for (const one of [
+    "tsgo",
+    "tsgo --noEmit",
+    "npx tsgo",
+    "bunx tsgo --noEmit",
+    "bun x tsgo",
+    "node_modules/.bin/tsgo",
+    "./node_modules/.bin/tsgo -p tsconfig.json",
+    "timeout 900 tsgo",
+  ]) {
+    expect(judged(one)).toContain("refused this call")
+  }
+})
+
+test("ts-node is refused where it is told to check types, and let through otherwise", () => {
+  for (const one of [
+    "ts-node --typeCheck one.ts",
+    "ts-node --type-check one.ts",
+    "npx ts-node --typeCheck one.ts",
+    "bunx ts-node --typeCheck one.ts",
+  ]) {
+    expect(judged(one)).toContain("refused this call")
+  }
+  for (const one of ["ts-node one.ts", "ts-node --transpileOnly one.ts"]) {
+    expect(judged(one)).toBeNull()
+  }
+})
+
+test("a compiler's own file run directly is the same call", () => {
+  for (const one of [
+    "node node_modules/typescript/bin/tsc",
+    "node node_modules/typescript-7/bin/tsc -p tsconfig.json",
+    "node --max-old-space-size=8192 ./node_modules/typescript/lib/tsc.js",
+    "bun node_modules/typescript/lib/tsc.js",
+    "bun run node_modules/typescript/bin/tsc",
+    "bun tsc",
+    "node node_modules/@typescript/native-preview/bin/tsgo.js",
+  ]) {
+    expect(judged(one)).toContain("refused this call")
+  }
+})
+
+test("a file or word that only carries a compiler's name is let through", () => {
+  for (const one of [
+    "node tools/run.js",
+    "node --version",
+    "node tsc.log",
+    "bun tsc.ts.bak",
+    "echo tsgo",
+    "cat tsgo.log",
+    "rg ts-node --typeCheck",
+  ]) {
+    expect(judged(one)).toBeNull()
+  }
+})
+
+test("the approved routes to the compiler are let through", () => {
+  for (const one of ["akasha audit --check typecheck", "akasha audit"]) {
+    expect(judged(one)).toBeNull()
+  }
+})
+
+test("a call another program builds is let through, as the scope says", () => {
+  expect(judged("git ls-files '*.ts' | xargs tsc --noEmit")).toBeNull()
+  expect(SCOPE.join("\n")).toContain("a call another program builds")
+})
+
+test("the scope names the compilers it refuses under other names", () => {
+  const said = SCOPE.join("\n")
+  expect(said).toContain("tsgo")
+  expect(said).toContain("ts-node --typeCheck")
+  expect(said).toContain("node or bun")
 })

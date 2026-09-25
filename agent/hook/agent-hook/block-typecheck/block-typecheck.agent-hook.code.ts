@@ -17,19 +17,28 @@ import {
   calledWords,
   READ_AS_BASH,
   RUNS_ANOTHER,
-  ranBy,
   segmentsOf,
 } from "akasha/agent/hook/modules/shell-calls/shell-calls.module.code.ts"
 
 const HOOK = "block-typecheck"
 
-const TSC = "tsc"
+const COMPILERS: readonly string[] = ["tsc", "tsgo"]
+
+const CHECKING_RUNNER = "ts-node"
+
+const TYPE_CHECK: readonly string[] = ["--typeCheck", "--type-check"]
+
+const SCRIPT_FILE = /\.[cm]?js$/
+
+const RUNS_A_FILE = "node"
 
 const RUNS = "typecheck"
 
 const THROUGH: readonly string[] = ["npx", "bunx", "pnpx", "dlx"]
 
 const BUN_THROUGH = "x"
+
+const BUN_RUN = "run"
 
 const HELP = "Say `akasha audit --help` for what it takes."
 
@@ -41,7 +50,8 @@ const INSTEAD: readonly string[] = [
 ]
 
 const REFUSAL = toldOf(HOOK, [
-  "`tsc` run by hand does not say what a run through the akasha commands says.",
+  "`tsc`, `tsgo`, `ts-node --typeCheck` or a compiler's own file, run by hand, does not say",
+  "what a run through the akasha commands says.",
   "",
   'THE ROOT `tsconfig.json` CARRIES `"files": []`, so `tsc --noEmit` at the repository root',
   "compiles no file at all and exits 0. It does not report a small answer; it reports success",
@@ -67,7 +77,10 @@ const BUN_REFUSAL = toldOf(HOOK, [
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses the calls that typecheck by hand:`,
-  "  tsc, a path ending in tsc, and tsc run through npx, bunx, `bun x`, pnpx or dlx",
+  "  tsc and tsgo, a path ending in either, and either run through npx, bunx, `bun x`, pnpx",
+  "    or dlx",
+  "  ts-node --typeCheck and ts-node --type-check, bare or run through those same runners",
+  "  a compiler's own file run by node or bun — `node …/typescript/bin/tsc`, `bun …/tsc.js`",
   "  `bun typecheck` and `bun run typecheck`, whatever flags come before the script name",
   "`akasha audit --check typecheck` is what says what the compiler finds.",
   "",
@@ -96,7 +109,8 @@ export const SCOPE: readonly string[] = [
   ...READ_AS_BASH,
   "",
   "NOT REACHED. Each measured against this hook, not supposed:",
-  "  `vue-tsc`, `tsgo`, `ts-node --type-check`, and every other compiler under another name",
+  "  `vue-tsc`, and every other compiler under a name the list above does not give",
+  "  a compiler's file behind a node flag that takes a value, as in `node -r one tsc`",
   "  `bun run build` and every package script that reaches a compiler without naming it",
   "  a call another program builds — `xargs`, `make`, a script file",
   "  a call behind a prefix the list above does not name, which hides it as `xargs` does",
@@ -109,15 +123,35 @@ export const SCOPE: readonly string[] = [
   "it is what the program says about itself, held as text it prints rather than as a comment.",
 ]
 
-export function tscIn(segment: string): boolean {
+function programFrom(words: readonly string[]): readonly string[] {
+  const at = words.findIndex((one) => !one.startsWith("-"))
+  return at === -1 ? [] : words.slice(at)
+}
+
+function compiles(words: readonly string[]): boolean {
+  const head = words[0]
+  if (head === undefined) return false
+  const named = basenameOf(head).replace(SCRIPT_FILE, "")
+  if (COMPILERS.includes(named)) return true
+  return named === CHECKING_RUNNER && words.some((one) => TYPE_CHECK.includes(one))
+}
+
+function bunProgram(call: BunCall): readonly string[] {
+  if (call.act === BUN_THROUGH) return programFrom(call.rest)
+  if (call.act !== BUN_RUN) return [call.act, ...call.rest]
+  const script = scriptOf(call)
+  return script === null ? [] : call.rest.slice(call.rest.indexOf(script))
+}
+
+export function compilerIn(segment: string): boolean {
   const words = calledWords(segment)
   const head = words[0]
   if (head === undefined) return false
+  if (compiles(words)) return true
   const named = basenameOf(head)
-  if (named === TSC) return true
-  if (THROUGH.includes(named)) return ranBy(words.slice(1)) === TSC
+  if (THROUGH.includes(named) || named === RUNS_A_FILE) return compiles(programFrom(words.slice(1)))
   const bun = bunCallIn(segment)
-  return bun?.act === BUN_THROUGH && ranBy(bun.rest) === TSC
+  return bun !== null && compiles(bunProgram(bun))
 }
 
 function refusalFor(call: BunCall): string | null {
@@ -127,8 +161,10 @@ function refusalFor(call: BunCall): string | null {
 
 export function refusalIn(command: string, from: string, root: string): string | null {
   if (!guarding(from, root)) return null
-  const overTsc = refusalOver(segmentsOf(command), (segment) => (tscIn(segment) ? REFUSAL : null))
-  return overTsc ?? refusalOver(bunCallsIn(command), refusalFor)
+  const overCompiler = refusalOver(segmentsOf(command), (segment) =>
+    compilerIn(segment) ? REFUSAL : null
+  )
+  return overCompiler ?? refusalOver(bunCallsIn(command), refusalFor)
 }
 
 export const judgedFor = judgingCommandHook(HOOK, import.meta.path, refusalIn)
