@@ -18,7 +18,7 @@ export const radiantBastion = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 20,
   itemBrowserSources: ["1207", "1208"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 167465,
   esoItemIds: [
     167430, 167431, 167432, 167433, 167434, 167435, 167436, 167437, 167438, 167439, 167440, 167441,

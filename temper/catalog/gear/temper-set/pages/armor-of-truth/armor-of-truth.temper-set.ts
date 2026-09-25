@@ -18,7 +18,7 @@ export const armorOfTruth = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["63", "930"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 108948,
   esoItemIds: [
     108913, 108914, 108915, 108916, 108917, 108918, 108919, 108920, 108921, 108922, 108923, 108924,

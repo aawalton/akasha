@@ -19,7 +19,7 @@ export const strengthOfTheAutomaton = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["63", "930"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 104335,
   esoItemIds: [
     104300, 104301, 104302, 104303, 104304, 104305, 104306, 104307, 104308, 104309, 104310, 104311,

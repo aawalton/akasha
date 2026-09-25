@@ -19,7 +19,7 @@ export const sergeantsMail = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["146", "933"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 108766,
   esoItemIds: [
     108731, 108732, 108733, 108734, 108735, 108736, 108737, 108738, 108739, 108740, 108741, 108742,

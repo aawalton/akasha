@@ -18,7 +18,7 @@ export const combatPhysician = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["146", "933"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 103772,
   esoItemIds: [
     103736, 103737, 103738, 103739, 103740, 103741, 103742, 103743, 103744, 103745, 103746, 103747,

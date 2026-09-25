@@ -18,7 +18,7 @@ export const camonnaTong = {
   setDropMechanics: [7, 8, 9, 10, 25, 8],
   setDlcId: 30,
   itemBrowserSources: ["1413", "1414"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 195906,
   esoItemIds: [
     195871, 195872, 195873, 195874, 195875, 195876, 195877, 195878, 195879, 195880, 195881, 195882,

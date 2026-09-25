@@ -18,7 +18,7 @@ export const vivecsDuality = {
   setDropMechanics: [7, 8, 9, 10, 25, 8],
   setDlcId: 30,
   itemBrowserSources: ["1413", "1414"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 195734,
   esoItemIds: [
     195698, 195699, 195700, 195701, 195702, 195703, 195704, 195705, 195706, 195707, 195708, 195709,

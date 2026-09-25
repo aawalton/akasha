@@ -18,7 +18,7 @@ export const spelunker = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["144", "936"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 103025,
   esoItemIds: [
     102990, 102991, 102992, 102993, 102994, 102995, 102996, 102997, 102998, 102999, 103000, 103001,

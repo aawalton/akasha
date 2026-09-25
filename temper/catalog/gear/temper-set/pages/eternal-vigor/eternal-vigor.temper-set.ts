@@ -18,7 +18,7 @@ export const eternalVigor = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 18,
   itemBrowserSources: ["1160", "1161"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 161041,
   esoItemIds: [
     161006, 161007, 161008, 161009, 161010, 161011, 161012, 161013, 161014, 161015, 161016, 161017,

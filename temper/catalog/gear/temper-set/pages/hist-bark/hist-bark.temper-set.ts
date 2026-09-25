@@ -19,7 +19,7 @@ export const histBark = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 0,
   itemBrowserSources: ["20", "108", "117"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1, 1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 50764,
   esoWeaponTypes: [

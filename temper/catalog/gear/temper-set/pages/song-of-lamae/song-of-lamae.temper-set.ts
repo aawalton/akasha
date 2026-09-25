@@ -19,7 +19,7 @@ export const songOfLamae = {
   setDropMechanics: [29, 29, 29],
   setDlcId: 0,
   itemBrowserSources: ["104", "58", "101"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1, 1],
   itemBrowserKinds: ["multi-style"],
   itemBrowserItemId: 51907,
   esoWeaponTypes: [

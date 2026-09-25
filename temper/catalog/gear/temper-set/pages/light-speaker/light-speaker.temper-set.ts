@@ -19,7 +19,7 @@ export const lightSpeaker = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["126", "931"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 103399,
   esoItemIds: [103363, 103364, 103376, 103378, 103379, 103380, 103381, 103382, 103384, 103385],
   esoArmorTypes: ["ARMORTYPE_LIGHT"],

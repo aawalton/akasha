@@ -18,7 +18,7 @@ export const embershield = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["176", "681"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 104890,
   esoItemIds: [
     58132, 58133, 58134, 58135, 58136, 58137, 58138, 104855, 104856, 104857, 104858, 104859, 104860,

@@ -18,7 +18,7 @@ export const ebonArmory = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["130", "932"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 106182,
   esoItemIds: [
     106147, 106148, 106149, 106150, 106151, 106152, 106153, 106154, 106155, 106156, 106157, 106158,

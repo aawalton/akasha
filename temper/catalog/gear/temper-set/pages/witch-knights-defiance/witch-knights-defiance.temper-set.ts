@@ -19,7 +19,7 @@ export const witchKnightsDefiance = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 20,
   itemBrowserSources: ["1207", "1208"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 167803,
   esoItemIds: [
     167768, 167769, 167770, 167771, 167772, 167773, 167774, 167775, 167776, 167777, 167778, 167779,

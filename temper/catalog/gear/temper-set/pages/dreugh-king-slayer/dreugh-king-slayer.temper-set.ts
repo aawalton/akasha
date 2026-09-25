@@ -18,7 +18,7 @@ export const dreughKingSlayer = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["283", "934"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 108402,
   esoItemIds: [
     80860, 80861, 80862, 80863, 80864, 80865, 80866, 80867, 80868, 80869, 80870, 80871, 80873,

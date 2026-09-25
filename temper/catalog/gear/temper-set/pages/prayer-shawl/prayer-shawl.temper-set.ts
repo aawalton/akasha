@@ -18,7 +18,7 @@ export const prayerShawl = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["144", "936"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 107848,
   esoItemIds: [
     107812, 107813, 107814, 107815, 107816, 107817, 107818, 107819, 107820, 107821, 107822, 107823,

@@ -18,7 +18,7 @@ export const wintersRespite = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 18,
   itemBrowserSources: ["1160", "1161"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 160663,
   esoItemIds: [
     160627, 160628, 160629, 160630, 160631, 160632, 160633, 160634, 160635, 160636, 160637, 160638,

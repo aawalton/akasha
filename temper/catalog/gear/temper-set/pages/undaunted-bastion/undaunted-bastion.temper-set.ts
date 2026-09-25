@@ -18,7 +18,7 @@ export const undauntedBastion = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["126", "931"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 103589,
   esoItemIds: [
     103554, 103555, 103556, 103557, 103558, 103559, 103560, 103561, 103562, 103563, 103564, 103565,

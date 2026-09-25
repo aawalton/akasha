@@ -18,7 +18,7 @@ export const vipersSting = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["283", "934"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 108220,
   esoItemIds: [
     80549, 80550, 80551, 80552, 80553, 80554, 80555, 80561, 80562, 80563, 80564, 80565, 80566,

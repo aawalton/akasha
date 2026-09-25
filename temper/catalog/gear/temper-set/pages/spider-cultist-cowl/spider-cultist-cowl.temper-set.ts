@@ -19,7 +19,7 @@ export const spiderCultistCowl = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["283", "934"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 103208,
   esoItemIds: [
     103172, 103173, 103182, 103183, 103184, 103187, 103188, 103189, 103190, 103191, 103193, 103194,

@@ -18,7 +18,7 @@ export const shroudOfTheLich = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["130", "932"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 105810,
   esoItemIds: [
     105774, 105775, 105776, 105777, 105778, 105779, 105780, 105781, 105782, 105783, 105784, 105785,

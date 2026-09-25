@@ -18,7 +18,7 @@ export const sunderflame = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["176", "681"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 104708,
   esoItemIds: [
     104673, 104674, 104675, 104676, 104677, 104678, 104679, 104680, 104681, 104682, 104683, 104684,

@@ -19,7 +19,7 @@ export const leviathan = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["130", "932"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 106000,
   esoItemIds: [
     105965, 105966, 105967, 105968, 105969, 105970, 105971, 105972, 105973, 105974, 105975, 105976,

@@ -19,7 +19,7 @@ export const netchsTouch = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["63", "930"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 104145,
   esoItemIds: [
     104109, 104110, 104111, 104112, 104113, 104114, 104115, 104116, 104117, 104118, 104119, 104120,

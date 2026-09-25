@@ -18,7 +18,7 @@ export const jailbreaker = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["380", "935"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 102661,
   esoItemIds: [
     102626, 102627, 102628, 102629, 102630, 102631, 102632, 102633, 102634, 102635, 102636, 102637,

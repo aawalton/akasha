@@ -18,7 +18,7 @@ export const knightmare = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["144", "936"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 108038,
   esoItemIds: [
     108003, 108004, 108005, 108006, 108007, 108008, 108009, 108010, 108011, 108017, 108018, 108019,

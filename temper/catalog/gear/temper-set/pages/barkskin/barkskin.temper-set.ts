@@ -18,7 +18,7 @@ export const barkskin = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["126", "931"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 108584,
   esoItemIds: [
     108549, 108550, 108551, 108552, 108553, 108554, 108555, 108556, 108557, 108558, 108559, 108560,

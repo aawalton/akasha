@@ -18,7 +18,7 @@ export const burningSpellweave = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["176", "681"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 104518,
   esoItemIds: [
     104482, 104483, 104484, 104485, 104486, 104487, 104488, 104489, 104490, 104491, 104492, 104493,

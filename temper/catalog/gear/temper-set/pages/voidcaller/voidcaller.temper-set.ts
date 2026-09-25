@@ -18,7 +18,7 @@ export const voidcaller = {
   setDropMechanics: [7, 8, 10, 25],
   setDlcId: 20,
   itemBrowserSources: ["1207", "1208"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 167631,
   esoItemIds: [
     167595, 167596, 167597, 167598, 167599, 167600, 167601, 167602, 167603, 167604, 167605, 167606,

@@ -18,7 +18,7 @@ export const toothrow = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["146", "933"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 103962,
   esoItemIds: [
     103927, 103928, 103929, 103930, 103931, 103932, 103933, 103934, 103935, 103936, 103937, 103938,

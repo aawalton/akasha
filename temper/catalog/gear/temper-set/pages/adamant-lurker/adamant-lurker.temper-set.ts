@@ -18,7 +18,7 @@ export const adamantLurker = {
   setDropMechanics: [7, 8, 9, 10, 25, 8],
   setDlcId: 30,
   itemBrowserSources: ["1413", "1414"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 196071,
   esoItemIds: [
     196036, 196037, 196038, 196039, 196040, 196041, 196042, 196043, 196044, 196045, 196046, 196047,

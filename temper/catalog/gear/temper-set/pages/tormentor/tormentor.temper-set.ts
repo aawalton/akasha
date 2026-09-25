@@ -18,7 +18,7 @@ export const tormentor = {
   setDropMechanics: [28, 28],
   setDlcId: 0,
   itemBrowserSources: ["380", "935"],
-  itemBrowserPlaceKinds: [3],
+  itemBrowserPlaceKinds: [3, 3],
   itemBrowserItemId: 102843,
   esoItemIds: [
     102808, 102809, 102810, 102811, 102812, 102813, 102814, 102815, 102816, 102817, 102818, 102819,

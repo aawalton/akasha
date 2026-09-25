@@ -18,7 +18,7 @@ export const venomousSmite = {
   setDropMechanics: [7, 8, 9, 10, 25],
   setDlcId: 18,
   itemBrowserSources: ["1160", "1161"],
-  itemBrowserPlaceKinds: [1],
+  itemBrowserPlaceKinds: [1, 1],
   itemBrowserItemId: 160856,
   esoItemIds: [
     160821, 160822, 160823, 160824, 160825, 160826, 160827, 160828, 160829, 160830, 160831, 160832,
