@@ -445,7 +445,6 @@
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/bootstrap-layer/bootstrap-layer.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/cluster-provisioning.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/cluster/provisioning/talos/talos.domain.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/command/infrastructure-command.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/container-image.domain.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/dockerfile/built-image/built-image.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.types.ts","path":"infrastructure/container-image/dockerfile/dockerfile.domain.ts","typed":true,"deferred":false}
