@@ -64,7 +64,7 @@ export const seatLogDay = {
       statement: "The work the agent did is in the commits the agent landed.",
     },
     {
-      decisionKind: "decision-kind/gap",
+      decisionKind: "decision-kind/departure",
       statement: "Nothing reads the lines a day has.",
     },
   ],
