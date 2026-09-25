@@ -72,7 +72,7 @@ function ran(
 ): Composed {
   let done: Said
   try {
-    done = running([SOPS, ...args], { cwd: root, timeout: CEILING, stdin })
+    done = running([SOPS, ...args], { cwd: root, env: process.env, timeout: CEILING, stdin })
   } catch (thrown) {
     return { text: null, why: `${doing} could not run: ${String(thrown)}` }
   }

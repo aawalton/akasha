@@ -58,6 +58,11 @@ export const pageSecret = {
       statement: "sops is handed the plaintext on its input rather than at a path.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "sops is handed the environment this process holds at the call rather than at start.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "No plaintext reaches the disk.",
     },

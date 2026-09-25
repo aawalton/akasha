@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
-import { copyFileSync, existsSync, mkdirSync, writeFileSync } from "node:fs"
+import { generateKeyPairSync } from "node:crypto"
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { gitIn } from "akasha/file/modules/git-place/git-place.module.code.ts"
@@ -16,7 +17,15 @@ import {
 
 const scratch = scratchWorld()
 
-afterAll(scratch.sweep)
+const KEY_NAMED = "SOPS_AGE_KEY_FILE"
+
+const KEY_WAS = process.env[KEY_NAMED]
+
+afterAll(() => {
+  scratch.sweep()
+  if (KEY_WAS === undefined) delete process.env[KEY_NAMED]
+  else process.env[KEY_NAMED] = KEY_WAS
+})
 
 const PAGE = "akasha/one/aine.model-account.ts"
 
@@ -24,12 +33,79 @@ const BESIDE = "akasha/one/aine.model-account.sops.yaml"
 
 const REPO = rootOf(import.meta.dir)
 
+const LETTERS = "qpzry9x8gf2tvdw0s3jn54khce6mua7l"
+
+const STEPS = [0x3b6a57b2, 0x26508e6d, 0x1ea119fa, 0x3d4233dd, 0x2a1462b3]
+
+function summed(values: readonly number[]): number {
+  let sum = 1
+  for (const one of values) {
+    const top = sum >> 25
+    sum = ((sum & 0x1ffffff) << 5) ^ one
+    STEPS.forEach((step, at) => {
+      if ((top >> at) & 1) sum ^= step
+    })
+  }
+  return sum
+}
+
+function fivesOf(bytes: Uint8Array): readonly number[] {
+  const found: number[] = []
+  let carried = 0
+  let bits = 0
+  for (const one of bytes) {
+    carried = ((carried << 8) | one) & 0xfff
+    bits += 8
+    while (bits >= 5) {
+      bits -= 5
+      found.push((carried >> bits) & 31)
+    }
+  }
+  if (bits > 0) found.push((carried << (5 - bits)) & 31)
+  return found
+}
+
+function bech32(prefix: string, bytes: Uint8Array): string {
+  const codes = [...prefix].map((one) => one.charCodeAt(0))
+  const data = fivesOf(bytes)
+  const said = [...codes.map((one) => one >> 5), 0, ...codes.map((one) => one & 31), ...data]
+  const mod = summed([...said, 0, 0, 0, 0, 0, 0]) ^ 1
+  const check = [5, 4, 3, 2, 1, 0].map((at) => (mod >> (5 * at)) & 31)
+  return `${prefix}1${[...data, ...check].map((one) => LETTERS[one]).join("")}`
+}
+
+const PAIR = generateKeyPairSync("x25519")
+
+function bytesOf(said: unknown): Uint8Array {
+  return new Uint8Array(Buffer.from(String(said), "base64url"))
+}
+
+const RECIPIENT = bech32("age", bytesOf(PAIR.publicKey.export({ format: "jwk" }).x))
+
+const PRIVATE_KEY = bech32(
+  "age-secret-key-",
+  bytesOf(PAIR.privateKey.export({ format: "jwk" }).d)
+).toUpperCase()
+
+const KEYS_AT = join(scratch.rootFor("akasha-secret-key-"), "keys.txt")
+
+writeFileSync(KEYS_AT, `${PRIVATE_KEY}\n`, { mode: 0o600 })
+
+process.env[KEY_NAMED] = KEYS_AT
+
+const RULES = readFileSync(join(REPO, ".sops.yaml"), "utf8").replaceAll(/age1[a-z0-9]+/g, RECIPIENT)
+
 function rooted(): string {
   const root = scratch.rootFor("akasha-secret-")
-  copyFileSync(join(REPO, ".sops.yaml"), join(root, ".sops.yaml"))
+  writeFileSync(join(root, ".sops.yaml"), RULES)
   mkdirSync(join(root, "akasha/one"), { recursive: true })
   return root
 }
+
+test("the key a test deciphers with is its own, and Alan's recipient is nowhere in its rules", () => {
+  expect(RULES).toContain(RECIPIENT)
+  expect(RULES.match(/age1[a-z0-9]+/g)?.every((one) => one === RECIPIENT)).toBe(true)
+})
 
 function held(values: Readonly<Record<string, string>>): ReadonlyMap<string, string> {
   return new Map(Object.entries(values))
