@@ -4,7 +4,7 @@ export const pageCorePropertyType = {
   id: "01a071cb-236e-781b-9c7d-29bf3bd222c7",
   type: "page-type/domain",
   slug: "page-core-property-type",
-  definition: "what a kind of page property means",
+  definition: "how code works with each type of page property",
   parts: [
     "module/action-button",
     "module/block-markers",
