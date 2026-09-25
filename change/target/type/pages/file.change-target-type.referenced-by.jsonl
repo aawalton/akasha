@@ -12,8 +12,6 @@
 {"propertySlug":"change-target-type","path":"change/agent/file/remove-file/remove-file.change-agent.ts","id":"01a07991-8989-7000-8e13-06e6791ebefb"}
 {"propertySlug":"change-target-type","path":"change/agent/file/remove-page-type/remove-page-type.change-agent.ts","id":"01a0783a-11c0-7891-a250-63a80bef1c95"}
 {"propertySlug":"change-target-type","path":"change/agent/file/remove-page/remove-page.change-agent.ts","id":"01a0776d-8d1e-7f93-a0e2-4c566d49f8fd"}
-{"propertySlug":"change-target-type","path":"change/agent/file/rename-page/rename-page.change-agent.ts","id":"01a07718-c9b6-7e8c-bc13-5927529ac249"}
-{"propertySlug":"change-target-type","path":"change/agent/file/rename-pages/rename-pages.change-agent.ts","id":"01a08337-0d7c-7cd3-bad9-c30420f68ccf"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file/add-if-not-present-file/add-if-not-present-file.change-mechanical-file.ts","id":"01a08188-1037-7ddd-b5cb-c727ac6ef590"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.ts","id":"01a07969-9123-7320-b8c9-3afd2dae9bfa"}
 {"propertySlug":"change-target-type","path":"change/mechanical/file/add/add-file-of-any-kind/add-file-of-any-kind.change-mechanical.ts","id":"01a081bf-3f33-77ca-96cc-29ff7017f563"}
