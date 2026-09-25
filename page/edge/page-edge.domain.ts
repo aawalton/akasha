@@ -4,7 +4,7 @@ export const pageEdge = {
   id: "01a049e9-651c-7005-9845-75ac1a5fb3a0",
   type: "page-type/domain",
   slug: "page-edge",
-  definition: "a reference from one page to another",
+  definition: "an edge from a page to another page",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
