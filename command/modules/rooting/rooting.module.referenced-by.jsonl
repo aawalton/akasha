@@ -69,6 +69,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/alan/learn-next/alan-learn-next.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/browser/screenshot/browser-screenshot.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/browser/test-verify-render/browser-test-verify-render.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/deploy/modules/ios-installing/deploy-ios-installing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/domain/modules/drawing/domain-drawing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/email/attachment/list/email-attachment-list.command.test.ts","typed":false,"deferred":false}

@@ -27,6 +27,7 @@ export const deploy = {
     "module/deploy-tree-pinning",
     "module/deploy-web-putting-up",
     "module/deploy-tree-sweeping",
+    "module/deploy-ios-installing",
   ],
   decisions: [
     {

@@ -17,7 +17,7 @@
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"alan/harness/mobile-cli/modules/testflight-deploy-script/testflight-deploy-script.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"mobile-app.module.code.ts","path":"command/pages/mobile/cut/record/mobile-cut-record.command.code.ts","typed":false,"deferred":false}

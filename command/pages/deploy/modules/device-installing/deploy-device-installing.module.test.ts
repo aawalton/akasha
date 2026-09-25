@@ -1,16 +1,24 @@
 import { expect, test } from "bun:test"
-import type { MobileApp } from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
+import {
+  DEFAULT_APP_SLUG,
+  type MobileApp,
+} from "akasha/alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.code.ts"
 import { OperationalError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
+import { alanwalton } from "akasha/code/ios-app/pages/alanwalton/alanwalton.ios-app.ts"
 import {
   INPUT,
   OPERATIONAL,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Ran } from "akasha/command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
 import {
+  appNamedIn,
   doneIn,
   installedOnDevice,
   scriptOf,
 } from "akasha/command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
+import { pagesAt } from "akasha/page/index/modules/commit-surface/commit-surface.module.code.ts"
+import { readingNone } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
+import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 
 const UDID = "00008030-000B0C0D0E0F1112"
 
@@ -56,6 +64,18 @@ test("an app whose page names no phone is refused rather than guessed at", async
 
   expect(answer.code).toBe(INPUT)
   expect(answer.refusals.join(" ")).toContain("names no phone")
+})
+
+test("an app is read from the pages handed in rather than from the checkout", async () => {
+  const answer = await installedOnDevice(DEFAULT_APP_SLUG, appNamedIn(readingNone()))
+
+  expect(answer.refusals.join(" ")).toContain("known apps:")
+})
+
+test("the pages a commit holds answer the app that commit holds", () => {
+  const pinned = pagesAt(codeRoot(), "HEAD")
+
+  expect(appNamedIn(pinned)(DEFAULT_APP_SLUG).bundleId).toBe(alanwalton.bundleId)
 })
 
 const PHONED = { ...QUIET, defaultDeviceUdid: UDID } as const satisfies MobileApp

@@ -222,5 +222,6 @@
 {"propertySlug":"import","fileName":"alanwalton.ios-app.ts","path":"alan/harness/mobile-cli/modules/mobile-app/mobile-app.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanwalton.ios-app.ts","path":"alan/web/routes/alan-web-apple-app-site-association/alan-web-apple-app-site-association.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanwalton.ios-app.ts","path":"code/ios-app/modules/app-building/app-building.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"alanwalton.ios-app.ts","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"alanwalton.ios-app.ts","path":"person/modules/push-apps/push-apps.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/ios-app/ios-app.page-type.ts","id":"01a05821-5723-7e65-88e2-045d3e49cb23"}

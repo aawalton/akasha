@@ -2162,6 +2162,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/holding/deploy-holding.module.ts","id":"01a0958d-5a26-70f4-b71a-0d770b87de98"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/image-pushing/deploy-image-pushing.module.ts","id":"01a08df4-ab5c-7ba2-beb9-acbb8bf0d944"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.ts","id":"01a090aa-b59e-76ef-b132-b9ef45af15d3"}
+{"propertySlug":"decision-kind","path":"command/pages/deploy/modules/ios-installing/deploy-ios-installing.module.ts","id":"01a0d9d6-9bf9-7b73-a16b-746429345f56"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.ts","id":"01a060e7-5945-7fc8-aab7-2db66ca0967f"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.ts","id":"01a05f90-94a7-7fc2-9a67-8a23a3e65539"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.ts","id":"01a08e07-611c-798a-bc99-55b321247e50"}

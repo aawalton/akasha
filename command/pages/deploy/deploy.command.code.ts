@@ -49,7 +49,6 @@ import {
   recordedEnding,
   recordedRefusal,
 } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
-import { installedOnDevice } from "akasha/command/pages/deploy/modules/device-installing/deploy-device-installing.module.code.ts"
 import {
   closureFor,
   closuresOf,
@@ -60,6 +59,7 @@ import {
 import { heldWhile } from "akasha/command/pages/deploy/modules/holding/deploy-holding.module.code.ts"
 import { pushedImage } from "akasha/command/pages/deploy/modules/image-pushing/deploy-image-pushing.module.code.ts"
 import { putUpInferenceService } from "akasha/command/pages/deploy/modules/inference-installing/deploy-inference-installing.module.code.ts"
+import { iosAppInstalled } from "akasha/command/pages/deploy/modules/ios-installing/deploy-ios-installing.module.code.ts"
 import { shipIosApp } from "akasha/command/pages/deploy/modules/ios-shipping/deploy-ios-shipping.module.code.ts"
 import {
   CLUSTER_FOUNDATION,
@@ -73,7 +73,6 @@ import {
   WEB_APP,
   WORKSTATION_SERVICE,
 } from "akasha/command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts"
-import { installedOnSimulator } from "akasha/command/pages/deploy/modules/simulator-installing/deploy-simulator-installing.module.code.ts"
 import { pinnedTree } from "akasha/command/pages/deploy/modules/tree-pinning/deploy-tree-pinning.module.code.ts"
 import {
   foundIn,
@@ -278,8 +277,9 @@ export async function deploy(
   if ("refused" in read) return refused(read.refused, DATA)
   const unfit = wrongIn(read.kind, slug, wanted)
   if (unfit !== null) return refused(unfit, INPUT)
-  if (read.kind === IOS_APP && wanted.device) return await installedOnDevice(slug)
-  if (read.kind === IOS_APP && wanted.simulator) return await installedOnSimulator(slug, given)
+  if (read.kind === IOS_APP && (wanted.device || wanted.simulator)) {
+    return await iosAppInstalled(slug, given, arrived, wanted.device)
+  }
   const follows = wanted.ref === null
   const onward = () => allowedAgain(page.maxWallSeconds, given.calledAs)
   if (sentToCluster(read.kind)) {

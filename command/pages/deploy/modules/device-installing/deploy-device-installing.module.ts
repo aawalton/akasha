@@ -26,6 +26,15 @@ export const deployDeviceInstalling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The app is read from the pages the deploy's commit holds rather than from the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The pages the app is read from are handed in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The native seam is synced before every build.",
     },
     {

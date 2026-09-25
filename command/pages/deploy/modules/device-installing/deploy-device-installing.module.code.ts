@@ -30,6 +30,7 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
+import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 
 const CONFIGURATION = "Debug"
 
@@ -53,6 +54,10 @@ const STEPS: readonly (readonly [string, string])[] = [
 ]
 
 type AppNamed = (slug: string) => MobileApp
+
+export function appNamedIn(pages: string | Reading): AppNamed {
+  return (slug) => resolveApp(slug, pages)
+}
 
 export function scriptOf(app: MobileApp, device: string): string {
   const appPath = `${iosAppDir(app, CHECKOUT_ROOT)}/build/Build/Products/${CONFIGURATION}-iphoneos/App.app`
@@ -135,7 +140,7 @@ async function deployed(
 
 export async function installedOnDevice(
   slug: string,
-  appNamed: AppNamed = resolveApp,
+  appNamed: AppNamed,
   ran: Ran = runSshResult,
   secret: Secret = readKeychainPassword
 ): Promise<Answer> {
