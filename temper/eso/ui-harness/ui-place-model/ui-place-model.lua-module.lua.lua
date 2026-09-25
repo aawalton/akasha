@@ -15,13 +15,13 @@ local ANCHOR_FRACTIONS = {
 
 local CT_LABEL = _G.CT_LABEL
 
-local ADVANCE = 0.5
+local PLACEHOLDER = "%$%(([%w_]+)%)"
 
-local LINE = 1.25
+local FONT_SAID = "^([^|]*)|?([^|]*)"
 
-local UNSAID_SIZE = 18
+local FACE_FILE = "([^/\\]+)%.%a+$"
 
-local SIZE_SAID = "^[^|]*|(%d+)"
+local CHARACTER = "[%z\1-\127\192-\255][\128-\191]*"
 
 local MARKUP = {
   { "|c%x%x%x%x%x%x", "" },
@@ -34,27 +34,64 @@ local MARKUP = {
 local placing = {}
 local place
 
-local function fontSize(font)
-  if type(font) ~= "string" then return UNSAID_SIZE end
+local faces, spellings, keptAt = {}, {}, "no folder handed over"
+
+function _G.__ui_faces(given, strings, at)
+  faces, spellings, keptAt = given, strings, at
+  local count = 0
+  for _ in pairs(given) do count = count + 1 end
+  return count
+end
+
+local function spelled(said)
+  return (string.gsub(tostring(said), PLACEHOLDER, function(key) return spellings[key] end))
+end
+
+local function refused(control, why)
+  error("`" .. tostring(control.uiName) .. "` " .. why .. ", so its text has no width here", 0)
+end
+
+local function faceOf(control)
+  local font = control.uiFont
+  if type(font) ~= "string" or font == "" then refused(control, "has text and no font") end
+  local face, size
   local lookup = _G.__ui_font
-  if lookup ~= nil then
-    local _, size = lookup(font)
-    if type(size) == "number" and size > 0 then return size end
+  if lookup ~= nil then face, size = lookup(font) end
+  if face == nil then face, size = string.match(spelled(font), FONT_SAID) end
+  local key = string.match(string.lower(spelled(face)), FACE_FILE)
+  local held = key ~= nil and faces[key] or nil
+  if held == nil then
+    refused(control, "has the font `" .. font .. "`, whose face is not kept in " .. keptAt ..
+      " (staging a window keeps the game's faces there)")
   end
-  return tonumber(string.match(font, SIZE_SAID)) or UNSAID_SIZE
+  local sized = tonumber(spelled(size))
+  if sized == nil or sized <= 0 then refused(control, "has the font `" .. font .. "`, which says no size") end
+  return held, sized
+end
+
+local function codeOf(one)
+  local first = string.byte(one, 1)
+  if #one == 1 then return first end
+  local code = first % (2 ^ (7 - #one))
+  for at = 2, #one do code = code * 64 + string.byte(one, at) % 64 end
+  return code
 end
 
 local function measured(control)
   local text = control.uiText
   if type(text) ~= "string" or text == "" then return 0, 0 end
   for _, one in ipairs(MARKUP) do text = string.gsub(text, one[1], one[2]) end
-  local size = fontSize(control.uiFont)
-  local longest, lines = 0, 0
+  local face, size = faceOf(control)
+  local advances, missing = face.advances, face.missing
+  local widest, lines = 0, 0
   for line in string.gmatch(text .. "\n", "(.-)\n") do
     lines = lines + 1
-    if #line > longest then longest = #line end
+    local wide = 0
+    for one in string.gmatch(line, CHARACTER) do wide = wide + (advances[codeOf(one)] or missing) end
+    if wide > widest then widest = wide end
   end
-  return longest * size * ADVANCE, lines * size * LINE
+  local scale = size / face.perEm
+  return widest * scale, lines * face.line * scale
 end
 
 local function spanned(control, width, height)

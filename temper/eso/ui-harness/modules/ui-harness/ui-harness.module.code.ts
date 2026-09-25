@@ -17,6 +17,10 @@ import {
   makeSandboxedLuaVm,
 } from "akasha/temper/eso/lua-runner/modules/sandboxed-lua-vm/sandboxed-lua-vm.module.code.ts"
 import {
+  esoArtDir,
+  esouiSourceDir,
+} from "akasha/temper/eso/path/modules/eso-paths/eso-paths.module.code.ts"
+import {
   answersLua,
   engineAnswersTable,
 } from "akasha/temper/eso/return/modules/engine-answers-seeding/engine-answers-seeding.module.code.ts"
@@ -29,6 +33,13 @@ import {
   engineStringsTable,
   stringsLua,
 } from "akasha/temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.code.ts"
+import {
+  FACES_UNDER,
+  type Face,
+  facesLua,
+  gameFontStrings,
+  keptFaces,
+} from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 import { z } from "zod"
 
 const LUA_MODULE = "lua-module"
@@ -238,6 +249,12 @@ export type UiHarness = {
 
 export type OpenUiHarnessOptions = {
   readonly bannedGlobals?: readonly string[]
+  readonly faces?: Readonly<Record<string, Face>>
+}
+
+function faceText(given: Readonly<Record<string, Face>> | undefined): string {
+  const at = join(esoArtDir(), FACES_UNDER)
+  return facesLua(given ?? keptFaces(at), gameFontStrings(esouiSourceDir()), at)
 }
 
 export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise<UiHarness> {
@@ -249,6 +266,7 @@ export async function openUiHarness(options: OpenUiHarnessOptions = {}): Promise
       GAME_CLOCK,
       ...constantTexts(),
       ...modelTexts(),
+      faceText(options.faces),
       colorText(),
       stringText(),
       ...returnTexts(),

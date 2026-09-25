@@ -7,5 +7,6 @@
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"temper/eso/path/modules/eso-paths/eso-paths.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"temper/eso/ui-harness/modules/game-art/game-art.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"temper/eso/ui-harness/modules/game-manifest/game-manifest.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"temper/eso/ui-harness/modules/ui-harness/ui-harness.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-paths.module.code.ts","path":"temper/eso/ui-harness/modules/ui-staging/ui-staging.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/eso/path/temper-eso-path.domain.ts","id":"01a06050-639d-78c1-a9ff-c6579f3deebd"}

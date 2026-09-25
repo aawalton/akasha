@@ -27,6 +27,19 @@ export const uiHarness = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The faces kept in the art cache are handed over after the models, with the game's font strings.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The faces are read for each harness, so a face kept since the last is measured.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller may hand its own faces over instead of the ones the cache keeps.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The functions the game documents are loaded after the models, so a model's own wins.",
     },
     {

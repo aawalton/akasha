@@ -1,4 +1,5 @@
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
+import type { Face } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 import {
   openUiHarness,
   type UiControl,
@@ -51,7 +52,47 @@ centered:SetDimensionConstraints(0, 0, 100, 100)
 
 local worded = WINDOW_MANAGER:CreateControl("TemperHeldWorded", frame, CT_LABEL)
 worded:SetText("a line of text far wider than its greatest")
+worded:SetFont("EsoUI/Common/Fonts/Univers57.otf|18")
 worded:SetDimensionConstraints(0, 500, 60, 0)
+`
+
+const FONTS = `return __ui_fonts({ ZoFontWinH3 = { face = "EsoUI/Common/Fonts/Univers67.slug", size = 22, effect = "soft-shadow-thick" } })`
+
+const PER_EM = 1000
+
+const LINE = 1200
+
+const ADVANCES: readonly (readonly [string, number])[] = [
+  ["P", 556],
+  ["r", 333],
+  ["o", 500],
+  ["b", 500],
+  ["e", 500],
+]
+
+const FACE: Face = {
+  perEm: PER_EM,
+  line: LINE,
+  missing: 250,
+  advances: new Map(
+    ADVANCES.map(([character, wide]): readonly [number, number] => [
+      character.codePointAt(0) ?? 0,
+      wide,
+    ])
+  ),
+}
+
+const SIZE = 20
+
+const MEASURED = `
+local window = WINDOW_MANAGER:CreateTopLevelWindow("TemperProbeMeasuring")
+local label = WINDOW_MANAGER:CreateControl("TemperProbeMeasuringLabel", window, CT_LABEL)
+label:SetText("Probe\\nPro")
+label:SetFont("EsoUI/Common/Fonts/Univers57.otf|${SIZE}")
+local unkept = WINDOW_MANAGER:CreateTopLevelWindow("TemperProbeUnkept")
+local lost = WINDOW_MANAGER:CreateControl("TemperProbeUnkeptLabel", unkept, CT_LABEL)
+lost:SetText("Probe")
+lost:SetFont("ZoFontNowhere")
 `
 
 function childNamed(control: UiControl, name: string): UiControl | undefined {
@@ -62,9 +103,11 @@ describe("ui-harness", () => {
   let harness: UiHarness
 
   beforeAll(async () => {
-    harness = await openUiHarness()
+    harness = await openUiHarness({ faces: { univers57: FACE, univers67: FACE } })
+    await harness.load(FONTS)
     await harness.load(ADDON)
     await harness.load(HELD)
+    await harness.load(MEASURED)
   })
 
   afterAll(async () => {
@@ -86,7 +129,21 @@ describe("ui-harness", () => {
     const window = await harness.snapshot("TemperProbeWindow")
     const title = window === null ? undefined : childNamed(window, "TemperProbeWindowTitle")
     expect(title?.text).toBe("Probe")
-    expect(title?.font).toBe("ZoFontWinH3")
+    expect(title?.font).toBe("EsoUI/Common/Fonts/Univers67.slug|22|soft-shadow-thick")
+  })
+
+  test("a label is as wide as its face's advances and as tall as its lines, at its size", async () => {
+    const window = await harness.snapshot("TemperProbeMeasuring")
+    const label = window === null ? undefined : childNamed(window, "TemperProbeMeasuringLabel")
+    const advanced = ADVANCES.reduce((all, [, wide]) => all + wide, 0)
+    expect(label?.width).toBeCloseTo((advanced * SIZE) / PER_EM)
+    expect(label?.height).toBeCloseTo((2 * LINE * SIZE) / PER_EM)
+  })
+
+  test("a label whose font names no face kept refuses to be measured", async () => {
+    await expect(harness.snapshot("TemperProbeUnkept")).rejects.toThrow(
+      /TemperProbeUnkeptLabel.*ZoFontNowhere/
+    )
   })
 
   test("an anchor says what it was anchored to", async () => {

@@ -24,13 +24,41 @@ export const uiPlaceModel = {
       statement: "A label stating no width or no height takes that measure from its text.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Text is measured by the advance the game's own face gives each character, at its font's size.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A line of text is as tall as its face's line, at its font's size.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The faces are the OpenType files the game ships beside its slug faces, kept in the art cache.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A placeholder in a font is filled from the game's font strings before it is read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A label whose font names no face kept, or no size, refuses rather than being measured.",
+    },
+    {
       decisionKind: "decision-kind/stopgap",
       statement:
-        "Text is measured as half its font's size a character, and a line as a quarter over that size.",
+        "A character its face lacks is measured as that face's missing glyph, not by a backup face.",
     },
     {
       decisionKind: "decision-kind/gap",
-      statement: "Text is measured by the widths the game's own font gives each character.",
+      statement: "Text is measured with the kerning the game gives each pair of characters.",
+    },
+    {
+      decisionKind: "decision-kind/gap",
+      statement: "A label's text wraps where the game wraps it, rather than only at a line break.",
     },
     {
       decisionKind: "decision-kind/departure",
