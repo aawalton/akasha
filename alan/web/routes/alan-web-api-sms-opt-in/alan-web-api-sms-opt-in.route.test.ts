@@ -4,15 +4,18 @@ import {
   consentWritten,
 } from "akasha/alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts"
 import type { Fetcher } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import { z } from "zod"
 
 const READ_AT = "d".repeat(40)
+
+const SENT_BODY = z.record(z.string(), z.unknown())
 
 type Sent = { readonly at: string; readonly body: Record<string, unknown> }
 
 function pagesAnswering(sent: Sent[]): Fetcher {
   return async (url, init) => {
     const at = url.slice(url.lastIndexOf("/"))
-    const body = JSON.parse(String(init.body)) as Record<string, unknown>
+    const body = SENT_BODY.parse(JSON.parse(String(init.body)))
     sent.push({ at, body })
     const said = at === "/read" ? { at: READ_AT, bodies: [], unplaced: [] } : { wrote: [] }
     return new Response(JSON.stringify(said), { status: 200 })
